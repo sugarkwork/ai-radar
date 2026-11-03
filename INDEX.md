@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 42 件 — リポジトリ 31, 記事 1, リンク集 8, プロンプト 2 / ⚑ 要確認 3 件
+収録 43 件 — リポジトリ 32, 記事 1, リンク集 8, プロンプト 2 / ⚑ 要確認 3 件
 
-## リポジトリ（31）
+## リポジトリ（32）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -37,11 +37,12 @@
 | [Stable Audio Tools](entries/tts-audio/stability-ai-stable-audio-tools.md) | 3,898 | 489 | 停滞 | 0 | 2026-11-01 | 2026-11-03 | 2026-11-03 | MIT |
 | [Essentia](entries/tts-audio/mtg-essentia.md) | 3,791 | 643 | 毎日 | 21 | 2026-10-22 | 2026-11-03 | 2026-11-03 | AGPL-3.0 |
 
-### エージェント基盤・スキル集（5）
+### エージェント基盤・スキル集（6）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
 | [Superpowers](entries/agent-framework/obra-superpowers.md) | 311,667 | 27,728 | 月次 | 3 | 2026-11-03 | 2026-11-03 | 2026-11-03 | MIT |
+| [Ponytail](entries/agent-framework/dietrichgebert-ponytail.md) | 183,697 | 10,136 | 毎日 | 100+ | 2026-10-29 | 2026-11-03 | 2026-11-03 | MIT |
 | [Impeccable](entries/agent-framework/pbakaus-impeccable.md) | 101,216 | 5,984 | 毎日 | 100+ | 2026-11-02 | 2026-11-03 | 2026-11-03 | Apache-2.0 |
 | [Open Duet](entries/agent-framework/anil-matcha-open-duet.md) | 6,686 | 843 | 毎日 | 100+ | 2026-11-03 | 2026-11-03 | 2026-11-03 | Apache-2.0 |
 | [Stageshow（benjitaylor/skills）](entries/agent-framework/benjitaylor-skills.md) | 1,276 | 87 | 月次 | 1 | 2026-10-31 | 2026-11-03 | 2026-11-03 | 未確認（リポジトリ全体の LICENSE なし。各スキル個別のライセンス表記） |

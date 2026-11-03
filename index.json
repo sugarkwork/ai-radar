@@ -1,5 +1,5 @@
 {
-  "count": 42,
+  "count": 43,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -82,6 +82,37 @@
       "type": "repo",
       "path": "entries/agent-framework/obra-superpowers.md",
       "summary": "コーディングエージェント向けの「開発方法論」を、合成可能なスキル群として配布する。"
+    },
+    {
+      "repo": "DietrichGebert/ponytail",
+      "name": "Ponytail",
+      "genre": "agent-framework",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "license": "MIT",
+      "language": "JavaScript",
+      "created": "2026-06-12",
+      "updated": "2026-10-29",
+      "added": "2026-11-03",
+      "first_seen": "2026-11-03",
+      "sources": [
+        "https://x.com/sumika45379/status/2117455482256515462"
+      ],
+      "flags": [],
+      "risk_notes": "",
+      "stars": 183697,
+      "forks": 10136,
+      "open_issues": 158,
+      "commits_30d": 100,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "size_kb": 13130,
+      "archived": false,
+      "fetched_at": "2026-11-03T22:53:33Z",
+      "last_release": "v5.3.3",
+      "last_release_at": "2026-10-29",
+      "type": "repo",
+      "path": "entries/agent-framework/dietrichgebert-ponytail.md",
+      "summary": "コードを書く前に「それは既にあるか」をエージェントに確認させるスキル。いきなり実装に入らず、次の順で問い、当てはまった所で止まる。"
     },
     {
       "repo": "pbakaus/impeccable",

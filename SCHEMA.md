@@ -21,6 +21,8 @@ url: 一次URL（prompt は空可）
 author: 著者・配布元（@handle かサイト名）
 source_post: <元の投稿URL>                        # 出典（X に限らない）
 sources: []            # 追加の参照URL（リプ欄のリンク等）
+first_seen: YYYY-MM-DD # 最初に観測した投稿の日付
+amplifiers: []         # 後から同じものを紹介した投稿（追従・転載の記録）
 added: YYYY-MM-DD
 flags: []              # low-quality / prompt-injection / malicious / unverified / dead-link
 risk_notes: ""         # フラグの理由を1行で
