@@ -2,18 +2,20 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 43 件 — リポジトリ 32, 記事 1, リンク集 8, プロンプト 2 / ⚑ 要確認 3 件
+収録 63 件 — リポジトリ 52, 記事 1, リンク集 8, プロンプト 2 / ⚑ 要確認 4 件
 
-## リポジトリ（32）
+## リポジトリ（52）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### 動画生成パイプライン（10）
+### 動画生成パイプライン（13）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
+| [MoneyPrinterTurbo](entries/video-gen/harry0703-moneyprinterturbo.md) | 138,303 | 22,075 | 毎日 | 100+ | 2026-11-02 | 2026-11-03 | 2026-11-03 | MIT |
 | [HyperFrames](entries/video-gen/heygen-hyperframes.md) | 78,151 | 7,203 | 毎日 | 100+ | 2026-11-03 | 2026-11-03 | 2026-11-03 | Apache-2.0 |
 | [OpenMontage](entries/video-gen/calesthio-openmontage.md) | 75,779 | 10,024 | 毎日 | 45 | 2026-10-28 | 2026-11-03 | 2026-11-03 | AGPL-3.0 |
+| [Pixelle-Video](entries/video-gen/ath-maas-pixelle-video.md) | 29,735 | 4,314 | 停滞 | 0 | 2026-06-14 | 2026-11-03 | 2026-11-03 | Apache-2.0 |
 | [Anatomy](entries/video-gen/wheresryan22-anatomy.md) | 24,347 | 2,032 | 毎日 | 100+ | 2026-10-18 | 2026-11-03 | 2026-11-03 | MIT |
 | [Lemo-Opuscar](entries/video-gen/lemomo-ai-lemo-opuscar.md) | 11,571 | 1,327 | 毎日 | 60 | 2026-10-31 | 2026-11-03 | 2026-11-03 | MIT (コード) / CC BY 4.0 (スタイル記述) |
 | [huashu-motion（花叔）](entries/video-gen/alchaincyf-huashu-motion.md) | 2,205 | 215 | 週次 | 15 | 2026-10-22 | 2026-11-03 | 2026-11-03 | MIT |
@@ -22,22 +24,39 @@
 | [vibe-knowledge-film](entries/video-gen/heychengc-vibe-knowledge-film.md) ⚑ | 977 | 98 | 週次 | 9 | 2026-10-13 | 2026-11-03 | 2026-11-03 | 未確認（GitHub API は NOASSERTION） |
 | [Infinite Creation（Agent无限创作）](entries/video-gen/swotatmk-infinite-creation.md) | 193 | 46 | 毎日 | 100+ | 2026-11-03 | 2026-11-03 | 2026-11-03 | MIT |
 | [H3 Continuity Studio](entries/video-gen/kadobot-comfyui-h3-continuity-studio.md) | 66 | 8 | 週次 | 18 | 2026-11-03 | 2026-11-03 | 2026-11-03 | MIT |
+| [batch-video-plugin](entries/video-gen/zysen1-batch-video-plugin.md) | 42 | 17 | 月次 | 2 | 2026-11-01 | 2026-11-03 | 2026-11-03 | MIT |
 
-### 音声・TTS（9）
+### 音声・TTS（11）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
 | [Whisper](entries/tts-audio/openai-whisper.md) | 111,860 | 13,560 | 停滞 | 0 | 2026-08-31 | 2026-11-03 | 2026-11-03 | MIT |
+| [VoiceStudio](entries/tts-audio/debpalash-voicestudio.md) | 100,012 | 11,075 | 毎日 | 100+ | 2026-11-03 | 2026-11-03 | 2026-11-03 | AGPL-3.0 |
 | [Coqui TTS](entries/tts-audio/coqui-ai-tts.md) | 46,180 | 6,161 | 停滞 | 0 | 2024-08-16 | 2026-11-03 | 2026-11-03 | MPL-2.0 |
 | [Bark](entries/tts-audio/suno-ai-bark.md) | 39,290 | 4,660 | 停滞 | 0 | 2024-08-19 | 2026-11-03 | 2026-11-03 | MIT |
 | [RVC (Retrieval-based Voice Conversion WebUI)](entries/tts-audio/rvc-project-retrieval-based-voice-conversion-webui.md) | 39,029 | 5,343 | 停滞 | 0 | 2026-08-04 | 2026-11-03 | 2026-11-03 | MIT |
 | [so-vits-svc](entries/tts-audio/svc-develop-team-so-vits-svc.md) | 28,067 | 5,015 | 停滞 | 0 | 2023-11-11 | 2026-11-03 | 2026-11-03 | AGPL-3.0 |
 | [AudioCraft / MusicGen](entries/tts-audio/facebookresearch-audiocraft.md) | 23,812 | 2,714 | 停滞 | 0 | 2026-03-03 | 2026-11-03 | 2026-11-03 | MIT |
+| [OmniVoice](entries/tts-audio/k2-fsa-omnivoice.md) | 16,256 | 2,379 | 停滞 | 0 | 2026-11-02 | 2026-11-03 | 2026-11-03 | Apache-2.0 |
 | [Demucs](entries/tts-audio/facebookresearch-demucs.md) | 10,402 | 1,670 | 停滞 | 0 | 2024-04-24 | 2026-11-03 | 2026-11-03 | MIT |
 | [Stable Audio Tools](entries/tts-audio/stability-ai-stable-audio-tools.md) | 3,898 | 489 | 停滞 | 0 | 2026-11-01 | 2026-11-03 | 2026-11-03 | MIT |
 | [Essentia](entries/tts-audio/mtg-essentia.md) | 3,791 | 643 | 毎日 | 21 | 2026-10-22 | 2026-11-03 | 2026-11-03 | AGPL-3.0 |
 
-### エージェント基盤・スキル集（6）
+### その他（9）
+
+| 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
+|---|---:|---:|---|---:|---|---|---|---|
+| [Kronos](entries/other/shiyu-coder-kronos.md) | 46,488 | 7,660 | 停滞 | 0 | 2026-04-13 | 2026-11-03 | 2026-11-03 | MIT |
+| [CCXT](entries/other/ccxt-ccxt.md) | 44,704 | 8,940 | 毎日 | 100+ | 2026-11-03 | 2026-11-03 | 2026-11-03 | MIT |
+| [Heretic](entries/other/p-e-w-heretic.md) | 38,741 | 4,377 | 毎日 | 25 | 2026-11-03 | 2026-11-03 | 2026-11-03 | AGPL-3.0 |
+| [awesome-quant](entries/other/wilsonfreitas-awesome-quant.md) | 30,453 | 4,291 | 毎日 | 57 | 2026-11-03 | 2026-11-03 | 2026-11-03 | unknown |
+| [backtrader](entries/other/mementum-backtrader.md) | 23,659 | 5,319 | 停滞 | 0 | 2024-08-19 | 2026-11-03 | 2026-11-03 | GPL-3.0 |
+| [Agent Sprite Forge](entries/other/0x0funky-agent-sprite-forge.md) ⚑ | 4,923 | 485 | 毎日 | 100+ | 2026-10-06 | 2026-11-03 | 2026-11-03 | MIT |
+| [pixelfx](entries/other/patch-gg-pixelfx.md) | 3,966 | 543 | 週次 | 8 | 2026-10-31 | 2026-11-03 | 2026-11-03 | MIT |
+| [QuantSkills](entries/other/quantskills-quantskills.md) | 2,521 | 224 | 毎日 | 61 | 2026-11-03 | 2026-11-03 | 2026-11-03 | unknown |
+| [ComfyUI-MossPanelDataset](entries/other/sepiablue-ai-comfyui-mosspaneldataset.md) | 32 | 5 | 週次 | 7 | 2026-11-02 | 2026-11-03 | 2026-11-03 | MIT |
+
+### エージェント基盤・スキル集（7）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -47,13 +66,25 @@
 | [Open Duet](entries/agent-framework/anil-matcha-open-duet.md) | 6,686 | 843 | 毎日 | 100+ | 2026-11-03 | 2026-11-03 | 2026-11-03 | Apache-2.0 |
 | [Stageshow（benjitaylor/skills）](entries/agent-framework/benjitaylor-skills.md) | 1,276 | 87 | 月次 | 1 | 2026-10-31 | 2026-11-03 | 2026-11-03 | 未確認（リポジトリ全体の LICENSE なし。各スキル個別のライセンス表記） |
 | [Grok Bot Field Notes](entries/agent-framework/unicodef1wn-grokbot-field-notes.md) | 662 | 94 | 月次 | 0 | 2026-09-20 | 2026-11-03 | 2026-11-03 | MIT |
+| [BetterSearch](entries/agent-framework/ry0narushima-bettersearch.md) | 40 | 4 | 週次 | 10 | 2026-10-18 | 2026-11-03 | 2026-11-03 | MIT |
 
-### 3D・モーション（2）
+### 3D・モーション（5）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
 | [MCP for Blender](entries/3d-motion/ahujasid-mcp-for-blender.md) | 33,172 | 3,008 | 毎日 | 25 | 2026-10-29 | 2026-11-03 | 2026-11-03 | MIT |
+| [floorplan-3d](entries/3d-motion/wy51ai-floorplan-3d.md) | 3,393 | 707 | 月次 | 0 | 2026-10-02 | 2026-11-03 | 2026-11-03 | MIT |
 | [teardown](entries/3d-motion/elvarofficial-teardown.md) | 1,530 | 235 | 月次 | 2 | 2026-10-31 | 2026-11-03 | 2026-11-03 | MIT |
+| [Claude Animated Shorts](entries/3d-motion/mromidev-claude-animated-shorts.md) | 1,195 | 270 | 月次 | 2 | 2026-11-01 | 2026-11-03 | 2026-11-03 | MIT |
+| [Ultra Water](entries/3d-motion/humpalumps-ultra-water.md) | 617 | 86 | 毎日 | 20 | 2026-11-02 | 2026-11-03 | 2026-11-03 | MIT |
+
+### モデル推論・配信（3）
+
+| 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
+|---|---:|---:|---|---:|---|---|---|---|
+| [OmniRoute](entries/model-serving/cheaper-inference-omniroute.md) | 84,278 | 12,649 | 毎日 | 100+ | 2026-11-03 | 2026-11-03 | 2026-11-03 | MIT |
+| [Strata](entries/model-serving/niko1221-strata.md) | 39,048 | 4,236 | 毎日 | 100+ | 2026-11-02 | 2026-11-03 | 2026-11-03 | MIT |
+| [kimi-k3-in-c](entries/model-serving/fareedkhan-dev-kimi-k3-in-c.md) ⚑ | 9,858 | 1,586 | 月次 | 0 | 2026-10-02 | 2026-11-03 | 2026-11-03 | Apache-2.0 |
 
 ### コーディングエージェント（2）
 
@@ -62,18 +93,17 @@
 | [CodeGraph](entries/coding-agent/colbymchenry-codegraph.md) | 76,377 | 5,078 | 毎日 | 100+ | 2026-11-01 | 2026-11-03 | 2026-11-03 | MIT |
 | [Craft Anything](entries/coding-agent/storytold-craft-anything.md) | 6,979 | 1,186 | 毎日 | 100+ | 2026-11-03 | 2026-11-03 | 2026-11-03 | Apache-2.0 |
 
-### その他（2）
+### プロンプト（デザイン/UI）（1）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
-| [Agent Sprite Forge](entries/other/0x0funky-agent-sprite-forge.md) ⚑ | 4,923 | 485 | 毎日 | 100+ | 2026-10-06 | 2026-11-03 | 2026-11-03 | MIT |
-| [pixelfx](entries/other/patch-gg-pixelfx.md) | 3,966 | 543 | 週次 | 8 | 2026-10-31 | 2026-11-03 | 2026-11-03 | MIT |
+| [handraw-style](entries/prompt-design/yang0-handraw-style.md) | 7,005 | 812 | 毎日 | 67 | 2026-11-03 | 2026-11-03 |  | NOASSERTION |
 
-### モデル推論・配信（1）
+### RAG・検索（1）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
-| [Strata](entries/model-serving/niko1221-strata.md) | 39,048 | 4,236 | 毎日 | 100+ | 2026-11-02 | 2026-11-03 | 2026-11-03 | MIT |
+| [OpenKB](entries/rag/vectifyai-openkb.md) | 4,846 | 503 | 停滞 | 0 | 2026-07-22 | 2026-11-03 |  | Apache-2.0 |
 
 ## プロンプト（2）
 
@@ -118,5 +148,6 @@
 ## ⚑ 要確認
 
 - [1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md) — unverified / X の記事取得でコードブロック（プロンプト雛形・位置合わせスクリプト・Blender スクリプト）が欠落。数値は著者の自己申告で独立検証なし。
+- [kimi-k3-in-c](entries/model-serving/fareedkhan-dev-kimi-k3-in-c.md) — unverified / 1.56TBのチェックポイントを8.24GBのRAMで動かすという主張。数値は作者の docs/data のみで、独立した再現・検証はない。
 - [Agent Sprite Forge](entries/other/0x0funky-agent-sprite-forge.md) — unverified / 元ポストは「ゲームエンジンへの取り込みは未確認」と留保するが、README は Godot/Aseprite/Tiled/LDtk 書き出しを検証済みと明記。実機検証は未実施。
 - [vibe-knowledge-film](entries/video-gen/heychengc-vibe-knowledge-film.md) — unverified / ライセンス未確認（API は NOASSERTION、標準ライセンスファイル無し）。参照サンプルの転用可否も不明。
