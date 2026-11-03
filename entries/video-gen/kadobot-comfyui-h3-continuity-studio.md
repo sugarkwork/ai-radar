@@ -1,0 +1,70 @@
+---
+repo: KadoBOT/ComfyUI-H3-Continuity-Studio
+name: H3 Continuity Studio
+genre: video-gen
+url: https://github.com/KadoBOT/ComfyUI-H3-Continuity-Studio
+license: MIT
+stars: 66
+language: Python
+created: 2026-11-02
+updated: 2026-11-03
+added: 2026-11-03
+sources:
+  - https://x.com/superfang119/status/2117545628398162003
+  - https://x.com/superfang119/status/2117634030393040927
+forks: 8
+open_issues: 2
+commits_30d: 18
+commits_90d: 18
+commit_cadence: weekly
+size_kb: 4476
+archived: false
+fetched_at: "2026-11-03T15:43:19Z"
+last_release: v0.4.0
+last_release_at: 2026-11-03
+---
+
+# H3 Continuity Studio
+
+## 出来ること
+
+- MiniMax H3 で複数ショットの連続映像を作るための ComfyUI カスタムノード群。**Timeline** でクリップを並べ、連続するクリップ間でコンテキストを引き継ぐ。
+- **Visual Memory**: 前のクリップの任意の瞬間を選び、後のショット（別カメラアングル、屋外シーンを挟んだ後でも）へ持ち込める。これが本リポジトリの中心機能。
+- **H3 Story**: OpenAI 互換エンドポイント（ローカル／クラウド）に接続し、Timeline の計画とプロンプト記述を書かせる。任意機能。
+- **Studio**: story / reference / timeline の編集 UI。加えて、保存済みセグメント、スチル、H3 コンテキストウィンドウ用のノードを含む。
+- 継続性チェック用のリファレンス（`docs/CONTINUITY-CHECK.md`）と、外部 Timeline 連携（`docs/EXTERNAL-TIMELINE.md`）の資料を同梱。
+
+## 目的・背景
+
+MiniMax H3 で長尺・多ショットの物語映像を作ると、ショット間で人物・小道具・空間がずれる。その連続性を ComfyUI 内で扱うために作られたノードパック。作者は KadoBOT、MIT。2026-11-02 作成と極めて新しく、v0.1.0 時点でデモ動画（2分弱のコンテスト版とフル版）を Releases で配布している。ドキュメントサイトは GitHub Pages（kadobot.github.io/ComfyUI-H3-Continuity-Studio/）。
+
+## 依存関係
+
+- 稼働する ComfyUI（MiniMax H3 対応版）と H3 のモデル一式（diffusion モデル、text encoder、video VAE、audio VAE、任意で LoRA）。
+- `requirements.txt` を **ComfyUI と同じ Python 環境**で入れる。Windows ポータブル版は `python_embeded/python.exe` を使う。
+- Story 機能は別途 OpenAI 互換の言語モデルエンドポイント設定が必要。
+- Context Windows 機能はコアに MiniMax H3 Context Windows ノードを含む ComfyUI バージョンが必要。
+- モデル重みとプロバイダ認証情報は同梱されない（自動ダウンロードもしない）。
+
+## 実行条件
+
+- GPU と H3 用モデルファイルが必須。必要 VRAM は選ぶ H3 モデル次第で、ノードパック側は規定していない。
+- **MiniMax H3 のプロンプトガイド（`base-en.txt` / `ref-en.txt`）は公開リリースに含まれない**。正規に入手済みの場合は `h3_continuity/h3_guide/` に置くと有効化される。無い場合も動作はするが、同梱の instruction bundle がガイド欠落を報告する。
+- H3 モデルとガイドは MiniMax の利用条件（地域制限を含む）に従う。
+- 既存インストールと並置すると同一ノード／ルートが二重登録されるため、上書き設置は禁止（README 明記）。
+- ソースは CPU のみの ComfyUI で起動確認済み。生成には GPU が要る。
+
+## 最短手順
+
+```bash
+cd ComfyUI/custom_nodes
+git clone https://github.com/KadoBOT/ComfyUI-H3-Continuity-Studio
+cd ComfyUI-H3-Continuity-Studio
+python -m pip install -r requirements.txt   # ComfyUI と同じ Python で
+# ComfyUI を再起動し、examples/h3_story_studio.json を読み込む
+# ローダーノードで手元の H3 モデル／VAE／text encoder を選択して Timeline を追加
+```
+
+## 変更履歴
+
+- 2026-11-03: 初回登録（star 64 / pushed 2026-11-03 / v0.1.0）

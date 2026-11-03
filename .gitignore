@@ -1,0 +1,8 @@
+.DS_Store
+*.tmp
+__pycache__/
+.research/state.json
+.research/state.tmp
+.research/queue/*.json
+.research/log/*.log
+.research/
