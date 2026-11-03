@@ -44,7 +44,7 @@
 | [Superpowers](entries/agent-framework/obra-superpowers.md) | 311,667 | 27,728 | 月次 | 3 | 2026-11-03 | 2026-11-03 | 2026-11-03 | MIT |
 | [Impeccable](entries/agent-framework/pbakaus-impeccable.md) | 101,216 | 5,984 | 毎日 | 100+ | 2026-11-02 | 2026-11-03 | 2026-11-03 | Apache-2.0 |
 | [Open Duet](entries/agent-framework/anil-matcha-open-duet.md) | 6,686 | 843 | 毎日 | 100+ | 2026-11-03 | 2026-11-03 | 2026-11-03 | Apache-2.0 |
-| [Stageshow（benjitaylor/skills）](entries/agent-framework/benjitaylor-skills.md) | 1,255 | 85 | 月次 | 1 | 2026-10-31 | 2026-11-03 | 2026-11-03 | 未確認（リポジトリ全体の LICENSE なし。各スキル個別のライセンス表記） |
+| [Stageshow（benjitaylor/skills）](entries/agent-framework/benjitaylor-skills.md) | 1,276 | 87 | 月次 | 1 | 2026-10-31 | 2026-11-03 | 2026-11-03 | 未確認（リポジトリ全体の LICENSE なし。各スキル個別のライセンス表記） |
 | [Grok Bot Field Notes](entries/agent-framework/unicodef1wn-grokbot-field-notes.md) | 662 | 94 | 月次 | 0 | 2026-09-20 | 2026-11-03 | 2026-11-03 | MIT |
 
 ### 3D・モーション（2）

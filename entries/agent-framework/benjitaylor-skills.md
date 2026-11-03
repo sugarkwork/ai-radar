@@ -13,15 +13,15 @@ source_post: "https://x.com/tetumemo/status/2117618086392316274"
 sources:
   - https://x.com/shannholmberg/status/2116957574008590445
   - https://benji.org/stageshow
-stars: 1255
-forks: 85
+stars: 1276
+forks: 87
 open_issues: 2
 commits_30d: 1
 commits_90d: 1
 commit_cadence: monthly
 size_kb: 1146
 archived: false
-fetched_at: "2026-11-03T15:48:51Z"
+fetched_at: "2026-11-03T16:46:45Z"
 ---
 
 # Stageshow（benjitaylor/skills）
