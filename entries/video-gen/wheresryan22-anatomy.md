@@ -4,7 +4,7 @@ name: "Anatomy"
 genre: "video-gen"
 url: "https://github.com/wheresryan22/anatomy"
 license: "MIT"
-stars: 24347
+stars: 24536
 language: "JavaScript"
 created: "2026-10-08"
 updated: 2026-10-18
@@ -13,14 +13,14 @@ sources:
   - "https://x.com/daaihq/status/2117446567284367459"
 flags: []
 risk_notes: ""
-forks: 2032
+forks: 2044
 open_issues: 71
 commits_30d: 100
 commits_90d: 100
 commit_cadence: daily
 size_kb: 12817
 archived: false
-fetched_at: "2026-11-03T15:43:31Z"
+fetched_at: "2026-11-04T04:47:08Z"
 last_release: v1.1.0
 last_release_at: 2026-10-12
 ---
