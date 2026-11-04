@@ -46,7 +46,7 @@ def snippet(text: str, terms: list[str], width: int = 90) -> str:
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("terms", nargs="+")
-    ap.add_argument("--type", choices=["repo", "prompt", "link", "article"])
+    ap.add_argument("--type", choices=["repo", "prompt", "link", "model", "article"])
     ap.add_argument("--genre")
     ap.add_argument("--min-stars", type=int)
     ap.add_argument("--limit", type=int, default=15)

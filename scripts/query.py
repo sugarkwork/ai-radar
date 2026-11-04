@@ -37,7 +37,7 @@ def within(value: str | None, days: int) -> bool:
 
 def main() -> int:
     ap = argparse.ArgumentParser()
-    ap.add_argument("--type", choices=["repo", "prompt", "link", "article"])
+    ap.add_argument("--type", choices=["repo", "prompt", "link", "model", "article"])
     ap.add_argument("--genre")
     ap.add_argument("--min-stars", type=int)
     ap.add_argument("--min-forks", type=int)

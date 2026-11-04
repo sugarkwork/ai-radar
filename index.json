@@ -1,5 +1,5 @@
 {
-  "count": 111,
+  "count": 118,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -1311,6 +1311,36 @@
       "summary": "Kimi K3（2.78兆パラメータ）の推論を C99 だけで実装したエンジン。BLAS・推論フレームワーク・GPU を一切使わない。エンジン本体は 176KB。"
     },
     {
+      "repo": "Prefrontal-AI/latent-sparse-attention",
+      "name": "Latent Sparse Attention (LSA)",
+      "genre": "model-serving",
+      "url": "https://github.com/Prefrontal-AI/latent-sparse-attention",
+      "author": "Prefrontal AI",
+      "license": "Apache-2.0",
+      "stars": 331,
+      "language": "Python",
+      "created": "2026-10-27",
+      "updated": "2026-11-03",
+      "added": "2026-11-04",
+      "first_seen": "2026-11-03",
+      "source_post": "https://x.com/_avichawla/status/2117578508918772134",
+      "sources": [
+        "https://arxiv.org/abs/2610.42147",
+        "https://x.com/QwenAIFans/status/2117537750689947650"
+      ],
+      "forks": 39,
+      "open_issues": 5,
+      "commits_30d": 2,
+      "commits_90d": 2,
+      "commit_cadence": "monthly",
+      "size_kb": 3761,
+      "archived": false,
+      "fetched_at": "2026-11-04T06:33:34Z",
+      "type": "repo",
+      "path": "entries/model-serving/prefrontal-ai-latent-sparse-attention.md",
+      "summary": "**超長文脈のための疎な注意機構**。キーを学習された潜在空間で階層的にクラスタリングし、各クエリは個々のキーではなく**クラスタの重心**を採点して、選んだ長距離キーだけを見る。FAISS を使ったクラスタベースのベクトル検索を attention の内側でやるイメージ。"
+    },
+    {
       "repo": "JakeATX/llamAmpere",
       "name": "llamAmpere",
       "genre": "model-serving",
@@ -1825,6 +1855,36 @@
       "summary": "ComfyUI のカスタムノード。196枚の見本から漫画のコマ割り（2〜6コマ）を画像で選び、人物・場面・セリフを専用欄に入力して MOSS-Image に渡す。配置ごとのワークフローを探したり、JSON や座標を手書きしたりする必要がない。"
     },
     {
+      "type": "model",
+      "model": "ML-Intern-lab/Qwen3.5-0.8B-weight-space-programming",
+      "name": "Qwen3.5-0.8B weight-space-programming",
+      "genre": "other",
+      "url": "https://huggingface.co/ML-Intern-lab/Qwen3.5-0.8B-weight-space-programming",
+      "author": "ML Intern lab（@_akhaliq ほか）",
+      "license": "Apache-2.0",
+      "base_model": [
+        "Qwen/Qwen3.5-0.8B"
+      ],
+      "format": "safetensors",
+      "size": "0.8B パラメータ（transformers 形式）",
+      "downloads": 35,
+      "likes": 45,
+      "created": "2026-11-02",
+      "updated": "2026-11-03",
+      "added": "2026-11-04",
+      "first_seen": "2026-11-03",
+      "source_post": "https://x.com/HuggingModels/status/2117748410623427041",
+      "sources": [
+        "https://rikiyat.github.io/blog/weight-space-programming/",
+        "https://huggingface.co/spaces/akhaliq/weight-space-programming-demo"
+      ],
+      "pricing": "free",
+      "pricing_detail": "重み無料（Apache-2.0）",
+      "signup_required": false,
+      "path": "models/other/ml-intern-lab-qwen3-5-0-8b-weight-space-programming.md",
+      "summary": "**学習せずに重みを直接編集して、モデルの病的な挙動を直したチェックポイント**。Qwen3.5-0.8B が数学問題でトークン上限までループする症状を、勾配降下も微調整も使わずに修正している。"
+    },
+    {
       "repo": "nidhinjs/prompt-master",
       "name": "prompt-master",
       "genre": "prompt-design",
@@ -2318,6 +2378,34 @@
       "type": "repo",
       "path": "entries/tts-audio/mtg-essentia.md",
       "summary": "音声・音楽の解析ライブラリ（C++ 実装、Python バインディング付き）。BPM・キー・コード・ラウドネス・スペクトル特徴・MFCC・オンセット検出など数百のアルゴリズムを提供。"
+    },
+    {
+      "type": "model",
+      "model": "third-intelligence/Haas-ja-v1.0",
+      "name": "Haas-ja-v1.0",
+      "genre": "tts-audio",
+      "url": "https://huggingface.co/third-intelligence/Haas-ja-v1.0",
+      "author": "Third Intelligence",
+      "license": "Apache-2.0",
+      "base_model": [],
+      "format": "nemo",
+      "size": "615.8M パラメータ（.nemo 1ファイル）",
+      "downloads": 1532,
+      "likes": 56,
+      "created": "2026-10-08",
+      "updated": "2026-10-30",
+      "added": "2026-11-04",
+      "first_seen": "2026-11-04",
+      "source_post": "https://x.com/HuggingModels/status/2117771059265225040",
+      "sources": [
+        "https://github.com/third-intelligence/Haas-ASR",
+        "https://huggingface.co/datasets/third-intelligence/asr-ja-bench"
+      ],
+      "pricing": "free",
+      "pricing_detail": "重み無料（Apache-2.0）",
+      "signup_required": false,
+      "path": "models/tts-audio/third-intelligence-haas-ja-v1-0.md",
+      "summary": "**日本語音声認識（ASR）モデル**。NVIDIA Parakeet-TDT 系の構成（FastConformer エンコーダ＋ TDT デコーダ）で、予測ネットワークの LSTM を **Kimi Delta Attention（KDA）** に置き換えている。"
     },
     {
       "repo": "harry0703/MoneyPrinterTurbo",
@@ -3007,6 +3095,123 @@
       "type": "repo",
       "path": "entries/video-gen/gmpetrov-agent-screenplay.md",
       "summary": "エージェントに「こういうデモ動画を作って」と頼むと、対象サイト（自社でも他人のものでも）やデスクトップアプリを操作し、**演出付きのスクリーンレコーディング**を作る。"
+    },
+    {
+      "type": "model",
+      "model": "localai0301/Anima-RGBA",
+      "name": "Anima RGBA",
+      "genre": "video-gen",
+      "url": "https://huggingface.co/localai0301/Anima-RGBA",
+      "author": "localai0301",
+      "license": "Apache-2.0",
+      "base_model": [
+        "circlestone-labs/Anima"
+      ],
+      "format": "safetensors",
+      "size": "VAE 508 MB / LoRA 184 MB",
+      "downloads": 8,
+      "likes": 37,
+      "created": "2026-11-02",
+      "updated": "2026-11-03",
+      "added": "2026-11-04",
+      "first_seen": "2026-11-04",
+      "source_post": "https://x.com/UNfukashigi/status/2117818752847036487",
+      "sources": [],
+      "pricing": "free",
+      "pricing_detail": "重み無料（Apache-2.0）",
+      "signup_required": false,
+      "path": "models/video-gen/localai0301-anima-rgba.md",
+      "summary": "アニメ画像モデル **Anima** で、**透過（RGBA）画像を生成**するための VAE と LoRA のセット。"
+    },
+    {
+      "type": "model",
+      "model": "WepeNerd/H3_Ripple",
+      "name": "H3 Ripple",
+      "genre": "video-gen",
+      "url": "https://huggingface.co/WepeNerd/H3_Ripple",
+      "author": "WepeNerd",
+      "license": "unknown",
+      "format": "safetensors",
+      "size": "0.30 GB",
+      "downloads": 115,
+      "likes": 33,
+      "created": "2026-10-30",
+      "updated": "2026-10-30",
+      "added": "2026-11-04",
+      "first_seen": "2026-11-03",
+      "source_post": "https://x.com/mapte_fireball/status/2117523266122465557",
+      "sources": [
+        "https://wepenerd.github.io/ComfyUI-WepeNerd/",
+        "https://github.com/WepeNerd/ComfyUI-WepeNerd"
+      ],
+      "pricing": "free",
+      "pricing_detail": "重み無料（ライセンス表記なし）",
+      "signup_required": false,
+      "path": "models/video-gen/wepenerd-h3-ripple.md",
+      "summary": "**MiniMax H3 FL2VA 用の LoRA**。既存の動画ショットから1〜2枚のアンカーフレームを選び、画像編集で直した内容を、指定した区間の全フレームへ伝播させる。"
+    },
+    {
+      "type": "model",
+      "model": "PrunaAI/P-H3-Image",
+      "name": "P-H3-Image",
+      "genre": "video-gen",
+      "url": "https://huggingface.co/PrunaAI/P-H3-Image",
+      "author": "PrunaAI",
+      "license": "other",
+      "license_name": "minimax-h3-community-license-agreement",
+      "base_model": [
+        "MiniMaxAI/MiniMax-H3"
+      ],
+      "format": "diffusers",
+      "size": "bf16 約100GB（transformer 66GB＋text encoder 9GB＋upsampler 19GB＋VAE 5.6GB）/ Comfy版 int8 21GB・w4a8 13GB",
+      "downloads": 111,
+      "likes": 65,
+      "created": "2026-10-27",
+      "updated": "2026-11-03",
+      "added": "2026-11-04",
+      "first_seen": "2026-11-03",
+      "source_post": "https://x.com/alacheng/status/2117768798023397467",
+      "sources": [
+        "https://huggingface.co/PrunaAI/P-H3-Image-Comfy",
+        "https://www.pruna.ai/blog/oss-p-h3-image-launch"
+      ],
+      "pricing": "free",
+      "pricing_detail": "重み無料（MiniMax-H3 Community License）",
+      "signup_required": false,
+      "path": "models/video-gen/prunaai-p-h3-image.md",
+      "summary": "動画モデル **MiniMax-H3** を画像生成・画像編集モデルに転用したもの。PrunaAI が H3 から蒸留・再構成し、約7分の1のサイズ・約5倍の速度（同社比較）を主張している。"
+    },
+    {
+      "type": "model",
+      "model": "Pika-Labs/Pika-H3-Flex-Turbo-LoRA",
+      "name": "Pika H3 Flex Turbo LoRA",
+      "genre": "video-gen",
+      "url": "https://huggingface.co/Pika-Labs/Pika-H3-Flex-Turbo-LoRA",
+      "author": "Pika Labs（LoRA 制作は @_akhaliq）",
+      "license": "other",
+      "license_name": "minimax-h3-community-license-agreement",
+      "base_model": [
+        "Pika-Labs/Pika-H3-Flex",
+        "lightx2v/Minimax-h3-Turbo",
+        "MiniMaxAI/MiniMax-H3",
+        "WarmBloodAban/Minimax-h3_Singularity",
+        "Iwannapose/minimax_h3_pdmd_2nfe_comfyui"
+      ],
+      "format": "safetensors",
+      "size": "3.9 GB（本編5種）/ 0.31 GB（lite r32）",
+      "downloads": 29390,
+      "likes": 103,
+      "created": "2026-10-29",
+      "updated": "2026-10-30",
+      "added": "2026-11-04",
+      "first_seen": "2026-11-04",
+      "source_post": "https://x.com/pika_labs/status/2117772839642386856",
+      "sources": [],
+      "pricing": "free",
+      "pricing_detail": "重み無料（MiniMax-H3 Community License）",
+      "signup_required": false,
+      "path": "models/video-gen/pika-labs-pika-h3-flex-turbo-lora.md",
+      "summary": "Pika のオープンウェイト動画モデル **Pika H3 Flex** に、数ステップ蒸留を合成した LoRA。**2ステップ下書き → 4ステップ本番 → 8ステップ高画質**を、それぞれ単体ファイルで提供する。"
     }
   ]
 }

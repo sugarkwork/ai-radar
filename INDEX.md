@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 111 件 — リポジトリ 95, 記事 1, リンク集 13, プロンプト 2 / ⚑ 要確認 6 件
+収録 118 件 — リポジトリ 96, 記事 1, リンク集 13, モデル 6, プロンプト 2 / ⚑ 要確認 6 件
 
-## リポジトリ（95）
+## リポジトリ（96）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -113,7 +113,7 @@
 | [Stable Audio Tools](entries/tts-audio/stability-ai-stable-audio-tools.md) | 3,898 | 489 | 停滞 | 0 | 2026-11-01 | 2026-11-03 | 2026-11-03 | MIT |
 | [Essentia](entries/tts-audio/mtg-essentia.md) | 3,791 | 643 | 毎日 | 21 | 2026-10-22 | 2026-11-03 | 2026-11-03 | AGPL-3.0 |
 
-### モデル推論・配信（5）
+### モデル推論・配信（6）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Strata](entries/model-serving/niko1221-strata.md) | 39,048 | 4,236 | 毎日 | 100+ | 2026-11-02 | 2026-11-03 | 2026-11-03 | MIT |
 | [gpu-unlock](entries/model-serving/zagitta-gpu-unlock.md) ⚑ | 15,788 | 1,565 | 毎日 | 36 | 2026-10-29 | 2026-11-04 | 2026-11-04 | GPL-2.0 |
 | [kimi-k3-in-c](entries/model-serving/fareedkhan-dev-kimi-k3-in-c.md) ⚑ | 9,858 | 1,586 | 月次 | 0 | 2026-10-02 | 2026-11-03 | 2026-11-03 | Apache-2.0 |
+| [Latent Sparse Attention (LSA)](entries/model-serving/prefrontal-ai-latent-sparse-attention.md) | 331 | 39 | 月次 | 2 | 2026-11-03 | 2026-11-04 | 2026-11-04 | Apache-2.0 |
 | [llamAmpere](entries/model-serving/jakeatx-llamampere.md) | 216 | 30 | 毎日 | 100+ | 2026-11-03 | 2026-11-04 | 2026-11-04 | MIT |
 
 ### コーディングエージェント（3）
@@ -203,6 +204,29 @@
 
 - **[Wonderlist](links/link-asset/wonderlist-design.md)**  paid / Wonderlist
   - Figma 形式の Web サイトデザイン集を買い切りで販売する。デザイナー／開発者が一から設計せずにサイトを立ち上げるための素材。
+
+## モデル（6）
+
+### 動画生成パイプライン（4）
+
+- **[Anima RGBA](models/video-gen/localai0301-anima-rgba.md)**  free / localai0301
+  - アニメ画像モデル **Anima** で、**透過（RGBA）画像を生成**するための VAE と LoRA のセット。
+- **[H3 Ripple](models/video-gen/wepenerd-h3-ripple.md)**  free / WepeNerd
+  - **MiniMax H3 FL2VA 用の LoRA**。既存の動画ショットから1〜2枚のアンカーフレームを選び、画像編集で直した内容を、指定した区間の全フレームへ伝播させる。
+- **[P-H3-Image](models/video-gen/prunaai-p-h3-image.md)**  free / PrunaAI
+  - 動画モデル **MiniMax-H3** を画像生成・画像編集モデルに転用したもの。PrunaAI が H3 から蒸留・再構成し、約7分の1のサイズ・約5倍の速度（同社比較）を主張している。
+- **[Pika H3 Flex Turbo LoRA](models/video-gen/pika-labs-pika-h3-flex-turbo-lora.md)**  free / Pika Labs（LoRA 制作は @_akhaliq）
+  - Pika のオープンウェイト動画モデル **Pika H3 Flex** に、数ステップ蒸留を合成した LoRA。**2ステップ下書き → 4ステップ本番 → 8ステップ高画質**を、それぞれ単体ファイルで提供する。
+
+### その他（1）
+
+- **[Qwen3.5-0.8B weight-space-programming](models/other/ml-intern-lab-qwen3-5-0-8b-weight-space-programming.md)**  free / ML Intern lab（@_akhaliq ほか）
+  - **学習せずに重みを直接編集して、モデルの病的な挙動を直したチェックポイント**。Qwen3.5-0.8B が数学問題でトークン上限までループする症状を、勾配降下も微調整も使わずに修正している。
+
+### 音声・TTS（1）
+
+- **[Haas-ja-v1.0](models/tts-audio/third-intelligence-haas-ja-v1-0.md)**  free / Third Intelligence
+  - **日本語音声認識（ASR）モデル**。NVIDIA Parakeet-TDT 系の構成（FastConformer エンコーダ＋ TDT デコーダ）で、予測ネットワークの LSTM を **Kimi Delta Attention（KDA）** に置き換えている。
 
 ## 記事（1）
 

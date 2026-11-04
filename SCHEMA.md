@@ -8,6 +8,7 @@
 | `prompt` | `prompts/<genre>/<slug>.md` | URL を持たない単体プロンプト（画像内の指示文も含む） |
 | `link` | `links/<genre>/<host>-<slug>.md` | GitHub 以外のサイト・サービス・ツール |
 | `article` | `articles/<date>-<author>-<slug>.md` | 長文記事（SNS・ブログ） |
+| `model` | `models/<genre>/<org>-<name>.md` | Hugging Face などのモデル配布（重み・LoRA・量子化版） |
 
 フロントマターが唯一の正。`index.json` / `search.json` / `INDEX.md` はここから自動生成される。
 
@@ -75,9 +76,31 @@ signup_required: true | false | unknown
 published: YYYY-MM-DD
 ```
 
+### model
+
+```yaml
+model: org/name                  # 重複判定キー（Hugging Face の repo id）
+url: https://huggingface.co/org/name
+author: 配布元
+license: MIT | Apache-2.0 | other
+license_name: minimax-h3-community-license-agreement   # license: other のとき
+base_model: [org/name]           # 派生元（LoRA・蒸留・量子化）
+downloads: 29390                 # 取得時点の累計ダウンロード
+likes: 103
+format: safetensors | gguf | diffusers | mlx
+size: "3.9 GB"                   # 1ファイル、または配布全体
+created: YYYY-MM-DD
+updated: YYYY-MM-DD
+pricing: free                    # 重みは無料。有料APIのみの提供は対象外
+pricing_detail: "重み無料（ライセンス名）"
+signup_required: false
+```
+
 エントリは「テーマ / 著者の主張 / 裏取り・注意点 / 出典（著者名とリンク）」の紹介に留める。
 
 ## ジャンル
+
+モデルも用途で分類する（例: 動画モデルなら `video-gen`、ASR なら `tts-audio`）。
 
 `agent-framework` / `coding-agent` / `video-gen` / `tts-audio` / `3d-motion` / `rag` /
 `eval` / `mcp-server` / `model-serving` / `prompt-design` / `prompt-other` /
@@ -99,6 +122,9 @@ published: YYYY-MM-DD
 
 ### article
 `## テーマ` / `## 著者の主張` / `## 裏取り・注意点` / `## 出典`（著者名＋リンク） / `## 変更履歴`
+
+### model
+`## 出来ること` / `## 目的・背景` / `## 収録ファイル` / `## 実行条件` / `## 使い方` / `## 変更履歴`
 
 ## フラグ（安全性）
 
