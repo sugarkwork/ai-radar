@@ -4,7 +4,7 @@ name: "Iris-3B Metal"
 genre: other
 url: "https://github.com/TKY-27/iris-3b-metal"
 license: "Apache-2.0"
-stars: 56
+stars: 57
 language: "Python"
 created: "2026-10-09"
 updated: 2026-10-19
@@ -19,10 +19,10 @@ open_issues: 1
 size_kb: 16697
 archived: false
 last_release: v0.6.1
-commits_30d: 78
+commits_30d: 77
 commits_90d: 78
 commit_cadence: daily
-fetched_at: "2026-11-04T13:04:26Z"
+fetched_at: "2026-11-04T22:51:34Z"
 last_release_at: 2026-10-19
 ---
 

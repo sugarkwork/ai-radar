@@ -5,7 +5,7 @@ genre: video-gen
 url: https://github.com/chanon/comfyui-obvpm-timeline
 author: chanon
 license: GPL-3.0
-stars: 255
+stars: 256
 language: Python
 created: 2026-09-03
 updated: 2026-10-23
@@ -22,7 +22,7 @@ commits_90d: 80
 commit_cadence: weekly
 size_kb: 1246
 archived: false
-fetched_at: "2026-11-04T09:50:09Z"
+fetched_at: "2026-11-04T22:52:23Z"
 last_release: v0.1.4
 last_release_at: 2026-10-13
 ---
@@ -47,6 +47,7 @@ H3 は4〜15秒のクリップをネイティブステレオ音声付きで出�
 
 - **ComfyUI 0.35.0（2026-09-09）以降**（ワークフローの Model Optimization が core の `Model Sparse Attention` を使うため。docs/h3.md は 2026-08-13 以降と記載しており、README と表記が揃っていない）
 - 追加の Python 依存は無し（torch / safetensors / av は ComfyUI 同梱）
+- H3 Live Preview のデコード用に `models/vae_approx/taeh3.safetensors`（madebyollin の temporal 版、Kijai の 2D 版のいずれか）。無い場合は latent の色で粗く表示される
 - 同梱ワークフローが使うカスタムノード:
   - `comfyui-obvpm` **0.2.16 以降**（Bundles / Settings Presets / スイッチ / Compatibility Check）
   - `ComfyUI-KJNodes`（Set/Get、Sage attention パッチ）
@@ -61,6 +62,7 @@ H3 は4〜15秒のクリップをネイティブステレオ音声付きで出�
 - **クリップの解像度は揃える必要がある**。latent はリサイズできないため、サイズの違うクリップはタイムラインが受け付けない。
 - 生成は 0.4〜0.6 メガピクセルの短いクリップで素材を作り、Extend / Bridge で繋いでから最後に export、アップスケールは後段でも可（配布スレッドの推奨手順）。
 - **既知の競合**: `Comfyui_Minimax_h3_latent_Upscaler` の Plus フォークは同じ node id・名前で widget 構成が違い、保存済みワークフローの設定が1つずつずれる。`kat3ri/ComfyUI-MiniMax-H3-Extend` は import 時に core の関数（`MiniMaxH3.extra_conds` と `PackedLayout.__init__`）を置き換え、denoise マスクが落ちる。どちらも併用しない。
+- アップスケールを伴う実行では、latent upscaler の temporal chunking を有効にしておく必要がある。切った状態の実行はサンプリング開始前に拒否される。
 - ノード名はすべて `(obvpm)` 接尾辞付き。ノードメニューで `obvpm` と検索すると一覧が出る。
 - `.mctx` を消したクリップ、インポートした動画、他ワークフローの出力は latent が無いため、ピクセル経由のフォールバックになる（継ぎ目は exact ではない）。
 
@@ -83,4 +85,4 @@ git clone https://github.com/chanon/comfyui-obvpm-timeline
 
 ## 変更履歴
 
-- 2026-11-04: 初回登録（0.1.4 / ワークフロー 007A 時点）
+- 2026-11-04: 初回登録（0.1.4 / ワークフロー 007A 時点）、H3 Live Preview 用の tiny VAE とアップスケール時の temporal chunking 必須を追記（v0.1.4）

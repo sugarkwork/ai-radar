@@ -4,7 +4,7 @@ name: "Answer me with HTML"
 genre: agent-framework
 url: "https://github.com/QingYunA/answer-me-with-html"
 license: "MIT"
-stars: 5244
+stars: 5295
 language: "JavaScript"
 created: "2026-10-02"
 updated: 2026-11-04
@@ -13,14 +13,16 @@ first_seen: "2026-11-04"
 sources: []
 flags: []
 risk_notes: ""
-forks: 349
-open_issues: 13
-size_kb: 24920
+forks: 352
+open_issues: 5
+size_kb: 25023
 archived: false
 commits_30d: 100
-commits_90d: 0
+commits_90d: 100
 commit_cadence: daily
-last_release: "v0.5.10"
+last_release: v0.5.10
+fetched_at: "2026-11-04T22:51:20Z"
+last_release_at: 2026-10-26
 ---
 
 # Answer me with HTML

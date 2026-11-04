@@ -4,7 +4,7 @@ name: "Agent Autoloop"
 genre: agent-framework
 url: "https://github.com/KKKKhazix/agent-autoloop"
 license: "MIT"
-stars: 2003
+stars: 2420
 language: "TypeScript"
 created: "2026-11-03"
 updated: 2026-11-04
@@ -14,15 +14,15 @@ source_post: "https://x.com/ganfanren_ai/status/2117893040778195451"
 sources: []
 flags: []
 risk_notes: ""
-forks: 405
-open_issues: 2
-size_kb: 708
+forks: 485
+open_issues: 9
+size_kb: 882
 archived: false
 last_release: v1.0.0
-commits_30d: 56
-commits_90d: 56
+commits_30d: 63
+commits_90d: 63
 commit_cadence: daily
-fetched_at: "2026-11-04T13:04:12Z"
+fetched_at: "2026-11-04T22:50:53Z"
 last_release_at: 2026-11-03
 ---
 

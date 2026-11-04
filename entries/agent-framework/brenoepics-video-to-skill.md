@@ -14,15 +14,15 @@ sources:
   - https://x.com/AI_Caffeine/status/2117511846236135490
 flags: []
 risk_notes: "画面録画をAIモデルに送る構成。社内動画や機密情報を含む場合は送信内容の確認が必要（投稿者も同様の注意をしている）。"
-stars: 164
-forks: 14
-open_issues: 7
+stars: 137
+forks: 15
+open_issues: 8
 commits_30d: 100
 commits_90d: 100
 commit_cadence: daily
-size_kb: 1761
+size_kb: 1776
 archived: false
-fetched_at: "2026-11-04T01:11:16Z"
+fetched_at: "2026-11-04T22:52:11Z"
 last_release: v0.3.0
 last_release_at: 2026-11-02
 ---
@@ -33,6 +33,7 @@ last_release_at: 2026-11-02
 
 - チュートリアル動画（YouTube のURL、またはローカルの動画ファイル）を、コーディングエージェントが繰り返し使える**手順書（Skill）**に変換する。
 - 音声の文字起こしではなく**画面**を読む方式。画面に出ているコマンド、パラメータ、数式を拾い、各ステップにタイムスタンプとスクリーンショットを付ける。
+- 音声側は Silero VAD で発話区間だけを処理し、無音区間を飛ばす。
 - 生成した手順を**独立したエージェントが隔離環境で実行して検証**する。
 - ローカルで動く（Rust 実装）。Claude Code / Codex / Cursor などのコーディングエージェントから使う。
 
@@ -42,23 +43,24 @@ last_release_at: 2026-11-02
 
 ## 依存関係
 
-- Rust バイナリ（Releases）またはビルド環境
-- 画面解析に使うマルチモーダルモデル（API キー）
+- Windows 10/11 x64 / macOS / Linux に対応。Releases のプリビルド（Windows は `vts-extract-windows-x86_64.zip`）か、Rust でのビルド。Windows のソースビルドは Rust 1.89 以上、CMake 3.15 以上、Ninja、LLVM/libclang、Visual Studio C++ Build Tools が必要。
+- `ffmpeg` / `yt-dlp` / whisper と Silero VAD の重みは初回に自動取得される（PATH 上の既存の ffmpeg / ffprobe と yt-dlp は再利用）。
+- 画面の読み取りはホスト側エージェントのマルチモーダルモデルが担う（ツール自体は API キー不要）。
 - 対応エージェント（Claude Code / Codex / Cursor など）
 
 ## 実行条件
 
 - 動画の画面をモデルに送るため、**機密情報を含む録画は送信内容の確認が必要**。
 - 長い動画は処理時間とトークン消費が増える。
-- 検証ステップは隔離環境で実行される（サンドボックス要件は未確認）。
+- 検証は OS のサンドボックス内で実行される（Windows は AppContainer/LPAC、macOS は Seatbelt、Linux は bubblewrap）。ネットワークは遮断され、書き込みは使い捨ての作業領域と一時プロファイルに限られる。対応するサンドボックスが無い環境では実行を拒否する。
 
 ## 最短手順
 
 ```text
-Releases からバイナリを取得、または README の手順でビルド
-動画URL またはファイルを渡して Skill を生成
+npx skills@latest add brenoepics/video-to-skill   # エージェントのスキルとして導入
+/video-to-skill https://youtube.com/watch?v=...   # 解析 → 手順の生成 → 検証 → 導入
 ```
 
 ## 変更履歴
 
-- 2026-11-04: 初回登録（★163 / v0.3.0 / MIT / 30日100+コミット）
+- 2026-11-04: 初回登録（★163 / v0.3.0 / MIT / 30日100+コミット）、Windows対応・Silero VAD・サンドボックス要件・導入手順を追記（v0.3.0）

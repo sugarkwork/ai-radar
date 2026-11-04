@@ -4,7 +4,7 @@ name: "handraw-style"
 genre: prompt-design
 url: "https://github.com/yang0/handraw-style"
 license: "NOASSERTION"
-stars: 7005
+stars: 7065
 language: "HTML"
 created: "2026-09-05"
 updated: 2026-11-03
@@ -13,14 +13,14 @@ first_seen: "2026-11-03"
 sources: []
 flags: []
 risk_notes: ""
-forks: 812
+forks: 821
 open_issues: 6
-commits_30d: 67
+commits_30d: 59
 commits_90d: 100
 commit_cadence: daily
 size_kb: 434611
 archived: false
-fetched_at: "2026-11-03T22:58:38Z"
+fetched_at: "2026-11-04T22:54:23Z"
 ---
 
 # handraw-style

@@ -13,15 +13,15 @@ sources:
   - https://x.com/Manorgw/status/2117522416167759906
 flags: []
 risk_notes: "CC BY-NC-SA 4.0。商用利用は不可で、改変物も同じライセンスが必要。生成物の権利・商用利用は別途確認。"
-stars: 16970
-forks: 3160
+stars: 17001
+forks: 3170
 open_issues: 44
-commits_30d: 9
+commits_30d: 7
 commits_90d: 100
 commit_cadence: weekly
 size_kb: 48205
 archived: false
-fetched_at: "2026-11-04T01:03:35Z"
+fetched_at: "2026-11-04T22:52:28Z"
 last_release: v4.0.10
 last_release_at: 2026-11-01
 ---
@@ -33,6 +33,7 @@ last_release_at: 2026-11-01
 - 「一言で短劇を1本作る」を掲げる、脚本から成片までの自動パイプライン。LLM が脚本を解析して人物・場景・分镜（絵コンテ）を抽出し、画像生成でキャラクターと背景を作り、動画生成モデルで各ショットを映像化する。
 - 工程ごとの機能: キャラクター管理（AI生成・一括生成・アップロード）／分镜から動画タスクの自動生成（場面記述とプロンプト生成、タスク単位の一括生成）／Text-to-Video と Image-to-Video／FFmpeg によるショット単位の合成と字幕／全編の連結と書き出し。
 - 素材は統一アセットライブラリで管理し、ローカル保存にも対応。
+- キャラクターごとに音色サンプルをアップロード・試聴・差し替え・削除できる。分镜の動画プロンプトに `#キャラクター名` と書くと、動画生成時にその音色が渡される（ローカル音声の検証と形式変換も行う）。初回の分镜分解とプロンプト生成も、キャラクターの割り当てと使える音色を踏まえて参照を入れる。
 - **Electron のデスクトップアプリ**があり、フロント（Nuxt 3 + Vue 3）とバックエンド（Hono + Drizzle ORM + Mastra AI Agents + SQLite）が同梱。
 - エージェントのスキル定義（`backend/workspace/skills/` の `SKILL.md`）を UI から編集でき、制作フローを自分向けに変えられる。
 
@@ -63,4 +64,4 @@ git clone https://github.com/chatfire-AI/huobao-drama
 
 ## 変更履歴
 
-- 2026-11-04: 初回登録（★16,970 / v4.0.10 / TypeScript / CC BY-NC-SA 4.0）
+- 2026-11-04: 初回登録（★16,970 / v4.0.10 / TypeScript / CC BY-NC-SA 4.0）、キャラクターの音色サンプルと `#名前` 参照を追記（v4.0.10）

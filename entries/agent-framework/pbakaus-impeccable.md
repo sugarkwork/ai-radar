@@ -4,21 +4,21 @@ name: Impeccable
 genre: agent-framework
 url: https://github.com/pbakaus/impeccable
 license: Apache-2.0
-stars: 101216
+stars: 102748
 language: Rust
 created: 2025-11-16
-updated: 2026-11-02
+updated: 2026-11-04
 added: 2026-11-03
 sources:
   - https://x.com/dragono64v/status/2117278757690253492
-forks: 5984
-open_issues: 66
+forks: 6075
+open_issues: 65
 commits_30d: 100
 commits_90d: 100
 commit_cadence: daily
-size_kb: 886659
+size_kb: 897688
 archived: false
-fetched_at: "2026-11-03T15:42:18Z"
+fetched_at: "2026-11-04T22:53:44Z"
 last_release: cli-v4.8.0
 last_release_at: 2026-10-26
 ---

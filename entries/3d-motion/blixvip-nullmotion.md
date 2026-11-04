@@ -4,7 +4,7 @@ name: "NullMotion"
 genre: 3d-motion
 url: "https://github.com/blixvip/NullMotion"
 license: "MIT"
-stars: 1326
+stars: 1335
 language: "HTML"
 created: "2026-09-18"
 updated: 2026-10-31
@@ -13,14 +13,14 @@ first_seen: "2026-11-03"
 sources: []
 flags: []
 risk_notes: ""
-forks: 132
+forks: 133
 open_issues: 8
 commits_30d: 16
 commit_cadence: weekly
 size_kb: 51523
 archived: false
 commits_90d: 34
-fetched_at: "2026-11-03T23:05:28Z"
+fetched_at: "2026-11-04T22:52:07Z"
 last_release: v1.0.1
 last_release_at: 2026-10-06
 ---

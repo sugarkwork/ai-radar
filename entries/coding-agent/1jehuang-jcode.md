@@ -4,7 +4,7 @@ name: "jcode"
 genre: coding-agent
 url: "https://github.com/1jehuang/jcode"
 license: "MIT"
-stars: 21447
+stars: 21484
 language: "Rust"
 created: "2026-01-05"
 updated: 2026-11-04
@@ -13,14 +13,16 @@ first_seen: "2026-11-04"
 sources: []
 flags: []
 risk_notes: ""
-forks: 2501
-open_issues: 788
-size_kb: 469116
+forks: 2506
+open_issues: 797
+size_kb: 469047
 archived: false
 commits_30d: 100
-commits_90d: 0
+commits_90d: 100
 commit_cadence: daily
-last_release: "v0.99.1"
+last_release: v0.99.1
+fetched_at: "2026-11-04T22:50:19Z"
+last_release_at: 2026-10-22
 ---
 
 # jcode

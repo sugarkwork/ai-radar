@@ -4,7 +4,7 @@ name: "Screenplay"
 genre: video-gen
 url: "https://github.com/gmpetrov/agent-screenplay"
 license: "MIT"
-stars: 23
+stars: 54
 language: "TypeScript"
 created: "2026-11-02"
 updated: 2026-11-03
@@ -13,14 +13,16 @@ first_seen: "2026-11-04"
 sources: []
 flags: []
 risk_notes: ""
-forks: 0
+forks: 1
 open_issues: 0
 size_kb: 4941
 archived: false
 commits_30d: 22
-commits_90d: 0
+commits_90d: 22
 commit_cadence: daily
-last_release: "v0.1.7"
+last_release: v0.1.7
+fetched_at: "2026-11-04T22:52:54Z"
+last_release_at: 2026-11-03
 ---
 
 # Screenplay

@@ -4,7 +4,7 @@ name: "OpenKB"
 genre: rag
 url: "https://github.com/VectifyAI/OpenKB"
 license: "Apache-2.0"
-stars: 4846
+stars: 4849
 language: "Python"
 created: "2026-04-04"
 updated: 2026-07-22
@@ -20,7 +20,7 @@ commits_90d: 0
 commit_cadence: stale
 size_kb: 33441
 archived: false
-fetched_at: "2026-11-03T22:58:24Z"
+fetched_at: "2026-11-04T22:51:44Z"
 last_release: v0.4.5
 last_release_at: 2026-07-20
 ---
@@ -33,7 +33,8 @@ last_release_at: 2026-07-20
 - ベクトル DB を使わない。長文書は PageIndex のツリー索引で構造を保ったまま検索し、推論ベースで必要箇所に到達する。
 - 図表や画像も対象にするマルチモーダル検索。`openkb query` の単発質問と `openkb chat` のマルチターン（セッション永続）に対応。
 - 生成側の機能: wiki からエージェント向けスキルを蒸留する Skill Factory、レポート等への変換。
-- wiki は素の `.md` とリンクなので Obsidian でそのまま開ける。ブラウザ用の Knowledge Workbench（Web UI）も同梱。Google の Open Knowledge Format（OKF）に準拠。
+- wiki は素の `.md` とリンクなので Obsidian でそのまま開ける。Google の Open Knowledge Format（OKF）に準拠。
+- **Knowledge Workbench（Web UI）**を同梱。文書のアップロードとコンパイル、wiki の閲覧、query / chat のストリーミングをブラウザで行える。同じサーバーが REST API（FastAPI）も提供し、既定は `http://127.0.0.1:7566/`。
 
 ## 目的・背景
 
@@ -42,12 +43,14 @@ last_release_at: 2026-07-20
 ## 依存関係
 
 - `pip install openkb`（GitHub 直インストール、editable も可）。
-- LLM の API キー（`openkb init` 時に設定）。
+- Web UI / REST API を使う場合は `pip install "openkb[web]"`（`web` extra に FastAPI などが入る）。
+- LLM の API キー（`openkb init` 時に設定）。OAuth デバイスフローで認証するサブスク型プロバイダ（`chatgpt/*`、`github_copilot/*` など）はキー不要。
 
 ## 実行条件
 
 - コンパイル時に LLM のトークンを消費する。文書量が多いほど初回コストが大きい。
 - ベクトル DB サーバを別途立てる必要はない。
+- Web UI は既定で認証なし（ローカル前提）。外部に公開する場合は `OPENKB_API_TOKEN` を設定して bearer トークンを要求させる。
 - 最終 push は 2026-07-22。活発に更新中というわけではない。
 
 ## 最短手順
@@ -60,8 +63,13 @@ openkb add paper.pdf
 openkb add https://arxiv.org/pdf/2509.11420
 openkb query "What are the main findings?"
 openkb chat
+
+# Web UI（Knowledge Workbench）で使う場合
+pip install "openkb[web]"
+openkb-web                      # http://127.0.0.1:7566/ で起動
 ```
 
 ## 変更履歴
 
 - 2026-11-03: 初回登録（star 4,846 / pushed 2026-07-22 / Apache-2.0）
+- 2026-11-04: Web UI の起動方法（`openkb[web]` / `openkb-web`・7566番）と認証設定、キー不要のプロバイダを追記（v0.5.0-rc1）

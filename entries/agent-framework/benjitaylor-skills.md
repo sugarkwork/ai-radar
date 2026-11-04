@@ -6,22 +6,24 @@ url: https://github.com/benjitaylor/skills
 license: 未確認（リポジトリ全体の LICENSE なし。各スキル個別のライセンス表記）
 language: TypeScript
 created: 2026-10-26
-updated: 2026-10-31
+updated: 2026-11-04
 added: 2026-11-03
 author: "@benjitaylor"
 source_post: "https://x.com/tetumemo/status/2117618086392316274"
 sources:
   - https://x.com/shannholmberg/status/2116957574008590445
   - https://benji.org/stageshow
-stars: 1276
-forks: 87
-open_issues: 2
-commits_30d: 1
-commits_90d: 1
+stars: 1897
+forks: 131
+open_issues: 1
+commits_30d: 2
+commits_90d: 2
 commit_cadence: monthly
-size_kb: 1146
+size_kb: 1171
 archived: false
-fetched_at: "2026-11-03T16:46:45Z"
+fetched_at: "2026-11-04T22:52:03Z"
+last_release: stageshow-v1.1.0
+last_release_at: 2026-11-04
 ---
 
 # Stageshow（benjitaylor/skills）
@@ -32,6 +34,7 @@ fetched_at: "2026-11-03T16:46:45Z"
 - 構図とモーションのガイド、コピー元のキット、サンプル集、**自分の成果物を撮影して自己検証するツール**が入っている。
 - AI生成UIが崩れる5パターン（詰め込みすぎ／スカスカ／アプリ全体を1枚のカードに縮める／全部同じ強さで平坦／ブランドらしさが出ない）を明示し、それを避ける手順で進む。
 - 7ステップで制作する：媒体（静止画かアニメか、配置とサイズ）→ ルック（light / dark / blueprint / glass、アクセント1色）→ ストーリー（3〜5ビート）→ 既存の gold example から一番近いものを起点 → 画面（実語は数個、残りはプレースホルダ行）→ 振り付け（ビートを重ね、最初に戻るループ）→ リハーサル（撮影して全フレームを確認し修正）。
+- v1.1.0 でキット部品に Button / Card（`flush` で分割カード） / Divider / Kbd と、入力中のコメントがその場で投稿済みコメントに変わる Draft が加わった。リハーサルは `--gate` 付きの撮影が必須で、失敗すると終了コード1を返す。
 - デザイントークンを読むため、既存プロダクトの色・フォント・角丸に合わせられる。
 - Grok Build / Claude Code / Codex / Gemini で利用可。
 
@@ -55,9 +58,11 @@ X の Head of Design である Benji Taylor が、自分のデザイン時の判
 
 ```bash
 npx skills add benjitaylor/skills --skill stageshow
+# バージョン固定: npx skills add benjitaylor/skills#stageshow-v1.1.0 --skill stageshow
 # 使い方: https://benji.org/stageshow
 ```
 
 ## 変更履歴
 
 - 2026-11-03: 初回登録（★1,255 / pushed 2026-10-31）。引用元 @shannholmberg の分解ポストと @tetumemo の紹介ポストを出典に記録
+- 2026-11-04: キット部品（Button/Card/Divider/Kbd/Draft）追加と --gate の厳格化（stageshow-v1.1.0）

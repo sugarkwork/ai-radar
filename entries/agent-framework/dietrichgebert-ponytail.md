@@ -13,15 +13,15 @@ sources:
   - https://x.com/sumika45379/status/2117455482256515462
 flags: []
 risk_notes: ""
-stars: 183697
-forks: 10136
-open_issues: 158
-commits_30d: 100
+stars: 184508
+forks: 10178
+open_issues: 164
+commits_30d: 58
 commits_90d: 100
 commit_cadence: daily
 size_kb: 13130
 archived: false
-fetched_at: "2026-11-03T22:53:33Z"
+fetched_at: "2026-11-04T22:50:38Z"
 last_release: v5.3.3
 last_release_at: 2026-10-29
 ---

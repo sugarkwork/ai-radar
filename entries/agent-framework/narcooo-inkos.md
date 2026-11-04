@@ -13,7 +13,7 @@ sources:
   - https://x.com/awe0_io/status/2117581510547312710
 flags: []
 risk_notes: "AGPL-3.0。ネットワーク経由で提供する場合はソース公開義務が生じる。生成物の権利・出版条件は利用者側で確認。"
-stars: 10990
+stars: 11002
 forks: 2002
 open_issues: 249
 commits_30d: 6
@@ -21,7 +21,7 @@ commits_90d: 100
 commit_cadence: weekly
 size_kb: 31015
 archived: false
-fetched_at: "2026-11-04T01:24:08Z"
+fetched_at: "2026-11-04T22:51:11Z"
 last_release: v1.8.0
 last_release_at: 2026-08-17
 ---
@@ -33,6 +33,7 @@ last_release_at: 2026-08-17
 - **長編の物語創作に特化した AI エージェント**。世界観・人物設定・伏筆（伏線）・校閲・改稿を1つのワークフローに統合する。
 - 長編・短編・脚本・インタラクティブ・ストーリーに対応。多言語出力。
 - 独自の状態管理: AI は**増分JSONだけを出力**し、プログラム側で検証して物語状態を更新する。これで長編にありがちな設定矛盾を抑える。
+- 作品種別ごとの専用 Skill（長編の執筆・校閲、短編、脚本、絵コンテ、翻訳、市場調査、表紙など15種）を同梱し、工程に応じて切り替える。
 - Studio（GUI）・TUI・CLI の3つの操作形態。
 
 ## 目的・背景
@@ -41,8 +42,8 @@ last_release_at: 2026-08-17
 
 ## 依存関係
 
-- Node.js / TypeScript
-- LLM の API キー（OpenAI 互換）
+- Node.js **22 以上**（TypeScript）。22 以上で SQLite の時系列メモリが有効になる。
+- LLM の API キー（OpenAI 互換）。Studio からは LM Studio などのローカル推論サーバーも選べる。
 - SQLite（状態管理）
 
 ## 実行条件
@@ -54,10 +55,12 @@ last_release_at: 2026-08-17
 ## 最短手順
 
 ```bash
-git clone https://github.com/Narcooo/inkos
-# README の手順でセットアップし、Studio / TUI / CLI のいずれかで開始
+npm i -g @actalk/inkos     # Node.js 22 以上
+inkos init my-novel        # プロジェクト作成
+inkos write next           # 1章分を執筆（草稿 → 校閲 → 改稿）
+inkos studio               # Studio を起動（TUI は inkos tui）
 ```
 
 ## 変更履歴
 
-- 2026-11-04: 初回登録（★10,990 / v1.8.0 / AGPL-3.0）
+- 2026-11-04: 初回登録（★10,990 / v1.8.0 / AGPL-3.0）、15種のSkillパックとNode.js 22以上要件、導入手順を追記（v1.8.0）

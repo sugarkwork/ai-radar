@@ -4,7 +4,7 @@ name: "Pixelle-Video"
 genre: video-gen
 url: "https://github.com/ATH-MaaS/Pixelle-Video"
 license: "Apache-2.0"
-stars: 29735
+stars: 29762
 language: "Python"
 created: "2025-11-07"
 updated: 2026-06-14
@@ -13,14 +13,14 @@ first_seen: "2026-11-03"
 sources: []
 flags: []
 risk_notes: ""
-forks: 4314
+forks: 4322
 open_issues: 175
 commits_30d: 0
 commits_90d: 0
 commit_cadence: stale
 size_kb: 28868
 archived: false
-fetched_at: "2026-11-03T22:57:57Z"
+fetched_at: "2026-11-04T22:50:29Z"
 last_release: v0.1.15
 last_release_at: 2026-01-27
 ---

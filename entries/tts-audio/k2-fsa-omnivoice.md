@@ -4,7 +4,7 @@ name: "OmniVoice"
 genre: tts-audio
 url: "https://github.com/k2-fsa/OmniVoice"
 license: "Apache-2.0"
-stars: 16256
+stars: 16291
 language: "Python"
 created: "2026-03-31"
 updated: 2026-11-02
@@ -13,14 +13,14 @@ first_seen: "2026-11-03"
 sources: []
 flags: []
 risk_notes: ""
-forks: 2379
+forks: 2384
 open_issues: 78
 commits_30d: 0
 commits_90d: 1
 commit_cadence: stale
 size_kb: 1152
 archived: false
-fetched_at: "2026-11-03T22:58:14Z"
+fetched_at: "2026-11-04T22:53:18Z"
 last_release: 0.2.1
 last_release_at: 2026-07-16
 ---

@@ -6,22 +6,22 @@ url: https://github.com/NanmiCoder/MediaCrawler
 license: 未確認（API は NOASSERTION、標準ライセンスファイル無し）
 language: Python
 created: 2023-06-09
-updated: 2026-11-03
+updated: 2026-11-04
 added: 2026-11-04
 first_seen: 2026-11-04
 sources:
   - https://x.com/leo_xiaolei/status/2117517260470485470
 flags: []
 risk_notes: "各プラットフォームの利用規約と著作権に抵触しうる。収集した投稿・動画の再配布は権利者の許諾が必要。規約違反・アカウント停止のリスクは利用者側。"
-stars: 70094
-forks: 13289
+stars: 70194
+forks: 13305
 open_issues: 222
 commits_30d: 11
-commits_90d: 33
+commits_90d: 34
 commit_cadence: weekly
-size_kb: 30609
+size_kb: 30640
 archived: false
-fetched_at: "2026-11-04T00:28:56Z"
+fetched_at: "2026-11-04T22:51:06Z"
 ---
 
 # MediaCrawler

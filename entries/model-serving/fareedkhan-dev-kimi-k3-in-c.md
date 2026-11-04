@@ -4,7 +4,7 @@ name: "kimi-k3-in-c"
 genre: model-serving
 url: "https://github.com/FareedKhan-dev/kimi-k3-in-c"
 license: "Apache-2.0"
-stars: 9858
+stars: 10251
 language: "C"
 created: "2026-08-01"
 updated: 2026-10-02
@@ -13,14 +13,14 @@ first_seen: "2026-11-03"
 sources: []
 flags: ["unverified"]
 risk_notes: "1.56TBのチェックポイントを8.24GBのRAMで動かすという主張。数値は作者の docs/data のみで、独立した再現・検証はない。"
-forks: 1586
-open_issues: 4
+forks: 1625
+open_issues: 26
 commits_30d: 0
-commits_90d: 64
+commits_90d: 48
 commit_cadence: monthly
 size_kb: 31708
 archived: false
-fetched_at: "2026-11-03T22:58:20Z"
+fetched_at: "2026-11-04T22:50:44Z"
 last_release: v1.1.0
 last_release_at: 2026-10-02
 ---
@@ -33,6 +33,7 @@ last_release_at: 2026-10-02
 - 1.56TB のチェックポイントをディスクから逐次ストリームし、ピーク RSS 8.24GB で動かす（作者計測）。RAM が増えるとモデルの一部がメモリに載り、トークンあたりの時間だけが短くなる。
 - 作者の計測表（同一マシン・124コア・NVMe）: 8GB で26.5秒/トークン、32GB で24.2秒、64GB で19.8秒、128GB 以上で5.6秒。出力はどの構成でもバイト単位で同一と主張。
 - MoE、linear attention、MXFP4 量子化、AVX2 の SIMD カーネルを自前実装。Linux / macOS / Windows でビルド可能。
+- `--chat` で端末内の対話モードに入れる。公式の XTML チャット形式に従い、履歴は JSONL、思考の長さは `--no-think` / `--thinking-effort` で切り替え、既定は貪欲法で `--temperature` 等を指定したときだけサンプリングする。
 
 ## 目的・背景
 
@@ -62,3 +63,4 @@ make
 ## 変更履歴
 
 - 2026-11-03: 初回登録（star 9,857 / pushed 2026-10-02 / Apache-2.0）
+- 2026-11-04: --chat 対話モードを追記（v1.1.0）

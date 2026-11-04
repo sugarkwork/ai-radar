@@ -4,21 +4,21 @@ name: Craft Anything
 genre: coding-agent
 url: https://github.com/storytold/craft-anything
 license: Apache-2.0
-stars: 6979
+stars: 11488
 language: Rust
 created: 2026-10-31
-updated: 2026-11-03
+updated: 2026-11-04
 added: 2026-11-03
 sources:
   - https://x.com/rammcodes/status/2117515072893284799
-forks: 1186
-open_issues: 138
+forks: 1879
+open_issues: 199
 commits_30d: 100
 commits_90d: 100
 commit_cadence: daily
-size_kb: 6891
+size_kb: 9820
 archived: false
-fetched_at: "2026-11-03T15:42:28Z"
+fetched_at: "2026-11-04T22:54:09Z"
 last_release: v0.3.0
 last_release_at: 2026-11-02
 ---
@@ -41,7 +41,7 @@ storytold による「clean-room」実装支援ツール。100% Rust、Apache-2.
 
 - Rust **1.97 以上**（依存 crate の要求。`rustup update`）。
 - Debian / Ubuntu でデスクトップアプリをビルドする場合は追加パッケージ: `libxkbcommon-dev libwayland-dev libx11-dev libxrandr-dev libxi-dev libgl1-mesa-dev libgtk-3-dev`。
-- **ビルドにはサインイン済みのコーディングエージェントが必須**。第一対応は Claude Code で、利用者の `claude` をそのまま実行する（アカウント情報はツール側で扱わない）。Codex アダプタは存在するが実インストールでの検証は未実施。ACP 対応の他エージェント（Gemini CLI / Qwen Code / opencode / goose / Hermes / Maki）はバックエンド単位で切替可能だが、実際に動かして確認済みなのは Maki のみ。
+- **ビルドにはサインイン済みのコーディングエージェントが必須**。第一対応は Claude Code で、利用者の `claude` をそのまま実行する（アカウント情報はツール側で扱わない）。**GitHub Copilot** はインストール済みの Copilot CLI を ACP 経由で使える（別途 `copilot login` でサインイン）。Codex アダプタは存在するが実インストールでの検証は未実施。ACP 対応の他エージェント（Gemini CLI / Qwen Code / opencode / goose / Hermes / Maki）はバックエンド単位で切替可能だが、実際に動かして確認済みなのは Maki のみ。
 - 質問・分析用のモデルとして Anthropic / OpenAI / OpenRouter / ローカルの OpenAI 互換サーバーを Settings → AI で設定できる。
 
 ## 実行条件
@@ -49,6 +49,8 @@ storytold による「clean-room」実装支援ツール。100% Rust、Apache-2.
 - OS: macOS / Windows / Linux / FreeBSD / Web。デスクトップ版は GTK 系依存のため Linux では上記パッケージが必要。
 - 事前に `craft-anything-cli doctor` でインストール・コーディングエージェント・エンジンの状態を確認できる。
 - ステータスは early alpha。README は「重要な作業に使う前に既知の制約を確認するように」としている。
+- 「clean room」は提供する機能と拒否する操作に関するルールで、OS レベルのサンドボックスではない。PC を隔離するものではなく、エージェントは利用者と同じ権限で動く。どの操作を拒否できるかはエージェントごとに異なる。
+- ビルド時に依存パッケージの導入コマンドが実行され、そのインストールスクリプトも動く。未知のコマンド種別は確認を挟むが、「常に許可」を選ぶと以後は無確認で走る。
 - 対象ソフトの利用規約・著作権の扱いは README に規定がない（未確認）。調査対象の再実装が許される範囲は各自で判断する必要がある。
 
 ## 最短手順
@@ -65,3 +67,4 @@ craft-anything-cli mcp                                   # MCP クライアン�
 ## 変更履歴
 
 - 2026-11-03: 初回登録（star 6,863 / pushed 2026-11-03 / early alpha）
+- 2026-11-04: Copilot CLI対応、clean roomがOSサンドボックスでない点を追記（078cf0c）

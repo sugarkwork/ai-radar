@@ -4,23 +4,23 @@ name: Open Duet
 genre: agent-framework
 url: https://github.com/Anil-matcha/open-duet
 license: Apache-2.0
-stars: 6686
+stars: 6771
 language: Python
 created: 2023-05-25
-updated: 2026-11-03
+updated: 2026-11-04
 added: 2026-11-03
 sources:
   - https://x.com/silvanrec/status/2117272930543403244
   - https://x.com/aridot_/status/2117286296653648315
   - https://x.com/alextalksai/status/2117282806782992875
-forks: 843
-open_issues: 18
+forks: 868
+open_issues: 8
 commits_30d: 100
 commits_90d: 100
 commit_cadence: daily
-size_kb: 5441
+size_kb: 5056
 archived: false
-fetched_at: "2026-11-03T15:42:12Z"
+fetched_at: "2026-11-04T22:50:33Z"
 ---
 
 # Open Duet
@@ -30,10 +30,11 @@ fetched_at: "2026-11-03T15:42:12Z"
 - 名前・役割・エンジン・ワークスペース・メモリ・承認設定を持つ**AI 同僚（named agent）**を作り、チームとして動かす。リードが専門エージェントに作業を委任でき、共有ルームで協調もできる。
 - メモ：エージェントはノートを保存し、関連ノートや過去会話を想起・検索する。記憶内容は人間が確認・編集できる。
 - ルーティン：スケジュール実行・Webhook・手動の3種。結果は毎回人間が確認し、承認要求に答える。**ルーティンが勝手に承認することはない**。
-- 権限モードは Ask first / Accept edits / Plan only の3段。ツール実行と承認判断はアプリ内で確認できる。
-- Composio の自前キー経由で GitHub / Gmail / Google Calendar などを接続し、指定した Claude / Codex エージェントにのみアクセスを付与する。変更は承認待ちになる。MCP Marketplace から個別ツールも追加できる。
+- 権限モードは Ask first / Accept edits / Approve for me / Plan only の4段。Approve for me はエンジン側の審査機能（Claude・Codex・Cursor）に承認判断を任せる。ツール実行と承認判断はアプリ内で確認できる。
+- Composio の自前キー経由で GitHub / Gmail / Google Calendar などを接続し、指定した Claude / Codex エージェントにのみアクセスを付与する。変更は承認待ちになる。GitHub では PR の作成・レビュー（差分の読み取りとインラインコメント）・マージも承認付きのツールとして使える。MCP Marketplace から個別ツールも追加できる。
 - Today ビュー（承認待ち・質問・ルーティン結果・エンジン障害・期限タスクの集約）、タスクボード、カレンダー、スキル＆テンプレート、ワークスペースのファイル閲覧、履歴エクスポート。
-- スマホアプリ（自前サーバーとペアリング）でチャット・回答停止・ツール呼び出しの許可/拒否。
+- スマホアプリ（自前サーバーとペアリング）でチャット・回答停止・ツール呼び出しの許可/拒否。ペアリング時に「Chat, files and agents」を選ぶと、エージェントの作成・編集・複製・ピン留め・アーカイブと、ルームの作成・メンバー変更・削除もできる（ワークスペースフォルダ・Accept edits・接続アプリ・リード役は Web 側のみ）。同一ネットワーク内の宛先なら平文 `http://` でも接続できる。
+- 回答の生成中にもメッセージを送れる。対応エンジンでは実行中の回答への指示として反映し、それ以外は次のターンに回す。入力欄はローカルの Whisper による音声入力に対応し、承認待ちなどはデスクトップ通知でも知らせる。
 
 ## 目的・背景
 
@@ -42,7 +43,7 @@ Grok Bot / Claude Duet / OpenAI Dots / Meta Muse / Instinct / Manus Cue など�
 ## 依存関係
 
 - デスクトップアプリ（ソースからの起動）: **Node.js 22 以上、uv**、および同一マシン上で動くエンジン最低1つ。CLI 系エンジンは事前にインストールとサインインが必要。API ベースのエンジンは Settings → Engines で設定する。
-- セルフホスト: Linux サーバー、HTTPS、Docker または Node.js + uv、エンジン。
+- セルフホスト: Linux サーバー、HTTPS（同一ネットワーク内の宛先なら平文 `http://` も可）、Docker または Node.js + uv、エンジン。
 - **モデル本体は同梱されない。** エンジンとプロバイダのアカウントは自分で用意し、モデル利用料は各プロバイダへ直接支払う。
 - Docker は任意の隔離エージェント環境（agent computers）にのみ必要。
 - チーム委任のリードは **Claude または Codex** を使う必要がある。
@@ -51,7 +52,8 @@ Grok Bot / Claude Duet / OpenAI Dots / Meta Muse / Instinct / Manus Cue など�
 
 - デスクトップアプリのインストーラは**未署名かつプラットフォーム検証が限定的**。README はデスクトップ版の状態を「実験的」と明記している。
 - セルフホストサーバーは 1 オーナー＋ペアリング済み端末向けの実験運用で、複数ユーザーの組織利用は想定外。
-- 既知の制約（README 記載）: チーム委任は新機能、スマホアプリはソースのみで Android エミュレータでのみ試行（iOS・実機未検証、プッシュ通知なし）、Docker コンピュータ・ブラウザツール・macOS ネイティブプレビューは experimental でオプトイン、接続アプリは Composio のモックに対するテストのみ、MCP Marketplace と音声文字起こしは実サービス未検証。
+- 既知の制約（README 記載）: チーム委任は新機能、スマホアプリはソースのみで Android エミュレータと Android 実機で試行（iOS は未検証、プッシュ通知なし）、Docker コンピュータ・ブラウザツール・macOS ネイティブプレビューは experimental でオプトイン、接続アプリは Composio のモックに対するテストのみ、MCP Marketplace と音声文字起こしは実サービス未検証。
+- 1回の回答に実時間の上限は既定で設けない（長時間のタスクは最後まで走る）。止まるのは、無操作が続いた場合の検出による。
 - 更新フローは SHA-256 検証済みインストーラを提示する方式で、リリース間の自動更新は未検証。
 
 ## 最短手順
@@ -67,3 +69,4 @@ npm run app
 ## 変更履歴
 
 - 2026-11-03: 初回登録（star 6,685 / pushed 2026-11-03 / Apache-2.0）
+- 2026-11-04: 承認モードに Approve for me、スマホからのエージェント/ルーム編集、生成中の追加メッセージ（601282f）

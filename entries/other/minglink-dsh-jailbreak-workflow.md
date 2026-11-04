@@ -6,22 +6,22 @@ url: https://github.com/Minglink/dsh-jailbreak-workflow
 license: 未確認（API は NOASSERTION、標準ライセンスファイル無し）
 language: TypeScript
 created: 2026-11-01
-updated: 2026-11-03
+updated: 2026-11-04
 added: 2026-11-04
 first_seen: 2026-11-04
 sources:
   - https://x.com/NFT_Chen/status/2117486881399284175
 flags: [prompt-injection]
 risk_notes: "モデルの拒否応答を回避する『破甲（jailbreak）』プロンプトを自動生成するためのワークフロー。各サービスの利用規約違反になり得る。記録のみで、実行・生成した内容の利用はしない。"
-stars: 310
-forks: 124
-open_issues: 1
-commits_30d: 13
-commits_90d: 13
+stars: 581
+forks: 206
+open_issues: 2
+commits_30d: 17
+commits_90d: 17
 commit_cadence: weekly
-size_kb: 32986
+size_kb: 40147
 archived: false
-fetched_at: "2026-11-04T00:29:01Z"
+fetched_at: "2026-11-04T22:51:02Z"
 ---
 
 # DSH 破甲ワークフロー（dsh-jailbreak-workflow）

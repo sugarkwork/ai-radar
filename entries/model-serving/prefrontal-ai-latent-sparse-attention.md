@@ -5,24 +5,24 @@ genre: model-serving
 url: https://github.com/Prefrontal-AI/latent-sparse-attention
 author: Prefrontal AI
 license: Apache-2.0
-stars: 331
+stars: 389
 language: Python
 created: 2026-10-27
-updated: 2026-11-03
+updated: 2026-11-04
 added: 2026-11-04
 first_seen: 2026-11-03
 source_post: https://x.com/_avichawla/status/2117578508918772134
 sources:
   - https://arxiv.org/abs/2610.42147
   - https://x.com/QwenAIFans/status/2117537750689947650
-forks: 39
-open_issues: 5
-commits_30d: 2
-commits_90d: 2
-commit_cadence: monthly
-size_kb: 3761
+forks: 45
+open_issues: 3
+commits_30d: 7
+commits_90d: 7
+commit_cadence: weekly
+size_kb: 3838
 archived: false
-fetched_at: "2026-11-04T06:33:34Z"
+fetched_at: "2026-11-04T22:51:16Z"
 ---
 
 # Latent Sparse Attention (LSA)
@@ -33,7 +33,7 @@ fetched_at: "2026-11-04T06:33:34Z"
 - **D-LSA（蒸留）**: 学習済みモデルの indexer を蒸留して後付けする方式。GLM-5.3-Flash の 10M トークンで、そのモデル自身の疎な attention に対して **prefill 22.7倍・decode 4.6倍**。Qwen3.8-27B ではフル attention に対して **prefill 72.4倍・decode 42.5倍**（いずれも1層の計測）。
 - **N-LSA（ネイティブ）**: next-token loss だけでゼロから学習する方式。フル attention と同等の精度で、128k トークン時の学習が1層あたり1.6倍速い。
 - **attention カーネル自体は変えない**。LSA は「どのキーを読むか」だけを決める。
-- 実装は SGLang のプラグイン。D-LSA（Flat / Tree / Training-Free の PCA 写像）、蒸留、N-LSA とベースライン（Full / SWA / NSA / PISA / Block Sparse）、精度・カーネル・end-to-end の評価を `lsa` コマンド1つで回せる。
+- 実装は SGLang のプラグイン。D-LSA（Flat / Tree / Training-Free の PCA 写像）、蒸留、N-LSA とベースライン（Full / SWA / NSA / PISA / Block Sparse）、精度・カーネル・end-to-end の評価を `lsa` コマンド1つで回せる。RULER の13タスクも `lsa native evaluate` で採点できる。
 - SGLang フォーク（`lsa-v0.1.0`）と Docker イメージ（`ghcr.io/sglang:lsa-v0.1.0`、Blackwell 用は `-b300`）を公開。
 
 ## 目的・背景
@@ -42,10 +42,10 @@ fetched_at: "2026-11-04T06:33:34Z"
 
 ## 依存関係
 
-- Python 3.12、`uv`
+- Python 3.12、`uv` 0.10 以上（`pyproject.toml` で `required-version` を指定）
 - SGLang フォーク（`Prefrontal-AI/sglang` の `lsa-v0.1.0` タグ）とその配布イメージ。10M トークン実行には context-parallel / long-context 対応が必要で、本家 SGLang では動かない
 - CUDA 13.0.3 ベースのイメージ（B300 は専用タグ）
-- 学習 extra は `causal-conv1d` をビルドするため CUDA ツールキット（nvcc）が必要
+- 学習 extra は `causal-conv1d` を locked の torch（cu129）に対してソースビルドするため、CUDA 12.x の `nvcc` が要る（B300 の sm_100 カーネルは 12.8 以上）。CUDA 13 の `nvcc` ではビルドが通らず、12.4〜12.7 でも H200 向けにはビルドできる。無い場合は `--no-install-package causal-conv1d` で除外でき、その場合 GLM-5.3-Flash の delta-attention 層は transformers の遅い PyTorch カーネルで動く
 
 ## 実行条件
 
@@ -63,10 +63,13 @@ cd latent-sparse-attention
 uv sync --locked --extra evaluation --extra training   # nvcc が無ければ --no-install-package causal-conv1d
 uv run lsa --help
 
+# extra が入ったかは --help では分からないので、こちらで確認する
+.venv/bin/hf version && uv run --no-sync python -c "import transformers, lm_eval"
+
 # 配信: SGLang フォークのイメージにこのリポジトリを入れ、
 # 蒸留マップと HF キャッシュをマウントして起動する
 ```
 
 ## 変更履歴
 
-- 2026-11-04: 初回登録（D-LSA / N-LSA、SGLang プラグイン時点）
+- 2026-11-04: 初回登録（D-LSA / N-LSA、SGLang プラグイン時点）、uv 0.10 以上と CUDA 12.x の nvcc 必須、RULER 13タスク評価、extra の確認手順を追記（traces-v1）

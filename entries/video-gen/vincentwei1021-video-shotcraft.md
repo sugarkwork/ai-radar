@@ -4,7 +4,7 @@ name: "video-shotcraft"
 genre: video-gen
 url: "https://github.com/Vincentwei1021/video-shotcraft"
 license: "Apache-2.0"
-stars: 16517
+stars: 16970
 language: "TypeScript"
 created: "2026-07-19"
 updated: 2026-10-29
@@ -13,14 +13,14 @@ first_seen: "2026-11-03"
 sources: []
 flags: []
 risk_notes: ""
-forks: 1563
-open_issues: 5
+forks: 1599
+open_issues: 7
 commits_30d: 10
 commit_cadence: weekly
 size_kb: 201181
 archived: false
 commits_90d: 44
-fetched_at: "2026-11-03T23:05:20Z"
+fetched_at: "2026-11-04T22:51:48Z"
 last_release: showcase-media
 last_release_at: 2026-09-01
 ---
@@ -30,8 +30,9 @@ last_release_at: 2026-09-01
 ## 出来ること
 
 - Claude Code / Codex 向けの「動画制作スキル」。製品プロモのような映像を Remotion のコードとして出力するので、生成後にタイムラインやテキストを編集できる（ mp4 を吐いて終わりではない）。
-- 124 枚のショットレシピカードと 150 本のモーションプレビューを同梱し、カメラワーク・トランジションの型を選んで組み合わせる。
+- 152 枚のショットレシピカードと 209 本のモーションプレビュー（209 種類のスタイル）を同梱し、カメラワーク・トランジションの型を選んで組み合わせる。
 - 音に合わせたカット割り（BGM のビート解析）、効果音の設計、字幕、ブランド要素の適用。
+- 実写の mp4 をカードのヒーローとして組み込める ClipCard（`assets/lib/ClipCard.tsx`）があり、生成映像と実写素材を同じカードで扱える。
 - 「Motion Workbench」でプレビューと調整。剪映（CapCut 中国版）向けの書き出しにも対応。
 - ギャラリーサイトで仕上がり例を先に確認できる。
 
@@ -65,3 +66,4 @@ ln -s "$(pwd)/video-shotcraft" ~/.claude/skills/video-shotcraft
 ## 変更履歴
 
 - 2026-11-03: 初回登録（★16,517 / pushed 2026-10-29 / Apache-2.0）
+- 2026-11-04: ショットカード152枚・プレビュー209本に増加、ClipCard を追記（showcase-media）

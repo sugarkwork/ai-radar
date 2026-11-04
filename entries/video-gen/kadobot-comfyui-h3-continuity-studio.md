@@ -4,24 +4,24 @@ name: H3 Continuity Studio
 genre: video-gen
 url: https://github.com/KadoBOT/ComfyUI-H3-Continuity-Studio
 license: MIT
-stars: 66
+stars: 116
 language: Python
 created: 2026-11-02
-updated: 2026-11-03
+updated: 2026-11-04
 added: 2026-11-03
 sources:
   - https://x.com/superfang119/status/2117545628398162003
   - https://x.com/superfang119/status/2117634030393040927
-forks: 8
+forks: 11
 open_issues: 2
-commits_30d: 18
-commits_90d: 18
-commit_cadence: weekly
-size_kb: 4476
+commits_30d: 100
+commits_90d: 100
+commit_cadence: daily
+size_kb: 6112
 archived: false
-fetched_at: "2026-11-03T15:43:19Z"
-last_release: v0.4.0
-last_release_at: 2026-11-03
+fetched_at: "2026-11-04T22:50:58Z"
+last_release: v0.12.1
+last_release_at: 2026-11-04
 ---
 
 # H3 Continuity Studio
@@ -32,6 +32,10 @@ last_release_at: 2026-11-03
 - **Visual Memory**: 前のクリップの任意の瞬間を選び、後のショット（別カメラアングル、屋外シーンを挟んだ後でも）へ持ち込める。これが本リポジトリの中心機能。
 - **H3 Story**: OpenAI 互換エンドポイント（ローカル／クラウド）に接続し、Timeline の計画とプロンプト記述を書かせる。任意機能。
 - **Studio**: story / reference / timeline の編集 UI。加えて、保存済みセグメント、スチル、H3 コンテキストウィンドウ用のノードを含む。
+- **編集履歴**: Timeline の編集を元に戻す／やり直す。直近100件の名前付き状態から任意の時点へ移動できる（プロジェクトやワークフローの変更、再読み込みまで）。
+- **長い参照動画の分割再生成**: 1本の動画をクリップごとの区間に分けて持たせ（`video_slices`）、未描画のクリップが残る間は描画済み部分と元動画のフレーム・音声を合わせた `_partial.mp4` を書き出す。
+- **ガイドと FLF2VA**: 任意のフレームにガイド画像を置け、REF2VA のクリップを First/Last フレーム＋キャッシュ済み RefMods（FLF2VA）へ変換できる。音声付きクリップも変換でき、H3 audio VAE の接続が必要。
+- **台詞キューと録音の固定**: 録音の各時点の台詞（話者、画面内／ナレーション）をキューとして持ち、クリップに喋らせる。録音はシーケンス時計に固定でき、ブリッジで尺が動かない。
 - 継続性チェック用のリファレンス（`docs/CONTINUITY-CHECK.md`）と、外部 Timeline 連携（`docs/EXTERNAL-TIMELINE.md`）の資料を同梱。
 
 ## 目的・背景
@@ -68,3 +72,4 @@ python -m pip install -r requirements.txt   # ComfyUI と同じ Python で
 ## 変更履歴
 
 - 2026-11-03: 初回登録（star 64 / pushed 2026-11-03 / v0.1.0）
+- 2026-11-04: 編集履歴・部分書き出し・台詞キュー等の追加を反映（v0.10.1）

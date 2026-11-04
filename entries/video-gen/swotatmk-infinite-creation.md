@@ -4,23 +4,23 @@ name: Infinite Creation（Agent无限创作）
 genre: video-gen
 url: https://github.com/SwotAtmk/infinite-creation
 license: MIT
-stars: 193
+stars: 231
 language: JavaScript
 created: 2026-09-09
-updated: 2026-11-03
+updated: 2026-11-04
 added: 2026-11-03
 sources:
   - https://x.com/superfang119/status/2117543981446058211
-forks: 46
+forks: 55
 open_issues: 6
 commits_30d: 100
 commits_90d: 100
 commit_cadence: daily
-size_kb: 123542
+size_kb: 123752
 archived: false
-fetched_at: "2026-11-03T15:43:28Z"
-last_release: v1.0.5
-last_release_at: 2026-11-02
+fetched_at: "2026-11-04T22:51:29Z"
+last_release: v1.0.6
+last_release_at: 2026-11-04
 ---
 
 # Infinite Creation（Agent无限创作）
@@ -49,6 +49,7 @@ last_release_at: 2026-11-02
 - 作者記載の参考構成：**VRAM 12GB+ / RAM 32GB+ / ディスク 150GB+**
 - 全ワークフローがその構成で快適に動く保証はない、と明記されている。
 - 生成はショット単位の**直列**処理。本編の所要時間はショット数に比例する。
+- 既定では画像・動画の生成待ちと待ち行列にタイムアウトを設けない（遅くても停止操作か、タスク消失の検出まで待つ）。複数人で1つの実行環境を共用する場合だけ、設定で待ち行列スケジューリングを有効にする。
 - Windows の場合は WSL 側に Node/FFmpeg/ComfyUI を揃える必要がある。
 
 ## 最短手順
@@ -64,3 +65,4 @@ pnpm install          # Bun も併用
 ## 変更履歴
 
 - 2026-11-03: 初回登録（star 193 / pushed 2026-11-03）
+- 2026-11-04: 生成・待ち行列のタイムアウトを既定で廃止、複数人向けの待ち行列制御は既定オフ（v1.0.6）

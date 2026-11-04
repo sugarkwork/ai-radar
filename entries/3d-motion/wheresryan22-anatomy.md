@@ -5,7 +5,7 @@ genre: 3d-motion
 url: https://github.com/wheresryan22/anatomy
 author: wheresryan22
 license: MIT
-stars: 24536
+stars: 24866
 language: JavaScript
 created: 2026-10-08
 updated: 2026-10-18
@@ -14,14 +14,14 @@ first_seen: 2026-11-03
 source_post: https://x.com/Fluyeporlaweb/status/2117544561861972226
 sources:
   - https://skills.wheresryan.sh/anatomy
-forks: 2044
+forks: 2070
 open_issues: 71
 commits_30d: 100
 commits_90d: 100
 commit_cadence: daily
 size_kb: 12817
 archived: false
-fetched_at: "2026-11-04T04:47:05Z"
+fetched_at: "2026-11-04T22:54:15Z"
 last_release: v1.1.0
 last_release_at: 2026-10-12
 ---
@@ -35,6 +35,7 @@ last_release_at: 2026-10-12
 - ライト／ダークの2テーマ。ライトが設計の基準。
 - 図には実数値のライブ読み取りが付き、部品の実寸・個数も正しく持つ。動きはイージング付きで、`prefers-reduced-motion` では静止する。
 - 検証ツールを同梱: `kit/audit.mjs` が干渉・接地・重なりの描画順を検査し、ヘッドレス Chrome の `capture.mjs` / `drive.mjs` がスクリーンショット・接写・スロー再生のコンタクトシートを撮り、`lines.mjs` が宙に浮いた線を不合格にし、`turn-check.mjs` が 3D を検査する。スキルは生成した PNG をすべて読むよう指示される。
+- 仕上げた図をコミュニティギャラリー（`wheresryan22/anatomy-community`）に公開できる。エージェントに頼むとタイトル・ID・GitHub 名を聞かれ、送信内容を示したうえで同意後に PR が作られる（fork が必要なら作成する）。送るのは図のソースだけで、ギャラリー側が固定サンドボックスで再ビルド・検査・撮影する。Claude Code では制作時間と使用トークンもセッションログから記録され、他のエージェントでは手動指定になる。
 
 ## 目的・背景
 
@@ -64,4 +65,4 @@ npx skills add wheresryan22/anatomy -g -a claude-code
 
 ## 変更履歴
 
-- 2026-11-04: 初回登録
+- 2026-11-04: 初回登録、コミュニティギャラリーへの公開機能を追記（v1.1.0）
