@@ -10,7 +10,7 @@ language: Swift
 created: 2026-10-08
 updated: 2026-10-26
 added: 2026-11-04
-first_seen: 2026-11-04
+first_seen: 2026-11-03
 source_post: https://x.com/Fluyeporlaweb/status/2117544561861972226
 sources:
   - https://digup.arahim.dev

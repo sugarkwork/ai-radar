@@ -10,7 +10,7 @@ language: TypeScript
 created: 2026-10-31
 updated: 2026-11-03
 added: 2026-11-04
-first_seen: 2026-11-04
+first_seen: 2026-11-03
 source_post: https://x.com/Fluyeporlaweb/status/2117544561861972226
 sources:
   - https://github.com/deepseek-ai/dsh-superagent-prototype/blob/main/docs/000-philosophy.md

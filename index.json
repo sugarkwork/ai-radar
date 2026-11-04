@@ -1,5 +1,5 @@
 {
-  "count": 108,
+  "count": 110,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -39,7 +39,7 @@
       "created": "2026-10-08",
       "updated": "2026-10-18",
       "added": "2026-11-04",
-      "first_seen": "2026-11-04",
+      "first_seen": "2026-11-03",
       "source_post": "https://x.com/Fluyeporlaweb/status/2117544561861972226",
       "sources": [
         "https://skills.wheresryan.sh/anatomy"
@@ -469,7 +469,7 @@
       "created": "2026-10-31",
       "updated": "2026-11-03",
       "added": "2026-11-04",
-      "first_seen": "2026-11-04",
+      "first_seen": "2026-11-03",
       "source_post": "https://x.com/Fluyeporlaweb/status/2117544561861972226",
       "sources": [
         "https://github.com/deepseek-ai/dsh-superagent-prototype/blob/main/docs/000-philosophy.md"
@@ -689,6 +689,38 @@
       "type": "repo",
       "path": "entries/agent-framework/brenoepics-video-to-skill.md",
       "summary": "チュートリアル動画（YouTube のURL、またはローカルの動画ファイル）を、コーディングエージェントが繰り返し使える**手順書（Skill）**に変換する。"
+    },
+    {
+      "repo": "RUC-NLPIR/CoworkOS",
+      "name": "CoworkOS",
+      "genre": "agent-framework",
+      "url": "https://github.com/RUC-NLPIR/CoworkOS",
+      "author": "RUC-NLPIR（中国人民大学 NLP 研究室）",
+      "license": "MIT",
+      "stars": 98,
+      "language": "JavaScript",
+      "created": "2026-11-03",
+      "updated": "2026-11-03",
+      "added": "2026-11-04",
+      "first_seen": "2026-11-03",
+      "source_post": "https://x.com/wildmindai/status/2117717765696241875",
+      "sources": [
+        "https://coworkos-ai.github.io/",
+        "https://arxiv.org/abs/2611.03178"
+      ],
+      "forks": 10,
+      "open_issues": 2,
+      "commits_30d": 17,
+      "commits_90d": 17,
+      "commit_cadence": "weekly",
+      "last_release": "v0.1.3",
+      "size_kb": 10416,
+      "archived": false,
+      "fetched_at": "2026-11-04T04:59:35Z",
+      "last_release_at": "2026-11-03",
+      "type": "repo",
+      "path": "entries/agent-framework/ruc-nlpir-coworkos.md",
+      "summary": "**長期・人手を挟む作業のための cowork ハーネス**。人が AI エージェントと一緒に、計画から検証済みの成果物まで持っていく。対象はコード・調査・文書・プレゼン・CAD・Blender・科学計算のワークフロー。"
     },
     {
       "repo": "ry0narushima/bettersearch",
@@ -1193,10 +1225,13 @@
       "created": "2026-10-18",
       "updated": "2026-10-29",
       "added": "2026-11-04",
-      "first_seen": "2026-11-04",
+      "first_seen": "2026-11-03",
       "source_post": "https://x.com/Fluyeporlaweb/status/2117544561861972226",
       "sources": [
         "https://github.com/Zagitta/gpu-unlock/blob/main/README.md"
+      ],
+      "amplifiers": [
+        "https://x.com/0xluffy_eth/status/2117561830629675499"
       ],
       "flags": [
         "unverified"
@@ -1888,7 +1923,7 @@
       "created": "2026-10-08",
       "updated": "2026-10-26",
       "added": "2026-11-04",
-      "first_seen": "2026-11-04",
+      "first_seen": "2026-11-03",
       "source_post": "https://x.com/Fluyeporlaweb/status/2117544561861972226",
       "sources": [
         "https://digup.arahim.dev"
@@ -2818,7 +2853,7 @@
       "created": "2026-03-01",
       "updated": "2026-11-04",
       "added": "2026-11-04",
-      "first_seen": "2026-11-04",
+      "first_seen": "2026-11-03",
       "source_post": "https://x.com/noma_door/status/2117646383863972084",
       "sources": [],
       "forks": 17,
@@ -2832,6 +2867,33 @@
       "type": "repo",
       "path": "entries/video-gen/nomadoor-comfyui-panorama-stickers.md",
       "summary": "360°パノラマの中に画像・動画・3Dを配置し、任意の視点から撮影する ComfyUI ノード群。撮った一部を画像生成モデルで修正し、**元の位置に戻す**往復をワークフロー内で完結できる。"
+    },
+    {
+      "repo": "Win-Hao/music-mv",
+      "name": "music-mv",
+      "genre": "video-gen",
+      "url": "https://github.com/Win-Hao/music-mv",
+      "author": "Win-Hao",
+      "license": "MIT",
+      "stars": 77,
+      "language": "Python",
+      "created": "2026-10-20",
+      "updated": "2026-10-20",
+      "added": "2026-11-04",
+      "first_seen": "2026-11-03",
+      "source_post": "https://x.com/dextune/status/2117678193822085189",
+      "sources": [],
+      "forks": 3,
+      "open_issues": 0,
+      "commits_30d": 3,
+      "commits_90d": 3,
+      "commit_cadence": "monthly",
+      "size_kb": 29746,
+      "archived": false,
+      "fetched_at": "2026-11-04T04:59:17Z",
+      "type": "repo",
+      "path": "entries/video-gen/win-hao-music-mv.md",
+      "summary": "曲（song.mp3）を渡すと、**全フレームをコードで描いた**ミュージックビデオを作るエージェントスキル。動画生成モデルは使わない。"
     },
     {
       "repo": "KadoBOT/ComfyUI-H3-Continuity-Studio",

@@ -10,10 +10,12 @@ language: C
 created: 2026-10-18
 updated: 2026-10-29
 added: 2026-11-04
-first_seen: 2026-11-04
+first_seen: 2026-11-03
 source_post: https://x.com/Fluyeporlaweb/status/2117544561861972226
 sources:
   - https://github.com/Zagitta/gpu-unlock/blob/main/README.md
+amplifiers:
+  - https://x.com/0xluffy_eth/status/2117561830629675499
 flags: [unverified]
 risk_notes: "ブート時にカーネルモジュールでGPUの速度セレクタを書き換える構成。性能値は作者計測で第三者検証なし。GeForce の保証・NVIDIA の規約への影響は未確認。トップレベルに LICENSE ファイルが無く licenses/ 配下のみ。"
 forks: 1565

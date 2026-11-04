@@ -10,7 +10,7 @@ language: JavaScript
 created: 2026-03-01
 updated: 2026-11-04
 added: 2026-11-04
-first_seen: 2026-11-04
+first_seen: 2026-11-03
 source_post: https://x.com/noma_door/status/2117646383863972084
 sources: []
 forks: 17
