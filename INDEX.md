@@ -141,13 +141,13 @@
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
-| [AI-Infra-Guard (A.I.G)](entries/eval/tencent-ai-infra-guard.md) | 7,372 | 733 | 毎日 | 67 | 2026-11-03 |  |  | Apache-2.0 |
+| [AI-Infra-Guard (A.I.G)](entries/eval/tencent-ai-infra-guard.md) | 7,372 | 733 | 毎日 | 67 | 2026-11-03 |  | 2026-11-04 | Apache-2.0 |
 
 ### MCPサーバー（1）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
-| [World Intelligence MCP](entries/mcp-server/marc-shade-world-intel-mcp.md) | 1,059 | 177 | 毎日 | 100+ | 2026-10-18 |  |  | MIT |
+| [World Intelligence MCP](entries/mcp-server/marc-shade-world-intel-mcp.md) | 1,059 | 177 | 毎日 | 100+ | 2026-10-18 |  | 2026-11-04 | MIT |
 
 ## プロンプト（2）
 
