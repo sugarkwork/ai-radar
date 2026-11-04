@@ -56,6 +56,7 @@
   - `--sort stars|forks|commits|updated` `--limit N` `--json`
 - 本文まで含めた全文検索は `python3 scripts/search.py`。**同義語・表記ゆれを5個以上**渡す方式（部分一致しかできないため）。1語で強行するときは `--force`：
   `python3 scripts/search.py "音声合成" "TTS" "voice" "読み上げ" "ボイス" --type repo`
+  全角・半角の違いと前後の空白は自動で吸収する（`ＴＴＳ` は `TTS` と同じ）。
 - 機械的に扱うなら [`index.json`](index.json)（全件のフロントマター）と [`search.json`](search.json)（本文付き）。
 - 項目の定義は [SCHEMA.md](SCHEMA.md)。
 
