@@ -1,5 +1,5 @@
 {
-  "count": 79,
+  "count": 84,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -193,6 +193,37 @@
       "type": "repo",
       "path": "entries/3d-motion/humpalumps-ultra-water.md",
       "summary": "three.js（WebGL2）向けのリアルタイム海レンダラ。FFT による波、岸の砕波、泡、スワッシュ、コースティクス、水中表現、浮力、島のデモシーンをまとめて実装。"
+    },
+    {
+      "repo": "islandmed/SculptForge",
+      "name": "SculptForge",
+      "genre": "3d-motion",
+      "url": "https://github.com/islandmed/SculptForge",
+      "license": "GPL-3.0",
+      "language": "C++",
+      "created": "2026-10-21",
+      "updated": "2026-11-03",
+      "added": "2026-11-04",
+      "first_seen": "2026-11-04",
+      "sources": [
+        "https://x.com/Ryrenz/status/2117558671286616452"
+      ],
+      "flags": [],
+      "risk_notes": "",
+      "stars": 504,
+      "forks": 61,
+      "open_issues": 18,
+      "commits_30d": 100,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "size_kb": 136699,
+      "archived": false,
+      "fetched_at": "2026-11-04T01:11:10Z",
+      "last_release": "v0.10.10",
+      "last_release_at": "2026-11-03",
+      "type": "repo",
+      "path": "entries/3d-motion/islandmed-sculptforge.md",
+      "summary": "ZBrush のオープンソース代替を名乗るデジタル彫刻ツール。Linux / macOS / Windows で動作し、アカウント不要・テレメトリなし・アプリ内課金なし。"
     },
     {
       "repo": "obra/superpowers",
@@ -392,6 +423,38 @@
       "type": "repo",
       "path": "entries/agent-framework/unicodef1wn-grokbot-field-notes.md",
       "summary": "xAI の Grok Bot チームのエンジニア3名が、空のリポジトリから 72 時間のライブ配信で製品を作り切った際の運用知識を配布する。"
+    },
+    {
+      "repo": "brenoepics/video-to-skill",
+      "name": "video-to-skill",
+      "genre": "agent-framework",
+      "url": "https://github.com/brenoepics/video-to-skill",
+      "license": "MIT",
+      "language": "Rust",
+      "created": "2026-08-05",
+      "updated": "2026-11-04",
+      "added": "2026-11-04",
+      "first_seen": "2026-11-04",
+      "sources": [
+        "https://x.com/studio_yebisu/status/2117472457628291124",
+        "https://x.com/AI_Caffeine/status/2117511846236135490"
+      ],
+      "flags": [],
+      "risk_notes": "画面録画をAIモデルに送る構成。社内動画や機密情報を含む場合は送信内容の確認が必要（投稿者も同様の注意をしている）。",
+      "stars": 164,
+      "forks": 14,
+      "open_issues": 7,
+      "commits_30d": 100,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "size_kb": 1761,
+      "archived": false,
+      "fetched_at": "2026-11-04T01:11:16Z",
+      "last_release": "v0.3.0",
+      "last_release_at": "2026-11-02",
+      "type": "repo",
+      "path": "entries/agent-framework/brenoepics-video-to-skill.md",
+      "summary": "チュートリアル動画（YouTube のURL、またはローカルの動画ファイル）を、コーディングエージェントが繰り返し使える**手順書（Skill）**に変換する。"
     },
     {
       "repo": "ry0narushima/bettersearch",
@@ -1088,6 +1151,35 @@
       "type": "repo",
       "path": "entries/other/quantskills-quantskills.md",
       "summary": "AI エージェント向けの定量リサーチ用スキル／エージェントのコミュニティ目録。スナップショット時点で **218アセット / 10カテゴリ**。"
+    },
+    {
+      "repo": "morluto/awesome-reverse-engineering",
+      "name": "awesome-reverse-engineering",
+      "genre": "other",
+      "url": "https://github.com/morluto/awesome-reverse-engineering",
+      "license": "CC0-1.0",
+      "language": "Python",
+      "created": "2026-10-09",
+      "updated": "2026-10-30",
+      "added": "2026-11-04",
+      "first_seen": "2026-11-04",
+      "sources": [
+        "https://x.com/Smartpigai/status/2117439282659078336"
+      ],
+      "flags": [],
+      "risk_notes": "",
+      "stars": 1723,
+      "forks": 385,
+      "open_issues": 6,
+      "commits_30d": 100,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "size_kb": 1609,
+      "archived": false,
+      "fetched_at": "2026-11-04T01:11:30Z",
+      "type": "repo",
+      "path": "entries/other/morluto-awesome-reverse-engineering.md",
+      "summary": "リバースエンジニアリングのツールと学習リソースを、対象別に整理したキュレーションリスト。"
     },
     {
       "repo": "Tencent/WeVisOne-VL",
@@ -1814,6 +1906,35 @@
       "summary": "Claude Code / Codex 向けの「動画制作スキル」。製品プロモのような映像を Remotion のコードとして出力するので、生成後にタイムラインやテキストを編集できる（ mp4 を吐いて終わりではない）。"
     },
     {
+      "repo": "yihui-dev/awesome-opus5-5-videos",
+      "name": "awesome-opus5-5-videos",
+      "genre": "video-gen",
+      "url": "https://github.com/yihui-dev/awesome-opus5-5-videos",
+      "license": "MIT",
+      "language": "未確認（Markdown 中心）",
+      "created": "2026-09-27",
+      "updated": "2026-10-13",
+      "added": "2026-11-04",
+      "first_seen": "2026-11-04",
+      "sources": [
+        "https://x.com/tetumemo/status/2117568723007705443"
+      ],
+      "flags": [],
+      "risk_notes": "収録された作例・プロンプトの権利は各作者に帰属。転用時は出典とライセンスを確認。",
+      "stars": 13435,
+      "forks": 1415,
+      "open_issues": 11,
+      "commits_30d": 5,
+      "commits_90d": 10,
+      "commit_cadence": "weekly",
+      "size_kb": 834,
+      "archived": false,
+      "fetched_at": "2026-11-04T01:11:36Z",
+      "type": "repo",
+      "path": "entries/video-gen/yihui-dev-awesome-opus5-5-videos.md",
+      "summary": "Claude Opus 5.5 で作られたバイラル動画と、その**プロンプト**を集めたコレクション。各作例は「元動画」と「再現デモ」を並べて見られる（Skillry 上）。"
+    },
+    {
       "repo": "lemomo-ai/lemo-opuscar",
       "name": "Lemo-Opuscar",
       "genre": "video-gen",
@@ -2015,6 +2136,37 @@
       "type": "repo",
       "path": "entries/video-gen/showheyohtaki-motion-prompt.md",
       "summary": "「AI に頼むときの名前」を集めた辞書。モーショングラフィックスの動き、カメラワーク、UI 部品、ランディングページの効果、写真のルック／ライティングの名前を、動くサンプル＋一言の意味＋依頼文の例付きで引ける。"
+    },
+    {
+      "repo": "DozenTwelve/Papermorph",
+      "name": "Papermorph",
+      "genre": "video-gen",
+      "url": "https://github.com/DozenTwelve/Papermorph",
+      "license": "MIT",
+      "language": "JavaScript",
+      "created": "2026-10-03",
+      "updated": "2026-11-04",
+      "added": "2026-11-04",
+      "first_seen": "2026-11-04",
+      "sources": [
+        "https://x.com/DDJCXX/status/2117504549661577290"
+      ],
+      "flags": [],
+      "risk_notes": "入力に書籍・教材を使う場合、その著作物の利用許諾が必要。生成物の権利は利用者側の責任。",
+      "stars": 1145,
+      "forks": 152,
+      "open_issues": 2,
+      "commits_30d": 100,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "size_kb": 732800,
+      "archived": false,
+      "fetched_at": "2026-11-04T01:11:23Z",
+      "last_release": "engine-v2.9",
+      "last_release_at": "2026-10-31",
+      "type": "repo",
+      "path": "entries/video-gen/dozentwelve-papermorph.md",
+      "summary": "本や教材を、**アニメーション付き・ナレーション付き・インタラクティブな Web 教材**に変換する Claude Code 向けスキル。"
     },
     {
       "repo": "HeyChengC/vibe-knowledge-film",
