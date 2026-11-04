@@ -1,5 +1,5 @@
 {
-  "count": 75,
+  "count": 78,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -750,6 +750,35 @@
       "summary": "Kimi K3（2.78兆パラメータ）の推論を C99 だけで実装したエンジン。BLAS・推論フレームワーク・GPU を一切使わない。エンジン本体は 176KB。"
     },
     {
+      "repo": "NanmiCoder/MediaCrawler",
+      "name": "MediaCrawler",
+      "genre": "other",
+      "url": "https://github.com/NanmiCoder/MediaCrawler",
+      "license": "未確認（API は NOASSERTION、標準ライセンスファイル無し）",
+      "language": "Python",
+      "created": "2023-06-09",
+      "updated": "2026-11-03",
+      "added": "2026-11-04",
+      "first_seen": "2026-11-04",
+      "sources": [
+        "https://x.com/leo_xiaolei/status/2117517260470485470"
+      ],
+      "flags": [],
+      "risk_notes": "各プラットフォームの利用規約と著作権に抵触しうる。収集した投稿・動画の再配布は権利者の許諾が必要。規約違反・アカウント停止のリスクは利用者側。",
+      "stars": 70094,
+      "forks": 13289,
+      "open_issues": 222,
+      "commits_30d": 11,
+      "commits_90d": 33,
+      "commit_cadence": "weekly",
+      "size_kb": 30609,
+      "archived": false,
+      "fetched_at": "2026-11-04T00:28:56Z",
+      "type": "repo",
+      "path": "entries/other/nanmicoder-mediacrawler.md",
+      "summary": "中国系プラットフォーム横断のデータ収集ツール。小红书（RED）・抖音・快手・B站・微博・百度貼吧・知乎の**投稿とコメント**を取得する。"
+    },
+    {
       "repo": "shiyu-coder/Kronos",
       "name": "Kronos",
       "genre": "other",
@@ -1086,6 +1115,37 @@
       "type": "repo",
       "path": "entries/other/tencent-wevisone-vl.md",
       "summary": "物体レベルの知覚（物体検出、指示対象の位置特定、カウント、ポイント指示、OCR）と、画素レベルの知覚（指示セグメンテーション、プロンプタブルなアルファマット）を1つの視覚言語モデルで扱う。"
+    },
+    {
+      "repo": "Minglink/dsh-jailbreak-workflow",
+      "name": "DSH 破甲ワークフロー（dsh-jailbreak-workflow）",
+      "genre": "other",
+      "url": "https://github.com/Minglink/dsh-jailbreak-workflow",
+      "license": "未確認（API は NOASSERTION、標準ライセンスファイル無し）",
+      "language": "TypeScript",
+      "created": "2026-11-01",
+      "updated": "2026-11-03",
+      "added": "2026-11-04",
+      "first_seen": "2026-11-04",
+      "sources": [
+        "https://x.com/NFT_Chen/status/2117486881399284175"
+      ],
+      "flags": [
+        "prompt-injection"
+      ],
+      "risk_notes": "モデルの拒否応答を回避する『破甲（jailbreak）』プロンプトを自動生成するためのワークフロー。各サービスの利用規約違反になり得る。記録のみで、実行・生成した内容の利用はしない。",
+      "stars": 310,
+      "forks": 124,
+      "open_issues": 1,
+      "commits_30d": 13,
+      "commits_90d": 13,
+      "commit_cadence": "weekly",
+      "size_kb": 32986,
+      "archived": false,
+      "fetched_at": "2026-11-04T00:29:01Z",
+      "type": "repo",
+      "path": "entries/other/minglink-dsh-jailbreak-workflow.md",
+      "summary": "DeepSeek Harness（DSH）上で動く**ワークフロープラグイン**。画布でフローを設計し、計画プロンプトにコンパイルしてモデル自身に実行させる（分岐・ループ・並列に対応）。"
     },
     {
       "repo": "sepiablue-ai/ComfyUI-MossPanelDataset",
@@ -1807,6 +1867,37 @@
       "type": "repo",
       "path": "entries/video-gen/eternityspring-shuohao-skills.md",
       "summary": "AI ショートドラマ（短劇）制作の工程を、そのままスキルに切った集合。原作小説の分解 → キャラクターバイブル → あらすじ/脚色方針 → 美術・小道具設定 → 脚本 → 絵コンテ分割、までを受け持つ。"
+    },
+    {
+      "repo": "hao-ai-lab/FastVideo",
+      "name": "FastVideo",
+      "genre": "video-gen",
+      "url": "https://github.com/hao-ai-lab/FastVideo",
+      "license": "Apache-2.0",
+      "language": "Python",
+      "created": "2024-10-24",
+      "updated": "2026-11-03",
+      "added": "2026-11-04",
+      "first_seen": "2026-11-04",
+      "sources": [
+        "https://x.com/haoailab/status/2117704073248174180"
+      ],
+      "flags": [],
+      "risk_notes": "",
+      "stars": 4777,
+      "forks": 518,
+      "open_issues": 148,
+      "commits_30d": 100,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "size_kb": 439730,
+      "archived": false,
+      "fetched_at": "2026-11-04T00:28:50Z",
+      "last_release": "v0.2.0",
+      "last_release_at": "2026-06-04",
+      "type": "repo",
+      "path": "entries/video-gen/hao-ai-lab-fastvideo.md",
+      "summary": "動画生成モデルの**推論高速化とポストトレーニング**をまとめたフレームワーク。distillation・量子化・並列化を同じインターフェースで扱う。"
     },
     {
       "repo": "alchaincyf/huashu-motion",
