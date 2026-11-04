@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 90 件 — リポジトリ 79, 記事 1, リンク集 8, プロンプト 2 / ⚑ 要確認 5 件
+収録 96 件 — リポジトリ 80, 記事 1, リンク集 13, プロンプト 2 / ⚑ 要確認 5 件
 
-## リポジトリ（79）
+## リポジトリ（80）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -34,7 +34,7 @@
 | [H3 Continuity Studio](entries/video-gen/kadobot-comfyui-h3-continuity-studio.md) | 66 | 8 | 週次 | 18 | 2026-11-03 | 2026-11-03 | 2026-11-03 | MIT |
 | [batch-video-plugin](entries/video-gen/zysen1-batch-video-plugin.md) | 42 | 17 | 月次 | 2 | 2026-11-01 | 2026-11-03 | 2026-11-03 | MIT |
 
-### その他（16）
+### その他（17）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -45,6 +45,7 @@
 | [awesome-quant](entries/other/wilsonfreitas-awesome-quant.md) | 30,453 | 4,291 | 毎日 | 57 | 2026-11-03 | 2026-11-03 | 2026-11-03 | unknown |
 | [backtrader](entries/other/mementum-backtrader.md) | 23,659 | 5,319 | 停滞 | 0 | 2024-08-19 | 2026-11-03 | 2026-11-03 | GPL-3.0 |
 | [machine-learning-for-trading](entries/other/stefan-jansen-machine-learning-for-trading.md) | 21,701 | 5,756 | 毎日 | 32 | 2026-11-03 | 2026-11-03 | 2026-11-03 | MIT |
+| [Zipline (Quantopian)](entries/other/quantopian-zipline.md) | 20,200 | 5,056 | 停滞 | 0 | 2024-02-13 | 2026-11-04 | 2026-11-04 | Apache-2.0 |
 | [Horizon](entries/other/thysrael-horizon.md) | 12,260 | 1,790 | 毎日 | 31 | 2026-11-03 | 2026-11-03 | 2026-11-03 | MIT |
 | [quant-trading](entries/other/je-suis-tm-quant-trading.md) | 11,190 | 1,954 | 停滞 | 0 | 2026-06-20 | 2026-11-03 | 2026-11-03 | Apache-2.0 |
 | [Agent Sprite Forge](entries/other/0x0funky-agent-sprite-forge.md) ⚑ | 4,923 | 485 | 毎日 | 100+ | 2026-10-06 | 2026-11-03 | 2026-11-03 | MIT |
@@ -141,9 +142,9 @@
 - **[CodeGraph を Codex に接続する導入プロンプト](prompts/prompt-design/codegraph-codex-setup.md)**  Codex / @goan999999
   - CodeGraph（コード知識グラフの MCP サーバー）を既存の Codex 環境に組み込み、インストール・MCP 設定・索引構築・動作検証までをエージェントに一括でやらせる。手順の暗記を省き、既存設定を壊さないことを明示している点が要点。
 
-## リンク集（8）
+## リンク集（13）
 
-### リンク（作例・インスピレーション）（5）
+### リンク（作例・インスピレーション）（7）
 
 - **[BestAIBuilder](links/link-inspiration/bestaibuilder-website.md)**  free / BestAIBuilder
   - AI サイトビルダーを横並びで比較するためのランキングサイト。「同じブリーフで全ツールにサイトを作らせ、craft / speed / control / value で採点した」という前提を掲げ、101ツールを順位付けしている。
@@ -151,15 +152,25 @@
   - 最近のビジュアルデザイン／クリエイティブワークを厳選して並べる作例アーカイブ。Web、ブランディング、プロダクト、モーション、イラスト、3D、印刷までを1つのブラウズ形式で扱う。
 - **[Landdding](links/link-inspiration/landdding-com.md)**  Landdding
   - ランディングページの作例を毎日／毎週キュレーションするギャラリー。デザインの参考を探す用途。
+- **[Launch Videos Gallery](links/link-inspiration/launchvideos-gallery.md)**  free / Launch Videos Gallery
+  - X 上で共有されたプロダクトローンチ動画を日次で集めた作例ギャラリー。ローンチ動画の構成や演出を参考にするためのもの。
+- **[Scrolltide](links/link-inspiration/scrolltide-co.md)**  paid / Scrolltide
+  - スクロールに連動して動く「シネマティックなWebサイト」を作るための、プロンプトとテンプレートのライブラリ。プロンプトをコピーして AI（Claude / Cursor / Codex など）に貼り、サイトを生成させる使い方を想定している。
 - **[Supahero](links/link-inspiration/supahero-io.md)**  free / Supahero
   - Web サイトのファーストビュー（ヒーローセクション）だけを集めた作例ライブラリ。
 - **[The Internet Designs](links/link-inspiration/theinternetdesigns-com.md)**  free / The Internet Designs
   - X（Twitter）と Pinterest に投稿された UI デザインを収集・索引化し、デザインの参考として引けるようにする。ポストの「find beautifully designed websites」に対応する。
 
-### リンク（サービス・ツール）（2）
+### リンク（サービス・ツール）（5）
 
 - **[Banani](links/link-service/banani-co.md)**  freemium / Banani
   - テキストから UI を生成する AI デザインツール。プロンプトを「編集可能な UI デザイン」に変えることを狙う。ポストの説明（turn prompts into editable UI designs）と一致する。
+- **[Paper Animation](links/link-service/paperanimation-ai.md)**  freemium / Paper Animation
+  - 画像1枚から紙風のアニメーションクリップを作る Web ツール。ショート動画のフック用素材（新聞の切り抜き風、紙の折り畳み等）を短時間で作ることを狙う。投稿の説明（paper-style animations）と一致する。
+- **[ScaleDown](links/link-service/scaledown-ai.md)**  paid / ScaleDown AI
+  - 分類・抽出・要約・圧縮という単機能に絞った小型モデル（SLM）を API で提供するサービス。フロンティアモデルに頼らず、決まった処理を大量に安く流す用途を狙う。
+- **[Tripo AI](links/link-service/tripo3d-ai.md)**  freemium / Tripo
+  - テキストまたは画像から3Dモデルを生成するオンラインサービス。ゲーム素材、EC の商品画像、3Dプリント、映像のプリビズなどを想定している。
 - **[Wedoflow](links/link-service/wedoflow-com.md)**  paid / Wedoflow
   - Webflow 向けのプレミアムテンプレート販売。デザイン済みのページを買って、サイト構築の時間を短縮する。
 
