@@ -3,10 +3,15 @@
 
 query.py filters metadata; this finds words inside the entries.
 
+**表記ゆれ対策**: この検索は部分一致しかできないので、同義語・言い換え・表記の違う
+バリアントを5個以上渡すことを既定で要求する。足りない場合は検索せずにエラーを返す。
+1語だけの即席検索は `--force` を付ける。
+
 Examples:
-  python3 scripts/search.py comfyui
-  python3 scripts/search.py "音声 変換" --type repo --min-stars 1000
-  python3 scripts/search.py prompt --genre prompt-design --json
+  # 5つ以上のバリアントを渡す（推奨）
+  python3 scripts/search.py "音声合成" "TTS" "voice" "読み上げ" "ボイス" --type repo
+  # 1語で済ませたいとき
+  python3 scripts/search.py comfyui --force
 """
 from __future__ import annotations
 
@@ -35,7 +40,19 @@ def main() -> int:
     ap.add_argument("--min-stars", type=int)
     ap.add_argument("--limit", type=int, default=15)
     ap.add_argument("--json", action="store_true")
+    ap.add_argument("--force", action="store_true",
+                    help="バリアント5個未満でも検索する（精度は落ちる）")
+    ap.add_argument("--min-variants", type=int, default=5)
     args = ap.parse_args()
+
+    unique = list(dict.fromkeys(t.strip().lower() for t in args.terms if t.strip()))
+    if not args.force and len(unique) < args.min_variants:
+        print(f"エラー: 検索語が {len(unique)} 個しかありません（最低 {args.min_variants} 個）。")
+        print("このスクリプトは部分一致しかできないため、表記ゆれ・同義語・言い換えを")
+        print("自分で作って渡してください。例:")
+        print('  python3 scripts/search.py "音声合成" "TTS" "voice" "読み上げ" "ボイス" --type repo')
+        print("1語で強行する場合のみ --force を付けてください。")
+        return 2
 
     if not SEARCH.exists():
         raise SystemExit("search.json missing — run scripts/build_index.py")
@@ -54,10 +71,11 @@ def main() -> int:
         text = (r.get("text") or "")
         low = text.lower()
         name_low = (r.get("name") or "").lower()
-        if not all(t in low for t in terms):
+        matched = [t for t in terms if t in low]
+        if not matched:
             continue
-        # 名前一致を強く、出現回数を加点
-        score = sum(low.count(t) for t in terms) + 10 * sum(t in name_low for t in terms)
+        # 一致したバリアント数・出現回数・名前一致を加点（OR検索）
+        score = sum(low.count(t) for t in matched) + 10 * sum(t in name_low for t in matched)
         hits.append((score, r, snippet(text, terms)))
 
     hits.sort(key=lambda h: -h[0])
