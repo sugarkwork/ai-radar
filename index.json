@@ -1,5 +1,5 @@
 {
-  "count": 118,
+  "count": 119,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -2930,6 +2930,38 @@
       "type": "repo",
       "path": "entries/video-gen/heychengc-vibe-knowledge-film.md",
       "summary": "知識系ショート動画（抖音で流行した「バイブ知識大賞」形式）を作るスキル。2モード: 「夜曲」＝抽象的で難解な知識を語る／「寓言」＝心理・行動のロジックを物語として見せる。"
+    },
+    {
+      "repo": "chanon/comfyui-obvpm-timeline",
+      "name": "comfyui-obvpm-timeline",
+      "genre": "video-gen",
+      "url": "https://github.com/chanon/comfyui-obvpm-timeline",
+      "author": "chanon",
+      "license": "GPL-3.0",
+      "stars": 255,
+      "language": "Python",
+      "created": "2026-09-03",
+      "updated": "2026-10-23",
+      "added": "2026-11-04",
+      "first_seen": "2026-11-04",
+      "source_post": "https://x.com/ai_hakase_/status/2117856442866905109",
+      "sources": [
+        "https://comfyui-wiki.com/en/news/2026-09-21-obvpm-timeline",
+        "https://github.com/chanon/comfyui-obvpm"
+      ],
+      "forks": 31,
+      "open_issues": 38,
+      "commits_30d": 11,
+      "commits_90d": 80,
+      "commit_cadence": "weekly",
+      "size_kb": 1246,
+      "archived": false,
+      "fetched_at": "2026-11-04T09:50:09Z",
+      "last_release": "v0.1.4",
+      "last_release_at": "2026-10-13",
+      "type": "repo",
+      "path": "entries/video-gen/chanon-comfyui-obvpm-timeline.md",
+      "summary": "**MiniMax H3 用の「タイムライン付きクリップ編集」ノード群**。生成したクリップをタイムラインに並べ、切る・繋ぐ・延ばす・間を埋めるを1つのUIで行う。タイムラインは簡易動画エディタとして動く。"
     },
     {
       "repo": "SwotAtmk/infinite-creation",
