@@ -1,0 +1,61 @@
+---
+repo: "QingYunA/answer-me-with-html"
+name: "Answer me with HTML"
+genre: agent-framework
+url: "https://github.com/QingYunA/answer-me-with-html"
+license: "MIT"
+stars: 5244
+language: "JavaScript"
+created: "2026-10-02"
+updated: 2026-11-04
+added: "2026-11-04"
+first_seen: "2026-11-04"
+sources: []
+flags: []
+risk_notes: ""
+forks: 349
+open_issues: 13
+size_kb: 24920
+archived: false
+commits_30d: 100
+commits_90d: 0
+commit_cadence: daily
+last_release: "v0.5.10"
+---
+
+# Answer me with HTML
+
+## 出来ること
+
+- エージェント向けのスキル。難しい問いに対して、長いテキストの壁ではなく「図と表の入った1ページの HTML」で答えを返す。
+- モデル側は短い Markdown（本文の要点）だけを書き、同梱のツールがそれを1枚の HTML に組み立てる。モデルが HTML を丸ごと書く場合に比べて出力トークンが約1/8で済む、と README は主張している。
+- 出力は単一ファイル・オフラインで開ける。図（SVG）、表、コードブロック、注釈を含む。
+- 文章は ASD-STE100（簡易技術英語）規格に沿わせるモードを持つ。
+- 「エクスプレイナービデオ」向けの出力形式も用意されている（ページ内アニメーション）。
+- Claude Code / Codex / Cursor / OpenCode / Pi / DeepSeek Harness で動作すると README に記載。
+
+## 目的・背景
+
+コーディングエージェントの回答が長文になり読みづらい、という不満への対処。スキルとして導入すると、以後の「説明して」という依頼が1ページの読み物になる。2026-10-02 公開で、短時間で ★5,000 台まで伸びている。
+
+## 依存関係
+
+- Node.js（同梱ツールが JS 実装）。スキル本体は Markdown ＋ スクリプト。
+- 各エージェントのスキル／プラグイン機構（`.claude/skills` 等）に配置して使う。
+
+## 実行条件
+
+- ライセンスは MIT。
+- 出力はローカルの HTML ファイル。外部サービスへの送信は行わない構成（README の記述範囲）。
+- 図の生成品質はモデル側の記述力に依存する。
+
+## 最短手順
+
+```bash
+git clone https://github.com/QingYunA/answer-me-with-html.git
+# README の手順に従い、使用中のエージェントのスキルディレクトリへ配置する
+```
+
+## 変更履歴
+
+- 2026-11-04: 初回登録（★5,244 / MIT / 最終push 2026-11-04 / v0.5.10）

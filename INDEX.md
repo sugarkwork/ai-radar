@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 96 件 — リポジトリ 80, 記事 1, リンク集 13, プロンプト 2 / ⚑ 要確認 5 件
+収録 102 件 — リポジトリ 86, 記事 1, リンク集 13, プロンプト 2 / ⚑ 要確認 5 件
 
-## リポジトリ（80）
+## リポジトリ（86）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### 動画生成パイプライン（21）
+### 動画生成パイプライン（22）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Infinite Creation（Agent无限创作）](entries/video-gen/swotatmk-infinite-creation.md) | 193 | 46 | 毎日 | 100+ | 2026-11-03 | 2026-11-03 | 2026-11-03 | MIT |
 | [H3 Continuity Studio](entries/video-gen/kadobot-comfyui-h3-continuity-studio.md) | 66 | 8 | 週次 | 18 | 2026-11-03 | 2026-11-03 | 2026-11-03 | MIT |
 | [batch-video-plugin](entries/video-gen/zysen1-batch-video-plugin.md) | 42 | 17 | 月次 | 2 | 2026-11-01 | 2026-11-03 | 2026-11-03 | MIT |
+| [Screenplay](entries/video-gen/gmpetrov-agent-screenplay.md) | 23 | 0 | 毎日 | 22 | 2026-11-03 |  | 2026-11-04 | MIT |
 
 ### その他（17）
 
@@ -56,7 +57,7 @@
 | [DSH 破甲ワークフロー（dsh-jailbreak-workflow）](entries/other/minglink-dsh-jailbreak-workflow.md) ⚑ | 310 | 124 | 週次 | 13 | 2026-11-03 | 2026-11-04 | 2026-11-04 | 未確認（API は NOASSERTION、標準ライセンスファイル無し） |
 | [ComfyUI-MossPanelDataset](entries/other/sepiablue-ai-comfyui-mosspaneldataset.md) | 32 | 5 | 週次 | 7 | 2026-11-02 | 2026-11-03 | 2026-11-03 | MIT |
 
-### エージェント基盤・スキル集（13）
+### エージェント基盤・スキル集（14）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -68,6 +69,7 @@
 | [InkOS](entries/agent-framework/narcooo-inkos.md) | 10,990 | 2,002 | 週次 | 6 | 2026-10-24 | 2026-11-04 | 2026-11-04 | AGPL-3.0 |
 | [unslop](entries/agent-framework/heydamir-unslop.md) | 7,557 | 381 | 週次 | 12 | 2026-11-01 | 2026-11-04 | 2026-11-04 | CC-BY-4.0 |
 | [Open Duet](entries/agent-framework/anil-matcha-open-duet.md) | 6,686 | 843 | 毎日 | 100+ | 2026-11-03 | 2026-11-03 | 2026-11-03 | Apache-2.0 |
+| [Answer me with HTML](entries/agent-framework/qingyuna-answer-me-with-html.md) | 5,244 | 349 | 毎日 | 100+ | 2026-11-04 |  | 2026-11-04 | MIT |
 | [Stageshow（benjitaylor/skills）](entries/agent-framework/benjitaylor-skills.md) | 1,276 | 87 | 月次 | 1 | 2026-10-31 | 2026-11-03 | 2026-11-03 | 未確認（リポジトリ全体の LICENSE なし。各スキル個別のライセンス表記） |
 | [Grok Bot Field Notes](entries/agent-framework/unicodef1wn-grokbot-field-notes.md) | 662 | 94 | 月次 | 0 | 2026-09-20 | 2026-11-03 | 2026-11-03 | MIT |
 | [video-to-skill](entries/agent-framework/brenoepics-video-to-skill.md) | 164 | 14 | 毎日 | 100+ | 2026-11-04 | 2026-11-04 | 2026-11-04 | MIT |
@@ -113,11 +115,12 @@
 | [kimi-k3-in-c](entries/model-serving/fareedkhan-dev-kimi-k3-in-c.md) ⚑ | 9,858 | 1,586 | 月次 | 0 | 2026-10-02 | 2026-11-03 | 2026-11-03 | Apache-2.0 |
 | [llamAmpere](entries/model-serving/jakeatx-llamampere.md) | 216 | 30 | 毎日 | 100+ | 2026-11-03 | 2026-11-04 | 2026-11-04 | MIT |
 
-### コーディングエージェント（2）
+### コーディングエージェント（3）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
 | [CodeGraph](entries/coding-agent/colbymchenry-codegraph.md) | 76,377 | 5,078 | 毎日 | 100+ | 2026-11-01 | 2026-11-03 | 2026-11-03 | MIT |
+| [jcode](entries/coding-agent/1jehuang-jcode.md) | 21,447 | 2,501 | 毎日 | 100+ | 2026-11-04 |  | 2026-11-04 | MIT |
 | [Craft Anything](entries/coding-agent/storytold-craft-anything.md) | 6,979 | 1,186 | 毎日 | 100+ | 2026-11-03 | 2026-11-03 | 2026-11-03 | Apache-2.0 |
 
 ### プロンプト（デザイン/UI）（2）
@@ -127,11 +130,24 @@
 | [prompt-master](entries/prompt-design/nidhinjs-prompt-master.md) | 15,469 | 1,791 | 週次 | 7 | 2026-10-22 | 2026-11-03 | 2026-11-03 | MIT |
 | [handraw-style](entries/prompt-design/yang0-handraw-style.md) | 7,005 | 812 | 毎日 | 67 | 2026-11-03 | 2026-11-03 | 2026-11-03 | NOASSERTION |
 
-### RAG・検索（1）
+### RAG・検索（2）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
+| [pdf-inspector](entries/rag/firecrawl-pdf-inspector.md) | 19,820 | 1,335 | 週次 | 1 | 2026-10-22 |  | 2026-11-04 | MIT |
 | [OpenKB](entries/rag/vectifyai-openkb.md) | 4,846 | 503 | 停滞 | 0 | 2026-07-22 | 2026-11-03 | 2026-11-03 | Apache-2.0 |
+
+### 評価・ベンチマーク（1）
+
+| 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
+|---|---:|---:|---|---:|---|---|---|---|
+| [AI-Infra-Guard (A.I.G)](entries/eval/tencent-ai-infra-guard.md) | 7,372 | 733 | 毎日 | 67 | 2026-11-03 |  |  | Apache-2.0 |
+
+### MCPサーバー（1）
+
+| 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
+|---|---:|---:|---|---:|---|---|---|---|
+| [World Intelligence MCP](entries/mcp-server/marc-shade-world-intel-mcp.md) | 1,059 | 177 | 毎日 | 100+ | 2026-10-18 |  |  | MIT |
 
 ## プロンプト（2）
 
