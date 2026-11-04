@@ -1,5 +1,5 @@
 {
-  "count": 110,
+  "count": 111,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -600,6 +600,36 @@
       "type": "repo",
       "path": "entries/agent-framework/qingyuna-answer-me-with-html.md",
       "summary": "エージェント向けのスキル。難しい問いに対して、長いテキストの壁ではなく「図と表の入った1ページの HTML」で答えを返す。"
+    },
+    {
+      "repo": "NVlabs/SoL-Pi",
+      "name": "SoL-Pi",
+      "genre": "agent-framework",
+      "url": "https://github.com/NVlabs/SoL-Pi",
+      "author": "NVIDIA / NTU / MIT（NVlabs）",
+      "license": "MIT",
+      "stars": 3638,
+      "language": "TypeScript",
+      "created": "2026-09-02",
+      "updated": "2026-11-04",
+      "added": "2026-11-04",
+      "first_seen": "2026-11-03",
+      "source_post": "https://x.com/AnnatarXBT/status/2117516376201998782",
+      "sources": [
+        "https://nvlabs.github.io/SoL-Pi/",
+        "https://arxiv.org/abs/2609.20519"
+      ],
+      "forks": 299,
+      "open_issues": 88,
+      "commits_30d": 34,
+      "commits_90d": 73,
+      "commit_cadence": "daily",
+      "size_kb": 30093,
+      "archived": false,
+      "fetched_at": "2026-11-04T06:04:29Z",
+      "type": "repo",
+      "path": "entries/agent-framework/nvlabs-sol-pi.md",
+      "summary": "**長時間動くコーディングエージェントのトークン消費を、作業量を減らさずに下げる** Pi 向けの拡張。Pi 本体は無改変のまま、公開拡張 API で4つの機構を載せる。すべて opt-in で既定は無効。"
     },
     {
       "repo": "benjitaylor/skills",
