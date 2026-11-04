@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 78 件 — リポジトリ 67, 記事 1, リンク集 8, プロンプト 2 / ⚑ 要確認 5 件
+収録 79 件 — リポジトリ 68, 記事 1, リンク集 8, プロンプト 2 / ⚑ 要確認 5 件
 
-## リポジトリ（67）
+## リポジトリ（68）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### 動画生成パイプライン（17）
+### 動画生成パイプライン（18）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -17,6 +17,7 @@
 | [OpenMontage](entries/video-gen/calesthio-openmontage.md) | 75,779 | 10,024 | 毎日 | 45 | 2026-10-28 | 2026-11-03 | 2026-11-03 | AGPL-3.0 |
 | [Pixelle-Video](entries/video-gen/ath-maas-pixelle-video.md) | 29,735 | 4,314 | 停滞 | 0 | 2026-06-14 | 2026-11-03 | 2026-11-03 | Apache-2.0 |
 | [Anatomy](entries/video-gen/wheresryan22-anatomy.md) | 24,347 | 2,032 | 毎日 | 100+ | 2026-10-18 | 2026-11-03 | 2026-11-03 | MIT |
+| [Huobao Drama（火宝短剧）](entries/video-gen/chatfire-ai-huobao-drama.md) | 16,970 | 3,160 | 週次 | 9 | 2026-11-01 | 2026-11-04 | 2026-11-04 | CC BY-NC-SA 4.0（README のバッジ。GitHub API は NOASSERTION） |
 | [video-shotcraft](entries/video-gen/vincentwei1021-video-shotcraft.md) | 16,517 | 1,563 | 週次 | 10 | 2026-10-29 | 2026-11-03 | 2026-11-03 | Apache-2.0 |
 | [Lemo-Opuscar](entries/video-gen/lemomo-ai-lemo-opuscar.md) | 11,571 | 1,327 | 毎日 | 60 | 2026-10-31 | 2026-11-03 | 2026-11-03 | MIT (コード) / CC BY 4.0 (スタイル記述) |
 | [WanGP](entries/video-gen/deepbeepmeep-wangp.md) | 11,362 | 1,837 | 毎日 | 72 | 2026-11-03 | 2026-11-03 | 2026-11-03 | WanGP Community License 2.0 |

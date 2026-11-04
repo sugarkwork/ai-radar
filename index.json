@@ -1,5 +1,5 @@
 {
-  "count": 78,
+  "count": 79,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -1752,6 +1752,37 @@
       "type": "repo",
       "path": "entries/video-gen/wheresryan22-anatomy.md",
       "summary": "概念を「実際に動く等角投影（アイソメトリック）図」として組み上げて説明するエージェントスキル。部品・運動・リアルタイム数値表示を持つ精巧な図を SVG / WebGL / 3D で出力する。"
+    },
+    {
+      "repo": "chatfire-AI/huobao-drama",
+      "name": "Huobao Drama（火宝短剧）",
+      "genre": "video-gen",
+      "url": "https://github.com/chatfire-AI/huobao-drama",
+      "license": "CC BY-NC-SA 4.0（README のバッジ。GitHub API は NOASSERTION）",
+      "language": "TypeScript",
+      "created": "2026-01-05",
+      "updated": "2026-11-01",
+      "added": "2026-11-04",
+      "first_seen": "2026-11-04",
+      "sources": [
+        "https://x.com/Manorgw/status/2117522416167759906"
+      ],
+      "flags": [],
+      "risk_notes": "CC BY-NC-SA 4.0。商用利用は不可で、改変物も同じライセンスが必要。生成物の権利・商用利用は別途確認。",
+      "stars": 16970,
+      "forks": 3160,
+      "open_issues": 44,
+      "commits_30d": 9,
+      "commits_90d": 100,
+      "commit_cadence": "weekly",
+      "size_kb": 48205,
+      "archived": false,
+      "fetched_at": "2026-11-04T01:03:35Z",
+      "last_release": "v4.0.10",
+      "last_release_at": "2026-11-01",
+      "type": "repo",
+      "path": "entries/video-gen/chatfire-ai-huobao-drama.md",
+      "summary": "「一言で短劇を1本作る」を掲げる、脚本から成片までの自動パイプライン。LLM が脚本を解析して人物・場景・分镜（絵コンテ）を抽出し、画像生成でキャラクターと背景を作り、動画生成モデルで各ショットを映像化する。"
     },
     {
       "repo": "Vincentwei1021/video-shotcraft",
