@@ -18,6 +18,12 @@ forks: 4
 open_issues: 0
 size_kb: 124
 archived: false
+commits_30d: 6
+commits_90d: 9
+commit_cadence: weekly
+fetched_at: "2026-11-05T10:24:46Z"
+last_release: v0.1.3
+last_release_at: 2026-10-30
 ---
 
 # @antfu/skills（npm で配るスキル詰め合わせ）

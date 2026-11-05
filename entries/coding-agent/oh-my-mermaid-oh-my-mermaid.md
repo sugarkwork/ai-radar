@@ -18,6 +18,12 @@ forks: 267
 open_issues: 10
 size_kb: 2359
 archived: false
+commits_30d: 0
+commits_90d: 0
+commit_cadence: stale
+fetched_at: "2026-11-05T10:24:55Z"
+last_release: v0.2.0
+last_release_at: 2026-03-25
 ---
 
 # oh-my-mermaid（omm）

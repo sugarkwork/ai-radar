@@ -14,12 +14,18 @@ source_post: https://x.com/opensourcelab9/status/2112514206511837503
 sources:
   - https://x.com/OpenBMB/status/2110364065822646570
   - https://pilotdeck.openbmb.cn
-flags: []
-risk_notes: ""
+flags: [unverified]
+risk_notes: "投稿の Workbuddy Bench 79.1点（Qwen3.6-35B-A3B）は README の表に該当がなく一次情報で確認できない。採用した数値は README 側のみ。"
 forks: 560
 open_issues: 178
 size_kb: 72741
 archived: false
+commits_30d: 100
+commits_90d: 100
+commit_cadence: daily
+fetched_at: "2026-11-05T10:21:19Z"
+last_release: v2026.11.05
+last_release_at: 2026-11-04
 ---
 
 # PilotDeck

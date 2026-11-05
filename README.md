@@ -93,7 +93,7 @@
 | 評価・ベンチマーク | 1 |
 | MCPサーバー | 1 |
 
-⚑ 要確認 7 件（理由は [INDEX.md](INDEX.md) の末尾）
+⚑ 要確認 9 件（理由は [INDEX.md](INDEX.md) の末尾）
 
 全件の一覧・指標は **[INDEX.md](INDEX.md)**。
 <!-- INDEX:END -->

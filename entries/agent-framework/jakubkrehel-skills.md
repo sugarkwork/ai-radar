@@ -19,6 +19,10 @@ forks: 421
 open_issues: 11
 size_kb: 741
 archived: false
+commits_30d: 31
+commits_90d: 97
+commit_cadence: daily
+fetched_at: "2026-11-05T10:24:39Z"
 ---
 
 # jakubkrehel/skills（UI デザインスキル集）

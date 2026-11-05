@@ -24,8 +24,8 @@ sources:
 pricing: free
 pricing_detail: "重み無料（Apache-2.0）"
 signup_required: false
-flags: []
-risk_notes: ""
+flags: [unverified]
+risk_notes: "tok/s 比較は投稿者環境の一例で、モデルカードに計測条件の記載がない。"
 ---
 
 # Clover 35B-A3B（拡散型 MoE）
