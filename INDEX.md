@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 141 件 — リポジトリ 116, モデル 8, 記事 1, リンク集 14, プロンプト 2 / ⚑ 要確認 7 件
+収録 142 件 — リポジトリ 117, モデル 8, 記事 1, リンク集 14, プロンプト 2 / ⚑ 要確認 7 件
 
-## リポジトリ（116）
+## リポジトリ（117）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -39,7 +39,7 @@
 | [BetterSearch](entries/agent-framework/ry0narushima-bettersearch.md) | 40 | 4 | 週次 | 10 | 2026-10-18 | 2026-11-03 | 2026-11-03 | MIT |
 | [web-api-skills](entries/agent-framework/oxylabs-web-api-skills.md) | 11 | 1 | 月次 | 3 | 2026-10-13 | 2026-11-03 | 2026-11-03 | MIT |
 
-### 動画生成パイプライン（25）
+### 動画生成パイプライン（26）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -63,6 +63,7 @@
 | [vibe-knowledge-film](entries/video-gen/heychengc-vibe-knowledge-film.md) ⚑ | 977 | 98 | 週次 | 9 | 2026-10-13 | 2026-11-03 | 2026-11-03 | 未確認（GitHub API は NOASSERTION） |
 | [comfyui-obvpm-timeline](entries/video-gen/chanon-comfyui-obvpm-timeline.md) | 256 | 31 | 週次 | 11 | 2026-10-23 | 2026-11-04 | 2026-11-04 | GPL-3.0 |
 | [Infinite Creation（Agent无限创作）](entries/video-gen/swotatmk-infinite-creation.md) | 231 | 55 | 毎日 | 100+ | 2026-11-04 | 2026-11-04 | 2026-11-04 | MIT |
+| [Veda Sparse Attention for ComfyUI (MiniMax-H3)](entries/video-gen/veda-sparse-veda-on-comfyui.md) | 218 | 20 | 毎日 | 45 | 2026-10-11 | 2026-11-05 | 2026-11-05 | MIT |
 | [ComfyUI Panorama Stickers](entries/video-gen/nomadoor-comfyui-panorama-stickers.md) | 179 | 17 | 毎日 | 42 | 2026-11-04 | 2026-11-04 | 2026-11-04 | MIT |
 | [H3 Continuity Studio](entries/video-gen/kadobot-comfyui-h3-continuity-studio.md) | 116 | 11 | 毎日 | 100+ | 2026-11-04 | 2026-11-04 | 2026-11-04 | MIT |
 | [music-mv](entries/video-gen/win-hao-music-mv.md) | 77 | 3 | 月次 | 3 | 2026-10-20 | 2026-11-04 | 2026-11-04 | MIT |

@@ -1,5 +1,5 @@
 {
-  "count": 141,
+  "count": 142,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -3651,6 +3651,38 @@
       "type": "repo",
       "path": "entries/video-gen/swotatmk-infinite-creation.md",
       "summary": "小説・脚本を入力すると、Agent がストーリー分解 → 人物設定 → シーン素材 → 絵コンテ（分镜）まで自動生成する。"
+    },
+    {
+      "repo": "veda-sparse/Veda-on-ComfyUI",
+      "name": "Veda Sparse Attention for ComfyUI (MiniMax-H3)",
+      "genre": "video-gen",
+      "url": "https://github.com/veda-sparse/Veda-on-ComfyUI",
+      "license": "MIT",
+      "stars": 218,
+      "language": "Python",
+      "created": "2026-10-02",
+      "updated": "2026-10-11",
+      "added": "2026-11-05",
+      "first_seen": "2026-11-05",
+      "source_post": "https://x.com/KOF97AI/status/2118214947494646170",
+      "sources": [
+        "https://arxiv.org/abs/2605.30325",
+        "https://veda-sparse.github.io/",
+        "https://registry.comfy.org/publishers/veda-sparse/nodes/veda-sparse-attention"
+      ],
+      "flags": [],
+      "risk_notes": "",
+      "forks": 20,
+      "open_issues": 12,
+      "commits_30d": 45,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "size_kb": 2476,
+      "archived": false,
+      "fetched_at": "2026-11-05T09:59:11Z",
+      "type": "repo",
+      "path": "entries/video-gen/veda-sparse-veda-on-comfyui.md",
+      "summary": "ComfyUI の MiniMax-H3（**T2VA / FL2VA / R2VA**）に差し込む学習型スパースアテンションのノード。MODEL を受けて MODEL を返す1ノードで、モデルとLoRAの後、guider/sampler の直前に置く。"
     },
     {
       "repo": "nomadoor/ComfyUI-Panorama-Stickers",
