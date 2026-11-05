@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 127 件 — リポジトリ 105, 記事 1, リンク集 13, モデル 6, プロンプト 2 / ⚑ 要確認 6 件
+収録 129 件 — リポジトリ 107, 記事 1, リンク集 13, モデル 6, プロンプト 2 / ⚑ 要確認 6 件
 
-## リポジトリ（105）
+## リポジトリ（107）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -88,18 +88,20 @@
 | [Iris-3B Metal](entries/other/tky-27-iris-3b-metal.md) | 57 | 2 | 毎日 | 77 | 2026-10-19 | 2026-11-04 | 2026-11-04 | Apache-2.0 |
 | [ComfyUI-MossPanelDataset](entries/other/sepiablue-ai-comfyui-mosspaneldataset.md) | 32 | 5 | 週次 | 7 | 2026-11-02 | 2026-11-03 | 2026-11-03 | MIT |
 
-### 3D・モーション（11）
+### 3D・モーション（13）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
 | [MCP for Blender](entries/3d-motion/ahujasid-mcp-for-blender.md) | 33,316 | 3,020 | 毎日 | 23 | 2026-11-04 | 2026-11-04 | 2026-11-04 | MIT |
 | [Anatomy](entries/3d-motion/wheresryan22-anatomy.md) | 24,866 | 2,070 | 毎日 | 100+ | 2026-10-18 | 2026-11-04 | 2026-11-04 | MIT |
 | [floorplan-3d](entries/3d-motion/wy51ai-floorplan-3d.md) | 3,393 | 707 | 月次 | 0 | 2026-10-02 | 2026-11-03 | 2026-11-03 | MIT |
+| [UniRig](entries/3d-motion/vast-ai-research-unirig.md) | 2,028 | 204 | 停滞 | 0 | 2026-06-04 | 2026-11-05 | 2026-11-05 | MIT |
 | [teardown](entries/3d-motion/elvarofficial-teardown.md) | 1,530 | 235 | 月次 | 2 | 2026-10-31 | 2026-11-03 | 2026-11-03 | MIT |
 | [StableGen](entries/3d-motion/sakalond-stablegen.md) | 1,462 | 142 | 毎日 | 100+ | 2026-11-04 | 2026-11-04 | 2026-11-04 | GPL-3.0 |
 | [NullMotion](entries/3d-motion/blixvip-nullmotion.md) | 1,335 | 133 | 週次 | 16 | 2026-10-31 | 2026-11-04 | 2026-11-04 | MIT |
 | [Claude Animated Shorts](entries/3d-motion/mromidev-claude-animated-shorts.md) | 1,195 | 270 | 月次 | 2 | 2026-11-01 | 2026-11-03 | 2026-11-03 | MIT |
 | [Ultra Water](entries/3d-motion/humpalumps-ultra-water.md) | 617 | 86 | 毎日 | 20 | 2026-11-02 | 2026-11-03 | 2026-11-03 | MIT |
+| [SkinTokens（TokenRig）](entries/3d-motion/vast-ai-research-skintokens.md) | 597 | 82 | 停滞 | 0 | 2026-05-12 | 2026-11-05 | 2026-11-05 | MIT |
 | [SculptForge](entries/3d-motion/islandmed-sculptforge.md) | 555 | 69 | 毎日 | 100+ | 2026-11-04 | 2026-11-04 | 2026-11-04 | GPL-3.0 |
 | [open-3d-skills](entries/3d-motion/moh4696-open-3d-skills.md) | 220 | 31 | 月次 | 3 | 2026-10-31 | 2026-11-04 | 2026-11-04 | MIT |
 | [effekseer-vfx-skill](entries/3d-motion/kanaworksai-hue-effekseer-vfx-skill.md) | 79 | 6 | 週次 | 11 | 2026-10-29 | 2026-11-04 | 2026-11-04 | MIT |

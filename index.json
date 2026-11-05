@@ -1,5 +1,5 @@
 {
-  "count": 127,
+  "count": 129,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -84,6 +84,37 @@
       "type": "repo",
       "path": "entries/3d-motion/wy51ai-floorplan-3d.md",
       "summary": "ブラウザだけで動く間取り・リフォーム設計ツール。2D 平面図に家具を置き、壁を撤去し、寸法を測り、そのまま Three.js の3Dシーンに切り替えて確認できる。アプリ全体が index.html 1枚で、ビルド不要。"
+    },
+    {
+      "repo": "VAST-AI-Research/UniRig",
+      "name": "UniRig",
+      "genre": "3d-motion",
+      "url": "https://github.com/VAST-AI-Research/UniRig",
+      "author": "VAST-AI-Research（清華大学 + Tripo）",
+      "license": "MIT",
+      "stars": 2028,
+      "language": "Python",
+      "created": "2025-04-08",
+      "updated": "2026-06-04",
+      "added": "2026-11-04",
+      "first_seen": "2026-11-04",
+      "source_post": "https://x.com/dextune/status/2117854353126236641",
+      "sources": [
+        "https://zjp-shadow.github.io/works/UniRig/",
+        "https://arxiv.org/abs/2504.12451",
+        "https://github.com/VAST-AI-Research/SkinTokens"
+      ],
+      "forks": 204,
+      "open_issues": 28,
+      "commits_30d": 0,
+      "commits_90d": 0,
+      "commit_cadence": "stale",
+      "size_kb": 22338,
+      "archived": false,
+      "fetched_at": "2026-11-05T01:23:10Z",
+      "type": "repo",
+      "path": "entries/3d-motion/vast-ai-research-unirig.md",
+      "summary": "**任意の3Dメッシュに骨格とスキニングウェイトを自動で付ける**（SIGGRAPH 2025 / TOG）。人型・動物・手足の無い奇妙な形状も、1つのモデルで扱う。"
     },
     {
       "repo": "elvarofficial/teardown",
@@ -224,6 +255,37 @@
       "type": "repo",
       "path": "entries/3d-motion/humpalumps-ultra-water.md",
       "summary": "three.js（WebGL2）向けのリアルタイム海レンダラ。FFT による波、岸の砕波、泡、スワッシュ、コースティクス、水中表現、浮力、島のデモシーンをまとめて実装。"
+    },
+    {
+      "repo": "VAST-AI-Research/SkinTokens",
+      "name": "SkinTokens（TokenRig）",
+      "genre": "3d-motion",
+      "url": "https://github.com/VAST-AI-Research/SkinTokens",
+      "author": "VAST-AI-Research（清華大学 + Tripo）",
+      "license": "MIT",
+      "stars": 597,
+      "language": "Python",
+      "created": "2026-02-08",
+      "updated": "2026-05-12",
+      "added": "2026-11-04",
+      "first_seen": "2026-11-04",
+      "source_post": "https://x.com/dextune/status/2117854353126236641",
+      "sources": [
+        "https://zjp-shadow.github.io/works/SkinTokens/",
+        "https://arxiv.org/abs/2602.04805",
+        "https://huggingface.co/spaces/VAST-AI/SkinTokens"
+      ],
+      "forks": 82,
+      "open_issues": 11,
+      "commits_30d": 0,
+      "commits_90d": 0,
+      "commit_cadence": "stale",
+      "size_kb": 13374,
+      "archived": false,
+      "fetched_at": "2026-11-05T01:23:27Z",
+      "type": "repo",
+      "path": "entries/3d-motion/vast-ai-research-skintokens.md",
+      "summary": "**1つのメッシュから、スケルトン階層とスキニングウェイトを一度に生成する自動リギング**。出力は標準的な3Dパイプラインにそのまま取り込める（キャラクターアニメーション・シミュレーション用）。"
     },
     {
       "repo": "islandmed/SculptForge",
