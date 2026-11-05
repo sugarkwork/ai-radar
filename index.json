@@ -1,5 +1,5 @@
 {
-  "count": 131,
+  "count": 133,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -781,6 +781,35 @@
       "type": "repo",
       "path": "entries/agent-framework/qingyuna-answer-me-with-html.md",
       "summary": "エージェント向けのスキル。難しい問いに対して、長いテキストの壁ではなく「図と表の入った1ページの HTML」で答えを返す。"
+    },
+    {
+      "repo": "plannotator/effective-html",
+      "name": "Effective HTML",
+      "genre": "agent-framework",
+      "url": "https://github.com/plannotator/effective-html",
+      "author": "Plannotator（backnotprop）",
+      "license": "MIT",
+      "stars": 3858,
+      "language": "HTML",
+      "created": "2026-06-09",
+      "updated": "2026-10-31",
+      "added": "2026-11-04",
+      "first_seen": "2026-11-04",
+      "source_post": "https://x.com/awe0_io/status/2117992033130537470",
+      "sources": [
+        "https://www.effectivehtml.com/"
+      ],
+      "forks": 265,
+      "open_issues": 6,
+      "commits_30d": 5,
+      "commits_90d": 8,
+      "commit_cadence": "weekly",
+      "size_kb": 20188,
+      "archived": false,
+      "fetched_at": "2026-11-05T03:29:06Z",
+      "type": "repo",
+      "path": "entries/agent-framework/plannotator-effective-html.md",
+      "summary": "**エージェントに「使えるHTML成果物」を作らせるスキル集**。ワイヤーフレーム、モックアップ、動くプロトタイプ、図、レポート、プレゼン、ランディングページまで、自己完結した HTML として出力する。"
     },
     {
       "repo": "NVlabs/SoL-Pi",
@@ -1647,6 +1676,42 @@
       "type": "repo",
       "path": "entries/model-serving/midagedev-bloomery.md",
       "summary": "GPU に載りきらない MoE モデルを、GPU とホスト RAM に分割して推論するサーバー。**使用頻度の高いエキスパートを実行中に GPU へ移す**ため、全エキスパートを VRAM に置く必要がない。"
+    },
+    {
+      "type": "model",
+      "model": "higa2515/Qwen3.8-27B-QSA-GGUF",
+      "name": "Qwen3.8-27B QSA（Q8_0 GGUF + ネイティブランタイム）",
+      "genre": "model-serving",
+      "url": "https://huggingface.co/higa2515/Qwen3.8-27B-QSA-GGUF",
+      "author": "higa2515（@_ryu15_）",
+      "license": "Apache-2.0",
+      "base_model": [
+        "higa2515/Qwen3.8-27B-QSA-BF16",
+        "Qwen/Qwen3.8-27B"
+      ],
+      "format": "gguf",
+      "size": "Q8_0 本体 29.3GB ＋ mmproj F16 0.93GB ＋ ランタイム同梱アーカイブ",
+      "downloads": 14,
+      "likes": 7,
+      "created": "2026-11-04",
+      "updated": "2026-11-04",
+      "added": "2026-11-04",
+      "first_seen": "2026-11-04",
+      "source_post": "https://x.com/LiLensss/status/2118098612676952299",
+      "sources": [
+        "https://huggingface.co/higa2515/Qwen3.8-27B-QSA-BF16",
+        "https://github.com/kuraneko1/Qwen3.8-27B-QSA-llama.cpp",
+        "https://arxiv.org/abs/2608.30320"
+      ],
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "prefill約2倍・decode 45+ tok/s は作者のX投稿の数値で、モデルカードに計測条件の記載が無い。stock llama.cpp では動かず、同梱の改造ランタイム（Linux x86_64 / sm70）か自前ビルドが必須。",
+      "pricing": "free",
+      "pricing_detail": "重み無料（Apache-2.0）",
+      "signup_required": false,
+      "path": "models/model-serving/higa2515-qwen3-8-27b-qsa-gguf.md",
+      "summary": "**Qwen3.8-27B に QSA（Qwen Sparse Attention）を後付けしたモデルの Q8_0 GGUF**。公式の Qwen4 系で使われる疎注意の仕組みを、先に 27B へ移植したもの。"
     },
     {
       "repo": "NanmiCoder/MediaCrawler",
