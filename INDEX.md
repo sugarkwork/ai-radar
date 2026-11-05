@@ -2,13 +2,44 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 133 件 — リポジトリ 109, モデル 8, 記事 1, リンク集 13, プロンプト 2 / ⚑ 要確認 7 件
+収録 140 件 — リポジトリ 116, モデル 8, 記事 1, リンク集 13, プロンプト 2 / ⚑ 要確認 7 件
 
-## リポジトリ（109）
+## リポジトリ（116）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### 動画生成パイプライン（24）
+### エージェント基盤・スキル集（26）
+
+| 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
+|---|---:|---:|---|---:|---|---|---|---|
+| [Superpowers](entries/agent-framework/obra-superpowers.md) | 312,407 | 27,789 | 週次 | 4 | 2026-11-03 | 2026-11-04 | 2026-11-04 | MIT |
+| [Ponytail](entries/agent-framework/dietrichgebert-ponytail.md) | 184,508 | 10,178 | 毎日 | 58 | 2026-10-29 | 2026-11-04 | 2026-11-04 | MIT |
+| [paperclip](entries/agent-framework/paperclipai-paperclip.md) | 111,168 | 18,414 | 毎日 | 100+ | 2026-11-05 | 2026-11-05 | 2026-11-05 | MIT |
+| [Agent-Reach](entries/agent-framework/panniantong-agent-reach.md) | 108,885 | 9,726 | 毎日 | 98 | 2026-11-04 | 2026-11-05 | 2026-11-05 | MIT |
+| [Impeccable](entries/agent-framework/pbakaus-impeccable.md) | 102,748 | 6,075 | 毎日 | 100+ | 2026-11-04 | 2026-11-04 | 2026-11-04 | Apache-2.0 |
+| [strix](entries/agent-framework/usestrix-strix.md) | 73,803 | 8,321 | 毎日 | 64 | 2026-11-05 | 2026-11-05 | 2026-11-05 | Apache-2.0 |
+| [agentic-awesome-skills（AAS）](entries/agent-framework/sickn33-agentic-awesome-skills.md) | 49,154 | 7,140 | 毎日 | 100+ | 2026-11-04 | 2026-11-04 | 2026-11-04 | MIT |
+| [claude-plugins-official](entries/agent-framework/anthropics-claude-plugins-official.md) | 45,988 | 4,784 | 毎日 | 100+ | 2026-11-03 | 2026-11-03 | 2026-11-03 | Apache-2.0 |
+| [ai-website-cloner-template](entries/agent-framework/jcodesmore-ai-website-cloner-template.md) | 38,633 | 5,736 | 月次 | 0 | 2026-10-19 | 2026-11-05 | 2026-11-05 | MIT |
+| [dsh-superagent (prototype)](entries/agent-framework/deepseek-ai-dsh-superagent-prototype.md) | 17,309 | 1,874 | 月次 | 1 | 2026-11-03 | 2026-11-04 | 2026-11-04 | MIT |
+| [ARTEMIS](entries/agent-framework/google-artemis.md) | 16,511 | 1,815 | 月次 | 0 | 2026-10-01 | 2026-11-04 | 2026-11-04 | Apache-2.0 |
+| [agent-desktop](entries/agent-framework/vercel-labs-agent-desktop.md) | 15,030 | 1,039 | 毎日 | 74 | 2026-11-04 | 2026-11-05 | 2026-11-05 | Apache-2.0 |
+| [InkOS](entries/agent-framework/narcooo-inkos.md) | 11,002 | 2,002 | 週次 | 6 | 2026-10-24 | 2026-11-04 | 2026-11-04 | AGPL-3.0 |
+| [unslop](entries/agent-framework/heydamir-unslop.md) | 7,557 | 381 | 週次 | 12 | 2026-11-01 | 2026-11-04 | 2026-11-04 | CC-BY-4.0 |
+| [Open Duet](entries/agent-framework/anil-matcha-open-duet.md) | 6,771 | 868 | 毎日 | 100+ | 2026-11-04 | 2026-11-04 | 2026-11-04 | Apache-2.0 |
+| [Answer me with HTML](entries/agent-framework/qingyuna-answer-me-with-html.md) | 5,295 | 352 | 毎日 | 100+ | 2026-11-04 | 2026-11-04 | 2026-11-04 | MIT |
+| [Effective HTML](entries/agent-framework/plannotator-effective-html.md) | 3,858 | 265 | 週次 | 5 | 2026-10-31 | 2026-11-05 | 2026-11-05 | MIT |
+| [SoL-Pi](entries/agent-framework/nvlabs-sol-pi.md) | 3,638 | 299 | 毎日 | 34 | 2026-11-04 | 2026-11-04 | 2026-11-04 | MIT |
+| [Agent Autoloop](entries/agent-framework/kkkkhazix-agent-autoloop.md) | 2,420 | 485 | 毎日 | 63 | 2026-11-04 | 2026-11-04 | 2026-11-04 | MIT |
+| [Stageshow（benjitaylor/skills）](entries/agent-framework/benjitaylor-skills.md) | 1,897 | 131 | 月次 | 2 | 2026-11-04 | 2026-11-04 | 2026-11-04 | 未確認（リポジトリ全体の LICENSE なし。各スキル個別のライセンス表記） |
+| [Grok Bot Field Notes](entries/agent-framework/unicodef1wn-grokbot-field-notes.md) | 662 | 94 | 月次 | 0 | 2026-09-20 | 2026-11-03 | 2026-11-03 | MIT |
+| [LATCH](entries/agent-framework/balanov-latch.md) | 165 | 0 | 週次 | 16 | 2026-11-04 | 2026-11-05 | 2026-11-05 | MIT |
+| [video-to-skill](entries/agent-framework/brenoepics-video-to-skill.md) | 137 | 15 | 毎日 | 100+ | 2026-11-04 | 2026-11-04 | 2026-11-04 | MIT |
+| [CoworkOS](entries/agent-framework/ruc-nlpir-coworkos.md) | 117 | 12 | 週次 | 17 | 2026-11-03 | 2026-11-04 | 2026-11-04 | MIT |
+| [BetterSearch](entries/agent-framework/ry0narushima-bettersearch.md) | 40 | 4 | 週次 | 10 | 2026-10-18 | 2026-11-03 | 2026-11-03 | MIT |
+| [web-api-skills](entries/agent-framework/oxylabs-web-api-skills.md) | 11 | 1 | 月次 | 3 | 2026-10-13 | 2026-11-03 | 2026-11-03 | MIT |
+
+### 動画生成パイプライン（25）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -16,6 +47,7 @@
 | [HyperFrames](entries/video-gen/heygen-hyperframes.md) | 78,902 | 7,262 | 毎日 | 100+ | 2026-11-04 | 2026-11-04 | 2026-11-04 | Apache-2.0 |
 | [OpenMontage](entries/video-gen/calesthio-openmontage.md) | 76,491 | 10,148 | 毎日 | 46 | 2026-11-03 | 2026-11-04 | 2026-11-04 | AGPL-3.0 |
 | [Pixelle-Video](entries/video-gen/ath-maas-pixelle-video.md) | 29,762 | 4,322 | 停滞 | 0 | 2026-06-14 | 2026-11-04 | 2026-11-04 | Apache-2.0 |
+| [hypit](entries/video-gen/hypit-ai-hypit.md) | 28,027 | 3,238 | 毎日 | 75 | 2026-11-04 | 2026-11-05 | 2026-11-05 | Apache-2.0 改変版（追加条件あり、API上は NOASSERTION） |
 | [Huobao Drama（火宝短剧）](entries/video-gen/chatfire-ai-huobao-drama.md) | 17,001 | 3,170 | 週次 | 7 | 2026-11-01 | 2026-11-04 | 2026-11-04 | CC BY-NC-SA 4.0（README のバッジ。GitHub API は NOASSERTION） |
 | [video-shotcraft](entries/video-gen/vincentwei1021-video-shotcraft.md) | 16,970 | 1,599 | 週次 | 10 | 2026-10-29 | 2026-11-04 | 2026-11-04 | Apache-2.0 |
 | [awesome-opus5-5-videos](entries/video-gen/yihui-dev-awesome-opus5-5-videos.md) | 13,435 | 1,415 | 週次 | 5 | 2026-10-13 | 2026-11-04 | 2026-11-04 | MIT |
@@ -37,41 +69,16 @@
 | [Screenplay](entries/video-gen/gmpetrov-agent-screenplay.md) | 54 | 1 | 毎日 | 22 | 2026-11-03 | 2026-11-04 | 2026-11-04 | MIT |
 | [batch-video-plugin](entries/video-gen/zysen1-batch-video-plugin.md) | 42 | 17 | 月次 | 2 | 2026-11-01 | 2026-11-03 | 2026-11-03 | MIT |
 
-### エージェント基盤・スキル集（22）
+### その他（22）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
-| [Superpowers](entries/agent-framework/obra-superpowers.md) | 312,407 | 27,789 | 週次 | 4 | 2026-11-03 | 2026-11-04 | 2026-11-04 | MIT |
-| [Ponytail](entries/agent-framework/dietrichgebert-ponytail.md) | 184,508 | 10,178 | 毎日 | 58 | 2026-10-29 | 2026-11-04 | 2026-11-04 | MIT |
-| [Impeccable](entries/agent-framework/pbakaus-impeccable.md) | 102,748 | 6,075 | 毎日 | 100+ | 2026-11-04 | 2026-11-04 | 2026-11-04 | Apache-2.0 |
-| [agentic-awesome-skills（AAS）](entries/agent-framework/sickn33-agentic-awesome-skills.md) | 49,154 | 7,140 | 毎日 | 100+ | 2026-11-04 | 2026-11-04 | 2026-11-04 | MIT |
-| [claude-plugins-official](entries/agent-framework/anthropics-claude-plugins-official.md) | 45,988 | 4,784 | 毎日 | 100+ | 2026-11-03 | 2026-11-03 | 2026-11-03 | Apache-2.0 |
-| [dsh-superagent (prototype)](entries/agent-framework/deepseek-ai-dsh-superagent-prototype.md) | 17,309 | 1,874 | 月次 | 1 | 2026-11-03 | 2026-11-04 | 2026-11-04 | MIT |
-| [ARTEMIS](entries/agent-framework/google-artemis.md) | 16,511 | 1,815 | 月次 | 0 | 2026-10-01 | 2026-11-04 | 2026-11-04 | Apache-2.0 |
-| [agent-desktop](entries/agent-framework/vercel-labs-agent-desktop.md) | 15,030 | 1,039 | 毎日 | 74 | 2026-11-04 | 2026-11-05 | 2026-11-05 | Apache-2.0 |
-| [InkOS](entries/agent-framework/narcooo-inkos.md) | 11,002 | 2,002 | 週次 | 6 | 2026-10-24 | 2026-11-04 | 2026-11-04 | AGPL-3.0 |
-| [unslop](entries/agent-framework/heydamir-unslop.md) | 7,557 | 381 | 週次 | 12 | 2026-11-01 | 2026-11-04 | 2026-11-04 | CC-BY-4.0 |
-| [Open Duet](entries/agent-framework/anil-matcha-open-duet.md) | 6,771 | 868 | 毎日 | 100+ | 2026-11-04 | 2026-11-04 | 2026-11-04 | Apache-2.0 |
-| [Answer me with HTML](entries/agent-framework/qingyuna-answer-me-with-html.md) | 5,295 | 352 | 毎日 | 100+ | 2026-11-04 | 2026-11-04 | 2026-11-04 | MIT |
-| [Effective HTML](entries/agent-framework/plannotator-effective-html.md) | 3,858 | 265 | 週次 | 5 | 2026-10-31 | 2026-11-05 | 2026-11-05 | MIT |
-| [SoL-Pi](entries/agent-framework/nvlabs-sol-pi.md) | 3,638 | 299 | 毎日 | 34 | 2026-11-04 | 2026-11-04 | 2026-11-04 | MIT |
-| [Agent Autoloop](entries/agent-framework/kkkkhazix-agent-autoloop.md) | 2,420 | 485 | 毎日 | 63 | 2026-11-04 | 2026-11-04 | 2026-11-04 | MIT |
-| [Stageshow（benjitaylor/skills）](entries/agent-framework/benjitaylor-skills.md) | 1,897 | 131 | 月次 | 2 | 2026-11-04 | 2026-11-04 | 2026-11-04 | 未確認（リポジトリ全体の LICENSE なし。各スキル個別のライセンス表記） |
-| [Grok Bot Field Notes](entries/agent-framework/unicodef1wn-grokbot-field-notes.md) | 662 | 94 | 月次 | 0 | 2026-09-20 | 2026-11-03 | 2026-11-03 | MIT |
-| [LATCH](entries/agent-framework/balanov-latch.md) | 165 | 0 | 週次 | 16 | 2026-11-04 | 2026-11-05 | 2026-11-05 | MIT |
-| [video-to-skill](entries/agent-framework/brenoepics-video-to-skill.md) | 137 | 15 | 毎日 | 100+ | 2026-11-04 | 2026-11-04 | 2026-11-04 | MIT |
-| [CoworkOS](entries/agent-framework/ruc-nlpir-coworkos.md) | 117 | 12 | 週次 | 17 | 2026-11-03 | 2026-11-04 | 2026-11-04 | MIT |
-| [BetterSearch](entries/agent-framework/ry0narushima-bettersearch.md) | 40 | 4 | 週次 | 10 | 2026-10-18 | 2026-11-03 | 2026-11-03 | MIT |
-| [web-api-skills](entries/agent-framework/oxylabs-web-api-skills.md) | 11 | 1 | 月次 | 3 | 2026-10-13 | 2026-11-03 | 2026-11-03 | MIT |
-
-### その他（20）
-
-| 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
-|---|---:|---:|---|---:|---|---|---|---|
+| [career-ops](entries/other/career-ops-hq-career-ops.md) | 80,254 | 14,765 | 毎日 | 100+ | 2026-11-05 | 2026-11-05 | 2026-11-05 | MIT |
 | [MediaCrawler](entries/other/nanmicoder-mediacrawler.md) | 70,194 | 13,305 | 週次 | 11 | 2026-11-04 | 2026-11-04 | 2026-11-04 | 未確認（API は NOASSERTION、標準ライセンスファイル無し） |
 | [Kronos](entries/other/shiyu-coder-kronos.md) | 46,488 | 7,660 | 停滞 | 0 | 2026-04-13 | 2026-11-03 | 2026-11-03 | MIT |
 | [CCXT](entries/other/ccxt-ccxt.md) | 44,704 | 8,940 | 毎日 | 100+ | 2026-11-03 | 2026-11-03 | 2026-11-03 | MIT |
 | [Heretic](entries/other/p-e-w-heretic.md) | 39,338 | 4,441 | 毎日 | 25 | 2026-11-03 | 2026-11-04 | 2026-11-04 | AGPL-3.0 |
+| [OfficeCLI](entries/other/iofficeai-officecli.md) | 33,059 | 2,252 | 毎日 | 99 | 2026-10-30 | 2026-11-05 | 2026-11-05 | Apache-2.0 |
 | [awesome-quant](entries/other/wilsonfreitas-awesome-quant.md) | 30,453 | 4,291 | 毎日 | 57 | 2026-11-03 | 2026-11-03 | 2026-11-03 | unknown |
 | [backtrader](entries/other/mementum-backtrader.md) | 23,666 | 5,320 | 停滞 | 0 | 2024-08-19 | 2026-11-04 | 2026-11-04 | GPL-3.0 |
 | [machine-learning-for-trading](entries/other/stefan-jansen-machine-learning-for-trading.md) | 21,712 | 5,758 | 毎日 | 32 | 2026-11-03 | 2026-11-04 | 2026-11-04 | MIT |
