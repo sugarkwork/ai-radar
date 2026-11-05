@@ -4,24 +4,24 @@ name: hypit
 genre: video-gen
 url: https://github.com/hypit-ai/hypit
 license: Apache-2.0 改変版（追加条件あり、API上は NOASSERTION）
-stars: 28027
+stars: 28169
 language: TypeScript
 created: 2026-07-29
-updated: 2026-11-04
+updated: 2026-11-05
 added: 2026-11-05
 first_seen: 2026-11-04
 source_post: https://x.com/thegreatest_sv/status/2117687388214272339
 sources: []
 flags: []
 risk_notes: "参照動画の複製・顔の差し替えを前提とするため、肖像権・著作権・各プラットフォームの規約に注意。マルチテナントでのホスト提供や商用再配布は別途ライセンスが必要。"
-forks: 3238
-open_issues: 81
-commits_30d: 75
-size_kb: 28685
+forks: 3267
+open_issues: 91
+commits_30d: 77
+size_kb: 28695
 archived: false
 commits_90d: 100
 commit_cadence: daily
-fetched_at: "2026-11-05T04:39:55Z"
+fetched_at: "2026-11-05T22:44:09Z"
 last_release: v0.3.1
 last_release_at: 2026-10-09
 ---
@@ -44,6 +44,7 @@ last_release_at: 2026-10-09
 
 - Node.js 22.15 以上（リポジトリの開発には pnpm 10.33 / TypeScript 5.9）。
 - 生成モデルを使う場合はモデルサービスの契約が別途必要。既定の推奨はホスト型の HypiHub だが、自前APIやローカルモデルも指定できる。
+- パッケージ版 0.3.2 で Bach 1.0 Pro（bach.art）のモデル定義 `@hypit/bach` が既定の依存に加わった。0.3.0 から上げる場合はマイグレーションガイド（リポジトリの `migrations/0.3.1.md`）に沿って SDK の import と依存を更新する。
 - 動画の書き出しは ffmpeg ベース。
 
 ## 実行条件
@@ -63,3 +64,4 @@ npx skills add hypit-ai/hypit -g    # スキルとして導入（初回利用時
 ## 変更履歴
 
 - 2026-11-05: 初回登録（★28,024 / pushed 2026-11-04 / Apache-2.0改変版 / v0.3.1）
+- 2026-11-05: パッケージ版 0.3.2 — Bach 1.0 Pro のモデル定義 `@hypit/bach` を既定で同梱、HypiHub プロバイダのルートを拡張（2d31e88）

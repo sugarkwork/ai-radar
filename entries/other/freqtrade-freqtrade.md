@@ -23,7 +23,7 @@ commits_90d: 100
 commit_cadence: daily
 size_kb: 832836
 archived: false
-fetched_at: "2026-11-05T21:56:39Z"
+fetched_at: "2026-11-05T22:44:05Z"
 last_release: 2026.10
 last_release_at: 2026-10-30
 ---
@@ -45,7 +45,7 @@ last_release_at: 2026-10-30
 
 ## 依存関係
 
-- Python 3.11 以上（セットアップスクリプトが仮想環境を作る）。
+- Python 3.12 以上（2026.10 で Python 3.11 のサポートが終了した）。
 - TA-Lib（テクニカル指標）と技術計算系の依存。Docker イメージなら同梱済み。
 - 取引所のAPIキー（実取引のみ）。読み取り＋取引権限で足り、**出金権限は付けない**。
 
@@ -72,3 +72,4 @@ freqtrade trade --config user_data/config.json --strategy SampleStrategy --dry-r
 ## 変更履歴
 
 - 2026-11-05: 初回登録（★56,497 / pushed 2026-11-05 / GPL-3.0 / 2026.10）
+- 2026-11-05: 2026.10 の要件を反映 — Python は 3.12 以上（3.11 のサポート終了）、注文板の websocket 対応、戦略パラメータはインスタンス単位（`self.<param>.value`）に変更（0789f5d）

@@ -4,26 +4,26 @@ name: "OpenDataLoader PDF"
 genre: rag
 url: "https://github.com/opendataloader-project/opendataloader-pdf"
 license: "Apache-2.0"
-stars: 30166
+stars: 30178
 language: "Java"
 created: "2025-05-13"
-updated: 2026-11-04
+updated: 2026-11-05
 added: "2026-11-05"
 first_seen: "2026-11-04"
 source_post: "https://x.com/bkdgiffug/status/2118101482209993194"
 sources: ["https://opendataloader.org"]
 flags: []
 risk_notes: ""
-forks: 2883
-open_issues: 41
-size_kb: 90811
+forks: 2882
+open_issues: 35
+size_kb: 90416
 archived: false
 commits_30d: 100
 commits_90d: 100
 commit_cadence: daily
-fetched_at: "2026-11-05T00:04:24Z"
-last_release: v2.5.18
-last_release_at: 2026-11-04
+fetched_at: "2026-11-05T22:43:56Z"
+last_release: v2.5.19
+last_release_at: 2026-11-05
 ---
 
 # OpenDataLoader PDF
@@ -36,6 +36,7 @@ last_release_at: 2026-11-04
 - スキャン PDF 向けに OCR（80 言語以上）をハイブリッドモードで内蔵。
 - 付随機能として、タグ無し PDF をタグ付き PDF に自動変換するアクセシビリティ処理がある（PDF Association の Well-Tagged PDF 仕様に沿い、veraPDF で検証。PDF/UA への書き出しは enterprise 版）。
 - SDK は Python / Node.js / Java。LangChain 連携も用意されている。
+- `--filter-hidden-text` で不可視の隠しテキストを除ける（v2.5.19、ネイティブ処理のみ）。README は「可視テキストも一緒に消えることがある」と注意している。
 
 ## 目的・背景
 
@@ -68,3 +69,4 @@ opendataloader_pdf.convert(
 ## 変更履歴
 
 - 2026-11-05: 初回登録（★30,166 / Apache-2.0 / Java / 最終push 2026-11-04）
+- 2026-11-05: v2.5.19 — 隠しテキスト除去の `--filter-hidden-text` を追加。段組・リスト・共有フォーム・タグ付けの読み取り修正が多数。Node 版の依存が minimatch 11 / glob 14 に上がる（6139f07）

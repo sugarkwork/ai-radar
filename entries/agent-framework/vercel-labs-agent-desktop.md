@@ -4,26 +4,26 @@ name: "agent-desktop"
 genre: agent-framework
 url: "https://github.com/vercel-labs/agent-desktop"
 license: "Apache-2.0"
-stars: 15030
+stars: 16755
 language: "Rust"
 created: "2026-02-19"
-updated: 2026-11-04
+updated: 2026-11-05
 added: "2026-11-05"
 first_seen: "2026-11-04"
 source_post: "https://x.com/naka_1717/status/2118100305825169893"
 sources: []
 flags: []
 risk_notes: ""
-forks: 1039
-open_issues: 163
-size_kb: 64069
+forks: 1177
+open_issues: 167
+size_kb: 64294
 archived: false
-commits_30d: 74
+commits_30d: 79
 commits_90d: 100
 commit_cadence: daily
-fetched_at: "2026-11-05T00:04:14Z"
-last_release: v1.1.0
-last_release_at: 2026-11-03
+fetched_at: "2026-11-05T22:43:52Z"
+last_release: v1.2.0
+last_release_at: 2026-11-05
 ---
 
 # agent-desktop
@@ -35,6 +35,8 @@ last_release_at: 2026-11-03
 - 60 コマンド（うち 56 が稼働）。観測（`snapshot` `find` `get` `is` `screenshot` `list-surfaces`）、要素操作（`click` `type` `set-value` `toggle` `scroll-to` など）、キーボード・マウス、アプリ／ウィンドウ管理、通知、クリップボード、待機、セッション／trace。
 - `agent-desktop mcp` で全コマンドを stdio の MCP ツールとして公開する（`desktop_snapshot`、`desktop_click` など）。`agent-desktop skills get desktop` / `platform` で、そのバイナリのバージョンに合った使い方ガイドを出力する。
 - 既定はヘッドレス（ポインタ移動もフォーカス移動もしない）。物理入力を模したいときだけ `--headed`。
+- 複数ウィンドウが候補になると `AMBIGUOUS_TARGET` を返し、`error.details` に候補のウィンドウIDを並べる（`--window-id` で指定）。要素の多いアプリは `snapshot --skeleton --compact` で骨格を取り、`snapshot --root @ref` で一部分を掘る。
+- `type` / `set-value` / `clipboard-set` は `--stdin` で標準入力から UTF-8 を読める。秘密の文字列を引数（プロセス一覧）に残さない運用ができる。
 
 ## 目的・背景
 
@@ -63,3 +65,4 @@ agent-desktop click @s8f3k3p2:e8
 ## 変更履歴
 
 - 2026-11-05: 初回登録（★15,021 / Apache-2.0 / Rust / 最終push 2026-11-04）
+- 2026-11-05: v1.2.0 — 全コマンドを stdio の MCP ツールにする `agent-desktop mcp` が同梱リリースに。`type` 系の `--stdin`、複数ウィンドウの `--window-id` と `snapshot --skeleton` / `--root` の段階観測を追記。macOS のリスト行選択・カーソルオーバーレイを修正（b43ac4f）

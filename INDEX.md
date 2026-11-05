@@ -24,8 +24,8 @@
 | [claude-plugins-official](entries/agent-framework/anthropics-claude-plugins-official.md) | 45,988 | 4,784 | 毎日 | 100+ | 2026-11-03 | 2026-11-03 | 2026-11-03 | Apache-2.0 |
 | [ai-website-cloner-template](entries/agent-framework/jcodesmore-ai-website-cloner-template.md) | 38,633 | 5,736 | 月次 | 0 | 2026-10-19 | 2026-11-05 | 2026-11-05 | MIT |
 | [dsh-superagent (prototype)](entries/agent-framework/deepseek-ai-dsh-superagent-prototype.md) | 17,309 | 1,874 | 月次 | 1 | 2026-11-03 | 2026-11-04 | 2026-11-04 | MIT |
+| [agent-desktop](entries/agent-framework/vercel-labs-agent-desktop.md) | 16,755 | 1,177 | 毎日 | 79 | 2026-11-05 | 2026-11-05 | 2026-11-05 | Apache-2.0 |
 | [ARTEMIS](entries/agent-framework/google-artemis.md) | 16,511 | 1,815 | 月次 | 0 | 2026-10-01 | 2026-11-04 | 2026-11-04 | Apache-2.0 |
-| [agent-desktop](entries/agent-framework/vercel-labs-agent-desktop.md) | 15,030 | 1,039 | 毎日 | 74 | 2026-11-04 | 2026-11-05 | 2026-11-05 | Apache-2.0 |
 | [OpenUI](entries/agent-framework/thesysdev-openui.md) | 14,787 | 977 | 毎日 | 100+ | 2026-11-05 | 2026-11-05 | 2026-11-05 | MIT |
 | [InkOS](entries/agent-framework/narcooo-inkos.md) | 11,002 | 2,002 | 週次 | 6 | 2026-10-24 | 2026-11-04 | 2026-11-04 | AGPL-3.0 |
 | [jakubkrehel/skills（UI デザインスキル集）](entries/agent-framework/jakubkrehel-skills.md) | 10,894 | 421 | 毎日 | 31 | 2026-11-02 | 2026-11-05 | 2026-11-05 | MIT |
@@ -49,7 +49,7 @@
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
-| [career-ops](entries/other/career-ops-hq-career-ops.md) | 80,254 | 14,765 | 毎日 | 100+ | 2026-11-05 | 2026-11-05 | 2026-11-05 | MIT |
+| [career-ops](entries/other/career-ops-hq-career-ops.md) | 80,446 | 14,799 | 毎日 | 100+ | 2026-11-05 | 2026-11-05 | 2026-11-05 | MIT |
 | [MediaCrawler](entries/other/nanmicoder-mediacrawler.md) | 70,194 | 13,305 | 週次 | 11 | 2026-11-04 | 2026-11-04 | 2026-11-04 | 未確認（API は NOASSERTION、標準ライセンスファイル無し） |
 | [Freqtrade](entries/other/freqtrade-freqtrade.md) | 56,500 | 11,676 | 毎日 | 100+ | 2026-11-05 | 2026-11-05 | 2026-11-05 | GPL-3.0 |
 | [Kronos](entries/other/shiyu-coder-kronos.md) | 46,488 | 7,660 | 停滞 | 0 | 2026-04-13 | 2026-11-03 | 2026-11-03 | MIT |
@@ -89,7 +89,7 @@
 | [HyperFrames](entries/video-gen/heygen-hyperframes.md) | 78,902 | 7,262 | 毎日 | 100+ | 2026-11-04 | 2026-11-04 | 2026-11-04 | Apache-2.0 |
 | [OpenMontage](entries/video-gen/calesthio-openmontage.md) | 76,491 | 10,148 | 毎日 | 46 | 2026-11-03 | 2026-11-04 | 2026-11-04 | AGPL-3.0 |
 | [Pixelle-Video](entries/video-gen/ath-maas-pixelle-video.md) | 29,762 | 4,322 | 停滞 | 0 | 2026-06-14 | 2026-11-04 | 2026-11-04 | Apache-2.0 |
-| [hypit](entries/video-gen/hypit-ai-hypit.md) | 28,027 | 3,238 | 毎日 | 75 | 2026-11-04 | 2026-11-05 | 2026-11-05 | Apache-2.0 改変版（追加条件あり、API上は NOASSERTION） |
+| [hypit](entries/video-gen/hypit-ai-hypit.md) | 28,169 | 3,267 | 毎日 | 77 | 2026-11-05 | 2026-11-05 | 2026-11-05 | Apache-2.0 改変版（追加条件あり、API上は NOASSERTION） |
 | [Huobao Drama（火宝短剧）](entries/video-gen/chatfire-ai-huobao-drama.md) | 17,001 | 3,170 | 週次 | 7 | 2026-11-01 | 2026-11-04 | 2026-11-04 | CC BY-NC-SA 4.0（README のバッジ。GitHub API は NOASSERTION） |
 | [video-shotcraft](entries/video-gen/vincentwei1021-video-shotcraft.md) | 16,970 | 1,599 | 週次 | 10 | 2026-10-29 | 2026-11-04 | 2026-11-04 | Apache-2.0 |
 | [awesome-opus5-5-videos](entries/video-gen/yihui-dev-awesome-opus5-5-videos.md) | 13,435 | 1,415 | 週次 | 5 | 2026-10-13 | 2026-11-04 | 2026-11-04 | MIT |
@@ -100,8 +100,8 @@
 | [vox-director](entries/video-gen/alisa0808-vox-director.md) | 2,608 | 365 | 月次 | 1 | 2026-10-05 | 2026-11-04 | 2026-11-04 | MIT |
 | [huashu-motion（花叔）](entries/video-gen/alchaincyf-huashu-motion.md) | 2,205 | 215 | 週次 | 15 | 2026-10-22 | 2026-11-03 | 2026-11-03 | MIT |
 | [Animate](entries/video-gen/cth9191-animate.md) | 1,441 | 186 | 月次 | 1 | 2026-10-05 | 2026-11-03 | 2026-11-03 | MIT |
+| [Papermorph](entries/video-gen/dozentwelve-papermorph.md) | 1,234 | 163 | 毎日 | 100+ | 2026-11-05 | 2026-11-05 | 2026-11-05 | MIT |
 | [Motion Prompt](entries/video-gen/showheyohtaki-motion-prompt.md) | 1,175 | 134 | 週次 | 15 | 2026-10-29 | 2026-11-03 | 2026-11-03 | MIT |
-| [Papermorph](entries/video-gen/dozentwelve-papermorph.md) | 1,145 | 152 | 毎日 | 100+ | 2026-11-04 | 2026-11-04 | 2026-11-04 | MIT |
 | [vibe-knowledge-film](entries/video-gen/heychengc-vibe-knowledge-film.md) ⚑ | 977 | 98 | 週次 | 9 | 2026-10-13 | 2026-11-03 | 2026-11-03 | 未確認（GitHub API は NOASSERTION） |
 | [赛博小雅直播版（Cyber Xiaoya Live）](entries/video-gen/cyber-xiaoya-cyber-xiaoya-live.md) | 706 | 310 | 週次 | 18 | 2026-11-02 | 2026-11-05 | 2026-11-05 | AGPL-3.0（コードのみ。素材・ブランドは NOTICE で別扱い） |
 | [comfyui-obvpm-timeline](entries/video-gen/chanon-comfyui-obvpm-timeline.md) | 256 | 31 | 週次 | 11 | 2026-10-23 | 2026-11-04 | 2026-11-04 | GPL-3.0 |
@@ -174,7 +174,7 @@
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
-| [OpenDataLoader PDF](entries/rag/opendataloader-project-opendataloader-pdf.md) | 30,166 | 2,883 | 毎日 | 100+ | 2026-11-04 | 2026-11-05 | 2026-11-05 | Apache-2.0 |
+| [OpenDataLoader PDF](entries/rag/opendataloader-project-opendataloader-pdf.md) | 30,178 | 2,882 | 毎日 | 100+ | 2026-11-05 | 2026-11-05 | 2026-11-05 | Apache-2.0 |
 | [pdf-inspector](entries/rag/firecrawl-pdf-inspector.md) | 19,825 | 1,337 | 月次 | 1 | 2026-10-22 | 2026-11-04 | 2026-11-04 | MIT |
 | [DigUp](entries/rag/arahim3-digup.md) | 6,237 | 493 | 毎日 | 100+ | 2026-10-26 | 2026-11-04 | 2026-11-04 | MIT |
 | [OpenKB](entries/rag/vectifyai-openkb.md) | 4,849 | 503 | 停滞 | 0 | 2026-07-22 | 2026-11-04 | 2026-11-04 | Apache-2.0 |
