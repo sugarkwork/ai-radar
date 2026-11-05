@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 154 件 — リポジトリ 124, モデル 10, 記事 1, リンク集 16, プロンプト 3 / ⚑ 要確認 9 件
+収録 155 件 — リポジトリ 125, モデル 10, 記事 1, リンク集 16, プロンプト 3 / ⚑ 要確認 9 件
 
-## リポジトリ（124）
+## リポジトリ（125）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -45,7 +45,7 @@
 | [BetterSearch](entries/agent-framework/ry0narushima-bettersearch.md) | 40 | 4 | 週次 | 10 | 2026-10-18 | 2026-11-03 | 2026-11-03 | MIT |
 | [web-api-skills](entries/agent-framework/oxylabs-web-api-skills.md) | 11 | 1 | 月次 | 3 | 2026-10-13 | 2026-11-03 | 2026-11-03 | MIT |
 
-### 動画生成パイプライン（26）
+### 動画生成パイプライン（27）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Motion Prompt](entries/video-gen/showheyohtaki-motion-prompt.md) | 1,175 | 134 | 週次 | 15 | 2026-10-29 | 2026-11-03 | 2026-11-03 | MIT |
 | [Papermorph](entries/video-gen/dozentwelve-papermorph.md) | 1,145 | 152 | 毎日 | 100+ | 2026-11-04 | 2026-11-04 | 2026-11-04 | MIT |
 | [vibe-knowledge-film](entries/video-gen/heychengc-vibe-knowledge-film.md) ⚑ | 977 | 98 | 週次 | 9 | 2026-10-13 | 2026-11-03 | 2026-11-03 | 未確認（GitHub API は NOASSERTION） |
+| [赛博小雅直播版（Cyber Xiaoya Live）](entries/video-gen/cyber-xiaoya-cyber-xiaoya-live.md) | 706 | 310 | 週次 | 18 | 2026-11-02 | 2026-11-05 | 2026-11-05 | AGPL-3.0（コードのみ。素材・ブランドは NOTICE で別扱い） |
 | [comfyui-obvpm-timeline](entries/video-gen/chanon-comfyui-obvpm-timeline.md) | 256 | 31 | 週次 | 11 | 2026-10-23 | 2026-11-04 | 2026-11-04 | GPL-3.0 |
 | [Infinite Creation（Agent无限创作）](entries/video-gen/swotatmk-infinite-creation.md) | 231 | 55 | 毎日 | 100+ | 2026-11-04 | 2026-11-04 | 2026-11-04 | MIT |
 | [Veda Sparse Attention for ComfyUI (MiniMax-H3)](entries/video-gen/veda-sparse-veda-on-comfyui.md) | 218 | 20 | 毎日 | 45 | 2026-10-11 | 2026-11-05 | 2026-11-05 | MIT |
