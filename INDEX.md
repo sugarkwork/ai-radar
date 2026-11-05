@@ -2,37 +2,43 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 142 件 — リポジトリ 117, モデル 8, 記事 1, リンク集 14, プロンプト 2 / ⚑ 要確認 7 件
+収録 153 件 — リポジトリ 124, モデル 10, 記事 1, リンク集 16, プロンプト 2 / ⚑ 要確認 7 件
 
-## リポジトリ（117）
+## リポジトリ（124）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### エージェント基盤・スキル集（26）
+### エージェント基盤・スキル集（32）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
+| [Skills for Real Engineers](entries/agent-framework/mattpocock-skills.md) | 313,998 | 26,327 | 毎日 | 49 | 2026-11-05 | 2026-11-05 | 2026-11-05 | MIT |
 | [Superpowers](entries/agent-framework/obra-superpowers.md) | 312,407 | 27,789 | 週次 | 4 | 2026-11-03 | 2026-11-04 | 2026-11-04 | MIT |
 | [Ponytail](entries/agent-framework/dietrichgebert-ponytail.md) | 184,508 | 10,178 | 毎日 | 58 | 2026-10-29 | 2026-11-04 | 2026-11-04 | MIT |
 | [paperclip](entries/agent-framework/paperclipai-paperclip.md) | 111,168 | 18,414 | 毎日 | 100+ | 2026-11-05 | 2026-11-05 | 2026-11-05 | MIT |
 | [Agent-Reach](entries/agent-framework/panniantong-agent-reach.md) | 108,885 | 9,726 | 毎日 | 98 | 2026-11-04 | 2026-11-05 | 2026-11-05 | MIT |
 | [Impeccable](entries/agent-framework/pbakaus-impeccable.md) | 102,748 | 6,075 | 毎日 | 100+ | 2026-11-04 | 2026-11-04 | 2026-11-04 | Apache-2.0 |
 | [strix](entries/agent-framework/usestrix-strix.md) | 73,803 | 8,321 | 毎日 | 64 | 2026-11-05 | 2026-11-05 | 2026-11-05 | Apache-2.0 |
+| [CLI-Anything](entries/agent-framework/hkuds-cli-anything.md) | 58,277 | 5,245 | — | — | 2026-09-22 |  | 2026-11-05 | Apache-2.0 |
 | [agentic-awesome-skills（AAS）](entries/agent-framework/sickn33-agentic-awesome-skills.md) | 49,154 | 7,140 | 毎日 | 100+ | 2026-11-04 | 2026-11-04 | 2026-11-04 | MIT |
 | [claude-plugins-official](entries/agent-framework/anthropics-claude-plugins-official.md) | 45,988 | 4,784 | 毎日 | 100+ | 2026-11-03 | 2026-11-03 | 2026-11-03 | Apache-2.0 |
 | [ai-website-cloner-template](entries/agent-framework/jcodesmore-ai-website-cloner-template.md) | 38,633 | 5,736 | 月次 | 0 | 2026-10-19 | 2026-11-05 | 2026-11-05 | MIT |
 | [dsh-superagent (prototype)](entries/agent-framework/deepseek-ai-dsh-superagent-prototype.md) | 17,309 | 1,874 | 月次 | 1 | 2026-11-03 | 2026-11-04 | 2026-11-04 | MIT |
 | [ARTEMIS](entries/agent-framework/google-artemis.md) | 16,511 | 1,815 | 月次 | 0 | 2026-10-01 | 2026-11-04 | 2026-11-04 | Apache-2.0 |
 | [agent-desktop](entries/agent-framework/vercel-labs-agent-desktop.md) | 15,030 | 1,039 | 毎日 | 74 | 2026-11-04 | 2026-11-05 | 2026-11-05 | Apache-2.0 |
+| [OpenUI](entries/agent-framework/thesysdev-openui.md) | 14,787 | 977 | — | — | 2026-11-05 |  | 2026-11-05 | MIT |
 | [InkOS](entries/agent-framework/narcooo-inkos.md) | 11,002 | 2,002 | 週次 | 6 | 2026-10-24 | 2026-11-04 | 2026-11-04 | AGPL-3.0 |
+| [jakubkrehel/skills（UI デザインスキル集）](entries/agent-framework/jakubkrehel-skills.md) | 10,894 | 421 | — | — | 2026-11-02 |  | 2026-11-05 | MIT |
 | [unslop](entries/agent-framework/heydamir-unslop.md) | 7,557 | 381 | 週次 | 12 | 2026-11-01 | 2026-11-04 | 2026-11-04 | CC-BY-4.0 |
 | [Open Duet](entries/agent-framework/anil-matcha-open-duet.md) | 6,771 | 868 | 毎日 | 100+ | 2026-11-04 | 2026-11-04 | 2026-11-04 | Apache-2.0 |
 | [Answer me with HTML](entries/agent-framework/qingyuna-answer-me-with-html.md) | 5,295 | 352 | 毎日 | 100+ | 2026-11-04 | 2026-11-04 | 2026-11-04 | MIT |
+| [PilotDeck](entries/agent-framework/openbmb-pilotdeck.md) | 4,980 | 560 | — | — | 2026-11-05 |  | 2026-11-05 | AGPL-3.0 |
 | [Effective HTML](entries/agent-framework/plannotator-effective-html.md) | 3,858 | 265 | 週次 | 5 | 2026-10-31 | 2026-11-05 | 2026-11-05 | MIT |
 | [SoL-Pi](entries/agent-framework/nvlabs-sol-pi.md) | 3,638 | 299 | 毎日 | 34 | 2026-11-04 | 2026-11-04 | 2026-11-04 | MIT |
 | [Agent Autoloop](entries/agent-framework/kkkkhazix-agent-autoloop.md) | 2,420 | 485 | 毎日 | 63 | 2026-11-04 | 2026-11-04 | 2026-11-04 | MIT |
 | [Stageshow（benjitaylor/skills）](entries/agent-framework/benjitaylor-skills.md) | 1,897 | 131 | 月次 | 2 | 2026-11-04 | 2026-11-04 | 2026-11-04 | 未確認（リポジトリ全体の LICENSE なし。各スキル個別のライセンス表記） |
 | [Grok Bot Field Notes](entries/agent-framework/unicodef1wn-grokbot-field-notes.md) | 662 | 94 | 月次 | 0 | 2026-09-20 | 2026-11-03 | 2026-11-03 | MIT |
+| [@antfu/skills（npm で配るスキル詰め合わせ）](entries/agent-framework/antfu-skills-pack.md) | 334 | 4 | — | — | 2026-10-30 |  | 2026-11-05 | MIT |
 | [LATCH](entries/agent-framework/balanov-latch.md) | 165 | 0 | 週次 | 16 | 2026-11-04 | 2026-11-05 | 2026-11-05 | MIT |
 | [video-to-skill](entries/agent-framework/brenoepics-video-to-skill.md) | 137 | 15 | 毎日 | 100+ | 2026-11-04 | 2026-11-04 | 2026-11-04 | MIT |
 | [CoworkOS](entries/agent-framework/ruc-nlpir-coworkos.md) | 117 | 12 | 週次 | 17 | 2026-11-03 | 2026-11-04 | 2026-11-04 | MIT |
@@ -144,6 +150,15 @@
 | [llamAmpere](entries/model-serving/jakeatx-llamampere.md) | 221 | 30 | 毎日 | 100+ | 2026-11-03 | 2026-11-04 | 2026-11-04 | MIT |
 | [bloomery](entries/model-serving/midagedev-bloomery.md) | 60 | 7 | 毎日 | 100+ | 2026-11-04 | 2026-11-04 | 2026-11-04 | MIT |
 
+### コーディングエージェント（4）
+
+| 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
+|---|---:|---:|---|---:|---|---|---|---|
+| [CodeGraph](entries/coding-agent/colbymchenry-codegraph.md) | 76,377 | 5,078 | 毎日 | 100+ | 2026-11-01 | 2026-11-03 | 2026-11-03 | MIT |
+| [jcode](entries/coding-agent/1jehuang-jcode.md) | 21,484 | 2,506 | 毎日 | 100+ | 2026-11-04 | 2026-11-04 | 2026-11-04 | MIT |
+| [Craft Anything](entries/coding-agent/storytold-craft-anything.md) | 11,488 | 1,879 | 毎日 | 100+ | 2026-11-04 | 2026-11-04 | 2026-11-04 | Apache-2.0 |
+| [oh-my-mermaid（omm）](entries/coding-agent/oh-my-mermaid-oh-my-mermaid.md) | 3,380 | 267 | — | — | 2026-04-07 |  | 2026-11-05 | MIT |
+
 ### RAG・検索（4）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
@@ -152,14 +167,6 @@
 | [pdf-inspector](entries/rag/firecrawl-pdf-inspector.md) | 19,825 | 1,337 | 月次 | 1 | 2026-10-22 | 2026-11-04 | 2026-11-04 | MIT |
 | [DigUp](entries/rag/arahim3-digup.md) | 6,237 | 493 | 毎日 | 100+ | 2026-10-26 | 2026-11-04 | 2026-11-04 | MIT |
 | [OpenKB](entries/rag/vectifyai-openkb.md) | 4,849 | 503 | 停滞 | 0 | 2026-07-22 | 2026-11-04 | 2026-11-04 | Apache-2.0 |
-
-### コーディングエージェント（3）
-
-| 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
-|---|---:|---:|---|---:|---|---|---|---|
-| [CodeGraph](entries/coding-agent/colbymchenry-codegraph.md) | 76,377 | 5,078 | 毎日 | 100+ | 2026-11-01 | 2026-11-03 | 2026-11-03 | MIT |
-| [jcode](entries/coding-agent/1jehuang-jcode.md) | 21,484 | 2,506 | 毎日 | 100+ | 2026-11-04 | 2026-11-04 | 2026-11-04 | MIT |
-| [Craft Anything](entries/coding-agent/storytold-craft-anything.md) | 11,488 | 1,879 | 毎日 | 100+ | 2026-11-04 | 2026-11-04 | 2026-11-04 | Apache-2.0 |
 
 ### プロンプト（デザイン/UI）（2）
 
@@ -189,7 +196,7 @@
 - **[CodeGraph を Codex に接続する導入プロンプト](prompts/prompt-design/codegraph-codex-setup.md)**  Codex / @goan999999
   - CodeGraph（コード知識グラフの MCP サーバー）を既存の Codex 環境に組み込み、インストール・MCP 設定・索引構築・動作検証までをエージェントに一括でやらせる。手順の暗記を省き、既存設定を壊さないことを明示している点が要点。
 
-## リンク集（14）
+## リンク集（16）
 
 ### リンク（作例・インスピレーション）（7）
 
@@ -221,14 +228,18 @@
 - **[Wedoflow](links/link-service/wedoflow-com.md)**  paid / Wedoflow
   - Webflow 向けのプレミアムテンプレート販売。デザイン済みのページを買って、サイト構築の時間を短縮する。
 
-### リンク（素材・アイコン・3D）（2）
+### リンク（素材・アイコン・3D）（4）
 
+- **[AI Camera Movements（カメラワーク46種のプロンプト）](links/link-asset/aicameramovements-com.md)**  free / aicameramovements.com
+  - AI 動画の「カメラが止まって見える」問題を、動きの名前と定型プロンプトで解決する。動きの違いを並べて比較してから選べる。
+- **[Melies 撮影技法ライブラリ（424種）](links/link-asset/melies-co-cinematic-techniques.md)**  Melies
+  - AI 動画のプロンプトに「映画の語彙」を持ち込むための事典。技法名から入って、意味・作例・そのまま使えるプロンプトを引く。
 - **[Mio's Pose Designs Vol. 11](links/link-asset/mio-pose-designs-vol11.md)**  free / @Mio_2am
   - 座位・横臥のポーズを9種類まとめた作画資料。画像生成AIのポーズ指定、ControlNet・LoRA の参照セット、絵コンテの下敷きなど、人体の姿勢を固定したいときに使う。
 - **[Wonderlist](links/link-asset/wonderlist-design.md)**  paid / Wonderlist
   - Figma 形式の Web サイトデザイン集を買い切りで販売する。デザイナー／開発者が一から設計せずにサイトを立ち上げるための素材。
 
-## モデル（8）
+## モデル（10）
 
 ### 動画生成パイプライン（4）
 
@@ -241,6 +252,13 @@
 - **[Pika H3 Flex Turbo LoRA](models/video-gen/pika-labs-pika-h3-flex-turbo-lora.md)**  free / Pika Labs（LoRA 制作は @_akhaliq）
   - Pika のオープンウェイト動画モデル **Pika H3 Flex** に、数ステップ蒸留を合成した LoRA。**2ステップ下書き → 4ステップ本番 → 8ステップ高画質**を、それぞれ単体ファイルで提供する。
 
+### その他（2）
+
+- **[Clover 35B-A3B（拡散型 MoE）](models/other/diffuspace-clover-35b-a3b-preview.md)**  free / DiffuSpace
+  - **自己回帰ではなくブロック拡散で書く**テキスト生成モデル。1トークンずつ左から伸ばす代わりに、ブロック単位でマスクを置き、確信度の高い位置から並列に埋めて確定させる。
+- **[Qwen3.5-0.8B weight-space-programming](models/other/ml-intern-lab-qwen3-5-0-8b-weight-space-programming.md)**  free / ML Intern lab（@_akhaliq ほか）
+  - **学習せずに重みを直接編集して、モデルの病的な挙動を直したチェックポイント**。Qwen3.5-0.8B が数学問題でトークン上限までループする症状を、勾配降下も微調整も使わずに修正している。
+
 ### 3D・モーション（1）
 
 - **[UniMate チェックポイント](models/3d-motion/linzhan-unimate.md)**  free / Linzhan Mou ほか（Princeton / UC Berkeley / MIT / NTU）
@@ -251,10 +269,10 @@
 - **[Qwen3.8-27B QSA（Q8_0 GGUF + ネイティブランタイム）](models/model-serving/higa2515-qwen3-8-27b-qsa-gguf.md)** ⚑  free / higa2515（@_ryu15_）
   - **Qwen3.8-27B に QSA（Qwen Sparse Attention）を後付けしたモデルの Q8_0 GGUF**。公式の Qwen4 系で使われる疎注意の仕組みを、先に 27B へ移植したもの。
 
-### その他（1）
+### RAG・検索（1）
 
-- **[Qwen3.5-0.8B weight-space-programming](models/other/ml-intern-lab-qwen3-5-0-8b-weight-space-programming.md)**  free / ML Intern lab（@_akhaliq ほか）
-  - **学習せずに重みを直接編集して、モデルの病的な挙動を直したチェックポイント**。Qwen3.5-0.8B が数学問題でトークン上限までループする症状を、勾配降下も微調整も使わずに修正している。
+- **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
+  - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
 ### 音声・TTS（1）
 

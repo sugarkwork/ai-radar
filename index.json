@@ -1,5 +1,5 @@
 {
-  "count": 142,
+  "count": 153,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -434,6 +434,39 @@
       "summary": "[UniMate](https://github.com/Friedrich-M/UniMate)（任意骨格向けテキスト→モーション）の**学習済みチェックポイント配布**。設定 JSON・正規化統計（.npy）・各ステップの .pt が入る。"
     },
     {
+      "repo": "mattpocock/skills",
+      "name": "Skills for Real Engineers",
+      "genre": "agent-framework",
+      "url": "https://github.com/mattpocock/skills",
+      "license": "MIT",
+      "stars": 313998,
+      "language": "Shell",
+      "created": "2026-02-03",
+      "updated": "2026-11-05",
+      "added": "2026-11-05",
+      "first_seen": "2026-11-05",
+      "source_post": "https://x.com/mattpocockuk/status/2117947025354539286",
+      "sources": [
+        "https://aihero.dev/skills",
+        "https://skills.sh/mattpocock/skills"
+      ],
+      "flags": [],
+      "risk_notes": "",
+      "forks": 26327,
+      "open_issues": 214,
+      "commits_30d": 49,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "size_kb": 2267,
+      "archived": false,
+      "fetched_at": "2026-11-05T10:18:14Z",
+      "last_release": "v1.3.2",
+      "last_release_at": "2026-10-29",
+      "type": "repo",
+      "path": "entries/agent-framework/mattpocock-skills.md",
+      "summary": "コーディングエージェント向けのスキル集。**小さく合成可能**であることを優先し、プロセス全体を所有するフレームワーク（GSD / BMAD / Spec-Kit など）とは対極に置いている。モデル非依存。"
+    },
+    {
       "repo": "obra/superpowers",
       "name": "Superpowers",
       "genre": "agent-framework",
@@ -611,6 +644,32 @@
       "summary": "自律型のAIペネトレーションテストエージェント。コードを実際に動かし、脆弱性を見つけ、**動作するPoCで検証**してから報告する。静的分析ツールの誤検知を避けるのが狙い。"
     },
     {
+      "repo": "HKUDS/CLI-Anything",
+      "name": "CLI-Anything",
+      "genre": "agent-framework",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "license": "Apache-2.0",
+      "stars": 58277,
+      "language": "Python",
+      "created": "2026-03-08",
+      "updated": "2026-09-22",
+      "added": "2026-11-05",
+      "first_seen": "2026-10-20",
+      "source_post": "https://x.com/opensourcelab9/status/2112672719175331872",
+      "sources": [
+        "https://clianything.cc/"
+      ],
+      "flags": [],
+      "risk_notes": "",
+      "forks": 5245,
+      "open_issues": 240,
+      "size_kb": 42270,
+      "archived": false,
+      "type": "repo",
+      "path": "entries/agent-framework/hkuds-cli-anything.md",
+      "summary": "GUI でしか操作できないソフト（GIMP、LibreOffice、Blender、CAD など）を、エージェントが叩ける **CLI として扱えるようにする**。各ソフト向けの「ハーネス」を集めたレジストリ（CLI-Hub）から入れるか、無いものは自分で生成する。"
+    },
+    {
       "repo": "sickn33/agentic-awesome-skills",
       "name": "agentic-awesome-skills（AAS）",
       "genre": "agent-framework",
@@ -786,6 +845,32 @@
       "summary": "デスクトップアプリを AI エージェントから操作するための CLI / C ライブラリ。スクリーンショットも画像の位置合わせも使わず、OS のアクセシビリティツリーを読んで「操作できる要素」を ref 付きの JSON で返す。"
     },
     {
+      "repo": "thesysdev/openui",
+      "name": "OpenUI",
+      "genre": "agent-framework",
+      "url": "https://github.com/thesysdev/openui",
+      "license": "MIT",
+      "stars": 14787,
+      "language": "TypeScript",
+      "created": "2024-12-02",
+      "updated": "2026-11-05",
+      "added": "2026-11-05",
+      "first_seen": "2026-10-21",
+      "source_post": "https://x.com/opensourcelab9/status/2112793520318914852",
+      "sources": [
+        "https://www.openui.com"
+      ],
+      "flags": [],
+      "risk_notes": "",
+      "forks": 977,
+      "open_issues": 198,
+      "size_kb": 428552,
+      "archived": false,
+      "type": "repo",
+      "path": "entries/agent-framework/thesysdev-openui.md",
+      "summary": "モデルに返させる UI を **OpenUI Lang** という専用の記法で書かせる。JSON ではなくストリーミング前提の言語で、README では「同等の JSON より最大67%トークンが少ない」としている。"
+    },
+    {
       "repo": "Narcooo/inkos",
       "name": "InkOS",
       "genre": "agent-framework",
@@ -815,6 +900,32 @@
       "type": "repo",
       "path": "entries/agent-framework/narcooo-inkos.md",
       "summary": "**長編の物語創作に特化した AI エージェント**。世界観・人物設定・伏筆（伏線）・校閲・改稿を1つのワークフローに統合する。"
+    },
+    {
+      "repo": "jakubkrehel/skills",
+      "name": "jakubkrehel/skills（UI デザインスキル集）",
+      "genre": "agent-framework",
+      "url": "https://github.com/jakubkrehel/skills",
+      "license": "MIT",
+      "stars": 10894,
+      "language": "Markdown",
+      "created": "2026-07-10",
+      "updated": "2026-11-02",
+      "added": "2026-11-05",
+      "first_seen": "2026-10-22",
+      "source_post": "https://x.com/sumika45379/status/2113397508152111418",
+      "sources": [
+        "https://jakub.kr/skills"
+      ],
+      "flags": [],
+      "risk_notes": "",
+      "forks": 421,
+      "open_issues": 11,
+      "size_kb": 741,
+      "archived": false,
+      "type": "repo",
+      "path": "entries/agent-framework/jakubkrehel-skills.md",
+      "summary": "AI エージェントに「画面の見た目」を任せるためのスキル14本。中身は Markdown の指示書で、コードは入っていない。"
     },
     {
       "repo": "heydamir/unslop",
@@ -901,6 +1012,33 @@
       "type": "repo",
       "path": "entries/agent-framework/qingyuna-answer-me-with-html.md",
       "summary": "エージェント向けのスキル。難しい問いに対して、長いテキストの壁ではなく「図と表の入った1ページの HTML」で答えを返す。"
+    },
+    {
+      "repo": "OpenBMB/PilotDeck",
+      "name": "PilotDeck",
+      "genre": "agent-framework",
+      "url": "https://github.com/OpenBMB/PilotDeck",
+      "license": "AGPL-3.0",
+      "stars": 4980,
+      "language": "TypeScript",
+      "created": "2026-05-22",
+      "updated": "2026-11-05",
+      "added": "2026-11-05",
+      "first_seen": "2026-10-20",
+      "source_post": "https://x.com/opensourcelab9/status/2112514206511837503",
+      "sources": [
+        "https://x.com/OpenBMB/status/2110364065822646570",
+        "https://pilotdeck.openbmb.cn"
+      ],
+      "flags": [],
+      "risk_notes": "",
+      "forks": 560,
+      "open_issues": 178,
+      "size_kb": 72741,
+      "archived": false,
+      "type": "repo",
+      "path": "entries/agent-framework/openbmb-pilotdeck.md",
+      "summary": "「WorkSpace」を単位に、ファイル・メモリ・スキルをプロジェクトごとに分離する。並行して複数の仕事を走らせても文脈が混ざらない。"
     },
     {
       "repo": "plannotator/effective-html",
@@ -1049,6 +1187,30 @@
       "type": "repo",
       "path": "entries/agent-framework/unicodef1wn-grokbot-field-notes.md",
       "summary": "xAI の Grok Bot チームのエンジニア3名が、空のリポジトリから 72 時間のライブ配信で製品を作り切った際の運用知識を配布する。"
+    },
+    {
+      "repo": "antfu/skills-pack",
+      "name": "@antfu/skills（npm で配るスキル詰め合わせ）",
+      "genre": "agent-framework",
+      "url": "https://github.com/antfu/skills-pack",
+      "license": "MIT",
+      "stars": 334,
+      "language": "TypeScript",
+      "created": "2026-09-25",
+      "updated": "2026-10-30",
+      "added": "2026-11-05",
+      "first_seen": "2026-10-22",
+      "source_post": "https://x.com/opensourcelab9/status/2113155901104542124",
+      "sources": [],
+      "flags": [],
+      "risk_notes": "",
+      "forks": 4,
+      "open_issues": 0,
+      "size_kb": 124,
+      "archived": false,
+      "type": "repo",
+      "path": "entries/agent-framework/antfu-skills-pack.md",
+      "summary": "複数の配布元のエージェントスキルを1つの npm パッケージにまとめ、pnpm i のたびに同期する。導入は依存に @antfu/skills と skills を足し、prepare に skills experimental_sync -y を置くだけ。"
     },
     {
       "repo": "Balanov/latch",
@@ -1302,6 +1464,30 @@
       "summary": "対象（Web サイト、デスクトップアプリ、スマホアプリ、ゲーム、ファイル）を**実測ツールで調査**し、何でどう作られているかを証拠付きで返す。各回答に信頼度・網羅率・限界が付く。"
     },
     {
+      "repo": "oh-my-mermaid/oh-my-mermaid",
+      "name": "oh-my-mermaid（omm）",
+      "genre": "coding-agent",
+      "url": "https://github.com/oh-my-mermaid/oh-my-mermaid",
+      "license": "MIT",
+      "stars": 3380,
+      "language": "TypeScript",
+      "created": "2026-03-22",
+      "updated": "2026-04-07",
+      "added": "2026-11-05",
+      "first_seen": "2026-10-26",
+      "source_post": "https://x.com/opensourcelab9/status/2114847055210553442",
+      "sources": [],
+      "flags": [],
+      "risk_notes": "",
+      "forks": 267,
+      "open_issues": 10,
+      "size_kb": 2359,
+      "archived": false,
+      "type": "repo",
+      "path": "entries/coding-agent/oh-my-mermaid-oh-my-mermaid.md",
+      "summary": "AI エージェントにコードベースを読ませ、**アーキテクチャ図**を Mermaid で書かせる。エージェント側では /omm-scan を呼ぶ。"
+    },
+    {
       "repo": "Tencent/AI-Infra-Guard",
       "name": "AI-Infra-Guard (A.I.G)",
       "genre": "eval",
@@ -1329,6 +1515,46 @@
       "type": "repo",
       "path": "entries/eval/tencent-ai-infra-guard.md",
       "summary": "AI 構成物のセキュリティ検査を1つの Web UI にまとめたプラットフォーム（Tencent Zhuque Lab）。個別のスキャナを単体 CLI としても配布している。"
+    },
+    {
+      "type": "link",
+      "name": "AI Camera Movements（カメラワーク46種のプロンプト）",
+      "genre": "link-asset",
+      "url": "https://aicameramovements.com/",
+      "author": "aicameramovements.com",
+      "source_post": "https://x.com/okapi_fukugyo/status/2115577500902490198",
+      "sources": [
+        "https://x.com/okapi_fukugyo/status/2115285484469628950"
+      ],
+      "first_seen": "2026-10-28",
+      "added": "2026-11-05",
+      "flags": [],
+      "risk_notes": "",
+      "pricing": "free",
+      "pricing_detail": "無料（2026-11-05 時点で閲覧・コピーに課金もログインも求められない）",
+      "signup_required": false,
+      "path": "links/link-asset/aicameramovements-com.md",
+      "summary": "AI 動画の「カメラが止まって見える」問題を、動きの名前と定型プロンプトで解決する。動きの違いを並べて比較してから選べる。"
+    },
+    {
+      "type": "link",
+      "name": "Melies 撮影技法ライブラリ（424種）",
+      "genre": "link-asset",
+      "url": "https://melies.co/cinematic-techniques",
+      "author": "Melies",
+      "source_post": "https://x.com/okapi_fukugyo/status/2115285484469628950",
+      "sources": [
+        "https://x.com/okapi_fukugyo/status/2111642746872332328"
+      ],
+      "first_seen": "2026-10-28",
+      "added": "2026-11-05",
+      "flags": [],
+      "risk_notes": "",
+      "pricing": "unknown",
+      "pricing_detail": "ライブラリ自体は無料で閲覧できる。生成機能は Melies の有料プラン（金額は 2026-11-05 時点で取得できず未確認）",
+      "signup_required": false,
+      "path": "links/link-asset/melies-co-cinematic-techniques.md",
+      "summary": "AI 動画のプロンプトに「映画の語彙」を持ち込むための事典。技法名から入って、意味・作例・そのまま使えるプロンプトを引く。"
     },
     {
       "type": "link",
@@ -2483,6 +2709,40 @@
     },
     {
       "type": "model",
+      "model": "Diffuspace/Clover-35B-A3B-Preview",
+      "name": "Clover 35B-A3B（拡散型 MoE）",
+      "genre": "other",
+      "url": "https://huggingface.co/Diffuspace/Clover-35B-A3B-Preview",
+      "author": "DiffuSpace",
+      "license": "Apache-2.0",
+      "base_model": [
+        "Qwen/Qwen3.6-35B-A3B"
+      ],
+      "format": "safetensors",
+      "size": "BF16 重み 約69GB（26シャード）",
+      "downloads": 3341,
+      "likes": 243,
+      "created": "2026-10-24",
+      "updated": "2026-10-28",
+      "added": "2026-11-05",
+      "first_seen": "2026-10-29",
+      "source_post": "https://x.com/Av1dlive/status/2115776860714098937",
+      "sources": [
+        "https://diffuspace.ai/",
+        "https://diffuspace.ai/blog/clover-35b/",
+        "https://github.com/DiffuSpace/Clover-35B-A3B-Preview",
+        "https://huggingface.co/Diffuspace/Clover-35B-A3B-Preview-GGUF"
+      ],
+      "pricing": "free",
+      "pricing_detail": "重み無料（Apache-2.0）",
+      "signup_required": false,
+      "flags": [],
+      "risk_notes": "",
+      "path": "models/other/diffuspace-clover-35b-a3b-preview.md",
+      "summary": "**自己回帰ではなくブロック拡散で書く**テキスト生成モデル。1トークンずつ左から伸ばす代わりに、ブロック単位でマスクを置き、確信度の高い位置から並列に埋めて確定させる。"
+    },
+    {
+      "type": "model",
       "model": "ML-Intern-lab/Qwen3.5-0.8B-weight-space-programming",
       "name": "Qwen3.5-0.8B weight-space-programming",
       "genre": "other",
@@ -2721,6 +2981,37 @@
       "type": "repo",
       "path": "entries/rag/vectifyai-openkb.md",
       "summary": "生の文書（PDF / Word / Markdown / PowerPoint / HTML / Excel / CSV / テキスト / URL）を LLM で読み、要約・概念ページ・エンティティページ・相互リンクを持つ wiki 形式の知識ベースに「コンパイル」する CLI。"
+    },
+    {
+      "type": "model",
+      "model": "openbmb/MiniCPM-V-4.7-1B",
+      "name": "MiniCPM-V 4.7（1B・オンデバイス VLM）",
+      "genre": "rag",
+      "url": "https://huggingface.co/openbmb/MiniCPM-V-4.7-1B",
+      "author": "OpenBMB（清華大学 THUNLP / ModelBest）",
+      "license": "Apache-2.0",
+      "base_model": [],
+      "format": "safetensors",
+      "size": "約6.3GB（配布全体）。GGUF / AWQ / GPTQ / FP8 / int4 の派生あり",
+      "downloads": 293175,
+      "likes": 413,
+      "created": "2026-10-06",
+      "updated": "2026-10-30",
+      "added": "2026-11-05",
+      "first_seen": "2026-10-21",
+      "source_post": "https://x.com/opensourcelab9/status/2113035113537970380",
+      "sources": [
+        "https://github.com/OpenBMB/MiniCPM-V",
+        "https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B",
+        "https://huggingface.co/openbmb/MiniCPM-V-4.7-1B-gguf"
+      ],
+      "pricing": "free",
+      "pricing_detail": "重み無料（Apache-2.0）",
+      "signup_required": false,
+      "flags": [],
+      "risk_notes": "",
+      "path": "models/rag/openbmb-minicpm-v-4-7-1b.md",
+      "summary": "画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。"
     },
     {
       "repo": "openai/whisper",
