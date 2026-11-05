@@ -23,6 +23,8 @@ sources:
 pricing: free
 pricing_detail: "重み無料（MiniMax-H3 Community License）"
 signup_required: false
+amplifiers:
+  - https://x.com/sep_is_heim/status/2118127103782887436
 ---
 
 # P-H3-Image
