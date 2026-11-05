@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 140 件 — リポジトリ 116, モデル 8, 記事 1, リンク集 13, プロンプト 2 / ⚑ 要確認 7 件
+収録 141 件 — リポジトリ 116, モデル 8, 記事 1, リンク集 14, プロンプト 2 / ⚑ 要確認 7 件
 
 ## リポジトリ（116）
 
@@ -188,7 +188,7 @@
 - **[CodeGraph を Codex に接続する導入プロンプト](prompts/prompt-design/codegraph-codex-setup.md)**  Codex / @goan999999
   - CodeGraph（コード知識グラフの MCP サーバー）を既存の Codex 環境に組み込み、インストール・MCP 設定・索引構築・動作検証までをエージェントに一括でやらせる。手順の暗記を省き、既存設定を壊さないことを明示している点が要点。
 
-## リンク集（13）
+## リンク集（14）
 
 ### リンク（作例・インスピレーション）（7）
 
@@ -220,8 +220,10 @@
 - **[Wedoflow](links/link-service/wedoflow-com.md)**  paid / Wedoflow
   - Webflow 向けのプレミアムテンプレート販売。デザイン済みのページを買って、サイト構築の時間を短縮する。
 
-### リンク（素材・アイコン・3D）（1）
+### リンク（素材・アイコン・3D）（2）
 
+- **[Mio's Pose Designs Vol. 11](links/link-asset/mio-pose-designs-vol11.md)**  free / @Mio_2am
+  - 座位・横臥のポーズを9種類まとめた作画資料。画像生成AIのポーズ指定、ControlNet・LoRA の参照セット、絵コンテの下敷きなど、人体の姿勢を固定したいときに使う。
 - **[Wonderlist](links/link-asset/wonderlist-design.md)**  paid / Wonderlist
   - Figma 形式の Web サイトデザイン集を買い切りで販売する。デザイナー／開発者が一から設計せずにサイトを立ち上げるための素材。
 

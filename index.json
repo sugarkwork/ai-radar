@@ -1,5 +1,5 @@
 {
-  "count": 140,
+  "count": 141,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -1329,6 +1329,23 @@
       "type": "repo",
       "path": "entries/eval/tencent-ai-infra-guard.md",
       "summary": "AI 構成物のセキュリティ検査を1つの Web UI にまとめたプラットフォーム（Tencent Zhuque Lab）。個別のスキャナを単体 CLI としても配布している。"
+    },
+    {
+      "type": "link",
+      "name": "Mio's Pose Designs Vol. 11",
+      "genre": "link-asset",
+      "url": "https://x.com/mio_2am/status/2117811067707592879",
+      "author": "@Mio_2am",
+      "pricing": "free",
+      "pricing_detail": "無料（投稿者が引用・参考利用を明示。2026-11 時点）",
+      "signup_required": false,
+      "source_post": "https://x.com/mio_2am/status/2117811067707592879",
+      "sources": [],
+      "added": "2026-11-05",
+      "flags": [],
+      "risk_notes": "ポーズの参考利用は投稿者が明示的に許可しているが、画像そのものの再配布・商用利用の許諾ではない。生成AIの参照資料として使う場合も、出力が特定の作家・作品の模倣にならないよう注意。",
+      "path": "links/link-asset/mio-pose-designs-vol11.md",
+      "summary": "座位・横臥のポーズを9種類まとめた作画資料。画像生成AIのポーズ指定、ControlNet・LoRA の参照セット、絵コンテの下敷きなど、人体の姿勢を固定したいときに使う。"
     },
     {
       "name": "Wonderlist",
