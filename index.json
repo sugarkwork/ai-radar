@@ -1,5 +1,5 @@
 {
-  "count": 153,
+  "count": 154,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -2898,6 +2898,23 @@
       "prompt_sha1": "dcfee5432f15899e0c1f5fc0ec8b0ef0c98dfabb",
       "path": "prompts/prompt-design/codegraph-codex-setup.md",
       "summary": "CodeGraph（コード知識グラフの MCP サーバー）を既存の Codex 環境に組み込み、インストール・MCP 設定・索引構築・動作検証までをエージェントに一括でやらせる。手順の暗記を省き、既存設定を壊さないことを明示している点が要点。"
+    },
+    {
+      "type": "prompt",
+      "name": "CLAUDE.md に足す「コンテキスト節約」6行（Ahorro de contexto）",
+      "genre": "prompt-other",
+      "url": "",
+      "author": "@maarcoofdezz",
+      "source_post": "https://x.com/maarcoofdezz/status/2117744331515666475",
+      "sources": [],
+      "added": "2026-11-05",
+      "flags": [],
+      "risk_notes": "",
+      "target": "Claude Code",
+      "transcribed_from": "text",
+      "prompt_sha1": "4d505a0e0e944a175f67d250a7ae92c4bf03b74c",
+      "path": "prompts/prompt-other/claude-md-ahorro-de-contexto.md",
+      "summary": "Claude Code のトークン消費は、コードを書く量より「不要なファイルを丸ごと読む」「既に決めたことを繰り返す」「役目を終えた文脈を引きずる」ことに消える、という前提に立つ。CLAUDE.md の末尾に6行追記して、読み込み方と応答の仕方を変える。"
     },
     {
       "repo": "opendataloader-project/opendataloader-pdf",
