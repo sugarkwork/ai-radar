@@ -1,5 +1,5 @@
 {
-  "count": 129,
+  "count": 131,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -84,6 +84,37 @@
       "type": "repo",
       "path": "entries/3d-motion/wy51ai-floorplan-3d.md",
       "summary": "ブラウザだけで動く間取り・リフォーム設計ツール。2D 平面図に家具を置き、壁を撤去し、寸法を測り、そのまま Three.js の3Dシーンに切り替えて確認できる。アプリ全体が index.html 1枚で、ビルド不要。"
+    },
+    {
+      "repo": "Friedrich-M/UniMate",
+      "name": "UniMate",
+      "genre": "3d-motion",
+      "url": "https://github.com/Friedrich-M/UniMate",
+      "author": "Linzhan Mou ほか（Princeton / UC Berkeley / MIT / NTU）",
+      "license": "MIT",
+      "stars": 2463,
+      "language": "Python",
+      "created": "2026-07-22",
+      "updated": "2026-10-08",
+      "added": "2026-11-04",
+      "first_seen": "2026-11-04",
+      "source_post": "https://x.com/cutetoxicguy/status/2118116327093072374",
+      "sources": [
+        "https://linzhanmou.com/unimate/",
+        "https://arxiv.org/abs/2609.05415",
+        "https://huggingface.co/datasets/Linzhan/UniML3D"
+      ],
+      "forks": 262,
+      "open_issues": 10,
+      "commits_30d": 2,
+      "commits_90d": 21,
+      "commit_cadence": "monthly",
+      "size_kb": 40387,
+      "archived": false,
+      "fetched_at": "2026-11-05T02:58:35Z",
+      "type": "repo",
+      "path": "entries/3d-motion/friedrich-m-unimate.md",
+      "summary": "**任意の骨格に対するテキスト→モーション生成**。人型・四足・鳥・海棲・昆虫・蛇・関節のある機械オブジェクトまで、骨格ごとの再学習やテスト時最適化なしで動かす（SIGGRAPH Asia 2026）。"
     },
     {
       "repo": "VAST-AI-Research/UniRig",
@@ -373,6 +404,34 @@
       "type": "repo",
       "path": "entries/3d-motion/kanaworksai-hue-effekseer-vfx-skill.md",
       "summary": "コーディングエージェント（Claude Code / Codex / Cursor / Gemini CLI / Copilot / OpenCode など Agent Skills 対応ホスト）に、ゲーム用のリアルタイム VFX を作らせるスキル2本組。"
+    },
+    {
+      "type": "model",
+      "model": "Linzhan/UniMate",
+      "name": "UniMate チェックポイント",
+      "genre": "3d-motion",
+      "url": "https://huggingface.co/Linzhan/UniMate",
+      "author": "Linzhan Mou ほか（Princeton / UC Berkeley / MIT / NTU）",
+      "license": "CC-BY-NC-4.0",
+      "base_model": [],
+      "format": "pytorch",
+      "size": "チェックポイント1本あたり約0.77GB（.pt、計84ファイル）",
+      "downloads": 629,
+      "likes": 87,
+      "created": "2026-09-27",
+      "updated": "2026-09-27",
+      "added": "2026-11-04",
+      "first_seen": "2026-11-04",
+      "source_post": "https://x.com/cutetoxicguy/status/2118116327093072374",
+      "sources": [
+        "https://github.com/Friedrich-M/UniMate",
+        "https://huggingface.co/datasets/Linzhan/UniML3D"
+      ],
+      "pricing": "free",
+      "pricing_detail": "重み無料・非商用（CC BY-NC 4.0）。コードは MIT",
+      "signup_required": false,
+      "path": "models/3d-motion/linzhan-unimate.md",
+      "summary": "[UniMate](https://github.com/Friedrich-M/UniMate)（任意骨格向けテキスト→モーション）の**学習済みチェックポイント配布**。設定 JSON・正規化統計（.npy）・各ステップの .pt が入る。"
     },
     {
       "repo": "obra/superpowers",

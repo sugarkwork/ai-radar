@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 129 件 — リポジトリ 107, 記事 1, リンク集 13, モデル 6, プロンプト 2 / ⚑ 要確認 6 件
+収録 131 件 — リポジトリ 108, モデル 7, 記事 1, リンク集 13, プロンプト 2 / ⚑ 要確認 6 件
 
-## リポジトリ（107）
+## リポジトリ（108）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -88,13 +88,14 @@
 | [Iris-3B Metal](entries/other/tky-27-iris-3b-metal.md) | 57 | 2 | 毎日 | 77 | 2026-10-19 | 2026-11-04 | 2026-11-04 | Apache-2.0 |
 | [ComfyUI-MossPanelDataset](entries/other/sepiablue-ai-comfyui-mosspaneldataset.md) | 32 | 5 | 週次 | 7 | 2026-11-02 | 2026-11-03 | 2026-11-03 | MIT |
 
-### 3D・モーション（13）
+### 3D・モーション（14）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
 | [MCP for Blender](entries/3d-motion/ahujasid-mcp-for-blender.md) | 33,316 | 3,020 | 毎日 | 23 | 2026-11-04 | 2026-11-04 | 2026-11-04 | MIT |
 | [Anatomy](entries/3d-motion/wheresryan22-anatomy.md) | 24,866 | 2,070 | 毎日 | 100+ | 2026-10-18 | 2026-11-04 | 2026-11-04 | MIT |
 | [floorplan-3d](entries/3d-motion/wy51ai-floorplan-3d.md) | 3,393 | 707 | 月次 | 0 | 2026-10-02 | 2026-11-03 | 2026-11-03 | MIT |
+| [UniMate](entries/3d-motion/friedrich-m-unimate.md) | 2,463 | 262 | 月次 | 2 | 2026-10-08 | 2026-11-05 | 2026-11-05 | MIT |
 | [UniRig](entries/3d-motion/vast-ai-research-unirig.md) | 2,028 | 204 | 停滞 | 0 | 2026-06-04 | 2026-11-05 | 2026-11-05 | MIT |
 | [teardown](entries/3d-motion/elvarofficial-teardown.md) | 1,530 | 235 | 月次 | 2 | 2026-10-31 | 2026-11-03 | 2026-11-03 | MIT |
 | [StableGen](entries/3d-motion/sakalond-stablegen.md) | 1,462 | 142 | 毎日 | 100+ | 2026-11-04 | 2026-11-04 | 2026-11-04 | GPL-3.0 |
@@ -216,7 +217,7 @@
 - **[Wonderlist](links/link-asset/wonderlist-design.md)**  paid / Wonderlist
   - Figma 形式の Web サイトデザイン集を買い切りで販売する。デザイナー／開発者が一から設計せずにサイトを立ち上げるための素材。
 
-## モデル（6）
+## モデル（7）
 
 ### 動画生成パイプライン（4）
 
@@ -228,6 +229,11 @@
   - 動画モデル **MiniMax-H3** を画像生成・画像編集モデルに転用したもの。PrunaAI が H3 から蒸留・再構成し、約7分の1のサイズ・約5倍の速度（同社比較）を主張している。
 - **[Pika H3 Flex Turbo LoRA](models/video-gen/pika-labs-pika-h3-flex-turbo-lora.md)**  free / Pika Labs（LoRA 制作は @_akhaliq）
   - Pika のオープンウェイト動画モデル **Pika H3 Flex** に、数ステップ蒸留を合成した LoRA。**2ステップ下書き → 4ステップ本番 → 8ステップ高画質**を、それぞれ単体ファイルで提供する。
+
+### 3D・モーション（1）
+
+- **[UniMate チェックポイント](models/3d-motion/linzhan-unimate.md)**  free / Linzhan Mou ほか（Princeton / UC Berkeley / MIT / NTU）
+  - [UniMate](https://github.com/Friedrich-M/UniMate)（任意骨格向けテキスト→モーション）の**学習済みチェックポイント配布**。設定 JSON・正規化統計（.npy）・各ステップの .pt が入る。
 
 ### その他（1）
 
