@@ -23,7 +23,7 @@ commits_30d: 100
 commits_90d: 100
 commit_cadence: daily
 fetched_at: "2026-11-05T10:24:30Z"
-last_release: @openuidev/react-ui@0.18.3
+last_release: "@openuidev/react-ui@0.18.3"
 last_release_at: 2026-11-05
 ---
 
