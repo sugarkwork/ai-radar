@@ -1,5 +1,5 @@
 {
-  "count": 189,
+  "count": 190,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -2104,6 +2104,38 @@
       "last_release_at": "2026-11-05",
       "path": "entries/mcp-server/superdesigndev-treg.md",
       "summary": "1つのベースURL＋1つのトークン（X-Treg-Token）で、カタログ上の外部APIを呼ぶ。実リクエストのURLの頭に https://treg.to/call/ を付けるだけで、treg がホスト名からツールを解決し、認証情報をサーバ側で注入して中身はそのまま中継する（呼び出し側は鍵を持たない）"
+    },
+    {
+      "type": "repo",
+      "name": "Sandstorm",
+      "genre": "mcp-server",
+      "url": "https://github.com/deeplethe/sandstorm",
+      "author": "deeplethe",
+      "repo": "deeplethe/sandstorm",
+      "license": "Apache-2.0",
+      "stars": 5124,
+      "language": "Rust",
+      "created": "2026-05-11",
+      "updated": "2026-11-01",
+      "added": "2026-11-06",
+      "first_seen": "2026-11-06",
+      "sources": [
+        "https://x.com/Ryrenz/status/2117059702542455253"
+      ],
+      "flags": [],
+      "risk_notes": "自前ホスト前提: Linux + cgroup v2 と gVisor の runsc が必要（Firecracker バックエンドは KVM 必須）。master は専用 CA で署名した証明書を使うため、クライアントは ca.pem を明示指定する必要がある。API トークンはサンドボックス内で任意コマンドを実行できる権限と等価なので、取り扱いに注意。E2B 互換エンドポイントは別リスナー (--e2b-bind / --e2b-domain) で公開される。",
+      "forks": 403,
+      "open_issues": 14,
+      "commits_30d": 100,
+      "commit_cadence": "daily",
+      "size_kb": 10635,
+      "archived": false,
+      "fetched_at": "2026-11-06T11:33:38Z",
+      "last_release": "v0.6.0",
+      "last_release_at": "2026-11-01",
+      "source_post": "https://x.com/Ryrenz/status/2117059702542455253",
+      "path": "entries/mcp-server/deeplethe-sandstorm.md",
+      "summary": "サンドボックスを hot / frozen / snapshot / detached の4段階で管理し、遊休中は一時停止・ディスクへスナップショット、リクエスト時に復帰させる（README 記載の目安: frozen から約0.1秒、ディスクから約0.2秒）"
     },
     {
       "repo": "marc-shade/world-intel-mcp",
