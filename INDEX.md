@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 190 件 — リポジトリ 153, モデル 15, 記事 1, リンク集 17, プロンプト 4 / ⚑ 要確認 11 件
+収録 191 件 — リポジトリ 153, モデル 16, 記事 1, リンク集 17, プロンプト 4 / ⚑ 要確認 12 件
 
 ## リポジトリ（153）
 
@@ -277,7 +277,7 @@
 - **[Wedoflow](links/link-service/wedoflow-com.md)**  paid / Wedoflow
   - Webflow 向けのプレミアムテンプレート販売。デザイン済みのページを買って、サイト構築の時間を短縮する。
 
-## モデル（15）
+## モデル（16）
 
 ### 動画生成パイプライン（6）
 
@@ -294,7 +294,7 @@
 - **[Viggle Remake（MiniMax-H3 ベースの動画リメイク）](models/video-gen/viggle-viggle-remake.md)**  Viggle
   - **動画のリメイク（キャラクター置換・衣装・天候・小物の追加削除・スタイル変更）**を行う video-to-video モデル。MiniMax-H3 をベースにした LoRA として配布されている。
 
-### その他（4）
+### その他（5）
 
 - **[Clover 35B-A3B（拡散型 MoE）](models/other/diffuspace-clover-35b-a3b-preview.md)** ⚑  free / DiffuSpace
   - **自己回帰ではなくブロック拡散で書く**テキスト生成モデル。1トークンずつ左から伸ばす代わりに、ブロック単位でマスクを置き、確信度の高い位置から並列に埋めて確定させる。
@@ -304,6 +304,8 @@
   - 日本語↔英語を含む53言語（カード記載）間の翻訳をローカルで実行する（pipeline_tag: translation）
 - **[Qwen3.5-0.8B weight-space-programming](models/other/ml-intern-lab-qwen3-5-0-8b-weight-space-programming.md)**  free / ML Intern lab（@_akhaliq ほか）
   - **学習せずに重みを直接編集して、モデルの病的な挙動を直したチェックポイント**。Qwen3.5-0.8B が数学問題でトークン上限までループする症状を、勾配降下も微調整も使わずに修正している。
+- **[Ripple-65B Preview](models/other/ricursiveai-ripple-65b-preview.md)** ⚑  freemium / Ricursive Intelligence（ricursiveAI）
+  - ローカル serving: リポジトリ同梱の inference/server/serve.py（SGLang 0.5.19 ベース）で OpenAI 互換の /v1/chat/completions を立てられる。tools / tool_choice による関数呼び出し、message.reasoning_cont
 
 ### 3D・モーション（2）
 
@@ -342,5 +344,6 @@
 - [Agent Sprite Forge](entries/other/0x0funky-agent-sprite-forge.md) — unverified / 元ポストは「ゲームエンジンへの取り込みは未確認」と留保するが、README は Godot/Aseprite/Tiled/LDtk 書き出しを検証済みと明記。実機検証は未実施。
 - [DSH 破甲ワークフロー（dsh-jailbreak-workflow）](entries/other/minglink-dsh-jailbreak-workflow.md) — prompt-injection / モデルの拒否応答を回避する『破甲（jailbreak）』プロンプトを自動生成するためのワークフロー。各サービスの利用規約違反になり得る。記録のみで、実行・生成した内容の利用はしない。
 - [Clover 35B-A3B（拡散型 MoE）](models/other/diffuspace-clover-35b-a3b-preview.md) — unverified / tok/s 比較は投稿者環境の一例で、モデルカードに計測条件の記載がない。
+- [Ripple-65B Preview](models/other/ricursiveai-ripple-65b-preview.md) — unverified / ベンチマーク（TerminalBench 2.1 で 80.52、米国 open-weight SOTA 等）はすべて配布元の自己申告で第三者検証がない。モデルカードにローカル推論手順の記載はなく、実行手順はリポジトリ内 inference/server/README.md（2xB200 + SGLang 0.5.19 前提）のみで、DGX Spark 単機で動くという記述の実測裏付けはない。独自アーキテクチャ（custom_code、model_type=ricursive）のため transformers での自前ロードは未検証。OpenRouter の提供元は GMICloud 1 社のみで、2026-11-06T12:17Z 時点の status は -5・直近30分の uptime は 0（一時的な可能性あり）。発見源の X 投稿本文は Tokenomos（vLLM のスケジューラ／KV キャッシュ最適化）の公開告知で Ripple に言及がなく、対象との対応は投稿内リンクの展開に依存している。
 - [vibe-knowledge-film](entries/video-gen/heychengc-vibe-knowledge-film.md) — unverified / ライセンス未確認（API は NOASSERTION、標準ライセンスファイル無し）。参照サンプルの転用可否も不明。
 - [RelayVSR（ComfyUI 向け 2x/4x 動画アップスケーラ）](models/video-gen/comfy-org-relayvsr.md) — unverified / 速度・画質の比較数値は投稿者（RTX 5090）の計測で、モデルカードに計測条件の記載がない。第三者追試は未確認。

@@ -1,5 +1,5 @@
 {
-  "count": 190,
+  "count": 191,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -3674,6 +3674,39 @@
       "signup_required": false,
       "path": "models/other/ml-intern-lab-qwen3-5-0-8b-weight-space-programming.md",
       "summary": "**学習せずに重みを直接編集して、モデルの病的な挙動を直したチェックポイント**。Qwen3.5-0.8B が数学問題でトークン上限までループする症状を、勾配降下も微調整も使わずに修正している。"
+    },
+    {
+      "type": "model",
+      "name": "Ripple-65B Preview",
+      "genre": "other",
+      "url": "https://huggingface.co/ricursiveAI/Ripple-65B-Preview",
+      "author": "Ricursive Intelligence（ricursiveAI）",
+      "pricing": "freemium",
+      "pricing_detail": "重みは Apache-2.0 かつ gated=false のため無料・登録不要で取得可。ホスト型 API は OpenRouter 実測（2026-11-06T12:16Z）で入力 $0.20 / 出力 $0.60 / cache read $0.05（いずれも100万トークンあたり、GMICloud の bf16）。公式サイトに料金ページはなく /pricing と /ripple/pricing は 404。Together AI・Fireworks・GMI Cloud 各社の料金は未確認。",
+      "signup_required": false,
+      "model": "ricursiveAI/Ripple-65B-Preview",
+      "license": "Apache-2.0",
+      "downloads": 2013,
+      "likes": 301,
+      "format": "safetensors",
+      "size": "129.6GB（BF16、HF API usedStorage）",
+      "created": "2026-11-04",
+      "updated": "2026-11-06",
+      "added": "2026-11-06",
+      "first_seen": "2026-11-06",
+      "sources": [
+        "https://www.ricursive.com/ripple",
+        "https://huggingface.co/ricursiveAI/Ripple-65B-Preview",
+        "https://openrouter.ai/ricursiveai/ripple-65b-preview",
+        "https://x.com/KBlueleaf/status/2116459910347313274"
+      ],
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "ベンチマーク（TerminalBench 2.1 で 80.52、米国 open-weight SOTA 等）はすべて配布元の自己申告で第三者検証がない。モデルカードにローカル推論手順の記載はなく、実行手順はリポジトリ内 inference/server/README.md（2xB200 + SGLang 0.5.19 前提）のみで、DGX Spark 単機で動くという記述の実測裏付けはない。独自アーキテクチャ（custom_code、model_type=ricursive）のため transformers での自前ロードは未検証。OpenRouter の提供元は GMICloud 1 社のみで、2026-11-06T12:17Z 時点の status は -5・直近30分の uptime は 0（一時的な可能性あり）。発見源の X 投稿本文は Tokenomos（vLLM のスケジューラ／KV キャッシュ最適化）の公開告知で Ripple に言及がなく、対象との対応は投稿内リンクの展開に依存している。",
+      "fetched_at": "2026-11-06T12:17:45Z",
+      "path": "models/other/ricursiveai-ripple-65b-preview.md",
+      "summary": "ローカル serving: リポジトリ同梱の inference/server/serve.py（SGLang 0.5.19 ベース）で OpenAI 互換の /v1/chat/completions を立てられる。tools / tool_choice による関数呼び出し、message.reasoning_cont"
     },
     {
       "type": "repo",
