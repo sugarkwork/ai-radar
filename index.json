@@ -1,5 +1,5 @@
 {
-  "count": 198,
+  "count": 199,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -2637,6 +2637,39 @@
       "last_release_at": "2026-10-31",
       "path": "entries/model-serving/kohakublueleaf-tokenomos.md",
       "summary": "小型VLM（LFM3-VL 2B / Qwen3.5 4B・9B / Qwen3.8 27B / Gemma 4 E4B・12B・31B）を1枚のNVIDIA GPUでローカル推論する。"
+    },
+    {
+      "type": "repo",
+      "name": "qwen-warp",
+      "genre": "model-serving",
+      "url": "https://github.com/tuan3w/qwen-warp",
+      "author": "tuan3w",
+      "repo": "tuan3w/qwen-warp",
+      "license": "MIT",
+      "stars": 3,
+      "language": "Python",
+      "created": "2026-11-01",
+      "updated": "2026-11-06",
+      "added": "2026-11-06",
+      "first_seen": "2026-11-06",
+      "sources": [
+        "https://x.com/ai_hakase_/status/2118149307970867503"
+      ],
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "元投稿が解説する「SpecPilot」(W12・ツリー検証・自律エージェント探索・4.46x→10.87x)は別リポジトリ StargazerX0/SpecPilot の内容で、本リポジトリは返信スレッドに別リンクとして挙がっているだけ。本リポジトリの速度・品質数値は作者が RTX 3090 1枚で自己計測したもので第三者検証はない(stars 3/forks 1、作成から5日)。RTX 3090(sm_86)専用で他の GPU は未テスト、同時1リクエストのみ、logprobs/structured output/bad_words は HTTP 400、モデル重みは別ライセンス(swift-open-license-1.0, gated)でリポジトリの MIT 対象外、エージェント多ターンの成功率は未計測と README に明記。",
+      "forks": 1,
+      "open_issues": 2,
+      "commits_30d": 91,
+      "commit_cadence": "daily",
+      "size_kb": 5452,
+      "archived": false,
+      "fetched_at": "2026-11-06T19:48:12Z",
+      "last_release": "v0.7.0",
+      "last_release_at": "2026-11-06",
+      "path": "entries/model-serving/tuan3w-qwen-warp.md",
+      "summary": "RTX 3090 1枚で Qwen3.8-27B の INT4 チェックポイントを動かし、OpenAI 互換の HTTP API を :8000 に公開する。中身は vLLM 0.30.0 の OpenAI フロントエンドで、モデル名は swift、ルートは /health・/v1/models・/v1/chat/co"
     },
     {
       "type": "model",
