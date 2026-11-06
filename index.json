@@ -1,5 +1,5 @@
 {
-  "count": 167,
+  "count": 174,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -404,6 +404,71 @@
       "type": "repo",
       "path": "entries/3d-motion/kanaworksai-hue-effekseer-vfx-skill.md",
       "summary": "コーディングエージェント（Claude Code / Codex / Cursor / Gemini CLI / Copilot / OpenCode など Agent Skills 対応ホスト）に、ゲーム用のリアルタイム VFX を作らせるスキル2本組。"
+    },
+    {
+      "repo": "CurioCrafter/CurioMesh",
+      "name": "CurioMesh",
+      "genre": "3d-motion",
+      "url": "https://github.com/CurioCrafter/CurioMesh",
+      "license": "GPL-3.0",
+      "stars": 42,
+      "language": "Python",
+      "created": "2025-08-11",
+      "updated": "2026-11-05",
+      "added": "2026-11-05",
+      "first_seen": "2026-11-05",
+      "source_post": "https://x.com/happy_modeling/status/2118466746629976101",
+      "sources": [
+        "https://modelinghappy.com/archives/71416"
+      ],
+      "flags": [],
+      "risk_notes": "",
+      "forks": 2,
+      "open_issues": 1,
+      "commits_30d": 100,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "size_kb": 48901,
+      "archived": false,
+      "fetched_at": "2026-11-06T03:32:57Z",
+      "last_release": "v0.9.7",
+      "last_release_at": "2026-11-05",
+      "type": "repo",
+      "path": "entries/3d-motion/curiocrafter-curiomesh.md",
+      "summary": "Blender の**自動リトポロジー**アドオン。高密度メッシュやフォトグラメトリのスキャンを、**オールクワッド**のメッシュに変換する。"
+    },
+    {
+      "repo": "camenduru/VRMExMR",
+      "name": "VRMExMR",
+      "genre": "3d-motion",
+      "url": "https://github.com/camenduru/VRMExMR",
+      "license": "未確認（API は NOASSERTION。ExMR 側の条件を確認）",
+      "stars": 13,
+      "language": "Python",
+      "created": "2026-11-04",
+      "updated": "2026-11-05",
+      "added": "2026-11-05",
+      "first_seen": "2026-11-05",
+      "source_post": "https://x.com/camenduru/status/2118211316384976963",
+      "sources": [
+        "https://github.com/twehrbein/ExMR",
+        "https://arxiv.org/abs/2610.26213"
+      ],
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "ライセンス表記がなく、ExMR 側の利用条件（研究用か商用可か）を一次情報で確認できていない。商用利用の前に必ず確認する。",
+      "forks": 0,
+      "open_issues": 0,
+      "commits_30d": 39,
+      "commits_90d": 39,
+      "commit_cadence": "daily",
+      "size_kb": 28180,
+      "archived": false,
+      "fetched_at": "2026-11-06T03:38:34Z",
+      "type": "repo",
+      "path": "entries/3d-motion/camenduru-vrmexmr.md",
+      "summary": "**単眼動画から SMPL-X の身体・手・足のモーションを復元**し、VRM / Blender / Unity / Unreal / ヒューマノイドロボット向けに書き出す Docker イメージ。"
     },
     {
       "type": "model",
@@ -1828,7 +1893,9 @@
       "type": "link",
       "added": "2026-11-04",
       "source_post": "https://x.com/RealMarvelX/status/2117497881108021605",
-      "sources": [],
+      "sources": [
+        "https://x.com/cutetoxicguy/status/2118418074265096510"
+      ],
       "flags": [],
       "risk_notes": "",
       "path": "links/link-service/tripo3d-ai.md",
@@ -2633,6 +2700,38 @@
       "summary": "**ベクトル化されたバックテストエンジン**。値動き・シグナル・注文・ポジションを NumPy 配列として一括処理し、Numba でコンパイルして回す。ループで1本ずつ検証するより桁違いに速い。"
     },
     {
+      "repo": "elder-plinius/OBLITERATUS",
+      "name": "OBLITERATUS",
+      "genre": "other",
+      "url": "https://github.com/elder-plinius/OBLITERATUS",
+      "license": "AGPL-3.0",
+      "stars": 9189,
+      "language": "Python",
+      "created": "2026-03-03",
+      "updated": "2026-11-05",
+      "added": "2026-11-05",
+      "first_seen": "2026-11-05",
+      "source_post": "https://x.com/Forhanvv/status/2118463967412854938",
+      "sources": [
+        "https://huggingface.co/spaces/pliny-the-prompter/obliteratus"
+      ],
+      "flags": [],
+      "risk_notes": "モデルの拒否挙動を除去する（abliteration）ツール。各モデルのライセンスと利用規約、および出力の責任は利用者側。本エントリは手順を記載せず、存在と構成のみを記録する。",
+      "forks": 1625,
+      "open_issues": 9,
+      "commits_30d": 100,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "size_kb": 40637,
+      "archived": false,
+      "fetched_at": "2026-11-06T03:32:31Z",
+      "last_release": "v0.1.4",
+      "last_release_at": "2026-10-15",
+      "type": "repo",
+      "path": "entries/other/elder-plinius-obliteratus.md",
+      "summary": "公開モデルの**拒否（refusal）挙動を除去**するためのツール。モデル重みの方向を推定して編集する abliteration を、CLI とノートブックの両方から実行する。"
+    },
+    {
       "repo": "ranaroussi/quantstats",
       "name": "QuantStats",
       "genre": "other",
@@ -2991,6 +3090,34 @@
       "summary": "A株の「碗口反発（茶碗の縁からの反発）」型の押し目を機械的に拾う選股ツール。Python + akshare でデータを取り、KDJ・トレンドライン・出来高の条件でふるいにかける。"
     },
     {
+      "repo": "JGRFW/comfyui-aicg3d-PoseSwap",
+      "name": "ComfyUI AICG3D PoseSwap",
+      "genre": "other",
+      "url": "https://github.com/JGRFW/comfyui-aicg3d-PoseSwap",
+      "license": "MIT",
+      "stars": 148,
+      "language": "HTML",
+      "created": "2026-10-30",
+      "updated": "2026-11-01",
+      "added": "2026-11-05",
+      "first_seen": "2026-11-05",
+      "source_post": "https://x.com/servasyy_ai/status/2118524399582371985",
+      "sources": [],
+      "flags": [],
+      "risk_notes": "同梱の約4,300枚の参照画像（頭・ポーズ・衣装）は第三者図庫由来で、コードのMITとは別の利用条件がある。画像を含めた再配布・商用利用は不可。",
+      "forks": 24,
+      "open_issues": 1,
+      "commits_30d": 7,
+      "commits_90d": 7,
+      "commit_cadence": "weekly",
+      "size_kb": 385305,
+      "archived": false,
+      "fetched_at": "2026-11-06T03:38:01Z",
+      "type": "repo",
+      "path": "entries/other/jgrfw-comfyui-pose-swap.md",
+      "summary": "ComfyUI で**顔・ポーズ・衣装を個別に差し替える**ワークフロー。3つの参照図庫（**1,499 頭部 / 1,439 ポーズ / 1,407 衣装**）を内蔵し、クリックで参照画像をノードに流し込める。"
+    },
+    {
       "repo": "TKY-27/iris-3b-metal",
       "name": "Iris-3B Metal",
       "genre": "other",
@@ -3082,6 +3209,34 @@
       "risk_notes": "tok/s 比較は投稿者環境の一例で、モデルカードに計測条件の記載がない。",
       "path": "models/other/diffuspace-clover-35b-a3b-preview.md",
       "summary": "**自己回帰ではなくブロック拡散で書く**テキスト生成モデル。1トークンずつ左から伸ばす代わりに、ブロック単位でマスクを置き、確信度の高い位置から並列に埋めて確定させる。"
+    },
+    {
+      "repo": "Renz1998/ComfyUI-Prompt-Atelier",
+      "name": "ComfyUI Prompt Atelier",
+      "genre": "other",
+      "url": "https://github.com/Renz1998/ComfyUI-Prompt-Atelier",
+      "license": "GPL-3.0",
+      "stars": 0,
+      "language": "Python",
+      "created": "2026-11-04",
+      "updated": "2026-11-05",
+      "added": "2026-11-05",
+      "first_seen": "2026-11-05",
+      "source_post": "https://x.com/aiaicreate/status/2118345509077401991",
+      "sources": [],
+      "flags": [],
+      "risk_notes": "",
+      "forks": 0,
+      "open_issues": 1,
+      "commits_30d": 25,
+      "commits_90d": 25,
+      "commit_cadence": "daily",
+      "size_kb": 5670,
+      "archived": false,
+      "fetched_at": "2026-11-06T03:38:14Z",
+      "type": "repo",
+      "path": "entries/other/renz1998-comfyui-prompt-atelier.md",
+      "summary": "ローカルモデルで**生成用プロンプトを作る／広げる** ComfyUI ノード集。画像キャプション生成、キャラクター指示、DART タグ拡張、MOSS 用レイアウトJSON出力をまとめて扱う。"
     },
     {
       "type": "model",
@@ -4672,6 +4827,65 @@
       "signup_required": false,
       "path": "models/video-gen/pika-labs-pika-h3-flex-turbo-lora.md",
       "summary": "Pika のオープンウェイト動画モデル **Pika H3 Flex** に、数ステップ蒸留を合成した LoRA。**2ステップ下書き → 4ステップ本番 → 8ステップ高画質**を、それぞれ単体ファイルで提供する。"
+    },
+    {
+      "type": "model",
+      "model": "Comfy-Org/RelayVSR",
+      "name": "RelayVSR（ComfyUI 向け 2x/4x 動画アップスケーラ）",
+      "genre": "video-gen",
+      "url": "https://huggingface.co/Comfy-Org/RelayVSR",
+      "author": "Comfy-Org",
+      "license": "Apache-2.0",
+      "base_model": [
+        "kopper/RelayVSR",
+        "lightx2v/RelayVSR_X2"
+      ],
+      "format": "safetensors（int8 / fp32）",
+      "size": "x2 lightx2v int8 / x4 int8 の拡散モデル ＋ VAE（fp32）各1",
+      "downloads": 0,
+      "likes": 24,
+      "created": "2026-11-05",
+      "updated": "2026-11-05",
+      "added": "2026-11-05",
+      "first_seen": "2026-11-05",
+      "source_post": "https://x.com/BennyDaBall_OG/status/2118472181747220682",
+      "sources": [
+        "https://huggingface.co/kopper/RelayVSR"
+      ],
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "速度・画質の比較数値は投稿者（RTX 5090）の計測で、モデルカードに計測条件の記載がない。第三者追試は未確認。",
+      "path": "models/video-gen/comfy-org-relayvsr.md",
+      "summary": "**AI 動画向けの 2倍 / 4倍アップスケーラ**。ComfyUI で使えるように再パッケージされたモデルファイル一式。"
+    },
+    {
+      "type": "model",
+      "model": "Viggle/Viggle-Remake",
+      "name": "Viggle Remake（MiniMax-H3 ベースの動画リメイク）",
+      "genre": "video-gen",
+      "url": "https://huggingface.co/Viggle/Viggle-Remake",
+      "author": "Viggle",
+      "license": "MiniMax H3 Community License（独自。EU・UK・韓国・米国は対象外）",
+      "base_model": [
+        "MiniMaxAI/MiniMax-H3"
+      ],
+      "format": "safetensors / GGUF / LoRA",
+      "size": "未確認（リポジトリに複数形式）",
+      "downloads": 5215,
+      "likes": 105,
+      "created": "2026-10-22",
+      "updated": "2026-11-04",
+      "added": "2026-11-05",
+      "first_seen": "2026-11-05",
+      "source_post": "https://x.com/HuggingModels/status/2118445754675335509",
+      "sources": [
+        "https://viggle.ai/meme/app/home?ui=v2"
+      ],
+      "flags": [],
+      "risk_notes": "MiniMax H3 Community License を継承。EU・UK・韓国・米国は Applicable Territory から除外されており、これらの地域での利用・配布は別途ライセンスが必要。実在人物・既存作品の置換が可能なため、肖像権・著作権・パロディ表記の確認が必要。",
+      "path": "models/video-gen/viggle-viggle-remake.md",
+      "summary": "**動画のリメイク（キャラクター置換・衣装・天候・小物の追加削除・スタイル変更）**を行う video-to-video モデル。MiniMax-H3 をベースにした LoRA として配布されている。"
     }
   ]
 }

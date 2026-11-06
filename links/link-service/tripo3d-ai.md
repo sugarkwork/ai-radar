@@ -9,7 +9,8 @@ signup_required: true
 type: "link"
 added: "2026-11-04"
 source_post: "https://x.com/RealMarvelX/status/2117497881108021605"
-sources: []
+sources:
+  - https://x.com/cutetoxicguy/status/2118418074265096510
 flags: []
 risk_notes: ""
 ---
@@ -28,6 +29,7 @@ risk_notes: ""
 - DCC ブリッジ: Blender / 3ds Max / Unity / Unreal / Maya / Cocos / Godot / ZBrush へ直接送れる。
 - 3Dプリント向けの分割出力、STL 修復・編集、3Dファイル圧縮、オンラインビューアなどのツール群を別途公開。
 - 生成物は既定で公開ギャラリーに載るが、有料プランは非公開（Private）にできる。
+- **Agentic Canvas**（2026-11 発表）: ノードベースのキャンバスで、作りたいものを言葉で書くとエージェントが必要なツールをつないで工程を組む。画像→3D生成、形状の改良、テクスチャ/PBR適用、リトポロジー、UV展開、リギング、書き出しまでを1つのワークスペースで扱い、各ステップは可視化・編集できる。料金体系と既存プランとの関係は未確認。
 
 ## 料金
 
@@ -44,3 +46,5 @@ risk_notes: ""
 ## 変更履歴
 
 - 2026-11-04: 初回登録（料金は /pricing で確認。クレジット単価は月額プランの表記から算出）
+
+- 2026-11-05: Agentic Canvas（ノード型の3D制作ワークスペース）を追記（出典: https://x.com/cutetoxicguy/status/2118418074265096510）
