@@ -1,5 +1,5 @@
 {
-  "count": 200,
+  "count": 201,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -2074,6 +2074,28 @@
       "risk_notes": "",
       "path": "links/link-service/banani-co.md",
       "summary": "テキストから UI を生成する AI デザインツール。プロンプトを「編集可能な UI デザイン」に変えることを狙う。ポストの説明（turn prompts into editable UI designs）と一致する。"
+    },
+    {
+      "type": "link",
+      "name": "CompShare（優云智算）",
+      "genre": "link-service",
+      "url": "https://www.compshare.cn/",
+      "author": "UCloud（优刻得科技）",
+      "pricing": "paid",
+      "pricing_detail": "GPU 従量/包日/包月/抢占の4方式。RTX4090 24G（1*GPU 14C32G）従量 1.92元/h・包月 1,154.64元、RTX4090 48G（16C96G）3.80元/h・包月 2,280.00元、RTX3080Ti 12G 0.74元/h、A100 80G 10.75元/h。GPU の無料枠は確認できず、云硬盘 50GB と公共モデル库 30TB が無料（2026-11 時点、すべて税抜表示かは未確認）",
+      "signup_required": true,
+      "added": "2026-11-06",
+      "first_seen": "2026-11-06",
+      "sources": [
+        "https://x.com/wquguru/status/2117202562160238691"
+      ],
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "GPU の無料枠・トライアルの有無、本人確認（実名認証）の要否、表示価格の税込/税抜は未確認。対象URLには referral_code と ytag のアフィリエイト用パラメータが付いており、エントリでは正規URL（https://www.compshare.cn/）を使う。コミュニティイメージは作成者が乌兰察布(cn-wlcb-01)の RTX4090 のみで検証済みと明記。210GB のイメージ取得とストレージ課金が別途発生する。",
+      "fetched_at": "2026-11-06T21:06:07Z",
+      "path": "links/link-service/compshare.cn-compshare.md",
+      "summary": "UCloud（优刻得）系の GPU クラウド。AI の学習・推論・画像生成用に GPU インスタンスを時間・日・月単位で借りる。"
     },
     {
       "name": "Paper Animation",
