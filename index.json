@@ -1,5 +1,5 @@
 {
-  "count": 176,
+  "count": 177,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -259,6 +259,37 @@
       "type": "repo",
       "path": "entries/3d-motion/mromidev-claude-animated-shorts.md",
       "summary": "Claude Code 用のスキル一式。55〜70秒の縦型アニメ短編（3D世界の中の2Dキャラクター、インク輪郭、塗り絵のような街、レンズブラー、滑走するカメラ、行進曲と効果音）を、three.js + Remotion でローカルにレンダリングして作る。**AI 動画生成モデルは使わない**。"
+    },
+    {
+      "type": "repo",
+      "name": "Idol (image-to-3D Gaussian splat SDK)",
+      "genre": "3d-motion",
+      "url": "https://github.com/speridlabs/idol-sdk",
+      "author": "speridlabs",
+      "repo": "speridlabs/idol-sdk",
+      "license": "Apache-2.0",
+      "stars": 856,
+      "language": "Python",
+      "created": "2026-10-28",
+      "updated": "2026-10-29",
+      "added": "2026-11-06",
+      "first_seen": "2026-11-06",
+      "sources": [
+        "https://x.com/speridlabs/status/2115890658636656826"
+      ],
+      "flags": [],
+      "risk_notes": "PyPI 未公開・タグ/リリース無しのため clone して pip install -e . で導入する（README の記載どおり）。条件付けに入力エンコーダ2件の HF アクセス承認が必要で、未認証時は EncoderAccessError で停止する。CUDA GPU 必須。直近30日のコミットは 1 件で commit_cadence は stale 扱い。",
+      "forks": 80,
+      "open_issues": 8,
+      "commits_30d": 1,
+      "commit_cadence": "stale",
+      "size_kb": 6867,
+      "archived": false,
+      "fetched_at": "2026-11-06T08:08:20Z",
+      "last_release": "",
+      "last_release_at": "",
+      "path": "entries/3d-motion/speridlabs-idol-sdk.md",
+      "summary": "1枚の画像（写真・レンダリング画像・生成画像）から3D Gaussian Splattingを生成し、標準的な3DGS .plyとして保存する"
     },
     {
       "repo": "Humpalumps/Ultra-Water",

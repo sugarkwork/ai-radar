@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 176 件 — リポジトリ 141, モデル 13, 記事 1, リンク集 17, プロンプト 4 / ⚑ 要確認 11 件
+収録 177 件 — リポジトリ 142, モデル 13, 記事 1, リンク集 17, プロンプト 4 / ⚑ 要確認 11 件
 
-## リポジトリ（141）
+## リポジトリ（142）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -117,7 +117,7 @@
 | [batch-video-plugin](entries/video-gen/zysen1-batch-video-plugin.md) | 42 | 17 | 月次 | 2 | 2026-11-01 | 2026-11-03 | 2026-11-03 | MIT |
 | [MiniMax H3 Temporal Window & Spatial Tiles](entries/video-gen/mo-akkakk-comfyui-minimaxh3-window-tiles.md) | 24 | 4 | 週次 | 19 | 2026-11-05 | 2026-11-05 | 2026-11-05 | MIT |
 
-### 3D・モーション（16）
+### 3D・モーション（17）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -130,6 +130,7 @@
 | [StableGen](entries/3d-motion/sakalond-stablegen.md) | 1,462 | 142 | 毎日 | 100+ | 2026-11-04 | 2026-11-04 | 2026-11-04 | GPL-3.0 |
 | [NullMotion](entries/3d-motion/blixvip-nullmotion.md) | 1,335 | 133 | 週次 | 16 | 2026-10-31 | 2026-11-04 | 2026-11-04 | MIT |
 | [Claude Animated Shorts](entries/3d-motion/mromidev-claude-animated-shorts.md) | 1,195 | 270 | 月次 | 2 | 2026-11-01 | 2026-11-03 | 2026-11-03 | MIT |
+| [Idol (image-to-3D Gaussian splat SDK)](entries/3d-motion/speridlabs-idol-sdk.md) | 856 | 80 | 停滞 | 1 | 2026-10-29 | 2026-11-06 | 2026-11-06 | Apache-2.0 |
 | [Ultra Water](entries/3d-motion/humpalumps-ultra-water.md) | 617 | 86 | 毎日 | 20 | 2026-11-02 | 2026-11-03 | 2026-11-03 | MIT |
 | [SkinTokens（TokenRig）](entries/3d-motion/vast-ai-research-skintokens.md) | 597 | 82 | 停滞 | 0 | 2026-05-12 | 2026-11-05 | 2026-11-05 | MIT |
 | [SculptForge](entries/3d-motion/islandmed-sculptforge.md) | 555 | 69 | 毎日 | 100+ | 2026-11-04 | 2026-11-04 | 2026-11-04 | GPL-3.0 |
