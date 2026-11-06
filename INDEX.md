@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 193 件 — リポジトリ 155, モデル 16, 記事 1, リンク集 17, プロンプト 4 / ⚑ 要確認 13 件
+収録 194 件 — リポジトリ 156, モデル 16, 記事 1, リンク集 17, プロンプト 4 / ⚑ 要確認 14 件
 
-## リポジトリ（155）
+## リポジトリ（156）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -122,7 +122,7 @@
 | [MiniMax H3 Temporal Window & Spatial Tiles](entries/video-gen/mo-akkakk-comfyui-minimaxh3-window-tiles.md) | 24 | 4 | 週次 | 19 | 2026-11-05 | 2026-11-05 | 2026-11-05 | MIT |
 | [NitroFusion2（1〜2ステップ text-to-image）](entries/video-gen/chendaryen-nitrofusion2.md) ⚑ | 24 | 1 | 週次 | 5 | 2026-11-05 | 2026-11-06 | 2026-11-06 | Apache-2.0 |
 
-### 3D・モーション（18）
+### 3D・モーション（19）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -143,6 +143,7 @@
 | [open-3d-skills](entries/3d-motion/moh4696-open-3d-skills.md) | 220 | 31 | 月次 | 3 | 2026-10-31 | 2026-11-04 | 2026-11-04 | MIT |
 | [effekseer-vfx-skill](entries/3d-motion/kanaworksai-hue-effekseer-vfx-skill.md) | 79 | 6 | 週次 | 11 | 2026-10-29 | 2026-11-04 | 2026-11-04 | MIT |
 | [CurioMesh](entries/3d-motion/curiocrafter-curiomesh.md) | 42 | 2 | 毎日 | 100+ | 2026-11-05 | 2026-11-06 | 2026-11-06 | GPL-3.0 |
+| [VRMkimodo](entries/3d-motion/camenduru-vrmkimodo.md) ⚑ | 15 | 1 | 毎日 | 21 | 2026-11-05 | 2026-11-06 | 2026-11-06 | Apache-2.0 |
 | [VRMExMR](entries/3d-motion/camenduru-vrmexmr.md) ⚑ | 13 | 0 | 毎日 | 39 | 2026-11-05 | 2026-11-06 | 2026-11-06 | 未確認（API は NOASSERTION。ExMR 側の条件を確認） |
 
 ### 音声・TTS（11）
@@ -337,6 +338,7 @@
 
 ## ⚑ 要確認
 
+- [VRMkimodo](entries/3d-motion/camenduru-vrmkimodo.md) — unverified / 上流 nv-tlabs/kimodo のフォークで、独自追加は kimodo/exports/vrma.py のみ（README/CHANGELOG は上流と同一、CLI・デモからは未接続）。.vrma 書き出しはコード読解のみで実行検証していない。コードは Apache-2.0 だがモデル重みは NVIDIA Open Model License。ローカル生成には約17GB VRAM が必要。
 - [VRMExMR](entries/3d-motion/camenduru-vrmexmr.md) — unverified / ライセンス表記がなく、ExMR 側の利用条件（研究用か商用可か）を一次情報で確認できていない。商用利用の前に必ず確認する。
 - [PilotDeck](entries/agent-framework/openbmb-pilotdeck.md) — unverified / 投稿の Workbuddy Bench 79.1点（Qwen3.6-35B-A3B）は README の表に該当がなく一次情報で確認できない。採用した数値は README 側のみ。
 - [1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md) — unverified / X の記事取得でコードブロック（プロンプト雛形・位置合わせスクリプト・Blender スクリプト）が欠落。数値は著者の自己申告で独立検証なし。

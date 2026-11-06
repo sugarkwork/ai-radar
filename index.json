@@ -1,5 +1,5 @@
 {
-  "count": 193,
+  "count": 194,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -500,6 +500,39 @@
       "type": "repo",
       "path": "entries/3d-motion/curiocrafter-curiomesh.md",
       "summary": "Blender の**自動リトポロジー**アドオン。高密度メッシュやフォトグラメトリのスキャンを、**オールクワッド**のメッシュに変換する。"
+    },
+    {
+      "type": "repo",
+      "name": "VRMkimodo",
+      "genre": "3d-motion",
+      "url": "https://github.com/camenduru/VRMkimodo",
+      "author": "camenduru (upstream: NVIDIA / nv-tlabs)",
+      "repo": "camenduru/VRMkimodo",
+      "license": "Apache-2.0",
+      "stars": 15,
+      "language": "Python",
+      "created": "2026-11-02",
+      "updated": "2026-11-05",
+      "added": "2026-11-06",
+      "first_seen": "2026-11-06",
+      "sources": [
+        "https://x.com/Machinedelusion/status/2116624498933833758"
+      ],
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "上流 nv-tlabs/kimodo のフォークで、独自追加は kimodo/exports/vrma.py のみ（README/CHANGELOG は上流と同一、CLI・デモからは未接続）。.vrma 書き出しはコード読解のみで実行検証していない。コードは Apache-2.0 だがモデル重みは NVIDIA Open Model License。ローカル生成には約17GB VRAM が必要。",
+      "forks": 1,
+      "open_issues": 0,
+      "commits_30d": 21,
+      "commit_cadence": "daily",
+      "size_kb": 44583,
+      "archived": false,
+      "fetched_at": "2026-11-06T14:52:30Z",
+      "last_release": "",
+      "last_release_at": "",
+      "path": "entries/3d-motion/camenduru-vrmkimodo.md",
+      "summary": "テキスト1文、または「文＋秒数」を並べた複数プロンプトから3Dの人間/ヒューマノイドモーションを生成する（CLI: kimodo_gen）"
     },
     {
       "repo": "camenduru/VRMExMR",
