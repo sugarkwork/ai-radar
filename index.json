@@ -1,5 +1,5 @@
 {
-  "count": 196,
+  "count": 197,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -2264,6 +2264,39 @@
       "commits_90d": 84,
       "path": "entries/mcp-server/graphicle-ai-graphicle.md",
       "summary": "リポジトリを**コードグラフ**に変換し、あわせてドキュメント・設計判断・過去のエージェントセッションを**記憶**として保持する。エージェントはその両方から、ファイル名と行番号付きの抜粋だけを受け取る"
+    },
+    {
+      "type": "repo",
+      "name": "pagesift",
+      "genre": "mcp-server",
+      "url": "https://github.com/YOLOW92/pagesift",
+      "author": "YOLOW92",
+      "repo": "YOLOW92/pagesift",
+      "license": "AGPL-3.0",
+      "stars": 245,
+      "language": "Rust",
+      "created": "2026-10-20",
+      "updated": "2026-11-06",
+      "added": "2026-11-06",
+      "first_seen": "2026-11-06",
+      "sources": [
+        "https://x.com/Ryrenz/status/2118161886894080121"
+      ],
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "AGPL-3.0 のため、改変してネットワーク越しに提供する場合はソース開示義務。プロプライエタリ製品への組み込みは別途商用ライセンス。README のベンチマーク数値（2.4ms/ページ、20.49倍、32MB 等）はすべて著者自身の計測で第三者検証なし＝カタログの事実としては採用せず flag 扱い。リポジトリは 2026-10-20 作成で履歴が浅く、v1.1.3 は検証当日リリース。pip 版 CLI のサブコマンドは mcp/scrape/convert のみで、README が示す crawl/extract/doctor やローカル PDF/Office の直接パースは cargo ビルド版の機能（pip 版 scrape は http(s) のみ受け付け、ローカルファイルは convert で HTML のみ）。",
+      "forks": 32,
+      "open_issues": 0,
+      "commits_30d": 100,
+      "commit_cadence": "daily",
+      "size_kb": 41414,
+      "archived": false,
+      "fetched_at": "2026-11-06T19:10:33Z",
+      "last_release": "v1.1.3",
+      "last_release_at": "2026-11-06",
+      "path": "entries/mcp-server/yolow92-pagesift.md",
+      "summary": "URL を取得し、本文抽出した Markdown もしくは JSON（links / images / metadata / スキーマ抽出）で返す"
     },
     {
       "repo": "cheaper-inference/OmniRoute",
