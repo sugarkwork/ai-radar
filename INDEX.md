@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 180 件 — リポジトリ 143, モデル 15, 記事 1, リンク集 17, プロンプト 4 / ⚑ 要確認 11 件
+収録 181 件 — リポジトリ 144, モデル 15, 記事 1, リンク集 17, プロンプト 4 / ⚑ 要確認 11 件
 
-## リポジトリ（143）
+## リポジトリ（144）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -193,10 +193,11 @@
 | [treg（REA growth スキル同梱のエージェント用ツールレジストリ）](entries/mcp-server/superdesigndev-treg.md) | 7,255 | 654 | 毎日 | 100+ | 2026-11-06 | 2026-11-06 | 2026-11-06 | Apache-2.0 + 追加条項（GitHub API は NOASSERTION） |
 | [World Intelligence MCP](entries/mcp-server/marc-shade-world-intel-mcp.md) | 1,063 | 177 | 毎日 | 100+ | 2026-10-18 | 2026-11-04 | 2026-11-04 | MIT |
 
-### プロンプト（デザイン/UI）（2）
+### プロンプト（デザイン/UI）（3）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
+| [Hallmark（AIっぽさを名指しで潰すデザインスキル）](entries/prompt-design/nutlope-hallmark.md) | 49,068 | 2,600 | 毎日 | 85 | 2026-11-05 | 2026-11-06 | 2026-11-06 | MIT |
 | [prompt-master](entries/prompt-design/nidhinjs-prompt-master.md) | 15,469 | 1,791 | 週次 | 7 | 2026-10-22 | 2026-11-03 | 2026-11-03 | MIT |
 | [handraw-style](entries/prompt-design/yang0-handraw-style.md) | 7,065 | 821 | 毎日 | 59 | 2026-11-03 | 2026-11-04 | 2026-11-04 | NOASSERTION |
 

@@ -1,5 +1,5 @@
 {
-  "count": 180,
+  "count": 181,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -3450,6 +3450,36 @@
       "signup_required": false,
       "path": "models/other/ml-intern-lab-qwen3-5-0-8b-weight-space-programming.md",
       "summary": "**学習せずに重みを直接編集して、モデルの病的な挙動を直したチェックポイント**。Qwen3.5-0.8B が数学問題でトークン上限までループする症状を、勾配降下も微調整も使わずに修正している。"
+    },
+    {
+      "type": "repo",
+      "name": "Hallmark（AIっぽさを名指しで潰すデザインスキル）",
+      "genre": "prompt-design",
+      "url": "https://github.com/Nutlope/hallmark",
+      "repo": "Nutlope/hallmark",
+      "license": "MIT",
+      "stars": 49068,
+      "language": "CSS",
+      "created": "2026-04-27",
+      "updated": "2026-11-05",
+      "added": "2026-11-06",
+      "first_seen": "2026-11-06",
+      "sources": [
+        "https://x.com/opensourcelab9/status/2118601779063701949"
+      ],
+      "flags": [],
+      "risk_notes": "リリースもタグも無い（`/releases` と `/tags` が空、バージョンは SKILL.md と package.json の 2.0.0 表記のみ）。更新は活発だが 30日85コミットの大半が数十件のコミュニティPRを同一分にまとめてマージしたもので、内容はテーマ検証・sloplint・capture のバグ修正が中心（docs/スクリプトのみで実行バイナリは無い）。未解決が issue 25・PR 15。リポジトリは 228MB（site/ と docs/screenshots/ の画像が主因）で、インストールされるスキル本体は 7.1MB。ブラウザ検査（`--render`）は puppeteer-core + Chrome が要り、無い場合は『render tier not run』と出して静的検査だけに落ちる（実測）。同期間の★増分『+7,600』は投稿の主張で、stargazers API が 4万件超のページを返さない（page 400 で 404）ため検証できない。★は API 値 49,068 を採る（投稿の『4.8万』とほぼ一致、やや過小）。同梱の写真755枚は Wikimedia Commons の CC0/PD/CC BY/CC BY-SA で、CC BY 系は著作者・ライセンス・元ページの表示が条件。スキルはエージェントのフル権限で走る（skills.sh の警告）ので、導入前に SKILL.md と scripts/ を読むべき。画像生成ステップだけは TOGETHER_API_KEY（FLUX.1.1-pro、有料）を使う。eval/README が『claude -p ではスキルは自動発火しない』と明記しており、名前で呼ぶ運用が前提。",
+      "forks": 2600,
+      "open_issues": 40,
+      "commits_30d": 85,
+      "commit_cadence": "daily",
+      "size_kb": 233716,
+      "archived": false,
+      "fetched_at": "2026-11-06T08:42:56Z",
+      "last_release": "",
+      "last_release_at": "",
+      "path": "entries/prompt-design/nutlope-hallmark.md",
+      "summary": "AI生成UIの『それっぽさ』を名指しで禁止する。Floor は16条で無効化不可：紫→青グラデ、transition: all、ローマン見出し中のイタリック1語、eyebrow（見出し上の小ラベル）、字間を開けた大文字ラベル、絵文字アイコン、カード内カード、100vw、捏造したメトリクス/ testimonial / "
     },
     {
       "repo": "nidhinjs/prompt-master",
