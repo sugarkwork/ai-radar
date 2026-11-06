@@ -1,5 +1,5 @@
 {
-  "count": 190,
+  "count": 191,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -2476,6 +2476,37 @@
       "type": "repo",
       "path": "entries/model-serving/midagedev-bloomery.md",
       "summary": "GPU に載りきらない MoE モデルを、GPU とホスト RAM に分割して推論するサーバー。**使用頻度の高いエキスパートを実行中に GPU へ移す**ため、全エキスパートを VRAM に置く必要がない。"
+    },
+    {
+      "type": "repo",
+      "name": "Tokenomos",
+      "genre": "model-serving",
+      "url": "https://github.com/KohakuBlueleaf/Tokenomos",
+      "author": "KohakuBlueleaf (Shih-Ying Yeh)",
+      "repo": "KohakuBlueleaf/Tokenomos",
+      "license": "Apache-2.0",
+      "stars": 26,
+      "language": "Python",
+      "created": "2026-10-31",
+      "updated": "2026-11-05",
+      "added": "2026-11-06",
+      "first_seen": "2026-11-06",
+      "sources": [
+        "https://x.com/KBlueleaf/status/2116459910347313274"
+      ],
+      "flags": [],
+      "risk_notes": "README の高速化数値（stock vLLM 比 2.2–4.8x 等）は作者自身の bench/ スクリプトと reports/ に基づく主張で、独立検証は確認していない。NVIDIA GPU（sm70〜sm120）と CUDA ドライバが必須で、CPU では動かない。tokenomos._rs のビルドに Rust toolchain が要る。初版 v0.0.1（2026-10-31）から日が浅く、API/引数は変わりうる。MCP サーバや Agent Skill は提供されておらず、連携は OpenAI 互換 HTTP と Python API のみ。",
+      "forks": 0,
+      "open_issues": 0,
+      "commits_30d": 20,
+      "commit_cadence": "daily",
+      "size_kb": 3299,
+      "archived": false,
+      "fetched_at": "2026-11-06T11:38:26Z",
+      "last_release": "v0.0.1",
+      "last_release_at": "2026-10-31",
+      "path": "entries/model-serving/kohakublueleaf-tokenomos.md",
+      "summary": "小型VLM（LFM3-VL 2B / Qwen3.5 4B・9B / Qwen3.8 27B / Gemma 4 E4B・12B・31B）を1枚のNVIDIA GPUでローカル推論する。"
     },
     {
       "type": "model",
