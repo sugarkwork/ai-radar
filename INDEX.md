@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 181 件 — リポジトリ 144, モデル 15, 記事 1, リンク集 17, プロンプト 4 / ⚑ 要確認 11 件
+収録 189 件 — リポジトリ 152, モデル 15, 記事 1, リンク集 17, プロンプト 4 / ⚑ 要確認 11 件
 
-## リポジトリ（144）
+## リポジトリ（152）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（34）
+### その他（35）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -32,6 +32,7 @@
 | [OBLITERATUS](entries/other/elder-plinius-obliteratus.md) | 9,189 | 1,625 | 毎日 | 100+ | 2026-11-05 | 2026-11-06 | 2026-11-06 | AGPL-3.0 |
 | [QuantStats](entries/other/ranaroussi-quantstats.md) | 7,798 | 1,272 | 月次 | 1 | 2026-11-02 | 2026-11-05 | 2026-11-05 | Apache-2.0 |
 | [APScheduler](entries/other/agronholm-apscheduler.md) | 7,685 | 819 | 週次 | 7 | 2026-10-26 | 2026-11-05 | 2026-11-05 | MIT |
+| [Sandstorm（アイドル状態のエージェントsandboxをスナップショットして1台に数千個載せる）](entries/other/deeplethe-sandstorm.md) | 5,124 | 403 | 毎日 | 100+ | 2026-11-01 | 2026-11-06 | 2026-11-06 | Apache-2.0 |
 | [Agent Sprite Forge](entries/other/0x0funky-agent-sprite-forge.md) ⚑ | 4,923 | 485 | 毎日 | 100+ | 2026-10-06 | 2026-11-03 | 2026-11-03 | MIT |
 | [pixelfx](entries/other/patch-gg-pixelfx.md) | 3,966 | 543 | 週次 | 8 | 2026-10-31 | 2026-11-03 | 2026-11-03 | MIT |
 | [cryptofeed](entries/other/bmoscon-cryptofeed.md) | 2,968 | 780 | 毎日 | 46 | 2026-11-05 | 2026-11-05 | 2026-11-05 | AGPL-3.0 |
@@ -47,7 +48,7 @@
 | [ComfyUI-MossPanelDataset](entries/other/sepiablue-ai-comfyui-mosspaneldataset.md) | 32 | 5 | 週次 | 7 | 2026-11-02 | 2026-11-03 | 2026-11-03 | MIT |
 | [ComfyUI Prompt Atelier](entries/other/renz1998-comfyui-prompt-atelier.md) | 0 | 0 | 毎日 | 25 | 2026-11-05 | 2026-11-06 | 2026-11-06 | GPL-3.0 |
 
-### エージェント基盤・スキル集（32）
+### エージェント基盤・スキル集（33）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -62,6 +63,7 @@
 | [agentic-awesome-skills（AAS）](entries/agent-framework/sickn33-agentic-awesome-skills.md) | 49,154 | 7,140 | 毎日 | 100+ | 2026-11-04 | 2026-11-04 | 2026-11-04 | MIT |
 | [claude-plugins-official](entries/agent-framework/anthropics-claude-plugins-official.md) | 45,988 | 4,784 | 毎日 | 100+ | 2026-11-03 | 2026-11-03 | 2026-11-03 | Apache-2.0 |
 | [ai-website-cloner-template](entries/agent-framework/jcodesmore-ai-website-cloner-template.md) | 38,633 | 5,736 | 月次 | 0 | 2026-10-19 | 2026-11-05 | 2026-11-05 | MIT |
+| [TencentDB Agent Memory（チームで共有するエージェント記憶ハブ）](entries/agent-framework/tencentcloud-tencentdb-agent-memory.md) | 30,561 | 2,982 | 毎日 | 24 | 2026-11-04 | 2026-11-06 | 2026-11-06 | MIT（GitHub API は NOASSERTION） |
 | [dsh-superagent (prototype)](entries/agent-framework/deepseek-ai-dsh-superagent-prototype.md) | 17,309 | 1,874 | 月次 | 1 | 2026-11-03 | 2026-11-04 | 2026-11-04 | MIT |
 | [agent-desktop](entries/agent-framework/vercel-labs-agent-desktop.md) | 16,755 | 1,177 | 毎日 | 79 | 2026-11-05 | 2026-11-05 | 2026-11-05 | Apache-2.0 |
 | [ARTEMIS](entries/agent-framework/google-artemis.md) | 16,511 | 1,815 | 月次 | 0 | 2026-10-01 | 2026-11-04 | 2026-11-04 | Apache-2.0 |
@@ -84,7 +86,7 @@
 | [BetterSearch](entries/agent-framework/ry0narushima-bettersearch.md) | 40 | 4 | 週次 | 10 | 2026-10-18 | 2026-11-03 | 2026-11-03 | MIT |
 | [web-api-skills](entries/agent-framework/oxylabs-web-api-skills.md) | 11 | 1 | 月次 | 3 | 2026-10-13 | 2026-11-03 | 2026-11-03 | MIT |
 
-### 動画生成パイプライン（28）
+### 動画生成パイプライン（29）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -112,12 +114,13 @@
 | [Veda Sparse Attention for ComfyUI (MiniMax-H3)](entries/video-gen/veda-sparse-veda-on-comfyui.md) | 218 | 20 | 毎日 | 45 | 2026-10-11 | 2026-11-05 | 2026-11-05 | MIT |
 | [ComfyUI Panorama Stickers](entries/video-gen/nomadoor-comfyui-panorama-stickers.md) | 179 | 17 | 毎日 | 42 | 2026-11-04 | 2026-11-04 | 2026-11-04 | MIT |
 | [H3 Continuity Studio](entries/video-gen/kadobot-comfyui-h3-continuity-studio.md) | 116 | 11 | 毎日 | 100+ | 2026-11-04 | 2026-11-04 | 2026-11-04 | MIT |
+| [WeVisCut（記事を数分の編集済み動画に変える9Bツールエージェント）](entries/video-gen/tencent-weviscut.md) | 79 | 11 | 週次 | 10 | 2026-10-30 | 2026-11-06 | 2026-11-06 | Apache-2.0（GitHub API は NOASSERTION） |
 | [music-mv](entries/video-gen/win-hao-music-mv.md) | 77 | 3 | 月次 | 3 | 2026-10-20 | 2026-11-04 | 2026-11-04 | MIT |
 | [Screenplay](entries/video-gen/gmpetrov-agent-screenplay.md) | 54 | 1 | 毎日 | 22 | 2026-11-03 | 2026-11-04 | 2026-11-04 | MIT |
 | [batch-video-plugin](entries/video-gen/zysen1-batch-video-plugin.md) | 42 | 17 | 月次 | 2 | 2026-11-01 | 2026-11-03 | 2026-11-03 | MIT |
 | [MiniMax H3 Temporal Window & Spatial Tiles](entries/video-gen/mo-akkakk-comfyui-minimaxh3-window-tiles.md) | 24 | 4 | 週次 | 19 | 2026-11-05 | 2026-11-05 | 2026-11-05 | MIT |
 
-### 3D・モーション（17）
+### 3D・モーション（18）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -131,6 +134,7 @@
 | [NullMotion](entries/3d-motion/blixvip-nullmotion.md) | 1,335 | 133 | 週次 | 16 | 2026-10-31 | 2026-11-04 | 2026-11-04 | MIT |
 | [Claude Animated Shorts](entries/3d-motion/mromidev-claude-animated-shorts.md) | 1,195 | 270 | 月次 | 2 | 2026-11-01 | 2026-11-03 | 2026-11-03 | MIT |
 | [Idol (image-to-3D Gaussian splat SDK)](entries/3d-motion/speridlabs-idol-sdk.md) | 856 | 80 | 停滞 | 1 | 2026-10-29 | 2026-11-06 | 2026-11-06 | Apache-2.0 |
+| [HairDeck（1枚の画像からアニメ調ヘアカードと揺れボーンを作る）](entries/3d-motion/hyz317-hairdeck.md) | 842 | 60 | 週次 | 7 | 2026-11-05 | 2026-11-06 | 2026-11-06 | Apache-2.0 |
 | [Ultra Water](entries/3d-motion/humpalumps-ultra-water.md) | 617 | 86 | 毎日 | 20 | 2026-11-02 | 2026-11-03 | 2026-11-03 | MIT |
 | [SkinTokens（TokenRig）](entries/3d-motion/vast-ai-research-skintokens.md) | 597 | 82 | 停滞 | 0 | 2026-05-12 | 2026-11-05 | 2026-11-05 | MIT |
 | [SculptForge](entries/3d-motion/islandmed-sculptforge.md) | 555 | 69 | 毎日 | 100+ | 2026-11-04 | 2026-11-04 | 2026-11-04 | GPL-3.0 |
@@ -155,17 +159,38 @@
 | [Stable Audio Tools](entries/tts-audio/stability-ai-stable-audio-tools.md) | 3,898 | 489 | 停滞 | 0 | 2026-11-01 | 2026-11-03 | 2026-11-03 | MIT |
 | [Essentia](entries/tts-audio/mtg-essentia.md) | 3,791 | 643 | 毎日 | 21 | 2026-10-22 | 2026-11-03 | 2026-11-03 | AGPL-3.0 |
 
-### モデル推論・配信（7）
+### モデル推論・配信（8）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
 | [OmniRoute](entries/model-serving/cheaper-inference-omniroute.md) | 84,278 | 12,649 | 毎日 | 100+ | 2026-11-03 | 2026-11-03 | 2026-11-03 | MIT |
 | [Strata](entries/model-serving/niko1221-strata.md) | 39,048 | 4,236 | 毎日 | 100+ | 2026-11-02 | 2026-11-03 | 2026-11-03 | MIT |
+| [oMLX（Apple Silicon向けLLM推論サーバ、メニューバーから管理）](entries/model-serving/jundot-omlx.md) | 23,405 | 2,101 | 毎日 | 100+ | 2026-11-05 | 2026-11-06 | 2026-11-06 | Apache-2.0 |
 | [gpu-unlock](entries/model-serving/zagitta-gpu-unlock.md) ⚑ | 16,595 | 1,654 | 毎日 | 36 | 2026-10-29 | 2026-11-04 | 2026-11-04 | GPL-2.0 |
 | [kimi-k3-in-c](entries/model-serving/fareedkhan-dev-kimi-k3-in-c.md) ⚑ | 10,251 | 1,625 | 月次 | 0 | 2026-10-02 | 2026-11-04 | 2026-11-04 | Apache-2.0 |
 | [Latent Sparse Attention (LSA)](entries/model-serving/prefrontal-ai-latent-sparse-attention.md) | 389 | 45 | 週次 | 7 | 2026-11-04 | 2026-11-04 | 2026-11-04 | Apache-2.0 |
 | [llamAmpere](entries/model-serving/jakeatx-llamampere.md) | 221 | 30 | 毎日 | 100+ | 2026-11-03 | 2026-11-04 | 2026-11-04 | MIT |
 | [bloomery](entries/model-serving/midagedev-bloomery.md) | 60 | 7 | 毎日 | 100+ | 2026-11-04 | 2026-11-04 | 2026-11-04 | MIT |
+
+### MCPサーバー（5）
+
+| 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
+|---|---:|---:|---|---:|---|---|---|---|
+| [Scrapling](entries/mcp-server/d4vinci-scrapling.md) | 98,372 | 10,305 | 毎日 | 100+ | 2026-11-05 | 2026-11-06 | 2026-11-06 | BSD-3-Clause |
+| [treg（REA growth スキル同梱のエージェント用ツールレジストリ）](entries/mcp-server/superdesigndev-treg.md) | 7,255 | 654 | 毎日 | 100+ | 2026-11-06 | 2026-11-06 | 2026-11-06 | Apache-2.0 + 追加条項（GitHub API は NOASSERTION） |
+| [World Intelligence MCP](entries/mcp-server/marc-shade-world-intel-mcp.md) | 1,063 | 177 | 毎日 | 100+ | 2026-10-18 | 2026-11-04 | 2026-11-04 | MIT |
+| [ExcelMcp（本物のExcelをCOM経由でAIに操作させるMCPサーバ／CLI）](entries/mcp-server/sbroenne-mcp-server-excel.md) | 853 | 106 | 毎日 | 100+ | 2026-11-05 | 2026-11-06 | 2026-11-06 | MIT |
+| [Graphicle（コードグラフと記憶を1つのMCPサーバでエージェントに渡すRust製ツール）](entries/mcp-server/graphicle-ai-graphicle.md) | 510 | 36 | 毎日 | 84 | 2026-11-05 | 2026-11-06 | 2026-11-06 | Apache-2.0 |
+
+### RAG・検索（5）
+
+| 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
+|---|---:|---:|---|---:|---|---|---|---|
+| [OpenDataLoader PDF](entries/rag/opendataloader-project-opendataloader-pdf.md) | 30,178 | 2,882 | 毎日 | 100+ | 2026-11-05 | 2026-11-05 | 2026-11-05 | Apache-2.0 |
+| [pdf-inspector](entries/rag/firecrawl-pdf-inspector.md) | 19,825 | 1,337 | 月次 | 1 | 2026-10-22 | 2026-11-04 | 2026-11-04 | MIT |
+| [DigUp](entries/rag/arahim3-digup.md) | 6,237 | 493 | 毎日 | 100+ | 2026-10-26 | 2026-11-04 | 2026-11-04 | MIT |
+| [OpenKB](entries/rag/vectifyai-openkb.md) | 4,849 | 503 | 停滞 | 0 | 2026-07-22 | 2026-11-04 | 2026-11-04 | Apache-2.0 |
+| [pagesift（Webと文書をMarkdown/JSONに落とすAGPLの自前ホスト型パーサ）](entries/rag/yolow92-pagesift.md) | 244 | 32 | 毎日 | 100+ | 2026-11-04 | 2026-11-06 | 2026-11-06 | AGPL-3.0（商用ライセンスあり） |
 
 ### コーディングエージェント（4）
 
@@ -175,23 +200,6 @@
 | [jcode](entries/coding-agent/1jehuang-jcode.md) | 21,484 | 2,506 | 毎日 | 100+ | 2026-11-04 | 2026-11-04 | 2026-11-04 | MIT |
 | [Craft Anything](entries/coding-agent/storytold-craft-anything.md) | 11,488 | 1,879 | 毎日 | 100+ | 2026-11-04 | 2026-11-04 | 2026-11-04 | Apache-2.0 |
 | [oh-my-mermaid（omm）](entries/coding-agent/oh-my-mermaid-oh-my-mermaid.md) | 3,380 | 267 | 停滞 | 0 | 2026-04-07 | 2026-11-05 | 2026-11-05 | MIT |
-
-### RAG・検索（4）
-
-| 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
-|---|---:|---:|---|---:|---|---|---|---|
-| [OpenDataLoader PDF](entries/rag/opendataloader-project-opendataloader-pdf.md) | 30,178 | 2,882 | 毎日 | 100+ | 2026-11-05 | 2026-11-05 | 2026-11-05 | Apache-2.0 |
-| [pdf-inspector](entries/rag/firecrawl-pdf-inspector.md) | 19,825 | 1,337 | 月次 | 1 | 2026-10-22 | 2026-11-04 | 2026-11-04 | MIT |
-| [DigUp](entries/rag/arahim3-digup.md) | 6,237 | 493 | 毎日 | 100+ | 2026-10-26 | 2026-11-04 | 2026-11-04 | MIT |
-| [OpenKB](entries/rag/vectifyai-openkb.md) | 4,849 | 503 | 停滞 | 0 | 2026-07-22 | 2026-11-04 | 2026-11-04 | Apache-2.0 |
-
-### MCPサーバー（3）
-
-| 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
-|---|---:|---:|---|---:|---|---|---|---|
-| [Scrapling](entries/mcp-server/d4vinci-scrapling.md) | 98,372 | 10,305 | 毎日 | 100+ | 2026-11-05 | 2026-11-06 | 2026-11-06 | BSD-3-Clause |
-| [treg（REA growth スキル同梱のエージェント用ツールレジストリ）](entries/mcp-server/superdesigndev-treg.md) | 7,255 | 654 | 毎日 | 100+ | 2026-11-06 | 2026-11-06 | 2026-11-06 | Apache-2.0 + 追加条項（GitHub API は NOASSERTION） |
-| [World Intelligence MCP](entries/mcp-server/marc-shade-world-intel-mcp.md) | 1,063 | 177 | 毎日 | 100+ | 2026-10-18 | 2026-11-04 | 2026-11-04 | MIT |
 
 ### プロンプト（デザイン/UI）（3）
 
