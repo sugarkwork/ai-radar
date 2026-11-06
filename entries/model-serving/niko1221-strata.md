@@ -4,23 +4,23 @@ name: Strata
 genre: model-serving
 url: https://github.com/Niko1221/Strata
 license: MIT
-stars: 39048
+stars: 41050
 language: C++
 created: 2026-09-24
-updated: 2026-11-02
+updated: 2026-11-06
 added: 2026-11-03
 sources:
   - https://x.com/superfang119/status/2117561102481731751
-forks: 4236
-open_issues: 1228
+forks: 4495
+open_issues: 1052
 commits_30d: 100
 commits_90d: 100
 commit_cadence: daily
-size_kb: 87595
+size_kb: 92409
 archived: false
-fetched_at: "2026-11-03T15:42:32Z"
-last_release: v0.2.10
-last_release_at: 2026-11-02
+fetched_at: "2026-11-06T22:54:09Z"
+last_release: v0.2.11
+last_release_at: 2026-11-05
 ---
 
 # Strata
@@ -32,6 +32,7 @@ last_release_at: 2026-11-02
 - 対応モデル（README 記載分）: Qwen3.8-Flash-Next（ISTA-DASLab / Unsloth / Gyro の各種量子化）、Qwen3.6-35B-A3B（Unsloth UD-Q4_K_XL 等）、DeepSeekV4.1-Flash-1017（1.75〜2.25 bpw / Coder 版）。
 - `localhost` に OpenAI 互換／Anthropic 互換 API を立て、`strata connect` で各コーディングツールの接続手順を出す。
 - 接続先として README が明記しているツール: Claude Code / Codex CLI / OpenCode / oh-my-pi / pi.dev / Hermes Agent / OpenClaw。
+- v0.2.11 で Unsloth の新しい Qwen3.8-Flash-Next（1〜4bit）、NVIDIA / Radeon のプロンプト処理高速化、少ない枚数でのマルチカード起動、チャットをファイルとして保存する機能が入った。
 
 ## 目的・背景
 
@@ -67,3 +68,4 @@ strata launch --family deepseek41 --model ist-das-2.00bpw --plan
 ## 変更履歴
 
 - 2026-11-03: 初回登録（star 39,028 / pushed 2026-11-02 / v0.2.9）
+- 2026-11-06: Unsloth の 1〜4bit Qwen3.8-Flash-Next、マルチカード起動、チャットのファイル保存を追記（v0.2.11）

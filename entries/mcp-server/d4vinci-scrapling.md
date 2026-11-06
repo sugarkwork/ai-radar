@@ -4,22 +4,22 @@ name: "Scrapling"
 genre: "mcp-server"
 url: "https://github.com/D4Vinci/Scrapling"
 license: "BSD-3-Clause"
-stars: 98372
+stars: 98814
 language: "Python"
 created: "2024-10-13"
-updated: 2026-11-05
+updated: 2026-11-06
 added: "2026-11-06"
 first_seen: "2026-11-06"
 sources: ["https://x.com/AISuperDomain/status/2118353773701849567"]
 flags: []
 risk_notes: "スクレイピングツールのため、対象サイトの利用規約・robots.txt・著作権・個人情報保護を確認し、レート制限を守ること。Cloudflare 等の突破機能は規約違反や損害賠償リスクになり得る。"
-forks: 10305
-open_issues: 14
+forks: 10351
+open_issues: 15
 commits_30d: 100
 commit_cadence: daily
 size_kb: 16790
 archived: false
-fetched_at: "2026-11-06T07:47:05Z"
+fetched_at: "2026-11-06T22:53:47Z"
 last_release: v0.5.1
 last_release_at: 2026-11-04
 commits_90d: 100
@@ -37,6 +37,7 @@ commits_90d: 100
 - Spider による並列クロール、プロキシローテーション、自動リトライ、AutoThrottle、中断/再開、JSON/JSONL/CSV/XML エクスポート。
 - CLI と対話シェルを提供: `scrapling extract get <url> out.md --css-selector ...`、`scrapling shell`。
 - MCP 側に広告・トラッカー約3,500ドメインのブロックと、隠し要素・ゼロ幅文字等を除去するプロンプトインジェクション対策を実装。
+- **v0.5.1 の変更**: リモートブラウザへの接続が専用のリモートセッションクラスに変わり、旧来の CDP 接続は移行が必要（破壊的変更）。`browser_observe` でアニメーションを連続フレームとして渡せるようになり、`browser_actions` はボタンを押したままのドラッグ＆ドロップと、保持中のページ検査に対応した。
 
 ## 目的・背景
 
@@ -79,3 +80,4 @@ npx skills add D4Vinci/Scrapling --skill scrapling-official
 ## 変更履歴
 
 - 2026-11-06: 初回登録
+- 2026-11-06: v0.5.1 — リモートブラウザ接続のセッション化（破壊的変更）、`browser_observe` とドラッグ操作を追記（3a4bb5b）

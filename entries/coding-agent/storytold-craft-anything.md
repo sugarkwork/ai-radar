@@ -4,23 +4,23 @@ name: Craft Anything
 genre: coding-agent
 url: https://github.com/storytold/craft-anything
 license: Apache-2.0
-stars: 11488
+stars: 17885
 language: Rust
 created: 2026-10-31
-updated: 2026-11-04
+updated: 2026-11-06
 added: 2026-11-03
 sources:
   - https://x.com/rammcodes/status/2117515072893284799
-forks: 1879
-open_issues: 199
+forks: 3282
+open_issues: 207
 commits_30d: 100
 commits_90d: 100
 commit_cadence: daily
-size_kb: 9820
+size_kb: 10525
 archived: false
-fetched_at: "2026-11-04T22:54:09Z"
-last_release: v0.3.0
-last_release_at: 2026-11-02
+fetched_at: "2026-11-06T22:52:41Z"
+last_release: v0.5.0
+last_release_at: 2026-11-06
 ---
 
 # Craft Anything
@@ -32,6 +32,8 @@ last_release_at: 2026-11-02
 - 調査ツールはすべて CLI サブコマンドかつ MCP ツールとして公開される。アプリを開かずにエージェントから丸ごと実行できる。
 - プロジェクト管理: `Documents/Craft Anything` 配下に1プロジェクト1フォルダ。`craft.json`（要求・対象・状態・履歴）、`capture/`（取得物）などを保持し、`--continue-in` / `--existing edit` で継続編集できる。
 - ネイティブアプリ。macOS / Windows / Linux / FreeBSD と Web（WebAssembly、ブラウザ内で動作）に対応。
+- **承認をプロジェクト単位で決める**（v0.5.0）: ビルダーの承認をアクションの種類ごとにどう扱うかをプロジェクトごとに選べる。プロンプト欄の下のメニューか `/approvals` から設定する。
+- **OpenCode 実行**: ネイティブの OpenCode 実行にも Craft Anything のツールが渡り、ツール呼び出しが画面に出る。
 
 ## 目的・背景
 
@@ -68,3 +70,4 @@ craft-anything-cli mcp                                   # MCP クライアン�
 
 - 2026-11-03: 初回登録（star 6,863 / pushed 2026-11-03 / early alpha）
 - 2026-11-04: Copilot CLI対応、clean roomがOSサンドボックスでない点を追記（078cf0c）
+- 2026-11-06: プロジェクト単位の承認設定と `/approvals`、ネイティブ OpenCode へのツール供給を追記（v0.5.0 / 3122cd1）

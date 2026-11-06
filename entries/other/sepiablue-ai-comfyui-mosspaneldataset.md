@@ -4,10 +4,10 @@ name: "ComfyUI-MossPanelDataset"
 genre: other
 url: "https://github.com/sepiablue-ai/ComfyUI-MossPanelDataset"
 license: "MIT"
-stars: 32
+stars: 39
 language: "Python"
 created: "2026-11-02"
-updated: 2026-11-02
+updated: 2026-11-06
 added: "2026-11-03"
 first_seen: "2026-11-03"
 sources: []
@@ -15,12 +15,12 @@ flags: []
 risk_notes: ""
 forks: 5
 open_issues: 0
-commits_30d: 7
-commits_90d: 7
+commits_30d: 18
+commits_90d: 18
 commit_cadence: weekly
-size_kb: 4435
+size_kb: 47794
 archived: false
-fetched_at: "2026-11-03T22:59:11Z"
+fetched_at: "2026-11-06T22:52:14Z"
 ---
 
 # ComfyUI-MossPanelDataset
@@ -32,6 +32,9 @@ fetched_at: "2026-11-03T22:59:11Z"
 - 人物の外見と場面は英語で、セリフは描かせたい言語のまま渡す。翻訳も追加の LLM も使わない。
 - 「空のコマ枠」モードで、人物・場面・セリフを除いた枠だけを生成できる。プロンプトを確認・編集するノードも同梱。
 - 見本画像と配置情報を同梱しているため、導入後のカタログ閲覧に外部サービスへの接続は不要。デモ動画（30秒）付き。
+- **構図テンプレート120種**: 1人40・2人40・3人40の構図見本から、コマごとにカメラ構図を選べる。見本画像を参照入力に渡すのではなく、英語プロンプトと人物領域の比率指定で誘導する（接続しなければ従来の処理）。
+- **3人までの人物指定**: 共通の人物設定に人物3を足せる。各コマで1〜3人の任意の組み合わせと最大3発言を指定でき、話す順番を変えても人物の位置は入れ替わらない。
+- **人物画像から外見を抽出**: 人物画像を MOSS と共用のテキストエンコーダー（Qwen）で英語の外見文へ変換して外見欄へ渡せる。年代・顔立ち・体格・髪型・服装などを拾い、追加モデルは要らない。UI は ComfyUI の表示言語に追随する（日本語／英語）。
 
 ## 目的・背景
 
@@ -60,3 +63,4 @@ git clone https://github.com/sepiablue-ai/ComfyUI-MossPanelDataset.git
 ## 変更履歴
 
 - 2026-11-03: 初回登録（star 32 / pushed 2026-11-02 / MIT）
+- 2026-11-06: 構図テンプレート120種・3人指定・人物画像からの外見抽出・日英UIを追記（ab51665 / 70636b6）

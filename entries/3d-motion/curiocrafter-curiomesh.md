@@ -4,10 +4,10 @@ name: CurioMesh
 genre: 3d-motion
 url: https://github.com/CurioCrafter/CurioMesh
 license: GPL-3.0
-stars: 42
+stars: 46
 language: Python
 created: 2025-08-11
-updated: 2026-11-05
+updated: 2026-11-06
 added: 2026-11-05
 first_seen: 2026-11-05
 source_post: https://x.com/happy_modeling/status/2118466746629976101
@@ -15,16 +15,16 @@ sources:
   - https://modelinghappy.com/archives/71416
 flags: []
 risk_notes: ""
-forks: 2
+forks: 3
 open_issues: 1
 commits_30d: 100
 commits_90d: 100
 commit_cadence: daily
-size_kb: 48901
+size_kb: 46241
 archived: false
-fetched_at: "2026-11-06T03:32:57Z"
-last_release: v0.9.7
-last_release_at: 2026-11-05
+fetched_at: "2026-11-06T22:53:35Z"
+last_release: v0.9.8
+last_release_at: 2026-11-06
 ---
 
 # CurioMesh
@@ -37,6 +37,8 @@ last_release_at: 2026-11-05
 - ガイドカーブでポリゴンの流れを指定できる。
 - **ノーマルマップ／カラーテクスチャのベイク**（高密度→ローポリへのディテール転写）と、3段階のLOD生成。
 - ゲームエンジン向けの書き出し（Unreal Engine / Unity）。ライブプレビュー付き。
+- **v0.9.8 のパネル**: 手順に沿って「メッシュを選ぶ → 用途（8枚の絵から選択）→ Start → Adjust / Fix / Finish」だけを表示する構成になった。
+- **配布**: Blender 4.2 以降は extension zip、3.6〜4.1 は addon zip。エージェント向けに `curiomesh-0.9.8-agent-skills.zip` と、Claude Code のプラグインマーケット登録（`/plugin marketplace add CurioCrafter/CurioMesh`）も用意されている。
 
 ## 目的・背景
 
@@ -67,3 +69,4 @@ last_release_at: 2026-11-05
 ## 変更履歴
 
 - 2026-11-05: 初回登録（★42 / pushed 2026-11-05 / GPL-3.0 / v0.9.7）
+- 2026-11-06: v0.9.8 — 手順に沿うパネル、Blender 4.2+ の extension zip、エージェント向けスキル zip を追記（442718c）

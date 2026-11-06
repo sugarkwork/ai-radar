@@ -4,23 +4,23 @@ name: Infinite Creation（Agent无限创作）
 genre: video-gen
 url: https://github.com/SwotAtmk/infinite-creation
 license: MIT
-stars: 231
+stars: 259
 language: JavaScript
 created: 2026-09-09
-updated: 2026-11-04
+updated: 2026-11-06
 added: 2026-11-03
 sources:
   - https://x.com/superfang119/status/2117543981446058211
-forks: 55
+forks: 63
 open_issues: 6
 commits_30d: 100
 commits_90d: 100
 commit_cadence: daily
-size_kb: 123752
+size_kb: 124065
 archived: false
-fetched_at: "2026-11-04T22:51:29Z"
-last_release: v1.0.6
-last_release_at: 2026-11-04
+fetched_at: "2026-11-06T22:51:54Z"
+last_release: v1.0.8
+last_release_at: 2026-11-06
 ---
 
 # Infinite Creation（Agent无限创作）
@@ -32,6 +32,8 @@ last_release_at: 2026-11-04
 - 人物バイブル／スタイルガイド／シーン配置表を自動で作り、人物・衣装・小道具・音声素材を管理してショット間のドリフトを抑える。
 - Codex CLI / Claude Code / Gemini CLI / Qwen Code / Cursor Agent / Grok Build などを MCP 経由で接続し、パイプラインを引き継がせる。同梱スキル 35 個。
 - 別系統として「无限·秩影」というコード映画ワークベンチを同梱。66 種のビジュアルスタイルを持ち、Three.js + FFmpeg でレンダリングコードを書かせてスタイル化動画を作る（ComfyUI 不要）。
+- **字幕の3モード**（v1.0.8）: 分镜の台詞から作る「剧本台詞（既定）」／書き出した音声を Whisper で認識する「本地識別」／外部の audio2srt サービスに投げる「外部識別」を設定で切り替えられる。Whisper 用の Python が無い場合はポータブル実行環境（約25MB）とモデルを自動で用意する。
+- **流水線のスキル編排**（v1.0.8）: パイプラインの各ノードで使うスキルを画面から選び、編成をまるごとエクスポート／インポートして共有できる。分镜は首尾フレームを指定するモードも持つ。
 
 ## 目的・背景
 
@@ -66,3 +68,4 @@ pnpm install          # Bun も併用
 
 - 2026-11-03: 初回登録（star 193 / pushed 2026-11-03）
 - 2026-11-04: 生成・待ち行列のタイムアウトを既定で廃止、複数人向けの待ち行列制御は既定オフ（v1.0.6）
+- 2026-11-06: 字幕の3モード（剧本台詞／Whisper 本地識別／外部 audio2srt）と流水線のスキル編排・入出力、分镜の首尾フレーム指定を追記（v1.0.8 / 1a1266c）

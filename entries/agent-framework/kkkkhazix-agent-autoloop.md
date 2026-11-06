@@ -4,26 +4,26 @@ name: "Agent Autoloop"
 genre: agent-framework
 url: "https://github.com/KKKKhazix/agent-autoloop"
 license: "MIT"
-stars: 2420
+stars: 3660
 language: "TypeScript"
 created: "2026-11-03"
-updated: 2026-11-04
+updated: 2026-11-06
 added: "2026-11-04"
 first_seen: "2026-11-04"
 source_post: "https://x.com/ganfanren_ai/status/2117893040778195451"
 sources: []
 flags: []
 risk_notes: ""
-forks: 485
-open_issues: 9
-size_kb: 882
+forks: 671
+open_issues: 1
+size_kb: 1150
 archived: false
-last_release: v1.0.0
-commits_30d: 63
-commits_90d: 63
+last_release: v1.6.1
+commits_30d: 100
+commits_90d: 100
 commit_cadence: daily
-fetched_at: "2026-11-04T22:50:53Z"
-last_release_at: 2026-11-03
+fetched_at: "2026-11-06T22:52:35Z"
+last_release_at: 2026-11-06
 ---
 
 # Agent Autoloop
@@ -34,8 +34,11 @@ last_release_at: 2026-11-03
 - 仕事の入口を**イベントソースのプラグイン**として差し替えられる: 定期実行、HTTP 受信、GitHub Webhook（新 Issue など）、Issue のポーリング。
 - 判断を Agent に任せきらず、**確認が必要な場面だけカードを通知チャネルへ送る**（Feishu / DingTalk / WeCom / Slack / Discord / デスクトップ通知）。回答するとそのまま処理が続く。
 - Agent 側・通知側・デリバリ（CI/CD）側もプラグイン。`agent-autoloop add <git URL>` でサードパーティのプラグインを追加できる。
-- 中核は約1,650行で実行時依存ゼロ。時計を読まず、乱数を使わず、外へリクエストを送らない設計（同じ入力なら同じ結果）。認証情報は各プラグイン側に留める。
+- 中核は約1,850行で実行時依存ゼロ。時計を読まず、乱数を使わず、外へリクエストを送らない設計（同じ入力なら同じ結果）。認証情報は各プラグイン側に留める。
 - CLI と MCP の両方から状態確認・カードへの回答ができる。状態は SQLite に永続化。
+- **Windows 対応**（v1.6.1）: PowerShell のインストーラを用意し、インストールと中台の常駐を Windows でも実行できる（macOS / Linux は curl）。
+- **ルールの操作と検証**: `pause` / `resume` / `run <ルール>` で個別ルールを止め・再開・即時実行でき、`check` / `rules explain` / `emit --dry-run` で設定とイベントの行き先を確かめられる。
+- **内蔵 Agent の起動方法を差し替えられる**: 環境変数を設定してから起動する自前スクリプトを `program` に指定でき、ACP に対応する Agent（Gemini CLI / OpenCode）は `use: "acp"` で元のセッションを引き継げる。
 
 ## 目的・背景
 
@@ -65,3 +68,4 @@ agent-autoloop            # 設定と状態の確認
 ## 変更履歴
 
 - 2026-11-04: 初回登録（★1,803 / MIT / v1.0.0 / 作成 2026-11-03）
+- 2026-11-06: Windows 対応、ルールの pause/resume/run と検証コマンド、内蔵 Agent の差し替え・ACP 接続を追記（v1.6.1 / 49562af）

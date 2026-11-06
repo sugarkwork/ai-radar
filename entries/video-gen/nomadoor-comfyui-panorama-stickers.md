@@ -5,22 +5,22 @@ genre: video-gen
 url: https://github.com/nomadoor/ComfyUI-Panorama-Stickers
 author: nomadoor（@noma_door）
 license: MIT
-stars: 179
+stars: 182
 language: JavaScript
 created: 2026-03-01
-updated: 2026-11-04
+updated: 2026-11-06
 added: 2026-11-04
 first_seen: 2026-11-03
 source_post: https://x.com/noma_door/status/2117646383863972084
 sources: []
 forks: 17
-open_issues: 4
-commits_30d: 42
-commits_90d: 53
+open_issues: 1
+commits_30d: 84
+commits_90d: 95
 commit_cadence: daily
-size_kb: 31154
+size_kb: 16331
 archived: false
-fetched_at: "2026-11-04T04:47:24Z"
+fetched_at: "2026-11-06T22:53:52Z"
 ---
 
 # ComfyUI Panorama Stickers
@@ -34,6 +34,7 @@ fetched_at: "2026-11-04T04:47:24Z"
 - 主な用途: 画像を貼ってパノラマを作り、パノラマ LoRA 系の生成モデルに周囲を埋めさせる／パノラマの一部を Frame で切り出して修正し、`sticker_state` と一緒に次の Studio に渡して元の位置へ戻す／画像・動画を別角度から撮り直す／そのまま動画にする。
 - 補助ノード: **Panorama Preview**（パノラマ画像・動画・Studio の `scene` を別ウィンドウで見回す）、**Panorama Seam Prep**（左右の継ぎ目を中央へ移動し、修正用マスクを作る）。旧ノード（Panorama Stickers / Cutout / Preview legacy）も従来どおり動作。
 - 2.0 系で Studio と新 Preview が入り、3D（メッシュ・ガウシアンスプラット・MoGe/DA3 の深度グリッド）とタイムライン編集に対応。2.0.3 では上流 Studio から渡ったオブジェクトの選択・編集（オーバーライド保存）、`sticker_state` で戻したショットが常に Sky に戻る修正、ペイントの回転、軌道中心マークと緯度経度グリッドなどが追加された。
+- **2.1.0**: Studio のビューで Alt+ホイール／トラックパッドのピンチにより画角（FOV）を変えられ、数値表示とリセットボタンが付く。Studio は常に新しいエディタで開くようになり、旧設定はなくなった。タイムラインではボックスの範囲選択ができる。
 
 ## 目的・背景
 
@@ -66,3 +67,4 @@ background(パノラマ) + world(MoGe等) + sticker(画像/動画/3D) → Panora
 ## 変更履歴
 
 - 2026-11-04: 初回登録（2.0.3、3D・タイムライン対応時点）
+- 2026-11-06: 2.1.0 — 画角（FOV）のズーム操作とリセット、Studio が新エディタで開く変更、タイムラインの範囲選択を追記（36f5eb0）

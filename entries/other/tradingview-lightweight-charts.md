@@ -4,10 +4,10 @@ name: Lightweight Charts
 genre: other
 url: https://github.com/tradingview/lightweight-charts
 license: Apache-2.0
-stars: 17775
+stars: 17788
 language: TypeScript
 created: 2019-05-24
-updated: 2026-11-05
+updated: 2026-11-06
 added: 2026-11-05
 first_seen: 2026-11-05
 source_post: https://x.com/roundtablespace/status/2118172700757889191
@@ -15,14 +15,14 @@ sources:
   - https://tradingview.github.io/lightweight-charts/
 flags: []
 risk_notes: ""
-forks: 2686
-open_issues: 131
-commits_30d: 50
+forks: 2694
+open_issues: 129
+commits_30d: 63
 commits_90d: 100
 commit_cadence: daily
-size_kb: 219374
+size_kb: 223577
 archived: false
-fetched_at: "2026-11-05T22:10:29Z"
+fetched_at: "2026-11-06T22:53:25Z"
 last_release: v5.2.1
 last_release_at: 2026-08-12
 ---
@@ -35,6 +35,7 @@ last_release_at: 2026-08-12
 - リアルタイム更新に強い。`series.update({time, value})` で最新バーの値だけ差し替える設計なので、WebSocketで流れてくるティックをそのまま反映できる。
 - パン／ズーム、クロスヘア、価格スケール、タイムスケール、マーカー、価格ライン、トレンドラインの描画ツールを標準で持つ。
 - TypeScript で書かれ型定義を同梱。React/Vue/Svelte など任意のUIフレームワークに埋め込める。
+- v5.2.1 でリポジトリに **Agent Skill**（`.github/skills/lightweight-charts/SKILL.md`）が同梱された。v5 API の規約・考え方・よくある落とし穴を AI コーディングアシスタントに教える内容。
 
 ## 目的・背景
 
@@ -81,3 +82,4 @@ candles.setData([
 ## 変更履歴
 
 - 2026-11-05: 初回登録（★17,775 / pushed 2026-11-05 / Apache-2.0 / v5.2.1）
+- 2026-11-06: v5.2.1 — リポジトリに Agent Skill を同梱（v5 API の規約と落とし穴）（2e1d5ce9）

@@ -4,25 +4,25 @@ name: "CCXT"
 genre: other
 url: "https://github.com/ccxt/ccxt"
 license: "MIT"
-stars: 44704
+stars: 44774
 language: "Python"
 created: "2017-05-14"
-updated: 2026-11-03
+updated: 2026-11-06
 added: "2026-11-03"
 first_seen: "2026-11-03"
 sources: []
 flags: []
 risk_notes: ""
-forks: 8940
-open_issues: 756
+forks: 8956
+open_issues: 772
 commits_30d: 100
 commits_90d: 100
 commit_cadence: daily
-size_kb: 8891466
+size_kb: 8895675
 archived: false
-fetched_at: "2026-11-03T22:59:04Z"
-last_release: v4.5.91
-last_release_at: 2026-10-29
+fetched_at: "2026-11-06T22:54:18Z"
+last_release: v4.5.92
+last_release_at: 2026-11-04
 ---
 
 # CCXT
@@ -33,6 +33,7 @@ last_release_at: 2026-10-29
 - 公開 API と私有 API の両方、REST と WebSocket に対応。取引所ごとに異なる通貨コード・注文形式・レスポンスを正規化し、取引所間の比較やアービトラージに使える形にする。
 - 対応言語は JavaScript / TypeScript / Python / C# / PHP / Go / Java / Rust。Node 18+、Python 3、PHP 8.1+、Go 1.20+、Java 21+ で動く。
 - マーケットデータの取得・保存、指標計算、バックテスト、ボット実装までを同じインターフェースで書ける。
+- **公式 MCP サーバ**: `npx -y ccxt-mcp` で stdio の MCP サーバが起動し、100以上の取引所と予測市場のマーケットデータ・残高をエージェントから扱える。取引・出金・生エンドポイントは既定オフの別ケーパビリティ層で、確認フロー・上限額・監査ジャーナル付き。API キーはローカルに留まり、モデルにはアカウント名だけを渡す。v4.5.92 で `fetch_route` / `execute_route`（OrderRouter 経由）が加わった。
 - Web 版の CCXT Terminal（別サービス）への導線あり。
 
 ## 目的・背景
@@ -65,3 +66,4 @@ print(ex.fetch_ticker("BTC/USDT")["last"])
 ## 変更履歴
 
 - 2026-11-03: 初回登録（star 44,704 / pushed 2026-11-03 / MIT）
+- 2026-11-06: 公式 MCP サーバ（`ccxt-mcp`）と OrderRouter の `fetch_route` / `execute_route` を追記（v4.5.92 / 31077）

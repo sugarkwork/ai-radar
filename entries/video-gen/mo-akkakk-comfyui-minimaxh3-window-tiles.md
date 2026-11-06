@@ -4,10 +4,10 @@ name: MiniMax H3 Temporal Window & Spatial Tiles
 genre: video-gen
 url: https://github.com/mo-akkakk/ComfyUI-MiniMaxH3-TemporalWindow-SpatialTiles
 license: MIT
-stars: 24
+stars: 45
 language: Python
 created: 2026-10-25
-updated: 2026-11-05
+updated: 2026-11-06
 added: 2026-11-05
 first_seen: 2026-11-05
 source_post: https://x.com/superfang119/status/2118332751975989486
@@ -15,17 +15,17 @@ sources:
   - https://registry.comfy.org/publishers/mo-akkakk
 flags: []
 risk_notes: ""
-forks: 4
+forks: 5
 open_issues: 0
-commits_30d: 19
-commits_90d: 19
-commit_cadence: weekly
-size_kb: 495
+commits_30d: 22
+commits_90d: 22
+commit_cadence: daily
+size_kb: 626
 archived: false
-fetched_at: "2026-11-05T21:45:40Z"
+fetched_at: "2026-11-06T22:53:15Z"
 ---
 
-# MiniMax H3 Temporal Window & Spatial Tiles
+# MiniMax H3 V2V Temporal Window & Spatial Tiles
 
 ## 出来ること
 
@@ -35,6 +35,8 @@ fetched_at: "2026-11-05T21:45:40Z"
 - モデル内部を書き換えない外側ラッパー。`KSampler` と `SamplerCustomAdvanced` の両方に対応し、窓とタイルを切ればネイティブ出力と一致する（単体テストあり）。
 - 1.0.7 で `tile_carry` が追加され、タイルごとに「自分の未ブレンドフレーム」から次窓を続けられるようになった（ドリフト低減）。`blended` にすると 1.0.6 の挙動。
 - `color_match`（タイル間・窓間の色ズレ補正）、`short_final_window`（最後の窓を短いまま使う）、`tile_audio`（音声の扱い）などのスイッチを持つ。
+- **1.0.9 で V2V を明示**: ノード名が *Minimax H3 V2V Temporal Window & Spatial Tiles* になった（参照動画に追従する video-to-video であることを示すため。保存済みワークフローは表示名だけの変更で動き続ける）。
+- **1.0.8**: タイルごとの切り出しが plate 上の正確な領域になり、フル解像度の参照動画を渡す `plate` と `vae` の入力、`plate_scale`（plate の精細さと速度の交換）が加わった。
 
 ## 目的・背景
 
@@ -63,3 +65,4 @@ fetched_at: "2026-11-05T21:45:40Z"
 ## 変更履歴
 
 - 2026-11-05: 初回登録（★24 / pushed 2026-11-05 / MIT / README 1.0.7）
+- 2026-11-06: 1.0.9 で V2V に改称、1.0.8 の正確なタイル切り出しと `plate` / `vae` / `plate_scale` を追記（a827213 / 2d66fbf）

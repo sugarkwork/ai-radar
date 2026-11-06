@@ -6,33 +6,34 @@ url: https://github.com/sickn33/agentic-awesome-skills
 license: MIT
 language: Python
 created: 2026-01-14
-updated: 2026-11-04
+updated: 2026-11-06
 added: 2026-11-04
 first_seen: 2026-11-04
 sources:
   - https://x.com/csaba_kissi/status/2117522406730572218
 flags: []
 risk_notes: ""
-stars: 49154
-forks: 7140
-open_issues: 4
+stars: 49284
+forks: 7150
+open_issues: 7
 commits_30d: 100
 commits_90d: 100
 commit_cadence: daily
-size_kb: 450729
+size_kb: 452840
 archived: false
-fetched_at: "2026-11-04T22:53:59Z"
-last_release: v20.5.0
-last_release_at: 2026-11-04
+fetched_at: "2026-11-06T22:52:29Z"
+last_release: v20.6.0
+last_release_at: 2026-11-05
 ---
 
 # agentic-awesome-skills（AAS）
 
 ## 出来ること
 
-- **2,923本以上のエージェントスキル**をまとめたカタログ。Claude Code / Codex / Cursor / Gemini CLI で使えるものを、Anthropic・Vercel 公式のスキルも含めて収録する。
+- **2,926本以上のエージェントスキル**をまとめたカタログ。Claude Code / Codex / Cursor / Gemini CLI で使えるものを、Anthropic・Vercel 公式のスキルも含めて収録する。
 - 「AAS Core」として、ローカルのカタログ探索、エージェント自身によるスキル選択、実行前のプラン表示を提供する。
 - CLI・MCP・プラグインの3形態で配布。必要なスキルだけを入れられる。
+- v20.6.0 で映画制作（MiniCut Film Studio）・広告ライブラリ調査（LurkAPI）・macOS の Time Machine 復旧などのスキルが加わった。
 
 ## 目的・背景
 
@@ -60,3 +61,4 @@ git clone https://github.com/sickn33/agentic-awesome-skills
 ## 変更履歴
 
 - 2026-11-04: 初回登録（★49,107 / v20.4.0 / MIT / 30日100+コミット）、収録スキル数を2,923本に更新（v20.5.0）
+- 2026-11-06: 収録 2,926 本に更新、映画制作・広告調査・Time Machine 復旧のスキルを追加（v20.6.0 / 828257c）

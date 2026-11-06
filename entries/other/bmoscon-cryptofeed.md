@@ -4,26 +4,26 @@ name: cryptofeed
 genre: other
 url: https://github.com/bmoscon/cryptofeed
 license: AGPL-3.0
-stars: 2968
+stars: 2976
 language: Python
 created: 2017-12-16
-updated: 2026-11-05
+updated: 2026-11-06
 added: 2026-11-05
 first_seen: 2026-11-05
 source_post: https://x.com/roundtablespace/status/2118172700757889191
 sources: []
 flags: []
 risk_notes: "AGPL-3.0。改変版をネットワークサービスとして提供する場合はソース公開義務が生じる。取引所のAPI利用規約とレート制限に従うこと。"
-forks: 780
-open_issues: 3
-commits_30d: 46
-commits_90d: 81
+forks: 783
+open_issues: 0
+commits_30d: 50
+commits_90d: 86
 commit_cadence: daily
-size_kb: 1157520
+size_kb: 1157596
 archived: false
-fetched_at: "2026-11-05T21:52:09Z"
-last_release: v3.0.3
-last_release_at: 2026-11-03
+fetched_at: "2026-11-06T22:53:19Z"
+last_release: v3.0.4
+last_release_at: 2026-11-06
 ---
 
 # cryptofeed
@@ -34,6 +34,7 @@ last_release_at: 2026-11-03
 - WebSocket がない／不安定な取引所は REST ポーリングでも取得できる。
 - 対応取引所は30超（Binance 現物・先物・US・Delivery、Bybit、OKX、Kraken・Kraken Futures、Coinbase、Bitfinex、Bitstamp、Bitget、Gate・Gate Futures、HTX・HTX Swap、KuCoin、MEXC、Deribit、Gemini、Crypto.com、Upbit、Bithumb、bitFlyer、Poloniex、Phemex、dYdX v4、Hyperliquid、Independent Reserve など）。
 - 受けたデータをそのまま各種バックエンドへ流せる（Redis、PostgreSQL、Kafka、RabbitMQ、ZeroMQ、InfluxDB、MongoDB、ElasticSearch、Arctic、UDP、syslog など）。
+- **Windows 対応**（3.0.4）: シグナル処理と import を Windows でも動くようにした。
 
 ## 目的・背景
 
@@ -79,3 +80,4 @@ PY
 ## 変更履歴
 
 - 2026-11-05: 初回登録（★2,968 / pushed 2026-11-05 / AGPL-3.0 / v3.0.3）
+- 2026-11-06: Windows 対応（シグナル処理・import）を追記（v3.0.4 / 926cf727）

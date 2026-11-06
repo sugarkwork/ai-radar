@@ -6,24 +6,24 @@ url: https://github.com/JakeATX/llamAmpere
 license: MIT
 language: C++
 created: 2026-09-07
-updated: 2026-11-03
+updated: 2026-11-06
 added: 2026-11-04
 first_seen: 2026-11-04
 sources:
   - https://x.com/ai_hakase_/status/2117527965277773956
 flags: []
 risk_notes: ""
-stars: 221
-forks: 30
-open_issues: 13
+stars: 226
+forks: 31
+open_issues: 14
 commits_30d: 100
 commits_90d: 100
 commit_cadence: daily
-size_kb: 391373
+size_kb: 393184
 archived: false
-fetched_at: "2026-11-04T22:50:48Z"
-last_release: v0.6.2
-last_release_at: 2026-11-01
+fetched_at: "2026-11-06T22:53:01Z"
+last_release: v0.6.3
+last_release_at: 2026-11-06
 ---
 
 # llamAmpere
@@ -34,6 +34,7 @@ last_release_at: 2026-11-01
 - 独自の量子化形式「AmperInteger+」を実装し、約2.3bpw まで圧縮しながら BF16 相当の精度を保つとしている。v0.6.2 で2.5bit の小数型（type 118、`aif25_u`）が加わり、公開されている 2.3bpw の 27B モデルを読み込める。
 - 埋め込みテーブルをメインメモリに逃がすことで、**12GB VRAM でも 200K トークン超のコンテキスト**を扱える構成を用意している。
 - 例として、Qwen3.8 の 100K トークン生成で 110+ tok/s（temperature 1）という測定値を挙げている。
+- v0.6.3 で公開モデル `qwen3.8-flash-next-Swift1.5-ATX-AI3` に対応した（2シャード計 80.11GB。標準の IQ3_XXS 75.97GB より大きい）。小さいカードでは、選んだデバイス名からプロンプトのバッチ上限を決める。
 
 ## 目的・背景
 
@@ -73,3 +74,4 @@ Flash-Next 用の `scripts/flash-next-server.sh` は `--moe-skip`（ルーター
 ## 変更履歴
 
 - 2026-11-04: 初回登録（★216 / v0.6.2 / MIT / 30日100+コミット）、ビルド・起動コマンドと --moe-skip の注意を追記（v0.6.2）
+- 2026-11-06: 公開モデル Swift1.5-ATX-AI3（2シャード 80.11GB）と、小さいカード向けのプロンプトバッチ上限を追記（v0.6.3 / e4751e3）

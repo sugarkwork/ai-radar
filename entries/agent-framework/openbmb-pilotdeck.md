@@ -4,10 +4,10 @@ name: PilotDeck
 genre: agent-framework
 url: https://github.com/OpenBMB/PilotDeck
 license: AGPL-3.0
-stars: 4980
+stars: 4981
 language: TypeScript
 created: 2026-05-22
-updated: 2026-11-05
+updated: 2026-11-06
 added: 2026-11-05
 first_seen: 2026-10-20
 source_post: https://x.com/opensourcelab9/status/2112514206511837503
@@ -17,15 +17,15 @@ sources:
 flags: [unverified]
 risk_notes: "投稿の Workbuddy Bench 79.1点（Qwen3.6-35B-A3B）は README の表に該当がなく一次情報で確認できない。採用した数値は README 側のみ。"
 forks: 560
-open_issues: 178
-size_kb: 72741
+open_issues: 180
+size_kb: 76479
 archived: false
 commits_30d: 100
 commits_90d: 100
 commit_cadence: daily
-fetched_at: "2026-11-05T10:21:19Z"
-last_release: v2026.11.05
-last_release_at: 2026-11-04
+fetched_at: "2026-11-06T22:53:58Z"
+last_release: v2026.11.06
+last_release_at: 2026-11-05
 ---
 
 # PilotDeck
@@ -38,6 +38,7 @@ last_release_at: 2026-11-04
 - **常時稼働**: 指示を待たずに候補タスクを探し、長時間の監視を回し、成果物をローカルファイルとして置いて要約を残す。
 - Word / Excel / PowerPoint の資料作成向けスキルを同梱（2.0 で「ワンクリックで事務資料を仕上げる」とうたっている）。
 - MCP ネイティブ。Web / CLI / IM のフロントで同じ動作。
+- **動画生成とマルチモーダル設定**（v2026.11.06）: 動画生成ツールとプレビュー、生成ジョブの保存・復旧が入り、モデルや入出力のマルチモーダル設定を画面から扱えるようになった。
 
 ## 目的・背景
 
@@ -73,3 +74,4 @@ pilotdeck
 ## 変更履歴
 
 - 2026-11-05: 初回登録（★4,980 / AGPL-3.0 / TypeScript / 最終push 2026-11-05）
+- 2026-11-06: 動画生成ツールとマルチモーダル設定を追記（v2026.11.06 / 83660cc9）

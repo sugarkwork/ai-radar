@@ -4,10 +4,10 @@ name: CLI-Anything
 genre: agent-framework
 url: https://github.com/HKUDS/CLI-Anything
 license: Apache-2.0
-stars: 58281
+stars: 58362
 language: Python
 created: 2026-03-08
-updated: 2026-09-22
+updated: 2026-11-06
 added: 2026-11-05
 first_seen: 2026-10-20
 source_post: https://x.com/opensourcelab9/status/2112672719175331872
@@ -15,14 +15,14 @@ sources:
   - https://clianything.cc/
 flags: []
 risk_notes: ""
-forks: 5246
+forks: 5253
 open_issues: 240
 size_kb: 42270
 archived: false
 commits_30d: 0
 commits_90d: 22
 commit_cadence: monthly
-fetched_at: "2026-11-05T10:25:32Z"
+fetched_at: "2026-11-06T22:53:10Z"
 last_release: v0.4.0
 last_release_at: 2026-06-25
 ---
@@ -38,6 +38,8 @@ last_release_at: 2026-06-25
   3. 無ければ作る … `/plugin install cli-anything` を入れ、7段階の手順でハーネスを生成
 - 生成した CLI にはプレビューと軌跡（trajectory）ループが付き、CAD のビルド、3D シーン、図、ゲーム、字幕などの成果物まで通しで作れる、と README は説明している。
 - README では 18 アプリのデモと 2,461 件のテスト通過、技術レポート（arXiv:2606.03854）を掲げている。
+- **CLI-Matrix**（v0.4.0）: 複数の CLI を組み合わせたワークフローを「マトリクス」として一括導入できる。`cli-hub matrix list/search` で探し、`cli-hub can <task>` で実行可能性を確認、`matrix preflight` で能力の網羅を検証してから `matrix install`（レシピ・スコープ限定・dry-run・中断再開）で入れる。
+- v0.4.0 で 30 本の CLI を追加（ArcGIS Pro、Calibre、Stata、SiYuan、Joplin、Rekordbox、OpenRefine、MiniMax のチャット＋TTS、OpenWebUI、Unreal Editor 系など）。エージェントスキルのアダプタに Hermes / Reasonix が加わった。
 
 ## 目的・背景
 
@@ -67,3 +69,4 @@ cli-hub install gimp
 ## 変更履歴
 
 - 2026-11-05: 初回登録（★58,277 / Apache-2.0 / Python / 最終push 2026-09-22）
+- 2026-11-06: CLI-Matrix と 30 本の新規 CLI、Hermes / Reasonix のスキルアダプタを追記（v0.4.0）

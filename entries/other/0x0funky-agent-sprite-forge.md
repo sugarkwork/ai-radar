@@ -4,10 +4,10 @@ name: "Agent Sprite Forge"
 genre: "other"
 url: "https://github.com/0x0funky/agent-sprite-forge"
 license: "MIT"
-stars: 4923
+stars: 5316
 language: "Python"
 created: "2026-04-23"
-updated: 2026-10-06
+updated: 2026-11-06
 added: "2026-11-03"
 flags: [unverified]
 risk_notes: "元ポストは「ゲームエンジンへの取り込みは未確認」と留保するが、README は Godot/Aseprite/Tiled/LDtk 書き出しを検証済みと明記。実機検証は未実施。"
@@ -15,14 +15,14 @@ source_post: "https://x.com/AiAircle34052/status/2117493224118047187"
 sources:
   - "https://x.com/AiAircle34052/status/2117493224118047187"
   - "https://x.com/Mnilax/status/2116583914684702837"
-forks: 485
+forks: 517
 open_issues: 14
-commits_30d: 100
+commits_30d: 3
 commits_90d: 100
-commit_cadence: daily
-size_kb: 88022
+commit_cadence: monthly
+size_kb: 99664
 archived: false
-fetched_at: "2026-11-03T15:42:36Z"
+fetched_at: "2026-11-06T22:52:10Z"
 last_release: v0.4.0
 last_release_at: 2026-10-06
 ---
@@ -36,6 +36,8 @@ last_release_at: 2026-10-06
 - ピクセル仕上げモード: 最大32色パレット、二値アルファ、選択的アウトライン。マスター画像の色を OKLab で固定するカラーロック付き（速い手足で色が転ぶ問題への対策）。
 - 各アクションの採用判定（面積・足元・同一性・ズーム・背景・端・モーション・終端ポーズ・色にじみ・タイミング）を数値で行い、落ちたものは修正句付きで再生成する。
 - すべての生成呼び出しをコスト付きでログし、予算上限を設定できる。
+- **hibit 仕上げ**（v0.5.0）: 画像モデルには「ピクセルアート」ではなく平坦なセル画（輪郭線なし・素材ごとに最大3階調）を描かせ、その後に画素化する。キャラクターごとに元画像から色を学び（既定16色）、多数決のダウンサンプルとヒステリシスでちらつきを抑える。`master_still.py` / `finish_frames.py` / `sprite_set.py` / `generate2dmap` が `--finish hibit` に対応する。
+- **エフェクトの2経路**: コード駆動の pixelfx を使う経路と画像経路を `fx_pixelfx.py check` で選べる。hibit 用の 480×270 背景（14色パレット）も生成できる。
 
 ## 目的・背景
 
@@ -79,3 +81,4 @@ Use $video2dsprite to animate the approved Aria master: idle, walk, run, attack,
 ## 変更履歴
 
 - 2026-11-03: 初回登録（star 4,920 / pushed 2026-10-06 / MIT / 0.4 系）
+- 2026-11-06: hibit 仕上げ（平坦なセル画→画素化、16色パレット・ヒステリシス）とエフェクト2経路を追加（v0.5.0 / 6b3da5c）

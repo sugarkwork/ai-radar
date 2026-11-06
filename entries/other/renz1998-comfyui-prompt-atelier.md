@@ -4,10 +4,10 @@ name: ComfyUI Prompt Atelier
 genre: other
 url: https://github.com/Renz1998/ComfyUI-Prompt-Atelier
 license: GPL-3.0
-stars: 0
+stars: 2
 language: Python
 created: 2026-11-04
-updated: 2026-11-05
+updated: 2026-11-06
 added: 2026-11-05
 first_seen: 2026-11-05
 source_post: https://x.com/aiaicreate/status/2118345509077401991
@@ -16,12 +16,12 @@ flags: []
 risk_notes: ""
 forks: 0
 open_issues: 1
-commits_30d: 25
-commits_90d: 25
+commits_30d: 33
+commits_90d: 33
 commit_cadence: daily
-size_kb: 5670
+size_kb: 7603
 archived: false
-fetched_at: "2026-11-06T03:38:14Z"
+fetched_at: "2026-11-06T22:53:42Z"
 ---
 
 # ComfyUI Prompt Atelier
@@ -33,6 +33,8 @@ fetched_at: "2026-11-06T03:38:14Z"
 - ローカルの Qwen / DART モデルを使い、単語からのタグ展開や画像からの詳細プロンプト生成ができる。
 - 詳細度を4段階で指定でき、最大トークン数を制御できる。
 - MOSS 向けの**レイアウトJSON**を直接出力できる（配置指定プロンプトの生成）。
+- **バッチ実行**（Prompt Mage 1.8.0）: アップロードした画像ごとにワークフロー全体を回せる。共有エンコーダー、キャンバス操作、スターターワークフローも更新された。
+- **Registry 名の移行**: ComfyUI Registry の識別子を `prompt-mage` へ移行中で、旧名から切り替える手順が同梱ドキュメントにある。
 
 ## 目的・背景
 
@@ -64,3 +66,4 @@ fetched_at: "2026-11-06T03:38:14Z"
 ## 変更履歴
 
 - 2026-11-05: 初回登録（★0 / pushed 2026-11-05 / GPL-3.0 / 公開翌日）
+- 2026-11-06: Prompt Mage 1.8.0 のバッチ実行・共有エンコーダーと、Registry 識別子の `prompt-mage` 移行を追記（59eab92 / cf0a840）
