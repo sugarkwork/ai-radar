@@ -4,24 +4,25 @@ name: "Scrapling"
 genre: "mcp-server"
 url: "https://github.com/D4Vinci/Scrapling"
 license: "BSD-3-Clause"
-stars: 98348
+stars: 98372
 language: "Python"
 created: "2024-10-13"
-updated: "2026-11-05"
+updated: 2026-11-05
 added: "2026-11-06"
 first_seen: "2026-11-06"
 sources: ["https://x.com/AISuperDomain/status/2118353773701849567"]
 flags: []
 risk_notes: "スクレイピングツールのため、対象サイトの利用規約・robots.txt・著作権・個人情報保護を確認し、レート制限を守ること。Cloudflare 等の突破機能は規約違反や損害賠償リスクになり得る。"
-forks: 10301
+forks: 10305
 open_issues: 14
 commits_30d: 100
-commit_cadence: "daily"
+commit_cadence: daily
 size_kb: 16790
 archived: false
-fetched_at: "2026-11-06T07:24:00Z"
-last_release: "v0.5.1"
-last_release_at: "2026-11-04"
+fetched_at: "2026-11-06T07:47:05Z"
+last_release: v0.5.1
+last_release_at: 2026-11-04
+commits_90d: 100
 ---
 
 # Scrapling — AIエージェントから呼べるステルスWebスクレイピング基盤

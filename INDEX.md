@@ -188,7 +188,7 @@
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
-| [Scrapling](entries/mcp-server/d4vinci-scrapling.md) | 98,348 | 10,301 | 毎日 | 100+ | 2026-11-05 | 2026-11-06 | 2026-11-06 | BSD-3-Clause |
+| [Scrapling](entries/mcp-server/d4vinci-scrapling.md) | 98,372 | 10,305 | 毎日 | 100+ | 2026-11-05 | 2026-11-06 | 2026-11-06 | BSD-3-Clause |
 | [World Intelligence MCP](entries/mcp-server/marc-shade-world-intel-mcp.md) | 1,063 | 177 | 毎日 | 100+ | 2026-10-18 | 2026-11-04 | 2026-11-04 | MIT |
 
 ### プロンプト（デザイン/UI）（2）
