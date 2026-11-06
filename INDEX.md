@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 177 件 — リポジトリ 142, モデル 13, 記事 1, リンク集 17, プロンプト 4 / ⚑ 要確認 11 件
+収録 178 件 — リポジトリ 142, モデル 14, 記事 1, リンク集 17, プロンプト 4 / ⚑ 要確認 11 件
 
 ## リポジトリ（142）
 
@@ -266,7 +266,7 @@
 - **[Wedoflow](links/link-service/wedoflow-com.md)**  paid / Wedoflow
   - Webflow 向けのプレミアムテンプレート販売。デザイン済みのページを買って、サイト構築の時間を短縮する。
 
-## モデル（13）
+## モデル（14）
 
 ### 動画生成パイプライン（6）
 
@@ -283,19 +283,21 @@
 - **[Viggle Remake（MiniMax-H3 ベースの動画リメイク）](models/video-gen/viggle-viggle-remake.md)**  Viggle
   - **動画のリメイク（キャラクター置換・衣装・天候・小物の追加削除・スタイル変更）**を行う video-to-video モデル。MiniMax-H3 をベースにした LoRA として配布されている。
 
+### その他（3）
+
+- **[Clover 35B-A3B（拡散型 MoE）](models/other/diffuspace-clover-35b-a3b-preview.md)** ⚑  free / DiffuSpace
+  - **自己回帰ではなくブロック拡散で書く**テキスト生成モデル。1トークンずつ左から伸ばす代わりに、ブロック単位でマスクを置き、確信度の高い位置から並列に埋めて確定させる。
+- **[PLaMo 3 Translate 8B](models/other/pfnet-plamo-3-translate-8b.md)**  free / Preferred Networks
+  - 日本語↔英語を含む53言語（カード記載）間の翻訳をローカルで実行する（pipeline_tag: translation）
+- **[Qwen3.5-0.8B weight-space-programming](models/other/ml-intern-lab-qwen3-5-0-8b-weight-space-programming.md)**  free / ML Intern lab（@_akhaliq ほか）
+  - **学習せずに重みを直接編集して、モデルの病的な挙動を直したチェックポイント**。Qwen3.5-0.8B が数学問題でトークン上限までループする症状を、勾配降下も微調整も使わずに修正している。
+
 ### 3D・モーション（2）
 
 - **[Idol](models/3d-motion/speridlabs-idol.md)**  free / speridlabs
   - 物体が写った1枚の画像 (写真・レンダリング・生成画像) から、最大 1,048,576 個の 3D Gaussian を生成し、標準的な 3DGS の .ply として出力する
 - **[UniMate チェックポイント](models/3d-motion/linzhan-unimate.md)**  free / Linzhan Mou ほか（Princeton / UC Berkeley / MIT / NTU）
   - [UniMate](https://github.com/Friedrich-M/UniMate)（任意骨格向けテキスト→モーション）の**学習済みチェックポイント配布**。設定 JSON・正規化統計（.npy）・各ステップの .pt が入る。
-
-### その他（2）
-
-- **[Clover 35B-A3B（拡散型 MoE）](models/other/diffuspace-clover-35b-a3b-preview.md)** ⚑  free / DiffuSpace
-  - **自己回帰ではなくブロック拡散で書く**テキスト生成モデル。1トークンずつ左から伸ばす代わりに、ブロック単位でマスクを置き、確信度の高い位置から並列に埋めて確定させる。
-- **[Qwen3.5-0.8B weight-space-programming](models/other/ml-intern-lab-qwen3-5-0-8b-weight-space-programming.md)**  free / ML Intern lab（@_akhaliq ほか）
-  - **学習せずに重みを直接編集して、モデルの病的な挙動を直したチェックポイント**。Qwen3.5-0.8B が数学問題でトークン上限までループする症状を、勾配降下も微調整も使わずに修正している。
 
 ### モデル推論・配信（1）
 

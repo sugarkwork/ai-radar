@@ -1,5 +1,5 @@
 {
-  "count": 177,
+  "count": 178,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -3328,6 +3328,37 @@
       "type": "repo",
       "path": "entries/other/renz1998-comfyui-prompt-atelier.md",
       "summary": "ローカルモデルで**生成用プロンプトを作る／広げる** ComfyUI ノード集。画像キャプション生成、キャラクター指示、DART タグ拡張、MOSS 用レイアウトJSON出力をまとめて扱う。"
+    },
+    {
+      "type": "model",
+      "name": "PLaMo 3 Translate 8B",
+      "genre": "other",
+      "url": "https://huggingface.co/pfnet/plamo-3-translate-8b",
+      "author": "Preferred Networks",
+      "pricing": "free",
+      "pricing_detail": "非商用（個人・学習・趣味・学術）は無償・登録不要。商用は直近事業年度の売上高が10億円以下なら申請フォームで登録すれば無償、10億円超は個別ライセンス契約が必要。",
+      "signup_required": false,
+      "model": "pfnet/plamo-3-translate-8b",
+      "license": "plamo-community-license",
+      "downloads": 89,
+      "likes": 12,
+      "format": "safetensors",
+      "size": "17.06 GB (BF16, 4 shards)",
+      "base_model": [
+        "pfnet/plamo-3-nict-8b-base"
+      ],
+      "created": "2026-10-27",
+      "updated": "2026-11-04",
+      "added": "2026-11-06",
+      "first_seen": "2026-11-06",
+      "sources": [
+        "https://x.com/naka_1717/status/2118548329286242602"
+      ],
+      "flags": [],
+      "risk_notes": "weights は PLaMo Community License（OSI 認証のオープンソースライセンスではない）。商用利用は売上高10億円で条件が分岐するため、業務利用前に条件確認が必要。custom_code モデルのため trust_remote_code=True でリポジトリ内 modeling_plamo.py を実行する点に注意（コード自体のライセンスは未確認）。base_model はカード表記が「PLaMo 3 NICT」で正確な repo id は明記されておらず、同サイズの pfnet/plamo-3-nict-8b-base をサイズから対応付けた推測。",
+      "fetched_at": "2026-11-06T08:15:50Z",
+      "path": "models/other/pfnet-plamo-3-translate-8b.md",
+      "summary": "日本語↔英語を含む53言語（カード記載）間の翻訳をローカルで実行する（pipeline_tag: translation）"
     },
     {
       "type": "model",
