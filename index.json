@@ -1,5 +1,5 @@
 {
-  "count": 175,
+  "count": 176,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -469,6 +469,35 @@
       "type": "repo",
       "path": "entries/3d-motion/camenduru-vrmexmr.md",
       "summary": "**単眼動画から SMPL-X の身体・手・足のモーションを復元**し、VRM / Blender / Unity / Unreal / ヒューマノイドロボット向けに書き出す Docker イメージ。"
+    },
+    {
+      "type": "model",
+      "name": "Idol",
+      "genre": "3d-motion",
+      "url": "https://huggingface.co/speridlabs/idol",
+      "author": "speridlabs",
+      "pricing": "free",
+      "pricing_detail": "重み・コード・デモは Apache-2.0 で無償公開。ただし入力エンコーダ2件 (DINOv3 ViT-H+、FLUX.2-dev VAE) は HF 上でゲートされており規約同意とトークンが必要",
+      "signup_required": true,
+      "model": "speridlabs/idol",
+      "license": "Apache-2.0",
+      "downloads": 17180,
+      "likes": 827,
+      "format": "safetensors",
+      "size": "3.08 GB (weights; repo total 3.57 GB)",
+      "base_model": [],
+      "created": "2026-10-28",
+      "updated": "2026-10-29",
+      "added": "2026-11-06",
+      "first_seen": "2026-11-06",
+      "sources": [
+        "https://x.com/speridlabs/status/2115890658636656826"
+      ],
+      "flags": [],
+      "risk_notes": "重み・コード・デモは Apache-2.0 で無償公開（HF API の gated=false を確認）。ただし実行には入力エンコーダ2件（facebook/dinov3-vith16plus-pretrain-lvd1689m、black-forest-labs/FLUX.2-dev の VAE）の HF アクセス承認と hf auth login が必須で、未認証だと EncoderAccessError で停止する。VRAM ピーク 7.2GB（配布元記載）のため 8GB 級 GPU では余裕が少ない。CPU 実行は想定されていない。",
+      "fetched_at": "2026-11-06T08:07:10Z",
+      "path": "models/3d-motion/speridlabs-idol.md",
+      "summary": "物体が写った1枚の画像 (写真・レンダリング・生成画像) から、最大 1,048,576 個の 3D Gaussian を生成し、標準的な 3DGS の .ply として出力する"
     },
     {
       "type": "model",
