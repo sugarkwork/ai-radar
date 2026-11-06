@@ -1,5 +1,5 @@
 {
-  "count": 178,
+  "count": 179,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -3328,6 +3328,37 @@
       "type": "repo",
       "path": "entries/other/renz1998-comfyui-prompt-atelier.md",
       "summary": "ローカルモデルで**生成用プロンプトを作る／広げる** ComfyUI ノード集。画像キャプション生成、キャラクター指示、DART タグ拡張、MOSS 用レイアウトJSON出力をまとめて扱う。"
+    },
+    {
+      "type": "model",
+      "name": "Lunar-Trace-31B (i1 GGUF)",
+      "genre": "other",
+      "url": "https://huggingface.co/mradermacher/Lunar-Trace-31B-i1-GGUF",
+      "author": "mradermacher",
+      "pricing": "free",
+      "pricing_detail": "Hugging Face から無料ダウンロード。実行はローカル(llama.cpp / Ollama / LM Studio 等)で、API 課金は無し。",
+      "signup_required": false,
+      "model": "mradermacher/Lunar-Trace-31B-i1-GGUF",
+      "license": "apache-2.0",
+      "downloads": 1035,
+      "likes": 0,
+      "format": "gguf",
+      "size": "18.7GB (i1-Q4_K_M) / 7.2-25.2GB・23量子化",
+      "base_model": [
+        "Cyclone-Labs/Lunar-Trace-31B"
+      ],
+      "created": "2026-11-04",
+      "updated": "2026-11-05",
+      "added": "2026-11-06",
+      "first_seen": "2026-11-06",
+      "sources": [
+        "https://x.com/HuggingModels/status/2118374284120949020"
+      ],
+      "flags": [],
+      "risk_notes": "ライセンスは配布元・元モデル・上流 gemma-4-31B-it のいずれも apache-2.0 表記で一致するが、マージ元の一つ TeichAI/gemma-4-31B-it-Claude-Opus-Distill-v2 は Claude Opus 出力による蒸留データセット由来で、その学習データの権利関係は各リポジトリの apache-2.0 表記だけでは確認できない。カードにベンチマーク・評価結果の記載は無く、公開から2日・likes 0 の新規リポジトリ。元モデルのカードは『プロンプトで要求していないのに暗い心理的テーマに寄る傾向がある』と自作テストで言及しており、用途によっては内容の抑制が必要。vision 対応を謳うが本リポジトリに mmproj は含まれず、画像入力には別リポジトリ mradermacher/Lunar-Trace-31B-GGUF の mmproj ファイルが要る。推奨量子化でも 18.7GB のファイルと相応の RAM/VRAM を要する。",
+      "fetched_at": "2026-11-06T08:38:08Z",
+      "path": "models/other/mradermacher-lunar-trace-31b-i1-gguf.md",
+      "summary": "Gemma-4-31B-it を土台に4モデルをマージした31Bモデルを、量子化してローカルで動かせる(チャット・ロールプレイ・創作・長編ストーリー)"
     },
     {
       "type": "model",

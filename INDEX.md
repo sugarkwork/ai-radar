@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 178 件 — リポジトリ 142, モデル 14, 記事 1, リンク集 17, プロンプト 4 / ⚑ 要確認 11 件
+収録 179 件 — リポジトリ 142, モデル 15, 記事 1, リンク集 17, プロンプト 4 / ⚑ 要確認 11 件
 
 ## リポジトリ（142）
 
@@ -266,7 +266,7 @@
 - **[Wedoflow](links/link-service/wedoflow-com.md)**  paid / Wedoflow
   - Webflow 向けのプレミアムテンプレート販売。デザイン済みのページを買って、サイト構築の時間を短縮する。
 
-## モデル（14）
+## モデル（15）
 
 ### 動画生成パイプライン（6）
 
@@ -283,10 +283,12 @@
 - **[Viggle Remake（MiniMax-H3 ベースの動画リメイク）](models/video-gen/viggle-viggle-remake.md)**  Viggle
   - **動画のリメイク（キャラクター置換・衣装・天候・小物の追加削除・スタイル変更）**を行う video-to-video モデル。MiniMax-H3 をベースにした LoRA として配布されている。
 
-### その他（3）
+### その他（4）
 
 - **[Clover 35B-A3B（拡散型 MoE）](models/other/diffuspace-clover-35b-a3b-preview.md)** ⚑  free / DiffuSpace
   - **自己回帰ではなくブロック拡散で書く**テキスト生成モデル。1トークンずつ左から伸ばす代わりに、ブロック単位でマスクを置き、確信度の高い位置から並列に埋めて確定させる。
+- **[Lunar-Trace-31B (i1 GGUF)](models/other/mradermacher-lunar-trace-31b-i1-gguf.md)**  free / mradermacher
+  - Gemma-4-31B-it を土台に4モデルをマージした31Bモデルを、量子化してローカルで動かせる(チャット・ロールプレイ・創作・長編ストーリー)
 - **[PLaMo 3 Translate 8B](models/other/pfnet-plamo-3-translate-8b.md)**  free / Preferred Networks
   - 日本語↔英語を含む53言語（カード記載）間の翻訳をローカルで実行する（pipeline_tag: translation）
 - **[Qwen3.5-0.8B weight-space-programming](models/other/ml-intern-lab-qwen3-5-0-8b-weight-space-programming.md)**  free / ML Intern lab（@_akhaliq ほか）
