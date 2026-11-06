@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 199 件 — リポジトリ 161, モデル 16, 記事 1, リンク集 17, プロンプト 4 / ⚑ 要確認 16 件
+収録 200 件 — リポジトリ 162, モデル 16, 記事 1, リンク集 17, プロンプト 4 / ⚑ 要確認 16 件
 
-## リポジトリ（161）
+## リポジトリ（162）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -123,7 +123,7 @@
 | [MiniMax H3 Temporal Window & Spatial Tiles](entries/video-gen/mo-akkakk-comfyui-minimaxh3-window-tiles.md) | 24 | 4 | 週次 | 19 | 2026-11-05 | 2026-11-05 | 2026-11-05 | MIT |
 | [NitroFusion2（1〜2ステップ text-to-image）](entries/video-gen/chendaryen-nitrofusion2.md) ⚑ | 24 | 1 | 週次 | 5 | 2026-11-05 | 2026-11-06 | 2026-11-06 | Apache-2.0 |
 
-### 3D・モーション（19）
+### 3D・モーション（20）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Ultra Water](entries/3d-motion/humpalumps-ultra-water.md) | 617 | 86 | 毎日 | 20 | 2026-11-02 | 2026-11-03 | 2026-11-03 | MIT |
 | [SkinTokens（TokenRig）](entries/3d-motion/vast-ai-research-skintokens.md) | 597 | 82 | 停滞 | 0 | 2026-05-12 | 2026-11-05 | 2026-11-05 | MIT |
 | [SculptForge](entries/3d-motion/islandmed-sculptforge.md) | 555 | 69 | 毎日 | 100+ | 2026-11-04 | 2026-11-04 | 2026-11-04 | GPL-3.0 |
+| [FlexGlue](entries/3d-motion/cvg-flexglue.md) | 244 | 13 | 毎日 | 13 | 2026-11-03 | 2026-11-06 | 2026-11-06 | MIT |
 | [open-3d-skills](entries/3d-motion/moh4696-open-3d-skills.md) | 220 | 31 | 月次 | 3 | 2026-10-31 | 2026-11-04 | 2026-11-04 | MIT |
 | [effekseer-vfx-skill](entries/3d-motion/kanaworksai-hue-effekseer-vfx-skill.md) | 79 | 6 | 週次 | 11 | 2026-10-29 | 2026-11-04 | 2026-11-04 | MIT |
 | [CurioMesh](entries/3d-motion/curiocrafter-curiomesh.md) | 42 | 2 | 毎日 | 100+ | 2026-11-05 | 2026-11-06 | 2026-11-06 | GPL-3.0 |

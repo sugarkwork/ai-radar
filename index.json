@@ -1,5 +1,5 @@
 {
-  "count": 199,
+  "count": 200,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -412,6 +412,40 @@
       "type": "repo",
       "path": "entries/3d-motion/islandmed-sculptforge.md",
       "summary": "無料・オープンソースのデジタル彫刻ツール。Linux / macOS / Windows で動作し、アカウント不要・テレメトリなし・アプリ内課金なし。v0.10.11 で README とアプリ内の表記から他社製品名を外し、「Classic sculpting keys」「Classic layout」などの自社名に統"
+    },
+    {
+      "type": "repo",
+      "name": "FlexGlue",
+      "genre": "3d-motion",
+      "url": "https://github.com/cvg/FlexGlue",
+      "author": "cvg (ETH Zurich Computer Vision and Geometry Lab) / Philipp Lindenberger ほか",
+      "pricing": "free",
+      "pricing_detail": "コード・重みとも無償公開。ただし重みの DINOv3 部分は DINOv3 License の制約下",
+      "signup_required": false,
+      "repo": "cvg/FlexGlue",
+      "license": "MIT",
+      "stars": 244,
+      "language": "Python",
+      "created": "2026-10-25",
+      "updated": "2026-11-03",
+      "added": "2026-11-06",
+      "first_seen": "2026-11-06",
+      "sources": [
+        "https://x.com/tokufxug/status/2118163149983781219"
+      ],
+      "flags": [],
+      "risk_notes": "コードは MIT だが、重み flexglue.pth は DINOv3 ConvNeXt-B を含み DINOv3 License で利用が制限される（商用利用は要確認）。実用は CUDA GPU 前提で、重みは約 567MB。README は ONNX モデルが COLMAP に使われると書くが、リポジトリのチェックリストでは COLMAP 統合は未チェック（進行中）。学習・評価コードは未公開。",
+      "forks": 13,
+      "open_issues": 1,
+      "commits_30d": 13,
+      "commit_cadence": "daily",
+      "size_kb": 3516,
+      "archived": false,
+      "fetched_at": "2026-11-06T20:38:56Z",
+      "last_release": "v0.1",
+      "last_release_at": "2026-10-26",
+      "path": "entries/3d-motion/cvg-flexglue.md",
+      "summary": "2枚の画像の対応点を求める。キーポイントあり（双方向連結 or 相互最近傍）／片方のみ／キーポイントなし（密グリッドからサンプリング）の4モード"
     },
     {
       "repo": "Moh4696/open-3d-skills",
