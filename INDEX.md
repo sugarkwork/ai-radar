@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 191 件 — リポジトリ 153, モデル 16, 記事 1, リンク集 17, プロンプト 4 / ⚑ 要確認 12 件
+収録 192 件 — リポジトリ 154, モデル 16, 記事 1, リンク集 17, プロンプト 4 / ⚑ 要確認 12 件
 
-## リポジトリ（153）
+## リポジトリ（154）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -48,7 +48,7 @@
 | [ComfyUI-MossPanelDataset](entries/other/sepiablue-ai-comfyui-mosspaneldataset.md) | 32 | 5 | 週次 | 7 | 2026-11-02 | 2026-11-03 | 2026-11-03 | MIT |
 | [ComfyUI Prompt Atelier](entries/other/renz1998-comfyui-prompt-atelier.md) | 0 | 0 | 毎日 | 25 | 2026-11-05 | 2026-11-06 | 2026-11-06 | GPL-3.0 |
 
-### エージェント基盤・スキル集（33）
+### エージェント基盤・スキル集（34）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -68,6 +68,7 @@
 | [agent-desktop](entries/agent-framework/vercel-labs-agent-desktop.md) | 16,755 | 1,177 | 毎日 | 79 | 2026-11-05 | 2026-11-05 | 2026-11-05 | Apache-2.0 |
 | [ARTEMIS](entries/agent-framework/google-artemis.md) | 16,511 | 1,815 | 月次 | 0 | 2026-10-01 | 2026-11-04 | 2026-11-04 | Apache-2.0 |
 | [OpenUI](entries/agent-framework/thesysdev-openui.md) | 14,787 | 977 | 毎日 | 100+ | 2026-11-05 | 2026-11-05 | 2026-11-05 | MIT |
+| [Worktrunk](entries/agent-framework/max-sixty-worktrunk.md) | 11,725 | 450 | 毎日 | 100+ | 2026-11-06 | 2026-11-06 | 2026-11-06 | MIT OR Apache-2.0 |
 | [InkOS](entries/agent-framework/narcooo-inkos.md) | 11,002 | 2,002 | 週次 | 6 | 2026-10-24 | 2026-11-04 | 2026-11-04 | AGPL-3.0 |
 | [jakubkrehel/skills（UI デザインスキル集）](entries/agent-framework/jakubkrehel-skills.md) | 10,894 | 421 | 毎日 | 31 | 2026-11-02 | 2026-11-05 | 2026-11-05 | MIT |
 | [unslop](entries/agent-framework/heydamir-unslop.md) | 7,557 | 381 | 週次 | 12 | 2026-11-01 | 2026-11-04 | 2026-11-04 | CC-BY-4.0 |
