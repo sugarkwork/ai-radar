@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 194 件 — リポジトリ 156, モデル 16, 記事 1, リンク集 17, プロンプト 4 / ⚑ 要確認 14 件
+収録 195 件 — リポジトリ 157, モデル 16, 記事 1, リンク集 17, プロンプト 4 / ⚑ 要確認 14 件
 
-## リポジトリ（156）
+## リポジトリ（157）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（35）
+### その他（36）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -38,6 +38,7 @@
 | [cryptofeed](entries/other/bmoscon-cryptofeed.md) | 2,968 | 780 | 毎日 | 46 | 2026-11-05 | 2026-11-05 | 2026-11-05 | AGPL-3.0 |
 | [skfolio](entries/other/skfolio-skfolio.md) | 2,593 | 301 | 毎日 | 87 | 2026-10-29 | 2026-11-05 | 2026-11-05 | BSD-3-Clause |
 | [QuantSkills](entries/other/quantskills-quantskills.md) | 2,538 | 229 | 毎日 | 61 | 2026-11-04 | 2026-11-04 | 2026-11-04 | unknown |
+| [Qwen-Image-2.1](entries/other/qwenlm-qwen-image-2.1.md) | 2,172 | 157 | 月次 | 6 | 2026-11-06 | 2026-11-06 | 2026-11-06 | NOASSERTION |
 | [awesome-reverse-engineering](entries/other/morluto-awesome-reverse-engineering.md) | 1,723 | 385 | 毎日 | 100+ | 2026-10-30 | 2026-11-04 | 2026-11-04 | CC0-1.0 |
 | [WeVisOne-VL](entries/other/tencent-wevisone-vl.md) | 676 | 56 | 月次 | 3 | 2026-10-25 | 2026-11-03 | 2026-11-03 | Apache-2.0（Tencent 著作部分） |
 | [DSH 破甲ワークフロー（dsh-jailbreak-workflow）](entries/other/minglink-dsh-jailbreak-workflow.md) ⚑ | 581 | 206 | 週次 | 17 | 2026-11-04 | 2026-11-04 | 2026-11-04 | 未確認（API は NOASSERTION、標準ライセンスファイル無し） |
