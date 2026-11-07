@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 227 件 — リポジトリ 178, リンク集 26, モデル 17, 記事 2, プロンプト 4 / ⚑ 要確認 22 件
+収録 228 件 — リポジトリ 179, リンク集 26, モデル 17, 記事 2, プロンプト 4 / ⚑ 要確認 23 件
 
-## リポジトリ（178）
+## リポジトリ（179）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -92,11 +92,12 @@
 | [batch-video-plugin](entries/video-gen/zysen1-batch-video-plugin.md) | 42 | 17 | 月次 | 2 | 2026-11-01 | 2026-11-03 | 2026-11-03 | MIT |
 | [NitroFusion2（1〜2ステップ text-to-image）](entries/video-gen/chendaryen-nitrofusion2.md) ⚑ | 24 | 1 | 週次 | 5 | 2026-11-05 | 2026-11-06 | 2026-11-06 | Apache-2.0 |
 
-### 3D・モーション（21）
+### 3D・モーション（22）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
 | [MCP for Blender](entries/3d-motion/ahujasid-mcp-for-blender.md) | 33,316 | 3,020 | 毎日 | 23 | 2026-11-04 | 2026-11-04 | 2026-11-04 | MIT |
+| [text-to-cad](entries/3d-motion/earthtojake-text-to-cad.md) ⚑ | 25,757 | 2,446 | 毎日 | 51 | 2026-11-07 | 2026-11-07 | 2026-11-07 | MIT |
 | [Anatomy](entries/3d-motion/wheresryan22-anatomy.md) | 24,866 | 2,070 | 毎日 | 100+ | 2026-10-18 | 2026-11-04 | 2026-11-04 | MIT |
 | [floorplan-3d](entries/3d-motion/wy51ai-floorplan-3d.md) | 3,393 | 707 | 月次 | 0 | 2026-10-02 | 2026-11-03 | 2026-11-03 | MIT |
 | [UniMate](entries/3d-motion/friedrich-m-unimate.md) | 2,463 | 262 | 月次 | 2 | 2026-10-08 | 2026-11-05 | 2026-11-05 | MIT |
@@ -397,6 +398,7 @@
 
 ## ⚑ 要確認
 
+- [text-to-cad](entries/3d-motion/earthtojake-text-to-cad.md) — unverified / 有効性は配布元の設計説明と自己申告のみで、生成された CAD の寸法精度・製造可能性を第三者が測定した結果は確認していない。DFM/DfAM の検査は mesh 計測と規則の引用だが、規則の妥当性・合否閾値は未検証。PyPI の分類は Development Status :: 4 - Beta。Python 3.14 固定で 3.13 以前では動かない。Windows 11 の Smart App Control 有効環境では OCP のネイティブモジュールが遮断される。既定でテレメトリ有効。リポジトリサイズは API 表記 436,278 KB。
 - [VRMkimodo](entries/3d-motion/camenduru-vrmkimodo.md) — unverified / 上流 nv-tlabs/kimodo のフォークで、独自追加は kimodo/exports/vrma.py のみ（README/CHANGELOG は上流と同一、CLI・デモからは未接続）。.vrma 書き出しはコード読解のみで実行検証していない。コードは Apache-2.0 だがモデル重みは NVIDIA Open Model License。ローカル生成には約17GB VRAM が必要。
 - [VRMExMR](entries/3d-motion/camenduru-vrmexmr.md) — unverified / ライセンス表記がなく、ExMR 側の利用条件（研究用か商用可か）を一次情報で確認できていない。商用利用の前に必ず確認する。
 - [4DAnyone](links/3d-motion/4danyone.github.io-4danyone.md) — unverified / 投稿は Faltwerk という4DGS圧縮・配信ツール（1.4GB→5〜7MB、Quest 3 で25〜40Mbps配信、AIアバターへの影付け）を名乗るが、対象ページに Faltwerk の記載は一切なく、実体は別プロジェクト 4DAnyone（SIGGRAPH Asia 2026）。投稿の圧縮率・配信帯域・実演は一次情報で確認できず本項目には採用していない。James C. Kane はページ内で 4DGS プレイヤー作者として謝辞に出るのみ。リポジトリは Apache-2.0 だが third_party（GVHMR 等）は別ライセンスで、パイプライン全体の商用利用は要確認。推論には 22GB 級 VRAM の GPU が必要。

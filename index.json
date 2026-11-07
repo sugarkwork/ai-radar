@@ -1,5 +1,5 @@
 {
-  "count": 227,
+  "count": 228,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -26,6 +26,40 @@
       "type": "repo",
       "path": "entries/3d-motion/ahujasid-mcp-for-blender.md",
       "summary": "LLM（Claude Desktop / Claude Code / Cursor など MCP 対応クライアント）から Blender を操作する。"
+    },
+    {
+      "repo": "earthtojake/text-to-cad",
+      "name": "text-to-cad",
+      "genre": "3d-motion",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "author": "earthtojake (Thompson Labs LLC)",
+      "license": "MIT",
+      "stars": 25757,
+      "language": "Python",
+      "created": "2026-04-22",
+      "updated": "2026-11-07",
+      "forks": 2446,
+      "open_issues": 46,
+      "size_kb": 436278,
+      "archived": false,
+      "commits_30d": 51,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "last_release": "v0.10.4",
+      "last_release_at": "2026-11-06",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "有効性は配布元の設計説明と自己申告のみで、生成された CAD の寸法精度・製造可能性を第三者が測定した結果は確認していない。DFM/DfAM の検査は mesh 計測と規則の引用だが、規則の妥当性・合否閾値は未検証。PyPI の分類は Development Status :: 4 - Beta。Python 3.14 固定で 3.13 以前では動かない。Windows 11 の Smart App Control 有効環境では OCP のネイティブモジュールが遮断される。既定でテレメトリ有効。リポジトリサイズは API 表記 436,278 KB。",
+      "type": "repo",
+      "added": "2026-11-07",
+      "first_seen": "2026-11-07",
+      "sources": [
+        "https://x.com/opensourcelab9/status/2118601779063701949"
+      ],
+      "fetched_at": "2026-11-07T15:52:19Z",
+      "path": "entries/3d-motion/earthtojake-text-to-cad.md",
+      "summary": "自然言語や画像の指示から、エージェントが build123d の Python スクリプトとして3Dモデルを書き、STEP・GLB・STL・3MF に書き出す"
     },
     {
       "repo": "wheresryan22/anatomy",
