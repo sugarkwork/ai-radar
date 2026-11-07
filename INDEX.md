@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 229 件 — リポジトリ 180, リンク集 26, モデル 17, 記事 2, プロンプト 4 / ⚑ 要確認 24 件
+収録 230 件 — リポジトリ 181, リンク集 26, モデル 17, 記事 2, プロンプト 4 / ⚑ 要確認 24 件
 
-## リポジトリ（180）
+## リポジトリ（181）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -51,7 +51,7 @@
 | [BetterSearch](entries/agent-framework/ry0narushima-bettersearch.md) | 40 | 4 | 週次 | 10 | 2026-10-18 | 2026-11-03 | 2026-11-03 | MIT |
 | [web-api-skills](entries/agent-framework/oxylabs-web-api-skills.md) | 11 | 1 | 月次 | 3 | 2026-10-13 | 2026-11-03 | 2026-11-03 | MIT |
 
-### 動画生成パイプライン（37）
+### 動画生成パイプライン（38）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -66,6 +66,7 @@
 | [awesome-opus5-5-videos](entries/video-gen/yihui-dev-awesome-opus5-5-videos.md) | 13,435 | 1,415 | 週次 | 5 | 2026-10-13 | 2026-11-04 | 2026-11-04 | MIT |
 | [Lemo-Opuscar](entries/video-gen/lemomo-ai-lemo-opuscar.md) | 11,571 | 1,327 | 毎日 | 60 | 2026-10-31 | 2026-11-03 | 2026-11-03 | MIT (コード) / CC BY 4.0 (スタイル記述) |
 | [WanGP](entries/video-gen/deepbeepmeep-wangp.md) | 11,441 | 1,855 | 毎日 | 63 | 2026-11-06 | 2026-11-06 | 2026-11-06 | WanGP Community License 2.0 |
+| [Remotion Agent Skills](entries/video-gen/remotion-dev-skills.md) | 6,530 | 710 | 週次 | 7 | 2026-11-05 | 2026-11-07 | 2026-11-07 | unknown |
 | [short-video-factory（AI Short Video Factory / 短视频工厂）](entries/video-gen/yils-lin-short-video-factory.md) | 6,057 | 833 | 週次 | 17 | 2026-11-04 | 2026-11-07 | 2026-11-07 | AGPL-3.0 |
 | [shuohao-skills](entries/video-gen/eternityspring-shuohao-skills.md) | 6,003 | 833 | 週次 | 19 | 2026-10-26 | 2026-11-04 | 2026-11-04 | Apache-2.0 |
 | [AI YouTube Shorts Generator](entries/video-gen/anil-matcha-ai-youtube-shorts-generator.md) | 5,788 | 1,054 | 週次 | 5 | 2026-11-06 | 2026-11-07 | 2026-11-07 | MIT |

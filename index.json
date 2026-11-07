@@ -1,5 +1,5 @@
 {
-  "count": 229,
+  "count": 230,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -5566,6 +5566,38 @@
       "type": "repo",
       "path": "entries/video-gen/deepbeepmeep-wangp.md",
       "summary": "動画・画像・音声/音声合成・3D 生成を1つの Web UI にまとめた実行環境。1モデル1アプリを入れ分けずに済む。"
+    },
+    {
+      "repo": "remotion-dev/skills",
+      "name": "Remotion Agent Skills",
+      "genre": "video-gen",
+      "url": "https://github.com/remotion-dev/skills",
+      "license": "unknown",
+      "stars": 6530,
+      "language": "TypeScript",
+      "created": "2026-01-19",
+      "updated": "2026-11-05",
+      "forks": 710,
+      "open_issues": 23,
+      "commits_30d": 7,
+      "commit_cadence": "weekly",
+      "commits_90d": 34,
+      "size_kb": 626,
+      "archived": false,
+      "author": "remotion-dev",
+      "flags": [],
+      "risk_notes": "リポジトリにLICENSEファイルが無く、GitHub APIのlicenseもnull（raw.githubusercontent.com/.../LICENSE は404）。コードの再配布条件は不明で、Remotion本体の「Remotion License」（企業規模により有償）がスキル利用に及ぶかはREADMEに記載が無い。効果（生成品質・速度の向上）を測った第三者検証も存在しない。Skillはエージェントへの指示文であり、出力の正しさは利用側のモデルとRemotionのバージョンに依存する。",
+      "last_release": "",
+      "last_release_at": "",
+      "type": "repo",
+      "added": "2026-11-07",
+      "first_seen": "2026-11-07",
+      "sources": [
+        "https://x.com/heyrimsha/status/2118662273044807904"
+      ],
+      "fetched_at": "2026-11-07T17:17:44Z",
+      "path": "entries/video-gen/remotion-dev-skills.md",
+      "summary": "Remotion公式が配布する13個のAgent Skill（/remotion-best-practices, /remotion-create, /remotion-markup, /remotion-studio, /remotion-render, /remotion-maps, /remotion-capti"
     },
     {
       "type": "repo",
