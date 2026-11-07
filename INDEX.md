@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 233 件 — リポジトリ 184, リンク集 26, モデル 17, 記事 2, プロンプト 4 / ⚑ 要確認 27 件
+収録 234 件 — リポジトリ 185, リンク集 26, モデル 17, 記事 2, プロンプト 4 / ⚑ 要確認 27 件
 
-## リポジトリ（184）
+## リポジトリ（185）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -144,7 +144,7 @@
 | [serenity-stock-choke](entries/finance-quant/fadewalk-serenity-stock-choke.md) | 508 | 56 | 週次 | 4 | 2026-10-06 | 2026-11-05 | 2026-11-07 | MIT |
 | [A-Share Quant Selector](entries/finance-quant/dzy-hw-xd-a-share-quant-selector.md) | 506 | 107 | 停滞 | 0 | 2026-09-08 | 2026-11-05 | 2026-11-07 | MIT |
 
-### 音声・TTS（15）
+### 音声・TTS（16）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -163,6 +163,7 @@
 | [ACE-Step（v1 / 3.5B）](entries/tts-audio/ace-step-ace-step.md) | 5,032 | 658 | 停滞 | 0 | 2026-02-15 | 2026-11-07 | 2026-11-07 | Apache-2.0 |
 | [Stable Audio Tools](entries/tts-audio/stability-ai-stable-audio-tools.md) | 3,898 | 489 | 停滞 | 0 | 2026-11-01 | 2026-11-03 | 2026-11-03 | MIT |
 | [Essentia](entries/tts-audio/mtg-essentia.md) | 3,791 | 643 | 毎日 | 21 | 2026-10-22 | 2026-11-03 | 2026-11-03 | AGPL-3.0 |
+| [stable-ts](entries/tts-audio/jianfch-stable-ts.md) | 2,282 | 249 | 停滞 | 0 | 2026-05-30 | 2026-11-07 | 2026-11-07 | MIT |
 
 ### その他（14）
 

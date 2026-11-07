@@ -1,5 +1,5 @@
 {
-  "count": 233,
+  "count": 234,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -5310,6 +5310,38 @@
       "type": "repo",
       "path": "entries/tts-audio/mtg-essentia.md",
       "summary": "音声・音楽の解析ライブラリ（C++ 実装、Python バインディング付き）。BPM・キー・コード・ラウドネス・スペクトル特徴・MFCC・オンセット検出など数百のアルゴリズムを提供。"
+    },
+    {
+      "repo": "jianfch/stable-ts",
+      "name": "stable-ts",
+      "genre": "tts-audio",
+      "url": "https://github.com/jianfch/stable-ts",
+      "author": "jianfch",
+      "license": "MIT",
+      "stars": 2282,
+      "language": "Python",
+      "created": "2022-09-29",
+      "updated": "2026-05-30",
+      "forks": 249,
+      "open_issues": 0,
+      "size_kb": 5114,
+      "archived": true,
+      "commits_30d": 0,
+      "commits_90d": 0,
+      "commit_cadence": "stale",
+      "last_release": "2.0.0",
+      "last_release_at": "2023-03-17",
+      "flags": [],
+      "risk_notes": "アーカイブ済みで開発は無期限停止（README 冒頭に明記、最終コード変更 2025-10-29、最終 push 2026-05-30 は休止告知コミット）。GitHub Releases は 2.0.0 (2023-03-17) で止まっており PyPI 最新 2.19.1 (2025-08-16) と乖離する。openai-whisper を <=20250625 にピン留めしているため将来の Whisper 更新には追従しない。README の「最大9倍高速」は著者の主張で一次ベンチマーク未提示、WER 改善の定量報告もなし（未検証）。当環境で音声推論・速度・VRAM は未実測。",
+      "type": "repo",
+      "added": "2026-11-07",
+      "first_seen": "2026-11-07",
+      "sources": [
+        "https://x.com/heyrimsha/status/2118662273044807904"
+      ],
+      "fetched_at": "2026-11-07T18:38:44Z",
+      "path": "entries/tts-audio/jianfch-stable-ts.md",
+      "summary": "Whisper 系モデルで文字起こしし、単語単位のタイムスタンプを付与（cross-attention + dynamic time warping）"
     },
     {
       "type": "model",
