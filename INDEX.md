@@ -158,7 +158,7 @@
 | [so-vits-svc](entries/tts-audio/svc-develop-team-so-vits-svc.md) | 28,067 | 5,015 | 停滞 | 0 | 2023-11-11 | 2026-11-03 | 2026-11-03 | AGPL-3.0 |
 | [AudioCraft / MusicGen](entries/tts-audio/facebookresearch-audiocraft.md) | 23,812 | 2,714 | 停滞 | 0 | 2026-03-03 | 2026-11-03 | 2026-11-03 | MIT |
 | [OmniVoice](entries/tts-audio/k2-fsa-omnivoice.md) | 16,291 | 2,384 | 停滞 | 0 | 2026-11-02 | 2026-11-04 | 2026-11-04 | Apache-2.0 |
-| [ACE-Step 1.5](entries/tts-audio/ace-step-ace-step-1-5.md) | 14,465 | 1,919 | 月次 | 0 | 2026-10-11 | 2026-11-07 | 2026-11-07 | MIT |
+| [ACE-Step 1.5](entries/tts-audio/ace-step-ace-step-1-5.md) | 14,491 | 1,920 | 月次 | 0 | 2026-10-11 | 2026-11-07 | 2026-11-07 | MIT |
 | [Demucs](entries/tts-audio/facebookresearch-demucs.md) | 10,402 | 1,670 | 停滞 | 0 | 2024-04-24 | 2026-11-03 | 2026-11-03 | MIT |
 | [Kokoro](entries/tts-audio/hexgrad-kokoro.md) | 9,947 | 1,113 | 停滞 | 0 | 2025-08-06 | 2026-11-07 | 2026-11-07 | Apache-2.0 |
 | [Podcastfy](entries/tts-audio/souzatharsis-podcastfy.md) | 6,782 | 792 | 停滞 | 0 | 2026-05-04 | 2026-11-07 | 2026-11-07 | Apache-2.0 |
