@@ -1,5 +1,5 @@
 {
-  "count": 203,
+  "count": 204,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -2396,6 +2396,26 @@
       "last_release_at": "2026-11-06",
       "path": "entries/mcp-server/yolow92-pagesift.md",
       "summary": "URL を取得し、本文抽出した Markdown もしくは JSON（links / images / metadata / スキーマ抽出）で返す"
+    },
+    {
+      "type": "link",
+      "name": "ArtCraft Craft Apps",
+      "genre": "mcp-server",
+      "url": "https://getartcraft.com/apps",
+      "author": "ArtCraft (GitHub: storytold)",
+      "pricing": "free",
+      "pricing_detail": "Craft Apps 自体は無料・Apache-2.0。/pricing の有料プラン（Basic 8 / Pro 28 / Max 48 USD/月、年払い20%off）は別製品の ArtCraft Studio（AI画像・動画、クレジット制）向けで、Craft Apps の利用には課金がない。",
+      "signup_required": false,
+      "added": "2026-11-07",
+      "first_seen": "2026-11-07",
+      "sources": [
+        "https://x.com/awe0_io/status/2117816163598287229"
+      ],
+      "flags": [],
+      "risk_notes": "ベンダー自身が多くのアプリを 'Early alpha' / 'In development' と表記しており機能は未完成。MCPサーバは既定では起動せず、利用者が明示的にクライアントへ登録する必要がある。--automation-read-root / --automation-write-root で与えた範囲のファイル読み書き権限をエージェントに渡すため、書き込みルートは専用フォルダに限定する旨がドキュメントに明記されている。PhotoCraft の日本語UIフォントは別リポジトリ（craft-fonts）依存。",
+      "fetched_at": "2026-11-06T21:06:07Z",
+      "path": "links/mcp-server/getartcraft.com-artcraft-craft-apps.md",
+      "summary": "画像編集・ベクター・動画・PDF・DTP・3Dテクスチャ・DAW・CAD・表計算など、商用クリエイティブソフト相当の機能をRust製ネイティブアプリとして無料・オープンソースで提供するスイート。"
     },
     {
       "repo": "cheaper-inference/OmniRoute",
