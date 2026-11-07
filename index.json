@@ -1,5 +1,5 @@
 {
-  "count": 234,
+  "count": 235,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -5810,6 +5810,43 @@
       "fetched_at": "2026-11-07T05:25:12Z",
       "path": "entries/video-gen/anil-matcha-ai-youtube-shorts-generator.md",
       "summary": "YouTube URL（または file:// / ローカルパス）を渡すと、縦型 mp4 を N 本出力。各クリップに 0-100 のバイラルスコア、冒頭フック文、選定理由の一文が付く"
+    },
+    {
+      "repo": "Breakthrough/PySceneDetect",
+      "name": "PySceneDetect",
+      "genre": "video-gen",
+      "url": "https://github.com/Breakthrough/PySceneDetect",
+      "author": "Brandon Castellano (Breakthrough)",
+      "license": "BSD-3-Clause",
+      "stars": 5403,
+      "language": "Python",
+      "created": "2014-06-04",
+      "updated": "2026-11-07",
+      "forks": 561,
+      "open_issues": 65,
+      "size_kb": 210742,
+      "archived": false,
+      "commits_30d": 34,
+      "commits_90d": 74,
+      "commit_cadence": "daily",
+      "last_release": "v0.7.2",
+      "last_release_at": "2026-10-12",
+      "flags": [],
+      "risk_notes": [
+        "精度指標（F1 等）は開発元自身が公開するベンチマークの値で、第三者の独立再現やこちらの実機追試は行っていない。処理速度は未計測。",
+        "docs サイト（scenedetect.com/docs/latest）は v0.7.1 のままで、v0.7.2 で変更された detect-hist（threshold 0.20 / bins 128）と detect-hash（threshold 0.35 / size 8）の既定値はリリースノート側の記載を優先した。CLI リファレンス上の既定値表示は 0.7.1 時点のもの。",
+        "open_issues=65 は GitHub の open_issues_count で、実測では issue 57 件 + PR 8 件の合計。",
+        "genre=video-gen は分類上の近似。実体は映像の生成モデルではなく、カット検出・分割・フレーム抽出の解析ツール。"
+      ],
+      "type": "repo",
+      "added": "2026-11-07",
+      "first_seen": "2026-11-07",
+      "sources": [
+        "https://x.com/heyrimsha/status/2118662273044807904"
+      ],
+      "fetched_at": "2026-11-07T18:45:40Z",
+      "path": "entries/video-gen/breakthrough-pyscenedetect.md",
+      "summary": "ハードカット検出: ContentDetector が隣接フレームの HSV 色差をスコア化（既定 threshold=27.0、min_scene_len=0.6s）。速いカメラ移動が多い映像では2パス方式の AdaptiveDetector（既定 threshold=3.0、window_width=2、min_c"
     },
     {
       "repo": "hao-ai-lab/FastVideo",
