@@ -1,5 +1,5 @@
 {
-  "count": 235,
+  "count": 236,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -5810,6 +5810,38 @@
       "fetched_at": "2026-11-07T05:25:12Z",
       "path": "entries/video-gen/anil-matcha-ai-youtube-shorts-generator.md",
       "summary": "YouTube URL（または file:// / ローカルパス）を渡すと、縦型 mp4 を N 本出力。各クリップに 0-100 のバイラルスコア、冒頭フック文、選定理由の一文が付く"
+    },
+    {
+      "repo": "mifi/editly",
+      "name": "editly",
+      "genre": "video-gen",
+      "url": "https://github.com/mifi/editly",
+      "author": "mifi",
+      "license": "MIT",
+      "stars": 5590,
+      "language": "TypeScript",
+      "created": "2020-04-15T14:23:56Z",
+      "updated": "2025-05-12T07:03:44Z",
+      "forks": 386,
+      "open_issues": 80,
+      "size_kb": 729,
+      "archived": false,
+      "commits_30d": 0,
+      "commits_90d": 0,
+      "commit_cadence": "stale",
+      "last_release": "v0.15.0-rc.1",
+      "last_release_at": "2025-01-19T15:06:09Z",
+      "flags": [],
+      "risk_notes": "直近30日・90日のコミットはいずれも0件(最終コミット 2025-02-20、pushed_at は 2025-05-12)で、commit_cadence は stale。最新リリースは 2025-01-19 の v0.15.0-rc.1 で、タグ名どおり RC(リリースノート本文も『a new release (candidate)』)であり、正式版 0.15.0 は未公開。npm の dist-tags は latest=0.14.2 / next=0.15.0-rc.1 のため、通常のグローバル導入では TypeScript 化・ESM 化前の 0.14.2 が入る(README の ESM 前提の記述と齟齬)。リリースノートに『After a couple years of inactivity, editly now has a new maintainer』とあり、2022〜2024年に長期停滞した履歴がある。open_issues は80件。node-canvas と headless-gl のネイティブビルドが必要で、ビルド環境が無い場合は Docker かビルド済み環境に頼る必要がある。README に非推奨(deprecated)の明記は無い。",
+      "type": "repo",
+      "added": "2026-11-07",
+      "first_seen": "2026-11-07",
+      "sources": [
+        "https://x.com/heyrimsha/status/2118662273044807904"
+      ],
+      "fetched_at": "2026-11-07T18:50:04Z",
+      "path": "entries/video-gen/mifi-editly.md",
+      "summary": "クリップ・画像・音声・タイトルを並べた編集プラン(JSON / JSON5 / JavaScript オブジェクト)から、mp4 / mkv / gif を1コマンドで書き出す。"
     },
     {
       "repo": "Breakthrough/PySceneDetect",

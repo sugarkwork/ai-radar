@@ -2,11 +2,56 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 235 件 — リポジトリ 186, リンク集 26, モデル 17, 記事 2, プロンプト 4 / ⚑ 要確認 27 件
+収録 236 件 — リポジトリ 187, リンク集 26, モデル 17, 記事 2, プロンプト 4 / ⚑ 要確認 27 件
 
-## リポジトリ（186）
+## リポジトリ（187）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
+
+### 動画生成パイプライン（40）
+
+| 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
+|---|---:|---:|---|---:|---|---|---|---|
+| [MoneyPrinterTurbo](entries/video-gen/harry0703-moneyprinterturbo.md) | 138,902 | 22,166 | 毎日 | 100+ | 2026-11-04 | 2026-11-04 | 2026-11-04 | MIT |
+| [HyperFrames](entries/video-gen/heygen-hyperframes.md) | 78,902 | 7,262 | 毎日 | 100+ | 2026-11-04 | 2026-11-04 | 2026-11-04 | Apache-2.0 |
+| [OpenMontage](entries/video-gen/calesthio-openmontage.md) | 76,491 | 10,148 | 毎日 | 46 | 2026-11-03 | 2026-11-04 | 2026-11-04 | AGPL-3.0 |
+| [Pixelle-Video](entries/video-gen/ath-maas-pixelle-video.md) | 29,762 | 4,322 | 停滞 | 0 | 2026-06-14 | 2026-11-04 | 2026-11-04 | Apache-2.0 |
+| [hypit](entries/video-gen/hypit-ai-hypit.md) | 28,169 | 3,267 | 毎日 | 77 | 2026-11-05 | 2026-11-05 | 2026-11-05 | Apache-2.0 改変版（追加条件あり、API上は NOASSERTION） |
+| [Huobao Drama（火宝短剧）](entries/video-gen/chatfire-ai-huobao-drama.md) | 17,001 | 3,170 | 週次 | 7 | 2026-11-01 | 2026-11-04 | 2026-11-04 | CC BY-NC-SA 4.0（README のバッジ。GitHub API は NOASSERTION） |
+| [video-shotcraft](entries/video-gen/vincentwei1021-video-shotcraft.md) | 16,970 | 1,599 | 週次 | 10 | 2026-10-29 | 2026-11-04 | 2026-11-04 | Apache-2.0 |
+| [OpenCreator](entries/video-gen/krillinai-opencreator.md) | 14,192 | 1,582 | 毎日 | 100+ | 2026-11-05 | 2026-11-07 | 2026-11-07 | Apache-2.0 |
+| [awesome-opus5-5-videos](entries/video-gen/yihui-dev-awesome-opus5-5-videos.md) | 13,435 | 1,415 | 週次 | 5 | 2026-10-13 | 2026-11-04 | 2026-11-04 | MIT |
+| [Lemo-Opuscar](entries/video-gen/lemomo-ai-lemo-opuscar.md) | 11,571 | 1,327 | 毎日 | 60 | 2026-10-31 | 2026-11-03 | 2026-11-03 | MIT (コード) / CC BY 4.0 (スタイル記述) |
+| [WanGP](entries/video-gen/deepbeepmeep-wangp.md) | 11,441 | 1,855 | 毎日 | 63 | 2026-11-06 | 2026-11-06 | 2026-11-06 | WanGP Community License 2.0 |
+| [Remotion Agent Skills](entries/video-gen/remotion-dev-skills.md) | 6,530 | 710 | 週次 | 7 | 2026-11-05 | 2026-11-07 | 2026-11-07 | unknown |
+| [short-video-factory（AI Short Video Factory / 短视频工厂）](entries/video-gen/yils-lin-short-video-factory.md) | 6,057 | 833 | 週次 | 17 | 2026-11-04 | 2026-11-07 | 2026-11-07 | AGPL-3.0 |
+| [shuohao-skills](entries/video-gen/eternityspring-shuohao-skills.md) | 6,003 | 833 | 週次 | 19 | 2026-10-26 | 2026-11-04 | 2026-11-04 | Apache-2.0 |
+| [AI YouTube Shorts Generator](entries/video-gen/anil-matcha-ai-youtube-shorts-generator.md) | 5,788 | 1,054 | 週次 | 5 | 2026-11-06 | 2026-11-07 | 2026-11-07 | MIT |
+| [editly](entries/video-gen/mifi-editly.md) | 5,590 | 386 | 停滞 | 0 | 2025-05-12 | 2026-11-07 | 2026-11-07 | MIT |
+| [PySceneDetect](entries/video-gen/breakthrough-pyscenedetect.md) | 5,403 | 561 | 毎日 | 34 | 2026-11-07 | 2026-11-07 | 2026-11-07 | BSD-3-Clause |
+| [FastVideo](entries/video-gen/hao-ai-lab-fastvideo.md) | 4,780 | 519 | 毎日 | 100+ | 2026-11-04 | 2026-11-04 | 2026-11-04 | Apache-2.0 |
+| [ffmpeg-skill — コーディングエージェントに渡すローカル動画編集ツール42本](entries/video-gen/kajisho5-ffmpeg-skill.md) | 4,672 | 379 | 毎日 | 100+ | 2026-11-06 | 2026-11-07 | 2026-11-07 | MIT |
+| [OpenChatCut](entries/video-gen/0xsline-openchatcut.md) ⚑ | 2,971 | 445 | 毎日 | 68 | 2026-11-06 | 2026-11-07 | 2026-11-07 | AGPL-3.0 |
+| [Herk Edit Kit（Nate Herk の AI 動画編集キット）](entries/video-gen/nateherkai-herk-edit-kit.md) | 2,612 | 635 | — | 4 | 2026-10-14 | 2026-11-07 | 2026-11-07 | MIT（LICENSE 本文は MIT。GitHub API は NOASSERTION。ブランド素材と pipeline 部分に別条件） |
+| [vox-director](entries/video-gen/alisa0808-vox-director.md) | 2,608 | 365 | 月次 | 1 | 2026-10-05 | 2026-11-04 | 2026-11-04 | MIT |
+| [huashu-motion（花叔）](entries/video-gen/alchaincyf-huashu-motion.md) | 2,205 | 215 | 週次 | 15 | 2026-10-22 | 2026-11-03 | 2026-11-03 | MIT |
+| [4DAnyone](entries/video-gen/ant-research-4danyone.md) | 1,485 | 106 | 月次 | 1 | 2026-10-14 | 2026-11-07 | 2026-11-07 | Apache-2.0 |
+| [Animate](entries/video-gen/cth9191-animate.md) | 1,441 | 186 | 月次 | 1 | 2026-10-05 | 2026-11-03 | 2026-11-03 | MIT |
+| [Papermorph](entries/video-gen/dozentwelve-papermorph.md) | 1,335 | 177 | 毎日 | 100+ | 2026-11-06 | 2026-11-06 | 2026-11-06 | MIT |
+| [Motion Prompt](entries/video-gen/showheyohtaki-motion-prompt.md) | 1,175 | 134 | 週次 | 15 | 2026-10-29 | 2026-11-03 | 2026-11-03 | MIT |
+| [vibe-knowledge-film](entries/video-gen/heychengc-vibe-knowledge-film.md) ⚑ | 977 | 98 | 週次 | 9 | 2026-10-13 | 2026-11-03 | 2026-11-03 | 未確認（GitHub API は NOASSERTION） |
+| [赛博小雅直播版（Cyber Xiaoya Live）](entries/video-gen/cyber-xiaoya-cyber-xiaoya-live.md) | 706 | 310 | 週次 | 18 | 2026-11-02 | 2026-11-05 | 2026-11-05 | AGPL-3.0（コードのみ。素材・ブランドは NOTICE で別扱い） |
+| [Infinite Creation（Agent无限创作）](entries/video-gen/swotatmk-infinite-creation.md) | 259 | 63 | 毎日 | 100+ | 2026-11-06 | 2026-11-06 | 2026-11-06 | MIT |
+| [comfyui-obvpm-timeline](entries/video-gen/chanon-comfyui-obvpm-timeline.md) | 256 | 31 | 週次 | 11 | 2026-10-23 | 2026-11-04 | 2026-11-04 | GPL-3.0 |
+| [Veda Sparse Attention for ComfyUI (MiniMax-H3)](entries/video-gen/veda-sparse-veda-on-comfyui.md) | 218 | 20 | 毎日 | 45 | 2026-10-11 | 2026-11-05 | 2026-11-05 | MIT |
+| [ComfyUI Panorama Stickers](entries/video-gen/nomadoor-comfyui-panorama-stickers.md) | 182 | 17 | 毎日 | 84 | 2026-11-06 | 2026-11-06 | 2026-11-06 | MIT |
+| [H3 Continuity Studio](entries/video-gen/kadobot-comfyui-h3-continuity-studio.md) | 147 | 16 | 毎日 | 100+ | 2026-11-06 | 2026-11-06 | 2026-11-06 | MIT |
+| [WeVisCut（記事を数分の編集済み動画に変える9Bツールエージェント）](entries/video-gen/tencent-weviscut.md) | 79 | 11 | 週次 | 10 | 2026-10-30 | 2026-11-06 | 2026-11-06 | Apache-2.0（GitHub API は NOASSERTION） |
+| [music-mv](entries/video-gen/win-hao-music-mv.md) | 77 | 3 | 月次 | 3 | 2026-10-20 | 2026-11-04 | 2026-11-04 | MIT |
+| [Screenplay](entries/video-gen/gmpetrov-agent-screenplay.md) | 54 | 1 | 毎日 | 22 | 2026-11-03 | 2026-11-04 | 2026-11-04 | MIT |
+| [MiniMax H3 Temporal Window & Spatial Tiles](entries/video-gen/mo-akkakk-comfyui-minimaxh3-window-tiles.md) | 45 | 5 | 毎日 | 22 | 2026-11-06 | 2026-11-06 | 2026-11-06 | MIT |
+| [batch-video-plugin](entries/video-gen/zysen1-batch-video-plugin.md) | 42 | 17 | 月次 | 2 | 2026-11-01 | 2026-11-03 | 2026-11-03 | MIT |
+| [NitroFusion2（1〜2ステップ text-to-image）](entries/video-gen/chendaryen-nitrofusion2.md) ⚑ | 24 | 1 | 週次 | 5 | 2026-11-05 | 2026-11-06 | 2026-11-06 | Apache-2.0 |
 
 ### エージェント基盤・スキル集（39）
 
@@ -51,50 +96,6 @@
 | [CoworkOS](entries/agent-framework/ruc-nlpir-coworkos.md) | 117 | 12 | 週次 | 17 | 2026-11-03 | 2026-11-04 | 2026-11-04 | MIT |
 | [BetterSearch](entries/agent-framework/ry0narushima-bettersearch.md) | 40 | 4 | 週次 | 10 | 2026-10-18 | 2026-11-03 | 2026-11-03 | MIT |
 | [web-api-skills](entries/agent-framework/oxylabs-web-api-skills.md) | 11 | 1 | 月次 | 3 | 2026-10-13 | 2026-11-03 | 2026-11-03 | MIT |
-
-### 動画生成パイプライン（39）
-
-| 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
-|---|---:|---:|---|---:|---|---|---|---|
-| [MoneyPrinterTurbo](entries/video-gen/harry0703-moneyprinterturbo.md) | 138,902 | 22,166 | 毎日 | 100+ | 2026-11-04 | 2026-11-04 | 2026-11-04 | MIT |
-| [HyperFrames](entries/video-gen/heygen-hyperframes.md) | 78,902 | 7,262 | 毎日 | 100+ | 2026-11-04 | 2026-11-04 | 2026-11-04 | Apache-2.0 |
-| [OpenMontage](entries/video-gen/calesthio-openmontage.md) | 76,491 | 10,148 | 毎日 | 46 | 2026-11-03 | 2026-11-04 | 2026-11-04 | AGPL-3.0 |
-| [Pixelle-Video](entries/video-gen/ath-maas-pixelle-video.md) | 29,762 | 4,322 | 停滞 | 0 | 2026-06-14 | 2026-11-04 | 2026-11-04 | Apache-2.0 |
-| [hypit](entries/video-gen/hypit-ai-hypit.md) | 28,169 | 3,267 | 毎日 | 77 | 2026-11-05 | 2026-11-05 | 2026-11-05 | Apache-2.0 改変版（追加条件あり、API上は NOASSERTION） |
-| [Huobao Drama（火宝短剧）](entries/video-gen/chatfire-ai-huobao-drama.md) | 17,001 | 3,170 | 週次 | 7 | 2026-11-01 | 2026-11-04 | 2026-11-04 | CC BY-NC-SA 4.0（README のバッジ。GitHub API は NOASSERTION） |
-| [video-shotcraft](entries/video-gen/vincentwei1021-video-shotcraft.md) | 16,970 | 1,599 | 週次 | 10 | 2026-10-29 | 2026-11-04 | 2026-11-04 | Apache-2.0 |
-| [OpenCreator](entries/video-gen/krillinai-opencreator.md) | 14,192 | 1,582 | 毎日 | 100+ | 2026-11-05 | 2026-11-07 | 2026-11-07 | Apache-2.0 |
-| [awesome-opus5-5-videos](entries/video-gen/yihui-dev-awesome-opus5-5-videos.md) | 13,435 | 1,415 | 週次 | 5 | 2026-10-13 | 2026-11-04 | 2026-11-04 | MIT |
-| [Lemo-Opuscar](entries/video-gen/lemomo-ai-lemo-opuscar.md) | 11,571 | 1,327 | 毎日 | 60 | 2026-10-31 | 2026-11-03 | 2026-11-03 | MIT (コード) / CC BY 4.0 (スタイル記述) |
-| [WanGP](entries/video-gen/deepbeepmeep-wangp.md) | 11,441 | 1,855 | 毎日 | 63 | 2026-11-06 | 2026-11-06 | 2026-11-06 | WanGP Community License 2.0 |
-| [Remotion Agent Skills](entries/video-gen/remotion-dev-skills.md) | 6,530 | 710 | 週次 | 7 | 2026-11-05 | 2026-11-07 | 2026-11-07 | unknown |
-| [short-video-factory（AI Short Video Factory / 短视频工厂）](entries/video-gen/yils-lin-short-video-factory.md) | 6,057 | 833 | 週次 | 17 | 2026-11-04 | 2026-11-07 | 2026-11-07 | AGPL-3.0 |
-| [shuohao-skills](entries/video-gen/eternityspring-shuohao-skills.md) | 6,003 | 833 | 週次 | 19 | 2026-10-26 | 2026-11-04 | 2026-11-04 | Apache-2.0 |
-| [AI YouTube Shorts Generator](entries/video-gen/anil-matcha-ai-youtube-shorts-generator.md) | 5,788 | 1,054 | 週次 | 5 | 2026-11-06 | 2026-11-07 | 2026-11-07 | MIT |
-| [PySceneDetect](entries/video-gen/breakthrough-pyscenedetect.md) | 5,403 | 561 | 毎日 | 34 | 2026-11-07 | 2026-11-07 | 2026-11-07 | BSD-3-Clause |
-| [FastVideo](entries/video-gen/hao-ai-lab-fastvideo.md) | 4,780 | 519 | 毎日 | 100+ | 2026-11-04 | 2026-11-04 | 2026-11-04 | Apache-2.0 |
-| [ffmpeg-skill — コーディングエージェントに渡すローカル動画編集ツール42本](entries/video-gen/kajisho5-ffmpeg-skill.md) | 4,672 | 379 | 毎日 | 100+ | 2026-11-06 | 2026-11-07 | 2026-11-07 | MIT |
-| [OpenChatCut](entries/video-gen/0xsline-openchatcut.md) ⚑ | 2,971 | 445 | 毎日 | 68 | 2026-11-06 | 2026-11-07 | 2026-11-07 | AGPL-3.0 |
-| [Herk Edit Kit（Nate Herk の AI 動画編集キット）](entries/video-gen/nateherkai-herk-edit-kit.md) | 2,612 | 635 | — | 4 | 2026-10-14 | 2026-11-07 | 2026-11-07 | MIT（LICENSE 本文は MIT。GitHub API は NOASSERTION。ブランド素材と pipeline 部分に別条件） |
-| [vox-director](entries/video-gen/alisa0808-vox-director.md) | 2,608 | 365 | 月次 | 1 | 2026-10-05 | 2026-11-04 | 2026-11-04 | MIT |
-| [huashu-motion（花叔）](entries/video-gen/alchaincyf-huashu-motion.md) | 2,205 | 215 | 週次 | 15 | 2026-10-22 | 2026-11-03 | 2026-11-03 | MIT |
-| [4DAnyone](entries/video-gen/ant-research-4danyone.md) | 1,485 | 106 | 月次 | 1 | 2026-10-14 | 2026-11-07 | 2026-11-07 | Apache-2.0 |
-| [Animate](entries/video-gen/cth9191-animate.md) | 1,441 | 186 | 月次 | 1 | 2026-10-05 | 2026-11-03 | 2026-11-03 | MIT |
-| [Papermorph](entries/video-gen/dozentwelve-papermorph.md) | 1,335 | 177 | 毎日 | 100+ | 2026-11-06 | 2026-11-06 | 2026-11-06 | MIT |
-| [Motion Prompt](entries/video-gen/showheyohtaki-motion-prompt.md) | 1,175 | 134 | 週次 | 15 | 2026-10-29 | 2026-11-03 | 2026-11-03 | MIT |
-| [vibe-knowledge-film](entries/video-gen/heychengc-vibe-knowledge-film.md) ⚑ | 977 | 98 | 週次 | 9 | 2026-10-13 | 2026-11-03 | 2026-11-03 | 未確認（GitHub API は NOASSERTION） |
-| [赛博小雅直播版（Cyber Xiaoya Live）](entries/video-gen/cyber-xiaoya-cyber-xiaoya-live.md) | 706 | 310 | 週次 | 18 | 2026-11-02 | 2026-11-05 | 2026-11-05 | AGPL-3.0（コードのみ。素材・ブランドは NOTICE で別扱い） |
-| [Infinite Creation（Agent无限创作）](entries/video-gen/swotatmk-infinite-creation.md) | 259 | 63 | 毎日 | 100+ | 2026-11-06 | 2026-11-06 | 2026-11-06 | MIT |
-| [comfyui-obvpm-timeline](entries/video-gen/chanon-comfyui-obvpm-timeline.md) | 256 | 31 | 週次 | 11 | 2026-10-23 | 2026-11-04 | 2026-11-04 | GPL-3.0 |
-| [Veda Sparse Attention for ComfyUI (MiniMax-H3)](entries/video-gen/veda-sparse-veda-on-comfyui.md) | 218 | 20 | 毎日 | 45 | 2026-10-11 | 2026-11-05 | 2026-11-05 | MIT |
-| [ComfyUI Panorama Stickers](entries/video-gen/nomadoor-comfyui-panorama-stickers.md) | 182 | 17 | 毎日 | 84 | 2026-11-06 | 2026-11-06 | 2026-11-06 | MIT |
-| [H3 Continuity Studio](entries/video-gen/kadobot-comfyui-h3-continuity-studio.md) | 147 | 16 | 毎日 | 100+ | 2026-11-06 | 2026-11-06 | 2026-11-06 | MIT |
-| [WeVisCut（記事を数分の編集済み動画に変える9Bツールエージェント）](entries/video-gen/tencent-weviscut.md) | 79 | 11 | 週次 | 10 | 2026-10-30 | 2026-11-06 | 2026-11-06 | Apache-2.0（GitHub API は NOASSERTION） |
-| [music-mv](entries/video-gen/win-hao-music-mv.md) | 77 | 3 | 月次 | 3 | 2026-10-20 | 2026-11-04 | 2026-11-04 | MIT |
-| [Screenplay](entries/video-gen/gmpetrov-agent-screenplay.md) | 54 | 1 | 毎日 | 22 | 2026-11-03 | 2026-11-04 | 2026-11-04 | MIT |
-| [MiniMax H3 Temporal Window & Spatial Tiles](entries/video-gen/mo-akkakk-comfyui-minimaxh3-window-tiles.md) | 45 | 5 | 毎日 | 22 | 2026-11-06 | 2026-11-06 | 2026-11-06 | MIT |
-| [batch-video-plugin](entries/video-gen/zysen1-batch-video-plugin.md) | 42 | 17 | 月次 | 2 | 2026-11-01 | 2026-11-03 | 2026-11-03 | MIT |
-| [NitroFusion2（1〜2ステップ text-to-image）](entries/video-gen/chendaryen-nitrofusion2.md) ⚑ | 24 | 1 | 週次 | 5 | 2026-11-05 | 2026-11-06 | 2026-11-06 | Apache-2.0 |
 
 ### 3D・モーション（22）
 
