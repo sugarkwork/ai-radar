@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 226 件 — リポジトリ 179, リンク集 24, モデル 17, 記事 2, プロンプト 4 / ⚑ 要確認 20 件
+収録 225 件 — リポジトリ 178, リンク集 24, モデル 17, 記事 2, プロンプト 4 / ⚑ 要確認 20 件
 
-## リポジトリ（179）
+## リポジトリ（178）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -15,7 +15,7 @@
 | [Skills for Real Engineers](entries/agent-framework/mattpocock-skills.md) | 313,998 | 26,327 | 毎日 | 49 | 2026-11-05 | 2026-11-05 | 2026-11-05 | MIT |
 | [Superpowers](entries/agent-framework/obra-superpowers.md) | 312,407 | 27,789 | 週次 | 4 | 2026-11-03 | 2026-11-04 | 2026-11-04 | MIT |
 | [Ponytail](entries/agent-framework/dietrichgebert-ponytail.md) | 184,508 | 10,178 | 毎日 | 58 | 2026-10-29 | 2026-11-04 | 2026-11-04 | MIT |
-| [gstack（Garry's Stack）](entries/agent-framework/garrytan-gstack.md) | 140,463 | 20,735 | — | 100+ | 2026-11-07 | 2026-11-07 | 2026-11-07 | MIT |
+| [gstack（Garry's Stack）](entries/agent-framework/garrytan-gstack.md) | 140,463 | 20,735 | 毎日 | 100+ | 2026-11-07 | 2026-11-07 | 2026-11-07 | MIT |
 | [paperclip](entries/agent-framework/paperclipai-paperclip.md) | 111,168 | 18,414 | 毎日 | 100+ | 2026-11-05 | 2026-11-05 | 2026-11-05 | MIT |
 | [Agent-Reach](entries/agent-framework/panniantong-agent-reach.md) | 108,885 | 9,726 | 毎日 | 98 | 2026-11-04 | 2026-11-05 | 2026-11-05 | MIT |
 | [Impeccable](entries/agent-framework/pbakaus-impeccable.md) | 102,748 | 6,075 | 毎日 | 100+ | 2026-11-04 | 2026-11-04 | 2026-11-04 | Apache-2.0 |
@@ -216,9 +216,9 @@
 | [World Intelligence MCP](entries/mcp-server/marc-shade-world-intel-mcp.md) | 1,063 | 177 | 毎日 | 100+ | 2026-10-18 | 2026-11-04 | 2026-11-04 | MIT |
 | [ExcelMcp（本物のExcelをCOM経由でAIに操作させるMCPサーバ／CLI）](entries/mcp-server/sbroenne-mcp-server-excel.md) | 853 | 106 | 毎日 | 100+ | 2026-11-05 | 2026-11-06 | 2026-11-06 | MIT |
 | [Graphicle（コードグラフと記憶を1つのMCPサーバでエージェントに渡すRust製ツール）](entries/mcp-server/graphicle-ai-graphicle.md) | 510 | 36 | 毎日 | 84 | 2026-11-05 | 2026-11-06 | 2026-11-06 | Apache-2.0 |
-| [pagesift](entries/mcp-server/yolow92-pagesift.md) ⚑ | 245 | 32 | 毎日 | 100+ | 2026-11-06 | 2026-11-06 | 2026-11-06 | AGPL-3.0 |
+| [pagesift](entries/mcp-server/yolow92-pagesift.md) ⚑ | 245 | 32 | 毎日 | 100+ | 2026-11-06 | 2026-11-06 | 2026-11-07 | AGPL-3.0 |
 
-### RAG・検索（6）
+### RAG・検索（5）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -227,7 +227,6 @@
 | [Local Deep Research](entries/rag/learningcircuit-local-deep-research.md) | 9,514 | 904 | 毎日 | 100+ | 2026-11-07 | 2026-11-07 | 2026-11-07 | MIT |
 | [DigUp](entries/rag/arahim3-digup.md) | 6,237 | 493 | 毎日 | 100+ | 2026-10-26 | 2026-11-04 | 2026-11-04 | MIT |
 | [OpenKB](entries/rag/vectifyai-openkb.md) | 4,849 | 503 | 停滞 | 0 | 2026-07-22 | 2026-11-04 | 2026-11-04 | Apache-2.0 |
-| [pagesift（Webと文書をMarkdown/JSONに落とすAGPLの自前ホスト型パーサ）](entries/rag/yolow92-pagesift.md) | 244 | 32 | 毎日 | 100+ | 2026-11-04 | 2026-11-06 | 2026-11-06 | AGPL-3.0（商用ライセンスあり） |
 
 ### コーディングエージェント（4）
 

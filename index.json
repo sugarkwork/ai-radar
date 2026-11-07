@@ -1,5 +1,5 @@
 {
-  "count": 226,
+  "count": 225,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -1715,7 +1715,7 @@
         "https://x.com/abir35627/status/2118648224202551573"
       ],
       "flags": [],
-      "risk_notes": "① Supabase は README と .env.full.example 上「画像の保存」用で、投稿本文の保存先ではない。使用済みリンクは LangGraph の BaseStore（namespace saved_data/latent_space）に置かれる。② README に ToS・レート制限の記述は無い。実効上限は X API / LinkedIn API の契約プラン側で決まり、Arcade 経由でも同一アカウントの枠を消費する。③ 設計上そのままでは自動投稿にならない。interrupt で人間の承認が入るため、cron を回しても承認待ちで滞留する。④ Arcade だけでは X のメディアアップロードができず、X 開発者アカウントが別途必要。⑤ LinkedIn 企業ページ投稿は Advertising API の有効化＋ページ側ロール＋ページによるアプリ認証＋審査フォーム提出が前提で、審査待ちが出る。⑥ プロンプト既定値は LangChain 自身の AI 系ツイートを few-shot にしているため、他社ブランドでは BUSINESS_CONTEXT / TWEET_EXAMPLES の差し替えが実質必須。⑦ package.json の name/description が starter template のまま（example-graph / \\\"A starter template for creating a LangGraph workflow\\\"）で、README との整備差がある。⑧ langgraph.json に14グラフ登録されており機能は多いが、読むべきコード量も多い。⑨ `langgraph:in_mem:up` は毎回 @langchain/langgraph-cli の最新を npx で取得するため初回に対話承諾が必要で、CLI バージョンが固定されない。⑩ フル構成の外部依存は Anthropic / LangSmith / FireCrawl / Arcade / X / LinkedIn / Supabase ＋任意で Vertex AI / GitHub / Slack と多く、キー管理の方が本体より重い。",
+      "risk_notes": "① Supabase は README と .env.full.example 上「画像の保存」用で、投稿本文の保存先ではない。使用済みリンクは LangGraph の BaseStore（namespace saved_data/latent_space）に置かれる。② README に ToS・レート制限の記述は無い。実効上限は X API / LinkedIn API の契約プラン側で決まり、Arcade 経由でも同一アカウントの枠を消費する。③ 設計上そのままでは自動投稿にならない。interrupt で人間の承認が入るため、cron を回しても承認待ちで滞留する。④ Arcade だけでは X のメディアアップロードができず、X 開発者アカウントが別途必要。⑤ LinkedIn 企業ページ投稿は Advertising API の有効化＋ページ側ロール＋ページによるアプリ認証＋審査フォーム提出が前提で、審査待ちが出る。⑥ プロンプト既定値は LangChain 自身の AI 系ツイートを few-shot にしているため、他社ブランドでは BUSINESS_CONTEXT / TWEET_EXAMPLES の差し替えが実質必須。⑦ package.json の name/description が starter template のまま（example-graph / \"A starter template for creating a LangGraph workflow\"）で、README との整備差がある。⑧ langgraph.json に14グラフ登録されており機能は多いが、読むべきコード量も多い。⑨ `langgraph:in_mem:up` は毎回 @langchain/langgraph-cli の最新を npx で取得するため初回に対話承諾が必要で、CLI バージョンが固定されない。⑩ フル構成の外部依存は Anthropic / LangSmith / FireCrawl / Arcade / X / LinkedIn / Supabase ＋任意で Vertex AI / GitHub / Slack と多く、キー管理の方が本体より重い。",
       "forks": 546,
       "open_issues": 23,
       "commits_30d": 26,
@@ -3396,7 +3396,7 @@
       "created": "2026-10-20",
       "updated": "2026-11-06",
       "added": "2026-11-06",
-      "first_seen": "2026-11-06",
+      "first_seen": "2026-11-05",
       "sources": [
         "https://x.com/Ryrenz/status/2118161886894080121"
       ],
@@ -4672,37 +4672,6 @@
       "summary": "生の文書（PDF / Word / Markdown / PowerPoint / HTML / Excel / CSV / テキスト / URL）を LLM で読み、要約・概念ページ・エンティティページ・相互リンクを持つ wiki 形式の知識ベースに「コンパイル」する CLI。"
     },
     {
-      "type": "repo",
-      "name": "pagesift（Webと文書をMarkdown/JSONに落とすAGPLの自前ホスト型パーサ）",
-      "genre": "rag",
-      "url": "https://github.com/YOLOW92/pagesift",
-      "repo": "YOLOW92/pagesift",
-      "license": "AGPL-3.0（商用ライセンスあり）",
-      "stars": 244,
-      "language": "Rust",
-      "created": "2026-10-20",
-      "updated": "2026-11-04",
-      "added": "2026-11-06",
-      "first_seen": "2026-11-05",
-      "sources": [
-        "https://x.com/Ryrenz/status/2118161886894080121"
-      ],
-      "flags": [],
-      "risk_notes": "ライセンスは AGPL-3.0。自前ホストしてネットワーク越しにサービスとして提供すると AGPL のソース開示義務が及びうるため、製品に組み込む場合は商用ライセンス（docs/COMMERCIAL.md）の検討が要る。速度・メモリの数値はすべてベンダー自身のベンチマークで、比較条件は docs/benchmarks.md にある。投稿の『PDF処理のピークメモリ32MB、Doclingは3.6GB以上』は README の『ブラウザ無しでワーカーあたり18〜377MB（OCRで式モデルを使う場合は約1.7GB）』という表記と水準が異なるので、数値は条件依存と見るべき。投稿も認めるとおり高速クロールは spider などに劣る。既定で robots.txt とレート制限に従うが、対象サイトの規約・著作権は利用者の責任。",
-      "forks": 32,
-      "open_issues": 0,
-      "commits_30d": 100,
-      "commit_cadence": "daily",
-      "size_kb": 41314,
-      "archived": false,
-      "fetched_at": "2026-11-06T09:14:17Z",
-      "last_release": "v1.1.2",
-      "last_release_at": "2026-11-04",
-      "commits_90d": 100,
-      "path": "entries/rag/yolow92-pagesift.md",
-      "summary": "入力は URL、HTML、**スキャンPDF（OCR）**、画像（OCR）、Word（.docx/.doc）、Excel（.xlsx/.xlsb/.xls）、PowerPoint（.pptx/.ppt）、OpenDocument、RTF、WordPerfect、HWP、EPUB、MOBI、FB2、メール（.eml/.m"
-    },
-    {
       "type": "model",
       "model": "openbmb/MiniCPM-V-4.7-1B",
       "name": "MiniCPM-V 4.7（1B・オンデバイス VLM）",
@@ -5041,7 +5010,7 @@
         "https://x.com/abir35627/status/2118648224202551573"
       ],
       "flags": [],
-      "risk_notes": "① このリポジトリは推論コードのみ。重みは HF の hexgrad/Kokoro-82M 側にあり、JS 実装は同リポジトリの kokoro.js/ サブディレクトリ（npm kokoro-js）。② 実質的にメンテ停止: 最終 push 2025-08-06、HF モデルカードの最終更新 2025-04-10、PyPI 0.9.4 は 2025-04-05、npm 1.2.1 は 2025-05-03、直近30日 commit 0、open issues 222。★9.9k は開発の活発さではなく配布実績（HF 月間約1,200万DL、npm 週約23万DL）の指標。③ kokoro-js の G2P は英語固定（phonemize.js が \\\"a\\\"→en-us、それ以外→en に落とす）。日本語・中国語などは Python + misaki が必須で、ブラウザ完結の多言語は不可。④ espeak-ng が OS 依存（Linux は apt、Windows は公式 msi）。無いと英語の辞書外フォールバックと一部言語が落ちる。⑤ Python 3.13 非対応（PyPI は >=3.10,<3.13、pyproject は <3.14 と表記が食い違う）。⑥ 声質のばらつきが大きい: VOICES.md が声ごとの学習時間を格付けしており、MM 分級（数十分）の声や F+ 評価の声もある。日本語は 5 声のみ。⑦ 重みは Apache-2.0 だが学習データに CC BY 3.0（Koniwa、1時間未満）と CC BY 4.0（SIWIS、11時間未満）が混在し、再配布時は帰属表示が必要。voices/*.pt 個別のライセンス条項は明示なし。⑧ 100〜500 トークンが最適で、10〜20 未満の短文と 400 超の長文で品質が落ちる。⑨ モデルカードが「kokoro を冠する類似ドメインは無関係の詐称サイト」と警告している。",
+      "risk_notes": "① このリポジトリは推論コードのみ。重みは HF の hexgrad/Kokoro-82M 側にあり、JS 実装は同リポジトリの kokoro.js/ サブディレクトリ（npm kokoro-js）。② 実質的にメンテ停止: 最終 push 2025-08-06、HF モデルカードの最終更新 2025-04-10、PyPI 0.9.4 は 2025-04-05、npm 1.2.1 は 2025-05-03、直近30日 commit 0、open issues 222。★9.9k は開発の活発さではなく配布実績（HF 月間約1,200万DL、npm 週約23万DL）の指標。③ kokoro-js の G2P は英語固定（phonemize.js が \"a\"→en-us、それ以外→en に落とす）。日本語・中国語などは Python + misaki が必須で、ブラウザ完結の多言語は不可。④ espeak-ng が OS 依存（Linux は apt、Windows は公式 msi）。無いと英語の辞書外フォールバックと一部言語が落ちる。⑤ Python 3.13 非対応（PyPI は >=3.10,<3.13、pyproject は <3.14 と表記が食い違う）。⑥ 声質のばらつきが大きい: VOICES.md が声ごとの学習時間を格付けしており、MM 分級（数十分）の声や F+ 評価の声もある。日本語は 5 声のみ。⑦ 重みは Apache-2.0 だが学習データに CC BY 3.0（Koniwa、1時間未満）と CC BY 4.0（SIWIS、11時間未満）が混在し、再配布時は帰属表示が必要。voices/*.pt 個別のライセンス条項は明示なし。⑧ 100〜500 トークンが最適で、10〜20 未満の短文と 400 超の長文で品質が落ちる。⑨ モデルカードが「kokoro を冠する類似ドメインは無関係の詐称サイト」と警告している。",
       "forks": 1113,
       "open_issues": 222,
       "commits_30d": 0,
@@ -5685,7 +5654,7 @@
         "https://x.com/heyrimsha/status/2118662273044807904"
       ],
       "flags": [],
-      "risk_notes": "ライセンスは二段構え。ルート LICENSE は MIT（著作権 Nate Herk）だが末尾に「AIS（AI Automation Society）のロゴ・ブランドガイドライン画像・ブランドトークンCSS・一部サンプルの内容は AIS の財産で再利用許諾なし」と明記され、GitHub API も spdx NOASSERTION を返す。pipeline 部分は licenses/PIPELINE-USE-PERMISSION.txt の独自許可、hyperframes/gsap/hyperframes-cli/hyperframes-registry/website-to-hyperframes の5スキルは heygen-com/hyperframes（Apache-2.0）からの取り込みで skills-lock.json にソースとハッシュが記録されている。商用利用時は AIS 素材の差し替えが必須（README もそう指示）。\\n\\n未解決のセキュリティ指摘：issue #16（2026-10-08、未対応・未クローズ）で motion-showreel/scripts/kie.mjs の upload() が --ref / --image のパスを検証せず、任意のローカルファイルを base64 で Kie.ai に送る点が報告されている。エージェントが読んだ文字起こしやWebページ経由のプロンプトインジェクションで資格情報を外部送信させ得る。Kie.ai を使わない構成なら影響は無いが、生成B-rollを使うなら注意。\\n\\nメンテ体制：作者は Nate Herk 1人。全14コミットが同一作者で、日付が固まって飛ぶ（2026-04-18 の初回、09-08 の統合、09-25〜09-28、10-13〜10-14）。2026-10-14 以降 push が無く、30日コミットは4。open 13件のうち11件は未マージPR（2026-09-11〜10-29、うち最新の PR #19 は「silence cut の ffmpeg 呼び出しをテストしていない」というギャップ指摘で、これは実際にこちらの検証でも core の ffmpeg 経路がテスト対象外だと確認できた）。コントリビューションは取り込まれていない前提で読むべき。\\n\\nサイズ：クローン実測 788MB（video-projects の既存12プロジェクト 287MB、examples/showcase の完成動画 111MB を含む）。npm ci は 139パッケージ・約1分、npm audit は 8件（high 6 / moderate 2）を devDependencies 側で報告。初回レンダーで HyperFrames が Chrome を別途取得する（約115MB）。\\n\\n既定の文字起こしは ElevenLabs Scribe で音声を外部送信し課金される。README/TOOLS-AND-API-KEYS.md は Whisper API・ローカル Whisper・既存の word-level JSON の持ち込みを代替として明記しており、切り分けは誠実。Kie.ai は任意。\\n\\n軽微：cut-silences.mjs が出力する ffmpegCommand 文字列が \\\"-/filter_complex\\\" になっており（280行目）、コピペ用のコマンドとしては不正。ffmpeg 9 は解釈するので動作に支障は無いが、生成されるレシピ文字列を誰も検証していないことの表れ。\\n\\nレンダーは Chrome 前提。CPU のみのコンテナでは 8秒 1080p のドラフトに 8分8秒かかった（GPU 環境なら大幅に短い）。",
+      "risk_notes": "ライセンスは二段構え。ルート LICENSE は MIT（著作権 Nate Herk）だが末尾に「AIS（AI Automation Society）のロゴ・ブランドガイドライン画像・ブランドトークンCSS・一部サンプルの内容は AIS の財産で再利用許諾なし」と明記され、GitHub API も spdx NOASSERTION を返す。pipeline 部分は licenses/PIPELINE-USE-PERMISSION.txt の独自許可、hyperframes/gsap/hyperframes-cli/hyperframes-registry/website-to-hyperframes の5スキルは heygen-com/hyperframes（Apache-2.0）からの取り込みで skills-lock.json にソースとハッシュが記録されている。商用利用時は AIS 素材の差し替えが必須（README もそう指示）。\n\n未解決のセキュリティ指摘：issue #16（2026-10-08、未対応・未クローズ）で motion-showreel/scripts/kie.mjs の upload() が --ref / --image のパスを検証せず、任意のローカルファイルを base64 で Kie.ai に送る点が報告されている。エージェントが読んだ文字起こしやWebページ経由のプロンプトインジェクションで資格情報を外部送信させ得る。Kie.ai を使わない構成なら影響は無いが、生成B-rollを使うなら注意。\n\nメンテ体制：作者は Nate Herk 1人。全14コミットが同一作者で、日付が固まって飛ぶ（2026-04-18 の初回、09-08 の統合、09-25〜09-28、10-13〜10-14）。2026-10-14 以降 push が無く、30日コミットは4。open 13件のうち11件は未マージPR（2026-09-11〜10-29、うち最新の PR #19 は「silence cut の ffmpeg 呼び出しをテストしていない」というギャップ指摘で、これは実際にこちらの検証でも core の ffmpeg 経路がテスト対象外だと確認できた）。コントリビューションは取り込まれていない前提で読むべき。\n\nサイズ：クローン実測 788MB（video-projects の既存12プロジェクト 287MB、examples/showcase の完成動画 111MB を含む）。npm ci は 139パッケージ・約1分、npm audit は 8件（high 6 / moderate 2）を devDependencies 側で報告。初回レンダーで HyperFrames が Chrome を別途取得する（約115MB）。\n\n既定の文字起こしは ElevenLabs Scribe で音声を外部送信し課金される。README/TOOLS-AND-API-KEYS.md は Whisper API・ローカル Whisper・既存の word-level JSON の持ち込みを代替として明記しており、切り分けは誠実。Kie.ai は任意。\n\n軽微：cut-silences.mjs が出力する ffmpegCommand 文字列が \"-/filter_complex\" になっており（280行目）、コピペ用のコマンドとしては不正。ffmpeg 9 は解釈するので動作に支障は無いが、生成されるレシピ文字列を誰も検証していないことの表れ。\n\nレンダーは Chrome 前提。CPU のみのコンテナでは 8秒 1080p のドラフトに 8分8秒かかった（GPU 環境なら大幅に短い）。",
       "forks": 635,
       "open_issues": 13,
       "commits_30d": 4,
