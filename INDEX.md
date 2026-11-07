@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 217 件 — リポジトリ 174, リンク集 21, モデル 16, 記事 2, プロンプト 4 / ⚑ 要確認 19 件
+収録 218 件 — リポジトリ 175, リンク集 21, モデル 16, 記事 2, プロンプト 4 / ⚑ 要確認 19 件
 
-## リポジトリ（174）
+## リポジトリ（175）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -50,7 +50,7 @@
 | [BetterSearch](entries/agent-framework/ry0narushima-bettersearch.md) | 40 | 4 | 週次 | 10 | 2026-10-18 | 2026-11-03 | 2026-11-03 | MIT |
 | [web-api-skills](entries/agent-framework/oxylabs-web-api-skills.md) | 11 | 1 | 月次 | 3 | 2026-10-13 | 2026-11-03 | 2026-11-03 | MIT |
 
-### 動画生成パイプライン（33）
+### 動画生成パイプライン（34）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -69,6 +69,7 @@
 | [shuohao-skills](entries/video-gen/eternityspring-shuohao-skills.md) | 6,003 | 833 | 週次 | 19 | 2026-10-26 | 2026-11-04 | 2026-11-04 | Apache-2.0 |
 | [AI YouTube Shorts Generator](entries/video-gen/anil-matcha-ai-youtube-shorts-generator.md) | 5,788 | 1,054 | 週次 | 5 | 2026-11-06 | 2026-11-07 | 2026-11-07 | MIT |
 | [FastVideo](entries/video-gen/hao-ai-lab-fastvideo.md) | 4,780 | 519 | 毎日 | 100+ | 2026-11-04 | 2026-11-04 | 2026-11-04 | Apache-2.0 |
+| [ffmpeg-skill — コーディングエージェントに渡すローカル動画編集ツール42本](entries/video-gen/kajisho5-ffmpeg-skill.md) | 4,672 | 379 | 毎日 | 100+ | 2026-11-06 | 2026-11-07 | 2026-11-07 | MIT |
 | [vox-director](entries/video-gen/alisa0808-vox-director.md) | 2,608 | 365 | 月次 | 1 | 2026-10-05 | 2026-11-04 | 2026-11-04 | MIT |
 | [huashu-motion（花叔）](entries/video-gen/alchaincyf-huashu-motion.md) | 2,205 | 215 | 週次 | 15 | 2026-10-22 | 2026-11-03 | 2026-11-03 | MIT |
 | [Animate](entries/video-gen/cth9191-animate.md) | 1,441 | 186 | 月次 | 1 | 2026-10-05 | 2026-11-03 | 2026-11-03 | MIT |
@@ -117,23 +118,23 @@
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
-| [Freqtrade](entries/finance-quant/freqtrade-freqtrade.md) | 56,500 | 11,676 | 毎日 | 100+ | 2026-11-05 | 2026-11-05 |  | GPL-3.0 |
-| [Kronos](entries/finance-quant/shiyu-coder-kronos.md) | 46,488 | 7,660 | 停滞 | 0 | 2026-04-13 | 2026-11-03 |  | MIT |
-| [CCXT](entries/finance-quant/ccxt-ccxt.md) | 44,774 | 8,956 | 毎日 | 100+ | 2026-11-06 | 2026-11-06 |  | MIT |
-| [awesome-quant](entries/finance-quant/wilsonfreitas-awesome-quant.md) | 30,453 | 4,291 | 毎日 | 57 | 2026-11-03 | 2026-11-03 |  | unknown |
-| [backtrader](entries/finance-quant/mementum-backtrader.md) | 23,666 | 5,320 | 停滞 | 0 | 2024-08-19 | 2026-11-04 |  | GPL-3.0 |
-| [machine-learning-for-trading](entries/finance-quant/stefan-jansen-machine-learning-for-trading.md) | 21,712 | 5,758 | 毎日 | 32 | 2026-11-03 | 2026-11-04 |  | MIT |
-| [Zipline (Quantopian)](entries/finance-quant/quantopian-zipline.md) | 20,200 | 5,056 | 停滞 | 0 | 2024-02-13 | 2026-11-04 |  | Apache-2.0 |
-| [Lightweight Charts](entries/finance-quant/tradingview-lightweight-charts.md) | 17,788 | 2,694 | 毎日 | 63 | 2026-11-06 | 2026-11-06 |  | Apache-2.0 |
-| [TA-Lib Python](entries/finance-quant/ta-lib-ta-lib-python.md) | 12,369 | 2,003 | 毎日 | 38 | 2026-11-05 | 2026-11-05 |  | BSD-2-Clause |
-| [quant-trading](entries/finance-quant/je-suis-tm-quant-trading.md) | 11,190 | 1,954 | 停滞 | 0 | 2026-06-20 | 2026-11-03 |  | Apache-2.0 |
-| [vectorbt](entries/finance-quant/polakowo-vectorbt.md) | 9,692 | 1,258 | 毎日 | 53 | 2026-11-03 | 2026-11-05 |  | Apache-2.0 + Commons Clause（販売不可） |
-| [QuantStats](entries/finance-quant/ranaroussi-quantstats.md) | 7,798 | 1,272 | 月次 | 1 | 2026-11-02 | 2026-11-05 |  | Apache-2.0 |
-| [cryptofeed](entries/finance-quant/bmoscon-cryptofeed.md) | 2,976 | 783 | 毎日 | 50 | 2026-11-06 | 2026-11-06 |  | AGPL-3.0 |
-| [skfolio](entries/finance-quant/skfolio-skfolio.md) | 2,593 | 301 | 毎日 | 87 | 2026-10-29 | 2026-11-05 |  | BSD-3-Clause |
-| [QuantSkills](entries/finance-quant/quantskills-quantskills.md) | 2,538 | 229 | 毎日 | 61 | 2026-11-04 | 2026-11-04 |  | unknown |
-| [serenity-stock-choke](entries/finance-quant/fadewalk-serenity-stock-choke.md) | 508 | 56 | 週次 | 4 | 2026-10-06 | 2026-11-05 |  | MIT |
-| [A-Share Quant Selector](entries/finance-quant/dzy-hw-xd-a-share-quant-selector.md) | 506 | 107 | 停滞 | 0 | 2026-09-08 | 2026-11-05 |  | MIT |
+| [Freqtrade](entries/finance-quant/freqtrade-freqtrade.md) | 56,500 | 11,676 | 毎日 | 100+ | 2026-11-05 | 2026-11-05 | 2026-11-07 | GPL-3.0 |
+| [Kronos](entries/finance-quant/shiyu-coder-kronos.md) | 46,488 | 7,660 | 停滞 | 0 | 2026-04-13 | 2026-11-03 | 2026-11-07 | MIT |
+| [CCXT](entries/finance-quant/ccxt-ccxt.md) | 44,774 | 8,956 | 毎日 | 100+ | 2026-11-06 | 2026-11-06 | 2026-11-07 | MIT |
+| [awesome-quant](entries/finance-quant/wilsonfreitas-awesome-quant.md) | 30,453 | 4,291 | 毎日 | 57 | 2026-11-03 | 2026-11-03 | 2026-11-07 | unknown |
+| [backtrader](entries/finance-quant/mementum-backtrader.md) | 23,666 | 5,320 | 停滞 | 0 | 2024-08-19 | 2026-11-04 | 2026-11-07 | GPL-3.0 |
+| [machine-learning-for-trading](entries/finance-quant/stefan-jansen-machine-learning-for-trading.md) | 21,712 | 5,758 | 毎日 | 32 | 2026-11-03 | 2026-11-04 | 2026-11-07 | MIT |
+| [Zipline (Quantopian)](entries/finance-quant/quantopian-zipline.md) | 20,200 | 5,056 | 停滞 | 0 | 2024-02-13 | 2026-11-04 | 2026-11-07 | Apache-2.0 |
+| [Lightweight Charts](entries/finance-quant/tradingview-lightweight-charts.md) | 17,788 | 2,694 | 毎日 | 63 | 2026-11-06 | 2026-11-06 | 2026-11-07 | Apache-2.0 |
+| [TA-Lib Python](entries/finance-quant/ta-lib-ta-lib-python.md) | 12,369 | 2,003 | 毎日 | 38 | 2026-11-05 | 2026-11-05 | 2026-11-07 | BSD-2-Clause |
+| [quant-trading](entries/finance-quant/je-suis-tm-quant-trading.md) | 11,190 | 1,954 | 停滞 | 0 | 2026-06-20 | 2026-11-03 | 2026-11-07 | Apache-2.0 |
+| [vectorbt](entries/finance-quant/polakowo-vectorbt.md) | 9,692 | 1,258 | 毎日 | 53 | 2026-11-03 | 2026-11-05 | 2026-11-07 | Apache-2.0 + Commons Clause（販売不可） |
+| [QuantStats](entries/finance-quant/ranaroussi-quantstats.md) | 7,798 | 1,272 | 月次 | 1 | 2026-11-02 | 2026-11-05 | 2026-11-07 | Apache-2.0 |
+| [cryptofeed](entries/finance-quant/bmoscon-cryptofeed.md) | 2,976 | 783 | 毎日 | 50 | 2026-11-06 | 2026-11-06 | 2026-11-07 | AGPL-3.0 |
+| [skfolio](entries/finance-quant/skfolio-skfolio.md) | 2,593 | 301 | 毎日 | 87 | 2026-10-29 | 2026-11-05 | 2026-11-07 | BSD-3-Clause |
+| [QuantSkills](entries/finance-quant/quantskills-quantskills.md) | 2,538 | 229 | 毎日 | 61 | 2026-11-04 | 2026-11-04 | 2026-11-07 | unknown |
+| [serenity-stock-choke](entries/finance-quant/fadewalk-serenity-stock-choke.md) | 508 | 56 | 週次 | 4 | 2026-10-06 | 2026-11-05 | 2026-11-07 | MIT |
+| [A-Share Quant Selector](entries/finance-quant/dzy-hw-xd-a-share-quant-selector.md) | 506 | 107 | 停滞 | 0 | 2026-09-08 | 2026-11-05 | 2026-11-07 | MIT |
 
 ### 音声・TTS（15）
 
@@ -193,14 +194,14 @@
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
-| [Agent Sprite Forge](entries/image-gen/0x0funky-agent-sprite-forge.md) ⚑ | 5,316 | 517 | 月次 | 3 | 2026-11-06 | 2026-11-06 |  | MIT |
-| [pixelfx](entries/image-gen/patch-gg-pixelfx.md) | 3,966 | 543 | 週次 | 8 | 2026-10-31 | 2026-11-03 |  | MIT |
-| [FLUX.2](entries/image-gen/black-forest-labs-flux2.md) | 2,842 | 220 | 停滞 | 0 | 2026-03-12 | 2026-11-07 |  | Apache-2.0 |
-| [Qwen-Image-2.1](entries/image-gen/qwenlm-qwen-image-2.1.md) | 2,172 | 157 | 月次 | 6 | 2026-11-06 | 2026-11-06 |  | NOASSERTION |
-| [ComfyUI AICG3D PoseSwap](entries/image-gen/jgrfw-comfyui-pose-swap.md) | 148 | 24 | 週次 | 7 | 2026-11-01 | 2026-11-06 |  | MIT |
-| [Iris-3B Metal](entries/image-gen/tky-27-iris-3b-metal.md) | 57 | 2 | 毎日 | 77 | 2026-10-19 | 2026-11-04 |  | Apache-2.0 |
-| [ComfyUI-MossPanelDataset](entries/image-gen/sepiablue-ai-comfyui-mosspaneldataset.md) | 39 | 5 | 週次 | 18 | 2026-11-06 | 2026-11-06 |  | MIT |
-| [ComfyUI Prompt Atelier](entries/image-gen/renz1998-comfyui-prompt-atelier.md) | 2 | 0 | 毎日 | 33 | 2026-11-06 | 2026-11-06 |  | GPL-3.0 |
+| [Agent Sprite Forge](entries/image-gen/0x0funky-agent-sprite-forge.md) ⚑ | 5,316 | 517 | 月次 | 3 | 2026-11-06 | 2026-11-06 | 2026-11-07 | MIT |
+| [pixelfx](entries/image-gen/patch-gg-pixelfx.md) | 3,966 | 543 | 週次 | 8 | 2026-10-31 | 2026-11-03 | 2026-11-07 | MIT |
+| [FLUX.2](entries/image-gen/black-forest-labs-flux2.md) | 2,842 | 220 | 停滞 | 0 | 2026-03-12 | 2026-11-07 | 2026-11-07 | Apache-2.0 |
+| [Qwen-Image-2.1](entries/image-gen/qwenlm-qwen-image-2.1.md) | 2,172 | 157 | 月次 | 6 | 2026-11-06 | 2026-11-06 | 2026-11-07 | NOASSERTION |
+| [ComfyUI AICG3D PoseSwap](entries/image-gen/jgrfw-comfyui-pose-swap.md) | 148 | 24 | 週次 | 7 | 2026-11-01 | 2026-11-06 | 2026-11-07 | MIT |
+| [Iris-3B Metal](entries/image-gen/tky-27-iris-3b-metal.md) | 57 | 2 | 毎日 | 77 | 2026-10-19 | 2026-11-04 | 2026-11-07 | Apache-2.0 |
+| [ComfyUI-MossPanelDataset](entries/image-gen/sepiablue-ai-comfyui-mosspaneldataset.md) | 39 | 5 | 週次 | 18 | 2026-11-06 | 2026-11-06 | 2026-11-07 | MIT |
+| [ComfyUI Prompt Atelier](entries/image-gen/renz1998-comfyui-prompt-atelier.md) | 2 | 0 | 毎日 | 33 | 2026-11-06 | 2026-11-06 | 2026-11-07 | GPL-3.0 |
 
 ### MCPサーバー（6）
 

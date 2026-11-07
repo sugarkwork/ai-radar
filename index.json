@@ -1,5 +1,5 @@
 {
-  "count": 217,
+  "count": 218,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -5466,6 +5466,36 @@
       "type": "repo",
       "path": "entries/video-gen/hao-ai-lab-fastvideo.md",
       "summary": "動画生成モデルの**推論高速化とポストトレーニング**をまとめたフレームワーク。distillation・量子化・並列化を同じインターフェースで扱う。"
+    },
+    {
+      "type": "repo",
+      "name": "ffmpeg-skill — コーディングエージェントに渡すローカル動画編集ツール42本",
+      "genre": "video-gen",
+      "url": "https://github.com/kajisho5/ffmpeg-skill",
+      "repo": "kajisho5/ffmpeg-skill",
+      "license": "MIT",
+      "stars": 4672,
+      "language": "Python",
+      "created": "2026-09-03",
+      "updated": "2026-11-06",
+      "added": "2026-11-07",
+      "first_seen": "2026-11-07",
+      "sources": [
+        "https://x.com/heyrimsha/status/2118662273044807904"
+      ],
+      "flags": [],
+      "risk_notes": "実装は本物で、こちらで npx 導入→contract 42件→fit/check/look まで通したが、リスクは3点。(1) 実質ひとり開発：コミット270件が作者 kajisho5、146件が github-actions[bot]、53件が claude[bot]（2026-11-07 時点の contributors）。バス係数1で、方針変更やメンテ停止がそのまま影響する。(2) 壊しやすい速度：作成から2か月で 2.0.0 と 3.0.0 の2回の破壊的変更（--crf 廃止、FFmpeg 5.x / Python 3.9 切り捨て、cut.py の edit list・HEVC 保持の既定変更）。main 追従は危険で、タグ／npm バージョンで固定すべきと README 自身が書いている。(3) 数字の読み方：作成2か月で stars 4672・forks 379 に対し watchers 7。npm 週9,077DLと利用の実体はあるが、この stars 数を品質の裏付けとして扱わない。加えて README は作者の10本以上の姉妹リポジトリ（video-production-agent / remotion-ffmpeg-skill / qc-skill 等）への導線を兼ねており、宣伝面が大きい。macOS の素の Homebrew ffmpeg は libass/zscale を欠き doctor の ok が false になる（ffmpeg-full 前提）。リポジトリは 37MB で docs/demos の比重が大きい。",
+      "forks": 379,
+      "open_issues": 15,
+      "commits_30d": 100,
+      "commit_cadence": "daily",
+      "size_kb": 37273,
+      "archived": false,
+      "fetched_at": "2026-11-07T01:21:00Z",
+      "last_release": "v3.2.0",
+      "last_release_at": "2026-11-06",
+      "path": "entries/video-gen/kajisho5-ffmpeg-skill.md",
+      "summary": "分析：probe.py が長さ・fps（VFR判定込み）・解像度・回転・色・HDR形式（Dolby Vision 含む）・全音声ストリームを測る。scenes.py はシーン変化・音のピーク・ビート・ショット種別（静止/パン/モーション）、cropdetect.py は黒帯の実測、look.py はコンタクトシートPN"
     },
     {
       "repo": "Alisa0808/vox-director",
