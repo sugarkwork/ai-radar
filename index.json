@@ -1,5 +1,5 @@
 {
-  "count": 226,
+  "count": 227,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -3250,6 +3250,28 @@
       "source_post": "https://x.com/KBlueleaf/status/2116459910347313274",
       "path": "links/link-service/chat.z.ai-z.ai-chat.z.ai.md",
       "summary": "Z.ai（Zhipu AI）のチャット/エージェント画面。GLM-5.3 系をブラウザで試し、同じモデルを API 経由でエージェントから呼ぶための入口。"
+    },
+    {
+      "name": "treg REA growth",
+      "genre": "link-service",
+      "url": "https://treg.to/rea-growth",
+      "author": "superdesigndev（Superdesign Dev Pty Ltd）",
+      "pricing": "freemium",
+      "pricing_detail": "$1.00 の初回無料クレジット後は前払い残高からの従量課金。プロバイダ実費でマークアップ0%、サブスク・席課金なし。例: Douyin 286 tools が $0.001/call から、People & contact 284 tools が $0.0001/success から、TikTok 192 tools が $0.00035/success から。自前キー・自チームのツール・接続アカウントは課金なし（2026-11-07 時点）",
+      "signup_required": true,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "未確認: 無料クレジット取得にカード登録や本人確認が必要か、verified account の条件、表示価格の税・通貨換算。料金はプロバイダのレート次第で変動し、$0.58 や各レートは 2026-11 時点の掲載値。ショーケース（Lovable の被リンク数・流入推定など）はベンダー自身の実行記録で、第三者の追試はない。当方ではスキルを実行しておらず出力品質は未検証。X 連携は treg の X アプリ経由だと自前キーでも従量課金。GitHub API の license は NOASSERTION だが LICENSE 本文は Apache-2.0。",
+      "type": "link",
+      "added": "2026-11-07",
+      "first_seen": "2026-11-07",
+      "sources": [
+        "https://x.com/MengTo/status/2118384737626857724"
+      ],
+      "fetched_at": "2026-11-07T15:47:12Z",
+      "path": "links/link-service/treg.to-treg-rea-growth.md",
+      "summary": "treg.to は「エージェント向けツールの OpenRouter」を名乗る従量課金の API ゲートウェイ。1 つのトークンで 126 プロバイダ・4,100+ のツール（SEO/SERP、被リンク、SNS 投稿、人物・企業情報、広告ライブラリ、スクレイピング、画像/動画/音声生成）を、プロバイダごとの契約なしで呼べ"
     },
     {
       "repo": "D4Vinci/Scrapling",
