@@ -1,7 +1,7 @@
 ---
 repo: "Dzy-HW-XD/a-share-quant-selector"
 name: "A-Share Quant Selector"
-genre: other
+genre: finance-quant
 url: "https://github.com/Dzy-HW-XD/a-share-quant-selector"
 license: "MIT"
 stars: 506

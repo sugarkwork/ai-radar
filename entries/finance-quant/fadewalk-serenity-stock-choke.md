@@ -1,7 +1,7 @@
 ---
 repo: "fadewalk/serenity-stock-choke"
 name: "serenity-stock-choke"
-genre: other
+genre: finance-quant
 url: "https://github.com/fadewalk/serenity-stock-choke"
 license: "MIT"
 stars: 508

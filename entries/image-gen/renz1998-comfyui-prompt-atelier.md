@@ -1,7 +1,7 @@
 ---
 repo: Renz1998/ComfyUI-Prompt-Atelier
 name: ComfyUI Prompt Atelier
-genre: other
+genre: image-gen
 url: https://github.com/Renz1998/ComfyUI-Prompt-Atelier
 license: GPL-3.0
 stars: 2

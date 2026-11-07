@@ -1,7 +1,7 @@
 ---
 repo: ranaroussi/quantstats
 name: QuantStats
-genre: other
+genre: finance-quant
 url: https://github.com/ranaroussi/quantstats
 license: Apache-2.0
 stars: 7798

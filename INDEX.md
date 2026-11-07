@@ -50,48 +50,6 @@
 | [BetterSearch](entries/agent-framework/ry0narushima-bettersearch.md) | 40 | 4 | 週次 | 10 | 2026-10-18 | 2026-11-03 | 2026-11-03 | MIT |
 | [web-api-skills](entries/agent-framework/oxylabs-web-api-skills.md) | 11 | 1 | 月次 | 3 | 2026-10-13 | 2026-11-03 | 2026-11-03 | MIT |
 
-### その他（37）
-
-| 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
-|---|---:|---:|---|---:|---|---|---|---|
-| [career-ops](entries/other/career-ops-hq-career-ops.md) | 80,446 | 14,799 | 毎日 | 100+ | 2026-11-05 | 2026-11-05 | 2026-11-05 | MIT |
-| [MediaCrawler](entries/other/nanmicoder-mediacrawler.md) | 70,399 | 13,343 | 週次 | 17 | 2026-11-06 | 2026-11-06 | 2026-11-06 | 未確認（API は NOASSERTION、標準ライセンスファイル無し） |
-| [Freqtrade](entries/other/freqtrade-freqtrade.md) | 56,500 | 11,676 | 毎日 | 100+ | 2026-11-05 | 2026-11-05 | 2026-11-05 | GPL-3.0 |
-| [Kronos](entries/other/shiyu-coder-kronos.md) | 46,488 | 7,660 | 停滞 | 0 | 2026-04-13 | 2026-11-03 | 2026-11-03 | MIT |
-| [CCXT](entries/other/ccxt-ccxt.md) | 44,774 | 8,956 | 毎日 | 100+ | 2026-11-06 | 2026-11-06 | 2026-11-06 | MIT |
-| [DuckDB](entries/other/duckdb-duckdb.md) | 42,850 | 4,163 | 毎日 | 100+ | 2026-11-05 | 2026-11-05 | 2026-11-05 | MIT |
-| [Heretic](entries/other/p-e-w-heretic.md) | 39,338 | 4,441 | 毎日 | 25 | 2026-11-03 | 2026-11-04 | 2026-11-04 | AGPL-3.0 |
-| [OfficeCLI](entries/other/iofficeai-officecli.md) | 33,059 | 2,252 | 毎日 | 99 | 2026-10-30 | 2026-11-05 | 2026-11-05 | Apache-2.0 |
-| [awesome-quant](entries/other/wilsonfreitas-awesome-quant.md) | 30,453 | 4,291 | 毎日 | 57 | 2026-11-03 | 2026-11-03 | 2026-11-03 | unknown |
-| [backtrader](entries/other/mementum-backtrader.md) | 23,666 | 5,320 | 停滞 | 0 | 2024-08-19 | 2026-11-04 | 2026-11-04 | GPL-3.0 |
-| [machine-learning-for-trading](entries/other/stefan-jansen-machine-learning-for-trading.md) | 21,712 | 5,758 | 毎日 | 32 | 2026-11-03 | 2026-11-04 | 2026-11-04 | MIT |
-| [Zipline (Quantopian)](entries/other/quantopian-zipline.md) | 20,200 | 5,056 | 停滞 | 0 | 2024-02-13 | 2026-11-04 | 2026-11-04 | Apache-2.0 |
-| [Lightweight Charts](entries/other/tradingview-lightweight-charts.md) | 17,788 | 2,694 | 毎日 | 63 | 2026-11-06 | 2026-11-06 | 2026-11-06 | Apache-2.0 |
-| [TA-Lib Python](entries/other/ta-lib-ta-lib-python.md) | 12,369 | 2,003 | 毎日 | 38 | 2026-11-05 | 2026-11-05 | 2026-11-05 | BSD-2-Clause |
-| [Horizon](entries/other/thysrael-horizon.md) | 12,260 | 1,790 | 毎日 | 31 | 2026-11-03 | 2026-11-03 | 2026-11-03 | MIT |
-| [quant-trading](entries/other/je-suis-tm-quant-trading.md) | 11,190 | 1,954 | 停滞 | 0 | 2026-06-20 | 2026-11-03 | 2026-11-03 | Apache-2.0 |
-| [vectorbt](entries/other/polakowo-vectorbt.md) | 9,692 | 1,258 | 毎日 | 53 | 2026-11-03 | 2026-11-05 | 2026-11-05 | Apache-2.0 + Commons Clause（販売不可） |
-| [OBLITERATUS](entries/other/elder-plinius-obliteratus.md) | 9,189 | 1,625 | 毎日 | 100+ | 2026-11-05 | 2026-11-06 | 2026-11-06 | AGPL-3.0 |
-| [QuantStats](entries/other/ranaroussi-quantstats.md) | 7,798 | 1,272 | 月次 | 1 | 2026-11-02 | 2026-11-05 | 2026-11-05 | Apache-2.0 |
-| [APScheduler](entries/other/agronholm-apscheduler.md) | 7,685 | 819 | 週次 | 7 | 2026-10-26 | 2026-11-05 | 2026-11-05 | MIT |
-| [Agent Sprite Forge](entries/other/0x0funky-agent-sprite-forge.md) ⚑ | 5,316 | 517 | 月次 | 3 | 2026-11-06 | 2026-11-06 | 2026-11-06 | MIT |
-| [Sandstorm（アイドル状態のエージェントsandboxをスナップショットして1台に数千個載せる）](entries/other/deeplethe-sandstorm.md) | 5,124 | 403 | 毎日 | 100+ | 2026-11-01 | 2026-11-06 | 2026-11-06 | Apache-2.0 |
-| [pixelfx](entries/other/patch-gg-pixelfx.md) | 3,966 | 543 | 週次 | 8 | 2026-10-31 | 2026-11-03 | 2026-11-03 | MIT |
-| [cryptofeed](entries/other/bmoscon-cryptofeed.md) | 2,976 | 783 | 毎日 | 50 | 2026-11-06 | 2026-11-06 | 2026-11-06 | AGPL-3.0 |
-| [FLUX.2](entries/other/black-forest-labs-flux2.md) | 2,842 | 220 | 停滞 | 0 | 2026-03-12 | 2026-11-07 | 2026-11-07 | Apache-2.0 |
-| [skfolio](entries/other/skfolio-skfolio.md) | 2,593 | 301 | 毎日 | 87 | 2026-10-29 | 2026-11-05 | 2026-11-05 | BSD-3-Clause |
-| [QuantSkills](entries/other/quantskills-quantskills.md) | 2,538 | 229 | 毎日 | 61 | 2026-11-04 | 2026-11-04 | 2026-11-04 | unknown |
-| [Qwen-Image-2.1](entries/other/qwenlm-qwen-image-2.1.md) | 2,172 | 157 | 月次 | 6 | 2026-11-06 | 2026-11-06 | 2026-11-06 | NOASSERTION |
-| [awesome-reverse-engineering](entries/other/morluto-awesome-reverse-engineering.md) | 1,723 | 385 | 毎日 | 100+ | 2026-10-30 | 2026-11-04 | 2026-11-04 | CC0-1.0 |
-| [WeVisOne-VL](entries/other/tencent-wevisone-vl.md) | 676 | 56 | 月次 | 3 | 2026-10-25 | 2026-11-03 | 2026-11-03 | Apache-2.0（Tencent 著作部分） |
-| [DSH 破甲ワークフロー（dsh-jailbreak-workflow）](entries/other/minglink-dsh-jailbreak-workflow.md) ⚑ | 581 | 206 | 週次 | 17 | 2026-11-04 | 2026-11-04 | 2026-11-04 | 未確認（API は NOASSERTION、標準ライセンスファイル無し） |
-| [serenity-stock-choke](entries/other/fadewalk-serenity-stock-choke.md) | 508 | 56 | 週次 | 4 | 2026-10-06 | 2026-11-05 | 2026-11-05 | MIT |
-| [A-Share Quant Selector](entries/other/dzy-hw-xd-a-share-quant-selector.md) | 506 | 107 | 停滞 | 0 | 2026-09-08 | 2026-11-05 | 2026-11-05 | MIT |
-| [ComfyUI AICG3D PoseSwap](entries/other/jgrfw-comfyui-pose-swap.md) | 148 | 24 | 週次 | 7 | 2026-11-01 | 2026-11-06 | 2026-11-06 | MIT |
-| [Iris-3B Metal](entries/other/tky-27-iris-3b-metal.md) | 57 | 2 | 毎日 | 77 | 2026-10-19 | 2026-11-04 | 2026-11-04 | Apache-2.0 |
-| [ComfyUI-MossPanelDataset](entries/other/sepiablue-ai-comfyui-mosspaneldataset.md) | 39 | 5 | 週次 | 18 | 2026-11-06 | 2026-11-06 | 2026-11-06 | MIT |
-| [ComfyUI Prompt Atelier](entries/other/renz1998-comfyui-prompt-atelier.md) | 2 | 0 | 毎日 | 33 | 2026-11-06 | 2026-11-06 | 2026-11-06 | GPL-3.0 |
-
 ### 動画生成パイプライン（33）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
@@ -155,6 +113,28 @@
 | [VRMkimodo](entries/3d-motion/camenduru-vrmkimodo.md) ⚑ | 15 | 1 | 毎日 | 21 | 2026-11-05 | 2026-11-06 | 2026-11-06 | Apache-2.0 |
 | [VRMExMR](entries/3d-motion/camenduru-vrmexmr.md) ⚑ | 13 | 0 | 毎日 | 39 | 2026-11-05 | 2026-11-06 | 2026-11-06 | 未確認（API は NOASSERTION。ExMR 側の条件を確認） |
 
+### 金融・クオンツ（17）
+
+| 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
+|---|---:|---:|---|---:|---|---|---|---|
+| [Freqtrade](entries/finance-quant/freqtrade-freqtrade.md) | 56,500 | 11,676 | 毎日 | 100+ | 2026-11-05 | 2026-11-05 |  | GPL-3.0 |
+| [Kronos](entries/finance-quant/shiyu-coder-kronos.md) | 46,488 | 7,660 | 停滞 | 0 | 2026-04-13 | 2026-11-03 |  | MIT |
+| [CCXT](entries/finance-quant/ccxt-ccxt.md) | 44,774 | 8,956 | 毎日 | 100+ | 2026-11-06 | 2026-11-06 |  | MIT |
+| [awesome-quant](entries/finance-quant/wilsonfreitas-awesome-quant.md) | 30,453 | 4,291 | 毎日 | 57 | 2026-11-03 | 2026-11-03 |  | unknown |
+| [backtrader](entries/finance-quant/mementum-backtrader.md) | 23,666 | 5,320 | 停滞 | 0 | 2024-08-19 | 2026-11-04 |  | GPL-3.0 |
+| [machine-learning-for-trading](entries/finance-quant/stefan-jansen-machine-learning-for-trading.md) | 21,712 | 5,758 | 毎日 | 32 | 2026-11-03 | 2026-11-04 |  | MIT |
+| [Zipline (Quantopian)](entries/finance-quant/quantopian-zipline.md) | 20,200 | 5,056 | 停滞 | 0 | 2024-02-13 | 2026-11-04 |  | Apache-2.0 |
+| [Lightweight Charts](entries/finance-quant/tradingview-lightweight-charts.md) | 17,788 | 2,694 | 毎日 | 63 | 2026-11-06 | 2026-11-06 |  | Apache-2.0 |
+| [TA-Lib Python](entries/finance-quant/ta-lib-ta-lib-python.md) | 12,369 | 2,003 | 毎日 | 38 | 2026-11-05 | 2026-11-05 |  | BSD-2-Clause |
+| [quant-trading](entries/finance-quant/je-suis-tm-quant-trading.md) | 11,190 | 1,954 | 停滞 | 0 | 2026-06-20 | 2026-11-03 |  | Apache-2.0 |
+| [vectorbt](entries/finance-quant/polakowo-vectorbt.md) | 9,692 | 1,258 | 毎日 | 53 | 2026-11-03 | 2026-11-05 |  | Apache-2.0 + Commons Clause（販売不可） |
+| [QuantStats](entries/finance-quant/ranaroussi-quantstats.md) | 7,798 | 1,272 | 月次 | 1 | 2026-11-02 | 2026-11-05 |  | Apache-2.0 |
+| [cryptofeed](entries/finance-quant/bmoscon-cryptofeed.md) | 2,976 | 783 | 毎日 | 50 | 2026-11-06 | 2026-11-06 |  | AGPL-3.0 |
+| [skfolio](entries/finance-quant/skfolio-skfolio.md) | 2,593 | 301 | 毎日 | 87 | 2026-10-29 | 2026-11-05 |  | BSD-3-Clause |
+| [QuantSkills](entries/finance-quant/quantskills-quantskills.md) | 2,538 | 229 | 毎日 | 61 | 2026-11-04 | 2026-11-04 |  | unknown |
+| [serenity-stock-choke](entries/finance-quant/fadewalk-serenity-stock-choke.md) | 508 | 56 | 週次 | 4 | 2026-10-06 | 2026-11-05 |  | MIT |
+| [A-Share Quant Selector](entries/finance-quant/dzy-hw-xd-a-share-quant-selector.md) | 506 | 107 | 停滞 | 0 | 2026-09-08 | 2026-11-05 |  | MIT |
+
 ### 音声・TTS（15）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
@@ -191,6 +171,36 @@
 | [bloomery](entries/model-serving/midagedev-bloomery.md) | 60 | 7 | 毎日 | 100+ | 2026-11-04 | 2026-11-04 | 2026-11-04 | MIT |
 | [Tokenomos](entries/model-serving/kohakublueleaf-tokenomos.md) | 26 | 0 | 毎日 | 20 | 2026-11-05 | 2026-11-06 | 2026-11-06 | Apache-2.0 |
 | [qwen-warp](entries/model-serving/tuan3w-qwen-warp.md) ⚑ | 3 | 1 | 毎日 | 91 | 2026-11-06 | 2026-11-06 | 2026-11-06 | MIT |
+
+### その他（12）
+
+| 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
+|---|---:|---:|---|---:|---|---|---|---|
+| [career-ops](entries/other/career-ops-hq-career-ops.md) | 80,446 | 14,799 | 毎日 | 100+ | 2026-11-05 | 2026-11-05 | 2026-11-05 | MIT |
+| [MediaCrawler](entries/other/nanmicoder-mediacrawler.md) | 70,399 | 13,343 | 週次 | 17 | 2026-11-06 | 2026-11-06 | 2026-11-06 | 未確認（API は NOASSERTION、標準ライセンスファイル無し） |
+| [DuckDB](entries/other/duckdb-duckdb.md) | 42,850 | 4,163 | 毎日 | 100+ | 2026-11-05 | 2026-11-05 | 2026-11-05 | MIT |
+| [Heretic](entries/other/p-e-w-heretic.md) | 39,338 | 4,441 | 毎日 | 25 | 2026-11-03 | 2026-11-04 | 2026-11-04 | AGPL-3.0 |
+| [OfficeCLI](entries/other/iofficeai-officecli.md) | 33,059 | 2,252 | 毎日 | 99 | 2026-10-30 | 2026-11-05 | 2026-11-05 | Apache-2.0 |
+| [Horizon](entries/other/thysrael-horizon.md) | 12,260 | 1,790 | 毎日 | 31 | 2026-11-03 | 2026-11-03 | 2026-11-03 | MIT |
+| [OBLITERATUS](entries/other/elder-plinius-obliteratus.md) | 9,189 | 1,625 | 毎日 | 100+ | 2026-11-05 | 2026-11-06 | 2026-11-06 | AGPL-3.0 |
+| [APScheduler](entries/other/agronholm-apscheduler.md) | 7,685 | 819 | 週次 | 7 | 2026-10-26 | 2026-11-05 | 2026-11-05 | MIT |
+| [Sandstorm（アイドル状態のエージェントsandboxをスナップショットして1台に数千個載せる）](entries/other/deeplethe-sandstorm.md) | 5,124 | 403 | 毎日 | 100+ | 2026-11-01 | 2026-11-06 | 2026-11-06 | Apache-2.0 |
+| [awesome-reverse-engineering](entries/other/morluto-awesome-reverse-engineering.md) | 1,723 | 385 | 毎日 | 100+ | 2026-10-30 | 2026-11-04 | 2026-11-04 | CC0-1.0 |
+| [WeVisOne-VL](entries/other/tencent-wevisone-vl.md) | 676 | 56 | 月次 | 3 | 2026-10-25 | 2026-11-03 | 2026-11-03 | Apache-2.0（Tencent 著作部分） |
+| [DSH 破甲ワークフロー（dsh-jailbreak-workflow）](entries/other/minglink-dsh-jailbreak-workflow.md) ⚑ | 581 | 206 | 週次 | 17 | 2026-11-04 | 2026-11-04 | 2026-11-04 | 未確認（API は NOASSERTION、標準ライセンスファイル無し） |
+
+### 画像生成・編集（8）
+
+| 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
+|---|---:|---:|---|---:|---|---|---|---|
+| [Agent Sprite Forge](entries/image-gen/0x0funky-agent-sprite-forge.md) ⚑ | 5,316 | 517 | 月次 | 3 | 2026-11-06 | 2026-11-06 |  | MIT |
+| [pixelfx](entries/image-gen/patch-gg-pixelfx.md) | 3,966 | 543 | 週次 | 8 | 2026-10-31 | 2026-11-03 |  | MIT |
+| [FLUX.2](entries/image-gen/black-forest-labs-flux2.md) | 2,842 | 220 | 停滞 | 0 | 2026-03-12 | 2026-11-07 |  | Apache-2.0 |
+| [Qwen-Image-2.1](entries/image-gen/qwenlm-qwen-image-2.1.md) | 2,172 | 157 | 月次 | 6 | 2026-11-06 | 2026-11-06 |  | NOASSERTION |
+| [ComfyUI AICG3D PoseSwap](entries/image-gen/jgrfw-comfyui-pose-swap.md) | 148 | 24 | 週次 | 7 | 2026-11-01 | 2026-11-06 |  | MIT |
+| [Iris-3B Metal](entries/image-gen/tky-27-iris-3b-metal.md) | 57 | 2 | 毎日 | 77 | 2026-10-19 | 2026-11-04 |  | Apache-2.0 |
+| [ComfyUI-MossPanelDataset](entries/image-gen/sepiablue-ai-comfyui-mosspaneldataset.md) | 39 | 5 | 週次 | 18 | 2026-11-06 | 2026-11-06 |  | MIT |
+| [ComfyUI Prompt Atelier](entries/image-gen/renz1998-comfyui-prompt-atelier.md) | 2 | 0 | 毎日 | 33 | 2026-11-06 | 2026-11-06 |  | GPL-3.0 |
 
 ### MCPサーバー（6）
 
@@ -377,13 +387,13 @@
 - [PilotDeck](entries/agent-framework/openbmb-pilotdeck.md) — unverified / 投稿の Workbuddy Bench 79.1点（Qwen3.6-35B-A3B）は README の表に該当がなく一次情報で確認できない。採用した数値は README 側のみ。
 - [1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md) — unverified / X の記事取得でコードブロック（プロンプト雛形・位置合わせスクリプト・Blender スクリプト）が欠落。数値は著者の自己申告で独立検証なし。
 - [PFNの翻訳特化LLM「PLaMo 3 Translate」をスマホ・Windows・Mac・Linuxに入れる方法](articles/2026-11-05-emma-eva-note-emma_and_eva-pfn-llm-plamo-3-translate-windows-mac-linux.md) — unverified / PFN 公式ブログではなく第三者アカウントのまとめ記事。ベンチマーク優位は PFN 自身の評価の引用、iPhone の 0.515 秒は GIGAZINE の 1 回計測の引用で独立検証なし。winget での llama.cpp 導入、PocketPal AI での 0.8B 読み込み手順、llama.app のインストールスクリプト（取得したスクリプトをシェルに渡す方式）は本文の記述のみで未検証。記事末尾は著者の有料講義の宣伝。
+- [Agent Sprite Forge](entries/image-gen/0x0funky-agent-sprite-forge.md) — unverified / 元ポストは「ゲームエンジンへの取り込みは未確認」と留保するが、README は Godot/Aseprite/Tiled/LDtk 書き出しを検証済みと明記。実機検証は未実施。
 - [CompShare（優云智算）](links/link-service/compshare.cn-compshare.md) — unverified / GPU の無料枠・トライアルの有無、本人確認（実名認証）の要否、表示価格の税込/税抜は未確認。対象URLには referral_code と ytag のアフィリエイト用パラメータが付いており、エントリでは正規URL（https://www.compshare.cn/）を使う。コミュニティイメージは作成者が乌兰察布(cn-wlcb-01)の RTX4090 のみで検証済みと明記。210GB のイメージ取得とストレージ課金が別途発生する。
 - [pagesift](entries/mcp-server/yolow92-pagesift.md) — unverified / AGPL-3.0 のため、改変してネットワーク越しに提供する場合はソース開示義務。プロプライエタリ製品への組み込みは別途商用ライセンス。README のベンチマーク数値（2.4ms/ページ、20.49倍、32MB 等）はすべて著者自身の計測で第三者検証なし＝カタログの事実としては採用せず flag 扱い。リポジトリは 2026-10-20 作成で履歴が浅く、v1.1.3 は検証当日リリース。pip 版 CLI のサブコマンドは mcp/scrape/convert のみで、README が示す crawl/extract/doctor やローカル PDF/Office の直接パースは cargo ビルド版の機能（pip 版 scrape は http(s) のみ受け付け、ローカルファイルは convert で HTML のみ）。
 - [gpu-unlock](entries/model-serving/zagitta-gpu-unlock.md) — unverified / ブート時にカーネルモジュールでGPUの速度セレクタを書き換える構成。性能値は作者計測で第三者検証なし。GeForce の保証・NVIDIA の規約への影響は未確認。トップレベルに LICENSE ファイルが無く licenses/ 配下のみ。
 - [kimi-k3-in-c](entries/model-serving/fareedkhan-dev-kimi-k3-in-c.md) — unverified / 1.56TBのチェックポイントを8.24GBのRAMで動かすという主張。数値は作者の docs/data のみで、独立した再現・検証はない。
 - [qwen-warp](entries/model-serving/tuan3w-qwen-warp.md) — unverified / 元投稿が解説する「SpecPilot」(W12・ツリー検証・自律エージェント探索・4.46x→10.87x)は別リポジトリ StargazerX0/SpecPilot の内容で、本リポジトリは返信スレッドに別リンクとして挙がっているだけ。本リポジトリの速度・品質数値は作者が RTX 3090 1枚で自己計測したもので第三者検証はない(stars 3/forks 1、作成から5日)。RTX 3090(sm_86)専用で他の GPU は未テスト、同時1リクエストのみ、logprobs/structured output/bad_words は HTTP 400、モデル重みは別ライセンス(swift-open-license-1.0, gated)でリポジトリの MIT 対象外、エージェント多ターンの成功率は未計測と README に明記。
 - [Qwen3.8-27B QSA（Q8_0 GGUF + ネイティブランタイム）](models/model-serving/higa2515-qwen3-8-27b-qsa-gguf.md) — unverified / prefill約2倍・decode 45+ tok/s は作者のX投稿の数値で、モデルカードに計測条件の記載が無い。stock llama.cpp では動かず、同梱の改造ランタイム（Linux x86_64 / sm70）か自前ビルドが必須。
-- [Agent Sprite Forge](entries/other/0x0funky-agent-sprite-forge.md) — unverified / 元ポストは「ゲームエンジンへの取り込みは未確認」と留保するが、README は Godot/Aseprite/Tiled/LDtk 書き出しを検証済みと明記。実機検証は未実施。
 - [DSH 破甲ワークフロー（dsh-jailbreak-workflow）](entries/other/minglink-dsh-jailbreak-workflow.md) — prompt-injection / モデルの拒否応答を回避する『破甲（jailbreak）』プロンプトを自動生成するためのワークフロー。各サービスの利用規約違反になり得る。記録のみで、実行・生成した内容の利用はしない。
 - [Clover 35B-A3B（拡散型 MoE）](models/other/diffuspace-clover-35b-a3b-preview.md) — unverified / tok/s 比較は投稿者環境の一例で、モデルカードに計測条件の記載がない。
 - [Ripple-65B Preview](models/other/ricursiveai-ripple-65b-preview.md) — unverified / ベンチマーク（TerminalBench 2.1 で 80.52、米国 open-weight SOTA 等）はすべて配布元の自己申告で第三者検証がない。モデルカードにローカル推論手順の記載はなく、実行手順はリポジトリ内 inference/server/README.md（2xB200 + SGLang 0.5.19 前提）のみで、DGX Spark 単機で動くという記述の実測裏付けはない。独自アーキテクチャ（custom_code、model_type=ricursive）のため transformers での自前ロードは未検証。OpenRouter の提供元は GMICloud 1 社のみで、2026-11-06T12:17Z 時点の status は -5・直近30分の uptime は 0（一時的な可能性あり）。発見源の X 投稿本文は Tokenomos（vLLM のスケジューラ／KV キャッシュ最適化）の公開告知で Ripple に言及がなく、対象との対応は投稿内リンクの展開に依存している。

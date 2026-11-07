@@ -1,7 +1,7 @@
 ---
 repo: freqtrade/freqtrade
 name: Freqtrade
-genre: other
+genre: finance-quant
 url: https://github.com/freqtrade/freqtrade
 license: GPL-3.0
 stars: 56500

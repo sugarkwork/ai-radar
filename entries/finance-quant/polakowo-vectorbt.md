@@ -1,7 +1,7 @@
 ---
 repo: polakowo/vectorbt
 name: vectorbt
-genre: other
+genre: finance-quant
 url: https://github.com/polakowo/vectorbt
 license: Apache-2.0 + Commons Clause（販売不可）
 stars: 9692

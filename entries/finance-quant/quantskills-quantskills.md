@@ -1,7 +1,7 @@
 ---
 repo: "quantskills/quantskills"
 name: "QuantSkills"
-genre: other
+genre: finance-quant
 url: "https://github.com/quantskills/quantskills"
 license: "unknown"
 stars: 2538

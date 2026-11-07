@@ -1,7 +1,7 @@
 ---
 repo: "shiyu-coder/Kronos"
 name: "Kronos"
-genre: other
+genre: finance-quant
 url: "https://github.com/shiyu-coder/Kronos"
 license: "MIT"
 stars: 46488

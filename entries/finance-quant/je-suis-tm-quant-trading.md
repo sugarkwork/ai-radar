@@ -1,7 +1,7 @@
 ---
 repo: "je-suis-tm/quant-trading"
 name: "quant-trading"
-genre: other
+genre: finance-quant
 url: "https://github.com/je-suis-tm/quant-trading"
 license: "Apache-2.0"
 stars: 11190

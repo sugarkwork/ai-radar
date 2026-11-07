@@ -1,7 +1,7 @@
 ---
 repo: "stefan-jansen/machine-learning-for-trading"
 name: "machine-learning-for-trading"
-genre: other
+genre: finance-quant
 url: "https://github.com/stefan-jansen/machine-learning-for-trading"
 license: "MIT"
 stars: 21712

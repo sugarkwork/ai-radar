@@ -1,7 +1,7 @@
 ---
 type: "repo"
 name: "FLUX.2"
-genre: "other"
+genre: image-gen
 url: "https://github.com/black-forest-labs/flux2"
 repo: "black-forest-labs/flux2"
 license: "Apache-2.0"

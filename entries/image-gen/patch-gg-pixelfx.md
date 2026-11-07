@@ -1,7 +1,7 @@
 ---
 repo: "patch-gg/pixelfx"
 name: "pixelfx"
-genre: "other"
+genre: image-gen
 url: "https://github.com/patch-gg/pixelfx"
 license: "MIT"
 stars: 3966

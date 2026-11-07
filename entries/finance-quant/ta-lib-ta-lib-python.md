@@ -1,7 +1,7 @@
 ---
 repo: TA-Lib/ta-lib-python
 name: TA-Lib Python
-genre: other
+genre: finance-quant
 url: https://github.com/TA-Lib/ta-lib-python
 license: BSD-2-Clause
 stars: 12369

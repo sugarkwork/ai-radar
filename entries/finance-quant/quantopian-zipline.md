@@ -1,7 +1,7 @@
 ---
 repo: "quantopian/zipline"
 name: "Zipline (Quantopian)"
-genre: other
+genre: finance-quant
 url: "https://github.com/quantopian/zipline"
 license: "Apache-2.0"
 stars: 20200

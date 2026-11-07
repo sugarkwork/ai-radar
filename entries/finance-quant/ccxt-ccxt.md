@@ -1,7 +1,7 @@
 ---
 repo: "ccxt/ccxt"
 name: "CCXT"
-genre: other
+genre: finance-quant
 url: "https://github.com/ccxt/ccxt"
 license: "MIT"
 stars: 44774

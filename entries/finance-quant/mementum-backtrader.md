@@ -1,7 +1,7 @@
 ---
 repo: "mementum/backtrader"
 name: "backtrader"
-genre: other
+genre: finance-quant
 url: "https://github.com/mementum/backtrader"
 license: "GPL-3.0"
 stars: 23666

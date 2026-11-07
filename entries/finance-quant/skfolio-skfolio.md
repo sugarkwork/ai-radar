@@ -1,7 +1,7 @@
 ---
 repo: skfolio/skfolio
 name: skfolio
-genre: other
+genre: finance-quant
 url: https://github.com/skfolio/skfolio
 license: BSD-3-Clause
 stars: 2593

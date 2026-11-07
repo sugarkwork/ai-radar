@@ -1,7 +1,7 @@
 ---
 repo: "TKY-27/iris-3b-metal"
 name: "Iris-3B Metal"
-genre: other
+genre: image-gen
 url: "https://github.com/TKY-27/iris-3b-metal"
 license: "Apache-2.0"
 stars: 57

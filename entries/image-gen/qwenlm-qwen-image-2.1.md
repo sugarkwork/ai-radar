@@ -1,7 +1,7 @@
 ---
 type: "repo"
 name: "Qwen-Image-2.1"
-genre: "other"
+genre: image-gen
 url: "https://github.com/QwenLM/Qwen-Image-2.1"
 author: "QwenLM (Alibaba Qwen team)"
 repo: "QwenLM/Qwen-Image-2.1"

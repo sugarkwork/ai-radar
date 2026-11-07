@@ -1,7 +1,7 @@
 ---
 repo: "sepiablue-ai/ComfyUI-MossPanelDataset"
 name: "ComfyUI-MossPanelDataset"
-genre: other
+genre: image-gen
 url: "https://github.com/sepiablue-ai/ComfyUI-MossPanelDataset"
 license: "MIT"
 stars: 39

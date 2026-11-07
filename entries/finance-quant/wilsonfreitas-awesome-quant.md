@@ -1,7 +1,7 @@
 ---
 repo: "wilsonfreitas/awesome-quant"
 name: "awesome-quant"
-genre: other
+genre: finance-quant
 url: "https://github.com/wilsonfreitas/awesome-quant"
 license: "unknown"
 stars: 30453

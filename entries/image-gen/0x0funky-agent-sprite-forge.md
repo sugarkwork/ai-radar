@@ -1,7 +1,7 @@
 ---
 repo: "0x0funky/agent-sprite-forge"
 name: "Agent Sprite Forge"
-genre: "other"
+genre: image-gen
 url: "https://github.com/0x0funky/agent-sprite-forge"
 license: "MIT"
 stars: 5316

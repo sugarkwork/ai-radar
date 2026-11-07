@@ -1,7 +1,7 @@
 ---
 repo: bmoscon/cryptofeed
 name: cryptofeed
-genre: other
+genre: finance-quant
 url: https://github.com/bmoscon/cryptofeed
 license: AGPL-3.0
 stars: 2976

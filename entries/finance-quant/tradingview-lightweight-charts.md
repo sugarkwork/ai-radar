@@ -1,7 +1,7 @@
 ---
 repo: tradingview/lightweight-charts
 name: Lightweight Charts
-genre: other
+genre: finance-quant
 url: https://github.com/tradingview/lightweight-charts
 license: Apache-2.0
 stars: 17788

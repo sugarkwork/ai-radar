@@ -1,7 +1,7 @@
 ---
 repo: JGRFW/comfyui-aicg3d-PoseSwap
 name: ComfyUI AICG3D PoseSwap
-genre: other
+genre: image-gen
 url: https://github.com/JGRFW/comfyui-aicg3d-PoseSwap
 license: MIT
 stars: 148
