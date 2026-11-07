@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 225 件 — リポジトリ 178, リンク集 24, モデル 17, 記事 2, プロンプト 4 / ⚑ 要確認 20 件
+収録 226 件 — リポジトリ 179, リンク集 24, モデル 17, 記事 2, プロンプト 4 / ⚑ 要確認 20 件
 
-## リポジトリ（178）
+## リポジトリ（179）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### エージェント基盤・スキル集（37）
+### エージェント基盤・スキル集（38）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Agent-Reach](entries/agent-framework/panniantong-agent-reach.md) | 108,885 | 9,726 | 毎日 | 98 | 2026-11-04 | 2026-11-05 | 2026-11-05 | MIT |
 | [Impeccable](entries/agent-framework/pbakaus-impeccable.md) | 102,748 | 6,075 | 毎日 | 100+ | 2026-11-04 | 2026-11-04 | 2026-11-04 | Apache-2.0 |
 | [strix](entries/agent-framework/usestrix-strix.md) | 73,803 | 8,321 | 毎日 | 64 | 2026-11-05 | 2026-11-05 | 2026-11-05 | Apache-2.0 |
+| [Security Audit Skill (Cloudflare)](entries/agent-framework/cloudflare-security-audit-skill.md) | 64,956 | 4,213 | 停滞 | 0 | 2026-09-14 | 2026-11-07 | 2026-11-07 | MIT |
 | [CLI-Anything](entries/agent-framework/hkuds-cli-anything.md) | 58,362 | 5,253 | 月次 | 0 | 2026-11-06 | 2026-11-06 | 2026-11-06 | Apache-2.0 |
 | [agentic-awesome-skills（AAS）](entries/agent-framework/sickn33-agentic-awesome-skills.md) | 49,284 | 7,150 | 毎日 | 100+ | 2026-11-06 | 2026-11-06 | 2026-11-06 | MIT |
 | [claude-plugins-official](entries/agent-framework/anthropics-claude-plugins-official.md) | 45,988 | 4,784 | 毎日 | 100+ | 2026-11-03 | 2026-11-03 | 2026-11-03 | Apache-2.0 |
