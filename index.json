@@ -1,5 +1,5 @@
 {
-  "count": 204,
+  "count": 205,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -1717,6 +1717,29 @@
       ],
       "risk_notes": "X の記事取得でコードブロック（プロンプト雛形・位置合わせスクリプト・Blender スクリプト）が欠落。数値は著者の自己申告で独立検証なし。",
       "path": "articles/2026-10-28-mukadeshinigami-pbr-textures.md"
+    },
+    {
+      "type": "article",
+      "name": "PFNの翻訳特化LLM「PLaMo 3 Translate」をスマホ・Windows・Mac・Linuxに入れる方法",
+      "genre": "article",
+      "url": "https://note.com/emma_and_eva/n/n47bfc2009891",
+      "author": "Emma先生 & Eva先生（note: emma_and_eva）",
+      "published": "2026-11-05",
+      "added": "2026-11-06",
+      "first_seen": "2026-11-07",
+      "sources": [
+        "https://www.preferred.jp/ja/news/pr20261105",
+        "https://huggingface.co/pfnet/plamo-3-translate-8b",
+        "https://github.com/pfnet/plamo-translate-cli",
+        "https://x.com/preferred_jp/status/2118134261912092801"
+      ],
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "PFN 公式ブログではなく第三者アカウントのまとめ記事。ベンチマーク優位は PFN 自身の評価の引用、iPhone の 0.515 秒は GIGAZINE の 1 回計測の引用で独立検証なし。winget での llama.cpp 導入、PocketPal AI での 0.8B 読み込み手順、llama.app のインストールスクリプト（取得したスクリプトをシェルに渡す方式）は本文の記述のみで未検証。記事末尾は著者の有料講義の宣伝。",
+      "fetched_at": "2026-11-06T18:28:40Z",
+      "source_post": "https://x.com/preferred_jp/status/2118134261912092801",
+      "path": "articles/2026-11-05-emma-eva-note-emma_and_eva-pfn-llm-plamo-3-translate-windows-mac-linux.md"
     },
     {
       "repo": "colbymchenry/codegraph",
