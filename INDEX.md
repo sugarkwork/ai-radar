@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 232 件 — リポジトリ 183, リンク集 26, モデル 17, 記事 2, プロンプト 4 / ⚑ 要確認 26 件
+収録 233 件 — リポジトリ 184, リンク集 26, モデル 17, 記事 2, プロンプト 4 / ⚑ 要確認 27 件
 
-## リポジトリ（183）
+## リポジトリ（184）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -164,7 +164,7 @@
 | [Stable Audio Tools](entries/tts-audio/stability-ai-stable-audio-tools.md) | 3,898 | 489 | 停滞 | 0 | 2026-11-01 | 2026-11-03 | 2026-11-03 | MIT |
 | [Essentia](entries/tts-audio/mtg-essentia.md) | 3,791 | 643 | 毎日 | 21 | 2026-10-22 | 2026-11-03 | 2026-11-03 | AGPL-3.0 |
 
-### その他（13）
+### その他（14）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -179,6 +179,7 @@
 | [Auto-Editor](entries/other/wyattblue-auto-editor.md) ⚑ | 5,803 | 720 | 毎日 | 100+ | 2026-11-07 | 2026-11-07 | 2026-11-07 | Unlicense |
 | [Sandstorm（アイドル状態のエージェントsandboxをスナップショットして1台に数千個載せる）](entries/other/deeplethe-sandstorm.md) | 5,124 | 403 | 毎日 | 100+ | 2026-11-01 | 2026-11-06 | 2026-11-06 | Apache-2.0 |
 | [awesome-reverse-engineering](entries/other/morluto-awesome-reverse-engineering.md) | 1,723 | 385 | 毎日 | 100+ | 2026-10-30 | 2026-11-04 | 2026-11-04 | CC0-1.0 |
+| [Motion Video Kit](entries/other/echris6-motion-video-kit.md) ⚑ | 1,366 | 121 | 月次 | 1 | 2026-10-14 | 2026-11-07 | 2026-11-07 | MIT |
 | [WeVisOne-VL](entries/other/tencent-wevisone-vl.md) | 676 | 56 | 月次 | 3 | 2026-10-25 | 2026-11-03 | 2026-11-03 | Apache-2.0（Tencent 著作部分） |
 | [DSH 破甲ワークフロー（dsh-jailbreak-workflow）](entries/other/minglink-dsh-jailbreak-workflow.md) ⚑ | 581 | 206 | 週次 | 17 | 2026-11-04 | 2026-11-04 | 2026-11-04 | 未確認（API は NOASSERTION、標準ライセンスファイル無し） |
 
@@ -421,6 +422,7 @@
 - [qwen-warp](entries/model-serving/tuan3w-qwen-warp.md) — unverified / 元投稿が解説する「SpecPilot」(W12・ツリー検証・自律エージェント探索・4.46x→10.87x)は別リポジトリ StargazerX0/SpecPilot の内容で、本リポジトリは返信スレッドに別リンクとして挙がっているだけ。本リポジトリの速度・品質数値は作者が RTX 3090 1枚で自己計測したもので第三者検証はない(stars 3/forks 1、作成から5日)。RTX 3090(sm_86)専用で他の GPU は未テスト、同時1リクエストのみ、logprobs/structured output/bad_words は HTTP 400、モデル重みは別ライセンス(swift-open-license-1.0, gated)でリポジトリの MIT 対象外、エージェント多ターンの成功率は未計測と README に明記。
 - [Qwen3.8-27B QSA（Q8_0 GGUF + ネイティブランタイム）](models/model-serving/higa2515-qwen3-8-27b-qsa-gguf.md) — unverified / prefill約2倍・decode 45+ tok/s は作者のX投稿の数値で、モデルカードに計測条件の記載が無い。stock llama.cpp では動かず、同梱の改造ランタイム（Linux x86_64 / sm70）か自前ビルドが必須。
 - [Auto-Editor](entries/other/wyattblue-auto-editor.md) — unverified / commits_30d/90d は GitHub API の per_page=100 上限に達しており、実数は100件超（30日窓で返った最古のコミットが 2026-10-19）。効果の測定は合成素材1本（10秒・320x240）で行ったもので、実収録でのカット精度や話し言葉の語尾保持は独立検証していない。PyPI 版は 29.3.1（2025-11-04）で更新が止まっており pip 導入は非推奨。24時間超の素材、字幕・データストリームのみの入力は非対応。
+- [Motion Video Kit](entries/other/echris6-motion-video-kit.md) — unverified / スター1366・フォーク121に対し、コミットは90日で7件（作成2026-09-27、最終push 2026-10-14）で、X投稿経由の注目が先行した可能性がある。作例3本の動画・レンダー結果はリポジトリに含まれず（git tree に mp4 等なし）、成果物品質は第三者が確認できない。効果測定・ベンチマークはなく、効果は作者の自己申告の範囲。HyperFrames でのレンダリング（component-lab.html の npx 手順）は当方では未実行。
 - [DSH 破甲ワークフロー（dsh-jailbreak-workflow）](entries/other/minglink-dsh-jailbreak-workflow.md) — prompt-injection / モデルの拒否応答を回避する『破甲（jailbreak）』プロンプトを自動生成するためのワークフロー。各サービスの利用規約違反になり得る。記録のみで、実行・生成した内容の利用はしない。
 - [Clover 35B-A3B（拡散型 MoE）](models/other/diffuspace-clover-35b-a3b-preview.md) — unverified / tok/s 比較は投稿者環境の一例で、モデルカードに計測条件の記載がない。
 - [Ripple-65B Preview](models/other/ricursiveai-ripple-65b-preview.md) — unverified / ベンチマーク（TerminalBench 2.1 で 80.52、米国 open-weight SOTA 等）はすべて配布元の自己申告で第三者検証がない。モデルカードにローカル推論手順の記載はなく、実行手順はリポジトリ内 inference/server/README.md（2xB200 + SGLang 0.5.19 前提）のみで、DGX Spark 単機で動くという記述の実測裏付けはない。独自アーキテクチャ（custom_code、model_type=ricursive）のため transformers での自前ロードは未検証。OpenRouter の提供元は GMICloud 1 社のみで、2026-11-06T12:17Z 時点の status は -5・直近30分の uptime は 0（一時的な可能性あり）。発見源の X 投稿本文は Tokenomos（vLLM のスケジューラ／KV キャッシュ最適化）の公開告知で Ripple に言及がなく、対象との対応は投稿内リンクの展開に依存している。

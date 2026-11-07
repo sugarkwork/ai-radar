@@ -1,5 +1,5 @@
 {
-  "count": 232,
+  "count": 233,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -4285,6 +4285,37 @@
       "type": "repo",
       "path": "entries/other/morluto-awesome-reverse-engineering.md",
       "summary": "リバースエンジニアリングのツールと学習リソースを、対象別に整理したキュレーションリスト。"
+    },
+    {
+      "repo": "echris6/motion-video-kit",
+      "name": "Motion Video Kit",
+      "genre": "other",
+      "url": "https://github.com/echris6/motion-video-kit",
+      "license": "MIT",
+      "stars": 1366,
+      "language": "Python",
+      "created": "2026-09-27",
+      "updated": "2026-10-14",
+      "forks": 121,
+      "open_issues": 0,
+      "commits_30d": 1,
+      "commit_cadence": "monthly",
+      "commits_90d": 7,
+      "size_kb": 68,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "スター1366・フォーク121に対し、コミットは90日で7件（作成2026-09-27、最終push 2026-10-14）で、X投稿経由の注目が先行した可能性がある。作例3本の動画・レンダー結果はリポジトリに含まれず（git tree に mp4 等なし）、成果物品質は第三者が確認できない。効果測定・ベンチマークはなく、効果は作者の自己申告の範囲。HyperFrames でのレンダリング（component-lab.html の npx 手順）は当方では未実行。",
+      "type": "repo",
+      "added": "2026-11-07",
+      "first_seen": "2026-11-07",
+      "sources": [
+        "https://x.com/heyrimsha/status/2118662273044807904"
+      ],
+      "fetched_at": "2026-11-07T18:06:00Z",
+      "path": "entries/other/echris6-motion-video-kit.md",
+      "summary": "15〜40秒のビジネス向けローンチ風CMを、AI生成映像＋HTML/GSAPのモーション（必要ならThree.js）で作るためのClaude Codeスキル。SKILL.md が「ブリーフ→参考選定→絵コンテ→素材→部品単体→本編→批評→音→納品」の9段階の手順を定義している。"
     },
     {
       "repo": "Tencent/WeVisOne-VL",
