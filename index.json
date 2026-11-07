@@ -1,5 +1,5 @@
 {
-  "count": 221,
+  "count": 222,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -684,6 +684,26 @@
       "source_post": "https://x.com/tokufxug/status/2118163149983781219",
       "path": "models/3d-motion/nvidia-metrictrail.md",
       "summary": "時系列 RGB 画像列からカメラ軌跡 (c2w / w2c, [N,4,4]) とフレーム毎のメートル深度を推定する。視覚オドメトリ (VO) と 3D 再構成の研究向け。"
+    },
+    {
+      "type": "link",
+      "name": "Sand3D (sand3d)",
+      "genre": "3d-motion",
+      "url": "https://sandflow.ai/sand3d/",
+      "author": "Sandflow (Sandflow-ai)",
+      "pricing": "free",
+      "pricing_detail": "Python パッケージは Apache-2.0、データセットは CC BY 4.0 でいずれも無料。料金ページ https://sandflow.ai/pricing は 404 で有料プランは存在せず、未公開の基盤モデルのみウェイトリスト。",
+      "signup_required": false,
+      "added": "2026-11-07",
+      "first_seen": "2026-11-07",
+      "sources": [
+        "https://x.com/HuggingPapers/status/2118290438805135578"
+      ],
+      "flags": [],
+      "risk_notes": "公開直後の若いプロジェクト（GitHub リポジトリ作成 2026-11-03、PyPI 初公開も同週、星 910）。bpy（Blender モジュール）依存で Python 3.11 か 3.13 が必要（3.12 非対応）、導入環境は重い。MCP サーバ・REST API・専用 CLI は提供されず、Python 実行環境が前提。元ポスト（Tencent の TailorRig データセット）は本件と無関係な宣伝で、根拠にしていない。",
+      "fetched_at": "2026-11-07T10:59:19Z",
+      "path": "links/3d-motion/sandflow.ai-sand3d-sand3d.md",
+      "summary": "3D 形状を「部品ごとの短い Python プログラム」として記述するためのライブラリ。座標を手計算せず、名前付きの部品・辺・面を操作するので、LLM が数百トークンで物体を書き、人間がそのまま読める。"
     },
     {
       "type": "model",

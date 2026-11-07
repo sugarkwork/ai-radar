@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 221 件 — リポジトリ 177, リンク集 21, モデル 17, 記事 2, プロンプト 4 / ⚑ 要確認 19 件
+収録 222 件 — リポジトリ 177, リンク集 22, モデル 17, 記事 2, プロンプト 4 / ⚑ 要確認 19 件
 
 ## リポジトリ（177）
 
@@ -266,7 +266,7 @@
 - **[CLAUDE.md に足す「コンテキスト節約」6行（Ahorro de contexto）](prompts/prompt-other/claude-md-ahorro-de-contexto.md)**  Claude Code / @maarcoofdezz
   - Claude Code のトークン消費は、コードを書く量より「不要なファイルを丸ごと読む」「既に決めたことを繰り返す」「役目を終えた文脈を引きずる」ことに消える、という前提に立つ。CLAUDE.md の末尾に6行追記して、読み込み方と応答の仕方を変える。
 
-## リンク集（21）
+## リンク集（22）
 
 ### リンク（作例・インスピレーション）（7）
 
@@ -315,10 +315,12 @@
 - **[Wonderlist](links/link-asset/wonderlist-design.md)**  paid / Wonderlist
   - Figma 形式の Web サイトデザイン集を買い切りで販売する。デザイナー／開発者が一から設計せずにサイトを立ち上げるための素材。
 
-### 3D・モーション（1）
+### 3D・モーション（2）
 
 - **[HairDeck](links/3d-motion/hyzcluster.github.io-hairdeck.md)** ⚑  free / hyz317 (Yuze He, Yixiang Wei, Wang Zhao, Chuhao Chen, Yanning Zhou, Yong-Jin Liu / Tsinghua University, CMU, CUHK)
   - ゲームやアバターの髪を作る「ヘアカード」(アーティストが配置するリボン状メッシュ) を、キャラクター画像1枚から自動生成する研究プロジェクト。
+- **[Sand3D (sand3d)](links/3d-motion/sandflow.ai-sand3d-sand3d.md)**  free / Sandflow (Sandflow-ai)
+  - 3D 形状を「部品ごとの短い Python プログラム」として記述するためのライブラリ。座標を手計算せず、名前付きの部品・辺・面を操作するので、LLM が数百トークンで物体を書き、人間がそのまま読める。
 
 ### MCPサーバー（1）
 
