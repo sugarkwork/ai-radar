@@ -60,7 +60,7 @@
 | [Skills for Real Engineers](entries/agent-framework/mattpocock-skills.md) | 313,998 | 26,327 | 毎日 | 49 | 2026-11-05 | 2026-11-05 | 2026-11-05 | MIT |
 | [Superpowers](entries/agent-framework/obra-superpowers.md) | 312,407 | 27,789 | 週次 | 4 | 2026-11-03 | 2026-11-04 | 2026-11-04 | MIT |
 | [Ponytail](entries/agent-framework/dietrichgebert-ponytail.md) | 184,508 | 10,178 | 毎日 | 58 | 2026-10-29 | 2026-11-04 | 2026-11-04 | MIT |
-| [gstack（Garry's Stack）](entries/agent-framework/garrytan-gstack.md) | 140,463 | 20,735 | 毎日 | 100+ | 2026-11-07 | 2026-11-07 | 2026-11-07 | MIT |
+| [gstack（Garry's Stack）](entries/agent-framework/garrytan-gstack.md) | 140,653 | 20,761 | 毎日 | 100+ | 2026-11-07 | 2026-11-07 | 2026-11-07 | MIT |
 | [paperclip](entries/agent-framework/paperclipai-paperclip.md) | 111,168 | 18,414 | 毎日 | 100+ | 2026-11-05 | 2026-11-05 | 2026-11-05 | MIT |
 | [Agent-Reach](entries/agent-framework/panniantong-agent-reach.md) | 108,885 | 9,726 | 毎日 | 98 | 2026-11-04 | 2026-11-05 | 2026-11-05 | MIT |
 | [Impeccable](entries/agent-framework/pbakaus-impeccable.md) | 102,748 | 6,075 | 毎日 | 100+ | 2026-11-04 | 2026-11-04 | 2026-11-04 | Apache-2.0 |
