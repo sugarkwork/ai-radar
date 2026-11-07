@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 231 件 — リポジトリ 182, リンク集 26, モデル 17, 記事 2, プロンプト 4 / ⚑ 要確認 25 件
+収録 232 件 — リポジトリ 183, リンク集 26, モデル 17, 記事 2, プロンプト 4 / ⚑ 要確認 26 件
 
-## リポジトリ（182）
+## リポジトリ（183）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### エージェント基盤・スキル集（38）
+### エージェント基盤・スキル集（39）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -40,6 +40,7 @@
 | [PilotDeck](entries/agent-framework/openbmb-pilotdeck.md) ⚑ | 4,981 | 560 | 毎日 | 100+ | 2026-11-06 | 2026-11-06 | 2026-11-06 | AGPL-3.0 |
 | [Effective HTML](entries/agent-framework/plannotator-effective-html.md) | 3,858 | 265 | 週次 | 5 | 2026-10-31 | 2026-11-05 | 2026-11-05 | MIT |
 | [Agent Autoloop](entries/agent-framework/kkkkhazix-agent-autoloop.md) | 3,660 | 671 | 毎日 | 100+ | 2026-11-06 | 2026-11-06 | 2026-11-06 | MIT |
+| [FireRed-OpenStoryline](entries/agent-framework/fireredteam-firered-openstoryline.md) ⚑ | 3,645 | 427 | 停滞 | 0 | 2026-07-31 | 2026-11-07 | 2026-11-07 | Apache-2.0 |
 | [SoL-Pi](entries/agent-framework/nvlabs-sol-pi.md) | 3,638 | 299 | 毎日 | 34 | 2026-11-04 | 2026-11-04 | 2026-11-04 | MIT |
 | [Social Media Agent（LangChain）](entries/agent-framework/langchain-ai-social-media-agent.md) | 2,987 | 546 | 毎日 | 26 | 2026-11-05 | 2026-11-07 | 2026-11-07 | MIT |
 | [Stageshow（benjitaylor/skills）](entries/agent-framework/benjitaylor-skills.md) | 1,897 | 131 | 月次 | 2 | 2026-11-04 | 2026-11-04 | 2026-11-04 | 未確認（リポジトリ全体の LICENSE なし。各スキル個別のライセンス表記） |
@@ -407,6 +408,7 @@
 - [4DAnyone](links/3d-motion/4danyone.github.io-4danyone.md) — unverified / 投稿は Faltwerk という4DGS圧縮・配信ツール（1.4GB→5〜7MB、Quest 3 で25〜40Mbps配信、AIアバターへの影付け）を名乗るが、対象ページに Faltwerk の記載は一切なく、実体は別プロジェクト 4DAnyone（SIGGRAPH Asia 2026）。投稿の圧縮率・配信帯域・実演は一次情報で確認できず本項目には採用していない。James C. Kane はページ内で 4DGS プレイヤー作者として謝辞に出るのみ。リポジトリは Apache-2.0 だが third_party（GVHMR 等）は別ライセンスで、パイプライン全体の商用利用は要確認。推論には 22GB 級 VRAM の GPU が必要。
 - [HairDeck](links/3d-motion/hyzcluster.github.io-hairdeck.md) — unverified / ローカル実行には NVIDIA CUDA GPU (CUDA 12.8) または Apple silicon (MPS)、Python 3.12 / PyTorch 2.8 が必要。セットアップで重み・前処理モデル・Blender 4.2 LTS を取得する。SAM 3 と DINOv3 は Hugging Face 上で gated=manual のため、ライセンス同意と hf auth login が別途必要。必要 VRAM は未記載のため未確認。生成物はゲーム/アバター向けのアセットで、商用利用時はサードパーティモデルのライセンスを個別確認のこと。
 - [PilotDeck](entries/agent-framework/openbmb-pilotdeck.md) — unverified / 投稿の Workbuddy Bench 79.1点（Qwen3.6-35B-A3B）は README の表に該当がなく一次情報で確認できない。採用した数値は README 側のみ。
+- [FireRed-OpenStoryline](entries/agent-framework/fireredteam-firered-openstoryline.md) — unverified / インストール・実レンダリングは未実行で、記載は README / config.toml / requirements.txt / docs の原文にもとづく。2026-07-31 以降コミットがなく（30日0・90日0）、GitHub の Releases とタグは未作成（Docker Hub には v1.0.1 イメージあり）。LLM・VLM・（任意で）TTS/Pexels/AIトランジションのAPIキーが必須で、AIトランジションは外部動画生成APIの課金が発生し「コストが比較的高く結果は予測しづらい」とREADMEが明記している。
 - [1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md) — unverified / X の記事取得でコードブロック（プロンプト雛形・位置合わせスクリプト・Blender スクリプト）が欠落。数値は著者の自己申告で独立検証なし。
 - [PFNの翻訳特化LLM「PLaMo 3 Translate」をスマホ・Windows・Mac・Linuxに入れる方法](articles/2026-11-05-emma-eva-note-emma_and_eva-pfn-llm-plamo-3-translate-windows-mac-linux.md) — unverified / PFN 公式ブログではなく第三者アカウントのまとめ記事。ベンチマーク優位は PFN 自身の評価の引用、iPhone の 0.515 秒は GIGAZINE の 1 回計測の引用で独立検証なし。winget での llama.cpp 導入、PocketPal AI での 0.8B 読み込み手順、llama.app のインストールスクリプト（取得したスクリプトをシェルに渡す方式）は本文の記述のみで未検証。記事末尾は著者の有料講義の宣伝。
 - [Agent Sprite Forge](entries/image-gen/0x0funky-agent-sprite-forge.md) — unverified / 元ポストは「ゲームエンジンへの取り込みは未確認」と留保するが、README は Godot/Aseprite/Tiled/LDtk 書き出しを検証済みと明記。実機検証は未実施。

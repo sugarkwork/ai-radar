@@ -1,5 +1,5 @@
 {
-  "count": 231,
+  "count": 232,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -1701,6 +1701,37 @@
       "type": "repo",
       "path": "entries/agent-framework/kkkkhazix-agent-autoloop.md",
       "summary": "コマンドライン Agent（Claude Code、Codex など）を**常駐させて自分で仕事を拾わせる**ための軽量な中台。ターミナルを開いていない間も、キューに積まれた仕事を順に処理する。"
+    },
+    {
+      "repo": "FireRedTeam/FireRed-OpenStoryline",
+      "name": "FireRed-OpenStoryline",
+      "genre": "agent-framework",
+      "url": "https://github.com/FireRedTeam/FireRed-OpenStoryline",
+      "license": "Apache-2.0",
+      "stars": 3645,
+      "language": "Python",
+      "created": "2026-02-07",
+      "updated": "2026-07-31",
+      "forks": 427,
+      "open_issues": 33,
+      "commits_30d": 0,
+      "commit_cadence": "stale",
+      "commits_90d": 0,
+      "size_kb": 282,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "インストール・実レンダリングは未実行で、記載は README / config.toml / requirements.txt / docs の原文にもとづく。2026-07-31 以降コミットがなく（30日0・90日0）、GitHub の Releases とタグは未作成（Docker Hub には v1.0.1 イメージあり）。LLM・VLM・（任意で）TTS/Pexels/AIトランジションのAPIキーが必須で、AIトランジションは外部動画生成APIの課金が発生し「コストが比較的高く結果は予測しづらい」とREADMEが明記している。",
+      "type": "repo",
+      "added": "2026-11-07",
+      "first_seen": "2026-11-07",
+      "sources": [
+        "https://x.com/heyrimsha/status/2118662273044807904"
+      ],
+      "fetched_at": "2026-11-07T17:59:00Z",
+      "path": "entries/agent-framework/fireredteam-firered-openstoryline.md",
+      "summary": "素材をアップロードするか、テーマだけを伝えると、素材検索（Pexels）→脚本生成→BGM/ナレーション/フォント推薦→タイムライン編成→動画レンダリングまでを会話で通す。"
     },
     {
       "repo": "NVlabs/SoL-Pi",
