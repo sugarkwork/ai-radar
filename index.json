@@ -1,5 +1,5 @@
 {
-  "count": 224,
+  "count": 225,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -632,6 +632,28 @@
       "type": "repo",
       "path": "entries/3d-motion/camenduru-vrmexmr.md",
       "summary": "**単眼動画から SMPL-X の身体・手・足のモーションを復元**し、VRM / Blender / Unity / Unreal / ヒューマノイドロボット向けに書き出す Docker イメージ。"
+    },
+    {
+      "type": "link",
+      "name": "4DAnyone",
+      "genre": "3d-motion",
+      "url": "https://4danyone.github.io/",
+      "author": "4DAnyone authors（Zhejiang University / Ant Group、コードは ant-research 名義）",
+      "pricing": "free",
+      "pricing_detail": "料金ページは存在しない（/pricing は HTTP 404 を実測）。推論コードと公開重みは無料で取得できる。third_party サブモジュールのライセンスは別建てのため、商用利用時は個別確認が必要。",
+      "signup_required": false,
+      "added": "2026-11-07",
+      "first_seen": "2026-11-07",
+      "sources": [
+        "https://x.com/tokufxug/status/2118171681437175920"
+      ],
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "投稿は Faltwerk という4DGS圧縮・配信ツール（1.4GB→5〜7MB、Quest 3 で25〜40Mbps配信、AIアバターへの影付け）を名乗るが、対象ページに Faltwerk の記載は一切なく、実体は別プロジェクト 4DAnyone（SIGGRAPH Asia 2026）。投稿の圧縮率・配信帯域・実演は一次情報で確認できず本項目には採用していない。James C. Kane はページ内で 4DGS プレイヤー作者として謝辞に出るのみ。リポジトリは Apache-2.0 だが third_party（GVHMR 等）は別ライセンスで、パイプライン全体の商用利用は要確認。推論には 22GB 級 VRAM の GPU が必要。",
+      "fetched_at": "2026-11-07T12:38:04Z",
+      "path": "links/3d-motion/4danyone.github.io-4danyone.md",
+      "summary": "スマートフォンなどで撮った1本の手持ち動画から、カメラ内部・外部パラメータや撮影リグなしで多視点動画を生成し、そのまま 4D Gaussian Splatting (4DGS) の再構成に渡せるようにする研究プロジェクト（SIGGRAPH Asia 2026、Zhejiang University / Ant Grou"
     },
     {
       "type": "link",
