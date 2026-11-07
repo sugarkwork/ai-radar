@@ -1,5 +1,5 @@
 {
-  "count": 219,
+  "count": 220,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -651,6 +651,39 @@
       "fetched_at": "2026-11-06T08:07:10Z",
       "path": "models/3d-motion/speridlabs-idol.md",
       "summary": "物体が写った1枚の画像 (写真・レンダリング・生成画像) から、最大 1,048,576 個の 3D Gaussian を生成し、標準的な 3DGS の .ply として出力する"
+    },
+    {
+      "type": "model",
+      "name": "MetricTrail 1.0 (DINO-DPVO チェックポイント)",
+      "genre": "3d-motion",
+      "url": "https://huggingface.co/nvidia/MetricTrail",
+      "author": "NVIDIA",
+      "pricing": "free",
+      "pricing_detail": "重みは無償公開だが、実体のライセンスは NVIDIA OneWay Noncommercial License（研究・評価目的の非商用のみ）。DPVO 由来部分は MIT、NVIDIA が権利を持つソースは Apache-2.0、DINOv3 は DINOv3 License",
+      "signup_required": false,
+      "model": "nvidia/MetricTrail",
+      "license": "other",
+      "downloads": 168,
+      "likes": 20,
+      "format": "pytorch",
+      "size": "13.1 MB (dino_dpvo.pth 1 ファイル、13,739,570 bytes)",
+      "base_model": [],
+      "created": "2026-11-05",
+      "updated": "2026-11-05",
+      "added": "2026-11-07",
+      "first_seen": "2026-11-06",
+      "sources": [
+        "https://x.com/HuggingPapers/status/2118268282495012971",
+        "https://huggingface.co/nvidia/MetricTrail",
+        "https://x.com/tokufxug/status/2118163149983781219"
+      ],
+      "flags": [],
+      "risk_notes": "重みのライセンスは非商用 (NVIDIA OneWay Noncommercial License) で、コード (Apache-2.0 / DPVO 由来 MIT) とは条件が別。モデルカードはチェックポイントを別途 HF で公開予定と書くが、実際には dino_dpvo.pth が同リポジトリに含まれる（記載が古い）。推論コードは HF リポジトリに含まれず、記載のソースリビジョンに対応する公開リポジトリも特定できなかった (NVlabs 配下は 404)。DPVO の CUDA 拡張をソースビルドする必要があり CUDA 必須、動作確認は A100 のみ。",
+      "fetched_at": "2026-11-07T10:19:15Z",
+      "license_name": "nvidia-open-model-license",
+      "source_post": "https://x.com/tokufxug/status/2118163149983781219",
+      "path": "models/3d-motion/nvidia-metrictrail.md",
+      "summary": "時系列 RGB 画像列からカメラ軌跡 (c2w / w2c, [N,4,4]) とフレーム毎のメートル深度を推定する。視覚オドメトリ (VO) と 3D 再構成の研究向け。"
     },
     {
       "type": "model",

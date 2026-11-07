@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 219 件 — リポジトリ 176, リンク集 21, モデル 16, 記事 2, プロンプト 4 / ⚑ 要確認 19 件
+収録 220 件 — リポジトリ 176, リンク集 21, モデル 17, 記事 2, プロンプト 4 / ⚑ 要確認 19 件
 
 ## リポジトリ（176）
 
@@ -324,7 +324,7 @@
 - **[ArtCraft Craft Apps](links/mcp-server/getartcraft.com-artcraft-craft-apps.md)**  free / ArtCraft (GitHub: storytold)
   - 画像編集・ベクター・動画・PDF・DTP・3Dテクスチャ・DAW・CAD・表計算など、商用クリエイティブソフト相当の機能をRust製ネイティブアプリとして無料・オープンソースで提供するスイート。
 
-## モデル（16）
+## モデル（17）
 
 ### 動画生成パイプライン（6）
 
@@ -354,10 +354,12 @@
 - **[Ripple-65B Preview](models/other/ricursiveai-ripple-65b-preview.md)** ⚑  freemium / Ricursive Intelligence（ricursiveAI）
   - ローカル serving: リポジトリ同梱の inference/server/serve.py（SGLang 0.5.19 ベース）で OpenAI 互換の /v1/chat/completions を立てられる。tools / tool_choice による関数呼び出し、message.reasoning_cont
 
-### 3D・モーション（2）
+### 3D・モーション（3）
 
 - **[Idol](models/3d-motion/speridlabs-idol.md)**  free / speridlabs
   - 物体が写った1枚の画像 (写真・レンダリング・生成画像) から、最大 1,048,576 個の 3D Gaussian を生成し、標準的な 3DGS の .ply として出力する
+- **[MetricTrail 1.0 (DINO-DPVO チェックポイント)](models/3d-motion/nvidia-metrictrail.md)**  free / NVIDIA
+  - 時系列 RGB 画像列からカメラ軌跡 (c2w / w2c, [N,4,4]) とフレーム毎のメートル深度を推定する。視覚オドメトリ (VO) と 3D 再構成の研究向け。
 - **[UniMate チェックポイント](models/3d-motion/linzhan-unimate.md)**  free / Linzhan Mou ほか（Princeton / UC Berkeley / MIT / NTU）
   - [UniMate](https://github.com/Friedrich-M/UniMate)（任意骨格向けテキスト→モーション）の**学習済みチェックポイント配布**。設定 JSON・正規化統計（.npy）・各ステップの .pt が入る。
 
