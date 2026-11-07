@@ -233,7 +233,7 @@
 |---|---:|---:|---|---:|---|---|---|---|
 | [OpenDataLoader PDF](entries/rag/opendataloader-project-opendataloader-pdf.md) | 30,178 | 2,882 | 毎日 | 100+ | 2026-11-05 | 2026-11-05 | 2026-11-05 | Apache-2.0 |
 | [pdf-inspector](entries/rag/firecrawl-pdf-inspector.md) | 19,825 | 1,337 | 月次 | 1 | 2026-10-22 | 2026-11-04 | 2026-11-04 | MIT |
-| [Local Deep Research](entries/rag/learningcircuit-local-deep-research.md) | 9,514 | 904 | 毎日 | 100+ | 2026-11-07 | 2026-11-07 | 2026-11-07 | MIT |
+| [Local Deep Research](entries/rag/learningcircuit-local-deep-research.md) | 9,516 | 904 | 毎日 | 100+ | 2026-11-07 | 2026-11-07 | 2026-11-07 | MIT |
 | [DigUp](entries/rag/arahim3-digup.md) | 6,237 | 493 | 毎日 | 100+ | 2026-10-26 | 2026-11-04 | 2026-11-04 | MIT |
 | [OpenKB](entries/rag/vectifyai-openkb.md) | 4,849 | 503 | 停滞 | 0 | 2026-07-22 | 2026-11-04 | 2026-11-04 | Apache-2.0 |
 
