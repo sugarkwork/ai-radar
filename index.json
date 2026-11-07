@@ -1,5 +1,5 @@
 {
-  "count": 220,
+  "count": 221,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -5618,6 +5618,37 @@
       "type": "repo",
       "path": "entries/video-gen/alchaincyf-huashu-motion.md",
       "summary": "製品発表映像（ローンチフィルム）をエージェントが作るスキル。製品情報を読ませると方向性を3案提示し、選ぶと本編を書き、自分で譜面を書いて音楽を付け、ブラウザのエディタを開く。"
+    },
+    {
+      "type": "repo",
+      "name": "4DAnyone",
+      "genre": "video-gen",
+      "url": "https://github.com/ant-research/4DAnyone",
+      "author": "ant-research (Ant Group)",
+      "repo": "ant-research/4DAnyone",
+      "license": "Apache-2.0",
+      "stars": 1485,
+      "language": "Python",
+      "created": "2026-08-10",
+      "updated": "2026-10-14",
+      "added": "2026-11-07",
+      "first_seen": "2026-11-07",
+      "sources": [
+        "https://x.com/tokufxug/status/2118171681437175920"
+      ],
+      "flags": [],
+      "risk_notes": "発見源の投稿は4DGS圧縮・配信ツール「Faltwerk」の宣伝で、本リポジトリへの言及はない（t.co も投稿動画に戻る）。そのため本項目の数値・説明はGitHub APIとREADMEのみに依拠している。SMPL-X本体は別ライセンスで、無料アカウント登録とライセンス同意が必須。研究コードであり、MCPサーバや常駐APIは無く、利用はCLIかローカルGUIに限る。",
+      "forks": 106,
+      "open_issues": 6,
+      "commits_30d": 1,
+      "commit_cadence": "monthly",
+      "size_kb": 84270,
+      "archived": false,
+      "fetched_at": "2026-11-07T10:55:36Z",
+      "last_release": "",
+      "last_release_at": "",
+      "path": "entries/video-gen/ant-research-4danyone.md",
+      "summary": "人物が1人写った普通のモノキュラ動画から、同期した多視点動画を生成する。入力にカメラパラメータは不要で、固定カメラも要求しない。"
     },
     {
       "repo": "cth9191/animate",
