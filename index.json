@@ -1,5 +1,5 @@
 {
-  "count": 202,
+  "count": 203,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -600,6 +600,28 @@
       "type": "repo",
       "path": "entries/3d-motion/camenduru-vrmexmr.md",
       "summary": "**単眼動画から SMPL-X の身体・手・足のモーションを復元**し、VRM / Blender / Unity / Unreal / ヒューマノイドロボット向けに書き出す Docker イメージ。"
+    },
+    {
+      "type": "link",
+      "name": "HairDeck",
+      "genre": "3d-motion",
+      "url": "https://hyzcluster.github.io/HairDeck/",
+      "author": "hyz317 (Yuze He, Yixiang Wei, Wang Zhao, Chuhao Chen, Yanning Zhou, Yong-Jin Liu / Tsinghua University, CMU, CUHK)",
+      "pricing": "free",
+      "pricing_detail": "コードとチェックポイントは Apache-2.0 で無料公開。料金ページ (/pricing) は存在せず HTTP 404 で、有料プラン・従量課金はない。ホスト版デモ (Hugging Face Space, ZeroGPU) も無料。コストはローカル実行時の自前 GPU のみ。",
+      "signup_required": true,
+      "added": "2026-11-07",
+      "first_seen": "2026-11-07",
+      "sources": [
+        "https://x.com/Machinedelusion/status/2116624498933833758"
+      ],
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "ローカル実行には NVIDIA CUDA GPU (CUDA 12.8) または Apple silicon (MPS)、Python 3.12 / PyTorch 2.8 が必要。セットアップで重み・前処理モデル・Blender 4.2 LTS を取得する。SAM 3 と DINOv3 は Hugging Face 上で gated=manual のため、ライセンス同意と hf auth login が別途必要。必要 VRAM は未記載のため未確認。生成物はゲーム/アバター向けのアセットで、商用利用時はサードパーティモデルのライセンスを個別確認のこと。",
+      "fetched_at": "2026-11-06T21:06:07Z",
+      "path": "links/3d-motion/hyzcluster.github.io-hairdeck.md",
+      "summary": "ゲームやアバターの髪を作る「ヘアカード」(アーティストが配置するリボン状メッシュ) を、キャラクター画像1枚から自動生成する研究プロジェクト。"
     },
     {
       "type": "model",
