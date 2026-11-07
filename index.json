@@ -1,5 +1,5 @@
 {
-  "count": 225,
+  "count": 226,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -3098,6 +3098,28 @@
       "signup_required": false,
       "path": "links/link-inspiration/theinternetdesigns-com.md",
       "summary": "X（Twitter）と Pinterest に投稿された UI デザインを収集・索引化し、デザインの参考として引けるようにする。ポストの「find beautifully designed websites」に対応する。"
+    },
+    {
+      "name": "Aura",
+      "genre": "link-service",
+      "url": "https://www.aura.build/",
+      "author": "DESIGNCODE IO PTE. LTD.（Meng To / DesignCode）",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "未確認: (1) MCPのツール一覧・レート制限・1操作あたりのプロンプト消費量は、Auraアカウントなしではtools/listを取得できず未確認（未認証は401のみ確認）。(2) 公開REST API/CLIの有無は公式文書で確認できず、api.aura.build はサイトと同じHTMLを返すだけ。(3) テンプレート/コンポーネント/アセット数はページ間で記述が食い違う（料金ページFAQ: 5,000+テンプレート・2,800+コンポーネント・30,000+アセット、learn/introduction: 1000+テンプレート・1400+コンポーネント・20,000+アセット）ため数値は採用しない。(4) 月払い価格は料金ページのプラン設定（配信JSバンドル）から取得し、年払い額はページ表示のプロモ価格。年払い50%オフは期間限定表示で終了時期は不明。(5) MCPエンドポイントは初回probeで401を確認したが、再試行時に25秒タイムアウトした（一時的な可能性）。生成品質・出力の再現性は実生成していないため未評価。",
+      "pricing": "freemium",
+      "pricing_detail": "Free $0（AIプロンプト0・2ページ・個人利用のみ）/ Pro $25/月・年払い$12.50/月($250/年)・120プロンプト月 / Max $50/月・年払い$25/月($500/年)・240プロンプト月 / Ultra $100/月・年払い$50/月($1,000/年)・560プロンプト月 / Elite $200/月・年払い$100/月・1,080プロンプト月。3日トライアル20プロンプト（支払い方法必須）。クレジット200=$50（無期限・1クレジット=1プロンプト）",
+      "signup_required": true,
+      "type": "link",
+      "added": "2026-11-07",
+      "first_seen": "2026-11-07",
+      "sources": [
+        "https://x.com/MengTo/status/2118384737626857724"
+      ],
+      "fetched_at": "2026-11-07T15:41:11Z",
+      "path": "links/link-service/aura.build-aura.md",
+      "summary": "テキストプロンプトからランディングページやマルチページのウェブサイトを生成し、ブラウザ上で視覚編集して公開・書き出しまで完結させるサービス。公式は「AI landing page builder that creates stunning designs in seconds」と説明している。"
     },
     {
       "name": "Banani",

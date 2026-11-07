@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 225 件 — リポジトリ 178, リンク集 24, モデル 17, 記事 2, プロンプト 4 / ⚑ 要確認 20 件
+収録 226 件 — リポジトリ 178, リンク集 25, モデル 17, 記事 2, プロンプト 4 / ⚑ 要確認 21 件
 
 ## リポジトリ（178）
 
@@ -267,7 +267,26 @@
 - **[CLAUDE.md に足す「コンテキスト節約」6行（Ahorro de contexto）](prompts/prompt-other/claude-md-ahorro-de-contexto.md)**  Claude Code / @maarcoofdezz
   - Claude Code のトークン消費は、コードを書く量より「不要なファイルを丸ごと読む」「既に決めたことを繰り返す」「役目を終えた文脈を引きずる」ことに消える、という前提に立つ。CLAUDE.md の末尾に6行追記して、読み込み方と応答の仕方を変える。
 
-## リンク集（24）
+## リンク集（25）
+
+### リンク（サービス・ツール）（8）
+
+- **[Aura](links/link-service/aura.build-aura.md)** ⚑  freemium / DESIGNCODE IO PTE. LTD.（Meng To / DesignCode）
+  - テキストプロンプトからランディングページやマルチページのウェブサイトを生成し、ブラウザ上で視覚編集して公開・書き出しまで完結させるサービス。公式は「AI landing page builder that creates stunning designs in seconds」と説明している。
+- **[Banani](links/link-service/banani-co.md)**  freemium / Banani
+  - テキストから UI を生成する AI デザインツール。プロンプトを「編集可能な UI デザイン」に変えることを狙う。ポストの説明（turn prompts into editable UI designs）と一致する。
+- **[CompShare（優云智算）](links/link-service/compshare.cn-compshare.md)** ⚑  paid / UCloud（优刻得科技）
+  - UCloud（优刻得）系の GPU クラウド。AI の学習・推論・画像生成用に GPU インスタンスを時間・日・月単位で借りる。
+- **[Paper Animation](links/link-service/paperanimation-ai.md)**  freemium / Paper Animation
+  - 画像1枚から紙風のアニメーションクリップを作る Web ツール。ショート動画のフック用素材（新聞の切り抜き風、紙の折り畳み等）を短時間で作ることを狙う。投稿の説明（paper-style animations）と一致する。
+- **[ScaleDown](links/link-service/scaledown-ai.md)**  paid / ScaleDown AI
+  - 分類・抽出・要約・圧縮という単機能に絞った小型モデル（SLM）を API で提供するサービス。フロンティアモデルに頼らず、決まった処理を大量に安く流す用途を狙う。
+- **[Tripo AI](links/link-service/tripo3d-ai.md)**  freemium / Tripo
+  - テキストまたは画像から3Dモデルを生成するオンラインサービス。ゲーム素材、EC の商品画像、3Dプリント、映像のプリビズなどを想定している。
+- **[Wedoflow](links/link-service/wedoflow-com.md)**  paid / Wedoflow
+  - Webflow 向けのプレミアムテンプレート販売。デザイン済みのページを買って、サイト構築の時間を短縮する。
+- **[Z.ai (chat.z.ai)](links/link-service/chat.z.ai-z.ai-chat.z.ai.md)**  freemium / Z.ai / Zhipu AI
+  - Z.ai（Zhipu AI）のチャット/エージェント画面。GLM-5.3 系をブラウザで試し、同じモデルを API 経由でエージェントから呼ぶための入口。
 
 ### リンク（作例・インスピレーション）（7）
 
@@ -285,23 +304,6 @@
   - Web サイトのファーストビュー（ヒーローセクション）だけを集めた作例ライブラリ。
 - **[The Internet Designs](links/link-inspiration/theinternetdesigns-com.md)**  free / The Internet Designs
   - X（Twitter）と Pinterest に投稿された UI デザインを収集・索引化し、デザインの参考として引けるようにする。ポストの「find beautifully designed websites」に対応する。
-
-### リンク（サービス・ツール）（7）
-
-- **[Banani](links/link-service/banani-co.md)**  freemium / Banani
-  - テキストから UI を生成する AI デザインツール。プロンプトを「編集可能な UI デザイン」に変えることを狙う。ポストの説明（turn prompts into editable UI designs）と一致する。
-- **[CompShare（優云智算）](links/link-service/compshare.cn-compshare.md)** ⚑  paid / UCloud（优刻得科技）
-  - UCloud（优刻得）系の GPU クラウド。AI の学習・推論・画像生成用に GPU インスタンスを時間・日・月単位で借りる。
-- **[Paper Animation](links/link-service/paperanimation-ai.md)**  freemium / Paper Animation
-  - 画像1枚から紙風のアニメーションクリップを作る Web ツール。ショート動画のフック用素材（新聞の切り抜き風、紙の折り畳み等）を短時間で作ることを狙う。投稿の説明（paper-style animations）と一致する。
-- **[ScaleDown](links/link-service/scaledown-ai.md)**  paid / ScaleDown AI
-  - 分類・抽出・要約・圧縮という単機能に絞った小型モデル（SLM）を API で提供するサービス。フロンティアモデルに頼らず、決まった処理を大量に安く流す用途を狙う。
-- **[Tripo AI](links/link-service/tripo3d-ai.md)**  freemium / Tripo
-  - テキストまたは画像から3Dモデルを生成するオンラインサービス。ゲーム素材、EC の商品画像、3Dプリント、映像のプリビズなどを想定している。
-- **[Wedoflow](links/link-service/wedoflow-com.md)**  paid / Wedoflow
-  - Webflow 向けのプレミアムテンプレート販売。デザイン済みのページを買って、サイト構築の時間を短縮する。
-- **[Z.ai (chat.z.ai)](links/link-service/chat.z.ai-z.ai-chat.z.ai.md)**  freemium / Z.ai / Zhipu AI
-  - Z.ai（Zhipu AI）のチャット/エージェント画面。GLM-5.3 系をブラウザで試し、同じモデルを API 経由でエージェントから呼ぶための入口。
 
 ### リンク（素材・アイコン・3D）（5）
 
@@ -401,6 +403,7 @@
 - [1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md) — unverified / X の記事取得でコードブロック（プロンプト雛形・位置合わせスクリプト・Blender スクリプト）が欠落。数値は著者の自己申告で独立検証なし。
 - [PFNの翻訳特化LLM「PLaMo 3 Translate」をスマホ・Windows・Mac・Linuxに入れる方法](articles/2026-11-05-emma-eva-note-emma_and_eva-pfn-llm-plamo-3-translate-windows-mac-linux.md) — unverified / PFN 公式ブログではなく第三者アカウントのまとめ記事。ベンチマーク優位は PFN 自身の評価の引用、iPhone の 0.515 秒は GIGAZINE の 1 回計測の引用で独立検証なし。winget での llama.cpp 導入、PocketPal AI での 0.8B 読み込み手順、llama.app のインストールスクリプト（取得したスクリプトをシェルに渡す方式）は本文の記述のみで未検証。記事末尾は著者の有料講義の宣伝。
 - [Agent Sprite Forge](entries/image-gen/0x0funky-agent-sprite-forge.md) — unverified / 元ポストは「ゲームエンジンへの取り込みは未確認」と留保するが、README は Godot/Aseprite/Tiled/LDtk 書き出しを検証済みと明記。実機検証は未実施。
+- [Aura](links/link-service/aura.build-aura.md) — unverified / 未確認: (1) MCPのツール一覧・レート制限・1操作あたりのプロンプト消費量は、Auraアカウントなしではtools/listを取得できず未確認（未認証は401のみ確認）。(2) 公開REST API/CLIの有無は公式文書で確認できず、api.aura.build はサイトと同じHTMLを返すだけ。(3) テンプレート/コンポーネント/アセット数はページ間で記述が食い違う（料金ページFAQ: 5,000+テンプレート・2,800+コンポーネント・30,000+アセット、learn/introduction: 1000+テンプレート・1400+コンポーネント・20,000+アセット）ため数値は採用しない。(4) 月払い価格は料金ページのプラン設定（配信JSバンドル）から取得し、年払い額はページ表示のプロモ価格。年払い50%オフは期間限定表示で終了時期は不明。(5) MCPエンドポイントは初回probeで401を確認したが、再試行時に25秒タイムアウトした（一時的な可能性）。生成品質・出力の再現性は実生成していないため未評価。
 - [CompShare（優云智算）](links/link-service/compshare.cn-compshare.md) — unverified / GPU の無料枠・トライアルの有無、本人確認（実名認証）の要否、表示価格の税込/税抜は未確認。対象URLには referral_code と ytag のアフィリエイト用パラメータが付いており、エントリでは正規URL（https://www.compshare.cn/）を使う。コミュニティイメージは作成者が乌兰察布(cn-wlcb-01)の RTX4090 のみで検証済みと明記。210GB のイメージ取得とストレージ課金が別途発生する。
 - [pagesift](entries/mcp-server/yolow92-pagesift.md) — unverified / AGPL-3.0 のため、改変してネットワーク越しに提供する場合はソース開示義務。プロプライエタリ製品への組み込みは別途商用ライセンス。README のベンチマーク数値（2.4ms/ページ、20.49倍、32MB 等）はすべて著者自身の計測で第三者検証なし＝カタログの事実としては採用せず flag 扱い。リポジトリは 2026-10-20 作成で履歴が浅く、v1.1.3 は検証当日リリース。pip 版 CLI のサブコマンドは mcp/scrape/convert のみで、README が示す crawl/extract/doctor やローカル PDF/Office の直接パースは cargo ビルド版の機能（pip 版 scrape は http(s) のみ受け付け、ローカルファイルは convert で HTML のみ）。
 - [gpu-unlock](entries/model-serving/zagitta-gpu-unlock.md) — unverified / ブート時にカーネルモジュールでGPUの速度セレクタを書き換える構成。性能値は作者計測で第三者検証なし。GeForce の保証・NVIDIA の規約への影響は未確認。トップレベルに LICENSE ファイルが無く licenses/ 配下のみ。
