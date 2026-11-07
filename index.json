@@ -1,5 +1,5 @@
 {
-  "count": 223,
+  "count": 224,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -632,6 +632,35 @@
       "type": "repo",
       "path": "entries/3d-motion/camenduru-vrmexmr.md",
       "summary": "**単眼動画から SMPL-X の身体・手・足のモーションを復元**し、VRM / Blender / Unity / Unreal / ヒューマノイドロボット向けに書き出す Docker イメージ。"
+    },
+    {
+      "type": "link",
+      "name": "Gracia (Gracia AI)",
+      "genre": "3d-motion",
+      "url": "https://gracia.ai/",
+      "author": "Gracia AI, Inc.",
+      "pricing": "paid",
+      "pricing_detail": "処理は分単位の従量課金。Streaming/VR ティア $800/分（セグメント最低課金あり）、VFX ティア $2,500/分、40〜50分/年以上でボリューム割引。キャプチャは別途でパートナー経由 概ね $15,000〜20,000/日。初回は1〜2分の無料処理テストあり。Web/Python/C++/Apple SDK とデモ用 .mint は無償。独立した料金ページはなく、金額はトップページ F.A.Q. の記載（2026-11 時点）",
+      "signup_required": true,
+      "added": "2026-11-07",
+      "first_seen": "2026-11-07",
+      "sources": [
+        "https://docs.gracia.ai/",
+        "https://docs.gracia.ai/streaming-usage",
+        "https://docs.gracia.ai/streaming-view-token-openapi",
+        "https://docs.gracia.ai/sdks/python",
+        "https://docs.gracia.ai/sdks/web",
+        "https://github.com/gracia-labs/web-sdk",
+        "https://github.com/gracia-labs/python-sdk",
+        "https://demo.gracia.ai/",
+        "https://x.com/tokufxug/status/2118171681437175920"
+      ],
+      "flags": [],
+      "risk_notes": "金額は独立した料金ページではなくトップページ F.A.Q.（クライアント描画 / assets/landing-9a750015.js 内）の記載で、2026-11 時点のベンダー公表値。配信 API キーは Settings → Api Settings でパートナーアカウント限定、取得は support@gracia.ai への連絡が必要でセルフサーブ不可。SDK のライセンスは GitHub 上 'Other'（NOASSERTION）で再配布条件は未確認。デモ .mint の配信元 gstatic.gracia.ai は Cloudflare チャレンジを返し curl では 403（ブラウザでは取得可）。元ポストは別プロジェクト「Faltwerk」（edrethardo/Faltwerk、カーブ圧縮の 4DGS ストリーミングコーデック）の宣伝で gracia.ai に言及がなく、投稿の数値（32フレーム、1.4GB→5〜7MB、25〜40Mbps）は本件の根拠にしていない。",
+      "fetched_at": "2026-11-07T12:01:41Z",
+      "source_post": "https://x.com/tokufxug/status/2118171681437175920",
+      "path": "links/3d-motion/gracia.ai-gracia-gracia-ai.md",
+      "summary": "同期済みのマルチカメラ実写素材から、自由視点で見られる4D（3DGS＋時間軸）表現を作り、Web・VR・エンジン上で再生するための商用プラットフォーム。"
     },
     {
       "type": "link",
