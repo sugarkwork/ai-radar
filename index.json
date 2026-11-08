@@ -1,5 +1,5 @@
 {
-  "count": 243,
+  "count": 244,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -4725,6 +4725,25 @@
       "prompt_sha1": "dcfee5432f15899e0c1f5fc0ec8b0ef0c98dfabb",
       "path": "prompts/prompt-design/codegraph-codex-setup.md",
       "summary": "CodeGraph（コード知識グラフの MCP サーバー）を既存の Codex 環境に組み込み、インストール・MCP 設定・索引構築・動作検証までをエージェントに一括でやらせる。手順の暗記を省き、既存設定を壊さないことを明示している点が要点。"
+    },
+    {
+      "name": "キャラクターシート生成プロンプト（360度ターンアラウンド）",
+      "genre": "prompt-design",
+      "url": "https://x.com/Y0urDumble/status/2109342020921659784",
+      "prompt_sha1": "63b426628d1fc65ee82e4f126af49887db167eec",
+      "target": "ChatGPT などのテキスト/画像生成LLM、および Kling Motion Control 等の image-to-video",
+      "transcribed_from": "text",
+      "flags": [],
+      "risk_notes": "実在の人物・有名人・他者のキャラクターに寄せると権利侵害になり得る。効果（再生数・収益）は著者の主張で未検証。",
+      "type": "prompt",
+      "added": "2026-11-08",
+      "first_seen": "2026-11-08",
+      "sources": [
+        "https://x.com/Y0urDumble/status/2109342020921659784"
+      ],
+      "fetched_at": "2026-11-07T15:42:23Z",
+      "path": "prompts/prompt-design/360-63b426628d.md",
+      "summary": "選んだキャラクターを、正面・斜め・横・斜め後ろ・背面の全身5面とクローズアップ3面を1枚に収めたキャラクターシートにする画像生成プロンプト。以後の動画差し替えで顔・服の一貫性を保つ参照画像を作るのが目的。"
     },
     {
       "type": "prompt",
