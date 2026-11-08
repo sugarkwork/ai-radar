@@ -1,5 +1,5 @@
 {
-  "count": 238,
+  "count": 239,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -6622,6 +6622,25 @@
       "last_release_at": "",
       "path": "entries/video-gen/chendaryen-nitrofusion2.md",
       "summary": "テキストプロンプトから 1024×1024 の画像を 1〜4 ステップで生成する（inference.py は 1/2/3/4 step のみ許可、step ごとに scheduler shift を 3.0/6.0/8.0/9.0 へ自動切替）"
+    },
+    {
+      "name": "AIインフルエンサー量産術：Higgsfield AI Influencer＋Genjutsuで作る架空キャラ",
+      "genre": "video-gen",
+      "url": "https://x.com/i/article/2109318233866006528",
+      "author": "@Y0urDumble",
+      "published": "2026-10-11",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "記事本文は取得済み（X Article 2109318233866006528、公開 2026-10-11 17:55 UTC）。未検証：収益・フォロワー・トークン手数料（2週間で約$235K、5日で$10K、276Kフォロワー、時価総額$12.3M）は著者の推計で第三者検証がない。JEANPHILのFDVは2026-11-08時点で約$4.08Mまで下落。Biscuit Johnsonの数値は一次確認できず（TikTokは自動取得をブロック）。料金も変動しており、記事の「Starter $15/月」「無料5回」は現行公式表示（年払い$19/月、無料10回）と一致しない。添付mp4はスポンジ・ボブの meme クリップ（1.44秒）で、記事の手順画面の収録ではない。内容はミームコイン前提の収益モデルを含み、投資助言ではないが金銭的インセンティブのある導線である点に注意。",
+      "type": "article",
+      "added": "2026-11-08",
+      "first_seen": "2026-11-08",
+      "sources": [
+        "https://x.com/Y0urDumble/status/2109342020921659784"
+      ],
+      "fetched_at": "2026-11-08T04:15:21Z",
+      "path": "articles/2026-10-11-y0urdumble-ai-higgsfield-ai-influencer-genjutsu.md"
     },
     {
       "type": "model",
