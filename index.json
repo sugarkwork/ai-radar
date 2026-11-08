@@ -1,5 +1,5 @@
 {
-  "count": 261,
+  "count": 262,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -2160,6 +2160,26 @@
       "fetched_at": "2026-11-06T18:28:40Z",
       "source_post": "https://x.com/preferred_jp/status/2118134261912092801",
       "path": "articles/2026-11-05-emma-eva-note-emma_and_eva-pfn-llm-plamo-3-translate-windows-mac-linux.md"
+    },
+    {
+      "name": "The Johnson brothers — AIキャラを「家族」に増やす成長プレイブック",
+      "genre": "article",
+      "url": "https://x.com/Y0urDumble/status/2111203140145959338",
+      "published": "2026-10-16",
+      "author": "@Y0urDumble (Dumble)",
+      "flags": [
+        "unverified",
+        "low-quality"
+      ],
+      "risk_notes": "一次情報で確認できなかったこと: 具体的な生成ツール/モデル名（動画・画像に透かしもUIも開示ラベルもない）、プロンプト原文（投稿にもメディアにも存在しない）、フォロワー数・再生数・いいね数の実値（TikTok側は当方の取得で実データを返さず、第三者の集計でも同アカウントは時期により 156K/225.7K と変動）、$21K という収益額（71.6M views × $0.30/1000 の概算で、案件単価や成約の裏付けなし）、「2アカウントが同一運営者」という推断（著者自身が everything points to と推測で書いている）。動画の人物がAI生成だという前提も著者の主張と見た目の印象に留まり、プラットフォーム上の明示的開示は確認できない。誘導先 https://x.com/i/article/2109318233866006528 はログイン必須で本文未確認（同一URLの記事は既に別項目として登録済みのため重複作成しない）。内容は成長施策の助言が中心で、再現手順の技術的検証はできない。",
+      "type": "article",
+      "added": "2026-11-08",
+      "first_seen": "2026-11-08",
+      "sources": [
+        "https://x.com/Y0urDumble/status/2111203140145959338"
+      ],
+      "fetched_at": "2026-11-08T06:51:00+00:00",
+      "path": "articles/2026-10-16-y0urdumble-dumble-the-johnson-brothers-ai.md"
     },
     {
       "repo": "colbymchenry/codegraph",
