@@ -1,5 +1,5 @@
 {
-  "count": 265,
+  "count": 266,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -7071,6 +7071,31 @@
       "risk_notes": "投稿の主張のうち、コインの実体（mint 2baSUcFC24Z…pump、EDMOND/EDMD、pump.fun発行、2026-10-02作成・10-13卒業、現在FDV $1,811・ホルダー43）とTikTokの規模（72.4Kフォロワー/2.7Mいいね、投稿時スクショ62.9K/2.3M）は一次データで確認した。ピークは卒業直後の日足高値からFDV約$47.0Kと算出でき、主張の$49.7Kとほぼ一致。一方、出来高約$174K・ピーク$49.7Kの原データ、再生25.3M/最大6.5Mの合計、26本/25日、稼得$12.7Kの単価$0.50/1000は再現できず未確認（卒業後プールで測れる出来高は合計約$35.7K）。誤り・ずれ: ティッカーは$EDMONDではなく$EDMD、Xアカウントは@Edmond_Lebon（フォロワー26・投稿7件）で「EdmondLebon」表記は不正確、「1.2M peopleに告知」の根拠不明、収益の見出し$13Kと冒頭$15K・内訳合計$14.2Kが本文内で食い違う。追加確認: 2026-11-05に2本目のコインE7cda…pump（Ed Mondial）が発行され、現在のTikTok bioはそちらを指す。画像・動画にライセンス表記は無く、他クリエイターの世界観への便乗・ミームコイン宣伝である点に注意。",
       "fetched_at": "2026-11-08T08:29:00Z",
       "path": "articles/2026-10-18-y0urdumble-ai-edmond-edmd-72.4k-1.8k.md"
+    },
+    {
+      "name": "AIペルソナの複製実演：上位動画12本を「8特性ゲノム」に分解し、双子アカウントを毎日投稿させる（@Y0urDumble）",
+      "genre": "video-gen",
+      "url": "https://x.com/Y0urDumble/status/2112288114073067862",
+      "published": "2026-10-19",
+      "author": "@Y0urDumble (Dumble)",
+      "source_post": "https://x.com/Y0urDumble/status/2112288114073067862",
+      "sources": [
+        "https://x.com/Y0urDumble/status/2109342020921659784",
+        "https://x.com/i/article/2109318233866006528",
+        "https://www.tiktok.com/@john_stockman",
+        "https://x.com/karpathy/status/2039805659525644595",
+        "https://x.com/Y0urDumble/status/2112288114073067862"
+      ],
+      "first_seen": "2026-11-08",
+      "added": "2026-11-08",
+      "type": "article",
+      "flags": [
+        "unverified",
+        "low-quality"
+      ],
+      "risk_notes": "主張と確認結果: (1) 8,912フォロワー・94.2%顔一致・$55・Day1→7の再生遷移は、動画内の自作ダッシュボード（TWIN LAB / dead internet test 01）のKPI表示が唯一の出所で、外部計測も第三者検証もない。画面のKPIは 336,935 / 12-56 / 8-8 / 94.2% / 8,912 と進行し、フッターは『spend $55 / week · humans in loop 0』で、本文の『$55 spent』とは単位が食い違う。(2) 双子アカウント @not_john.exe はX・TikTokのいずれでも発見できず、8,912フォロワーの受け皿を確認できない。(3) 元ネタのTikTok @john_stockman は実在し、bioに『Ai Influencer』と明記、2026-11-08時点のミラー集計で416.9Kフォロワー/11.01M likes/85本。投稿の336,935・8.75M likesは10/19時点のスナップショットとして整合的だが、『上位12本が10.6M〜232.8K』は確認できず（ミラーで見える直近20本は0.1〜1.23M）。(4) Karpathyの元ポストは実在（2026-04-02、現在22.0M views）で内容も一致するが、本人は16M viewsとは書いておらず、人物の複製は想定していない。(5) クローラのコード・配布物は無く（GitHubに著者アカウント無し、該当リポジトリ0件）、手順の実物は2026-10-11の記事にあるHiggsfield AI Influencer＋Genjutsuの操作と、自前スクリプトの説明に留まる。(6) 実在アカウントの動画・音源・顔を読み取り複製する行為は、TikTokのなりすまし/著作権ポリシー、音源権利、各プラットフォームのAI生成表示義務の確認が必要で、著者自身も記事でAI表示を推奨している。",
+      "fetched_at": "2026-11-08T08:45:00Z",
+      "path": "articles/2026-10-19-y0urdumble-dumble-ai-12-8-y0urdumble.md"
     },
     {
       "type": "model",
