@@ -1,5 +1,5 @@
 {
-  "count": 245,
+  "count": 246,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -3054,6 +3054,28 @@
       "risk_notes": "素材そのものの再配布・転売は禁止（テクスチャパック、ストック画像、テンプレートへの同梱など）。作品に組み込んで使うのは商用含めて自由。",
       "path": "links/link-asset/texturelabs-org.md",
       "summary": "アート・デザイン向けの**無料テクスチャ素材庫**。壁・レンガ・コンクリート・金属・紙・空・土・水・布・フィルム・グランジなど、カテゴリ別に数千点を公開している。画像生成の背景素材、3Dのマテリアル、映像のオーバーレイ、合成の下地などに使う。"
+    },
+    {
+      "name": "The Bomi Berzina AI Character Shorts Playbook",
+      "genre": "link-asset",
+      "url": "https://bomiberzina.com/viral",
+      "author": "Bomi Berzina（bomiberzina.com）",
+      "pricing": "paid",
+      "pricing_detail": "$9.99 USD の一回払い（サブスクなし）。8ページ・17ステップのPDFで、決済後すぐダウンロード＋メールでアクセスリンク。30日返金保証（領収メールへ返信）。別途 Higgsfield（有料、Ultra 9,000クレジットを推奨）と ChatGPT/Gemini、CapCut 等が必要で、動画クレジットは含まれない。",
+      "signup_required": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "投稿の「10日で$13K」「10.6M再生」「最大5.6M」は投稿者自身の推計であり一次情報で確認していない。今回実測できたのは TikTok プロフィールの 23.6K フォロワー / 539.7K いいね / 13本（2026-11-08時点、レンダリング取得）で、個別動画の再生数は TikTok の WAF とログイン要求で取得できず未確認。Instagram は HTTP 200 だがログインウォールでプロフィールを読めない。価格 $9.99 は販売ページの表示と JSON-LD で確認し、Stripe の live セッションも実際に発行された（303）が、Stripe ページの金額は JS レンダリングで HTML から読めず、決済額そのものは未確認。PDF 本文は有料で、無料公開のプレビューは2ページ分（02, 04）のみ。17ステップのうち確認できたのは 01, 02, 05, 06, 07, 08 の6ステップとプロンプト2本（キャラクターシート用、Genjutsu の Object Swap 用）だけで、残り11ステップと残りのプロンプト本文は未確認。返金は商品ページに30日と明記されているが、リンク先の規約・返金ページ（smashcourses.com）は汎用文面で Bomi 商品を名指ししておらず、連絡先も商品ページは zenithlawassociates@gmail.com、規約ページは service@officeofagents.com で一致しない。手順06は他者のバイラル動画を第三者のダウンローダー（ytshortsdl.com / snaptik / igexport）で保存しキャラクターを差し替えるよう指示しており、著作権と各SNSの規約上のリスクがある。Jean Phil など他者キャラクターの世界観に便乗する手法も権利面で要注意。同一ドメインのルート https://bomiberzina.com は未発行の Solana ミームコイン「$BB」のプレローンチページ（価格 'Soon'、'CA DROPS AT LAUNCH'）で、ブランドがトークン販売と結び付いている点は別種の高リスクとして扱う。",
+      "type": "link",
+      "added": "2026-11-08",
+      "first_seen": "2026-11-08",
+      "sources": [
+        "https://x.com/Y0urDumble/status/2110431266990682466"
+      ],
+      "fetched_at": "2026-11-08T06:01:30Z",
+      "path": "links/link-asset/bomiberzina.com-the-bomi-berzina-ai-character-shorts-playbook.md",
+      "summary": "AI生成キャラクターを1体作り、そのキャラクターを毎回同じ見た目でショート動画に出演させ続けるための有料PDF手順書。動画の元ネタ探し→キャラクターの差し替え→書き出し→投稿までを17ステップに区切っている。"
     },
     {
       "name": "Wonderlist",

@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 245 件 — リポジトリ 187, リンク集 30, モデル 18, 記事 3, プロンプト 7 / ⚑ 要確認 32 件
+収録 246 件 — リポジトリ 187, リンク集 31, モデル 18, 記事 3, プロンプト 7 / ⚑ 要確認 33 件
 
 ## リポジトリ（187）
 
@@ -282,7 +282,7 @@
 - **[モーショントランスファー用プロンプト（Kling Motion Control など）](prompts/prompt-other/kling-motion-control-5d1a7ab60f.md)**  ChatGPT などのテキスト/画像生成LLM、および Kling Motion Control 等の image-to-video
   - Genjutsu 以外の image-to-video motion control ツール（記事は Kling Motion Control を例示）で、参照動画の動きを静止画キャラクターに演じさせるための指示文。
 
-## リンク集（30）
+## リンク集（31）
 
 ### リンク（サービス・ツール）（10）
 
@@ -324,7 +324,7 @@
 - **[The Internet Designs](links/link-inspiration/theinternetdesigns-com.md)**  free / The Internet Designs
   - X（Twitter）と Pinterest に投稿された UI デザインを収集・索引化し、デザインの参考として引けるようにする。ポストの「find beautifully designed websites」に対応する。
 
-### リンク（素材・アイコン・3D）（5）
+### リンク（素材・アイコン・3D）（6）
 
 - **[AI Camera Movements（カメラワーク46種のプロンプト）](links/link-asset/aicameramovements-com.md)**  free / aicameramovements.com
   - AI 動画の「カメラが止まって見える」問題を、動きの名前と定型プロンプトで解決する。動きの違いを並べて比較してから選べる。
@@ -334,6 +334,8 @@
   - 座位・横臥のポーズを9種類まとめた作画資料。画像生成AIのポーズ指定、ControlNet・LoRA の参照セット、絵コンテの下敷きなど、人体の姿勢を固定したいときに使う。
 - **[TextureLabs](links/link-asset/texturelabs-org.md)**  free / TextureLabs
   - アート・デザイン向けの**無料テクスチャ素材庫**。壁・レンガ・コンクリート・金属・紙・空・土・水・布・フィルム・グランジなど、カテゴリ別に数千点を公開している。画像生成の背景素材、3Dのマテリアル、映像のオーバーレイ、合成の下地などに使う。
+- **[The Bomi Berzina AI Character Shorts Playbook](links/link-asset/bomiberzina.com-the-bomi-berzina-ai-character-shorts-playbook.md)** ⚑  paid / Bomi Berzina（bomiberzina.com）
+  - AI生成キャラクターを1体作り、そのキャラクターを毎回同じ見た目でショート動画に出演させ続けるための有料PDF手順書。動画の元ネタ探し→キャラクターの差し替え→書き出し→投稿までを17ステップに区切っている。
 - **[Wonderlist](links/link-asset/wonderlist-design.md)**  paid / Wonderlist
   - Figma 形式の Web サイトデザイン集を買い切りで販売する。デザイナー／開発者が一から設計せずにサイトを立ち上げるための素材。
 
@@ -444,6 +446,7 @@
 - [1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md) — unverified / X の記事取得でコードブロック（プロンプト雛形・位置合わせスクリプト・Blender スクリプト）が欠落。数値は著者の自己申告で独立検証なし。
 - [PFNの翻訳特化LLM「PLaMo 3 Translate」をスマホ・Windows・Mac・Linuxに入れる方法](articles/2026-11-05-emma-eva-note-emma_and_eva-pfn-llm-plamo-3-translate-windows-mac-linux.md) — unverified / PFN 公式ブログではなく第三者アカウントのまとめ記事。ベンチマーク優位は PFN 自身の評価の引用、iPhone の 0.515 秒は GIGAZINE の 1 回計測の引用で独立検証なし。winget での llama.cpp 導入、PocketPal AI での 0.8B 読み込み手順、llama.app のインストールスクリプト（取得したスクリプトをシェルに渡す方式）は本文の記述のみで未検証。記事末尾は著者の有料講義の宣伝。
 - [Agent Sprite Forge](entries/image-gen/0x0funky-agent-sprite-forge.md) — unverified / 元ポストは「ゲームエンジンへの取り込みは未確認」と留保するが、README は Godot/Aseprite/Tiled/LDtk 書き出しを検証済みと明記。実機検証は未実施。
+- [The Bomi Berzina AI Character Shorts Playbook](links/link-asset/bomiberzina.com-the-bomi-berzina-ai-character-shorts-playbook.md) — unverified / 投稿の「10日で$13K」「10.6M再生」「最大5.6M」は投稿者自身の推計であり一次情報で確認していない。今回実測できたのは TikTok プロフィールの 23.6K フォロワー / 539.7K いいね / 13本（2026-11-08時点、レンダリング取得）で、個別動画の再生数は TikTok の WAF とログイン要求で取得できず未確認。Instagram は HTTP 200 だがログインウォールでプロフィールを読めない。価格 $9.99 は販売ページの表示と JSON-LD で確認し、Stripe の live セッションも実際に発行された（303）が、Stripe ページの金額は JS レンダリングで HTML から読めず、決済額そのものは未確認。PDF 本文は有料で、無料公開のプレビューは2ページ分（02, 04）のみ。17ステップのうち確認できたのは 01, 02, 05, 06, 07, 08 の6ステップとプロンプト2本（キャラクターシート用、Genjutsu の Object Swap 用）だけで、残り11ステップと残りのプロンプト本文は未確認。返金は商品ページに30日と明記されているが、リンク先の規約・返金ページ（smashcourses.com）は汎用文面で Bomi 商品を名指ししておらず、連絡先も商品ページは zenithlawassociates@gmail.com、規約ページは service@officeofagents.com で一致しない。手順06は他者のバイラル動画を第三者のダウンローダー（ytshortsdl.com / snaptik / igexport）で保存しキャラクターを差し替えるよう指示しており、著作権と各SNSの規約上のリスクがある。Jean Phil など他者キャラクターの世界観に便乗する手法も権利面で要注意。同一ドメインのルート https://bomiberzina.com は未発行の Solana ミームコイン「$BB」のプレローンチページ（価格 'Soon'、'CA DROPS AT LAUNCH'）で、ブランドがトークン販売と結び付いている点は別種の高リスクとして扱う。
 - [Aura](links/link-service/aura.build-aura.md) — unverified / 未確認: (1) MCPのツール一覧・レート制限・1操作あたりのプロンプト消費量は、Auraアカウントなしではtools/listを取得できず未確認（未認証は401のみ確認）。(2) 公開REST API/CLIの有無は公式文書で確認できず、api.aura.build はサイトと同じHTMLを返すだけ。(3) テンプレート/コンポーネント/アセット数はページ間で記述が食い違う（料金ページFAQ: 5,000+テンプレート・2,800+コンポーネント・30,000+アセット、learn/introduction: 1000+テンプレート・1400+コンポーネント・20,000+アセット）ため数値は採用しない。(4) 月払い価格は料金ページのプラン設定（配信JSバンドル）から取得し、年払い額はページ表示のプロモ価格。年払い50%オフは期間限定表示で終了時期は不明。(5) MCPエンドポイントは初回probeで401を確認したが、再試行時に25秒タイムアウトした（一時的な可能性）。生成品質・出力の再現性は実生成していないため未評価。
 - [CompShare（優云智算）](links/link-service/compshare.cn-compshare.md) — unverified / GPU の無料枠・トライアルの有無、本人確認（実名認証）の要否、表示価格の税込/税抜は未確認。対象URLには referral_code と ytag のアフィリエイト用パラメータが付いており、エントリでは正規URL（https://www.compshare.cn/）を使う。コミュニティイメージは作成者が乌兰察布(cn-wlcb-01)の RTX4090 のみで検証済みと明記。210GB のイメージ取得とストレージ課金が別途発生する。
 - [Jev（TypeSafe AI）](links/link-service/typesafe.ai-jev-typesafe-ai.md) — unverified / 投稿が掲げる数値（10,000タスクを20秒、9,214件をOpusに渡さない、8レーンで衝突0、41,096行、12.7x fewer Opus calls、Jev費用$0.38）は投稿本文と添付動画の中だけの主張で、一次情報の裏付けがない。添付動画は実アプリの画面ではなく演出されたモックで、同じ動画内でも Jev 費用が $0.25 から $0.38 へ変化し、41,096 行は画面に現れない。Jev 自体（TypeSafe AI の System One モデル、$42/10億入力トークン、HTTP API/SDK/agent skill）は公式サイトとドキュメントで確認できるが、公式は「コーディングエージェントの LLM を置き換えるものではない」と明記しており、投稿の8レーン並列構成の再現手順は公開されていない。無料枠の有無、コンソールの課金開始条件は未確認。
