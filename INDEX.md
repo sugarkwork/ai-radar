@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 236 件 — リポジトリ 187, リンク集 26, モデル 17, 記事 2, プロンプト 4 / ⚑ 要確認 27 件
+収録 237 件 — リポジトリ 187, リンク集 26, モデル 18, 記事 2, プロンプト 4 / ⚑ 要確認 27 件
 
 ## リポジトリ（187）
 
@@ -345,7 +345,7 @@
 - **[ArtCraft Craft Apps](links/mcp-server/getartcraft.com-artcraft-craft-apps.md)**  free / ArtCraft (GitHub: storytold)
   - 画像編集・ベクター・動画・PDF・DTP・3Dテクスチャ・DAW・CAD・表計算など、商用クリエイティブソフト相当の機能をRust製ネイティブアプリとして無料・オープンソースで提供するスイート。
 
-## モデル（17）
+## モデル（18）
 
 ### 動画生成パイプライン（6）
 
@@ -383,6 +383,11 @@
   - 時系列 RGB 画像列からカメラ軌跡 (c2w / w2c, [N,4,4]) とフレーム毎のメートル深度を推定する。視覚オドメトリ (VO) と 3D 再構成の研究向け。
 - **[UniMate チェックポイント](models/3d-motion/linzhan-unimate.md)**  free / Linzhan Mou ほか（Princeton / UC Berkeley / MIT / NTU）
   - [UniMate](https://github.com/Friedrich-M/UniMate)（任意骨格向けテキスト→モーション）の**学習済みチェックポイント配布**。設定 JSON・正規化統計（.npy）・各ステップの .pt が入る。
+
+### 画像生成・編集（1）
+
+- **[FLUX.2 [klein] 4B](models/image-gen/black-forest-labs-flux.2-klein-4b.md)**  free / Black Forest Labs
+  - テキストプロンプトから画像を生成する（モデルカードの例は1024×1024、4ステップ、guidance_scale=1.0）。
 
 ### モデル推論・配信（1）
 

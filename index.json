@@ -1,5 +1,5 @@
 {
-  "count": 236,
+  "count": 237,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -2949,6 +2949,35 @@
       "type": "repo",
       "path": "entries/image-gen/renz1998-comfyui-prompt-atelier.md",
       "summary": "ローカルモデルで**生成用プロンプトを作る／広げる** ComfyUI ノード集。画像キャプション生成、キャラクター指示、DART タグ拡張、MOSS 用レイアウトJSON出力をまとめて扱う。"
+    },
+    {
+      "name": "FLUX.2 [klein] 4B",
+      "model": "black-forest-labs/FLUX.2-klein-4B",
+      "genre": "image-gen",
+      "url": "https://huggingface.co/black-forest-labs/FLUX.2-klein-4B",
+      "author": "Black Forest Labs",
+      "license": "Apache-2.0",
+      "downloads": 435063,
+      "likes": 1098,
+      "created": "2026-01-14",
+      "updated": "2026-02-24",
+      "format": "safetensors",
+      "size": "23.7 GB",
+      "base_model": [],
+      "pricing": "free",
+      "pricing_detail": "重みはApache-2.0で無償・商用可。公式ホストAPIは従量課金（FLUX.2 [klein] 4B: 1枚目1MP $0.014、追加MP $0.001、参照画像 $0.001/MP）。",
+      "signup_required": false,
+      "flags": [],
+      "risk_notes": "VRAM要件がモデルカード（約13GB）と公式コードリポジトリREADME（約8GB）で一致しない。速度・品質はベンダー主張で独立した第三者実測は未確認。同ファミリーの9B系とFLUX.2 [dev]はFLUX Non-Commercial Licenseなので混同しないこと。投稿のmedia画像3枚は他項目（OpenCreator / Social Media Research Skills / Local Deep Research）の紹介でFLUX.2の情報を含まない。",
+      "type": "model",
+      "added": "2026-11-08",
+      "first_seen": "2026-11-08",
+      "sources": [
+        "https://x.com/abir35627/status/2118648224202551573"
+      ],
+      "fetched_at": "2026-11-08T02:03:00Z",
+      "path": "models/image-gen/black-forest-labs-flux.2-klein-4b.md",
+      "summary": "テキストプロンプトから画像を生成する（モデルカードの例は1024×1024、4ステップ、guidance_scale=1.0）。"
     },
     {
       "type": "link",
