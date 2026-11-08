@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 268 件 — リポジトリ 190, リンク集 38, モデル 19, 記事 12, プロンプト 9 / ⚑ 要確認 54 件
+収録 269 件 — リポジトリ 190, リンク集 38, モデル 19, 記事 13, プロンプト 9 / ⚑ 要確認 55 件
 
 ## リポジトリ（190）
 
@@ -446,7 +446,7 @@
 - **[Haas-ja-v1.0](models/tts-audio/third-intelligence-haas-ja-v1-0.md)**  free / Third Intelligence
   - **日本語音声認識（ASR）モデル**。NVIDIA Parakeet-TDT 系の構成（FastConformer エンコーダ＋ TDT デコーダ）で、予測ネットワークの LSTM を **Kimi Delta Attention（KDA）** に置き換えている。
 
-## 記事（12）
+## 記事（13）
 
 ### 動画生成パイプライン（7）
 
@@ -458,8 +458,9 @@
 - **[Museに外部の無料GPU（Modal／Kaggle／Colab）を割り当てる手順](articles/2026-11-07-taki_auto-muse-free-gpu.md)** ⚑  @taki_auto
 - **[実写→1980s OVA調スタイルLoRAの学習レシピ（MiniMax H3 / AI Toolkit）](articles/2026-11-07-julienaiart-1980s-ova-lora.md)** ⚑  @JulienAIArt
 
-### 記事（3）
+### 記事（4）
 
+- **[$0のデジタル参謀長で月$80,000の契約候補を作ったというX投稿（動画付き）](articles/2026-10-22-bober_smart-0-80-000-x.md)** ⚑  @Bober_smart
 - **[1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md)** ⚑  @mukadeshinigami（mukade死神）
 - **[PFNの翻訳特化LLM「PLaMo 3 Translate」をスマホ・Windows・Mac・Linuxに入れる方法](articles/2026-11-05-emma-eva-note-emma_and_eva-pfn-llm-plamo-3-translate-windows-mac-linux.md)** ⚑  Emma先生 & Eva先生（note: emma_and_eva）
 - **[The Johnson brothers — AIキャラを「家族」に増やす成長プレイブック](articles/2026-10-16-y0urdumble-dumble-the-johnson-brothers-ai.md)** ⚑  @Y0urDumble (Dumble)
@@ -485,6 +486,7 @@
 - [TailorRig](links/3d-motion/xxxx0601.github.io-tailorrig.md) — unverified / SIGGRAPH Asia 2026 の to appear 論文で、プロジェクトページにはアニメーションと3Dビューアのデモしかない。コード・重み・モデルカードは無く、引用元も『Code ボタンは今は何も動かない』と明記している。GitHubリポジトリは見つからない。したがって現時点では再現・実行ができず、数値・品質は論文とデモに依存する。投稿本体は引用RTの感想2行で、著者本人の解説ではない。
 - [PilotDeck](entries/agent-framework/openbmb-pilotdeck.md) — unverified / 投稿の Workbuddy Bench 79.1点（Qwen3.6-35B-A3B）は README の表に該当がなく一次情報で確認できない。採用した数値は README 側のみ。
 - [FireRed-OpenStoryline](entries/agent-framework/fireredteam-firered-openstoryline.md) — unverified / インストール・実レンダリングは未実行で、記載は README / config.toml / requirements.txt / docs の原文にもとづく。2026-07-31 以降コミットがなく（30日0・90日0）、GitHub の Releases とタグは未作成（Docker Hub には v1.0.1 イメージあり）。LLM・VLM・（任意で）TTS/Pexels/AIトランジションのAPIキーが必須で、AIトランジションは外部動画生成APIの課金が発生し「コストが比較的高く結果は予測しづらい」とREADMEが明記している。
+- [$0のデジタル参謀長で月$80,000の契約候補を作ったというX投稿（動画付き）](articles/2026-10-22-bober_smart-0-80-000-x.md) — unverified / 主張の核（$0構成・月$80,000・40クリニック・450件収集・月180件）は全て投稿本文の自己申告で、一次資料の裏付けは無い。確認できたのは次の3点。(1) 投稿本文とメタデータをX APIで実測（2026-10-22T12:37:57Z投稿、likes 189 / views 12,274 / bookmarks 155、投稿内に外部URLは0件）。(2) 動画は実取得でき（HTTP 200、22.5MB、25.05秒、1080x1350/60fps）、フレームには「BOBER / OPUS 5.5」「GRAPH chief-night-01」と表示する演出過多のダッシュボード風UIが写り、都市Austin・目標$50k/mo・240件→25件→提案1件・価格欄blank→$0、最後に$2,000入力で$50,000、送信0件、下部に `~/bober $ run goal.md --public-only --no-send` の行がある。(3) 引用ツイート(2078784709253841039)のt.coはX Article 2078778232250183680 に解決し、記事タイトルは「Claude Second Brain & Folder Workflow: The Complete Guide」で、本文に chief / Seattle / clinic / 80,000 は0回。つまり「下に置いた full setup structure」と称する配布物は本投稿の内容（参謀長エージェントの構成）と対応していない。確認できなかったのは、X Article本文（未ログインだと /i/jf/onboarding/web?redirect_after_login=...&mode=login へリダイレクトされ取得不可。article ID直指定の取得も not_found）、実装コード・配布物・利用条件・料金、収益や契約の実績、動画内UIが実在の実行記録かどうか。動画の数値（Austin 240→25→$50,000）は投稿本文の数値（Seattle 450→40→$80,000）と一致せず、動画は本文に合わせて作られたモック/演出とみられる。著者プロフィールに配布先URLは無く、GitHubの Bobersmart（bio「X content creator and AI developer」、公開6リポジトリ）にも本件の構成物は無い。同名の agent-bober は別所有者のコーディング用ハーネスで本件とは無関係。したがって本項目は「主張の記録」としてのみ扱い、実測値・再現手順として引用しないこと。
 - [1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md) — unverified / X の記事取得でコードブロック（プロンプト雛形・位置合わせスクリプト・Blender スクリプト）が欠落。数値は著者の自己申告で独立検証なし。
 - [PFNの翻訳特化LLM「PLaMo 3 Translate」をスマホ・Windows・Mac・Linuxに入れる方法](articles/2026-11-05-emma-eva-note-emma_and_eva-pfn-llm-plamo-3-translate-windows-mac-linux.md) — unverified / PFN 公式ブログではなく第三者アカウントのまとめ記事。ベンチマーク優位は PFN 自身の評価の引用、iPhone の 0.515 秒は GIGAZINE の 1 回計測の引用で独立検証なし。winget での llama.cpp 導入、PocketPal AI での 0.8B 読み込み手順、llama.app のインストールスクリプト（取得したスクリプトをシェルに渡す方式）は本文の記述のみで未検証。記事末尾は著者の有料講義の宣伝。
 - [The Johnson brothers — AIキャラを「家族」に増やす成長プレイブック](articles/2026-10-16-y0urdumble-dumble-the-johnson-brothers-ai.md) — unverified, low-quality / 一次情報で確認できなかったこと: 具体的な生成ツール/モデル名（動画・画像に透かしもUIも開示ラベルもない）、プロンプト原文（投稿にもメディアにも存在しない）、フォロワー数・再生数・いいね数の実値（TikTok側は当方の取得で実データを返さず、第三者の集計でも同アカウントは時期により 156K/225.7K と変動）、$21K という収益額（71.6M views × $0.30/1000 の概算で、案件単価や成約の裏付けなし）、「2アカウントが同一運営者」という推断（著者自身が everything points to と推測で書いている）。動画の人物がAI生成だという前提も著者の主張と見た目の印象に留まり、プラットフォーム上の明示的開示は確認できない。誘導先 https://x.com/i/article/2109318233866006528 はログイン必須で本文未確認（同一URLの記事は既に別項目として登録済みのため重複作成しない）。内容は成長施策の助言が中心で、再現手順の技術的検証はできない。

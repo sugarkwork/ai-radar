@@ -1,5 +1,5 @@
 {
-  "count": 268,
+  "count": 269,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -2121,6 +2121,25 @@
       "type": "repo",
       "path": "entries/agent-framework/oxylabs-web-api-skills.md",
       "summary": "Oxylabs の Web API をコーディングエージェントから使うためのスキル集。3本構成:"
+    },
+    {
+      "name": "$0のデジタル参謀長で月$80,000の契約候補を作ったというX投稿（動画付き）",
+      "genre": "article",
+      "url": "https://x.com/Bober_smart/status/2113248494232170760",
+      "published": "2026-10-22",
+      "author": "@Bober_smart",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "主張の核（$0構成・月$80,000・40クリニック・450件収集・月180件）は全て投稿本文の自己申告で、一次資料の裏付けは無い。確認できたのは次の3点。(1) 投稿本文とメタデータをX APIで実測（2026-10-22T12:37:57Z投稿、likes 189 / views 12,274 / bookmarks 155、投稿内に外部URLは0件）。(2) 動画は実取得でき（HTTP 200、22.5MB、25.05秒、1080x1350/60fps）、フレームには「BOBER / OPUS 5.5」「GRAPH chief-night-01」と表示する演出過多のダッシュボード風UIが写り、都市Austin・目標$50k/mo・240件→25件→提案1件・価格欄blank→$0、最後に$2,000入力で$50,000、送信0件、下部に `~/bober $ run goal.md --public-only --no-send` の行がある。(3) 引用ツイート(2078784709253841039)のt.coはX Article 2078778232250183680 に解決し、記事タイトルは「Claude Second Brain & Folder Workflow: The Complete Guide」で、本文に chief / Seattle / clinic / 80,000 は0回。つまり「下に置いた full setup structure」と称する配布物は本投稿の内容（参謀長エージェントの構成）と対応していない。確認できなかったのは、X Article本文（未ログインだと /i/jf/onboarding/web?redirect_after_login=...&mode=login へリダイレクトされ取得不可。article ID直指定の取得も not_found）、実装コード・配布物・利用条件・料金、収益や契約の実績、動画内UIが実在の実行記録かどうか。動画の数値（Austin 240→25→$50,000）は投稿本文の数値（Seattle 450→40→$80,000）と一致せず、動画は本文に合わせて作られたモック/演出とみられる。著者プロフィールに配布先URLは無く、GitHubの Bobersmart（bio「X content creator and AI developer」、公開6リポジトリ）にも本件の構成物は無い。同名の agent-bober は別所有者のコーディング用ハーネスで本件とは無関係。したがって本項目は「主張の記録」としてのみ扱い、実測値・再現手順として引用しないこと。",
+      "type": "article",
+      "added": "2026-11-08",
+      "first_seen": "2026-11-08",
+      "sources": [
+        "https://x.com/Bober_smart/status/2113248494232170760"
+      ],
+      "fetched_at": "2026-11-08T10:43:52Z",
+      "path": "articles/2026-10-22-bober_smart-0-80-000-x.md"
     },
     {
       "type": "article",
