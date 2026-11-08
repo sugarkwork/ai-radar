@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 270 件 — リポジトリ 191, リンク集 38, モデル 19, 記事 13, プロンプト 9 / ⚑ 要確認 56 件
+収録 271 件 — リポジトリ 191, リンク集 39, モデル 19, 記事 13, プロンプト 9 / ⚑ 要確認 57 件
 
 ## リポジトリ（191）
 
@@ -290,7 +290,7 @@
 - **[モーショントランスファー用プロンプト（Kling Motion Control など）](prompts/prompt-other/kling-motion-control-5d1a7ab60f.md)**  ChatGPT などのテキスト/画像生成LLM、および Kling Motion Control 等の image-to-video
   - Genjutsu 以外の image-to-video motion control ツール（記事は Kling Motion Control を例示）で、参照動画の動きを静止画キャラクターに演じさせるための指示文。
 
-## リンク集（38）
+## リンク集（39）
 
 ### リンク（サービス・ツール）（11）
 
@@ -355,7 +355,7 @@
 - **[The Internet Designs](links/link-inspiration/theinternetdesigns-com.md)**  free / The Internet Designs
   - X（Twitter）と Pinterest に投稿された UI デザインを収集・索引化し、デザインの参考として引けるようにする。ポストの「find beautifully designed websites」に対応する。
 
-### 3D・モーション（6）
+### 3D・モーション（7）
 
 - **[1枚絵からローカル3D空間を生成するデモ（LUCIAN）](links/3d-motion/lucianlamp-1image-3d-demo.md)** ⚑  @lucianlamp
   - 1枚の画像を入力に、歩けるローカル3D空間を生成するデモ。ゲーム・映像向けのシーン試作を、モデリングなしで行う発想の例。
@@ -365,6 +365,8 @@
   - 同期済みのマルチカメラ実写素材から、自由視点で見られる4D（3DGS＋時間軸）表現を作り、Web・VR・エンジン上で再生するための商用プラットフォーム。
 - **[HairDeck](links/3d-motion/hyzcluster.github.io-hairdeck.md)** ⚑  free / hyz317 (Yuze He, Yixiang Wei, Wang Zhao, Chuhao Chen, Yanning Zhou, Yong-Jin Liu / Tsinghua University, CMU, CUHK)
   - ゲームやアバターの髪を作る「ヘアカード」(アーティストが配置するリボン状メッシュ) を、キャラクター画像1枚から自動生成する研究プロジェクト。
+- **[ISO-GLOW](links/3d-motion/isoglow.dev-iso-glow.md)** ⚑  free
+  - テキストで指示した物体・デバイス・建物を、細線の等角投影（アイソメトリック）イラスト1枚のHTMLとして生成するClaudeスキル。点灯している部分だけが発光し、押せる部品は実際に反応する。3Dを指定すると同じ見た目をthree.jsで構築し、視点を回せるようにする。
 - **[Sand3D (sand3d)](links/3d-motion/sandflow.ai-sand3d-sand3d.md)**  free / Sandflow (Sandflow-ai)
   - 3D 形状を「部品ごとの短い Python プログラム」として記述するためのライブラリ。座標を手計算せず、名前付きの部品・辺・面を操作するので、LLM が数百トークンで物体を書き、人間がそのまま読める。
 - **[TailorRig](links/3d-motion/xxxx0601.github.io-tailorrig.md)** ⚑  free / Tencent LIGHTSPEED＋清華大学（Chen Yajing ほか8名）
@@ -483,6 +485,7 @@
 - [1枚絵からローカル3D空間を生成するデモ（LUCIAN）](links/3d-motion/lucianlamp-1image-3d-demo.md) — unverified, low-quality / 投稿はデモ動画と主張のみで、コード・重み・手順・配布リンクが無い。『Claude Opus 5.5 と gptimage だけで1枚の画像から歩ける3D空間をローカル生成、LOD/ストリーミング対応、外部アセット・生成3Dモデルなし』は本人の説明で、第三者の再現・検証は無い。投稿を引用した cat_SI1 の称賛のみで、一次情報は追加されていない。カタログの再現可能な配布物には該当しないため、情報としてのみ収録。
 - [4DAnyone](links/3d-motion/4danyone.github.io-4danyone.md) — unverified / 投稿は Faltwerk という4DGS圧縮・配信ツール（1.4GB→5〜7MB、Quest 3 で25〜40Mbps配信、AIアバターへの影付け）を名乗るが、対象ページに Faltwerk の記載は一切なく、実体は別プロジェクト 4DAnyone（SIGGRAPH Asia 2026）。投稿の圧縮率・配信帯域・実演は一次情報で確認できず本項目には採用していない。James C. Kane はページ内で 4DGS プレイヤー作者として謝辞に出るのみ。リポジトリは Apache-2.0 だが third_party（GVHMR 等）は別ライセンスで、パイプライン全体の商用利用は要確認。推論には 22GB 級 VRAM の GPU が必要。
 - [HairDeck](links/3d-motion/hyzcluster.github.io-hairdeck.md) — unverified / ローカル実行には NVIDIA CUDA GPU (CUDA 12.8) または Apple silicon (MPS)、Python 3.12 / PyTorch 2.8 が必要。セットアップで重み・前処理モデル・Blender 4.2 LTS を取得する。SAM 3 と DINOv3 は Hugging Face 上で gated=manual のため、ライセンス同意と hf auth login が別途必要。必要 VRAM は未記載のため未確認。生成物はゲーム/アバター向けのアセットで、商用利用時はサードパーティモデルのライセンスを個別確認のこと。
+- [ISO-GLOW](links/3d-motion/isoglow.dev-iso-glow.md) — unverified / 3D実装（three.js 0.160.0、OrbitControls、正射影のIso view、.glb取り込み、3D作例12点）は配布zip内のSKILL.mdとgallery-3d.html、および投稿動画のフレームで確認した。ただしClaude上で実際に図を生成する再現テストは未実施で、出力品質や.glbの仕上がりは未検証。バージョン番号・変更履歴は公開されておらず、「更新版」の版を特定できない。配布物は14ファイル約455KBで、サイトの「Six text files, about 300 KB」という説明とは一致しない（機能面への影響は不明）。公式GitHubリポジトリは無く、配布はisoglow.devのzip/tar.gz/.skillのみ。
 - [Muse×Blender×PLATEAUで作る「日本の名所」3D化リスト](articles/2026-11-07-29meat_ai-muse-blender-plateau.md) — low-quality, unverified / 新規ツール・モデルの提示ではなく、既知の Muse（Metaの個人向けAIエージェント、2026年9月発表）と Blender、国土交通省 PLATEAU を組み合わせた制作ノウハウの一覧。投稿にMuseの一次リンクはない。地名リストと『主役は手作り＋周囲は実データ』という方針は妥当だが、PLATEAUの建物詳細度・収録範囲は地域により異なる。数値・制作時間の検証は無い。引用元は自分の過去作例、会話欄は第三者の作例＋無関係な広告が中心。
 - [TailorRig](links/3d-motion/xxxx0601.github.io-tailorrig.md) — unverified / SIGGRAPH Asia 2026 の to appear 論文で、プロジェクトページにはアニメーションと3Dビューアのデモしかない。コード・重み・モデルカードは無く、引用元も『Code ボタンは今は何も動かない』と明記している。GitHubリポジトリは見つからない。したがって現時点では再現・実行ができず、数値・品質は論文とデモに依存する。投稿本体は引用RTの感想2行で、著者本人の解説ではない。
 - [PilotDeck](entries/agent-framework/openbmb-pilotdeck.md) — unverified / 投稿の Workbuddy Bench 79.1点（Qwen3.6-35B-A3B）は README の表に該当がなく一次情報で確認できない。採用した数値は README 側のみ。

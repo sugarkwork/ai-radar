@@ -1,5 +1,5 @@
 {
-  "count": 270,
+  "count": 271,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -789,6 +789,27 @@
       "fetched_at": "2026-11-06T21:06:07Z",
       "path": "links/3d-motion/hyzcluster.github.io-hairdeck.md",
       "summary": "ゲームやアバターの髪を作る「ヘアカード」(アーティストが配置するリボン状メッシュ) を、キャラクター画像1枚から自動生成する研究プロジェクト。"
+    },
+    {
+      "name": "ISO-GLOW",
+      "genre": "3d-motion",
+      "url": "https://isoglow.dev/",
+      "pricing": "free",
+      "pricing_detail": "スキル本体は無料（MIT）。zip / tar.gz / .skill を直接ダウンロード。姉妹の Iso UI（500点パック）は別売り。",
+      "signup_required": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "3D実装（three.js 0.160.0、OrbitControls、正射影のIso view、.glb取り込み、3D作例12点）は配布zip内のSKILL.mdとgallery-3d.html、および投稿動画のフレームで確認した。ただしClaude上で実際に図を生成する再現テストは未実施で、出力品質や.glbの仕上がりは未検証。バージョン番号・変更履歴は公開されておらず、「更新版」の版を特定できない。配布物は14ファイル約455KBで、サイトの「Six text files, about 300 KB」という説明とは一致しない（機能面への影響は不明）。公式GitHubリポジトリは無く、配布はisoglow.devのzip/tar.gz/.skillのみ。",
+      "type": "link",
+      "added": "2026-11-08",
+      "first_seen": "2026-11-08",
+      "sources": [
+        "https://x.com/sumika45379/status/2112019659679740164"
+      ],
+      "fetched_at": "2026-11-08T11:50:15Z",
+      "path": "links/3d-motion/isoglow.dev-iso-glow.md",
+      "summary": "テキストで指示した物体・デバイス・建物を、細線の等角投影（アイソメトリック）イラスト1枚のHTMLとして生成するClaudeスキル。点灯している部分だけが発光し、押せる部品は実際に反応する。3Dを指定すると同じ見た目をthree.jsで構築し、視点を回せるようにする。"
     },
     {
       "type": "model",
