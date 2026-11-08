@@ -1,5 +1,5 @@
 {
-  "count": 237,
+  "count": 238,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -3253,6 +3253,28 @@
       "fetched_at": "2026-11-06T21:06:07Z",
       "path": "links/link-service/compshare.cn-compshare.md",
       "summary": "UCloud（优刻得）系の GPU クラウド。AI の学習・推論・画像生成用に GPU インスタンスを時間・日・月単位で借りる。"
+    },
+    {
+      "name": "Jev（TypeSafe AI）",
+      "genre": "link-service",
+      "url": "https://typesafe.ai/",
+      "author": "TypeSafe AI",
+      "pricing": "paid",
+      "pricing_detail": "$42 / 10億入力トークン（$0.042 / 100万トークン）、出力トークンは無料。無料枠・トライアルの公式記載はなし。Enterprise は個別見積り（上限引き上げ・ZDR・SOC2 Type II）。",
+      "signup_required": true,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "投稿が掲げる数値（10,000タスクを20秒、9,214件をOpusに渡さない、8レーンで衝突0、41,096行、12.7x fewer Opus calls、Jev費用$0.38）は投稿本文と添付動画の中だけの主張で、一次情報の裏付けがない。添付動画は実アプリの画面ではなく演出されたモックで、同じ動画内でも Jev 費用が $0.25 から $0.38 へ変化し、41,096 行は画面に現れない。Jev 自体（TypeSafe AI の System One モデル、$42/10億入力トークン、HTTP API/SDK/agent skill）は公式サイトとドキュメントで確認できるが、公式は「コーディングエージェントの LLM を置き換えるものではない」と明記しており、投稿の8レーン並列構成の再現手順は公開されていない。無料枠の有無、コンソールの課金開始条件は未確認。",
+      "type": "link",
+      "added": "2026-11-08",
+      "first_seen": "2026-11-08",
+      "sources": [
+        "https://x.com/Y0urDumble/status/2108977887126630649"
+      ],
+      "fetched_at": "2026-11-08T04:07:21+00:00",
+      "path": "links/link-service/typesafe.ai-jev-typesafe-ai.md",
+      "summary": "高性能LLMにバックログ全体を投げる前に、「些細・定型・難しい」の判断だけを安く速く済ませ、難しい案件だけをLLMに渡すための判断レイヤー。"
     },
     {
       "name": "Paper Animation",
