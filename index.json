@@ -1,5 +1,5 @@
 {
-  "count": 239,
+  "count": 240,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -6695,6 +6695,27 @@
       "signup_required": false,
       "path": "models/video-gen/wepenerd-h3-ripple.md",
       "summary": "**MiniMax H3 FL2VA 用の LoRA**。既存の動画ショットから1〜2枚のアンカーフレームを選び、画像編集で直した内容を、指定した区間の全フレームへ伝播させる。"
+    },
+    {
+      "name": "Higgsfield AI Influencer",
+      "genre": "video-gen",
+      "url": "https://higgsfield.ai/ai-influencer",
+      "pricing": "freemium",
+      "pricing_detail": "無料枠: Free プラン（商用利用不可、同時実行1）と、プラン別の無料生成枠（pricing ページ 2026-11-08 表示: Genjutsu 720p 3 free gens / Genjutsu Lite 1080p 5 free gens / AI Influencer 10 free gens〈Starter〉、Plus・Ultra は AI Influencer 30 free gens）。有料: クレジット制の月額サブスク。2026-11-08 の pricing ページ表示は Starter 270 credits/月 $19、Plus 1,200 credits/月 $59（年払い $47/月）、Ultra 3,000 credits/月 $129（年払い $99/月）、税別。公式の価格解説記事（2026-10-24）は Starter $15/200 credits、Plus $49/1,000、Ultra $129/3,000 としており、クレジット数は増加している。クレジット単価の目安（同記事・Plus 月払い基準）は約 $0.049/credit。",
+      "signup_required": true,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "月額 USD と無料枠の数は地域・キャンペーンで変動する。AI Influencer 1体あたりのクレジット消費（記事は 1.12 credits ≈ $0.06 と主張）と無料プラン生成物の透かしの有無は未確認。実在人物の写真を使う場合は本人の許諾が必要。",
+      "type": "link",
+      "added": "2026-11-08",
+      "first_seen": "2026-11-08",
+      "sources": [
+        "https://x.com/Y0urDumble/status/2109342020921659784"
+      ],
+      "fetched_at": "2026-11-08T04:58:00Z",
+      "path": "links/video-gen/higgsfield.ai-higgsfield-ai-influencer.md",
+      "summary": "実在しない人物（AIインフルエンサー）の見た目と動きを、プロンプトではなくメニュー操作で組み立てるためのスタジオ。作った人物を element として保存し、縦動画の差し替え用キャラクターとして使い回す。"
     },
     {
       "type": "model",
