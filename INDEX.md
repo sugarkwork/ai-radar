@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 246 件 — リポジトリ 187, リンク集 31, モデル 18, 記事 3, プロンプト 7 / ⚑ 要確認 33 件
+収録 254 件 — リポジトリ 188, リンク集 32, モデル 19, 記事 8, プロンプト 7 / ⚑ 要確認 41 件
 
-## リポジトリ（187）
+## リポジトリ（188）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -97,7 +97,7 @@
 | [BetterSearch](entries/agent-framework/ry0narushima-bettersearch.md) | 40 | 4 | 週次 | 10 | 2026-10-18 | 2026-11-03 | 2026-11-03 | MIT |
 | [web-api-skills](entries/agent-framework/oxylabs-web-api-skills.md) | 11 | 1 | 月次 | 3 | 2026-10-13 | 2026-11-03 | 2026-11-03 | MIT |
 
-### 3D・モーション（22）
+### 3D・モーション（23）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -121,6 +121,7 @@
 | [effekseer-vfx-skill](entries/3d-motion/kanaworksai-hue-effekseer-vfx-skill.md) | 79 | 6 | 週次 | 11 | 2026-10-29 | 2026-11-04 | 2026-11-04 | MIT |
 | [CurioMesh](entries/3d-motion/curiocrafter-curiomesh.md) | 46 | 3 | 毎日 | 100+ | 2026-11-06 | 2026-11-06 | 2026-11-06 | GPL-3.0 |
 | [Faltwerk](entries/3d-motion/edrethardo-faltwerk.md) | 36 | 3 | — | 3 | 2026-11-04 | 2026-11-07 | 2026-11-07 | MIT |
+| [GLB Viewer](entries/3d-motion/cullenwebber-glb-viewer.md) ⚑ | 16 | 0 | — | — |  | 2026-11-08 | 2026-11-08 | none |
 | [VRMkimodo](entries/3d-motion/camenduru-vrmkimodo.md) ⚑ | 15 | 1 | 毎日 | 21 | 2026-11-05 | 2026-11-06 | 2026-11-06 | Apache-2.0 |
 | [VRMExMR](entries/3d-motion/camenduru-vrmexmr.md) ⚑ | 13 | 0 | 毎日 | 39 | 2026-11-05 | 2026-11-06 | 2026-11-06 | 未確認（API は NOASSERTION。ExMR 側の条件を確認） |
 
@@ -282,7 +283,7 @@
 - **[モーショントランスファー用プロンプト（Kling Motion Control など）](prompts/prompt-other/kling-motion-control-5d1a7ab60f.md)**  ChatGPT などのテキスト/画像生成LLM、および Kling Motion Control 等の image-to-video
   - Genjutsu 以外の image-to-video motion control ツール（記事は Kling Motion Control を例示）で、参照動画の動きを静止画キャラクターに演じさせるための指示文。
 
-## リンク集（31）
+## リンク集（32）
 
 ### リンク（サービス・ツール）（10）
 
@@ -339,7 +340,7 @@
 - **[Wonderlist](links/link-asset/wonderlist-design.md)**  paid / Wonderlist
   - Figma 形式の Web サイトデザイン集を買い切りで販売する。デザイナー／開発者が一から設計せずにサイトを立ち上げるための素材。
 
-### 3D・モーション（4）
+### 3D・モーション（5）
 
 - **[4DAnyone](links/3d-motion/4danyone.github.io-4danyone.md)** ⚑  free / 4DAnyone authors（Zhejiang University / Ant Group、コードは ant-research 名義）
   - スマートフォンなどで撮った1本の手持ち動画から、カメラ内部・外部パラメータや撮影リグなしで多視点動画を生成し、そのまま 4D Gaussian Splatting (4DGS) の再構成に渡せるようにする研究プロジェクト（SIGGRAPH Asia 2026、Zhejiang University / Ant Grou
@@ -349,6 +350,8 @@
   - ゲームやアバターの髪を作る「ヘアカード」(アーティストが配置するリボン状メッシュ) を、キャラクター画像1枚から自動生成する研究プロジェクト。
 - **[Sand3D (sand3d)](links/3d-motion/sandflow.ai-sand3d-sand3d.md)**  free / Sandflow (Sandflow-ai)
   - 3D 形状を「部品ごとの短い Python プログラム」として記述するためのライブラリ。座標を手計算せず、名前付きの部品・辺・面を操作するので、LLM が数百トークンで物体を書き、人間がそのまま読める。
+- **[TailorRig](links/3d-motion/xxxx0601.github.io-tailorrig.md)** ⚑  free / Tencent LIGHTSPEED＋清華大学（Chen Yajing ほか8名）
+  - キャラクターの身体スケルトンと衣装（スカート・髪・袖・アクセサリ）を同時に扱い、衣装まで含めたリグを自動生成する研究。
 
 ### 動画生成パイプライン（3）
 
@@ -364,7 +367,22 @@
 - **[ArtCraft Craft Apps](links/mcp-server/getartcraft.com-artcraft-craft-apps.md)**  free / ArtCraft (GitHub: storytold)
   - 画像編集・ベクター・動画・PDF・DTP・3Dテクスチャ・DAW・CAD・表計算など、商用クリエイティブソフト相当の機能をRust製ネイティブアプリとして無料・オープンソースで提供するスイート。
 
-## モデル（18）
+## モデル（19）
+
+### その他（6）
+
+- **[Clover 35B-A3B（拡散型 MoE）](models/other/diffuspace-clover-35b-a3b-preview.md)** ⚑  free / DiffuSpace
+  - **自己回帰ではなくブロック拡散で書く**テキスト生成モデル。1トークンずつ左から伸ばす代わりに、ブロック単位でマスクを置き、確信度の高い位置から並列に埋めて確定させる。
+- **[DeepSeek-V4-Pro-Qwen3.5-9B UNCENSORED（Heretic ARA）](models/other/xtools-at-deepseek-v4-pro-qwen3.5-9b-uncensored-heretic.md)** ⚑  free / xtools-at（表示名 Colonel Panic）
+  - Qwen3.5-9B をベースに、DeepSeek-V4-Pro の推論を約25万件の数学・STEMサンプルで蒸留した Jackrong/DeepSeek-V4-Pro-Qwen3.5-9B に対し、Heretic v2.0.0.dev0 の **ARA（Arbitrary-Rank Ablation）** を適用して
+- **[Lunar-Trace-31B (i1 GGUF)](models/other/mradermacher-lunar-trace-31b-i1-gguf.md)**  free / mradermacher
+  - Gemma-4-31B-it を土台に4モデルをマージした31Bモデルを、量子化してローカルで動かせる(チャット・ロールプレイ・創作・長編ストーリー)
+- **[PLaMo 3 Translate 8B](models/other/pfnet-plamo-3-translate-8b.md)**  free / Preferred Networks
+  - 日本語↔英語を含む53言語（カード記載）間の翻訳をローカルで実行する（pipeline_tag: translation）
+- **[Qwen3.5-0.8B weight-space-programming](models/other/ml-intern-lab-qwen3-5-0-8b-weight-space-programming.md)**  free / ML Intern lab（@_akhaliq ほか）
+  - **学習せずに重みを直接編集して、モデルの病的な挙動を直したチェックポイント**。Qwen3.5-0.8B が数学問題でトークン上限までループする症状を、勾配降下も微調整も使わずに修正している。
+- **[Ripple-65B Preview](models/other/ricursiveai-ripple-65b-preview.md)** ⚑  freemium / Ricursive Intelligence（ricursiveAI）
+  - ローカル serving: リポジトリ同梱の inference/server/serve.py（SGLang 0.5.19 ベース）で OpenAI 互換の /v1/chat/completions を立てられる。tools / tool_choice による関数呼び出し、message.reasoning_cont
 
 ### 動画生成パイプライン（6）
 
@@ -380,19 +398,6 @@
   - **AI 動画向けの 2倍 / 4倍アップスケーラ**。ComfyUI で使えるように再パッケージされたモデルファイル一式。
 - **[Viggle Remake（MiniMax-H3 ベースの動画リメイク）](models/video-gen/viggle-viggle-remake.md)**  Viggle
   - **動画のリメイク（キャラクター置換・衣装・天候・小物の追加削除・スタイル変更）**を行う video-to-video モデル。MiniMax-H3 をベースにした LoRA として配布されている。
-
-### その他（5）
-
-- **[Clover 35B-A3B（拡散型 MoE）](models/other/diffuspace-clover-35b-a3b-preview.md)** ⚑  free / DiffuSpace
-  - **自己回帰ではなくブロック拡散で書く**テキスト生成モデル。1トークンずつ左から伸ばす代わりに、ブロック単位でマスクを置き、確信度の高い位置から並列に埋めて確定させる。
-- **[Lunar-Trace-31B (i1 GGUF)](models/other/mradermacher-lunar-trace-31b-i1-gguf.md)**  free / mradermacher
-  - Gemma-4-31B-it を土台に4モデルをマージした31Bモデルを、量子化してローカルで動かせる(チャット・ロールプレイ・創作・長編ストーリー)
-- **[PLaMo 3 Translate 8B](models/other/pfnet-plamo-3-translate-8b.md)**  free / Preferred Networks
-  - 日本語↔英語を含む53言語（カード記載）間の翻訳をローカルで実行する（pipeline_tag: translation）
-- **[Qwen3.5-0.8B weight-space-programming](models/other/ml-intern-lab-qwen3-5-0-8b-weight-space-programming.md)**  free / ML Intern lab（@_akhaliq ほか）
-  - **学習せずに重みを直接編集して、モデルの病的な挙動を直したチェックポイント**。Qwen3.5-0.8B が数学問題でトークン上限までループする症状を、勾配降下も微調整も使わずに修正している。
-- **[Ripple-65B Preview](models/other/ricursiveai-ripple-65b-preview.md)** ⚑  freemium / Ricursive Intelligence（ricursiveAI）
-  - ローカル serving: リポジトリ同梱の inference/server/serve.py（SGLang 0.5.19 ベース）で OpenAI 互換の /v1/chat/completions を立てられる。tools / tool_choice による関数呼び出し、message.reasoning_cont
 
 ### 3D・モーション（3）
 
@@ -423,24 +428,38 @@
 - **[Haas-ja-v1.0](models/tts-audio/third-intelligence-haas-ja-v1-0.md)**  free / Third Intelligence
   - **日本語音声認識（ASR）モデル**。NVIDIA Parakeet-TDT 系の構成（FastConformer エンコーダ＋ TDT デコーダ）で、予測ネットワークの LSTM を **Kimi Delta Attention（KDA）** に置き換えている。
 
-## 記事（3）
+## 記事（8）
+
+### 動画生成パイプライン（4）
+
+- **[AIインフルエンサー量産術：Higgsfield AI Influencer＋Genjutsuで作る架空キャラ](articles/2026-10-11-y0urdumble-ai-higgsfield-ai-influencer-genjutsu.md)** ⚑  @Y0urDumble
+- **[MiniMax H3系のボイスLoRA／キャプション運用メモ](articles/2026-11-07-ai_1610-h3-voice-lora-memo.md)** ⚑  @ai_1610
+- **[Museに外部の無料GPU（Modal／Kaggle／Colab）を割り当てる手順](articles/2026-11-07-taki_auto-muse-free-gpu.md)** ⚑  @taki_auto
+- **[実写→1980s OVA調スタイルLoRAの学習レシピ（MiniMax H3 / AI Toolkit）](articles/2026-11-07-julienaiart-1980s-ova-lora.md)** ⚑  @JulienAIArt
 
 ### 記事（2）
 
 - **[1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md)** ⚑  @mukadeshinigami（mukade死神）
 - **[PFNの翻訳特化LLM「PLaMo 3 Translate」をスマホ・Windows・Mac・Linuxに入れる方法](articles/2026-11-05-emma-eva-note-emma_and_eva-pfn-llm-plamo-3-translate-windows-mac-linux.md)** ⚑  Emma先生 & Eva先生（note: emma_and_eva）
 
-### 動画生成パイプライン（1）
+### 3D・モーション（1）
 
-- **[AIインフルエンサー量産術：Higgsfield AI Influencer＋Genjutsuで作る架空キャラ](articles/2026-10-11-y0urdumble-ai-higgsfield-ai-influencer-genjutsu.md)** ⚑  @Y0urDumble
+- **[Muse×Blender×PLATEAUで作る「日本の名所」3D化リスト](articles/2026-11-07-29meat_ai-muse-blender-plateau.md)** ⚑  @29meat_ai
+
+### リンク（サービス・ツール）（1）
+
+- **[「違法っぽいけど合法」30サイトまとめの検証メモ](articles/2026-11-07-hey_jessicaai-30-websites-list.md)** ⚑  @hey_Jessicaai
 
 ## ⚑ 要確認
 
 - [text-to-cad](entries/3d-motion/earthtojake-text-to-cad.md) — unverified / 有効性は配布元の設計説明と自己申告のみで、生成された CAD の寸法精度・製造可能性を第三者が測定した結果は確認していない。DFM/DfAM の検査は mesh 計測と規則の引用だが、規則の妥当性・合否閾値は未検証。PyPI の分類は Development Status :: 4 - Beta。Python 3.14 固定で 3.13 以前では動かない。Windows 11 の Smart App Control 有効環境では OCP のネイティブモジュールが遮断される。既定でテレメトリ有効。リポジトリサイズは API 表記 436,278 KB。
+- [GLB Viewer](entries/3d-motion/cullenwebber-glb-viewer.md) — unverified, low-quality / LICENSEファイルが404で、明示ライセンスなし（all rights reserved）。ソースは公開されているが、再配布・商用利用の許諾は不明。配布はmacOSのDMGのみ（arm64/x64、Apple公証なし→初回はOpen Anywayかxattr -cr）。Windows/Linuxのビルド手順はREADMEになく、Windows 11環境ではそのまま動かせない。16 starsの若いプロジェクトで、AI機能はない。DMG未ダウンロード・未起動（READMEとリポジトリ構成のみ確認）。
 - [VRMkimodo](entries/3d-motion/camenduru-vrmkimodo.md) — unverified / 上流 nv-tlabs/kimodo のフォークで、独自追加は kimodo/exports/vrma.py のみ（README/CHANGELOG は上流と同一、CLI・デモからは未接続）。.vrma 書き出しはコード読解のみで実行検証していない。コードは Apache-2.0 だがモデル重みは NVIDIA Open Model License。ローカル生成には約17GB VRAM が必要。
 - [VRMExMR](entries/3d-motion/camenduru-vrmexmr.md) — unverified / ライセンス表記がなく、ExMR 側の利用条件（研究用か商用可か）を一次情報で確認できていない。商用利用の前に必ず確認する。
 - [4DAnyone](links/3d-motion/4danyone.github.io-4danyone.md) — unverified / 投稿は Faltwerk という4DGS圧縮・配信ツール（1.4GB→5〜7MB、Quest 3 で25〜40Mbps配信、AIアバターへの影付け）を名乗るが、対象ページに Faltwerk の記載は一切なく、実体は別プロジェクト 4DAnyone（SIGGRAPH Asia 2026）。投稿の圧縮率・配信帯域・実演は一次情報で確認できず本項目には採用していない。James C. Kane はページ内で 4DGS プレイヤー作者として謝辞に出るのみ。リポジトリは Apache-2.0 だが third_party（GVHMR 等）は別ライセンスで、パイプライン全体の商用利用は要確認。推論には 22GB 級 VRAM の GPU が必要。
 - [HairDeck](links/3d-motion/hyzcluster.github.io-hairdeck.md) — unverified / ローカル実行には NVIDIA CUDA GPU (CUDA 12.8) または Apple silicon (MPS)、Python 3.12 / PyTorch 2.8 が必要。セットアップで重み・前処理モデル・Blender 4.2 LTS を取得する。SAM 3 と DINOv3 は Hugging Face 上で gated=manual のため、ライセンス同意と hf auth login が別途必要。必要 VRAM は未記載のため未確認。生成物はゲーム/アバター向けのアセットで、商用利用時はサードパーティモデルのライセンスを個別確認のこと。
+- [Muse×Blender×PLATEAUで作る「日本の名所」3D化リスト](articles/2026-11-07-29meat_ai-muse-blender-plateau.md) — low-quality, unverified / 新規ツール・モデルの提示ではなく、既知の Muse（Metaの個人向けAIエージェント、2026年9月発表）と Blender、国土交通省 PLATEAU を組み合わせた制作ノウハウの一覧。投稿にMuseの一次リンクはない。地名リストと『主役は手作り＋周囲は実データ』という方針は妥当だが、PLATEAUの建物詳細度・収録範囲は地域により異なる。数値・制作時間の検証は無い。引用元は自分の過去作例、会話欄は第三者の作例＋無関係な広告が中心。
+- [TailorRig](links/3d-motion/xxxx0601.github.io-tailorrig.md) — unverified, low-quality / SIGGRAPH Asia 2026 の to appear 論文で、プロジェクトページにはアニメーションと3Dビューアのデモしかない。コード・重み・モデルカードは無く、引用元も『Code ボタンは今は何も動かない』と明記している。GitHubリポジトリは見つからない。したがって現時点では再現・実行ができず、数値・品質は論文とデモに依存する。投稿本体は引用RTの感想2行で、著者本人の解説ではない。
 - [PilotDeck](entries/agent-framework/openbmb-pilotdeck.md) — unverified / 投稿の Workbuddy Bench 79.1点（Qwen3.6-35B-A3B）は README の表に該当がなく一次情報で確認できない。採用した数値は README 側のみ。
 - [FireRed-OpenStoryline](entries/agent-framework/fireredteam-firered-openstoryline.md) — unverified / インストール・実レンダリングは未実行で、記載は README / config.toml / requirements.txt / docs の原文にもとづく。2026-07-31 以降コミットがなく（30日0・90日0）、GitHub の Releases とタグは未作成（Docker Hub には v1.0.1 イメージあり）。LLM・VLM・（任意で）TTS/Pexels/AIトランジションのAPIキーが必須で、AIトランジションは外部動画生成APIの課金が発生し「コストが比較的高く結果は予測しづらい」とREADMEが明記している。
 - [1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md) — unverified / X の記事取得でコードブロック（プロンプト雛形・位置合わせスクリプト・Blender スクリプト）が欠落。数値は著者の自己申告で独立検証なし。
@@ -451,6 +470,7 @@
 - [CompShare（優云智算）](links/link-service/compshare.cn-compshare.md) — unverified / GPU の無料枠・トライアルの有無、本人確認（実名認証）の要否、表示価格の税込/税抜は未確認。対象URLには referral_code と ytag のアフィリエイト用パラメータが付いており、エントリでは正規URL（https://www.compshare.cn/）を使う。コミュニティイメージは作成者が乌兰察布(cn-wlcb-01)の RTX4090 のみで検証済みと明記。210GB のイメージ取得とストレージ課金が別途発生する。
 - [Jev（TypeSafe AI）](links/link-service/typesafe.ai-jev-typesafe-ai.md) — unverified / 投稿が掲げる数値（10,000タスクを20秒、9,214件をOpusに渡さない、8レーンで衝突0、41,096行、12.7x fewer Opus calls、Jev費用$0.38）は投稿本文と添付動画の中だけの主張で、一次情報の裏付けがない。添付動画は実アプリの画面ではなく演出されたモックで、同じ動画内でも Jev 費用が $0.25 から $0.38 へ変化し、41,096 行は画面に現れない。Jev 自体（TypeSafe AI の System One モデル、$42/10億入力トークン、HTTP API/SDK/agent skill）は公式サイトとドキュメントで確認できるが、公式は「コーディングエージェントの LLM を置き換えるものではない」と明記しており、投稿の8レーン並列構成の再現手順は公開されていない。無料枠の有無、コンソールの課金開始条件は未確認。
 - [treg REA growth](links/link-service/treg.to-treg-rea-growth.md) — unverified / 未確認: 無料クレジット取得にカード登録や本人確認が必要か、verified account の条件、表示価格の税・通貨換算。料金はプロバイダのレート次第で変動し、$0.58 や各レートは 2026-11 時点の掲載値。ショーケース（Lovable の被リンク数・流入推定など）はベンダー自身の実行記録で、第三者の追試はない。当方ではスキルを実行しておらず出力品質は未検証。X 連携は treg の X アプリ経由だと自前キーでも従量課金。GitHub API の license は NOASSERTION だが LICENSE 本文は Apache-2.0。
+- [「違法っぽいけど合法」30サイトまとめの検証メモ](articles/2026-11-07-hey_jessicaai-30-websites-list.md) — low-quality, unverified, dead-link / 投稿は30件のURL＋一行説明を並べた集客リストで、著者自身の利用報告・検証・スクリーンショットが無い。30件すべて未登録だったが、中身はKrea/Magnific/ElevenLabs/Suno/Runway/Cursor/Perplexity/Claudeなど既知の商用クローズドSaaSで、再現可能な配布物が無い。リンク切れ2件（Phind、Jasper）。説明と実体の不一致2件（SoundCloudは音楽配信で『AI music tagging』ではない、SadTalkerのリンクは商用サイトでOSS本体ではない）。Raphael AIは本文の raphael.ai が接続不能で、公式は raphael.app。料金・無料枠は2026-11-08時点の各社ページで一部を実測したが、変更が早い。
 - [pagesift](entries/mcp-server/yolow92-pagesift.md) — unverified / AGPL-3.0 のため、改変してネットワーク越しに提供する場合はソース開示義務。プロプライエタリ製品への組み込みは別途商用ライセンス。README のベンチマーク数値（2.4ms/ページ、20.49倍、32MB 等）はすべて著者自身の計測で第三者検証なし＝カタログの事実としては採用せず flag 扱い。リポジトリは 2026-10-20 作成で履歴が浅く、v1.1.3 は検証当日リリース。pip 版 CLI のサブコマンドは mcp/scrape/convert のみで、README が示す crawl/extract/doctor やローカル PDF/Office の直接パースは cargo ビルド版の機能（pip 版 scrape は http(s) のみ受け付け、ローカルファイルは convert で HTML のみ）。
 - [gpu-unlock](entries/model-serving/zagitta-gpu-unlock.md) — unverified / ブート時にカーネルモジュールでGPUの速度セレクタを書き換える構成。性能値は作者計測で第三者検証なし。GeForce の保証・NVIDIA の規約への影響は未確認。トップレベルに LICENSE ファイルが無く licenses/ 配下のみ。
 - [kimi-k3-in-c](entries/model-serving/fareedkhan-dev-kimi-k3-in-c.md) — unverified / 1.56TBのチェックポイントを8.24GBのRAMで動かすという主張。数値は作者の docs/data のみで、独立した再現・検証はない。
@@ -460,6 +480,7 @@
 - [Motion Video Kit](entries/other/echris6-motion-video-kit.md) — unverified / スター1366・フォーク121に対し、コミットは90日で7件（作成2026-09-27、最終push 2026-10-14）で、X投稿経由の注目が先行した可能性がある。作例3本の動画・レンダー結果はリポジトリに含まれず（git tree に mp4 等なし）、成果物品質は第三者が確認できない。効果測定・ベンチマークはなく、効果は作者の自己申告の範囲。HyperFrames でのレンダリング（component-lab.html の npx 手順）は当方では未実行。
 - [DSH 破甲ワークフロー（dsh-jailbreak-workflow）](entries/other/minglink-dsh-jailbreak-workflow.md) — prompt-injection / モデルの拒否応答を回避する『破甲（jailbreak）』プロンプトを自動生成するためのワークフロー。各サービスの利用規約違反になり得る。記録のみで、実行・生成した内容の利用はしない。
 - [Clover 35B-A3B（拡散型 MoE）](models/other/diffuspace-clover-35b-a3b-preview.md) — unverified / tok/s 比較は投稿者環境の一例で、モデルカードに計測条件の記載がない。
+- [DeepSeek-V4-Pro-Qwen3.5-9B UNCENSORED（Heretic ARA）](models/other/xtools-at-deepseek-v4-pro-qwen3.5-9b-uncensored-heretic.md) — unverified, low-quality / モデルとライセンスは実在（HF APIで2026-11-08に確認: DL 1,369・likes 564・apache-2.0・Qwen3_5ForConditionalGeneration）。ただし投稿の主張は未検証か誤りを含む: 『Hugging Faceのサーバーが落ちた』は障害記録がなく誤り。『拒否率100/100→3/100』『KL 0.0422』『25万点蒸留』『知能を1点も失わない』はモデルカードの自己申告で第三者追試なし。カードのGSM8K 94.50%/MMLU-Pro 90.53%は拒否除去前のJackrong版の数字で、heretic版の能力評価は未提出。公式リポジトリはBF16のみでGGUFは第三者変換。そのQ4_K_M 5.63GBは変換時点でconfig.jsonのmtp_num_hidden_layers=1と実ウェイトが食い違い、llama.cppがGGML_ASSERTで落ちる（作者が11/08にMTPテンソルを復元したが再量子化は未実施）。『どの端末でも数秒』は誇張で、CPUのみは変換者計測で約1 t/s。同名の非公式再アップロードが複数あり、クローンからの取得は避ける。当方でGPU推論・llama.cpp実行は未実施（runs_verified=false）。
 - [Ripple-65B Preview](models/other/ricursiveai-ripple-65b-preview.md) — unverified / ベンチマーク（TerminalBench 2.1 で 80.52、米国 open-weight SOTA 等）はすべて配布元の自己申告で第三者検証がない。モデルカードにローカル推論手順の記載はなく、実行手順はリポジトリ内 inference/server/README.md（2xB200 + SGLang 0.5.19 前提）のみで、DGX Spark 単機で動くという記述の実測裏付けはない。独自アーキテクチャ（custom_code、model_type=ricursive）のため transformers での自前ロードは未検証。OpenRouter の提供元は GMICloud 1 社のみで、2026-11-06T12:17Z 時点の status は -5・直近30分の uptime は 0（一時的な可能性あり）。発見源の X 投稿本文は Tokenomos（vLLM のスケジューラ／KV キャッシュ最適化）の公開告知で Ripple に言及がなく、対象との対応は投稿内リンクの展開に依存している。
 - [OpenChatCut](entries/video-gen/0xsline-openchatcut.md) — unverified / 同一性: forkではなく上流そのもの（fork=false、parentなし）。効果測定は作者自身のM4 Max 1台・2セグメントのみの予備計測で、第三者による再現やプロジェクト全体の速度検証はない。MCP経由の編集フロー（begin_edit_session→review_edit_session→承認）はREADME記載であり、当方ではアプリを実行して動作確認していない。macOSビルドは未署名・未公証で初回に手動許可が必要。ライセンスは AGPL-3.0 のため、改変版をネットワークサービスとして提供するとソース開示義務が生じる。MCPブリッジは単一ユーザー・単一マシン前提でマルチテナント非対応。スキル数「26」はREADME記載の値で、レート制限によりディレクトリを直接数えて照合できていない。
 - [vibe-knowledge-film](entries/video-gen/heychengc-vibe-knowledge-film.md) — unverified / ライセンス未確認（API は NOASSERTION、標準ライセンスファイル無し）。参照サンプルの転用可否も不明。
@@ -468,4 +489,7 @@
 - [Higgsfield AI Influencer](links/video-gen/higgsfield.ai-higgsfield-ai-influencer.md) — unverified / 月額 USD と無料枠の数は地域・キャンペーンで変動する。AI Influencer 1体あたりのクレジット消費（記事は 1.12 credits ≈ $0.06 と主張）と無料プラン生成物の透かしの有無は未確認。実在人物の写真を使う場合は本人の許諾が必要。
 - [Higgsfield Genjutsu](links/video-gen/higgsfield.ai-higgsfield-genjutsu.md) — unverified / 月額 USD と無料枠の数は地域・キャンペーンで変動する。AI Influencer 1体あたりのクレジット消費（記事は 1.12 credits ≈ $0.06 と主張）と無料プラン生成物の透かしの有無は未確認。実在人物の写真を使う場合は本人の許諾が必要。
 - [Kling AI Motion Control](links/video-gen/kling.ai-kling-ai-motion-control.md) — unverified / 無料枠と月額サブスクの金額は未確認（確認できたのは API の従量単価のみ）。参照動画の権利と、生成結果が元動画と似ることによる権利・プラットフォームポリシーの確認が必要。
+- [MiniMax H3系のボイスLoRA／キャプション運用メモ](articles/2026-11-07-ai_1610-h3-voice-lora-memo.md) — unverified / 引用先のnote記事は成人向け音声演技（喘ぎ・淫語）の設計メモで、職場閲覧注意。本文の『p-h3』は製品リンクがなく固有名を特定できない（H3系=MiniMax H3は既出。PrunaAIのP-H3-Imageは画像モデルで声LoRAとは無関係）。投稿は前投稿の訂正＋運用注意の追記で、新製品・リポジトリの提示ではない。声LoRAの効果やキャプション記述の優劣は本人の運用感で、数値・比較検証は無い。
+- [Museに外部の無料GPU（Modal／Kaggle／Colab）を割り当てる手順](articles/2026-11-07-taki_auto-muse-free-gpu.md) — low-quality, unverified / 新ツールの提示ではなく、既知サービス3つ（Modal・Kaggle・Colab）をMuse経由で使う手順とコピペ用プロンプトの連投。Modal Starterの月30ドル無料クレジット、KaggleのGPU無料枠が週30時間前後という記述は一次情報とおおむね一致するが、『1枚49秒／70秒』等の速度は本人環境依存で検証不能。本旨は『AI画像×CG集販売の12大特典を無料配布』への導線（販促）で、技術情報としての独自性は低い。成人向けはKaggle・Modalの規約で禁止という注意書きは妥当。会話欄に無関係な広告（コーヒー通販）が混入。
 - [RelayVSR（ComfyUI 向け 2x/4x 動画アップスケーラ）](models/video-gen/comfy-org-relayvsr.md) — unverified / 速度・画質の比較数値は投稿者（RTX 5090）の計測で、モデルカードに計測条件の記載がない。第三者追試は未確認。
+- [実写→1980s OVA調スタイルLoRAの学習レシピ（MiniMax H3 / AI Toolkit）](articles/2026-11-07-julienaiart-1980s-ova-lora.md) — unverified / 数値・手法はすべて本人申告で第三者検証なし。LoRAの重み・データセットは未公開で、次週Adobe MAX（Dellブース 11/10-11）での解説予告のみ。RTX PRO 6000（24GB超VRAM）で約30時間・4,000stepの条件は、A4000 16GBでは同条件の再現が非現実的。lossは1,000stepで頭打ちだが品質は2,500stepまで改善、4,000stepで過学習という報告も本人計測。

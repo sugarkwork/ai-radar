@@ -1,5 +1,5 @@
 {
-  "count": 246,
+  "count": 254,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -603,6 +603,33 @@
     },
     {
       "type": "repo",
+      "repo": "cullenwebber/glb-viewer",
+      "name": "GLB Viewer",
+      "genre": "3d-motion",
+      "url": "https://github.com/cullenwebber/glb-viewer",
+      "author": "Cullen Webber（@SinzVII）",
+      "license": "none",
+      "language": "TypeScript",
+      "stars": 16,
+      "forks": 0,
+      "open_issues": 0,
+      "added": "2026-11-08",
+      "first_seen": "2026-11-07",
+      "source_post": "https://x.com/SinzVII/status/2118904126923055436",
+      "sources": [
+        "https://raw.githubusercontent.com/cullenwebber/glb-viewer/main/README.md"
+      ],
+      "flags": [
+        "unverified",
+        "low-quality"
+      ],
+      "risk_notes": "LICENSEファイルが404で、明示ライセンスなし（all rights reserved）。ソースは公開されているが、再配布・商用利用の許諾は不明。配布はmacOSのDMGのみ（arm64/x64、Apple公証なし→初回はOpen Anywayかxattr -cr）。Windows/Linuxのビルド手順はREADMEになく、Windows 11環境ではそのまま動かせない。16 starsの若いプロジェクトで、AI機能はない。DMG未ダウンロード・未起動（READMEとリポジトリ構成のみ確認）。",
+      "fetched_at": "2026-11-08T06:40:00Z",
+      "path": "entries/3d-motion/cullenwebber-glb-viewer.md",
+      "summary": "GLB/glTF を読み込み、Three.js 向けに軽量化・検証・比較するローカル優先の macOS ワークスペース。"
+    },
+    {
+      "type": "repo",
       "name": "VRMkimodo",
       "genre": "3d-motion",
       "url": "https://github.com/camenduru/VRMkimodo",
@@ -803,6 +830,28 @@
       "summary": "時系列 RGB 画像列からカメラ軌跡 (c2w / w2c, [N,4,4]) とフレーム毎のメートル深度を推定する。視覚オドメトリ (VO) と 3D 再構成の研究向け。"
     },
     {
+      "name": "Muse×Blender×PLATEAUで作る「日本の名所」3D化リスト",
+      "genre": "3d-motion",
+      "url": "https://x.com/29meat_ai/status/2118962927437058547",
+      "author": "@29meat_ai",
+      "published": "2026-11-07",
+      "type": "article",
+      "added": "2026-11-08",
+      "first_seen": "2026-11-07",
+      "sources": [
+        "https://x.com/29meat_ai/status/2118962927437058547",
+        "https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/",
+        "https://www.mlit.go.jp/plateau/"
+      ],
+      "flags": [
+        "low-quality",
+        "unverified"
+      ],
+      "risk_notes": "新規ツール・モデルの提示ではなく、既知の Muse（Metaの個人向けAIエージェント、2026年9月発表）と Blender、国土交通省 PLATEAU を組み合わせた制作ノウハウの一覧。投稿にMuseの一次リンクはない。地名リストと『主役は手作り＋周囲は実データ』という方針は妥当だが、PLATEAUの建物詳細度・収録範囲は地域により異なる。数値・制作時間の検証は無い。引用元は自分の過去作例、会話欄は第三者の作例＋無関係な広告が中心。",
+      "fetched_at": "2026-11-08T06:40:00Z",
+      "path": "articles/2026-11-07-29meat_ai-muse-blender-plateau.md"
+    },
+    {
       "type": "link",
       "name": "Sand3D (sand3d)",
       "genre": "3d-motion",
@@ -821,6 +870,30 @@
       "fetched_at": "2026-11-07T10:59:19Z",
       "path": "links/3d-motion/sandflow.ai-sand3d-sand3d.md",
       "summary": "3D 形状を「部品ごとの短い Python プログラム」として記述するためのライブラリ。座標を手計算せず、名前付きの部品・辺・面を操作するので、LLM が数百トークンで物体を書き、人間がそのまま読める。"
+    },
+    {
+      "type": "link",
+      "name": "TailorRig",
+      "genre": "3d-motion",
+      "url": "https://xxxx0601.github.io/trig/",
+      "author": "Tencent LIGHTSPEED＋清華大学（Chen Yajing ほか8名）",
+      "pricing": "free",
+      "pricing_detail": "研究プロジェクトページ。料金は存在しない。コード・重み・モデルカードは未公開。",
+      "signup_required": false,
+      "added": "2026-11-08",
+      "first_seen": "2026-11-07",
+      "sources": [
+        "https://x.com/mask_3dcg/status/2119014970163855424",
+        "https://x.com/Stefan_3D_AI/status/2119004325410213937"
+      ],
+      "flags": [
+        "unverified",
+        "low-quality"
+      ],
+      "risk_notes": "SIGGRAPH Asia 2026 の to appear 論文で、プロジェクトページにはアニメーションと3Dビューアのデモしかない。コード・重み・モデルカードは無く、引用元も『Code ボタンは今は何も動かない』と明記している。GitHubリポジトリは見つからない。したがって現時点では再現・実行ができず、数値・品質は論文とデモに依存する。投稿本体は引用RTの感想2行で、著者本人の解説ではない。",
+      "fetched_at": "2026-11-08T06:40:00Z",
+      "path": "links/3d-motion/xxxx0601.github.io-tailorrig.md",
+      "summary": "キャラクターの身体スケルトンと衣装（スカート・髪・袖・アクセサリ）を同時に扱い、衣装まで含めたリグを自動生成する研究。"
     },
     {
       "type": "model",
@@ -3412,6 +3485,35 @@
       "summary": "treg.to は「エージェント向けツールの OpenRouter」を名乗る従量課金の API ゲートウェイ。1 つのトークンで 126 プロバイダ・4,100+ のツール（SEO/SERP、被リンク、SNS 投稿、人物・企業情報、広告ライブラリ、スクレイピング、画像/動画/音声生成）を、プロバイダごとの契約なしで呼べ"
     },
     {
+      "name": "「違法っぽいけど合法」30サイトまとめの検証メモ",
+      "genre": "link-service",
+      "url": "https://x.com/hey_Jessicaai/status/2118687676710998522",
+      "author": "@hey_Jessicaai",
+      "published": "2026-11-07",
+      "type": "article",
+      "added": "2026-11-08",
+      "first_seen": "2026-11-07",
+      "sources": [
+        "https://x.com/hey_Jessicaai/status/2118687676710998522",
+        "https://raphael.app/pricing",
+        "https://www.krea.ai/pricing",
+        "https://www.magnific.com/pricing",
+        "https://clipdrop.co/pricing",
+        "https://www.napkin.ai/pricing/",
+        "https://runway.com/",
+        "https://www.phind.com/",
+        "https://www.jasper.ai/free"
+      ],
+      "flags": [
+        "low-quality",
+        "unverified",
+        "dead-link"
+      ],
+      "risk_notes": "投稿は30件のURL＋一行説明を並べた集客リストで、著者自身の利用報告・検証・スクリーンショットが無い。30件すべて未登録だったが、中身はKrea/Magnific/ElevenLabs/Suno/Runway/Cursor/Perplexity/Claudeなど既知の商用クローズドSaaSで、再現可能な配布物が無い。リンク切れ2件（Phind、Jasper）。説明と実体の不一致2件（SoundCloudは音楽配信で『AI music tagging』ではない、SadTalkerのリンクは商用サイトでOSS本体ではない）。Raphael AIは本文の raphael.ai が接続不能で、公式は raphael.app。料金・無料枠は2026-11-08時点の各社ページで一部を実測したが、変更が早い。",
+      "fetched_at": "2026-11-08T06:40:00Z",
+      "path": "articles/2026-11-07-hey_jessicaai-30-websites-list.md"
+    },
+    {
       "repo": "D4Vinci/Scrapling",
       "name": "Scrapling",
       "genre": "mcp-server",
@@ -4483,6 +4585,45 @@
       "risk_notes": "tok/s 比較は投稿者環境の一例で、モデルカードに計測条件の記載がない。",
       "path": "models/other/diffuspace-clover-35b-a3b-preview.md",
       "summary": "**自己回帰ではなくブロック拡散で書く**テキスト生成モデル。1トークンずつ左から伸ばす代わりに、ブロック単位でマスクを置き、確信度の高い位置から並列に埋めて確定させる。"
+    },
+    {
+      "type": "model",
+      "model": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+      "name": "DeepSeek-V4-Pro-Qwen3.5-9B UNCENSORED（Heretic ARA）",
+      "genre": "other",
+      "url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+      "author": "xtools-at（表示名 Colonel Panic）",
+      "license": "Apache-2.0",
+      "base_model": [
+        "Jackrong/DeepSeek-V4-Pro-Qwen3.5-9B",
+        "unsloth/Qwen3.5-9B"
+      ],
+      "format": "safetensors",
+      "size": "BF16 4分割＋mtp 計19.31GB／第三者GGUF Q4_K_M 5.63GB",
+      "downloads": 1369,
+      "likes": 564,
+      "created": "2026-10-30",
+      "updated": "2026-11-08",
+      "pricing": "free",
+      "pricing_detail": "重み無料（Apache-2.0）。上流のQwen3.5-9BとJackrong版もApache-2.0、教師のDeepSeek-V4-ProはMIT。Heretic本体はAGPL-3.0（ツール側）。",
+      "signup_required": false,
+      "added": "2026-11-08",
+      "first_seen": "2026-11-07",
+      "source_post": "https://x.com/EngMoElgaraihy/status/2118905683261128755",
+      "sources": [
+        "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+        "https://huggingface.co/Jackrong/DeepSeek-V4-Pro-Qwen3.5-9B",
+        "https://huggingface.co/mradermacher/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic-GGUF",
+        "https://x.com/nahid_pro09/status/2118896473119318363"
+      ],
+      "flags": [
+        "unverified",
+        "low-quality"
+      ],
+      "risk_notes": "モデルとライセンスは実在（HF APIで2026-11-08に確認: DL 1,369・likes 564・apache-2.0・Qwen3_5ForConditionalGeneration）。ただし投稿の主張は未検証か誤りを含む: 『Hugging Faceのサーバーが落ちた』は障害記録がなく誤り。『拒否率100/100→3/100』『KL 0.0422』『25万点蒸留』『知能を1点も失わない』はモデルカードの自己申告で第三者追試なし。カードのGSM8K 94.50%/MMLU-Pro 90.53%は拒否除去前のJackrong版の数字で、heretic版の能力評価は未提出。公式リポジトリはBF16のみでGGUFは第三者変換。そのQ4_K_M 5.63GBは変換時点でconfig.jsonのmtp_num_hidden_layers=1と実ウェイトが食い違い、llama.cppがGGML_ASSERTで落ちる（作者が11/08にMTPテンソルを復元したが再量子化は未実施）。『どの端末でも数秒』は誇張で、CPUのみは変換者計測で約1 t/s。同名の非公式再アップロードが複数あり、クローンからの取得は避ける。当方でGPU推論・llama.cpp実行は未実施（runs_verified=false）。",
+      "fetched_at": "2026-11-08T06:40:00Z",
+      "path": "models/other/xtools-at-deepseek-v4-pro-qwen3.5-9b-uncensored-heretic.md",
+      "summary": "Qwen3.5-9B をベースに、DeepSeek-V4-Pro の推論を約25万件の数学・STEMサンプルで蒸留した Jackrong/DeepSeek-V4-Pro-Qwen3.5-9B に対し、Heretic v2.0.0.dev0 の **ARA（Arbitrary-Rank Ablation）** を適用して"
     },
     {
       "type": "model",
@@ -6839,6 +6980,48 @@
       "summary": "1枚の静止画キャラクターに、参照動画の動き・表情・カメラを移植する motion control 機能。Higgsfield を使わない代替ルートとして記事の Step 4 が挙げている。"
     },
     {
+      "name": "MiniMax H3系のボイスLoRA／キャプション運用メモ",
+      "genre": "video-gen",
+      "url": "https://x.com/ai_1610/status/2118738293127037306",
+      "author": "@ai_1610",
+      "published": "2026-11-07",
+      "type": "article",
+      "added": "2026-11-08",
+      "first_seen": "2026-11-07",
+      "sources": [
+        "https://x.com/ai_1610/status/2118738293127037306",
+        "https://note.com/dr1610/n/nb70662a06f7d"
+      ],
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "引用先のnote記事は成人向け音声演技（喘ぎ・淫語）の設計メモで、職場閲覧注意。本文の『p-h3』は製品リンクがなく固有名を特定できない（H3系=MiniMax H3は既出。PrunaAIのP-H3-Imageは画像モデルで声LoRAとは無関係）。投稿は前投稿の訂正＋運用注意の追記で、新製品・リポジトリの提示ではない。声LoRAの効果やキャプション記述の優劣は本人の運用感で、数値・比較検証は無い。",
+      "fetched_at": "2026-11-08T06:40:00Z",
+      "path": "articles/2026-11-07-ai_1610-h3-voice-lora-memo.md"
+    },
+    {
+      "name": "Museに外部の無料GPU（Modal／Kaggle／Colab）を割り当てる手順",
+      "genre": "video-gen",
+      "url": "https://x.com/taki_auto/status/2118659670256894446",
+      "author": "@taki_auto",
+      "published": "2026-11-07",
+      "type": "article",
+      "added": "2026-11-08",
+      "first_seen": "2026-11-07",
+      "sources": [
+        "https://x.com/taki_auto/status/2118659670256894446",
+        "https://modal.com/pricing",
+        "https://www.kaggle.com/docs/efficient-gpu-usage"
+      ],
+      "flags": [
+        "low-quality",
+        "unverified"
+      ],
+      "risk_notes": "新ツールの提示ではなく、既知サービス3つ（Modal・Kaggle・Colab）をMuse経由で使う手順とコピペ用プロンプトの連投。Modal Starterの月30ドル無料クレジット、KaggleのGPU無料枠が週30時間前後という記述は一次情報とおおむね一致するが、『1枚49秒／70秒』等の速度は本人環境依存で検証不能。本旨は『AI画像×CG集販売の12大特典を無料配布』への導線（販促）で、技術情報としての独自性は低い。成人向けはKaggle・Modalの規約で禁止という注意書きは妥当。会話欄に無関係な広告（コーヒー通販）が混入。",
+      "fetched_at": "2026-11-08T06:40:00Z",
+      "path": "articles/2026-11-07-taki_auto-muse-free-gpu.md"
+    },
+    {
       "type": "model",
       "model": "PrunaAI/P-H3-Image",
       "name": "P-H3-Image",
@@ -6962,6 +7145,26 @@
       "risk_notes": "MiniMax H3 Community License を継承。EU・UK・韓国・米国は Applicable Territory から除外されており、これらの地域での利用・配布は別途ライセンスが必要。実在人物・既存作品の置換が可能なため、肖像権・著作権・パロディ表記の確認が必要。",
       "path": "models/video-gen/viggle-viggle-remake.md",
       "summary": "**動画のリメイク（キャラクター置換・衣装・天候・小物の追加削除・スタイル変更）**を行う video-to-video モデル。MiniMax-H3 をベースにした LoRA として配布されている。"
+    },
+    {
+      "name": "実写→1980s OVA調スタイルLoRAの学習レシピ（MiniMax H3 / AI Toolkit）",
+      "genre": "video-gen",
+      "url": "https://x.com/julienaiart/status/2118896078670143797",
+      "author": "@JulienAIArt",
+      "published": "2026-11-07",
+      "type": "article",
+      "added": "2026-11-08",
+      "first_seen": "2026-11-07",
+      "sources": [
+        "https://x.com/julienaiart/status/2118896078670143797",
+        "https://github.com/ostris/ai-toolkit"
+      ],
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "数値・手法はすべて本人申告で第三者検証なし。LoRAの重み・データセットは未公開で、次週Adobe MAX（Dellブース 11/10-11）での解説予告のみ。RTX PRO 6000（24GB超VRAM）で約30時間・4,000stepの条件は、A4000 16GBでは同条件の再現が非現実的。lossは1,000stepで頭打ちだが品質は2,500stepまで改善、4,000stepで過学習という報告も本人計測。",
+      "fetched_at": "2026-11-08T06:40:00Z",
+      "path": "articles/2026-11-07-julienaiart-1980s-ova-lora.md"
     }
   ]
 }
