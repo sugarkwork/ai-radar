@@ -1,5 +1,5 @@
 {
-  "count": 269,
+  "count": 270,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -6252,6 +6252,37 @@
       "fetched_at": "2026-11-07T17:17:44Z",
       "path": "entries/video-gen/remotion-dev-skills.md",
       "summary": "Remotion公式が配布する13個のAgent Skill（/remotion-best-practices, /remotion-create, /remotion-markup, /remotion-studio, /remotion-render, /remotion-maps, /remotion-capti"
+    },
+    {
+      "repo": "alchaincyf/huashu-art-motion",
+      "name": "huashu-art-motion",
+      "type": "repo",
+      "genre": "video-gen",
+      "url": "https://github.com/alchaincyf/huashu-art-motion",
+      "license": "MIT",
+      "stars": 6502,
+      "language": "JavaScript",
+      "created": "2026-10-06",
+      "updated": "2026-10-16",
+      "forks": 648,
+      "open_issues": 9,
+      "commits_30d": 18,
+      "commit_cadence": "weekly",
+      "commits_90d": 22,
+      "size_kb": 78640,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "投稿の「導入から10分で完成」「Opus 5.5 が作った」は制作者・紹介者の主張で、第三者の計測ではない。README/SKILL.md 内で画風数は「実装済み36種＋研究配方16〜17種（カード計53枚）」と数え方が揺れ、研究配方は作者自身が未検証と明記している。画風の一致度を定量評価した公開ベンチマークはない。",
+      "added": "2026-11-08",
+      "first_seen": "2026-11-08",
+      "sources": [
+        "https://x.com/sumika45379/status/2111947940193587341"
+      ],
+      "fetched_at": "2026-11-08T10:52:30Z",
+      "path": "entries/video-gen/alchaincyf-huashu-art-motion.md",
+      "summary": "同じ部屋・少女・猫の構図のまま、画風だけを時代順に切り替える「アートヒストリー早送り」を作る。実装済み36画風＋研究配方16〜17種（カード計53枚、references/风格配方/）。"
     },
     {
       "type": "repo",
