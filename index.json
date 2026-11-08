@@ -1,5 +1,5 @@
 {
-  "count": 264,
+  "count": 265,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -7048,6 +7048,29 @@
       ],
       "fetched_at": "2026-11-08T04:15:21Z",
       "path": "articles/2026-10-11-y0urdumble-ai-higgsfield-ai-influencer-genjutsu.md"
+    },
+    {
+      "name": "AIペルソナ「Edmond」の$EDMD崩壊 — 72.4Kフォロワーと時価総額$1.8Kの実測メモ",
+      "genre": "video-gen",
+      "url": "https://x.com/Y0urDumble/status/2111907171680305284",
+      "author": "@Y0urDumble",
+      "published": "2026-10-18",
+      "type": "article",
+      "added": "2026-11-08",
+      "first_seen": "2026-10-18",
+      "sources": [
+        "https://www.tiktok.com/@ed_mondial",
+        "https://lite-api.jup.ag/tokens/v2/search?query=EDMD",
+        "https://api.geckoterminal.com/api/v2/networks/solana/pools/FTiMgHekocYyapBQwKPPX1TUVAc9AEzZiTZuepsCR2Xj/ohlcv/day?aggregate=1&limit=100",
+        "https://x.com/Edmond_Lebon",
+        "https://x.com/Y0urDumble/status/2111907171680305284"
+      ],
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "投稿の主張のうち、コインの実体（mint 2baSUcFC24Z…pump、EDMOND/EDMD、pump.fun発行、2026-10-02作成・10-13卒業、現在FDV $1,811・ホルダー43）とTikTokの規模（72.4Kフォロワー/2.7Mいいね、投稿時スクショ62.9K/2.3M）は一次データで確認した。ピークは卒業直後の日足高値からFDV約$47.0Kと算出でき、主張の$49.7Kとほぼ一致。一方、出来高約$174K・ピーク$49.7Kの原データ、再生25.3M/最大6.5Mの合計、26本/25日、稼得$12.7Kの単価$0.50/1000は再現できず未確認（卒業後プールで測れる出来高は合計約$35.7K）。誤り・ずれ: ティッカーは$EDMONDではなく$EDMD、Xアカウントは@Edmond_Lebon（フォロワー26・投稿7件）で「EdmondLebon」表記は不正確、「1.2M peopleに告知」の根拠不明、収益の見出し$13Kと冒頭$15K・内訳合計$14.2Kが本文内で食い違う。追加確認: 2026-11-05に2本目のコインE7cda…pump（Ed Mondial）が発行され、現在のTikTok bioはそちらを指す。画像・動画にライセンス表記は無く、他クリエイターの世界観への便乗・ミームコイン宣伝である点に注意。",
+      "fetched_at": "2026-11-08T08:29:00Z",
+      "path": "articles/2026-10-18-y0urdumble-ai-edmond-edmd-72.4k-1.8k.md"
     },
     {
       "type": "model",

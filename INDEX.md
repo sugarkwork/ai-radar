@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 264 件 — リポジトリ 190, リンク集 37, モデル 19, 記事 10, プロンプト 8 / ⚑ 要確認 50 件
+収録 265 件 — リポジトリ 190, リンク集 37, モデル 19, 記事 11, プロンプト 8 / ⚑ 要確認 51 件
 
 ## リポジトリ（190）
 
@@ -442,11 +442,12 @@
 - **[Haas-ja-v1.0](models/tts-audio/third-intelligence-haas-ja-v1-0.md)**  free / Third Intelligence
   - **日本語音声認識（ASR）モデル**。NVIDIA Parakeet-TDT 系の構成（FastConformer エンコーダ＋ TDT デコーダ）で、予測ネットワークの LSTM を **Kimi Delta Attention（KDA）** に置き換えている。
 
-## 記事（10）
+## 記事（11）
 
-### 動画生成パイプライン（5）
+### 動画生成パイプライン（6）
 
 - **[AIインフルエンサー量産術：Higgsfield AI Influencer＋Genjutsuで作る架空キャラ](articles/2026-10-11-y0urdumble-ai-higgsfield-ai-influencer-genjutsu.md)** ⚑  @Y0urDumble
+- **[AIペルソナ「Edmond」の$EDMD崩壊 — 72.4Kフォロワーと時価総額$1.8Kの実測メモ](articles/2026-10-18-y0urdumble-ai-edmond-edmd-72.4k-1.8k.md)** ⚑  @Y0urDumble
 - **[Codex + Seedance 2.5 で2Dアニメを1コマ打ちにするワークフロー](articles/2026-11-08-kof97ai-codex-seedance-keyframe.md)** ⚑  @KOF97AI
 - **[MiniMax H3系のボイスLoRA／キャプション運用メモ](articles/2026-11-07-ai_1610-h3-voice-lora-memo.md)** ⚑  @ai_1610
 - **[Museに外部の無料GPU（Modal／Kaggle／Colab）を割り当てる手順](articles/2026-11-07-taki_auto-muse-free-gpu.md)** ⚑  @taki_auto
@@ -509,6 +510,7 @@
 - [vibe-knowledge-film](entries/video-gen/heychengc-vibe-knowledge-film.md) — unverified / ライセンス未確認（API は NOASSERTION、標準ライセンスファイル無し）。参照サンプルの転用可否も不明。
 - [NitroFusion2（1〜2ステップ text-to-image）](entries/video-gen/chendaryen-nitrofusion2.md) — unverified / 発見元の投稿（x.com/Machinedelusion/...）は別プロジェクト WeVisCut の宣伝で、NitroFusion2 の説明は一切ない。本項目の根拠はリポジトリ/モデルカードの一次情報のみ。README の「1 step で sharp text」「比較画像」は著者の主張で、第三者計測や条件記載はない。必要 VRAM は README・モデルカードに記載がなく未検証（bf16 重みが約 12.3GB、Q2_K_4XS で約 2.0GB）。リリース/タグが無いため固定バージョンでの導入はできず、clone 時点の main に追従する。カタログに image-gen ジャンルが無いため、同じ扱いをしている画像系モデル（Anima RGBA 等）に合わせて video-gen に分類した（実体は text-to-image）。ライセンスは本体・重みとも Apache-2.0、土台の Tongyi-MAI/Z-Image-Turbo も apache-2.0。
 - [AIインフルエンサー量産術：Higgsfield AI Influencer＋Genjutsuで作る架空キャラ](articles/2026-10-11-y0urdumble-ai-higgsfield-ai-influencer-genjutsu.md) — unverified / 記事本文は取得済み（X Article 2109318233866006528、公開 2026-10-11 17:55 UTC）。未検証：収益・フォロワー・トークン手数料（2週間で約$235K、5日で$10K、276Kフォロワー、時価総額$12.3M）は著者の推計で第三者検証がない。JEANPHILのFDVは2026-11-08時点で約$4.08Mまで下落。Biscuit Johnsonの数値は一次確認できず（TikTokは自動取得をブロック）。料金も変動しており、記事の「Starter $15/月」「無料5回」は現行公式表示（年払い$19/月、無料10回）と一致しない。添付mp4はスポンジ・ボブの meme クリップ（1.44秒）で、記事の手順画面の収録ではない。内容はミームコイン前提の収益モデルを含み、投資助言ではないが金銭的インセンティブのある導線である点に注意。
+- [AIペルソナ「Edmond」の$EDMD崩壊 — 72.4Kフォロワーと時価総額$1.8Kの実測メモ](articles/2026-10-18-y0urdumble-ai-edmond-edmd-72.4k-1.8k.md) — unverified / 投稿の主張のうち、コインの実体（mint 2baSUcFC24Z…pump、EDMOND/EDMD、pump.fun発行、2026-10-02作成・10-13卒業、現在FDV $1,811・ホルダー43）とTikTokの規模（72.4Kフォロワー/2.7Mいいね、投稿時スクショ62.9K/2.3M）は一次データで確認した。ピークは卒業直後の日足高値からFDV約$47.0Kと算出でき、主張の$49.7Kとほぼ一致。一方、出来高約$174K・ピーク$49.7Kの原データ、再生25.3M/最大6.5Mの合計、26本/25日、稼得$12.7Kの単価$0.50/1000は再現できず未確認（卒業後プールで測れる出来高は合計約$35.7K）。誤り・ずれ: ティッカーは$EDMONDではなく$EDMD、Xアカウントは@Edmond_Lebon（フォロワー26・投稿7件）で「EdmondLebon」表記は不正確、「1.2M peopleに告知」の根拠不明、収益の見出し$13Kと冒頭$15K・内訳合計$14.2Kが本文内で食い違う。追加確認: 2026-11-05に2本目のコインE7cda…pump（Ed Mondial）が発行され、現在のTikTok bioはそちらを指す。画像・動画にライセンス表記は無く、他クリエイターの世界観への便乗・ミームコイン宣伝である点に注意。
 - [Codex + Seedance 2.5 で2Dアニメを1コマ打ちにするワークフロー](articles/2026-11-08-kof97ai-codex-seedance-keyframe.md) — unverified / 投稿は本文＋9:16のmp4 1本のみで、外部リンク・リポジトリ・プロンプトの配布は無い。手順は著者の説明で、効果の程度は未検証（ソフト未実行・手法未再現）。Seedance 2.5 は本カタログ未登録。『局部一拍一（局部キーフレーム抽帧重绘）』は、Seedanceの滑らかな補間をCodexで局部的にキーフレームを打ち直して1コマ打ちに見せる、という2Dアニメ向けの技法。
 - [Higgsfield](links/video-gen/higgsfield.ai-higgsfield.md) — unverified / 【投稿の主張と実測の区別】ポストは架空のラッパー風ペルソナ「Marcel Duvall」が18日で9本・5.16M再生・817.8Kいいね・15.9Kフォロワー、推定$13Kを稼ぎ、$Marcel コインの時価総額が約$3.5Kだと述べるが、これらは投稿者の集計・推計で一次確認していない（フォロワー16Kはスクリーンショットとも一致）。返信で著者は「with the new higgsfield function its as easy as it can get!」とだけ書き、機能名は特定していない。投稿日（2026-10-17）と公式ブログのAI Influencer刷新（2026-10-03）から、AI Influencer＋Genjutsu の組み合わせとみられるが、これは推定であり投稿に明記はない。引用ポストの「$15で作れる」のリンク先 X 記事（2109318233866006528）はログインウォールで本文を取得できていない。ただし公式ブログの2026-10時点の料金表は Starter $15/月（月払い）で、当時の最安有料プランと一致する。現在の料金ページは Starter $19/月（年払い・プロモ表示）で、金額とクレジット数は変動する（未確認ではなく変動）。【未確認】無料プラン生成物の商用利用可否（規約4.4は出力の商用利用を制限しないとする一方、料金表は Free の Commercial use を Not included とする）。無料枠の透かしの有無。添付2枚目のキャラクターターンアラウンド画像はツールUIも透かしもなく、Higgsfield 製かは確認できない。ポスト内の映像が実際に本製品で作られたかも未確認。【リスク】実在人物の顔・声を使う場合は本人の同意が必須（規約5.3）。個人プランは入力・出力がモデル学習に使われうる。18歳以上。モデル・機能は予告なく変更・廃止されうる。無料枠・Unlimited は自動化や再販が禁止。
 - [Higgsfield AI Influencer](links/video-gen/higgsfield.ai-higgsfield-ai-influencer.md) — unverified / 月額 USD と無料枠の数は地域・キャンペーンで変動する。AI Influencer 1体あたりのクレジット消費（記事は 1.12 credits ≈ $0.06 と主張）と無料プラン生成物の透かしの有無は未確認。実在人物の写真を使う場合は本人の許諾が必要。
