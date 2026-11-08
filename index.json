@@ -1,5 +1,5 @@
 {
-  "count": 254,
+  "count": 260,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -692,6 +692,30 @@
       "type": "repo",
       "path": "entries/3d-motion/camenduru-vrmexmr.md",
       "summary": "**単眼動画から SMPL-X の身体・手・足のモーションを復元**し、VRM / Blender / Unity / Unreal / ヒューマノイドロボット向けに書き出す Docker イメージ。"
+    },
+    {
+      "type": "link",
+      "name": "1枚絵からローカル3D空間を生成するデモ（LUCIAN）",
+      "genre": "3d-motion",
+      "url": "https://x.com/lucianlamp/status/2118689081475703236",
+      "author": "@lucianlamp",
+      "pricing": "unknown",
+      "pricing_detail": "配布物・料金ページなし。デモ動画のみ。",
+      "signup_required": false,
+      "added": "2026-11-08",
+      "first_seen": "2026-11-07",
+      "sources": [
+        "https://x.com/lucianlamp/status/2118689081475703236",
+        "https://x.com/cat_SI1/status/2118730987752599938"
+      ],
+      "flags": [
+        "unverified",
+        "low-quality"
+      ],
+      "risk_notes": "投稿はデモ動画と主張のみで、コード・重み・手順・配布リンクが無い。『Claude Opus 5.5 と gptimage だけで1枚の画像から歩ける3D空間をローカル生成、LOD/ストリーミング対応、外部アセット・生成3Dモデルなし』は本人の説明で、第三者の再現・検証は無い。投稿を引用した cat_SI1 の称賛のみで、一次情報は追加されていない。カタログの再現可能な配布物には該当しないため、情報としてのみ収録。",
+      "fetched_at": "2026-11-08T06:40:00Z",
+      "path": "links/3d-motion/lucianlamp-1image-3d-demo.md",
+      "summary": "1枚の画像を入力に、歩けるローカル3D空間を生成するデモ。ゲーム・映像向けのシーン試作を、モデリングなしで行う発想の例。"
     },
     {
       "type": "link",
@@ -3166,6 +3190,30 @@
       "summary": "Figma 形式の Web サイトデザイン集を買い切りで販売する。デザイナー／開発者が一から設計せずにサイトを立ち上げるための素材。"
     },
     {
+      "type": "link",
+      "name": "背景ガチャ（九龍城砦セット＋パース補助線）",
+      "genre": "link-asset",
+      "url": "https://tools.oyasumi-gamedev.com/haikeigacha/",
+      "author": "おやすみゲーム開発部（MIYADAIKU）",
+      "pricing": "free",
+      "pricing_detail": "無料・登録不要。作った絵とGLB/FBX/OBJは商用・非商用とも自由（クレジット任意）。",
+      "signup_required": false,
+      "added": "2026-11-08",
+      "first_seen": "2026-11-07",
+      "sources": [
+        "https://x.com/sharp_maker/status/2118920266877399377",
+        "https://oyasumi-gamedev.com/tools/haikeigacha/",
+        "https://tools.oyasumi-gamedev.com/"
+      ],
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "AIツールではなく、家具900以上をプログラムで組み合わせる手続き型の背景ジェネレータ（公式の仕組み解説に明記）。開発時のAI利用はClaude Codeのみ。部屋150種類以上に住宅・学校・洋館・中世の城・教会・九龍城砦のセットを追加。パース補助線は書き出しの『下絵（なぞる用）』でアイレベル線・パース補助線・消失点を別レイヤーに分離し、PSDはパースフォルダ内の各レイヤー、SVGは別ファイル、vp.txtに座標を出力する。ブラウザ完結・外部送信なし。β版で、版が上がると同seedでも部屋の作りが変わり得る。書き出し品質・PSDレイヤー構成は未確認（ブラウザツールのため実行検証は未実施）。",
+      "fetched_at": "2026-11-08T06:40:00Z",
+      "path": "links/link-asset/tools.oyasumi-gamedev.com-haikeigacha.md",
+      "summary": "漫画・イラストの背景を、ブラウザ上で部品を組み合わせて作る無料ツール。3Dモデリングなしで、部屋・建物・街並みのラフを作る。"
+    },
+    {
       "name": "BestAIBuilder",
       "genre": "link-inspiration",
       "url": "https://bestaibuilder.website/",
@@ -3998,6 +4046,34 @@
       "summary": "投機的デコーディング構成6通り（Qwen3.8-27B BF16 + DFlash2 / + DSpark を H100 と RTX PRO 6000 で、Qwen3.8-27B FP8 の batching 2通り、Muse-Glimmer-30B + DFlash2）について、最適化済みエンジン（settings/"
     },
     {
+      "type": "repo",
+      "repo": "MiaAI-Lab/GLM-5.3-Flash-DGX-Sparks-1104",
+      "name": "GLM-5.3-Flash DGX Spark 2台 配備レシピ",
+      "genre": "model-serving",
+      "url": "https://github.com/MiaAI-Lab/GLM-5.3-Flash-DGX-Sparks-1104",
+      "author": "MiaAI-Lab",
+      "license": "Apache-2.0",
+      "language": "Docker / Shell",
+      "created": "2026-11-04",
+      "updated": "2026-11-07",
+      "stars": 89,
+      "archived": false,
+      "added": "2026-11-08",
+      "first_seen": "2026-11-08",
+      "source_post": "https://x.com/MiaAI_lab/status/2119115546285552046",
+      "sources": [
+        "https://github.com/MiaAI-Lab/GLM-5.3-Flash-DGX-Sparks-1104",
+        "https://huggingface.co/api/models/zai-org/GLM-5.3-Flash"
+      ],
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "DGX Spark 2台（計128GB統一メモリ級）が必須で、RTX A4000 16GB×2・RAM 96GBの環境では実行できない。チェックポイント約164GiB、イメージ約40GiB。既定drafterはCC BY-NC-ND 4.0（非商用）で、商用はDRAFTER=mtp/none。投稿のKV拡張・再起動復元・thinking off短縮は自己申告で未検証。当方でビルド・実行は未実施。",
+      "fetched_at": "2026-11-08T06:40:00Z",
+      "path": "entries/model-serving/miaai-lab-glm-5.3-flash-dgx-sparks.md",
+      "summary": "GLM-5.3-Flash（zai-org/GLM-5.3-Flash、MIT）を、DGX Spark 2台で動かすための配備レシピ。"
+    },
+    {
       "repo": "midagedev/bloomery",
       "name": "bloomery",
       "genre": "model-serving",
@@ -4057,6 +4133,35 @@
       "last_release_at": "2026-10-31",
       "path": "entries/model-serving/kohakublueleaf-tokenomos.md",
       "summary": "小型VLM（LFM3-VL 2B / Qwen3.5 4B・9B / Qwen3.8 27B / Gemma 4 E4B・12B・31B）を1枚のNVIDIA GPUでローカル推論する。"
+    },
+    {
+      "type": "repo",
+      "repo": "MiaAI-Lab/GLM-5.3-Flash-2x-RTX-PRO-6000-TensorFold",
+      "name": "GLM-5.3-Flash 2×RTX PRO 6000 配備レシピ（TensorFold）",
+      "genre": "model-serving",
+      "url": "https://github.com/MiaAI-Lab/GLM-5.3-Flash-2x-RTX-PRO-6000-TensorFold",
+      "author": "MiaAI-Lab",
+      "license": "Apache-2.0",
+      "language": "Docker / Zig / CUDA",
+      "created": "2026-10-31",
+      "updated": "2026-11-07",
+      "stars": 20,
+      "archived": false,
+      "added": "2026-11-08",
+      "first_seen": "2026-11-08",
+      "source_post": "https://x.com/MiaAI_lab/status/2119115546285552046",
+      "sources": [
+        "https://github.com/MiaAI-Lab/GLM-5.3-Flash-2x-RTX-PRO-6000-TensorFold",
+        "https://github.com/ashhart/TensorFold",
+        "https://huggingface.co/api/models/zai-org/GLM-5.3-Flash"
+      ],
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "2×96GBのRTX PRO 6000（Blackwell sm_120）が必須で、RTX A4000 16GB×2・RAM 96GBの環境では実行できない。チェックポイント約164GiB、Dockerイメージ約40GiB。TensorFold（ashhart/TensorFold、Zig/CUDA）をDockerでビルドし、GLM-5.3-FlashのEXL3 4bpw量子化を配備する。既定のdrafterはCC BY-NC-ND 4.0（非商用）で、商用はDRAFTER=mtp/noneに切り替える。投稿のKV 973K→1.05M、再起動後約1秒で会話復元、thinking off時の出力短縮、誤ネット設定の自動修正はREADMEと方向性が一致するが数値は自己申告で未検証。当方でビルド・実行は未実施。",
+      "fetched_at": "2026-11-08T06:40:00Z",
+      "path": "entries/model-serving/miaai-lab-glm-5.3-flash-2x-rtx-pro-6000.md",
+      "summary": "GLM-5.3-Flash（基底モデル zai-org/GLM-5.3-Flash、MIT）を、2枚の RTX PRO 6000（96GB×2、Blackwell sm_120）で動かすための配備レシピ。"
     },
     {
       "type": "repo",
@@ -4904,6 +5009,25 @@
       "fetched_at": "2026-11-07T15:42:23Z",
       "path": "prompts/prompt-design/360-63b426628d.md",
       "summary": "選んだキャラクターを、正面・斜め・横・斜め後ろ・背面の全身5面とクローズアップ3面を1枚に収めたキャラクターシートにする画像生成プロンプト。以後の動画差し替えで顔・服の一貫性を保つ参照画像を作るのが目的。"
+    },
+    {
+      "name": "キャラクター三面図プロンプト（GPT / MageSpace）",
+      "genre": "prompt-design",
+      "url": "https://x.com/jackchen1919/status/2118770137394532543",
+      "prompt_sha1": "4acce17224c6073b83044ab62c35572af30f06f7",
+      "target": "GPT / MageSpace などの画像生成",
+      "transcribed_from": "text",
+      "flags": [],
+      "risk_notes": "投稿はプロンプト本文＋生成結果8枚で、特定の製品・モデルの配布ではない。生成画像は著者の作例で、再現性・品質は未検証（当方では生成していない）。実在の人物・既存キャラクターに寄せると権利侵害になり得る。",
+      "type": "prompt",
+      "added": "2026-11-08",
+      "first_seen": "2026-11-08",
+      "sources": [
+        "https://x.com/jackchen1919/status/2118770137394532543"
+      ],
+      "fetched_at": "2026-11-08T06:40:00Z",
+      "path": "prompts/prompt-design/jackchen1919-character-sheet.md",
+      "summary": "1人のキャラクターについて、左にアップ、右に全身の前・横・後ろを並べた**キャラクターデザインシート**を1枚で生成する。"
     },
     {
       "type": "prompt",
@@ -6885,6 +7009,25 @@
       "signup_required": false,
       "path": "models/video-gen/localai0301-anima-rgba.md",
       "summary": "アニメ画像モデル **Anima** で、**透過（RGBA）画像を生成**するための VAE と LoRA のセット。"
+    },
+    {
+      "name": "Codex + Seedance 2.5 で2Dアニメを1コマ打ちにするワークフロー",
+      "genre": "video-gen",
+      "url": "https://x.com/kof97ai/status/2118995660712374462",
+      "author": "@KOF97AI",
+      "published": "2026-11-08",
+      "type": "article",
+      "added": "2026-11-08",
+      "first_seen": "2026-11-08",
+      "sources": [
+        "https://x.com/kof97ai/status/2118995660712374462"
+      ],
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "投稿は本文＋9:16のmp4 1本のみで、外部リンク・リポジトリ・プロンプトの配布は無い。手順は著者の説明で、効果の程度は未検証（ソフト未実行・手法未再現）。Seedance 2.5 は本カタログ未登録。『局部一拍一（局部キーフレーム抽帧重绘）』は、Seedanceの滑らかな補間をCodexで局部的にキーフレームを打ち直して1コマ打ちに見せる、という2Dアニメ向けの技法。",
+      "fetched_at": "2026-11-08T06:40:00Z",
+      "path": "articles/2026-11-08-kof97ai-codex-seedance-keyframe.md"
     },
     {
       "type": "model",
