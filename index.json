@@ -1,5 +1,5 @@
 {
-  "count": 244,
+  "count": 245,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -4778,6 +4778,25 @@
       "prompt_sha1": "4d505a0e0e944a175f67d250a7ae92c4bf03b74c",
       "path": "prompts/prompt-other/claude-md-ahorro-de-contexto.md",
       "summary": "Claude Code のトークン消費は、コードを書く量より「不要なファイルを丸ごと読む」「既に決めたことを繰り返す」「役目を終えた文脈を引きずる」ことに消える、という前提に立つ。CLAUDE.md の末尾に6行追記して、読み込み方と応答の仕方を変える。"
+    },
+    {
+      "name": "モーショントランスファー用プロンプト（Kling Motion Control など）",
+      "genre": "prompt-other",
+      "url": "https://x.com/Y0urDumble/status/2109342020921659784",
+      "prompt_sha1": "5d1a7ab60f2a9ed063b56569dc7294bac134a471",
+      "target": "ChatGPT などのテキスト/画像生成LLM、および Kling Motion Control 等の image-to-video",
+      "transcribed_from": "text",
+      "flags": [],
+      "risk_notes": "実在の人物・有名人・他者のキャラクターに寄せると権利侵害になり得る。効果（再生数・収益）は著者の主張で未検証。",
+      "type": "prompt",
+      "added": "2026-11-08",
+      "first_seen": "2026-11-08",
+      "sources": [
+        "https://x.com/Y0urDumble/status/2109342020921659784"
+      ],
+      "fetched_at": "2026-11-07T15:42:23Z",
+      "path": "prompts/prompt-other/kling-motion-control-5d1a7ab60f.md",
+      "summary": "Genjutsu 以外の image-to-video motion control ツール（記事は Kling Motion Control を例示）で、参照動画の動きを静止画キャラクターに演じさせるための指示文。"
     },
     {
       "repo": "opendataloader-project/opendataloader-pdf",

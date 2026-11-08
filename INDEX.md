@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 244 件 — リポジトリ 187, リンク集 30, モデル 18, 記事 3, プロンプト 6 / ⚑ 要確認 32 件
+収録 245 件 — リポジトリ 187, リンク集 30, モデル 18, 記事 3, プロンプト 7 / ⚑ 要確認 32 件
 
 ## リポジトリ（187）
 
@@ -260,7 +260,7 @@
 |---|---:|---:|---|---:|---|---|---|---|
 | [AI-Infra-Guard (A.I.G)](entries/eval/tencent-ai-infra-guard.md) | 7,379 | 735 | 毎日 | 67 | 2026-11-03 | 2026-11-04 | 2026-11-04 | Apache-2.0 |
 
-## プロンプト（6）
+## プロンプト（7）
 
 ### プロンプト（デザイン/UI）（4）
 
@@ -273,12 +273,14 @@
 - **[キャラクターシート生成プロンプト（360度ターンアラウンド）](prompts/prompt-design/360-63b426628d.md)**  ChatGPT などのテキスト/画像生成LLM、および Kling Motion Control 等の image-to-video
   - 選んだキャラクターを、正面・斜め・横・斜め後ろ・背面の全身5面とクローズアップ3面を1枚に収めたキャラクターシートにする画像生成プロンプト。以後の動画差し替えで顔・服の一貫性を保つ参照画像を作るのが目的。
 
-### プロンプト（その他）（2）
+### プロンプト（その他）（3）
 
 - **[ADHD実行機能モード化プロンプト7本（日本語版）](prompts/prompt-other/adhd-executive-function-7prompts.md)**  汎用 / @MakeAI_CEO
   - 「やる気が出ない」「タスクが大きすぎて手が動かない」「切り替えができない」といった実行機能の詰まりを、対話の型で強制解除するための7本。投稿者は海外で話題になった手法を日本語の仕事現場向けに再設計したと述べている。各プロンプトは独立して使う。
 - **[CLAUDE.md に足す「コンテキスト節約」6行（Ahorro de contexto）](prompts/prompt-other/claude-md-ahorro-de-contexto.md)**  Claude Code / @maarcoofdezz
   - Claude Code のトークン消費は、コードを書く量より「不要なファイルを丸ごと読む」「既に決めたことを繰り返す」「役目を終えた文脈を引きずる」ことに消える、という前提に立つ。CLAUDE.md の末尾に6行追記して、読み込み方と応答の仕方を変える。
+- **[モーショントランスファー用プロンプト（Kling Motion Control など）](prompts/prompt-other/kling-motion-control-5d1a7ab60f.md)**  ChatGPT などのテキスト/画像生成LLM、および Kling Motion Control 等の image-to-video
+  - Genjutsu 以外の image-to-video motion control ツール（記事は Kling Motion Control を例示）で、参照動画の動きを静止画キャラクターに演じさせるための指示文。
 
 ## リンク集（30）
 
