@@ -620,8 +620,7 @@
         "https://raw.githubusercontent.com/cullenwebber/glb-viewer/main/README.md"
       ],
       "flags": [
-        "unverified",
-        "low-quality"
+        "unverified"
       ],
       "risk_notes": "LICENSEファイルが404で、明示ライセンスなし（all rights reserved）。ソースは公開されているが、再配布・商用利用の許諾は不明。配布はmacOSのDMGのみ（arm64/x64、Apple公証なし→初回はOpen Anywayかxattr -cr）。Windows/Linuxのビルド手順はREADMEになく、Windows 11環境ではそのまま動かせない。16 starsの若いプロジェクトで、AI機能はない。DMG未ダウンロード・未起動（READMEとリポジトリ構成のみ確認）。",
       "fetched_at": "2026-11-08T06:40:00Z",
@@ -887,8 +886,7 @@
         "https://x.com/Stefan_3D_AI/status/2119004325410213937"
       ],
       "flags": [
-        "unverified",
-        "low-quality"
+        "unverified"
       ],
       "risk_notes": "SIGGRAPH Asia 2026 の to appear 論文で、プロジェクトページにはアニメーションと3Dビューアのデモしかない。コード・重み・モデルカードは無く、引用元も『Code ボタンは今は何も動かない』と明記している。GitHubリポジトリは見つからない。したがって現時点では再現・実行ができず、数値・品質は論文とデモに依存する。投稿本体は引用RTの感想2行で、著者本人の解説ではない。",
       "fetched_at": "2026-11-08T06:40:00Z",
@@ -4617,8 +4615,7 @@
         "https://x.com/nahid_pro09/status/2118896473119318363"
       ],
       "flags": [
-        "unverified",
-        "low-quality"
+        "unverified"
       ],
       "risk_notes": "モデルとライセンスは実在（HF APIで2026-11-08に確認: DL 1,369・likes 564・apache-2.0・Qwen3_5ForConditionalGeneration）。ただし投稿の主張は未検証か誤りを含む: 『Hugging Faceのサーバーが落ちた』は障害記録がなく誤り。『拒否率100/100→3/100』『KL 0.0422』『25万点蒸留』『知能を1点も失わない』はモデルカードの自己申告で第三者追試なし。カードのGSM8K 94.50%/MMLU-Pro 90.53%は拒否除去前のJackrong版の数字で、heretic版の能力評価は未提出。公式リポジトリはBF16のみでGGUFは第三者変換。そのQ4_K_M 5.63GBは変換時点でconfig.jsonのmtp_num_hidden_layers=1と実ウェイトが食い違い、llama.cppがGGML_ASSERTで落ちる（作者が11/08にMTPテンソルを復元したが再量子化は未実施）。『どの端末でも数秒』は誇張で、CPUのみは変換者計測で約1 t/s。同名の非公式再アップロードが複数あり、クローンからの取得は避ける。当方でGPU推論・llama.cpp実行は未実施（runs_verified=false）。",
       "fetched_at": "2026-11-08T06:40:00Z",

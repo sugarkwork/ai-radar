@@ -14,7 +14,7 @@ added: 2026-11-08
 first_seen: 2026-11-07
 source_post: https://x.com/SinzVII/status/2118904126923055436
 sources: ["https://raw.githubusercontent.com/cullenwebber/glb-viewer/main/README.md"]
-flags: ["unverified", "low-quality"]
+flags: ["unverified"]
 risk_notes: "LICENSEファイルが404で、明示ライセンスなし（all rights reserved）。ソースは公開されているが、再配布・商用利用の許諾は不明。配布はmacOSのDMGのみ（arm64/x64、Apple公証なし→初回はOpen Anywayかxattr -cr）。Windows/Linuxのビルド手順はREADMEになく、Windows 11環境ではそのまま動かせない。16 starsの若いプロジェクトで、AI機能はない。DMG未ダウンロード・未起動（READMEとリポジトリ構成のみ確認）。"
 fetched_at: "2026-11-08T06:40:00Z"
 ---
