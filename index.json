@@ -1,5 +1,5 @@
 {
-  "count": 273,
+  "count": 274,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -5123,6 +5123,32 @@
       "type": "repo",
       "path": "entries/prompt-design/yang0-handraw-style.md",
       "summary": "手描きイラスト〜写実写真までの **365種の画風**（FA〜FI の分類番号と 001〜365 の通し番号）、**170種のレイアウト型**（SNSカード24 / データ infographic 38 / 漫画コマ割り71 / IP デザイン13 / EC 用24）、**36種の単色テーマ**を番号で選び、中英バイリ"
+    },
+    {
+      "type": "prompt",
+      "name": "AGENTS.md 6節テンプレート（Claude Code / Codex 共用）",
+      "genre": "prompt-design",
+      "url": "https://x.com/sumika45379/status/2112521726399836208",
+      "author": "@simplifyinAI（Simplifying AI）/ 画像投稿 @sumika45379",
+      "source_post": "https://x.com/sumika45379/status/2112521726399836208",
+      "sources": [
+        "https://x.com/simplifyinAI/status/2105863469585313910",
+        "https://code.claude.com/docs/en/memory",
+        "https://developers.openai.com/codex/guides/agents-md",
+        "https://x.com/sumika45379/status/2112521726399836208"
+      ],
+      "first_seen": "2026-10-20",
+      "added": "2026-11-08",
+      "target": "Claude Code / OpenAI Codex（AGENTS.md を読むコーディングエージェント）",
+      "transcribed_from": "image",
+      "prompt_sha1": "ce272fe27cd46407141bd7481707265df3d7a2c6",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "配布元の同定が部分的。@simplifyinAI が 2026-10-02 に同内容の AGENTS.md テンプレートを投稿していることは確認したが、その投稿の添付画像そのものは取得できておらず、本画像との同一性は未確認。本画像は VS Code のスクリーンショットで、ワークスペース名 token-demo、ステータスバー landon-art であり、オリジナルの作者・リポジトリは特定できていない。同じ33行は @Voxyz_ai 名義の文字起こし（copybook、2026-09-30）にも一致し、初出は不明。ライセンス表記なし。Claude Code 側の AGENTS.md 対応は v2.1.277 以降に限られ、CLAUDE.md があると既定では読まれない点は利用前に確認が必要。",
+      "fetched_at": "2026-11-08T13:20:17Z",
+      "path": "prompts/prompt-design/agents.md-6-claude-code-codex-ce272fe27c.md",
+      "summary": "Claude Code と Codex の両方が読む AGENTS.md に、計画・最小変更・分担・バグ・確認・記録の6節を短い箇条書きで固定した雛形。1行ごとにエージェントの行動を変えることを狙い、長い説明ではなく実行可能な指示だけを並べる。"
     },
     {
       "name": "AIインフルエンサー用キャラクター発想プロンプト",

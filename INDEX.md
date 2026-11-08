@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 273 件 — リポジトリ 191, リンク集 39, モデル 20, 記事 14, プロンプト 9 / ⚑ 要確認 59 件
+収録 274 件 — リポジトリ 191, リンク集 39, モデル 20, 記事 14, プロンプト 10 / ⚑ 要確認 60 件
 
 ## リポジトリ（191）
 
@@ -264,10 +264,12 @@
 |---|---:|---:|---|---:|---|---|---|---|
 | [AI-Infra-Guard (A.I.G)](entries/eval/tencent-ai-infra-guard.md) | 7,379 | 735 | 毎日 | 67 | 2026-11-03 | 2026-11-04 | 2026-11-04 | Apache-2.0 |
 
-## プロンプト（9）
+## プロンプト（10）
 
-### プロンプト（デザイン/UI）（6）
+### プロンプト（デザイン/UI）（7）
 
+- **[AGENTS.md 6節テンプレート（Claude Code / Codex 共用）](prompts/prompt-design/agents.md-6-claude-code-codex-ce272fe27c.md)** ⚑  Claude Code / OpenAI Codex（AGENTS.md を読むコーディングエージェント） / @simplifyinAI（Simplifying AI）/ 画像投稿 @sumika45379
+  - Claude Code と Codex の両方が読む AGENTS.md に、計画・最小変更・分担・バグ・確認・記録の6節を短い箇条書きで固定した雛形。1行ごとにエージェントの行動を変えることを狙い、長い説明ではなく実行可能な指示だけを並べる。
 - **[AIインフルエンサー用キャラクター発想プロンプト](prompts/prompt-design/ai-9b790178fb.md)**  ChatGPT などのテキスト/画像生成LLM、および Kling Motion Control 等の image-to-video
   - バイラル狙いの縦動画用に、1フレームで認識できるオリジナルキャラクターを5案出させる発想用プロンプト。記事の「手作業ルート」の最初の工程。
 - **[Claude Code 向け UI 設計ルール19条](prompts/prompt-design/claude-code-ui-design-rules.md)**  Claude Code / @Av1dlive
@@ -526,6 +528,7 @@
 - [Clover 35B-A3B（拡散型 MoE）](models/other/diffuspace-clover-35b-a3b-preview.md) — unverified / tok/s 比較は投稿者環境の一例で、モデルカードに計測条件の記載がない。
 - [DeepSeek-V4-Pro-Qwen3.5-9B UNCENSORED（Heretic ARA）](models/other/xtools-at-deepseek-v4-pro-qwen3.5-9b-uncensored-heretic.md) — unverified / モデルとライセンスは実在（HF APIで2026-11-08に確認: DL 1,369・likes 564・apache-2.0・Qwen3_5ForConditionalGeneration）。ただし投稿の主張は未検証か誤りを含む: 『Hugging Faceのサーバーが落ちた』は障害記録がなく誤り。『拒否率100/100→3/100』『KL 0.0422』『25万点蒸留』『知能を1点も失わない』はモデルカードの自己申告で第三者追試なし。カードのGSM8K 94.50%/MMLU-Pro 90.53%は拒否除去前のJackrong版の数字で、heretic版の能力評価は未提出。公式リポジトリはBF16のみでGGUFは第三者変換。そのQ4_K_M 5.63GBは変換時点でconfig.jsonのmtp_num_hidden_layers=1と実ウェイトが食い違い、llama.cppがGGML_ASSERTで落ちる（作者が11/08にMTPテンソルを復元したが再量子化は未実施）。『どの端末でも数秒』は誇張で、CPUのみは変換者計測で約1 t/s。同名の非公式再アップロードが複数あり、クローンからの取得は避ける。当方でGPU推論・llama.cpp実行は未実施（runs_verified=false）。
 - [Ripple-65B Preview](models/other/ricursiveai-ripple-65b-preview.md) — unverified / ベンチマーク（TerminalBench 2.1 で 80.52、米国 open-weight SOTA 等）はすべて配布元の自己申告で第三者検証がない。モデルカードにローカル推論手順の記載はなく、実行手順はリポジトリ内 inference/server/README.md（2xB200 + SGLang 0.5.19 前提）のみで、DGX Spark 単機で動くという記述の実測裏付けはない。独自アーキテクチャ（custom_code、model_type=ricursive）のため transformers での自前ロードは未検証。OpenRouter の提供元は GMICloud 1 社のみで、2026-11-06T12:17Z 時点の status は -5・直近30分の uptime は 0（一時的な可能性あり）。発見源の X 投稿本文は Tokenomos（vLLM のスケジューラ／KV キャッシュ最適化）の公開告知で Ripple に言及がなく、対象との対応は投稿内リンクの展開に依存している。
+- [AGENTS.md 6節テンプレート（Claude Code / Codex 共用）](prompts/prompt-design/agents.md-6-claude-code-codex-ce272fe27c.md) — unverified / 配布元の同定が部分的。@simplifyinAI が 2026-10-02 に同内容の AGENTS.md テンプレートを投稿していることは確認したが、その投稿の添付画像そのものは取得できておらず、本画像との同一性は未確認。本画像は VS Code のスクリーンショットで、ワークスペース名 token-demo、ステータスバー landon-art であり、オリジナルの作者・リポジトリは特定できていない。同じ33行は @Voxyz_ai 名義の文字起こし（copybook、2026-09-30）にも一致し、初出は不明。ライセンス表記なし。Claude Code 側の AGENTS.md 対応は v2.1.277 以降に限られ、CLAUDE.md があると既定では読まれない点は利用前に確認が必要。
 - [Grok 6ボットで回すAIペルソナ農場（Persona Farm）構築プロンプト](prompts/prompt-design/grok-6-ai-persona-farm-0eee1982d3.md) — unverified / 投稿の数値（16,286フォロワー/45本/391返信/$1,386）は本人のデモ動画（day 11/14・15,201フォロワー・40本・3/5トークン・$1,050・画面に illustrative）とも一致せず第三者検証なし。5体のペルソナ実アカウントと $GUS/$OTIS/$LARS のペルソナ由来トークンは未確認（同名の無関係トークンと Otis 株のみ）。自動投稿・大量返信・トークン発行を指示する内容で、各SNSの規約と暗号資産規制に触れ得る。
 - [huashu-art-motion](entries/video-gen/alchaincyf-huashu-art-motion.md) — unverified / 投稿の「導入から10分で完成」「Opus 5.5 が作った」は制作者・紹介者の主張で、第三者の計測ではない。README/SKILL.md 内で画風数は「実装済み36種＋研究配方16〜17種（カード計53枚）」と数え方が揺れ、研究配方は作者自身が未検証と明記している。画風の一致度を定量評価した公開ベンチマークはない。
 - [OpenChatCut](entries/video-gen/0xsline-openchatcut.md) — unverified / 同一性: forkではなく上流そのもの（fork=false、parentなし）。効果測定は作者自身のM4 Max 1台・2セグメントのみの予備計測で、第三者による再現やプロジェクト全体の速度検証はない。MCP経由の編集フロー（begin_edit_session→review_edit_session→承認）はREADME記載であり、当方ではアプリを実行して動作確認していない。macOSビルドは未署名・未公証で初回に手動許可が必要。ライセンスは AGPL-3.0 のため、改変版をネットワークサービスとして提供するとソース開示義務が生じる。MCPブリッジは単一ユーザー・単一マシン前提でマルチテナント非対応。スキル数「26」はREADME記載の値で、レート制限によりディレクトリを直接数えて照合できていない。
