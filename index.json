@@ -1,5 +1,5 @@
 {
-  "count": 241,
+  "count": 242,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -6737,6 +6737,27 @@
       "fetched_at": "2026-11-08T04:58:00Z",
       "path": "links/video-gen/higgsfield.ai-higgsfield-genjutsu.md",
       "summary": "撮影済みの実写動画の動き・カメラ・タイミングをそのまま残し、演じている人物や周囲の世界だけを差し替える動画ツール。AIインフルエンサーの「実写の動きに顔だけ載せる」工程を担う。"
+    },
+    {
+      "name": "Kling AI Motion Control",
+      "genre": "video-gen",
+      "url": "https://kling.ai/feature/ai-motion-control",
+      "pricing": "paid",
+      "pricing_detail": "Motion Control の公式 API 単価: 720p 0.9 Units（$0.126）/秒、1080p 1.2 Units（$0.168）/秒（1 Unit = $0.14 リスト価格、kling.ai/pricing）。10秒の 1080p 生成で概算 $1.68。サブスク／クレジットの月額プランはページがユニット建て表示で、取得時点の金額を確認できず。無料枠の有無も未確認。",
+      "signup_required": true,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "無料枠と月額サブスクの金額は未確認（確認できたのは API の従量単価のみ）。参照動画の権利と、生成結果が元動画と似ることによる権利・プラットフォームポリシーの確認が必要。",
+      "type": "link",
+      "added": "2026-11-08",
+      "first_seen": "2026-11-08",
+      "sources": [
+        "https://x.com/Y0urDumble/status/2109342020921659784"
+      ],
+      "fetched_at": "2026-11-08T04:51:30Z",
+      "path": "links/video-gen/kling.ai-kling-ai-motion-control.md",
+      "summary": "1枚の静止画キャラクターに、参照動画の動き・表情・カメラを移植する motion control 機能。Higgsfield を使わない代替ルートとして記事の Step 4 が挙げている。"
     },
     {
       "type": "model",
