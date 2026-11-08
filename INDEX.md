@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 263 件 — リポジトリ 190, リンク集 36, モデル 19, 記事 10, プロンプト 8 / ⚑ 要確認 49 件
+収録 264 件 — リポジトリ 190, リンク集 37, モデル 19, 記事 10, プロンプト 8 / ⚑ 要確認 50 件
 
 ## リポジトリ（190）
 
@@ -287,7 +287,7 @@
 - **[モーショントランスファー用プロンプト（Kling Motion Control など）](prompts/prompt-other/kling-motion-control-5d1a7ab60f.md)**  ChatGPT などのテキスト/画像生成LLM、および Kling Motion Control 等の image-to-video
   - Genjutsu 以外の image-to-video motion control ツール（記事は Kling Motion Control を例示）で、参照動画の動きを静止画キャラクターに演じさせるための指示文。
 
-## リンク集（36）
+## リンク集（37）
 
 ### リンク（サービス・ツール）（11）
 
@@ -314,10 +314,12 @@
 - **[treg REA growth](links/link-service/treg.to-treg-rea-growth.md)** ⚑  freemium / superdesigndev（Superdesign Dev Pty Ltd）
   - treg.to は「エージェント向けツールの OpenRouter」を名乗る従量課金の API ゲートウェイ。1 つのトークンで 126 プロバイダ・4,100+ のツール（SEO/SERP、被リンク、SNS 投稿、人物・企業情報、広告ライブラリ、スクレイピング、画像/動画/音声生成）を、プロバイダごとの契約なしで呼べ
 
-### リンク（素材・アイコン・3D）（7）
+### リンク（素材・アイコン・3D）（8）
 
 - **[AI Camera Movements（カメラワーク46種のプロンプト）](links/link-asset/aicameramovements-com.md)**  free / aicameramovements.com
   - AI 動画の「カメラが止まって見える」問題を、動きの名前と定型プロンプトで解決する。動きの違いを並べて比較してから選べる。
+- **[Edmond キャラクター三面図（AIペルソナ用ターンアラウンド）](links/link-asset/x.com-edmond-ai.md)** ⚑  free / @Y0urDumble
+  - AIで作った人物を毎回同じ見た目でショート動画に出すための、参照画像（キャラクターシート）の実例。1枚の中に全身の向きと顔の寄りを揃えてあり、画像生成・動画生成モデルに「この人物」を渡すときの入力として使う。
 - **[Melies 撮影技法ライブラリ（424種）](links/link-asset/melies-co-cinematic-techniques.md)**  Melies
   - AI 動画のプロンプトに「映画の語彙」を持ち込むための事典。技法名から入って、意味・作例・そのまま使えるプロンプトを引く。
 - **[Mio's Pose Designs Vol. 11](links/link-asset/mio-pose-designs-vol11.md)**  free / @Mio_2am
@@ -481,6 +483,7 @@
 - [PFNの翻訳特化LLM「PLaMo 3 Translate」をスマホ・Windows・Mac・Linuxに入れる方法](articles/2026-11-05-emma-eva-note-emma_and_eva-pfn-llm-plamo-3-translate-windows-mac-linux.md) — unverified / PFN 公式ブログではなく第三者アカウントのまとめ記事。ベンチマーク優位は PFN 自身の評価の引用、iPhone の 0.515 秒は GIGAZINE の 1 回計測の引用で独立検証なし。winget での llama.cpp 導入、PocketPal AI での 0.8B 読み込み手順、llama.app のインストールスクリプト（取得したスクリプトをシェルに渡す方式）は本文の記述のみで未検証。記事末尾は著者の有料講義の宣伝。
 - [The Johnson brothers — AIキャラを「家族」に増やす成長プレイブック](articles/2026-10-16-y0urdumble-dumble-the-johnson-brothers-ai.md) — unverified, low-quality / 一次情報で確認できなかったこと: 具体的な生成ツール/モデル名（動画・画像に透かしもUIも開示ラベルもない）、プロンプト原文（投稿にもメディアにも存在しない）、フォロワー数・再生数・いいね数の実値（TikTok側は当方の取得で実データを返さず、第三者の集計でも同アカウントは時期により 156K/225.7K と変動）、$21K という収益額（71.6M views × $0.30/1000 の概算で、案件単価や成約の裏付けなし）、「2アカウントが同一運営者」という推断（著者自身が everything points to と推測で書いている）。動画の人物がAI生成だという前提も著者の主張と見た目の印象に留まり、プラットフォーム上の明示的開示は確認できない。誘導先 https://x.com/i/article/2109318233866006528 はログイン必須で本文未確認（同一URLの記事は既に別項目として登録済みのため重複作成しない）。内容は成長施策の助言が中心で、再現手順の技術的検証はできない。
 - [Agent Sprite Forge](entries/image-gen/0x0funky-agent-sprite-forge.md) — unverified / 元ポストは「ゲームエンジンへの取り込みは未確認」と留保するが、README は Godot/Aseprite/Tiled/LDtk 書き出しを検証済みと明記。実機検証は未実施。
+- [Edmond キャラクター三面図（AIペルソナ用ターンアラウンド）](links/link-asset/x.com-edmond-ai.md) — unverified / 【権利】画像の再利用許諾・ライセンスは投稿にも画像にも明記が無く、閲覧はできるが転載・商用利用は許可されていないと解釈するのが妥当。自前キャラで同じレイアウトを再現するための作例として扱い、画像そのものを素材として再配布しない。【文脈】元ポストはpump.funで発行したミームコイン$EDMONDの失敗（ピーク$49.7K→$3.8K）を題材にした分析投稿で、添付画像はそのAIペルソナ「Edmond」の宣材。ポスト内の数値（フォロワー62.8K、再生25.3M、稼得約$15K、出来高$174K等）は投稿者の推計で、TikTok側・オンチェーン側とも一次確認していない（unverified）。画像内のプロフィール表示は62.9K Followers / 2.3M Likesで、ポスト本文の62.8Kとは微妙に食い違う。【未確認】生成元モデル・プロンプト・制作手順（メタデータ無し、動画は単なるキャラ動画で手順説明なし）。【リスク】実在人物風のAIキャラを他者のアカウント群に便乗させて増殖させる手法の一例であり、肖像・商標の模倣にならないよう注意。ミームコインの宣材である点も踏まえ、投資判断の材料にしない。
 - [The Bomi Berzina AI Character Shorts Playbook](links/link-asset/bomiberzina.com-the-bomi-berzina-ai-character-shorts-playbook.md) — unverified / 投稿の「10日で$13K」「10.6M再生」「最大5.6M」は投稿者自身の推計であり一次情報で確認していない。今回実測できたのは TikTok プロフィールの 23.6K フォロワー / 539.7K いいね / 13本（2026-11-08時点、レンダリング取得）で、個別動画の再生数は TikTok の WAF とログイン要求で取得できず未確認。Instagram は HTTP 200 だがログインウォールでプロフィールを読めない。価格 $9.99 は販売ページの表示と JSON-LD で確認し、Stripe の live セッションも実際に発行された（303）が、Stripe ページの金額は JS レンダリングで HTML から読めず、決済額そのものは未確認。PDF 本文は有料で、無料公開のプレビューは2ページ分（02, 04）のみ。17ステップのうち確認できたのは 01, 02, 05, 06, 07, 08 の6ステップとプロンプト2本（キャラクターシート用、Genjutsu の Object Swap 用）だけで、残り11ステップと残りのプロンプト本文は未確認。返金は商品ページに30日と明記されているが、リンク先の規約・返金ページ（smashcourses.com）は汎用文面で Bomi 商品を名指ししておらず、連絡先も商品ページは zenithlawassociates@gmail.com、規約ページは service@officeofagents.com で一致しない。手順06は他者のバイラル動画を第三者のダウンローダー（ytshortsdl.com / snaptik / igexport）で保存しキャラクターを差し替えるよう指示しており、著作権と各SNSの規約上のリスクがある。Jean Phil など他者キャラクターの世界観に便乗する手法も権利面で要注意。同一ドメインのルート https://bomiberzina.com は未発行の Solana ミームコイン「$BB」のプレローンチページ（価格 'Soon'、'CA DROPS AT LAUNCH'）で、ブランドがトークン販売と結び付いている点は別種の高リスクとして扱う。
 - [背景ガチャ（九龍城砦セット＋パース補助線）](links/link-asset/tools.oyasumi-gamedev.com-haikeigacha.md) — unverified / AIツールではなく、家具900以上をプログラムで組み合わせる手続き型の背景ジェネレータ（公式の仕組み解説に明記）。開発時のAI利用はClaude Codeのみ。部屋150種類以上に住宅・学校・洋館・中世の城・教会・九龍城砦のセットを追加。パース補助線は書き出しの『下絵（なぞる用）』でアイレベル線・パース補助線・消失点を別レイヤーに分離し、PSDはパースフォルダ内の各レイヤー、SVGは別ファイル、vp.txtに座標を出力する。ブラウザ完結・外部送信なし。β版で、版が上がると同seedでも部屋の作りが変わり得る。書き出し品質・PSDレイヤー構成は未確認（ブラウザツールのため実行検証は未実施）。
 - [Aura](links/link-service/aura.build-aura.md) — unverified / 未確認: (1) MCPのツール一覧・レート制限・1操作あたりのプロンプト消費量は、Auraアカウントなしではtools/listを取得できず未確認（未認証は401のみ確認）。(2) 公開REST API/CLIの有無は公式文書で確認できず、api.aura.build はサイトと同じHTMLを返すだけ。(3) テンプレート/コンポーネント/アセット数はページ間で記述が食い違う（料金ページFAQ: 5,000+テンプレート・2,800+コンポーネント・30,000+アセット、learn/introduction: 1000+テンプレート・1400+コンポーネント・20,000+アセット）ため数値は採用しない。(4) 月払い価格は料金ページのプラン設定（配信JSバンドル）から取得し、年払い額はページ表示のプロモ価格。年払い50%オフは期間限定表示で終了時期は不明。(5) MCPエンドポイントは初回probeで401を確認したが、再試行時に25秒タイムアウトした（一時的な可能性）。生成品質・出力の再現性は実生成していないため未評価。

@@ -1,5 +1,5 @@
 {
-  "count": 263,
+  "count": 264,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -3113,6 +3113,30 @@
       "signup_required": false,
       "path": "links/link-asset/aicameramovements-com.md",
       "summary": "AI 動画の「カメラが止まって見える」問題を、動きの名前と定型プロンプトで解決する。動きの違いを並べて比較してから選べる。"
+    },
+    {
+      "type": "link",
+      "name": "Edmond キャラクター三面図（AIペルソナ用ターンアラウンド）",
+      "genre": "link-asset",
+      "url": "https://x.com/Y0urDumble/status/2111907171680305284",
+      "author": "@Y0urDumble",
+      "pricing": "free",
+      "pricing_detail": "無料。X上に公開された添付画像で、ログインなしで https://pbs.twimg.com/media/HU8AWs_WQAADBVE.jpg がHTTP 200で取得できた（2026-11-08実測）。課金・サブスク・会員登録は無い。",
+      "signup_required": false,
+      "source_post": "https://x.com/Y0urDumble/status/2111907171680305284",
+      "sources": [
+        "https://pbs.twimg.com/media/HU8AWs_WQAADBVE.jpg",
+        "https://x.com/Y0urDumble/status/2111907171680305284"
+      ],
+      "added": "2026-11-08",
+      "fetched_at": "2026-11-08T07:46:00+00:00",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "【権利】画像の再利用許諾・ライセンスは投稿にも画像にも明記が無く、閲覧はできるが転載・商用利用は許可されていないと解釈するのが妥当。自前キャラで同じレイアウトを再現するための作例として扱い、画像そのものを素材として再配布しない。【文脈】元ポストはpump.funで発行したミームコイン$EDMONDの失敗（ピーク$49.7K→$3.8K）を題材にした分析投稿で、添付画像はそのAIペルソナ「Edmond」の宣材。ポスト内の数値（フォロワー62.8K、再生25.3M、稼得約$15K、出来高$174K等）は投稿者の推計で、TikTok側・オンチェーン側とも一次確認していない（unverified）。画像内のプロフィール表示は62.9K Followers / 2.3M Likesで、ポスト本文の62.8Kとは微妙に食い違う。【未確認】生成元モデル・プロンプト・制作手順（メタデータ無し、動画は単なるキャラ動画で手順説明なし）。【リスク】実在人物風のAIキャラを他者のアカウント群に便乗させて増殖させる手法の一例であり、肖像・商標の模倣にならないよう注意。ミームコインの宣材である点も踏まえ、投資判断の材料にしない。",
+      "first_seen": "2026-11-08",
+      "path": "links/link-asset/x.com-edmond-ai.md",
+      "summary": "AIで作った人物を毎回同じ見た目でショート動画に出すための、参照画像（キャラクターシート）の実例。1枚の中に全身の向きと顔の寄りを揃えてあり、画像生成・動画生成モデルに「この人物」を渡すときの入力として使う。"
     },
     {
       "type": "link",
