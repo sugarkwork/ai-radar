@@ -1,5 +1,5 @@
 {
-  "count": 274,
+  "count": 275,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -2220,6 +2220,29 @@
       ],
       "fetched_at": "2026-11-08T06:51:00+00:00",
       "path": "articles/2026-10-16-y0urdumble-dumble-the-johnson-brothers-ai.md"
+    },
+    {
+      "name": "「長くなる一方のSkill」を「短く効くSkill」にする、Matt Pocock式の作り方",
+      "genre": "article",
+      "url": "https://x.com/i/article/2109147034867658752",
+      "author": "@sumika45379 (Skills Studio)",
+      "source_post": "https://x.com/sumika45379/status/2112569775713120636",
+      "published": "2026-10-20",
+      "type": "article",
+      "first_seen": "2026-10-20",
+      "added": "2026-11-08",
+      "sources": [
+        "https://github.com/mattpocock/skills",
+        "https://www.youtube.com/watch?v=QsU0f-547rQ",
+        "https://code.claude.com/docs/en/skills",
+        "https://x.com/sumika45379/status/2112569775713120636"
+      ],
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "2026-10-10時点「スター28万超」という記事の数字は当時の値を再現できず、2026-11-08実測は318,171（記事の数字は古いスナップショットで、現在は上回る）。種動画の内容は説明欄のチャプター（5段）と公開日まで確認、本編の逐語と図版は未確認。動画側の「22 million+ people use them」は一次確認なし（記事はこの種のインストール数を載せていない）。効果（送り返しの減少）の第三者計測は記事にも当方にも見つからない。記事は本文中2箇所でLINE友だち追加による「Skill10選」配布へ誘導する販促導線を含む。",
+      "fetched_at": "2026-11-08T13:26:55Z",
+      "path": "articles/2026-10-20-sumika45379-skills-studio-skill-skill-matt-pocock.md"
     },
     {
       "repo": "colbymchenry/codegraph",
