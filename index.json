@@ -1,5 +1,5 @@
 {
-  "count": 266,
+  "count": 267,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -5056,6 +5056,29 @@
       "prompt_sha1": "dcfee5432f15899e0c1f5fc0ec8b0ef0c98dfabb",
       "path": "prompts/prompt-design/codegraph-codex-setup.md",
       "summary": "CodeGraph（コード知識グラフの MCP サーバー）を既存の Codex 環境に組み込み、インストール・MCP 設定・索引構築・動作検証までをエージェントに一括でやらせる。手順の暗記を省き、既存設定を壊さないことを明示している点が要点。"
+    },
+    {
+      "type": "prompt",
+      "name": "Grok 6ボットで回すAIペルソナ農場（Persona Farm）構築プロンプト",
+      "genre": "prompt-design",
+      "url": "https://x.com/Y0urDumble/status/2112617746987098248",
+      "author": "@Y0urDumble",
+      "source_post": "https://x.com/Y0urDumble/status/2112617746987098248",
+      "sources": [
+        "https://x.com/Y0urDumble/status/2112617742427623707"
+      ],
+      "first_seen": "2026-10-20",
+      "added": "2026-11-08",
+      "target": "Grok / xAI",
+      "transcribed_from": "image",
+      "prompt_sha1": "0eee1982d3484e2f4694dfe24626039a126a3fcc",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "投稿の数値（16,286フォロワー/45本/391返信/$1,386）は本人のデモ動画（day 11/14・15,201フォロワー・40本・3/5トークン・$1,050・画面に illustrative）とも一致せず第三者検証なし。5体のペルソナ実アカウントと $GUS/$OTIS/$LARS のペルソナ由来トークンは未確認（同名の無関係トークンと Otis 株のみ）。自動投稿・大量返信・トークン発行を指示する内容で、各SNSの規約と暗号資産規制に触れ得る。",
+      "fetched_at": "2026-11-08T08:52:03Z",
+      "path": "prompts/prompt-design/grok-6-ai-persona-farm-0eee1982d3.md",
+      "summary": "Grok を「24時間動くAIキャラクタースタジオのリードエンジニア」として動かし、5体のAIインフルエンサーを運用する仕組みを一式コードで作らせるプロンプト。SCOUT（トレンド探索）/ CASTER（ペルソナ定義）/ DIRECTOR（8秒・9:16動画の生成）/ POSTER（投稿）/ FARMER（コメント返信"
     },
     {
       "name": "キャラクターシート生成プロンプト（360度ターンアラウンド）",
