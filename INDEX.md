@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 240 件 — リポジトリ 187, リンク集 28, モデル 18, 記事 3, プロンプト 4 / ⚑ 要確認 30 件
+収録 241 件 — リポジトリ 187, リンク集 29, モデル 18, 記事 3, プロンプト 4 / ⚑ 要確認 31 件
 
 ## リポジトリ（187）
 
@@ -276,7 +276,7 @@
 - **[CLAUDE.md に足す「コンテキスト節約」6行（Ahorro de contexto）](prompts/prompt-other/claude-md-ahorro-de-contexto.md)**  Claude Code / @maarcoofdezz
   - Claude Code のトークン消費は、コードを書く量より「不要なファイルを丸ごと読む」「既に決めたことを繰り返す」「役目を終えた文脈を引きずる」ことに消える、という前提に立つ。CLAUDE.md の末尾に6行追記して、読み込み方と応答の仕方を変える。
 
-## リンク集（28）
+## リンク集（29）
 
 ### リンク（サービス・ツール）（10）
 
@@ -342,15 +342,17 @@
 - **[Sand3D (sand3d)](links/3d-motion/sandflow.ai-sand3d-sand3d.md)**  free / Sandflow (Sandflow-ai)
   - 3D 形状を「部品ごとの短い Python プログラム」として記述するためのライブラリ。座標を手計算せず、名前付きの部品・辺・面を操作するので、LLM が数百トークンで物体を書き、人間がそのまま読める。
 
+### 動画生成パイプライン（2）
+
+- **[Higgsfield AI Influencer](links/video-gen/higgsfield.ai-higgsfield-ai-influencer.md)** ⚑  freemium
+  - 実在しない人物（AIインフルエンサー）の見た目と動きを、プロンプトではなくメニュー操作で組み立てるためのスタジオ。作った人物を element として保存し、縦動画の差し替え用キャラクターとして使い回す。
+- **[Higgsfield Genjutsu](links/video-gen/higgsfield.ai-higgsfield-genjutsu.md)** ⚑  freemium
+  - 撮影済みの実写動画の動き・カメラ・タイミングをそのまま残し、演じている人物や周囲の世界だけを差し替える動画ツール。AIインフルエンサーの「実写の動きに顔だけ載せる」工程を担う。
+
 ### MCPサーバー（1）
 
 - **[ArtCraft Craft Apps](links/mcp-server/getartcraft.com-artcraft-craft-apps.md)**  free / ArtCraft (GitHub: storytold)
   - 画像編集・ベクター・動画・PDF・DTP・3Dテクスチャ・DAW・CAD・表計算など、商用クリエイティブソフト相当の機能をRust製ネイティブアプリとして無料・オープンソースで提供するスイート。
-
-### 動画生成パイプライン（1）
-
-- **[Higgsfield AI Influencer](links/video-gen/higgsfield.ai-higgsfield-ai-influencer.md)** ⚑  freemium
-  - 実在しない人物（AIインフルエンサー）の見た目と動きを、プロンプトではなくメニュー操作で組み立てるためのスタジオ。作った人物を element として保存し、縦動画の差し替え用キャラクターとして使い回す。
 
 ## モデル（18）
 
@@ -453,4 +455,5 @@
 - [NitroFusion2（1〜2ステップ text-to-image）](entries/video-gen/chendaryen-nitrofusion2.md) — unverified / 発見元の投稿（x.com/Machinedelusion/...）は別プロジェクト WeVisCut の宣伝で、NitroFusion2 の説明は一切ない。本項目の根拠はリポジトリ/モデルカードの一次情報のみ。README の「1 step で sharp text」「比較画像」は著者の主張で、第三者計測や条件記載はない。必要 VRAM は README・モデルカードに記載がなく未検証（bf16 重みが約 12.3GB、Q2_K_4XS で約 2.0GB）。リリース/タグが無いため固定バージョンでの導入はできず、clone 時点の main に追従する。カタログに image-gen ジャンルが無いため、同じ扱いをしている画像系モデル（Anima RGBA 等）に合わせて video-gen に分類した（実体は text-to-image）。ライセンスは本体・重みとも Apache-2.0、土台の Tongyi-MAI/Z-Image-Turbo も apache-2.0。
 - [AIインフルエンサー量産術：Higgsfield AI Influencer＋Genjutsuで作る架空キャラ](articles/2026-10-11-y0urdumble-ai-higgsfield-ai-influencer-genjutsu.md) — unverified / 記事本文は取得済み（X Article 2109318233866006528、公開 2026-10-11 17:55 UTC）。未検証：収益・フォロワー・トークン手数料（2週間で約$235K、5日で$10K、276Kフォロワー、時価総額$12.3M）は著者の推計で第三者検証がない。JEANPHILのFDVは2026-11-08時点で約$4.08Mまで下落。Biscuit Johnsonの数値は一次確認できず（TikTokは自動取得をブロック）。料金も変動しており、記事の「Starter $15/月」「無料5回」は現行公式表示（年払い$19/月、無料10回）と一致しない。添付mp4はスポンジ・ボブの meme クリップ（1.44秒）で、記事の手順画面の収録ではない。内容はミームコイン前提の収益モデルを含み、投資助言ではないが金銭的インセンティブのある導線である点に注意。
 - [Higgsfield AI Influencer](links/video-gen/higgsfield.ai-higgsfield-ai-influencer.md) — unverified / 月額 USD と無料枠の数は地域・キャンペーンで変動する。AI Influencer 1体あたりのクレジット消費（記事は 1.12 credits ≈ $0.06 と主張）と無料プラン生成物の透かしの有無は未確認。実在人物の写真を使う場合は本人の許諾が必要。
+- [Higgsfield Genjutsu](links/video-gen/higgsfield.ai-higgsfield-genjutsu.md) — unverified / 月額 USD と無料枠の数は地域・キャンペーンで変動する。AI Influencer 1体あたりのクレジット消費（記事は 1.12 credits ≈ $0.06 と主張）と無料プラン生成物の透かしの有無は未確認。実在人物の写真を使う場合は本人の許諾が必要。
 - [RelayVSR（ComfyUI 向け 2x/4x 動画アップスケーラ）](models/video-gen/comfy-org-relayvsr.md) — unverified / 速度・画質の比較数値は投稿者（RTX 5090）の計測で、モデルカードに計測条件の記載がない。第三者追試は未確認。
