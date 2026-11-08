@@ -1,5 +1,5 @@
 {
-  "count": 242,
+  "count": 243,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -4670,6 +4670,25 @@
       "type": "repo",
       "path": "entries/prompt-design/yang0-handraw-style.md",
       "summary": "手描きイラスト〜写実写真までの **365種の画風**（FA〜FI の分類番号と 001〜365 の通し番号）、**170種のレイアウト型**（SNSカード24 / データ infographic 38 / 漫画コマ割り71 / IP デザイン13 / EC 用24）、**36種の単色テーマ**を番号で選び、中英バイリ"
+    },
+    {
+      "name": "AIインフルエンサー用キャラクター発想プロンプト",
+      "genre": "prompt-design",
+      "url": "https://x.com/Y0urDumble/status/2109342020921659784",
+      "prompt_sha1": "9b790178fb9e362556129822f35a2a27741a2e70",
+      "target": "ChatGPT などのテキスト/画像生成LLM、および Kling Motion Control 等の image-to-video",
+      "transcribed_from": "text",
+      "flags": [],
+      "risk_notes": "実在の人物・有名人・他者のキャラクターに寄せると権利侵害になり得る。効果（再生数・収益）は著者の主張で未検証。",
+      "type": "prompt",
+      "added": "2026-11-08",
+      "first_seen": "2026-11-08",
+      "sources": [
+        "https://x.com/Y0urDumble/status/2109342020921659784"
+      ],
+      "fetched_at": "2026-11-07T15:42:23Z",
+      "path": "prompts/prompt-design/ai-9b790178fb.md",
+      "summary": "バイラル狙いの縦動画用に、1フレームで認識できるオリジナルキャラクターを5案出させる発想用プロンプト。記事の「手作業ルート」の最初の工程。"
     },
     {
       "type": "prompt",
