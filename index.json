@@ -1,5 +1,5 @@
 {
-  "count": 271,
+  "count": 273,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -3133,6 +3133,59 @@
       "fetched_at": "2026-11-08T02:03:00Z",
       "path": "models/image-gen/black-forest-labs-flux.2-klein-4b.md",
       "summary": "テキストプロンプトから画像を生成する（モデルカードの例は1024×1024、4ステップ、guidance_scale=1.0）。"
+    },
+    {
+      "type": "model",
+      "model": "mossloras/moss-image-lora-archive",
+      "name": "MOSS-Image LoRA Archive（Civitai日次スクレイプ）",
+      "genre": "image-gen",
+      "url": "https://huggingface.co/mossloras/moss-image-lora-archive",
+      "author": "mossloras",
+      "license": "unknown",
+      "base_model": [],
+      "format": "safetensors",
+      "size": "2,283 weight files / 約341GB（2026-11-08時点）",
+      "downloads": 0,
+      "likes": 12,
+      "created": "2026-11-05",
+      "updated": "2026-11-08",
+      "pricing": "free",
+      "pricing_detail": "重みは無料。個々のLoRAのライセンスはCivitai側の配布条件に従う。",
+      "signup_required": false,
+      "added": "2026-11-08",
+      "first_seen": "2026-11-08",
+      "source_post": "https://x.com/SD_Tutorial/status/2119357081715343577",
+      "sources": [
+        "https://huggingface.co/mossloras/moss-image-lora-archive",
+        "https://x.com/wildmindai/status/2119204788734935382"
+      ],
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "18+ / NSFW を含む可能性。CivitaiのMOSS-Image向けLoRAを日次で集めたアーカイブで、モデルカード・ライセンスファイルがない。個々のLoRAの再配布・商用利用の許諾は一括では確認できない。2,330ファイル（うち重み2,283本）・約341GB。DL 0・likes 12で独立検証なし。Civitaiの利用規約と各LoRA作者の条件を確認してから使う。",
+      "fetched_at": "2026-11-08T12:40:00Z",
+      "path": "models/image-gen/mossloras-moss-image-lora-archive.md",
+      "summary": "MOSS-Image 向けのLoRAを、Civitaiから日次で集めてHugging Faceに置いているアーカイブ。"
+    },
+    {
+      "name": "P-H3の成人向け利用レポート（18+）",
+      "genre": "image-gen",
+      "url": "https://x.com/i/article/2119122881993117696",
+      "author": "@taki_auto",
+      "published": "2026-11-08",
+      "type": "article",
+      "added": "2026-11-08",
+      "first_seen": "2026-11-08",
+      "sources": [
+        "https://x.com/taki_auto/status/2119361830271512581"
+      ],
+      "flags": [
+        "unverified",
+        "low-quality"
+      ],
+      "risk_notes": "18+ / NSFW。成人向けのP-H3利用レポート。本文は露骨な内容を含むため、当エントリでは内容を転載・詳細化しない。投稿はLINE登録と『12大特典』へ誘導する販促色が強く、技術的な検証は示されていない。P-H3-Image自体は既出（models/video-gen/prunaai-p-h3-image.md）。",
+      "fetched_at": "2026-11-08T12:40:00Z",
+      "path": "articles/2026-11-08-taki_auto-p-h3-adult-report.md"
     },
     {
       "type": "link",
