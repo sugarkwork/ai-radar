@@ -1,5 +1,5 @@
 {
-  "count": 262,
+  "count": 263,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -7097,6 +7097,28 @@
       "signup_required": false,
       "path": "models/video-gen/wepenerd-h3-ripple.md",
       "summary": "**MiniMax H3 FL2VA 用の LoRA**。既存の動画ショットから1〜2枚のアンカーフレームを選び、画像編集で直した内容を、指定した区間の全フレームへ伝播させる。"
+    },
+    {
+      "name": "Higgsfield",
+      "genre": "video-gen",
+      "url": "https://higgsfield.ai/",
+      "author": "Higgsfield Inc.",
+      "pricing": "freemium",
+      "pricing_detail": "無料: Free プラン（Limited use、クレジット付与なし、利用できるモデルは少数、料金比較表では商用利用 Not included）。有料: クレジット制サブスク。2026-11-08 の料金ページ（年払い表示）は Starter 270 credits/月 $19、Plus 1,200 credits/月 $47（月払い $59）、Ultra 3,000 credits/月 $99（月払い $129）、税別・30% OFF のプロモーション中。2026-10-03 の公式ブログ表は Starter $15/月（月払い）、Plus $49/月（年払い $39/月）、Ultra $129/月（年払い $99/月）。クレジットは月次リセットで繰り越しなし、追加購入可。生成単価はモデル・解像度・尺で変わり、実行前に Generate ボタンへ表示（例: キャラクター生成 1.12 credits ≒ $0.06、Kling 3.0 720p 約7 credits/5秒、Seedance 2.0 1080p 約60 credits/5秒）。Unlimited と Free Generations は higgsfield.ai 上のみで MCP / CLI / Canvas / Supercomputer からは使えない。",
+      "signup_required": true,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "【投稿の主張と実測の区別】ポストは架空のラッパー風ペルソナ「Marcel Duvall」が18日で9本・5.16M再生・817.8Kいいね・15.9Kフォロワー、推定$13Kを稼ぎ、$Marcel コインの時価総額が約$3.5Kだと述べるが、これらは投稿者の集計・推計で一次確認していない（フォロワー16Kはスクリーンショットとも一致）。返信で著者は「with the new higgsfield function its as easy as it can get!」とだけ書き、機能名は特定していない。投稿日（2026-10-17）と公式ブログのAI Influencer刷新（2026-10-03）から、AI Influencer＋Genjutsu の組み合わせとみられるが、これは推定であり投稿に明記はない。引用ポストの「$15で作れる」のリンク先 X 記事（2109318233866006528）はログインウォールで本文を取得できていない。ただし公式ブログの2026-10時点の料金表は Starter $15/月（月払い）で、当時の最安有料プランと一致する。現在の料金ページは Starter $19/月（年払い・プロモ表示）で、金額とクレジット数は変動する（未確認ではなく変動）。【未確認】無料プラン生成物の商用利用可否（規約4.4は出力の商用利用を制限しないとする一方、料金表は Free の Commercial use を Not included とする）。無料枠の透かしの有無。添付2枚目のキャラクターターンアラウンド画像はツールUIも透かしもなく、Higgsfield 製かは確認できない。ポスト内の映像が実際に本製品で作られたかも未確認。【リスク】実在人物の顔・声を使う場合は本人の同意が必須（規約5.3）。個人プランは入力・出力がモデル学習に使われうる。18歳以上。モデル・機能は予告なく変更・廃止されうる。無料枠・Unlimited は自動化や再販が禁止。",
+      "type": "link",
+      "added": "2026-11-08",
+      "first_seen": "2026-11-08",
+      "sources": [
+        "https://x.com/Y0urDumble/status/2111542395695182003"
+      ],
+      "fetched_at": "2026-11-08T07:41:00Z",
+      "path": "links/video-gen/higgsfield.ai-higgsfield.md",
+      "summary": "複数の画像・動画生成モデルを1つのアカウントとクレジットで使えるクリエイティブ基盤。公式は「AI-native creative suite」とうたい、自社モデル（Soul、Genjutsu、DoP など）と外部モデル（Seedance、Kling、Veo、Wan、Nano Banana など）を同じ画面に並べている。"
     },
     {
       "name": "Higgsfield AI Influencer",
