@@ -1,5 +1,5 @@
 {
-  "count": 267,
+  "count": 268,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -3273,6 +3273,35 @@
       "risk_notes": "",
       "path": "links/link-inspiration/bestaibuilder-website.md",
       "summary": "AI サイトビルダーを横並びで比較するためのランキングサイト。「同じブリーフで全ツールにサイトを作らせ、craft / speed / control / value で採点した」という前提を掲げ、101ツールを順位付けしている。"
+    },
+    {
+      "type": "link",
+      "name": "Greg1（@greg13e）— 実在の群集映像にAIキャラを1体だけ合成するTikTokアカウント",
+      "genre": "link-inspiration",
+      "url": "https://www.tiktok.com/@greg13e",
+      "author": "TikTok @greg13e（紹介したX投稿は @Y0urDumble）",
+      "pricing": "free",
+      "pricing_detail": "閲覧無料。TikTokのプロフィール・動画ページはログインなしでHTTP 200（2026-11-08T10:01Z実測）。課金・サブスク・会員登録は無い。投稿が挙げる「推定$5,700」は収益の推計であり料金ではない。",
+      "signup_required": false,
+      "source_post": "https://x.com/Y0urDumble/status/2112999169153442288",
+      "sources": [
+        "https://www.tiktok.com/@greg13e",
+        "https://www.tiktok.com/oembed?url=https://www.tiktok.com/@greg13e",
+        "https://video.twimg.com/amplify_video/2112998950999314433/vid/avc1/720x1280/cUgfMHjRerMzgMXf.mp4?tag=29",
+        "https://pbs.twimg.com/media/HVLhY-0WwAEnij4.png",
+        "https://pbs.twimg.com/media/HVLhgxwWIAAGFDx.jpg",
+        "https://www.linkedin.com/posts/michael--aubry_most-ai-character-swaps-quietly-keep-the-activity-7520568752812453888--oX-",
+        "https://x.com/Y0urDumble/status/2112999169153442288"
+      ],
+      "first_seen": "2026-10-21",
+      "added": "2026-11-08",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "【主張と実測の差】投稿の「13本で19M再生／最大13.2M／フォロワー19.3K／いいね1.6M」は、作者が添付したTikTokプロフィールのスクリーンショットが唯一の出所。アカウント自体は実在し（creator oembed 200、プロフィール200、表示名 Greg1・bio一致）、2026-11-08実測は50.2Kフォロワー／5.8Mいいね／88本。だが実際に取得できた直近6本の再生数は8.8M・5.3M・193.9K・189.3K・90.7K・48.6K（合計14.62M）で、13.2Mの動画も「5本で19M」も再現できていない（88本分の再生数一覧はTikTokのAPIが返さず未取得）。「Gregは13本だけ」は現在の総本数88本と食い違うが、複数キャラを回す運用の説明とは矛盾しない（内訳は未確認）。【収益】$5,700は著者自身の「$0.30/1,000再生 × 19M」の掛け算で、支払額の実測ではない。【zero humans on camera】画面に写る群集は実在の人物で、この表現は不正確。【制作】生成モデル・編集手順・使用ツールは投稿にもアカウントにも書かれていない。三面図は1200x1200・文字/透かし/EXIFなしで、角度間でシャツ柄のスケール・ウォレットチェーン・紫の差し色が一致せず生成物と判断。動画は720x1280/27.79秒で、抜き出したフレームには接地影の欠落・脚の二重化・靴の半透明・頭部の紫ハロー・前景だけ照明と解像感が合わない等の合成痕があり、AI生成表示の有無は未確認。【権利】実在の人物が写る群集映像を切り抜いて使っており、写り込んだ人・撮影者・場所の利用許諾は不明。",
+      "fetched_at": "2026-11-08T10:01:00Z",
+      "path": "links/link-inspiration/tiktok.com-greg1-greg13e-ai-1-tiktok.md",
+      "summary": "実在の場所・実在の群集が写る映像に、AIで作ったキャラクターを1体だけ合成し、その場に居合わせたように見せるショート動画フォーマットの実例。生成モデルの手順書ではなく、完成して回っている運用アカウントを観察するための参照先として使う。"
     },
     {
       "name": "Inspora",
