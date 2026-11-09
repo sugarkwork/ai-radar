@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 472 件 — リポジトリ 285, リンク集 75, 記事 49, モデル 52, プロンプト 11 / ⚑ 要確認 274 件
+収録 473 件 — リポジトリ 286, リンク集 75, 記事 49, モデル 52, プロンプト 11 / ⚑ 要確認 274 件
 
-## リポジトリ（285）
+## リポジトリ（286）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -204,12 +204,13 @@
 | [lowkeytea/scyllasband](entries/tts-audio/lowkeytea-scyllasband.md) ⚑ | 27 | 2 | 週次 | 12 | 2026-11-07 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
 | [adventists-ai/sophon-realtime](entries/tts-audio/adventists-ai-sophon-realtime.md) ⚑ | 12 | 2 | 毎日 | 27 | 2026-11-08 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
 
-### モデル推論・配信（20）
+### モデル推論・配信（21）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
 | [OmniRoute](entries/model-serving/cheaper-inference-omniroute.md) | 84,278 | 12,649 | 毎日 | 100+ | 2026-11-03 | 2026-11-03 | 2026-11-03 | MIT |
 | [Strata](entries/model-serving/niko1221-strata.md) ⚑ | 41,050 | 4,495 | 毎日 | 100+ | 2026-11-06 | 2026-11-06 | 2026-11-09 | MIT |
+| [MiniCPM-V](entries/model-serving/openbmb-minicpm-v.md) | 27,093 | 2,123 | 毎日 | 33 | 2026-10-30 | 2026-11-08 | 2026-11-09 | Apache-2.0 |
 | [oMLX（Apple Silicon向けLLM推論サーバ、メニューバーから管理）](entries/model-serving/jundot-omlx.md) | 23,405 | 2,101 | 毎日 | 100+ | 2026-11-05 | 2026-11-06 | 2026-11-06 | Apache-2.0 |
 | [gpu-unlock](entries/model-serving/zagitta-gpu-unlock.md) ⚑ | 16,595 | 1,654 | 毎日 | 36 | 2026-10-29 | 2026-11-04 | 2026-11-04 | GPL-2.0 |
 | [cactus-compute/cactus](entries/model-serving/cactus-compute-cactus.md) ⚑ | 14,595 | 1,015 | 毎日 | 34 | 2026-11-07 | 2026-11-09 | 2026-11-09 | Apache-2.0 |

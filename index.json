@@ -1,5 +1,5 @@
 {
-  "count": 472,
+  "count": 473,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -7684,6 +7684,38 @@
       "risk_notes": "Mac31%・Linuxほぼ3倍等はリリースノートで同じ条件の根拠がない箇所がある。control vectorは特定Qwen向け実験で既定off。 今回の動作・推論・生成・性能は未検証。",
       "path": "entries/model-serving/niko1221-strata.md",
       "summary": "ローカル推論エンジン本体＋デスクトップアプリ＋ターミナル CLI の3形態で、チャット／コーディング／画像入力（optional）をローカルで動かす。"
+    },
+    {
+      "repo": "OpenBMB/MiniCPM-V",
+      "name": "MiniCPM-V",
+      "genre": "model-serving",
+      "url": "https://github.com/OpenBMB/MiniCPM-V",
+      "license": "Apache-2.0",
+      "stars": 27093,
+      "language": "Python",
+      "created": "2024-01-29",
+      "updated": "2026-10-30",
+      "forks": 2123,
+      "open_issues": 64,
+      "commits_30d": 33,
+      "commit_cadence": "daily",
+      "commits_90d": 42,
+      "size_kb": 815156,
+      "archived": false,
+      "last_release": "20250527",
+      "last_release_at": "2025-05-27",
+      "author": "OpenBMB",
+      "flags": [],
+      "risk_notes": "GitHub Releases は 2025-05-27 の 20250527 が最新で、4.7 の告知は README と Hugging Face 側。速度・ベンチ数値は提供元自身の計測で、独立した再現評価は確認していない。",
+      "type": "repo",
+      "added": "2026-11-09",
+      "first_seen": "2026-11-09",
+      "sources": [
+        "https://x.com/opensourcelab9/status/2113035113537970380"
+      ],
+      "fetched_at": "2026-11-08T16:03:30Z",
+      "path": "entries/model-serving/openbmb-minicpm-v.md",
+      "summary": "画像1枚・複数画像・文書・動画を読むマルチモーダルモデル。35B-A3B（MoE、総35B・活性3B）と 1B の2サイズがあり、どちらも Instruct モードで使える。"
     },
     {
       "type": "repo",
