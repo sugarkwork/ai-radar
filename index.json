@@ -1,5 +1,5 @@
 {
-  "count": 507,
+  "count": 508,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -4287,6 +4287,25 @@
       "risk_notes": "18+ / NSFWに関連。露骨な例・本文は転載しない。具体的手法、売上効果、教材内容・価格は未確認で成功例として断定しない。 当方でインストール・推論・生成・ベンチ再現はしていない。",
       "published": "2026-11-07",
       "path": "articles/2026-11-09-https-x.com-i-article-2118611825109729280.md"
+    },
+    {
+      "name": "ChatGPT + Obsidian で組む英語リスニング訓練システム",
+      "genre": "article",
+      "url": "https://x.com/i/article/2104111173943828480",
+      "author": "@momoai_daily（momoai沫沫🫧）",
+      "published": "2026-09-27",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "本文は全文取得済みだが、初回60%→80%の目安や復習間隔は著者の経験則で定量データなし。Obsidian への自動書き込みは公式連携がなく手動運用。",
+      "type": "article",
+      "added": "2026-11-09",
+      "first_seen": "2026-11-09",
+      "sources": [
+        "https://x.com/momoai_daily/status/2104136225120772358"
+      ],
+      "fetched_at": "2026-11-09T03:29:35Z",
+      "path": "articles/2026-09-27-momoai_daily-momoai-chatgpt-obsidian.md"
     },
     {
       "name": "Claude Code に Blender シーンを Python で書かせ、ヘッドレスで回す6段階",
