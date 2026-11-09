@@ -1,5 +1,5 @@
 {
-  "count": 559,
+  "count": 560,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -5702,6 +5702,37 @@
       "fetched_at": "2026-11-09T00:31:14.312588+00:00",
       "path": "entries/coding-agent/reacher-z-awesome-rea.md",
       "summary": "リバースエンジニアリングエージェントの資料・事例・論文・公開repoを集め、llms.txtとJSON APIで提供するAwesome-REA。"
+    },
+    {
+      "repo": "UditAkhourii/quicksilver",
+      "name": "quicksilver",
+      "genre": "coding-agent",
+      "url": "https://github.com/UditAkhourii/quicksilver",
+      "license": "MIT",
+      "stars": 142,
+      "language": "JavaScript",
+      "created": "2026-09-25",
+      "updated": "2026-09-25",
+      "forks": 11,
+      "open_issues": 3,
+      "commits_30d": 0,
+      "commit_cadence": "stale",
+      "commits_90d": 2,
+      "size_kb": 70,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "効果数値は作者自身の12タスク・ベンチマーク（bench/）による自己申告で、第三者による追試や自動テストは無い。bench の再実行には有料の Jev API キーが必要。対象ファイル/ログの内容は TypeSafe の API（api.typesafe.ai）へ送信されるため機密情報には使えない（.env・鍵・証明書・credentials、2MB 超、バイナリはスキップし .gitignore を尊重すると README に記載）。2026-09-25 の初回コミット2件以降の更新が無く、メンテ状況は不明。",
+      "type": "repo",
+      "added": "2026-11-09",
+      "first_seen": "2026-11-09",
+      "sources": [
+        "https://x.com/thegreatest_sv/status/2114378197932617766"
+      ],
+      "fetched_at": "2026-11-09T16:40:21Z",
+      "path": "entries/coding-agent/uditakhourii-quicksilver.md",
+      "summary": "リポジトリ全体や大量ファイルに「このファイルは認証まわりを実装しているか」等の yes/no 判定を一括実行し、該当ファイルだけを確信度付きで返す（qs filter）。"
     },
     {
       "type": "repo",
