@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 525 件 — リポジトリ 308, リンク集 92, 記事 59, モデル 53, プロンプト 13 / ⚑ 要確認 324 件
+収録 526 件 — リポジトリ 308, リンク集 92, 記事 59, モデル 53, プロンプト 14 / ⚑ 要確認 325 件
 
 ## リポジトリ（308）
 
@@ -401,7 +401,7 @@
 |---|---:|---:|---|---:|---|---|---|---|
 | [OverlaySubs — PC音声のリアルタイム翻訳オーバーレイ字幕](entries/productivity/sp-yduck-overlaysubs.md) ⚑ | 31 | 3 | 停滞 | 0 | 2026-11-09 | 2026-11-09 | 2026-11-09 | MIT |
 
-## プロンプト（13）
+## プロンプト（14）
 
 ### プロンプト（デザイン/UI）（7）
 
@@ -420,7 +420,7 @@
 - **[キャラクター三面図プロンプト（GPT / MageSpace）](prompts/prompt-design/jackchen1919-character-sheet.md)** ⚑  GPT / MageSpace などの画像生成 / @jackchen1919
   - 1人のキャラクターについて、左にアップ、右に全身の前・横・後ろを並べた**キャラクターデザインシート**を1枚で生成する。
 
-### プロンプト（その他）（4）
+### プロンプト（その他）（5）
 
 - **[ADHD実行機能モード化プロンプト7本（日本語版）](prompts/prompt-other/adhd-executive-function-7prompts.md)**  汎用 / @MakeAI_CEO
   - 「やる気が出ない」「タスクが大きすぎて手が動かない」「切り替えができない」といった実行機能の詰まりを、対話の型で強制解除するための7本。投稿者は海外で話題になった手法を日本語の仕事現場向けに再設計したと述べている。各プロンプトは独立して使う。
@@ -428,6 +428,8 @@
   - Claude Code のトークン消費は、コードを書く量より「不要なファイルを丸ごと読む」「既に決めたことを繰り返す」「役目を終えた文脈を引きずる」ことに消える、という前提に立つ。CLAUDE.md の末尾に6行追記して、読み込み方と応答の仕方を変える。
 - **[モーショントランスファー用プロンプト（Kling Motion Control など）](prompts/prompt-other/kling-motion-control-5d1a7ab60f.md)**  ChatGPT などのテキスト/画像生成LLM、および Kling Motion Control 等の image-to-video
   - Genjutsu 以外の image-to-video motion control ツール（記事は Kling Motion Control を例示）で、参照動画の動きを静止画キャラクターに演じさせるための指示文。
+- **[英語リスニング教材の自動選定＋訓練進行＋Obsidian書き出し](prompts/prompt-other/obsidian-21020864dd.md)** ⚑  ChatGPT（Web検索あり・音声リンクを提示） / @momoai_daily（momoai沫沫🫧）
+  - レベル・練習時間・素材長の3つだけを渡し、実在する英語リスニング教材を ChatGPT に検索・選定させ、盲聴から字幕校准・跟读・复述・主動提取・レベル更新までを自動進行させ、最後に Obsidian へ貼れる Markdown ノートを出させるプロンプト。
 - **[英語リスニング訓練コーチ（教材生成＋盲聴＋誤り分類）](prompts/prompt-other/990639c4-15d8bdb039.md)** ⚑  ChatGPT（Voice モード／テキストチャット併用） / @momoai_daily（momoai沫沫🫧）
   - A2〜C1 の英語学習者が、その日の主題と練習時間に合わせた英文素材を ChatGPT に書き下ろさせ、盲聴→大意1問→文本開示→誤り分類→復盤までを1本の会話で回すためのコーチ用プロンプト。
 
@@ -1142,6 +1144,7 @@
 - [キャラクター三面図プロンプト（GPT / MageSpace）](prompts/prompt-design/jackchen1919-character-sheet.md) — unverified / 投稿はプロンプト本文＋生成結果8枚で、特定の製品・モデルの配布ではない。生成画像は著者の作例で、再現性・品質は未検証（当方では生成していない）。実在の人物・既存キャラクターに寄せると権利侵害になり得る。
 - [落合陽一の公開制作をもとにした二次AIデザイン指針](articles/2026-11-09-https-x.com-kimuai08-article-2079212341250724250.md) — unverified / 落合本人の公式指示や完全な記事通読として扱わない。原文プロンプトを創作せず二次解説として残す。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [暖かい愛情・自然な日本語チャットの指示書](articles/2026-11-09-zeowota-natural-japanese-chat-instructions-overview.md) — unverified / 18+ / NSFWのサイト由来。取得した原文が本資料にはないためプロンプトを創作せず記事として要約する。キャラ「レイ」の移植/再配布禁止をこの別指示書へ自動適用せず権利範囲は未確認。 当方でインストール・推論・生成・ベンチ再現はしていない。
+- [英語リスニング教材の自動選定＋訓練進行＋Obsidian書き出し](prompts/prompt-other/obsidian-21020864dd.md) — unverified / 著者の主張は「実在する英語音声教材を ChatGPT に検索・選定させ、盲聴から復述までの訓練を自動進行し、最後に Obsidian 用ノートを出す」こと。プロンプト本文は原文どおり 2109 字で、記事 HTML の <code> ブロックと空白正規化後の SHA-1 が一致することを確認した。確認できた制約は3点。①検索リンクは保証されない：OpenAI 公式は検索結果・引用が「incomplete, outdated, or incorrect」であり引用元を開いて確認するよう求め、幻覚の例として「Fabricated quotes, studies, citations or references to non-existent sources」を挙げる。ペイウォールや robots.txt で取得できない場合もあると明記。プロンプトの「不要编造…」は指示であって防止策ではない。②Obsidian への直接書き込みは標準では不可：公式のコネクテッドアプリ一覧に Obsidian は無く、MCP 経由ならフル書き込みは Business/Enterprise/Edu、Pro は read/fetch のみで Web 限定。プロンプト自身も「できなければ Markdown を出力」と留保しており、通常はそちらが既定経路。③出典5サイトのうち British Council は 2026-11-09 時点で接続タイムアウト（他4件は HTTP 200）。未確認：初回50〜70%→80% の難易度基準と升级判定はモデルの自己評価のみで測定根拠がなく、学習効果の定量データも無い。記事 URL は未ログインでログイン画面へリダイレクトされる。
 - [英語リスニング訓練コーチ（教材生成＋盲聴＋誤り分類）](prompts/prompt-other/990639c4-15d8bdb039.md) — unverified / 著者の主張は「レベルと練習時間に合った英文を生成させ、盲聴→大意1問→テキスト開示→誤り分類→復盤まで自動で回す」こと。プロンプト本文は原文どおり 442 字で、記事 HTML の <code> ブロックと空白正規化後の SHA-1 が一致することを確認した。確認できたのは指示文の内容までで、次は未確認・不成立。①「第一遍只朗读，不展示文本」は ChatGPT Voice では成立しない（公式ヘルプ：Live は読み上げと同時に応答テキストをチャットに表示する。Advanced も会話終了後に transcript が追加される）。②5〜8分の連続朗読は Voice の想定用途（対話）から外れ、実際には分割されやすい。③「初回60%→数回で80%」の難易度基準は著者の経験則で出典なし。④このプロンプトによる学習効果の測定データは無い。記事 URL は未ログインだとログイン画面（x.com/i/jf/onboarding/web）へリダイレクトされ、本文は投稿ページにサーバー描画された HTML から取得した。
 - [HKUDS/DeepTutor](entries/rag/hkuds-deeptutor.md) — unverified / Apache-2.0表記はコード側の条件。教示の正しさ・教育効果、API費用、デスクトップの実機動作は未検証。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [obsidianmd/obsidian-releases](entries/rag/obsidianmd-obsidian-releases.md) — unverified / 原チェックはLICENSEなし。リポジトリ公開をObsidian本体または全プラグインのOSS化・自由再配布の許諾と扱わない。 当方でインストール・推論・生成・ベンチ再現はしていない。

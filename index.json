@@ -1,5 +1,5 @@
 {
-  "count": 525,
+  "count": 526,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -11469,6 +11469,33 @@
       "risk_notes": "18+ / NSFWのサイト由来。取得した原文が本資料にはないためプロンプトを創作せず記事として要約する。キャラ「レイ」の移植/再配布禁止をこの別指示書へ自動適用せず権利範囲は未確認。 当方でインストール・推論・生成・ベンチ再現はしていない。",
       "published": "2026-11-07",
       "path": "articles/2026-11-09-zeowota-natural-japanese-chat-instructions-overview.md"
+    },
+    {
+      "name": "英語リスニング教材の自動選定＋訓練進行＋Obsidian書き出し",
+      "genre": "prompt-other",
+      "url": "https://x.com/momoai_daily/status/2104136225120772358",
+      "author": "@momoai_daily（momoai沫沫🫧）",
+      "prompt_sha1": "21020864dd805f40d6a8240461472bd662b325cc",
+      "target": "ChatGPT（Web検索あり・音声リンクを提示）",
+      "transcribed_from": "text",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "著者の主張は「実在する英語音声教材を ChatGPT に検索・選定させ、盲聴から復述までの訓練を自動進行し、最後に Obsidian 用ノートを出す」こと。プロンプト本文は原文どおり 2109 字で、記事 HTML の <code> ブロックと空白正規化後の SHA-1 が一致することを確認した。確認できた制約は3点。①検索リンクは保証されない：OpenAI 公式は検索結果・引用が「incomplete, outdated, or incorrect」であり引用元を開いて確認するよう求め、幻覚の例として「Fabricated quotes, studies, citations or references to non-existent sources」を挙げる。ペイウォールや robots.txt で取得できない場合もあると明記。プロンプトの「不要编造…」は指示であって防止策ではない。②Obsidian への直接書き込みは標準では不可：公式のコネクテッドアプリ一覧に Obsidian は無く、MCP 経由ならフル書き込みは Business/Enterprise/Edu、Pro は read/fetch のみで Web 限定。プロンプト自身も「できなければ Markdown を出力」と留保しており、通常はそちらが既定経路。③出典5サイトのうち British Council は 2026-11-09 時点で接続タイムアウト（他4件は HTTP 200）。未確認：初回50〜70%→80% の難易度基準と升级判定はモデルの自己評価のみで測定根拠がなく、学習効果の定量データも無い。記事 URL は未ログインでログイン画面へリダイレクトされる。",
+      "source_post": "https://x.com/momoai_daily/status/2104136225120772358",
+      "sources": [
+        "https://x.com/momoai_daily/status/2104136225120772358",
+        "https://x.com/i/article/2104111173943828480",
+        "https://help.openai.com/en/articles/9237897-searching-the-web-with-chatgpt",
+        "https://help.openai.com/en/articles/11487775-connected-apps-in-chatgpt",
+        "https://help.openai.com/en/articles/12584461-connecting-custom-mcp-servers-in-chatgpt"
+      ],
+      "added": "2026-11-09",
+      "first_seen": "2026-11-09",
+      "fetched_at": "2026-11-09T04:10:53Z",
+      "type": "prompt",
+      "path": "prompts/prompt-other/obsidian-21020864dd.md",
+      "summary": "レベル・練習時間・素材長の3つだけを渡し、実在する英語リスニング教材を ChatGPT に検索・選定させ、盲聴から字幕校准・跟读・复述・主動提取・レベル更新までを自動進行させ、最後に Obsidian へ貼れる Markdown ノートを出させるプロンプト。"
     },
     {
       "name": "英語リスニング訓練コーチ（教材生成＋盲聴＋誤り分類）",
