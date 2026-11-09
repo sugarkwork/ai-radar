@@ -1,5 +1,5 @@
 {
-  "count": 529,
+  "count": 530,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -3780,6 +3780,49 @@
       "type": "repo",
       "path": "entries/agent-framework/benjitaylor-skills.md",
       "summary": "エージェントが作る「それっぽくない製品UI」を、実在プロダクトの見た目に寄せるスキル。静止画・フィーチャーカード・カーソルデモ・ベントーグリッドを React で組み立てる。"
+    },
+    {
+      "repo": "Hinln/ARTEX",
+      "name": "ARTEX",
+      "genre": "agent-framework",
+      "url": "https://github.com/Hinln/ARTEX",
+      "license": "AGPL-3.0",
+      "stars": 1427,
+      "language": "Go",
+      "created": "2026-10-08",
+      "updated": "2026-10-08",
+      "forks": 1941,
+      "open_issues": 4,
+      "commits_30d": 0,
+      "commit_cadence": "monthly",
+      "commits_90d": 100,
+      "size_kb": 9601,
+      "archived": false,
+      "author": "Hinln（上流は Autumn-27/ARTEX v0.3.15 のバックアップ）",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "①認可前提: README は「オンラインシステムへの実行は認可の有無を問わず禁止」と明記し、対象はローカルの隔離環境に限るとする。実運用で使うなら著者の許諾と法的根拠の両方が要る。②危険な既定値: worker は Bash/HTTP を実ツールで実行する。0.3.15 の変更履歴は、内蔵の破壊的 HTTP 規則が DELETE メソッドしか見ておらず、GET/POST の削除系エンドポイント（例 `/api/user/delete?id=1`）を実際に叩いてデータを消し得たと述べ、deny 規則を追加したとしている。0.3.15 未満は破壊的操作を止められない前提で扱うべき。③承認ゲートの範囲は未検証: guard/intercept とタスク単位 intercept_rules は存在するが、既定で何が承認待ちになるかの一覧は README・CHANGELOG から特定できない。④MITM の鍵管理: 記録プロキシが CA を発行して TLS を復号し、Bash/HTTP を留痕する。CA 秘密鍵と traffic データの保管・削除は利用者責任で、第三者環境に置くと通信内容がそのまま残る。⑤サプライチェーン: 本リポジトリは上流のバックアップで、Hinln 名義のコミット 1 本が自己更新の取得先を Hinln/ARTEX Releases に変更している。更新は zip 取得→SHA256SUMS 照合→`-h` スモークテスト→入替（3 回失敗でロールバック）という実装だが、配布元が単一アカウントである点は変わらない。取得時点で Releases と tags は 0 件のため更新経路は動かない。⑥記述の不整合: README は「これは私有リポジトリ」として ARTEX_UPDATE_GITHUB_TOKEN（Contents: read）の設定を求めるが、API 上 private=false。トークン前提の更新手順は現状と一致しない。⑦上流の消失: Autumn-27/ARTEX は API 404 で作者の公開リポジトリ一覧にも無い。fork 1941 > star 1427 という比率は一斉ミラーと整合するが、各 fork が同一内容とは限らず、本項では上流タグとのハッシュ照合をしていない。⑧未検証: 本項はコード・README・compose の静的確認のみで、実行・ベンチ・検出率の検証はしていない。効果の数値的裏付けは無い。",
+      "last_release": "",
+      "last_release_at": "",
+      "added": "2026-11-09",
+      "first_seen": "2026-10-22",
+      "fetched_at": "2026-11-09T05:12:30Z",
+      "source_post": "https://x.com/wquguru/status/2113181135522214168",
+      "sources": [
+        "https://github.com/Hinln/ARTEX",
+        "https://api.github.com/repos/Hinln/ARTEX",
+        "https://github.com/Hinln/ARTEX/blob/main/README.md",
+        "https://github.com/Hinln/ARTEX/blob/main/docker-compose.yml",
+        "https://github.com/Hinln/ARTEX/blob/main/go.mod",
+        "https://github.com/Hinln/ARTEX/blob/main/CHANGELOG.md",
+        "https://github.com/Hinln/ARTEX/blob/main/skills/api-recon/SKILL.md",
+        "https://artex-demo.vercel.app/",
+        "https://x.com/wquguru/status/2113181135522214168"
+      ],
+      "type": "repo",
+      "path": "entries/agent-framework/hinln-artex.md",
+      "summary": "LLM のマルチエージェントで Web アプリの侵入テストを回す自ホスト型システム。Go の単一バイナリに Next.js の UI を埋め込み、PostgreSQL に状態を持つ。"
     },
     {
       "type": "repo",
