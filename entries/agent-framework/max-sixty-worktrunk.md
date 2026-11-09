@@ -15,8 +15,8 @@ created: "2025-10-17"
 updated: "2026-11-06"
 added: "2026-11-06"
 first_seen: "2026-11-06"
-sources: ["https://x.com/RoundtableSpace/status/2117802763262591481"]
-flags: []
+sources: ["https://x.com/RoundtableSpace/status/2117802763262591481", "https://x.com/yozm_it/status/2118928933718823055?a=cjodEJSPnTqNRRgPDuQ&s=46", "https://x.com/yozm_it/status/2118928933718823055", "https://github.com/thedotmack/claude-mem", "https://github.com/Nutlope/hallmark", "https://github.com/anthropics/skills", "https://github.com/HKUDS/DeepTutor", "https://github.com/max-sixty/worktrunk"]
+flags: ["unverified"]
 risk_notes: "発見元の投稿は画面録画MCP（t.co リンク先は gmpetrov/agent-screenplay）の紹介で、worktrunk はそのツールではない。worktrunk は git worktree 管理 CLI で、投稿本文に worktrunk への言及はない。数値・機能は worktrunk 自身の API/README/公式ドキュメントで確認した。"
 forks: 450
 open_issues: 51
@@ -27,6 +27,10 @@ archived: false
 fetched_at: "2026-11-06T12:31:00Z"
 last_release: "v0.81.0"
 last_release_at: "2026-10-20"
+commits_90d: 100
+license_detail: "原チェックのLICENSE/README解釈: MIT OR Apache-2.0。APIのSPDX判定とは別。利用前に現行本文を確認。"
+source_post: "https://x.com/yozm_it/status/2118928933718823055"
+amplifiers: []
 ---
 
 # Worktrunk
@@ -77,3 +81,50 @@ last_release_at: "2026-10-20"
 ## 変更履歴
 
 - 2026-11-06: 初回登録
+
+## 追加出典・確認範囲（2026-11-09）
+
+複数の開発作業をgit worktreeで管理するWorktrunkの再紹介。
+
+ローカルGitとエージェントCLI契約が前提。LLMコミット機能はモデルを内蔵するものではない。
+
+週間ランキングの集計方法は未確認。今回の出典を既存の別ツールの紹介投稿と区別して追加する。
+
+対象固有の機能・制約の説明は2026-11-08のチェック記録を基にしている。メタ情報は2026-11-09T00:30:55.516488+00:00に公式APIを取得した値。API取得とREADME確認は動作試験ではない。
+
+公式README/モデルカードも取得済み。性能表・デモは配布元の報告として扱い、独立測定へ読み替えない。
+
+fork=false、archived=false。commit数は30日・90日それぞれ100件上限であり、100は100件以上を表す。starsやpushだけで保守品質を保証しない。
+
+### 今回取得した公式メタ情報
+
+既存フロントマターの過去値は維持し、今回の取得値を下に併記する。どちらも実行・性能の追試ではない。
+
+| 項目 | 値 |
+|---|---|
+| repo | max-sixty/worktrunk |
+| url | https://github.com/max-sixty/worktrunk |
+| license | NOASSERTION |
+| language | Rust |
+| created | 2025-10-17 |
+| updated | 2026-11-08 |
+| stars | 12119 |
+| forks | 468 |
+| open_issues | 53 |
+| commits_30d | 100 |
+| commits_90d | 100 |
+| commit_cadence | daily |
+| size_kb | 62934 |
+| archived | False |
+| fetched_at | 2026-11-09T00:30:55.516488+00:00 |
+| license_detail | 原チェックのLICENSE/README解釈: MIT OR Apache-2.0。APIのSPDX判定とは別。利用前に現行本文を確認。 |
+
+
+- @yozm_it: https://x.com/yozm_it/status/2118928933718823055
+- 対象資料: https://github.com/max-sixty/worktrunk
+- 参照: https://github.com/thedotmack/claude-mem
+- 参照: https://github.com/Nutlope/hallmark
+- 参照: https://github.com/anthropics/skills
+- 参照: https://github.com/HKUDS/DeepTutor
+
+- 2026-11-09: 関連出典と確認範囲を追記。既存の記述・過去の数値・原文プロンプトは維持。今回の実行確認なし。

@@ -11,8 +11,8 @@ created: "2026-09-03"
 updated: "2026-11-06"
 added: "2026-11-07"
 first_seen: "2026-11-07"
-sources: ["https://x.com/heyrimsha/status/2118662273044807904"]
-flags: []
+sources: ["https://x.com/heyrimsha/status/2118662273044807904", "https://x.com/dopamine_crypto/status/2119018274516029751"]
+flags: ["unverified"]
 risk_notes: "実装は本物で、こちらで npx 導入→contract 42件→fit/check/look まで通したが、リスクは3点。(1) 実質ひとり開発：コミット270件が作者 kajisho5、146件が github-actions[bot]、53件が claude[bot]（2026-11-07 時点の contributors）。バス係数1で、方針変更やメンテ停止がそのまま影響する。(2) 壊しやすい速度：作成から2か月で 2.0.0 と 3.0.0 の2回の破壊的変更（--crf 廃止、FFmpeg 5.x / Python 3.9 切り捨て、cut.py の edit list・HEVC 保持の既定変更）。main 追従は危険で、タグ／npm バージョンで固定すべきと README 自身が書いている。(3) 数字の読み方：作成2か月で stars 4672・forks 379 に対し watchers 7。npm 週9,077DLと利用の実体はあるが、この stars 数を品質の裏付けとして扱わない。加えて README は作者の10本以上の姉妹リポジトリ（video-production-agent / remotion-ffmpeg-skill / qc-skill 等）への導線を兼ねており、宣伝面が大きい。macOS の素の Homebrew ffmpeg は libass/zscale を欠き doctor の ok が false になる（ffmpeg-full 前提）。リポジトリは 37MB で docs/demos の比重が大きい。"
 forks: 379
 open_issues: 15
@@ -23,6 +23,10 @@ archived: false
 fetched_at: "2026-11-07T01:21:00Z"
 last_release: "v3.2.0"
 last_release_at: "2026-11-06"
+commits_90d: 100
+author: "kajisho5"
+source_post: "https://x.com/dopamine_crypto/status/2119018274516029751"
+amplifiers: []
 ---
 
 # ffmpeg-skill — FFmpeg を「エージェントが検証できる42本のツール」に分解したローカル動画編集スキル
@@ -98,3 +102,45 @@ python3 $S/look.py in_fit.mp4 -o sheet.png      # 仕上がりをPNGで見る
 ## 変更履歴
 
 - 2026-11-07: 初回登録
+
+## 追加出典・確認範囲（2026-11-09）
+
+エージェント向けローカル動画編集ツール群ffmpeg-skillの再紹介。
+
+FFmpeg/Python等の対応版とエージェント環境が必要。
+
+今回の新たな実行試験はない。過去の実行記録と今回の出典追加を区別する。
+
+対象固有の機能・制約の説明は2026-11-08（原記録）のチェック記録を基にしている。メタ情報は2026-11-09T00:31:07.523554+00:00に公式APIを取得した値。API取得とREADME確認は動作試験ではない。
+
+公式README/モデルカードも取得済み。性能表・デモは配布元の報告として扱い、独立測定へ読み替えない。
+
+fork=false、archived=false。commit数は30日・90日それぞれ100件上限であり、100は100件以上を表す。starsやpushだけで保守品質を保証しない。
+
+### 今回取得した公式メタ情報
+
+既存フロントマターの過去値は維持し、今回の取得値を下に併記する。どちらも実行・性能の追試ではない。
+
+| 項目 | 値 |
+|---|---|
+| repo | kajisho5/ffmpeg-skill |
+| url | https://github.com/kajisho5/ffmpeg-skill |
+| license | MIT |
+| language | Python |
+| created | 2026-09-03 |
+| updated | 2026-11-07 |
+| stars | 4825 |
+| forks | 396 |
+| open_issues | 13 |
+| commits_30d | 100 |
+| commits_90d | 100 |
+| commit_cadence | daily |
+| size_kb | 39307 |
+| archived | False |
+| fetched_at | 2026-11-09T00:31:07.523554+00:00 |
+
+
+- @dopamine_crypto: https://x.com/dopamine_crypto/status/2119018274516029751
+- 対象資料: https://github.com/kajisho5/ffmpeg-skill
+
+- 2026-11-09: 関連出典と確認範囲を追記。既存の記述・過去の数値・原文プロンプトは維持。今回の実行確認なし。

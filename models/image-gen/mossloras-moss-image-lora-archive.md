@@ -19,10 +19,11 @@ signup_required: false
 added: 2026-11-08
 first_seen: 2026-11-08
 source_post: https://x.com/SD_Tutorial/status/2119357081715343577
-sources: ["https://huggingface.co/mossloras/moss-image-lora-archive", "https://x.com/wildmindai/status/2119204788734935382"]
+sources: ["https://huggingface.co/mossloras/moss-image-lora-archive", "https://x.com/wildmindai/status/2119204788734935382", "https://x.com/SD_Tutorial/status/2119357081715343577"]
 flags: ["unverified"]
 risk_notes: "18+ / NSFW を含む可能性。CivitaiのMOSS-Image向けLoRAを日次で集めたアーカイブで、モデルカード・ライセンスファイルがない。個々のLoRAの再配布・商用利用の許諾は一括では確認できない。2,330ファイル（うち重み2,283本）・約341GB。DL 0・likes 12で独立検証なし。Civitaiの利用規約と各LoRA作者の条件を確認してから使う。"
 fetched_at: "2026-11-08T12:40:00Z"
+amplifiers: []
 ---
 
 # MOSS-Image LoRA Archive（Civitai日次スクレイプ）
@@ -75,3 +76,42 @@ hf download mossloras/moss-image-lora-archive \
 ## 変更履歴
 
 - 2026-11-08: 初回登録（18+注意・ライセンス不明を明記）
+
+## 追加出典・確認範囲（2026-11-09）
+
+CivitaiのMOSS-Image LoRAを日次収集すると説明する重みアーカイブ。
+
+原チェックは2283本・合計341.25GBのsafetensorsを確認。個々のモデル条件は元配布を確認する必要がある。
+
+18+ / NSFWを含む可能性。モデルカードと一括ライセンスなしで、全LoRAの再配布・商用許諾は確認できない。
+
+対象固有の機能・制約の説明は2026-11-08（原記録）のチェック記録を基にしている。メタ情報は2026-11-09T00:31:34.948226+00:00に公式APIを取得した値。API取得とREADME確認は動作試験ではない。
+
+公式APIのメタ情報は取得できたがREADME/モデルカードの取得はHTTP 404で失敗。本文の現行内容は未確認。取得制限やファイル未掲載を、対象そのものの不存在とは扱わない。
+
+### 今回取得した公式メタ情報
+
+既存フロントマターの過去値は維持し、今回の取得値を下に併記する。どちらも実行・性能の追試ではない。
+
+| 項目 | 値 |
+|---|---|
+| model | mossloras/moss-image-lora-archive |
+| url | https://huggingface.co/mossloras/moss-image-lora-archive |
+| license | unknown |
+| base_model | [] |
+| downloads | 0 |
+| likes | 23 |
+| format | safetensors |
+| size | 配布中の重みファイル 2383本・合計356,111,128,821 bytes（複数形式・量子化・派生を含む。必要メモリではない） |
+| created | 2026-11-05 |
+| updated | 2026-11-08 |
+| fetched_at | 2026-11-09T00:31:34.948226+00:00 |
+| pricing | free |
+| pricing_detail | 重みのダウンロードに利用料金の表示なし。ライセンス・用途・地域・商用許諾と実行費用は別途確認。 |
+| signup_required | False |
+
+
+- @SD_Tutorial: https://x.com/SD_Tutorial/status/2119357081715343577
+- 対象資料: https://huggingface.co/mossloras/moss-image-lora-archive
+
+- 2026-11-09: 関連出典と確認範囲を追記。既存の記述・過去の数値・原文プロンプトは維持。今回の実行確認なし。

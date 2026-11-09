@@ -10,9 +10,9 @@ created: "2026-11-01"
 updated: 2026-11-01
 added: "2026-11-03"
 first_seen: "2026-11-03"
-sources: []
-flags: []
-risk_notes: ""
+sources: ["https://x.com/Manojkumar2257/status/2119258187920777253"]
+flags: ["unverified"]
+risk_notes: "今回の紹介はREADMEと一致したが、新たな実行検証ではない。 今回の動作・推論・生成・性能は未検証。"
 forks: 270
 open_issues: 3
 commits_30d: 2
@@ -21,6 +21,10 @@ commit_cadence: monthly
 size_kb: 17948
 archived: false
 fetched_at: "2026-11-03T22:58:04Z"
+type: "repo"
+author: "mromidev"
+source_post: "https://x.com/Manojkumar2257/status/2119258187920777253"
+amplifiers: []
 ---
 
 # Claude Animated Shorts
@@ -59,3 +63,45 @@ git clone https://github.com/mromidev/claude-animated-shorts.git \
 ## 変更履歴
 
 - 2026-11-03: 初回登録（star 1,192 / pushed 2026-11-01 / MIT）
+
+## 追加出典・確認範囲（2026-11-09）
+
+Claude Code向けの短編制作キットを再紹介した投稿。
+
+Three.js/Remotion等を使うコード描画で、動画生成モデルではない。
+
+今回の紹介はREADMEと一致したが、新たな実行検証ではない。
+
+対象固有の機能・制約の説明は2026-11-08（原記録）のチェック記録を基にしている。メタ情報は2026-11-09T00:31:33.451107+00:00に公式APIを取得した値。API取得とREADME確認は動作試験ではない。
+
+公式README/モデルカードも取得済み。性能表・デモは配布元の報告として扱い、独立測定へ読み替えない。
+
+fork=false、archived=false。commit数は30日・90日それぞれ100件上限であり、100は100件以上を表す。starsやpushだけで保守品質を保証しない。
+
+### 今回取得した公式メタ情報
+
+既存フロントマターの過去値は維持し、今回の取得値を下に併記する。どちらも実行・性能の追試ではない。
+
+| 項目 | 値 |
+|---|---|
+| repo | mromidev/claude-animated-shorts |
+| url | https://github.com/mromidev/claude-animated-shorts |
+| license | MIT |
+| language | TypeScript |
+| created | 2026-11-01 |
+| updated | 2026-11-01 |
+| stars | 2422 |
+| forks | 525 |
+| open_issues | 10 |
+| commits_30d | 2 |
+| commits_90d | 2 |
+| commit_cadence | monthly |
+| size_kb | 17948 |
+| archived | False |
+| fetched_at | 2026-11-09T00:31:33.451107+00:00 |
+
+
+- @Manojkumar2257: https://x.com/Manojkumar2257/status/2119258187920777253
+- 対象資料: https://github.com/mromidev/claude-animated-shorts
+
+- 2026-11-09: 関連出典と確認範囲を追記。既存の記述・過去の数値・原文プロンプトは維持。今回の実行確認なし。

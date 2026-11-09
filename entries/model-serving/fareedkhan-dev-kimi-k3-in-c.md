@@ -10,7 +10,7 @@ created: "2026-08-01"
 updated: 2026-10-02
 added: "2026-11-03"
 first_seen: "2026-11-03"
-sources: []
+sources: ["https://x.com/mdaman010/status/2118684826203021621?a=6mS302Az7kjEB2eI8D0&s=46", "https://x.com/mdaman010/status/2118684826203021621", "https://api.github.com/repos/FareedKhan-dev/kimi-k3-in-c", "https://raw.githubusercontent.com/FareedKhan-dev/kimi-k3-in-c/main/README.md", "https://github.com/FareedKhan-dev/kimi-k3-in-c"]
 flags: ["unverified"]
 risk_notes: "1.56TBのチェックポイントを8.24GBのRAMで動かすという主張。数値は作者の docs/data のみで、独立した再現・検証はない。"
 forks: 1625
@@ -23,6 +23,10 @@ archived: false
 fetched_at: "2026-11-04T22:50:44Z"
 last_release: v1.1.0
 last_release_at: 2026-10-02
+type: "repo"
+author: "FareedKhan-dev"
+source_post: "https://x.com/mdaman010/status/2118684826203021621"
+amplifiers: []
 ---
 
 # kimi-k3-in-c
@@ -64,3 +68,47 @@ make
 
 - 2026-11-03: 初回登録（star 9,857 / pushed 2026-10-02 / Apache-2.0）
 - 2026-11-04: --chat 対話モードを追記（v1.1.0）
+
+## 追加出典・確認範囲（2026-11-09）
+
+Kimi K3の巨大チェックポイントをディスクから読みながらC99で推論する実装。
+
+1.56TBの重みとNVMe容量が前提。8.24GBはチェックポイント容量ではなく生成中のピークRSS。
+
+8GB RAM時の26.5秒/トークン等は開発者測定。小容量RAMで実用的な速度になることを示していない。
+
+対象固有の機能・制約の説明は2026-11-08のチェック記録を基にしている。メタ情報は2026-11-09T00:30:25.104085+00:00に公式APIを取得した値。API取得とREADME確認は動作試験ではない。
+
+公式README/モデルカードも取得済み。性能表・デモは配布元の報告として扱い、独立測定へ読み替えない。
+
+fork=false、archived=false。commit数は30日・90日それぞれ100件上限であり、100は100件以上を表す。starsやpushだけで保守品質を保証しない。
+
+### 今回取得した公式メタ情報
+
+既存フロントマターの過去値は維持し、今回の取得値を下に併記する。どちらも実行・性能の追試ではない。
+
+| 項目 | 値 |
+|---|---|
+| repo | FareedKhan-dev/kimi-k3-in-c |
+| url | https://github.com/FareedKhan-dev/kimi-k3-in-c |
+| license | Apache-2.0 |
+| language | C |
+| created | 2026-08-01 |
+| updated | 2026-10-02 |
+| stars | 11331 |
+| forks | 1770 |
+| open_issues | 28 |
+| commits_30d | 0 |
+| commits_90d | 47 |
+| commit_cadence | monthly |
+| size_kb | 31708 |
+| archived | False |
+| fetched_at | 2026-11-09T00:30:25.104085+00:00 |
+
+
+- @mdaman010: https://x.com/mdaman010/status/2118684826203021621
+- 対象資料: https://github.com/FareedKhan-dev/kimi-k3-in-c
+- 参照: https://api.github.com/repos/FareedKhan-dev/kimi-k3-in-c
+- 参照: https://raw.githubusercontent.com/FareedKhan-dev/kimi-k3-in-c/main/README.md
+
+- 2026-11-09: 関連出典と確認範囲を追記。既存の記述・過去の数値・原文プロンプトは維持。今回の実行確認なし。

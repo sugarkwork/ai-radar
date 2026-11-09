@@ -2,16 +2,20 @@
 name: "キャラクター三面図プロンプト（GPT / MageSpace）"
 genre: "prompt-design"
 url: "https://x.com/jackchen1919/status/2118770137394532543"
-prompt_sha1: "4acce17224c6073b83044ab62c35572af30f06f7"
+prompt_sha1: "7f9915cb213bd5e09c3324430183a6359586678f"
 target: "GPT / MageSpace などの画像生成"
 transcribed_from: "text"
-flags: []
+flags: ["unverified"]
 risk_notes: "投稿はプロンプト本文＋生成結果8枚で、特定の製品・モデルの配布ではない。生成画像は著者の作例で、再現性・品質は未検証（当方では生成していない）。実在の人物・既存キャラクターに寄せると権利侵害になり得る。"
 type: "prompt"
 added: "2026-11-08"
 first_seen: "2026-11-08"
-sources: ["https://x.com/jackchen1919/status/2118770137394532543"]
+sources: ["https://x.com/jackchen1919/status/2118770137394532543", "https://x.com/jackchen1919/status/2118770137394532543?a=zqdC3nDy3vjN4FaO0GI&s=46"]
 fetched_at: "2026-11-08T06:40:00Z"
+author: "@jackchen1919"
+source_post: "https://x.com/jackchen1919/status/2118770137394532543"
+amplifiers: []
+previous_prompt_sha1: "4acce17224c6073b83044ab62c35572af30f06f7"
 ---
 
 # キャラクター三面図プロンプト（GPT / MageSpace）
@@ -47,4 +51,20 @@ A character design showcase sheet of a single stylish girl, split-screen layout 
 
 ## 変更履歴
 
-- 2026-11-08: 初回登録（配布物なしのため「保留」だったものを、プロンプトとして収録）
+- 2026-11-08: 初回登録（注意点を明記して収録）
+
+## 追加出典・確認範囲（2026-11-09）
+
+キャラクターのアップと全身前後側面を分割配置する英語プロンプト。
+
+GPT/MageSpace向けの原文は既存エントリに保存済み。その本文とハッシュを変更せず維持する。
+
+画像生成・指示効果の再現試験は行っていない。別人の返信にある指示文を混入しない。
+
+概要は2026-11-08の確認記録・紹介投稿に基づく。過去の数値はその確認時点のもので現在値としない。今回の実行確認はない。
+
+- @jackchen1919: https://x.com/jackchen1919/status/2118770137394532543
+
+- 2026-11-09: 関連出典と確認範囲を追記。既存の記述・過去の数値・原文プロンプトは維持。今回の実行確認なし。
+
+- 2026-11-09: 原文は変更せず、正規化SHA-1を検算して訂正。前回値はprevious_prompt_sha1に保存。

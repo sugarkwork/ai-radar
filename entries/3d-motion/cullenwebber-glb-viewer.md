@@ -13,10 +13,18 @@ open_issues: 0
 added: 2026-11-08
 first_seen: 2026-11-07
 source_post: https://x.com/SinzVII/status/2118904126923055436
-sources: ["https://raw.githubusercontent.com/cullenwebber/glb-viewer/main/README.md"]
+sources: ["https://raw.githubusercontent.com/cullenwebber/glb-viewer/main/README.md", "https://x.com/sinzvii/status/2118904126923055436?a=WRpZZMJntrGprECzsA8&s=46", "https://x.com/SinzVII/status/2118904126923055436", "https://github.com/cullenwebber/glb-viewer"]
 flags: ["unverified"]
 risk_notes: "LICENSEファイルが404で、明示ライセンスなし（all rights reserved）。ソースは公開されているが、再配布・商用利用の許諾は不明。配布はmacOSのDMGのみ（arm64/x64、Apple公証なし→初回はOpen Anywayかxattr -cr）。Windows/Linuxのビルド手順はREADMEになく、Windows 11環境ではそのまま動かせない。16 starsの若いプロジェクトで、AI機能はない。DMG未ダウンロード・未起動（READMEとリポジトリ構成のみ確認）。"
 fetched_at: "2026-11-08T06:40:00Z"
+created: "2026-11-03"
+updated: "2026-11-04"
+commits_30d: 22
+commits_90d: 22
+commit_cadence: "daily"
+size_kb: 9545
+archived: false
+amplifiers: []
 ---
 
 # GLB Viewer — Blender→three.js 向け GLB 最適化・KTX2 圧縮の macOS アプリ
@@ -56,4 +64,47 @@ fetched_at: "2026-11-08T06:40:00Z"
 
 ## 変更履歴
 
-- 2026-11-08: 初回登録（macOS専用・ライセンス未明示のため「保留」だったものを、注意付きで収録）
+- 2026-11-08: 初回登録（注意点を明記して収録）
+
+## 追加出典・確認範囲（2026-11-09）
+
+GLB/glTFをThree.js向けに比較・検査・最適化するmacOSアプリ。
+
+KTX2/WebP/PNG/JPEG変換、Draco/Meshopt、LOD、同期比較、BlenderブリッジとWebGPUプレビューを案内。
+
+原チェック時はLICENSEなし、DMGは未公証でWindows/Linux手順なし。再利用許諾・実機動作は未確認。
+
+対象固有の機能・制約の説明は2026-11-08のチェック記録を基にしている。メタ情報は2026-11-09T00:30:51.037793+00:00に公式APIを取得した値。API取得とREADME確認は動作試験ではない。
+
+公式README/モデルカードも取得済み。性能表・デモは配布元の報告として扱い、独立測定へ読み替えない。
+
+fork=false、archived=false。commit数は30日・90日それぞれ100件上限であり、100は100件以上を表す。starsやpushだけで保守品質を保証しない。
+
+### 今回取得した公式メタ情報
+
+既存フロントマターの過去値は維持し、今回の取得値を下に併記する。どちらも実行・性能の追試ではない。
+
+| 項目 | 値 |
+|---|---|
+| repo | cullenwebber/glb-viewer |
+| url | https://github.com/cullenwebber/glb-viewer |
+| license | unknown |
+| language | TypeScript |
+| created | 2026-11-03 |
+| updated | 2026-11-04 |
+| stars | 17 |
+| forks | 1 |
+| open_issues | 1 |
+| commits_30d | 22 |
+| commits_90d | 22 |
+| commit_cadence | daily |
+| size_kb | 9545 |
+| archived | False |
+| fetched_at | 2026-11-09T00:30:51.037793+00:00 |
+
+
+- @SinzVII (Cullen Webber): https://x.com/SinzVII (Cullen Webber)/status/2118904126923055436
+- 対象資料: https://github.com/cullenwebber/glb-viewer
+- 参照: https://raw.githubusercontent.com/cullenwebber/glb-viewer/main/README.md
+
+- 2026-11-09: 関連出典と確認範囲を追記。既存の記述・過去の数値・原文プロンプトは維持。今回の実行確認なし。

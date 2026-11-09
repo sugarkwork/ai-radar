@@ -17,14 +17,15 @@ updated: 2026-11-03
 added: 2026-11-04
 first_seen: 2026-11-03
 source_post: https://x.com/alacheng/status/2117768798023397467
-sources:
-  - https://huggingface.co/PrunaAI/P-H3-Image-Comfy
-  - https://www.pruna.ai/blog/oss-p-h3-image-launch
+sources: ["https://huggingface.co/PrunaAI/P-H3-Image-Comfy", "https://www.pruna.ai/blog/oss-p-h3-image-launch", "https://x.com/ai_hakase_/status/2118660440918020128?a=IUVIJ6ofEzgfl52Apj4&s=46", "https://x.com/ai_hakase_/status/2118660440918020128", "https://github.com/ostris/ai-toolkit/commit/883d676b17c6ba51d2b2a1aa0f4cae46b9a340ef", "https://api.github.com/repos/ostris/ai-toolkit", "https://huggingface.co/PrunaAI/P-H3-Image", "https://huggingface.co/api/models/PrunaAI/P-H3-Image", "https://x.com/taki_auto/status/2119361830271512581"]
 pricing: free
 pricing_detail: "重み無料（MiniMax-H3 Community License）"
 signup_required: false
 amplifiers:
   - https://x.com/sep_is_heim/status/2118127103782887436
+fetched_at: "2026-11-09T00:30:24.527009+00:00"
+flags: ["unverified"]
+risk_notes: "学習アダプタの存在はモデル本体の権利条件や実行要件を緩和しない。 今回の動作・推論・生成・性能は未検証。"
 ---
 
 # P-H3-Image
@@ -77,3 +78,48 @@ ComfyUI: PrunaAI/P-H3-Image-Comfy の diffusion_models / text_encoders / vae を
 ## 変更履歴
 
 - 2026-11-04: 初回登録
+
+## 追加出典・確認範囲（2026-11-09）
+
+MiniMax H3を基にした画像生成・編集モデル。今回の関連情報はai-toolkit側の学習対応。
+
+画像の生成・編集用であり、音声LoRAの対象と混同しない。
+
+学習アダプタの存在はモデル本体の権利条件や実行要件を緩和しない。
+
+対象固有の機能・制約の説明は2026-11-08のチェック記録を基にしている。メタ情報は2026-11-09T00:30:24.527009+00:00に公式APIを取得した値。API取得とREADME確認は動作試験ではない。
+
+公式README/モデルカードも取得済み。性能表・デモは配布元の報告として扱い、独立測定へ読み替えない。
+
+### 今回取得した公式メタ情報
+
+既存フロントマターの過去値は維持し、今回の取得値を下に併記する。どちらも実行・性能の追試ではない。
+
+| 項目 | 値 |
+|---|---|
+| model | PrunaAI/P-H3-Image |
+| url | https://huggingface.co/PrunaAI/P-H3-Image |
+| license | other |
+| base_model | ["MiniMaxAI/MiniMax-H3"] |
+| downloads | 893 |
+| likes | 170 |
+| format | safetensors |
+| size | 配布中の重みファイル 15本・合計99,797,308,280 bytes（複数形式・量子化・派生を含む。必要メモリではない） |
+| created | 2026-10-27 |
+| updated | 2026-11-03 |
+| fetched_at | 2026-11-09T00:30:24.527009+00:00 |
+| pricing | free |
+| pricing_detail | 重みのダウンロードに利用料金の表示なし。ライセンス・用途・地域・商用許諾と実行費用は別途確認。 |
+| signup_required | False |
+| license_name | minimax-h3-community-license-agreement |
+
+
+- @ai_hakase_: https://x.com/ai_hakase_/status/2118660440918020128
+- @taki_auto: https://x.com/taki_auto/status/2119361830271512581
+- 対象資料: https://huggingface.co/PrunaAI/P-H3-Image
+- 参照: https://github.com/ostris/ai-toolkit/commit/883d676b17c6ba51d2b2a1aa0f4cae46b9a340ef
+- 参照: https://api.github.com/repos/ostris/ai-toolkit
+- 参照: https://huggingface.co/api/models/PrunaAI/P-H3-Image
+- 参照: https://x.com/taki_auto/status/2119361830271512581
+
+- 2026-11-09: 関連出典と確認範囲を追記。既存の記述・過去の数値・原文プロンプトは維持。今回の実行確認なし。

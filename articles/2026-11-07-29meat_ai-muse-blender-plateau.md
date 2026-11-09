@@ -7,10 +7,12 @@ published: "2026-11-07"
 type: "article"
 added: "2026-11-08"
 first_seen: "2026-11-07"
-sources: ["https://x.com/29meat_ai/status/2118962927437058547", "https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/", "https://www.mlit.go.jp/plateau/"]
+sources: ["https://x.com/29meat_ai/status/2118962927437058547", "https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/", "https://www.mlit.go.jp/plateau/", "https://x.com/29meat_ai/status/2118962927437058547?a=BPOqTVrZZB59halFE1k&s=46"]
 flags: ["low-quality", "unverified"]
 risk_notes: "新規ツール・モデルの提示ではなく、既知の Muse（Metaの個人向けAIエージェント、2026年9月発表）と Blender、国土交通省 PLATEAU を組み合わせた制作ノウハウの一覧。投稿にMuseの一次リンクはない。地名リストと『主役は手作り＋周囲は実データ』という方針は妥当だが、PLATEAUの建物詳細度・収録範囲は地域により異なる。数値・制作時間の検証は無い。引用元は自分の過去作例、会話欄は第三者の作例＋無関係な広告が中心。"
 fetched_at: "2026-11-08T06:40:00Z"
+source_post: "https://x.com/29meat_ai/status/2118962927437058547"
+amplifiers: []
 ---
 
 # Muse×Blender×PLATEAUで作る「日本の名所」3D化リスト
@@ -43,4 +45,20 @@ fetched_at: "2026-11-08T06:40:00Z"
 
 ## 変更履歴
 
-- 2026-11-08: 初回登録（新規配布物が無いため「保留」だったものを、制作ノウハウとして収録）
+- 2026-11-08: 初回登録（注意点を明記して収録）
+
+## 追加出典・確認範囲（2026-11-09）
+
+MuseでBlenderを操作しPLATEAU実データを背景に日本の名所を作る一覧。
+
+主役建造物は手作り、周囲は都市データという役割分担。
+
+PLATEAUの建物詳細度と収録範囲は地域差がある。対応都市名だけで精細な名所モデルを取得可能とは判断しない。
+
+概要は2026-11-08の確認記録・紹介投稿に基づく。過去の数値はその確認時点のもので現在値としない。今回の実行確認はない。
+
+- @29meat_ai: https://x.com/29meat_ai/status/2118962927437058547
+- 参照: https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/
+- 参照: https://www.mlit.go.jp/plateau/
+
+- 2026-11-09: 関連出典と確認範囲を追記。既存の記述・過去の数値・原文プロンプトは維持。今回の実行確認なし。

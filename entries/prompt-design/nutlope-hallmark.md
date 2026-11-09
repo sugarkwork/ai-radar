@@ -11,8 +11,8 @@ created: "2026-04-27"
 updated: "2026-11-05"
 added: "2026-11-06"
 first_seen: "2026-11-06"
-sources: ["https://x.com/opensourcelab9/status/2118601779063701949"]
-flags: []
+sources: ["https://x.com/opensourcelab9/status/2118601779063701949", "https://x.com/yozm_it/status/2118928933718823055?a=cjodEJSPnTqNRRgPDuQ&s=46", "https://x.com/yozm_it/status/2118928933718823055", "https://github.com/thedotmack/claude-mem", "https://github.com/Nutlope/hallmark", "https://github.com/anthropics/skills", "https://github.com/HKUDS/DeepTutor", "https://github.com/max-sixty/worktrunk"]
+flags: ["unverified"]
 risk_notes: "リリースもタグも無い（`/releases` と `/tags` が空、バージョンは SKILL.md と package.json の 2.0.0 表記のみ）。更新は活発だが 30日85コミットの大半が数十件のコミュニティPRを同一分にまとめてマージしたもので、内容はテーマ検証・sloplint・capture のバグ修正が中心（docs/スクリプトのみで実行バイナリは無い）。未解決が issue 25・PR 15。リポジトリは 228MB（site/ と docs/screenshots/ の画像が主因）で、インストールされるスキル本体は 7.1MB。ブラウザ検査（`--render`）は puppeteer-core + Chrome が要り、無い場合は『render tier not run』と出して静的検査だけに落ちる（実測）。同期間の★増分『+7,600』は投稿の主張で、stargazers API が 4万件超のページを返さない（page 400 で 404）ため検証できない。★は API 値 49,068 を採る（投稿の『4.8万』とほぼ一致、やや過小）。同梱の写真755枚は Wikimedia Commons の CC0/PD/CC BY/CC BY-SA で、CC BY 系は著作者・ライセンス・元ページの表示が条件。スキルはエージェントのフル権限で走る（skills.sh の警告）ので、導入前に SKILL.md と scripts/ を読むべき。画像生成ステップだけは TOGETHER_API_KEY（FLUX.1.1-pro、有料）を使う。eval/README が『claude -p ではスキルは自動発火しない』と明記しており、名前で呼ぶ運用が前提。"
 forks: 2600
 open_issues: 40
@@ -23,6 +23,10 @@ archived: false
 fetched_at: "2026-11-06T08:42:56Z"
 last_release: ""
 last_release_at: ""
+commits_90d: 100
+author: "Nutlope"
+source_post: "https://x.com/yozm_it/status/2118928933718823055"
+amplifiers: []
 ---
 
 # Hallmark — 「AIが作ったと分かるUI」を名指しで潰すデザインスキル。8画面幅の実ブラウザ検査と別AIレビューを強制する（Claude Code / Codex / Cursor / OpenCode）
@@ -95,3 +99,49 @@ node ~/.claude/skills/hallmark/scripts/sloplint.mjs ./index.html --render
 ## 変更履歴
 
 - 2026-11-06: 初回登録
+
+## 追加出典・確認範囲（2026-11-09）
+
+AIらしい定型デザインを避けるHallmarkスキルの再紹介。
+
+Claude等のエージェントと、選択機能に応じたChrome/ブラウザ検査環境に依存。
+
+ランキングは投稿者の集計で、今回あらためて効果・ブラウザ検査を追試したわけではない。
+
+対象固有の機能・制約の説明は2026-11-08のチェック記録を基にしている。メタ情報は2026-11-09T00:30:53.895013+00:00に公式APIを取得した値。API取得とREADME確認は動作試験ではない。
+
+公式README/モデルカードも取得済み。性能表・デモは配布元の報告として扱い、独立測定へ読み替えない。
+
+fork=false、archived=false。commit数は30日・90日それぞれ100件上限であり、100は100件以上を表す。starsやpushだけで保守品質を保証しない。
+
+### 今回取得した公式メタ情報
+
+既存フロントマターの過去値は維持し、今回の取得値を下に併記する。どちらも実行・性能の追試ではない。
+
+| 項目 | 値 |
+|---|---|
+| repo | Nutlope/hallmark |
+| url | https://github.com/Nutlope/hallmark |
+| license | MIT |
+| language | CSS |
+| created | 2026-04-27 |
+| updated | 2026-11-05 |
+| stars | 50958 |
+| forks | 2707 |
+| open_issues | 49 |
+| commits_30d | 85 |
+| commits_90d | 100 |
+| commit_cadence | daily |
+| size_kb | 233716 |
+| archived | False |
+| fetched_at | 2026-11-09T00:30:53.895013+00:00 |
+
+
+- @yozm_it: https://x.com/yozm_it/status/2118928933718823055
+- 対象資料: https://github.com/Nutlope/hallmark
+- 参照: https://github.com/thedotmack/claude-mem
+- 参照: https://github.com/anthropics/skills
+- 参照: https://github.com/HKUDS/DeepTutor
+- 参照: https://github.com/max-sixty/worktrunk
+
+- 2026-11-09: 関連出典と確認範囲を追記。既存の記述・過去の数値・原文プロンプトは維持。今回の実行確認なし。

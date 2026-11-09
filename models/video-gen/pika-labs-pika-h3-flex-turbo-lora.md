@@ -17,10 +17,14 @@ updated: 2026-10-30
 added: 2026-11-04
 first_seen: 2026-11-04
 source_post: https://x.com/pika_labs/status/2117772839642386856
-sources: []
+sources: ["https://x.com/mapte_fireball/status/2118878741321687447?a=l2Xb1ZRD5GQIW06ngUQ&s=46", "https://x.com/mapte_fireball/status/2118878741321687447", "https://x.com/mapte_fireball/status/2118879117982695630", "https://huggingface.co/VideoRebirthAI/hyperflow-h3-flash", "https://huggingface.co/api/models/VideoRebirthAI/hyperflow-h3-flash", "https://huggingface.co/VideoRebirthAI/hyperflow-h3-flash/raw/main/README.md", "https://github.com/Video-Rebirth/hyperflow-h3-flash", "https://github.com/Video-Rebirth/ComfyUI-HyperFlow-Flash"]
 pricing: free
 pricing_detail: "重み無料（MiniMax-H3 Community License）"
 signup_required: false
+fetched_at: "2026-11-09T00:30:48.196299+00:00"
+amplifiers: []
+flags: ["unverified"]
+risk_notes: "123秒という値は投稿者測定。HyperFlow等の別モデルと解像度やサンプラをそろえず速度優位を一般化しない。 今回の動作・推論・生成・性能は未検証。"
 ---
 
 # Pika H3 Flex Turbo LoRA
@@ -68,3 +72,49 @@ Pika H3 Flex の公開から24時間以内に、コミュニティ（@_akhaliq�
 ## 変更履歴
 
 - 2026-11-04: 初回登録（HF モデルをカタログ対象にしたことに伴う追加）
+
+## 追加出典・確認範囲（2026-11-09）
+
+Pika H3 Flex Turbo LoRAを含む6step高速化比較の追加出典。
+
+投稿の比較はRTX5090、1024×576、15秒、CFG1など限定した条件。
+
+123秒という値は投稿者測定。HyperFlow等の別モデルと解像度やサンプラをそろえず速度優位を一般化しない。
+
+対象固有の機能・制約の説明は2026-11-08のチェック記録を基にしている。メタ情報は2026-11-09T00:30:48.196299+00:00に公式APIを取得した値。API取得とREADME確認は動作試験ではない。
+
+公式README/モデルカードも取得済み。性能表・デモは配布元の報告として扱い、独立測定へ読み替えない。
+
+### 今回取得した公式メタ情報
+
+既存フロントマターの過去値は維持し、今回の取得値を下に併記する。どちらも実行・性能の追試ではない。
+
+| 項目 | 値 |
+|---|---|
+| model | Pika-Labs/Pika-H3-Flex-Turbo-LoRA |
+| url | https://huggingface.co/Pika-Labs/Pika-H3-Flex-Turbo-LoRA |
+| license | other |
+| base_model | ["Pika-Labs/Pika-H3-Flex", "lightx2v/Minimax-h3-Turbo", "MiniMaxAI/MiniMax-H3", "WarmBloodAban/Minimax-h3_Singularity", "Iwannapose/minimax_h3_pdmd_2nfe_comfyui"] |
+| downloads | 90541 |
+| likes | 173 |
+| format | safetensors |
+| size | 配布中の重みファイル 7本・合計20,181,935,784 bytes（複数形式・量子化・派生を含む。必要メモリではない） |
+| created | 2026-10-29 |
+| updated | 2026-10-30 |
+| fetched_at | 2026-11-09T00:30:48.196299+00:00 |
+| pricing | free |
+| pricing_detail | 重みのダウンロードに利用料金の表示なし。ライセンス・用途・地域・商用許諾と実行費用は別途確認。 |
+| signup_required | False |
+| license_name | minimax-h3-community-license-agreement |
+
+
+- @mapte_fireball: https://x.com/mapte_fireball/status/2118878741321687447
+- 対象資料: https://huggingface.co/Pika-Labs/Pika-H3-Flex-Turbo-LoRA
+- 参照: https://x.com/mapte_fireball/status/2118879117982695630
+- 参照: https://huggingface.co/VideoRebirthAI/hyperflow-h3-flash
+- 参照: https://huggingface.co/api/models/VideoRebirthAI/hyperflow-h3-flash
+- 参照: https://huggingface.co/VideoRebirthAI/hyperflow-h3-flash/raw/main/README.md
+- 参照: https://github.com/Video-Rebirth/hyperflow-h3-flash
+- 参照: https://github.com/Video-Rebirth/ComfyUI-HyperFlow-Flash
+
+- 2026-11-09: 関連出典と確認範囲を追記。既存の記述・過去の数値・原文プロンプトは維持。今回の実行確認なし。

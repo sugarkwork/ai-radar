@@ -7,10 +7,12 @@ published: "2026-11-07"
 type: "article"
 added: "2026-11-08"
 first_seen: "2026-11-07"
-sources: ["https://x.com/taki_auto/status/2118659670256894446", "https://modal.com/pricing", "https://www.kaggle.com/docs/efficient-gpu-usage"]
+sources: ["https://x.com/taki_auto/status/2118659670256894446", "https://modal.com/pricing", "https://www.kaggle.com/docs/efficient-gpu-usage", "https://x.com/taki_auto/status/2118659670256894446?a=GwnV6hk8Osuy0vOsk_g&s=46"]
 flags: ["low-quality", "unverified"]
 risk_notes: "新ツールの提示ではなく、既知サービス3つ（Modal・Kaggle・Colab）をMuse経由で使う手順とコピペ用プロンプトの連投。Modal Starterの月30ドル無料クレジット、KaggleのGPU無料枠が週30時間前後という記述は一次情報とおおむね一致するが、『1枚49秒／70秒』等の速度は本人環境依存で検証不能。本旨は『AI画像×CG集販売の12大特典を無料配布』への導線（販促）で、技術情報としての独自性は低い。成人向けはKaggle・Modalの規約で禁止という注意書きは妥当。会話欄に無関係な広告（コーヒー通販）が混入。"
 fetched_at: "2026-11-08T06:40:00Z"
+source_post: "https://x.com/taki_auto/status/2118659670256894446"
+amplifiers: []
 ---
 
 # Museに外部の無料GPU（Modal／Kaggle／Colab）を割り当てる手順
@@ -44,4 +46,20 @@ fetched_at: "2026-11-08T06:40:00Z"
 
 ## 変更履歴
 
-- 2026-11-08: 初回登録（販促色が強く「保留」だったものを、手順情報として収録）
+- 2026-11-08: 初回登録（注意点を明記して収録）
+
+## 追加出典・確認範囲（2026-11-09）
+
+MuseからModal・Kaggle・Colabの外部GPUを利用する依頼手順と説明。
+
+各GPUサービスのアカウント、無料枠の残量・利用規約に依存。
+
+月30ドルのModalクレジットやKaggle週30時間前後は原チェック時の条件。速度や無料枠の継続を保証しない。
+
+概要は2026-11-08の確認記録・紹介投稿に基づく。過去の数値はその確認時点のもので現在値としない。今回の実行確認はない。
+
+- @taki_auto: https://x.com/taki_auto/status/2118659670256894446
+- 参照: https://modal.com/pricing
+- 参照: https://www.kaggle.com/docs/efficient-gpu-usage
+
+- 2026-11-09: 関連出典と確認範囲を追記。既存の記述・過去の数値・原文プロンプトは維持。今回の実行確認なし。

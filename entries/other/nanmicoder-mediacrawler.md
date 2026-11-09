@@ -9,9 +9,8 @@ created: 2023-06-09
 updated: 2026-11-06
 added: 2026-11-04
 first_seen: 2026-11-04
-sources:
-  - https://x.com/leo_xiaolei/status/2117517260470485470
-flags: []
+sources: ["https://x.com/leo_xiaolei/status/2117517260470485470", "https://x.com/chenfacai0/status/2118922893933350978?a=468vYYORc7R_7p9Dtsg&s=46", "https://x.com/chenfacai0/status/2118922893933350978", "https://github.com/NanmiCoder/MediaCrawler", "https://api.github.com/repos/NanmiCoder/MediaCrawler", "https://raw.githubusercontent.com/NanmiCoder/MediaCrawler/main/LICENSE"]
+flags: ["unverified"]
 risk_notes: "各プラットフォームの利用規約と著作権に抵触しうる。収集した投稿・動画の再配布は権利者の許諾が必要。規約違反・アカウント停止のリスクは利用者側。"
 stars: 70399
 forks: 13343
@@ -22,6 +21,11 @@ commit_cadence: weekly
 size_kb: 30690
 archived: false
 fetched_at: "2026-11-06T22:52:46Z"
+license_detail: "原チェックのLICENSE/README解釈: NON-COMMERCIAL LEARNING LICENSE 1.1。APIのSPDX判定とは別。利用前に現行本文を確認。"
+type: "repo"
+author: "NanmiCoder"
+source_post: "https://x.com/chenfacai0/status/2118922893933350978"
+amplifiers: []
 ---
 
 # MediaCrawler
@@ -60,3 +64,48 @@ git clone https://github.com/NanmiCoder/MediaCrawler
 
 - 2026-11-04: 初回登録（★70,094 / pushed 2026-11-03 / ライセンス表記なし・利用条件は要確認）
 - 2026-11-06: 抖音・小红书の実況写真（付属動画）取得と、B站の wbi キー取得の耐障害化を追記（ade7a23 / 0be1882）
+
+## 追加出典・確認範囲（2026-11-09）
+
+中国系複数プラットフォームの投稿・コメントを収集するMediaCrawler。
+
+ブラウザログイン状態を使う。個人情報・著作権・サイト規約に沿う範囲に限定する。
+
+原チェックでNON-COMMERCIAL LEARNING LICENSE1.1を確認。既存の「標準ライセンス無し」表記は最新の利用条件説明としては不十分で非商用学習研究限定・大規模収集禁止。
+
+対象固有の機能・制約の説明は2026-11-07のチェック記録を基にしている。メタ情報は2026-11-09T00:30:51.927285+00:00に公式APIを取得した値。API取得とREADME確認は動作試験ではない。
+
+公式README/モデルカードも取得済み。性能表・デモは配布元の報告として扱い、独立測定へ読み替えない。
+
+fork=false、archived=false。commit数は30日・90日それぞれ100件上限であり、100は100件以上を表す。starsやpushだけで保守品質を保証しない。
+
+### 今回取得した公式メタ情報
+
+既存フロントマターの過去値は維持し、今回の取得値を下に併記する。どちらも実行・性能の追試ではない。
+
+| 項目 | 値 |
+|---|---|
+| repo | NanmiCoder/MediaCrawler |
+| url | https://github.com/NanmiCoder/MediaCrawler |
+| license | NOASSERTION |
+| language | Python |
+| created | 2023-06-09 |
+| updated | 2026-11-08 |
+| stars | 70663 |
+| forks | 13380 |
+| open_issues | 219 |
+| commits_30d | 21 |
+| commits_90d | 47 |
+| commit_cadence | daily |
+| size_kb | 30756 |
+| archived | False |
+| fetched_at | 2026-11-09T00:30:51.927285+00:00 |
+| license_detail | 原チェックのLICENSE/README解釈: NON-COMMERCIAL LEARNING LICENSE 1.1。APIのSPDX判定とは別。利用前に現行本文を確認。 |
+
+
+- @Chenfacai0: https://x.com/Chenfacai0/status/2118922893933350978
+- 対象資料: https://github.com/NanmiCoder/MediaCrawler
+- 参照: https://api.github.com/repos/NanmiCoder/MediaCrawler
+- 参照: https://raw.githubusercontent.com/NanmiCoder/MediaCrawler/main/LICENSE
+
+- 2026-11-09: 関連出典と確認範囲を追記。既存の記述・過去の数値・原文プロンプトは維持。今回の実行確認なし。

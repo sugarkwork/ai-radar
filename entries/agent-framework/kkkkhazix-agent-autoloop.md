@@ -11,9 +11,9 @@ updated: 2026-11-06
 added: "2026-11-04"
 first_seen: "2026-11-04"
 source_post: "https://x.com/ganfanren_ai/status/2117893040778195451"
-sources: []
-flags: []
-risk_notes: ""
+sources: ["https://x.com/naka_1717/status/2119271760206123187"]
+flags: ["unverified"]
+risk_notes: "starsの投稿値と確認値は時点差がある。承認の実効性・無人稼働は今回試験していない。 今回の動作・推論・生成・性能は未検証。"
 forks: 671
 open_issues: 1
 size_kb: 1150
@@ -24,6 +24,9 @@ commits_90d: 100
 commit_cadence: daily
 fetched_at: "2026-11-06T22:52:35Z"
 last_release_at: 2026-11-06
+type: "repo"
+author: "KKKKhazix"
+amplifiers: []
 ---
 
 # Agent Autoloop
@@ -69,3 +72,45 @@ agent-autoloop            # 設定と状態の確認
 
 - 2026-11-04: 初回登録（★1,803 / MIT / v1.0.0 / 作成 2026-11-03）
 - 2026-11-06: Windows 対応、ルールの pause/resume/run と検証コマンド、内蔵 Agent の差し替え・ACP 接続を追記（v1.6.1 / 49562af）
+
+## 追加出典・確認範囲（2026-11-09）
+
+常駐エージェントの処理を管理するAgent Autoloopの再紹介。
+
+削除・再起動・支払い・外部送信の4場面で確認する設計というREADMEの記述を原チェックで照合。
+
+starsの投稿値と確認値は時点差がある。承認の実効性・無人稼働は今回試験していない。
+
+対象固有の機能・制約の説明は2026-11-08（原記録）のチェック記録を基にしている。メタ情報は2026-11-09T00:31:33.624096+00:00に公式APIを取得した値。API取得とREADME確認は動作試験ではない。
+
+公式README/モデルカードも取得済み。性能表・デモは配布元の報告として扱い、独立測定へ読み替えない。
+
+fork=false、archived=false。commit数は30日・90日それぞれ100件上限であり、100は100件以上を表す。starsやpushだけで保守品質を保証しない。
+
+### 今回取得した公式メタ情報
+
+既存フロントマターの過去値は維持し、今回の取得値を下に併記する。どちらも実行・性能の追試ではない。
+
+| 項目 | 値 |
+|---|---|
+| repo | KKKKhazix/agent-autoloop |
+| url | https://github.com/KKKKhazix/agent-autoloop |
+| license | MIT |
+| language | TypeScript |
+| created | 2026-11-03 |
+| updated | 2026-11-08 |
+| stars | 4101 |
+| forks | 747 |
+| open_issues | 1 |
+| commits_30d | 100 |
+| commits_90d | 100 |
+| commit_cadence | daily |
+| size_kb | 1146 |
+| archived | False |
+| fetched_at | 2026-11-09T00:31:33.624096+00:00 |
+
+
+- @naka_1717: https://x.com/naka_1717/status/2119271760206123187
+- 対象資料: https://github.com/KKKKhazix/agent-autoloop
+
+- 2026-11-09: 関連出典と確認範囲を追記。既存の記述・過去の数値・原文プロンプトは維持。今回の実行確認なし。

@@ -9,10 +9,11 @@ signup_required: true
 type: "link"
 added: "2026-11-04"
 source_post: "https://x.com/RealMarvelX/status/2117497881108021605"
-sources:
-  - https://x.com/cutetoxicguy/status/2118418074265096510
-flags: []
-risk_notes: ""
+sources: ["https://x.com/cutetoxicguy/status/2118418074265096510", "https://x.com/shaka_youtube/status/2119240006233723034"]
+flags: ["unverified"]
+risk_notes: "引用への感想投稿自体には新しい実行検証はない。 今回の動作・推論・生成・性能は未検証。"
+first_seen: "2026-11-08"
+amplifiers: []
 ---
 
 # Tripo AI
@@ -48,3 +49,20 @@ risk_notes: ""
 - 2026-11-04: 初回登録（料金は /pricing で確認。クレジット単価は月額プランの表記から算出）
 
 - 2026-11-05: Agentic Canvas（ノード型の3D制作ワークスペース）を追記（出典: https://x.com/cutetoxicguy/status/2118418074265096510）
+
+## 追加出典・確認範囲（2026-11-09）
+
+Tripo Smart MeshとCharakuruを使う3Dキャラ制作例に関するTripo AIの追加出典。
+
+Charakuru側の契約・ライセンスとTripo側のプラン条件は別。
+
+引用への感想投稿自体には新しい実行検証はない。
+
+概要は2026-11-08（原記録）の確認記録・紹介投稿に基づく。過去の数値はその確認時点のもので現在値としない。今回の実行確認はない。
+
+2026-11-09T00:31:32.649476+00:00に対象ページのHTTP 200を取得。ただしページの取得は料金・品質・規約・機能の全面検証ではない。
+
+- @shaka_youtube: https://x.com/shaka_youtube/status/2119240006233723034
+- 対象資料: https://www.tripo3d.ai/
+
+- 2026-11-09: 関連出典と確認範囲を追記。既存の記述・過去の数値・原文プロンプトは維持。今回の実行確認なし。

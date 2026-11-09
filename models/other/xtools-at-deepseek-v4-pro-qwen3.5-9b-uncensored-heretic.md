@@ -19,10 +19,11 @@ signup_required: false
 added: 2026-11-08
 first_seen: 2026-11-07
 source_post: https://x.com/EngMoElgaraihy/status/2118905683261128755
-sources: ["https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic", "https://huggingface.co/Jackrong/DeepSeek-V4-Pro-Qwen3.5-9B", "https://huggingface.co/mradermacher/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic-GGUF", "https://x.com/nahid_pro09/status/2118896473119318363"]
+sources: ["https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic", "https://huggingface.co/Jackrong/DeepSeek-V4-Pro-Qwen3.5-9B", "https://huggingface.co/mradermacher/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic-GGUF", "https://x.com/nahid_pro09/status/2118896473119318363", "https://x.com/nahid_pro09/status/2118896473119318363?a=2N7sDmJ56aFHERZb-Iw&s=46", "https://huggingface.co/api/models/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic", "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic/raw/main/README.md", "https://huggingface.co/AtomicChat/DeepSeek-V4.1-Flash-1017-Uncensored-GSQ-RCO-GGUF", "https://x.com/engmoelgaraihy/status/2118905683261128755?a=PQ5GG8dccVNR-W1-a6g&s=46", "https://x.com/EngMoElgaraihy/status/2118905683261128755", "https://huggingface.co/api/models/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic?blobs=true", "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic/raw/main/config.json", "https://huggingface.co/api/models/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic/discussions/1", "https://huggingface.co/api/models/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic/commits/main", "https://huggingface.co/api/models/mradermacher/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic-GGUF?blobs=true", "https://huggingface.co/api/models/Jackrong/DeepSeek-V4-Pro-Qwen3.5-9B", "https://huggingface.co/api/models/deepseek-ai/DeepSeek-V4-Pro", "https://huggingface.co/api/models/unsloth/Qwen3.5-9B", "https://huggingface.co/Sakura721/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic-GGUF/raw/main/README.md", "https://pasqualepillitteri.it/en/news/30788/qwen35-9b-uncensored-deepseek-v4-pro-arrives", "https://huggingface.co/p-e-w/gpt-oss-20b-heretic-ara-v3/blob/main/README.md", "https://x.com/Forhanvv/status/2119054259417420039"]
 flags: ["unverified"]
 risk_notes: "モデルとライセンスは実在（HF APIで2026-11-08に確認: DL 1,369・likes 564・apache-2.0・Qwen3_5ForConditionalGeneration）。ただし投稿の主張は未検証か誤りを含む: 『Hugging Faceのサーバーが落ちた』は障害記録がなく誤り。『拒否率100/100→3/100』『KL 0.0422』『25万点蒸留』『知能を1点も失わない』はモデルカードの自己申告で第三者追試なし。カードのGSM8K 94.50%/MMLU-Pro 90.53%は拒否除去前のJackrong版の数字で、heretic版の能力評価は未提出。公式リポジトリはBF16のみでGGUFは第三者変換。そのQ4_K_M 5.63GBは変換時点でconfig.jsonのmtp_num_hidden_layers=1と実ウェイトが食い違い、llama.cppがGGML_ASSERTで落ちる（作者が11/08にMTPテンソルを復元したが再量子化は未実施）。『どの端末でも数秒』は誇張で、CPUのみは変換者計測で約1 t/s。同名の非公式再アップロードが複数あり、クローンからの取得は避ける。当方でGPU推論・llama.cpp実行は未実施（runs_verified=false）。"
 fetched_at: "2026-11-08T06:40:00Z"
+amplifiers: []
 ---
 
 # DeepSeek-V4-Pro-Qwen3.5-9B UNCENSORED（Heretic ARA）
@@ -76,4 +77,60 @@ llama-cli -m models/heretic-9b-gguf/*Q4_K_M.gguf -p "Hello"
 
 ## 変更履歴
 
-- 2026-11-08: 初回登録（「保留」扱いだったものを、未確認範囲を明示して収録）
+- 2026-11-08: 初回登録（注意点を明記して収録）
+
+## 追加出典・確認範囲（2026-11-09）
+
+DeepSeek由来の学習をしたQwen3.5-9B系にHeretic ARAを適用した重み。
+
+本体はBF16 safetensors四分割＋MTPで約19.31GB。5.6GB GGUFは第三者変換の別配布。
+
+拒否率3/100と能力保持は自己報告。第三者GGUFにはMTP不一致の報告があり、本体修復と再量子化・ロード成功を同一視しない。
+
+対象固有の機能・制約の説明は2026-11-08のチェック記録を基にしている。メタ情報は2026-11-09T00:30:50.555314+00:00に公式APIを取得した値。API取得とREADME確認は動作試験ではない。
+
+公式README/モデルカードも取得済み。性能表・デモは配布元の報告として扱い、独立測定へ読み替えない。
+
+### 今回取得した公式メタ情報
+
+既存フロントマターの過去値は維持し、今回の取得値を下に併記する。どちらも実行・性能の追試ではない。
+
+| 項目 | 値 |
+|---|---|
+| model | xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic |
+| url | https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic |
+| license | apache-2.0 |
+| base_model | ["Jackrong/DeepSeek-V4-Pro-Qwen3.5-9B"] |
+| downloads | 7088 |
+| likes | 836 |
+| format | safetensors |
+| size | 配布中の重みファイル 5本・合計19,306,304,136 bytes（複数形式・量子化・派生を含む。必要メモリではない） |
+| created | 2026-10-30 |
+| updated | 2026-11-08 |
+| fetched_at | 2026-11-09T00:30:50.555314+00:00 |
+| pricing | free |
+| pricing_detail | 重みのダウンロードに利用料金の表示なし。ライセンス・用途・地域・商用許諾と実行費用は別途確認。 |
+| signup_required | False |
+
+
+- @nahid_pro09: https://x.com/nahid_pro09/status/2118896473119318363
+- @EngMoElgaraihy: https://x.com/EngMoElgaraihy/status/2118905683261128755
+- @Forhanvv: https://x.com/Forhanvv/status/2119054259417420039
+- 対象資料: https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic
+- 参照: https://huggingface.co/api/models/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic
+- 参照: https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic/raw/main/README.md
+- 参照: https://huggingface.co/Jackrong/DeepSeek-V4-Pro-Qwen3.5-9B
+- 参照: https://huggingface.co/AtomicChat/DeepSeek-V4.1-Flash-1017-Uncensored-GSQ-RCO-GGUF
+- 参照: https://x.com/EngMoElgaraihy/status/2118905683261128755
+- 参照: https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic/raw/main/config.json
+- 参照: https://huggingface.co/api/models/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic/discussions/1
+- 参照: https://huggingface.co/api/models/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic/commits/main
+- 参照: https://huggingface.co/api/models/Jackrong/DeepSeek-V4-Pro-Qwen3.5-9B
+- 参照: https://huggingface.co/api/models/deepseek-ai/DeepSeek-V4-Pro
+- 参照: https://huggingface.co/api/models/unsloth/Qwen3.5-9B
+- 参照: https://huggingface.co/Sakura721/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic-GGUF/raw/main/README.md
+- 参照: https://pasqualepillitteri.it/en/news/30788/qwen35-9b-uncensored-deepseek-v4-pro-arrives
+- 参照: https://huggingface.co/p-e-w/gpt-oss-20b-heretic-ara-v3/blob/main/README.md
+- 参照: https://x.com/Forhanvv/status/2119054259417420039
+
+- 2026-11-09: 関連出典と確認範囲を追記。既存の記述・過去の数値・原文プロンプトは維持。今回の実行確認なし。
