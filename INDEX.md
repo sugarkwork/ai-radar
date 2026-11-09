@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 538 件 — リポジトリ 315, リンク集 95, 記事 61, モデル 53, プロンプト 14 / ⚑ 要確認 336 件
+収録 539 件 — リポジトリ 315, リンク集 95, 記事 62, モデル 53, プロンプト 14 / ⚑ 要確認 337 件
 
 ## リポジトリ（315）
 
@@ -819,12 +819,13 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（61）
+## 記事（62）
 
-### 記事（13）
+### 記事（14）
 
 - **[$0のデジタル参謀長で月$80,000の契約候補を作ったというX投稿（動画付き）](articles/2026-10-22-bober_smart-0-80-000-x.md)** ⚑  @Bober_smart
 - **[1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md)** ⚑  @mukadeshinigami（mukade死神）
+- **[4回に1回に間引いても平均は50%——大数の法則と「選別」の境界](articles/2026-09-13-xsmryze-4-1-50.md)** ⚑  xsmryze
 - **[AIの出力がバラバラにならなくなる、Pydantic AIの「型で縛る」使い方](articles/2026-10-23-opensourcelab9-ai-pydantic-ai.md)**  opensourcelab9
 - **[AIポスターのヤフオク販売ノウハウ（売上未確認）](articles/2026-11-09-https-x.com-knyan151-status-2119039308242063379.md)** ⚑  @knyan151
 - **[AI作品の売れるコンセプト選定に関する販促記事（本文未取得）](articles/2026-11-09-https-x.com-i-article-2118611825109729280.md)** ⚑  @1banana2546
@@ -1012,6 +1013,7 @@
 - [WhatsApper](links/agent-framework/https-x.ai-bot-lr1qqk4csgtz127njppq2.md) — unverified / 送信前承認は第三者ボット作者の説明で実効性は未試験。私信・相手の個人情報と接続権限に注意。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [$0のデジタル参謀長で月$80,000の契約候補を作ったというX投稿（動画付き）](articles/2026-10-22-bober_smart-0-80-000-x.md) — unverified / 主張の核（$0構成・月$80,000・40クリニック・450件収集・月180件）は全て投稿本文の自己申告で、一次資料の裏付けは無い。確認できたのは次の3点。(1) 投稿本文とメタデータをX APIで実測（2026-10-22T12:37:57Z投稿、likes 189 / views 12,274 / bookmarks 155、投稿内に外部URLは0件）。(2) 動画は実取得でき（HTTP 200、22.5MB、25.05秒、1080x1350/60fps）、フレームには「BOBER / OPUS 5.5」「GRAPH chief-night-01」と表示する演出過多のダッシュボード風UIが写り、都市Austin・目標$50k/mo・240件→25件→提案1件・価格欄blank→$0、最後に$2,000入力で$50,000、送信0件、下部に `~/bober $ run goal.md --public-only --no-send` の行がある。(3) 引用ツイート(2078784709253841039)のt.coはX Article 2078778232250183680 に解決し、記事タイトルは「Claude Second Brain & Folder Workflow: The Complete Guide」で、本文に chief / Seattle / clinic / 80,000 は0回。つまり「下に置いた full setup structure」と称する配布物は本投稿の内容（参謀長エージェントの構成）と対応していない。確認できなかったのは、X Article本文（未ログインだと /i/jf/onboarding/web?redirect_after_login=...&mode=login へリダイレクトされ取得不可。article ID直指定の取得も not_found）、実装コード・配布物・利用条件・料金、収益や契約の実績、動画内UIが実在の実行記録かどうか。動画の数値（Austin 240→25→$50,000）は投稿本文の数値（Seattle 450→40→$80,000）と一致せず、動画は本文に合わせて作られたモック/演出とみられる。著者プロフィールに配布先URLは無く、GitHubの Bobersmart（bio「X content creator and AI developer」、公開6リポジトリ）にも本件の構成物は無い。同名の agent-bober は別所有者のコーディング用ハーネスで本件とは無関係。したがって本項目は「主張の記録」としてのみ扱い、実測値・再現手順として引用しないこと。
 - [1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md) — unverified / X の記事取得でコードブロック（プロンプト雛形・位置合わせスクリプト・Blender スクリプト）が欠落。数値は著者の自己申告で独立検証なし。
+- [4回に1回に間引いても平均は50%——大数の法則と「選別」の境界](articles/2026-09-13-xsmryze-4-1-50.md) — unverified / 【主張】投稿は『コイン投げを4回に1回だけ残しても平均は50%のまま。IIT Kharagpur の Mrityunjoy Chakraborty 教授が確率論の核心に近づくのに使う』と述べ、『どの結果を残しても平均は変わらない』『1本の長い記録で1000回の繰り返しの代わりになる』へ一般化する。【確認できたこと】Chakraborty 氏は IIT Kharagpur 電子電気通信工学科の教授で（教員ページ）、同氏が coordinator を務める NPTEL『Probability and Random Processes』のシラバスに strong law of large numbers とエルゴード性が含まれる。固定間隔・結果と独立な間引きでは部分列も同一分布の iid 列なので大数の法則がそのまま効き、平均の収束先は変わらない（手元のシミュレーションで確認）。【未確認】記事本文（x.com/i/article/... は非ログインでログイン画面へリダイレクト、fetch_article.py も失敗）。『教授がこの間引きの話を講義で使っている』という結び付けは未確認：添付動画は約59分の講義録画だが、確認したフレームは集合の演算・排反事象・集合体（fields of sets）といった公理的確率の導入で、話者名や所属の表示もなく、全編は確認していない。【注意】『どの結果を残しても平均は変わらない』は結果に依存した選別（勝った回だけ残す、生存したファンドだけ集める）では成立しない。また間引くと標本数が減り平均の標準誤差は増える（4回に1回なら2倍）。『1本の記録』が使えるのは定常＋エルゴード性が前提。
 - [AIポスターのヤフオク販売ノウハウ（売上未確認）](articles/2026-11-09-https-x.com-knyan151-status-2119039308242063379.md) — unverified / 月30万円は自己申告で第三者確認なし。販売の適法性や収益性を保証せず、具体的生成物は転載しない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [AI作品の売れるコンセプト選定に関する販促記事（本文未取得）](articles/2026-11-09-https-x.com-i-article-2118611825109729280.md) — unverified, low-quality / 18+ / NSFWに関連。露骨な例・本文は転載しない。具体的手法、売上効果、教材内容・価格は未確認で成功例として断定しない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [ChatGPT + Obsidian で組む英語リスニング訓練システム](articles/2026-09-27-momoai_daily-momoai-chatgpt-obsidian.md) — unverified / 本文は全文取得済みだが、初回60%→80%の目安や復習間隔は著者の経験則で定量データなし。Obsidian への自動書き込みは公式連携がなく手動運用。

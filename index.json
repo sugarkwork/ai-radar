@@ -1,5 +1,5 @@
 {
-  "count": 538,
+  "count": 539,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -4575,6 +4575,25 @@
       ],
       "risk_notes": "X の記事取得でコードブロック（プロンプト雛形・位置合わせスクリプト・Blender スクリプト）が欠落。数値は著者の自己申告で独立検証なし。",
       "path": "articles/2026-10-28-mukadeshinigami-pbr-textures.md"
+    },
+    {
+      "name": "4回に1回に間引いても平均は50%——大数の法則と「選別」の境界",
+      "genre": "article",
+      "url": "https://x.com/i/article/2087190920026365952",
+      "published": "2026-09-13",
+      "author": "xsmryze",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "【主張】投稿は『コイン投げを4回に1回だけ残しても平均は50%のまま。IIT Kharagpur の Mrityunjoy Chakraborty 教授が確率論の核心に近づくのに使う』と述べ、『どの結果を残しても平均は変わらない』『1本の長い記録で1000回の繰り返しの代わりになる』へ一般化する。【確認できたこと】Chakraborty 氏は IIT Kharagpur 電子電気通信工学科の教授で（教員ページ）、同氏が coordinator を務める NPTEL『Probability and Random Processes』のシラバスに strong law of large numbers とエルゴード性が含まれる。固定間隔・結果と独立な間引きでは部分列も同一分布の iid 列なので大数の法則がそのまま効き、平均の収束先は変わらない（手元のシミュレーションで確認）。【未確認】記事本文（x.com/i/article/... は非ログインでログイン画面へリダイレクト、fetch_article.py も失敗）。『教授がこの間引きの話を講義で使っている』という結び付けは未確認：添付動画は約59分の講義録画だが、確認したフレームは集合の演算・排反事象・集合体（fields of sets）といった公理的確率の導入で、話者名や所属の表示もなく、全編は確認していない。【注意】『どの結果を残しても平均は変わらない』は結果に依存した選別（勝った回だけ残す、生存したファンドだけ集める）では成立しない。また間引くと標本数が減り平均の標準誤差は増える（4回に1回なら2倍）。『1本の記録』が使えるのは定常＋エルゴード性が前提。",
+      "type": "article",
+      "added": "2026-11-09",
+      "first_seen": "2026-11-09",
+      "sources": [
+        "https://x.com/xsmryze/status/2099111570529767777"
+      ],
+      "fetched_at": "2026-11-09T09:25:52Z",
+      "path": "articles/2026-09-13-xsmryze-4-1-50.md"
     },
     {
       "name": "AIの出力がバラバラにならなくなる、Pydantic AIの「型で縛る」使い方",
