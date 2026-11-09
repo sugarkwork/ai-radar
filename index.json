@@ -1,5 +1,5 @@
 {
-  "count": 562,
+  "count": 563,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -4182,6 +4182,38 @@
       "type": "repo",
       "path": "entries/agent-framework/ry0narushima-bettersearch.md",
       "summary": "DeepSeek が公開した Search API を使い、エージェントに「調べて引用付きで答える」動作を足すスキル。Claude Code / Codex / Cursor / Gemini CLI / OpenCode / Hermes で動く。"
+    },
+    {
+      "repo": "monkeyteamvip/x-virality-score",
+      "name": "X Virality Score",
+      "genre": "agent-framework",
+      "url": "https://github.com/monkeyteamvip/x-virality-score",
+      "license": "MIT",
+      "stars": 35,
+      "language": "HTML",
+      "created": "2026-09-16",
+      "updated": "2026-10-27",
+      "forks": 19,
+      "open_issues": 0,
+      "commits_30d": 3,
+      "commit_cadence": "monthly",
+      "commits_90d": 26,
+      "size_kb": 7915,
+      "archived": false,
+      "author": "kiosa / @thegreatest_sv（commits と ARTICLE.md のハンドル表記で確認）",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "①主張と実測の差: 投稿は「1投稿あたり10万インプレッション」「月500万ビュー」を掲げるが、これは著者の主張で、著者自身が返信で「100K views を保証しない実験的ツール」と訂正している。返信には直近15投稿が2K〜47Kだったという反論と、コミュニティノート相当の指摘（実験的な手動ツール、公開ボードはプレースホルダーの静的デモ）が付いている。②著者の公開ボード data.json（2026-11-08分、2026-11-09 11:05 MSK 更新）では、本人のベスト投稿は21,377 views、当日合計26,146 views、ウォッチリスト29人中7位。少なくともこの日の実績は「10万/投稿」と一致しない。③引用元の X 記事（x.com/i/article/2100215736375373824）はログイン必須で、curl ではログイン画面へリダイレクトされ本文・配布条件を確認できない。④リポジトリ内 ARTICLE.md は「1投稿 約2.08M views」を挙げるが単発の事例で、ツールによる効果の測定ではない。同ファイルに「This is experimental. No big promise.」「Demo / case-study board (this article's example — not yours by default)」と明記がある。⑤返信に添付された画像はインプレッションのスクリーンショットではなく、とんがり帽子で座る男性の風刺イラストだった（vision で確認、数値・UIなし）。インプレッション主張の裏付けにならない。⑥投稿のプロモ動画は UI のアニメーションで、「VIRAL VIEWS 1,052,489」「2.08M views」等は演出上の数値であり実測ではない。実際の画面かと問われた著者も「It's on the experimental stage now」と答えており、動画を実装済みUIの証拠にはできない。⑦コミュニティノートの「公開ボードはプレースホルダーの静的デモ」という記述は、公開ボードが実際に26件のヒット（5,295〜147,225 views）を含む data.json を読むため、そのままは確認できなかった（ノート側の記述が不正確）。ただしページ自体は静的で、事業者が再公開するまで更新されない。⑧料金・提供条件: リポジトリは MIT で無料だが、X の閲覧/API 条件、Grok Bot マーケットプレイスの提供条件・レート制限は未確認。⑨再現性: サンプルは架空データで、pipeline/ は X を呼ばない。実データ取得は利用者の X セッションかボットの読み取りツールに依存し、取得失敗は stale として残る（2026-11-09 11:00 MSK の refresh では19件が stale）。",
+      "type": "repo",
+      "added": "2026-11-09",
+      "first_seen": "2026-11-09",
+      "sources": [
+        "https://x.com/thegreatest_sv/status/2114419470693507261"
+      ],
+      "fetched_at": "2026-11-09T18:40:00Z",
+      "path": "entries/agent-framework/monkeyteamvip-x-virality-score.md",
+      "summary": "ウォッチリスト（15〜30アカウント、フォロワー5万くらいまでが目安）の前日オリジナル投稿を views 床で抽出する。既定は5,000 views 以上、10,000 以上に星。返信は除外。自引用は数字には含めるがバッジ付きで区別する。"
     },
     {
       "repo": "oxylabs/web-api-skills",
