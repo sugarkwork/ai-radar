@@ -1,5 +1,5 @@
 {
-  "count": 568,
+  "count": 569,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -9084,6 +9084,29 @@
       "fetched_at": "2026-11-09T07:03:56Z",
       "path": "links/link-service/docs.x.ai-grok-bot.md",
       "summary": "xAI の常駐型 AI チーム。名前を付けた Bot がクラウド上の実コンピュータ（ブラウザ・ファイルシステム・ターミナル）を共有し、指示した仕事を継続して実行する。"
+    },
+    {
+      "name": "Grok Bot Marketplace",
+      "genre": "link-service",
+      "url": "https://x.ai/bot/marketplace",
+      "pricing": "paid",
+      "pricing_detail": "$30/月のPremium以上が必要（Super $100/月、Ultra $200/月）。Freeと$8のPlusにはGrok Botが含まれない。マーケットプレイスのボット追加自体は無料。",
+      "signup_required": true,
+      "author": "xAI",
+      "source_post": "https://x.com/N01ennn/status/2114436702551072850",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "「146」という総数は公式未確認（マーケットプレイスに総数の表示はなく、複数の第三者投稿がマーケット90＋ユースケース56と主張）。ボットの追加は無料だが、Grok Botの利用自体はPremium $30/月以上が必要で「完全無料」ではない。8体は第三者の出品で、品質・サポート・更新は作者依存（公式製ではない）。全ボットが1つのクラウドPCとファイル・ブラウザ・ログインを共有し、分離はユーザー単位のため、権限の広いアカウント連携は注意。投稿が引用する記事はログイン壁で本文未確認。",
+      "type": "link",
+      "added": "2026-11-09",
+      "first_seen": "2026-11-09",
+      "sources": [
+        "https://x.com/N01ennn/status/2114436702551072850"
+      ],
+      "fetched_at": "2026-11-09T20:25:41Z",
+      "path": "links/link-service/x.ai-grok-bot-marketplace.md",
+      "summary": "xAI（Grok）の公式ボットマーケットプレイス。特定の仕事向けに設定済みの「Grok Bot」を探し、自分のアカウントに追加して業務を任せるためのリンク。"
     },
     {
       "type": "link",

@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 568 件 — リポジトリ 327, リンク集 106, 記事 68, モデル 53, プロンプト 14 / ⚑ 要確認 362 件
+収録 569 件 — リポジトリ 327, リンク集 107, 記事 68, モデル 53, プロンプト 14 / ⚑ 要確認 363 件
 
 ## リポジトリ（327）
 
@@ -462,7 +462,7 @@
 - **[MiniMax H3：20種のダンスと音楽指定](prompts/video-gen/minimax-h3-20-dance-music.md)** ⚑  MiniMax H3 / EndFolding79421
   - キャラクターシートを参照し、6秒間の全身ダンスと音楽・環境音を指示するための投稿者のテンプレート。ダンス20種類の音楽指定例を含む。
 
-## リンク集（106）
+## リンク集（107）
 
 ### リンク（素材・アイコン・3D）（18）
 
@@ -542,7 +542,7 @@
 - **[uilabs — 動きのあるUI部品集](links/link-inspiration/uilabs.dev.md)** ⚑  uilabs — 動きのあるUI部品集
   - React UIの操作とモーションの実装例を調べる小さな部品集。
 
-### リンク（サービス・ツール）（14）
+### リンク（サービス・ツール）（15）
 
 - **[Aura](links/link-service/aura.build-aura.md)** ⚑  freemium / DESIGNCODE IO PTE. LTD.（Meng To / DesignCode）
   - テキストプロンプトからランディングページやマルチページのウェブサイトを生成し、ブラウザ上で視覚編集して公開・書き出しまで完結させるサービス。公式は「AI landing page builder that creates stunning designs in seconds」と説明している。
@@ -552,6 +552,8 @@
   - UCloud（优刻得）系の GPU クラウド。AI の学習・推論・画像生成用に GPU インスタンスを時間・日・月単位で借りる。
 - **[Grok Bot](links/link-service/docs.x.ai-grok-bot.md)** ⚑  paid / xAI
   - xAI の常駐型 AI チーム。名前を付けた Bot がクラウド上の実コンピュータ（ブラウザ・ファイルシステム・ターミナル）を共有し、指示した仕事を継続して実行する。
+- **[Grok Bot Marketplace](links/link-service/x.ai-grok-bot-marketplace.md)** ⚑  paid / xAI
+  - xAI（Grok）の公式ボットマーケットプレイス。特定の仕事向けに設定済みの「Grok Bot」を探し、自分のアカウントに追加して業務を任せるためのリンク。
 - **[Jasper](links/link-service/https-www.jasper.ai.md)** ⚑  @hey_Jessicaai
   - 文章作成・マーケティング支援サービスとして一覧に記載されたJasper。
 - **[Jev（TypeSafe AI）](links/link-service/typesafe.ai-jev-typesafe-ai.md)** ⚑  paid / TypeSafe AI
@@ -1170,6 +1172,7 @@
 - [Aura](links/link-service/aura.build-aura.md) — unverified / 未確認: (1) MCPのツール一覧・レート制限・1操作あたりのプロンプト消費量は、Auraアカウントなしではtools/listを取得できず未確認（未認証は401のみ確認）。(2) 公開REST API/CLIの有無は公式文書で確認できず、api.aura.build はサイトと同じHTMLを返すだけ。(3) テンプレート/コンポーネント/アセット数はページ間で記述が食い違う（料金ページFAQ: 5,000+テンプレート・2,800+コンポーネント・30,000+アセット、learn/introduction: 1000+テンプレート・1400+コンポーネント・20,000+アセット）ため数値は採用しない。(4) 月払い価格は料金ページのプラン設定（配信JSバンドル）から取得し、年払い額はページ表示のプロモ価格。年払い50%オフは期間限定表示で終了時期は不明。(5) MCPエンドポイントは初回probeで401を確認したが、再試行時に25秒タイムアウトした（一時的な可能性）。生成品質・出力の再現性は実生成していないため未評価。
 - [CompShare（優云智算）](links/link-service/compshare.cn-compshare.md) — unverified / GPU の無料枠・トライアルの有無、本人確認（実名認証）の要否、表示価格の税込/税抜は未確認。対象URLには referral_code と ytag のアフィリエイト用パラメータが付いており、エントリでは正規URL（https://www.compshare.cn/）を使う。コミュニティイメージは作成者が乌兰察布(cn-wlcb-01)の RTX4090 のみで検証済みと明記。210GB のイメージ取得とストレージ課金が別途発生する。
 - [Grok Bot](links/link-service/docs.x.ai-grok-bot.md) — unverified / 投稿の収益主張（3か月で$315回収、Elon Musk の27Mビュー投稿の実践など）は一次情報で確認できない。同じ文面を複数アカウントが微妙に数値を変えて使い回しており（$315/$217 等）、収益誘導のテンプレートとみられる。投稿の『step-by-step breakdown』リンクはログイン必須の X 記事で本文未確認。grokbot.sh は同名の別ブログで、現在はドメイン売却ページになっており本製品とは無関係。製品仕様・料金は公式ドキュメントと料金ページで確認済み。
+- [Grok Bot Marketplace](links/link-service/x.ai-grok-bot-marketplace.md) — unverified / 「146」という総数は公式未確認（マーケットプレイスに総数の表示はなく、複数の第三者投稿がマーケット90＋ユースケース56と主張）。ボットの追加は無料だが、Grok Botの利用自体はPremium $30/月以上が必要で「完全無料」ではない。8体は第三者の出品で、品質・サポート・更新は作者依存（公式製ではない）。全ボットが1つのクラウドPCとファイル・ブラウザ・ログインを共有し、分離はユーザー単位のため、権限の広いアカウント連携は注意。投稿が引用する記事はログイン壁で本文未確認。
 - [Jasper](links/link-service/https-www.jasper.ai.md) — unverified / 無料紹介URLの不達をサービス全体の不存在とは扱わない。現行価格・無料提供・利用条件は未確認。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Jev（TypeSafe AI）](links/link-service/typesafe.ai-jev-typesafe-ai.md) — unverified / 投稿が掲げる数値（10,000タスクを20秒、9,214件をOpusに渡さない、8レーンで衝突0、41,096行、12.7x fewer Opus calls、Jev費用$0.38）は投稿本文と添付動画の中だけの主張で、一次情報の裏付けがない。添付動画は実アプリの画面ではなく演出されたモックで、同じ動画内でも Jev 費用が $0.25 から $0.38 へ変化し、41,096 行は画面に現れない。Jev 自体（TypeSafe AI の System One モデル、$42/10億入力トークン、HTTP API/SDK/agent skill）は公式サイトとドキュメントで確認できるが、公式は「コーディングエージェントの LLM を置き換えるものではない」と明記しており、投稿の8レーン並列構成の再現手順は公開されていない。無料枠の有無、コンソールの課金開始条件は未確認。
 - [Mako UI](links/link-service/mako-engine-mako-ui.md) — unverified / 現時点で公式はウェイトリストを案内しており、一般提供や料金を確認できない。コンソール版はNDA等の条件あり。実装や性能は未検証。
