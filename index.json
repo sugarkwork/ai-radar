@@ -1,5 +1,5 @@
 {
-  "count": 527,
+  "count": 528,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -2528,6 +2528,40 @@
       "type": "repo",
       "path": "entries/agent-framework/jcodesmore-ai-website-cloner-template.md",
       "summary": "コーディングエージェントにURLを渡すと、そのサイトを**編集可能な Next.js アプリとして再構築**するテンプレート。/clone-website <url> のスキルを同梱する。"
+    },
+    {
+      "repo": "vxcontrol/pentagi",
+      "name": "PentAGI",
+      "genre": "agent-framework",
+      "url": "https://github.com/vxcontrol/pentagi",
+      "author": "VXControl",
+      "license": "MIT",
+      "stars": 33728,
+      "language": "Go",
+      "created": "2025-01-06",
+      "updated": "2026-10-22",
+      "forks": 5277,
+      "open_issues": 69,
+      "size_kb": 60557,
+      "archived": false,
+      "commits_30d": 1,
+      "commits_90d": 14,
+      "commit_cadence": "monthly",
+      "last_release": "v2.2.0",
+      "last_release_at": "2026-10-05",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "自律型ペネトレーションテスト基盤であり、動作は「対象への実際の攻撃」そのもの。README は利用者を \"Security engineers, penetration testers, researchers and red teams ... for authorized testing only\" と限定しており、自組織資産または書面で許可された範囲以外への実行は法律違反になり得る。既定の管理者アカウントは admin@pentagi.com / admin で、初回ログイン時に変更しないまま外部公開すると乗っ取りにつながる。サンドボックスへ Docker を渡す設定は特に危険で、リリースノートは CVE-2026-14784 について \"with `DOCKER_INSIDE=true`, as the shipped `.env.example` set it, the host Docker socket was mounted into every sandbox, so an agent steered by prompt injection could take over the host\" と説明し、2.2.0 で DOCKER_INSIDE の既定を false、ホストソケットの自動マウント廃止に変更した。README もソケットの bind mount を \"Not recommended\" と明記。プロンプトインジェクション耐性はモデルの指示追従性に依存し、完全には閉じないとリリースノート自身が述べている。機能面の注意: MCP サーバ、エージェントプロファイル、プラグイン、攻撃チェーン可視化、顧客向けレポートは PentAGI Enterprise（有償、別ライセンスキー）側で、本リポジトリの OSS 版には含まれない。Kali イメージの mcp タグはサンドボックス側のゲートウェイであり、PentAGI 本体の MCP サーバではない。有効性はベンダー自身の ctester レポートと主張に基づき、独立した第三者ベンチマークは未確認（ベンダー主張のみで独立検証なし）。LLM API 利用料は別途発生する。BAS／敵対エミュレーション製品ではないと README が明記しており、その用途には使えない。",
+      "type": "repo",
+      "added": "2026-11-09",
+      "first_seen": "2026-11-09",
+      "sources": [
+        "https://x.com/wquguru/status/2113181135522214168"
+      ],
+      "fetched_at": "2026-11-09T05:01:41Z",
+      "path": "entries/agent-framework/vxcontrol-pentagi.md",
+      "summary": "平文で目標を書くと、調査・開発・インフラ担当に分かれたサブエージェント群が計画を立て、nmap・Metasploit・sqlmap など20以上のツールを Docker サンドボックス内で実行してレポートを返す。"
     },
     {
       "type": "repo",
