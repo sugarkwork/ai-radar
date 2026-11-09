@@ -1,5 +1,5 @@
 {
-  "count": 471,
+  "count": 472,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -9816,6 +9816,38 @@
       "fetched_at": "2026-11-09T00:31:13.072726+00:00",
       "path": "entries/prompt-design/kepano-flexoki.md",
       "summary": "デジタル筆記環境等に用いるFlexoki配色。"
+    },
+    {
+      "repo": "tommy0103/better-readme-skill",
+      "name": "better-readme",
+      "genre": "prompt-design",
+      "url": "https://github.com/tommy0103/better-readme-skill",
+      "license": "MIT",
+      "stars": 31,
+      "language": "未確認",
+      "created": "2026-10-08",
+      "updated": "2026-10-08",
+      "forks": 1,
+      "open_issues": 0,
+      "commits_30d": 0,
+      "commit_cadence": "stale",
+      "commits_90d": 2,
+      "size_kb": 13,
+      "archived": false,
+      "author": "tommy0103",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "GitHub の language は null（コードが無く Markdown のみ）。同梱の Art of README 本文には上流のライセンス表記が無く、上流 https://github.com/noffle/art-of-readme も 404 のため再配布条件は未確認。効果（使う前と後で変わる）は作者の主張のみで、before/after 例・テスト・第三者評価はリポジトリに無い。npx skills add は npm の skills v1.7.6 とそのドキュメントで実在を確認したが、この環境では実行できず、実際のインストール成否は未確認。投稿の画像は撮影時点で star 0 の README 画面で、現在値（31）とは一致しない。",
+      "type": "repo",
+      "added": "2026-11-09",
+      "first_seen": "2026-11-09",
+      "sources": [
+        "https://x.com/sumika45379/status/2113035110052475218"
+      ],
+      "fetched_at": "2026-11-08T15:56:41Z",
+      "path": "entries/prompt-design/tommy0103-better-readme-skill.md",
+      "summary": "README を「認知ファネル」の順（名前 → 一行説明 → 必要なら背景 → 実行できる使い方 → インストール → API → 注意点 → コントリビュート → ライセンス）に照らして監査し、崩れている箇所を名指しする。"
     },
     {
       "type": "repo",
