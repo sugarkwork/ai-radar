@@ -1,5 +1,5 @@
 {
-  "count": 526,
+  "count": 527,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -10138,6 +10138,48 @@
       "commits_90d": 100,
       "path": "entries/other/deeplethe-sandstorm.md",
       "summary": "**4段のsandboxライフサイクル**でアイドルを段階的に落とす：hot（実行中・メモリ保持）→ frozen（一時停止、コールドページは zswap、復帰 約0.1秒）→ snapshot（ディスクにチェックポイント、メモリ解放、復帰 約0.2秒）→ detached（ボリュームだけ残す、次回はコールドスタート）"
+    },
+    {
+      "repo": "Autumn-27/ScopeSentry",
+      "name": "ScopeSentry",
+      "genre": "other",
+      "url": "https://github.com/Autumn-27/ScopeSentry",
+      "license": "unknown",
+      "stars": 2321,
+      "language": "Go",
+      "created": "2024-02-27",
+      "updated": "2026-10-11",
+      "forks": 552,
+      "open_issues": 90,
+      "commits_30d": 4,
+      "commit_cadence": "weekly",
+      "commits_90d": 10,
+      "size_kb": 95415,
+      "archived": false,
+      "author": "Autumn-27",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "①悪用時の法的リスク: 許可なく第三者のドメイン・IP・Web アプリをスキャンすると、日本なら不正アクセス禁止法や各府県の迷惑防止条例、米国なら CFAA、中国なら网络安全法などに触れうる。資産の所有者であること、または書面のスキャン許可がある範囲だけを対象にし、レート制限と停止条件を決めてから使う。②実測性能が無い: 作者・README に処理量・スキャン速度・検出率の測定値やベンチマークは無く、本項でも実行検証していない。ノード数を増やしても実効速度は対象やネットワーク次第で、数値の裏付けは無い。③外部スキャナ/POC への依存: 脆弱性検査は nuclei v3.3.6 をライブラリとして内蔵し、subfinder v2.6.8 / httpx v1.6.10 / dnsx / tlsx / fingerprintx / gospider も libs/ に vendored している。バイナリを別途入れる必要は無い反面、追従は本体のリリース次第で、nuclei テンプレート（POC）の更新・誤検知の管理は利用者側の負担。④ライセンスの実態: GitHub API の license は null、/license とリポジトリ直下の LICENSE は 404（取得時点）。README 末尾は「All branches of this project follow AGPL-3.0」としつつ、商用利用には別途商用ライセンスが必要で、営利法人は使用・配布・改変の前に取得を求めるとする追加条項を置いており、AGPL-3.0 そのものと一致しない。法的に使う前提なら著者への確認が要る。⑤その他の未確認: ARTEX 連携は ARTEX 側 README に記載があるが ScopeSentry 側 README には無く、実際の同期動作は未検証。リソース要件（CPU/メモリ/ディスク）は README・compose に記載が無い。README の「Server：python - FastApi」は現行構成（Go 実装、.py ファイル 0）と一致しない。 ⑥ARTEX との関係: 投稿は ScopeSentry を「ARTEX 作者が貢献した」と述べるが、ARTEX のリポジトリ所有者は Hinln で、README は Autumn-27/norma を SDK として参照するのみ。同一著者であることは一次情報で断定できない。",
+      "last_release": "v1.9.4",
+      "last_release_at": "2026-08-23",
+      "added": "2026-11-09",
+      "first_seen": "2026-10-22",
+      "fetched_at": "2026-11-09T04:18:28Z",
+      "source_post": "https://x.com/wquguru/status/2113181135522214168",
+      "sources": [
+        "https://github.com/Autumn-27/ScopeSentry",
+        "https://github.com/Autumn-27/ScopeSentry/blob/main/README.md",
+        "https://github.com/Autumn-27/ScopeSentry/blob/main/single-host-deployment.yml",
+        "https://github.com/Autumn-27/ScopeSentry/blob/main/SKILL.md",
+        "https://github.com/Autumn-27/ScopeSentry-Scan",
+        "https://github.com/Hinln/ARTEX",
+        "https://www.scope-sentry.top/en/",
+        "https://x.com/wquguru/status/2113181135522214168"
+      ],
+      "type": "repo",
+      "path": "entries/other/autumn-27-scopesentry.md",
+      "summary": "分散型の資産測絵（ASM）。サーバ1台と複数のスキャンノードで動き、ノードを選んでタスクを振り分ける。"
     },
     {
       "repo": "morluto/awesome-reverse-engineering",
