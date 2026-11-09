@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 553 件 — リポジトリ 317, リンク集 102, 記事 67, モデル 53, プロンプト 14 / ⚑ 要確認 350 件
+収録 554 件 — リポジトリ 317, リンク集 103, 記事 67, モデル 53, プロンプト 14 / ⚑ 要確認 350 件
 
 ## リポジトリ（317）
 
@@ -452,7 +452,7 @@
 - **[MiniMax H3：20種のダンスと音楽指定](prompts/video-gen/minimax-h3-20-dance-music.md)** ⚑  MiniMax H3 / EndFolding79421
   - キャラクターシートを参照し、6秒間の全身ダンスと音楽・環境音を指示するための投稿者のテンプレート。ダンス20種類の音楽指定例を含む。
 
-## リンク集（102）
+## リンク集（103）
 
 ### リンク（作例・インスピレーション）（18）
 
@@ -628,6 +628,25 @@
 - **[remove.bg](links/image-gen/https-www.remove.bg.md)** ⚑  @hey_Jessicaai
   - 画像の背景を除去するサービスとして一覧に記載されたremove.bg。
 
+### 動画生成パイプライン（8）
+
+- **[FFmpeg](links/video-gen/ffmpeg.org-ffmpeg.md)**  free / FFmpeg project
+  - 動画・音声の録画、変換、ストリーミングを行うクロスプラットフォームのツール群。投稿の CGI スタックでは、完成した映像を 16:9・9:16・1:1 などの納品フォーマットに変換する『DELIVER』工程を担う。
+- **[Higgsfield](links/video-gen/higgsfield.ai-higgsfield.md)** ⚑  freemium / Higgsfield Inc.
+  - 複数の画像・動画生成モデルを1つのアカウントとクレジットで使えるクリエイティブ基盤。公式は「AI-native creative suite」とうたい、自社モデル（Soul、Genjutsu、DoP など）と外部モデル（Seedance、Kling、Veo、Wan、Nano Banana など）を同じ画面に並べている。
+- **[Higgsfield AI Influencer](links/video-gen/higgsfield.ai-higgsfield-ai-influencer.md)** ⚑  freemium
+  - 実在しない人物（AIインフルエンサー）の見た目と動きを、プロンプトではなくメニュー操作で組み立てるためのスタジオ。作った人物を element として保存し、縦動画の差し替え用キャラクターとして使い回す。
+- **[Higgsfield Genjutsu](links/video-gen/higgsfield.ai-higgsfield-genjutsu.md)** ⚑  freemium
+  - 撮影済みの実写動画の動き・カメラ・タイミングをそのまま残し、演じている人物や周囲の世界だけを差し替える動画ツール。AIインフルエンサーの「実写の動きに顔だけ載せる」工程を担う。
+- **[Kling AI Motion Control](links/video-gen/kling.ai-kling-ai-motion-control.md)** ⚑  paid
+  - 1枚の静止画キャラクターに、参照動画の動き・表情・カメラを移植する motion control 機能。Higgsfield を使わない代替ルートとして記事の Step 4 が挙げている。
+- **[MiniMax H3 long take 連結ワークフロー](links/video-gen/https-civitai.com-models-3038677.md)** ⚑  @aiaicreate
+  - H3の4〜6秒クリップをつないで40〜50秒にするComfyUIワークフロー配布。
+- **[Runway](links/video-gen/https-runway.com.md)** ⚑  @hey_Jessicaai
+  - 動画生成サービスRunway。一覧の「Gen-3 trial」という説明は旧世代に基づく。
+- **[SadTalker商用サイト（OSS本体とは別）](links/video-gen/https-sadtalker.ai.md)** ⚑  @hey_Jessicaai
+  - 写真等から発話映像を作ると紹介されたsadtalker.aiの商用サイト。
+
 ### コーディングエージェント（7）
 
 - **[Claude Code](links/coding-agent/claude.com-claude-code.md)** ⚑  paid / Anthropic
@@ -644,23 +663,6 @@
   - Claude Code でプロンプトを書いている最中に、その依頼で Claude が呼びそうなスキルとサブエージェントをプロンプト欄の上のバンドに先回り表示する。
 - **[Turn Inspector](links/coding-agent/aitmpl.com-turn-inspector.md)** ⚑  free / Daniel Avila (davila7)
   - Claude Code のセッションで、モデルへのリクエスト（ターン）ごとにコンテキストウィンドウが何にどれだけ使われたかを横ペインで可視化する。
-
-### 動画生成パイプライン（7）
-
-- **[Higgsfield](links/video-gen/higgsfield.ai-higgsfield.md)** ⚑  freemium / Higgsfield Inc.
-  - 複数の画像・動画生成モデルを1つのアカウントとクレジットで使えるクリエイティブ基盤。公式は「AI-native creative suite」とうたい、自社モデル（Soul、Genjutsu、DoP など）と外部モデル（Seedance、Kling、Veo、Wan、Nano Banana など）を同じ画面に並べている。
-- **[Higgsfield AI Influencer](links/video-gen/higgsfield.ai-higgsfield-ai-influencer.md)** ⚑  freemium
-  - 実在しない人物（AIインフルエンサー）の見た目と動きを、プロンプトではなくメニュー操作で組み立てるためのスタジオ。作った人物を element として保存し、縦動画の差し替え用キャラクターとして使い回す。
-- **[Higgsfield Genjutsu](links/video-gen/higgsfield.ai-higgsfield-genjutsu.md)** ⚑  freemium
-  - 撮影済みの実写動画の動き・カメラ・タイミングをそのまま残し、演じている人物や周囲の世界だけを差し替える動画ツール。AIインフルエンサーの「実写の動きに顔だけ載せる」工程を担う。
-- **[Kling AI Motion Control](links/video-gen/kling.ai-kling-ai-motion-control.md)** ⚑  paid
-  - 1枚の静止画キャラクターに、参照動画の動き・表情・カメラを移植する motion control 機能。Higgsfield を使わない代替ルートとして記事の Step 4 が挙げている。
-- **[MiniMax H3 long take 連結ワークフロー](links/video-gen/https-civitai.com-models-3038677.md)** ⚑  @aiaicreate
-  - H3の4〜6秒クリップをつないで40〜50秒にするComfyUIワークフロー配布。
-- **[Runway](links/video-gen/https-runway.com.md)** ⚑  @hey_Jessicaai
-  - 動画生成サービスRunway。一覧の「Gen-3 trial」という説明は旧世代に基づく。
-- **[SadTalker商用サイト（OSS本体とは別）](links/video-gen/https-sadtalker.ai.md)** ⚑  @hey_Jessicaai
-  - 写真等から発話映像を作ると紹介されたsadtalker.aiの商用サイト。
 
 ### 音声・TTS（3）
 

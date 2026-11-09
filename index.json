@@ -1,5 +1,5 @@
 {
-  "count": 553,
+  "count": 554,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -16612,6 +16612,26 @@
       "source_post": "https://x.com/kof97ai/status/2118995660712374462",
       "amplifiers": [],
       "path": "articles/2026-11-08-kof97ai-codex-seedance-keyframe.md"
+    },
+    {
+      "name": "FFmpeg",
+      "genre": "video-gen",
+      "url": "https://ffmpeg.org/",
+      "author": "FFmpeg project",
+      "pricing": "free",
+      "pricing_detail": "無料。LGPL-2.1 以降、GPL 部分（libx264 等）を有効にすると全体が GPL-2.0 以降。本家はソースのみ配布し、バイナリは各 Linux ディストリ、Linux static builds、gyan.dev / BtbN の Windows ビルド、macOS static builds を利用する。アカウント・課金・レンダー課金はなく、任意の寄付のみ。最新安定版は 9.0.2（2026-09-18）。",
+      "signup_required": false,
+      "flags": [],
+      "risk_notes": "LGPL でリンク・再配布する場合は --enable-gpl / --enable-nonfree を付けず、動的リンクとソース開示などの条件を満たす必要がある。GPL 部分を有効にすると全体が GPL になり、プロプライエタリ配布と両立しない。FFmpeg は商標であり、名称の扱いに注意。ffmpeg.org は取得時に一度接続タイムアウトし、再試行で 200 を得た（サーバー側の一時的な不調）。",
+      "type": "link",
+      "added": "2026-11-09",
+      "first_seen": "2026-11-09",
+      "sources": [
+        "https://x.com/Y0urDumble/status/2114084322227503206"
+      ],
+      "fetched_at": "2026-11-09T14:21:50Z",
+      "path": "links/video-gen/ffmpeg.org-ffmpeg.md",
+      "summary": "動画・音声の録画、変換、ストリーミングを行うクロスプラットフォームのツール群。投稿の CGI スタックでは、完成した映像を 16:9・9:16・1:1 などの納品フォーマットに変換する『DELIVER』工程を担う。"
     },
     {
       "type": "model",
