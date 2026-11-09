@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 485 件 — リポジトリ 289, リンク集 82, 記事 51, モデル 52, プロンプト 11 / ⚑ 要確認 286 件
+収録 486 件 — リポジトリ 289, リンク集 83, 記事 51, モデル 52, プロンプト 11 / ⚑ 要確認 287 件
 
 ## リポジトリ（289）
 
@@ -400,7 +400,7 @@
 - **[Claude Code コミット前検証スキル verify（テスト→差分レビュー→差し戻し）](prompts/coding-agent/claude-code-verify-6df7a29de9.md)** ⚑  Claude Code v2.1.286 以降（.claude/skills/verify/SKILL.md に置くプロジェクトスキル）
   - コミットの直前に、その変更が「意図しない挙動変化」や「データに消える恐れのある変更」を含んでいないかを Claude 自身に確認させ、危険ならコミットさせずに修正へ戻すためのプロジェクトスキル。テストが通ることと、その差分が妥当であることを別々に確かめる点が要点。
 
-## リンク集（82）
+## リンク集（83）
 
 ### リンク（作例・インスピレーション）（15）
 
@@ -584,6 +584,11 @@
   - UIモーション事例を検索し、動きの分解と実装コードをエージェントへ渡す60fps.designの有料MCP。
 - **[ArtCraft Craft Apps](links/mcp-server/getartcraft.com-artcraft-craft-apps.md)**  free / ArtCraft (GitHub: storytold)
   - 画像編集・ベクター・動画・PDF・DTP・3Dテクスチャ・DAW・CAD・表計算など、商用クリエイティブソフト相当の機能をRust製ネイティブアプリとして無料・オープンソースで提供するスイート。
+
+### コーディングエージェント（1）
+
+- **[Claude Code カスタムサブエージェント（公式ドキュメント）](links/coding-agent/code.claude.com-claude-code.md)** ⚑  paid / Anthropic
+  - メイン会話を検索結果・ログ・ファイル内容で埋めずに、副作業を別コンテキストの専用エージェントに任せ、要約だけ受け取るための公式の仕組み。
 
 ### 評価・ベンチマーク（1）
 
@@ -915,6 +920,7 @@
 - [reacher-z/Awesome-REA](entries/coding-agent/reacher-z-awesome-rea.md) — unverified / indexed repos3309は自動収集で未レビュー。数の多さや公開索引を各項目の安全性・有用性の保証としない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Dual-Brain — 設計とコードの二視点レビュー用スキル](entries/coding-agent/sleeplesshan-dual-brain.md) — unverified / MIT。投稿のMS関連社内ハッカソンでAI審査員から満点という説明は作者の自己申告で、公式採点記録・Microsoftの推薦や認証を確認したものではない。READMEは旧5事例ベンチの比較条件・トークン二重計上に問題があり旧総数を撤回と明記。普遍的な性能改善や低遅延は保証しない。 当方でインストール・動作・性能の実行検証はしていない。
 - [ApiiroによるClaude Code settings.local.json資格情報漏洩調査](articles/2026-11-09-https-x.com-yoppy0123-status-2119219945179603110.md) — unverified / global gitignore追加だけでは既追跡や後からrepo化したケースを守れない。漏洩時は履歴削除だけでなくまず鍵を失効・ローテーション。実資格情報は転載しない。 当方でインストール・推論・生成・ベンチ再現はしていない。
+- [Claude Code カスタムサブエージェント（公式ドキュメント）](links/coding-agent/code.claude.com-claude-code.md) — unverified / 投稿の数値と効果の主張は著者の体験談で、一次情報の裏付けがない。「3体で合計32万7千トークン」「親に戻ったのは報告3本だけ」「5行制限のおかげで親の会話が小さいまま」は @sumika45379 の要約（元投稿は @0xbobaaa）であり、独立した検証はない。公式ドキュメントが説明するのは「各サブエージェントは独自のコンテキストウィンドウで動き、要約だけを返す」という仕組みまでで、節約量や報告行数の効果は保証していない。「返事は5行まで」はエージェント本文（システムプロンプト）に書く指示であって、Claude Code が行数を強制する機能ではない。引用元 https://x.com/0xbobaaa/status/2107892817292939588 は t.co 解決が 404 で、本文・動画・元の定義ファイルを確認できない（配布リポジトリは存在しない）。添付画像 https://pbs.twimg.com/media/HWWvkhaa4AAPVqD.jpg は origin_post_id=2118292245107683494 の画像で、vision で見た結果 .claude/agents ではなく benjitaylor/skills の stageshow（製品画面デモ用スキル）の解説画像だった。本候補の根拠には使っていない。料金は 2026-11-08 時点の claude.com/pricing で確認。ドキュメントは 2026-11-03 更新。
 - [Claude Code コミット前検証スキル verify（テスト→差分レビュー→差し戻し）](prompts/coding-agent/claude-code-verify-6df7a29de9.md) — unverified / 同梱の /verify とコミット前実行の仕様は code.claude.com の公式ドキュメントで確認できた。一方、Voxyz_ai が配布する SKILL.md の実ファイル（GitHub / gist）は発見できず、画像は SKILL.md 本文そのものではなく手順を図解したインフォグラフィック。そのため frontmatter や実行コマンドの具体、原文の正確な文言は未確認（unverified）。「OpenAI のレビュー基準」は OpenAI の公式文書ではなく、レビュー観点の通称とみられる。スキルはモデルへの指示であり、実行を強制するものではない。
 - [Claude Code サブエージェントを1ファイルで定義し、報告を短く縛る](articles/2026-10-22-0xbobaaa-sumika45379-claude-code-1.md) — unverified, dead-link / 元ポスト（@0xbobaaa, https://x.com/0xbobaaa/status/2107892817292939588）は 2026-11-08 時点で HTTP 404、Wayback のスナップショットもなく、原文の定義ファイルと実測値は確認できない。「3体で合計32万7千トークン」「親に戻ったのは報告3本」は紹介投稿による要約で、独立した検証はない。「返事は5行まで」の縛りが出力をどれだけ減らすかも未測定。一方、定義ファイルの書式・別コンテキストでの実行・利用上限への計上は公式ドキュメントで確認済み。候補に添付されていた画像（HWWvkhaa4AAPVqD.jpg）は stageshow スキルの紹介画像で本件とは無関係。
 - [Goochbeater/Spiritual-Spell-Red-Teaming](entries/eval/goochbeater-spiritual-spell-red-teaming.md) — unverified, prompt-injection / 脱獄・社会工学・安全制約回避を含む。指示の実行、危険なプロンプトや露骨な本文の転載は行わない。抽出物の真正性と利用権も未確認。 当方でインストール・推論・生成・ベンチ再現はしていない。

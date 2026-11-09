@@ -1,5 +1,5 @@
 {
-  "count": 485,
+  "count": 486,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -4779,6 +4779,31 @@
       "risk_notes": "global gitignore追加だけでは既追跡や後からrepo化したケースを守れない。漏洩時は履歴削除だけでなくまず鍵を失効・ローテーション。実資格情報は転載しない。 当方でインストール・推論・生成・ベンチ再現はしていない。",
       "published": "2026-11-08",
       "path": "articles/2026-11-09-https-x.com-yoppy0123-status-2119219945179603110.md"
+    },
+    {
+      "type": "link",
+      "name": "Claude Code カスタムサブエージェント（公式ドキュメント）",
+      "genre": "coding-agent",
+      "url": "https://code.claude.com/docs/en/sub-agents",
+      "author": "Anthropic",
+      "pricing": "paid",
+      "pricing_detail": "Claude Code は Free プラン非対応。Pro $20/月（年払い $17/月・$200 一括）、Max $100/月、Ultra $200/月。API のトークン従量課金でも利用可。",
+      "signup_required": true,
+      "source_post": "https://x.com/sumika45379/status/2113106822983032965",
+      "sources": [
+        "https://code.claude.com/docs/en/sub-agents",
+        "https://claude.com/pricing",
+        "https://x.com/sumika45379/status/2113106822983032965"
+      ],
+      "first_seen": "2026-10-22",
+      "added": "2026-11-08",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "投稿の数値と効果の主張は著者の体験談で、一次情報の裏付けがない。「3体で合計32万7千トークン」「親に戻ったのは報告3本だけ」「5行制限のおかげで親の会話が小さいまま」は @sumika45379 の要約（元投稿は @0xbobaaa）であり、独立した検証はない。公式ドキュメントが説明するのは「各サブエージェントは独自のコンテキストウィンドウで動き、要約だけを返す」という仕組みまでで、節約量や報告行数の効果は保証していない。「返事は5行まで」はエージェント本文（システムプロンプト）に書く指示であって、Claude Code が行数を強制する機能ではない。引用元 https://x.com/0xbobaaa/status/2107892817292939588 は t.co 解決が 404 で、本文・動画・元の定義ファイルを確認できない（配布リポジトリは存在しない）。添付画像 https://pbs.twimg.com/media/HWWvkhaa4AAPVqD.jpg は origin_post_id=2118292245107683494 の画像で、vision で見た結果 .claude/agents ではなく benjitaylor/skills の stageshow（製品画面デモ用スキル）の解説画像だった。本候補の根拠には使っていない。料金は 2026-11-08 時点の claude.com/pricing で確認。ドキュメントは 2026-11-03 更新。",
+      "fetched_at": "2026-11-08T17:36:08Z",
+      "path": "links/coding-agent/code.claude.com-claude-code.md",
+      "summary": "メイン会話を検索結果・ログ・ファイル内容で埋めずに、副作業を別コンテキストの専用エージェントに任せ、要約だけ受け取るための公式の仕組み。"
     },
     {
       "name": "Claude Code コミット前検証スキル verify（テスト→差分レビュー→差し戻し）",
