@@ -1,5 +1,5 @@
 {
-  "count": 565,
+  "count": 566,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -3771,6 +3771,45 @@
       "fetched_at": "2026-11-09T00:30:43.393735+00:00",
       "path": "entries/agent-framework/nanmicoder-dsh-agent-teams.md",
       "summary": "DSHで複数エージェントの役割を組み合わせるためのdsh-agent-teams。"
+    },
+    {
+      "repo": "stripe/ai",
+      "name": "stripe/ai",
+      "genre": "agent-framework",
+      "url": "https://github.com/stripe/ai",
+      "author": "stripe",
+      "license": "MIT",
+      "stars": 2052,
+      "language": "TypeScript",
+      "created": "2024-11-11",
+      "updated": "2026-11-09",
+      "forks": 386,
+      "open_issues": 43,
+      "commits_30d": 56,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "size_kb": 15295,
+      "archived": false,
+      "last_release": "",
+      "last_release_at": "",
+      "sources": [
+        "https://github.com/stripe/ai",
+        "https://api.github.com/repos/stripe/ai",
+        "https://raw.githubusercontent.com/stripe/ai/main/README.md",
+        "https://raw.githubusercontent.com/stripe/ai/main/benchmarks/README.md",
+        "https://docs.stripe.com/mcp",
+        "https://x.com/Y0urDumble/status/2114428470168334365"
+      ],
+      "first_seen": "2026-10-25",
+      "added": "2026-11-09",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "投稿が『Stripe agent toolkit』と呼ぶ @stripe/agent-toolkit は、READMEで『今後の更新・セキュリティ修正なし』と明記され、ホスト型MCP（https://mcp.stripe.com）への移行が推奨されている。新規導入では非推奨パッケージを選ばないこと。ベンチマークはStripe自身が3回の最良値を採る社内評価で、独立再現ではない。投稿の請求書・決済リンクの即時発行、$3,000–6,000、48 leads / 12 pitches / 1 signed は動作確認していない。当方でプラグイン導入・MCP接続・決済試験はしていない。",
+      "fetched_at": "2026-11-09T18:52:00Z",
+      "type": "repo",
+      "path": "entries/agent-framework/stripe-ai.md",
+      "summary": "Stripe公式のAI向けリポジトリ。エージェントプラグイン/スキル（skills/ に stripe-pay、stripe-best-practices、stripe-docs、stripe-projects、stripe-apps、stripe-directory、metronome、upgrade-stripe "
     },
     {
       "repo": "Tencent-Hunyuan/Hy-Memory",

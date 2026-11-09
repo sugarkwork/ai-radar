@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 565 件 — リポジトリ 325, リンク集 105, 記事 68, モデル 53, プロンプト 14 / ⚑ 要確認 360 件
+収録 566 件 — リポジトリ 326, リンク集 105, 記事 68, モデル 53, プロンプト 14 / ⚑ 要確認 361 件
 
-## リポジトリ（325）
+## リポジトリ（326）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -79,7 +79,7 @@
 | [utillayer/youtube-agent-skill](entries/video-gen/utillayer-youtube-agent-skill.md) ⚑ | 12 | 2 | 週次 | 16 | 2026-10-29 | 2026-11-09 | 2026-11-09 | MIT |
 | [BennyDaBall930/comfyui_hyperflow_int8_nodes](entries/video-gen/bennydaball930-comfyui_hyperflow_int8_nodes.md) ⚑ | 3 | 0 | 週次 | 9 | 2026-11-08 | 2026-11-09 | 2026-11-09 | GPL-3.0 |
 
-### エージェント基盤・スキル集（64）
+### エージェント基盤・スキル集（65）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -133,6 +133,7 @@
 | [SoL-Pi](entries/agent-framework/nvlabs-sol-pi.md) | 3,638 | 299 | 毎日 | 34 | 2026-11-04 | 2026-11-04 | 2026-11-04 | MIT |
 | [Social Media Agent（LangChain）](entries/agent-framework/langchain-ai-social-media-agent.md) | 2,987 | 546 | 毎日 | 26 | 2026-11-05 | 2026-11-07 | 2026-11-07 | MIT |
 | [NanmiCoder/dsh-agent-teams](entries/agent-framework/nanmicoder-dsh-agent-teams.md) ⚑ | 2,778 | 237 | 毎日 | 100+ | 2026-11-06 | 2026-11-09 | 2026-11-09 | MIT |
+| [stripe/ai](entries/agent-framework/stripe-ai.md) ⚑ | 2,052 | 386 | 毎日 | 56 | 2026-11-09 | 2026-11-09 | 2026-11-09 | MIT |
 | [Hy Memory](entries/agent-framework/tencent-hunyuan-hy-memory.md) ⚑ | 2,012 | 146 | 毎日 | 100+ | 2026-11-06 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
 | [Stageshow（benjitaylor/skills）](entries/agent-framework/benjitaylor-skills.md) | 1,897 | 131 | 月次 | 2 | 2026-11-04 | 2026-11-04 | 2026-11-04 | 未確認（リポジトリ全体の LICENSE なし。各スキル個別のライセンス表記） |
 | [ARTEX](entries/agent-framework/hinln-artex.md) ⚑ | 1,427 | 1,941 | 月次 | 0 | 2026-10-08 | 2026-11-09 | 2026-11-09 | AGPL-3.0 |
@@ -1032,6 +1033,7 @@
 - [Agent Autoloop](entries/agent-framework/kkkkhazix-agent-autoloop.md) — unverified / starsの投稿値と確認値は時点差がある。承認の実効性・無人稼働は今回試験していない。 今回の動作・推論・生成・性能は未検証。
 - [FireRed-OpenStoryline](entries/agent-framework/fireredteam-firered-openstoryline.md) — unverified / インストール・実レンダリングは未実行で、記載は README / config.toml / requirements.txt / docs の原文にもとづく。2026-07-31 以降コミットがなく（30日0・90日0）、GitHub の Releases とタグは未作成（Docker Hub には v1.0.1 イメージあり）。LLM・VLM・（任意で）TTS/Pexels/AIトランジションのAPIキーが必須で、AIトランジションは外部動画生成APIの課金が発生し「コストが比較的高く結果は予測しづらい」とREADMEが明記している。
 - [NanmiCoder/dsh-agent-teams](entries/agent-framework/nanmicoder-dsh-agent-teams.md) — unverified / 10選への掲載はチーム動作や品質改善の実証ではない。タスク競合・外部操作の承認は未検証。 当方でインストール・推論・生成・ベンチ再現はしていない。
+- [stripe/ai](entries/agent-framework/stripe-ai.md) — unverified / 投稿が『Stripe agent toolkit』と呼ぶ @stripe/agent-toolkit は、READMEで『今後の更新・セキュリティ修正なし』と明記され、ホスト型MCP（https://mcp.stripe.com）への移行が推奨されている。新規導入では非推奨パッケージを選ばないこと。ベンチマークはStripe自身が3回の最良値を採る社内評価で、独立再現ではない。投稿の請求書・決済リンクの即時発行、$3,000–6,000、48 leads / 12 pitches / 1 signed は動作確認していない。当方でプラグイン導入・MCP接続・決済試験はしていない。
 - [Hy Memory](entries/agent-framework/tencent-hunyuan-hy-memory.md) — unverified / 投稿の数値のうち multi-hop recall 50%→90% は Tencent 公式サイトの導入事例グラフ（「多跳召回提升 40 个百分点」、棒グラフ50→90）と Tencent AI 公式X投稿で確認した。記憶量51.8%減・呼び出しトークン39.3%減は Tencent AI 公式X投稿（2026-10-16）の文言にのみ存在し、README・製品サイト・公開論文アブストラクトには該当記述が見つからず、第三者検証もない。pip install hy-memory==2.0.3 は実在（PyPI公開 2026-10-17）するが最新は 2.0.14（READMEも2.0.4以上を案内）。MemHub は preview 段階で、macOS は arm64 のみ・Windows非対応。GitHub API の license は Other/NOASSERTION を返すが、LICENSE 本文と README は Apache-2.0 と明記している。
 - [ARTEX](entries/agent-framework/hinln-artex.md) — unverified / ①認可前提: README は「オンラインシステムへの実行は認可の有無を問わず禁止」と明記し、対象はローカルの隔離環境に限るとする。実運用で使うなら著者の許諾と法的根拠の両方が要る。②危険な既定値: worker は Bash/HTTP を実ツールで実行する。0.3.15 の変更履歴は、内蔵の破壊的 HTTP 規則が DELETE メソッドしか見ておらず、GET/POST の削除系エンドポイント（例 `/api/user/delete?id=1`）を実際に叩いてデータを消し得たと述べ、deny 規則を追加したとしている。0.3.15 未満は破壊的操作を止められない前提で扱うべき。③承認ゲートの範囲は未検証: guard/intercept とタスク単位 intercept_rules は存在するが、既定で何が承認待ちになるかの一覧は README・CHANGELOG から特定できない。④MITM の鍵管理: 記録プロキシが CA を発行して TLS を復号し、Bash/HTTP を留痕する。CA 秘密鍵と traffic データの保管・削除は利用者責任で、第三者環境に置くと通信内容がそのまま残る。⑤サプライチェーン: 本リポジトリは上流のバックアップで、Hinln 名義のコミット 1 本が自己更新の取得先を Hinln/ARTEX Releases に変更している。更新は zip 取得→SHA256SUMS 照合→`-h` スモークテスト→入替（3 回失敗でロールバック）という実装だが、配布元が単一アカウントである点は変わらない。取得時点で Releases と tags は 0 件のため更新経路は動かない。⑥記述の不整合: README は「これは私有リポジトリ」として ARTEX_UPDATE_GITHUB_TOKEN（Contents: read）の設定を求めるが、API 上 private=false。トークン前提の更新手順は現状と一致しない。⑦上流の消失: Autumn-27/ARTEX は API 404 で作者の公開リポジトリ一覧にも無い。fork 1941 > star 1427 という比率は一斉ミラーと整合するが、各 fork が同一内容とは限らず、本項では上流タグとのハッシュ照合をしていない。⑧未検証: 本項はコード・README・compose の静的確認のみで、実行・ベンチ・検出率の検証はしていない。効果の数値的裏付けは無い。
 - [ysr666/dsh-vision-router](entries/agent-framework/ysr666-dsh-vision-router.md) — unverified / 画像の外部送信先・API費用・対応モデルの範囲は未確認。名称からすべてのモデルに視覚能力が付くと判断しない。 当方でインストール・推論・生成・ベンチ再現はしていない。
