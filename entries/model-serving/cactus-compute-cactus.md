@@ -5,7 +5,7 @@ genre: "model-serving"
 url: "https://github.com/cactus-compute/cactus"
 author: "cactus-compute"
 source_post: "https://x.com/nahid_pro09/status/2119030921110392842"
-sources: ["https://x.com/nahid_pro09/status/2119030921110392842?a=x-kiLrrom_mKcAJekmc&s=46", "https://x.com/nahid_pro09/status/2119030921110392842", "https://cactuscompute.com/blog/mirage", "https://huggingface.co/Cactus-Compute/mirage", "https://huggingface.co/api/models/Cactus-Compute/mirage", "https://github.com/cactus-compute/cactus", "https://api.github.com/repos/cactus-compute/cactus", "https://pypi.org/pypi/cactus-compute/json"]
+sources: ["https://x.com/nahid_pro09/status/2119030921110392842?a=x-kiLrrom_mKcAJekmc&s=46", "https://x.com/nahid_pro09/status/2119030921110392842", "https://cactuscompute.com/blog/mirage", "https://huggingface.co/Cactus-Compute/mirage", "https://huggingface.co/api/models/Cactus-Compute/mirage", "https://github.com/cactus-compute/cactus", "https://api.github.com/repos/cactus-compute/cactus", "https://pypi.org/pypi/cactus-compute/json", "https://x.com/aiaicreate/status/2119433057728135278", "https://huggingface.co/Cactus-Compute/cactus", "https://huggingface.co/Cactus-Compute/cactus/blob/main/README.md"]
 first_seen: "2026-11-07"
 amplifiers: []
 added: "2026-11-09"
@@ -72,3 +72,13 @@ fork=false、archived=false。commit数は30日・90日それぞれ100件上限�
 ## 変更履歴
 
 - 2026-11-09: 初回収録用の概要を作成。原チェックと公式メタ情報の取得範囲を区別して記載。実行追試なし。
+
+
+## 2026-11-09 確認：事前ビルドランタイム
+
+HFのCactus-Compute/cactusは重みではなく実行バイナリの配布。READMEは4.0.0の17ターゲットを列挙し、APIのファイル一覧には4.1.0配布もある。macOS、Linux x86/ARM/RISC-V/MIPS、Windows、Android、iOS/tvOS/watchOS、WASM/WASIが含まれる。CLI、静的ライブラリ、C/C++ヘッダ、Python wheelがあり、iOS等すべてのターゲットにCLI実行ファイルがあるわけではない。
+
+`.cact`モデル重みはNeedle3/Whistle/Mirage等の別repoから取得する。Pythonパッケージは初回にエンジンと重みを取得するので、完全オフライン導入は事前準備が必要。コード・ランタイムのApache-2.0と各モデルの条件を区別する。17種のバイナリを当方が起動検証したという意味ではない。
+
+出典: https://huggingface.co/Cactus-Compute/cactus
+紹介投稿: https://x.com/aiaicreate/status/2119433057728135278

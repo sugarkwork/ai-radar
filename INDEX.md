@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 474 件 — リポジトリ 286, リンク集 75, 記事 50, モデル 52, プロンプト 11 / ⚑ 要確認 275 件
+収録 485 件 — リポジトリ 289, リンク集 82, 記事 51, モデル 52, プロンプト 11 / ⚑ 要確認 286 件
 
-## リポジトリ（286）
+## リポジトリ（289）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -139,7 +139,7 @@
 | [BetterSearch](entries/agent-framework/ry0narushima-bettersearch.md) | 40 | 4 | 週次 | 10 | 2026-10-18 | 2026-11-03 | 2026-11-03 | MIT |
 | [web-api-skills](entries/agent-framework/oxylabs-web-api-skills.md) | 11 | 1 | 月次 | 3 | 2026-10-13 | 2026-11-03 | 2026-11-03 | MIT |
 
-### 3D・モーション（33）
+### 3D・モーション（34）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -171,13 +171,14 @@
 | [Lida-V/3DCharaMakeSkills-Lida](entries/3d-motion/lida-v-3dcharamakeskills-lida.md) ⚑ | 61 | 4 | 毎日 | 48 | 2026-11-07 | 2026-11-09 | 2026-11-09 | NOASSERTION |
 | [CurioMesh](entries/3d-motion/curiocrafter-curiomesh.md) | 46 | 3 | 毎日 | 100+ | 2026-11-06 | 2026-11-06 | 2026-11-06 | GPL-3.0 |
 | [lovisdotio/video-to-texture](entries/3d-motion/lovisdotio-video-to-texture.md) ⚑ | 45 | 2 | 週次 | 6 | 2026-10-27 | 2026-11-09 | 2026-11-09 | MIT |
+| [ComfyUI-InstantHMR — 写真・動画・ライブ人物モーション推定](entries/3d-motion/jtydhr88-comfyui-instanthmr.md) ⚑ | 43 | 9 | 週次 | 19 | 2026-11-08 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
 | [Faltwerk](entries/3d-motion/edrethardo-faltwerk.md) | 36 | 3 | — | 3 | 2026-11-04 | 2026-11-07 | 2026-11-07 | MIT |
 | [GLB Viewer](entries/3d-motion/cullenwebber-glb-viewer.md) ⚑ | 16 | 0 | 毎日 | 22 | 2026-11-04 | 2026-11-08 | 2026-11-09 | none |
 | [VRMkimodo](entries/3d-motion/camenduru-vrmkimodo.md) ⚑ | 15 | 1 | 毎日 | 21 | 2026-11-05 | 2026-11-06 | 2026-11-06 | Apache-2.0 |
 | [VRMExMR](entries/3d-motion/camenduru-vrmexmr.md) ⚑ | 13 | 0 | 毎日 | 39 | 2026-11-05 | 2026-11-06 | 2026-11-06 | 未確認（API は NOASSERTION。ExMR 側の条件を確認） |
 | [Lida-V/LidaAngelToon](entries/3d-motion/lida-v-lidaangeltoon.md) ⚑ | 6 | 0 | 週次 | 13 | 2026-10-17 | 2026-11-09 | 2026-11-09 | NOASSERTION |
 
-### 音声・TTS（22）
+### 音声・TTS（23）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -203,6 +204,7 @@
 | [stable-ts](entries/tts-audio/jianfch-stable-ts.md) | 2,282 | 249 | 停滞 | 0 | 2026-05-30 | 2026-11-07 | 2026-11-07 | MIT |
 | [lowkeytea/scyllasband](entries/tts-audio/lowkeytea-scyllasband.md) ⚑ | 27 | 2 | 週次 | 12 | 2026-11-07 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
 | [adventists-ai/sophon-realtime](entries/tts-audio/adventists-ai-sophon-realtime.md) ⚑ | 12 | 2 | 毎日 | 27 | 2026-11-08 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
+| [muse-irodori-voice — CPUで固有音声を作るIrodoriキット](entries/tts-audio/kgmkm-muse-irodori-voice.md) ⚑ | 8 | 0 | 週次 | 4 | 2026-10-31 | 2026-11-09 | 2026-11-09 | MIT |
 
 ### モデル推論・配信（21）
 
@@ -252,7 +254,7 @@
 | [serenity-stock-choke](entries/finance-quant/fadewalk-serenity-stock-choke.md) | 508 | 56 | 週次 | 4 | 2026-10-06 | 2026-11-05 | 2026-11-07 | MIT |
 | [A-Share Quant Selector](entries/finance-quant/dzy-hw-xd-a-share-quant-selector.md) | 506 | 107 | 停滞 | 0 | 2026-09-08 | 2026-11-05 | 2026-11-07 | MIT |
 
-### コーディングエージェント（14）
+### コーディングエージェント（15）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -270,6 +272,7 @@
 | [oh-my-mermaid（omm）](entries/coding-agent/oh-my-mermaid-oh-my-mermaid.md) | 3,380 | 267 | 停滞 | 0 | 2026-04-07 | 2026-11-05 | 2026-11-05 | MIT |
 | [ppmpreetham/BUI](entries/coding-agent/ppmpreetham-bui.md) ⚑ | 2,223 | 84 | 毎日 | 100+ | 2026-11-08 | 2026-11-09 | 2026-11-09 | GPL-3.0 |
 | [reacher-z/Awesome-REA](entries/coding-agent/reacher-z-awesome-rea.md) ⚑ | 2,112 | 391 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | MIT |
+| [Dual-Brain — 設計とコードの二視点レビュー用スキル](entries/coding-agent/sleeplesshan-dual-brain.md) ⚑ | 101 | 6 | 週次 | 6 | 2026-11-06 | 2026-11-09 | 2026-11-09 | MIT |
 
 ### その他（14）
 
@@ -397,7 +400,67 @@
 - **[Claude Code コミット前検証スキル verify（テスト→差分レビュー→差し戻し）](prompts/coding-agent/claude-code-verify-6df7a29de9.md)** ⚑  Claude Code v2.1.286 以降（.claude/skills/verify/SKILL.md に置くプロジェクトスキル）
   - コミットの直前に、その変更が「意図しない挙動変化」や「データに消える恐れのある変更」を含んでいないかを Claude 自身に確認させ、危険ならコミットさせずに修正へ戻すためのプロジェクトスキル。テストが通ることと、その差分が妥当であることを別々に確かめる点が要点。
 
-## リンク集（75）
+## リンク集（82）
+
+### リンク（作例・インスピレーション）（15）
+
+- **[BestAIBuilder](links/link-inspiration/bestaibuilder-website.md)**  free / BestAIBuilder
+  - AI サイトビルダーを横並びで比較するためのランキングサイト。「同じブリーフで全ツールにサイトを作らせ、craft / speed / control / value で採点した」という前提を掲げ、101ツールを順位付けしている。
+- **[Design Details — Webデザイン参考ライブラリ](links/link-inspiration/designdetails.io.md)** ⚑  Design Details — Webデザイン参考ライブラリ
+  - 実在サイトの全体構成・動き・フォント・配色をまとめて調べる。
+- **[Design Spells](links/link-inspiration/designspells.com.md)** ⚑  Design Spells
+  - 製品にある小さな遊び心・イースターエッグ・動きの事例集。
+- **[Detail — UIの小さな設計判断集](links/link-inspiration/detail.design.md)** ⚑  Detail — UIの小さな設計判断集
+  - UIの細部を設計・操作・動き・文章・アクセシビリティの観点から調べる。
+- **[Greg1（@greg13e）— 実在の群集映像にAIキャラを1体だけ合成するTikTokアカウント](links/link-inspiration/tiktok.com-greg1-greg13e-ai-1-tiktok.md)** ⚑  free / TikTok @greg13e（紹介したX投稿は @Y0urDumble）
+  - 実在の場所・実在の群集が写る映像に、AIで作ったキャラクターを1体だけ合成し、その場に居合わせたように見せるショート動画フォーマットの実例。生成モデルの手順書ではなく、完成して回っている運用アカウントを観察するための参照先として使う。
+- **[Inspora](links/link-inspiration/inspora-design.md)**  Inspora
+  - 最近のビジュアルデザイン／クリエイティブワークを厳選して並べる作例アーカイブ。Web、ブランディング、プロダクト、モーション、イラスト、3D、印刷までを1つのブラウズ形式で扱う。
+- **[Land-book](links/link-inspiration/https-land-book.com.md)** ⚑  @abir35627
+  - ランディングページの視覚的な参考例を探すデザインギャラリーLand-book。
+- **[Landdding](links/link-inspiration/landdding-com.md)** ⚑  Landdding
+  - ランディングページの作例を毎日／毎週キュレーションするギャラリー。デザインの参考を探す用途。
+- **[Launch Videos Gallery](links/link-inspiration/launchvideos-gallery.md)**  free / Launch Videos Gallery
+  - X 上で共有されたプロダクトローンチ動画を日次で集めた作例ギャラリー。ローンチ動画の構成や演出を参考にするためのもの。
+- **[Ripplix](links/link-inspiration/ripplix.com.md)** ⚑  freemium / Ripplix
+  - 実在アプリのUIアニメーションから、動きと再現指示を学ぶ。
+- **[Scrolltide](links/link-inspiration/scrolltide-co.md)**  paid / Scrolltide
+  - スクロールに連動して動く「シネマティックなWebサイト」を作るための、プロンプトとテンプレートのライブラリ。プロンプトをコピーして AI（Claude / Cursor / Codex など）に貼り、サイトを生成させる使い方を想定している。
+- **[Supahero](links/link-inspiration/supahero-io.md)**  free / Supahero
+  - Web サイトのファーストビュー（ヒーローセクション）だけを集めた作例ライブラリ。
+- **[The Internet Designs](links/link-inspiration/theinternetdesigns-com.md)**  free / The Internet Designs
+  - X（Twitter）と Pinterest に投稿された UI デザインを収集・索引化し、デザインの参考として引けるようにする。ポストの「find beautifully designed websites」に対応する。
+- **[recent.design](links/link-inspiration/https-recent.design.md)** ⚑  @abir35627
+  - Web・ブランド・モーション・印刷の作例と求人を掲載するrecent.design。
+- **[uilabs — 動きのあるUI部品集](links/link-inspiration/uilabs.dev.md)** ⚑  uilabs — 動きのあるUI部品集
+  - React UIの操作とモーションの実装例を調べる小さな部品集。
+
+### リンク（素材・アイコン・3D）（12）
+
+- **[AI Camera Movements（カメラワーク46種のプロンプト）](links/link-asset/aicameramovements-com.md)**  free / aicameramovements.com
+  - AI 動画の「カメラが止まって見える」問題を、動きの名前と定型プロンプトで解決する。動きの違いを並べて比較してから選べる。
+- **[Edmond キャラクター三面図（AIペルソナ用ターンアラウンド）](links/link-asset/x.com-edmond-ai.md)** ⚑  free / @Y0urDumble
+  - AIで作った人物を毎回同じ見た目でショート動画に出すための、参照画像（キャラクターシート）の実例。1枚の中に全身の向きと顔の寄りを揃えてあり、画像生成・動画生成モデルに「この人物」を渡すときの入力として使う。
+- **[Melies 撮影技法ライブラリ（424種）](links/link-asset/melies-co-cinematic-techniques.md)**  Melies
+  - AI 動画のプロンプトに「映画の語彙」を持ち込むための事典。技法名から入って、意味・作例・そのまま使えるプロンプトを引く。
+- **[Mio's Pose Designs Vol. 11](links/link-asset/mio-pose-designs-vol11.md)**  free / @Mio_2am
+  - 座位・横臥のポーズを9種類まとめた作画資料。画像生成AIのポーズ指定、ControlNet・LoRA の参照セット、絵コンテの下敷きなど、人体の姿勢を固定したいときに使う。
+- **[PLATEAU 5都市GLB 797タイル](links/link-asset/https-huggingface.co-datasets-codepawl-plateau-city-glb.md)** ⚑  @bei351009016
+  - PLATEAUの東京23区・大阪・横浜・名古屋・札幌の中心部をGLBへ変換した3D都市素材。
+- **[Polyfork](links/link-asset/https-polyfork.dev.md)** ⚑  @Shoonee27
+  - GLBと再構築可能なESモジュールでlow-poly3Dモデルを提供するPolyfork。検索・CLI・キー不要MCPを案内。
+- **[TailSteer-Source](links/link-asset/https-huggingface.co-datasets-lyricccco-tailsteer-source.md)** ⚑  @cutetoxicguy
+  - TailSteer学習に使う元画像とtrajectory requestのデータセット。
+- **[TextureLabs](links/link-asset/texturelabs-org.md)**  free / TextureLabs
+  - アート・デザイン向けの**無料テクスチャ素材庫**。壁・レンガ・コンクリート・金属・紙・空・土・水・布・フィルム・グランジなど、カテゴリ別に数千点を公開している。画像生成の背景素材、3Dのマテリアル、映像のオーバーレイ、合成の下地などに使う。
+- **[The Bomi Berzina AI Character Shorts Playbook](links/link-asset/bomiberzina.com-the-bomi-berzina-ai-character-shorts-playbook.md)** ⚑  paid / Bomi Berzina（bomiberzina.com）
+  - AI生成キャラクターを1体作り、そのキャラクターを毎回同じ見た目でショート動画に出演させ続けるための有料PDF手順書。動画の元ネタ探し→キャラクターの差し替え→書き出し→投稿までを17ステップに区切っている。
+- **[Wonderlist](links/link-asset/wonderlist-design.md)**  paid / Wonderlist
+  - Figma 形式の Web サイトデザイン集を買い切りで販売する。デザイナー／開発者が一から設計せずにサイトを立ち上げるための素材。
+- **[useAnimations — 動くアイコン300点](links/link-asset/useanimations.com.md)** ⚑  free / useAnimations — 動くアイコン300点
+  - ホバー・クリック・ループのフィードバックをUIへ組み込むアイコン素材。
+- **[背景ガチャ（九龍城砦セット＋パース補助線）](links/link-asset/tools.oyasumi-gamedev.com-haikeigacha.md)** ⚑  free / おやすみゲーム開発部（MIYADAIKU）
+  - 漫画・イラストの背景を、ブラウザ上で部品を組み合わせて作る無料ツール。3Dモデリングなしで、部屋・建物・街並みのラフを作る。
 
 ### リンク（サービス・ツール）（12）
 
@@ -426,31 +489,6 @@
 - **[treg REA growth](links/link-service/treg.to-treg-rea-growth.md)** ⚑  freemium / superdesigndev（Superdesign Dev Pty Ltd）
   - treg.to は「エージェント向けツールの OpenRouter」を名乗る従量課金の API ゲートウェイ。1 つのトークンで 126 プロバイダ・4,100+ のツール（SEO/SERP、被リンク、SNS 投稿、人物・企業情報、広告ライブラリ、スクレイピング、画像/動画/音声生成）を、プロバイダごとの契約なしで呼べ
 
-### リンク（素材・アイコン・3D）（11）
-
-- **[AI Camera Movements（カメラワーク46種のプロンプト）](links/link-asset/aicameramovements-com.md)**  free / aicameramovements.com
-  - AI 動画の「カメラが止まって見える」問題を、動きの名前と定型プロンプトで解決する。動きの違いを並べて比較してから選べる。
-- **[Edmond キャラクター三面図（AIペルソナ用ターンアラウンド）](links/link-asset/x.com-edmond-ai.md)** ⚑  free / @Y0urDumble
-  - AIで作った人物を毎回同じ見た目でショート動画に出すための、参照画像（キャラクターシート）の実例。1枚の中に全身の向きと顔の寄りを揃えてあり、画像生成・動画生成モデルに「この人物」を渡すときの入力として使う。
-- **[Melies 撮影技法ライブラリ（424種）](links/link-asset/melies-co-cinematic-techniques.md)**  Melies
-  - AI 動画のプロンプトに「映画の語彙」を持ち込むための事典。技法名から入って、意味・作例・そのまま使えるプロンプトを引く。
-- **[Mio's Pose Designs Vol. 11](links/link-asset/mio-pose-designs-vol11.md)**  free / @Mio_2am
-  - 座位・横臥のポーズを9種類まとめた作画資料。画像生成AIのポーズ指定、ControlNet・LoRA の参照セット、絵コンテの下敷きなど、人体の姿勢を固定したいときに使う。
-- **[PLATEAU 5都市GLB 797タイル](links/link-asset/https-huggingface.co-datasets-codepawl-plateau-city-glb.md)** ⚑  @bei351009016
-  - PLATEAUの東京23区・大阪・横浜・名古屋・札幌の中心部をGLBへ変換した3D都市素材。
-- **[Polyfork](links/link-asset/https-polyfork.dev.md)** ⚑  @Shoonee27
-  - GLBと再構築可能なESモジュールでlow-poly3Dモデルを提供するPolyfork。検索・CLI・キー不要MCPを案内。
-- **[TailSteer-Source](links/link-asset/https-huggingface.co-datasets-lyricccco-tailsteer-source.md)** ⚑  @cutetoxicguy
-  - TailSteer学習に使う元画像とtrajectory requestのデータセット。
-- **[TextureLabs](links/link-asset/texturelabs-org.md)**  free / TextureLabs
-  - アート・デザイン向けの**無料テクスチャ素材庫**。壁・レンガ・コンクリート・金属・紙・空・土・水・布・フィルム・グランジなど、カテゴリ別に数千点を公開している。画像生成の背景素材、3Dのマテリアル、映像のオーバーレイ、合成の下地などに使う。
-- **[The Bomi Berzina AI Character Shorts Playbook](links/link-asset/bomiberzina.com-the-bomi-berzina-ai-character-shorts-playbook.md)** ⚑  paid / Bomi Berzina（bomiberzina.com）
-  - AI生成キャラクターを1体作り、そのキャラクターを毎回同じ見た目でショート動画に出演させ続けるための有料PDF手順書。動画の元ネタ探し→キャラクターの差し替え→書き出し→投稿までを17ステップに区切っている。
-- **[Wonderlist](links/link-asset/wonderlist-design.md)**  paid / Wonderlist
-  - Figma 形式の Web サイトデザイン集を買い切りで販売する。デザイナー／開発者が一から設計せずにサイトを立ち上げるための素材。
-- **[背景ガチャ（九龍城砦セット＋パース補助線）](links/link-asset/tools.oyasumi-gamedev.com-haikeigacha.md)** ⚑  free / おやすみゲーム開発部（MIYADAIKU）
-  - 漫画・イラストの背景を、ブラウザ上で部品を組み合わせて作る無料ツール。3Dモデリングなしで、部屋・建物・街並みのラフを作る。
-
 ### エージェント基盤・スキル集（10）
 
 - **[Billable Hours Bot](links/agent-framework/https-x.ai-bot-tlgfui0v3nxxmommdvgvr.md)** ⚑  @naka_1717
@@ -474,30 +512,7 @@
 - **[WhatsApper](links/agent-framework/https-x.ai-bot-lr1qqk4csgtz127njppq2.md)** ⚑  @naka_1717
   - 2026-11-09取得の第三者ボット配布ページの説明: WhatsAppのチャットとグループを読み、利用者の口調でメッセージを下書きし、正確な本文を承認した後だけ送ると配布ページに記載。
 
-### リンク（作例・インスピレーション）（10）
-
-- **[BestAIBuilder](links/link-inspiration/bestaibuilder-website.md)**  free / BestAIBuilder
-  - AI サイトビルダーを横並びで比較するためのランキングサイト。「同じブリーフで全ツールにサイトを作らせ、craft / speed / control / value で採点した」という前提を掲げ、101ツールを順位付けしている。
-- **[Greg1（@greg13e）— 実在の群集映像にAIキャラを1体だけ合成するTikTokアカウント](links/link-inspiration/tiktok.com-greg1-greg13e-ai-1-tiktok.md)** ⚑  free / TikTok @greg13e（紹介したX投稿は @Y0urDumble）
-  - 実在の場所・実在の群集が写る映像に、AIで作ったキャラクターを1体だけ合成し、その場に居合わせたように見せるショート動画フォーマットの実例。生成モデルの手順書ではなく、完成して回っている運用アカウントを観察するための参照先として使う。
-- **[Inspora](links/link-inspiration/inspora-design.md)**  Inspora
-  - 最近のビジュアルデザイン／クリエイティブワークを厳選して並べる作例アーカイブ。Web、ブランディング、プロダクト、モーション、イラスト、3D、印刷までを1つのブラウズ形式で扱う。
-- **[Land-book](links/link-inspiration/https-land-book.com.md)** ⚑  @abir35627
-  - ランディングページの視覚的な参考例を探すデザインギャラリーLand-book。
-- **[Landdding](links/link-inspiration/landdding-com.md)** ⚑  Landdding
-  - ランディングページの作例を毎日／毎週キュレーションするギャラリー。デザインの参考を探す用途。
-- **[Launch Videos Gallery](links/link-inspiration/launchvideos-gallery.md)**  free / Launch Videos Gallery
-  - X 上で共有されたプロダクトローンチ動画を日次で集めた作例ギャラリー。ローンチ動画の構成や演出を参考にするためのもの。
-- **[Scrolltide](links/link-inspiration/scrolltide-co.md)**  paid / Scrolltide
-  - スクロールに連動して動く「シネマティックなWebサイト」を作るための、プロンプトとテンプレートのライブラリ。プロンプトをコピーして AI（Claude / Cursor / Codex など）に貼り、サイトを生成させる使い方を想定している。
-- **[Supahero](links/link-inspiration/supahero-io.md)**  free / Supahero
-  - Web サイトのファーストビュー（ヒーローセクション）だけを集めた作例ライブラリ。
-- **[The Internet Designs](links/link-inspiration/theinternetdesigns-com.md)**  free / The Internet Designs
-  - X（Twitter）と Pinterest に投稿された UI デザインを収集・索引化し、デザインの参考として引けるようにする。ポストの「find beautifully designed websites」に対応する。
-- **[recent.design](links/link-inspiration/https-recent.design.md)** ⚑  @abir35627
-  - Web・ブランド・モーション・印刷の作例と求人を掲載するrecent.design。
-
-### 3D・モーション（8）
+### 3D・モーション（9）
 
 - **[1枚絵からローカル3D空間を生成するデモ（LUCIAN）](links/3d-motion/lucianlamp-1image-3d-demo.md)** ⚑  @lucianlamp
   - 1枚の画像を入力に、歩けるローカル3D空間を生成するデモ。ゲーム・映像向けのシーン試作を、モデリングなしで行う発想の例。
@@ -511,6 +526,8 @@
   - ゲームやアバターの髪を作る「ヘアカード」(アーティストが配置するリボン状メッシュ) を、キャラクター画像1枚から自動生成する研究プロジェクト。
 - **[ISO-GLOW](links/3d-motion/isoglow.dev-iso-glow.md)** ⚑  free
   - テキストで指示した物体・デバイス・建物を、細線の等角投影（アイソメトリック）イラスト1枚のHTMLとして生成するClaudeスキル。点灯している部分だけが発光し、押せる部品は実際に反応する。3Dを指定すると同じ見た目をthree.jsで構築し、視点を回せるようにする。
+- **[SHOT OF THE DEAD — ブラウザ3Dプリビズ](links/3d-motion/shotofthedead.com-shot-of-the-dead.md)** ⚑  freemium / SHOT OF THE DEAD — ブラウザ3Dプリビズ
+  - 最終動画を生成する前に、3D上で人物・小物・レンズ・カメラ移動とカット構成を設計する。
 - **[Sand3D (sand3d)](links/3d-motion/sandflow.ai-sand3d-sand3d.md)**  free / Sandflow (Sandflow-ai)
   - 3D 形状を「部品ごとの短い Python プログラム」として記述するためのライブラリ。座標を手計算せず、名前付きの部品・辺・面を操作するので、LLM が数百トークンで物体を書き、人間がそのまま読める。
 - **[TailorRig](links/3d-motion/xxxx0601.github.io-tailorrig.md)** ⚑  free / Tencent LIGHTSPEED＋清華大学（Chen Yajing ほか8名）
@@ -718,7 +735,7 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（50）
+## 記事（51）
 
 ### 動画生成パイプライン（12）
 
@@ -757,19 +774,20 @@
 - **[Solvaix MEP・Claude間取り図からの設計事例](articles/2026-11-09-https-x.com-taziku_co-status-2119267211206635743.md)** ⚑  @taziku_co
 - **[白素体とプロンプトの同時変更による3方向比較（記事54）](articles/2026-11-09-https-make-profit.net-2026-11-06-genai-lab-54-blender-mixamo-h3-soft-body-mannequin-three-angles-regenerated.md)** ⚑  @Phantom_202601
 
+### 音声・TTS（5）
+
+- **[Museで既存動画へ声を付ける制作メモ（18+注意）](articles/2026-11-09-memuringo7544-muse-video-voiceover.md)** ⚑  @memuringo7544
+- **[Muse・無料GPUによるYuE2実行手順（本文未取得）](articles/2026-11-09-https-x.com-i-article-2118941631386996736.md)** ⚑  @Eris_Create_Lab
+- **[Muse内Irodori音声ライブラリ制作事例](articles/2026-11-09-https-x.com-memuringo7544-status-2118972621866012726.md)** ⚑  @memuringo7544
+- **[成人向けSEライブラリの分類・検索UI制作事例](articles/2026-11-09-https-x.com-de_nier_ai-status-2119342412611068332.md)** ⚑  @memuringo7544
+- **[音声を短文分割生成し接合部を調整する運用メモ](articles/2026-11-09-topic-ai_1610-audio-segment-join.md)** ⚑  @ai_1610
+
 ### 画像生成・編集（4）
 
 - **[ChatGPT Images 2.6 GIFと参照画像登録の解説](articles/2026-11-09-https-x.com-midori_tatsuta-status-2119030202315743254.md)** ⚑  @midori_tatsuta
 - **[Image Orchestrator 画像解析・ComfyUI再現探索アプリの制作事例](articles/2026-11-09-https-x.com-proto_jp-status-2119037274721866066.md)** ⚑  @proto_jp
 - **[P-H3の成人向け利用レポート（18+）](articles/2026-11-08-taki_auto-p-h3-adult-report.md)** ⚑  @taki_auto
 - **[totaku_originalのビジュアル完成度を高める制作手順](articles/2026-11-09-https-x.com-i-article-2118242706573135872.md)** ⚑  @shun_cmdouga
-
-### 音声・TTS（4）
-
-- **[Muse・無料GPUによるYuE2実行手順（本文未取得）](articles/2026-11-09-https-x.com-i-article-2118941631386996736.md)** ⚑  @Eris_Create_Lab
-- **[Muse内Irodori音声ライブラリ制作事例](articles/2026-11-09-https-x.com-memuringo7544-status-2118972621866012726.md)** ⚑  @memuringo7544
-- **[成人向けSEライブラリの分類・検索UI制作事例](articles/2026-11-09-https-x.com-de_nier_ai-status-2119342412611068332.md)** ⚑  @memuringo7544
-- **[音声を短文分割生成し接合部を調整する運用メモ](articles/2026-11-09-topic-ai_1610-audio-segment-join.md)** ⚑  @ai_1610
 
 ### エージェント基盤・スキル集（3）
 
@@ -822,6 +840,7 @@
 - [shinshin86/aituber-onair](entries/3d-motion/shinshin86-aituber-onair.md) — unverified / 投稿の10種とページ9種は不一致。APIキーはlocalStorage平文、Live2DはCubism Core手動配置。公開オリジンへそのまま配備非推奨で各素材ライセンスも別。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Lida-V/3DCharaMakeSkills-Lida](entries/3d-motion/lida-v-3dcharamakeskills-lida.md) — unverified / Lida Attribution License1.0は商用・改変・組込み・再配布を許すが再配布時は出典保持。制作物へのクレジットは不要という原チェック記録。外部API費用は別。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [lovisdotio/video-to-texture](entries/3d-motion/lovisdotio-video-to-texture.md) — unverified / 4096²・120フレームを55.8秒等は作者申告。SfM不要でも元メッシュ・既知カメラ・有料生成が必要で、ゼロ費用ではない。 当方でインストール・推論・生成・ベンチ再現はしていない。
+- [ComfyUI-InstantHMR — 写真・動画・ライブ人物モーション推定](entries/3d-motion/jtydhr88-comfyui-instanthmr.md) — unverified / コードはApache-2.0だが重みはSAM License。nano/tiny/small/mediumは追加で非商用限定。商用用途はmedium_commercialを選びSAM条件を確認する。投稿の約2.5ms/人・40fps超は作者の報告で測定条件やエンドツーエンド性能を当方は再現していない。 当方でインストール・動作・性能の実行検証はしていない。
 - [GLB Viewer](entries/3d-motion/cullenwebber-glb-viewer.md) — unverified / LICENSEファイルが404で、明示ライセンスなし（all rights reserved）。ソースは公開されているが、再配布・商用利用の許諾は不明。配布はmacOSのDMGのみ（arm64/x64、Apple公証なし→初回はOpen Anywayかxattr -cr）。Windows/Linuxのビルド手順はREADMEになく、Windows 11環境ではそのまま動かせない。16 starsの若いプロジェクトで、AI機能はない。DMG未ダウンロード・未起動（READMEとリポジトリ構成のみ確認）。
 - [VRMkimodo](entries/3d-motion/camenduru-vrmkimodo.md) — unverified / 上流 nv-tlabs/kimodo のフォークで、独自追加は kimodo/exports/vrma.py のみ（README/CHANGELOG は上流と同一、CLI・デモからは未接続）。.vrma 書き出しはコード読解のみで実行検証していない。コードは Apache-2.0 だがモデル重みは NVIDIA Open Model License。ローカル生成には約17GB VRAM が必要。
 - [VRMExMR](entries/3d-motion/camenduru-vrmexmr.md) — unverified / ライセンス表記がなく、ExMR 側の利用条件（研究用か商用可か）を一次情報で確認できていない。商用利用の前に必ず確認する。
@@ -836,6 +855,7 @@
 - [Muse×Blender×PLATEAUで作る「日本の名所」3D化リスト](articles/2026-11-07-29meat_ai-muse-blender-plateau.md) — low-quality, unverified / 新規ツール・モデルの提示ではなく、既知の Muse（Metaの個人向けAIエージェント、2026年9月発表）と Blender、国土交通省 PLATEAU を組み合わせた制作ノウハウの一覧。投稿にMuseの一次リンクはない。地名リストと『主役は手作り＋周囲は実データ』という方針は妥当だが、PLATEAUの建物詳細度・収録範囲は地域により異なる。数値・制作時間の検証は無い。引用元は自分の過去作例、会話欄は第三者の作例＋無関係な広告が中心。
 - [Muse・Blender・PLATEAUの大阪城制作実例と生成破綻](articles/2026-11-09-topic-noel_ai_lab-osaka-castle-muse-plateau.md) — unverified / 天守閣が二つに増える生成破綻が見られた。30秒という生成時間は投稿者の申告。PLATEAUデータの出典表示・加工明示が必要。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [SAM 3.1・SAM 3D Bodyの複数人モーション制作例](articles/2026-11-09-https-x.com-l_arch_01-status-2119383964167409667.md) — unverified / 配布元の独自SAM Licenseと手動承認ゲート、元映像の人物の同意・プライバシーに注意。UI比較映像は精度・一貫性の独立測定ではない。 当方でインストール・推論・生成・ベンチ再現はしていない。
+- [SHOT OF THE DEAD — ブラウザ3Dプリビズ](links/3d-motion/shotofthedead.com-shot-of-the-dead.md) — unverified / macOS/WindowsのChrome対象。Safari/Firefox非対応、他Chromiumは未検証。最終AI動画は外部モデルで生成する。投稿の12月10日までのPro特典、25ドル割引・コードLOOPYは投稿者の案内で、今回有効性を確認していない。 当方では導入・生成・操作の実行検証をしていない。
 - [Solvaix MEP・Claude間取り図からの設計事例](articles/2026-11-09-https-x.com-taziku_co-status-2119267211206635743.md) — unverified / 件数はSolvaixの自己申告で独立検証なし。建築・設備の法令/構造/安全審査をAIや案数だけで代替できない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [TailorRig](links/3d-motion/xxxx0601.github.io-tailorrig.md) — unverified / SIGGRAPH Asia 2026 の to appear 論文で、プロジェクトページにはアニメーションと3Dビューアのデモしかない。コード・重み・モデルカードは無く、引用元も『Code ボタンは今は何も動かない』と明記している。GitHubリポジトリは見つからない。したがって現時点では再現・実行ができず、数値・品質は論文とデモに依存する。投稿本体は引用RTの感想2行で、著者本人の解説ではない。
 - [facebook/sam-3d-body-dinov3](models/3d-motion/facebook-sam-3d-body-dinov3.md) — unverified / 独自SAM Licenseの条件と人物の権利を確認する。SAM3.1の分割モデルとは別であり、映像全体のモーション品質は単独重みの保証ではない。 当方でインストール・推論・生成・ベンチ再現はしていない。
@@ -893,6 +913,7 @@
 - [pstack-claude](entries/coding-agent/michael-denyer-pstack-claude.md) — unverified / 投稿の media は対象と無関係な日本語ニュース系の転載（静止画は著名人のポートレートで、リポジトリやAIツールの内容を含まない）。動画 mp4 は vision で内容を確認できないため評価に使っていない。effectiveness は README の記述＝作者の主張で、第三者による効果測定は公開されていない。Codex / Copilot / Pi などの対応は各ランタイム向けマッピングと synthetic provider のスモークテストに基づく自己申告で、実モデルの遵守は一部しか確認されていないと docs/reference.md に注記がある。
 - [ppmpreetham/BUI](entries/coding-agent/ppmpreetham-bui.md) — unverified / 即時モードではなく一つのノードツリーを保持する方式。IME・スクリーンリーダー未対応。GPL-3.0-or-laterで組込み配布の条件に注意。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [reacher-z/Awesome-REA](entries/coding-agent/reacher-z-awesome-rea.md) — unverified / indexed repos3309は自動収集で未レビュー。数の多さや公開索引を各項目の安全性・有用性の保証としない。 当方でインストール・推論・生成・ベンチ再現はしていない。
+- [Dual-Brain — 設計とコードの二視点レビュー用スキル](entries/coding-agent/sleeplesshan-dual-brain.md) — unverified / MIT。投稿のMS関連社内ハッカソンでAI審査員から満点という説明は作者の自己申告で、公式採点記録・Microsoftの推薦や認証を確認したものではない。READMEは旧5事例ベンチの比較条件・トークン二重計上に問題があり旧総数を撤回と明記。普遍的な性能改善や低遅延は保証しない。 当方でインストール・動作・性能の実行検証はしていない。
 - [ApiiroによるClaude Code settings.local.json資格情報漏洩調査](articles/2026-11-09-https-x.com-yoppy0123-status-2119219945179603110.md) — unverified / global gitignore追加だけでは既追跡や後からrepo化したケースを守れない。漏洩時は履歴削除だけでなくまず鍵を失効・ローテーション。実資格情報は転載しない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Claude Code コミット前検証スキル verify（テスト→差分レビュー→差し戻し）](prompts/coding-agent/claude-code-verify-6df7a29de9.md) — unverified / 同梱の /verify とコミット前実行の仕様は code.claude.com の公式ドキュメントで確認できた。一方、Voxyz_ai が配布する SKILL.md の実ファイル（GitHub / gist）は発見できず、画像は SKILL.md 本文そのものではなく手順を図解したインフォグラフィック。そのため frontmatter や実行コマンドの具体、原文の正確な文言は未確認（unverified）。「OpenAI のレビュー基準」は OpenAI の公式文書ではなく、レビュー観点の通称とみられる。スキルはモデルへの指示であり、実行を強制するものではない。
 - [Claude Code サブエージェントを1ファイルで定義し、報告を短く縛る](articles/2026-10-22-0xbobaaa-sumika45379-claude-code-1.md) — unverified, dead-link / 元ポスト（@0xbobaaa, https://x.com/0xbobaaa/status/2107892817292939588）は 2026-11-08 時点で HTTP 404、Wayback のスナップショットもなく、原文の定義ファイルと実測値は確認できない。「3体で合計32万7千トークン」「親に戻ったのは報告3本」は紹介投稿による要約で、独立した検証はない。「返事は5行まで」の縛りが出力をどれだけ減らすかも未測定。一方、定義ファイルの書式・別コンテキストでの実行・利用上限への計上は公式ドキュメントで確認済み。候補に添付されていた画像（HWWvkhaa4AAPVqD.jpg）は stageshow スキルの紹介画像で本件とは無関係。
@@ -933,11 +954,17 @@
 - [Polyfork](links/link-asset/https-polyfork.dev.md) — unverified / メッシュはCC BY4.0またはPolyfork licenceの選択。帰属不要側は再配布不可、mjs/HDは別条件。Pro月15ドル等は原チェック時で現在未確認。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [TailSteer-Source](links/link-asset/https-huggingface.co-datasets-lyricccco-tailsteer-source.md) — unverified / 元画像と派生データの利用・再配布条件を分けて確認する。モデル重みではなくデータセットであり品質・権利を一括保証しない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [The Bomi Berzina AI Character Shorts Playbook](links/link-asset/bomiberzina.com-the-bomi-berzina-ai-character-shorts-playbook.md) — unverified / 投稿の「10日で$13K」「10.6M再生」「最大5.6M」は投稿者自身の推計であり一次情報で確認していない。今回実測できたのは TikTok プロフィールの 23.6K フォロワー / 539.7K いいね / 13本（2026-11-08時点、レンダリング取得）で、個別動画の再生数は TikTok の WAF とログイン要求で取得できず未確認。Instagram は HTTP 200 だがログインウォールでプロフィールを読めない。価格 $9.99 は販売ページの表示と JSON-LD で確認し、Stripe の live セッションも実際に発行された（303）が、Stripe ページの金額は JS レンダリングで HTML から読めず、決済額そのものは未確認。PDF 本文は有料で、無料公開のプレビューは2ページ分（02, 04）のみ。17ステップのうち確認できたのは 01, 02, 05, 06, 07, 08 の6ステップとプロンプト2本（キャラクターシート用、Genjutsu の Object Swap 用）だけで、残り11ステップと残りのプロンプト本文は未確認。返金は商品ページに30日と明記されているが、リンク先の規約・返金ページ（smashcourses.com）は汎用文面で Bomi 商品を名指ししておらず、連絡先も商品ページは zenithlawassociates@gmail.com、規約ページは service@officeofagents.com で一致しない。手順06は他者のバイラル動画を第三者のダウンローダー（ytshortsdl.com / snaptik / igexport）で保存しキャラクターを差し替えるよう指示しており、著作権と各SNSの規約上のリスクがある。Jean Phil など他者キャラクターの世界観に便乗する手法も権利面で要注意。同一ドメインのルート https://bomiberzina.com は未発行の Solana ミームコイン「$BB」のプレローンチページ（価格 'Soon'、'CA DROPS AT LAUNCH'）で、ブランドがトークン販売と結び付いている点は別種の高リスクとして扱う。
+- [useAnimations — 動くアイコン300点](links/link-asset/useanimations.com.md) — unverified / 素材を再配布する場合はMITの著作権・許諾表示を保持する。サイトへのクレジットは任意だがライセンス表示義務とは別。全アイコンの表示やSSR動作は当方未試験。 当方では導入・生成・操作の実行検証をしていない。
 - [背景ガチャ（九龍城砦セット＋パース補助線）](links/link-asset/tools.oyasumi-gamedev.com-haikeigacha.md) — unverified / AIツールではなく、家具900以上をプログラムで組み合わせる手続き型の背景ジェネレータ（公式の仕組み解説に明記）。開発時のAI利用はClaude Codeのみ。部屋150種類以上に住宅・学校・洋館・中世の城・教会・九龍城砦のセットを追加。パース補助線は書き出しの『下絵（なぞる用）』でアイレベル線・パース補助線・消失点を別レイヤーに分離し、PSDはパースフォルダ内の各レイヤー、SVGは別ファイル、vp.txtに座標を出力する。ブラウザ完結・外部送信なし。β版で、版が上がると同seedでも部屋の作りが変わり得る。書き出し品質・PSDレイヤー構成は未確認（ブラウザツールのため実行検証は未実施）。
+- [Design Details — Webデザイン参考ライブラリ](links/link-inspiration/designdetails.io.md) — unverified / 投稿の業界17分類という件数は今回は全分類を数えていない。AIへの参考利用と元サイトの素材・ブランドの複製許可は別。 当方では導入・生成・操作の実行検証をしていない。
+- [Design Spells](links/link-inspiration/designspells.com.md) — unverified / 通番は今回確認した表示であり、全件の重複排除済み件数ではない。収録製品の映像やUIを自由転載できる意味ではない。 当方では導入・生成・操作の実行検証をしていない。
+- [Detail — UIの小さな設計判断集](links/link-inspiration/detail.design.md) — unverified / 見た目だけでなく操作性・アクセシビリティの参考資料。公開閲覧可能であることは無条件の転載許諾を意味しない。 当方では導入・生成・操作の実行検証をしていない。
 - [Greg1（@greg13e）— 実在の群集映像にAIキャラを1体だけ合成するTikTokアカウント](links/link-inspiration/tiktok.com-greg1-greg13e-ai-1-tiktok.md) — unverified / 【主張と実測の差】投稿の「13本で19M再生／最大13.2M／フォロワー19.3K／いいね1.6M」は、作者が添付したTikTokプロフィールのスクリーンショットが唯一の出所。アカウント自体は実在し（creator oembed 200、プロフィール200、表示名 Greg1・bio一致）、2026-11-08実測は50.2Kフォロワー／5.8Mいいね／88本。だが実際に取得できた直近6本の再生数は8.8M・5.3M・193.9K・189.3K・90.7K・48.6K（合計14.62M）で、13.2Mの動画も「5本で19M」も再現できていない（88本分の再生数一覧はTikTokのAPIが返さず未取得）。「Gregは13本だけ」は現在の総本数88本と食い違うが、複数キャラを回す運用の説明とは矛盾しない（内訳は未確認）。【収益】$5,700は著者自身の「$0.30/1,000再生 × 19M」の掛け算で、支払額の実測ではない。【zero humans on camera】画面に写る群集は実在の人物で、この表現は不正確。【制作】生成モデル・編集手順・使用ツールは投稿にもアカウントにも書かれていない。三面図は1200x1200・文字/透かし/EXIFなしで、角度間でシャツ柄のスケール・ウォレットチェーン・紫の差し色が一致せず生成物と判断。動画は720x1280/27.79秒で、抜き出したフレームには接地影の欠落・脚の二重化・靴の半透明・頭部の紫ハロー・前景だけ照明と解像感が合わない等の合成痕があり、AI生成表示の有無は未確認。【権利】実在の人物が写る群集映像を切り抜いて使っており、写り込んだ人・撮影者・場所の利用許諾は不明。
 - [Land-book](links/link-inspiration/https-land-book.com.md) — unverified / 一覧にあることをAI機能の存在や商用コピーの許諾に読み替えない。現行料金・有料機能・転載条件は未確認。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Landdding](links/link-inspiration/landdding-com.md) — unverified / 一覧の掲載は個別機能の実行確認ではない。 今回の動作・推論・生成・性能は未検証。
+- [Ripplix](links/link-inspiration/ripplix.com.md) — unverified / 件数と80–90%再現という表現はサイト側の主張で、全件数や生成品質は未検証。参照動画の転載権と、コードを自作することは別。 当方では導入・生成・操作の実行検証をしていない。
 - [recent.design](links/link-inspiration/https-recent.design.md) — unverified / 各作例の模倣・再配布は別途権利確認が必要。現在の有料条件と利用規約は未確認。 当方でインストール・推論・生成・ベンチ再現はしていない。
+- [uilabs — 動きのあるUI部品集](links/link-inspiration/uilabs.dev.md) — unverified / 投稿の12部品という総数は今回独立に数えていない。コードをプロジェクトに組み込む前に各部品の配布・利用条件を確認する。 当方では導入・生成・操作の実行検証をしていない。
 - [Aura](links/link-service/aura.build-aura.md) — unverified / 未確認: (1) MCPのツール一覧・レート制限・1操作あたりのプロンプト消費量は、Auraアカウントなしではtools/listを取得できず未確認（未認証は401のみ確認）。(2) 公開REST API/CLIの有無は公式文書で確認できず、api.aura.build はサイトと同じHTMLを返すだけ。(3) テンプレート/コンポーネント/アセット数はページ間で記述が食い違う（料金ページFAQ: 5,000+テンプレート・2,800+コンポーネント・30,000+アセット、learn/introduction: 1000+テンプレート・1400+コンポーネント・20,000+アセット）ため数値は採用しない。(4) 月払い価格は料金ページのプラン設定（配信JSバンドル）から取得し、年払い額はページ表示のプロモ価格。年払い50%オフは期間限定表示で終了時期は不明。(5) MCPエンドポイントは初回probeで401を確認したが、再試行時に25秒タイムアウトした（一時的な可能性）。生成品質・出力の再現性は実生成していないため未評価。
 - [CompShare（優云智算）](links/link-service/compshare.cn-compshare.md) — unverified / GPU の無料枠・トライアルの有無、本人確認（実名認証）の要否、表示価格の税込/税抜は未確認。対象URLには referral_code と ytag のアフィリエイト用パラメータが付いており、エントリでは正規URL（https://www.compshare.cn/）を使う。コミュニティイメージは作成者が乌兰察布(cn-wlcb-01)の RTX4090 のみで検証済みと明記。210GB のイメージ取得とストレージ課金が別途発生する。
 - [Jasper](links/link-service/https-www.jasper.ai.md) — unverified / 無料紹介URLの不達をサービス全体の不存在とは扱わない。現行価格・無料提供・利用条件は未確認。 当方でインストール・推論・生成・ベンチ再現はしていない。
@@ -1015,6 +1042,8 @@
 - [umlx5h/LLPlayer](entries/tts-audio/umlx5h-llplayer.md) — unverified / Beta版で設定互換性が変わる可能性。ASR/OCRはローカルだが翻訳はエンジンによってクラウド送信・API費用が生じる。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [lowkeytea/scyllasband](entries/tts-audio/lowkeytea-scyllasband.md) — unverified / ランタイムApache-2.0と各構成要素の条件を確認する。モデルの70ms等を全デバイスでの実測保証にしない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [adventists-ai/sophon-realtime](entries/tts-audio/adventists-ai-sophon-realtime.md) — unverified / Apache-2.0とNOTICEの第三者要素の条件を分ける。0.31秒等は特定版・構成の作者測定で全版への保証ではない。 当方でインストール・推論・生成・ベンチ再現はしていない。
+- [muse-irodori-voice — CPUで固有音声を作るIrodoriキット](entries/tts-audio/kgmkm-muse-irodori-voice.md) — unverified / コードはMITだが重みと音声利用条件は別。READMEは特定声優・キャラクターへの模倣を禁じ、同意のない他者のなりすまし等にも注意する。このONNX経路ではSilentCipher透かしが入らないと説明されているためAI音声であることを明示する。速度・同一性・品質は作者の測定で当方未追試。 当方でインストール・動作・性能の実行検証はしていない。
+- [Museで既存動画へ声を付ける制作メモ（18+注意）](articles/2026-11-09-memuringo7544-muse-video-voiceover.md) — unverified / 18+ / NSFW。成人向けを含む動画への音声付与に関する投稿。原音除去/重ね合わせの説明と口パク一致の限界を区別。画像内のAI回答は動作証拠ではなく、ユーザーの成功談も独立追試していない。
 - [Muse・無料GPUによるYuE2実行手順（本文未取得）](articles/2026-11-09-https-x.com-i-article-2118941631386996736.md) — unverified / 具体的な無料GPU・接続方法・費用・原文指示は未確認。YuE2本体の実在を記事の手順成功の証拠にしない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Muse内Irodori音声ライブラリ制作事例](articles/2026-11-09-https-x.com-memuringo7544-status-2118972621866012726.md) — unverified / 18+ / NSFWに関連する音声分類を含む。音声・露骨な題名は転載しない。コード・配布URLとMuse内保存/共有条件は未確認で、UI画像は再現性の証明ではない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Sophon-Realtime v1モデル群案内（重み無し）](links/tts-audio/https-huggingface.co-adventists-ai-sophon-realtime-v1.md) — unverified / モデル型ではなく案内リンクとして記録。共通brainと別音声モデル、E2E研究プレビューを区別し、案内だけで全版が入手可能としない。 当方でインストール・推論・生成・ベンチ再現はしていない。
