@@ -1,5 +1,5 @@
 {
-  "count": 504,
+  "count": 505,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -91,6 +91,43 @@
       "type": "repo",
       "path": "entries/3d-motion/wheresryan22-anatomy.md",
       "summary": "アイソメトリック（等角投影）の**分解図・断面図**で仕組みを説明する Claude スキル。「トークンバケット型レートリミッタはどう動くか」のように頼むと、実在の機械・計器・道具・家具を部品から組み上げ、動く図として出力する。"
+    },
+    {
+      "type": "repo",
+      "name": "Kimodo",
+      "genre": "3d-motion",
+      "url": "https://github.com/nv-tlabs/kimodo",
+      "author": "NVIDIA / nv-tlabs",
+      "repo": "nv-tlabs/kimodo",
+      "license": "Apache-2.0",
+      "stars": 4112,
+      "forks": 464,
+      "open_issues": 22,
+      "language": "Python",
+      "created": "2026-03-16",
+      "updated": "2026-10-15",
+      "added": "2026-11-09",
+      "first_seen": "2026-11-09",
+      "fetched_at": "2026-11-09T03:22:27Z",
+      "commits_30d": 18,
+      "commits_90d": 20,
+      "commit_cadence": "weekly",
+      "size_kb": 44539,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "コードはApache-2.0、重みはモデル別。SOMA-RP-v1.2はNVIDIA Open Model Licenseで商用利用可能、SMPLX-RP-v1はNVIDIA R&D Model License。Scenarioは別サービスで無料プランの生成物は個人・評価用途に限る。実行・生成品質・Scenario操作は未検証。",
+      "sources": [
+        "https://x.com/cutetoxicguy/status/2119558081352729010",
+        "https://github.com/nv-tlabs/kimodo",
+        "https://research.nvidia.com/labs/sil/projects/kimodo/",
+        "https://huggingface.co/nvidia/Kimodo-SOMA-RP-v1.2",
+        "https://www.scenario.com/changelog/models-ddc0ba11e58ceb39c3f086a7a659e51e6d9901488515f459cc733d5b04deedb6",
+        "https://www.scenario.com/pricing"
+      ],
+      "path": "entries/3d-motion/nv-tlabs-kimodo.md",
+      "summary": "テキストから人物やヒューマノイドの骨格モーションを生成し、複数の指示をつないで一連の動きにする。"
     },
     {
       "type": "repo",
