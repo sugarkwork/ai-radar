@@ -1,5 +1,5 @@
 {
-  "count": 532,
+  "count": 533,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -5582,6 +5582,40 @@
       "fetched_at": "2026-11-08T18:31:27Z",
       "path": "links/coding-agent/aitmpl.com-turn-inspector.md",
       "summary": "Claude Code のセッションで、モデルへのリクエスト（ターン）ごとにコンテキストウィンドウが何にどれだけ使われたかを横ペインで可視化する。"
+    },
+    {
+      "repo": "promptfoo/promptfoo",
+      "name": "promptfoo",
+      "genre": "eval",
+      "url": "https://github.com/promptfoo/promptfoo",
+      "author": "Promptfoo (OpenAI)",
+      "license": "MIT",
+      "stars": 26978,
+      "language": "TypeScript",
+      "created": "2023-04-28",
+      "updated": "2026-11-09",
+      "forks": 2692,
+      "open_issues": 939,
+      "commits_30d": 100,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "size_kb": 812938,
+      "archived": false,
+      "last_release": "0.125.1",
+      "last_release_at": "2026-10-25",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "有効性の数値（README の「10M+ users」等）はベンダー自己申告で、独立検証や本環境での再現はしていない。導入・eval・redteam の実行も未実施。Community の red teaming は月10k probes 上限で、SonarQube 出力・チーム共有・カスタムプラグイン・RBAC/SSO・監視は Enterprise 限定（公開価格なし、Custom 見積り）。LLM 採点の assertion は確率的で、しきい値・grader・--repeat の調整が必要。red team の検出結果は誤検知を含む前提で人間が triage する必要がある。README は OpenAI 傘下であることを明記しており、今後のライセンスや提供形態の変更リスクは残る。redteam は有害出力を誘発しうるため、管理下のアプリ以外には使わない。",
+      "type": "repo",
+      "added": "2026-11-09",
+      "first_seen": "2026-11-09",
+      "sources": [
+        "https://x.com/wquguru/status/2113181135522214168"
+      ],
+      "fetched_at": "2026-11-09T06:04:46Z",
+      "path": "entries/eval/promptfoo-promptfoo.md",
+      "summary": "プロンプト・モデル/プロバイダ・テストケースを YAML のマトリクスで宣言し、1コマンドで全組み合わせを評価する。結果はローカル Web UI（promptfoo view）で横並び比較できる。"
     },
     {
       "repo": "NVIDIA/garak",
