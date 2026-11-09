@@ -1,5 +1,5 @@
 {
-  "count": 566,
+  "count": 567,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -11933,6 +11933,40 @@
       "fetched_at": "2026-11-09T03:16:03Z",
       "path": "entries/prompt-design/voltagent-awesome-design-md.md",
       "summary": "84製品分のDESIGN.md（Markdownのデザイン仕様書）を design-md/<brand>/DESIGN.md に収録。Stripe / Linear / Vercel / Notion / Figma / Apple / Shopify / Supabase など。"
+    },
+    {
+      "repo": "coreyhaines31/marketingskills",
+      "name": "Marketing Skills (cold-email)",
+      "genre": "prompt-design",
+      "url": "https://github.com/coreyhaines31/marketingskills",
+      "license": "MIT",
+      "stars": 59386,
+      "language": "JavaScript",
+      "created": "2026-01-15",
+      "updated": "2026-11-09",
+      "forks": 8674,
+      "open_issues": 85,
+      "commits_30d": 100,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "size_kb": 6260,
+      "archived": false,
+      "last_release": "v2.14.5",
+      "last_release_at": "2026-11-09",
+      "author": "Corey Haines",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "投稿の『48 leads / 12 pitches / 1 signed』『Claudeが全部やる』『15秒スポット $3,000–6,000』は投稿者の宣伝で、リポジトリにも一次情報にも裏付けがない（未確認）。確認できたのは、cold-email がコールドメールの文面・件名・フォロー・配信設計・返信処理の指示書であり、リード探索（同リポジトリの prospecting、または投稿がリンクする別リポジトリの lead-research-assistant）、送信、契約、3D動画、請求を実行するコードを含まないこと。投稿の『storyboard』『AIスタートアップの発見』はこのスキルの機能ではなく、SKILL.md に storyboard の記述はない。ベンチマークはベンダー由来で、スキルには測定済みの返信率・受注実績がない。効果は利用者のリスト品質・製品・ドメイン評判に依存する。",
+      "type": "repo",
+      "added": "2026-11-09",
+      "first_seen": "2026-11-09",
+      "sources": [
+        "https://x.com/Y0urDumble/status/2114428470168334365"
+      ],
+      "fetched_at": "2026-11-09T19:22:53Z",
+      "path": "entries/prompt-design/coreyhaines31-marketingskills.md",
+      "summary": "cold-email スキルは、B2Bコールドメールの本文・件名・3〜5通のフォローアップ・返信の分類と一次対応・マルチチャネル連鎖の書き方をエージェントに与える。送信そのものは行わず、送信ツールの設計と文面を指示する。"
     },
     {
       "type": "repo",
