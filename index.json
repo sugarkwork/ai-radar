@@ -1,5 +1,5 @@
 {
-  "count": 551,
+  "count": 552,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -1353,6 +1353,28 @@
       "fetched_at": "2026-11-07T12:38:04Z",
       "path": "links/3d-motion/4danyone.github.io-4danyone.md",
       "summary": "スマートフォンなどで撮った1本の手持ち動画から、カメラ内部・外部パラメータや撮影リグなしで多視点動画を生成し、そのまま 4D Gaussian Splatting (4DGS) の再構成に渡せるようにする研究プロジェクト（SIGGRAPH Asia 2026、Zhejiang University / Ant Grou"
+    },
+    {
+      "name": "Blender",
+      "genre": "3d-motion",
+      "url": "https://www.blender.org/",
+      "author": "Blender Foundation",
+      "pricing": "free",
+      "pricing_detail": "完全無料。GPL-2.0-or-later。寄付（Development Fund）は任意。サインアップ不要、インターネット接続なしでも動作。商用利用可で、制作物（画像/動画/.blend）は自分のもの。",
+      "signup_required": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "Blender 自体は GPL の無料ソフトで、モデリング/レンダー/Python API は公式で確認済み。ただし投稿の『瓶・液体・金キャップ・ロゴを全部コードから』は投稿の主張で、.blend も生成スクリプトも配布されていないため再現性は未検証。動画は 1440x1800 の1フォーマットで、16:9/9:16/1:1 の3形式は UI 上は終盤 6/6 で完了表示になるが、実ファイルは確認できない。『GPU from 2016』は画面内の GTX 1050 Ti 表記で、実測ではない。投稿の $1,500–5,000 も未検証。",
+      "type": "link",
+      "added": "2026-11-09",
+      "first_seen": "2026-11-09",
+      "sources": [
+        "https://x.com/Y0urDumble/status/2114084322227503206"
+      ],
+      "fetched_at": "2026-11-09T13:18:50Z",
+      "path": "links/3d-motion/blender.org-blender.md",
+      "summary": "投稿の BUILD / LIGHT / RENDER 工程。ガラス瓶、液体、金キャップ、ロゴのモデリング、マテリアル、ライティング、EEVEE/Cycles レンダーを担う実行ツール。"
     },
     {
       "type": "article",

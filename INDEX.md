@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 551 件 — リポジトリ 317, リンク集 100, 記事 67, モデル 53, プロンプト 14 / ⚑ 要確認 348 件
+収録 552 件 — リポジトリ 317, リンク集 101, 記事 67, モデル 53, プロンプト 14 / ⚑ 要確認 349 件
 
 ## リポジトリ（317）
 
@@ -452,7 +452,7 @@
 - **[MiniMax H3：20種のダンスと音楽指定](prompts/video-gen/minimax-h3-20-dance-music.md)** ⚑  MiniMax H3 / EndFolding79421
   - キャラクターシートを参照し、6秒間の全身ダンスと音楽・環境音を指示するための投稿者のテンプレート。ダンス20種類の音楽指定例を含む。
 
-## リンク集（100）
+## リンク集（101）
 
 ### リンク（作例・インスピレーション）（18）
 
@@ -557,6 +557,31 @@
 - **[treg REA growth](links/link-service/treg.to-treg-rea-growth.md)** ⚑  freemium / superdesigndev（Superdesign Dev Pty Ltd）
   - treg.to は「エージェント向けツールの OpenRouter」を名乗る従量課金の API ゲートウェイ。1 つのトークンで 126 プロバイダ・4,100+ のツール（SEO/SERP、被リンク、SNS 投稿、人物・企業情報、広告ライブラリ、スクレイピング、画像/動画/音声生成）を、プロバイダごとの契約なしで呼べ
 
+### 3D・モーション（11）
+
+- **[1枚絵からローカル3D空間を生成するデモ（LUCIAN）](links/3d-motion/lucianlamp-1image-3d-demo.md)** ⚑  @lucianlamp
+  - 1枚の画像を入力に、歩けるローカル3D空間を生成するデモ。ゲーム・映像向けのシーン試作を、モデリングなしで行う発想の例。
+- **[4DAnyone](links/3d-motion/4danyone.github.io-4danyone.md)** ⚑  free / 4DAnyone authors（Zhejiang University / Ant Group、コードは ant-research 名義）
+  - スマートフォンなどで撮った1本の手持ち動画から、カメラ内部・外部パラメータや撮影リグなしで多視点動画を生成し、そのまま 4D Gaussian Splatting (4DGS) の再構成に渡せるようにする研究プロジェクト（SIGGRAPH Asia 2026、Zhejiang University / Ant Grou
+- **[Blender](links/3d-motion/blender.org-blender.md)** ⚑  free / Blender Foundation
+  - 投稿の BUILD / LIGHT / RENDER 工程。ガラス瓶、液体、金キャップ、ロゴのモデリング、マテリアル、ライティング、EEVEE/Cycles レンダーを担う実行ツール。
+- **[DiMocap AGI](links/3d-motion/https-www.dimocap.com-en-agimocap.html.md)** ⚑  @motioncaps
+  - Webカメラ一台で体・指・顔を取るとするDiMocap AGIの商用ソフト案内。
+- **[Gracia (Gracia AI)](links/3d-motion/gracia.ai-gracia-gracia-ai.md)**  paid / Gracia AI, Inc.
+  - 同期済みのマルチカメラ実写素材から、自由視点で見られる4D（3DGS＋時間軸）表現を作り、Web・VR・エンジン上で再生するための商用プラットフォーム。
+- **[HairDeck](links/3d-motion/hyzcluster.github.io-hairdeck.md)** ⚑  free / hyz317 (Yuze He, Yixiang Wei, Wang Zhao, Chuhao Chen, Yanning Zhou, Yong-Jin Liu / Tsinghua University, CMU, CUHK)
+  - ゲームやアバターの髪を作る「ヘアカード」(アーティストが配置するリボン状メッシュ) を、キャラクター画像1枚から自動生成する研究プロジェクト。
+- **[ISO-GLOW](links/3d-motion/isoglow.dev-iso-glow.md)** ⚑  free
+  - テキストで指示した物体・デバイス・建物を、細線の等角投影（アイソメトリック）イラスト1枚のHTMLとして生成するClaudeスキル。点灯している部分だけが発光し、押せる部品は実際に反応する。3Dを指定すると同じ見た目をthree.jsで構築し、視点を回せるようにする。
+- **[SHOT OF THE DEAD — ブラウザ3Dプリビズ](links/3d-motion/shotofthedead.com-shot-of-the-dead.md)** ⚑  freemium / SHOT OF THE DEAD — ブラウザ3Dプリビズ
+  - 最終動画を生成する前に、3D上で人物・小物・レンズ・カメラ移動とカット構成を設計する。
+- **[Sand3D (sand3d)](links/3d-motion/sandflow.ai-sand3d-sand3d.md)**  free / Sandflow (Sandflow-ai)
+  - 3D 形状を「部品ごとの短い Python プログラム」として記述するためのライブラリ。座標を手計算せず、名前付きの部品・辺・面を操作するので、LLM が数百トークンで物体を書き、人間がそのまま読める。
+- **[TailorRig](links/3d-motion/xxxx0601.github.io-tailorrig.md)** ⚑  free / Tencent LIGHTSPEED・西安交通大学・北京大学・清華大学
+  - キャラクターの身体スケルトンと衣装（スカート・髪・袖・アクセサリ）を同時に扱い、衣装まで含めたリグを自動生成する研究。
+- **[TailorRig Dataset](links/3d-motion/huggingface-tencent-tailorrig-dataset.md)** ⚑  free / Tencent
+  - キャラクターの骨格生成・スキニング重み推定などの研究向けデータセット。
+
 ### エージェント基盤・スキル集（11）
 
 - **[Billable Hours Bot](links/agent-framework/https-x.ai-bot-tlgfui0v3nxxmommdvgvr.md)** ⚑  @naka_1717
@@ -581,29 +606,6 @@
   - 2026-11-09取得の第三者ボット配布ページの説明: Grok Botの使用量、増加・スパイク・ループをダッシュボードで監視し、ワンタップの節約提案を示すと配布ページに記載。リンクや資料の保存ボットではない。
 - **[WhatsApper](links/agent-framework/https-x.ai-bot-lr1qqk4csgtz127njppq2.md)** ⚑  @naka_1717
   - 2026-11-09取得の第三者ボット配布ページの説明: WhatsAppのチャットとグループを読み、利用者の口調でメッセージを下書きし、正確な本文を承認した後だけ送ると配布ページに記載。
-
-### 3D・モーション（10）
-
-- **[1枚絵からローカル3D空間を生成するデモ（LUCIAN）](links/3d-motion/lucianlamp-1image-3d-demo.md)** ⚑  @lucianlamp
-  - 1枚の画像を入力に、歩けるローカル3D空間を生成するデモ。ゲーム・映像向けのシーン試作を、モデリングなしで行う発想の例。
-- **[4DAnyone](links/3d-motion/4danyone.github.io-4danyone.md)** ⚑  free / 4DAnyone authors（Zhejiang University / Ant Group、コードは ant-research 名義）
-  - スマートフォンなどで撮った1本の手持ち動画から、カメラ内部・外部パラメータや撮影リグなしで多視点動画を生成し、そのまま 4D Gaussian Splatting (4DGS) の再構成に渡せるようにする研究プロジェクト（SIGGRAPH Asia 2026、Zhejiang University / Ant Grou
-- **[DiMocap AGI](links/3d-motion/https-www.dimocap.com-en-agimocap.html.md)** ⚑  @motioncaps
-  - Webカメラ一台で体・指・顔を取るとするDiMocap AGIの商用ソフト案内。
-- **[Gracia (Gracia AI)](links/3d-motion/gracia.ai-gracia-gracia-ai.md)**  paid / Gracia AI, Inc.
-  - 同期済みのマルチカメラ実写素材から、自由視点で見られる4D（3DGS＋時間軸）表現を作り、Web・VR・エンジン上で再生するための商用プラットフォーム。
-- **[HairDeck](links/3d-motion/hyzcluster.github.io-hairdeck.md)** ⚑  free / hyz317 (Yuze He, Yixiang Wei, Wang Zhao, Chuhao Chen, Yanning Zhou, Yong-Jin Liu / Tsinghua University, CMU, CUHK)
-  - ゲームやアバターの髪を作る「ヘアカード」(アーティストが配置するリボン状メッシュ) を、キャラクター画像1枚から自動生成する研究プロジェクト。
-- **[ISO-GLOW](links/3d-motion/isoglow.dev-iso-glow.md)** ⚑  free
-  - テキストで指示した物体・デバイス・建物を、細線の等角投影（アイソメトリック）イラスト1枚のHTMLとして生成するClaudeスキル。点灯している部分だけが発光し、押せる部品は実際に反応する。3Dを指定すると同じ見た目をthree.jsで構築し、視点を回せるようにする。
-- **[SHOT OF THE DEAD — ブラウザ3Dプリビズ](links/3d-motion/shotofthedead.com-shot-of-the-dead.md)** ⚑  freemium / SHOT OF THE DEAD — ブラウザ3Dプリビズ
-  - 最終動画を生成する前に、3D上で人物・小物・レンズ・カメラ移動とカット構成を設計する。
-- **[Sand3D (sand3d)](links/3d-motion/sandflow.ai-sand3d-sand3d.md)**  free / Sandflow (Sandflow-ai)
-  - 3D 形状を「部品ごとの短い Python プログラム」として記述するためのライブラリ。座標を手計算せず、名前付きの部品・辺・面を操作するので、LLM が数百トークンで物体を書き、人間がそのまま読める。
-- **[TailorRig](links/3d-motion/xxxx0601.github.io-tailorrig.md)** ⚑  free / Tencent LIGHTSPEED・西安交通大学・北京大学・清華大学
-  - キャラクターの身体スケルトンと衣装（スカート・髪・袖・アクセサリ）を同時に扱い、衣装まで含めたリグを自動生成する研究。
-- **[TailorRig Dataset](links/3d-motion/huggingface-tencent-tailorrig-dataset.md)** ⚑  free / Tencent
-  - キャラクターの骨格生成・スキニング重み推定などの研究向けデータセット。
 
 ### 画像生成・編集（8）
 
@@ -969,6 +971,7 @@
 - [Lida-V/LidaAngelToon](entries/3d-motion/lida-v-lidaangeltoon.md) — unverified / Blenderアドオン部分GPL-3.0-or-later、シェーダ等はLida Attribution License1.1。リポジトリ全体に単一のMITを適用しない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [1枚絵からローカル3D空間を生成するデモ（LUCIAN）](links/3d-motion/lucianlamp-1image-3d-demo.md) — unverified, low-quality / 投稿はデモ動画と主張のみで、コード・重み・手順・配布リンクが無い。『Claude Opus 5.5 と gptimage だけで1枚の画像から歩ける3D空間をローカル生成、LOD/ストリーミング対応、外部アセット・生成3Dモデルなし』は本人の説明で、第三者の再現・検証は無い。投稿を引用した cat_SI1 の称賛のみで、一次情報は追加されていない。カタログの再現可能な配布物には該当しないため、情報としてのみ収録。
 - [4DAnyone](links/3d-motion/4danyone.github.io-4danyone.md) — unverified / 投稿は Faltwerk という4DGS圧縮・配信ツール（1.4GB→5〜7MB、Quest 3 で25〜40Mbps配信、AIアバターへの影付け）を名乗るが、対象ページに Faltwerk の記載は一切なく、実体は別プロジェクト 4DAnyone（SIGGRAPH Asia 2026）。投稿の圧縮率・配信帯域・実演は一次情報で確認できず本項目には採用していない。James C. Kane はページ内で 4DGS プレイヤー作者として謝辞に出るのみ。リポジトリは Apache-2.0 だが third_party（GVHMR 等）は別ライセンスで、パイプライン全体の商用利用は要確認。推論には 22GB 級 VRAM の GPU が必要。
+- [Blender](links/3d-motion/blender.org-blender.md) — unverified / Blender 自体は GPL の無料ソフトで、モデリング/レンダー/Python API は公式で確認済み。ただし投稿の『瓶・液体・金キャップ・ロゴを全部コードから』は投稿の主張で、.blend も生成スクリプトも配布されていないため再現性は未検証。動画は 1440x1800 の1フォーマットで、16:9/9:16/1:1 の3形式は UI 上は終盤 6/6 で完了表示になるが、実ファイルは確認できない。『GPU from 2016』は画面内の GTX 1050 Ti 表記で、実測ではない。投稿の $1,500–5,000 も未検証。
 - [Cascadeur AI inbetweening](articles/2026-11-09-cascadeur-ai-inbetweening-introduction.md) — unverified / AI計算のトークン不要とソフト全体の無料性は別。Indie月1280円・Pro5280円は原チェック時の年払い表示で現行価格は未確認。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Charakuru→Blender→C4D MCP→Octaneトゥーン制作例](articles/2026-11-09-topic-seventhgraphics-charakuru-octane.md) — unverified / C4D MCP部分の配布物と公開手順は未確認。画像で制作例が見えることと、手順全体の再現性は別。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [DiMocap AGI](links/3d-motion/https-www.dimocap.com-en-agimocap.html.md) — unverified / 精度1mm・遅延0.01s・30〜60fpsはベンダー申告。Standard2ヶ月50ドル〜永久1100ドル等は原チェック時で現行価格未確認。未導入。 当方でインストール・推論・生成・ベンチ再現はしていない。
