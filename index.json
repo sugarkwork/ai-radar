@@ -1,5 +1,5 @@
 {
-  "count": 558,
+  "count": 559,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -4917,6 +4917,26 @@
       ],
       "fetched_at": "2026-11-08T06:51:00+00:00",
       "path": "articles/2026-10-16-y0urdumble-dumble-the-johnson-brothers-ai.md"
+    },
+    {
+      "name": "iPhone『削除済み写真173,521件』主張の検証（PhotoData/Thumbnails）",
+      "genre": "article",
+      "url": "https://x.com/Bober_smart/status/2114352296913961208",
+      "published": "2026-10-25",
+      "author": "Bober_smart",
+      "flags": [
+        "unverified",
+        "low-quality"
+      ],
+      "risk_notes": "投稿単体では裏取り不能。同一本文内で183,000超と173,521が矛盾し、ほぼ同文の投稿が他アカウントから145,763/147,863/152,000件など異なる数字で出回る（AI-generated engagement baitとのコミュニティノートあり）。PhotoData/Thumbnailsの存在とサムネイル残存は文献で確認できるが、原寸オリジナル4年分という記述と『Spotlight索引』という説明は不正確。『19アプリが自由に読めた』はAppleのサンドボックス仕様および返信者の検証画像（permission denied）と矛盾。引用X記事はログイン壁、添付動画はフレームの文字が判読不能で、手順・プロンプト・実測値はいずれも未確認。",
+      "type": "article",
+      "added": "2026-11-09",
+      "first_seen": "2026-11-09",
+      "sources": [
+        "https://x.com/Bober_smart/status/2114352296913961208"
+      ],
+      "fetched_at": "2026-11-09T16:37:00Z",
+      "path": "articles/2026-10-25-bober_smart-iphone-173-521-photodata-thumbnails.md"
     },
     {
       "name": "「長くなる一方のSkill」を「短く効くSkill」にする、Matt Pocock式の作り方",
