@@ -1,5 +1,5 @@
 {
-  "count": 493,
+  "count": 494,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -4148,6 +4148,35 @@
       "risk_notes": "18+ / NSFWに関連。露骨な例・本文は転載しない。具体的手法、売上効果、教材内容・価格は未確認で成功例として断定しない。 当方でインストール・推論・生成・ベンチ再現はしていない。",
       "published": "2026-11-07",
       "path": "articles/2026-11-09-https-x.com-i-article-2118611825109729280.md"
+    },
+    {
+      "name": "Claude Code に Blender シーンを Python で書かせ、ヘッドレスで回す6段階",
+      "genre": "article",
+      "url": "https://x.com/Y0urDumble/status/2113374545302200732",
+      "published": "2026-10-22",
+      "author": "@Y0urDumble",
+      "source_post": "https://x.com/Y0urDumble/status/2113374545302200732",
+      "article_url": "https://x.com/i/article/2109318233866006528",
+      "sources": [
+        "https://x.com/Y0urDumble/status/2113374545302200732",
+        "https://docs.blender.org/manual/en/latest/advanced/command_line/arguments.html",
+        "https://docs.blender.org/manual/en/latest/advanced/command_line/render.html",
+        "https://docs.blender.org/manual/en/latest/render/eevee/index.html",
+        "https://www.blender.org/download/",
+        "https://www.anthropic.com/pricing",
+        "https://platform.claude.com/docs/en/about-claude/pricing",
+        "https://github.com/arjun988/blender-skills"
+      ],
+      "first_seen": "2026-10-22",
+      "added": "2026-11-08",
+      "flags": [
+        "unverified",
+        "low-quality"
+      ],
+      "risk_notes": "主張: 719 voxels・12 joints・16秒/120bpm・音楽も Python 合成・参考画像1枚で修正・『Opus 5.5 が無料でやった』『Blender を一度も開いていない』。確認できた: blender -b（UIなし）と -P（スクリプト実行）は公式引数で、-f によるフレーム単位レンダーも公式。EEVEE は実在しラスタライズ方式。Blender 5.2.3 LTS は投稿当日の 2026-10-22 リリースで無料（GPL）。動画は実測 16.04 秒で『16 sec』と一致。確認できず: 719 voxels / 12 joints / 120bpm / 音楽合成のいずれも投稿と動画キャプション以外の裏付けがなく、再現スクリプトも第三者検証もない。手順3の t.co は scene.py が URL と誤認されたもので資料ではない。誤り・誇張: Free プランに Claude Code は含まれず『無料』は不正確（Pro 月20ドル、Opus 5.5 API は $4/$20 per MTok）。動画のオーバーレイは『CLAUDE OPUS 5.5 x BLENDER MCP』『mcp.connect(blender)』で、ヘッドレス実行とも『一度も開いていない』とも食い違う。『28 beats . 120 bpm』は14秒、ログの beats=12 は6秒で、16秒と整合しない。配布物 arjun988/blender-skills は MCP 前提の 94 skills で、headless/719/120bpm/12 joints の記述は0件——投稿の主張と配布物の実体は別物。『3Dはドリフトしない』は形状のみで、ライティング・フレーミング・アニメーションで印象は変わる（返信で同旨の指摘、著者も同意）。記事本文はログイン必須で未取得のため、記事内の詳細・コード・プロンプトは未確認。",
+      "fetched_at": "2026-11-08T20:52:35Z",
+      "type": "article",
+      "path": "articles/2026-10-22-y0urdumble-claude-code-blender-python-6.md"
     },
     {
       "type": "article",
