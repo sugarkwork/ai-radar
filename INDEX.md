@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 556 件 — リポジトリ 319, リンク集 103, 記事 67, モデル 53, プロンプト 14 / ⚑ 要確認 352 件
+収録 557 件 — リポジトリ 320, リンク集 103, 記事 67, モデル 53, プロンプト 14 / ⚑ 要確認 352 件
 
-## リポジトリ（319）
+## リポジトリ（320）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -350,6 +350,19 @@
 | [sepiablue-ai/ComfyUI-PH3-Manga](entries/image-gen/sepiablue-ai-comfyui-ph3-manga.md) ⚑ | 8 | 0 | 週次 | 10 | 2026-11-07 | 2026-11-09 | 2026-11-09 | MIT |
 | [ComfyUI Prompt Atelier](entries/image-gen/renz1998-comfyui-prompt-atelier.md) | 2 | 0 | 毎日 | 33 | 2026-11-06 | 2026-11-06 | 2026-11-07 | GPL-3.0 |
 
+### MCPサーバー（8）
+
+| 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
+|---|---:|---:|---|---:|---|---|---|---|
+| [REA](entries/mcp-server/morluto-rea.md) ⚑ | 444,457 | 109,755 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | MIT |
+| [Scrapling](entries/mcp-server/d4vinci-scrapling.md) | 98,814 | 10,351 | 毎日 | 100+ | 2026-11-06 | 2026-11-06 | 2026-11-06 | BSD-3-Clause |
+| [Playwright MCP](entries/mcp-server/microsoft-playwright-mcp.md) | 39,376 | 3,409 | 週次 | 15 | 2026-11-06 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
+| [treg（REA growth スキル同梱のエージェント用ツールレジストリ）](entries/mcp-server/superdesigndev-treg.md) | 7,255 | 654 | 毎日 | 100+ | 2026-11-06 | 2026-11-06 | 2026-11-06 | Apache-2.0 + 追加条項（GitHub API は NOASSERTION） |
+| [World Intelligence MCP](entries/mcp-server/marc-shade-world-intel-mcp.md) | 1,063 | 177 | 毎日 | 100+ | 2026-10-18 | 2026-11-04 | 2026-11-04 | MIT |
+| [ExcelMcp（本物のExcelをCOM経由でAIに操作させるMCPサーバ／CLI）](entries/mcp-server/sbroenne-mcp-server-excel.md) | 853 | 106 | 毎日 | 100+ | 2026-11-05 | 2026-11-06 | 2026-11-06 | MIT |
+| [Graphicle（コードグラフと記憶を1つのMCPサーバでエージェントに渡すRust製ツール）](entries/mcp-server/graphicle-ai-graphicle.md) | 510 | 36 | 毎日 | 84 | 2026-11-05 | 2026-11-06 | 2026-11-06 | Apache-2.0 |
+| [pagesift](entries/mcp-server/yolow92-pagesift.md) ⚑ | 245 | 32 | 毎日 | 100+ | 2026-11-06 | 2026-11-06 | 2026-11-07 | AGPL-3.0 |
+
 ### プロンプト（デザイン/UI）（8）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
@@ -362,18 +375,6 @@
 | [kepano/flexoki](entries/prompt-design/kepano-flexoki.md) ⚑ | 3,791 | 136 | 停滞 | 0 | 2026-03-07 | 2026-11-09 | 2026-11-09 | MIT |
 | [better-readme](entries/prompt-design/tommy0103-better-readme-skill.md) ⚑ | 31 | 1 | 停滞 | 0 | 2026-10-08 | 2026-11-08 | 2026-11-09 | MIT |
 | [GUntilB/Anima-Prompt-Generator](entries/prompt-design/guntilb-anima-prompt-generator.md) ⚑ | 12 | 1 | 月次 | 3 | 2026-11-08 | 2026-11-09 | 2026-11-09 | GPL-3.0 |
-
-### MCPサーバー（7）
-
-| 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
-|---|---:|---:|---|---:|---|---|---|---|
-| [REA](entries/mcp-server/morluto-rea.md) ⚑ | 444,457 | 109,755 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | MIT |
-| [Scrapling](entries/mcp-server/d4vinci-scrapling.md) | 98,814 | 10,351 | 毎日 | 100+ | 2026-11-06 | 2026-11-06 | 2026-11-06 | BSD-3-Clause |
-| [treg（REA growth スキル同梱のエージェント用ツールレジストリ）](entries/mcp-server/superdesigndev-treg.md) | 7,255 | 654 | 毎日 | 100+ | 2026-11-06 | 2026-11-06 | 2026-11-06 | Apache-2.0 + 追加条項（GitHub API は NOASSERTION） |
-| [World Intelligence MCP](entries/mcp-server/marc-shade-world-intel-mcp.md) | 1,063 | 177 | 毎日 | 100+ | 2026-10-18 | 2026-11-04 | 2026-11-04 | MIT |
-| [ExcelMcp（本物のExcelをCOM経由でAIに操作させるMCPサーバ／CLI）](entries/mcp-server/sbroenne-mcp-server-excel.md) | 853 | 106 | 毎日 | 100+ | 2026-11-05 | 2026-11-06 | 2026-11-06 | MIT |
-| [Graphicle（コードグラフと記憶を1つのMCPサーバでエージェントに渡すRust製ツール）](entries/mcp-server/graphicle-ai-graphicle.md) | 510 | 36 | 毎日 | 84 | 2026-11-05 | 2026-11-06 | 2026-11-06 | Apache-2.0 |
-| [pagesift](entries/mcp-server/yolow92-pagesift.md) ⚑ | 245 | 32 | 毎日 | 100+ | 2026-11-06 | 2026-11-06 | 2026-11-07 | AGPL-3.0 |
 
 ### 評価・ベンチマーク（5）
 
