@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 540 件 — リポジトリ 315, リンク集 95, 記事 63, モデル 53, プロンプト 14 / ⚑ 要確認 338 件
+収録 541 件 — リポジトリ 315, リンク集 95, 記事 64, モデル 53, プロンプト 14 / ⚑ 要確認 339 件
 
 ## リポジトリ（315）
 
@@ -819,9 +819,9 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（63）
+## 記事（64）
 
-### 記事（15）
+### 記事（16）
 
 - **[$0のデジタル参謀長で月$80,000の契約候補を作ったというX投稿（動画付き）](articles/2026-10-22-bober_smart-0-80-000-x.md)** ⚑  @Bober_smart
 - **[1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md)** ⚑  @mukadeshinigami（mukade死神）
@@ -833,6 +833,7 @@
 - **[Claude Code に Blender シーンを Python で書かせ、ヘッドレスで回す6段階](articles/2026-10-22-y0urdumble-claude-code-blender-python-6.md)** ⚑  @Y0urDumble
 - **[Eddie Woo の対数講義――「何倍になるまでの時間」を1本の対数で読む](articles/2026-09-14-xsmryze-eddie-woo-1-589eee2ad8.md)** ⚑  xsmryze
 - **[PFNの翻訳特化LLM「PLaMo 3 Translate」をスマホ・Windows・Mac・Linuxに入れる方法](articles/2026-11-05-emma-eva-note-emma_and_eva-pfn-llm-plamo-3-translate-windows-mac-linux.md)** ⚑  Emma先生 & Eva先生（note: emma_and_eva）
+- **[See's Candies 1972→1998——$25Mが$60Mを生んだ理由を、バフェットがMBA学生に語った](articles/1998-10-15-warren-buffett-see-s-candies-1972-1998-25m-60m-mba-12d8279960.md)** ⚑  Warren Buffett
 - **[The Johnson brothers — AIキャラを「家族」に増やす成長プレイブック](articles/2026-10-16-y0urdumble-dumble-the-johnson-brothers-ai.md)** ⚑  @Y0urDumble (Dumble)
 - **[「長くなる一方のSkill」を「短く効くSkill」にする、Matt Pocock式の作り方](articles/2026-10-20-sumika45379-skills-studio-skill-skill-matt-pocock.md)** ⚑  @sumika45379 (Skills Studio)
 - **[【公式】Claude Codeの「直しました」で終わらせない。画面の確認まで任せるSkillの作り方](articles/2026-10-23-sumika45379-skills-studio-claude-code-skill.md)** ⚑  sumika45379 / Skills Studio
@@ -1021,6 +1022,7 @@
 - [Claude Code に Blender シーンを Python で書かせ、ヘッドレスで回す6段階](articles/2026-10-22-y0urdumble-claude-code-blender-python-6.md) — unverified, low-quality / 主張: 719 voxels・12 joints・16秒/120bpm・音楽も Python 合成・参考画像1枚で修正・『Opus 5.5 が無料でやった』『Blender を一度も開いていない』。確認できた: blender -b（UIなし）と -P（スクリプト実行）は公式引数で、-f によるフレーム単位レンダーも公式。EEVEE は実在しラスタライズ方式。Blender 5.2.3 LTS は投稿当日の 2026-10-22 リリースで無料（GPL）。動画は実測 16.04 秒で『16 sec』と一致。確認できず: 719 voxels / 12 joints / 120bpm / 音楽合成のいずれも投稿と動画キャプション以外の裏付けがなく、再現スクリプトも第三者検証もない。手順3の t.co は scene.py が URL と誤認されたもので資料ではない。誤り・誇張: Free プランに Claude Code は含まれず『無料』は不正確（Pro 月20ドル、Opus 5.5 API は $4/$20 per MTok）。動画のオーバーレイは『CLAUDE OPUS 5.5 x BLENDER MCP』『mcp.connect(blender)』で、ヘッドレス実行とも『一度も開いていない』とも食い違う。『28 beats . 120 bpm』は14秒、ログの beats=12 は6秒で、16秒と整合しない。配布物 arjun988/blender-skills は MCP 前提の 94 skills で、headless/719/120bpm/12 joints の記述は0件——投稿の主張と配布物の実体は別物。『3Dはドリフトしない』は形状のみで、ライティング・フレーミング・アニメーションで印象は変わる（返信で同旨の指摘、著者も同意）。記事本文はログイン必須で未取得のため、記事内の詳細・コード・プロンプトは未確認。
 - [Eddie Woo の対数講義――「何倍になるまでの時間」を1本の対数で読む](articles/2026-09-14-xsmryze-eddie-woo-1-589eee2ad8.md) — unverified / 主張: 投資が何倍になるまでの時間は対数1本で、Eddie Woo の5分の講義がそれを自明にする、という投稿。確認できたこと: Eddie Woo はシドニーの公立高校数学教師で、YouTube @misterwootube は登録者2.01M・5,043本・191,145,357回再生（2026-11-09取得）。添付動画は7分51秒の実授業映像で、白板の LOGARITHMS / 2^5=32 / log_2 32=5 / log_3 81=4 と 2,4,8,16,32・3,9,27,81 の説明が Woo の「Introduction to Logarithms (1 of 2: Definition)」（7:52, 2017-08-30）の内容と一致。数学も正しい（log_3 81=4、倍加時間 ln2/ln(1+r)、Rule of 72 は近似）。未確認: 引用元X記事（x.com/i/article/2087190920026365952）の本文はログイン要求で取得できず、fetch_article.py も失敗。動画の音声は未転記で、投稿の「5分で」は実際の7分51秒と一致しない。Rule of 72 は近似であり、実務では変動リターン・手数料・税金で変わる点は投稿に無い。
 - [PFNの翻訳特化LLM「PLaMo 3 Translate」をスマホ・Windows・Mac・Linuxに入れる方法](articles/2026-11-05-emma-eva-note-emma_and_eva-pfn-llm-plamo-3-translate-windows-mac-linux.md) — unverified / PFN 公式ブログではなく第三者アカウントのまとめ記事。ベンチマーク優位は PFN 自身の評価の引用、iPhone の 0.515 秒は GIGAZINE の 1 回計測の引用で独立検証なし。winget での llama.cpp 導入、PocketPal AI での 0.8B 読み込み手順、llama.app のインストールスクリプト（取得したスクリプトをシェルに渡す方式）は本文の記述のみで未検証。記事末尾は著者の有料講義の宣伝。
+- [See's Candies 1972→1998——$25Mが$60Mを生んだ理由を、バフェットがMBA学生に語った](articles/1998-10-15-warren-buffett-see-s-candies-1972-1998-25m-60m-mba-12d8279960.md) — unverified / 【投稿の主張】1972年に$25Mで買収、当時は年$4M。1998年には同じレシピ・追加資本ほぼなしで$60M。16Mポンド@$1.95の箱が$2.25で売れるかが唯一の論点。1998年は30Mポンド@$2/ポンドで、$60Mのうち$55Mがクリスマス前3週。毎年12月26日に値上げ。コンサルなし、デューデリは箱を買って食べるだけ。カリフォルニアの「share of mind」と、店員の笑顔がmoatを広げる。【一次情報で確認できたこと】Tilson公開の講演全文（1998-10-15、University of Florida School of Business、Graham-Buffett Teaching Endowment第1回）に、$25M・16Mポンド・$1.95/ポンド・$4M税前・6.25x pre-tax、$60M・$2 per pound on 30 million pounds・$55M in the three weeks before Christmas・12月26日の値上げ・コンサル無し/箱を買って食べた・販売員の笑顔でmoatが広がる、がすべて原文どおり存在。1998年通期のSee's税前利益は$62M（1998年書簡の税前利益表）で、10月時点の「$60M」という当年見込みは妥当。2007年書簡で1972年16Mポンド/売上$30M/税前$5M未満/必要資本$8M、2007年31Mポンド/売上$383M/税前$82M/累計税前$1.35B/追加資本$32Mを確認。【誤り・注意】(1)「1998年は30Mポンド@$2/ポンド」は単位の取り違え。原文は「We will make $2 per pound on 30 million pounds」＝1ポンドあたり$2の“利益”で合計$60M。同じ講演で「See'sは今$11/ポンド」と述べており、$2は販売価格ではない。$2を価格と読むと30M×$2=$60Mが売上になり、税前利益$60Mと二重計上になる（1998年売上は約$330M）。2007年は$383M/31Mポンド≒$12.35/ポンド。(2)「earned $4 million a year」は税前。本人は10x after-taxとも言っており、税引後は約$2.5M。(3)買収主体はBlue Chip Stamps（BuffettとMungerが支配、後にBerkshireへ合併）。「Buffettが$25M払った」は略記。(4)「no market research」は原文にない。原文は「コンサルを雇ったことがない。コンサル的代わりに箱を買って食べた」。(5)「ten years later you can see nothing else」は原文「You can't see the moat day by day... Ten years from now, you will see the difference」の脚色。(6)「the girl behind the counter is the asset」は投稿者の解釈。原文は「商品を売る人もproduct deliveryの一部」「笑顔ならmoatは広がり、しかめ面なら狭まる」。(7)$55M/3週はBuffett本人の発言だが監査数字ではなく自己申告。1998年通期$62Mとは整合するが四半期別の検証はしていない。(8)Buffettの数字は年により概数で揺れる。16M→30M（26年、年2.4%）と16M→31M/年2%（35年）は同じ人物の別年度発言で内部整合しない。1972年も$1.95×16M=$31.2Mに対し書簡の売上は$30M。桁は合うが一致しない。【未確認】引用元X記事2087190920026365952は非ログインでHTTP 307→ログイン画面になり本文を読めていない（投稿の要約がこの講義のものかは未確認）。添付動画は取得して320x240・84分35秒を実測し、5秒と42分台のフレームでUniversity of Floridaの演台とBuffett本人を確認したが、音声の全編照合はしていない（See'sの説明が42:14頃というのは文字起こしサイトの情報で、当該時刻の映像フレームのみ確認）。
 - [The Johnson brothers — AIキャラを「家族」に増やす成長プレイブック](articles/2026-10-16-y0urdumble-dumble-the-johnson-brothers-ai.md) — unverified, low-quality / 一次情報で確認できなかったこと: 具体的な生成ツール/モデル名（動画・画像に透かしもUIも開示ラベルもない）、プロンプト原文（投稿にもメディアにも存在しない）、フォロワー数・再生数・いいね数の実値（TikTok側は当方の取得で実データを返さず、第三者の集計でも同アカウントは時期により 156K/225.7K と変動）、$21K という収益額（71.6M views × $0.30/1000 の概算で、案件単価や成約の裏付けなし）、「2アカウントが同一運営者」という推断（著者自身が everything points to と推測で書いている）。動画の人物がAI生成だという前提も著者の主張と見た目の印象に留まり、プラットフォーム上の明示的開示は確認できない。誘導先 https://x.com/i/article/2109318233866006528 はログイン必須で本文未確認（同一URLの記事は既に別項目として登録済みのため重複作成しない）。内容は成長施策の助言が中心で、再現手順の技術的検証はできない。
 - [「長くなる一方のSkill」を「短く効くSkill」にする、Matt Pocock式の作り方](articles/2026-10-20-sumika45379-skills-studio-skill-skill-matt-pocock.md) — unverified / 2026-10-10時点「スター28万超」という記事の数字は当時の値を再現できず、2026-11-08実測は318,171（記事の数字は古いスナップショットで、現在は上回る）。種動画の内容は説明欄のチャプター（5段）と公開日まで確認、本編の逐語と図版は未確認。動画側の「22 million+ people use them」は一次確認なし（記事はこの種のインストール数を載せていない）。効果（送り返しの減少）の第三者計測は記事にも当方にも見つからない。記事は本文中2箇所でLINE友だち追加による「Skill10選」配布へ誘導する販促導線を含む。
 - [【公式】Claude Codeの「直しました」で終わらせない。画面の確認まで任せるSkillの作り方](articles/2026-10-23-sumika45379-skills-studio-claude-code-skill.md) — unverified / 記事ページは非ログインだと x.com のログイン画面へリダイレクトされ（HTTP 200）、本文は封筒JSONの articleText に依拠。published は発見元ポストの日時（2026-10-23）で、記事ページ上の公開日は未確認。動画の字幕が取得できず、動画内の具体発言（3つの確認例、CLS 実演）は直接確認していない。v2.1.286 の自動実行は公式ドキュメントで確認済みだが、著者自身は /verify を実行しておらず、記事もその旨を明記している。末尾に LINE 友だち追加でプロンプト集を配る導線がある。
