@@ -1,5 +1,5 @@
 {
-  "count": 541,
+  "count": 542,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -4721,6 +4721,25 @@
       ],
       "fetched_at": "2026-11-09T09:32:39Z",
       "path": "articles/2026-09-14-xsmryze-eddie-woo-1-589eee2ad8.md"
+    },
+    {
+      "name": "Last Lecture Series: “How to Win Without Crushing Your Soul” - Graham Weaver（Stanford GSB Class of 2026）",
+      "genre": "article",
+      "url": "https://www.youtube.com/watch?v=eQZO-MPpbJg",
+      "published": "2026-07-14",
+      "author": "Graham Weaver（Stanford Graduate School of Business 公式チャンネル）",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "確認できたこと: 公式YouTube（Stanford GSB チャンネル）に講演が実在し、タイトルは「Last Lecture Series: “How to Win Without Crushing Your Soul” - Graham Weaver」、公開日 2026-07-14、尺 34:01、Class of 2026 向けの Last Lecture であること（YouTube概要・本人ブログ・本人Instagramで一致）。Weaver は Stanford GSB の Lecturer in Management で Alpine Investors の創業者（GSB教員ページ・Alpine公式）。講演の3実践と引用の多くは公式字幕と一致。誤り・未確認: (1)「10 million people watched」はこの動画単体では約263万回（2026-11-09時点）。WeaverのGSB講演5本の合計が約1,030万回なので、合算を単体の数字として書いた可能性が高い。(2)「33 minutes」は公式34:01、投稿添付クリップは33:31で、切り抜き側の尺。(3)「$16 billion」はAlpine公式の現行表記（$18.8B、25周年ページでは2026-06-30時点$17.7B）より古く過小。(4)「life coaches charge $500 an hour」は一次情報を確認できず未検証。(5) 引用ブロックの「achievement cannot fix self hatred」「what you avoid grows」「unless you skip them」は講演の逐語ではなく投稿者による要約・脚色（講演本体は「I just didn't really like myself」「your nail is the thing you're avoiding」「You're in the good old days now」）。(6) 添付動画は同一講演の再アップロードとみられ、会場・人物・衣装・尺が公式と一致するが、音声の波形一致やフレーム単位の同一性は未確認。講演自体に効果の対照試験や追跡データはなく、内容は本人の体験談と実践の提案である。",
+      "type": "article",
+      "added": "2026-11-09",
+      "first_seen": "2026-11-09",
+      "sources": [
+        "https://x.com/xsmryze/status/2107598029192675570"
+      ],
+      "fetched_at": "2026-11-09T10:22:00+00:00",
+      "path": "articles/2026-07-14-graham-weaver-stanford-graduate-school-of-business-last-lecture-series-how-to-win-without-f6d1f4ee42.md"
     },
     {
       "type": "article",
