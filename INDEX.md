@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 554 件 — リポジトリ 317, リンク集 103, 記事 67, モデル 53, プロンプト 14 / ⚑ 要確認 350 件
+収録 555 件 — リポジトリ 318, リンク集 103, 記事 67, モデル 53, プロンプト 14 / ⚑ 要確認 351 件
 
-## リポジトリ（317）
+## リポジトリ（318）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -311,10 +311,11 @@
 | [WeVisOne-VL](entries/other/tencent-wevisone-vl.md) | 676 | 56 | 月次 | 3 | 2026-10-25 | 2026-11-03 | 2026-11-03 | Apache-2.0（Tencent 著作部分） |
 | [DSH 破甲ワークフロー（dsh-jailbreak-workflow）](entries/other/minglink-dsh-jailbreak-workflow.md) ⚑ | 581 | 206 | 週次 | 17 | 2026-11-04 | 2026-11-04 | 2026-11-04 | 未確認（API は NOASSERTION、標準ライセンスファイル無し） |
 
-### RAG・検索（14）
+### RAG・検索（15）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
+| [Graphify](entries/rag/graphify-labs-graphify.md) ⚑ | 144,862 | 13,858 | 毎日 | 100+ | 2026-11-08 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
 | [HKUDS/DeepTutor](entries/rag/hkuds-deeptutor.md) ⚑ | 56,995 | 6,949 | 毎日 | 100+ | 2026-11-07 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
 | [OpenDataLoader PDF](entries/rag/opendataloader-project-opendataloader-pdf.md) | 30,178 | 2,882 | 毎日 | 100+ | 2026-11-05 | 2026-11-05 | 2026-11-05 | Apache-2.0 |
 | [obsidianmd/obsidian-releases](entries/rag/obsidianmd-obsidian-releases.md) ⚑ | 23,159 | 7,949 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | unknown |
@@ -1210,6 +1211,7 @@
 - [暖かい愛情・自然な日本語チャットの指示書](articles/2026-11-09-zeowota-natural-japanese-chat-instructions-overview.md) — unverified / 18+ / NSFWのサイト由来。取得した原文が本資料にはないためプロンプトを創作せず記事として要約する。キャラ「レイ」の移植/再配布禁止をこの別指示書へ自動適用せず権利範囲は未確認。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [英語リスニング教材の自動選定＋訓練進行＋Obsidian書き出し](prompts/prompt-other/obsidian-21020864dd.md) — unverified / 著者の主張は「実在する英語音声教材を ChatGPT に検索・選定させ、盲聴から復述までの訓練を自動進行し、最後に Obsidian 用ノートを出す」こと。プロンプト本文は原文どおり 2109 字で、記事 HTML の <code> ブロックと空白正規化後の SHA-1 が一致することを確認した。確認できた制約は3点。①検索リンクは保証されない：OpenAI 公式は検索結果・引用が「incomplete, outdated, or incorrect」であり引用元を開いて確認するよう求め、幻覚の例として「Fabricated quotes, studies, citations or references to non-existent sources」を挙げる。ペイウォールや robots.txt で取得できない場合もあると明記。プロンプトの「不要编造…」は指示であって防止策ではない。②Obsidian への直接書き込みは標準では不可：公式のコネクテッドアプリ一覧に Obsidian は無く、MCP 経由ならフル書き込みは Business/Enterprise/Edu、Pro は read/fetch のみで Web 限定。プロンプト自身も「できなければ Markdown を出力」と留保しており、通常はそちらが既定経路。③出典5サイトのうち British Council は 2026-11-09 時点で接続タイムアウト（他4件は HTTP 200）。未確認：初回50〜70%→80% の難易度基準と升级判定はモデルの自己評価のみで測定根拠がなく、学習効果の定量データも無い。記事 URL は未ログインでログイン画面へリダイレクトされる。
 - [英語リスニング訓練コーチ（教材生成＋盲聴＋誤り分類）](prompts/prompt-other/990639c4-15d8bdb039.md) — unverified / 著者の主張は「レベルと練習時間に合った英文を生成させ、盲聴→大意1問→テキスト開示→誤り分類→復盤まで自動で回す」こと。プロンプト本文は原文どおり 442 字で、記事 HTML の <code> ブロックと空白正規化後の SHA-1 が一致することを確認した。確認できたのは指示文の内容までで、次は未確認・不成立。①「第一遍只朗读，不展示文本」は ChatGPT Voice では成立しない（公式ヘルプ：Live は読み上げと同時に応答テキストをチャットに表示する。Advanced も会話終了後に transcript が追加される）。②5〜8分の連続朗読は Voice の想定用途（対話）から外れ、実際には分割されやすい。③「初回60%→数回で80%」の難易度基準は著者の経験則で出典なし。④このプロンプトによる学習効果の測定データは無い。記事 URL は未ログインだとログイン画面（x.com/i/jf/onboarding/web）へリダイレクトされ、本文は投稿ページにサーバー描画された HTML から取得した。
+- [Graphify](entries/rag/graphify-labs-graphify.md) — unverified / 投稿の数値と実測の差分: 投稿は「134k stars」とするが、2026-11-09T15:03Z の GitHub API 実測は 144,862 stars（13,858 forks, 1,646 open issues）。投稿日 2026-10-25 時点より増えており、投稿は star を過小に述べている（誇張ではない）。ただし作成 2026-04-03 から約7か月で14万 stars という伸びは異常に速く、YC ページでは「116K+ stars（約5か月）」、創業者プロフィールでは「108K+」と時期により数値が動く。star の内訳（組織的・自動的な star の有無）は未認証 API では取得できず監査していない。ベンチマークは開発元自身のハーネス（mem0/supermemory をアダプタとして内包）による自己申告で、独立した第三者追試は見つからない。LOCOMO の QA accuracy では supermemory 49.7% が graphify 45.3% を上回るため「top10に約50%正解」は recall@10=0.497 の話であり、回答精度そのものが最高という主張ではない。投稿の「コード部分はローカル完結」「モデルクレジット0」はコードのみのグラフ構築に限られ、docs/PDF/画像は設定した LLM バックエンドへ送信され、Kimi は中国リージョンにルーティングされる。音声/動画は faster-whisper でローカル文字起こしだが、yt-dlp による取得を伴う。ホスト版 Graphify Cloud は有料（Free/Pro $10-15/月・Teams $20-29/seat/月）で、README 冒頭の「token spend 80%削減」はホスト版の主張。API の /releases/latest は 404 を返したため、最新版は releases 一覧の先頭 v0.9.104 を採用した。
 - [HKUDS/DeepTutor](entries/rag/hkuds-deeptutor.md) — unverified / Apache-2.0表記はコード側の条件。教示の正しさ・教育効果、API費用、デスクトップの実機動作は未検証。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [obsidianmd/obsidian-releases](entries/rag/obsidianmd-obsidian-releases.md) — unverified / 原チェックはLICENSEなし。リポジトリ公開をObsidian本体または全プラグインのOSS化・自由再配布の許諾と扱わない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [NVIDIA/auto-ontology](entries/rag/nvidia-auto-ontology.md) — unverified / 原チェック時READMEは外部コントリビューションを受け付けないと明記。API・ホスト費用とデータ送信条件は実行前に確認する。 当方でインストール・推論・生成・ベンチ再現はしていない。

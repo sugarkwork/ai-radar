@@ -1,5 +1,5 @@
 {
-  "count": 554,
+  "count": 555,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -12250,6 +12250,41 @@
       "type": "prompt",
       "path": "prompts/prompt-other/990639c4-15d8bdb039.md",
       "summary": "A2〜C1 の英語学習者が、その日の主題と練習時間に合わせた英文素材を ChatGPT に書き下ろさせ、盲聴→大意1問→文本開示→誤り分類→復盤までを1本の会話で回すためのコーチ用プロンプト。"
+    },
+    {
+      "repo": "Graphify-Labs/graphify",
+      "name": "Graphify",
+      "genre": "rag",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "license": "Apache-2.0",
+      "stars": 144862,
+      "language": "Python",
+      "created": "2026-04-03",
+      "updated": "2026-11-08",
+      "forks": 13858,
+      "open_issues": 1646,
+      "commits_30d": 100,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "size_kb": 32606,
+      "archived": false,
+      "last_release": "v0.9.104",
+      "last_release_at": "2026-11-08",
+      "author": "Graphify Labs (YC S26)",
+      "homepage": "https://www.graphify.com",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "投稿の数値と実測の差分: 投稿は「134k stars」とするが、2026-11-09T15:03Z の GitHub API 実測は 144,862 stars（13,858 forks, 1,646 open issues）。投稿日 2026-10-25 時点より増えており、投稿は star を過小に述べている（誇張ではない）。ただし作成 2026-04-03 から約7か月で14万 stars という伸びは異常に速く、YC ページでは「116K+ stars（約5か月）」、創業者プロフィールでは「108K+」と時期により数値が動く。star の内訳（組織的・自動的な star の有無）は未認証 API では取得できず監査していない。ベンチマークは開発元自身のハーネス（mem0/supermemory をアダプタとして内包）による自己申告で、独立した第三者追試は見つからない。LOCOMO の QA accuracy では supermemory 49.7% が graphify 45.3% を上回るため「top10に約50%正解」は recall@10=0.497 の話であり、回答精度そのものが最高という主張ではない。投稿の「コード部分はローカル完結」「モデルクレジット0」はコードのみのグラフ構築に限られ、docs/PDF/画像は設定した LLM バックエンドへ送信され、Kimi は中国リージョンにルーティングされる。音声/動画は faster-whisper でローカル文字起こしだが、yt-dlp による取得を伴う。ホスト版 Graphify Cloud は有料（Free/Pro $10-15/月・Teams $20-29/seat/月）で、README 冒頭の「token spend 80%削減」はホスト版の主張。API の /releases/latest は 404 を返したため、最新版は releases 一覧の先頭 v0.9.104 を採用した。",
+      "type": "repo",
+      "added": "2026-11-09",
+      "first_seen": "2026-11-09",
+      "sources": [
+        "https://x.com/thegreatest_sv/status/2114326860326723736"
+      ],
+      "fetched_at": "2026-11-09T15:08:00Z",
+      "path": "entries/rag/graphify-labs-graphify.md",
+      "summary": "フォルダを指定すると、コード・設定・SQLスキーマ・ドキュメント・PDF・画像・音声/動画を1つの知識グラフにまとめ、graphify-out/ に graph.html（ブラウザで開くクリック可能な地図）、GRAPH_REPORT.md（要点・意外なつながり・推奨質問）、graph.json（エージェントが問い合わせ"
     },
     {
       "type": "repo",
