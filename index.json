@@ -1,5 +1,5 @@
 {
-  "count": 277,
+  "count": 278,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -2243,6 +2243,40 @@
       "risk_notes": "2026-10-10時点「スター28万超」という記事の数字は当時の値を再現できず、2026-11-08実測は318,171（記事の数字は古いスナップショットで、現在は上回る）。種動画の内容は説明欄のチャプター（5段）と公開日まで確認、本編の逐語と図版は未確認。動画側の「22 million+ people use them」は一次確認なし（記事はこの種のインストール数を載せていない）。効果（送り返しの減少）の第三者計測は記事にも当方にも見つからない。記事は本文中2箇所でLINE友だち追加による「Skill10選」配布へ誘導する販促導線を含む。",
       "fetched_at": "2026-11-08T13:26:55Z",
       "path": "articles/2026-10-20-sumika45379-skills-studio-skill-skill-matt-pocock.md"
+    },
+    {
+      "repo": "addyosmani/agent-skills",
+      "name": "Agent Skills",
+      "genre": "coding-agent",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "license": "MIT",
+      "stars": 114034,
+      "language": "JavaScript",
+      "created": "2026-02-15",
+      "updated": "2026-11-01",
+      "forks": 11915,
+      "open_issues": 132,
+      "commits_30d": 100,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 1943,
+      "archived": false,
+      "author": "Addy Osmani",
+      "last_release": "0.6.15",
+      "last_release_at": "2026-10-31",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "品質改善の効果はメンテナ自身の trigger/挙動 eval と著者の主張に限られ、独立した第三者ベンチマークは未確認。コードを実行するツールではなく指示文の集合なので、効果はホストのモデルとルーティング精度に依存し、evals/README.md 自身が発火の不安定さ（TDD 系が 6 回中 1 回）を記録している。browser-testing-with-devtools は chrome-devtools MCP と実ブラウザが必須で、--autoConnect ではログイン済みプロファイルに触れるため取り扱いに注意。",
+      "type": "repo",
+      "added": "2026-11-09",
+      "first_seen": "2026-11-09",
+      "sources": [
+        "https://x.com/sumika45379/status/2112884125120319643"
+      ],
+      "fetched_at": "2026-11-08T15:07:00Z",
+      "path": "entries/coding-agent/addyosmani-agent-skills.md",
+      "summary": "企画・仕様・計画・実装・テスト・レビュー・出荷という開発ライフサイクルを、25個の SKILL.md ワークフローとしてエージェントに踏ませる。各スキルは手順・検証条件・「サボる口実への反論」・レッドフラグまで含む。"
     },
     {
       "repo": "colbymchenry/codegraph",
