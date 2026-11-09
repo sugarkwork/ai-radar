@@ -1,5 +1,5 @@
 {
-  "count": 498,
+  "count": 504,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -749,6 +749,42 @@
       "fetched_at": "2026-11-09T00:31:15.424795+00:00",
       "path": "entries/3d-motion/patch-gg-anymove.md",
       "summary": "正面/側面のAI生成クリップから四足・ドラゴン・蜘蛛等のモーションをメッシュへ移すAnyMove。"
+    },
+    {
+      "type": "repo",
+      "repo": "blendi-remade/prompt2rig",
+      "name": "prompt2rig — プロンプトから3Dキャラクター動作を生成",
+      "genre": "3d-motion",
+      "url": "https://github.com/blendi-remade/prompt2rig",
+      "author": "blendi-remade",
+      "license": "Apache-2.0",
+      "language": "JavaScript",
+      "stars": 534,
+      "forks": 79,
+      "open_issues": 0,
+      "created": "2026-10-19",
+      "updated": "2026-10-21",
+      "commits_30d": 0,
+      "commits_90d": 0,
+      "commit_cadence": "stale",
+      "size_kb": 9255,
+      "archived": false,
+      "risk_notes": "コードはApache-2.0だが、HQパスの依存関係が商用を制限。GVHMR=教育・研究・非営利のみ。SMPL-X=非商用（商用はMeshcapadeから別途）。WiLoR=CC-BY-NC-ND。MANO=非商用。Ultralytics YOLO=AGPL-3.0（コピーレフト、エンタープライズライセンス別途）。MediaPipe・three.jsは商用可。Webアプリ・ライブプレビュー・動画生成は商用可能。HQパスを商用で使うには依存関係の置き換えまたは別途ライセンスが必要。動画モデル（FLUX 3 Max/H3 Max Turbo）はfalおよびモデル提供元の条件に従う。当方未実行。 当方でインストール・動作・性能の実行検証はしていない。",
+      "sources": [
+        "https://x.com/cutetoxicguy/status/2119595833691897981",
+        "https://github.com/blendi-remade/prompt2rig",
+        "https://github.com/blendi-remade/prompt2rig/blob/main/README.md",
+        "https://github.com/blendi-remade/prompt2rig/blob/main/LICENSE"
+      ],
+      "added": "2026-11-09",
+      "first_seen": "2026-11-09",
+      "source_post": "https://x.com/cutetoxicguy/status/2119595833691897981",
+      "fetched_at": "2026-11-09T03:14:33+00:00",
+      "flags": [
+        "unverified"
+      ],
+      "path": "entries/3d-motion/blendi-remade-prompt2rig.md",
+      "summary": "テキストで動作を指定→動画モデルが演技→GPUで3Dボディ/指の動作を推定→Mixamo互換リグのキャラクターで再生→Blender/UnityへGLB出力。MediaPipeでブラウザ即時プレビュー、GVHMRでHQボディ、WiLoRで指。"
     },
     {
       "type": "repo",
@@ -4815,6 +4851,42 @@
     },
     {
       "type": "repo",
+      "repo": "nano-muse/nanoMuse",
+      "name": "nanoMuse — 自分のデバイスで動くオープンソースパーソナルエージェント",
+      "genre": "coding-agent",
+      "url": "https://github.com/nano-muse/nanoMuse",
+      "author": "nano-muse",
+      "license": "GPL-3.0",
+      "language": "Swift",
+      "stars": 3333,
+      "forks": 400,
+      "open_issues": 154,
+      "created": "2026-09-23",
+      "updated": "2026-11-08",
+      "commits_30d": 0,
+      "commits_90d": 0,
+      "commit_cadence": "stale",
+      "size_kb": 121612,
+      "archived": false,
+      "risk_notes": "Meta Platformsとは無関係の独立コミュニティプロジェクト。MuseはMetaの商標。中国大陸の携帯番号登録が必要な場合がある。デスクトップ版は未公証・未署名。当方未インストール。 当方でインストール・動作・性能の実行検証はしていない。",
+      "sources": [
+        "https://x.com/wmoto_ai/status/2119285380898050372",
+        "https://github.com/nano-muse/nanoMuse",
+        "https://github.com/nano-muse/nanoMuse/blob/main/README.md",
+        "https://github.com/nano-muse/nanoMuse/blob/main/LICENSE"
+      ],
+      "added": "2026-11-09",
+      "first_seen": "2026-11-09",
+      "source_post": "https://x.com/wmoto_ai/status/2119285380898050372",
+      "fetched_at": "2026-11-09T03:14:33+00:00",
+      "flags": [
+        "unverified"
+      ],
+      "path": "entries/coding-agent/nano-muse-nanomuse.md",
+      "summary": "Linuxシェル、ブラウザ、MCPサーバー・スキル、スマホアプリやPC画面の操作（APIがないものも画面越しに）。削除・送信・支払い前に確認を求める。パスワードやCAPTCHAはユーザーに委ね、Doneで再開。"
+    },
+    {
+      "type": "repo",
       "name": "ppmpreetham/BUI",
       "genre": "coding-agent",
       "url": "https://github.com/ppmpreetham/BUI",
@@ -6877,6 +6949,96 @@
       "risk_notes": "モデルの使い分けや完成度向上は著者の主観。プロンプト原文を創作・全文転載せず、未追試の技法紹介とする。 当方でインストール・推論・生成・ベンチ再現はしていない。",
       "published": "2026-11-06",
       "path": "articles/2026-11-09-https-x.com-i-article-2118242706573135872.md"
+    },
+    {
+      "type": "repo",
+      "repo": "7err4/fumika",
+      "name": "Fumika — ローカル漫画・画像・LoRA学習スタジオ",
+      "genre": "image-generation",
+      "url": "https://github.com/7err4/fumika",
+      "author": "7err4",
+      "license": "NOASSERTION",
+      "language": "Python",
+      "stars": 5,
+      "forks": 3,
+      "open_issues": 1,
+      "created": "2026-10-21",
+      "updated": "2026-10-25",
+      "commits_30d": 0,
+      "commits_90d": 0,
+      "commit_cadence": "stale",
+      "size_kb": 10228,
+      "archived": false,
+      "risk_notes": "コードはApache-2.0だがCommons Clause付き（ソフトウェア自体の販売・ホスト有償サービスを制限）。OSIオープンソースではなくソース公開。ComfyUIノードパックはGPL-3.0。モデルは各配布元のライセンスに従う。出力物（ページ/漫画/アセット/LoRA）はFumikaのライセンス対象外。名称・ロゴ・キャラクターはAll rights reserved。当方未インストール。 当方でインストール・動作・性能の実行検証はしていない。",
+      "sources": [
+        "https://x.com/dextune/status/2119301388857745593",
+        "https://github.com/7err4/fumika",
+        "https://github.com/7err4/fumika/blob/master/README.md",
+        "https://github.com/7err4/fumika/blob/master/LICENSE"
+      ],
+      "added": "2026-11-09",
+      "first_seen": "2026-11-09",
+      "source_post": "https://x.com/dextune/status/2119301388857745593",
+      "fetched_at": "2026-11-09T03:14:33+00:00",
+      "flags": [
+        "unverified"
+      ],
+      "path": "entries/image-generation/7err4-fumika.md",
+      "summary": "短編を漫画ページ（吹き出し付き）に変換、画像生成、LoRA学習を1つのGUIで行う。バンドルされたComfyUI（独自Python、システムPythonに干渉しない）をエンジンとし、MCPサーバーでAIエージェントから操作可能。"
+    },
+    {
+      "type": "article",
+      "name": "Glada's MOSS Image Workflow v2",
+      "genre": "image-generation",
+      "url": "https://x.com/aiaicreate/status/2119600738183909472",
+      "author": "aiaicreate（紹介）",
+      "published": "2026-11-09",
+      "risk_notes": "リプライでの紹介のみ。ComfyUIワークフロー。当方で動作検証はしていない。",
+      "sources": [
+        "https://x.com/aiaicreate/status/2119600738183909472",
+        "https://x.com/aiaicreate/status/2119600990349590556"
+      ],
+      "added": "2026-11-09",
+      "first_seen": "2026-11-09",
+      "source_post": "https://x.com/aiaicreate/status/2119600990349590556",
+      "fetched_at": "2026-11-09T03:14:33+00:00",
+      "flags": [
+        "unverified"
+      ],
+      "path": "articles/image-generation/gladas-moss-image-workflow-v2.md"
+    },
+    {
+      "type": "model",
+      "name": "Juggernaut Moss V1",
+      "genre": "image-generation",
+      "url": "https://civitai.com/models/3042282/juggernaut-moss",
+      "license": "Apache-2.0",
+      "model": "Juggernaut Moss V1",
+      "downloads": "Civitai・HFから取得",
+      "likes": "Civitai 294 downloads / 40 likes / 43 comments",
+      "created": "2026-11-08",
+      "updated": "2026-11-08",
+      "format": "safetensors",
+      "base_model": "MOSS-Image Base",
+      "parameters": "5B",
+      "quantization": "bf16 / int8 ConvRot",
+      "size_gb": "10.0 / 5.4",
+      "download_url": "https://huggingface.co/Kandoo/Juggernaut-Moss",
+      "risk_notes": "当方で生成・品質検証はしていない。V1のため手・細部文字・群衆・一部アートスタイルに課題。投稿者のブラインドテスト結果（勝率73%）を記載。",
+      "sources": [
+        "https://x.com/aiaicreate/status/2119600990349590556",
+        "https://civitai.com/models/3042282/juggernaut-moss",
+        "https://huggingface.co/Kandoo/Juggernaut-Moss"
+      ],
+      "added": "2026-11-09",
+      "first_seen": "2026-11-09",
+      "source_post": "https://x.com/aiaicreate/status/2119600990349590556",
+      "fetched_at": "2026-11-09T03:14:33+00:00",
+      "flags": [
+        "unverified"
+      ],
+      "path": "models/image-generation/juggernaut-moss-v1.md",
+      "summary": "ポートレート・シネマティックシーンの生成"
     },
     {
       "type": "repo",
@@ -10260,6 +10422,42 @@
       "signup_required": false,
       "path": "models/other/mradermacher-gemma-4-31b-it-ara-heretic-gguf.md",
       "summary": "gemma-4-31B-it-ARA-hereticのmradermacherによるGGUF配布。Sophon記事の引用にあるが別のテキストモデル。"
+    },
+    {
+      "type": "repo",
+      "repo": "sp-yduck/overlaysubs",
+      "name": "OverlaySubs — PC音声のリアルタイム翻訳オーバーレイ字幕",
+      "genre": "productivity",
+      "url": "https://github.com/sp-yduck/overlaysubs",
+      "author": "sp-yduck",
+      "license": "MIT",
+      "language": "Rust",
+      "stars": 31,
+      "forks": 3,
+      "open_issues": 0,
+      "created": "2026-11-05",
+      "updated": "2026-11-09",
+      "commits_30d": 0,
+      "commits_90d": 0,
+      "commit_cadence": "stale",
+      "size_kb": 1962,
+      "archived": false,
+      "risk_notes": "コードはMIT。アプリ利用はOverlaySubs利用規約に従う。PLaMo 3 Translateの利用はPLaMoコミュニティライセンスに従う。ビルドはコード署名なし（SmartScreen/Gatekeeper警告あり）。自動アップデートなし。起動時にGitHub Releases APIへ匿名で最新版確認（1回のみ、失敗時無視）。当方未インストール。 当方でインストール・動作・性能の実行検証はしていない。",
+      "sources": [
+        "https://x.com/sp_yduck/status/2119258606004801707",
+        "https://github.com/sp-yduck/overlaysubs",
+        "https://github.com/sp-yduck/overlaysubs/blob/main/README.md",
+        "https://github.com/sp-yduck/overlaysubs/blob/main/LICENSE"
+      ],
+      "added": "2026-11-09",
+      "first_seen": "2026-11-09",
+      "source_post": "https://x.com/sp_yduck/status/2119258606004801707",
+      "fetched_at": "2026-11-09T03:14:33+00:00",
+      "flags": [
+        "unverified"
+      ],
+      "path": "entries/productivity/sp-yduck-overlaysubs.md",
+      "summary": "PCで再生中の音声（WASAPIループバック/macOS ScreenCaptureKit）またはマイクをリアルタイムで文字起こし・翻訳し、常に最前面の半透明オーバーレイ字幕として表示。クリックスルー可能。履歴をテキスト/SRTで書き出し。"
     },
     {
       "type": "repo",

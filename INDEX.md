@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 498 件 — リポジトリ 295, リンク集 88, 記事 52, モデル 52, プロンプト 11 / ⚑ 要確認 297 件
+収録 504 件 — リポジトリ 299, リンク集 88, 記事 53, モデル 53, プロンプト 11 / ⚑ 要確認 303 件
 
-## リポジトリ（295）
+## リポジトリ（299）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -141,7 +141,7 @@
 | [BetterSearch](entries/agent-framework/ry0narushima-bettersearch.md) | 40 | 4 | 週次 | 10 | 2026-10-18 | 2026-11-03 | 2026-11-03 | MIT |
 | [web-api-skills](entries/agent-framework/oxylabs-web-api-skills.md) | 11 | 1 | 月次 | 3 | 2026-10-13 | 2026-11-03 | 2026-11-03 | MIT |
 
-### 3D・モーション（35）
+### 3D・モーション（36）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -167,6 +167,7 @@
 | [SculptForge](entries/3d-motion/islandmed-sculptforge.md) | 612 | 74 | 毎日 | 100+ | 2026-11-06 | 2026-11-06 | 2026-11-06 | GPL-3.0 |
 | [SkinTokens（TokenRig）](entries/3d-motion/vast-ai-research-skintokens.md) | 597 | 82 | 停滞 | 0 | 2026-05-12 | 2026-11-05 | 2026-11-05 | MIT |
 | [patch-gg/anymove](entries/3d-motion/patch-gg-anymove.md) ⚑ | 561 | 62 | 週次 | 10 | 2026-11-02 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
+| [prompt2rig — プロンプトから3Dキャラクター動作を生成](entries/3d-motion/blendi-remade-prompt2rig.md) ⚑ | 534 | 79 | 停滞 | 0 | 2026-10-21 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
 | [shinshin86/aituber-onair](entries/3d-motion/shinshin86-aituber-onair.md) ⚑ | 319 | 31 | 毎日 | 100+ | 2026-11-07 | 2026-11-09 | 2026-11-09 | MIT |
 | [FlexGlue](entries/3d-motion/cvg-flexglue.md) | 244 | 13 | 毎日 | 13 | 2026-11-03 | 2026-11-06 | 2026-11-06 | MIT |
 | [open-3d-skills](entries/3d-motion/moh4696-open-3d-skills.md) | 220 | 31 | 月次 | 3 | 2026-10-31 | 2026-11-04 | 2026-11-04 | MIT |
@@ -235,6 +236,28 @@
 | [ausboss/ComfyUI-AusBoss-Model-Downloader](entries/model-serving/ausboss-comfyui-ausboss-model-downloader.md) ⚑ | 9 | 1 | 週次 | 4 | 2026-11-07 | 2026-11-09 | 2026-11-09 | MIT |
 | [qwen-warp](entries/model-serving/tuan3w-qwen-warp.md) ⚑ | 3 | 1 | 毎日 | 91 | 2026-11-06 | 2026-11-06 | 2026-11-06 | MIT |
 
+### コーディングエージェント（17）
+
+| 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
+|---|---:|---:|---|---:|---|---|---|---|
+| [Karpathy Guidelines（karpathy-guidelines スキル）](entries/coding-agent/multica-ai-andrej-karpathy-skills.md) ⚑ | 230,810 | 22,965 | 停滞 | 0 | 2026-04-20 | 2026-11-08 | 2026-11-09 | unknown |
+| [Caveman](entries/coding-agent/juliusbrussee-caveman.md) ⚑ | 118,293 | 6,883 | 毎日 | 100+ | 2026-11-08 | 2026-11-08 | 2026-11-09 | Apache-2.0 |
+| [Agent Skills](entries/coding-agent/addyosmani-agent-skills.md) ⚑ | 114,034 | 11,915 | 毎日 | 100+ | 2026-11-01 | 2026-11-08 | 2026-11-09 | MIT |
+| [CodeGraph](entries/coding-agent/colbymchenry-codegraph.md) | 76,377 | 5,078 | 毎日 | 100+ | 2026-11-01 | 2026-11-03 | 2026-11-03 | MIT |
+| [claude-code-templates](entries/coding-agent/davila7-claude-code-templates.md) ⚑ | 33,210 | 3,896 | 毎日 | 100+ | 2026-11-08 | 2026-11-08 | 2026-11-09 | MIT |
+| [jcode](entries/coding-agent/1jehuang-jcode.md) | 21,484 | 2,506 | 毎日 | 100+ | 2026-11-04 | 2026-11-04 | 2026-11-04 | MIT |
+| [Craft Anything](entries/coding-agent/storytold-craft-anything.md) | 17,885 | 3,282 | 毎日 | 100+ | 2026-11-06 | 2026-11-06 | 2026-11-06 | Apache-2.0 |
+| [meta/astryx](entries/coding-agent/meta-astryx.md) ⚑ | 16,728 | 1,321 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | MIT |
+| [fast-jev-compaction](entries/coding-agent/tamaratran-fast-jev-compaction.md) ⚑ | 7,917 | 581 | 月次 | 0 | 2026-09-18 | 2026-11-08 | 2026-11-09 | MIT |
+| [ZSeven-W/openpencil](entries/coding-agent/zseven-w-openpencil.md) ⚑ | 7,154 | 622 | 毎日 | 100+ | 2026-11-08 | 2026-11-09 | 2026-11-09 | MIT |
+| [obsidianmd/obsidian-sample-plugin](entries/coding-agent/obsidianmd-obsidian-sample-plugin.md) ⚑ | 4,654 | 1,808 | 停滞 | 0 | 2026-08-02 | 2026-11-09 | 2026-11-09 | 0BSD |
+| [pstack-claude](entries/coding-agent/michael-denyer-pstack-claude.md) ⚑ | 4,144 | 377 | 毎日 | 100+ | 2026-11-07 | 2026-11-08 | 2026-11-09 | MIT |
+| [oh-my-mermaid（omm）](entries/coding-agent/oh-my-mermaid-oh-my-mermaid.md) | 3,380 | 267 | 停滞 | 0 | 2026-04-07 | 2026-11-05 | 2026-11-05 | MIT |
+| [nanoMuse — 自分のデバイスで動くオープンソースパーソナルエージェント](entries/coding-agent/nano-muse-nanomuse.md) ⚑ | 3,333 | 400 | 停滞 | 0 | 2026-11-08 | 2026-11-09 | 2026-11-09 | GPL-3.0 |
+| [ppmpreetham/BUI](entries/coding-agent/ppmpreetham-bui.md) ⚑ | 2,223 | 84 | 毎日 | 100+ | 2026-11-08 | 2026-11-09 | 2026-11-09 | GPL-3.0 |
+| [reacher-z/Awesome-REA](entries/coding-agent/reacher-z-awesome-rea.md) ⚑ | 2,112 | 391 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | MIT |
+| [Dual-Brain — 設計とコードの二視点レビュー用スキル](entries/coding-agent/sleeplesshan-dual-brain.md) ⚑ | 101 | 6 | 週次 | 6 | 2026-11-06 | 2026-11-09 | 2026-11-09 | MIT |
+
 ### 金融・クオンツ（17）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
@@ -256,27 +279,6 @@
 | [QuantSkills](entries/finance-quant/quantskills-quantskills.md) | 2,538 | 229 | 毎日 | 61 | 2026-11-04 | 2026-11-04 | 2026-11-07 | unknown |
 | [serenity-stock-choke](entries/finance-quant/fadewalk-serenity-stock-choke.md) | 508 | 56 | 週次 | 4 | 2026-10-06 | 2026-11-05 | 2026-11-07 | MIT |
 | [A-Share Quant Selector](entries/finance-quant/dzy-hw-xd-a-share-quant-selector.md) | 506 | 107 | 停滞 | 0 | 2026-09-08 | 2026-11-05 | 2026-11-07 | MIT |
-
-### コーディングエージェント（16）
-
-| 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
-|---|---:|---:|---|---:|---|---|---|---|
-| [Karpathy Guidelines（karpathy-guidelines スキル）](entries/coding-agent/multica-ai-andrej-karpathy-skills.md) ⚑ | 230,810 | 22,965 | 停滞 | 0 | 2026-04-20 | 2026-11-08 | 2026-11-09 | unknown |
-| [Caveman](entries/coding-agent/juliusbrussee-caveman.md) ⚑ | 118,293 | 6,883 | 毎日 | 100+ | 2026-11-08 | 2026-11-08 | 2026-11-09 | Apache-2.0 |
-| [Agent Skills](entries/coding-agent/addyosmani-agent-skills.md) ⚑ | 114,034 | 11,915 | 毎日 | 100+ | 2026-11-01 | 2026-11-08 | 2026-11-09 | MIT |
-| [CodeGraph](entries/coding-agent/colbymchenry-codegraph.md) | 76,377 | 5,078 | 毎日 | 100+ | 2026-11-01 | 2026-11-03 | 2026-11-03 | MIT |
-| [claude-code-templates](entries/coding-agent/davila7-claude-code-templates.md) ⚑ | 33,210 | 3,896 | 毎日 | 100+ | 2026-11-08 | 2026-11-08 | 2026-11-09 | MIT |
-| [jcode](entries/coding-agent/1jehuang-jcode.md) | 21,484 | 2,506 | 毎日 | 100+ | 2026-11-04 | 2026-11-04 | 2026-11-04 | MIT |
-| [Craft Anything](entries/coding-agent/storytold-craft-anything.md) | 17,885 | 3,282 | 毎日 | 100+ | 2026-11-06 | 2026-11-06 | 2026-11-06 | Apache-2.0 |
-| [meta/astryx](entries/coding-agent/meta-astryx.md) ⚑ | 16,728 | 1,321 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | MIT |
-| [fast-jev-compaction](entries/coding-agent/tamaratran-fast-jev-compaction.md) ⚑ | 7,917 | 581 | 月次 | 0 | 2026-09-18 | 2026-11-08 | 2026-11-09 | MIT |
-| [ZSeven-W/openpencil](entries/coding-agent/zseven-w-openpencil.md) ⚑ | 7,154 | 622 | 毎日 | 100+ | 2026-11-08 | 2026-11-09 | 2026-11-09 | MIT |
-| [obsidianmd/obsidian-sample-plugin](entries/coding-agent/obsidianmd-obsidian-sample-plugin.md) ⚑ | 4,654 | 1,808 | 停滞 | 0 | 2026-08-02 | 2026-11-09 | 2026-11-09 | 0BSD |
-| [pstack-claude](entries/coding-agent/michael-denyer-pstack-claude.md) ⚑ | 4,144 | 377 | 毎日 | 100+ | 2026-11-07 | 2026-11-08 | 2026-11-09 | MIT |
-| [oh-my-mermaid（omm）](entries/coding-agent/oh-my-mermaid-oh-my-mermaid.md) | 3,380 | 267 | 停滞 | 0 | 2026-04-07 | 2026-11-05 | 2026-11-05 | MIT |
-| [ppmpreetham/BUI](entries/coding-agent/ppmpreetham-bui.md) ⚑ | 2,223 | 84 | 毎日 | 100+ | 2026-11-08 | 2026-11-09 | 2026-11-09 | GPL-3.0 |
-| [reacher-z/Awesome-REA](entries/coding-agent/reacher-z-awesome-rea.md) ⚑ | 2,112 | 391 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | MIT |
-| [Dual-Brain — 設計とコードの二視点レビュー用スキル](entries/coding-agent/sleeplesshan-dual-brain.md) ⚑ | 101 | 6 | 週次 | 6 | 2026-11-06 | 2026-11-09 | 2026-11-09 | MIT |
 
 ### その他（15）
 
@@ -372,6 +374,18 @@
 |---|---:|---:|---|---:|---|---|---|---|
 | [lucas-martinic/polyfork-catalog](entries/link-asset/lucas-martinic-polyfork-catalog.md) ⚑ | 426 | 47 | 週次 | 7 | 2026-11-08 | 2026-11-09 | 2026-11-09 | NOASSERTION |
 | [idlerunner00/procedural-pixel-creatures](entries/link-asset/idlerunner00-procedural-pixel-creatures.md) ⚑ | 258 | 31 | 月次 | 0 | 2026-10-05 | 2026-11-09 | 2026-11-09 | MIT |
+
+### image-generation（1）
+
+| 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
+|---|---:|---:|---|---:|---|---|---|---|
+| [Fumika — ローカル漫画・画像・LoRA学習スタジオ](entries/image-generation/7err4-fumika.md) ⚑ | 5 | 3 | 停滞 | 0 | 2026-10-25 | 2026-11-09 |  | NOASSERTION |
+
+### productivity（1）
+
+| 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
+|---|---:|---:|---|---:|---|---|---|---|
+| [OverlaySubs — PC音声のリアルタイム翻訳オーバーレイ字幕](entries/productivity/sp-yduck-overlaysubs.md) ⚑ | 31 | 3 | 停滞 | 0 | 2026-11-09 | 2026-11-09 |  | MIT |
 
 ## プロンプト（11）
 
@@ -626,7 +640,7 @@
 - **[Phind](links/rag/https-www.phind.com.md)** ⚑  @hey_Jessicaai
   - 開発者向け検索・回答サービスとして紹介されたPhind。
 
-## モデル（52）
+## モデル（53）
 
 ### その他（14）
 
@@ -751,12 +765,17 @@
 - **[kakaocorp/kanana-2-v-decide-3b-2611](models/eval/kakaocorp-kanana-2-v-decide-3b-2611.md)** ⚑  free / kakaocorp
   - 文章/JSON/チャットと最大10画像を受け、選択肢・yes/no・スコアの確率分布を返す3.67Bの判定モデル。長文テキストを生成するものではない。
 
+### image-generation（1）
+
+- **[Juggernaut Moss V1](models/image-generation/juggernaut-moss-v1.md)** ⚑
+  - ポートレート・シネマティックシーンの生成
+
 ### RAG・検索（1）
 
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（52）
+## 記事（53）
 
 ### 動画生成パイプライン（12）
 
@@ -841,6 +860,10 @@
 
 - **[GameFeelとQwen-4-Flash-Early比較評価の読み方](articles/2026-11-09-https-x.com-follistatindev-status-2119220233751671186.md)** ⚑  @mirai_yuki_tech
 
+### image-generation（1）
+
+- **[Glada's MOSS Image Workflow v2](articles/image-generation/gladas-moss-image-workflow-v2.md)** ⚑  aiaicreate（紹介）
+
 ### リンク（サービス・ツール）（1）
 
 - **[「違法っぽいけど合法」30サイトまとめの検証メモ](articles/2026-11-07-hey_jessicaai-30-websites-list.md)** ⚑  @hey_Jessicaai
@@ -860,6 +883,7 @@
 - [Claude Animated Shorts](entries/3d-motion/mromidev-claude-animated-shorts.md) — unverified / 今回の紹介はREADMEと一致したが、新たな実行検証ではない。 今回の動作・推論・生成・性能は未検証。
 - [toyxyz/toyxyz_RGBMocap](entries/3d-motion/toyxyz-toyxyz_rgbmocap.md) — unverified / MITは自作コードのみ。ExMR/GVHMR/PromptHMRと登録ボディには非商用等の別条件。FlowHMRも重みは非商用であり、コードのApacheを重みに適用しない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [patch-gg/anymove](entries/3d-motion/patch-gg-anymove.md) — unverified / 5秒2カメラ0.26ドルだけでなく実用1動作約3ドル・合格率58%等も作者説明。8本脚・寝姿・翼・尻尾等は不可。クラウド版なし、速度・精度は未追試。 当方でインストール・推論・生成・ベンチ再現はしていない。
+- [prompt2rig — プロンプトから3Dキャラクター動作を生成](entries/3d-motion/blendi-remade-prompt2rig.md) — unverified / コードはApache-2.0だが、HQパスの依存関係が商用を制限。GVHMR=教育・研究・非営利のみ。SMPL-X=非商用（商用はMeshcapadeから別途）。WiLoR=CC-BY-NC-ND。MANO=非商用。Ultralytics YOLO=AGPL-3.0（コピーレフト、エンタープライズライセンス別途）。MediaPipe・three.jsは商用可。Webアプリ・ライブプレビュー・動画生成は商用可能。HQパスを商用で使うには依存関係の置き換えまたは別途ライセンスが必要。動画モデル（FLUX 3 Max/H3 Max Turbo）はfalおよびモデル提供元の条件に従う。当方未実行。 当方でインストール・動作・性能の実行検証はしていない。
 - [shinshin86/aituber-onair](entries/3d-motion/shinshin86-aituber-onair.md) — unverified / 投稿の10種とページ9種は不一致。APIキーはlocalStorage平文、Live2DはCubism Core手動配置。公開オリジンへそのまま配備非推奨で各素材ライセンスも別。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Lida-V/3DCharaMakeSkills-Lida](entries/3d-motion/lida-v-3dcharamakeskills-lida.md) — unverified / Lida Attribution License1.0は商用・改変・組込み・再配布を許すが再配布時は出典保持。制作物へのクレジットは不要という原チェック記録。外部API費用は別。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [lovisdotio/video-to-texture](entries/3d-motion/lovisdotio-video-to-texture.md) — unverified / 4096²・120フレームを55.8秒等は作者申告。SfM不要でも元メッシュ・既知カメラ・有料生成が必要で、ゼロ費用ではない。 当方でインストール・推論・生成・ベンチ再現はしていない。
@@ -937,6 +961,7 @@
 - [ZSeven-W/openpencil](entries/coding-agent/zseven-w-openpencil.md) — unverified / 「普通模式」という機能名は原チェックで裏付けなし。宣伝動画制作に使ったRenoise MCPは外部有料サービスで本体の無料機能ではない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [obsidianmd/obsidian-sample-plugin](entries/coding-agent/obsidianmd-obsidian-sample-plugin.md) — unverified / 0BSDは雛形の条件で、組み込む他のコードやObsidian本体の条件は別。ビルド・プラグイン起動は未確認。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [pstack-claude](entries/coding-agent/michael-denyer-pstack-claude.md) — unverified / 投稿の media は対象と無関係な日本語ニュース系の転載（静止画は著名人のポートレートで、リポジトリやAIツールの内容を含まない）。動画 mp4 は vision で内容を確認できないため評価に使っていない。effectiveness は README の記述＝作者の主張で、第三者による効果測定は公開されていない。Codex / Copilot / Pi などの対応は各ランタイム向けマッピングと synthetic provider のスモークテストに基づく自己申告で、実モデルの遵守は一部しか確認されていないと docs/reference.md に注記がある。
+- [nanoMuse — 自分のデバイスで動くオープンソースパーソナルエージェント](entries/coding-agent/nano-muse-nanomuse.md) — unverified / Meta Platformsとは無関係の独立コミュニティプロジェクト。MuseはMetaの商標。中国大陸の携帯番号登録が必要な場合がある。デスクトップ版は未公証・未署名。当方未インストール。 当方でインストール・動作・性能の実行検証はしていない。
 - [ppmpreetham/BUI](entries/coding-agent/ppmpreetham-bui.md) — unverified / 即時モードではなく一つのノードツリーを保持する方式。IME・スクリーンリーダー未対応。GPL-3.0-or-laterで組込み配布の条件に注意。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [reacher-z/Awesome-REA](entries/coding-agent/reacher-z-awesome-rea.md) — unverified / indexed repos3309は自動収集で未レビュー。数の多さや公開索引を各項目の安全性・有用性の保証としない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Dual-Brain — 設計とコードの二視点レビュー用スキル](entries/coding-agent/sleeplesshan-dual-brain.md) — unverified / MIT。投稿のMS関連社内ハッカソンでAI審査員から満点という説明は作者の自己申告で、公式採点記録・Microsoftの推薦や認証を確認したものではない。READMEは旧5事例ベンチの比較条件・トークン二重計上に問題があり旧総数を撤回と明記。普遍的な性能改善や低遅延は保証しない。 当方でインストール・動作・性能の実行検証はしていない。
@@ -976,6 +1001,9 @@
 - [remove.bg](links/image-gen/https-www.remove.bg.md) — unverified / 原一覧には独立試験なし。現行の有料条件、無料枠、出力解像度と品質は未確認。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [sensenova/SenseNova-U1.5-8B-MoT-TailSteer](models/image-gen/sensenova-sensenova-u1.5-8b-mot-tailsteer.md) — unverified / Apache-2.0表記。RISE accuracy31.39→29.44という低下もあり、反復保持と単発編集品質を別に評価する。未実行。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [totaku_originalのビジュアル完成度を高める制作手順](articles/2026-11-09-https-x.com-i-article-2118242706573135872.md) — unverified / モデルの使い分けや完成度向上は著者の主観。プロンプト原文を創作・全文転載せず、未追試の技法紹介とする。 当方でインストール・推論・生成・ベンチ再現はしていない。
+- [Fumika — ローカル漫画・画像・LoRA学習スタジオ](entries/image-generation/7err4-fumika.md) — unverified / コードはApache-2.0だがCommons Clause付き（ソフトウェア自体の販売・ホスト有償サービスを制限）。OSIオープンソースではなくソース公開。ComfyUIノードパックはGPL-3.0。モデルは各配布元のライセンスに従う。出力物（ページ/漫画/アセット/LoRA）はFumikaのライセンス対象外。名称・ロゴ・キャラクターはAll rights reserved。当方未インストール。 当方でインストール・動作・性能の実行検証はしていない。
+- [Glada's MOSS Image Workflow v2](articles/image-generation/gladas-moss-image-workflow-v2.md) — unverified / リプライでの紹介のみ。ComfyUIワークフロー。当方で動作検証はしていない。
+- [Juggernaut Moss V1](models/image-generation/juggernaut-moss-v1.md) — unverified / 当方で生成・品質検証はしていない。V1のため手・細部文字・群衆・一部アートスタイルに課題。投稿者のブラインドテスト結果（勝率73%）を記載。
 - [lucas-martinic/polyfork-catalog](entries/link-asset/lucas-martinic-polyfork-catalog.md) — unverified / LICENSE.mdはindexのみ。各メッシュやmjsを同条件で再配布できない。投稿の2791件は原チェック時3077件より古い。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [idlerunner00/procedural-pixel-creatures](entries/link-asset/idlerunner00-procedural-pixel-creatures.md) — unverified / AI画像を生成するモデルではなく手続き型生成。95%が一プロンプト由来という制作比率は作者推定。原チェック時30日commit0で実機未確認。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Edmond キャラクター三面図（AIペルソナ用ターンアラウンド）](links/link-asset/x.com-edmond-ai.md) — unverified / 【権利】画像の再利用許諾・ライセンスは投稿にも画像にも明記が無く、閲覧はできるが転載・商用利用は許可されていないと解釈するのが妥当。自前キャラで同じレイアウトを再現するための作例として扱い、画像そのものを素材として再配布しない。【文脈】元ポストはpump.funで発行したミームコイン$EDMONDの失敗（ピーク$49.7K→$3.8K）を題材にした分析投稿で、添付画像はそのAIペルソナ「Edmond」の宣材。ポスト内の数値（フォロワー62.8K、再生25.3M、稼得約$15K、出来高$174K等）は投稿者の推計で、TikTok側・オンチェーン側とも一次確認していない（unverified）。画像内のプロフィール表示は62.9K Followers / 2.3M Likesで、ポスト本文の62.8Kとは微妙に食い違う。【未確認】生成元モデル・プロンプト・制作手順（メタデータ無し、動画は単なるキャラ動画で手順説明なし）。【リスク】実在人物風のAIキャラを他者のアカウント群に便乗させて増殖させる手法の一例であり、肖像・商標の模倣にならないよう注意。ミームコインの宣材である点も踏まえ、投資判断の材料にしない。
@@ -1044,6 +1072,7 @@
 - [SargeDev/Arete-27B-Uncensored-GGUF](models/other/sargedev-arete-27b-uncensored-gguf.md) — unverified / Apache-2.0表記。元派生重みの拒否試験を各GGUFの実行試験にしない。量子化品質・速度は未確認。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [mradermacher/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic-GGUF](models/other/mradermacher-deepseek-v4-pro-qwen3.5-9b-uncensored-heretic-gguf.md) — unverified / 原チェックではMTPテンソル欠落とconfig不一致によるllama.cppのロード失敗報告。元重み修復後の再生成・ロードは未確認。能力保持の宣伝は未追試。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [mradermacher/gemma-4-31B-it-ARA-heretic-GGUF](models/other/mradermacher-gemma-4-31b-it-ara-heretic-gguf.md) — unverified / 音声対話モデルやSophonの派生ではない。拒否低減の名称は安全性・能力保持の証明ではなく、量子化推論とライセンス継承の実体は別途確認する。 当方でインストール・推論・生成・ベンチ再現はしていない。
+- [OverlaySubs — PC音声のリアルタイム翻訳オーバーレイ字幕](entries/productivity/sp-yduck-overlaysubs.md) — unverified / コードはMIT。アプリ利用はOverlaySubs利用規約に従う。PLaMo 3 Translateの利用はPLaMoコミュニティライセンスに従う。ビルドはコード署名なし（SmartScreen/Gatekeeper警告あり）。自動アップデートなし。起動時にGitHub Releases APIへ匿名で最新版確認（1回のみ、失敗時無視）。当方未インストール。 当方でインストール・動作・性能の実行検証はしていない。
 - [Hallmark（AIっぽさを名指しで潰すデザインスキル）](entries/prompt-design/nutlope-hallmark.md) — unverified / リリースもタグも無い（`/releases` と `/tags` が空、バージョンは SKILL.md と package.json の 2.0.0 表記のみ）。更新は活発だが 30日85コミットの大半が数十件のコミュニティPRを同一分にまとめてマージしたもので、内容はテーマ検証・sloplint・capture のバグ修正が中心（docs/スクリプトのみで実行バイナリは無い）。未解決が issue 25・PR 15。リポジトリは 228MB（site/ と docs/screenshots/ の画像が主因）で、インストールされるスキル本体は 7.1MB。ブラウザ検査（`--render`）は puppeteer-core + Chrome が要り、無い場合は『render tier not run』と出して静的検査だけに落ちる（実測）。同期間の★増分『+7,600』は投稿の主張で、stargazers API が 4万件超のページを返さない（page 400 で 404）ため検証できない。★は API 値 49,068 を採る（投稿の『4.8万』とほぼ一致、やや過小）。同梱の写真755枚は Wikimedia Commons の CC0/PD/CC BY/CC BY-SA で、CC BY 系は著作者・ライセンス・元ページの表示が条件。スキルはエージェントのフル権限で走る（skills.sh の警告）ので、導入前に SKILL.md と scripts/ を読むべき。画像生成ステップだけは TOGETHER_API_KEY（FLUX.1.1-pro、有料）を使う。eval/README が『claude -p ではスキルは自動発火しない』と明記しており、名前で呼ぶ運用が前提。
 - [prompt-master](entries/prompt-design/nidhinjs-prompt-master.md) — unverified / 今回の投稿は機能紹介で新たな実行試験ではない。 今回の動作・推論・生成・性能は未検証。
 - [kepano/obsidian-minimal](entries/prompt-design/kepano-obsidian-minimal.md) — unverified / MIT表記を原チェックで確認。テーマの見た目・機能・バージョン互換性は未実行確認。 当方でインストール・推論・生成・ベンチ再現はしていない。
