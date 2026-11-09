@@ -1,5 +1,5 @@
 {
-  "count": 496,
+  "count": 497,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -9451,6 +9451,39 @@
       "type": "repo",
       "path": "entries/other/agronholm-apscheduler.md",
       "summary": "Python のコードを**後で1回**、または**周期的に**実行するスケジューラ。アプリ内に埋め込んで使う。"
+    },
+    {
+      "repo": "nuxt/ui",
+      "name": "Nuxt UI",
+      "genre": "other",
+      "url": "https://github.com/nuxt/ui",
+      "author": "nuxt",
+      "license": "MIT",
+      "stars": 7060,
+      "language": "TypeScript",
+      "created": "2021-11-15",
+      "updated": "2026-11-06",
+      "forks": 1154,
+      "open_issues": 188,
+      "commits_30d": 100,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "size_kb": 151230,
+      "archived": false,
+      "last_release": "v4.12.0",
+      "last_release_at": "2026-10-15",
+      "homepage": "https://ui.nuxt.com",
+      "type": "repo",
+      "flags": [],
+      "risk_notes": "「ページの JS が最大27%減」は本家 v4.12.0 リリースノートのベンダー計測で、公式ドキュメントサイトの JS gzip 251.9→183.9 kB（27.0%減）／生の JS 871.6→549.6 kB（36.9%減）という比較表の数字。利用者のアプリで同じ削減率になる保証ではなく、第三者による独立計測もない。Chart は @tanstack/charts（^1、optional peer）を別途インストールしないと使えない。投稿の「Nuxt の言語設定を見て」は正確には @nuxtjs/i18n が入っている場合の挙動で、peerDependencies には含まれない。投稿の「折れ線とドーナツ」は動画で確認できるが、実際のデモは area と bar も含む4種類。",
+      "added": "2026-11-09",
+      "first_seen": "2026-11-09",
+      "sources": [
+        "https://x.com/opensourcelab9/status/2113518286113767883"
+      ],
+      "fetched_at": "2026-11-09T01:33:00Z",
+      "path": "entries/other/nuxt-ui.md",
+      "summary": "Reka UI・Tailwind CSS・Tailwind Variants の上に作られた、型付きでアクセシブルな Vue コンポーネント集。Nuxt ではモジュールとして、素の Vue アプリでは Vite プラグインとして動く（README 冒頭）。"
     },
     {
       "repo": "WyattBlue/auto-editor",
