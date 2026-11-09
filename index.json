@@ -1,5 +1,5 @@
 {
-  "count": 545,
+  "count": 546,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -5744,6 +5744,28 @@
       "risk_notes": "元ポスト（@0xbobaaa, https://x.com/0xbobaaa/status/2107892817292939588）は 2026-11-08 時点で HTTP 404、Wayback のスナップショットもなく、原文の定義ファイルと実測値は確認できない。「3体で合計32万7千トークン」「親に戻ったのは報告3本」は紹介投稿による要約で、独立した検証はない。「返事は5行まで」の縛りが出力をどれだけ減らすかも未測定。一方、定義ファイルの書式・別コンテキストでの実行・利用上限への計上は公式ドキュメントで確認済み。候補に添付されていた画像（HWWvkhaa4AAPVqD.jpg）は stageshow スキルの紹介画像で本件とは無関係。",
       "fetched_at": "2026-11-08T17:00:30Z",
       "path": "articles/2026-10-22-0xbobaaa-sumika45379-claude-code-1.md"
+    },
+    {
+      "name": "Claude Code ダイナミックワークフロー（Dynamic workflows）",
+      "genre": "coding-agent",
+      "url": "https://code.claude.com/docs/en/workflows",
+      "author": "Anthropic",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "投稿の主張のうち、ワークフロー機能そのもの（JSスクリプトで多数のサブエージェントを編成、`claude --effort ultracode`、`/deep-research`、`/workflows`、ステージごとのモデル指定、isolated copy での並列編集）は一次情報で確認できる。一方、(1)「Haiku 5.5 が全ファイルをスキャンし Sonnet 5.5 が修正する」という固定の役割分担はページに記載がなく、投稿者のレシピ。モデル名（Opus 5.5 / Sonnet 5.5 / Haiku 5.5）自体は Claude Code の model-config に存在するが、この分担は既定動作ではない。(2)「JEV がミリ秒でマイクロ分岐をルーティングする」は当該ページにも docs 索引にも一切登場せず、ワークフロー機能の一部ではない（JEV は外部解説では TypeSafe の意思決定モデルと説明される別製品で、Anthropic の機能ではない。TypeSafe 一次ページは JS 主体で本文確認できず、この帰属は第三者解説に基づく）。「Anthropic が共有した」という帰属と、JEV を機能の一部のように説明する点は誤り。(3) 動画のみで静止画像はなく、フレーム単位の照合はしていない。コスト面はページが「トークンが大幅に増える」「利用上限に早く達する」と明記しており、投稿の「Opus トークンを節約」は主観で、ページの警告とは方向が異なる。",
+      "pricing": "paid",
+      "pricing_detail": "Claude Code は Free プランでは利用不可。Pro $20/月（年払い $17/月、$200 一括）、Max $100/月、Ultra $200/月、Team 標準 $20/席/月（年払い、月払い $25）、Premium $100/席/月（月払い $125）、Enterprise は席課金＋API 従量。API 直接利用・Bedrock・Google Cloud Agent Platform・Microsoft Foundry ではトークン従量。",
+      "signup_required": true,
+      "type": "link",
+      "added": "2026-11-09",
+      "first_seen": "2026-11-09",
+      "sources": [
+        "https://x.com/xsmryze/status/2113273069099688435"
+      ],
+      "fetched_at": "2026-11-09T12:08:41Z",
+      "path": "links/coding-agent/code.claude.com-claude-code-dynamic-workflows.md",
+      "summary": "1つの会話では捌ききれない規模の作業（コードベース全体のバグ掃討、500ファイルの移行、出典を突き合わせる調査）を、JavaScript のワークフロースクリプトに計画として持たせて実行するための Claude Code の機能。"
     },
     {
       "name": "Jev Skill Typeahead",
