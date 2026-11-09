@@ -1,5 +1,5 @@
 {
-  "count": 544,
+  "count": 545,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -5654,6 +5654,26 @@
       "risk_notes": "global gitignore追加だけでは既追跡や後からrepo化したケースを守れない。漏洩時は履歴削除だけでなくまず鍵を失効・ローテーション。実資格情報は転載しない。 当方でインストール・推論・生成・ベンチ再現はしていない。",
       "published": "2026-11-08",
       "path": "articles/2026-11-09-https-x.com-yoppy0123-status-2119219945179603110.md"
+    },
+    {
+      "name": "Claude Code advisor ツール（--advisor）",
+      "genre": "coding-agent",
+      "url": "https://code.claude.com/docs/en/advisor",
+      "author": "Anthropic",
+      "pricing": "paid",
+      "pricing_detail": "Free プランでは Claude Code 自体が使えない。Pro 月額 $20（年払い $17/月・$200 前払い）、Max $100/月、Ultra $200/月、または Anthropic API の従量課金。advisor の呼び出しは advisor モデルのトークンとして追加課金され、サブスクではプラン上限に算入される。",
+      "signup_required": true,
+      "flags": [],
+      "risk_notes": "一次情報（code.claude.com/docs/en/advisor、HTTP 200、2026-11-09 取得）で確認できたのは advisor ツール本体：--advisor フラグ・/advisor コマンド・advisorModel 設定の実在、モデルのペアリング表、課金の扱い、実験的機能である点。発見元ポストの主張のうち、Haiku 5.5 の読み取り専用サブエージェント3種（search/grep/docs）の並列実行と「JEV」は advisor のドキュメントに記載がなく、別機能または未確認。ポストの「Opus が3つの場面だけ介入する」は docs では“傾向”とされており、呼び出しを強制・上限する設定は存在しないため CLAUDE.md の記述で保証はできない。実験的機能のため仕様・料金・提供範囲は変更されうる。",
+      "type": "link",
+      "added": "2026-11-09",
+      "first_seen": "2026-11-09",
+      "sources": [
+        "https://x.com/xsmryze/status/2112887075796111618"
+      ],
+      "fetched_at": "2026-11-09T11:33:46Z",
+      "path": "links/coding-agent/code.claude.com-claude-code-advisor-advisor.md",
+      "summary": "Claude Code のセッション本体を速く安いモデル（例: Sonnet）で回し、方針決定など判断が重い場面だけ上位モデル（例: Opus）に相談させるための公式機能。全ターンを上位モデルで実行するより費用を抑えつつ、計画と完了判定の質を上げることを狙う。長いリファクタリング、同じエラーが繰り返すデバッグ、完了前に"
     },
     {
       "type": "link",

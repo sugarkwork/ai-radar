@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 544 件 — リポジトリ 316, リンク集 96, 記事 65, モデル 53, プロンプト 14 / ⚑ 要確認 342 件
+収録 545 件 — リポジトリ 316, リンク集 97, 記事 65, モデル 53, プロンプト 14 / ⚑ 要確認 342 件
 
 ## リポジトリ（316）
 
@@ -451,7 +451,7 @@
 - **[MiniMax H3：20種のダンスと音楽指定](prompts/video-gen/minimax-h3-20-dance-music.md)** ⚑  MiniMax H3 / EndFolding79421
   - キャラクターシートを参照し、6秒間の全身ダンスと音楽・環境音を指示するための投稿者のテンプレート。ダンス20種類の音楽指定例を含む。
 
-## リンク集（96）
+## リンク集（97）
 
 ### リンク（作例・インスピレーション）（18）
 
@@ -640,8 +640,10 @@
 - **[SadTalker商用サイト（OSS本体とは別）](links/video-gen/https-sadtalker.ai.md)** ⚑  @hey_Jessicaai
   - 写真等から発話映像を作ると紹介されたsadtalker.aiの商用サイト。
 
-### コーディングエージェント（3）
+### コーディングエージェント（4）
 
+- **[Claude Code advisor ツール（--advisor）](links/coding-agent/code.claude.com-claude-code-advisor-advisor.md)**  paid / Anthropic
+  - Claude Code のセッション本体を速く安いモデル（例: Sonnet）で回し、方針決定など判断が重い場面だけ上位モデル（例: Opus）に相談させるための公式機能。全ターンを上位モデルで実行するより費用を抑えつつ、計画と完了判定の質を上げることを狙う。長いリファクタリング、同じエラーが繰り返すデバッグ、完了前に
 - **[Claude Code カスタムサブエージェント（公式ドキュメント）](links/coding-agent/code.claude.com-claude-code.md)** ⚑  paid / Anthropic
   - メイン会話を検索結果・ログ・ファイル内容で埋めずに、副作業を別コンテキストの専用エージェントに任せ、要約だけ受け取るための公式の仕組み。
 - **[Jev Skill Typeahead](links/coding-agent/aitmpl.com-jev-skill-typeahead.md)** ⚑  free / davila7 (claude-code-templates) / 判定モデル Jev は TypeSafe
