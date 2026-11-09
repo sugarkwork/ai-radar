@@ -1,5 +1,5 @@
 {
-  "count": 486,
+  "count": 487,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -4370,6 +4370,43 @@
       "type": "repo",
       "path": "entries/coding-agent/colbymchenry-codegraph.md",
       "summary": "コードベースを「事前索引化した知識グラフ」にして、MCP サーバー経由でエージェントに渡す。シンボル・呼び出しエッジ・依存関係を1回の問い合わせで返すため、エージェントはファイルを総当たりで読まなくて済む。"
+    },
+    {
+      "repo": "davila7/claude-code-templates",
+      "name": "claude-code-templates",
+      "genre": "coding-agent",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "author": "Daniel Ávila (@dani_avila7)",
+      "license": "MIT",
+      "stars": 33210,
+      "language": "Python",
+      "created": "2025-07-04",
+      "updated": "2026-11-08",
+      "forks": 3896,
+      "open_issues": 456,
+      "commits_30d": 100,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "size_kb": 301379,
+      "archived": false,
+      "last_release": "v1.29.7",
+      "last_release_at": "2026-10-09",
+      "fetched_at": "2026-11-08T17:50:16Z",
+      "source_post": "https://x.com/opensourcelab9/status/2113238959862284769",
+      "sources": [
+        "https://www.aitmpl.com",
+        "https://x.com/dani_avila7/status/2109822699174559748",
+        "https://x.com/opensourcelab9/status/2113238959862284769"
+      ],
+      "first_seen": "2026-11-08",
+      "added": "2026-11-08",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "Turn Inspector の描画は Claude Code 2.1.287+ の実機では未実行で、リポジトリ同梱の README・hooks 実装・テストファイルと作者のデモ動画に基づく確認。インストールコマンド自体（npx claude-code-templates@latest --mod ui/turn-inspector）は空ディレクトリで実行し、6ファイルが配置されることを実測した。ブロック別トークン数は概算（約4文字/トークン）で、正確なのはリクエスト単位の入出力合計のみ。mod は v0.1.0 と新しく、GitHub Releases は v1.29.7（2026-10-09）で npm の 1.32.2（2026-11-07）より遅れている。",
+      "type": "repo",
+      "path": "entries/coding-agent/davila7-claude-code-templates.md",
+      "summary": "Claude Code の設定部品を1つのカタログから入れる CLI。README の表では skills 918 / agents 422 / commands 288 / MCPs 119 / settings 80 / hooks 63 / mods 50 / loops 18 / templates 14 / "
     },
     {
       "repo": "1jehuang/jcode",
