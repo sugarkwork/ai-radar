@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 549 件 — リポジトリ 316, リンク集 99, 記事 67, モデル 53, プロンプト 14 / ⚑ 要確認 346 件
+収録 550 件 — リポジトリ 317, リンク集 99, 記事 67, モデル 53, プロンプト 14 / ⚑ 要確認 347 件
 
-## リポジトリ（316）
+## リポジトリ（317）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -79,7 +79,7 @@
 | [utillayer/youtube-agent-skill](entries/video-gen/utillayer-youtube-agent-skill.md) ⚑ | 12 | 2 | 週次 | 16 | 2026-10-29 | 2026-11-09 | 2026-11-09 | MIT |
 | [BennyDaBall930/comfyui_hyperflow_int8_nodes](entries/video-gen/bennydaball930-comfyui_hyperflow_int8_nodes.md) ⚑ | 3 | 0 | 週次 | 9 | 2026-11-08 | 2026-11-09 | 2026-11-09 | GPL-3.0 |
 
-### エージェント基盤・スキル集（61）
+### エージェント基盤・スキル集（62）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -115,6 +115,7 @@
 | [InkOS](entries/agent-framework/narcooo-inkos.md) | 11,002 | 2,002 | 週次 | 6 | 2026-10-24 | 2026-11-04 | 2026-11-04 | AGPL-3.0 |
 | [jakubkrehel/skills（UI デザインスキル集）](entries/agent-framework/jakubkrehel-skills.md) | 10,894 | 421 | 毎日 | 31 | 2026-11-02 | 2026-11-05 | 2026-11-05 | MIT |
 | [zhu1090093659/dsh-web](entries/agent-framework/zhu1090093659-dsh-web.md) ⚑ | 10,237 | 626 | 毎日 | 100+ | 2026-11-08 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
+| [Mobilerun](entries/agent-framework/droidrun-mobilerun.md) ⚑ | 10,004 | 1,086 | 毎日 | 94 | 2026-11-08 | 2026-11-09 | 2026-11-09 | MIT |
 | [CyberStrikeAI](entries/agent-framework/aipentest-cyberstrikeai.md) ⚑ | 8,488 | 1,870 | 毎日 | 100+ | 2026-11-08 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
 | [HKUDS/AgentPilot](entries/agent-framework/hkuds-agentpilot.md) ⚑ | 7,961 | 938 | 月次 | 3 | 2026-11-06 | 2026-11-09 | 2026-11-09 | MIT |
 | [unslop](entries/agent-framework/heydamir-unslop.md) | 7,557 | 381 | 週次 | 12 | 2026-11-01 | 2026-11-04 | 2026-11-04 | CC-BY-4.0 |
@@ -998,6 +999,7 @@
 - [Worktrunk](entries/agent-framework/max-sixty-worktrunk.md) — unverified / 発見元の投稿は画面録画MCP（t.co リンク先は gmpetrov/agent-screenplay）の紹介で、worktrunk はそのツールではない。worktrunk は git worktree 管理 CLI で、投稿本文に worktrunk への言及はない。数値・機能は worktrunk 自身の API/README/公式ドキュメントで確認した。
 - [dsh-market/dsh-market](entries/agent-framework/dsh-market-dsh-market.md) — unverified / 4200以上のプラグインという数は投稿/READMEの主張で独立確認なし。市場の掲載は各プラグインの安全性保証ではない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [zhu1090093659/dsh-web](entries/agent-framework/zhu1090093659-dsh-web.md) — unverified / 10選への掲載とGitHub実在確認は動作試験ではない。外部公開時の安全性・セッション保持・料金は未確認。 当方でインストール・推論・生成・ベンチ再現はしていない。
+- [Mobilerun](entries/agent-framework/droidrun-mobilerun.md) — unverified / 投稿の主張のうち一次情報で確認できたのは「root不要」「ADB経由で実機を操作」「MIT」まで。未確認/誤り: (1)「300+機種・40ブランド対応」は README・docs に記載がなく、要件は Android 8.0(API 26)+ のみ。(2)「家庭内Wi-FiのADBは誰でも命令できる抜け穴」は誤りで、公式docsは Android 11+ のワイヤレスデバッグにペアリングコード(or QR)による adb pair を必須と明記。(3)「3ツールのエージェントをMCPとしてClaude Codeに接続」は repo の実装と不一致。repo 内 mobilerun/mcp は外部MCPサーバーをツールとして取り込むクライアント側で、MCPサーバーは提供していない。コーディングエージェント連携は別リポジトリの Markdown スキル mobile-harness 経由。(4) エージェントの操作は9種(click/long_press/type/system_button/swipe/open_app/get_state/take_screenshot/complete)で「3ツール」ではない。(5)「1言でTelegramを開きChatGPTを入れる」動作は docs/README に実演記録がなく、Play Store 経由の自動インストールは未確認(Portal は URL からの APK インストールには対応)。(6) 引用記事 https://x.com/i/article/2109686434210693120 はログイン要求で本文未取得。(7) ベンチマーク 100% AndroidWorld / 98.34% iOSWorld はベンダー自己申告で第三者追試なし。
 - [CyberStrikeAI](entries/agent-framework/aipentest-cyberstrikeai.md) — unverified / 認可前提: README と security-model.md が「所有または明示的に許可されたシステムにのみ使用」と明記する高権限ツール。WebShell 管理・内蔵 C2（リスナー、暗号化ビーコン、セッション、ペイロード生成）・Metasploit / mimikatz / responder などのポストエクスプロイト系レシピを含み、認可なき標的への実行は違法行為になり得る。実装上の注意として、security-model.md は「c2.enabled: false unless required」を本番基準とする一方、リポジトリ同梱の config.example.yaml は `c2: enabled: true`（省略時も既定で有効とのコメント付き）であり、既定値の解釈が文書間で一致しない。HTTP API はトークンをクエリ文字列でも受け付けるため、ログ経由の漏えいに注意。プロンプトインジェクションは標的側の応答がエージェントのツール選択に影響し得る脅威として security-model.md 自身が挙げている。未検証範囲: 有効性（検出率・成功率）の第三者実測は無く、README の網羅性主張とベンチマーク非公開のまま。実運用での誤検知率、C2/WebShell の検知回避性能、マルチエージェント編成の品質は未確認。
 - [HKUDS/AgentPilot](entries/agent-framework/hkuds-agentpilot.md) — unverified / Terminal-Bench 63.8%・AIME改善はREADMEの自己報告。9B戦略モデルの重みの取得方法は原チェックで確認できていない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [ccch1mneyyy/dsh-TUI](entries/agent-framework/ccch1mneyyy-dsh-tui.md) — unverified / 「DSH公式推薦」は投稿の主張で公式根拠未確認。DeepSeek公式配布と断定せず、CLI操作は未実行。 当方でインストール・推論・生成・ベンチ再現はしていない。

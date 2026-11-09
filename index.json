@@ -1,5 +1,5 @@
 {
-  "count": 549,
+  "count": 550,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -3106,6 +3106,40 @@
       "fetched_at": "2026-11-09T00:30:39.263961+00:00",
       "path": "entries/agent-framework/zhu1090093659-dsh-web.md",
       "summary": "DSHをWebから扱うUIとして10選で紹介されたdsh-web。"
+    },
+    {
+      "repo": "droidrun/mobilerun",
+      "name": "Mobilerun",
+      "genre": "agent-framework",
+      "url": "https://github.com/droidrun/mobilerun",
+      "author": "droidrun",
+      "license": "MIT",
+      "stars": 10004,
+      "language": "Python",
+      "created": "2025-04-12",
+      "updated": "2026-11-08",
+      "forks": 1086,
+      "open_issues": 38,
+      "commits_30d": 94,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 108480,
+      "archived": false,
+      "last_release": "v0.7.4",
+      "last_release_at": "2026-10-27",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "投稿の主張のうち一次情報で確認できたのは「root不要」「ADB経由で実機を操作」「MIT」まで。未確認/誤り: (1)「300+機種・40ブランド対応」は README・docs に記載がなく、要件は Android 8.0(API 26)+ のみ。(2)「家庭内Wi-FiのADBは誰でも命令できる抜け穴」は誤りで、公式docsは Android 11+ のワイヤレスデバッグにペアリングコード(or QR)による adb pair を必須と明記。(3)「3ツールのエージェントをMCPとしてClaude Codeに接続」は repo の実装と不一致。repo 内 mobilerun/mcp は外部MCPサーバーをツールとして取り込むクライアント側で、MCPサーバーは提供していない。コーディングエージェント連携は別リポジトリの Markdown スキル mobile-harness 経由。(4) エージェントの操作は9種(click/long_press/type/system_button/swipe/open_app/get_state/take_screenshot/complete)で「3ツール」ではない。(5)「1言でTelegramを開きChatGPTを入れる」動作は docs/README に実演記録がなく、Play Store 経由の自動インストールは未確認(Portal は URL からの APK インストールには対応)。(6) 引用記事 https://x.com/i/article/2109686434210693120 はログイン要求で本文未取得。(7) ベンチマーク 100% AndroidWorld / 98.34% iOSWorld はベンダー自己申告で第三者追試なし。",
+      "type": "repo",
+      "added": "2026-11-09",
+      "first_seen": "2026-11-09",
+      "sources": [
+        "https://x.com/N01ennn/status/2114070418394927499"
+      ],
+      "fetched_at": "2026-11-09T13:09:34Z",
+      "path": "entries/agent-framework/droidrun-mobilerun.md",
+      "summary": "自然言語のゴールを渡すと、エージェントが画面を読み、tap・swipe・文字入力・アプリ起動まで自分で組み立てて実行する(Android 実機/エミュレータ、iOS 実機/シミュレータ)。"
     },
     {
       "repo": "AIPentest/CyberStrikeAI",
