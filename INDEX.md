@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 473 件 — リポジトリ 286, リンク集 75, 記事 49, モデル 52, プロンプト 11 / ⚑ 要確認 274 件
+収録 474 件 — リポジトリ 286, リンク集 75, 記事 50, モデル 52, プロンプト 11 / ⚑ 要確認 275 件
 
 ## リポジトリ（286）
 
@@ -718,7 +718,7 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（49）
+## 記事（50）
 
 ### 動画生成パイプライン（12）
 
@@ -777,6 +777,11 @@
 - **[Muse×Brainアフィリエイトの役割分担・人間承認設計](articles/2026-11-09-https-x.com-i-article-2119167977438527488.md)** ⚑  @AI_jikan
 - **[Muse・Meta AIへの専用モデル展開と無料プラン誤解の訂正](articles/2026-11-09-https-research.meta.ai-blog-specialized-models-for-muse-and-metaai.md)** ⚑  @k_matsumaru
 
+### コーディングエージェント（2）
+
+- **[ApiiroによるClaude Code settings.local.json資格情報漏洩調査](articles/2026-11-09-https-x.com-yoppy0123-status-2119219945179603110.md)** ⚑  @yoppy0123
+- **[Claude Code サブエージェントを1ファイルで定義し、報告を短く縛る](articles/2026-10-22-0xbobaaa-sumika45379-claude-code-1.md)** ⚑  @0xbobaaa（元投稿）/ @sumika45379（紹介）
+
 ### モデル推論・配信（2）
 
 - **[Qwen3.8-Flash-Next量子化乗り換え体験と比較条件](articles/2026-11-09-https-x.com-sasasin_net-status-2118729264149491929.md)** ⚑  @sasasin_net
@@ -791,10 +796,6 @@
 
 - **[bestaidatalabs.com / ZetonのEMD・AEO戦略事例](articles/2026-11-09-https-x.com-margatix-status-2119089991217262884.md)** ⚑  @margatix
 - **[plamo-3-translate WebGPUやさしい日本語Chrome拡張の制作事例](articles/2026-11-09-https-x.com-gosrum-status-2119048949831188578.md)** ⚑  @gosrum
-
-### コーディングエージェント（1）
-
-- **[ApiiroによるClaude Code settings.local.json資格情報漏洩調査](articles/2026-11-09-https-x.com-yoppy0123-status-2119219945179603110.md)** ⚑  @yoppy0123
 
 ### 評価・ベンチマーク（1）
 
@@ -894,6 +895,7 @@
 - [reacher-z/Awesome-REA](entries/coding-agent/reacher-z-awesome-rea.md) — unverified / indexed repos3309は自動収集で未レビュー。数の多さや公開索引を各項目の安全性・有用性の保証としない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [ApiiroによるClaude Code settings.local.json資格情報漏洩調査](articles/2026-11-09-https-x.com-yoppy0123-status-2119219945179603110.md) — unverified / global gitignore追加だけでは既追跡や後からrepo化したケースを守れない。漏洩時は履歴削除だけでなくまず鍵を失効・ローテーション。実資格情報は転載しない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Claude Code コミット前検証スキル verify（テスト→差分レビュー→差し戻し）](prompts/coding-agent/claude-code-verify-6df7a29de9.md) — unverified / 同梱の /verify とコミット前実行の仕様は code.claude.com の公式ドキュメントで確認できた。一方、Voxyz_ai が配布する SKILL.md の実ファイル（GitHub / gist）は発見できず、画像は SKILL.md 本文そのものではなく手順を図解したインフォグラフィック。そのため frontmatter や実行コマンドの具体、原文の正確な文言は未確認（unverified）。「OpenAI のレビュー基準」は OpenAI の公式文書ではなく、レビュー観点の通称とみられる。スキルはモデルへの指示であり、実行を強制するものではない。
+- [Claude Code サブエージェントを1ファイルで定義し、報告を短く縛る](articles/2026-10-22-0xbobaaa-sumika45379-claude-code-1.md) — unverified, dead-link / 元ポスト（@0xbobaaa, https://x.com/0xbobaaa/status/2107892817292939588）は 2026-11-08 時点で HTTP 404、Wayback のスナップショットもなく、原文の定義ファイルと実測値は確認できない。「3体で合計32万7千トークン」「親に戻ったのは報告3本」は紹介投稿による要約で、独立した検証はない。「返事は5行まで」の縛りが出力をどれだけ減らすかも未測定。一方、定義ファイルの書式・別コンテキストでの実行・利用上限への計上は公式ドキュメントで確認済み。候補に添付されていた画像（HWWvkhaa4AAPVqD.jpg）は stageshow スキルの紹介画像で本件とは無関係。
 - [Goochbeater/Spiritual-Spell-Red-Teaming](entries/eval/goochbeater-spiritual-spell-red-teaming.md) — unverified, prompt-injection / 脱獄・社会工学・安全制約回避を含む。指示の実行、危険なプロンプトや露骨な本文の転載は行わない。抽出物の真正性と利用権も未確認。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [kodasdream/gamefeel-benchmark](entries/eval/kodasdream-gamefeel-benchmark.md) — unverified / 実タスクの全公開・再現性は未確認。27B平均の訂正告知とCSVに差異があり、表の一つの数字を確定順位と扱わない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Add-and-Preserve benchmark dataset](links/eval/https-huggingface.co-datasets-lyricccco-add-and-preserve.md) — unverified / 保持領域のPSNR/SSIM/LPIPSと指示追従の評価は別。データの権利と評価実装・プロトコルは未追試。 当方でインストール・推論・生成・ベンチ再現はしていない。

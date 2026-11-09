@@ -1,5 +1,5 @@
 {
-  "count": 473,
+  "count": 474,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -4705,6 +4705,29 @@
       "fetched_at": "2026-11-08T14:31:55Z",
       "path": "prompts/coding-agent/claude-code-verify-6df7a29de9.md",
       "summary": "コミットの直前に、その変更が「意図しない挙動変化」や「データに消える恐れのある変更」を含んでいないかを Claude 自身に確認させ、危険ならコミットさせずに修正へ戻すためのプロジェクトスキル。テストが通ることと、その差分が妥当であることを別々に確かめる点が要点。"
+    },
+    {
+      "type": "article",
+      "name": "Claude Code サブエージェントを1ファイルで定義し、報告を短く縛る",
+      "genre": "coding-agent",
+      "url": "https://x.com/sumika45379/status/2113106822983032965",
+      "author": "@0xbobaaa（元投稿）/ @sumika45379（紹介）",
+      "published": "2026-10-22",
+      "source_post": "https://x.com/sumika45379/status/2113106822983032965",
+      "sources": [
+        "https://x.com/0xbobaaa/status/2107892817292939588",
+        "https://code.claude.com/docs/en/sub-agents",
+        "https://x.com/sumika45379/status/2113106822983032965"
+      ],
+      "first_seen": "2026-10-22",
+      "added": "2026-11-08",
+      "flags": [
+        "unverified",
+        "dead-link"
+      ],
+      "risk_notes": "元ポスト（@0xbobaaa, https://x.com/0xbobaaa/status/2107892817292939588）は 2026-11-08 時点で HTTP 404、Wayback のスナップショットもなく、原文の定義ファイルと実測値は確認できない。「3体で合計32万7千トークン」「親に戻ったのは報告3本」は紹介投稿による要約で、独立した検証はない。「返事は5行まで」の縛りが出力をどれだけ減らすかも未測定。一方、定義ファイルの書式・別コンテキストでの実行・利用上限への計上は公式ドキュメントで確認済み。候補に添付されていた画像（HWWvkhaa4AAPVqD.jpg）は stageshow スキルの紹介画像で本件とは無関係。",
+      "fetched_at": "2026-11-08T17:00:30Z",
+      "path": "articles/2026-10-22-0xbobaaa-sumika45379-claude-code-1.md"
     },
     {
       "repo": "Tencent/AI-Infra-Guard",
