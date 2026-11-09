@@ -1,5 +1,5 @@
 {
-  "count": 488,
+  "count": 489,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -4886,6 +4886,28 @@
       "risk_notes": "元ポスト（@0xbobaaa, https://x.com/0xbobaaa/status/2107892817292939588）は 2026-11-08 時点で HTTP 404、Wayback のスナップショットもなく、原文の定義ファイルと実測値は確認できない。「3体で合計32万7千トークン」「親に戻ったのは報告3本」は紹介投稿による要約で、独立した検証はない。「返事は5行まで」の縛りが出力をどれだけ減らすかも未測定。一方、定義ファイルの書式・別コンテキストでの実行・利用上限への計上は公式ドキュメントで確認済み。候補に添付されていた画像（HWWvkhaa4AAPVqD.jpg）は stageshow スキルの紹介画像で本件とは無関係。",
       "fetched_at": "2026-11-08T17:00:30Z",
       "path": "articles/2026-10-22-0xbobaaa-sumika45379-claude-code-1.md"
+    },
+    {
+      "name": "Jev Skill Typeahead",
+      "genre": "coding-agent",
+      "url": "https://www.aitmpl.com/component/mods/productivity/jev-skill-typeahead",
+      "pricing": "free",
+      "pricing_detail": "Mod 本体は MIT ライセンスの davila7/claude-code-templates に含まれ、npx で取得できてアカウント登録は不要（aitmpl.com に料金ページはなく /pricing は 404）。ただし Jev による確率判定を有効にする場合は TypeSafe API キー（または Vercel AI Gateway のキー）が必要で、その外部サービスの料金は別。キー未設定でもキーワード一致モードで動作する。",
+      "signup_required": false,
+      "author": "davila7 (claude-code-templates) / 判定モデル Jev は TypeSafe",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "投稿の「確率つきで出る」は半分正確。停止後に出る『Jev decided』行の % はバックエンド(Jev)が返す probability だが、入力中に即時表示される % は名前・説明と下書きの語の重なり（IDF 重み付き被覆率。policy.ts では 100*raw/total/1.6 を丸めた値）であって確率ではない。builtin プロバイダでは確率が返らず「—」表示になる。予測精度の実測値・ベンチマークは README になく、効果は著者の主張のみ。README 自身が「ライブのタイピング経路はエンジンの型を読んで確認しただけで、セッションに打ち込んでは検証していない」と明記している。Jev キーを設定すると下書き本文と全候補の名前・説明が停止ごとに外部(api.typesafe.ai 等)へ送信されるため、機密プロンプトでは keywords か builtin を選ぶ必要がある。Claude Code 2.1.287 以降が必須。",
+      "type": "link",
+      "added": "2026-11-09",
+      "first_seen": "2026-11-09",
+      "sources": [
+        "https://x.com/sumika45379/status/2113246504584663509"
+      ],
+      "fetched_at": "2026-11-08T18:34:40Z",
+      "path": "links/coding-agent/aitmpl.com-jev-skill-typeahead.md",
+      "summary": "Claude Code でプロンプトを書いている最中に、その依頼で Claude が呼びそうなスキルとサブエージェントをプロンプト欄の上のバンドに先回り表示する。"
     },
     {
       "name": "Turn Inspector",

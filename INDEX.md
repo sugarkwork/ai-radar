@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 488 件 — リポジトリ 290, リンク集 84, 記事 51, モデル 52, プロンプト 11 / ⚑ 要確認 289 件
+収録 489 件 — リポジトリ 290, リンク集 85, 記事 51, モデル 52, プロンプト 11 / ⚑ 要確認 290 件
 
 ## リポジトリ（290）
 
@@ -401,7 +401,7 @@
 - **[Claude Code コミット前検証スキル verify（テスト→差分レビュー→差し戻し）](prompts/coding-agent/claude-code-verify-6df7a29de9.md)** ⚑  Claude Code v2.1.286 以降（.claude/skills/verify/SKILL.md に置くプロジェクトスキル）
   - コミットの直前に、その変更が「意図しない挙動変化」や「データに消える恐れのある変更」を含んでいないかを Claude 自身に確認させ、危険ならコミットさせずに修正へ戻すためのプロジェクトスキル。テストが通ることと、その差分が妥当であることを別々に確かめる点が要点。
 
-## リンク集（84）
+## リンク集（85）
 
 ### リンク（作例・インスピレーション）（15）
 
@@ -570,6 +570,15 @@
 - **[SadTalker商用サイト（OSS本体とは別）](links/video-gen/https-sadtalker.ai.md)** ⚑  @hey_Jessicaai
   - 写真等から発話映像を作ると紹介されたsadtalker.aiの商用サイト。
 
+### コーディングエージェント（3）
+
+- **[Claude Code カスタムサブエージェント（公式ドキュメント）](links/coding-agent/code.claude.com-claude-code.md)** ⚑  paid / Anthropic
+  - メイン会話を検索結果・ログ・ファイル内容で埋めずに、副作業を別コンテキストの専用エージェントに任せ、要約だけ受け取るための公式の仕組み。
+- **[Jev Skill Typeahead](links/coding-agent/aitmpl.com-jev-skill-typeahead.md)** ⚑  free / davila7 (claude-code-templates) / 判定モデル Jev は TypeSafe
+  - Claude Code でプロンプトを書いている最中に、その依頼で Claude が呼びそうなスキルとサブエージェントをプロンプト欄の上のバンドに先回り表示する。
+- **[Turn Inspector](links/coding-agent/aitmpl.com-turn-inspector.md)** ⚑  free / Daniel Avila (davila7)
+  - Claude Code のセッションで、モデルへのリクエスト（ターン）ごとにコンテキストウィンドウが何にどれだけ使われたかを横ペインで可視化する。
+
 ### 音声・TTS（3）
 
 - **[Sophon-Realtime v1モデル群案内（重み無し）](links/tts-audio/https-huggingface.co-adventists-ai-sophon-realtime-v1.md)** ⚑  @nahid_pro09
@@ -578,13 +587,6 @@
   - SoundCloudの音楽配信プラットフォームを紹介するリンク。
 - **[irodori_md / aegigoe-specs v4 成人向け音声演技仕様パック](links/tts-audio/https-note.com-dr1610-n-nb70662a06f7d.md)** ⚑  @ai_1610
   - Irodori-TTS向けに成人向けの音声演技を文章で指定するmarkdown仕様パックを配布する案内。
-
-### コーディングエージェント（2）
-
-- **[Claude Code カスタムサブエージェント（公式ドキュメント）](links/coding-agent/code.claude.com-claude-code.md)** ⚑  paid / Anthropic
-  - メイン会話を検索結果・ログ・ファイル内容で埋めずに、副作業を別コンテキストの専用エージェントに任せ、要約だけ受け取るための公式の仕組み。
-- **[Turn Inspector](links/coding-agent/aitmpl.com-turn-inspector.md)** ⚑  free / Daniel Avila (davila7)
-  - Claude Code のセッションで、モデルへのリクエスト（ターン）ごとにコンテキストウィンドウが何にどれだけ使われたかを横ペインで可視化する。
 
 ### MCPサーバー（2）
 
@@ -927,6 +929,7 @@
 - [Claude Code カスタムサブエージェント（公式ドキュメント）](links/coding-agent/code.claude.com-claude-code.md) — unverified / 投稿の数値と効果の主張は著者の体験談で、一次情報の裏付けがない。「3体で合計32万7千トークン」「親に戻ったのは報告3本だけ」「5行制限のおかげで親の会話が小さいまま」は @sumika45379 の要約（元投稿は @0xbobaaa）であり、独立した検証はない。公式ドキュメントが説明するのは「各サブエージェントは独自のコンテキストウィンドウで動き、要約だけを返す」という仕組みまでで、節約量や報告行数の効果は保証していない。「返事は5行まで」はエージェント本文（システムプロンプト）に書く指示であって、Claude Code が行数を強制する機能ではない。引用元 https://x.com/0xbobaaa/status/2107892817292939588 は t.co 解決が 404 で、本文・動画・元の定義ファイルを確認できない（配布リポジトリは存在しない）。添付画像 https://pbs.twimg.com/media/HWWvkhaa4AAPVqD.jpg は origin_post_id=2118292245107683494 の画像で、vision で見た結果 .claude/agents ではなく benjitaylor/skills の stageshow（製品画面デモ用スキル）の解説画像だった。本候補の根拠には使っていない。料金は 2026-11-08 時点の claude.com/pricing で確認。ドキュメントは 2026-11-03 更新。
 - [Claude Code コミット前検証スキル verify（テスト→差分レビュー→差し戻し）](prompts/coding-agent/claude-code-verify-6df7a29de9.md) — unverified / 同梱の /verify とコミット前実行の仕様は code.claude.com の公式ドキュメントで確認できた。一方、Voxyz_ai が配布する SKILL.md の実ファイル（GitHub / gist）は発見できず、画像は SKILL.md 本文そのものではなく手順を図解したインフォグラフィック。そのため frontmatter や実行コマンドの具体、原文の正確な文言は未確認（unverified）。「OpenAI のレビュー基準」は OpenAI の公式文書ではなく、レビュー観点の通称とみられる。スキルはモデルへの指示であり、実行を強制するものではない。
 - [Claude Code サブエージェントを1ファイルで定義し、報告を短く縛る](articles/2026-10-22-0xbobaaa-sumika45379-claude-code-1.md) — unverified, dead-link / 元ポスト（@0xbobaaa, https://x.com/0xbobaaa/status/2107892817292939588）は 2026-11-08 時点で HTTP 404、Wayback のスナップショットもなく、原文の定義ファイルと実測値は確認できない。「3体で合計32万7千トークン」「親に戻ったのは報告3本」は紹介投稿による要約で、独立した検証はない。「返事は5行まで」の縛りが出力をどれだけ減らすかも未測定。一方、定義ファイルの書式・別コンテキストでの実行・利用上限への計上は公式ドキュメントで確認済み。候補に添付されていた画像（HWWvkhaa4AAPVqD.jpg）は stageshow スキルの紹介画像で本件とは無関係。
+- [Jev Skill Typeahead](links/coding-agent/aitmpl.com-jev-skill-typeahead.md) — unverified / 投稿の「確率つきで出る」は半分正確。停止後に出る『Jev decided』行の % はバックエンド(Jev)が返す probability だが、入力中に即時表示される % は名前・説明と下書きの語の重なり（IDF 重み付き被覆率。policy.ts では 100*raw/total/1.6 を丸めた値）であって確率ではない。builtin プロバイダでは確率が返らず「—」表示になる。予測精度の実測値・ベンチマークは README になく、効果は著者の主張のみ。README 自身が「ライブのタイピング経路はエンジンの型を読んで確認しただけで、セッションに打ち込んでは検証していない」と明記している。Jev キーを設定すると下書き本文と全候補の名前・説明が停止ごとに外部(api.typesafe.ai 等)へ送信されるため、機密プロンプトでは keywords か builtin を選ぶ必要がある。Claude Code 2.1.287 以降が必須。
 - [Turn Inspector](links/coding-agent/aitmpl.com-turn-inspector.md) — unverified / 確認できたこと: aitmpl.com の製品ページ（HTTP 200）に仕様・オプション・導入コマンド・バージョン要件が記載され、配布リポジトリの README と一致する。デモ動画を取得してフレームを確認し、右側ペインに「Context window 58.5k / 1.0M 6%」と system / earlier / new / output の内訳バー、#1 answer 54.1k / #2 1x Read 54.2k / #3 answer 58.5k のようなターン行が実際に映っていることを目視確認した。未確認のこと: トークン削減などの効果数値は存在せず、著者の「重くなった原因を勘で探さずに済む」という主張のみ。Claude Desktop のサイドパネル表示とバージョン範囲（2.1.287+ で既定有効、2.1.259〜2.1.286 は環境変数が必要）はドキュメント記述のみで、当環境では実機検証していない。本 Mod は表示・観測専用でコンテキストを減らす機能はない。
 - [Goochbeater/Spiritual-Spell-Red-Teaming](entries/eval/goochbeater-spiritual-spell-red-teaming.md) — unverified, prompt-injection / 脱獄・社会工学・安全制約回避を含む。指示の実行、危険なプロンプトや露骨な本文の転載は行わない。抽出物の真正性と利用権も未確認。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [kodasdream/gamefeel-benchmark](entries/eval/kodasdream-gamefeel-benchmark.md) — unverified / 実タスクの全公開・再現性は未確認。27B平均の訂正告知とCSVに差異があり、表の一つの数字を確定順位と扱わない。 当方でインストール・推論・生成・ベンチ再現はしていない。
