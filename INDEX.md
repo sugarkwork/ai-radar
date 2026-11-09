@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 560 件 — リポジトリ 322, リンク集 103, 記事 68, モデル 53, プロンプト 14 / ⚑ 要確認 355 件
+収録 561 件 — リポジトリ 323, リンク集 103, 記事 68, モデル 53, プロンプト 14 / ⚑ 要確認 356 件
 
-## リポジトリ（322）
+## リポジトリ（323）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -217,6 +217,33 @@
 | [adventists-ai/sophon-realtime](entries/tts-audio/adventists-ai-sophon-realtime.md) ⚑ | 12 | 2 | 毎日 | 27 | 2026-11-08 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
 | [muse-irodori-voice — CPUで固有音声を作るIrodoriキット](entries/tts-audio/kgmkm-muse-irodori-voice.md) ⚑ | 8 | 0 | 週次 | 4 | 2026-10-31 | 2026-11-09 | 2026-11-09 | MIT |
 
+### モデル推論・配信（22）
+
+| 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
+|---|---:|---:|---|---:|---|---|---|---|
+| [OmniRoute](entries/model-serving/cheaper-inference-omniroute.md) | 84,278 | 12,649 | 毎日 | 100+ | 2026-11-03 | 2026-11-03 | 2026-11-03 | MIT |
+| [Strata](entries/model-serving/niko1221-strata.md) ⚑ | 41,050 | 4,495 | 毎日 | 100+ | 2026-11-06 | 2026-11-06 | 2026-11-09 | MIT |
+| [MiniCPM-V](entries/model-serving/openbmb-minicpm-v.md) | 27,093 | 2,123 | 毎日 | 33 | 2026-10-30 | 2026-11-08 | 2026-11-09 | Apache-2.0 |
+| [oMLX（Apple Silicon向けLLM推論サーバ、メニューバーから管理）](entries/model-serving/jundot-omlx.md) | 23,405 | 2,101 | 毎日 | 100+ | 2026-11-05 | 2026-11-06 | 2026-11-06 | Apache-2.0 |
+| [gpu-unlock](entries/model-serving/zagitta-gpu-unlock.md) ⚑ | 16,595 | 1,654 | 毎日 | 36 | 2026-10-29 | 2026-11-04 | 2026-11-04 | GPL-2.0 |
+| [cactus-compute/cactus](entries/model-serving/cactus-compute-cactus.md) ⚑ | 14,595 | 1,015 | 毎日 | 34 | 2026-11-07 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
+| [kimi-k3-in-c](entries/model-serving/fareedkhan-dev-kimi-k3-in-c.md) ⚑ | 10,251 | 1,625 | 月次 | 0 | 2026-10-02 | 2026-11-04 | 2026-11-09 | Apache-2.0 |
+| [open-free-llm-api/awesome-freellm-apis](entries/model-serving/open-free-llm-api-awesome-freellm-apis.md) ⚑ | 5,413 | 838 | 毎日 | 40 | 2026-11-08 | 2026-11-09 | 2026-11-09 | MIT |
+| [googlecolab/google-colab-cli](entries/model-serving/googlecolab-google-colab-cli.md) ⚑ | 2,082 | 297 | 週次 | 18 | 2026-11-06 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
+| [jev-router](entries/model-serving/gargpratyush-jev-router.md) ⚑ | 659 | 102 | 月次 | 0 | 2026-09-19 | 2026-11-09 | 2026-11-09 | MIT |
+| [sushi](entries/model-serving/beamivalice-sushi.md) | 428 | 36 | 毎日 | 100+ | 2026-11-06 | 2026-11-06 | 2026-11-06 | MIT |
+| [Latent Sparse Attention (LSA)](entries/model-serving/prefrontal-ai-latent-sparse-attention.md) | 389 | 45 | 週次 | 7 | 2026-11-04 | 2026-11-04 | 2026-11-04 | Apache-2.0 |
+| [llamAmpere](entries/model-serving/jakeatx-llamampere.md) | 226 | 31 | 毎日 | 100+ | 2026-11-06 | 2026-11-06 | 2026-11-06 | MIT |
+| [SpecPilot](entries/model-serving/stargazerx0-specpilot.md) | 169 | 9 | — | 1 | 2026-11-03 | 2026-11-06 | 2026-11-06 | Apache-2.0 |
+| [Magnvs7/Promethevs](entries/model-serving/magnvs7-promethevs.md) ⚑ | 156 | 10 | 週次 | 12 | 2026-10-23 | 2026-11-09 | 2026-11-09 | CC-BY-4.0 |
+| [GLM-5.3-Flash DGX Spark 2台 配備レシピ](entries/model-serving/miaai-lab-glm-5.3-flash-dgx-sparks.md) ⚑ | 89 | 17 | 毎日 | 43 | 2026-11-07 | 2026-11-08 | 2026-11-09 | Apache-2.0 |
+| [Tencent/DSpine](entries/model-serving/tencent-dspine.md) ⚑ | 88 | 7 | 週次 | 6 | 2026-11-08 | 2026-11-09 | 2026-11-09 | NOASSERTION |
+| [bloomery](entries/model-serving/midagedev-bloomery.md) | 60 | 7 | 毎日 | 100+ | 2026-11-04 | 2026-11-04 | 2026-11-04 | MIT |
+| [Tokenomos](entries/model-serving/kohakublueleaf-tokenomos.md) | 26 | 0 | 毎日 | 20 | 2026-11-05 | 2026-11-06 | 2026-11-06 | Apache-2.0 |
+| [GLM-5.3-Flash 2×RTX PRO 6000 配備レシピ（TensorFold）](entries/model-serving/miaai-lab-glm-5.3-flash-2x-rtx-pro-6000.md) ⚑ | 20 | 2 | 週次 | 16 | 2026-11-07 | 2026-11-08 | 2026-11-09 | Apache-2.0 |
+| [ausboss/ComfyUI-AusBoss-Model-Downloader](entries/model-serving/ausboss-comfyui-ausboss-model-downloader.md) ⚑ | 9 | 1 | 週次 | 4 | 2026-11-07 | 2026-11-09 | 2026-11-09 | MIT |
+| [qwen-warp](entries/model-serving/tuan3w-qwen-warp.md) ⚑ | 3 | 1 | 毎日 | 91 | 2026-11-06 | 2026-11-06 | 2026-11-06 | MIT |
+
 ### コーディングエージェント（21）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
@@ -242,32 +269,6 @@
 | [reacher-z/Awesome-REA](entries/coding-agent/reacher-z-awesome-rea.md) ⚑ | 2,112 | 391 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | MIT |
 | [quicksilver](entries/coding-agent/uditakhourii-quicksilver.md) ⚑ | 142 | 11 | 停滞 | 0 | 2026-09-25 | 2026-11-09 | 2026-11-09 | MIT |
 | [Dual-Brain — 設計とコードの二視点レビュー用スキル](entries/coding-agent/sleeplesshan-dual-brain.md) ⚑ | 101 | 6 | 週次 | 6 | 2026-11-06 | 2026-11-09 | 2026-11-09 | MIT |
-
-### モデル推論・配信（21）
-
-| 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
-|---|---:|---:|---|---:|---|---|---|---|
-| [OmniRoute](entries/model-serving/cheaper-inference-omniroute.md) | 84,278 | 12,649 | 毎日 | 100+ | 2026-11-03 | 2026-11-03 | 2026-11-03 | MIT |
-| [Strata](entries/model-serving/niko1221-strata.md) ⚑ | 41,050 | 4,495 | 毎日 | 100+ | 2026-11-06 | 2026-11-06 | 2026-11-09 | MIT |
-| [MiniCPM-V](entries/model-serving/openbmb-minicpm-v.md) | 27,093 | 2,123 | 毎日 | 33 | 2026-10-30 | 2026-11-08 | 2026-11-09 | Apache-2.0 |
-| [oMLX（Apple Silicon向けLLM推論サーバ、メニューバーから管理）](entries/model-serving/jundot-omlx.md) | 23,405 | 2,101 | 毎日 | 100+ | 2026-11-05 | 2026-11-06 | 2026-11-06 | Apache-2.0 |
-| [gpu-unlock](entries/model-serving/zagitta-gpu-unlock.md) ⚑ | 16,595 | 1,654 | 毎日 | 36 | 2026-10-29 | 2026-11-04 | 2026-11-04 | GPL-2.0 |
-| [cactus-compute/cactus](entries/model-serving/cactus-compute-cactus.md) ⚑ | 14,595 | 1,015 | 毎日 | 34 | 2026-11-07 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
-| [kimi-k3-in-c](entries/model-serving/fareedkhan-dev-kimi-k3-in-c.md) ⚑ | 10,251 | 1,625 | 月次 | 0 | 2026-10-02 | 2026-11-04 | 2026-11-09 | Apache-2.0 |
-| [open-free-llm-api/awesome-freellm-apis](entries/model-serving/open-free-llm-api-awesome-freellm-apis.md) ⚑ | 5,413 | 838 | 毎日 | 40 | 2026-11-08 | 2026-11-09 | 2026-11-09 | MIT |
-| [googlecolab/google-colab-cli](entries/model-serving/googlecolab-google-colab-cli.md) ⚑ | 2,082 | 297 | 週次 | 18 | 2026-11-06 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
-| [sushi](entries/model-serving/beamivalice-sushi.md) | 428 | 36 | 毎日 | 100+ | 2026-11-06 | 2026-11-06 | 2026-11-06 | MIT |
-| [Latent Sparse Attention (LSA)](entries/model-serving/prefrontal-ai-latent-sparse-attention.md) | 389 | 45 | 週次 | 7 | 2026-11-04 | 2026-11-04 | 2026-11-04 | Apache-2.0 |
-| [llamAmpere](entries/model-serving/jakeatx-llamampere.md) | 226 | 31 | 毎日 | 100+ | 2026-11-06 | 2026-11-06 | 2026-11-06 | MIT |
-| [SpecPilot](entries/model-serving/stargazerx0-specpilot.md) | 169 | 9 | — | 1 | 2026-11-03 | 2026-11-06 | 2026-11-06 | Apache-2.0 |
-| [Magnvs7/Promethevs](entries/model-serving/magnvs7-promethevs.md) ⚑ | 156 | 10 | 週次 | 12 | 2026-10-23 | 2026-11-09 | 2026-11-09 | CC-BY-4.0 |
-| [GLM-5.3-Flash DGX Spark 2台 配備レシピ](entries/model-serving/miaai-lab-glm-5.3-flash-dgx-sparks.md) ⚑ | 89 | 17 | 毎日 | 43 | 2026-11-07 | 2026-11-08 | 2026-11-09 | Apache-2.0 |
-| [Tencent/DSpine](entries/model-serving/tencent-dspine.md) ⚑ | 88 | 7 | 週次 | 6 | 2026-11-08 | 2026-11-09 | 2026-11-09 | NOASSERTION |
-| [bloomery](entries/model-serving/midagedev-bloomery.md) | 60 | 7 | 毎日 | 100+ | 2026-11-04 | 2026-11-04 | 2026-11-04 | MIT |
-| [Tokenomos](entries/model-serving/kohakublueleaf-tokenomos.md) | 26 | 0 | 毎日 | 20 | 2026-11-05 | 2026-11-06 | 2026-11-06 | Apache-2.0 |
-| [GLM-5.3-Flash 2×RTX PRO 6000 配備レシピ（TensorFold）](entries/model-serving/miaai-lab-glm-5.3-flash-2x-rtx-pro-6000.md) ⚑ | 20 | 2 | 週次 | 16 | 2026-11-07 | 2026-11-08 | 2026-11-09 | Apache-2.0 |
-| [ausboss/ComfyUI-AusBoss-Model-Downloader](entries/model-serving/ausboss-comfyui-ausboss-model-downloader.md) ⚑ | 9 | 1 | 週次 | 4 | 2026-11-07 | 2026-11-09 | 2026-11-09 | MIT |
-| [qwen-warp](entries/model-serving/tuan3w-qwen-warp.md) ⚑ | 3 | 1 | 毎日 | 91 | 2026-11-06 | 2026-11-06 | 2026-11-06 | MIT |
 
 ### その他（18）
 
@@ -1167,6 +1168,7 @@
 - [kimi-k3-in-c](entries/model-serving/fareedkhan-dev-kimi-k3-in-c.md) — unverified / 1.56TBのチェックポイントを8.24GBのRAMで動かすという主張。数値は作者の docs/data のみで、独立した再現・検証はない。
 - [open-free-llm-api/awesome-freellm-apis](entries/model-serving/open-free-llm-api-awesome-freellm-apis.md) — unverified / freellm.netへの誘導が強いミラー。「無料」は各社枠で無制限ではなく、現行料金・キー/カード条件は各社確認が必要。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [googlecolab/google-colab-cli](entries/model-serving/googlecolab-google-colab-cli.md) — unverified / T4〜A100等の利用可否は契約・割当次第。「200点・2TB」を無償枠と断定できず、51GBを2分という速度も未検証。 当方でインストール・推論・生成・ベンチ再現はしていない。
+- [jev-router](entries/model-serving/gargpratyush-jev-router.md) — unverified / README にベンチマークが無く、ルーティング精度やコスト削減額は作者の設計主張と自己計測コメントのみで第三者検証が無い。2026-09-19 以降コミットが無く open issue は 54 件。Claude Code / Codex の非公開リクエスト形式に依存するため上流仕様の変更で壊れうる（README も JEV_DUMP での診断を案内）。プロンプト本文はルーティング判定のため TypeSafe に送信される。
 - [Magnvs7/Promethevs](entries/model-serving/magnvs7-promethevs.md) — unverified / 最良7.4tok/sと一致率98.33%は限定した作者試験。原本完全一致デコードは別の約2.14tok/s。エンジンApacheと報告・図表CC BYを区別する。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [GLM-5.3-Flash DGX Spark 2台 配備レシピ](entries/model-serving/miaai-lab-glm-5.3-flash-dgx-sparks.md) — unverified / DGX Spark 2台（計128GB統一メモリ級）が必須。チェックポイント約164GiB、イメージ約40GiB。既定drafterはCC BY-NC-ND 4.0（非商用）で、商用はDRAFTER=mtp/none。投稿のKV拡張・再起動復元・thinking off短縮は自己申告で未検証。当方でビルド・実行は未実施。
 - [Tencent/DSpine](entries/model-serving/tencent-dspine.md) — unverified / READMEのApacheバッジに対し原チェックのLICENSEは404・API NOASSERTION。許諾を確定せずライセンス本文と依存を確認する。 当方でインストール・推論・生成・ベンチ再現はしていない。
