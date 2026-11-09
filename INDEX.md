@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 506 件 — リポジトリ 301, リンク集 88, 記事 53, モデル 53, プロンプト 11 / ⚑ 要確認 305 件
+収録 507 件 — リポジトリ 301, リンク集 89, 記事 53, モデル 53, プロンプト 11 / ⚑ 要確認 306 件
 
 ## リポジトリ（301）
 
@@ -422,7 +422,7 @@
 - **[Claude Code コミット前検証スキル verify（テスト→差分レビュー→差し戻し）](prompts/coding-agent/claude-code-verify-6df7a29de9.md)** ⚑  Claude Code v2.1.286 以降（.claude/skills/verify/SKILL.md に置くプロジェクトスキル）
   - コミットの直前に、その変更が「意図しない挙動変化」や「データに消える恐れのある変更」を含んでいないかを Claude 自身に確認させ、危険ならコミットさせずに修正へ戻すためのプロジェクトスキル。テストが通ることと、その差分が妥当であることを別々に確かめる点が要点。
 
-## リンク集（88）
+## リンク集（89）
 
 ### リンク（作例・インスピレーション）（17）
 
@@ -622,6 +622,13 @@
 - **[ArtCraft Craft Apps](links/mcp-server/getartcraft.com-artcraft-craft-apps.md)**  free / ArtCraft (GitHub: storytold)
   - 画像編集・ベクター・動画・PDF・DTP・3Dテクスチャ・DAW・CAD・表計算など、商用クリエイティブソフト相当の機能をRust製ネイティブアプリとして無料・オープンソースで提供するスイート。
 
+### プロンプト（デザイン/UI）（2）
+
+- **[SceneAI](links/prompt-design/https-sceneai.art.md)** ⚑  @abir35627
+  - ランディングページやヒーローセクション用のAIプロンプト素材を集めたSceneAI。
+- **[shadcn 公式スキル（shadcn/ui agent skill）](links/prompt-design/skills.sh-shadcn-shadcn-ui-agent-skill.md)** ⚑  free / shadcn（shadcn-ui/ui）
+  - コーディングエージェントに shadcn/ui の作法（コンポーネントの検索・追加・修正・スタイリング・構成）を守らせるための、shadcn 自身が配布する公式スキル。
+
 ### 評価・ベンチマーク（1）
 
 - **[Add-and-Preserve benchmark dataset](links/eval/https-huggingface.co-datasets-lyricccco-add-and-preserve.md)** ⚑  @cutetoxicguy
@@ -631,11 +638,6 @@
 
 - **[NVIDIA API Catalog / NIM無料推論エンドポイント](links/model-serving/https-build.nvidia.com.md)** ⚑  @Rivonn
   - NVIDIA API Catalogで公開モデルのホスト推論エンドポイントを探す案内。原チェックはKimi K3.1 Pro、DeepSeek V4.1 Flash、GLM-5.3-FlashのFree Endpoint表示を確認。
-
-### プロンプト（デザイン/UI）（1）
-
-- **[SceneAI](links/prompt-design/https-sceneai.art.md)** ⚑  @abir35627
-  - ランディングページやヒーローセクション用のAIプロンプト素材を集めたSceneAI。
 
 ### RAG・検索（1）
 
@@ -1087,6 +1089,7 @@
 - [CodexのWebデザインslop除去プロンプトと承認・検証フロー](articles/2026-11-09-https-x.com-codex_lab_-status-2119117120554557668.md) — unverified / 承認前停止は指示でありファイル書込ロックではないと本人も注記。完全な原文をここでは取得していないためpromptを創作せず記事として残す。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Grok 6ボットで回すAIペルソナ農場（Persona Farm）構築プロンプト](prompts/prompt-design/grok-6-ai-persona-farm-0eee1982d3.md) — unverified / 投稿の数値（16,286フォロワー/45本/391返信/$1,386）は本人のデモ動画（day 11/14・15,201フォロワー・40本・3/5トークン・$1,050・画面に illustrative）とも一致せず第三者検証なし。5体のペルソナ実アカウントと $GUS/$OTIS/$LARS のペルソナ由来トークンは未確認（同名の無関係トークンと Otis 株のみ）。自動投稿・大量返信・トークン発行を指示する内容で、各SNSの規約と暗号資産規制に触れ得る。
 - [SceneAI](links/prompt-design/https-sceneai.art.md) — unverified / 月49ドル/買切199ドルは2026-11-08の記録で現行価格は未確認。有料素材の本文を転載せず、素材数や効果は配布元の案内として扱う。 当方でインストール・推論・生成・ベンチ再現はしていない。
+- [shadcn 公式スキル（shadcn/ui agent skill）](links/prompt-design/skills.sh-shadcn-shadcn-ui-agent-skill.md) — unverified / 未確認: (1) 生成される UI の品質・再現性は未実測。リポジトリに evals/evals.json はあるが、公開された採点結果や通過率は確認していない。(2) GitHub の stars は API がレート制限で取得できず、skills.sh 表示の 127.6K を採録（API 実測ではない）。(3) 見本ページ生成の一連の流れは design-system.md / design-system-page.md の記述に基づくもので、当方はアプリの scaffold から通しで実行していない。注意: スキルは SKILL.md 内の !`command` ディレクティブでシェルコマンドを実行し、エージェント権限で動く（skills.sh も警告、Socket 監査は Warn）。skills CLI は既定で匿名テレメトリを送る。DESIGN.md の配色はコミュニティが各ブランドを解釈したもので公式配色ではない（DESIGN.md 側の性質で、本スキルの欠陥ではない）。
 - [キャラクター三面図プロンプト（GPT / MageSpace）](prompts/prompt-design/jackchen1919-character-sheet.md) — unverified / 投稿はプロンプト本文＋生成結果8枚で、特定の製品・モデルの配布ではない。生成画像は著者の作例で、再現性・品質は未検証（当方では生成していない）。実在の人物・既存キャラクターに寄せると権利侵害になり得る。
 - [落合陽一の公開制作をもとにした二次AIデザイン指針](articles/2026-11-09-https-x.com-kimuai08-article-2079212341250724250.md) — unverified / 落合本人の公式指示や完全な記事通読として扱わない。原文プロンプトを創作せず二次解説として残す。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [暖かい愛情・自然な日本語チャットの指示書](articles/2026-11-09-zeowota-natural-japanese-chat-instructions-overview.md) — unverified / 18+ / NSFWのサイト由来。取得した原文が本資料にはないためプロンプトを創作せず記事として要約する。キャラ「レイ」の移植/再配布禁止をこの別指示書へ自動適用せず権利範囲は未確認。 当方でインストール・推論・生成・ベンチ再現はしていない。

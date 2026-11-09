@@ -1,5 +1,5 @@
 {
-  "count": 506,
+  "count": 507,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -10944,6 +10944,28 @@
       "signup_required": "unknown",
       "path": "links/prompt-design/https-sceneai.art.md",
       "summary": "ランディングページやヒーローセクション用のAIプロンプト素材を集めたSceneAI。"
+    },
+    {
+      "name": "shadcn 公式スキル（shadcn/ui agent skill）",
+      "genre": "prompt-design",
+      "url": "https://skills.sh/shadcn/ui",
+      "author": "shadcn（shadcn-ui/ui）",
+      "pricing": "free",
+      "pricing_detail": "スキル本体は MIT ライセンスのオープンソースで、skills.sh に料金ページ・有料プランはない。`npx skills add` は GitHub から直接取得するため課金もアカウント登録も不要。実行に必要なのは Node.js と npx のみ（skills CLI v1.7.6 は node >=22.20.0、shadcn CLI v4.23.0 は node >=20.18.1）。",
+      "signup_required": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "未確認: (1) 生成される UI の品質・再現性は未実測。リポジトリに evals/evals.json はあるが、公開された採点結果や通過率は確認していない。(2) GitHub の stars は API がレート制限で取得できず、skills.sh 表示の 127.6K を採録（API 実測ではない）。(3) 見本ページ生成の一連の流れは design-system.md / design-system-page.md の記述に基づくもので、当方はアプリの scaffold から通しで実行していない。注意: スキルは SKILL.md 内の !`command` ディレクティブでシェルコマンドを実行し、エージェント権限で動く（skills.sh も警告、Socket 監査は Warn）。skills CLI は既定で匿名テレメトリを送る。DESIGN.md の配色はコミュニティが各ブランドを解釈したもので公式配色ではない（DESIGN.md 側の性質で、本スキルの欠陥ではない）。",
+      "type": "link",
+      "added": "2026-11-09",
+      "first_seen": "2026-11-09",
+      "sources": [
+        "https://x.com/sumika45379/status/2113608913451147569"
+      ],
+      "fetched_at": "2026-11-09T03:24:00Z",
+      "path": "links/prompt-design/skills.sh-shadcn-shadcn-ui-agent-skill.md",
+      "summary": "コーディングエージェントに shadcn/ui の作法（コンポーネントの検索・追加・修正・スタイリング・構成）を守らせるための、shadcn 自身が配布する公式スキル。"
     },
     {
       "name": "キャラクターシート生成プロンプト（360度ターンアラウンド）",
