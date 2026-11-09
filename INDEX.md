@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 494 件 — リポジトリ 291, リンク集 88, 記事 52, モデル 52, プロンプト 11 / ⚑ 要確認 295 件
+収録 495 件 — リポジトリ 292, リンク集 88, 記事 52, モデル 52, プロンプト 11 / ⚑ 要確認 295 件
 
-## リポジトリ（291）
+## リポジトリ（292）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -78,7 +78,7 @@
 | [utillayer/youtube-agent-skill](entries/video-gen/utillayer-youtube-agent-skill.md) ⚑ | 12 | 2 | 週次 | 16 | 2026-10-29 | 2026-11-09 | 2026-11-09 | MIT |
 | [BennyDaBall930/comfyui_hyperflow_int8_nodes](entries/video-gen/bennydaball930-comfyui_hyperflow_int8_nodes.md) ⚑ | 3 | 0 | 週次 | 9 | 2026-11-08 | 2026-11-09 | 2026-11-09 | GPL-3.0 |
 
-### エージェント基盤・スキル集（56）
+### エージェント基盤・スキル集（57）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -106,6 +106,7 @@
 | [opensandbox-group/OpenSandbox](entries/agent-framework/opensandbox-group-opensandbox.md) ⚑ | 16,686 | 1,575 | 毎日 | 100+ | 2026-11-08 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
 | [ARTEMIS](entries/agent-framework/google-artemis.md) | 16,511 | 1,815 | 月次 | 0 | 2026-10-01 | 2026-11-04 | 2026-11-04 | Apache-2.0 |
 | [ccch1mneyyy/dsh-Go](entries/agent-framework/ccch1mneyyy-dsh-go.md) ⚑ | 16,057 | 696 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | AGPL-3.0 |
+| [LiveKit Agents](entries/agent-framework/livekit-agents.md) | 15,144 | 4,095 | 毎日 | 100+ | 2026-11-08 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
 | [OpenUI](entries/agent-framework/thesysdev-openui.md) | 14,787 | 977 | 毎日 | 100+ | 2026-11-05 | 2026-11-05 | 2026-11-06 | MIT |
 | [Worktrunk](entries/agent-framework/max-sixty-worktrunk.md) ⚑ | 11,725 | 450 | 毎日 | 100+ | 2026-11-06 | 2026-11-06 | 2026-11-09 | MIT OR Apache-2.0 |
 | [dsh-market/dsh-market](entries/agent-framework/dsh-market-dsh-market.md) ⚑ | 11,496 | 439 | 毎日 | 100+ | 2026-11-08 | 2026-11-09 | 2026-11-09 | MIT |

@@ -1,5 +1,5 @@
 {
-  "count": 494,
+  "count": 495,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -2515,6 +2515,38 @@
       "fetched_at": "2026-11-09T00:30:30.562920+00:00",
       "path": "entries/agent-framework/ccch1mneyyy-dsh-go.md",
       "summary": "Android内にUbuntu・Node.js・DSHを用意する非公式DSHクライアント。既定PRootでroot/Termux不要、PCへSSH接続も可能。"
+    },
+    {
+      "repo": "livekit/agents",
+      "name": "LiveKit Agents",
+      "genre": "agent-framework",
+      "url": "https://github.com/livekit/agents",
+      "author": "LiveKit",
+      "license": "Apache-2.0",
+      "stars": 15144,
+      "language": "Python",
+      "created": "2023-10-19",
+      "updated": "2026-11-08",
+      "forks": 4095,
+      "open_issues": 931,
+      "commits_30d": 100,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "size_kb": 52471,
+      "archived": false,
+      "last_release": "livekit-agents@1.8.11",
+      "last_release_at": "2026-11-05",
+      "flags": [],
+      "risk_notes": "フレームワーク本体は Apache-2.0 だが、ターン検出モデルは別条件の LiveKit Model License（README に明記）。LiveKit Inference 経由の v1 ターン検出、ノイズキャンセリング、電話番号などのクラウド機能は LiveKit Cloud 依存で、Cloud は Build が $0（月1,000 agent session 分）から、Ship は $50/月〜、Scale は $500/月〜。各 STT/LLM/TTS プロバイダの API 利用料は別途従量課金。ターン検出の精度数値はベンダー自身の測定で第三者検証はない。open_issues の 931 は PR を含む GitHub の集計値。",
+      "type": "repo",
+      "added": "2026-11-09",
+      "first_seen": "2026-11-09",
+      "sources": [
+        "https://x.com/opensourcelab9/status/2113397488862605824"
+      ],
+      "fetched_at": "2026-11-09T00:40:02Z",
+      "path": "entries/agent-framework/livekit-agents.md",
+      "summary": "音声エージェントの骨格を Agent（指示とツールを持つ振る舞い）、AgentSession（対話の管理）、entrypoint（セッション開始点）、AgentServer（ジョブ配分と起動）の4要素で組み立てられる。"
     },
     {
       "repo": "thesysdev/openui",
