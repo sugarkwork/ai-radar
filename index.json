@@ -1,5 +1,5 @@
 {
-  "count": 521,
+  "count": 524,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -91,6 +91,39 @@
       "type": "repo",
       "path": "entries/3d-motion/wheresryan22-anatomy.md",
       "summary": "アイソメトリック（等角投影）の**分解図・断面図**で仕組みを説明する Claude スキル。「トークンバケット型レートリミッタはどう動くか」のように頼むと、実在の機械・計器・道具・家具を部品から組み上げ、動く図として出力する。"
+    },
+    {
+      "type": "repo",
+      "repo": "alicevision/Meshroom",
+      "name": "Meshroom",
+      "genre": "3d-motion",
+      "url": "https://github.com/alicevision/Meshroom",
+      "license": "MPL-2.0",
+      "stars": 13074,
+      "language": "Python",
+      "created": "2015-04-22",
+      "updated": "2026-11-07",
+      "forks": 1242,
+      "open_issues": 549,
+      "commits_30d": "100+",
+      "commits_90d": "100+",
+      "commit_cadence": "daily",
+      "size_kb": 13928,
+      "archived": false,
+      "added": "2026-11-09",
+      "fetched_at": "2026-11-09T04:03:33Z",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "Meshroom本体はMPL-2.0。AliceVisionや追加プラグイン、AIモデルの条件は個別に確認。公式マニュアルによると密な深度推定にはCUDA対応NVIDIA GPUが必要で、非CUDA環境は粗いdraft meshingを利用。実行・再構築品質は未検証。",
+      "sources": [
+        "https://x.com/i/status/2119475041402257767",
+        "https://github.com/alicevision/Meshroom",
+        "https://meshroom-manual.readthedocs.io/en/latest/first-steps/install/requirements.html",
+        "https://raw.githubusercontent.com/alicevision/Meshroom/develop/COPYING.md"
+      ],
+      "path": "entries/3d-motion/alicevision-meshroom.md",
+      "summary": "複数の写真からカメラ位置と形状を推定し、メッシュやテクスチャを生成するノードベースの視覚的ワークフロー。AliceVisionプラグインでフォトグラメトリー、カメラ追跡、パノラマ等を扱う。独自Pythonノードや外部コマンドで拡張できる。"
     },
     {
       "type": "repo",
@@ -1691,9 +1724,9 @@
       "name": "TailorRig",
       "genre": "3d-motion",
       "url": "https://xxxx0601.github.io/trig/",
-      "author": "Tencent LIGHTSPEED＋清華大学（Chen Yajing ほか8名）",
+      "author": "Tencent LIGHTSPEED・西安交通大学・北京大学・清華大学",
       "pricing": "free",
-      "pricing_detail": "研究プロジェクトページ。料金は存在しない。コード・重み・モデルカードは未公開。",
+      "pricing_detail": "研究プロジェクトページとデータセットは無償公開。推論コード・モデル重みは未確認。データセットは学術研究専用。",
       "signup_required": false,
       "added": "2026-11-08",
       "first_seen": "2026-11-07",
@@ -1701,17 +1734,42 @@
         "https://x.com/mask_3dcg/status/2119014970163855424",
         "https://x.com/Stefan_3D_AI/status/2119004325410213937",
         "https://x.com/mask_3dcg/status/2119014970163855424?a=kGy99ofRC3-7B7OzS-g&s=46",
-        "https://xxxx0601.github.io/trig/"
+        "https://xxxx0601.github.io/trig/",
+        "https://x.com/i/status/2119469707267031161",
+        "https://huggingface.co/datasets/tencent/TailorRig",
+        "https://arxiv.org/abs/2611.02902"
       ],
       "flags": [
         "unverified"
       ],
-      "risk_notes": "SIGGRAPH Asia 2026 の to appear 論文で、プロジェクトページにはアニメーションと3Dビューアのデモしかない。コード・重み・モデルカードは無く、引用元も『Code ボタンは今は何も動かない』と明記している。GitHubリポジトリは見つからない。したがって現時点では再現・実行ができず、数値・品質は論文とデモに依存する。投稿本体は引用RTの感想2行で、著者本人の解説ではない。",
+      "risk_notes": "論文・デモと研究用データセットは公開。記載されたGitHubコードURLは404、推論コード・重みは未確認。データセットカードは学術研究のみ・商用や製品利用不可とし、LICENSE原文は対象をソフト・重みと記載しているため、対象範囲や第三者素材の権利は配布元に確認。性能は論文の評価で実行未検証。",
       "fetched_at": "2026-11-08T06:40:00Z",
       "source_post": "https://x.com/mask_3dcg/status/2119014970163855424",
       "amplifiers": [],
       "path": "links/3d-motion/xxxx0601.github.io-tailorrig.md",
       "summary": "キャラクターの身体スケルトンと衣装（スカート・髪・袖・アクセサリ）を同時に扱い、衣装まで含めたリグを自動生成する研究。"
+    },
+    {
+      "type": "link",
+      "name": "TailorRig Dataset",
+      "genre": "3d-motion",
+      "url": "https://huggingface.co/datasets/tencent/TailorRig",
+      "author": "Tencent",
+      "pricing": "free",
+      "pricing_detail": "データセットは無償公開。カードは学術研究専用と記載。",
+      "signup_required": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "カードは学術研究専用・商用および製品用途不可と記載。添付LICENSEのTailorRigの定義はコード・重みであり、データへの適用範囲や第三者由来素材の条件は配布元に確認。データ内容やダウンロード後の動作は未検証。",
+      "sources": [
+        "https://x.com/i/status/2119469707267031161",
+        "https://huggingface.co/datasets/tencent/TailorRig",
+        "https://huggingface.co/datasets/tencent/TailorRig/raw/main/LICENSE",
+        "https://xxxx0601.github.io/trig/"
+      ],
+      "path": "links/3d-motion/huggingface-tencent-tailorrig-dataset.md",
+      "summary": "キャラクターの骨格生成・スキニング重み推定などの研究向けデータセット。"
     },
     {
       "type": "model",
@@ -2519,7 +2577,8 @@
         "https://api.github.com/repos/google/skills",
         "https://api.github.com/repos/lobehub/lobehub",
         "https://api.github.com/repos/meta/astryx",
-        "https://github.com/google/skills"
+        "https://github.com/google/skills",
+        "https://x.com/i/status/2119297622456311815"
       ],
       "first_seen": "2026-11-07",
       "amplifiers": [],
@@ -5266,7 +5325,8 @@
         "https://x.com/sleepless_han/status/2119291833322729923",
         "https://github.com/sleeplesshan/dual-brain",
         "https://github.com/sleeplesshan/dual-brain/blob/main/README.md",
-        "https://github.com/sleeplesshan/dual-brain/blob/main/LICENSE"
+        "https://github.com/sleeplesshan/dual-brain/blob/main/LICENSE",
+        "https://x.com/i/status/2119310441411469540"
       ],
       "added": "2026-11-09",
       "first_seen": "2026-11-08",
@@ -15958,6 +16018,29 @@
       "source_post": "https://x.com/ai_1610/status/2118738293127037306",
       "amplifiers": [],
       "path": "articles/2026-11-07-ai_1610-h3-voice-lora-memo.md"
+    },
+    {
+      "type": "prompt",
+      "name": "MiniMax H3：20種のダンスと音楽指定",
+      "genre": "video-gen",
+      "url": "https://x.com/i/status/2119247871341998536",
+      "target": "MiniMax H3",
+      "transcribed_from": "X投稿本文",
+      "prompt_sha1": "3fd546e8aae5bf149eadcce12f10328709402f29",
+      "author": "EndFolding79421",
+      "added": "2026-11-09",
+      "fetched_at": "2026-11-09T04:03:33Z",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "投稿本文を原文のまま収録。生成品質や参照画像の一致、音楽と動作の同期は未検証。元投稿には再配布・商用利用条件の明記を確認できていない。ローカルH3の生成物を商用利用するには別途ライセンスが必要。",
+      "sources": [
+        "https://x.com/i/status/2119247871341998536",
+        "https://docs.comfy.org/tutorials/video/minimax/minimax-h3",
+        "https://docs.comfy.org/tutorials/partner-nodes/minimax/minimax-h3"
+      ],
+      "path": "prompts/video-gen/minimax-h3-20-dance-music.md",
+      "summary": "キャラクターシートを参照し、6秒間の全身ダンスと音楽・環境音を指示するための投稿者のテンプレート。ダンス20種類の音楽指定例を含む。"
     },
     {
       "name": "Museに外部の無料GPU（Modal／Kaggle／Colab）を割り当てる手順",

@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 521 件 — リポジトリ 307, リンク集 91, 記事 59, モデル 53, プロンプト 11 / ⚑ 要確認 320 件
+収録 524 件 — リポジトリ 308, リンク集 92, 記事 59, モデル 53, プロンプト 12 / ⚑ 要確認 323 件
 
-## リポジトリ（307）
+## リポジトリ（308）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -142,13 +142,14 @@
 | [BetterSearch](entries/agent-framework/ry0narushima-bettersearch.md) | 40 | 4 | 週次 | 10 | 2026-10-18 | 2026-11-03 | 2026-11-03 | MIT |
 | [web-api-skills](entries/agent-framework/oxylabs-web-api-skills.md) | 11 | 1 | 月次 | 3 | 2026-10-13 | 2026-11-03 | 2026-11-03 | MIT |
 
-### 3D・モーション（37）
+### 3D・モーション（38）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
 | [MCP for Blender](entries/3d-motion/ahujasid-mcp-for-blender.md) | 33,316 | 3,020 | 毎日 | 23 | 2026-11-04 | 2026-11-04 | 2026-11-04 | MIT |
 | [text-to-cad](entries/3d-motion/earthtojake-text-to-cad.md) ⚑ | 25,757 | 2,446 | 毎日 | 51 | 2026-11-07 | 2026-11-07 | 2026-11-07 | MIT |
 | [Anatomy](entries/3d-motion/wheresryan22-anatomy.md) | 24,866 | 2,070 | 毎日 | 100+ | 2026-10-18 | 2026-11-04 | 2026-11-04 | MIT |
+| [Meshroom](entries/3d-motion/alicevision-meshroom.md) ⚑ | 13,074 | 1,242 | 毎日 | — | 2026-11-07 | 2026-11-09 | 2026-11-09 | MPL-2.0 |
 | [Kimodo](entries/3d-motion/nv-tlabs-kimodo.md) ⚑ | 4,112 | 464 | 週次 | 18 | 2026-10-15 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
 | [facebookresearch/sam-3d-body](entries/3d-motion/facebookresearch-sam-3d-body.md) ⚑ | 3,698 | 437 | 停滞 | 0 | 2026-02-19 | 2026-11-09 | 2026-11-09 | NOASSERTION |
 | [floorplan-3d](entries/3d-motion/wy51ai-floorplan-3d.md) | 3,393 | 707 | 月次 | 0 | 2026-10-02 | 2026-11-03 | 2026-11-03 | MIT |
@@ -369,9 +370,9 @@
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
-| [agent-browser](entries/agent/vercel-labs-agent-browser.md) ⚑ | 47,766 | 3,268 | 毎日 | — | 2026-11-08 | 2026-11-09 |  | Apache-2.0 |
-| [niubigeo](entries/agent/albert-weasker-niubigeo.md) ⚑ | 10,146 | 818 | 週次 | 12 | 2026-11-03 | 2026-11-09 |  | Apache-2.0 |
-| [ontosmith](entries/agent/dongbumlee-ontosmith.md) ⚑ | 223 | 23 | 毎日 | — | 2026-11-08 | 2026-11-09 |  | MIT |
+| [agent-browser](entries/agent/vercel-labs-agent-browser.md) ⚑ | 47,766 | 3,268 | 毎日 | — | 2026-11-08 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
+| [niubigeo](entries/agent/albert-weasker-niubigeo.md) ⚑ | 10,146 | 818 | 週次 | 12 | 2026-11-03 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
+| [ontosmith](entries/agent/dongbumlee-ontosmith.md) ⚑ | 223 | 23 | 毎日 | — | 2026-11-08 | 2026-11-09 | 2026-11-09 | MIT |
 
 ### 評価・ベンチマーク（3）
 
@@ -400,7 +401,7 @@
 |---|---:|---:|---|---:|---|---|---|---|
 | [OverlaySubs — PC音声のリアルタイム翻訳オーバーレイ字幕](entries/productivity/sp-yduck-overlaysubs.md) ⚑ | 31 | 3 | 停滞 | 0 | 2026-11-09 | 2026-11-09 | 2026-11-09 | MIT |
 
-## プロンプト（11）
+## プロンプト（12）
 
 ### プロンプト（デザイン/UI）（7）
 
@@ -433,7 +434,12 @@
 - **[Claude Code コミット前検証スキル verify（テスト→差分レビュー→差し戻し）](prompts/coding-agent/claude-code-verify-6df7a29de9.md)** ⚑  Claude Code v2.1.286 以降（.claude/skills/verify/SKILL.md に置くプロジェクトスキル）
   - コミットの直前に、その変更が「意図しない挙動変化」や「データに消える恐れのある変更」を含んでいないかを Claude 自身に確認させ、危険ならコミットさせずに修正へ戻すためのプロジェクトスキル。テストが通ることと、その差分が妥当であることを別々に確かめる点が要点。
 
-## リンク集（91）
+### 動画生成パイプライン（1）
+
+- **[MiniMax H3：20種のダンスと音楽指定](prompts/video-gen/minimax-h3-20-dance-music.md)** ⚑  MiniMax H3 / EndFolding79421
+  - キャラクターシートを参照し、6秒間の全身ダンスと音楽・環境音を指示するための投稿者のテンプレート。ダンス20種類の音楽指定例を含む。
+
+## リンク集（92）
 
 ### リンク（作例・インスピレーション）（17）
 
@@ -532,6 +538,29 @@
 - **[treg REA growth](links/link-service/treg.to-treg-rea-growth.md)** ⚑  freemium / superdesigndev（Superdesign Dev Pty Ltd）
   - treg.to は「エージェント向けツールの OpenRouter」を名乗る従量課金の API ゲートウェイ。1 つのトークンで 126 プロバイダ・4,100+ のツール（SEO/SERP、被リンク、SNS 投稿、人物・企業情報、広告ライブラリ、スクレイピング、画像/動画/音声生成）を、プロバイダごとの契約なしで呼べ
 
+### 3D・モーション（10）
+
+- **[1枚絵からローカル3D空間を生成するデモ（LUCIAN）](links/3d-motion/lucianlamp-1image-3d-demo.md)** ⚑  @lucianlamp
+  - 1枚の画像を入力に、歩けるローカル3D空間を生成するデモ。ゲーム・映像向けのシーン試作を、モデリングなしで行う発想の例。
+- **[4DAnyone](links/3d-motion/4danyone.github.io-4danyone.md)** ⚑  free / 4DAnyone authors（Zhejiang University / Ant Group、コードは ant-research 名義）
+  - スマートフォンなどで撮った1本の手持ち動画から、カメラ内部・外部パラメータや撮影リグなしで多視点動画を生成し、そのまま 4D Gaussian Splatting (4DGS) の再構成に渡せるようにする研究プロジェクト（SIGGRAPH Asia 2026、Zhejiang University / Ant Grou
+- **[DiMocap AGI](links/3d-motion/https-www.dimocap.com-en-agimocap.html.md)** ⚑  @motioncaps
+  - Webカメラ一台で体・指・顔を取るとするDiMocap AGIの商用ソフト案内。
+- **[Gracia (Gracia AI)](links/3d-motion/gracia.ai-gracia-gracia-ai.md)**  paid / Gracia AI, Inc.
+  - 同期済みのマルチカメラ実写素材から、自由視点で見られる4D（3DGS＋時間軸）表現を作り、Web・VR・エンジン上で再生するための商用プラットフォーム。
+- **[HairDeck](links/3d-motion/hyzcluster.github.io-hairdeck.md)** ⚑  free / hyz317 (Yuze He, Yixiang Wei, Wang Zhao, Chuhao Chen, Yanning Zhou, Yong-Jin Liu / Tsinghua University, CMU, CUHK)
+  - ゲームやアバターの髪を作る「ヘアカード」(アーティストが配置するリボン状メッシュ) を、キャラクター画像1枚から自動生成する研究プロジェクト。
+- **[ISO-GLOW](links/3d-motion/isoglow.dev-iso-glow.md)** ⚑  free
+  - テキストで指示した物体・デバイス・建物を、細線の等角投影（アイソメトリック）イラスト1枚のHTMLとして生成するClaudeスキル。点灯している部分だけが発光し、押せる部品は実際に反応する。3Dを指定すると同じ見た目をthree.jsで構築し、視点を回せるようにする。
+- **[SHOT OF THE DEAD — ブラウザ3Dプリビズ](links/3d-motion/shotofthedead.com-shot-of-the-dead.md)** ⚑  freemium / SHOT OF THE DEAD — ブラウザ3Dプリビズ
+  - 最終動画を生成する前に、3D上で人物・小物・レンズ・カメラ移動とカット構成を設計する。
+- **[Sand3D (sand3d)](links/3d-motion/sandflow.ai-sand3d-sand3d.md)**  free / Sandflow (Sandflow-ai)
+  - 3D 形状を「部品ごとの短い Python プログラム」として記述するためのライブラリ。座標を手計算せず、名前付きの部品・辺・面を操作するので、LLM が数百トークンで物体を書き、人間がそのまま読める。
+- **[TailorRig](links/3d-motion/xxxx0601.github.io-tailorrig.md)** ⚑  free / Tencent LIGHTSPEED・西安交通大学・北京大学・清華大学
+  - キャラクターの身体スケルトンと衣装（スカート・髪・袖・アクセサリ）を同時に扱い、衣装まで含めたリグを自動生成する研究。
+- **[TailorRig Dataset](links/3d-motion/huggingface-tencent-tailorrig-dataset.md)** ⚑  free / Tencent
+  - キャラクターの骨格生成・スキニング重み推定などの研究向けデータセット。
+
 ### エージェント基盤・スキル集（10）
 
 - **[Billable Hours Bot](links/agent-framework/https-x.ai-bot-tlgfui0v3nxxmommdvgvr.md)** ⚑  @naka_1717
@@ -554,27 +583,6 @@
   - 2026-11-09取得の第三者ボット配布ページの説明: Grok Botの使用量、増加・スパイク・ループをダッシュボードで監視し、ワンタップの節約提案を示すと配布ページに記載。リンクや資料の保存ボットではない。
 - **[WhatsApper](links/agent-framework/https-x.ai-bot-lr1qqk4csgtz127njppq2.md)** ⚑  @naka_1717
   - 2026-11-09取得の第三者ボット配布ページの説明: WhatsAppのチャットとグループを読み、利用者の口調でメッセージを下書きし、正確な本文を承認した後だけ送ると配布ページに記載。
-
-### 3D・モーション（9）
-
-- **[1枚絵からローカル3D空間を生成するデモ（LUCIAN）](links/3d-motion/lucianlamp-1image-3d-demo.md)** ⚑  @lucianlamp
-  - 1枚の画像を入力に、歩けるローカル3D空間を生成するデモ。ゲーム・映像向けのシーン試作を、モデリングなしで行う発想の例。
-- **[4DAnyone](links/3d-motion/4danyone.github.io-4danyone.md)** ⚑  free / 4DAnyone authors（Zhejiang University / Ant Group、コードは ant-research 名義）
-  - スマートフォンなどで撮った1本の手持ち動画から、カメラ内部・外部パラメータや撮影リグなしで多視点動画を生成し、そのまま 4D Gaussian Splatting (4DGS) の再構成に渡せるようにする研究プロジェクト（SIGGRAPH Asia 2026、Zhejiang University / Ant Grou
-- **[DiMocap AGI](links/3d-motion/https-www.dimocap.com-en-agimocap.html.md)** ⚑  @motioncaps
-  - Webカメラ一台で体・指・顔を取るとするDiMocap AGIの商用ソフト案内。
-- **[Gracia (Gracia AI)](links/3d-motion/gracia.ai-gracia-gracia-ai.md)**  paid / Gracia AI, Inc.
-  - 同期済みのマルチカメラ実写素材から、自由視点で見られる4D（3DGS＋時間軸）表現を作り、Web・VR・エンジン上で再生するための商用プラットフォーム。
-- **[HairDeck](links/3d-motion/hyzcluster.github.io-hairdeck.md)** ⚑  free / hyz317 (Yuze He, Yixiang Wei, Wang Zhao, Chuhao Chen, Yanning Zhou, Yong-Jin Liu / Tsinghua University, CMU, CUHK)
-  - ゲームやアバターの髪を作る「ヘアカード」(アーティストが配置するリボン状メッシュ) を、キャラクター画像1枚から自動生成する研究プロジェクト。
-- **[ISO-GLOW](links/3d-motion/isoglow.dev-iso-glow.md)** ⚑  free
-  - テキストで指示した物体・デバイス・建物を、細線の等角投影（アイソメトリック）イラスト1枚のHTMLとして生成するClaudeスキル。点灯している部分だけが発光し、押せる部品は実際に反応する。3Dを指定すると同じ見た目をthree.jsで構築し、視点を回せるようにする。
-- **[SHOT OF THE DEAD — ブラウザ3Dプリビズ](links/3d-motion/shotofthedead.com-shot-of-the-dead.md)** ⚑  freemium / SHOT OF THE DEAD — ブラウザ3Dプリビズ
-  - 最終動画を生成する前に、3D上で人物・小物・レンズ・カメラ移動とカット構成を設計する。
-- **[Sand3D (sand3d)](links/3d-motion/sandflow.ai-sand3d-sand3d.md)**  free / Sandflow (Sandflow-ai)
-  - 3D 形状を「部品ごとの短い Python プログラム」として記述するためのライブラリ。座標を手計算せず、名前付きの部品・辺・面を操作するので、LLM が数百トークンで物体を書き、人間がそのまま読める。
-- **[TailorRig](links/3d-motion/xxxx0601.github.io-tailorrig.md)** ⚑  free / Tencent LIGHTSPEED＋清華大学（Chen Yajing ほか8名）
-  - キャラクターの身体スケルトンと衣装（スカート・髪・袖・アクセサリ）を同時に扱い、衣装まで含めたリグを自動生成する研究。
 
 ### 画像生成・編集（8）
 
@@ -903,6 +911,7 @@
 ## ⚑ 要確認
 
 - [text-to-cad](entries/3d-motion/earthtojake-text-to-cad.md) — unverified / 有効性は配布元の設計説明と自己申告のみで、生成された CAD の寸法精度・製造可能性を第三者が測定した結果は確認していない。DFM/DfAM の検査は mesh 計測と規則の引用だが、規則の妥当性・合否閾値は未検証。PyPI の分類は Development Status :: 4 - Beta。Python 3.14 固定で 3.13 以前では動かない。Windows 11 の Smart App Control 有効環境では OCP のネイティブモジュールが遮断される。既定でテレメトリ有効。リポジトリサイズは API 表記 436,278 KB。
+- [Meshroom](entries/3d-motion/alicevision-meshroom.md) — unverified / Meshroom本体はMPL-2.0。AliceVisionや追加プラグイン、AIモデルの条件は個別に確認。公式マニュアルによると密な深度推定にはCUDA対応NVIDIA GPUが必要で、非CUDA環境は粗いdraft meshingを利用。実行・再構築品質は未検証。
 - [Kimodo](entries/3d-motion/nv-tlabs-kimodo.md) — unverified / コードはApache-2.0、重みはモデル別。SOMA-RP-v1.2はNVIDIA Open Model Licenseで商用利用可能、SMPLX-RP-v1はNVIDIA R&D Model License。Scenarioは別サービスで無料プランの生成物は個人・評価用途に限る。実行・生成品質・Scenario操作は未検証。
 - [facebookresearch/sam-3d-body](entries/3d-motion/facebookresearch-sam-3d-body.md) — unverified / 独自SAM LicenseはMIT/Apacheではなく用途・再配布・法令・プライバシー等に条件。非商用専用と断定する根拠はない。人体動画の同意と権利を確認する。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [pixiv/three-vrm](entries/3d-motion/pixiv-three-vrm.md) — unverified / v3.6.0-beta.0のVRMC_springBone_limitはBeta拡張。MITはコードの条件で、各VRMの人物・衣装・モデルの権利は別。 当方でインストール・推論・生成・ベンチ再現はしていない。
@@ -934,7 +943,8 @@
 - [SAM 3.1・SAM 3D Bodyの複数人モーション制作例](articles/2026-11-09-https-x.com-l_arch_01-status-2119383964167409667.md) — unverified / 配布元の独自SAM Licenseと手動承認ゲート、元映像の人物の同意・プライバシーに注意。UI比較映像は精度・一貫性の独立測定ではない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [SHOT OF THE DEAD — ブラウザ3Dプリビズ](links/3d-motion/shotofthedead.com-shot-of-the-dead.md) — unverified / macOS/WindowsのChrome対象。Safari/Firefox非対応、他Chromiumは未検証。最終AI動画は外部モデルで生成する。投稿の12月10日までのPro特典、25ドル割引・コードLOOPYは投稿者の案内で、今回有効性を確認していない。 当方では導入・生成・操作の実行検証をしていない。
 - [Solvaix MEP・Claude間取り図からの設計事例](articles/2026-11-09-https-x.com-taziku_co-status-2119267211206635743.md) — unverified / 件数はSolvaixの自己申告で独立検証なし。建築・設備の法令/構造/安全審査をAIや案数だけで代替できない。 当方でインストール・推論・生成・ベンチ再現はしていない。
-- [TailorRig](links/3d-motion/xxxx0601.github.io-tailorrig.md) — unverified / SIGGRAPH Asia 2026 の to appear 論文で、プロジェクトページにはアニメーションと3Dビューアのデモしかない。コード・重み・モデルカードは無く、引用元も『Code ボタンは今は何も動かない』と明記している。GitHubリポジトリは見つからない。したがって現時点では再現・実行ができず、数値・品質は論文とデモに依存する。投稿本体は引用RTの感想2行で、著者本人の解説ではない。
+- [TailorRig](links/3d-motion/xxxx0601.github.io-tailorrig.md) — unverified / 論文・デモと研究用データセットは公開。記載されたGitHubコードURLは404、推論コード・重みは未確認。データセットカードは学術研究のみ・商用や製品利用不可とし、LICENSE原文は対象をソフト・重みと記載しているため、対象範囲や第三者素材の権利は配布元に確認。性能は論文の評価で実行未検証。
+- [TailorRig Dataset](links/3d-motion/huggingface-tencent-tailorrig-dataset.md) — unverified / カードは学術研究専用・商用および製品用途不可と記載。添付LICENSEのTailorRigの定義はコード・重みであり、データへの適用範囲や第三者由来素材の条件は配布元に確認。データ内容やダウンロード後の動作は未検証。
 - [facebook/sam-3d-body-dinov3](models/3d-motion/facebook-sam-3d-body-dinov3.md) — unverified / 独自SAM Licenseの条件と人物の権利を確認する。SAM3.1の分割モデルとは別であり、映像全体のモーション品質は単独重みの保証ではない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [白素体とプロンプトの同時変更による3方向比較（記事54）](articles/2026-11-09-https-make-profit.net-2026-11-06-genai-lab-54-blender-mixamo-h3-soft-body-mannequin-three-angles-regenerated.md) — unverified / 著者自身が効果を切り分けられないと明記。脚の細さの効果だけを実証した比較とは扱わない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [agent-browser](entries/agent/vercel-labs-agent-browser.md) — unverified / Apache-2.0。要素が隠れている等でクリック失敗する場合がある。更新された画面の古いrefを再利用しない。 実行・品質は未検証。
@@ -1207,6 +1217,7 @@
 - [Kling AI Motion Control](links/video-gen/kling.ai-kling-ai-motion-control.md) — unverified / 無料枠と月額サブスクの金額は未確認（確認できたのは API の従量単価のみ）。参照動画の権利と、生成結果が元動画と似ることによる権利・プラットフォームポリシーの確認が必要。
 - [MiniMax H3 long take 連結ワークフロー](links/video-gen/https-civitai.com-models-3038677.md) — unverified / 作者のRTX4070SUPER12GB使用は最低VRAM要件の証明ではない。長尺の整合性・繋ぎ・追加ノードの安全性と権利は未検証。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [MiniMax H3系のボイスLoRA／キャプション運用メモ](articles/2026-11-07-ai_1610-h3-voice-lora-memo.md) — unverified / 18+ / NSFW。引用先のnote記事は成人向け音声演技（喘ぎ・淫語）の設計メモで、職場閲覧注意。本文の『p-h3』は製品リンクがなく固有名を特定できない（H3系=MiniMax H3は既出。PrunaAIのP-H3-Imageは画像モデルで声LoRAとは無関係）。投稿は前投稿の訂正＋運用注意の追記で、新製品・リポジトリの提示ではない。声LoRAの効果やキャプション記述の優劣は本人の運用感で、数値・比較検証は無い。
+- [MiniMax H3：20種のダンスと音楽指定](prompts/video-gen/minimax-h3-20-dance-music.md) — unverified / 投稿本文を原文のまま収録。生成品質や参照画像の一致、音楽と動作の同期は未検証。元投稿には再配布・商用利用条件の明記を確認できていない。ローカルH3の生成物を商用利用するには別途ライセンスが必要。
 - [Museに外部の無料GPU（Modal／Kaggle／Colab）を割り当てる手順](articles/2026-11-07-taki_auto-muse-free-gpu.md) — low-quality, unverified / 新ツールの提示ではなく、既知サービス3つ（Modal・Kaggle・Colab）をMuse経由で使う手順とコピペ用プロンプトの連投。Modal Starterの月30ドル無料クレジット、KaggleのGPU無料枠が週30時間前後という記述は一次情報とおおむね一致するが、『1枚49秒／70秒』等の速度は本人環境依存で検証不能。本旨は『AI画像×CG集販売の12大特典を無料配布』への導線（販促）で、技術情報としての独自性は低い。成人向けはKaggle・Modalの規約で禁止という注意書きは妥当。会話欄に無関係な広告（コーヒー通販）が混入。
 - [P-H3-Image](models/video-gen/prunaai-p-h3-image.md) — unverified / 学習アダプタの存在はモデル本体の権利条件や実行要件を緩和しない。 今回の動作・推論・生成・性能は未検証。
 - [Pika H3 Flex Turbo LoRA](models/video-gen/pika-labs-pika-h3-flex-turbo-lora.md) — unverified / 123秒という値は投稿者測定。HyperFlow等の別モデルと解像度やサンプラをそろえず速度優位を一般化しない。 今回の動作・推論・生成・性能は未検証。

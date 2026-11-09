@@ -5,7 +5,7 @@ genre: "agent-framework"
 url: "https://github.com/google/skills"
 author: "google"
 source_post: "https://x.com/GitTrend0x/status/2118863589716988311"
-sources: ["https://x.com/gittrend0x/status/2118863589716988311?a=GBBtaBZ8qLCAqxphGVc&s=46", "https://x.com/GitTrend0x/status/2118863589716988311", "https://api.github.com/repos/NVIDIA/auto-ontology", "https://api.github.com/repos/microsoft/VibeVoice", "https://api.github.com/repos/google/skills", "https://api.github.com/repos/lobehub/lobehub", "https://api.github.com/repos/meta/astryx", "https://github.com/google/skills"]
+sources: ["https://x.com/gittrend0x/status/2118863589716988311?a=GBBtaBZ8qLCAqxphGVc&s=46", "https://x.com/GitTrend0x/status/2118863589716988311", "https://api.github.com/repos/NVIDIA/auto-ontology", "https://api.github.com/repos/microsoft/VibeVoice", "https://api.github.com/repos/google/skills", "https://api.github.com/repos/lobehub/lobehub", "https://api.github.com/repos/meta/astryx", "https://github.com/google/skills", "https://x.com/i/status/2119297622456311815"]
 first_seen: "2026-11-07"
 amplifiers: []
 added: "2026-11-09"
@@ -72,3 +72,5 @@ skill追加だけで対象クラウド契約・API課金が無料になるわけ
 ## 変更履歴
 
 - 2026-11-09: 初回収録用の概要を作成。原チェックと公式メタ情報の取得範囲を区別して記載。実行追試なし。
+
+- 2026-11-09: 別の紹介投稿を追加。対象と公式情報を再確認。動作は未検証。

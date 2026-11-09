@@ -18,7 +18,7 @@ commit_cadence: "weekly"
 size_kb: 130
 archived: false
 risk_notes: "MIT。投稿のMS関連社内ハッカソンでAI審査員から満点という説明は作者の自己申告で、公式採点記録・Microsoftの推薦や認証を確認したものではない。READMEは旧5事例ベンチの比較条件・トークン二重計上に問題があり旧総数を撤回と明記。普遍的な性能改善や低遅延は保証しない。 当方でインストール・動作・性能の実行検証はしていない。"
-sources: ["https://x.com/sleepless_han/status/2119291833322729923", "https://github.com/sleeplesshan/dual-brain", "https://github.com/sleeplesshan/dual-brain/blob/main/README.md", "https://github.com/sleeplesshan/dual-brain/blob/main/LICENSE"]
+sources: ["https://x.com/sleepless_han/status/2119291833322729923", "https://github.com/sleeplesshan/dual-brain", "https://github.com/sleeplesshan/dual-brain/blob/main/README.md", "https://github.com/sleeplesshan/dual-brain/blob/main/LICENSE", "https://x.com/i/status/2119310441411469540"]
 added: "2026-11-09"
 first_seen: "2026-11-08"
 source_post: "https://x.com/sleepless_han/status/2119291833322729923"
@@ -55,3 +55,5 @@ MIT。投稿のMS関連社内ハッカソンでAI審査員から満点という�
 ## 変更履歴
 
 - 2026-11-09: 初回収録。公式資料を確認し、未実行の範囲を明記。
+
+- 2026-11-09: 別の紹介投稿を追加。対象と公式情報を再確認。動作は未検証。
