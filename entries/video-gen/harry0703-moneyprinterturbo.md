@@ -10,7 +10,7 @@ created: "2024-03-11"
 updated: 2026-11-04
 added: "2026-11-03"
 first_seen: "2026-11-03"
-sources: []
+sources: ["https://x.com/i/status/2119403126914507263"]
 flags: []
 risk_notes: ""
 forks: 22166
@@ -66,3 +66,5 @@ docker compose -f docker-compose.release.yml up
 
 - 2026-11-03: 初回登録（star 138,300 / pushed 2026-11-02 / MIT）
 - 2026-11-04: 画像の静止/ズーム効果、ローカルSDXL画像サーバー、Kimi Code認証を追記（v1.3.9）
+
+- 2026-11-09: 紹介投稿の動画に表示された同一リポジトリを照合。ソフト本体はMITだが、LLM・素材・音声の外部サービスには別費用や条件があり、「100%無料」を一律保証しない。

@@ -1,5 +1,5 @@
 {
-  "count": 508,
+  "count": 521,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -1579,6 +1579,24 @@
     },
     {
       "type": "article",
+      "name": "Möbius：動作理解・生成・編集の統合研究",
+      "genre": "3d-motion",
+      "url": "https://arxiv.org/abs/2611.05279",
+      "published": "2026-11-03",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "公式コード公開は内部審査中。プロジェクトページは事前計算した例の閲覧であり自由入力の推論ではない。論文の比較は作者評価、実行や権利条件は未確認。",
+      "sources": [
+        "https://x.com/i/status/2119271267857559816",
+        "https://jiazhishu.github.io/mobius/",
+        "https://github.com/JiazhiShu/mobius-code",
+        "https://arxiv.org/abs/2611.05279"
+      ],
+      "path": "articles/3d-motion/2026-11-03-mobius-motion-language.md"
+    },
+    {
+      "type": "article",
       "name": "SAM 3.1・SAM 3D Bodyの複数人モーション制作例",
       "genre": "3d-motion",
       "url": "https://x.com/L_ARCH_01/status/2119383964167409667",
@@ -1792,6 +1810,149 @@
       "risk_notes": "著者自身が効果を切り分けられないと明記。脚の細さの効果だけを実証した比較とは扱わない。 当方でインストール・推論・生成・ベンチ再現はしていない。",
       "published": "2026-11-06",
       "path": "articles/2026-11-09-https-make-profit.net-2026-11-06-genai-lab-54-blender-mixamo-h3-soft-body-mannequin-three-angles-regenerated.md"
+    },
+    {
+      "type": "repo",
+      "repo": "vercel-labs/agent-browser",
+      "name": "agent-browser",
+      "genre": "agent",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "license": "Apache-2.0",
+      "stars": 47766,
+      "language": "Rust",
+      "created": "2026-01-11",
+      "updated": "2026-11-08",
+      "forks": 3268,
+      "open_issues": 524,
+      "commits_30d": "100+",
+      "commits_90d": "100+",
+      "commit_cadence": "daily",
+      "size_kb": 31766,
+      "archived": false,
+      "added": "2026-11-09",
+      "fetched_at": "2026-11-09T03:42:27Z",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "Apache-2.0。要素が隠れている等でクリック失敗する場合がある。更新された画面の古いrefを再利用しない。 実行・品質は未検証。",
+      "sources": [
+        "https://x.com/i/status/2119588334615802105",
+        "https://github.com/vercel-labs/agent-browser"
+      ],
+      "path": "entries/agent/vercel-labs-agent-browser.md",
+      "summary": "アクセシビリティツリーの要素にrefを付け、エージェントがCLIから開く・読む・クリックする。CDP接続やMCPにも対応。"
+    },
+    {
+      "type": "repo",
+      "repo": "Albert-Weasker/niubigeo",
+      "name": "niubigeo",
+      "genre": "agent",
+      "url": "https://github.com/Albert-Weasker/niubigeo",
+      "license": "Apache-2.0",
+      "stars": 10146,
+      "language": "TypeScript",
+      "created": "2026-09-03",
+      "updated": "2026-11-03",
+      "forks": 818,
+      "open_issues": 62,
+      "commits_30d": 12,
+      "commits_90d": 54,
+      "commit_cadence": "weekly",
+      "size_kb": 34085,
+      "archived": false,
+      "added": "2026-11-09",
+      "fetched_at": "2026-11-09T03:42:27Z",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "Apache-2.0。ソフト本体と別にモデルAPI・インフラの費用が発生し得る。順位や言及は質問・モデル・時点に依存する。 実行・品質は未検証。",
+      "sources": [
+        "https://x.com/i/status/2119588334615802105",
+        "https://github.com/Albert-Weasker/niubigeo"
+      ],
+      "path": "entries/agent/albert-weasker-niubigeo.md",
+      "summary": "ドメインや質問を入力して複数モデルの回答、ブランド名・競合・引用元を記録し、同条件の調査を反復する。"
+    },
+    {
+      "type": "repo",
+      "repo": "Dongbumlee/ontosmith",
+      "name": "ontosmith",
+      "genre": "agent",
+      "url": "https://github.com/Dongbumlee/ontosmith",
+      "license": "MIT",
+      "stars": 223,
+      "language": "Python",
+      "created": "2026-10-22",
+      "updated": "2026-11-08",
+      "forks": 23,
+      "open_issues": 1,
+      "commits_30d": "100+",
+      "commits_90d": "100+",
+      "commit_cadence": "daily",
+      "size_kb": 32035,
+      "archived": false,
+      "added": "2026-11-09",
+      "fetched_at": "2026-11-09T03:42:27Z",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "MIT。引用が実在しても関係が真とは限らず、出典付き記録は数学的証明ではない。モデル判定や費用を実データで検証する必要がある。 実行・品質は未検証。",
+      "sources": [
+        "https://x.com/i/status/2119417274314396148",
+        "https://github.com/Dongbumlee/ontosmith"
+      ],
+      "path": "entries/agent/dongbumlee-ontosmith.md",
+      "summary": "文書からエンティティと関係を候補化し、原文の根拠・型チェックと別モデルの判定を経て知識グラフを構築する。"
+    },
+    {
+      "type": "article",
+      "name": "Claude Code × Blender：ゲーム向け3D制作手順",
+      "genre": "agent",
+      "url": "https://x.com/rektwild/status/2119451439093211174",
+      "published": "2026-11-08",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "投稿内容は作者の手順であり完成品質や実行の再現性は未検証。MCP経由の操作はBlenderの開いたシーンを変更し得るため、保存前の確認とバックアップが必要。",
+      "sources": [
+        "https://x.com/i/status/2119451439093211174",
+        "https://claude.com/resources/tutorials/using-the-blender-connector-in-claude"
+      ],
+      "path": "articles/agent/2026-11-08-rektwild-blender-game-pipeline.md"
+    },
+    {
+      "type": "article",
+      "name": "Claude Skills 67選：開発向けスキル紹介",
+      "genre": "agent",
+      "url": "https://x.com/ClaudeCode_love/status/2045082723027751079",
+      "published": "2026-04-17",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "67件や生産性向上は記事の主張であり個々の現行配布先や効果を一括検証していない。第三者のスキルは指示と実行スクリプトを読むなど、導入前の安全確認が必要。",
+      "sources": [
+        "https://x.com/i/status/2119378395830350316",
+        "https://x.com/ClaudeCode_love/status/2045082723027751079",
+        "https://github.com/anthropics/skills",
+        "https://github.com/mattpocock/skills"
+      ],
+      "path": "articles/agent/2026-04-17-claude-skills-67.md"
+    },
+    {
+      "type": "article",
+      "name": "Meng To：Claudeでthree.jsの部屋を制作",
+      "genre": "agent",
+      "url": "https://x.com/MengTo/status/2119103146974957675",
+      "published": "2026-11-07",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "公開された映像は作例であり、再現手順・ソースやアプリ再制作の所要時間は独立検証できていない。ソフトウェア配布物ではない。",
+      "sources": [
+        "https://x.com/i/status/2119378395830350316",
+        "https://x.com/MengTo/status/2119103146974957675"
+      ],
+      "path": "articles/agent/2026-11-07-meng-to-threejs-room.md"
     },
     {
       "repo": "mattpocock/skills",
@@ -4594,6 +4755,37 @@
       "summary": "コードベースを「事前索引化した知識グラフ」にして、MCP サーバー経由でエージェントに渡す。シンボル・呼び出しエッジ・依存関係を1回の問い合わせで返すため、エージェントはファイルを総当たりで読まなくて済む。"
     },
     {
+      "type": "repo",
+      "repo": "herdrdev/herdr",
+      "name": "herdr",
+      "genre": "coding-agent",
+      "url": "https://github.com/herdrdev/herdr",
+      "license": "Apache-2.0",
+      "stars": 49491,
+      "language": "Rust",
+      "created": "2026-03-27",
+      "updated": "2026-11-07",
+      "forks": 3993,
+      "open_issues": 455,
+      "commits_30d": 49,
+      "commits_90d": "100+",
+      "commit_cadence": "daily",
+      "size_kb": 49708,
+      "archived": false,
+      "added": "2026-11-09",
+      "fetched_at": "2026-11-09T03:42:27Z",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "Apache-2.0。再起動後は保存レイアウトや対応エージェントのセッションを復元できる場合があるが、プロセス継続とは異なる。 実行・品質は未検証。",
+      "sources": [
+        "https://x.com/i/status/2119588334615802105",
+        "https://github.com/herdrdev/herdr"
+      ],
+      "path": "entries/coding-agent/herdrdev-herdr.md",
+      "summary": "ターミナル上の複数エージェントを分割表示し、切断後もバックグラウンドで動かし、稼働・待機・停止状態を見られる。"
+    },
+    {
       "repo": "davila7/claude-code-templates",
       "name": "claude-code-templates",
       "genre": "coding-agent",
@@ -4798,6 +4990,37 @@
       "fetched_at": "2026-11-09T00:30:59.582333+00:00",
       "path": "entries/coding-agent/zseven-w-openpencil.md",
       "summary": "Rust/WASMキャンバス、MCPサーバ、並列エージェント等を備えるベクターデザインツールOpenPencil。"
+    },
+    {
+      "type": "repo",
+      "repo": "ranxianglei/billion-context",
+      "name": "billion-context",
+      "genre": "coding-agent",
+      "url": "https://github.com/ranxianglei/billion-context",
+      "license": "NOASSERTION",
+      "stars": 5283,
+      "language": "TypeScript",
+      "created": "2026-08-06",
+      "updated": "2026-11-09",
+      "forks": 413,
+      "open_issues": 916,
+      "commits_30d": "100+",
+      "commits_90d": "100+",
+      "commit_cadence": "daily",
+      "size_kb": 73445,
+      "archived": false,
+      "added": "2026-11-09",
+      "fetched_at": "2026-11-09T03:42:27Z",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "ライセンスはMIT本文に加え、利用者が触れる製品・サービスのページや文書等への目立つ出典表示義務がある独自条件。純粋なMITと同一ではない。性能は作者報告で独立検証していない。 実行・品質は未検証。",
+      "sources": [
+        "https://x.com/i/status/2119588334615802105",
+        "https://github.com/ranxianglei/billion-context"
+      ],
+      "path": "entries/coding-agent/ranxianglei-billion-context.md",
+      "summary": "長い会話の履歴を階層的に圧縮し、コーディングエージェントのコンテキストを管理する。"
     },
     {
       "type": "repo",
@@ -7097,6 +7320,24 @@
       "summary": "ポートレート・シネマティックシーンの生成"
     },
     {
+      "type": "article",
+      "name": "Z-Image-Turbo：低VRAM向けComfyUI制作記事",
+      "genre": "image-generation",
+      "url": "https://x.com/i/article/2119555061227704320",
+      "published": "2026-11-09",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "18+ / NSFW。成人向け表現を扱う。VRAM・速度・長時間安定性は記事の主張で、当方では未検証。公式モデルは16GB環境への適合を説明しており、8GB動作は量子化・オフロードや環境に左右される。モデルや追加素材の条件は個別確認。",
+      "sources": [
+        "https://x.com/i/status/2119614386952454291",
+        "https://x.com/i/article/2119555061227704320",
+        "https://huggingface.co/Tongyi-MAI/Z-Image-Turbo",
+        "https://docs.comfy.org/tutorials/image/z-image/z-image-turbo"
+      ],
+      "path": "articles/image-generation/2026-11-09-zzuurn-z-image-low-vram.md"
+    },
+    {
       "type": "repo",
       "name": "lucas-martinic/polyfork-catalog",
       "genre": "link-asset",
@@ -7258,6 +7499,25 @@
       "risk_notes": "ポーズの参考利用は投稿者が明示的に許可しているが、画像そのものの再配布・商用利用の許諾ではない。生成AIの参照資料として使う場合も、出力が特定の作家・作品の模倣にならないよう注意。",
       "path": "links/link-asset/mio-pose-designs-vol11.md",
       "summary": "座位・横臥のポーズを9種類まとめた作画資料。画像生成AIのポーズ指定、ControlNet・LoRA の参照セット、絵コンテの下敷きなど、人体の姿勢を固定したいときに使う。"
+    },
+    {
+      "type": "link",
+      "name": "Mio's Pose Designs Vol. 18",
+      "genre": "link-asset",
+      "url": "https://x.com/Mio_2am/status/2119609383210611142",
+      "pricing": "free",
+      "pricing_detail": "投稿画像の閲覧・ポーズの参考は作者が許可。再配布・商用素材としての権利は別途確認。",
+      "signup_required": "閲覧時のX側の条件に依存。",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "画像や3Dモデル自体を素材として再配布できる許諾とは限らない。引用元のVol.11は別の投稿。",
+      "sources": [
+        "https://x.com/i/status/2119609383210611142",
+        "https://x.com/Mio_2am/status/2117811067707592879"
+      ],
+      "path": "links/link-asset/mio-pose-designs-vol18.md",
+      "summary": "椅子に座る人体ポーズ9種の視覚的な参考資料。"
     },
     {
       "type": "link",
@@ -7987,6 +8247,26 @@
       "fetched_at": "2026-11-08T04:07:21+00:00",
       "path": "links/link-service/typesafe.ai-jev-typesafe-ai.md",
       "summary": "高性能LLMにバックログ全体を投げる前に、「些細・定型・難しい」の判断だけを安く速く済ませ、難しい案件だけをLLMに渡すための判断レイヤー。"
+    },
+    {
+      "type": "link",
+      "name": "Mako UI",
+      "genre": "link-service",
+      "url": "https://mako-engine.com/",
+      "pricing": "paid",
+      "pricing_detail": "商用ソフトウェアとして販売予定。発売価格は未公表。",
+      "signup_required": "アクセス・発売情報はウェイトリスト登録。",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "現時点で公式はウェイトリストを案内しており、一般提供や料金を確認できない。コンソール版はNDA等の条件あり。実装や性能は未検証。",
+      "sources": [
+        "https://x.com/i/status/2119268097869873282",
+        "https://mako-engine.com/",
+        "https://mako-engine.com/specs.html"
+      ],
+      "path": "links/link-service/mako-engine-mako-ui.md",
+      "summary": "HTML・CSS・JavaScriptでゲーム内UIを制作するミドルウェア。"
     },
     {
       "name": "Paper Animation",
@@ -12976,7 +13256,9 @@
       "updated": "2026-11-04",
       "added": "2026-11-03",
       "first_seen": "2026-11-03",
-      "sources": [],
+      "sources": [
+        "https://x.com/i/status/2119403126914507263"
+      ],
       "flags": [],
       "risk_notes": "",
       "forks": 22166,
@@ -13564,6 +13846,37 @@
       "type": "repo",
       "path": "entries/video-gen/vincentwei1021-video-shotcraft.md",
       "summary": "Claude Code / Codex 向けの「動画制作スキル」。製品プロモのような映像を Remotion のコードとして出力するので、生成後にタイムラインやテキストを編集できる（ mp4 を吐いて終わりではない）。"
+    },
+    {
+      "type": "repo",
+      "repo": "jub0t/Concat",
+      "name": "Concat",
+      "genre": "video-gen",
+      "url": "https://github.com/jub0t/Concat",
+      "license": "AGPL-3.0",
+      "stars": 15837,
+      "language": "Rust",
+      "created": "2026-08-25",
+      "updated": "2026-11-08",
+      "forks": 1973,
+      "open_issues": 247,
+      "commits_30d": "100+",
+      "commits_90d": "100+",
+      "commit_cadence": "daily",
+      "size_kb": 79582,
+      "archived": false,
+      "added": "2026-11-09",
+      "fetched_at": "2026-11-09T03:42:27Z",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "AGPL-3.0。モデルには別ライセンスの可能性がある。オフライン動作や4K出力は当方未検証。 実行・品質は未検証。",
+      "sources": [
+        "https://x.com/i/status/2119588334615802105",
+        "https://github.com/jub0t/Concat"
+      ],
+      "path": "entries/video-gen/jub0t-concat.md",
+      "summary": "マルチトラック編集、字幕、音声合成、背景除去、キーフレーム、4K書き出し。JSON-RPCやMCPでも操作できる。"
     },
     {
       "type": "repo",

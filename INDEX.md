@@ -2,17 +2,17 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 508 件 — リポジトリ 301, リンク集 89, 記事 54, モデル 53, プロンプト 11 / ⚑ 要確認 307 件
+収録 521 件 — リポジトリ 307, リンク集 91, 記事 59, モデル 53, プロンプト 11 / ⚑ 要確認 320 件
 
-## リポジトリ（301）
+## リポジトリ（307）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### 動画生成パイプライン（65）
+### 動画生成パイプライン（66）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
-| [MoneyPrinterTurbo](entries/video-gen/harry0703-moneyprinterturbo.md) | 138,902 | 22,166 | 毎日 | 100+ | 2026-11-04 | 2026-11-04 | 2026-11-04 | MIT |
+| [MoneyPrinterTurbo](entries/video-gen/harry0703-moneyprinterturbo.md) | 138,902 | 22,166 | 毎日 | 100+ | 2026-11-04 | 2026-11-04 | 2026-11-09 | MIT |
 | [d3/d3](entries/video-gen/d3-d3.md) ⚑ | 113,886 | 22,725 | 週次 | 4 | 2026-11-03 | 2026-11-09 | 2026-11-09 | ISC |
 | [HyperFrames](entries/video-gen/heygen-hyperframes.md) ⚑ | 78,902 | 7,262 | 毎日 | 100+ | 2026-11-04 | 2026-11-04 | 2026-11-09 | Apache-2.0 |
 | [OpenMontage](entries/video-gen/calesthio-openmontage.md) | 76,491 | 10,148 | 毎日 | 46 | 2026-11-03 | 2026-11-04 | 2026-11-04 | AGPL-3.0 |
@@ -27,6 +27,7 @@
 | [liabru/matter-js](entries/video-gen/liabru-matter-js.md) ⚑ | 18,611 | 2,001 | 月次 | 0 | 2026-09-30 | 2026-11-09 | 2026-11-09 | MIT |
 | [Huobao Drama（火宝短剧）](entries/video-gen/chatfire-ai-huobao-drama.md) | 17,001 | 3,170 | 週次 | 7 | 2026-11-01 | 2026-11-04 | 2026-11-04 | CC BY-NC-SA 4.0（README のバッジ。GitHub API は NOASSERTION） |
 | [video-shotcraft](entries/video-gen/vincentwei1021-video-shotcraft.md) | 16,970 | 1,599 | 週次 | 10 | 2026-10-29 | 2026-11-04 | 2026-11-04 | Apache-2.0 |
+| [Concat](entries/video-gen/jub0t-concat.md) ⚑ | 15,837 | 1,973 | 毎日 | — | 2026-11-08 | 2026-11-09 | 2026-11-09 | AGPL-3.0 |
 | [maxwellito/vivus](entries/video-gen/maxwellito-vivus.md) ⚑ | 15,480 | 1,121 | 停滞 | 0 | 2022-07-06 | 2026-11-09 | 2026-11-09 | MIT |
 | [paperjs/paper.js](entries/video-gen/paperjs-paper.js.md) ⚑ | 15,194 | 1,261 | 毎日 | 100+ | 2026-11-06 | 2026-11-09 | 2026-11-09 | NOASSERTION |
 | [OpenCreator](entries/video-gen/krillinai-opencreator.md) | 14,192 | 1,582 | 毎日 | 100+ | 2026-11-05 | 2026-11-07 | 2026-11-07 | Apache-2.0 |
@@ -237,7 +238,7 @@
 | [ausboss/ComfyUI-AusBoss-Model-Downloader](entries/model-serving/ausboss-comfyui-ausboss-model-downloader.md) ⚑ | 9 | 1 | 週次 | 4 | 2026-11-07 | 2026-11-09 | 2026-11-09 | MIT |
 | [qwen-warp](entries/model-serving/tuan3w-qwen-warp.md) ⚑ | 3 | 1 | 毎日 | 91 | 2026-11-06 | 2026-11-06 | 2026-11-06 | MIT |
 
-### コーディングエージェント（17）
+### コーディングエージェント（19）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -245,12 +246,14 @@
 | [Caveman](entries/coding-agent/juliusbrussee-caveman.md) ⚑ | 118,293 | 6,883 | 毎日 | 100+ | 2026-11-08 | 2026-11-08 | 2026-11-09 | Apache-2.0 |
 | [Agent Skills](entries/coding-agent/addyosmani-agent-skills.md) ⚑ | 114,034 | 11,915 | 毎日 | 100+ | 2026-11-01 | 2026-11-08 | 2026-11-09 | MIT |
 | [CodeGraph](entries/coding-agent/colbymchenry-codegraph.md) | 76,377 | 5,078 | 毎日 | 100+ | 2026-11-01 | 2026-11-03 | 2026-11-03 | MIT |
+| [herdr](entries/coding-agent/herdrdev-herdr.md) ⚑ | 49,491 | 3,993 | 毎日 | 49 | 2026-11-07 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
 | [claude-code-templates](entries/coding-agent/davila7-claude-code-templates.md) ⚑ | 33,210 | 3,896 | 毎日 | 100+ | 2026-11-08 | 2026-11-08 | 2026-11-09 | MIT |
 | [jcode](entries/coding-agent/1jehuang-jcode.md) | 21,484 | 2,506 | 毎日 | 100+ | 2026-11-04 | 2026-11-04 | 2026-11-04 | MIT |
 | [Craft Anything](entries/coding-agent/storytold-craft-anything.md) | 17,885 | 3,282 | 毎日 | 100+ | 2026-11-06 | 2026-11-06 | 2026-11-06 | Apache-2.0 |
 | [meta/astryx](entries/coding-agent/meta-astryx.md) ⚑ | 16,728 | 1,321 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | MIT |
 | [fast-jev-compaction](entries/coding-agent/tamaratran-fast-jev-compaction.md) ⚑ | 7,917 | 581 | 月次 | 0 | 2026-09-18 | 2026-11-08 | 2026-11-09 | MIT |
 | [ZSeven-W/openpencil](entries/coding-agent/zseven-w-openpencil.md) ⚑ | 7,154 | 622 | 毎日 | 100+ | 2026-11-08 | 2026-11-09 | 2026-11-09 | MIT |
+| [billion-context](entries/coding-agent/ranxianglei-billion-context.md) ⚑ | 5,283 | 413 | 毎日 | — | 2026-11-09 | 2026-11-09 | 2026-11-09 | NOASSERTION |
 | [obsidianmd/obsidian-sample-plugin](entries/coding-agent/obsidianmd-obsidian-sample-plugin.md) ⚑ | 4,654 | 1,808 | 停滞 | 0 | 2026-08-02 | 2026-11-09 | 2026-11-09 | 0BSD |
 | [pstack-claude](entries/coding-agent/michael-denyer-pstack-claude.md) ⚑ | 4,144 | 377 | 毎日 | 100+ | 2026-11-07 | 2026-11-08 | 2026-11-09 | MIT |
 | [oh-my-mermaid（omm）](entries/coding-agent/oh-my-mermaid-oh-my-mermaid.md) | 3,380 | 267 | 停滞 | 0 | 2026-04-07 | 2026-11-05 | 2026-11-05 | MIT |
@@ -362,6 +365,14 @@
 | [Graphicle（コードグラフと記憶を1つのMCPサーバでエージェントに渡すRust製ツール）](entries/mcp-server/graphicle-ai-graphicle.md) | 510 | 36 | 毎日 | 84 | 2026-11-05 | 2026-11-06 | 2026-11-06 | Apache-2.0 |
 | [pagesift](entries/mcp-server/yolow92-pagesift.md) ⚑ | 245 | 32 | 毎日 | 100+ | 2026-11-06 | 2026-11-06 | 2026-11-07 | AGPL-3.0 |
 
+### agent（3）
+
+| 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
+|---|---:|---:|---|---:|---|---|---|---|
+| [agent-browser](entries/agent/vercel-labs-agent-browser.md) ⚑ | 47,766 | 3,268 | 毎日 | — | 2026-11-08 | 2026-11-09 |  | Apache-2.0 |
+| [niubigeo](entries/agent/albert-weasker-niubigeo.md) ⚑ | 10,146 | 818 | 週次 | 12 | 2026-11-03 | 2026-11-09 |  | Apache-2.0 |
+| [ontosmith](entries/agent/dongbumlee-ontosmith.md) ⚑ | 223 | 23 | 毎日 | — | 2026-11-08 | 2026-11-09 |  | MIT |
+
 ### 評価・ベンチマーク（3）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
@@ -422,7 +433,7 @@
 - **[Claude Code コミット前検証スキル verify（テスト→差分レビュー→差し戻し）](prompts/coding-agent/claude-code-verify-6df7a29de9.md)** ⚑  Claude Code v2.1.286 以降（.claude/skills/verify/SKILL.md に置くプロジェクトスキル）
   - コミットの直前に、その変更が「意図しない挙動変化」や「データに消える恐れのある変更」を含んでいないかを Claude 自身に確認させ、危険ならコミットさせずに修正へ戻すためのプロジェクトスキル。テストが通ることと、その差分が妥当であることを別々に確かめる点が要点。
 
-## リンク集（89）
+## リンク集（91）
 
 ### リンク（作例・インスピレーション）（17）
 
@@ -461,7 +472,7 @@
 - **[uilabs — 動きのあるUI部品集](links/link-inspiration/uilabs.dev.md)** ⚑  uilabs — 動きのあるUI部品集
   - React UIの操作とモーションの実装例を調べる小さな部品集。
 
-### リンク（素材・アイコン・3D）（13）
+### リンク（素材・アイコン・3D）（14）
 
 - **[AI Camera Movements（カメラワーク46種のプロンプト）](links/link-asset/aicameramovements-com.md)**  free / aicameramovements.com
   - AI 動画の「カメラが止まって見える」問題を、動きの名前と定型プロンプトで解決する。動きの違いを並べて比較してから選べる。
@@ -471,6 +482,8 @@
   - AI 動画のプロンプトに「映画の語彙」を持ち込むための事典。技法名から入って、意味・作例・そのまま使えるプロンプトを引く。
 - **[Mio's Pose Designs Vol. 11](links/link-asset/mio-pose-designs-vol11.md)**  free / @Mio_2am
   - 座位・横臥のポーズを9種類まとめた作画資料。画像生成AIのポーズ指定、ControlNet・LoRA の参照セット、絵コンテの下敷きなど、人体の姿勢を固定したいときに使う。
+- **[Mio's Pose Designs Vol. 18](links/link-asset/mio-pose-designs-vol18.md)** ⚑  free
+  - 椅子に座る人体ポーズ9種の視覚的な参考資料。
 - **[PLATEAU 5都市GLB 797タイル](links/link-asset/https-huggingface.co-datasets-codepawl-plateau-city-glb.md)** ⚑  @bei351009016
   - PLATEAUの東京23区・大阪・横浜・名古屋・札幌の中心部をGLBへ変換した3D都市素材。
 - **[Polyfork](links/link-asset/https-polyfork.dev.md)** ⚑  @Shoonee27
@@ -490,7 +503,7 @@
 - **[背景ガチャ（九龍城砦セット＋パース補助線）](links/link-asset/tools.oyasumi-gamedev.com-haikeigacha.md)** ⚑  free / おやすみゲーム開発部（MIYADAIKU）
   - 漫画・イラストの背景を、ブラウザ上で部品を組み合わせて作る無料ツール。3Dモデリングなしで、部屋・建物・街並みのラフを作る。
 
-### リンク（サービス・ツール）（12）
+### リンク（サービス・ツール）（13）
 
 - **[Aura](links/link-service/aura.build-aura.md)** ⚑  freemium / DESIGNCODE IO PTE. LTD.（Meng To / DesignCode）
   - テキストプロンプトからランディングページやマルチページのウェブサイトを生成し、ブラウザ上で視覚編集して公開・書き出しまで完結させるサービス。公式は「AI landing page builder that creates stunning designs in seconds」と説明している。
@@ -502,6 +515,8 @@
   - 文章作成・マーケティング支援サービスとして一覧に記載されたJasper。
 - **[Jev（TypeSafe AI）](links/link-service/typesafe.ai-jev-typesafe-ai.md)** ⚑  paid / TypeSafe AI
   - 高性能LLMにバックログ全体を投げる前に、「些細・定型・難しい」の判断だけを安く速く済ませ、難しい案件だけをLLMに渡すための判断レイヤー。
+- **[Mako UI](links/link-service/mako-engine-mako-ui.md)** ⚑  paid
+  - HTML・CSS・JavaScriptでゲーム内UIを制作するミドルウェア。
 - **[Paper Animation](links/link-service/paperanimation-ai.md)**  freemium / Paper Animation
   - 画像1枚から紙風のアニメーションクリップを作る Web ツール。ショート動画のフック用素材（新聞の切り抜き風、紙の折り畳み等）を短時間で作ることを狙う。投稿の説明（paper-style animations）と一致する。
 - **[ScaleDown](links/link-service/scaledown-ai.md)**  paid / ScaleDown AI
@@ -779,7 +794,7 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（54）
+## 記事（59）
 
 ### 動画生成パイプライン（12）
 
@@ -810,12 +825,13 @@
 - **[デジタル化・AI導入補助金の申請条件と交付順序](articles/2026-11-09-https-x.com-makeai_ceo-status-2089261252120051821.md)** ⚑  @ai_ai_ailover
 - **[海外版noteで日本語の知識を英語圏に販売するAI活用記事](articles/2026-11-09-https-x.com-i-article-2117172572655849472.md)** ⚑  @pometa_afi
 
-### 3D・モーション（7）
+### 3D・モーション（8）
 
 - **[Cascadeur AI inbetweening](articles/2026-11-09-cascadeur-ai-inbetweening-introduction.md)** ⚑  @AYi_AInotes
 - **[Charakuru→Blender→C4D MCP→Octaneトゥーン制作例](articles/2026-11-09-topic-seventhgraphics-charakuru-octane.md)** ⚑  @seventhgraphics
 - **[Muse×Blender×PLATEAUで作る「日本の名所」3D化リスト](articles/2026-11-07-29meat_ai-muse-blender-plateau.md)** ⚑  @29meat_ai
 - **[Muse・Blender・PLATEAUの大阪城制作実例と生成破綻](articles/2026-11-09-topic-noel_ai_lab-osaka-castle-muse-plateau.md)** ⚑  @noel_ai_lab
+- **[Möbius：動作理解・生成・編集の統合研究](articles/3d-motion/2026-11-03-mobius-motion-language.md)** ⚑
 - **[SAM 3.1・SAM 3D Bodyの複数人モーション制作例](articles/2026-11-09-https-x.com-l_arch_01-status-2119383964167409667.md)** ⚑  @L_ARCH_01
 - **[Solvaix MEP・Claude間取り図からの設計事例](articles/2026-11-09-https-x.com-taziku_co-status-2119267211206635743.md)** ⚑  @taziku_co
 - **[白素体とプロンプトの同時変更による3方向比較（記事54）](articles/2026-11-09-https-make-profit.net-2026-11-06-genai-lab-54-blender-mixamo-h3-soft-body-mannequin-three-angles-regenerated.md)** ⚑  @Phantom_202601
@@ -835,6 +851,12 @@
 - **[P-H3の成人向け利用レポート（18+）](articles/2026-11-08-taki_auto-p-h3-adult-report.md)** ⚑  @taki_auto
 - **[totaku_originalのビジュアル完成度を高める制作手順](articles/2026-11-09-https-x.com-i-article-2118242706573135872.md)** ⚑  @shun_cmdouga
 
+### agent（3）
+
+- **[Claude Code × Blender：ゲーム向け3D制作手順](articles/agent/2026-11-08-rektwild-blender-game-pipeline.md)** ⚑
+- **[Claude Skills 67選：開発向けスキル紹介](articles/agent/2026-04-17-claude-skills-67.md)** ⚑
+- **[Meng To：Claudeでthree.jsの部屋を制作](articles/agent/2026-11-07-meng-to-threejs-room.md)** ⚑
+
 ### エージェント基盤・スキル集（3）
 
 - **[Muse VM・Tailscale・SSH・自宅PC/NASの運用構成図](articles/2026-11-09-https-x.com-hirokichi_pd-status-2119037163899847040.md)** ⚑  @HIROKICHI_PD
@@ -845,6 +867,11 @@
 
 - **[ApiiroによるClaude Code settings.local.json資格情報漏洩調査](articles/2026-11-09-https-x.com-yoppy0123-status-2119219945179603110.md)** ⚑  @yoppy0123
 - **[Claude Code サブエージェントを1ファイルで定義し、報告を短く縛る](articles/2026-10-22-0xbobaaa-sumika45379-claude-code-1.md)** ⚑  @0xbobaaa（元投稿）/ @sumika45379（紹介）
+
+### image-generation（2）
+
+- **[Glada's MOSS Image Workflow v2](articles/image-generation/gladas-moss-image-workflow-v2.md)** ⚑  aiaicreate（紹介）
+- **[Z-Image-Turbo：低VRAM向けComfyUI制作記事](articles/image-generation/2026-11-09-zzuurn-z-image-low-vram.md)** ⚑
 
 ### モデル推論・配信（2）
 
@@ -864,10 +891,6 @@
 ### 評価・ベンチマーク（1）
 
 - **[GameFeelとQwen-4-Flash-Early比較評価の読み方](articles/2026-11-09-https-x.com-follistatindev-status-2119220233751671186.md)** ⚑  @mirai_yuki_tech
-
-### image-generation（1）
-
-- **[Glada's MOSS Image Workflow v2](articles/image-generation/gladas-moss-image-workflow-v2.md)** ⚑  aiaicreate（紹介）
 
 ### リンク（サービス・ツール）（1）
 
@@ -907,12 +930,19 @@
 - [ISO-GLOW](links/3d-motion/isoglow.dev-iso-glow.md) — unverified / 3D実装（three.js 0.160.0、OrbitControls、正射影のIso view、.glb取り込み、3D作例12点）は配布zip内のSKILL.mdとgallery-3d.html、および投稿動画のフレームで確認した。ただしClaude上で実際に図を生成する再現テストは未実施で、出力品質や.glbの仕上がりは未検証。バージョン番号・変更履歴は公開されておらず、「更新版」の版を特定できない。配布物は14ファイル約455KBで、サイトの「Six text files, about 300 KB」という説明とは一致しない（機能面への影響は不明）。公式GitHubリポジトリは無く、配布はisoglow.devのzip/tar.gz/.skillのみ。
 - [Muse×Blender×PLATEAUで作る「日本の名所」3D化リスト](articles/2026-11-07-29meat_ai-muse-blender-plateau.md) — low-quality, unverified / 新規ツール・モデルの提示ではなく、既知の Muse（Metaの個人向けAIエージェント、2026年9月発表）と Blender、国土交通省 PLATEAU を組み合わせた制作ノウハウの一覧。投稿にMuseの一次リンクはない。地名リストと『主役は手作り＋周囲は実データ』という方針は妥当だが、PLATEAUの建物詳細度・収録範囲は地域により異なる。数値・制作時間の検証は無い。引用元は自分の過去作例、会話欄は第三者の作例＋無関係な広告が中心。
 - [Muse・Blender・PLATEAUの大阪城制作実例と生成破綻](articles/2026-11-09-topic-noel_ai_lab-osaka-castle-muse-plateau.md) — unverified / 天守閣が二つに増える生成破綻が見られた。30秒という生成時間は投稿者の申告。PLATEAUデータの出典表示・加工明示が必要。 当方でインストール・推論・生成・ベンチ再現はしていない。
+- [Möbius：動作理解・生成・編集の統合研究](articles/3d-motion/2026-11-03-mobius-motion-language.md) — unverified / 公式コード公開は内部審査中。プロジェクトページは事前計算した例の閲覧であり自由入力の推論ではない。論文の比較は作者評価、実行や権利条件は未確認。
 - [SAM 3.1・SAM 3D Bodyの複数人モーション制作例](articles/2026-11-09-https-x.com-l_arch_01-status-2119383964167409667.md) — unverified / 配布元の独自SAM Licenseと手動承認ゲート、元映像の人物の同意・プライバシーに注意。UI比較映像は精度・一貫性の独立測定ではない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [SHOT OF THE DEAD — ブラウザ3Dプリビズ](links/3d-motion/shotofthedead.com-shot-of-the-dead.md) — unverified / macOS/WindowsのChrome対象。Safari/Firefox非対応、他Chromiumは未検証。最終AI動画は外部モデルで生成する。投稿の12月10日までのPro特典、25ドル割引・コードLOOPYは投稿者の案内で、今回有効性を確認していない。 当方では導入・生成・操作の実行検証をしていない。
 - [Solvaix MEP・Claude間取り図からの設計事例](articles/2026-11-09-https-x.com-taziku_co-status-2119267211206635743.md) — unverified / 件数はSolvaixの自己申告で独立検証なし。建築・設備の法令/構造/安全審査をAIや案数だけで代替できない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [TailorRig](links/3d-motion/xxxx0601.github.io-tailorrig.md) — unverified / SIGGRAPH Asia 2026 の to appear 論文で、プロジェクトページにはアニメーションと3Dビューアのデモしかない。コード・重み・モデルカードは無く、引用元も『Code ボタンは今は何も動かない』と明記している。GitHubリポジトリは見つからない。したがって現時点では再現・実行ができず、数値・品質は論文とデモに依存する。投稿本体は引用RTの感想2行で、著者本人の解説ではない。
 - [facebook/sam-3d-body-dinov3](models/3d-motion/facebook-sam-3d-body-dinov3.md) — unverified / 独自SAM Licenseの条件と人物の権利を確認する。SAM3.1の分割モデルとは別であり、映像全体のモーション品質は単独重みの保証ではない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [白素体とプロンプトの同時変更による3方向比較（記事54）](articles/2026-11-09-https-make-profit.net-2026-11-06-genai-lab-54-blender-mixamo-h3-soft-body-mannequin-three-angles-regenerated.md) — unverified / 著者自身が効果を切り分けられないと明記。脚の細さの効果だけを実証した比較とは扱わない。 当方でインストール・推論・生成・ベンチ再現はしていない。
+- [agent-browser](entries/agent/vercel-labs-agent-browser.md) — unverified / Apache-2.0。要素が隠れている等でクリック失敗する場合がある。更新された画面の古いrefを再利用しない。 実行・品質は未検証。
+- [niubigeo](entries/agent/albert-weasker-niubigeo.md) — unverified / Apache-2.0。ソフト本体と別にモデルAPI・インフラの費用が発生し得る。順位や言及は質問・モデル・時点に依存する。 実行・品質は未検証。
+- [ontosmith](entries/agent/dongbumlee-ontosmith.md) — unverified / MIT。引用が実在しても関係が真とは限らず、出典付き記録は数学的証明ではない。モデル判定や費用を実データで検証する必要がある。 実行・品質は未検証。
+- [Claude Code × Blender：ゲーム向け3D制作手順](articles/agent/2026-11-08-rektwild-blender-game-pipeline.md) — unverified / 投稿内容は作者の手順であり完成品質や実行の再現性は未検証。MCP経由の操作はBlenderの開いたシーンを変更し得るため、保存前の確認とバックアップが必要。
+- [Claude Skills 67選：開発向けスキル紹介](articles/agent/2026-04-17-claude-skills-67.md) — unverified / 67件や生産性向上は記事の主張であり個々の現行配布先や効果を一括検証していない。第三者のスキルは指示と実行スクリプトを読むなど、導入前の安全確認が必要。
+- [Meng To：Claudeでthree.jsの部屋を制作](articles/agent/2026-11-07-meng-to-threejs-room.md) — unverified / 公開された映像は作例であり、再現手順・ソースやアプリ再制作の所要時間は独立検証できていない。ソフトウェア配布物ではない。
 - [anthropics/skills](entries/agent-framework/anthropics-skills.md) — unverified / 原チェックのAPIではlicense未設定。リポジトリ全体と個別技能・素材の条件を一括でApache/MITと断定しない。各条件は利用前に確認する。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [thedotmack/claude-mem](entries/agent-framework/thedotmack-claude-mem.md) — unverified / 保存した会話・コード・機密の保持と削除範囲を確認する。starsランキングは性能試験ではなく、圧縮精度・情報漏洩対策は未実行確認。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [lobehub/lobehub](entries/agent-framework/lobehub-lobehub.md) — unverified / LobeHub Community LicenseはApache-2.0に派生作品配布の商用条件を追加した独自条件。NOASSERTIONを標準OSSライセンスと解釈しない。 当方でインストール・推論・生成・ベンチ再現はしていない。
@@ -962,10 +992,12 @@
 - [Karpathy Guidelines（karpathy-guidelines スキル）](entries/coding-agent/multica-ai-andrej-karpathy-skills.md) — unverified / 効果は未検証：README の定性チェックリスト以外に実測・ベンチマークがなく、効能は著者の主張にとどまる。Karpathy 本人の監修・寄稿はなく、第三者が本人のX投稿（2026-01-26）を4原則に再構成した非公式プロジェクト（旧リビジョンの README には非公式である旨の免責があったが現行 README では削除済み）。ライセンスは LICENSE ファイルがなく API は null（README・SKILL.md・plugin.json は MIT と記載）のため unknown 扱い。2026-04-20 以降コミットがなく stale、open_issues 139 は Issues 無効化（has_issues=false）のため実質 PR。README のインストール手順は forrestchang 名義の URL で、multica-ai へ301リダイレクトする移管前の記述のまま。
 - [Caveman](entries/coding-agent/juliusbrussee-caveman.md) — unverified / 効果数値（入力トークン33.2%減、54%安価、18/18正解、圧縮率など）はリポジトリ自身のベンチマークで自己申告であり、本検証では再実行していない。READMEが引用するAdobe ResearchのarXiv論文とJetBrainsのブログは原典を取得しておらず、第三者検証としては未確認。CLIのインストール・実行も未実施。APIのlicenseはApache-2.0だが、リポジトリにはLICENSE-MITも同梱されており、ファイル単位のライセンス区分は未確認。「Caveman」とロゴは商標。
 - [Agent Skills](entries/coding-agent/addyosmani-agent-skills.md) — unverified / 品質改善の効果はメンテナ自身の trigger/挙動 eval と著者の主張に限られ、独立した第三者ベンチマークは未確認。コードを実行するツールではなく指示文の集合なので、効果はホストのモデルとルーティング精度に依存し、evals/README.md 自身が発火の不安定さ（TDD 系が 6 回中 1 回）を記録している。browser-testing-with-devtools は chrome-devtools MCP と実ブラウザが必須で、--autoConnect ではログイン済みプロファイルに触れるため取り扱いに注意。
+- [herdr](entries/coding-agent/herdrdev-herdr.md) — unverified / Apache-2.0。再起動後は保存レイアウトや対応エージェントのセッションを復元できる場合があるが、プロセス継続とは異なる。 実行・品質は未検証。
 - [claude-code-templates](entries/coding-agent/davila7-claude-code-templates.md) — unverified / Turn Inspector の描画は Claude Code 2.1.287+ の実機では未実行で、リポジトリ同梱の README・hooks 実装・テストファイルと作者のデモ動画に基づく確認。インストールコマンド自体（npx claude-code-templates@latest --mod ui/turn-inspector）は空ディレクトリで実行し、6ファイルが配置されることを実測した。ブロック別トークン数は概算（約4文字/トークン）で、正確なのはリクエスト単位の入出力合計のみ。mod は v0.1.0 と新しく、GitHub Releases は v1.29.7（2026-10-09）で npm の 1.32.2（2026-11-07）より遅れている。
 - [meta/astryx](entries/coding-agent/meta-astryx.md) — unverified / Beta版。社内13000以上のアプリ使用という説明は配布元の申告で、公開APIの安定性や実機アクセシビリティを本調査で検証していない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [fast-jev-compaction](entries/coding-agent/tamaratran-fast-jev-compaction.md) — unverified / 【主張と実体の差分】投稿の主張は概ね実装と一致するが、3点ずれる。(1)「Jev が古いと採点」— 実装は『古さ』を直接採点せず、call_<id>（呼び出しを残すべきか）と result_<id>（結果を逐語で残すべきか）の2つの noul 確率を閾値0.5で切るだけ。年齢や使用済みかどうかの特徴量は入力に明示されない。(2)「何も書き換えない／一字一句そのまま」— 保持された項目は同一オブジェクトで返るが、結果だけ不要と判定された場合は先頭300文字＋注記に切り詰められる（削除ではなく改変）。Jev に送る state も 25k トークンに収めるため段階的に省略される。(3)「npm ライブラリとしても使える」— npm の fast-jev-compaction は latest 0.4.1 を 2026-09-24 に maintainer aleksvega が公開した第三者フォークで、README に『Fork of tamaratran/fast-jev-compaction』と明記され、jev-compact / jev-gate など別 CLI を含む。リポジトリ側 package.json は 0.2.0、plugin.json は 0.3.0 で、このリポジトリのコードがそのまま npm 名で配布されているわけではない。【実績の不自然さ】stars 7,917 / forks 581 / open issues 125 に対し、コミットは全30件が 2026-09-17〜18 の2日間のみ、直近30日は0件、リポジトリは34ファイル・245KB。contributors に devin-ai-integration[bot] が入り、主要コミットは Devin AI 共著。数字の大きさと開発量・更新停止が釣り合わず、star の真正性は未確認（不正と断定はできない）。【有効性】作者による削減率・精度のベンチマークは未公開（issue #160 が benchmarks を求めて起票、回答なし）。第三者の計測（issue #154）は AUC 0.70〜0.83 で順位は安定するが、fitState() の段階で絶対スコアが 0.25〜0.80 に動き、固定閾値0.5だと全保持（実質無効）や過剰削除になりうると報告。issue #65 は『narration は残り根拠が消える』過剰削除を報告。【デモ】投稿の14秒動画を取得しフレームを確認したところ、GitHub の README をスクロールする画面で、API を叩いた実行記録ではなかった。リポジトリ同梱の SwiftUI デモも README に『It never calls the API; it exists to be screen recorded.』と明記され、演出用。【依存・権利】MIT（LICENSE は Copyright (c) 2025）。TypeSafe の有料 API が必須で、無料枠や無償トークンは未確認。Claude Code の function hooks は早期アクセスで仕様変更リスクあり（hooks/README.md 自身が明記）。issue #151 / #153 では Team 組織や SDK・ヘッドレス環境で session.compact が使えない報告があり、環境により動作しない可能性。【未確認】作者自身の効果測定、star の真正性、TypeSafe の無料枠、Claude Code 2.1.274 以外での動作。
 - [ZSeven-W/openpencil](entries/coding-agent/zseven-w-openpencil.md) — unverified / 「普通模式」という機能名は原チェックで裏付けなし。宣伝動画制作に使ったRenoise MCPは外部有料サービスで本体の無料機能ではない。 当方でインストール・推論・生成・ベンチ再現はしていない。
+- [billion-context](entries/coding-agent/ranxianglei-billion-context.md) — unverified / ライセンスはMIT本文に加え、利用者が触れる製品・サービスのページや文書等への目立つ出典表示義務がある独自条件。純粋なMITと同一ではない。性能は作者報告で独立検証していない。 実行・品質は未検証。
 - [obsidianmd/obsidian-sample-plugin](entries/coding-agent/obsidianmd-obsidian-sample-plugin.md) — unverified / 0BSDは雛形の条件で、組み込む他のコードやObsidian本体の条件は別。ビルド・プラグイン起動は未確認。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [pstack-claude](entries/coding-agent/michael-denyer-pstack-claude.md) — unverified / 投稿の media は対象と無関係な日本語ニュース系の転載（静止画は著名人のポートレートで、リポジトリやAIツールの内容を含まない）。動画 mp4 は vision で内容を確認できないため評価に使っていない。effectiveness は README の記述＝作者の主張で、第三者による効果測定は公開されていない。Codex / Copilot / Pi などの対応は各ランタイム向けマッピングと synthetic provider のスモークテストに基づく自己申告で、実モデルの遵守は一部しか確認されていないと docs/reference.md に注記がある。
 - [nanoMuse — 自分のデバイスで動くオープンソースパーソナルエージェント](entries/coding-agent/nano-muse-nanomuse.md) — unverified / Meta Platformsとは無関係の独立コミュニティプロジェクト。MuseはMetaの商標。中国大陸の携帯番号登録が必要な場合がある。デスクトップ版は未公証・未署名。当方未インストール。 当方でインストール・動作・性能の実行検証はしていない。
@@ -1011,9 +1043,11 @@
 - [Fumika — ローカル漫画・画像・LoRA学習スタジオ](entries/image-generation/7err4-fumika.md) — unverified / コードはApache-2.0だがCommons Clause付き（ソフトウェア自体の販売・ホスト有償サービスを制限）。OSIオープンソースではなくソース公開。ComfyUIノードパックはGPL-3.0。モデルは各配布元のライセンスに従う。出力物（ページ/漫画/アセット/LoRA）はFumikaのライセンス対象外。名称・ロゴ・キャラクターはAll rights reserved。当方未インストール。 当方でインストール・動作・性能の実行検証はしていない。
 - [Glada's MOSS Image Workflow v2](articles/image-generation/gladas-moss-image-workflow-v2.md) — unverified / リプライでの紹介のみ。ComfyUIワークフロー。当方で動作検証はしていない。
 - [Juggernaut Moss V1](models/image-generation/juggernaut-moss-v1.md) — unverified / 当方で生成・品質検証はしていない。V1のため手・細部文字・群衆・一部アートスタイルに課題。投稿者のブラインドテスト結果（勝率73%）を記載。
+- [Z-Image-Turbo：低VRAM向けComfyUI制作記事](articles/image-generation/2026-11-09-zzuurn-z-image-low-vram.md) — unverified / 18+ / NSFW。成人向け表現を扱う。VRAM・速度・長時間安定性は記事の主張で、当方では未検証。公式モデルは16GB環境への適合を説明しており、8GB動作は量子化・オフロードや環境に左右される。モデルや追加素材の条件は個別確認。
 - [lucas-martinic/polyfork-catalog](entries/link-asset/lucas-martinic-polyfork-catalog.md) — unverified / LICENSE.mdはindexのみ。各メッシュやmjsを同条件で再配布できない。投稿の2791件は原チェック時3077件より古い。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [idlerunner00/procedural-pixel-creatures](entries/link-asset/idlerunner00-procedural-pixel-creatures.md) — unverified / AI画像を生成するモデルではなく手続き型生成。95%が一プロンプト由来という制作比率は作者推定。原チェック時30日commit0で実機未確認。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Edmond キャラクター三面図（AIペルソナ用ターンアラウンド）](links/link-asset/x.com-edmond-ai.md) — unverified / 【権利】画像の再利用許諾・ライセンスは投稿にも画像にも明記が無く、閲覧はできるが転載・商用利用は許可されていないと解釈するのが妥当。自前キャラで同じレイアウトを再現するための作例として扱い、画像そのものを素材として再配布しない。【文脈】元ポストはpump.funで発行したミームコイン$EDMONDの失敗（ピーク$49.7K→$3.8K）を題材にした分析投稿で、添付画像はそのAIペルソナ「Edmond」の宣材。ポスト内の数値（フォロワー62.8K、再生25.3M、稼得約$15K、出来高$174K等）は投稿者の推計で、TikTok側・オンチェーン側とも一次確認していない（unverified）。画像内のプロフィール表示は62.9K Followers / 2.3M Likesで、ポスト本文の62.8Kとは微妙に食い違う。【未確認】生成元モデル・プロンプト・制作手順（メタデータ無し、動画は単なるキャラ動画で手順説明なし）。【リスク】実在人物風のAIキャラを他者のアカウント群に便乗させて増殖させる手法の一例であり、肖像・商標の模倣にならないよう注意。ミームコインの宣材である点も踏まえ、投資判断の材料にしない。
+- [Mio's Pose Designs Vol. 18](links/link-asset/mio-pose-designs-vol18.md) — unverified / 画像や3Dモデル自体を素材として再配布できる許諾とは限らない。引用元のVol.11は別の投稿。
 - [PLATEAU 5都市GLB 797タイル](links/link-asset/https-huggingface.co-datasets-codepawl-plateau-city-glb.md) — unverified / 原チェックはGLB5686ファイルとCC BY4.0を確認。国交省・自治体の出典と改変明示が必要、公式推奨物ではなく測量用途不可。読み込みは未試験。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Polyfork](links/link-asset/https-polyfork.dev.md) — unverified / メッシュはCC BY4.0またはPolyfork licenceの選択。帰属不要側は再配布不可、mjs/HDは別条件。Pro月15ドル等は原チェック時で現在未確認。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Scenario Blender Animation（scenario-labs）](links/link-asset/typingmind.com-scenario-blender-animation-scenario-labs.md) — unverified / TypingMind 経由での利用はアプリのアカウント（買い切りライセンス）が前提。アプリの具体価格はページに静的表示が無く未確認。ページの stars/forks 表示（970/114）は GitHub API 実測（3535/307）と乖離しており、ページ側のメタ情報は古い。スキルは単体完結せず scenario-blender-expert などを前提とするため、フォルダ単体をコピーすると不足する（未導入時はツールスキーマから進み gap を明示する挙動）。
@@ -1036,6 +1070,7 @@
 - [CompShare（優云智算）](links/link-service/compshare.cn-compshare.md) — unverified / GPU の無料枠・トライアルの有無、本人確認（実名認証）の要否、表示価格の税込/税抜は未確認。対象URLには referral_code と ytag のアフィリエイト用パラメータが付いており、エントリでは正規URL（https://www.compshare.cn/）を使う。コミュニティイメージは作成者が乌兰察布(cn-wlcb-01)の RTX4090 のみで検証済みと明記。210GB のイメージ取得とストレージ課金が別途発生する。
 - [Jasper](links/link-service/https-www.jasper.ai.md) — unverified / 無料紹介URLの不達をサービス全体の不存在とは扱わない。現行価格・無料提供・利用条件は未確認。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Jev（TypeSafe AI）](links/link-service/typesafe.ai-jev-typesafe-ai.md) — unverified / 投稿が掲げる数値（10,000タスクを20秒、9,214件をOpusに渡さない、8レーンで衝突0、41,096行、12.7x fewer Opus calls、Jev費用$0.38）は投稿本文と添付動画の中だけの主張で、一次情報の裏付けがない。添付動画は実アプリの画面ではなく演出されたモックで、同じ動画内でも Jev 費用が $0.25 から $0.38 へ変化し、41,096 行は画面に現れない。Jev 自体（TypeSafe AI の System One モデル、$42/10億入力トークン、HTTP API/SDK/agent skill）は公式サイトとドキュメントで確認できるが、公式は「コーディングエージェントの LLM を置き換えるものではない」と明記しており、投稿の8レーン並列構成の再現手順は公開されていない。無料枠の有無、コンソールの課金開始条件は未確認。
+- [Mako UI](links/link-service/mako-engine-mako-ui.md) — unverified / 現時点で公式はウェイトリストを案内しており、一般提供や料金を確認できない。コンソール版はNDA等の条件あり。実装や性能は未検証。
 - [Tripo AI](links/link-service/tripo3d-ai.md) — unverified / 引用への感想投稿自体には新しい実行検証はない。 今回の動作・推論・生成・性能は未検証。
 - [pump.fun](links/link-service/pump.fun-pump.fun.md) — unverified / 【元ポストの主張と実測の区別】ポストはAI生成の「emo kid」インフルエンサーの顔を使い第三者がコインを3件ローンチしたと述べ、$45Kピーク・$161K出来高・クリエイター手数料0.30%・本人の取り分ゼロ等の数字を挙げる。実測できたのはプラットフォーム側の仕様のみ：(1) ボンディングカーブのクリエイター手数料は公式料金ページで0.300%と確認でき、ポストの0.30%と一致。(2) コイン作成にプラットフォーム手数料はなく、誰でも画像・名前・シンボルを入れて発行できる（作成ページで画像15MB/動画30MB、名前・シンボル・画像は作成後に変更不可と明記）ため、第三者が他人の顔写真でコインを作ることに同意確認の仕組みはない。(3) 一方、$12K収益・297Kフォロワー・52.3M再生・$45Kピーク・$161K出来高・保有者8人等は投稿者の推計／個別コインの値で、こちらでは一次確認していない（unverified）。【未確認】Terms Section 32 の Prohibited Jurisdiction の国別リストは本文が取得上限で切れ、具体的な国名を確認できていない（英国でブロックとの外部報道はあるが一次情報では未確認）。米国等での提供可否、創業者・運営会社の詳細、公式の書き込み系API／オンチェーンSDKの有無も未確認（Developer APIは明示的に読み取り専用で、取引・署名は不可）。https://pump.fun/ 本体はCloudflareのbotチェレンジで平文HTTPには403を返す（ヘッドレスでは描画成功）。【リスク】ミームコインは内在価値がなく投機的で全額損失があり得る（TermsのRISK WARNING、Tokenized Agent Disclaimer）。手数料は予告なく改定されうる。18歳以上・Prohibited Jurisdiction除外・制裁/AMLスクリーニングあり。第三者による肖像・商標の無断利用と、それに対するDMCA/商標ガイドライン上の削除対応が主な法的論点。
 - [treg REA growth](links/link-service/treg.to-treg-rea-growth.md) — unverified / 未確認: 無料クレジット取得にカード登録や本人確認が必要か、verified account の条件、表示価格の税・通貨換算。料金はプロバイダのレート次第で変動し、$0.58 や各レートは 2026-11 時点の掲載値。ショーケース（Lovable の被リンク数・流入推定など）はベンダー自身の実行記録で、第三者の追試はない。当方ではスキルを実行しておらず出力品質は未検証。X 連携は treg の X アプリ経由だと自前キーでも従量課金。GitHub API の license は NOASSERTION だが LICENSE 本文は Apache-2.0。
@@ -1136,6 +1171,7 @@
 - [processing/p5.js](entries/video-gen/processing-p5.js.md) — unverified / LGPL-2.1であり他の一覧項目と同じMITではない。配布・改変条件と入力素材の権利を確認する。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [mojs/mojs](entries/video-gen/mojs-mojs.md) — unverified / MIT表記。紹介リストの費用削減を裏付ける実例試験なし。現行依存・ブラウザ互換も未検証。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [liabru/matter-js](entries/video-gen/liabru-matter-js.md) — unverified / MIT表記。モーションの全自動制作を保証するものではない。数値安定性・性能は用途ごとの検証が必要で本調査未実行。 当方でインストール・推論・生成・ベンチ再現はしていない。
+- [Concat](entries/video-gen/jub0t-concat.md) — unverified / AGPL-3.0。モデルには別ライセンスの可能性がある。オフライン動作や4K出力は当方未検証。 実行・品質は未検証。
 - [maxwellito/vivus](entries/video-gen/maxwellito-vivus.md) — unverified / MIT表記。一覧の制作費代替の主張は独立試験なし。入力SVGの権利とブラウザ表示を別途確認する。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [paperjs/paper.js](entries/video-gen/paperjs-paper.js.md) — unverified / LICENSE.txtでMIT本文を原チェック確認。実行負荷・ブラウザ互換・制作効果は未検証。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [huashu-art-motion](entries/video-gen/alchaincyf-huashu-art-motion.md) — unverified / 投稿の「導入から10分で完成」「Opus 5.5 が作った」は制作者・紹介者の主張で、第三者の計測ではない。README/SKILL.md 内で画風数は「実装済み36種＋研究配方16〜17種（カード計53枚）」と数え方が揺れ、研究配方は作者自身が未検証と明記している。画風の一致度を定量評価した公開ベンチマークはない。
