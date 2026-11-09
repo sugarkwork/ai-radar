@@ -1,5 +1,5 @@
 {
-  "count": 557,
+  "count": 558,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -11024,6 +11024,40 @@
       "type": "repo",
       "path": "entries/other/minglink-dsh-jailbreak-workflow.md",
       "summary": "DeepSeek Harness（DSH）上で動く**ワークフロープラグイン**。画布でフローを設計し、計画プロンプトにコンパイルしてモデル自身に実行させる（分岐・ループ・並列に対応）。"
+    },
+    {
+      "repo": "leepokai/jev-guard",
+      "name": "jev-guard",
+      "genre": "other",
+      "url": "https://github.com/leepokai/jev-guard",
+      "author": "leepokai",
+      "license": "MIT",
+      "stars": 150,
+      "language": "JavaScript",
+      "created": "2026-09-17",
+      "updated": "2026-10-02",
+      "forks": 24,
+      "open_issues": 4,
+      "commits_30d": 0,
+      "commits_90d": 27,
+      "commit_cadence": "monthly",
+      "size_kb": 7549,
+      "archived": false,
+      "last_release": "v0.3.1",
+      "last_release_at": "2026-09-17",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "料金『1,000チェックあたり約4セント』は README の想定（1コール約1kトークン）と Vercel AI Gateway の $0.042/1M input 単価からの試算で、実測の請求額ではない。APIキーは必須（キー未設定時は明示的にエラー）だが、無料枠の有無は一次情報で確認できない。有効性は開発者自身の計測（662スキル走査、ライブAPIでのClaude Code/OpenCode検証）のみで、第三者評価は無い。既定は fail-open（API不達なら許可）で、フックを通らない経路や設定ミスでは回避され得る。README 自身が『guardrail, not a sandbox』と明記している。",
+      "type": "repo",
+      "added": "2026-11-09",
+      "first_seen": "2026-11-09",
+      "sources": [
+        "https://x.com/thegreatest_sv/status/2114326860326723736"
+      ],
+      "fetched_at": "2026-11-09T15:51:04Z",
+      "path": "entries/other/leepokai-jev-guard.md",
+      "summary": "ツール実行前に Jev へ risk / approval / user_requested / from_untrusted の型付き質問を投げ、deny・ask・allow を判定する。判定は src/guard.js の閾値で決まり、risk 2.5 以上で拒否、1.5 以上または承認確率 0.75 以上で承認要"
     },
     {
       "type": "model",
