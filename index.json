@@ -1,5 +1,5 @@
 {
-  "count": 505,
+  "count": 506,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -10495,6 +10495,40 @@
       ],
       "path": "entries/productivity/sp-yduck-overlaysubs.md",
       "summary": "PCで再生中の音声（WASAPIループバック/macOS ScreenCaptureKit）またはマイクをリアルタイムで文字起こし・翻訳し、常に最前面の半透明オーバーレイ字幕として表示。クリックスルー可能。履歴をテキスト/SRTで書き出し。"
+    },
+    {
+      "repo": "VoltAgent/awesome-design-md",
+      "name": "Awesome DESIGN.md",
+      "genre": "prompt-design",
+      "url": "https://github.com/VoltAgent/awesome-design-md",
+      "license": "MIT",
+      "stars": 126184,
+      "language": "",
+      "created": "2026-03-31",
+      "updated": "2026-10-28",
+      "forks": 13960,
+      "open_issues": 311,
+      "commits_30d": 5,
+      "commit_cadence": "weekly",
+      "commits_90d": 8,
+      "size_kb": 2406,
+      "archived": false,
+      "author": "VoltAgent",
+      "last_release": "",
+      "last_release_at": "",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "ブランドの視覚的アイデンティティは各社に帰属し、READMEは「We do not claim ownership of any site's visual identity」と明記する。各DESIGN.mdは第三者による解釈（\"An inspired interpretation of X's design language\"）で公式配色の転載ではなく、実サイトと差異があり得る。84本中10本はYAMLフロントマター無し・11本はDo's and Don'ts節が無く、shadcnスキルが前提とする入力を満たさない。README/CONTRIBUTINGが言及するpreview.html / preview-dark.html はリポジトリに存在しない（プレビューはgetdesign.md側）。UI生成の品質・再現性は未実測で、リポジトリにベンチ・比較は無い。npmの@google/design.mdはlicense表記が無く、lintツールの再配布条件は未確認。skills CLIは既定でテレメトリ送信。",
+      "type": "repo",
+      "added": "2026-11-09",
+      "first_seen": "2026-11-09",
+      "sources": [
+        "https://x.com/sumika45379/status/2113608913451147569"
+      ],
+      "fetched_at": "2026-11-09T03:16:03Z",
+      "path": "entries/prompt-design/voltagent-awesome-design-md.md",
+      "summary": "84製品分のDESIGN.md（Markdownのデザイン仕様書）を design-md/<brand>/DESIGN.md に収録。Stripe / Linear / Vercel / Notion / Figma / Apple / Shopify / Supabase など。"
     },
     {
       "type": "repo",
