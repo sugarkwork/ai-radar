@@ -1,5 +1,5 @@
 {
-  "count": 548,
+  "count": 549,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -4624,6 +4624,35 @@
       ],
       "fetched_at": "2026-11-09T09:25:52Z",
       "path": "articles/2026-09-13-xsmryze-4-1-50.md"
+    },
+    {
+      "name": "6つのAIツールを統合して就寝中に$832稼いだというX投稿（動画付き）",
+      "genre": "article",
+      "url": "https://x.com/Bober_smart/status/2114064355729740136",
+      "published": "2026-10-24",
+      "author": "@Bober_smart",
+      "type": "article",
+      "source_post": "https://x.com/Bober_smart/status/2114064355729740136",
+      "sources": [
+        "https://x.com/Bober_smart/status/2114064355729740136",
+        "https://video.twimg.com/amplify_video/2114064304597078016/vid/avc1/1080x1350/HaNjirb46bcI1i8h.mp4?tag=29",
+        "https://x.com/i/article/2078778232250183680",
+        "https://threadnavigator.com/thread/2078784709253841039/",
+        "https://api.github.com/repos/morluto/rea",
+        "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+        "https://www.anthropic.com/claude-opus-5-5",
+        "https://openai.com/index/introducing-dots",
+        "https://docs.x.ai/grok-bot/overview"
+      ],
+      "first_seen": "2026-10-24",
+      "added": "2026-11-09",
+      "fetched_at": "2026-11-09T13:03:00Z",
+      "flags": [
+        "unverified",
+        "low-quality"
+      ],
+      "risk_notes": "【主張】6つのツール（Opus 5.5 / REA / Jev / Dots / Grok Bot / Obsidian）を統合し、就寝中に配送ドライバー向けの収益管理アプリを自動構築。243登録・31有料×$9=$832、費用はAPI $5.10＋ドメイン$4=$9.10で91倍、$15の上限で$55のドメインを回避した、と投稿は述べる。【確認できた】①投稿の実体（2026-10-24T18:39:54Z、likes 1,087 / views 130,279 / bookmarks 1,579、本文に外部URLは0件）。②動画の実体（HTTP 200、25,805,564 bytes、19.95秒、1080x1350・60fps、カットは3/9/12/18秒の4箇所）。③6ツールの実在：Claude Opus 5.5 は Anthropic が2026-09-22に公開（$4/$20 per MTok）、REA は morluto/rea（MIT、リバースエンジニアリング用MCP）、Jev は TypeSafe AI の System One モデル、Dots は OpenAI の常駐エージェント（2026-09-29）、Grok Bot は xAI の常駐Bot、Obsidian は実在のノートアプリ。【誤り・矛盾】①収益の算数が合わない：31人×$9＝$279で、$832には約92人の有料会員が必要。②著者自身の動画が$832を否定している：全フレームでヘッダーは REVENUE $279 / SIGNUPS 212 / PAID 31 / COST $7.70・36x で、$832はどこにも表示されない。登録者数も243ではなく212、コストも$9.10ではなく$7.70、予算上限も$15ではなく$10、ドメインも$4ではなく$3。③Jevの役割が製品仕様と正反対：Jevは文字列を生成しない意思決定モデルで、コードを書いたり「概念を実行」したりはできない。返信欄でも複数人が同じ点を問いただしている。④REAは「任意の主題を4分で深掘り」する調査ツールではなく、アプリやバイナリのリバースエンジニアリング用MCP。⑤DotsはOpenAIの常駐エージェントで、ChatGPT Pro / Business Premium が前提。「6つを1つのワークフローに織り込む」ツールではない。⑥成果物の証拠が無い：製品名・URL・コード・決済画面が無く、動画にもURLは1つも写らない。最終フレームは「1 live app • 6 lines of glue code」という演出。⑦引用記事は「Claude Second Brain & Folder Workflow: The Complete Guide」（2026-07-19）で、内容はMarkdownフォルダ＋CLAUDE.mdの索引運用。むしろ「Obsidianは不要」と明記しており、Obsidianに1,260 recordsを貯めたという本投稿の主張と噛み合わない。【未確認】アプリの実在、収益・登録・決済の実績、動画が実画面か（演出と判断）、$5.10のAPI費用の内訳、Obsidianの記録件数。返信欄では「31 x $9 = $279, not $832」「Jev writes code now?」「This is AI-generated fiction.」「This didn’t happen」などと批判され、取得できた範囲に著者の反論・説明は無い。本項目は主張の記録としてのみ扱い、実績値や再現手順として引用しないこと。",
+      "path": "articles/2026-10-24-bober_smart-6-ai-832-x.md"
     },
     {
       "name": "AIの出力がバラバラにならなくなる、Pydantic AIの「型で縛る」使い方",
