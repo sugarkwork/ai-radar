@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 534 件 — リポジトリ 315, リンク集 93, 記事 59, モデル 53, プロンプト 14 / ⚑ 要確認 333 件
+収録 535 件 — リポジトリ 315, リンク集 94, 記事 59, モデル 53, プロンプト 14 / ⚑ 要確認 334 件
 
 ## リポジトリ（315）
 
@@ -450,7 +450,7 @@
 - **[MiniMax H3：20種のダンスと音楽指定](prompts/video-gen/minimax-h3-20-dance-music.md)** ⚑  MiniMax H3 / EndFolding79421
   - キャラクターシートを参照し、6秒間の全身ダンスと音楽・環境音を指示するための投稿者のテンプレート。ダンス20種類の音楽指定例を含む。
 
-## リンク集（93）
+## リンク集（94）
 
 ### リンク（作例・インスピレーション）（17）
 
@@ -489,7 +489,7 @@
 - **[uilabs — 動きのあるUI部品集](links/link-inspiration/uilabs.dev.md)** ⚑  uilabs — 動きのあるUI部品集
   - React UIの操作とモーションの実装例を調べる小さな部品集。
 
-### リンク（素材・アイコン・3D）（14）
+### リンク（素材・アイコン・3D）（15）
 
 - **[AI Camera Movements（カメラワーク46種のプロンプト）](links/link-asset/aicameramovements-com.md)**  free / aicameramovements.com
   - AI 動画の「カメラが止まって見える」問題を、動きの名前と定型プロンプトで解決する。動きの違いを並べて比較してから選べる。
@@ -505,6 +505,8 @@
   - PLATEAUの東京23区・大阪・横浜・名古屋・札幌の中心部をGLBへ変換した3D都市素材。
 - **[Polyfork](links/link-asset/https-polyfork.dev.md)** ⚑  @Shoonee27
   - GLBと再構築可能なESモジュールでlow-poly3Dモデルを提供するPolyfork。検索・CLI・キー不要MCPを案内。
+- **[Remotion Agent Skills](links/link-asset/remotion.dev-remotion-agent-skills.md)** ⚑  free / Remotion
+  - Remotion（React コンポーネントを MP4 に書き出す動画フレームワーク）の公式 Agent Skills。Claude Code / Codex / Kimi Code / Cursor などに読み込ませ、動画コードを自己流で書かせず、フレームワークの作法どおりに生成させるために使う。
 - **[Scenario Blender Animation（scenario-labs）](links/link-asset/typingmind.com-scenario-blender-animation-scenario-labs.md)** ⚑  free / scenario-labs（Scenario）
   - Blender で Python 経由のキャラクター／物体アニメを作るとき、エージェントが「再生して目で見る」代わりに数値で判断できるようにするための SKILL.md。バウンシングボール、歩行・走行サイクル、ジャンプ、演技カット、リップシンク、目の動き、ステップドキーでのブロッキング、スプライン化、タイミングと間隔、
 - **[TailSteer-Source](links/link-asset/https-huggingface.co-datasets-lyricccco-tailsteer-source.md)** ⚑  @cutetoxicguy
@@ -1078,6 +1080,7 @@
 - [Mio's Pose Designs Vol. 18](links/link-asset/mio-pose-designs-vol18.md) — unverified / 画像や3Dモデル自体を素材として再配布できる許諾とは限らない。引用元のVol.11は別の投稿。
 - [PLATEAU 5都市GLB 797タイル](links/link-asset/https-huggingface.co-datasets-codepawl-plateau-city-glb.md) — unverified / 原チェックはGLB5686ファイルとCC BY4.0を確認。国交省・自治体の出典と改変明示が必要、公式推奨物ではなく測量用途不可。読み込みは未試験。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Polyfork](links/link-asset/https-polyfork.dev.md) — unverified / メッシュはCC BY4.0またはPolyfork licenceの選択。帰属不要側は再配布不可、mjs/HDは別条件。Pro月15ドル等は原チェック時で現在未確認。 当方でインストール・推論・生成・ベンチ再現はしていない。
+- [Remotion Agent Skills](links/link-asset/remotion.dev-remotion-agent-skills.md) — unverified / 投稿は『Anthropic が動画制作の5段階ワークフローを公開した』と主張するが、Anthropic の Claude Opus 5.5 発表（2026-09-22）に該当する記述はなく、一次情報で確認できない。実際に公式提供されているのは Remotion の Agent Skills で、投稿の手順はそれを Claude Code で使う第三者の再構成とみられる。投稿の『step-by-step breakdown』リンクはログイン必須の X 記事で本文未確認。添付動画は Claude Code 風の時計仕掛けダッシュボードを Remotion で描いた作例で、プロンプトや手順は写っていない。
 - [Scenario Blender Animation（scenario-labs）](links/link-asset/typingmind.com-scenario-blender-animation-scenario-labs.md) — unverified / TypingMind 経由での利用はアプリのアカウント（買い切りライセンス）が前提。アプリの具体価格はページに静的表示が無く未確認。ページの stars/forks 表示（970/114）は GitHub API 実測（3535/307）と乖離しており、ページ側のメタ情報は古い。スキルは単体完結せず scenario-blender-expert などを前提とするため、フォルダ単体をコピーすると不足する（未導入時はツールスキーマから進み gap を明示する挙動）。
 - [TailSteer-Source](links/link-asset/https-huggingface.co-datasets-lyricccco-tailsteer-source.md) — unverified / 元画像と派生データの利用・再配布条件を分けて確認する。モデル重みではなくデータセットであり品質・権利を一括保証しない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [The Bomi Berzina AI Character Shorts Playbook](links/link-asset/bomiberzina.com-the-bomi-berzina-ai-character-shorts-playbook.md) — unverified / 投稿の「10日で$13K」「10.6M再生」「最大5.6M」は投稿者自身の推計であり一次情報で確認していない。今回実測できたのは TikTok プロフィールの 23.6K フォロワー / 539.7K いいね / 13本（2026-11-08時点、レンダリング取得）で、個別動画の再生数は TikTok の WAF とログイン要求で取得できず未確認。Instagram は HTTP 200 だがログインウォールでプロフィールを読めない。価格 $9.99 は販売ページの表示と JSON-LD で確認し、Stripe の live セッションも実際に発行された（303）が、Stripe ページの金額は JS レンダリングで HTML から読めず、決済額そのものは未確認。PDF 本文は有料で、無料公開のプレビューは2ページ分（02, 04）のみ。17ステップのうち確認できたのは 01, 02, 05, 06, 07, 08 の6ステップとプロンプト2本（キャラクターシート用、Genjutsu の Object Swap 用）だけで、残り11ステップと残りのプロンプト本文は未確認。返金は商品ページに30日と明記されているが、リンク先の規約・返金ページ（smashcourses.com）は汎用文面で Bomi 商品を名指ししておらず、連絡先も商品ページは zenithlawassociates@gmail.com、規約ページは service@officeofagents.com で一致しない。手順06は他者のバイラル動画を第三者のダウンローダー（ytshortsdl.com / snaptik / igexport）で保存しキャラクターを差し替えるよう指示しており、著作権と各SNSの規約上のリスクがある。Jean Phil など他者キャラクターの世界観に便乗する手法も権利面で要注意。同一ドメインのルート https://bomiberzina.com は未発行の Solana ミームコイン「$BB」のプレローンチページ（価格 'Soon'、'CA DROPS AT LAUNCH'）で、ブランドがトークン販売と結び付いている点は別種の高リスクとして扱う。

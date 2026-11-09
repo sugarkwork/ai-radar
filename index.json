@@ -1,5 +1,5 @@
 {
-  "count": 534,
+  "count": 535,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -7816,6 +7816,28 @@
       "signup_required": "unknown",
       "path": "links/link-asset/https-polyfork.dev.md",
       "summary": "GLBと再構築可能なESモジュールでlow-poly3Dモデルを提供するPolyfork。検索・CLI・キー不要MCPを案内。"
+    },
+    {
+      "name": "Remotion Agent Skills",
+      "genre": "link-asset",
+      "url": "https://www.remotion.dev/docs/ai/skills",
+      "author": "Remotion",
+      "pricing": "free",
+      "pricing_detail": "スキルは無料。Remotion 本体は個人・従業員3人以下の組織なら商用利用も無料。それを超える営利組織は Company License（Automators: $0.01/レンダー・月$100〜、Creators: $25/月/シート）、Enterprise は月$500〜（2026-11-09 時点）",
+      "signup_required": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "投稿は『Anthropic が動画制作の5段階ワークフローを公開した』と主張するが、Anthropic の Claude Opus 5.5 発表（2026-09-22）に該当する記述はなく、一次情報で確認できない。実際に公式提供されているのは Remotion の Agent Skills で、投稿の手順はそれを Claude Code で使う第三者の再構成とみられる。投稿の『step-by-step breakdown』リンクはログイン必須の X 記事で本文未確認。添付動画は Claude Code 風の時計仕掛けダッシュボードを Remotion で描いた作例で、プロンプトや手順は写っていない。",
+      "type": "link",
+      "added": "2026-11-09",
+      "first_seen": "2026-11-09",
+      "sources": [
+        "https://x.com/Bober_smart/status/2113694502183420368"
+      ],
+      "fetched_at": "2026-11-09T07:06:51Z",
+      "path": "links/link-asset/remotion.dev-remotion-agent-skills.md",
+      "summary": "Remotion（React コンポーネントを MP4 に書き出す動画フレームワーク）の公式 Agent Skills。Claude Code / Codex / Kimi Code / Cursor などに読み込ませ、動画コードを自己流で書かせず、フレームワークの作法どおりに生成させるために使う。"
     },
     {
       "name": "Scenario Blender Animation（scenario-labs）",
