@@ -1,5 +1,5 @@
 {
-  "count": 276,
+  "count": 277,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -2393,6 +2393,28 @@
       "type": "repo",
       "path": "entries/coding-agent/oh-my-mermaid-oh-my-mermaid.md",
       "summary": "AI エージェントにコードベースを読ませ、**アーキテクチャ図**を Mermaid で書かせる。エージェント側では /omm-scan を呼ぶ。"
+    },
+    {
+      "name": "Claude Code コミット前検証スキル verify（テスト→差分レビュー→差し戻し）",
+      "genre": "coding-agent",
+      "url": "https://x.com/sumika45379/status/2112744441161322975",
+      "prompt_sha1": "6df7a29de964f422a7a057e37a2f1dd7b8facf6c",
+      "target": "Claude Code v2.1.286 以降（.claude/skills/verify/SKILL.md に置くプロジェクトスキル）",
+      "transcribed_from": "image",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "同梱の /verify とコミット前実行の仕様は code.claude.com の公式ドキュメントで確認できた。一方、Voxyz_ai が配布する SKILL.md の実ファイル（GitHub / gist）は発見できず、画像は SKILL.md 本文そのものではなく手順を図解したインフォグラフィック。そのため frontmatter や実行コマンドの具体、原文の正確な文言は未確認（unverified）。「OpenAI のレビュー基準」は OpenAI の公式文書ではなく、レビュー観点の通称とみられる。スキルはモデルへの指示であり、実行を強制するものではない。",
+      "type": "prompt",
+      "added": "2026-11-08",
+      "first_seen": "2026-11-08",
+      "sources": [
+        "https://x.com/sumika45379/status/2112744441161322975",
+        "https://pbs.twimg.com/media/HVH535vbsAAOk7r.png"
+      ],
+      "fetched_at": "2026-11-08T14:31:55Z",
+      "path": "prompts/coding-agent/claude-code-verify-6df7a29de9.md",
+      "summary": "コミットの直前に、その変更が「意図しない挙動変化」や「データに消える恐れのある変更」を含んでいないかを Claude 自身に確認させ、危険ならコミットさせずに修正へ戻すためのプロジェクトスキル。テストが通ることと、その差分が妥当であることを別々に確かめる点が要点。"
     },
     {
       "repo": "Tencent/AI-Infra-Guard",

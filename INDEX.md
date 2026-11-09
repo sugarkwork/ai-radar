@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 276 件 — リポジトリ 192, リンク集 39, モデル 20, 記事 15, プロンプト 10 / ⚑ 要確認 62 件
+収録 277 件 — リポジトリ 192, リンク集 39, モデル 20, 記事 15, プロンプト 11 / ⚑ 要確認 63 件
 
 ## リポジトリ（192）
 
@@ -265,7 +265,7 @@
 |---|---:|---:|---|---:|---|---|---|---|
 | [AI-Infra-Guard (A.I.G)](entries/eval/tencent-ai-infra-guard.md) | 7,379 | 735 | 毎日 | 67 | 2026-11-03 | 2026-11-04 | 2026-11-04 | Apache-2.0 |
 
-## プロンプト（10）
+## プロンプト（11）
 
 ### プロンプト（デザイン/UI）（7）
 
@@ -292,6 +292,11 @@
   - Claude Code のトークン消費は、コードを書く量より「不要なファイルを丸ごと読む」「既に決めたことを繰り返す」「役目を終えた文脈を引きずる」ことに消える、という前提に立つ。CLAUDE.md の末尾に6行追記して、読み込み方と応答の仕方を変える。
 - **[モーショントランスファー用プロンプト（Kling Motion Control など）](prompts/prompt-other/kling-motion-control-5d1a7ab60f.md)**  ChatGPT などのテキスト/画像生成LLM、および Kling Motion Control 等の image-to-video
   - Genjutsu 以外の image-to-video motion control ツール（記事は Kling Motion Control を例示）で、参照動画の動きを静止画キャラクターに演じさせるための指示文。
+
+### コーディングエージェント（1）
+
+- **[Claude Code コミット前検証スキル verify（テスト→差分レビュー→差し戻し）](prompts/coding-agent/claude-code-verify-6df7a29de9.md)** ⚑  Claude Code v2.1.286 以降（.claude/skills/verify/SKILL.md に置くプロジェクトスキル）
+  - コミットの直前に、その変更が「意図しない挙動変化」や「データに消える恐れのある変更」を含んでいないかを Claude 自身に確認させ、危険ならコミットさせずに修正へ戻すためのプロジェクトスキル。テストが通ることと、その差分が妥当であることを別々に確かめる点が要点。
 
 ## リンク集（39）
 
@@ -506,6 +511,7 @@
 - [The Johnson brothers — AIキャラを「家族」に増やす成長プレイブック](articles/2026-10-16-y0urdumble-dumble-the-johnson-brothers-ai.md) — unverified, low-quality / 一次情報で確認できなかったこと: 具体的な生成ツール/モデル名（動画・画像に透かしもUIも開示ラベルもない）、プロンプト原文（投稿にもメディアにも存在しない）、フォロワー数・再生数・いいね数の実値（TikTok側は当方の取得で実データを返さず、第三者の集計でも同アカウントは時期により 156K/225.7K と変動）、$21K という収益額（71.6M views × $0.30/1000 の概算で、案件単価や成約の裏付けなし）、「2アカウントが同一運営者」という推断（著者自身が everything points to と推測で書いている）。動画の人物がAI生成だという前提も著者の主張と見た目の印象に留まり、プラットフォーム上の明示的開示は確認できない。誘導先 https://x.com/i/article/2109318233866006528 はログイン必須で本文未確認（同一URLの記事は既に別項目として登録済みのため重複作成しない）。内容は成長施策の助言が中心で、再現手順の技術的検証はできない。
 - [「長くなる一方のSkill」を「短く効くSkill」にする、Matt Pocock式の作り方](articles/2026-10-20-sumika45379-skills-studio-skill-skill-matt-pocock.md) — unverified / 2026-10-10時点「スター28万超」という記事の数字は当時の値を再現できず、2026-11-08実測は318,171（記事の数字は古いスナップショットで、現在は上回る）。種動画の内容は説明欄のチャプター（5段）と公開日まで確認、本編の逐語と図版は未確認。動画側の「22 million+ people use them」は一次確認なし（記事はこの種のインストール数を載せていない）。効果（送り返しの減少）の第三者計測は記事にも当方にも見つからない。記事は本文中2箇所でLINE友だち追加による「Skill10選」配布へ誘導する販促導線を含む。
 - [fast-jev-compaction](entries/coding-agent/tamaratran-fast-jev-compaction.md) — unverified / 【主張と実体の差分】投稿の主張は概ね実装と一致するが、3点ずれる。(1)「Jev が古いと採点」— 実装は『古さ』を直接採点せず、call_<id>（呼び出しを残すべきか）と result_<id>（結果を逐語で残すべきか）の2つの noul 確率を閾値0.5で切るだけ。年齢や使用済みかどうかの特徴量は入力に明示されない。(2)「何も書き換えない／一字一句そのまま」— 保持された項目は同一オブジェクトで返るが、結果だけ不要と判定された場合は先頭300文字＋注記に切り詰められる（削除ではなく改変）。Jev に送る state も 25k トークンに収めるため段階的に省略される。(3)「npm ライブラリとしても使える」— npm の fast-jev-compaction は latest 0.4.1 を 2026-09-24 に maintainer aleksvega が公開した第三者フォークで、README に『Fork of tamaratran/fast-jev-compaction』と明記され、jev-compact / jev-gate など別 CLI を含む。リポジトリ側 package.json は 0.2.0、plugin.json は 0.3.0 で、このリポジトリのコードがそのまま npm 名で配布されているわけではない。【実績の不自然さ】stars 7,917 / forks 581 / open issues 125 に対し、コミットは全30件が 2026-09-17〜18 の2日間のみ、直近30日は0件、リポジトリは34ファイル・245KB。contributors に devin-ai-integration[bot] が入り、主要コミットは Devin AI 共著。数字の大きさと開発量・更新停止が釣り合わず、star の真正性は未確認（不正と断定はできない）。【有効性】作者による削減率・精度のベンチマークは未公開（issue #160 が benchmarks を求めて起票、回答なし）。第三者の計測（issue #154）は AUC 0.70〜0.83 で順位は安定するが、fitState() の段階で絶対スコアが 0.25〜0.80 に動き、固定閾値0.5だと全保持（実質無効）や過剰削除になりうると報告。issue #65 は『narration は残り根拠が消える』過剰削除を報告。【デモ】投稿の14秒動画を取得しフレームを確認したところ、GitHub の README をスクロールする画面で、API を叩いた実行記録ではなかった。リポジトリ同梱の SwiftUI デモも README に『It never calls the API; it exists to be screen recorded.』と明記され、演出用。【依存・権利】MIT（LICENSE は Copyright (c) 2025）。TypeSafe の有料 API が必須で、無料枠や無償トークンは未確認。Claude Code の function hooks は早期アクセスで仕様変更リスクあり（hooks/README.md 自身が明記）。issue #151 / #153 では Team 組織や SDK・ヘッドレス環境で session.compact が使えない報告があり、環境により動作しない可能性。【未確認】作者自身の効果測定、star の真正性、TypeSafe の無料枠、Claude Code 2.1.274 以外での動作。
+- [Claude Code コミット前検証スキル verify（テスト→差分レビュー→差し戻し）](prompts/coding-agent/claude-code-verify-6df7a29de9.md) — unverified / 同梱の /verify とコミット前実行の仕様は code.claude.com の公式ドキュメントで確認できた。一方、Voxyz_ai が配布する SKILL.md の実ファイル（GitHub / gist）は発見できず、画像は SKILL.md 本文そのものではなく手順を図解したインフォグラフィック。そのため frontmatter や実行コマンドの具体、原文の正確な文言は未確認（unverified）。「OpenAI のレビュー基準」は OpenAI の公式文書ではなく、レビュー観点の通称とみられる。スキルはモデルへの指示であり、実行を強制するものではない。
 - [Agent Sprite Forge](entries/image-gen/0x0funky-agent-sprite-forge.md) — unverified / 元ポストは「ゲームエンジンへの取り込みは未確認」と留保するが、README は Godot/Aseprite/Tiled/LDtk 書き出しを検証済みと明記。実機検証は未実施。
 - [MOSS-Image LoRA Archive（Civitai日次スクレイプ）](models/image-gen/mossloras-moss-image-lora-archive.md) — unverified / 18+ / NSFW を含む可能性。CivitaiのMOSS-Image向けLoRAを日次で集めたアーカイブで、モデルカード・ライセンスファイルがない。個々のLoRAの再配布・商用利用の許諾は一括では確認できない。2,330ファイル（うち重み2,283本）・約341GB。DL 0・likes 12で独立検証なし。Civitaiの利用規約と各LoRA作者の条件を確認してから使う。
 - [P-H3の成人向け利用レポート（18+）](articles/2026-11-08-taki_auto-p-h3-adult-report.md) — unverified, low-quality / 18+ / NSFW。成人向けのP-H3利用レポート。本文は露骨な内容を含むため、当エントリでは内容を転載・詳細化しない。投稿はLINE登録と『12大特典』へ誘導する販促色が強く、技術的な検証は示されていない。P-H3-Image自体は既出（models/video-gen/prunaai-p-h3-image.md）。
