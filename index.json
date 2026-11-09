@@ -1,5 +1,5 @@
 {
-  "count": 490,
+  "count": 491,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -237,6 +237,41 @@
       "fetched_at": "2026-11-09T00:31:03.855362+00:00",
       "path": "entries/3d-motion/pixiv-three-vrm.md",
       "summary": "Three.jsのGLTFLoaderへVRMLoaderPluginを登録しVRMを読み込むpixivのライブラリ。"
+    },
+    {
+      "repo": "arjun988/blender-skills",
+      "name": "Blender Skills（94 specialist Blender skills）",
+      "genre": "3d-motion",
+      "url": "https://github.com/arjun988/blender-skills",
+      "author": "arjun988",
+      "license": "MIT",
+      "stars": 2237,
+      "language": "TypeScript",
+      "created": "2026-07-05",
+      "updated": "2026-11-06",
+      "forks": 193,
+      "open_issues": 3,
+      "commits_30d": 1,
+      "commits_90d": 1,
+      "commit_cadence": "monthly",
+      "size_kb": 729,
+      "archived": false,
+      "last_release": "",
+      "last_release_at": "",
+      "homepage": "https://blender-skills.vercel.app",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "効果の定量評価・ベンチマークは無く、README の設計方針と投稿者のデモ動画だけが根拠。README は「Marketplace listing is currently under review by Anthropic」と記載しており、Claude Code プラグインマーケット未登録（GitHub から手動コピー）。30日コミットは1件で開発は低頻度（最終コミット 2026-11-06）。MCP 方式のため投稿が書く `blender -b -P script.py` の完全ヘッドレス実行とは前提が異なり、Blender を起動してアドオンから接続する必要がある。",
+      "type": "repo",
+      "added": "2026-11-09",
+      "first_seen": "2026-11-09",
+      "sources": [
+        "https://x.com/Y0urDumble/status/2113374545302200732"
+      ],
+      "fetched_at": "2026-11-08T20:07:36Z",
+      "path": "entries/3d-motion/arjun988-blender-skills.md",
+      "summary": "Blender 作業のための 94 本の SKILL.md をまとめたパック。モデリング（hard-surface / prop / vehicle / environment / character / creature）、プロダクション（sculpting, retopology, uv-workflow, mat"
     },
     {
       "repo": "VAST-AI-Research/UniRig",
