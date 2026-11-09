@@ -1,5 +1,5 @@
 {
-  "count": 539,
+  "count": 540,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -4702,6 +4702,25 @@
       "fetched_at": "2026-11-08T20:52:35Z",
       "type": "article",
       "path": "articles/2026-10-22-y0urdumble-claude-code-blender-python-6.md"
+    },
+    {
+      "name": "Eddie Woo の対数講義――「何倍になるまでの時間」を1本の対数で読む",
+      "genre": "article",
+      "url": "https://www.youtube.com/watch?v=ntBWrcbAhaY",
+      "published": "2026-09-14",
+      "author": "xsmryze",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "主張: 投資が何倍になるまでの時間は対数1本で、Eddie Woo の5分の講義がそれを自明にする、という投稿。確認できたこと: Eddie Woo はシドニーの公立高校数学教師で、YouTube @misterwootube は登録者2.01M・5,043本・191,145,357回再生（2026-11-09取得）。添付動画は7分51秒の実授業映像で、白板の LOGARITHMS / 2^5=32 / log_2 32=5 / log_3 81=4 と 2,4,8,16,32・3,9,27,81 の説明が Woo の「Introduction to Logarithms (1 of 2: Definition)」（7:52, 2017-08-30）の内容と一致。数学も正しい（log_3 81=4、倍加時間 ln2/ln(1+r)、Rule of 72 は近似）。未確認: 引用元X記事（x.com/i/article/2087190920026365952）の本文はログイン要求で取得できず、fetch_article.py も失敗。動画の音声は未転記で、投稿の「5分で」は実際の7分51秒と一致しない。Rule of 72 は近似であり、実務では変動リターン・手数料・税金で変わる点は投稿に無い。",
+      "type": "article",
+      "added": "2026-11-09",
+      "first_seen": "2026-11-09",
+      "sources": [
+        "https://x.com/xsmryze/status/2099540913714299009"
+      ],
+      "fetched_at": "2026-11-09T09:32:39Z",
+      "path": "articles/2026-09-14-xsmryze-eddie-woo-1-589eee2ad8.md"
     },
     {
       "type": "article",
