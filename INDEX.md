@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 531 件 — リポジトリ 313, リンク集 92, 記事 59, モデル 53, プロンプト 14 / ⚑ 要確認 330 件
+収録 532 件 — リポジトリ 314, リンク集 92, 記事 59, モデル 53, プロンプト 14 / ⚑ 要確認 331 件
 
-## リポジトリ（313）
+## リポジトリ（314）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -371,6 +371,15 @@
 | [Graphicle（コードグラフと記憶を1つのMCPサーバでエージェントに渡すRust製ツール）](entries/mcp-server/graphicle-ai-graphicle.md) | 510 | 36 | 毎日 | 84 | 2026-11-05 | 2026-11-06 | 2026-11-06 | Apache-2.0 |
 | [pagesift](entries/mcp-server/yolow92-pagesift.md) ⚑ | 245 | 32 | 毎日 | 100+ | 2026-11-06 | 2026-11-06 | 2026-11-07 | AGPL-3.0 |
 
+### 評価・ベンチマーク（4）
+
+| 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
+|---|---:|---:|---|---:|---|---|---|---|
+| [garak (Generative AI Red-teaming and Assessment Kit)](entries/eval/nvidia-garak.md) ⚑ | 9,957 | 1,456 | 毎日 | 92 | 2026-11-06 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
+| [AI-Infra-Guard (A.I.G)](entries/eval/tencent-ai-infra-guard.md) | 7,379 | 735 | 毎日 | 67 | 2026-11-03 | 2026-11-04 | 2026-11-04 | Apache-2.0 |
+| [Goochbeater/Spiritual-Spell-Red-Teaming](entries/eval/goochbeater-spiritual-spell-red-teaming.md) ⚑ | 4,716 | 823 | 毎日 | 34 | 2026-11-08 | 2026-11-09 | 2026-11-09 | unknown |
+| [kodasdream/gamefeel-benchmark](entries/eval/kodasdream-gamefeel-benchmark.md) ⚑ | 8 | 0 | 週次 | 16 | 2026-11-08 | 2026-11-09 | 2026-11-09 | unknown |
+
 ### agent（3）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
@@ -378,14 +387,6 @@
 | [agent-browser](entries/agent/vercel-labs-agent-browser.md) ⚑ | 47,766 | 3,268 | 毎日 | — | 2026-11-08 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
 | [niubigeo](entries/agent/albert-weasker-niubigeo.md) ⚑ | 10,146 | 818 | 週次 | 12 | 2026-11-03 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
 | [ontosmith](entries/agent/dongbumlee-ontosmith.md) ⚑ | 223 | 23 | 毎日 | — | 2026-11-08 | 2026-11-09 | 2026-11-09 | MIT |
-
-### 評価・ベンチマーク（3）
-
-| 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
-|---|---:|---:|---|---:|---|---|---|---|
-| [AI-Infra-Guard (A.I.G)](entries/eval/tencent-ai-infra-guard.md) | 7,379 | 735 | 毎日 | 67 | 2026-11-03 | 2026-11-04 | 2026-11-04 | Apache-2.0 |
-| [Goochbeater/Spiritual-Spell-Red-Teaming](entries/eval/goochbeater-spiritual-spell-red-teaming.md) ⚑ | 4,716 | 823 | 毎日 | 34 | 2026-11-08 | 2026-11-09 | 2026-11-09 | unknown |
-| [kodasdream/gamefeel-benchmark](entries/eval/kodasdream-gamefeel-benchmark.md) ⚑ | 8 | 0 | 週次 | 16 | 2026-11-08 | 2026-11-09 | 2026-11-09 | unknown |
 
 ### リンク（素材・アイコン・3D）（2）
 
@@ -1032,6 +1033,7 @@
 - [Claude Code サブエージェントを1ファイルで定義し、報告を短く縛る](articles/2026-10-22-0xbobaaa-sumika45379-claude-code-1.md) — unverified, dead-link / 元ポスト（@0xbobaaa, https://x.com/0xbobaaa/status/2107892817292939588）は 2026-11-08 時点で HTTP 404、Wayback のスナップショットもなく、原文の定義ファイルと実測値は確認できない。「3体で合計32万7千トークン」「親に戻ったのは報告3本」は紹介投稿による要約で、独立した検証はない。「返事は5行まで」の縛りが出力をどれだけ減らすかも未測定。一方、定義ファイルの書式・別コンテキストでの実行・利用上限への計上は公式ドキュメントで確認済み。候補に添付されていた画像（HWWvkhaa4AAPVqD.jpg）は stageshow スキルの紹介画像で本件とは無関係。
 - [Jev Skill Typeahead](links/coding-agent/aitmpl.com-jev-skill-typeahead.md) — unverified / 投稿の「確率つきで出る」は半分正確。停止後に出る『Jev decided』行の % はバックエンド(Jev)が返す probability だが、入力中に即時表示される % は名前・説明と下書きの語の重なり（IDF 重み付き被覆率。policy.ts では 100*raw/total/1.6 を丸めた値）であって確率ではない。builtin プロバイダでは確率が返らず「—」表示になる。予測精度の実測値・ベンチマークは README になく、効果は著者の主張のみ。README 自身が「ライブのタイピング経路はエンジンの型を読んで確認しただけで、セッションに打ち込んでは検証していない」と明記している。Jev キーを設定すると下書き本文と全候補の名前・説明が停止ごとに外部(api.typesafe.ai 等)へ送信されるため、機密プロンプトでは keywords か builtin を選ぶ必要がある。Claude Code 2.1.287 以降が必須。
 - [Turn Inspector](links/coding-agent/aitmpl.com-turn-inspector.md) — unverified / 確認できたこと: aitmpl.com の製品ページ（HTTP 200）に仕様・オプション・導入コマンド・バージョン要件が記載され、配布リポジトリの README と一致する。デモ動画を取得してフレームを確認し、右側ペインに「Context window 58.5k / 1.0M 6%」と system / earlier / new / output の内訳バー、#1 answer 54.1k / #2 1x Read 54.2k / #3 answer 58.5k のようなターン行が実際に映っていることを目視確認した。未確認のこと: トークン削減などの効果数値は存在せず、著者の「重くなった原因を勘で探さずに済む」という主張のみ。Claude Desktop のサイドパネル表示とバージョン範囲（2.1.287+ で既定有効、2.1.259〜2.1.286 は環境変数が必要）はドキュメント記述のみで、当環境では実機検証していない。本 Mod は表示・観測専用でコンテキストを減らす機能はない。
+- [garak (Generative AI Red-teaming and Assessment Kit)](entries/eval/nvidia-garak.md) — unverified / 検出精度・誤検知率の定量値は一次情報に記載がなく未検証。判定はキーワードまたは分類器ベースの検出器に依存し、スコアは正規化されていないためプローブ間の比較はできない。プローブの網羅性は保証されず、ペネトレーションテストの代替にはならない。実行は許可された対象に限る。
 - [Goochbeater/Spiritual-Spell-Red-Teaming](entries/eval/goochbeater-spiritual-spell-red-teaming.md) — unverified, prompt-injection / 脱獄・社会工学・安全制約回避を含む。指示の実行、危険なプロンプトや露骨な本文の転載は行わない。抽出物の真正性と利用権も未確認。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [kodasdream/gamefeel-benchmark](entries/eval/kodasdream-gamefeel-benchmark.md) — unverified / 実タスクの全公開・再現性は未確認。27B平均の訂正告知とCSVに差異があり、表の一つの数字を確定順位と扱わない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Add-and-Preserve benchmark dataset](links/eval/https-huggingface.co-datasets-lyricccco-add-and-preserve.md) — unverified / 保持領域のPSNR/SSIM/LPIPSと指示追従の評価は別。データの権利と評価実装・プロトコルは未追試。 当方でインストール・推論・生成・ベンチ再現はしていない。

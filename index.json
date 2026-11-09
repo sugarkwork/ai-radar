@@ -1,5 +1,5 @@
 {
-  "count": 531,
+  "count": 532,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -5582,6 +5582,39 @@
       "fetched_at": "2026-11-08T18:31:27Z",
       "path": "links/coding-agent/aitmpl.com-turn-inspector.md",
       "summary": "Claude Code のセッションで、モデルへのリクエスト（ターン）ごとにコンテキストウィンドウが何にどれだけ使われたかを横ペインで可視化する。"
+    },
+    {
+      "repo": "NVIDIA/garak",
+      "name": "garak (Generative AI Red-teaming and Assessment Kit)",
+      "genre": "eval",
+      "url": "https://github.com/NVIDIA/garak",
+      "license": "Apache-2.0",
+      "stars": 9957,
+      "language": "Python",
+      "created": "2023-05-10",
+      "updated": "2026-11-06",
+      "added": "2026-11-09",
+      "first_seen": "2026-11-09",
+      "sources": [
+        "https://x.com/wquguru/status/2113181135522214168"
+      ],
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "検出精度・誤検知率の定量値は一次情報に記載がなく未検証。判定はキーワードまたは分類器ベースの検出器に依存し、スコアは正規化されていないためプローブ間の比較はできない。プローブの網羅性は保証されず、ペネトレーションテストの代替にはならない。実行は許可された対象に限る。",
+      "forks": 1456,
+      "open_issues": 562,
+      "size_kb": 16934,
+      "archived": false,
+      "commits_30d": 92,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "last_release": "v0.17.1",
+      "last_release_at": "2026-10-16",
+      "fetched_at": "2026-11-09T05:54:59Z",
+      "type": "repo",
+      "path": "entries/eval/nvidia-garak.md",
+      "summary": "LLM を対象に、ハルシネーション、データ漏洩、プロンプトインジェクション、誤情報、有害出力、ジェイルブレイクなどの弱点をプローブ（検査プロンプト群）で試し、検出器の判定と失敗率をレポートする CLI。"
     },
     {
       "repo": "Tencent/AI-Infra-Guard",
