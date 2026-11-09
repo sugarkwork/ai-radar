@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 470 件 — リポジトリ 283, リンク集 75, 記事 49, モデル 52, プロンプト 11 / ⚑ 要確認 272 件
+収録 471 件 — リポジトリ 284, リンク集 75, 記事 49, モデル 52, プロンプト 11 / ⚑ 要確認 273 件
 
-## リポジトリ（283）
+## リポジトリ（284）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -251,6 +251,25 @@
 | [serenity-stock-choke](entries/finance-quant/fadewalk-serenity-stock-choke.md) | 508 | 56 | 週次 | 4 | 2026-10-06 | 2026-11-05 | 2026-11-07 | MIT |
 | [A-Share Quant Selector](entries/finance-quant/dzy-hw-xd-a-share-quant-selector.md) | 506 | 107 | 停滞 | 0 | 2026-09-08 | 2026-11-05 | 2026-11-07 | MIT |
 
+### コーディングエージェント（14）
+
+| 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
+|---|---:|---:|---|---:|---|---|---|---|
+| [Karpathy Guidelines（karpathy-guidelines スキル）](entries/coding-agent/multica-ai-andrej-karpathy-skills.md) ⚑ | 230,810 | 22,965 | 停滞 | 0 | 2026-04-20 | 2026-11-08 | 2026-11-09 | unknown |
+| [Caveman](entries/coding-agent/juliusbrussee-caveman.md) ⚑ | 118,293 | 6,883 | 毎日 | 100+ | 2026-11-08 | 2026-11-08 | 2026-11-09 | Apache-2.0 |
+| [Agent Skills](entries/coding-agent/addyosmani-agent-skills.md) ⚑ | 114,034 | 11,915 | 毎日 | 100+ | 2026-11-01 | 2026-11-08 | 2026-11-09 | MIT |
+| [CodeGraph](entries/coding-agent/colbymchenry-codegraph.md) | 76,377 | 5,078 | 毎日 | 100+ | 2026-11-01 | 2026-11-03 | 2026-11-03 | MIT |
+| [jcode](entries/coding-agent/1jehuang-jcode.md) | 21,484 | 2,506 | 毎日 | 100+ | 2026-11-04 | 2026-11-04 | 2026-11-04 | MIT |
+| [Craft Anything](entries/coding-agent/storytold-craft-anything.md) | 17,885 | 3,282 | 毎日 | 100+ | 2026-11-06 | 2026-11-06 | 2026-11-06 | Apache-2.0 |
+| [meta/astryx](entries/coding-agent/meta-astryx.md) ⚑ | 16,728 | 1,321 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | MIT |
+| [fast-jev-compaction](entries/coding-agent/tamaratran-fast-jev-compaction.md) ⚑ | 7,917 | 581 | 月次 | 0 | 2026-09-18 | 2026-11-08 | 2026-11-09 | MIT |
+| [ZSeven-W/openpencil](entries/coding-agent/zseven-w-openpencil.md) ⚑ | 7,154 | 622 | 毎日 | 100+ | 2026-11-08 | 2026-11-09 | 2026-11-09 | MIT |
+| [obsidianmd/obsidian-sample-plugin](entries/coding-agent/obsidianmd-obsidian-sample-plugin.md) ⚑ | 4,654 | 1,808 | 停滞 | 0 | 2026-08-02 | 2026-11-09 | 2026-11-09 | 0BSD |
+| [pstack-claude](entries/coding-agent/michael-denyer-pstack-claude.md) ⚑ | 4,144 | 377 | 毎日 | 100+ | 2026-11-07 | 2026-11-08 | 2026-11-09 | MIT |
+| [oh-my-mermaid（omm）](entries/coding-agent/oh-my-mermaid-oh-my-mermaid.md) | 3,380 | 267 | 停滞 | 0 | 2026-04-07 | 2026-11-05 | 2026-11-05 | MIT |
+| [ppmpreetham/BUI](entries/coding-agent/ppmpreetham-bui.md) ⚑ | 2,223 | 84 | 毎日 | 100+ | 2026-11-08 | 2026-11-09 | 2026-11-09 | GPL-3.0 |
+| [reacher-z/Awesome-REA](entries/coding-agent/reacher-z-awesome-rea.md) ⚑ | 2,112 | 391 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | MIT |
+
 ### その他（14）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
@@ -269,24 +288,6 @@
 | [Motion Video Kit](entries/other/echris6-motion-video-kit.md) ⚑ | 1,366 | 121 | 月次 | 1 | 2026-10-14 | 2026-11-07 | 2026-11-07 | MIT |
 | [WeVisOne-VL](entries/other/tencent-wevisone-vl.md) | 676 | 56 | 月次 | 3 | 2026-10-25 | 2026-11-03 | 2026-11-03 | Apache-2.0（Tencent 著作部分） |
 | [DSH 破甲ワークフロー（dsh-jailbreak-workflow）](entries/other/minglink-dsh-jailbreak-workflow.md) ⚑ | 581 | 206 | 週次 | 17 | 2026-11-04 | 2026-11-04 | 2026-11-04 | 未確認（API は NOASSERTION、標準ライセンスファイル無し） |
-
-### コーディングエージェント（13）
-
-| 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
-|---|---:|---:|---|---:|---|---|---|---|
-| [Karpathy Guidelines（karpathy-guidelines スキル）](entries/coding-agent/multica-ai-andrej-karpathy-skills.md) ⚑ | 230,810 | 22,965 | 停滞 | 0 | 2026-04-20 | 2026-11-08 | 2026-11-09 | unknown |
-| [Caveman](entries/coding-agent/juliusbrussee-caveman.md) ⚑ | 118,293 | 6,883 | 毎日 | 100+ | 2026-11-08 | 2026-11-08 | 2026-11-09 | Apache-2.0 |
-| [Agent Skills](entries/coding-agent/addyosmani-agent-skills.md) ⚑ | 114,034 | 11,915 | 毎日 | 100+ | 2026-11-01 | 2026-11-08 | 2026-11-09 | MIT |
-| [CodeGraph](entries/coding-agent/colbymchenry-codegraph.md) | 76,377 | 5,078 | 毎日 | 100+ | 2026-11-01 | 2026-11-03 | 2026-11-03 | MIT |
-| [jcode](entries/coding-agent/1jehuang-jcode.md) | 21,484 | 2,506 | 毎日 | 100+ | 2026-11-04 | 2026-11-04 | 2026-11-04 | MIT |
-| [Craft Anything](entries/coding-agent/storytold-craft-anything.md) | 17,885 | 3,282 | 毎日 | 100+ | 2026-11-06 | 2026-11-06 | 2026-11-06 | Apache-2.0 |
-| [meta/astryx](entries/coding-agent/meta-astryx.md) ⚑ | 16,728 | 1,321 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | MIT |
-| [fast-jev-compaction](entries/coding-agent/tamaratran-fast-jev-compaction.md) ⚑ | 7,917 | 581 | 月次 | 0 | 2026-09-18 | 2026-11-08 | 2026-11-09 | MIT |
-| [ZSeven-W/openpencil](entries/coding-agent/zseven-w-openpencil.md) ⚑ | 7,154 | 622 | 毎日 | 100+ | 2026-11-08 | 2026-11-09 | 2026-11-09 | MIT |
-| [obsidianmd/obsidian-sample-plugin](entries/coding-agent/obsidianmd-obsidian-sample-plugin.md) ⚑ | 4,654 | 1,808 | 停滞 | 0 | 2026-08-02 | 2026-11-09 | 2026-11-09 | 0BSD |
-| [oh-my-mermaid（omm）](entries/coding-agent/oh-my-mermaid-oh-my-mermaid.md) | 3,380 | 267 | 停滞 | 0 | 2026-04-07 | 2026-11-05 | 2026-11-05 | MIT |
-| [ppmpreetham/BUI](entries/coding-agent/ppmpreetham-bui.md) ⚑ | 2,223 | 84 | 毎日 | 100+ | 2026-11-08 | 2026-11-09 | 2026-11-09 | GPL-3.0 |
-| [reacher-z/Awesome-REA](entries/coding-agent/reacher-z-awesome-rea.md) ⚑ | 2,112 | 391 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | MIT |
 
 ### 画像生成・編集（13）
 
@@ -886,6 +887,7 @@
 - [fast-jev-compaction](entries/coding-agent/tamaratran-fast-jev-compaction.md) — unverified / 【主張と実体の差分】投稿の主張は概ね実装と一致するが、3点ずれる。(1)「Jev が古いと採点」— 実装は『古さ』を直接採点せず、call_<id>（呼び出しを残すべきか）と result_<id>（結果を逐語で残すべきか）の2つの noul 確率を閾値0.5で切るだけ。年齢や使用済みかどうかの特徴量は入力に明示されない。(2)「何も書き換えない／一字一句そのまま」— 保持された項目は同一オブジェクトで返るが、結果だけ不要と判定された場合は先頭300文字＋注記に切り詰められる（削除ではなく改変）。Jev に送る state も 25k トークンに収めるため段階的に省略される。(3)「npm ライブラリとしても使える」— npm の fast-jev-compaction は latest 0.4.1 を 2026-09-24 に maintainer aleksvega が公開した第三者フォークで、README に『Fork of tamaratran/fast-jev-compaction』と明記され、jev-compact / jev-gate など別 CLI を含む。リポジトリ側 package.json は 0.2.0、plugin.json は 0.3.0 で、このリポジトリのコードがそのまま npm 名で配布されているわけではない。【実績の不自然さ】stars 7,917 / forks 581 / open issues 125 に対し、コミットは全30件が 2026-09-17〜18 の2日間のみ、直近30日は0件、リポジトリは34ファイル・245KB。contributors に devin-ai-integration[bot] が入り、主要コミットは Devin AI 共著。数字の大きさと開発量・更新停止が釣り合わず、star の真正性は未確認（不正と断定はできない）。【有効性】作者による削減率・精度のベンチマークは未公開（issue #160 が benchmarks を求めて起票、回答なし）。第三者の計測（issue #154）は AUC 0.70〜0.83 で順位は安定するが、fitState() の段階で絶対スコアが 0.25〜0.80 に動き、固定閾値0.5だと全保持（実質無効）や過剰削除になりうると報告。issue #65 は『narration は残り根拠が消える』過剰削除を報告。【デモ】投稿の14秒動画を取得しフレームを確認したところ、GitHub の README をスクロールする画面で、API を叩いた実行記録ではなかった。リポジトリ同梱の SwiftUI デモも README に『It never calls the API; it exists to be screen recorded.』と明記され、演出用。【依存・権利】MIT（LICENSE は Copyright (c) 2025）。TypeSafe の有料 API が必須で、無料枠や無償トークンは未確認。Claude Code の function hooks は早期アクセスで仕様変更リスクあり（hooks/README.md 自身が明記）。issue #151 / #153 では Team 組織や SDK・ヘッドレス環境で session.compact が使えない報告があり、環境により動作しない可能性。【未確認】作者自身の効果測定、star の真正性、TypeSafe の無料枠、Claude Code 2.1.274 以外での動作。
 - [ZSeven-W/openpencil](entries/coding-agent/zseven-w-openpencil.md) — unverified / 「普通模式」という機能名は原チェックで裏付けなし。宣伝動画制作に使ったRenoise MCPは外部有料サービスで本体の無料機能ではない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [obsidianmd/obsidian-sample-plugin](entries/coding-agent/obsidianmd-obsidian-sample-plugin.md) — unverified / 0BSDは雛形の条件で、組み込む他のコードやObsidian本体の条件は別。ビルド・プラグイン起動は未確認。 当方でインストール・推論・生成・ベンチ再現はしていない。
+- [pstack-claude](entries/coding-agent/michael-denyer-pstack-claude.md) — unverified / 投稿の media は対象と無関係な日本語ニュース系の転載（静止画は著名人のポートレートで、リポジトリやAIツールの内容を含まない）。動画 mp4 は vision で内容を確認できないため評価に使っていない。effectiveness は README の記述＝作者の主張で、第三者による効果測定は公開されていない。Codex / Copilot / Pi などの対応は各ランタイム向けマッピングと synthetic provider のスモークテストに基づく自己申告で、実モデルの遵守は一部しか確認されていないと docs/reference.md に注記がある。
 - [ppmpreetham/BUI](entries/coding-agent/ppmpreetham-bui.md) — unverified / 即時モードではなく一つのノードツリーを保持する方式。IME・スクリーンリーダー未対応。GPL-3.0-or-laterで組込み配布の条件に注意。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [reacher-z/Awesome-REA](entries/coding-agent/reacher-z-awesome-rea.md) — unverified / indexed repos3309は自動収集で未レビュー。数の多さや公開索引を各項目の安全性・有用性の保証としない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [ApiiroによるClaude Code settings.local.json資格情報漏洩調査](articles/2026-11-09-https-x.com-yoppy0123-status-2119219945179603110.md) — unverified / global gitignore追加だけでは既追跡や後からrepo化したケースを守れない。漏洩時は履歴削除だけでなくまず鍵を失効・ローテーション。実資格情報は転載しない。 当方でインストール・推論・生成・ベンチ再現はしていない。

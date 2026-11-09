@@ -1,5 +1,5 @@
 {
-  "count": 470,
+  "count": 471,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -4522,6 +4522,39 @@
       "fetched_at": "2026-11-09T00:31:11.185839+00:00",
       "path": "entries/coding-agent/obsidianmd-obsidian-sample-plugin.md",
       "summary": "Obsidian公式のプラグイン開発雛形。"
+    },
+    {
+      "repo": "michael-denyer/pstack-claude",
+      "name": "pstack-claude",
+      "genre": "coding-agent",
+      "url": "https://github.com/michael-denyer/pstack-claude",
+      "license": "MIT",
+      "stars": 4144,
+      "language": "JavaScript",
+      "created": "2026-05-26",
+      "updated": "2026-11-07",
+      "forks": 377,
+      "open_issues": 10,
+      "commits_30d": 100,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "size_kb": 5955,
+      "archived": false,
+      "last_release": "v0.9.133",
+      "last_release_at": "2026-11-07",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "投稿の media は対象と無関係な日本語ニュース系の転載（静止画は著名人のポートレートで、リポジトリやAIツールの内容を含まない）。動画 mp4 は vision で内容を確認できないため評価に使っていない。effectiveness は README の記述＝作者の主張で、第三者による効果測定は公開されていない。Codex / Copilot / Pi などの対応は各ランタイム向けマッピングと synthetic provider のスモークテストに基づく自己申告で、実モデルの遵守は一部しか確認されていないと docs/reference.md に注記がある。",
+      "type": "repo",
+      "added": "2026-11-09",
+      "first_seen": "2026-11-09",
+      "sources": [
+        "https://x.com/opensourcelab9/status/2112876589075841167"
+      ],
+      "fetched_at": "2026-11-08T15:50:08Z",
+      "path": "entries/coding-agent/michael-denyer-pstack-claude.md",
+      "summary": "入口は poteto-mode というスキル。依頼を渡すとタスク種別に応じた playbook を選び、バグ修正では「失敗の再現 → how / why で原因調査 → 修正の委任 → 失敗ケースの再実行」まで進める。返るのは修正と、失敗していた時・通った時の両方の証拠（README の Getting started"
     },
     {
       "repo": "oh-my-mermaid/oh-my-mermaid",
