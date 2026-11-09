@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 530 件 — リポジトリ 312, リンク集 92, 記事 59, モデル 53, プロンプト 14 / ⚑ 要確認 329 件
+収録 531 件 — リポジトリ 313, リンク集 92, 記事 59, モデル 53, プロンプト 14 / ⚑ 要確認 330 件
 
-## リポジトリ（312）
+## リポジトリ（313）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -359,10 +359,11 @@
 | [better-readme](entries/prompt-design/tommy0103-better-readme-skill.md) ⚑ | 31 | 1 | 停滞 | 0 | 2026-10-08 | 2026-11-08 | 2026-11-09 | MIT |
 | [GUntilB/Anima-Prompt-Generator](entries/prompt-design/guntilb-anima-prompt-generator.md) ⚑ | 12 | 1 | 月次 | 3 | 2026-11-08 | 2026-11-09 | 2026-11-09 | GPL-3.0 |
 
-### MCPサーバー（6）
+### MCPサーバー（7）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
+| [REA](entries/mcp-server/morluto-rea.md) ⚑ | 444,457 | 109,755 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | MIT |
 | [Scrapling](entries/mcp-server/d4vinci-scrapling.md) | 98,814 | 10,351 | 毎日 | 100+ | 2026-11-06 | 2026-11-06 | 2026-11-06 | BSD-3-Clause |
 | [treg（REA growth スキル同梱のエージェント用ツールレジストリ）](entries/mcp-server/superdesigndev-treg.md) | 7,255 | 654 | 毎日 | 100+ | 2026-11-06 | 2026-11-06 | 2026-11-06 | Apache-2.0 + 追加条項（GitHub API は NOASSERTION） |
 | [World Intelligence MCP](entries/mcp-server/marc-shade-world-intel-mcp.md) | 1,063 | 177 | 毎日 | 100+ | 2026-10-18 | 2026-11-04 | 2026-11-04 | MIT |
@@ -1096,6 +1097,7 @@
 - [pump.fun](links/link-service/pump.fun-pump.fun.md) — unverified / 【元ポストの主張と実測の区別】ポストはAI生成の「emo kid」インフルエンサーの顔を使い第三者がコインを3件ローンチしたと述べ、$45Kピーク・$161K出来高・クリエイター手数料0.30%・本人の取り分ゼロ等の数字を挙げる。実測できたのはプラットフォーム側の仕様のみ：(1) ボンディングカーブのクリエイター手数料は公式料金ページで0.300%と確認でき、ポストの0.30%と一致。(2) コイン作成にプラットフォーム手数料はなく、誰でも画像・名前・シンボルを入れて発行できる（作成ページで画像15MB/動画30MB、名前・シンボル・画像は作成後に変更不可と明記）ため、第三者が他人の顔写真でコインを作ることに同意確認の仕組みはない。(3) 一方、$12K収益・297Kフォロワー・52.3M再生・$45Kピーク・$161K出来高・保有者8人等は投稿者の推計／個別コインの値で、こちらでは一次確認していない（unverified）。【未確認】Terms Section 32 の Prohibited Jurisdiction の国別リストは本文が取得上限で切れ、具体的な国名を確認できていない（英国でブロックとの外部報道はあるが一次情報では未確認）。米国等での提供可否、創業者・運営会社の詳細、公式の書き込み系API／オンチェーンSDKの有無も未確認（Developer APIは明示的に読み取り専用で、取引・署名は不可）。https://pump.fun/ 本体はCloudflareのbotチェレンジで平文HTTPには403を返す（ヘッドレスでは描画成功）。【リスク】ミームコインは内在価値がなく投機的で全額損失があり得る（TermsのRISK WARNING、Tokenized Agent Disclaimer）。手数料は予告なく改定されうる。18歳以上・Prohibited Jurisdiction除外・制裁/AMLスクリーニングあり。第三者による肖像・商標の無断利用と、それに対するDMCA/商標ガイドライン上の削除対応が主な法的論点。
 - [treg REA growth](links/link-service/treg.to-treg-rea-growth.md) — unverified / 未確認: 無料クレジット取得にカード登録や本人確認が必要か、verified account の条件、表示価格の税・通貨換算。料金はプロバイダのレート次第で変動し、$0.58 や各レートは 2026-11 時点の掲載値。ショーケース（Lovable の被リンク数・流入推定など）はベンダー自身の実行記録で、第三者の追試はない。当方ではスキルを実行しておらず出力品質は未検証。X 連携は treg の X アプリ経由だと自前キーでも従量課金。GitHub API の license は NOASSERTION だが LICENSE 本文は Apache-2.0。
 - [「違法っぽいけど合法」30サイトまとめの検証メモ](articles/2026-11-07-hey_jessicaai-30-websites-list.md) — low-quality, unverified, dead-link / 投稿は30件のURL＋一行説明を並べた集客リストで、著者自身の利用報告・検証・スクリーンショットが無い。30件すべて未登録だったが、中身はKrea/Magnific/ElevenLabs/Suno/Runway/Cursor/Perplexity/Claudeなど既知の商用クローズドSaaSで、再現可能な配布物が無い。リンク切れ2件（Phind、Jasper）。説明と実体の不一致2件（SoundCloudは音楽配信で『AI music tagging』ではない、SadTalkerのリンクは商用サイトでOSS本体ではない）。Raphael AIは本文の raphael.ai が接続不能で、公式は raphael.app。料金・無料枠は2026-11-08時点の各社ページで一部を実測したが、変更が早い。
+- [REA](entries/mcp-server/morluto-rea.md) — unverified / GitHub API の数値と README/手順書の記述は 2026-11-09 時点で確認済み。未検証なのは (1) Ghidra/Hopper を実際に起動した動作確認、(2) README showcase の再構成数値（3,205 ケース等）で、効果は著者側の主張にとどまる。Hopper は商用（デモは制限付き）、Windows の Ghidra 対応は実験的 P0 で読み取り専用。
 - [pagesift](entries/mcp-server/yolow92-pagesift.md) — unverified / AGPL-3.0 のため、改変してネットワーク越しに提供する場合はソース開示義務。プロプライエタリ製品への組み込みは別途商用ライセンス。README のベンチマーク数値（2.4ms/ページ、20.49倍、32MB 等）はすべて著者自身の計測で第三者検証なし＝カタログの事実としては採用せず flag 扱い。リポジトリは 2026-10-20 作成で履歴が浅く、v1.1.3 は検証当日リリース。pip 版 CLI のサブコマンドは mcp/scrape/convert のみで、README が示す crawl/extract/doctor やローカル PDF/Office の直接パースは cargo ビルド版の機能（pip 版 scrape は http(s) のみ受け付け、ローカルファイルは convert で HTML のみ）。
 - [60fps.design MCP](links/mcp-server/https-60fps.design-mcp.md) — unverified / 月29ドル/四半期69ドル・1席は原チェック時。PROプランにMCPは含まれない。SwiftUIのコンパイル確認は提供側の説明で本調査では未実行。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Strata](entries/model-serving/niko1221-strata.md) — unverified / Mac31%・Linuxほぼ3倍等はリリースノートで同じ条件の根拠がない箇所がある。control vectorは特定Qwen向け実験で既定off。 今回の動作・推論・生成・性能は未検証。
