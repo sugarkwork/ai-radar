@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 533 件 — リポジトリ 315, リンク集 92, 記事 59, モデル 53, プロンプト 14 / ⚑ 要確認 332 件
+収録 534 件 — リポジトリ 315, リンク集 93, 記事 59, モデル 53, プロンプト 14 / ⚑ 要確認 333 件
 
 ## リポジトリ（315）
 
@@ -450,7 +450,7 @@
 - **[MiniMax H3：20種のダンスと音楽指定](prompts/video-gen/minimax-h3-20-dance-music.md)** ⚑  MiniMax H3 / EndFolding79421
   - キャラクターシートを参照し、6秒間の全身ダンスと音楽・環境音を指示するための投稿者のテンプレート。ダンス20種類の音楽指定例を含む。
 
-## リンク集（92）
+## リンク集（93）
 
 ### リンク（作例・インスピレーション）（17）
 
@@ -520,7 +520,7 @@
 - **[背景ガチャ（九龍城砦セット＋パース補助線）](links/link-asset/tools.oyasumi-gamedev.com-haikeigacha.md)** ⚑  free / おやすみゲーム開発部（MIYADAIKU）
   - 漫画・イラストの背景を、ブラウザ上で部品を組み合わせて作る無料ツール。3Dモデリングなしで、部屋・建物・街並みのラフを作る。
 
-### リンク（サービス・ツール）（13）
+### リンク（サービス・ツール）（14）
 
 - **[Aura](links/link-service/aura.build-aura.md)** ⚑  freemium / DESIGNCODE IO PTE. LTD.（Meng To / DesignCode）
   - テキストプロンプトからランディングページやマルチページのウェブサイトを生成し、ブラウザ上で視覚編集して公開・書き出しまで完結させるサービス。公式は「AI landing page builder that creates stunning designs in seconds」と説明している。
@@ -528,6 +528,8 @@
   - テキストから UI を生成する AI デザインツール。プロンプトを「編集可能な UI デザイン」に変えることを狙う。ポストの説明（turn prompts into editable UI designs）と一致する。
 - **[CompShare（優云智算）](links/link-service/compshare.cn-compshare.md)** ⚑  paid / UCloud（优刻得科技）
   - UCloud（优刻得）系の GPU クラウド。AI の学習・推論・画像生成用に GPU インスタンスを時間・日・月単位で借りる。
+- **[Grok Bot](links/link-service/docs.x.ai-grok-bot.md)** ⚑  paid / xAI
+  - xAI の常駐型 AI チーム。名前を付けた Bot がクラウド上の実コンピュータ（ブラウザ・ファイルシステム・ターミナル）を共有し、指示した仕事を継続して実行する。
 - **[Jasper](links/link-service/https-www.jasper.ai.md)** ⚑  @hey_Jessicaai
   - 文章作成・マーケティング支援サービスとして一覧に記載されたJasper。
 - **[Jev（TypeSafe AI）](links/link-service/typesafe.ai-jev-typesafe-ai.md)** ⚑  paid / TypeSafe AI
@@ -1094,6 +1096,7 @@
 - [uilabs — 動きのあるUI部品集](links/link-inspiration/uilabs.dev.md) — unverified / 投稿の12部品という総数は今回独立に数えていない。コードをプロジェクトに組み込む前に各部品の配布・利用条件を確認する。 当方では導入・生成・操作の実行検証をしていない。
 - [Aura](links/link-service/aura.build-aura.md) — unverified / 未確認: (1) MCPのツール一覧・レート制限・1操作あたりのプロンプト消費量は、Auraアカウントなしではtools/listを取得できず未確認（未認証は401のみ確認）。(2) 公開REST API/CLIの有無は公式文書で確認できず、api.aura.build はサイトと同じHTMLを返すだけ。(3) テンプレート/コンポーネント/アセット数はページ間で記述が食い違う（料金ページFAQ: 5,000+テンプレート・2,800+コンポーネント・30,000+アセット、learn/introduction: 1000+テンプレート・1400+コンポーネント・20,000+アセット）ため数値は採用しない。(4) 月払い価格は料金ページのプラン設定（配信JSバンドル）から取得し、年払い額はページ表示のプロモ価格。年払い50%オフは期間限定表示で終了時期は不明。(5) MCPエンドポイントは初回probeで401を確認したが、再試行時に25秒タイムアウトした（一時的な可能性）。生成品質・出力の再現性は実生成していないため未評価。
 - [CompShare（優云智算）](links/link-service/compshare.cn-compshare.md) — unverified / GPU の無料枠・トライアルの有無、本人確認（実名認証）の要否、表示価格の税込/税抜は未確認。対象URLには referral_code と ytag のアフィリエイト用パラメータが付いており、エントリでは正規URL（https://www.compshare.cn/）を使う。コミュニティイメージは作成者が乌兰察布(cn-wlcb-01)の RTX4090 のみで検証済みと明記。210GB のイメージ取得とストレージ課金が別途発生する。
+- [Grok Bot](links/link-service/docs.x.ai-grok-bot.md) — unverified / 投稿の収益主張（3か月で$315回収、Elon Musk の27Mビュー投稿の実践など）は一次情報で確認できない。同じ文面を複数アカウントが微妙に数値を変えて使い回しており（$315/$217 等）、収益誘導のテンプレートとみられる。投稿の『step-by-step breakdown』リンクはログイン必須の X 記事で本文未確認。grokbot.sh は同名の別ブログで、現在はドメイン売却ページになっており本製品とは無関係。製品仕様・料金は公式ドキュメントと料金ページで確認済み。
 - [Jasper](links/link-service/https-www.jasper.ai.md) — unverified / 無料紹介URLの不達をサービス全体の不存在とは扱わない。現行価格・無料提供・利用条件は未確認。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Jev（TypeSafe AI）](links/link-service/typesafe.ai-jev-typesafe-ai.md) — unverified / 投稿が掲げる数値（10,000タスクを20秒、9,214件をOpusに渡さない、8レーンで衝突0、41,096行、12.7x fewer Opus calls、Jev費用$0.38）は投稿本文と添付動画の中だけの主張で、一次情報の裏付けがない。添付動画は実アプリの画面ではなく演出されたモックで、同じ動画内でも Jev 費用が $0.25 から $0.38 へ変化し、41,096 行は画面に現れない。Jev 自体（TypeSafe AI の System One モデル、$42/10億入力トークン、HTTP API/SDK/agent skill）は公式サイトとドキュメントで確認できるが、公式は「コーディングエージェントの LLM を置き換えるものではない」と明記しており、投稿の8レーン並列構成の再現手順は公開されていない。無料枠の有無、コンソールの課金開始条件は未確認。
 - [Mako UI](links/link-service/mako-engine-mako-ui.md) — unverified / 現時点で公式はウェイトリストを案内しており、一般提供や料金を確認できない。コンソール版はNDA等の条件あり。実装や性能は未検証。

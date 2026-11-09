@@ -1,5 +1,5 @@
 {
-  "count": 533,
+  "count": 534,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -8430,6 +8430,28 @@
       "fetched_at": "2026-11-06T21:06:07Z",
       "path": "links/link-service/compshare.cn-compshare.md",
       "summary": "UCloud（优刻得）系の GPU クラウド。AI の学習・推論・画像生成用に GPU インスタンスを時間・日・月単位で借りる。"
+    },
+    {
+      "name": "Grok Bot",
+      "genre": "link-service",
+      "url": "https://docs.x.ai/grok-bot/overview",
+      "author": "xAI",
+      "pricing": "paid",
+      "pricing_detail": "X Subscription（Cursor）の Premium $30/月・Super $100/月・Ultra $200/月に含まれる。Teams は $30+/ユーザー/月。Free $0 と Plus $8/月 は対象外。SuperGrok / SuperGrok Plus / SuperGrok Heavy / X Premium+ のリンク、Grok Business のシートでも利用可（2026-11-09 時点）",
+      "signup_required": true,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "投稿の収益主張（3か月で$315回収、Elon Musk の27Mビュー投稿の実践など）は一次情報で確認できない。同じ文面を複数アカウントが微妙に数値を変えて使い回しており（$315/$217 等）、収益誘導のテンプレートとみられる。投稿の『step-by-step breakdown』リンクはログイン必須の X 記事で本文未確認。grokbot.sh は同名の別ブログで、現在はドメイン売却ページになっており本製品とは無関係。製品仕様・料金は公式ドキュメントと料金ページで確認済み。",
+      "type": "link",
+      "added": "2026-11-09",
+      "first_seen": "2026-11-09",
+      "sources": [
+        "https://x.com/Bober_smart/status/2113623439906841022"
+      ],
+      "fetched_at": "2026-11-09T07:03:56Z",
+      "path": "links/link-service/docs.x.ai-grok-bot.md",
+      "summary": "xAI の常駐型 AI チーム。名前を付けた Bot がクラウド上の実コンピュータ（ブラウザ・ファイルシステム・ターミナル）を共有し、指示した仕事を継続して実行する。"
     },
     {
       "type": "link",
