@@ -1,5 +1,5 @@
 {
-  "count": 552,
+  "count": 553,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -8140,6 +8140,28 @@
       "signup_required": "unknown",
       "path": "links/link-asset/https-huggingface.co-datasets-codepawl-plateau-city-glb.md",
       "summary": "PLATEAUの東京23区・大阪・横浜・名古屋・札幌の中心部をGLBへ変換した3D都市素材。"
+    },
+    {
+      "name": "Poly Haven",
+      "genre": "link-asset",
+      "url": "https://polyhaven.com/",
+      "author": "Poly Haven",
+      "pricing": "free",
+      "pricing_detail": "全アセット（HDRI/テクスチャ/3Dモデル）が CC0 で無料。商用利用可、クレジット不要、再配布可。Patreon は任意。API も無料・キー不要。",
+      "signup_required": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "CC0・無料・アカウント不要は公式ライセンスページで確認。『luxury = 90% lighting』は投稿者の意見で、動画内のレンダーが Poly Haven のどの HDRI/テクスチャを使ったかはクレジットもファイル名もなく特定できない。公開 JSON API は 200 を確認したが、アセットごとの解像度・ファイルサイズ・レート制限は公式ページの表示範囲では未確認。投稿の $1,500–5,000 や 15秒/4ショット/3フォーマットの納品実績は未検証。",
+      "type": "link",
+      "added": "2026-11-09",
+      "first_seen": "2026-11-09",
+      "sources": [
+        "https://x.com/Y0urDumble/status/2114084322227503206"
+      ],
+      "fetched_at": "2026-11-09T13:18:50Z",
+      "path": "links/link-asset/polyhaven.com-poly-haven.md",
+      "summary": "投稿の LIGHT 工程。スタジオ HDRI と PBR テクスチャを Blender に取り込み、ガラス/液体/金の反射と照明を作るための素材ライブラリ。実行ツールではなく参照・素材。"
     },
     {
       "type": "link",

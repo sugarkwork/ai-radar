@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 552 件 — リポジトリ 317, リンク集 101, 記事 67, モデル 53, プロンプト 14 / ⚑ 要確認 349 件
+収録 553 件 — リポジトリ 317, リンク集 102, 記事 67, モデル 53, プロンプト 14 / ⚑ 要確認 350 件
 
 ## リポジトリ（317）
 
@@ -452,7 +452,7 @@
 - **[MiniMax H3：20種のダンスと音楽指定](prompts/video-gen/minimax-h3-20-dance-music.md)** ⚑  MiniMax H3 / EndFolding79421
   - キャラクターシートを参照し、6秒間の全身ダンスと音楽・環境音を指示するための投稿者のテンプレート。ダンス20種類の音楽指定例を含む。
 
-## リンク集（101）
+## リンク集（102）
 
 ### リンク（作例・インスピレーション）（18）
 
@@ -493,7 +493,7 @@
 - **[uilabs — 動きのあるUI部品集](links/link-inspiration/uilabs.dev.md)** ⚑  uilabs — 動きのあるUI部品集
   - React UIの操作とモーションの実装例を調べる小さな部品集。
 
-### リンク（素材・アイコン・3D）（15）
+### リンク（素材・アイコン・3D）（16）
 
 - **[AI Camera Movements（カメラワーク46種のプロンプト）](links/link-asset/aicameramovements-com.md)**  free / aicameramovements.com
   - AI 動画の「カメラが止まって見える」問題を、動きの名前と定型プロンプトで解決する。動きの違いを並べて比較してから選べる。
@@ -507,6 +507,8 @@
   - 椅子に座る人体ポーズ9種の視覚的な参考資料。
 - **[PLATEAU 5都市GLB 797タイル](links/link-asset/https-huggingface.co-datasets-codepawl-plateau-city-glb.md)** ⚑  @bei351009016
   - PLATEAUの東京23区・大阪・横浜・名古屋・札幌の中心部をGLBへ変換した3D都市素材。
+- **[Poly Haven](links/link-asset/polyhaven.com-poly-haven.md)** ⚑  free / Poly Haven
+  - 投稿の LIGHT 工程。スタジオ HDRI と PBR テクスチャを Blender に取り込み、ガラス/液体/金の反射と照明を作るための素材ライブラリ。実行ツールではなく参照・素材。
 - **[Polyfork](links/link-asset/https-polyfork.dev.md)** ⚑  @Shoonee27
   - GLBと再構築可能なESモジュールでlow-poly3Dモデルを提供するPolyfork。検索・CLI・キー不要MCPを案内。
 - **[Remotion Agent Skills](links/link-asset/remotion.dev-remotion-agent-skills.md)** ⚑  free / Remotion
@@ -1116,6 +1118,7 @@
 - [Edmond キャラクター三面図（AIペルソナ用ターンアラウンド）](links/link-asset/x.com-edmond-ai.md) — unverified / 【権利】画像の再利用許諾・ライセンスは投稿にも画像にも明記が無く、閲覧はできるが転載・商用利用は許可されていないと解釈するのが妥当。自前キャラで同じレイアウトを再現するための作例として扱い、画像そのものを素材として再配布しない。【文脈】元ポストはpump.funで発行したミームコイン$EDMONDの失敗（ピーク$49.7K→$3.8K）を題材にした分析投稿で、添付画像はそのAIペルソナ「Edmond」の宣材。ポスト内の数値（フォロワー62.8K、再生25.3M、稼得約$15K、出来高$174K等）は投稿者の推計で、TikTok側・オンチェーン側とも一次確認していない（unverified）。画像内のプロフィール表示は62.9K Followers / 2.3M Likesで、ポスト本文の62.8Kとは微妙に食い違う。【未確認】生成元モデル・プロンプト・制作手順（メタデータ無し、動画は単なるキャラ動画で手順説明なし）。【リスク】実在人物風のAIキャラを他者のアカウント群に便乗させて増殖させる手法の一例であり、肖像・商標の模倣にならないよう注意。ミームコインの宣材である点も踏まえ、投資判断の材料にしない。
 - [Mio's Pose Designs Vol. 18](links/link-asset/mio-pose-designs-vol18.md) — unverified / 画像や3Dモデル自体を素材として再配布できる許諾とは限らない。引用元のVol.11は別の投稿。
 - [PLATEAU 5都市GLB 797タイル](links/link-asset/https-huggingface.co-datasets-codepawl-plateau-city-glb.md) — unverified / 原チェックはGLB5686ファイルとCC BY4.0を確認。国交省・自治体の出典と改変明示が必要、公式推奨物ではなく測量用途不可。読み込みは未試験。 当方でインストール・推論・生成・ベンチ再現はしていない。
+- [Poly Haven](links/link-asset/polyhaven.com-poly-haven.md) — unverified / CC0・無料・アカウント不要は公式ライセンスページで確認。『luxury = 90% lighting』は投稿者の意見で、動画内のレンダーが Poly Haven のどの HDRI/テクスチャを使ったかはクレジットもファイル名もなく特定できない。公開 JSON API は 200 を確認したが、アセットごとの解像度・ファイルサイズ・レート制限は公式ページの表示範囲では未確認。投稿の $1,500–5,000 や 15秒/4ショット/3フォーマットの納品実績は未検証。
 - [Polyfork](links/link-asset/https-polyfork.dev.md) — unverified / メッシュはCC BY4.0またはPolyfork licenceの選択。帰属不要側は再配布不可、mjs/HDは別条件。Pro月15ドル等は原チェック時で現在未確認。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Remotion Agent Skills](links/link-asset/remotion.dev-remotion-agent-skills.md) — unverified / 投稿は『Anthropic が動画制作の5段階ワークフローを公開した』と主張するが、Anthropic の Claude Opus 5.5 発表（2026-09-22）に該当する記述はなく、一次情報で確認できない。実際に公式提供されているのは Remotion の Agent Skills で、投稿の手順はそれを Claude Code で使う第三者の再構成とみられる。投稿の『step-by-step breakdown』リンクはログイン必須の X 記事で本文未確認。添付動画は Claude Code 風の時計仕掛けダッシュボードを Remotion で描いた作例で、プロンプトや手順は写っていない。
 - [Scenario Blender Animation（scenario-labs）](links/link-asset/typingmind.com-scenario-blender-animation-scenario-labs.md) — unverified / TypingMind 経由での利用はアプリのアカウント（買い切りライセンス）が前提。アプリの具体価格はページに静的表示が無く未確認。ページの stars/forks 表示（970/114）は GitHub API 実測（3535/307）と乖離しており、ページ側のメタ情報は古い。スキルは単体完結せず scenario-blender-expert などを前提とするため、フォルダ単体をコピーすると不足する（未導入時はツールスキーマから進み gap を明示する挙動）。
