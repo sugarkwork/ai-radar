@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 492 件 — リポジトリ 291, リンク集 87, 記事 51, モデル 52, プロンプト 11 / ⚑ 要確認 293 件
+収録 493 件 — リポジトリ 291, リンク集 88, 記事 51, モデル 52, プロンプト 11 / ⚑ 要確認 294 件
 
 ## リポジトリ（291）
 
@@ -402,12 +402,14 @@
 - **[Claude Code コミット前検証スキル verify（テスト→差分レビュー→差し戻し）](prompts/coding-agent/claude-code-verify-6df7a29de9.md)** ⚑  Claude Code v2.1.286 以降（.claude/skills/verify/SKILL.md に置くプロジェクトスキル）
   - コミットの直前に、その変更が「意図しない挙動変化」や「データに消える恐れのある変更」を含んでいないかを Claude 自身に確認させ、危険ならコミットさせずに修正へ戻すためのプロジェクトスキル。テストが通ることと、その差分が妥当であることを別々に確かめる点が要点。
 
-## リンク集（87）
+## リンク集（88）
 
-### リンク（作例・インスピレーション）（16）
+### リンク（作例・インスピレーション）（17）
 
 - **[BestAIBuilder](links/link-inspiration/bestaibuilder-website.md)**  free / BestAIBuilder
   - AI サイトビルダーを横並びで比較するためのランキングサイト。「同じブリーフで全ツールにサイトを作らせ、craft / speed / control / value で採点した」という前提を掲げ、101ツールを順位付けしている。
+- **[Claude Code に Blender のシーンをコードで書かせて voxel キャラを踊らせる手順（投稿）](links/link-inspiration/x.com-claude-code-blender-voxel.md)** ⚑  free / @Y0urDumble (Dumble)
+  - AI インフルエンサー生成で問題になる「顔のドリフト」を、3D モデル（ファイルとして固定される資産）に置き換えて回避する。投稿者は、Blender の UI を一切開かず、Claude Code に Python を書かせて headless 実行させ、voxel キャラのモデリング→リグ→ダンスまで通したと主張して
 - **[Design Details — Webデザイン参考ライブラリ](links/link-inspiration/designdetails.io.md)** ⚑  Design Details — Webデザイン参考ライブラリ
   - 実在サイトの全体構成・動き・フォント・配色をまとめて調べる。
 - **[Design Spells](links/link-inspiration/designspells.com.md)** ⚑  Design Spells
@@ -977,6 +979,7 @@
 - [The Bomi Berzina AI Character Shorts Playbook](links/link-asset/bomiberzina.com-the-bomi-berzina-ai-character-shorts-playbook.md) — unverified / 投稿の「10日で$13K」「10.6M再生」「最大5.6M」は投稿者自身の推計であり一次情報で確認していない。今回実測できたのは TikTok プロフィールの 23.6K フォロワー / 539.7K いいね / 13本（2026-11-08時点、レンダリング取得）で、個別動画の再生数は TikTok の WAF とログイン要求で取得できず未確認。Instagram は HTTP 200 だがログインウォールでプロフィールを読めない。価格 $9.99 は販売ページの表示と JSON-LD で確認し、Stripe の live セッションも実際に発行された（303）が、Stripe ページの金額は JS レンダリングで HTML から読めず、決済額そのものは未確認。PDF 本文は有料で、無料公開のプレビューは2ページ分（02, 04）のみ。17ステップのうち確認できたのは 01, 02, 05, 06, 07, 08 の6ステップとプロンプト2本（キャラクターシート用、Genjutsu の Object Swap 用）だけで、残り11ステップと残りのプロンプト本文は未確認。返金は商品ページに30日と明記されているが、リンク先の規約・返金ページ（smashcourses.com）は汎用文面で Bomi 商品を名指ししておらず、連絡先も商品ページは zenithlawassociates@gmail.com、規約ページは service@officeofagents.com で一致しない。手順06は他者のバイラル動画を第三者のダウンローダー（ytshortsdl.com / snaptik / igexport）で保存しキャラクターを差し替えるよう指示しており、著作権と各SNSの規約上のリスクがある。Jean Phil など他者キャラクターの世界観に便乗する手法も権利面で要注意。同一ドメインのルート https://bomiberzina.com は未発行の Solana ミームコイン「$BB」のプレローンチページ（価格 'Soon'、'CA DROPS AT LAUNCH'）で、ブランドがトークン販売と結び付いている点は別種の高リスクとして扱う。
 - [useAnimations — 動くアイコン300点](links/link-asset/useanimations.com.md) — unverified / 素材を再配布する場合はMITの著作権・許諾表示を保持する。サイトへのクレジットは任意だがライセンス表示義務とは別。全アイコンの表示やSSR動作は当方未試験。 当方では導入・生成・操作の実行検証をしていない。
 - [背景ガチャ（九龍城砦セット＋パース補助線）](links/link-asset/tools.oyasumi-gamedev.com-haikeigacha.md) — unverified / AIツールではなく、家具900以上をプログラムで組み合わせる手続き型の背景ジェネレータ（公式の仕組み解説に明記）。開発時のAI利用はClaude Codeのみ。部屋150種類以上に住宅・学校・洋館・中世の城・教会・九龍城砦のセットを追加。パース補助線は書き出しの『下絵（なぞる用）』でアイレベル線・パース補助線・消失点を別レイヤーに分離し、PSDはパースフォルダ内の各レイヤー、SVGは別ファイル、vp.txtに座標を出力する。ブラウザ完結・外部送信なし。β版で、版が上がると同seedでも部屋の作りが変わり得る。書き出し品質・PSDレイヤー構成は未確認（ブラウザツールのため実行検証は未実施）。
+- [Claude Code に Blender のシーンをコードで書かせて voxel キャラを踊らせる手順（投稿）](links/link-inspiration/x.com-claude-code-blender-voxel.md) — unverified / 投稿内の `blender -b -P https://t.co/ueDlwhvcq2` のリンク先 scene.py は DNS 解決不可（HTTP 000、Wayback スナップショットも 0 件）で、投稿が想定したスクリプト／記事の実体を確認できない。X の引用元は Article 2109318233866006528 でログイン必須のため本文未取得。「Opus 5.5 が無料で1000倍良い」は投稿者の主張で、比較測定は無い。動画は 3D ビューポートそのものではなく UI オーバーレイ付きの演出済みデモ（ログ表示は擬似 UI）であり、719 voxels / 12 joints / 16 秒 / 120bpm は投稿者と動画の自己申告値。実際の再現には Blender 5.2 系と Claude Code、上記2スキルが必要。
 - [Design Details — Webデザイン参考ライブラリ](links/link-inspiration/designdetails.io.md) — unverified / 投稿の業界17分類という件数は今回は全分類を数えていない。AIへの参考利用と元サイトの素材・ブランドの複製許可は別。 当方では導入・生成・操作の実行検証をしていない。
 - [Design Spells](links/link-inspiration/designspells.com.md) — unverified / 通番は今回確認した表示であり、全件の重複排除済み件数ではない。収録製品の映像やUIを自由転載できる意味ではない。 当方では導入・生成・操作の実行検証をしていない。
 - [Detail — UIの小さな設計判断集](links/link-inspiration/detail.design.md) — unverified / 見た目だけでなく操作性・アクセシビリティの参考資料。公開閲覧可能であることは無条件の転載許諾を意味しない。 当方では導入・生成・操作の実行検証をしていない。
