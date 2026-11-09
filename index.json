@@ -1,5 +1,5 @@
 {
-  "count": 550,
+  "count": 551,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -5717,6 +5717,28 @@
       "risk_notes": "global gitignore追加だけでは既追跡や後からrepo化したケースを守れない。漏洩時は履歴削除だけでなくまず鍵を失効・ローテーション。実資格情報は転載しない。 当方でインストール・推論・生成・ベンチ再現はしていない。",
       "published": "2026-11-08",
       "path": "articles/2026-11-09-https-x.com-yoppy0123-status-2119219945179603110.md"
+    },
+    {
+      "name": "Claude Code",
+      "genre": "coding-agent",
+      "url": "https://claude.com/product/claude-code",
+      "author": "Anthropic",
+      "pricing": "paid",
+      "pricing_detail": "Free では利用不可。Pro $20/月（年払い $17/月、$200 一括）、Max $100/月（Pro の5倍）、Ultra $200/月（週10倍、verified は5時間制限なし）。Team は席単位で公開ページに単価表示なし、Enterprise は $20/席/月 + API 従量（年払い）。Console はトークン従量で Opus 5.5 が $4/$20 per MTok、fast mode は $8/$40。税別・2026-11-09 時点。",
+      "signup_required": true,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "Claude Code は汎用コーディングエージェントで、CGI/動画専用の機能はない。投稿のスタックではブリーフ→ショットリスト/カメラワークの文章生成と、MCP 経由の Blender 操作指示を担うが、モデリング・ライティング・レンダーは Blender、編集は HyperFrames/FFmpeg 側。『全部 Claude Code がやる』は不正確。投稿の15秒動画は 1440x1800（4:5）・30fps・15.03秒の1フォーマットで、画面内に『INVOICE · EXAMPLE』『ILLUSTRATIVE BUILD LOG』『FICTIONAL BRAND · RENDERED IN BLENDER』と明記された UI モックアップ。請求例はアニメーションで増える『EXAMPLE』で、終盤は $300 + $600 + $400 + $400 + $300 = $2,000。実在の請求ではなく、$1,500–5,000 の市場価格は未検証。DELIVERY GATE は 0/6 から終盤 6/6 になるが、それは UI のチェックで、実ファイルは 4:5 の1フォーマットのみ。16:9/9:16/1:1 の実ファイルは確認できない。『4 shots』は UI のショットリスト、『3 formats』は UI 表示で、納品物の実体は未確認。`/cgi-ad-studio` の配布物（skill/リポジトリ/プロンプト）へのリンクは投稿になく、.blend も生成スクリプトも公開されていない。引用 X 記事はログイン要求で本文未確認。15秒・4カメラ・3フォーマットの納品実績は未検証。『no 3D artist / no studio』は投稿の主張、『one operator』は UI のコピーで、実際の制作体制は確認できない。返信の supervoid_si も『ブランドはレンダーではなく光・カメラ・ビートの判断に払う』と指摘している。",
+      "type": "link",
+      "added": "2026-11-09",
+      "first_seen": "2026-11-09",
+      "sources": [
+        "https://x.com/Y0urDumble/status/2114084322227503206"
+      ],
+      "fetched_at": "2026-11-09T13:18:50Z",
+      "path": "links/coding-agent/claude.com-claude-code.md",
+      "summary": "投稿の CGI 広告スタックで、クライアントブリーフをショットリストとカメラワークに落とす『DIRECT』工程を担うコーディングエージェント。ただし CGI 専用ツールではなく、汎用のコード/ツール実行エージェントをプロンプトとスキルで CGI 制作向けに使う位置づけ。"
     },
     {
       "name": "Claude Code Skills 機能",
