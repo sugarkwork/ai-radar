@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 542 件 — リポジトリ 315, リンク集 95, 記事 65, モデル 53, プロンプト 14 / ⚑ 要確認 340 件
+収録 543 件 — リポジトリ 316, リンク集 95, 記事 65, モデル 53, プロンプト 14 / ⚑ 要確認 341 件
 
-## リポジトリ（315）
+## リポジトリ（316）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -242,7 +242,7 @@
 | [ausboss/ComfyUI-AusBoss-Model-Downloader](entries/model-serving/ausboss-comfyui-ausboss-model-downloader.md) ⚑ | 9 | 1 | 週次 | 4 | 2026-11-07 | 2026-11-09 | 2026-11-09 | MIT |
 | [qwen-warp](entries/model-serving/tuan3w-qwen-warp.md) ⚑ | 3 | 1 | 毎日 | 91 | 2026-11-06 | 2026-11-06 | 2026-11-06 | MIT |
 
-### コーディングエージェント（19）
+### コーディングエージェント（20）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -255,6 +255,7 @@
 | [jcode](entries/coding-agent/1jehuang-jcode.md) | 21,484 | 2,506 | 毎日 | 100+ | 2026-11-04 | 2026-11-04 | 2026-11-04 | MIT |
 | [Craft Anything](entries/coding-agent/storytold-craft-anything.md) | 17,885 | 3,282 | 毎日 | 100+ | 2026-11-06 | 2026-11-06 | 2026-11-06 | Apache-2.0 |
 | [meta/astryx](entries/coding-agent/meta-astryx.md) ⚑ | 16,728 | 1,321 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | MIT |
+| [pstack（Lauren Tan / poteto）](entries/coding-agent/cursor-plugins.md) ⚑ | 15,813 | 1,653 | 毎日 | 69 | 2026-11-07 | 2026-11-09 | 2026-11-09 | MIT |
 | [fast-jev-compaction](entries/coding-agent/tamaratran-fast-jev-compaction.md) ⚑ | 7,917 | 581 | 月次 | 0 | 2026-09-18 | 2026-11-08 | 2026-11-09 | MIT |
 | [ZSeven-W/openpencil](entries/coding-agent/zseven-w-openpencil.md) ⚑ | 7,154 | 622 | 毎日 | 100+ | 2026-11-08 | 2026-11-09 | 2026-11-09 | MIT |
 | [billion-context](entries/coding-agent/ranxianglei-billion-context.md) ⚑ | 5,283 | 413 | 毎日 | — | 2026-11-09 | 2026-11-09 | 2026-11-09 | NOASSERTION |
@@ -1036,6 +1037,7 @@
 - [herdr](entries/coding-agent/herdrdev-herdr.md) — unverified / Apache-2.0。再起動後は保存レイアウトや対応エージェントのセッションを復元できる場合があるが、プロセス継続とは異なる。 実行・品質は未検証。
 - [claude-code-templates](entries/coding-agent/davila7-claude-code-templates.md) — unverified / Turn Inspector の描画は Claude Code 2.1.287+ の実機では未実行で、リポジトリ同梱の README・hooks 実装・テストファイルと作者のデモ動画に基づく確認。インストールコマンド自体（npx claude-code-templates@latest --mod ui/turn-inspector）は空ディレクトリで実行し、6ファイルが配置されることを実測した。ブロック別トークン数は概算（約4文字/トークン）で、正確なのはリクエスト単位の入出力合計のみ。mod は v0.1.0 と新しく、GitHub Releases は v1.29.7（2026-10-09）で npm の 1.32.2（2026-11-07）より遅れている。
 - [meta/astryx](entries/coding-agent/meta-astryx.md) — unverified / Beta版。社内13000以上のアプリ使用という説明は配布元の申告で、公開APIの安定性や実機アクセシビリティを本調査で検証していない。 当方でインストール・推論・生成・ベンチ再現はしていない。
+- [pstack（Lauren Tan / poteto）](entries/coding-agent/cursor-plugins.md) — unverified / 【投稿の主張と実体】投稿は『SpaceXAI の Lauren Tan が /loop と /goal を使って80以上の GrokBot エージェントを動かし、85%のエンジニアが10以上を並列運用、Chief of Staff agent が全体を管理』と引用するが、この引用は一次情報で確認できなかった。添付動画（実測 55分47秒 / 1920x1078 / 30fps）を取得し7点のフレームを確認したところ、話者カードは『Lauren Tan / Software engineer | SpaceXAI』で本人の講演だが、内容は trust ladder・検証スキル・pstack・社内フレームワーク Dune の説明で、確認した範囲に『80+ agents』『/loop』『/goal』『Chief of Staff』『85%』は出てこない。同一講演の公開版（@poteto 本人投稿、38:02、『how i shipped 2,500 PRs last month』）の書き起こしにも該当発言はなく、『80%』は別の再アップロードの書き起こしでは『仕事の8割は1ディレクトリに閉じる』という局所性の文脈で出ており、エージェント数の主張とは無関係。同じ講演を再アップロードしたYouTubeチャンネル複数が『20+』『15+』『80+ agents』『85%』『1%』と互いに矛盾する煽り文を説明欄に付けており、投稿の引用はこの種の二次的な煽り文と一致する。よって引用は出典不明（本人発言として未確認）。/loop と /goal は Cursor Agent（および Grok Build）のスラッシュコマンドで、Grok Bot のコマンドではない（pstack README も『cursor's /loop command』と明記）。『85%のエンジニアが10+』は一次情報なし。Lauren Tan の所属自体は本物で、元 Meta（React Compiler）→ Cursor → SpaceXAI の Grok Bot 担当（動画の話者カード、GitHub、本人投稿で一致）。【指標の注意】pstack は cursor/plugins モノレポ内のサブディレクトリで単独リポジトリは存在しない。stars/forks/open_issues は親リポジトリ全体の値（15,813 / 1,653 / 641）。size_kb は pstack 配下の blob 合計 6,295,660 bytes の KB 換算（6,148KB）で、親リポジトリ全体は 18,538KB。commits は path=pstack で絞った実測（30日69、90日99）。親リポジトリ直下にライセンスはないが pstack/LICENSE は MIT。投稿の引用元X記事2件（2091522676426694656 等）は非ログインでログイン画面へリダイレクトされ本文を読めないことを実際に確認しており、内容は推測していない。
 - [fast-jev-compaction](entries/coding-agent/tamaratran-fast-jev-compaction.md) — unverified / 【主張と実体の差分】投稿の主張は概ね実装と一致するが、3点ずれる。(1)「Jev が古いと採点」— 実装は『古さ』を直接採点せず、call_<id>（呼び出しを残すべきか）と result_<id>（結果を逐語で残すべきか）の2つの noul 確率を閾値0.5で切るだけ。年齢や使用済みかどうかの特徴量は入力に明示されない。(2)「何も書き換えない／一字一句そのまま」— 保持された項目は同一オブジェクトで返るが、結果だけ不要と判定された場合は先頭300文字＋注記に切り詰められる（削除ではなく改変）。Jev に送る state も 25k トークンに収めるため段階的に省略される。(3)「npm ライブラリとしても使える」— npm の fast-jev-compaction は latest 0.4.1 を 2026-09-24 に maintainer aleksvega が公開した第三者フォークで、README に『Fork of tamaratran/fast-jev-compaction』と明記され、jev-compact / jev-gate など別 CLI を含む。リポジトリ側 package.json は 0.2.0、plugin.json は 0.3.0 で、このリポジトリのコードがそのまま npm 名で配布されているわけではない。【実績の不自然さ】stars 7,917 / forks 581 / open issues 125 に対し、コミットは全30件が 2026-09-17〜18 の2日間のみ、直近30日は0件、リポジトリは34ファイル・245KB。contributors に devin-ai-integration[bot] が入り、主要コミットは Devin AI 共著。数字の大きさと開発量・更新停止が釣り合わず、star の真正性は未確認（不正と断定はできない）。【有効性】作者による削減率・精度のベンチマークは未公開（issue #160 が benchmarks を求めて起票、回答なし）。第三者の計測（issue #154）は AUC 0.70〜0.83 で順位は安定するが、fitState() の段階で絶対スコアが 0.25〜0.80 に動き、固定閾値0.5だと全保持（実質無効）や過剰削除になりうると報告。issue #65 は『narration は残り根拠が消える』過剰削除を報告。【デモ】投稿の14秒動画を取得しフレームを確認したところ、GitHub の README をスクロールする画面で、API を叩いた実行記録ではなかった。リポジトリ同梱の SwiftUI デモも README に『It never calls the API; it exists to be screen recorded.』と明記され、演出用。【依存・権利】MIT（LICENSE は Copyright (c) 2025）。TypeSafe の有料 API が必須で、無料枠や無償トークンは未確認。Claude Code の function hooks は早期アクセスで仕様変更リスクあり（hooks/README.md 自身が明記）。issue #151 / #153 では Team 組織や SDK・ヘッドレス環境で session.compact が使えない報告があり、環境により動作しない可能性。【未確認】作者自身の効果測定、star の真正性、TypeSafe の無料枠、Claude Code 2.1.274 以外での動作。
 - [ZSeven-W/openpencil](entries/coding-agent/zseven-w-openpencil.md) — unverified / 「普通模式」という機能名は原チェックで裏付けなし。宣伝動画制作に使ったRenoise MCPは外部有料サービスで本体の無料機能ではない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [billion-context](entries/coding-agent/ranxianglei-billion-context.md) — unverified / ライセンスはMIT本文に加え、利用者が触れる製品・サービスのページや文書等への目立つ出典表示義務がある独自条件。純粋なMITと同一ではない。性能は作者報告で独立検証していない。 実行・品質は未検証。
