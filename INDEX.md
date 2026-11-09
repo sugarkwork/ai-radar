@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 567 件 — リポジトリ 327, リンク集 105, 記事 68, モデル 53, プロンプト 14 / ⚑ 要確認 362 件
+収録 568 件 — リポジトリ 327, リンク集 106, 記事 68, モデル 53, プロンプト 14 / ⚑ 要確認 362 件
 
 ## リポジトリ（327）
 
@@ -462,7 +462,7 @@
 - **[MiniMax H3：20種のダンスと音楽指定](prompts/video-gen/minimax-h3-20-dance-music.md)** ⚑  MiniMax H3 / EndFolding79421
   - キャラクターシートを参照し、6秒間の全身ダンスと音楽・環境音を指示するための投稿者のテンプレート。ダンス20種類の音楽指定例を含む。
 
-## リンク集（105）
+## リンク集（106）
 
 ### リンク（素材・アイコン・3D）（18）
 
@@ -710,6 +710,11 @@
 
 - **[NVIDIA API Catalog / NIM無料推論エンドポイント](links/model-serving/https-build.nvidia.com.md)** ⚑  @Rivonn
   - NVIDIA API Catalogで公開モデルのホスト推論エンドポイントを探す案内。原チェックはKimi K3.1 Pro、DeepSeek V4.1 Flash、GLM-5.3-FlashのFree Endpoint表示を確認。
+
+### その他（1）
+
+- **[PDF skill (anthropics/skills)](links/other/github.com-pdf-skill-anthropics-skills.md)**  free / Anthropic
+  - PDFのテキスト・表抽出、結合・分割、回転、透かし、新規作成、フォーム入力、暗号化・復号、画像抽出、スキャンPDFのOCRを扱うための手順とコード集。
 
 ### RAG・検索（1）
 

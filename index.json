@@ -1,5 +1,5 @@
 {
-  "count": 567,
+  "count": 568,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -11465,6 +11465,31 @@
       "fetched_at": "2026-11-06T08:38:08Z",
       "path": "models/other/mradermacher-lunar-trace-31b-i1-gguf.md",
       "summary": "Gemma-4-31B-it を土台に4モデルをマージした31Bモデルを、量子化してローカルで動かせる(チャット・ロールプレイ・創作・長編ストーリー)"
+    },
+    {
+      "name": "PDF skill (anthropics/skills)",
+      "genre": "other",
+      "url": "https://github.com/anthropics/skills/tree/main/skills/pdf",
+      "pricing": "free",
+      "pricing_detail": "GitHubで無償公開。skills/pdf/LICENSE.txt は Apache License 2.0（11,357 bytes）。親リポジトリ anthropics/skills にはリポジトリレベルのLICENSEがないため、許諾範囲は各スキル配下のLICENSEに従う。",
+      "signup_required": false,
+      "author": "Anthropic",
+      "license": "Apache-2.0",
+      "source_post": "https://x.com/Y0urDumble/status/2114428470168334365",
+      "sources": [
+        "https://github.com/anthropics/skills/tree/main/skills/pdf",
+        "https://raw.githubusercontent.com/anthropics/skills/main/skills/pdf/LICENSE.txt",
+        "https://raw.githubusercontent.com/anthropics/skills/main/skills/pdf/SKILL.md",
+        "https://x.com/Y0urDumble/status/2114428470168334365"
+      ],
+      "flags": [],
+      "risk_notes": "親リポジトリ anthropics/skills にはリポジトリレベルのLICENSEがなく（GitHub APIのlicenseは404）、許諾は skills/pdf/LICENSE.txt（Apache-2.0）単位で判断する必要がある。OCR・フォーム入力は追加の依存（pytesseract/poppler、pdf-lib等）と外部ツールに依存する。投稿の『契約書PDFを自動生成して閉める』工程のうち、このSkillが担うのはPDFの読み書き・フォーム・生成のみで、提案内容や契約条件の作成は行わない。投稿の『48 leads / 12 pitches / 1 signed』『$3,000–6,000』『0 employees』などの営業実績は著者の主張で、第三者検証がなく未検証。",
+      "fetched_at": "2026-11-09T20:14:56Z",
+      "type": "link",
+      "added": "2026-11-09",
+      "first_seen": "2026-11-09",
+      "path": "links/other/github.com-pdf-skill-anthropics-skills.md",
+      "summary": "PDFのテキスト・表抽出、結合・分割、回転、透かし、新規作成、フォーム入力、暗号化・復号、画像抽出、スキャンPDFのOCRを扱うための手順とコード集。"
     },
     {
       "type": "model",
