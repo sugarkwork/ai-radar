@@ -1,5 +1,5 @@
 {
-  "count": 524,
+  "count": 525,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -11469,6 +11469,31 @@
       "risk_notes": "18+ / NSFWのサイト由来。取得した原文が本資料にはないためプロンプトを創作せず記事として要約する。キャラ「レイ」の移植/再配布禁止をこの別指示書へ自動適用せず権利範囲は未確認。 当方でインストール・推論・生成・ベンチ再現はしていない。",
       "published": "2026-11-07",
       "path": "articles/2026-11-09-zeowota-natural-japanese-chat-instructions-overview.md"
+    },
+    {
+      "name": "英語リスニング訓練コーチ（教材生成＋盲聴＋誤り分類）",
+      "genre": "prompt-other",
+      "url": "https://x.com/momoai_daily/status/2104136225120772358",
+      "author": "@momoai_daily（momoai沫沫🫧）",
+      "prompt_sha1": "15d8bdb039e0e815eff79515aefc31f5197ded0b",
+      "target": "ChatGPT（Voice モード／テキストチャット併用）",
+      "transcribed_from": "text",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "著者の主張は「レベルと練習時間に合った英文を生成させ、盲聴→大意1問→テキスト開示→誤り分類→復盤まで自動で回す」こと。プロンプト本文は原文どおり 442 字で、記事 HTML の <code> ブロックと空白正規化後の SHA-1 が一致することを確認した。確認できたのは指示文の内容までで、次は未確認・不成立。①「第一遍只朗读，不展示文本」は ChatGPT Voice では成立しない（公式ヘルプ：Live は読み上げと同時に応答テキストをチャットに表示する。Advanced も会話終了後に transcript が追加される）。②5〜8分の連続朗読は Voice の想定用途（対話）から外れ、実際には分割されやすい。③「初回60%→数回で80%」の難易度基準は著者の経験則で出典なし。④このプロンプトによる学習効果の測定データは無い。記事 URL は未ログインだとログイン画面（x.com/i/jf/onboarding/web）へリダイレクトされ、本文は投稿ページにサーバー描画された HTML から取得した。",
+      "source_post": "https://x.com/momoai_daily/status/2104136225120772358",
+      "sources": [
+        "https://x.com/momoai_daily/status/2104136225120772358",
+        "https://x.com/i/article/2104111173943828480",
+        "https://help.openai.com/en/articles/20001274-chatgpt-voice"
+      ],
+      "added": "2026-11-09",
+      "first_seen": "2026-11-09",
+      "fetched_at": "2026-11-09T04:10:53Z",
+      "type": "prompt",
+      "path": "prompts/prompt-other/990639c4-15d8bdb039.md",
+      "summary": "A2〜C1 の英語学習者が、その日の主題と練習時間に合わせた英文素材を ChatGPT に書き下ろさせ、盲聴→大意1問→文本開示→誤り分類→復盤までを1本の会話で回すためのコーチ用プロンプト。"
     },
     {
       "type": "repo",
