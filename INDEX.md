@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 495 件 — リポジトリ 292, リンク集 88, 記事 52, モデル 52, プロンプト 11 / ⚑ 要確認 295 件
+収録 496 件 — リポジトリ 293, リンク集 88, 記事 52, モデル 52, プロンプト 11 / ⚑ 要確認 296 件
 
-## リポジトリ（292）
+## リポジトリ（293）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -296,6 +296,25 @@
 | [WeVisOne-VL](entries/other/tencent-wevisone-vl.md) | 676 | 56 | 月次 | 3 | 2026-10-25 | 2026-11-03 | 2026-11-03 | Apache-2.0（Tencent 著作部分） |
 | [DSH 破甲ワークフロー（dsh-jailbreak-workflow）](entries/other/minglink-dsh-jailbreak-workflow.md) ⚑ | 581 | 206 | 週次 | 17 | 2026-11-04 | 2026-11-04 | 2026-11-04 | 未確認（API は NOASSERTION、標準ライセンスファイル無し） |
 
+### RAG・検索（14）
+
+| 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
+|---|---:|---:|---|---:|---|---|---|---|
+| [HKUDS/DeepTutor](entries/rag/hkuds-deeptutor.md) ⚑ | 56,995 | 6,949 | 毎日 | 100+ | 2026-11-07 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
+| [OpenDataLoader PDF](entries/rag/opendataloader-project-opendataloader-pdf.md) | 30,178 | 2,882 | 毎日 | 100+ | 2026-11-05 | 2026-11-05 | 2026-11-05 | Apache-2.0 |
+| [obsidianmd/obsidian-releases](entries/rag/obsidianmd-obsidian-releases.md) ⚑ | 23,159 | 7,949 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | unknown |
+| [pdf-inspector](entries/rag/firecrawl-pdf-inspector.md) | 19,825 | 1,337 | 月次 | 1 | 2026-10-22 | 2026-11-04 | 2026-11-04 | MIT |
+| [NVIDIA/auto-ontology](entries/rag/nvidia-auto-ontology.md) ⚑ | 10,378 | 838 | 毎日 | 94 | 2026-11-07 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
+| [Local Deep Research](entries/rag/learningcircuit-local-deep-research.md) | 9,516 | 904 | 毎日 | 100+ | 2026-11-07 | 2026-11-07 | 2026-11-07 | MIT |
+| [DigUp](entries/rag/arahim3-digup.md) | 6,237 | 493 | 毎日 | 100+ | 2026-10-26 | 2026-11-04 | 2026-11-04 | MIT |
+| [kepano/kepano-obsidian](entries/rag/kepano-kepano-obsidian.md) ⚑ | 5,405 | 437 | 停滞 | 0 | 2026-01-09 | 2026-11-09 | 2026-11-09 | MIT |
+| [OpenKB](entries/rag/vectifyai-openkb.md) | 4,849 | 503 | 停滞 | 0 | 2026-07-22 | 2026-11-04 | 2026-11-04 | Apache-2.0 |
+| [zvec-ai/zvec-grep](entries/rag/zvec-ai-zvec-grep.md) ⚑ | 4,292 | 263 | 毎日 | 100+ | 2026-11-06 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
+| [obsidianmd/jsoncanvas](entries/rag/obsidianmd-jsoncanvas.md) ⚑ | 3,829 | 179 | 停滞 | 0 | 2026-07-24 | 2026-11-09 | 2026-11-09 | MIT |
+| [zilliztech/memsearch](entries/rag/zilliztech-memsearch.md) ⚑ | 2,837 | 280 | 毎日 | 25 | 2026-11-06 | 2026-11-09 | 2026-11-09 | MIT |
+| [kepano/40-questions](entries/rag/kepano-40-questions.md) ⚑ | 1,765 | 201 | 停滞 | 0 | 2026-03-09 | 2026-11-09 | 2026-11-09 | unknown |
+| [Fulcra Agent Skills](entries/rag/fulcradynamics-agent-skills.md) ⚑ | 16 | 11 | 週次 | 10 | 2026-11-06 | 2026-11-09 | 2026-11-09 | unknown |
+
 ### 画像生成・編集（13）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
@@ -313,24 +332,6 @@
 | [rhinoc/xprite-lighter](entries/image-gen/rhinoc-xprite-lighter.md) ⚑ | 9 | 0 | 毎日 | 91 | 2026-11-08 | 2026-11-09 | 2026-11-09 | MIT |
 | [sepiablue-ai/ComfyUI-PH3-Manga](entries/image-gen/sepiablue-ai-comfyui-ph3-manga.md) ⚑ | 8 | 0 | 週次 | 10 | 2026-11-07 | 2026-11-09 | 2026-11-09 | MIT |
 | [ComfyUI Prompt Atelier](entries/image-gen/renz1998-comfyui-prompt-atelier.md) | 2 | 0 | 毎日 | 33 | 2026-11-06 | 2026-11-06 | 2026-11-07 | GPL-3.0 |
-
-### RAG・検索（13）
-
-| 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
-|---|---:|---:|---|---:|---|---|---|---|
-| [HKUDS/DeepTutor](entries/rag/hkuds-deeptutor.md) ⚑ | 56,995 | 6,949 | 毎日 | 100+ | 2026-11-07 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
-| [OpenDataLoader PDF](entries/rag/opendataloader-project-opendataloader-pdf.md) | 30,178 | 2,882 | 毎日 | 100+ | 2026-11-05 | 2026-11-05 | 2026-11-05 | Apache-2.0 |
-| [obsidianmd/obsidian-releases](entries/rag/obsidianmd-obsidian-releases.md) ⚑ | 23,159 | 7,949 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | unknown |
-| [pdf-inspector](entries/rag/firecrawl-pdf-inspector.md) | 19,825 | 1,337 | 月次 | 1 | 2026-10-22 | 2026-11-04 | 2026-11-04 | MIT |
-| [NVIDIA/auto-ontology](entries/rag/nvidia-auto-ontology.md) ⚑ | 10,378 | 838 | 毎日 | 94 | 2026-11-07 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
-| [Local Deep Research](entries/rag/learningcircuit-local-deep-research.md) | 9,516 | 904 | 毎日 | 100+ | 2026-11-07 | 2026-11-07 | 2026-11-07 | MIT |
-| [DigUp](entries/rag/arahim3-digup.md) | 6,237 | 493 | 毎日 | 100+ | 2026-10-26 | 2026-11-04 | 2026-11-04 | MIT |
-| [kepano/kepano-obsidian](entries/rag/kepano-kepano-obsidian.md) ⚑ | 5,405 | 437 | 停滞 | 0 | 2026-01-09 | 2026-11-09 | 2026-11-09 | MIT |
-| [OpenKB](entries/rag/vectifyai-openkb.md) | 4,849 | 503 | 停滞 | 0 | 2026-07-22 | 2026-11-04 | 2026-11-04 | Apache-2.0 |
-| [zvec-ai/zvec-grep](entries/rag/zvec-ai-zvec-grep.md) ⚑ | 4,292 | 263 | 毎日 | 100+ | 2026-11-06 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
-| [obsidianmd/jsoncanvas](entries/rag/obsidianmd-jsoncanvas.md) ⚑ | 3,829 | 179 | 停滞 | 0 | 2026-07-24 | 2026-11-09 | 2026-11-09 | MIT |
-| [zilliztech/memsearch](entries/rag/zilliztech-memsearch.md) ⚑ | 2,837 | 280 | 毎日 | 25 | 2026-11-06 | 2026-11-09 | 2026-11-09 | MIT |
-| [kepano/40-questions](entries/rag/kepano-40-questions.md) ⚑ | 1,765 | 201 | 停滞 | 0 | 2026-03-09 | 2026-11-09 | 2026-11-09 | unknown |
 
 ### プロンプト（デザイン/UI）（7）
 
@@ -1061,6 +1062,7 @@
 - [obsidianmd/jsoncanvas](entries/rag/obsidianmd-jsoncanvas.md) — unverified / MITは仕様リポジトリの条件。各アプリの実装互換性と読み書きの実機確認は行っていない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [zilliztech/memsearch](entries/rag/zilliztech-memsearch.md) — unverified / 記憶を保存する用途では機密情報・削除・アクセス制御の確認が必要。検索精度・永続化は未試験。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [kepano/40-questions](entries/rag/kepano-40-questions.md) — unverified / 原チェックはLICENSEなし。公開閲覧と全文再配布の許諾を同一視しない。心理・仕事上の効果を実証したものではない。 当方でインストール・推論・生成・ベンチ再現はしていない。
+- [Fulcra Agent Skills](entries/rag/fulcradynamics-agent-skills.md) — unverified / 未確認・要注意: (1) ライセンス。GitHub API の license は null（リポジトリ直下に LICENSE ファイルが無く、/license も404）だが、README 末尾と全 SKILL.md の frontmatter は MIT と明記している。APIのSPDXが未検出のため frontmatter は unknown とし、MIT を正式な許諾条件として断定しない。(2) 投稿が書く「1フォルダだけ読み取り専用で渡す」は、共有コマンド（share create の --data-type / --file / --user-id / --group-id、permissions[].allowed_fulcra_userid）と、受信側が file download で読む運用までは確認したが、フォルダ単位の読み取り専用ACLを1コマンドで付ける仕様は一次情報で確認できていない。(3) `npx skills add fulcradynamics/agent-skills` は未実行（README記載のコマンドをそのまま転記）。(4) 効果に定量データは無く、README・公式サイトの説明はベンダー自身の主張。(5) 20本のスキルのうち fulcra-memory / fulcra-workspaces / fulcra-prefs / fulcra-connect / fulcra-get-started / connect-our-agents / fulcra-agent-groups / fulcra-situational-awareness のみ本文を読み、残りはREADME要約とファイル一覧までの確認。
 - [Phind](links/rag/https-www.phind.com.md) — unverified / 当時の取得失敗だけでサービス自体の消滅は断定しない。現行ページ・料金・利用可否は未確認。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [bestaidatalabs.com / ZetonのEMD・AEO戦略事例](articles/2026-11-09-https-x.com-margatix-status-2119089991217262884.md) — unverified / 10日で7桁・買収/賃貸オファー・全キーワード1位は未確認。中立ランキングではなく送客用資料で、有料増幅の可能性も記録されている。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [plamo-3-translate WebGPUやさしい日本語Chrome拡張の制作事例](articles/2026-11-09-https-x.com-gosrum-status-2119048949831188578.md) — unverified / 基底翻訳モデルの配布とChrome拡張の公開を混同しない。NVIDIAなら高速という部分は本人推測で実行比較なし。 当方でインストール・推論・生成・ベンチ再現はしていない。

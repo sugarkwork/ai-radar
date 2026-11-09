@@ -1,5 +1,5 @@
 {
-  "count": 495,
+  "count": 496,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -11245,6 +11245,40 @@
       "fetched_at": "2026-11-09T00:31:11.550654+00:00",
       "path": "entries/rag/kepano-40-questions.md",
       "summary": "年末等の振り返りに使う40の質問を公開したkepanoの資料。"
+    },
+    {
+      "repo": "fulcradynamics/agent-skills",
+      "name": "Fulcra Agent Skills",
+      "genre": "rag",
+      "url": "https://github.com/fulcradynamics/agent-skills",
+      "author": "Fulcra (fulcradynamics)",
+      "license": "unknown",
+      "stars": 16,
+      "language": "Python",
+      "created": "2026-05-26",
+      "updated": "2026-11-06",
+      "forks": 11,
+      "open_issues": 38,
+      "commits_30d": 10,
+      "commit_cadence": "weekly",
+      "commits_90d": 80,
+      "size_kb": 1237,
+      "archived": false,
+      "last_release": "",
+      "last_release_at": "",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "未確認・要注意: (1) ライセンス。GitHub API の license は null（リポジトリ直下に LICENSE ファイルが無く、/license も404）だが、README 末尾と全 SKILL.md の frontmatter は MIT と明記している。APIのSPDXが未検出のため frontmatter は unknown とし、MIT を正式な許諾条件として断定しない。(2) 投稿が書く「1フォルダだけ読み取り専用で渡す」は、共有コマンド（share create の --data-type / --file / --user-id / --group-id、permissions[].allowed_fulcra_userid）と、受信側が file download で読む運用までは確認したが、フォルダ単位の読み取り専用ACLを1コマンドで付ける仕様は一次情報で確認できていない。(3) `npx skills add fulcradynamics/agent-skills` は未実行（README記載のコマンドをそのまま転記）。(4) 効果に定量データは無く、README・公式サイトの説明はベンダー自身の主張。(5) 20本のスキルのうち fulcra-memory / fulcra-workspaces / fulcra-prefs / fulcra-connect / fulcra-get-started / connect-our-agents / fulcra-agent-groups / fulcra-situational-awareness のみ本文を読み、残りはREADME要約とファイル一覧までの確認。",
+      "type": "repo",
+      "added": "2026-11-09",
+      "first_seen": "2026-11-09",
+      "sources": [
+        "https://x.com/sumika45379/status/2113469217362333991"
+      ],
+      "fetched_at": "2026-11-09T00:51:21Z",
+      "path": "entries/rag/fulcradynamics-agent-skills.md",
+      "summary": "エージェントの記憶をFulcraのファイルストアに書き出す。1エージェントごとに agent/<agent-name>/ を作り、index.md（目次）、log.md（更新履歴）、progress.md（直近の作業と次にやること）、role.md（役割・手順）、session/（セッション要約）、task/（複数セッ"
     },
     {
       "type": "model",
