@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 543 件 — リポジトリ 316, リンク集 95, 記事 65, モデル 53, プロンプト 14 / ⚑ 要確認 341 件
+収録 544 件 — リポジトリ 316, リンク集 96, 記事 65, モデル 53, プロンプト 14 / ⚑ 要確認 342 件
 
 ## リポジトリ（316）
 
@@ -451,7 +451,7 @@
 - **[MiniMax H3：20種のダンスと音楽指定](prompts/video-gen/minimax-h3-20-dance-music.md)** ⚑  MiniMax H3 / EndFolding79421
   - キャラクターシートを参照し、6秒間の全身ダンスと音楽・環境音を指示するための投稿者のテンプレート。ダンス20種類の音楽指定例を含む。
 
-## リンク集（95）
+## リンク集（96）
 
 ### リンク（作例・インスピレーション）（18）
 
@@ -556,6 +556,31 @@
 - **[treg REA growth](links/link-service/treg.to-treg-rea-growth.md)** ⚑  freemium / superdesigndev（Superdesign Dev Pty Ltd）
   - treg.to は「エージェント向けツールの OpenRouter」を名乗る従量課金の API ゲートウェイ。1 つのトークンで 126 プロバイダ・4,100+ のツール（SEO/SERP、被リンク、SNS 投稿、人物・企業情報、広告ライブラリ、スクレイピング、画像/動画/音声生成）を、プロバイダごとの契約なしで呼べ
 
+### エージェント基盤・スキル集（11）
+
+- **[Billable Hours Bot](links/agent-framework/https-x.ai-bot-tlgfui0v3nxxmommdvgvr.md)** ⚑  @naka_1717
+  - 2026-11-09取得の第三者ボット配布ページの説明: 接続したカレンダー・メール・ファイルを読み、出典付きの時間記録と請求書下書きへ変えると配布ページに記載。
+- **[Bot Office](links/agent-framework/https-x.ai-bot-_di6heboa0cfwftnsxxcm.md)** ⚑  @naka_1717
+  - 2026-11-09取得の第三者ボット配布ページの説明: ボットの作業中・停止中・期限超過・利用者待ちを証拠リンク付きの日次ボードで短く示し、変化がない日は静かにするという配布ページの説明。
+- **[Bram Product Engineer](links/agent-framework/https-x.ai-bot-aybbuyfvfcxkkw2hilu-n.md)** ⚑  @naka_1717
+  - 2026-11-09取得の第三者ボット配布ページの説明: プロジェクトについて先に質問し、調査に基づく測定可能な基準を置き、開発エージェント向けの指示文を作る製品エンジニア役と配布ページに記載。
+- **[Business Incubator](links/agent-framework/https-x.ai-bot-srgji6qjylszgzfbbv2ff.md)** ⚑  @naka_1717
+  - 2026-11-09取得の第三者ボット配布ページの説明: 副業や小規模事業のブレーンストーミング相手として、アイデアを展開し競合を調べると配布ページに記載。
+- **[Creator Sponsorship Pipeline](links/agent-framework/https-x.ai-bot-fw54b1meitt0ivvkvwbri.md)** ⚑  @naka_1717
+  - 2026-11-09取得の第三者ボット配布ページの説明: スポンサー候補の発見・追跡・成約支援を掲げ、CRM、追跡連絡文、更新型メディアキット、振り返りを用意すると配布ページに記載。
+- **[Dreamer](links/agent-framework/https-x.ai-bot-8mdsbrnacooi_0nlcm2z3.md)** ⚑  @naka_1717
+  - 2026-11-09取得の第三者ボット配布ページの説明: ボットチームの仕事を夜間に振り返り、反復する修正や教訓を再利用可能なskill/記憶へまとめ、各ボットの継続目標を提案すると配布ページに記載。単なる発想用ボットではない。
+- **[Grok Bot（SpaceXAI）](links/agent-framework/x.ai-grok-bot-spacexai.md)** ⚑  paid / SpaceXAI（旧 xAI）/ Anysphere
+  - チャット相手ではなく、仕事を最後まで進める『AIの同僚』を複数持つための製品。各 Bot は名前・役割・記憶を持ち、ユーザーごとの常駐クラウドコンピュータ上でアプリやWebサイトにログインして作業する。
+- **[Grok Build Helper](links/agent-framework/https-x.ai-bot-_4l8w-etvs_dvc0qvmlnw.md)** ⚑  @naka_1717
+  - 2026-11-09取得の第三者ボット配布ページの説明: Grok Build CLI利用者向けのread-first補助。worktreeと元フォルダを照合し、壊れたGitリポジトリや同期競合を調べると配布ページに記載。
+- **[Lead Desk](links/agent-framework/https-x.ai-bot-zqcy7u_vocpgnszowpfnz.md)** ⚑  @naka_1717
+  - 2026-11-09取得の第三者ボット配布ページの説明: 接続したGmail/OutlookやX/Slack等から新規営業リードを拾い、分類して追跡連絡の下書きを渡すと配布ページに記載。
+- **[Saver Bot](links/agent-framework/https-x.ai-bot-hwu-tfxaev_zha7hpkg57.md)** ⚑  @naka_1717
+  - 2026-11-09取得の第三者ボット配布ページの説明: Grok Botの使用量、増加・スパイク・ループをダッシュボードで監視し、ワンタップの節約提案を示すと配布ページに記載。リンクや資料の保存ボットではない。
+- **[WhatsApper](links/agent-framework/https-x.ai-bot-lr1qqk4csgtz127njppq2.md)** ⚑  @naka_1717
+  - 2026-11-09取得の第三者ボット配布ページの説明: WhatsAppのチャットとグループを読み、利用者の口調でメッセージを下書きし、正確な本文を承認した後だけ送ると配布ページに記載。
+
 ### 3D・モーション（10）
 
 - **[1枚絵からローカル3D空間を生成するデモ（LUCIAN）](links/3d-motion/lucianlamp-1image-3d-demo.md)** ⚑  @lucianlamp
@@ -578,29 +603,6 @@
   - キャラクターの身体スケルトンと衣装（スカート・髪・袖・アクセサリ）を同時に扱い、衣装まで含めたリグを自動生成する研究。
 - **[TailorRig Dataset](links/3d-motion/huggingface-tencent-tailorrig-dataset.md)** ⚑  free / Tencent
   - キャラクターの骨格生成・スキニング重み推定などの研究向けデータセット。
-
-### エージェント基盤・スキル集（10）
-
-- **[Billable Hours Bot](links/agent-framework/https-x.ai-bot-tlgfui0v3nxxmommdvgvr.md)** ⚑  @naka_1717
-  - 2026-11-09取得の第三者ボット配布ページの説明: 接続したカレンダー・メール・ファイルを読み、出典付きの時間記録と請求書下書きへ変えると配布ページに記載。
-- **[Bot Office](links/agent-framework/https-x.ai-bot-_di6heboa0cfwftnsxxcm.md)** ⚑  @naka_1717
-  - 2026-11-09取得の第三者ボット配布ページの説明: ボットの作業中・停止中・期限超過・利用者待ちを証拠リンク付きの日次ボードで短く示し、変化がない日は静かにするという配布ページの説明。
-- **[Bram Product Engineer](links/agent-framework/https-x.ai-bot-aybbuyfvfcxkkw2hilu-n.md)** ⚑  @naka_1717
-  - 2026-11-09取得の第三者ボット配布ページの説明: プロジェクトについて先に質問し、調査に基づく測定可能な基準を置き、開発エージェント向けの指示文を作る製品エンジニア役と配布ページに記載。
-- **[Business Incubator](links/agent-framework/https-x.ai-bot-srgji6qjylszgzfbbv2ff.md)** ⚑  @naka_1717
-  - 2026-11-09取得の第三者ボット配布ページの説明: 副業や小規模事業のブレーンストーミング相手として、アイデアを展開し競合を調べると配布ページに記載。
-- **[Creator Sponsorship Pipeline](links/agent-framework/https-x.ai-bot-fw54b1meitt0ivvkvwbri.md)** ⚑  @naka_1717
-  - 2026-11-09取得の第三者ボット配布ページの説明: スポンサー候補の発見・追跡・成約支援を掲げ、CRM、追跡連絡文、更新型メディアキット、振り返りを用意すると配布ページに記載。
-- **[Dreamer](links/agent-framework/https-x.ai-bot-8mdsbrnacooi_0nlcm2z3.md)** ⚑  @naka_1717
-  - 2026-11-09取得の第三者ボット配布ページの説明: ボットチームの仕事を夜間に振り返り、反復する修正や教訓を再利用可能なskill/記憶へまとめ、各ボットの継続目標を提案すると配布ページに記載。単なる発想用ボットではない。
-- **[Grok Build Helper](links/agent-framework/https-x.ai-bot-_4l8w-etvs_dvc0qvmlnw.md)** ⚑  @naka_1717
-  - 2026-11-09取得の第三者ボット配布ページの説明: Grok Build CLI利用者向けのread-first補助。worktreeと元フォルダを照合し、壊れたGitリポジトリや同期競合を調べると配布ページに記載。
-- **[Lead Desk](links/agent-framework/https-x.ai-bot-zqcy7u_vocpgnszowpfnz.md)** ⚑  @naka_1717
-  - 2026-11-09取得の第三者ボット配布ページの説明: 接続したGmail/OutlookやX/Slack等から新規営業リードを拾い、分類して追跡連絡の下書きを渡すと配布ページに記載。
-- **[Saver Bot](links/agent-framework/https-x.ai-bot-hwu-tfxaev_zha7hpkg57.md)** ⚑  @naka_1717
-  - 2026-11-09取得の第三者ボット配布ページの説明: Grok Botの使用量、増加・スパイク・ループをダッシュボードで監視し、ワンタップの節約提案を示すと配布ページに記載。リンクや資料の保存ボットではない。
-- **[WhatsApper](links/agent-framework/https-x.ai-bot-lr1qqk4csgtz127njppq2.md)** ⚑  @naka_1717
-  - 2026-11-09取得の第三者ボット配布ページの説明: WhatsAppのチャットとグループを読み、利用者の口調でメッセージを下書きし、正確な本文を承認した後だけ送ると配布ページに記載。
 
 ### 画像生成・編集（8）
 
@@ -1008,6 +1010,7 @@
 - [Business Incubator](links/agent-framework/https-x.ai-bot-srgji6qjylszgzfbbv2ff.md) — unverified / ほぼ無人で事業を運営できるという説明は作者の想定で実績の裏付けではない。機密情報・外部操作の承認と有料条件は未確認。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Creator Sponsorship Pipeline](links/agent-framework/https-x.ai-bot-fw54b1meitt0ivvkvwbri.md) — unverified / 営業文や成約結果の品質は未検証。投稿・連絡先へのアクセスと送信前承認、現行の有料条件を確認する。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Dreamer](links/agent-framework/https-x.ai-bot-8mdsbrnacooi_0nlcm2z3.md) — unverified / 夜間レビューの実行・記憶の正確性・学習の有効性は未検証。機密履歴の保存範囲、誤った指示の再利用、現行料金に注意。 当方でインストール・推論・生成・ベンチ再現はしていない。
+- [Grok Bot（SpaceXAI）](links/agent-framework/x.ai-grok-bot-spacexai.md) — unverified / 確認できたこと: Grok Bot は SpaceXAI（2026-07 に xAI から改称、2026-10 に SpaceX Super Intelligence / SpaceXSI へ再改称。2026-08-14 に Cursor の Anysphere 買収完了）の製品で、公式ページ https://x.ai/bot に料金（Premium $30 / Super $100 / Ultra $200 月額、週次利用枠込み、超過はトークン課金）、Teams/Enterprise の提供、Cursor アカウントでの SSO、常駐クラウドPCの仕様（ユーザー単位で共有、Bot 単位ではない）が記載されている。公式ドキュメント docs.x.ai/grok-bot も実在（307リダイレクトの先で本文取得）。未確認・誤り: 投稿の『80+ GrokBot agents with /loop and /goal』『85% of engineers run 10+ agents』『Chief of Staff agent』という引用は、本人の講演映像・書き起こし・公式ページのいずれにも確認できない。講演（添付動画 55:47、同一内容の公開版 38:02）は信頼構築と pstack の話で、GrokBot のチーム構築チュートリアルではない。/loop と /goal は Cursor Agent のスラッシュコマンドで、Grok Bot 側の相当機能は routines（スケジュール実行）。Grok Bot に公開の Bot 操作 API があるかはドキュメント上確認できず、記載があるのは MCP / 任意APIへの接続（内向き）のみ。投稿の引用元X記事2件は非ログインでログイン画面へリダイレクトされ本文を読めないことを実際に確認済み。
 - [Grok Build Helper](links/agent-framework/https-x.ai-bot-_4l8w-etvs_dvc0qvmlnw.md) — unverified / 監査・修復の正しさは未検証。Git履歴や作業中変更を壊さない保証はなく、修復前に差分・バックアップ・承認が必要。現行有料条件は未確認。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Lead Desk](links/agent-framework/https-x.ai-bot-zqcy7u_vocpgnszowpfnz.md) — unverified / 顧客データの適法な利用、連携範囲、下書きの事実確認と送信の本人承認が必要。検出漏れ・誤分類・現行価格は未確認。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Muse VM・Tailscale・SSH・自宅PC/NASの運用構成図](articles/2026-11-09-https-x.com-hirokichi_pd-status-2119037163899847040.md) — unverified / 自宅Windows接続はMetaの公式手順ではない。実装・配布・認証/鍵管理・接続成功は未検証で、料金も原チェック時の報道のみ。 当方でインストール・推論・生成・ベンチ再現はしていない。
