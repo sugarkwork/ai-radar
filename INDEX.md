@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 491 件 — リポジトリ 291, リンク集 86, 記事 51, モデル 52, プロンプト 11 / ⚑ 要確認 292 件
+収録 492 件 — リポジトリ 291, リンク集 87, 記事 51, モデル 52, プロンプト 11 / ⚑ 要確認 293 件
 
 ## リポジトリ（291）
 
@@ -402,7 +402,7 @@
 - **[Claude Code コミット前検証スキル verify（テスト→差分レビュー→差し戻し）](prompts/coding-agent/claude-code-verify-6df7a29de9.md)** ⚑  Claude Code v2.1.286 以降（.claude/skills/verify/SKILL.md に置くプロジェクトスキル）
   - コミットの直前に、その変更が「意図しない挙動変化」や「データに消える恐れのある変更」を含んでいないかを Claude 自身に確認させ、危険ならコミットさせずに修正へ戻すためのプロジェクトスキル。テストが通ることと、その差分が妥当であることを別々に確かめる点が要点。
 
-## リンク集（86）
+## リンク集（87）
 
 ### リンク（作例・インスピレーション）（16）
 
@@ -439,7 +439,7 @@
 - **[uilabs — 動きのあるUI部品集](links/link-inspiration/uilabs.dev.md)** ⚑  uilabs — 動きのあるUI部品集
   - React UIの操作とモーションの実装例を調べる小さな部品集。
 
-### リンク（素材・アイコン・3D）（12）
+### リンク（素材・アイコン・3D）（13）
 
 - **[AI Camera Movements（カメラワーク46種のプロンプト）](links/link-asset/aicameramovements-com.md)**  free / aicameramovements.com
   - AI 動画の「カメラが止まって見える」問題を、動きの名前と定型プロンプトで解決する。動きの違いを並べて比較してから選べる。
@@ -453,6 +453,8 @@
   - PLATEAUの東京23区・大阪・横浜・名古屋・札幌の中心部をGLBへ変換した3D都市素材。
 - **[Polyfork](links/link-asset/https-polyfork.dev.md)** ⚑  @Shoonee27
   - GLBと再構築可能なESモジュールでlow-poly3Dモデルを提供するPolyfork。検索・CLI・キー不要MCPを案内。
+- **[Scenario Blender Animation（scenario-labs）](links/link-asset/typingmind.com-scenario-blender-animation-scenario-labs.md)** ⚑  free / scenario-labs（Scenario）
+  - Blender で Python 経由のキャラクター／物体アニメを作るとき、エージェントが「再生して目で見る」代わりに数値で判断できるようにするための SKILL.md。バウンシングボール、歩行・走行サイクル、ジャンプ、演技カット、リップシンク、目の動き、ステップドキーでのブロッキング、スプライン化、タイミングと間隔、
 - **[TailSteer-Source](links/link-asset/https-huggingface.co-datasets-lyricccco-tailsteer-source.md)** ⚑  @cutetoxicguy
   - TailSteer学習に使う元画像とtrajectory requestのデータセット。
 - **[TextureLabs](links/link-asset/texturelabs-org.md)**  free / TextureLabs
@@ -970,6 +972,7 @@
 - [Edmond キャラクター三面図（AIペルソナ用ターンアラウンド）](links/link-asset/x.com-edmond-ai.md) — unverified / 【権利】画像の再利用許諾・ライセンスは投稿にも画像にも明記が無く、閲覧はできるが転載・商用利用は許可されていないと解釈するのが妥当。自前キャラで同じレイアウトを再現するための作例として扱い、画像そのものを素材として再配布しない。【文脈】元ポストはpump.funで発行したミームコイン$EDMONDの失敗（ピーク$49.7K→$3.8K）を題材にした分析投稿で、添付画像はそのAIペルソナ「Edmond」の宣材。ポスト内の数値（フォロワー62.8K、再生25.3M、稼得約$15K、出来高$174K等）は投稿者の推計で、TikTok側・オンチェーン側とも一次確認していない（unverified）。画像内のプロフィール表示は62.9K Followers / 2.3M Likesで、ポスト本文の62.8Kとは微妙に食い違う。【未確認】生成元モデル・プロンプト・制作手順（メタデータ無し、動画は単なるキャラ動画で手順説明なし）。【リスク】実在人物風のAIキャラを他者のアカウント群に便乗させて増殖させる手法の一例であり、肖像・商標の模倣にならないよう注意。ミームコインの宣材である点も踏まえ、投資判断の材料にしない。
 - [PLATEAU 5都市GLB 797タイル](links/link-asset/https-huggingface.co-datasets-codepawl-plateau-city-glb.md) — unverified / 原チェックはGLB5686ファイルとCC BY4.0を確認。国交省・自治体の出典と改変明示が必要、公式推奨物ではなく測量用途不可。読み込みは未試験。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Polyfork](links/link-asset/https-polyfork.dev.md) — unverified / メッシュはCC BY4.0またはPolyfork licenceの選択。帰属不要側は再配布不可、mjs/HDは別条件。Pro月15ドル等は原チェック時で現在未確認。 当方でインストール・推論・生成・ベンチ再現はしていない。
+- [Scenario Blender Animation（scenario-labs）](links/link-asset/typingmind.com-scenario-blender-animation-scenario-labs.md) — unverified / TypingMind 経由での利用はアプリのアカウント（買い切りライセンス）が前提。アプリの具体価格はページに静的表示が無く未確認。ページの stars/forks 表示（970/114）は GitHub API 実測（3535/307）と乖離しており、ページ側のメタ情報は古い。スキルは単体完結せず scenario-blender-expert などを前提とするため、フォルダ単体をコピーすると不足する（未導入時はツールスキーマから進み gap を明示する挙動）。
 - [TailSteer-Source](links/link-asset/https-huggingface.co-datasets-lyricccco-tailsteer-source.md) — unverified / 元画像と派生データの利用・再配布条件を分けて確認する。モデル重みではなくデータセットであり品質・権利を一括保証しない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [The Bomi Berzina AI Character Shorts Playbook](links/link-asset/bomiberzina.com-the-bomi-berzina-ai-character-shorts-playbook.md) — unverified / 投稿の「10日で$13K」「10.6M再生」「最大5.6M」は投稿者自身の推計であり一次情報で確認していない。今回実測できたのは TikTok プロフィールの 23.6K フォロワー / 539.7K いいね / 13本（2026-11-08時点、レンダリング取得）で、個別動画の再生数は TikTok の WAF とログイン要求で取得できず未確認。Instagram は HTTP 200 だがログインウォールでプロフィールを読めない。価格 $9.99 は販売ページの表示と JSON-LD で確認し、Stripe の live セッションも実際に発行された（303）が、Stripe ページの金額は JS レンダリングで HTML から読めず、決済額そのものは未確認。PDF 本文は有料で、無料公開のプレビューは2ページ分（02, 04）のみ。17ステップのうち確認できたのは 01, 02, 05, 06, 07, 08 の6ステップとプロンプト2本（キャラクターシート用、Genjutsu の Object Swap 用）だけで、残り11ステップと残りのプロンプト本文は未確認。返金は商品ページに30日と明記されているが、リンク先の規約・返金ページ（smashcourses.com）は汎用文面で Bomi 商品を名指ししておらず、連絡先も商品ページは zenithlawassociates@gmail.com、規約ページは service@officeofagents.com で一致しない。手順06は他者のバイラル動画を第三者のダウンローダー（ytshortsdl.com / snaptik / igexport）で保存しキャラクターを差し替えるよう指示しており、著作権と各SNSの規約上のリスクがある。Jean Phil など他者キャラクターの世界観に便乗する手法も権利面で要注意。同一ドメインのルート https://bomiberzina.com は未発行の Solana ミームコイン「$BB」のプレローンチページ（価格 'Soon'、'CA DROPS AT LAUNCH'）で、ブランドがトークン販売と結び付いている点は別種の高リスクとして扱う。
 - [useAnimations — 動くアイコン300点](links/link-asset/useanimations.com.md) — unverified / 素材を再配布する場合はMITの著作権・許諾表示を保持する。サイトへのクレジットは任意だがライセンス表示義務とは別。全アイコンの表示やSSR動作は当方未試験。 当方では導入・生成・操作の実行検証をしていない。

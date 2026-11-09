@@ -1,5 +1,5 @@
 {
-  "count": 491,
+  "count": 492,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -7005,6 +7005,28 @@
       "signup_required": "unknown",
       "path": "links/link-asset/https-polyfork.dev.md",
       "summary": "GLBと再構築可能なESモジュールでlow-poly3Dモデルを提供するPolyfork。検索・CLI・キー不要MCPを案内。"
+    },
+    {
+      "name": "Scenario Blender Animation（scenario-labs）",
+      "genre": "link-asset",
+      "url": "https://www.typingmind.com/skills/scenario-labs-scenario-blender-animation",
+      "author": "scenario-labs（Scenario）",
+      "pricing": "free",
+      "pricing_detail": "スキルは MIT・無料（GitHub: scenario-labs/skills）。TypingMind への取り込みも無料で、かかるのは自前 API キーのトークン代のみ。TypingMind アプリ本体は買い切りライセンス制（金額は未確認）。",
+      "signup_required": true,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "TypingMind 経由での利用はアプリのアカウント（買い切りライセンス）が前提。アプリの具体価格はページに静的表示が無く未確認。ページの stars/forks 表示（970/114）は GitHub API 実測（3535/307）と乖離しており、ページ側のメタ情報は古い。スキルは単体完結せず scenario-blender-expert などを前提とするため、フォルダ単体をコピーすると不足する（未導入時はツールスキーマから進み gap を明示する挙動）。",
+      "type": "link",
+      "added": "2026-11-09",
+      "first_seen": "2026-11-09",
+      "sources": [
+        "https://x.com/Y0urDumble/status/2113374545302200732"
+      ],
+      "fetched_at": "2026-11-08T20:07:36Z",
+      "path": "links/link-asset/typingmind.com-scenario-blender-animation-scenario-labs.md",
+      "summary": "Blender で Python 経由のキャラクター／物体アニメを作るとき、エージェントが「再生して目で見る」代わりに数値で判断できるようにするための SKILL.md。バウンシングボール、歩行・走行サイクル、ジャンプ、演技カット、リップシンク、目の動き、ステップドキーでのブロッキング、スプライン化、タイミングと間隔、"
     },
     {
       "type": "link",
