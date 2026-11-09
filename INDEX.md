@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 547 件 — リポジトリ 316, リンク集 99, 記事 65, モデル 53, プロンプト 14 / ⚑ 要確認 344 件
+収録 548 件 — リポジトリ 316, リンク集 99, 記事 66, モデル 53, プロンプト 14 / ⚑ 要確認 345 件
 
 ## リポジトリ（316）
 
@@ -828,7 +828,7 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（65）
+## 記事（66）
 
 ### 記事（17）
 
@@ -903,6 +903,12 @@
 - **[Muse×Brainアフィリエイトの役割分担・人間承認設計](articles/2026-11-09-https-x.com-i-article-2119167977438527488.md)** ⚑  @AI_jikan
 - **[Muse・Meta AIへの専用モデル展開と無料プラン誤解の訂正](articles/2026-11-09-https-research.meta.ai-blog-specialized-models-for-muse-and-metaai.md)** ⚑  @k_matsumaru
 
+### プロンプト（デザイン/UI）（3）
+
+- **[CodexのWebデザインslop除去プロンプトと承認・検証フロー](articles/2026-11-09-https-x.com-codex_lab_-status-2119117120554557668.md)** ⚑  @codex_lab_
+- **[Grok Bot の4ボット記憶設計——raw 原本と rules で第二の脳を組むプロンプト](articles/2026-10-24-bober_smart-grok-bot-4-raw-rules.md)** ⚑  @Bober_smart
+- **[落合陽一の公開制作をもとにした二次AIデザイン指針](articles/2026-11-09-https-x.com-kimuai08-article-2079212341250724250.md)** ⚑  @kimuai08
+
 ### コーディングエージェント（2）
 
 - **[ApiiroによるClaude Code settings.local.json資格情報漏洩調査](articles/2026-11-09-https-x.com-yoppy0123-status-2119219945179603110.md)** ⚑  @yoppy0123
@@ -917,11 +923,6 @@
 
 - **[Qwen3.8-Flash-Next量子化乗り換え体験と比較条件](articles/2026-11-09-https-x.com-sasasin_net-status-2118729264149491929.md)** ⚑  @sasasin_net
 - **[Strata実験的control vectorの対象と制限](articles/2026-11-09-topic-strata-experimental-speed-projection.md)** ⚑  @_ryu15_
-
-### プロンプト（デザイン/UI）（2）
-
-- **[CodexのWebデザインslop除去プロンプトと承認・検証フロー](articles/2026-11-09-https-x.com-codex_lab_-status-2119117120554557668.md)** ⚑  @codex_lab_
-- **[落合陽一の公開制作をもとにした二次AIデザイン指針](articles/2026-11-09-https-x.com-kimuai08-article-2079212341250724250.md)** ⚑  @kimuai08
 
 ### RAG・検索（2）
 
@@ -1186,6 +1187,7 @@
 - [AGENTS.md 6節テンプレート（Claude Code / Codex 共用）](prompts/prompt-design/agents.md-6-claude-code-codex-ce272fe27c.md) — unverified / 配布元の同定が部分的。@simplifyinAI が 2026-10-02 に同内容の AGENTS.md テンプレートを投稿していることは確認したが、その投稿の添付画像そのものは取得できておらず、本画像との同一性は未確認。本画像は VS Code のスクリーンショットで、ワークスペース名 token-demo、ステータスバー landon-art であり、オリジナルの作者・リポジトリは特定できていない。同じ33行は @Voxyz_ai 名義の文字起こし（copybook、2026-09-30）にも一致し、初出は不明。ライセンス表記なし。Claude Code 側の AGENTS.md 対応は v2.1.277 以降に限られ、CLAUDE.md があると既定では読まれない点は利用前に確認が必要。
 - [CodexのWebデザインslop除去プロンプトと承認・検証フロー](articles/2026-11-09-https-x.com-codex_lab_-status-2119117120554557668.md) — unverified / 承認前停止は指示でありファイル書込ロックではないと本人も注記。完全な原文をここでは取得していないためpromptを創作せず記事として残す。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Grok 6ボットで回すAIペルソナ農場（Persona Farm）構築プロンプト](prompts/prompt-design/grok-6-ai-persona-farm-0eee1982d3.md) — unverified / 投稿の数値（16,286フォロワー/45本/391返信/$1,386）は本人のデモ動画（day 11/14・15,201フォロワー・40本・3/5トークン・$1,050・画面に illustrative）とも一致せず第三者検証なし。5体のペルソナ実アカウントと $GUS/$OTIS/$LARS のペルソナ由来トークンは未確認（同名の無関係トークンと Otis 株のみ）。自動投稿・大量返信・トークン発行を指示する内容で、各SNSの規約と暗号資産規制に触れ得る。
+- [Grok Bot の4ボット記憶設計——raw 原本と rules で第二の脳を組むプロンプト](articles/2026-10-24-bober_smart-grok-bot-4-raw-rules.md) — unverified / 【主張】投稿は「Grok のボットチームでリークがあった」として、Grok Bot 用の記憶アーキテクチャのシステムプロンプト（second-brain.xml、15セクション）を動画末尾に全文掲載している。【確認できた】①投稿と動画の実体（2026-10-24T12:35:02Z、26.05秒、最終フレームに15セクション全文が判読可能）②プロンプトの設計内容（4ボット／raw/・wiki/・rules.md の3層／conflict_rules 6条／毎時 attention list／夜間チェック等）③Grok Bot 側の前提機能（Bot ごとのメモリ、グループチャット、routine、共有コンピュータ上のファイル）は xAI 公式ドキュメントで確認。【未確認・誤り】①リーク主張は裏付けなし。xAI 公式（x.ai/news、docs.x.ai/grok-bot）にも報道にも「ボットチームのリーク」の発表は見つからない。動画の文面は xAI の内部プロンプトではなく、ユーザーが Grok Bot に与える指示文（"You are my chief of staff and memory architect." で始まる）。同名で実在する Grok Bot 製品プロンプト（asgeirtj/system_prompts_leaks、2026-10-24 更新、211,184 bytes、"You are Grok Bot, a warm, concise desktop assistant."）とは別物で、同日更新のため混同しやすい。②動画は実画面の録画ではなくモック UI。SOURCES 230／PAGES 126→150／UNSOURCED 0→1／STATUS BUILT→CHECK→LIVE とフレーム間で数値が変わり、グループチャットのログも演出。画面の数字は実測値ではない。③投稿の「証拠が無ければ即座に記憶から破棄」はプロンプト本文と不一致。本文は UNSOURCED として人間に確認し、対象外は "skipped" に移して「削除しない」と指示しており、投稿の要約のほうが過激。④技術的妥当性は「製品機能の範囲で組める」まで。指示文に強制力はなく、ボットが raw/ を書き換えない保証も出典照合の実行保証もない。公式ドキュメント自身が「メモリは権威ある情報源の代替ではない」「変わる数値は取り直せ」と警告している。⑤毎時の受信箱・Slack・カレンダー走査と夜間の全 wiki 走査の負荷・トークン消費は未測定。Telegram への1日1通は公式の接続先として確認できず未確認。⑥エンゲージメント設計が強い。「insanely dangerous」「leak」のフック、プロンプトを動画最後に置く構成、"Bookmark this post"、引用先はログインウォールの X 記事（307 でログイン画面へ、本文到達不可）。同アカウントは 2026-10-26 にも "It is becoming f*cking dangerous … $16,400" と同型の投稿をしており、返信欄にも「露出＝公式リークではない」「アフィリエイト投稿」との批判がある。プロンプト自体にアフィリエイトリンクは無い。
 - [SceneAI](links/prompt-design/https-sceneai.art.md) — unverified / 月49ドル/買切199ドルは2026-11-08の記録で現行価格は未確認。有料素材の本文を転載せず、素材数や効果は配布元の案内として扱う。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [shadcn 公式スキル（shadcn/ui agent skill）](links/prompt-design/skills.sh-shadcn-shadcn-ui-agent-skill.md) — unverified / 未確認: (1) 生成される UI の品質・再現性は未実測。リポジトリに evals/evals.json はあるが、公開された採点結果や通過率は確認していない。(2) GitHub の stars は API がレート制限で取得できず、skills.sh 表示の 127.6K を採録（API 実測ではない）。(3) 見本ページ生成の一連の流れは design-system.md / design-system-page.md の記述に基づくもので、当方はアプリの scaffold から通しで実行していない。注意: スキルは SKILL.md 内の !`command` ディレクティブでシェルコマンドを実行し、エージェント権限で動く（skills.sh も警告、Socket 監査は Warn）。skills CLI は既定で匿名テレメトリを送る。DESIGN.md の配色はコミュニティが各ブランドを解釈したもので公式配色ではない（DESIGN.md 側の性質で、本スキルの欠陥ではない）。
 - [キャラクター三面図プロンプト（GPT / MageSpace）](prompts/prompt-design/jackchen1919-character-sheet.md) — unverified / 投稿はプロンプト本文＋生成結果8枚で、特定の製品・モデルの配布ではない。生成画像は著者の作例で、再現性・品質は未検証（当方では生成していない）。実在の人物・既存キャラクターに寄せると権利侵害になり得る。
