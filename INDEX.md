@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 537 件 — リポジトリ 315, リンク集 95, 記事 60, モデル 53, プロンプト 14 / ⚑ 要確認 336 件
+収録 538 件 — リポジトリ 315, リンク集 95, 記事 61, モデル 53, プロンプト 14 / ⚑ 要確認 336 件
 
 ## リポジトリ（315）
 
@@ -819,12 +819,13 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（60）
+## 記事（61）
 
-### 記事（12）
+### 記事（13）
 
 - **[$0のデジタル参謀長で月$80,000の契約候補を作ったというX投稿（動画付き）](articles/2026-10-22-bober_smart-0-80-000-x.md)** ⚑  @Bober_smart
 - **[1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md)** ⚑  @mukadeshinigami（mukade死神）
+- **[AIの出力がバラバラにならなくなる、Pydantic AIの「型で縛る」使い方](articles/2026-10-23-opensourcelab9-ai-pydantic-ai.md)**  opensourcelab9
 - **[AIポスターのヤフオク販売ノウハウ（売上未確認）](articles/2026-11-09-https-x.com-knyan151-status-2119039308242063379.md)** ⚑  @knyan151
 - **[AI作品の売れるコンセプト選定に関する販促記事（本文未取得）](articles/2026-11-09-https-x.com-i-article-2118611825109729280.md)** ⚑  @1banana2546
 - **[ChatGPT + Obsidian で組む英語リスニング訓練システム](articles/2026-09-27-momoai_daily-momoai-chatgpt-obsidian.md)** ⚑  @momoai_daily（momoai沫沫🫧）

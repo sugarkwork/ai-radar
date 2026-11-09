@@ -1,5 +1,5 @@
 {
-  "count": 537,
+  "count": 538,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -4575,6 +4575,23 @@
       ],
       "risk_notes": "X の記事取得でコードブロック（プロンプト雛形・位置合わせスクリプト・Blender スクリプト）が欠落。数値は著者の自己申告で独立検証なし。",
       "path": "articles/2026-10-28-mukadeshinigami-pbr-textures.md"
+    },
+    {
+      "name": "AIの出力がバラバラにならなくなる、Pydantic AIの「型で縛る」使い方",
+      "genre": "article",
+      "url": "https://x.com/i/article/2106661615588327424",
+      "published": "2026-10-23",
+      "author": "opensourcelab9",
+      "flags": [],
+      "risk_notes": "公開日は投稿のcreatedAt（2026-10-23T23:38:27Z）ベース。記事ページは非ログインでログイン画面へ飛ぶため、記事側の独立した公開日は未確認。記事のstars 20,375とv2.54.0は執筆時点（2026-10-03）の値で、2026-11-09時点は21,099 stars・最新v2.66.0。READMEのモデル名は現在 openai:gpt-6.1-sol に変更済み。Issue #1192はnot_plannedで閉じた利用者報告であり、リトライ枯渇の仕様根拠としては弱い。記事はコード未実行を明記。末尾と中盤にLINE登録の配布導線あり。",
+      "type": "article",
+      "added": "2026-11-09",
+      "first_seen": "2026-11-09",
+      "sources": [
+        "https://x.com/opensourcelab9/status/2113777101186969610"
+      ],
+      "fetched_at": "2026-11-09T08:44:06Z",
+      "path": "articles/2026-10-23-opensourcelab9-ai-pydantic-ai.md"
     },
     {
       "type": "article",

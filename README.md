@@ -122,7 +122,7 @@ claude mcp add --transport http ai-radar https://ai-radar.sugar-knight.com/mcp
 ## 索引
 
 <!-- INDEX:START -->
-**収録 537 件** — リポジトリ 315, プロンプト 14, リンク集 95, モデル 53, 記事 60
+**収録 538 件** — リポジトリ 315, プロンプト 14, リンク集 95, モデル 53, 記事 61
 
 | 種類 | 件数 |
 |---|---:|
@@ -130,7 +130,7 @@ claude mcp add --transport http ai-radar https://ai-radar.sugar-knight.com/mcp
 | プロンプト | 14 |
 | リンク集 | 95 |
 | モデル | 53 |
-| 記事 | 60 |
+| 記事 | 61 |
 
 | ジャンル | 件数 |
 |---|---:|
@@ -148,7 +148,7 @@ claude mcp add --transport http ai-radar https://ai-radar.sugar-knight.com/mcp
 | 金融・クオンツ | 17 |
 | リンク（素材・アイコン・3D） | 17 |
 | リンク（サービス・ツール） | 15 |
-| 記事 | 12 |
+| 記事 | 13 |
 | MCPサーバー | 9 |
 | 評価・ベンチマーク | 8 |
 | agent | 6 |
