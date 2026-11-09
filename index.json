@@ -1,5 +1,5 @@
 {
-  "count": 564,
+  "count": 565,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -8150,6 +8150,33 @@
       "signup_required": false,
       "path": "links/link-asset/aicameramovements-com.md",
       "summary": "AI 動画の「カメラが止まって見える」問題を、動きの名前と定型プロンプトで解決する。動きの違いを並べて比較してから選べる。"
+    },
+    {
+      "name": "Cold Email (marketingskills)",
+      "genre": "link-asset",
+      "url": "https://github.com/coreyhaines31/marketingskills/tree/main/skills/cold-email",
+      "author": "coreyhaines31",
+      "pricing": "free",
+      "pricing_detail": "無料。MIT License（GitHub APIのSPDXで確認）。リポジトリはVerified Partnersのスポンサーで運営されるとREADMEに記載。紹介先の配信・検証・CRMツールの利用料は別途。",
+      "signup_required": false,
+      "sources": [
+        "https://github.com/coreyhaines31/marketingskills/tree/main/skills/cold-email",
+        "https://api.github.com/repos/coreyhaines31/marketingskills",
+        "https://raw.githubusercontent.com/coreyhaines31/marketingskills/main/skills/cold-email/SKILL.md",
+        "https://github.com/coreyhaines31/marketingskills#readme",
+        "https://raw.githubusercontent.com/coreyhaines31/marketingskills/main/LICENSE",
+        "https://x.com/Y0urDumble/status/2114428470168334365"
+      ],
+      "first_seen": "2026-10-25",
+      "added": "2026-11-09",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "投稿は『全自動のコールドメール』と宣伝するが、SKILL.mdは文面・フォロー・配信ドメイン設定・返信分類のガイドで、送信基盤やリード抽出は含まず、Instantly等の外部ツールと別Skill（prospecting）に依存する。投稿の48 leads / 12 pitches / 1 signed / $3,000–6,000は未検証。LinkedIn自動化は各サービスの規約リスクがあるとSKILL.md自身が注記している。当方で導入・送信試験はしていない。",
+      "fetched_at": "2026-11-09T18:52:00Z",
+      "type": "link",
+      "path": "links/link-asset/github.com-cold-email-marketingskills.md",
+      "summary": "コールドメールの件名・本文・フォロー・配信ドメイン設定・LinkedIn/電話を含むマルチチャネル手順・返信分類を1つのSkillにまとめたもの。"
     },
     {
       "type": "link",
