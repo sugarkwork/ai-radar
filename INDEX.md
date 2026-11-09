@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 561 件 — リポジトリ 323, リンク集 103, 記事 68, モデル 53, プロンプト 14 / ⚑ 要確認 356 件
+収録 562 件 — リポジトリ 324, リンク集 103, 記事 68, モデル 53, プロンプト 14 / ⚑ 要確認 357 件
 
-## リポジトリ（323）
+## リポジトリ（324）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -79,7 +79,7 @@
 | [utillayer/youtube-agent-skill](entries/video-gen/utillayer-youtube-agent-skill.md) ⚑ | 12 | 2 | 週次 | 16 | 2026-10-29 | 2026-11-09 | 2026-11-09 | MIT |
 | [BennyDaBall930/comfyui_hyperflow_int8_nodes](entries/video-gen/bennydaball930-comfyui_hyperflow_int8_nodes.md) ⚑ | 3 | 0 | 週次 | 9 | 2026-11-08 | 2026-11-09 | 2026-11-09 | GPL-3.0 |
 
-### エージェント基盤・スキル集（62）
+### エージェント基盤・スキル集（63）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -142,6 +142,7 @@
 | [@antfu/skills（npm で配るスキル詰め合わせ）](entries/agent-framework/antfu-skills-pack.md) | 334 | 4 | 週次 | 6 | 2026-10-30 | 2026-11-05 | 2026-11-05 | MIT |
 | [LATCH](entries/agent-framework/balanov-latch.md) | 165 | 0 | 週次 | 16 | 2026-11-04 | 2026-11-05 | 2026-11-05 | MIT |
 | [video-to-skill](entries/agent-framework/brenoepics-video-to-skill.md) | 137 | 15 | 毎日 | 100+ | 2026-11-04 | 2026-11-04 | 2026-11-04 | MIT |
+| [Canny](entries/agent-framework/qkal-canny.md) ⚑ | 134 | 18 | 月次 | 0 | 2026-09-22 | 2026-11-09 | 2026-11-09 | MIT |
 | [CoworkOS](entries/agent-framework/ruc-nlpir-coworkos.md) | 117 | 12 | 週次 | 17 | 2026-11-03 | 2026-11-04 | 2026-11-04 | MIT |
 | [BetterSearch](entries/agent-framework/ry0narushima-bettersearch.md) | 40 | 4 | 週次 | 10 | 2026-10-18 | 2026-11-03 | 2026-11-03 | MIT |
 | [web-api-skills](entries/agent-framework/oxylabs-web-api-skills.md) | 11 | 1 | 月次 | 3 | 2026-10-13 | 2026-11-03 | 2026-11-03 | MIT |
@@ -1030,6 +1031,7 @@
 - [ARTEX](entries/agent-framework/hinln-artex.md) — unverified / ①認可前提: README は「オンラインシステムへの実行は認可の有無を問わず禁止」と明記し、対象はローカルの隔離環境に限るとする。実運用で使うなら著者の許諾と法的根拠の両方が要る。②危険な既定値: worker は Bash/HTTP を実ツールで実行する。0.3.15 の変更履歴は、内蔵の破壊的 HTTP 規則が DELETE メソッドしか見ておらず、GET/POST の削除系エンドポイント（例 `/api/user/delete?id=1`）を実際に叩いてデータを消し得たと述べ、deny 規則を追加したとしている。0.3.15 未満は破壊的操作を止められない前提で扱うべき。③承認ゲートの範囲は未検証: guard/intercept とタスク単位 intercept_rules は存在するが、既定で何が承認待ちになるかの一覧は README・CHANGELOG から特定できない。④MITM の鍵管理: 記録プロキシが CA を発行して TLS を復号し、Bash/HTTP を留痕する。CA 秘密鍵と traffic データの保管・削除は利用者責任で、第三者環境に置くと通信内容がそのまま残る。⑤サプライチェーン: 本リポジトリは上流のバックアップで、Hinln 名義のコミット 1 本が自己更新の取得先を Hinln/ARTEX Releases に変更している。更新は zip 取得→SHA256SUMS 照合→`-h` スモークテスト→入替（3 回失敗でロールバック）という実装だが、配布元が単一アカウントである点は変わらない。取得時点で Releases と tags は 0 件のため更新経路は動かない。⑥記述の不整合: README は「これは私有リポジトリ」として ARTEX_UPDATE_GITHUB_TOKEN（Contents: read）の設定を求めるが、API 上 private=false。トークン前提の更新手順は現状と一致しない。⑦上流の消失: Autumn-27/ARTEX は API 404 で作者の公開リポジトリ一覧にも無い。fork 1941 > star 1427 という比率は一斉ミラーと整合するが、各 fork が同一内容とは限らず、本項では上流タグとのハッシュ照合をしていない。⑧未検証: 本項はコード・README・compose の静的確認のみで、実行・ベンチ・検出率の検証はしていない。効果の数値的裏付けは無い。
 - [ysr666/dsh-vision-router](entries/agent-framework/ysr666-dsh-vision-router.md) — unverified / 画像の外部送信先・API費用・対応モデルの範囲は未確認。名称からすべてのモデルに視覚能力が付くと判断しない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [omdsh-dev/dsh-browser](entries/agent-framework/omdsh-dev-dsh-browser.md) — unverified / 20%高速という値は投稿/READMEの主張で比較条件・独立追試なし。ログイン済みブラウザの操作を無制限に許可しない。 当方でインストール・推論・生成・ベンチ再現はしていない。
+- [Canny](entries/agent-framework/qkal-canny.md) — unverified / 投稿は「Jev repos」の一つとして紹介するが、Canny は TypeSafe 製ではなく qkal 個人のプロジェクトで、Jev は任意の判定器（キー未設定でも決定論的ゲートは動く）。確認できたこと: 実装は実在し src/*.ts 約81KB・test 約97KB、CI（Node 22/24/26 + macOS + smoke + CodeQL）が直近成功、手元で 246 tests passed、Stop の block→allow→replay も実測で再現。確認できなかったこと: star 134 の真正性は API からは検証不能（未確認）。注意すべき事実: 23コミット全てが 2026-09-17〜22 の6日間に1名で入り、以後 48日コミットなし（30日コミット0、contributors は qkal 1名のみ、AI ボット名義のコミットは無く web-flow は GitHub のマージコミッター）。134 stars / 18 forks に対し watchers 0、外部PRは 2026-10-01 と 10-21 から未マージ。README 自身がプロジェクト全体の効果は未測定と明記し、bench も成果差なし（両アーム全通過、25ペアで 1.6±3.4 秒差）。未回答のセキュリティ指摘 issue #26（Jev 判断の乗っ取り JPDH、2026-10-14、コメントなし）が open。既知の実装制限: Windows のパス正規表現（#24）、python3 -m unittest 等の検出漏れ（#27/#28）、シェル経由の書き込み検出は一部記法のみ（find -exec、xargs、python -c 等は不可）。dist/ プリビルト同梱・npm 未配布のため供給網は作者1名に依存。キー設定時は編集差分（4,000字上限）と最終メッセージが TypeSafe に送信される。
 - [Billable Hours Bot](links/agent-framework/https-x.ai-bot-tlgfui0v3nxxmommdvgvr.md) — unverified / 時間集計の正確性と請求・税務の適合性は未試験。接続した資料だけを読むという説明の実効性と現行料金を確認する。送付・決済を無確認で実行しない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Bot Office](links/agent-framework/https-x.ai-bot-_di6heboa0cfwftnsxxcm.md) — unverified / 監視の正確性・見逃し・証拠リンクの完全性は未検証。xAI公式ボットの保証ではなく第三者製。権限・クラウド共有範囲・現行価格を確認する。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Bram Product Engineer](links/agent-framework/https-x.ai-bot-aybbuyfvfcxkkw2hilu-n.md) — unverified / 質問・基準・指示文の品質や実装の正しさは未試験。作者の一覧への謝意は動作実証ではない。現行価格と接続権限を確認する。 当方でインストール・推論・生成・ベンチ再現はしていない。

@@ -1,5 +1,5 @@
 {
-  "count": 561,
+  "count": 562,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -4089,6 +4089,40 @@
       "type": "repo",
       "path": "entries/agent-framework/brenoepics-video-to-skill.md",
       "summary": "チュートリアル動画（YouTube のURL、またはローカルの動画ファイル）を、コーディングエージェントが繰り返し使える**手順書（Skill）**に変換する。"
+    },
+    {
+      "repo": "qkal/canny",
+      "name": "Canny",
+      "genre": "agent-framework",
+      "url": "https://github.com/qkal/canny",
+      "author": "qkal (Kal)",
+      "license": "MIT",
+      "stars": 134,
+      "language": "TypeScript",
+      "created": "2026-09-11",
+      "updated": "2026-09-22",
+      "forks": 18,
+      "open_issues": 6,
+      "size_kb": 266,
+      "archived": false,
+      "commits_30d": 0,
+      "commits_90d": 23,
+      "commit_cadence": "monthly",
+      "last_release": "v0.3.0",
+      "last_release_at": "2026-09-22",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "投稿は「Jev repos」の一つとして紹介するが、Canny は TypeSafe 製ではなく qkal 個人のプロジェクトで、Jev は任意の判定器（キー未設定でも決定論的ゲートは動く）。確認できたこと: 実装は実在し src/*.ts 約81KB・test 約97KB、CI（Node 22/24/26 + macOS + smoke + CodeQL）が直近成功、手元で 246 tests passed、Stop の block→allow→replay も実測で再現。確認できなかったこと: star 134 の真正性は API からは検証不能（未確認）。注意すべき事実: 23コミット全てが 2026-09-17〜22 の6日間に1名で入り、以後 48日コミットなし（30日コミット0、contributors は qkal 1名のみ、AI ボット名義のコミットは無く web-flow は GitHub のマージコミッター）。134 stars / 18 forks に対し watchers 0、外部PRは 2026-10-01 と 10-21 から未マージ。README 自身がプロジェクト全体の効果は未測定と明記し、bench も成果差なし（両アーム全通過、25ペアで 1.6±3.4 秒差）。未回答のセキュリティ指摘 issue #26（Jev 判断の乗っ取り JPDH、2026-10-14、コメントなし）が open。既知の実装制限: Windows のパス正規表現（#24）、python3 -m unittest 等の検出漏れ（#27/#28）、シェル経由の書き込み検出は一部記法のみ（find -exec、xargs、python -c 等は不可）。dist/ プリビルト同梱・npm 未配布のため供給網は作者1名に依存。キー設定時は編集差分（4,000字上限）と最終メッセージが TypeSafe に送信される。",
+      "type": "repo",
+      "added": "2026-11-09",
+      "first_seen": "2026-11-09",
+      "sources": [
+        "https://x.com/thegreatest_sv/status/2114378197932617766"
+      ],
+      "fetched_at": "2026-11-09T17:32:10Z",
+      "path": "entries/agent-framework/qkal-canny.md",
+      "summary": "Claude Code と Codex CLI のフックとして動き、コード編集の後にテスト・ビルド・lint・型チェックが一度も exit 0 で通っていない状態でエージェントが「完了」と報告すると、Stop をブロックして理由（変更ファイル、最後のコマンドと終了コード、何がチェックに数えるか）を返す。"
     },
     {
       "repo": "RUC-NLPIR/CoworkOS",
