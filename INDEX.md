@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 528 件 — リポジトリ 310, リンク集 92, 記事 59, モデル 53, プロンプト 14 / ⚑ 要確認 327 件
+収録 529 件 — リポジトリ 311, リンク集 92, 記事 59, モデル 53, プロンプト 14 / ⚑ 要確認 328 件
 
-## リポジトリ（310）
+## リポジトリ（311）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -79,7 +79,7 @@
 | [utillayer/youtube-agent-skill](entries/video-gen/utillayer-youtube-agent-skill.md) ⚑ | 12 | 2 | 週次 | 16 | 2026-10-29 | 2026-11-09 | 2026-11-09 | MIT |
 | [BennyDaBall930/comfyui_hyperflow_int8_nodes](entries/video-gen/bennydaball930-comfyui_hyperflow_int8_nodes.md) ⚑ | 3 | 0 | 週次 | 9 | 2026-11-08 | 2026-11-09 | 2026-11-09 | GPL-3.0 |
 
-### エージェント基盤・スキル集（59）
+### エージェント基盤・スキル集（60）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -115,6 +115,7 @@
 | [InkOS](entries/agent-framework/narcooo-inkos.md) | 11,002 | 2,002 | 週次 | 6 | 2026-10-24 | 2026-11-04 | 2026-11-04 | AGPL-3.0 |
 | [jakubkrehel/skills（UI デザインスキル集）](entries/agent-framework/jakubkrehel-skills.md) | 10,894 | 421 | 毎日 | 31 | 2026-11-02 | 2026-11-05 | 2026-11-05 | MIT |
 | [zhu1090093659/dsh-web](entries/agent-framework/zhu1090093659-dsh-web.md) ⚑ | 10,237 | 626 | 毎日 | 100+ | 2026-11-08 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
+| [CyberStrikeAI](entries/agent-framework/aipentest-cyberstrikeai.md) ⚑ | 8,488 | 1,870 | 毎日 | 100+ | 2026-11-08 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
 | [HKUDS/AgentPilot](entries/agent-framework/hkuds-agentpilot.md) ⚑ | 7,961 | 938 | 月次 | 3 | 2026-11-06 | 2026-11-09 | 2026-11-09 | MIT |
 | [unslop](entries/agent-framework/heydamir-unslop.md) | 7,557 | 381 | 週次 | 12 | 2026-11-01 | 2026-11-04 | 2026-11-04 | CC-BY-4.0 |
 | [ccch1mneyyy/dsh-TUI](entries/agent-framework/ccch1mneyyy-dsh-tui.md) ⚑ | 7,235 | 350 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | MIT |
@@ -970,6 +971,7 @@
 - [Worktrunk](entries/agent-framework/max-sixty-worktrunk.md) — unverified / 発見元の投稿は画面録画MCP（t.co リンク先は gmpetrov/agent-screenplay）の紹介で、worktrunk はそのツールではない。worktrunk は git worktree 管理 CLI で、投稿本文に worktrunk への言及はない。数値・機能は worktrunk 自身の API/README/公式ドキュメントで確認した。
 - [dsh-market/dsh-market](entries/agent-framework/dsh-market-dsh-market.md) — unverified / 4200以上のプラグインという数は投稿/READMEの主張で独立確認なし。市場の掲載は各プラグインの安全性保証ではない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [zhu1090093659/dsh-web](entries/agent-framework/zhu1090093659-dsh-web.md) — unverified / 10選への掲載とGitHub実在確認は動作試験ではない。外部公開時の安全性・セッション保持・料金は未確認。 当方でインストール・推論・生成・ベンチ再現はしていない。
+- [CyberStrikeAI](entries/agent-framework/aipentest-cyberstrikeai.md) — unverified / 認可前提: README と security-model.md が「所有または明示的に許可されたシステムにのみ使用」と明記する高権限ツール。WebShell 管理・内蔵 C2（リスナー、暗号化ビーコン、セッション、ペイロード生成）・Metasploit / mimikatz / responder などのポストエクスプロイト系レシピを含み、認可なき標的への実行は違法行為になり得る。実装上の注意として、security-model.md は「c2.enabled: false unless required」を本番基準とする一方、リポジトリ同梱の config.example.yaml は `c2: enabled: true`（省略時も既定で有効とのコメント付き）であり、既定値の解釈が文書間で一致しない。HTTP API はトークンをクエリ文字列でも受け付けるため、ログ経由の漏えいに注意。プロンプトインジェクションは標的側の応答がエージェントのツール選択に影響し得る脅威として security-model.md 自身が挙げている。未検証範囲: 有効性（検出率・成功率）の第三者実測は無く、README の網羅性主張とベンチマーク非公開のまま。実運用での誤検知率、C2/WebShell の検知回避性能、マルチエージェント編成の品質は未確認。
 - [HKUDS/AgentPilot](entries/agent-framework/hkuds-agentpilot.md) — unverified / Terminal-Bench 63.8%・AIME改善はREADMEの自己報告。9B戦略モデルの重みの取得方法は原チェックで確認できていない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [ccch1mneyyy/dsh-TUI](entries/agent-framework/ccch1mneyyy-dsh-tui.md) — unverified / 「DSH公式推薦」は投稿の主張で公式根拠未確認。DeepSeek公式配布と断定せず、CLI操作は未実行。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [omdsh-dev/DSH-better-sidebar](entries/agent-framework/omdsh-dev-dsh-better-sidebar.md) — unverified / 一覧への掲載を独立した使い勝手評価に変えない。具体的な互換性・設定保持・安全性は未検証。 当方でインストール・推論・生成・ベンチ再現はしていない。
