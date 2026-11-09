@@ -1,5 +1,5 @@
 {
-  "count": 535,
+  "count": 536,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -8261,6 +8261,28 @@
       "fetched_at": "2026-11-08T20:01:10Z",
       "path": "links/link-inspiration/x.com-mosquito-man-14-bober_smart.md",
       "summary": "AI生成を使わず、家庭にある素材だけで作った「異形の見た目」で短尺動画の冒頭0.5秒を止める、という発想の参照例。@Bober_smart が2026-10-22に「ドイツの23歳が24時間で6M再生、費用$0、これはAIではなく実在の人物」と紹介して拡散した。"
+    },
+    {
+      "name": "Opus Edit Machine",
+      "genre": "link-inspiration",
+      "url": "https://opus-edit-machine.vercel.app/",
+      "pricing": "free",
+      "pricing_detail": "無料。ページ内に料金表示・課金導線・アカウント機能はなく、three.js の静的サイトとして配信されている（2026-11-09 時点）。",
+      "signup_required": false,
+      "author": "Dumble (@Y0urDumble)",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "ページ自身が『The footage, timings and counts are a simulation for teaching, not a benchmark.』と明記しており、40:12 → 00:58 は画面内の固定値であって実測ではない。動作するのは3Dデスクの操作と、工程ごとのプロンプトのコピーまで。プロンプトを Claude に渡して実際に58秒の編集が出るかは未検証。投稿の『Opus 5.5 が After Effects を代替した』も投稿者の主張で、Anthropic 公式に動画編集向け pre-built skill はない（文書系4種のみ）。なお Claude Opus 5.5 自体の存在は Anthropic 公式で確認できる（2026-09-22 公開、$4/$20 per MTok）。",
+      "type": "link",
+      "added": "2026-11-09",
+      "first_seen": "2026-11-09",
+      "sources": [
+        "https://x.com/Y0urDumble/status/2113730624989102489"
+      ],
+      "fetched_at": "2026-11-09T07:41:05Z",
+      "path": "links/link-inspiration/opus-edit-machine.vercel.app-opus-edit-machine.md",
+      "summary": "「40分の生素材が58秒の縦動画になるまで」を、8つの工程（station）に分解して体感するためのブラウザ教材。実際に動画を編集するツールではなく、各工程で何を判断しているか・どこを間違えやすいかを3Dデスク上で再現する。制作者は映像編集者・モーションデザイナーで、AI 編集パイプラインの工程分解を示す目的で作られて"
     },
     {
       "type": "link",

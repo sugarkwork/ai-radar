@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 535 件 — リポジトリ 315, リンク集 94, 記事 59, モデル 53, プロンプト 14 / ⚑ 要確認 334 件
+収録 536 件 — リポジトリ 315, リンク集 95, 記事 59, モデル 53, プロンプト 14 / ⚑ 要確認 335 件
 
 ## リポジトリ（315）
 
@@ -450,9 +450,9 @@
 - **[MiniMax H3：20種のダンスと音楽指定](prompts/video-gen/minimax-h3-20-dance-music.md)** ⚑  MiniMax H3 / EndFolding79421
   - キャラクターシートを参照し、6秒間の全身ダンスと音楽・環境音を指示するための投稿者のテンプレート。ダンス20種類の音楽指定例を含む。
 
-## リンク集（94）
+## リンク集（95）
 
-### リンク（作例・インスピレーション）（17）
+### リンク（作例・インスピレーション）（18）
 
 - **[BestAIBuilder](links/link-inspiration/bestaibuilder-website.md)**  free / BestAIBuilder
   - AI サイトビルダーを横並びで比較するためのランキングサイト。「同じブリーフで全ツールにサイトを作らせ、craft / speed / control / value で採点した」という前提を掲げ、101ツールを順位付けしている。
@@ -476,6 +476,8 @@
   - X 上で共有されたプロダクトローンチ動画を日次で集めた作例ギャラリー。ローンチ動画の構成や演出を参考にするためのもの。
 - **[Mosquito Man — 段ボールとアルミホイルの即席マスクで撮った14秒一発撮り動画（@Bober_smart が紹介）](links/link-inspiration/x.com-mosquito-man-14-bober_smart.md)** ⚑  free / @Bober_smart（紹介者。映像の原作者は投稿に記載なし）
   - AI生成を使わず、家庭にある素材だけで作った「異形の見た目」で短尺動画の冒頭0.5秒を止める、という発想の参照例。@Bober_smart が2026-10-22に「ドイツの23歳が24時間で6M再生、費用$0、これはAIではなく実在の人物」と紹介して拡散した。
+- **[Opus Edit Machine](links/link-inspiration/opus-edit-machine.vercel.app-opus-edit-machine.md)** ⚑  free / Dumble (@Y0urDumble)
+  - 「40分の生素材が58秒の縦動画になるまで」を、8つの工程（station）に分解して体感するためのブラウザ教材。実際に動画を編集するツールではなく、各工程で何を判断しているか・どこを間違えやすいかを3Dデスク上で再現する。制作者は映像編集者・モーションデザイナーで、AI 編集パイプラインの工程分解を示す目的で作られて
 - **[Ripplix](links/link-inspiration/ripplix.com.md)** ⚑  freemium / Ripplix
   - 実在アプリのUIアニメーションから、動きと再現指示を学ぶ。
 - **[Scrolltide](links/link-inspiration/scrolltide-co.md)**  paid / Scrolltide
@@ -1094,6 +1096,7 @@
 - [Land-book](links/link-inspiration/https-land-book.com.md) — unverified / 一覧にあることをAI機能の存在や商用コピーの許諾に読み替えない。現行料金・有料機能・転載条件は未確認。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Landdding](links/link-inspiration/landdding-com.md) — unverified / 一覧の掲載は個別機能の実行確認ではない。 今回の動作・推論・生成・性能は未検証。
 - [Mosquito Man — 段ボールとアルミホイルの即席マスクで撮った14秒一発撮り動画（@Bober_smart が紹介）](links/link-inspiration/x.com-mosquito-man-14-bober_smart.md) — unverified / 【主張と実測】投稿は「ドイツの23歳が24時間で6M再生、費用$0、AIではなく実在の人物、アルミホイル・段ボール・テープ、編集なしの一発撮り」と主張するが、確認できたのは映像そのものの性質だけ。(1) 動画は実取得でき（HTTP 200、7,012,859 bytes、14.164秒、1080x1558、60fps、H.264/AAC）、ffmpeg のシーン検出（閾値0.25）でカット点は0、音声は0.25秒窓56個すべて非無音で連続しており、「一発撮り・編集なし」という主張とは矛盾しない。ただし連続ショットであることは撮影が無編集だった証明ではない。(2) フレーム（0/2/4/6/8/10/12秒）で見えた意匠は、肌色の布/テープで覆った頭、白い円盤に黒丸の巨大な目、額から顎へ垂れる細長い紙/段ボールの帯（蚊の口吻に見立てた鼻、先端に赤い着色）、左右に突き出すしわくちゃのアルミホイル、細い棒（串/ストロー状）、無地のベージュのトレーナー、背景は灰色の縦プリーツのカーテン。文字・ロゴ・ウォーターマークは無し。素材の内訳は投稿の説明（ホイル・段ボール・テープ）と概ね一致するが、テープの使用箇所や接着方法は判別できない。(3) 音声は連続した有声（支配周波数 約225Hz、倍音構造あり）だが、内容（蚊の羽音の物真似か、声か）は聴取していないため未確認。(4) この投稿自体の実測は views 4,561 / likes 87 / bookmarks 25（2026-11-08）。「24時間で6M再生」は元動画の数字で、元の投稿者・アカウント・原典URLが投稿にも動画にも無く、こちらでは確認できていない（同日時点でこの紹介投稿は6Mに全く届いていない）。(5) 映像の原作者・撮影者・公開日・初出プラットフォームは不明。@Bober_smart は「ドイツの23歳」と紹介するだけで本人特定につながる情報が無く、クレジット無しの転載の可能性がある。したがって権利・許諾は未確認で、この動画をそのまま再配布してはいけない。【引用リンクの注意】投稿は自分の旧投稿（2078784709253841039、2026-07-19）を引用しているが、そのt.coはX Article 2078778232250183680「Claude Second Brain & Folder Workflow: The Complete Guide」（Markdownフォルダ＋CLAUDE.md索引の解説、6,504 chars）に解決する。内容は本動画（蚊男の工作）と無関係な過去記事の自己宣伝であり、「下に置いたセットアップ」等の配布物ではない。記事自体はログイン必須（未ログインはログインリダイレクト、HTTP 200）。
+- [Opus Edit Machine](links/link-inspiration/opus-edit-machine.vercel.app-opus-edit-machine.md) — unverified / ページ自身が『The footage, timings and counts are a simulation for teaching, not a benchmark.』と明記しており、40:12 → 00:58 は画面内の固定値であって実測ではない。動作するのは3Dデスクの操作と、工程ごとのプロンプトのコピーまで。プロンプトを Claude に渡して実際に58秒の編集が出るかは未検証。投稿の『Opus 5.5 が After Effects を代替した』も投稿者の主張で、Anthropic 公式に動画編集向け pre-built skill はない（文書系4種のみ）。なお Claude Opus 5.5 自体の存在は Anthropic 公式で確認できる（2026-09-22 公開、$4/$20 per MTok）。
 - [Ripplix](links/link-inspiration/ripplix.com.md) — unverified / 件数と80–90%再現という表現はサイト側の主張で、全件数や生成品質は未検証。参照動画の転載権と、コードを自作することは別。 当方では導入・生成・操作の実行検証をしていない。
 - [recent.design](links/link-inspiration/https-recent.design.md) — unverified / 各作例の模倣・再配布は別途権利確認が必要。現在の有料条件と利用規約は未確認。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [uilabs — 動きのあるUI部品集](links/link-inspiration/uilabs.dev.md) — unverified / 投稿の12部品という総数は今回独立に数えていない。コードをプロジェクトに組み込む前に各部品の配布・利用条件を確認する。 当方では導入・生成・操作の実行検証をしていない。
