@@ -1,5 +1,5 @@
 {
-  "count": 555,
+  "count": 556,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -10612,6 +10612,40 @@
       "type": "repo",
       "path": "entries/other/iofficeai-officecli.md",
       "summary": "Word（.docx）・Excel（.xlsx）・PowerPoint（.pptx）を、**Office をインストールせずに**読み・書き・自動化する単一バイナリのCLI。ネイティブ依存なし。"
+    },
+    {
+      "type": "repo",
+      "repo": "googleworkspace/cli",
+      "name": "Google Workspace CLI (gws)",
+      "genre": "other",
+      "url": "https://github.com/googleworkspace/cli",
+      "author": "googleworkspace (Google)",
+      "license": "Apache-2.0",
+      "stars": 32203,
+      "language": "Rust",
+      "created": "2026-03-02",
+      "updated": "2026-11-03",
+      "forks": 1987,
+      "open_issues": 136,
+      "commits_30d": 1,
+      "commits_90d": 1,
+      "commit_cadence": "monthly",
+      "size_kb": 10738,
+      "archived": false,
+      "last_release": "v0.22.5",
+      "last_release_at": "2026-03-31",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "README 冒頭に「This is not an officially supported Google product.」と明記されており、googleworkspace org 配下でも公式サポート製品ではない。Claude/Anthropic への言及はなく、Claude Code から使えるかは Bash ツール経由で CLI を呼ぶ一般経路の推測で、リポジトリ側の検証はない。最終リリースは 2026-03-31、90日コミットは 2026-10-30 の CI 修正1件のみで開発は停滞している。README はスキル数を 40+ と 100+ の両方で書いており、実際の skills/ は95ディレクトリ。API の課金額は各 GCP プロジェクトのクォータ次第で、料金表は確認していない。",
+      "added": "2026-11-09",
+      "first_seen": "2026-11-09",
+      "sources": [
+        "https://x.com/thegreatest_sv/status/2114326860326723736"
+      ],
+      "fetched_at": "2026-11-09T15:07:38Z",
+      "path": "entries/other/googleworkspace-cli.md",
+      "summary": "Gmail・Drive・Calendar・Sheets・Docs・Chat・Admin など Workspace の各 API を gws <service> <resource> <method> の1コマンドで呼び、結果を JSON で返す（例: gws drive files list --params '{\"p"
     },
     {
       "repo": "Thysrael/Horizon",
