@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 563 件 — リポジトリ 325, リンク集 103, 記事 68, モデル 53, プロンプト 14 / ⚑ 要確認 358 件
+収録 564 件 — リポジトリ 325, リンク集 104, 記事 68, モデル 53, プロンプト 14 / ⚑ 要確認 359 件
 
 ## リポジトリ（325）
 
@@ -460,7 +460,7 @@
 - **[MiniMax H3：20種のダンスと音楽指定](prompts/video-gen/minimax-h3-20-dance-music.md)** ⚑  MiniMax H3 / EndFolding79421
   - キャラクターシートを参照し、6秒間の全身ダンスと音楽・環境音を指示するための投稿者のテンプレート。ダンス20種類の音楽指定例を含む。
 
-## リンク集（103）
+## リンク集（104）
 
 ### リンク（作例・インスピレーション）（18）
 
@@ -501,12 +501,14 @@
 - **[uilabs — 動きのあるUI部品集](links/link-inspiration/uilabs.dev.md)** ⚑  uilabs — 動きのあるUI部品集
   - React UIの操作とモーションの実装例を調べる小さな部品集。
 
-### リンク（素材・アイコン・3D）（16）
+### リンク（素材・アイコン・3D）（17）
 
 - **[AI Camera Movements（カメラワーク46種のプロンプト）](links/link-asset/aicameramovements-com.md)**  free / aicameramovements.com
   - AI 動画の「カメラが止まって見える」問題を、動きの名前と定型プロンプトで解決する。動きの違いを並べて比較してから選べる。
 - **[Edmond キャラクター三面図（AIペルソナ用ターンアラウンド）](links/link-asset/x.com-edmond-ai.md)** ⚑  free / @Y0urDumble
   - AIで作った人物を毎回同じ見た目でショート動画に出すための、参照画像（キャラクターシート）の実例。1枚の中に全身の向きと顔の寄りを揃えてあり、画像生成・動画生成モデルに「この人物」を渡すときの入力として使う。
+- **[Lead Research Assistant (ComposioHQ)](links/link-asset/github.com-lead-research-assistant-composiohq.md)** ⚑  free / ComposioHQ
+  - 自社製品・ICPを入力に、対象企業の候補、適合スコア、意思決定者の役割、接触時の切り口を整理するSkill。営業・BD・マーケティングの下調べを短縮する用途。
 - **[Melies 撮影技法ライブラリ（424種）](links/link-asset/melies-co-cinematic-techniques.md)**  Melies
   - AI 動画のプロンプトに「映画の語彙」を持ち込むための事典。技法名から入って、意味・作例・そのまま使えるプロンプトを引く。
 - **[Mio's Pose Designs Vol. 11](links/link-asset/mio-pose-designs-vol11.md)**  free / @Mio_2am
@@ -1131,6 +1133,7 @@
 - [lucas-martinic/polyfork-catalog](entries/link-asset/lucas-martinic-polyfork-catalog.md) — unverified / LICENSE.mdはindexのみ。各メッシュやmjsを同条件で再配布できない。投稿の2791件は原チェック時3077件より古い。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [idlerunner00/procedural-pixel-creatures](entries/link-asset/idlerunner00-procedural-pixel-creatures.md) — unverified / AI画像を生成するモデルではなく手続き型生成。95%が一プロンプト由来という制作比率は作者推定。原チェック時30日commit0で実機未確認。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Edmond キャラクター三面図（AIペルソナ用ターンアラウンド）](links/link-asset/x.com-edmond-ai.md) — unverified / 【権利】画像の再利用許諾・ライセンスは投稿にも画像にも明記が無く、閲覧はできるが転載・商用利用は許可されていないと解釈するのが妥当。自前キャラで同じレイアウトを再現するための作例として扱い、画像そのものを素材として再配布しない。【文脈】元ポストはpump.funで発行したミームコイン$EDMONDの失敗（ピーク$49.7K→$3.8K）を題材にした分析投稿で、添付画像はそのAIペルソナ「Edmond」の宣材。ポスト内の数値（フォロワー62.8K、再生25.3M、稼得約$15K、出来高$174K等）は投稿者の推計で、TikTok側・オンチェーン側とも一次確認していない（unverified）。画像内のプロフィール表示は62.9K Followers / 2.3M Likesで、ポスト本文の62.8Kとは微妙に食い違う。【未確認】生成元モデル・プロンプト・制作手順（メタデータ無し、動画は単なるキャラ動画で手順説明なし）。【リスク】実在人物風のAIキャラを他者のアカウント群に便乗させて増殖させる手法の一例であり、肖像・商標の模倣にならないよう注意。ミームコインの宣材である点も踏まえ、投資判断の材料にしない。
+- [Lead Research Assistant (ComposioHQ)](links/link-asset/github.com-lead-research-assistant-composiohq.md) — unverified / 投稿は『AIスタートアップを今月ローンチ予定から自動抽出』『48 leads / 12 pitches / 1 signed / $3,000–6,000 / 0 employees』と宣伝するが、SKILL.mdは製品理解→ICP定義→企業検索→1〜10の適合スコア→接触案の出力を指示する文面で、検索API・CRM連携・送信コードは同梱しない。数値と全自動性は投稿の主張で未検証。リポジトリAPIのlicenseはnullでLICENSEファイルは404、READMEのApache-2.0記載と個別skillの条件は一致しないため、再配布・商用利用の前に原文を確認する。当方で導入・実行はしていない。
 - [Mio's Pose Designs Vol. 18](links/link-asset/mio-pose-designs-vol18.md) — unverified / 画像や3Dモデル自体を素材として再配布できる許諾とは限らない。引用元のVol.11は別の投稿。
 - [PLATEAU 5都市GLB 797タイル](links/link-asset/https-huggingface.co-datasets-codepawl-plateau-city-glb.md) — unverified / 原チェックはGLB5686ファイルとCC BY4.0を確認。国交省・自治体の出典と改変明示が必要、公式推奨物ではなく測量用途不可。読み込みは未試験。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Poly Haven](links/link-asset/polyhaven.com-poly-haven.md) — unverified / CC0・無料・アカウント不要は公式ライセンスページで確認。『luxury = 90% lighting』は投稿者の意見で、動画内のレンダーが Poly Haven のどの HDRI/テクスチャを使ったかはクレジットもファイル名もなく特定できない。公開 JSON API は 200 を確認したが、アセットごとの解像度・ファイルサイズ・レート制限は公式ページの表示範囲では未確認。投稿の $1,500–5,000 や 15秒/4ショット/3フォーマットの納品実績は未検証。

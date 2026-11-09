@@ -1,5 +1,5 @@
 {
-  "count": 563,
+  "count": 564,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -8174,6 +8174,32 @@
       "first_seen": "2026-11-08",
       "path": "links/link-asset/x.com-edmond-ai.md",
       "summary": "AIで作った人物を毎回同じ見た目でショート動画に出すための、参照画像（キャラクターシート）の実例。1枚の中に全身の向きと顔の寄りを揃えてあり、画像生成・動画生成モデルに「この人物」を渡すときの入力として使う。"
+    },
+    {
+      "name": "Lead Research Assistant (ComposioHQ)",
+      "genre": "link-asset",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/lead-research-assistant",
+      "author": "ComposioHQ",
+      "pricing": "free",
+      "pricing_detail": "無料。公開GitHubリポジトリで、SKILL.mdの取得・利用に課金もアカウントも不要。ただしGitHub APIのlicenseはnull、ルートと当該フォルダのLICENSEは404で、READMEのApache-2.0記載は個別skillの許諾を保証しない（2026-11-09確認）。ComposioのMCP Gatewayは別サービスの課金対象。",
+      "signup_required": false,
+      "sources": [
+        "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/lead-research-assistant",
+        "https://api.github.com/repos/ComposioHQ/awesome-claude-skills/contents/lead-research-assistant",
+        "https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/lead-research-assistant/SKILL.md",
+        "https://github.com/ComposioHQ/awesome-claude-skills#readme",
+        "https://x.com/Y0urDumble/status/2114428470168334365"
+      ],
+      "first_seen": "2026-10-25",
+      "added": "2026-11-09",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "投稿は『AIスタートアップを今月ローンチ予定から自動抽出』『48 leads / 12 pitches / 1 signed / $3,000–6,000 / 0 employees』と宣伝するが、SKILL.mdは製品理解→ICP定義→企業検索→1〜10の適合スコア→接触案の出力を指示する文面で、検索API・CRM連携・送信コードは同梱しない。数値と全自動性は投稿の主張で未検証。リポジトリAPIのlicenseはnullでLICENSEファイルは404、READMEのApache-2.0記載と個別skillの条件は一致しないため、再配布・商用利用の前に原文を確認する。当方で導入・実行はしていない。",
+      "fetched_at": "2026-11-09T18:52:00Z",
+      "type": "link",
+      "path": "links/link-asset/github.com-lead-research-assistant-composiohq.md",
+      "summary": "自社製品・ICPを入力に、対象企業の候補、適合スコア、意思決定者の役割、接触時の切り口を整理するSkill。営業・BD・マーケティングの下調べを短縮する用途。"
     },
     {
       "type": "link",
