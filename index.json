@@ -1,5 +1,5 @@
 {
-  "count": 278,
+  "count": 279,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -2243,6 +2243,40 @@
       "risk_notes": "2026-10-10時点「スター28万超」という記事の数字は当時の値を再現できず、2026-11-08実測は318,171（記事の数字は古いスナップショットで、現在は上回る）。種動画の内容は説明欄のチャプター（5段）と公開日まで確認、本編の逐語と図版は未確認。動画側の「22 million+ people use them」は一次確認なし（記事はこの種のインストール数を載せていない）。効果（送り返しの減少）の第三者計測は記事にも当方にも見つからない。記事は本文中2箇所でLINE友だち追加による「Skill10選」配布へ誘導する販促導線を含む。",
       "fetched_at": "2026-11-08T13:26:55Z",
       "path": "articles/2026-10-20-sumika45379-skills-studio-skill-skill-matt-pocock.md"
+    },
+    {
+      "repo": "multica-ai/andrej-karpathy-skills",
+      "name": "Karpathy Guidelines（karpathy-guidelines スキル）",
+      "genre": "coding-agent",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "license": "unknown",
+      "stars": 230810,
+      "language": "",
+      "created": "2026-01-27",
+      "updated": "2026-04-20",
+      "forks": 22965,
+      "open_issues": 139,
+      "commits_30d": 0,
+      "commit_cadence": "stale",
+      "commits_90d": 0,
+      "size_kb": 20,
+      "archived": false,
+      "last_release": "",
+      "last_release_at": "",
+      "author": "forrestchang（multica-ai 組織）",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "効果は未検証：README の定性チェックリスト以外に実測・ベンチマークがなく、効能は著者の主張にとどまる。Karpathy 本人の監修・寄稿はなく、第三者が本人のX投稿（2026-01-26）を4原則に再構成した非公式プロジェクト（旧リビジョンの README には非公式である旨の免責があったが現行 README では削除済み）。ライセンスは LICENSE ファイルがなく API は null（README・SKILL.md・plugin.json は MIT と記載）のため unknown 扱い。2026-04-20 以降コミットがなく stale、open_issues 139 は Issues 無効化（has_issues=false）のため実質 PR。README のインストール手順は forrestchang 名義の URL で、multica-ai へ301リダイレクトする移管前の記述のまま。",
+      "type": "repo",
+      "added": "2026-11-09",
+      "first_seen": "2026-11-09",
+      "sources": [
+        "https://x.com/sumika45379/status/2112884125120319643"
+      ],
+      "fetched_at": "2026-11-08T15:09:44Z",
+      "path": "entries/coding-agent/multica-ai-andrej-karpathy-skills.md",
+      "summary": "AI コーディングの失敗を減らす4原則を、そのままエージェントに読ませられる形で提供する：Think Before Coding（仮定を明示し、曖昧なら止まって聞く）、Simplicity First（頼まれた以上の機能・抽象化を作らない）、Surgical Changes（依頼に直結する行だけ変える）、Goal-Dr"
     },
     {
       "repo": "addyosmani/agent-skills",
