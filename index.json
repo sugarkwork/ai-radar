@@ -1,5 +1,5 @@
 {
-  "count": 469,
+  "count": 470,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -4210,6 +4210,40 @@
       "fetched_at": "2026-11-08T15:09:44Z",
       "path": "entries/coding-agent/multica-ai-andrej-karpathy-skills.md",
       "summary": "AI コーディングの失敗を減らす4原則を、そのままエージェントに読ませられる形で提供する：Think Before Coding（仮定を明示し、曖昧なら止まって聞く）、Simplicity First（頼まれた以上の機能・抽象化を作らない）、Surgical Changes（依頼に直結する行だけ変える）、Goal-Dr"
+    },
+    {
+      "repo": "JuliusBrussee/caveman",
+      "name": "Caveman",
+      "genre": "coding-agent",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "author": "Julius Brussee",
+      "license": "Apache-2.0",
+      "stars": 118293,
+      "language": "Go",
+      "created": "2026-04-04",
+      "updated": "2026-11-08",
+      "forks": 6883,
+      "open_issues": 70,
+      "commits_30d": 100,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "size_kb": 21749,
+      "archived": false,
+      "last_release": "v4.1.0",
+      "last_release_at": "2026-11-08",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "効果数値（入力トークン33.2%減、54%安価、18/18正解、圧縮率など）はリポジトリ自身のベンチマークで自己申告であり、本検証では再実行していない。READMEが引用するAdobe ResearchのarXiv論文とJetBrainsのブログは原典を取得しておらず、第三者検証としては未確認。CLIのインストール・実行も未実施。APIのlicenseはApache-2.0だが、リポジトリにはLICENSE-MITも同梱されており、ファイル単位のライセンス区分は未確認。「Caveman」とロゴは商標。",
+      "type": "repo",
+      "added": "2026-11-09",
+      "first_seen": "2026-11-09",
+      "sources": [
+        "https://x.com/sumika45379/status/2112884125120319643"
+      ],
+      "fetched_at": "2026-11-08T15:14:30Z",
+      "path": "entries/coding-agent/juliusbrussee-caveman.md",
+      "summary": "コーディングエージェントの回答を簡潔な「caveman口調」に切り替えるskill（/caveman・/ultracave・/megacave）。コード・コマンド・パス・エラー文は一字も変えず、説明の冗長さだけを削る。"
     },
     {
       "repo": "addyosmani/agent-skills",
