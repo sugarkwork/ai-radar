@@ -1,5 +1,5 @@
 {
-  "count": 569,
+  "count": 570,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -5052,6 +5052,25 @@
       "fetched_at": "2026-11-08T20:52:35Z",
       "type": "article",
       "path": "articles/2026-10-22-y0urdumble-claude-code-blender-python-6.md"
+    },
+    {
+      "name": "Control Room",
+      "author": "OpenAI",
+      "genre": "article",
+      "url": "https://openai.com/index/control-room/",
+      "published": "2026-11-09",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "停止まで最大35秒はOpenAIの研究環境についての公表値。独立した計測や稼働環境での再現は行っていない。外部向けの実装・APIの提供は公式記事で確認できない。",
+      "type": "article",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/OpenAI/status/2119913172039868579"
+      ],
+      "fetched_at": "2026-11-10T00:42:48Z",
+      "path": "articles/2026-11-09-openai-control-room.md"
     },
     {
       "name": "Eddie Woo の対数講義――「何倍になるまでの時間」を1本の対数で読む",

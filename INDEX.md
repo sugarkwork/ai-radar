@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 569 件 — リポジトリ 327, リンク集 107, 記事 68, モデル 53, プロンプト 14 / ⚑ 要確認 363 件
+収録 570 件 — リポジトリ 327, リンク集 107, 記事 69, モデル 53, プロンプト 14 / ⚑ 要確認 364 件
 
 ## リポジトリ（327）
 
@@ -12,413 +12,413 @@
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
-| [MoneyPrinterTurbo](entries/video-gen/harry0703-moneyprinterturbo.md) | 141,571 | 22,592 | 毎日 | 100+ | 2026-11-07 | 2026-11-09 | 2026-11-09 | MIT |
-| [d3/d3](entries/video-gen/d3-d3.md) ⚑ | 113,890 | 22,723 | 週次 | 4 | 2026-11-03 | 2026-11-09 | 2026-11-09 | ISC |
-| [HyperFrames](entries/video-gen/heygen-hyperframes.md) ⚑ | 81,636 | 7,540 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
-| [OpenMontage](entries/video-gen/calesthio-openmontage.md) | 79,079 | 10,561 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | AGPL-3.0 |
-| [juliangarnier/anime](entries/video-gen/juliangarnier-anime.md) ⚑ | 74,464 | 5,070 | 停滞 | 0 | 2026-11-02 | 2026-11-09 | 2026-11-09 | MIT |
-| [DavidHDev/react-bits](entries/video-gen/davidhdev-react-bits.md) ⚑ | 51,591 | 2,584 | 毎日 | 36 | 2026-11-08 | 2026-11-09 | 2026-11-09 | NOASSERTION |
-| [ManimCommunity/manim](entries/video-gen/manimcommunity-manim.md) ⚑ | 42,376 | 3,310 | 週次 | 17 | 2026-11-09 | 2026-11-09 | 2026-11-09 | MIT |
-| [airbnb/lottie-web](entries/video-gen/airbnb-lottie-web.md) ⚑ | 32,390 | 2,962 | 停滞 | 0 | 2025-09-01 | 2026-11-09 | 2026-11-09 | MIT |
-| [Pixelle-Video](entries/video-gen/ath-maas-pixelle-video.md) | 29,926 | 4,339 | 停滞 | 0 | 2026-06-14 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
-| [hypit](entries/video-gen/hypit-ai-hypit.md) | 28,787 | 3,336 | 週次 | 12 | 2026-11-09 | 2026-11-09 | 2026-11-09 | Apache-2.0 改変版（追加条件あり、API上は NOASSERTION） |
-| [processing/p5.js](entries/video-gen/processing-p5.js.md) ⚑ | 24,327 | 3,899 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | LGPL-2.1 |
-| [mojs/mojs](entries/video-gen/mojs-mojs.md) ⚑ | 18,895 | 902 | 停滞 | 0 | 2026-07-30 | 2026-11-09 | 2026-11-09 | MIT |
-| [liabru/matter-js](entries/video-gen/liabru-matter-js.md) ⚑ | 18,614 | 2,001 | 月次 | 0 | 2026-09-30 | 2026-11-09 | 2026-11-09 | MIT |
-| [video-shotcraft](entries/video-gen/vincentwei1021-video-shotcraft.md) | 18,165 | 1,721 | 週次 | 14 | 2026-11-09 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
-| [Huobao Drama（火宝短剧）](entries/video-gen/chatfire-ai-huobao-drama.md) | 17,181 | 3,198 | 週次 | 8 | 2026-11-05 | 2026-11-09 | 2026-11-09 | CC BY-NC-SA 4.0（README のバッジ。GitHub API は NOASSERTION） |
-| [Concat](entries/video-gen/jub0t-concat.md) ⚑ | 16,151 | 2,005 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | AGPL-3.0 |
-| [maxwellito/vivus](entries/video-gen/maxwellito-vivus.md) ⚑ | 15,479 | 1,121 | 停滞 | 0 | 2022-07-06 | 2026-11-09 | 2026-11-09 | MIT |
-| [paperjs/paper.js](entries/video-gen/paperjs-paper.js.md) ⚑ | 15,192 | 1,260 | 毎日 | 100+ | 2026-11-06 | 2026-11-09 | 2026-11-09 | NOASSERTION |
-| [awesome-opus5-5-videos](entries/video-gen/yihui-dev-awesome-opus5-5-videos.md) | 14,532 | 1,532 | 週次 | 4 | 2026-10-13 | 2026-11-09 | 2026-11-09 | MIT |
-| [OpenCreator](entries/video-gen/krillinai-opencreator.md) | 14,269 | 1,590 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
-| [Lemo-Opuscar](entries/video-gen/lemomo-ai-lemo-opuscar.md) | 14,050 | 1,690 | 毎日 | 100+ | 2026-11-08 | 2026-11-09 | 2026-11-09 | MIT (コード) / CC BY 4.0 (スタイル記述) |
-| [WanGP](entries/video-gen/deepbeepmeep-wangp.md) | 11,549 | 1,875 | 毎日 | 66 | 2026-11-09 | 2026-11-09 | 2026-11-09 | WanGP Community License 2.0 |
-| [Remotion Agent Skills](entries/video-gen/remotion-dev-skills.md) | 6,707 | 728 | 週次 | 8 | 2026-11-09 | 2026-11-09 | 2026-11-09 | unknown |
-| [huashu-art-motion](entries/video-gen/alchaincyf-huashu-art-motion.md) ⚑ | 6,621 | 657 | 週次 | 7 | 2026-10-16 | 2026-11-09 | 2026-11-09 | MIT |
-| [shuohao-skills](entries/video-gen/eternityspring-shuohao-skills.md) | 6,335 | 896 | 週次 | 15 | 2026-11-09 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
-| [short-video-factory（AI Short Video Factory / 短视频工厂）](entries/video-gen/yils-lin-short-video-factory.md) | 6,095 | 836 | 毎日 | 26 | 2026-11-09 | 2026-11-09 | 2026-11-09 | AGPL-3.0 |
-| [AI YouTube Shorts Generator](entries/video-gen/anil-matcha-ai-youtube-shorts-generator.md) | 5,867 | 1,067 | 週次 | 6 | 2026-11-09 | 2026-11-09 | 2026-11-09 | MIT |
-| [editly](entries/video-gen/mifi-editly.md) | 5,596 | 389 | 停滞 | 0 | 2025-05-12 | 2026-11-09 | 2026-11-09 | MIT |
-| [JuneYaooo/rea-video](entries/video-gen/juneyaooo-rea-video.md) ⚑ | 5,425 | 775 | 毎日 | 73 | 2026-11-09 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
-| [PySceneDetect](entries/video-gen/breakthrough-pyscenedetect.md) | 5,413 | 564 | 毎日 | 43 | 2026-11-08 | 2026-11-09 | 2026-11-09 | BSD-3-Clause |
-| [OpenSelena/omniget](entries/video-gen/openselena-omniget.md) ⚑ | 5,184 | 640 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | GPL-3.0 |
-| [ffmpeg-skill — コーディングエージェントに渡すローカル動画編集ツール42本](entries/video-gen/kajisho5-ffmpeg-skill.md) ⚑ | 4,880 | 398 | 毎日 | 100+ | 2026-11-07 | 2026-11-09 | 2026-11-09 | MIT |
-| [FastVideo](entries/video-gen/hao-ai-lab-fastvideo.md) | 4,799 | 520 | 毎日 | 74 | 2026-11-08 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
-| [OpenChatCut](entries/video-gen/0xsline-openchatcut.md) ⚑ | 3,021 | 453 | 毎日 | 67 | 2026-11-06 | 2026-11-09 | 2026-11-09 | AGPL-3.0 |
-| [vox-director](entries/video-gen/alisa0808-vox-director.md) | 2,735 | 376 | 停滞 | 0 | 2026-10-05 | 2026-11-09 | 2026-11-09 | MIT |
-| [Herk Edit Kit（Nate Herk の AI 動画編集キット）](entries/video-gen/nateherkai-herk-edit-kit.md) | 2,691 | 652 | 週次 | 4 | 2026-10-14 | 2026-11-09 | 2026-11-09 | MIT（LICENSE 本文は MIT。GitHub API は NOASSERTION。ブランド素材と pipeline 部分に別条件） |
-| [huashu-motion（花叔）](entries/video-gen/alchaincyf-huashu-motion.md) | 2,567 | 257 | 週次 | 15 | 2026-10-22 | 2026-11-09 | 2026-11-09 | MIT |
-| [gl-transitions/gl-transitions](entries/video-gen/gl-transitions-gl-transitions.md) ⚑ | 2,240 | 329 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | NOASSERTION |
-| [sarpstar/cinecode](entries/video-gen/sarpstar-cinecode.md) ⚑ | 1,900 | 336 | 週次 | 7 | 2026-11-03 | 2026-11-09 | 2026-11-09 | MIT |
-| [pyang5166/gbro-collage-broll](entries/video-gen/pyang5166-gbro-collage-broll.md) ⚑ | 1,866 | 165 | 停滞 | 0 | 2026-07-15 | 2026-11-09 | 2026-11-09 | MIT |
-| [Animate](entries/video-gen/cth9191-animate.md) | 1,703 | 217 | 月次 | 0 | 2026-10-05 | 2026-11-09 | 2026-11-09 | MIT |
-| [vasturiano/three-globe](entries/video-gen/vasturiano-three-globe.md) ⚑ | 1,658 | 190 | 週次 | 12 | 2026-10-14 | 2026-11-09 | 2026-11-09 | MIT |
-| [Motion Prompt](entries/video-gen/showheyohtaki-motion-prompt.md) | 1,568 | 167 | 週次 | 15 | 2026-10-29 | 2026-11-09 | 2026-11-09 | MIT |
-| [shinyobjectz/raea](entries/video-gen/shinyobjectz-raea.md) ⚑ | 1,512 | 105 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | NOASSERTION |
-| [4DAnyone](entries/video-gen/ant-research-4danyone.md) | 1,488 | 106 | 月次 | 1 | 2026-10-14 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
-| [Papermorph](entries/video-gen/dozentwelve-papermorph.md) | 1,476 | 190 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | MIT |
-| [vibe-knowledge-film](entries/video-gen/heychengc-vibe-knowledge-film.md) ⚑ | 1,191 | 112 | 月次 | 2 | 2026-10-13 | 2026-11-09 | 2026-11-09 | 未確認（GitHub API は NOASSERTION） |
-| [Kablex/ComfyUI-Ref2VA-VSA](entries/video-gen/kablex-comfyui-ref2va-vsa.md) ⚑ | 1,027 | 127 | 月次 | 1 | 2026-10-17 | 2026-11-09 | 2026-11-09 | NOASSERTION |
-| [赛博小雅直播版（Cyber Xiaoya Live）](entries/video-gen/cyber-xiaoya-cyber-xiaoya-live.md) | 815 | 350 | 週次 | 18 | 2026-11-09 | 2026-11-09 | 2026-11-09 | AGPL-3.0（コードのみ。素材・ブランドは NOTICE で別扱い） |
-| [Infinite Creation（Agent无限创作）](entries/video-gen/swotatmk-infinite-creation.md) | 295 | 69 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | MIT |
-| [comfyui-obvpm-timeline](entries/video-gen/chanon-comfyui-obvpm-timeline.md) | 270 | 34 | 週次 | 5 | 2026-10-23 | 2026-11-09 | 2026-11-09 | GPL-3.0 |
-| [Veda Sparse Attention for ComfyUI (MiniMax-H3)](entries/video-gen/veda-sparse-veda-on-comfyui.md) | 224 | 20 | 週次 | 4 | 2026-10-11 | 2026-11-09 | 2026-11-09 | MIT |
-| [ComfyUI Panorama Stickers](entries/video-gen/nomadoor-comfyui-panorama-stickers.md) | 182 | 17 | 毎日 | 84 | 2026-11-05 | 2026-11-09 | 2026-11-09 | MIT |
-| [H3 Continuity Studio](entries/video-gen/kadobot-comfyui-h3-continuity-studio.md) | 160 | 18 | 毎日 | 100+ | 2026-11-08 | 2026-11-09 | 2026-11-09 | MIT |
-| [Video-Rebirth/hyperflow-h3-flash](entries/video-gen/video-rebirth-hyperflow-h3-flash.md) ⚑ | 160 | 8 | 週次 | 4 | 2026-11-09 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
-| [music-mv](entries/video-gen/win-hao-music-mv.md) | 116 | 5 | 月次 | 3 | 2026-10-20 | 2026-11-09 | 2026-11-09 | MIT |
-| [Screenplay](entries/video-gen/gmpetrov-agent-screenplay.md) | 105 | 4 | 毎日 | 22 | 2026-11-03 | 2026-11-09 | 2026-11-09 | MIT |
-| [batch-video-plugin](entries/video-gen/zysen1-batch-video-plugin.md) | 100 | 25 | 月次 | 2 | 2026-11-01 | 2026-11-09 | 2026-11-09 | MIT |
-| [WeVisCut（記事を数分の編集済み動画に変える9Bツールエージェント）](entries/video-gen/tencent-weviscut.md) | 86 | 11 | 週次 | 10 | 2026-10-30 | 2026-11-09 | 2026-11-09 | Apache-2.0（GitHub API は NOASSERTION） |
-| [MiniMax H3 Temporal Window & Spatial Tiles](entries/video-gen/mo-akkakk-comfyui-minimaxh3-window-tiles.md) | 53 | 5 | 毎日 | 30 | 2026-11-09 | 2026-11-09 | 2026-11-09 | MIT |
-| [NitroFusion2（1〜2ステップ text-to-image）](entries/video-gen/chendaryen-nitrofusion2.md) ⚑ | 50 | 7 | 週次 | 6 | 2026-11-08 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
-| [Video-Rebirth/ComfyUI-HyperFlow-Flash](entries/video-gen/video-rebirth-comfyui-hyperflow-flash.md) ⚑ | 28 | 3 | 月次 | 3 | 2026-11-09 | 2026-11-09 | 2026-11-09 | GPL-3.0 |
-| [TaoLiveAIGC/TaoMate-HD](entries/video-gen/taoliveaigc-taomate-hd.md) ⚑ | 26 | 2 | 月次 | 2 | 2026-11-03 | 2026-11-09 | 2026-11-09 | NOASSERTION |
-| [Luo-Yihong/VA-TDM](entries/video-gen/luo-yihong-va-tdm.md) ⚑ | 25 | 2 | 月次 | 1 | 2026-11-04 | 2026-11-09 | 2026-11-09 | unknown |
-| [utillayer/youtube-agent-skill](entries/video-gen/utillayer-youtube-agent-skill.md) ⚑ | 14 | 2 | 週次 | 16 | 2026-10-29 | 2026-11-09 | 2026-11-09 | MIT |
-| [BennyDaBall930/comfyui_hyperflow_int8_nodes](entries/video-gen/bennydaball930-comfyui_hyperflow_int8_nodes.md) ⚑ | 3 | 0 | 週次 | 10 | 2026-11-09 | 2026-11-09 | 2026-11-09 | GPL-3.0 |
+| [MoneyPrinterTurbo](entries/video-gen/harry0703-moneyprinterturbo.md) | 141,571 | 22,592 | 毎日 | 100+ | 2026-11-07 | 2026-11-09 | 2026-11-10 | MIT |
+| [d3/d3](entries/video-gen/d3-d3.md) ⚑ | 113,890 | 22,723 | 週次 | 4 | 2026-11-03 | 2026-11-09 | 2026-11-10 | ISC |
+| [HyperFrames](entries/video-gen/heygen-hyperframes.md) ⚑ | 81,636 | 7,540 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [OpenMontage](entries/video-gen/calesthio-openmontage.md) | 79,079 | 10,561 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | AGPL-3.0 |
+| [juliangarnier/anime](entries/video-gen/juliangarnier-anime.md) ⚑ | 74,464 | 5,070 | 停滞 | 0 | 2026-11-02 | 2026-11-09 | 2026-11-10 | MIT |
+| [DavidHDev/react-bits](entries/video-gen/davidhdev-react-bits.md) ⚑ | 51,591 | 2,584 | 毎日 | 36 | 2026-11-08 | 2026-11-09 | 2026-11-10 | NOASSERTION |
+| [ManimCommunity/manim](entries/video-gen/manimcommunity-manim.md) ⚑ | 42,376 | 3,310 | 週次 | 17 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [airbnb/lottie-web](entries/video-gen/airbnb-lottie-web.md) ⚑ | 32,390 | 2,962 | 停滞 | 0 | 2025-09-01 | 2026-11-09 | 2026-11-10 | MIT |
+| [Pixelle-Video](entries/video-gen/ath-maas-pixelle-video.md) | 29,926 | 4,339 | 停滞 | 0 | 2026-06-14 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [hypit](entries/video-gen/hypit-ai-hypit.md) | 28,787 | 3,336 | 週次 | 12 | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 改変版（追加条件あり、API上は NOASSERTION） |
+| [processing/p5.js](entries/video-gen/processing-p5.js.md) ⚑ | 24,327 | 3,899 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | LGPL-2.1 |
+| [mojs/mojs](entries/video-gen/mojs-mojs.md) ⚑ | 18,895 | 902 | 停滞 | 0 | 2026-07-30 | 2026-11-09 | 2026-11-10 | MIT |
+| [liabru/matter-js](entries/video-gen/liabru-matter-js.md) ⚑ | 18,614 | 2,001 | 月次 | 0 | 2026-09-30 | 2026-11-09 | 2026-11-10 | MIT |
+| [video-shotcraft](entries/video-gen/vincentwei1021-video-shotcraft.md) | 18,165 | 1,721 | 週次 | 14 | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [Huobao Drama（火宝短剧）](entries/video-gen/chatfire-ai-huobao-drama.md) | 17,181 | 3,198 | 週次 | 8 | 2026-11-05 | 2026-11-09 | 2026-11-10 | CC BY-NC-SA 4.0（README のバッジ。GitHub API は NOASSERTION） |
+| [Concat](entries/video-gen/jub0t-concat.md) ⚑ | 16,151 | 2,005 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | AGPL-3.0 |
+| [maxwellito/vivus](entries/video-gen/maxwellito-vivus.md) ⚑ | 15,479 | 1,121 | 停滞 | 0 | 2022-07-06 | 2026-11-09 | 2026-11-10 | MIT |
+| [paperjs/paper.js](entries/video-gen/paperjs-paper.js.md) ⚑ | 15,192 | 1,260 | 毎日 | 100+ | 2026-11-06 | 2026-11-09 | 2026-11-10 | NOASSERTION |
+| [awesome-opus5-5-videos](entries/video-gen/yihui-dev-awesome-opus5-5-videos.md) | 14,532 | 1,532 | 週次 | 4 | 2026-10-13 | 2026-11-09 | 2026-11-10 | MIT |
+| [OpenCreator](entries/video-gen/krillinai-opencreator.md) | 14,269 | 1,590 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [Lemo-Opuscar](entries/video-gen/lemomo-ai-lemo-opuscar.md) | 14,050 | 1,690 | 毎日 | 100+ | 2026-11-08 | 2026-11-09 | 2026-11-10 | MIT (コード) / CC BY 4.0 (スタイル記述) |
+| [WanGP](entries/video-gen/deepbeepmeep-wangp.md) | 11,549 | 1,875 | 毎日 | 66 | 2026-11-09 | 2026-11-09 | 2026-11-10 | WanGP Community License 2.0 |
+| [Remotion Agent Skills](entries/video-gen/remotion-dev-skills.md) | 6,707 | 728 | 週次 | 8 | 2026-11-09 | 2026-11-09 | 2026-11-10 | unknown |
+| [huashu-art-motion](entries/video-gen/alchaincyf-huashu-art-motion.md) ⚑ | 6,621 | 657 | 週次 | 7 | 2026-10-16 | 2026-11-09 | 2026-11-10 | MIT |
+| [shuohao-skills](entries/video-gen/eternityspring-shuohao-skills.md) | 6,335 | 896 | 週次 | 15 | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [short-video-factory（AI Short Video Factory / 短视频工厂）](entries/video-gen/yils-lin-short-video-factory.md) | 6,095 | 836 | 毎日 | 26 | 2026-11-09 | 2026-11-09 | 2026-11-10 | AGPL-3.0 |
+| [AI YouTube Shorts Generator](entries/video-gen/anil-matcha-ai-youtube-shorts-generator.md) | 5,867 | 1,067 | 週次 | 6 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [editly](entries/video-gen/mifi-editly.md) | 5,596 | 389 | 停滞 | 0 | 2025-05-12 | 2026-11-09 | 2026-11-10 | MIT |
+| [JuneYaooo/rea-video](entries/video-gen/juneyaooo-rea-video.md) ⚑ | 5,425 | 775 | 毎日 | 73 | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [PySceneDetect](entries/video-gen/breakthrough-pyscenedetect.md) | 5,413 | 564 | 毎日 | 43 | 2026-11-08 | 2026-11-09 | 2026-11-10 | BSD-3-Clause |
+| [OpenSelena/omniget](entries/video-gen/openselena-omniget.md) ⚑ | 5,184 | 640 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
+| [ffmpeg-skill — コーディングエージェントに渡すローカル動画編集ツール42本](entries/video-gen/kajisho5-ffmpeg-skill.md) ⚑ | 4,880 | 398 | 毎日 | 100+ | 2026-11-07 | 2026-11-09 | 2026-11-10 | MIT |
+| [FastVideo](entries/video-gen/hao-ai-lab-fastvideo.md) | 4,799 | 520 | 毎日 | 74 | 2026-11-08 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [OpenChatCut](entries/video-gen/0xsline-openchatcut.md) ⚑ | 3,021 | 453 | 毎日 | 67 | 2026-11-06 | 2026-11-09 | 2026-11-10 | AGPL-3.0 |
+| [vox-director](entries/video-gen/alisa0808-vox-director.md) | 2,735 | 376 | 停滞 | 0 | 2026-10-05 | 2026-11-09 | 2026-11-10 | MIT |
+| [Herk Edit Kit（Nate Herk の AI 動画編集キット）](entries/video-gen/nateherkai-herk-edit-kit.md) | 2,691 | 652 | 週次 | 4 | 2026-10-14 | 2026-11-09 | 2026-11-10 | MIT（LICENSE 本文は MIT。GitHub API は NOASSERTION。ブランド素材と pipeline 部分に別条件） |
+| [huashu-motion（花叔）](entries/video-gen/alchaincyf-huashu-motion.md) | 2,567 | 257 | 週次 | 15 | 2026-10-22 | 2026-11-09 | 2026-11-10 | MIT |
+| [gl-transitions/gl-transitions](entries/video-gen/gl-transitions-gl-transitions.md) ⚑ | 2,240 | 329 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | NOASSERTION |
+| [sarpstar/cinecode](entries/video-gen/sarpstar-cinecode.md) ⚑ | 1,900 | 336 | 週次 | 7 | 2026-11-03 | 2026-11-09 | 2026-11-10 | MIT |
+| [pyang5166/gbro-collage-broll](entries/video-gen/pyang5166-gbro-collage-broll.md) ⚑ | 1,866 | 165 | 停滞 | 0 | 2026-07-15 | 2026-11-09 | 2026-11-10 | MIT |
+| [Animate](entries/video-gen/cth9191-animate.md) | 1,703 | 217 | 月次 | 0 | 2026-10-05 | 2026-11-09 | 2026-11-10 | MIT |
+| [vasturiano/three-globe](entries/video-gen/vasturiano-three-globe.md) ⚑ | 1,658 | 190 | 週次 | 12 | 2026-10-14 | 2026-11-09 | 2026-11-10 | MIT |
+| [Motion Prompt](entries/video-gen/showheyohtaki-motion-prompt.md) | 1,568 | 167 | 週次 | 15 | 2026-10-29 | 2026-11-09 | 2026-11-10 | MIT |
+| [shinyobjectz/raea](entries/video-gen/shinyobjectz-raea.md) ⚑ | 1,512 | 105 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | NOASSERTION |
+| [4DAnyone](entries/video-gen/ant-research-4danyone.md) | 1,488 | 106 | 月次 | 1 | 2026-10-14 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [Papermorph](entries/video-gen/dozentwelve-papermorph.md) | 1,476 | 190 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [vibe-knowledge-film](entries/video-gen/heychengc-vibe-knowledge-film.md) ⚑ | 1,191 | 112 | 月次 | 2 | 2026-10-13 | 2026-11-09 | 2026-11-10 | 未確認（GitHub API は NOASSERTION） |
+| [Kablex/ComfyUI-Ref2VA-VSA](entries/video-gen/kablex-comfyui-ref2va-vsa.md) ⚑ | 1,027 | 127 | 月次 | 1 | 2026-10-17 | 2026-11-09 | 2026-11-10 | NOASSERTION |
+| [赛博小雅直播版（Cyber Xiaoya Live）](entries/video-gen/cyber-xiaoya-cyber-xiaoya-live.md) | 815 | 350 | 週次 | 18 | 2026-11-09 | 2026-11-09 | 2026-11-10 | AGPL-3.0（コードのみ。素材・ブランドは NOTICE で別扱い） |
+| [Infinite Creation（Agent无限创作）](entries/video-gen/swotatmk-infinite-creation.md) | 295 | 69 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [comfyui-obvpm-timeline](entries/video-gen/chanon-comfyui-obvpm-timeline.md) | 270 | 34 | 週次 | 5 | 2026-10-23 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
+| [Veda Sparse Attention for ComfyUI (MiniMax-H3)](entries/video-gen/veda-sparse-veda-on-comfyui.md) | 224 | 20 | 週次 | 4 | 2026-10-11 | 2026-11-09 | 2026-11-10 | MIT |
+| [ComfyUI Panorama Stickers](entries/video-gen/nomadoor-comfyui-panorama-stickers.md) | 182 | 17 | 毎日 | 84 | 2026-11-05 | 2026-11-09 | 2026-11-10 | MIT |
+| [H3 Continuity Studio](entries/video-gen/kadobot-comfyui-h3-continuity-studio.md) | 160 | 18 | 毎日 | 100+ | 2026-11-08 | 2026-11-09 | 2026-11-10 | MIT |
+| [Video-Rebirth/hyperflow-h3-flash](entries/video-gen/video-rebirth-hyperflow-h3-flash.md) ⚑ | 160 | 8 | 週次 | 4 | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [music-mv](entries/video-gen/win-hao-music-mv.md) | 116 | 5 | 月次 | 3 | 2026-10-20 | 2026-11-09 | 2026-11-10 | MIT |
+| [Screenplay](entries/video-gen/gmpetrov-agent-screenplay.md) | 105 | 4 | 毎日 | 22 | 2026-11-03 | 2026-11-09 | 2026-11-10 | MIT |
+| [batch-video-plugin](entries/video-gen/zysen1-batch-video-plugin.md) | 100 | 25 | 月次 | 2 | 2026-11-01 | 2026-11-09 | 2026-11-10 | MIT |
+| [WeVisCut（記事を数分の編集済み動画に変える9Bツールエージェント）](entries/video-gen/tencent-weviscut.md) | 86 | 11 | 週次 | 10 | 2026-10-30 | 2026-11-09 | 2026-11-10 | Apache-2.0（GitHub API は NOASSERTION） |
+| [MiniMax H3 Temporal Window & Spatial Tiles](entries/video-gen/mo-akkakk-comfyui-minimaxh3-window-tiles.md) | 53 | 5 | 毎日 | 30 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [NitroFusion2（1〜2ステップ text-to-image）](entries/video-gen/chendaryen-nitrofusion2.md) ⚑ | 50 | 7 | 週次 | 6 | 2026-11-08 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [Video-Rebirth/ComfyUI-HyperFlow-Flash](entries/video-gen/video-rebirth-comfyui-hyperflow-flash.md) ⚑ | 28 | 3 | 月次 | 3 | 2026-11-09 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
+| [TaoLiveAIGC/TaoMate-HD](entries/video-gen/taoliveaigc-taomate-hd.md) ⚑ | 26 | 2 | 月次 | 2 | 2026-11-03 | 2026-11-09 | 2026-11-10 | NOASSERTION |
+| [Luo-Yihong/VA-TDM](entries/video-gen/luo-yihong-va-tdm.md) ⚑ | 25 | 2 | 月次 | 1 | 2026-11-04 | 2026-11-09 | 2026-11-10 | unknown |
+| [utillayer/youtube-agent-skill](entries/video-gen/utillayer-youtube-agent-skill.md) ⚑ | 14 | 2 | 週次 | 16 | 2026-10-29 | 2026-11-09 | 2026-11-10 | MIT |
+| [BennyDaBall930/comfyui_hyperflow_int8_nodes](entries/video-gen/bennydaball930-comfyui_hyperflow_int8_nodes.md) ⚑ | 3 | 0 | 週次 | 10 | 2026-11-09 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
 
 ### エージェント基盤・スキル集（65）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
-| [Skills for Real Engineers](entries/agent-framework/mattpocock-skills.md) | 319,628 | 26,760 | 週次 | 8 | 2026-11-09 | 2026-11-09 | 2026-11-09 | MIT |
-| [Superpowers](entries/agent-framework/obra-superpowers.md) | 315,107 | 28,031 | 月次 | 3 | 2026-11-03 | 2026-11-09 | 2026-11-09 | MIT |
-| [anthropics/skills](entries/agent-framework/anthropics-skills.md) ⚑ | 190,810 | 22,434 | 月次 | 2 | 2026-11-06 | 2026-11-09 | 2026-11-09 | unknown |
-| [Ponytail](entries/agent-framework/dietrichgebert-ponytail.md) | 187,617 | 10,404 | 毎日 | 50 | 2026-10-29 | 2026-11-09 | 2026-11-09 | MIT |
-| [gstack（Garry's Stack）](entries/agent-framework/garrytan-gstack.md) | 140,943 | 20,797 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | MIT |
-| [thedotmack/claude-mem](entries/agent-framework/thedotmack-claude-mem.md) ⚑ | 115,363 | 10,019 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
-| [paperclip](entries/agent-framework/paperclipai-paperclip.md) | 112,618 | 18,677 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | MIT |
-| [Agent-Reach](entries/agent-framework/panniantong-agent-reach.md) | 110,600 | 9,905 | 毎日 | 100+ | 2026-11-08 | 2026-11-09 | 2026-11-09 | MIT |
-| [Impeccable](entries/agent-framework/pbakaus-impeccable.md) | 106,815 | 6,347 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
-| [lobehub/lobehub](entries/agent-framework/lobehub-lobehub.md) ⚑ | 84,579 | 16,168 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | NOASSERTION |
-| [strix](entries/agent-framework/usestrix-strix.md) | 74,664 | 8,445 | 毎日 | 55 | 2026-11-09 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
-| [Security Audit Skill (Cloudflare)](entries/agent-framework/cloudflare-security-audit-skill.md) | 67,955 | 4,455 | 月次 | 0 | 2026-09-14 | 2026-11-09 | 2026-11-09 | MIT |
-| [CLI-Anything](entries/agent-framework/hkuds-cli-anything.md) | 58,505 | 5,270 | 月次 | 0 | 2026-09-22 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
-| [agentic-awesome-skills（AAS）](entries/agent-framework/sickn33-agentic-awesome-skills.md) | 49,414 | 7,167 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | MIT |
-| [claude-plugins-official](entries/agent-framework/anthropics-claude-plugins-official.md) | 46,615 | 4,858 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
-| [ai-website-cloner-template](entries/agent-framework/jcodesmore-ai-website-cloner-template.md) | 38,914 | 5,791 | 月次 | 0 | 2026-10-19 | 2026-11-09 | 2026-11-09 | MIT |
-| [PentAGI](entries/agent-framework/vxcontrol-pentagi.md) ⚑ | 33,799 | 5,305 | 月次 | 1 | 2026-10-22 | 2026-11-09 | 2026-11-09 | MIT |
-| [TencentDB Agent Memory（チームで共有するエージェント記憶ハブ）](entries/agent-framework/tencentcloud-tencentdb-agent-memory.md) | 30,693 | 2,999 | 毎日 | 22 | 2026-11-09 | 2026-11-09 | 2026-11-09 | MIT（GitHub API は NOASSERTION） |
-| [google/skills](entries/agent-framework/google-skills.md) ⚑ | 23,767 | 1,986 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
-| [dsh-superagent (prototype)](entries/agent-framework/deepseek-ai-dsh-superagent-prototype.md) | 21,726 | 2,608 | 月次 | 1 | 2026-11-03 | 2026-11-09 | 2026-11-09 | MIT |
-| [agent-desktop](entries/agent-framework/vercel-labs-agent-desktop.md) | 20,364 | 1,507 | 毎日 | 81 | 2026-11-09 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
-| [milind-soni/OpenMausBot](entries/agent-framework/milind-soni-openmausbot.md) ⚑ | 19,575 | 2,682 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
-| [ccch1mneyyy/dsh-Go](entries/agent-framework/ccch1mneyyy-dsh-go.md) ⚑ | 17,518 | 757 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | AGPL-3.0 |
-| [ARTEMIS](entries/agent-framework/google-artemis.md) | 17,116 | 1,909 | 月次 | 0 | 2026-10-01 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
-| [opensandbox-group/OpenSandbox](entries/agent-framework/opensandbox-group-opensandbox.md) ⚑ | 16,881 | 1,589 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
-| [LiveKit Agents](entries/agent-framework/livekit-agents.md) | 15,158 | 4,108 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
-| [OpenUI](entries/agent-framework/thesysdev-openui.md) | 15,026 | 998 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | MIT |
-| [unslop](entries/agent-framework/heydamir-unslop.md) | 12,694 | 713 | 毎日 | 29 | 2026-11-08 | 2026-11-09 | 2026-11-09 | CC-BY-4.0 |
-| [Worktrunk](entries/agent-framework/max-sixty-worktrunk.md) ⚑ | 12,258 | 475 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | MIT OR Apache-2.0 |
-| [jakubkrehel/skills（UI デザインスキル集）](entries/agent-framework/jakubkrehel-skills.md) | 11,856 | 461 | 毎日 | 39 | 2026-11-09 | 2026-11-09 | 2026-11-09 | MIT |
-| [dsh-market/dsh-market](entries/agent-framework/dsh-market-dsh-market.md) ⚑ | 11,675 | 444 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | MIT |
-| [InkOS](entries/agent-framework/narcooo-inkos.md) | 11,086 | 2,015 | 週次 | 6 | 2026-10-24 | 2026-11-09 | 2026-11-09 | AGPL-3.0 |
-| [zhu1090093659/dsh-web](entries/agent-framework/zhu1090093659-dsh-web.md) ⚑ | 10,279 | 626 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
-| [Mobilerun](entries/agent-framework/droidrun-mobilerun.md) ⚑ | 10,004 | 1,086 | 毎日 | 94 | 2026-11-09 | 2026-11-09 | 2026-11-09 | MIT |
-| [CyberStrikeAI](entries/agent-framework/aipentest-cyberstrikeai.md) ⚑ | 8,514 | 1,882 | 毎日 | 91 | 2026-11-08 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
-| [HKUDS/AgentPilot](entries/agent-framework/hkuds-agentpilot.md) ⚑ | 7,978 | 939 | 月次 | 3 | 2026-11-06 | 2026-11-09 | 2026-11-09 | MIT |
-| [ccch1mneyyy/dsh-TUI](entries/agent-framework/ccch1mneyyy-dsh-tui.md) ⚑ | 7,319 | 351 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | MIT |
-| [Open Duet](entries/agent-framework/anil-matcha-open-duet.md) | 6,936 | 897 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
-| [Answer me with HTML](entries/agent-framework/qingyuna-answer-me-with-html.md) | 6,155 | 405 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | MIT |
-| [social-media-research-skills](entries/agent-framework/scrapecreators-social-media-research-skills.md) | 6,082 | 167 | 停滞 | 0 | 2026-08-26 | 2026-11-09 | 2026-11-09 | MIT |
-| [omdsh-dev/DSH-better-sidebar](entries/agent-framework/omdsh-dev-dsh-better-sidebar.md) ⚑ | 5,028 | 481 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | MIT |
-| [PilotDeck](entries/agent-framework/openbmb-pilotdeck.md) ⚑ | 4,989 | 563 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | AGPL-3.0 |
-| [liustack/modlens](entries/agent-framework/liustack-modlens.md) ⚑ | 4,879 | 152 | 週次 | 13 | 2026-11-07 | 2026-11-09 | 2026-11-09 | MIT |
-| [bowenliang123/dsh-context](entries/agent-framework/bowenliang123-dsh-context.md) ⚑ | 4,775 | 201 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
-| [Agent Autoloop](entries/agent-framework/kkkkhazix-agent-autoloop.md) ⚑ | 4,268 | 776 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | MIT |
-| [Effective HTML](entries/agent-framework/plannotator-effective-html.md) | 4,060 | 280 | 週次 | 5 | 2026-10-31 | 2026-11-09 | 2026-11-09 | MIT |
-| [FireRed-OpenStoryline](entries/agent-framework/fireredteam-firered-openstoryline.md) ⚑ | 3,658 | 429 | 停滞 | 0 | 2026-07-31 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
-| [SoL-Pi](entries/agent-framework/nvlabs-sol-pi.md) | 3,657 | 299 | 毎日 | 32 | 2026-11-09 | 2026-11-09 | 2026-11-09 | MIT |
-| [Social Media Agent（LangChain）](entries/agent-framework/langchain-ai-social-media-agent.md) | 3,006 | 549 | 毎日 | 32 | 2026-11-09 | 2026-11-09 | 2026-11-09 | MIT |
-| [Stageshow（benjitaylor/skills）](entries/agent-framework/benjitaylor-skills.md) | 2,884 | 196 | 月次 | 3 | 2026-11-05 | 2026-11-09 | 2026-11-09 | 未確認（リポジトリ全体の LICENSE なし。各スキル個別のライセンス表記） |
-| [NanmiCoder/dsh-agent-teams](entries/agent-framework/nanmicoder-dsh-agent-teams.md) ⚑ | 2,815 | 238 | 毎日 | 77 | 2026-11-06 | 2026-11-09 | 2026-11-09 | MIT |
-| [stripe/ai](entries/agent-framework/stripe-ai.md) ⚑ | 2,052 | 386 | 毎日 | 56 | 2026-11-09 | 2026-11-09 | 2026-11-09 | MIT |
-| [Hy Memory](entries/agent-framework/tencent-hunyuan-hy-memory.md) ⚑ | 2,020 | 146 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
-| [ARTEX](entries/agent-framework/hinln-artex.md) ⚑ | 1,443 | 1,961 | 月次 | 0 | 2026-10-08 | 2026-11-09 | 2026-11-09 | AGPL-3.0 |
-| [ysr666/dsh-vision-router](entries/agent-framework/ysr666-dsh-vision-router.md) ⚑ | 1,253 | 64 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | MIT |
-| [omdsh-dev/dsh-browser](entries/agent-framework/omdsh-dev-dsh-browser.md) ⚑ | 1,025 | 83 | 毎日 | 21 | 2026-11-08 | 2026-11-09 | 2026-11-09 | MIT |
-| [Grok Bot Field Notes](entries/agent-framework/unicodef1wn-grokbot-field-notes.md) | 700 | 100 | 月次 | 0 | 2026-09-20 | 2026-11-09 | 2026-11-09 | MIT |
-| [@antfu/skills（npm で配るスキル詰め合わせ）](entries/agent-framework/antfu-skills-pack.md) | 337 | 5 | 週次 | 6 | 2026-10-30 | 2026-11-09 | 2026-11-09 | MIT |
-| [CoworkOS](entries/agent-framework/ruc-nlpir-coworkos.md) | 148 | 16 | 週次 | 17 | 2026-11-03 | 2026-11-09 | 2026-11-09 | MIT |
-| [video-to-skill](entries/agent-framework/brenoepics-video-to-skill.md) | 145 | 20 | 毎日 | 100+ | 2026-11-06 | 2026-11-09 | 2026-11-09 | MIT |
-| [Canny](entries/agent-framework/qkal-canny.md) ⚑ | 134 | 18 | 月次 | 0 | 2026-09-22 | 2026-11-09 | 2026-11-09 | MIT |
-| [LATCH](entries/agent-framework/balanov-latch.md) | 63 | 1 | 毎日 | 21 | 2026-11-09 | 2026-11-09 | 2026-11-09 | MIT |
-| [BetterSearch](entries/agent-framework/ry0narushima-bettersearch.md) | 40 | 4 | 週次 | 10 | 2026-10-18 | 2026-11-09 | 2026-11-09 | MIT |
-| [X Virality Score](entries/agent-framework/monkeyteamvip-x-virality-score.md) ⚑ | 35 | 19 | 月次 | 3 | 2026-10-27 | 2026-11-09 | 2026-11-09 | MIT |
-| [web-api-skills](entries/agent-framework/oxylabs-web-api-skills.md) | 13 | 1 | 週次 | 11 | 2026-11-09 | 2026-11-09 | 2026-11-09 | MIT |
+| [Skills for Real Engineers](entries/agent-framework/mattpocock-skills.md) | 319,628 | 26,760 | 週次 | 8 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [Superpowers](entries/agent-framework/obra-superpowers.md) | 315,107 | 28,031 | 月次 | 3 | 2026-11-03 | 2026-11-09 | 2026-11-10 | MIT |
+| [anthropics/skills](entries/agent-framework/anthropics-skills.md) ⚑ | 190,810 | 22,434 | 月次 | 2 | 2026-11-06 | 2026-11-09 | 2026-11-10 | unknown |
+| [Ponytail](entries/agent-framework/dietrichgebert-ponytail.md) | 187,617 | 10,404 | 毎日 | 50 | 2026-10-29 | 2026-11-09 | 2026-11-10 | MIT |
+| [gstack（Garry's Stack）](entries/agent-framework/garrytan-gstack.md) | 140,943 | 20,797 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [thedotmack/claude-mem](entries/agent-framework/thedotmack-claude-mem.md) ⚑ | 115,363 | 10,019 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [paperclip](entries/agent-framework/paperclipai-paperclip.md) | 112,618 | 18,677 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [Agent-Reach](entries/agent-framework/panniantong-agent-reach.md) | 110,600 | 9,905 | 毎日 | 100+ | 2026-11-08 | 2026-11-09 | 2026-11-10 | MIT |
+| [Impeccable](entries/agent-framework/pbakaus-impeccable.md) | 106,815 | 6,347 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [lobehub/lobehub](entries/agent-framework/lobehub-lobehub.md) ⚑ | 84,579 | 16,168 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | NOASSERTION |
+| [strix](entries/agent-framework/usestrix-strix.md) | 74,664 | 8,445 | 毎日 | 55 | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [Security Audit Skill (Cloudflare)](entries/agent-framework/cloudflare-security-audit-skill.md) | 67,955 | 4,455 | 月次 | 0 | 2026-09-14 | 2026-11-09 | 2026-11-10 | MIT |
+| [CLI-Anything](entries/agent-framework/hkuds-cli-anything.md) | 58,505 | 5,270 | 月次 | 0 | 2026-09-22 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [agentic-awesome-skills（AAS）](entries/agent-framework/sickn33-agentic-awesome-skills.md) | 49,414 | 7,167 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [claude-plugins-official](entries/agent-framework/anthropics-claude-plugins-official.md) | 46,615 | 4,858 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [ai-website-cloner-template](entries/agent-framework/jcodesmore-ai-website-cloner-template.md) | 38,914 | 5,791 | 月次 | 0 | 2026-10-19 | 2026-11-09 | 2026-11-10 | MIT |
+| [PentAGI](entries/agent-framework/vxcontrol-pentagi.md) ⚑ | 33,799 | 5,305 | 月次 | 1 | 2026-10-22 | 2026-11-09 | 2026-11-10 | MIT |
+| [TencentDB Agent Memory（チームで共有するエージェント記憶ハブ）](entries/agent-framework/tencentcloud-tencentdb-agent-memory.md) | 30,693 | 2,999 | 毎日 | 22 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT（GitHub API は NOASSERTION） |
+| [google/skills](entries/agent-framework/google-skills.md) ⚑ | 23,767 | 1,986 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [dsh-superagent (prototype)](entries/agent-framework/deepseek-ai-dsh-superagent-prototype.md) | 21,726 | 2,608 | 月次 | 1 | 2026-11-03 | 2026-11-09 | 2026-11-10 | MIT |
+| [agent-desktop](entries/agent-framework/vercel-labs-agent-desktop.md) | 20,364 | 1,507 | 毎日 | 81 | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [milind-soni/OpenMausBot](entries/agent-framework/milind-soni-openmausbot.md) ⚑ | 19,575 | 2,682 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [ccch1mneyyy/dsh-Go](entries/agent-framework/ccch1mneyyy-dsh-go.md) ⚑ | 17,518 | 757 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | AGPL-3.0 |
+| [ARTEMIS](entries/agent-framework/google-artemis.md) | 17,116 | 1,909 | 月次 | 0 | 2026-10-01 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [opensandbox-group/OpenSandbox](entries/agent-framework/opensandbox-group-opensandbox.md) ⚑ | 16,881 | 1,589 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [LiveKit Agents](entries/agent-framework/livekit-agents.md) | 15,158 | 4,108 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [OpenUI](entries/agent-framework/thesysdev-openui.md) | 15,026 | 998 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [unslop](entries/agent-framework/heydamir-unslop.md) | 12,694 | 713 | 毎日 | 29 | 2026-11-08 | 2026-11-09 | 2026-11-10 | CC-BY-4.0 |
+| [Worktrunk](entries/agent-framework/max-sixty-worktrunk.md) ⚑ | 12,258 | 475 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT OR Apache-2.0 |
+| [jakubkrehel/skills（UI デザインスキル集）](entries/agent-framework/jakubkrehel-skills.md) | 11,856 | 461 | 毎日 | 39 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [dsh-market/dsh-market](entries/agent-framework/dsh-market-dsh-market.md) ⚑ | 11,675 | 444 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [InkOS](entries/agent-framework/narcooo-inkos.md) | 11,086 | 2,015 | 週次 | 6 | 2026-10-24 | 2026-11-09 | 2026-11-10 | AGPL-3.0 |
+| [zhu1090093659/dsh-web](entries/agent-framework/zhu1090093659-dsh-web.md) ⚑ | 10,279 | 626 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [Mobilerun](entries/agent-framework/droidrun-mobilerun.md) ⚑ | 10,004 | 1,086 | 毎日 | 94 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [CyberStrikeAI](entries/agent-framework/aipentest-cyberstrikeai.md) ⚑ | 8,514 | 1,882 | 毎日 | 91 | 2026-11-08 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [HKUDS/AgentPilot](entries/agent-framework/hkuds-agentpilot.md) ⚑ | 7,978 | 939 | 月次 | 3 | 2026-11-06 | 2026-11-09 | 2026-11-10 | MIT |
+| [ccch1mneyyy/dsh-TUI](entries/agent-framework/ccch1mneyyy-dsh-tui.md) ⚑ | 7,319 | 351 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [Open Duet](entries/agent-framework/anil-matcha-open-duet.md) | 6,936 | 897 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [Answer me with HTML](entries/agent-framework/qingyuna-answer-me-with-html.md) | 6,155 | 405 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [social-media-research-skills](entries/agent-framework/scrapecreators-social-media-research-skills.md) | 6,082 | 167 | 停滞 | 0 | 2026-08-26 | 2026-11-09 | 2026-11-10 | MIT |
+| [omdsh-dev/DSH-better-sidebar](entries/agent-framework/omdsh-dev-dsh-better-sidebar.md) ⚑ | 5,028 | 481 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [PilotDeck](entries/agent-framework/openbmb-pilotdeck.md) ⚑ | 4,989 | 563 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | AGPL-3.0 |
+| [liustack/modlens](entries/agent-framework/liustack-modlens.md) ⚑ | 4,879 | 152 | 週次 | 13 | 2026-11-07 | 2026-11-09 | 2026-11-10 | MIT |
+| [bowenliang123/dsh-context](entries/agent-framework/bowenliang123-dsh-context.md) ⚑ | 4,775 | 201 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [Agent Autoloop](entries/agent-framework/kkkkhazix-agent-autoloop.md) ⚑ | 4,268 | 776 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [Effective HTML](entries/agent-framework/plannotator-effective-html.md) | 4,060 | 280 | 週次 | 5 | 2026-10-31 | 2026-11-09 | 2026-11-10 | MIT |
+| [FireRed-OpenStoryline](entries/agent-framework/fireredteam-firered-openstoryline.md) ⚑ | 3,658 | 429 | 停滞 | 0 | 2026-07-31 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [SoL-Pi](entries/agent-framework/nvlabs-sol-pi.md) | 3,657 | 299 | 毎日 | 32 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [Social Media Agent（LangChain）](entries/agent-framework/langchain-ai-social-media-agent.md) | 3,006 | 549 | 毎日 | 32 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [Stageshow（benjitaylor/skills）](entries/agent-framework/benjitaylor-skills.md) | 2,884 | 196 | 月次 | 3 | 2026-11-05 | 2026-11-09 | 2026-11-10 | 未確認（リポジトリ全体の LICENSE なし。各スキル個別のライセンス表記） |
+| [NanmiCoder/dsh-agent-teams](entries/agent-framework/nanmicoder-dsh-agent-teams.md) ⚑ | 2,815 | 238 | 毎日 | 77 | 2026-11-06 | 2026-11-09 | 2026-11-10 | MIT |
+| [stripe/ai](entries/agent-framework/stripe-ai.md) ⚑ | 2,052 | 386 | 毎日 | 56 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [Hy Memory](entries/agent-framework/tencent-hunyuan-hy-memory.md) ⚑ | 2,020 | 146 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [ARTEX](entries/agent-framework/hinln-artex.md) ⚑ | 1,443 | 1,961 | 月次 | 0 | 2026-10-08 | 2026-11-09 | 2026-11-10 | AGPL-3.0 |
+| [ysr666/dsh-vision-router](entries/agent-framework/ysr666-dsh-vision-router.md) ⚑ | 1,253 | 64 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [omdsh-dev/dsh-browser](entries/agent-framework/omdsh-dev-dsh-browser.md) ⚑ | 1,025 | 83 | 毎日 | 21 | 2026-11-08 | 2026-11-09 | 2026-11-10 | MIT |
+| [Grok Bot Field Notes](entries/agent-framework/unicodef1wn-grokbot-field-notes.md) | 700 | 100 | 月次 | 0 | 2026-09-20 | 2026-11-09 | 2026-11-10 | MIT |
+| [@antfu/skills（npm で配るスキル詰め合わせ）](entries/agent-framework/antfu-skills-pack.md) | 337 | 5 | 週次 | 6 | 2026-10-30 | 2026-11-09 | 2026-11-10 | MIT |
+| [CoworkOS](entries/agent-framework/ruc-nlpir-coworkos.md) | 148 | 16 | 週次 | 17 | 2026-11-03 | 2026-11-09 | 2026-11-10 | MIT |
+| [video-to-skill](entries/agent-framework/brenoepics-video-to-skill.md) | 145 | 20 | 毎日 | 100+ | 2026-11-06 | 2026-11-09 | 2026-11-10 | MIT |
+| [Canny](entries/agent-framework/qkal-canny.md) ⚑ | 134 | 18 | 月次 | 0 | 2026-09-22 | 2026-11-09 | 2026-11-10 | MIT |
+| [LATCH](entries/agent-framework/balanov-latch.md) | 63 | 1 | 毎日 | 21 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [BetterSearch](entries/agent-framework/ry0narushima-bettersearch.md) | 40 | 4 | 週次 | 10 | 2026-10-18 | 2026-11-09 | 2026-11-10 | MIT |
+| [X Virality Score](entries/agent-framework/monkeyteamvip-x-virality-score.md) ⚑ | 35 | 19 | 月次 | 3 | 2026-10-27 | 2026-11-09 | 2026-11-10 | MIT |
+| [web-api-skills](entries/agent-framework/oxylabs-web-api-skills.md) | 13 | 1 | 週次 | 11 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
 
 ### 3D・モーション（38）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
-| [MCP for Blender](entries/3d-motion/ahujasid-mcp-for-blender.md) | 33,776 | 3,073 | 毎日 | 22 | 2026-11-04 | 2026-11-09 | 2026-11-09 | MIT |
-| [Anatomy](entries/3d-motion/wheresryan22-anatomy.md) | 26,237 | 2,201 | 毎日 | 100+ | 2026-10-18 | 2026-11-09 | 2026-11-09 | MIT |
-| [text-to-cad](entries/3d-motion/earthtojake-text-to-cad.md) ⚑ | 25,908 | 2,464 | 毎日 | 45 | 2026-11-09 | 2026-11-09 | 2026-11-09 | MIT |
-| [Meshroom](entries/3d-motion/alicevision-meshroom.md) ⚑ | 13,076 | 1,243 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | MPL-2.0 |
-| [Kimodo](entries/3d-motion/nv-tlabs-kimodo.md) ⚑ | 4,130 | 464 | 週次 | 18 | 2026-10-15 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
-| [facebookresearch/sam-3d-body](entries/3d-motion/facebookresearch-sam-3d-body.md) ⚑ | 3,703 | 438 | 停滞 | 0 | 2026-02-19 | 2026-11-09 | 2026-11-09 | NOASSERTION |
-| [floorplan-3d](entries/3d-motion/wy51ai-floorplan-3d.md) | 3,651 | 767 | 月次 | 0 | 2026-10-02 | 2026-11-09 | 2026-11-09 | MIT |
-| [teardown](entries/3d-motion/elvarofficial-teardown.md) | 2,781 | 429 | 月次 | 2 | 2026-10-31 | 2026-11-09 | 2026-11-09 | MIT |
-| [UniMate](entries/3d-motion/friedrich-m-unimate.md) | 2,646 | 281 | 月次 | 0 | 2026-10-08 | 2026-11-09 | 2026-11-09 | MIT |
-| [Claude Animated Shorts](entries/3d-motion/mromidev-claude-animated-shorts.md) ⚑ | 2,591 | 564 | 月次 | 2 | 2026-11-01 | 2026-11-09 | 2026-11-09 | MIT |
-| [Blender Skills（94 specialist Blender skills）](entries/3d-motion/arjun988-blender-skills.md) ⚑ | 2,331 | 211 | 月次 | 1 | 2026-11-06 | 2026-11-09 | 2026-11-09 | MIT |
-| [pixiv/three-vrm](entries/3d-motion/pixiv-three-vrm.md) ⚑ | 2,279 | 202 | 月次 | 3 | 2026-10-22 | 2026-11-09 | 2026-11-09 | MIT |
-| [UniRig](entries/3d-motion/vast-ai-research-unirig.md) | 2,081 | 206 | 停滞 | 0 | 2026-06-04 | 2026-11-09 | 2026-11-09 | MIT |
-| [StableGen](entries/3d-motion/sakalond-stablegen.md) | 1,632 | 163 | 毎日 | 100+ | 2026-11-04 | 2026-11-09 | 2026-11-09 | GPL-3.0 |
-| [nanocle/Charakuru](entries/3d-motion/nanocle-charakuru.md) ⚑ | 1,488 | 126 | 週次 | 5 | 2026-11-02 | 2026-11-09 | 2026-11-09 | NOASSERTION |
-| [livliv-dev/player](entries/3d-motion/livliv-dev-player.md) ⚑ | 1,395 | 146 | 毎日 | 40 | 2026-11-09 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
+| [MCP for Blender](entries/3d-motion/ahujasid-mcp-for-blender.md) | 33,776 | 3,073 | 毎日 | 22 | 2026-11-04 | 2026-11-09 | 2026-11-10 | MIT |
+| [Anatomy](entries/3d-motion/wheresryan22-anatomy.md) | 26,237 | 2,201 | 毎日 | 100+ | 2026-10-18 | 2026-11-09 | 2026-11-10 | MIT |
+| [text-to-cad](entries/3d-motion/earthtojake-text-to-cad.md) ⚑ | 25,908 | 2,464 | 毎日 | 45 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [Meshroom](entries/3d-motion/alicevision-meshroom.md) ⚑ | 13,076 | 1,243 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MPL-2.0 |
+| [Kimodo](entries/3d-motion/nv-tlabs-kimodo.md) ⚑ | 4,130 | 464 | 週次 | 18 | 2026-10-15 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [facebookresearch/sam-3d-body](entries/3d-motion/facebookresearch-sam-3d-body.md) ⚑ | 3,703 | 438 | 停滞 | 0 | 2026-02-19 | 2026-11-09 | 2026-11-10 | NOASSERTION |
+| [floorplan-3d](entries/3d-motion/wy51ai-floorplan-3d.md) | 3,651 | 767 | 月次 | 0 | 2026-10-02 | 2026-11-09 | 2026-11-10 | MIT |
+| [teardown](entries/3d-motion/elvarofficial-teardown.md) | 2,781 | 429 | 月次 | 2 | 2026-10-31 | 2026-11-09 | 2026-11-10 | MIT |
+| [UniMate](entries/3d-motion/friedrich-m-unimate.md) | 2,646 | 281 | 月次 | 0 | 2026-10-08 | 2026-11-09 | 2026-11-10 | MIT |
+| [Claude Animated Shorts](entries/3d-motion/mromidev-claude-animated-shorts.md) ⚑ | 2,591 | 564 | 月次 | 2 | 2026-11-01 | 2026-11-09 | 2026-11-10 | MIT |
+| [Blender Skills（94 specialist Blender skills）](entries/3d-motion/arjun988-blender-skills.md) ⚑ | 2,331 | 211 | 月次 | 1 | 2026-11-06 | 2026-11-09 | 2026-11-10 | MIT |
+| [pixiv/three-vrm](entries/3d-motion/pixiv-three-vrm.md) ⚑ | 2,279 | 202 | 月次 | 3 | 2026-10-22 | 2026-11-09 | 2026-11-10 | MIT |
+| [UniRig](entries/3d-motion/vast-ai-research-unirig.md) | 2,081 | 206 | 停滞 | 0 | 2026-06-04 | 2026-11-09 | 2026-11-10 | MIT |
+| [StableGen](entries/3d-motion/sakalond-stablegen.md) | 1,632 | 163 | 毎日 | 100+ | 2026-11-04 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
+| [nanocle/Charakuru](entries/3d-motion/nanocle-charakuru.md) ⚑ | 1,488 | 126 | 週次 | 5 | 2026-11-02 | 2026-11-09 | 2026-11-10 | NOASSERTION |
+| [livliv-dev/player](entries/3d-motion/livliv-dev-player.md) ⚑ | 1,395 | 146 | 毎日 | 40 | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
 | [NullMotion](entries/3d-motion/blixvip-nullmotion.md) | 1,335 | 133 | 週次 | 16 | 2026-10-31 | 2026-11-04 | 2026-11-04 | MIT |
-| [toyxyz/toyxyz_RGBMocap](entries/3d-motion/toyxyz-toyxyz_rgbmocap.md) ⚑ | 1,159 | 153 | 毎日 | 49 | 2026-11-09 | 2026-11-09 | 2026-11-09 | NOASSERTION |
-| [HairDeck（1枚の画像からアニメ調ヘアカードと揺れボーンを作る）](entries/3d-motion/hyz317-hairdeck.md) | 1,034 | 77 | 週次 | 7 | 2026-11-05 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
-| [Idol (image-to-3D Gaussian splat SDK)](entries/3d-motion/speridlabs-idol-sdk.md) | 945 | 95 | 週次 | 5 | 2026-11-09 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
-| [Ultra Water](entries/3d-motion/humpalumps-ultra-water.md) | 653 | 97 | 毎日 | 20 | 2026-11-02 | 2026-11-09 | 2026-11-09 | MIT |
-| [SculptForge](entries/3d-motion/islandmed-sculptforge.md) | 649 | 80 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | GPL-3.0 |
-| [SkinTokens（TokenRig）](entries/3d-motion/vast-ai-research-skintokens.md) | 625 | 84 | 停滞 | 0 | 2026-05-12 | 2026-11-09 | 2026-11-09 | MIT |
-| [patch-gg/anymove](entries/3d-motion/patch-gg-anymove.md) ⚑ | 563 | 62 | 週次 | 11 | 2026-11-09 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
-| [prompt2rig — プロンプトから3Dキャラクター動作を生成](entries/3d-motion/blendi-remade-prompt2rig.md) ⚑ | 552 | 81 | 週次 | 16 | 2026-11-09 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
-| [shinshin86/aituber-onair](entries/3d-motion/shinshin86-aituber-onair.md) ⚑ | 320 | 31 | 毎日 | 100+ | 2026-11-07 | 2026-11-09 | 2026-11-09 | MIT |
-| [open-3d-skills](entries/3d-motion/moh4696-open-3d-skills.md) | 319 | 42 | 週次 | 4 | 2026-11-09 | 2026-11-09 | 2026-11-09 | MIT |
-| [FlexGlue](entries/3d-motion/cvg-flexglue.md) | 304 | 15 | 週次 | 13 | 2026-11-06 | 2026-11-09 | 2026-11-09 | MIT |
-| [effekseer-vfx-skill](entries/3d-motion/kanaworksai-hue-effekseer-vfx-skill.md) | 160 | 11 | 週次 | 7 | 2026-10-29 | 2026-11-09 | 2026-11-09 | MIT |
-| [Lida-V/3DCharaMakeSkills-Lida](entries/3d-motion/lida-v-3dcharamakeskills-lida.md) ⚑ | 62 | 4 | 毎日 | 48 | 2026-11-07 | 2026-11-09 | 2026-11-09 | NOASSERTION |
-| [CurioMesh](entries/3d-motion/curiocrafter-curiomesh.md) | 55 | 5 | 毎日 | 100+ | 2026-11-07 | 2026-11-09 | 2026-11-09 | GPL-3.0 |
-| [ComfyUI-InstantHMR — 写真・動画・ライブ人物モーション推定](entries/3d-motion/jtydhr88-comfyui-instanthmr.md) ⚑ | 52 | 10 | 週次 | 19 | 2026-11-08 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
-| [lovisdotio/video-to-texture](entries/3d-motion/lovisdotio-video-to-texture.md) ⚑ | 45 | 2 | 週次 | 6 | 2026-10-27 | 2026-11-09 | 2026-11-09 | MIT |
-| [Faltwerk](entries/3d-motion/edrethardo-faltwerk.md) | 36 | 3 | 月次 | 3 | 2026-11-04 | 2026-11-09 | 2026-11-09 | MIT |
-| [GLB Viewer](entries/3d-motion/cullenwebber-glb-viewer.md) ⚑ | 18 | 2 | 毎日 | 22 | 2026-11-04 | 2026-11-09 | 2026-11-09 | none |
-| [VRMkimodo](entries/3d-motion/camenduru-vrmkimodo.md) ⚑ | 17 | 1 | 毎日 | 21 | 2026-11-05 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
-| [VRMExMR](entries/3d-motion/camenduru-vrmexmr.md) ⚑ | 15 | 0 | 毎日 | 39 | 2026-11-05 | 2026-11-09 | 2026-11-09 | 未確認（API は NOASSERTION。ExMR 側の条件を確認） |
-| [Lida-V/LidaAngelToon](entries/3d-motion/lida-v-lidaangeltoon.md) ⚑ | 6 | 0 | 週次 | 13 | 2026-10-17 | 2026-11-09 | 2026-11-09 | NOASSERTION |
+| [toyxyz/toyxyz_RGBMocap](entries/3d-motion/toyxyz-toyxyz_rgbmocap.md) ⚑ | 1,159 | 153 | 毎日 | 49 | 2026-11-09 | 2026-11-09 | 2026-11-10 | NOASSERTION |
+| [HairDeck（1枚の画像からアニメ調ヘアカードと揺れボーンを作る）](entries/3d-motion/hyz317-hairdeck.md) | 1,034 | 77 | 週次 | 7 | 2026-11-05 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [Idol (image-to-3D Gaussian splat SDK)](entries/3d-motion/speridlabs-idol-sdk.md) | 945 | 95 | 週次 | 5 | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [Ultra Water](entries/3d-motion/humpalumps-ultra-water.md) | 653 | 97 | 毎日 | 20 | 2026-11-02 | 2026-11-09 | 2026-11-10 | MIT |
+| [SculptForge](entries/3d-motion/islandmed-sculptforge.md) | 649 | 80 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
+| [SkinTokens（TokenRig）](entries/3d-motion/vast-ai-research-skintokens.md) | 625 | 84 | 停滞 | 0 | 2026-05-12 | 2026-11-09 | 2026-11-10 | MIT |
+| [patch-gg/anymove](entries/3d-motion/patch-gg-anymove.md) ⚑ | 563 | 62 | 週次 | 11 | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [prompt2rig — プロンプトから3Dキャラクター動作を生成](entries/3d-motion/blendi-remade-prompt2rig.md) ⚑ | 552 | 81 | 週次 | 16 | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [shinshin86/aituber-onair](entries/3d-motion/shinshin86-aituber-onair.md) ⚑ | 320 | 31 | 毎日 | 100+ | 2026-11-07 | 2026-11-09 | 2026-11-10 | MIT |
+| [open-3d-skills](entries/3d-motion/moh4696-open-3d-skills.md) | 319 | 42 | 週次 | 4 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [FlexGlue](entries/3d-motion/cvg-flexglue.md) | 304 | 15 | 週次 | 13 | 2026-11-06 | 2026-11-09 | 2026-11-10 | MIT |
+| [effekseer-vfx-skill](entries/3d-motion/kanaworksai-hue-effekseer-vfx-skill.md) | 160 | 11 | 週次 | 7 | 2026-10-29 | 2026-11-09 | 2026-11-10 | MIT |
+| [Lida-V/3DCharaMakeSkills-Lida](entries/3d-motion/lida-v-3dcharamakeskills-lida.md) ⚑ | 62 | 4 | 毎日 | 48 | 2026-11-07 | 2026-11-09 | 2026-11-10 | NOASSERTION |
+| [CurioMesh](entries/3d-motion/curiocrafter-curiomesh.md) | 55 | 5 | 毎日 | 100+ | 2026-11-07 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
+| [ComfyUI-InstantHMR — 写真・動画・ライブ人物モーション推定](entries/3d-motion/jtydhr88-comfyui-instanthmr.md) ⚑ | 52 | 10 | 週次 | 19 | 2026-11-08 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [lovisdotio/video-to-texture](entries/3d-motion/lovisdotio-video-to-texture.md) ⚑ | 45 | 2 | 週次 | 6 | 2026-10-27 | 2026-11-09 | 2026-11-10 | MIT |
+| [Faltwerk](entries/3d-motion/edrethardo-faltwerk.md) | 36 | 3 | 月次 | 3 | 2026-11-04 | 2026-11-09 | 2026-11-10 | MIT |
+| [GLB Viewer](entries/3d-motion/cullenwebber-glb-viewer.md) ⚑ | 18 | 2 | 毎日 | 22 | 2026-11-04 | 2026-11-09 | 2026-11-10 | none |
+| [VRMkimodo](entries/3d-motion/camenduru-vrmkimodo.md) ⚑ | 17 | 1 | 毎日 | 21 | 2026-11-05 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [VRMExMR](entries/3d-motion/camenduru-vrmexmr.md) ⚑ | 15 | 0 | 毎日 | 39 | 2026-11-05 | 2026-11-09 | 2026-11-10 | 未確認（API は NOASSERTION。ExMR 側の条件を確認） |
+| [Lida-V/LidaAngelToon](entries/3d-motion/lida-v-lidaangeltoon.md) ⚑ | 6 | 0 | 週次 | 13 | 2026-10-17 | 2026-11-09 | 2026-11-10 | NOASSERTION |
 
 ### 音声・TTS（23）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
-| [Whisper](entries/tts-audio/openai-whisper.md) | 112,302 | 13,597 | 停滞 | 0 | 2026-08-31 | 2026-11-09 | 2026-11-09 | MIT |
-| [VoiceStudio](entries/tts-audio/debpalash-voicestudio.md) | 106,057 | 11,773 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | AGPL-3.0 |
-| [microsoft/VibeVoice](entries/tts-audio/microsoft-vibevoice.md) ⚑ | 56,892 | 6,400 | 月次 | 0 | 2026-10-08 | 2026-11-09 | 2026-11-09 | MIT |
-| [Coqui TTS](entries/tts-audio/coqui-ai-tts.md) | 46,195 | 6,163 | 停滞 | 0 | 2024-08-16 | 2026-11-09 | 2026-11-09 | MPL-2.0 |
-| [OpenBMB/VoxCPM](entries/tts-audio/openbmb-voxcpm.md) ⚑ | 42,103 | 4,798 | 月次 | 3 | 2026-11-09 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
-| [Bark](entries/tts-audio/suno-ai-bark.md) | 39,332 | 4,659 | 停滞 | 0 | 2024-08-19 | 2026-11-09 | 2026-11-09 | MIT |
-| [RVC (Retrieval-based Voice Conversion WebUI)](entries/tts-audio/rvc-project-retrieval-based-voice-conversion-webui.md) | 39,138 | 5,349 | 停滞 | 0 | 2026-08-04 | 2026-11-09 | 2026-11-09 | MIT |
-| [so-vits-svc](entries/tts-audio/svc-develop-team-so-vits-svc.md) | 28,049 | 5,010 | 停滞 | 0 | 2023-11-11 | 2026-11-09 | 2026-11-09 | AGPL-3.0 |
-| [AudioCraft / MusicGen](entries/tts-audio/facebookresearch-audiocraft.md) | 23,835 | 2,713 | 停滞 | 0 | 2026-03-03 | 2026-11-09 | 2026-11-09 | MIT |
-| [OmniVoice](entries/tts-audio/k2-fsa-omnivoice.md) | 16,433 | 2,410 | 停滞 | 0 | 2026-11-02 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
-| [ACE-Step 1.5](entries/tts-audio/ace-step-ace-step-1-5.md) | 14,573 | 1,937 | 月次 | 0 | 2026-11-08 | 2026-11-09 | 2026-11-09 | MIT |
-| [multimodal-art-projection/YuE](entries/tts-audio/multimodal-art-projection-yue.md) ⚑ | 13,285 | 1,532 | 毎日 | 39 | 2026-11-01 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
-| [Demucs](entries/tts-audio/facebookresearch-demucs.md) | 10,406 | 1,674 | 停滞 | 0 | 2024-04-24 | 2026-11-09 | 2026-11-09 | MIT |
-| [Kokoro](entries/tts-audio/hexgrad-kokoro.md) | 10,016 | 1,121 | 停滞 | 0 | 2025-08-06 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
-| [Podcastfy](entries/tts-audio/souzatharsis-podcastfy.md) | 6,795 | 790 | 停滞 | 0 | 2026-05-04 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
-| [ACE-Step（v1 / 3.5B）](entries/tts-audio/ace-step-ace-step.md) | 5,044 | 662 | 停滞 | 0 | 2026-02-15 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
-| [umlx5h/LLPlayer](entries/tts-audio/umlx5h-llplayer.md) ⚑ | 4,620 | 290 | 停滞 | 0 | 2026-11-05 | 2026-11-09 | 2026-11-09 | GPL-3.0 |
-| [Stable Audio Tools](entries/tts-audio/stability-ai-stable-audio-tools.md) | 3,904 | 490 | 停滞 | 0 | 2026-11-01 | 2026-11-09 | 2026-11-09 | MIT |
-| [Essentia](entries/tts-audio/mtg-essentia.md) | 3,801 | 644 | 週次 | 15 | 2026-11-05 | 2026-11-09 | 2026-11-09 | AGPL-3.0 |
-| [stable-ts](entries/tts-audio/jianfch-stable-ts.md) | 2,282 | 248 | 停滞 | 0 | 2026-05-30 | 2026-11-09 | 2026-11-09 | MIT |
-| [adventists-ai/sophon-realtime](entries/tts-audio/adventists-ai-sophon-realtime.md) ⚑ | 58 | 4 | 毎日 | 36 | 2026-11-09 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
-| [lowkeytea/scyllasband](entries/tts-audio/lowkeytea-scyllasband.md) ⚑ | 29 | 2 | 週次 | 11 | 2026-11-07 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
-| [muse-irodori-voice — CPUで固有音声を作るIrodoriキット](entries/tts-audio/kgmkm-muse-irodori-voice.md) ⚑ | 9 | 0 | 週次 | 4 | 2026-10-31 | 2026-11-09 | 2026-11-09 | MIT |
+| [Whisper](entries/tts-audio/openai-whisper.md) | 112,302 | 13,597 | 停滞 | 0 | 2026-08-31 | 2026-11-09 | 2026-11-10 | MIT |
+| [VoiceStudio](entries/tts-audio/debpalash-voicestudio.md) | 106,057 | 11,773 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | AGPL-3.0 |
+| [microsoft/VibeVoice](entries/tts-audio/microsoft-vibevoice.md) ⚑ | 56,892 | 6,400 | 月次 | 0 | 2026-10-08 | 2026-11-09 | 2026-11-10 | MIT |
+| [Coqui TTS](entries/tts-audio/coqui-ai-tts.md) | 46,195 | 6,163 | 停滞 | 0 | 2024-08-16 | 2026-11-09 | 2026-11-10 | MPL-2.0 |
+| [OpenBMB/VoxCPM](entries/tts-audio/openbmb-voxcpm.md) ⚑ | 42,103 | 4,798 | 月次 | 3 | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [Bark](entries/tts-audio/suno-ai-bark.md) | 39,332 | 4,659 | 停滞 | 0 | 2024-08-19 | 2026-11-09 | 2026-11-10 | MIT |
+| [RVC (Retrieval-based Voice Conversion WebUI)](entries/tts-audio/rvc-project-retrieval-based-voice-conversion-webui.md) | 39,138 | 5,349 | 停滞 | 0 | 2026-08-04 | 2026-11-09 | 2026-11-10 | MIT |
+| [so-vits-svc](entries/tts-audio/svc-develop-team-so-vits-svc.md) | 28,049 | 5,010 | 停滞 | 0 | 2023-11-11 | 2026-11-09 | 2026-11-10 | AGPL-3.0 |
+| [AudioCraft / MusicGen](entries/tts-audio/facebookresearch-audiocraft.md) | 23,835 | 2,713 | 停滞 | 0 | 2026-03-03 | 2026-11-09 | 2026-11-10 | MIT |
+| [OmniVoice](entries/tts-audio/k2-fsa-omnivoice.md) | 16,433 | 2,410 | 停滞 | 0 | 2026-11-02 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [ACE-Step 1.5](entries/tts-audio/ace-step-ace-step-1-5.md) | 14,573 | 1,937 | 月次 | 0 | 2026-11-08 | 2026-11-09 | 2026-11-10 | MIT |
+| [multimodal-art-projection/YuE](entries/tts-audio/multimodal-art-projection-yue.md) ⚑ | 13,285 | 1,532 | 毎日 | 39 | 2026-11-01 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [Demucs](entries/tts-audio/facebookresearch-demucs.md) | 10,406 | 1,674 | 停滞 | 0 | 2024-04-24 | 2026-11-09 | 2026-11-10 | MIT |
+| [Kokoro](entries/tts-audio/hexgrad-kokoro.md) | 10,016 | 1,121 | 停滞 | 0 | 2025-08-06 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [Podcastfy](entries/tts-audio/souzatharsis-podcastfy.md) | 6,795 | 790 | 停滞 | 0 | 2026-05-04 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [ACE-Step（v1 / 3.5B）](entries/tts-audio/ace-step-ace-step.md) | 5,044 | 662 | 停滞 | 0 | 2026-02-15 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [umlx5h/LLPlayer](entries/tts-audio/umlx5h-llplayer.md) ⚑ | 4,620 | 290 | 停滞 | 0 | 2026-11-05 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
+| [Stable Audio Tools](entries/tts-audio/stability-ai-stable-audio-tools.md) | 3,904 | 490 | 停滞 | 0 | 2026-11-01 | 2026-11-09 | 2026-11-10 | MIT |
+| [Essentia](entries/tts-audio/mtg-essentia.md) | 3,801 | 644 | 週次 | 15 | 2026-11-05 | 2026-11-09 | 2026-11-10 | AGPL-3.0 |
+| [stable-ts](entries/tts-audio/jianfch-stable-ts.md) | 2,282 | 248 | 停滞 | 0 | 2026-05-30 | 2026-11-09 | 2026-11-10 | MIT |
+| [adventists-ai/sophon-realtime](entries/tts-audio/adventists-ai-sophon-realtime.md) ⚑ | 58 | 4 | 毎日 | 36 | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [lowkeytea/scyllasband](entries/tts-audio/lowkeytea-scyllasband.md) ⚑ | 29 | 2 | 週次 | 11 | 2026-11-07 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [muse-irodori-voice — CPUで固有音声を作るIrodoriキット](entries/tts-audio/kgmkm-muse-irodori-voice.md) ⚑ | 9 | 0 | 週次 | 4 | 2026-10-31 | 2026-11-09 | 2026-11-10 | MIT |
 
 ### モデル推論・配信（22）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
-| [OmniRoute](entries/model-serving/cheaper-inference-omniroute.md) | 85,969 | 13,041 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | MIT |
-| [Strata](entries/model-serving/niko1221-strata.md) ⚑ | 42,470 | 4,641 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | MIT |
-| [MiniCPM-V](entries/model-serving/openbmb-minicpm-v.md) | 27,117 | 2,127 | 毎日 | 34 | 2026-11-09 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
-| [oMLX（Apple Silicon向けLLM推論サーバ、メニューバーから管理）](entries/model-serving/jundot-omlx.md) | 23,487 | 2,113 | 毎日 | 100+ | 2026-11-08 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
-| [gpu-unlock](entries/model-serving/zagitta-gpu-unlock.md) ⚑ | 18,370 | 1,869 | 毎日 | 36 | 2026-10-29 | 2026-11-09 | 2026-11-09 | GPL-2.0 |
-| [cactus-compute/cactus](entries/model-serving/cactus-compute-cactus.md) ⚑ | 14,620 | 1,017 | 毎日 | 32 | 2026-11-07 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
-| [kimi-k3-in-c](entries/model-serving/fareedkhan-dev-kimi-k3-in-c.md) ⚑ | 11,459 | 1,785 | 月次 | 0 | 2026-10-02 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
-| [open-free-llm-api/awesome-freellm-apis](entries/model-serving/open-free-llm-api-awesome-freellm-apis.md) ⚑ | 5,463 | 851 | 毎日 | 40 | 2026-11-09 | 2026-11-09 | 2026-11-09 | MIT |
-| [googlecolab/google-colab-cli](entries/model-serving/googlecolab-google-colab-cli.md) ⚑ | 2,127 | 301 | 週次 | 18 | 2026-11-06 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
-| [jev-router](entries/model-serving/gargpratyush-jev-router.md) ⚑ | 660 | 102 | 月次 | 0 | 2026-09-19 | 2026-11-09 | 2026-11-09 | MIT |
-| [Latent Sparse Attention (LSA)](entries/model-serving/prefrontal-ai-latent-sparse-attention.md) | 452 | 55 | 週次 | 7 | 2026-11-09 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
-| [sushi](entries/model-serving/beamivalice-sushi.md) | 438 | 35 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | MIT |
-| [llamAmpere](entries/model-serving/jakeatx-llamampere.md) | 303 | 37 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | MIT |
-| [SpecPilot](entries/model-serving/stargazerx0-specpilot.md) | 183 | 11 | 月次 | 1 | 2026-11-03 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
-| [Tencent/DSpine](entries/model-serving/tencent-dspine.md) ⚑ | 172 | 12 | 週次 | 7 | 2026-11-09 | 2026-11-09 | 2026-11-09 | NOASSERTION |
-| [Magnvs7/Promethevs](entries/model-serving/magnvs7-promethevs.md) ⚑ | 161 | 10 | 週次 | 16 | 2026-11-09 | 2026-11-09 | 2026-11-09 | CC-BY-4.0 |
-| [GLM-5.3-Flash DGX Spark 2台 配備レシピ](entries/model-serving/miaai-lab-glm-5.3-flash-dgx-sparks.md) ⚑ | 96 | 20 | 毎日 | 45 | 2026-11-09 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
-| [bloomery](entries/model-serving/midagedev-bloomery.md) | 62 | 7 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | MIT |
-| [Tokenomos](entries/model-serving/kohakublueleaf-tokenomos.md) | 26 | 0 | 毎日 | 20 | 2026-11-05 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
-| [qwen-warp](entries/model-serving/tuan3w-qwen-warp.md) ⚑ | 24 | 4 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | MIT |
-| [GLM-5.3-Flash 2×RTX PRO 6000 配備レシピ（TensorFold）](entries/model-serving/miaai-lab-glm-5.3-flash-2x-rtx-pro-6000.md) ⚑ | 23 | 2 | 週次 | 16 | 2026-11-07 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
-| [ausboss/ComfyUI-AusBoss-Model-Downloader](entries/model-serving/ausboss-comfyui-ausboss-model-downloader.md) ⚑ | 9 | 1 | 週次 | 5 | 2026-11-09 | 2026-11-09 | 2026-11-09 | MIT |
+| [OmniRoute](entries/model-serving/cheaper-inference-omniroute.md) | 85,969 | 13,041 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [Strata](entries/model-serving/niko1221-strata.md) ⚑ | 42,470 | 4,641 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [MiniCPM-V](entries/model-serving/openbmb-minicpm-v.md) | 27,117 | 2,127 | 毎日 | 34 | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [oMLX（Apple Silicon向けLLM推論サーバ、メニューバーから管理）](entries/model-serving/jundot-omlx.md) | 23,487 | 2,113 | 毎日 | 100+ | 2026-11-08 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [gpu-unlock](entries/model-serving/zagitta-gpu-unlock.md) ⚑ | 18,370 | 1,869 | 毎日 | 36 | 2026-10-29 | 2026-11-09 | 2026-11-10 | GPL-2.0 |
+| [cactus-compute/cactus](entries/model-serving/cactus-compute-cactus.md) ⚑ | 14,620 | 1,017 | 毎日 | 32 | 2026-11-07 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [kimi-k3-in-c](entries/model-serving/fareedkhan-dev-kimi-k3-in-c.md) ⚑ | 11,459 | 1,785 | 月次 | 0 | 2026-10-02 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [open-free-llm-api/awesome-freellm-apis](entries/model-serving/open-free-llm-api-awesome-freellm-apis.md) ⚑ | 5,463 | 851 | 毎日 | 40 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [googlecolab/google-colab-cli](entries/model-serving/googlecolab-google-colab-cli.md) ⚑ | 2,127 | 301 | 週次 | 18 | 2026-11-06 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [jev-router](entries/model-serving/gargpratyush-jev-router.md) ⚑ | 660 | 102 | 月次 | 0 | 2026-09-19 | 2026-11-09 | 2026-11-10 | MIT |
+| [Latent Sparse Attention (LSA)](entries/model-serving/prefrontal-ai-latent-sparse-attention.md) | 452 | 55 | 週次 | 7 | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [sushi](entries/model-serving/beamivalice-sushi.md) | 438 | 35 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [llamAmpere](entries/model-serving/jakeatx-llamampere.md) | 303 | 37 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [SpecPilot](entries/model-serving/stargazerx0-specpilot.md) | 183 | 11 | 月次 | 1 | 2026-11-03 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [Tencent/DSpine](entries/model-serving/tencent-dspine.md) ⚑ | 172 | 12 | 週次 | 7 | 2026-11-09 | 2026-11-09 | 2026-11-10 | NOASSERTION |
+| [Magnvs7/Promethevs](entries/model-serving/magnvs7-promethevs.md) ⚑ | 161 | 10 | 週次 | 16 | 2026-11-09 | 2026-11-09 | 2026-11-10 | CC-BY-4.0 |
+| [GLM-5.3-Flash DGX Spark 2台 配備レシピ](entries/model-serving/miaai-lab-glm-5.3-flash-dgx-sparks.md) ⚑ | 96 | 20 | 毎日 | 45 | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [bloomery](entries/model-serving/midagedev-bloomery.md) | 62 | 7 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [Tokenomos](entries/model-serving/kohakublueleaf-tokenomos.md) | 26 | 0 | 毎日 | 20 | 2026-11-05 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [qwen-warp](entries/model-serving/tuan3w-qwen-warp.md) ⚑ | 24 | 4 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [GLM-5.3-Flash 2×RTX PRO 6000 配備レシピ（TensorFold）](entries/model-serving/miaai-lab-glm-5.3-flash-2x-rtx-pro-6000.md) ⚑ | 23 | 2 | 週次 | 16 | 2026-11-07 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [ausboss/ComfyUI-AusBoss-Model-Downloader](entries/model-serving/ausboss-comfyui-ausboss-model-downloader.md) ⚑ | 9 | 1 | 週次 | 5 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
 
 ### コーディングエージェント（21）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
-| [Karpathy Guidelines（karpathy-guidelines スキル）](entries/coding-agent/multica-ai-andrej-karpathy-skills.md) ⚑ | 231,320 | 22,999 | 停滞 | 0 | 2026-04-20 | 2026-11-09 | 2026-11-09 | unknown |
-| [Caveman](entries/coding-agent/juliusbrussee-caveman.md) ⚑ | 118,623 | 6,907 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
-| [Agent Skills](entries/coding-agent/addyosmani-agent-skills.md) ⚑ | 114,537 | 11,972 | 毎日 | 100+ | 2026-11-01 | 2026-11-09 | 2026-11-09 | MIT |
-| [CodeGraph](entries/coding-agent/colbymchenry-codegraph.md) | 77,198 | 5,141 | 毎日 | 100+ | 2026-11-01 | 2026-11-09 | 2026-11-09 | MIT |
-| [herdr](entries/coding-agent/herdrdev-herdr.md) ⚑ | 49,753 | 4,017 | 毎日 | 49 | 2026-11-07 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
-| [claude-code-templates](entries/coding-agent/davila7-claude-code-templates.md) ⚑ | 33,241 | 3,901 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | MIT |
-| [Craft Anything](entries/coding-agent/storytold-craft-anything.md) | 24,308 | 4,863 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
-| [jcode](entries/coding-agent/1jehuang-jcode.md) | 21,641 | 2,517 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | MIT |
-| [meta/astryx](entries/coding-agent/meta-astryx.md) ⚑ | 19,713 | 1,502 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | MIT |
-| [pstack（Lauren Tan / poteto）](entries/coding-agent/cursor-plugins.md) ⚑ | 15,853 | 1,657 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | MIT |
-| [fast-jev-compaction](entries/coding-agent/tamaratran-fast-jev-compaction.md) ⚑ | 7,933 | 581 | 月次 | 0 | 2026-09-18 | 2026-11-09 | 2026-11-09 | MIT |
-| [ZSeven-W/openpencil](entries/coding-agent/zseven-w-openpencil.md) ⚑ | 7,172 | 625 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | MIT |
-| [billion-context](entries/coding-agent/ranxianglei-billion-context.md) ⚑ | 5,714 | 433 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | NOASSERTION |
-| [obsidianmd/obsidian-sample-plugin](entries/coding-agent/obsidianmd-obsidian-sample-plugin.md) ⚑ | 4,672 | 1,810 | 停滞 | 0 | 2026-08-02 | 2026-11-09 | 2026-11-09 | 0BSD |
-| [pstack-claude](entries/coding-agent/michael-denyer-pstack-claude.md) ⚑ | 4,178 | 381 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | MIT |
-| [oh-my-mermaid（omm）](entries/coding-agent/oh-my-mermaid-oh-my-mermaid.md) | 3,389 | 267 | 停滞 | 0 | 2026-04-07 | 2026-11-09 | 2026-11-09 | MIT |
-| [nanoMuse — 自分のデバイスで動くオープンソースパーソナルエージェント](entries/coding-agent/nano-muse-nanomuse.md) ⚑ | 3,358 | 402 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | GPL-3.0 |
-| [ppmpreetham/BUI](entries/coding-agent/ppmpreetham-bui.md) ⚑ | 2,363 | 95 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | GPL-3.0 |
-| [reacher-z/Awesome-REA](entries/coding-agent/reacher-z-awesome-rea.md) ⚑ | 2,312 | 421 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | MIT |
-| [Dual-Brain — 設計とコードの二視点レビュー用スキル](entries/coding-agent/sleeplesshan-dual-brain.md) ⚑ | 143 | 11 | 週次 | 6 | 2026-11-06 | 2026-11-09 | 2026-11-09 | MIT |
-| [quicksilver](entries/coding-agent/uditakhourii-quicksilver.md) ⚑ | 142 | 11 | 停滞 | 0 | 2026-09-25 | 2026-11-09 | 2026-11-09 | MIT |
+| [Karpathy Guidelines（karpathy-guidelines スキル）](entries/coding-agent/multica-ai-andrej-karpathy-skills.md) ⚑ | 231,320 | 22,999 | 停滞 | 0 | 2026-04-20 | 2026-11-09 | 2026-11-10 | unknown |
+| [Caveman](entries/coding-agent/juliusbrussee-caveman.md) ⚑ | 118,623 | 6,907 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [Agent Skills](entries/coding-agent/addyosmani-agent-skills.md) ⚑ | 114,537 | 11,972 | 毎日 | 100+ | 2026-11-01 | 2026-11-09 | 2026-11-10 | MIT |
+| [CodeGraph](entries/coding-agent/colbymchenry-codegraph.md) | 77,198 | 5,141 | 毎日 | 100+ | 2026-11-01 | 2026-11-09 | 2026-11-10 | MIT |
+| [herdr](entries/coding-agent/herdrdev-herdr.md) ⚑ | 49,753 | 4,017 | 毎日 | 49 | 2026-11-07 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [claude-code-templates](entries/coding-agent/davila7-claude-code-templates.md) ⚑ | 33,241 | 3,901 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [Craft Anything](entries/coding-agent/storytold-craft-anything.md) | 24,308 | 4,863 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [jcode](entries/coding-agent/1jehuang-jcode.md) | 21,641 | 2,517 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [meta/astryx](entries/coding-agent/meta-astryx.md) ⚑ | 19,713 | 1,502 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [pstack（Lauren Tan / poteto）](entries/coding-agent/cursor-plugins.md) ⚑ | 15,853 | 1,657 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [fast-jev-compaction](entries/coding-agent/tamaratran-fast-jev-compaction.md) ⚑ | 7,933 | 581 | 月次 | 0 | 2026-09-18 | 2026-11-09 | 2026-11-10 | MIT |
+| [ZSeven-W/openpencil](entries/coding-agent/zseven-w-openpencil.md) ⚑ | 7,172 | 625 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [billion-context](entries/coding-agent/ranxianglei-billion-context.md) ⚑ | 5,714 | 433 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | NOASSERTION |
+| [obsidianmd/obsidian-sample-plugin](entries/coding-agent/obsidianmd-obsidian-sample-plugin.md) ⚑ | 4,672 | 1,810 | 停滞 | 0 | 2026-08-02 | 2026-11-09 | 2026-11-10 | 0BSD |
+| [pstack-claude](entries/coding-agent/michael-denyer-pstack-claude.md) ⚑ | 4,178 | 381 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [oh-my-mermaid（omm）](entries/coding-agent/oh-my-mermaid-oh-my-mermaid.md) | 3,389 | 267 | 停滞 | 0 | 2026-04-07 | 2026-11-09 | 2026-11-10 | MIT |
+| [nanoMuse — 自分のデバイスで動くオープンソースパーソナルエージェント](entries/coding-agent/nano-muse-nanomuse.md) ⚑ | 3,358 | 402 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
+| [ppmpreetham/BUI](entries/coding-agent/ppmpreetham-bui.md) ⚑ | 2,363 | 95 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
+| [reacher-z/Awesome-REA](entries/coding-agent/reacher-z-awesome-rea.md) ⚑ | 2,312 | 421 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [Dual-Brain — 設計とコードの二視点レビュー用スキル](entries/coding-agent/sleeplesshan-dual-brain.md) ⚑ | 143 | 11 | 週次 | 6 | 2026-11-06 | 2026-11-09 | 2026-11-10 | MIT |
+| [quicksilver](entries/coding-agent/uditakhourii-quicksilver.md) ⚑ | 142 | 11 | 停滞 | 0 | 2026-09-25 | 2026-11-09 | 2026-11-10 | MIT |
 
 ### その他（18）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
-| [career-ops](entries/other/career-ops-hq-career-ops.md) | 81,473 | 14,978 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | MIT |
-| [MediaCrawler](entries/other/nanmicoder-mediacrawler.md) ⚑ | 70,741 | 13,389 | 毎日 | 21 | 2026-11-09 | 2026-11-09 | 2026-11-09 | 未確認（API は NOASSERTION、標準ライセンスファイル無し） |
-| [DuckDB](entries/other/duckdb-duckdb.md) | 42,947 | 4,180 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | MIT |
-| [Heretic](entries/other/p-e-w-heretic.md) | 40,132 | 4,590 | 毎日 | 29 | 2026-11-08 | 2026-11-09 | 2026-11-09 | AGPL-3.0 |
-| [OfficeCLI](entries/other/iofficeai-officecli.md) | 33,171 | 2,271 | 毎日 | 80 | 2026-10-30 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
-| [Google Workspace CLI (gws)](entries/other/googleworkspace-cli.md) ⚑ | 32,212 | 1,988 | 月次 | 1 | 2026-11-03 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
-| [Horizon](entries/other/thysrael-horizon.md) | 13,147 | 1,876 | 毎日 | 80 | 2026-11-09 | 2026-11-09 | 2026-11-09 | MIT |
-| [OBLITERATUS](entries/other/elder-plinius-obliteratus.md) | 9,407 | 1,706 | 毎日 | 100+ | 2026-11-05 | 2026-11-09 | 2026-11-09 | AGPL-3.0 |
-| [APScheduler](entries/other/agronholm-apscheduler.md) | 7,698 | 822 | 週次 | 4 | 2026-10-26 | 2026-11-09 | 2026-11-09 | MIT |
-| [Nuxt UI](entries/other/nuxt-ui.md) | 7,061 | 1,154 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | MIT |
-| [Sandstorm（アイドル状態のエージェントsandboxをスナップショットして1台に数千個載せる）](entries/other/deeplethe-sandstorm.md) | 5,955 | 490 | 毎日 | 100+ | 2026-11-01 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
-| [Auto-Editor](entries/other/wyattblue-auto-editor.md) ⚑ | 5,824 | 725 | 毎日 | 100+ | 2026-11-08 | 2026-11-09 | 2026-11-09 | Unlicense |
-| [ScopeSentry](entries/other/autumn-27-scopesentry.md) ⚑ | 2,334 | 554 | 月次 | 3 | 2026-10-11 | 2026-11-09 | 2026-11-09 | unknown |
-| [awesome-reverse-engineering](entries/other/morluto-awesome-reverse-engineering.md) | 1,991 | 440 | 毎日 | 99 | 2026-11-09 | 2026-11-09 | 2026-11-09 | CC0-1.0 |
-| [Motion Video Kit](entries/other/echris6-motion-video-kit.md) ⚑ | 1,378 | 123 | 月次 | 1 | 2026-10-14 | 2026-11-09 | 2026-11-09 | MIT |
-| [WeVisOne-VL](entries/other/tencent-wevisone-vl.md) | 1,111 | 95 | 月次 | 3 | 2026-10-25 | 2026-11-09 | 2026-11-09 | Apache-2.0（Tencent 著作部分） |
-| [DSH 破甲ワークフロー（dsh-jailbreak-workflow）](entries/other/minglink-dsh-jailbreak-workflow.md) ⚑ | 816 | 284 | 週次 | 18 | 2026-11-05 | 2026-11-09 | 2026-11-09 | 未確認（API は NOASSERTION、標準ライセンスファイル無し） |
-| [jev-guard](entries/other/leepokai-jev-guard.md) ⚑ | 150 | 24 | 月次 | 0 | 2026-10-02 | 2026-11-09 | 2026-11-09 | MIT |
+| [career-ops](entries/other/career-ops-hq-career-ops.md) | 81,473 | 14,978 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [MediaCrawler](entries/other/nanmicoder-mediacrawler.md) ⚑ | 70,741 | 13,389 | 毎日 | 21 | 2026-11-09 | 2026-11-09 | 2026-11-10 | 未確認（API は NOASSERTION、標準ライセンスファイル無し） |
+| [DuckDB](entries/other/duckdb-duckdb.md) | 42,947 | 4,180 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [Heretic](entries/other/p-e-w-heretic.md) | 40,132 | 4,590 | 毎日 | 29 | 2026-11-08 | 2026-11-09 | 2026-11-10 | AGPL-3.0 |
+| [OfficeCLI](entries/other/iofficeai-officecli.md) | 33,171 | 2,271 | 毎日 | 80 | 2026-10-30 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [Google Workspace CLI (gws)](entries/other/googleworkspace-cli.md) ⚑ | 32,212 | 1,988 | 月次 | 1 | 2026-11-03 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [Horizon](entries/other/thysrael-horizon.md) | 13,147 | 1,876 | 毎日 | 80 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [OBLITERATUS](entries/other/elder-plinius-obliteratus.md) | 9,407 | 1,706 | 毎日 | 100+ | 2026-11-05 | 2026-11-09 | 2026-11-10 | AGPL-3.0 |
+| [APScheduler](entries/other/agronholm-apscheduler.md) | 7,698 | 822 | 週次 | 4 | 2026-10-26 | 2026-11-09 | 2026-11-10 | MIT |
+| [Nuxt UI](entries/other/nuxt-ui.md) | 7,061 | 1,154 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [Sandstorm（アイドル状態のエージェントsandboxをスナップショットして1台に数千個載せる）](entries/other/deeplethe-sandstorm.md) | 5,955 | 490 | 毎日 | 100+ | 2026-11-01 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [Auto-Editor](entries/other/wyattblue-auto-editor.md) ⚑ | 5,824 | 725 | 毎日 | 100+ | 2026-11-08 | 2026-11-09 | 2026-11-10 | Unlicense |
+| [ScopeSentry](entries/other/autumn-27-scopesentry.md) ⚑ | 2,334 | 554 | 月次 | 3 | 2026-10-11 | 2026-11-09 | 2026-11-10 | unknown |
+| [awesome-reverse-engineering](entries/other/morluto-awesome-reverse-engineering.md) | 1,991 | 440 | 毎日 | 99 | 2026-11-09 | 2026-11-09 | 2026-11-10 | CC0-1.0 |
+| [Motion Video Kit](entries/other/echris6-motion-video-kit.md) ⚑ | 1,378 | 123 | 月次 | 1 | 2026-10-14 | 2026-11-09 | 2026-11-10 | MIT |
+| [WeVisOne-VL](entries/other/tencent-wevisone-vl.md) | 1,111 | 95 | 月次 | 3 | 2026-10-25 | 2026-11-09 | 2026-11-10 | Apache-2.0（Tencent 著作部分） |
+| [DSH 破甲ワークフロー（dsh-jailbreak-workflow）](entries/other/minglink-dsh-jailbreak-workflow.md) ⚑ | 816 | 284 | 週次 | 18 | 2026-11-05 | 2026-11-09 | 2026-11-10 | 未確認（API は NOASSERTION、標準ライセンスファイル無し） |
+| [jev-guard](entries/other/leepokai-jev-guard.md) ⚑ | 150 | 24 | 月次 | 0 | 2026-10-02 | 2026-11-09 | 2026-11-10 | MIT |
 
 ### 金融・クオンツ（17）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
-| [Freqtrade](entries/finance-quant/freqtrade-freqtrade.md) | 56,701 | 11,723 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | GPL-3.0 |
-| [Kronos](entries/finance-quant/shiyu-coder-kronos.md) | 47,426 | 7,839 | 停滞 | 0 | 2026-04-13 | 2026-11-09 | 2026-11-09 | MIT |
-| [CCXT](entries/finance-quant/ccxt-ccxt.md) | 44,839 | 8,963 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | MIT |
-| [awesome-quant](entries/finance-quant/wilsonfreitas-awesome-quant.md) | 30,551 | 4,327 | 毎日 | 57 | 2026-11-09 | 2026-11-09 | 2026-11-09 | unknown |
-| [backtrader](entries/finance-quant/mementum-backtrader.md) | 23,701 | 5,324 | 停滞 | 0 | 2024-08-19 | 2026-11-09 | 2026-11-09 | GPL-3.0 |
-| [machine-learning-for-trading](entries/finance-quant/stefan-jansen-machine-learning-for-trading.md) | 21,767 | 5,767 | 毎日 | 22 | 2026-11-06 | 2026-11-09 | 2026-11-09 | MIT |
-| [Zipline (Quantopian)](entries/finance-quant/quantopian-zipline.md) | 20,224 | 5,064 | 停滞 | 0 | 2024-02-13 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
-| [Lightweight Charts](entries/finance-quant/tradingview-lightweight-charts.md) | 17,828 | 2,700 | 毎日 | 81 | 2026-11-09 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
-| [TA-Lib Python](entries/finance-quant/ta-lib-ta-lib-python.md) | 12,395 | 2,009 | 毎日 | 36 | 2026-11-09 | 2026-11-09 | 2026-11-09 | BSD-2-Clause |
-| [quant-trading](entries/finance-quant/je-suis-tm-quant-trading.md) | 11,224 | 1,959 | 停滞 | 0 | 2026-06-20 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
-| [vectorbt](entries/finance-quant/polakowo-vectorbt.md) | 9,782 | 1,280 | 毎日 | 49 | 2026-11-08 | 2026-11-09 | 2026-11-09 | Apache-2.0 + Commons Clause（販売不可） |
-| [QuantStats](entries/finance-quant/ranaroussi-quantstats.md) | 7,840 | 1,285 | 月次 | 1 | 2026-11-02 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
-| [cryptofeed](entries/finance-quant/bmoscon-cryptofeed.md) | 3,018 | 791 | 毎日 | 49 | 2026-11-09 | 2026-11-09 | 2026-11-09 | AGPL-3.0 |
-| [QuantSkills](entries/finance-quant/quantskills-quantskills.md) | 2,624 | 242 | 毎日 | 55 | 2026-11-09 | 2026-11-09 | 2026-11-09 | unknown |
-| [skfolio](entries/finance-quant/skfolio-skfolio.md) | 2,618 | 305 | 毎日 | 81 | 2026-11-08 | 2026-11-09 | 2026-11-09 | BSD-3-Clause |
-| [serenity-stock-choke](entries/finance-quant/fadewalk-serenity-stock-choke.md) | 531 | 56 | 月次 | 0 | 2026-10-06 | 2026-11-09 | 2026-11-09 | MIT |
-| [A-Share Quant Selector](entries/finance-quant/dzy-hw-xd-a-share-quant-selector.md) | 513 | 109 | 停滞 | 0 | 2026-09-08 | 2026-11-09 | 2026-11-09 | MIT |
+| [Freqtrade](entries/finance-quant/freqtrade-freqtrade.md) | 56,701 | 11,723 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
+| [Kronos](entries/finance-quant/shiyu-coder-kronos.md) | 47,426 | 7,839 | 停滞 | 0 | 2026-04-13 | 2026-11-09 | 2026-11-10 | MIT |
+| [CCXT](entries/finance-quant/ccxt-ccxt.md) | 44,839 | 8,963 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [awesome-quant](entries/finance-quant/wilsonfreitas-awesome-quant.md) | 30,551 | 4,327 | 毎日 | 57 | 2026-11-09 | 2026-11-09 | 2026-11-10 | unknown |
+| [backtrader](entries/finance-quant/mementum-backtrader.md) | 23,701 | 5,324 | 停滞 | 0 | 2024-08-19 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
+| [machine-learning-for-trading](entries/finance-quant/stefan-jansen-machine-learning-for-trading.md) | 21,767 | 5,767 | 毎日 | 22 | 2026-11-06 | 2026-11-09 | 2026-11-10 | MIT |
+| [Zipline (Quantopian)](entries/finance-quant/quantopian-zipline.md) | 20,224 | 5,064 | 停滞 | 0 | 2024-02-13 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [Lightweight Charts](entries/finance-quant/tradingview-lightweight-charts.md) | 17,828 | 2,700 | 毎日 | 81 | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [TA-Lib Python](entries/finance-quant/ta-lib-ta-lib-python.md) | 12,395 | 2,009 | 毎日 | 36 | 2026-11-09 | 2026-11-09 | 2026-11-10 | BSD-2-Clause |
+| [quant-trading](entries/finance-quant/je-suis-tm-quant-trading.md) | 11,224 | 1,959 | 停滞 | 0 | 2026-06-20 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [vectorbt](entries/finance-quant/polakowo-vectorbt.md) | 9,782 | 1,280 | 毎日 | 49 | 2026-11-08 | 2026-11-09 | 2026-11-10 | Apache-2.0 + Commons Clause（販売不可） |
+| [QuantStats](entries/finance-quant/ranaroussi-quantstats.md) | 7,840 | 1,285 | 月次 | 1 | 2026-11-02 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [cryptofeed](entries/finance-quant/bmoscon-cryptofeed.md) | 3,018 | 791 | 毎日 | 49 | 2026-11-09 | 2026-11-09 | 2026-11-10 | AGPL-3.0 |
+| [QuantSkills](entries/finance-quant/quantskills-quantskills.md) | 2,624 | 242 | 毎日 | 55 | 2026-11-09 | 2026-11-09 | 2026-11-10 | unknown |
+| [skfolio](entries/finance-quant/skfolio-skfolio.md) | 2,618 | 305 | 毎日 | 81 | 2026-11-08 | 2026-11-09 | 2026-11-10 | BSD-3-Clause |
+| [serenity-stock-choke](entries/finance-quant/fadewalk-serenity-stock-choke.md) | 531 | 56 | 月次 | 0 | 2026-10-06 | 2026-11-09 | 2026-11-10 | MIT |
+| [A-Share Quant Selector](entries/finance-quant/dzy-hw-xd-a-share-quant-selector.md) | 513 | 109 | 停滞 | 0 | 2026-09-08 | 2026-11-09 | 2026-11-10 | MIT |
 
 ### RAG・検索（15）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
-| [Graphify](entries/rag/graphify-labs-graphify.md) ⚑ | 144,984 | 13,875 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
-| [HKUDS/DeepTutor](entries/rag/hkuds-deeptutor.md) ⚑ | 57,584 | 7,020 | 毎日 | 100+ | 2026-11-07 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
-| [OpenDataLoader PDF](entries/rag/opendataloader-project-opendataloader-pdf.md) | 30,261 | 2,897 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
-| [obsidianmd/obsidian-releases](entries/rag/obsidianmd-obsidian-releases.md) ⚑ | 23,200 | 7,954 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | unknown |
-| [pdf-inspector](entries/rag/firecrawl-pdf-inspector.md) | 19,971 | 1,359 | 月次 | 0 | 2026-10-22 | 2026-11-09 | 2026-11-09 | MIT |
-| [NVIDIA/auto-ontology](entries/rag/nvidia-auto-ontology.md) ⚑ | 10,982 | 897 | 毎日 | 95 | 2026-11-09 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
-| [Local Deep Research](entries/rag/learningcircuit-local-deep-research.md) | 9,556 | 910 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | MIT |
-| [DigUp](entries/rag/arahim3-digup.md) | 6,341 | 501 | 毎日 | 100+ | 2026-10-26 | 2026-11-09 | 2026-11-09 | MIT |
-| [kepano/kepano-obsidian](entries/rag/kepano-kepano-obsidian.md) ⚑ | 5,521 | 448 | 停滞 | 0 | 2026-01-09 | 2026-11-09 | 2026-11-09 | MIT |
-| [OpenKB](entries/rag/vectifyai-openkb.md) | 4,862 | 504 | 停滞 | 0 | 2026-07-22 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
-| [zvec-ai/zvec-grep](entries/rag/zvec-ai-zvec-grep.md) ⚑ | 4,298 | 263 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
-| [obsidianmd/jsoncanvas](entries/rag/obsidianmd-jsoncanvas.md) ⚑ | 3,852 | 183 | 停滞 | 0 | 2026-07-24 | 2026-11-09 | 2026-11-09 | MIT |
-| [zilliztech/memsearch](entries/rag/zilliztech-memsearch.md) ⚑ | 2,847 | 281 | 毎日 | 29 | 2026-11-09 | 2026-11-09 | 2026-11-09 | MIT |
-| [kepano/40-questions](entries/rag/kepano-40-questions.md) ⚑ | 1,782 | 202 | 停滞 | 0 | 2026-03-09 | 2026-11-09 | 2026-11-09 | unknown |
-| [Fulcra Agent Skills](entries/rag/fulcradynamics-agent-skills.md) ⚑ | 16 | 11 | 週次 | 10 | 2026-11-06 | 2026-11-09 | 2026-11-09 | unknown |
+| [Graphify](entries/rag/graphify-labs-graphify.md) ⚑ | 144,984 | 13,875 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [HKUDS/DeepTutor](entries/rag/hkuds-deeptutor.md) ⚑ | 57,584 | 7,020 | 毎日 | 100+ | 2026-11-07 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [OpenDataLoader PDF](entries/rag/opendataloader-project-opendataloader-pdf.md) | 30,261 | 2,897 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [obsidianmd/obsidian-releases](entries/rag/obsidianmd-obsidian-releases.md) ⚑ | 23,200 | 7,954 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | unknown |
+| [pdf-inspector](entries/rag/firecrawl-pdf-inspector.md) | 19,971 | 1,359 | 月次 | 0 | 2026-10-22 | 2026-11-09 | 2026-11-10 | MIT |
+| [NVIDIA/auto-ontology](entries/rag/nvidia-auto-ontology.md) ⚑ | 10,982 | 897 | 毎日 | 95 | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [Local Deep Research](entries/rag/learningcircuit-local-deep-research.md) | 9,556 | 910 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [DigUp](entries/rag/arahim3-digup.md) | 6,341 | 501 | 毎日 | 100+ | 2026-10-26 | 2026-11-09 | 2026-11-10 | MIT |
+| [kepano/kepano-obsidian](entries/rag/kepano-kepano-obsidian.md) ⚑ | 5,521 | 448 | 停滞 | 0 | 2026-01-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [OpenKB](entries/rag/vectifyai-openkb.md) | 4,862 | 504 | 停滞 | 0 | 2026-07-22 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [zvec-ai/zvec-grep](entries/rag/zvec-ai-zvec-grep.md) ⚑ | 4,298 | 263 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [obsidianmd/jsoncanvas](entries/rag/obsidianmd-jsoncanvas.md) ⚑ | 3,852 | 183 | 停滞 | 0 | 2026-07-24 | 2026-11-09 | 2026-11-10 | MIT |
+| [zilliztech/memsearch](entries/rag/zilliztech-memsearch.md) ⚑ | 2,847 | 281 | 毎日 | 29 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [kepano/40-questions](entries/rag/kepano-40-questions.md) ⚑ | 1,782 | 202 | 停滞 | 0 | 2026-03-09 | 2026-11-09 | 2026-11-10 | unknown |
+| [Fulcra Agent Skills](entries/rag/fulcradynamics-agent-skills.md) ⚑ | 16 | 11 | 週次 | 10 | 2026-11-06 | 2026-11-09 | 2026-11-10 | unknown |
 
 ### 画像生成・編集（13）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
-| [ostris/ai-toolkit](entries/image-gen/ostris-ai-toolkit.md) ⚑ | 12,595 | 1,616 | 毎日 | 55 | 2026-11-09 | 2026-11-09 | 2026-11-09 | MIT |
-| [facebookresearch/sam3](entries/image-gen/facebookresearch-sam3.md) ⚑ | 12,252 | 1,857 | 月次 | 2 | 2026-10-23 | 2026-11-09 | 2026-11-09 | NOASSERTION |
-| [pixelfx](entries/image-gen/patch-gg-pixelfx.md) | 6,308 | 830 | 週次 | 9 | 2026-11-09 | 2026-11-09 | 2026-11-09 | MIT |
-| [Agent Sprite Forge](entries/image-gen/0x0funky-agent-sprite-forge.md) ⚑ | 5,456 | 533 | 月次 | 3 | 2026-11-06 | 2026-11-09 | 2026-11-09 | MIT |
-| [FLUX.2](entries/image-gen/black-forest-labs-flux2.md) | 2,862 | 222 | 停滞 | 0 | 2026-03-12 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
-| [Qwen-Image-2.1](entries/image-gen/qwenlm-qwen-image-2.1.md) | 2,189 | 158 | 月次 | 3 | 2026-10-14 | 2026-11-09 | 2026-11-09 | NOASSERTION |
-| [ComfyUI AICG3D PoseSwap](entries/image-gen/jgrfw-comfyui-pose-swap.md) | 330 | 47 | 週次 | 7 | 2026-11-01 | 2026-11-09 | 2026-11-09 | MIT |
-| [Iris-3B Metal](entries/image-gen/tky-27-iris-3b-metal.md) | 58 | 2 | 毎日 | 36 | 2026-10-19 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
-| [Lyricccco/tailsteer](entries/image-gen/lyricccco-tailsteer.md) ⚑ | 49 | 1 | 週次 | 11 | 2026-11-09 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
-| [ComfyUI-MossPanelDataset](entries/image-gen/sepiablue-ai-comfyui-mosspaneldataset.md) | 41 | 5 | 週次 | 18 | 2026-11-05 | 2026-11-09 | 2026-11-09 | MIT |
-| [rhinoc/xprite-lighter](entries/image-gen/rhinoc-xprite-lighter.md) ⚑ | 15 | 0 | 毎日 | 91 | 2026-11-08 | 2026-11-09 | 2026-11-09 | MIT |
-| [sepiablue-ai/ComfyUI-PH3-Manga](entries/image-gen/sepiablue-ai-comfyui-ph3-manga.md) ⚑ | 8 | 0 | 週次 | 10 | 2026-11-07 | 2026-11-09 | 2026-11-09 | MIT |
-| [ComfyUI Prompt Atelier](entries/image-gen/renz1998-comfyui-prompt-atelier.md) | 3 | 0 | 毎日 | 51 | 2026-11-09 | 2026-11-09 | 2026-11-09 | GPL-3.0 |
+| [ostris/ai-toolkit](entries/image-gen/ostris-ai-toolkit.md) ⚑ | 12,595 | 1,616 | 毎日 | 55 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [facebookresearch/sam3](entries/image-gen/facebookresearch-sam3.md) ⚑ | 12,252 | 1,857 | 月次 | 2 | 2026-10-23 | 2026-11-09 | 2026-11-10 | NOASSERTION |
+| [pixelfx](entries/image-gen/patch-gg-pixelfx.md) | 6,308 | 830 | 週次 | 9 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [Agent Sprite Forge](entries/image-gen/0x0funky-agent-sprite-forge.md) ⚑ | 5,456 | 533 | 月次 | 3 | 2026-11-06 | 2026-11-09 | 2026-11-10 | MIT |
+| [FLUX.2](entries/image-gen/black-forest-labs-flux2.md) | 2,862 | 222 | 停滞 | 0 | 2026-03-12 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [Qwen-Image-2.1](entries/image-gen/qwenlm-qwen-image-2.1.md) | 2,189 | 158 | 月次 | 3 | 2026-10-14 | 2026-11-09 | 2026-11-10 | NOASSERTION |
+| [ComfyUI AICG3D PoseSwap](entries/image-gen/jgrfw-comfyui-pose-swap.md) | 330 | 47 | 週次 | 7 | 2026-11-01 | 2026-11-09 | 2026-11-10 | MIT |
+| [Iris-3B Metal](entries/image-gen/tky-27-iris-3b-metal.md) | 58 | 2 | 毎日 | 36 | 2026-10-19 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [Lyricccco/tailsteer](entries/image-gen/lyricccco-tailsteer.md) ⚑ | 49 | 1 | 週次 | 11 | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [ComfyUI-MossPanelDataset](entries/image-gen/sepiablue-ai-comfyui-mosspaneldataset.md) | 41 | 5 | 週次 | 18 | 2026-11-05 | 2026-11-09 | 2026-11-10 | MIT |
+| [rhinoc/xprite-lighter](entries/image-gen/rhinoc-xprite-lighter.md) ⚑ | 15 | 0 | 毎日 | 91 | 2026-11-08 | 2026-11-09 | 2026-11-10 | MIT |
+| [sepiablue-ai/ComfyUI-PH3-Manga](entries/image-gen/sepiablue-ai-comfyui-ph3-manga.md) ⚑ | 8 | 0 | 週次 | 10 | 2026-11-07 | 2026-11-09 | 2026-11-10 | MIT |
+| [ComfyUI Prompt Atelier](entries/image-gen/renz1998-comfyui-prompt-atelier.md) | 3 | 0 | 毎日 | 51 | 2026-11-09 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
 
 ### プロンプト（デザイン/UI）（9）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
-| [Awesome DESIGN.md](entries/prompt-design/voltagent-awesome-design-md.md) ⚑ | 126,314 | 13,979 | 週次 | 5 | 2026-10-28 | 2026-11-09 | 2026-11-09 | MIT |
-| [Marketing Skills (cold-email)](entries/prompt-design/coreyhaines31-marketingskills.md) ⚑ | 59,400 | 8,675 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | MIT |
-| [Hallmark（AIっぽさを名指しで潰すデザインスキル）](entries/prompt-design/nutlope-hallmark.md) ⚑ | 51,710 | 2,750 | 毎日 | 85 | 2026-11-05 | 2026-11-09 | 2026-11-09 | MIT |
-| [prompt-master](entries/prompt-design/nidhinjs-prompt-master.md) ⚑ | 15,766 | 1,819 | 週次 | 7 | 2026-10-22 | 2026-11-09 | 2026-11-09 | MIT |
-| [handraw-style](entries/prompt-design/yang0-handraw-style.md) | 7,265 | 852 | 毎日 | 60 | 2026-11-09 | 2026-11-09 | 2026-11-09 | NOASSERTION |
-| [kepano/obsidian-minimal](entries/prompt-design/kepano-obsidian-minimal.md) ⚑ | 5,555 | 295 | 月次 | 0 | 2026-10-06 | 2026-11-09 | 2026-11-09 | MIT |
-| [kepano/flexoki](entries/prompt-design/kepano-flexoki.md) ⚑ | 3,810 | 139 | 停滞 | 0 | 2026-03-07 | 2026-11-09 | 2026-11-09 | MIT |
-| [better-readme](entries/prompt-design/tommy0103-better-readme-skill.md) ⚑ | 32 | 1 | 停滞 | 0 | 2026-10-08 | 2026-11-09 | 2026-11-09 | MIT |
-| [GUntilB/Anima-Prompt-Generator](entries/prompt-design/guntilb-anima-prompt-generator.md) ⚑ | 13 | 1 | 月次 | 3 | 2026-11-08 | 2026-11-09 | 2026-11-09 | GPL-3.0 |
+| [Awesome DESIGN.md](entries/prompt-design/voltagent-awesome-design-md.md) ⚑ | 126,314 | 13,979 | 週次 | 5 | 2026-10-28 | 2026-11-09 | 2026-11-10 | MIT |
+| [Marketing Skills (cold-email)](entries/prompt-design/coreyhaines31-marketingskills.md) ⚑ | 59,400 | 8,675 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [Hallmark（AIっぽさを名指しで潰すデザインスキル）](entries/prompt-design/nutlope-hallmark.md) ⚑ | 51,710 | 2,750 | 毎日 | 85 | 2026-11-05 | 2026-11-09 | 2026-11-10 | MIT |
+| [prompt-master](entries/prompt-design/nidhinjs-prompt-master.md) ⚑ | 15,766 | 1,819 | 週次 | 7 | 2026-10-22 | 2026-11-09 | 2026-11-10 | MIT |
+| [handraw-style](entries/prompt-design/yang0-handraw-style.md) | 7,265 | 852 | 毎日 | 60 | 2026-11-09 | 2026-11-09 | 2026-11-10 | NOASSERTION |
+| [kepano/obsidian-minimal](entries/prompt-design/kepano-obsidian-minimal.md) ⚑ | 5,555 | 295 | 月次 | 0 | 2026-10-06 | 2026-11-09 | 2026-11-10 | MIT |
+| [kepano/flexoki](entries/prompt-design/kepano-flexoki.md) ⚑ | 3,810 | 139 | 停滞 | 0 | 2026-03-07 | 2026-11-09 | 2026-11-10 | MIT |
+| [better-readme](entries/prompt-design/tommy0103-better-readme-skill.md) ⚑ | 32 | 1 | 停滞 | 0 | 2026-10-08 | 2026-11-09 | 2026-11-10 | MIT |
+| [GUntilB/Anima-Prompt-Generator](entries/prompt-design/guntilb-anima-prompt-generator.md) ⚑ | 13 | 1 | 月次 | 3 | 2026-11-08 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
 
 ### MCPサーバー（8）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
-| [REA](entries/mcp-server/morluto-rea.md) ⚑ | 446,665 | 110,198 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | MIT |
-| [Scrapling](entries/mcp-server/d4vinci-scrapling.md) | 100,495 | 10,502 | 毎日 | 97 | 2026-11-09 | 2026-11-09 | 2026-11-09 | BSD-3-Clause |
-| [Playwright MCP](entries/mcp-server/microsoft-playwright-mcp.md) | 39,387 | 3,410 | 週次 | 18 | 2026-11-09 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
-| [treg（REA growth スキル同梱のエージェント用ツールレジストリ）](entries/mcp-server/superdesigndev-treg.md) | 7,723 | 704 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | Apache-2.0 + 追加条項（GitHub API は NOASSERTION） |
-| [World Intelligence MCP](entries/mcp-server/marc-shade-world-intel-mcp.md) | 1,067 | 176 | 毎日 | 100+ | 2026-10-18 | 2026-11-09 | 2026-11-09 | MIT |
-| [ExcelMcp（本物のExcelをCOM経由でAIに操作させるMCPサーバ／CLI）](entries/mcp-server/sbroenne-mcp-server-excel.md) | 875 | 108 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | MIT |
-| [Graphicle（コードグラフと記憶を1つのMCPサーバでエージェントに渡すRust製ツール）](entries/mcp-server/graphicle-ai-graphicle.md) | 543 | 41 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
-| [pagesift](entries/mcp-server/yolow92-pagesift.md) ⚑ | 256 | 32 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | AGPL-3.0 |
+| [REA](entries/mcp-server/morluto-rea.md) ⚑ | 446,665 | 110,198 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [Scrapling](entries/mcp-server/d4vinci-scrapling.md) | 100,495 | 10,502 | 毎日 | 97 | 2026-11-09 | 2026-11-09 | 2026-11-10 | BSD-3-Clause |
+| [Playwright MCP](entries/mcp-server/microsoft-playwright-mcp.md) | 39,387 | 3,410 | 週次 | 18 | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [treg（REA growth スキル同梱のエージェント用ツールレジストリ）](entries/mcp-server/superdesigndev-treg.md) | 7,723 | 704 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 + 追加条項（GitHub API は NOASSERTION） |
+| [World Intelligence MCP](entries/mcp-server/marc-shade-world-intel-mcp.md) | 1,067 | 176 | 毎日 | 100+ | 2026-10-18 | 2026-11-09 | 2026-11-10 | MIT |
+| [ExcelMcp（本物のExcelをCOM経由でAIに操作させるMCPサーバ／CLI）](entries/mcp-server/sbroenne-mcp-server-excel.md) | 875 | 108 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [Graphicle（コードグラフと記憶を1つのMCPサーバでエージェントに渡すRust製ツール）](entries/mcp-server/graphicle-ai-graphicle.md) | 543 | 41 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [pagesift](entries/mcp-server/yolow92-pagesift.md) ⚑ | 256 | 32 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | AGPL-3.0 |
 
 ### 評価・ベンチマーク（5）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
-| [promptfoo](entries/eval/promptfoo-promptfoo.md) ⚑ | 27,000 | 2,700 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | MIT |
-| [garak (Generative AI Red-teaming and Assessment Kit)](entries/eval/nvidia-garak.md) ⚑ | 9,967 | 1,462 | 毎日 | 91 | 2026-11-06 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
-| [AI-Infra-Guard (A.I.G)](entries/eval/tencent-ai-infra-guard.md) | 7,447 | 746 | 毎日 | 50 | 2026-11-05 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
-| [Goochbeater/Spiritual-Spell-Red-Teaming](entries/eval/goochbeater-spiritual-spell-red-teaming.md) ⚑ | 4,735 | 829 | 毎日 | 34 | 2026-11-08 | 2026-11-09 | 2026-11-09 | unknown |
-| [kodasdream/gamefeel-benchmark](entries/eval/kodasdream-gamefeel-benchmark.md) ⚑ | 13 | 0 | 週次 | 17 | 2026-11-09 | 2026-11-09 | 2026-11-09 | unknown |
+| [promptfoo](entries/eval/promptfoo-promptfoo.md) ⚑ | 27,000 | 2,700 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [garak (Generative AI Red-teaming and Assessment Kit)](entries/eval/nvidia-garak.md) ⚑ | 9,967 | 1,462 | 毎日 | 91 | 2026-11-06 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [AI-Infra-Guard (A.I.G)](entries/eval/tencent-ai-infra-guard.md) | 7,447 | 746 | 毎日 | 50 | 2026-11-05 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [Goochbeater/Spiritual-Spell-Red-Teaming](entries/eval/goochbeater-spiritual-spell-red-teaming.md) ⚑ | 4,735 | 829 | 毎日 | 34 | 2026-11-08 | 2026-11-09 | 2026-11-10 | unknown |
+| [kodasdream/gamefeel-benchmark](entries/eval/kodasdream-gamefeel-benchmark.md) ⚑ | 13 | 0 | 週次 | 17 | 2026-11-09 | 2026-11-09 | 2026-11-10 | unknown |
 
 ### agent（3）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
-| [agent-browser](entries/agent/vercel-labs-agent-browser.md) ⚑ | 48,395 | 3,296 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
-| [niubigeo](entries/agent/albert-weasker-niubigeo.md) ⚑ | 10,180 | 822 | 週次 | 12 | 2026-11-03 | 2026-11-09 | 2026-11-09 | Apache-2.0 |
-| [ontosmith](entries/agent/dongbumlee-ontosmith.md) ⚑ | 259 | 26 | 毎日 | 100+ | 2026-11-08 | 2026-11-09 | 2026-11-09 | MIT |
+| [agent-browser](entries/agent/vercel-labs-agent-browser.md) ⚑ | 48,395 | 3,296 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [niubigeo](entries/agent/albert-weasker-niubigeo.md) ⚑ | 10,180 | 822 | 週次 | 12 | 2026-11-03 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [ontosmith](entries/agent/dongbumlee-ontosmith.md) ⚑ | 259 | 26 | 毎日 | 100+ | 2026-11-08 | 2026-11-09 | 2026-11-10 | MIT |
 
 ### リンク（素材・アイコン・3D）（2）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
-| [lucas-martinic/polyfork-catalog](entries/link-asset/lucas-martinic-polyfork-catalog.md) ⚑ | 499 | 61 | 週次 | 8 | 2026-11-09 | 2026-11-09 | 2026-11-09 | NOASSERTION |
-| [idlerunner00/procedural-pixel-creatures](entries/link-asset/idlerunner00-procedural-pixel-creatures.md) ⚑ | 262 | 31 | 月次 | 0 | 2026-10-05 | 2026-11-09 | 2026-11-09 | MIT |
+| [lucas-martinic/polyfork-catalog](entries/link-asset/lucas-martinic-polyfork-catalog.md) ⚑ | 499 | 61 | 週次 | 8 | 2026-11-09 | 2026-11-09 | 2026-11-10 | NOASSERTION |
+| [idlerunner00/procedural-pixel-creatures](entries/link-asset/idlerunner00-procedural-pixel-creatures.md) ⚑ | 262 | 31 | 月次 | 0 | 2026-10-05 | 2026-11-09 | 2026-11-10 | MIT |
 
 ### image-generation（1）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
-| [Fumika — ローカル漫画・画像・LoRA学習スタジオ](entries/image-generation/7err4-fumika.md) ⚑ | 6 | 3 | 月次 | 2 | 2026-10-25 | 2026-11-09 | 2026-11-09 | NOASSERTION |
+| [Fumika — ローカル漫画・画像・LoRA学習スタジオ](entries/image-generation/7err4-fumika.md) ⚑ | 6 | 3 | 月次 | 2 | 2026-10-25 | 2026-11-09 | 2026-11-10 | NOASSERTION |
 
 ### productivity（1）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
-| [OverlaySubs — PC音声のリアルタイム翻訳オーバーレイ字幕](entries/productivity/sp-yduck-overlaysubs.md) ⚑ | 51 | 5 | 毎日 | 60 | 2026-11-09 | 2026-11-09 | 2026-11-09 | MIT |
+| [OverlaySubs — PC音声のリアルタイム翻訳オーバーレイ字幕](entries/productivity/sp-yduck-overlaysubs.md) ⚑ | 51 | 5 | 毎日 | 60 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
 
 ## プロンプト（14）
 
@@ -858,9 +858,9 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（68）
+## 記事（69）
 
-### 記事（19）
+### 記事（20）
 
 - **[$0のデジタル参謀長で月$80,000の契約候補を作ったというX投稿（動画付き）](articles/2026-10-22-bober_smart-0-80-000-x.md)** ⚑  @Bober_smart
 - **[1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md)** ⚑  @mukadeshinigami（mukade死神）
@@ -871,6 +871,7 @@
 - **[AI作品の売れるコンセプト選定に関する販促記事（本文未取得）](articles/2026-11-09-https-x.com-i-article-2118611825109729280.md)** ⚑  @1banana2546
 - **[ChatGPT + Obsidian で組む英語リスニング訓練システム](articles/2026-09-27-momoai_daily-momoai-chatgpt-obsidian.md)** ⚑  @momoai_daily（momoai沫沫🫧）
 - **[Claude Code に Blender シーンを Python で書かせ、ヘッドレスで回す6段階](articles/2026-10-22-y0urdumble-claude-code-blender-python-6.md)** ⚑  @Y0urDumble
+- **[Control Room](articles/2026-11-09-openai-control-room.md)** ⚑  OpenAI
 - **[Eddie Woo の対数講義――「何倍になるまでの時間」を1本の対数で読む](articles/2026-09-14-xsmryze-eddie-woo-1-589eee2ad8.md)** ⚑  xsmryze
 - **[Last Lecture Series: “How to Win Without Crushing Your Soul” - Graham Weaver（Stanford GSB Class of 2026）](articles/2026-07-14-graham-weaver-stanford-graduate-school-of-business-last-lecture-series-how-to-win-without-f6d1f4ee42.md)** ⚑  Graham Weaver（Stanford Graduate School of Business 公式チャンネル）
 - **[PFNの翻訳特化LLM「PLaMo 3 Translate」をスマホ・Windows・Mac・Linuxに入れる方法](articles/2026-11-05-emma-eva-note-emma_and_eva-pfn-llm-plamo-3-translate-windows-mac-linux.md)** ⚑  Emma先生 & Eva先生（note: emma_and_eva）
@@ -1070,6 +1071,7 @@
 - [AI作品の売れるコンセプト選定に関する販促記事（本文未取得）](articles/2026-11-09-https-x.com-i-article-2118611825109729280.md) — unverified, low-quality / 18+ / NSFWに関連。露骨な例・本文は転載しない。具体的手法、売上効果、教材内容・価格は未確認で成功例として断定しない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [ChatGPT + Obsidian で組む英語リスニング訓練システム](articles/2026-09-27-momoai_daily-momoai-chatgpt-obsidian.md) — unverified / 本文は全文取得済みだが、初回60%→80%の目安や復習間隔は著者の経験則で定量データなし。Obsidian への自動書き込みは公式連携がなく手動運用。
 - [Claude Code に Blender シーンを Python で書かせ、ヘッドレスで回す6段階](articles/2026-10-22-y0urdumble-claude-code-blender-python-6.md) — unverified, low-quality / 主張: 719 voxels・12 joints・16秒/120bpm・音楽も Python 合成・参考画像1枚で修正・『Opus 5.5 が無料でやった』『Blender を一度も開いていない』。確認できた: blender -b（UIなし）と -P（スクリプト実行）は公式引数で、-f によるフレーム単位レンダーも公式。EEVEE は実在しラスタライズ方式。Blender 5.2.3 LTS は投稿当日の 2026-10-22 リリースで無料（GPL）。動画は実測 16.04 秒で『16 sec』と一致。確認できず: 719 voxels / 12 joints / 120bpm / 音楽合成のいずれも投稿と動画キャプション以外の裏付けがなく、再現スクリプトも第三者検証もない。手順3の t.co は scene.py が URL と誤認されたもので資料ではない。誤り・誇張: Free プランに Claude Code は含まれず『無料』は不正確（Pro 月20ドル、Opus 5.5 API は $4/$20 per MTok）。動画のオーバーレイは『CLAUDE OPUS 5.5 x BLENDER MCP』『mcp.connect(blender)』で、ヘッドレス実行とも『一度も開いていない』とも食い違う。『28 beats . 120 bpm』は14秒、ログの beats=12 は6秒で、16秒と整合しない。配布物 arjun988/blender-skills は MCP 前提の 94 skills で、headless/719/120bpm/12 joints の記述は0件——投稿の主張と配布物の実体は別物。『3Dはドリフトしない』は形状のみで、ライティング・フレーミング・アニメーションで印象は変わる（返信で同旨の指摘、著者も同意）。記事本文はログイン必須で未取得のため、記事内の詳細・コード・プロンプトは未確認。
+- [Control Room](articles/2026-11-09-openai-control-room.md) — unverified / 停止まで最大35秒はOpenAIの研究環境についての公表値。独立した計測や稼働環境での再現は行っていない。外部向けの実装・APIの提供は公式記事で確認できない。
 - [Eddie Woo の対数講義――「何倍になるまでの時間」を1本の対数で読む](articles/2026-09-14-xsmryze-eddie-woo-1-589eee2ad8.md) — unverified / 主張: 投資が何倍になるまでの時間は対数1本で、Eddie Woo の5分の講義がそれを自明にする、という投稿。確認できたこと: Eddie Woo はシドニーの公立高校数学教師で、YouTube @misterwootube は登録者2.01M・5,043本・191,145,357回再生（2026-11-09取得）。添付動画は7分51秒の実授業映像で、白板の LOGARITHMS / 2^5=32 / log_2 32=5 / log_3 81=4 と 2,4,8,16,32・3,9,27,81 の説明が Woo の「Introduction to Logarithms (1 of 2: Definition)」（7:52, 2017-08-30）の内容と一致。数学も正しい（log_3 81=4、倍加時間 ln2/ln(1+r)、Rule of 72 は近似）。未確認: 引用元X記事（x.com/i/article/2087190920026365952）の本文はログイン要求で取得できず、fetch_article.py も失敗。動画の音声は未転記で、投稿の「5分で」は実際の7分51秒と一致しない。Rule of 72 は近似であり、実務では変動リターン・手数料・税金で変わる点は投稿に無い。
 - [Last Lecture Series: “How to Win Without Crushing Your Soul” - Graham Weaver（Stanford GSB Class of 2026）](articles/2026-07-14-graham-weaver-stanford-graduate-school-of-business-last-lecture-series-how-to-win-without-f6d1f4ee42.md) — unverified / 確認できたこと: 公式YouTube（Stanford GSB チャンネル）に講演が実在し、タイトルは「Last Lecture Series: “How to Win Without Crushing Your Soul” - Graham Weaver」、公開日 2026-07-14、尺 34:01、Class of 2026 向けの Last Lecture であること（YouTube概要・本人ブログ・本人Instagramで一致）。Weaver は Stanford GSB の Lecturer in Management で Alpine Investors の創業者（GSB教員ページ・Alpine公式）。講演の3実践と引用の多くは公式字幕と一致。誤り・未確認: (1)「10 million people watched」はこの動画単体では約263万回（2026-11-09時点）。WeaverのGSB講演5本の合計が約1,030万回なので、合算を単体の数字として書いた可能性が高い。(2)「33 minutes」は公式34:01、投稿添付クリップは33:31で、切り抜き側の尺。(3)「$16 billion」はAlpine公式の現行表記（$18.8B、25周年ページでは2026-06-30時点$17.7B）より古く過小。(4)「life coaches charge $500 an hour」は一次情報を確認できず未検証。(5) 引用ブロックの「achievement cannot fix self hatred」「what you avoid grows」「unless you skip them」は講演の逐語ではなく投稿者による要約・脚色（講演本体は「I just didn't really like myself」「your nail is the thing you're avoiding」「You're in the good old days now」）。(6) 添付動画は同一講演の再アップロードとみられ、会場・人物・衣装・尺が公式と一致するが、音声の波形一致やフレーム単位の同一性は未確認。講演自体に効果の対照試験や追跡データはなく、内容は本人の体験談と実践の提案である。
 - [PFNの翻訳特化LLM「PLaMo 3 Translate」をスマホ・Windows・Mac・Linuxに入れる方法](articles/2026-11-05-emma-eva-note-emma_and_eva-pfn-llm-plamo-3-translate-windows-mac-linux.md) — unverified / PFN 公式ブログではなく第三者アカウントのまとめ記事。ベンチマーク優位は PFN 自身の評価の引用、iPhone の 0.515 秒は GIGAZINE の 1 回計測の引用で独立検証なし。winget での llama.cpp 導入、PocketPal AI での 0.8B 読み込み手順、llama.app のインストールスクリプト（取得したスクリプトをシェルに渡す方式）は本文の記述のみで未検証。記事末尾は著者の有料講義の宣伝。
