@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 689 件 — リポジトリ 385, リンク集 113, 記事 124, モデル 53, プロンプト 14 / ⚑ 要確認 479 件
+収録 690 件 — リポジトリ 386, リンク集 113, 記事 124, モデル 53, プロンプト 14 / ⚑ 要確認 480 件
 
-## リポジトリ（385）
+## リポジトリ（386）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -154,7 +154,7 @@
 | [X Virality Score](entries/agent-framework/monkeyteamvip-x-virality-score.md) ⚑ | 35 | 19 | 月次 | 3 | 2026-10-27 | 2026-11-09 | 2026-11-10 | MIT |
 | [web-api-skills](entries/agent-framework/oxylabs-web-api-skills.md) | 13 | 1 | 週次 | 11 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
 
-### 3D・モーション（46）
+### 3D・モーション（47）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -182,6 +182,7 @@
 | [nanocle/Charakuru](entries/3d-motion/nanocle-charakuru.md) ⚑ | 1,488 | 126 | 週次 | 5 | 2026-11-02 | 2026-11-09 | 2026-11-10 | NOASSERTION |
 | [livliv-dev/player](entries/3d-motion/livliv-dev-player.md) ⚑ | 1,395 | 146 | 毎日 | 40 | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
 | [NullMotion](entries/3d-motion/blixvip-nullmotion.md) | 1,335 | 133 | 週次 | 16 | 2026-10-31 | 2026-11-04 | 2026-11-04 | MIT |
+| [three.quarks](entries/3d-motion/alchemist0823-three.quarks.md) ⚑ | 1,192 | 76 | 停滞 | 0 | 2026-05-21 | 2026-11-10 | 2026-11-10 | MIT |
 | [toyxyz/toyxyz_RGBMocap](entries/3d-motion/toyxyz-toyxyz_rgbmocap.md) ⚑ | 1,159 | 153 | 毎日 | 49 | 2026-11-09 | 2026-11-09 | 2026-11-10 | NOASSERTION |
 | [HairDeck（1枚の画像からアニメ調ヘアカードと揺れボーンを作る）](entries/3d-motion/hyz317-hairdeck.md) | 1,034 | 77 | 週次 | 7 | 2026-11-05 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
 | [Idol (image-to-3D Gaussian splat SDK)](entries/3d-motion/speridlabs-idol-sdk.md) | 945 | 95 | 週次 | 5 | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
@@ -1120,6 +1121,7 @@
 - [dream-loop](entries/3d-motion/achimala-dream-loop.md) — unverified / ['最新リリースは取得がタイムアウトしたため未確認。', '作者のREADMEではCodex上のGPT-6 Astraのみでテスト済み。Claude Opus 5.5での動作、比較ベンチマーク、デモの画質・FPS、実行費用は未検証。']
 - [nanocle/Charakuru](entries/3d-motion/nanocle-charakuru.md) — unverified / 独自Charakuru Source-Available License and Terms of UseでOSI承認OSSではない。商用・再配布条件、Tripo/API料金を別途確認する。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [livliv-dev/player](entries/3d-motion/livliv-dev-player.md) — unverified / Apache-2.0はプレイヤーのみ。同梱21キャラは個人非商用・クレジット等の別条件で一部さらに例外。公開直後でmodel.json v4等の形式は流動的。 当方でインストール・推論・生成・ベンチ再現はしていない。
+- [three.quarks](entries/3d-motion/alchemist0823-three.quarks.md) — unverified / GitHubの最新リリースと公開日は未確認。バッチ描画による描画呼び出し削減は作者の説明に基づき、削減量やフレームレートは未計測。Three.jsの対応バージョン範囲とAIエージェントとの連携動作も未検証。
 - [toyxyz/toyxyz_RGBMocap](entries/3d-motion/toyxyz-toyxyz_rgbmocap.md) — unverified / MITは自作コードのみ。ExMR/GVHMR/PromptHMRと登録ボディには非商用等の別条件。FlowHMRも重みは非商用であり、コードのApacheを重みに適用しない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [MPFB2](entries/3d-motion/makehumancommunity-mpfb2.md) — unverified / 公式資料に基づく確認。Blenderでの動作、Python経由の自動化、外部モーションキャプチャとの互換性、制作時間や工程全体の費用は未検証。GitHubの最新タグは確認したが、公開日時の年とタイムゾーンは確認できていない。 GitHub APIでライセンスを確認できていません。
 - [patch-gg/anymove](entries/3d-motion/patch-gg-anymove.md) — unverified / 5秒2カメラ0.26ドルだけでなく実用1動作約3ドル・合格率58%等も作者説明。8本脚・寝姿・翼・尻尾等は不可。クラウド版なし、速度・精度は未追試。 当方でインストール・推論・生成・ベンチ再現はしていない。

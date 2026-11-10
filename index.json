@@ -1,5 +1,5 @@
 {
-  "count": 689,
+  "count": 690,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -823,6 +823,37 @@
       "type": "repo",
       "path": "entries/3d-motion/blixvip-nullmotion.md",
       "summary": "完成したモーショングラフィックス広告と、その元になったラフ草案（HyperFrames の下書き）を上下に同期再生し、「どう作られたか」をフレーム単位で追える。"
+    },
+    {
+      "name": "three.quarks",
+      "genre": "3d-motion",
+      "url": "https://github.com/Alchemist0823/three.quarks",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "GitHubの最新リリースと公開日は未確認。バッチ描画による描画呼び出し削減は作者の説明に基づき、削減量やフレームレートは未計測。Three.jsの対応バージョン範囲とAIエージェントとの連携動作も未検証。",
+      "repo": "Alchemist0823/three.quarks",
+      "stars": 1192,
+      "forks": 76,
+      "open_issues": 13,
+      "size_kb": 9601,
+      "language": "TypeScript",
+      "created": "2019-06-16",
+      "updated": "2026-05-21",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 0,
+      "commits_90d": 0,
+      "commit_cadence": "stale",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/okapi_fukugyo/status/2117616982518559161"
+      ],
+      "fetched_at": "2026-11-10T09:56:09Z",
+      "path": "entries/3d-motion/alchemist0823-three.quarks.md",
+      "summary": "火や煙などのパーティクル効果をThree.jsのシーンに追加できる。ビルボード、メッシュ、軌跡の描画に対応し、粒子の寿命に沿って色やサイズを変えられる。"
     },
     {
       "type": "repo",
