@@ -1,5 +1,5 @@
 {
-  "count": 661,
+  "count": 662,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -12824,6 +12824,38 @@
       "fetched_at": "2026-11-09T21:41:03Z",
       "path": "entries/other/googleworkspace-cli.md",
       "summary": "Gmail・Drive・Calendar・Sheets・Docs・Chat・Admin など Workspace の各 API を gws <service> <resource> <method> の1コマンドで呼び、結果を JSON で返す（例: gws drive files list --params '{\"p"
+    },
+    {
+      "repo": "citrolabs/ego-lite",
+      "name": "ego lite",
+      "genre": "other",
+      "url": "https://github.com/citrolabs/ego-lite",
+      "stars": 22387,
+      "forks": 1269,
+      "open_issues": 271,
+      "size_kb": 9054,
+      "language": "JavaScript",
+      "created": "2026-04-16",
+      "updated": "2026-11-10",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 100,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "last_release": "v2.1.0",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "公式リリース一覧ではv2.1.0がLatestと表示された。最新リリースへの直接アクセスはタイムアウトし、公開日時は未確認。作者ベンチマークの再現性、ブラウザデータの取り扱い、Spaces間の分離の実効性は未検証。",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/opensourcelab9/status/2117504564941508613"
+      ],
+      "fetched_at": "2026-11-10T09:19:17Z",
+      "path": "entries/other/citrolabs-ego-lite.md",
+      "summary": "CodexやClaude Codeが専用のSpaceでページを開き、構造化テキストとして内容を読み取ったり、フォームに入力したりできる。利用者は自分のSpaceで閲覧を続けられる。"
     },
     {
       "repo": "dreammis/social-auto-upload",
