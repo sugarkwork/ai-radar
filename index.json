@@ -1,5 +1,5 @@
 {
-  "count": 613,
+  "count": 614,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -5242,6 +5242,25 @@
       ],
       "fetched_at": "2026-11-10T03:38:14Z",
       "path": "articles/2026-11-07-gdg-oau-gdg-oau-agent-skills.md"
+    },
+    {
+      "name": "GPT‑6 Cyber の公式発表",
+      "genre": "article",
+      "url": "https://openai.com/index/introducing-gpt-6-cyber/",
+      "author": "OpenAI",
+      "published": "2026-11-05",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "Firefox と Linux の件数および評価スコアは OpenAI の報告値。個別事例の再現、修正の網羅性、実運用環境での評価結果の一般化は未検証。",
+      "type": "article",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/madhugogineni97/status/2119301403499770185"
+      ],
+      "fetched_at": "2026-11-10T05:45:27Z",
+      "path": "articles/2026-11-05-openai-gpt-6-cyber.md"
     },
     {
       "name": "Genesis Agent Skillsの公開発表",

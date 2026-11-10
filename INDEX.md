@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 613 件 — リポジトリ 331, リンク集 113, 記事 102, モデル 53, プロンプト 14 / ⚑ 要確認 404 件
+収録 614 件 — リポジトリ 331, リンク集 113, 記事 103, モデル 53, プロンプト 14 / ⚑ 要確認 405 件
 
 ## リポジトリ（331）
 
@@ -874,9 +874,9 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（102）
+## 記事（103）
 
-### 記事（48）
+### 記事（49）
 
 - **[$0のデジタル参謀長で月$80,000の契約候補を作ったというX投稿（動画付き）](articles/2026-10-22-bober_smart-0-80-000-x.md)** ⚑  @Bober_smart
 - **[1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md)** ⚑  @mukadeshinigami（mukade死神）
@@ -897,6 +897,7 @@
 - **[Eddie Woo の対数講義――「何倍になるまでの時間」を1本の対数で読む](articles/2026-09-14-xsmryze-eddie-woo-1-589eee2ad8.md)** ⚑  xsmryze
 - **[EmbeddingGemma 2を使ったオンデバイス英語文字起こし](articles/2026-10-12-shahir-embeddinggemma-2.md)** ⚑  Shahir
 - **[GDG OAUのAgent Skillsワークショップ報告](articles/2026-11-07-gdg-oau-gdg-oau-agent-skills.md)** ⚑  GDG OAU
+- **[GPT‑6 Cyber の公式発表](articles/2026-11-05-openai-gpt-6-cyber.md)** ⚑  OpenAI
 - **[Genesis Agent Skillsの公開発表](articles/2026-10-15-u.s.-department-of-energy-office-of-science-genesis-agent-skills.md)** ⚑  U.S. Department of Energy Office of Science
 - **[GitHub Copilot週次更新（11月2日の週）](articles/2026-11-06-github-github-copilot-11-2.md)** ⚑  GitHub
 - **[Kev 0.8Bによる複数ラベル文書分類の試行](articles/2026-09-30-bernat-vadell-kev-0.8b.md)** ⚑  Bernat Vadell
@@ -1133,6 +1134,7 @@
 - [Eddie Woo の対数講義――「何倍になるまでの時間」を1本の対数で読む](articles/2026-09-14-xsmryze-eddie-woo-1-589eee2ad8.md) — unverified / 主張: 投資が何倍になるまでの時間は対数1本で、Eddie Woo の5分の講義がそれを自明にする、という投稿。確認できたこと: Eddie Woo はシドニーの公立高校数学教師で、YouTube @misterwootube は登録者2.01M・5,043本・191,145,357回再生（2026-11-09取得）。添付動画は7分51秒の実授業映像で、白板の LOGARITHMS / 2^5=32 / log_2 32=5 / log_3 81=4 と 2,4,8,16,32・3,9,27,81 の説明が Woo の「Introduction to Logarithms (1 of 2: Definition)」（7:52, 2017-08-30）の内容と一致。数学も正しい（log_3 81=4、倍加時間 ln2/ln(1+r)、Rule of 72 は近似）。未確認: 引用元X記事（x.com/i/article/2087190920026365952）の本文はログイン要求で取得できず、fetch_article.py も失敗。動画の音声は未転記で、投稿の「5分で」は実際の7分51秒と一致しない。Rule of 72 は近似であり、実務では変動リターン・手数料・税金で変わる点は投稿に無い。
 - [EmbeddingGemma 2を使ったオンデバイス英語文字起こし](articles/2026-10-12-shahir-embeddinggemma-2.md) — unverified / 投稿日はUTC。開発者測定で、音源・測定範囲と日本語対応は未確認。
 - [GDG OAUのAgent Skillsワークショップ報告](articles/2026-11-07-gdg-oau-gdg-oau-agent-skills.md) — unverified / 生成工程や効率向上を裏付ける比較計測は未確認。
+- [GPT‑6 Cyber の公式発表](articles/2026-11-05-openai-gpt-6-cyber.md) — unverified / Firefox と Linux の件数および評価スコアは OpenAI の報告値。個別事例の再現、修正の網羅性、実運用環境での評価結果の一般化は未検証。
 - [Genesis Agent Skillsの公開発表](articles/2026-10-15-u.s.-department-of-energy-office-of-science-genesis-agent-skills.md) — unverified / 元のX投稿と短縮URLの転送先は未確認。機能は発表元の説明に基づき、対応する実行環境、導入手順、性能や再現性への効果は未検証。
 - [GitHub Copilot週次更新（11月2日の週）](articles/2026-11-06-github-github-copilot-11-2.md) — unverified / Xcode統合はパブリックプレビュー。JetBrains Airのクラウド実行は組織設定に依存。
 - [Kev 0.8Bによる複数ラベル文書分類の試行](articles/2026-09-30-bernat-vadell-kev-0.8b.md) — unverified / 公開日はUTC。精度・速度は自己申告。評価データと再現性は未確認。
