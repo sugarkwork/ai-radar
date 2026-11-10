@@ -1,5 +1,5 @@
 {
-  "count": 607,
+  "count": 608,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -5109,6 +5109,25 @@
       "fetched_at": "2026-11-08T20:52:35Z",
       "type": "article",
       "path": "articles/2026-10-22-y0urdumble-claude-code-blender-python-6.md"
+    },
+    {
+      "name": "Claude Codeの利用量とAPI料金換算の個人報告",
+      "genre": "article",
+      "url": "https://x.com/bernvadell/status/2114317885174677653",
+      "author": "Bernat Vadell",
+      "published": "2026-10-25",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "自己申告。モデルやキャッシュの有効期間が不明で換算額は再現できない。",
+      "type": "article",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/bernvadell/status/2114317885174677653"
+      ],
+      "fetched_at": "2026-11-10T04:18:49Z",
+      "path": "articles/2026-10-25-bernat-vadell-claude-code-api.md"
     },
     {
       "name": "Claude Codeの補足情報と実行時の権限制御",
