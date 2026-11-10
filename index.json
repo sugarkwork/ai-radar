@@ -1,5 +1,5 @@
 {
-  "count": 669,
+  "count": 670,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -15977,6 +15977,41 @@
       "fetched_at": "2026-11-10T09:29:46Z",
       "path": "entries/tts-audio/resemble-ai-chatterbox.md",
       "summary": "台本を入力して音声を生成し、WAVに保存できる。英語向けのTurboは笑い声などを指定するタグにも対応する。"
+    },
+    {
+      "repo": "SYSTRAN/faster-whisper",
+      "name": "faster-whisper",
+      "genre": "tts-audio",
+      "url": "https://github.com/SYSTRAN/faster-whisper",
+      "last_release": "v1.2.1",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": [
+        "最新リリースのタグは確認済み。公開日の年とタイムゾーンを含む公開日時は未確認。",
+        "性能値は開発元のベンチマーク。今回の精査では実行せず、別の音源や環境での処理速度・認識精度は未検証。"
+      ],
+      "stars": 26637,
+      "forks": 2228,
+      "open_issues": 20,
+      "size_kb": 40527,
+      "language": "Python",
+      "created": "2023-02-11",
+      "updated": "2026-11-06",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 6,
+      "commits_90d": 13,
+      "commit_cadence": "weekly",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/nuannuan_share/status/2119640438135242817"
+      ],
+      "fetched_at": "2026-11-10T09:29:45+00:00",
+      "path": "entries/tts-audio/systran-faster-whisper.md",
+      "summary": "音声ファイルを文字起こしし、区間ごとの開始・終了時刻とテキストを取得できる。単語単位の時刻も取得でき、区間の時刻とテキストを字幕データに整形できる。 [公式README](https://github.com/SYSTRAN/faster-whisper#usage)"
     },
     {
       "repo": "m-bain/whisperX",
