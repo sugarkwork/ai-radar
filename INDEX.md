@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 688 件 — リポジトリ 384, リンク集 113, 記事 124, モデル 53, プロンプト 14 / ⚑ 要確認 478 件
+収録 689 件 — リポジトリ 385, リンク集 113, 記事 124, モデル 53, プロンプト 14 / ⚑ 要確認 479 件
 
-## リポジトリ（384）
+## リポジトリ（385）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -154,7 +154,7 @@
 | [X Virality Score](entries/agent-framework/monkeyteamvip-x-virality-score.md) ⚑ | 35 | 19 | 月次 | 3 | 2026-10-27 | 2026-11-09 | 2026-11-10 | MIT |
 | [web-api-skills](entries/agent-framework/oxylabs-web-api-skills.md) | 13 | 1 | 週次 | 11 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
 
-### 3D・モーション（45）
+### 3D・モーション（46）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -165,6 +165,7 @@
 | [text-to-cad](entries/3d-motion/earthtojake-text-to-cad.md) ⚑ | 25,908 | 2,464 | 毎日 | 45 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
 | [Blender](entries/3d-motion/blender-blender.md) ⚑ | 21,829 | 3,550 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | unknown |
 | [Meshroom](entries/3d-motion/alicevision-meshroom.md) ⚑ | 13,076 | 1,243 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MPL-2.0 |
+| [Jolt Physics](entries/3d-motion/jrouwe-joltphysics.md) ⚑ | 12,261 | 1,013 | 毎日 | 49 | 2026-11-09 | 2026-11-10 | 2026-11-10 | MIT |
 | [FreeMoCap](entries/3d-motion/freemocap-freemocap.md) ⚑ | 10,769 | 1,026 | 月次 | 2 | 2026-11-09 | 2026-11-10 | 2026-11-10 | AGPL-3.0 |
 | [Kimodo](entries/3d-motion/nv-tlabs-kimodo.md) ⚑ | 4,130 | 464 | 週次 | 18 | 2026-10-15 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
 | [facebookresearch/sam-3d-body](entries/3d-motion/facebookresearch-sam-3d-body.md) ⚑ | 3,703 | 438 | 停滞 | 0 | 2026-02-19 | 2026-11-09 | 2026-11-10 | NOASSERTION |
@@ -1108,6 +1109,7 @@
 - [text-to-cad](entries/3d-motion/earthtojake-text-to-cad.md) — unverified / 有効性は配布元の設計説明と自己申告のみで、生成された CAD の寸法精度・製造可能性を第三者が測定した結果は確認していない。DFM/DfAM の検査は mesh 計測と規則の引用だが、規則の妥当性・合否閾値は未検証。PyPI の分類は Development Status :: 4 - Beta。Python 3.14 固定で 3.13 以前では動かない。Windows 11 の Smart App Control 有効環境では OCP のネイティブモジュールが遮断される。既定でテレメトリ有効。リポジトリサイズは API 表記 436,278 KB。
 - [Blender](entries/3d-motion/blender-blender.md) — unverified / GitHubミラーの最新リリース、発見投稿のClaudeによる全工程自動化、外部MCPとの接続、総費用、制作結果は未確認。レンダリング速度や画質の独立実測は行っていない。 GitHub APIでライセンスを確認できていません。
 - [Meshroom](entries/3d-motion/alicevision-meshroom.md) — unverified / Meshroom本体はMPL-2.0。AliceVisionや追加プラグイン、AIモデルの条件は個別に確認。公式マニュアルによると密な深度推定にはCUDA対応NVIDIA GPUが必要で、非CUDA環境は粗いdraft meshingを利用。実行・再構築品質は未検証。
+- [Jolt Physics](entries/3d-motion/jrouwe-joltphysics.md) — unverified / リリースタグは公式の最新リリースページで確認したが、公開日時は未確認。ビルド、性能、AIツールとの連携は実行検証していない。
 - [FreeMoCap](entries/3d-motion/freemocap-freemocap.md) — unverified / 公開資料による確認。インストール、撮影、追跡精度、処理速度、Blender出力の品質は実測していない。最新リリースのタグは公開ページの転送先で確認したが、公開日時は未確認。READMEのソースビルド手順には非公開Git依存があり、公開アクセスだけでの再現性は未確認。
 - [Kimodo](entries/3d-motion/nv-tlabs-kimodo.md) — unverified / コードはApache-2.0、重みはモデル別。SOMA-RP-v1.2はNVIDIA Open Model Licenseで商用利用可能、SMPLX-RP-v1はNVIDIA R&D Model License。Scenarioは別サービスで無料プランの生成物は個人・評価用途に限る。実行・生成品質・Scenario操作は未検証。
 - [facebookresearch/sam-3d-body](entries/3d-motion/facebookresearch-sam-3d-body.md) — unverified / 独自SAM LicenseはMIT/Apacheではなく用途・再配布・法令・プライバシー等に条件。非商用専用と断定する根拠はない。人体動画の同意と権利を確認する。 当方でインストール・推論・生成・ベンチ再現はしていない。

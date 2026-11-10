@@ -1,5 +1,5 @@
 {
-  "count": 688,
+  "count": 689,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -221,6 +221,38 @@
       "last_release_at": "2025-08-19",
       "path": "entries/3d-motion/alicevision-meshroom.md",
       "summary": "複数の写真からカメラ位置と形状を推定し、メッシュやテクスチャを生成するノードベースの視覚的ワークフロー。AliceVisionプラグインでフォトグラメトリー、カメラ追跡、パノラマ等を扱う。独自Pythonノードや外部コマンドで拡張できる。"
+    },
+    {
+      "repo": "jrouwe/JoltPhysics",
+      "name": "Jolt Physics",
+      "genre": "3d-motion",
+      "url": "https://github.com/jrouwe/JoltPhysics",
+      "license": "MIT",
+      "stars": 12261,
+      "language": "C++",
+      "created": "2021-08-12",
+      "updated": "2026-11-09",
+      "forks": 1013,
+      "open_issues": 8,
+      "commits_30d": 49,
+      "commit_cadence": "daily",
+      "commits_90d": 89,
+      "size_kb": 31832,
+      "archived": false,
+      "last_release": "v5.6.0",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "リリースタグは公式の最新リリースページで確認したが、公開日時は未確認。ビルド、性能、AIツールとの連携は実行検証していない。",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/okapi_fukugyo/status/2117616982518559161"
+      ],
+      "fetched_at": "2026-11-10T09:55:54Z",
+      "path": "entries/3d-motion/jrouwe-joltphysics.md",
+      "summary": "球や箱などの剛体の衝突、関節でつないだラグドール、布などの軟体をシミュレートできる。"
     },
     {
       "name": "FreeMoCap",
