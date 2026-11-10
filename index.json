@@ -1,5 +1,5 @@
 {
-  "count": 592,
+  "count": 593,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -5261,6 +5261,25 @@
       ],
       "fetched_at": "2026-11-09T10:22:00+00:00",
       "path": "articles/2026-07-14-graham-weaver-stanford-graduate-school-of-business-last-lecture-series-how-to-win-without-f6d1f4ee42.md"
+    },
+    {
+      "name": "Material Painterを使った部分編集の報告",
+      "genre": "article",
+      "url": "https://x.com/heyhaigh/status/2119221188404855014",
+      "author": "Ry (@heyhaigh)",
+      "published": "2026-11-08",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "専用のinpainting機能と比較効果は未確認。",
+      "type": "article",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/heyhaigh/status/2119221188404855014"
+      ],
+      "fetched_at": "2026-11-10T13:05:18+09:00",
+      "path": "articles/2026-11-08-ry-heyhaigh-material-painter.md"
     },
     {
       "type": "article",

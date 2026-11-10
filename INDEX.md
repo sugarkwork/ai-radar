@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 592 件 — リポジトリ 328, リンク集 110, 記事 87, モデル 53, プロンプト 14 / ⚑ 要確認 385 件
+収録 593 件 — リポジトリ 328, リンク集 110, 記事 88, モデル 53, プロンプト 14 / ⚑ 要確認 386 件
 
 ## リポジトリ（328）
 
@@ -865,9 +865,9 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（87）
+## 記事（88）
 
-### 記事（35）
+### 記事（36）
 
 - **[$0のデジタル参謀長で月$80,000の契約候補を作ったというX投稿（動画付き）](articles/2026-10-22-bober_smart-0-80-000-x.md)** ⚑  @Bober_smart
 - **[1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md)** ⚑  @mukadeshinigami（mukade死神）
@@ -889,6 +889,7 @@
 - **[Kiroの転売をめぐる書簡画像の投稿](articles/2026-10-23-lniosytest-kiro.md)** ⚑  @Lniosytest
 - **[Laddersによる履歴書PDFの抽出評価](articles/2026-11-07-marc-cenedella-ladders-pdf.md)** ⚑  Marc Cenedella
 - **[Last Lecture Series: “How to Win Without Crushing Your Soul” - Graham Weaver（Stanford GSB Class of 2026）](articles/2026-07-14-graham-weaver-stanford-graduate-school-of-business-last-lecture-series-how-to-win-without-f6d1f4ee42.md)** ⚑  Graham Weaver（Stanford Graduate School of Business 公式チャンネル）
+- **[Material Painterを使った部分編集の報告](articles/2026-11-08-ry-heyhaigh-material-painter.md)** ⚑  Ry (@heyhaigh)
 - **[PFNの翻訳特化LLM「PLaMo 3 Translate」をスマホ・Windows・Mac・Linuxに入れる方法](articles/2026-11-05-emma-eva-note-emma_and_eva-pfn-llm-plamo-3-translate-windows-mac-linux.md)** ⚑  Emma先生 & Eva先生（note: emma_and_eva）
 - **[RenderのAIエージェント向けドキュメント設計](articles/2026-11-07-brenden-house-render-ai.md)** ⚑  Brenden House
 - **[See's Candies 1972→1998——$25Mが$60Mを生んだ理由を、バフェットがMBA学生に語った](articles/1998-10-15-warren-buffett-see-s-candies-1972-1998-25m-60m-mba-12d8279960.md)** ⚑  Warren Buffett
@@ -1110,6 +1111,7 @@
 - [Kiroの転売をめぐる書簡画像の投稿](articles/2026-10-23-lniosytest-kiro.md) — unverified / 公開日はJST。書簡の真正性、宛先と送達は未確認。
 - [Laddersによる履歴書PDFの抽出評価](articles/2026-11-07-marc-cenedella-ladders-pdf.md) — unverified / 試験条件と再現性は未確認。
 - [Last Lecture Series: “How to Win Without Crushing Your Soul” - Graham Weaver（Stanford GSB Class of 2026）](articles/2026-07-14-graham-weaver-stanford-graduate-school-of-business-last-lecture-series-how-to-win-without-f6d1f4ee42.md) — unverified / 確認できたこと: 公式YouTube（Stanford GSB チャンネル）に講演が実在し、タイトルは「Last Lecture Series: “How to Win Without Crushing Your Soul” - Graham Weaver」、公開日 2026-07-14、尺 34:01、Class of 2026 向けの Last Lecture であること（YouTube概要・本人ブログ・本人Instagramで一致）。Weaver は Stanford GSB の Lecturer in Management で Alpine Investors の創業者（GSB教員ページ・Alpine公式）。講演の3実践と引用の多くは公式字幕と一致。誤り・未確認: (1)「10 million people watched」はこの動画単体では約263万回（2026-11-09時点）。WeaverのGSB講演5本の合計が約1,030万回なので、合算を単体の数字として書いた可能性が高い。(2)「33 minutes」は公式34:01、投稿添付クリップは33:31で、切り抜き側の尺。(3)「$16 billion」はAlpine公式の現行表記（$18.8B、25周年ページでは2026-06-30時点$17.7B）より古く過小。(4)「life coaches charge $500 an hour」は一次情報を確認できず未検証。(5) 引用ブロックの「achievement cannot fix self hatred」「what you avoid grows」「unless you skip them」は講演の逐語ではなく投稿者による要約・脚色（講演本体は「I just didn't really like myself」「your nail is the thing you're avoiding」「You're in the good old days now」）。(6) 添付動画は同一講演の再アップロードとみられ、会場・人物・衣装・尺が公式と一致するが、音声の波形一致やフレーム単位の同一性は未確認。講演自体に効果の対照試験や追跡データはなく、内容は本人の体験談と実践の提案である。
+- [Material Painterを使った部分編集の報告](articles/2026-11-08-ry-heyhaigh-material-painter.md) — unverified / 専用のinpainting機能と比較効果は未確認。
 - [PFNの翻訳特化LLM「PLaMo 3 Translate」をスマホ・Windows・Mac・Linuxに入れる方法](articles/2026-11-05-emma-eva-note-emma_and_eva-pfn-llm-plamo-3-translate-windows-mac-linux.md) — unverified / PFN 公式ブログではなく第三者アカウントのまとめ記事。ベンチマーク優位は PFN 自身の評価の引用、iPhone の 0.515 秒は GIGAZINE の 1 回計測の引用で独立検証なし。winget での llama.cpp 導入、PocketPal AI での 0.8B 読み込み手順、llama.app のインストールスクリプト（取得したスクリプトをシェルに渡す方式）は本文の記述のみで未検証。記事末尾は著者の有料講義の宣伝。
 - [RenderのAIエージェント向けドキュメント設計](articles/2026-11-07-brenden-house-render-ai.md) — unverified / 公開日はUTC。投稿後半と導入効果は未確認。
 - [See's Candies 1972→1998——$25Mが$60Mを生んだ理由を、バフェットがMBA学生に語った](articles/1998-10-15-warren-buffett-see-s-candies-1972-1998-25m-60m-mba-12d8279960.md) — unverified / 【投稿の主張】1972年に$25Mで買収、当時は年$4M。1998年には同じレシピ・追加資本ほぼなしで$60M。16Mポンド@$1.95の箱が$2.25で売れるかが唯一の論点。1998年は30Mポンド@$2/ポンドで、$60Mのうち$55Mがクリスマス前3週。毎年12月26日に値上げ。コンサルなし、デューデリは箱を買って食べるだけ。カリフォルニアの「share of mind」と、店員の笑顔がmoatを広げる。【一次情報で確認できたこと】Tilson公開の講演全文（1998-10-15、University of Florida School of Business、Graham-Buffett Teaching Endowment第1回）に、$25M・16Mポンド・$1.95/ポンド・$4M税前・6.25x pre-tax、$60M・$2 per pound on 30 million pounds・$55M in the three weeks before Christmas・12月26日の値上げ・コンサル無し/箱を買って食べた・販売員の笑顔でmoatが広がる、がすべて原文どおり存在。1998年通期のSee's税前利益は$62M（1998年書簡の税前利益表）で、10月時点の「$60M」という当年見込みは妥当。2007年書簡で1972年16Mポンド/売上$30M/税前$5M未満/必要資本$8M、2007年31Mポンド/売上$383M/税前$82M/累計税前$1.35B/追加資本$32Mを確認。【誤り・注意】(1)「1998年は30Mポンド@$2/ポンド」は単位の取り違え。原文は「We will make $2 per pound on 30 million pounds」＝1ポンドあたり$2の“利益”で合計$60M。同じ講演で「See'sは今$11/ポンド」と述べており、$2は販売価格ではない。$2を価格と読むと30M×$2=$60Mが売上になり、税前利益$60Mと二重計上になる（1998年売上は約$330M）。2007年は$383M/31Mポンド≒$12.35/ポンド。(2)「earned $4 million a year」は税前。本人は10x after-taxとも言っており、税引後は約$2.5M。(3)買収主体はBlue Chip Stamps（BuffettとMungerが支配、後にBerkshireへ合併）。「Buffettが$25M払った」は略記。(4)「no market research」は原文にない。原文は「コンサルを雇ったことがない。コンサル的代わりに箱を買って食べた」。(5)「ten years later you can see nothing else」は原文「You can't see the moat day by day... Ten years from now, you will see the difference」の脚色。(6)「the girl behind the counter is the asset」は投稿者の解釈。原文は「商品を売る人もproduct deliveryの一部」「笑顔ならmoatは広がり、しかめ面なら狭まる」。(7)$55M/3週はBuffett本人の発言だが監査数字ではなく自己申告。1998年通期$62Mとは整合するが四半期別の検証はしていない。(8)Buffettの数字は年により概数で揺れる。16M→30M（26年、年2.4%）と16M→31M/年2%（35年）は同じ人物の別年度発言で内部整合しない。1972年も$1.95×16M=$31.2Mに対し書簡の売上は$30M。桁は合うが一致しない。【未確認】引用元X記事2087190920026365952は非ログインでHTTP 307→ログイン画面になり本文を読めていない（投稿の要約がこの講義のものかは未確認）。添付動画は取得して320x240・84分35秒を実測し、5秒と42分台のフレームでUniversity of Floridaの演台とBuffett本人を確認したが、音声の全編照合はしていない（See'sの説明が42:14頃というのは文字起こしサイトの情報で、当該時刻の映像フレームのみ確認）。
