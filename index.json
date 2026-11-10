@@ -1,5 +1,5 @@
 {
-  "count": 614,
+  "count": 615,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -5474,6 +5474,25 @@
       "fetched_at": "2026-11-06T18:28:40Z",
       "source_post": "https://x.com/preferred_jp/status/2118134261912092801",
       "path": "articles/2026-11-05-emma-eva-note-emma_and_eva-pfn-llm-plamo-3-translate-windows-mac-linux.md"
+    },
+    {
+      "name": "Railway公式セキュリティ告知：環境変数に保存したAPIキーへの対応",
+      "genre": "article",
+      "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+      "author": "Jacob Cooper（Railway）",
+      "published": "2026-10-21",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "影響範囲と個別のキーの悪用有無は独立検証していない。候補投稿の引用先であるX記事の本文は未確認。",
+      "type": "article",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/AiAircle34052/status/2115688842812686448"
+      ],
+      "fetched_at": "2026-11-10T05:45:51Z",
+      "path": "articles/2026-10-21-jacob-cooper-railway-railway-api.md"
     },
     {
       "name": "RenderのAIエージェント向けドキュメント設計",
