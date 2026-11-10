@@ -1,6 +1,37 @@
 {
-  "count": 685,
+  "count": 686,
   "items": [
+    {
+      "name": "Motion",
+      "genre": "3d-motion",
+      "repo": "motiondivision/motion",
+      "url": "https://github.com/motiondivision/motion",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "最新リリースの版と公開日時、ブラウザー上の描画性能、エージェントへのSkill導入とMCP接続の実動作は未確認。コミット件数の100は各期間で100件以上を表す。",
+      "stars": 35043,
+      "forks": 1527,
+      "open_issues": 5,
+      "size_kb": 1668394,
+      "language": "TypeScript",
+      "created": "2018-11-16",
+      "updated": "2026-11-10",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 100,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/okapi_fukugyo/status/2117616982518559161"
+      ],
+      "fetched_at": "2026-11-10T09:54:18+00:00",
+      "path": "entries/3d-motion/motiondivision-motion.md",
+      "summary": "Reactのコンポーネントに layout を付けると、リストの並べ替えやアコーディオンの開閉に伴う位置・サイズの変化をアニメーションにできる。 [公式レイアウトガイド](https://motion.dev/docs/react-layout-animations)"
+    },
     {
       "repo": "ahujasid/mcp-for-blender",
       "name": "MCP for Blender",
