@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 721 件 — リポジトリ 413, リンク集 113, 記事 128, モデル 53, プロンプト 14 / ⚑ 要確認 511 件
+収録 722 件 — リポジトリ 414, リンク集 113, 記事 128, モデル 53, プロンプト 14 / ⚑ 要確認 512 件
 
-## リポジトリ（413）
+## リポジトリ（414）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -85,12 +85,13 @@
 | [utillayer/youtube-agent-skill](entries/video-gen/utillayer-youtube-agent-skill.md) ⚑ | 14 | 2 | 週次 | 16 | 2026-10-29 | 2026-11-09 | 2026-11-10 | MIT |
 | [BennyDaBall930/comfyui_hyperflow_int8_nodes](entries/video-gen/bennydaball930-comfyui_hyperflow_int8_nodes.md) ⚑ | 3 | 0 | 週次 | 10 | 2026-11-09 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
 
-### エージェント基盤・スキル集（66）
+### エージェント基盤・スキル集（67）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
 | [Skills for Real Engineers](entries/agent-framework/mattpocock-skills.md) | 319,628 | 26,760 | 週次 | 8 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
 | [Superpowers](entries/agent-framework/obra-superpowers.md) | 315,107 | 28,031 | 月次 | 3 | 2026-11-03 | 2026-11-09 | 2026-11-10 | MIT |
+| [n8n](entries/agent-framework/n8n-io-n8n.md) ⚑ | 209,990 | 61,430 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | unknown |
 | [anthropics/skills](entries/agent-framework/anthropics-skills.md) ⚑ | 190,810 | 22,434 | 月次 | 2 | 2026-11-06 | 2026-11-09 | 2026-11-10 | unknown |
 | [Ponytail](entries/agent-framework/dietrichgebert-ponytail.md) | 187,617 | 10,404 | 毎日 | 50 | 2026-10-29 | 2026-11-09 | 2026-11-10 | MIT |
 | [gstack（Garry's Stack）](entries/agent-framework/garrytan-gstack.md) | 140,943 | 20,797 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
@@ -1197,6 +1198,7 @@
 - [Claude Code × Blender：ゲーム向け3D制作手順](articles/agent/2026-11-08-rektwild-blender-game-pipeline.md) — unverified / 投稿内容は作者の手順であり完成品質や実行の再現性は未検証。MCP経由の操作はBlenderの開いたシーンを変更し得るため、保存前の確認とバックアップが必要。
 - [Claude Skills 67選：開発向けスキル紹介](articles/agent/2026-04-17-claude-skills-67.md) — unverified / 67件や生産性向上は記事の主張であり個々の現行配布先や効果を一括検証していない。第三者のスキルは指示と実行スクリプトを読むなど、導入前の安全確認が必要。
 - [Meng To：Claudeでthree.jsの部屋を制作](articles/agent/2026-11-07-meng-to-threejs-room.md) — unverified / 公開された映像は作例であり、再現手順・ソースやアプリ再制作の所要時間は独立検証できていない。ソフトウェア配布物ではない。
+- [n8n](entries/agent-framework/n8n-io-n8n.md) — unverified / 公式資料で機能と設定手順を確認。Docker起動、MCP接続、ワークフロー実行は未試験。発見投稿のGrok Botとの接続や節約効果は未確認。 GitHub APIでライセンスを確認できていません。
 - [anthropics/skills](entries/agent-framework/anthropics-skills.md) — unverified / 原チェックのAPIではlicense未設定。リポジトリ全体と個別技能・素材の条件を一括でApache/MITと断定しない。各条件は利用前に確認する。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [thedotmack/claude-mem](entries/agent-framework/thedotmack-claude-mem.md) — unverified / 保存した会話・コード・機密の保持と削除範囲を確認する。starsランキングは性能試験ではなく、圧縮精度・情報漏洩対策は未実行確認。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [lobehub/lobehub](entries/agent-framework/lobehub-lobehub.md) — unverified / LobeHub Community LicenseはApache-2.0に派生作品配布の商用条件を追加した独自条件。NOASSERTIONを標準OSSライセンスと解釈しない。 当方でインストール・推論・生成・ベンチ再現はしていない。
