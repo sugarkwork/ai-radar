@@ -1,5 +1,5 @@
 {
-  "count": 605,
+  "count": 606,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -5109,6 +5109,25 @@
       "fetched_at": "2026-11-08T20:52:35Z",
       "type": "article",
       "path": "articles/2026-10-22-y0urdumble-claude-code-blender-python-6.md"
+    },
+    {
+      "name": "Claude Codeの補足情報と実行時の権限制御",
+      "genre": "article",
+      "url": "https://michaellivs.com/blog/system-reminders-steering-agents/",
+      "author": "Michael Livshits",
+      "published": "2026-03-22",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "リマインダーの効果は実測していない。実行権限は実行基盤で判定する。",
+      "type": "article",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/bernvadell/status/2113700655080546601"
+      ],
+      "fetched_at": "2026-11-10T04:15:56Z",
+      "path": "articles/2026-03-22-michael-livshits-claude-code.md"
     },
     {
       "name": "Control Room",
