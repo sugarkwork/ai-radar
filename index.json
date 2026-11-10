@@ -1,5 +1,5 @@
 {
-  "count": 717,
+  "count": 718,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -316,6 +316,38 @@
       "fetched_at": "2026-11-10T08:51:17Z",
       "path": "entries/3d-motion/freemocap-freemocap.md",
       "summary": "Webカメラ1台で身体の2Dキーポイントを追跡し、2Dアニメーションの動きの参照に使える。3Dモーションキャプチャは2台以上で行い、公式ガイドは3台を推奨する。"
+    },
+    {
+      "repo": "cocopon/tweakpane",
+      "name": "Tweakpane",
+      "genre": "3d-motion",
+      "url": "https://github.com/cocopon/tweakpane",
+      "license": "MIT",
+      "stars": 4669,
+      "language": "TypeScript",
+      "created": "2016-05-10",
+      "updated": "2026-03-15",
+      "forks": 134,
+      "open_issues": 32,
+      "commits_30d": 0,
+      "commit_cadence": "stale",
+      "commits_90d": 0,
+      "size_kb": 4397,
+      "archived": false,
+      "last_release": "4.0.5",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "機能と手順は公式の記述とサンプルで確認した。実行検証、制作時間への効果、特定の描画ライブラリとの互換性、最新リリースの公開日時は未確認。",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/RealMarvelX/status/2117956876369264741"
+      ],
+      "fetched_at": "2026-11-10T11:08:18Z",
+      "path": "entries/3d-motion/cocopon-tweakpane.md",
+      "summary": "数値や色を操作パネルにバインドし、速度や色などの調整値を変更できる。読み取り専用バインドで値の変化を監視でき、パネルの状態は exportState() で書き出せる。"
     },
     {
       "type": "repo",
