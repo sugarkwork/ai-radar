@@ -1,5 +1,5 @@
 {
-  "count": 577,
+  "count": 578,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -5190,6 +5190,25 @@
       ],
       "fetched_at": "2026-11-08T06:51:00+00:00",
       "path": "articles/2026-10-16-y0urdumble-dumble-the-johnson-brothers-ai.md"
+    },
+    {
+      "name": "Xのアカウントデータを使った自己点検の提案",
+      "genre": "article",
+      "url": "https://x.com/jarvis11x/status/2113476724092788988",
+      "author": "@jarvis11x",
+      "published": "2026-10-23",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "凍結防止と投稿の拡散効果は未検証。アーカイブには個人情報が含まれる。",
+      "type": "article",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/jarvis11x/status/2113476724092788988"
+      ],
+      "fetched_at": "2026-11-10T03:32:08Z",
+      "path": "articles/2026-10-23-jarvis11x-x.md"
     },
     {
       "name": "iPhone『削除済み写真173,521件』主張の検証（PhotoData/Thumbnails）",
