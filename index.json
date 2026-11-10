@@ -1,5 +1,5 @@
 {
-  "count": 668,
+  "count": 669,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -15945,6 +15945,38 @@
       "type": "repo",
       "path": "entries/tts-audio/svc-develop-team-so-vits-svc.md",
       "summary": "歌声変換（Singing Voice Conversion）。SoftVC + VITS 構成で、声質だけを差し替える。"
+    },
+    {
+      "repo": "resemble-ai/chatterbox",
+      "name": "Chatterbox",
+      "genre": "tts-audio",
+      "url": "https://github.com/resemble-ai/chatterbox",
+      "last_release": "v0.1.2",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "公開元が案内する聴取評価の詳細と結果、生成速度、必要VRAM、透かしの検出性能は未検証。GitHubリリースの公開日は未確認。音声参照素材の利用許諾は個別に確認が必要。",
+      "stars": 27726,
+      "forks": 3730,
+      "open_issues": 381,
+      "size_kb": 1557,
+      "language": "Python",
+      "created": "2025-04-23",
+      "updated": "2026-11-04",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 1,
+      "commits_90d": 1,
+      "commit_cadence": "monthly",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/nuannuan_share/status/2119640438135242817"
+      ],
+      "fetched_at": "2026-11-10T09:29:46Z",
+      "path": "entries/tts-audio/resemble-ai-chatterbox.md",
+      "summary": "台本を入力して音声を生成し、WAVに保存できる。英語向けのTurboは笑い声などを指定するタグにも対応する。"
     },
     {
       "repo": "m-bain/whisperX",
