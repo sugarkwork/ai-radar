@@ -1,5 +1,5 @@
 {
-  "count": 600,
+  "count": 601,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -9706,6 +9706,26 @@
       "risk_notes": "",
       "path": "links/link-service/banani-co.md",
       "summary": "テキストから UI を生成する AI デザインツール。プロンプトを「編集可能な UI デザイン」に変えることを狙う。ポストの説明（turn prompts into editable UI designs）と一致する。"
+    },
+    {
+      "name": "Browserbase公式ドキュメント索引",
+      "genre": "link-service",
+      "url": "https://docs.browserbase.com/llms.txt",
+      "author": "Browserbase",
+      "pricing": "free",
+      "pricing_detail": "索引の閲覧は無料。",
+      "signup_required": false,
+      "flags": [],
+      "risk_notes": "クラウドサービスの利用には登録とAPIキーが必要。",
+      "type": "link",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/brendenvonhouse/status/2119183865462014224"
+      ],
+      "fetched_at": "2026-11-10T04:09:36.707Z",
+      "path": "links/link-service/docs.browserbase.com-browserbase.md",
+      "summary": "Browserbaseの公開技術資料を探す。"
     },
     {
       "name": "Claude Duet",

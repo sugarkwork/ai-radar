@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 600 件 — リポジトリ 330, リンク集 111, 記事 92, モデル 53, プロンプト 14 / ⚑ 要確認 393 件
+収録 601 件 — リポジトリ 330, リンク集 112, 記事 92, モデル 53, プロンプト 14 / ⚑ 要確認 393 件
 
 ## リポジトリ（330）
 
@@ -465,7 +465,7 @@
 - **[MiniMax H3：20種のダンスと音楽指定](prompts/video-gen/minimax-h3-20-dance-music.md)** ⚑  MiniMax H3 / EndFolding79421
   - キャラクターシートを参照し、6秒間の全身ダンスと音楽・環境音を指示するための投稿者のテンプレート。ダンス20種類の音楽指定例を含む。
 
-## リンク集（111）
+## リンク集（112）
 
 ### リンク（作例・インスピレーション）（19）
 
@@ -547,12 +547,14 @@
 - **[背景ガチャ（九龍城砦セット＋パース補助線）](links/link-asset/tools.oyasumi-gamedev.com-haikeigacha.md)** ⚑  free / おやすみゲーム開発部（MIYADAIKU）
   - 漫画・イラストの背景を、ブラウザ上で部品を組み合わせて作る無料ツール。3Dモデリングなしで、部屋・建物・街並みのラフを作る。
 
-### リンク（サービス・ツール）（17）
+### リンク（サービス・ツール）（18）
 
 - **[Aura](links/link-service/aura.build-aura.md)** ⚑  freemium / DESIGNCODE IO PTE. LTD.（Meng To / DesignCode）
   - テキストプロンプトからランディングページやマルチページのウェブサイトを生成し、ブラウザ上で視覚編集して公開・書き出しまで完結させるサービス。公式は「AI landing page builder that creates stunning designs in seconds」と説明している。
 - **[Banani](links/link-service/banani-co.md)**  freemium / Banani
   - テキストから UI を生成する AI デザインツール。プロンプトを「編集可能な UI デザイン」に変えることを狙う。ポストの説明（turn prompts into editable UI designs）と一致する。
+- **[Browserbase公式ドキュメント索引](links/link-service/docs.browserbase.com-browserbase.md)**  free / Browserbase
+  - Browserbaseの公開技術資料を探す。
 - **[Claude Duet](links/link-service/claude.com-claude-duet.md)**  paid / Anthropic
   - 業務上対応が必要な項目の通知と、依頼作業のバックグラウンド処理。
 - **[CompShare（優云智算）](links/link-service/compshare.cn-compshare.md)** ⚑  paid / UCloud（优刻得科技）
