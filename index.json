@@ -1,5 +1,5 @@
 {
-  "count": 741,
+  "count": 742,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -14382,6 +14382,37 @@
       "type": "repo",
       "path": "entries/other/p-e-w-heretic.md",
       "summary": "追加学習なしで LLM の振る舞いを書き換えるツール。対照的なプロンプト例とスコアラの組で方向を決め、モデルの重みを数学的に操作する（ablation 系）。"
+    },
+    {
+      "repo": "PDFMathTranslate/PDFMathTranslate",
+      "name": "PDFMathTranslate",
+      "genre": "other",
+      "url": "https://github.com/PDFMathTranslate/PDFMathTranslate",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "翻訳精度、レイアウトの保持度、実行速度、実験的OCRの品質、CLIとMCPの動作は独立検証していない。mainブランチの記載と配布版の機能差、最新リリースのタグと公開日時、翻訳サービスごとの料金とデータ取扱条件は未確認。",
+      "stars": 38342,
+      "forks": 3433,
+      "open_issues": 171,
+      "size_kb": 185522,
+      "language": "Python",
+      "created": "2024-09-06",
+      "updated": "2026-11-10",
+      "archived": false,
+      "license": "AGPL-3.0",
+      "commits_30d": 100,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/opensourcelab9/status/2114967848775041508"
+      ],
+      "fetched_at": "2026-11-10T11:46:50+00:00",
+      "path": "entries/other/pdfmathtranslate-pdfmathtranslate.md",
+      "summary": "科学論文などのPDFを翻訳する。公式READMEでは数式、図表、目次、注釈を保持する設計としており、翻訳先のサービスにはGoogle、DeepL、Ollama、OpenAIなどを選べる。"
     },
     {
       "repo": "iOfficeAI/OfficeCLI",

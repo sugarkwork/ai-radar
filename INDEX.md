@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 741 件 — リポジトリ 430, リンク集 113, 記事 131, モデル 53, プロンプト 14 / ⚑ 要確認 531 件
+収録 742 件 — リポジトリ 431, リンク集 113, 記事 131, モデル 53, プロンプト 14 / ⚑ 要確認 532 件
 
-## リポジトリ（430）
+## リポジトリ（431）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -264,7 +264,7 @@
 | [quicksilver](entries/coding-agent/uditakhourii-quicksilver.md) ⚑ | 142 | 11 | 停滞 | 0 | 2026-09-25 | 2026-11-09 | 2026-11-10 | MIT |
 | [GDG Agent Skillsの実演教材](entries/coding-agent/gdg-oau-agent-skills-gdg.md) ⚑ | 1 | 0 | 週次 | 13 | 2026-11-07 | 2026-11-10 | 2026-11-10 | unknown |
 
-### その他（41）
+### その他（42）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -279,6 +279,7 @@
 | [LosslessCut](entries/other/mifi-lossless-cut.md) ⚑ | 45,884 | 2,317 | 毎日 | 100+ | 2026-11-09 | 2026-11-10 | 2026-11-10 | GPL-2.0 |
 | [DuckDB](entries/other/duckdb-duckdb.md) | 42,947 | 4,180 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
 | [Heretic](entries/other/p-e-w-heretic.md) | 40,132 | 4,590 | 毎日 | 29 | 2026-11-08 | 2026-11-09 | 2026-11-10 | AGPL-3.0 |
+| [PDFMathTranslate](entries/other/pdfmathtranslate-pdfmathtranslate.md) ⚑ | 38,342 | 3,433 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | AGPL-3.0 |
 | [OfficeCLI](entries/other/iofficeai-officecli.md) | 33,171 | 2,271 | 毎日 | 80 | 2026-10-30 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
 | [Google Workspace CLI (gws)](entries/other/googleworkspace-cli.md) ⚑ | 32,212 | 1,988 | 月次 | 1 | 2026-11-03 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
 | [Karakeep](entries/other/karakeep-app-karakeep.md) ⚑ | 30,436 | 1,630 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | AGPL-3.0 |
@@ -1517,6 +1518,7 @@
 - [JADX](entries/other/skylot-jadx.md) — unverified / 最新版のタグと公開日時は未確認。READMEの機能記載を確認した範囲で、逆コンパイルの精度、実行環境ごとの動作、AIによる要約の品質は実測していない。READMEは逆コンパイル時にエラーが生じうると明記している。
 - [Paperless-ngx](entries/other/paperless-ngx-paperless-ngx.md) — unverified / OCR精度、検索性能、外部AIからの接続は実機で未検証。最新リリースのタグと公開日時は /releases/latest で未確認。コミット数は両期間とも取得上限のため100件以上。
 - [LosslessCut](entries/other/mifi-lossless-cut.md) — unverified / 実ファイルでの処理速度、カット位置、CLIとHTTP APIの動作は未実測。公開リリースページで最新タグは確認したが、公開日時の年とタイムゾーンは未確認。
+- [PDFMathTranslate](entries/other/pdfmathtranslate-pdfmathtranslate.md) — unverified / 翻訳精度、レイアウトの保持度、実行速度、実験的OCRの品質、CLIとMCPの動作は独立検証していない。mainブランチの記載と配布版の機能差、最新リリースのタグと公開日時、翻訳サービスごとの料金とデータ取扱条件は未確認。
 - [Google Workspace CLI (gws)](entries/other/googleworkspace-cli.md) — unverified / README 冒頭に「This is not an officially supported Google product.」と明記されており、googleworkspace org 配下でも公式サポート製品ではない。Claude/Anthropic への言及はなく、Claude Code から使えるかは Bash ツール経由で CLI を呼ぶ一般経路の推測で、リポジトリ側の検証はない。最終リリースは 2026-03-31、90日コミットは 2026-10-30 の CI 修正1件のみで開発は停滞している。README はスキル数を 40+ と 100+ の両方で書いており、実際の skills/ は95ディレクトリ。API の課金額は各 GCP プロジェクトのクォータ次第で、料金表は確認していない。
 - [Karakeep](entries/other/karakeep-app-karakeep.md) — unverified / リリースの公開日時は未確定。タグ付け・要約の精度、検索品質、処理時間、MCP 接続の実動作は未測定。発見投稿の Grok Bot との連携は未確認。
 - [Actual Budget](entries/other/actualbudget-actual.md) — unverified / 定期支出の検出精度、発見投稿のiPhone向けGrok Botの構成と節約額、独自のAI連携手順の動作は未検証。GitHubのリリース表示と公式ノートの日付が異なるため、公開日時は記載していない。
