@@ -1,5 +1,5 @@
 {
-  "count": 676,
+  "count": 677,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -13551,6 +13551,37 @@
       "fetched_at": "2026-11-10T08:19:51+00:00",
       "path": "entries/other/amirmushichge-pixel-plays.md",
       "summary": "ボッチャ、橋からの飛び込み、洗濯物入れ、テニス、スケートボードの5本を収録。READMEには公開プレイ先が掲載されている。"
+    },
+    {
+      "repo": "ScriptedAlchemy/grok-bot-cli",
+      "name": "grok-bot-cli",
+      "genre": "other",
+      "url": "https://github.com/ScriptedAlchemy/grok-bot-cli",
+      "stars": 181,
+      "forks": 37,
+      "open_issues": 8,
+      "size_kb": 26027,
+      "language": "JavaScript",
+      "created": "2026-08-19",
+      "updated": "2026-11-04",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 31,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "README に基づく確認。CLI・MCP の実機動作、OS 別の認証互換性、最新 GitHub リリース、Grok Bot 側の料金・プラン条件は未確認。90 日コミット数の 100 は計測上限で、100 件以上を表す。",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/thegreatest_sv/status/2117591176048005131"
+      ],
+      "fetched_at": "2026-11-10T09:45:32+00:00",
+      "path": "entries/other/scriptedalchemy-grok-bot-cli.md",
+      "summary": "ボットとグループの作成・更新・削除、メッセージ送信、スレッド取得を CLI で行う。"
     },
     {
       "repo": "leepokai/jev-guard",

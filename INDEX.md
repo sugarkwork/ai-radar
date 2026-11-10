@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 676 件 — リポジトリ 373, リンク集 113, 記事 123, モデル 53, プロンプト 14 / ⚑ 要確認 467 件
+収録 677 件 — リポジトリ 374, リンク集 113, 記事 123, モデル 53, プロンプト 14 / ⚑ 要確認 468 件
 
-## リポジトリ（373）
+## リポジトリ（374）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -274,6 +274,36 @@
 | [muse-irodori-voice — CPUで固有音声を作るIrodoriキット](entries/tts-audio/kgmkm-muse-irodori-voice.md) ⚑ | 9 | 0 | 週次 | 4 | 2026-10-31 | 2026-11-09 | 2026-11-10 | MIT |
 | [lab-tts](entries/tts-audio/lakimi-ai-systems-lab-tts.md) ⚑ | 8 | 0 | 月次 | 3 | 2026-11-03 | 2026-11-10 | 2026-11-10 | Apache-2.0 |
 
+### その他（25）
+
+| 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
+|---|---:|---:|---|---:|---|---|---|---|
+| [career-ops](entries/other/career-ops-hq-career-ops.md) | 81,473 | 14,978 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [MediaCrawler](entries/other/nanmicoder-mediacrawler.md) ⚑ | 70,741 | 13,389 | 毎日 | 21 | 2026-11-09 | 2026-11-09 | 2026-11-10 | 未確認（API は NOASSERTION、標準ライセンスファイル無し） |
+| [FFmpeg](entries/other/ffmpeg-ffmpeg.md) ⚑ | 66,858 | 14,558 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | unknown |
+| [DuckDB](entries/other/duckdb-duckdb.md) | 42,947 | 4,180 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [Heretic](entries/other/p-e-w-heretic.md) | 40,132 | 4,590 | 毎日 | 29 | 2026-11-08 | 2026-11-09 | 2026-11-10 | AGPL-3.0 |
+| [OfficeCLI](entries/other/iofficeai-officecli.md) | 33,171 | 2,271 | 毎日 | 80 | 2026-10-30 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [Google Workspace CLI (gws)](entries/other/googleworkspace-cli.md) ⚑ | 32,212 | 1,988 | 月次 | 1 | 2026-11-03 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [ego lite](entries/other/citrolabs-ego-lite.md) ⚑ | 22,387 | 1,269 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | MIT |
+| [social-auto-upload](entries/other/dreammis-social-auto-upload.md) ⚑ | 16,378 | 2,777 | 週次 | 16 | 2026-10-22 | 2026-11-10 | 2026-11-10 | MIT |
+| [Horizon](entries/other/thysrael-horizon.md) | 13,147 | 1,876 | 毎日 | 80 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [OBLITERATUS](entries/other/elder-plinius-obliteratus.md) | 9,407 | 1,706 | 毎日 | 100+ | 2026-11-05 | 2026-11-09 | 2026-11-10 | AGPL-3.0 |
+| [APScheduler](entries/other/agronholm-apscheduler.md) | 7,698 | 822 | 週次 | 4 | 2026-10-26 | 2026-11-09 | 2026-11-10 | MIT |
+| [Nuxt UI](entries/other/nuxt-ui.md) | 7,061 | 1,154 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [Sandstorm（アイドル状態のエージェントsandboxをスナップショットして1台に数千個載せる）](entries/other/deeplethe-sandstorm.md) | 5,955 | 490 | 毎日 | 100+ | 2026-11-01 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [Auto-Editor](entries/other/wyattblue-auto-editor.md) ⚑ | 5,824 | 725 | 毎日 | 100+ | 2026-11-08 | 2026-11-09 | 2026-11-10 | Unlicense |
+| [ScopeSentry](entries/other/autumn-27-scopesentry.md) ⚑ | 2,334 | 554 | 月次 | 3 | 2026-10-11 | 2026-11-09 | 2026-11-10 | unknown |
+| [nv-uefi-unlocker](entries/other/physicsdolphin-nv-uefi-unlocker.md) ⚑ | 2,223 | 202 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | GPL-2.0 |
+| [awesome-reverse-engineering](entries/other/morluto-awesome-reverse-engineering.md) | 1,991 | 440 | 毎日 | 99 | 2026-11-09 | 2026-11-09 | 2026-11-10 | CC0-1.0 |
+| [Motion Video Kit](entries/other/echris6-motion-video-kit.md) ⚑ | 1,378 | 123 | 月次 | 1 | 2026-10-14 | 2026-11-09 | 2026-11-10 | MIT |
+| [WeVisOne-VL](entries/other/tencent-wevisone-vl.md) | 1,111 | 95 | 月次 | 3 | 2026-10-25 | 2026-11-09 | 2026-11-10 | Apache-2.0（Tencent 著作部分） |
+| [DSH 破甲ワークフロー（dsh-jailbreak-workflow）](entries/other/minglink-dsh-jailbreak-workflow.md) ⚑ | 816 | 284 | 週次 | 18 | 2026-11-05 | 2026-11-09 | 2026-11-10 | 未確認（API は NOASSERTION、標準ライセンスファイル無し） |
+| [DuoDesk](entries/other/0xcodez-duodesk.md) ⚑ | 486 | 79 | 毎日 | 100+ | 2026-10-31 | 2026-11-10 | 2026-11-10 | GPL-3.0 |
+| [Pixel Plays](entries/other/amirmushichge-pixel-plays.md) ⚑ | 448 | 43 | 月次 | 2 | 2026-10-31 | 2026-11-10 | 2026-11-10 | MIT |
+| [grok-bot-cli](entries/other/scriptedalchemy-grok-bot-cli.md) ⚑ | 181 | 37 | 毎日 | 31 | 2026-11-04 | 2026-11-10 | 2026-11-10 | MIT |
+| [jev-guard](entries/other/leepokai-jev-guard.md) ⚑ | 150 | 24 | 月次 | 0 | 2026-10-02 | 2026-11-09 | 2026-11-10 | MIT |
+
 ### モデル推論・配信（24）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
@@ -302,35 +332,6 @@
 | [qwen-warp](entries/model-serving/tuan3w-qwen-warp.md) ⚑ | 24 | 4 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
 | [GLM-5.3-Flash 2×RTX PRO 6000 配備レシピ（TensorFold）](entries/model-serving/miaai-lab-glm-5.3-flash-2x-rtx-pro-6000.md) ⚑ | 23 | 2 | 週次 | 16 | 2026-11-07 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
 | [ausboss/ComfyUI-AusBoss-Model-Downloader](entries/model-serving/ausboss-comfyui-ausboss-model-downloader.md) ⚑ | 9 | 1 | 週次 | 5 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
-
-### その他（24）
-
-| 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
-|---|---:|---:|---|---:|---|---|---|---|
-| [career-ops](entries/other/career-ops-hq-career-ops.md) | 81,473 | 14,978 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
-| [MediaCrawler](entries/other/nanmicoder-mediacrawler.md) ⚑ | 70,741 | 13,389 | 毎日 | 21 | 2026-11-09 | 2026-11-09 | 2026-11-10 | 未確認（API は NOASSERTION、標準ライセンスファイル無し） |
-| [FFmpeg](entries/other/ffmpeg-ffmpeg.md) ⚑ | 66,858 | 14,558 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | unknown |
-| [DuckDB](entries/other/duckdb-duckdb.md) | 42,947 | 4,180 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
-| [Heretic](entries/other/p-e-w-heretic.md) | 40,132 | 4,590 | 毎日 | 29 | 2026-11-08 | 2026-11-09 | 2026-11-10 | AGPL-3.0 |
-| [OfficeCLI](entries/other/iofficeai-officecli.md) | 33,171 | 2,271 | 毎日 | 80 | 2026-10-30 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [Google Workspace CLI (gws)](entries/other/googleworkspace-cli.md) ⚑ | 32,212 | 1,988 | 月次 | 1 | 2026-11-03 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [ego lite](entries/other/citrolabs-ego-lite.md) ⚑ | 22,387 | 1,269 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | MIT |
-| [social-auto-upload](entries/other/dreammis-social-auto-upload.md) ⚑ | 16,378 | 2,777 | 週次 | 16 | 2026-10-22 | 2026-11-10 | 2026-11-10 | MIT |
-| [Horizon](entries/other/thysrael-horizon.md) | 13,147 | 1,876 | 毎日 | 80 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
-| [OBLITERATUS](entries/other/elder-plinius-obliteratus.md) | 9,407 | 1,706 | 毎日 | 100+ | 2026-11-05 | 2026-11-09 | 2026-11-10 | AGPL-3.0 |
-| [APScheduler](entries/other/agronholm-apscheduler.md) | 7,698 | 822 | 週次 | 4 | 2026-10-26 | 2026-11-09 | 2026-11-10 | MIT |
-| [Nuxt UI](entries/other/nuxt-ui.md) | 7,061 | 1,154 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
-| [Sandstorm（アイドル状態のエージェントsandboxをスナップショットして1台に数千個載せる）](entries/other/deeplethe-sandstorm.md) | 5,955 | 490 | 毎日 | 100+ | 2026-11-01 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [Auto-Editor](entries/other/wyattblue-auto-editor.md) ⚑ | 5,824 | 725 | 毎日 | 100+ | 2026-11-08 | 2026-11-09 | 2026-11-10 | Unlicense |
-| [ScopeSentry](entries/other/autumn-27-scopesentry.md) ⚑ | 2,334 | 554 | 月次 | 3 | 2026-10-11 | 2026-11-09 | 2026-11-10 | unknown |
-| [nv-uefi-unlocker](entries/other/physicsdolphin-nv-uefi-unlocker.md) ⚑ | 2,223 | 202 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | GPL-2.0 |
-| [awesome-reverse-engineering](entries/other/morluto-awesome-reverse-engineering.md) | 1,991 | 440 | 毎日 | 99 | 2026-11-09 | 2026-11-09 | 2026-11-10 | CC0-1.0 |
-| [Motion Video Kit](entries/other/echris6-motion-video-kit.md) ⚑ | 1,378 | 123 | 月次 | 1 | 2026-10-14 | 2026-11-09 | 2026-11-10 | MIT |
-| [WeVisOne-VL](entries/other/tencent-wevisone-vl.md) | 1,111 | 95 | 月次 | 3 | 2026-10-25 | 2026-11-09 | 2026-11-10 | Apache-2.0（Tencent 著作部分） |
-| [DSH 破甲ワークフロー（dsh-jailbreak-workflow）](entries/other/minglink-dsh-jailbreak-workflow.md) ⚑ | 816 | 284 | 週次 | 18 | 2026-11-05 | 2026-11-09 | 2026-11-10 | 未確認（API は NOASSERTION、標準ライセンスファイル無し） |
-| [DuoDesk](entries/other/0xcodez-duodesk.md) ⚑ | 486 | 79 | 毎日 | 100+ | 2026-10-31 | 2026-11-10 | 2026-11-10 | GPL-3.0 |
-| [Pixel Plays](entries/other/amirmushichge-pixel-plays.md) ⚑ | 448 | 43 | 月次 | 2 | 2026-10-31 | 2026-11-10 | 2026-11-10 | MIT |
-| [jev-guard](entries/other/leepokai-jev-guard.md) ⚑ | 150 | 24 | 月次 | 0 | 2026-10-02 | 2026-11-09 | 2026-11-10 | MIT |
 
 ### 金融・クオンツ（19）
 
@@ -1410,6 +1411,7 @@
 - [DSH 破甲ワークフロー（dsh-jailbreak-workflow）](entries/other/minglink-dsh-jailbreak-workflow.md) — prompt-injection / モデルの拒否応答を回避する『破甲（jailbreak）』プロンプトを自動生成するためのワークフロー。各サービスの利用規約違反になり得る。記録のみで、実行・生成した内容の利用はしない。
 - [DuoDesk](entries/other/0xcodez-duodesk.md) — unverified / 最新リリースの公開日時と配布物の署名状態は未確認。対応 OS の組み合わせ別の動作、転送性能、通信の安全性は独立検証していない。Claude Code と Opus 5.5 の利用および開発規模は、候補が指す X 投稿を直接取得できず未確認。
 - [Pixel Plays](entries/other/amirmushichge-pixel-plays.md) — unverified / ['候補投稿が言及するClaude Opus 5.5の使用は、作者投稿を取得できなかったため未確認。最新リリース、ブラウザでの動作・性能、別題材への改変結果も未確認。']
+- [grok-bot-cli](entries/other/scriptedalchemy-grok-bot-cli.md) — unverified / README に基づく確認。CLI・MCP の実機動作、OS 別の認証互換性、最新 GitHub リリース、Grok Bot 側の料金・プラン条件は未確認。90 日コミット数の 100 は計測上限で、100 件以上を表す。
 - [jev-guard](entries/other/leepokai-jev-guard.md) — unverified / 料金『1,000チェックあたり約4セント』は README の想定（1コール約1kトークン）と Vercel AI Gateway の $0.042/1M input 単価からの試算で、実測の請求額ではない。APIキーは必須（キー未設定時は明示的にエラー）だが、無料枠の有無は一次情報で確認できない。有効性は開発者自身の計測（662スキル走査、ライブAPIでのClaude Code/OpenCode検証）のみで、第三者評価は無い。既定は fail-open（API不達なら許可）で、フックを通らない経路や設定ミスでは回避され得る。README 自身が『guardrail, not a sandbox』と明記している。
 - [169Pi/Alpie_seed](models/other/169pi-alpie_seed.md) — unverified / 61.20はMini-SWE-agent・thinking有効・再試行なし・temperature0のモデルカード自己報告。latestタグだけで画像入力可能とは判断しない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Clover 35B-A3B（拡散型 MoE）](models/other/diffuspace-clover-35b-a3b-preview.md) — unverified / tok/s 比較は投稿者環境の一例で、モデルカードに計測条件の記載がない。
