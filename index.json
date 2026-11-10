@@ -1,5 +1,5 @@
 {
-  "count": 727,
+  "count": 728,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -5895,6 +5895,24 @@
       ],
       "fetched_at": "2026-11-10T10:49:12Z",
       "path": "articles/2026-10-29-author-how-we-re-training-a-figma-fluent-editing-model.md"
+    },
+    {
+      "name": "Independent Assessment of AI R&D Acceleration at Anthropic in October 2026",
+      "genre": "article",
+      "url": "https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/",
+      "published": "2026-11-05",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "METRの結論を強く支えた証拠の大半は非公開。公開情報からは推定の独立再現や、加速のうちAI利用に起因する割合の検証はできない。",
+      "type": "article",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/tsu_0283/status/2119738882153693538"
+      ],
+      "fetched_at": "2026-11-10T11:19:41Z",
+      "path": "articles/2026-11-05-author-independent-assessment-of-ai-r-d-acceleration-at-anthropic-in-october-2026.md"
     },
     {
       "name": "Introducing System One Models & Jev",
