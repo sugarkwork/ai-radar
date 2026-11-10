@@ -1,5 +1,5 @@
 {
-  "count": 694,
+  "count": 695,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -13460,6 +13460,38 @@
       "fetched_at": "2026-11-10T08:28:22Z",
       "path": "entries/other/dreammis-social-auto-upload.md",
       "summary": "READMEの対応表では、抖音・快手・小紅書は動画と画像付き投稿、Bilibiliは動画、大魚号と知乎は動画と記事に対応する。YouTubeの定時投稿は開発中、知乎の定時投稿は実験的とされている。"
+    },
+    {
+      "repo": "AgriciDaniel/claude-obsidian",
+      "name": "claude-obsidian",
+      "genre": "other",
+      "url": "https://github.com/AgriciDaniel/claude-obsidian",
+      "license": "MIT",
+      "stars": 16310,
+      "forks": 1598,
+      "open_issues": 25,
+      "size_kb": 38035,
+      "language": "Python",
+      "created": "2026-04-07",
+      "updated": "2026-10-25",
+      "archived": false,
+      "commits_30d": 69,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "last_release": "v3.0.1",
+      "flags": [
+        "unverified"
+      ],
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "risk_notes": "",
+      "sources": [
+        "https://x.com/Bober_smart/status/2117619229465641097"
+      ],
+      "fetched_at": "2026-11-10T10:01:55+00:00",
+      "path": "entries/other/agricidaniel-claude-obsidian.md",
+      "summary": "inbox/ に置いた資料の原本を保持し、出典をたどれるリンク付き Markdown ノートを作る。Wiki を読み取り専用で照会し、回答を必要に応じて保存できる。リンク切れや孤立ページも点検できる。"
     },
     {
       "repo": "Thysrael/Horizon",
