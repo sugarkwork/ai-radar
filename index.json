@@ -1,5 +1,5 @@
 {
-  "count": 751,
+  "count": 752,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -14602,6 +14602,37 @@
       "fetched_at": "2026-11-09T21:41:03Z",
       "path": "entries/other/googleworkspace-cli.md",
       "summary": "Gmail・Drive・Calendar・Sheets・Docs・Chat・Admin など Workspace の各 API を gws <service> <resource> <method> の1コマンドで呼び、結果を JSON で返す（例: gws drive files list --params '{\"p"
+    },
+    {
+      "repo": "karpathy/llm.c",
+      "name": "llm.c",
+      "genre": "other",
+      "url": "https://github.com/karpathy/llm.c",
+      "stars": 31421,
+      "forks": 3814,
+      "open_issues": 231,
+      "size_kb": 2151,
+      "language": "Cuda",
+      "created": "2024-04-08",
+      "updated": "2025-06-26",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 0,
+      "commits_90d": 0,
+      "commit_cadence": "stale",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "最新リリースの版と日時は未確認。CPUデモの実行、PyTorchとの照合、CUDA版の速度と学習費用は独立に検証していない。外部の重みとデータの利用条件は未確認。",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/thegreatest_sv/status/2115051970251628961"
+      ],
+      "fetched_at": "2026-11-10T11:52:24Z",
+      "path": "entries/other/karpathy-llm.c.md",
+      "summary": "CPUのFP32参照実装で、GPT-2 124Mの既存重みを使った追加学習を試せる。READMEに掲載された著者のCPU実行例では、40ステップで検証損失が約5.25から約4.11に下がった。"
     },
     {
       "repo": "karakeep-app/karakeep",
