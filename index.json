@@ -1,5 +1,5 @@
 {
-  "count": 632,
+  "count": 633,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -6082,6 +6082,37 @@
       "fetched_at": "2026-11-09T21:36:28Z",
       "path": "entries/coding-agent/multica-ai-andrej-karpathy-skills.md",
       "summary": "AI コーディングの失敗を減らす4原則を、そのままエージェントに読ませられる形で提供する：Think Before Coding（仮定を明示し、曖昧なら止まって聞く）、Simplicity First（頼まれた以上の機能・抽象化を作らない）、Surgical Changes（依頼に直結する行だけ変える）、Goal-Dr"
+    },
+    {
+      "repo": "anthropics/claude-code",
+      "name": "Claude Code",
+      "genre": "coding-agent",
+      "url": "https://github.com/anthropics/claude-code",
+      "stars": 155135,
+      "forks": 24886,
+      "open_issues": 16966,
+      "size_kb": 34723,
+      "language": "TypeScript",
+      "created": "2025-02-22",
+      "updated": "2026-11-10",
+      "archived": false,
+      "license": "unknown",
+      "commits_30d": 54,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "投稿のClaude Opus 5.5の使用、2.5D制作工程の一貫実行、完成動画の品質、費用ゼロの主張は未確認。CLIやMCPは公式文書で確認し、動作と効果の独立実測は行っていない。最新リリースと再配布条件の詳細は未確認。90日コミット数の100は集計上限で、100件以上を示す。 GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/Y0urDumble/status/2117030430507401326"
+      ],
+      "fetched_at": "2026-11-10T08:15:51+00:00",
+      "path": "entries/coding-agent/anthropics-claude-code.md",
+      "summary": "端末から自然言語でコードの説明、定型作業、Gitワークフローを依頼できる。設定済みのMCPサーバーを通じて外部ツールやデータソースも利用できる。"
     },
     {
       "repo": "JuliusBrussee/caveman",
