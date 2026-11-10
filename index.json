@@ -1,5 +1,5 @@
 {
-  "count": 724,
+  "count": 725,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -12006,6 +12006,37 @@
       "type": "repo",
       "path": "entries/mcp-server/d4vinci-scrapling.md",
       "summary": "HTTP 取得・ステルスブラウザ・JS レンダリングを1つの Python ライブラリで扱い、静的/動的ページ双方からデータ抽出できる。"
+    },
+    {
+      "repo": "home-assistant/core",
+      "name": "Home Assistant Core",
+      "genre": "mcp-server",
+      "url": "https://github.com/home-assistant/core",
+      "stars": 92120,
+      "forks": 39255,
+      "open_issues": 3854,
+      "size_kb": 937536,
+      "language": "Python",
+      "created": "2013-09-17",
+      "updated": "2026-11-10",
+      "archived": false,
+      "license": "Apache-2.0",
+      "commits_30d": 100,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "最新リリースのタグと公開日時、候補投稿に登場する自作 Grok Bot との互換性、実機での接続と操作は未確認。コミット件数は両期間とも取得上限の100件に達している。",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/thegreatest_sv/status/2117960732184633699"
+      ],
+      "fetched_at": "2026-11-10T11:15:00+00:00",
+      "path": "entries/mcp-server/home-assistant-core.md",
+      "summary": "対応機器の状態を確認し、自動化に組み込める。公式 MCP サーバーの Device control を使うと、音声アシスタント向けに公開した機器やセンサーを対応 AI クライアントから参照でき、設定に応じて操作もできる。"
     },
     {
       "repo": "microsoft/playwright-mcp",
