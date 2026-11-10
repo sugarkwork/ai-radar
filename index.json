@@ -1,5 +1,5 @@
 {
-  "count": 644,
+  "count": 645,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -6228,6 +6228,38 @@
       "fetched_at": "2026-11-10T08:15:51+00:00",
       "path": "entries/coding-agent/anthropics-claude-code.md",
       "summary": "端末から自然言語でコードの説明、定型作業、Gitワークフローを依頼できる。設定済みのMCPサーバーを通じて外部ツールやデータソースも利用できる。"
+    },
+    {
+      "repo": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "name": "UI UX Pro Max",
+      "genre": "coding-agent",
+      "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+      "license": "MIT",
+      "stars": 147531,
+      "forks": 15608,
+      "open_issues": 89,
+      "size_kb": 8625,
+      "language": "Python",
+      "created": "2025-11-30",
+      "updated": "2026-11-07",
+      "archived": false,
+      "commits_30d": 21,
+      "commits_90d": 84,
+      "commit_cadence": "daily",
+      "last_release": "v2.15.0",
+      "flags": [
+        "unverified"
+      ],
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "risk_notes": "",
+      "sources": [
+        "https://x.com/thegreatest_sv/status/2117324109478507007"
+      ],
+      "fetched_at": "2026-11-10T08:40:33Z",
+      "path": "entries/coding-agent/nextlevelbuilder-ui-ux-pro-max-skill.md",
+      "summary": "プロダクトの種類、業界、希望のトーンをもとに、配色、フォントの組み合わせ、レイアウトの型、避けるべき設計パターンをまとめた設計案を作れる。"
     },
     {
       "repo": "JuliusBrussee/caveman",
