@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 572 件 — リポジトリ 327, リンク集 107, 記事 71, モデル 53, プロンプト 14 / ⚑ 要確認 366 件
+収録 573 件 — リポジトリ 327, リンク集 108, 記事 71, モデル 53, プロンプト 14 / ⚑ 要確認 366 件
 
 ## リポジトリ（327）
 
@@ -462,7 +462,7 @@
 - **[MiniMax H3：20種のダンスと音楽指定](prompts/video-gen/minimax-h3-20-dance-music.md)** ⚑  MiniMax H3 / EndFolding79421
   - キャラクターシートを参照し、6秒間の全身ダンスと音楽・環境音を指示するための投稿者のテンプレート。ダンス20種類の音楽指定例を含む。
 
-## リンク集（107）
+## リンク集（108）
 
 ### リンク（素材・アイコン・3D）（18）
 
@@ -542,12 +542,14 @@
 - **[uilabs — 動きのあるUI部品集](links/link-inspiration/uilabs.dev.md)** ⚑  uilabs — 動きのあるUI部品集
   - React UIの操作とモーションの実装例を調べる小さな部品集。
 
-### リンク（サービス・ツール）（15）
+### リンク（サービス・ツール）（16）
 
 - **[Aura](links/link-service/aura.build-aura.md)** ⚑  freemium / DESIGNCODE IO PTE. LTD.（Meng To / DesignCode）
   - テキストプロンプトからランディングページやマルチページのウェブサイトを生成し、ブラウザ上で視覚編集して公開・書き出しまで完結させるサービス。公式は「AI landing page builder that creates stunning designs in seconds」と説明している。
 - **[Banani](links/link-service/banani-co.md)**  freemium / Banani
   - テキストから UI を生成する AI デザインツール。プロンプトを「編集可能な UI デザイン」に変えることを狙う。ポストの説明（turn prompts into editable UI designs）と一致する。
+- **[Claude Duet](links/link-service/claude.com-claude-duet.md)**  paid / Anthropic
+  - 業務上対応が必要な項目の通知と、依頼作業のバックグラウンド処理。
 - **[CompShare（優云智算）](links/link-service/compshare.cn-compshare.md)** ⚑  paid / UCloud（优刻得科技）
   - UCloud（优刻得）系の GPU クラウド。AI の学習・推論・画像生成用に GPU インスタンスを時間・日・月単位で借りる。
 - **[Grok Bot](links/link-service/docs.x.ai-grok-bot.md)** ⚑  paid / xAI

@@ -1,5 +1,5 @@
 {
-  "count": 572,
+  "count": 573,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -9254,6 +9254,26 @@
       "risk_notes": "",
       "path": "links/link-service/banani-co.md",
       "summary": "テキストから UI を生成する AI デザインツール。プロンプトを「編集可能な UI デザイン」に変えることを狙う。ポストの説明（turn prompts into editable UI designs）と一致する。"
+    },
+    {
+      "name": "Claude Duet",
+      "genre": "link-service",
+      "url": "https://claude.com/product/claude-duet",
+      "author": "Anthropic",
+      "pricing": "paid",
+      "pricing_detail": "米国のClaude Pro・Max・Ultraの招待対象者は追加料金なし。既存の利用枠を共有。",
+      "signup_required": true,
+      "flags": [],
+      "risk_notes": "米国向け招待制の研究プレビュー。連携したメールや予定表を参照する。",
+      "type": "link",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/jarvis11x/status/2113298984383201324"
+      ],
+      "fetched_at": "2026-11-10T03:00:10Z",
+      "path": "links/link-service/claude.com-claude-duet.md",
+      "summary": "業務上対応が必要な項目の通知と、依頼作業のバックグラウンド処理。"
     },
     {
       "type": "link",
