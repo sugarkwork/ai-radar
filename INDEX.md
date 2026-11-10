@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 665 件 — リポジトリ 363, リンク集 113, 記事 122, モデル 53, プロンプト 14 / ⚑ 要確認 456 件
+収録 666 件 — リポジトリ 364, リンク集 113, 記事 122, モデル 53, プロンプト 14 / ⚑ 要確認 457 件
 
-## リポジトリ（363）
+## リポジトリ（364）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -403,7 +403,7 @@
 | [Material Painter](entries/mcp-server/alla2001-material-painter.md) ⚑ | 265 | 26 | 毎日 | 41 | 2026-11-07 | 2026-11-10 | 2026-11-10 | GPL-3.0 |
 | [pagesift](entries/mcp-server/yolow92-pagesift.md) ⚑ | 256 | 32 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | AGPL-3.0 |
 
-### プロンプト（デザイン/UI）（10）
+### プロンプト（デザイン/UI）（11）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -415,6 +415,7 @@
 | [handraw-style](entries/prompt-design/yang0-handraw-style.md) | 7,265 | 852 | 毎日 | 60 | 2026-11-09 | 2026-11-09 | 2026-11-10 | NOASSERTION |
 | [kepano/obsidian-minimal](entries/prompt-design/kepano-obsidian-minimal.md) ⚑ | 5,555 | 295 | 月次 | 0 | 2026-10-06 | 2026-11-09 | 2026-11-10 | MIT |
 | [kepano/flexoki](entries/prompt-design/kepano-flexoki.md) ⚑ | 3,810 | 139 | 停滞 | 0 | 2026-03-07 | 2026-11-09 | 2026-11-10 | MIT |
+| [AI 漫剧 Skills](entries/prompt-design/zhanghao123vip-ai-manju-skills.md) ⚑ | 695 | 124 | 月次 | 2 | 2026-11-01 | 2026-11-10 | 2026-11-10 | MIT |
 | [better-readme](entries/prompt-design/tommy0103-better-readme-skill.md) ⚑ | 32 | 1 | 停滞 | 0 | 2026-10-08 | 2026-11-09 | 2026-11-10 | MIT |
 | [GUntilB/Anima-Prompt-Generator](entries/prompt-design/guntilb-anima-prompt-generator.md) ⚑ | 13 | 1 | 月次 | 3 | 2026-11-08 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
 
@@ -1415,6 +1416,7 @@
 - [prompt-master](entries/prompt-design/nidhinjs-prompt-master.md) — unverified / 今回の投稿は機能紹介で新たな実行試験ではない。 今回の動作・推論・生成・性能は未検証。
 - [kepano/obsidian-minimal](entries/prompt-design/kepano-obsidian-minimal.md) — unverified / MIT表記を原チェックで確認。テーマの見た目・機能・バージョン互換性は未実行確認。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [kepano/flexoki](entries/prompt-design/kepano-flexoki.md) — unverified / MITは配色リポジトリの条件。コントラストや可読性は実際の組み合わせ・端末で確認する必要があり本調査では未試験。 当方でインストール・推論・生成・ベンチ再現はしていない。
+- [AI 漫剧 Skills](entries/prompt-design/zhanghao123vip-ai-manju-skills.md) — unverified / 最新リリースは未確認。動作検証はREADMEの作者報告に基づく。残りの題材の個別動作、各対応環境での再現性、生成物の品質は今回独立に検証していない。
 - [better-readme](entries/prompt-design/tommy0103-better-readme-skill.md) — unverified / GitHub の language は null（コードが無く Markdown のみ）。同梱の Art of README 本文には上流のライセンス表記が無く、上流 https://github.com/noffle/art-of-readme も 404 のため再配布条件は未確認。効果（使う前と後で変わる）は作者の主張のみで、before/after 例・テスト・第三者評価はリポジトリに無い。npx skills add は npm の skills v1.7.6 とそのドキュメントで実在を確認したが、この環境では実行できず、実際のインストール成否は未確認。投稿の画像は撮影時点で star 0 の README 画面で、現在値（31）とは一致しない。
 - [GUntilB/Anima-Prompt-Generator](entries/prompt-design/guntilb-anima-prompt-generator.md) — unverified / 33.8kタグ/7.5k別名はREADME自己申告で未検証。原チェック時は作成直後の小規模プロジェクト。GPL-3.0と使用モデルの条件を分ける。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [AGENTS.md 6節テンプレート（Claude Code / Codex 共用）](prompts/prompt-design/agents.md-6-claude-code-codex-ce272fe27c.md) — unverified / 配布元の同定が部分的。@simplifyinAI が 2026-10-02 に同内容の AGENTS.md テンプレートを投稿していることは確認したが、その投稿の添付画像そのものは取得できておらず、本画像との同一性は未確認。本画像は VS Code のスクリーンショットで、ワークスペース名 token-demo、ステータスバー landon-art であり、オリジナルの作者・リポジトリは特定できていない。同じ33行は @Voxyz_ai 名義の文字起こし（copybook、2026-09-30）にも一致し、初出は不明。ライセンス表記なし。Claude Code 側の AGENTS.md 対応は v2.1.277 以降に限られ、CLAUDE.md があると既定では読まれない点は利用前に確認が必要。

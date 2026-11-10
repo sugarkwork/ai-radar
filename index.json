@@ -1,5 +1,5 @@
 {
-  "count": 665,
+  "count": 666,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -14369,6 +14369,37 @@
       "last_release_at": "2025-01-07",
       "path": "entries/prompt-design/kepano-flexoki.md",
       "summary": "デジタル筆記環境等に用いるFlexoki配色。"
+    },
+    {
+      "repo": "zhanghao123vip/ai-manju-skills",
+      "name": "AI 漫剧 Skills",
+      "genre": "prompt-design",
+      "url": "https://github.com/zhanghao123vip/ai-manju-skills",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "最新リリースは未確認。動作検証はREADMEの作者報告に基づく。残りの題材の個別動作、各対応環境での再現性、生成物の品質は今回独立に検証していない。",
+      "stars": 695,
+      "forks": 124,
+      "open_issues": 0,
+      "size_kb": 101,
+      "language": "unknown",
+      "created": "2026-10-31",
+      "updated": "2026-11-01",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 2,
+      "commits_90d": 2,
+      "commit_cadence": "monthly",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/ganfanren_ai/status/2117526594839601153"
+      ],
+      "fetched_at": "2026-11-10T09:23:57Z",
+      "path": "entries/prompt-design/zhanghao123vip-ai-manju-skills.md",
+      "summary": "物語のアイデアをもとに、企画書、人物・小道具・背景などの画像生成プロンプト、各話の台本、絵コンテ・動画生成プロンプト、表紙や投稿文の案を段階的に出力する。"
     },
     {
       "repo": "tommy0103/better-readme-skill",
