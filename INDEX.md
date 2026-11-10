@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 674 件 — リポジトリ 371, リンク集 113, 記事 123, モデル 53, プロンプト 14 / ⚑ 要確認 465 件
+収録 675 件 — リポジトリ 372, リンク集 113, 記事 123, モデル 53, プロンプト 14 / ⚑ 要確認 466 件
 
-## リポジトリ（371）
+## リポジトリ（372）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -331,7 +331,7 @@
 | [Pixel Plays](entries/other/amirmushichge-pixel-plays.md) ⚑ | 448 | 43 | 月次 | 2 | 2026-10-31 | 2026-11-10 | 2026-11-10 | MIT |
 | [jev-guard](entries/other/leepokai-jev-guard.md) ⚑ | 150 | 24 | 月次 | 0 | 2026-10-02 | 2026-11-09 | 2026-11-10 | MIT |
 
-### 金融・クオンツ（18）
+### 金融・クオンツ（19）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -353,6 +353,7 @@
 | [skfolio](entries/finance-quant/skfolio-skfolio.md) | 2,618 | 305 | 毎日 | 81 | 2026-11-08 | 2026-11-09 | 2026-11-10 | BSD-3-Clause |
 | [serenity-stock-choke](entries/finance-quant/fadewalk-serenity-stock-choke.md) | 531 | 56 | 月次 | 0 | 2026-10-06 | 2026-11-09 | 2026-11-10 | MIT |
 | [A-Share Quant Selector](entries/finance-quant/dzy-hw-xd-a-share-quant-selector.md) | 513 | 109 | 停滞 | 0 | 2026-09-08 | 2026-11-09 | 2026-11-10 | MIT |
+| [HyperGrok Trading Desk](entries/finance-quant/galleonlabs-hypergrok-trading-desk.md) ⚑ | 472 | 110 | 毎日 | 26 | 2026-11-04 | 2026-11-10 | 2026-11-10 | MIT |
 
 ### RAG・検索（17）
 
@@ -1289,6 +1290,7 @@
 - [GameFeelとQwen-4-Flash-Early比較評価の読み方](articles/2026-11-09-https-x.com-follistatindev-status-2119220233751671186.md) — unverified / Early Access APIの評価でサイズ不明。27Bの修正後47という返信と取得CSV44.6は不一致。独立ベンチの一般順位と断定しない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [kakaocorp/kanana-2-v-decide-3b-2611](models/eval/kakaocorp-kanana-2-v-decide-3b-2611.md) — unverified / 独自Kanana Open LicenseでAPI再販・SI・組込み等の商用提供に別許諾、表示・派生名等に条件。Decision Index61.23等はKakao自己評価。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [TradingAgents](entries/finance-quant/tauricresearch-tradingagents.md) — unverified / 現行版のCLI実行、データ取得の安定性、論文結果の独立再現、実取引での成績は未確認。LLMや外部データの料金・利用条件は提供元と設定に依存し、個別条件は未確認。90日コミット数は計測上限のため100件以上を表す。
+- [HyperGrok Trading Desk](entries/finance-quant/galleonlabs-hypergrok-trading-desk.md) — unverified / 独立した動作検証は未実施。各環境の導入・権限設定、注文承認の強制と迂回耐性、取引成績、ホスト環境と取引所の料金は未確認。v1.7.1のリリースノートによると、公開Grok Botテンプレートは当時v1.7.0を配布しており、v1.7.1への更新状況は未確認。
 - [ostris/ai-toolkit](entries/image-gen/ostris-ai-toolkit.md) — unverified / MITはツールのコードに関する条件で、学習元重み・画像・生成物の条件とは別。学習速度・VRAM・成果は未再現。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [facebookresearch/sam3](entries/image-gen/facebookresearch-sam3.md) — unverified / 独自SAM Licenseで標準MIT/Apacheではない。重みのmanual gateや利用条件を確認し、複数人モーションのデモを本体の実行試験としない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Agent Sprite Forge](entries/image-gen/0x0funky-agent-sprite-forge.md) — unverified / 元ポストは「ゲームエンジンへの取り込みは未確認」と留保するが、README は Godot/Aseprite/Tiled/LDtk 書き出しを検証済みと明記。実機検証は未実施。

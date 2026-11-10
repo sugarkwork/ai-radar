@@ -1,5 +1,5 @@
 {
-  "count": 674,
+  "count": 675,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -8433,6 +8433,38 @@
       "type": "repo",
       "path": "entries/finance-quant/dzy-hw-xd-a-share-quant-selector.md",
       "summary": "A株の「碗口反発（茶碗の縁からの反発）」型の押し目を機械的に拾う選股ツール。Python + akshare でデータを取り、KDJ・トレンドライン・出来高の条件でふるいにかける。"
+    },
+    {
+      "name": "HyperGrok Trading Desk",
+      "genre": "finance-quant",
+      "url": "https://github.com/galleonlabs/hypergrok-trading-desk",
+      "last_release": "v1.7.1",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "独立した動作検証は未実施。各環境の導入・権限設定、注文承認の強制と迂回耐性、取引成績、ホスト環境と取引所の料金は未確認。v1.7.1のリリースノートによると、公開Grok Botテンプレートは当時v1.7.0を配布しており、v1.7.1への更新状況は未確認。",
+      "repo": "galleonlabs/hypergrok-trading-desk",
+      "stars": 472,
+      "forks": 110,
+      "open_issues": 1,
+      "size_kb": 1635,
+      "language": "Python",
+      "created": "2026-08-16",
+      "updated": "2026-11-04",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 26,
+      "commits_90d": 80,
+      "commit_cadence": "daily",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/thegreatest_sv/status/2117591176048005131"
+      ],
+      "fetched_at": "2026-11-10T09:44:37+00:00",
+      "path": "entries/finance-quant/galleonlabs-hypergrok-trading-desk.md",
+      "summary": "7つの役割定義と17のSKILL.mdを収録。Opening BellはHyperliquidの公開/infoから価格、資金調達率、建玉、スプレッド、板の厚みを取得する。READMEに開発元の出力例がある。"
     },
     {
       "type": "repo",
