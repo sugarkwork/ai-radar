@@ -1,5 +1,5 @@
 {
-  "count": 716,
+  "count": 717,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -435,6 +435,40 @@
       "type": "repo",
       "path": "entries/3d-motion/wy51ai-floorplan-3d.md",
       "summary": "ブラウザだけで動く間取り・リフォーム設計ツール。2D 平面図に家具を置き、壁を撤去し、寸法を測り、そのまま Three.js の3Dシーンに切り替えて確認できる。アプリ全体が index.html 1枚で、ビルド不要。"
+    },
+    {
+      "name": "Post Processing",
+      "genre": "3d-motion",
+      "repo": "pmndrs/postprocessing",
+      "url": "https://github.com/pmndrs/postprocessing",
+      "last_release": "v6.39.6",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": [
+        "実機での描画、GPU別の性能差、発見投稿が紹介したAI制作フロー全体は未検証。"
+      ],
+      "stars": 2963,
+      "forks": 258,
+      "open_issues": 30,
+      "size_kb": 262336,
+      "language": "JavaScript",
+      "created": "2015-12-08",
+      "updated": "2026-11-01",
+      "archived": false,
+      "license": "Zlib",
+      "commits_30d": 6,
+      "commits_90d": 22,
+      "commit_cadence": "weekly",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/RealMarvelX/status/2117956876369264741"
+      ],
+      "fetched_at": "2026-11-10T11:07:00+00:00",
+      "path": "entries/3d-motion/pmndrs-postprocessing.md",
+      "summary": "描画済みのシーンにブルーム、被写界深度、色補正などの全画面エフェクトを適用できる。"
     },
     {
       "repo": "elvarofficial/teardown",
