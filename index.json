@@ -1,5 +1,5 @@
 {
-  "count": 722,
+  "count": 723,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -13757,6 +13757,38 @@
       "fetched_at": "2026-11-10T09:31:04Z",
       "path": "entries/other/ffmpeg-ffmpeg.md",
       "summary": "ffmpegで映像・音声の変換やストリームの抽出を行い、ffprobeで出力の形式やストリームを検査できる。"
+    },
+    {
+      "repo": "usememos/memos",
+      "name": "Memos",
+      "genre": "other",
+      "url": "https://github.com/usememos/memos",
+      "last_release": "26.11.0",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "Docker起動、MCPクライアントからの接続、検索結果の品質や応答速度は独立実測していない。発見投稿にあるGrok Botとの接続は未確認。",
+      "stars": 64375,
+      "forks": 4946,
+      "open_issues": 62,
+      "size_kb": 49158,
+      "language": "Go",
+      "created": "2021-12-08",
+      "updated": "2026-11-09",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 74,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/thegreatest_sv/status/2117960732184633699"
+      ],
+      "fetched_at": "2026-11-10T11:13:54+00:00",
+      "path": "entries/other/usememos-memos.md",
+      "summary": "Markdownでメモを残し、タイムラインやタグから探せる。内蔵MCPにはメモの検索・取得に加え、作成・更新・削除のツールもある。"
     },
     {
       "repo": "skylot/jadx",
