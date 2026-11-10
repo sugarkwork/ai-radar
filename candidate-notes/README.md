@@ -54,6 +54,8 @@
   - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://x.com/okapi_fukugyo/status/2116461183528284258>。
 - [X: okapi_fukugyo の投稿](https://x.com/okapi_fukugyo/status/2116364779166281893)
   - 掲載先URLの正常なHTTP応答を確認できませんでした。
+- [X: neuronxwhite の投稿](https://x.com/neuronxwhite/status/2118159914929643863)
+  - 最終下書きが照合済みの対象または出力契約と一致しません。
 - [X: neuronxwhite の投稿](https://x.com/neuronxwhite/status/2118131054167163159)
   - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://x.com/neuronxwhite/status/2118131054167163159>。
 - [X: neuronxwhite の投稿](https://x.com/neuronxwhite/status/2117559527860249000)
@@ -110,6 +112,11 @@
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
 - [X: dextune の投稿](https://x.com/dextune/status/2117483057343353195)
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+- [X: daaihq の投稿](https://x.com/daaihq/status/2118163224340410774)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+  - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://x.com/OpenAI/status/2118124944928432327>。
+- [X: daaihq の投稿](https://x.com/daaihq/status/2118161960957296872)
+  - 候補の対象が複数あり、一意に特定できませんでした。
 - [X: daaihq の投稿](https://x.com/daaihq/status/2118150949365785056)
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
@@ -174,6 +181,9 @@
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
 - [X: Machinedelusion の投稿](https://x.com/Machinedelusion/status/2119635338175873388)
   - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://huggingface.co/ConwayResearch/Underdog-Woof>。
+- [X: Machinedelusion の投稿](https://x.com/Machinedelusion/status/2118155587875942772)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+  - 元投稿と配布先が同一対象であることを裏付けられませんでした。
 - [X: Machinedelusion の投稿](https://x.com/Machinedelusion/status/2118132641576919211)
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 - [X: Machinedelusion の投稿](https://x.com/Machinedelusion/status/2118118129331269821)
