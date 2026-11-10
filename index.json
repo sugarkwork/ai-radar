@@ -1,6 +1,37 @@
 {
-  "count": 686,
+  "count": 687,
   "items": [
+    {
+      "repo": "mrdoob/three.js",
+      "name": "Three.js",
+      "genre": "3d-motion",
+      "url": "https://github.com/mrdoob/three.js",
+      "license": "MIT",
+      "stars": 118014,
+      "forks": 36937,
+      "open_issues": 412,
+      "size_kb": 1702728,
+      "language": "JavaScript",
+      "created": "2010-03-23",
+      "updated": "2026-11-10",
+      "archived": false,
+      "commits_30d": 100,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "最新リリースのタグと公開日時、端末別の描画性能、投稿で言及されたAIとの連携は未確認。描画例は公式資料で確認し、この精査でコードは実行していない。コミット件数は各期間100件で打ち止め。",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/okapi_fukugyo/status/2117616982518559161"
+      ],
+      "fetched_at": "2026-11-10T09:54:27+00:00",
+      "path": "entries/3d-motion/mrdoob-three.js.md",
+      "summary": "メッシュを配置した3Dシーンをブラウザで描画し、カメラの位置や向きを変えて構図と動きを確認できる。公式チュートリアルには回転する立方体の例がある。"
+    },
     {
       "name": "Motion",
       "genre": "3d-motion",

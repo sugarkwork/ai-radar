@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 686 件 — リポジトリ 382, リンク集 113, 記事 124, モデル 53, プロンプト 14 / ⚑ 要確認 476 件
+収録 687 件 — リポジトリ 383, リンク集 113, 記事 124, モデル 53, プロンプト 14 / ⚑ 要確認 477 件
 
-## リポジトリ（382）
+## リポジトリ（383）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -154,10 +154,11 @@
 | [X Virality Score](entries/agent-framework/monkeyteamvip-x-virality-score.md) ⚑ | 35 | 19 | 月次 | 3 | 2026-10-27 | 2026-11-09 | 2026-11-10 | MIT |
 | [web-api-skills](entries/agent-framework/oxylabs-web-api-skills.md) | 13 | 1 | 週次 | 11 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
 
-### 3D・モーション（43）
+### 3D・モーション（44）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
+| [Three.js](entries/3d-motion/mrdoob-three.js.md) ⚑ | 118,014 | 36,937 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | MIT |
 | [Motion](entries/3d-motion/motiondivision-motion.md) ⚑ | 35,043 | 1,527 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | MIT |
 | [MCP for Blender](entries/3d-motion/ahujasid-mcp-for-blender.md) | 33,776 | 3,073 | 毎日 | 22 | 2026-11-04 | 2026-11-09 | 2026-11-10 | MIT |
 | [Anatomy](entries/3d-motion/wheresryan22-anatomy.md) | 26,237 | 2,201 | 毎日 | 100+ | 2026-10-18 | 2026-11-09 | 2026-11-10 | MIT |
@@ -1101,6 +1102,7 @@
 
 ## ⚑ 要確認
 
+- [Three.js](entries/3d-motion/mrdoob-three.js.md) — unverified / 最新リリースのタグと公開日時、端末別の描画性能、投稿で言及されたAIとの連携は未確認。描画例は公式資料で確認し、この精査でコードは実行していない。コミット件数は各期間100件で打ち止め。
 - [Motion](entries/3d-motion/motiondivision-motion.md) — unverified / 最新リリースの版と公開日時、ブラウザー上の描画性能、エージェントへのSkill導入とMCP接続の実動作は未確認。コミット件数の100は各期間で100件以上を表す。
 - [text-to-cad](entries/3d-motion/earthtojake-text-to-cad.md) — unverified / 有効性は配布元の設計説明と自己申告のみで、生成された CAD の寸法精度・製造可能性を第三者が測定した結果は確認していない。DFM/DfAM の検査は mesh 計測と規則の引用だが、規則の妥当性・合否閾値は未検証。PyPI の分類は Development Status :: 4 - Beta。Python 3.14 固定で 3.13 以前では動かない。Windows 11 の Smart App Control 有効環境では OCP のネイティブモジュールが遮断される。既定でテレメトリ有効。リポジトリサイズは API 表記 436,278 KB。
 - [Blender](entries/3d-motion/blender-blender.md) — unverified / GitHubミラーの最新リリース、発見投稿のClaudeによる全工程自動化、外部MCPとの接続、総費用、制作結果は未確認。レンダリング速度や画質の独立実測は行っていない。 GitHub APIでライセンスを確認できていません。
