@@ -1,5 +1,5 @@
 {
-  "count": 756,
+  "count": 757,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -7039,6 +7039,38 @@
       "fetched_at": "2026-11-10T11:53:15Z",
       "path": "entries/coding-agent/karpathy-autoresearch.md",
       "summary": "エージェントが train.py のモデル構成や学習設定を変更し、検証データの val_bpb（1バイトあたりのビット数）が下がった変更を残す。"
+    },
+    {
+      "repo": "tt-a1i/archify",
+      "name": "Archify",
+      "genre": "coding-agent",
+      "url": "https://github.com/tt-a1i/archify",
+      "last_release": "v3.2.0",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "生成された図の正確性や可読性、各エージェントでの導入と書き出しの動作は独立に検証していない。GitHubの公開ページで最新版タグを確認したが、完全な公開日時は未確認。",
+      "stars": 95261,
+      "forks": 6499,
+      "open_issues": 353,
+      "size_kb": 1523129,
+      "language": "JavaScript",
+      "created": "2026-04-15",
+      "updated": "2026-11-10",
+      "archived": false,
+      "license": "Apache-2.0",
+      "commits_30d": 100,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/opensourcelab9/status/2115209466392228235"
+      ],
+      "fetched_at": "2026-11-10T12:02:00Z",
+      "path": "entries/coding-agent/tt-a1i-archify.md",
+      "summary": "自然文から、ノードを選んで経路をたどれるHTMLの構成図を生成する。手元にコードがない設計案から始め、会話で認証の追加や経路の強調を指示できる。 [公式README](https://raw.githubusercontent.com/tt-a1i/archify/main/README.md)"
     },
     {
       "repo": "colbymchenry/codegraph",
