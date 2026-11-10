@@ -1,5 +1,5 @@
 {
-  "count": 746,
+  "count": 747,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -14793,6 +14793,37 @@
       "type": "repo",
       "path": "entries/other/thysrael-horizon.md",
       "summary": "RSS、Hacker News、Reddit、Telegram、X、GitHub、金融ニュースなどを1つの巡回にまとめ、AI で選別して日次ブリーフィングを作る。"
+    },
+    {
+      "repo": "karpathy/minbpe",
+      "name": "minbpe",
+      "genre": "other",
+      "url": "https://github.com/karpathy/minbpe",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "最新リリース、対応するPython・依存ライブラリのバージョン範囲、cl100k_baseとの出力一致、実行時間は未検証。互換性と所要時間はREADMEの著者報告に基づく。",
+      "stars": 11021,
+      "forks": 1150,
+      "open_issues": 59,
+      "size_kb": 256,
+      "language": "Python",
+      "created": "2024-02-16",
+      "updated": "2024-07-01",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 0,
+      "commits_90d": 0,
+      "commit_cadence": "stale",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/thegreatest_sv/status/2115051970251628961"
+      ],
+      "fetched_at": "2026-11-10T11:50:52+00:00",
+      "path": "entries/other/karpathy-minbpe.md",
+      "summary": "手持ちのテキストから語彙とマージ規則を学習し、文字列をトークンID列へ変換して復号できる。BasicTokenizerとRegexTokenizerで事前分割の影響を比較できる。"
     },
     {
       "repo": "elder-plinius/OBLITERATUS",
