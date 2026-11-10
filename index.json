@@ -1,5 +1,5 @@
 {
-  "count": 625,
+  "count": 626,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -5801,6 +5801,25 @@
       ],
       "fetched_at": "2026-11-09T08:32:37Z",
       "path": "articles/2026-10-23-sumika45379-skills-studio-claude-code-skill.md"
+    },
+    {
+      "name": "ジェンスン・フアンがCNNで語ったAIを使った学習と回答の比較",
+      "genre": "article",
+      "url": "https://prod.transcripts.cnn.com/show/fzgps/date/2025-07-13/segment/01",
+      "author": "CNN",
+      "published": "2025-07-13",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "認知能力の向上は本人の自己評価。学習効果、複数のAIによる相互批評の精度向上、引用投稿が述べる認知能力の低下や格差拡大は、この資料では実証されていない。",
+      "type": "article",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/PayneL_AI/status/2116810851713941637"
+      ],
+      "fetched_at": "2026-11-10T06:23:19Z",
+      "path": "articles/2025-07-13-cnn-cnn-ai.md"
     },
     {
       "type": "article",

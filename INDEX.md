@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 625 件 — リポジトリ 331, リンク集 113, 記事 114, モデル 53, プロンプト 14 / ⚑ 要確認 416 件
+収録 626 件 — リポジトリ 331, リンク集 113, 記事 115, モデル 53, プロンプト 14 / ⚑ 要確認 417 件
 
 ## リポジトリ（331）
 
@@ -874,9 +874,9 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（114）
+## 記事（115）
 
-### 記事（57）
+### 記事（58）
 
 - **[$0のデジタル参謀長で月$80,000の契約候補を作ったというX投稿（動画付き）](articles/2026-10-22-bober_smart-0-80-000-x.md)** ⚑  @Bober_smart
 - **[1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md)** ⚑  @mukadeshinigami（mukade死神）
@@ -926,6 +926,7 @@
 - **[iPhone『削除済み写真173,521件』主張の検証（PhotoData/Thumbnails）](articles/2026-10-25-bober_smart-iphone-173-521-photodata-thumbnails.md)** ⚑  Bober_smart
 - **[「長くなる一方のSkill」を「短く効くSkill」にする、Matt Pocock式の作り方](articles/2026-10-20-sumika45379-skills-studio-skill-skill-matt-pocock.md)** ⚑  @sumika45379 (Skills Studio)
 - **[【公式】Claude Codeの「直しました」で終わらせない。画面の確認まで任せるSkillの作り方](articles/2026-10-23-sumika45379-skills-studio-claude-code-skill.md)** ⚑  sumika45379 / Skills Studio
+- **[ジェンスン・フアンがCNNで語ったAIを使った学習と回答の比較](articles/2025-07-13-cnn-cnn-ai.md)** ⚑  CNN
 - **[デジタル化・AI導入補助金の申請条件と交付順序](articles/2026-11-09-https-x.com-makeai_ceo-status-2089261252120051821.md)** ⚑  @ai_ai_ailover
 - **[モデルの能力とハーネスの適合を考える](articles/2026-10-12-bernat-vadell-d5322e77.md)** ⚑  Bernat Vadell
 - **[ローカルAI推論で速度が次の課題になるという論考](articles/2026-10-01-bernat-vadell-ai.md)** ⚑  Bernat Vadell
@@ -1173,6 +1174,7 @@
 - [iPhone『削除済み写真173,521件』主張の検証（PhotoData/Thumbnails）](articles/2026-10-25-bober_smart-iphone-173-521-photodata-thumbnails.md) — unverified, low-quality / 投稿単体では裏取り不能。同一本文内で183,000超と173,521が矛盾し、ほぼ同文の投稿が他アカウントから145,763/147,863/152,000件など異なる数字で出回る（AI-generated engagement baitとのコミュニティノートあり）。PhotoData/Thumbnailsの存在とサムネイル残存は文献で確認できるが、原寸オリジナル4年分という記述と『Spotlight索引』という説明は不正確。『19アプリが自由に読めた』はAppleのサンドボックス仕様および返信者の検証画像（permission denied）と矛盾。引用X記事はログイン壁、添付動画はフレームの文字が判読不能で、手順・プロンプト・実測値はいずれも未確認。
 - [「長くなる一方のSkill」を「短く効くSkill」にする、Matt Pocock式の作り方](articles/2026-10-20-sumika45379-skills-studio-skill-skill-matt-pocock.md) — unverified / 2026-10-10時点「スター28万超」という記事の数字は当時の値を再現できず、2026-11-08実測は318,171（記事の数字は古いスナップショットで、現在は上回る）。種動画の内容は説明欄のチャプター（5段）と公開日まで確認、本編の逐語と図版は未確認。動画側の「22 million+ people use them」は一次確認なし（記事はこの種のインストール数を載せていない）。効果（送り返しの減少）の第三者計測は記事にも当方にも見つからない。記事は本文中2箇所でLINE友だち追加による「Skill10選」配布へ誘導する販促導線を含む。
 - [【公式】Claude Codeの「直しました」で終わらせない。画面の確認まで任せるSkillの作り方](articles/2026-10-23-sumika45379-skills-studio-claude-code-skill.md) — unverified / 記事ページは非ログインだと x.com のログイン画面へリダイレクトされ（HTTP 200）、本文は封筒JSONの articleText に依拠。published は発見元ポストの日時（2026-10-23）で、記事ページ上の公開日は未確認。動画の字幕が取得できず、動画内の具体発言（3つの確認例、CLS 実演）は直接確認していない。v2.1.286 の自動実行は公式ドキュメントで確認済みだが、著者自身は /verify を実行しておらず、記事もその旨を明記している。末尾に LINE 友だち追加でプロンプト集を配る導線がある。
+- [ジェンスン・フアンがCNNで語ったAIを使った学習と回答の比較](articles/2025-07-13-cnn-cnn-ai.md) — unverified / 認知能力の向上は本人の自己評価。学習効果、複数のAIによる相互批評の精度向上、引用投稿が述べる認知能力の低下や格差拡大は、この資料では実証されていない。
 - [デジタル化・AI導入補助金の申請条件と交付順序](articles/2026-11-09-https-x.com-makeai_ceo-status-2089261252120051821.md) — unverified / PC等の1/2以内・上限10万円は原チェック時の公式確認。誰でも単体PCを先に買えば補助される制度ではなく、現行公募要領と対象者を確認する。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [モデルの能力とハーネスの適合を考える](articles/2026-10-12-bernat-vadell-d5322e77.md) — unverified / 投稿自体にベンチマークや導入効果の測定はない。
 - [ローカルAI推論で速度が次の課題になるという論考](articles/2026-10-01-bernat-vadell-ai.md) — unverified / 速度の例示は実測値ではなく、将来予測。
