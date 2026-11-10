@@ -1,5 +1,5 @@
 {
-  "count": 769,
+  "count": 770,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -9853,6 +9853,37 @@
       "fetched_at": "2026-11-10T09:44:37+00:00",
       "path": "entries/finance-quant/galleonlabs-hypergrok-trading-desk.md",
       "summary": "7つの役割定義と17のSKILL.mdを収録。Opening BellはHyperliquidの公開/infoから価格、資金調達率、建玉、スプレッド、板の厚みを取得する。READMEに開発元の出力例がある。"
+    },
+    {
+      "repo": "justinhe16/trade-jev",
+      "name": "trade-jev",
+      "genre": "finance-quant",
+      "url": "https://github.com/justinhe16/trade-jev",
+      "stars": 13,
+      "forks": 3,
+      "open_issues": 1,
+      "size_kb": 994,
+      "language": "Python",
+      "created": "2026-09-17",
+      "updated": "2026-11-09",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 16,
+      "commits_90d": 21,
+      "commit_cadence": "weekly",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "コードの実行と損益の独立再計算は未実施。別期間での成績、実約定での損益、現行のAPI・市場データ料金、最新リリースは未確認。",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/thegreatest_sv/status/2115461838607659474"
+      ],
+      "fetched_at": "2026-11-10T12:19:21Z",
+      "path": "entries/finance-quant/justinhe16-trade-jev.md",
+      "summary": "Nasdaq-100先物（NQ）の板データを使い、JevのBUY／SELL／HOLDを、保有継続・ランダム・板の偏りを用いる比較ルールと並べて検証できる。保存した応答はAPIを再呼び出しせず再評価できる。"
     },
     {
       "repo": "Comfy-Org/ComfyUI",

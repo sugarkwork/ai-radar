@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 769 件 — リポジトリ 458, リンク集 113, 記事 131, モデル 53, プロンプト 14 / ⚑ 要確認 559 件
+収録 770 件 — リポジトリ 459, リンク集 113, 記事 131, モデル 53, プロンプト 14 / ⚑ 要確認 560 件
 
-## リポジトリ（458）
+## リポジトリ（459）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -403,7 +403,7 @@
 | [GLM-5.3-Flash 2×RTX PRO 6000 配備レシピ（TensorFold）](entries/model-serving/miaai-lab-glm-5.3-flash-2x-rtx-pro-6000.md) ⚑ | 23 | 2 | 週次 | 16 | 2026-11-07 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
 | [ausboss/ComfyUI-AusBoss-Model-Downloader](entries/model-serving/ausboss-comfyui-ausboss-model-downloader.md) ⚑ | 9 | 1 | 週次 | 5 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
 
-### 金融・クオンツ（19）
+### 金融・クオンツ（20）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -426,6 +426,7 @@
 | [serenity-stock-choke](entries/finance-quant/fadewalk-serenity-stock-choke.md) | 531 | 56 | 月次 | 0 | 2026-10-06 | 2026-11-09 | 2026-11-10 | MIT |
 | [A-Share Quant Selector](entries/finance-quant/dzy-hw-xd-a-share-quant-selector.md) | 513 | 109 | 停滞 | 0 | 2026-09-08 | 2026-11-09 | 2026-11-10 | MIT |
 | [HyperGrok Trading Desk](entries/finance-quant/galleonlabs-hypergrok-trading-desk.md) ⚑ | 472 | 110 | 毎日 | 26 | 2026-11-04 | 2026-11-10 | 2026-11-10 | MIT |
+| [trade-jev](entries/finance-quant/justinhe16-trade-jev.md) ⚑ | 13 | 3 | 週次 | 16 | 2026-11-09 | 2026-11-10 | 2026-11-10 | MIT |
 
 ### MCPサーバー（19）
 
@@ -1436,6 +1437,7 @@
 - [kakaocorp/kanana-2-v-decide-3b-2611](models/eval/kakaocorp-kanana-2-v-decide-3b-2611.md) — unverified / 独自Kanana Open LicenseでAPI再販・SI・組込み等の商用提供に別許諾、表示・派生名等に条件。Decision Index61.23等はKakao自己評価。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [TradingAgents](entries/finance-quant/tauricresearch-tradingagents.md) — unverified / 現行版のCLI実行、データ取得の安定性、論文結果の独立再現、実取引での成績は未確認。LLMや外部データの料金・利用条件は提供元と設定に依存し、個別条件は未確認。90日コミット数は計測上限のため100件以上を表す。
 - [HyperGrok Trading Desk](entries/finance-quant/galleonlabs-hypergrok-trading-desk.md) — unverified / 独立した動作検証は未実施。各環境の導入・権限設定、注文承認の強制と迂回耐性、取引成績、ホスト環境と取引所の料金は未確認。v1.7.1のリリースノートによると、公開Grok Botテンプレートは当時v1.7.0を配布しており、v1.7.1への更新状況は未確認。
+- [trade-jev](entries/finance-quant/justinhe16-trade-jev.md) — unverified / コードの実行と損益の独立再計算は未実施。別期間での成績、実約定での損益、現行のAPI・市場データ料金、最新リリースは未確認。
 - [ComfyUI](entries/image-gen/comfy-org-comfyui.md) — unverified / FP8とDynamic VRAMの速度改善幅、P-H3-Imageのモデル系譜と重みの利用条件、各機能の必要VRAMと出力品質、最新リリースの公開日時の年とタイムゾーンは未確認。導入と推論の実行検証は行っていない。
 - [Real-ESRGAN](entries/image-gen/xinntao-real-esrgan.md) — unverified / 最新リリースのタグはGitHubの公開ページで確認した。公開日時、現在の依存バージョンでの互換性、実行速度、VRAM使用量、動画フレーム間の一貫性、配布重み固有の利用条件は未確認。画質の記述は著者の報告に基づき、独立した実行・測定は行っていない。
 - [ostris/ai-toolkit](entries/image-gen/ostris-ai-toolkit.md) — unverified / MITはツールのコードに関する条件で、学習元重み・画像・生成物の条件とは別。学習速度・VRAM・成果は未再現。 当方でインストール・推論・生成・ベンチ再現はしていない。
