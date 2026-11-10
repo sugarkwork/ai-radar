@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 571 件 — リポジトリ 327, リンク集 107, 記事 70, モデル 53, プロンプト 14 / ⚑ 要確認 365 件
+収録 572 件 — リポジトリ 327, リンク集 107, 記事 71, モデル 53, プロンプト 14 / ⚑ 要確認 366 件
 
 ## リポジトリ（327）
 
@@ -858,7 +858,7 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（70）
+## 記事（71）
 
 ### 記事（20）
 
@@ -883,7 +883,7 @@
 - **[デジタル化・AI導入補助金の申請条件と交付順序](articles/2026-11-09-https-x.com-makeai_ceo-status-2089261252120051821.md)** ⚑  @ai_ai_ailover
 - **[海外版noteで日本語の知識を英語圏に販売するAI活用記事](articles/2026-11-09-https-x.com-i-article-2117172572655849472.md)** ⚑  @pometa_afi
 
-### 動画生成パイプライン（13）
+### 動画生成パイプライン（14）
 
 - **[AIインフルエンサー量産術：Higgsfield AI Influencer＋Genjutsuで作る架空キャラ](articles/2026-10-11-y0urdumble-ai-higgsfield-ai-influencer-genjutsu.md)** ⚑  @Y0urDumble
 - **[AIペルソナ「Edmond」の$EDMD崩壊 — 72.4Kフォロワーと時価総額$1.8Kの実測メモ](articles/2026-10-18-y0urdumble-ai-edmond-edmd-72.4k-1.8k.md)** ⚑  @Y0urDumble
@@ -893,6 +893,7 @@
 - **[Codex + Seedance 2.5 で2Dアニメを1コマ打ちにするワークフロー](articles/2026-11-08-kof97ai-codex-seedance-keyframe.md)** ⚑  @KOF97AI
 - **[HyperFlow H3 Flash 第三者速度比較](articles/2026-11-09-https-x.com-deepforest_inc-status-2118808820013244894.md)** ⚑  @DeepForest_Inc
 - **[MiniMax H3系のボイスLoRA／キャプション運用メモ](articles/2026-11-07-ai_1610-h3-voice-lora-memo.md)** ⚑  @ai_1610
+- **[Muse Videoで参照画像から予告編を作る事例](articles/2026-10-22-jarvis11x-muse-video.md)** ⚑  @jarvis11x
 - **[Museに外部の無料GPU（Modal／Kaggle／Colab）を割り当てる手順](articles/2026-11-07-taki_auto-muse-free-gpu.md)** ⚑  @taki_auto
 - **[larryvrh Turbo v4 EMAの比較結果（正規配布ID未確認）](articles/2026-11-09-topic-larryvrh-h3-turbo-v4-ema.md)** ⚑  @mapte_fireball
 - **[《神瞰众生》先導編](articles/2026-10-22-jarvis11x-0be72166.md)** ⚑  @jarvis11x
@@ -1326,6 +1327,7 @@
 - [MiniMax H3 long take 連結ワークフロー](links/video-gen/https-civitai.com-models-3038677.md) — unverified / 作者のRTX4070SUPER12GB使用は最低VRAM要件の証明ではない。長尺の整合性・繋ぎ・追加ノードの安全性と権利は未検証。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [MiniMax H3系のボイスLoRA／キャプション運用メモ](articles/2026-11-07-ai_1610-h3-voice-lora-memo.md) — unverified / 18+ / NSFW。引用先のnote記事は成人向け音声演技（喘ぎ・淫語）の設計メモで、職場閲覧注意。本文の『p-h3』は製品リンクがなく固有名を特定できない（H3系=MiniMax H3は既出。PrunaAIのP-H3-Imageは画像モデルで声LoRAとは無関係）。投稿は前投稿の訂正＋運用注意の追記で、新製品・リポジトリの提示ではない。声LoRAの効果やキャプション記述の優劣は本人の運用感で、数値・比較検証は無い。
 - [MiniMax H3：20種のダンスと音楽指定](prompts/video-gen/minimax-h3-20-dance-music.md) — unverified / 投稿本文を原文のまま収録。生成品質や参照画像の一致、音楽と動作の同期は未検証。元投稿には再配布・商用利用条件の明記を確認できていない。ローカルH3の生成物を商用利用するには別途ライセンスが必要。
+- [Muse Videoで参照画像から予告編を作る事例](articles/2026-10-22-jarvis11x-muse-video.md) — unverified / 一括生成か編集か、再現性、画像と音楽の利用許諾は未確認。
 - [Museに外部の無料GPU（Modal／Kaggle／Colab）を割り当てる手順](articles/2026-11-07-taki_auto-muse-free-gpu.md) — low-quality, unverified / 新ツールの提示ではなく、既知サービス3つ（Modal・Kaggle・Colab）をMuse経由で使う手順とコピペ用プロンプトの連投。Modal Starterの月30ドル無料クレジット、KaggleのGPU無料枠が週30時間前後という記述は一次情報とおおむね一致するが、『1枚49秒／70秒』等の速度は本人環境依存で検証不能。本旨は『AI画像×CG集販売の12大特典を無料配布』への導線（販促）で、技術情報としての独自性は低い。成人向けはKaggle・Modalの規約で禁止という注意書きは妥当。会話欄に無関係な広告（コーヒー通販）が混入。
 - [P-H3-Image](models/video-gen/prunaai-p-h3-image.md) — unverified / 学習アダプタの存在はモデル本体の権利条件や実行要件を緩和しない。 今回の動作・推論・生成・性能は未検証。
 - [Pika H3 Flex Turbo LoRA](models/video-gen/pika-labs-pika-h3-flex-turbo-lora.md) — unverified / 123秒という値は投稿者測定。HyperFlow等の別モデルと解像度やサンプラをそろえず速度優位を一般化しない。 今回の動作・推論・生成・性能は未検証。

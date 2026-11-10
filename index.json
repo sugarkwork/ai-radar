@@ -1,5 +1,5 @@
 {
-  "count": 571,
+  "count": 572,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -17695,6 +17695,25 @@
       ],
       "path": "prompts/video-gen/minimax-h3-20-dance-music.md",
       "summary": "キャラクターシートを参照し、6秒間の全身ダンスと音楽・環境音を指示するための投稿者のテンプレート。ダンス20種類の音楽指定例を含む。"
+    },
+    {
+      "name": "Muse Videoで参照画像から予告編を作る事例",
+      "genre": "video-gen",
+      "url": "https://x.com/jarvis11x/status/2113157755225669993",
+      "author": "@jarvis11x",
+      "published": "2026-10-22",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一括生成か編集か、再現性、画像と音楽の利用許諾は未確認。",
+      "type": "article",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/jarvis11x/status/2113157755225669993"
+      ],
+      "fetched_at": "2026-11-10T11:51:20+09:00",
+      "path": "articles/2026-10-22-jarvis11x-muse-video.md"
     },
     {
       "name": "Museに外部の無料GPU（Modal／Kaggle／Colab）を割り当てる手順",
