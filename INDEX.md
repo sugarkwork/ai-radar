@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 610 件 — リポジトリ 331, リンク集 113, 記事 99, モデル 53, プロンプト 14 / ⚑ 要確認 402 件
+収録 611 件 — リポジトリ 331, リンク集 113, 記事 100, モデル 53, プロンプト 14 / ⚑ 要確認 403 件
 
 ## リポジトリ（331）
 
@@ -874,7 +874,7 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（99）
+## 記事（100）
 
 ### 記事（47）
 
@@ -926,7 +926,7 @@
 - **[海外版noteで日本語の知識を英語圏に販売するAI活用記事](articles/2026-11-09-https-x.com-i-article-2117172572655849472.md)** ⚑  @pometa_afi
 - **[自主制作AIドラマ《最后的巨魔》](articles/2026-10-22-jiuyueaigc-ai.md)** ⚑  @JiuYueAIGC
 
-### 動画生成パイプライン（14）
+### 動画生成パイプライン（15）
 
 - **[AIインフルエンサー量産術：Higgsfield AI Influencer＋Genjutsuで作る架空キャラ](articles/2026-10-11-y0urdumble-ai-higgsfield-ai-influencer-genjutsu.md)** ⚑  @Y0urDumble
 - **[AIペルソナ「Edmond」の$EDMD崩壊 — 72.4Kフォロワーと時価総額$1.8Kの実測メモ](articles/2026-10-18-y0urdumble-ai-edmond-edmd-72.4k-1.8k.md)** ⚑  @Y0urDumble
@@ -934,6 +934,7 @@
 - **[AI動画の今週3・Instagram週次観測](articles/2026-11-09-https-make-profit.net-2026-11-07-ai-video-weekly-03-instagram.md)** ⚑  @Phantom_202601
 - **[Claude Code・Three.js・Canvas2D・ffmpegによるモーション制作手順](articles/2026-11-09-https-x.com-korodesign-status-2118900645868794342.md)** ⚑  @korodesign
 - **[Codex + Seedance 2.5 で2Dアニメを1コマ打ちにするワークフロー](articles/2026-11-08-kof97ai-codex-seedance-keyframe.md)** ⚑  @KOF97AI
+- **[GoShortのAI短編ドラマ制作・配信構想](articles/2026-11-09-goshort-goshort-ai.md)** ⚑  GoShort
 - **[HyperFlow H3 Flash 第三者速度比較](articles/2026-11-09-https-x.com-deepforest_inc-status-2118808820013244894.md)** ⚑  @DeepForest_Inc
 - **[MiniMax H3系のボイスLoRA／キャプション運用メモ](articles/2026-11-07-ai_1610-h3-voice-lora-memo.md)** ⚑  @ai_1610
 - **[Muse Videoで参照画像から予告編を作る事例](articles/2026-10-22-jarvis11x-muse-video.md)** ⚑  @jarvis11x
@@ -1402,6 +1403,7 @@
 - [BennyDaBall/HyperFlow-H3-Flash-INT8-ComfyUI](models/video-gen/bennydaball-hyperflow-h3-flash-int8-comfyui.md) — unverified / 重みはMiniMax H3 Community License。RTX5090・1344×768・124frames・6step46.1秒/疎注意38秒等は作者測定で他GPUの保証ではない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Claude Code・Three.js・Canvas2D・ffmpegによるモーション制作手順](articles/2026-11-09-https-x.com-korodesign-status-2118900645868794342.md) — unverified / コード・テンプレートは未配布。LINE Seed等フォントの権利とエージェント契約は別。動きの言葉指定の効果は未検証。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Codex + Seedance 2.5 で2Dアニメを1コマ打ちにするワークフロー](articles/2026-11-08-kof97ai-codex-seedance-keyframe.md) — unverified / 投稿は本文＋9:16のmp4 1本のみで、外部リンク・リポジトリ・プロンプトの配布は無い。手順は著者の説明で、効果の程度は未検証（ソフト未実行・手法未再現）。Seedance 2.5 は本カタログ未登録。『局部一拍一（局部キーフレーム抽帧重绘）』は、Seedanceの滑らかな補間をCodexで局部的にキーフレームを打ち直して1コマ打ちに見せる、という2Dアニメ向けの技法。
+- [GoShortのAI短編ドラマ制作・配信構想](articles/2026-11-09-goshort-goshort-ai.md) — unverified / 使用モデル、モーションキャプチャーから映像生成までの実装、総制作期間、費用削減の比較条件と実測値は未確認。市場規模予測と実際の配信開始日も未確認。
 - [Higgsfield](links/video-gen/higgsfield.ai-higgsfield.md) — unverified / 【投稿の主張と実測の区別】ポストは架空のラッパー風ペルソナ「Marcel Duvall」が18日で9本・5.16M再生・817.8Kいいね・15.9Kフォロワー、推定$13Kを稼ぎ、$Marcel コインの時価総額が約$3.5Kだと述べるが、これらは投稿者の集計・推計で一次確認していない（フォロワー16Kはスクリーンショットとも一致）。返信で著者は「with the new higgsfield function its as easy as it can get!」とだけ書き、機能名は特定していない。投稿日（2026-10-17）と公式ブログのAI Influencer刷新（2026-10-03）から、AI Influencer＋Genjutsu の組み合わせとみられるが、これは推定であり投稿に明記はない。引用ポストの「$15で作れる」のリンク先 X 記事（2109318233866006528）はログインウォールで本文を取得できていない。ただし公式ブログの2026-10時点の料金表は Starter $15/月（月払い）で、当時の最安有料プランと一致する。現在の料金ページは Starter $19/月（年払い・プロモ表示）で、金額とクレジット数は変動する（未確認ではなく変動）。【未確認】無料プラン生成物の商用利用可否（規約4.4は出力の商用利用を制限しないとする一方、料金表は Free の Commercial use を Not included とする）。無料枠の透かしの有無。添付2枚目のキャラクターターンアラウンド画像はツールUIも透かしもなく、Higgsfield 製かは確認できない。ポスト内の映像が実際に本製品で作られたかも未確認。【リスク】実在人物の顔・声を使う場合は本人の同意が必須（規約5.3）。個人プランは入力・出力がモデル学習に使われうる。18歳以上。モデル・機能は予告なく変更・廃止されうる。無料枠・Unlimited は自動化や再販が禁止。
 - [Higgsfield AI Influencer](links/video-gen/higgsfield.ai-higgsfield-ai-influencer.md) — unverified / 月額 USD と無料枠の数は地域・キャンペーンで変動する。AI Influencer 1体あたりのクレジット消費（記事は 1.12 credits ≈ $0.06 と主張）と無料プラン生成物の透かしの有無は未確認。実在人物の写真を使う場合は本人の許諾が必要。
 - [Higgsfield Genjutsu](links/video-gen/higgsfield.ai-higgsfield-genjutsu.md) — unverified / 月額 USD と無料枠の数は地域・キャンペーンで変動する。AI Influencer 1体あたりのクレジット消費（記事は 1.12 credits ≈ $0.06 と主張）と無料プラン生成物の透かしの有無は未確認。実在人物の写真を使う場合は本人の許諾が必要。

@@ -1,5 +1,5 @@
 {
-  "count": 610,
+  "count": 611,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -18269,6 +18269,25 @@
       "fetched_at": "2026-11-09T14:21:50Z",
       "path": "links/video-gen/ffmpeg.org-ffmpeg.md",
       "summary": "動画・音声の録画、変換、ストリーミングを行うクロスプラットフォームのツール群。投稿の CGI スタックでは、完成した映像を 16:9・9:16・1:1 などの納品フォーマットに変換する『DELIVER』工程を担う。"
+    },
+    {
+      "name": "GoShortのAI短編ドラマ制作・配信構想",
+      "genre": "video-gen",
+      "url": "https://new.streetinsider.com/GetNews/Former%2BNetflix%2Band%2BDisney%2BExecutive%2Band%2BKorean%2BProducer%2BJoin%2BGoShort%2Bto%2BMake%2BAI%2BDrama%2BTruly%2BWorth%2BWatching/27314361.html",
+      "author": "GoShort",
+      "published": "2026-11-09",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "使用モデル、モーションキャプチャーから映像生成までの実装、総制作期間、費用削減の比較条件と実測値は未確認。市場規模予測と実際の配信開始日も未確認。",
+      "type": "article",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/Bunterngonline/status/2117941575309316333"
+      ],
+      "fetched_at": "2026-11-10T04:42:57Z",
+      "path": "articles/2026-11-09-goshort-goshort-ai.md"
     },
     {
       "type": "model",
