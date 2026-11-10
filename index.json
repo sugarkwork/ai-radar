@@ -1,5 +1,5 @@
 {
-  "count": 635,
+  "count": 636,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -15166,6 +15166,37 @@
       "type": "repo",
       "path": "entries/tts-audio/svc-develop-team-so-vits-svc.md",
       "summary": "歌声変換（Singing Voice Conversion）。SoftVC + VITS 構成で、声質だけを差し替える。"
+    },
+    {
+      "repo": "m-bain/whisperX",
+      "name": "WhisperX",
+      "genre": "tts-audio",
+      "url": "https://github.com/m-bain/whisperX",
+      "stars": 25190,
+      "forks": 2543,
+      "open_issues": 220,
+      "size_kb": 41993,
+      "language": "Python",
+      "created": "2022-12-09",
+      "updated": "2026-10-22",
+      "archived": false,
+      "license": "BSD-2-Clause",
+      "commits_30d": 6,
+      "commits_90d": 9,
+      "commit_cadence": "weekly",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "最新版のタグと公開日時、対象音声での速度・単語境界の精度、投稿で紹介された動画制作工程との統合は未確認。",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/Y0urDumble/status/2117030430507401326"
+      ],
+      "fetched_at": "2026-11-10T08:17:21+00:00",
+      "path": "entries/tts-audio/m-bain-whisperx.md",
+      "summary": "音声を文字起こしし、単語単位のタイムスタンプを取得する。CLIはSRTやJSONを出力でき、単語を強調するSRTも生成できる。"
     },
     {
       "repo": "facebookresearch/audiocraft",
