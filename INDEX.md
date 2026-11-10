@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 698 件 — リポジトリ 394, リンク集 113, 記事 124, モデル 53, プロンプト 14 / ⚑ 要確認 488 件
+収録 699 件 — リポジトリ 395, リンク集 113, 記事 124, モデル 53, プロンプト 14 / ⚑ 要確認 489 件
 
-## リポジトリ（394）
+## リポジトリ（395）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -397,13 +397,14 @@
 | [LLM_Wiki_SecondBrain](entries/rag/dimitrislianos-llm_wiki_secondbrain.md) ⚑ | 18 | 3 | 停滞 | 0 | 2026-04-17 | 2026-11-10 | 2026-11-10 | MIT |
 | [Fulcra Agent Skills](entries/rag/fulcradynamics-agent-skills.md) ⚑ | 16 | 11 | 週次 | 10 | 2026-11-06 | 2026-11-09 | 2026-11-10 | unknown |
 
-### 画像生成・編集（14）
+### 画像生成・編集（15）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
 | [Real-ESRGAN](entries/image-gen/xinntao-real-esrgan.md) ⚑ | 37,430 | 4,528 | 停滞 | 0 | 2024-08-06 | 2026-11-10 | 2026-11-10 | BSD-3-Clause |
 | [ostris/ai-toolkit](entries/image-gen/ostris-ai-toolkit.md) ⚑ | 12,595 | 1,616 | 毎日 | 55 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
 | [facebookresearch/sam3](entries/image-gen/facebookresearch-sam3.md) ⚑ | 12,252 | 1,857 | 月次 | 2 | 2026-10-23 | 2026-11-09 | 2026-11-10 | NOASSERTION |
+| [AI 角色参考与合成工作台 · 中文版（3合1）](entries/image-gen/anhao-ai-pose-gallery-zh.md) ⚑ | 6,608 | 1,670 | 毎日 | 82 | 2026-11-04 | 2026-11-10 | 2026-11-10 | unknown |
 | [pixelfx](entries/image-gen/patch-gg-pixelfx.md) | 6,308 | 830 | 週次 | 9 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
 | [Agent Sprite Forge](entries/image-gen/0x0funky-agent-sprite-forge.md) ⚑ | 5,456 | 533 | 月次 | 3 | 2026-11-06 | 2026-11-09 | 2026-11-10 | MIT |
 | [FLUX.2](entries/image-gen/black-forest-labs-flux2.md) | 2,862 | 222 | 停滞 | 0 | 2026-03-12 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
@@ -1327,6 +1328,7 @@
 - [Real-ESRGAN](entries/image-gen/xinntao-real-esrgan.md) — unverified / 最新リリースのタグはGitHubの公開ページで確認した。公開日時、現在の依存バージョンでの互換性、実行速度、VRAM使用量、動画フレーム間の一貫性、配布重み固有の利用条件は未確認。画質の記述は著者の報告に基づき、独立した実行・測定は行っていない。
 - [ostris/ai-toolkit](entries/image-gen/ostris-ai-toolkit.md) — unverified / MITはツールのコードに関する条件で、学習元重み・画像・生成物の条件とは別。学習速度・VRAM・成果は未再現。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [facebookresearch/sam3](entries/image-gen/facebookresearch-sam3.md) — unverified / 独自SAM Licenseで標準MIT/Apacheではない。重みのmanual gateや利用条件を確認し、複数人モーションのデモを本体の実行試験としない。 当方でインストール・推論・生成・ベンチ再現はしていない。
+- [AI 角色参考与合成工作台 · 中文版（3合1）](entries/image-gen/anhao-ai-pose-gallery-zh.md) — unverified / README に基づく。デモと各生成連携の動作、生成品質、クラウド API の料金、素材ごとの許諾、最新リリースは未確認。 GitHub APIでライセンスを確認できていません。
 - [Agent Sprite Forge](entries/image-gen/0x0funky-agent-sprite-forge.md) — unverified / 元ポストは「ゲームエンジンへの取り込みは未確認」と留保するが、README は Godot/Aseprite/Tiled/LDtk 書き出しを検証済みと明記。実機検証は未実施。
 - [Lyricccco/tailsteer](entries/image-gen/lyricccco-tailsteer.md) — unverified / 主な保持定量評価は10ターン。編集精度RISEが低下した値も公開され、保持と指示追従の両方が一律に向上したわけではない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [rhinoc/xprite-lighter](entries/image-gen/rhinoc-xprite-lighter.md) — unverified / MIT表記を原チェックで確認。派生版のAPI互換性・現行版と同じ処理品質は未試験。 当方でインストール・推論・生成・ベンチ再現はしていない。

@@ -1,5 +1,5 @@
 {
-  "count": 698,
+  "count": 699,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -8912,6 +8912,37 @@
       "last_release_at": "",
       "path": "entries/image-gen/facebookresearch-sam3.md",
       "summary": "画像/動画内の対象分離・追跡に関わるSAM3系公式実装。"
+    },
+    {
+      "repo": "anhao/ai-pose-gallery-zh",
+      "name": "AI 角色参考与合成工作台 · 中文版（3合1）",
+      "genre": "image-gen",
+      "url": "https://github.com/anhao/ai-pose-gallery-zh",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "README に基づく。デモと各生成連携の動作、生成品質、クラウド API の料金、素材ごとの許諾、最新リリースは未確認。 GitHub APIでライセンスを確認できていません。",
+      "stars": 6608,
+      "forks": 1670,
+      "open_issues": 14,
+      "size_kb": 1170001,
+      "language": "TypeScript",
+      "created": "2026-10-27",
+      "updated": "2026-11-04",
+      "archived": false,
+      "license": "unknown",
+      "commits_30d": 82,
+      "commits_90d": 82,
+      "commit_cadence": "daily",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/ganfanren_ai/status/2118493023164334541"
+      ],
+      "fetched_at": "2026-11-10T10:04:41Z",
+      "path": "entries/image-gen/anhao-ai-pose-gallery-zh.md",
+      "summary": "中国語でポーズ・衣装・人物を検索し、白い素体画像と深度マップを切り替えながら、参照画像とプロンプトを組み合わせられる。ComfyUI のカスタムノードからは個別の参照画像や合成画像を出力できる。"
     },
     {
       "repo": "patch-gg/pixelfx",
