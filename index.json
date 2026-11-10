@@ -1,5 +1,5 @@
 {
-  "count": 640,
+  "count": 641,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -7527,6 +7527,39 @@
       "license_name": "kanana-open-license",
       "path": "models/eval/kakaocorp-kanana-2-v-decide-3b-2611.md",
       "summary": "文章/JSON/チャットと最大10画像を受け、選択肢・yes/no・スコアの確率分布を返す3.67Bの判定モデル。長文テキストを生成するものではない。"
+    },
+    {
+      "repo": "TauricResearch/TradingAgents",
+      "name": "TradingAgents",
+      "genre": "finance-quant",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "stars": 121734,
+      "forks": 23299,
+      "open_issues": 133,
+      "size_kb": 6566,
+      "language": "Python",
+      "created": "2024-12-28",
+      "updated": "2026-11-04",
+      "archived": false,
+      "license": "Apache-2.0",
+      "commits_30d": 34,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "last_release": "v0.7.1",
+      "last_release_at": "2026-10-27",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "現行版のCLI実行、データ取得の安定性、論文結果の独立再現、実取引での成績は未確認。LLMや外部データの料金・利用条件は提供元と設定に依存し、個別条件は未確認。90日コミット数は計測上限のため100件以上を表す。",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/PayneL_AI/status/2117231964495221130"
+      ],
+      "fetched_at": "2026-11-10T08:27:27+00:00",
+      "path": "entries/finance-quant/tauricresearch-tradingagents.md",
+      "summary": "銘柄と分析日を指定すると、選択したアナリストが財務、相場、ニュース、ソーシャル投稿などを調査する。強気・弱気のリサーチャーが報告を討論し、トレーダーとリスク管理チームが判断をまとめる。CLIからHTMLレポートを保存できる。"
     },
     {
       "repo": "freqtrade/freqtrade",
