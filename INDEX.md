@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 753 件 — リポジトリ 442, リンク集 113, 記事 131, モデル 53, プロンプト 14 / ⚑ 要確認 543 件
+収録 754 件 — リポジトリ 443, リンク集 113, 記事 131, モデル 53, プロンプト 14 / ⚑ 要確認 544 件
 
-## リポジトリ（442）
+## リポジトリ（443）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -160,7 +160,7 @@
 | [X Virality Score](entries/agent-framework/monkeyteamvip-x-virality-score.md) ⚑ | 35 | 19 | 月次 | 3 | 2026-10-27 | 2026-11-09 | 2026-11-10 | MIT |
 | [web-api-skills](entries/agent-framework/oxylabs-web-api-skills.md) | 13 | 1 | 週次 | 11 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
 
-### 3D・モーション（50）
+### 3D・モーション（51）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -179,6 +179,7 @@
 | [facebookresearch/sam-3d-body](entries/3d-motion/facebookresearch-sam-3d-body.md) ⚑ | 3,703 | 438 | 停滞 | 0 | 2026-02-19 | 2026-11-09 | 2026-11-10 | NOASSERTION |
 | [floorplan-3d](entries/3d-motion/wy51ai-floorplan-3d.md) | 3,651 | 767 | 月次 | 0 | 2026-10-02 | 2026-11-09 | 2026-11-10 | MIT |
 | [Post Processing](entries/3d-motion/pmndrs-postprocessing.md) ⚑ | 2,963 | 258 | 週次 | 6 | 2026-11-01 | 2026-11-10 | 2026-11-10 | Zlib |
+| [Motion Design Skill](entries/3d-motion/lottiefiles-motion-design-skill.md) ⚑ | 2,921 | 200 | 停滞 | 0 | 2026-05-18 | 2026-11-10 | 2026-11-10 | MIT |
 | [teardown](entries/3d-motion/elvarofficial-teardown.md) | 2,781 | 429 | 月次 | 2 | 2026-10-31 | 2026-11-09 | 2026-11-10 | MIT |
 | [UniMate](entries/3d-motion/friedrich-m-unimate.md) | 2,646 | 281 | 月次 | 0 | 2026-10-08 | 2026-11-09 | 2026-11-10 | MIT |
 | [Claude Animated Shorts](entries/3d-motion/mromidev-claude-animated-shorts.md) ⚑ | 2,591 | 564 | 月次 | 2 | 2026-11-01 | 2026-11-09 | 2026-11-10 | MIT |
@@ -1185,6 +1186,7 @@
 - [Kimodo](entries/3d-motion/nv-tlabs-kimodo.md) — unverified / コードはApache-2.0、重みはモデル別。SOMA-RP-v1.2はNVIDIA Open Model Licenseで商用利用可能、SMPLX-RP-v1はNVIDIA R&D Model License。Scenarioは別サービスで無料プランの生成物は個人・評価用途に限る。実行・生成品質・Scenario操作は未検証。
 - [facebookresearch/sam-3d-body](entries/3d-motion/facebookresearch-sam-3d-body.md) — unverified / 独自SAM LicenseはMIT/Apacheではなく用途・再配布・法令・プライバシー等に条件。非商用専用と断定する根拠はない。人体動画の同意と権利を確認する。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Post Processing](entries/3d-motion/pmndrs-postprocessing.md) — unverified / ['実機での描画、GPU別の性能差、発見投稿が紹介したAI制作フロー全体は未検証。']
+- [Motion Design Skill](entries/3d-motion/lottiefiles-motion-design-skill.md) — unverified / 確認範囲は公開READMEとスキル定義の記述。導入とエージェントでの動作、出力品質の改善、発見投稿で紹介された動画制作工程での効果は未検証。利用するエージェントの料金や条件は未確認。
 - [Claude Animated Shorts](entries/3d-motion/mromidev-claude-animated-shorts.md) — unverified / 今回の紹介はREADMEと一致したが、新たな実行検証ではない。 今回の動作・推論・生成・性能は未検証。
 - [Blender Skills（94 specialist Blender skills）](entries/3d-motion/arjun988-blender-skills.md) — unverified / 効果の定量評価・ベンチマークは無く、README の設計方針と投稿者のデモ動画だけが根拠。README は「Marketplace listing is currently under review by Anthropic」と記載しており、Claude Code プラグインマーケット未登録（GitHub から手動コピー）。30日コミットは1件で開発は低頻度（最終コミット 2026-11-06）。MCP 方式のため投稿が書く `blender -b -P script.py` の完全ヘッドレス実行とは前提が異なり、Blender を起動してアドオンから接続する必要がある。
 - [pixiv/three-vrm](entries/3d-motion/pixiv-three-vrm.md) — unverified / v3.6.0-beta.0のVRMC_springBone_limitはBeta拡張。MITはコードの条件で、各VRMの人物・衣装・モデルの権利は別。 当方でインストール・推論・生成・ベンチ再現はしていない。

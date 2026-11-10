@@ -1,5 +1,5 @@
 {
-  "count": 753,
+  "count": 754,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -501,6 +501,37 @@
       "fetched_at": "2026-11-10T11:07:00+00:00",
       "path": "entries/3d-motion/pmndrs-postprocessing.md",
       "summary": "描画済みのシーンにブルーム、被写界深度、色補正などの全画面エフェクトを適用できる。"
+    },
+    {
+      "repo": "LottieFiles/motion-design-skill",
+      "name": "Motion Design Skill",
+      "genre": "3d-motion",
+      "url": "https://github.com/LottieFiles/motion-design-skill",
+      "stars": 2921,
+      "forks": 200,
+      "open_issues": 4,
+      "size_kb": 34,
+      "language": "unknown",
+      "created": "2026-03-12",
+      "updated": "2026-05-18",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 0,
+      "commits_90d": 0,
+      "commit_cadence": "stale",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "確認範囲は公開READMEとスキル定義の記述。導入とエージェントでの動作、出力品質の改善、発見投稿で紹介された動画制作工程での効果は未検証。利用するエージェントの料金や条件は未確認。",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/Y0urDumble/status/2115193601458151552"
+      ],
+      "fetched_at": "2026-11-10T11:59:30Z",
+      "path": "entries/3d-motion/lottiefiles-motion-design-skill.md",
+      "summary": "カードの登場、画面遷移、読み込みやエラーのフィードバック、複数要素の表示順序について、AIエージェントに設計案や実装レビューを依頼できる。"
     },
     {
       "repo": "elvarofficial/teardown",
