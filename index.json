@@ -1,5 +1,5 @@
 {
-  "count": 638,
+  "count": 639,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -486,6 +486,40 @@
       "type": "repo",
       "path": "entries/3d-motion/vast-ai-research-unirig.md",
       "summary": "**任意の3Dメッシュに骨格とスキニングウェイトを自動で付ける**（SIGGRAPH 2025 / TOG）。人型・動物・手足の無い奇妙な形状も、1つのモデルで扱う。"
+    },
+    {
+      "repo": "achimala/dream-loop",
+      "name": "dream-loop",
+      "genre": "3d-motion",
+      "url": "https://github.com/achimala/dream-loop",
+      "stars": 1914,
+      "forks": 193,
+      "open_issues": 4,
+      "size_kb": 6768,
+      "language": "JavaScript",
+      "created": "2026-09-07",
+      "updated": "2026-09-09",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 0,
+      "commits_90d": 5,
+      "commit_cadence": "monthly",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": [
+        "最新リリースは取得がタイムアウトしたため未確認。",
+        "作者のREADMEではCodex上のGPT-6 Astraのみでテスト済み。Claude Opus 5.5での動作、比較ベンチマーク、デモの画質・FPS、実行費用は未検証。"
+      ],
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/thegreatest_sv/status/2117231247433118169"
+      ],
+      "fetched_at": "2026-11-10T08:25:19+00:00",
+      "path": "entries/3d-motion/achimala-dream-loop.md",
+      "summary": "ゲームやアプリの目標スクリーンショットを生成し、実装のキャプチャとの差をAIが指摘する。エージェントはその指摘をもとに実装を修正する。"
     },
     {
       "repo": "sakalond/StableGen",
