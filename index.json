@@ -1,5 +1,5 @@
 {
-  "count": 680,
+  "count": 681,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -13515,6 +13515,38 @@
       "type": "repo",
       "path": "entries/other/tencent-wevisone-vl.md",
       "summary": "物体レベルの知覚（物体検出、指示対象の位置特定、カウント、ポイント指示、OCR）と、画素レベルの知覚（指示セグメンテーション、プロンプタブルなアルファマット）を1つの視覚言語モデルで扱う。"
+    },
+    {
+      "repo": "georgmartius/vid.stab",
+      "name": "VidStab",
+      "genre": "other",
+      "url": "https://github.com/georgmartius/vid.stab",
+      "license": "unknown",
+      "stars": 991,
+      "language": "C",
+      "created": "2011-11-24",
+      "updated": "2026-08-14",
+      "forks": 126,
+      "open_issues": 10,
+      "commits_30d": 0,
+      "commit_cadence": "monthly",
+      "commits_90d": 23,
+      "size_kb": 1748,
+      "archived": false,
+      "last_release": "v1.1.2",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "補正量・画質・処理速度は実測していない。READMEはmasterの仕様を含むため、最新公開リリースv1.1.2や各FFmpeg配布ビルドでの機能差は未確認。公開日の年は取得した表示から確定できなかった。ライセンス欄は親工程のAPI値を保持し、利用条件は対象バージョンのライセンス文書で確認する。 GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/RealMarvelX/status/2117612832019689696"
+      ],
+      "fetched_at": "2026-11-10T09:50:37Z",
+      "path": "entries/other/georgmartius-vid.stab.md",
+      "summary": "FFmpegのvidstabdetectでフレーム間の動きを解析し、vidstabtransformで解析結果を使って手ぶれを補正する。"
     },
     {
       "repo": "Minglink/dsh-jailbreak-workflow",
