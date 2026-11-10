@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 611 件 — リポジトリ 331, リンク集 113, 記事 100, モデル 53, プロンプト 14 / ⚑ 要確認 403 件
+収録 612 件 — リポジトリ 331, リンク集 113, 記事 101, モデル 53, プロンプト 14 / ⚑ 要確認 404 件
 
 ## リポジトリ（331）
 
@@ -874,7 +874,7 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（100）
+## 記事（101）
 
 ### 記事（47）
 
@@ -926,7 +926,7 @@
 - **[海外版noteで日本語の知識を英語圏に販売するAI活用記事](articles/2026-11-09-https-x.com-i-article-2117172572655849472.md)** ⚑  @pometa_afi
 - **[自主制作AIドラマ《最后的巨魔》](articles/2026-10-22-jiuyueaigc-ai.md)** ⚑  @JiuYueAIGC
 
-### 動画生成パイプライン（15）
+### 動画生成パイプライン（16）
 
 - **[AIインフルエンサー量産術：Higgsfield AI Influencer＋Genjutsuで作る架空キャラ](articles/2026-10-11-y0urdumble-ai-higgsfield-ai-influencer-genjutsu.md)** ⚑  @Y0urDumble
 - **[AIペルソナ「Edmond」の$EDMD崩壊 — 72.4Kフォロワーと時価総額$1.8Kの実測メモ](articles/2026-10-18-y0urdumble-ai-edmond-edmd-72.4k-1.8k.md)** ⚑  @Y0urDumble
@@ -942,6 +942,7 @@
 - **[larryvrh Turbo v4 EMAの比較結果（正規配布ID未確認）](articles/2026-11-09-topic-larryvrh-h3-turbo-v4-ema.md)** ⚑  @mapte_fireball
 - **[《神瞰众生》先導編](articles/2026-10-22-jarvis11x-0be72166.md)** ⚑  @jarvis11x
 - **[実写→1980s OVA調スタイルLoRAの学習レシピ（MiniMax H3 / AI Toolkit）](articles/2026-11-07-julienaiart-1980s-ova-lora.md)** ⚑  @JulienAIArt
+- **[錬金学総論(62) 走る女性の顔クローズアップ](articles/2026-11-08-author-62.md)** ⚑
 - **[錬金学総論58 MiniMax H3のLoRA一覧](articles/2026-11-09-topic-phantom_202601-h3-lora-list-58.md)** ⚑  @Phantom_202601
 
 ### 3D・モーション（8）
@@ -1428,4 +1429,5 @@
 - [larryvrh Turbo v4 EMAの比較結果（正規配布ID未確認）](articles/2026-11-09-topic-larryvrh-h3-turbo-v4-ema.md) — unverified / 121秒は投稿者の計測。正規配布ID・入手方法は特定できておらず、推測したモデルURLや手順を作らない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [《神瞰众生》先導編](articles/2026-10-22-jarvis11x-0be72166.md) — unverified / 生成過程、素材の権利と二次利用条件は未確認。
 - [実写→1980s OVA調スタイルLoRAの学習レシピ（MiniMax H3 / AI Toolkit）](articles/2026-11-07-julienaiart-1980s-ova-lora.md) — unverified / 数値・手法はすべて本人申告で第三者検証なし。LoRAの重み・データセットは未公開で、次週Adobe MAX（Dellブース 11/10-11）での解説予告のみ。RTX PRO 6000（24GB超VRAM）で約30時間・4,000stepの条件は、A4000 16GBでは同条件の再現が非現実的。lossは1,000stepで頭打ちだが品質は2,500stepまで改善、4,000stepで過学習という報告も本人計測。
+- [錬金学総論(62) 走る女性の顔クローズアップ](articles/2026-11-08-author-62.md) — unverified / 映像の見え方は記事中の制作者評価に基づく。固定した1シードで表情・首・参照の指定を同時に変更しており、個別の効果や別シード・別キャラクターへの再現性は未検証。
 - [錬金学総論58 MiniMax H3のLoRA一覧](articles/2026-11-09-topic-phantom_202601-h3-lora-list-58.md) — unverified / 記事の一覧を各LoRAの独立試験とは扱わない。コード・重み・素材の権利と作者のベンチを分ける。 当方でインストール・推論・生成・ベンチ再現はしていない。
