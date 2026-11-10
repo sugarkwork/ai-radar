@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 667 件 — リポジトリ 365, リンク集 113, 記事 122, モデル 53, プロンプト 14 / ⚑ 要確認 458 件
+収録 668 件 — リポジトリ 365, リンク集 113, 記事 123, モデル 53, プロンプト 14 / ⚑ 要確認 459 件
 
 ## リポジトリ（365）
 
@@ -908,9 +908,9 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（122）
+## 記事（123）
 
-### 記事（63）
+### 記事（64）
 
 - **[$0のデジタル参謀長で月$80,000の契約候補を作ったというX投稿（動画付き）](articles/2026-10-22-bober_smart-0-80-000-x.md)** ⚑  @Bober_smart
 - **[1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md)** ⚑  @mukadeshinigami（mukade死神）
@@ -937,6 +937,7 @@
 - **[Garry Tanの個人向けAIエージェント運用事例](articles/2026-11-02-author-garry-tan-ai.md)** ⚑
 - **[Genesis Agent Skillsの公開発表](articles/2026-10-15-u.s.-department-of-energy-office-of-science-genesis-agent-skills.md)** ⚑  U.S. Department of Energy Office of Science
 - **[GitHub Copilot週次更新（11月2日の週）](articles/2026-11-06-github-github-copilot-11-2.md)** ⚑  GitHub
+- **[Giving every team a data scientist with Grok Bot](articles/2026-11-02-author-giving-every-team-a-data-scientist-with-grok-bot.md)** ⚑
 - **[Introducing System One Models & Jev](articles/2026-09-15-diogo-almeida-typesafe-ai-introducing-system-one-models-jev.md)** ⚑  Diogo Almeida（TypeSafe AI）
 - **[KV Cache Quantization for Diffusion Language Models](articles/2026-10-29-author-kv-cache-quantization-for-diffusion-language-models.md)** ⚑
 - **[Kev 0.8Bによる複数ラベル文書分類の試行](articles/2026-09-30-bernat-vadell-kev-0.8b.md)** ⚑  Bernat Vadell
@@ -1197,6 +1198,7 @@
 - [Garry Tanの個人向けAIエージェント運用事例](articles/2026-11-02-author-garry-tan-ai.md) — unverified / 支出は本人の概算。番組公式ページで該当回の掲載を確認したが、発言はTechCrunchの引用に基づく。使用モデル、データ連携時の権限設定、データ保持条件、作業効果の実測値は未確認。
 - [Genesis Agent Skillsの公開発表](articles/2026-10-15-u.s.-department-of-energy-office-of-science-genesis-agent-skills.md) — unverified / 元のX投稿と短縮URLの転送先は未確認。機能は発表元の説明に基づき、対応する実行環境、導入手順、性能や再現性への効果は未検証。
 - [GitHub Copilot週次更新（11月2日の週）](articles/2026-11-06-github-github-copilot-11-2.md) — unverified / Xcode統合はパブリックプレビュー。JetBrains Airのクラウド実行は組織設定に依存。
+- [Giving every team a data scientist with Grok Bot](articles/2026-11-02-author-giving-every-team-a-data-scientist-with-grok-bot.md) — unverified / 分析精度と工数削減は独立に検証していない。導入先で必要となる権限設定の詳細、現行の料金、社内スキルの再配布条件は未確認。
 - [Introducing System One Models & Jev](articles/2026-09-15-diogo-almeida-typesafe-ai-introducing-system-one-models-jev.md) — unverified / 速度・精度・確率の較正は独立に実測していない。候補投稿のPokémon Red以外のデモ、現行の利用条件およびモデル重みの配布条件は未確認。
 - [KV Cache Quantization for Diffusion Language Models](articles/2026-10-29-author-kv-cache-quantization-for-diffusion-language-models.md) — unverified / ベンチマーク結果は著者報告で、独立再現は未実施。実装コードの公開状況と利用条件、実環境での速度・メモリ削減量は未確認。
 - [Kev 0.8Bによる複数ラベル文書分類の試行](articles/2026-09-30-bernat-vadell-kev-0.8b.md) — unverified / 公開日はUTC。精度・速度は自己申告。評価データと再現性は未確認。

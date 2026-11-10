@@ -1,5 +1,5 @@
 {
-  "count": 667,
+  "count": 668,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -5484,6 +5484,24 @@
       ],
       "fetched_at": "2026-11-10T04:10:32Z",
       "path": "articles/2026-11-06-github-github-copilot-11-2.md"
+    },
+    {
+      "name": "Giving every team a data scientist with Grok Bot",
+      "genre": "article",
+      "url": "https://x.ai/news/data-bot",
+      "published": "2026-11-02",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "分析精度と工数削減は独立に検証していない。導入先で必要となる権限設定の詳細、現行の料金、社内スキルの再配布条件は未確認。",
+      "type": "article",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/naka_1717/status/2117550617388634133"
+      ],
+      "fetched_at": "2026-11-10T09:28:11Z",
+      "path": "articles/2026-11-02-author-giving-every-team-a-data-scientist-with-grok-bot.md"
     },
     {
       "name": "Introducing System One Models & Jev",
