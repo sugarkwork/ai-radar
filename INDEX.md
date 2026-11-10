@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 660 件 — リポジトリ 358, リンク集 113, 記事 122, モデル 53, プロンプト 14 / ⚑ 要確認 451 件
+収録 661 件 — リポジトリ 359, リンク集 113, 記事 122, モデル 53, プロンプト 14 / ⚑ 要確認 452 件
 
-## リポジトリ（358）
+## リポジトリ（359）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -200,7 +200,7 @@
 | [VRMExMR](entries/3d-motion/camenduru-vrmexmr.md) ⚑ | 15 | 0 | 毎日 | 39 | 2026-11-05 | 2026-11-09 | 2026-11-10 | 未確認（API は NOASSERTION。ExMR 側の条件を確認） |
 | [Lida-V/LidaAngelToon](entries/3d-motion/lida-v-lidaangeltoon.md) ⚑ | 6 | 0 | 週次 | 13 | 2026-10-17 | 2026-11-09 | 2026-11-10 | NOASSERTION |
 
-### コーディングエージェント（28）
+### コーディングエージェント（29）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -224,6 +224,7 @@
 | [billion-context](entries/coding-agent/ranxianglei-billion-context.md) ⚑ | 5,714 | 433 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | NOASSERTION |
 | [obsidianmd/obsidian-sample-plugin](entries/coding-agent/obsidianmd-obsidian-sample-plugin.md) ⚑ | 4,672 | 1,810 | 停滞 | 0 | 2026-08-02 | 2026-11-09 | 2026-11-10 | 0BSD |
 | [pstack-claude](entries/coding-agent/michael-denyer-pstack-claude.md) ⚑ | 4,178 | 381 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [tstack](entries/coding-agent/t3dotgg-tstack.md) ⚑ | 3,411 | 258 | 週次 | 5 | 2026-10-28 | 2026-11-10 | 2026-11-10 | MIT |
 | [Beacon](entries/coding-agent/asymptote-labs-agent-beacon.md) ⚑ | 3,410 | 302 | 毎日 | 100+ | 2026-11-09 | 2026-11-10 | 2026-11-10 | MIT |
 | [oh-my-mermaid（omm）](entries/coding-agent/oh-my-mermaid-oh-my-mermaid.md) | 3,389 | 267 | 停滞 | 0 | 2026-04-07 | 2026-11-09 | 2026-11-10 | MIT |
 | [nanoMuse — 自分のデバイスで動くオープンソースパーソナルエージェント](entries/coding-agent/nano-muse-nanomuse.md) ⚑ | 3,358 | 402 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
@@ -1244,6 +1245,7 @@
 - [billion-context](entries/coding-agent/ranxianglei-billion-context.md) — unverified / ライセンスはMIT本文に加え、利用者が触れる製品・サービスのページや文書等への目立つ出典表示義務がある独自条件。純粋なMITと同一ではない。性能は作者報告で独立検証していない。 実行・品質は未検証。
 - [obsidianmd/obsidian-sample-plugin](entries/coding-agent/obsidianmd-obsidian-sample-plugin.md) — unverified / 0BSDは雛形の条件で、組み込む他のコードやObsidian本体の条件は別。ビルド・プラグイン起動は未確認。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [pstack-claude](entries/coding-agent/michael-denyer-pstack-claude.md) — unverified / 投稿の media は対象と無関係な日本語ニュース系の転載（静止画は著名人のポートレートで、リポジトリやAIツールの内容を含まない）。動画 mp4 は vision で内容を確認できないため評価に使っていない。effectiveness は README の記述＝作者の主張で、第三者による効果測定は公開されていない。Codex / Copilot / Pi などの対応は各ランタイム向けマッピングと synthetic provider のスモークテストに基づく自己申告で、実モデルの遵守は一部しか確認されていないと docs/reference.md に注記がある。
+- [tstack](entries/coding-agent/t3dotgg-tstack.md) — unverified / 各スキルの実行結果、Claude CodeとCodex間の挙動差、レビュー品質や作業時間への効果は未検証。GitHubの公開Releases一覧には掲載なし。
 - [Beacon](entries/coding-agent/asymptote-labs-agent-beacon.md) — unverified / 最新版のタグ・公開日時、投稿にある beacon handoff resume の具体的な挙動、エージェント間の再利用による時間短縮や成功率、Beacon Cloudの料金は未確認。対話セットアップではBeacon Cloudが事前選択され、確定すると収集した履歴の転送が始まる。
 - [nanoMuse — 自分のデバイスで動くオープンソースパーソナルエージェント](entries/coding-agent/nano-muse-nanomuse.md) — unverified / Meta Platformsとは無関係の独立コミュニティプロジェクト。MuseはMetaの商標。中国大陸の携帯番号登録が必要な場合がある。デスクトップ版は未公証・未署名。当方未インストール。 当方でインストール・動作・性能の実行検証はしていない。
 - [ppmpreetham/BUI](entries/coding-agent/ppmpreetham-bui.md) — unverified / 即時モードではなく一つのノードツリーを保持する方式。IME・スクリーンリーダー未対応。GPL-3.0-or-laterで組込み配布の条件に注意。 当方でインストール・推論・生成・ベンチ再現はしていない。

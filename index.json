@@ -1,5 +1,5 @@
 {
-  "count": 660,
+  "count": 661,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -6923,6 +6923,39 @@
       "fetched_at": "2026-11-09T21:36:25Z",
       "path": "entries/coding-agent/michael-denyer-pstack-claude.md",
       "summary": "入口は poteto-mode というスキル。依頼を渡すとタスク種別に応じた playbook を選び、バグ修正では「失敗の再現 → how / why で原因調査 → 修正の委任 → 失敗ケースの再実行」まで進める。返るのは修正と、失敗していた時・通った時の両方の証拠（README の Getting started"
+    },
+    {
+      "repo": "t3dotgg/tstack",
+      "name": "tstack",
+      "genre": "coding-agent",
+      "url": "https://github.com/t3dotgg/tstack",
+      "stars": 3411,
+      "forks": 258,
+      "open_issues": 15,
+      "size_kb": 25,
+      "language": "Python",
+      "created": "2026-10-24",
+      "updated": "2026-10-28",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 5,
+      "commits_90d": 5,
+      "commit_cadence": "weekly",
+      "last_release": "",
+      "last_release_at": "",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "各スキルの実行結果、Claude CodeとCodex間の挙動差、レビュー品質や作業時間への効果は未検証。GitHubの公開Releases一覧には掲載なし。",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/opensourcelab9/status/2117504564941508613"
+      ],
+      "fetched_at": "2026-11-10T09:17:55+00:00",
+      "path": "entries/coding-agent/t3dotgg-tstack.md",
+      "summary": "PRの説明作成、CIやレビュー指摘への対応、複数モデルによるレビューなどの手順を、用途別のスキルとしてエージェントから呼び出せる。READMEに記載された機能で、実行結果は未検証。 [README](https://raw.githubusercontent.com/t3dotgg/tstack/main/README"
     },
     {
       "repo": "Asymptote-Labs/agent-beacon",
