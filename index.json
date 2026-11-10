@@ -1,5 +1,5 @@
 {
-  "count": 768,
+  "count": 769,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -18821,6 +18821,37 @@
       "type": "repo",
       "path": "entries/tts-audio/k2-fsa-omnivoice.md",
       "summary": "600言語以上に対応するゼロショット TTS。参照音声を数秒渡すだけで声質を複製（voice cloning）できる。"
+    },
+    {
+      "repo": "Open-LLM-VTuber/Open-LLM-VTuber",
+      "name": "Open-LLM-VTuber",
+      "genre": "tts-audio",
+      "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "オフライン動作、応答遅延、各OSでのデスクトップ機能、MCP呼び出しは未実測。GitHubの公開一覧では v1.2.1 に Latest 表示があるが、リリース日時は未確定。APIのライセンス値は unknown。フロントエンドと各素材・モデルの利用条件は個別確認が必要。 GitHub APIでライセンスを確認できていません。",
+      "stars": 14666,
+      "forks": 1761,
+      "open_issues": 161,
+      "size_kb": 46740,
+      "language": "Python",
+      "created": "2023-11-24",
+      "updated": "2026-05-15",
+      "archived": false,
+      "license": "unknown",
+      "commits_30d": 0,
+      "commits_90d": 0,
+      "commit_cadence": "stale",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/0xGky/status/2119310447514194104"
+      ],
+      "fetched_at": "2026-11-10T12:19:04+00:00",
+      "path": "entries/tts-audio/open-llm-vtuber-open-llm-vtuber.md",
+      "summary": "マイクで話しかけ、Live2Dキャラクターの音声応答を途中で遮って会話を続けられるとREADMEは説明する。カメラや画面の入力、クリックやドラッグへの反応も記載されている。"
     },
     {
       "type": "repo",
