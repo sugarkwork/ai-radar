@@ -1,5 +1,5 @@
 {
-  "count": 649,
+  "count": 650,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -5453,6 +5453,24 @@
       ],
       "fetched_at": "2026-11-10T05:49:02Z",
       "path": "articles/2026-09-15-diogo-almeida-typesafe-ai-introducing-system-one-models-jev.md"
+    },
+    {
+      "name": "KV Cache Quantization for Diffusion Language Models",
+      "genre": "article",
+      "url": "https://arxiv.org/abs/2610.39853",
+      "published": "2026-10-29",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "ベンチマーク結果は著者報告で、独立再現は未実施。実装コードの公開状況と利用条件、実環境での速度・メモリ削減量は未確認。",
+      "type": "article",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/HEI/status/2117341227368497627"
+      ],
+      "fetched_at": "2026-11-10T08:48:26Z",
+      "path": "articles/2026-10-29-author-kv-cache-quantization-for-diffusion-language-models.md"
     },
     {
       "name": "Kev 0.8Bによる複数ラベル文書分類の試行",
