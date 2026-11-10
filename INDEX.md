@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 626 件 — リポジトリ 331, リンク集 113, 記事 115, モデル 53, プロンプト 14 / ⚑ 要確認 417 件
+収録 627 件 — リポジトリ 331, リンク集 113, 記事 116, モデル 53, プロンプト 14 / ⚑ 要確認 418 件
 
 ## リポジトリ（331）
 
@@ -874,7 +874,7 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（115）
+## 記事（116）
 
 ### 記事（58）
 
@@ -937,8 +937,9 @@
 - **[海外版noteで日本語の知識を英語圏に販売するAI活用記事](articles/2026-11-09-https-x.com-i-article-2117172572655849472.md)** ⚑  @pometa_afi
 - **[自主制作AIドラマ《最后的巨魔》](articles/2026-10-22-jiuyueaigc-ai.md)** ⚑  @JiuYueAIGC
 
-### 動画生成パイプライン（16）
+### 動画生成パイプライン（17）
 
+- **[AIアニメ動画を「作って終わり」にしない。0→1で作品を作り、最初の売上につなげる完全ロードマップ](articles/2026-10-23-8fa0ce29-ai-0-1-ac6dbbe07b.md)** ⚑  paid / おかぴ
 - **[AIインフルエンサー量産術：Higgsfield AI Influencer＋Genjutsuで作る架空キャラ](articles/2026-10-11-y0urdumble-ai-higgsfield-ai-influencer-genjutsu.md)** ⚑  @Y0urDumble
 - **[AIペルソナ「Edmond」の$EDMD崩壊 — 72.4Kフォロワーと時価総額$1.8Kの実測メモ](articles/2026-10-18-y0urdumble-ai-edmond-edmd-72.4k-1.8k.md)** ⚑  @Y0urDumble
 - **[AIペルソナの複製実演：上位動画12本を「8特性ゲノム」に分解し、双子アカウントを毎日投稿させる（@Y0urDumble）](articles/2026-10-19-y0urdumble-dumble-ai-12-8-y0urdumble.md)** ⚑  @Y0urDumble (Dumble)
@@ -1424,6 +1425,7 @@
 - [Luo-Yihong/VA-TDM](entries/video-gen/luo-yihong-va-tdm.md) — unverified / 4NFEのH3でFast-H3に61.33%の人間選好等は論文/プロジェクトの測定。完成済み汎用推論モデルの配布と混同しない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [utillayer/youtube-agent-skill](entries/video-gen/utillayer-youtube-agent-skill.md) — unverified / 原チェックはファイル構成を確認した段階で機能実行なし。対象動画の権利・プラットフォームの規約と情報取得の現行可否は別。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [BennyDaBall930/comfyui_hyperflow_int8_nodes](entries/video-gen/bennydaball930-comfyui_hyperflow_int8_nodes.md) — unverified / コードと重みは別ライセンス。速度の比較は特定RTX5090・ステップ/解像度条件で、本調査は導入していない。 当方でインストール・推論・生成・ベンチ再現はしていない。
+- [AIアニメ動画を「作って終わり」にしない。0→1で作品を作り、最初の売上につなげる完全ロードマップ](articles/2026-10-23-8fa0ce29-ai-0-1-ac6dbbe07b.md) — unverified / 生成の失敗率が下がるという著者の主張について、公開部分で比較データは確認できなかった。有料部分と購入特典の内容、参照映像や画像の転載・生成入力への利用条件は未確認。
 - [AIインフルエンサー量産術：Higgsfield AI Influencer＋Genjutsuで作る架空キャラ](articles/2026-10-11-y0urdumble-ai-higgsfield-ai-influencer-genjutsu.md) — unverified / 記事本文は取得済み（X Article 2109318233866006528、公開 2026-10-11 17:55 UTC）。未検証：収益・フォロワー・トークン手数料（2週間で約$235K、5日で$10K、276Kフォロワー、時価総額$12.3M）は著者の推計で第三者検証がない。JEANPHILのFDVは2026-11-08時点で約$4.08Mまで下落。Biscuit Johnsonの数値は一次確認できず（TikTokは自動取得をブロック）。料金も変動しており、記事の「Starter $15/月」「無料5回」は現行公式表示（年払い$19/月、無料10回）と一致しない。添付mp4はスポンジ・ボブの meme クリップ（1.44秒）で、記事の手順画面の収録ではない。内容はミームコイン前提の収益モデルを含み、投資助言ではないが金銭的インセンティブのある導線である点に注意。
 - [AIペルソナ「Edmond」の$EDMD崩壊 — 72.4Kフォロワーと時価総額$1.8Kの実測メモ](articles/2026-10-18-y0urdumble-ai-edmond-edmd-72.4k-1.8k.md) — unverified / 投稿の主張のうち、コインの実体（mint 2baSUcFC24Z…pump、EDMOND/EDMD、pump.fun発行、2026-10-02作成・10-13卒業、現在FDV $1,811・ホルダー43）とTikTokの規模（72.4Kフォロワー/2.7Mいいね、投稿時スクショ62.9K/2.3M）は一次データで確認した。ピークは卒業直後の日足高値からFDV約$47.0Kと算出でき、主張の$49.7Kとほぼ一致。一方、出来高約$174K・ピーク$49.7Kの原データ、再生25.3M/最大6.5Mの合計、26本/25日、稼得$12.7Kの単価$0.50/1000は再現できず未確認（卒業後プールで測れる出来高は合計約$35.7K）。誤り・ずれ: ティッカーは$EDMONDではなく$EDMD、Xアカウントは@Edmond_Lebon（フォロワー26・投稿7件）で「EdmondLebon」表記は不正確、「1.2M peopleに告知」の根拠不明、収益の見出し$13Kと冒頭$15K・内訳合計$14.2Kが本文内で食い違う。追加確認: 2026-11-05に2本目のコインE7cda…pump（Ed Mondial）が発行され、現在のTikTok bioはそちらを指す。画像・動画にライセンス表記は無く、他クリエイターの世界観への便乗・ミームコイン宣伝である点に注意。
 - [AIペルソナの複製実演：上位動画12本を「8特性ゲノム」に分解し、双子アカウントを毎日投稿させる（@Y0urDumble）](articles/2026-10-19-y0urdumble-dumble-ai-12-8-y0urdumble.md) — unverified, low-quality / 主張と確認結果: (1) 8,912フォロワー・94.2%顔一致・$55・Day1→7の再生遷移は、動画内の自作ダッシュボード（TWIN LAB / dead internet test 01）のKPI表示が唯一の出所で、外部計測も第三者検証もない。画面のKPIは 336,935 / 12-56 / 8-8 / 94.2% / 8,912 と進行し、フッターは『spend $55 / week · humans in loop 0』で、本文の『$55 spent』とは単位が食い違う。(2) 双子アカウント @not_john.exe はX・TikTokのいずれでも発見できず、8,912フォロワーの受け皿を確認できない。(3) 元ネタのTikTok @john_stockman は実在し、bioに『Ai Influencer』と明記、2026-11-08時点のミラー集計で416.9Kフォロワー/11.01M likes/85本。投稿の336,935・8.75M likesは10/19時点のスナップショットとして整合的だが、『上位12本が10.6M〜232.8K』は確認できず（ミラーで見える直近20本は0.1〜1.23M）。(4) Karpathyの元ポストは実在（2026-04-02、現在22.0M views）で内容も一致するが、本人は16M viewsとは書いておらず、人物の複製は想定していない。(5) クローラのコード・配布物は無く（GitHubに著者アカウント無し、該当リポジトリ0件）、手順の実物は2026-10-11の記事にあるHiggsfield AI Influencer＋Genjutsuの操作と、自前スクリプトの説明に留まる。(6) 実在アカウントの動画・音源・顔を読み取り複製する行為は、TikTokのなりすまし/著作権ポリシー、音源権利、各プラットフォームのAI生成表示義務の確認が必要で、著者自身も記事でAI表示を推奨している。

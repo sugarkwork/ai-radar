@@ -1,5 +1,5 @@
 {
-  "count": 626,
+  "count": 627,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -18311,6 +18311,27 @@
       "last_release_at": "",
       "path": "entries/video-gen/bennydaball930-comfyui_hyperflow_int8_nodes.md",
       "summary": "BennyDaBallのHyperFlow INT8重みをロードするComfyUIノード。"
+    },
+    {
+      "name": "AIアニメ動画を「作って終わり」にしない。0→1で作品を作り、最初の売上につなげる完全ロードマップ",
+      "genre": "video-gen",
+      "url": "https://note.com/okapi_fukugyo/n/ne9674f8897a6?sub_rt=share_pw",
+      "author": "おかぴ",
+      "published": "2026-10-23",
+      "pricing": "paid",
+      "pricing_detail": "公開部分は無料。記事ページの表示価格は29,800円、セール価格は4,980円。",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "生成の失敗率が下がるという著者の主張について、公開部分で比較データは確認できなかった。有料部分と購入特典の内容、参照映像や画像の転載・生成入力への利用条件は未確認。",
+      "type": "article",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/okapi_fukugyo/status/2116896468040917053"
+      ],
+      "fetched_at": "2026-11-10T06:29:32Z",
+      "path": "articles/2026-10-23-8fa0ce29-ai-0-1-ac6dbbe07b.md"
     },
     {
       "name": "AIインフルエンサー量産術：Higgsfield AI Influencer＋Genjutsuで作る架空キャラ",
