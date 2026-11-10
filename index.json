@@ -1,5 +1,5 @@
 {
-  "count": 763,
+  "count": 764,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -1900,6 +1900,39 @@
       "fetched_at": "2026-11-10T12:08:45Z",
       "path": "entries/3d-motion/visualxintelligence-motion-tools-and-skills.md",
       "summary": "Three.js と GSAP、HyperFrames、Remotion などを使う制作スキルや、ソース付きの映像テンプレートを再利用できる。ヘッドレスレンダリングや音と映像の同期確認を補助するツールも収録する。"
+    },
+    {
+      "repo": "fletcherholt/3dmodel-skill",
+      "name": "3dmodel",
+      "genre": "3d-motion",
+      "url": "https://github.com/fletcherholt/3dmodel-skill",
+      "license": "unknown",
+      "stars": 6,
+      "language": "unknown",
+      "created": "2026-06-15",
+      "updated": "2026-06-16",
+      "forks": 0,
+      "open_issues": 0,
+      "commits_30d": 0,
+      "commit_cadence": "stale",
+      "commits_90d": 0,
+      "size_kb": 59,
+      "archived": false,
+      "last_release": "",
+      "last_release_at": "",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "公開のGitHub Releasesページにリリース掲載なし。スキルの起動、生成物の品質、反復による改善幅、対応バージョン、外部生成サービスの料金と利用条件は未検証。リポジトリのライセンスはunknownで、転載・再配布の許諾は未確認。 GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/CryptooGG_/status/2119312343892976064"
+      ],
+      "fetched_at": "2026-11-10T12:10:45+00:00",
+      "path": "entries/3d-motion/fletcherholt-3dmodel-skill.md",
+      "summary": "Blenderでのメッシュ制作とGLB出力、Three.jsでの回転・分解表示や透視表示、FusionでのパラメトリックCADを用途別に案内する。"
     },
     {
       "type": "repo",

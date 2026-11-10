@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 763 件 — リポジトリ 452, リンク集 113, 記事 131, モデル 53, プロンプト 14 / ⚑ 要確認 553 件
+収録 764 件 — リポジトリ 453, リンク集 113, 記事 131, モデル 53, プロンプト 14 / ⚑ 要確認 554 件
 
-## リポジトリ（452）
+## リポジトリ（453）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -162,7 +162,7 @@
 | [X Virality Score](entries/agent-framework/monkeyteamvip-x-virality-score.md) ⚑ | 35 | 19 | 月次 | 3 | 2026-10-27 | 2026-11-09 | 2026-11-10 | MIT |
 | [web-api-skills](entries/agent-framework/oxylabs-web-api-skills.md) | 13 | 1 | 週次 | 11 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
 
-### 3D・モーション（56）
+### 3D・モーション（57）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -221,6 +221,7 @@
 | [VRMkimodo](entries/3d-motion/camenduru-vrmkimodo.md) ⚑ | 17 | 1 | 毎日 | 21 | 2026-11-05 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
 | [VRMExMR](entries/3d-motion/camenduru-vrmexmr.md) ⚑ | 15 | 0 | 毎日 | 39 | 2026-11-05 | 2026-11-09 | 2026-11-10 | 未確認（API は NOASSERTION。ExMR 側の条件を確認） |
 | [motion-tools-and-skills](entries/3d-motion/visualxintelligence-motion-tools-and-skills.md) ⚑ | 9 | 2 | 週次 | 8 | 2026-11-04 | 2026-11-10 | 2026-11-10 | MIT |
+| [3dmodel](entries/3d-motion/fletcherholt-3dmodel-skill.md) ⚑ | 6 | 0 | 停滞 | 0 | 2026-06-16 | 2026-11-10 | 2026-11-10 | unknown |
 | [Lida-V/LidaAngelToon](entries/3d-motion/lida-v-lidaangeltoon.md) ⚑ | 6 | 0 | 週次 | 13 | 2026-10-17 | 2026-11-09 | 2026-11-10 | NOASSERTION |
 
 ### コーディングエージェント（49）
@@ -1220,6 +1221,7 @@
 - [VRMkimodo](entries/3d-motion/camenduru-vrmkimodo.md) — unverified / 上流 nv-tlabs/kimodo のフォークで、独自追加は kimodo/exports/vrma.py のみ（README/CHANGELOG は上流と同一、CLI・デモからは未接続）。.vrma 書き出しはコード読解のみで実行検証していない。コードは Apache-2.0 だがモデル重みは NVIDIA Open Model License。ローカル生成には約17GB VRAM が必要。
 - [VRMExMR](entries/3d-motion/camenduru-vrmexmr.md) — unverified / ライセンス表記がなく、ExMR 側の利用条件（研究用か商用可か）を一次情報で確認できていない。商用利用の前に必ず確認する。
 - [motion-tools-and-skills](entries/3d-motion/visualxintelligence-motion-tools-and-skills.md) — unverified / スキルの動作、レンダリング品質、制作時間の短縮効果、参考動画の再現精度は未検証。個別ツールの対応バージョンと外部サービスの料金も未確認。
+- [3dmodel](entries/3d-motion/fletcherholt-3dmodel-skill.md) — unverified / 公開のGitHub Releasesページにリリース掲載なし。スキルの起動、生成物の品質、反復による改善幅、対応バージョン、外部生成サービスの料金と利用条件は未検証。リポジトリのライセンスはunknownで、転載・再配布の許諾は未確認。 GitHub APIでライセンスを確認できていません。
 - [Lida-V/LidaAngelToon](entries/3d-motion/lida-v-lidaangeltoon.md) — unverified / Blenderアドオン部分GPL-3.0-or-later、シェーダ等はLida Attribution License1.1。リポジトリ全体に単一のMITを適用しない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [1枚絵からローカル3D空間を生成するデモ（LUCIAN）](links/3d-motion/lucianlamp-1image-3d-demo.md) — unverified, low-quality / 投稿はデモ動画と主張のみで、コード・重み・手順・配布リンクが無い。『Claude Opus 5.5 と gptimage だけで1枚の画像から歩ける3D空間をローカル生成、LOD/ストリーミング対応、外部アセット・生成3Dモデルなし』は本人の説明で、第三者の再現・検証は無い。投稿を引用した cat_SI1 の称賛のみで、一次情報は追加されていない。カタログの再現可能な配布物には該当しないため、情報としてのみ収録。
 - [4DAnyone](links/3d-motion/4danyone.github.io-4danyone.md) — unverified / 投稿は Faltwerk という4DGS圧縮・配信ツール（1.4GB→5〜7MB、Quest 3 で25〜40Mbps配信、AIアバターへの影付け）を名乗るが、対象ページに Faltwerk の記載は一切なく、実体は別プロジェクト 4DAnyone（SIGGRAPH Asia 2026）。投稿の圧縮率・配信帯域・実演は一次情報で確認できず本項目には採用していない。James C. Kane はページ内で 4DGS プレイヤー作者として謝辞に出るのみ。リポジトリは Apache-2.0 だが third_party（GVHMR 等）は別ライセンスで、パイプライン全体の商用利用は要確認。推論には 22GB 級 VRAM の GPU が必要。
