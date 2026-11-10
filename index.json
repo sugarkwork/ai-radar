@@ -1,5 +1,5 @@
 {
-  "count": 762,
+  "count": 763,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -1540,6 +1540,38 @@
       "type": "repo",
       "path": "entries/3d-motion/kanaworksai-hue-effekseer-vfx-skill.md",
       "summary": "コーディングエージェント（Claude Code / Codex / Cursor / Gemini CLI / Copilot / OpenCode など Agent Skills 対応ホスト）に、ゲーム用のリアルタイム VFX を作らせるスキル2本組。"
+    },
+    {
+      "repo": "RobLe3/cc-blender-skill",
+      "name": "cc-blender-skill",
+      "genre": "3d-motion",
+      "url": "https://github.com/RobLe3/cc-blender-skill",
+      "license": "MIT",
+      "stars": 156,
+      "forks": 18,
+      "open_issues": 0,
+      "size_kb": 23066,
+      "language": "Python",
+      "created": "2026-04-27",
+      "updated": "2026-10-12",
+      "archived": false,
+      "commits_30d": 4,
+      "commits_90d": 4,
+      "commit_cadence": "weekly",
+      "last_release": "v1.4.0",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "動作と生成品質は独立に検証していない。作者資料でもClaude Codeでのスキル検出・振り分け、Blender 5.1.1以外の実機動作、Unrealへのインポートは検証範囲が限られる。発見投稿の参照動画からの編集可能プロジェクト再現は、本リポジトリの機能として確認できていない。",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/CryptooGG_/status/2119312343892976064"
+      ],
+      "fetched_at": "2026-11-10T12:09:32+00:00",
+      "path": "entries/3d-motion/roble3-cc-blender-skill.md",
+      "summary": "モデリング、材質、照明、カメラ、レンダリング、アニメーション、書き出しを30のスキルで扱う。参照画像やテクスチャに合わせる3D再構成の手順も収録する。"
     },
     {
       "type": "repo",
