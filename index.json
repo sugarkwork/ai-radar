@@ -1,5 +1,5 @@
 {
-  "count": 597,
+  "count": 598,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -5380,6 +5380,25 @@
       ],
       "fetched_at": "2026-11-08T06:51:00+00:00",
       "path": "articles/2026-10-16-y0urdumble-dumble-the-johnson-brothers-ai.md"
+    },
+    {
+      "name": "TokenSpeedのQwen3.8-Flash-Next推論測定",
+      "genre": "article",
+      "url": "https://lightseek.org/blog/tokenspeed-qwen3-8-flash-next.html",
+      "author": "TokenSpeed Team",
+      "published": "2026-10-13",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "開発元測定。独立追試やQwen 4製品性能は未確認。",
+      "type": "article",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/bernvadell/status/2110318450082017517"
+      ],
+      "fetched_at": "2026-11-10T04:08:08Z",
+      "path": "articles/2026-10-13-tokenspeed-team-tokenspeed-qwen3.8-flash-next.md"
     },
     {
       "name": "Xのアカウントデータを使った自己点検の提案",
