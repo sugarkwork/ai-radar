@@ -1,5 +1,5 @@
 {
-  "count": 636,
+  "count": 637,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -12743,6 +12743,39 @@
       "type": "repo",
       "path": "entries/other/minglink-dsh-jailbreak-workflow.md",
       "summary": "DeepSeek Harness（DSH）上で動く**ワークフロープラグイン**。画布でフローを設計し、計画プロンプトにコンパイルしてモデル自身に実行させる（分岐・ループ・並列に対応）。"
+    },
+    {
+      "repo": "amirmushichge/pixel-plays",
+      "name": "Pixel Plays",
+      "genre": "other",
+      "url": "https://github.com/amirmushichge/pixel-plays",
+      "license": "MIT",
+      "stars": 448,
+      "forks": 43,
+      "open_issues": 2,
+      "size_kb": 12025,
+      "language": "HTML",
+      "created": "2026-10-31",
+      "updated": "2026-10-31",
+      "archived": false,
+      "commits_30d": 2,
+      "commits_90d": 2,
+      "commit_cadence": "monthly",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": [
+        "候補投稿が言及するClaude Opus 5.5の使用は、作者投稿を取得できなかったため未確認。最新リリース、ブラウザでの動作・性能、別題材への改変結果も未確認。"
+      ],
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/AiAircle34052/status/2117088054892785671"
+      ],
+      "fetched_at": "2026-11-10T08:19:51+00:00",
+      "path": "entries/other/amirmushichge-pixel-plays.md",
+      "summary": "ボッチャ、橋からの飛び込み、洗濯物入れ、テニス、スケートボードの5本を収録。READMEには公開プレイ先が掲載されている。"
     },
     {
       "repo": "leepokai/jev-guard",
