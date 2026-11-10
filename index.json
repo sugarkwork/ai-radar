@@ -1,5 +1,5 @@
 {
-  "count": 666,
+  "count": 667,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -13216,6 +13216,38 @@
       "type": "repo",
       "path": "entries/other/autumn-27-scopesentry.md",
       "summary": "分散型の資産測絵（ASM）。サーバ1台と複数のスキャンノードで動き、ノードを選んでタスクを振り分ける。"
+    },
+    {
+      "repo": "physicsdolphin/nv-uefi-unlocker",
+      "name": "nv-uefi-unlocker",
+      "genre": "other",
+      "url": "https://github.com/physicsdolphin/nv-uefi-unlocker",
+      "stars": 2223,
+      "forks": 202,
+      "open_issues": 21,
+      "size_kb": 25244,
+      "language": "Rust",
+      "created": "2026-10-26",
+      "updated": "2026-11-10",
+      "archived": false,
+      "license": "GPL-2.0",
+      "commits_30d": 100,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "last_release": "v2.1.11",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "性能と互換性は開発元の報告に基づき、独立した実機試験は未実施。投稿にあるv2.1.9-diag.3のCSM環境向け復旧処理とUSBへのログ書き込みの保証は未確認。最新安定版のタグは確認したが、公開日時は未確認。",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/neuronxwhite/status/2117526742260928906"
+      ],
+      "fetched_at": "2026-11-10T09:24:07+00:00",
+      "path": "entries/other/physicsdolphin-nv-uefi-unlocker.md",
+      "summary": "開発元はRTX 20／30／40シリーズを対象とし、GTX 16は理論上の対応としている。設定は揮発性で、電源断で消える。"
     },
     {
       "repo": "morluto/awesome-reverse-engineering",
