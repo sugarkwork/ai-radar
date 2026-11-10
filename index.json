@@ -1,5 +1,5 @@
 {
-  "count": 771,
+  "count": 772,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -9884,6 +9884,37 @@
       "fetched_at": "2026-11-10T12:19:21Z",
       "path": "entries/finance-quant/justinhe16-trade-jev.md",
       "summary": "Nasdaq-100先物（NQ）の板データを使い、JevのBUY／SELL／HOLDを、保有継続・ランダム・板の偏りを用いる比較ルールと並べて検証できる。保存した応答はAPIを再呼び出しせず再評価できる。"
+    },
+    {
+      "repo": "MojoAI-King/jev-paper-trader",
+      "name": "Jev Paper Trader",
+      "genre": "finance-quant",
+      "url": "https://github.com/MojoAI-King/jev-paper-trader",
+      "license": "unknown",
+      "stars": 3,
+      "language": "Python",
+      "created": "2026-09-27",
+      "updated": "2026-11-10",
+      "forks": 1,
+      "open_issues": 0,
+      "commits_30d": 100,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 260686,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "GitHub上の表示版READMEを確認。現在の成績、動作の再現性、外部サービスの現行料金、最新リリースは未確認。コードの再配布・改変を許諾するライセンスは確認できていない。 GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/thegreatest_sv/status/2115461838607659474"
+      ],
+      "fetched_at": "2026-11-10T12:20:27+00:00",
+      "path": "entries/finance-quant/mojoai-king-jev-paper-trader.md",
+      "summary": "PolymarketとKalshiの公開価格を読み取り、仮想資金10万ドルで模擬取引する。予測には市場価格を見せず、決着後にBrierスコアと模擬損益を集計する。"
     },
     {
       "repo": "valuecodes/jev-on-air",
