@@ -1,5 +1,5 @@
 {
-  "count": 620,
+  "count": 621,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -5375,6 +5375,25 @@
       ],
       "fetched_at": "2026-11-10T03:32:31Z",
       "path": "articles/2026-10-23-lniosytest-kiro.md"
+    },
+    {
+      "name": "LLM Wiki",
+      "genre": "article",
+      "url": "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f",
+      "author": "Andrej Karpathy",
+      "published": "2026-04-04",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "導入時間、任意のPDFの取り込み、回答精度、規模拡大時の性能は未検証。Gist本文では再配布ライセンスと実装時の費用を確認できなかった。",
+      "type": "article",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/Bober_smart/status/2116526023256723618"
+      ],
+      "fetched_at": "2026-11-10T06:14:16Z",
+      "path": "articles/2026-04-04-andrej-karpathy-llm-wiki.md"
     },
     {
       "name": "Laddersによる履歴書PDFの抽出評価",

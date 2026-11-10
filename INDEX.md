@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 620 件 — リポジトリ 331, リンク集 113, 記事 109, モデル 53, プロンプト 14 / ⚑ 要確認 411 件
+収録 621 件 — リポジトリ 331, リンク集 113, 記事 110, モデル 53, プロンプト 14 / ⚑ 要確認 412 件
 
 ## リポジトリ（331）
 
@@ -874,9 +874,9 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（109）
+## 記事（110）
 
-### 記事（52）
+### 記事（53）
 
 - **[$0のデジタル参謀長で月$80,000の契約候補を作ったというX投稿（動画付き）](articles/2026-10-22-bober_smart-0-80-000-x.md)** ⚑  @Bober_smart
 - **[1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md)** ⚑  @mukadeshinigami（mukade死神）
@@ -904,6 +904,7 @@
 - **[Kev 0.8Bによる複数ラベル文書分類の試行](articles/2026-09-30-bernat-vadell-kev-0.8b.md)** ⚑  Bernat Vadell
 - **[Kevによる文書分類と処理経路判定の第2回実験](articles/2026-10-02-bernat-vadell-kev-2.md)** ⚑  Bernat Vadell
 - **[Kiroの転売をめぐる書簡画像の投稿](articles/2026-10-23-lniosytest-kiro.md)** ⚑  @Lniosytest
+- **[LLM Wiki](articles/2026-04-04-andrej-karpathy-llm-wiki.md)** ⚑  Andrej Karpathy
 - **[Laddersによる履歴書PDFの抽出評価](articles/2026-11-07-marc-cenedella-ladders-pdf.md)** ⚑  Marc Cenedella
 - **[Last Lecture Series: “How to Win Without Crushing Your Soul” - Graham Weaver（Stanford GSB Class of 2026）](articles/2026-07-14-graham-weaver-stanford-graduate-school-of-business-last-lecture-series-how-to-win-without-f6d1f4ee42.md)** ⚑  Graham Weaver（Stanford Graduate School of Business 公式チャンネル）
 - **[Making Local LLMs Usable on 8GB GPUs](articles/2026-11-02-naresh-waghela-hastimal-jangid-making-local-llms-usable-on-8gb-gpus.md)** ⚑  Naresh Waghela, Hastimal Jangid
@@ -1147,6 +1148,7 @@
 - [Kev 0.8Bによる複数ラベル文書分類の試行](articles/2026-09-30-bernat-vadell-kev-0.8b.md) — unverified / 公開日はUTC。精度・速度は自己申告。評価データと再現性は未確認。
 - [Kevによる文書分類と処理経路判定の第2回実験](articles/2026-10-02-bernat-vadell-kev-2.md) — unverified / 公開日はUTC。実験条件と再現性は未確認。
 - [Kiroの転売をめぐる書簡画像の投稿](articles/2026-10-23-lniosytest-kiro.md) — unverified / 公開日はJST。書簡の真正性、宛先と送達は未確認。
+- [LLM Wiki](articles/2026-04-04-andrej-karpathy-llm-wiki.md) — unverified / 導入時間、任意のPDFの取り込み、回答精度、規模拡大時の性能は未検証。Gist本文では再配布ライセンスと実装時の費用を確認できなかった。
 - [Laddersによる履歴書PDFの抽出評価](articles/2026-11-07-marc-cenedella-ladders-pdf.md) — unverified / 試験条件と再現性は未確認。
 - [Last Lecture Series: “How to Win Without Crushing Your Soul” - Graham Weaver（Stanford GSB Class of 2026）](articles/2026-07-14-graham-weaver-stanford-graduate-school-of-business-last-lecture-series-how-to-win-without-f6d1f4ee42.md) — unverified / 確認できたこと: 公式YouTube（Stanford GSB チャンネル）に講演が実在し、タイトルは「Last Lecture Series: “How to Win Without Crushing Your Soul” - Graham Weaver」、公開日 2026-07-14、尺 34:01、Class of 2026 向けの Last Lecture であること（YouTube概要・本人ブログ・本人Instagramで一致）。Weaver は Stanford GSB の Lecturer in Management で Alpine Investors の創業者（GSB教員ページ・Alpine公式）。講演の3実践と引用の多くは公式字幕と一致。誤り・未確認: (1)「10 million people watched」はこの動画単体では約263万回（2026-11-09時点）。WeaverのGSB講演5本の合計が約1,030万回なので、合算を単体の数字として書いた可能性が高い。(2)「33 minutes」は公式34:01、投稿添付クリップは33:31で、切り抜き側の尺。(3)「$16 billion」はAlpine公式の現行表記（$18.8B、25周年ページでは2026-06-30時点$17.7B）より古く過小。(4)「life coaches charge $500 an hour」は一次情報を確認できず未検証。(5) 引用ブロックの「achievement cannot fix self hatred」「what you avoid grows」「unless you skip them」は講演の逐語ではなく投稿者による要約・脚色（講演本体は「I just didn't really like myself」「your nail is the thing you're avoiding」「You're in the good old days now」）。(6) 添付動画は同一講演の再アップロードとみられ、会場・人物・衣装・尺が公式と一致するが、音声の波形一致やフレーム単位の同一性は未確認。講演自体に効果の対照試験や追跡データはなく、内容は本人の体験談と実践の提案である。
 - [Making Local LLMs Usable on 8GB GPUs](articles/2026-11-02-naresh-waghela-hastimal-jangid-making-local-llms-usable-on-8gb-gpus.md) — unverified / 記事のメモリ数値はKVキャッシュ本体の計算値。設定変更による実機の速度、総VRAM使用量、出力品質への影響と、記事掲載の計測コードの再配布条件は未確認。
