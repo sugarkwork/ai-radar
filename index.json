@@ -1,5 +1,5 @@
 {
-  "count": 654,
+  "count": 655,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -13037,6 +13037,38 @@
       "type": "repo",
       "path": "entries/other/minglink-dsh-jailbreak-workflow.md",
       "summary": "DeepSeek Harness（DSH）上で動く**ワークフロープラグイン**。画布でフローを設計し、計画プロンプトにコンパイルしてモデル自身に実行させる（分岐・ループ・並列に対応）。"
+    },
+    {
+      "repo": "0xCodez/DuoDesk",
+      "name": "DuoDesk",
+      "genre": "other",
+      "url": "https://github.com/0xCodez/DuoDesk",
+      "last_release": "v2.5.0",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "最新リリースの公開日時と配布物の署名状態は未確認。対応 OS の組み合わせ別の動作、転送性能、通信の安全性は独立検証していない。Claude Code と Opus 5.5 の利用および開発規模は、候補が指す X 投稿を直接取得できず未確認。",
+      "stars": 486,
+      "forks": 79,
+      "open_issues": 7,
+      "size_kb": 21153,
+      "language": "JavaScript",
+      "created": "2026-10-30",
+      "updated": "2026-10-31",
+      "archived": false,
+      "license": "GPL-3.0",
+      "commits_30d": 100,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/AiAircle34052/status/2117462521783447830"
+      ],
+      "fetched_at": "2026-11-10T09:06:21Z",
+      "path": "entries/other/0xcodez-duodesk.md",
+      "summary": "README によると、Mac・Windows・Linux・Android 間でマウスとキーボード、クリップボード、ファイルを共有できる。機能ごとの対応条件は端末や OS によって異なる。"
     },
     {
       "repo": "amirmushichge/pixel-plays",
