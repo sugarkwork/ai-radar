@@ -1,5 +1,5 @@
 {
-  "count": 663,
+  "count": 664,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -6845,6 +6845,38 @@
       "last_release_at": "2026-11-07",
       "path": "entries/coding-agent/ranxianglei-billion-context.md",
       "summary": "長い会話の履歴を階層的に圧縮し、コーディングエージェントのコンテキストを管理する。"
+    },
+    {
+      "repo": "microsoft/TokenEconomizer",
+      "name": "TokenEconomizer",
+      "genre": "coding-agent",
+      "url": "https://github.com/microsoft/TokenEconomizer",
+      "stars": 5576,
+      "forks": 345,
+      "open_issues": 30,
+      "size_kb": 6997,
+      "language": "Python",
+      "created": "2026-10-13",
+      "updated": "2026-11-08",
+      "archived": false,
+      "license": "Apache-2.0",
+      "commits_30d": 100,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "last_release": "v0.1.0",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "最新リリースの公開日時は未確認。導入と動作は実機で再現しておらず、掲載の削減率は著者のベンチマークに限られる。別のリポジトリやモデルでの効果は未確認。",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/opensourcelab9/status/2117504564941508613"
+      ],
+      "fetched_at": "2026-11-10T09:19:56Z",
+      "path": "entries/coding-agent/microsoft-tokeneconomizer.md",
+      "summary": "過去セッションからリポジトリ固有の知識を抽出して再利用し、未使用ツールを後続セッションから外し、同じ失敗が続くと別のアプローチを促す。知識の再利用機能は既定でオフ。"
     },
     {
       "type": "repo",
