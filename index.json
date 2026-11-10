@@ -1,5 +1,5 @@
 {
-  "count": 692,
+  "count": 693,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -13072,6 +13072,38 @@
       "type": "repo",
       "path": "entries/other/career-ops-hq-career-ops.md",
       "summary": "求人応募の**前段**（探索 → 評価 → 書類作成）をAIエージェントで回す。求人ボード／ATSのフィードを走査し、CVと照合して各求人を1〜5で採点する。"
+    },
+    {
+      "repo": "obsproject/obs-studio",
+      "name": "OBS Studio",
+      "genre": "other",
+      "url": "https://github.com/obsproject/obs-studio",
+      "stars": 79247,
+      "forks": 11149,
+      "open_issues": 1206,
+      "size_kb": 87955,
+      "language": "C",
+      "created": "2013-10-01",
+      "updated": "2026-11-10",
+      "archived": false,
+      "license": "GPL-2.0",
+      "commits_30d": 41,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "last_release": "33.0.1",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "最新リリースの年とタイムゾーンを含む公開日時は未確認。収録品質・負荷、エージェント経由の接続と録画、発見投稿で言及されたOpus 5.5との連携は未検証。90日コミット数は100件以上を表す。",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/okapi_fukugyo/status/2117616982518559161"
+      ],
+      "fetched_at": "2026-11-10T09:58:52Z",
+      "path": "entries/other/obsproject-obs-studio.md",
+      "summary": "画面やウィンドウ、カメラなどをシーンに配置し、音声と合わせて録画・配信できる。[公式クイックスタート](https://obsproject.com/kb/quick-start-guide)"
     },
     {
       "repo": "NanmiCoder/MediaCrawler",
