@@ -54,6 +54,8 @@
   - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://x.com/okapi_fukugyo/status/2116461183528284258>。
 - [X: okapi_fukugyo の投稿](https://x.com/okapi_fukugyo/status/2116364779166281893)
   - 掲載先URLの正常なHTTP応答を確認できませんでした。
+- [X: neuronxwhite の投稿](https://x.com/neuronxwhite/status/2118131054167163159)
+  - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://x.com/neuronxwhite/status/2118131054167163159>。
 - [X: neuronxwhite の投稿](https://x.com/neuronxwhite/status/2117559527860249000)
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
 - [X: neuronxwhite の投稿](https://x.com/neuronxwhite/status/2117559518779548040)
@@ -108,6 +110,14 @@
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
 - [X: dextune の投稿](https://x.com/dextune/status/2117483057343353195)
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+- [X: daaihq の投稿](https://x.com/daaihq/status/2118150949365785056)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+  - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+- [X: daaihq の投稿](https://x.com/daaihq/status/2118132569820811542)
+  - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://x.com/daaihq/status/2118132569820811542>。
+- [X: daaihq の投稿](https://x.com/daaihq/status/2118132564875784257)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+  - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://x.com/daaihq/status/2118132564875784257>。
 - [X: daaihq の投稿](https://x.com/daaihq/status/2117470853151801639)
   - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://x.com/daaihq/status/2117470853151801639>。
 - [X: daaihq の投稿](https://x.com/daaihq/status/2117470836550746541)
@@ -131,6 +141,9 @@
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
 - [X: bernvadell の投稿](https://x.com/bernvadell/status/2117307891774333200)
   - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://huggingface.co/Edge0/Audio8-TTS-Realistic-Air>。
+- [X: asoda_recruit の投稿](https://x.com/asoda_recruit/status/2118138305506402353)
+  - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+  - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: app_sail の投稿](https://x.com/app_sail/status/2037437653071835440)
   - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: Y0urDumble の投稿](https://x.com/Y0urDumble/status/2118038620841840750)
@@ -145,6 +158,8 @@
 - [X: RealMarvelX の投稿](https://x.com/RealMarvelX/status/2118041075201761649)
   - 候補の対象が複数あり、一意に特定できませんでした。
   - GitHub APIで元のリポジトリを確認できませんでした。
+- [X: PayneL_AI の投稿](https://x.com/PayneL_AI/status/2118140643868606679)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 - [X: PayneL_AI の投稿](https://x.com/PayneL_AI/status/2117428107535884645)
   - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: NanihaalKahani の投稿](https://x.com/NanihaalKahani/status/2119651681592095127)
@@ -159,6 +174,8 @@
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
 - [X: Machinedelusion の投稿](https://x.com/Machinedelusion/status/2119635338175873388)
   - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://huggingface.co/ConwayResearch/Underdog-Woof>。
+- [X: Machinedelusion の投稿](https://x.com/Machinedelusion/status/2118132641576919211)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 - [X: Machinedelusion の投稿](https://x.com/Machinedelusion/status/2118118129331269821)
   - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: Machinedelusion の投稿](https://x.com/Machinedelusion/status/2118117839160668495)
