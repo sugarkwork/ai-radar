@@ -1,5 +1,5 @@
 {
-  "count": 574,
+  "count": 575,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -4961,6 +4961,25 @@
       ],
       "fetched_at": "2026-11-09T08:44:06Z",
       "path": "articles/2026-10-23-opensourcelab9-ai-pydantic-ai.md"
+    },
+    {
+      "name": "AIを使ったSEOと動画サイトの収益報告",
+      "genre": "article",
+      "url": "https://x.com/jarvis11x/status/2113421059089105023",
+      "author": "@jarvis11x",
+      "published": "2026-10-23",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "収益は自己申告。決済原票、施策の詳細と因果関係は未確認。",
+      "type": "article",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/jarvis11x/status/2113421059089105023"
+      ],
+      "fetched_at": "2026-11-10T03:04:56Z",
+      "path": "articles/2026-10-23-jarvis11x-ai-seo.md"
     },
     {
       "type": "article",
