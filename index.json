@@ -1,5 +1,5 @@
 {
-  "count": 682,
+  "count": 683,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -8527,6 +8527,38 @@
       "fetched_at": "2026-11-10T09:44:37+00:00",
       "path": "entries/finance-quant/galleonlabs-hypergrok-trading-desk.md",
       "summary": "7つの役割定義と17のSKILL.mdを収録。Opening BellはHyperliquidの公開/infoから価格、資金調達率、建玉、スプレッド、板の厚みを取得する。READMEに開発元の出力例がある。"
+    },
+    {
+      "repo": "xinntao/Real-ESRGAN",
+      "name": "Real-ESRGAN",
+      "genre": "image-gen",
+      "url": "https://github.com/xinntao/Real-ESRGAN",
+      "stars": 37430,
+      "forks": 4528,
+      "open_issues": 648,
+      "size_kb": 5514,
+      "language": "Python",
+      "created": "2021-07-19",
+      "updated": "2024-08-06",
+      "archived": false,
+      "license": "BSD-3-Clause",
+      "commits_30d": 0,
+      "commits_90d": 0,
+      "commit_cadence": "stale",
+      "last_release": "v0.3.0",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "最新リリースのタグはGitHubの公開ページで確認した。公開日時、現在の依存バージョンでの互換性、実行速度、VRAM使用量、動画フレーム間の一貫性、配布重み固有の利用条件は未確認。画質の記述は著者の報告に基づき、独立した実行・測定は行っていない。",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/RealMarvelX/status/2117612832019689696"
+      ],
+      "fetched_at": "2026-11-10T09:51:41Z",
+      "path": "entries/image-gen/xinntao-real-esrgan.md",
+      "summary": "一般画像向けの学習済みモデルで画像を4倍に拡大できる。公式リポジトリはアニメ動画向けのモデルも案内している。 [公式README](https://raw.githubusercontent.com/xinntao/Real-ESRGAN/master/README.md)"
     },
     {
       "type": "repo",
