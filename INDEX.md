@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 772 件 — リポジトリ 461, リンク集 113, 記事 131, モデル 53, プロンプト 14 / ⚑ 要確認 562 件
+収録 773 件 — リポジトリ 462, リンク集 113, 記事 131, モデル 53, プロンプト 14 / ⚑ 要確認 563 件
 
-## リポジトリ（461）
+## リポジトリ（462）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -403,7 +403,7 @@
 | [GLM-5.3-Flash 2×RTX PRO 6000 配備レシピ（TensorFold）](entries/model-serving/miaai-lab-glm-5.3-flash-2x-rtx-pro-6000.md) ⚑ | 23 | 2 | 週次 | 16 | 2026-11-07 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
 | [ausboss/ComfyUI-AusBoss-Model-Downloader](entries/model-serving/ausboss-comfyui-ausboss-model-downloader.md) ⚑ | 9 | 1 | 週次 | 5 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
 
-### 金融・クオンツ（22）
+### 金融・クオンツ（23）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -429,6 +429,7 @@
 | [trade-jev](entries/finance-quant/justinhe16-trade-jev.md) ⚑ | 13 | 3 | 週次 | 16 | 2026-11-09 | 2026-11-10 | 2026-11-10 | MIT |
 | [Jev Paper Trader](entries/finance-quant/mojoai-king-jev-paper-trader.md) ⚑ | 3 | 1 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | unknown |
 | [JevOnAir](entries/finance-quant/valuecodes-jev-on-air.md) ⚑ | 0 | 0 | 週次 | 11 | 2026-11-09 | 2026-11-10 | 2026-11-10 | MIT |
+| [jev-polymarket-test](entries/finance-quant/truongxxxx-jev-polymarket-test.md) ⚑ | 0 | 0 | 停滞 | 0 | 2026-10-10 | 2026-11-10 | 2026-11-10 | MIT |
 
 ### MCPサーバー（19）
 
@@ -1442,6 +1443,7 @@
 - [trade-jev](entries/finance-quant/justinhe16-trade-jev.md) — unverified / コードの実行と損益の独立再計算は未実施。別期間での成績、実約定での損益、現行のAPI・市場データ料金、最新リリースは未確認。
 - [Jev Paper Trader](entries/finance-quant/mojoai-king-jev-paper-trader.md) — unverified / GitHub上の表示版READMEを確認。現在の成績、動作の再現性、外部サービスの現行料金、最新リリースは未確認。コードの再配布・改変を許諾するライセンスは確認できていない。 GitHub APIでライセンスを確認できていません。
 - [JevOnAir](entries/finance-quant/valuecodes-jev-on-air.md) — unverified / 公開READMEとリリース記述を確認した。CLIの動作、収益性、判断精度、配信から模擬約定までの遅延、外部サービスの現行料金と利用条件は未検証。
+- [jev-polymarket-test](entries/finance-quant/truongxxxx-jev-polymarket-test.md) — unverified / 理由未記入
 - [ComfyUI](entries/image-gen/comfy-org-comfyui.md) — unverified / FP8とDynamic VRAMの速度改善幅、P-H3-Imageのモデル系譜と重みの利用条件、各機能の必要VRAMと出力品質、最新リリースの公開日時の年とタイムゾーンは未確認。導入と推論の実行検証は行っていない。
 - [Real-ESRGAN](entries/image-gen/xinntao-real-esrgan.md) — unverified / 最新リリースのタグはGitHubの公開ページで確認した。公開日時、現在の依存バージョンでの互換性、実行速度、VRAM使用量、動画フレーム間の一貫性、配布重み固有の利用条件は未確認。画質の記述は著者の報告に基づき、独立した実行・測定は行っていない。
 - [ostris/ai-toolkit](entries/image-gen/ostris-ai-toolkit.md) — unverified / MITはツールのコードに関する条件で、学習元重み・画像・生成物の条件とは別。学習速度・VRAM・成果は未再現。 当方でインストール・推論・生成・ベンチ再現はしていない。

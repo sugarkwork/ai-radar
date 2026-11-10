@@ -1,5 +1,5 @@
 {
-  "count": 772,
+  "count": 773,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -9947,6 +9947,37 @@
       "fetched_at": "2026-11-10T12:19:45Z",
       "path": "entries/finance-quant/valuecodes-jev-on-air.md",
       "summary": "YouTube配信を文字起こしし、Alpacaから取得した価格データと合わせてJevに渡す。著者のREADMEによれば、判断と模擬約定は標準出力とJSONL台帳に記録される。"
+    },
+    {
+      "repo": "truongxxxx/jev-polymarket-test",
+      "name": "jev-polymarket-test",
+      "genre": "finance-quant",
+      "url": "https://github.com/truongxxxx/jev-polymarket-test",
+      "stars": 0,
+      "forks": 0,
+      "open_issues": 0,
+      "size_kb": 764,
+      "language": "Python",
+      "created": "2026-10-10",
+      "updated": "2026-10-10",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 0,
+      "commits_90d": 2,
+      "commit_cadence": "stale",
+      "flags": [
+        "unverified"
+      ],
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "risk_notes": "",
+      "sources": [
+        "https://x.com/thegreatest_sv/status/2115461838607659474"
+      ],
+      "fetched_at": "2026-11-10T12:20:49+00:00",
+      "path": "entries/finance-quant/truongxxxx-jev-polymarket-test.md",
+      "summary": "市場の質問と解決ルールだけを渡す条件と、24時間前のYes価格も渡す条件でJevを比較する。市場価格を基準にBrierスコア、対数損失、AUC、校正を評価できる。"
     },
     {
       "repo": "Comfy-Org/ComfyUI",
