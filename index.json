@@ -1,5 +1,5 @@
 {
-  "count": 602,
+  "count": 603,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -10569,6 +10569,37 @@
       "fetched_at": "2026-11-09T21:40:24Z",
       "path": "entries/model-serving/openbmb-minicpm-v.md",
       "summary": "画像1枚・複数画像・文書・動画を読むマルチモーダルモデル。35B-A3B（MoE、総35B・活性3B）と 1B の2サイズがあり、どちらも Instruct モードで使える。"
+    },
+    {
+      "repo": "deepseek-ai/DeepInfer",
+      "name": "DeepInfer",
+      "genre": "model-serving",
+      "url": "https://github.com/deepseek-ai/DeepInfer",
+      "license": "Apache-2.0",
+      "stars": 25757,
+      "language": "Python",
+      "created": "2026-10-16",
+      "updated": "2026-11-03",
+      "forks": 3161,
+      "open_issues": 247,
+      "commits_30d": 6,
+      "commit_cadence": "weekly",
+      "commits_90d": 6,
+      "size_kb": 3212,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "公開版はオフライン推論用。起動と公表性能の再現は未確認。",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/bernvadell/status/2112534880819290613"
+      ],
+      "fetched_at": "2026-11-10T04:14:00.414Z",
+      "path": "entries/model-serving/deepseek-ai-deepinfer.md",
+      "summary": "DeepSeek-V4.1-Flashをオフラインで推論し、構造化出力などを扱う。"
     },
     {
       "type": "repo",
