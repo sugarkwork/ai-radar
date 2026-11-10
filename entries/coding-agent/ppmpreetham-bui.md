@@ -15,16 +15,18 @@ repo: "ppmpreetham/BUI"
 license: "GPL-3.0"
 language: "C++"
 created: "2026-08-26"
-updated: "2026-11-08"
-stars: 2223
-forks: 84
+updated: "2026-11-09"
+stars: 2363
+forks: 95
 open_issues: 8
 commits_30d: 100
 commits_90d: 100
 commit_cadence: "daily"
-size_kb: 31735
+size_kb: 31078
 archived: false
-fetched_at: "2026-11-09T00:30:28.529435+00:00"
+fetched_at: "2026-11-09T21:36:38Z"
+last_release: "v0.5.0"
+last_release_at: "2026-11-08"
 ---
 
 # ppmpreetham/BUI

@@ -6,24 +6,24 @@ url: https://github.com/DozenTwelve/Papermorph
 license: MIT
 language: JavaScript
 created: 2026-10-03
-updated: 2026-11-06
+updated: "2026-11-09"
 added: 2026-11-04
 first_seen: 2026-11-04
 sources:
   - https://x.com/DDJCXX/status/2117504549661577290
 flags: []
 risk_notes: "入力に書籍・教材を使う場合、その著作物の利用許諾が必要。生成物の権利は利用者側の責任。"
-stars: 1335
-forks: 177
+stars: 1476
+forks: 190
 open_issues: 2
 commits_30d: 100
 commits_90d: 100
-commit_cadence: daily
-size_kb: 811105
+commit_cadence: "daily"
+size_kb: 831937
 archived: false
-fetched_at: "2026-11-06T22:54:14Z"
-last_release: engine-v2.10
-last_release_at: 2026-11-06
+fetched_at: "2026-11-09T21:44:39Z"
+last_release: "engine-v2.11"
+last_release_at: "2026-11-07"
 ---
 
 # Papermorph

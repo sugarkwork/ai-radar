@@ -7,23 +7,25 @@ url: "https://github.com/blendi-remade/prompt2rig"
 author: "blendi-remade"
 license: "Apache-2.0"
 language: "JavaScript"
-stars: 534
-forks: 79
+stars: 552
+forks: 81
 open_issues: 0
 created: "2026-10-19"
-updated: "2026-10-21"
-commits_30d: 0
-commits_90d: 0
-commit_cadence: "stale"
-size_kb: 9255
+updated: "2026-11-09"
+commits_30d: 16
+commits_90d: 16
+commit_cadence: "weekly"
+size_kb: 14309
 archived: false
 risk_notes: "コードはApache-2.0だが、HQパスの依存関係が商用を制限。GVHMR=教育・研究・非営利のみ。SMPL-X=非商用（商用はMeshcapadeから別途）。WiLoR=CC-BY-NC-ND。MANO=非商用。Ultralytics YOLO=AGPL-3.0（コピーレフト、エンタープライズライセンス別途）。MediaPipe・three.jsは商用可。Webアプリ・ライブプレビュー・動画生成は商用可能。HQパスを商用で使うには依存関係の置き換えまたは別途ライセンスが必要。動画モデル（FLUX 3 Max/H3 Max Turbo）はfalおよびモデル提供元の条件に従う。当方未実行。 当方でインストール・動作・性能の実行検証はしていない。"
 sources: ["https://x.com/cutetoxicguy/status/2119595833691897981", "https://github.com/blendi-remade/prompt2rig", "https://github.com/blendi-remade/prompt2rig/blob/main/README.md", "https://github.com/blendi-remade/prompt2rig/blob/main/LICENSE"]
 added: "2026-11-09"
 first_seen: "2026-11-09"
 source_post: "https://x.com/cutetoxicguy/status/2119595833691897981"
-fetched_at: "2026-11-09T03:14:33+00:00"
+fetched_at: "2026-11-09T21:30:29Z"
 flags: ["unverified"]
+last_release: ""
+last_release_at: ""
 ---
 
 # prompt2rig — プロンプトから3Dキャラクター動作を生成

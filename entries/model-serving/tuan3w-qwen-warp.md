@@ -6,24 +6,25 @@ url: "https://github.com/tuan3w/qwen-warp"
 author: "tuan3w"
 repo: "tuan3w/qwen-warp"
 license: "MIT"
-stars: 3
+stars: 24
 language: "Python"
 created: "2026-11-01"
-updated: "2026-11-06"
+updated: "2026-11-09"
 added: "2026-11-06"
 first_seen: "2026-11-06"
 sources: ["https://x.com/ai_hakase_/status/2118149307970867503"]
 flags: ["unverified"]
 risk_notes: "元投稿が解説する「SpecPilot」(W12・ツリー検証・自律エージェント探索・4.46x→10.87x)は別リポジトリ StargazerX0/SpecPilot の内容で、本リポジトリは返信スレッドに別リンクとして挙がっているだけ。本リポジトリの速度・品質数値は作者が RTX 3090 1枚で自己計測したもので第三者検証はない(stars 3/forks 1、作成から5日)。RTX 3090(sm_86)専用で他の GPU は未テスト、同時1リクエストのみ、logprobs/structured output/bad_words は HTTP 400、モデル重みは別ライセンス(swift-open-license-1.0, gated)でリポジトリの MIT 対象外、エージェント多ターンの成功率は未計測と README に明記。"
-forks: 1
+forks: 4
 open_issues: 2
-commits_30d: 91
+commits_30d: 100
 commit_cadence: "daily"
-size_kb: 5452
+size_kb: 4919
 archived: false
-fetched_at: "2026-11-06T19:48:12Z"
-last_release: "v0.7.0"
-last_release_at: "2026-11-06"
+fetched_at: "2026-11-09T21:40:34Z"
+last_release: "v0.9.1"
+last_release_at: "2026-11-09"
+commits_90d: 100
 ---
 
 # qwen-warp — RTX 3090 1枚で Qwen3.8-27B を 262k コンテキスト・OpenAI 互換 API で動かす推論エンジン

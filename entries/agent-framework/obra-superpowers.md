@@ -4,23 +4,23 @@ name: Superpowers
 genre: agent-framework
 url: https://github.com/obra/superpowers
 license: MIT
-stars: 312407
+stars: 315107
 language: Shell
 created: 2025-10-09
-updated: 2026-11-03
+updated: "2026-11-03"
 added: 2026-11-03
 sources:
   - https://x.com/thegreatest_sv/status/2117591176048005131
-forks: 27789
-open_issues: 328
-commits_30d: 4
+forks: 28031
+open_issues: 345
+commits_30d: 3
 commits_90d: 7
-commit_cadence: weekly
+commit_cadence: "monthly"
 size_kb: 8099
 archived: false
-fetched_at: "2026-11-04T22:53:35Z"
-last_release: v7.0.2
-last_release_at: 2026-11-03
+fetched_at: "2026-11-09T21:34:06Z"
+last_release: "v7.0.2"
+last_release_at: "2026-11-03"
 ---
 
 # Superpowers

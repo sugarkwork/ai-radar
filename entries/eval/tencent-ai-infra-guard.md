@@ -4,25 +4,25 @@ name: "AI-Infra-Guard (A.I.G)"
 genre: eval
 url: "https://github.com/Tencent/AI-Infra-Guard"
 license: "Apache-2.0"
-stars: 7379
+stars: 7447
 language: "Python"
 created: "2024-12-25"
-updated: 2026-11-03
+updated: "2026-11-05"
 added: "2026-11-04"
 first_seen: "2026-11-04"
 sources: []
 flags: []
 risk_notes: ""
-forks: 735
-open_issues: 24
-size_kb: 165597
+forks: 746
+open_issues: 28
+size_kb: 165601
 archived: false
-commits_30d: 67
+commits_30d: 50
 commits_90d: 100
-commit_cadence: daily
-last_release: v4.6.8
-fetched_at: "2026-11-04T22:51:39Z"
-last_release_at: 2026-10-29
+commit_cadence: "daily"
+last_release: "v4.6.9"
+fetched_at: "2026-11-09T21:37:16Z"
+last_release_at: "2026-11-05"
 ---
 
 # AI-Infra-Guard (A.I.G)

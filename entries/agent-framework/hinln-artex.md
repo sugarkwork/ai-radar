@@ -4,11 +4,11 @@ name: "ARTEX"
 genre: "agent-framework"
 url: "https://github.com/Hinln/ARTEX"
 license: "AGPL-3.0"
-stars: 1427
+stars: 1443
 language: "Go"
 created: "2026-10-08"
 updated: "2026-10-08"
-forks: 1941
+forks: 1961
 open_issues: 4
 commits_30d: 0
 commit_cadence: "monthly"
@@ -22,7 +22,7 @@ last_release: ""
 last_release_at: ""
 added: "2026-11-09"
 first_seen: "2026-10-22"
-fetched_at: "2026-11-09T05:12:30Z"
+fetched_at: "2026-11-09T21:33:14Z"
 source_post: "https://x.com/wquguru/status/2113181135522214168"
 sources: ["https://github.com/Hinln/ARTEX", "https://api.github.com/repos/Hinln/ARTEX", "https://github.com/Hinln/ARTEX/blob/main/README.md", "https://github.com/Hinln/ARTEX/blob/main/docker-compose.yml", "https://github.com/Hinln/ARTEX/blob/main/go.mod", "https://github.com/Hinln/ARTEX/blob/main/CHANGELOG.md", "https://github.com/Hinln/ARTEX/blob/main/skills/api-recon/SKILL.md", "https://artex-demo.vercel.app/", "https://x.com/wquguru/status/2113181135522214168"]
 type: "repo"

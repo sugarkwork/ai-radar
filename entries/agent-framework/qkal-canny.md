@@ -24,7 +24,7 @@ type: "repo"
 added: "2026-11-09"
 first_seen: "2026-11-09"
 sources: ["https://x.com/thegreatest_sv/status/2114378197932617766"]
-fetched_at: "2026-11-09T17:32:10Z"
+fetched_at: "2026-11-09T21:34:42Z"
 ---
 
 # Canny — 「完了」を台帳の証拠で止める Claude Code / Codex 監督フック

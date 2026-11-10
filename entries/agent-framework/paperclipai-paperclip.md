@@ -4,26 +4,26 @@ name: paperclip
 genre: agent-framework
 url: https://github.com/paperclipai/paperclip
 license: MIT
-stars: 111168
+stars: 112618
 language: TypeScript
 created: 2026-03-02
-updated: 2026-11-05
+updated: "2026-11-09"
 added: 2026-11-05
 first_seen: 2026-11-04
 source_post: https://x.com/thegreatest_sv/status/2117687388214272339
 sources: []
 flags: []
 risk_notes: "複数の自律エージェントに権限と予算を与えて走らせるため、権限範囲・承認フロー・支出上限を先に設計すること。既定の認証なし構成で外部公開しない。"
-forks: 18414
-open_issues: 6587
+forks: 18677
+open_issues: 6614
 commits_30d: 100
-size_kb: 475670
+size_kb: 506118
 archived: false
 commits_90d: 100
-commit_cadence: daily
-fetched_at: "2026-11-05T04:40:08Z"
-last_release: v2026.1023.0
-last_release_at: 2026-10-24
+commit_cadence: "daily"
+fetched_at: "2026-11-09T21:34:28Z"
+last_release: "v2026.1106.0"
+last_release_at: "2026-11-06"
 ---
 
 # Paperclip

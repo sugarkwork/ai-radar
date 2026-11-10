@@ -16,7 +16,7 @@ license: "NOASSERTION"
 language: "Python"
 created: "2026-11-02"
 updated: "2026-11-03"
-stars: 24
+stars: 26
 forks: 2
 open_issues: 0
 commits_30d: 2
@@ -24,7 +24,9 @@ commits_90d: 2
 commit_cadence: "monthly"
 size_kb: 4073
 archived: false
-fetched_at: "2026-11-09T00:30:30.737722+00:00"
+fetched_at: "2026-11-09T21:46:41Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # TaoLiveAIGC/TaoMate-HD

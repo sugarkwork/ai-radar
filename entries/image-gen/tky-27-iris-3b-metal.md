@@ -4,10 +4,10 @@ name: "Iris-3B Metal"
 genre: image-gen
 url: "https://github.com/TKY-27/iris-3b-metal"
 license: "Apache-2.0"
-stars: 57
+stars: 58
 language: "Python"
 created: "2026-10-09"
-updated: 2026-10-19
+updated: "2026-10-19"
 added: "2026-11-04"
 first_seen: "2026-11-04"
 source_post: "https://x.com/dextune/status/2117894618360508907"
@@ -18,12 +18,12 @@ forks: 2
 open_issues: 1
 size_kb: 16697
 archived: false
-last_release: v0.6.1
-commits_30d: 77
+last_release: "v0.6.1"
+commits_30d: 36
 commits_90d: 78
-commit_cadence: daily
-fetched_at: "2026-11-04T22:51:34Z"
-last_release_at: 2026-10-19
+commit_cadence: "daily"
+fetched_at: "2026-11-09T21:38:41Z"
+last_release_at: "2026-10-19"
 ---
 
 # Iris-3B Metal

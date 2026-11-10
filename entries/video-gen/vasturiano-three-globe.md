@@ -16,7 +16,7 @@ license: "MIT"
 language: "JavaScript"
 created: "2019-03-05"
 updated: "2026-10-14"
-stars: 1657
+stars: 1658
 forks: 190
 open_issues: 48
 commits_30d: 12
@@ -24,7 +24,9 @@ commits_90d: 17
 commit_cadence: "weekly"
 size_kb: 12434
 archived: false
-fetched_at: "2026-11-09T00:31:17.335789+00:00"
+fetched_at: "2026-11-09T21:46:49Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # vasturiano/three-globe

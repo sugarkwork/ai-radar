@@ -4,24 +4,26 @@ name: "LATCH"
 genre: agent-framework
 url: "https://github.com/Balanov/latch"
 license: "MIT"
-stars: 165
+stars: 63
 language: "JavaScript"
 created: "2026-11-04"
-updated: 2026-11-04
+updated: "2026-11-09"
 added: "2026-11-05"
 first_seen: "2026-11-04"
 source_post: "https://x.com/RoundtableSpace/status/2118117449782460643"
 sources: []
 flags: []
 risk_notes: ""
-forks: 0
+forks: 1
 open_issues: 0
-size_kb: 227
+size_kb: 2460
 archived: false
-commits_30d: 16
-commits_90d: 16
-commit_cadence: weekly
-fetched_at: "2026-11-05T00:04:20Z"
+commits_30d: 21
+commits_90d: 21
+commit_cadence: "daily"
+fetched_at: "2026-11-09T21:32:27Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # LATCH

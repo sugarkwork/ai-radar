@@ -6,24 +6,25 @@ url: "https://github.com/speridlabs/idol-sdk"
 author: "speridlabs"
 repo: "speridlabs/idol-sdk"
 license: "Apache-2.0"
-stars: 856
+stars: 945
 language: "Python"
 created: "2026-10-28"
-updated: "2026-10-29"
+updated: "2026-11-09"
 added: "2026-11-06"
 first_seen: "2026-11-06"
 sources: ["https://x.com/speridlabs/status/2115890658636656826"]
 flags: []
 risk_notes: "PyPI 未公開・タグ/リリース無しのため clone して pip install -e . で導入する（README の記載どおり）。条件付けに入力エンコーダ2件の HF アクセス承認が必要で、未認証時は EncoderAccessError で停止する。CUDA GPU 必須。直近30日のコミットは 1 件で commit_cadence は stale 扱い。"
-forks: 80
-open_issues: 8
-commits_30d: 1
-commit_cadence: "stale"
-size_kb: 6867
+forks: 95
+open_issues: 4
+commits_30d: 5
+commit_cadence: "weekly"
+size_kb: 6866
 archived: false
-fetched_at: "2026-11-06T08:08:20Z"
+fetched_at: "2026-11-09T21:31:45Z"
 last_release: ""
 last_release_at: ""
+commits_90d: 5
 ---
 
 # Idol — 1枚の画像から3Dガウシアンスプラットを生成する推論SDK

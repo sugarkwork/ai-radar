@@ -4,24 +4,24 @@ name: H3 Continuity Studio
 genre: video-gen
 url: https://github.com/KadoBOT/ComfyUI-H3-Continuity-Studio
 license: MIT
-stars: 147
+stars: 160
 language: Python
 created: 2026-11-02
-updated: 2026-11-06
+updated: "2026-11-08"
 added: 2026-11-03
 sources:
   - https://x.com/superfang119/status/2117545628398162003
   - https://x.com/superfang119/status/2117634030393040927
-forks: 16
-open_issues: 1
+forks: 18
+open_issues: 0
 commits_30d: 100
 commits_90d: 100
-commit_cadence: daily
-size_kb: 6590
+commit_cadence: "daily"
+size_kb: 6573
 archived: false
-fetched_at: "2026-11-06T22:51:59Z"
-last_release: v0.18.0
-last_release_at: 2026-11-06
+fetched_at: "2026-11-09T21:45:18Z"
+last_release: "v0.20.0"
+last_release_at: "2026-11-08"
 ---
 
 # H3 Continuity Studio

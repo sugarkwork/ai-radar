@@ -4,10 +4,10 @@ name: Veda Sparse Attention for ComfyUI (MiniMax-H3)
 genre: video-gen
 url: https://github.com/veda-sparse/Veda-on-ComfyUI
 license: MIT
-stars: 218
+stars: 224
 language: Python
 created: 2026-10-02
-updated: 2026-10-11
+updated: "2026-10-11"
 added: 2026-11-05
 first_seen: 2026-11-05
 source_post: https://x.com/KOF97AI/status/2118214947494646170
@@ -18,13 +18,15 @@ sources:
 flags: []
 risk_notes: ""
 forks: 20
-open_issues: 12
-commits_30d: 45
+open_issues: 13
+commits_30d: 4
 commits_90d: 100
-commit_cadence: daily
+commit_cadence: "weekly"
 size_kb: 2476
 archived: false
-fetched_at: "2026-11-05T09:59:11Z"
+fetched_at: "2026-11-09T21:46:52Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # Veda Sparse Attention for ComfyUI (MiniMax-H3)

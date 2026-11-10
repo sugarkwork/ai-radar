@@ -4,25 +4,25 @@ name: "RVC (Retrieval-based Voice Conversion WebUI)"
 genre: "tts-audio"
 url: "https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI"
 license: "MIT"
-stars: 39029
+stars: 39138
 language: "Python"
 created: "2023-03-27"
-updated: 2026-08-04
+updated: "2026-08-04"
 added: "2026-11-03"
 sources:
   - "https://x.com/RoundtableSpace/status/2117357328152350832"
 flags: []
 risk_notes: ""
-forks: 5343
-open_issues: 589
+forks: 5349
+open_issues: 593
 commits_30d: 0
 commits_90d: 0
-commit_cadence: stale
+commit_cadence: "stale"
 size_kb: 15453
 archived: false
-fetched_at: "2026-11-03T15:42:55Z"
-last_release: 2.3.260718
-last_release_at: 2026-07-21
+fetched_at: "2026-11-09T21:43:33Z"
+last_release: "2.3.260718"
+last_release_at: "2026-07-21"
 ---
 
 # RVC (Retrieval-based Voice Conversion WebUI)

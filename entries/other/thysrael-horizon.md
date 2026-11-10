@@ -4,23 +4,25 @@ name: "Horizon"
 genre: other
 url: "https://github.com/Thysrael/Horizon"
 license: "MIT"
-stars: 12260
+stars: 13147
 language: "Python"
 created: "2026-02-20"
-updated: 2026-11-03
+updated: "2026-11-09"
 added: "2026-11-03"
 first_seen: "2026-11-03"
 sources: []
 flags: []
 risk_notes: ""
-forks: 1790
-open_issues: 4
-commits_30d: 31
-commit_cadence: daily
-size_kb: 16345
+forks: 1876
+open_issues: 5
+commits_30d: 80
+commit_cadence: "daily"
+size_kb: 16443
 archived: false
-commits_90d: 52
-fetched_at: "2026-11-03T23:05:43Z"
+commits_90d: 95
+fetched_at: "2026-11-09T21:41:32Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # Horizon

@@ -4,25 +4,25 @@ name: "Heretic"
 genre: other
 url: "https://github.com/p-e-w/heretic"
 license: "AGPL-3.0"
-stars: 39338
+stars: 40132
 language: "Python"
 created: "2025-09-21"
-updated: 2026-11-03
+updated: "2026-11-08"
 added: "2026-11-03"
 first_seen: "2026-11-03"
 sources: []
 flags: []
 risk_notes: ""
-forks: 4441
-open_issues: 64
-commits_30d: 25
-commits_90d: 38
-commit_cadence: daily
-size_kb: 1608
+forks: 4590
+open_issues: 65
+commits_30d: 29
+commits_90d: 46
+commit_cadence: "daily"
+size_kb: 2036
 archived: false
-fetched_at: "2026-11-04T22:53:40Z"
-last_release: v2.0.0
-last_release_at: 2026-11-01
+fetched_at: "2026-11-09T21:41:26Z"
+last_release: "v2.1.0"
+last_release_at: "2026-11-08"
 ---
 
 # Heretic

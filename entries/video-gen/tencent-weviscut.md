@@ -5,10 +5,10 @@ genre: "video-gen"
 url: "https://github.com/Tencent/WeVisCut"
 repo: "Tencent/WeVisCut"
 license: "Apache-2.0（GitHub API は NOASSERTION）"
-stars: 79
+stars: 86
 language: "Python"
 created: "2026-09-09"
-updated: 2026-10-30
+updated: "2026-10-30"
 added: "2026-11-06"
 first_seen: "2026-10-31"
 sources: ["https://x.com/Machinedelusion/status/2116668287656333409", "https://tencent.github.io/WeVisCut/", "https://huggingface.co/tencent/WeVisCut"]
@@ -17,10 +17,10 @@ risk_notes: "README の『Claude Opus 5 と同等を約33分の1のトークン�
 forks: 11
 open_issues: 1
 commits_30d: 10
-commit_cadence: weekly
+commit_cadence: "weekly"
 size_kb: 733802
 archived: false
-fetched_at: "2026-11-06T09:14:02Z"
+fetched_at: "2026-11-09T21:46:43Z"
 last_release: ""
 last_release_at: ""
 commits_90d: 29

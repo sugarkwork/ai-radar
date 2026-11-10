@@ -4,26 +4,26 @@ name: "@antfu/skills（npm で配るスキル詰め合わせ）"
 genre: agent-framework
 url: https://github.com/antfu/skills-pack
 license: MIT
-stars: 334
+stars: 337
 language: TypeScript
 created: 2026-09-25
-updated: 2026-10-30
+updated: "2026-10-30"
 added: 2026-11-05
 first_seen: 2026-10-22
 source_post: https://x.com/opensourcelab9/status/2113155901104542124
 sources: []
 flags: []
 risk_notes: ""
-forks: 4
+forks: 5
 open_issues: 0
 size_kb: 124
 archived: false
 commits_30d: 6
 commits_90d: 9
-commit_cadence: weekly
-fetched_at: "2026-11-05T10:24:46Z"
-last_release: v0.1.3
-last_release_at: 2026-10-30
+commit_cadence: "weekly"
+fetched_at: "2026-11-09T21:32:19Z"
+last_release: "v0.1.3"
+last_release_at: "2026-10-30"
 ---
 
 # @antfu/skills（npm で配るスキル詰め合わせ）

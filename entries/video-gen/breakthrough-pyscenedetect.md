@@ -5,26 +5,26 @@ genre: "video-gen"
 url: "https://github.com/Breakthrough/PySceneDetect"
 author: "Brandon Castellano (Breakthrough)"
 license: "BSD-3-Clause"
-stars: 5403
+stars: 5413
 language: "Python"
 created: "2014-06-04"
-updated: "2026-11-07"
-forks: 561
-open_issues: 65
-size_kb: 210742
+updated: "2026-11-08"
+forks: 564
+open_issues: 62
+size_kb: 211655
 archived: false
-commits_30d: 34
-commits_90d: 74
+commits_30d: 43
+commits_90d: 83
 commit_cadence: "daily"
-last_release: "v0.7.2"
-last_release_at: "2026-10-12"
+last_release: "v0.7.3"
+last_release_at: "2026-11-08"
 flags: []
 risk_notes: ["精度指標（F1 等）は開発元自身が公開するベンチマークの値で、第三者の独立再現やこちらの実機追試は行っていない。処理速度は未計測。", "docs サイト（scenedetect.com/docs/latest）は v0.7.1 のままで、v0.7.2 で変更された detect-hist（threshold 0.20 / bins 128）と detect-hash（threshold 0.35 / size 8）の既定値はリリースノート側の記載を優先した。CLI リファレンス上の既定値表示は 0.7.1 時点のもの。", "open_issues=65 は GitHub の open_issues_count で、実測では issue 57 件 + PR 8 件の合計。", "genre=video-gen は分類上の近似。実体は映像の生成モデルではなく、カット検出・分割・フレーム抽出の解析ツール。"]
 type: "repo"
 added: "2026-11-07"
 first_seen: "2026-11-07"
 sources: ["https://x.com/heyrimsha/status/2118662273044807904"]
-fetched_at: "2026-11-07T18:45:40Z"
+fetched_at: "2026-11-09T21:44:10Z"
 ---
 
 # PySceneDetect — シーンカットを自動検出して長尺動画を分割・フレーム抽出する BSD-3-Clause の OSS

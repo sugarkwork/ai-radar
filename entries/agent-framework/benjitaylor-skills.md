@@ -6,24 +6,24 @@ url: https://github.com/benjitaylor/skills
 license: 未確認（リポジトリ全体の LICENSE なし。各スキル個別のライセンス表記）
 language: TypeScript
 created: 2026-10-26
-updated: 2026-11-04
+updated: "2026-11-05"
 added: 2026-11-03
 author: "@benjitaylor"
 source_post: "https://x.com/tetumemo/status/2117618086392316274"
 sources:
   - https://x.com/shannholmberg/status/2116957574008590445
   - https://benji.org/stageshow
-stars: 1897
-forks: 131
-open_issues: 1
-commits_30d: 2
-commits_90d: 2
-commit_cadence: monthly
-size_kb: 1171
+stars: 2884
+forks: 196
+open_issues: 0
+commits_30d: 3
+commits_90d: 3
+commit_cadence: "monthly"
+size_kb: 1172
 archived: false
-fetched_at: "2026-11-04T22:52:03Z"
-last_release: stageshow-v1.1.0
-last_release_at: 2026-11-04
+fetched_at: "2026-11-09T21:32:30Z"
+last_release: "stageshow-v1.1.1"
+last_release_at: "2026-11-05"
 ---
 
 # Stageshow（benjitaylor/skills）

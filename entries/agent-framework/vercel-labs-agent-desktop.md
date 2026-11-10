@@ -4,26 +4,26 @@ name: "agent-desktop"
 genre: agent-framework
 url: "https://github.com/vercel-labs/agent-desktop"
 license: "Apache-2.0"
-stars: 16755
+stars: 20364
 language: "Rust"
 created: "2026-02-19"
-updated: 2026-11-05
+updated: "2026-11-09"
 added: "2026-11-05"
 first_seen: "2026-11-04"
 source_post: "https://x.com/naka_1717/status/2118100305825169893"
 sources: []
 flags: []
 risk_notes: ""
-forks: 1177
-open_issues: 167
-size_kb: 64294
+forks: 1507
+open_issues: 205
+size_kb: 71394
 archived: false
-commits_30d: 79
+commits_30d: 81
 commits_90d: 100
-commit_cadence: daily
-fetched_at: "2026-11-05T22:43:52Z"
-last_release: v1.2.0
-last_release_at: 2026-11-05
+commit_cadence: "daily"
+fetched_at: "2026-11-09T21:35:28Z"
+last_release: "v1.2.0"
+last_release_at: "2026-11-05"
 ---
 
 # agent-desktop

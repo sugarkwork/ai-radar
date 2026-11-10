@@ -16,15 +16,17 @@ license: "MIT"
 language: "Python"
 created: "2025-08-25"
 updated: "2026-10-08"
-stars: 56795
-forks: 6394
+stars: 56892
+forks: 6400
 open_issues: 205
 commits_30d: 0
 commits_90d: 21
 commit_cadence: "monthly"
 size_kb: 216545
 archived: false
-fetched_at: "2026-11-09T00:30:35.797634+00:00"
+fetched_at: "2026-11-09T21:43:19Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # microsoft/VibeVoice

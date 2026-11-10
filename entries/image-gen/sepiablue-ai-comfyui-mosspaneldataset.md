@@ -4,10 +4,10 @@ name: "ComfyUI-MossPanelDataset"
 genre: image-gen
 url: "https://github.com/sepiablue-ai/ComfyUI-MossPanelDataset"
 license: "MIT"
-stars: 39
+stars: 41
 language: "Python"
 created: "2026-11-02"
-updated: 2026-11-06
+updated: "2026-11-05"
 added: "2026-11-03"
 first_seen: "2026-11-03"
 sources: []
@@ -17,10 +17,12 @@ forks: 5
 open_issues: 0
 commits_30d: 18
 commits_90d: 18
-commit_cadence: weekly
+commit_cadence: "weekly"
 size_kb: 47794
 archived: false
-fetched_at: "2026-11-06T22:52:14Z"
+fetched_at: "2026-11-09T21:38:36Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # ComfyUI-MossPanelDataset

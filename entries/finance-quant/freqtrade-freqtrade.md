@@ -4,10 +4,10 @@ name: Freqtrade
 genre: finance-quant
 url: https://github.com/freqtrade/freqtrade
 license: GPL-3.0
-stars: 56500
+stars: 56701
 language: Python
 created: 2017-05-17
-updated: 2026-11-05
+updated: "2026-11-09"
 added: 2026-11-05
 first_seen: 2026-11-05
 source_post: https://x.com/roundtablespace/status/2118172700757889191
@@ -16,16 +16,16 @@ sources:
   - https://doi.org/10.21105/joss.04864
 flags: []
 risk_notes: "暗号資産の自動売買は元本を失う可能性がある。README 自身が educational purposes only と明記し、dry-run から始めるよう警告している。取引所のAPI権限は出金不可のキーを使うこと。"
-forks: 11676
-open_issues: 24
+forks: 11723
+open_issues: 23
 commits_30d: 100
 commits_90d: 100
-commit_cadence: daily
-size_kb: 832836
+commit_cadence: "daily"
+size_kb: 832437
 archived: false
-fetched_at: "2026-11-05T22:44:05Z"
-last_release: 2026.10
-last_release_at: 2026-10-30
+fetched_at: "2026-11-09T21:37:31Z"
+last_release: "2026.10"
+last_release_at: "2026-10-30"
 ---
 
 # Freqtrade

@@ -16,15 +16,17 @@ license: "MIT"
 language: "CSS"
 created: "2020-07-26"
 updated: "2026-10-06"
-stars: 5534
-forks: 292
-open_issues: 180
+stars: 5555
+forks: 295
+open_issues: 181
 commits_30d: 0
 commits_90d: 11
 commit_cadence: "monthly"
 size_kb: 59232
 archived: false
-fetched_at: "2026-11-09T00:31:12.746404+00:00"
+fetched_at: "2026-11-09T21:41:49Z"
+last_release: "9.1.4"
+last_release_at: "2026-10-06"
 ---
 
 # kepano/obsidian-minimal

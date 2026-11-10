@@ -4,10 +4,10 @@ name: PilotDeck
 genre: agent-framework
 url: https://github.com/OpenBMB/PilotDeck
 license: AGPL-3.0
-stars: 4981
+stars: 4989
 language: TypeScript
 created: 2026-05-22
-updated: 2026-11-06
+updated: "2026-11-09"
 added: 2026-11-05
 first_seen: 2026-10-20
 source_post: https://x.com/opensourcelab9/status/2112514206511837503
@@ -16,16 +16,16 @@ sources:
   - https://pilotdeck.openbmb.cn
 flags: [unverified]
 risk_notes: "投稿の Workbuddy Bench 79.1点（Qwen3.6-35B-A3B）は README の表に該当がなく一次情報で確認できない。採用した数値は README 側のみ。"
-forks: 560
-open_issues: 180
-size_kb: 76479
+forks: 563
+open_issues: 184
+size_kb: 71717
 archived: false
 commits_30d: 100
 commits_90d: 100
-commit_cadence: daily
-fetched_at: "2026-11-06T22:53:58Z"
-last_release: v2026.11.06
-last_release_at: 2026-11-05
+commit_cadence: "daily"
+fetched_at: "2026-11-09T21:34:16Z"
+last_release: "v2026.11.09"
+last_release_at: "2026-11-08"
 ---
 
 # PilotDeck

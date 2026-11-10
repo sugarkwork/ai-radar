@@ -4,16 +4,16 @@ name: "Remotion Agent Skills"
 genre: "video-gen"
 url: "https://github.com/remotion-dev/skills"
 license: "unknown"
-stars: 6530
+stars: 6707
 language: "TypeScript"
 created: "2026-01-19"
-updated: "2026-11-05"
-forks: 710
+updated: "2026-11-09"
+forks: 728
 open_issues: 23
-commits_30d: 7
+commits_30d: 8
 commit_cadence: "weekly"
 commits_90d: 34
-size_kb: 626
+size_kb: 634
 archived: false
 author: "remotion-dev"
 flags: []
@@ -24,7 +24,7 @@ type: "repo"
 added: "2026-11-07"
 first_seen: "2026-11-07"
 sources: ["https://x.com/heyrimsha/status/2118662273044807904"]
-fetched_at: "2026-11-07T17:17:44Z"
+fetched_at: "2026-11-09T21:46:22Z"
 ---
 
 # Remotion Agent Skills — AIエージェントにReact動画制作の作法を教える公式スキル集

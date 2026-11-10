@@ -4,10 +4,10 @@ name: "serenity-stock-choke"
 genre: finance-quant
 url: "https://github.com/fadewalk/serenity-stock-choke"
 license: "MIT"
-stars: 508
+stars: 531
 language: "Python"
 created: "2026-05-29"
-updated: 2026-10-06
+updated: "2026-10-06"
 added: "2026-11-05"
 first_seen: "2026-11-04"
 source_post: "https://x.com/bkdgiffug/status/2118117336393949625"
@@ -18,12 +18,12 @@ forks: 56
 open_issues: 0
 size_kb: 61
 archived: false
-commits_30d: 4
+commits_30d: 0
 commits_90d: 7
-commit_cadence: weekly
-fetched_at: "2026-11-05T00:04:29Z"
-last_release: v3.2.1
-last_release_at: 2026-10-06
+commit_cadence: "monthly"
+fetched_at: "2026-11-09T21:37:28Z"
+last_release: "v3.2.1"
+last_release_at: "2026-10-06"
 ---
 
 # serenity-stock-choke

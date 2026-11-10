@@ -4,10 +4,10 @@ name: vectorbt
 genre: finance-quant
 url: https://github.com/polakowo/vectorbt
 license: Apache-2.0 + Commons Clause（販売不可）
-stars: 9692
+stars: 9782
 language: Python
 created: 2017-11-14
-updated: 2026-11-03
+updated: "2026-11-08"
 added: 2026-11-05
 first_seen: 2026-11-05
 source_post: https://x.com/roundtablespace/status/2118172700757889191
@@ -15,16 +15,16 @@ sources:
   - https://vectorbt.dev/
 flags: []
 risk_notes: "Apache-2.0 に Commons Clause が付き、このライブラリの機能を主要価値とする製品・サービスを有償提供することはできない。有償版の vectorbt PRO が別に存在する。"
-forks: 1258
-open_issues: 135
-commits_30d: 53
-commits_90d: 65
-commit_cadence: daily
-size_kb: 759947
+forks: 1280
+open_issues: 128
+commits_30d: 49
+commits_90d: 72
+commit_cadence: "daily"
+size_kb: 760122
 archived: false
-fetched_at: "2026-11-05T22:01:17Z"
-last_release: v1.2.0
-last_release_at: 2026-10-19
+fetched_at: "2026-11-09T21:37:38Z"
+last_release: "v1.2.0"
+last_release_at: "2026-10-19"
 ---
 
 # vectorbt

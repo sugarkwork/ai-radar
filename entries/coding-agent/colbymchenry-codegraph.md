@@ -4,10 +4,10 @@ name: "CodeGraph"
 genre: "coding-agent"
 url: "https://github.com/colbymchenry/codegraph"
 license: "MIT"
-stars: 76377
+stars: 77198
 language: "TypeScript"
 created: "2026-01-18"
-updated: 2026-11-01
+updated: "2026-11-01"
 added: "2026-11-03"
 flags: []
 risk_notes: ""
@@ -15,16 +15,16 @@ source_post: "https://x.com/goan999999/status/2117462867050144107"
 sources:
   - "https://x.com/goan999999/status/2117462867050144107"
   - "https://colbymchenry.github.io/codegraph/"
-forks: 5078
-open_issues: 236
+forks: 5141
+open_issues: 271
 commits_30d: 100
 commits_90d: 100
-commit_cadence: daily
+commit_cadence: "daily"
 size_kb: 48358
 archived: false
-fetched_at: "2026-11-03T15:42:24Z"
-last_release: v1.6.2
-last_release_at: 2026-10-03
+fetched_at: "2026-11-09T21:35:57Z"
+last_release: "v1.6.2"
+last_release_at: "2026-10-03"
 ---
 
 # CodeGraph

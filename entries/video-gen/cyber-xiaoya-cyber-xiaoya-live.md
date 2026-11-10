@@ -4,10 +4,10 @@ name: 赛博小雅直播版（Cyber Xiaoya Live）
 genre: video-gen
 url: https://github.com/cyber-xiaoya/cyber-xiaoya-live
 license: AGPL-3.0（コードのみ。素材・ブランドは NOTICE で別扱い）
-stars: 706
+stars: 815
 language: Python
 created: 2026-10-24
-updated: 2026-11-02
+updated: "2026-11-09"
 added: 2026-11-05
 first_seen: 2026-11-05
 source_post: ""
@@ -16,16 +16,16 @@ sources:
   - https://github.com/cyber-xiaoya/cyber-xiaoya-danmaku
 flags: []
 risk_notes: "AGPL-3.0。改変版をネットワーク経由で提供するとソース公開義務が生じる。人物画像・音声などの素材とブランドは NOTICE によりライセンス対象外。第三者製の弾幕収集ツールは各プラットフォームの規約に従う必要があり、AI配信の表示義務を定める平台もある。"
-forks: 310
+forks: 350
 open_issues: 1
 commits_30d: 18
 commits_90d: 18
-commit_cadence: weekly
-size_kb: 5567
+commit_cadence: "weekly"
+size_kb: 5616
 archived: false
-fetched_at: "2026-11-05T11:42:19Z"
-last_release: v1.0.0
-last_release_at: 2026-10-24
+fetched_at: "2026-11-09T21:44:28Z"
+last_release: "v1.0.0"
+last_release_at: "2026-10-24"
 ---
 
 # 赛博小雅直播版（Cyber Xiaoya Live）

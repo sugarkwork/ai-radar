@@ -15,16 +15,18 @@ repo: "livliv-dev/player"
 license: "Apache-2.0"
 language: "TypeScript"
 created: "2026-11-04"
-updated: "2026-11-08"
-stars: 1331
-forks: 139
-open_issues: 4
-commits_30d: 36
-commits_90d: 36
+updated: "2026-11-09"
+stars: 1395
+forks: 146
+open_issues: 1
+commits_30d: 40
+commits_90d: 40
 commit_cadence: "daily"
-size_kb: 23784
+size_kb: 23816
 archived: false
-fetched_at: "2026-11-09T00:30:55.872140+00:00"
+fetched_at: "2026-11-09T21:31:19Z"
+last_release: "v0.3.0"
+last_release_at: "2026-11-06"
 ---
 
 # livliv-dev/player

@@ -5,22 +5,24 @@ name: "Meshroom"
 genre: "3d-motion"
 url: "https://github.com/alicevision/Meshroom"
 license: "MPL-2.0"
-stars: 13074
+stars: 13076
 language: "Python"
 created: "2015-04-22"
-updated: "2026-11-07"
-forks: 1242
-open_issues: 549
-commits_30d: "100+"
-commits_90d: "100+"
+updated: "2026-11-09"
+forks: 1243
+open_issues: 550
+commits_30d: 100
+commits_90d: 100
 commit_cadence: "daily"
-size_kb: 13928
+size_kb: 13824
 archived: false
 added: "2026-11-09"
-fetched_at: "2026-11-09T04:03:33Z"
+fetched_at: "2026-11-09T21:30:24Z"
 flags: ["unverified"]
 risk_notes: "Meshroom本体はMPL-2.0。AliceVisionや追加プラグイン、AIモデルの条件は個別に確認。公式マニュアルによると密な深度推定にはCUDA対応NVIDIA GPUが必要で、非CUDA環境は粗いdraft meshingを利用。実行・再構築品質は未検証。"
 sources: ["https://x.com/i/status/2119475041402257767", "https://github.com/alicevision/Meshroom", "https://meshroom-manual.readthedocs.io/en/latest/first-steps/install/requirements.html", "https://raw.githubusercontent.com/alicevision/Meshroom/develop/COPYING.md"]
+last_release: "v2025.1.0"
+last_release_at: "2025-08-19"
 ---
 
 # Meshroom — 写真からの3D再構築ワークフロー

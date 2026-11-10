@@ -5,25 +5,25 @@ genre: "video-gen"
 url: "https://github.com/krillinai/OpenCreator"
 repo: "krillinai/OpenCreator"
 license: "Apache-2.0"
-stars: 14192
+stars: 14269
 language: "TypeScript"
 created: "2024-12-17"
-updated: 2026-11-05
+updated: "2026-11-09"
 added: "2026-11-07"
 first_seen: "2026-11-07"
 sources: ["https://x.com/abir35627/status/2118648224202551573"]
 flags: []
 risk_notes: "① 旧 KrillinAI（動画翻訳・吹替）のリポジトリを改名・拡張したもので、14,191★の大半は KrillinAI 時代に付いた。現行の Codex ベース構成になってからの実績を示す数字ではない。② エージェントループは自前実装ではなく Codex CLI そのもの。モデル利用料は Codex 側（ChatGPT サインインか API キー）で、OpenCreator はその周囲の Runtime・UI・制作ツールを足す立場。③ コードは Apache-2.0 だが、アカウント・サブスク・クレジット・公式モデルサービスは open-creator.ai の Gateway 経由（Stripe Checkout / Billing Portal、ブラウザでのデバイス認証）。ローカル完結も可能だが、その場合は外部プロバイダのキーを自分で用意する。④ Desktop 配布は macOS arm64/x64 と Windows x64 のみで Linux 版は無い。Linux はソースからの Web か KrillinAI CLI アーカイブになる。⑤ リポジトリは約390MB（mp4 デモ約186MB、template 約52MB、assets 209MB）。--depth 1 でも取得量はほぼ変わらない。⑥ 発見元の「編集」は字幕編集・原稿編集が中心で、タイムライン型の動画編集は無い。Auto Clips と Digital Avatar は README 上 In development。⑦ CLI（krillinai-cli）は Go 製で、ソースからのビルドには Go ツールチェーンが要る（`.runtime/build` に出力）。リリースの tar.gz は約12MB で Go 不要だが、アーカイブ内の実行ファイル配置は未確認。⑧ CLI は `config/config.toml` をプロセス cwd から読む仕様で、作業ディレクトリ依存の罠がある。⑨ ffmpeg/ffprobe/yt-dlp は CLI 経路では自前で PATH に置く必要がある（Desktop は yt-dlp を同梱管理）。⑩ commits_30d の 100 は GitHub API の取得上限に当たっている可能性がある。"
-forks: 1582
-open_issues: 43
+forks: 1590
+open_issues: 47
 commits_30d: 100
-size_kb: 399411
+size_kb: 399603
 archived: false
 commits_90d: 100
-commit_cadence: daily
-fetched_at: "2026-11-07T05:24:36Z"
-last_release: v3.3.0
-last_release_at: 2026-11-03
+commit_cadence: "daily"
+fetched_at: "2026-11-09T21:45:26Z"
+last_release: "v3.3.1"
+last_release_at: "2026-11-08"
 ---
 
 # OpenCreator — Codex を実行エンジンにした制作ワークスペース（旧 KrillinAI）

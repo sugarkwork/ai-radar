@@ -4,18 +4,18 @@ name: "Marketing Skills (cold-email)"
 genre: "prompt-design"
 url: "https://github.com/coreyhaines31/marketingskills"
 license: "MIT"
-stars: 59386
+stars: 59400
 language: "JavaScript"
 created: "2026-01-15"
 updated: "2026-11-09"
-forks: 8674
-open_issues: 85
+forks: 8675
+open_issues: 83
 commits_30d: 100
 commits_90d: 100
 commit_cadence: "daily"
-size_kb: 6260
+size_kb: 7013
 archived: false
-last_release: "v2.14.5"
+last_release: "v2.14.8"
 last_release_at: "2026-11-09"
 author: "Corey Haines"
 flags: ["unverified"]
@@ -24,7 +24,7 @@ type: "repo"
 added: "2026-11-09"
 first_seen: "2026-11-09"
 sources: ["https://x.com/Y0urDumble/status/2114428470168334365"]
-fetched_at: "2026-11-09T19:22:53Z"
+fetched_at: "2026-11-09T21:41:42Z"
 ---
 
 # Marketing Skills：AIエージェント向けマーケティングスキル集（cold-email）

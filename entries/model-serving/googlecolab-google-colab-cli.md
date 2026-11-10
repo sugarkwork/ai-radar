@@ -16,15 +16,17 @@ license: "Apache-2.0"
 language: "Python"
 created: "2026-04-17"
 updated: "2026-11-06"
-stars: 2082
-forks: 297
-open_issues: 41
+stars: 2127
+forks: 301
+open_issues: 42
 commits_30d: 18
 commits_90d: 37
 commit_cadence: "weekly"
 size_kb: 1417
 archived: false
-fetched_at: "2026-11-09T00:30:51.710274+00:00"
+fetched_at: "2026-11-09T21:39:54Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # googlecolab/google-colab-cli

@@ -5,26 +5,26 @@ genre: video-gen
 url: https://github.com/chanon/comfyui-obvpm-timeline
 author: chanon
 license: GPL-3.0
-stars: 256
+stars: 270
 language: Python
 created: 2026-09-03
-updated: 2026-10-23
+updated: "2026-10-23"
 added: 2026-11-04
 first_seen: 2026-11-04
 source_post: https://x.com/ai_hakase_/status/2117856442866905109
 sources:
   - https://comfyui-wiki.com/en/news/2026-09-21-obvpm-timeline
   - https://github.com/chanon/comfyui-obvpm
-forks: 31
-open_issues: 38
-commits_30d: 11
+forks: 34
+open_issues: 37
+commits_30d: 5
 commits_90d: 80
-commit_cadence: weekly
+commit_cadence: "weekly"
 size_kb: 1246
 archived: false
-fetched_at: "2026-11-04T22:52:23Z"
-last_release: v0.1.4
-last_release_at: 2026-10-13
+fetched_at: "2026-11-09T21:44:18Z"
+last_release: "v0.1.4"
+last_release_at: "2026-10-13"
 ---
 
 # comfyui-obvpm-timeline

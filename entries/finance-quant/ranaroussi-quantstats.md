@@ -4,26 +4,26 @@ name: QuantStats
 genre: finance-quant
 url: https://github.com/ranaroussi/quantstats
 license: Apache-2.0
-stars: 7798
+stars: 7840
 language: Python
 created: 2019-05-01
-updated: 2026-11-02
+updated: "2026-11-02"
 added: 2026-11-05
 first_seen: 2026-11-05
 source_post: https://x.com/roundtablespace/status/2118172700757889191
 sources: []
 flags: []
 risk_notes: ""
-forks: 1272
-open_issues: 32
+forks: 1285
+open_issues: 33
 commits_30d: 1
 commits_90d: 10
-commit_cadence: monthly
+commit_cadence: "monthly"
 size_kb: 5992
 archived: false
-fetched_at: "2026-11-05T22:02:16Z"
-last_release: v0.0.86
-last_release_at: 2026-09-27
+fetched_at: "2026-11-09T21:37:47Z"
+last_release: "v0.0.86"
+last_release_at: "2026-09-27"
 ---
 
 # QuantStats

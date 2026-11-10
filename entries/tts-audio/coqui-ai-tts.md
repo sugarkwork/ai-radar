@@ -4,25 +4,25 @@ name: "Coqui TTS"
 genre: "tts-audio"
 url: "https://github.com/coqui-ai/TTS"
 license: "MPL-2.0"
-stars: 46180
+stars: 46195
 language: "Python"
 created: "2020-05-20"
-updated: 2024-08-16
+updated: "2024-08-16"
 added: "2026-11-03"
 sources:
   - "https://x.com/RoundtableSpace/status/2117357328152350832"
 flags: []
 risk_notes: ""
-forks: 6161
+forks: 6163
 open_issues: 2
 commits_30d: 0
 commits_90d: 0
-commit_cadence: stale
+commit_cadence: "stale"
 size_kb: 170196
 archived: false
-fetched_at: "2026-11-03T15:42:42Z"
-last_release: v0.22.0
-last_release_at: 2023-12-12
+fetched_at: "2026-11-09T21:42:56Z"
+last_release: "v0.22.0"
+last_release_at: "2023-12-12"
 ---
 
 # Coqui TTS

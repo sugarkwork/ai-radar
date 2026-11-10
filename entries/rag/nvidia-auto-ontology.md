@@ -15,16 +15,18 @@ repo: "NVIDIA/auto-ontology"
 license: "Apache-2.0"
 language: "Python"
 created: "2026-04-27"
-updated: "2026-11-07"
-stars: 10378
-forks: 838
-open_issues: 88
-commits_30d: 94
+updated: "2026-11-09"
+stars: 10982
+forks: 897
+open_issues: 96
+commits_30d: 95
 commits_90d: 100
 commit_cadence: "daily"
-size_kb: 21947
+size_kb: 21951
 archived: false
-fetched_at: "2026-11-09T00:30:35.428541+00:00"
+fetched_at: "2026-11-09T21:42:28Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # NVIDIA/auto-ontology

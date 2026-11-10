@@ -8,8 +8,8 @@ author: MiaAI-Lab
 license: Apache-2.0
 language: Docker / Zig / CUDA
 created: 2026-10-31
-updated: 2026-11-07
-stars: 20
+updated: "2026-11-07"
+stars: 23
 archived: false
 added: 2026-11-08
 first_seen: 2026-11-08
@@ -17,7 +17,7 @@ source_post: https://x.com/MiaAI_lab/status/2119115546285552046
 sources: ["https://github.com/MiaAI-Lab/GLM-5.3-Flash-2x-RTX-PRO-6000-TensorFold", "https://github.com/ashhart/TensorFold", "https://huggingface.co/api/models/zai-org/GLM-5.3-Flash", "https://x.com/miaai_lab/status/2119115546285552046?a=aZCeYam55LT49ehTNgs&s=46", "https://x.com/MiaAI_lab/status/2119115546285552046", "https://github.com/MiaAI-Lab/GLM-5.3-Flash-DGX-Sparks-1104", "https://api.github.com/repos/MiaAI-Lab/GLM-5.3-Flash-2x-RTX-PRO-6000-TensorFold", "https://api.github.com/repos/MiaAI-Lab/GLM-5.3-Flash-DGX-Sparks-1104", "https://raw.githubusercontent.com/MiaAI-Lab/GLM-5.3-Flash-2x-RTX-PRO-6000-TensorFold/main/README.md"]
 flags: ["unverified"]
 risk_notes: "2×96GBのRTX PRO 6000（Blackwell sm_120）が必須。チェックポイント約164GiB、Dockerイメージ約40GiB。TensorFold（ashhart/TensorFold、Zig/CUDA）をDockerでビルドし、GLM-5.3-FlashのEXL3 4bpw量子化を配備する。既定のdrafterはCC BY-NC-ND 4.0（非商用）で、商用はDRAFTER=mtp/noneに切り替える。投稿のKV 973K→1.05M、再起動後約1秒で会話復元、thinking off時の出力短縮、誤ネット設定の自動修正はREADMEと方向性が一致するが数値は自己申告で未検証。当方でビルド・実行は未実施。"
-fetched_at: "2026-11-08T06:40:00Z"
+fetched_at: "2026-11-09T21:40:09Z"
 forks: 2
 open_issues: 1
 commits_30d: 16
@@ -25,6 +25,8 @@ commits_90d: 16
 commit_cadence: "weekly"
 size_kb: 2964
 amplifiers: []
+last_release: ""
+last_release_at: ""
 ---
 
 # GLM-5.3-Flash 2×RTX PRO 6000 配備レシピ（TensorFold）

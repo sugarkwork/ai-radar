@@ -15,16 +15,18 @@ repo: "ManimCommunity/manim"
 license: "MIT"
 language: "Python"
 created: "2020-05-19"
-updated: "2026-11-05"
-stars: 42347
-forks: 3304
-open_issues: 402
+updated: "2026-11-09"
+stars: 42376
+forks: 3310
+open_issues: 403
 commits_30d: 17
-commits_90d: 69
+commits_90d: 68
 commit_cadence: "weekly"
-size_kb: 48259
+size_kb: 48282
 archived: false
-fetched_at: "2026-11-09T00:31:17.882657+00:00"
+fetched_at: "2026-11-09T21:45:45Z"
+last_release: "v0.22.1"
+last_release_at: "2026-10-27"
 ---
 
 # ManimCommunity/manim

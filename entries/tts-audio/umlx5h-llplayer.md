@@ -16,7 +16,7 @@ license: "GPL-3.0"
 language: "C#"
 created: "2025-01-31"
 updated: "2026-11-05"
-stars: 4615
+stars: 4620
 forks: 290
 open_issues: 61
 commits_30d: 0
@@ -24,7 +24,9 @@ commits_90d: 0
 commit_cadence: "stale"
 size_kb: 158932
 archived: false
-fetched_at: "2026-11-09T00:30:24.526230+00:00"
+fetched_at: "2026-11-09T21:43:44Z"
+last_release: "v0.3.0"
+last_release_at: "2026-04-19"
 ---
 
 # umlx5h/LLPlayer

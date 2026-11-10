@@ -4,23 +4,25 @@ name: "Motion Prompt"
 genre: "video-gen"
 url: "https://github.com/showheyohtaki/motion-prompt"
 license: "MIT"
-stars: 1175
+stars: 1568
 language: "JavaScript"
 created: "2026-10-14"
-updated: 2026-10-29
+updated: "2026-10-29"
 added: "2026-11-03"
 sources:
   - "https://x.com/daaihq/status/2117446567284367459"
 flags: []
 risk_notes: ""
-forks: 134
+forks: 167
 open_issues: 0
 commits_30d: 15
 commits_90d: 15
-commit_cadence: weekly
+commit_cadence: "weekly"
 size_kb: 32948
 archived: false
-fetched_at: "2026-11-03T15:43:25Z"
+fetched_at: "2026-11-09T21:46:32Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # Motion Prompt

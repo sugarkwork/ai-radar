@@ -6,22 +6,24 @@ url: https://github.com/Moh4696/open-3d-skills
 license: MIT
 language: JavaScript
 created: 2026-10-31
-updated: 2026-10-31
+updated: "2026-11-09"
 added: 2026-11-04
 first_seen: 2026-11-04
 sources:
   - https://x.com/dextune/status/2117522164140347849
 flags: []
 risk_notes: ""
-stars: 220
-forks: 31
-open_issues: 0
-commits_30d: 3
-commits_90d: 3
-commit_cadence: monthly
-size_kb: 1714
+stars: 319
+forks: 42
+open_issues: 1
+commits_30d: 4
+commits_90d: 4
+commit_cadence: "weekly"
+size_kb: 1715
 archived: false
-fetched_at: "2026-11-04T01:23:46Z"
+fetched_at: "2026-11-09T21:31:24Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # open-3d-skills

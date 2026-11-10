@@ -15,16 +15,18 @@ repo: "ausboss/ComfyUI-AusBoss-Model-Downloader"
 license: "MIT"
 language: "Python"
 created: "2026-11-06"
-updated: "2026-11-07"
+updated: "2026-11-09"
 stars: 9
 forks: 1
-open_issues: 0
-commits_30d: 4
-commits_90d: 4
+open_issues: 1
+commits_30d: 5
+commits_90d: 5
 commit_cadence: "weekly"
-size_kb: 150
+size_kb: 152
 archived: false
-fetched_at: "2026-11-09T00:30:50.313886+00:00"
+fetched_at: "2026-11-09T21:39:27Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # ausboss/ComfyUI-AusBoss-Model-Downloader

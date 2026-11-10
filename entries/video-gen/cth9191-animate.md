@@ -4,23 +4,25 @@ name: "Animate"
 genre: "video-gen"
 url: "https://github.com/cth9191/animate"
 license: "MIT"
-stars: 1441
+stars: 1703
 language: "JavaScript"
 created: "2026-10-04"
-updated: 2026-10-05
+updated: "2026-10-05"
 added: "2026-11-03"
 sources:
   - "https://x.com/daaihq/status/2117446567284367459"
 flags: []
 risk_notes: ""
-forks: 186
-open_issues: 6
-commits_30d: 1
+forks: 217
+open_issues: 5
+commits_30d: 0
 commits_90d: 10
-commit_cadence: monthly
+commit_cadence: "monthly"
 size_kb: 9385
 archived: false
-fetched_at: "2026-11-03T15:43:10Z"
+fetched_at: "2026-11-09T21:44:25Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # Animate

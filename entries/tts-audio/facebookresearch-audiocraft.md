@@ -4,23 +4,25 @@ name: "AudioCraft / MusicGen"
 genre: "tts-audio"
 url: "https://github.com/facebookresearch/audiocraft"
 license: "MIT"
-stars: 23812
+stars: 23835
 language: "Jupyter Notebook"
 created: "2023-06-08"
-updated: 2026-03-03
+updated: "2026-03-03"
 added: "2026-11-03"
 sources:
   - "https://x.com/RoundtableSpace/status/2117357328152350832"
 flags: []
 risk_notes: ""
-forks: 2714
+forks: 2713
 open_issues: 401
 commits_30d: 0
 commits_90d: 0
-commit_cadence: stale
+commit_cadence: "stale"
 size_kb: 25025
 archived: false
-fetched_at: "2026-11-03T15:42:44Z"
+fetched_at: "2026-11-09T21:43:02Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # AudioCraft / MusicGen

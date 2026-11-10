@@ -5,24 +5,26 @@ genre: model-serving
 url: https://github.com/Prefrontal-AI/latent-sparse-attention
 author: Prefrontal AI
 license: Apache-2.0
-stars: 389
+stars: 452
 language: Python
 created: 2026-10-27
-updated: 2026-11-04
+updated: "2026-11-09"
 added: 2026-11-04
 first_seen: 2026-11-03
 source_post: https://x.com/_avichawla/status/2117578508918772134
 sources:
   - https://arxiv.org/abs/2610.42147
   - https://x.com/QwenAIFans/status/2117537750689947650
-forks: 45
-open_issues: 3
+forks: 55
+open_issues: 12
 commits_30d: 7
 commits_90d: 7
-commit_cadence: weekly
-size_kb: 3838
+commit_cadence: "weekly"
+size_kb: 3123
 archived: false
-fetched_at: "2026-11-04T22:51:16Z"
+fetched_at: "2026-11-09T21:40:27Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # Latent Sparse Attention (LSA)

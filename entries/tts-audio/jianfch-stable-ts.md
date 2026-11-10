@@ -9,7 +9,7 @@ stars: 2282
 language: "Python"
 created: "2022-09-29"
 updated: "2026-05-30"
-forks: 249
+forks: 248
 open_issues: 0
 size_kb: 5114
 archived: true
@@ -24,7 +24,7 @@ type: "repo"
 added: "2026-11-07"
 first_seen: "2026-11-07"
 sources: ["https://x.com/heyrimsha/status/2118662273044807904"]
-fetched_at: "2026-11-07T18:38:44Z"
+fetched_at: "2026-11-09T21:43:08Z"
 ---
 
 # stable-ts — Whisper の単語レベルタイムスタンプを補正し SRT/VTT/ASS に書き出す CLI/ライブラリ

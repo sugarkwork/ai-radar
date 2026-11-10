@@ -9,24 +9,25 @@ pricing_detail: "コード・重みとも無償公開。ただし重みの DINOv
 signup_required: false
 repo: "cvg/FlexGlue"
 license: "MIT"
-stars: 244
+stars: 304
 language: "Python"
 created: "2026-10-25"
-updated: "2026-11-03"
+updated: "2026-11-06"
 added: "2026-11-06"
 first_seen: "2026-11-06"
 sources: ["https://x.com/tokufxug/status/2118163149983781219"]
 flags: []
 risk_notes: "コードは MIT だが、重み flexglue.pth は DINOv3 ConvNeXt-B を含み DINOv3 License で利用が制限される（商用利用は要確認）。実用は CUDA GPU 前提で、重みは約 567MB。README は ONNX モデルが COLMAP に使われると書くが、リポジトリのチェックリストでは COLMAP 統合は未チェック（進行中）。学習・評価コードは未公開。"
-forks: 13
-open_issues: 1
+forks: 15
+open_issues: 2
 commits_30d: 13
-commit_cadence: "daily"
-size_kb: 3516
+commit_cadence: "weekly"
+size_kb: 3528
 archived: false
-fetched_at: "2026-11-06T20:38:56Z"
-last_release: "v0.1"
-last_release_at: "2026-10-26"
+fetched_at: "2026-11-09T21:30:43Z"
+last_release: ""
+last_release_at: ""
+commits_90d: 13
 ---
 
 # FlexGlue — 密特徴で対応付ける画像マッチングと「似た別場所」の棄却

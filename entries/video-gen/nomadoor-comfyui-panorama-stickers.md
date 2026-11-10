@@ -8,7 +8,7 @@ license: MIT
 stars: 182
 language: JavaScript
 created: 2026-03-01
-updated: 2026-11-06
+updated: "2026-11-05"
 added: 2026-11-04
 first_seen: 2026-11-03
 source_post: https://x.com/noma_door/status/2117646383863972084
@@ -16,11 +16,13 @@ sources: []
 forks: 17
 open_issues: 1
 commits_30d: 84
-commits_90d: 95
-commit_cadence: daily
+commits_90d: 93
+commit_cadence: "daily"
 size_kb: 16331
 archived: false
-fetched_at: "2026-11-06T22:53:52Z"
+fetched_at: "2026-11-09T21:46:04Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # ComfyUI Panorama Stickers

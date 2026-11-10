@@ -6,22 +6,24 @@ url: https://github.com/morluto/awesome-reverse-engineering
 license: CC0-1.0
 language: Python
 created: 2026-10-09
-updated: 2026-10-30
+updated: "2026-11-09"
 added: 2026-11-04
 first_seen: 2026-11-04
 sources:
   - https://x.com/Smartpigai/status/2117439282659078336
 flags: []
 risk_notes: ""
-stars: 1723
-forks: 385
-open_issues: 6
-commits_30d: 100
+stars: 1991
+forks: 440
+open_issues: 8
+commits_30d: 99
 commits_90d: 100
-commit_cadence: daily
-size_kb: 1609
+commit_cadence: "daily"
+size_kb: 1423
 archived: false
-fetched_at: "2026-11-04T01:11:30Z"
+fetched_at: "2026-11-09T21:41:14Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # awesome-reverse-engineering

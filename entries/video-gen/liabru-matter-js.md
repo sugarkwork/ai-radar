@@ -16,7 +16,7 @@ license: "MIT"
 language: "JavaScript"
 created: "2014-02-19"
 updated: "2026-09-30"
-stars: 18611
+stars: 18614
 forks: 2001
 open_issues: 280
 commits_30d: 0
@@ -24,7 +24,9 @@ commits_90d: 21
 commit_cadence: "monthly"
 size_kb: 22802
 archived: false
-fetched_at: "2026-11-09T00:31:17.760607+00:00"
+fetched_at: "2026-11-09T21:45:37Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # liabru/matter-js

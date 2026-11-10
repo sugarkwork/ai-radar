@@ -16,15 +16,17 @@ license: "MIT"
 language: "JavaScript"
 created: "2026-08-12"
 updated: "2026-11-06"
-stars: 2778
-forks: 237
+stars: 2815
+forks: 238
 open_issues: 81
-commits_30d: 100
+commits_30d: 77
 commits_90d: 100
 commit_cadence: "daily"
 size_kb: 18522
 archived: false
-fetched_at: "2026-11-09T00:30:43.393735+00:00"
+fetched_at: "2026-11-09T21:33:57Z"
+last_release: "v0.1.29"
+last_release_at: "2026-11-06"
 ---
 
 # NanmiCoder/dsh-agent-teams

@@ -5,24 +5,25 @@ genre: "mcp-server"
 url: "https://github.com/superdesigndev/treg"
 repo: "superdesigndev/treg"
 license: "Apache-2.0 + 追加条項（GitHub API は NOASSERTION）"
-stars: 7255
+stars: 7723
 language: "Python"
 created: "2026-07-15"
-updated: "2026-11-06"
+updated: "2026-11-09"
 added: "2026-11-06"
 first_seen: "2026-11-06"
 sources: ["https://x.com/MengTo/status/2118384737626857724"]
 flags: []
 risk_notes: "ライセンスは API 上 NOASSERTION で、実体は Apache-2.0＋追加条項：自社利用・セルフホストは自由だが、競合するホスティング型レジストリとして第三者に再配布するには書面許可が要る（treg.to の API を自社製品から課金パススルーで呼ぶのは許可）。実運用は有料：新規アカウントの $1.00 を使い切るとプリペイド残高へのチャージが必須（データ元の原価でマークアップなし、というのはベンダーの主張で独立検証はしていない）。CLI は `curl -fsSL https://treg.to/install.sh | sh` で入れる形式なので中身を確認してから実行したい。CLI は匿名の利用ログを PostHog に送る（既定オン、TREG_TELEMETRY=0 で停止）。README の『4,100+ tools / 126 providers』『no markup』はベンダー公表値。rea-growth が出す数値は第三者のデータ販売API由来で、Growth の因果はスキル自身も INFERRED と明記しており断定材料にはならない。投稿の返信欄にある Cloudflare の security-audit スキルや /untangle-codebase は無関係なリンク塊で、主題は treg。"
-forks: 654
-open_issues: 263
+forks: 704
+open_issues: 291
 commits_30d: 100
 commit_cadence: "daily"
-size_kb: 133449
+size_kb: 131893
 archived: false
-fetched_at: "2026-11-06T08:38:30Z"
-last_release: "v0.30.0"
-last_release_at: "2026-11-05"
+fetched_at: "2026-11-09T21:39:16Z"
+last_release: ""
+last_release_at: ""
+commits_90d: 100
 ---
 
 # treg — エージェント用ツールの OpenRouter。1トークンで 4,100+ API を従量課金で呼び、rea-growth スキルで競合の成長を分解する

@@ -16,15 +16,17 @@ license: "NOASSERTION"
 language: "Python"
 created: "2026-09-05"
 updated: "2026-10-17"
-stars: 994
-forks: 123
+stars: 1027
+forks: 127
 open_issues: 0
 commits_30d: 1
 commits_90d: 5
 commit_cadence: "monthly"
 size_kb: 4161
 archived: false
-fetched_at: "2026-11-09T00:31:28.097679+00:00"
+fetched_at: "2026-11-09T21:45:15Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # Kablex/ComfyUI-Ref2VA-VSA

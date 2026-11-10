@@ -5,23 +5,25 @@ genre: "agent-framework"
 url: "https://github.com/langchain-ai/social-media-agent"
 repo: "langchain-ai/social-media-agent"
 license: "MIT"
-stars: 2987
+stars: 3006
 language: "TypeScript"
 created: "2024-11-21"
-updated: 2026-11-05
+updated: "2026-11-09"
 added: "2026-11-07"
 first_seen: "2026-11-07"
 sources: ["https://x.com/abir35627/status/2118648224202551573"]
 flags: []
 risk_notes: "① Supabase は README と .env.full.example 上「画像の保存」用で、投稿本文の保存先ではない。使用済みリンクは LangGraph の BaseStore（namespace saved_data/latent_space）に置かれる。② README に ToS・レート制限の記述は無い。実効上限は X API / LinkedIn API の契約プラン側で決まり、Arcade 経由でも同一アカウントの枠を消費する。③ 設計上そのままでは自動投稿にならない。interrupt で人間の承認が入るため、cron を回しても承認待ちで滞留する。④ Arcade だけでは X のメディアアップロードができず、X 開発者アカウントが別途必要。⑤ LinkedIn 企業ページ投稿は Advertising API の有効化＋ページ側ロール＋ページによるアプリ認証＋審査フォーム提出が前提で、審査待ちが出る。⑥ プロンプト既定値は LangChain 自身の AI 系ツイートを few-shot にしているため、他社ブランドでは BUSINESS_CONTEXT / TWEET_EXAMPLES の差し替えが実質必須。⑦ package.json の name/description が starter template のまま（example-graph / \"A starter template for creating a LangGraph workflow\"）で、README との整備差がある。⑧ langgraph.json に14グラフ登録されており機能は多いが、読むべきコード量も多い。⑨ `langgraph:in_mem:up` は毎回 @langchain/langgraph-cli の最新を npx で取得するため初回に対話承諾が必要で、CLI バージョンが固定されない。⑩ フル構成の外部依存は Anthropic / LangSmith / FireCrawl / Arcade / X / LinkedIn / Supabase ＋任意で Vertex AI / GitHub / Slack と多く、キー管理の方が本体より重い。"
-forks: 546
-open_issues: 23
-commits_30d: 26
-size_kb: 7723
+forks: 549
+open_issues: 21
+commits_30d: 32
+size_kb: 6323
 archived: false
-commits_90d: 91
-commit_cadence: daily
-fetched_at: "2026-11-07T05:25:19Z"
+commits_90d: 96
+commit_cadence: "daily"
+fetched_at: "2026-11-09T21:33:32Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # Social Media Agent — URL 1本から X / LinkedIn 投稿を作り、人間の承認を挟んで投稿する LangGraph アプリ

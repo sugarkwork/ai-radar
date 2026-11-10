@@ -4,10 +4,10 @@ name: oh-my-mermaid（omm）
 genre: coding-agent
 url: https://github.com/oh-my-mermaid/oh-my-mermaid
 license: MIT
-stars: 3380
+stars: 3389
 language: TypeScript
 created: 2026-03-22
-updated: 2026-04-07
+updated: "2026-04-07"
 added: 2026-11-05
 first_seen: 2026-10-26
 source_post: https://x.com/opensourcelab9/status/2114847055210553442
@@ -20,10 +20,10 @@ size_kb: 2359
 archived: false
 commits_30d: 0
 commits_90d: 0
-commit_cadence: stale
-fetched_at: "2026-11-05T10:24:55Z"
-last_release: v0.2.0
-last_release_at: 2026-03-25
+commit_cadence: "stale"
+fetched_at: "2026-11-09T21:36:36Z"
+last_release: "v0.2.0"
+last_release_at: "2026-03-25"
 ---
 
 # oh-my-mermaid（omm）

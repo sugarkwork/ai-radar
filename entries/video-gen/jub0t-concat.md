@@ -5,22 +5,24 @@ name: "Concat"
 genre: "video-gen"
 url: "https://github.com/jub0t/Concat"
 license: "AGPL-3.0"
-stars: 15837
+stars: 16151
 language: "Rust"
 created: "2026-08-25"
-updated: "2026-11-08"
-forks: 1973
-open_issues: 247
-commits_30d: "100+"
-commits_90d: "100+"
+updated: "2026-11-09"
+forks: 2005
+open_issues: 256
+commits_30d: 100
+commits_90d: 100
 commit_cadence: "daily"
 size_kb: 79582
 archived: false
 added: "2026-11-09"
-fetched_at: "2026-11-09T03:42:27Z"
+fetched_at: "2026-11-09T21:45:07Z"
 flags: ["unverified"]
 risk_notes: "AGPL-3.0。モデルには別ライセンスの可能性がある。オフライン動作や4K出力は当方未検証。 実行・品質は未検証。"
 sources: ["https://x.com/i/status/2119588334615802105", "https://github.com/jub0t/Concat"]
+last_release: "v0.2.9"
+last_release_at: "2026-11-05"
 ---
 
 # Concat

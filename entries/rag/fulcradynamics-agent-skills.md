@@ -13,7 +13,7 @@ forks: 11
 open_issues: 38
 commits_30d: 10
 commit_cadence: "weekly"
-commits_90d: 80
+commits_90d: 79
 size_kb: 1237
 archived: false
 last_release: ""
@@ -24,7 +24,7 @@ type: "repo"
 added: "2026-11-09"
 first_seen: "2026-11-09"
 sources: ["https://x.com/sumika45379/status/2113469217362333991"]
-fetched_at: "2026-11-09T00:51:21Z"
+fetched_at: "2026-11-09T21:42:11Z"
 ---
 
 # Fulcra Agent Skills — エージェントの記憶と共有文脈をFulcraに置くSKILL.md集

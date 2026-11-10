@@ -4,23 +4,25 @@ name: "shuohao-skills"
 genre: video-gen
 url: "https://github.com/eternityspring/shuohao-skills"
 license: "Apache-2.0"
-stars: 6003
+stars: 6335
 language: "JavaScript"
 created: "2026-08-06"
-updated: 2026-10-26
+updated: "2026-11-09"
 added: "2026-11-03"
 first_seen: "2026-11-03"
 sources: []
 flags: []
 risk_notes: ""
-forks: 833
+forks: 896
 open_issues: 1
-commits_30d: 19
-commit_cadence: weekly
-size_kb: 15629
+commits_30d: 15
+commit_cadence: "weekly"
+size_kb: 15567
 archived: false
 commits_90d: 100
-fetched_at: "2026-11-04T22:52:44Z"
+fetched_at: "2026-11-09T21:44:42Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # shuohao-skills

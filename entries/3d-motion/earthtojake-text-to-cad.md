@@ -5,26 +5,26 @@ genre: "3d-motion"
 url: "https://github.com/earthtojake/text-to-cad"
 author: "earthtojake (Thompson Labs LLC)"
 license: "MIT"
-stars: 25757
+stars: 25908
 language: "Python"
 created: "2026-04-22"
-updated: "2026-11-07"
-forks: 2446
-open_issues: 46
-size_kb: 436278
+updated: "2026-11-09"
+forks: 2464
+open_issues: 52
+size_kb: 440312
 archived: false
-commits_30d: 51
+commits_30d: 45
 commits_90d: 100
 commit_cadence: "daily"
-last_release: "v0.10.4"
-last_release_at: "2026-11-06"
+last_release: "v0.11.4"
+last_release_at: "2026-11-09"
 flags: ["unverified"]
 risk_notes: "有効性は配布元の設計説明と自己申告のみで、生成された CAD の寸法精度・製造可能性を第三者が測定した結果は確認していない。DFM/DfAM の検査は mesh 計測と規則の引用だが、規則の妥当性・合否閾値は未検証。PyPI の分類は Development Status :: 4 - Beta。Python 3.14 固定で 3.13 以前では動かない。Windows 11 の Smart App Control 有効環境では OCP のネイティブモジュールが遮断される。既定でテレメトリ有効。リポジトリサイズは API 表記 436,278 KB。"
 type: "repo"
 added: "2026-11-07"
 first_seen: "2026-11-07"
 sources: ["https://x.com/opensourcelab9/status/2118601779063701949"]
-fetched_at: "2026-11-07T15:52:19Z"
+fetched_at: "2026-11-09T21:30:45Z"
 ---
 
 # text-to-cad — エージェントが build123d で書く3D CAD 生成プラグイン（STEP/STL/3MF + MCP）

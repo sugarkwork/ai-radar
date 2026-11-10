@@ -6,24 +6,25 @@ url: "https://github.com/ChenDarYen/NitroFusion2"
 author: "ChenDarYen"
 repo: "ChenDarYen/NitroFusion2"
 license: "Apache-2.0"
-stars: 24
+stars: 50
 language: "Python"
 created: "2026-10-27"
-updated: "2026-11-05"
+updated: "2026-11-08"
 added: "2026-11-06"
 first_seen: "2026-11-06"
 sources: ["https://x.com/Machinedelusion/status/2116668287656333409"]
 flags: ["unverified"]
 risk_notes: "発見元の投稿（x.com/Machinedelusion/...）は別プロジェクト WeVisCut の宣伝で、NitroFusion2 の説明は一切ない。本項目の根拠はリポジトリ/モデルカードの一次情報のみ。README の「1 step で sharp text」「比較画像」は著者の主張で、第三者計測や条件記載はない。必要 VRAM は README・モデルカードに記載がなく未検証（bf16 重みが約 12.3GB、Q2_K_4XS で約 2.0GB）。リリース/タグが無いため固定バージョンでの導入はできず、clone 時点の main に追従する。カタログに image-gen ジャンルが無いため、同じ扱いをしている画像系モデル（Anima RGBA 等）に合わせて video-gen に分類した（実体は text-to-image）。ライセンスは本体・重みとも Apache-2.0、土台の Tongyi-MAI/Z-Image-Turbo も apache-2.0。"
-forks: 1
-open_issues: 1
-commits_30d: 5
+forks: 7
+open_issues: 0
+commits_30d: 6
 commit_cadence: "weekly"
-size_kb: 5012
+size_kb: 5015
 archived: false
-fetched_at: "2026-11-06T13:09:20Z"
+fetched_at: "2026-11-09T21:44:23Z"
 last_release: ""
 last_release_at: ""
+commits_90d: 6
 ---
 
 # NitroFusion2 — 1〜2ステップで 1024px 画像を出す text-to-image 蒸留モデル

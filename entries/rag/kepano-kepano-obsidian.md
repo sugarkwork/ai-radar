@@ -16,15 +16,17 @@ license: "MIT"
 language: "unknown"
 created: "2023-09-12"
 updated: "2026-01-09"
-stars: 5405
-forks: 437
+stars: 5521
+forks: 448
 open_issues: 3
 commits_30d: 0
 commits_90d: 0
 commit_cadence: "stale"
 size_kb: 261
 archived: false
-fetched_at: "2026-11-09T00:31:09.418045+00:00"
+fetched_at: "2026-11-09T21:42:22Z"
+last_release: "2.2.0"
+last_release_at: "2025-10-06"
 ---
 
 # kepano/kepano-obsidian

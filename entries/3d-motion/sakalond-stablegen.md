@@ -4,25 +4,25 @@ name: "StableGen"
 genre: 3d-motion
 url: "https://github.com/sakalond/StableGen"
 license: "GPL-3.0"
-stars: 1462
+stars: 1632
 language: "Python"
 created: "2025-05-15"
-updated: 2026-11-04
+updated: "2026-11-04"
 added: "2026-11-03"
 first_seen: "2026-11-03"
 sources: []
 flags: []
 risk_notes: ""
-forks: 142
-open_issues: 9
+forks: 163
+open_issues: 7
 commits_30d: 100
-commit_cadence: daily
+commit_cadence: "daily"
 size_kb: 491148
 archived: false
 commits_90d: 100
-fetched_at: "2026-11-04T22:53:54Z"
-last_release: v0.5.0
-last_release_at: 2026-11-04
+fetched_at: "2026-11-09T21:31:38Z"
+last_release: "v0.5.0"
+last_release_at: "2026-11-04"
 ---
 
 # StableGen

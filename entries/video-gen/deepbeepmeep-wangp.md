@@ -4,25 +4,25 @@ name: "WanGP"
 genre: video-gen
 url: "https://github.com/deepbeepmeep/WanGP"
 license: "WanGP Community License 2.0"
-stars: 11441
+stars: 11549
 language: "Python"
 created: "2025-02-27"
-updated: 2026-11-06
+updated: "2026-11-09"
 added: "2026-11-03"
 first_seen: "2026-11-03"
 sources: []
 flags: []
 risk_notes: ""
-forks: 1855
-open_issues: 1379
-commits_30d: 63
-commit_cadence: daily
-size_kb: 108084
+forks: 1875
+open_issues: 1384
+commits_30d: 66
+commit_cadence: "daily"
+size_kb: 109344
 archived: false
 commits_90d: 100
-fetched_at: "2026-11-06T22:52:24Z"
-last_release: manager-v0.1.14
-last_release_at: 2026-11-03
+fetched_at: "2026-11-09T21:44:35Z"
+last_release: "manager-v0.1.15"
+last_release_at: "2026-11-08"
 ---
 
 # WanGP

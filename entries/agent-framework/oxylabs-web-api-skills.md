@@ -4,10 +4,10 @@ name: "web-api-skills"
 genre: agent-framework
 url: "https://github.com/oxylabs/web-api-skills"
 license: "MIT"
-stars: 11
+stars: 13
 language: "Python"
 created: "2026-08-23"
-updated: 2026-10-13
+updated: "2026-11-09"
 added: "2026-11-03"
 first_seen: "2026-11-03"
 sources: []
@@ -15,12 +15,14 @@ flags: []
 risk_notes: ""
 forks: 1
 open_issues: 0
-commits_30d: 3
-commit_cadence: monthly
-size_kb: 51
+commits_30d: 11
+commit_cadence: "weekly"
+size_kb: 103
 archived: false
-commits_90d: 20
-fetched_at: "2026-11-03T23:05:57Z"
+commits_90d: 30
+fetched_at: "2026-11-09T21:34:23Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # web-api-skills

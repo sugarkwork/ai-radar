@@ -16,7 +16,7 @@ license: "MIT"
 language: "Python"
 created: "2026-07-15"
 updated: "2026-07-15"
-stars: 1847
+stars: 1866
 forks: 165
 open_issues: 4
 commits_30d: 0
@@ -24,7 +24,9 @@ commits_90d: 0
 commit_cadence: "stale"
 size_kb: 6749
 archived: false
-fetched_at: "2026-11-09T00:31:07.833965+00:00"
+fetched_at: "2026-11-09T21:46:19Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # pyang5166/gbro-collage-broll

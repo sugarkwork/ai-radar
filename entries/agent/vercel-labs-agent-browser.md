@@ -5,22 +5,24 @@ name: "agent-browser"
 genre: "agent"
 url: "https://github.com/vercel-labs/agent-browser"
 license: "Apache-2.0"
-stars: 47766
+stars: 48395
 language: "Rust"
 created: "2026-01-11"
-updated: "2026-11-08"
-forks: 3268
-open_issues: 524
-commits_30d: "100+"
-commits_90d: "100+"
+updated: "2026-11-09"
+forks: 3296
+open_issues: 541
+commits_30d: 100
+commits_90d: 100
 commit_cadence: "daily"
-size_kb: 31766
+size_kb: 31475
 archived: false
 added: "2026-11-09"
-fetched_at: "2026-11-09T03:42:27Z"
+fetched_at: "2026-11-09T21:32:08Z"
 flags: ["unverified"]
 risk_notes: "Apache-2.0。要素が隠れている等でクリック失敗する場合がある。更新された画面の古いrefを再利用しない。 実行・品質は未検証。"
 sources: ["https://x.com/i/status/2119588334615802105", "https://github.com/vercel-labs/agent-browser"]
+last_release: "v0.41.2"
+last_release_at: "2026-11-03"
 ---
 
 # agent-browser

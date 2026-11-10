@@ -16,15 +16,17 @@ license: "MIT"
 language: "JavaScript"
 created: "2015-02-20"
 updated: "2025-09-01"
-stars: 32380
-forks: 2961
+stars: 32390
+forks: 2962
 open_issues: 862
 commits_30d: 0
 commits_90d: 0
 commit_cadence: "stale"
 size_kb: 358131
 archived: false
-fetched_at: "2026-11-09T00:31:16.841890+00:00"
+fetched_at: "2026-11-09T21:43:50Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # airbnb/lottie-web

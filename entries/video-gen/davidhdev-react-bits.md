@@ -16,16 +16,18 @@ license: "NOASSERTION"
 language: "JavaScript"
 created: "2024-08-06"
 updated: "2026-11-08"
-stars: 51514
-forks: 2581
-open_issues: 0
-commits_30d: 46
+stars: 51591
+forks: 2584
+open_issues: 1
+commits_30d: 36
 commits_90d: 100
 commit_cadence: "daily"
 size_kb: 374129
 archived: false
-fetched_at: "2026-11-09T00:31:23.497514+00:00"
+fetched_at: "2026-11-09T21:44:33Z"
 license_detail: "原チェックのLICENSE/README解釈: MIT + Commons Clause v1.0。APIのSPDX判定とは別。利用前に現行本文を確認。"
+last_release: ""
+last_release_at: ""
 ---
 
 # DavidHDev/react-bits

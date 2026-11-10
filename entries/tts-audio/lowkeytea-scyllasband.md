@@ -16,15 +16,17 @@ license: "Apache-2.0"
 language: "C++"
 created: "2026-07-19"
 updated: "2026-11-07"
-stars: 27
+stars: 29
 forks: 2
 open_issues: 2
-commits_30d: 12
+commits_30d: 11
 commits_90d: 24
 commit_cadence: "weekly"
 size_kb: 260394
 archived: false
-fetched_at: "2026-11-09T00:31:01.127323+00:00"
+fetched_at: "2026-11-09T21:43:15Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # lowkeytea/scyllasband

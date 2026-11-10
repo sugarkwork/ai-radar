@@ -6,7 +6,7 @@ url: "https://github.com/StargazerX0/SpecPilot"
 author: "StargazerX0"
 repo: "StargazerX0/SpecPilot"
 license: "Apache-2.0"
-stars: 169
+stars: 183
 language: "Python"
 created: "2026-11-02"
 updated: "2026-11-03"
@@ -15,15 +15,16 @@ first_seen: "2026-11-06"
 sources: ["https://x.com/ai_hakase_/status/2118149307970867503"]
 flags: []
 risk_notes: "H100 80GB SXM5（sm_90）または RTX PRO 6000 Blackwell（sm_120a）の実機専用で、CUDA カーネルはこの2アーキ向けにビルドされるため他 GPU・CPU では動かない。リリース・タグが無く（/releases/latest は 404）、main 1ブランチ・コミットは初回の1件（2026-11-02）のみなので、バージョン固定はコミット SHA でしか行えない。配布物は自律探索ループ本体ではなく、そのループが発見した6デプロイ分の最終エンジンと検証スクリプト（探索フレームワークの公開予定は issue #2 で未回答）。初回起動は CUDA/Triton/DeepGEMM の JIT コンパイルで、README 自身が初回計測が 10–15% 遅いと注記しており warm-up が必須。"
-forks: 9
+forks: 11
 open_issues: 2
 commits_30d: 1
-commit_cadence: "unknown"
+commit_cadence: "monthly"
 size_kb: 8531
 archived: false
-fetched_at: "2026-11-06T19:46:05Z"
+fetched_at: "2026-11-09T21:40:29Z"
 last_release: ""
 last_release_at: ""
+commits_90d: 1
 ---
 
 # SpecPilot — 投機的デコーディングをデプロイ毎に最適化した推論エンジン群（SGLang ベース / OpenAI 互換）

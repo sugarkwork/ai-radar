@@ -4,23 +4,25 @@ name: "Kronos"
 genre: finance-quant
 url: "https://github.com/shiyu-coder/Kronos"
 license: "MIT"
-stars: 46488
+stars: 47426
 language: "Python"
 created: "2025-07-01"
-updated: 2026-04-13
+updated: "2026-04-13"
 added: "2026-11-03"
 first_seen: "2026-11-03"
 sources: []
 flags: []
 risk_notes: ""
-forks: 7660
-open_issues: 295
+forks: 7839
+open_issues: 298
 commits_30d: 0
 commits_90d: 0
-commit_cadence: stale
+commit_cadence: "stale"
 size_kb: 9539
 archived: false
-fetched_at: "2026-11-03T22:57:50Z"
+fetched_at: "2026-11-09T21:37:49Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # Kronos

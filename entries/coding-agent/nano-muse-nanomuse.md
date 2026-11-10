@@ -7,23 +7,25 @@ url: "https://github.com/nano-muse/nanoMuse"
 author: "nano-muse"
 license: "GPL-3.0"
 language: "Swift"
-stars: 3333
-forks: 400
-open_issues: 154
+stars: 3358
+forks: 402
+open_issues: 149
 created: "2026-09-23"
-updated: "2026-11-08"
-commits_30d: 0
-commits_90d: 0
-commit_cadence: "stale"
-size_kb: 121612
+updated: "2026-11-09"
+commits_30d: 100
+commits_90d: 100
+commit_cadence: "daily"
+size_kb: 120903
 archived: false
 risk_notes: "Meta Platformsとは無関係の独立コミュニティプロジェクト。MuseはMetaの商標。中国大陸の携帯番号登録が必要な場合がある。デスクトップ版は未公証・未署名。当方未インストール。 当方でインストール・動作・性能の実行検証はしていない。"
 sources: ["https://x.com/wmoto_ai/status/2119285380898050372", "https://github.com/nano-muse/nanoMuse", "https://github.com/nano-muse/nanoMuse/blob/main/README.md", "https://github.com/nano-muse/nanoMuse/blob/main/LICENSE"]
 added: "2026-11-09"
 first_seen: "2026-11-09"
 source_post: "https://x.com/wmoto_ai/status/2119285380898050372"
-fetched_at: "2026-11-09T03:14:33+00:00"
+fetched_at: "2026-11-09T21:36:30Z"
 flags: ["unverified"]
+last_release: "v1.0.9"
+last_release_at: "2026-10-29"
 ---
 
 # nanoMuse — 自分のデバイスで動くオープンソースパーソナルエージェント

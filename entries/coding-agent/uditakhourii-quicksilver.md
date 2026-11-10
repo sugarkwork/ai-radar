@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-09"
 first_seen: "2026-11-09"
 sources: ["https://x.com/thegreatest_sv/status/2114378197932617766"]
-fetched_at: "2026-11-09T16:40:21Z"
+fetched_at: "2026-11-09T21:36:56Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # quicksilver — 大量読み込みの判断を Jev に任せ、Claude には shortlist だけ渡す Claude Code Skill

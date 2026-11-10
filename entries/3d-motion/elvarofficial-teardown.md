@@ -4,23 +4,25 @@ name: "teardown"
 genre: "3d-motion"
 url: "https://github.com/elvarofficial/teardown"
 license: "MIT"
-stars: 1530
+stars: 2781
 language: "JavaScript"
 created: "2026-10-30"
-updated: 2026-10-31
+updated: "2026-10-31"
 added: "2026-11-03"
 sources:
   - "https://x.com/daaihq/status/2117446567284367459"
 flags: []
 risk_notes: ""
-forks: 235
-open_issues: 6
+forks: 429
+open_issues: 9
 commits_30d: 2
 commits_90d: 2
-commit_cadence: monthly
+commit_cadence: "monthly"
 size_kb: 18266
 archived: false
-fetched_at: "2026-11-03T15:42:09Z"
+fetched_at: "2026-11-09T21:30:51Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # teardown

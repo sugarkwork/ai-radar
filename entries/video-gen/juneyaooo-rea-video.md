@@ -15,16 +15,18 @@ repo: "JuneYaooo/rea-video"
 license: "Apache-2.0"
 language: "Python"
 created: "2026-10-29"
-updated: "2026-11-08"
-stars: 4467
-forks: 630
-open_issues: 3
-commits_30d: 71
-commits_90d: 71
+updated: "2026-11-09"
+stars: 5425
+forks: 775
+open_issues: 4
+commits_30d: 73
+commits_90d: 73
 commit_cadence: "daily"
-size_kb: 113404
+size_kb: 111909
 archived: false
-fetched_at: "2026-11-09T00:31:05.555517+00:00"
+fetched_at: "2026-11-09T21:45:13Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # JuneYaooo/rea-video

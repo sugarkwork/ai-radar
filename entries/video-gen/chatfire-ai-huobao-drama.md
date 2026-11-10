@@ -6,24 +6,24 @@ url: https://github.com/chatfire-AI/huobao-drama
 license: CC BY-NC-SA 4.0（README のバッジ。GitHub API は NOASSERTION）
 language: TypeScript
 created: 2026-01-05
-updated: 2026-11-01
+updated: "2026-11-05"
 added: 2026-11-04
 first_seen: 2026-11-04
 sources:
   - https://x.com/Manorgw/status/2117522416167759906
 flags: []
 risk_notes: "CC BY-NC-SA 4.0。商用利用は不可で、改変物も同じライセンスが必要。生成物の権利・商用利用は別途確認。"
-stars: 17001
-forks: 3170
-open_issues: 44
-commits_30d: 7
+stars: 17181
+forks: 3198
+open_issues: 46
+commits_30d: 8
 commits_90d: 100
-commit_cadence: weekly
-size_kb: 48205
+commit_cadence: "weekly"
+size_kb: 48185
 archived: false
-fetched_at: "2026-11-04T22:52:28Z"
-last_release: v4.0.10
-last_release_at: 2026-11-01
+fetched_at: "2026-11-09T21:44:20Z"
+last_release: "v4.0.11"
+last_release_at: "2026-11-05"
 ---
 
 # Huobao Drama（火宝短剧）

@@ -15,17 +15,19 @@ repo: "gl-transitions/gl-transitions"
 license: "NOASSERTION"
 language: "GLSL"
 created: "2017-05-20"
-updated: "2026-11-08"
-stars: 2237
+updated: "2026-11-09"
+stars: 2240
 forks: 329
-open_issues: 5
+open_issues: 1
 commits_30d: 100
 commits_90d: 100
 commit_cadence: "daily"
-size_kb: 659656
+size_kb: 659789
 archived: false
-fetched_at: "2026-11-09T00:31:25.902306+00:00"
+fetched_at: "2026-11-09T21:44:44Z"
 license_detail: "原チェックのLICENSE/README解釈: MIT (LICENSE text; API NOASSERTION)。APIのSPDX判定とは別。利用前に現行本文を確認。"
+last_release: "gl-transitions@3.2.0"
+last_release_at: "2026-11-09"
 ---
 
 # gl-transitions/gl-transitions

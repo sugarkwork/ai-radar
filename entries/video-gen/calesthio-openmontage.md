@@ -4,21 +4,23 @@ name: OpenMontage
 genre: video-gen
 url: https://github.com/calesthio/OpenMontage
 license: AGPL-3.0
-stars: 76491
+stars: 79079
 language: Python
 created: 2026-03-29
-updated: 2026-11-03
+updated: "2026-11-09"
 added: 2026-11-03
 sources:
   - https://x.com/its_ronc/status/2117523925618041112
-forks: 10148
-open_issues: 439
-commits_30d: 46
+forks: 10561
+open_issues: 325
+commits_30d: 100
 commits_90d: 100
-commit_cadence: daily
-size_kb: 77481
+commit_cadence: "daily"
+size_kb: 78414
 archived: false
-fetched_at: "2026-11-04T22:52:18Z"
+fetched_at: "2026-11-09T21:44:14Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # OpenMontage

@@ -6,10 +6,10 @@ url: "https://github.com/YOLOW92/pagesift"
 author: "YOLOW92"
 repo: "YOLOW92/pagesift"
 license: "AGPL-3.0"
-stars: 245
+stars: 256
 language: "Rust"
 created: "2026-10-20"
-updated: "2026-11-06"
+updated: "2026-11-09"
 added: "2026-11-06"
 first_seen: "2026-11-05"
 sources: ["https://x.com/Ryrenz/status/2118161886894080121"]
@@ -19,11 +19,12 @@ forks: 32
 open_issues: 0
 commits_30d: 100
 commit_cadence: "daily"
-size_kb: 41414
+size_kb: 34774
 archived: false
-fetched_at: "2026-11-06T19:10:33Z"
-last_release: "v1.1.3"
-last_release_at: "2026-11-06"
+fetched_at: "2026-11-09T21:39:21Z"
+last_release: "v1.2.4"
+last_release_at: "2026-11-09"
+commits_90d: 100
 ---
 
 # pagesift — URL・PDF・Office を Markdown/JSON に変換する自己ホスト型 MCP サーバ

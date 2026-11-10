@@ -7,8 +7,8 @@ url: "https://github.com/jtydhr88/ComfyUI-InstantHMR"
 author: "jtydhr88"
 license: "Apache-2.0"
 language: "JavaScript"
-stars: 43
-forks: 9
+stars: 52
+forks: 10
 open_issues: 0
 created: "2026-11-07"
 updated: "2026-11-08"
@@ -22,8 +22,10 @@ sources: ["https://x.com/jtydhr88/status/2119464947864207559", "https://github.c
 added: "2026-11-09"
 first_seen: "2026-11-08"
 source_post: "https://x.com/jtydhr88/status/2119464947864207559"
-fetched_at: "2026-11-09T01:07:34+00:00"
+fetched_at: "2026-11-09T21:31:07Z"
 flags: ["unverified"]
+last_release: "v1.1.0"
+last_release_at: "2026-11-08"
 ---
 
 # ComfyUI-InstantHMR — 写真・動画・ライブ人物モーション推定

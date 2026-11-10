@@ -4,23 +4,25 @@ name: "QuantSkills"
 genre: finance-quant
 url: "https://github.com/quantskills/quantskills"
 license: "unknown"
-stars: 2538
+stars: 2624
 language: "JavaScript"
 created: "2026-06-25"
-updated: 2026-11-04
+updated: "2026-11-09"
 added: "2026-11-03"
 first_seen: "2026-11-03"
 sources: []
 flags: []
 risk_notes: ""
-forks: 229
+forks: 242
 open_issues: 1
-commits_30d: 61
+commits_30d: 55
 commits_90d: 100
-commit_cadence: daily
-size_kb: 68094
+commit_cadence: "daily"
+size_kb: 68193
 archived: false
-fetched_at: "2026-11-04T22:53:49Z"
+fetched_at: "2026-11-09T21:37:44Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # QuantSkills

@@ -16,15 +16,17 @@ license: "Apache-2.0"
 language: "TypeScript"
 created: "2025-08-31"
 updated: "2026-11-09"
-stars: 114900
-forks: 9982
-open_issues: 89
+stars: 115363
+forks: 10019
+open_issues: 92
 commits_30d: 100
 commits_90d: 100
 commit_cadence: "daily"
-size_kb: 784966
+size_kb: 795033
 archived: false
-fetched_at: "2026-11-09T00:30:52.836417+00:00"
+fetched_at: "2026-11-09T21:35:12Z"
+last_release: "v15.13.0"
+last_release_at: "2026-11-09"
 ---
 
 # thedotmack/claude-mem

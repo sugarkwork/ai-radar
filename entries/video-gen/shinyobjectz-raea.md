@@ -16,16 +16,18 @@ license: "NOASSERTION"
 language: "Rust"
 created: "2026-10-18"
 updated: "2026-11-09"
-stars: 713
-forks: 49
-open_issues: 8
+stars: 1512
+forks: 105
+open_issues: 12
 commits_30d: 100
 commits_90d: 100
 commit_cadence: "daily"
-size_kb: 89761
+size_kb: 90679
 archived: false
-fetched_at: "2026-11-09T00:31:13.707269+00:00"
+fetched_at: "2026-11-09T21:46:27Z"
 license_detail: "原チェックのLICENSE/README解釈: FSL-1.1-ALv2。APIのSPDX判定とは別。利用前に現行本文を確認。"
+last_release: "v0.1.0"
+last_release_at: "2026-11-09"
 ---
 
 # shinyobjectz/raea

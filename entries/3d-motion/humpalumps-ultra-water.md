@@ -4,23 +4,25 @@ name: "Ultra Water"
 genre: 3d-motion
 url: "https://github.com/Humpalumps/Ultra-Water"
 license: "MIT"
-stars: 617
+stars: 653
 language: "JavaScript"
 created: "2026-10-28"
-updated: 2026-11-02
+updated: "2026-11-02"
 added: "2026-11-03"
 first_seen: "2026-11-03"
 sources: []
 flags: []
 risk_notes: ""
-forks: 86
+forks: 97
 open_issues: 0
 commits_30d: 20
 commits_90d: 20
-commit_cadence: daily
+commit_cadence: "daily"
 size_kb: 163
 archived: false
-fetched_at: "2026-11-03T22:58:10Z"
+fetched_at: "2026-11-09T21:30:58Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # Ultra Water

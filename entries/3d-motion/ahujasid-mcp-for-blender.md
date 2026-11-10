@@ -4,21 +4,23 @@ name: MCP for Blender
 genre: 3d-motion
 url: https://github.com/ahujasid/mcp-for-blender
 license: MIT
-stars: 33316
+stars: 33776
 language: Python
 created: 2025-03-07
-updated: 2026-11-04
+updated: "2026-11-04"
 added: 2026-11-03
 sources:
   - https://x.com/y0urdumble/status/2117396633889427646
-forks: 3020
-open_issues: 55
-commits_30d: 23
+forks: 3073
+open_issues: 53
+commits_30d: 22
 commits_90d: 97
-commit_cadence: daily
+commit_cadence: "daily"
 size_kb: 2106
 archived: false
-fetched_at: "2026-11-04T22:51:58Z"
+fetched_at: "2026-11-09T21:30:21Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # MCP for Blender

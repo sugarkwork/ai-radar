@@ -15,16 +15,18 @@ repo: "dsh-market/dsh-market"
 license: "MIT"
 language: "TypeScript"
 created: "2026-08-14"
-updated: "2026-11-08"
-stars: 11496
-forks: 439
-open_issues: 92
+updated: "2026-11-09"
+stars: 11675
+forks: 444
+open_issues: 96
 commits_30d: 100
 commits_90d: 100
 commit_cadence: "daily"
-size_kb: 23285
+size_kb: 23937
 archived: false
-fetched_at: "2026-11-09T00:30:38.311057+00:00"
+fetched_at: "2026-11-09T21:32:56Z"
+last_release: "v1.73.17"
+last_release_at: "2026-11-09"
 ---
 
 # dsh-market/dsh-market

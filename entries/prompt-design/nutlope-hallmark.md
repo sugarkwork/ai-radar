@@ -5,7 +5,7 @@ genre: "prompt-design"
 url: "https://github.com/Nutlope/hallmark"
 repo: "Nutlope/hallmark"
 license: "MIT"
-stars: 49068
+stars: 51710
 language: "CSS"
 created: "2026-04-27"
 updated: "2026-11-05"
@@ -14,13 +14,13 @@ first_seen: "2026-11-06"
 sources: ["https://x.com/opensourcelab9/status/2118601779063701949", "https://x.com/yozm_it/status/2118928933718823055?a=cjodEJSPnTqNRRgPDuQ&s=46", "https://x.com/yozm_it/status/2118928933718823055", "https://github.com/thedotmack/claude-mem", "https://github.com/Nutlope/hallmark", "https://github.com/anthropics/skills", "https://github.com/HKUDS/DeepTutor", "https://github.com/max-sixty/worktrunk"]
 flags: ["unverified"]
 risk_notes: "リリースもタグも無い（`/releases` と `/tags` が空、バージョンは SKILL.md と package.json の 2.0.0 表記のみ）。更新は活発だが 30日85コミットの大半が数十件のコミュニティPRを同一分にまとめてマージしたもので、内容はテーマ検証・sloplint・capture のバグ修正が中心（docs/スクリプトのみで実行バイナリは無い）。未解決が issue 25・PR 15。リポジトリは 228MB（site/ と docs/screenshots/ の画像が主因）で、インストールされるスキル本体は 7.1MB。ブラウザ検査（`--render`）は puppeteer-core + Chrome が要り、無い場合は『render tier not run』と出して静的検査だけに落ちる（実測）。同期間の★増分『+7,600』は投稿の主張で、stargazers API が 4万件超のページを返さない（page 400 で 404）ため検証できない。★は API 値 49,068 を採る（投稿の『4.8万』とほぼ一致、やや過小）。同梱の写真755枚は Wikimedia Commons の CC0/PD/CC BY/CC BY-SA で、CC BY 系は著作者・ライセンス・元ページの表示が条件。スキルはエージェントのフル権限で走る（skills.sh の警告）ので、導入前に SKILL.md と scripts/ を読むべき。画像生成ステップだけは TOGETHER_API_KEY（FLUX.1.1-pro、有料）を使う。eval/README が『claude -p ではスキルは自動発火しない』と明記しており、名前で呼ぶ運用が前提。"
-forks: 2600
-open_issues: 40
+forks: 2750
+open_issues: 52
 commits_30d: 85
 commit_cadence: "daily"
 size_kb: 233716
 archived: false
-fetched_at: "2026-11-06T08:42:56Z"
+fetched_at: "2026-11-09T21:41:54Z"
 last_release: ""
 last_release_at: ""
 commits_90d: 100

@@ -4,13 +4,13 @@ name: "OpenChatCut"
 genre: "video-gen"
 url: "https://github.com/0xsline/OpenChatCut"
 license: "AGPL-3.0"
-stars: 2971
+stars: 3021
 language: "TypeScript"
 created: "2026-07-15"
 updated: "2026-11-06"
-forks: 445
-open_issues: 21
-commits_30d: 68
+forks: 453
+open_issues: 31
+commits_30d: 67
 commit_cadence: "daily"
 commits_90d: 100
 size_kb: 122864
@@ -19,12 +19,12 @@ author: "0xsline"
 flags: ["unverified"]
 risk_notes: "同一性: forkではなく上流そのもの（fork=false、parentなし）。効果測定は作者自身のM4 Max 1台・2セグメントのみの予備計測で、第三者による再現やプロジェクト全体の速度検証はない。MCP経由の編集フロー（begin_edit_session→review_edit_session→承認）はREADME記載であり、当方ではアプリを実行して動作確認していない。macOSビルドは未署名・未公証で初回に手動許可が必要。ライセンスは AGPL-3.0 のため、改変版をネットワークサービスとして提供するとソース開示義務が生じる。MCPブリッジは単一ユーザー・単一マシン前提でマルチテナント非対応。スキル数「26」はREADME記載の値で、レート制限によりディレクトリを直接数えて照合できていない。"
 last_release: "v0.2.17"
-last_release_at: "2026-10-15T10:44:23Z"
+last_release_at: "2026-10-15"
 type: "repo"
 added: "2026-11-07"
 first_seen: "2026-11-07"
 sources: ["https://x.com/heyrimsha/status/2118662273044807904"]
-fetched_at: "2026-11-07T16:37:10Z"
+fetched_at: "2026-11-09T21:43:47Z"
 ---
 
 # OpenChatCut — 実タイムラインをMCP経由でAIエージェントが編集するローカル優先のOSS動画エディタ

@@ -16,7 +16,7 @@ license: "MIT"
 language: "TypeScript"
 created: "2026-11-07"
 updated: "2026-11-08"
-stars: 9
+stars: 15
 forks: 0
 open_issues: 1
 commits_30d: 91
@@ -24,7 +24,9 @@ commits_90d: 91
 commit_cadence: "daily"
 size_kb: 29611
 archived: false
-fetched_at: "2026-11-09T00:30:48.552571+00:00"
+fetched_at: "2026-11-09T21:38:33Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # rhinoc/xprite-lighter

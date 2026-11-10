@@ -4,25 +4,25 @@ name: "Whisper"
 genre: "tts-audio"
 url: "https://github.com/openai/whisper"
 license: "MIT"
-stars: 111860
+stars: 112302
 language: "Python"
 created: "2022-09-16"
-updated: 2026-08-31
+updated: "2026-08-31"
 added: "2026-11-03"
 sources:
   - "https://x.com/RoundtableSpace/status/2117357328152350832"
 flags: []
 risk_notes: ""
-forks: 13560
-open_issues: 179
+forks: 13597
+open_issues: 180
 commits_30d: 0
 commits_90d: 1
-commit_cadence: stale
+commit_cadence: "stale"
 size_kb: 12797
 archived: false
-fetched_at: "2026-11-03T15:42:52Z"
-last_release: v20250625
-last_release_at: 2025-06-26
+fetched_at: "2026-11-09T21:43:28Z"
+last_release: "v20250625"
+last_release_at: "2025-06-26"
 ---
 
 # Whisper

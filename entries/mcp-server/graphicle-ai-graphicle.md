@@ -5,25 +5,25 @@ genre: "mcp-server"
 url: "https://github.com/Graphicle-AI/graphicle"
 repo: "Graphicle-AI/graphicle"
 license: "Apache-2.0"
-stars: 510
+stars: 543
 language: "Rust"
 created: "2026-10-14"
-updated: 2026-11-05
+updated: "2026-11-09"
 added: "2026-11-06"
 first_seen: "2026-11-05"
 sources: ["https://x.com/Ryrenz/status/2118146955763130525", "https://www.karlex.ai/graphicle"]
 flags: []
 risk_notes: "速度・メモリ・記憶精度の数値はすべてベンダーの自己計測（docs/benchmarks.md に手法と条件が書かれている）。速度比較の相手 Graphify 0.9.100 は、更新差分が無いケースでは Graphicle より速かったと README 自身が5件の反例を挙げている。コードグラフのエンジンは Graphify の Rust 移植で、Graphify Labs とは無関係と明記されている。インストールは Homebrew か `curl -fsSL .../install.sh | sh` 形式なので中身を確認してから実行したい。`graphicle setup` は AGENTS.md の書き換えと Git フック（post-commit / post-merge / post-checkout）の設置を行うが、変更前にバックアップを取り `graphicle disconnect` で戻せる。既定で1日1回の新バージョン確認リクエストだけは自動送信される（GRAPHICLE_NO_UPDATE_NOTIFIER=1 で停止）。Windows は x86-64 のプレビュー版で未コード署名。投稿が挙げる SWE-bench Verified の『上位5ファイルで75/100命中、BM25は61』は README の記載と一致するが独立検証はしていない。"
-forks: 36
-open_issues: 1
-commits_30d: 84
-commit_cadence: daily
-size_kb: 32946
+forks: 41
+open_issues: 0
+commits_30d: 100
+commit_cadence: "daily"
+size_kb: 32410
 archived: false
-fetched_at: "2026-11-06T09:14:07Z"
-last_release: v0.1.13
-last_release_at: 2026-11-05
-commits_90d: 84
+fetched_at: "2026-11-09T21:38:55Z"
+last_release: "v0.1.14"
+last_release_at: "2026-11-09"
+commits_90d: 100
 ---
 
 # Graphicle — リポジトリのコードグラフとプロジェクト記憶を、1つのMCPサーバから引用付きでエージェントに渡す

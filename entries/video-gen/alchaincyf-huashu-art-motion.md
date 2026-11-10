@@ -5,13 +5,13 @@ type: "repo"
 genre: "video-gen"
 url: "https://github.com/alchaincyf/huashu-art-motion"
 license: "MIT"
-stars: 6502
+stars: 6621
 language: "JavaScript"
 created: "2026-10-06"
 updated: "2026-10-16"
-forks: 648
+forks: 657
 open_issues: 9
-commits_30d: 18
+commits_30d: 7
 commit_cadence: "weekly"
 commits_90d: 22
 size_kb: 78640
@@ -21,7 +21,9 @@ risk_notes: "投稿の「導入から10分で完成」「Opus 5.5 が作った�
 added: "2026-11-08"
 first_seen: "2026-11-08"
 sources: ["https://x.com/sumika45379/status/2111947940193587341"]
-fetched_at: "2026-11-08T10:52:30Z"
+fetched_at: "2026-11-09T21:43:52Z"
+last_release: "v1.2.0"
+last_release_at: "2026-10-16"
 ---
 
 # huashu-art-motion — 画風をコードで描くアニメ生成スキル（Claude Code / Codex 向け）

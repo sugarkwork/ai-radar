@@ -4,25 +4,25 @@ name: "kimi-k3-in-c"
 genre: model-serving
 url: "https://github.com/FareedKhan-dev/kimi-k3-in-c"
 license: "Apache-2.0"
-stars: 10251
+stars: 11459
 language: "C"
 created: "2026-08-01"
-updated: 2026-10-02
+updated: "2026-10-02"
 added: "2026-11-03"
 first_seen: "2026-11-03"
 sources: ["https://x.com/mdaman010/status/2118684826203021621?a=6mS302Az7kjEB2eI8D0&s=46", "https://x.com/mdaman010/status/2118684826203021621", "https://api.github.com/repos/FareedKhan-dev/kimi-k3-in-c", "https://raw.githubusercontent.com/FareedKhan-dev/kimi-k3-in-c/main/README.md", "https://github.com/FareedKhan-dev/kimi-k3-in-c"]
 flags: ["unverified"]
 risk_notes: "1.56TBのチェックポイントを8.24GBのRAMで動かすという主張。数値は作者の docs/data のみで、独立した再現・検証はない。"
-forks: 1625
-open_issues: 26
+forks: 1785
+open_issues: 28
 commits_30d: 0
-commits_90d: 48
-commit_cadence: monthly
+commits_90d: 47
+commit_cadence: "monthly"
 size_kb: 31708
 archived: false
-fetched_at: "2026-11-04T22:50:44Z"
-last_release: v1.1.0
-last_release_at: 2026-10-02
+fetched_at: "2026-11-09T21:39:46Z"
+last_release: "v1.1.0"
+last_release_at: "2026-10-02"
 type: "repo"
 author: "FareedKhan-dev"
 source_post: "https://x.com/mdaman010/status/2118684826203021621"

@@ -9,22 +9,22 @@ pricing_detail: "OSS（MIT OR Apache-2.0）。ホスト版・課金なし。LLM 
 signup_required: false
 repo: "max-sixty/worktrunk"
 license: "MIT OR Apache-2.0"
-stars: 11725
+stars: 12258
 language: "Rust"
 created: "2025-10-17"
-updated: "2026-11-06"
+updated: "2026-11-09"
 added: "2026-11-06"
 first_seen: "2026-11-06"
 sources: ["https://x.com/RoundtableSpace/status/2117802763262591481", "https://x.com/yozm_it/status/2118928933718823055?a=cjodEJSPnTqNRRgPDuQ&s=46", "https://x.com/yozm_it/status/2118928933718823055", "https://github.com/thedotmack/claude-mem", "https://github.com/Nutlope/hallmark", "https://github.com/anthropics/skills", "https://github.com/HKUDS/DeepTutor", "https://github.com/max-sixty/worktrunk"]
 flags: ["unverified"]
 risk_notes: "発見元の投稿は画面録画MCP（t.co リンク先は gmpetrov/agent-screenplay）の紹介で、worktrunk はそのツールではない。worktrunk は git worktree 管理 CLI で、投稿本文に worktrunk への言及はない。数値・機能は worktrunk 自身の API/README/公式ドキュメントで確認した。"
-forks: 450
-open_issues: 51
+forks: 475
+open_issues: 56
 commits_30d: 100
 commit_cadence: "daily"
-size_kb: 62558
+size_kb: 63222
 archived: false
-fetched_at: "2026-11-06T12:31:00Z"
+fetched_at: "2026-11-09T21:33:48Z"
 last_release: "v0.81.0"
 last_release_at: "2026-10-20"
 commits_90d: 100

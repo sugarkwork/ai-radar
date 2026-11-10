@@ -16,15 +16,17 @@ license: "MIT"
 language: "Python"
 created: "2026-11-03"
 updated: "2026-11-03"
-stars: 1591
-forks: 288
+stars: 1900
+forks: 336
 open_issues: 7
 commits_30d: 7
 commits_90d: 7
 commit_cadence: "weekly"
 size_kb: 13754
 archived: false
-fetched_at: "2026-11-09T00:30:57.616487+00:00"
+fetched_at: "2026-11-09T21:46:24Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # sarpstar/cinecode

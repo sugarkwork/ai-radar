@@ -18,11 +18,14 @@ risk_notes: "研究コード（作成 2026-10-27、コミット3件、リリー�
 forks: 3
 open_issues: 0
 commits_30d: 3
-commit_cadence: "sporadic（作成 2026-10-27 から3日で3コミット、以降 2026-11-04 の最終 push まで停止）"
+commit_cadence: "monthly"
 size_kb: 1429
 archived: false
-fetched_at: "2026-11-07T11:44:12Z"
+fetched_at: "2026-11-09T21:30:49Z"
 source_post: "https://www.linkedin.com/posts/james-c-kane_can-i-interest-anyone-in-a-tiny-angry-james-ugcPost-7523402576223203328-Bdc8/"
+commits_90d: 3
+last_release: ""
+last_release_at: ""
 ---
 
 # Faltwerk — 4D Gaussian Splatting を曲線で圧縮し WebGPU で配信する codec

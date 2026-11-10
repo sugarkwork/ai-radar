@@ -6,24 +6,24 @@ url: https://github.com/hao-ai-lab/FastVideo
 license: Apache-2.0
 language: Python
 created: 2024-10-24
-updated: 2026-11-04
+updated: "2026-11-08"
 added: 2026-11-04
 first_seen: 2026-11-04
 sources:
   - https://x.com/haoailab/status/2117704073248174180
 flags: []
 risk_notes: ""
-stars: 4780
-forks: 519
-open_issues: 144
-commits_30d: 100
+stars: 4799
+forks: 520
+open_issues: 141
+commits_30d: 74
 commits_90d: 100
-commit_cadence: daily
-size_kb: 439772
+commit_cadence: "daily"
+size_kb: 440084
 archived: false
-fetched_at: "2026-11-04T22:52:58Z"
-last_release: v0.2.0
-last_release_at: 2026-06-04
+fetched_at: "2026-11-09T21:44:50Z"
+last_release: "v0.2.0"
+last_release_at: "2026-06-04"
 ---
 
 # FastVideo

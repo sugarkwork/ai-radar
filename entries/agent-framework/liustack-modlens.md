@@ -16,7 +16,7 @@ license: "MIT"
 language: "TypeScript"
 created: "2026-02-22"
 updated: "2026-11-07"
-stars: 4859
+stars: 4879
 forks: 152
 open_issues: 2
 commits_30d: 13
@@ -24,7 +24,9 @@ commits_90d: 100
 commit_cadence: "weekly"
 size_kb: 12514
 archived: false
-fetched_at: "2026-11-09T00:30:41.228226+00:00"
+fetched_at: "2026-11-09T21:33:35Z"
+last_release: "v3.27.3"
+last_release_at: "2026-11-07"
 ---
 
 # liustack/modlens

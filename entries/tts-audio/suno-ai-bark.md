@@ -4,23 +4,25 @@ name: "Bark"
 genre: "tts-audio"
 url: "https://github.com/suno-ai/bark"
 license: "MIT"
-stars: 39290
+stars: 39332
 language: "Jupyter Notebook"
 created: "2023-04-07"
-updated: 2024-08-19
+updated: "2024-08-19"
 added: "2026-11-03"
 sources:
   - "https://x.com/RoundtableSpace/status/2117357328152350832"
 flags: []
 risk_notes: ""
-forks: 4660
+forks: 4659
 open_issues: 269
 commits_30d: 0
 commits_90d: 0
-commit_cadence: stale
+commit_cadence: "stale"
 size_kb: 2641
 archived: false
-fetched_at: "2026-11-03T15:42:59Z"
+fetched_at: "2026-11-09T21:43:40Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # Bark

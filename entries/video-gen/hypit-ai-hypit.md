@@ -4,26 +4,26 @@ name: hypit
 genre: video-gen
 url: https://github.com/hypit-ai/hypit
 license: Apache-2.0 改変版（追加条件あり、API上は NOASSERTION）
-stars: 28169
+stars: 28787
 language: TypeScript
 created: 2026-07-29
-updated: 2026-11-05
+updated: "2026-11-09"
 added: 2026-11-05
 first_seen: 2026-11-04
 source_post: https://x.com/thegreatest_sv/status/2117687388214272339
 sources: []
 flags: []
 risk_notes: "参照動画の複製・顔の差し替えを前提とするため、肖像権・著作権・各プラットフォームの規約に注意。マルチテナントでのホスト提供や商用再配布は別途ライセンスが必要。"
-forks: 3267
-open_issues: 91
-commits_30d: 77
-size_kb: 28695
+forks: 3336
+open_issues: 102
+commits_30d: 12
+size_kb: 52538
 archived: false
 commits_90d: 100
-commit_cadence: daily
-fetched_at: "2026-11-05T22:44:09Z"
-last_release: v0.3.1
-last_release_at: 2026-10-09
+commit_cadence: "weekly"
+fetched_at: "2026-11-09T21:45:03Z"
+last_release: "v0.3.1"
+last_release_at: "2026-10-09"
 ---
 
 # hypit

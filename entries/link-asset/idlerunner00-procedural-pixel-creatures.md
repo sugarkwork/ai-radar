@@ -16,7 +16,7 @@ license: "MIT"
 language: "C#"
 created: "2026-10-01"
 updated: "2026-10-05"
-stars: 258
+stars: 262
 forks: 31
 open_issues: 0
 commits_30d: 0
@@ -24,7 +24,9 @@ commits_90d: 3
 commit_cadence: "monthly"
 size_kb: 2916
 archived: false
-fetched_at: "2026-11-09T00:30:59.646815+00:00"
+fetched_at: "2026-11-09T21:38:47Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # idlerunner00/procedural-pixel-creatures

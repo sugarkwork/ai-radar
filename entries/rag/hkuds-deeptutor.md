@@ -16,15 +16,17 @@ license: "Apache-2.0"
 language: "Python"
 created: "2025-12-28"
 updated: "2026-11-07"
-stars: 56995
-forks: 6949
-open_issues: 333
+stars: 57584
+forks: 7020
+open_issues: 376
 commits_30d: 100
 commits_90d: 100
 commit_cadence: "daily"
 size_kb: 258519
 archived: false
-fetched_at: "2026-11-09T00:30:55.303716+00:00"
+fetched_at: "2026-11-09T21:42:17Z"
+last_release: "v1.7.2"
+last_release_at: "2026-11-06"
 ---
 
 # HKUDS/DeepTutor

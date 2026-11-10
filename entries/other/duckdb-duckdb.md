@@ -4,10 +4,10 @@ name: DuckDB
 genre: other
 url: https://github.com/duckdb/duckdb
 license: MIT
-stars: 42850
+stars: 42947
 language: C++
 created: 2018-06-26
-updated: 2026-11-05
+updated: "2026-11-09"
 added: 2026-11-05
 first_seen: 2026-11-05
 source_post: https://x.com/roundtablespace/status/2118172700757889191
@@ -15,16 +15,16 @@ sources:
   - https://duckdb.org/
 flags: []
 risk_notes: ""
-forks: 4163
-open_issues: 1121
+forks: 4180
+open_issues: 1180
 commits_30d: 100
 commits_90d: 100
-commit_cadence: daily
-size_kb: 575106
+commit_cadence: "daily"
+size_kb: 578590
 archived: false
-fetched_at: "2026-11-05T22:09:44Z"
-last_release: v2.0.0
-last_release_at: 2026-10-21
+fetched_at: "2026-11-09T21:40:53Z"
+last_release: "v2.0.0"
+last_release_at: "2026-10-21"
 ---
 
 # DuckDB

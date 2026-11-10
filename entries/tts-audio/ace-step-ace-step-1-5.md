@@ -5,25 +5,25 @@ genre: "tts-audio"
 url: "https://github.com/ace-step/ACE-Step-1.5"
 repo: "ace-step/ACE-Step-1.5"
 license: "MIT"
-stars: 14491
+stars: 14573
 language: "Python"
 created: "2025-09-04"
-updated: 2026-10-11
+updated: "2026-11-08"
 added: "2026-11-07"
 first_seen: "2026-11-07"
 sources: ["https://x.com/abir35627/status/2118648224202551573"]
 flags: []
 risk_notes: "① 発見元ポストは「ACE-Step 1.5」とだけ書くが、同名の旧リポジトリ ace-step/ACE-Step（v1、★5.0k、Apache-2.0）が別に存在し、本エントリの 1.5 が現行。旧リポジトリは 2026-02-15 から更新停止。② 「A100 で1曲2秒未満／RTX 3090 で10秒未満」は README の主張で、第三者計測ではない。③ 「Suno v4.5〜v5 の間の品質」もベンダーの自己評価。④ 「4GB 未満の VRAM で動く」は 2B turbo ＋ INT8量子化 ＋ CPU オフロード時の構成で、素の推論要件ではない（XL 4B は重みだけで約9GB、オフロード込みで12GB以上）。⑤ コードは MIT だが、重み（HF: ACE-Step/Ace-Step1.5、XL 系は acestep-v15-xl-*）のライセンスは別建てで、モデルカードで確認が要る。⑥ 最終 push 2026-10-11、直近30日のコミットは 0。⑦ ROCm on Windows は Python 3.12 固定、macOS は MLX 経由で別スクリプト。⑧ 同名の商用サイト acemusic.ai を README 自身が案内しており、ローカル版と混同しやすい。⑨ Docker 対応（v0.1.8）は Release 本文とリポジトリ直下の Dockerfile にしか書かれておらず、README と docs のインストール手順には載っていない（2026-10-11 時点の main）。"
-forks: 1920
-open_issues: 162
+forks: 1937
+open_issues: 163
 commits_30d: 0
-size_kb: 14295
+size_kb: 14289
 archived: false
-fetched_at: "2026-11-07T22:46:00Z"
-last_release: v0.1.8
-last_release_at: 2026-05-18
+fetched_at: "2026-11-09T21:42:49Z"
+last_release: "v0.1.8"
+last_release_at: "2026-05-18"
 commits_90d: 15
-commit_cadence: monthly
+commit_cadence: "monthly"
 ---
 
 # ACE-Step 1.5 — LM が曲の設計図を書き、DiT が音にする音楽生成モデル

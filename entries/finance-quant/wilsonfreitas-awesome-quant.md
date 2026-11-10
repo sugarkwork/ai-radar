@@ -4,23 +4,25 @@ name: "awesome-quant"
 genre: finance-quant
 url: "https://github.com/wilsonfreitas/awesome-quant"
 license: "unknown"
-stars: 30453
+stars: 30551
 language: "HTML"
 created: "2015-09-30"
-updated: 2026-11-03
+updated: "2026-11-09"
 added: "2026-11-03"
 first_seen: "2026-11-03"
 sources: []
 flags: []
 risk_notes: ""
-forks: 4291
-open_issues: 242
+forks: 4327
+open_issues: 272
 commits_30d: 57
 commits_90d: 100
-commit_cadence: daily
-size_kb: 10893
+commit_cadence: "daily"
+size_kb: 11145
 archived: false
-fetched_at: "2026-11-03T22:58:54Z"
+fetched_at: "2026-11-09T21:38:06Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # awesome-quant

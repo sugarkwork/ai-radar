@@ -5,25 +5,25 @@ genre: "tts-audio"
 url: "https://github.com/souzatharsis/podcastfy"
 repo: "souzatharsis/podcastfy"
 license: "Apache-2.0"
-stars: 6782
+stars: 6795
 language: "Python"
 created: "2024-09-30"
-updated: 2026-05-04
+updated: "2026-05-04"
 added: "2026-11-07"
 first_seen: "2026-11-07"
 sources: ["https://x.com/abir35627/status/2118648224202551573"]
 flags: []
 risk_notes: "① 保守は低調: 最終push 2026-05-04、直近30日commit 0、PyPI最新は0.4.3、CHANGELOGの最終項目は0.4.0（2024-11-16）で約1年半更新なし。open issue 124。② README等で語られる「Web UI」はリポジトリ内に無い。存在するのはFastAPI（Dockerfile_api、beta扱い）とnotebook、外部ホストのデモ（openpod.fly.dev）のみ。Streamlitアプリはソースツリーに含まれない。③ pipのextrasは無い（PyPIのprovides_extraが空、pyprojectにoptional-dependenciesも無い）ので `pip install podcastfy` 一発で全部入る代わりに、langchain/vertexai/pandas等を含む重い依存を強制される。④ ffmpegはPythonラッパーでしか宣言されておらず、システムバイナリは別途導入が必要。⑤ 既定構成がGemini（文字起こし）+OpenAI（TTS）の2キー前提で、無料で試すにはlocal LLM+edge TTSへ寄せる必要がある。⑥ 最高品質とされるgeminimultiはGoogle Cloudの許可リスト制で、有償サポート契約が無いと403になる。⑦ 画像のローカルパス指定は0.3.3でセキュリティ理由により廃止（URL指定のみ）。⑧ クローンは351,909KB（約344MB）で、大半がdata/audioのmp3と13.9MBのnotebook。--depth 1前提。⑨ ローカルLLM手順はllamafile（localhost:8080）前提で、README自身が「出力がTTSにそのまま渡せないことがある」と警告している。"
-forks: 792
+forks: 790
 open_issues: 124
 commits_30d: 0
 size_kb: 351909
 archived: false
 commits_90d: 0
-commit_cadence: stale
-fetched_at: "2026-11-07T05:25:16Z"
-last_release: v0.4.0
-last_release_at: 2024-11-16
+commit_cadence: "stale"
+fetched_at: "2026-11-09T21:43:35Z"
+last_release: "v0.4.0"
+last_release_at: "2024-11-16"
 ---
 
 # Podcastfy — URL・PDF・YouTube・画像を2人の会話ポッドキャストに変換するPythonパッケージ

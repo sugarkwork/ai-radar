@@ -16,15 +16,17 @@ license: "AGPL-3.0"
 language: "Dart"
 created: "2026-10-25"
 updated: "2026-11-09"
-stars: 16057
-forks: 696
-open_issues: 396
+stars: 17518
+forks: 757
+open_issues: 443
 commits_30d: 100
 commits_90d: 100
 commit_cadence: "daily"
-size_kb: 472638
+size_kb: 471736
 archived: false
-fetched_at: "2026-11-09T00:30:30.562920+00:00"
+fetched_at: "2026-11-09T21:32:38Z"
+last_release: "v1.0.14"
+last_release_at: "2026-11-09"
 ---
 
 # ccch1mneyyy/dsh-Go

@@ -15,16 +15,18 @@ repo: "zilliztech/memsearch"
 license: "MIT"
 language: "Python"
 created: "2026-02-09"
-updated: "2026-11-06"
-stars: 2837
-forks: 280
-open_issues: 264
-commits_30d: 25
-commits_90d: 71
+updated: "2026-11-09"
+stars: 2847
+forks: 281
+open_issues: 260
+commits_30d: 29
+commits_90d: 75
 commit_cadence: "daily"
-size_kb: 27322
+size_kb: 27484
 archived: false
-fetched_at: "2026-11-09T00:30:43.055956+00:00"
+fetched_at: "2026-11-09T21:42:43Z"
+last_release: "v0.4.23"
+last_release_at: "2026-10-27"
 ---
 
 # zilliztech/memsearch

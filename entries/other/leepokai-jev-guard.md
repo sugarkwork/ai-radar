@@ -24,7 +24,7 @@ type: "repo"
 added: "2026-11-09"
 first_seen: "2026-11-09"
 sources: ["https://x.com/thegreatest_sv/status/2114326860326723736"]
-fetched_at: "2026-11-09T15:51:04Z"
+fetched_at: "2026-11-09T21:41:09Z"
 ---
 
 # jev-guard — コーディングエージェントのツール実行を Jev で検査するフック

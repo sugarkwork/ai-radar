@@ -15,16 +15,18 @@ repo: "google/skills"
 license: "Apache-2.0"
 language: "Python"
 created: "2026-03-31"
-updated: "2026-11-07"
-stars: 23714
-forks: 1978
-open_issues: 32
+updated: "2026-11-09"
+stars: 23767
+forks: 1986
+open_issues: 38
 commits_30d: 100
 commits_90d: 100
 commit_cadence: "daily"
-size_kb: 4956
+size_kb: 5026
 archived: false
-fetched_at: "2026-11-09T00:30:35.937658+00:00"
+fetched_at: "2026-11-09T21:33:08Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # google/skills

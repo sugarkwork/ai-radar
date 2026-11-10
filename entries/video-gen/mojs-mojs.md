@@ -16,7 +16,7 @@ license: "MIT"
 language: "CoffeeScript"
 created: "2014-06-26"
 updated: "2026-07-30"
-stars: 18890
+stars: 18895
 forks: 902
 open_issues: 37
 commits_30d: 0
@@ -24,7 +24,9 @@ commits_90d: 0
 commit_cadence: "stale"
 size_kb: 140750
 archived: false
-fetched_at: "2026-11-09T00:31:25.032595+00:00"
+fetched_at: "2026-11-09T21:46:00Z"
+last_release: "v1.7.1"
+last_release_at: "2023-10-06"
 ---
 
 # mojs/mojs

@@ -4,25 +4,25 @@ name: "video-shotcraft"
 genre: video-gen
 url: "https://github.com/Vincentwei1021/video-shotcraft"
 license: "Apache-2.0"
-stars: 16970
+stars: 18165
 language: "TypeScript"
 created: "2026-07-19"
-updated: 2026-10-29
+updated: "2026-11-09"
 added: "2026-11-03"
 first_seen: "2026-11-03"
 sources: []
 flags: []
 risk_notes: ""
-forks: 1599
-open_issues: 7
-commits_30d: 10
-commit_cadence: weekly
-size_kb: 201181
+forks: 1721
+open_issues: 3
+commits_30d: 14
+commit_cadence: "weekly"
+size_kb: 203322
 archived: false
-commits_90d: 44
-fetched_at: "2026-11-04T22:51:48Z"
-last_release: showcase-media
-last_release_at: 2026-09-01
+commits_90d: 41
+fetched_at: "2026-11-09T21:47:00Z"
+last_release: "showcase-media"
+last_release_at: "2026-09-01"
 ---
 
 # video-shotcraft

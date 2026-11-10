@@ -4,7 +4,7 @@ name: "garak (Generative AI Red-teaming and Assessment Kit)"
 genre: "eval"
 url: "https://github.com/NVIDIA/garak"
 license: "Apache-2.0"
-stars: 9957
+stars: 9967
 language: "Python"
 created: "2023-05-10"
 updated: "2026-11-06"
@@ -13,16 +13,16 @@ first_seen: "2026-11-09"
 sources: ["https://x.com/wquguru/status/2113181135522214168"]
 flags: ["unverified"]
 risk_notes: "検出精度・誤検知率の定量値は一次情報に記載がなく未検証。判定はキーワードまたは分類器ベースの検出器に依存し、スコアは正規化されていないためプローブ間の比較はできない。プローブの網羅性は保証されず、ペネトレーションテストの代替にはならない。実行は許可された対象に限る。"
-forks: 1456
+forks: 1462
 open_issues: 562
 size_kb: 16934
 archived: false
-commits_30d: 92
+commits_30d: 91
 commits_90d: 100
 commit_cadence: "daily"
 last_release: "v0.17.1"
 last_release_at: "2026-10-16"
-fetched_at: "2026-11-09T05:54:59Z"
+fetched_at: "2026-11-09T21:37:09Z"
 type: "repo"
 ---
 

@@ -6,26 +6,28 @@ url: https://github.com/NanmiCoder/MediaCrawler
 license: 未確認（API は NOASSERTION、標準ライセンスファイル無し）
 language: Python
 created: 2023-06-09
-updated: 2026-11-06
+updated: "2026-11-09"
 added: 2026-11-04
 first_seen: 2026-11-04
 sources: ["https://x.com/leo_xiaolei/status/2117517260470485470", "https://x.com/chenfacai0/status/2118922893933350978?a=468vYYORc7R_7p9Dtsg&s=46", "https://x.com/chenfacai0/status/2118922893933350978", "https://github.com/NanmiCoder/MediaCrawler", "https://api.github.com/repos/NanmiCoder/MediaCrawler", "https://raw.githubusercontent.com/NanmiCoder/MediaCrawler/main/LICENSE"]
 flags: ["unverified"]
 risk_notes: "各プラットフォームの利用規約と著作権に抵触しうる。収集した投稿・動画の再配布は権利者の許諾が必要。規約違反・アカウント停止のリスクは利用者側。"
-stars: 70399
-forks: 13343
-open_issues: 220
-commits_30d: 17
-commits_90d: 39
-commit_cadence: weekly
-size_kb: 30690
+stars: 70741
+forks: 13389
+open_issues: 217
+commits_30d: 21
+commits_90d: 43
+commit_cadence: "daily"
+size_kb: 30756
 archived: false
-fetched_at: "2026-11-06T22:52:46Z"
+fetched_at: "2026-11-09T21:41:17Z"
 license_detail: "原チェックのLICENSE/README解釈: NON-COMMERCIAL LEARNING LICENSE 1.1。APIのSPDX判定とは別。利用前に現行本文を確認。"
 type: "repo"
 author: "NanmiCoder"
 source_post: "https://x.com/chenfacai0/status/2118922893933350978"
 amplifiers: []
+last_release: ""
+last_release_at: ""
 ---
 
 # MediaCrawler

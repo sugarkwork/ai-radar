@@ -4,25 +4,25 @@ name: "MoneyPrinterTurbo"
 genre: video-gen
 url: "https://github.com/harry0703/MoneyPrinterTurbo"
 license: "MIT"
-stars: 138902
+stars: 141571
 language: "Python"
 created: "2024-03-11"
-updated: 2026-11-04
+updated: "2026-11-07"
 added: "2026-11-03"
 first_seen: "2026-11-03"
 sources: ["https://x.com/i/status/2119403126914507263"]
 flags: []
 risk_notes: ""
-forks: 22166
-open_issues: 71
+forks: 22592
+open_issues: 81
 commits_30d: 100
 commits_90d: 100
-commit_cadence: daily
-size_kb: 541152
+commit_cadence: "daily"
+size_kb: 541362
 archived: false
-fetched_at: "2026-11-04T22:53:03Z"
-last_release: v1.3.9
-last_release_at: 2026-10-21
+fetched_at: "2026-11-09T21:44:53Z"
+last_release: "v1.3.10"
+last_release_at: "2026-11-07"
 ---
 
 # MoneyPrinterTurbo

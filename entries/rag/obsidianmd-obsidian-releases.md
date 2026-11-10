@@ -16,15 +16,17 @@ license: "unknown"
 language: "unknown"
 created: "2020-05-08"
 updated: "2026-11-09"
-stars: 23159
-forks: 7949
+stars: 23200
+forks: 7954
 open_issues: 4
 commits_30d: 100
 commits_90d: 100
 commit_cadence: "daily"
-size_kb: 345241
+size_kb: 347744
 archived: false
-fetched_at: "2026-11-09T00:31:11.033358+00:00"
+fetched_at: "2026-11-09T21:42:34Z"
+last_release: "v1.15.0"
+last_release_at: "2026-11-02"
 ---
 
 # obsidianmd/obsidian-releases

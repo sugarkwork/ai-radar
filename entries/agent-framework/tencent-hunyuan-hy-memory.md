@@ -5,18 +5,18 @@ genre: "agent-framework"
 url: "https://github.com/Tencent-Hunyuan/Hy-Memory"
 author: "Tencent Hunyuan"
 license: "Apache-2.0"
-stars: 2012
+stars: 2020
 forks: 146
 language: "Python"
 created: "2026-10-15"
-updated: "2026-11-06"
-open_issues: 147
+updated: "2026-11-09"
+open_issues: 153
 commits_30d: 100
 commits_90d: 100
 commit_cadence: "daily"
-size_kb: 23665
+size_kb: 23605
 archived: false
-last_release: "MemHub v1.0.6"
+last_release: "v1.0.6"
 last_release_at: "2026-11-06"
 flags: ["unverified"]
 risk_notes: "投稿の数値のうち multi-hop recall 50%→90% は Tencent 公式サイトの導入事例グラフ（「多跳召回提升 40 个百分点」、棒グラフ50→90）と Tencent AI 公式X投稿で確認した。記憶量51.8%減・呼び出しトークン39.3%減は Tencent AI 公式X投稿（2026-10-16）の文言にのみ存在し、README・製品サイト・公開論文アブストラクトには該当記述が見つからず、第三者検証もない。pip install hy-memory==2.0.3 は実在（PyPI公開 2026-10-17）するが最新は 2.0.14（READMEも2.0.4以上を案内）。MemHub は preview 段階で、macOS は arm64 のみ・Windows非対応。GitHub API の license は Other/NOASSERTION を返すが、LICENSE 本文と README は Apache-2.0 と明記している。"
@@ -24,7 +24,7 @@ type: "repo"
 added: "2026-11-09"
 first_seen: "2026-11-09"
 sources: ["https://x.com/opensourcelab9/status/2113601359564230784"]
-fetched_at: "2026-11-09T02:33:00Z"
+fetched_at: "2026-11-09T21:35:02Z"
 ---
 
 # Hy Memory — LLMエージェント向け記憶エンジンと MemHub（Codex/Cursor 間で記憶を共有）

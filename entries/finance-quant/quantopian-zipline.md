@@ -4,25 +4,25 @@ name: "Zipline (Quantopian)"
 genre: finance-quant
 url: "https://github.com/quantopian/zipline"
 license: "Apache-2.0"
-stars: 20200
+stars: 20224
 language: "Python"
 created: "2012-10-19"
-updated: 2024-02-13
+updated: "2024-02-13"
 added: "2026-11-04"
 first_seen: "2026-11-04"
 sources: []
 flags: []
 risk_notes: ""
-forks: 5056
+forks: 5064
 open_issues: 368
 size_kb: 170757
 archived: false
 commits_30d: 0
 commits_90d: 0
-commit_cadence: stale
-fetched_at: "2026-11-04T03:07:23Z"
-last_release: 1.4.1
-last_release_at: 2020-10-05
+commit_cadence: "stale"
+fetched_at: "2026-11-09T21:37:41Z"
+last_release: "1.4.1"
+last_release_at: "2020-10-05"
 ---
 
 # Zipline (Quantopian)

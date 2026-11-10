@@ -15,16 +15,18 @@ repo: "zvec-ai/zvec-grep"
 license: "Apache-2.0"
 language: "Rust"
 created: "2026-07-10"
-updated: "2026-11-06"
-stars: 4292
+updated: "2026-11-09"
+stars: 4298
 forks: 263
-open_issues: 93
+open_issues: 90
 commits_30d: 100
 commits_90d: 100
 commit_cadence: "daily"
-size_kb: 77376
+size_kb: 77691
 archived: false
-fetched_at: "2026-11-09T00:30:24.527561+00:00"
+fetched_at: "2026-11-09T21:42:46Z"
+last_release: "v0.3.0"
+last_release_at: "2026-11-03"
 ---
 
 # zvec-ai/zvec-grep

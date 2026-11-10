@@ -5,23 +5,25 @@ genre: image-gen
 url: "https://github.com/black-forest-labs/flux2"
 repo: "black-forest-labs/flux2"
 license: "Apache-2.0"
-stars: 2842
+stars: 2862
 language: "Python"
 created: "2025-11-24"
-updated: 2026-03-12
+updated: "2026-03-12"
 added: "2026-11-07"
 first_seen: "2026-11-07"
 sources: ["https://x.com/abir35627/status/2118648224202551573"]
 flags: []
 risk_notes: "① 発見元の「Klein 4B は Apache-2.0 の重み」は半分だけ正しい。Apache-2.0 なのは klein 4B（蒸留）と klein 4B Base の2つだけで、9B / 9B KV / 9B Base / FLUX.2 [dev]（32B）は FLUX Non-Commercial License（HF の license_name は flux-non-commercial-license）。② repo の LICENSE.md は Apache-2.0 だがこれは推論コードのみ。重みは README が model_licenses/ 配下に別建てしており、コードのライセンスは重みに及ばない。③ README の表は 9B 系のライセンス欄を LICENSE-FLUX-NON-COMMERICAL にリンクしつつ本文では「FLUX.2-dev Non-Commercial License」と書いており、実ファイルも v2.0 の LICENSE-FLUX-DEV と v2.1 の LICENSE-FLUX-NON-COMMERICAL が併存して食い違う（HF カードが指すのは v2.1 系）。④ 8GB VRAM という記述は 4B の transformer 単体の話で、CLI は ae.safetensors を非商用ゲート付きの FLUX.2-dev から取り、さらに klein でも Mistral-Small-3.2-24B を mod 判定/アップサンプリング用に常時ロードする。結果として 4B を試すだけでも HF ログインと 24B 分のメモリが要る。⑤ 直近30日 commit 0、最終 push 2026-03-12。一方 HF 側の重みは 2026-02〜03 に更新されており、新しい派生や diffusers 側の対応はこの repo の外で進む。⑥ cli.py は torch.device('cuda') 固定で CPU/MPS 経路が無い（cpu_offloading も CUDA 前提）。⑦ 蒸留モデルは guidance / num_steps の上書きを拒否する。⑧ 商用の本番利用は BFL の商用ライセンスが別途必要（非商用定義は「商用主体の非本番環境での評価・研究」までを許す）。⑨ 透かし埋め込みと C2PA は推奨のみで、cli.py の embed_watermark 呼び出しはコメントアウトされている。"
-forks: 220
+forks: 222
 open_issues: 43
 commits_30d: 0
 size_kb: 46457
 archived: false
 commits_90d: 0
-commit_cadence: stale
-fetched_at: "2026-11-07T05:24:50Z"
+commit_cadence: "stale"
+fetched_at: "2026-11-09T21:38:12Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # FLUX.2 — 4BはApache-2.0、9Bと[dev]は非商用という二重構造の画像生成・編集推論コード

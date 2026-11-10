@@ -4,23 +4,25 @@ name: "batch-video-plugin"
 genre: video-gen
 url: "https://github.com/zysen1/batch-video-plugin"
 license: "MIT"
-stars: 42
+stars: 100
 language: ""
 created: "2026-11-01"
-updated: 2026-11-01
+updated: "2026-11-01"
 added: "2026-11-03"
 first_seen: "2026-11-03"
 sources: []
 flags: []
 risk_notes: ""
-forks: 17
+forks: 25
 open_issues: 0
 commits_30d: 2
 commits_90d: 2
-commit_cadence: monthly
+commit_cadence: "monthly"
 size_kb: 47
 archived: false
-fetched_at: "2026-11-03T22:58:00Z"
+fetched_at: "2026-11-09T21:47:09Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # batch-video-plugin

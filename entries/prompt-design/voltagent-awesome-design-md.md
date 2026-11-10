@@ -4,12 +4,12 @@ name: "Awesome DESIGN.md"
 genre: "prompt-design"
 url: "https://github.com/VoltAgent/awesome-design-md"
 license: "MIT"
-stars: 126184
+stars: 126314
 language: ""
 created: "2026-03-31"
 updated: "2026-10-28"
-forks: 13960
-open_issues: 311
+forks: 13979
+open_issues: 305
 commits_30d: 5
 commit_cadence: "weekly"
 commits_90d: 8
@@ -24,7 +24,7 @@ type: "repo"
 added: "2026-11-09"
 first_seen: "2026-11-09"
 sources: ["https://x.com/sumika45379/status/2113608913451147569"]
-fetched_at: "2026-11-09T03:16:03Z"
+fetched_at: "2026-11-09T21:42:00Z"
 ---
 
 # Awesome DESIGN.md — 84製品のDESIGN.mdをAIエージェントに渡してUIの雰囲気を寄せる

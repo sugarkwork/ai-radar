@@ -6,7 +6,7 @@ url: https://github.com/brenoepics/video-to-skill
 license: MIT
 language: Rust
 created: 2026-08-05
-updated: 2026-11-04
+updated: "2026-11-06"
 added: 2026-11-04
 first_seen: 2026-11-04
 sources:
@@ -14,17 +14,17 @@ sources:
   - https://x.com/AI_Caffeine/status/2117511846236135490
 flags: []
 risk_notes: "画面録画をAIモデルに送る構成。社内動画や機密情報を含む場合は送信内容の確認が必要（投稿者も同様の注意をしている）。"
-stars: 137
-forks: 15
-open_issues: 8
+stars: 145
+forks: 20
+open_issues: 12
 commits_30d: 100
 commits_90d: 100
-commit_cadence: daily
-size_kb: 1776
+commit_cadence: "daily"
+size_kb: 1533
 archived: false
-fetched_at: "2026-11-04T22:52:11Z"
-last_release: v0.3.0
-last_release_at: 2026-11-02
+fetched_at: "2026-11-09T21:32:35Z"
+last_release: "v0.3.0"
+last_release_at: "2026-11-02"
 ---
 
 # video-to-skill

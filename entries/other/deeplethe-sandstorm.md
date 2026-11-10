@@ -5,24 +5,24 @@ genre: "other"
 url: "https://github.com/deeplethe/sandstorm"
 repo: "deeplethe/sandstorm"
 license: "Apache-2.0"
-stars: 5124
+stars: 5955
 language: "Rust"
 created: "2026-05-11"
-updated: 2026-11-01
+updated: "2026-11-01"
 added: "2026-11-06"
 first_seen: "2026-11-02"
 sources: ["https://x.com/Ryrenz/status/2117059702542455253"]
 flags: []
 risk_notes: "レイテンシと密度の数値はすべて作者の計測（計測日 2026-10-31、ホスト構成が列ごとに異なるため各列は独立に読む必要がある、とREADME自身が明記）。Firecracker の 512MiB/1GiB 構成は各1サンプルのみ。E2B セルフホストとの比較はセットアップされておらず、PVM 下のメモリは未計測。投稿の『3600+ star』は取得時点で5124。Firecracker バックエンドには KVM が要る（gVisor は不要）。master は TLS を自前CAで切るため、コンソールはブラウザ警告を越えて開く。sandbox 内で動かすコードの安全性は sandbox の分離性能に依存するので、gVisor/Firecracker の既定設定を変える場合は自分で評価が要る。"
-forks: 403
+forks: 490
 open_issues: 14
 commits_30d: 100
-commit_cadence: daily
+commit_cadence: "daily"
 size_kb: 10635
 archived: false
-fetched_at: "2026-11-06T09:14:22Z"
-last_release: v0.6.0
-last_release_at: 2026-11-01
+fetched_at: "2026-11-09T21:40:49Z"
+last_release: "v0.6.0"
+last_release_at: "2026-11-01"
 commits_90d: 100
 ---
 

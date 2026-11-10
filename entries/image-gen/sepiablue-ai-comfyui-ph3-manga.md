@@ -24,7 +24,9 @@ commits_90d: 10
 commit_cadence: "weekly"
 size_kb: 3236
 archived: false
-fetched_at: "2026-11-09T00:30:48.947345+00:00"
+fetched_at: "2026-11-09T21:38:39Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # sepiablue-ai/ComfyUI-PH3-Manga

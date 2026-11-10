@@ -5,24 +5,26 @@ genre: "agent-framework"
 url: "https://github.com/ScrapeCreators/social-media-research-skills"
 repo: "ScrapeCreators/social-media-research-skills"
 license: "MIT"
-stars: 5886
+stars: 6082
 language: "Python"
 created: "2026-06-06"
-updated: 2026-08-26
+updated: "2026-08-26"
 added: "2026-11-07"
 first_seen: "2026-11-07"
 sources: ["https://x.com/abir35627/status/2118648224202551573"]
 flags: []
 risk_notes: "① 実体は Markdown のスキル13本＋検証スクリプト1本で、Python 表記は scripts/validate-skills.py のみ。テストも CI も無い（.github 無し）。② 最終 push は 2026-08-26、直近30日のコミット0。issue #11 / #12 が「スキル内のエンドポイントパスが現行APIと不一致で404」を指摘したまま未修正（/v1/twitter/user/tweets → 正は /v1/twitter/user-tweets、/v1/tiktok/hashtags/popular は廃止、#9 は /v1/credit/balance → /v1/credit-balance）。スキル間でも表記が割れている（scrapecreators-api は user/tweets、outlier-post-finder は user-tweets）。③ データ取得は ScrapeCreators の有料APIが必須。キー無しでは1件も返らない。無料枠は100クレジット＋最大1,200の追加分のみで、1回のアウトライア分析が数十クレジットを消費する。④ 回収できるのは公開データだけで、ログイン必須・非公開・DM等は対象外。⑤ 各プラットフォームのToSとスクレイピング可否の判断は利用者側。⑥ MIT は明記されているが、実質はベンダーのAPI導線（キー取得→課金）であり、独立検証ではなくベンダー自身の主張が根拠。"
-forks: 157
+forks: 167
 open_issues: 9
 commits_30d: 0
-commit_cadence: stale
+commit_cadence: "stale"
 size_kb: 41
 archived: false
 last_push: "2026-08-26"
 commits_90d: 2
-fetched_at: "2026-11-07T05:24:40Z"
+fetched_at: "2026-11-09T21:34:50Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # social-media-research-skills — SNSリサーチの13工程をエージェントに配るスキル集

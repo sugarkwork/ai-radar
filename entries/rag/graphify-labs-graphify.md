@@ -4,19 +4,19 @@ name: "Graphify"
 genre: "rag"
 url: "https://github.com/Graphify-Labs/graphify"
 license: "Apache-2.0"
-stars: 144862
+stars: 144984
 language: "Python"
 created: "2026-04-03"
-updated: "2026-11-08"
-forks: 13858
-open_issues: 1646
+updated: "2026-11-09"
+forks: 13875
+open_issues: 1623
 commits_30d: 100
 commits_90d: 100
 commit_cadence: "daily"
-size_kb: 32606
+size_kb: 35258
 archived: false
-last_release: "v0.9.104"
-last_release_at: "2026-11-08"
+last_release: "v0.9.105"
+last_release_at: "2026-11-09"
 author: "Graphify Labs (YC S26)"
 homepage: "https://www.graphify.com"
 flags: ["unverified"]
@@ -25,7 +25,7 @@ type: "repo"
 added: "2026-11-09"
 first_seen: "2026-11-09"
 sources: ["https://x.com/thegreatest_sv/status/2114326860326723736"]
-fetched_at: "2026-11-09T15:08:00Z"
+fetched_at: "2026-11-09T21:42:14Z"
 ---
 
 # Graphify — コードベースをローカル解析で知識グラフ化し、エージェントがgrepの代わりに辿る

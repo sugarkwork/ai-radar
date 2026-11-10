@@ -5,22 +5,24 @@ genre: video-gen
 url: https://github.com/Win-Hao/music-mv
 author: Win-Hao
 license: MIT
-stars: 77
+stars: 116
 language: Python
 created: 2026-10-20
-updated: 2026-10-20
+updated: "2026-10-20"
 added: 2026-11-04
 first_seen: 2026-11-03
 source_post: https://x.com/dextune/status/2117678193822085189
 sources: []
-forks: 3
+forks: 5
 open_issues: 0
 commits_30d: 3
 commits_90d: 3
-commit_cadence: monthly
+commit_cadence: "monthly"
 size_kb: 29746
 archived: false
-fetched_at: "2026-11-04T04:59:17Z"
+fetched_at: "2026-11-09T21:47:02Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # music-mv

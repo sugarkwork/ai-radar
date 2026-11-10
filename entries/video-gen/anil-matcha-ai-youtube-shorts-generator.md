@@ -5,23 +5,25 @@ genre: "video-gen"
 url: "https://github.com/Anil-matcha/AI-Youtube-Shorts-Generator"
 repo: "Anil-matcha/AI-Youtube-Shorts-Generator"
 license: "MIT"
-stars: 5788
+stars: 5867
 language: "Python"
 created: "2024-06-28"
-updated: 2026-11-06
+updated: "2026-11-09"
 added: "2026-11-07"
 first_seen: "2026-11-07"
 sources: ["https://x.com/abir35627/status/2118648224202551573"]
 flags: []
 risk_notes: "①「free」はサブスク・クレジット・透かし無しの意味で、既定の --mode api は MuAPI の従量課金キーが必須（未設定なら RuntimeError で停止）。クレジットを買わないと既定構成では1本も出力できない。②完全ローカルは --mode local のみ。ただしハイライト選定の LLM 呼び出しだけは OpenAI か Gemini の有料キーが必要で、ローカル LLM バックエンドは未実装＝完全オフライン不可。③ポーリングのタイムアウトが README 1800秒／config.py 600秒で不一致。長尺は API モードで10分で落ちうる。④縦型化は OpenCV Haar cascade の顔検出で、話者1名・正面構図が前提。字幕焼き込み、BGM、話者分離、B-roll、テロップ装飾は無い。⑤yt-dlp をライブラリとして素で呼ぶだけで cookies / PO token を渡さないため、年齢制限・メンバー限定・bot 判定の動画は失敗しやすい。⑥30日で5コミット、open issue 26件。README の clone URL は旧ハンドル SamurAIGPT 名義（リダイレクト）。"
-forks: 1054
-open_issues: 26
-commits_30d: 5
-size_kb: 1360
+forks: 1067
+open_issues: 27
+commits_30d: 6
+size_kb: 1368
 archived: false
-commits_90d: 12
-commit_cadence: weekly
-fetched_at: "2026-11-07T05:25:12Z"
+commits_90d: 13
+commit_cadence: "weekly"
+fetched_at: "2026-11-09T21:44:00Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # AI YouTube Shorts Generator — 長尺YouTubeを9:16ショートに切り抜くCLI

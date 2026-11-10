@@ -4,26 +4,26 @@ name: "OpenDataLoader PDF"
 genre: rag
 url: "https://github.com/opendataloader-project/opendataloader-pdf"
 license: "Apache-2.0"
-stars: 30178
+stars: 30261
 language: "Java"
 created: "2025-05-13"
-updated: 2026-11-05
+updated: "2026-11-09"
 added: "2026-11-05"
 first_seen: "2026-11-04"
 source_post: "https://x.com/bkdgiffug/status/2118101482209993194"
 sources: ["https://opendataloader.org"]
 flags: []
 risk_notes: ""
-forks: 2882
-open_issues: 35
-size_kb: 90416
+forks: 2897
+open_issues: 28
+size_kb: 90857
 archived: false
 commits_30d: 100
 commits_90d: 100
-commit_cadence: daily
-fetched_at: "2026-11-05T22:43:56Z"
-last_release: v2.5.19
-last_release_at: 2026-11-05
+commit_cadence: "daily"
+fetched_at: "2026-11-09T21:42:37Z"
+last_release: "v2.5.20"
+last_release_at: "2026-11-06"
 ---
 
 # OpenDataLoader PDF

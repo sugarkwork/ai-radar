@@ -5,24 +5,24 @@ genre: "model-serving"
 url: "https://github.com/jundot/omlx"
 repo: "jundot/omlx"
 license: "Apache-2.0"
-stars: 23405
+stars: 23487
 language: "Python"
 created: "2026-02-13"
-updated: 2026-11-05
+updated: "2026-11-08"
 added: "2026-11-06"
 first_seen: "2026-11-05"
 sources: ["https://x.com/ai_hakase_/status/2118132025563468009", "https://omlx.ai"]
 flags: []
 risk_notes: "**macOS 15.0 以降 + Apple Silicon 専用**。Linux/NVIDIA 機では動かない。ネイティブカスタムカーネル（GLM-5.2 / MiniMax M3 / Qwen3.5 系に必要）を有効にするにはフル Xcode と Metal ツールチェーンが要り、無い場合は汎用経路に静かにフォールバックして大幅に遅くなる（GLM-5.2 の fused DSA prefill で約30倍差、という作者計測）。公式DMGはカーネル同梱なのでXcode不要。投稿が主題にしている『2台のMacによる分散推論』は**開発版 v0.7.4.dev1 のみ**の機能で、安定版 v0.7.3 には入っていない。投稿の高速化率（DeepSeek V4.1 Flash の64Kプロンプトで+195%、3,123 tok/s）は作者計測で、独立検証はしていない。"
-forks: 2101
-open_issues: 537
+forks: 2113
+open_issues: 536
 commits_30d: 100
-commit_cadence: daily
-size_kb: 88582
+commit_cadence: "daily"
+size_kb: 88253
 archived: false
-fetched_at: "2026-11-06T09:14:37Z"
-last_release: v0.7.4.dev1
-last_release_at: 2026-11-04
+fetched_at: "2026-11-09T21:40:00Z"
+last_release: "v0.7.4.dev1"
+last_release_at: "2026-11-04"
 commits_90d: 100
 ---
 

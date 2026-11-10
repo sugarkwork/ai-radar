@@ -6,22 +6,24 @@ url: https://github.com/yihui-dev/awesome-opus5-5-videos
 license: MIT
 language: 未確認（Markdown 中心）
 created: 2026-09-27
-updated: 2026-10-13
+updated: "2026-10-13"
 added: 2026-11-04
 first_seen: 2026-11-04
 sources:
   - https://x.com/tetumemo/status/2117568723007705443
 flags: []
 risk_notes: "収録された作例・プロンプトの権利は各作者に帰属。転用時は出典とライセンスを確認。"
-stars: 13435
-forks: 1415
+stars: 14532
+forks: 1532
 open_issues: 11
-commits_30d: 5
+commits_30d: 4
 commits_90d: 10
-commit_cadence: weekly
+commit_cadence: "weekly"
 size_kb: 834
 archived: false
-fetched_at: "2026-11-04T01:11:36Z"
+fetched_at: "2026-11-09T21:47:04Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # awesome-opus5-5-videos

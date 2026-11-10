@@ -7,14 +7,14 @@ url: "https://github.com/7err4/fumika"
 author: "7err4"
 license: "NOASSERTION"
 language: "Python"
-stars: 5
+stars: 6
 forks: 3
 open_issues: 1
 created: "2026-10-21"
 updated: "2026-10-25"
-commits_30d: 0
-commits_90d: 0
-commit_cadence: "stale"
+commits_30d: 2
+commits_90d: 2
+commit_cadence: "monthly"
 size_kb: 10228
 archived: false
 risk_notes: "コードはApache-2.0だがCommons Clause付き（ソフトウェア自体の販売・ホスト有償サービスを制限）。OSIオープンソースではなくソース公開。ComfyUIノードパックはGPL-3.0。モデルは各配布元のライセンスに従う。出力物（ページ/漫画/アセット/LoRA）はFumikaのライセンス対象外。名称・ロゴ・キャラクターはAll rights reserved。当方未インストール。 当方でインストール・動作・性能の実行検証はしていない。"
@@ -22,8 +22,10 @@ sources: ["https://x.com/dextune/status/2119301388857745593", "https://github.co
 added: "2026-11-09"
 first_seen: "2026-11-09"
 source_post: "https://x.com/dextune/status/2119301388857745593"
-fetched_at: "2026-11-09T03:14:33+00:00"
+fetched_at: "2026-11-09T21:38:45Z"
 flags: ["unverified"]
+last_release: "v0.1.1"
+last_release_at: "2026-10-25"
 ---
 
 # Fumika — ローカル漫画・画像・LoRA学習スタジオ

@@ -4,25 +4,25 @@ name: "pdf-inspector"
 genre: rag
 url: "https://github.com/firecrawl/pdf-inspector"
 license: "MIT"
-stars: 19825
+stars: 19971
 language: "Rust"
 created: "2026-02-06"
-updated: 2026-10-22
+updated: "2026-10-22"
 added: "2026-11-04"
 first_seen: "2026-11-04"
 sources: []
 flags: []
 risk_notes: ""
-forks: 1337
-open_issues: 255
+forks: 1359
+open_issues: 259
 size_kb: 14138
 archived: false
-commits_30d: 1
+commits_30d: 0
 commits_90d: 100
-commit_cadence: monthly
-last_release: v1.25.2
-fetched_at: "2026-11-04T22:52:49Z"
-last_release_at: 2026-09-28
+commit_cadence: "monthly"
+last_release: "v1.25.2"
+fetched_at: "2026-11-09T21:42:08Z"
+last_release_at: "2026-09-28"
 ---
 
 # pdf-inspector

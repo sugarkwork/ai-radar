@@ -15,16 +15,18 @@ repo: "OpenBMB/VoxCPM"
 license: "Apache-2.0"
 language: "Python"
 created: "2025-09-16"
-updated: "2026-11-05"
-stars: 41797
-forks: 4763
+updated: "2026-11-09"
+stars: 42103
+forks: 4798
 open_issues: 173
-commits_30d: 2
-commits_90d: 23
+commits_30d: 3
+commits_90d: 22
 commit_cadence: "monthly"
 size_kb: 4267
 archived: false
-fetched_at: "2026-11-09T00:30:35.134775+00:00"
+fetched_at: "2026-11-09T21:43:30Z"
+last_release: "2.0.3"
+last_release_at: "2026-05-11"
 ---
 
 # OpenBMB/VoxCPM

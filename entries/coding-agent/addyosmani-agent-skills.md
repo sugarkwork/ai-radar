@@ -4,11 +4,11 @@ name: "Agent Skills"
 genre: "coding-agent"
 url: "https://github.com/addyosmani/agent-skills"
 license: "MIT"
-stars: 114034
+stars: 114537
 language: "JavaScript"
 created: "2026-02-15"
 updated: "2026-11-01"
-forks: 11915
+forks: 11972
 open_issues: 132
 commits_30d: 100
 commit_cadence: "daily"
@@ -24,7 +24,7 @@ type: "repo"
 added: "2026-11-09"
 first_seen: "2026-11-09"
 sources: ["https://x.com/sumika45379/status/2112884125120319643"]
-fetched_at: "2026-11-08T15:07:00Z"
+fetched_at: "2026-11-09T21:35:54Z"
 ---
 
 # Agent Skills — AIコーディングエージェント向け開発スキル25個（Addy Osmani）

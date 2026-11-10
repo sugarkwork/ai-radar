@@ -5,10 +5,10 @@ genre: 3d-motion
 url: https://github.com/Friedrich-M/UniMate
 author: Linzhan Mou ほか（Princeton / UC Berkeley / MIT / NTU）
 license: MIT
-stars: 2463
+stars: 2646
 language: Python
 created: 2026-07-22
-updated: 2026-10-08
+updated: "2026-10-08"
 added: 2026-11-04
 first_seen: 2026-11-04
 source_post: https://x.com/cutetoxicguy/status/2118116327093072374
@@ -16,14 +16,16 @@ sources:
   - https://linzhanmou.com/unimate/
   - https://arxiv.org/abs/2609.05415
   - https://huggingface.co/datasets/Linzhan/UniML3D
-forks: 262
+forks: 281
 open_issues: 10
-commits_30d: 2
-commits_90d: 21
-commit_cadence: monthly
+commits_30d: 0
+commits_90d: 19
+commit_cadence: "monthly"
 size_kb: 40387
 archived: false
-fetched_at: "2026-11-05T02:58:35Z"
+fetched_at: "2026-11-09T21:30:56Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # UniMate

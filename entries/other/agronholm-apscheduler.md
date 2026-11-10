@@ -4,10 +4,10 @@ name: APScheduler
 genre: other
 url: https://github.com/agronholm/apscheduler
 license: MIT
-stars: 7685
+stars: 7698
 language: Python
 created: 2016-03-27
-updated: 2026-10-26
+updated: "2026-10-26"
 added: 2026-11-05
 first_seen: 2026-11-05
 source_post: https://x.com/roundtablespace/status/2118172700757889191
@@ -15,16 +15,16 @@ sources:
   - https://apscheduler.readthedocs.io
 flags: []
 risk_notes: ""
-forks: 819
-open_issues: 86
-commits_30d: 7
+forks: 822
+open_issues: 90
+commits_30d: 4
 commits_90d: 21
-commit_cadence: weekly
+commit_cadence: "weekly"
 size_kb: 6069
 archived: false
-fetched_at: "2026-11-05T22:09:56Z"
-last_release: 3.11.3
-last_release_at: 2026-06-28
+fetched_at: "2026-11-09T21:40:40Z"
+last_release: "3.11.3"
+last_release_at: "2026-06-28"
 ---
 
 # APScheduler

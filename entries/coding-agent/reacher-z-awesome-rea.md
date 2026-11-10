@@ -16,15 +16,17 @@ license: "MIT"
 language: "Python"
 created: "2026-10-16"
 updated: "2026-11-09"
-stars: 2112
-forks: 391
-open_issues: 1845
+stars: 2312
+forks: 421
+open_issues: 1857
 commits_30d: 100
 commits_90d: 100
 commit_cadence: "daily"
-size_kb: 61807
+size_kb: 80981
 archived: false
-fetched_at: "2026-11-09T00:31:14.312588+00:00"
+fetched_at: "2026-11-09T21:36:45Z"
+last_release: "v0.12.0"
+last_release_at: "2026-10-17"
 ---
 
 # reacher-z/Awesome-REA

@@ -6,24 +6,25 @@ url: "https://github.com/QwenLM/Qwen-Image-2.1"
 author: "QwenLM (Alibaba Qwen team)"
 repo: "QwenLM/Qwen-Image-2.1"
 license: "NOASSERTION"
-stars: 2172
+stars: 2189
 language: "Python"
 created: "2026-09-14"
-updated: "2026-11-06"
+updated: "2026-10-14"
 added: "2026-11-06"
 first_seen: "2026-11-06"
 sources: ["https://x.com/Machinedelusion/status/2116624498933833758"]
 flags: []
 risk_notes: "ライセンスは Qwen Research License Agreement (NOASSERTION) で非商用限定。商用利用は model-business@notice.qwencloud.com への別途申請が必要 (LICENSE 20行目)。GitHub Releases は未作成のため版管理はコミット単位。重みは HF/ModelScope 側にありリポジトリに含まれない。2026-10-14 以降コミットが止まり、直近の変更はドキュメントのみ。発見源の投稿本文は別プロジェクト (HairDeck / アニメ髪カード生成) の説明で本リポジトリの内容と一致しない。README 内で dtype= と torch_dtype= の表記揺れがある。"
-forks: 157
-open_issues: 23
-commits_30d: 6
+forks: 158
+open_issues: 24
+commits_30d: 3
 commit_cadence: "monthly"
 size_kb: 16711
 archived: false
-fetched_at: "2026-11-06T15:35:26Z"
+fetched_at: "2026-11-09T21:38:26Z"
 last_release: ""
 last_release_at: ""
+commits_90d: 31
 ---
 
 # Qwen-Image-2.1 — 透過RGBAと最大10枚参照の編集に対応した7B画像生成モデル（Diffusers / vLLM-Omni / SGLang で配信）

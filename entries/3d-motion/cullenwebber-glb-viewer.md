@@ -7,16 +7,16 @@ url: https://github.com/cullenwebber/glb-viewer
 author: Cullen Webber（@SinzVII）
 license: none
 language: TypeScript
-stars: 16
-forks: 0
-open_issues: 0
+stars: 18
+forks: 2
+open_issues: 1
 added: 2026-11-08
 first_seen: 2026-11-07
 source_post: https://x.com/SinzVII/status/2118904126923055436
 sources: ["https://raw.githubusercontent.com/cullenwebber/glb-viewer/main/README.md", "https://x.com/sinzvii/status/2118904126923055436?a=WRpZZMJntrGprECzsA8&s=46", "https://x.com/SinzVII/status/2118904126923055436", "https://github.com/cullenwebber/glb-viewer"]
 flags: ["unverified"]
 risk_notes: "LICENSEファイルが404で、明示ライセンスなし（all rights reserved）。ソースは公開されているが、再配布・商用利用の許諾は不明。配布はmacOSのDMGのみ（arm64/x64、Apple公証なし→初回はOpen Anywayかxattr -cr）。Windows/Linuxのビルド手順はREADMEになく、Windows 11環境ではそのまま動かせない。16 starsの若いプロジェクトで、AI機能はない。DMG未ダウンロード・未起動（READMEとリポジトリ構成のみ確認）。"
-fetched_at: "2026-11-08T06:40:00Z"
+fetched_at: "2026-11-09T21:30:37Z"
 created: "2026-11-03"
 updated: "2026-11-04"
 commits_30d: 22
@@ -25,6 +25,8 @@ commit_cadence: "daily"
 size_kb: 9545
 archived: false
 amplifiers: []
+last_release: "v1.5.0"
+last_release_at: "2026-11-04"
 ---
 
 # GLB Viewer — Blender→three.js 向け GLB 最適化・KTX2 圧縮の macOS アプリ

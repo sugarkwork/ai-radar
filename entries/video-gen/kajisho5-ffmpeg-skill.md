@@ -5,24 +5,24 @@ genre: "video-gen"
 url: "https://github.com/kajisho5/ffmpeg-skill"
 repo: "kajisho5/ffmpeg-skill"
 license: "MIT"
-stars: 4672
+stars: 4880
 language: "Python"
 created: "2026-09-03"
-updated: "2026-11-06"
+updated: "2026-11-07"
 added: "2026-11-07"
 first_seen: "2026-11-07"
 sources: ["https://x.com/heyrimsha/status/2118662273044807904", "https://x.com/dopamine_crypto/status/2119018274516029751"]
 flags: ["unverified"]
 risk_notes: "実装は本物で、こちらで npx 導入→contract 42件→fit/check/look まで通したが、リスクは3点。(1) 実質ひとり開発：コミット270件が作者 kajisho5、146件が github-actions[bot]、53件が claude[bot]（2026-11-07 時点の contributors）。バス係数1で、方針変更やメンテ停止がそのまま影響する。(2) 壊しやすい速度：作成から2か月で 2.0.0 と 3.0.0 の2回の破壊的変更（--crf 廃止、FFmpeg 5.x / Python 3.9 切り捨て、cut.py の edit list・HEVC 保持の既定変更）。main 追従は危険で、タグ／npm バージョンで固定すべきと README 自身が書いている。(3) 数字の読み方：作成2か月で stars 4672・forks 379 に対し watchers 7。npm 週9,077DLと利用の実体はあるが、この stars 数を品質の裏付けとして扱わない。加えて README は作者の10本以上の姉妹リポジトリ（video-production-agent / remotion-ffmpeg-skill / qc-skill 等）への導線を兼ねており、宣伝面が大きい。macOS の素の Homebrew ffmpeg は libass/zscale を欠き doctor の ok が false になる（ffmpeg-full 前提）。リポジトリは 37MB で docs/demos の比重が大きい。"
-forks: 379
-open_issues: 15
+forks: 398
+open_issues: 13
 commits_30d: 100
 commit_cadence: "daily"
-size_kb: 37273
+size_kb: 39307
 archived: false
-fetched_at: "2026-11-07T01:21:00Z"
-last_release: "v3.2.0"
-last_release_at: "2026-11-06"
+fetched_at: "2026-11-09T21:45:21Z"
+last_release: "v3.2.3"
+last_release_at: "2026-11-07"
 commits_90d: 100
 author: "kajisho5"
 source_post: "https://x.com/dopamine_crypto/status/2119018274516029751"

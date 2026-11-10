@@ -4,23 +4,25 @@ name: "WeVisOne-VL"
 genre: other
 url: "https://github.com/Tencent/WeVisOne-VL"
 license: "Apache-2.0（Tencent 著作部分）"
-stars: 676
+stars: 1111
 language: "Jupyter Notebook"
 created: "2026-10-22"
-updated: 2026-10-25
+updated: "2026-10-25"
 added: "2026-11-03"
 first_seen: "2026-11-03"
 sources: []
 flags: []
 risk_notes: ""
-forks: 56
-open_issues: 6
+forks: 95
+open_issues: 7
 commits_30d: 3
-commit_cadence: monthly
+commit_cadence: "monthly"
 size_kb: 31126
 archived: false
 commits_90d: 3
-fetched_at: "2026-11-03T23:05:47Z"
+fetched_at: "2026-11-09T21:41:29Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # WeVisOne-VL

@@ -4,25 +4,25 @@ name: "OpenKB"
 genre: rag
 url: "https://github.com/VectifyAI/OpenKB"
 license: "Apache-2.0"
-stars: 4849
+stars: 4862
 language: "Python"
 created: "2026-04-04"
-updated: 2026-07-22
+updated: "2026-07-22"
 added: "2026-11-03"
 first_seen: "2026-11-03"
 sources: []
 flags: []
 risk_notes: ""
-forks: 503
-open_issues: 84
+forks: 504
+open_issues: 90
 commits_30d: 0
 commits_90d: 0
-commit_cadence: stale
+commit_cadence: "stale"
 size_kb: 33441
 archived: false
-fetched_at: "2026-11-04T22:51:44Z"
-last_release: v0.4.5
-last_release_at: 2026-07-20
+fetched_at: "2026-11-09T21:42:40Z"
+last_release: "v0.4.5"
+last_release_at: "2026-07-20"
 ---
 
 # OpenKB

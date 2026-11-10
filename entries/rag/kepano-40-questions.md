@@ -16,15 +16,17 @@ license: "unknown"
 language: "unknown"
 created: "2019-01-06"
 updated: "2026-03-09"
-stars: 1765
-forks: 201
+stars: 1782
+forks: 202
 open_issues: 2
 commits_30d: 0
 commits_90d: 0
 commit_cadence: "stale"
 size_kb: 248
 archived: false
-fetched_at: "2026-11-09T00:31:11.550654+00:00"
+fetched_at: "2026-11-09T21:42:20Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # kepano/40-questions

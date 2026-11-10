@@ -4,24 +4,24 @@ name: "Scrapling"
 genre: "mcp-server"
 url: "https://github.com/D4Vinci/Scrapling"
 license: "BSD-3-Clause"
-stars: 98814
+stars: 100495
 language: "Python"
 created: "2024-10-13"
-updated: 2026-11-06
+updated: "2026-11-09"
 added: "2026-11-06"
 first_seen: "2026-11-06"
 sources: ["https://x.com/AISuperDomain/status/2118353773701849567"]
 flags: []
 risk_notes: "スクレイピングツールのため、対象サイトの利用規約・robots.txt・著作権・個人情報保護を確認し、レート制限を守ること。Cloudflare 等の突破機能は規約違反や損害賠償リスクになり得る。"
-forks: 10351
-open_issues: 15
-commits_30d: 100
-commit_cadence: daily
-size_kb: 16790
+forks: 10502
+open_issues: 19
+commits_30d: 97
+commit_cadence: "daily"
+size_kb: 16312
 archived: false
-fetched_at: "2026-11-06T22:53:47Z"
-last_release: v0.5.1
-last_release_at: 2026-11-04
+fetched_at: "2026-11-09T21:38:51Z"
+last_release: "v0.5.1"
+last_release_at: "2026-11-04"
 commits_90d: 100
 ---
 

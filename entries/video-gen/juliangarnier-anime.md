@@ -16,15 +16,17 @@ license: "MIT"
 language: "JavaScript"
 created: "2016-03-13"
 updated: "2026-11-02"
-stars: 74441
-forks: 5067
+stars: 74464
+forks: 5070
 open_issues: 129
 commits_30d: 0
 commits_90d: 0
 commit_cadence: "stale"
 size_kb: 185735
 archived: false
-fetched_at: "2026-11-09T00:31:18.485804+00:00"
+fetched_at: "2026-11-09T21:45:11Z"
+last_release: "v4.5.0"
+last_release_at: "2026-06-22"
 ---
 
 # juliangarnier/anime

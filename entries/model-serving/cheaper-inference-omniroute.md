@@ -4,25 +4,25 @@ name: "OmniRoute"
 genre: model-serving
 url: "https://github.com/cheaper-inference/OmniRoute"
 license: "MIT"
-stars: 84278
+stars: 85969
 language: "TypeScript"
 created: "2026-02-13"
-updated: 2026-11-03
+updated: "2026-11-09"
 added: "2026-11-03"
 first_seen: "2026-11-03"
 sources: []
 flags: []
 risk_notes: ""
-forks: 12649
-open_issues: 564
+forks: 13041
+open_issues: 528
 commits_30d: 100
 commits_90d: 100
-commit_cadence: daily
-size_kb: 2502883
+commit_cadence: "daily"
+size_kb: 3124513
 archived: false
-fetched_at: "2026-11-03T22:58:33Z"
-last_release: v3.8.52
-last_release_at: 2026-10-19
+fetched_at: "2026-11-09T21:39:42Z"
+last_release: "v3.8.53"
+last_release_at: "2026-11-06"
 ---
 
 # OmniRoute

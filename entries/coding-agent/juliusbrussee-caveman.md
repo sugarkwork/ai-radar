@@ -5,16 +5,16 @@ genre: "coding-agent"
 url: "https://github.com/JuliusBrussee/caveman"
 author: "Julius Brussee"
 license: "Apache-2.0"
-stars: 118293
+stars: 118623
 language: "Go"
 created: "2026-04-04"
-updated: "2026-11-08"
-forks: 6883
-open_issues: 70
+updated: "2026-11-09"
+forks: 6907
+open_issues: 74
 commits_30d: 100
 commits_90d: 100
 commit_cadence: "daily"
-size_kb: 21749
+size_kb: 21750
 archived: false
 last_release: "v4.1.0"
 last_release_at: "2026-11-08"
@@ -24,7 +24,7 @@ type: "repo"
 added: "2026-11-09"
 first_seen: "2026-11-09"
 sources: ["https://x.com/sumika45379/status/2112884125120319643"]
-fetched_at: "2026-11-08T15:14:30Z"
+fetched_at: "2026-11-09T21:36:14Z"
 ---
 
 # Caveman — コーディングエージェントのトークンを削るskill集＋CLI

@@ -4,25 +4,25 @@ name: "huashu-motion（花叔）"
 genre: "video-gen"
 url: "https://github.com/alchaincyf/huashu-motion"
 license: "MIT"
-stars: 2205
+stars: 2567
 language: "JavaScript"
 created: "2026-10-18"
-updated: 2026-10-22
+updated: "2026-10-22"
 added: "2026-11-03"
 sources:
   - "https://x.com/daaihq/status/2117446567284367459"
 flags: []
 risk_notes: ""
-forks: 215
+forks: 257
 open_issues: 4
 commits_30d: 15
 commits_90d: 15
-commit_cadence: weekly
+commit_cadence: "weekly"
 size_kb: 43226
 archived: false
-fetched_at: "2026-11-03T15:43:04Z"
-last_release: v0.3.1
-last_release_at: 2026-10-22
+fetched_at: "2026-11-09T21:43:56Z"
+last_release: "v0.3.1"
+last_release_at: "2026-10-22"
 ---
 
 # huashu-motion（花叔）

@@ -5,24 +5,24 @@ genre: "mcp-server"
 url: "https://github.com/sbroenne/mcp-server-excel"
 repo: "sbroenne/mcp-server-excel"
 license: "MIT"
-stars: 853
+stars: 875
 language: "C#"
 created: "2025-10-19"
-updated: 2026-11-05
+updated: "2026-11-09"
 added: "2026-11-06"
 first_seen: "2026-11-05"
 sources: ["https://x.com/bkdgiffug/status/2118155587850559963", "https://excelmcpserver.dev/"]
 flags: []
 risk_notes: "動作要件が重い：Windows、Microsoft Excel 2016 以降、対話的デスクトップ、.NET 10 が必要。Linux・macOS・サーバ側のバッチ処理は非対応と明記されている（ヘッドレスサーバでは動かない）。投稿の『31ツール・326操作』は古く、README の取得時点の表記は『437 operations』。Excel の COM API をそのまま叩くため、VBA 実行や Python in Excel（`=PY()`）も AI から呼べる構成であり、信頼できないブックを開かせるとマクロが動く。実行は自分のデスクトップの Excel プロセス上なので、作業中のブックを閉じる必要がある（開いているファイルは Excel の判断で読み取り専用になる）。"
-forks: 106
-open_issues: 7
+forks: 108
+open_issues: 9
 commits_30d: 100
-commit_cadence: daily
-size_kb: 34980
+commit_cadence: "daily"
+size_kb: 35154
 archived: false
-fetched_at: "2026-11-06T09:14:27Z"
-last_release: v2.6.11
-last_release_at: 2026-11-03
+fetched_at: "2026-11-09T21:39:09Z"
+last_release: "v2.6.11"
+last_release_at: "2026-11-03"
 commits_90d: 100
 ---
 

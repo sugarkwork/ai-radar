@@ -5,16 +5,16 @@ genre: "mcp-server"
 url: "https://github.com/morluto/rea"
 author: "morluto"
 license: "MIT"
-stars: 444457
+stars: 446665
 language: "TypeScript"
 created: "2026-04-14"
 updated: "2026-11-09"
-forks: 109755
-open_issues: 1695
+forks: 110198
+open_issues: 1650
 commits_30d: 100
 commits_90d: 100
 commit_cadence: "daily"
-size_kb: 145429
+size_kb: 149077
 archived: false
 last_release: "rea-agents-6.8.0"
 last_release_at: "2026-10-25"
@@ -25,7 +25,7 @@ source_post: "https://x.com/wquguru/status/2113181135522214168"
 sources: ["https://github.com/morluto/rea", "https://api.github.com/repos/morluto/rea", "https://x.com/wquguru/status/2113181135522214168"]
 type: "repo"
 first_seen: "2026-11-09"
-fetched_at: "2026-11-09T05:51:44Z"
+fetched_at: "2026-11-09T21:39:06Z"
 ---
 
 # REA — バイナリからアプリまで、エージェント向け逆解析 MCP サーバー

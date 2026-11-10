@@ -4,26 +4,26 @@ name: cryptofeed
 genre: finance-quant
 url: https://github.com/bmoscon/cryptofeed
 license: AGPL-3.0
-stars: 2976
+stars: 3018
 language: Python
 created: 2017-12-16
-updated: 2026-11-06
+updated: "2026-11-09"
 added: 2026-11-05
 first_seen: 2026-11-05
 source_post: https://x.com/roundtablespace/status/2118172700757889191
 sources: []
 flags: []
 risk_notes: "AGPL-3.0。改変版をネットワークサービスとして提供する場合はソース公開義務が生じる。取引所のAPI利用規約とレート制限に従うこと。"
-forks: 783
-open_issues: 0
-commits_30d: 50
-commits_90d: 86
-commit_cadence: daily
-size_kb: 1157596
+forks: 791
+open_issues: 3
+commits_30d: 49
+commits_90d: 80
+commit_cadence: "daily"
+size_kb: 1157866
 archived: false
-fetched_at: "2026-11-06T22:53:19Z"
-last_release: v3.0.4
-last_release_at: 2026-11-06
+fetched_at: "2026-11-09T21:37:20Z"
+last_release: "v3.0.4"
+last_release_at: "2026-11-06"
 ---
 
 # cryptofeed

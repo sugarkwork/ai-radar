@@ -15,16 +15,18 @@ repo: "adventists-ai/sophon-realtime"
 license: "Apache-2.0"
 language: "Python"
 created: "2026-11-04"
-updated: "2026-11-08"
-stars: 12
-forks: 2
+updated: "2026-11-09"
+stars: 58
+forks: 4
 open_issues: 0
-commits_30d: 27
-commits_90d: 27
+commits_30d: 36
+commits_90d: 36
 commit_cadence: "daily"
-size_kb: 6721
+size_kb: 6768
 archived: false
-fetched_at: "2026-11-09T00:31:38.588651+00:00"
+fetched_at: "2026-11-09T21:42:53Z"
+last_release: "v1.0"
+last_release_at: "2026-11-08"
 ---
 
 # adventists-ai/sophon-realtime

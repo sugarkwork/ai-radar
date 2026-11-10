@@ -5,16 +5,16 @@ genre: "other"
 url: "https://github.com/nuxt/ui"
 author: "nuxt"
 license: "MIT"
-stars: 7060
+stars: 7061
 language: "TypeScript"
 created: "2021-11-15"
-updated: "2026-11-06"
+updated: "2026-11-09"
 forks: 1154
-open_issues: 188
+open_issues: 187
 commits_30d: 100
 commits_90d: 100
 commit_cadence: "daily"
-size_kb: 151230
+size_kb: 151393
 archived: false
 last_release: "v4.12.0"
 last_release_at: "2026-10-15"
@@ -25,7 +25,7 @@ risk_notes: "「ページの JS が最大27%減」は本家 v4.12.0 リリース
 added: "2026-11-09"
 first_seen: "2026-11-09"
 sources: ["https://x.com/opensourcelab9/status/2113518286113767883"]
-fetched_at: "2026-11-09T01:33:00Z"
+fetched_at: "2026-11-09T21:41:20Z"
 ---
 
 # Nuxt UI — Vue/Nuxt 向け UI ライブラリ、v4.12 で TanStack Charts ベースの Chart を追加

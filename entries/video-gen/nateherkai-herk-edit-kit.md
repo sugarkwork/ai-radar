@@ -5,7 +5,7 @@ genre: "video-gen"
 url: "https://github.com/nateherkai/herk-edit-kit"
 repo: "nateherkai/herk-edit-kit"
 license: "MIT（LICENSE 本文は MIT。GitHub API は NOASSERTION。ブランド素材と pipeline 部分に別条件）"
-stars: 2612
+stars: 2691
 language: "HTML"
 created: "2026-04-18"
 updated: "2026-10-14"
@@ -14,15 +14,16 @@ first_seen: "2026-11-07"
 sources: ["https://x.com/heyrimsha/status/2118662273044807904"]
 flags: []
 risk_notes: "ライセンスは二段構え。ルート LICENSE は MIT（著作権 Nate Herk）だが末尾に「AIS（AI Automation Society）のロゴ・ブランドガイドライン画像・ブランドトークンCSS・一部サンプルの内容は AIS の財産で再利用許諾なし」と明記され、GitHub API も spdx NOASSERTION を返す。pipeline 部分は licenses/PIPELINE-USE-PERMISSION.txt の独自許可、hyperframes/gsap/hyperframes-cli/hyperframes-registry/website-to-hyperframes の5スキルは heygen-com/hyperframes（Apache-2.0）からの取り込みで skills-lock.json にソースとハッシュが記録されている。商用利用時は AIS 素材の差し替えが必須（README もそう指示）。\n\n未解決のセキュリティ指摘：issue #16（2026-10-08、未対応・未クローズ）で motion-showreel/scripts/kie.mjs の upload() が --ref / --image のパスを検証せず、任意のローカルファイルを base64 で Kie.ai に送る点が報告されている。エージェントが読んだ文字起こしやWebページ経由のプロンプトインジェクションで資格情報を外部送信させ得る。Kie.ai を使わない構成なら影響は無いが、生成B-rollを使うなら注意。\n\nメンテ体制：作者は Nate Herk 1人。全14コミットが同一作者で、日付が固まって飛ぶ（2026-04-18 の初回、09-08 の統合、09-25〜09-28、10-13〜10-14）。2026-10-14 以降 push が無く、30日コミットは4。open 13件のうち11件は未マージPR（2026-09-11〜10-29、うち最新の PR #19 は「silence cut の ffmpeg 呼び出しをテストしていない」というギャップ指摘で、これは実際にこちらの検証でも core の ffmpeg 経路がテスト対象外だと確認できた）。コントリビューションは取り込まれていない前提で読むべき。\n\nサイズ：クローン実測 788MB（video-projects の既存12プロジェクト 287MB、examples/showcase の完成動画 111MB を含む）。npm ci は 139パッケージ・約1分、npm audit は 8件（high 6 / moderate 2）を devDependencies 側で報告。初回レンダーで HyperFrames が Chrome を別途取得する（約115MB）。\n\n既定の文字起こしは ElevenLabs Scribe で音声を外部送信し課金される。README/TOOLS-AND-API-KEYS.md は Whisper API・ローカル Whisper・既存の word-level JSON の持ち込みを代替として明記しており、切り分けは誠実。Kie.ai は任意。\n\n軽微：cut-silences.mjs が出力する ffmpegCommand 文字列が \"-/filter_complex\" になっており（280行目）、コピペ用のコマンドとしては不正。ffmpeg 9 は解釈するので動作に支障は無いが、生成されるレシピ文字列を誰も検証していないことの表れ。\n\nレンダーは Chrome 前提。CPU のみのコンテナでは 8秒 1080p のドラフトに 8分8秒かかった（GPU 環境なら大幅に短い）。"
-forks: 635
+forks: 652
 open_issues: 13
 commits_30d: 4
-commit_cadence: "bursty"
+commit_cadence: "weekly"
 size_kb: 460128
 archived: false
-fetched_at: "2026-11-07T01:47:00Z"
+fetched_at: "2026-11-09T21:46:02Z"
 last_release: ""
 last_release_at: ""
+commits_90d: 13
 ---
 
 # Herk Edit Kit — 文字起こしから無音カット・字幕・モーショングラフィックまで、Codex / Claude Code に編集させる15スキル

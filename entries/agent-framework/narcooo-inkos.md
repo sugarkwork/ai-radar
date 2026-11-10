@@ -6,24 +6,24 @@ url: https://github.com/Narcooo/inkos
 license: AGPL-3.0
 language: TypeScript
 created: 2026-03-12
-updated: 2026-10-24
+updated: "2026-10-24"
 added: 2026-11-04
 first_seen: 2026-11-04
 sources:
   - https://x.com/awe0_io/status/2117581510547312710
 flags: []
 risk_notes: "AGPL-3.0。ネットワーク経由で提供する場合はソース公開義務が生じる。生成物の権利・出版条件は利用者側で確認。"
-stars: 11002
-forks: 2002
-open_issues: 249
+stars: 11086
+forks: 2015
+open_issues: 251
 commits_30d: 6
 commits_90d: 100
-commit_cadence: weekly
+commit_cadence: "weekly"
 size_kb: 31015
 archived: false
-fetched_at: "2026-11-04T22:51:11Z"
-last_release: v1.8.0
-last_release_at: 2026-08-17
+fetched_at: "2026-11-09T21:34:01Z"
+last_release: "v1.8.0"
+last_release_at: "2026-08-17"
 ---
 
 # InkOS

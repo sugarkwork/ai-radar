@@ -5,23 +5,25 @@ genre: "tts-audio"
 url: "https://github.com/hexgrad/kokoro"
 repo: "hexgrad/kokoro"
 license: "Apache-2.0"
-stars: 9947
+stars: 10016
 language: "JavaScript"
 created: "2025-01-10"
-updated: 2025-08-06
+updated: "2025-08-06"
 added: "2026-11-07"
 first_seen: "2026-11-07"
 sources: ["https://x.com/abir35627/status/2118648224202551573"]
 flags: []
 risk_notes: "① このリポジトリは推論コードのみ。重みは HF の hexgrad/Kokoro-82M 側にあり、JS 実装は同リポジトリの kokoro.js/ サブディレクトリ（npm kokoro-js）。② 実質的にメンテ停止: 最終 push 2025-08-06、HF モデルカードの最終更新 2025-04-10、PyPI 0.9.4 は 2025-04-05、npm 1.2.1 は 2025-05-03、直近30日 commit 0、open issues 222。★9.9k は開発の活発さではなく配布実績（HF 月間約1,200万DL、npm 週約23万DL）の指標。③ kokoro-js の G2P は英語固定（phonemize.js が \"a\"→en-us、それ以外→en に落とす）。日本語・中国語などは Python + misaki が必須で、ブラウザ完結の多言語は不可。④ espeak-ng が OS 依存（Linux は apt、Windows は公式 msi）。無いと英語の辞書外フォールバックと一部言語が落ちる。⑤ Python 3.13 非対応（PyPI は >=3.10,<3.13、pyproject は <3.14 と表記が食い違う）。⑥ 声質のばらつきが大きい: VOICES.md が声ごとの学習時間を格付けしており、MM 分級（数十分）の声や F+ 評価の声もある。日本語は 5 声のみ。⑦ 重みは Apache-2.0 だが学習データに CC BY 3.0（Koniwa、1時間未満）と CC BY 4.0（SIWIS、11時間未満）が混在し、再配布時は帰属表示が必要。voices/*.pt 個別のライセンス条項は明示なし。⑧ 100〜500 トークンが最適で、10〜20 未満の短文と 400 超の長文で品質が落ちる。⑨ モデルカードが「kokoro を冠する類似ドメインは無関係の詐称サイト」と警告している。"
-forks: 1113
-open_issues: 222
+forks: 1121
+open_issues: 223
 commits_30d: 0
 size_kb: 29122
 archived: false
 commits_90d: 0
-commit_cadence: stale
-fetched_at: "2026-11-07T05:24:55Z"
+commit_cadence: "stale"
+fetched_at: "2026-11-09T21:43:06Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # Kokoro — 82M パラメータで 9 言語 54 ボイスを出すオープンウェイト TTS の推論ライブラリ

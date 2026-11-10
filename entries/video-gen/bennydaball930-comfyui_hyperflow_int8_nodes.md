@@ -15,16 +15,18 @@ repo: "BennyDaBall930/comfyui_hyperflow_int8_nodes"
 license: "GPL-3.0"
 language: "Python"
 created: "2026-11-07"
-updated: "2026-11-08"
+updated: "2026-11-09"
 stars: 3
 forks: 0
 open_issues: 0
-commits_30d: 9
-commits_90d: 9
+commits_30d: 10
+commits_90d: 10
 commit_cadence: "weekly"
-size_kb: 3664
+size_kb: 3673
 archived: false
-fetched_at: "2026-11-09T00:31:31.933955+00:00"
+fetched_at: "2026-11-09T21:44:08Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # BennyDaBall930/comfyui_hyperflow_int8_nodes

@@ -4,23 +4,25 @@ name: "pixelfx"
 genre: image-gen
 url: "https://github.com/patch-gg/pixelfx"
 license: "MIT"
-stars: 3966
+stars: 6308
 language: "JavaScript"
 created: "2026-10-30"
-updated: 2026-10-31
+updated: "2026-11-09"
 added: "2026-11-03"
 sources:
   - "https://x.com/daaihq/status/2117446567284367459"
 flags: []
 risk_notes: ""
-forks: 543
-open_issues: 2
-commits_30d: 8
-commits_90d: 8
-commit_cadence: weekly
-size_kb: 25462
+forks: 830
+open_issues: 11
+commits_30d: 9
+commits_90d: 9
+commit_cadence: "weekly"
+size_kb: 25357
 archived: false
-fetched_at: "2026-11-03T15:42:39Z"
+fetched_at: "2026-11-09T21:38:24Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # pixelfx

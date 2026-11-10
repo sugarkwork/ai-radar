@@ -5,12 +5,12 @@ genre: "agent-framework"
 url: "https://github.com/vxcontrol/pentagi"
 author: "VXControl"
 license: "MIT"
-stars: 33728
+stars: 33799
 language: "Go"
 created: "2025-01-06"
 updated: "2026-10-22"
-forks: 5277
-open_issues: 69
+forks: 5305
+open_issues: 70
 size_kb: 60557
 archived: false
 commits_30d: 1
@@ -24,7 +24,7 @@ type: "repo"
 added: "2026-11-09"
 first_seen: "2026-11-09"
 sources: ["https://x.com/wquguru/status/2113181135522214168"]
-fetched_at: "2026-11-09T05:01:41Z"
+fetched_at: "2026-11-09T21:35:35Z"
 ---
 
 # PentAGI — サンドボックス内で20以上のツールを動かす自律ペネトレーションテスト基盤

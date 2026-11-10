@@ -5,23 +5,25 @@ genre: agent-framework
 url: https://github.com/plannotator/effective-html
 author: Plannotator（backnotprop）
 license: MIT
-stars: 3858
+stars: 4060
 language: HTML
 created: 2026-06-09
-updated: 2026-10-31
+updated: "2026-10-31"
 added: 2026-11-04
 first_seen: 2026-11-04
 source_post: https://x.com/awe0_io/status/2117992033130537470
 sources:
   - https://www.effectivehtml.com/
-forks: 265
+forks: 280
 open_issues: 6
 commits_30d: 5
 commits_90d: 8
-commit_cadence: weekly
+commit_cadence: "weekly"
 size_kb: 20188
 archived: false
-fetched_at: "2026-11-05T03:29:06Z"
+fetched_at: "2026-11-09T21:34:37Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # Effective HTML

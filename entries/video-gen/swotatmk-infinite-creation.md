@@ -4,23 +4,23 @@ name: Infinite Creation（Agent无限创作）
 genre: video-gen
 url: https://github.com/SwotAtmk/infinite-creation
 license: MIT
-stars: 259
+stars: 295
 language: JavaScript
 created: 2026-09-09
-updated: 2026-11-06
+updated: "2026-11-09"
 added: 2026-11-03
 sources:
   - https://x.com/superfang119/status/2117543981446058211
-forks: 63
+forks: 69
 open_issues: 6
 commits_30d: 100
 commits_90d: 100
-commit_cadence: daily
-size_kb: 124065
+commit_cadence: "daily"
+size_kb: 124231
 archived: false
-fetched_at: "2026-11-06T22:51:54Z"
-last_release: v1.0.8
-last_release_at: 2026-11-06
+fetched_at: "2026-11-09T21:46:37Z"
+last_release: "v1.0.8"
+last_release_at: "2026-11-06"
 ---
 
 # Infinite Creation（Agent无限创作）

@@ -6,22 +6,24 @@ url: https://github.com/Alisa0808/vox-director
 license: MIT
 language: Python
 created: 2026-07-10
-updated: 2026-10-05
+updated: "2026-10-05"
 added: 2026-11-04
 first_seen: 2026-11-04
 sources:
   - https://x.com/dopamine_crypto/status/2117557411363860742
 flags: []
 risk_notes: ""
-stars: 2608
-forks: 365
-open_issues: 6
-commits_30d: 1
-commits_90d: 2
-commit_cadence: monthly
+stars: 2735
+forks: 376
+open_issues: 7
+commits_30d: 0
+commits_90d: 1
+commit_cadence: "stale"
 size_kb: 53626
 archived: false
-fetched_at: "2026-11-04T01:23:42Z"
+fetched_at: "2026-11-09T21:43:58Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # vox-director

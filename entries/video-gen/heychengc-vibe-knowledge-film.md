@@ -4,23 +4,25 @@ name: "vibe-knowledge-film"
 genre: "video-gen"
 url: "https://github.com/HeyChengC/vibe-knowledge-film"
 license: "未確認（GitHub API は NOASSERTION）"
-stars: 977
+stars: 1191
 language: "JavaScript"
 created: "2026-10-06"
-updated: 2026-10-13
+updated: "2026-10-13"
 added: "2026-11-03"
 sources:
   - "https://x.com/daaihq/status/2117446567284367459"
 flags: [unverified]
 risk_notes: "ライセンス未確認（API は NOASSERTION、標準ライセンスファイル無し）。参照サンプルの転用可否も不明。"
-forks: 98
+forks: 112
 open_issues: 0
-commits_30d: 9
+commits_30d: 2
 commits_90d: 9
-commit_cadence: weekly
+commit_cadence: "monthly"
 size_kb: 47139
 archived: false
-fetched_at: "2026-11-03T15:43:14Z"
+fetched_at: "2026-11-09T21:44:57Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # vibe-knowledge-film

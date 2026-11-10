@@ -5,26 +5,26 @@ genre: agent-framework
 url: https://github.com/RUC-NLPIR/CoworkOS
 author: RUC-NLPIR（中国人民大学 NLP 研究室）
 license: MIT
-stars: 117
+stars: 148
 language: JavaScript
 created: 2026-11-03
-updated: 2026-11-03
+updated: "2026-11-03"
 added: 2026-11-04
 first_seen: 2026-11-03
 source_post: https://x.com/wildmindai/status/2117717765696241875
 sources:
   - https://coworkos-ai.github.io/
   - https://arxiv.org/abs/2611.03178
-forks: 12
+forks: 16
 open_issues: 4
 commits_30d: 17
 commits_90d: 17
-commit_cadence: weekly
-last_release: v0.1.3
+commit_cadence: "weekly"
+last_release: "v0.1.3"
 size_kb: 10416
 archived: false
-fetched_at: "2026-11-04T22:51:25Z"
-last_release_at: 2026-11-03
+fetched_at: "2026-11-09T21:34:45Z"
+last_release_at: "2026-11-03"
 ---
 
 # CoworkOS

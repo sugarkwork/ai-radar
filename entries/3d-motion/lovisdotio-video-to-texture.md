@@ -24,7 +24,9 @@ commits_90d: 6
 commit_cadence: "weekly"
 size_kb: 20685
 archived: false
-fetched_at: "2026-11-09T00:30:45.427305+00:00"
+fetched_at: "2026-11-09T21:31:22Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # lovisdotio/video-to-texture

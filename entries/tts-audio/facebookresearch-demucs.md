@@ -4,23 +4,25 @@ name: "Demucs"
 genre: "tts-audio"
 url: "https://github.com/facebookresearch/demucs"
 license: "MIT"
-stars: 10402
+stars: 10406
 language: "Python"
 created: "2019-10-25"
-updated: 2024-04-24
+updated: "2024-04-24"
 added: "2026-11-03"
 sources:
   - "https://x.com/RoundtableSpace/status/2117357328152350832"
 flags: []
 risk_notes: ""
-forks: 1670
+forks: 1674
 open_issues: 275
 commits_30d: 0
 commits_90d: 0
-commit_cadence: stale
+commit_cadence: "stale"
 size_kb: 78580
 archived: true
-fetched_at: "2026-11-03T15:42:46Z"
+fetched_at: "2026-11-09T21:43:04Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # Demucs

@@ -6,24 +6,24 @@ url: https://github.com/sickn33/agentic-awesome-skills
 license: MIT
 language: Python
 created: 2026-01-14
-updated: 2026-11-06
+updated: "2026-11-09"
 added: 2026-11-04
 first_seen: 2026-11-04
 sources:
   - https://x.com/csaba_kissi/status/2117522406730572218
 flags: []
 risk_notes: ""
-stars: 49284
-forks: 7150
-open_issues: 7
+stars: 49414
+forks: 7167
+open_issues: 0
 commits_30d: 100
 commits_90d: 100
-commit_cadence: daily
-size_kb: 452840
+commit_cadence: "daily"
+size_kb: 451349
 archived: false
-fetched_at: "2026-11-06T22:52:29Z"
-last_release: v20.6.0
-last_release_at: 2026-11-05
+fetched_at: "2026-11-09T21:34:53Z"
+last_release: "v20.7.0"
+last_release_at: "2026-11-09"
 ---
 
 # agentic-awesome-skills（AAS）

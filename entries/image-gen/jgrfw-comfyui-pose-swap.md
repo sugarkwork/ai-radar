@@ -4,24 +4,26 @@ name: ComfyUI AICG3D PoseSwap
 genre: image-gen
 url: https://github.com/JGRFW/comfyui-aicg3d-PoseSwap
 license: MIT
-stars: 148
+stars: 330
 language: HTML
 created: 2026-10-30
-updated: 2026-11-01
+updated: "2026-11-01"
 added: 2026-11-05
 first_seen: 2026-11-05
 source_post: https://x.com/servasyy_ai/status/2118524399582371985
 sources: []
 flags: []
 risk_notes: "同梱の約4,300枚の参照画像（頭・ポーズ・衣装）は第三者図庫由来で、コードのMITとは別の利用条件がある。画像を含めた再配布・商用利用は不可。"
-forks: 24
+forks: 47
 open_issues: 1
 commits_30d: 7
 commits_90d: 7
-commit_cadence: weekly
+commit_cadence: "weekly"
 size_kb: 385305
 archived: false
-fetched_at: "2026-11-06T03:38:01Z"
+fetched_at: "2026-11-09T21:38:16Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # ComfyUI AICG3D PoseSwap

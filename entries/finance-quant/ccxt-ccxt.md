@@ -4,25 +4,25 @@ name: "CCXT"
 genre: finance-quant
 url: "https://github.com/ccxt/ccxt"
 license: "MIT"
-stars: 44774
+stars: 44839
 language: "Python"
 created: "2017-05-14"
-updated: 2026-11-06
+updated: "2026-11-09"
 added: "2026-11-03"
 first_seen: "2026-11-03"
 sources: []
 flags: []
 risk_notes: ""
-forks: 8956
-open_issues: 772
+forks: 8963
+open_issues: 762
 commits_30d: 100
 commits_90d: 100
-commit_cadence: daily
-size_kb: 8895675
+commit_cadence: "daily"
+size_kb: 8929766
 archived: false
-fetched_at: "2026-11-06T22:54:18Z"
-last_release: v4.5.92
-last_release_at: 2026-11-04
+fetched_at: "2026-11-09T21:37:23Z"
+last_release: "v4.5.92"
+last_release_at: "2026-11-04"
 ---
 
 # CCXT

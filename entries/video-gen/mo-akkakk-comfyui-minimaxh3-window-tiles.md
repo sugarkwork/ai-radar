@@ -4,10 +4,10 @@ name: MiniMax H3 Temporal Window & Spatial Tiles
 genre: video-gen
 url: https://github.com/mo-akkakk/ComfyUI-MiniMaxH3-TemporalWindow-SpatialTiles
 license: MIT
-stars: 45
+stars: 53
 language: Python
 created: 2026-10-25
-updated: 2026-11-06
+updated: "2026-11-09"
 added: 2026-11-05
 first_seen: 2026-11-05
 source_post: https://x.com/superfang119/status/2118332751975989486
@@ -17,12 +17,14 @@ flags: []
 risk_notes: ""
 forks: 5
 open_issues: 0
-commits_30d: 22
-commits_90d: 22
-commit_cadence: daily
-size_kb: 626
+commits_30d: 30
+commits_90d: 30
+commit_cadence: "daily"
+size_kb: 1025
 archived: false
-fetched_at: "2026-11-06T22:53:15Z"
+fetched_at: "2026-11-09T21:45:57Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # MiniMax H3 V2V Temporal Window & Spatial Tiles

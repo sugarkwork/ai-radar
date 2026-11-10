@@ -16,15 +16,17 @@ license: "MIT"
 language: "TypeScript"
 created: "2026-08-13"
 updated: "2026-11-09"
-stars: 7235
-forks: 350
-open_issues: 122
+stars: 7319
+forks: 351
+open_issues: 125
 commits_30d: 100
 commits_90d: 100
 commit_cadence: "daily"
-size_kb: 52072
+size_kb: 52053
 archived: false
-fetched_at: "2026-11-09T00:30:40.166778+00:00"
+fetched_at: "2026-11-09T21:32:41Z"
+last_release: "v0.19.0"
+last_release_at: "2026-11-06"
 ---
 
 # ccch1mneyyy/dsh-TUI

@@ -5,16 +5,16 @@ genre: "agent-framework"
 url: "https://github.com/livekit/agents"
 author: "LiveKit"
 license: "Apache-2.0"
-stars: 15144
+stars: 15158
 language: "Python"
 created: "2023-10-19"
-updated: "2026-11-08"
-forks: 4095
-open_issues: 931
+updated: "2026-11-09"
+forks: 4108
+open_issues: 949
 commits_30d: 100
 commits_90d: 100
 commit_cadence: "daily"
-size_kb: 52471
+size_kb: 52726
 archived: false
 last_release: "livekit-agents@1.8.11"
 last_release_at: "2026-11-05"
@@ -24,7 +24,7 @@ type: "repo"
 added: "2026-11-09"
 first_seen: "2026-11-09"
 sources: ["https://x.com/opensourcelab9/status/2113397488862605824"]
-fetched_at: "2026-11-09T00:40:02Z"
+fetched_at: "2026-11-09T21:33:38Z"
 ---
 
 # LiveKit Agents — リアルタイム音声AIエージェントフレームワーク

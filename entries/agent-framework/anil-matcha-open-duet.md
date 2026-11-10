@@ -4,23 +4,25 @@ name: Open Duet
 genre: agent-framework
 url: https://github.com/Anil-matcha/open-duet
 license: Apache-2.0
-stars: 6841
+stars: 6936
 language: Python
 created: 2023-05-25
-updated: 2026-11-06
+updated: "2026-11-09"
 added: 2026-11-03
 sources:
   - https://x.com/silvanrec/status/2117272930543403244
   - https://x.com/aridot_/status/2117286296653648315
   - https://x.com/alextalksai/status/2117282806782992875
-forks: 884
+forks: 897
 open_issues: 10
 commits_30d: 100
 commits_90d: 100
-commit_cadence: daily
-size_kb: 5240
+commit_cadence: "daily"
+size_kb: 5980
 archived: false
-fetched_at: "2026-11-06T22:52:04Z"
+fetched_at: "2026-11-09T21:32:15Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # Open Duet

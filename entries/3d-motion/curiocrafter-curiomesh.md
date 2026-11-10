@@ -4,10 +4,10 @@ name: CurioMesh
 genre: 3d-motion
 url: https://github.com/CurioCrafter/CurioMesh
 license: GPL-3.0
-stars: 46
+stars: 55
 language: Python
 created: 2025-08-11
-updated: 2026-11-06
+updated: "2026-11-07"
 added: 2026-11-05
 first_seen: 2026-11-05
 source_post: https://x.com/happy_modeling/status/2118466746629976101
@@ -15,16 +15,16 @@ sources:
   - https://modelinghappy.com/archives/71416
 flags: []
 risk_notes: ""
-forks: 3
-open_issues: 1
+forks: 5
+open_issues: 0
 commits_30d: 100
 commits_90d: 100
-commit_cadence: daily
-size_kb: 46241
+commit_cadence: "daily"
+size_kb: 46631
 archived: false
-fetched_at: "2026-11-06T22:53:35Z"
-last_release: v0.9.8
-last_release_at: 2026-11-06
+fetched_at: "2026-11-09T21:30:40Z"
+last_release: "v0.9.8"
+last_release_at: "2026-11-06"
 ---
 
 # CurioMesh

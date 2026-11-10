@@ -16,15 +16,17 @@ license: "MIT"
 language: "JavaScript"
 created: "2024-02-28"
 updated: "2026-07-24"
-stars: 3829
-forks: 179
-open_issues: 35
+stars: 3852
+forks: 183
+open_issues: 36
 commits_30d: 0
 commits_90d: 0
 commit_cadence: "stale"
 size_kb: 101
 archived: false
-fetched_at: "2026-11-09T00:31:10.790276+00:00"
+fetched_at: "2026-11-09T21:42:31Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # obsidianmd/jsoncanvas

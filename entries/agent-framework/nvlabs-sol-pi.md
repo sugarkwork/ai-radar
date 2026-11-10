@@ -5,10 +5,10 @@ genre: agent-framework
 url: https://github.com/NVlabs/SoL-Pi
 author: NVIDIA / NTU / MIT（NVlabs）
 license: MIT
-stars: 3638
+stars: 3657
 language: TypeScript
 created: 2026-09-02
-updated: 2026-11-04
+updated: "2026-11-09"
 added: 2026-11-04
 first_seen: 2026-11-03
 source_post: https://x.com/AnnatarXBT/status/2117516376201998782
@@ -16,13 +16,15 @@ sources:
   - https://nvlabs.github.io/SoL-Pi/
   - https://arxiv.org/abs/2609.20519
 forks: 299
-open_issues: 88
-commits_30d: 34
+open_issues: 90
+commits_30d: 32
 commits_90d: 73
-commit_cadence: daily
-size_kb: 30093
+commit_cadence: "daily"
+size_kb: 30171
 archived: false
-fetched_at: "2026-11-04T06:04:29Z"
+fetched_at: "2026-11-09T21:34:03Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # SoL-Pi

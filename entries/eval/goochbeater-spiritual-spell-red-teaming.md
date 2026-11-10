@@ -16,15 +16,17 @@ license: "unknown"
 language: "unknown"
 created: "2025-12-15"
 updated: "2026-11-08"
-stars: 4716
-forks: 823
+stars: 4735
+forks: 829
 open_issues: 1
 commits_30d: 34
 commits_90d: 100
 commit_cadence: "daily"
 size_kb: 2557
 archived: false
-fetched_at: "2026-11-09T00:30:30.710978+00:00"
+fetched_at: "2026-11-09T21:37:03Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # Goochbeater/Spiritual-Spell-Red-Teaming

@@ -5,11 +5,11 @@ genre: "video-gen"
 url: "https://github.com/mifi/editly"
 author: "mifi"
 license: "MIT"
-stars: 5590
+stars: 5596
 language: "TypeScript"
 created: "2020-04-15T14:23:56Z"
-updated: "2025-05-12T07:03:44Z"
-forks: 386
+updated: "2025-05-12"
+forks: 389
 open_issues: 80
 size_kb: 729
 archived: false
@@ -17,14 +17,14 @@ commits_30d: 0
 commits_90d: 0
 commit_cadence: "stale"
 last_release: "v0.15.0-rc.1"
-last_release_at: "2025-01-19T15:06:09Z"
+last_release_at: "2025-01-19"
 flags: []
 risk_notes: "直近30日・90日のコミットはいずれも0件(最終コミット 2025-02-20、pushed_at は 2025-05-12)で、commit_cadence は stale。最新リリースは 2025-01-19 の v0.15.0-rc.1 で、タグ名どおり RC(リリースノート本文も『a new release (candidate)』)であり、正式版 0.15.0 は未公開。npm の dist-tags は latest=0.14.2 / next=0.15.0-rc.1 のため、通常のグローバル導入では TypeScript 化・ESM 化前の 0.14.2 が入る(README の ESM 前提の記述と齟齬)。リリースノートに『After a couple years of inactivity, editly now has a new maintainer』とあり、2022〜2024年に長期停滞した履歴がある。open_issues は80件。node-canvas と headless-gl のネイティブビルドが必要で、ビルド環境が無い場合は Docker かビルド済み環境に頼る必要がある。README に非推奨(deprecated)の明記は無い。"
 type: "repo"
 added: "2026-11-07"
 first_seen: "2026-11-07"
 sources: ["https://x.com/heyrimsha/status/2118662273044807904"]
-fetched_at: "2026-11-07T18:50:04Z"
+fetched_at: "2026-11-09T21:45:55Z"
 ---
 
 # Editly — JSON/JavaScript の編集プランから動画を書き出す宣言型NLE(CLI + JS API)

@@ -5,25 +5,25 @@ genre: "agent-framework"
 url: "https://github.com/TencentCloud/TencentDB-Agent-Memory"
 repo: "TencentCloud/TencentDB-Agent-Memory"
 license: "MIT（GitHub API は NOASSERTION）"
-stars: 30561
+stars: 30693
 language: "TypeScript"
 created: "2026-04-07"
-updated: 2026-11-04
+updated: "2026-11-09"
 added: "2026-11-06"
 first_seen: "2026-11-05"
 sources: ["https://x.com/AIExplorerTim/status/2118151566398279695", "https://tencentcloud.github.io/TencentDB-Agent-Memory/", "https://www.npmjs.com/package/@tencentdb-agent-memory/memory-tencentdb"]
 flags: []
 risk_notes: "投稿の『トークン最大61.38%削減／タスク成功率33%→50%／PersonaMem精度48%→76%』は配布元の公表値で、独立再現は確認していない。投稿の『1.5万スター』は古く、実際は3万超（取得時点）。構成上、会話・文書・コードの内容がローカルの memory-core / memory-hub に蓄積されるため、チームで使う場合は誰が何を読めるかの権限設計（private / team / restricted）を先に決める必要がある。導入は `.env` にLLMパラメータを2組（memory用とproxy用）書く必要があり、APIキーが要る。MongoDB バックエンドは実験的で既定オフ。"
-forks: 2982
-open_issues: 887
-commits_30d: 24
-commit_cadence: daily
-size_kb: 66453
+forks: 2999
+open_issues: 899
+commits_30d: 22
+commit_cadence: "daily"
+size_kb: 66023
 archived: false
-fetched_at: "2026-11-06T09:14:12Z"
-last_release: v2.0.3
-last_release_at: 2026-10-26
-commits_90d: 67
+fetched_at: "2026-11-09T21:35:08Z"
+last_release: "v2.0.3"
+last_release_at: "2026-10-26"
+commits_90d: 66
 ---
 
 # TencentDB Agent Memory — 会話・文書・コードを4種類の「記憶資産」に変えてチームで配る記憶ハブ

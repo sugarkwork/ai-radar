@@ -6,24 +6,24 @@ url: https://github.com/DietrichGebert/ponytail
 license: MIT
 language: JavaScript
 created: 2026-06-12
-updated: 2026-10-29
+updated: "2026-10-29"
 added: 2026-11-03
 first_seen: 2026-11-03
 sources:
   - https://x.com/sumika45379/status/2117455482256515462
 flags: []
 risk_notes: ""
-stars: 184508
-forks: 10178
-open_issues: 164
-commits_30d: 58
+stars: 187617
+forks: 10404
+open_issues: 192
+commits_30d: 50
 commits_90d: 100
-commit_cadence: daily
+commit_cadence: "daily"
 size_kb: 13130
 archived: false
-fetched_at: "2026-11-04T22:50:38Z"
-last_release: v5.3.3
-last_release_at: 2026-10-29
+fetched_at: "2026-11-09T21:32:50Z"
+last_release: "v5.3.3"
+last_release_at: "2026-10-29"
 ---
 
 # Ponytail

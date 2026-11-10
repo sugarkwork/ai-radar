@@ -15,16 +15,18 @@ repo: "Video-Rebirth/ComfyUI-HyperFlow-Flash"
 license: "GPL-3.0"
 language: "Python"
 created: "2026-11-06"
-updated: "2026-11-06"
-stars: 15
+updated: "2026-11-09"
+stars: 28
 forks: 3
 open_issues: 0
-commits_30d: 1
-commits_90d: 1
+commits_30d: 3
+commits_90d: 3
 commit_cadence: "monthly"
-size_kb: 209
+size_kb: 220
 archived: false
-fetched_at: "2026-11-09T00:30:48.130109+00:00"
+fetched_at: "2026-11-09T21:46:55Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # Video-Rebirth/ComfyUI-HyperFlow-Flash

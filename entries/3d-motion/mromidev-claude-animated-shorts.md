@@ -4,27 +4,29 @@ name: "Claude Animated Shorts"
 genre: 3d-motion
 url: "https://github.com/mromidev/claude-animated-shorts"
 license: "MIT"
-stars: 1195
+stars: 2591
 language: "TypeScript"
 created: "2026-11-01"
-updated: 2026-11-01
+updated: "2026-11-01"
 added: "2026-11-03"
 first_seen: "2026-11-03"
 sources: ["https://x.com/Manojkumar2257/status/2119258187920777253"]
 flags: ["unverified"]
 risk_notes: "今回の紹介はREADMEと一致したが、新たな実行検証ではない。 今回の動作・推論・生成・性能は未検証。"
-forks: 270
-open_issues: 3
+forks: 564
+open_issues: 11
 commits_30d: 2
 commits_90d: 2
-commit_cadence: monthly
+commit_cadence: "monthly"
 size_kb: 17948
 archived: false
-fetched_at: "2026-11-03T22:58:04Z"
+fetched_at: "2026-11-09T21:31:26Z"
 type: "repo"
 author: "mromidev"
 source_post: "https://x.com/Manojkumar2257/status/2119258187920777253"
 amplifiers: []
+last_release: ""
+last_release_at: ""
 ---
 
 # Claude Animated Shorts

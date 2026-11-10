@@ -6,24 +6,24 @@ url: https://github.com/islandmed/SculptForge
 license: GPL-3.0
 language: C++
 created: 2026-10-21
-updated: 2026-11-06
+updated: "2026-11-09"
 added: 2026-11-04
 first_seen: 2026-11-04
 sources:
   - https://x.com/Ryrenz/status/2117558671286616452
 flags: []
 risk_notes: ""
-stars: 612
-forks: 74
-open_issues: 29
+stars: 649
+forks: 80
+open_issues: 11
 commits_30d: 100
 commits_90d: 100
-commit_cadence: daily
-size_kb: 173516
+commit_cadence: "daily"
+size_kb: 202080
 archived: false
-fetched_at: "2026-11-06T22:52:50Z"
-last_release: v0.11.9
-last_release_at: 2026-11-06
+fetched_at: "2026-11-09T21:31:04Z"
+last_release: "v0.12.0"
+last_release_at: "2026-11-08"
 ---
 
 # SculptForge

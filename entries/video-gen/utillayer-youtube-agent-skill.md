@@ -16,7 +16,7 @@ license: "MIT"
 language: "Python"
 created: "2026-10-24"
 updated: "2026-10-29"
-stars: 12
+stars: 14
 forks: 2
 open_issues: 0
 commits_30d: 16
@@ -24,7 +24,9 @@ commits_90d: 19
 commit_cadence: "weekly"
 size_kb: 110
 archived: false
-fetched_at: "2026-11-09T00:31:13.228433+00:00"
+fetched_at: "2026-11-09T21:46:47Z"
+last_release: "v1.2.0"
+last_release_at: "2026-10-29"
 ---
 
 # utillayer/youtube-agent-skill

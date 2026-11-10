@@ -4,24 +4,26 @@ name: "ARTEMIS"
 genre: agent-framework
 url: "https://github.com/google/artemis"
 license: "Apache-2.0"
-stars: 16511
+stars: 17116
 language: "Python"
 created: "2026-08-13"
-updated: 2026-10-01
+updated: "2026-10-01"
 added: "2026-11-04"
 first_seen: "2026-11-04"
 source_post: "https://x.com/bkdgiffug/status/2117913241326387519"
 sources: []
 flags: []
 risk_notes: ""
-forks: 1815
-open_issues: 183
+forks: 1909
+open_issues: 187
 size_kb: 25762
 archived: false
 commits_30d: 0
 commits_90d: 100
-commit_cadence: monthly
-fetched_at: "2026-11-04T13:04:06Z"
+commit_cadence: "monthly"
+fetched_at: "2026-11-09T21:33:05Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # ARTEMIS（Android 自動化エージェント）

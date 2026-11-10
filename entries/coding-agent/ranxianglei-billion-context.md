@@ -5,22 +5,24 @@ name: "billion-context"
 genre: "coding-agent"
 url: "https://github.com/ranxianglei/billion-context"
 license: "NOASSERTION"
-stars: 5283
+stars: 5714
 language: "TypeScript"
 created: "2026-08-06"
 updated: "2026-11-09"
-forks: 413
-open_issues: 916
-commits_30d: "100+"
-commits_90d: "100+"
+forks: 433
+open_issues: 940
+commits_30d: 100
+commits_90d: 100
 commit_cadence: "daily"
-size_kb: 73445
+size_kb: 75782
 archived: false
 added: "2026-11-09"
-fetched_at: "2026-11-09T03:42:27Z"
+fetched_at: "2026-11-09T21:36:42Z"
 flags: ["unverified"]
 risk_notes: "ライセンスはMIT本文に加え、利用者が触れる製品・サービスのページや文書等への目立つ出典表示義務がある独自条件。純粋なMITと同一ではない。性能は作者報告で独立検証していない。 実行・品質は未検証。"
 sources: ["https://x.com/i/status/2119588334615802105", "https://github.com/ranxianglei/billion-context"]
+last_release: "v0.1.213"
+last_release_at: "2026-11-07"
 ---
 
 # billion-context

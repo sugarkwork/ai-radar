@@ -8,8 +8,8 @@ author: MiaAI-Lab
 license: Apache-2.0
 language: Docker / Shell
 created: 2026-11-04
-updated: 2026-11-07
-stars: 89
+updated: "2026-11-09"
+stars: 96
 archived: false
 added: 2026-11-08
 first_seen: 2026-11-08
@@ -17,14 +17,16 @@ source_post: https://x.com/MiaAI_lab/status/2119115546285552046
 sources: ["https://github.com/MiaAI-Lab/GLM-5.3-Flash-DGX-Sparks-1104", "https://huggingface.co/api/models/zai-org/GLM-5.3-Flash", "https://x.com/miaai_lab/status/2119115546285552046?a=aZCeYam55LT49ehTNgs&s=46", "https://x.com/MiaAI_lab/status/2119115546285552046", "https://github.com/MiaAI-Lab/GLM-5.3-Flash-2x-RTX-PRO-6000-TensorFold", "https://api.github.com/repos/MiaAI-Lab/GLM-5.3-Flash-2x-RTX-PRO-6000-TensorFold", "https://api.github.com/repos/MiaAI-Lab/GLM-5.3-Flash-DGX-Sparks-1104", "https://raw.githubusercontent.com/MiaAI-Lab/GLM-5.3-Flash-2x-RTX-PRO-6000-TensorFold/main/README.md"]
 flags: ["unverified"]
 risk_notes: "DGX Spark 2台（計128GB統一メモリ級）が必須。チェックポイント約164GiB、イメージ約40GiB。既定drafterはCC BY-NC-ND 4.0（非商用）で、商用はDRAFTER=mtp/none。投稿のKV拡張・再起動復元・thinking off短縮は自己申告で未検証。当方でビルド・実行は未実施。"
-fetched_at: "2026-11-08T06:40:00Z"
-forks: 17
-open_issues: 20
-commits_30d: 43
-commits_90d: 43
+fetched_at: "2026-11-09T21:40:12Z"
+forks: 20
+open_issues: 24
+commits_30d: 45
+commits_90d: 45
 commit_cadence: "daily"
-size_kb: 6561
+size_kb: 6625
 amplifiers: []
+last_release: ""
+last_release_at: ""
 ---
 
 # GLM-5.3-Flash DGX Spark 2台 配備レシピ

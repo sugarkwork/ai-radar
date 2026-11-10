@@ -5,25 +5,25 @@ genre: rag
 url: https://github.com/ARahim3/DigUp
 author: ARahim3
 license: MIT
-stars: 6237
+stars: 6341
 language: Swift
 created: 2026-10-08
-updated: 2026-10-26
+updated: "2026-10-26"
 added: 2026-11-04
 first_seen: 2026-11-03
 source_post: https://x.com/Fluyeporlaweb/status/2117544561861972226
 sources:
   - https://digup.arahim.dev
-forks: 493
-open_issues: 87
+forks: 501
+open_issues: 102
 commits_30d: 100
 commits_90d: 100
-commit_cadence: daily
+commit_cadence: "daily"
 size_kb: 15983
 archived: false
-fetched_at: "2026-11-04T22:50:23Z"
-last_release: v0.6.2
-last_release_at: 2026-10-21
+fetched_at: "2026-11-09T21:42:05Z"
+last_release: "v0.6.2"
+last_release_at: "2026-10-21"
 ---
 
 # DigUp

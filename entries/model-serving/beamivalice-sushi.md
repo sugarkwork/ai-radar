@@ -6,24 +6,25 @@ url: "https://github.com/beamivalice/sushi"
 author: "beamivalice"
 repo: "beamivalice/sushi"
 license: "MIT"
-stars: 428
+stars: 438
 language: "Zig"
 created: "2026-09-20"
-updated: "2026-11-06"
+updated: "2026-11-09"
 added: "2026-11-06"
 first_seen: "2026-11-06"
 sources: ["https://x.com/dextune/status/2117812590042898627"]
 flags: []
 risk_notes: "Apple Silicon M1+ / macOS 26.2+ 専用で Linux・Windows・コンテナでは動かない。実用的なパックは RAM 48GB 以上（GLM 2.4bpw と MiMo は 128GB、DeepSeek STQ-1.75bpw は 96GB 以上＋332.1GB のディスク）を要求し、GPU wired limit を sudo sysctl で変更する必要がある。LICENSE 実取得は MIT だが GitHub API の license は NOASSERTION を返す（vendored/ported kernels は NOTICE 記載）。GLM 用 DFlash2 assistant は CC BY-NC-ND 4.0 で、そこから生成される派生物はローカル保持が条件。MiMo-V2.6-Flash は 1.5.1 以降サポート外（ロードは可能だがテスト・ベンチ・チューニング対象外）。commits_30d は 100 件/ページの上限に当たっており、実際はそれを上回る。"
-forks: 36
-open_issues: 9
+forks: 35
+open_issues: 12
 commits_30d: 100
 commit_cadence: "daily"
-size_kb: 84473
+size_kb: 90565
 archived: false
-fetched_at: "2026-11-06T16:56:23Z"
-last_release: "v1.5.1"
-last_release_at: "2026-11-06"
+fetched_at: "2026-11-09T21:39:33Z"
+last_release: "v1.6.0"
+last_release_at: "2026-11-09"
+commits_90d: 100
 ---
 
 # sushi — Apple Silicon で低ビット量子化モデルを動かすローカル推論サーバー

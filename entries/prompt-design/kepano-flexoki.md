@@ -16,15 +16,17 @@ license: "MIT"
 language: "CSS"
 created: "2023-10-07"
 updated: "2026-03-07"
-stars: 3791
-forks: 136
-open_issues: 21
+stars: 3810
+forks: 139
+open_issues: 22
 commits_30d: 0
 commits_90d: 0
 commit_cadence: "stale"
 size_kb: 13696
 archived: false
-fetched_at: "2026-11-09T00:31:13.072726+00:00"
+fetched_at: "2026-11-09T21:41:47Z"
+last_release: "2.0.0"
+last_release_at: "2025-01-07"
 ---
 
 # kepano/flexoki

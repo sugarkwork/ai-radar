@@ -16,15 +16,17 @@ license: "unknown"
 language: "Python"
 created: "2026-11-04"
 updated: "2026-11-04"
-stars: 24
-forks: 1
+stars: 25
+forks: 2
 open_issues: 1
 commits_30d: 1
 commits_90d: 1
 commit_cadence: "monthly"
 size_kb: 1471
 archived: false
-fetched_at: "2026-11-09T00:30:46.314627+00:00"
+fetched_at: "2026-11-09T21:45:40Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # Luo-Yihong/VA-TDM

@@ -9,7 +9,7 @@ pricing_detail: "MIT のオープンソース。API キーや有料枠は不要�
 signup_required: false
 repo: "cloudflare/security-audit-skill"
 license: "MIT"
-stars: 64956
+stars: 67955
 language: "JavaScript"
 created: "2026-06-18"
 updated: "2026-09-14"
@@ -18,16 +18,17 @@ first_seen: "2026-11-07"
 sources: ["https://x.com/MengTo/status/2118384737626857724"]
 flags: []
 risk_notes: "監査ワークフローであり、スキャナや自動修正ツールではない。対象コードのビルド/テスト実行には OS 強制サンドボックス（外部ネットワーク遮断・許可制環境変数・リソース上限・scratch 以外書き込み不可）が前提で、満たせない環境では confirmed ではなく needs_validation 止まりになる。並列サブエージェントを起動できるコーディングエージェントが必須。タグ付きリリースは無く、最終コミットは 2026-09-14 で 30 日コミット 0（メンテは停止気味）。ライセンスは MIT。投稿の「studying brands」という説明は README / SKILL.md の内容（コードベースの脆弱性監査）と一致しない。"
-forks: 4213
-open_issues: 116
+forks: 4455
+open_issues: 123
 commits_30d: 0
-commit_cadence: "stale"
+commit_cadence: "monthly"
 size_kb: 143
 archived: false
-fetched_at: "2026-11-07T13:55:03Z"
+fetched_at: "2026-11-09T21:32:45Z"
 last_release: ""
 last_release_at: ""
 source_post: "https://x.com/MengTo/status/2118384737626857724"
+commits_90d: 3
 ---
 
 # Security Audit Skill（cloudflare/security-audit-skill）

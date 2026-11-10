@@ -4,16 +4,16 @@ name: "Auto-Editor"
 genre: "other"
 url: "https://github.com/WyattBlue/auto-editor"
 license: "Unlicense"
-stars: 5803
+stars: 5824
 language: "Nim"
 created: "2020-04-30"
-updated: "2026-11-07"
-forks: 720
+updated: "2026-11-08"
+forks: 725
 open_issues: 0
 commits_30d: 100
 commit_cadence: "daily"
 commits_90d: 100
-size_kb: 121337
+size_kb: 121526
 archived: false
 flags: ["unverified"]
 risk_notes: "commits_30d/90d は GitHub API の per_page=100 上限に達しており、実数は100件超（30日窓で返った最古のコミットが 2026-10-19）。効果の測定は合成素材1本（10秒・320x240）で行ったもので、実収録でのカット精度や話し言葉の語尾保持は独立検証していない。PyPI 版は 29.3.1（2025-11-04）で更新が止まっており pip 導入は非推奨。24時間超の素材、字幕・データストリームのみの入力は非対応。"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-07"
 first_seen: "2026-11-07"
 sources: ["https://x.com/heyrimsha/status/2118662273044807904"]
-fetched_at: "2026-11-07T17:51:54Z"
+fetched_at: "2026-11-09T21:41:35Z"
+last_release: "31.8.0"
+last_release_at: "2026-10-30"
 ---
 
 # Auto-Editor — 無音カットで粗編集を自動化する動画編集CLI

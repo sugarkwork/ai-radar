@@ -8,13 +8,13 @@ license: "MIT"
 stars: 10004
 language: "Python"
 created: "2025-04-12"
-updated: "2026-11-08"
+updated: "2026-11-09"
 forks: 1086
 open_issues: 38
 commits_30d: 94
 commit_cadence: "daily"
 commits_90d: 100
-size_kb: 108480
+size_kb: 108481
 archived: false
 last_release: "v0.7.4"
 last_release_at: "2026-10-27"
@@ -24,7 +24,7 @@ type: "repo"
 added: "2026-11-09"
 first_seen: "2026-11-09"
 sources: ["https://x.com/N01ennn/status/2114070418394927499"]
-fetched_at: "2026-11-09T13:09:34Z"
+fetched_at: "2026-11-09T21:32:53Z"
 ---
 
 # Mobilerun — 実機Android/iOSを自然言語で操作するMITのモバイルエージェント基盤

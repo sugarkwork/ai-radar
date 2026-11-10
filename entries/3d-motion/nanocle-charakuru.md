@@ -16,16 +16,18 @@ license: "NOASSERTION"
 language: "unknown"
 created: "2026-10-06"
 updated: "2026-11-02"
-stars: 1467
-forks: 124
+stars: 1488
+forks: 126
 open_issues: 5
 commits_30d: 5
 commits_90d: 10
 commit_cadence: "weekly"
 size_kb: 9444
 archived: false
-fetched_at: "2026-11-09T00:30:28.389723+00:00"
+fetched_at: "2026-11-09T21:31:28Z"
 license_detail: "原チェックのLICENSE/README解釈: Charakuru Source-Available License and Terms of Use v1.2。APIのSPDX判定とは別。利用前に現行本文を確認。"
+last_release: "v1.1.1"
+last_release_at: "2026-11-02"
 ---
 
 # nanocle/Charakuru

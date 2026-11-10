@@ -4,10 +4,10 @@ name: ComfyUI Prompt Atelier
 genre: image-gen
 url: https://github.com/Renz1998/ComfyUI-Prompt-Atelier
 license: GPL-3.0
-stars: 2
+stars: 3
 language: Python
 created: 2026-11-04
-updated: 2026-11-06
+updated: "2026-11-09"
 added: 2026-11-05
 first_seen: 2026-11-05
 source_post: https://x.com/aiaicreate/status/2118345509077401991
@@ -15,13 +15,15 @@ sources: []
 flags: []
 risk_notes: ""
 forks: 0
-open_issues: 1
-commits_30d: 33
-commits_90d: 33
-commit_cadence: daily
-size_kb: 7603
+open_issues: 2
+commits_30d: 51
+commits_90d: 51
+commit_cadence: "daily"
+size_kb: 7585
 archived: false
-fetched_at: "2026-11-06T22:53:42Z"
+fetched_at: "2026-11-09T21:38:29Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # ComfyUI Prompt Atelier

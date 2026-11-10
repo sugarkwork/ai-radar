@@ -4,12 +4,12 @@ name: "fast-jev-compaction"
 genre: "coding-agent"
 url: "https://github.com/tamaratran/fast-jev-compaction"
 license: "MIT"
-stars: 7917
+stars: 7933
 language: "TypeScript"
 created: "2026-09-17"
 updated: "2026-09-18"
 forks: 581
-open_issues: 125
+open_issues: 124
 commits_30d: 0
 commit_cadence: "monthly"
 commits_90d: 30
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-09"
 first_seen: "2026-11-09"
 sources: ["https://x.com/sumika45379/status/2112672741140955231"]
-fetched_at: "2026-11-08T14:15:41Z"
+fetched_at: "2026-11-09T21:36:54Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # fast-jev-compaction — 要約せずにツール記録だけを削る Claude Code 用コンパクション

@@ -5,23 +5,25 @@ genre: "tts-audio"
 url: "https://github.com/ace-step/ACE-Step"
 repo: "ace-step/ACE-Step"
 license: "Apache-2.0"
-stars: 5032
+stars: 5044
 language: "Python"
 created: "2025-04-28"
-updated: 2026-02-15
+updated: "2026-02-15"
 added: "2026-11-07"
 first_seen: "2026-11-07"
 sources: ["https://x.com/abir35627/status/2118648224202551573"]
 flags: []
 risk_notes: "① 発見元ポストは「ACE-Step 1.5」とセクション再生成を挙げているが、本リポジトリは v1（重みは ACE-Step-v1-3.5B）で、v1.5 は別リポジトリ ace-step/ACE-Step-1.5。ロードマップの「Train and Release ACE-Step V1.5」も未チェックのままで、v1.5 の告知は外部ページへのリンクのみ。本エントリの対象は v1 であり、新規プロジェクトとして読むべきではない。② 最終 push は 2026-02-15 で約9か月停止（30日コミット0）、タグ・GitHub Releases はゼロ。open issues 155 件が未処理のまま。③ setup.py の version は 0.2.0、classifier は Development Status :: 3 - Alpha。④ Dockerfile はビルド時に HEAD を clone するため再現性がなく、イメージを固定できない。⑤ README の「8GB VRAM」は cpu_offload 併用時の値で、素の推論要件ではない。⑥ HF の重みは 2025-05-22 以降更新なし。⑦ Features 節は RapMachine を「Coming Soon」に残したまま、News では 2025-05-12 にリリース済みと書いており記述が古い。⑧ README が ac**p.com 等を偽サイトと明記しており、公式は GitHub Pages のみ。"
-forks: 658
+forks: 662
 open_issues: 155
 commits_30d: 0
 size_kb: 14337
 archived: false
-fetched_at: "2026-11-07T05:24:59Z"
+fetched_at: "2026-11-09T21:42:51Z"
 commits_90d: 0
-commit_cadence: stale
+commit_cadence: "stale"
+last_release: ""
+last_release_at: ""
 ---
 
 # ACE-Step（v1 / 3.5B） — 歌詞付きの楽曲をGPUで数十秒に生成する音楽生成基盤モデル

@@ -22,7 +22,9 @@ type: "repo"
 added: "2026-11-09"
 first_seen: "2026-11-09"
 sources: ["https://x.com/thegreatest_sv/status/2114419470693507261"]
-fetched_at: "2026-11-09T18:40:00Z"
+fetched_at: "2026-11-09T21:33:55Z"
+last_release: "v8.0.0"
+last_release_at: "2026-10-27"
 ---
 
 # X Virality Score — Grok Bot と Python で毎朝のX投稿ネタを組み立てる無料テンプレート

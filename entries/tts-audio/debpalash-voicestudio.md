@@ -4,25 +4,25 @@ name: "VoiceStudio"
 genre: tts-audio
 url: "https://github.com/debpalash/VoiceStudio"
 license: "AGPL-3.0"
-stars: 100947
+stars: 106057
 language: "Python"
 created: "2026-04-09"
-updated: 2026-11-04
+updated: "2026-11-09"
 added: "2026-11-03"
 first_seen: "2026-11-03"
 sources: []
 flags: []
 risk_notes: ""
-forks: 11175
-open_issues: 127
+forks: 11773
+open_issues: 99
 commits_30d: 100
 commits_90d: 100
-commit_cadence: daily
-size_kb: 192293
+commit_cadence: "daily"
+size_kb: 204303
 archived: false
-fetched_at: "2026-11-04T22:52:34Z"
-last_release: v0.5.7
-last_release_at: 2026-10-26
+fetched_at: "2026-11-09T21:42:58Z"
+last_release: "v0.5.7"
+last_release_at: "2026-10-26"
 ---
 
 # VoiceStudio

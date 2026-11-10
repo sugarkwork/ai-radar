@@ -16,15 +16,17 @@ license: "NOASSERTION"
 language: "Python"
 created: "2025-07-17"
 updated: "2026-10-23"
-stars: 12242
-forks: 1854
-open_issues: 378
+stars: 12252
+forks: 1857
+open_issues: 382
 commits_30d: 2
 commits_90d: 11
 commit_cadence: "monthly"
 size_kb: 61937
 archived: false
-fetched_at: "2026-11-09T00:31:36.073396+00:00"
+fetched_at: "2026-11-09T21:38:14Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # facebookresearch/sam3

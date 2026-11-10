@@ -4,24 +4,26 @@ name: "A-Share Quant Selector"
 genre: finance-quant
 url: "https://github.com/Dzy-HW-XD/a-share-quant-selector"
 license: "MIT"
-stars: 506
+stars: 513
 language: "Python"
 created: "2026-02-10"
-updated: 2026-09-08
+updated: "2026-09-08"
 added: "2026-11-05"
 first_seen: "2026-11-04"
 source_post: "https://x.com/bkdgiffug/status/2118124886585454934"
 sources: []
 flags: []
 risk_notes: ""
-forks: 107
+forks: 109
 open_issues: 3
 size_kb: 95
 archived: false
 commits_30d: 0
 commits_90d: 1
-commit_cadence: stale
-fetched_at: "2026-11-05T00:04:33Z"
+commit_cadence: "stale"
+fetched_at: "2026-11-09T21:37:26Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # A-Share Quant Selector

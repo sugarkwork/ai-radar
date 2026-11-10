@@ -4,26 +4,26 @@ name: strix
 genre: agent-framework
 url: https://github.com/usestrix/strix
 license: Apache-2.0
-stars: 73803
+stars: 74664
 language: Python
 created: 2025-08-05
-updated: 2026-11-05
+updated: "2026-11-09"
 added: 2026-11-05
 first_seen: 2026-11-04
 source_post: https://x.com/thegreatest_sv/status/2117687388214272339
 sources: []
 flags: []
 risk_notes: "自律型のペネトレーションテストツール。所有者の許可がある対象（自社アプリ・検証環境・許可されたバグバウンティ範囲）に限って実行すること。無断のスキャンは不正アクセス禁止法・CFAA等に触れうる。"
-forks: 8321
-open_issues: 536
-commits_30d: 64
-size_kb: 17412
+forks: 8445
+open_issues: 586
+commits_30d: 55
+size_kb: 17529
 archived: false
 commits_90d: 100
-commit_cadence: daily
-fetched_at: "2026-11-05T04:40:03Z"
-last_release: v1.7.0
-last_release_at: 2026-10-05
+commit_cadence: "daily"
+fetched_at: "2026-11-09T21:35:24Z"
+last_release: "v1.7.0"
+last_release_at: "2026-10-05"
 ---
 
 # Strix

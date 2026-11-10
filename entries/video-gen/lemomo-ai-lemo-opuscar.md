@@ -4,25 +4,25 @@ name: "Lemo-Opuscar"
 genre: "video-gen"
 url: "https://github.com/lemomo-ai/lemo-opuscar"
 license: "MIT (コード) / CC BY 4.0 (スタイル記述)"
-stars: 11571
+stars: 14050
 language: "JavaScript"
 created: "2026-09-26"
-updated: 2026-10-31
+updated: "2026-11-08"
 added: "2026-11-03"
 sources:
   - "https://x.com/daaihq/status/2117446567284367459"
 flags: []
 risk_notes: ""
-forks: 1327
-open_issues: 11
-commits_30d: 60
-commits_90d: 80
-commit_cadence: daily
-size_kb: 156727
+forks: 1690
+open_issues: 14
+commits_30d: 100
+commits_90d: 100
+commit_cadence: "daily"
+size_kb: 158634
 archived: false
-fetched_at: "2026-11-03T15:43:22Z"
-last_release: thanks
-last_release_at: 2026-10-12
+fetched_at: "2026-11-09T21:45:29Z"
+last_release: "thanks"
+last_release_at: "2026-10-12"
 ---
 
 # Lemo-Opuscar

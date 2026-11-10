@@ -4,16 +4,16 @@ name: "pstack-claude"
 genre: "coding-agent"
 url: "https://github.com/michael-denyer/pstack-claude"
 license: "MIT"
-stars: 4144
+stars: 4178
 language: "JavaScript"
 created: "2026-05-26"
-updated: "2026-11-07"
-forks: 377
-open_issues: 10
+updated: "2026-11-09"
+forks: 381
+open_issues: 9
 commits_30d: 100
 commits_90d: 100
 commit_cadence: "daily"
-size_kb: 5955
+size_kb: 5929
 archived: false
 last_release: "v0.9.133"
 last_release_at: "2026-11-07"
@@ -23,7 +23,7 @@ type: "repo"
 added: "2026-11-09"
 first_seen: "2026-11-09"
 sources: ["https://x.com/opensourcelab9/status/2112876589075841167"]
-fetched_at: "2026-11-08T15:50:08Z"
+fetched_at: "2026-11-09T21:36:25Z"
 ---
 
 # pstack-claude — 失敗の再現から検証証拠までを返すエージェント用スキル集（poteto-mode）

@@ -6,7 +6,7 @@ url: "https://github.com/camenduru/VRMkimodo"
 author: "camenduru (upstream: NVIDIA / nv-tlabs)"
 repo: "camenduru/VRMkimodo"
 license: "Apache-2.0"
-stars: 15
+stars: 17
 language: "Python"
 created: "2026-11-02"
 updated: "2026-11-05"
@@ -21,9 +21,10 @@ commits_30d: 21
 commit_cadence: "daily"
 size_kb: 44583
 archived: false
-fetched_at: "2026-11-06T14:52:30Z"
+fetched_at: "2026-11-09T21:30:35Z"
 last_release: ""
 last_release_at: ""
+commits_90d: 23
 ---
 
 # VRMkimodo — テキストから3Dモーションを生成し VRM アニメーションで書き出す Kimodo フォーク

@@ -15,16 +15,18 @@ repo: "OpenSelena/omniget"
 license: "GPL-3.0"
 language: "Rust"
 created: "2026-07-08"
-updated: "2026-11-08"
-stars: 4969
-forks: 628
-open_issues: 3
+updated: "2026-11-09"
+stars: 5184
+forks: 640
+open_issues: 23
 commits_30d: 100
 commits_90d: 100
 commit_cadence: "daily"
-size_kb: 106809
+size_kb: 108355
 archived: false
-fetched_at: "2026-11-09T00:30:57.906678+00:00"
+fetched_at: "2026-11-09T21:46:08Z"
+last_release: "v0.15.1"
+last_release_at: "2026-11-09"
 ---
 
 # OpenSelena/omniget

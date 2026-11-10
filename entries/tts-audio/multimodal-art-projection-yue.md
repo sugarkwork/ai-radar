@@ -16,15 +16,17 @@ license: "Apache-2.0"
 language: "Python"
 created: "2025-01-23"
 updated: "2026-11-01"
-stars: 13207
-forks: 1523
+stars: 13285
+forks: 1532
 open_issues: 43
 commits_30d: 39
 commits_90d: 94
 commit_cadence: "daily"
 size_kb: 33179
 archived: false
-fetched_at: "2026-11-09T00:30:59.455525+00:00"
+fetched_at: "2026-11-09T21:43:25Z"
+last_release: "yue2-v0.1.6"
+last_release_at: "2026-09-09"
 ---
 
 # multimodal-art-projection/YuE

@@ -15,16 +15,18 @@ repo: "ZSeven-W/openpencil"
 license: "MIT"
 language: "Rust"
 created: "2026-02-17"
-updated: "2026-11-08"
-stars: 7154
-forks: 622
-open_issues: 29
+updated: "2026-11-09"
+stars: 7172
+forks: 625
+open_issues: 31
 commits_30d: 100
 commits_90d: 100
 commit_cadence: "daily"
-size_kb: 494055
+size_kb: 494225
 archived: false
-fetched_at: "2026-11-09T00:30:59.582333+00:00"
+fetched_at: "2026-11-09T21:36:59Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # ZSeven-W/openpencil

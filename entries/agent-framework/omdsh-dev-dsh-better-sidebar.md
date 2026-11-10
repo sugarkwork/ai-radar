@@ -15,16 +15,18 @@ repo: "omdsh-dev/DSH-better-sidebar"
 license: "MIT"
 language: "TypeScript"
 created: "2026-08-07"
-updated: "2026-11-08"
-stars: 5007
-forks: 477
-open_issues: 183
+updated: "2026-11-09"
+stars: 5028
+forks: 481
+open_issues: 187
 commits_30d: 100
 commits_90d: 100
 commit_cadence: "daily"
-size_kb: 10816
+size_kb: 10326
 archived: false
-fetched_at: "2026-11-09T00:30:40.534106+00:00"
+fetched_at: "2026-11-09T21:34:09Z"
+last_release: "v0.30.1"
+last_release_at: "2026-11-05"
 ---
 
 # omdsh-dev/DSH-better-sidebar

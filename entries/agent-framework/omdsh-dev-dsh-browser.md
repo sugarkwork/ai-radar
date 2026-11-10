@@ -16,15 +16,17 @@ license: "MIT"
 language: "TypeScript"
 created: "2026-08-06"
 updated: "2026-11-08"
-stars: 1001
-forks: 84
-open_issues: 35
+stars: 1025
+forks: 83
+open_issues: 37
 commits_30d: 21
 commits_90d: 100
 commit_cadence: "daily"
 size_kb: 1811
 archived: false
-fetched_at: "2026-11-09T00:30:43.876166+00:00"
+fetched_at: "2026-11-09T21:34:12Z"
+last_release: "v0.1.4"
+last_release_at: "2026-11-08"
 ---
 
 # omdsh-dev/dsh-browser

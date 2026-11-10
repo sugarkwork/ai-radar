@@ -16,7 +16,7 @@ license: "GPL-3.0"
 language: "Python"
 created: "2026-11-07"
 updated: "2026-11-08"
-stars: 12
+stars: 13
 forks: 1
 open_issues: 0
 commits_30d: 3
@@ -24,7 +24,9 @@ commits_90d: 3
 commit_cadence: "monthly"
 size_kb: 696
 archived: false
-fetched_at: "2026-11-09T00:31:31.282218+00:00"
+fetched_at: "2026-11-09T21:41:45Z"
+last_release: "v0.1.0"
+last_release_at: "2026-11-08"
 ---
 
 # GUntilB/Anima-Prompt-Generator

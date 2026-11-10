@@ -21,9 +21,10 @@ commits_30d: 20
 commit_cadence: "daily"
 size_kb: 3299
 archived: false
-fetched_at: "2026-11-06T11:38:26Z"
+fetched_at: "2026-11-09T21:40:04Z"
 last_release: "v0.0.1"
 last_release_at: "2026-10-31"
+commits_90d: 20
 ---
 
 # Tokenomos — 小型VLM向けのローカル推論エンジン（OpenAI互換サーバ付き）

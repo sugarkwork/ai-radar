@@ -4,26 +4,26 @@ name: Agent-Reach
 genre: agent-framework
 url: https://github.com/Panniantong/Agent-Reach
 license: MIT
-stars: 108885
+stars: 110600
 language: Python
 created: 2026-02-24
-updated: 2026-11-04
+updated: "2026-11-08"
 added: 2026-11-05
 first_seen: 2026-11-04
 source_post: https://x.com/thegreatest_sv/status/2117687388214272339
 sources: []
 flags: []
 risk_notes: "ログイン必須プラットフォームの利用は各サイトの規約に従う。初回利用時にChromeの該当サイトのログインを専用ブラウザへ複製する仕様のため、小号（サブアカウント）の利用が推奨されている。"
-forks: 9726
-open_issues: 276
-commits_30d: 98
-size_kb: 3209
+forks: 9905
+open_issues: 88
+commits_30d: 100
+size_kb: 3407
 archived: false
 commits_90d: 100
-commit_cadence: daily
-fetched_at: "2026-11-05T04:39:45Z"
-last_release: v1.6.1
-last_release_at: 2026-11-01
+commit_cadence: "daily"
+fetched_at: "2026-11-09T21:34:25Z"
+last_release: "v1.6.1"
+last_release_at: "2026-11-01"
 ---
 
 # Agent Reach

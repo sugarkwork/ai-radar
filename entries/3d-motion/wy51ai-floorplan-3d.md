@@ -4,23 +4,25 @@ name: "floorplan-3d"
 genre: 3d-motion
 url: "https://github.com/wy51ai/floorplan-3d"
 license: "MIT"
-stars: 3393
+stars: 3651
 language: "HTML"
 created: "2026-09-29"
-updated: 2026-10-02
+updated: "2026-10-02"
 added: "2026-11-03"
 first_seen: "2026-11-03"
 sources: []
 flags: []
 risk_notes: ""
-forks: 707
-open_issues: 10
+forks: 767
+open_issues: 12
 commits_30d: 0
 commits_90d: 9
-commit_cadence: monthly
+commit_cadence: "monthly"
 size_kb: 18
 archived: false
-fetched_at: "2026-11-03T22:59:07Z"
+fetched_at: "2026-11-09T21:31:59Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # floorplan-3d

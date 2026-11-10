@@ -4,23 +4,25 @@ name: "claude-plugins-official"
 genre: agent-framework
 url: "https://github.com/anthropics/claude-plugins-official"
 license: "Apache-2.0"
-stars: 45988
+stars: 46615
 language: "Python"
 created: "2025-11-20"
-updated: 2026-11-03
+updated: "2026-11-09"
 added: "2026-11-03"
 first_seen: "2026-11-03"
 sources: []
 flags: []
 risk_notes: ""
-forks: 4784
-open_issues: 1266
+forks: 4858
+open_issues: 1280
 commits_30d: 100
-commit_cadence: daily
-size_kb: 18548
+commit_cadence: "daily"
+size_kb: 18521
 archived: false
 commits_90d: 100
-fetched_at: "2026-11-03T23:05:38Z"
+fetched_at: "2026-11-09T21:32:22Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # claude-plugins-official

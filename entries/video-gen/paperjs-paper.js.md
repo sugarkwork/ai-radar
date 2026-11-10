@@ -16,15 +16,17 @@ license: "NOASSERTION"
 language: "JavaScript"
 created: "2011-02-07"
 updated: "2026-11-06"
-stars: 15194
-forks: 1261
+stars: 15192
+forks: 1260
 open_issues: 27
 commits_30d: 100
 commits_90d: 100
 commit_cadence: "daily"
 size_kb: 143496
 archived: false
-fetched_at: "2026-11-09T00:31:20.006727+00:00"
+fetched_at: "2026-11-09T21:46:12Z"
+last_release: "v0.17.0"
+last_release_at: "2026-11-03"
 ---
 
 # paperjs/paper.js

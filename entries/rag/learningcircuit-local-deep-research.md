@@ -5,25 +5,25 @@ genre: "rag"
 url: "https://github.com/LearningCircuit/local-deep-research"
 repo: "LearningCircuit/local-deep-research"
 license: "MIT"
-stars: 9516
+stars: 9556
 language: "Python"
 created: "2025-02-09"
-updated: 2026-11-07
+updated: "2026-11-09"
 added: "2026-11-07"
 first_seen: "2026-11-07"
 sources: ["https://x.com/abir35627/status/2118648224202551573"]
 flags: []
 risk_notes: "① 「SimpleQA ~95%」は 95.7%（287/300）でサンプル300問。README 冒頭の n=500 は本文の表・HF の公開データセット（total=300）と一致しない。検索は Serper（クラウド・有料）で、ローカルなのは推論のみ＝検索まで含めた fully local ではない。実行はメンテナ自身の投稿1件（2026-05-01, qwen3.6:27b, LDR 1.6.7）で、README も小サンプル・採点ノイズ・SimpleQA 汚染を caveat として明記。② open issue 1,384 件は star の約14%。③ 2.0.0（FastAPI 化）は 2026-11-07 に正式リリースされ、GitHub release・PyPI・Docker の `latest` が 2.0.0 で揃った。DB リビジョンが上がるため v1.10.7 では開けず、上げた後に v1.10.7 を起動すると内蔵バックアップを消すことがある。④ LDR_BOOTSTRAP_ALLOW_UNENCRYPTED=true はパスワード検証をしない開発用。⑤ MCP サーバは認証・レート制限なしの STDIO 前提でネットワーク公開不可と明言。⑥ egress 制御は best-effort で air gap ではない。⑦ CPU は AVX 必須、faiss-cpu は 1.13 系固定（1.14 は AVX2 非対応で SIGILL）。⑧ --network host は Linux ネイティブ専用。"
-forks: 904
-open_issues: 1384
+forks: 910
+open_issues: 1415
 commits_30d: 100
-size_kb: 135710
+size_kb: 128023
 archived: false
-last_release: v2.0.0
-last_release_at: 2026-11-07
+last_release: "v2.0.0"
+last_release_at: "2026-11-07"
 commits_90d: 100
-commit_cadence: daily
-fetched_at: "2026-11-07T22:42:00Z"
+commit_cadence: "daily"
+fetched_at: "2026-11-09T21:42:24Z"
 ---
 
 # Local Deep Research — 自前ホストの検索エージェント兼ナレッジベース

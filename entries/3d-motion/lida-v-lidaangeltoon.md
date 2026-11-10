@@ -24,8 +24,10 @@ commits_90d: 13
 commit_cadence: "weekly"
 size_kb: 4778
 archived: false
-fetched_at: "2026-11-09T00:31:01.745825+00:00"
+fetched_at: "2026-11-09T21:31:16Z"
 license_detail: "原チェックのLICENSE/README解釈: GPL-3.0-or-later (addon); Lida Attribution License 1.1 (shader)。APIのSPDX判定とは別。利用前に現行本文を確認。"
+last_release: "v0.2.1"
+last_release_at: "2026-10-17"
 ---
 
 # Lida-V/LidaAngelToon

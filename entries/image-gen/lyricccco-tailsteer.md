@@ -15,16 +15,18 @@ repo: "Lyricccco/tailsteer"
 license: "Apache-2.0"
 language: "Python"
 created: "2026-11-06"
-updated: "2026-11-07"
-stars: 46
+updated: "2026-11-09"
+stars: 49
 forks: 1
 open_issues: 0
-commits_30d: 10
-commits_90d: 10
+commits_30d: 11
+commits_90d: 11
 commit_cadence: "weekly"
-size_kb: 248588
+size_kb: 248600
 archived: false
-fetched_at: "2026-11-09T00:30:46.400658+00:00"
+fetched_at: "2026-11-09T21:38:19Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # Lyricccco/tailsteer

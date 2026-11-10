@@ -15,16 +15,18 @@ repo: "Video-Rebirth/hyperflow-h3-flash"
 license: "Apache-2.0"
 language: "Python"
 created: "2026-11-06"
-updated: "2026-11-06"
-stars: 139
-forks: 7
-open_issues: 3
-commits_30d: 1
-commits_90d: 1
-commit_cadence: "monthly"
-size_kb: 299
+updated: "2026-11-09"
+stars: 160
+forks: 8
+open_issues: 0
+commits_30d: 4
+commits_90d: 4
+commit_cadence: "weekly"
+size_kb: 324
 archived: false
-fetched_at: "2026-11-09T00:30:47.817229+00:00"
+fetched_at: "2026-11-09T21:46:57Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # Video-Rebirth/hyperflow-h3-flash

@@ -16,15 +16,17 @@ license: "NOASSERTION"
 language: "Python"
 created: "2025-07-29"
 updated: "2026-02-19"
-stars: 3698
-forks: 437
+stars: 3703
+forks: 438
 open_issues: 76
 commits_30d: 0
 commits_90d: 0
 commit_cadence: "stale"
 size_kb: 22833
 archived: false
-fetched_at: "2026-11-09T00:31:04.097785+00:00"
+fetched_at: "2026-11-09T21:30:53Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # facebookresearch/sam-3d-body

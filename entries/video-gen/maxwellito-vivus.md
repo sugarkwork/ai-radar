@@ -16,7 +16,7 @@ license: "MIT"
 language: "JavaScript"
 created: "2014-05-13"
 updated: "2022-07-06"
-stars: 15480
+stars: 15479
 forks: 1121
 open_issues: 22
 commits_30d: 0
@@ -24,7 +24,9 @@ commits_90d: 0
 commit_cadence: "stale"
 size_kb: 472
 archived: false
-fetched_at: "2026-11-09T00:31:21.228249+00:00"
+fetched_at: "2026-11-09T21:45:50Z"
+last_release: "v0.4.6"
+last_release_at: "2021-04-17"
 ---
 
 # maxwellito/vivus

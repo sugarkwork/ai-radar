@@ -5,25 +5,25 @@ genre: "video-gen"
 url: "https://github.com/YILS-LIN/short-video-factory"
 repo: "YILS-LIN/short-video-factory"
 license: "AGPL-3.0"
-stars: 6057
+stars: 6095
 language: "TypeScript"
 created: "2025-07-09"
-updated: 2026-11-04
+updated: "2026-11-09"
 added: "2026-11-07"
 first_seen: "2026-11-07"
 sources: ["https://x.com/abir35627/status/2118648224202551573"]
 flags: []
 risk_notes: "① GUI 専用で CLI も bin も無い。操作は Electron の IPC 経由のみで、エージェントから直接叩ける入り口が無い（自動化するなら UI 操作か中間ファイルの再利用）。② AGPL-3.0 のため、改変して配布・SaaS 提供する場合はソース開示義務が及ぶ。③ LLM は外部 API キーが必須で、同梱モデルは無い。ローカル運用は OpenAI 互換サーバを apiUrl に入れる形でしか成立せず、README・公式ドキュメントに手順が無い（未検証）。④ TTS は EdgeTTS のみ。キー不要な代わりに Microsoft の公開エンドポイント依存で、v1.3.0 でも認証変更による 403 を修正した履歴がある。他 TTS は roadmap の未着手項目。⑤ 本番ビルドは匿名利用統計を stat.yils.blog へ送る実装があり、README にオプトアウトの記載が無い。⑥ Electron 22（2022年）で、サポートは既に終了している。⑦ ★6,058 に対し v1.3.0 の Windows setup の DL は 1,065 で、スター数は利用実績の指標にならない。⑧ リリース間隔が空く（v1.2.2 が 2026-04、v1.3.0 が 2026-10）。⑨ リポジトリは 8,621KB だが配布物は 107〜267MB（ffmpeg 同梱）。"
-forks: 833
+forks: 836
 open_issues: 18
-commits_30d: 17
-size_kb: 8621
+commits_30d: 26
+size_kb: 8757
 archived: false
-commits_90d: 35
-commit_cadence: weekly
-fetched_at: "2026-11-07T05:25:08Z"
-last_release: v1.3.0
-last_release_at: 2026-10-16
+commits_90d: 44
+commit_cadence: "daily"
+fetched_at: "2026-11-09T21:47:07Z"
+last_release: "v1.4.0"
+last_release_at: "2026-11-09"
 ---
 
 # short-video-factory — 台本生成・読み上げ・字幕・自動編集を1つのデスクトップアプリに畳んだ縦型ショート量産ツール

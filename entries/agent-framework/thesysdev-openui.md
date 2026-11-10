@@ -4,10 +4,10 @@ name: OpenUI
 genre: agent-framework
 url: https://github.com/thesysdev/openui
 license: MIT
-stars: 14787
+stars: 15026
 language: TypeScript
 created: 2024-12-02
-updated: 2026-11-05
+updated: "2026-11-09"
 added: 2026-11-05
 first_seen: 2026-10-21
 source_post: https://x.com/opensourcelab9/status/2112793520318914852
@@ -15,16 +15,16 @@ sources:
   - https://www.openui.com
 flags: []
 risk_notes: ""
-forks: 977
-open_issues: 196
-size_kb: 428615
+forks: 998
+open_issues: 203
+size_kb: 431034
 archived: false
 commits_30d: 100
 commits_90d: 100
-commit_cadence: daily
-fetched_at: "2026-11-05T10:24:30Z"
-last_release: "@openuidev/react-ui@0.18.3"
-last_release_at: 2026-11-05
+commit_cadence: "daily"
+fetched_at: "2026-11-09T21:35:16Z"
+last_release: "@openuidev/server@0.4.1"
+last_release_at: "2026-11-09"
 ---
 
 # OpenUI

@@ -6,22 +6,24 @@ url: https://github.com/heydamir/unslop
 license: CC-BY-4.0
 language: JavaScript
 created: 2026-10-29
-updated: 2026-11-01
+updated: "2026-11-08"
 added: 2026-11-04
 first_seen: 2026-11-04
 sources:
   - https://x.com/GitHub_Daily/status/2117557428384682389
 flags: []
 risk_notes: ""
-stars: 7557
-forks: 381
-open_issues: 2
-commits_30d: 12
-commits_90d: 12
-commit_cadence: weekly
-size_kb: 2332
+stars: 12694
+forks: 713
+open_issues: 5
+commits_30d: 29
+commits_90d: 29
+commit_cadence: "daily"
+size_kb: 2305
 archived: false
-fetched_at: "2026-11-04T01:23:57Z"
+fetched_at: "2026-11-09T21:33:11Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # unslop

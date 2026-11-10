@@ -7,7 +7,7 @@ url: "https://github.com/kgmkm/muse-irodori-voice"
 author: "kgmkm"
 license: "MIT"
 language: "Python"
-stars: 8
+stars: 9
 forks: 0
 open_issues: 0
 created: "2026-10-31"
@@ -22,8 +22,10 @@ sources: ["https://x.com/memuringo7544/status/2119369839806411188", "https://git
 added: "2026-11-09"
 first_seen: "2026-11-08"
 source_post: "https://x.com/memuringo7544/status/2119369839806411188"
-fetched_at: "2026-11-09T01:07:34+00:00"
+fetched_at: "2026-11-09T21:43:13Z"
 flags: ["unverified"]
+last_release: ""
+last_release_at: ""
 ---
 
 # muse-irodori-voice — CPUで固有音声を作るIrodoriキット

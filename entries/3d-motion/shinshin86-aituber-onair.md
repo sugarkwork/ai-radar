@@ -16,7 +16,7 @@ license: "MIT"
 language: "TypeScript"
 created: "2025-03-15"
 updated: "2026-11-07"
-stars: 319
+stars: 320
 forks: 31
 open_issues: 0
 commits_30d: 100
@@ -24,7 +24,9 @@ commits_90d: 100
 commit_cadence: "daily"
 size_kb: 92764
 archived: false
-fetched_at: "2026-11-09T00:31:28.183867+00:00"
+fetched_at: "2026-11-09T21:31:42Z"
+last_release: "@aituber-onair/core@0.26.27"
+last_release_at: "2026-11-01"
 ---
 
 # shinshin86/aituber-onair

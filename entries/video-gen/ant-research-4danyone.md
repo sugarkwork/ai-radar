@@ -6,7 +6,7 @@ url: "https://github.com/ant-research/4DAnyone"
 author: "ant-research (Ant Group)"
 repo: "ant-research/4DAnyone"
 license: "Apache-2.0"
-stars: 1485
+stars: 1488
 language: "Python"
 created: "2026-08-10"
 updated: "2026-10-14"
@@ -21,9 +21,10 @@ commits_30d: 1
 commit_cadence: "monthly"
 size_kb: 84270
 archived: false
-fetched_at: "2026-11-07T10:55:36Z"
+fetched_at: "2026-11-09T21:44:03Z"
 last_release: ""
 last_release_at: ""
+commits_90d: 46
 ---
 
 # 4DAnyone — 単眼の人物動画から多視点4D動画を作る推論CLI

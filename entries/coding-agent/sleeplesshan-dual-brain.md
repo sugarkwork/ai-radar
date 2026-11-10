@@ -7,8 +7,8 @@ url: "https://github.com/sleeplesshan/dual-brain"
 author: "sleeplesshan"
 license: "MIT"
 language: "Python"
-stars: 101
-forks: 6
+stars: 143
+forks: 11
 open_issues: 0
 created: "2026-05-24"
 updated: "2026-11-06"
@@ -22,8 +22,10 @@ sources: ["https://x.com/sleepless_han/status/2119291833322729923", "https://git
 added: "2026-11-09"
 first_seen: "2026-11-08"
 source_post: "https://x.com/sleepless_han/status/2119291833322729923"
-fetched_at: "2026-11-09T01:07:34+00:00"
+fetched_at: "2026-11-09T21:36:48Z"
 flags: ["unverified"]
+last_release: "v1.7.0"
+last_release_at: "2026-11-06"
 ---
 
 # Dual-Brain — 設計とコードの二視点レビュー用スキル

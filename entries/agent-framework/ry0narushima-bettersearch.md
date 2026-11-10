@@ -7,7 +7,7 @@ license: "MIT"
 stars: 40
 language: "Python"
 created: "2026-10-18"
-updated: 2026-10-18
+updated: "2026-10-18"
 added: "2026-11-03"
 first_seen: "2026-11-03"
 sources: []
@@ -17,10 +17,12 @@ forks: 4
 open_issues: 0
 commits_30d: 10
 commits_90d: 10
-commit_cadence: weekly
+commit_cadence: "weekly"
 size_kb: 960
 archived: false
-fetched_at: "2026-11-03T22:58:30Z"
+fetched_at: "2026-11-09T21:34:48Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # BetterSearch

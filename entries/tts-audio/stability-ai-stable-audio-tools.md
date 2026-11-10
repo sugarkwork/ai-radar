@@ -4,23 +4,25 @@ name: "Stable Audio Tools"
 genre: "tts-audio"
 url: "https://github.com/Stability-AI/stable-audio-tools"
 license: "MIT"
-stars: 3898
+stars: 3904
 language: "Python"
 created: "2023-05-23"
-updated: 2026-11-01
+updated: "2026-11-01"
 added: "2026-11-03"
 sources:
   - "https://x.com/RoundtableSpace/status/2117357328152350832"
 flags: []
 risk_notes: ""
-forks: 489
+forks: 490
 open_issues: 134
 commits_30d: 0
 commits_90d: 0
-commit_cadence: stale
+commit_cadence: "stale"
 size_kb: 1642
 archived: false
-fetched_at: "2026-11-03T15:42:57Z"
+fetched_at: "2026-11-09T21:43:37Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # Stable Audio Tools

@@ -16,16 +16,18 @@ license: "NOASSERTION"
 language: "TypeScript"
 created: "2023-05-21"
 updated: "2026-11-09"
-stars: 84426
-forks: 16148
-open_issues: 1294
+stars: 84579
+forks: 16168
+open_issues: 1326
 commits_30d: 100
 commits_90d: 100
 commit_cadence: "daily"
-size_kb: 607357
+size_kb: 612782
 archived: false
-fetched_at: "2026-11-09T00:30:36.733789+00:00"
+fetched_at: "2026-11-09T21:33:41Z"
 license_detail: "原チェックのLICENSE/README解釈: LobeHub Community License。APIのSPDX判定とは別。利用前に現行本文を確認。"
+last_release: "v2.3.2"
+last_release_at: "2026-11-06"
 ---
 
 # lobehub/lobehub

@@ -4,26 +4,26 @@ name: ai-website-cloner-template
 genre: agent-framework
 url: https://github.com/JCodesMore/ai-website-cloner-template
 license: MIT
-stars: 38633
+stars: 38914
 language: TypeScript
 created: 2026-03-13
-updated: 2026-10-19
+updated: "2026-10-19"
 added: 2026-11-05
 first_seen: 2026-11-04
 source_post: https://x.com/thegreatest_sv/status/2117687388214272339
 sources: []
 flags: []
 risk_notes: "第三者のサイトを丸ごと複製する用途は著作権・商標・利用規約に抵触しうる。学習用のレイアウト分析や自作サイトの移行など、権利のある範囲で使うこと。"
-forks: 5736
-open_issues: 11
+forks: 5791
+open_issues: 12
 commits_30d: 0
 size_kb: 1466
 archived: false
-commits_90d: 37
-commit_cadence: monthly
-fetched_at: "2026-11-05T04:39:59Z"
-last_release: v0.6.1
-last_release_at: 2026-10-05
+commits_90d: 15
+commit_cadence: "monthly"
+fetched_at: "2026-11-09T21:33:25Z"
+last_release: "v0.6.1"
+last_release_at: "2026-10-05"
 ---
 
 # ai-website-cloner-template

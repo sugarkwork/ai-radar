@@ -15,16 +15,18 @@ repo: "milind-soni/OpenMausBot"
 license: "Apache-2.0"
 language: "TypeScript"
 created: "2026-08-11"
-updated: "2026-11-08"
-stars: 18237
-forks: 2533
-open_issues: 828
+updated: "2026-11-09"
+stars: 19575
+forks: 2682
+open_issues: 916
 commits_30d: 100
 commits_90d: 100
 commit_cadence: "daily"
-size_kb: 483829
+size_kb: 491601
 archived: false
-fetched_at: "2026-11-09T00:31:01.944204+00:00"
+fetched_at: "2026-11-09T21:33:52Z"
+last_release: "v0.1.150"
+last_release_at: "2026-11-09"
 ---
 
 # milind-soni/OpenMausBot

@@ -4,27 +4,29 @@ name: "prompt-master"
 genre: prompt-design
 url: "https://github.com/nidhinjs/prompt-master"
 license: "MIT"
-stars: 15469
+stars: 15766
 language: "未確認"
 created: "2026-03-11"
-updated: 2026-10-22
+updated: "2026-10-22"
 added: "2026-11-03"
 first_seen: "2026-11-03"
 sources: ["https://x.com/dopamine_crypto/status/2119199466565824535?a=JCNAhMHI75BTvYNW4Vc&s=46", "https://x.com/dopamine_crypto/status/2119199466565824535", "https://github.com/nidhinjs/prompt-master", "https://raw.githubusercontent.com/nidhinjs/prompt-master/main/README.md"]
 flags: ["unverified"]
 risk_notes: "今回の投稿は機能紹介で新たな実行試験ではない。 今回の動作・推論・生成・性能は未検証。"
-forks: 1791
+forks: 1819
 open_issues: 30
 commits_30d: 7
-commit_cadence: weekly
+commit_cadence: "weekly"
 size_kb: 170
 archived: false
 commits_90d: 13
-fetched_at: "2026-11-03T23:05:35Z"
+fetched_at: "2026-11-09T21:41:52Z"
 type: "repo"
 author: "nidhinjs"
 source_post: "https://x.com/dopamine_crypto/status/2119199466565824535"
 amplifiers: []
+last_release: ""
+last_release_at: ""
 ---
 
 # prompt-master

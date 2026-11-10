@@ -4,10 +4,10 @@ name: skfolio
 genre: finance-quant
 url: https://github.com/skfolio/skfolio
 license: BSD-3-Clause
-stars: 2593
+stars: 2618
 language: Python
 created: 2023-12-14
-updated: 2026-10-29
+updated: "2026-11-08"
 added: 2026-11-05
 first_seen: 2026-11-05
 source_post: https://x.com/roundtablespace/status/2118172700757889191
@@ -15,16 +15,16 @@ sources:
   - https://skfolio.org
 flags: []
 risk_notes: ""
-forks: 301
-open_issues: 37
-commits_30d: 87
+forks: 305
+open_issues: 42
+commits_30d: 81
 commits_90d: 100
-commit_cadence: daily
-size_kb: 17498
+commit_cadence: "daily"
+size_kb: 17741
 archived: false
-fetched_at: "2026-11-05T22:02:06Z"
-last_release: v1.12.5
-last_release_at: 2026-10-29
+fetched_at: "2026-11-09T21:37:52Z"
+last_release: "v1.12.8"
+last_release_at: "2026-11-08"
 ---
 
 # skfolio

@@ -4,7 +4,7 @@ name: "better-readme"
 genre: "prompt-design"
 url: "https://github.com/tommy0103/better-readme-skill"
 license: "MIT"
-stars: 31
+stars: 32
 language: "未確認"
 created: "2026-10-08"
 updated: "2026-10-08"
@@ -22,7 +22,9 @@ type: "repo"
 added: "2026-11-09"
 first_seen: "2026-11-09"
 sources: ["https://x.com/sumika45379/status/2113035110052475218"]
-fetched_at: "2026-11-08T15:56:41Z"
+fetched_at: "2026-11-09T21:41:57Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # better-readme — README を「認知ファネル」で監査・書き換えするエージェントスキル

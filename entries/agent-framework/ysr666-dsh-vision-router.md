@@ -16,15 +16,17 @@ license: "MIT"
 language: "JavaScript"
 created: "2026-08-13"
 updated: "2026-11-09"
-stars: 1245
+stars: 1253
 forks: 64
-open_issues: 9
+open_issues: 1
 commits_30d: 100
 commits_90d: 100
 commit_cadence: "daily"
-size_kb: 9762
+size_kb: 8285
 archived: false
-fetched_at: "2026-11-09T00:30:43.481162+00:00"
+fetched_at: "2026-11-09T21:35:37Z"
+last_release: "v3.2.0"
+last_release_at: "2026-11-09"
 ---
 
 # ysr666/dsh-vision-router

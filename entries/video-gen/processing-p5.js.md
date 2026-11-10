@@ -15,16 +15,18 @@ repo: "processing/p5.js"
 license: "LGPL-2.1"
 language: "JavaScript"
 created: "2013-02-26"
-updated: "2026-11-08"
-stars: 24323
-forks: 3895
-open_issues: 529
+updated: "2026-11-09"
+stars: 24327
+forks: 3899
+open_issues: 532
 commits_30d: 100
 commits_90d: 100
 commit_cadence: "daily"
-size_kb: 181017
+size_kb: 181022
 archived: false
-fetched_at: "2026-11-09T00:31:21.641009+00:00"
+fetched_at: "2026-11-09T21:46:15Z"
+last_release: "v2.3.4"
+last_release_at: "2026-09-25"
 ---
 
 # processing/p5.js

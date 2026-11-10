@@ -4,25 +4,25 @@ name: "Essentia"
 genre: "tts-audio"
 url: "https://github.com/MTG/essentia"
 license: "AGPL-3.0"
-stars: 3791
+stars: 3801
 language: "C++"
 created: "2013-06-03"
-updated: 2026-10-22
+updated: "2026-11-05"
 added: "2026-11-03"
 sources:
   - "https://x.com/RoundtableSpace/status/2117357328152350832"
 flags: []
 risk_notes: ""
-forks: 643
-open_issues: 447
-commits_30d: 21
-commits_90d: 36
-commit_cadence: daily
-size_kb: 314140
+forks: 644
+open_issues: 448
+commits_30d: 15
+commits_90d: 37
+commit_cadence: "weekly"
+size_kb: 314150
 archived: false
-fetched_at: "2026-11-03T15:42:49Z"
-last_release: v2.0.1
-last_release_at: 2014-02-11
+fetched_at: "2026-11-09T21:43:21Z"
+last_release: "v2.0.1"
+last_release_at: "2014-02-11"
 ---
 
 # Essentia

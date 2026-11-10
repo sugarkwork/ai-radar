@@ -5,16 +5,16 @@ genre: "eval"
 url: "https://github.com/promptfoo/promptfoo"
 author: "Promptfoo (OpenAI)"
 license: "MIT"
-stars: 26978
+stars: 27000
 language: "TypeScript"
 created: "2023-04-28"
 updated: "2026-11-09"
-forks: 2692
-open_issues: 939
+forks: 2700
+open_issues: 951
 commits_30d: 100
 commits_90d: 100
 commit_cadence: "daily"
-size_kb: 812938
+size_kb: 813364
 archived: false
 last_release: "0.125.1"
 last_release_at: "2026-10-25"
@@ -24,7 +24,7 @@ type: "repo"
 added: "2026-11-09"
 first_seen: "2026-11-09"
 sources: ["https://x.com/wquguru/status/2113181135522214168"]
-fetched_at: "2026-11-09T06:04:46Z"
+fetched_at: "2026-11-09T21:37:12Z"
 ---
 
 # promptfoo — プロンプト評価とレッドチーミングを CI に載せる OSS CLI

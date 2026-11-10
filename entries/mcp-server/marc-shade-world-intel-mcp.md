@@ -4,25 +4,25 @@ name: "World Intelligence MCP"
 genre: mcp-server
 url: "https://github.com/marc-shade/world-intel-mcp"
 license: "MIT"
-stars: 1063
+stars: 1067
 language: "Python"
 created: "2025-11-29"
-updated: 2026-10-18
+updated: "2026-10-18"
 added: "2026-11-04"
 first_seen: "2026-11-04"
 sources: []
 flags: []
 risk_notes: ""
-forks: 177
+forks: 176
 open_issues: 0
 size_kb: 4483
 archived: false
 commits_30d: 100
 commits_90d: 100
-commit_cadence: daily
-last_release: v0.10.0
-fetched_at: "2026-11-04T22:53:21Z"
-last_release_at: 2026-09-02
+commit_cadence: "daily"
+last_release: "v0.10.0"
+fetched_at: "2026-11-09T21:38:58Z"
+last_release_at: "2026-09-02"
 ---
 
 # World Intelligence MCP

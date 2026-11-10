@@ -4,23 +4,25 @@ name: "so-vits-svc"
 genre: "tts-audio"
 url: "https://github.com/svc-develop-team/so-vits-svc"
 license: "AGPL-3.0"
-stars: 28067
+stars: 28049
 language: "Python"
 created: "2023-03-10"
-updated: 2023-11-11
+updated: "2023-11-11"
 added: "2026-11-03"
 sources:
   - "https://x.com/RoundtableSpace/status/2117357328152350832"
 flags: []
 risk_notes: ""
-forks: 5015
+forks: 5010
 open_issues: 27
 commits_30d: 0
 commits_90d: 0
-commit_cadence: stale
+commit_cadence: "stale"
 size_kb: 11145
 archived: true
-fetched_at: "2026-11-03T15:43:02Z"
+fetched_at: "2026-11-09T21:43:42Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # so-vits-svc

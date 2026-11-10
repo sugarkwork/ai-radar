@@ -4,26 +4,26 @@ name: career-ops
 genre: other
 url: https://github.com/career-ops-hq/career-ops
 license: MIT
-stars: 80446
+stars: 81473
 language: JavaScript
 created: 2026-04-04
-updated: 2026-11-05
+updated: "2026-11-09"
 added: 2026-11-05
 first_seen: 2026-11-04
 source_post: https://x.com/thegreatest_sv/status/2117687388214272339
 sources: []
 flags: []
 risk_notes: "求人ボードの公開ATSフィードを読む。各サイトの利用規約に従うこと。CV・応募先などの個人情報をローカルに保存するため、ワークスペースの管理には注意。"
-forks: 14799
-open_issues: 447
+forks: 14978
+open_issues: 442
 commits_30d: 100
-size_kb: 127318
+size_kb: 132913
 archived: false
 commits_90d: 100
-commit_cadence: daily
-fetched_at: "2026-11-05T22:44:00Z"
-last_release: career-ops-v1.39.0
-last_release_at: 2026-11-05
+commit_cadence: "daily"
+fetched_at: "2026-11-09T21:40:45Z"
+last_release: "career-ops-v1.39.0"
+last_release_at: "2026-11-05"
 ---
 
 # career-ops

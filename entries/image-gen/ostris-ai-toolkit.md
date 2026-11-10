@@ -15,16 +15,18 @@ repo: "ostris/ai-toolkit"
 license: "MIT"
 language: "Python"
 created: "2023-07-05"
-updated: "2026-11-04"
-stars: 12586
-forks: 1615
-open_issues: 82
-commits_30d: 56
+updated: "2026-11-09"
+stars: 12595
+forks: 1616
+open_issues: 83
+commits_30d: 55
 commits_90d: 100
 commit_cadence: "daily"
-size_kb: 34720
+size_kb: 34696
 archived: false
-fetched_at: "2026-11-09T00:30:24.525110+00:00"
+fetched_at: "2026-11-09T21:38:21Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # ostris/ai-toolkit

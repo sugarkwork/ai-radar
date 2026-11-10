@@ -7,23 +7,25 @@ url: "https://github.com/sp-yduck/overlaysubs"
 author: "sp-yduck"
 license: "MIT"
 language: "Rust"
-stars: 31
-forks: 3
-open_issues: 0
+stars: 51
+forks: 5
+open_issues: 1
 created: "2026-11-05"
 updated: "2026-11-09"
-commits_30d: 0
-commits_90d: 0
-commit_cadence: "stale"
-size_kb: 1962
+commits_30d: 60
+commits_90d: 60
+commit_cadence: "daily"
+size_kb: 2259
 archived: false
 risk_notes: "コードはMIT。アプリ利用はOverlaySubs利用規約に従う。PLaMo 3 Translateの利用はPLaMoコミュニティライセンスに従う。ビルドはコード署名なし（SmartScreen/Gatekeeper警告あり）。自動アップデートなし。起動時にGitHub Releases APIへ匿名で最新版確認（1回のみ、失敗時無視）。当方未インストール。 当方でインストール・動作・性能の実行検証はしていない。"
 sources: ["https://x.com/sp_yduck/status/2119258606004801707", "https://github.com/sp-yduck/overlaysubs", "https://github.com/sp-yduck/overlaysubs/blob/main/README.md", "https://github.com/sp-yduck/overlaysubs/blob/main/LICENSE"]
 added: "2026-11-09"
 first_seen: "2026-11-09"
 source_post: "https://x.com/sp_yduck/status/2119258606004801707"
-fetched_at: "2026-11-09T03:14:33+00:00"
+fetched_at: "2026-11-09T21:41:38Z"
 flags: ["unverified"]
+last_release: "v0.5.0"
+last_release_at: "2026-11-09"
 ---
 
 # OverlaySubs — PC音声のリアルタイム翻訳オーバーレイ字幕

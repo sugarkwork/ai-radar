@@ -16,15 +16,17 @@ license: "unknown"
 language: "Python"
 created: "2025-09-22"
 updated: "2026-11-06"
-stars: 189627
-forks: 22348
-open_issues: 1500
+stars: 190810
+forks: 22434
+open_issues: 1505
 commits_30d: 2
 commits_90d: 15
 commit_cadence: "monthly"
 size_kb: 5502
 archived: false
-fetched_at: "2026-11-09T00:30:54.035473+00:00"
+fetched_at: "2026-11-09T21:32:25Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # anthropics/skills
