@@ -1,5 +1,5 @@
 {
-  "count": 641,
+  "count": 642,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -12483,6 +12483,38 @@
       "fetched_at": "2026-11-09T21:41:03Z",
       "path": "entries/other/googleworkspace-cli.md",
       "summary": "Gmail・Drive・Calendar・Sheets・Docs・Chat・Admin など Workspace の各 API を gws <service> <resource> <method> の1コマンドで呼び、結果を JSON で返す（例: gws drive files list --params '{\"p"
+    },
+    {
+      "repo": "dreammis/social-auto-upload",
+      "name": "social-auto-upload",
+      "genre": "other",
+      "url": "https://github.com/dreammis/social-auto-upload",
+      "license": "MIT",
+      "stars": 16378,
+      "forks": 2777,
+      "open_issues": 87,
+      "size_kb": 24752,
+      "language": "Python",
+      "created": "2023-12-04",
+      "updated": "2026-10-22",
+      "archived": false,
+      "commits_30d": 16,
+      "commits_90d": 43,
+      "commit_cadence": "weekly",
+      "last_release": "v1.0.0-skills.2",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "対応表は開発元の記載。実アカウントでのログイン、投稿成功率、定時公開、処理時間、各サービスの規約適合性は未検証。最新リリースのタグは確認済みだが、公開年とタイムゾーンを含む日時は未確認。",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/ganfanren_ai/status/2117237474493968435"
+      ],
+      "fetched_at": "2026-11-10T08:28:22Z",
+      "path": "entries/other/dreammis-social-auto-upload.md",
+      "summary": "READMEの対応表では、抖音・快手・小紅書は動画と画像付き投稿、Bilibiliは動画、大魚号と知乎は動画と記事に対応する。YouTubeの定時投稿は開発中、知乎の定時投稿は実験的とされている。"
     },
     {
       "repo": "Thysrael/Horizon",
