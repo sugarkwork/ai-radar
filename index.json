@@ -1,5 +1,5 @@
 {
-  "count": 700,
+  "count": 701,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -5368,6 +5368,24 @@
       ],
       "fetched_at": "2026-11-10T03:33:05Z",
       "path": "articles/2026-10-23-jarvis11x-ai.md"
+    },
+    {
+      "name": "Bring Agentic Coding On-Device with Foundry Local",
+      "genre": "article",
+      "url": "https://devblogs.microsoft.com/foundry/foundry-local-agentic-coding-qwen3-8-27b/",
+      "published": "2026-11-05",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "llama.cppとの速度差とVRAM別のコンテキスト上限はMicrosoftの報告に基づく。実機での再現、Copilotアプリ全体のオフライン動作、利用プランごとの料金・条件は未確認。",
+      "type": "article",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/cutetoxicguy/status/2118504890888564817"
+      ],
+      "fetched_at": "2026-11-10T10:09:52Z",
+      "path": "articles/2026-11-05-author-bring-agentic-coding-on-device-with-foundry-local.md"
     },
     {
       "name": "ChatGPT + Obsidian で組む英語リスニング訓練システム",
