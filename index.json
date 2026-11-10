@@ -1,5 +1,5 @@
 {
-  "count": 633,
+  "count": 634,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -719,6 +719,38 @@
       "commits_90d": 5,
       "path": "entries/3d-motion/speridlabs-idol-sdk.md",
       "summary": "1枚の画像（写真・レンダリング画像・生成画像）から3D Gaussian Splattingを生成し、標準的な3DGS .plyとして保存する"
+    },
+    {
+      "repo": "makehumancommunity/mpfb2",
+      "name": "MPFB2",
+      "genre": "3d-motion",
+      "url": "https://github.com/makehumancommunity/mpfb2",
+      "last_release": "v2.0.18",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "公式資料に基づく確認。Blenderでの動作、Python経由の自動化、外部モーションキャプチャとの互換性、制作時間や工程全体の費用は未検証。GitHubの最新タグは確認したが、公開日時の年とタイムゾーンは確認できていない。 GitHub APIでライセンスを確認できていません。",
+      "stars": 694,
+      "forks": 103,
+      "open_issues": 70,
+      "size_kb": 90231,
+      "language": "Python",
+      "created": "2021-02-06",
+      "updated": "2026-10-24",
+      "archived": false,
+      "license": "unknown",
+      "commits_30d": 34,
+      "commits_90d": 67,
+      "commit_cadence": "daily",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/Y0urDumble/status/2117030430507401326"
+      ],
+      "fetched_at": "2026-11-10T08:16:20Z",
+      "path": "entries/3d-motion/makehumancommunity-mpfb2.md",
+      "summary": "人体メッシュを生成し、体重や体の長さなどのパラメータで体型を調整する。標準リグを付け、目・髪・衣服などの素材を追加できる。"
     },
     {
       "repo": "Humpalumps/Ultra-Water",
