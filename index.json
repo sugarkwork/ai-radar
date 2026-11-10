@@ -1,5 +1,5 @@
 {
-  "count": 742,
+  "count": 743,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -7168,6 +7168,37 @@
       "fetched_at": "2026-11-10T11:45:26+00:00",
       "path": "entries/coding-agent/codewhale-hq-codewhale.md",
       "summary": "プロジェクトを読み取り、指示に沿ってファイルを編集し、テストなどのコマンドを実行する。対話操作に加え、CLIで単発タスクを渡せる。"
+    },
+    {
+      "repo": "can1357/oh-my-pi",
+      "name": "oh-my-pi",
+      "genre": "coding-agent",
+      "url": "https://github.com/can1357/oh-my-pi",
+      "stars": 38506,
+      "forks": 4380,
+      "open_issues": 4675,
+      "size_kb": 798069,
+      "language": "TypeScript",
+      "created": "2025-12-31",
+      "updated": "2026-11-10",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 100,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "インストール、モデル接続、LSP連携は未実行。開発元が掲載した編集性能の比較値は、測定条件と再現性を未確認。最新リリースのタグと公開日時、各モデル提供元の料金と利用条件は未確認。コミット件数の100は集計上限で、各期間100件以上を示す。",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/opensourcelab9/status/2114967848775041508"
+      ],
+      "fetched_at": "2026-11-10T11:46:58Z",
+      "path": "entries/coding-agent/can1357-oh-my-pi.md",
+      "summary": "端末で対話しながらコードを編集できる。開発元は、ファイル名の変更時にLSPの workspace/willRenameFiles を使い、移動前にインポートや再エクスポートを更新する例を示している。"
     },
     {
       "repo": "Donchitos/Claude-Code-Game-Studios",

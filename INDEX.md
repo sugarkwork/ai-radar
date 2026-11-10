@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 742 件 — リポジトリ 431, リンク集 113, 記事 131, モデル 53, プロンプト 14 / ⚑ 要確認 532 件
+収録 743 件 — リポジトリ 432, リンク集 113, 記事 131, モデル 53, プロンプト 14 / ⚑ 要確認 533 件
 
-## リポジトリ（431）
+## リポジトリ（432）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -214,7 +214,7 @@
 | [VRMExMR](entries/3d-motion/camenduru-vrmexmr.md) ⚑ | 15 | 0 | 毎日 | 39 | 2026-11-05 | 2026-11-09 | 2026-11-10 | 未確認（API は NOASSERTION。ExMR 側の条件を確認） |
 | [Lida-V/LidaAngelToon](entries/3d-motion/lida-v-lidaangeltoon.md) ⚑ | 6 | 0 | 週次 | 13 | 2026-10-17 | 2026-11-09 | 2026-11-10 | NOASSERTION |
 
-### コーディングエージェント（45）
+### コーディングエージェント（46）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -231,6 +231,7 @@
 | [herdr](entries/coding-agent/herdrdev-herdr.md) ⚑ | 49,753 | 4,017 | 毎日 | 49 | 2026-11-07 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
 | [wshobson/agents](entries/coding-agent/wshobson-agents.md) ⚑ | 42,378 | 4,476 | 毎日 | 34 | 2026-11-09 | 2026-11-10 | 2026-11-10 | MIT |
 | [Codewhale](entries/coding-agent/codewhale-hq-codewhale.md) ⚑ | 41,173 | 3,569 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | MIT |
+| [oh-my-pi](entries/coding-agent/can1357-oh-my-pi.md) ⚑ | 38,506 | 4,380 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | MIT |
 | [Claude Code Game Studios](entries/coding-agent/donchitos-claude-code-game-studios.md) ⚑ | 37,789 | 4,949 | 月次 | 2 | 2026-11-09 | 2026-11-10 | 2026-11-10 | MIT |
 | [Awesome Agent Skills](entries/coding-agent/voltagent-awesome-agent-skills.md) ⚑ | 37,027 | 4,103 | 毎日 | 100+ | 2026-11-05 | 2026-11-10 | 2026-11-10 | MIT |
 | [Vercel Agent Skills](entries/coding-agent/vercel-labs-agent-skills.md) ⚑ | 33,817 | 2,956 | 週次 | 5 | 2026-10-28 | 2026-11-10 | 2026-11-10 | unknown |
@@ -1345,6 +1346,7 @@
 - [herdr](entries/coding-agent/herdrdev-herdr.md) — unverified / Apache-2.0。再起動後は保存レイアウトや対応エージェントのセッションを復元できる場合があるが、プロセス継続とは異なる。 実行・品質は未検証。
 - [wshobson/agents](entries/coding-agent/wshobson-agents.md) — unverified / 最新リリース、導入後の動作、ホスト間の機能差、トークン削減量や生成品質への効果は未確認。MITはリポジトリのライセンスで、外部配布項目やホストの利用条件・料金は未確認。90日コミット数は100件以上を示す。
 - [Codewhale](entries/coding-agent/codewhale-hq-codewhale.md) — unverified / ['開発元のデモはスクリプト化したテストモデルを使用。実タスクでの成功率、モデル間の性能差、OS別の動作は未検証。', '既定の編集承認設定は公式文書間で記述が異なるため、利用する版とセッションの権限を確認する。リリースのタイムゾーン付き公開日時は未確認。']
+- [oh-my-pi](entries/coding-agent/can1357-oh-my-pi.md) — unverified / インストール、モデル接続、LSP連携は未実行。開発元が掲載した編集性能の比較値は、測定条件と再現性を未確認。最新リリースのタグと公開日時、各モデル提供元の料金と利用条件は未確認。コミット件数の100は集計上限で、各期間100件以上を示す。
 - [Claude Code Game Studios](entries/coding-agent/donchitos-claude-code-game-studios.md) — unverified / ブラウザ試作とフックは独立実行していない。作者が報告した比較は3企画に限られ、完成した試作品の評価は同等だった。Godot・Unity・Unreal経路と設計文書による掘り下げは、作者の同等の比較評価が未実施。最新リリースのタグと日時は未確認。Claude Codeの利用料金は未確認。
 - [Awesome Agent Skills](entries/coding-agent/voltagent-awesome-agent-skills.md) — unverified / 最新リリースの有無・日時、掲載スキル個別の動作・効果・依存関係・利用条件は未確認。READMEの対応表は掲載元による案内で、互換性の独立検証は行っていない。
 - [Vercel Agent Skills](entries/coding-agent/vercel-labs-agent-skills.md) — unverified / レビュー精度や適用前後の性能差は未実測。GitHubのLatestページでタグは確認したが、年とタイムゾーンを含む公開日時は確認できなかった。READMEはMITと記載しているが、APIの測定値はunknown。エージェント側の料金と導入の実動作は未確認。 GitHub APIでライセンスを確認できていません。
