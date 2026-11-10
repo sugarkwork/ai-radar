@@ -1,5 +1,5 @@
 {
-  "count": 634,
+  "count": 635,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -93,6 +93,37 @@
       "fetched_at": "2026-11-09T21:30:45Z",
       "path": "entries/3d-motion/earthtojake-text-to-cad.md",
       "summary": "自然言語や画像の指示から、エージェントが build123d の Python スクリプトとして3Dモデルを書き、STEP・GLB・STL・3MF に書き出す"
+    },
+    {
+      "repo": "blender/blender",
+      "name": "Blender",
+      "genre": "3d-motion",
+      "url": "https://github.com/blender/blender",
+      "license": "unknown",
+      "stars": 21829,
+      "language": "C++",
+      "created": "2019-10-09",
+      "updated": "2026-11-10",
+      "forks": 3550,
+      "open_issues": 0,
+      "commits_30d": 100,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 1448787,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "GitHubミラーの最新リリース、発見投稿のClaudeによる全工程自動化、外部MCPとの接続、総費用、制作結果は未確認。レンダリング速度や画質の独立実測は行っていない。 GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/Y0urDumble/status/2117030430507401326"
+      ],
+      "fetched_at": "2026-11-10T08:16:10+00:00",
+      "path": "entries/3d-motion/blender-blender.md",
+      "summary": "モデリング、リギング、アニメーション、レンダリング、合成、動画編集に対応する。Eeveeはリアルタイムのラスタライズ方式を採用しており、照明やカメラを調整しながらプレビューできる。"
     },
     {
       "type": "repo",
