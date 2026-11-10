@@ -1,5 +1,5 @@
 {
-  "count": 570,
+  "count": 571,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -18188,6 +18188,25 @@
       "risk_notes": "121秒は投稿者の計測。正規配布ID・入手方法は特定できておらず、推測したモデルURLや手順を作らない。 当方でインストール・推論・生成・ベンチ再現はしていない。",
       "published": "2026-11-07",
       "path": "articles/2026-11-09-topic-larryvrh-h3-turbo-v4-ema.md"
+    },
+    {
+      "name": "《神瞰众生》先導編",
+      "genre": "video-gen",
+      "url": "https://x.com/jarvis11x/status/2113158191723020464",
+      "author": "@jarvis11x",
+      "published": "2026-10-22",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "生成過程、素材の権利と二次利用条件は未確認。",
+      "type": "article",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/jarvis11x/status/2113158191723020464"
+      ],
+      "fetched_at": "2026-11-10T11:51:27+09:00",
+      "path": "articles/2026-10-22-jarvis11x-0be72166.md"
     },
     {
       "name": "実写→1980s OVA調スタイルLoRAの学習レシピ（MiniMax H3 / AI Toolkit）",

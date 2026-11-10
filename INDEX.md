@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 570 件 — リポジトリ 327, リンク集 107, 記事 69, モデル 53, プロンプト 14 / ⚑ 要確認 364 件
+収録 571 件 — リポジトリ 327, リンク集 107, 記事 70, モデル 53, プロンプト 14 / ⚑ 要確認 365 件
 
 ## リポジトリ（327）
 
@@ -858,7 +858,7 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（69）
+## 記事（70）
 
 ### 記事（20）
 
@@ -883,7 +883,7 @@
 - **[デジタル化・AI導入補助金の申請条件と交付順序](articles/2026-11-09-https-x.com-makeai_ceo-status-2089261252120051821.md)** ⚑  @ai_ai_ailover
 - **[海外版noteで日本語の知識を英語圏に販売するAI活用記事](articles/2026-11-09-https-x.com-i-article-2117172572655849472.md)** ⚑  @pometa_afi
 
-### 動画生成パイプライン（12）
+### 動画生成パイプライン（13）
 
 - **[AIインフルエンサー量産術：Higgsfield AI Influencer＋Genjutsuで作る架空キャラ](articles/2026-10-11-y0urdumble-ai-higgsfield-ai-influencer-genjutsu.md)** ⚑  @Y0urDumble
 - **[AIペルソナ「Edmond」の$EDMD崩壊 — 72.4Kフォロワーと時価総額$1.8Kの実測メモ](articles/2026-10-18-y0urdumble-ai-edmond-edmd-72.4k-1.8k.md)** ⚑  @Y0urDumble
@@ -895,6 +895,7 @@
 - **[MiniMax H3系のボイスLoRA／キャプション運用メモ](articles/2026-11-07-ai_1610-h3-voice-lora-memo.md)** ⚑  @ai_1610
 - **[Museに外部の無料GPU（Modal／Kaggle／Colab）を割り当てる手順](articles/2026-11-07-taki_auto-muse-free-gpu.md)** ⚑  @taki_auto
 - **[larryvrh Turbo v4 EMAの比較結果（正規配布ID未確認）](articles/2026-11-09-topic-larryvrh-h3-turbo-v4-ema.md)** ⚑  @mapte_fireball
+- **[《神瞰众生》先導編](articles/2026-10-22-jarvis11x-0be72166.md)** ⚑  @jarvis11x
 - **[実写→1980s OVA調スタイルLoRAの学習レシピ（MiniMax H3 / AI Toolkit）](articles/2026-11-07-julienaiart-1980s-ova-lora.md)** ⚑  @JulienAIArt
 - **[錬金学総論58 MiniMax H3のLoRA一覧](articles/2026-11-09-topic-phantom_202601-h3-lora-list-58.md)** ⚑  @Phantom_202601
 
@@ -1338,5 +1339,6 @@
 - [akatz-ai/MiniMax-H3-Character-Swap-LoRA](models/video-gen/akatz-ai-minimax-h3-character-swap-lora.md) — unverified / LoRA単体では動かない。重みはMiniMax H3 Community Licenseでコードのライセンスと別。人物・作品の許諾と生成の誤認防止が必要。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [akatz-ai/MiniMax-H3-Person-Remover-LoRA](models/video-gen/akatz-ai-minimax-h3-person-remover-lora.md) — unverified / 人物除去の品質・背景保持は未実行確認。Character Swapの強度や8stepレシピを根拠なくこの別LoRAへ流用しない。基底モデルの条件も別途適用。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [larryvrh Turbo v4 EMAの比較結果（正規配布ID未確認）](articles/2026-11-09-topic-larryvrh-h3-turbo-v4-ema.md) — unverified / 121秒は投稿者の計測。正規配布ID・入手方法は特定できておらず、推測したモデルURLや手順を作らない。 当方でインストール・推論・生成・ベンチ再現はしていない。
+- [《神瞰众生》先導編](articles/2026-10-22-jarvis11x-0be72166.md) — unverified / 生成過程、素材の権利と二次利用条件は未確認。
 - [実写→1980s OVA調スタイルLoRAの学習レシピ（MiniMax H3 / AI Toolkit）](articles/2026-11-07-julienaiart-1980s-ova-lora.md) — unverified / 数値・手法はすべて本人申告で第三者検証なし。LoRAの重み・データセットは未公開で、次週Adobe MAX（Dellブース 11/10-11）での解説予告のみ。RTX PRO 6000（24GB超VRAM）で約30時間・4,000stepの条件は、A4000 16GBでは同条件の再現が非現実的。lossは1,000stepで頭打ちだが品質は2,500stepまで改善、4,000stepで過学習という報告も本人計測。
 - [錬金学総論58 MiniMax H3のLoRA一覧](articles/2026-11-09-topic-phantom_202601-h3-lora-list-58.md) — unverified / 記事の一覧を各LoRAの独立試験とは扱わない。コード・重み・素材の権利と作者のベンチを分ける。 当方でインストール・推論・生成・ベンチ再現はしていない。
