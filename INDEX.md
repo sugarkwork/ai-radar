@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 652 件 — リポジトリ 351, リンク集 113, 記事 121, モデル 53, プロンプト 14 / ⚑ 要確認 443 件
+収録 653 件 — リポジトリ 352, リンク集 113, 記事 121, モデル 53, プロンプト 14 / ⚑ 要確認 444 件
 
-## リポジトリ（351）
+## リポジトリ（352）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -200,6 +200,37 @@
 | [VRMExMR](entries/3d-motion/camenduru-vrmexmr.md) ⚑ | 15 | 0 | 毎日 | 39 | 2026-11-05 | 2026-11-09 | 2026-11-10 | 未確認（API は NOASSERTION。ExMR 側の条件を確認） |
 | [Lida-V/LidaAngelToon](entries/3d-motion/lida-v-lidaangeltoon.md) ⚑ | 6 | 0 | 週次 | 13 | 2026-10-17 | 2026-11-09 | 2026-11-10 | NOASSERTION |
 
+### 音声・TTS（26）
+
+| 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
+|---|---:|---:|---|---:|---|---|---|---|
+| [Whisper](entries/tts-audio/openai-whisper.md) | 112,302 | 13,597 | 停滞 | 0 | 2026-08-31 | 2026-11-09 | 2026-11-10 | MIT |
+| [VoiceStudio](entries/tts-audio/debpalash-voicestudio.md) | 106,057 | 11,773 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | AGPL-3.0 |
+| [microsoft/VibeVoice](entries/tts-audio/microsoft-vibevoice.md) ⚑ | 56,892 | 6,400 | 月次 | 0 | 2026-10-08 | 2026-11-09 | 2026-11-10 | MIT |
+| [Coqui TTS](entries/tts-audio/coqui-ai-tts.md) | 46,195 | 6,163 | 停滞 | 0 | 2024-08-16 | 2026-11-09 | 2026-11-10 | MPL-2.0 |
+| [OpenBMB/VoxCPM](entries/tts-audio/openbmb-voxcpm.md) ⚑ | 42,103 | 4,798 | 月次 | 3 | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [Bark](entries/tts-audio/suno-ai-bark.md) | 39,332 | 4,659 | 停滞 | 0 | 2024-08-19 | 2026-11-09 | 2026-11-10 | MIT |
+| [RVC (Retrieval-based Voice Conversion WebUI)](entries/tts-audio/rvc-project-retrieval-based-voice-conversion-webui.md) | 39,138 | 5,349 | 停滞 | 0 | 2026-08-04 | 2026-11-09 | 2026-11-10 | MIT |
+| [so-vits-svc](entries/tts-audio/svc-develop-team-so-vits-svc.md) | 28,049 | 5,010 | 停滞 | 0 | 2023-11-11 | 2026-11-09 | 2026-11-10 | AGPL-3.0 |
+| [WhisperX](entries/tts-audio/m-bain-whisperx.md) ⚑ | 25,190 | 2,543 | 週次 | 6 | 2026-10-22 | 2026-11-10 | 2026-11-10 | BSD-2-Clause |
+| [AudioCraft / MusicGen](entries/tts-audio/facebookresearch-audiocraft.md) | 23,835 | 2,713 | 停滞 | 0 | 2026-03-03 | 2026-11-09 | 2026-11-10 | MIT |
+| [OmniVoice](entries/tts-audio/k2-fsa-omnivoice.md) | 16,433 | 2,410 | 停滞 | 0 | 2026-11-02 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [ACE-Step 1.5](entries/tts-audio/ace-step-ace-step-1-5.md) | 14,573 | 1,937 | 月次 | 0 | 2026-11-08 | 2026-11-09 | 2026-11-10 | MIT |
+| [multimodal-art-projection/YuE](entries/tts-audio/multimodal-art-projection-yue.md) ⚑ | 13,285 | 1,532 | 毎日 | 39 | 2026-11-01 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [edge-tts](entries/tts-audio/rany2-edge-tts.md) ⚑ | 12,499 | 1,179 | 週次 | 8 | 2026-10-14 | 2026-11-10 | 2026-11-10 | unknown |
+| [Demucs](entries/tts-audio/facebookresearch-demucs.md) | 10,406 | 1,674 | 停滞 | 0 | 2024-04-24 | 2026-11-09 | 2026-11-10 | MIT |
+| [Kokoro](entries/tts-audio/hexgrad-kokoro.md) | 10,016 | 1,121 | 停滞 | 0 | 2025-08-06 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [Podcastfy](entries/tts-audio/souzatharsis-podcastfy.md) | 6,795 | 790 | 停滞 | 0 | 2026-05-04 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [ACE-Step（v1 / 3.5B）](entries/tts-audio/ace-step-ace-step.md) | 5,044 | 662 | 停滞 | 0 | 2026-02-15 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [umlx5h/LLPlayer](entries/tts-audio/umlx5h-llplayer.md) ⚑ | 4,620 | 290 | 停滞 | 0 | 2026-11-05 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
+| [Stable Audio Tools](entries/tts-audio/stability-ai-stable-audio-tools.md) | 3,904 | 490 | 停滞 | 0 | 2026-11-01 | 2026-11-09 | 2026-11-10 | MIT |
+| [Essentia](entries/tts-audio/mtg-essentia.md) | 3,801 | 644 | 週次 | 15 | 2026-11-05 | 2026-11-09 | 2026-11-10 | AGPL-3.0 |
+| [stable-ts](entries/tts-audio/jianfch-stable-ts.md) | 2,282 | 248 | 停滞 | 0 | 2026-05-30 | 2026-11-09 | 2026-11-10 | MIT |
+| [ElevenLabs Skills](entries/tts-audio/elevenlabs-skills.md) ⚑ | 547 | 94 | 週次 | 13 | 2026-11-04 | 2026-11-10 | 2026-11-10 | MIT |
+| [adventists-ai/sophon-realtime](entries/tts-audio/adventists-ai-sophon-realtime.md) ⚑ | 58 | 4 | 毎日 | 36 | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [lowkeytea/scyllasband](entries/tts-audio/lowkeytea-scyllasband.md) ⚑ | 29 | 2 | 週次 | 11 | 2026-11-07 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [muse-irodori-voice — CPUで固有音声を作るIrodoriキット](entries/tts-audio/kgmkm-muse-irodori-voice.md) ⚑ | 9 | 0 | 週次 | 4 | 2026-10-31 | 2026-11-09 | 2026-11-10 | MIT |
+
 ### コーディングエージェント（25）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
@@ -229,36 +260,6 @@
 | [Dual-Brain — 設計とコードの二視点レビュー用スキル](entries/coding-agent/sleeplesshan-dual-brain.md) ⚑ | 143 | 11 | 週次 | 6 | 2026-11-06 | 2026-11-09 | 2026-11-10 | MIT |
 | [quicksilver](entries/coding-agent/uditakhourii-quicksilver.md) ⚑ | 142 | 11 | 停滞 | 0 | 2026-09-25 | 2026-11-09 | 2026-11-10 | MIT |
 | [GDG Agent Skillsの実演教材](entries/coding-agent/gdg-oau-agent-skills-gdg.md) ⚑ | 1 | 0 | 週次 | 13 | 2026-11-07 | 2026-11-10 | 2026-11-10 | unknown |
-
-### 音声・TTS（25）
-
-| 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
-|---|---:|---:|---|---:|---|---|---|---|
-| [Whisper](entries/tts-audio/openai-whisper.md) | 112,302 | 13,597 | 停滞 | 0 | 2026-08-31 | 2026-11-09 | 2026-11-10 | MIT |
-| [VoiceStudio](entries/tts-audio/debpalash-voicestudio.md) | 106,057 | 11,773 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | AGPL-3.0 |
-| [microsoft/VibeVoice](entries/tts-audio/microsoft-vibevoice.md) ⚑ | 56,892 | 6,400 | 月次 | 0 | 2026-10-08 | 2026-11-09 | 2026-11-10 | MIT |
-| [Coqui TTS](entries/tts-audio/coqui-ai-tts.md) | 46,195 | 6,163 | 停滞 | 0 | 2024-08-16 | 2026-11-09 | 2026-11-10 | MPL-2.0 |
-| [OpenBMB/VoxCPM](entries/tts-audio/openbmb-voxcpm.md) ⚑ | 42,103 | 4,798 | 月次 | 3 | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [Bark](entries/tts-audio/suno-ai-bark.md) | 39,332 | 4,659 | 停滞 | 0 | 2024-08-19 | 2026-11-09 | 2026-11-10 | MIT |
-| [RVC (Retrieval-based Voice Conversion WebUI)](entries/tts-audio/rvc-project-retrieval-based-voice-conversion-webui.md) | 39,138 | 5,349 | 停滞 | 0 | 2026-08-04 | 2026-11-09 | 2026-11-10 | MIT |
-| [so-vits-svc](entries/tts-audio/svc-develop-team-so-vits-svc.md) | 28,049 | 5,010 | 停滞 | 0 | 2023-11-11 | 2026-11-09 | 2026-11-10 | AGPL-3.0 |
-| [WhisperX](entries/tts-audio/m-bain-whisperx.md) ⚑ | 25,190 | 2,543 | 週次 | 6 | 2026-10-22 | 2026-11-10 | 2026-11-10 | BSD-2-Clause |
-| [AudioCraft / MusicGen](entries/tts-audio/facebookresearch-audiocraft.md) | 23,835 | 2,713 | 停滞 | 0 | 2026-03-03 | 2026-11-09 | 2026-11-10 | MIT |
-| [OmniVoice](entries/tts-audio/k2-fsa-omnivoice.md) | 16,433 | 2,410 | 停滞 | 0 | 2026-11-02 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [ACE-Step 1.5](entries/tts-audio/ace-step-ace-step-1-5.md) | 14,573 | 1,937 | 月次 | 0 | 2026-11-08 | 2026-11-09 | 2026-11-10 | MIT |
-| [multimodal-art-projection/YuE](entries/tts-audio/multimodal-art-projection-yue.md) ⚑ | 13,285 | 1,532 | 毎日 | 39 | 2026-11-01 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [edge-tts](entries/tts-audio/rany2-edge-tts.md) ⚑ | 12,499 | 1,179 | 週次 | 8 | 2026-10-14 | 2026-11-10 | 2026-11-10 | unknown |
-| [Demucs](entries/tts-audio/facebookresearch-demucs.md) | 10,406 | 1,674 | 停滞 | 0 | 2024-04-24 | 2026-11-09 | 2026-11-10 | MIT |
-| [Kokoro](entries/tts-audio/hexgrad-kokoro.md) | 10,016 | 1,121 | 停滞 | 0 | 2025-08-06 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [Podcastfy](entries/tts-audio/souzatharsis-podcastfy.md) | 6,795 | 790 | 停滞 | 0 | 2026-05-04 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [ACE-Step（v1 / 3.5B）](entries/tts-audio/ace-step-ace-step.md) | 5,044 | 662 | 停滞 | 0 | 2026-02-15 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [umlx5h/LLPlayer](entries/tts-audio/umlx5h-llplayer.md) ⚑ | 4,620 | 290 | 停滞 | 0 | 2026-11-05 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
-| [Stable Audio Tools](entries/tts-audio/stability-ai-stable-audio-tools.md) | 3,904 | 490 | 停滞 | 0 | 2026-11-01 | 2026-11-09 | 2026-11-10 | MIT |
-| [Essentia](entries/tts-audio/mtg-essentia.md) | 3,801 | 644 | 週次 | 15 | 2026-11-05 | 2026-11-09 | 2026-11-10 | AGPL-3.0 |
-| [stable-ts](entries/tts-audio/jianfch-stable-ts.md) | 2,282 | 248 | 停滞 | 0 | 2026-05-30 | 2026-11-09 | 2026-11-10 | MIT |
-| [adventists-ai/sophon-realtime](entries/tts-audio/adventists-ai-sophon-realtime.md) ⚑ | 58 | 4 | 毎日 | 36 | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [lowkeytea/scyllasband](entries/tts-audio/lowkeytea-scyllasband.md) ⚑ | 29 | 2 | 週次 | 11 | 2026-11-07 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [muse-irodori-voice — CPUで固有音声を作るIrodoriキット](entries/tts-audio/kgmkm-muse-irodori-voice.md) ⚑ | 9 | 0 | 週次 | 4 | 2026-10-31 | 2026-11-09 | 2026-11-10 | MIT |
 
 ### モデル推論・配信（24）
 
@@ -1424,6 +1425,7 @@
 - [multimodal-art-projection/YuE](entries/tts-audio/multimodal-art-projection-yue.md) — unverified / コードのApache-2.0をYuE2重みへ適用しない。YuE2重みはCC BY-NC4.0。世代違いの要件・評価を混入しない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [edge-tts](entries/tts-audio/rany2-edge-tts.md) — unverified / 音声合成は実行しておらず、現時点での接続可否、音声品質、字幕の同期精度と単語単位での出力条件は未検証。サービスの料金・利用上限・生成音声の商用利用条件、最新リリースの公開年を含む正確な日時は未確認。 GitHub APIでライセンスを確認できていません。
 - [umlx5h/LLPlayer](entries/tts-audio/umlx5h-llplayer.md) — unverified / Beta版で設定互換性が変わる可能性。ASR/OCRはローカルだが翻訳はエンジンによってクラウド送信・API費用が生じる。 当方でインストール・推論・生成・ベンチ再現はしていない。
+- [ElevenLabs Skills](entries/tts-audio/elevenlabs-skills.md) — unverified / 最新リリースのタグと公開日時は確認できなかった。スキルの起動、生成音の品質・所要時間、個別API機能の課金条件と生成物の商用利用条件は未検証。
 - [adventists-ai/sophon-realtime](entries/tts-audio/adventists-ai-sophon-realtime.md) — unverified / Apache-2.0とNOTICEの第三者要素の条件を分ける。0.31秒等は特定版・構成の作者測定で全版への保証ではない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [lowkeytea/scyllasband](entries/tts-audio/lowkeytea-scyllasband.md) — unverified / ランタイムApache-2.0と各構成要素の条件を確認する。モデルの70ms等を全デバイスでの実測保証にしない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [muse-irodori-voice — CPUで固有音声を作るIrodoriキット](entries/tts-audio/kgmkm-muse-irodori-voice.md) — unverified / コードはMITだが重みと音声利用条件は別。READMEは特定声優・キャラクターへの模倣を禁じ、同意のない他者のなりすまし等にも注意する。このONNX経路ではSilentCipher透かしが入らないと説明されているためAI音声であることを明示する。速度・同一性・品質は作者の測定で当方未追試。 当方でインストール・動作・性能の実行検証はしていない。

@@ -1,5 +1,5 @@
 {
-  "count": 652,
+  "count": 653,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -15946,6 +15946,37 @@
       "fetched_at": "2026-11-09T21:43:08Z",
       "path": "entries/tts-audio/jianfch-stable-ts.md",
       "summary": "Whisper 系モデルで文字起こしし、単語単位のタイムスタンプを付与（cross-attention + dynamic time warping）"
+    },
+    {
+      "repo": "elevenlabs/skills",
+      "name": "ElevenLabs Skills",
+      "genre": "tts-audio",
+      "url": "https://github.com/elevenlabs/skills",
+      "stars": 547,
+      "forks": 94,
+      "open_issues": 5,
+      "size_kb": 1031,
+      "language": "Python",
+      "created": "2026-01-24",
+      "updated": "2026-11-04",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 13,
+      "commits_90d": 32,
+      "commit_cadence": "weekly",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "最新リリースのタグと公開日時は確認できなかった。スキルの起動、生成音の品質・所要時間、個別API機能の課金条件と生成物の商用利用条件は未検証。",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/Y0urDumble/status/2117396633889427646"
+      ],
+      "fetched_at": "2026-11-10T08:52:35+00:00",
+      "path": "entries/tts-audio/elevenlabs-skills.md",
+      "summary": "台本を読み上げ音声に変換し、テキストから効果音や楽曲を生成できる。効果音スキルにはループ、長さ、プロンプトへの追従度を調整する設定がある。 [効果音スキル定義](https://github.com/elevenlabs/skills/blob/main/sound-effects/SKILL.md)"
     },
     {
       "type": "repo",
