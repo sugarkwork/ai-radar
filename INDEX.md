@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 738 件 — リポジトリ 427, リンク集 113, 記事 131, モデル 53, プロンプト 14 / ⚑ 要確認 528 件
+収録 739 件 — リポジトリ 428, リンク集 113, 記事 131, モデル 53, プロンプト 14 / ⚑ 要確認 529 件
 
-## リポジトリ（427）
+## リポジトリ（428）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -397,7 +397,7 @@
 | [A-Share Quant Selector](entries/finance-quant/dzy-hw-xd-a-share-quant-selector.md) | 513 | 109 | 停滞 | 0 | 2026-09-08 | 2026-11-09 | 2026-11-10 | MIT |
 | [HyperGrok Trading Desk](entries/finance-quant/galleonlabs-hypergrok-trading-desk.md) ⚑ | 472 | 110 | 毎日 | 26 | 2026-11-04 | 2026-11-10 | 2026-11-10 | MIT |
 
-### MCPサーバー（18）
+### MCPサーバー（19）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -419,6 +419,7 @@
 | [DeepScrape](entries/mcp-server/stretchcloud-deepscrape.md) ⚑ | 337 | 28 | 月次 | 0 | 2026-08-21 | 2026-11-10 | 2026-11-10 | MIT |
 | [Material Painter](entries/mcp-server/alla2001-material-painter.md) ⚑ | 265 | 26 | 毎日 | 41 | 2026-11-07 | 2026-11-10 | 2026-11-10 | GPL-3.0 |
 | [pagesift](entries/mcp-server/yolow92-pagesift.md) ⚑ | 256 | 32 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | AGPL-3.0 |
+| [Kosh](entries/mcp-server/sachinyadavaug20-kosh.md) ⚑ | 4 | 0 | 毎日 | 61 | 2026-11-10 | 2026-11-10 | 2026-11-10 | Apache-2.0 |
 
 ### RAG・検索（17）
 
@@ -1476,6 +1477,7 @@
 - [DeepScrape](entries/mcp-server/stretchcloud-deepscrape.md) — unverified / READMEに記載された機能と手順を確認した。実行時の動作、サイト変更後の復旧率、破損PDFの解析精度、モデル利用料の具体額は未確認。GitHubの最新版リンクはリリース一覧に遷移し、取得した一覧にはリリースが表示されていなかったため、最新リリースのタグと公開日時は未確認。
 - [Material Painter](entries/mcp-server/alla2001-material-painter.md) — unverified / 早期アクセス。アプリとMCPの動作は未検証。
 - [pagesift](entries/mcp-server/yolow92-pagesift.md) — unverified / AGPL-3.0 のため、改変してネットワーク越しに提供する場合はソース開示義務。プロプライエタリ製品への組み込みは別途商用ライセンス。README のベンチマーク数値（2.4ms/ページ、20.49倍、32MB 等）はすべて著者自身の計測で第三者検証なし＝カタログの事実としては採用せず flag 扱い。リポジトリは 2026-10-20 作成で履歴が浅く、v1.1.3 は検証当日リリース。pip 版 CLI のサブコマンドは mcp/scrape/convert のみで、README が示す crawl/extract/doctor やローカル PDF/Office の直接パースは cargo ビルド版の機能（pip 版 scrape は http(s) のみ受け付け、ローカルファイルは convert で HTML のみ）。
+- [Kosh](entries/mcp-server/sachinyadavaug20-kosh.md) — unverified / ['実機での起動、クライアントとの接続、GLBの生成品質や処理時間、最新リリース、M8ven評価は未確認。README内でBlenderの対応版とツール数の記述に幅があり、実際の対応範囲は未確認。Gemini APIの利用料金は未確認。']
 - [60fps.design MCP](links/mcp-server/https-60fps.design-mcp.md) — unverified / 月29ドル/四半期69ドル・1席は原チェック時。PROプランにMCPは含まれない。SwiftUIのコンパイル確認は提供側の説明で本調査では未実行。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Date Math](links/mcp-server/date-math.datemath.workers.dev-date-math.md) — unverified / 計算精度と決済は未検証。
 - [Strata](entries/model-serving/niko1221-strata.md) — unverified / Mac31%・Linuxほぼ3倍等はリリースノートで同じ条件の根拠がない箇所がある。control vectorは特定Qwen向け実験で既定off。 今回の動作・推論・生成・性能は未検証。

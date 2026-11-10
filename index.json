@@ -1,5 +1,5 @@
 {
-  "count": 738,
+  "count": 739,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -12662,6 +12662,39 @@
       "commits_90d": 100,
       "path": "entries/mcp-server/yolow92-pagesift.md",
       "summary": "URL を取得し、本文抽出した Markdown もしくは JSON（links / images / metadata / スキーマ抽出）で返す"
+    },
+    {
+      "repo": "SachinyadavAug20/kosh",
+      "name": "Kosh",
+      "genre": "mcp-server",
+      "url": "https://github.com/SachinyadavAug20/kosh",
+      "license": "Apache-2.0",
+      "stars": 4,
+      "forks": 0,
+      "open_issues": 0,
+      "size_kb": 26429,
+      "language": "TypeScript",
+      "created": "2026-10-30",
+      "updated": "2026-11-10",
+      "archived": false,
+      "commits_30d": 61,
+      "commits_90d": 61,
+      "commit_cadence": "daily",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": [
+        "実機での起動、クライアントとの接続、GLBの生成品質や処理時間、最新リリース、M8ven評価は未確認。README内でBlenderの対応版とツール数の記述に幅があり、実際の対応範囲は未確認。Gemini APIの利用料金は未確認。"
+      ],
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/samtagon38824/status/2118037888986460441"
+      ],
+      "fetched_at": "2026-11-10T11:43:29+00:00",
+      "path": "entries/mcp-server/sachinyadavaug20-kosh.md",
+      "summary": "READMEでは、パラメトリックCAD、スカルプト、アニメーションを扱い、生成したメッシュをGLBとして取り出せるとしている。"
     },
     {
       "type": "link",
