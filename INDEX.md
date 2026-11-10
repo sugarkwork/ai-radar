@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 672 件 — リポジトリ 369, リンク集 113, 記事 123, モデル 53, プロンプト 14 / ⚑ 要確認 463 件
+収録 673 件 — リポジトリ 370, リンク集 113, 記事 123, モデル 53, プロンプト 14 / ⚑ 要確認 464 件
 
-## リポジトリ（369）
+## リポジトリ（370）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -237,7 +237,7 @@
 | [quicksilver](entries/coding-agent/uditakhourii-quicksilver.md) ⚑ | 142 | 11 | 停滞 | 0 | 2026-09-25 | 2026-11-09 | 2026-11-10 | MIT |
 | [GDG Agent Skillsの実演教材](entries/coding-agent/gdg-oau-agent-skills-gdg.md) ⚑ | 1 | 0 | 週次 | 13 | 2026-11-07 | 2026-11-10 | 2026-11-10 | unknown |
 
-### 音声・TTS（29）
+### 音声・TTS（30）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -265,6 +265,7 @@
 | [Stable Audio Tools](entries/tts-audio/stability-ai-stable-audio-tools.md) | 3,904 | 490 | 停滞 | 0 | 2026-11-01 | 2026-11-09 | 2026-11-10 | MIT |
 | [Essentia](entries/tts-audio/mtg-essentia.md) | 3,801 | 644 | 週次 | 15 | 2026-11-05 | 2026-11-09 | 2026-11-10 | AGPL-3.0 |
 | [stable-ts](entries/tts-audio/jianfch-stable-ts.md) | 2,282 | 248 | 停滞 | 0 | 2026-05-30 | 2026-11-09 | 2026-11-10 | MIT |
+| [知了 Cicada](entries/tts-audio/wquguru-cicada.md) ⚑ | 2,104 | 366 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | Apache-2.0 |
 | [ElevenLabs Skills](entries/tts-audio/elevenlabs-skills.md) ⚑ | 547 | 94 | 週次 | 13 | 2026-11-04 | 2026-11-10 | 2026-11-10 | MIT |
 | [adventists-ai/sophon-realtime](entries/tts-audio/adventists-ai-sophon-realtime.md) ⚑ | 58 | 4 | 毎日 | 36 | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
 | [lowkeytea/scyllasband](entries/tts-audio/lowkeytea-scyllasband.md) ⚑ | 29 | 2 | 週次 | 11 | 2026-11-07 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
@@ -1462,6 +1463,7 @@
 - [multimodal-art-projection/YuE](entries/tts-audio/multimodal-art-projection-yue.md) — unverified / コードのApache-2.0をYuE2重みへ適用しない。YuE2重みはCC BY-NC4.0。世代違いの要件・評価を混入しない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [edge-tts](entries/tts-audio/rany2-edge-tts.md) — unverified / 音声合成は実行しておらず、現時点での接続可否、音声品質、字幕の同期精度と単語単位での出力条件は未検証。サービスの料金・利用上限・生成音声の商用利用条件、最新リリースの公開年を含む正確な日時は未確認。 GitHub APIでライセンスを確認できていません。
 - [umlx5h/LLPlayer](entries/tts-audio/umlx5h-llplayer.md) — unverified / Beta版で設定互換性が変わる可能性。ASR/OCRはローカルだが翻訳はエンジンによってクラウド送信・API費用が生じる。 当方でインストール・推論・生成・ベンチ再現はしていない。
+- [知了 Cicada](entries/tts-audio/wquguru-cicada.md) — unverified / 公開資料の確認のみ。認識・翻訳精度、遅延、話者識別、共有時の機密情報検出、実際の外部送信先は未検証。Lingの現行料金と無料枠の適用条件は提供元で未確認。
 - [ElevenLabs Skills](entries/tts-audio/elevenlabs-skills.md) — unverified / 最新リリースのタグと公開日時は確認できなかった。スキルの起動、生成音の品質・所要時間、個別API機能の課金条件と生成物の商用利用条件は未検証。
 - [adventists-ai/sophon-realtime](entries/tts-audio/adventists-ai-sophon-realtime.md) — unverified / Apache-2.0とNOTICEの第三者要素の条件を分ける。0.31秒等は特定版・構成の作者測定で全版への保証ではない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [lowkeytea/scyllasband](entries/tts-audio/lowkeytea-scyllasband.md) — unverified / ランタイムApache-2.0と各構成要素の条件を確認する。モデルの70ms等を全デバイスでの実測保証にしない。 当方でインストール・推論・生成・ベンチ再現はしていない。

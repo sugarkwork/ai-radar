@@ -1,5 +1,5 @@
 {
-  "count": 672,
+  "count": 673,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -16494,6 +16494,39 @@
       "fetched_at": "2026-11-09T21:43:08Z",
       "path": "entries/tts-audio/jianfch-stable-ts.md",
       "summary": "Whisper 系モデルで文字起こしし、単語単位のタイムスタンプを付与（cross-attention + dynamic time warping）"
+    },
+    {
+      "repo": "wquguru/cicada",
+      "name": "知了 Cicada",
+      "genre": "tts-audio",
+      "url": "https://github.com/wquguru/cicada",
+      "last_release": "v1.8.0",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "公開資料の確認のみ。認識・翻訳精度、遅延、話者識別、共有時の機密情報検出、実際の外部送信先は未検証。Lingの現行料金と無料枠の適用条件は提供元で未確認。",
+      "pricing_detail": "アプリ本体はApache-2.0。開発元READMEはLingの月10元分の無料枠を会議約10〜50時間分と見積もる。利用時間は機能と使用量に依存する。",
+      "stars": 2104,
+      "forks": 366,
+      "open_issues": 6,
+      "size_kb": 40282,
+      "language": "Swift",
+      "created": "2026-11-01",
+      "updated": "2026-11-10",
+      "archived": false,
+      "license": "Apache-2.0",
+      "commits_30d": 100,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/wquguru/status/2117574970280923492"
+      ],
+      "fetched_at": "2026-11-10T09:40:06+00:00",
+      "path": "entries/tts-audio/wquguru-cicada.md",
+      "summary": "会議や配信の音声を二言語字幕にし、要約、議題、決定事項、タスクを整理する。決定事項やタスクから元の発言に戻れ、会議後はMarkdown、Word、SRTへ出力できる。"
     },
     {
       "repo": "elevenlabs/skills",
