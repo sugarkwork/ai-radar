@@ -1,5 +1,5 @@
 {
-  "count": 664,
+  "count": 665,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -6296,6 +6296,38 @@
       "fetched_at": "2026-11-10T08:15:51+00:00",
       "path": "entries/coding-agent/anthropics-claude-code.md",
       "summary": "端末から自然言語でコードの説明、定型作業、Gitワークフローを依頼できる。設定済みのMCPサーバーを通じて外部ツールやデータソースも利用できる。"
+    },
+    {
+      "repo": "github/spec-kit",
+      "name": "Spec Kit",
+      "genre": "coding-agent",
+      "url": "https://github.com/github/spec-kit",
+      "last_release": "v1.3.3",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "公式資料で手順と対応環境を確認した。実行時の挙動、実装品質や手戻りへの効果、各エージェントの利用料金は未検証。最新リリースの表示は確認したが、公開日時の年とタイムゾーンを含む完全な値は未確認。",
+      "stars": 149097,
+      "forks": 13388,
+      "open_issues": 227,
+      "size_kb": 22347,
+      "language": "Python",
+      "created": "2025-08-21",
+      "updated": "2026-11-10",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 100,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/AIExplorerTim/status/2117517393186689063"
+      ],
+      "fetched_at": "2026-11-10T09:20:46+00:00",
+      "path": "entries/coding-agent/github-spec-kit.md",
+      "summary": "Specify CLIでプロジェクトを初期化し、エージェントのチャットから仕様、実装計画、作業タスクを順に作成して実装に進める。仕様の曖昧さの洗い出しや成果物間の整合性確認も公式手順に含まれる。"
     },
     {
       "repo": "nextlevelbuilder/ui-ux-pro-max-skill",
