@@ -1,5 +1,5 @@
 {
-  "count": 684,
+  "count": 685,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -5959,6 +5959,22 @@
       ],
       "fetched_at": "2026-11-10T04:08:08Z",
       "path": "articles/2026-10-13-tokenspeed-team-tokenspeed-qwen3.8-flash-next.md"
+    },
+    {
+      "name": "Upcoming: New age rating content descriptors in App Store Connect",
+      "genre": "article",
+      "url": "https://developer.apple.com/news/?id=yxkh08us",
+      "published": "2026-11-02",
+      "flags": [],
+      "type": "article",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "risk_notes": "",
+      "sources": [
+        "https://x.com/neuronxwhite/status/2117614708903821614"
+      ],
+      "fetched_at": "2026-11-10T09:53:06Z",
+      "path": "articles/2026-11-02-author-upcoming-new-age-rating-content-descriptors-in-app-store-connect-533ca96fb6.md"
     },
     {
       "name": "Xのアカウントデータを使った自己点検の提案",
