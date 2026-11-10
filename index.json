@@ -1,5 +1,5 @@
 {
-  "count": 639,
+  "count": 640,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -16447,6 +16447,38 @@
       "last_release_at": "2026-06-22",
       "path": "entries/video-gen/juliangarnier-anime.md",
       "summary": "WebのDOM/SVG等の動きをコードで制御するAnime.js。"
+    },
+    {
+      "repo": "remotion-dev/remotion",
+      "name": "Remotion",
+      "genre": "video-gen",
+      "url": "https://github.com/remotion-dev/remotion",
+      "license": "unknown",
+      "stars": 72099,
+      "forks": 6003,
+      "open_issues": 206,
+      "size_kb": 4491236,
+      "language": "TypeScript",
+      "created": "2020-06-23",
+      "updated": "2026-11-10",
+      "archived": false,
+      "commits_30d": 100,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "last_release": "v4.0.542",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "ローカルでのレンダリング、出力品質、制作時間・費用の削減効果、発見投稿にある特定モデルでの再現性は未検証。最新リリースのタグは確認済みだが、タイムゾーン付きの公開日時は未確認。 GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/thegreatest_sv/status/2117231247433118169"
+      ],
+      "fetched_at": "2026-11-10T08:25:35Z",
+      "path": "entries/video-gen/remotion-dev-remotion.md",
+      "summary": "Reactで動画の構成やアニメーションを記述し、Remotion Studioでプレビューして動画を書き出せる。"
     },
     {
       "type": "repo",

@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 639 件 — リポジトリ 340, リンク集 113, 記事 119, モデル 53, プロンプト 14 / ⚑ 要確認 430 件
+収録 640 件 — リポジトリ 341, リンク集 113, 記事 119, モデル 53, プロンプト 14 / ⚑ 要確認 431 件
 
-## リポジトリ（340）
+## リポジトリ（341）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### 動画生成パイプライン（66）
+### 動画生成パイプライン（67）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -17,6 +17,7 @@
 | [HyperFrames](entries/video-gen/heygen-hyperframes.md) ⚑ | 81,636 | 7,540 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
 | [OpenMontage](entries/video-gen/calesthio-openmontage.md) | 79,079 | 10,561 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | AGPL-3.0 |
 | [juliangarnier/anime](entries/video-gen/juliangarnier-anime.md) ⚑ | 74,464 | 5,070 | 停滞 | 0 | 2026-11-02 | 2026-11-09 | 2026-11-10 | MIT |
+| [Remotion](entries/video-gen/remotion-dev-remotion.md) ⚑ | 72,099 | 6,003 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | unknown |
 | [DavidHDev/react-bits](entries/video-gen/davidhdev-react-bits.md) ⚑ | 51,591 | 2,584 | 毎日 | 36 | 2026-11-08 | 2026-11-09 | 2026-11-10 | NOASSERTION |
 | [ManimCommunity/manim](entries/video-gen/manimcommunity-manim.md) ⚑ | 42,376 | 3,310 | 週次 | 17 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
 | [airbnb/lottie-web](entries/video-gen/airbnb-lottie-web.md) ⚑ | 32,390 | 2,962 | 停滞 | 0 | 2025-09-01 | 2026-11-09 | 2026-11-10 | MIT |
@@ -1421,6 +1422,7 @@
 - [d3/d3](entries/video-gen/d3-d3.md) — unverified / ISCライセンス。データの出典・集計・表現の正確性と表示の実機検証は別に必要。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [HyperFrames](entries/video-gen/heygen-hyperframes.md) — unverified / コードのApacheと有料Reverse機能を区別する。元映像の分解・再現は著作権や素材の利用許諾を要する。 今回の動作・推論・生成・性能は未検証。
 - [juliangarnier/anime](entries/video-gen/juliangarnier-anime.md) — unverified / MIT表記。紹介投稿の新しさはライブラリの初公開日ではない。商用素材の権利や依存版の互換性は別。 当方でインストール・推論・生成・ベンチ再現はしていない。
+- [Remotion](entries/video-gen/remotion-dev-remotion.md) — unverified / ローカルでのレンダリング、出力品質、制作時間・費用の削減効果、発見投稿にある特定モデルでの再現性は未検証。最新リリースのタグは確認済みだが、タイムゾーン付きの公開日時は未確認。 GitHub APIでライセンスを確認できていません。
 - [DavidHDev/react-bits](entries/video-gen/davidhdev-react-bits.md) — unverified / 原チェックはMIT＋Commons Clause v1.0でAPIはNOASSERTION。標準MITとだけ記載せず、販売制限を含む条件を確認する。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [ManimCommunity/manim](entries/video-gen/manimcommunity-manim.md) — unverified / MIT表記。数学説明の正しさや動画の完成度・制作費削減はコード作者の責任で独立検証なし。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [airbnb/lottie-web](entries/video-gen/airbnb-lottie-web.md) — unverified / 一覧の6000ドルの制作費を代替という表現は費用効果の実証ではない。MITはコードのみで各アニメ素材の権利は別。 当方でインストール・推論・生成・ベンチ再現はしていない。
