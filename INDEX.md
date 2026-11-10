@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 583 件 — リポジトリ 327, リンク集 110, 記事 79, モデル 53, プロンプト 14 / ⚑ 要確認 376 件
+収録 584 件 — リポジトリ 328, リンク集 110, 記事 79, モデル 53, プロンプト 14 / ⚑ 要確認 377 件
 
-## リポジトリ（327）
+## リポジトリ（328）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -220,6 +220,33 @@
 | [lowkeytea/scyllasband](entries/tts-audio/lowkeytea-scyllasband.md) ⚑ | 29 | 2 | 週次 | 11 | 2026-11-07 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
 | [muse-irodori-voice — CPUで固有音声を作るIrodoriキット](entries/tts-audio/kgmkm-muse-irodori-voice.md) ⚑ | 9 | 0 | 週次 | 4 | 2026-10-31 | 2026-11-09 | 2026-11-10 | MIT |
 
+### コーディングエージェント（22）
+
+| 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
+|---|---:|---:|---|---:|---|---|---|---|
+| [Karpathy Guidelines（karpathy-guidelines スキル）](entries/coding-agent/multica-ai-andrej-karpathy-skills.md) ⚑ | 231,320 | 22,999 | 停滞 | 0 | 2026-04-20 | 2026-11-09 | 2026-11-10 | unknown |
+| [Caveman](entries/coding-agent/juliusbrussee-caveman.md) ⚑ | 118,623 | 6,907 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [Agent Skills](entries/coding-agent/addyosmani-agent-skills.md) ⚑ | 114,537 | 11,972 | 毎日 | 100+ | 2026-11-01 | 2026-11-09 | 2026-11-10 | MIT |
+| [CodeGraph](entries/coding-agent/colbymchenry-codegraph.md) | 77,198 | 5,141 | 毎日 | 100+ | 2026-11-01 | 2026-11-09 | 2026-11-10 | MIT |
+| [herdr](entries/coding-agent/herdrdev-herdr.md) ⚑ | 49,753 | 4,017 | 毎日 | 49 | 2026-11-07 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [claude-code-templates](entries/coding-agent/davila7-claude-code-templates.md) ⚑ | 33,241 | 3,901 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [Craft Anything](entries/coding-agent/storytold-craft-anything.md) | 24,308 | 4,863 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [jcode](entries/coding-agent/1jehuang-jcode.md) | 21,641 | 2,517 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [meta/astryx](entries/coding-agent/meta-astryx.md) ⚑ | 19,713 | 1,502 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [pstack（Lauren Tan / poteto）](entries/coding-agent/cursor-plugins.md) ⚑ | 15,853 | 1,657 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [fast-jev-compaction](entries/coding-agent/tamaratran-fast-jev-compaction.md) ⚑ | 7,933 | 581 | 月次 | 0 | 2026-09-18 | 2026-11-09 | 2026-11-10 | MIT |
+| [ZSeven-W/openpencil](entries/coding-agent/zseven-w-openpencil.md) ⚑ | 7,172 | 625 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [billion-context](entries/coding-agent/ranxianglei-billion-context.md) ⚑ | 5,714 | 433 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | NOASSERTION |
+| [obsidianmd/obsidian-sample-plugin](entries/coding-agent/obsidianmd-obsidian-sample-plugin.md) ⚑ | 4,672 | 1,810 | 停滞 | 0 | 2026-08-02 | 2026-11-09 | 2026-11-10 | 0BSD |
+| [pstack-claude](entries/coding-agent/michael-denyer-pstack-claude.md) ⚑ | 4,178 | 381 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [oh-my-mermaid（omm）](entries/coding-agent/oh-my-mermaid-oh-my-mermaid.md) | 3,389 | 267 | 停滞 | 0 | 2026-04-07 | 2026-11-09 | 2026-11-10 | MIT |
+| [nanoMuse — 自分のデバイスで動くオープンソースパーソナルエージェント](entries/coding-agent/nano-muse-nanomuse.md) ⚑ | 3,358 | 402 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
+| [ppmpreetham/BUI](entries/coding-agent/ppmpreetham-bui.md) ⚑ | 2,363 | 95 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
+| [reacher-z/Awesome-REA](entries/coding-agent/reacher-z-awesome-rea.md) ⚑ | 2,312 | 421 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [Dual-Brain — 設計とコードの二視点レビュー用スキル](entries/coding-agent/sleeplesshan-dual-brain.md) ⚑ | 143 | 11 | 週次 | 6 | 2026-11-06 | 2026-11-09 | 2026-11-10 | MIT |
+| [quicksilver](entries/coding-agent/uditakhourii-quicksilver.md) ⚑ | 142 | 11 | 停滞 | 0 | 2026-09-25 | 2026-11-09 | 2026-11-10 | MIT |
+| [GDG Agent Skillsの実演教材](entries/coding-agent/gdg-oau-agent-skills-gdg.md) ⚑ | 1 | 0 | 週次 | 13 | 2026-11-07 | 2026-11-10 | 2026-11-10 | unknown |
+
 ### モデル推論・配信（22）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
@@ -246,32 +273,6 @@
 | [qwen-warp](entries/model-serving/tuan3w-qwen-warp.md) ⚑ | 24 | 4 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
 | [GLM-5.3-Flash 2×RTX PRO 6000 配備レシピ（TensorFold）](entries/model-serving/miaai-lab-glm-5.3-flash-2x-rtx-pro-6000.md) ⚑ | 23 | 2 | 週次 | 16 | 2026-11-07 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
 | [ausboss/ComfyUI-AusBoss-Model-Downloader](entries/model-serving/ausboss-comfyui-ausboss-model-downloader.md) ⚑ | 9 | 1 | 週次 | 5 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
-
-### コーディングエージェント（21）
-
-| 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
-|---|---:|---:|---|---:|---|---|---|---|
-| [Karpathy Guidelines（karpathy-guidelines スキル）](entries/coding-agent/multica-ai-andrej-karpathy-skills.md) ⚑ | 231,320 | 22,999 | 停滞 | 0 | 2026-04-20 | 2026-11-09 | 2026-11-10 | unknown |
-| [Caveman](entries/coding-agent/juliusbrussee-caveman.md) ⚑ | 118,623 | 6,907 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [Agent Skills](entries/coding-agent/addyosmani-agent-skills.md) ⚑ | 114,537 | 11,972 | 毎日 | 100+ | 2026-11-01 | 2026-11-09 | 2026-11-10 | MIT |
-| [CodeGraph](entries/coding-agent/colbymchenry-codegraph.md) | 77,198 | 5,141 | 毎日 | 100+ | 2026-11-01 | 2026-11-09 | 2026-11-10 | MIT |
-| [herdr](entries/coding-agent/herdrdev-herdr.md) ⚑ | 49,753 | 4,017 | 毎日 | 49 | 2026-11-07 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [claude-code-templates](entries/coding-agent/davila7-claude-code-templates.md) ⚑ | 33,241 | 3,901 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
-| [Craft Anything](entries/coding-agent/storytold-craft-anything.md) | 24,308 | 4,863 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [jcode](entries/coding-agent/1jehuang-jcode.md) | 21,641 | 2,517 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
-| [meta/astryx](entries/coding-agent/meta-astryx.md) ⚑ | 19,713 | 1,502 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
-| [pstack（Lauren Tan / poteto）](entries/coding-agent/cursor-plugins.md) ⚑ | 15,853 | 1,657 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
-| [fast-jev-compaction](entries/coding-agent/tamaratran-fast-jev-compaction.md) ⚑ | 7,933 | 581 | 月次 | 0 | 2026-09-18 | 2026-11-09 | 2026-11-10 | MIT |
-| [ZSeven-W/openpencil](entries/coding-agent/zseven-w-openpencil.md) ⚑ | 7,172 | 625 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
-| [billion-context](entries/coding-agent/ranxianglei-billion-context.md) ⚑ | 5,714 | 433 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | NOASSERTION |
-| [obsidianmd/obsidian-sample-plugin](entries/coding-agent/obsidianmd-obsidian-sample-plugin.md) ⚑ | 4,672 | 1,810 | 停滞 | 0 | 2026-08-02 | 2026-11-09 | 2026-11-10 | 0BSD |
-| [pstack-claude](entries/coding-agent/michael-denyer-pstack-claude.md) ⚑ | 4,178 | 381 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
-| [oh-my-mermaid（omm）](entries/coding-agent/oh-my-mermaid-oh-my-mermaid.md) | 3,389 | 267 | 停滞 | 0 | 2026-04-07 | 2026-11-09 | 2026-11-10 | MIT |
-| [nanoMuse — 自分のデバイスで動くオープンソースパーソナルエージェント](entries/coding-agent/nano-muse-nanomuse.md) ⚑ | 3,358 | 402 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
-| [ppmpreetham/BUI](entries/coding-agent/ppmpreetham-bui.md) ⚑ | 2,363 | 95 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
-| [reacher-z/Awesome-REA](entries/coding-agent/reacher-z-awesome-rea.md) ⚑ | 2,312 | 421 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
-| [Dual-Brain — 設計とコードの二視点レビュー用スキル](entries/coding-agent/sleeplesshan-dual-brain.md) ⚑ | 143 | 11 | 週次 | 6 | 2026-11-06 | 2026-11-09 | 2026-11-10 | MIT |
-| [quicksilver](entries/coding-agent/uditakhourii-quicksilver.md) ⚑ | 142 | 11 | 停滞 | 0 | 2026-09-25 | 2026-11-09 | 2026-11-10 | MIT |
 
 ### その他（18）
 
@@ -1125,6 +1126,7 @@
 - [reacher-z/Awesome-REA](entries/coding-agent/reacher-z-awesome-rea.md) — unverified / indexed repos3309は自動収集で未レビュー。数の多さや公開索引を各項目の安全性・有用性の保証としない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Dual-Brain — 設計とコードの二視点レビュー用スキル](entries/coding-agent/sleeplesshan-dual-brain.md) — unverified / MIT。投稿のMS関連社内ハッカソンでAI審査員から満点という説明は作者の自己申告で、公式採点記録・Microsoftの推薦や認証を確認したものではない。READMEは旧5事例ベンチの比較条件・トークン二重計上に問題があり旧総数を撤回と明記。普遍的な性能改善や低遅延は保証しない。 当方でインストール・動作・性能の実行検証はしていない。
 - [quicksilver](entries/coding-agent/uditakhourii-quicksilver.md) — unverified / 効果数値は作者自身の12タスク・ベンチマーク（bench/）による自己申告で、第三者による追試や自動テストは無い。bench の再実行には有料の Jev API キーが必要。対象ファイル/ログの内容は TypeSafe の API（api.typesafe.ai）へ送信されるため機密情報には使えない（.env・鍵・証明書・credentials、2MB 超、バイナリはスキップし .gitignore を尊重すると README に記載）。2026-09-25 の初回コミット2件以降の更新が無く、メンテ状況は不明。
+- [GDG Agent Skillsの実演教材](entries/coding-agent/gdg-oau-agent-skills-gdg.md) — unverified / 実行未検証。READMEが案内するafterブランチとライセンスを確認できない。
 - [ApiiroによるClaude Code settings.local.json資格情報漏洩調査](articles/2026-11-09-https-x.com-yoppy0123-status-2119219945179603110.md) — unverified / global gitignore追加だけでは既追跡や後からrepo化したケースを守れない。漏洩時は履歴削除だけでなくまず鍵を失効・ローテーション。実資格情報は転載しない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Claude Code](links/coding-agent/claude.com-claude-code.md) — unverified / Claude Code は汎用コーディングエージェントで、CGI/動画専用の機能はない。投稿のスタックではブリーフ→ショットリスト/カメラワークの文章生成と、MCP 経由の Blender 操作指示を担うが、モデリング・ライティング・レンダーは Blender、編集は HyperFrames/FFmpeg 側。『全部 Claude Code がやる』は不正確。投稿の15秒動画は 1440x1800（4:5）・30fps・15.03秒の1フォーマットで、画面内に『INVOICE · EXAMPLE』『ILLUSTRATIVE BUILD LOG』『FICTIONAL BRAND · RENDERED IN BLENDER』と明記された UI モックアップ。請求例はアニメーションで増える『EXAMPLE』で、終盤は $300 + $600 + $400 + $400 + $300 = $2,000。実在の請求ではなく、$1,500–5,000 の市場価格は未検証。DELIVERY GATE は 0/6 から終盤 6/6 になるが、それは UI のチェックで、実ファイルは 4:5 の1フォーマットのみ。16:9/9:16/1:1 の実ファイルは確認できない。『4 shots』は UI のショットリスト、『3 formats』は UI 表示で、納品物の実体は未確認。`/cgi-ad-studio` の配布物（skill/リポジトリ/プロンプト）へのリンクは投稿になく、.blend も生成スクリプトも公開されていない。引用 X 記事はログイン要求で本文未確認。15秒・4カメラ・3フォーマットの納品実績は未検証。『no 3D artist / no studio』は投稿の主張、『one operator』は UI のコピーで、実際の制作体制は確認できない。返信の supervoid_si も『ブランドはレンダーではなく光・カメラ・ビートの判断に払う』と指摘している。
 - [Claude Code Skills 機能](links/coding-agent/code.claude.com-claude-code-skills.md) — unverified / 投稿の主要な主張は一次情報で確認できた：`.claude/skills/<skill-name>/SKILL.md` と `~/.claude/skills/<skill-name>/SKILL.md` の配置、description が常時コンテキストに載り本文は起動時に読み込まれる点、`allowed-tools`／`context: fork`／`paths` の実在、description+when_to_use の 1,536 文字上限、SKILL.md を 500 行未満に保つ指示、scripts 配下が「executed, not loaded」である点。一方で次の差がある。(1) 「Anthropic just shared one of the best tricks」とあるが新公開の裏技ではなく以前から文書化された標準機能（ページ最終更新 2026-11-04）。(2) `allowed-tools` の許可はそのスキルを起動したターン限りで、次のメッセージを送ると失効する。(3) スクリプトのファイル自体は読まれないが、インライン shell 展開の実行結果はスキル本文に注入されコンテキストに入るため、コンテキスト消費がゼロになるわけではない。(4) `context: fork` は会話履歴を引き継がないが、CLAUDE.md はエージェントの起動コンテキストとして読み込まれる（Explore／Plan エージェントは除く）。(5) 投稿が繰り返す「JEV」「JEV engineering」「routes micro-forks in milliseconds」は一次情報に記載がなく、スキル機能とは無関係の宣伝とみられる（未確認）。(6) 添付は動画1本のみで静止画はなく、動画フレームの書き起こしは行っていない。上記の各主張は動画ではなく一次情報の本文と突き合わせて個別に判定した。

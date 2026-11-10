@@ -1,5 +1,5 @@
 {
-  "count": 583,
+  "count": 584,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -6179,6 +6179,37 @@
       "last_release_at": "",
       "path": "entries/coding-agent/uditakhourii-quicksilver.md",
       "summary": "リポジトリ全体や大量ファイルに「このファイルは認証まわりを実装しているか」等の yes/no 判定を一括実行し、該当ファイルだけを確信度付きで返す（qs filter）。"
+    },
+    {
+      "repo": "GDG-OAU/agent-skills-gdg",
+      "name": "GDG Agent Skillsの実演教材",
+      "genre": "coding-agent",
+      "url": "https://github.com/GDG-OAU/agent-skills-gdg",
+      "license": "unknown",
+      "stars": 1,
+      "language": "",
+      "created": "2026-11-07",
+      "updated": "2026-11-07",
+      "forks": 0,
+      "open_issues": 0,
+      "commits_30d": 13,
+      "commits_90d": 13,
+      "commit_cadence": "weekly",
+      "size_kb": 138,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "実行未検証。READMEが案内するafterブランチとライセンスを確認できない。",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/GDGOAU/status/2119175133915127953"
+      ],
+      "fetched_at": "2026-11-10T03:37:26Z",
+      "path": "entries/coding-agent/gdg-oau-agent-skills-gdg.md",
+      "summary": "予約APIと画面アニメーションのスキル定義を参照できる。"
     },
     {
       "type": "article",
