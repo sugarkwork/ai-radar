@@ -1,5 +1,5 @@
 {
-  "count": 645,
+  "count": 646,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -10912,6 +10912,38 @@
       "commits_90d": 100,
       "path": "entries/mcp-server/superdesigndev-treg.md",
       "summary": "1つのベースURL＋1つのトークン（X-Treg-Token）で、カタログ上の外部APIを呼ぶ。実リクエストのURLの頭に https://treg.to/call/ を付けるだけで、treg がホスト名からツールを解決し、認証情報をサーバ側で注入して中身はそのまま中継する（呼び出し側は鍵を持たない）"
+    },
+    {
+      "repo": "Manavarya09/design-extract",
+      "name": "designlang",
+      "genre": "mcp-server",
+      "url": "https://github.com/Manavarya09/design-extract",
+      "stars": 5003,
+      "forks": 415,
+      "open_issues": 19,
+      "size_kb": 15954,
+      "language": "HTML",
+      "created": "2026-04-15",
+      "updated": "2026-11-05",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 24,
+      "commits_90d": 86,
+      "commit_cadence": "daily",
+      "last_release": "v13.3.2",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "最新リリースの公開日時は未確認。抽出精度、サイト間での再現性、CLI・MCP の実動作は未検証。README の出力例は作者による掲載例。",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/thegreatest_sv/status/2117324109478507007"
+      ],
+      "fetched_at": "2026-11-10T08:41:43+00:00",
+      "path": "entries/mcp-server/manavarya09-design-extract.md",
+      "summary": "公開ページから配色、書体、余白などを抽出し、DTCG トークン、Tailwind 設定、Figma 変数用 JSON、AI に渡せる Markdown を生成する。"
     },
     {
       "repo": "marc-shade/world-intel-mcp",
