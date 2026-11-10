@@ -2,19 +2,20 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 647 件 — リポジトリ 347, リンク集 113, 記事 120, モデル 53, プロンプト 14 / ⚑ 要確認 438 件
+収録 648 件 — リポジトリ 348, リンク集 113, 記事 120, モデル 53, プロンプト 14 / ⚑ 要確認 439 件
 
-## リポジトリ（347）
+## リポジトリ（348）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### 動画生成パイプライン（68）
+### 動画生成パイプライン（69）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
 | [MoneyPrinterTurbo](entries/video-gen/harry0703-moneyprinterturbo.md) | 141,571 | 22,592 | 毎日 | 100+ | 2026-11-07 | 2026-11-09 | 2026-11-10 | MIT |
 | [d3/d3](entries/video-gen/d3-d3.md) ⚑ | 113,890 | 22,723 | 週次 | 4 | 2026-11-03 | 2026-11-09 | 2026-11-10 | ISC |
 | [HyperFrames](entries/video-gen/heygen-hyperframes.md) ⚑ | 81,636 | 7,540 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [OpenMontage](entries/video-gen/openmontageinc-openmontage.md) ⚑ | 79,249 | 10,586 | 毎日 | 100+ | 2026-11-09 | 2026-11-10 | 2026-11-10 | AGPL-3.0 |
 | [OpenMontage](entries/video-gen/calesthio-openmontage.md) | 79,079 | 10,561 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | AGPL-3.0 |
 | [juliangarnier/anime](entries/video-gen/juliangarnier-anime.md) ⚑ | 74,464 | 5,070 | 停滞 | 0 | 2026-11-02 | 2026-11-09 | 2026-11-10 | MIT |
 | [Remotion](entries/video-gen/remotion-dev-remotion.md) ⚑ | 72,099 | 6,003 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | unknown |
@@ -1434,6 +1435,7 @@
 - [音声を短文分割生成し接合部を調整する運用メモ](articles/2026-11-09-topic-ai_1610-audio-segment-join.md) — unverified / 18+ / NSFWに関連する出典。長さ上限と改善効果は個人の運用感で、一般的なモデル性能としては未確認。露骨な例文は収録しない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [d3/d3](entries/video-gen/d3-d3.md) — unverified / ISCライセンス。データの出典・集計・表現の正確性と表示の実機検証は別に必要。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [HyperFrames](entries/video-gen/heygen-hyperframes.md) — unverified / コードのApacheと有料Reverse機能を区別する。元映像の分解・再現は著作権や素材の利用許諾を要する。 今回の動作・推論・生成・性能は未検証。
+- [OpenMontage](entries/video-gen/openmontageinc-openmontage.md) — unverified / 最新リリースのタグと公開日時は未確認。制作パイプラインの動作、作例の映像品質・費用の再現性、素材ごとの利用条件は独立に検証していない。
 - [juliangarnier/anime](entries/video-gen/juliangarnier-anime.md) — unverified / MIT表記。紹介投稿の新しさはライブラリの初公開日ではない。商用素材の権利や依存版の互換性は別。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Remotion](entries/video-gen/remotion-dev-remotion.md) — unverified / ローカルでのレンダリング、出力品質、制作時間・費用の削減効果、発見投稿にある特定モデルでの再現性は未検証。最新リリースのタグは確認済みだが、タイムゾーン付きの公開日時は未確認。 GitHub APIでライセンスを確認できていません。
 - [DavidHDev/react-bits](entries/video-gen/davidhdev-react-bits.md) — unverified / 原チェックはMIT＋Commons Clause v1.0でAPIはNOASSERTION。標準MITとだけ記載せず、販売制限を含む条件を確認する。 当方でインストール・推論・生成・ベンチ再現はしていない。

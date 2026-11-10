@@ -1,5 +1,5 @@
 {
-  "count": 647,
+  "count": 648,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -16550,6 +16550,37 @@
       "risk_notes": "コードのApacheと有料Reverse機能を区別する。元映像の分解・再現は著作権や素材の利用許諾を要する。 今回の動作・推論・生成・性能は未検証。",
       "path": "entries/video-gen/heygen-hyperframes.md",
       "summary": "HTML（CSS / GSAP アニメーション）で書いたシーンを、そのまま動画にレンダリングする。キャッチコピーは \"Write HTML. Render video. Built for agents.\""
+    },
+    {
+      "repo": "OpenMontageInc/OpenMontage",
+      "name": "OpenMontage",
+      "genre": "video-gen",
+      "url": "https://github.com/OpenMontageInc/OpenMontage",
+      "license": "AGPL-3.0",
+      "stars": 79249,
+      "language": "Python",
+      "created": "2026-03-29",
+      "updated": "2026-11-09",
+      "forks": 10586,
+      "open_issues": 333,
+      "commits_30d": 100,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 78414,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "最新リリースのタグと公開日時は未確認。制作パイプラインの動作、作例の映像品質・費用の再現性、素材ごとの利用条件は独立に検証していない。",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/0xGky/status/2119585510008213749"
+      ],
+      "fetched_at": "2026-11-10T08:43:53+00:00",
+      "path": "entries/video-gen/openmontageinc-openmontage.md",
+      "summary": "自然言語の指示から、台本、素材調達、音声、字幕、合成を段階的に進める。参考動画を渡すと、文字起こし、テンポ、場面、キーフレーム、スタイルを分析して制作案を提示する流れがREADMEに記載されている。"
     },
     {
       "repo": "calesthio/OpenMontage",
