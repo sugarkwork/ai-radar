@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 615 件 — リポジトリ 331, リンク集 113, 記事 104, モデル 53, プロンプト 14 / ⚑ 要確認 406 件
+収録 616 件 — リポジトリ 331, リンク集 113, 記事 105, モデル 53, プロンプト 14 / ⚑ 要確認 407 件
 
 ## リポジトリ（331）
 
@@ -874,7 +874,7 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（104）
+## 記事（105）
 
 ### 記事（50）
 
@@ -959,6 +959,14 @@
 - **[Solvaix MEP・Claude間取り図からの設計事例](articles/2026-11-09-https-x.com-taziku_co-status-2119267211206635743.md)** ⚑  @taziku_co
 - **[白素体とプロンプトの同時変更による3方向比較（記事54）](articles/2026-11-09-https-make-profit.net-2026-11-06-genai-lab-54-blender-mixamo-h3-soft-body-mannequin-three-angles-regenerated.md)** ⚑  @Phantom_202601
 
+### 画像生成・編集（5）
+
+- **[ChatGPT Images 2.6 GIFと参照画像登録の解説](articles/2026-11-09-https-x.com-midori_tatsuta-status-2119030202315743254.md)** ⚑  @midori_tatsuta
+- **[Image Orchestrator 画像解析・ComfyUI再現探索アプリの制作事例](articles/2026-11-09-https-x.com-proto_jp-status-2119037274721866066.md)** ⚑  @proto_jp
+- **[MOSS-Image-Baseの二段階ComfyUIワークフロー](articles/2026-11-05-ciclosporin-moss-image-base-comfyui.md)** ⚑  Ciclosporin
+- **[P-H3の成人向け利用レポート（18+）](articles/2026-11-08-taki_auto-p-h3-adult-report.md)** ⚑  @taki_auto
+- **[totaku_originalのビジュアル完成度を高める制作手順](articles/2026-11-09-https-x.com-i-article-2118242706573135872.md)** ⚑  @shun_cmdouga
+
 ### 音声・TTS（5）
 
 - **[Museで既存動画へ声を付ける制作メモ（18+注意）](articles/2026-11-09-memuringo7544-muse-video-voiceover.md)** ⚑  @memuringo7544
@@ -966,13 +974,6 @@
 - **[Muse内Irodori音声ライブラリ制作事例](articles/2026-11-09-https-x.com-memuringo7544-status-2118972621866012726.md)** ⚑  @memuringo7544
 - **[成人向けSEライブラリの分類・検索UI制作事例](articles/2026-11-09-https-x.com-de_nier_ai-status-2119342412611068332.md)** ⚑  @memuringo7544
 - **[音声を短文分割生成し接合部を調整する運用メモ](articles/2026-11-09-topic-ai_1610-audio-segment-join.md)** ⚑  @ai_1610
-
-### 画像生成・編集（4）
-
-- **[ChatGPT Images 2.6 GIFと参照画像登録の解説](articles/2026-11-09-https-x.com-midori_tatsuta-status-2119030202315743254.md)** ⚑  @midori_tatsuta
-- **[Image Orchestrator 画像解析・ComfyUI再現探索アプリの制作事例](articles/2026-11-09-https-x.com-proto_jp-status-2119037274721866066.md)** ⚑  @proto_jp
-- **[P-H3の成人向け利用レポート（18+）](articles/2026-11-08-taki_auto-p-h3-adult-report.md)** ⚑  @taki_auto
-- **[totaku_originalのビジュアル完成度を高める制作手順](articles/2026-11-09-https-x.com-i-article-2118242706573135872.md)** ⚑  @shun_cmdouga
 
 ### agent（3）
 
@@ -1213,6 +1214,7 @@
 - [Lyricccco/FLUX.2-klein-base-9B-TailSteer](models/image-gen/lyricccco-flux.2-klein-base-9b-tailsteer.md) — unverified / ライセンスotherで基底モデル条件を継承。10ターン後の保持改善は作者ベンチであり独立追試なし。具体的なVRAM要件は未確認。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Lyricccco/Qwen-Image-2.1-TailSteer](models/image-gen/lyricccco-qwen-image-2.1-tailsteer.md) — unverified / license otherで基底条件を確認する。RISE accuracy20.56→18.06という低下も論文にあり、保持改善だけを万能な性能向上としない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [MOSS-Image LoRA Archive（Civitai日次スクレイプ）](models/image-gen/mossloras-moss-image-lora-archive.md) — unverified / 18+ / NSFW を含む可能性。CivitaiのMOSS-Image向けLoRAを日次で集めたアーカイブで、モデルカード・ライセンスファイルがない。個々のLoRAの再配布・商用利用の許諾は一括では確認できない。2,330ファイル（うち重み2,283本）・約341GB。DL 0・likes 12で独立検証なし。Civitaiの利用規約と各LoRA作者の条件を確認してから使う。
+- [MOSS-Image-Baseの二段階ComfyUIワークフロー](articles/2026-11-05-ciclosporin-moss-image-base-comfyui.md) — unverified / 生成は実行しておらず、画質、再現性、必要VRAM、処理時間、配布JSONのライセンスと再配布条件は未確認。作例の枚数、seed、選別の有無は作者の報告。
 - [Magnific](links/image-gen/https-www.magnific.com.md) — unverified / Premium月14.50ドル相当の年払い表示は2026-11-08の記録。現行価格、API料金、素材の権利条件は未確認。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Napkin AI](links/image-gen/https-www.napkin.ai.md) — unverified / 無料500クレジット/週・Plus月9ドル・Pro月22ドルは2026-11-08の記録。現行価格とエクスポート・商用条件は未確認。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [P-H3の成人向け利用レポート（18+）](articles/2026-11-08-taki_auto-p-h3-adult-report.md) — unverified, low-quality / 18+ / NSFW。成人向けのP-H3利用レポート。本文は露骨な内容を含むため、当エントリでは内容を転載・詳細化しない。投稿はLINE登録と『12大特典』へ誘導する販促色が強く、技術的な検証は示されていない。P-H3-Image自体は既出（models/video-gen/prunaai-p-h3-image.md）。

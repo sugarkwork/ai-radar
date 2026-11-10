@@ -1,5 +1,5 @@
 {
-  "count": 615,
+  "count": 616,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -8420,6 +8420,25 @@
       "amplifiers": [],
       "path": "models/image-gen/mossloras-moss-image-lora-archive.md",
       "summary": "MOSS-Image 向けのLoRAを、Civitaiから日次で集めてHugging Faceに置いているアーカイブ。"
+    },
+    {
+      "name": "MOSS-Image-Baseの二段階ComfyUIワークフロー",
+      "genre": "image-gen",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1xoqgn0/mossimagebase_two_stage_workflow/",
+      "author": "Ciclosporin",
+      "published": "2026-11-05",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "生成は実行しておらず、画質、再現性、必要VRAM、処理時間、配布JSONのライセンスと再配布条件は未確認。作例の枚数、seed、選別の有無は作者の報告。",
+      "type": "article",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/mapte_fireball/status/2118479331551051984"
+      ],
+      "fetched_at": "2026-11-10T05:47:18Z",
+      "path": "articles/2026-11-05-ciclosporin-moss-image-base-comfyui.md"
     },
     {
       "type": "link",
