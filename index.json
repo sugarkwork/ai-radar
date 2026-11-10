@@ -1,5 +1,5 @@
 {
-  "count": 582,
+  "count": 583,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -8997,6 +8997,28 @@
       ],
       "fetched_at": "2026-11-10T03:00:43Z",
       "path": "articles/2026-10-22-jarvis11x-claude-duet.md"
+    },
+    {
+      "name": "Cravely",
+      "genre": "link-inspiration",
+      "url": "https://gdgoau-food.vercel.app/",
+      "author": "GDG OAU",
+      "pricing": "free",
+      "pricing_detail": "公開デモの閲覧は無料。",
+      "signup_required": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "決済・追跡は模擬。生成工程は自己申告。",
+      "type": "link",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/GDGOAU/status/2119175133915127953"
+      ],
+      "fetched_at": "2026-11-10T12:37:05+09:00",
+      "path": "links/link-inspiration/gdgoau-food.vercel.app-cravely.md",
+      "summary": "フードデリバリーの注文から追跡までのUIを参照する。"
     },
     {
       "type": "link",

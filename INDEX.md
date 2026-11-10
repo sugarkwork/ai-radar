@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 582 件 — リポジトリ 327, リンク集 109, 記事 79, モデル 53, プロンプト 14 / ⚑ 要確認 375 件
+収録 583 件 — リポジトリ 327, リンク集 110, 記事 79, モデル 53, プロンプト 14 / ⚑ 要確認 376 件
 
 ## リポジトリ（327）
 
@@ -462,7 +462,48 @@
 - **[MiniMax H3：20種のダンスと音楽指定](prompts/video-gen/minimax-h3-20-dance-music.md)** ⚑  MiniMax H3 / EndFolding79421
   - キャラクターシートを参照し、6秒間の全身ダンスと音楽・環境音を指示するための投稿者のテンプレート。ダンス20種類の音楽指定例を含む。
 
-## リンク集（109）
+## リンク集（110）
+
+### リンク（作例・インスピレーション）（19）
+
+- **[BestAIBuilder](links/link-inspiration/bestaibuilder-website.md)**  free / BestAIBuilder
+  - AI サイトビルダーを横並びで比較するためのランキングサイト。「同じブリーフで全ツールにサイトを作らせ、craft / speed / control / value で採点した」という前提を掲げ、101ツールを順位付けしている。
+- **[Claude Code に Blender のシーンをコードで書かせて voxel キャラを踊らせる手順（投稿）](links/link-inspiration/x.com-claude-code-blender-voxel.md)** ⚑  free / @Y0urDumble (Dumble)
+  - AI インフルエンサー生成で問題になる「顔のドリフト」を、3D モデル（ファイルとして固定される資産）に置き換えて回避する。投稿者は、Blender の UI を一切開かず、Claude Code に Python を書かせて headless 実行させ、voxel キャラのモデリング→リグ→ダンスまで通したと主張して
+- **[Cravely](links/link-inspiration/gdgoau-food.vercel.app-cravely.md)** ⚑  free / GDG OAU
+  - フードデリバリーの注文から追跡までのUIを参照する。
+- **[Design Details — Webデザイン参考ライブラリ](links/link-inspiration/designdetails.io.md)** ⚑  Design Details — Webデザイン参考ライブラリ
+  - 実在サイトの全体構成・動き・フォント・配色をまとめて調べる。
+- **[Design Spells](links/link-inspiration/designspells.com.md)** ⚑  Design Spells
+  - 製品にある小さな遊び心・イースターエッグ・動きの事例集。
+- **[Detail — UIの小さな設計判断集](links/link-inspiration/detail.design.md)** ⚑  Detail — UIの小さな設計判断集
+  - UIの細部を設計・操作・動き・文章・アクセシビリティの観点から調べる。
+- **[Greg1（@greg13e）— 実在の群集映像にAIキャラを1体だけ合成するTikTokアカウント](links/link-inspiration/tiktok.com-greg1-greg13e-ai-1-tiktok.md)** ⚑  free / TikTok @greg13e（紹介したX投稿は @Y0urDumble）
+  - 実在の場所・実在の群集が写る映像に、AIで作ったキャラクターを1体だけ合成し、その場に居合わせたように見せるショート動画フォーマットの実例。生成モデルの手順書ではなく、完成して回っている運用アカウントを観察するための参照先として使う。
+- **[Inspora](links/link-inspiration/inspora-design.md)**  Inspora
+  - 最近のビジュアルデザイン／クリエイティブワークを厳選して並べる作例アーカイブ。Web、ブランディング、プロダクト、モーション、イラスト、3D、印刷までを1つのブラウズ形式で扱う。
+- **[Land-book](links/link-inspiration/https-land-book.com.md)** ⚑  @abir35627
+  - ランディングページの視覚的な参考例を探すデザインギャラリーLand-book。
+- **[Landdding](links/link-inspiration/landdding-com.md)** ⚑  Landdding
+  - ランディングページの作例を毎日／毎週キュレーションするギャラリー。デザインの参考を探す用途。
+- **[Launch Videos Gallery](links/link-inspiration/launchvideos-gallery.md)**  free / Launch Videos Gallery
+  - X 上で共有されたプロダクトローンチ動画を日次で集めた作例ギャラリー。ローンチ動画の構成や演出を参考にするためのもの。
+- **[Mosquito Man — 段ボールとアルミホイルの即席マスクで撮った14秒一発撮り動画（@Bober_smart が紹介）](links/link-inspiration/x.com-mosquito-man-14-bober_smart.md)** ⚑  free / @Bober_smart（紹介者。映像の原作者は投稿に記載なし）
+  - AI生成を使わず、家庭にある素材だけで作った「異形の見た目」で短尺動画の冒頭0.5秒を止める、という発想の参照例。@Bober_smart が2026-10-22に「ドイツの23歳が24時間で6M再生、費用$0、これはAIではなく実在の人物」と紹介して拡散した。
+- **[Opus Edit Machine](links/link-inspiration/opus-edit-machine.vercel.app-opus-edit-machine.md)** ⚑  free / Dumble (@Y0urDumble)
+  - 「40分の生素材が58秒の縦動画になるまで」を、8つの工程（station）に分解して体感するためのブラウザ教材。実際に動画を編集するツールではなく、各工程で何を判断しているか・どこを間違えやすいかを3Dデスク上で再現する。制作者は映像編集者・モーションデザイナーで、AI 編集パイプラインの工程分解を示す目的で作られて
+- **[Ripplix](links/link-inspiration/ripplix.com.md)** ⚑  freemium / Ripplix
+  - 実在アプリのUIアニメーションから、動きと再現指示を学ぶ。
+- **[Scrolltide](links/link-inspiration/scrolltide-co.md)**  paid / Scrolltide
+  - スクロールに連動して動く「シネマティックなWebサイト」を作るための、プロンプトとテンプレートのライブラリ。プロンプトをコピーして AI（Claude / Cursor / Codex など）に貼り、サイトを生成させる使い方を想定している。
+- **[Supahero](links/link-inspiration/supahero-io.md)**  free / Supahero
+  - Web サイトのファーストビュー（ヒーローセクション）だけを集めた作例ライブラリ。
+- **[The Internet Designs](links/link-inspiration/theinternetdesigns-com.md)**  free / The Internet Designs
+  - X（Twitter）と Pinterest に投稿された UI デザインを収集・索引化し、デザインの参考として引けるようにする。ポストの「find beautifully designed websites」に対応する。
+- **[recent.design](links/link-inspiration/https-recent.design.md)** ⚑  @abir35627
+  - Web・ブランド・モーション・印刷の作例と求人を掲載するrecent.design。
+- **[uilabs — 動きのあるUI部品集](links/link-inspiration/uilabs.dev.md)** ⚑  uilabs — 動きのあるUI部品集
+  - React UIの操作とモーションの実装例を調べる小さな部品集。
 
 ### リンク（素材・アイコン・3D）（18）
 
@@ -502,45 +543,6 @@
   - ホバー・クリック・ループのフィードバックをUIへ組み込むアイコン素材。
 - **[背景ガチャ（九龍城砦セット＋パース補助線）](links/link-asset/tools.oyasumi-gamedev.com-haikeigacha.md)** ⚑  free / おやすみゲーム開発部（MIYADAIKU）
   - 漫画・イラストの背景を、ブラウザ上で部品を組み合わせて作る無料ツール。3Dモデリングなしで、部屋・建物・街並みのラフを作る。
-
-### リンク（作例・インスピレーション）（18）
-
-- **[BestAIBuilder](links/link-inspiration/bestaibuilder-website.md)**  free / BestAIBuilder
-  - AI サイトビルダーを横並びで比較するためのランキングサイト。「同じブリーフで全ツールにサイトを作らせ、craft / speed / control / value で採点した」という前提を掲げ、101ツールを順位付けしている。
-- **[Claude Code に Blender のシーンをコードで書かせて voxel キャラを踊らせる手順（投稿）](links/link-inspiration/x.com-claude-code-blender-voxel.md)** ⚑  free / @Y0urDumble (Dumble)
-  - AI インフルエンサー生成で問題になる「顔のドリフト」を、3D モデル（ファイルとして固定される資産）に置き換えて回避する。投稿者は、Blender の UI を一切開かず、Claude Code に Python を書かせて headless 実行させ、voxel キャラのモデリング→リグ→ダンスまで通したと主張して
-- **[Design Details — Webデザイン参考ライブラリ](links/link-inspiration/designdetails.io.md)** ⚑  Design Details — Webデザイン参考ライブラリ
-  - 実在サイトの全体構成・動き・フォント・配色をまとめて調べる。
-- **[Design Spells](links/link-inspiration/designspells.com.md)** ⚑  Design Spells
-  - 製品にある小さな遊び心・イースターエッグ・動きの事例集。
-- **[Detail — UIの小さな設計判断集](links/link-inspiration/detail.design.md)** ⚑  Detail — UIの小さな設計判断集
-  - UIの細部を設計・操作・動き・文章・アクセシビリティの観点から調べる。
-- **[Greg1（@greg13e）— 実在の群集映像にAIキャラを1体だけ合成するTikTokアカウント](links/link-inspiration/tiktok.com-greg1-greg13e-ai-1-tiktok.md)** ⚑  free / TikTok @greg13e（紹介したX投稿は @Y0urDumble）
-  - 実在の場所・実在の群集が写る映像に、AIで作ったキャラクターを1体だけ合成し、その場に居合わせたように見せるショート動画フォーマットの実例。生成モデルの手順書ではなく、完成して回っている運用アカウントを観察するための参照先として使う。
-- **[Inspora](links/link-inspiration/inspora-design.md)**  Inspora
-  - 最近のビジュアルデザイン／クリエイティブワークを厳選して並べる作例アーカイブ。Web、ブランディング、プロダクト、モーション、イラスト、3D、印刷までを1つのブラウズ形式で扱う。
-- **[Land-book](links/link-inspiration/https-land-book.com.md)** ⚑  @abir35627
-  - ランディングページの視覚的な参考例を探すデザインギャラリーLand-book。
-- **[Landdding](links/link-inspiration/landdding-com.md)** ⚑  Landdding
-  - ランディングページの作例を毎日／毎週キュレーションするギャラリー。デザインの参考を探す用途。
-- **[Launch Videos Gallery](links/link-inspiration/launchvideos-gallery.md)**  free / Launch Videos Gallery
-  - X 上で共有されたプロダクトローンチ動画を日次で集めた作例ギャラリー。ローンチ動画の構成や演出を参考にするためのもの。
-- **[Mosquito Man — 段ボールとアルミホイルの即席マスクで撮った14秒一発撮り動画（@Bober_smart が紹介）](links/link-inspiration/x.com-mosquito-man-14-bober_smart.md)** ⚑  free / @Bober_smart（紹介者。映像の原作者は投稿に記載なし）
-  - AI生成を使わず、家庭にある素材だけで作った「異形の見た目」で短尺動画の冒頭0.5秒を止める、という発想の参照例。@Bober_smart が2026-10-22に「ドイツの23歳が24時間で6M再生、費用$0、これはAIではなく実在の人物」と紹介して拡散した。
-- **[Opus Edit Machine](links/link-inspiration/opus-edit-machine.vercel.app-opus-edit-machine.md)** ⚑  free / Dumble (@Y0urDumble)
-  - 「40分の生素材が58秒の縦動画になるまで」を、8つの工程（station）に分解して体感するためのブラウザ教材。実際に動画を編集するツールではなく、各工程で何を判断しているか・どこを間違えやすいかを3Dデスク上で再現する。制作者は映像編集者・モーションデザイナーで、AI 編集パイプラインの工程分解を示す目的で作られて
-- **[Ripplix](links/link-inspiration/ripplix.com.md)** ⚑  freemium / Ripplix
-  - 実在アプリのUIアニメーションから、動きと再現指示を学ぶ。
-- **[Scrolltide](links/link-inspiration/scrolltide-co.md)**  paid / Scrolltide
-  - スクロールに連動して動く「シネマティックなWebサイト」を作るための、プロンプトとテンプレートのライブラリ。プロンプトをコピーして AI（Claude / Cursor / Codex など）に貼り、サイトを生成させる使い方を想定している。
-- **[Supahero](links/link-inspiration/supahero-io.md)**  free / Supahero
-  - Web サイトのファーストビュー（ヒーローセクション）だけを集めた作例ライブラリ。
-- **[The Internet Designs](links/link-inspiration/theinternetdesigns-com.md)**  free / The Internet Designs
-  - X（Twitter）と Pinterest に投稿された UI デザインを収集・索引化し、デザインの参考として引けるようにする。ポストの「find beautifully designed websites」に対応する。
-- **[recent.design](links/link-inspiration/https-recent.design.md)** ⚑  @abir35627
-  - Web・ブランド・モーション・印刷の作例と求人を掲載するrecent.design。
-- **[uilabs — 動きのあるUI部品集](links/link-inspiration/uilabs.dev.md)** ⚑  uilabs — 動きのあるUI部品集
-  - React UIの操作とモーションの実装例を調べる小さな部品集。
 
 ### リンク（サービス・ツール）（16）
 
@@ -1185,6 +1187,7 @@
 - [背景ガチャ（九龍城砦セット＋パース補助線）](links/link-asset/tools.oyasumi-gamedev.com-haikeigacha.md) — unverified / AIツールではなく、家具900以上をプログラムで組み合わせる手続き型の背景ジェネレータ（公式の仕組み解説に明記）。開発時のAI利用はClaude Codeのみ。部屋150種類以上に住宅・学校・洋館・中世の城・教会・九龍城砦のセットを追加。パース補助線は書き出しの『下絵（なぞる用）』でアイレベル線・パース補助線・消失点を別レイヤーに分離し、PSDはパースフォルダ内の各レイヤー、SVGは別ファイル、vp.txtに座標を出力する。ブラウザ完結・外部送信なし。β版で、版が上がると同seedでも部屋の作りが変わり得る。書き出し品質・PSDレイヤー構成は未確認（ブラウザツールのため実行検証は未実施）。
 - [Claude Code に Blender のシーンをコードで書かせて voxel キャラを踊らせる手順（投稿）](links/link-inspiration/x.com-claude-code-blender-voxel.md) — unverified / 投稿内の `blender -b -P https://t.co/ueDlwhvcq2` のリンク先 scene.py は DNS 解決不可（HTTP 000、Wayback スナップショットも 0 件）で、投稿が想定したスクリプト／記事の実体を確認できない。X の引用元は Article 2109318233866006528 でログイン必須のため本文未取得。「Opus 5.5 が無料で1000倍良い」は投稿者の主張で、比較測定は無い。動画は 3D ビューポートそのものではなく UI オーバーレイ付きの演出済みデモ（ログ表示は擬似 UI）であり、719 voxels / 12 joints / 16 秒 / 120bpm は投稿者と動画の自己申告値。実際の再現には Blender 5.2 系と Claude Code、上記2スキルが必要。
 - [Claude Duetのロゴを紹介した投稿](articles/2026-10-22-jarvis11x-claude-duet.md) — unverified / 画像の制作元と転載許諾は未確認。Anthropicの商標利用条件を参照。
+- [Cravely](links/link-inspiration/gdgoau-food.vercel.app-cravely.md) — unverified / 決済・追跡は模擬。生成工程は自己申告。
 - [Design Details — Webデザイン参考ライブラリ](links/link-inspiration/designdetails.io.md) — unverified / 投稿の業界17分類という件数は今回は全分類を数えていない。AIへの参考利用と元サイトの素材・ブランドの複製許可は別。 当方では導入・生成・操作の実行検証をしていない。
 - [Design Spells](links/link-inspiration/designspells.com.md) — unverified / 通番は今回確認した表示であり、全件の重複排除済み件数ではない。収録製品の映像やUIを自由転載できる意味ではない。 当方では導入・生成・操作の実行検証をしていない。
 - [Detail — UIの小さな設計判断集](links/link-inspiration/detail.design.md) — unverified / 見た目だけでなく操作性・アクセシビリティの参考資料。公開閲覧可能であることは無条件の転載許諾を意味しない。 当方では導入・生成・操作の実行検証をしていない。
