@@ -1,5 +1,5 @@
 {
-  "count": 587,
+  "count": 588,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -5392,6 +5392,25 @@
       "risk_notes": "PC等の1/2以内・上限10万円は原チェック時の公式確認。誰でも単体PCを先に買えば補助される制度ではなく、現行公募要領と対象者を確認する。 当方でインストール・推論・生成・ベンチ再現はしていない。",
       "published": "2026-08-17",
       "path": "articles/2026-11-09-https-x.com-makeai_ceo-status-2089261252120051821.md"
+    },
+    {
+      "name": "ローカルAI推論で速度が次の課題になるという論考",
+      "genre": "article",
+      "url": "https://x.com/bernvadell/status/2105611485439312367",
+      "author": "Bernat Vadell",
+      "published": "2026-10-01",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "速度の例示は実測値ではなく、将来予測。",
+      "type": "article",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/bernvadell/status/2105611485439312367"
+      ],
+      "fetched_at": "2026-11-10T13:02:58+09:00",
+      "path": "articles/2026-10-01-bernat-vadell-ai.md"
     },
     {
       "name": "公開済みサイトのSEO・GEO監査と再測定",
