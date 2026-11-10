@@ -1,5 +1,5 @@
 {
-  "count": 761,
+  "count": 762,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -1835,6 +1835,39 @@
       "type": "repo",
       "path": "entries/3d-motion/camenduru-vrmexmr.md",
       "summary": "**単眼動画から SMPL-X の身体・手・足のモーションを復元**し、VRM / Blender / Unity / Unreal / ヒューマノイドロボット向けに書き出す Docker イメージ。"
+    },
+    {
+      "repo": "VisualxIntelligence/motion-tools-and-skills",
+      "name": "motion-tools-and-skills",
+      "genre": "3d-motion",
+      "url": "https://github.com/VisualxIntelligence/motion-tools-and-skills",
+      "license": "MIT",
+      "stars": 9,
+      "forks": 2,
+      "open_issues": 0,
+      "size_kb": 8319,
+      "language": "JavaScript",
+      "created": "2026-10-06",
+      "updated": "2026-11-04",
+      "archived": false,
+      "commits_30d": 8,
+      "commits_90d": 10,
+      "commit_cadence": "weekly",
+      "last_release": "",
+      "last_release_at": "",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "スキルの動作、レンダリング品質、制作時間の短縮効果、参考動画の再現精度は未検証。個別ツールの対応バージョンと外部サービスの料金も未確認。",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/CryptooGG_/status/2119312343892976064"
+      ],
+      "fetched_at": "2026-11-10T12:08:45Z",
+      "path": "entries/3d-motion/visualxintelligence-motion-tools-and-skills.md",
+      "summary": "Three.js と GSAP、HyperFrames、Remotion などを使う制作スキルや、ソース付きの映像テンプレートを再利用できる。ヘッドレスレンダリングや音と映像の同期確認を補助するツールも収録する。"
     },
     {
       "type": "repo",
