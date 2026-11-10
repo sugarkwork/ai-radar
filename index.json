@@ -1,5 +1,5 @@
 {
-  "count": 693,
+  "count": 694,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -6686,6 +6686,37 @@
       "type": "repo",
       "path": "entries/coding-agent/colbymchenry-codegraph.md",
       "summary": "コードベースを「事前索引化した知識グラフ」にして、MCP サーバー経由でエージェントに渡す。シンボル・呼び出しエッジ・依存関係を1回の問い合わせで返すため、エージェントはファイルを総当たりで読まなくて済む。"
+    },
+    {
+      "repo": "kepano/obsidian-skills",
+      "name": "Obsidian Skills",
+      "genre": "coding-agent",
+      "url": "https://github.com/kepano/obsidian-skills",
+      "flags": [
+        "unverified"
+      ],
+      "stars": 51458,
+      "forks": 3639,
+      "open_issues": 76,
+      "size_kb": 44,
+      "language": "unknown",
+      "created": "2026-01-02",
+      "updated": "2026-09-15",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 0,
+      "commits_90d": 3,
+      "commit_cadence": "monthly",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "risk_notes": "",
+      "sources": [
+        "https://x.com/Bober_smart/status/2117619229465641097"
+      ],
+      "fetched_at": "2026-11-10T10:01:34+00:00",
+      "path": "entries/coding-agent/kepano-obsidian-skills.md",
+      "summary": "Obsidian固有のMarkdown、Bases、JSON Canvasの作成・編集手順をAIに渡せる。Markdownスキルには内部リンク、埋め込み、コールアウト、プロパティの書き方がある。 [Markdownスキル定義](https://github.com/kepano/obsidian-skills/blob"
     },
     {
       "type": "repo",

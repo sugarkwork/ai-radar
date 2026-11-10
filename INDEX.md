@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 693 件 — リポジトリ 389, リンク集 113, 記事 124, モデル 53, プロンプト 14 / ⚑ 要確認 483 件
+収録 694 件 — リポジトリ 390, リンク集 113, 記事 124, モデル 53, プロンプト 14 / ⚑ 要確認 484 件
 
-## リポジトリ（389）
+## リポジトリ（390）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -206,7 +206,7 @@
 | [VRMExMR](entries/3d-motion/camenduru-vrmexmr.md) ⚑ | 15 | 0 | 毎日 | 39 | 2026-11-05 | 2026-11-09 | 2026-11-10 | 未確認（API は NOASSERTION。ExMR 側の条件を確認） |
 | [Lida-V/LidaAngelToon](entries/3d-motion/lida-v-lidaangeltoon.md) ⚑ | 6 | 0 | 週次 | 13 | 2026-10-17 | 2026-11-09 | 2026-11-10 | NOASSERTION |
 
-### コーディングエージェント（34）
+### コーディングエージェント（35）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -218,6 +218,7 @@
 | [Caveman](entries/coding-agent/juliusbrussee-caveman.md) ⚑ | 118,623 | 6,907 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
 | [Agent Skills](entries/coding-agent/addyosmani-agent-skills.md) ⚑ | 114,537 | 11,972 | 毎日 | 100+ | 2026-11-01 | 2026-11-09 | 2026-11-10 | MIT |
 | [CodeGraph](entries/coding-agent/colbymchenry-codegraph.md) | 77,198 | 5,141 | 毎日 | 100+ | 2026-11-01 | 2026-11-09 | 2026-11-10 | MIT |
+| [Obsidian Skills](entries/coding-agent/kepano-obsidian-skills.md) ⚑ | 51,458 | 3,639 | 月次 | 0 | 2026-09-15 | 2026-11-10 | 2026-11-10 | MIT |
 | [herdr](entries/coding-agent/herdrdev-herdr.md) ⚑ | 49,753 | 4,017 | 毎日 | 49 | 2026-11-07 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
 | [Claude Code Game Studios](entries/coding-agent/donchitos-claude-code-game-studios.md) ⚑ | 37,789 | 4,949 | 月次 | 2 | 2026-11-09 | 2026-11-10 | 2026-11-10 | MIT |
 | [claude-code-templates](entries/coding-agent/davila7-claude-code-templates.md) ⚑ | 33,241 | 3,901 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
@@ -1273,6 +1274,7 @@
 - [Orca](entries/coding-agent/stablyai-orca.md) — unverified / ['最新安定版のタグと公開日時は未確認。並列実行時の速度、作業品質、リソース消費、既存契約での利用可否は実機で検証していない。']
 - [Caveman](entries/coding-agent/juliusbrussee-caveman.md) — unverified / 効果数値（入力トークン33.2%減、54%安価、18/18正解、圧縮率など）はリポジトリ自身のベンチマークで自己申告であり、本検証では再実行していない。READMEが引用するAdobe ResearchのarXiv論文とJetBrainsのブログは原典を取得しておらず、第三者検証としては未確認。CLIのインストール・実行も未実施。APIのlicenseはApache-2.0だが、リポジトリにはLICENSE-MITも同梱されており、ファイル単位のライセンス区分は未確認。「Caveman」とロゴは商標。
 - [Agent Skills](entries/coding-agent/addyosmani-agent-skills.md) — unverified / 品質改善の効果はメンテナ自身の trigger/挙動 eval と著者の主張に限られ、独立した第三者ベンチマークは未確認。コードを実行するツールではなく指示文の集合なので、効果はホストのモデルとルーティング精度に依存し、evals/README.md 自身が発火の不安定さ（TDD 系が 6 回中 1 回）を記録している。browser-testing-with-devtools は chrome-devtools MCP と実ブラウザが必須で、--autoConnect ではログイン済みプロファイルに触れるため取り扱いに注意。
+- [Obsidian Skills](entries/coding-agent/kepano-obsidian-skills.md) — unverified / 理由未記入
 - [herdr](entries/coding-agent/herdrdev-herdr.md) — unverified / Apache-2.0。再起動後は保存レイアウトや対応エージェントのセッションを復元できる場合があるが、プロセス継続とは異なる。 実行・品質は未検証。
 - [Claude Code Game Studios](entries/coding-agent/donchitos-claude-code-game-studios.md) — unverified / ブラウザ試作とフックは独立実行していない。作者が報告した比較は3企画に限られ、完成した試作品の評価は同等だった。Godot・Unity・Unreal経路と設計文書による掘り下げは、作者の同等の比較評価が未実施。最新リリースのタグと日時は未確認。Claude Codeの利用料金は未確認。
 - [claude-code-templates](entries/coding-agent/davila7-claude-code-templates.md) — unverified / Turn Inspector の描画は Claude Code 2.1.287+ の実機では未実行で、リポジトリ同梱の README・hooks 実装・テストファイルと作者のデモ動画に基づく確認。インストールコマンド自体（npx claude-code-templates@latest --mod ui/turn-inspector）は空ディレクトリで実行し、6ファイルが配置されることを実測した。ブロック別トークン数は概算（約4文字/トークン）で、正確なのはリクエスト単位の入出力合計のみ。mod は v0.1.0 と新しく、GitHub Releases は v1.29.7（2026-10-09）で npm の 1.32.2（2026-11-07）より遅れている。
