@@ -1,5 +1,5 @@
 {
-  "count": 702,
+  "count": 703,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -6817,6 +6817,37 @@
       "fetched_at": "2026-11-10T09:14:35Z",
       "path": "entries/coding-agent/donchitos-claude-code-game-studios.md",
       "summary": "Claude Codeにゲーム案を渡すと、ジャンルに応じた質問から短い企画書を作り、ブラウザで遊べる試作品の作成へ進む。"
+    },
+    {
+      "repo": "VoltAgent/awesome-agent-skills",
+      "name": "Awesome Agent Skills",
+      "genre": "coding-agent",
+      "url": "https://github.com/VoltAgent/awesome-agent-skills",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "最新リリースの有無・日時、掲載スキル個別の動作・効果・依存関係・利用条件は未確認。READMEの対応表は掲載元による案内で、互換性の独立検証は行っていない。",
+      "stars": 37027,
+      "forks": 4103,
+      "open_issues": 34,
+      "size_kb": 2500,
+      "language": "unknown",
+      "created": "2025-10-28",
+      "updated": "2026-11-05",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 100,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/N01ennn/status/2117681136306393357"
+      ],
+      "fetched_at": "2026-11-10T10:16:45+00:00",
+      "path": "entries/coding-agent/voltagent-awesome-agent-skills.md",
+      "summary": "開発チームやコミュニティが公開するスキルを探せる。READMEには、例えばフロントエンド設計や生成アートのスキルが掲載されている。"
     },
     {
       "repo": "davila7/claude-code-templates",
