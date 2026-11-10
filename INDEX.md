@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 748 件 — リポジトリ 437, リンク集 113, 記事 131, モデル 53, プロンプト 14 / ⚑ 要確認 538 件
+収録 749 件 — リポジトリ 438, リンク集 113, 記事 131, モデル 53, プロンプト 14 / ⚑ 要確認 539 件
 
-## リポジトリ（437）
+## リポジトリ（438）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -267,7 +267,7 @@
 | [quicksilver](entries/coding-agent/uditakhourii-quicksilver.md) ⚑ | 142 | 11 | 停滞 | 0 | 2026-09-25 | 2026-11-09 | 2026-11-10 | MIT |
 | [GDG Agent Skillsの実演教材](entries/coding-agent/gdg-oau-agent-skills-gdg.md) ⚑ | 1 | 0 | 週次 | 13 | 2026-11-07 | 2026-11-10 | 2026-11-10 | unknown |
 
-### その他（45）
+### その他（46）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -288,6 +288,7 @@
 | [Karakeep](entries/other/karakeep-app-karakeep.md) ⚑ | 30,436 | 1,630 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | AGPL-3.0 |
 | [Actual Budget](entries/other/actualbudget-actual.md) ⚑ | 30,135 | 3,272 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | MIT |
 | [Claude Code Skills & Plugins](entries/other/alirezarezvani-claude-skills.md) ⚑ | 29,573 | 4,095 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | MIT |
+| [Neural Networks: Zero to Hero](entries/other/karpathy-nn-zero-to-hero.md) ⚑ | 25,433 | 3,697 | 停滞 | 0 | 2024-08-18 | 2026-11-10 | 2026-11-10 | MIT |
 | [ego lite](entries/other/citrolabs-ego-lite.md) ⚑ | 22,387 | 1,269 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | MIT |
 | [ai-goofish-monitor](entries/other/usagi-org-ai-goofish-monitor.md) ⚑ | 19,101 | 3,116 | 月次 | 0 | 2026-10-10 | 2026-11-10 | 2026-11-10 | MIT |
 | [micrograd](entries/other/karpathy-micrograd.md) ⚑ | 18,805 | 2,993 | 停滞 | 0 | 2026-08-03 | 2026-11-10 | 2026-11-10 | MIT |
@@ -1531,6 +1532,7 @@
 - [Karakeep](entries/other/karakeep-app-karakeep.md) — unverified / リリースの公開日時は未確定。タグ付け・要約の精度、検索品質、処理時間、MCP 接続の実動作は未測定。発見投稿の Grok Bot との連携は未確認。
 - [Actual Budget](entries/other/actualbudget-actual.md) — unverified / 定期支出の検出精度、発見投稿のiPhone向けGrok Botの構成と節約額、独自のAI連携手順の動作は未検証。GitHubのリリース表示と公式ノートの日付が異なるため、公開日時は記載していない。
 - [Claude Code Skills & Plugins](entries/other/alirezarezvani-claude-skills.md) — unverified / メンテナーの検証はClaude Codeでのスキル読み込みを対象とする。生成物の品質や作業時間への効果、CodexやCursorでの挙動、個別スクリプトの実行条件は独立に検証していない。
+- [Neural Networks: Zero to Hero](entries/other/karpathy-nn-zero-to-hero.md) — unverified / 最新リリースのタグと公開日は未確認。ノートブックは実行しておらず、依存ライブラリの対応バージョン、必要な計算資源、学習成果は独立検証していない。外部サービスの利用条件や料金は未確認。
 - [ego lite](entries/other/citrolabs-ego-lite.md) — unverified / 公式リリース一覧ではv2.1.0がLatestと表示された。最新リリースへの直接アクセスはタイムアウトし、公開日時は未確認。作者ベンチマークの再現性、ブラウザデータの取り扱い、Spaces間の分離の実効性は未検証。
 - [ai-goofish-monitor](entries/other/usagi-org-ai-goofish-monitor.md) — unverified / 判定精度、通知遅延、現行の闲鱼環境での動作、モデルAPIの実利用料金、最新リリースの公開日時は未確認。プラットフォームの利用条件への適合性は利用形態に依存する。
 - [micrograd](entries/other/karpathy-micrograd.md) — unverified / 勾配の一致、分類デモの再現性、実行性能、Python バージョンごとの動作は独立実測していない。GitHub の公開 Releases 一覧にはリリースが表示されていないため、最新リリースの版と日時は未記載。

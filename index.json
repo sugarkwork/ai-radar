@@ -1,5 +1,5 @@
 {
-  "count": 748,
+  "count": 749,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -14636,6 +14636,37 @@
       "fetched_at": "2026-11-10T11:47:50+00:00",
       "path": "entries/other/alirezarezvani-claude-skills.md",
       "summary": "コードレビュー、テスト設計、プロダクト企画などの作業手順を、対応するエージェントで再利用できる。"
+    },
+    {
+      "repo": "karpathy/nn-zero-to-hero",
+      "name": "Neural Networks: Zero to Hero",
+      "genre": "other",
+      "url": "https://github.com/karpathy/nn-zero-to-hero",
+      "stars": 25433,
+      "forks": 3697,
+      "open_issues": 54,
+      "size_kb": 50,
+      "language": "Jupyter Notebook",
+      "created": "2022-09-08",
+      "updated": "2024-08-18",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 0,
+      "commits_90d": 0,
+      "commit_cadence": "stale",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "最新リリースのタグと公開日は未確認。ノートブックは実行しておらず、依存ライブラリの対応バージョン、必要な計算資源、学習成果は独立検証していない。外部サービスの利用条件や料金は未確認。",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/thegreatest_sv/status/2115051970251628961"
+      ],
+      "fetched_at": "2026-11-10T11:50:44+00:00",
+      "path": "entries/other/karpathy-nn-zero-to-hero.md",
+      "summary": "microgradで誤差逆伝播を追い、makemoreで文字単位のbigramモデルと多層パーセプトロンを実装する。後続の講義はGPTとBPEトークナイザーを扱う。GPT回の補助資料は動画説明欄からたどる。"
     },
     {
       "repo": "citrolabs/ego-lite",
