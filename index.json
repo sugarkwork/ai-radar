@@ -1,5 +1,5 @@
 {
-  "count": 729,
+  "count": 730,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -7113,6 +7113,38 @@
       "fetched_at": "2026-11-10T10:16:45+00:00",
       "path": "entries/coding-agent/voltagent-awesome-agent-skills.md",
       "summary": "開発チームやコミュニティが公開するスキルを探せる。READMEには、例えばフロントエンド設計や生成アートのスキルが掲載されている。"
+    },
+    {
+      "repo": "vercel-labs/agent-skills",
+      "name": "Vercel Agent Skills",
+      "genre": "coding-agent",
+      "url": "https://github.com/vercel-labs/agent-skills",
+      "stars": 33817,
+      "forks": 2956,
+      "open_issues": 196,
+      "size_kb": 11754,
+      "language": "JavaScript",
+      "created": "2025-12-08",
+      "updated": "2026-10-28",
+      "archived": false,
+      "license": "unknown",
+      "commits_30d": 5,
+      "commits_90d": 23,
+      "commit_cadence": "weekly",
+      "last_release": "agent-skills-1a2c79d4e6c4a2283dc2c614b6538cbe1ed5ca62",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "レビュー精度や適用前後の性能差は未実測。GitHubのLatestページでタグは確認したが、年とタイムゾーンを含む公開日時は確認できなかった。READMEはMITと記載しているが、APIの測定値はunknown。エージェント側の料金と導入の実動作は未確認。 GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/thegreatest_sv/status/2117998992126591399"
+      ],
+      "fetched_at": "2026-11-10T11:21:32+00:00",
+      "path": "entries/coding-agent/vercel-labs-agent-skills.md",
+      "summary": "React・Next.jsのコードを、データ取得の直列化、バンドルサイズ、再レンダリングなどの観点からレビューする。Web UIではキーボード操作やフォーカス表示、フォームなどを確認できる。 [公式README](https://github.com/vercel-labs/agent-skills/blob/main"
     },
     {
       "repo": "davila7/claude-code-templates",

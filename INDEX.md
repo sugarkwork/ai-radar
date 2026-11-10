@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 729 件 — リポジトリ 419, リンク集 113, 記事 130, モデル 53, プロンプト 14 / ⚑ 要確認 519 件
+収録 730 件 — リポジトリ 420, リンク集 113, 記事 130, モデル 53, プロンプト 14 / ⚑ 要確認 520 件
 
-## リポジトリ（419）
+## リポジトリ（420）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -213,7 +213,7 @@
 | [VRMExMR](entries/3d-motion/camenduru-vrmexmr.md) ⚑ | 15 | 0 | 毎日 | 39 | 2026-11-05 | 2026-11-09 | 2026-11-10 | 未確認（API は NOASSERTION。ExMR 側の条件を確認） |
 | [Lida-V/LidaAngelToon](entries/3d-motion/lida-v-lidaangeltoon.md) ⚑ | 6 | 0 | 週次 | 13 | 2026-10-17 | 2026-11-09 | 2026-11-10 | NOASSERTION |
 
-### コーディングエージェント（41）
+### コーディングエージェント（42）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -230,6 +230,7 @@
 | [wshobson/agents](entries/coding-agent/wshobson-agents.md) ⚑ | 42,378 | 4,476 | 毎日 | 34 | 2026-11-09 | 2026-11-10 | 2026-11-10 | MIT |
 | [Claude Code Game Studios](entries/coding-agent/donchitos-claude-code-game-studios.md) ⚑ | 37,789 | 4,949 | 月次 | 2 | 2026-11-09 | 2026-11-10 | 2026-11-10 | MIT |
 | [Awesome Agent Skills](entries/coding-agent/voltagent-awesome-agent-skills.md) ⚑ | 37,027 | 4,103 | 毎日 | 100+ | 2026-11-05 | 2026-11-10 | 2026-11-10 | MIT |
+| [Vercel Agent Skills](entries/coding-agent/vercel-labs-agent-skills.md) ⚑ | 33,817 | 2,956 | 週次 | 5 | 2026-10-28 | 2026-11-10 | 2026-11-10 | unknown |
 | [claude-code-templates](entries/coding-agent/davila7-claude-code-templates.md) ⚑ | 33,241 | 3,901 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
 | [AGENTS.md](entries/coding-agent/agentsmd-agents.md.md) ⚑ | 25,417 | 1,950 | 月次 | 0 | 2026-09-10 | 2026-11-10 | 2026-11-10 | MIT |
 | [Craft Anything](entries/coding-agent/storytold-craft-anything.md) | 24,308 | 4,863 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
@@ -1330,6 +1331,7 @@
 - [wshobson/agents](entries/coding-agent/wshobson-agents.md) — unverified / 最新リリース、導入後の動作、ホスト間の機能差、トークン削減量や生成品質への効果は未確認。MITはリポジトリのライセンスで、外部配布項目やホストの利用条件・料金は未確認。90日コミット数は100件以上を示す。
 - [Claude Code Game Studios](entries/coding-agent/donchitos-claude-code-game-studios.md) — unverified / ブラウザ試作とフックは独立実行していない。作者が報告した比較は3企画に限られ、完成した試作品の評価は同等だった。Godot・Unity・Unreal経路と設計文書による掘り下げは、作者の同等の比較評価が未実施。最新リリースのタグと日時は未確認。Claude Codeの利用料金は未確認。
 - [Awesome Agent Skills](entries/coding-agent/voltagent-awesome-agent-skills.md) — unverified / 最新リリースの有無・日時、掲載スキル個別の動作・効果・依存関係・利用条件は未確認。READMEの対応表は掲載元による案内で、互換性の独立検証は行っていない。
+- [Vercel Agent Skills](entries/coding-agent/vercel-labs-agent-skills.md) — unverified / レビュー精度や適用前後の性能差は未実測。GitHubのLatestページでタグは確認したが、年とタイムゾーンを含む公開日時は確認できなかった。READMEはMITと記載しているが、APIの測定値はunknown。エージェント側の料金と導入の実動作は未確認。 GitHub APIでライセンスを確認できていません。
 - [claude-code-templates](entries/coding-agent/davila7-claude-code-templates.md) — unverified / Turn Inspector の描画は Claude Code 2.1.287+ の実機では未実行で、リポジトリ同梱の README・hooks 実装・テストファイルと作者のデモ動画に基づく確認。インストールコマンド自体（npx claude-code-templates@latest --mod ui/turn-inspector）は空ディレクトリで実行し、6ファイルが配置されることを実測した。ブロック別トークン数は概算（約4文字/トークン）で、正確なのはリクエスト単位の入出力合計のみ。mod は v0.1.0 と新しく、GitHub Releases は v1.29.7（2026-10-09）で npm の 1.32.2（2026-11-07）より遅れている。
 - [AGENTS.md](entries/coding-agent/agentsmd-agents.md.md) — unverified / 最新リリースのタグと公開日は未確認。エージェントごとの対応バージョン、指示の読み込み順、コマンドの実行挙動は実機で検証していない。効果は引用した研究の評価条件に限られる。
 - [meta/astryx](entries/coding-agent/meta-astryx.md) — unverified / Beta版。社内13000以上のアプリ使用という説明は配布元の申告で、公開APIの安定性や実機アクセシビリティを本調査で検証していない。 当方でインストール・推論・生成・ベンチ再現はしていない。
