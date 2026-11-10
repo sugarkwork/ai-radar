@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 690 件 — リポジトリ 386, リンク集 113, 記事 124, モデル 53, プロンプト 14 / ⚑ 要確認 480 件
+収録 691 件 — リポジトリ 387, リンク集 113, 記事 124, モデル 53, プロンプト 14 / ⚑ 要確認 481 件
 
-## リポジトリ（386）
+## リポジトリ（387）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -245,7 +245,7 @@
 | [quicksilver](entries/coding-agent/uditakhourii-quicksilver.md) ⚑ | 142 | 11 | 停滞 | 0 | 2026-09-25 | 2026-11-09 | 2026-11-10 | MIT |
 | [GDG Agent Skillsの実演教材](entries/coding-agent/gdg-oau-agent-skills-gdg.md) ⚑ | 1 | 0 | 週次 | 13 | 2026-11-07 | 2026-11-10 | 2026-11-10 | unknown |
 
-### 音声・TTS（30）
+### 音声・TTS（31）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -260,6 +260,7 @@
 | [Chatterbox](entries/tts-audio/resemble-ai-chatterbox.md) ⚑ | 27,726 | 3,730 | 月次 | 1 | 2026-11-04 | 2026-11-10 | 2026-11-10 | MIT |
 | [faster-whisper](entries/tts-audio/systran-faster-whisper.md) ⚑ | 26,637 | 2,228 | 週次 | 6 | 2026-11-06 | 2026-11-10 | 2026-11-10 | MIT |
 | [WhisperX](entries/tts-audio/m-bain-whisperx.md) ⚑ | 25,190 | 2,543 | 週次 | 6 | 2026-10-22 | 2026-11-10 | 2026-11-10 | BSD-2-Clause |
+| [CosyVoice](entries/tts-audio/qwenaudio-cosyvoice.md) ⚑ | 24,353 | 2,777 | 停滞 | 0 | 2026-05-25 | 2026-11-10 | 2026-11-10 | Apache-2.0 |
 | [AudioCraft / MusicGen](entries/tts-audio/facebookresearch-audiocraft.md) | 23,835 | 2,713 | 停滞 | 0 | 2026-03-03 | 2026-11-09 | 2026-11-10 | MIT |
 | [OmniVoice](entries/tts-audio/k2-fsa-omnivoice.md) | 16,433 | 2,410 | 停滞 | 0 | 2026-11-02 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
 | [ACE-Step 1.5](entries/tts-audio/ace-step-ace-step-1-5.md) | 14,573 | 1,937 | 月次 | 0 | 2026-11-08 | 2026-11-09 | 2026-11-10 | MIT |
@@ -1492,6 +1493,7 @@
 - [Chatterbox](entries/tts-audio/resemble-ai-chatterbox.md) — unverified / 公開元が案内する聴取評価の詳細と結果、生成速度、必要VRAM、透かしの検出性能は未検証。GitHubリリースの公開日は未確認。音声参照素材の利用許諾は個別に確認が必要。
 - [faster-whisper](entries/tts-audio/systran-faster-whisper.md) — unverified / ['最新リリースのタグは確認済み。公開日の年とタイムゾーンを含む公開日時は未確認。', '性能値は開発元のベンチマーク。今回の精査では実行せず、別の音源や環境での処理速度・認識精度は未検証。']
 - [WhisperX](entries/tts-audio/m-bain-whisperx.md) — unverified / 最新版のタグと公開日時、対象音声での速度・単語境界の精度、投稿で紹介された動画制作工程との統合は未確認。
+- [CosyVoice](entries/tts-audio/qwenaudio-cosyvoice.md) — unverified / GitHubの最新リリースタグと公開日時、ローカルでの推論・APIの動作、必要VRAMと実行速度、日本語の合成品質は未確認。掲載の評価値は開発元の報告。
 - [multimodal-art-projection/YuE](entries/tts-audio/multimodal-art-projection-yue.md) — unverified / コードのApache-2.0をYuE2重みへ適用しない。YuE2重みはCC BY-NC4.0。世代違いの要件・評価を混入しない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [edge-tts](entries/tts-audio/rany2-edge-tts.md) — unverified / 音声合成は実行しておらず、現時点での接続可否、音声品質、字幕の同期精度と単語単位での出力条件は未検証。サービスの料金・利用上限・生成音声の商用利用条件、最新リリースの公開年を含む正確な日時は未確認。 GitHub APIでライセンスを確認できていません。
 - [umlx5h/LLPlayer](entries/tts-audio/umlx5h-llplayer.md) — unverified / Beta版で設定互換性が変わる可能性。ASR/OCRはローカルだが翻訳はエンジンによってクラウド送信・API費用が生じる。 当方でインストール・推論・生成・ベンチ再現はしていない。

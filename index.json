@@ -1,5 +1,5 @@
 {
-  "count": 690,
+  "count": 691,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -16567,6 +16567,37 @@
       "fetched_at": "2026-11-10T08:17:21+00:00",
       "path": "entries/tts-audio/m-bain-whisperx.md",
       "summary": "音声を文字起こしし、単語単位のタイムスタンプを取得する。CLIはSRTやJSONを出力でき、単語を強調するSRTも生成できる。"
+    },
+    {
+      "repo": "QwenAudio/CosyVoice",
+      "name": "CosyVoice",
+      "genre": "tts-audio",
+      "url": "https://github.com/QwenAudio/CosyVoice",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "GitHubの最新リリースタグと公開日時、ローカルでの推論・APIの動作、必要VRAMと実行速度、日本語の合成品質は未確認。掲載の評価値は開発元の報告。",
+      "stars": 24353,
+      "forks": 2777,
+      "open_issues": 640,
+      "size_kb": 2797,
+      "language": "Python",
+      "created": "2024-07-03",
+      "updated": "2026-05-25",
+      "archived": false,
+      "license": "Apache-2.0",
+      "commits_30d": 0,
+      "commits_90d": 0,
+      "commit_cadence": "stale",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/okapi_fukugyo/status/2117616982518559161"
+      ],
+      "fetched_at": "2026-11-10T09:57:09+00:00",
+      "path": "entries/tts-audio/qwenaudio-cosyvoice.md",
+      "summary": "Fun-CosyVoice 3.0は日本語、英語、中国語など9言語のテキストを音声化できる。利用許諾のある参照音声を使った言語横断のゼロショット音声合成にも対応する。"
     },
     {
       "repo": "facebookresearch/audiocraft",
