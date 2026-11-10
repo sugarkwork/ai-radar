@@ -1,5 +1,5 @@
 {
-  "count": 679,
+  "count": 680,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -12938,6 +12938,37 @@
       "fetched_at": "2026-11-10T09:31:04Z",
       "path": "entries/other/ffmpeg-ffmpeg.md",
       "summary": "ffmpegで映像・音声の変換やストリームの抽出を行い、ffprobeで出力の形式やストリームを検査できる。"
+    },
+    {
+      "repo": "skylot/jadx",
+      "name": "JADX",
+      "genre": "other",
+      "url": "https://github.com/skylot/jadx",
+      "license": "Apache-2.0",
+      "stars": 51735,
+      "language": "Java",
+      "created": "2013-03-18",
+      "updated": "2026-11-08",
+      "forks": 5928,
+      "open_issues": 469,
+      "commits_30d": 28,
+      "commit_cadence": "daily",
+      "commits_90d": 66,
+      "size_kb": 26440,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "最新版のタグと公開日時は未確認。READMEの機能記載を確認した範囲で、逆コンパイルの精度、実行環境ごとの動作、AIによる要約の品質は実測していない。READMEは逆コンパイル時にエラーが生じうると明記している。",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/RealMarvelX/status/2117596018908774636"
+      ],
+      "fetched_at": "2026-11-10T09:49:38+00:00",
+      "path": "entries/other/skylot-jadx.md",
+      "summary": "APK、DEX、AABなどのDalvikバイトコードをJavaコードに逆コンパイルし、AndroidManifest.xmlやアプリのリソースをデコードする。GUIでは宣言への移動、参照箇所の検索、全文検索ができる。"
     },
     {
       "repo": "duckdb/duckdb",
