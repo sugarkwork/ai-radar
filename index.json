@@ -1,5 +1,5 @@
 {
-  "count": 687,
+  "count": 688,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -580,6 +580,40 @@
       "type": "repo",
       "path": "entries/3d-motion/vast-ai-research-unirig.md",
       "summary": "**任意の3Dメッシュに骨格とスキニングウェイトを自動で付ける**（SIGGRAPH 2025 / TOG）。人型・動物・手足の無い奇妙な形状も、1つのモデルで扱う。"
+    },
+    {
+      "repo": "gkjohnson/three-gpu-pathtracer",
+      "name": "three-gpu-pathtracer",
+      "genre": "3d-motion",
+      "url": "https://github.com/gkjohnson/three-gpu-pathtracer",
+      "license": "MIT",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": [
+        "GitHub の最新リリースは未確認。依存関係と導入手順は main ブランチの公開資料に基づく。",
+        "描画速度、収束時間、画質、端末別の互換性、特定のAIモデルとの連携は実測していない。"
+      ],
+      "stars": 2037,
+      "forks": 200,
+      "open_issues": 58,
+      "size_kb": 955374,
+      "language": "JavaScript",
+      "created": "2021-11-03",
+      "updated": "2026-11-10",
+      "archived": false,
+      "commits_30d": 100,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/okapi_fukugyo/status/2117616982518559161"
+      ],
+      "fetched_at": "2026-11-10T09:55:26+00:00",
+      "path": "entries/3d-motion/gkjohnson-three-gpu-pathtracer.md",
+      "summary": "既存の Three.js シーンとカメラを使い、物理ベースの材質、面光源、被写界深度を含むシーンを描画できる。"
     },
     {
       "repo": "achimala/dream-loop",
