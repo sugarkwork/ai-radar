@@ -1,5 +1,5 @@
 {
-  "count": 650,
+  "count": 651,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -15626,6 +15626,38 @@
       "last_release_at": "2026-09-09",
       "path": "entries/tts-audio/multimodal-art-projection-yue.md",
       "summary": "YuE/YuE2の歌詞付き音楽生成に関連する公式コード。YuE2重みとは別の配布対象。"
+    },
+    {
+      "repo": "rany2/edge-tts",
+      "name": "edge-tts",
+      "genre": "tts-audio",
+      "url": "https://github.com/rany2/edge-tts",
+      "last_release": "7.3.1",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "音声合成は実行しておらず、現時点での接続可否、音声品質、字幕の同期精度と単語単位での出力条件は未検証。サービスの料金・利用上限・生成音声の商用利用条件、最新リリースの公開年を含む正確な日時は未確認。 GitHub APIでライセンスを確認できていません。",
+      "stars": 12499,
+      "forks": 1179,
+      "open_issues": 9,
+      "size_kb": 2197,
+      "language": "Python",
+      "created": "2021-05-10",
+      "updated": "2026-10-14",
+      "archived": false,
+      "license": "unknown",
+      "commits_30d": 8,
+      "commits_90d": 8,
+      "commit_cadence": "weekly",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/Y0urDumble/status/2117396633889427646"
+      ],
+      "fetched_at": "2026-11-10T08:50:46+00:00",
+      "path": "entries/tts-audio/rany2-edge-tts.md",
+      "summary": "テキストからMP3音声とタイムコード付きSRT字幕を生成する。音声の種類、読み上げ速度、音量、ピッチを指定できる。"
     },
     {
       "repo": "facebookresearch/demucs",
