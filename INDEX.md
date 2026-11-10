@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 604 件 — リポジトリ 331, リンク集 112, 記事 94, モデル 53, プロンプト 14 / ⚑ 要確認 396 件
+収録 605 件 — リポジトリ 331, リンク集 113, 記事 94, モデル 53, プロンプト 14 / ⚑ 要確認 397 件
 
 ## リポジトリ（331）
 
@@ -466,7 +466,7 @@
 - **[MiniMax H3：20種のダンスと音楽指定](prompts/video-gen/minimax-h3-20-dance-music.md)** ⚑  MiniMax H3 / EndFolding79421
   - キャラクターシートを参照し、6秒間の全身ダンスと音楽・環境音を指示するための投稿者のテンプレート。ダンス20種類の音楽指定例を含む。
 
-## リンク集（112）
+## リンク集（113）
 
 ### リンク（作例・インスピレーション）（19）
 
@@ -509,6 +509,47 @@
 - **[uilabs — 動きのあるUI部品集](links/link-inspiration/uilabs.dev.md)** ⚑  uilabs — 動きのあるUI部品集
   - React UIの操作とモーションの実装例を調べる小さな部品集。
 
+### リンク（サービス・ツール）（19）
+
+- **[Aura](links/link-service/aura.build-aura.md)** ⚑  freemium / DESIGNCODE IO PTE. LTD.（Meng To / DesignCode）
+  - テキストプロンプトからランディングページやマルチページのウェブサイトを生成し、ブラウザ上で視覚編集して公開・書き出しまで完結させるサービス。公式は「AI landing page builder that creates stunning designs in seconds」と説明している。
+- **[Banani](links/link-service/banani-co.md)**  freemium / Banani
+  - テキストから UI を生成する AI デザインツール。プロンプトを「編集可能な UI デザイン」に変えることを狙う。ポストの説明（turn prompts into editable UI designs）と一致する。
+- **[Browserbase公式ドキュメント索引](links/link-service/docs.browserbase.com-browserbase.md)**  free / Browserbase
+  - Browserbaseの公開技術資料を探す。
+- **[Claude Duet](links/link-service/claude.com-claude-duet.md)**  paid / Anthropic
+  - 業務上対応が必要な項目の通知と、依頼作業のバックグラウンド処理。
+- **[CompShare（優云智算）](links/link-service/compshare.cn-compshare.md)** ⚑  paid / UCloud（优刻得科技）
+  - UCloud（优刻得）系の GPU クラウド。AI の学習・推論・画像生成用に GPU インスタンスを時間・日・月単位で借りる。
+- **[Grok Bot](links/link-service/docs.x.ai-grok-bot.md)** ⚑  paid / xAI
+  - xAI の常駐型 AI チーム。名前を付けた Bot がクラウド上の実コンピュータ（ブラウザ・ファイルシステム・ターミナル）を共有し、指示した仕事を継続して実行する。
+- **[Grok Bot Marketplace](links/link-service/x.ai-grok-bot-marketplace.md)** ⚑  paid / xAI
+  - xAI（Grok）の公式ボットマーケットプレイス。特定の仕事向けに設定済みの「Grok Bot」を探し、自分のアカウントに追加して業務を任せるためのリンク。
+- **[Intel GPU D270](links/link-service/intel.com-intel-gpu-d270.md)** ⚑  Intel
+  - データセンター向けAI推論GPUの仕様を参照する。
+- **[Jasper](links/link-service/https-www.jasper.ai.md)** ⚑  @hey_Jessicaai
+  - 文章作成・マーケティング支援サービスとして一覧に記載されたJasper。
+- **[Jev（TypeSafe AI）](links/link-service/typesafe.ai-jev-typesafe-ai.md)** ⚑  paid / TypeSafe AI
+  - 高性能LLMにバックログ全体を投げる前に、「些細・定型・難しい」の判断だけを安く速く済ませ、難しい案件だけをLLMに渡すための判断レイヤー。
+- **[Mako UI](links/link-service/mako-engine-mako-ui.md)** ⚑  paid
+  - HTML・CSS・JavaScriptでゲーム内UIを制作するミドルウェア。
+- **[NaN](links/link-service/nan.builders-nan.md)** ⚑  paid / NaN
+  - 共有GPUでオープンモデルの推論を利用する。
+- **[Paper Animation](links/link-service/paperanimation-ai.md)**  freemium / Paper Animation
+  - 画像1枚から紙風のアニメーションクリップを作る Web ツール。ショート動画のフック用素材（新聞の切り抜き風、紙の折り畳み等）を短時間で作ることを狙う。投稿の説明（paper-style animations）と一致する。
+- **[ScaleDown](links/link-service/scaledown-ai.md)**  paid / ScaleDown AI
+  - 分類・抽出・要約・圧縮という単機能に絞った小型モデル（SLM）を API で提供するサービス。フロンティアモデルに頼らず、決まった処理を大量に安く流す用途を狙う。
+- **[Tripo AI](links/link-service/tripo3d-ai.md)** ⚑  freemium / Tripo
+  - テキストまたは画像から3Dモデルを生成するオンラインサービス。ゲーム素材、EC の商品画像、3Dプリント、映像のプリビズなどを想定している。
+- **[Wedoflow](links/link-service/wedoflow-com.md)**  paid / Wedoflow
+  - Webflow 向けのプレミアムテンプレート販売。デザイン済みのページを買って、サイト構築の時間を短縮する。
+- **[Z.ai (chat.z.ai)](links/link-service/chat.z.ai-z.ai-chat.z.ai.md)**  freemium / Z.ai / Zhipu AI
+  - Z.ai（Zhipu AI）のチャット/エージェント画面。GLM-5.3 系をブラウザで試し、同じモデルを API 経由でエージェントから呼ぶための入口。
+- **[pump.fun](links/link-service/pump.fun-pump.fun.md)** ⚑  free / Baton Corporation, Ltd.（Pump Entities）
+  - Solana上のミームコインを、コードを書かずに誰でも短時間で発行し、その場で売買できるローンチパッド。公式ドキュメントは「Pump.fun is a memecoin launchpad on Solana. Anyone can launch a coin in under a minute. There's no
+- **[treg REA growth](links/link-service/treg.to-treg-rea-growth.md)** ⚑  freemium / superdesigndev（Superdesign Dev Pty Ltd）
+  - treg.to は「エージェント向けツールの OpenRouter」を名乗る従量課金の API ゲートウェイ。1 つのトークンで 126 プロバイダ・4,100+ のツール（SEO/SERP、被リンク、SNS 投稿、人物・企業情報、広告ライブラリ、スクレイピング、画像/動画/音声生成）を、プロバイダごとの契約なしで呼べ
+
 ### リンク（素材・アイコン・3D）（18）
 
 - **[AI Camera Movements（カメラワーク46種のプロンプト）](links/link-asset/aicameramovements-com.md)**  free / aicameramovements.com
@@ -547,45 +588,6 @@
   - ホバー・クリック・ループのフィードバックをUIへ組み込むアイコン素材。
 - **[背景ガチャ（九龍城砦セット＋パース補助線）](links/link-asset/tools.oyasumi-gamedev.com-haikeigacha.md)** ⚑  free / おやすみゲーム開発部（MIYADAIKU）
   - 漫画・イラストの背景を、ブラウザ上で部品を組み合わせて作る無料ツール。3Dモデリングなしで、部屋・建物・街並みのラフを作る。
-
-### リンク（サービス・ツール）（18）
-
-- **[Aura](links/link-service/aura.build-aura.md)** ⚑  freemium / DESIGNCODE IO PTE. LTD.（Meng To / DesignCode）
-  - テキストプロンプトからランディングページやマルチページのウェブサイトを生成し、ブラウザ上で視覚編集して公開・書き出しまで完結させるサービス。公式は「AI landing page builder that creates stunning designs in seconds」と説明している。
-- **[Banani](links/link-service/banani-co.md)**  freemium / Banani
-  - テキストから UI を生成する AI デザインツール。プロンプトを「編集可能な UI デザイン」に変えることを狙う。ポストの説明（turn prompts into editable UI designs）と一致する。
-- **[Browserbase公式ドキュメント索引](links/link-service/docs.browserbase.com-browserbase.md)**  free / Browserbase
-  - Browserbaseの公開技術資料を探す。
-- **[Claude Duet](links/link-service/claude.com-claude-duet.md)**  paid / Anthropic
-  - 業務上対応が必要な項目の通知と、依頼作業のバックグラウンド処理。
-- **[CompShare（優云智算）](links/link-service/compshare.cn-compshare.md)** ⚑  paid / UCloud（优刻得科技）
-  - UCloud（优刻得）系の GPU クラウド。AI の学習・推論・画像生成用に GPU インスタンスを時間・日・月単位で借りる。
-- **[Grok Bot](links/link-service/docs.x.ai-grok-bot.md)** ⚑  paid / xAI
-  - xAI の常駐型 AI チーム。名前を付けた Bot がクラウド上の実コンピュータ（ブラウザ・ファイルシステム・ターミナル）を共有し、指示した仕事を継続して実行する。
-- **[Grok Bot Marketplace](links/link-service/x.ai-grok-bot-marketplace.md)** ⚑  paid / xAI
-  - xAI（Grok）の公式ボットマーケットプレイス。特定の仕事向けに設定済みの「Grok Bot」を探し、自分のアカウントに追加して業務を任せるためのリンク。
-- **[Intel GPU D270](links/link-service/intel.com-intel-gpu-d270.md)** ⚑  Intel
-  - データセンター向けAI推論GPUの仕様を参照する。
-- **[Jasper](links/link-service/https-www.jasper.ai.md)** ⚑  @hey_Jessicaai
-  - 文章作成・マーケティング支援サービスとして一覧に記載されたJasper。
-- **[Jev（TypeSafe AI）](links/link-service/typesafe.ai-jev-typesafe-ai.md)** ⚑  paid / TypeSafe AI
-  - 高性能LLMにバックログ全体を投げる前に、「些細・定型・難しい」の判断だけを安く速く済ませ、難しい案件だけをLLMに渡すための判断レイヤー。
-- **[Mako UI](links/link-service/mako-engine-mako-ui.md)** ⚑  paid
-  - HTML・CSS・JavaScriptでゲーム内UIを制作するミドルウェア。
-- **[Paper Animation](links/link-service/paperanimation-ai.md)**  freemium / Paper Animation
-  - 画像1枚から紙風のアニメーションクリップを作る Web ツール。ショート動画のフック用素材（新聞の切り抜き風、紙の折り畳み等）を短時間で作ることを狙う。投稿の説明（paper-style animations）と一致する。
-- **[ScaleDown](links/link-service/scaledown-ai.md)**  paid / ScaleDown AI
-  - 分類・抽出・要約・圧縮という単機能に絞った小型モデル（SLM）を API で提供するサービス。フロンティアモデルに頼らず、決まった処理を大量に安く流す用途を狙う。
-- **[Tripo AI](links/link-service/tripo3d-ai.md)** ⚑  freemium / Tripo
-  - テキストまたは画像から3Dモデルを生成するオンラインサービス。ゲーム素材、EC の商品画像、3Dプリント、映像のプリビズなどを想定している。
-- **[Wedoflow](links/link-service/wedoflow-com.md)**  paid / Wedoflow
-  - Webflow 向けのプレミアムテンプレート販売。デザイン済みのページを買って、サイト構築の時間を短縮する。
-- **[Z.ai (chat.z.ai)](links/link-service/chat.z.ai-z.ai-chat.z.ai.md)**  freemium / Z.ai / Zhipu AI
-  - Z.ai（Zhipu AI）のチャット/エージェント画面。GLM-5.3 系をブラウザで試し、同じモデルを API 経由でエージェントから呼ぶための入口。
-- **[pump.fun](links/link-service/pump.fun-pump.fun.md)** ⚑  free / Baton Corporation, Ltd.（Pump Entities）
-  - Solana上のミームコインを、コードを書かずに誰でも短時間で発行し、その場で売買できるローンチパッド。公式ドキュメントは「Pump.fun is a memecoin launchpad on Solana. Anyone can launch a coin in under a minute. There's no
-- **[treg REA growth](links/link-service/treg.to-treg-rea-growth.md)** ⚑  freemium / superdesigndev（Superdesign Dev Pty Ltd）
-  - treg.to は「エージェント向けツールの OpenRouter」を名乗る従量課金の API ゲートウェイ。1 つのトークンで 126 プロバイダ・4,100+ のツール（SEO/SERP、被リンク、SNS 投稿、人物・企業情報、広告ライブラリ、スクレイピング、画像/動画/音声生成）を、プロバイダごとの契約なしで呼べ
 
 ### 3D・モーション（11）
 
@@ -1246,6 +1248,7 @@
 - [Jasper](links/link-service/https-www.jasper.ai.md) — unverified / 無料紹介URLの不達をサービス全体の不存在とは扱わない。現行価格・無料提供・利用条件は未確認。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Jev（TypeSafe AI）](links/link-service/typesafe.ai-jev-typesafe-ai.md) — unverified / 投稿が掲げる数値（10,000タスクを20秒、9,214件をOpusに渡さない、8レーンで衝突0、41,096行、12.7x fewer Opus calls、Jev費用$0.38）は投稿本文と添付動画の中だけの主張で、一次情報の裏付けがない。添付動画は実アプリの画面ではなく演出されたモックで、同じ動画内でも Jev 費用が $0.25 から $0.38 へ変化し、41,096 行は画面に現れない。Jev 自体（TypeSafe AI の System One モデル、$42/10億入力トークン、HTTP API/SDK/agent skill）は公式サイトとドキュメントで確認できるが、公式は「コーディングエージェントの LLM を置き換えるものではない」と明記しており、投稿の8レーン並列構成の再現手順は公開されていない。無料枠の有無、コンソールの課金開始条件は未確認。
 - [Mako UI](links/link-service/mako-engine-mako-ui.md) — unverified / 現時点で公式はウェイトリストを案内しており、一般提供や料金を確認できない。コンソール版はNDA等の条件あり。実装や性能は未検証。
+- [NaN](links/link-service/nan.builders-nan.md) — unverified / モデルごとの利用枠がある。APIの実動作と速度は未検証。
 - [Tripo AI](links/link-service/tripo3d-ai.md) — unverified / 引用への感想投稿自体には新しい実行検証はない。 今回の動作・推論・生成・性能は未検証。
 - [pump.fun](links/link-service/pump.fun-pump.fun.md) — unverified / 【元ポストの主張と実測の区別】ポストはAI生成の「emo kid」インフルエンサーの顔を使い第三者がコインを3件ローンチしたと述べ、$45Kピーク・$161K出来高・クリエイター手数料0.30%・本人の取り分ゼロ等の数字を挙げる。実測できたのはプラットフォーム側の仕様のみ：(1) ボンディングカーブのクリエイター手数料は公式料金ページで0.300%と確認でき、ポストの0.30%と一致。(2) コイン作成にプラットフォーム手数料はなく、誰でも画像・名前・シンボルを入れて発行できる（作成ページで画像15MB/動画30MB、名前・シンボル・画像は作成後に変更不可と明記）ため、第三者が他人の顔写真でコインを作ることに同意確認の仕組みはない。(3) 一方、$12K収益・297Kフォロワー・52.3M再生・$45Kピーク・$161K出来高・保有者8人等は投稿者の推計／個別コインの値で、こちらでは一次確認していない（unverified）。【未確認】Terms Section 32 の Prohibited Jurisdiction の国別リストは本文が取得上限で切れ、具体的な国名を確認できていない（英国でブロックとの外部報道はあるが一次情報では未確認）。米国等での提供可否、創業者・運営会社の詳細、公式の書き込み系API／オンチェーンSDKの有無も未確認（Developer APIは明示的に読み取り専用で、取引・署名は不可）。https://pump.fun/ 本体はCloudflareのbotチェレンジで平文HTTPには403を返す（ヘッドレスでは描画成功）。【リスク】ミームコインは内在価値がなく投機的で全額損失があり得る（TermsのRISK WARNING、Tokenized Agent Disclaimer）。手数料は予告なく改定されうる。18歳以上・Prohibited Jurisdiction除外・制裁/AMLスクリーニングあり。第三者による肖像・商標の無断利用と、それに対するDMCA/商標ガイドライン上の削除対応が主な法的論点。
 - [treg REA growth](links/link-service/treg.to-treg-rea-growth.md) — unverified / 未確認: 無料クレジット取得にカード登録や本人確認が必要か、verified account の条件、表示価格の税・通貨換算。料金はプロバイダのレート次第で変動し、$0.58 や各レートは 2026-11 時点の掲載値。ショーケース（Lovable の被リンク数・流入推定など）はベンダー自身の実行記録で、第三者の追試はない。当方ではスキルを実行しておらず出力品質は未検証。X 連携は treg の X アプリ経由だと自前キーでも従量課金。GitHub API の license は NOASSERTION だが LICENSE 本文は Apache-2.0。

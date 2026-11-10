@@ -1,5 +1,5 @@
 {
-  "count": 604,
+  "count": 605,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -9948,6 +9948,28 @@
       ],
       "path": "links/link-service/mako-engine-mako-ui.md",
       "summary": "HTML・CSS・JavaScriptでゲーム内UIを制作するミドルウェア。"
+    },
+    {
+      "name": "NaN",
+      "genre": "link-service",
+      "url": "https://nan.builders/",
+      "author": "NaN",
+      "pricing": "paid",
+      "pricing_detail": "コミュニティ月額€14.99、推論月額€70、GLM 5.3 Premium月額€200。",
+      "signup_required": true,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "モデルごとの利用枠がある。APIの実動作と速度は未検証。",
+      "type": "link",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/bernvadell/status/2113700655080546601"
+      ],
+      "fetched_at": "2026-11-10T13:15:33+09:00",
+      "path": "links/link-service/nan.builders-nan.md",
+      "summary": "共有GPUでオープンモデルの推論を利用する。"
     },
     {
       "name": "Paper Animation",
