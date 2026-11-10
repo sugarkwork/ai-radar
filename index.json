@@ -1,5 +1,5 @@
 {
-  "count": 749,
+  "count": 750,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -14257,6 +14257,37 @@
       "fetched_at": "2026-11-10T09:31:04Z",
       "path": "entries/other/ffmpeg-ffmpeg.md",
       "summary": "ffmpegで映像・音声の変換やストリームの抽出を行い、ffprobeで出力の形式やストリームを検査できる。"
+    },
+    {
+      "repo": "karpathy/nanoGPT",
+      "name": "nanoGPT",
+      "genre": "other",
+      "url": "https://github.com/karpathy/nanoGPT",
+      "stars": 64598,
+      "forks": 11112,
+      "open_issues": 355,
+      "size_kb": 981,
+      "language": "Python",
+      "created": "2022-12-28",
+      "updated": "2025-11-12",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 0,
+      "commits_90d": 0,
+      "commit_cadence": "stale",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "最新リリース、現行の依存パッケージとの互換性、学習時間と検証損失の再現性は未確認。学習結果はREADMEの著者報告。MITはリポジトリのライセンスで、外部データや事前学習済み重みの利用条件は未確認。",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/thegreatest_sv/status/2115051970251628961"
+      ],
+      "fetched_at": "2026-11-10T11:51:55+00:00",
+      "path": "entries/other/karpathy-nanogpt.md",
+      "summary": "文字単位の小型GPTをゼロから学習し、保存したチェックポイントからテキストを生成できる。既存のGPT-2チェックポイントを使った微調整の例もある。"
     },
     {
       "repo": "usememos/memos",

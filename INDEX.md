@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 749 件 — リポジトリ 438, リンク集 113, 記事 131, モデル 53, プロンプト 14 / ⚑ 要確認 539 件
+収録 750 件 — リポジトリ 439, リンク集 113, 記事 131, モデル 53, プロンプト 14 / ⚑ 要確認 540 件
 
-## リポジトリ（438）
+## リポジトリ（439）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -267,7 +267,7 @@
 | [quicksilver](entries/coding-agent/uditakhourii-quicksilver.md) ⚑ | 142 | 11 | 停滞 | 0 | 2026-09-25 | 2026-11-09 | 2026-11-10 | MIT |
 | [GDG Agent Skillsの実演教材](entries/coding-agent/gdg-oau-agent-skills-gdg.md) ⚑ | 1 | 0 | 週次 | 13 | 2026-11-07 | 2026-11-10 | 2026-11-10 | unknown |
 
-### その他（46）
+### その他（47）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -276,6 +276,7 @@
 | [OBS Studio](entries/other/obsproject-obs-studio.md) ⚑ | 79,247 | 11,149 | 毎日 | 41 | 2026-11-10 | 2026-11-10 | 2026-11-10 | GPL-2.0 |
 | [MediaCrawler](entries/other/nanmicoder-mediacrawler.md) ⚑ | 70,741 | 13,389 | 毎日 | 21 | 2026-11-09 | 2026-11-09 | 2026-11-10 | 未確認（API は NOASSERTION、標準ライセンスファイル無し） |
 | [FFmpeg](entries/other/ffmpeg-ffmpeg.md) ⚑ | 66,858 | 14,558 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | unknown |
+| [nanoGPT](entries/other/karpathy-nanogpt.md) ⚑ | 64,598 | 11,112 | 停滞 | 0 | 2025-11-12 | 2026-11-10 | 2026-11-10 | MIT |
 | [Memos](entries/other/usememos-memos.md) ⚑ | 64,375 | 4,946 | 毎日 | 74 | 2026-11-09 | 2026-11-10 | 2026-11-10 | MIT |
 | [JADX](entries/other/skylot-jadx.md) ⚑ | 51,735 | 5,928 | 毎日 | 28 | 2026-11-08 | 2026-11-10 | 2026-11-10 | Apache-2.0 |
 | [Paperless-ngx](entries/other/paperless-ngx-paperless-ngx.md) ⚑ | 47,969 | 3,372 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | GPL-3.0 |
@@ -1523,6 +1524,7 @@
 - [OBS Studio](entries/other/obsproject-obs-studio.md) — unverified / 最新リリースの年とタイムゾーンを含む公開日時は未確認。収録品質・負荷、エージェント経由の接続と録画、発見投稿で言及されたOpus 5.5との連携は未検証。90日コミット数は100件以上を表す。
 - [MediaCrawler](entries/other/nanmicoder-mediacrawler.md) — unverified / 各プラットフォームの利用規約と著作権に抵触しうる。収集した投稿・動画の再配布は権利者の許諾が必要。規約違反・アカウント停止のリスクは利用者側。
 - [FFmpeg](entries/other/ffmpeg-ffmpeg.md) — unverified / GitHubの最新リリース情報、個別ビルドで利用できるコーデック、処理速度・出力品質、AIエージェントからの実行は未検証。READMEはGitHubの公開rawファイルで確認した。 GitHub APIでライセンスを確認できていません。
+- [nanoGPT](entries/other/karpathy-nanogpt.md) — unverified / 最新リリース、現行の依存パッケージとの互換性、学習時間と検証損失の再現性は未確認。学習結果はREADMEの著者報告。MITはリポジトリのライセンスで、外部データや事前学習済み重みの利用条件は未確認。
 - [Memos](entries/other/usememos-memos.md) — unverified / Docker起動、MCPクライアントからの接続、検索結果の品質や応答速度は独立実測していない。発見投稿にあるGrok Botとの接続は未確認。
 - [JADX](entries/other/skylot-jadx.md) — unverified / 最新版のタグと公開日時は未確認。READMEの機能記載を確認した範囲で、逆コンパイルの精度、実行環境ごとの動作、AIによる要約の品質は実測していない。READMEは逆コンパイル時にエラーが生じうると明記している。
 - [Paperless-ngx](entries/other/paperless-ngx-paperless-ngx.md) — unverified / OCR精度、検索性能、外部AIからの接続は実機で未検証。最新リリースのタグと公開日時は /releases/latest で未確認。コミット数は両期間とも取得上限のため100件以上。
