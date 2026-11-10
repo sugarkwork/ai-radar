@@ -1,5 +1,5 @@
 {
-  "count": 733,
+  "count": 734,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -12470,6 +12470,37 @@
       "commits_90d": 100,
       "path": "entries/mcp-server/graphicle-ai-graphicle.md",
       "summary": "リポジトリを**コードグラフ**に変換し、あわせてドキュメント・設計判断・過去のエージェントセッションを**記憶**として保持する。エージェントはその両方から、ファイル名と行番号付きの抜粋だけを受け取る"
+    },
+    {
+      "repo": "stretchcloud/deepscrape",
+      "name": "DeepScrape",
+      "genre": "mcp-server",
+      "url": "https://github.com/stretchcloud/deepscrape",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEに記載された機能と手順を確認した。実行時の動作、サイト変更後の復旧率、破損PDFの解析精度、モデル利用料の具体額は未確認。GitHubの最新版リンクはリリース一覧に遷移し、取得した一覧にはリリースが表示されていなかったため、最新リリースのタグと公開日時は未確認。",
+      "stars": 337,
+      "forks": 28,
+      "open_issues": 0,
+      "size_kb": 9132,
+      "language": "TypeScript",
+      "created": "2025-06-05",
+      "updated": "2026-08-21",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 0,
+      "commits_90d": 5,
+      "commit_cadence": "monthly",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/stretchcloud/status/2119222115862040970"
+      ],
+      "fetched_at": "2026-11-10T11:29:46+00:00",
+      "path": "entries/mcp-server/stretchcloud-deepscrape.md",
+      "summary": "WebページをMarkdownやHTMLなどに変換できる。Site → MCPは保存した抽出設定をサイト別のMCPツールとして公開する。"
     },
     {
       "repo": "alla2001/material-painter",

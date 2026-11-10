@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 733 件 — リポジトリ 422, リンク集 113, 記事 131, モデル 53, プロンプト 14 / ⚑ 要確認 523 件
+収録 734 件 — リポジトリ 423, リンク集 113, 記事 131, モデル 53, プロンプト 14 / ⚑ 要確認 524 件
 
-## リポジトリ（422）
+## リポジトリ（423）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -439,7 +439,7 @@
 | [sepiablue-ai/ComfyUI-PH3-Manga](entries/image-gen/sepiablue-ai-comfyui-ph3-manga.md) ⚑ | 8 | 0 | 週次 | 10 | 2026-11-07 | 2026-11-09 | 2026-11-10 | MIT |
 | [ComfyUI Prompt Atelier](entries/image-gen/renz1998-comfyui-prompt-atelier.md) | 3 | 0 | 毎日 | 51 | 2026-11-09 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
 
-### MCPサーバー（14）
+### MCPサーバー（15）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -455,6 +455,7 @@
 | [PicLite](entries/mcp-server/amiaoapp-piclite.md) ⚑ | 1,034 | 66 | 毎日 | 70 | 2026-11-06 | 2026-11-10 | 2026-11-10 | GPL-3.0 |
 | [ExcelMcp（本物のExcelをCOM経由でAIに操作させるMCPサーバ／CLI）](entries/mcp-server/sbroenne-mcp-server-excel.md) | 875 | 108 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
 | [Graphicle（コードグラフと記憶を1つのMCPサーバでエージェントに渡すRust製ツール）](entries/mcp-server/graphicle-ai-graphicle.md) | 543 | 41 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [DeepScrape](entries/mcp-server/stretchcloud-deepscrape.md) ⚑ | 337 | 28 | 月次 | 0 | 2026-08-21 | 2026-11-10 | 2026-11-10 | MIT |
 | [Material Painter](entries/mcp-server/alla2001-material-painter.md) ⚑ | 265 | 26 | 毎日 | 41 | 2026-11-07 | 2026-11-10 | 2026-11-10 | GPL-3.0 |
 | [pagesift](entries/mcp-server/yolow92-pagesift.md) ⚑ | 256 | 32 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | AGPL-3.0 |
 
@@ -1465,6 +1466,7 @@
 - [designlang](entries/mcp-server/manavarya09-design-extract.md) — unverified / 最新リリースの公開日時は未確認。抽出精度、サイト間での再現性、CLI・MCP の実動作は未検証。README の出力例は作者による掲載例。
 - [New Term Radar](entries/mcp-server/zhuyansen-new-term-radar.md) — unverified / 理由未記入
 - [PicLite](entries/mcp-server/amiaoapp-piclite.md) — unverified / ['圧縮率・画質・処理時間、各OS向け配布バイナリと第三者MCPクライアントの実動作は未検証。プロジェクトは公式MCP SDKと実ファイルを使った試験を報告している。']
+- [DeepScrape](entries/mcp-server/stretchcloud-deepscrape.md) — unverified / READMEに記載された機能と手順を確認した。実行時の動作、サイト変更後の復旧率、破損PDFの解析精度、モデル利用料の具体額は未確認。GitHubの最新版リンクはリリース一覧に遷移し、取得した一覧にはリリースが表示されていなかったため、最新リリースのタグと公開日時は未確認。
 - [Material Painter](entries/mcp-server/alla2001-material-painter.md) — unverified / 早期アクセス。アプリとMCPの動作は未検証。
 - [pagesift](entries/mcp-server/yolow92-pagesift.md) — unverified / AGPL-3.0 のため、改変してネットワーク越しに提供する場合はソース開示義務。プロプライエタリ製品への組み込みは別途商用ライセンス。README のベンチマーク数値（2.4ms/ページ、20.49倍、32MB 等）はすべて著者自身の計測で第三者検証なし＝カタログの事実としては採用せず flag 扱い。リポジトリは 2026-10-20 作成で履歴が浅く、v1.1.3 は検証当日リリース。pip 版 CLI のサブコマンドは mcp/scrape/convert のみで、README が示す crawl/extract/doctor やローカル PDF/Office の直接パースは cargo ビルド版の機能（pip 版 scrape は http(s) のみ受け付け、ローカルファイルは convert で HTML のみ）。
 - [60fps.design MCP](links/mcp-server/https-60fps.design-mcp.md) — unverified / 月29ドル/四半期69ドル・1席は原チェック時。PROプランにMCPは含まれない。SwiftUIのコンパイル確認は提供側の説明で本調査では未実行。 当方でインストール・推論・生成・ベンチ再現はしていない。
