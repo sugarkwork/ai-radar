@@ -1,5 +1,5 @@
 {
-  "count": 728,
+  "count": 729,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -15636,6 +15636,38 @@
       "fetched_at": "2026-11-09T21:42:00Z",
       "path": "entries/prompt-design/voltagent-awesome-design-md.md",
       "summary": "84製品分のDESIGN.md（Markdownのデザイン仕様書）を design-md/<brand>/DESIGN.md に収録。Stripe / Linear / Vercel / Notion / Figma / Apple / Shopify / Supabase など。"
+    },
+    {
+      "repo": "Leonxlnx/taste-skill",
+      "name": "Taste Skill",
+      "genre": "prompt-design",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "license": "MIT",
+      "stars": 112762,
+      "language": "JavaScript",
+      "created": "2026-02-19",
+      "updated": "2026-11-08",
+      "forks": 7588,
+      "open_issues": 3,
+      "commits_30d": 100,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 104213,
+      "archived": false,
+      "last_release": "v2.5.1",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "導入と生成結果は独立に実測しておらず、スキル導入前後の品質差や発見投稿の医療ダッシュボードへの寄与は未確認。最新リリースの公開日時は年とタイムゾーンを含む形式で確認できなかった。",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/thegreatest_sv/status/2117998992126591399"
+      ],
+      "fetched_at": "2026-11-10T11:21:22+00:00",
+      "path": "entries/prompt-design/leonxlnx-taste-skill.md",
+      "summary": "コーディングエージェントに、レイアウト、写真、タイポグラフィ、動きの設計ルールを渡す。完了前にブラウザーでレイアウトやフォーム、アクセシビリティの一部を確認し、コピーも検査する。"
     },
     {
       "repo": "coreyhaines31/marketingskills",
