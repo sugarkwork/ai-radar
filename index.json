@@ -1,5 +1,5 @@
 {
-  "count": 708,
+  "count": 709,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -15823,6 +15823,37 @@
       "risk_notes": "落合本人の公式指示や完全な記事通読として扱わない。原文プロンプトを創作せず二次解説として残す。 当方でインストール・推論・生成・ベンチ再現はしていない。",
       "published": "2026-07-20",
       "path": "articles/2026-11-09-https-x.com-kimuai08-article-2079212341250724250.md"
+    },
+    {
+      "repo": "Nanako0129/sepia",
+      "name": "sepia",
+      "genre": "prompt-other",
+      "url": "https://github.com/Nanako0129/sepia",
+      "stars": 3761,
+      "forks": 237,
+      "open_issues": 6,
+      "size_kb": 1021,
+      "language": "Python",
+      "created": "2026-08-28",
+      "updated": "2026-11-03",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 67,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "StoryScopeの93.2%は論文の小説コーパスにおける人間とAIの二値分類のmacro-F1。sepiaによる改稿の品質改善、業務文書への有効性、ホスト別の動作、利用料金、最新リリースは未確認。今回の確認は公開資料の閲覧のみ。",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/Ryrenz/status/2117784513040257439"
+      ],
+      "fetched_at": "2026-11-10T10:38:25Z",
+      "path": "entries/prompt-other/nanako0129-sepia.md",
+      "summary": "小説では物語構成から見直し、業務文書ではリリースノート、PRへの返信、障害の事後検証、技術記事などの用途別ルールを使う。"
     },
     {
       "type": "prompt",
