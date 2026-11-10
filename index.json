@@ -1,5 +1,5 @@
 {
-  "count": 683,
+  "count": 684,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -13251,6 +13251,38 @@
       "type": "repo",
       "path": "entries/other/elder-plinius-obliteratus.md",
       "summary": "公開モデルの**拒否（refusal）挙動を除去**するためのツール。モデル重みの方向を推定して編集する abliteration を、CLI とノートブックの両方から実行する。"
+    },
+    {
+      "name": "librosa",
+      "genre": "other",
+      "repo": "librosa/librosa",
+      "url": "https://github.com/librosa/librosa",
+      "last_release": "1.0.0",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "GitHub の latest は 1.0.0 に転送されたが、GitHub 上の公開日は未確認。PyPI の公開日は 2026-08-11。手順は公式資料に基づき、独立した実行・精度測定は行っていない。",
+      "stars": 8830,
+      "forks": 1105,
+      "open_issues": 47,
+      "size_kb": 43867,
+      "language": "Python",
+      "created": "2012-10-20",
+      "updated": "2026-11-09",
+      "archived": false,
+      "license": "ISC",
+      "commits_30d": 59,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/RealMarvelX/status/2117612832019689696"
+      ],
+      "fetched_at": "2026-11-10T09:51:59+00:00",
+      "path": "entries/other/librosa-librosa.md",
+      "summary": "音源からテンポと拍位置を推定し、拍位置を秒単位で取り出せる。映像編集では、その時刻をカット候補として使える。 [公式リズム解析チュートリアル](https://librosa.org/doc/latest/auto_tutorials/01-intro/06-rhythm.html)"
     },
     {
       "repo": "agronholm/apscheduler",
