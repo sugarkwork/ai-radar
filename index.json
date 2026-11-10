@@ -1,5 +1,5 @@
 {
-  "count": 628,
+  "count": 629,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -5470,6 +5470,25 @@
       ],
       "fetched_at": "2026-11-09T10:22:00+00:00",
       "path": "articles/2026-07-14-graham-weaver-stanford-graduate-school-of-business-last-lecture-series-how-to-win-without-f6d1f4ee42.md"
+    },
+    {
+      "name": "Machine-Readable Training Preference Signal",
+      "genre": "article",
+      "url": "https://datatracker.ietf.org/doc/html/draft-kelley-aipref-training-preference-signal-00",
+      "author": "K. Kelley (Anthropic)",
+      "published": "2026-10-30",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "個人提出の Internet-Draft。各社の実装状況、設定の遵守、検索・引用への影響は未検証。",
+      "type": "article",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/okapi_fukugyo/status/2116908527231058125"
+      ],
+      "fetched_at": "2026-11-10T06:30:05Z",
+      "path": "articles/2026-10-30-k.-kelley-anthropic-machine-readable-training-preference-signal.md"
     },
     {
       "name": "Making Local LLMs Usable on 8GB GPUs",
