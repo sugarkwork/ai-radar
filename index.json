@@ -1,5 +1,5 @@
 {
-  "count": 581,
+  "count": 582,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -10047,6 +10047,28 @@
       "fetched_at": "2026-11-06T21:06:07Z",
       "path": "links/mcp-server/getartcraft.com-artcraft-craft-apps.md",
       "summary": "画像編集・ベクター・動画・PDF・DTP・3Dテクスチャ・DAW・CAD・表計算など、商用クリエイティブソフト相当の機能をRust製ネイティブアプリとして無料・オープンソースで提供するスイート。"
+    },
+    {
+      "name": "Date Math",
+      "genre": "mcp-server",
+      "url": "https://date-math.datemath.workers.dev/",
+      "author": "JowenDelaPena",
+      "pricing": "freemium",
+      "pricing_detail": "1 IPあたり1日25回無料、超過はx402で1回0.001米ドル相当。",
+      "signup_required": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "計算精度と決済は未検証。",
+      "type": "link",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/RoundtableSpace/status/2119222116101087262"
+      ],
+      "fetched_at": "2026-11-10T03:36:40Z",
+      "path": "links/mcp-server/date-math.datemath.workers.dev-date-math.md",
+      "summary": "AIエージェント向けに日時計算を提供する。"
     },
     {
       "repo": "cheaper-inference/OmniRoute",

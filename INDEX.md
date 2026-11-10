@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 581 件 — リポジトリ 327, リンク集 108, 記事 79, モデル 53, プロンプト 14 / ⚑ 要確認 374 件
+収録 582 件 — リポジトリ 327, リンク集 109, 記事 79, モデル 53, プロンプト 14 / ⚑ 要確認 375 件
 
 ## リポジトリ（327）
 
@@ -462,7 +462,7 @@
 - **[MiniMax H3：20種のダンスと音楽指定](prompts/video-gen/minimax-h3-20-dance-music.md)** ⚑  MiniMax H3 / EndFolding79421
   - キャラクターシートを参照し、6秒間の全身ダンスと音楽・環境音を指示するための投稿者のテンプレート。ダンス20種類の音楽指定例を含む。
 
-## リンク集（108）
+## リンク集（109）
 
 ### リンク（素材・アイコン・3D）（18）
 
@@ -682,6 +682,15 @@
 - **[Turn Inspector](links/coding-agent/aitmpl.com-turn-inspector.md)** ⚑  free / Daniel Avila (davila7)
   - Claude Code のセッションで、モデルへのリクエスト（ターン）ごとにコンテキストウィンドウが何にどれだけ使われたかを横ペインで可視化する。
 
+### MCPサーバー（3）
+
+- **[60fps.design MCP](links/mcp-server/https-60fps.design-mcp.md)** ⚑  @abir35627
+  - UIモーション事例を検索し、動きの分解と実装コードをエージェントへ渡す60fps.designの有料MCP。
+- **[ArtCraft Craft Apps](links/mcp-server/getartcraft.com-artcraft-craft-apps.md)**  free / ArtCraft (GitHub: storytold)
+  - 画像編集・ベクター・動画・PDF・DTP・3Dテクスチャ・DAW・CAD・表計算など、商用クリエイティブソフト相当の機能をRust製ネイティブアプリとして無料・オープンソースで提供するスイート。
+- **[Date Math](links/mcp-server/date-math.datemath.workers.dev-date-math.md)** ⚑  freemium / JowenDelaPena
+  - AIエージェント向けに日時計算を提供する。
+
 ### 音声・TTS（3）
 
 - **[Sophon-Realtime v1モデル群案内（重み無し）](links/tts-audio/https-huggingface.co-adventists-ai-sophon-realtime-v1.md)** ⚑  @nahid_pro09
@@ -690,13 +699,6 @@
   - SoundCloudの音楽配信プラットフォームを紹介するリンク。
 - **[irodori_md / aegigoe-specs v4 成人向け音声演技仕様パック](links/tts-audio/https-note.com-dr1610-n-nb70662a06f7d.md)** ⚑  @ai_1610
   - Irodori-TTS向けに成人向けの音声演技を文章で指定するmarkdown仕様パックを配布する案内。
-
-### MCPサーバー（2）
-
-- **[60fps.design MCP](links/mcp-server/https-60fps.design-mcp.md)** ⚑  @abir35627
-  - UIモーション事例を検索し、動きの分解と実装コードをエージェントへ渡す60fps.designの有料MCP。
-- **[ArtCraft Craft Apps](links/mcp-server/getartcraft.com-artcraft-craft-apps.md)**  free / ArtCraft (GitHub: storytold)
-  - 画像編集・ベクター・動画・PDF・DTP・3Dテクスチャ・DAW・CAD・表計算など、商用クリエイティブソフト相当の機能をRust製ネイティブアプリとして無料・オープンソースで提供するスイート。
 
 ### プロンプト（デザイン/UI）（2）
 
@@ -1208,6 +1210,7 @@
 - [REA](entries/mcp-server/morluto-rea.md) — unverified / GitHub API の数値と README/手順書の記述は 2026-11-09 時点で確認済み。未検証なのは (1) Ghidra/Hopper を実際に起動した動作確認、(2) README showcase の再構成数値（3,205 ケース等）で、効果は著者側の主張にとどまる。Hopper は商用（デモは制限付き）、Windows の Ghidra 対応は実験的 P0 で読み取り専用。
 - [pagesift](entries/mcp-server/yolow92-pagesift.md) — unverified / AGPL-3.0 のため、改変してネットワーク越しに提供する場合はソース開示義務。プロプライエタリ製品への組み込みは別途商用ライセンス。README のベンチマーク数値（2.4ms/ページ、20.49倍、32MB 等）はすべて著者自身の計測で第三者検証なし＝カタログの事実としては採用せず flag 扱い。リポジトリは 2026-10-20 作成で履歴が浅く、v1.1.3 は検証当日リリース。pip 版 CLI のサブコマンドは mcp/scrape/convert のみで、README が示す crawl/extract/doctor やローカル PDF/Office の直接パースは cargo ビルド版の機能（pip 版 scrape は http(s) のみ受け付け、ローカルファイルは convert で HTML のみ）。
 - [60fps.design MCP](links/mcp-server/https-60fps.design-mcp.md) — unverified / 月29ドル/四半期69ドル・1席は原チェック時。PROプランにMCPは含まれない。SwiftUIのコンパイル確認は提供側の説明で本調査では未実行。 当方でインストール・推論・生成・ベンチ再現はしていない。
+- [Date Math](links/mcp-server/date-math.datemath.workers.dev-date-math.md) — unverified / 計算精度と決済は未検証。
 - [Strata](entries/model-serving/niko1221-strata.md) — unverified / Mac31%・Linuxほぼ3倍等はリリースノートで同じ条件の根拠がない箇所がある。control vectorは特定Qwen向け実験で既定off。 今回の動作・推論・生成・性能は未検証。
 - [gpu-unlock](entries/model-serving/zagitta-gpu-unlock.md) — unverified / ブート時にカーネルモジュールでGPUの速度セレクタを書き換える構成。性能値は作者計測で第三者検証なし。GeForce の保証・NVIDIA の規約への影響は未確認。トップレベルに LICENSE ファイルが無く licenses/ 配下のみ。
 - [cactus-compute/cactus](entries/model-serving/cactus-compute-cactus.md) — unverified / モデルの特定端末の速度をこの基盤全体の保証としない。Apache-2.0表記と別モデル/外部コンポーネントの条件を分ける。 当方でインストール・推論・生成・ベンチ再現はしていない。
