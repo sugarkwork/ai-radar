@@ -1,5 +1,5 @@
 {
-  "count": 726,
+  "count": 727,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -5709,6 +5709,24 @@
       ],
       "fetched_at": "2026-11-10T04:07:51Z",
       "path": "articles/2026-10-13-vik-paruchuri-datalab-indra-ocr.md"
+    },
+    {
+      "name": "Design the Muse App, Just for You",
+      "genre": "article",
+      "url": "https://about.fb.com/news/2026/11/introducing-spaces-customize-muse-app/",
+      "published": "2026-11-06",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "実機での動作、対応する外部アプリと必要な権限、料金・利用条件、Metaのモデル評価の独立再現は未確認。",
+      "type": "article",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/tsu_0283/status/2119738882153693538"
+      ],
+      "fetched_at": "2026-11-10T11:18:42Z",
+      "path": "articles/2026-11-06-author-design-the-muse-app-just-for-you.md"
     },
     {
       "name": "Eddie Woo の対数講義――「何倍になるまでの時間」を1本の対数で読む",
