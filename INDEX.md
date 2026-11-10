@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 630 件 — リポジトリ 331, リンク集 113, 記事 119, モデル 53, プロンプト 14 / ⚑ 要確認 421 件
+収録 631 件 — リポジトリ 332, リンク集 113, 記事 119, モデル 53, プロンプト 14 / ⚑ 要確認 422 件
 
-## リポジトリ（331）
+## リポジトリ（332）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -321,7 +321,7 @@
 | [serenity-stock-choke](entries/finance-quant/fadewalk-serenity-stock-choke.md) | 531 | 56 | 月次 | 0 | 2026-10-06 | 2026-11-09 | 2026-11-10 | MIT |
 | [A-Share Quant Selector](entries/finance-quant/dzy-hw-xd-a-share-quant-selector.md) | 513 | 109 | 停滞 | 0 | 2026-09-08 | 2026-11-09 | 2026-11-10 | MIT |
 
-### RAG・検索（15）
+### RAG・検索（16）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -339,6 +339,7 @@
 | [obsidianmd/jsoncanvas](entries/rag/obsidianmd-jsoncanvas.md) ⚑ | 3,852 | 183 | 停滞 | 0 | 2026-07-24 | 2026-11-09 | 2026-11-10 | MIT |
 | [zilliztech/memsearch](entries/rag/zilliztech-memsearch.md) ⚑ | 2,847 | 281 | 毎日 | 29 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
 | [kepano/40-questions](entries/rag/kepano-40-questions.md) ⚑ | 1,782 | 202 | 停滞 | 0 | 2026-03-09 | 2026-11-09 | 2026-11-10 | unknown |
+| [llm-wiki](entries/rag/mehmetgoekce-llm-wiki.md) ⚑ | 164 | 29 | 毎日 | 33 | 2026-11-07 | 2026-11-10 | 2026-11-10 | MIT |
 | [Fulcra Agent Skills](entries/rag/fulcradynamics-agent-skills.md) ⚑ | 16 | 11 | 週次 | 10 | 2026-11-06 | 2026-11-09 | 2026-11-10 | unknown |
 
 ### 画像生成・編集（13）
@@ -1376,6 +1377,7 @@
 - [obsidianmd/jsoncanvas](entries/rag/obsidianmd-jsoncanvas.md) — unverified / MITは仕様リポジトリの条件。各アプリの実装互換性と読み書きの実機確認は行っていない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [zilliztech/memsearch](entries/rag/zilliztech-memsearch.md) — unverified / 記憶を保存する用途では機密情報・削除・アクセス制御の確認が必要。検索精度・永続化は未試験。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [kepano/40-questions](entries/rag/kepano-40-questions.md) — unverified / 原チェックはLICENSEなし。公開閲覧と全文再配布の許諾を同一視しない。心理・仕事上の効果を実証したものではない。 当方でインストール・推論・生成・ベンチ再現はしていない。
+- [llm-wiki](entries/rag/mehmetgoekce-llm-wiki.md) — unverified / 取り込み精度、全主張の事実検証、トークン削減量、実環境での動作は未検証。公開リリース一覧ではv1.8.1にLatest表示がある一方、取得した最新リリースページはv1.7.1に転送されたため、最新タグと公開日時は未確定。
 - [Fulcra Agent Skills](entries/rag/fulcradynamics-agent-skills.md) — unverified / 未確認・要注意: (1) ライセンス。GitHub API の license は null（リポジトリ直下に LICENSE ファイルが無く、/license も404）だが、README 末尾と全 SKILL.md の frontmatter は MIT と明記している。APIのSPDXが未検出のため frontmatter は unknown とし、MIT を正式な許諾条件として断定しない。(2) 投稿が書く「1フォルダだけ読み取り専用で渡す」は、共有コマンド（share create の --data-type / --file / --user-id / --group-id、permissions[].allowed_fulcra_userid）と、受信側が file download で読む運用までは確認したが、フォルダ単位の読み取り専用ACLを1コマンドで付ける仕様は一次情報で確認できていない。(3) `npx skills add fulcradynamics/agent-skills` は未実行（README記載のコマンドをそのまま転記）。(4) 効果に定量データは無く、README・公式サイトの説明はベンダー自身の主張。(5) 20本のスキルのうち fulcra-memory / fulcra-workspaces / fulcra-prefs / fulcra-connect / fulcra-get-started / connect-our-agents / fulcra-agent-groups / fulcra-situational-awareness のみ本文を読み、残りはREADME要約とファイル一覧までの確認。
 - [Phind](links/rag/https-www.phind.com.md) — unverified / 当時の取得失敗だけでサービス自体の消滅は断定しない。現行ページ・料金・利用可否は未確認。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [bestaidatalabs.com / ZetonのEMD・AEO戦略事例](articles/2026-11-09-https-x.com-margatix-status-2119089991217262884.md) — unverified / 10日で7桁・買収/賃貸オファー・全キーワード1位は未確認。中立ランキングではなく送客用資料で、有料増幅の可能性も記録されている。 当方でインストール・推論・生成・ベンチ再現はしていない。

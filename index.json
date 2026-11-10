@@ -1,5 +1,5 @@
 {
-  "count": 630,
+  "count": 631,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -14592,6 +14592,37 @@
       "last_release_at": "",
       "path": "entries/rag/kepano-40-questions.md",
       "summary": "年末等の振り返りに使う40の質問を公開したkepanoの資料。"
+    },
+    {
+      "repo": "MehmetGoekce/llm-wiki",
+      "name": "llm-wiki",
+      "genre": "rag",
+      "url": "https://github.com/MehmetGoekce/llm-wiki",
+      "license": "MIT",
+      "stars": 164,
+      "language": "unknown",
+      "created": "2026-04-08",
+      "updated": "2026-11-07",
+      "forks": 29,
+      "open_issues": 1,
+      "commits_30d": 33,
+      "commit_cadence": "daily",
+      "commits_90d": 42,
+      "size_kb": 729,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "取り込み精度、全主張の事実検証、トークン削減量、実環境での動作は未検証。公開リリース一覧ではv1.8.1にLatest表示がある一方、取得した最新リリースページはv1.7.1に転送されたため、最新タグと公開日時は未確定。",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/Bober_smart/status/2116978958121964030"
+      ],
+      "fetched_at": "2026-11-10T08:12:35+00:00",
+      "path": "entries/rag/mehmetgoekce-llm-wiki.md",
+      "summary": "資料を取り込んでWikiページを作成・更新し、相互リンクを張る。Claude CodeからWikiを検索でき、lintで孤立ページや壊れた参照などを点検できる。"
     },
     {
       "repo": "fulcradynamics/agent-skills",
