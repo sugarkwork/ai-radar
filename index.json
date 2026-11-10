@@ -1,5 +1,5 @@
 {
-  "count": 734,
+  "count": 735,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -12249,6 +12249,39 @@
       "fetched_at": "2026-11-10T11:12:36+00:00",
       "path": "entries/mcp-server/dgtlmoon-changedetection.io.md",
       "summary": "公開ページの価格表示や在庫表示、JSON APIの値を監視し、差分を履歴に残す。CSS、XPath、JSONPath、jqで監視範囲を絞り、変更時はApprise経由で通知できる。"
+    },
+    {
+      "repo": "GLips/Figma-Context-MCP",
+      "name": "Framelink MCP for Figma",
+      "genre": "mcp-server",
+      "url": "https://github.com/GLips/Figma-Context-MCP",
+      "license": "MIT",
+      "stars": 16187,
+      "language": "TypeScript",
+      "created": "2025-02-13",
+      "updated": "2026-10-27",
+      "forks": 1282,
+      "open_issues": 29,
+      "commits_30d": 0,
+      "commit_cadence": "stale",
+      "commits_90d": 0,
+      "size_kb": 8185,
+      "archived": false,
+      "last_release": "v0.13.2",
+      "last_release_at": "2026-06-18",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "スクリーンショット入力に対する再現精度の優位性は作者の主張。実行による再現、Claude Code固有の設定と互換性、Figmaのプラン別料金・API利用条件は未確認。",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/thegreatest_sv/status/2114739076796428729"
+      ],
+      "fetched_at": "2026-11-10T11:34:45+00:00",
+      "path": "entries/mcp-server/glips-figma-context-mcp.md",
+      "summary": "Figmaのファイル、フレーム、グループのリンクをもとにレイアウトやスタイルを取得し、UI実装の文脈としてエージェントに渡せる。"
     },
     {
       "type": "repo",
