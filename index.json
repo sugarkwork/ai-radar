@@ -1,5 +1,5 @@
 {
-  "count": 609,
+  "count": 610,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -5242,6 +5242,25 @@
       ],
       "fetched_at": "2026-11-10T03:38:14Z",
       "path": "articles/2026-11-07-gdg-oau-gdg-oau-agent-skills.md"
+    },
+    {
+      "name": "Genesis Agent Skillsの公開発表",
+      "genre": "article",
+      "url": "https://www.energy.gov/science/articles/genesis-agent-skills-release-support-innovation-across-genesis-mission",
+      "author": "U.S. Department of Energy Office of Science",
+      "published": "2026-10-15",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "元のX投稿と短縮URLの転送先は未確認。機能は発表元の説明に基づき、対応する実行環境、導入手順、性能や再現性への効果は未検証。",
+      "type": "article",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/Fermilab/status/2119187893319053778"
+      ],
+      "fetched_at": "2026-11-10T04:40:32Z",
+      "path": "articles/2026-10-15-u.s.-department-of-energy-office-of-science-genesis-agent-skills.md"
     },
     {
       "name": "GitHub Copilot週次更新（11月2日の週）",
