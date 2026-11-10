@@ -1,5 +1,5 @@
 {
-  "count": 775,
+  "count": 776,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -1233,6 +1233,38 @@
       "commits_90d": 5,
       "path": "entries/3d-motion/speridlabs-idol-sdk.md",
       "summary": "1枚の画像（写真・レンダリング画像・生成画像）から3D Gaussian Splattingを生成し、標準的な3DGS .plyとして保存する"
+    },
+    {
+      "repo": "EL4CTEO/blender-skills",
+      "name": "Blender Agent Skills",
+      "genre": "3d-motion",
+      "url": "https://github.com/EL4CTEO/blender-skills",
+      "last_release": "v1.2.0",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "テスト通過は公開リリースでの作者報告。テストの再実行、生成物の品質差、投稿の羊牧場の制作・レンダリング時間、各エージェントやMCP構成での実動作は未検証。リリースの年とタイムゾーンを含む公開日時は未確認。",
+      "stars": 933,
+      "forks": 89,
+      "open_issues": 1,
+      "size_kb": 6042,
+      "language": "Python",
+      "created": "2026-10-14",
+      "updated": "2026-11-07",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 9,
+      "commits_90d": 9,
+      "commit_cadence": "weekly",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/Y0urDumble/status/2115534594854551771"
+      ],
+      "fetched_at": "2026-11-10T12:24:07+00:00",
+      "path": "entries/3d-motion/el4cteo-blender-skills.md",
+      "summary": "モデリング、UV展開、PBR素材、ベイク、リギング、アニメーション、書き出し、品質確認の手順をエージェントから使える。公開リリースv1.2.0では28スキルを案内している。"
     },
     {
       "repo": "makehumancommunity/mpfb2",
