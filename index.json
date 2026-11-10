@@ -1,5 +1,5 @@
 {
-  "count": 653,
+  "count": 654,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -9482,6 +9482,38 @@
       "last_release_at": "",
       "path": "entries/link-asset/lucas-martinic-polyfork-catalog.md",
       "summary": "Polyforkの3D素材を探す公開カタログリポジトリ。サイトのGLB/ESモジュールとCLIにつながる索引。"
+    },
+    {
+      "repo": "wquguru/shisei",
+      "name": "Shisei",
+      "genre": "link-asset",
+      "url": "https://github.com/wquguru/shisei",
+      "stars": 478,
+      "forks": 102,
+      "open_issues": 0,
+      "size_kb": 255884,
+      "language": "Python",
+      "created": "2026-10-29",
+      "updated": "2026-11-02",
+      "archived": false,
+      "license": "Apache-2.0",
+      "commits_30d": 100,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "last_release": "v0.4.1",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "線画と各マップの画素整合、生成結果の一貫性、ControlNetのモデル別互換性、ZIPの中身とチェックサムは独立検証していない。リリースタグは確認済みで、公開日時は未確認。",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/dextune/status/2117483057343353195"
+      ],
+      "fetched_at": "2026-11-10T09:05:26+00:00",
+      "path": "entries/link-asset/wquguru-shisei.md",
+      "summary": "4シリーズの計280ポーズから参照画像を選べる。正面・斜め・側面・上・下の5方向を扱い、品質審査で除外されたビューなどには欠番がある。名称とカテゴリは日・中・英・韓の4言語。"
     },
     {
       "type": "repo",
