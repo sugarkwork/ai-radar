@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 745 件 — リポジトリ 434, リンク集 113, 記事 131, モデル 53, プロンプト 14 / ⚑ 要確認 535 件
+収録 746 件 — リポジトリ 435, リンク集 113, 記事 131, モデル 53, プロンプト 14 / ⚑ 要確認 536 件
 
-## リポジトリ（434）
+## リポジトリ（435）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### 動画生成パイプライン（73）
+### 動画生成パイプライン（74）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -81,6 +81,7 @@
 | [MiniMax H3 Temporal Window & Spatial Tiles](entries/video-gen/mo-akkakk-comfyui-minimaxh3-window-tiles.md) | 53 | 5 | 毎日 | 30 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
 | [NitroFusion2（1〜2ステップ text-to-image）](entries/video-gen/chendaryen-nitrofusion2.md) ⚑ | 50 | 7 | 週次 | 6 | 2026-11-08 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
 | [Video-Rebirth/ComfyUI-HyperFlow-Flash](entries/video-gen/video-rebirth-comfyui-hyperflow-flash.md) ⚑ | 28 | 3 | 月次 | 3 | 2026-11-09 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
+| [Seam](entries/video-gen/jdnichollsc-seam.md) ⚑ | 26 | 3 | 毎日 | 25 | 2026-11-06 | 2026-11-10 | 2026-11-10 | MIT |
 | [TaoLiveAIGC/TaoMate-HD](entries/video-gen/taoliveaigc-taomate-hd.md) ⚑ | 26 | 2 | 月次 | 2 | 2026-11-03 | 2026-11-09 | 2026-11-10 | NOASSERTION |
 | [Luo-Yihong/VA-TDM](entries/video-gen/luo-yihong-va-tdm.md) ⚑ | 25 | 2 | 月次 | 1 | 2026-11-04 | 2026-11-09 | 2026-11-10 | unknown |
 | [utillayer/youtube-agent-skill](entries/video-gen/utillayer-youtube-agent-skill.md) ⚑ | 14 | 2 | 週次 | 16 | 2026-10-29 | 2026-11-09 | 2026-11-10 | MIT |
@@ -1661,6 +1662,7 @@
 - [Video-Rebirth/hyperflow-h3-flash](entries/video-gen/video-rebirth-hyperflow-h3-flash.md) — unverified / コードのApache-2.0を重みのライセンスへ拡張しない。モデルはMiniMax H3系の地域・商用条件を別途持つ。速度は未再現。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [NitroFusion2（1〜2ステップ text-to-image）](entries/video-gen/chendaryen-nitrofusion2.md) — unverified / 発見元の投稿（x.com/Machinedelusion/...）は別プロジェクト WeVisCut の宣伝で、NitroFusion2 の説明は一切ない。本項目の根拠はリポジトリ/モデルカードの一次情報のみ。README の「1 step で sharp text」「比較画像」は著者の主張で、第三者計測や条件記載はない。必要 VRAM は README・モデルカードに記載がなく未検証（bf16 重みが約 12.3GB、Q2_K_4XS で約 2.0GB）。リリース/タグが無いため固定バージョンでの導入はできず、clone 時点の main に追従する。カタログに image-gen ジャンルが無いため、同じ扱いをしている画像系モデル（Anima RGBA 等）に合わせて video-gen に分類した（実体は text-to-image）。ライセンスは本体・重みとも Apache-2.0、土台の Tongyi-MAI/Z-Image-Turbo も apache-2.0。
 - [Video-Rebirth/ComfyUI-HyperFlow-Flash](entries/video-gen/video-rebirth-comfyui-hyperflow-flash.md) — unverified / ノードのGPL-3.0と重みのMiniMax H3 Community Licenseは別。他モデルやLoRAを同じ設定で動かせると仮定しない。 当方でインストール・推論・生成・ベンチ再現はしていない。
+- [Seam](entries/video-gen/jdnichollsc-seam.md) — unverified / GitHubの最新リリースリンクはv0.0.1へ転送された。公開日時と、現行READMEの機能が同タグに含まれる範囲は未確認。生成品質、所要時間、GLB入力、MCP連携は独立に再現していない。READMEでは24 GB GPU、Linux、macOSでの動作は未検証。クラウド経由の実レンダーも未検証と記載されている。
 - [TaoLiveAIGC/TaoMate-HD](entries/video-gen/taoliveaigc-taomate-hd.md) — unverified / 学習コード・データ・最終LoRAは未公開。1.6倍高速化とCER改善は論文自己報告。コードと重みにMiniMax H3系の独自条件・地域制限あり。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Luo-Yihong/VA-TDM](entries/video-gen/luo-yihong-va-tdm.md) — unverified / 4NFEのH3でFast-H3に61.33%の人間選好等は論文/プロジェクトの測定。完成済み汎用推論モデルの配布と混同しない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [utillayer/youtube-agent-skill](entries/video-gen/utillayer-youtube-agent-skill.md) — unverified / 原チェックはファイル構成を確認した段階で機能実行なし。対象動画の権利・プラットフォームの規約と情報取得の現行可否は別。 当方でインストール・推論・生成・ベンチ再現はしていない。
