@@ -1,5 +1,5 @@
 {
-  "count": 673,
+  "count": 674,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -19069,6 +19069,37 @@
       "fetched_at": "2026-11-10T08:28:58+00:00",
       "path": "entries/video-gen/konlu-story-studio.md",
       "summary": "歴史・人物紹介の題材選び、冒頭のフック、口播台本、分鏡と配図、剪映専門版の草稿作成を工程単位で依頼できる。"
+    },
+    {
+      "repo": "Vibha-Ramprakash/claude-video-effects",
+      "name": "claude-video-effects",
+      "genre": "video-gen",
+      "url": "https://github.com/Vibha-Ramprakash/claude-video-effects",
+      "license": "unknown",
+      "stars": 839,
+      "language": "Python",
+      "created": "2026-10-22",
+      "updated": "2026-11-09",
+      "forks": 202,
+      "open_issues": 1,
+      "commits_30d": 9,
+      "commit_cadence": "weekly",
+      "commits_90d": 9,
+      "size_kb": 2977,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "公式 README は公開 raw URL で確認。最新リリース、顔追従・遮蔽処理・発話位置の精度、初回セットアップの所要時間、Codex 互換性は未確認。ライセンス欄は親の GitHub API 実測値 unknown を保持。MIT と同梱素材の個別ライセンスは README の記載に基づき、各ライセンス本文は未照合。 GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/ganfanren_ai/status/2117590608487325707"
+      ],
+      "fetched_at": "2026-11-10T09:44:20Z",
+      "path": "entries/video-gen/vibha-ramprakash-claude-video-effects.md",
+      "summary": "README は51種類のエフェクトを掲載。素材を頭の周りに回す orbit や、人物を残して周囲を暗くする spotlight などを時間指定で重ねられる。元の音声を維持し、MP4を別ファイルに出力する。"
     },
     {
       "repo": "cyber-xiaoya/cyber-xiaoya-live",
