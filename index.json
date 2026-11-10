@@ -1,5 +1,5 @@
 {
-  "count": 752,
+  "count": 753,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -6975,6 +6975,39 @@
       "fetched_at": "2026-11-09T21:35:54Z",
       "path": "entries/coding-agent/addyosmani-agent-skills.md",
       "summary": "企画・仕様・計画・実装・テスト・レビュー・出荷という開発ライフサイクルを、25個の SKILL.md ワークフローとしてエージェントに踏ませる。各スキルは手順・検証条件・「サボる口実への反論」・レッドフラグまで含む。"
+    },
+    {
+      "repo": "karpathy/autoresearch",
+      "name": "autoresearch",
+      "genre": "coding-agent",
+      "url": "https://github.com/karpathy/autoresearch",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "独立実行による改善幅、試行回数、H100以外での動作、GPU・エージェントの利用料金は未確認。READMEはMITと記載しているが、親のGitHub API測定値はunknown。学習データの利用条件は未確認。 GitHub APIでライセンスを確認できていません。",
+      "last_release": "",
+      "last_release_at": "",
+      "stars": 99728,
+      "forks": 13741,
+      "open_issues": 196,
+      "size_kb": 530,
+      "language": "Python",
+      "created": "2026-03-06",
+      "updated": "2026-03-26",
+      "archived": false,
+      "license": "unknown",
+      "commits_30d": 0,
+      "commits_90d": 0,
+      "commit_cadence": "stale",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/thegreatest_sv/status/2115051970251628961"
+      ],
+      "fetched_at": "2026-11-10T11:53:15Z",
+      "path": "entries/coding-agent/karpathy-autoresearch.md",
+      "summary": "エージェントが train.py のモデル構成や学習設定を変更し、検証データの val_bpb（1バイトあたりのビット数）が下がった変更を残す。"
     },
     {
       "repo": "colbymchenry/codegraph",
