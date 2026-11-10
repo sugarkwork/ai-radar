@@ -1,5 +1,5 @@
 {
-  "count": 736,
+  "count": 737,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -12345,6 +12345,37 @@
       "commits_90d": 100,
       "path": "entries/mcp-server/superdesigndev-treg.md",
       "summary": "1つのベースURL＋1つのトークン（X-Treg-Token）で、カタログ上の外部APIを呼ぶ。実リクエストのURLの頭に https://treg.to/call/ を付けるだけで、treg がホスト名からツールを解決し、認証情報をサーバ側で注入して中身はそのまま中継する（呼び出し側は鍵を持たない）"
+    },
+    {
+      "repo": "exa-labs/exa-mcp-server",
+      "name": "Exa MCP Server",
+      "genre": "mcp-server",
+      "url": "https://github.com/exa-labs/exa-mcp-server",
+      "license": "MIT",
+      "stars": 5221,
+      "forks": 414,
+      "open_issues": 8,
+      "size_kb": 4415,
+      "language": "TypeScript",
+      "created": "2024-11-27",
+      "updated": "2026-11-05",
+      "archived": false,
+      "commits_30d": 9,
+      "commits_90d": 20,
+      "commit_cadence": "weekly",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "GitHub の最新リリース用 URL は一覧に転送され、最新リリースのタグと公開日時は確認できなかった。README は GitHub の raw ファイルで確認した。検索精度、本文取得の成功率、匿名枠の具体的な上限、発見投稿が述べる YouTube のトレンド検出や動画制作・収益化の成果は未検証。",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/Y0urDumble/status/2114798387249717600"
+      ],
+      "fetched_at": "2026-11-10T11:38:25+00:00",
+      "path": "entries/mcp-server/exa-labs-exa-mcp-server.md",
+      "summary": "既定の web_search_exa で関連ページを探し、web_fetch_exa で指定 URL の本文を Markdown として取得する。"
     },
     {
       "repo": "Manavarya09/design-extract",
