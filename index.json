@@ -1,5 +1,5 @@
 {
-  "count": 709,
+  "count": 710,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -14167,6 +14167,37 @@
       "type": "repo",
       "path": "entries/other/morluto-awesome-reverse-engineering.md",
       "summary": "リバースエンジニアリングのツールと学習リソースを、対象別に整理したキュレーションリスト。"
+    },
+    {
+      "repo": "undefined-ui/second-brain-os",
+      "name": "Second Brain OS",
+      "genre": "other",
+      "url": "https://github.com/undefined-ui/second-brain-os",
+      "license": "MIT",
+      "stars": 1549,
+      "forks": 265,
+      "open_issues": 7,
+      "size_kb": 671,
+      "language": "HTML",
+      "created": "2026-09-07",
+      "updated": "2026-11-03",
+      "archived": false,
+      "commits_30d": 8,
+      "commits_90d": 50,
+      "commit_cadence": "weekly",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "検索精度や学習効果の比較実測、プラグインとスクリプトの実行互換性、Claude Codeの利用料金、最新リリースのタグと公開日は未確認。",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/Ryrenz/status/2117799503893778508"
+      ],
+      "fetched_at": "2026-11-10T10:39:46+00:00",
+      "path": "entries/other/undefined-ui-second-brain-os.md",
+      "summary": "全7モジュールでコンテキスト、ループ、判定、ハーネス、評価、本番運用を学べる。5冊の分野別ハンドブックと演習用のテンプレート、スキル、サブエージェントが付属する。"
     },
     {
       "repo": "echris6/motion-video-kit",
