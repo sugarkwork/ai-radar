@@ -1,5 +1,5 @@
 {
-  "count": 764,
+  "count": 765,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -1798,6 +1798,37 @@
       "last_release_at": "2026-11-04",
       "path": "entries/3d-motion/cullenwebber-glb-viewer.md",
       "summary": "GLB/glTF を読み込み、Three.js 向けに軽量化・検証・比較するローカル優先の macOS ワークスペース。"
+    },
+    {
+      "repo": "alton47/threejs-skills",
+      "name": "Three.js AI Skills",
+      "genre": "3d-motion",
+      "url": "https://github.com/alton47/threejs-skills",
+      "license": "MIT",
+      "stars": 18,
+      "forks": 6,
+      "open_issues": 1,
+      "size_kb": 96,
+      "language": "unknown",
+      "created": "2026-03-24",
+      "updated": "2026-03-25",
+      "archived": false,
+      "commits_30d": 0,
+      "commits_90d": 0,
+      "commit_cadence": "stale",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "エージェント別の導入とスキル読込、生成コードの動作、スキル有無による品質差、対応バージョンは未検証。閲覧した公開リリース一覧には掲載がなかったが、最新リリースのAPI確認は未実施。",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/CryptooGG_/status/2119312343892976064"
+      ],
+      "fetched_at": "2026-11-10T12:11:00+00:00",
+      "path": "entries/3d-motion/alton47-threejs-skills.md",
+      "summary": "ブラウザー向け3Dシーンの実装時に、レンダラー、カメラ、照明、GLTF読み込み、GLSLシェーダー、描画負荷の計測などのガイドを参照できる。"
     },
     {
       "type": "repo",
