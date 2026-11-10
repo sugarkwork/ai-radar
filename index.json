@@ -1,5 +1,5 @@
 {
-  "count": 720,
+  "count": 721,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -13912,6 +13912,38 @@
       "fetched_at": "2026-11-09T21:41:03Z",
       "path": "entries/other/googleworkspace-cli.md",
       "summary": "Gmail・Drive・Calendar・Sheets・Docs・Chat・Admin など Workspace の各 API を gws <service> <resource> <method> の1コマンドで呼び、結果を JSON で返す（例: gws drive files list --params '{\"p"
+    },
+    {
+      "repo": "karakeep-app/karakeep",
+      "name": "Karakeep",
+      "genre": "other",
+      "url": "https://github.com/karakeep-app/karakeep",
+      "last_release": "v0.34.1",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "リリースの公開日時は未確定。タグ付け・要約の精度、検索品質、処理時間、MCP 接続の実動作は未測定。発見投稿の Grok Bot との連携は未確認。",
+      "stars": 30436,
+      "forks": 1630,
+      "open_issues": 726,
+      "size_kb": 146871,
+      "language": "TypeScript",
+      "created": "2024-02-06",
+      "updated": "2026-11-10",
+      "archived": false,
+      "license": "AGPL-3.0",
+      "commits_30d": 100,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/thegreatest_sv/status/2117960732184633699"
+      ],
+      "fetched_at": "2026-11-10T11:12:44+00:00",
+      "path": "entries/other/karakeep-app-karakeep.md",
+      "summary": "リンク、メモ、画像、PDF を保存し、リストで整理する。公式 README は全文検索、セマンティック検索、LLM による自動タグ付け・要約を案内している。"
     },
     {
       "repo": "actualbudget/actual",
