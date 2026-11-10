@@ -1,5 +1,5 @@
 {
-  "count": 590,
+  "count": 591,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -5487,6 +5487,25 @@
       ],
       "fetched_at": "2026-11-10T12:05:03+09:00",
       "path": "articles/2026-10-14-jarvis11x-2dae9ce2.md"
+    },
+    {
+      "name": "業務手順の構築と運用でエージェントの役割を分ける提案",
+      "genre": "article",
+      "url": "https://x.com/bernvadell/status/2108656632313860492",
+      "author": "Bernat Vadell",
+      "published": "2026-10-09",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "公開日はUTC。製品の提供状況と効果は未確認。",
+      "type": "article",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/bernvadell/status/2108656632313860492"
+      ],
+      "fetched_at": "2026-11-10T04:03:59Z",
+      "path": "articles/2026-10-09-bernat-vadell-b4c1fb04.md"
     },
     {
       "type": "article",
