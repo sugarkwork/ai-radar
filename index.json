@@ -1,5 +1,5 @@
 {
-  "count": 711,
+  "count": 712,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -12026,6 +12026,40 @@
       "type": "repo",
       "path": "entries/mcp-server/marc-shade-world-intel-mcp.md",
       "summary": "30以上の領域をカバーする **160個の MCP ツール**を1つのサーバーで提供する。データは無料の公開 API のみ（有料 API キー不要、と README に明記）。"
+    },
+    {
+      "name": "PicLite",
+      "genre": "mcp-server",
+      "repo": "amiaoapp/PicLite",
+      "url": "https://github.com/amiaoapp/PicLite",
+      "license": "GPL-3.0",
+      "stars": 1034,
+      "forks": 66,
+      "open_issues": 0,
+      "size_kb": 17329,
+      "language": "TypeScript",
+      "created": "2026-07-28",
+      "updated": "2026-11-06",
+      "archived": false,
+      "commits_30d": 70,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "last_release": "v2.1.5",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": [
+        "圧縮率・画質・処理時間、各OS向け配布バイナリと第三者MCPクライアントの実動作は未検証。プロジェクトは公式MCP SDKと実ファイルを使った試験を報告している。"
+      ],
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/Ryrenz/status/2117830448944382018"
+      ],
+      "fetched_at": "2026-11-10T10:43:43+00:00",
+      "path": "entries/mcp-server/amiaoapp-piclite.md",
+      "summary": "画像とGIFをローカルで一括圧縮・変換・縮小できる。MCPでは画像の寸法・バイト数・フレーム数を確認し、圧縮や透明PNGのカバー画像生成を実行できる。 [公式MCPガイド](https://raw.githubusercontent.com/amiaoapp/PicLite/main/docs/MCP.md)"
     },
     {
       "type": "repo",
