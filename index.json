@@ -1,5 +1,5 @@
 {
-  "count": 622,
+  "count": 623,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -5644,6 +5644,25 @@
       ],
       "fetched_at": "2026-11-10T05:45:12Z",
       "path": "articles/2026-10-23-oliver-jensen-mateo-wang-litellm-the-attack-chain-behind-the-v1.107.0-litellm-release.md"
+    },
+    {
+      "name": "The components of agent memory",
+      "genre": "article",
+      "url": "https://www.anthropic.com/research/components-of-agent-memory",
+      "author": "Anthropic Engineering",
+      "published": "2026-11-06",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "評価はAnthropicの報告に基づく。独立再現、別タスクへの一般化、記憶の保守に必要な計算コストは未検証。",
+      "type": "article",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/Nursing_DX/status/2119274934631555421"
+      ],
+      "fetched_at": "2026-11-10T06:17:03Z",
+      "path": "articles/2026-11-06-anthropic-engineering-the-components-of-agent-memory.md"
     },
     {
       "name": "TokenSpeedのQwen3.8-Flash-Next推論測定",
