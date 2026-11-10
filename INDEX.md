@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 760 件 — リポジトリ 449, リンク集 113, 記事 131, モデル 53, プロンプト 14 / ⚑ 要確認 550 件
+収録 761 件 — リポジトリ 450, リンク集 113, 記事 131, モデル 53, プロンプト 14 / ⚑ 要確認 551 件
 
-## リポジトリ（449）
+## リポジトリ（450）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -162,7 +162,7 @@
 | [X Virality Score](entries/agent-framework/monkeyteamvip-x-virality-score.md) ⚑ | 35 | 19 | 月次 | 3 | 2026-10-27 | 2026-11-09 | 2026-11-10 | MIT |
 | [web-api-skills](entries/agent-framework/oxylabs-web-api-skills.md) | 13 | 1 | 週次 | 11 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
 
-### 3D・モーション（53）
+### 3D・モーション（54）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -193,6 +193,7 @@
 | [three-gpu-pathtracer](entries/3d-motion/gkjohnson-three-gpu-pathtracer.md) ⚑ | 2,037 | 200 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | MIT |
 | [dream-loop](entries/3d-motion/achimala-dream-loop.md) ⚑ | 1,914 | 193 | 月次 | 0 | 2026-09-09 | 2026-11-10 | 2026-11-10 | MIT |
 | [StableGen](entries/3d-motion/sakalond-stablegen.md) | 1,632 | 163 | 毎日 | 100+ | 2026-11-04 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
+| [motionmaxxing](entries/3d-motion/tejashmakwana-motionmaxxing.md) ⚑ | 1,509 | 154 | 停滞 | 0 | 2026-10-06 | 2026-11-10 | 2026-11-10 | Apache-2.0 |
 | [nanocle/Charakuru](entries/3d-motion/nanocle-charakuru.md) ⚑ | 1,488 | 126 | 週次 | 5 | 2026-11-02 | 2026-11-09 | 2026-11-10 | NOASSERTION |
 | [livliv-dev/player](entries/3d-motion/livliv-dev-player.md) ⚑ | 1,395 | 146 | 毎日 | 40 | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
 | [NullMotion](entries/3d-motion/blixvip-nullmotion.md) | 1,335 | 133 | 週次 | 16 | 2026-10-31 | 2026-11-04 | 2026-11-04 | MIT |
@@ -1200,6 +1201,7 @@
 - [pixiv/three-vrm](entries/3d-motion/pixiv-three-vrm.md) — unverified / v3.6.0-beta.0のVRMC_springBone_limitはBeta拡張。MITはコードの条件で、各VRMの人物・衣装・モデルの権利は別。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [three-gpu-pathtracer](entries/3d-motion/gkjohnson-three-gpu-pathtracer.md) — unverified / ['GitHub の最新リリースは未確認。依存関係と導入手順は main ブランチの公開資料に基づく。', '描画速度、収束時間、画質、端末別の互換性、特定のAIモデルとの連携は実測していない。']
 - [dream-loop](entries/3d-motion/achimala-dream-loop.md) — unverified / ['最新リリースは取得がタイムアウトしたため未確認。', '作者のREADMEではCodex上のGPT-6 Astraのみでテスト済み。Claude Opus 5.5での動作、比較ベンチマーク、デモの画質・FPS、実行費用は未検証。']
+- [motionmaxxing](entries/3d-motion/tejashmakwana-motionmaxxing.md) — unverified / 現行版の生成品質、実行互換性、レンダリング性能は独立検証していない。作者のブラインド比較は旧版を対象とした単一評価者の結果で、作例の映像品質も評価していない。紹介投稿の冒頭にある参照動画の再現能力は、このリポジトリについて確認できていない。
 - [nanocle/Charakuru](entries/3d-motion/nanocle-charakuru.md) — unverified / 独自Charakuru Source-Available License and Terms of UseでOSI承認OSSではない。商用・再配布条件、Tripo/API料金を別途確認する。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [livliv-dev/player](entries/3d-motion/livliv-dev-player.md) — unverified / Apache-2.0はプレイヤーのみ。同梱21キャラは個人非商用・クレジット等の別条件で一部さらに例外。公開直後でmodel.json v4等の形式は流動的。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [three.quarks](entries/3d-motion/alchemist0823-three.quarks.md) — unverified / GitHubの最新リリースと公開日は未確認。バッチ描画による描画呼び出し削減は作者の説明に基づき、削減量やフレームレートは未計測。Three.jsの対応バージョン範囲とAIエージェントとの連携動作も未検証。

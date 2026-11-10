@@ -1,5 +1,5 @@
 {
-  "count": 760,
+  "count": 761,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -903,6 +903,39 @@
       "type": "repo",
       "path": "entries/3d-motion/sakalond-stablegen.md",
       "summary": "Blender のアドオンとして、メッシュやシーン全体に Diffusion モデルでテクスチャを貼る。UV を切って手で描く工程を置き換える。"
+    },
+    {
+      "name": "motionmaxxing",
+      "genre": "3d-motion",
+      "repo": "Tejashmakwana/motionmaxxing",
+      "url": "https://github.com/Tejashmakwana/motionmaxxing",
+      "last_release": "",
+      "last_release_at": "",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "現行版の生成品質、実行互換性、レンダリング性能は独立検証していない。作者のブラインド比較は旧版を対象とした単一評価者の結果で、作例の映像品質も評価していない。紹介投稿の冒頭にある参照動画の再現能力は、このリポジトリについて確認できていない。",
+      "stars": 1509,
+      "forks": 154,
+      "open_issues": 1,
+      "size_kb": 21795,
+      "language": "JavaScript",
+      "created": "2026-10-06",
+      "updated": "2026-10-06",
+      "archived": false,
+      "license": "Apache-2.0",
+      "commits_30d": 0,
+      "commits_90d": 2,
+      "commit_cadence": "stale",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/CryptooGG_/status/2119312343892976064"
+      ],
+      "fetched_at": "2026-11-10T12:08:26Z",
+      "path": "entries/3d-motion/tejashmakwana-motionmaxxing.md",
+      "summary": "Webサイトを起点にブランドの素材を集め、企画と絵コンテを作り、編集可能なHTMLとMP4を出力する。検査結果と目視判断はNOTE.mdに記録する。"
     },
     {
       "type": "repo",
