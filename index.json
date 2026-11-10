@@ -1,5 +1,5 @@
 {
-  "count": 657,
+  "count": 658,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -5428,6 +5428,24 @@
       ],
       "fetched_at": "2026-11-10T05:45:27Z",
       "path": "articles/2026-11-05-openai-gpt-6-cyber.md"
+    },
+    {
+      "name": "Garry Tanの個人向けAIエージェント運用事例",
+      "genre": "article",
+      "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+      "published": "2026-11-02",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "支出は本人の概算。番組公式ページで該当回の掲載を確認したが、発言はTechCrunchの引用に基づく。使用モデル、データ連携時の権限設定、データ保持条件、作業効果の実測値は未確認。",
+      "type": "article",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/neuronxwhite/status/2117493339482419597"
+      ],
+      "fetched_at": "2026-11-10T09:11:27Z",
+      "path": "articles/2026-11-02-author-garry-tan-ai.md"
     },
     {
       "name": "Genesis Agent Skillsの公開発表",
