@@ -1,5 +1,5 @@
 {
-  "count": 579,
+  "count": 580,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -5379,6 +5379,25 @@
       "risk_notes": "年500万円・価格7〜10倍は著者の自己申告。収益の再現性、PDFの内容・料金・権利条件は未確認。 当方でインストール・推論・生成・ベンチ再現はしていない。",
       "published": "2026-11-06",
       "path": "articles/2026-11-09-https-x.com-i-article-2117172572655849472.md"
+    },
+    {
+      "name": "自主制作AIドラマ《最后的巨魔》",
+      "genre": "article",
+      "url": "https://x.com/JiuYueAIGC/status/2113170993099526390",
+      "author": "@JiuYueAIGC",
+      "published": "2026-10-22",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "再生数と制作ツールは未確認。",
+      "type": "article",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/jarvis11x/status/2113528759546753265"
+      ],
+      "fetched_at": "2026-11-10T03:32:49Z",
+      "path": "articles/2026-10-22-jiuyueaigc-ai.md"
     },
     {
       "repo": "multica-ai/andrej-karpathy-skills",
