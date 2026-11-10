@@ -1,5 +1,5 @@
 {
-  "count": 710,
+  "count": 711,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -9018,6 +9018,38 @@
       "fetched_at": "2026-11-10T09:44:37+00:00",
       "path": "entries/finance-quant/galleonlabs-hypergrok-trading-desk.md",
       "summary": "7つの役割定義と17のSKILL.mdを収録。Opening BellはHyperliquidの公開/infoから価格、資金調達率、建玉、スプレッド、板の厚みを取得する。READMEに開発元の出力例がある。"
+    },
+    {
+      "repo": "Comfy-Org/ComfyUI",
+      "name": "ComfyUI",
+      "genre": "image-gen",
+      "url": "https://github.com/Comfy-Org/ComfyUI",
+      "last_release": "v0.44.0",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "FP8とDynamic VRAMの速度改善幅、P-H3-Imageのモデル系譜と重みの利用条件、各機能の必要VRAMと出力品質、最新リリースの公開日時の年とタイムゾーンは未確認。導入と推論の実行検証は行っていない。",
+      "stars": 146083,
+      "forks": 17401,
+      "open_issues": 5486,
+      "size_kb": 107607,
+      "language": "Python",
+      "created": "2023-01-17",
+      "updated": "2026-11-10",
+      "archived": false,
+      "license": "GPL-3.0",
+      "commits_30d": 100,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/sep_is_heim/status/2117816879461093847"
+      ],
+      "fetched_at": "2026-11-10T10:41:51+00:00",
+      "path": "entries/image-gen/comfy-org-comfyui.md",
+      "summary": "画像生成・編集の処理をノードで接続し、ワークフローとして再利用できる。公式テンプレートにはP-H3-Imageで参照画像を編集する例がある。[公式編集テンプレート](https://github.com/Comfy-Org/workflow_templates/blob/main/templates/image_p_h"
     },
     {
       "repo": "xinntao/Real-ESRGAN",
