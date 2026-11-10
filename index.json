@@ -1,5 +1,5 @@
 {
-  "count": 675,
+  "count": 676,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -7251,6 +7251,37 @@
       "fetched_at": "2026-11-10T09:19:25Z",
       "path": "entries/coding-agent/motionsites-ai-claude-skill.md",
       "summary": "Claudeが作例と映像素材を参照し、実装仕様を作ってランディングページを構築する。作者のREADMEによると、実装後はスクリーンショットとQAスクリプトで素材切れ、モバイル幅でのはみ出し、フォント、動画再生を点検する。"
+    },
+    {
+      "repo": "xai-org/plugin-marketplace",
+      "name": "xAI Plugin Marketplace",
+      "genre": "coding-agent",
+      "url": "https://github.com/xai-org/plugin-marketplace",
+      "stars": 325,
+      "forks": 1222,
+      "open_issues": 1287,
+      "size_kb": 3010,
+      "language": "Python",
+      "created": "2026-05-15",
+      "updated": "2026-11-09",
+      "archived": false,
+      "license": "unknown",
+      "commits_30d": 31,
+      "commits_90d": 81,
+      "commit_cadence": "daily",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "['最新リリースのタグと公開日は未確認。プラグインの導入・実行、個別機能の有効性や安全性、料金、ライセンスおよび利用条件は未検証。README は公開 raw URL で確認した。'] GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/thegreatest_sv/status/2117591176048005131"
+      ],
+      "fetched_at": "2026-11-10T09:44:32+00:00",
+      "path": "entries/coding-agent/xai-org-plugin-marketplace.md",
+      "summary": "Grok Build 向けプラグインの取得元をカタログで探し、生成済みの索引でスキル、コマンド、サブエージェント、フック、MCP・LSP サーバーなどの同梱機能を導入前に確認できる。 [README](https://raw.githubusercontent.com/xai-org/plugin-marketplac"
     },
     {
       "type": "repo",
