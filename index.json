@@ -1,5 +1,5 @@
 {
-  "count": 677,
+  "count": 678,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -14609,6 +14609,39 @@
       "last_release_at": "",
       "path": "entries/prompt-design/tommy0103-better-readme-skill.md",
       "summary": "README を「認知ファネル」の順（名前 → 一行説明 → 必要なら背景 → 実行できる使い方 → インストール → API → 注意点 → コントリビュート → ライセンス）に照らして監査し、崩れている箇所を名指しする。"
+    },
+    {
+      "repo": "ellelion/botteams",
+      "name": "Grok Bot Teams",
+      "genre": "prompt-design",
+      "url": "https://github.com/ellelion/botteams",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": [
+        "Grok Bot上での導入成功率、生成結果、実行時の料金、最新リリースは未確認。コネクタごとの動作も実機では確認していない。"
+      ],
+      "stars": 26,
+      "forks": 6,
+      "open_issues": 1,
+      "size_kb": 3696,
+      "language": "TypeScript",
+      "created": "2026-08-20",
+      "updated": "2026-09-08",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 0,
+      "commits_90d": 100,
+      "commit_cadence": "monthly",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/thegreatest_sv/status/2117591176048005131"
+      ],
+      "fetched_at": "2026-11-10T09:46:03+00:00",
+      "path": "entries/prompt-design/ellelion-botteams.md",
+      "summary": "チームのBot構成、グループチャット、定期処理をまとめたレシピから導入用プロンプトを生成できる。"
     },
     {
       "type": "repo",
