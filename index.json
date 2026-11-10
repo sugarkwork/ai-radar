@@ -1,5 +1,5 @@
 {
-  "count": 612,
+  "count": 613,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -5513,6 +5513,23 @@
       ],
       "fetched_at": "2026-11-08T06:51:00+00:00",
       "path": "articles/2026-10-16-y0urdumble-dumble-the-johnson-brothers-ai.md"
+    },
+    {
+      "name": "The attack chain behind the v1.107.0 LiteLLM release",
+      "genre": "article",
+      "url": "https://docs.litellm.ai/blog/security-incident-oct-21-2026-attack-chain",
+      "author": "Oliver Jensen、Mateo Wang（LiteLLM）",
+      "published": "2026-10-23",
+      "flags": [],
+      "risk_notes": "配布物の比較や挙動の再現は行っていない。侵入経路はLiteLLMの調査報告に、Python起動時の挙動はMicrosoftの配布物解析と端末観測に基づく。個別環境での実行や認証情報の流出は別途確認が必要。",
+      "type": "article",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/AiAircle34052/status/2115658642632716373"
+      ],
+      "fetched_at": "2026-11-10T05:45:12Z",
+      "path": "articles/2026-10-23-oliver-jensen-mateo-wang-litellm-the-attack-chain-behind-the-v1.107.0-litellm-release.md"
     },
     {
       "name": "TokenSpeedのQwen3.8-Flash-Next推論測定",

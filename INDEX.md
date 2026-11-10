@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 612 件 — リポジトリ 331, リンク集 113, 記事 101, モデル 53, プロンプト 14 / ⚑ 要確認 404 件
+収録 613 件 — リポジトリ 331, リンク集 113, 記事 102, モデル 53, プロンプト 14 / ⚑ 要確認 404 件
 
 ## リポジトリ（331）
 
@@ -874,9 +874,9 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（101）
+## 記事（102）
 
-### 記事（47）
+### 記事（48）
 
 - **[$0のデジタル参謀長で月$80,000の契約候補を作ったというX投稿（動画付き）](articles/2026-10-22-bober_smart-0-80-000-x.md)** ⚑  @Bober_smart
 - **[1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md)** ⚑  @mukadeshinigami（mukade死神）
@@ -911,6 +911,7 @@
 - **[RenderのAIエージェント向けドキュメント設計](articles/2026-11-07-brenden-house-render-ai.md)** ⚑  Brenden House
 - **[See's Candies 1972→1998——$25Mが$60Mを生んだ理由を、バフェットがMBA学生に語った](articles/1998-10-15-warren-buffett-see-s-candies-1972-1998-25m-60m-mba-12d8279960.md)** ⚑  Warren Buffett
 - **[The Johnson brothers — AIキャラを「家族」に増やす成長プレイブック](articles/2026-10-16-y0urdumble-dumble-the-johnson-brothers-ai.md)** ⚑  @Y0urDumble (Dumble)
+- **[The attack chain behind the v1.107.0 LiteLLM release](articles/2026-10-23-oliver-jensen-mateo-wang-litellm-the-attack-chain-behind-the-v1.107.0-litellm-release.md)**  Oliver Jensen、Mateo Wang（LiteLLM）
 - **[TokenSpeedのQwen3.8-Flash-Next推論測定](articles/2026-10-13-tokenspeed-team-tokenspeed-qwen3.8-flash-next.md)** ⚑  TokenSpeed Team
 - **[Xのアカウントデータを使った自己点検の提案](articles/2026-10-23-jarvis11x-x.md)** ⚑  @jarvis11x
 - **[iPhone『削除済み写真173,521件』主張の検証（PhotoData/Thumbnails）](articles/2026-10-25-bober_smart-iphone-173-521-photodata-thumbnails.md)** ⚑  Bober_smart
