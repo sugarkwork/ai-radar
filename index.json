@@ -1,5 +1,5 @@
 {
-  "count": 591,
+  "count": 592,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -5284,6 +5284,25 @@
       "fetched_at": "2026-11-06T18:28:40Z",
       "source_post": "https://x.com/preferred_jp/status/2118134261912092801",
       "path": "articles/2026-11-05-emma-eva-note-emma_and_eva-pfn-llm-plamo-3-translate-windows-mac-linux.md"
+    },
+    {
+      "name": "RenderのAIエージェント向けドキュメント設計",
+      "genre": "article",
+      "url": "https://x.com/brendenvonhouse/status/2119180828576268318",
+      "author": "Brenden House",
+      "published": "2026-11-07",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "公開日はUTC。投稿後半と導入効果は未確認。",
+      "type": "article",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/brendenvonhouse/status/2119180828576268318"
+      ],
+      "fetched_at": "2026-11-10T04:04:31Z",
+      "path": "articles/2026-11-07-brenden-house-render-ai.md"
     },
     {
       "name": "See's Candies 1972→1998——$25Mが$60Mを生んだ理由を、バフェットがMBA学生に語った",
