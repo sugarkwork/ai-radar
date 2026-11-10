@@ -1,5 +1,5 @@
 {
-  "count": 589,
+  "count": 590,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -5185,6 +5185,25 @@
       ],
       "fetched_at": "2026-11-10T04:01:56Z",
       "path": "articles/2026-09-30-bernat-vadell-kev-0.8b.md"
+    },
+    {
+      "name": "Kevによる文書分類と処理経路判定の第2回実験",
+      "genre": "article",
+      "url": "https://x.com/bernvadell/status/2106130876337692989",
+      "author": "Bernat Vadell",
+      "published": "2026-10-02",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "公開日はUTC。実験条件と再現性は未確認。",
+      "type": "article",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/bernvadell/status/2106130876337692989"
+      ],
+      "fetched_at": "2026-11-10T13:03:23+09:00",
+      "path": "articles/2026-10-02-bernat-vadell-kev-2.md"
     },
     {
       "name": "Kiroの転売をめぐる書簡画像の投稿",
