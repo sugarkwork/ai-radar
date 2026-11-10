@@ -1,5 +1,5 @@
 {
-  "count": 715,
+  "count": 716,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -14492,6 +14492,37 @@
       "fetched_at": "2026-11-10T09:06:21Z",
       "path": "entries/other/0xcodez-duodesk.md",
       "summary": "README によると、Mac・Windows・Linux・Android 間でマウスとキーボード、クリップボード、ファイルを共有できる。機能ごとの対応条件は端末や OS によって異なる。"
+    },
+    {
+      "repo": "aa1143/NamiAgent",
+      "name": "NamiAgent",
+      "genre": "other",
+      "url": "https://github.com/aa1143/NamiAgent",
+      "stars": 483,
+      "forks": 53,
+      "open_issues": 1,
+      "size_kb": 2554,
+      "language": "Python",
+      "created": "2026-10-30",
+      "updated": "2026-10-30",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 20,
+      "commits_90d": 20,
+      "commit_cadence": "daily",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "最新リリース、テストの成功、デモと実モデルの動作、権限機構の実効性、モデルAPIの料金は未確認。著者は、権限機構で意図的な攻撃を防げないと明記している。",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/Ryrenz/status/2117921052726538618"
+      ],
+      "fetched_at": "2026-11-10T10:58:16+00:00",
+      "path": "entries/other/aa1143-namiagent.md",
+      "summary": "第1〜11課のコードを比較し、ツール、権限、コンテキスト管理、Skills、MCP、子エージェント、計画、記憶を段階的に学べる。第12〜18課は既存エージェントの解説記事。"
     },
     {
       "repo": "amirmushichge/pixel-plays",
