@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 578 件 — リポジトリ 327, リンク集 108, 記事 76, モデル 53, プロンプト 14 / ⚑ 要確認 371 件
+収録 579 件 — リポジトリ 327, リンク集 108, 記事 77, モデル 53, プロンプト 14 / ⚑ 要確認 372 件
 
 ## リポジトリ（327）
 
@@ -860,9 +860,9 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（76）
+## 記事（77）
 
-### 記事（24）
+### 記事（25）
 
 - **[$0のデジタル参謀長で月$80,000の契約候補を作ったというX投稿（動画付き）](articles/2026-10-22-bober_smart-0-80-000-x.md)** ⚑  @Bober_smart
 - **[1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md)** ⚑  @mukadeshinigami（mukade死神）
@@ -876,6 +876,7 @@
 - **[Claude Code に Blender シーンを Python で書かせ、ヘッドレスで回す6段階](articles/2026-10-22-y0urdumble-claude-code-blender-python-6.md)** ⚑  @Y0urDumble
 - **[Control Room](articles/2026-11-09-openai-control-room.md)** ⚑  OpenAI
 - **[Eddie Woo の対数講義――「何倍になるまでの時間」を1本の対数で読む](articles/2026-09-14-xsmryze-eddie-woo-1-589eee2ad8.md)** ⚑  xsmryze
+- **[Kiroの転売をめぐる書簡画像の投稿](articles/2026-10-23-lniosytest-kiro.md)** ⚑  @Lniosytest
 - **[Last Lecture Series: “How to Win Without Crushing Your Soul” - Graham Weaver（Stanford GSB Class of 2026）](articles/2026-07-14-graham-weaver-stanford-graduate-school-of-business-last-lecture-series-how-to-win-without-f6d1f4ee42.md)** ⚑  Graham Weaver（Stanford Graduate School of Business 公式チャンネル）
 - **[PFNの翻訳特化LLM「PLaMo 3 Translate」をスマホ・Windows・Mac・Linuxに入れる方法](articles/2026-11-05-emma-eva-note-emma_and_eva-pfn-llm-plamo-3-translate-windows-mac-linux.md)** ⚑  Emma先生 & Eva先生（note: emma_and_eva）
 - **[See's Candies 1972→1998——$25Mが$60Mを生んだ理由を、バフェットがMBA学生に語った](articles/1998-10-15-warren-buffett-see-s-candies-1972-1998-25m-60m-mba-12d8279960.md)** ⚑  Warren Buffett
@@ -1086,6 +1087,7 @@
 - [Claude Code に Blender シーンを Python で書かせ、ヘッドレスで回す6段階](articles/2026-10-22-y0urdumble-claude-code-blender-python-6.md) — unverified, low-quality / 主張: 719 voxels・12 joints・16秒/120bpm・音楽も Python 合成・参考画像1枚で修正・『Opus 5.5 が無料でやった』『Blender を一度も開いていない』。確認できた: blender -b（UIなし）と -P（スクリプト実行）は公式引数で、-f によるフレーム単位レンダーも公式。EEVEE は実在しラスタライズ方式。Blender 5.2.3 LTS は投稿当日の 2026-10-22 リリースで無料（GPL）。動画は実測 16.04 秒で『16 sec』と一致。確認できず: 719 voxels / 12 joints / 120bpm / 音楽合成のいずれも投稿と動画キャプション以外の裏付けがなく、再現スクリプトも第三者検証もない。手順3の t.co は scene.py が URL と誤認されたもので資料ではない。誤り・誇張: Free プランに Claude Code は含まれず『無料』は不正確（Pro 月20ドル、Opus 5.5 API は $4/$20 per MTok）。動画のオーバーレイは『CLAUDE OPUS 5.5 x BLENDER MCP』『mcp.connect(blender)』で、ヘッドレス実行とも『一度も開いていない』とも食い違う。『28 beats . 120 bpm』は14秒、ログの beats=12 は6秒で、16秒と整合しない。配布物 arjun988/blender-skills は MCP 前提の 94 skills で、headless/719/120bpm/12 joints の記述は0件——投稿の主張と配布物の実体は別物。『3Dはドリフトしない』は形状のみで、ライティング・フレーミング・アニメーションで印象は変わる（返信で同旨の指摘、著者も同意）。記事本文はログイン必須で未取得のため、記事内の詳細・コード・プロンプトは未確認。
 - [Control Room](articles/2026-11-09-openai-control-room.md) — unverified / 停止まで最大35秒はOpenAIの研究環境についての公表値。独立した計測や稼働環境での再現は行っていない。外部向けの実装・APIの提供は公式記事で確認できない。
 - [Eddie Woo の対数講義――「何倍になるまでの時間」を1本の対数で読む](articles/2026-09-14-xsmryze-eddie-woo-1-589eee2ad8.md) — unverified / 主張: 投資が何倍になるまでの時間は対数1本で、Eddie Woo の5分の講義がそれを自明にする、という投稿。確認できたこと: Eddie Woo はシドニーの公立高校数学教師で、YouTube @misterwootube は登録者2.01M・5,043本・191,145,357回再生（2026-11-09取得）。添付動画は7分51秒の実授業映像で、白板の LOGARITHMS / 2^5=32 / log_2 32=5 / log_3 81=4 と 2,4,8,16,32・3,9,27,81 の説明が Woo の「Introduction to Logarithms (1 of 2: Definition)」（7:52, 2017-08-30）の内容と一致。数学も正しい（log_3 81=4、倍加時間 ln2/ln(1+r)、Rule of 72 は近似）。未確認: 引用元X記事（x.com/i/article/2087190920026365952）の本文はログイン要求で取得できず、fetch_article.py も失敗。動画の音声は未転記で、投稿の「5分で」は実際の7分51秒と一致しない。Rule of 72 は近似であり、実務では変動リターン・手数料・税金で変わる点は投稿に無い。
+- [Kiroの転売をめぐる書簡画像の投稿](articles/2026-10-23-lniosytest-kiro.md) — unverified / 公開日はJST。書簡の真正性、宛先と送達は未確認。
 - [Last Lecture Series: “How to Win Without Crushing Your Soul” - Graham Weaver（Stanford GSB Class of 2026）](articles/2026-07-14-graham-weaver-stanford-graduate-school-of-business-last-lecture-series-how-to-win-without-f6d1f4ee42.md) — unverified / 確認できたこと: 公式YouTube（Stanford GSB チャンネル）に講演が実在し、タイトルは「Last Lecture Series: “How to Win Without Crushing Your Soul” - Graham Weaver」、公開日 2026-07-14、尺 34:01、Class of 2026 向けの Last Lecture であること（YouTube概要・本人ブログ・本人Instagramで一致）。Weaver は Stanford GSB の Lecturer in Management で Alpine Investors の創業者（GSB教員ページ・Alpine公式）。講演の3実践と引用の多くは公式字幕と一致。誤り・未確認: (1)「10 million people watched」はこの動画単体では約263万回（2026-11-09時点）。WeaverのGSB講演5本の合計が約1,030万回なので、合算を単体の数字として書いた可能性が高い。(2)「33 minutes」は公式34:01、投稿添付クリップは33:31で、切り抜き側の尺。(3)「$16 billion」はAlpine公式の現行表記（$18.8B、25周年ページでは2026-06-30時点$17.7B）より古く過小。(4)「life coaches charge $500 an hour」は一次情報を確認できず未検証。(5) 引用ブロックの「achievement cannot fix self hatred」「what you avoid grows」「unless you skip them」は講演の逐語ではなく投稿者による要約・脚色（講演本体は「I just didn't really like myself」「your nail is the thing you're avoiding」「You're in the good old days now」）。(6) 添付動画は同一講演の再アップロードとみられ、会場・人物・衣装・尺が公式と一致するが、音声の波形一致やフレーム単位の同一性は未確認。講演自体に効果の対照試験や追跡データはなく、内容は本人の体験談と実践の提案である。
 - [PFNの翻訳特化LLM「PLaMo 3 Translate」をスマホ・Windows・Mac・Linuxに入れる方法](articles/2026-11-05-emma-eva-note-emma_and_eva-pfn-llm-plamo-3-translate-windows-mac-linux.md) — unverified / PFN 公式ブログではなく第三者アカウントのまとめ記事。ベンチマーク優位は PFN 自身の評価の引用、iPhone の 0.515 秒は GIGAZINE の 1 回計測の引用で独立検証なし。winget での llama.cpp 導入、PocketPal AI での 0.8B 読み込み手順、llama.app のインストールスクリプト（取得したスクリプトをシェルに渡す方式）は本文の記述のみで未検証。記事末尾は著者の有料講義の宣伝。
 - [See's Candies 1972→1998——$25Mが$60Mを生んだ理由を、バフェットがMBA学生に語った](articles/1998-10-15-warren-buffett-see-s-candies-1972-1998-25m-60m-mba-12d8279960.md) — unverified / 【投稿の主張】1972年に$25Mで買収、当時は年$4M。1998年には同じレシピ・追加資本ほぼなしで$60M。16Mポンド@$1.95の箱が$2.25で売れるかが唯一の論点。1998年は30Mポンド@$2/ポンドで、$60Mのうち$55Mがクリスマス前3週。毎年12月26日に値上げ。コンサルなし、デューデリは箱を買って食べるだけ。カリフォルニアの「share of mind」と、店員の笑顔がmoatを広げる。【一次情報で確認できたこと】Tilson公開の講演全文（1998-10-15、University of Florida School of Business、Graham-Buffett Teaching Endowment第1回）に、$25M・16Mポンド・$1.95/ポンド・$4M税前・6.25x pre-tax、$60M・$2 per pound on 30 million pounds・$55M in the three weeks before Christmas・12月26日の値上げ・コンサル無し/箱を買って食べた・販売員の笑顔でmoatが広がる、がすべて原文どおり存在。1998年通期のSee's税前利益は$62M（1998年書簡の税前利益表）で、10月時点の「$60M」という当年見込みは妥当。2007年書簡で1972年16Mポンド/売上$30M/税前$5M未満/必要資本$8M、2007年31Mポンド/売上$383M/税前$82M/累計税前$1.35B/追加資本$32Mを確認。【誤り・注意】(1)「1998年は30Mポンド@$2/ポンド」は単位の取り違え。原文は「We will make $2 per pound on 30 million pounds」＝1ポンドあたり$2の“利益”で合計$60M。同じ講演で「See'sは今$11/ポンド」と述べており、$2は販売価格ではない。$2を価格と読むと30M×$2=$60Mが売上になり、税前利益$60Mと二重計上になる（1998年売上は約$330M）。2007年は$383M/31Mポンド≒$12.35/ポンド。(2)「earned $4 million a year」は税前。本人は10x after-taxとも言っており、税引後は約$2.5M。(3)買収主体はBlue Chip Stamps（BuffettとMungerが支配、後にBerkshireへ合併）。「Buffettが$25M払った」は略記。(4)「no market research」は原文にない。原文は「コンサルを雇ったことがない。コンサル的代わりに箱を買って食べた」。(5)「ten years later you can see nothing else」は原文「You can't see the moat day by day... Ten years from now, you will see the difference」の脚色。(6)「the girl behind the counter is the asset」は投稿者の解釈。原文は「商品を売る人もproduct deliveryの一部」「笑顔ならmoatは広がり、しかめ面なら狭まる」。(7)$55M/3週はBuffett本人の発言だが監査数字ではなく自己申告。1998年通期$62Mとは整合するが四半期別の検証はしていない。(8)Buffettの数字は年により概数で揺れる。16M→30M（26年、年2.4%）と16M→31M/年2%（35年）は同じ人物の別年度発言で内部整合しない。1972年も$1.95×16M=$31.2Mに対し書簡の売上は$30M。桁は合うが一致しない。【未確認】引用元X記事2087190920026365952は非ログインでHTTP 307→ログイン画面になり本文を読めていない（投稿の要約がこの講義のものかは未確認）。添付動画は取得して320x240・84分35秒を実測し、5秒と42分台のフレームでUniversity of Floridaの演台とBuffett本人を確認したが、音声の全編照合はしていない（See'sの説明が42:14頃というのは文字起こしサイトの情報で、当該時刻の映像フレームのみ確認）。

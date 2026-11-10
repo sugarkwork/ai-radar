@@ -1,5 +1,5 @@
 {
-  "count": 578,
+  "count": 579,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -5109,6 +5109,25 @@
       ],
       "fetched_at": "2026-11-09T09:32:39Z",
       "path": "articles/2026-09-14-xsmryze-eddie-woo-1-589eee2ad8.md"
+    },
+    {
+      "name": "Kiroの転売をめぐる書簡画像の投稿",
+      "genre": "article",
+      "url": "https://x.com/Lniosytest/status/2113334776459378781",
+      "author": "@Lniosytest",
+      "published": "2026-10-23",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "公開日はJST。書簡の真正性、宛先と送達は未確認。",
+      "type": "article",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/jarvis11x/status/2113481977466646556"
+      ],
+      "fetched_at": "2026-11-10T03:32:31Z",
+      "path": "articles/2026-10-23-lniosytest-kiro.md"
     },
     {
       "name": "Last Lecture Series: “How to Win Without Crushing Your Soul” - Graham Weaver（Stanford GSB Class of 2026）",
