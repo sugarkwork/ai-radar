@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 606 件 — リポジトリ 331, リンク集 113, 記事 95, モデル 53, プロンプト 14 / ⚑ 要確認 398 件
+収録 607 件 — リポジトリ 331, リンク集 113, 記事 96, モデル 53, プロンプト 14 / ⚑ 要確認 399 件
 
 ## リポジトリ（331）
 
@@ -874,9 +874,9 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（95）
+## 記事（96）
 
-### 記事（43）
+### 記事（44）
 
 - **[$0のデジタル参謀長で月$80,000の契約候補を作ったというX投稿（動画付き）](articles/2026-10-22-bober_smart-0-80-000-x.md)** ⚑  @Bober_smart
 - **[1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md)** ⚑  @mukadeshinigami（mukade死神）
@@ -918,6 +918,7 @@
 - **[ローカルAI推論で速度が次の課題になるという論考](articles/2026-10-01-bernat-vadell-ai.md)** ⚑  Bernat Vadell
 - **[公開済みサイトのSEO・GEO監査と再測定](articles/2026-09-02-jarvis11x-seo-geo.md)** ⚑  @jarvis11x
 - **[動画サイトの月途中の売上報告](articles/2026-10-14-jarvis11x-2dae9ce2.md)** ⚑  @jarvis11x
+- **[業務エージェントの共通基盤と用途別テンプレート](articles/2026-11-07-mike-gannotti-5de4a7af.md)** ⚑  Mike Gannotti
 - **[業務手順の構築と運用でエージェントの役割を分ける提案](articles/2026-10-09-bernat-vadell-b4c1fb04.md)** ⚑  Bernat Vadell
 - **[海外版noteで日本語の知識を英語圏に販売するAI活用記事](articles/2026-11-09-https-x.com-i-article-2117172572655849472.md)** ⚑  @pometa_afi
 - **[自主制作AIドラマ《最后的巨魔》](articles/2026-10-22-jiuyueaigc-ai.md)** ⚑  @JiuYueAIGC
@@ -1147,6 +1148,7 @@
 - [ローカルAI推論で速度が次の課題になるという論考](articles/2026-10-01-bernat-vadell-ai.md) — unverified / 速度の例示は実測値ではなく、将来予測。
 - [公開済みサイトのSEO・GEO監査と再測定](articles/2026-09-02-jarvis11x-seo-geo.md) — unverified / 計測期間が異なり、SEO施策の効果と売上への寄与は独立検証できていない。
 - [動画サイトの月途中の売上報告](articles/2026-10-14-jarvis11x-2dae9ce2.md) — unverified / 本文と日付は公開ミラー経由。売上の真正性とSEOの効果は未確認。
+- [業務エージェントの共通基盤と用途別テンプレート](articles/2026-11-07-mike-gannotti-5de4a7af.md) — unverified / 公開日は共有投稿のUTC日付。運用実績と費用対効果は未検証。
 - [業務手順の構築と運用でエージェントの役割を分ける提案](articles/2026-10-09-bernat-vadell-b4c1fb04.md) — unverified / 公開日はUTC。製品の提供状況と効果は未確認。
 - [海外版noteで日本語の知識を英語圏に販売するAI活用記事](articles/2026-11-09-https-x.com-i-article-2117172572655849472.md) — unverified, low-quality / 年500万円・価格7〜10倍は著者の自己申告。収益の再現性、PDFの内容・料金・権利条件は未確認。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [自主制作AIドラマ《最后的巨魔》](articles/2026-10-22-jiuyueaigc-ai.md) — unverified / 再生数と制作ツールは未確認。

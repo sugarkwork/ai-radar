@@ -1,5 +1,5 @@
 {
-  "count": 606,
+  "count": 607,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -5658,6 +5658,25 @@
       ],
       "fetched_at": "2026-11-10T12:05:03+09:00",
       "path": "articles/2026-10-14-jarvis11x-2dae9ce2.md"
+    },
+    {
+      "name": "業務エージェントの共通基盤と用途別テンプレート",
+      "genre": "article",
+      "url": "https://x.com/i/article/2119183829785305088",
+      "author": "Mike Gannotti",
+      "published": "2026-11-07",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "公開日は共有投稿のUTC日付。運用実績と費用対効果は未検証。",
+      "type": "article",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/MichaelGannotti/status/2119186689419772100"
+      ],
+      "fetched_at": "2026-11-10T13:16:49+09:00",
+      "path": "articles/2026-11-07-mike-gannotti-5de4a7af.md"
     },
     {
       "name": "業務手順の構築と運用でエージェントの役割を分ける提案",
