@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 695 件 — リポジトリ 391, リンク集 113, 記事 124, モデル 53, プロンプト 14 / ⚑ 要確認 485 件
+収録 696 件 — リポジトリ 392, リンク集 113, 記事 124, モデル 53, プロンプト 14 / ⚑ 要確認 486 件
 
-## リポジトリ（391）
+## リポジトリ（392）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -206,7 +206,7 @@
 | [VRMExMR](entries/3d-motion/camenduru-vrmexmr.md) ⚑ | 15 | 0 | 毎日 | 39 | 2026-11-05 | 2026-11-09 | 2026-11-10 | 未確認（API は NOASSERTION。ExMR 側の条件を確認） |
 | [Lida-V/LidaAngelToon](entries/3d-motion/lida-v-lidaangeltoon.md) ⚑ | 6 | 0 | 週次 | 13 | 2026-10-17 | 2026-11-09 | 2026-11-10 | NOASSERTION |
 
-### コーディングエージェント（35）
+### コーディングエージェント（36）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -232,6 +232,7 @@
 | [ZSeven-W/openpencil](entries/coding-agent/zseven-w-openpencil.md) ⚑ | 7,172 | 625 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
 | [billion-context](entries/coding-agent/ranxianglei-billion-context.md) ⚑ | 5,714 | 433 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | NOASSERTION |
 | [TokenEconomizer](entries/coding-agent/microsoft-tokeneconomizer.md) ⚑ | 5,576 | 345 | 毎日 | 100+ | 2026-11-08 | 2026-11-10 | 2026-11-10 | Apache-2.0 |
+| [obsidian-second-brain](entries/coding-agent/eugeniughelbur-obsidian-second-brain.md) ⚑ | 5,252 | 643 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | MIT |
 | [obsidianmd/obsidian-sample-plugin](entries/coding-agent/obsidianmd-obsidian-sample-plugin.md) ⚑ | 4,672 | 1,810 | 停滞 | 0 | 2026-08-02 | 2026-11-09 | 2026-11-10 | 0BSD |
 | [pstack-claude](entries/coding-agent/michael-denyer-pstack-claude.md) ⚑ | 4,178 | 381 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
 | [tstack](entries/coding-agent/t3dotgg-tstack.md) ⚑ | 3,411 | 258 | 週次 | 5 | 2026-10-28 | 2026-11-10 | 2026-11-10 | MIT |
@@ -1287,6 +1288,7 @@
 - [ZSeven-W/openpencil](entries/coding-agent/zseven-w-openpencil.md) — unverified / 「普通模式」という機能名は原チェックで裏付けなし。宣伝動画制作に使ったRenoise MCPは外部有料サービスで本体の無料機能ではない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [billion-context](entries/coding-agent/ranxianglei-billion-context.md) — unverified / ライセンスはMIT本文に加え、利用者が触れる製品・サービスのページや文書等への目立つ出典表示義務がある独自条件。純粋なMITと同一ではない。性能は作者報告で独立検証していない。 実行・品質は未検証。
 - [TokenEconomizer](entries/coding-agent/microsoft-tokeneconomizer.md) — unverified / 最新リリースの公開日時は未確認。導入と動作は実機で再現しておらず、掲載の削減率は著者のベンチマークに限られる。別のリポジトリやモデルでの効果は未確認。
+- [obsidian-second-brain](entries/coding-agent/eugeniughelbur-obsidian-second-brain.md) — unverified / README に基づく文書確認。最新版リリース、実環境での導入・各 CLI の動作、検索精度、外部サービスの料金は未確認。
 - [obsidianmd/obsidian-sample-plugin](entries/coding-agent/obsidianmd-obsidian-sample-plugin.md) — unverified / 0BSDは雛形の条件で、組み込む他のコードやObsidian本体の条件は別。ビルド・プラグイン起動は未確認。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [pstack-claude](entries/coding-agent/michael-denyer-pstack-claude.md) — unverified / 投稿の media は対象と無関係な日本語ニュース系の転載（静止画は著名人のポートレートで、リポジトリやAIツールの内容を含まない）。動画 mp4 は vision で内容を確認できないため評価に使っていない。effectiveness は README の記述＝作者の主張で、第三者による効果測定は公開されていない。Codex / Copilot / Pi などの対応は各ランタイム向けマッピングと synthetic provider のスモークテストに基づく自己申告で、実モデルの遵守は一部しか確認されていないと docs/reference.md に注記がある。
 - [tstack](entries/coding-agent/t3dotgg-tstack.md) — unverified / 各スキルの実行結果、Claude CodeとCodex間の挙動差、レビュー品質や作業時間への効果は未検証。GitHubの公開Releases一覧には掲載なし。

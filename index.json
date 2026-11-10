@@ -1,5 +1,5 @@
 {
-  "count": 695,
+  "count": 696,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -7164,6 +7164,37 @@
       "fetched_at": "2026-11-10T09:19:56Z",
       "path": "entries/coding-agent/microsoft-tokeneconomizer.md",
       "summary": "過去セッションからリポジトリ固有の知識を抽出して再利用し、未使用ツールを後続セッションから外し、同じ失敗が続くと別のアプローチを促す。知識の再利用機能は既定でオフ。"
+    },
+    {
+      "name": "obsidian-second-brain",
+      "genre": "coding-agent",
+      "url": "https://github.com/eugeniughelbur/obsidian-second-brain",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "README に基づく文書確認。最新版リリース、実環境での導入・各 CLI の動作、検索精度、外部サービスの料金は未確認。",
+      "repo": "eugeniughelbur/obsidian-second-brain",
+      "stars": 5252,
+      "forks": 643,
+      "open_issues": 8,
+      "size_kb": 26749,
+      "language": "Python",
+      "created": "2026-03-24",
+      "updated": "2026-11-10",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 100,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/Bober_smart/status/2117619229465641097"
+      ],
+      "fetched_at": "2026-11-10T10:02:48+00:00",
+      "path": "entries/coding-agent/eugeniughelbur-obsidian-second-brain.md",
+      "summary": "会話からノートを保存し、保管庫の記録を検索して後続セッションで参照できる。README には検索品質を recall@k と MRR で測る評価コマンドも記載されている。"
     },
     {
       "type": "repo",
