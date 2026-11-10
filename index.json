@@ -1,5 +1,5 @@
 {
-  "count": 616,
+  "count": 617,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -5299,6 +5299,25 @@
       ],
       "fetched_at": "2026-11-10T04:10:32Z",
       "path": "articles/2026-11-06-github-github-copilot-11-2.md"
+    },
+    {
+      "name": "Introducing System One Models & Jev",
+      "genre": "article",
+      "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+      "author": "Diogo Almeida（TypeSafe AI）",
+      "published": "2026-09-15",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "速度・精度・確率の較正は独立に実測していない。候補投稿のPokémon Red以外のデモ、現行の利用条件およびモデル重みの配布条件は未確認。",
+      "type": "article",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/thegreatest_sv/status/2115779290033803462"
+      ],
+      "fetched_at": "2026-11-10T05:49:02Z",
+      "path": "articles/2026-09-15-diogo-almeida-typesafe-ai-introducing-system-one-models-jev.md"
     },
     {
       "name": "Kev 0.8Bによる複数ラベル文書分類の試行",

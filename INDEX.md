@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 616 件 — リポジトリ 331, リンク集 113, 記事 105, モデル 53, プロンプト 14 / ⚑ 要確認 407 件
+収録 617 件 — リポジトリ 331, リンク集 113, 記事 106, モデル 53, プロンプト 14 / ⚑ 要確認 408 件
 
 ## リポジトリ（331）
 
@@ -874,9 +874,9 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（105）
+## 記事（106）
 
-### 記事（50）
+### 記事（51）
 
 - **[$0のデジタル参謀長で月$80,000の契約候補を作ったというX投稿（動画付き）](articles/2026-10-22-bober_smart-0-80-000-x.md)** ⚑  @Bober_smart
 - **[1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md)** ⚑  @mukadeshinigami（mukade死神）
@@ -900,6 +900,7 @@
 - **[GPT‑6 Cyber の公式発表](articles/2026-11-05-openai-gpt-6-cyber.md)** ⚑  OpenAI
 - **[Genesis Agent Skillsの公開発表](articles/2026-10-15-u.s.-department-of-energy-office-of-science-genesis-agent-skills.md)** ⚑  U.S. Department of Energy Office of Science
 - **[GitHub Copilot週次更新（11月2日の週）](articles/2026-11-06-github-github-copilot-11-2.md)** ⚑  GitHub
+- **[Introducing System One Models & Jev](articles/2026-09-15-diogo-almeida-typesafe-ai-introducing-system-one-models-jev.md)** ⚑  Diogo Almeida（TypeSafe AI）
 - **[Kev 0.8Bによる複数ラベル文書分類の試行](articles/2026-09-30-bernat-vadell-kev-0.8b.md)** ⚑  Bernat Vadell
 - **[Kevによる文書分類と処理経路判定の第2回実験](articles/2026-10-02-bernat-vadell-kev-2.md)** ⚑  Bernat Vadell
 - **[Kiroの転売をめぐる書簡画像の投稿](articles/2026-10-23-lniosytest-kiro.md)** ⚑  @Lniosytest
@@ -1139,6 +1140,7 @@
 - [GPT‑6 Cyber の公式発表](articles/2026-11-05-openai-gpt-6-cyber.md) — unverified / Firefox と Linux の件数および評価スコアは OpenAI の報告値。個別事例の再現、修正の網羅性、実運用環境での評価結果の一般化は未検証。
 - [Genesis Agent Skillsの公開発表](articles/2026-10-15-u.s.-department-of-energy-office-of-science-genesis-agent-skills.md) — unverified / 元のX投稿と短縮URLの転送先は未確認。機能は発表元の説明に基づき、対応する実行環境、導入手順、性能や再現性への効果は未検証。
 - [GitHub Copilot週次更新（11月2日の週）](articles/2026-11-06-github-github-copilot-11-2.md) — unverified / Xcode統合はパブリックプレビュー。JetBrains Airのクラウド実行は組織設定に依存。
+- [Introducing System One Models & Jev](articles/2026-09-15-diogo-almeida-typesafe-ai-introducing-system-one-models-jev.md) — unverified / 速度・精度・確率の較正は独立に実測していない。候補投稿のPokémon Red以外のデモ、現行の利用条件およびモデル重みの配布条件は未確認。
 - [Kev 0.8Bによる複数ラベル文書分類の試行](articles/2026-09-30-bernat-vadell-kev-0.8b.md) — unverified / 公開日はUTC。精度・速度は自己申告。評価データと再現性は未確認。
 - [Kevによる文書分類と処理経路判定の第2回実験](articles/2026-10-02-bernat-vadell-kev-2.md) — unverified / 公開日はUTC。実験条件と再現性は未確認。
 - [Kiroの転売をめぐる書簡画像の投稿](articles/2026-10-23-lniosytest-kiro.md) — unverified / 公開日はJST。書簡の真正性、宛先と送達は未確認。
