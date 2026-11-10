@@ -1,5 +1,5 @@
 {
-  "count": 718,
+  "count": 719,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -13880,6 +13880,38 @@
       "fetched_at": "2026-11-09T21:41:03Z",
       "path": "entries/other/googleworkspace-cli.md",
       "summary": "Gmail・Drive・Calendar・Sheets・Docs・Chat・Admin など Workspace の各 API を gws <service> <resource> <method> の1コマンドで呼び、結果を JSON で返す（例: gws drive files list --params '{\"p"
+    },
+    {
+      "repo": "actualbudget/actual",
+      "name": "Actual Budget",
+      "genre": "other",
+      "url": "https://github.com/actualbudget/actual",
+      "stars": 30135,
+      "forks": 3272,
+      "open_issues": 205,
+      "size_kb": 675919,
+      "language": "TypeScript",
+      "created": "2022-04-29",
+      "updated": "2026-11-10",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 100,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "last_release": "v26.11.0",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "定期支出の検出精度、発見投稿のiPhone向けGrok Botの構成と節約額、独自のAI連携手順の動作は未検証。GitHubのリリース表示と公式ノートの日付が異なるため、公開日時は記載していない。",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/thegreatest_sv/status/2117960732184633699"
+      ],
+      "fetched_at": "2026-11-10T11:12:04Z",
+      "path": "entries/other/actualbudget-actual.md",
+      "summary": "SchedulesのFind schedulesで既存取引から定期支払いの候補を出し、確認したものを予定に登録できる。公式文書によると、同じ支払いでも支払先名が一致しないと候補に出ない場合がある。[Schedules](https://actualbudget.org/docs/schedules/)"
     },
     {
       "repo": "citrolabs/ego-lite",
