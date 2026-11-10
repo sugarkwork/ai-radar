@@ -1,5 +1,5 @@
 {
-  "count": 586,
+  "count": 587,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -5147,6 +5147,25 @@
       ],
       "fetched_at": "2026-11-10T03:38:14Z",
       "path": "articles/2026-11-07-gdg-oau-gdg-oau-agent-skills.md"
+    },
+    {
+      "name": "Kev 0.8Bによる複数ラベル文書分類の試行",
+      "genre": "article",
+      "url": "https://x.com/bernvadell/status/2105338893402845673",
+      "author": "Bernat Vadell",
+      "published": "2026-09-30",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "公開日はUTC。精度・速度は自己申告。評価データと再現性は未確認。",
+      "type": "article",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/bernvadell/status/2105338893402845673"
+      ],
+      "fetched_at": "2026-11-10T04:01:56Z",
+      "path": "articles/2026-09-30-bernat-vadell-kev-0.8b.md"
     },
     {
       "name": "Kiroの転売をめぐる書簡画像の投稿",
