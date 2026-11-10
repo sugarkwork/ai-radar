@@ -1,5 +1,5 @@
 {
-  "count": 642,
+  "count": 643,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -18135,6 +18135,37 @@
       "last_release_at": "",
       "path": "entries/video-gen/kablex-comfyui-ref2va-vsa.md",
       "summary": "FastVideo由来VSAゲートをRef2VAへ移植し、映像トークンを疎にして少ステップ生成を高速化する実験ComfyUIノード。"
+    },
+    {
+      "repo": "konlu/story-studio",
+      "name": "Story Studio（故事工坊）",
+      "genre": "video-gen",
+      "url": "https://github.com/konlu/story-studio",
+      "license": "unknown",
+      "stars": 842,
+      "language": "Python",
+      "created": "2026-10-26",
+      "updated": "2026-11-03",
+      "forks": 182,
+      "open_issues": 0,
+      "commits_30d": 3,
+      "commit_cadence": "monthly",
+      "commits_90d": 3,
+      "size_kb": 43077,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "公開文書を確認。依存関係の自動セットアップ、文字起こしと分鏡の整合精度、剪映のバージョン別互換性、最新リリースは未検証。README はコードと Skill 仕様に MIT を明記する一方、GitHub API の計測値は unknown。収録台本・参考画像の個別の再利用条件は未確認。 GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/ganfanren_ai/status/2117245468526944568"
+      ],
+      "fetched_at": "2026-11-10T08:28:58+00:00",
+      "path": "entries/video-gen/konlu-story-studio.md",
+      "summary": "歴史・人物紹介の題材選び、冒頭のフック、口播台本、分鏡と配図、剪映専門版の草稿作成を工程単位で依頼できる。"
     },
     {
       "repo": "cyber-xiaoya/cyber-xiaoya-live",
