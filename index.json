@@ -1,5 +1,5 @@
 {
-  "count": 627,
+  "count": 628,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -4999,6 +4999,25 @@
       ],
       "fetched_at": "2026-11-10T03:04:56Z",
       "path": "articles/2026-10-23-jarvis11x-ai-seo.md"
+    },
+    {
+      "name": "AIアニメ動画を「作って終わり」にしない。0→1で作品を作り、最初の売上につなげる完全ロードマップ",
+      "genre": "article",
+      "url": "https://note.com/okapi_fukugyo/n/ne9674f8897a6",
+      "author": "おかぴ",
+      "published": "2026-10-23",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "有料部分の具体的な手順、使用モデルや実行条件、テンプレートの再配布条件、特典の内容と受取期限、制作手法の再現性と売上への効果は未確認。",
+      "type": "article",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/okapi_fukugyo/status/2116896468040917053"
+      ],
+      "fetched_at": "2026-11-10T06:29:41Z",
+      "path": "articles/2026-10-23-8fa0ce29-ai-0-1.md"
     },
     {
       "type": "article",

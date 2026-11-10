@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 627 件 — リポジトリ 331, リンク集 113, 記事 116, モデル 53, プロンプト 14 / ⚑ 要確認 418 件
+収録 628 件 — リポジトリ 331, リンク集 113, 記事 117, モデル 53, プロンプト 14 / ⚑ 要確認 419 件
 
 ## リポジトリ（331）
 
@@ -874,9 +874,9 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（116）
+## 記事（117）
 
-### 記事（58）
+### 記事（59）
 
 - **[$0のデジタル参謀長で月$80,000の契約候補を作ったというX投稿（動画付き）](articles/2026-10-22-bober_smart-0-80-000-x.md)** ⚑  @Bober_smart
 - **[1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md)** ⚑  @mukadeshinigami（mukade死神）
@@ -885,6 +885,7 @@
 - **[AEGEAN — Three.jsで描く海辺の3D体験](articles/2026-09-30-chetan-ankola-aegean-three.js-3d.md)** ⚑  Chetan Ankola
 - **[AIの出力がバラバラにならなくなる、Pydantic AIの「型で縛る」使い方](articles/2026-10-23-opensourcelab9-ai-pydantic-ai.md)**  opensourcelab9
 - **[AIを使ったSEOと動画サイトの収益報告](articles/2026-10-23-jarvis11x-ai-seo.md)** ⚑  @jarvis11x
+- **[AIアニメ動画を「作って終わり」にしない。0→1で作品を作り、最初の売上につなげる完全ロードマップ](articles/2026-10-23-8fa0ce29-ai-0-1.md)** ⚑  おかぴ
 - **[AIポスターのヤフオク販売ノウハウ（売上未確認）](articles/2026-11-09-https-x.com-knyan151-status-2119039308242063379.md)** ⚑  @knyan151
 - **[AI作品の売れるコンセプト選定に関する販促記事（本文未取得）](articles/2026-11-09-https-x.com-i-article-2118611825109729280.md)** ⚑  @1banana2546
 - **[AI生成コードと障害対応をめぐる逸話](articles/2026-10-23-jarvis11x-ai.md)** ⚑  @jarvis11x
@@ -1135,6 +1136,7 @@
 - [6つのAIツールを統合して就寝中に$832稼いだというX投稿（動画付き）](articles/2026-10-24-bober_smart-6-ai-832-x.md) — unverified, low-quality / 【主張】6つのツール（Opus 5.5 / REA / Jev / Dots / Grok Bot / Obsidian）を統合し、就寝中に配送ドライバー向けの収益管理アプリを自動構築。243登録・31有料×$9=$832、費用はAPI $5.10＋ドメイン$4=$9.10で91倍、$15の上限で$55のドメインを回避した、と投稿は述べる。【確認できた】①投稿の実体（2026-10-24T18:39:54Z、likes 1,087 / views 130,279 / bookmarks 1,579、本文に外部URLは0件）。②動画の実体（HTTP 200、25,805,564 bytes、19.95秒、1080x1350・60fps、カットは3/9/12/18秒の4箇所）。③6ツールの実在：Claude Opus 5.5 は Anthropic が2026-09-22に公開（$4/$20 per MTok）、REA は morluto/rea（MIT、リバースエンジニアリング用MCP）、Jev は TypeSafe AI の System One モデル、Dots は OpenAI の常駐エージェント（2026-09-29）、Grok Bot は xAI の常駐Bot、Obsidian は実在のノートアプリ。【誤り・矛盾】①収益の算数が合わない：31人×$9＝$279で、$832には約92人の有料会員が必要。②著者自身の動画が$832を否定している：全フレームでヘッダーは REVENUE $279 / SIGNUPS 212 / PAID 31 / COST $7.70・36x で、$832はどこにも表示されない。登録者数も243ではなく212、コストも$9.10ではなく$7.70、予算上限も$15ではなく$10、ドメインも$4ではなく$3。③Jevの役割が製品仕様と正反対：Jevは文字列を生成しない意思決定モデルで、コードを書いたり「概念を実行」したりはできない。返信欄でも複数人が同じ点を問いただしている。④REAは「任意の主題を4分で深掘り」する調査ツールではなく、アプリやバイナリのリバースエンジニアリング用MCP。⑤DotsはOpenAIの常駐エージェントで、ChatGPT Pro / Business Premium が前提。「6つを1つのワークフローに織り込む」ツールではない。⑥成果物の証拠が無い：製品名・URL・コード・決済画面が無く、動画にもURLは1つも写らない。最終フレームは「1 live app • 6 lines of glue code」という演出。⑦引用記事は「Claude Second Brain & Folder Workflow: The Complete Guide」（2026-07-19）で、内容はMarkdownフォルダ＋CLAUDE.mdの索引運用。むしろ「Obsidianは不要」と明記しており、Obsidianに1,260 recordsを貯めたという本投稿の主張と噛み合わない。【未確認】アプリの実在、収益・登録・決済の実績、動画が実画面か（演出と判断）、$5.10のAPI費用の内訳、Obsidianの記録件数。返信欄では「31 x $9 = $279, not $832」「Jev writes code now?」「This is AI-generated fiction.」「This didn’t happen」などと批判され、取得できた範囲に著者の反論・説明は無い。本項目は主張の記録としてのみ扱い、実績値や再現手順として引用しないこと。
 - [AEGEAN — Three.jsで描く海辺の3D体験](articles/2026-09-30-chetan-ankola-aegean-three.js-3d.md) — unverified / 制作に使ったモデルの正式名称と操作性は未確認。
 - [AIを使ったSEOと動画サイトの収益報告](articles/2026-10-23-jarvis11x-ai-seo.md) — unverified / 収益は自己申告。決済原票、施策の詳細と因果関係は未確認。
+- [AIアニメ動画を「作って終わり」にしない。0→1で作品を作り、最初の売上につなげる完全ロードマップ](articles/2026-10-23-8fa0ce29-ai-0-1.md) — unverified / 有料部分の具体的な手順、使用モデルや実行条件、テンプレートの再配布条件、特典の内容と受取期限、制作手法の再現性と売上への効果は未確認。
 - [AIポスターのヤフオク販売ノウハウ（売上未確認）](articles/2026-11-09-https-x.com-knyan151-status-2119039308242063379.md) — unverified / 月30万円は自己申告で第三者確認なし。販売の適法性や収益性を保証せず、具体的生成物は転載しない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [AI作品の売れるコンセプト選定に関する販促記事（本文未取得）](articles/2026-11-09-https-x.com-i-article-2118611825109729280.md) — unverified, low-quality / 18+ / NSFWに関連。露骨な例・本文は転載しない。具体的手法、売上効果、教材内容・価格は未確認で成功例として断定しない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [AI生成コードと障害対応をめぐる逸話](articles/2026-10-23-jarvis11x-ai.md) — unverified / 障害、解雇、AI使用との因果は未確認。
