@@ -1,5 +1,5 @@
 {
-  "count": 767,
+  "count": 768,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -7922,6 +7922,40 @@
       "fetched_at": "2026-11-10T08:23:40+00:00",
       "path": "entries/coding-agent/orchestratorinc-agent-orchestrator.md",
       "summary": "プロジェクトのメインエージェントに依頼すると、作業を分割し、担当ワーカーを個別のブランチとGit worktreeで起動する。ボードはセッション、PR、CI、レビューの状態をもとに並べ替える。"
+    },
+    {
+      "repo": "ibelick/ui-skills",
+      "name": "UI Skills",
+      "genre": "coding-agent",
+      "url": "https://github.com/ibelick/ui-skills",
+      "last_release": "v0.2.3",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": [
+        "create-canvasの動作、生成結果の品質、ブラウザー互換性や性能は未実測。対応フレームワークの範囲と公開MCPの料金・利用上限は未確認。最新リリースのタグはGitHubで確認したが、公開日時の年とタイムゾーンは確認できていない。"
+      ],
+      "stars": 10912,
+      "forks": 521,
+      "open_issues": 22,
+      "size_kb": 2730,
+      "language": "TypeScript",
+      "created": "2026-01-07",
+      "updated": "2026-11-07",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 85,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/sumika45379/status/2115420830910029989"
+      ],
+      "fetched_at": "2026-11-10T12:15:35+00:00",
+      "path": "entries/coding-agent/ibelick-ui-skills.md",
+      "summary": "create-canvasは、既存コンポーネントを使った操作可能な画面案を、プロジェクト内のキャンバスに並べるための実装指示を提供する。別案を頼まれた場合は元の案を残し、別案に新しいID、固有の名前、独立した状態を持たせるよう定めている。"
     },
     {
       "repo": "tamaratran/fast-jev-compaction",
