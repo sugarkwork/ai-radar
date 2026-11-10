@@ -1,5 +1,5 @@
 {
-  "count": 631,
+  "count": 632,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -14623,6 +14623,37 @@
       "fetched_at": "2026-11-10T08:12:35+00:00",
       "path": "entries/rag/mehmetgoekce-llm-wiki.md",
       "summary": "資料を取り込んでWikiページを作成・更新し、相互リンクを張る。Claude CodeからWikiを検索でき、lintで孤立ページや壊れた参照などを点検できる。"
+    },
+    {
+      "repo": "DimitrisLianos/LLM_Wiki_SecondBrain",
+      "name": "LLM_Wiki_SecondBrain",
+      "genre": "rag",
+      "url": "https://github.com/DimitrisLianos/LLM_Wiki_SecondBrain",
+      "license": "MIT",
+      "stars": 18,
+      "forks": 3,
+      "open_issues": 0,
+      "size_kb": 3870,
+      "language": "Python",
+      "created": "2026-04-10",
+      "updated": "2026-04-17",
+      "archived": false,
+      "commits_30d": 0,
+      "commits_90d": 0,
+      "commit_cadence": "stale",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "最新リリースの確認先は取得時にタイムアウトした。ページ生成数は著者報告。回答の正確性、全主張の検証機能、処理速度、メモリ使用量、オフライン動作は独立に確認していない。",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/Bober_smart/status/2116978958121964030"
+      ],
+      "fetched_at": "2026-11-10T08:13:07+00:00",
+      "path": "entries/rag/dimitrislianos-llm_wiki_secondbrain.md",
+      "summary": "PDFやMarkdownなどからエンティティと概念を抽出し、相互リンク付きのMarkdownページを生成する。CLIでWikiへの質問やリンク構造の点検ができる。"
     },
     {
       "repo": "fulcradynamics/agent-skills",
