@@ -1,5 +1,5 @@
 {
-  "count": 619,
+  "count": 620,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -6767,6 +6767,25 @@
       "fetched_at": "2026-11-09T11:33:46Z",
       "path": "links/coding-agent/code.claude.com-claude-code-advisor-advisor.md",
       "summary": "Claude Code のセッション本体を速く安いモデル（例: Sonnet）で回し、方針決定など判断が重い場面だけ上位モデル（例: Opus）に相談させるための公式機能。全ターンを上位モデルで実行するより費用を抑えつつ、計画と完了判定の質を上げることを狙う。長いリファクタリング、同じエラーが繰り返すデバッグ、完了前に"
+    },
+    {
+      "name": "Claude Code v2.1.283 の設定監査 /doctor prompt-audit",
+      "genre": "coding-agent",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.283",
+      "author": "Anthropic",
+      "published": "2026-09-25",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "監査の検出精度、提案による改善効果、適用依頼前にファイルが変更されないという公式説明の実環境での挙動、監査固有の料金は未確認。発見投稿が案内するX記事のテンプレートとディレクトリ構成も未確認。",
+      "type": "article",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/Bober_smart/status/2116170627631517814"
+      ],
+      "fetched_at": "2026-11-10T05:59:29Z",
+      "path": "articles/2026-09-25-anthropic-claude-code-v2.1.283-doctor-prompt-audit.md"
     },
     {
       "type": "link",

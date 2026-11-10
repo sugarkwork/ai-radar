@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 619 件 — リポジトリ 331, リンク集 113, 記事 108, モデル 53, プロンプト 14 / ⚑ 要確認 410 件
+収録 620 件 — リポジトリ 331, リンク集 113, 記事 109, モデル 53, プロンプト 14 / ⚑ 要確認 411 件
 
 ## リポジトリ（331）
 
@@ -874,7 +874,7 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（108）
+## 記事（109）
 
 ### 記事（52）
 
@@ -989,6 +989,12 @@
 - **[Muse×Brainアフィリエイトの役割分担・人間承認設計](articles/2026-11-09-https-x.com-i-article-2119167977438527488.md)** ⚑  @AI_jikan
 - **[Muse・Meta AIへの専用モデル展開と無料プラン誤解の訂正](articles/2026-11-09-https-research.meta.ai-blog-specialized-models-for-muse-and-metaai.md)** ⚑  @k_matsumaru
 
+### コーディングエージェント（3）
+
+- **[ApiiroによるClaude Code settings.local.json資格情報漏洩調査](articles/2026-11-09-https-x.com-yoppy0123-status-2119219945179603110.md)** ⚑  @yoppy0123
+- **[Claude Code v2.1.283 の設定監査 /doctor prompt-audit](articles/2026-09-25-anthropic-claude-code-v2.1.283-doctor-prompt-audit.md)** ⚑  Anthropic
+- **[Claude Code サブエージェントを1ファイルで定義し、報告を短く縛る](articles/2026-10-22-0xbobaaa-sumika45379-claude-code-1.md)** ⚑  @0xbobaaa（元投稿）/ @sumika45379（紹介）
+
 ### モデル推論・配信（3）
 
 - **[LoopVQ: Sub 1-bit KV Cache Quantization for Looped Transformers](articles/2026-11-03-minsoo-cheong-sungjoo-yoo-loopvq-sub-1-bit-kv-cache-quantization-for-looped-transformers.md)** ⚑  Minsoo Cheong, Sungjoo Yoo
@@ -1000,11 +1006,6 @@
 - **[CodexのWebデザインslop除去プロンプトと承認・検証フロー](articles/2026-11-09-https-x.com-codex_lab_-status-2119117120554557668.md)** ⚑  @codex_lab_
 - **[Grok Bot の4ボット記憶設計——raw 原本と rules で第二の脳を組むプロンプト](articles/2026-10-24-bober_smart-grok-bot-4-raw-rules.md)** ⚑  @Bober_smart
 - **[落合陽一の公開制作をもとにした二次AIデザイン指針](articles/2026-11-09-https-x.com-kimuai08-article-2079212341250724250.md)** ⚑  @kimuai08
-
-### コーディングエージェント（2）
-
-- **[ApiiroによるClaude Code settings.local.json資格情報漏洩調査](articles/2026-11-09-https-x.com-yoppy0123-status-2119219945179603110.md)** ⚑  @yoppy0123
-- **[Claude Code サブエージェントを1ファイルで定義し、報告を短く縛る](articles/2026-10-22-0xbobaaa-sumika45379-claude-code-1.md)** ⚑  @0xbobaaa（元投稿）/ @sumika45379（紹介）
 
 ### image-generation（2）
 
@@ -1192,6 +1193,7 @@
 - [ApiiroによるClaude Code settings.local.json資格情報漏洩調査](articles/2026-11-09-https-x.com-yoppy0123-status-2119219945179603110.md) — unverified / global gitignore追加だけでは既追跡や後からrepo化したケースを守れない。漏洩時は履歴削除だけでなくまず鍵を失効・ローテーション。実資格情報は転載しない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Claude Code](links/coding-agent/claude.com-claude-code.md) — unverified / Claude Code は汎用コーディングエージェントで、CGI/動画専用の機能はない。投稿のスタックではブリーフ→ショットリスト/カメラワークの文章生成と、MCP 経由の Blender 操作指示を担うが、モデリング・ライティング・レンダーは Blender、編集は HyperFrames/FFmpeg 側。『全部 Claude Code がやる』は不正確。投稿の15秒動画は 1440x1800（4:5）・30fps・15.03秒の1フォーマットで、画面内に『INVOICE · EXAMPLE』『ILLUSTRATIVE BUILD LOG』『FICTIONAL BRAND · RENDERED IN BLENDER』と明記された UI モックアップ。請求例はアニメーションで増える『EXAMPLE』で、終盤は $300 + $600 + $400 + $400 + $300 = $2,000。実在の請求ではなく、$1,500–5,000 の市場価格は未検証。DELIVERY GATE は 0/6 から終盤 6/6 になるが、それは UI のチェックで、実ファイルは 4:5 の1フォーマットのみ。16:9/9:16/1:1 の実ファイルは確認できない。『4 shots』は UI のショットリスト、『3 formats』は UI 表示で、納品物の実体は未確認。`/cgi-ad-studio` の配布物（skill/リポジトリ/プロンプト）へのリンクは投稿になく、.blend も生成スクリプトも公開されていない。引用 X 記事はログイン要求で本文未確認。15秒・4カメラ・3フォーマットの納品実績は未検証。『no 3D artist / no studio』は投稿の主張、『one operator』は UI のコピーで、実際の制作体制は確認できない。返信の supervoid_si も『ブランドはレンダーではなく光・カメラ・ビートの判断に払う』と指摘している。
 - [Claude Code Skills 機能](links/coding-agent/code.claude.com-claude-code-skills.md) — unverified / 投稿の主要な主張は一次情報で確認できた：`.claude/skills/<skill-name>/SKILL.md` と `~/.claude/skills/<skill-name>/SKILL.md` の配置、description が常時コンテキストに載り本文は起動時に読み込まれる点、`allowed-tools`／`context: fork`／`paths` の実在、description+when_to_use の 1,536 文字上限、SKILL.md を 500 行未満に保つ指示、scripts 配下が「executed, not loaded」である点。一方で次の差がある。(1) 「Anthropic just shared one of the best tricks」とあるが新公開の裏技ではなく以前から文書化された標準機能（ページ最終更新 2026-11-04）。(2) `allowed-tools` の許可はそのスキルを起動したターン限りで、次のメッセージを送ると失効する。(3) スクリプトのファイル自体は読まれないが、インライン shell 展開の実行結果はスキル本文に注入されコンテキストに入るため、コンテキスト消費がゼロになるわけではない。(4) `context: fork` は会話履歴を引き継がないが、CLAUDE.md はエージェントの起動コンテキストとして読み込まれる（Explore／Plan エージェントは除く）。(5) 投稿が繰り返す「JEV」「JEV engineering」「routes micro-forks in milliseconds」は一次情報に記載がなく、スキル機能とは無関係の宣伝とみられる（未確認）。(6) 添付は動画1本のみで静止画はなく、動画フレームの書き起こしは行っていない。上記の各主張は動画ではなく一次情報の本文と突き合わせて個別に判定した。
+- [Claude Code v2.1.283 の設定監査 /doctor prompt-audit](articles/2026-09-25-anthropic-claude-code-v2.1.283-doctor-prompt-audit.md) — unverified / 監査の検出精度、提案による改善効果、適用依頼前にファイルが変更されないという公式説明の実環境での挙動、監査固有の料金は未確認。発見投稿が案内するX記事のテンプレートとディレクトリ構成も未確認。
 - [Claude Code カスタムサブエージェント（公式ドキュメント）](links/coding-agent/code.claude.com-claude-code.md) — unverified / 投稿の数値と効果の主張は著者の体験談で、一次情報の裏付けがない。「3体で合計32万7千トークン」「親に戻ったのは報告3本だけ」「5行制限のおかげで親の会話が小さいまま」は @sumika45379 の要約（元投稿は @0xbobaaa）であり、独立した検証はない。公式ドキュメントが説明するのは「各サブエージェントは独自のコンテキストウィンドウで動き、要約だけを返す」という仕組みまでで、節約量や報告行数の効果は保証していない。「返事は5行まで」はエージェント本文（システムプロンプト）に書く指示であって、Claude Code が行数を強制する機能ではない。引用元 https://x.com/0xbobaaa/status/2107892817292939588 は t.co 解決が 404 で、本文・動画・元の定義ファイルを確認できない（配布リポジトリは存在しない）。添付画像 https://pbs.twimg.com/media/HWWvkhaa4AAPVqD.jpg は origin_post_id=2118292245107683494 の画像で、vision で見た結果 .claude/agents ではなく benjitaylor/skills の stageshow（製品画面デモ用スキル）の解説画像だった。本候補の根拠には使っていない。料金は 2026-11-08 時点の claude.com/pricing で確認。ドキュメントは 2026-11-03 更新。
 - [Claude Code コミット前検証スキル verify（テスト→差分レビュー→差し戻し）](prompts/coding-agent/claude-code-verify-6df7a29de9.md) — unverified / 同梱の /verify とコミット前実行の仕様は code.claude.com の公式ドキュメントで確認できた。一方、Voxyz_ai が配布する SKILL.md の実ファイル（GitHub / gist）は発見できず、画像は SKILL.md 本文そのものではなく手順を図解したインフォグラフィック。そのため frontmatter や実行コマンドの具体、原文の正確な文言は未確認（unverified）。「OpenAI のレビュー基準」は OpenAI の公式文書ではなく、レビュー観点の通称とみられる。スキルはモデルへの指示であり、実行を強制するものではない。
 - [Claude Code サブエージェントを1ファイルで定義し、報告を短く縛る](articles/2026-10-22-0xbobaaa-sumika45379-claude-code-1.md) — unverified, dead-link / 元ポスト（@0xbobaaa, https://x.com/0xbobaaa/status/2107892817292939588）は 2026-11-08 時点で HTTP 404、Wayback のスナップショットもなく、原文の定義ファイルと実測値は確認できない。「3体で合計32万7千トークン」「親に戻ったのは報告3本」は紹介投稿による要約で、独立した検証はない。「返事は5行まで」の縛りが出力をどれだけ減らすかも未測定。一方、定義ファイルの書式・別コンテキストでの実行・利用上限への計上は公式ドキュメントで確認済み。候補に添付されていた画像（HWWvkhaa4AAPVqD.jpg）は stageshow スキルの紹介画像で本件とは無関係。
