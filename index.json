@@ -1,5 +1,5 @@
 {
-  "count": 691,
+  "count": 692,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -13176,6 +13176,38 @@
       "fetched_at": "2026-11-10T09:49:38+00:00",
       "path": "entries/other/skylot-jadx.md",
       "summary": "APK、DEX、AABなどのDalvikバイトコードをJavaコードに逆コンパイルし、AndroidManifest.xmlやアプリのリソースをデコードする。GUIでは宣言への移動、参照箇所の検索、全文検索ができる。"
+    },
+    {
+      "repo": "mifi/lossless-cut",
+      "name": "LosslessCut",
+      "genre": "other",
+      "url": "https://github.com/mifi/lossless-cut",
+      "last_release": "v3.70.2",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "実ファイルでの処理速度、カット位置、CLIとHTTP APIの動作は未実測。公開リリースページで最新タグは確認したが、公開日時の年とタイムゾーンは未確認。",
+      "stars": 45884,
+      "forks": 2317,
+      "open_issues": 164,
+      "size_kb": 31407,
+      "language": "TypeScript",
+      "created": "2016-10-30",
+      "updated": "2026-11-09",
+      "archived": false,
+      "license": "GPL-2.0",
+      "commits_30d": 100,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/okapi_fukugyo/status/2117616982518559161"
+      ],
+      "fetched_at": "2026-11-10T09:59:03.611Z",
+      "path": "entries/other/mifi-lossless-cut.md",
+      "summary": "動画・音声の区間抽出、トラックの取り出し、同一コーデックの素材の結合、MKVからMP4などへのコンテナ変換に対応する。"
     },
     {
       "repo": "duckdb/duckdb",
