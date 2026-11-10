@@ -1,5 +1,5 @@
 {
-  "count": 608,
+  "count": 609,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -5375,6 +5375,25 @@
       ],
       "fetched_at": "2026-11-10T13:05:18+09:00",
       "path": "articles/2026-11-08-ry-heyhaigh-material-painter.md"
+    },
+    {
+      "name": "Museで試作し入力素材をSeedanceへ引き継ぐ動画制作案",
+      "genre": "article",
+      "url": "https://x.com/jarvis11x/status/2114567165361766655",
+      "author": "@jarvis11x",
+      "published": "2026-10-26",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "品質、費用、再現性は未計測。投稿のSeedanceバージョンは不明。",
+      "type": "article",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/jarvis11x/status/2114567165361766655"
+      ],
+      "fetched_at": "2026-11-10T13:19:00+09:00",
+      "path": "articles/2026-10-26-jarvis11x-muse-seedance.md"
     },
     {
       "name": "OpenUIで表データの取得をUI生成と分ける",

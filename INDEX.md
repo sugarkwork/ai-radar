@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 608 件 — リポジトリ 331, リンク集 113, 記事 97, モデル 53, プロンプト 14 / ⚑ 要確認 400 件
+収録 609 件 — リポジトリ 331, リンク集 113, 記事 98, モデル 53, プロンプト 14 / ⚑ 要確認 401 件
 
 ## リポジトリ（331）
 
@@ -874,9 +874,9 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（97）
+## 記事（98）
 
-### 記事（45）
+### 記事（46）
 
 - **[$0のデジタル参謀長で月$80,000の契約候補を作ったというX投稿（動画付き）](articles/2026-10-22-bober_smart-0-80-000-x.md)** ⚑  @Bober_smart
 - **[1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md)** ⚑  @mukadeshinigami（mukade死神）
@@ -904,6 +904,7 @@
 - **[Laddersによる履歴書PDFの抽出評価](articles/2026-11-07-marc-cenedella-ladders-pdf.md)** ⚑  Marc Cenedella
 - **[Last Lecture Series: “How to Win Without Crushing Your Soul” - Graham Weaver（Stanford GSB Class of 2026）](articles/2026-07-14-graham-weaver-stanford-graduate-school-of-business-last-lecture-series-how-to-win-without-f6d1f4ee42.md)** ⚑  Graham Weaver（Stanford Graduate School of Business 公式チャンネル）
 - **[Material Painterを使った部分編集の報告](articles/2026-11-08-ry-heyhaigh-material-painter.md)** ⚑  Ry (@heyhaigh)
+- **[Museで試作し入力素材をSeedanceへ引き継ぐ動画制作案](articles/2026-10-26-jarvis11x-muse-seedance.md)** ⚑  @jarvis11x
 - **[OpenUIで表データの取得をUI生成と分ける](articles/2026-10-21-bernat-vadell-openui-ui.md)** ⚑  Bernat Vadell
 - **[PFNの翻訳特化LLM「PLaMo 3 Translate」をスマホ・Windows・Mac・Linuxに入れる方法](articles/2026-11-05-emma-eva-note-emma_and_eva-pfn-llm-plamo-3-translate-windows-mac-linux.md)** ⚑  Emma先生 & Eva先生（note: emma_and_eva）
 - **[RenderのAIエージェント向けドキュメント設計](articles/2026-11-07-brenden-house-render-ai.md)** ⚑  Brenden House
@@ -1135,6 +1136,7 @@
 - [Laddersによる履歴書PDFの抽出評価](articles/2026-11-07-marc-cenedella-ladders-pdf.md) — unverified / 試験条件と再現性は未確認。
 - [Last Lecture Series: “How to Win Without Crushing Your Soul” - Graham Weaver（Stanford GSB Class of 2026）](articles/2026-07-14-graham-weaver-stanford-graduate-school-of-business-last-lecture-series-how-to-win-without-f6d1f4ee42.md) — unverified / 確認できたこと: 公式YouTube（Stanford GSB チャンネル）に講演が実在し、タイトルは「Last Lecture Series: “How to Win Without Crushing Your Soul” - Graham Weaver」、公開日 2026-07-14、尺 34:01、Class of 2026 向けの Last Lecture であること（YouTube概要・本人ブログ・本人Instagramで一致）。Weaver は Stanford GSB の Lecturer in Management で Alpine Investors の創業者（GSB教員ページ・Alpine公式）。講演の3実践と引用の多くは公式字幕と一致。誤り・未確認: (1)「10 million people watched」はこの動画単体では約263万回（2026-11-09時点）。WeaverのGSB講演5本の合計が約1,030万回なので、合算を単体の数字として書いた可能性が高い。(2)「33 minutes」は公式34:01、投稿添付クリップは33:31で、切り抜き側の尺。(3)「$16 billion」はAlpine公式の現行表記（$18.8B、25周年ページでは2026-06-30時点$17.7B）より古く過小。(4)「life coaches charge $500 an hour」は一次情報を確認できず未検証。(5) 引用ブロックの「achievement cannot fix self hatred」「what you avoid grows」「unless you skip them」は講演の逐語ではなく投稿者による要約・脚色（講演本体は「I just didn't really like myself」「your nail is the thing you're avoiding」「You're in the good old days now」）。(6) 添付動画は同一講演の再アップロードとみられ、会場・人物・衣装・尺が公式と一致するが、音声の波形一致やフレーム単位の同一性は未確認。講演自体に効果の対照試験や追跡データはなく、内容は本人の体験談と実践の提案である。
 - [Material Painterを使った部分編集の報告](articles/2026-11-08-ry-heyhaigh-material-painter.md) — unverified / 専用のinpainting機能と比較効果は未確認。
+- [Museで試作し入力素材をSeedanceへ引き継ぐ動画制作案](articles/2026-10-26-jarvis11x-muse-seedance.md) — unverified / 品質、費用、再現性は未計測。投稿のSeedanceバージョンは不明。
 - [OpenUIで表データの取得をUI生成と分ける](articles/2026-10-21-bernat-vadell-openui-ui.md) — unverified / 原文は公開ミラー経由。性能や費用の実測はない。
 - [PFNの翻訳特化LLM「PLaMo 3 Translate」をスマホ・Windows・Mac・Linuxに入れる方法](articles/2026-11-05-emma-eva-note-emma_and_eva-pfn-llm-plamo-3-translate-windows-mac-linux.md) — unverified / PFN 公式ブログではなく第三者アカウントのまとめ記事。ベンチマーク優位は PFN 自身の評価の引用、iPhone の 0.515 秒は GIGAZINE の 1 回計測の引用で独立検証なし。winget での llama.cpp 導入、PocketPal AI での 0.8B 読み込み手順、llama.app のインストールスクリプト（取得したスクリプトをシェルに渡す方式）は本文の記述のみで未検証。記事末尾は著者の有料講義の宣伝。
 - [RenderのAIエージェント向けドキュメント設計](articles/2026-11-07-brenden-house-render-ai.md) — unverified / 公開日はUTC。投稿後半と導入効果は未確認。
