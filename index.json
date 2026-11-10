@@ -1,5 +1,5 @@
 {
-  "count": 719,
+  "count": 720,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -12005,6 +12005,38 @@
       "fetched_at": "2026-11-09T21:39:03Z",
       "path": "entries/mcp-server/microsoft-playwright-mcp.md",
       "summary": "LLM／エージェントから MCP 経由で実ブラウザを操作する。browser_navigate、browser_click、browser_type、browser_fill_form、browser_select_option、browser_tabs など 72 個の browser_* ツールを提供する。"
+    },
+    {
+      "repo": "dgtlmoon/changedetection.io",
+      "name": "changedetection.io",
+      "genre": "mcp-server",
+      "url": "https://github.com/dgtlmoon/changedetection.io",
+      "stars": 35707,
+      "forks": 2230,
+      "open_issues": 386,
+      "size_kb": 78237,
+      "language": "Python",
+      "created": "2021-01-27",
+      "updated": "2026-11-10",
+      "archived": false,
+      "license": "Apache-2.0",
+      "commits_30d": 100,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "last_release": "0.70.3",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "公開資料の記載を確認した。最新リリースの公開日時は年とタイムゾーンまで確認できていない。監視の検出精度・通知遅延、MCP接続の実動作、発見投稿のGrok Botとの連携は未検証。",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/thegreatest_sv/status/2117960732184633699"
+      ],
+      "fetched_at": "2026-11-10T11:12:36+00:00",
+      "path": "entries/mcp-server/dgtlmoon-changedetection.io.md",
+      "summary": "公開ページの価格表示や在庫表示、JSON APIの値を監視し、差分を履歴に残す。CSS、XPath、JSONPath、jqで監視範囲を絞り、変更時はApprise経由で通知できる。"
     },
     {
       "type": "repo",

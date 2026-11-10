@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 719 件 — リポジトリ 411, リンク集 113, 記事 128, モデル 53, プロンプト 14 / ⚑ 要確認 509 件
+収録 720 件 — リポジトリ 412, リンク集 113, 記事 128, モデル 53, プロンプト 14 / ⚑ 要確認 510 件
 
-## リポジトリ（411）
+## リポジトリ（412）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -431,13 +431,14 @@
 | [sepiablue-ai/ComfyUI-PH3-Manga](entries/image-gen/sepiablue-ai-comfyui-ph3-manga.md) ⚑ | 8 | 0 | 週次 | 10 | 2026-11-07 | 2026-11-09 | 2026-11-10 | MIT |
 | [ComfyUI Prompt Atelier](entries/image-gen/renz1998-comfyui-prompt-atelier.md) | 3 | 0 | 毎日 | 51 | 2026-11-09 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
 
-### MCPサーバー（12）
+### MCPサーバー（13）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
 | [REA](entries/mcp-server/morluto-rea.md) ⚑ | 446,665 | 110,198 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
 | [Scrapling](entries/mcp-server/d4vinci-scrapling.md) | 100,495 | 10,502 | 毎日 | 97 | 2026-11-09 | 2026-11-09 | 2026-11-10 | BSD-3-Clause |
 | [Playwright MCP](entries/mcp-server/microsoft-playwright-mcp.md) | 39,387 | 3,410 | 週次 | 18 | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [changedetection.io](entries/mcp-server/dgtlmoon-changedetection.io.md) ⚑ | 35,707 | 2,230 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | Apache-2.0 |
 | [treg（REA growth スキル同梱のエージェント用ツールレジストリ）](entries/mcp-server/superdesigndev-treg.md) | 7,723 | 704 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 + 追加条項（GitHub API は NOASSERTION） |
 | [designlang](entries/mcp-server/manavarya09-design-extract.md) ⚑ | 5,003 | 415 | 毎日 | 24 | 2026-11-05 | 2026-11-10 | 2026-11-10 | MIT |
 | [New Term Radar](entries/mcp-server/zhuyansen-new-term-radar.md) ⚑ | 2,147 | 642 | 毎日 | 54 | 2026-11-02 | 2026-11-10 | 2026-11-10 | MIT |
@@ -1439,6 +1440,7 @@
 - [treg REA growth](links/link-service/treg.to-treg-rea-growth.md) — unverified / 未確認: 無料クレジット取得にカード登録や本人確認が必要か、verified account の条件、表示価格の税・通貨換算。料金はプロバイダのレート次第で変動し、$0.58 や各レートは 2026-11 時点の掲載値。ショーケース（Lovable の被リンク数・流入推定など）はベンダー自身の実行記録で、第三者の追試はない。当方ではスキルを実行しておらず出力品質は未検証。X 連携は treg の X アプリ経由だと自前キーでも従量課金。GitHub API の license は NOASSERTION だが LICENSE 本文は Apache-2.0。
 - [「違法っぽいけど合法」30サイトまとめの検証メモ](articles/2026-11-07-hey_jessicaai-30-websites-list.md) — low-quality, unverified, dead-link / 投稿は30件のURL＋一行説明を並べた集客リストで、著者自身の利用報告・検証・スクリーンショットが無い。30件すべて未登録だったが、中身はKrea/Magnific/ElevenLabs/Suno/Runway/Cursor/Perplexity/Claudeなど既知の商用クローズドSaaSで、再現可能な配布物が無い。リンク切れ2件（Phind、Jasper）。説明と実体の不一致2件（SoundCloudは音楽配信で『AI music tagging』ではない、SadTalkerのリンクは商用サイトでOSS本体ではない）。Raphael AIは本文の raphael.ai が接続不能で、公式は raphael.app。料金・無料枠は2026-11-08時点の各社ページで一部を実測したが、変更が早い。
 - [REA](entries/mcp-server/morluto-rea.md) — unverified / GitHub API の数値と README/手順書の記述は 2026-11-09 時点で確認済み。未検証なのは (1) Ghidra/Hopper を実際に起動した動作確認、(2) README showcase の再構成数値（3,205 ケース等）で、効果は著者側の主張にとどまる。Hopper は商用（デモは制限付き）、Windows の Ghidra 対応は実験的 P0 で読み取り専用。
+- [changedetection.io](entries/mcp-server/dgtlmoon-changedetection.io.md) — unverified / 公開資料の記載を確認した。最新リリースの公開日時は年とタイムゾーンまで確認できていない。監視の検出精度・通知遅延、MCP接続の実動作、発見投稿のGrok Botとの連携は未検証。
 - [designlang](entries/mcp-server/manavarya09-design-extract.md) — unverified / 最新リリースの公開日時は未確認。抽出精度、サイト間での再現性、CLI・MCP の実動作は未検証。README の出力例は作者による掲載例。
 - [New Term Radar](entries/mcp-server/zhuyansen-new-term-radar.md) — unverified / 理由未記入
 - [PicLite](entries/mcp-server/amiaoapp-piclite.md) — unverified / ['圧縮率・画質・処理時間、各OS向け配布バイナリと第三者MCPクライアントの実動作は未検証。プロジェクトは公式MCP SDKと実ファイルを使った試験を報告している。']
