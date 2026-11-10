@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 617 件 — リポジトリ 331, リンク集 113, 記事 106, モデル 53, プロンプト 14 / ⚑ 要確認 408 件
+収録 618 件 — リポジトリ 331, リンク集 113, 記事 107, モデル 53, プロンプト 14 / ⚑ 要確認 409 件
 
 ## リポジトリ（331）
 
@@ -874,7 +874,7 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（106）
+## 記事（107）
 
 ### 記事（51）
 
@@ -988,6 +988,12 @@
 - **[Muse×Brainアフィリエイトの役割分担・人間承認設計](articles/2026-11-09-https-x.com-i-article-2119167977438527488.md)** ⚑  @AI_jikan
 - **[Muse・Meta AIへの専用モデル展開と無料プラン誤解の訂正](articles/2026-11-09-https-research.meta.ai-blog-specialized-models-for-muse-and-metaai.md)** ⚑  @k_matsumaru
 
+### モデル推論・配信（3）
+
+- **[LoopVQ: Sub 1-bit KV Cache Quantization for Looped Transformers](articles/2026-11-03-minsoo-cheong-sungjoo-yoo-loopvq-sub-1-bit-kv-cache-quantization-for-looped-transformers.md)** ⚑  Minsoo Cheong, Sungjoo Yoo
+- **[Qwen3.8-Flash-Next量子化乗り換え体験と比較条件](articles/2026-11-09-https-x.com-sasasin_net-status-2118729264149491929.md)** ⚑  @sasasin_net
+- **[Strata実験的control vectorの対象と制限](articles/2026-11-09-topic-strata-experimental-speed-projection.md)** ⚑  @_ryu15_
+
 ### プロンプト（デザイン/UI）（3）
 
 - **[CodexのWebデザインslop除去プロンプトと承認・検証フロー](articles/2026-11-09-https-x.com-codex_lab_-status-2119117120554557668.md)** ⚑  @codex_lab_
@@ -1003,11 +1009,6 @@
 
 - **[Glada's MOSS Image Workflow v2](articles/image-generation/gladas-moss-image-workflow-v2.md)** ⚑  aiaicreate（紹介）
 - **[Z-Image-Turbo：低VRAM向けComfyUI制作記事](articles/image-generation/2026-11-09-zzuurn-z-image-low-vram.md)** ⚑
-
-### モデル推論・配信（2）
-
-- **[Qwen3.8-Flash-Next量子化乗り換え体験と比較条件](articles/2026-11-09-https-x.com-sasasin_net-status-2118729264149491929.md)** ⚑  @sasasin_net
-- **[Strata実験的control vectorの対象と制限](articles/2026-11-09-topic-strata-experimental-speed-projection.md)** ⚑  @_ryu15_
 
 ### RAG・検索（2）
 
@@ -1295,6 +1296,7 @@
 - [GLM-5.3-Flash 2×RTX PRO 6000 配備レシピ（TensorFold）](entries/model-serving/miaai-lab-glm-5.3-flash-2x-rtx-pro-6000.md) — unverified / 2×96GBのRTX PRO 6000（Blackwell sm_120）が必須。チェックポイント約164GiB、Dockerイメージ約40GiB。TensorFold（ashhart/TensorFold、Zig/CUDA）をDockerでビルドし、GLM-5.3-FlashのEXL3 4bpw量子化を配備する。既定のdrafterはCC BY-NC-ND 4.0（非商用）で、商用はDRAFTER=mtp/noneに切り替える。投稿のKV 973K→1.05M、再起動後約1秒で会話復元、thinking off時の出力短縮、誤ネット設定の自動修正はREADMEと方向性が一致するが数値は自己申告で未検証。当方でビルド・実行は未実施。
 - [ausboss/ComfyUI-AusBoss-Model-Downloader](entries/model-serving/ausboss-comfyui-ausboss-model-downloader.md) — unverified / 既存ファイルは上書きせず再ハッシュもしないため完全性の証明にはならない。取得したモデルは実行しない設計だが配布元・トークン・重みの権利確認は必要。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF](models/model-serving/ista-daslab-qwen3.8-flash-next-gsq-rco-gguf.md) — unverified / Unsloth版との性能比較は個人の感想で独立測定なし。量子化方式と条件の違いをファイルサイズだけで評価しない。 当方でインストール・推論・生成・ベンチ再現はしていない。
+- [LoopVQ: Sub 1-bit KV Cache Quantization for Looped Transformers](articles/2026-11-03-minsoo-cheong-sungjoo-yoo-loopvq-sub-1-bit-kv-cache-quantization-for-looped-transformers.md) — unverified / 評価値は著者の報告。独立再現、評価対象外のモデルや実行環境への一般化、依存コンポーネントとモデル重みの個別利用条件は未検証。
 - [NVIDIA API Catalog / NIM無料推論エンドポイント](links/model-serving/https-build.nvidia.com.md) — unverified / 無料は試用エンドポイントの提供条件であり無制限・恒久無料ではない。カード不要とレート制限は未確認。API呼び出しはしていない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Qwen3.8-27B QSA（Q8_0 GGUF + ネイティブランタイム）](models/model-serving/higa2515-qwen3-8-27b-qsa-gguf.md) — unverified / prefill約2倍・decode 45+ tok/s は作者のX投稿の数値で、モデルカードに計測条件の記載が無い。stock llama.cpp では動かず、同梱の改造ランタイム（Linux x86_64 / sm70）か自前ビルドが必須。
 - [Qwen3.8-Flash-Next量子化乗り換え体験と比較条件](articles/2026-11-09-https-x.com-sasasin_net-status-2118729264149491929.md) — unverified / ファイルサイズ差は確認記録があるが、同程度の性能やVRAM配置改善は同一条件の推論追試なし。名称のQwen3.8表記は原資料どおり。 当方でインストール・推論・生成・ベンチ再現はしていない。

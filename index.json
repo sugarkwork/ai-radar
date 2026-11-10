@@ -1,5 +1,5 @@
 {
-  "count": 617,
+  "count": 618,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -11598,6 +11598,25 @@
       "signup_required": false,
       "path": "models/model-serving/ista-daslab-qwen3.8-flash-next-gsq-rco-gguf.md",
       "summary": "Qwen3.8-Flash-NextにGSQ-RCOを適用したGGUF量子化配布。体験記事の旧構成IQ3_Sは2分割で約77.9GiB。"
+    },
+    {
+      "name": "LoopVQ: Sub 1-bit KV Cache Quantization for Looped Transformers",
+      "genre": "model-serving",
+      "url": "https://arxiv.org/abs/2611.05304",
+      "author": "Minsoo Cheong, Sungjoo Yoo",
+      "published": "2026-11-03",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "評価値は著者の報告。独立再現、評価対象外のモデルや実行環境への一般化、依存コンポーネントとモデル重みの個別利用条件は未検証。",
+      "type": "article",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/mscheong01/status/2117295415062401324"
+      ],
+      "fetched_at": "2026-11-10T05:56:35Z",
+      "path": "articles/2026-11-03-minsoo-cheong-sungjoo-yoo-loopvq-sub-1-bit-kv-cache-quantization-for-looped-transformers.md"
     },
     {
       "type": "link",
