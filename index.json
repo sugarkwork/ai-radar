@@ -1,5 +1,5 @@
 {
-  "count": 701,
+  "count": 702,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -5925,6 +5925,24 @@
       ],
       "fetched_at": "2026-11-10T04:14:38Z",
       "path": "articles/2026-10-21-bernat-vadell-openui-ui.md"
+    },
+    {
+      "name": "P-H3-Image: Turning a SOTA Video Model into an Efficient Open Image Model",
+      "genre": "article",
+      "url": "https://www.pruna.ai/blog/oss-p-h3-image-launch",
+      "published": "2026-11-03",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "編集入力の上限は記事では9枚、公式モデルカード2件では編集対象を含めて8枚。9枚入力の動作、生成速度、VRAM使用量、出力品質は独立検証していない。",
+      "type": "article",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/PrunaAI/status/2117663564487926043"
+      ],
+      "fetched_at": "2026-11-10T10:14:02Z",
+      "path": "articles/2026-11-03-author-p-h3-image-turning-a-sota-video-model-into-an-efficient-open-image-model.md"
     },
     {
       "type": "article",
