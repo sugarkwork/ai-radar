@@ -1,5 +1,5 @@
 {
-  "count": 655,
+  "count": 656,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -11026,6 +11026,37 @@
       "fetched_at": "2026-11-10T08:41:43+00:00",
       "path": "entries/mcp-server/manavarya09-design-extract.md",
       "summary": "公開ページから配色、書体、余白などを抽出し、DTCG トークン、Tailwind 設定、Figma 変数用 JSON、AI に渡せる Markdown を生成する。"
+    },
+    {
+      "repo": "zhuyansen/new-term-radar",
+      "name": "New Term Radar",
+      "genre": "mcp-server",
+      "url": "https://github.com/zhuyansen/new-term-radar",
+      "flags": [
+        "unverified"
+      ],
+      "stars": 2147,
+      "forks": 642,
+      "open_issues": 3,
+      "size_kb": 4649,
+      "language": "Python",
+      "created": "2026-10-12",
+      "updated": "2026-11-02",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 54,
+      "commits_90d": 54,
+      "commit_cadence": "daily",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "risk_notes": "",
+      "sources": [
+        "https://x.com/GoSailGlobal/status/2117474999221285252"
+      ],
+      "fetched_at": "2026-11-10T09:08:23Z",
+      "path": "entries/mcp-server/zhuyansen-new-term-radar.md",
+      "summary": "X、Hugging Face、GitHub、サイトマップから新しい名称の候補を集め、検索語候補を含むレポートを生成する。MCPでは保存済み候補の参照、指定した名称の検索語調査、収集処理の起動ができる。"
     },
     {
       "repo": "marc-shade/world-intel-mcp",
