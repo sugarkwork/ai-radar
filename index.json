@@ -1,5 +1,5 @@
 {
-  "count": 621,
+  "count": 622,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -5531,6 +5531,25 @@
       "fetched_at": "2026-11-06T18:28:40Z",
       "source_post": "https://x.com/preferred_jp/status/2118134261912092801",
       "path": "articles/2026-11-05-emma-eva-note-emma_and_eva-pfn-llm-plamo-3-translate-windows-mac-linux.md"
+    },
+    {
+      "name": "Project Suncatcher試作衛星からの初応答",
+      "genre": "article",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/",
+      "author": "Travis Beals",
+      "published": "2026-10-30",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "推論成功はGoogleの自己報告。軌道上での長期信頼性、熱・放射線の影響、候補投稿の費用比較は確認できていない。",
+      "type": "article",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/PayneL_AI/status/2116583207974097058"
+      ],
+      "fetched_at": "2026-11-10T06:16:05Z",
+      "path": "articles/2026-10-30-travis-beals-project-suncatcher.md"
     },
     {
       "name": "Railway公式セキュリティ告知：環境変数に保存したAPIキーへの対応",
