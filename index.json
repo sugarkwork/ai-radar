@@ -1,5 +1,5 @@
 {
-  "count": 670,
+  "count": 671,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -12813,6 +12813,37 @@
       "last_release_at": "",
       "path": "entries/other/nanmicoder-mediacrawler.md",
       "summary": "中国系プラットフォーム横断のデータ収集ツール。小红书（RED）・抖音・快手・B站・微博・百度貼吧・知乎の**投稿とコメント**を取得する。"
+    },
+    {
+      "repo": "FFmpeg/FFmpeg",
+      "name": "FFmpeg",
+      "genre": "other",
+      "url": "https://github.com/FFmpeg/FFmpeg",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "GitHubの最新リリース情報、個別ビルドで利用できるコーデック、処理速度・出力品質、AIエージェントからの実行は未検証。READMEはGitHubの公開rawファイルで確認した。 GitHub APIでライセンスを確認できていません。",
+      "stars": 66858,
+      "forks": 14558,
+      "open_issues": 3,
+      "size_kb": 506833,
+      "language": "C",
+      "created": "2011-04-14",
+      "updated": "2026-11-10",
+      "archived": false,
+      "license": "unknown",
+      "commits_30d": 100,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/nuannuan_share/status/2119640438135242817"
+      ],
+      "fetched_at": "2026-11-10T09:31:04Z",
+      "path": "entries/other/ffmpeg-ffmpeg.md",
+      "summary": "ffmpegで映像・音声の変換やストリームの抽出を行い、ffprobeで出力の形式やストリームを検査できる。"
     },
     {
       "repo": "duckdb/duckdb",
