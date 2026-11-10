@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 754 件 — リポジトリ 443, リンク集 113, 記事 131, モデル 53, プロンプト 14 / ⚑ 要確認 544 件
+収録 755 件 — リポジトリ 444, リンク集 113, 記事 131, モデル 53, プロンプト 14 / ⚑ 要確認 545 件
 
-## リポジトリ（443）
+## リポジトリ（444）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -323,7 +323,7 @@
 | [quicksilver](entries/coding-agent/uditakhourii-quicksilver.md) ⚑ | 142 | 11 | 停滞 | 0 | 2026-09-25 | 2026-11-09 | 2026-11-10 | MIT |
 | [GDG Agent Skillsの実演教材](entries/coding-agent/gdg-oau-agent-skills-gdg.md) ⚑ | 1 | 0 | 週次 | 13 | 2026-11-07 | 2026-11-10 | 2026-11-10 | unknown |
 
-### 音声・TTS（31）
+### 音声・TTS（32）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -349,6 +349,7 @@
 | [Podcastfy](entries/tts-audio/souzatharsis-podcastfy.md) | 6,795 | 790 | 停滞 | 0 | 2026-05-04 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
 | [ACE-Step（v1 / 3.5B）](entries/tts-audio/ace-step-ace-step.md) | 5,044 | 662 | 停滞 | 0 | 2026-02-15 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
 | [umlx5h/LLPlayer](entries/tts-audio/umlx5h-llplayer.md) ⚑ | 4,620 | 290 | 停滞 | 0 | 2026-11-05 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
+| [earshot](entries/tts-audio/leonxlnx-earshot.md) ⚑ | 4,406 | 283 | 毎日 | 51 | 2026-11-06 | 2026-11-10 | 2026-11-10 | MIT |
 | [Stable Audio Tools](entries/tts-audio/stability-ai-stable-audio-tools.md) | 3,904 | 490 | 停滞 | 0 | 2026-11-01 | 2026-11-09 | 2026-11-10 | MIT |
 | [Essentia](entries/tts-audio/mtg-essentia.md) | 3,801 | 644 | 週次 | 15 | 2026-11-05 | 2026-11-09 | 2026-11-10 | AGPL-3.0 |
 | [stable-ts](entries/tts-audio/jianfch-stable-ts.md) | 2,282 | 248 | 停滞 | 0 | 2026-05-30 | 2026-11-09 | 2026-11-10 | MIT |
@@ -1625,6 +1626,7 @@
 - [multimodal-art-projection/YuE](entries/tts-audio/multimodal-art-projection-yue.md) — unverified / コードのApache-2.0をYuE2重みへ適用しない。YuE2重みはCC BY-NC4.0。世代違いの要件・評価を混入しない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [edge-tts](entries/tts-audio/rany2-edge-tts.md) — unverified / 音声合成は実行しておらず、現時点での接続可否、音声品質、字幕の同期精度と単語単位での出力条件は未検証。サービスの料金・利用上限・生成音声の商用利用条件、最新リリースの公開年を含む正確な日時は未確認。 GitHub APIでライセンスを確認できていません。
 - [umlx5h/LLPlayer](entries/tts-audio/umlx5h-llplayer.md) — unverified / Beta版で設定互換性が変わる可能性。ASR/OCRはローカルだが翻訳はエンジンによってクラウド送信・API費用が生じる。 当方でインストール・推論・生成・ベンチ再現はしていない。
+- [earshot](entries/tts-audio/leonxlnx-earshot.md) — unverified / 実行と独立評価は未実施。作者評価の結果が他の素材や編集工程に一般化するか、発見投稿の動画で効果音のタイミングが改善したか、最新版の正確な公開時刻は未確認。
 - [知了 Cicada](entries/tts-audio/wquguru-cicada.md) — unverified / 公開資料の確認のみ。認識・翻訳精度、遅延、話者識別、共有時の機密情報検出、実際の外部送信先は未検証。Lingの現行料金と無料枠の適用条件は提供元で未確認。
 - [ElevenLabs Skills](entries/tts-audio/elevenlabs-skills.md) — unverified / 最新リリースのタグと公開日時は確認できなかった。スキルの起動、生成音の品質・所要時間、個別API機能の課金条件と生成物の商用利用条件は未検証。
 - [adventists-ai/sophon-realtime](entries/tts-audio/adventists-ai-sophon-realtime.md) — unverified / Apache-2.0とNOTICEの第三者要素の条件を分ける。0.31秒等は特定版・構成の作者測定で全版への保証ではない。 当方でインストール・推論・生成・ベンチ再現はしていない。

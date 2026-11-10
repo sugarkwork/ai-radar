@@ -1,5 +1,5 @@
 {
-  "count": 754,
+  "count": 755,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -18732,6 +18732,38 @@
       "last_release_at": "2026-04-19",
       "path": "entries/tts-audio/umlx5h-llplayer.md",
       "summary": "二重字幕、Whisper ASR、自動翻訳、ビットマップ字幕のOCR、単語検索を統合した語学学習向け動画プレイヤー。"
+    },
+    {
+      "repo": "Leonxlnx/earshot",
+      "name": "earshot",
+      "genre": "tts-audio",
+      "url": "https://github.com/Leonxlnx/earshot",
+      "license": "MIT",
+      "stars": 4406,
+      "forks": 283,
+      "open_issues": 4,
+      "size_kb": 3489,
+      "language": "Python",
+      "created": "2026-10-15",
+      "updated": "2026-11-06",
+      "archived": false,
+      "commits_30d": 51,
+      "commits_90d": 51,
+      "commit_cadence": "daily",
+      "last_release": "v0.4.1",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "実行と独立評価は未実施。作者評価の結果が他の素材や編集工程に一般化するか、発見投稿の動画で効果音のタイミングが改善したか、最新版の正確な公開時刻は未確認。",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/Y0urDumble/status/2115193601458151552"
+      ],
+      "fetched_at": "2026-11-10T11:59:42+00:00",
+      "path": "entries/tts-audio/leonxlnx-earshot.md",
+      "summary": "音声の特徴をタグと測定値で記述し、文章との一致度を評価する。長い録音から条件に合う区間を探し、動画の音響タイムラインや改善候補も出力できる。"
     },
     {
       "repo": "Stability-AI/stable-audio-tools",
