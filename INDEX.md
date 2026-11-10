@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 646 件 — リポジトリ 346, リンク集 113, 記事 120, モデル 53, プロンプト 14 / ⚑ 要確認 437 件
+収録 647 件 — リポジトリ 347, リンク集 113, 記事 120, モデル 53, プロンプト 14 / ⚑ 要確認 438 件
 
-## リポジトリ（346）
+## リポジトリ（347）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -388,13 +388,14 @@
 | [Material Painter](entries/mcp-server/alla2001-material-painter.md) ⚑ | 265 | 26 | 毎日 | 41 | 2026-11-07 | 2026-11-10 | 2026-11-10 | GPL-3.0 |
 | [pagesift](entries/mcp-server/yolow92-pagesift.md) ⚑ | 256 | 32 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | AGPL-3.0 |
 
-### プロンプト（デザイン/UI）（9）
+### プロンプト（デザイン/UI）（10）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
 | [Awesome DESIGN.md](entries/prompt-design/voltagent-awesome-design-md.md) ⚑ | 126,314 | 13,979 | 週次 | 5 | 2026-10-28 | 2026-11-09 | 2026-11-10 | MIT |
 | [Marketing Skills (cold-email)](entries/prompt-design/coreyhaines31-marketingskills.md) ⚑ | 59,400 | 8,675 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
 | [Hallmark（AIっぽさを名指しで潰すデザインスキル）](entries/prompt-design/nutlope-hallmark.md) ⚑ | 51,710 | 2,750 | 毎日 | 85 | 2026-11-05 | 2026-11-09 | 2026-11-10 | MIT |
+| [Huashu Design](entries/prompt-design/alchaincyf-huashu-design.md) ⚑ | 29,080 | 3,134 | 毎日 | 31 | 2026-11-10 | 2026-11-10 | 2026-11-10 | MIT |
 | [prompt-master](entries/prompt-design/nidhinjs-prompt-master.md) ⚑ | 15,766 | 1,819 | 週次 | 7 | 2026-10-22 | 2026-11-09 | 2026-11-10 | MIT |
 | [handraw-style](entries/prompt-design/yang0-handraw-style.md) | 7,265 | 852 | 毎日 | 60 | 2026-11-09 | 2026-11-09 | 2026-11-10 | NOASSERTION |
 | [kepano/obsidian-minimal](entries/prompt-design/kepano-obsidian-minimal.md) ⚑ | 5,555 | 295 | 月次 | 0 | 2026-10-06 | 2026-11-09 | 2026-11-10 | MIT |
@@ -1378,6 +1379,7 @@
 - [Awesome DESIGN.md](entries/prompt-design/voltagent-awesome-design-md.md) — unverified / ブランドの視覚的アイデンティティは各社に帰属し、READMEは「We do not claim ownership of any site's visual identity」と明記する。各DESIGN.mdは第三者による解釈（"An inspired interpretation of X's design language"）で公式配色の転載ではなく、実サイトと差異があり得る。84本中10本はYAMLフロントマター無し・11本はDo's and Don'ts節が無く、shadcnスキルが前提とする入力を満たさない。README/CONTRIBUTINGが言及するpreview.html / preview-dark.html はリポジトリに存在しない（プレビューはgetdesign.md側）。UI生成の品質・再現性は未実測で、リポジトリにベンチ・比較は無い。npmの@google/design.mdはlicense表記が無く、lintツールの再配布条件は未確認。skills CLIは既定でテレメトリ送信。
 - [Marketing Skills (cold-email)](entries/prompt-design/coreyhaines31-marketingskills.md) — unverified / 投稿の『48 leads / 12 pitches / 1 signed』『Claudeが全部やる』『15秒スポット $3,000–6,000』は投稿者の宣伝で、リポジトリにも一次情報にも裏付けがない（未確認）。確認できたのは、cold-email がコールドメールの文面・件名・フォロー・配信設計・返信処理の指示書であり、リード探索（同リポジトリの prospecting、または投稿がリンクする別リポジトリの lead-research-assistant）、送信、契約、3D動画、請求を実行するコードを含まないこと。投稿の『storyboard』『AIスタートアップの発見』はこのスキルの機能ではなく、SKILL.md に storyboard の記述はない。ベンチマークはベンダー由来で、スキルには測定済みの返信率・受注実績がない。効果は利用者のリスト品質・製品・ドメイン評判に依存する。
 - [Hallmark（AIっぽさを名指しで潰すデザインスキル）](entries/prompt-design/nutlope-hallmark.md) — unverified / リリースもタグも無い（`/releases` と `/tags` が空、バージョンは SKILL.md と package.json の 2.0.0 表記のみ）。更新は活発だが 30日85コミットの大半が数十件のコミュニティPRを同一分にまとめてマージしたもので、内容はテーマ検証・sloplint・capture のバグ修正が中心（docs/スクリプトのみで実行バイナリは無い）。未解決が issue 25・PR 15。リポジトリは 228MB（site/ と docs/screenshots/ の画像が主因）で、インストールされるスキル本体は 7.1MB。ブラウザ検査（`--render`）は puppeteer-core + Chrome が要り、無い場合は『render tier not run』と出して静的検査だけに落ちる（実測）。同期間の★増分『+7,600』は投稿の主張で、stargazers API が 4万件超のページを返さない（page 400 で 404）ため検証できない。★は API 値 49,068 を採る（投稿の『4.8万』とほぼ一致、やや過小）。同梱の写真755枚は Wikimedia Commons の CC0/PD/CC BY/CC BY-SA で、CC BY 系は著作者・ライセンス・元ページの表示が条件。スキルはエージェントのフル権限で走る（skills.sh の警告）ので、導入前に SKILL.md と scripts/ を読むべき。画像生成ステップだけは TOGETHER_API_KEY（FLUX.1.1-pro、有料）を使う。eval/README が『claude -p ではスキルは自動発火しない』と明記しており、名前で呼ぶ運用が前提。
+- [Huashu Design](entries/prompt-design/alchaincyf-huashu-design.md) — unverified / ['導入・生成・書き出しは未実行。成果物の品質、制作時間、エージェントやOSごとの動作、生成物に含まれる第三者素材の権利は未検証。最新リリースの公開時刻はタイムゾーン付きで確認できなかったため省略した。']
 - [prompt-master](entries/prompt-design/nidhinjs-prompt-master.md) — unverified / 今回の投稿は機能紹介で新たな実行試験ではない。 今回の動作・推論・生成・性能は未検証。
 - [kepano/obsidian-minimal](entries/prompt-design/kepano-obsidian-minimal.md) — unverified / MIT表記を原チェックで確認。テーマの見た目・機能・バージョン互換性は未実行確認。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [kepano/flexoki](entries/prompt-design/kepano-flexoki.md) — unverified / MITは配色リポジトリの条件。コントラストや可読性は実際の組み合わせ・端末で確認する必要があり本調査では未試験。 当方でインストール・推論・生成・ベンチ再現はしていない。
