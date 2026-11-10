@@ -1,5 +1,5 @@
 {
-  "count": 779,
+  "count": 780,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -8127,6 +8127,41 @@
       "last_release_at": "",
       "path": "entries/coding-agent/zseven-w-openpencil.md",
       "summary": "Rust/WASMキャンバス、MCPサーバ、並列エージェント等を備えるベクターデザインツールOpenPencil。"
+    },
+    {
+      "repo": "Louis-CFM/coucou",
+      "name": "Coucou",
+      "genre": "coding-agent",
+      "url": "https://github.com/Louis-CFM/coucou",
+      "license": "MIT",
+      "stars": 7102,
+      "language": "Swift",
+      "created": "2026-09-27",
+      "updated": "2026-11-06",
+      "forks": 1166,
+      "open_issues": 460,
+      "commits_30d": 100,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 30519,
+      "archived": false,
+      "last_release": "v0.5.8",
+      "last_release_at": "2026-10-31",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": [
+        "公開資料による確認。通知の到達や遅延、端末移動、Face ID承認は実機未検証。CodexでClaude Codeと同じ承認操作ができるか、およびTestFlightの参加可否は未確認。"
+      ],
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/opensourcelab9/status/2115692620999725338"
+      ],
+      "fetched_at": "2026-11-10T12:28:52+00:00",
+      "path": "entries/coding-agent/louis-cfm-coucou.md",
+      "summary": "Claude Code、Codex、Cursor、Gemini CLIなどのセッションをMacのノッチで確認できる。Claude Codeの許可要求にはノッチから応答できると公式READMEに記載されている。"
     },
     {
       "type": "repo",
