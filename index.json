@@ -1,5 +1,5 @@
 {
-  "count": 575,
+  "count": 576,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -5278,6 +5278,25 @@
       "risk_notes": "PC等の1/2以内・上限10万円は原チェック時の公式確認。誰でも単体PCを先に買えば補助される制度ではなく、現行公募要領と対象者を確認する。 当方でインストール・推論・生成・ベンチ再現はしていない。",
       "published": "2026-08-17",
       "path": "articles/2026-11-09-https-x.com-makeai_ceo-status-2089261252120051821.md"
+    },
+    {
+      "name": "動画サイトの月途中の売上報告",
+      "genre": "article",
+      "url": "https://x.com/jarvis11x/status/2110355849864458438",
+      "author": "@jarvis11x",
+      "published": "2026-10-14",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "本文と日付は公開ミラー経由。売上の真正性とSEOの効果は未確認。",
+      "type": "article",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/jarvis11x/status/2113421059089105023"
+      ],
+      "fetched_at": "2026-11-10T12:05:03+09:00",
+      "path": "articles/2026-10-14-jarvis11x-2dae9ce2.md"
     },
     {
       "type": "article",

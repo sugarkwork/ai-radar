@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 575 件 — リポジトリ 327, リンク集 108, 記事 73, モデル 53, プロンプト 14 / ⚑ 要確認 368 件
+収録 576 件 — リポジトリ 327, リンク集 108, 記事 74, モデル 53, プロンプト 14 / ⚑ 要確認 369 件
 
 ## リポジトリ（327）
 
@@ -860,9 +860,9 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（73）
+## 記事（74）
 
-### 記事（21）
+### 記事（22）
 
 - **[$0のデジタル参謀長で月$80,000の契約候補を作ったというX投稿（動画付き）](articles/2026-10-22-bober_smart-0-80-000-x.md)** ⚑  @Bober_smart
 - **[1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md)** ⚑  @mukadeshinigami（mukade死神）
@@ -884,6 +884,7 @@
 - **[「長くなる一方のSkill」を「短く効くSkill」にする、Matt Pocock式の作り方](articles/2026-10-20-sumika45379-skills-studio-skill-skill-matt-pocock.md)** ⚑  @sumika45379 (Skills Studio)
 - **[【公式】Claude Codeの「直しました」で終わらせない。画面の確認まで任せるSkillの作り方](articles/2026-10-23-sumika45379-skills-studio-claude-code-skill.md)** ⚑  sumika45379 / Skills Studio
 - **[デジタル化・AI導入補助金の申請条件と交付順序](articles/2026-11-09-https-x.com-makeai_ceo-status-2089261252120051821.md)** ⚑  @ai_ai_ailover
+- **[動画サイトの月途中の売上報告](articles/2026-10-14-jarvis11x-2dae9ce2.md)** ⚑  @jarvis11x
 - **[海外版noteで日本語の知識を英語圏に販売するAI活用記事](articles/2026-11-09-https-x.com-i-article-2117172572655849472.md)** ⚑  @pometa_afi
 
 ### 動画生成パイプライン（14）
@@ -1091,6 +1092,7 @@
 - [「長くなる一方のSkill」を「短く効くSkill」にする、Matt Pocock式の作り方](articles/2026-10-20-sumika45379-skills-studio-skill-skill-matt-pocock.md) — unverified / 2026-10-10時点「スター28万超」という記事の数字は当時の値を再現できず、2026-11-08実測は318,171（記事の数字は古いスナップショットで、現在は上回る）。種動画の内容は説明欄のチャプター（5段）と公開日まで確認、本編の逐語と図版は未確認。動画側の「22 million+ people use them」は一次確認なし（記事はこの種のインストール数を載せていない）。効果（送り返しの減少）の第三者計測は記事にも当方にも見つからない。記事は本文中2箇所でLINE友だち追加による「Skill10選」配布へ誘導する販促導線を含む。
 - [【公式】Claude Codeの「直しました」で終わらせない。画面の確認まで任せるSkillの作り方](articles/2026-10-23-sumika45379-skills-studio-claude-code-skill.md) — unverified / 記事ページは非ログインだと x.com のログイン画面へリダイレクトされ（HTTP 200）、本文は封筒JSONの articleText に依拠。published は発見元ポストの日時（2026-10-23）で、記事ページ上の公開日は未確認。動画の字幕が取得できず、動画内の具体発言（3つの確認例、CLS 実演）は直接確認していない。v2.1.286 の自動実行は公式ドキュメントで確認済みだが、著者自身は /verify を実行しておらず、記事もその旨を明記している。末尾に LINE 友だち追加でプロンプト集を配る導線がある。
 - [デジタル化・AI導入補助金の申請条件と交付順序](articles/2026-11-09-https-x.com-makeai_ceo-status-2089261252120051821.md) — unverified / PC等の1/2以内・上限10万円は原チェック時の公式確認。誰でも単体PCを先に買えば補助される制度ではなく、現行公募要領と対象者を確認する。 当方でインストール・推論・生成・ベンチ再現はしていない。
+- [動画サイトの月途中の売上報告](articles/2026-10-14-jarvis11x-2dae9ce2.md) — unverified / 本文と日付は公開ミラー経由。売上の真正性とSEOの効果は未確認。
 - [海外版noteで日本語の知識を英語圏に販売するAI活用記事](articles/2026-11-09-https-x.com-i-article-2117172572655849472.md) — unverified, low-quality / 年500万円・価格7〜10倍は著者の自己申告。収益の再現性、PDFの内容・料金・権利条件は未確認。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Karpathy Guidelines（karpathy-guidelines スキル）](entries/coding-agent/multica-ai-andrej-karpathy-skills.md) — unverified / 効果は未検証：README の定性チェックリスト以外に実測・ベンチマークがなく、効能は著者の主張にとどまる。Karpathy 本人の監修・寄稿はなく、第三者が本人のX投稿（2026-01-26）を4原則に再構成した非公式プロジェクト（旧リビジョンの README には非公式である旨の免責があったが現行 README では削除済み）。ライセンスは LICENSE ファイルがなく API は null（README・SKILL.md・plugin.json は MIT と記載）のため unknown 扱い。2026-04-20 以降コミットがなく stale、open_issues 139 は Issues 無効化（has_issues=false）のため実質 PR。README のインストール手順は forrestchang 名義の URL で、multica-ai へ301リダイレクトする移管前の記述のまま。
 - [Caveman](entries/coding-agent/juliusbrussee-caveman.md) — unverified / 効果数値（入力トークン33.2%減、54%安価、18/18正解、圧縮率など）はリポジトリ自身のベンチマークで自己申告であり、本検証では再実行していない。READMEが引用するAdobe ResearchのarXiv論文とJetBrainsのブログは原典を取得しておらず、第三者検証としては未確認。CLIのインストール・実行も未実施。APIのlicenseはApache-2.0だが、リポジトリにはLICENSE-MITも同梱されており、ファイル単位のライセンス区分は未確認。「Caveman」とロゴは商標。
