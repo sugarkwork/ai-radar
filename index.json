@@ -1,5 +1,5 @@
 {
-  "count": 697,
+  "count": 698,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -14106,6 +14106,37 @@
       "fetched_at": "2026-11-10T08:19:51+00:00",
       "path": "entries/other/amirmushichge-pixel-plays.md",
       "summary": "ボッチャ、橋からの飛び込み、洗濯物入れ、テニス、スケートボードの5本を収録。READMEには公開プレイ先が掲載されている。"
+    },
+    {
+      "repo": "UnderleveledBuilder/awesome-social-media-skills",
+      "name": "Awesome Social Media Skills",
+      "genre": "other",
+      "url": "https://github.com/UnderleveledBuilder/awesome-social-media-skills",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "最新リリース、検索スキルの導入と動作、掲載ツールの実効性・安全性・個別の料金や利用条件は未確認。READMEによると、投稿や返信を行う一部のツールはアカウント認証を要し、Cookieをローカルに保存する場合がある。",
+      "stars": 252,
+      "forks": 40,
+      "open_issues": 6,
+      "size_kb": 3123,
+      "language": "Python",
+      "created": "2026-10-19",
+      "updated": "2026-11-08",
+      "archived": false,
+      "license": "CC0-1.0",
+      "commits_30d": 33,
+      "commits_90d": 33,
+      "commit_cadence": "daily",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/Ryrenz/status/2117620066875293733"
+      ],
+      "fetched_at": "2026-11-10T10:04:19Z",
+      "path": "entries/other/underleveledbuilder-awesome-social-media-skills.md",
+      "summary": "企画、原稿、カバー画像・短尺動画、公開、分析の工程別に、小紅書、抖音、WeChat、Bilibili、X、YouTube、TikTok、LinkedInなどの候補を探せる。確認したREADMEにはスキル189件とMCPツール・オープンソース基盤27件が記載されている（メタデータ更新日2026-11-05）。"
     },
     {
       "repo": "ScriptedAlchemy/grok-bot-cli",
