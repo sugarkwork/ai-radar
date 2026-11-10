@@ -1,5 +1,5 @@
 {
-  "count": 713,
+  "count": 714,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -5431,6 +5431,24 @@
       ],
       "fetched_at": "2026-11-10T03:33:05Z",
       "path": "articles/2026-10-23-jarvis11x-ai.md"
+    },
+    {
+      "name": "Accelerating engineering for the physical world",
+      "genre": "article",
+      "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world/",
+      "published": "2026-11-03",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "試作期間はOpenAIの自己報告。独立再現、試作費用、量産時の歩留まり、具体的なツール構成や設計成果物の再利用条件は未確認。",
+      "type": "article",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/neuronxwhite/status/2117898850774216835"
+      ],
+      "fetched_at": "2026-11-10T10:56:32Z",
+      "path": "articles/2026-11-03-author-accelerating-engineering-for-the-physical-world.md"
     },
     {
       "name": "Bring Agentic Coding On-Device with Foundry Local",

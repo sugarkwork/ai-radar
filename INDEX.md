@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 713 件 — リポジトリ 406, リンク集 113, 記事 127, モデル 53, プロンプト 14 / ⚑ 要確認 503 件
+収録 714 件 — リポジトリ 406, リンク集 113, 記事 128, モデル 53, プロンプト 14 / ⚑ 要確認 504 件
 
 ## リポジトリ（406）
 
@@ -954,9 +954,9 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（127）
+## 記事（128）
 
-### 記事（68）
+### 記事（69）
 
 - **[$0のデジタル参謀長で月$80,000の契約候補を作ったというX投稿（動画付き）](articles/2026-10-22-bober_smart-0-80-000-x.md)** ⚑  @Bober_smart
 - **[1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md)** ⚑  @mukadeshinigami（mukade死神）
@@ -969,6 +969,7 @@
 - **[AIポスターのヤフオク販売ノウハウ（売上未確認）](articles/2026-11-09-https-x.com-knyan151-status-2119039308242063379.md)** ⚑  @knyan151
 - **[AI作品の売れるコンセプト選定に関する販促記事（本文未取得）](articles/2026-11-09-https-x.com-i-article-2118611825109729280.md)** ⚑  @1banana2546
 - **[AI生成コードと障害対応をめぐる逸話](articles/2026-10-23-jarvis11x-ai.md)** ⚑  @jarvis11x
+- **[Accelerating engineering for the physical world](articles/2026-11-03-author-accelerating-engineering-for-the-physical-world.md)** ⚑
 - **[Bring Agentic Coding On-Device with Foundry Local](articles/2026-11-05-author-bring-agentic-coding-on-device-with-foundry-local.md)** ⚑
 - **[ChatGPT + Obsidian で組む英語リスニング訓練システム](articles/2026-09-27-momoai_daily-momoai-chatgpt-obsidian.md)** ⚑  @momoai_daily（momoai沫沫🫧）
 - **[Claude Code に Blender シーンを Python で書かせ、ヘッドレスで回す6段階](articles/2026-10-22-y0urdumble-claude-code-blender-python-6.md)** ⚑  @Y0urDumble
@@ -1241,6 +1242,7 @@
 - [AIポスターのヤフオク販売ノウハウ（売上未確認）](articles/2026-11-09-https-x.com-knyan151-status-2119039308242063379.md) — unverified / 月30万円は自己申告で第三者確認なし。販売の適法性や収益性を保証せず、具体的生成物は転載しない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [AI作品の売れるコンセプト選定に関する販促記事（本文未取得）](articles/2026-11-09-https-x.com-i-article-2118611825109729280.md) — unverified, low-quality / 18+ / NSFWに関連。露骨な例・本文は転載しない。具体的手法、売上効果、教材内容・価格は未確認で成功例として断定しない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [AI生成コードと障害対応をめぐる逸話](articles/2026-10-23-jarvis11x-ai.md) — unverified / 障害、解雇、AI使用との因果は未確認。
+- [Accelerating engineering for the physical world](articles/2026-11-03-author-accelerating-engineering-for-the-physical-world.md) — unverified / 試作期間はOpenAIの自己報告。独立再現、試作費用、量産時の歩留まり、具体的なツール構成や設計成果物の再利用条件は未確認。
 - [Bring Agentic Coding On-Device with Foundry Local](articles/2026-11-05-author-bring-agentic-coding-on-device-with-foundry-local.md) — unverified / llama.cppとの速度差とVRAM別のコンテキスト上限はMicrosoftの報告に基づく。実機での再現、Copilotアプリ全体のオフライン動作、利用プランごとの料金・条件は未確認。
 - [ChatGPT + Obsidian で組む英語リスニング訓練システム](articles/2026-09-27-momoai_daily-momoai-chatgpt-obsidian.md) — unverified / 本文は全文取得済みだが、初回60%→80%の目安や復習間隔は著者の経験則で定量データなし。Obsidian への自動書き込みは公式連携がなく手動運用。
 - [Claude Code に Blender シーンを Python で書かせ、ヘッドレスで回す6段階](articles/2026-10-22-y0urdumble-claude-code-blender-python-6.md) — unverified, low-quality / 主張: 719 voxels・12 joints・16秒/120bpm・音楽も Python 合成・参考画像1枚で修正・『Opus 5.5 が無料でやった』『Blender を一度も開いていない』。確認できた: blender -b（UIなし）と -P（スクリプト実行）は公式引数で、-f によるフレーム単位レンダーも公式。EEVEE は実在しラスタライズ方式。Blender 5.2.3 LTS は投稿当日の 2026-10-22 リリースで無料（GPL）。動画は実測 16.04 秒で『16 sec』と一致。確認できず: 719 voxels / 12 joints / 120bpm / 音楽合成のいずれも投稿と動画キャプション以外の裏付けがなく、再現スクリプトも第三者検証もない。手順3の t.co は scene.py が URL と誤認されたもので資料ではない。誤り・誇張: Free プランに Claude Code は含まれず『無料』は不正確（Pro 月20ドル、Opus 5.5 API は $4/$20 per MTok）。動画のオーバーレイは『CLAUDE OPUS 5.5 x BLENDER MCP』『mcp.connect(blender)』で、ヘッドレス実行とも『一度も開いていない』とも食い違う。『28 beats . 120 bpm』は14秒、ログの beats=12 は6秒で、16秒と整合しない。配布物 arjun988/blender-skills は MCP 前提の 94 skills で、headless/719/120bpm/12 joints の記述は0件——投稿の主張と配布物の実体は別物。『3Dはドリフトしない』は形状のみで、ライティング・フレーミング・アニメーションで印象は変わる（返信で同旨の指摘、著者も同意）。記事本文はログイン必須で未取得のため、記事内の詳細・コード・プロンプトは未確認。
