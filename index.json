@@ -1,5 +1,5 @@
 {
-  "count": 671,
+  "count": 672,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -16647,6 +16647,37 @@
       "last_release_at": "",
       "path": "entries/tts-audio/kgmkm-muse-irodori-voice.md",
       "summary": "Irodori-TTS v4.1-Small-MFのONNX int8推論をCPUで使い、キャプションで候補を生成、選んだ声を参照潜在npzで固定する。長文は70–80字程度に分割生成し、間隔0.4秒で結合する手順とスクリプトを収録。"
+    },
+    {
+      "repo": "lakimi-ai-systems/lab-tts",
+      "name": "lab-tts",
+      "genre": "tts-audio",
+      "url": "https://github.com/lakimi-ai-systems/lab-tts",
+      "stars": 8,
+      "forks": 0,
+      "open_issues": 0,
+      "size_kb": 812,
+      "language": "Python",
+      "created": "2026-11-03",
+      "updated": "2026-11-03",
+      "archived": false,
+      "license": "Apache-2.0",
+      "commits_30d": 3,
+      "commits_90d": 3,
+      "commit_cadence": "monthly",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "最新リリース、実行時の動作と必要VRAM、公開結果の再現性は未確認。Audio8の休止時間は日常文1例での著者報告。モデルの利用条件はリポジトリREADMEの記載を確認した範囲。",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/bernvadell/status/2117565104040321039"
+      ],
+      "fetched_at": "2026-11-10T09:33:29+00:00",
+      "path": "entries/tts-audio/lakimi-ai-systems-lab-tts.md",
+      "summary": "Qwen3-TTS 1.7B VoiceDesignで文章の指示から合成参照音声を作り、0.6B Baseでその声を使って別の文を読み上げる。Audio8などと発音、長文での安定性、休止を比較できる。"
     },
     {
       "type": "model",

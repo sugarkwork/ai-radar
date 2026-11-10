@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 671 件 — リポジトリ 368, リンク集 113, 記事 123, モデル 53, プロンプト 14 / ⚑ 要確認 462 件
+収録 672 件 — リポジトリ 369, リンク集 113, 記事 123, モデル 53, プロンプト 14 / ⚑ 要確認 463 件
 
-## リポジトリ（368）
+## リポジトリ（369）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -237,7 +237,7 @@
 | [quicksilver](entries/coding-agent/uditakhourii-quicksilver.md) ⚑ | 142 | 11 | 停滞 | 0 | 2026-09-25 | 2026-11-09 | 2026-11-10 | MIT |
 | [GDG Agent Skillsの実演教材](entries/coding-agent/gdg-oau-agent-skills-gdg.md) ⚑ | 1 | 0 | 週次 | 13 | 2026-11-07 | 2026-11-10 | 2026-11-10 | unknown |
 
-### 音声・TTS（28）
+### 音声・TTS（29）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -269,6 +269,7 @@
 | [adventists-ai/sophon-realtime](entries/tts-audio/adventists-ai-sophon-realtime.md) ⚑ | 58 | 4 | 毎日 | 36 | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
 | [lowkeytea/scyllasband](entries/tts-audio/lowkeytea-scyllasband.md) ⚑ | 29 | 2 | 週次 | 11 | 2026-11-07 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
 | [muse-irodori-voice — CPUで固有音声を作るIrodoriキット](entries/tts-audio/kgmkm-muse-irodori-voice.md) ⚑ | 9 | 0 | 週次 | 4 | 2026-10-31 | 2026-11-09 | 2026-11-10 | MIT |
+| [lab-tts](entries/tts-audio/lakimi-ai-systems-lab-tts.md) ⚑ | 8 | 0 | 月次 | 3 | 2026-11-03 | 2026-11-10 | 2026-11-10 | Apache-2.0 |
 
 ### モデル推論・配信（24）
 
@@ -1465,6 +1466,7 @@
 - [adventists-ai/sophon-realtime](entries/tts-audio/adventists-ai-sophon-realtime.md) — unverified / Apache-2.0とNOTICEの第三者要素の条件を分ける。0.31秒等は特定版・構成の作者測定で全版への保証ではない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [lowkeytea/scyllasband](entries/tts-audio/lowkeytea-scyllasband.md) — unverified / ランタイムApache-2.0と各構成要素の条件を確認する。モデルの70ms等を全デバイスでの実測保証にしない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [muse-irodori-voice — CPUで固有音声を作るIrodoriキット](entries/tts-audio/kgmkm-muse-irodori-voice.md) — unverified / コードはMITだが重みと音声利用条件は別。READMEは特定声優・キャラクターへの模倣を禁じ、同意のない他者のなりすまし等にも注意する。このONNX経路ではSilentCipher透かしが入らないと説明されているためAI音声であることを明示する。速度・同一性・品質は作者の測定で当方未追試。 当方でインストール・動作・性能の実行検証はしていない。
+- [lab-tts](entries/tts-audio/lakimi-ai-systems-lab-tts.md) — unverified / 最新リリース、実行時の動作と必要VRAM、公開結果の再現性は未確認。Audio8の休止時間は日常文1例での著者報告。モデルの利用条件はリポジトリREADMEの記載を確認した範囲。
 - [Museで既存動画へ声を付ける制作メモ（18+注意）](articles/2026-11-09-memuringo7544-muse-video-voiceover.md) — unverified / 18+ / NSFW。成人向けを含む動画への音声付与に関する投稿。原音除去/重ね合わせの説明と口パク一致の限界を区別。画像内のAI回答は動作証拠ではなく、ユーザーの成功談も独立追試していない。
 - [Muse・無料GPUによるYuE2実行手順（本文未取得）](articles/2026-11-09-https-x.com-i-article-2118941631386996736.md) — unverified / 具体的な無料GPU・接続方法・費用・原文指示は未確認。YuE2本体の実在を記事の手順成功の証拠にしない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Muse内Irodori音声ライブラリ制作事例](articles/2026-11-09-https-x.com-memuringo7544-status-2118972621866012726.md) — unverified / 18+ / NSFWに関連する音声分類を含む。音声・露骨な題名は転載しない。コード・配布URLとMuse内保存/共有条件は未確認で、UI画像は再現性の証明ではない。 当方でインストール・推論・生成・ベンチ再現はしていない。
