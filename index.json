@@ -1,5 +1,5 @@
 {
-  "count": 576,
+  "count": 577,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -5278,6 +5278,25 @@
       "risk_notes": "PC等の1/2以内・上限10万円は原チェック時の公式確認。誰でも単体PCを先に買えば補助される制度ではなく、現行公募要領と対象者を確認する。 当方でインストール・推論・生成・ベンチ再現はしていない。",
       "published": "2026-08-17",
       "path": "articles/2026-11-09-https-x.com-makeai_ceo-status-2089261252120051821.md"
+    },
+    {
+      "name": "公開済みサイトのSEO・GEO監査と再測定",
+      "genre": "article",
+      "url": "https://x.com/jarvis11x/status/2095123420467855387",
+      "author": "@jarvis11x",
+      "published": "2026-09-02",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "計測期間が異なり、SEO施策の効果と売上への寄与は独立検証できていない。",
+      "type": "article",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/jarvis11x/status/2113421877805019346"
+      ],
+      "fetched_at": "2026-11-10T03:19:10Z",
+      "path": "articles/2026-09-02-jarvis11x-seo-geo.md"
     },
     {
       "name": "動画サイトの月途中の売上報告",
