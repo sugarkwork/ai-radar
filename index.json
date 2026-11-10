@@ -1,5 +1,5 @@
 {
-  "count": 707,
+  "count": 708,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -186,6 +186,37 @@
       "fetched_at": "2026-11-10T08:16:10+00:00",
       "path": "entries/3d-motion/blender-blender.md",
       "summary": "モデリング、リギング、アニメーション、レンダリング、合成、動画編集に対応する。Eeveeはリアルタイムのラスタライズ方式を採用しており、照明やカメラを調整しながらプレビューできる。"
+    },
+    {
+      "repo": "Tencent-Hunyuan/Hunyuan3D-2",
+      "name": "Hunyuan3D-2",
+      "genre": "3d-motion",
+      "url": "https://github.com/Tencent-Hunyuan/Hunyuan3D-2",
+      "license": "unknown",
+      "stars": 15376,
+      "forks": 1594,
+      "open_issues": 254,
+      "size_kb": 83148,
+      "language": "Python",
+      "created": "2025-01-21",
+      "updated": "2025-10-28",
+      "archived": false,
+      "commits_30d": 0,
+      "commits_90d": 0,
+      "commit_cadence": "stale",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/Y0urDumble/status/2117739253748937033"
+      ],
+      "fetched_at": "2026-11-10T10:28:18+00:00",
+      "path": "entries/3d-motion/tencent-hunyuan-hunyuan3d-2.md",
+      "summary": "画像から形状メッシュを生成し、GLBやOBJに書き出せる。生成したメッシュや手持ちのメッシュには、別段階でテクスチャを合成できる。"
     },
     {
       "type": "repo",
