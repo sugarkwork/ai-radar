@@ -1,5 +1,5 @@
 {
-  "count": 781,
+  "count": 782,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -16466,6 +16466,37 @@
       "fetched_at": "2026-11-09T21:41:09Z",
       "path": "entries/other/leepokai-jev-guard.md",
       "summary": "ツール実行前に Jev へ risk / approval / user_requested / from_untrusted の型付き質問を投げ、deny・ask・allow を判定する。判定は src/guard.js の閾値で決まり、risk 2.5 以上で拒否、1.5 以上または承認確率 0.75 以上で承認要"
+    },
+    {
+      "repo": "christianmat/jev-pokemon",
+      "name": "Jev Plays Pokémon Red",
+      "genre": "other",
+      "url": "https://github.com/christianmat/jev-pokemon",
+      "license": "GPL-2.0",
+      "stars": 133,
+      "language": "TypeScript",
+      "created": "2026-09-25",
+      "updated": "2026-09-28",
+      "forks": 10,
+      "open_issues": 2,
+      "commits_30d": 0,
+      "commit_cadence": "monthly",
+      "commits_90d": 100,
+      "size_kb": 9041,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "クリア結果、所要時間、費用は作者の報告。独立再現、現行の Gateway 料金、別環境での動作は未確認。GitHub の公開 Releases ページにリリースは掲載されていなかった。",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/thegreatest_sv/status/2115779290033803462"
+      ],
+      "fetched_at": "2026-11-10T12:31:32+00:00",
+      "path": "entries/other/christianmat-jev-pokemon.md",
+      "summary": "Game Boy エミュレーターの RAM からマップ、手持ち、戦闘、表示テキストを取得する。行動候補にタイプ相性やダメージ見積もりを添えて Jev に渡し、選ばれた行動をボタン入力に変換する。"
     },
     {
       "type": "model",

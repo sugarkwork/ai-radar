@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 781 件 — リポジトリ 470, リンク集 113, 記事 131, モデル 53, プロンプト 14 / ⚑ 要確認 571 件
+収録 782 件 — リポジトリ 471, リンク集 113, 記事 131, モデル 53, プロンプト 14 / ⚑ 要確認 572 件
 
-## リポジトリ（470）
+## リポジトリ（471）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -287,7 +287,7 @@
 | [quicksilver](entries/coding-agent/uditakhourii-quicksilver.md) ⚑ | 142 | 11 | 停滞 | 0 | 2026-09-25 | 2026-11-09 | 2026-11-10 | MIT |
 | [GDG Agent Skillsの実演教材](entries/coding-agent/gdg-oau-agent-skills-gdg.md) ⚑ | 1 | 0 | 週次 | 13 | 2026-11-07 | 2026-11-10 | 2026-11-10 | unknown |
 
-### その他（51）
+### その他（52）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -342,6 +342,7 @@
 | [Awesome Social Media Skills](entries/other/underleveledbuilder-awesome-social-media-skills.md) ⚑ | 252 | 40 | 毎日 | 33 | 2026-11-08 | 2026-11-10 | 2026-11-10 | CC0-1.0 |
 | [grok-bot-cli](entries/other/scriptedalchemy-grok-bot-cli.md) ⚑ | 181 | 37 | 毎日 | 31 | 2026-11-04 | 2026-11-10 | 2026-11-10 | MIT |
 | [jev-guard](entries/other/leepokai-jev-guard.md) ⚑ | 150 | 24 | 月次 | 0 | 2026-10-02 | 2026-11-09 | 2026-11-10 | MIT |
+| [Jev Plays Pokémon Red](entries/other/christianmat-jev-pokemon.md) ⚑ | 133 | 10 | 月次 | 0 | 2026-09-28 | 2026-11-10 | 2026-11-10 | GPL-2.0 |
 
 ### 音声・TTS（33）
 
@@ -1614,6 +1615,7 @@
 - [Awesome Social Media Skills](entries/other/underleveledbuilder-awesome-social-media-skills.md) — unverified / 最新リリース、検索スキルの導入と動作、掲載ツールの実効性・安全性・個別の料金や利用条件は未確認。READMEによると、投稿や返信を行う一部のツールはアカウント認証を要し、Cookieをローカルに保存する場合がある。
 - [grok-bot-cli](entries/other/scriptedalchemy-grok-bot-cli.md) — unverified / README に基づく確認。CLI・MCP の実機動作、OS 別の認証互換性、最新 GitHub リリース、Grok Bot 側の料金・プラン条件は未確認。90 日コミット数の 100 は計測上限で、100 件以上を表す。
 - [jev-guard](entries/other/leepokai-jev-guard.md) — unverified / 料金『1,000チェックあたり約4セント』は README の想定（1コール約1kトークン）と Vercel AI Gateway の $0.042/1M input 単価からの試算で、実測の請求額ではない。APIキーは必須（キー未設定時は明示的にエラー）だが、無料枠の有無は一次情報で確認できない。有効性は開発者自身の計測（662スキル走査、ライブAPIでのClaude Code/OpenCode検証）のみで、第三者評価は無い。既定は fail-open（API不達なら許可）で、フックを通らない経路や設定ミスでは回避され得る。README 自身が『guardrail, not a sandbox』と明記している。
+- [Jev Plays Pokémon Red](entries/other/christianmat-jev-pokemon.md) — unverified / クリア結果、所要時間、費用は作者の報告。独立再現、現行の Gateway 料金、別環境での動作は未確認。GitHub の公開 Releases ページにリリースは掲載されていなかった。
 - [169Pi/Alpie_seed](models/other/169pi-alpie_seed.md) — unverified / 61.20はMini-SWE-agent・thinking有効・再試行なし・temperature0のモデルカード自己報告。latestタグだけで画像入力可能とは判断しない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Clover 35B-A3B（拡散型 MoE）](models/other/diffuspace-clover-35b-a3b-preview.md) — unverified / tok/s 比較は投稿者環境の一例で、モデルカードに計測条件の記載がない。
 - [DeepSeek-V4-Pro-Qwen3.5-9B UNCENSORED（Heretic ARA）](models/other/xtools-at-deepseek-v4-pro-qwen3.5-9b-uncensored-heretic.md) — unverified / モデルとライセンスは実在（HF APIで2026-11-08に確認: DL 1,369・likes 564・apache-2.0・Qwen3_5ForConditionalGeneration）。ただし投稿の主張は未検証か誤りを含む: 『Hugging Faceのサーバーが落ちた』は障害記録がなく誤り。『拒否率100/100→3/100』『KL 0.0422』『25万点蒸留』『知能を1点も失わない』はモデルカードの自己申告で第三者追試なし。カードのGSM8K 94.50%/MMLU-Pro 90.53%は拒否除去前のJackrong版の数字で、heretic版の能力評価は未提出。公式リポジトリはBF16のみでGGUFは第三者変換。そのQ4_K_M 5.63GBは変換時点でconfig.jsonのmtp_num_hidden_layers=1と実ウェイトが食い違い、llama.cppがGGML_ASSERTで落ちる（作者が11/08にMTPテンソルを復元したが再量子化は未実施）。『どの端末でも数秒』は誇張で、CPUのみは変換者計測で約1 t/s。同名の非公式再アップロードが複数あり、クローンからの取得は避ける。当方でGPU推論・llama.cpp実行は未実施（runs_verified=false）。
