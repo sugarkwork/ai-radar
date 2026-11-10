@@ -1,5 +1,5 @@
 {
-  "count": 737,
+  "count": 738,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -13928,6 +13928,37 @@
       "license_name": "qwen-community-1.0",
       "path": "models/model-serving/unsloth-qwen3.8-flash-next-gguf.md",
       "summary": "Qwen3.8-Flash-NextのUnsloth配布GGUF量子化群。紹介対象のUD-IQ2_XSは3分割で約70.6GiB。"
+    },
+    {
+      "repo": "yt-dlp/yt-dlp",
+      "name": "yt-dlp",
+      "genre": "other",
+      "url": "https://github.com/yt-dlp/yt-dlp",
+      "stars": 206601,
+      "forks": 18169,
+      "open_issues": 2777,
+      "size_kb": 65029,
+      "language": "Python",
+      "created": "2020-10-26",
+      "updated": "2026-11-04",
+      "archived": false,
+      "license": "Unlicense",
+      "commits_30d": 26,
+      "commits_90d": 89,
+      "commit_cadence": "daily",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "最新リリース、個別動画での字幕取得の成否と字幕品質は未確認。発見投稿が述べる制作本数や収益性も未検証。",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/Y0urDumble/status/2114798387249717600"
+      ],
+      "fetched_at": "2026-11-10T11:39:07+00:00",
+      "path": "entries/other/yt-dlp-yt-dlp.md",
+      "summary": "対応サイトの動画から、配信元が提供する字幕や自動生成字幕をファイルに保存できる。--skip-download で動画本体の保存を省ける。"
     },
     {
       "repo": "career-ops-hq/career-ops",

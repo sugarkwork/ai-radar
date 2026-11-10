@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 737 件 — リポジトリ 426, リンク集 113, 記事 131, モデル 53, プロンプト 14 / ⚑ 要確認 527 件
+収録 738 件 — リポジトリ 427, リンク集 113, 記事 131, モデル 53, プロンプト 14 / ⚑ 要確認 528 件
 
-## リポジトリ（426）
+## リポジトリ（427）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -262,10 +262,11 @@
 | [quicksilver](entries/coding-agent/uditakhourii-quicksilver.md) ⚑ | 142 | 11 | 停滞 | 0 | 2026-09-25 | 2026-11-09 | 2026-11-10 | MIT |
 | [GDG Agent Skillsの実演教材](entries/coding-agent/gdg-oau-agent-skills-gdg.md) ⚑ | 1 | 0 | 週次 | 13 | 2026-11-07 | 2026-11-10 | 2026-11-10 | unknown |
 
-### その他（40）
+### その他（41）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
+| [yt-dlp](entries/other/yt-dlp-yt-dlp.md) ⚑ | 206,601 | 18,169 | 毎日 | 26 | 2026-11-04 | 2026-11-10 | 2026-11-10 | Unlicense |
 | [career-ops](entries/other/career-ops-hq-career-ops.md) | 81,473 | 14,978 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
 | [OBS Studio](entries/other/obsproject-obs-studio.md) ⚑ | 79,247 | 11,149 | 毎日 | 41 | 2026-11-10 | 2026-11-10 | 2026-11-10 | GPL-2.0 |
 | [MediaCrawler](entries/other/nanmicoder-mediacrawler.md) ⚑ | 70,741 | 13,389 | 毎日 | 21 | 2026-11-09 | 2026-11-09 | 2026-11-10 | 未確認（API は NOASSERTION、標準ライセンスファイル無し） |
@@ -1502,6 +1503,7 @@
 - [sakamakismile/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic-NVFP4](models/model-serving/sakamakismile-deepseek-v4-pro-qwen3.5-9b-uncensored-heretic-nvfp4.md) — unverified / 画像説明の検証はBF16展開でありNVFP4 vision配信の確認ではない。ロード9.65GiB・29.35tok/s等はRTX PRO2000 Blackwellでの作者試験。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [tencent/Qwen3.8-27B-DSpine-b16](models/model-serving/tencent-qwen3.8-27b-dspine-b16.md) — unverified / AR比2.71〜3.84倍はカード測定。DFlash2も2.33〜3.17倍で、全条件で圧倒するとは言えない。速度・受入長は未追試。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [unsloth/Qwen3.8-Flash-Next-GGUF](models/model-serving/unsloth-qwen3.8-flash-next-gguf.md) — unverified / サイズが小さいことは性能同等の証明ではない。原チェックのlicenseはotherで、基底モデルと量子化配布の条件を確認する。 当方でインストール・推論・生成・ベンチ再現はしていない。
+- [yt-dlp](entries/other/yt-dlp-yt-dlp.md) — unverified / 最新リリース、個別動画での字幕取得の成否と字幕品質は未確認。発見投稿が述べる制作本数や収益性も未検証。
 - [OBS Studio](entries/other/obsproject-obs-studio.md) — unverified / 最新リリースの年とタイムゾーンを含む公開日時は未確認。収録品質・負荷、エージェント経由の接続と録画、発見投稿で言及されたOpus 5.5との連携は未検証。90日コミット数は100件以上を表す。
 - [MediaCrawler](entries/other/nanmicoder-mediacrawler.md) — unverified / 各プラットフォームの利用規約と著作権に抵触しうる。収集した投稿・動画の再配布は権利者の許諾が必要。規約違反・アカウント停止のリスクは利用者側。
 - [FFmpeg](entries/other/ffmpeg-ffmpeg.md) — unverified / GitHubの最新リリース情報、個別ビルドで利用できるコーデック、処理速度・出力品質、AIエージェントからの実行は未検証。READMEはGitHubの公開rawファイルで確認した。 GitHub APIでライセンスを確認できていません。
