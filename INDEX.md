@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 755 件 — リポジトリ 444, リンク集 113, 記事 131, モデル 53, プロンプト 14 / ⚑ 要確認 545 件
+収録 756 件 — リポジトリ 445, リンク集 113, 記事 131, モデル 53, プロンプト 14 / ⚑ 要確認 546 件
 
-## リポジトリ（444）
+## リポジトリ（445）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### 動画生成パイプライン（74）
+### 動画生成パイプライン（75）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -49,6 +49,7 @@
 | [ffmpeg-skill — コーディングエージェントに渡すローカル動画編集ツール42本](entries/video-gen/kajisho5-ffmpeg-skill.md) ⚑ | 4,880 | 398 | 毎日 | 100+ | 2026-11-07 | 2026-11-09 | 2026-11-10 | MIT |
 | [FastVideo](entries/video-gen/hao-ai-lab-fastvideo.md) | 4,799 | 520 | 毎日 | 74 | 2026-11-08 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
 | [OpenChatCut](entries/video-gen/0xsline-openchatcut.md) ⚑ | 3,021 | 453 | 毎日 | 67 | 2026-11-06 | 2026-11-09 | 2026-11-10 | AGPL-3.0 |
+| [Claude Animation Base](entries/video-gen/johnheibel-claudeanimationbase.md) ⚑ | 2,827 | 266 | 月次 | 0 | 2026-09-24 | 2026-11-10 | 2026-11-10 | MIT |
 | [vox-director](entries/video-gen/alisa0808-vox-director.md) | 2,735 | 376 | 停滞 | 0 | 2026-10-05 | 2026-11-09 | 2026-11-10 | MIT |
 | [Herk Edit Kit（Nate Herk の AI 動画編集キット）](entries/video-gen/nateherkai-herk-edit-kit.md) | 2,691 | 652 | 週次 | 4 | 2026-10-14 | 2026-11-09 | 2026-11-10 | MIT（LICENSE 本文は MIT。GitHub API は NOASSERTION。ブランド素材と pipeline 部分に別条件） |
 | [huashu-motion（花叔）](entries/video-gen/alchaincyf-huashu-motion.md) | 2,567 | 257 | 週次 | 15 | 2026-10-22 | 2026-11-09 | 2026-11-10 | MIT |
@@ -1666,6 +1667,7 @@
 - [OpenSelena/omniget](entries/video-gen/openselena-omniget.md) — unverified / 有料講座サイトの取得機能を含む。自分の権利または明示許諾がある資料だけに限定し、有料講座の無断取得・保護回避には使わない。原記録は無断DLの実行・配布を確認しておらず潜在用途だけでは除外しない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [ffmpeg-skill — コーディングエージェントに渡すローカル動画編集ツール42本](entries/video-gen/kajisho5-ffmpeg-skill.md) — unverified / 実装は本物で、こちらで npx 導入→contract 42件→fit/check/look まで通したが、リスクは3点。(1) 実質ひとり開発：コミット270件が作者 kajisho5、146件が github-actions[bot]、53件が claude[bot]（2026-11-07 時点の contributors）。バス係数1で、方針変更やメンテ停止がそのまま影響する。(2) 壊しやすい速度：作成から2か月で 2.0.0 と 3.0.0 の2回の破壊的変更（--crf 廃止、FFmpeg 5.x / Python 3.9 切り捨て、cut.py の edit list・HEVC 保持の既定変更）。main 追従は危険で、タグ／npm バージョンで固定すべきと README 自身が書いている。(3) 数字の読み方：作成2か月で stars 4672・forks 379 に対し watchers 7。npm 週9,077DLと利用の実体はあるが、この stars 数を品質の裏付けとして扱わない。加えて README は作者の10本以上の姉妹リポジトリ（video-production-agent / remotion-ffmpeg-skill / qc-skill 等）への導線を兼ねており、宣伝面が大きい。macOS の素の Homebrew ffmpeg は libass/zscale を欠き doctor の ok が false になる（ffmpeg-full 前提）。リポジトリは 37MB で docs/demos の比重が大きい。
 - [OpenChatCut](entries/video-gen/0xsline-openchatcut.md) — unverified / 同一性: forkではなく上流そのもの（fork=false、parentなし）。効果測定は作者自身のM4 Max 1台・2セグメントのみの予備計測で、第三者による再現やプロジェクト全体の速度検証はない。MCP経由の編集フロー（begin_edit_session→review_edit_session→承認）はREADME記載であり、当方ではアプリを実行して動作確認していない。macOSビルドは未署名・未公証で初回に手動許可が必要。ライセンスは AGPL-3.0 のため、改変版をネットワークサービスとして提供するとソース開示義務が生じる。MCPブリッジは単一ユーザー・単一マシン前提でマルチテナント非対応。スキル数「26」はREADME記載の値で、レート制限によりディレクトリを直接数えて照合できていない。
+- [Claude Animation Base](entries/video-gen/johnheibel-claudeanimationbase.md) — unverified / 公開資料の読み取りで確認。コードは実行しておらず、映像の仕上がり、端末ごとの描画速度、他のエージェントでの再現性、エージェントの利用料金は未確認。発見投稿の再生数・制作時間は本キットの評価根拠に含めていない。
 - [gl-transitions/gl-transitions](entries/video-gen/gl-transitions-gl-transitions.md) — unverified / 原チェックでMIT本文を確認したがAPIはNOASSERTION。入力映像と個々の素材・構成要素の条件を確認する。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [sarpstar/cinecode](entries/video-gen/sarpstar-cinecode.md) — unverified / 無料なのはMITのキットで、エージェント契約や任意TTS/APIは別料金。Opus5.5が必須との一次根拠はなく、当方のレンダリング確認はない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [pyang5166/gbro-collage-broll](entries/video-gen/pyang5166-gbro-collage-broll.md) — unverified / 0costという投稿表現はAPI従量課金と矛盾。キットMITと生成費用・素材の権利を分け、紹介手順と実装の不一致を残す。 当方でインストール・推論・生成・ベンチ再現はしていない。

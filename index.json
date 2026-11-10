@@ -1,5 +1,5 @@
 {
-  "count": 755,
+  "count": 756,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -20892,6 +20892,39 @@
       "fetched_at": "2026-11-09T21:43:47Z",
       "path": "entries/video-gen/0xsline-openchatcut.md",
       "summary": "マルチトラックの実タイムライン（映像・音声、移動/トリム/分割/リップル、トランジション、LUT、クロマキー、キーフレーム、WebGLエフェクト）を自然言語の指示で編集し、生成物ではなく後から手編集・undoできるプロジェクトとして保持する。"
+    },
+    {
+      "repo": "JohnHeibel/ClaudeAnimationBase",
+      "name": "Claude Animation Base",
+      "genre": "video-gen",
+      "url": "https://github.com/JohnHeibel/ClaudeAnimationBase",
+      "stars": 2827,
+      "forks": 266,
+      "open_issues": 8,
+      "size_kb": 8183,
+      "language": "JavaScript",
+      "created": "2026-09-23",
+      "updated": "2026-09-24",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 0,
+      "commits_90d": 15,
+      "commit_cadence": "monthly",
+      "last_release": "",
+      "last_release_at": "",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "公開資料の読み取りで確認。コードは実行しておらず、映像の仕上がり、端末ごとの描画速度、他のエージェントでの再現性、エージェントの利用料金は未確認。発見投稿の再生数・制作時間は本キットの評価根拠に含めていない。",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/Y0urDumble/status/2115193601458151552"
+      ],
+      "fetched_at": "2026-11-10T11:59:28+00:00",
+      "path": "entries/video-gen/johnheibel-claudeanimationbase.md",
+      "summary": "Clawdの表情、向き、目や口、帽子、ダンスなどを組み合わせてシーンを作る。付属レンダラーは確認用のコマ一覧やMP4を書き出せる。"
     },
     {
       "repo": "Alisa0808/vox-director",
