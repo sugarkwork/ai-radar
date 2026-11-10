@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 681 件 — リポジトリ 378, リンク集 113, 記事 123, モデル 53, プロンプト 14 / ⚑ 要確認 472 件
+収録 682 件 — リポジトリ 379, リンク集 113, 記事 123, モデル 53, プロンプト 14 / ⚑ 要確認 473 件
 
-## リポジトリ（378）
+## リポジトリ（379）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -275,7 +275,7 @@
 | [muse-irodori-voice — CPUで固有音声を作るIrodoriキット](entries/tts-audio/kgmkm-muse-irodori-voice.md) ⚑ | 9 | 0 | 週次 | 4 | 2026-10-31 | 2026-11-09 | 2026-11-10 | MIT |
 | [lab-tts](entries/tts-audio/lakimi-ai-systems-lab-tts.md) ⚑ | 8 | 0 | 月次 | 3 | 2026-11-03 | 2026-11-10 | 2026-11-10 | Apache-2.0 |
 
-### その他（27）
+### その他（28）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -302,6 +302,7 @@
 | [WeVisOne-VL](entries/other/tencent-wevisone-vl.md) | 1,111 | 95 | 月次 | 3 | 2026-10-25 | 2026-11-09 | 2026-11-10 | Apache-2.0（Tencent 著作部分） |
 | [VidStab](entries/other/georgmartius-vid.stab.md) ⚑ | 991 | 126 | 月次 | 0 | 2026-08-14 | 2026-11-10 | 2026-11-10 | unknown |
 | [DSH 破甲ワークフロー（dsh-jailbreak-workflow）](entries/other/minglink-dsh-jailbreak-workflow.md) ⚑ | 816 | 284 | 週次 | 18 | 2026-11-05 | 2026-11-09 | 2026-11-10 | 未確認（API は NOASSERTION、標準ライセンスファイル無し） |
+| [color-matcher](entries/other/hahnec-color-matcher.md) ⚑ | 706 | 50 | 停滞 | 0 | 2026-02-24 | 2026-11-10 | 2026-11-10 | GPL-3.0 |
 | [DuoDesk](entries/other/0xcodez-duodesk.md) ⚑ | 486 | 79 | 毎日 | 100+ | 2026-10-31 | 2026-11-10 | 2026-11-10 | GPL-3.0 |
 | [Pixel Plays](entries/other/amirmushichge-pixel-plays.md) ⚑ | 448 | 43 | 月次 | 2 | 2026-10-31 | 2026-11-10 | 2026-11-10 | MIT |
 | [grok-bot-cli](entries/other/scriptedalchemy-grok-bot-cli.md) ⚑ | 181 | 37 | 毎日 | 31 | 2026-11-04 | 2026-11-10 | 2026-11-10 | MIT |
@@ -1416,6 +1417,7 @@
 - [Motion Video Kit](entries/other/echris6-motion-video-kit.md) — unverified / スター1366・フォーク121に対し、コミットは90日で7件（作成2026-09-27、最終push 2026-10-14）で、X投稿経由の注目が先行した可能性がある。作例3本の動画・レンダー結果はリポジトリに含まれず（git tree に mp4 等なし）、成果物品質は第三者が確認できない。効果測定・ベンチマークはなく、効果は作者の自己申告の範囲。HyperFrames でのレンダリング（component-lab.html の npx 手順）は当方では未実行。
 - [VidStab](entries/other/georgmartius-vid.stab.md) — unverified / 補正量・画質・処理速度は実測していない。READMEはmasterの仕様を含むため、最新公開リリースv1.1.2や各FFmpeg配布ビルドでの機能差は未確認。公開日の年は取得した表示から確定できなかった。ライセンス欄は親工程のAPI値を保持し、利用条件は対象バージョンのライセンス文書で確認する。 GitHub APIでライセンスを確認できていません。
 - [DSH 破甲ワークフロー（dsh-jailbreak-workflow）](entries/other/minglink-dsh-jailbreak-workflow.md) — prompt-injection / モデルの拒否応答を回避する『破甲（jailbreak）』プロンプトを自動生成するためのワークフロー。各サービスの利用規約違反になり得る。記録のみで、実行・生成した内容の利用はしない。
+- [color-matcher](entries/other/hahnec-color-matcher.md) — unverified / 著者による手法比較の独立再現、映像の時間方向の一貫性、現行環境での動作は未検証。GitHub は v0.5.0 を Latest と表示し、PyPI は 0.6.0 を掲載している。GitHub リリースの年を含む公開日は未確認。
 - [DuoDesk](entries/other/0xcodez-duodesk.md) — unverified / 最新リリースの公開日時と配布物の署名状態は未確認。対応 OS の組み合わせ別の動作、転送性能、通信の安全性は独立検証していない。Claude Code と Opus 5.5 の利用および開発規模は、候補が指す X 投稿を直接取得できず未確認。
 - [Pixel Plays](entries/other/amirmushichge-pixel-plays.md) — unverified / ['候補投稿が言及するClaude Opus 5.5の使用は、作者投稿を取得できなかったため未確認。最新リリース、ブラウザでの動作・性能、別題材への改変結果も未確認。']
 - [grok-bot-cli](entries/other/scriptedalchemy-grok-bot-cli.md) — unverified / README に基づく確認。CLI・MCP の実機動作、OS 別の認証互換性、最新 GitHub リリース、Grok Bot 側の料金・プラン条件は未確認。90 日コミット数の 100 は計測上限で、100 件以上を表す。

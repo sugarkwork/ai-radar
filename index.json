@@ -1,5 +1,5 @@
 {
-  "count": 681,
+  "count": 682,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -13580,6 +13580,39 @@
       "type": "repo",
       "path": "entries/other/minglink-dsh-jailbreak-workflow.md",
       "summary": "DeepSeek Harness（DSH）上で動く**ワークフロープラグイン**。画布でフローを設計し、計画プロンプトにコンパイルしてモデル自身に実行させる（分岐・ループ・並列に対応）。"
+    },
+    {
+      "repo": "hahnec/color-matcher",
+      "name": "color-matcher",
+      "genre": "other",
+      "url": "https://github.com/hahnec/color-matcher",
+      "stars": 706,
+      "forks": 50,
+      "open_issues": 7,
+      "size_kb": 124542,
+      "language": "Python",
+      "created": "2020-02-29",
+      "updated": "2026-02-24",
+      "archived": false,
+      "license": "GPL-3.0",
+      "commits_30d": 0,
+      "commits_90d": 0,
+      "commit_cadence": "stale",
+      "last_release": "v0.5.0",
+      "last_release_at": "",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "著者による手法比較の独立再現、映像の時間方向の一貫性、現行環境での動作は未検証。GitHub は v0.5.0 を Latest と表示し、PyPI は 0.6.0 を掲載している。GitHub リリースの年を含む公開日は未確認。",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/RealMarvelX/status/2117612832019689696"
+      ],
+      "fetched_at": "2026-11-10T09:50:44+00:00",
+      "path": "entries/other/hahnec-color-matcher.md",
+      "summary": "参照画像の色分布を入力画像に転写する。CLI では単一画像のほか、入力ディレクトリを指定した一括処理もできる。"
     },
     {
       "repo": "0xCodez/DuoDesk",
