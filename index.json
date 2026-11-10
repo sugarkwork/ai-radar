@@ -1,5 +1,5 @@
 {
-  "count": 658,
+  "count": 659,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -6461,6 +6461,37 @@
       "last_release_at": "2026-10-14",
       "path": "entries/coding-agent/herdrdev-herdr.md",
       "summary": "ターミナル上の複数エージェントを分割表示し、切断後もバックグラウンドで動かし、稼働・待機・停止状態を見られる。"
+    },
+    {
+      "repo": "Donchitos/Claude-Code-Game-Studios",
+      "name": "Claude Code Game Studios",
+      "genre": "coding-agent",
+      "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "ブラウザ試作とフックは独立実行していない。作者が報告した比較は3企画に限られ、完成した試作品の評価は同等だった。Godot・Unity・Unreal経路と設計文書による掘り下げは、作者の同等の比較評価が未実施。最新リリースのタグと日時は未確認。Claude Codeの利用料金は未確認。",
+      "stars": 37789,
+      "forks": 4949,
+      "open_issues": 96,
+      "size_kb": 5612,
+      "language": "Shell",
+      "created": "2026-02-12",
+      "updated": "2026-11-09",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 2,
+      "commits_90d": 6,
+      "commit_cadence": "monthly",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/naka_1717/status/2117501380969508891"
+      ],
+      "fetched_at": "2026-11-10T09:14:35Z",
+      "path": "entries/coding-agent/donchitos-claude-code-game-studios.md",
+      "summary": "Claude Codeにゲーム案を渡すと、ジャンルに応じた質問から短い企画書を作り、ブラウザで遊べる試作品の作成へ進む。"
     },
     {
       "repo": "davila7/claude-code-templates",
