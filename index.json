@@ -1,5 +1,5 @@
 {
-  "count": 725,
+  "count": 726,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -20739,6 +20739,38 @@
       "type": "repo",
       "path": "entries/video-gen/chanon-comfyui-obvpm-timeline.md",
       "summary": "**MiniMax H3 用の「タイムライン付きクリップ編集」ノード群**。生成したクリップをタイムラインに並べ、切る・繋ぐ・延ばす・間を埋めるを1つのUIで行う。タイムラインは簡易動画エディタとして動く。"
+    },
+    {
+      "repo": "wj-sidiss/otopilot",
+      "name": "Otopilot",
+      "genre": "video-gen",
+      "url": "https://github.com/wj-sidiss/otopilot",
+      "last_release": "v1.9.4",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "機能は公式READMEとリリースノートで確認した。動画の生成、品質、処理時間、素材サービスの稼働、ライセンスフィルターの判定精度は実測していない。READMEはGitHubのraw配信で確認した。公開リリースページで最新版のタグを確認したが、公開日時の年とタイムゾーンは確認できていない。",
+      "stars": 230,
+      "forks": 42,
+      "open_issues": 9,
+      "size_kb": 19685,
+      "language": "JavaScript",
+      "created": "2026-10-14",
+      "updated": "2026-11-08",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 63,
+      "commits_90d": 63,
+      "commit_cadence": "daily",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/Ryrenz/status/2117982457303585119"
+      ],
+      "fetched_at": "2026-11-10T11:18:09Z",
+      "path": "entries/video-gen/wj-sidiss-otopilot.md",
+      "summary": "台本に沿って素材を探し、音声と字幕を組み合わせてMP4、SRT、JPGサムネイル、YouTube用の投稿資料を生成する。YouTubeへの投稿は手動。"
     },
     {
       "repo": "veda-sparse/Veda-on-ComfyUI",
