@@ -1,5 +1,5 @@
 {
-  "count": 580,
+  "count": 581,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -5023,6 +5023,25 @@
       "risk_notes": "18+ / NSFWに関連。露骨な例・本文は転載しない。具体的手法、売上効果、教材内容・価格は未確認で成功例として断定しない。 当方でインストール・推論・生成・ベンチ再現はしていない。",
       "published": "2026-11-07",
       "path": "articles/2026-11-09-https-x.com-i-article-2118611825109729280.md"
+    },
+    {
+      "name": "AI生成コードと障害対応をめぐる逸話",
+      "genre": "article",
+      "url": "https://x.com/jarvis11x/status/2113584267141734746",
+      "author": "@jarvis11x",
+      "published": "2026-10-23",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "障害、解雇、AI使用との因果は未確認。",
+      "type": "article",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/jarvis11x/status/2113584267141734746"
+      ],
+      "fetched_at": "2026-11-10T03:33:05Z",
+      "path": "articles/2026-10-23-jarvis11x-ai.md"
     },
     {
       "name": "ChatGPT + Obsidian で組む英語リスニング訓練システム",
