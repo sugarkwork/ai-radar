@@ -1,5 +1,5 @@
 {
-  "count": 603,
+  "count": 604,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -5337,6 +5337,25 @@
       ],
       "fetched_at": "2026-11-10T13:05:18+09:00",
       "path": "articles/2026-11-08-ry-heyhaigh-material-painter.md"
+    },
+    {
+      "name": "OpenUIで表データの取得をUI生成と分ける",
+      "genre": "article",
+      "url": "https://x.com/bernvadell/status/2112918558879449539",
+      "author": "Bernat Vadell",
+      "published": "2026-10-21",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "原文は公開ミラー経由。性能や費用の実測はない。",
+      "type": "article",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/bernvadell/status/2112918558879449539"
+      ],
+      "fetched_at": "2026-11-10T04:14:38Z",
+      "path": "articles/2026-10-21-bernat-vadell-openui-ui.md"
     },
     {
       "type": "article",
