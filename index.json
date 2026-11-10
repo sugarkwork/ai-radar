@@ -1,5 +1,5 @@
 {
-  "count": 601,
+  "count": 602,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -5204,6 +5204,25 @@
       ],
       "fetched_at": "2026-11-10T03:38:14Z",
       "path": "articles/2026-11-07-gdg-oau-gdg-oau-agent-skills.md"
+    },
+    {
+      "name": "GitHub Copilot週次更新（11月2日の週）",
+      "genre": "article",
+      "url": "https://github.blog/changelog/2026-11-06-github-copilot-weekly-releases-november-2/",
+      "author": "GitHub",
+      "published": "2026-11-06",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "Xcode統合はパブリックプレビュー。JetBrains Airのクラウド実行は組織設定に依存。",
+      "type": "article",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/multilayer/status/2119220985648046395"
+      ],
+      "fetched_at": "2026-11-10T04:10:32Z",
+      "path": "articles/2026-11-06-github-github-copilot-11-2.md"
     },
     {
       "name": "Kev 0.8Bによる複数ラベル文書分類の試行",
