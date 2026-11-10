@@ -1,5 +1,5 @@
 {
-  "count": 778,
+  "count": 779,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -8704,6 +8704,37 @@
       "fetched_at": "2026-11-10T10:03:12Z",
       "path": "entries/coding-agent/coleam00-second-brain-starter.md",
       "summary": "利用ツール、優先タスク、自律度、許可範囲を記入した要件から、実装順と段階間の依存関係を含む9段階のPRDを生成する。各機能の実装はPRD生成後の工程になる。"
+    },
+    {
+      "repo": "warpdotdev/common-skills",
+      "name": "Common Skills",
+      "genre": "coding-agent",
+      "url": "https://github.com/warpdotdev/common-skills",
+      "license": "MIT",
+      "stars": 686,
+      "language": "Python",
+      "created": "2026-04-30",
+      "updated": "2026-10-28",
+      "forks": 44,
+      "open_issues": 45,
+      "commits_30d": 2,
+      "commit_cadence": "monthly",
+      "commits_90d": 20,
+      "size_kb": 1022,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "評価精度、レビュー時間の短縮効果、導入コマンドの実動作、ホスト環境ごとの互換性、最新リリースは未確認。",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/sumika45379/status/2115643537048154583"
+      ],
+      "fetched_at": "2026-11-10T12:28:27+00:00",
+      "path": "entries/coding-agent/warpdotdev-common-skills.md",
+      "summary": "PRの目的との整合性、影響範囲、検証の証拠、ロールバックの負担、障害検知のしやすさを評価し、総合リスクを低・中・高で返す。各観点ではリスクを高める不足点を挙げる。"
     },
     {
       "repo": "xai-org/plugin-marketplace",
