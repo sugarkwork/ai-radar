@@ -1,5 +1,5 @@
 {
-  "count": 703,
+  "count": 704,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -6885,6 +6885,37 @@
       "type": "repo",
       "path": "entries/coding-agent/davila7-claude-code-templates.md",
       "summary": "Claude Code の設定部品を1つのカタログから入れる CLI。README の表では skills 918 / agents 422 / commands 288 / MCPs 119 / settings 80 / hooks 63 / mods 50 / loops 18 / templates 14 / "
+    },
+    {
+      "repo": "agentsmd/agents.md",
+      "name": "AGENTS.md",
+      "genre": "coding-agent",
+      "url": "https://github.com/agentsmd/agents.md",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "最新リリースのタグと公開日は未確認。エージェントごとの対応バージョン、指示の読み込み順、コマンドの実行挙動は実機で検証していない。効果は引用した研究の評価条件に限られる。",
+      "stars": 25417,
+      "forks": 1950,
+      "open_issues": 190,
+      "size_kb": 2131,
+      "language": "TypeScript",
+      "created": "2025-08-19",
+      "updated": "2026-09-10",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 0,
+      "commits_90d": 3,
+      "commit_cadence": "monthly",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/N01ennn/status/2117681136306393357"
+      ],
+      "fetched_at": "2026-11-10T10:17:04+00:00",
+      "path": "entries/coding-agent/agentsmd-agents.md.md",
+      "summary": "ビルドやテストの手順、コード規約をリポジトリ内に記述し、対応エージェントの作業コンテキストとして渡せる。公式サイトはサブプロジェクト別のファイル配置も案内している。"
     },
     {
       "repo": "storytold/craft-anything",
