@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 648 件 — リポジトリ 348, リンク集 113, 記事 120, モデル 53, プロンプト 14 / ⚑ 要確認 439 件
+収録 649 件 — リポジトリ 349, リンク集 113, 記事 120, モデル 53, プロンプト 14 / ⚑ 要確認 440 件
 
-## リポジトリ（348）
+## リポジトリ（349）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### 動画生成パイプライン（69）
+### 動画生成パイプライン（70）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -22,6 +22,7 @@
 | [DavidHDev/react-bits](entries/video-gen/davidhdev-react-bits.md) ⚑ | 51,591 | 2,584 | 毎日 | 36 | 2026-11-08 | 2026-11-09 | 2026-11-10 | NOASSERTION |
 | [ManimCommunity/manim](entries/video-gen/manimcommunity-manim.md) ⚑ | 42,376 | 3,310 | 週次 | 17 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
 | [airbnb/lottie-web](entries/video-gen/airbnb-lottie-web.md) ⚑ | 32,390 | 2,962 | 停滞 | 0 | 2025-09-01 | 2026-11-09 | 2026-11-10 | MIT |
+| [video-use](entries/video-gen/browser-use-video-use.md) ⚑ | 30,840 | 3,574 | 月次 | 0 | 2026-10-08 | 2026-11-10 | 2026-11-10 | MIT |
 | [Pixelle-Video](entries/video-gen/ath-maas-pixelle-video.md) | 29,926 | 4,339 | 停滞 | 0 | 2026-06-14 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
 | [hypit](entries/video-gen/hypit-ai-hypit.md) | 28,787 | 3,336 | 週次 | 12 | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 改変版（追加条件あり、API上は NOASSERTION） |
 | [processing/p5.js](entries/video-gen/processing-p5.js.md) ⚑ | 24,327 | 3,899 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | LGPL-2.1 |
@@ -1441,6 +1442,7 @@
 - [DavidHDev/react-bits](entries/video-gen/davidhdev-react-bits.md) — unverified / 原チェックはMIT＋Commons Clause v1.0でAPIはNOASSERTION。標準MITとだけ記載せず、販売制限を含む条件を確認する。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [ManimCommunity/manim](entries/video-gen/manimcommunity-manim.md) — unverified / MIT表記。数学説明の正しさや動画の完成度・制作費削減はコード作者の責任で独立検証なし。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [airbnb/lottie-web](entries/video-gen/airbnb-lottie-web.md) — unverified / 一覧の6000ドルの制作費を代替という表現は費用効果の実証ではない。MITはコードのみで各アニメ素材の権利は別。 当方でインストール・推論・生成・ベンチ再現はしていない。
+- [video-use](entries/video-gen/browser-use-video-use.md) — unverified / 最新リリース、ElevenLabsと利用エージェントの料金・契約条件は未確認。トークン比較は作者の試算で、入力削減量、カット品質、ノイズ低減、再レンダリングの検出精度は独立に実測していない。
 - [processing/p5.js](entries/video-gen/processing-p5.js.md) — unverified / LGPL-2.1であり他の一覧項目と同じMITではない。配布・改変条件と入力素材の権利を確認する。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [mojs/mojs](entries/video-gen/mojs-mojs.md) — unverified / MIT表記。紹介リストの費用削減を裏付ける実例試験なし。現行依存・ブラウザ互換も未検証。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [liabru/matter-js](entries/video-gen/liabru-matter-js.md) — unverified / MIT表記。モーションの全自動制作を保証するものではない。数値安定性・性能は用途ごとの検証が必要で本調査未実行。 当方でインストール・推論・生成・ベンチ再現はしていない。

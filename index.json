@@ -1,5 +1,5 @@
 {
-  "count": 648,
+  "count": 649,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -16842,6 +16842,37 @@
       "last_release_at": "",
       "path": "entries/video-gen/airbnb-lottie-web.md",
       "summary": "After Effects由来のアニメーションをWebで再生するLottieのJavaScriptプレイヤー。"
+    },
+    {
+      "repo": "browser-use/video-use",
+      "name": "video-use",
+      "genre": "video-gen",
+      "url": "https://github.com/browser-use/video-use",
+      "stars": 30840,
+      "forks": 3574,
+      "open_issues": 164,
+      "size_kb": 923,
+      "language": "Python",
+      "created": "2026-04-12",
+      "updated": "2026-10-08",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 0,
+      "commits_90d": 5,
+      "commit_cadence": "monthly",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "最新リリース、ElevenLabsと利用エージェントの料金・契約条件は未確認。トークン比較は作者の試算で、入力削減量、カット品質、ノイズ低減、再レンダリングの検出精度は独立に実測していない。",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/opensourcelab9/status/2117383755581346183"
+      ],
+      "fetched_at": "2026-11-10T08:48:11Z",
+      "path": "entries/video-gen/browser-use-video-use.md",
+      "summary": "素材を棚卸しして編集案を提示し、承認後に言いよどみや無音を詰めて edit/final.mp4 に書き出す。字幕を焼き込めるほか、作業記録を project.md に残す。"
     },
     {
       "repo": "ATH-MaaS/Pixelle-Video",
