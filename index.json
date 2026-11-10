@@ -1,5 +1,5 @@
 {
-  "count": 744,
+  "count": 745,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -8093,6 +8093,37 @@
       "fetched_at": "2026-11-10T09:19:25Z",
       "path": "entries/coding-agent/motionsites-ai-claude-skill.md",
       "summary": "Claudeが作例と映像素材を参照し、実装仕様を作ってランディングページを構築する。作者のREADMEによると、実装後はスクリーンショットとQAスクリプトで素材切れ、モバイル幅でのはみ出し、フォント、動画再生を点検する。"
+    },
+    {
+      "repo": "openai/php2shell-checker",
+      "name": "PHP Version Checker",
+      "genre": "coding-agent",
+      "url": "https://github.com/openai/php2shell-checker",
+      "license": "Apache-2.0",
+      "stars": 1468,
+      "forks": 147,
+      "open_issues": 2,
+      "size_kb": 34,
+      "language": "JavaScript",
+      "created": "2026-10-21",
+      "updated": "2026-10-22",
+      "archived": false,
+      "commits_30d": 8,
+      "commits_90d": 8,
+      "commit_cadence": "weekly",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEとスキル文書を確認した。コードは実行しておらず、実環境での判定結果、Node.jsの最低対応バージョン、各ベンダーの修正情報との照合は未検証。公開Releasesページにはリリースの掲載がなく、最新リリースAPIは未確認。",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/opensourcelab9/status/2115051156703772686"
+      ],
+      "fetched_at": "2026-11-10T11:48:17Z",
+      "path": "entries/coding-agent/openai-php2shell-checker.md",
+      "summary": "URLモードは管理対象サイトがHTTPヘッダーで公開するPHP版数を読み取り、OK、POTENTIALLY VULNERABLE、UNKNOWNのいずれかを返す。JSON出力にも対応する。攻撃用のリクエストは送信しない。"
     },
     {
       "repo": "wilwaldon/Claude-Code-Frontend-Design-Toolkit",
