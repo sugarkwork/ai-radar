@@ -1,5 +1,5 @@
 {
-  "count": 637,
+  "count": 638,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -6490,6 +6490,37 @@
       "first_seen": "2026-10-12",
       "path": "entries/coding-agent/cursor-plugins.md",
       "summary": "/poteto-mode に作業内容を渡すと、23のプレイブック（investigation、bug fix、perf、hillclimb、refactoring、feature、prototype、visual parity、eval、babysit、shipping、autonomous run、orchestra"
+    },
+    {
+      "repo": "OrchestratorInc/agent-orchestrator",
+      "name": "Agent Orchestrator",
+      "genre": "coding-agent",
+      "url": "https://github.com/OrchestratorInc/agent-orchestrator",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "最新リリースのタグと公開日時、クラウドと外部エージェントの料金は未確認。並列実行の性能、CIやレビュー指摘の差し戻し、モバイル通知と応答は公式文書の記載に基づき、実機では未検証。",
+      "stars": 14373,
+      "forks": 1955,
+      "open_issues": 924,
+      "size_kb": 658927,
+      "language": "Go",
+      "created": "2026-02-13",
+      "updated": "2026-11-10",
+      "archived": false,
+      "license": "Apache-2.0",
+      "commits_30d": 100,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/opensourcelab9/status/2117225240451535192"
+      ],
+      "fetched_at": "2026-11-10T08:23:40+00:00",
+      "path": "entries/coding-agent/orchestratorinc-agent-orchestrator.md",
+      "summary": "プロジェクトのメインエージェントに依頼すると、作業を分割し、担当ワーカーを個別のブランチとGit worktreeで起動する。ボードはセッション、PR、CI、レビューの状態をもとに並べ替える。"
     },
     {
       "repo": "tamaratran/fast-jev-compaction",
