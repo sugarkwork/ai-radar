@@ -1,5 +1,5 @@
 {
-  "count": 774,
+  "count": 775,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -1436,6 +1436,37 @@
       "last_release_at": "",
       "path": "entries/3d-motion/blendi-remade-prompt2rig.md",
       "summary": "テキストで動作を指定→動画モデルが演技→GPUで3Dボディ/指の動作を推定→Mixamo互換リグのキャラクターで再生→Blender/UnityへGLB出力。MediaPipeでブラウザ即時プレビュー、GVHMRでHQボディ、WiLoRで指。"
+    },
+    {
+      "repo": "carson-katri/geometry-script",
+      "name": "Geometry Script",
+      "genre": "3d-motion",
+      "url": "https://github.com/carson-katri/geometry-script",
+      "license": "GPL-3.0",
+      "language": "Python",
+      "flags": [
+        "unverified"
+      ],
+      "stars": 379,
+      "forks": 33,
+      "open_issues": 33,
+      "size_kb": 22244,
+      "created": "2022-11-13",
+      "updated": "2026-11-09",
+      "archived": false,
+      "commits_30d": 6,
+      "commits_90d": 6,
+      "commit_cadence": "weekly",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "risk_notes": "",
+      "sources": [
+        "https://x.com/Y0urDumble/status/2115534594854551771"
+      ],
+      "fetched_at": "2026-11-10T12:23:04+00:00",
+      "path": "entries/3d-motion/carson-katri-geometry-script.md",
+      "summary": "Geometry Nodes、シェーダー、コンポジターのノード構成をPythonで記述する。公式のRepeat Grid例では、格子の点に入力ジオメトリをインスタンス配置する。"
     },
     {
       "type": "repo",
