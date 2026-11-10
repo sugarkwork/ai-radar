@@ -1,5 +1,5 @@
 {
-  "count": 777,
+  "count": 778,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -15656,6 +15656,37 @@
       "fetched_at": "2026-11-10T11:50:52+00:00",
       "path": "entries/other/karpathy-minbpe.md",
       "summary": "手持ちのテキストから語彙とマージ規則を学習し、文字列をトークンID列へ変換して復号できる。BasicTokenizerとRegexTokenizerで事前分割の影響を比較できる。"
+    },
+    {
+      "repo": "open-slide/open-slide",
+      "name": "open-slide",
+      "genre": "other",
+      "url": "https://github.com/open-slide/open-slide",
+      "license": "MIT",
+      "stars": 9729,
+      "language": "TypeScript",
+      "created": "2026-04-26",
+      "updated": "2026-11-09",
+      "forks": 716,
+      "open_issues": 146,
+      "commits_30d": 33,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 61930,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "公開リリース一覧では @open-slide/core@2.3.2 が Latest と表示された一方、取得した /releases/latest はキャッシュから @open-slide/core@2.0.1 に転送されたため、最新タグと公開日時は未確定。CLIやエージェントは実行しておらず、制作時間の短縮、PPTXの再現性・編集互換性、エージェント側の契約・料金は未検証。",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/opensourcelab9/status/2115571817826103426"
+      ],
+      "fetched_at": "2026-11-10T12:26:43+00:00",
+      "path": "entries/other/open-slide-open-slide.md",
+      "summary": "コーディングエージェントでスライドを下書きし、ブラウザーで確認できる。公式READMEには静的HTML・PDF・編集可能なPPTXへの書き出しと、発表者ノート・タイマー付きの発表モードが記載されている。"
     },
     {
       "repo": "elder-plinius/OBLITERATUS",
