@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 573 件 — リポジトリ 327, リンク集 108, 記事 71, モデル 53, プロンプト 14 / ⚑ 要確認 366 件
+収録 574 件 — リポジトリ 327, リンク集 108, 記事 72, モデル 53, プロンプト 14 / ⚑ 要確認 367 件
 
 ## リポジトリ（327）
 
@@ -860,7 +860,7 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（71）
+## 記事（72）
 
 ### 記事（20）
 
@@ -969,6 +969,10 @@
 ### 評価・ベンチマーク（1）
 
 - **[GameFeelとQwen-4-Flash-Early比較評価の読み方](articles/2026-11-09-https-x.com-follistatindev-status-2119220233751671186.md)** ⚑  @mirai_yuki_tech
+
+### リンク（作例・インスピレーション）（1）
+
+- **[Claude Duetのロゴを紹介した投稿](articles/2026-10-22-jarvis11x-claude-duet.md)** ⚑  @jarvis11x
 
 ### リンク（サービス・ツール）（1）
 
@@ -1164,6 +1168,7 @@
 - [useAnimations — 動くアイコン300点](links/link-asset/useanimations.com.md) — unverified / 素材を再配布する場合はMITの著作権・許諾表示を保持する。サイトへのクレジットは任意だがライセンス表示義務とは別。全アイコンの表示やSSR動作は当方未試験。 当方では導入・生成・操作の実行検証をしていない。
 - [背景ガチャ（九龍城砦セット＋パース補助線）](links/link-asset/tools.oyasumi-gamedev.com-haikeigacha.md) — unverified / AIツールではなく、家具900以上をプログラムで組み合わせる手続き型の背景ジェネレータ（公式の仕組み解説に明記）。開発時のAI利用はClaude Codeのみ。部屋150種類以上に住宅・学校・洋館・中世の城・教会・九龍城砦のセットを追加。パース補助線は書き出しの『下絵（なぞる用）』でアイレベル線・パース補助線・消失点を別レイヤーに分離し、PSDはパースフォルダ内の各レイヤー、SVGは別ファイル、vp.txtに座標を出力する。ブラウザ完結・外部送信なし。β版で、版が上がると同seedでも部屋の作りが変わり得る。書き出し品質・PSDレイヤー構成は未確認（ブラウザツールのため実行検証は未実施）。
 - [Claude Code に Blender のシーンをコードで書かせて voxel キャラを踊らせる手順（投稿）](links/link-inspiration/x.com-claude-code-blender-voxel.md) — unverified / 投稿内の `blender -b -P https://t.co/ueDlwhvcq2` のリンク先 scene.py は DNS 解決不可（HTTP 000、Wayback スナップショットも 0 件）で、投稿が想定したスクリプト／記事の実体を確認できない。X の引用元は Article 2109318233866006528 でログイン必須のため本文未取得。「Opus 5.5 が無料で1000倍良い」は投稿者の主張で、比較測定は無い。動画は 3D ビューポートそのものではなく UI オーバーレイ付きの演出済みデモ（ログ表示は擬似 UI）であり、719 voxels / 12 joints / 16 秒 / 120bpm は投稿者と動画の自己申告値。実際の再現には Blender 5.2 系と Claude Code、上記2スキルが必要。
+- [Claude Duetのロゴを紹介した投稿](articles/2026-10-22-jarvis11x-claude-duet.md) — unverified / 画像の制作元と転載許諾は未確認。Anthropicの商標利用条件を参照。
 - [Design Details — Webデザイン参考ライブラリ](links/link-inspiration/designdetails.io.md) — unverified / 投稿の業界17分類という件数は今回は全分類を数えていない。AIへの参考利用と元サイトの素材・ブランドの複製許可は別。 当方では導入・生成・操作の実行検証をしていない。
 - [Design Spells](links/link-inspiration/designspells.com.md) — unverified / 通番は今回確認した表示であり、全件の重複排除済み件数ではない。収録製品の映像やUIを自由転載できる意味ではない。 当方では導入・生成・操作の実行検証をしていない。
 - [Detail — UIの小さな設計判断集](links/link-inspiration/detail.design.md) — unverified / 見た目だけでなく操作性・アクセシビリティの参考資料。公開閲覧可能であることは無条件の転載許諾を意味しない。 当方では導入・生成・操作の実行検証をしていない。

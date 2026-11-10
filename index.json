@@ -1,5 +1,5 @@
 {
-  "count": 573,
+  "count": 574,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -8845,6 +8845,25 @@
       "fetched_at": "2026-11-08T20:07:36Z",
       "path": "links/link-inspiration/x.com-claude-code-blender-voxel.md",
       "summary": "AI インフルエンサー生成で問題になる「顔のドリフト」を、3D モデル（ファイルとして固定される資産）に置き換えて回避する。投稿者は、Blender の UI を一切開かず、Claude Code に Python を書かせて headless 実行させ、voxel キャラのモデリング→リグ→ダンスまで通したと主張して"
+    },
+    {
+      "name": "Claude Duetのロゴを紹介した投稿",
+      "genre": "link-inspiration",
+      "url": "https://x.com/jarvis11x/status/2113298984383201324",
+      "author": "@jarvis11x",
+      "published": "2026-10-22",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "画像の制作元と転載許諾は未確認。Anthropicの商標利用条件を参照。",
+      "type": "article",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/jarvis11x/status/2113298984383201324"
+      ],
+      "fetched_at": "2026-11-10T03:00:43Z",
+      "path": "articles/2026-10-22-jarvis11x-claude-duet.md"
     },
     {
       "type": "link",
