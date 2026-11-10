@@ -1,5 +1,5 @@
 {
-  "count": 585,
+  "count": 586,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -5166,6 +5166,25 @@
       ],
       "fetched_at": "2026-11-10T03:32:31Z",
       "path": "articles/2026-10-23-lniosytest-kiro.md"
+    },
+    {
+      "name": "Laddersによる履歴書PDFの抽出評価",
+      "genre": "article",
+      "url": "https://x.com/cenedella/status/2119193248250188119",
+      "author": "Marc Cenedella",
+      "published": "2026-11-07",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "試験条件と再現性は未確認。",
+      "type": "article",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/stretchcloud/status/2119222115862040970"
+      ],
+      "fetched_at": "2026-11-10T04:01:30Z",
+      "path": "articles/2026-11-07-marc-cenedella-ladders-pdf.md"
     },
     {
       "name": "Last Lecture Series: “How to Win Without Crushing Your Soul” - Graham Weaver（Stanford GSB Class of 2026）",
