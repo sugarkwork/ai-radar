@@ -1,5 +1,5 @@
 {
-  "count": 593,
+  "count": 594,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -10188,6 +10188,37 @@
       "commits_90d": 100,
       "path": "entries/mcp-server/graphicle-ai-graphicle.md",
       "summary": "リポジトリを**コードグラフ**に変換し、あわせてドキュメント・設計判断・過去のエージェントセッションを**記憶**として保持する。エージェントはその両方から、ファイル名と行番号付きの抜粋だけを受け取る"
+    },
+    {
+      "repo": "alla2001/material-painter",
+      "name": "Material Painter",
+      "genre": "mcp-server",
+      "url": "https://github.com/alla2001/material-painter",
+      "license": "GPL-3.0",
+      "stars": 265,
+      "language": "Rust",
+      "created": "2026-10-31",
+      "updated": "2026-11-07",
+      "forks": 26,
+      "open_issues": 3,
+      "commits_30d": 41,
+      "commit_cadence": "daily",
+      "commits_90d": 41,
+      "size_kb": 76516,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "早期アクセス。アプリとMCPの動作は未検証。",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/heyhaigh/status/2119221188404855014"
+      ],
+      "fetched_at": "2026-11-10T04:05:26Z",
+      "path": "entries/mcp-server/alla2001-material-painter.md",
+      "summary": "3DモデルのPBRテクスチャをレイヤーとマスクで編集し、ローカルMCPからアプリ機能を呼び出せる。"
     },
     {
       "type": "repo",
