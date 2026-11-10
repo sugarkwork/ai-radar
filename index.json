@@ -1,5 +1,5 @@
 {
-  "count": 623,
+  "count": 624,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -5147,6 +5147,25 @@
       ],
       "fetched_at": "2026-11-10T04:15:56Z",
       "path": "articles/2026-03-22-michael-livshits-claude-code.md"
+    },
+    {
+      "name": "Coding Agents Copy Your Secrets to a Hidden File. Thousands Are on GitHub",
+      "genre": "article",
+      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+      "author": "Apiiro",
+      "published": "2026-11-05",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "集計と挙動の再現はApiiroによる報告。調査対象の認証情報の有効性や、Claude Codeのバージョンごとの挙動は独立に検証していない。",
+      "type": "article",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/Nursing_DX/status/2119274934631555421"
+      ],
+      "fetched_at": "2026-11-10T06:17:57.030Z",
+      "path": "articles/2026-11-05-apiiro-coding-agents-copy-your-secrets-to-a-hidden-file.-thousands-are-on-github.md"
     },
     {
       "name": "Control Room",
