@@ -1,5 +1,5 @@
 {
-  "count": 594,
+  "count": 595,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -5468,6 +5468,25 @@
       "risk_notes": "PC等の1/2以内・上限10万円は原チェック時の公式確認。誰でも単体PCを先に買えば補助される制度ではなく、現行公募要領と対象者を確認する。 当方でインストール・推論・生成・ベンチ再現はしていない。",
       "published": "2026-08-17",
       "path": "articles/2026-11-09-https-x.com-makeai_ceo-status-2089261252120051821.md"
+    },
+    {
+      "name": "モデルの能力とハーネスの適合を考える",
+      "genre": "article",
+      "url": "https://x.com/bernvadell/status/2109579207743304001",
+      "author": "Bernat Vadell",
+      "published": "2026-10-12",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "投稿自体にベンチマークや導入効果の測定はない。",
+      "type": "article",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/bernvadell/status/2109579207743304001"
+      ],
+      "fetched_at": "2026-11-10T13:07:20+09:00",
+      "path": "articles/2026-10-12-bernat-vadell-d5322e77.md"
     },
     {
       "name": "ローカルAI推論で速度が次の課題になるという論考",

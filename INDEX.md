@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 594 件 — リポジトリ 329, リンク集 110, 記事 88, モデル 53, プロンプト 14 / ⚑ 要確認 387 件
+収録 595 件 — リポジトリ 329, リンク集 110, 記事 89, モデル 53, プロンプト 14 / ⚑ 要確認 388 件
 
 ## リポジトリ（329）
 
@@ -866,9 +866,9 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（88）
+## 記事（89）
 
-### 記事（36）
+### 記事（37）
 
 - **[$0のデジタル参謀長で月$80,000の契約候補を作ったというX投稿（動画付き）](articles/2026-10-22-bober_smart-0-80-000-x.md)** ⚑  @Bober_smart
 - **[1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md)** ⚑  @mukadeshinigami（mukade死神）
@@ -900,6 +900,7 @@
 - **[「長くなる一方のSkill」を「短く効くSkill」にする、Matt Pocock式の作り方](articles/2026-10-20-sumika45379-skills-studio-skill-skill-matt-pocock.md)** ⚑  @sumika45379 (Skills Studio)
 - **[【公式】Claude Codeの「直しました」で終わらせない。画面の確認まで任せるSkillの作り方](articles/2026-10-23-sumika45379-skills-studio-claude-code-skill.md)** ⚑  sumika45379 / Skills Studio
 - **[デジタル化・AI導入補助金の申請条件と交付順序](articles/2026-11-09-https-x.com-makeai_ceo-status-2089261252120051821.md)** ⚑  @ai_ai_ailover
+- **[モデルの能力とハーネスの適合を考える](articles/2026-10-12-bernat-vadell-d5322e77.md)** ⚑  Bernat Vadell
 - **[ローカルAI推論で速度が次の課題になるという論考](articles/2026-10-01-bernat-vadell-ai.md)** ⚑  Bernat Vadell
 - **[公開済みサイトのSEO・GEO監査と再測定](articles/2026-09-02-jarvis11x-seo-geo.md)** ⚑  @jarvis11x
 - **[動画サイトの月途中の売上報告](articles/2026-10-14-jarvis11x-2dae9ce2.md)** ⚑  @jarvis11x
@@ -1122,6 +1123,7 @@
 - [「長くなる一方のSkill」を「短く効くSkill」にする、Matt Pocock式の作り方](articles/2026-10-20-sumika45379-skills-studio-skill-skill-matt-pocock.md) — unverified / 2026-10-10時点「スター28万超」という記事の数字は当時の値を再現できず、2026-11-08実測は318,171（記事の数字は古いスナップショットで、現在は上回る）。種動画の内容は説明欄のチャプター（5段）と公開日まで確認、本編の逐語と図版は未確認。動画側の「22 million+ people use them」は一次確認なし（記事はこの種のインストール数を載せていない）。効果（送り返しの減少）の第三者計測は記事にも当方にも見つからない。記事は本文中2箇所でLINE友だち追加による「Skill10選」配布へ誘導する販促導線を含む。
 - [【公式】Claude Codeの「直しました」で終わらせない。画面の確認まで任せるSkillの作り方](articles/2026-10-23-sumika45379-skills-studio-claude-code-skill.md) — unverified / 記事ページは非ログインだと x.com のログイン画面へリダイレクトされ（HTTP 200）、本文は封筒JSONの articleText に依拠。published は発見元ポストの日時（2026-10-23）で、記事ページ上の公開日は未確認。動画の字幕が取得できず、動画内の具体発言（3つの確認例、CLS 実演）は直接確認していない。v2.1.286 の自動実行は公式ドキュメントで確認済みだが、著者自身は /verify を実行しておらず、記事もその旨を明記している。末尾に LINE 友だち追加でプロンプト集を配る導線がある。
 - [デジタル化・AI導入補助金の申請条件と交付順序](articles/2026-11-09-https-x.com-makeai_ceo-status-2089261252120051821.md) — unverified / PC等の1/2以内・上限10万円は原チェック時の公式確認。誰でも単体PCを先に買えば補助される制度ではなく、現行公募要領と対象者を確認する。 当方でインストール・推論・生成・ベンチ再現はしていない。
+- [モデルの能力とハーネスの適合を考える](articles/2026-10-12-bernat-vadell-d5322e77.md) — unverified / 投稿自体にベンチマークや導入効果の測定はない。
 - [ローカルAI推論で速度が次の課題になるという論考](articles/2026-10-01-bernat-vadell-ai.md) — unverified / 速度の例示は実測値ではなく、将来予測。
 - [公開済みサイトのSEO・GEO監査と再測定](articles/2026-09-02-jarvis11x-seo-geo.md) — unverified / 計測期間が異なり、SEO施策の効果と売上への寄与は独立検証できていない。
 - [動画サイトの月途中の売上報告](articles/2026-10-14-jarvis11x-2dae9ce2.md) — unverified / 本文と日付は公開ミラー経由。売上の真正性とSEOの効果は未確認。
