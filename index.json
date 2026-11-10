@@ -1,5 +1,5 @@
 {
-  "count": 766,
+  "count": 767,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -8062,6 +8062,39 @@
       "fetched_at": "2026-11-10T09:19:56Z",
       "path": "entries/coding-agent/microsoft-tokeneconomizer.md",
       "summary": "過去セッションからリポジトリ固有の知識を抽出して再利用し、未使用ツールを後続セッションから外し、同じ失敗が続くと別のアプローチを促す。知識の再利用機能は既定でオフ。"
+    },
+    {
+      "repo": "breferrari/obsidian-mind",
+      "name": "Obsidian Mind",
+      "genre": "coding-agent",
+      "url": "https://github.com/breferrari/obsidian-mind",
+      "license": "MIT",
+      "stars": 5525,
+      "language": "TypeScript",
+      "created": "2026-02-28",
+      "updated": "2026-10-17",
+      "forks": 610,
+      "open_issues": 16,
+      "commits_30d": 36,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 7059,
+      "archived": false,
+      "last_release": "v10.0.0",
+      "last_release_at": "2026-10-12",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEの例は作者による記載。振り分けの精度、検索品質、クライアント間の機能差、音声入力の動作は独立に検証していない。",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/opensourcelab9/status/2115413335638470709"
+      ],
+      "fetched_at": "2026-11-10T12:13:18Z",
+      "path": "entries/coding-agent/breferrari-obsidian-mind.md",
+      "summary": "/om-dump に会議メモを渡す。READMEの例では、人物ノート、1on1の記録、決定記録、実績メモ、案件タスクに内容を振り分ける。"
     },
     {
       "name": "obsidian-second-brain",
