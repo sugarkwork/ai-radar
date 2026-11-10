@@ -1,5 +1,5 @@
 {
-  "count": 595,
+  "count": 596,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -9736,6 +9736,28 @@
       "fetched_at": "2026-11-09T20:25:41Z",
       "path": "links/link-service/x.ai-grok-bot-marketplace.md",
       "summary": "xAI（Grok）の公式ボットマーケットプレイス。特定の仕事向けに設定済みの「Grok Bot」を探し、自分のアカウントに追加して業務を任せるためのリンク。"
+    },
+    {
+      "name": "Intel GPU D270",
+      "genre": "link-service",
+      "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
+      "author": "Intel",
+      "pricing": "unknown",
+      "pricing_detail": "公式製品ページに価格の記載なし。",
+      "signup_required": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "仕様はIntel公表値。実機性能と消費電力は未計測。",
+      "type": "link",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/bernvadell/status/2109910131785761279"
+      ],
+      "fetched_at": "2026-11-10T13:07:20+09:00",
+      "path": "links/link-service/intel.com-intel-gpu-d270.md",
+      "summary": "データセンター向けAI推論GPUの仕様を参照する。"
     },
     {
       "type": "link",
