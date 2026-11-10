@@ -1,5 +1,5 @@
 {
-  "count": 735,
+  "count": 736,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -12185,6 +12185,38 @@
       "fetched_at": "2026-11-10T11:15:00+00:00",
       "path": "entries/mcp-server/home-assistant-core.md",
       "summary": "対応機器の状態を確認し、自動化に組み込める。公式 MCP サーバーの Device control を使うと、音声アシスタント向けに公開した機器やセンサーを対応 AI クライアントから参照でき、設定に応じて操作もできる。"
+    },
+    {
+      "repo": "penpot/penpot",
+      "name": "Penpot",
+      "genre": "mcp-server",
+      "url": "https://github.com/penpot/penpot",
+      "last_release": "2.19.0",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "MCPの接続、編集結果、生成コードの忠実度や往復変換で保持される範囲は独立に実測していない。最新リリースのタグは公開ページで確認したが、年とタイムゾーンを含む公開日時は未確認。",
+      "stars": 62245,
+      "forks": 4393,
+      "open_issues": 937,
+      "size_kb": 438276,
+      "language": "Clojure",
+      "created": "2015-12-29",
+      "updated": "2026-11-10",
+      "archived": false,
+      "license": "MPL-2.0",
+      "commits_30d": 100,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/thegreatest_sv/status/2114739076796428729"
+      ],
+      "fetched_at": "2026-11-10T11:34:59+00:00",
+      "path": "entries/mcp-server/penpot-penpot.md",
+      "summary": "ブラウザでUIをデザインし、プロトタイプを作る。公式MCPをつなぐと、AIクライアントから編集中のページの構造や要素を調べ、要素の作成やスタイル変更を依頼できる。"
     },
     {
       "repo": "microsoft/playwright-mcp",
