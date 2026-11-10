@@ -1,5 +1,5 @@
 {
-  "count": 750,
+  "count": 751,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -14320,6 +14320,38 @@
       "fetched_at": "2026-11-10T11:13:54+00:00",
       "path": "entries/other/usememos-memos.md",
       "summary": "Markdownでメモを残し、タイムラインやタグから探せる。内蔵MCPにはメモの検索・取得に加え、作成・更新・削除のツールもある。"
+    },
+    {
+      "repo": "karpathy/nanochat",
+      "name": "nanochat",
+      "genre": "other",
+      "url": "https://github.com/karpathy/nanochat",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "最新リリースのタグと公開日は未確認。学習時間とCOREスコアはプロジェクトの報告で、独立再現は行っていない。実際のGPU利用料金、学習データの個別の利用条件、CLIの実行動作は未検証。",
+      "pricing_detail": "READMEの約48米ドルはH100を8基、1基あたり毎時約3米ドルで約2時間利用する想定の概算。コードはMITライセンス。",
+      "stars": 60415,
+      "forks": 8471,
+      "open_issues": 137,
+      "size_kb": 2520,
+      "language": "Python",
+      "created": "2025-10-13",
+      "updated": "2026-09-07",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 0,
+      "commits_90d": 0,
+      "commit_cadence": "stale",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/thegreatest_sv/status/2115051970251628961"
+      ],
+      "fetched_at": "2026-11-10T11:52:22Z",
+      "path": "entries/other/karpathy-nanochat.md",
+      "summary": "トークナイザー学習、事前学習、教師あり微調整、評価、対話推論を一つのリポジトリで実施できる。"
     },
     {
       "repo": "skylot/jadx",
