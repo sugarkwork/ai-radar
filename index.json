@@ -1,5 +1,5 @@
 {
-  "count": 643,
+  "count": 644,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -5761,6 +5761,24 @@
       ],
       "fetched_at": "2026-11-09T10:10:34Z",
       "path": "articles/1998-10-15-warren-buffett-see-s-candies-1972-1998-25m-60m-mba-12d8279960.md"
+    },
+    {
+      "name": "Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights",
+      "genre": "article",
+      "url": "https://rikiyat.github.io/blog/weight-space-programming/",
+      "published": "2026-11-02",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "掲載スコアと重み編集の再現性は独立に検証していない。GPT-6 Astraの利用条件・料金、公開ログの再利用ライセンスは未確認。",
+      "type": "article",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/rikiyatakehi/status/2117313742891327994"
+      ],
+      "fetched_at": "2026-11-10T08:39:25Z",
+      "path": "articles/2026-11-02-author-sparks-of-weight-space-programming-llms-can-natively-read-write-neural-network-w.md"
     },
     {
       "name": "The Johnson brothers — AIキャラを「家族」に増やす成長プレイブック",
