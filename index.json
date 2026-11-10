@@ -1,5 +1,5 @@
 {
-  "count": 731,
+  "count": 732,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -7976,6 +7976,37 @@
       "fetched_at": "2026-11-10T09:19:25Z",
       "path": "entries/coding-agent/motionsites-ai-claude-skill.md",
       "summary": "Claudeが作例と映像素材を参照し、実装仕様を作ってランディングページを構築する。作者のREADMEによると、実装後はスクリーンショットとQAスクリプトで素材切れ、モバイル幅でのはみ出し、フォント、動画再生を点検する。"
+    },
+    {
+      "repo": "wilwaldon/Claude-Code-Frontend-Design-Toolkit",
+      "name": "Claude Code Frontend Design Toolkit",
+      "genre": "coding-agent",
+      "url": "https://github.com/wilwaldon/Claude-Code-Frontend-Design-Toolkit",
+      "license": "unknown",
+      "stars": 1292,
+      "language": "unknown",
+      "created": "2026-02-25",
+      "updated": "2026-04-11",
+      "forks": 138,
+      "open_issues": 3,
+      "commits_30d": 0,
+      "commit_cadence": "stale",
+      "commits_90d": 0,
+      "size_kb": 61,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "UI品質の改善効果、掲載ツールの現行バージョンでの動作、個別の料金・ライセンス条件は未検証。READMEにはMITと記載されるが、親工程のGitHub API測定ではライセンスがunknownのため、その値を維持した。 GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/thegreatest_sv/status/2117998992126591399"
+      ],
+      "fetched_at": "2026-11-10T11:22:53+00:00",
+      "path": "entries/coding-agent/wilwaldon-claude-code-frontend-design-toolkit.md",
+      "summary": "UIのデザイン方針、配色・タイポグラフィ、アニメーション、アクセシビリティ、Figma連携など、作業に応じてClaude Code向けのスキルやMCPサーバーを探せる。READMEは各ツールへの索引として使う。"
     },
     {
       "repo": "coleam00/second-brain-starter",
