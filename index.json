@@ -1,5 +1,5 @@
 {
-  "count": 662,
+  "count": 663,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -7137,6 +7137,38 @@
       "last_release_at": "2026-10-17",
       "path": "entries/coding-agent/reacher-z-awesome-rea.md",
       "summary": "リバースエンジニアリングエージェントの資料・事例・論文・公開repoを集め、llms.txtとJSON APIで提供するAwesome-REA。"
+    },
+    {
+      "repo": "Motionsites-AI/claude-skill",
+      "name": "MotionSites Web Builder",
+      "genre": "coding-agent",
+      "url": "https://github.com/Motionsites-AI/claude-skill",
+      "license": "unknown",
+      "stars": 1935,
+      "forks": 198,
+      "open_issues": 1,
+      "size_kb": 1942,
+      "language": "Python",
+      "created": "2026-10-26",
+      "updated": "2026-10-26",
+      "archived": false,
+      "commits_30d": 2,
+      "commits_90d": 2,
+      "commit_cadence": "monthly",
+      "last_release": "v1.0.0",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "['作者のREADMEで手順を確認した。導入、スクリーンショットによる修正ループ、生成品質、外部配信素材の到達性は実測していない。', 'GitHubの公開ページで最新タグを確認した。公開日時の年とタイムゾーンは取得できなかった。'] GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/opensourcelab9/status/2117504564941508613"
+      ],
+      "fetched_at": "2026-11-10T09:19:25Z",
+      "path": "entries/coding-agent/motionsites-ai-claude-skill.md",
+      "summary": "Claudeが作例と映像素材を参照し、実装仕様を作ってランディングページを構築する。作者のREADMEによると、実装後はスクリーンショットとQAスクリプトで素材切れ、モバイル幅でのはみ出し、フォント、動画再生を点検する。"
     },
     {
       "type": "repo",
