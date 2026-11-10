@@ -1,5 +1,5 @@
 {
-  "count": 712,
+  "count": 713,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -5742,6 +5742,24 @@
       ],
       "fetched_at": "2026-11-10T09:28:11Z",
       "path": "articles/2026-11-02-author-giving-every-team-a-data-scientist-with-grok-bot.md"
+    },
+    {
+      "name": "How we’re training a Figma-fluent editing model",
+      "genre": "article",
+      "url": "https://www.figma.com/blog/training-a-figma-fluent-editing-model/",
+      "published": "2026-10-29",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "比較結果はFigmaの社内評価で、独立した再現性は未確認。学習データに含まれる顧客コンテンツの具体的な範囲と利用条件、学習済みモデルやデータの入手・再利用条件、モデル単体の速度と費用は未確認。",
+      "type": "article",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/neuronxwhite/status/2117856064104489123"
+      ],
+      "fetched_at": "2026-11-10T10:49:12Z",
+      "path": "articles/2026-10-29-author-how-we-re-training-a-figma-fluent-editing-model.md"
     },
     {
       "name": "Introducing System One Models & Jev",
