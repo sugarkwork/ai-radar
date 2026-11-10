@@ -1,5 +1,5 @@
 {
-  "count": 596,
+  "count": 597,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -5128,6 +5128,25 @@
       ],
       "fetched_at": "2026-11-10T00:42:48Z",
       "path": "articles/2026-11-09-openai-control-room.md"
+    },
+    {
+      "name": "DatalabのIndra OCR初回公開",
+      "genre": "article",
+      "url": "https://www.datalab.to/blog/indra-ocr",
+      "author": "Vik Paruchuri",
+      "published": "2026-10-13",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "性能は提供元の測定。モデル重みとコードのライセンス条件は異なる。",
+      "type": "article",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/bernvadell/status/2110069738252493121"
+      ],
+      "fetched_at": "2026-11-10T04:07:51Z",
+      "path": "articles/2026-10-13-vik-paruchuri-datalab-indra-ocr.md"
     },
     {
       "name": "Eddie Woo の対数講義――「何倍になるまでの時間」を1本の対数で読む",
