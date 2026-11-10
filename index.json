@@ -1,5 +1,5 @@
 {
-  "count": 599,
+  "count": 600,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -5166,6 +5166,25 @@
       ],
       "fetched_at": "2026-11-09T09:32:39Z",
       "path": "articles/2026-09-14-xsmryze-eddie-woo-1-589eee2ad8.md"
+    },
+    {
+      "name": "EmbeddingGemma 2を使ったオンデバイス英語文字起こし",
+      "genre": "article",
+      "url": "https://x.com/TslShahir/status/2109660368381395414",
+      "author": "Shahir",
+      "published": "2026-10-12",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "投稿日はUTC。開発者測定で、音源・測定範囲と日本語対応は未確認。",
+      "type": "article",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/bernvadell/status/2110606535525032303"
+      ],
+      "fetched_at": "2026-11-10T13:09:00+09:00",
+      "path": "articles/2026-10-12-shahir-embeddinggemma-2.md"
     },
     {
       "name": "GDG OAUのAgent Skillsワークショップ報告",
