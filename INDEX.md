@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 699 件 — リポジトリ 395, リンク集 113, 記事 124, モデル 53, プロンプト 14 / ⚑ 要確認 489 件
+収録 700 件 — リポジトリ 396, リンク集 113, 記事 124, モデル 53, プロンプト 14 / ⚑ 要確認 490 件
 
-## リポジトリ（395）
+## リポジトリ（396）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -248,7 +248,7 @@
 | [quicksilver](entries/coding-agent/uditakhourii-quicksilver.md) ⚑ | 142 | 11 | 停滞 | 0 | 2026-09-25 | 2026-11-09 | 2026-11-10 | MIT |
 | [GDG Agent Skillsの実演教材](entries/coding-agent/gdg-oau-agent-skills-gdg.md) ⚑ | 1 | 0 | 週次 | 13 | 2026-11-07 | 2026-11-10 | 2026-11-10 | unknown |
 
-### その他（33）
+### その他（34）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -263,6 +263,7 @@
 | [OfficeCLI](entries/other/iofficeai-officecli.md) | 33,171 | 2,271 | 毎日 | 80 | 2026-10-30 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
 | [Google Workspace CLI (gws)](entries/other/googleworkspace-cli.md) ⚑ | 32,212 | 1,988 | 月次 | 1 | 2026-11-03 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
 | [ego lite](entries/other/citrolabs-ego-lite.md) ⚑ | 22,387 | 1,269 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | MIT |
+| [ai-goofish-monitor](entries/other/usagi-org-ai-goofish-monitor.md) ⚑ | 19,101 | 3,116 | 月次 | 0 | 2026-10-10 | 2026-11-10 | 2026-11-10 | MIT |
 | [social-auto-upload](entries/other/dreammis-social-auto-upload.md) ⚑ | 16,378 | 2,777 | 週次 | 16 | 2026-10-22 | 2026-11-10 | 2026-11-10 | MIT |
 | [claude-obsidian](entries/other/agricidaniel-claude-obsidian.md) ⚑ | 16,310 | 1,598 | 毎日 | 69 | 2026-10-25 | 2026-11-10 | 2026-11-10 | MIT |
 | [Horizon](entries/other/thysrael-horizon.md) | 13,147 | 1,876 | 毎日 | 80 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
@@ -1439,6 +1440,7 @@
 - [LosslessCut](entries/other/mifi-lossless-cut.md) — unverified / 実ファイルでの処理速度、カット位置、CLIとHTTP APIの動作は未実測。公開リリースページで最新タグは確認したが、公開日時の年とタイムゾーンは未確認。
 - [Google Workspace CLI (gws)](entries/other/googleworkspace-cli.md) — unverified / README 冒頭に「This is not an officially supported Google product.」と明記されており、googleworkspace org 配下でも公式サポート製品ではない。Claude/Anthropic への言及はなく、Claude Code から使えるかは Bash ツール経由で CLI を呼ぶ一般経路の推測で、リポジトリ側の検証はない。最終リリースは 2026-03-31、90日コミットは 2026-10-30 の CI 修正1件のみで開発は停滞している。README はスキル数を 40+ と 100+ の両方で書いており、実際の skills/ は95ディレクトリ。API の課金額は各 GCP プロジェクトのクォータ次第で、料金表は確認していない。
 - [ego lite](entries/other/citrolabs-ego-lite.md) — unverified / 公式リリース一覧ではv2.1.0がLatestと表示された。最新リリースへの直接アクセスはタイムアウトし、公開日時は未確認。作者ベンチマークの再現性、ブラウザデータの取り扱い、Spaces間の分離の実効性は未検証。
+- [ai-goofish-monitor](entries/other/usagi-org-ai-goofish-monitor.md) — unverified / 判定精度、通知遅延、現行の闲鱼環境での動作、モデルAPIの実利用料金、最新リリースの公開日時は未確認。プラットフォームの利用条件への適合性は利用形態に依存する。
 - [social-auto-upload](entries/other/dreammis-social-auto-upload.md) — unverified / 対応表は開発元の記載。実アカウントでのログイン、投稿成功率、定時公開、処理時間、各サービスの規約適合性は未検証。最新リリースのタグは確認済みだが、公開年とタイムゾーンを含む日時は未確認。
 - [claude-obsidian](entries/other/agricidaniel-claude-obsidian.md) — unverified / 理由未記入
 - [librosa](entries/other/librosa-librosa.md) — unverified / GitHub の latest は 1.0.0 に転送されたが、GitHub 上の公開日は未確認。PyPI の公開日は 2026-08-11。手順は公式資料に基づき、独立した実行・精度測定は行っていない。

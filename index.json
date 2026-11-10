@@ -1,5 +1,5 @@
 {
-  "count": 699,
+  "count": 700,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -13521,6 +13521,38 @@
       "fetched_at": "2026-11-10T09:19:17Z",
       "path": "entries/other/citrolabs-ego-lite.md",
       "summary": "CodexやClaude Codeが専用のSpaceでページを開き、構造化テキストとして内容を読み取ったり、フォームに入力したりできる。利用者は自分のSpaceで閲覧を続けられる。"
+    },
+    {
+      "repo": "Usagi-org/ai-goofish-monitor",
+      "name": "ai-goofish-monitor",
+      "genre": "other",
+      "url": "https://github.com/Usagi-org/ai-goofish-monitor",
+      "license": "MIT",
+      "stars": 19101,
+      "language": "Python",
+      "created": "2025-07-16",
+      "updated": "2026-10-10",
+      "forks": 3116,
+      "open_issues": 52,
+      "commits_30d": 0,
+      "commit_cadence": "monthly",
+      "commits_90d": 9,
+      "size_kb": 9584,
+      "archived": false,
+      "last_release": "2.5",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "判定精度、通知遅延、現行の闲鱼環境での動作、モデルAPIの実利用料金、最新リリースの公開日時は未確認。プラットフォームの利用条件への適合性は利用形態に依存する。",
+      "type": "repo",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/Ryrenz/status/2117642992232112463"
+      ],
+      "fetched_at": "2026-11-10T10:07:12+00:00",
+      "path": "entries/other/usagi-org-ai-goofish-monitor.md",
+      "summary": "キーワード、価格帯、送料無料、出品時期、地域で絞り込んで定期監視し、AIが推奨した商品を企業微信、Bark、Telegram、Webhookなどへ通知できる。タスク、実行ログ、結果はWeb UIで確認できる。"
     },
     {
       "repo": "dreammis/social-auto-upload",
