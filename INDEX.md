@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 629 件 — リポジトリ 331, リンク集 113, 記事 118, モデル 53, プロンプト 14 / ⚑ 要確認 420 件
+収録 630 件 — リポジトリ 331, リンク集 113, 記事 119, モデル 53, プロンプト 14 / ⚑ 要確認 421 件
 
 ## リポジトリ（331）
 
@@ -874,7 +874,7 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（118）
+## 記事（119）
 
 ### 記事（60）
 
@@ -986,6 +986,13 @@
 - **[成人向けSEライブラリの分類・検索UI制作事例](articles/2026-11-09-https-x.com-de_nier_ai-status-2119342412611068332.md)** ⚑  @memuringo7544
 - **[音声を短文分割生成し接合部を調整する運用メモ](articles/2026-11-09-topic-ai_1610-audio-segment-join.md)** ⚑  @ai_1610
 
+### コーディングエージェント（4）
+
+- **[ApiiroによるClaude Code settings.local.json資格情報漏洩調査](articles/2026-11-09-https-x.com-yoppy0123-status-2119219945179603110.md)** ⚑  @yoppy0123
+- **[Claude Code v2.1.283 の設定監査 /doctor prompt-audit](articles/2026-09-25-anthropic-claude-code-v2.1.283-doctor-prompt-audit.md)** ⚑  Anthropic
+- **[Claude Code サブエージェントを1ファイルで定義し、報告を短く縛る](articles/2026-10-22-0xbobaaa-sumika45379-claude-code-1.md)** ⚑  @0xbobaaa（元投稿）/ @sumika45379（紹介）
+- **[HackerTube](articles/2026-10-31-andrej-karpathy-hackertube.md)** ⚑  Andrej Karpathy
+
 ### agent（3）
 
 - **[Claude Code × Blender：ゲーム向け3D制作手順](articles/agent/2026-11-08-rektwild-blender-game-pipeline.md)** ⚑
@@ -997,12 +1004,6 @@
 - **[Muse VM・Tailscale・SSH・自宅PC/NASの運用構成図](articles/2026-11-09-https-x.com-hirokichi_pd-status-2119037163899847040.md)** ⚑  @HIROKICHI_PD
 - **[Muse×Brainアフィリエイトの役割分担・人間承認設計](articles/2026-11-09-https-x.com-i-article-2119167977438527488.md)** ⚑  @AI_jikan
 - **[Muse・Meta AIへの専用モデル展開と無料プラン誤解の訂正](articles/2026-11-09-https-research.meta.ai-blog-specialized-models-for-muse-and-metaai.md)** ⚑  @k_matsumaru
-
-### コーディングエージェント（3）
-
-- **[ApiiroによるClaude Code settings.local.json資格情報漏洩調査](articles/2026-11-09-https-x.com-yoppy0123-status-2119219945179603110.md)** ⚑  @yoppy0123
-- **[Claude Code v2.1.283 の設定監査 /doctor prompt-audit](articles/2026-09-25-anthropic-claude-code-v2.1.283-doctor-prompt-audit.md)** ⚑  Anthropic
-- **[Claude Code サブエージェントを1ファイルで定義し、報告を短く縛る](articles/2026-10-22-0xbobaaa-sumika45379-claude-code-1.md)** ⚑  @0xbobaaa（元投稿）/ @sumika45379（紹介）
 
 ### モデル推論・配信（3）
 
@@ -1215,6 +1216,7 @@
 - [Claude Code コミット前検証スキル verify（テスト→差分レビュー→差し戻し）](prompts/coding-agent/claude-code-verify-6df7a29de9.md) — unverified / 同梱の /verify とコミット前実行の仕様は code.claude.com の公式ドキュメントで確認できた。一方、Voxyz_ai が配布する SKILL.md の実ファイル（GitHub / gist）は発見できず、画像は SKILL.md 本文そのものではなく手順を図解したインフォグラフィック。そのため frontmatter や実行コマンドの具体、原文の正確な文言は未確認（unverified）。「OpenAI のレビュー基準」は OpenAI の公式文書ではなく、レビュー観点の通称とみられる。スキルはモデルへの指示であり、実行を強制するものではない。
 - [Claude Code サブエージェントを1ファイルで定義し、報告を短く縛る](articles/2026-10-22-0xbobaaa-sumika45379-claude-code-1.md) — unverified, dead-link / 元ポスト（@0xbobaaa, https://x.com/0xbobaaa/status/2107892817292939588）は 2026-11-08 時点で HTTP 404、Wayback のスナップショットもなく、原文の定義ファイルと実測値は確認できない。「3体で合計32万7千トークン」「親に戻ったのは報告3本」は紹介投稿による要約で、独立した検証はない。「返事は5行まで」の縛りが出力をどれだけ減らすかも未測定。一方、定義ファイルの書式・別コンテキストでの実行・利用上限への計上は公式ドキュメントで確認済み。候補に添付されていた画像（HWWvkhaa4AAPVqD.jpg）は stageshow スキルの紹介画像で本件とは無関係。
 - [Claude Code ダイナミックワークフロー（Dynamic workflows）](links/coding-agent/code.claude.com-claude-code-dynamic-workflows.md) — unverified / 投稿の主張のうち、ワークフロー機能そのもの（JSスクリプトで多数のサブエージェントを編成、`claude --effort ultracode`、`/deep-research`、`/workflows`、ステージごとのモデル指定、isolated copy での並列編集）は一次情報で確認できる。一方、(1)「Haiku 5.5 が全ファイルをスキャンし Sonnet 5.5 が修正する」という固定の役割分担はページに記載がなく、投稿者のレシピ。モデル名（Opus 5.5 / Sonnet 5.5 / Haiku 5.5）自体は Claude Code の model-config に存在するが、この分担は既定動作ではない。(2)「JEV がミリ秒でマイクロ分岐をルーティングする」は当該ページにも docs 索引にも一切登場せず、ワークフロー機能の一部ではない（JEV は外部解説では TypeSafe の意思決定モデルと説明される別製品で、Anthropic の機能ではない。TypeSafe 一次ページは JS 主体で本文確認できず、この帰属は第三者解説に基づく）。「Anthropic が共有した」という帰属と、JEV を機能の一部のように説明する点は誤り。(3) 動画のみで静止画像はなく、フレーム単位の照合はしていない。コスト面はページが「トークンが大幅に増える」「利用上限に早く達する」と明記しており、投稿の「Opus トークンを節約」は主観で、ページの警告とは方向が異なる。
+- [HackerTube](articles/2026-10-31-andrej-karpathy-hackertube.md) — unverified / 所要時間とデプロイ時のセキュリティ対策は著者の報告に基づく。推薦の選別精度、Mediumと他の設定の比較、実際の費用、エクスポートデータの再利用条件は未確認。
 - [Jev Skill Typeahead](links/coding-agent/aitmpl.com-jev-skill-typeahead.md) — unverified / 投稿の「確率つきで出る」は半分正確。停止後に出る『Jev decided』行の % はバックエンド(Jev)が返す probability だが、入力中に即時表示される % は名前・説明と下書きの語の重なり（IDF 重み付き被覆率。policy.ts では 100*raw/total/1.6 を丸めた値）であって確率ではない。builtin プロバイダでは確率が返らず「—」表示になる。予測精度の実測値・ベンチマークは README になく、効果は著者の主張のみ。README 自身が「ライブのタイピング経路はエンジンの型を読んで確認しただけで、セッションに打ち込んでは検証していない」と明記している。Jev キーを設定すると下書き本文と全候補の名前・説明が停止ごとに外部(api.typesafe.ai 等)へ送信されるため、機密プロンプトでは keywords か builtin を選ぶ必要がある。Claude Code 2.1.287 以降が必須。
 - [Turn Inspector](links/coding-agent/aitmpl.com-turn-inspector.md) — unverified / 確認できたこと: aitmpl.com の製品ページ（HTTP 200）に仕様・オプション・導入コマンド・バージョン要件が記載され、配布リポジトリの README と一致する。デモ動画を取得してフレームを確認し、右側ペインに「Context window 58.5k / 1.0M 6%」と system / earlier / new / output の内訳バー、#1 answer 54.1k / #2 1x Read 54.2k / #3 answer 58.5k のようなターン行が実際に映っていることを目視確認した。未確認のこと: トークン削減などの効果数値は存在せず、著者の「重くなった原因を勘で探さずに済む」という主張のみ。Claude Desktop のサイドパネル表示とバージョン範囲（2.1.287+ で既定有効、2.1.259〜2.1.286 は環境変数が必要）はドキュメント記述のみで、当環境では実機検証していない。本 Mod は表示・観測専用でコンテキストを減らす機能はない。
 - [promptfoo](entries/eval/promptfoo-promptfoo.md) — unverified / 有効性の数値（README の「10M+ users」等）はベンダー自己申告で、独立検証や本環境での再現はしていない。導入・eval・redteam の実行も未実施。Community の red teaming は月10k probes 上限で、SonarQube 出力・チーム共有・カスタムプラグイン・RBAC/SSO・監視は Enterprise 限定（公開価格なし、Custom 見積り）。LLM 採点の assertion は確率的で、しきい値・grader・--repeat の調整が必要。red team の検出結果は誤検知を含む前提で人間が triage する必要がある。README は OpenAI 傘下であることを明記しており、今後のライセンスや提供形態の変更リスクは残る。redteam は有害出力を誘発しうるため、管理下のアプリ以外には使わない。

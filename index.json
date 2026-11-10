@@ -1,5 +1,5 @@
 {
-  "count": 629,
+  "count": 630,
   "items": [
     {
       "repo": "ahujasid/mcp-for-blender",
@@ -7030,6 +7030,25 @@
       "fetched_at": "2026-11-09T12:08:41Z",
       "path": "links/coding-agent/code.claude.com-claude-code-dynamic-workflows.md",
       "summary": "1つの会話では捌ききれない規模の作業（コードベース全体のバグ掃討、500ファイルの移行、出典を突き合わせる調査）を、JavaScript のワークフロースクリプトに計画として持たせて実行するための Claude Code の機能。"
+    },
+    {
+      "name": "HackerTube",
+      "genre": "coding-agent",
+      "url": "https://karpathy.bearblog.dev/hacker-tube/",
+      "author": "Andrej Karpathy",
+      "published": "2026-10-31",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "所要時間とデプロイ時のセキュリティ対策は著者の報告に基づく。推薦の選別精度、Mediumと他の設定の比較、実際の費用、エクスポートデータの再利用条件は未確認。",
+      "type": "article",
+      "added": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "https://x.com/eng_khairallah1/status/2116930007134249237"
+      ],
+      "fetched_at": "2026-11-10T06:30:15+00:00",
+      "path": "articles/2026-10-31-andrej-karpathy-hackertube.md"
     },
     {
       "name": "Jev Skill Typeahead",
