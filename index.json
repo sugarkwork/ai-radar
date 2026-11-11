@@ -1,5 +1,5 @@
 {
-  "count": 867,
+  "count": 868,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -5466,6 +5466,37 @@
       "type": "repo",
       "path": "entries/agent-framework/antfu-skills-pack.md",
       "summary": "複数の配布元のエージェントスキルを1つの npm パッケージにまとめ、pnpm i のたびに同期する。導入は依存に @antfu/skills と skills を足し、prepare に skills experimental_sync -y を置くだけ。"
+    },
+    {
+      "name": "neo4jev — Graph Navigation Demo (TypeSafe Jev + Neo4j)",
+      "genre": "agent-framework",
+      "url": "https://github.com/jexp/neo4jev",
+      "repo": "jexp/neo4jev",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "TypeSafe APIの利用にはTYPESAFE_API_KEYが必要。READMEによると、既定のベクトル埋め込みは決定論的なハッシュ由来のプレースホルダーで、意味的な検索にはならない。",
+      "stars": 184,
+      "forks": 27,
+      "open_issues": 2,
+      "size_kb": 6655,
+      "language": "Jupyter Notebook",
+      "created": "2026-09-16",
+      "updated": "2026-09-18",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 0,
+      "commits_90d": 39,
+      "commit_cadence": "monthly",
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/GitTrend0x/status/2120147118237114757"
+      ],
+      "fetched_at": "2026-11-11T06:10:34.954075+00:00",
+      "path": "entries/agent-framework/jexp-neo4jev.md",
+      "summary": "Neo4jのノードから隣接関係を1ホップずつ探索する。各ホップでTypeSafeのsystem_one構造化判定APIに関係候補を渡し、次に進む候補の確率分布を取得する。上位候補や確率しきい値を使ったビームサーチで経路を選び、neo4j-vizで周辺グラフとともに表示する。自由記述のゴール、特定ノード、経路パターンの3"
     },
     {
       "repo": "RUC-NLPIR/CoworkOS",
