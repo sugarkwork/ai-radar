@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 904 件 — リポジトリ 584, リンク集 114, 記事 139, モデル 53, プロンプト 14 / ⚑ 要確認 692 件
+収録 905 件 — リポジトリ 585, リンク集 114, 記事 139, モデル 53, プロンプト 14 / ⚑ 要確認 693 件
 
-## リポジトリ（584）
+## リポジトリ（585）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -278,7 +278,7 @@
 | [GDG Agent Skillsの実演教材](entries/coding-agent/gdg-oau-agent-skills-gdg.md) ⚑ | 1 | 0 | 週次 | 13 | 2026-11-07 | 2026-11-10 | 2026-11-10 | unknown |
 | [Leash](entries/coding-agent/cmaintz-leash.md) ⚑ | 0 | 0 | 毎日 | 21 | 2026-11-06 | 2026-11-10 | 2026-11-11 | MIT |
 
-### その他（75）
+### その他（76）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -330,6 +330,7 @@
 | [JIZURA 字面](entries/other/852wa-jizura.md) ⚑ | 2,232 | 295 | 週次 | 9 | 2026-11-10 | 2026-11-11 | 2026-11-11 | MIT |
 | [nv-uefi-unlocker](entries/other/physicsdolphin-nv-uefi-unlocker.md) ⚑ | 2,223 | 202 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | GPL-2.0 |
 | [cannon-es](entries/other/pmndrs-cannon-es.md) ⚑ | 2,090 | 158 | 停滞 | 0 | 2024-01-06 | 2026-11-11 | 2026-11-11 | MIT |
+| [Effekseer](entries/other/effekseer-effekseer.md) ⚑ | 2,063 | 330 | 週次 | 17 | 2026-10-30 | 2026-11-11 | 2026-11-11 | MIT |
 | [awesome-reverse-engineering](entries/other/morluto-awesome-reverse-engineering.md) | 1,991 | 440 | 毎日 | 99 | 2026-11-09 | 2026-11-09 | 2026-11-10 | CC0-1.0 |
 | [Second Brain OS](entries/other/undefined-ui-second-brain-os.md) ⚑ | 1,549 | 265 | 週次 | 8 | 2026-11-03 | 2026-11-10 | 2026-11-10 | MIT |
 | [Motion Video Kit](entries/other/echris6-motion-video-kit.md) ⚑ | 1,378 | 123 | 月次 | 1 | 2026-10-14 | 2026-11-09 | 2026-11-10 | MIT |
@@ -1814,6 +1815,7 @@
 - [JIZURA 字面](entries/other/852wa-jizura.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [nv-uefi-unlocker](entries/other/physicsdolphin-nv-uefi-unlocker.md) — unverified / 性能と互換性は開発元の報告に基づき、独立した実機試験は未実施。投稿にあるv2.1.9-diag.3のCSM環境向け復旧処理とUSBへのログ書き込みの保証は未確認。最新安定版のタグは確認したが、公開日時は未確認。
 - [cannon-es](entries/other/pmndrs-cannon-es.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
+- [Effekseer](entries/other/effekseer-effekseer.md) — unverified / READMEには、対応プラットフォームでの再生にはランタイムやプラグインの組み込みが必要とある。具体的な導入手順・依存関係・利用条件はこのREADMEだけでは確認できない。
 - [Second Brain OS](entries/other/undefined-ui-second-brain-os.md) — unverified / 検索精度や学習効果の比較実測、プラグインとスクリプトの実行互換性、Claude Codeの利用料金、最新リリースのタグと公開日は未確認。
 - [Motion Video Kit](entries/other/echris6-motion-video-kit.md) — unverified / スター1366・フォーク121に対し、コミットは90日で7件（作成2026-09-27、最終push 2026-10-14）で、X投稿経由の注目が先行した可能性がある。作例3本の動画・レンダー結果はリポジトリに含まれず（git tree に mp4 等なし）、成果物品質は第三者が確認できない。効果測定・ベンチマークはなく、効果は作者の自己申告の範囲。HyperFrames でのレンダリング（component-lab.html の npx 手順）は当方では未実行。
 - [pg-jev](entries/other/realzachi-pg-jev.md) — unverified / 速度・精度・費用はREADMEの著者測定で、独立再現、別データでの精度、現行料金、ローカル互換サーバーの動作は未確認。最新リリースの公開ページでタグを確認したが、タイムゾーン付きの公開日時は未確認。 GitHub APIでライセンスを確認できていません。

@@ -1,5 +1,5 @@
 {
-  "count": 904,
+  "count": 905,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -18723,6 +18723,37 @@
       "fetched_at": "2026-11-11T20:09:08.495552+00:00",
       "path": "entries/other/pmndrs-cannon-es.md",
       "summary": "cannon.jsを基にした物理エンジン。READMEでは、型安全なフラットバンドルとしてESMとCJSに対応し、tree shakingが可能と説明している。また、Trigger bodies、スリープ中の物体への力・インパルス適用時の再起床、摩擦計算に使う重力の設定などの変更が記載されている。"
+    },
+    {
+      "name": "Effekseer",
+      "genre": "other",
+      "url": "https://github.com/effekseer/Effekseer",
+      "repo": "effekseer/Effekseer",
+      "license": "MIT",
+      "stars": 2063,
+      "language": "C",
+      "created": "2013-10-19",
+      "updated": "2026-10-30",
+      "forks": 330,
+      "open_issues": 89,
+      "commits_30d": 17,
+      "commit_cadence": "weekly",
+      "commits_90d": 23,
+      "size_kb": 221217,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEには、対応プラットフォームでの再生にはランタイムやプラグインの組み込みが必要とある。具体的な導入手順・依存関係・利用条件はこのREADMEだけでは確認できない。",
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/RealMarvelX/status/2118330503040221345"
+      ],
+      "fetched_at": "2026-11-11T20:10:16.743784+00:00",
+      "path": "entries/other/effekseer-effekseer.md",
+      "summary": "パーティクルエフェクトを編集し、作成したエフェクトをランタイムやプラグインを組み込んだアプリケーションで再生できる。README記載の対応先にはDirectX 9/11/12、Metal、Vulkan、OpenGL、WebGL、Unity、Godot、Unreal Engine、DX Library、Cocos2d-x"
     },
     {
       "repo": "morluto/awesome-reverse-engineering",
