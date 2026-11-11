@@ -1,5 +1,5 @@
 {
-  "count": 789,
+  "count": 790,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -7946,6 +7946,37 @@
       "last_release_at": "2026-11-07",
       "path": "entries/coding-agent/meta-astryx.md",
       "summary": "React19とStyleXを基盤とするデザインシステムastryx。CLIと150以上のアクセシブル部品を案内。"
+    },
+    {
+      "repo": "greensock/gsap-skills",
+      "name": "GSAP AI Skills",
+      "genre": "coding-agent",
+      "url": "https://github.com/greensock/gsap-skills",
+      "license": "MIT",
+      "stars": 18218,
+      "language": "unknown",
+      "created": "2026-03-04",
+      "updated": "2026-07-29",
+      "forks": 1148,
+      "open_issues": 15,
+      "commits_30d": 0,
+      "commit_cadence": "stale",
+      "commits_90d": 0,
+      "size_kb": 59,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "スキル導入前後の生成品質、エージェントごとの自動読み込み、生成コードのブラウザ動作は未検証。GitHubの公開リリース一覧に掲載はなく、最新リリースのタグと日時は記載していない。",
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/thegreatest_sv/status/2115876572464812071"
+      ],
+      "fetched_at": "2026-11-10T12:45:27Z",
+      "path": "entries/coding-agent/greensock-gsap-skills.md",
+      "summary": "AIコーディングエージェントが、GSAPのタイムラインで複数の動きを順序づける方法、ScrollTriggerでスクロールに連動させる方法、SplitTextなどでテキストを演出する方法を参照できる。"
     },
     {
       "type": "repo",
