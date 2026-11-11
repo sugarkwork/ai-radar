@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 873 件 — リポジトリ 554, リンク集 113, 記事 139, モデル 53, プロンプト 14 / ⚑ 要確認 662 件
+収録 874 件 — リポジトリ 555, リンク集 113, 記事 139, モデル 53, プロンプト 14 / ⚑ 要確認 663 件
 
-## リポジトリ（554）
+## リポジトリ（555）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -532,7 +532,7 @@
 | [pagesift](entries/mcp-server/yolow92-pagesift.md) ⚑ | 256 | 32 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | AGPL-3.0 |
 | [Kosh](entries/mcp-server/sachinyadavaug20-kosh.md) ⚑ | 4 | 0 | 毎日 | 61 | 2026-11-10 | 2026-11-10 | 2026-11-10 | Apache-2.0 |
 
-### 画像生成・編集（20）
+### 画像生成・編集（21）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -548,6 +548,7 @@
 | [GIF 工厂](entries/image-gen/woyun520-gif-factory.md) ⚑ | 1,092 | 134 | 毎日 | 27 | 2026-11-11 | 2026-11-11 | 2026-11-11 | MIT |
 | [ComfyArt](entries/image-gen/jtydhr88-comfyart.md) ⚑ | 504 | 87 | 毎日 | 70 | 2026-11-09 | 2026-11-11 | 2026-11-11 | MIT |
 | [ComfyUI AICG3D PoseSwap](entries/image-gen/jgrfw-comfyui-pose-swap.md) | 330 | 47 | 週次 | 7 | 2026-11-01 | 2026-11-09 | 2026-11-10 | MIT |
+| [Anima Reference Adapter for ComfyUI](entries/image-gen/arcanima-comfyui-anima-ref-adapter.md) ⚑ | 234 | 14 | 週次 | 12 | 2026-10-31 | 2026-11-11 | 2026-11-11 | Apache-2.0 |
 | [MiniMax-H3-Image](entries/image-gen/minimax-ai-minimax-h3-image.md) ⚑ | 85 | 2 | 月次 | 1 | 2026-11-10 | 2026-11-11 | 2026-11-11 | unknown |
 | [Iris-3B Metal](entries/image-gen/tky-27-iris-3b-metal.md) | 58 | 2 | 毎日 | 36 | 2026-10-19 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
 | [Lyricccco/tailsteer](entries/image-gen/lyricccco-tailsteer.md) ⚑ | 49 | 1 | 週次 | 11 | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
@@ -1609,6 +1610,7 @@
 - [Agent Sprite Forge](entries/image-gen/0x0funky-agent-sprite-forge.md) — unverified / 元ポストは「ゲームエンジンへの取り込みは未確認」と留保するが、README は Godot/Aseprite/Tiled/LDtk 書き出しを検証済みと明記。実機検証は未実施。
 - [GIF 工厂](entries/image-gen/woyun520-gif-factory.md) — unverified / 具体生成所用模型、依赖、运行条件、费用及完整最短操作步骤未能从所附 README 确认。
 - [ComfyArt](entries/image-gen/jtydhr88-comfyart.md) — unverified / 一部の生成ワークフローが必要とするモデルやカスタムノードのローカル環境への導入条件は、READMEだけでは全て確認できない。Comfy Cloud APIキーには有料Comfyプランが必要と記載されている。
+- [Anima Reference Adapter for ComfyUI](entries/image-gen/arcanima-comfyui-anima-ref-adapter.md) — unverified / アダプターの重みはCircleStone Non-Commercialライセンス。READMEではコードのライセンスをApache-2.0としている。
 - [MiniMax-H3-Image](entries/image-gen/minimax-ai-minimax-h3-image.md) — unverified / READMEはライセンスを示すバッジとLICENSEへのリンクを掲載していますが、ライセンス名や利用条件は確認できません。 GitHub APIでライセンスを確認できていません。
 - [Lyricccco/tailsteer](entries/image-gen/lyricccco-tailsteer.md) — unverified / 主な保持定量評価は10ターン。編集精度RISEが低下した値も公開され、保持と指示追従の両方が一律に向上したわけではない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [rhinoc/xprite-lighter](entries/image-gen/rhinoc-xprite-lighter.md) — unverified / MIT表記を原チェックで確認。派生版のAPI互換性・現行版と同じ処理品質は未試験。 当方でインストール・推論・生成・ベンチ再現はしていない。
