@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 892 件 — リポジトリ 572, リンク集 114, 記事 139, モデル 53, プロンプト 14 / ⚑ 要確認 680 件
+収録 893 件 — リポジトリ 573, リンク集 114, 記事 139, モデル 53, プロンプト 14 / ⚑ 要確認 681 件
 
-## リポジトリ（572）
+## リポジトリ（573）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### エージェント基盤・スキル集（88）
+### エージェント基盤・スキル集（89）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Composio](entries/agent-framework/composiohq-composio.md) ⚑ | 31,014 | 4,935 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-11 | MIT |
 | [TencentDB Agent Memory（チームで共有するエージェント記憶ハブ）](entries/agent-framework/tencentcloud-tencentdb-agent-memory.md) | 30,693 | 2,999 | 毎日 | 22 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT（GitHub API は NOASSERTION） |
 | [GPT Researcher](entries/agent-framework/assafelovic-gpt-researcher.md) ⚑ | 30,630 | 4,211 | 毎日 | 100+ | 2026-11-09 | 2026-11-11 | 2026-11-11 | Apache-2.0 |
+| [Activepieces](entries/agent-framework/activepieces-activepieces.md) ⚑ | 25,479 | 4,454 | 毎日 | 100+ | 2026-11-11 | 2026-11-11 | 2026-11-11 | unknown |
 | [Jev Ultrafast](entries/agent-framework/browser-use-jev-ultrafast.md) ⚑ | 24,346 | 1,874 | 月次 | 1 | 2026-11-03 | 2026-11-10 | 2026-11-11 | MIT |
 | [google/skills](entries/agent-framework/google-skills.md) ⚑ | 23,767 | 1,986 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
 | [dsh-superagent (prototype)](entries/agent-framework/deepseek-ai-dsh-superagent-prototype.md) | 21,726 | 2,608 | 月次 | 1 | 2026-11-03 | 2026-11-09 | 2026-11-10 | MIT |
@@ -1395,6 +1396,7 @@
 - [GBrain](entries/agent-framework/garrytan-gbrain.md) — unverified / READMEは作者の説明であり、記載された機能・性能を独立に検証したものではありません。
 - [Composio](entries/agent-framework/composiohq-composio.md) — unverified / 利用にはCOMPOSIO_API_KEYが必要とREADMEに記載。README記載の機能や規模について独立した検証はしていない。
 - [GPT Researcher](entries/agent-framework/assafelovic-gpt-researcher.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
+- [Activepieces](entries/agent-framework/activepieces-activepieces.md) — unverified / GitHub APIでライセンスを確認できていません。
 - [Jev Ultrafast](entries/agent-framework/browser-use-jev-ultrafast.md) — unverified / ['最新リリースのタグと公開日時、外部APIの現行料金・利用条件は未確認。', '性能値は開発元の報告。独立した再実行は行っておらず、別サイトや別環境での性能は未確認。']
 - [google/skills](entries/agent-framework/google-skills.md) — unverified / skill追加だけで対象クラウド契約・API課金が無料になるわけではない。日次stars増分と効果は未検証。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Claude Quickstarts](entries/agent-framework/anthropics-claude-quickstarts.md) — unverified / 最新リリースのタグと公開日時、サンプルの動作、回答精度、実利用時の費用は未確認。MITはリポジトリ単位のAPI計測値。各サンプルの条件は個別に確認が必要で、自律コーディング例のREADMEには『Internal Anthropic use.』と記載がある。https://github.com/anthropics/claude-quickstarts/blob/main/autonomous-coding/README.md

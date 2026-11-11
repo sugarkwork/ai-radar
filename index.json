@@ -1,5 +1,5 @@
 {
-  "count": 892,
+  "count": 893,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -3776,6 +3776,37 @@
       "fetched_at": "2026-11-11T19:06:16.549783+00:00",
       "path": "entries/agent-framework/assafelovic-gpt-researcher.md",
       "summary": "Webとローカル文書を使った調査レポートの作成、情報源の要約と記録、調査結果の集約を行うとREADMEに記載されています。画像の取得・選別、JavaScript対応スクレイピング、PDFやWordなどへの出力、MCP連携も記載されています。"
+    },
+    {
+      "name": "Activepieces",
+      "genre": "agent-framework",
+      "url": "https://github.com/activepieces/activepieces",
+      "repo": "activepieces/activepieces",
+      "license": "unknown",
+      "stars": 25479,
+      "forks": 4454,
+      "open_issues": 922,
+      "size_kb": 1055172,
+      "language": "TypeScript",
+      "created": "2022-12-03",
+      "updated": "2026-11-11",
+      "archived": false,
+      "commits_30d": 100,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/thegreatest_sv/status/2118325722850697573"
+      ],
+      "fetched_at": "2026-11-11T19:06:06.076343+00:00",
+      "path": "entries/agent-framework/activepieces-activepieces.md",
+      "summary": "TypeScript製のPieceフレームワークを通じて拡張できる自動化プラットフォーム。READMEにはフローのループ、分岐、自動再試行、HTTP、NPMを使うコード、バージョン管理などの機能が記載されている。Google Sheets、OpenAI、Discord、RSSなどの連携に加え、PieceをMCPサーバー"
     },
     {
       "repo": "browser-use/jev-ultrafast",
