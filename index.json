@@ -1,5 +1,5 @@
 {
-  "count": 821,
+  "count": 822,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -9010,6 +9010,37 @@
       "fetched_at": "2026-11-10T10:03:12Z",
       "path": "entries/coding-agent/coleam00-second-brain-starter.md",
       "summary": "利用ツール、優先タスク、自律度、許可範囲を記入した要件から、実装順と段階間の依存関係を含む9段階のPRDを生成する。各機能の実装はPRD生成後の工程になる。"
+    },
+    {
+      "name": "Second Brain",
+      "genre": "coding-agent",
+      "url": "https://github.com/NicholasSpisak/second-brain",
+      "repo": "NicholasSpisak/second-brain",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEに記載された機能と手順に基づく。個別の効果、利用条件、費用は確認できていない。 GitHub APIでライセンスを確認できていません。",
+      "stars": 775,
+      "forks": 116,
+      "open_issues": 1,
+      "size_kb": 3586,
+      "language": "Shell",
+      "created": "2026-04-06",
+      "updated": "2026-04-07",
+      "archived": false,
+      "license": "unknown",
+      "commits_30d": 0,
+      "commits_90d": 0,
+      "commit_cadence": "stale",
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/Bober_smart/status/2116978958121964030"
+      ],
+      "fetched_at": "2026-11-10T14:14:37.834658+00:00",
+      "path": "entries/coding-agent/nicholasspisak-second-brain.md",
+      "summary": "raw/フォルダの素材をエージェントが構造化Wikiページにまとめ、相互参照とインデックスを維持する。Obsidianで閲覧し、クエリやWikiの健全性確認を行うための4つのスキルを提供する。"
     },
     {
       "repo": "warpdotdev/common-skills",
