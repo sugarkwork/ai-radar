@@ -6,6 +6,8 @@
 
 ## 2026-11-12（日本時間）
 
+- [X: wquguru の投稿](https://x.com/wquguru/status/2118352277107101969)
+  - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://x.com/wquguru/status/2118352277107101969>。
 - [X: wquguru の投稿](https://x.com/wquguru/status/2118344919454810429)
   - 対象を裏付ける公開一次資料を確認できませんでした。
   - 公開に必須の根拠がそろっていません。
@@ -13,9 +15,27 @@
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
   - 公開に必須の根拠がそろっていません。
   - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://x.com/wquguru/status/2118342047518363955>。
+- [X: tokufxug の投稿](https://x.com/tokufxug/status/2118362287081918964)
+  - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://x.com/tokufxug/status/2118362287081918964>。
+- [X: tokufxug の投稿](https://x.com/tokufxug/status/2118354543763501510)
+  - 下書きが公開用の検証基準を満たしていません。
+- [X: tokufxug の投稿](https://x.com/tokufxug/status/2118352281985028121)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+  - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+  - 対象を裏付ける公開一次資料を確認できませんでした。
+- [X: tokufxug の投稿](https://x.com/tokufxug/status/2118349774349066550)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+- [X: thegreatest_sv の投稿](https://x.com/thegreatest_sv/status/2118374136799985771)
+  - 候補の対象が複数あり、一意に特定できませんでした。
+  - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://github.com/nextlevelbuilder/ui-ux-pro-max-skill>。
 - [X: thegreatest_sv の投稿](https://x.com/thegreatest_sv/status/2118325722850697573)
   - 候補の対象が複数あり、一意に特定できませんでした。
   - 対象を裏付ける公開一次資料を確認できませんでした。
+- [X: superfang119 の投稿](https://x.com/superfang119/status/2118347872500666643)
+  - 候補の対象が複数あり、一意に特定できませんでした。
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+  - 対象を裏付ける公開一次資料を確認できませんでした。
+  - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://x.com/superfang119/status/2118347872500666643>。
 - [X: superfang119 の投稿](https://x.com/superfang119/status/2118346848415154551)
   - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: superfang119 の投稿](https://x.com/superfang119/status/2118332751975989486)
@@ -47,6 +67,10 @@
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
 - [X: naka_1717 の投稿](https://x.com/naka_1717/status/2118295722571567371)
   - 下書きが公開用の検証基準を満たしていません。 照合済み参照先: <https://x.com/naka_1717/status/2118295722571567371>。
+- [X: mingzi206 の投稿](https://x.com/mingzi206/status/2118374215254671454)
+  - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://github.com/mmdoctor/google-pro-helper>。
+- [X: mingzi206 の投稿](https://x.com/mingzi206/status/2118347518199451946)
+  - 下書きが公開用の検証基準を満たしていません。 照合済み参照先: <https://github.com/awesome-dsh-plugin/awesome-dsh-plugin>。
 - [X: mingzi206 の投稿](https://x.com/mingzi206/status/2118332844015788096)
   - 候補の対象が複数あり、一意に特定できませんでした。
   - 公開に必須の根拠がそろっていません。
@@ -89,6 +113,12 @@
   - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://x.com/daaihq/status/2118280583013134432>。
 - [X: cryptowluha の投稿](https://x.com/cryptowluha/status/2118618563703394414)
   - 対象を裏付ける公開一次資料を確認できませんでした。
+- [X: bernvadell の投稿](https://x.com/bernvadell/status/2118379432272380290)
+  - 候補の対象が複数あり、一意に特定できませんでした。
+- [X: bdsqlsz の投稿](https://x.com/bdsqlsz/status/2118373375232123191)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+- [X: RealMarvelX の投稿](https://x.com/RealMarvelX/status/2118349624763207790)
+  - 元投稿と配布先が同一対象であることを裏付けられませんでした。
 - [X: RealMarvelX の投稿](https://x.com/RealMarvelX/status/2118330503040221345)
   - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: RealMarvelX の投稿](https://x.com/RealMarvelX/status/2118286426299122018)
@@ -109,6 +139,9 @@
   - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: Daihuku0015 の投稿](https://x.com/Daihuku0015/status/2118347320664396269)
   - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://x.com/Daihuku0015/status/2118347320664396269>。
+- [X: Bober_smart の投稿](https://x.com/Bober_smart/status/2118359362448073001)
+  - 候補の対象が複数あり、一意に特定できませんでした。
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 ## 2026-11-11（日本時間）
 
 - [X: zazzy_stardust の投稿](https://x.com/zazzy_stardust/status/2119055200732557746)
