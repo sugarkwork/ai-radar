@@ -1,5 +1,5 @@
 {
-  "count": 791,
+  "count": 792,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -22715,6 +22715,37 @@
       "type": "repo",
       "path": "entries/video-gen/chanon-comfyui-obvpm-timeline.md",
       "summary": "**MiniMax H3 用の「タイムライン付きクリップ編集」ノード群**。生成したクリップをタイムラインに並べ、切る・繋ぐ・延ばす・間を埋めるを1つのUIで行う。タイムラインは簡易動画エディタとして動く。"
+    },
+    {
+      "repo": "1weiho/skills",
+      "name": "cinematic-shot",
+      "genre": "video-gen",
+      "url": "https://github.com/1weiho/skills",
+      "license": "MIT",
+      "stars": 240,
+      "forks": 8,
+      "open_issues": 1,
+      "size_kb": 425,
+      "language": "JavaScript",
+      "created": "2026-10-13",
+      "updated": "2026-10-29",
+      "archived": false,
+      "commits_30d": 19,
+      "commits_90d": 19,
+      "commit_cadence": "weekly",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "作者のデモ映像の画質・再現性、対応エージェントごとの導入とレンダリング、実行時間や費用は未検証。GitHubの公開リリース一覧には掲載なし。",
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/sumika45379/status/2115934204747972903"
+      ],
+      "fetched_at": "2026-11-10T12:48:23Z",
+      "path": "entries/video-gen/1weiho-skills.md",
+      "summary": "製品UIの斜めからの接写、浅い被写界深度、緩やかなカメラ移動、操作に合わせたカットを、告知動画の分鏡に落とし込む。同じ画づくりをヒーロー画像やSNSカードにも応用できる。 [README](https://raw.githubusercontent.com/1weiho/skills/main/README.md)"
     },
     {
       "repo": "wj-sidiss/otopilot",
