@@ -1,5 +1,5 @@
 {
-  "count": 883,
+  "count": 884,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -18655,6 +18655,37 @@
       "fetched_at": "2026-11-10T10:04:19Z",
       "path": "entries/other/underleveledbuilder-awesome-social-media-skills.md",
       "summary": "企画、原稿、カバー画像・短尺動画、公開、分析の工程別に、小紅書、抖音、WeChat、Bilibili、X、YouTube、TikTok、LinkedInなどの候補を探せる。確認したREADMEにはスキル189件とMCPツール・オープンソース基盤27件が記載されている（メタデータ更新日2026-11-05）。"
+    },
+    {
+      "name": "fuxi-pdf · 复习pdf",
+      "genre": "other",
+      "url": "https://github.com/stevensun1005/fuxi-pdf",
+      "repo": "stevensun1005/fuxi-pdf",
+      "license": "unknown",
+      "stars": 201,
+      "language": "Python",
+      "created": "2026-10-21",
+      "updated": "2026-10-22",
+      "forks": 3,
+      "open_issues": 0,
+      "commits_30d": 12,
+      "commit_cadence": "weekly",
+      "commits_90d": 12,
+      "size_kb": 8214,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEはSkill指示と構築・検証コードをMITと記載する一方、同梱の授業デモ、派生PDF、プレビューはCC BY-NC-SA 4.0と明記。第三者授業素材はコードのMITライセンスに含まれない。 GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/Ryrenz/status/2118283446736851080"
+      ],
+      "fetched_at": "2026-11-11T15:18:10.287441+00:00",
+      "path": "entries/other/stevensun1005-fuxi-pdf.md",
+      "summary": "Codex skillとして、提供された授業資料から逐頁解説PDF、指定ページ数のcheatsheet、概念別の詳細な復習資料を作る。原ページ、説明、公式・条件、出典の対応を整理し、編集可能な原稿も残す。ページ数や言語の希望に応じて学習冊子、参考資料などの形式を選べる。"
     },
     {
       "repo": "ScriptedAlchemy/grok-bot-cli",
