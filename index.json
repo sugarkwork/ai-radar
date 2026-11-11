@@ -1,5 +1,5 @@
 {
-  "count": 828,
+  "count": 829,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -3097,6 +3097,37 @@
       "commits_90d": 100,
       "path": "entries/agent-framework/garrytan-gstack.md",
       "summary": "/office-hours が6つの強制質問で要件をリフレームし、design doc を書いて下流スキルに渡す（「毎日のブリーフィングアプリ」→「個人チーフオブスタッフAI」のように言い方を訂正させる）"
+    },
+    {
+      "name": "Browser Use",
+      "genre": "agent-framework",
+      "url": "https://github.com/browser-use/browser-use",
+      "repo": "browser-use/browser-use",
+      "license": "MIT",
+      "stars": 120559,
+      "language": "Python",
+      "created": "2024-10-31",
+      "updated": "2026-11-10",
+      "forks": 13471,
+      "open_issues": 618,
+      "commits_30d": 100,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 40312,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "README記載の実行条件と手順は未実行。クラウド利用時の料金や各機能の効果・利用条件は、この資料からは検証していない。",
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/thegreatest_sv/status/2118043980420030914"
+      ],
+      "fetched_at": "2026-11-10T16:21:31.320250+00:00",
+      "path": "entries/agent-framework/browser-use-browser-use.md",
+      "summary": "タスクを受け取り、モデルがPythonコードを書いて実ブラウザーを操作するエージェント。READMEでは、永続REPL、browser-harnessのヘルパー、Chrome DevTools Protocol（CDP）を使う構成と説明されている。"
     },
     {
       "type": "repo",
