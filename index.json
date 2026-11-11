@@ -1,5 +1,5 @@
 {
-  "count": 797,
+  "count": 798,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -9428,6 +9428,41 @@
       "last_release_at": "",
       "path": "entries/eval/goochbeater-spiritual-spell-red-teaming.md",
       "summary": "モデル別のレッドチーミング資料やシステムプロンプトと称する文書を集めたリポジトリ。"
+    },
+    {
+      "repo": "smkrv/jev-calibrate",
+      "name": "jev-calibrate",
+      "genre": "eval",
+      "url": "https://github.com/smkrv/jev-calibrate",
+      "license": "MIT",
+      "stars": 33,
+      "language": "TypeScript",
+      "created": "2026-09-21",
+      "updated": "2026-10-19",
+      "forks": 1,
+      "open_issues": 2,
+      "commits_30d": 0,
+      "commit_cadence": "monthly",
+      "commits_90d": 11,
+      "size_kb": 147,
+      "archived": false,
+      "last_release": "v0.1.11",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": [
+        "精度は著者が公開した同梱例の結果。独立した実行検証や、別データ・モデル版・プロバイダーでの再現性確認は行っていない。",
+        "現在のAPI料金・データ保持条件と、最新リリースの年・タイムゾーンを含む公開日時は未確認。"
+      ],
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/thegreatest_sv/status/2116142322543198271"
+      ],
+      "fetched_at": "2026-11-10T12:56:36+00:00",
+      "path": "entries/eval/smkrv-jev-calibrate.md",
+      "summary": "真偽・選択・段階スコアの判定を質問単位で評価する。設定した指標に基づき、自動判定に使えるか、高信頼の回答だけ採用するか、順位付けにとどめるかを判断できる。"
     },
     {
       "type": "repo",
