@@ -1,5 +1,5 @@
 {
-  "count": 801,
+  "count": 802,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -13479,6 +13479,38 @@
       "fetched_at": "2026-11-10T11:34:45+00:00",
       "path": "entries/mcp-server/glips-figma-context-mcp.md",
       "summary": "Figmaのファイル、フレーム、グループのリンクをもとにレイアウトやスタイルを取得し、UI実装の文脈としてエージェントに渡せる。"
+    },
+    {
+      "repo": "open-pencil/open-pencil",
+      "name": "OpenPencil",
+      "genre": "mcp-server",
+      "url": "https://github.com/open-pencil/open-pencil",
+      "stars": 9747,
+      "forks": 1051,
+      "open_issues": 151,
+      "size_kb": 78421,
+      "language": "TypeScript",
+      "created": "2026-02-27",
+      "updated": "2026-11-10",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 100,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "last_release": "v0.16.0",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": ".figの往復保存でレイアウトや変数がどこまで保持されるか、MCP接続と生成結果の品質は実機未検証。リリースの正確な公開日時は未確認。コミット数は各期間100件で打ち切り。",
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/thegreatest_sv/status/2116241528737693741"
+      ],
+      "fetched_at": "2026-11-10T13:03:10+00:00",
+      "path": "entries/mcp-server/open-pencil-open-pencil.md",
+      "summary": ".figの読み書きと対応する.pen文書の読み込みができる。MCP経由でデザイン文書の調査・編集ができ、CLIでは文書検査やデザイントークンの抽出もできる。"
     },
     {
       "type": "repo",
