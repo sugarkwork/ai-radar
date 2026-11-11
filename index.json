@@ -1,5 +1,5 @@
 {
-  "count": 841,
+  "count": 842,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -9374,6 +9374,37 @@
       "fetched_at": "2026-11-10T14:08:41.744771+00:00",
       "path": "entries/coding-agent/airsuphq-machine-skill.md",
       "summary": "READMEでは、Claude Code向けAgent Skillとして、機械の説明から単一HTMLファイルのインタラクティブな3Dシミュレーションを生成し、録画スクリプトで映像化できると説明されている。例として、分解表示、断面表示、X線表示、スローモーション、ラベル表示、計算に基づく破損モードが挙げられている。"
+    },
+    {
+      "name": "Product Engineering",
+      "genre": "coding-agent",
+      "url": "https://github.com/phuryn/product-engineering",
+      "repo": "phuryn/product-engineering",
+      "stars": 455,
+      "forks": 59,
+      "open_issues": 0,
+      "size_kb": 5866,
+      "language": "Python",
+      "created": "2026-10-29",
+      "updated": "2026-11-08",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 100,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景・有効性・依存関係・実行条件。",
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/TiagerBao/status/2120107853809856738"
+      ],
+      "fetched_at": "2026-11-10T23:11:38.679328+00:00",
+      "path": "entries/coding-agent/phuryn-product-engineering.md",
+      "summary": "コーディングエージェントを使い、最初のアイデアから実ユーザー向けの製品開発、リリース、運用まで進めるためのエージェントスキルを提供する。READMEではClaude Code、Codex、Cursor、Gemini CLI、OpenCode、GitHub Copilotなどで利用できると説明されている。"
     },
     {
       "name": "Video Studio Skill",
