@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 870 件 — リポジトリ 551, リンク集 113, 記事 139, モデル 53, プロンプト 14 / ⚑ 要確認 659 件
+収録 871 件 — リポジトリ 552, リンク集 113, 記事 139, モデル 53, プロンプト 14 / ⚑ 要確認 660 件
 
-## リポジトリ（551）
+## リポジトリ（552）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -182,7 +182,7 @@
 | [utillayer/youtube-agent-skill](entries/video-gen/utillayer-youtube-agent-skill.md) ⚑ | 14 | 2 | 週次 | 16 | 2026-10-29 | 2026-11-09 | 2026-11-10 | MIT |
 | [BennyDaBall930/comfyui_hyperflow_int8_nodes](entries/video-gen/bennydaball930-comfyui_hyperflow_int8_nodes.md) ⚑ | 3 | 0 | 週次 | 10 | 2026-11-09 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
 
-### コーディングエージェント（74）
+### コーディングエージェント（75）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -255,6 +255,7 @@
 | [quicksilver](entries/coding-agent/uditakhourii-quicksilver.md) ⚑ | 142 | 11 | 停滞 | 0 | 2026-09-25 | 2026-11-09 | 2026-11-10 | MIT |
 | [jev-code](entries/coding-agent/francoischastel-jev-code.md) ⚑ | 59 | 9 | 月次 | 0 | 2026-10-31 | 2026-11-11 | 2026-11-11 | MIT |
 | [Flow Preview](entries/coding-agent/tanishqkancharla-flow-preview.md) ⚑ | 37 | 3 | 週次 | 13 | 2026-11-06 | 2026-11-10 | 2026-11-11 | Apache-2.0 |
+| [Jev Cookbook](entries/coding-agent/jev-engineering-cookbook.md) ⚑ | 30 | 5 | 毎日 | 73 | 2026-11-10 | 2026-11-11 | 2026-11-11 | MIT |
 | [Teddarific/skills](entries/coding-agent/teddarific-skills.md) ⚑ | 18 | 1 | 月次 | 3 | 2026-10-14 | 2026-11-10 | 2026-11-11 | unknown |
 | [davekiss/mods（leaks）](entries/coding-agent/davekiss-mods.md) ⚑ | 12 | 1 | 週次 | 11 | 2026-10-29 | 2026-11-10 | 2026-11-11 | MIT |
 | [system-design-skill](entries/coding-agent/codejunkie99-system-design-skill.md) ⚑ | 9 | 1 | 月次 | 1 | 2026-11-01 | 2026-11-10 | 2026-11-11 | MIT |
@@ -1561,6 +1562,7 @@
 - [quicksilver](entries/coding-agent/uditakhourii-quicksilver.md) — unverified / 効果数値は作者自身の12タスク・ベンチマーク（bench/）による自己申告で、第三者による追試や自動テストは無い。bench の再実行には有料の Jev API キーが必要。対象ファイル/ログの内容は TypeSafe の API（api.typesafe.ai）へ送信されるため機密情報には使えない（.env・鍵・証明書・credentials、2MB 超、バイナリはスキップし .gitignore を尊重すると README に記載）。2026-09-25 の初回コミット2件以降の更新が無く、メンテ状況は不明。
 - [jev-code](entries/coding-agent/francoischastel-jev-code.md) — unverified / 分類結果の品質・較正性能はこのREADMEでは独立検証されていない。利用にはNode.js 20以上と、選択したホストのAPIキーが必要。ホストごとの料金や費用はREADMEに記載なし。
 - [Flow Preview](entries/coding-agent/tanishqkancharla-flow-preview.md) — unverified / README記載の要件はNode.js 24以降、npm、および生成されたプレビューの依存関係をインストールするためのレジストリアクセス。個別プロジェクトでの適合性や動作結果は未確認。
+- [Jev Cookbook](entries/coding-agent/jev-engineering-cookbook.md) — unverified / The README does not identify the license or provide the runtime requirements of each recipe. Box requires the Jev 1.14 preview and experimental images header. Quality, latency, and cost are not established by synthetic runs; live-result claims require held-out recorded inference with model version, date, and sample count.
 - [Teddarific/skills](entries/coding-agent/teddarific-skills.md) — unverified / README記載のインストール方法や実行条件は未検証です。ライセンスはAPIでunknownと確認されています。 GitHub APIでライセンスを確認できていません。
 - [davekiss/mods（leaks）](entries/coding-agent/davekiss-mods.md) — unverified / ['READMEを確認した。プラグインは実行しておらず、節約額の推計精度、週次利用枠への実際の影響、対応するClaude Codeのバージョン、ログの外部送信がないという作者の説明は未検証。', 'GitHubの公開Releases一覧にリリースの掲載はなかった。']
 - [system-design-skill](entries/coding-agent/codejunkie99-system-design-skill.md) — unverified / READMEによると、実利用はまだなく、テストはURL短縮サービスの模擬インタビュー1回のみ。応答時間、レート制限、tier境界の一部は提案値で、ピーク負荷の2倍設定に標準的根拠はない。README記載の範囲では依存関係の詳細は確認できない。
