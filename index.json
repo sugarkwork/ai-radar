@@ -1,5 +1,5 @@
 {
-  "count": 910,
+  "count": 911,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -8195,6 +8195,37 @@
       "fetched_at": "2026-11-10T08:40:33Z",
       "path": "entries/coding-agent/nextlevelbuilder-ui-ux-pro-max-skill.md",
       "summary": "プロダクトの種類、業界、希望のトーンをもとに、配色、フォントの組み合わせ、レイアウトの型、避けるべき設計パターンをまとめた設計案を作れる。"
+    },
+    {
+      "name": "Next.js",
+      "genre": "coding-agent",
+      "url": "https://github.com/vercel/next.js",
+      "repo": "vercel/next.js",
+      "license": "MIT",
+      "stars": 143475,
+      "language": "JavaScript",
+      "created": "2016-10-05",
+      "updated": "2026-11-11",
+      "forks": 32801,
+      "open_issues": 3950,
+      "commits_30d": 100,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 2635398,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景・有効性・依存関係・実行条件。",
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/RealMarvelX/status/2118349624763207790"
+      ],
+      "fetched_at": "2026-11-11T22:14:03.065068+00:00",
+      "path": "entries/coding-agent/vercel-next.js.md",
+      "summary": "最新のReact機能を拡張し、RustベースのJavaScriptツールを統合したフルスタックWebアプリケーションを作成できる。READMEではビルドの高速化をうたっている（[README](https://github.com/vercel/next.js)）。"
     },
     {
       "repo": "stablyai/orca",
