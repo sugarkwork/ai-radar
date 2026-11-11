@@ -1,5 +1,5 @@
 {
-  "count": 825,
+  "count": 826,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -9134,6 +9134,37 @@
       "fetched_at": "2026-11-10T14:08:41.744771+00:00",
       "path": "entries/coding-agent/airsuphq-machine-skill.md",
       "summary": "READMEでは、Claude Code向けAgent Skillとして、機械の説明から単一HTMLファイルのインタラクティブな3Dシミュレーションを生成し、録画スクリプトで映像化できると説明されている。例として、分解表示、断面表示、X線表示、スローモーション、ラベル表示、計算に基づく破損モードが挙げられている。"
+    },
+    {
+      "name": "Video Studio Skill",
+      "genre": "coding-agent",
+      "url": "https://github.com/aaitor/skill-video-studio",
+      "repo": "aaitor/skill-video-studio",
+      "license": "MIT",
+      "stars": 390,
+      "language": "HTML",
+      "created": "2026-08-26",
+      "updated": "2026-11-04",
+      "forks": 13,
+      "open_issues": 3,
+      "commits_30d": 8,
+      "commit_cadence": "weekly",
+      "commits_90d": 27,
+      "size_kb": 15579,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "全工程の実行にはローカルのツール環境が必要。README記載の本番要件はNode.js 22以上、FFmpeg/ffprobe、Chromiumおよび補助ツール固有のPython依存関係。ナレーションやアバターには追加サービスまたはGPU環境が必要。効果や費用は確認できない。",
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/Ryrenz/status/2117952254091145585"
+      ],
+      "fetched_at": "2026-11-10T15:19:20.013402+00:00",
+      "path": "entries/coding-agent/aaitor-skill-video-studio.md",
+      "summary": "Claude Codeの/devrel-videoスキルを使い、製品操作のブラウザー撮影、HyperFramesによるタイトル・章・CTAの合成、FFmpegによる動画の仕上げと検査を行う。音楽、ナレーション、字幕、持ち込みプレゼンター映像などは任意の追加レイヤー。ブランド、ブリーフ、テンプレートと作例を含む。"
     },
     {
       "repo": "xai-org/plugin-marketplace",

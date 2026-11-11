@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 825 件 — リポジトリ 513, リンク集 113, 記事 132, モデル 53, プロンプト 14 / ⚑ 要確認 615 件
+収録 826 件 — リポジトリ 514, リンク集 113, 記事 132, モデル 53, プロンプト 14 / ⚑ 要確認 616 件
 
-## リポジトリ（513）
+## リポジトリ（514）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -168,7 +168,7 @@
 | [X Virality Score](entries/agent-framework/monkeyteamvip-x-virality-score.md) ⚑ | 35 | 19 | 月次 | 3 | 2026-10-27 | 2026-11-09 | 2026-11-10 | MIT |
 | [web-api-skills](entries/agent-framework/oxylabs-web-api-skills.md) | 13 | 1 | 週次 | 11 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
 
-### コーディングエージェント（64）
+### コーディングエージェント（65）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -226,6 +226,7 @@
 | [Second Brain](entries/coding-agent/nicholasspisak-second-brain.md) ⚑ | 775 | 116 | 停滞 | 0 | 2026-04-07 | 2026-11-10 | 2026-11-11 | unknown |
 | [Common Skills](entries/coding-agent/warpdotdev-common-skills.md) ⚑ | 686 | 44 | 月次 | 2 | 2026-10-28 | 2026-11-10 | 2026-11-10 | MIT |
 | [Machine Skill](entries/coding-agent/airsuphq-machine-skill.md) ⚑ | 625 | 83 | 週次 | 8 | 2026-10-13 | 2026-11-10 | 2026-11-11 | MIT |
+| [Video Studio Skill](entries/coding-agent/aaitor-skill-video-studio.md) ⚑ | 390 | 13 | 週次 | 8 | 2026-11-04 | 2026-11-10 | 2026-11-11 | MIT |
 | [xAI Plugin Marketplace](entries/coding-agent/xai-org-plugin-marketplace.md) ⚑ | 325 | 1,222 | 毎日 | 31 | 2026-11-09 | 2026-11-10 | 2026-11-10 | unknown |
 | [AI Second Brain](entries/coding-agent/charlie947-ai-second-brain.md) ⚑ | 229 | 45 | 月次 | 1 | 2026-10-24 | 2026-11-10 | 2026-11-11 | MIT |
 | [Dual-Brain — 設計とコードの二視点レビュー用スキル](entries/coding-agent/sleeplesshan-dual-brain.md) ⚑ | 143 | 11 | 週次 | 6 | 2026-11-06 | 2026-11-09 | 2026-11-10 | MIT |
@@ -1485,6 +1486,7 @@
 - [Second Brain](entries/coding-agent/nicholasspisak-second-brain.md) — unverified / READMEに記載された機能と手順に基づく。個別の効果、利用条件、費用は確認できていない。 GitHub APIでライセンスを確認できていません。
 - [Common Skills](entries/coding-agent/warpdotdev-common-skills.md) — unverified / 評価精度、レビュー時間の短縮効果、導入コマンドの実動作、ホスト環境ごとの互換性、最新リリースは未確認。
 - [Machine Skill](entries/coding-agent/airsuphq-machine-skill.md) — unverified / README記載の機能や数値はリポジトリの説明に基づき、独立検証していない。生成結果の精度や動作条件は未確認。
+- [Video Studio Skill](entries/coding-agent/aaitor-skill-video-studio.md) — unverified / 全工程の実行にはローカルのツール環境が必要。README記載の本番要件はNode.js 22以上、FFmpeg/ffprobe、Chromiumおよび補助ツール固有のPython依存関係。ナレーションやアバターには追加サービスまたはGPU環境が必要。効果や費用は確認できない。
 - [xAI Plugin Marketplace](entries/coding-agent/xai-org-plugin-marketplace.md) — unverified / ['最新リリースのタグと公開日は未確認。プラグインの導入・実行、個別機能の有効性や安全性、料金、ライセンスおよび利用条件は未検証。README は公開 raw URL で確認した。'] GitHub APIでライセンスを確認できていません。
 - [AI Second Brain](entries/coding-agent/charlie947-ai-second-brain.md) — unverified / README記載の機能・動作条件は独立検証していない。ChatGPTのエクスポートには1〜3日の待ち時間がかかる場合があると記載。
 - [Dual-Brain — 設計とコードの二視点レビュー用スキル](entries/coding-agent/sleeplesshan-dual-brain.md) — unverified / MIT。投稿のMS関連社内ハッカソンでAI審査員から満点という説明は作者の自己申告で、公式採点記録・Microsoftの推薦や認証を確認したものではない。READMEは旧5事例ベンチの比較条件・トークン二重計上に問題があり旧総数を撤回と明記。普遍的な性能改善や低遅延は保証しない。 当方でインストール・動作・性能の実行検証はしていない。
