@@ -1,5 +1,5 @@
 {
-  "count": 827,
+  "count": 828,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -22220,6 +22220,37 @@
       "last_release_at": "2026-09-25",
       "path": "entries/video-gen/processing-p5.js.md",
       "summary": "JavaScriptでスケッチやインタラクティブ描画を行うp5.js。"
+    },
+    {
+      "name": "LivePortrait",
+      "genre": "video-gen",
+      "url": "https://github.com/KlingAIResearch/LivePortrait",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "ライセンスは提示された測定値でunknown。READMEの記載に基づく機能・手順であり、未記載の実行環境や効果は確認できていない。 GitHub APIでライセンスを確認できていません。",
+      "repo": "KlingAIResearch/LivePortrait",
+      "stars": 19446,
+      "forks": 2026,
+      "open_issues": 292,
+      "size_kb": 39665,
+      "language": "Python",
+      "created": "2024-07-03",
+      "updated": "2026-06-01",
+      "archived": false,
+      "license": "unknown",
+      "commits_30d": 0,
+      "commits_90d": 0,
+      "commit_cadence": "stale",
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/Y0urDumble/status/2118038616257515823"
+      ],
+      "fetched_at": "2026-11-10T16:16:53.557781+00:00",
+      "path": "entries/video-gen/klingairesearch-liveportrait.md",
+      "summary": "公式PyTorch実装として、ポートレートアニメーションを提供する。READMEには人・猫・犬の対応、画像駆動モード、領域制御、ポートレート動画編集、Gradioインターフェースでのポーズ編集が記載されている。"
     },
     {
       "type": "repo",
