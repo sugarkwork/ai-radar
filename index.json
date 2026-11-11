@@ -1,5 +1,5 @@
 {
-  "count": 900,
+  "count": 901,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -12197,6 +12197,37 @@
       "last_release_at": "",
       "path": "entries/image-gen/facebookresearch-sam3.md",
       "summary": "画像/動画内の対象分離・追跡に関わるSAM3系公式実装。"
+    },
+    {
+      "name": "Pixelorama",
+      "genre": "image-gen",
+      "url": "https://github.com/Orama-Interactive/Pixelorama",
+      "repo": "Orama-Interactive/Pixelorama",
+      "stars": 11071,
+      "forks": 615,
+      "open_issues": 87,
+      "size_kb": 70022,
+      "language": "GDScript",
+      "created": "2019-08-18",
+      "updated": "2026-11-10",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 65,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景・有効性・依存関係・実行条件。",
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/RealMarvelX/status/2118330503040221345"
+      ],
+      "fetched_at": "2026-11-11T20:08:51.233457+00:00",
+      "path": "entries/image-gen/orama-interactive-pixelorama.md",
+      "summary": "スプライト、タイル、アニメーションなどのピクセルアートを制作できます。タイムラインでのアニメーション編集、タイルマップ、レイヤー効果、パレット管理、PNG・アニメーションPNG・スプライトシート・GIF・動画などへの出力、コマンドラインでの一括エクスポートに対応するとREADMEに記載されています。"
     },
     {
       "repo": "anhao/ai-pose-gallery-zh",
