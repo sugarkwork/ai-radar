@@ -1,5 +1,5 @@
 {
-  "count": 806,
+  "count": 807,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -13730,6 +13730,37 @@
       "fetched_at": "2026-11-10T09:08:23Z",
       "path": "entries/mcp-server/zhuyansen-new-term-radar.md",
       "summary": "X、Hugging Face、GitHub、サイトマップから新しい名称の候補を集め、検索語候補を含むレポートを生成する。MCPでは保存済み候補の参照、指定した名称の検索語調査、収集処理の起動ができる。"
+    },
+    {
+      "name": "Gmail AutoAuth MCP Server",
+      "genre": "mcp-server",
+      "url": "https://github.com/GongRzhe/Gmail-MCP-Server",
+      "repo": "GongRzhe/Gmail-MCP-Server",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEに記載のOAuth認証ではGoogle Cloudの設定と認証情報が必要。効果、依存関係の全容、料金はREADMEから確認できない。測定値ではリポジトリはアーカイブ済みで、直近30日・90日のコミットは0件。",
+      "stars": 1169,
+      "forks": 416,
+      "open_issues": 70,
+      "size_kb": 141,
+      "language": "JavaScript",
+      "created": "2024-12-26",
+      "updated": "2025-08-06",
+      "archived": true,
+      "license": "MIT",
+      "commits_30d": 0,
+      "commits_90d": 0,
+      "commit_cadence": "stale",
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/Y0urDumble/status/2116341413755453670"
+      ],
+      "fetched_at": "2026-11-10T13:39:39.898168+00:00",
+      "path": "entries/mcp-server/gongrzhe-gmail-mcp-server.md",
+      "summary": "READMEでは、メールの送信・下書き・読み取り、添付ファイルの送受信や保存、検索、ラベル管理、既読状態の変更、ラベル間の移動、削除、複数メールの一括操作を提供すると説明している。"
     },
     {
       "repo": "marc-shade/world-intel-mcp",

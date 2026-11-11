@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 806 件 — リポジトリ 495, リンク集 113, 記事 131, モデル 53, プロンプト 14 / ⚑ 要確認 596 件
+収録 807 件 — リポジトリ 496, リンク集 113, 記事 131, モデル 53, プロンプト 14 / ⚑ 要確認 597 件
 
-## リポジトリ（495）
+## リポジトリ（496）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -457,7 +457,7 @@
 | [JevOnAir](entries/finance-quant/valuecodes-jev-on-air.md) ⚑ | 0 | 0 | 週次 | 11 | 2026-11-09 | 2026-11-10 | 2026-11-10 | MIT |
 | [jev-polymarket-test](entries/finance-quant/truongxxxx-jev-polymarket-test.md) ⚑ | 0 | 0 | 停滞 | 0 | 2026-10-10 | 2026-11-10 | 2026-11-10 | MIT |
 
-### MCPサーバー（23）
+### MCPサーバー（24）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -476,6 +476,7 @@
 | [Exa MCP Server](entries/mcp-server/exa-labs-exa-mcp-server.md) ⚑ | 5,221 | 414 | 週次 | 9 | 2026-11-05 | 2026-11-10 | 2026-11-10 | MIT |
 | [designlang](entries/mcp-server/manavarya09-design-extract.md) ⚑ | 5,003 | 415 | 毎日 | 24 | 2026-11-05 | 2026-11-10 | 2026-11-10 | MIT |
 | [New Term Radar](entries/mcp-server/zhuyansen-new-term-radar.md) ⚑ | 2,147 | 642 | 毎日 | 54 | 2026-11-02 | 2026-11-10 | 2026-11-10 | MIT |
+| [Gmail AutoAuth MCP Server](entries/mcp-server/gongrzhe-gmail-mcp-server.md) ⚑ | 1,169 | 416 | 停滞 | 0 | 2025-08-06 | 2026-11-10 | 2026-11-11 | MIT |
 | [World Intelligence MCP](entries/mcp-server/marc-shade-world-intel-mcp.md) | 1,067 | 176 | 毎日 | 100+ | 2026-10-18 | 2026-11-09 | 2026-11-10 | MIT |
 | [PicLite](entries/mcp-server/amiaoapp-piclite.md) ⚑ | 1,034 | 66 | 毎日 | 70 | 2026-11-06 | 2026-11-10 | 2026-11-10 | GPL-3.0 |
 | [ExcelMcp（本物のExcelをCOM経由でAIに操作させるMCPサーバ／CLI）](entries/mcp-server/sbroenne-mcp-server-excel.md) | 875 | 108 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
@@ -1580,6 +1581,7 @@
 - [Exa MCP Server](entries/mcp-server/exa-labs-exa-mcp-server.md) — unverified / GitHub の最新リリース用 URL は一覧に転送され、最新リリースのタグと公開日時は確認できなかった。README は GitHub の raw ファイルで確認した。検索精度、本文取得の成功率、匿名枠の具体的な上限、発見投稿が述べる YouTube のトレンド検出や動画制作・収益化の成果は未検証。
 - [designlang](entries/mcp-server/manavarya09-design-extract.md) — unverified / 最新リリースの公開日時は未確認。抽出精度、サイト間での再現性、CLI・MCP の実動作は未検証。README の出力例は作者による掲載例。
 - [New Term Radar](entries/mcp-server/zhuyansen-new-term-radar.md) — unverified / 理由未記入
+- [Gmail AutoAuth MCP Server](entries/mcp-server/gongrzhe-gmail-mcp-server.md) — unverified / READMEに記載のOAuth認証ではGoogle Cloudの設定と認証情報が必要。効果、依存関係の全容、料金はREADMEから確認できない。測定値ではリポジトリはアーカイブ済みで、直近30日・90日のコミットは0件。
 - [PicLite](entries/mcp-server/amiaoapp-piclite.md) — unverified / ['圧縮率・画質・処理時間、各OS向け配布バイナリと第三者MCPクライアントの実動作は未検証。プロジェクトは公式MCP SDKと実ファイルを使った試験を報告している。']
 - [DeepScrape](entries/mcp-server/stretchcloud-deepscrape.md) — unverified / READMEに記載された機能と手順を確認した。実行時の動作、サイト変更後の復旧率、破損PDFの解析精度、モデル利用料の具体額は未確認。GitHubの最新版リンクはリリース一覧に遷移し、取得した一覧にはリリースが表示されていなかったため、最新リリースのタグと公開日時は未確認。
 - [Material Painter](entries/mcp-server/alla2001-material-painter.md) — unverified / 早期アクセス。アプリとMCPの動作は未検証。
