@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 877 件 — リポジトリ 558, リンク集 113, 記事 139, モデル 53, プロンプト 14 / ⚑ 要確認 666 件
+収録 878 件 — リポジトリ 559, リンク集 113, 記事 139, モデル 53, プロンプト 14 / ⚑ 要確認 667 件
 
-## リポジトリ（558）
+## リポジトリ（559）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -99,7 +99,7 @@
 | [jevwire](entries/agent-framework/brainwires-jevwire.md) ⚑ | 27 | 6 | 週次 | 11 | 2026-11-06 | 2026-11-11 |  | MIT |
 | [web-api-skills](entries/agent-framework/oxylabs-web-api-skills.md) | 13 | 1 | 週次 | 11 | 2026-11-09 | 2026-11-09 |  | MIT |
 
-### 動画生成パイプライン（81）
+### 動画生成パイプライン（82）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -116,6 +116,7 @@
 | [video-use](entries/video-gen/browser-use-video-use.md) ⚑ | 30,840 | 3,574 | 月次 | 0 | 2026-10-08 | 2026-11-10 |  | MIT |
 | [Pixelle-Video](entries/video-gen/ath-maas-pixelle-video.md) | 29,926 | 4,339 | 停滞 | 0 | 2026-06-14 | 2026-11-09 |  | Apache-2.0 |
 | [hypit](entries/video-gen/hypit-ai-hypit.md) | 28,787 | 3,336 | 週次 | 12 | 2026-11-09 | 2026-11-09 |  | Apache-2.0 改変版（追加条件あり、API上は NOASSERTION） |
+| [Generative Models by Stability AI](entries/video-gen/stability-ai-generative-models.md) ⚑ | 27,343 | 3,091 | 停滞 | 0 | 2025-12-16 | 2026-11-11 | 2026-11-11 | MIT |
 | [processing/p5.js](entries/video-gen/processing-p5.js.md) ⚑ | 24,327 | 3,899 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 |  | LGPL-2.1 |
 | [LivePortrait](entries/video-gen/klingairesearch-liveportrait.md) ⚑ | 19,446 | 2,026 | 停滞 | 0 | 2026-06-01 | 2026-11-10 |  | unknown |
 | [mojs/mojs](entries/video-gen/mojs-mojs.md) ⚑ | 18,895 | 902 | 停滞 | 0 | 2026-07-30 | 2026-11-09 |  | MIT |
@@ -126,7 +127,7 @@
 | [Concat](entries/video-gen/jub0t-concat.md) ⚑ | 16,151 | 2,005 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 |  | AGPL-3.0 |
 | [maxwellito/vivus](entries/video-gen/maxwellito-vivus.md) ⚑ | 15,479 | 1,121 | 停滞 | 0 | 2022-07-06 | 2026-11-09 |  | MIT |
 | [paperjs/paper.js](entries/video-gen/paperjs-paper.js.md) ⚑ | 15,192 | 1,260 | 毎日 | 100+ | 2026-11-06 | 2026-11-09 |  | NOASSERTION |
-| [MoviePy](entries/video-gen/zulko-moviepy.md) ⚑ | 15,136 | 2,147 | 停滞 | 0 | 2026-08-26 | 2026-11-11 | 2026-11-11 | MIT |
+| [MoviePy](entries/video-gen/zulko-moviepy.md) ⚑ | 15,136 | 2,147 | 停滞 | 0 | 2026-08-26 | 2026-11-11 |  | MIT |
 | [awesome-opus5-5-videos](entries/video-gen/yihui-dev-awesome-opus5-5-videos.md) | 14,532 | 1,532 | 週次 | 4 | 2026-10-13 | 2026-11-09 |  | MIT |
 | [OpenCreator](entries/video-gen/krillinai-opencreator.md) | 14,269 | 1,590 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 |  | Apache-2.0 |
 | [Lemo-Opuscar](entries/video-gen/lemomo-ai-lemo-opuscar.md) | 14,050 | 1,690 | 毎日 | 100+ | 2026-11-08 | 2026-11-09 |  | MIT (コード) / CC BY 4.0 (スタイル記述) |
@@ -1890,6 +1891,7 @@
 - [ManimCommunity/manim](entries/video-gen/manimcommunity-manim.md) — unverified / MIT表記。数学説明の正しさや動画の完成度・制作費削減はコード作者の責任で独立検証なし。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [airbnb/lottie-web](entries/video-gen/airbnb-lottie-web.md) — unverified / 一覧の6000ドルの制作費を代替という表現は費用効果の実証ではない。MITはコードのみで各アニメ素材の権利は別。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [video-use](entries/video-gen/browser-use-video-use.md) — unverified / 最新リリース、ElevenLabsと利用エージェントの料金・契約条件は未確認。トークン比較は作者の試算で、入力削減量、カット品質、ノイズ低減、再レンダリングの検出精度は独立に実測していない。
+- [Generative Models by Stability AI](entries/video-gen/stability-ai-generative-models.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [processing/p5.js](entries/video-gen/processing-p5.js.md) — unverified / LGPL-2.1であり他の一覧項目と同じMITではない。配布・改変条件と入力素材の権利を確認する。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [LivePortrait](entries/video-gen/klingairesearch-liveportrait.md) — unverified / ライセンスは提示された測定値でunknown。READMEの記載に基づく機能・手順であり、未記載の実行環境や効果は確認できていない。 GitHub APIでライセンスを確認できていません。
 - [mojs/mojs](entries/video-gen/mojs-mojs.md) — unverified / MIT表記。紹介リストの費用削減を裏付ける実例試験なし。現行依存・ブラウザ互換も未検証。 当方でインストール・推論・生成・ベンチ再現はしていない。

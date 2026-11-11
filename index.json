@@ -1,5 +1,5 @@
 {
-  "count": 877,
+  "count": 878,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -23518,6 +23518,37 @@
       "type": "repo",
       "path": "entries/video-gen/hypit-ai-hypit.md",
       "summary": "エージェント（Claude Code、Codex など）に**動画編集の言語と実行系**を与える。参照動画を投入すると、映像・字幕・Bロール・エフェクトをひとつのワークフローとして複製する。"
+    },
+    {
+      "name": "Generative Models by Stability AI",
+      "genre": "video-gen",
+      "url": "https://github.com/Stability-AI/generative-models",
+      "repo": "Stability-AI/generative-models",
+      "license": "MIT",
+      "stars": 27343,
+      "language": "Python",
+      "created": "2023-06-22",
+      "updated": "2025-12-16",
+      "forks": 3091,
+      "open_issues": 337,
+      "commits_30d": 0,
+      "commit_cadence": "stale",
+      "commits_90d": 0,
+      "size_kb": 88668,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景・有効性・依存関係・実行条件。",
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/AIExplorerTim/status/2118242415219982564"
+      ],
+      "fetched_at": "2026-11-11T08:19:03.895625+00:00",
+      "path": "entries/video-gen/stability-ai-generative-models.md",
+      "summary": "READMEによると、SV4D 2.0は入力動画から新規視点の動画と4Dアセットを生成する。SV3Dは単一画像から新規視点の動画を生成する。いずれも研究目的での公開として説明されている。"
     },
     {
       "type": "repo",
