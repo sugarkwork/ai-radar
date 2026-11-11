@@ -1,5 +1,5 @@
 {
-  "count": 899,
+  "count": 900,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -18305,6 +18305,37 @@
       "fetched_at": "2026-11-09T21:41:20Z",
       "path": "entries/other/nuxt-ui.md",
       "summary": "Reka UI・Tailwind CSS・Tailwind Variants の上に作られた、型付きでアクセシブルな Vue コンポーネント集。Nuxt ではモジュールとして、素の Vue アプリでは Vite プラグインとして動く（README 冒頭）。"
+    },
+    {
+      "name": "flubber",
+      "genre": "other",
+      "url": "https://github.com/veltman/flubber",
+      "repo": "veltman/flubber",
+      "stars": 6966,
+      "forks": 171,
+      "open_issues": 19,
+      "size_kb": 241,
+      "language": "JavaScript",
+      "created": "2017-06-09",
+      "updated": "2022-11-08",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 0,
+      "commits_90d": 0,
+      "commit_cadence": "stale",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景・有効性・依存関係・実行条件。",
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/RealMarvelX/status/2118330503040221345"
+      ],
+      "fetched_at": "2026-11-11T20:08:22.531588+00:00",
+      "path": "entries/other/veltman-flubber.md",
+      "summary": "SVGパス文字列または[x, y]点列を入力に、形状間の補間関数を作成する。円・矩形への変形、単一形状と複数形状の分割・結合、複数形状同士の補間、点列からSVGパス文字列への変換などのAPIがある。READMEによれば、補間は「best-guess」であり、穴や複数形状を含むパス文字列では最初の外側形状以外は無視される"
     },
     {
       "type": "repo",
