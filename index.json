@@ -1,5 +1,5 @@
 {
-  "count": 855,
+  "count": 856,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -5346,6 +5346,37 @@
       "last_release_at": "2026-11-08",
       "path": "entries/agent-framework/omdsh-dev-dsh-browser.md",
       "summary": "DSHのブラウザ操作を補助するdsh-browser。10選ではPlaywrightより高速と紹介。"
+    },
+    {
+      "name": "Nakama",
+      "genre": "agent-framework",
+      "url": "https://github.com/ahmadrosid/nakama",
+      "repo": "ahmadrosid/nakama",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEによると、Dockerのリセット手順はデータを破棄し、ポート4310を公開する無関係なコンテナも削除する。実行前に影響範囲を確認すること。",
+      "stars": 802,
+      "forks": 137,
+      "open_issues": 60,
+      "size_kb": 48795,
+      "language": "TypeScript",
+      "created": "2026-05-23",
+      "updated": "2026-11-10",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 100,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/Ryrenz/status/2118192835266519269"
+      ],
+      "fetched_at": "2026-11-11T02:11:02.748871+00:00",
+      "path": "entries/agent-framework/ahmadrosid-nakama.md",
+      "summary": "チーム向けのAIエージェント基盤。ダッシュボードでエージェントとチャットでき、各エージェントは個別のプロンプトファイル、ツール、スキル、メモリを持つ。Telegram、WhatsApp、Discord、Slack、Composioとの連携をREADMEが案内している。出典: https://github.com/ahm"
     },
     {
       "repo": "unicodef1wn/grokbot-field-notes",
