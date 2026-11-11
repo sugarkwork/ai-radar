@@ -1,5 +1,5 @@
 {
-  "count": 794,
+  "count": 795,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -9237,6 +9237,37 @@
       "fetched_at": "2026-11-08T18:34:40Z",
       "path": "links/coding-agent/aitmpl.com-jev-skill-typeahead.md",
       "summary": "Claude Code でプロンプトを書いている最中に、その依頼で Claude が呼びそうなスキルとサブエージェントをプロンプト欄の上のバンドに先回り表示する。"
+    },
+    {
+      "repo": "CMaintz/leash",
+      "name": "Leash",
+      "genre": "coding-agent",
+      "url": "https://github.com/CMaintz/leash",
+      "license": "MIT",
+      "stars": 0,
+      "language": "TypeScript",
+      "created": "2026-09-30",
+      "updated": "2026-11-06",
+      "forks": 0,
+      "open_issues": 6,
+      "commits_30d": 21,
+      "commit_cadence": "daily",
+      "commits_90d": 93,
+      "size_kb": 314,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "最新GitHubリリース、npmの配布版、現行のJev料金と送信データの保持条件は未確認。READMEの約300 msと約68%は作者の記載で、測定条件や対象リポジトリでの再現性は未確認。CLI、フック、MCPは未実行。",
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/thegreatest_sv/status/2116142322543198271"
+      ],
+      "fetched_at": "2026-11-10T12:54:52Z",
+      "path": "entries/coding-agent/cmaintz-leash.md",
+      "summary": "Claude CodeやCodexのターン終了時に変更差分を調べ、修正閾値を超えた新規違反のルールをエージェントに返す。stdio MCPからも差分を検査できる。"
     },
     {
       "name": "Turn Inspector",

@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 794 件 — リポジトリ 483, リンク集 113, 記事 131, モデル 53, プロンプト 14 / ⚑ 要確認 584 件
+収録 795 件 — リポジトリ 484, リンク集 113, 記事 131, モデル 53, プロンプト 14 / ⚑ 要確認 585 件
 
-## リポジトリ（483）
+## リポジトリ（484）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -293,7 +293,7 @@
 | [clash-jev](entries/other/bytelabs-oss-clash-jev.md) ⚑ | 37 | 11 | 月次 | 2 | 2026-10-14 | 2026-11-10 | 2026-11-11 | MIT |
 | [Jev Grand Prix](entries/other/enoyola-jev-grand-prix.md) ⚑ | 7 | 0 | 月次 | 0 | 2026-09-21 | 2026-11-10 | 2026-11-11 | MIT |
 
-### コーディングエージェント（55）
+### コーディングエージェント（56）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -352,6 +352,7 @@
 | [Dual-Brain — 設計とコードの二視点レビュー用スキル](entries/coding-agent/sleeplesshan-dual-brain.md) ⚑ | 143 | 11 | 週次 | 6 | 2026-11-06 | 2026-11-09 | 2026-11-10 | MIT |
 | [quicksilver](entries/coding-agent/uditakhourii-quicksilver.md) ⚑ | 142 | 11 | 停滞 | 0 | 2026-09-25 | 2026-11-09 | 2026-11-10 | MIT |
 | [GDG Agent Skillsの実演教材](entries/coding-agent/gdg-oau-agent-skills-gdg.md) ⚑ | 1 | 0 | 週次 | 13 | 2026-11-07 | 2026-11-10 | 2026-11-10 | unknown |
+| [Leash](entries/coding-agent/cmaintz-leash.md) ⚑ | 0 | 0 | 毎日 | 21 | 2026-11-06 | 2026-11-10 | 2026-11-11 | MIT |
 
 ### 音声・TTS（33）
 
@@ -1459,6 +1460,7 @@
 - [Claude Code ダイナミックワークフロー（Dynamic workflows）](links/coding-agent/code.claude.com-claude-code-dynamic-workflows.md) — unverified / 投稿の主張のうち、ワークフロー機能そのもの（JSスクリプトで多数のサブエージェントを編成、`claude --effort ultracode`、`/deep-research`、`/workflows`、ステージごとのモデル指定、isolated copy での並列編集）は一次情報で確認できる。一方、(1)「Haiku 5.5 が全ファイルをスキャンし Sonnet 5.5 が修正する」という固定の役割分担はページに記載がなく、投稿者のレシピ。モデル名（Opus 5.5 / Sonnet 5.5 / Haiku 5.5）自体は Claude Code の model-config に存在するが、この分担は既定動作ではない。(2)「JEV がミリ秒でマイクロ分岐をルーティングする」は当該ページにも docs 索引にも一切登場せず、ワークフロー機能の一部ではない（JEV は外部解説では TypeSafe の意思決定モデルと説明される別製品で、Anthropic の機能ではない。TypeSafe 一次ページは JS 主体で本文確認できず、この帰属は第三者解説に基づく）。「Anthropic が共有した」という帰属と、JEV を機能の一部のように説明する点は誤り。(3) 動画のみで静止画像はなく、フレーム単位の照合はしていない。コスト面はページが「トークンが大幅に増える」「利用上限に早く達する」と明記しており、投稿の「Opus トークンを節約」は主観で、ページの警告とは方向が異なる。
 - [HackerTube](articles/2026-10-31-andrej-karpathy-hackertube.md) — unverified / 所要時間とデプロイ時のセキュリティ対策は著者の報告に基づく。推薦の選別精度、Mediumと他の設定の比較、実際の費用、エクスポートデータの再利用条件は未確認。
 - [Jev Skill Typeahead](links/coding-agent/aitmpl.com-jev-skill-typeahead.md) — unverified / 投稿の「確率つきで出る」は半分正確。停止後に出る『Jev decided』行の % はバックエンド(Jev)が返す probability だが、入力中に即時表示される % は名前・説明と下書きの語の重なり（IDF 重み付き被覆率。policy.ts では 100*raw/total/1.6 を丸めた値）であって確率ではない。builtin プロバイダでは確率が返らず「—」表示になる。予測精度の実測値・ベンチマークは README になく、効果は著者の主張のみ。README 自身が「ライブのタイピング経路はエンジンの型を読んで確認しただけで、セッションに打ち込んでは検証していない」と明記している。Jev キーを設定すると下書き本文と全候補の名前・説明が停止ごとに外部(api.typesafe.ai 等)へ送信されるため、機密プロンプトでは keywords か builtin を選ぶ必要がある。Claude Code 2.1.287 以降が必須。
+- [Leash](entries/coding-agent/cmaintz-leash.md) — unverified / 最新GitHubリリース、npmの配布版、現行のJev料金と送信データの保持条件は未確認。READMEの約300 msと約68%は作者の記載で、測定条件や対象リポジトリでの再現性は未確認。CLI、フック、MCPは未実行。
 - [Turn Inspector](links/coding-agent/aitmpl.com-turn-inspector.md) — unverified / 確認できたこと: aitmpl.com の製品ページ（HTTP 200）に仕様・オプション・導入コマンド・バージョン要件が記載され、配布リポジトリの README と一致する。デモ動画を取得してフレームを確認し、右側ペインに「Context window 58.5k / 1.0M 6%」と system / earlier / new / output の内訳バー、#1 answer 54.1k / #2 1x Read 54.2k / #3 answer 58.5k のようなターン行が実際に映っていることを目視確認した。未確認のこと: トークン削減などの効果数値は存在せず、著者の「重くなった原因を勘で探さずに済む」という主張のみ。Claude Desktop のサイドパネル表示とバージョン範囲（2.1.287+ で既定有効、2.1.259〜2.1.286 は環境変数が必要）はドキュメント記述のみで、当環境では実機検証していない。本 Mod は表示・観測専用でコンテキストを減らす機能はない。
 - [promptfoo](entries/eval/promptfoo-promptfoo.md) — unverified / 有効性の数値（README の「10M+ users」等）はベンダー自己申告で、独立検証や本環境での再現はしていない。導入・eval・redteam の実行も未実施。Community の red teaming は月10k probes 上限で、SonarQube 出力・チーム共有・カスタムプラグイン・RBAC/SSO・監視は Enterprise 限定（公開価格なし、Custom 見積り）。LLM 採点の assertion は確率的で、しきい値・grader・--repeat の調整が必要。red team の検出結果は誤検知を含む前提で人間が triage する必要がある。README は OpenAI 傘下であることを明記しており、今後のライセンスや提供形態の変更リスクは残る。redteam は有害出力を誘発しうるため、管理下のアプリ以外には使わない。
 - [garak (Generative AI Red-teaming and Assessment Kit)](entries/eval/nvidia-garak.md) — unverified / 検出精度・誤検知率の定量値は一次情報に記載がなく未検証。判定はキーワードまたは分類器ベースの検出器に依存し、スコアは正規化されていないためプローブ間の比較はできない。プローブの網羅性は保証されず、ペネトレーションテストの代替にはならない。実行は許可された対象に限る。
