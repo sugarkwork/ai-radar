@@ -1,5 +1,5 @@
 {
-  "count": 787,
+  "count": 788,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -16181,6 +16181,38 @@
       "last_release_at": "",
       "path": "entries/other/echris6-motion-video-kit.md",
       "summary": "15〜40秒のビジネス向けローンチ風CMを、AI生成映像＋HTML/GSAPのモーション（必要ならThree.js）で作るためのClaude Codeスキル。SKILL.md が「ブリーフ→参考選定→絵コンテ→素材→部品単体→本編→批評→音→納品」の9段階の手順を定義している。"
+    },
+    {
+      "repo": "realZachi/pg-jev",
+      "name": "pg-jev",
+      "genre": "other",
+      "url": "https://github.com/realZachi/pg-jev",
+      "stars": 1303,
+      "forks": 109,
+      "open_issues": 3,
+      "size_kb": 214,
+      "language": "Shell",
+      "created": "2026-09-17",
+      "updated": "2026-10-06",
+      "archived": false,
+      "license": "unknown",
+      "commits_30d": 0,
+      "commits_90d": 13,
+      "commit_cadence": "monthly",
+      "last_release": "v0.2.1",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "速度・精度・費用はREADMEの著者測定で、独立再現、別データでの精度、現行料金、ローカル互換サーバーの動作は未確認。最新リリースの公開ページでタグを確認したが、タイムゾーン付きの公開日時は未確認。 GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/thegreatest_sv/status/2115779290033803462"
+      ],
+      "fetched_at": "2026-11-10T12:34:37+00:00",
+      "path": "entries/other/realzachi-pg-jev.md",
+      "summary": "jev()をWHERE句に置いて自然言語条件で行を絞り込む。jev_prob()で確率順に並べ、jev_choice()で指定した選択肢に分類できる。"
     },
     {
       "repo": "Tencent/WeVisOne-VL",
