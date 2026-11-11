@@ -1,5 +1,5 @@
 {
-  "count": 887,
+  "count": 888,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -16884,6 +16884,37 @@
       "license_name": "qwen-community-1.0",
       "path": "models/model-serving/unsloth-qwen3.8-flash-next-gguf.md",
       "summary": "Qwen3.8-Flash-NextのUnsloth配布GGUF量子化群。紹介対象のUD-IQ2_XSは3分割で約70.6GiB。"
+    },
+    {
+      "name": "Free Programming Books",
+      "genre": "other",
+      "url": "https://github.com/EbookFoundation/free-programming-books",
+      "repo": "EbookFoundation/free-programming-books",
+      "stars": 401413,
+      "forks": 67628,
+      "open_issues": 100,
+      "size_kb": 22279,
+      "language": "Python",
+      "created": "2013-10-11",
+      "updated": "2026-11-07",
+      "archived": false,
+      "license": "CC-BY-4.0",
+      "commits_30d": 46,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景・有効性・依存関係・実行条件。",
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/fhwofjow51260/status/2118318582299759006"
+      ],
+      "fetched_at": "2026-11-11T18:04:52.717749+00:00",
+      "path": "entries/other/ebookfoundation-free-programming-books.md",
+      "summary": "プログラミング書籍などの無料学習リソースを、英語のプログラミング言語別・分野別、および複数言語の一覧から探せます。READMEは検索サイトと静的サイトも案内しています。"
     },
     {
       "repo": "yt-dlp/yt-dlp",
