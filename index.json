@@ -1,5 +1,5 @@
 {
-  "count": 874,
+  "count": 875,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -18818,6 +18818,37 @@
       "fetched_at": "2026-11-10T12:33:58+00:00",
       "path": "entries/other/enoyola-jev-grand-prix.md",
       "summary": "ブラウザー上のF1風レースでJevの走行を観察し、自分でも対戦できる。Jevは狙う走行ラインとペダル操作を選び、コースアウトの見込みを返す。"
+    },
+    {
+      "name": "剪坊",
+      "genre": "other",
+      "url": "https://github.com/tuyetloanpham08-png/jianfang",
+      "repo": "tuyetloanpham08-png/jianfang",
+      "license": "unknown",
+      "stars": 7,
+      "language": "Swift",
+      "created": "2026-10-20",
+      "updated": "2026-10-20",
+      "forks": 1,
+      "open_issues": 0,
+      "commits_30d": 2,
+      "commit_cadence": "monthly",
+      "commits_90d": 2,
+      "size_kb": 133,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "Apple Silicon MacとmacOS 26以降が必要。プレビュー版はApple Developer ID署名・公証がなく、初回起動時にmacOSの許可操作が必要な場合がある。READMEではIntel Macで未検証とされる。 GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/TuyetloanP81840/status/2118592167165960208"
+      ],
+      "fetched_at": "2026-11-11T07:05:39.215402+00:00",
+      "path": "entries/other/tuyetloanpham08-png-jianfang.md",
+      "summary": "READMEによると、剪坊はローカルで動作するmacOS動画編集アプリ。素材の取り込み、最大2本の動画トラックと4本の音声トラックでのタイムライン編集、字幕の追加・編集とSRTの読み書き、配楽の音量調整・フェード、プロジェクト保存・復元、H.264/AAC MP4のプレビューと書き出しに対応する。対応素材はSDR H."
     },
     {
       "type": "model",
