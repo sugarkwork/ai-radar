@@ -1,5 +1,5 @@
 {
-  "count": 889,
+  "count": 890,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -18121,6 +18121,37 @@
       "last_release_at": "2026-10-30",
       "path": "entries/other/wyattblue-auto-editor.md",
       "summary": "音声のラウドネス（既定 audio:threshold=0.04）、モーション、黒フレーム、字幕の語句一致から「切る区間」を判定し、初稿を書き出す。入力は動画・音声のほか、yt-dlp 導入時の URL、:mic でのマイク録音にも対応"
+    },
+    {
+      "name": "Y2A-Auto",
+      "genre": "other",
+      "url": "https://github.com/fqscfqj/Y2A-Auto",
+      "repo": "fqscfqj/Y2A-Auto",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "The supplied README does not establish what permissions or platform terms apply to reposting videos; verify these before use.",
+      "stars": 4749,
+      "forks": 797,
+      "open_issues": 13,
+      "size_kb": 54396,
+      "language": "Python",
+      "created": "2025-05-10",
+      "updated": "2026-10-28",
+      "archived": false,
+      "license": "GPL-3.0",
+      "commits_30d": 4,
+      "commits_90d": 37,
+      "commit_cadence": "weekly",
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/superfang119/status/2118323026576253399"
+      ],
+      "fetched_at": "2026-11-11T19:04:09.729471+00:00",
+      "path": "entries/other/fqscfqj-y2a-auto.md",
+      "summary": "READMEによると、YouTube動画のダウンロード、音声認識による字幕生成、字幕翻訳・質疑・焼き込み、メタデータ生成、内容审核、AcFun／bilibiliへのアップロードを自動化する。Web管理画面でタスク確認や手動审核を行えるほか、YouTubeチャンネル・キーワード監視、通知、CookieCloud連携、CP"
     },
     {
       "repo": "Vexa-ai/vexa",
