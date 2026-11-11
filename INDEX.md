@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 850 件 — リポジトリ 533, リンク集 113, 記事 137, モデル 53, プロンプト 14 / ⚑ 要確認 640 件
+収録 851 件 — リポジトリ 534, リンク集 113, 記事 137, モデル 53, プロンプト 14 / ⚑ 要確認 641 件
 
-## リポジトリ（533）
+## リポジトリ（534）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -385,7 +385,7 @@
 | [duckdb-jev](entries/other/prasanthj-duckdb-jev.md) ⚑ | 14 | 3 | 月次 | 2 | 2026-10-21 | 2026-11-10 | 2026-11-11 | Apache-2.0 |
 | [Jev Grand Prix](entries/other/enoyola-jev-grand-prix.md) ⚑ | 7 | 0 | 月次 | 0 | 2026-09-21 | 2026-11-10 | 2026-11-11 | MIT |
 
-### 音声・TTS（33）
+### 音声・TTS（34）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -417,6 +417,7 @@
 | [Essentia](entries/tts-audio/mtg-essentia.md) | 3,801 | 644 | 週次 | 15 | 2026-11-05 | 2026-11-09 | 2026-11-10 | AGPL-3.0 |
 | [stable-ts](entries/tts-audio/jianfch-stable-ts.md) | 2,282 | 248 | 停滞 | 0 | 2026-05-30 | 2026-11-09 | 2026-11-10 | MIT |
 | [知了 Cicada](entries/tts-audio/wquguru-cicada.md) ⚑ | 2,104 | 366 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | Apache-2.0 |
+| [Irodori-TTS](entries/tts-audio/aratako-irodori-tts.md) ⚑ | 1,586 | 188 | 週次 | 18 | 2026-11-09 | 2026-11-11 | 2026-11-11 | MIT |
 | [ElevenLabs Skills](entries/tts-audio/elevenlabs-skills.md) ⚑ | 547 | 94 | 週次 | 13 | 2026-11-04 | 2026-11-10 | 2026-11-10 | MIT |
 | [adventists-ai/sophon-realtime](entries/tts-audio/adventists-ai-sophon-realtime.md) ⚑ | 58 | 4 | 毎日 | 36 | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
 | [lowkeytea/scyllasband](entries/tts-audio/lowkeytea-scyllasband.md) ⚑ | 29 | 2 | 週次 | 11 | 2026-11-07 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
@@ -1812,6 +1813,7 @@
 - [umlx5h/LLPlayer](entries/tts-audio/umlx5h-llplayer.md) — unverified / Beta版で設定互換性が変わる可能性。ASR/OCRはローカルだが翻訳はエンジンによってクラウド送信・API費用が生じる。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [earshot](entries/tts-audio/leonxlnx-earshot.md) — unverified / 実行と独立評価は未実施。作者評価の結果が他の素材や編集工程に一般化するか、発見投稿の動画で効果音のタイミングが改善したか、最新版の正確な公開時刻は未確認。
 - [知了 Cicada](entries/tts-audio/wquguru-cicada.md) — unverified / 公開資料の確認のみ。認識・翻訳精度、遅延、話者識別、共有時の機密情報検出、実際の外部送信先は未検証。Lingの現行料金と無料枠の適用条件は提供元で未確認。
+- [Irodori-TTS](entries/tts-audio/aratako-irodori-tts.md) — unverified / READMEは、単一の長時間録音を使う形式は評価されておらず、複数の短い同一話者クリップで測定した結果と異なる場合があると記載している。必要なGPU・VRAMなどの具体的な実行条件は、提示されたREADME部分から確認できない。
 - [ElevenLabs Skills](entries/tts-audio/elevenlabs-skills.md) — unverified / 最新リリースのタグと公開日時は確認できなかった。スキルの起動、生成音の品質・所要時間、個別API機能の課金条件と生成物の商用利用条件は未検証。
 - [adventists-ai/sophon-realtime](entries/tts-audio/adventists-ai-sophon-realtime.md) — unverified / Apache-2.0とNOTICEの第三者要素の条件を分ける。0.31秒等は特定版・構成の作者測定で全版への保証ではない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [lowkeytea/scyllasband](entries/tts-audio/lowkeytea-scyllasband.md) — unverified / ランタイムApache-2.0と各構成要素の条件を確認する。モデルの70ms等を全デバイスでの実測保証にしない。 当方でインストール・推論・生成・ベンチ再現はしていない。

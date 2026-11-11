@@ -1,5 +1,5 @@
 {
-  "count": 850,
+  "count": 851,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -21639,6 +21639,37 @@
       "fetched_at": "2026-11-10T09:40:06+00:00",
       "path": "entries/tts-audio/wquguru-cicada.md",
       "summary": "会議や配信の音声を二言語字幕にし、要約、議題、決定事項、タスクを整理する。決定事項やタスクから元の発言に戻れ、会議後はMarkdown、Word、SRTへ出力できる。"
+    },
+    {
+      "name": "Irodori-TTS",
+      "genre": "tts-audio",
+      "url": "https://github.com/Aratako/Irodori-TTS",
+      "repo": "Aratako/Irodori-TTS",
+      "license": "MIT",
+      "stars": 1586,
+      "language": "Python",
+      "created": "2026-02-25",
+      "updated": "2026-11-09",
+      "forks": 188,
+      "open_issues": 18,
+      "commits_30d": 18,
+      "commit_cadence": "weekly",
+      "commits_90d": 19,
+      "size_kb": 393,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEは、単一の長時間録音を使う形式は評価されておらず、複数の短い同一話者クリップで測定した結果と異なる場合があると記載している。必要なGPU・VRAMなどの具体的な実行条件は、提示されたREADME部分から確認できない。",
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/memuringo7544/status/2118972621866012726"
+      ],
+      "fetched_at": "2026-11-11T00:15:06.933199+00:00",
+      "path": "entries/tts-audio/aratako-irodori-tts.md",
+      "summary": "Flow MatchingベースのTTSの学習・推論コード。READMEでは、参照音声からのゼロショット音声クローニング、v4-Smallでのテキスト・参照音声・captionによる音声設計、複数参照クリップの連結、対応チェックポイントでの絵文字による話し方制御、CLI・Gradio推論、PEFT/LoRA微調整、Sp"
     },
     {
       "repo": "elevenlabs/skills",
