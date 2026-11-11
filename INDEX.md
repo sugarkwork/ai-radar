@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 912 件 — リポジトリ 592, リンク集 114, 記事 139, モデル 53, プロンプト 14 / ⚑ 要確認 700 件
+収録 913 件 — リポジトリ 592, リンク集 114, 記事 140, モデル 53, プロンプト 14 / ⚑ 要確認 701 件
 
 ## リポジトリ（592）
 
@@ -1147,9 +1147,9 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（139）
+## 記事（140）
 
-### 記事（79）
+### 記事（80）
 
 - **[$0のデジタル参謀長で月$80,000の契約候補を作ったというX投稿（動画付き）](articles/2026-10-22-bober_smart-0-80-000-x.md)** ⚑  @Bober_smart
 - **[1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md)** ⚑  @mukadeshinigami（mukade死神）
@@ -1188,6 +1188,7 @@
 - **[How we’re training a Figma-fluent editing model](articles/2026-10-29-author-how-we-re-training-a-figma-fluent-editing-model.md)** ⚑
 - **[Independent Assessment of AI R&D Acceleration at Anthropic in October 2026](articles/2026-11-05-author-independent-assessment-of-ai-r-d-acceleration-at-anthropic-in-october-2026.md)** ⚑
 - **[Introducing System One Models & Jev](articles/2026-09-15-diogo-almeida-typesafe-ai-introducing-system-one-models-jev.md)** ⚑  Diogo Almeida（TypeSafe AI）
+- **[Jetpack Compose for XR 1.0.0-beta02 リリースノート](articles/2026-10-21-author-jetpack-compose-for-xr-1.0.0-beta02-d5c3bbee7c.md)** ⚑
 - **[KV Cache Quantization for Diffusion Language Models](articles/2026-10-29-author-kv-cache-quantization-for-diffusion-language-models.md)** ⚑
 - **[Kev 0.8Bによる複数ラベル文書分類の試行](articles/2026-09-30-bernat-vadell-kev-0.8b.md)** ⚑  Bernat Vadell
 - **[Kevによる文書分類と処理経路判定の第2回実験](articles/2026-10-02-bernat-vadell-kev-2.md)** ⚑  Bernat Vadell
@@ -1513,6 +1514,7 @@
 - [How we’re training a Figma-fluent editing model](articles/2026-10-29-author-how-we-re-training-a-figma-fluent-editing-model.md) — unverified / 比較結果はFigmaの社内評価で、独立した再現性は未確認。学習データに含まれる顧客コンテンツの具体的な範囲と利用条件、学習済みモデルやデータの入手・再利用条件、モデル単体の速度と費用は未確認。
 - [Independent Assessment of AI R&D Acceleration at Anthropic in October 2026](articles/2026-11-05-author-independent-assessment-of-ai-r-d-acceleration-at-anthropic-in-october-2026.md) — unverified / METRの結論を強く支えた証拠の大半は非公開。公開情報からは推定の独立再現や、加速のうちAI利用に起因する割合の検証はできない。
 - [Introducing System One Models & Jev](articles/2026-09-15-diogo-almeida-typesafe-ai-introducing-system-one-models-jev.md) — unverified / 速度・精度・確率の較正は独立に実測していない。候補投稿のPokémon Red以外のデモ、現行の利用条件およびモデル重みの配布条件は未確認。
+- [Jetpack Compose for XR 1.0.0-beta02 リリースノート](articles/2026-10-21-author-jetpack-compose-for-xr-1.0.0-beta02-d5c3bbee7c.md) — unverified / このバージョンはandroidx.xr.scenecore:1.0.0-rc01に既知のメモリリークを含む依存関係があり、公式資料はSceneCore 1.0.0への明示的な上書きを回避策として示しています。XREAL AURAとの互換性や、投稿にあるエラーの原因はこのページから確認できません。
 - [KV Cache Quantization for Diffusion Language Models](articles/2026-10-29-author-kv-cache-quantization-for-diffusion-language-models.md) — unverified / ベンチマーク結果は著者報告で、独立再現は未実施。実装コードの公開状況と利用条件、実環境での速度・メモリ削減量は未確認。
 - [Kev 0.8Bによる複数ラベル文書分類の試行](articles/2026-09-30-bernat-vadell-kev-0.8b.md) — unverified / 公開日はUTC。精度・速度は自己申告。評価データと再現性は未確認。
 - [Kevによる文書分類と処理経路判定の第2回実験](articles/2026-10-02-bernat-vadell-kev-2.md) — unverified / 公開日はUTC。実験条件と再現性は未確認。

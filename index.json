@@ -1,5 +1,5 @@
 {
-  "count": 912,
+  "count": 913,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -7250,6 +7250,24 @@
       ],
       "fetched_at": "2026-11-10T05:49:02Z",
       "path": "articles/2026-09-15-diogo-almeida-typesafe-ai-introducing-system-one-models-jev.md"
+    },
+    {
+      "name": "Jetpack Compose for XR 1.0.0-beta02 リリースノート",
+      "genre": "article",
+      "url": "https://developer.android.com/jetpack/androidx/releases/xr-compose?hl=ja#1.0.0-beta02",
+      "published": "2026-10-21",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "このバージョンはandroidx.xr.scenecore:1.0.0-rc01に既知のメモリリークを含む依存関係があり、公式資料はSceneCore 1.0.0への明示的な上書きを回避策として示しています。XREAL AURAとの互換性や、投稿にあるエラーの原因はこのページから確認できません。",
+      "type": "article",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/tokufxug/status/2118354543763501510"
+      ],
+      "fetched_at": "2026-11-11T22:16:31Z",
+      "path": "articles/2026-10-21-author-jetpack-compose-for-xr-1.0.0-beta02-d5c3bbee7c.md"
     },
     {
       "name": "KV Cache Quantization for Diffusion Language Models",
