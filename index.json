@@ -1,5 +1,5 @@
 {
-  "count": 782,
+  "count": 783,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -16497,6 +16497,40 @@
       "fetched_at": "2026-11-10T12:31:32+00:00",
       "path": "entries/other/christianmat-jev-pokemon.md",
       "summary": "Game Boy エミュレーターの RAM からマップ、手持ち、戦闘、表示テキストを取得する。行動候補にタイプ相性やダメージ見積もりを添えて Jev に渡し、選ばれた行動をボタン入力に変換する。"
+    },
+    {
+      "repo": "bytelabs-oss/clash-jev",
+      "name": "clash-jev",
+      "genre": "other",
+      "url": "https://github.com/bytelabs-oss/clash-jev",
+      "stars": 37,
+      "forks": 11,
+      "open_issues": 2,
+      "size_kb": 5806,
+      "language": "Python",
+      "created": "2026-09-21",
+      "updated": "2026-10-14",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 2,
+      "commits_90d": 6,
+      "commit_cadence": "monthly",
+      "last_release": "",
+      "last_release_at": "",
+      "flags": [
+        "unverified"
+      ],
+      "pricing_detail": "READMEの著者は約20試合で1試合あたり150〜200件のJevリクエストと約0.004米ドルの費用を報告。現行のAPI料金は未確認。",
+      "risk_notes": "約135msはREADMEが示すJevの単一応答の目安。全体遅延、勝率、端末ごとの認識精度、現行API料金は未検証。READMEは自動プレイがSupercellの利用規約に反すると明記している。",
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/thegreatest_sv/status/2115779290033803462"
+      ],
+      "fetched_at": "2026-11-10T12:32:31+00:00",
+      "path": "entries/other/bytelabs-oss-clash-jev.md",
+      "summary": "ADBで取得したH.264映像から手札、エリクサー、タワーなどを読み取り、既定で毎秒JSONのゲーム状態を組み立てる。Jevが戦略、カード、配置マスを順に選び、実行可能性を検査してからタップする。"
     },
     {
       "type": "model",
