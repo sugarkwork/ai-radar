@@ -1,5 +1,5 @@
 {
-  "count": 837,
+  "count": 838,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -7119,6 +7119,24 @@
       ],
       "fetched_at": "2026-11-08T06:51:00+00:00",
       "path": "articles/2026-10-16-y0urdumble-dumble-the-johnson-brothers-ai.md"
+    },
+    {
+      "name": "The Winners and Losers of AI’s First Big Election",
+      "genre": "article",
+      "url": "https://time.com/article/2026/11/04/midterm-elections-results-ai-industry-data-centers/",
+      "published": "2026-11-10",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "ページ上部にProject Management Instituteとの提携を示すスポンサー記事の内容が混在している。記事本文にはページ内の公開日「2026-11-10」と署名欄の「Nov 4, 2026」が併記されているため、公開日の表記には注意。記事中の調査・選挙結果の主張はTIME記事の記述であり、各リンク先資料までは個別に検証していない。",
+      "type": "article",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/neuronxwhite/status/2118159914929643863"
+      ],
+      "fetched_at": "2026-11-10T20:07:59Z",
+      "path": "articles/2026-11-10-author-the-winners-and-losers-of-ai-s-first-big-election.md"
     },
     {
       "name": "The attack chain behind the v1.107.0 LiteLLM release",
