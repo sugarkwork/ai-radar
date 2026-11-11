@@ -1,5 +1,5 @@
 {
-  "count": 893,
+  "count": 894,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -3461,6 +3461,37 @@
       "commits_90d": 3,
       "path": "entries/agent-framework/cloudflare-security-audit-skill.md",
       "summary": "コーディングエージェントを「セキュリティ監査者」に変える Agent Skill。リポジトリ/API/サービス/CLI/ライブラリ/デーモンを、偵察 → カバレッジ主導の探索 → 候補の反証検証 → 構造化出力 → 独立レコード検証 → 対象非依存レポートの6フェーズで回す。"
+    },
+    {
+      "name": "CrewAI",
+      "genre": "agent-framework",
+      "url": "https://github.com/crewAIInc/crewAI",
+      "repo": "crewAIInc/crewAI",
+      "stars": 60778,
+      "forks": 9154,
+      "open_issues": 1251,
+      "size_kb": 309466,
+      "language": "Python",
+      "created": "2023-10-27",
+      "updated": "2026-11-11",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 100,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景・有効性・依存関係・実行条件。",
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/thegreatest_sv/status/2118325722850697573"
+      ],
+      "fetched_at": "2026-11-11T19:06:34.505322+00:00",
+      "path": "entries/agent-framework/crewaiinc-crewai.md",
+      "summary": "Python framework for building multi-agent workflows. Crews provide role-based agent collaboration; Flows provide event-driven workflow control and can include C"
     },
     {
       "repo": "HKUDS/CLI-Anything",
