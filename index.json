@@ -1,5 +1,5 @@
 {
-  "count": 842,
+  "count": 843,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -19962,6 +19962,37 @@
       "last_release_at": "",
       "path": "entries/rag/nvidia-auto-ontology.md",
       "summary": "企業メタデータからオントロジーを作り、MCP・CLI・APIでエージェントへ文脈層を渡すNVIDIA auto-ontology。"
+    },
+    {
+      "name": "PixelRAG",
+      "genre": "rag",
+      "url": "https://github.com/StarTrail-org/PixelRAG",
+      "repo": "StarTrail-org/PixelRAG",
+      "stars": 10889,
+      "forks": 980,
+      "open_issues": 25,
+      "size_kb": 48010,
+      "language": "Python",
+      "created": "2026-05-29",
+      "updated": "2026-11-05",
+      "archived": false,
+      "license": "Apache-2.0",
+      "commits_30d": 25,
+      "commits_90d": 54,
+      "commit_cadence": "daily",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景・有効性・依存関係・実行条件。",
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/dyfwsammy/status/2120128054915731961"
+      ],
+      "fetched_at": "2026-11-10T23:11:56.259618+00:00",
+      "path": "entries/rag/startrail-org-pixelrag.md",
+      "summary": "Webページ、PDF、画像などをスクリーンショットタイルに変換し、画像を検索対象にするRAGパイプライン。READMEでは、表・チャート・レイアウトなどを画像に保ったまま検索できると説明しています。pixelshotによるページ撮影、Claude Code向けpixelbrowseスキル、独自文書のインデックス構築、F"
     },
     {
       "type": "repo",
