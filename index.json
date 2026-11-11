@@ -1,5 +1,5 @@
 {
-  "count": 907,
+  "count": 908,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -18178,6 +18178,37 @@
       "fetched_at": "2026-11-10T10:01:55+00:00",
       "path": "entries/other/agricidaniel-claude-obsidian.md",
       "summary": "inbox/ に置いた資料の原本を保持し、出典をたどれるリンク付き Markdown ノートを作る。Wiki を読み取り専用で照会し、回答を必要に応じて保存できる。リンク切れや孤立ページも点検できる。"
+    },
+    {
+      "name": "Shotcut",
+      "genre": "other",
+      "url": "https://github.com/mltframework/shotcut",
+      "repo": "mltframework/shotcut",
+      "license": "GPL-3.0",
+      "stars": 15654,
+      "language": "C++",
+      "created": "2012-04-23",
+      "updated": "2026-11-11",
+      "forks": 1565,
+      "open_issues": 48,
+      "commits_30d": 51,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 161803,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景・有効性・依存関係・実行条件。",
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/RealMarvelX/status/2118330503040221345"
+      ],
+      "fetched_at": "2026-11-11T20:11:14.585112+00:00",
+      "path": "entries/other/mltframework-shotcut.md",
+      "summary": "クロスプラットフォームの動画編集ソフトです。READMEには、バイナリの配布先として https://www.shotcut.org/download/ が記載されています。"
     },
     {
       "repo": "Thysrael/Horizon",

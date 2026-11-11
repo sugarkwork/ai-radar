@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 907 件 — リポジトリ 587, リンク集 114, 記事 139, モデル 53, プロンプト 14 / ⚑ 要確認 695 件
+収録 908 件 — リポジトリ 588, リンク集 114, 記事 139, モデル 53, プロンプト 14 / ⚑ 要確認 696 件
 
-## リポジトリ（587）
+## リポジトリ（588）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -279,7 +279,7 @@
 | [GDG Agent Skillsの実演教材](entries/coding-agent/gdg-oau-agent-skills-gdg.md) ⚑ | 1 | 0 | 週次 | 13 | 2026-11-07 | 2026-11-10 | 2026-11-10 | unknown |
 | [Leash](entries/coding-agent/cmaintz-leash.md) ⚑ | 0 | 0 | 毎日 | 21 | 2026-11-06 | 2026-11-10 | 2026-11-11 | MIT |
 
-### その他（77）
+### その他（78）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -314,6 +314,7 @@
 | [PlayCanvas Engine](entries/other/playcanvas-engine.md) ⚑ | 17,274 | 2,054 | 毎日 | 100+ | 2026-11-11 | 2026-11-11 | 2026-11-11 | MIT |
 | [social-auto-upload](entries/other/dreammis-social-auto-upload.md) ⚑ | 16,378 | 2,777 | 週次 | 16 | 2026-10-22 | 2026-11-10 | 2026-11-10 | MIT |
 | [claude-obsidian](entries/other/agricidaniel-claude-obsidian.md) ⚑ | 16,310 | 1,598 | 毎日 | 69 | 2026-10-25 | 2026-11-10 | 2026-11-10 | MIT |
+| [Shotcut](entries/other/mltframework-shotcut.md) ⚑ | 15,654 | 1,565 | 毎日 | 51 | 2026-11-11 | 2026-11-11 | 2026-11-11 | GPL-3.0 |
 | [Horizon](entries/other/thysrael-horizon.md) | 13,147 | 1,876 | 毎日 | 80 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
 | [minbpe](entries/other/karpathy-minbpe.md) ⚑ | 11,021 | 1,150 | 停滞 | 0 | 2024-07-01 | 2026-11-10 | 2026-11-10 | MIT |
 | [open-slide](entries/other/open-slide-open-slide.md) ⚑ | 9,729 | 716 | 毎日 | 33 | 2026-11-09 | 2026-11-10 | 2026-11-10 | MIT |
@@ -1805,6 +1806,7 @@
 - [PlayCanvas Engine](entries/other/playcanvas-engine.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [social-auto-upload](entries/other/dreammis-social-auto-upload.md) — unverified / 対応表は開発元の記載。実アカウントでのログイン、投稿成功率、定時公開、処理時間、各サービスの規約適合性は未検証。最新リリースのタグは確認済みだが、公開年とタイムゾーンを含む日時は未確認。
 - [claude-obsidian](entries/other/agricidaniel-claude-obsidian.md) — unverified / 理由未記入
+- [Shotcut](entries/other/mltframework-shotcut.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [minbpe](entries/other/karpathy-minbpe.md) — unverified / 最新リリース、対応するPython・依存ライブラリのバージョン範囲、cl100k_baseとの出力一致、実行時間は未検証。互換性と所要時間はREADMEの著者報告に基づく。
 - [open-slide](entries/other/open-slide-open-slide.md) — unverified / 公開リリース一覧では @open-slide/core@2.3.2 が Latest と表示された一方、取得した /releases/latest はキャッシュから @open-slide/core@2.0.1 に転送されたため、最新タグと公開日時は未確定。CLIやエージェントは実行しておらず、制作時間の短縮、PPTXの再現性・編集互換性、エージェント側の契約・料金は未検証。
 - [librosa](entries/other/librosa-librosa.md) — unverified / GitHub の latest は 1.0.0 に転送されたが、GitHub 上の公開日は未確認。PyPI の公開日は 2026-08-11。手順は公式資料に基づき、独立した実行・精度測定は行っていない。
