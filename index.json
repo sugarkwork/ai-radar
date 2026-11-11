@@ -1,5 +1,5 @@
 {
-  "count": 812,
+  "count": 813,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -9082,6 +9082,37 @@
       "last_release_at": "",
       "path": "entries/coding-agent/uditakhourii-quicksilver.md",
       "summary": "リポジトリ全体や大量ファイルに「このファイルは認証まわりを実装しているか」等の yes/no 判定を一括実行し、該当ファイルだけを確信度付きで返す（qs filter）。"
+    },
+    {
+      "name": "Flow Preview",
+      "genre": "coding-agent",
+      "url": "https://github.com/tanishqkancharla/flow-preview",
+      "repo": "tanishqkancharla/flow-preview",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "README記載の要件はNode.js 24以降、npm、および生成されたプレビューの依存関係をインストールするためのレジストリアクセス。個別プロジェクトでの適合性や動作結果は未確認。",
+      "stars": 37,
+      "forks": 3,
+      "open_issues": 0,
+      "size_kb": 133,
+      "language": "TypeScript",
+      "created": "2026-10-23",
+      "updated": "2026-11-06",
+      "archived": false,
+      "license": "Apache-2.0",
+      "commits_30d": 13,
+      "commits_90d": 13,
+      "commit_cadence": "weekly",
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/sumika45379/status/2116870373019103693"
+      ],
+      "fetched_at": "2026-11-10T14:05:19.744940+00:00",
+      "path": "entries/coding-agent/tanishqkancharla-flow-preview.md",
+      "summary": "ユーザージャーニーを、実際のUI状態を示すインタラクティブなキャンバスとしてプレビューする。状態ごとのサムネイル、アニメーション付きナビゲーション、ズーム、アウトライン、ブラウザーに保存されるレビュー印を含む。"
     },
     {
       "name": "Teddarific/skills",
