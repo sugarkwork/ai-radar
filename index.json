@@ -1,5 +1,5 @@
 {
-  "count": 783,
+  "count": 784,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -3528,6 +3528,40 @@
       "commits_90d": 66,
       "path": "entries/agent-framework/tencentcloud-tencentdb-agent-memory.md",
       "summary": "エージェントの文脈を**4種類の再利用可能な記憶資産**として切り出す：**Chat Memory**（会話・好み・事実・決定・やり取りの履歴）、**Skill**（手順の蓄積）、**LLM-Wiki**（文書をリンク付きの構造化ページに変換）、**CodeGraph**（コードのシンボル・ファイル・呼び出し関係・影響"
+    },
+    {
+      "repo": "browser-use/jev-ultrafast",
+      "name": "Jev Ultrafast",
+      "genre": "agent-framework",
+      "url": "https://github.com/browser-use/jev-ultrafast",
+      "stars": 24346,
+      "forks": 1874,
+      "open_issues": 210,
+      "size_kb": 4519,
+      "language": "Python",
+      "created": "2026-09-16",
+      "updated": "2026-11-03",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 1,
+      "commits_90d": 4,
+      "commit_cadence": "monthly",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": [
+        "最新リリースのタグと公開日時、外部APIの現行料金・利用条件は未確認。",
+        "性能値は開発元の報告。独立した再実行は行っておらず、別サイトや別環境での性能は未確認。"
+      ],
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/thegreatest_sv/status/2115779290033803462"
+      ],
+      "fetched_at": "2026-11-10T12:32:47+00:00",
+      "path": "entries/agent-framework/browser-use-jev-ultrafast.md",
+      "summary": "自然言語の目標を受け取り、Chrome上のクリック、入力、選択などを実行する。ローカル画面では操作・対象の確率と実行履歴を確認できる。"
     },
     {
       "type": "repo",
