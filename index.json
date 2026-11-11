@@ -1,5 +1,5 @@
 {
-  "count": 851,
+  "count": 852,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -7603,6 +7603,24 @@
       "risk_notes": "年500万円・価格7〜10倍は著者の自己申告。収益の再現性、PDFの内容・料金・権利条件は未確認。 当方でインストール・推論・生成・ベンチ再現はしていない。",
       "published": "2026-11-06",
       "path": "articles/2026-11-09-https-x.com-i-article-2117172572655849472.md"
+    },
+    {
+      "name": "画像1枚から3Dの「Idol」を16GB GPUで動かした——キャラシート正面1枚が37秒で26万粒のガウシアンスプラットに。Blender 5.3はアドオンなしで読んで撮れた",
+      "genre": "article",
+      "url": "https://make-profit.net/2026/11/09/genai-lab-68-idol-image-to-3d-gaussian-splat-16gb-measured-37s-blender-53-no-addon-turntable/",
+      "published": "2026-11-09",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "H3の参照動画に使った場合の改善効果は未検証。記事中の生成時間・VRAM値は作者環境での報告で、異なる環境や入力での性能を保証しない。",
+      "type": "article",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/Phantom_202601/status/2120249912118186495"
+      ],
+      "fetched_at": "2026-11-11T01:21:05Z",
+      "path": "articles/2026-11-09-author-1-3d-idol-16gb-gpu-1-37-26-blender-5.3.md"
     },
     {
       "name": "自主制作AIドラマ《最后的巨魔》",
