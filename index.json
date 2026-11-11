@@ -1,5 +1,5 @@
 {
-  "count": 832,
+  "count": 833,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -3588,6 +3588,37 @@
       "fetched_at": "2026-11-09T21:35:35Z",
       "path": "entries/agent-framework/vxcontrol-pentagi.md",
       "summary": "平文で目標を書くと、調査・開発・インフラ担当に分かれたサブエージェント群が計画を立て、nmap・Metasploit・sqlmap など20以上のツールを Docker サンドボックス内で実行してレポートを返す。"
+    },
+    {
+      "name": "Composio",
+      "genre": "agent-framework",
+      "url": "https://github.com/ComposioHQ/composio",
+      "repo": "ComposioHQ/composio",
+      "license": "MIT",
+      "stars": 31014,
+      "language": "TypeScript",
+      "created": "2024-02-23",
+      "updated": "2026-11-10",
+      "forks": 4935,
+      "open_issues": 141,
+      "commits_30d": 100,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 484550,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "利用にはCOMPOSIO_API_KEYが必要とREADMEに記載。README記載の機能や規模について独立した検証はしていない。",
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/thegreatest_sv/status/2118043980420030914"
+      ],
+      "fetched_at": "2026-11-10T16:22:48.093539+00:00",
+      "path": "entries/agent-framework/composiohq-composio.md",
+      "summary": "1000以上の事前認証済みツールキット、ユーザー単位のセッション、認証、トリガー、サンドボックスをAIエージェントに提供する。TypeScript・Python SDK、CLI、およびOpenAI Agents、Claude Agent SDK、Vercel AI SDK、LangChainなどのプロバイダーアダプター"
     },
     {
       "type": "repo",
