@@ -1,5 +1,5 @@
 {
-  "count": 866,
+  "count": 867,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -8977,6 +8977,37 @@
       "fetched_at": "2026-11-10T10:02:48+00:00",
       "path": "entries/coding-agent/eugeniughelbur-obsidian-second-brain.md",
       "summary": "会話からノートを保存し、保管庫の記録を検索して後続セッションで参照できる。README には検索品質を recall@k と MRR で測る評価コマンドも記載されている。"
+    },
+    {
+      "name": "chinese-novelist skill",
+      "genre": "coding-agent",
+      "url": "https://github.com/PenglongHuang/chinese-novelist-skill",
+      "repo": "PenglongHuang/chinese-novelist-skill",
+      "license": "MIT",
+      "stars": 4766,
+      "language": "JavaScript",
+      "created": "2026-01-25",
+      "updated": "2026-11-01",
+      "forks": 646,
+      "open_issues": 15,
+      "commits_30d": 21,
+      "commit_cadence": "daily",
+      "commits_90d": 30,
+      "size_kb": 1088,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景・有効性・依存関係・実行条件。",
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/0xGky/status/2120065171347640759"
+      ],
+      "fetched_at": "2026-11-11T06:07:45.327293+00:00",
+      "path": "entries/coding-agent/penglonghuang-chinese-novelist-skill.md",
+      "summary": "README では、中文小说の企画から完稿までを支援する Claude Code Skill と説明されています。題材・主役・中心となる葛藤を質問し、人物档案・章別大纲・写作计划を生成した後、章ごとの執筆、润色、字数检查、全稿校验と不合格章の修复を行います。偏好记忆、中断位置の検出と续写、串行・子Agent并行・Age"
     },
     {
       "type": "repo",
