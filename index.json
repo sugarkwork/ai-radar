@@ -1,5 +1,5 @@
 {
-  "count": 884,
+  "count": 885,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -14095,6 +14095,25 @@
       "risk_notes": "",
       "path": "links/link-inspiration/launchvideos-gallery.md",
       "summary": "X 上で共有されたプロダクトローンチ動画を日次で集めた作例ギャラリー。ローンチ動画の構成や演出を参考にするためのもの。"
+    },
+    {
+      "name": "Minimal Gallery",
+      "genre": "link-inspiration",
+      "url": "https://minimal.gallery/",
+      "pricing": "unknown",
+      "pricing_detail": "サイト閲覧の料金は確認できず。",
+      "signup_required": false,
+      "flags": [],
+      "type": "link",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "risk_notes": "",
+      "sources": [
+        "https://x.com/RealMarvelX/status/2118286426299122018"
+      ],
+      "fetched_at": "2026-11-11T15:20:50Z",
+      "path": "links/link-inspiration/minimal.gallery-minimal-gallery.md",
+      "summary": "クリエイターの制作活動を支援する、厳選ウェブサイトのデザインインスピレーションギャラリー。"
     },
     {
       "name": "Mosquito Man — 段ボールとアルミホイルの即席マスクで撮った14秒一発撮り動画（@Bober_smart が紹介）",

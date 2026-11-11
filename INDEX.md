@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 884 件 — リポジトリ 565, リンク集 113, 記事 139, モデル 53, プロンプト 14 / ⚑ 要確認 673 件
+収録 885 件 — リポジトリ 565, リンク集 114, 記事 139, モデル 53, プロンプト 14 / ⚑ 要確認 673 件
 
 ## リポジトリ（565）
 
@@ -705,9 +705,9 @@
 - **[MiniMax H3：20種のダンスと音楽指定](prompts/video-gen/minimax-h3-20-dance-music.md)** ⚑  MiniMax H3 / EndFolding79421
   - キャラクターシートを参照し、6秒間の全身ダンスと音楽・環境音を指示するための投稿者のテンプレート。ダンス20種類の音楽指定例を含む。
 
-## リンク集（113）
+## リンク集（114）
 
-### リンク（作例・インスピレーション）（19）
+### リンク（作例・インスピレーション）（20）
 
 - **[BestAIBuilder](links/link-inspiration/bestaibuilder-website.md)**  free / BestAIBuilder
   - AI サイトビルダーを横並びで比較するためのランキングサイト。「同じブリーフで全ツールにサイトを作らせ、craft / speed / control / value で採点した」という前提を掲げ、101ツールを順位付けしている。
@@ -731,6 +731,8 @@
   - ランディングページの作例を毎日／毎週キュレーションするギャラリー。デザインの参考を探す用途。
 - **[Launch Videos Gallery](links/link-inspiration/launchvideos-gallery.md)**  free / Launch Videos Gallery
   - X 上で共有されたプロダクトローンチ動画を日次で集めた作例ギャラリー。ローンチ動画の構成や演出を参考にするためのもの。
+- **[Minimal Gallery](links/link-inspiration/minimal.gallery-minimal-gallery.md)**
+  - クリエイターの制作活動を支援する、厳選ウェブサイトのデザインインスピレーションギャラリー。
 - **[Mosquito Man — 段ボールとアルミホイルの即席マスクで撮った14秒一発撮り動画（@Bober_smart が紹介）](links/link-inspiration/x.com-mosquito-man-14-bober_smart.md)** ⚑  free / @Bober_smart（紹介者。映像の原作者は投稿に記載なし）
   - AI生成を使わず、家庭にある素材だけで作った「異形の見た目」で短尺動画の冒頭0.5秒を止める、という発想の参照例。@Bober_smart が2026-10-22に「ドイツの23歳が24時間で6M再生、費用$0、これはAIではなく実在の人物」と紹介して拡散した。
 - **[Opus Edit Machine](links/link-inspiration/opus-edit-machine.vercel.app-opus-edit-machine.md)** ⚑  free / Dumble (@Y0urDumble)
