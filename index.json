@@ -1,5 +1,5 @@
 {
-  "count": 848,
+  "count": 849,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -15403,6 +15403,37 @@
       "fetched_at": "2026-11-10T12:57:09Z",
       "path": "entries/model-serving/ollaya-dev-ollaya.md",
       "summary": "テキストやJSONと型付きの質問を渡し、分類やチケットの振り分けに使える構造化された回答を取得できる。CLI、ローカルHTTP API、MCPに対応する。"
+    },
+    {
+      "name": "NVIDIA Kubernetes Engine (NVKE)",
+      "genre": "model-serving",
+      "url": "https://github.com/dsx-ai-factory/nvke",
+      "repo": "dsx-ai-factory/nvke",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "Preview版で、本番ワークロードには推奨されていません。PreviewではAPI認証が初期状態で無効、インストール後のAPIは平文HTTPです。利用前に認証と保護されたアクセスを設定してください。管理クラスターのアップグレード・スケール・置換、および管理プレーンのアップグレード・バックアップ／復元手順はありません。",
+      "stars": 1113,
+      "forks": 136,
+      "open_issues": 202,
+      "size_kb": 137628,
+      "language": "Go",
+      "created": "2026-08-04",
+      "updated": "2026-11-10",
+      "archived": false,
+      "license": "Apache-2.0",
+      "commits_30d": 100,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/Ryrenz/status/2120065434103812405"
+      ],
+      "fetched_at": "2026-11-10T23:23:55.270745+00:00",
+      "path": "entries/model-serving/dsx-ai-factory-nvke.md",
+      "summary": "NVKE管理プレーンを自前のNVIDIA GPU基盤に導入し、NICo経由で顧客向けの独立したKubernetesワークロードクラスターを作成・運用できます。ノードプールの作成・スケール・削除、Kubernetesのアップグレード、ノードの置換を扱います。ノードはTPMを使ってSPIFFE/SPIREでアテステーション"
     },
     {
       "repo": "gargpratyush/jev-router",
