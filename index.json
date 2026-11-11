@@ -1,5 +1,5 @@
 {
-  "count": 835,
+  "count": 836,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -6281,6 +6281,24 @@
       ],
       "fetched_at": "2026-11-10T10:56:32Z",
       "path": "articles/2026-11-03-author-accelerating-engineering-for-the-physical-world.md"
+    },
+    {
+      "name": "Almost no one uses AI agents to book their Uber, company says",
+      "genre": "article",
+      "url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
+      "published": "2026-11-04T13:56:00-08:00",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "記事はUberの決算説明会での発言を報じたもの。信頼や所要時間に関する見解は著者による解釈で、記事中の将来予測や他社比較も独立検証していない。",
+      "type": "article",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/neuronxwhite/status/2118131042666352788"
+      ],
+      "fetched_at": "2026-11-10T18:09:22Z",
+      "path": "articles/2026-11-04-author-almost-no-one-uses-ai-agents-to-book-their-uber-company-says.md"
     },
     {
       "name": "Bring Agentic Coding On-Device with Foundry Local",
