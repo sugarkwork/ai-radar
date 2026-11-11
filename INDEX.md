@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 840 件 — リポジトリ 524, リンク集 113, 記事 136, モデル 53, プロンプト 14 / ⚑ 要確認 630 件
+収録 841 件 — リポジトリ 525, リンク集 113, 記事 136, モデル 53, プロンプト 14 / ⚑ 要確認 631 件
 
-## リポジトリ（524）
+## リポジトリ（525）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -555,7 +555,7 @@
 | [LLM_Wiki_SecondBrain](entries/rag/dimitrislianos-llm_wiki_secondbrain.md) ⚑ | 18 | 3 | 停滞 | 0 | 2026-04-17 | 2026-11-10 | 2026-11-10 | MIT |
 | [Fulcra Agent Skills](entries/rag/fulcradynamics-agent-skills.md) ⚑ | 16 | 11 | 週次 | 10 | 2026-11-06 | 2026-11-09 | 2026-11-10 | unknown |
 
-### 画像生成・編集（16）
+### 画像生成・編集（17）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -575,6 +575,7 @@
 | [rhinoc/xprite-lighter](entries/image-gen/rhinoc-xprite-lighter.md) ⚑ | 15 | 0 | 毎日 | 91 | 2026-11-08 | 2026-11-09 | 2026-11-10 | MIT |
 | [sepiablue-ai/ComfyUI-PH3-Manga](entries/image-gen/sepiablue-ai-comfyui-ph3-manga.md) ⚑ | 8 | 0 | 週次 | 10 | 2026-11-07 | 2026-11-09 | 2026-11-10 | MIT |
 | [ComfyUI Prompt Atelier](entries/image-gen/renz1998-comfyui-prompt-atelier.md) | 3 | 0 | 毎日 | 51 | 2026-11-09 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
+| [P-H3-Image ComfyUI sample workflows](entries/image-gen/tori29umai0123-p-h3-image_workflows.md) ⚑ | 2 | 1 | 週次 | 4 | 2026-11-06 | 2026-11-10 | 2026-11-11 | unknown |
 
 ### 評価・ベンチマーク（7）
 
@@ -1558,6 +1559,7 @@
 - [Lyricccco/tailsteer](entries/image-gen/lyricccco-tailsteer.md) — unverified / 主な保持定量評価は10ターン。編集精度RISEが低下した値も公開され、保持と指示追従の両方が一律に向上したわけではない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [rhinoc/xprite-lighter](entries/image-gen/rhinoc-xprite-lighter.md) — unverified / MIT表記を原チェックで確認。派生版のAPI互換性・現行版と同じ処理品質は未試験。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [sepiablue-ai/ComfyUI-PH3-Manga](entries/image-gen/sepiablue-ai-comfyui-ph3-manga.md) — unverified / RTX4070で1ページ90秒はREADMEに根拠が見つからない投稿者申告。ノードMITとP-H3重みの独自条件は別。生成・写植は未試験。 当方でインストール・推論・生成・ベンチ再現はしていない。
+- [P-H3-Image ComfyUI sample workflows](entries/image-gen/tori29umai0123-p-h3-image_workflows.md) — unverified / ライセンスは確認できていないため、利用・再配布条件は不明。 GitHub APIでライセンスを確認できていません。
 - [Cactus-Compute/mirage](models/image-gen/cactus-compute-mirage.md) — unverified / 22MBは量子化cactのサイズで全形式ではない。GalaxyS26 NPU74ms/CPU107msはベンダー測定で、日本語対応やブラウザ動作の独立試験なし。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [ChatGPT Images 2.6 GIFと参照画像登録の解説](articles/2026-11-09-https-x.com-midori_tatsuta-status-2119030202315743254.md) — unverified / 50%高速化は提供元の比較。記事末尾は有料Brain教材への誘導で、原文指示は取得資料がないためここで生成せず、効果は未追試。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Clipdrop](links/image-gen/https-clipdrop.co.md) — unverified / 無料20回/24h・Pro月15ドルは2026-11-08の確認記録。現行枠と有料条件は未確認。画像処理品質の実行確認なし。 当方でインストール・推論・生成・ベンチ再現はしていない。

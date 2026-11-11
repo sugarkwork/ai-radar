@@ -1,5 +1,5 @@
 {
-  "count": 840,
+  "count": 841,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -11684,6 +11684,37 @@
       "type": "repo",
       "path": "entries/image-gen/renz1998-comfyui-prompt-atelier.md",
       "summary": "ローカルモデルで**生成用プロンプトを作る／広げる** ComfyUI ノード集。画像キャプション生成、キャラクター指示、DART タグ拡張、MOSS 用レイアウトJSON出力をまとめて扱う。"
+    },
+    {
+      "name": "P-H3-Image ComfyUI sample workflows",
+      "genre": "image-gen",
+      "url": "https://github.com/tori29umai0123/P-H3-Image_Workflows",
+      "repo": "tori29umai0123/P-H3-Image_Workflows",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "ライセンスは確認できていないため、利用・再配布条件は不明。 GitHub APIでライセンスを確認できていません。",
+      "stars": 2,
+      "forks": 1,
+      "open_issues": 0,
+      "size_kb": 57691,
+      "language": "unknown",
+      "created": "2026-11-06",
+      "updated": "2026-11-06",
+      "archived": false,
+      "license": "unknown",
+      "commits_30d": 4,
+      "commits_90d": 4,
+      "commit_cadence": "weekly",
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/SlipperyGem/status/2120080547779350641"
+      ],
+      "fetched_at": "2026-11-10T23:10:18.321747+00:00",
+      "path": "entries/image-gen/tori29umai0123-p-h3-image_workflows.md",
+      "summary": "キャラクター画像とポーズ参照画像を使い、参照画像2のポーズ・表情・構図をキャラクター画像1に適用するワークフローを提供する。手持ちオブジェクトの配置や手との接触を移す版、キャラクターのポーズと構図を保って衣装を適用する版もある。README記載の説明であり、出力はseed・モデル・参照画像によって変わる。"
     },
     {
       "type": "model",
