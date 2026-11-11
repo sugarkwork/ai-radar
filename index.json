@@ -1,5 +1,5 @@
 {
-  "count": 845,
+  "count": 846,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -3619,6 +3619,37 @@
       "fetched_at": "2026-11-09T21:35:35Z",
       "path": "entries/agent-framework/vxcontrol-pentagi.md",
       "summary": "平文で目標を書くと、調査・開発・インフラ担当に分かれたサブエージェント群が計画を立て、nmap・Metasploit・sqlmap など20以上のツールを Docker サンドボックス内で実行してレポートを返す。"
+    },
+    {
+      "name": "GBrain",
+      "genre": "agent-framework",
+      "url": "https://github.com/garrytan/gbrain",
+      "repo": "garrytan/gbrain",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEは作者の説明であり、記載された機能・性能を独立に検証したものではありません。",
+      "stars": 32488,
+      "forks": 4838,
+      "open_issues": 807,
+      "size_kb": 456904,
+      "language": "TypeScript",
+      "created": "2026-04-05",
+      "updated": "2026-11-10",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 100,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/GitTrend0x/status/2119950747898974362"
+      ],
+      "fetched_at": "2026-11-10T23:14:26.028410+00:00",
+      "path": "entries/agent-framework/garrytan-gbrain.md",
+      "summary": "明示的な事実とその出典を保存し、訂正や撤回を扱い、複数エージェントから同じ記憶を利用できる。キーワード検索から始め、意味検索、回答合成、バックグラウンド補強を追加できるとREADMEに記載。MCP経由の接続や、知識グラフによる関係検索も説明されている。"
     },
     {
       "name": "Composio",
