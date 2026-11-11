@@ -1,5 +1,5 @@
 {
-  "count": 799,
+  "count": 800,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -8970,6 +8970,42 @@
       "last_release_at": "",
       "path": "entries/coding-agent/uditakhourii-quicksilver.md",
       "summary": "リポジトリ全体や大量ファイルに「このファイルは認証まわりを実装しているか」等の yes/no 判定を一括実行し、該当ファイルだけを確信度付きで返す（qs filter）。"
+    },
+    {
+      "repo": "davekiss/mods",
+      "name": "davekiss/mods（leaks）",
+      "genre": "coding-agent",
+      "url": "https://github.com/davekiss/mods",
+      "last_release": "",
+      "last_release_at": "",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": [
+        "READMEを確認した。プラグインは実行しておらず、節約額の推計精度、週次利用枠への実際の影響、対応するClaude Codeのバージョン、ログの外部送信がないという作者の説明は未検証。",
+        "GitHubの公開Releases一覧にリリースの掲載はなかった。"
+      ],
+      "stars": 12,
+      "forks": 1,
+      "open_issues": 6,
+      "size_kb": 78,
+      "language": "JavaScript",
+      "created": "2026-10-12",
+      "updated": "2026-10-29",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 11,
+      "commits_90d": 11,
+      "commit_cadence": "weekly",
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/sumika45379/status/2116145600156856583"
+      ],
+      "fetched_at": "2026-11-10T12:58:05+00:00",
+      "path": "entries/coding-agent/davekiss-mods.md",
+      "summary": "直近7日間の会話ログを分析し、長い会話の再読み込みやキャッシュ期限切れ後の再書き込みなどを、削減見込みと対処法付きで表示する。期間は /leaks --days 30 で変更できる。"
     },
     {
       "repo": "GDG-OAU/agent-skills-gdg",
