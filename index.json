@@ -1,5 +1,5 @@
 {
-  "count": 856,
+  "count": 857,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -11687,6 +11687,37 @@
       "commits_90d": 31,
       "path": "entries/image-gen/qwenlm-qwen-image-2.1.md",
       "summary": "テキストからの画像生成（ネイティブ2K、既定 2048x2048 / 40 steps）"
+    },
+    {
+      "name": "GIF 工厂",
+      "genre": "image-gen",
+      "url": "https://github.com/WoYun520/gif-factory",
+      "repo": "WoYun520/gif-factory",
+      "license": "MIT",
+      "stars": 1092,
+      "language": "Python",
+      "created": "2026-11-05",
+      "updated": "2026-11-11",
+      "forks": 134,
+      "open_issues": 1,
+      "commits_30d": 27,
+      "commit_cadence": "daily",
+      "commits_90d": 27,
+      "size_kb": 445094,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "具体生成所用模型、依赖、运行条件、费用及完整最短操作步骤未能从所附 README 确认。",
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/Leviwoyun/status/2118197971112366538"
+      ],
+      "fetched_at": "2026-11-11T02:12:57.237855+00:00",
+      "path": "entries/image-gen/woyun520-gif-factory.md",
+      "summary": "README は「挑一种风格，给一张参考图，把角色、相片和想法做成 GIF，也能延伸成动态绘本」と説明し、ピクセル、人物・ペット、粘土風マスコット、光栅変画、漫画風動的ポスターなどの作例とスタイル別の制作方法を案内しています。ブランド短片も掲載対象として記載されています。"
     },
     {
       "repo": "JGRFW/comfyui-aicg3d-PoseSwap",
