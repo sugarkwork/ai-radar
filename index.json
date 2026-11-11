@@ -1,5 +1,5 @@
 {
-  "count": 830,
+  "count": 831,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -15859,6 +15859,37 @@
       "fetched_at": "2026-11-10T11:39:07+00:00",
       "path": "entries/other/yt-dlp-yt-dlp.md",
       "summary": "対応サイトの動画から、配信元が提供する字幕や自動生成字幕をファイルに保存できる。--skip-download で動画本体の保存を省ける。"
+    },
+    {
+      "name": "MarkItDown",
+      "genre": "other",
+      "url": "https://github.com/microsoft/markitdown",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "プロセスの権限でリソースへアクセスするため、READMEは信頼できない環境で入力をサニタイズし、用途に必要な範囲のconvert関数を使うよう注意しています。画像のキャプションと音声の文字起こしはWebホスト型サービスに依存します。変換の精度やサービス料金はREADMEから確認できません。",
+      "repo": "microsoft/markitdown",
+      "stars": 194754,
+      "forks": 14682,
+      "open_issues": 816,
+      "size_kb": 6015,
+      "language": "Python",
+      "created": "2024-11-13",
+      "updated": "2026-11-07",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 9,
+      "commits_90d": 100,
+      "commit_cadence": "weekly",
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/thegreatest_sv/status/2118043980420030914"
+      ],
+      "fetched_at": "2026-11-10T16:22:18.748508+00:00",
+      "path": "entries/other/microsoft-markitdown.md",
+      "summary": "PDF、PowerPoint、Word、Excel、画像、音声、HTML、CSV・JSON・XML、ZIP、YouTube URL、EPUBなどをMarkdownへ変換します。READMEでは、見出し・リスト・表・リンクなどの文書構造をMarkdownとして保持することを重視すると説明しています。"
     },
     {
       "repo": "career-ops-hq/career-ops",

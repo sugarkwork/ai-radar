@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 830 件 — リポジトリ 518, リンク集 113, 記事 132, モデル 53, プロンプト 14 / ⚑ 要確認 620 件
+収録 831 件 — リポジトリ 519, リンク集 113, 記事 132, モデル 53, プロンプト 14 / ⚑ 要確認 621 件
 
-## リポジトリ（518）
+## リポジトリ（519）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -310,11 +310,12 @@
 | [3dmodel](entries/3d-motion/fletcherholt-3dmodel-skill.md) ⚑ | 6 | 0 | 停滞 | 0 | 2026-06-16 | 2026-11-10 | 2026-11-10 | unknown |
 | [Lida-V/LidaAngelToon](entries/3d-motion/lida-v-lidaangeltoon.md) ⚑ | 6 | 0 | 週次 | 13 | 2026-10-17 | 2026-11-09 | 2026-11-10 | NOASSERTION |
 
-### その他（60）
+### その他（61）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
 | [yt-dlp](entries/other/yt-dlp-yt-dlp.md) ⚑ | 206,601 | 18,169 | 毎日 | 26 | 2026-11-04 | 2026-11-10 | 2026-11-10 | Unlicense |
+| [MarkItDown](entries/other/microsoft-markitdown.md) ⚑ | 194,754 | 14,682 | 週次 | 9 | 2026-11-07 | 2026-11-10 | 2026-11-11 | MIT |
 | [career-ops](entries/other/career-ops-hq-career-ops.md) | 81,473 | 14,978 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
 | [OBS Studio](entries/other/obsproject-obs-studio.md) ⚑ | 79,247 | 11,149 | 毎日 | 41 | 2026-11-10 | 2026-11-10 | 2026-11-10 | GPL-2.0 |
 | [MediaCrawler](entries/other/nanmicoder-mediacrawler.md) ⚑ | 70,741 | 13,389 | 毎日 | 21 | 2026-11-09 | 2026-11-09 | 2026-11-10 | 未確認（API は NOASSERTION、標準ライセンスファイル無し） |
@@ -1656,6 +1657,7 @@
 - [tencent/Qwen3.8-27B-DSpine-b16](models/model-serving/tencent-qwen3.8-27b-dspine-b16.md) — unverified / AR比2.71〜3.84倍はカード測定。DFlash2も2.33〜3.17倍で、全条件で圧倒するとは言えない。速度・受入長は未追試。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [unsloth/Qwen3.8-Flash-Next-GGUF](models/model-serving/unsloth-qwen3.8-flash-next-gguf.md) — unverified / サイズが小さいことは性能同等の証明ではない。原チェックのlicenseはotherで、基底モデルと量子化配布の条件を確認する。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [yt-dlp](entries/other/yt-dlp-yt-dlp.md) — unverified / 最新リリース、個別動画での字幕取得の成否と字幕品質は未確認。発見投稿が述べる制作本数や収益性も未検証。
+- [MarkItDown](entries/other/microsoft-markitdown.md) — unverified / プロセスの権限でリソースへアクセスするため、READMEは信頼できない環境で入力をサニタイズし、用途に必要な範囲のconvert関数を使うよう注意しています。画像のキャプションと音声の文字起こしはWebホスト型サービスに依存します。変換の精度やサービス料金はREADMEから確認できません。
 - [OBS Studio](entries/other/obsproject-obs-studio.md) — unverified / 最新リリースの年とタイムゾーンを含む公開日時は未確認。収録品質・負荷、エージェント経由の接続と録画、発見投稿で言及されたOpus 5.5との連携は未検証。90日コミット数は100件以上を表す。
 - [MediaCrawler](entries/other/nanmicoder-mediacrawler.md) — unverified / 各プラットフォームの利用規約と著作権に抵触しうる。収集した投稿・動画の再配布は権利者の許諾が必要。規約違反・アカウント停止のリスクは利用者側。
 - [FFmpeg](entries/other/ffmpeg-ffmpeg.md) — unverified / GitHubの最新リリース情報、個別ビルドで利用できるコーデック、処理速度・出力品質、AIエージェントからの実行は未検証。READMEはGitHubの公開rawファイルで確認した。 GitHub APIでライセンスを確認できていません。
