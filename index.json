@@ -1,5 +1,5 @@
 {
-  "count": 808,
+  "count": 809,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -6393,6 +6393,24 @@
       ],
       "fetched_at": "2026-11-10T09:28:11Z",
       "path": "articles/2026-11-02-author-giving-every-team-a-data-scientist-with-grok-bot.md"
+    },
+    {
+      "name": "Google Gemini Business Profile Tools Are Coming To Workspace",
+      "genre": "article",
+      "url": "https://www.searchenginejournal.com/google-gemini-business-profile-workspace-2/596120/",
+      "published": "2026-11-06",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "GoogleのSmall Business BulletinはWorkspace対応を「rolling out now」とする一方、確認したGoogleヘルプページは仕事用アカウントを対象外と記載。記事はこの不一致を指摘している。Workspaceへの提供時期や対象範囲は確定情報として扱わないこと。",
+      "type": "article",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/Nursing_DX/status/2119274934631555421"
+      ],
+      "fetched_at": "2026-11-10T13:51:53Z",
+      "path": "articles/2026-11-06-author-google-gemini-business-profile-tools-are-coming-to-workspace.md"
     },
     {
       "name": "Harness design for long-running application development",
