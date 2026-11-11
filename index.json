@@ -1,5 +1,5 @@
 {
-  "count": 868,
+  "count": 869,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -5657,6 +5657,37 @@
       "fetched_at": "2026-11-10T14:15:17.698097+00:00",
       "path": "entries/agent-framework/vouchdev-vouch.md",
       "summary": "LLMエージェント向けのGitネイティブな知識ベースを提供する。MCPサーバー、JSONLツールサーバー、CLIを備え、エージェントが提案した書き込みを人が承認してから保存する。承認済みクレームを根拠にトピックページをコンパイルし、引用を検証するとREADMEに記載されている。"
+    },
+    {
+      "name": "Spring AI TypeSafe",
+      "genre": "agent-framework",
+      "url": "https://github.com/spring-ai-community/spring-ai-typesafe",
+      "repo": "spring-ai-community/spring-ai-typesafe",
+      "stars": 64,
+      "forks": 19,
+      "open_issues": 19,
+      "size_kb": 1530,
+      "language": "Java",
+      "created": "2026-09-20",
+      "updated": "2026-10-05",
+      "archived": false,
+      "license": "Apache-2.0",
+      "commits_30d": 0,
+      "commits_90d": 30,
+      "commit_cadence": "monthly",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景・有効性・依存関係・実行条件。",
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/GitTrend0x/status/2120147118237114757"
+      ],
+      "fetched_at": "2026-11-11T06:10:44.581808+00:00",
+      "path": "entries/agent-framework/spring-ai-community-spring-ai-typesafe.md",
+      "summary": "JavaクライアントでTypeSafe AIのSystem One API（jev）を利用し、状態と型付き質問を渡して構造化された回答を取得できる。READMEによると、Spring AI連携にはModel-as-a-judge、guardrail、RAGの後処理、tool indexが含まれる。"
     },
     {
       "repo": "Balanov/latch",
