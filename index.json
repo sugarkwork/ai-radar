@@ -1,5 +1,5 @@
 {
-  "count": 817,
+  "count": 818,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -7507,6 +7507,37 @@
       "fetched_at": "2026-11-09T21:35:54Z",
       "path": "entries/coding-agent/addyosmani-agent-skills.md",
       "summary": "企画・仕様・計画・実装・テスト・レビュー・出荷という開発ライフサイクルを、25個の SKILL.md ワークフローとしてエージェントに踏ませる。各スキルは手順・検証条件・「サボる口実への反論」・レッドフラグまで含む。"
+    },
+    {
+      "name": "OpenDesign",
+      "genre": "coding-agent",
+      "url": "https://github.com/nexu-io/open-design",
+      "repo": "nexu-io/open-design",
+      "license": "Apache-2.0",
+      "stars": 106979,
+      "language": "TypeScript",
+      "created": "2026-04-28",
+      "updated": "2026-11-10",
+      "forks": 12169,
+      "open_issues": 1387,
+      "commits_30d": 100,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 3656611,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEだけでは実行時の依存関係、必要環境、料金の適用条件は確認できない。README記載の対応状況や製品機能はリポジトリ記載に基づく。",
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/thegreatest_sv/status/2116967509735747833"
+      ],
+      "fetched_at": "2026-11-10T14:10:20.961311+00:00",
+      "path": "entries/coding-agent/nexu-io-open-design.md",
+      "summary": "短い要件から、デザインシステムに沿うプロトタイプを作成し、チームからフィードバックを受けてエージェントに同じプロジェクト内で改善させる。READMEでは、スライド、画像、モーショングラフィックスの作成・確認・書き出しも紹介されている。"
     },
     {
       "repo": "karpathy/autoresearch",
