@@ -1,5 +1,5 @@
 {
-  "count": 792,
+  "count": 793,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -17659,6 +17659,38 @@
       "type": "repo",
       "path": "entries/prompt-design/yang0-handraw-style.md",
       "summary": "手描きイラスト〜写実写真までの **365種の画風**（FA〜FI の分類番号と 001〜365 の通し番号）、**170種のレイアウト型**（SNSカード24 / データ infographic 38 / 漫画コマ割り71 / IP デザイン13 / EC 用24）、**36種の単色テーマ**を番号で選び、中英バイリ"
+    },
+    {
+      "name": "logo-design-skill",
+      "genre": "prompt-design",
+      "repo": "kaankiziltug/logo-design-skill",
+      "url": "https://github.com/kaankiziltug/logo-design-skill",
+      "last_release": "v1.4.5",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "作者の手順と掲載例を確認した。スクリプトの実行、エージェント間の再現性、16 pxでの可読性や既存商標との類似性は独立検証していない。最新リリースは公開ページの表示で確認し、公開日時の完全な値は未確認。",
+      "stars": 6462,
+      "forks": 513,
+      "open_issues": 6,
+      "size_kb": 6755,
+      "language": "HTML",
+      "created": "2026-09-26",
+      "updated": "2026-11-06",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 8,
+      "commits_90d": 31,
+      "commit_cadence": "weekly",
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/opensourcelab9/status/2116138074505900234"
+      ],
+      "fetched_at": "2026-11-10T12:53:35Z",
+      "path": "entries/prompt-design/kaankiziltug-logo-design-skill.md",
+      "summary": "白黒のSVG候補を比較し、64・32・16 pxの表示と推奨案を確認してから方向を選ぶ。選んだ案を配色、ロゴの組み合わせ、ファビコン、利用ガイドへ展開する。"
     },
     {
       "type": "repo",
