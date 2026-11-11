@@ -1,5 +1,5 @@
 {
-  "count": 811,
+  "count": 812,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -4219,6 +4219,37 @@
       "fetched_at": "2026-11-09T21:32:53Z",
       "path": "entries/agent-framework/droidrun-mobilerun.md",
       "summary": "自然言語のゴールを渡すと、エージェントが画面を読み、tap・swipe・文字入力・アプリ起動まで自分で組み立てて実行する(Android 実機/エミュレータ、iOS 実機/シミュレータ)。"
+    },
+    {
+      "name": "firstmate",
+      "genre": "agent-framework",
+      "url": "https://github.com/kunchenguid/firstmate",
+      "repo": "kunchenguid/firstmate",
+      "license": "MIT",
+      "stars": 8753,
+      "language": "Shell",
+      "created": "2026-06-12",
+      "updated": "2026-11-10",
+      "forks": 2734,
+      "open_issues": 2663,
+      "commits_30d": 100,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 57032,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "実際の効果や、記載された要件以外の依存関係・実行条件は未検証。",
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/opensourcelab9/status/2116862853928095838"
+      ],
+      "fetched_at": "2026-11-10T14:03:09.098793+00:00",
+      "path": "entries/agent-framework/kunchenguid-firstmate.md",
+      "summary": "単一のエージェントとの対話を窓口に、タスクごとにエージェントを起動し、各自のgit worktreeで並行作業させて完了まで監督する。成果物としてPR、承認済みのローカルマージ、または調査レポートを扱う。"
     },
     {
       "repo": "AIPentest/CyberStrikeAI",
