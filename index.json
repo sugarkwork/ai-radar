@@ -1,5 +1,5 @@
 {
-  "count": 818,
+  "count": 819,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -18375,6 +18375,37 @@
       "last_release_at": "",
       "path": "entries/prompt-design/nidhinjs-prompt-master.md",
       "summary": "Claude のスキルとして動き、「どの AI ツール向けのプロンプトか」を判定したうえで、その道具に合った形式のプロンプトを1つ返す。"
+    },
+    {
+      "name": "scroll-world",
+      "genre": "prompt-design",
+      "url": "https://github.com/oso95/scroll-world",
+      "repo": "oso95/scroll-world",
+      "license": "MIT",
+      "stars": 10920,
+      "language": "JavaScript",
+      "created": "2026-07-06",
+      "updated": "2026-07-29",
+      "forks": 1190,
+      "open_issues": 10,
+      "commits_30d": 0,
+      "commit_cadence": "stale",
+      "commits_90d": 0,
+      "size_kb": 49,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "生成には外部サービスのCLI、認証情報、クレジットまたは従量課金が必要。README記載の価格や効果は独立検証していない。",
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/thegreatest_sv/status/2116967509735747833"
+      ],
+      "fetched_at": "2026-11-10T14:10:51.867000+00:00",
+      "path": "entries/prompt-design/oso95-scroll-world.md",
+      "summary": "業界やブランド向けに、スクロール位置でカメラ飛行を制御し、場面を途切れなくつなぐランディングページを生成する。シーン画像、場面内への移動動画、場面間の接続動画と、設定駆動のスクロールエンジンを用意する。"
     },
     {
       "repo": "yang0/handraw-style",
