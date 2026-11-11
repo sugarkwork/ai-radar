@@ -1,5 +1,5 @@
 {
-  "count": 852,
+  "count": 853,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -24191,6 +24191,37 @@
       "commits_90d": 46,
       "path": "entries/video-gen/ant-research-4danyone.md",
       "summary": "人物が1人写った普通のモノキュラ動画から、同期した多視点動画を生成する。入力にカメラパラメータは不要で、固定カメラも要求しない。"
+    },
+    {
+      "name": "ComfyUI MiniMax H3 Director workflows",
+      "genre": "video-gen",
+      "url": "https://github.com/huangserva/ComfyUI_MiniMaxH3_Director",
+      "repo": "huangserva/ComfyUI_MiniMaxH3_Director",
+      "license": "Apache-2.0",
+      "stars": 1485,
+      "language": "unknown",
+      "created": "2026-08-04",
+      "updated": "2026-08-04",
+      "forks": 152,
+      "open_issues": 2,
+      "commits_30d": 0,
+      "commit_cadence": "stale",
+      "commits_90d": 0,
+      "size_kb": 10,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "README报告的已验证环境仅覆盖 RTX 4090、ComfyUI 0.30.0、PyTorch 2.11.0 + CUDA 12.8 和 Ref2VA INT8；该环境下可运行 R2V、V2V、RV2V。T2V、I2V、FL2V 尚需 fl2va 权重。人物身份没有硬锁，README建议检查分段衔接与人物一致性。",
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/eva_love_1999/status/2118550439440584983"
+      ],
+      "fetched_at": "2026-11-11T01:32:13.907626+00:00",
+      "path": "entries/video-gen/huangserva-comfyui_minimaxh3_director.md",
+      "summary": "仓库保存5份可直接导入 ComfyUI 的 MiniMax H3 Director 工作流，覆盖 T2V 文生音视频、FL2V/I2V 首尾帧或单首帧图生视频、R2V 图片/视频/音频参考生成、V2V 按源视频时间轴分段编辑，以及 RV2V 源视频加参考图或参考音频。README说明导演台支持逐段运行与缓存，音频可选择"
     },
     {
       "repo": "DozenTwelve/Papermorph",
