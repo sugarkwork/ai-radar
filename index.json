@@ -1,5 +1,5 @@
 {
-  "count": 886,
+  "count": 887,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -18547,6 +18547,37 @@
       "fetched_at": "2026-11-10T09:50:44+00:00",
       "path": "entries/other/hahnec-color-matcher.md",
       "summary": "参照画像の色分布を入力画像に転写する。CLI では単一画像のほか、入力ディレクトリを指定した一括処理もできる。"
+    },
+    {
+      "name": "Awesome AI Pedia",
+      "genre": "other",
+      "url": "https://github.com/Awesome-AI-Pedia/Awesome-AI-Pedia",
+      "repo": "Awesome-AI-Pedia/Awesome-AI-Pedia",
+      "license": "MIT",
+      "language": "TypeScript",
+      "updated": "2026-11-10",
+      "commit_cadence": "weekly",
+      "archived": false,
+      "stars": 686,
+      "forks": 66,
+      "open_issues": 14,
+      "size_kb": 20793,
+      "created": "2026-08-03",
+      "commits_30d": 14,
+      "commits_90d": 55,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景・有効性・依存関係・実行条件。",
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/Ryrenz/status/2118314640027406685"
+      ],
+      "fetched_at": "2026-11-11T17:11:56.089318+00:00",
+      "path": "entries/other/awesome-ai-pedia-awesome-ai-pedia.md",
+      "summary": "AI ツールの使用ガイド、ベストプラクティス、実践例をまとめる。README では Claude Code、Cursor、MCP、Agent、Skills、Prompt 工程などを扱い、全文検索と暗色テーマを備えると説明されている。"
     },
     {
       "repo": "0xCodez/DuoDesk",

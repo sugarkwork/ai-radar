@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 886 件 — リポジトリ 566, リンク集 114, 記事 139, モデル 53, プロンプト 14 / ⚑ 要確認 674 件
+収録 887 件 — リポジトリ 567, リンク集 114, 記事 139, モデル 53, プロンプト 14 / ⚑ 要確認 675 件
 
-## リポジトリ（566）
+## リポジトリ（567）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -270,7 +270,7 @@
 | [GDG Agent Skillsの実演教材](entries/coding-agent/gdg-oau-agent-skills-gdg.md) ⚑ | 1 | 0 | 週次 | 13 | 2026-11-07 | 2026-11-10 | 2026-11-10 | unknown |
 | [Leash](entries/coding-agent/cmaintz-leash.md) ⚑ | 0 | 0 | 毎日 | 21 | 2026-11-06 | 2026-11-10 | 2026-11-11 | MIT |
 
-### その他（67）
+### その他（68）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -326,6 +326,7 @@
 | [VidStab](entries/other/georgmartius-vid.stab.md) ⚑ | 991 | 126 | 月次 | 0 | 2026-08-14 | 2026-11-10 | 2026-11-10 | unknown |
 | [DSH 破甲ワークフロー（dsh-jailbreak-workflow）](entries/other/minglink-dsh-jailbreak-workflow.md) ⚑ | 816 | 284 | 週次 | 18 | 2026-11-05 | 2026-11-09 | 2026-11-10 | 未確認（API は NOASSERTION、標準ライセンスファイル無し） |
 | [color-matcher](entries/other/hahnec-color-matcher.md) ⚑ | 706 | 50 | 停滞 | 0 | 2026-02-24 | 2026-11-10 | 2026-11-10 | GPL-3.0 |
+| [Awesome AI Pedia](entries/other/awesome-ai-pedia-awesome-ai-pedia.md) ⚑ | 686 | 66 | 週次 | 14 | 2026-11-10 | 2026-11-11 | 2026-11-11 | MIT |
 | [DuoDesk](entries/other/0xcodez-duodesk.md) ⚑ | 486 | 79 | 毎日 | 100+ | 2026-10-31 | 2026-11-10 | 2026-11-10 | GPL-3.0 |
 | [NamiAgent](entries/other/aa1143-namiagent.md) ⚑ | 483 | 53 | 毎日 | 20 | 2026-10-30 | 2026-11-10 | 2026-11-10 | MIT |
 | [Pixel Plays](entries/other/amirmushichge-pixel-plays.md) ⚑ | 448 | 43 | 月次 | 2 | 2026-10-31 | 2026-11-10 | 2026-11-10 | MIT |
@@ -1788,6 +1789,7 @@
 - [VidStab](entries/other/georgmartius-vid.stab.md) — unverified / 補正量・画質・処理速度は実測していない。READMEはmasterの仕様を含むため、最新公開リリースv1.1.2や各FFmpeg配布ビルドでの機能差は未確認。公開日の年は取得した表示から確定できなかった。ライセンス欄は親工程のAPI値を保持し、利用条件は対象バージョンのライセンス文書で確認する。 GitHub APIでライセンスを確認できていません。
 - [DSH 破甲ワークフロー（dsh-jailbreak-workflow）](entries/other/minglink-dsh-jailbreak-workflow.md) — prompt-injection / モデルの拒否応答を回避する『破甲（jailbreak）』プロンプトを自動生成するためのワークフロー。各サービスの利用規約違反になり得る。記録のみで、実行・生成した内容の利用はしない。
 - [color-matcher](entries/other/hahnec-color-matcher.md) — unverified / 著者による手法比較の独立再現、映像の時間方向の一貫性、現行環境での動作は未検証。GitHub は v0.5.0 を Latest と表示し、PyPI は 0.6.0 を掲載している。GitHub リリースの年を含む公開日は未確認。
+- [Awesome AI Pedia](entries/other/awesome-ai-pedia-awesome-ai-pedia.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [DuoDesk](entries/other/0xcodez-duodesk.md) — unverified / 最新リリースの公開日時と配布物の署名状態は未確認。対応 OS の組み合わせ別の動作、転送性能、通信の安全性は独立検証していない。Claude Code と Opus 5.5 の利用および開発規模は、候補が指す X 投稿を直接取得できず未確認。
 - [NamiAgent](entries/other/aa1143-namiagent.md) — unverified / 最新リリース、テストの成功、デモと実モデルの動作、権限機構の実効性、モデルAPIの料金は未確認。著者は、権限機構で意図的な攻撃を防げないと明記している。
 - [Pixel Plays](entries/other/amirmushichge-pixel-plays.md) — unverified / ['候補投稿が言及するClaude Opus 5.5の使用は、作者投稿を取得できなかったため未確認。最新リリース、ブラウザでの動作・性能、別題材への改変結果も未確認。']
