@@ -1,5 +1,5 @@
 {
-  "count": 902,
+  "count": 903,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -18661,6 +18661,37 @@
       "fetched_at": "2026-11-10T09:24:07+00:00",
       "path": "entries/other/physicsdolphin-nv-uefi-unlocker.md",
       "summary": "開発元はRTX 20／30／40シリーズを対象とし、GTX 16は理論上の対応としている。設定は揮発性で、電源断で消える。"
+    },
+    {
+      "name": "cannon-es",
+      "genre": "other",
+      "url": "https://github.com/pmndrs/cannon-es",
+      "repo": "pmndrs/cannon-es",
+      "license": "MIT",
+      "language": "TypeScript",
+      "commits_30d": 0,
+      "commit_cadence": "stale",
+      "commits_90d": 0,
+      "archived": false,
+      "stars": 2090,
+      "forks": 158,
+      "open_issues": 62,
+      "size_kb": 11426,
+      "created": "2020-03-03",
+      "updated": "2024-01-06",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景・有効性・依存関係・実行条件。",
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/RealMarvelX/status/2118330503040221345"
+      ],
+      "fetched_at": "2026-11-11T20:09:08.495552+00:00",
+      "path": "entries/other/pmndrs-cannon-es.md",
+      "summary": "cannon.jsを基にした物理エンジン。READMEでは、型安全なフラットバンドルとしてESMとCJSに対応し、tree shakingが可能と説明している。また、Trigger bodies、スリープ中の物体への力・インパルス適用時の再起床、摩擦計算に使う重力の設定などの変更が記載されている。"
     },
     {
       "repo": "morluto/awesome-reverse-engineering",
