@@ -1,5 +1,5 @@
 {
-  "count": 823,
+  "count": 824,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -5316,6 +5316,37 @@
       "fetched_at": "2026-11-09T21:34:42Z",
       "path": "entries/agent-framework/qkal-canny.md",
       "summary": "Claude Code と Codex CLI のフックとして動き、コード編集の後にテスト・ビルド・lint・型チェックが一度も exit 0 で通っていない状態でエージェントが「完了」と報告すると、Stop をブロックして理由（変更ファイル、最後のコマンドと終了コード、何がチェックに数えるか）を返す。"
+    },
+    {
+      "name": "vouch",
+      "genre": "agent-framework",
+      "url": "https://github.com/vouchdev/vouch",
+      "repo": "vouchdev/vouch",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEの説明に基づく機能であり、効果や実行結果は未検証。LLM機能にはANTHROPIC_API_KEYを渡す手順が記載されているが、料金や利用条件は不明。",
+      "stars": 67,
+      "forks": 62,
+      "open_issues": 45,
+      "size_kb": 22305,
+      "language": "Python",
+      "created": "2026-05-17",
+      "updated": "2026-08-23",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 0,
+      "commits_90d": 0,
+      "commit_cadence": "stale",
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/Bober_smart/status/2116978958121964030"
+      ],
+      "fetched_at": "2026-11-10T14:15:17.698097+00:00",
+      "path": "entries/agent-framework/vouchdev-vouch.md",
+      "summary": "LLMエージェント向けのGitネイティブな知識ベースを提供する。MCPサーバー、JSONLツールサーバー、CLIを備え、エージェントが提案した書き込みを人が承認してから保存する。承認済みクレームを根拠にトピックページをコンパイルし、引用を検証するとREADMEに記載されている。"
     },
     {
       "repo": "Balanov/latch",
