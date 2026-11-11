@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 790 件 — リポジトリ 479, リンク集 113, 記事 131, モデル 53, プロンプト 14 / ⚑ 要確認 580 件
+収録 791 件 — リポジトリ 480, リンク集 113, 記事 131, モデル 53, プロンプト 14 / ⚑ 要確認 581 件
 
-## リポジトリ（479）
+## リポジトリ（480）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -447,7 +447,7 @@
 | [GLM-5.3-Flash 2×RTX PRO 6000 配備レシピ（TensorFold）](entries/model-serving/miaai-lab-glm-5.3-flash-2x-rtx-pro-6000.md) ⚑ | 23 | 2 | 週次 | 16 | 2026-11-07 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
 | [ausboss/ComfyUI-AusBoss-Model-Downloader](entries/model-serving/ausboss-comfyui-ausboss-model-downloader.md) ⚑ | 9 | 1 | 週次 | 5 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
 
-### MCPサーバー（19）
+### MCPサーバー（20）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -457,6 +457,7 @@
 | [Penpot](entries/mcp-server/penpot-penpot.md) ⚑ | 62,245 | 4,393 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | MPL-2.0 |
 | [Playwright MCP](entries/mcp-server/microsoft-playwright-mcp.md) | 39,387 | 3,410 | 週次 | 18 | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
 | [changedetection.io](entries/mcp-server/dgtlmoon-changedetection.io.md) ⚑ | 35,707 | 2,230 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | Apache-2.0 |
+| [OpenSEO](entries/mcp-server/every-app-open-seo.md) ⚑ | 27,127 | 3,759 | 毎日 | 100+ | 2026-11-07 | 2026-11-10 | 2026-11-11 | MIT |
 | [Framelink MCP for Figma](entries/mcp-server/glips-figma-context-mcp.md) ⚑ | 16,187 | 1,282 | 停滞 | 0 | 2026-10-27 | 2026-11-10 | 2026-11-10 | MIT |
 | [treg（REA growth スキル同梱のエージェント用ツールレジストリ）](entries/mcp-server/superdesigndev-treg.md) | 7,723 | 704 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 + 追加条項（GitHub API は NOASSERTION） |
 | [Exa MCP Server](entries/mcp-server/exa-labs-exa-mcp-server.md) ⚑ | 5,221 | 414 | 週次 | 9 | 2026-11-05 | 2026-11-10 | 2026-11-10 | MIT |
@@ -1550,6 +1551,7 @@
 - [Home Assistant Core](entries/mcp-server/home-assistant-core.md) — unverified / 最新リリースのタグと公開日時、候補投稿に登場する自作 Grok Bot との互換性、実機での接続と操作は未確認。コミット件数は両期間とも取得上限の100件に達している。
 - [Penpot](entries/mcp-server/penpot-penpot.md) — unverified / MCPの接続、編集結果、生成コードの忠実度や往復変換で保持される範囲は独立に実測していない。最新リリースのタグは公開ページで確認したが、年とタイムゾーンを含む公開日時は未確認。
 - [changedetection.io](entries/mcp-server/dgtlmoon-changedetection.io.md) — unverified / 公開資料の記載を確認した。最新リリースの公開日時は年とタイムゾーンまで確認できていない。監視の検出精度・通知遅延、MCP接続の実動作、発見投稿のGrok Botとの連携は未検証。
+- [OpenSEO](entries/mcp-server/every-app-open-seo.md) — unverified / MCP接続とセルフホストは公式手順の確認まで。検索データの精度、他製品との比較、最新リリース、Cloudflare無料枠での稼働は未確認。
 - [Framelink MCP for Figma](entries/mcp-server/glips-figma-context-mcp.md) — unverified / スクリーンショット入力に対する再現精度の優位性は作者の主張。実行による再現、Claude Code固有の設定と互換性、Figmaのプラン別料金・API利用条件は未確認。
 - [Exa MCP Server](entries/mcp-server/exa-labs-exa-mcp-server.md) — unverified / GitHub の最新リリース用 URL は一覧に転送され、最新リリースのタグと公開日時は確認できなかった。README は GitHub の raw ファイルで確認した。検索精度、本文取得の成功率、匿名枠の具体的な上限、発見投稿が述べる YouTube のトレンド検出や動画制作・収益化の成果は未検証。
 - [designlang](entries/mcp-server/manavarya09-design-extract.md) — unverified / 最新リリースの公開日時は未確認。抽出精度、サイト間での再現性、CLI・MCP の実動作は未検証。README の出力例は作者による掲載例。

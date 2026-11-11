@@ -1,5 +1,5 @@
 {
-  "count": 790,
+  "count": 791,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -13249,6 +13249,37 @@
       "fetched_at": "2026-11-10T11:12:36+00:00",
       "path": "entries/mcp-server/dgtlmoon-changedetection.io.md",
       "summary": "公開ページの価格表示や在庫表示、JSON APIの値を監視し、差分を履歴に残す。CSS、XPath、JSONPath、jqで監視範囲を絞り、変更時はApprise経由で通知できる。"
+    },
+    {
+      "repo": "every-app/open-seo",
+      "name": "OpenSEO",
+      "genre": "mcp-server",
+      "url": "https://github.com/every-app/open-seo",
+      "stars": 27127,
+      "forks": 3759,
+      "open_issues": 109,
+      "size_kb": 38925,
+      "language": "TypeScript",
+      "created": "2026-02-27",
+      "updated": "2026-11-07",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 100,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "MCP接続とセルフホストは公式手順の確認まで。検索データの精度、他製品との比較、最新リリース、Cloudflare無料枠での稼働は未確認。",
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/opensourcelab9/status/2115934204165062890"
+      ],
+      "fetched_at": "2026-11-10T12:48:03+00:00",
+      "path": "entries/mcp-server/every-app-open-seo.md",
+      "summary": "キーワード調査、順位追跡、競合分析、被リンク調査、サイト監査、AI検索での可視性調査を扱う。公式MCPガイドでは、検索量・難易度・CPCやGoogleのオーガニック検索結果をAIクライアントから取得できるとしている。"
     },
     {
       "repo": "GLips/Figma-Context-MCP",
