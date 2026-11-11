@@ -1,5 +1,5 @@
 {
-  "count": 911,
+  "count": 912,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -20916,6 +20916,37 @@
       "fetched_at": "2026-11-10T13:52:56.944312+00:00",
       "path": "entries/prompt-design/owl-listener-designer-skills.md",
       "summary": "デザインリサーチ、デザインシステム、UX戦略、UI、インタラクション、プロトタイピングとテスト、デザイン運用などに関するスキル、コマンド、プラグインを提供する。READMEには全体で273スキルと76コマンド、5コレクションとあり、このリポジトリのデザイン実務コレクションについては9プラグイン、111スキル、34コマン"
+    },
+    {
+      "name": "GitReverse",
+      "genre": "prompt-design",
+      "url": "https://github.com/filiksyos/gitreverse",
+      "repo": "filiksyos/gitreverse",
+      "stars": 2081,
+      "forks": 337,
+      "open_issues": 18,
+      "size_kb": 10788,
+      "language": "TypeScript",
+      "created": "2026-03-31",
+      "updated": "2026-11-10",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 8,
+      "commits_90d": 31,
+      "commit_cadence": "weekly",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景・有効性・依存関係・実行条件。",
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/RealMarvelX/status/2118349624763207790"
+      ],
+      "fetched_at": "2026-11-11T22:14:14.260367+00:00",
+      "path": "entries/prompt-design/filiksyos-gitreverse.md",
+      "summary": "公開GitHubリポジトリのメタデータ、ルートのファイルツリー（深さ1）、READMEを使い、Cursor、Claude Code、Codexなどに入力する想定の短い会話調プロンプトを1つ生成する。READMEでは、GitHub URLまたはowner/repo形式をホーム画面に入力する方法と、/owner/repo形"
     },
     {
       "repo": "zhanghao123vip/ai-manju-skills",
