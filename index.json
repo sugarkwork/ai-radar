@@ -1,5 +1,5 @@
 {
-  "count": 793,
+  "count": 794,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -8566,6 +8566,38 @@
       "last_release_at": "2026-10-29",
       "path": "entries/coding-agent/nano-muse-nanomuse.md",
       "summary": "Linuxシェル、ブラウザ、MCPサーバー・スキル、スマホアプリやPC画面の操作（APIがないものも画面越しに）。削除・送信・支払い前に確認を求める。パスワードやCAPTCHAはユーザーに委ね、Doneで再開。"
+    },
+    {
+      "repo": "dzhng/jevgrep",
+      "name": "Jevgrep",
+      "genre": "coding-agent",
+      "url": "https://github.com/dzhng/jevgrep",
+      "license": "MIT",
+      "stars": 3205,
+      "language": "TypeScript",
+      "created": "2026-09-26",
+      "updated": "2026-11-08",
+      "forks": 245,
+      "open_issues": 10,
+      "commits_30d": 71,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 11750,
+      "archived": false,
+      "last_release": "v0.8.0",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "CLIは実行していない。作者の費用比較を独立に再現しておらず、他のリポジトリへの一般化、速度改善、各プロバイダーの現行料金、GitHubリリースの完全な公開日時は未確認。",
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/thegreatest_sv/status/2116142322543198271"
+      ],
+      "fetched_at": "2026-11-10T12:54:07+00:00",
+      "path": "entries/coding-agent/dzhng-jevgrep.md",
+      "summary": "リポジトリ内の挙動を自然言語で質問すると、関連ファイルと行番号付きのソース抜粋を標準出力に返す。Python、TypeScript／JavaScript、Go、Rustでは宣言を解析し、その他のテキストには代替処理を使う。"
     },
     {
       "repo": "QoderAI/better-harness",

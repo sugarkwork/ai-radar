@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 793 件 — リポジトリ 482, リンク集 113, 記事 131, モデル 53, プロンプト 14 / ⚑ 要確認 583 件
+収録 794 件 — リポジトリ 483, リンク集 113, 記事 131, モデル 53, プロンプト 14 / ⚑ 要確認 584 件
 
-## リポジトリ（482）
+## リポジトリ（483）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -293,7 +293,7 @@
 | [clash-jev](entries/other/bytelabs-oss-clash-jev.md) ⚑ | 37 | 11 | 月次 | 2 | 2026-10-14 | 2026-11-10 | 2026-11-11 | MIT |
 | [Jev Grand Prix](entries/other/enoyola-jev-grand-prix.md) ⚑ | 7 | 0 | 月次 | 0 | 2026-09-21 | 2026-11-10 | 2026-11-11 | MIT |
 
-### コーディングエージェント（54）
+### コーディングエージェント（55）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -339,6 +339,7 @@
 | [Beacon](entries/coding-agent/asymptote-labs-agent-beacon.md) ⚑ | 3,410 | 302 | 毎日 | 100+ | 2026-11-09 | 2026-11-10 | 2026-11-10 | MIT |
 | [oh-my-mermaid（omm）](entries/coding-agent/oh-my-mermaid-oh-my-mermaid.md) | 3,389 | 267 | 停滞 | 0 | 2026-04-07 | 2026-11-09 | 2026-11-10 | MIT |
 | [nanoMuse — 自分のデバイスで動くオープンソースパーソナルエージェント](entries/coding-agent/nano-muse-nanomuse.md) ⚑ | 3,358 | 402 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
+| [Jevgrep](entries/coding-agent/dzhng-jevgrep.md) ⚑ | 3,205 | 245 | 毎日 | 71 | 2026-11-08 | 2026-11-10 | 2026-11-11 | MIT |
 | [Better Harness](entries/coding-agent/qoderai-better-harness.md) ⚑ | 2,444 | 204 | 週次 | 12 | 2026-11-07 | 2026-11-10 | 2026-11-10 | MIT |
 | [ppmpreetham/BUI](entries/coding-agent/ppmpreetham-bui.md) ⚑ | 2,363 | 95 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
 | [reacher-z/Awesome-REA](entries/coding-agent/reacher-z-awesome-rea.md) ⚑ | 2,312 | 421 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
@@ -1435,6 +1436,7 @@
 - [tstack](entries/coding-agent/t3dotgg-tstack.md) — unverified / 各スキルの実行結果、Claude CodeとCodex間の挙動差、レビュー品質や作業時間への効果は未検証。GitHubの公開Releases一覧には掲載なし。
 - [Beacon](entries/coding-agent/asymptote-labs-agent-beacon.md) — unverified / 最新版のタグ・公開日時、投稿にある beacon handoff resume の具体的な挙動、エージェント間の再利用による時間短縮や成功率、Beacon Cloudの料金は未確認。対話セットアップではBeacon Cloudが事前選択され、確定すると収集した履歴の転送が始まる。
 - [nanoMuse — 自分のデバイスで動くオープンソースパーソナルエージェント](entries/coding-agent/nano-muse-nanomuse.md) — unverified / Meta Platformsとは無関係の独立コミュニティプロジェクト。MuseはMetaの商標。中国大陸の携帯番号登録が必要な場合がある。デスクトップ版は未公証・未署名。当方未インストール。 当方でインストール・動作・性能の実行検証はしていない。
+- [Jevgrep](entries/coding-agent/dzhng-jevgrep.md) — unverified / CLIは実行していない。作者の費用比較を独立に再現しておらず、他のリポジトリへの一般化、速度改善、各プロバイダーの現行料金、GitHubリリースの完全な公開日時は未確認。
 - [Better Harness](entries/coding-agent/qoderai-better-harness.md) — unverified / 公開文書で仕様を確認した。実行時の動作、ホスト間の互換性、導入前後の改善効果、最新リリースのタグと公開日は未確認。MITはリポジトリのライセンスで、ホストの利用条件・料金は未確認。
 - [ppmpreetham/BUI](entries/coding-agent/ppmpreetham-bui.md) — unverified / 即時モードではなく一つのノードツリーを保持する方式。IME・スクリーンリーダー未対応。GPL-3.0-or-laterで組込み配布の条件に注意。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [reacher-z/Awesome-REA](entries/coding-agent/reacher-z-awesome-rea.md) — unverified / indexed repos3309は自動収集で未レビュー。数の多さや公開索引を各項目の安全性・有用性の保証としない。 当方でインストール・推論・生成・ベンチ再現はしていない。
