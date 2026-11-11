@@ -1,5 +1,5 @@
 {
-  "count": 876,
+  "count": 877,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -23923,6 +23923,37 @@
       "last_release_at": "2026-11-03",
       "path": "entries/video-gen/paperjs-paper.js.md",
       "summary": "ベクターグラフィックスをスクリプトで扱うPaper.js。"
+    },
+    {
+      "name": "MoviePy",
+      "genre": "video-gen",
+      "url": "https://github.com/Zulko/moviepy",
+      "repo": "Zulko/moviepy",
+      "license": "MIT",
+      "stars": 15136,
+      "language": "Python",
+      "created": "2013-08-12",
+      "updated": "2026-08-26",
+      "forks": 2147,
+      "open_issues": 96,
+      "commits_30d": 0,
+      "commit_cadence": "stale",
+      "commits_90d": 1,
+      "size_kb": 169976,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "README says MoviePy is slower than using ffmpeg directly. Version 1 is no longer maintained; version 2 introduced breaking changes.",
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/AIExplorerTim/status/2118242415219982564"
+      ],
+      "fetched_at": "2026-11-11T08:18:27.582682+00:00",
+      "path": "entries/video-gen/zulko-moviepy.md",
+      "summary": "Pythonで動画のカット、結合、タイトル挿入、動画合成、動画処理、カスタムエフェクト作成ができる。音声・動画を読み込み、クリップを合成して出力できる。READMEの例では動画の一部を切り出し、音量を調整し、タイトルを重ねて書き出している。"
     },
     {
       "repo": "yihui-dev/awesome-opus5-5-videos",

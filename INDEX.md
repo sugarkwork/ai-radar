@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 876 件 — リポジトリ 557, リンク集 113, 記事 139, モデル 53, プロンプト 14 / ⚑ 要確認 665 件
+収録 877 件 — リポジトリ 558, リンク集 113, 記事 139, モデル 53, プロンプト 14 / ⚑ 要確認 666 件
 
-## リポジトリ（557）
+## リポジトリ（558）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -93,13 +93,13 @@
 | [vouch](entries/agent-framework/vouchdev-vouch.md) ⚑ | 67 | 62 | 停滞 | 0 | 2026-08-23 | 2026-11-10 |  | MIT |
 | [Spring AI TypeSafe](entries/agent-framework/spring-ai-community-spring-ai-typesafe.md) ⚑ | 64 | 19 | 月次 | 0 | 2026-10-05 | 2026-11-11 |  | Apache-2.0 |
 | [LATCH](entries/agent-framework/balanov-latch.md) | 63 | 1 | 毎日 | 21 | 2026-11-09 | 2026-11-09 |  | MIT |
-| [Nod](entries/agent-framework/n8n-io-nod.md) ⚑ | 41 | 3 | 毎日 | 100+ | 2026-11-11 | 2026-11-11 | 2026-11-11 | Apache-2.0 |
+| [Nod](entries/agent-framework/n8n-io-nod.md) ⚑ | 41 | 3 | 毎日 | 100+ | 2026-11-11 | 2026-11-11 |  | Apache-2.0 |
 | [BetterSearch](entries/agent-framework/ry0narushima-bettersearch.md) | 40 | 4 | 週次 | 10 | 2026-10-18 | 2026-11-09 |  | MIT |
 | [X Virality Score](entries/agent-framework/monkeyteamvip-x-virality-score.md) ⚑ | 35 | 19 | 月次 | 3 | 2026-10-27 | 2026-11-09 |  | MIT |
 | [jevwire](entries/agent-framework/brainwires-jevwire.md) ⚑ | 27 | 6 | 週次 | 11 | 2026-11-06 | 2026-11-11 |  | MIT |
 | [web-api-skills](entries/agent-framework/oxylabs-web-api-skills.md) | 13 | 1 | 週次 | 11 | 2026-11-09 | 2026-11-09 |  | MIT |
 
-### 動画生成パイプライン（80）
+### 動画生成パイプライン（81）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Concat](entries/video-gen/jub0t-concat.md) ⚑ | 16,151 | 2,005 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 |  | AGPL-3.0 |
 | [maxwellito/vivus](entries/video-gen/maxwellito-vivus.md) ⚑ | 15,479 | 1,121 | 停滞 | 0 | 2022-07-06 | 2026-11-09 |  | MIT |
 | [paperjs/paper.js](entries/video-gen/paperjs-paper.js.md) ⚑ | 15,192 | 1,260 | 毎日 | 100+ | 2026-11-06 | 2026-11-09 |  | NOASSERTION |
+| [MoviePy](entries/video-gen/zulko-moviepy.md) ⚑ | 15,136 | 2,147 | 停滞 | 0 | 2026-08-26 | 2026-11-11 | 2026-11-11 | MIT |
 | [awesome-opus5-5-videos](entries/video-gen/yihui-dev-awesome-opus5-5-videos.md) | 14,532 | 1,532 | 週次 | 4 | 2026-10-13 | 2026-11-09 |  | MIT |
 | [OpenCreator](entries/video-gen/krillinai-opencreator.md) | 14,269 | 1,590 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 |  | Apache-2.0 |
 | [Lemo-Opuscar](entries/video-gen/lemomo-ai-lemo-opuscar.md) | 14,050 | 1,690 | 毎日 | 100+ | 2026-11-08 | 2026-11-09 |  | MIT (コード) / CC BY 4.0 (スタイル記述) |
@@ -1897,6 +1898,7 @@
 - [Concat](entries/video-gen/jub0t-concat.md) — unverified / AGPL-3.0。モデルには別ライセンスの可能性がある。オフライン動作や4K出力は当方未検証。 実行・品質は未検証。
 - [maxwellito/vivus](entries/video-gen/maxwellito-vivus.md) — unverified / MIT表記。一覧の制作費代替の主張は独立試験なし。入力SVGの権利とブラウザ表示を別途確認する。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [paperjs/paper.js](entries/video-gen/paperjs-paper.js.md) — unverified / LICENSE.txtでMIT本文を原チェック確認。実行負荷・ブラウザ互換・制作効果は未検証。 当方でインストール・推論・生成・ベンチ再現はしていない。
+- [MoviePy](entries/video-gen/zulko-moviepy.md) — unverified / README says MoviePy is slower than using ffmpeg directly. Version 1 is no longer maintained; version 2 introduced breaking changes.
 - [huashu-art-motion](entries/video-gen/alchaincyf-huashu-art-motion.md) — unverified / 投稿の「導入から10分で完成」「Opus 5.5 が作った」は制作者・紹介者の主張で、第三者の計測ではない。README/SKILL.md 内で画風数は「実装済み36種＋研究配方16〜17種（カード計53枚）」と数え方が揺れ、研究配方は作者自身が未検証と明記している。画風の一致度を定量評価した公開ベンチマークはない。
 - [JuneYaooo/rea-video](entries/video-gen/juneyaooo-rea-video.md) — unverified / 制作方式98.3%等の的中率はeval資料の作者評価。未知映像の制作過程を確実に特定できるとは限らず、元映像の権利も確認する。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [OpenSelena/omniget](entries/video-gen/openselena-omniget.md) — unverified / 有料講座サイトの取得機能を含む。自分の権利または明示許諾がある資料だけに限定し、有料講座の無断取得・保護回避には使わない。原記録は無断DLの実行・配布を確認しておらず潜在用途だけでは除外しない。 当方でインストール・推論・生成・ベンチ再現はしていない。
