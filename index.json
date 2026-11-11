@@ -1,5 +1,5 @@
 {
-  "count": 861,
+  "count": 862,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -9689,6 +9689,37 @@
       "fetched_at": "2026-11-10T14:14:46.869661+00:00",
       "path": "entries/coding-agent/charlie947-ai-second-brain.md",
       "summary": "3段階の手順を案内するClaude Code skill。ChatGPTとClaudeの履歴をタグ付きObsidian vaultに整理する「AI Brain」、raw/ と wiki/ を使って調査資料からwikiを構成する「Karpathy Wiki」、Gmail・NotebookLM・Granolaとの接続やiM"
+    },
+    {
+      "name": "open-source-hands",
+      "genre": "coding-agent",
+      "url": "https://github.com/abouchedidxcode/open-source-hands",
+      "repo": "abouchedidxcode/open-source-hands",
+      "license": "MIT",
+      "stars": 205,
+      "language": "TypeScript",
+      "created": "2026-11-03",
+      "updated": "2026-11-03",
+      "forks": 30,
+      "open_issues": 1,
+      "commits_30d": 2,
+      "commit_cadence": "monthly",
+      "commits_90d": 2,
+      "size_kb": 5838,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景・有効性・依存関係・実行条件。",
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/tokufxug/status/2118212439187804520"
+      ],
+      "fetched_at": "2026-11-11T04:14:50.856077+00:00",
+      "path": "entries/coding-agent/abouchedidxcode-open-source-hands.md",
+      "summary": "READMEによると、Google MediaPipe Hand Landmarkerの21点を使い、20種のポーズ、16種の動き、5種の両手ジェスチャー、およびピンチ強度や手の位置などの連続値をゲーム入力に変換するTypeScriptキットを提供する。三.js製のゲーム用テンプレート、Gesture Lab、デモ、サ"
     },
     {
       "type": "repo",
