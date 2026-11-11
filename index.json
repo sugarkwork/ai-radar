@@ -1,5 +1,5 @@
 {
-  "count": 820,
+  "count": 821,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -4917,6 +4917,37 @@
       "last_release_at": "2026-11-06",
       "path": "entries/agent-framework/nanmicoder-dsh-agent-teams.md",
       "summary": "DSHで複数エージェントの役割を組み合わせるためのdsh-agent-teams。"
+    },
+    {
+      "name": "karpathy-llm-wiki",
+      "genre": "agent-framework",
+      "url": "https://github.com/Astro-Han/karpathy-llm-wiki",
+      "repo": "Astro-Han/karpathy-llm-wiki",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEに記載された利用統計や運用実績はREADME上の説明であり、独立検証していない。インストール方法としてnpx add-skillが記載されているが、実行条件や追加依存関係はREADMEだけでは確認できない。",
+      "stars": 2718,
+      "forks": 314,
+      "open_issues": 11,
+      "size_kb": 372,
+      "language": "Python",
+      "created": "2026-04-05",
+      "updated": "2026-07-23",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 0,
+      "commits_90d": 0,
+      "commit_cadence": "stale",
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/Bober_smart/status/2116978958121964030"
+      ],
+      "fetched_at": "2026-11-10T14:14:31.536519+00:00",
+      "path": "entries/agent-framework/astro-han-karpathy-llm-wiki.md",
+      "summary": "LLMエージェントがソースをraw/に取り込み、持続的な知識ページをwiki/に作成・更新する。wiki内を検索してページへの引用付きで回答し、索引・リンク・wikiの状態をlintする。"
     },
     {
       "repo": "stripe/ai",
