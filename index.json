@@ -1,5 +1,5 @@
 {
-  "count": 834,
+  "count": 835,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -25022,6 +25022,24 @@
       "fetched_at": "2026-11-08T04:58:00Z",
       "path": "links/video-gen/higgsfield.ai-higgsfield-genjutsu.md",
       "summary": "撮影済みの実写動画の動き・カメラ・タイミングをそのまま残し、演じている人物や周囲の世界だけを差し替える動画ツール。AIインフルエンサーの「実写の動きに顔だけ載せる」工程を担う。"
+    },
+    {
+      "name": "History Forcing: Distilling History-Dependent Continuations for Long-Horizon Video World Models",
+      "genre": "video-gen",
+      "url": "https://arxiv.org/abs/2611.02782",
+      "published": "2026-11-02",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "性能値は論文著者らの評価結果であり、独立検証は未確認。投稿文の「minute-long clips」は論文の60秒評価を指すが、実用環境で同様の一貫性が得られることまでは示さない。",
+      "type": "article",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/Machinedelusion/status/2118074050539122800"
+      ],
+      "fetched_at": "2026-11-10T17:12:19Z",
+      "path": "articles/2026-11-02-author-history-forcing-distilling-history-dependent-continuations-for-long-horizon-vide.md"
     },
     {
       "type": "article",

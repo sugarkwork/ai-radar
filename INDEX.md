@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 834 件 — リポジトリ 522, リンク集 113, 記事 132, モデル 53, プロンプト 14 / ⚑ 要確認 624 件
+収録 835 件 — リポジトリ 522, リンク集 113, 記事 133, モデル 53, プロンプト 14 / ⚑ 要確認 625 件
 
 ## リポジトリ（522）
 
@@ -1070,7 +1070,7 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（132）
+## 記事（133）
 
 ### 記事（73）
 
@@ -1148,7 +1148,7 @@
 - **[海外版noteで日本語の知識を英語圏に販売するAI活用記事](articles/2026-11-09-https-x.com-i-article-2117172572655849472.md)** ⚑  @pometa_afi
 - **[自主制作AIドラマ《最后的巨魔》](articles/2026-10-22-jiuyueaigc-ai.md)** ⚑  @JiuYueAIGC
 
-### 動画生成パイプライン（17）
+### 動画生成パイプライン（18）
 
 - **[AIアニメ動画を「作って終わり」にしない。0→1で作品を作り、最初の売上につなげる完全ロードマップ](articles/2026-10-23-8fa0ce29-ai-0-1-ac6dbbe07b.md)** ⚑  paid / おかぴ
 - **[AIインフルエンサー量産術：Higgsfield AI Influencer＋Genjutsuで作る架空キャラ](articles/2026-10-11-y0urdumble-ai-higgsfield-ai-influencer-genjutsu.md)** ⚑  @Y0urDumble
@@ -1158,6 +1158,7 @@
 - **[Claude Code・Three.js・Canvas2D・ffmpegによるモーション制作手順](articles/2026-11-09-https-x.com-korodesign-status-2118900645868794342.md)** ⚑  @korodesign
 - **[Codex + Seedance 2.5 で2Dアニメを1コマ打ちにするワークフロー](articles/2026-11-08-kof97ai-codex-seedance-keyframe.md)** ⚑  @KOF97AI
 - **[GoShortのAI短編ドラマ制作・配信構想](articles/2026-11-09-goshort-goshort-ai.md)** ⚑  GoShort
+- **[History Forcing: Distilling History-Dependent Continuations for Long-Horizon Video World Models](articles/2026-11-02-author-history-forcing-distilling-history-dependent-continuations-for-long-horizon-vide.md)** ⚑
 - **[HyperFlow H3 Flash 第三者速度比較](articles/2026-11-09-https-x.com-deepforest_inc-status-2118808820013244894.md)** ⚑  @DeepForest_Inc
 - **[MiniMax H3系のボイスLoRA／キャプション運用メモ](articles/2026-11-07-ai_1610-h3-voice-lora-memo.md)** ⚑  @ai_1610
 - **[Muse Videoで参照画像から予告編を作る事例](articles/2026-10-22-jarvis11x-muse-video.md)** ⚑  @jarvis11x
@@ -1855,6 +1856,7 @@
 - [Higgsfield](links/video-gen/higgsfield.ai-higgsfield.md) — unverified / 【投稿の主張と実測の区別】ポストは架空のラッパー風ペルソナ「Marcel Duvall」が18日で9本・5.16M再生・817.8Kいいね・15.9Kフォロワー、推定$13Kを稼ぎ、$Marcel コインの時価総額が約$3.5Kだと述べるが、これらは投稿者の集計・推計で一次確認していない（フォロワー16Kはスクリーンショットとも一致）。返信で著者は「with the new higgsfield function its as easy as it can get!」とだけ書き、機能名は特定していない。投稿日（2026-10-17）と公式ブログのAI Influencer刷新（2026-10-03）から、AI Influencer＋Genjutsu の組み合わせとみられるが、これは推定であり投稿に明記はない。引用ポストの「$15で作れる」のリンク先 X 記事（2109318233866006528）はログインウォールで本文を取得できていない。ただし公式ブログの2026-10時点の料金表は Starter $15/月（月払い）で、当時の最安有料プランと一致する。現在の料金ページは Starter $19/月（年払い・プロモ表示）で、金額とクレジット数は変動する（未確認ではなく変動）。【未確認】無料プラン生成物の商用利用可否（規約4.4は出力の商用利用を制限しないとする一方、料金表は Free の Commercial use を Not included とする）。無料枠の透かしの有無。添付2枚目のキャラクターターンアラウンド画像はツールUIも透かしもなく、Higgsfield 製かは確認できない。ポスト内の映像が実際に本製品で作られたかも未確認。【リスク】実在人物の顔・声を使う場合は本人の同意が必須（規約5.3）。個人プランは入力・出力がモデル学習に使われうる。18歳以上。モデル・機能は予告なく変更・廃止されうる。無料枠・Unlimited は自動化や再販が禁止。
 - [Higgsfield AI Influencer](links/video-gen/higgsfield.ai-higgsfield-ai-influencer.md) — unverified / 月額 USD と無料枠の数は地域・キャンペーンで変動する。AI Influencer 1体あたりのクレジット消費（記事は 1.12 credits ≈ $0.06 と主張）と無料プラン生成物の透かしの有無は未確認。実在人物の写真を使う場合は本人の許諾が必要。
 - [Higgsfield Genjutsu](links/video-gen/higgsfield.ai-higgsfield-genjutsu.md) — unverified / 月額 USD と無料枠の数は地域・キャンペーンで変動する。AI Influencer 1体あたりのクレジット消費（記事は 1.12 credits ≈ $0.06 と主張）と無料プラン生成物の透かしの有無は未確認。実在人物の写真を使う場合は本人の許諾が必要。
+- [History Forcing: Distilling History-Dependent Continuations for Long-Horizon Video World Models](articles/2026-11-02-author-history-forcing-distilling-history-dependent-continuations-for-long-horizon-vide.md) — unverified / 性能値は論文著者らの評価結果であり、独立検証は未確認。投稿文の「minute-long clips」は論文の60秒評価を指すが、実用環境で同様の一貫性が得られることまでは示さない。
 - [HyperFlow H3 Flash 第三者速度比較](articles/2026-11-09-https-x.com-deepforest_inc-status-2118808820013244894.md) — unverified / 画質が変わらないという評価は主観。公式表と解像度・量子化・長さ・ステップ数をそろえず直接比較しない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Kling AI Motion Control](links/video-gen/kling.ai-kling-ai-motion-control.md) — unverified / 無料枠と月額サブスクの金額は未確認（確認できたのは API の従量単価のみ）。参照動画の権利と、生成結果が元動画と似ることによる権利・プラットフォームポリシーの確認が必要。
 - [MiniMax H3 long take 連結ワークフロー](links/video-gen/https-civitai.com-models-3038677.md) — unverified / 作者のRTX4070SUPER12GB使用は最低VRAM要件の証明ではない。長尺の整合性・繋ぎ・追加ノードの安全性と権利は未検証。 当方でインストール・推論・生成・ベンチ再現はしていない。
