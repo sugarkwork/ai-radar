@@ -1,5 +1,5 @@
 {
-  "count": 858,
+  "count": 859,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -11748,6 +11748,37 @@
       "type": "repo",
       "path": "entries/image-gen/jgrfw-comfyui-pose-swap.md",
       "summary": "ComfyUI で**顔・ポーズ・衣装を個別に差し替える**ワークフロー。3つの参照図庫（**1,499 頭部 / 1,439 ポーズ / 1,407 衣装**）を内蔵し、クリックで参照画像をノードに流し込める。"
+    },
+    {
+      "name": "MiniMax-H3-Image",
+      "genre": "image-gen",
+      "url": "https://github.com/MiniMax-AI/MiniMax-H3-Image",
+      "repo": "MiniMax-AI/MiniMax-H3-Image",
+      "license": "unknown",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEはライセンスを示すバッジとLICENSEへのリンクを掲載していますが、ライセンス名や利用条件は確認できません。 GitHub APIでライセンスを確認できていません。",
+      "stars": 85,
+      "forks": 2,
+      "open_issues": 0,
+      "size_kb": 11715,
+      "language": "unknown",
+      "created": "2026-11-09",
+      "updated": "2026-11-10",
+      "archived": false,
+      "commits_30d": 1,
+      "commits_90d": 1,
+      "commit_cadence": "monthly",
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/bei351009016/status/2120333007949267319"
+      ],
+      "fetched_at": "2026-11-11T04:09:44.778055+00:00",
+      "path": "entries/image-gen/minimax-ai-minimax-h3-image.md",
+      "summary": "READMEでは、テキストからの画像生成と、1枚以上の参照画像を使った画像編集を、単一のチェックポイントで行うモデルと説明されています。生成と編集はいずれもMiniMax-H3-Imageの機能として記載されています。"
     },
     {
       "repo": "TKY-27/iris-3b-metal",
