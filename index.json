@@ -1,5 +1,5 @@
 {
-  "count": 909,
+  "count": 910,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -14163,6 +14163,37 @@
       "amplifiers": [],
       "path": "links/link-asset/tools.oyasumi-gamedev.com-haikeigacha.md",
       "summary": "漫画・イラストの背景を、ブラウザ上で部品を組み合わせて作る無料ツール。3Dモデリングなしで、部屋・建物・街並みのラフを作る。"
+    },
+    {
+      "name": "Awesome DeepSeek Harness (DSH) Plugin",
+      "genre": "link-inspiration",
+      "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+      "repo": "awesome-dsh-plugin/awesome-dsh-plugin",
+      "license": "CC0-1.0",
+      "stars": 24324,
+      "language": "JavaScript",
+      "created": "2026-08-13",
+      "updated": "2026-11-11",
+      "forks": 7990,
+      "open_issues": 289,
+      "commits_30d": 100,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 353264,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "掲載はセキュリティ審査を意味しません。READMEは、導入した第三者プラグインが利用者権限で動作し、ファイル・認証情報・ネットワークにアクセスしうると明記しています。",
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/mingzi206/status/2118347518199451946"
+      ],
+      "fetched_at": "2026-11-11T22:12:17.294914+00:00",
+      "path": "entries/link-inspiration/awesome-dsh-plugin-awesome-dsh-plugin.md",
+      "summary": "DeepSeek Harness用プラグインをカテゴリ別に掲載し、説明や導入コマンドから候補を探せます。READMEによると、dsh 0.2.1以降ではプラグイン一覧をインデックスソースとして追加でき、Discoverタブとplugin_marketエージェントツールから同じエントリーを検索できます。出典: https"
     },
     {
       "name": "BestAIBuilder",

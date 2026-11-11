@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 909 件 — リポジトリ 589, リンク集 114, 記事 139, モデル 53, プロンプト 14 / ⚑ 要確認 697 件
+収録 910 件 — リポジトリ 590, リンク集 114, 記事 139, モデル 53, プロンプト 14 / ⚑ 要確認 698 件
 
-## リポジトリ（589）
+## リポジトリ（590）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -674,6 +674,12 @@
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
 | [Fumika — ローカル漫画・画像・LoRA学習スタジオ](entries/image-generation/7err4-fumika.md) ⚑ | 6 | 3 | 月次 | 2 | 2026-10-25 | 2026-11-09 | 2026-11-10 | NOASSERTION |
+
+### リンク（作例・インスピレーション）（1）
+
+| 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
+|---|---:|---:|---|---:|---|---|---|---|
+| [Awesome DeepSeek Harness (DSH) Plugin](entries/link-inspiration/awesome-dsh-plugin-awesome-dsh-plugin.md) ⚑ | 24,324 | 7,990 | 毎日 | 100+ | 2026-11-11 | 2026-11-11 |  | CC0-1.0 |
 
 ### productivity（1）
 
@@ -1705,6 +1711,7 @@
 - [The Bomi Berzina AI Character Shorts Playbook](links/link-asset/bomiberzina.com-the-bomi-berzina-ai-character-shorts-playbook.md) — unverified / 投稿の「10日で$13K」「10.6M再生」「最大5.6M」は投稿者自身の推計であり一次情報で確認していない。今回実測できたのは TikTok プロフィールの 23.6K フォロワー / 539.7K いいね / 13本（2026-11-08時点、レンダリング取得）で、個別動画の再生数は TikTok の WAF とログイン要求で取得できず未確認。Instagram は HTTP 200 だがログインウォールでプロフィールを読めない。価格 $9.99 は販売ページの表示と JSON-LD で確認し、Stripe の live セッションも実際に発行された（303）が、Stripe ページの金額は JS レンダリングで HTML から読めず、決済額そのものは未確認。PDF 本文は有料で、無料公開のプレビューは2ページ分（02, 04）のみ。17ステップのうち確認できたのは 01, 02, 05, 06, 07, 08 の6ステップとプロンプト2本（キャラクターシート用、Genjutsu の Object Swap 用）だけで、残り11ステップと残りのプロンプト本文は未確認。返金は商品ページに30日と明記されているが、リンク先の規約・返金ページ（smashcourses.com）は汎用文面で Bomi 商品を名指ししておらず、連絡先も商品ページは zenithlawassociates@gmail.com、規約ページは service@officeofagents.com で一致しない。手順06は他者のバイラル動画を第三者のダウンローダー（ytshortsdl.com / snaptik / igexport）で保存しキャラクターを差し替えるよう指示しており、著作権と各SNSの規約上のリスクがある。Jean Phil など他者キャラクターの世界観に便乗する手法も権利面で要注意。同一ドメインのルート https://bomiberzina.com は未発行の Solana ミームコイン「$BB」のプレローンチページ（価格 'Soon'、'CA DROPS AT LAUNCH'）で、ブランドがトークン販売と結び付いている点は別種の高リスクとして扱う。
 - [useAnimations — 動くアイコン300点](links/link-asset/useanimations.com.md) — unverified / 素材を再配布する場合はMITの著作権・許諾表示を保持する。サイトへのクレジットは任意だがライセンス表示義務とは別。全アイコンの表示やSSR動作は当方未試験。 当方では導入・生成・操作の実行検証をしていない。
 - [背景ガチャ（九龍城砦セット＋パース補助線）](links/link-asset/tools.oyasumi-gamedev.com-haikeigacha.md) — unverified / AIツールではなく、家具900以上をプログラムで組み合わせる手続き型の背景ジェネレータ（公式の仕組み解説に明記）。開発時のAI利用はClaude Codeのみ。部屋150種類以上に住宅・学校・洋館・中世の城・教会・九龍城砦のセットを追加。パース補助線は書き出しの『下絵（なぞる用）』でアイレベル線・パース補助線・消失点を別レイヤーに分離し、PSDはパースフォルダ内の各レイヤー、SVGは別ファイル、vp.txtに座標を出力する。ブラウザ完結・外部送信なし。β版で、版が上がると同seedでも部屋の作りが変わり得る。書き出し品質・PSDレイヤー構成は未確認（ブラウザツールのため実行検証は未実施）。
+- [Awesome DeepSeek Harness (DSH) Plugin](entries/link-inspiration/awesome-dsh-plugin-awesome-dsh-plugin.md) — unverified / 掲載はセキュリティ審査を意味しません。READMEは、導入した第三者プラグインが利用者権限で動作し、ファイル・認証情報・ネットワークにアクセスしうると明記しています。
 - [Claude Code に Blender のシーンをコードで書かせて voxel キャラを踊らせる手順（投稿）](links/link-inspiration/x.com-claude-code-blender-voxel.md) — unverified / 投稿内の `blender -b -P https://t.co/ueDlwhvcq2` のリンク先 scene.py は DNS 解決不可（HTTP 000、Wayback スナップショットも 0 件）で、投稿が想定したスクリプト／記事の実体を確認できない。X の引用元は Article 2109318233866006528 でログイン必須のため本文未取得。「Opus 5.5 が無料で1000倍良い」は投稿者の主張で、比較測定は無い。動画は 3D ビューポートそのものではなく UI オーバーレイ付きの演出済みデモ（ログ表示は擬似 UI）であり、719 voxels / 12 joints / 16 秒 / 120bpm は投稿者と動画の自己申告値。実際の再現には Blender 5.2 系と Claude Code、上記2スキルが必要。
 - [Claude Duetのロゴを紹介した投稿](articles/2026-10-22-jarvis11x-claude-duet.md) — unverified / 画像の制作元と転載許諾は未確認。Anthropicの商標利用条件を参照。
 - [Cravely](links/link-inspiration/gdgoau-food.vercel.app-cravely.md) — unverified / 決済・追跡は模擬。生成工程は自己申告。
