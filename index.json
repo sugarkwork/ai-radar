@@ -1,5 +1,5 @@
 {
-  "count": 854,
+  "count": 855,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -8977,6 +8977,37 @@
       "fetched_at": "2026-11-09T21:36:25Z",
       "path": "entries/coding-agent/michael-denyer-pstack-claude.md",
       "summary": "入口は poteto-mode というスキル。依頼を渡すとタスク種別に応じた playbook を選び、バグ修正では「失敗の再現 → how / why で原因調査 → 修正の委任 → 失敗ケースの再実行」まで進める。返るのは修正と、失敗していた時・通った時の両方の証拠（README の Getting started"
+    },
+    {
+      "name": "Scenario Agent Skills",
+      "genre": "coding-agent",
+      "url": "https://github.com/scenario-labs/skills",
+      "repo": "scenario-labs/skills",
+      "stars": 3658,
+      "forks": 321,
+      "open_issues": 27,
+      "size_kb": 49134,
+      "language": "Python",
+      "created": "2026-08-12",
+      "updated": "2026-11-10",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 100,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景・有効性・依存関係・実行条件。",
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/naka_1717/status/2118183433390465215"
+      ],
+      "fetched_at": "2026-11-11T01:36:47.581530+00:00",
+      "path": "entries/coding-agent/scenario-labs-skills.md",
+      "summary": "READMEでは、Claude Code、Cursor、Codex、CopilotなどのAIコーディングエージェントに、Scenarioを使った画像・動画・音声・テクスチャ・スカイボックス・3D素材・カスタム学習モデルの制作方法を案内するスキル集と説明されています。別途、ZBrush、Blender、Maya、Unre"
     },
     {
       "repo": "t3dotgg/tstack",
