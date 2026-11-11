@@ -1,5 +1,5 @@
 {
-  "count": 800,
+  "count": 801,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -13225,6 +13225,38 @@
       "fetched_at": "2026-11-09T21:39:06Z",
       "path": "entries/mcp-server/morluto-rea.md",
       "summary": "ネイティブバイナリ（PE/ELF/Mach-O）、JavaScript/Electron、.NET、Android APK、Web サイト、HTTP/パケットキャプチャなどを、MCP 経由でエージェントに調査させる。結果には根拠（Evidence）と適用限界が付く。"
+    },
+    {
+      "repo": "shadcn-ui/ui",
+      "name": "shadcn/ui",
+      "genre": "mcp-server",
+      "url": "https://github.com/shadcn-ui/ui",
+      "last_release": "shadcn@4.23.0",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "MCP の接続とコンポーネント追加は公式手順で確認した。実行時の互換性、生成結果の品質、作業時間の短縮効果は実測していない。最新リリースの公開日時は未確認。",
+      "stars": 127807,
+      "forks": 11332,
+      "open_issues": 1776,
+      "size_kb": 75193,
+      "language": "TypeScript",
+      "created": "2023-01-04",
+      "updated": "2026-11-10",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 84,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/thegreatest_sv/status/2116190137948254226"
+      ],
+      "fetched_at": "2026-11-10T13:00:07+00:00",
+      "path": "entries/mcp-server/shadcn-ui-ui.md",
+      "summary": "Claude Code などの MCP 対応クライアントから、設定済みレジストリのコンポーネントやテンプレートを一覧表示・検索し、自然言語でプロジェクトへの追加を依頼できる。[公式 MCP ドキュメント](https://ui.shadcn.com/docs/mcp)"
     },
     {
       "repo": "D4Vinci/Scrapling",
