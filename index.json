@@ -1,5 +1,5 @@
 {
-  "count": 798,
+  "count": 799,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -14269,6 +14269,37 @@
       "last_release_at": "",
       "path": "entries/model-serving/googlecolab-google-colab-cli.md",
       "summary": "Colabランタイムの準備・使い捨て実行・Driveマウント等をCLIから行うGoogle公式ツール。"
+    },
+    {
+      "repo": "ollaya-dev/ollaya",
+      "name": "Ollaya",
+      "genre": "model-serving",
+      "url": "https://github.com/ollaya-dev/ollaya",
+      "license": "Apache-2.0",
+      "stars": 1454,
+      "language": "Rust",
+      "created": "2026-09-23",
+      "updated": "2026-11-06",
+      "forks": 90,
+      "open_issues": 10,
+      "commits_30d": 100,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 10442,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "速度・精度は開発元の公開測定で、今回の調査では再実行していない。個別ワークロードでの精度、遅延、費用削減、各モデルの利用条件は未確認。GitHubの最新版リンクはv0.18.0を返したが、mainのREADMEには0.19.0の測定への言及があり、最新リリースのタグと公開日時は確定していない。",
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/thegreatest_sv/status/2116142322543198271"
+      ],
+      "fetched_at": "2026-11-10T12:57:09Z",
+      "path": "entries/model-serving/ollaya-dev-ollaya.md",
+      "summary": "テキストやJSONと型付きの質問を渡し、分類やチケットの振り分けに使える構造化された回答を取得できる。CLI、ローカルHTTP API、MCPに対応する。"
     },
     {
       "repo": "gargpratyush/jev-router",
