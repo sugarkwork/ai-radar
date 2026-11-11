@@ -1,5 +1,5 @@
 {
-  "count": 879,
+  "count": 880,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -24137,6 +24137,37 @@
       "type": "repo",
       "path": "entries/video-gen/deepbeepmeep-wangp.md",
       "summary": "動画・画像・音声/音声合成・3D 生成を1つの Web UI にまとめた実行環境。1モデル1アプリを入れ分けずに済む。"
+    },
+    {
+      "name": "LTX-Video (Legacy)",
+      "genre": "video-gen",
+      "url": "https://github.com/Lightricks/LTX-Video",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEではLTX-Video v0.9.xは旧版とされ、現在は新規プロジェクトにLTX-2.5を推奨している。モデル重みの利用条件はこのREADME抜粋から確認できない。",
+      "repo": "Lightricks/LTX-Video",
+      "stars": 11358,
+      "forks": 1230,
+      "open_issues": 108,
+      "size_kb": 131,
+      "language": "Python",
+      "created": "2024-11-20",
+      "updated": "2026-11-02",
+      "archived": false,
+      "license": "Apache-2.0",
+      "commits_30d": 2,
+      "commits_90d": 2,
+      "commit_cadence": "monthly",
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/AIExplorerTim/status/2118242415219982564"
+      ],
+      "fetched_at": "2026-11-11T08:19:06.264085+00:00",
+      "path": "entries/video-gen/lightricks-ltx-video.md",
+      "summary": "LTX-Video v0.9.xは動画生成モデル。READMEでは、テキストからの動画生成に加えて、画像からの動画生成、複数キーフレームによる条件付け、キーフレームアニメーション、動画の前後への延長、動画から動画への変換をサポートすると説明している。また、音声と動画の同期生成、最大50 FPS・ネイティブ4K出力につい"
     },
     {
       "repo": "remotion-dev/skills",
