@@ -124,7 +124,7 @@ claude mcp add --transport http ai-radar https://ai-radar.sugar-knight.com/mcp
 ## 索引
 
 <!-- INDEX:START -->
-**収録 862 件** — リポジトリ 544, プロンプト 14, リンク集 113, モデル 53, 記事 138
+**収録 863 件** — リポジトリ 544, プロンプト 14, リンク集 113, モデル 53, 記事 139
 
 | 種類 | 件数 |
 |---|---:|
@@ -132,7 +132,7 @@ claude mcp add --transport http ai-radar https://ai-radar.sugar-knight.com/mcp
 | プロンプト | 14 |
 | リンク集 | 113 |
 | モデル | 53 |
-| 記事 | 138 |
+| 記事 | 139 |
 
 | ジャンル | 件数 |
 |---|---:|
@@ -140,8 +140,8 @@ claude mcp add --transport http ai-radar https://ai-radar.sugar-knight.com/mcp
 | エージェント基盤・スキル集 | 95 |
 | 3D・モーション | 86 |
 | コーディングエージェント | 82 |
+| 記事 | 79 |
 | その他 | 79 |
-| 記事 | 78 |
 | 音声・TTS | 48 |
 | 画像生成・編集 | 40 |
 | モデル推論・配信 | 36 |
