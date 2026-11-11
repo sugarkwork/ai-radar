@@ -1,5 +1,5 @@
 {
-  "count": 871,
+  "count": 872,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -5781,6 +5781,37 @@
       "last_release_at": "2026-10-27",
       "path": "entries/agent-framework/monkeyteamvip-x-virality-score.md",
       "summary": "ウォッチリスト（15〜30アカウント、フォロワー5万くらいまでが目安）の前日オリジナル投稿を views 床で抽出する。既定は5,000 views 以上、10,000 以上に星。返信は除外。自引用は数字には含めるがバッジ付きで区別する。"
+    },
+    {
+      "name": "jevwire",
+      "genre": "agent-framework",
+      "url": "https://github.com/Brainwires/jevwire",
+      "repo": "Brainwires/jevwire",
+      "stars": 27,
+      "forks": 6,
+      "open_issues": 1,
+      "size_kb": 3243,
+      "language": "TypeScript",
+      "created": "2026-09-17",
+      "updated": "2026-11-06",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 11,
+      "commits_90d": 43,
+      "commit_cadence": "weekly",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景・有効性・依存関係・実行条件。",
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/GitTrend0x/status/2120147118237114757"
+      ],
+      "fetched_at": "2026-11-11T06:11:40.668057+00:00",
+      "path": "entries/agent-framework/brainwires-jevwire.md",
+      "summary": "状態と型付き質問を入力し、定義済みの回答候補に対する確率を返す分類モデルをハーネスに接続します。README記載では、7つのMCPツール、各ツールに対応する組み込み用のrun関数、Claude Codeのフックを提供します。生成、算術、数え上げ、日付比較、複数段階の推論には使わないと説明されています。出典: https"
     },
     {
       "repo": "oxylabs/web-api-skills",
