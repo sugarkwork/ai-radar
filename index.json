@@ -1,5 +1,5 @@
 {
-  "count": 813,
+  "count": 814,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -10360,6 +10360,37 @@
       "type": "repo",
       "path": "entries/finance-quant/skfolio-skfolio.md",
       "summary": "**ポートフォリオ最適化を scikit-learn の API で**扱うライブラリ。fit / predict / get_params がそのまま使え、Pipeline や GridSearchCV に組み込める。"
+    },
+    {
+      "name": "prediction-market-backtesting",
+      "genre": "finance-quant",
+      "url": "https://github.com/evan-kolberg/prediction-market-backtesting",
+      "repo": "evan-kolberg/prediction-market-backtesting",
+      "license": "unknown",
+      "stars": 1267,
+      "language": "Python",
+      "created": "2026-02-13",
+      "updated": "2026-05-16",
+      "forks": 201,
+      "open_issues": 5,
+      "commits_30d": 0,
+      "commit_cadence": "stale",
+      "commits_90d": 0,
+      "size_kb": 164736,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEには開発中とある。Limitless.exchangeとOpinion.tradeは今後の予定で、Kalshiは公開実行可能なバックテスト経路ではないと記載。ライセンスはAPI上unknownだが、READMEのバッジはMIT + LGPL-3.0-or-laterを示すため、適用範囲は確認が必要。README抜粋にある情報のみを記載。 GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/thegreatest_sv/status/2116886377698578543"
+      ],
+      "fetched_at": "2026-11-10T14:08:08.079008+00:00",
+      "path": "entries/finance-quant/evan-kolberg-prediction-market-backtesting.md",
+      "summary": "Polymarketの予測市場戦略をNautilusTrader上でバックテストする。READMEでは、Rustネイティブのデータ変換、段階的なデータ読み込み、キャッシュ、実験オブジェクトを使うランナー、統計的最適化のサポート、複数市場のチャート機能を紹介している。"
     },
     {
       "repo": "fadewalk/serenity-stock-choke",
