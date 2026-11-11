@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 897 件 — リポジトリ 577, リンク集 114, 記事 139, モデル 53, プロンプト 14 / ⚑ 要確認 685 件
+収録 898 件 — リポジトリ 578, リンク集 114, 記事 139, モデル 53, プロンプト 14 / ⚑ 要確認 686 件
 
-## リポジトリ（577）
+## リポジトリ（578）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -195,7 +195,7 @@
 | [utillayer/youtube-agent-skill](entries/video-gen/utillayer-youtube-agent-skill.md) ⚑ | 14 | 2 | 週次 | 16 | 2026-10-29 | 2026-11-09 | 2026-11-10 | MIT |
 | [BennyDaBall930/comfyui_hyperflow_int8_nodes](entries/video-gen/bennydaball930-comfyui_hyperflow_int8_nodes.md) ⚑ | 3 | 0 | 週次 | 10 | 2026-11-09 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
 
-### コーディングエージェント（77）
+### コーディングエージェント（78）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -259,6 +259,7 @@
 | [Second Brain Starter](entries/coding-agent/coleam00-second-brain-starter.md) ⚑ | 885 | 188 | 停滞 | 0 | 2026-06-09 | 2026-11-10 | 2026-11-10 | unknown |
 | [Second Brain](entries/coding-agent/nicholasspisak-second-brain.md) ⚑ | 775 | 116 | 停滞 | 0 | 2026-04-07 | 2026-11-10 | 2026-11-11 | unknown |
 | [Common Skills](entries/coding-agent/warpdotdev-common-skills.md) ⚑ | 686 | 44 | 月次 | 2 | 2026-10-28 | 2026-11-10 | 2026-11-10 | MIT |
+| [min-skill](entries/coding-agent/limin112-min-skill.md) ⚑ | 630 | 94 | 週次 | 14 | 2026-11-05 | 2026-11-11 | 2026-11-11 | unknown |
 | [Machine Skill](entries/coding-agent/airsuphq-machine-skill.md) ⚑ | 625 | 83 | 週次 | 8 | 2026-10-13 | 2026-11-10 | 2026-11-11 | MIT |
 | [Product Engineering](entries/coding-agent/phuryn-product-engineering.md) ⚑ | 455 | 59 | 毎日 | 100+ | 2026-11-08 | 2026-11-10 | 2026-11-11 | MIT |
 | [Video Studio Skill](entries/coding-agent/aaitor-skill-video-studio.md) ⚑ | 390 | 13 | 週次 | 8 | 2026-11-04 | 2026-11-10 | 2026-11-11 | MIT |
@@ -1588,6 +1589,7 @@
 - [Second Brain Starter](entries/coding-agent/coleam00-second-brain-starter.md) — unverified / スキルは未実行。生成PRDの品質、連携先ごとの動作、対応バージョン、運用費用、ライセンス条件は未確認。GitHubの公開リリース一覧の取得結果にはリリースが表示されず、最新リリースへの直接アクセスはタイムアウトした。READMEは公開raw URLおよびGitHubの表示から確認した。 GitHub APIでライセンスを確認できていません。
 - [Second Brain](entries/coding-agent/nicholasspisak-second-brain.md) — unverified / READMEに記載された機能と手順に基づく。個別の効果、利用条件、費用は確認できていない。 GitHub APIでライセンスを確認できていません。
 - [Common Skills](entries/coding-agent/warpdotdev-common-skills.md) — unverified / 評価精度、レビュー時間の短縮効果、導入コマンドの実動作、ホスト環境ごとの互換性、最新リリースは未確認。
+- [min-skill](entries/coding-agent/limin112-min-skill.md) — unverified / 各Skill・ツールの詳細な依存関係や実行条件は、それぞれのディレクトリにあるREADMEで確認が必要。 GitHub APIでライセンスを確認できていません。
 - [Machine Skill](entries/coding-agent/airsuphq-machine-skill.md) — unverified / README記載の機能や数値はリポジトリの説明に基づき、独立検証していない。生成結果の精度や動作条件は未確認。
 - [Product Engineering](entries/coding-agent/phuryn-product-engineering.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Video Studio Skill](entries/coding-agent/aaitor-skill-video-studio.md) — unverified / 全工程の実行にはローカルのツール環境が必要。README記載の本番要件はNode.js 22以上、FFmpeg/ffprobe、Chromiumおよび補助ツール固有のPython依存関係。ナレーションやアバターには追加サービスまたはGPU環境が必要。効果や費用は確認できない。
