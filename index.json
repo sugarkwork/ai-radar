@@ -1,5 +1,5 @@
 {
-  "count": 822,
+  "count": 823,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -9134,6 +9134,37 @@
       "fetched_at": "2026-11-10T09:44:32+00:00",
       "path": "entries/coding-agent/xai-org-plugin-marketplace.md",
       "summary": "Grok Build 向けプラグインの取得元をカタログで探し、生成済みの索引でスキル、コマンド、サブエージェント、フック、MCP・LSP サーバーなどの同梱機能を導入前に確認できる。 [README](https://raw.githubusercontent.com/xai-org/plugin-marketplac"
+    },
+    {
+      "name": "AI Second Brain",
+      "genre": "coding-agent",
+      "url": "https://github.com/charlie947/ai-second-brain",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "README記載の機能・動作条件は独立検証していない。ChatGPTのエクスポートには1〜3日の待ち時間がかかる場合があると記載。",
+      "repo": "charlie947/ai-second-brain",
+      "stars": 229,
+      "forks": 45,
+      "open_issues": 0,
+      "size_kb": 523,
+      "language": "unknown",
+      "created": "2026-04-17",
+      "updated": "2026-10-24",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 1,
+      "commits_90d": 1,
+      "commit_cadence": "monthly",
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/Bober_smart/status/2116978958121964030"
+      ],
+      "fetched_at": "2026-11-10T14:14:46.869661+00:00",
+      "path": "entries/coding-agent/charlie947-ai-second-brain.md",
+      "summary": "3段階の手順を案内するClaude Code skill。ChatGPTとClaudeの履歴をタグ付きObsidian vaultに整理する「AI Brain」、raw/ と wiki/ を使って調査資料からwikiを構成する「Karpathy Wiki」、Gmail・NotebookLM・Granolaとの接続やiM"
     },
     {
       "type": "repo",
