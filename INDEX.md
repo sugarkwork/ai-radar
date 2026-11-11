@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 816 件 — リポジトリ 504, リンク集 113, 記事 132, モデル 53, プロンプト 14 / ⚑ 要確認 606 件
+収録 817 件 — リポジトリ 505, リンク集 113, 記事 132, モデル 53, プロンプト 14 / ⚑ 要確認 607 件
 
-## リポジトリ（504）
+## リポジトリ（505）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -234,7 +234,7 @@
 | [3dmodel](entries/3d-motion/fletcherholt-3dmodel-skill.md) ⚑ | 6 | 0 | 停滞 | 0 | 2026-06-16 | 2026-11-10 | 2026-11-10 | unknown |
 | [Lida-V/LidaAngelToon](entries/3d-motion/lida-v-lidaangeltoon.md) ⚑ | 6 | 0 | 週次 | 13 | 2026-10-17 | 2026-11-09 | 2026-11-10 | NOASSERTION |
 
-### コーディングエージェント（60）
+### コーディングエージェント（61）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -296,6 +296,7 @@
 | [Flow Preview](entries/coding-agent/tanishqkancharla-flow-preview.md) ⚑ | 37 | 3 | 週次 | 13 | 2026-11-06 | 2026-11-10 | 2026-11-11 | Apache-2.0 |
 | [Teddarific/skills](entries/coding-agent/teddarific-skills.md) ⚑ | 18 | 1 | 月次 | 3 | 2026-10-14 | 2026-11-10 | 2026-11-11 | unknown |
 | [davekiss/mods（leaks）](entries/coding-agent/davekiss-mods.md) ⚑ | 12 | 1 | 週次 | 11 | 2026-10-29 | 2026-11-10 | 2026-11-11 | MIT |
+| [system-design-skill](entries/coding-agent/codejunkie99-system-design-skill.md) ⚑ | 9 | 1 | 月次 | 1 | 2026-11-01 | 2026-11-10 | 2026-11-11 | MIT |
 | [GDG Agent Skillsの実演教材](entries/coding-agent/gdg-oau-agent-skills-gdg.md) ⚑ | 1 | 0 | 週次 | 13 | 2026-11-07 | 2026-11-10 | 2026-11-10 | unknown |
 | [Leash](entries/coding-agent/cmaintz-leash.md) ⚑ | 0 | 0 | 毎日 | 21 | 2026-11-06 | 2026-11-10 | 2026-11-11 | MIT |
 
@@ -1478,6 +1479,7 @@
 - [Flow Preview](entries/coding-agent/tanishqkancharla-flow-preview.md) — unverified / README記載の要件はNode.js 24以降、npm、および生成されたプレビューの依存関係をインストールするためのレジストリアクセス。個別プロジェクトでの適合性や動作結果は未確認。
 - [Teddarific/skills](entries/coding-agent/teddarific-skills.md) — unverified / README記載のインストール方法や実行条件は未検証です。ライセンスはAPIでunknownと確認されています。 GitHub APIでライセンスを確認できていません。
 - [davekiss/mods（leaks）](entries/coding-agent/davekiss-mods.md) — unverified / ['READMEを確認した。プラグインは実行しておらず、節約額の推計精度、週次利用枠への実際の影響、対応するClaude Codeのバージョン、ログの外部送信がないという作者の説明は未検証。', 'GitHubの公開Releases一覧にリリースの掲載はなかった。']
+- [system-design-skill](entries/coding-agent/codejunkie99-system-design-skill.md) — unverified / READMEによると、実利用はまだなく、テストはURL短縮サービスの模擬インタビュー1回のみ。応答時間、レート制限、tier境界の一部は提案値で、ピーク負荷の2倍設定に標準的根拠はない。README記載の範囲では依存関係の詳細は確認できない。
 - [GDG Agent Skillsの実演教材](entries/coding-agent/gdg-oau-agent-skills-gdg.md) — unverified / 実行未検証。READMEが案内するafterブランチとライセンスを確認できない。
 - [ApiiroによるClaude Code settings.local.json資格情報漏洩調査](articles/2026-11-09-https-x.com-yoppy0123-status-2119219945179603110.md) — unverified / global gitignore追加だけでは既追跡や後からrepo化したケースを守れない。漏洩時は履歴削除だけでなくまず鍵を失効・ローテーション。実資格情報は転載しない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Claude Code](links/coding-agent/claude.com-claude-code.md) — unverified / Claude Code は汎用コーディングエージェントで、CGI/動画専用の機能はない。投稿のスタックではブリーフ→ショットリスト/カメラワークの文章生成と、MCP 経由の Blender 操作指示を担うが、モデリング・ライティング・レンダーは Blender、編集は HyperFrames/FFmpeg 側。『全部 Claude Code がやる』は不正確。投稿の15秒動画は 1440x1800（4:5）・30fps・15.03秒の1フォーマットで、画面内に『INVOICE · EXAMPLE』『ILLUSTRATIVE BUILD LOG』『FICTIONAL BRAND · RENDERED IN BLENDER』と明記された UI モックアップ。請求例はアニメーションで増える『EXAMPLE』で、終盤は $300 + $600 + $400 + $400 + $300 = $2,000。実在の請求ではなく、$1,500–5,000 の市場価格は未検証。DELIVERY GATE は 0/6 から終盤 6/6 になるが、それは UI のチェックで、実ファイルは 4:5 の1フォーマットのみ。16:9/9:16/1:1 の実ファイルは確認できない。『4 shots』は UI のショットリスト、『3 formats』は UI 表示で、納品物の実体は未確認。`/cgi-ad-studio` の配布物（skill/リポジトリ/プロンプト）へのリンクは投稿になく、.blend も生成スクリプトも公開されていない。引用 X 記事はログイン要求で本文未確認。15秒・4カメラ・3フォーマットの納品実績は未検証。『no 3D artist / no studio』は投稿の主張、『one operator』は UI のコピーで、実際の制作体制は確認できない。返信の supervoid_si も『ブランドはレンダーではなく光・カメラ・ビートの判断に払う』と指摘している。

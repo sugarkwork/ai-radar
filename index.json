@@ -1,5 +1,5 @@
 {
-  "count": 816,
+  "count": 817,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -9211,6 +9211,37 @@
       "fetched_at": "2026-11-10T12:58:05+00:00",
       "path": "entries/coding-agent/davekiss-mods.md",
       "summary": "直近7日間の会話ログを分析し、長い会話の再読み込みやキャッシュ期限切れ後の再書き込みなどを、削減見込みと対処法付きで表示する。期間は /leaks --days 30 で変更できる。"
+    },
+    {
+      "name": "system-design-skill",
+      "genre": "coding-agent",
+      "url": "https://github.com/codejunkie99/system-design-skill",
+      "repo": "codejunkie99/system-design-skill",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEによると、実利用はまだなく、テストはURL短縮サービスの模擬インタビュー1回のみ。応答時間、レート制限、tier境界の一部は提案値で、ピーク負荷の2倍設定に標準的根拠はない。README記載の範囲では依存関係の詳細は確認できない。",
+      "stars": 9,
+      "forks": 1,
+      "open_issues": 0,
+      "size_kb": 12,
+      "language": "unknown",
+      "created": "2026-11-01",
+      "updated": "2026-11-01",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 1,
+      "commits_90d": 1,
+      "commit_cadence": "monthly",
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/Av1dlive/status/2116940187662217667"
+      ],
+      "fetched_at": "2026-11-10T14:10:16.314296+00:00",
+      "path": "entries/coding-agent/codejunkie99-system-design-skill.md",
+      "summary": "8段階の短いインタビューで要件と規模を整理し、容量見積もり、段階ごとの必要度判断、選択肢とトレードオフの記録、Mermaid図、プレモーテムを作成する。承認用のDESIGN.mdを作り、承認されるまでコードを書かない。"
     },
     {
       "repo": "GDG-OAU/agent-skills-gdg",
