@@ -1,5 +1,5 @@
 {
-  "count": 805,
+  "count": 806,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -15670,6 +15670,37 @@
       "type": "repo",
       "path": "entries/other/duckdb-duckdb.md",
       "summary": "**プロセス内で動く分析用SQLデータベース**。サーバーを立てず、Python/R/Java/Node/WASM から埋め込みで使う。列指向＋ベクトル化実行で、集計クエリが速い。"
+    },
+    {
+      "name": "Postiz",
+      "genre": "other",
+      "url": "https://github.com/gitroomhq/postiz-app",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "README記載のAGPL-3.0以外の利用条件や、セルフホストに必要な具体的な設定・環境条件は確認していない。",
+      "repo": "gitroomhq/postiz-app",
+      "stars": 41250,
+      "forks": 7864,
+      "open_issues": 212,
+      "size_kb": 64962,
+      "language": "TypeScript",
+      "created": "2023-07-08",
+      "updated": "2026-11-10",
+      "archived": false,
+      "license": "AGPL-3.0",
+      "commits_30d": 100,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/Y0urDumble/status/2116341413755453670"
+      ],
+      "fetched_at": "2026-11-10T13:39:35.699250+00:00",
+      "path": "entries/other/gitroomhq-postiz-app.md",
+      "summary": "ソーシャルメディア投稿の予約、自動化、分析を行う。チームでの共同作業やコメント、投稿の交換・購入にも対応するとREADMEに記載。N8N、Make.com、Zapierなどを使ったAPI経由の自動化を想定している。"
     },
     {
       "repo": "p-e-w/heretic",
