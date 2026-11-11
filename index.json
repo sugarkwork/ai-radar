@@ -1,5 +1,5 @@
 {
-  "count": 896,
+  "count": 897,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -8393,6 +8393,37 @@
       "type": "repo",
       "path": "entries/coding-agent/colbymchenry-codegraph.md",
       "summary": "コードベースを「事前索引化した知識グラフ」にして、MCP サーバー経由でエージェントに渡す。シンボル・呼び出しエッジ・依存関係を1回の問い合わせで返すため、エージェントはファイルを総当たりで読まなくて済む。"
+    },
+    {
+      "name": "Open Interpreter",
+      "genre": "coding-agent",
+      "url": "https://github.com/openinterpreter/openinterpreter",
+      "repo": "openinterpreter/openinterpreter",
+      "stars": 68864,
+      "forks": 5943,
+      "open_issues": 39,
+      "size_kb": 285189,
+      "language": "Rust",
+      "created": "2023-07-14",
+      "updated": "2026-11-11",
+      "archived": false,
+      "license": "Apache-2.0",
+      "commits_30d": 11,
+      "commits_90d": 100,
+      "commit_cadence": "weekly",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景・有効性・依存関係・実行条件。",
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/thegreatest_sv/status/2118325722850697573"
+      ],
+      "fetched_at": "2026-11-11T19:07:28.427910+00:00",
+      "path": "entries/coding-agent/openinterpreter-openinterpreter.md",
+      "summary": "低コストモデル向けのコーディングエージェント。READMEでは、複数のエージェントハーネスの切り替え、ACPクライアントからの起動、Codex exec protocolとの互換性、MCP・skills・hooks・permissions・AGENTS.mdのサポートを説明している。コマンドはmacOS・Linux・W"
     },
     {
       "repo": "emilkowalski/skills",

@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 896 件 — リポジトリ 576, リンク集 114, 記事 139, モデル 53, プロンプト 14 / ⚑ 要確認 684 件
+収録 897 件 — リポジトリ 577, リンク集 114, 記事 139, モデル 53, プロンプト 14 / ⚑ 要確認 685 件
 
-## リポジトリ（576）
+## リポジトリ（577）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -195,7 +195,7 @@
 | [utillayer/youtube-agent-skill](entries/video-gen/utillayer-youtube-agent-skill.md) ⚑ | 14 | 2 | 週次 | 16 | 2026-10-29 | 2026-11-09 | 2026-11-10 | MIT |
 | [BennyDaBall930/comfyui_hyperflow_int8_nodes](entries/video-gen/bennydaball930-comfyui_hyperflow_int8_nodes.md) ⚑ | 3 | 0 | 週次 | 10 | 2026-11-09 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
 
-### コーディングエージェント（76）
+### コーディングエージェント（77）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -210,6 +210,7 @@
 | [autoresearch](entries/coding-agent/karpathy-autoresearch.md) ⚑ | 99,728 | 13,741 | 停滞 | 0 | 2026-03-26 | 2026-11-10 | 2026-11-10 | unknown |
 | [Archify](entries/coding-agent/tt-a1i-archify.md) ⚑ | 95,261 | 6,499 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | Apache-2.0 |
 | [CodeGraph](entries/coding-agent/colbymchenry-codegraph.md) | 77,198 | 5,141 | 毎日 | 100+ | 2026-11-01 | 2026-11-09 | 2026-11-10 | MIT |
+| [Open Interpreter](entries/coding-agent/openinterpreter-openinterpreter.md) ⚑ | 68,864 | 5,943 | 週次 | 11 | 2026-11-11 | 2026-11-11 | 2026-11-11 | Apache-2.0 |
 | [Skills for Designers and Engineers](entries/coding-agent/emilkowalski-skills.md) ⚑ | 55,592 | 3,238 | 週次 | 8 | 2026-11-09 | 2026-11-10 | 2026-11-10 | MIT |
 | [Obsidian Skills](entries/coding-agent/kepano-obsidian-skills.md) ⚑ | 51,458 | 3,639 | 月次 | 0 | 2026-09-15 | 2026-11-10 | 2026-11-10 | MIT |
 | [herdr](entries/coding-agent/herdrdev-herdr.md) ⚑ | 49,753 | 4,017 | 毎日 | 49 | 2026-11-07 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
@@ -1541,6 +1542,7 @@
 - [OpenDesign](entries/coding-agent/nexu-io-open-design.md) — unverified / READMEだけでは実行時の依存関係、必要環境、料金の適用条件は確認できない。README記載の対応状況や製品機能はリポジトリ記載に基づく。
 - [autoresearch](entries/coding-agent/karpathy-autoresearch.md) — unverified / 独立実行による改善幅、試行回数、H100以外での動作、GPU・エージェントの利用料金は未確認。READMEはMITと記載しているが、親のGitHub API測定値はunknown。学習データの利用条件は未確認。 GitHub APIでライセンスを確認できていません。
 - [Archify](entries/coding-agent/tt-a1i-archify.md) — unverified / 生成された図の正確性や可読性、各エージェントでの導入と書き出しの動作は独立に検証していない。GitHubの公開ページで最新版タグを確認したが、完全な公開日時は未確認。
+- [Open Interpreter](entries/coding-agent/openinterpreter-openinterpreter.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Skills for Designers and Engineers](entries/coding-agent/emilkowalski-skills.md) — unverified / 公開文書を確認した。インストールと呼び出しの動作、対応バージョン、導入による品質・性能の改善、エージェント側の料金は未確認。発見投稿のダッシュボードは技術的根拠に含めていない。READMEは公開raw URLで確認した。
 - [Obsidian Skills](entries/coding-agent/kepano-obsidian-skills.md) — unverified / 理由未記入
 - [herdr](entries/coding-agent/herdrdev-herdr.md) — unverified / Apache-2.0。再起動後は保存レイアウトや対応エージェントのセッションを復元できる場合があるが、プロセス継続とは異なる。 実行・品質は未検証。
