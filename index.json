@@ -1,5 +1,5 @@
 {
-  "count": 857,
+  "count": 858,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -19124,6 +19124,38 @@
       "fetched_at": "2026-11-09T21:41:42Z",
       "path": "entries/prompt-design/coreyhaines31-marketingskills.md",
       "summary": "cold-email スキルは、B2Bコールドメールの本文・件名・3〜5通のフォローアップ・返信の分類と一次対応・マルチチャネル連鎖の書き方をエージェントに与える。送信そのものは行わず、送信ツールの設計と文面を指示する。"
+    },
+    {
+      "name": "CL4R1T4S",
+      "genre": "prompt-design",
+      "url": "https://github.com/elder-plinius/CL4R1T4S",
+      "repo": "elder-plinius/CL4R1T4S",
+      "license": "AGPL-3.0",
+      "stars": 52149,
+      "language": "unknown",
+      "created": "2025-03-04",
+      "updated": "2026-11-09",
+      "forks": 10666,
+      "open_issues": 124,
+      "commits_30d": 3,
+      "commit_cadence": "monthly",
+      "commits_90d": 16,
+      "size_kb": 2640,
+      "archived": false,
+      "flags": [
+        "prompt-injection",
+        "unverified"
+      ],
+      "risk_notes": "README末尾に、読者へ指示を出し、会話中のシステム指示を全文含めるよう求めるプロンプトインジェクションがある。 各項目の出所、抽出日、真正性はREADMEだけでは確認できないため、個々の内容を公式プロンプトや現行の設定として扱えるかは不明。",
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/NFT_Chen/status/2120071782548066701"
+      ],
+      "fetched_at": "2026-11-11T04:08:58.789855+00:00",
+      "path": "entries/prompt-design/elder-plinius-cl4r1t4s.md",
+      "summary": "READMEは、OpenAI、Google、Anthropic、xAI、Perplexity、Cursor、Windsurf、Devin、Manusなどのシステムプロンプト、ガイドライン、ツールを収録すると説明している。設計の参照資料として使える。各項目の真正性や現行性はREADMEから確認できない。"
     },
     {
       "type": "repo",

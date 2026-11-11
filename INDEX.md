@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 857 件 — リポジトリ 539, リンク集 113, 記事 138, モデル 53, プロンプト 14 / ⚑ 要確認 647 件
+収録 858 件 — リポジトリ 540, リンク集 113, 記事 138, モデル 53, プロンプト 14 / ⚑ 要確認 648 件
 
-## リポジトリ（539）
+## リポジトリ（540）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -521,6 +521,30 @@
 | [pagesift](entries/mcp-server/yolow92-pagesift.md) ⚑ | 256 | 32 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | AGPL-3.0 |
 | [Kosh](entries/mcp-server/sachinyadavaug20-kosh.md) ⚑ | 4 | 0 | 毎日 | 61 | 2026-11-10 | 2026-11-10 | 2026-11-10 | Apache-2.0 |
 
+### プロンプト（デザイン/UI）（19）
+
+| 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
+|---|---:|---:|---|---:|---|---|---|---|
+| [Awesome DESIGN.md](entries/prompt-design/voltagent-awesome-design-md.md) ⚑ | 126,314 | 13,979 | 週次 | 5 | 2026-10-28 | 2026-11-09 | 2026-11-10 | MIT |
+| [Taste Skill](entries/prompt-design/leonxlnx-taste-skill.md) ⚑ | 112,762 | 7,588 | 毎日 | 100+ | 2026-11-08 | 2026-11-10 | 2026-11-10 | MIT |
+| [Diagram Design](entries/prompt-design/cathrynlavery-diagram-design.md) ⚑ | 66,245 | 4,400 | 毎日 | 100+ | 2026-11-09 | 2026-11-10 | 2026-11-11 | MIT |
+| [Marketing Skills (cold-email)](entries/prompt-design/coreyhaines31-marketingskills.md) ⚑ | 59,400 | 8,675 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [CL4R1T4S](entries/prompt-design/elder-plinius-cl4r1t4s.md) ⚑ | 52,149 | 10,666 | 月次 | 3 | 2026-11-09 | 2026-11-11 | 2026-11-11 | AGPL-3.0 |
+| [Hallmark（AIっぽさを名指しで潰すデザインスキル）](entries/prompt-design/nutlope-hallmark.md) ⚑ | 51,710 | 2,750 | 毎日 | 85 | 2026-11-05 | 2026-11-09 | 2026-11-10 | MIT |
+| [Huashu Design](entries/prompt-design/alchaincyf-huashu-design.md) ⚑ | 29,080 | 3,134 | 毎日 | 31 | 2026-11-10 | 2026-11-10 | 2026-11-10 | MIT |
+| [prompt-master](entries/prompt-design/nidhinjs-prompt-master.md) ⚑ | 15,766 | 1,819 | 週次 | 7 | 2026-10-22 | 2026-11-09 | 2026-11-10 | MIT |
+| [scroll-world](entries/prompt-design/oso95-scroll-world.md) ⚑ | 10,920 | 1,190 | 停滞 | 0 | 2026-07-29 | 2026-11-10 | 2026-11-11 | MIT |
+| [handraw-style](entries/prompt-design/yang0-handraw-style.md) | 7,265 | 852 | 毎日 | 60 | 2026-11-09 | 2026-11-09 | 2026-11-10 | NOASSERTION |
+| [logo-design-skill](entries/prompt-design/kaankiziltug-logo-design-skill.md) ⚑ | 6,462 | 513 | 週次 | 8 | 2026-11-06 | 2026-11-10 | 2026-11-11 | MIT |
+| [Transitions.dev](entries/prompt-design/jakubantalik-transitions.dev.md) ⚑ | 6,213 | 295 | 毎日 | 62 | 2026-11-08 | 2026-11-10 | 2026-11-11 | unknown |
+| [kepano/obsidian-minimal](entries/prompt-design/kepano-obsidian-minimal.md) ⚑ | 5,555 | 295 | 月次 | 0 | 2026-10-06 | 2026-11-09 | 2026-11-10 | MIT |
+| [kepano/flexoki](entries/prompt-design/kepano-flexoki.md) ⚑ | 3,810 | 139 | 停滞 | 0 | 2026-03-07 | 2026-11-09 | 2026-11-10 | MIT |
+| [The Designer Skills Pack](entries/prompt-design/owl-listener-designer-skills.md) ⚑ | 3,309 | 436 | 月次 | 0 | 2026-09-05 | 2026-11-10 | 2026-11-11 | MIT |
+| [AI 漫剧 Skills](entries/prompt-design/zhanghao123vip-ai-manju-skills.md) ⚑ | 695 | 124 | 月次 | 2 | 2026-11-01 | 2026-11-10 | 2026-11-10 | MIT |
+| [better-readme](entries/prompt-design/tommy0103-better-readme-skill.md) ⚑ | 32 | 1 | 停滞 | 0 | 2026-10-08 | 2026-11-09 | 2026-11-10 | MIT |
+| [Grok Bot Teams](entries/prompt-design/ellelion-botteams.md) ⚑ | 26 | 6 | 月次 | 0 | 2026-09-08 | 2026-11-10 | 2026-11-10 | MIT |
+| [GUntilB/Anima-Prompt-Generator](entries/prompt-design/guntilb-anima-prompt-generator.md) ⚑ | 13 | 1 | 月次 | 3 | 2026-11-08 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
+
 ### RAG・検索（19）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
@@ -567,29 +591,6 @@
 | [sepiablue-ai/ComfyUI-PH3-Manga](entries/image-gen/sepiablue-ai-comfyui-ph3-manga.md) ⚑ | 8 | 0 | 週次 | 10 | 2026-11-07 | 2026-11-09 | 2026-11-10 | MIT |
 | [ComfyUI Prompt Atelier](entries/image-gen/renz1998-comfyui-prompt-atelier.md) | 3 | 0 | 毎日 | 51 | 2026-11-09 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
 | [P-H3-Image ComfyUI sample workflows](entries/image-gen/tori29umai0123-p-h3-image_workflows.md) ⚑ | 2 | 1 | 週次 | 4 | 2026-11-06 | 2026-11-10 | 2026-11-11 | unknown |
-
-### プロンプト（デザイン/UI）（18）
-
-| 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
-|---|---:|---:|---|---:|---|---|---|---|
-| [Awesome DESIGN.md](entries/prompt-design/voltagent-awesome-design-md.md) ⚑ | 126,314 | 13,979 | 週次 | 5 | 2026-10-28 | 2026-11-09 | 2026-11-10 | MIT |
-| [Taste Skill](entries/prompt-design/leonxlnx-taste-skill.md) ⚑ | 112,762 | 7,588 | 毎日 | 100+ | 2026-11-08 | 2026-11-10 | 2026-11-10 | MIT |
-| [Diagram Design](entries/prompt-design/cathrynlavery-diagram-design.md) ⚑ | 66,245 | 4,400 | 毎日 | 100+ | 2026-11-09 | 2026-11-10 | 2026-11-11 | MIT |
-| [Marketing Skills (cold-email)](entries/prompt-design/coreyhaines31-marketingskills.md) ⚑ | 59,400 | 8,675 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
-| [Hallmark（AIっぽさを名指しで潰すデザインスキル）](entries/prompt-design/nutlope-hallmark.md) ⚑ | 51,710 | 2,750 | 毎日 | 85 | 2026-11-05 | 2026-11-09 | 2026-11-10 | MIT |
-| [Huashu Design](entries/prompt-design/alchaincyf-huashu-design.md) ⚑ | 29,080 | 3,134 | 毎日 | 31 | 2026-11-10 | 2026-11-10 | 2026-11-10 | MIT |
-| [prompt-master](entries/prompt-design/nidhinjs-prompt-master.md) ⚑ | 15,766 | 1,819 | 週次 | 7 | 2026-10-22 | 2026-11-09 | 2026-11-10 | MIT |
-| [scroll-world](entries/prompt-design/oso95-scroll-world.md) ⚑ | 10,920 | 1,190 | 停滞 | 0 | 2026-07-29 | 2026-11-10 | 2026-11-11 | MIT |
-| [handraw-style](entries/prompt-design/yang0-handraw-style.md) | 7,265 | 852 | 毎日 | 60 | 2026-11-09 | 2026-11-09 | 2026-11-10 | NOASSERTION |
-| [logo-design-skill](entries/prompt-design/kaankiziltug-logo-design-skill.md) ⚑ | 6,462 | 513 | 週次 | 8 | 2026-11-06 | 2026-11-10 | 2026-11-11 | MIT |
-| [Transitions.dev](entries/prompt-design/jakubantalik-transitions.dev.md) ⚑ | 6,213 | 295 | 毎日 | 62 | 2026-11-08 | 2026-11-10 | 2026-11-11 | unknown |
-| [kepano/obsidian-minimal](entries/prompt-design/kepano-obsidian-minimal.md) ⚑ | 5,555 | 295 | 月次 | 0 | 2026-10-06 | 2026-11-09 | 2026-11-10 | MIT |
-| [kepano/flexoki](entries/prompt-design/kepano-flexoki.md) ⚑ | 3,810 | 139 | 停滞 | 0 | 2026-03-07 | 2026-11-09 | 2026-11-10 | MIT |
-| [The Designer Skills Pack](entries/prompt-design/owl-listener-designer-skills.md) ⚑ | 3,309 | 436 | 月次 | 0 | 2026-09-05 | 2026-11-10 | 2026-11-11 | MIT |
-| [AI 漫剧 Skills](entries/prompt-design/zhanghao123vip-ai-manju-skills.md) ⚑ | 695 | 124 | 月次 | 2 | 2026-11-01 | 2026-11-10 | 2026-11-10 | MIT |
-| [better-readme](entries/prompt-design/tommy0103-better-readme-skill.md) ⚑ | 32 | 1 | 停滞 | 0 | 2026-10-08 | 2026-11-09 | 2026-11-10 | MIT |
-| [Grok Bot Teams](entries/prompt-design/ellelion-botteams.md) ⚑ | 26 | 6 | 月次 | 0 | 2026-09-08 | 2026-11-10 | 2026-11-10 | MIT |
-| [GUntilB/Anima-Prompt-Generator](entries/prompt-design/guntilb-anima-prompt-generator.md) ⚑ | 13 | 1 | 月次 | 3 | 2026-11-08 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
 
 ### 評価・ベンチマーク（7）
 
@@ -1770,6 +1771,7 @@
 - [Taste Skill](entries/prompt-design/leonxlnx-taste-skill.md) — unverified / 導入と生成結果は独立に実測しておらず、スキル導入前後の品質差や発見投稿の医療ダッシュボードへの寄与は未確認。最新リリースの公開日時は年とタイムゾーンを含む形式で確認できなかった。
 - [Diagram Design](entries/prompt-design/cathrynlavery-diagram-design.md) — unverified / README内の機能説明に基づく登録。生成品質や各ホストでの動作は独立検証していない。依存関係、実行条件、料金についてREADMEから確認できる情報は限定的。
 - [Marketing Skills (cold-email)](entries/prompt-design/coreyhaines31-marketingskills.md) — unverified / 投稿の『48 leads / 12 pitches / 1 signed』『Claudeが全部やる』『15秒スポット $3,000–6,000』は投稿者の宣伝で、リポジトリにも一次情報にも裏付けがない（未確認）。確認できたのは、cold-email がコールドメールの文面・件名・フォロー・配信設計・返信処理の指示書であり、リード探索（同リポジトリの prospecting、または投稿がリンクする別リポジトリの lead-research-assistant）、送信、契約、3D動画、請求を実行するコードを含まないこと。投稿の『storyboard』『AIスタートアップの発見』はこのスキルの機能ではなく、SKILL.md に storyboard の記述はない。ベンチマークはベンダー由来で、スキルには測定済みの返信率・受注実績がない。効果は利用者のリスト品質・製品・ドメイン評判に依存する。
+- [CL4R1T4S](entries/prompt-design/elder-plinius-cl4r1t4s.md) — prompt-injection, unverified / README末尾に、読者へ指示を出し、会話中のシステム指示を全文含めるよう求めるプロンプトインジェクションがある。 各項目の出所、抽出日、真正性はREADMEだけでは確認できないため、個々の内容を公式プロンプトや現行の設定として扱えるかは不明。
 - [Hallmark（AIっぽさを名指しで潰すデザインスキル）](entries/prompt-design/nutlope-hallmark.md) — unverified / リリースもタグも無い（`/releases` と `/tags` が空、バージョンは SKILL.md と package.json の 2.0.0 表記のみ）。更新は活発だが 30日85コミットの大半が数十件のコミュニティPRを同一分にまとめてマージしたもので、内容はテーマ検証・sloplint・capture のバグ修正が中心（docs/スクリプトのみで実行バイナリは無い）。未解決が issue 25・PR 15。リポジトリは 228MB（site/ と docs/screenshots/ の画像が主因）で、インストールされるスキル本体は 7.1MB。ブラウザ検査（`--render`）は puppeteer-core + Chrome が要り、無い場合は『render tier not run』と出して静的検査だけに落ちる（実測）。同期間の★増分『+7,600』は投稿の主張で、stargazers API が 4万件超のページを返さない（page 400 で 404）ため検証できない。★は API 値 49,068 を採る（投稿の『4.8万』とほぼ一致、やや過小）。同梱の写真755枚は Wikimedia Commons の CC0/PD/CC BY/CC BY-SA で、CC BY 系は著作者・ライセンス・元ページの表示が条件。スキルはエージェントのフル権限で走る（skills.sh の警告）ので、導入前に SKILL.md と scripts/ を読むべき。画像生成ステップだけは TOGETHER_API_KEY（FLUX.1.1-pro、有料）を使う。eval/README が『claude -p ではスキルは自動発火しない』と明記しており、名前で呼ぶ運用が前提。
 - [Huashu Design](entries/prompt-design/alchaincyf-huashu-design.md) — unverified / ['導入・生成・書き出しは未実行。成果物の品質、制作時間、エージェントやOSごとの動作、生成物に含まれる第三者素材の権利は未検証。最新リリースの公開時刻はタイムゾーン付きで確認できなかったため省略した。']
 - [prompt-master](entries/prompt-design/nidhinjs-prompt-master.md) — unverified / 今回の投稿は機能紹介で新たな実行試験ではない。 今回の動作・推論・生成・性能は未検証。
