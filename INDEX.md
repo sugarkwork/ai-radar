@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 788 件 — リポジトリ 477, リンク集 113, 記事 131, モデル 53, プロンプト 14 / ⚑ 要確認 578 件
+収録 789 件 — リポジトリ 478, リンク集 113, 記事 131, モデル 53, プロンプト 14 / ⚑ 要確認 579 件
 
-## リポジトリ（477）
+## リポジトリ（478）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -531,7 +531,7 @@
 | [Grok Bot Teams](entries/prompt-design/ellelion-botteams.md) ⚑ | 26 | 6 | 月次 | 0 | 2026-09-08 | 2026-11-10 | 2026-11-10 | MIT |
 | [GUntilB/Anima-Prompt-Generator](entries/prompt-design/guntilb-anima-prompt-generator.md) ⚑ | 13 | 1 | 月次 | 3 | 2026-11-08 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
 
-### 評価・ベンチマーク（5）
+### 評価・ベンチマーク（6）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -540,6 +540,7 @@
 | [AI-Infra-Guard (A.I.G)](entries/eval/tencent-ai-infra-guard.md) | 7,447 | 746 | 毎日 | 50 | 2026-11-05 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
 | [Goochbeater/Spiritual-Spell-Red-Teaming](entries/eval/goochbeater-spiritual-spell-red-teaming.md) ⚑ | 4,735 | 829 | 毎日 | 34 | 2026-11-08 | 2026-11-09 | 2026-11-10 | unknown |
 | [kodasdream/gamefeel-benchmark](entries/eval/kodasdream-gamefeel-benchmark.md) ⚑ | 13 | 0 | 週次 | 17 | 2026-11-09 | 2026-11-09 | 2026-11-10 | unknown |
+| [JevLight](entries/eval/usail-hkust-jevlight.md) ⚑ | 11 | 2 | 週次 | 10 | 2026-11-06 | 2026-11-10 | 2026-11-11 | unknown |
 
 ### agent（3）
 
@@ -1456,6 +1457,7 @@
 - [garak (Generative AI Red-teaming and Assessment Kit)](entries/eval/nvidia-garak.md) — unverified / 検出精度・誤検知率の定量値は一次情報に記載がなく未検証。判定はキーワードまたは分類器ベースの検出器に依存し、スコアは正規化されていないためプローブ間の比較はできない。プローブの網羅性は保証されず、ペネトレーションテストの代替にはならない。実行は許可された対象に限る。
 - [Goochbeater/Spiritual-Spell-Red-Teaming](entries/eval/goochbeater-spiritual-spell-red-teaming.md) — unverified, prompt-injection / 脱獄・社会工学・安全制約回避を含む。指示の実行、危険なプロンプトや露骨な本文の転載は行わない。抽出物の真正性と利用権も未確認。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [kodasdream/gamefeel-benchmark](entries/eval/kodasdream-gamefeel-benchmark.md) — unverified / 実タスクの全公開・再現性は未確認。27B平均の訂正告知とCSVに差異があり、表の一つの数字を確定順位と扱わない。 当方でインストール・推論・生成・ベンチ再現はしていない。
+- [JevLight](entries/eval/usail-hkust-jevlight.md) — unverified / 模擬実験を含めコードは実行していない。著者のSUMO集計はREADMEの記述を確認した範囲で、個別のスコア、独立再現、実道路での有効性、実APIの料金・利用条件、最新リリースは未確認。ライセンスは提供されたGitHub API実測値でunknown。 GitHub APIでライセンスを確認できていません。
 - [Add-and-Preserve benchmark dataset](links/eval/https-huggingface.co-datasets-lyricccco-add-and-preserve.md) — unverified / 保持領域のPSNR/SSIM/LPIPSと指示追従の評価は別。データの権利と評価実装・プロトコルは未追試。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [GameFeelとQwen-4-Flash-Early比較評価の読み方](articles/2026-11-09-https-x.com-follistatindev-status-2119220233751671186.md) — unverified / Early Access APIの評価でサイズ不明。27Bの修正後47という返信と取得CSV44.6は不一致。独立ベンチの一般順位と断定しない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [kakaocorp/kanana-2-v-decide-3b-2611](models/eval/kakaocorp-kanana-2-v-decide-3b-2611.md) — unverified / 独自Kanana Open LicenseでAPI再販・SI・組込み等の商用提供に別許諾、表示・派生名等に条件。Decision Index61.23等はKakao自己評価。 当方でインストール・推論・生成・ベンチ再現はしていない。

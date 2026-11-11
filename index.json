@@ -1,5 +1,5 @@
 {
-  "count": 788,
+  "count": 789,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -9375,6 +9375,37 @@
       "last_release_at": "",
       "path": "entries/eval/kodasdream-gamefeel-benchmark.md",
       "summary": "ゲーム感覚・創造性・コーディング等でモデルを比べるGameFeelベンチのREADMEとCSV。"
+    },
+    {
+      "repo": "usail-hkust/JevLight",
+      "name": "JevLight",
+      "genre": "eval",
+      "url": "https://github.com/usail-hkust/JevLight",
+      "license": "unknown",
+      "stars": 11,
+      "language": "Python",
+      "created": "2026-09-21",
+      "updated": "2026-11-06",
+      "forks": 2,
+      "open_issues": 0,
+      "commits_30d": 10,
+      "commit_cadence": "weekly",
+      "commits_90d": 29,
+      "size_kb": 81755,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "模擬実験を含めコードは実行していない。著者のSUMO集計はREADMEの記述を確認した範囲で、個別のスコア、独立再現、実道路での有効性、実APIの料金・利用条件、最新リリースは未確認。ライセンスは提供されたGitHub API実測値でunknown。 GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/thegreatest_sv/status/2115779290033803462"
+      ],
+      "fetched_at": "2026-11-10T12:35:29Z",
+      "path": "entries/eval/usail-hkust-jevlight.md",
+      "summary": "SUMO内で交差点の次の信号フェーズを選ぶモデルを、交通シナリオと実験設定を指定して比較できる。"
     },
     {
       "type": "link",
