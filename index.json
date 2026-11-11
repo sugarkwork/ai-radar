@@ -1,5 +1,5 @@
 {
-  "count": 849,
+  "count": 850,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -7057,6 +7057,24 @@
       ],
       "fetched_at": "2026-11-10T04:14:38Z",
       "path": "articles/2026-10-21-bernat-vadell-openui-ui.md"
+    },
+    {
+      "name": "P-H3-Image LoRAでキャラクターシートから12種類の画像編集を試した記事",
+      "genre": "article",
+      "url": "https://make-profit.net/2026/11/06/genai-lab-55-p-h3-image-lora-16gb-character-sheet-twelve-edits-christmas-outfit/",
+      "published": "2026-11-06",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "記載の実行時間・出力結果は記事著者の環境での報告で、独立した再現確認ではない。",
+      "type": "article",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/Phantom_202601/status/2119190903135047886"
+      ],
+      "fetched_at": "2026-11-11T00:14:58Z",
+      "path": "articles/2026-11-06-author-p-h3-image-lora-12.md"
     },
     {
       "name": "P-H3-Image: Turning a SOTA Video Model into an Efficient Open Image Model",
