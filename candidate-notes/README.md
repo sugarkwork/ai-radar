@@ -6,7 +6,23 @@
 
 ## 2026-11-12（日本時間）
 
+- [X: wquguru の投稿](https://x.com/wquguru/status/2118344919454810429)
+  - 対象を裏付ける公開一次資料を確認できませんでした。
+  - 公開に必須の根拠がそろっていません。
+- [X: wquguru の投稿](https://x.com/wquguru/status/2118342047518363955)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+  - 公開に必須の根拠がそろっていません。
+  - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://x.com/wquguru/status/2118342047518363955>。
 - [X: thegreatest_sv の投稿](https://x.com/thegreatest_sv/status/2118325722850697573)
+  - 候補の対象が複数あり、一意に特定できませんでした。
+  - 対象を裏付ける公開一次資料を確認できませんでした。
+- [X: superfang119 の投稿](https://x.com/superfang119/status/2118346848415154551)
+  - 対象を裏付ける公開一次資料を確認できませんでした。
+- [X: superfang119 の投稿](https://x.com/superfang119/status/2118332751975989486)
+  - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://github.com/mo-akkakk/ComfyUI-MiniMaxH3-TemporalWindow-SpatialTiles>。
+- [X: superfang119 の投稿](https://x.com/superfang119/status/2118332228581347815)
+  - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://x.com/superfang119/status/2118332228581347815>。
+- [X: superfang119 の投稿](https://x.com/superfang119/status/2118330533801529837)
   - 候補の対象が複数あり、一意に特定できませんでした。
   - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: sumika45379 の投稿](https://x.com/sumika45379/status/2118292245107683494)
@@ -14,6 +30,14 @@
 - [X: sep_is_heim の投稿](https://x.com/sep_is_heim/status/2118293989992661049)
   - 候補の対象が複数あり、一意に特定できませんでした。
   - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://x.com/sep_is_heim/status/2118293989992661049>。
+- [X: quixeltools の投稿](https://x.com/quixeltools/status/2118346475528994821)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+- [X: neuronxwhite の投稿](https://x.com/neuronxwhite/status/2118339232599269702)
+  - 候補の対象が複数あり、一意に特定できませんでした。
+  - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://x.com/neuronxwhite/status/2118339232599269702>。
+- [X: neuronxwhite の投稿](https://x.com/neuronxwhite/status/2118339222923022784)
+  - 下書きが公開用の検証基準を満たしていません。
+  - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: neuronxwhite の投稿](https://x.com/neuronxwhite/status/2118311669701173651)
   - 下書きが公開用の検証基準を満たしていません。
 - [X: neuronxwhite の投稿](https://x.com/neuronxwhite/status/2118278506916544679)
@@ -23,6 +47,9 @@
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
 - [X: naka_1717 の投稿](https://x.com/naka_1717/status/2118295722571567371)
   - 下書きが公開用の検証基準を満たしていません。 照合済み参照先: <https://x.com/naka_1717/status/2118295722571567371>。
+- [X: mingzi206 の投稿](https://x.com/mingzi206/status/2118332844015788096)
+  - 候補の対象が複数あり、一意に特定できませんでした。
+  - 公開に必須の根拠がそろっていません。
 - [X: mingzi206 の投稿](https://x.com/mingzi206/status/2118322838901813417)
   - 候補の対象が複数あり、一意に特定できませんでした。
 - [X: mingzi206 の投稿](https://x.com/mingzi206/status/2118269752334553089)
@@ -33,6 +60,8 @@
   - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: ganfanren_ai の投稿](https://x.com/ganfanren_ai/status/2118313579049009485)
   - 公開に必須の根拠がそろっていません。
+- [X: fhwofjow51260 の投稿](https://x.com/fhwofjow51260/status/2118331005375541552)
+  - 候補の対象が複数あり、一意に特定できませんでした。
 - [X: fhwofjow51260 の投稿](https://x.com/fhwofjow51260/status/2118323477958787442)
   - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: fhwofjow51260 の投稿](https://x.com/fhwofjow51260/status/2118323335046259110)
@@ -60,11 +89,17 @@
   - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://x.com/daaihq/status/2118280583013134432>。
 - [X: cryptowluha の投稿](https://x.com/cryptowluha/status/2118618563703394414)
   - 対象を裏付ける公開一次資料を確認できませんでした。
+- [X: RealMarvelX の投稿](https://x.com/RealMarvelX/status/2118330503040221345)
+  - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: RealMarvelX の投稿](https://x.com/RealMarvelX/status/2118286426299122018)
   - 掲載先URLの正常なHTTP応答を確認できませんでした。
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
   - 公開に必須の根拠がそろっていません。
+- [X: PayneL_AI の投稿](https://x.com/PayneL_AI/status/2118333980009435294)
+  - 候補の対象が複数あり、一意に特定できませんでした。
+  - 対象を裏付ける公開一次資料を確認できませんでした。
+  - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://x.com/PayneL_AI/status/2118322639936909786>。
 - [X: ModelingTechNT の投稿](https://x.com/ModelingTechNT/status/2118312373941633396)
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 - [X: Jack_FluxAI の投稿](https://x.com/Jack_FluxAI/status/2118318397708812364)
@@ -72,6 +107,8 @@
 - [X: EianLu の投稿](https://x.com/EianLu/status/2118317430665613741)
   - 下書きが公開用の検証基準を満たしていません。
   - 対象を裏付ける公開一次資料を確認できませんでした。
+- [X: Daihuku0015 の投稿](https://x.com/Daihuku0015/status/2118347320664396269)
+  - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://x.com/Daihuku0015/status/2118347320664396269>。
 ## 2026-11-11（日本時間）
 
 - [X: zazzy_stardust の投稿](https://x.com/zazzy_stardust/status/2119055200732557746)
