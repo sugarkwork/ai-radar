@@ -1,5 +1,5 @@
 {
-  "count": 895,
+  "count": 896,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -3351,6 +3351,37 @@
       "fetched_at": "2026-11-11T19:06:00.619117+00:00",
       "path": "entries/agent-framework/openhands-openhands.md",
       "summary": "OpenHands Agent Canvas は、OpenHands、Claude Code、Codex、Gemini CLI、Pi、OpenCode、および ACP 対応エージェントを利用するセルフホスト型の開発者向けコントロールセンターです。ローカル、Docker、VM、企業内環境などのバックエンドを切り替えられま"
+    },
+    {
+      "name": "Crawl4AI",
+      "genre": "agent-framework",
+      "url": "https://github.com/unclecode/crawl4ai",
+      "repo": "unclecode/crawl4ai",
+      "license": "Apache-2.0",
+      "stars": 87228,
+      "language": "Python",
+      "created": "2024-05-09",
+      "updated": "2026-11-10",
+      "forks": 9090,
+      "open_issues": 331,
+      "commits_30d": 30,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 151881,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "Cloud APIは従量課金で、READMEに記載の価格はプランや利用量により異なる。",
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/thegreatest_sv/status/2118325722850697573"
+      ],
+      "fetched_at": "2026-11-11T19:07:11.004659+00:00",
+      "path": "entries/agent-framework/unclecode-crawl4ai.md",
+      "summary": "WebページをLLM向けのMarkdownに変換し、CSS・XPath・正規表現・LLMを使った構造化データ抽出ができる。ブラウザー制御、ページ巡回、URL探索、チャンク分割もREADMEに記載されている。"
     },
     {
       "type": "repo",

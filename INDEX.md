@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 895 件 — リポジトリ 575, リンク集 114, 記事 139, モデル 53, プロンプト 14 / ⚑ 要確認 683 件
+収録 896 件 — リポジトリ 576, リンク集 114, 記事 139, モデル 53, プロンプト 14 / ⚑ 要確認 684 件
 
-## リポジトリ（575）
+## リポジトリ（576）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### エージェント基盤・スキル集（91）
+### エージェント基盤・スキル集（92）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Agent-Reach](entries/agent-framework/panniantong-agent-reach.md) | 110,600 | 9,905 | 毎日 | 100+ | 2026-11-08 | 2026-11-09 | 2026-11-10 | MIT |
 | [Impeccable](entries/agent-framework/pbakaus-impeccable.md) | 106,815 | 6,347 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
 | [OpenHands Agent Canvas](entries/agent-framework/openhands-openhands.md) ⚑ | 93,244 | 12,457 | 毎日 | 100+ | 2026-11-11 | 2026-11-11 | 2026-11-11 | MIT |
+| [Crawl4AI](entries/agent-framework/unclecode-crawl4ai.md) ⚑ | 87,228 | 9,090 | 毎日 | 30 | 2026-11-10 | 2026-11-11 | 2026-11-11 | Apache-2.0 |
 | [lobehub/lobehub](entries/agent-framework/lobehub-lobehub.md) ⚑ | 84,579 | 16,168 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | NOASSERTION |
 | [strix](entries/agent-framework/usestrix-strix.md) | 74,664 | 8,445 | 毎日 | 55 | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
 | [Security Audit Skill (Cloudflare)](entries/agent-framework/cloudflare-security-audit-skill.md) | 67,955 | 4,455 | 月次 | 0 | 2026-09-14 | 2026-11-09 | 2026-11-10 | MIT |
@@ -1392,6 +1393,7 @@
 - [Browser Use](entries/agent-framework/browser-use-browser-use.md) — unverified / README記載の実行条件と手順は未実行。クラウド利用時の料金や各機能の効果・利用条件は、この資料からは検証していない。
 - [thedotmack/claude-mem](entries/agent-framework/thedotmack-claude-mem.md) — unverified / 保存した会話・コード・機密の保持と削除範囲を確認する。starsランキングは性能試験ではなく、圧縮精度・情報漏洩対策は未実行確認。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [OpenHands Agent Canvas](entries/agent-framework/openhands-openhands.md) — unverified / Direct installation runs the agent server on the host with full filesystem access. The README recommends a Docker sandbox; its example mounts the selected projects directory and stores settings, secrets, and conversations in a named volume. Self-hosting security hardening is linked in the README.
+- [Crawl4AI](entries/agent-framework/unclecode-crawl4ai.md) — unverified / Cloud APIは従量課金で、READMEに記載の価格はプランや利用量により異なる。
 - [lobehub/lobehub](entries/agent-framework/lobehub-lobehub.md) — unverified / LobeHub Community LicenseはApache-2.0に派生作品配布の商用条件を追加した独自条件。NOASSERTIONを標準OSSライセンスと解釈しない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [CrewAI](entries/agent-framework/crewaiinc-crewai.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Flowise](entries/agent-framework/flowiseai-flowise.md) — unverified / READMEにリポジトリがアーカイブ済みと明記されています。GitHub APIのライセンス値はunknownですが、READMEはApache License Version 2.0と記載しています。 GitHub APIでライセンスを確認できていません。
