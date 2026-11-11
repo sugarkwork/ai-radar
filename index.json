@@ -1,5 +1,5 @@
 {
-  "count": 796,
+  "count": 797,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -16819,6 +16819,37 @@
       "fetched_at": "2026-11-10T12:32:31+00:00",
       "path": "entries/other/bytelabs-oss-clash-jev.md",
       "summary": "ADBで取得したH.264映像から手札、エリクサー、タワーなどを読み取り、既定で毎秒JSONのゲーム状態を組み立てる。Jevが戦略、カード、配置マスを順に選び、実行可能性を検査してからタップする。"
+    },
+    {
+      "repo": "ktaletsk/jevframe",
+      "name": "jevframe",
+      "genre": "other",
+      "url": "https://github.com/ktaletsk/jevframe",
+      "license": "MIT",
+      "stars": 21,
+      "language": "Python",
+      "created": "2026-09-18",
+      "updated": "2026-09-24",
+      "forks": 3,
+      "open_issues": 2,
+      "commits_30d": 0,
+      "commit_cadence": "monthly",
+      "commits_90d": 12,
+      "size_kb": 405,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEと公開パッケージ情報を確認した。実行による精度、処理速度、費用削減の検証は行っていない。TypeSafe APIの現行単価とデータ保持条件、およびGitHubの最新リリースは未確認。",
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/thegreatest_sv/status/2116142322543198271"
+      ],
+      "fetched_at": "2026-11-10T12:55:53+00:00",
+      "path": "entries/other/ktaletsk-jevframe.md",
+      "summary": "レビューの感情判定、問い合わせの分類、ルーブリックに沿った採点を、DataFrameの行ごとに実行できる。二択判定は肯定の確率をSeriesで返し、分類や採点では各選択肢の確率も列として取得できる。"
     },
     {
       "repo": "prasanthj/duckdb-jev",
