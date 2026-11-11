@@ -1,5 +1,5 @@
 {
-  "count": 894,
+  "count": 895,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -3524,6 +3524,37 @@
       "type": "repo",
       "path": "entries/agent-framework/hkuds-cli-anything.md",
       "summary": "GUI でしか操作できないソフト（GIMP、LibreOffice、Blender、CAD など）を、エージェントが叩ける **CLI として扱えるようにする**。各ソフト向けの「ハーネス」を集めたレジストリ（CLI-Hub）から入れるか、無いものは自分で生成する。"
+    },
+    {
+      "name": "Flowise",
+      "genre": "agent-framework",
+      "url": "https://github.com/FlowiseAI/Flowise",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEにリポジトリがアーカイブ済みと明記されています。GitHub APIのライセンス値はunknownですが、READMEはApache License Version 2.0と記載しています。 GitHub APIでライセンスを確認できていません。",
+      "repo": "FlowiseAI/Flowise",
+      "stars": 55567,
+      "forks": 25094,
+      "open_issues": 1038,
+      "size_kb": 82933,
+      "language": "TypeScript",
+      "created": "2023-03-31",
+      "updated": "2026-08-13",
+      "archived": true,
+      "license": "unknown",
+      "commits_30d": 0,
+      "commits_90d": 0,
+      "commit_cadence": "stale",
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/thegreatest_sv/status/2118325722850697573"
+      ],
+      "fetched_at": "2026-11-11T19:07:07.502531+00:00",
+      "path": "entries/agent-framework/flowiseai-flowise.md",
+      "summary": "視覚的にAIエージェントを構築する。READMEにはNode.jsでの起動方法とDockerでの起動方法が記載されています。"
     },
     {
       "repo": "sickn33/agentic-awesome-skills",
