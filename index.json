@@ -1,5 +1,5 @@
 {
-  "count": 864,
+  "count": 865,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -4292,6 +4292,37 @@
       "type": "repo",
       "path": "entries/agent-framework/narcooo-inkos.md",
       "summary": "**長編の物語創作に特化した AI エージェント**。世界観・人物設定・伏筆（伏線）・校閲・改稿を1つのワークフローに統合する。"
+    },
+    {
+      "name": "AutoHarness",
+      "genre": "agent-framework",
+      "url": "https://github.com/tigerless-labs/autoharness",
+      "repo": "tigerless-labs/autoharness",
+      "license": "MIT",
+      "language": "Python",
+      "created": "2026-06-09",
+      "updated": "2026-11-10",
+      "commit_cadence": "daily",
+      "archived": false,
+      "stars": 10940,
+      "forks": 654,
+      "open_issues": 19,
+      "size_kb": 1190,
+      "commits_30d": 100,
+      "commits_90d": 100,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景・有効性・依存関係・実行条件。",
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/CY160909/status/2120278073715396948"
+      ],
+      "fetched_at": "2026-11-11T04:20:28.707230+00:00",
+      "path": "entries/agent-framework/tigerless-labs-autoharness.md",
+      "summary": "Claude Codeのプラグインとして、作業セッションからスキルを作成し、同じシナリオのスキルを統合し、後続の利用状況に応じて更新・整理する。プラグインが生成したスキルだけを対象とし、セッション開始時にそれらの一覧を表示する。作成・更新の判断はスキルごとの台帳に記録される。READMEは、スキルの存続判定を後続ターン"
     },
     {
       "type": "repo",

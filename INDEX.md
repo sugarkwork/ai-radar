@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 864 件 — リポジトリ 545, リンク集 113, 記事 139, モデル 53, プロンプト 14 / ⚑ 要確認 653 件
+収録 865 件 — リポジトリ 546, リンク集 113, 記事 139, モデル 53, プロンプト 14 / ⚑ 要確認 654 件
 
-## リポジトリ（545）
+## リポジトリ（546）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### エージェント基盤・スキル集（81）
+### エージェント基盤・スキル集（82）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -53,6 +53,7 @@
 | [jakubkrehel/skills（UI デザインスキル集）](entries/agent-framework/jakubkrehel-skills.md) | 11,856 | 461 | 毎日 | 39 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
 | [dsh-market/dsh-market](entries/agent-framework/dsh-market-dsh-market.md) ⚑ | 11,675 | 444 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
 | [InkOS](entries/agent-framework/narcooo-inkos.md) | 11,086 | 2,015 | 週次 | 6 | 2026-10-24 | 2026-11-09 | 2026-11-10 | AGPL-3.0 |
+| [AutoHarness](entries/agent-framework/tigerless-labs-autoharness.md) ⚑ | 10,940 | 654 | 毎日 | 100+ | 2026-11-10 | 2026-11-11 | 2026-11-11 | MIT |
 | [zhu1090093659/dsh-web](entries/agent-framework/zhu1090093659-dsh-web.md) ⚑ | 10,279 | 626 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
 | [Mobilerun](entries/agent-framework/droidrun-mobilerun.md) ⚑ | 10,004 | 1,086 | 毎日 | 94 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
 | [Orkas](entries/agent-framework/orkas-ai-orkas.md) ⚑ | 9,183 | 534 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-11 | MIT |
@@ -1372,6 +1373,7 @@
 - [opensandbox-group/OpenSandbox](entries/agent-framework/opensandbox-group-opensandbox.md) — unverified / 64ms P50・125.4ms P99等は開発側ベンチ。隔離の強さは設定・バックエンドによるため、秘密情報やネットワークの安全性を一括保証しない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Worktrunk](entries/agent-framework/max-sixty-worktrunk.md) — unverified / 発見元の投稿は画面録画MCP（t.co リンク先は gmpetrov/agent-screenplay）の紹介で、worktrunk はそのツールではない。worktrunk は git worktree 管理 CLI で、投稿本文に worktrunk への言及はない。数値・機能は worktrunk 自身の API/README/公式ドキュメントで確認した。
 - [dsh-market/dsh-market](entries/agent-framework/dsh-market-dsh-market.md) — unverified / 4200以上のプラグインという数は投稿/READMEの主張で独立確認なし。市場の掲載は各プラグインの安全性保証ではない。 当方でインストール・推論・生成・ベンチ再現はしていない。
+- [AutoHarness](entries/agent-framework/tigerless-labs-autoharness.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [zhu1090093659/dsh-web](entries/agent-framework/zhu1090093659-dsh-web.md) — unverified / 10選への掲載とGitHub実在確認は動作試験ではない。外部公開時の安全性・セッション保持・料金は未確認。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Mobilerun](entries/agent-framework/droidrun-mobilerun.md) — unverified / 投稿の主張のうち一次情報で確認できたのは「root不要」「ADB経由で実機を操作」「MIT」まで。未確認/誤り: (1)「300+機種・40ブランド対応」は README・docs に記載がなく、要件は Android 8.0(API 26)+ のみ。(2)「家庭内Wi-FiのADBは誰でも命令できる抜け穴」は誤りで、公式docsは Android 11+ のワイヤレスデバッグにペアリングコード(or QR)による adb pair を必須と明記。(3)「3ツールのエージェントをMCPとしてClaude Codeに接続」は repo の実装と不一致。repo 内 mobilerun/mcp は外部MCPサーバーをツールとして取り込むクライアント側で、MCPサーバーは提供していない。コーディングエージェント連携は別リポジトリの Markdown スキル mobile-harness 経由。(4) エージェントの操作は9種(click/long_press/type/system_button/swipe/open_app/get_state/take_screenshot/complete)で「3ツール」ではない。(5)「1言でTelegramを開きChatGPTを入れる」動作は docs/README に実演記録がなく、Play Store 経由の自動インストールは未確認(Portal は URL からの APK インストールには対応)。(6) 引用記事 https://x.com/i/article/2109686434210693120 はログイン要求で本文未取得。(7) ベンチマーク 100% AndroidWorld / 98.34% iOSWorld はベンダー自己申告で第三者追試なし。
 - [Orkas](entries/agent-framework/orkas-ai-orkas.md) — unverified / README記載の機能説明に基づく。各エージェントの実際の性能、動作条件、依存関係は確認していない。
