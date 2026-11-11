@@ -1,5 +1,5 @@
 {
-  "count": 819,
+  "count": 820,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -18467,6 +18467,37 @@
       "fetched_at": "2026-11-10T12:53:35Z",
       "path": "entries/prompt-design/kaankiziltug-logo-design-skill.md",
       "summary": "白黒のSVG候補を比較し、64・32・16 pxの表示と推奨案を確認してから方向を選ぶ。選んだ案を配色、ロゴの組み合わせ、ファビコン、利用ガイドへ展開する。"
+    },
+    {
+      "name": "Transitions.dev",
+      "genre": "prompt-design",
+      "url": "https://github.com/Jakubantalik/transitions.dev",
+      "repo": "Jakubantalik/transitions.dev",
+      "license": "unknown",
+      "stars": 6213,
+      "language": "HTML",
+      "created": "2026-04-21",
+      "updated": "2026-11-08",
+      "forks": 295,
+      "open_issues": 14,
+      "commits_30d": 62,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 53686,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "GitHub API上のライセンスはunknown。READMEには個人・商用利用と改変・製品への同梱を認める説明がある一方、ライブラリ自体の競合配布を禁止し、ツール類はMITと記載されている。料金やPro機能の利用条件の詳細は未確認。 GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/thegreatest_sv/status/2116967509735747833"
+      ],
+      "fetched_at": "2026-11-10T14:11:58.576375+00:00",
+      "path": "entries/prompt-design/jakubantalik-transitions.dev.md",
+      "summary": "READMEによると、12種類の操作パターンを示すインタラクティブなCSSトランジション集を提供し、各カードからコピー可能なCSSスニペットを取得できる。CLIでトランジションを追加でき、エージェントスキルとしても導入可能。UI生成向けスキルには、UI・テキスト・画像などの表示モードが記載されている。Refineは実行"
     },
     {
       "type": "repo",

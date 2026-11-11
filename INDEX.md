@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 819 件 — リポジトリ 507, リンク集 113, 記事 132, モデル 53, プロンプト 14 / ⚑ 要確認 609 件
+収録 820 件 — リポジトリ 508, リンク集 113, 記事 132, モデル 53, プロンプト 14 / ⚑ 要確認 610 件
 
-## リポジトリ（507）
+## リポジトリ（508）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -494,7 +494,7 @@
 | [pagesift](entries/mcp-server/yolow92-pagesift.md) ⚑ | 256 | 32 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 |  | AGPL-3.0 |
 | [Kosh](entries/mcp-server/sachinyadavaug20-kosh.md) ⚑ | 4 | 0 | 毎日 | 61 | 2026-11-10 | 2026-11-10 |  | Apache-2.0 |
 
-### プロンプト（デザイン/UI）（17）
+### プロンプト（デザイン/UI）（18）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -505,9 +505,10 @@
 | [Hallmark（AIっぽさを名指しで潰すデザインスキル）](entries/prompt-design/nutlope-hallmark.md) ⚑ | 51,710 | 2,750 | 毎日 | 85 | 2026-11-05 | 2026-11-09 |  | MIT |
 | [Huashu Design](entries/prompt-design/alchaincyf-huashu-design.md) ⚑ | 29,080 | 3,134 | 毎日 | 31 | 2026-11-10 | 2026-11-10 |  | MIT |
 | [prompt-master](entries/prompt-design/nidhinjs-prompt-master.md) ⚑ | 15,766 | 1,819 | 週次 | 7 | 2026-10-22 | 2026-11-09 |  | MIT |
-| [scroll-world](entries/prompt-design/oso95-scroll-world.md) ⚑ | 10,920 | 1,190 | 停滞 | 0 | 2026-07-29 | 2026-11-10 | 2026-11-11 | MIT |
+| [scroll-world](entries/prompt-design/oso95-scroll-world.md) ⚑ | 10,920 | 1,190 | 停滞 | 0 | 2026-07-29 | 2026-11-10 |  | MIT |
 | [handraw-style](entries/prompt-design/yang0-handraw-style.md) | 7,265 | 852 | 毎日 | 60 | 2026-11-09 | 2026-11-09 |  | NOASSERTION |
 | [logo-design-skill](entries/prompt-design/kaankiziltug-logo-design-skill.md) ⚑ | 6,462 | 513 | 週次 | 8 | 2026-11-06 | 2026-11-10 |  | MIT |
+| [Transitions.dev](entries/prompt-design/jakubantalik-transitions.dev.md) ⚑ | 6,213 | 295 | 毎日 | 62 | 2026-11-08 | 2026-11-10 | 2026-11-11 | unknown |
 | [kepano/obsidian-minimal](entries/prompt-design/kepano-obsidian-minimal.md) ⚑ | 5,555 | 295 | 月次 | 0 | 2026-10-06 | 2026-11-09 |  | MIT |
 | [kepano/flexoki](entries/prompt-design/kepano-flexoki.md) ⚑ | 3,810 | 139 | 停滞 | 0 | 2026-03-07 | 2026-11-09 |  | MIT |
 | [The Designer Skills Pack](entries/prompt-design/owl-listener-designer-skills.md) ⚑ | 3,309 | 436 | 月次 | 0 | 2026-09-05 | 2026-11-10 |  | MIT |
@@ -1707,6 +1708,7 @@
 - [prompt-master](entries/prompt-design/nidhinjs-prompt-master.md) — unverified / 今回の投稿は機能紹介で新たな実行試験ではない。 今回の動作・推論・生成・性能は未検証。
 - [scroll-world](entries/prompt-design/oso95-scroll-world.md) — unverified / 生成には外部サービスのCLI、認証情報、クレジットまたは従量課金が必要。README記載の価格や効果は独立検証していない。
 - [logo-design-skill](entries/prompt-design/kaankiziltug-logo-design-skill.md) — unverified / 作者の手順と掲載例を確認した。スクリプトの実行、エージェント間の再現性、16 pxでの可読性や既存商標との類似性は独立検証していない。最新リリースは公開ページの表示で確認し、公開日時の完全な値は未確認。
+- [Transitions.dev](entries/prompt-design/jakubantalik-transitions.dev.md) — unverified / GitHub API上のライセンスはunknown。READMEには個人・商用利用と改変・製品への同梱を認める説明がある一方、ライブラリ自体の競合配布を禁止し、ツール類はMITと記載されている。料金やPro機能の利用条件の詳細は未確認。 GitHub APIでライセンスを確認できていません。
 - [kepano/obsidian-minimal](entries/prompt-design/kepano-obsidian-minimal.md) — unverified / MIT表記を原チェックで確認。テーマの見た目・機能・バージョン互換性は未実行確認。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [kepano/flexoki](entries/prompt-design/kepano-flexoki.md) — unverified / MITは配色リポジトリの条件。コントラストや可読性は実際の組み合わせ・端末で確認する必要があり本調査では未試験。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [The Designer Skills Pack](entries/prompt-design/owl-listener-designer-skills.md) — unverified / README names Claude Code and Gemini CLI but does not establish compatibility with other agents. Dependencies beyond those tools, execution requirements, and effectiveness are unverified. Repository metrics are supplied separately as measured data.
