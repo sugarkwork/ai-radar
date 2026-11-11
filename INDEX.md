@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 905 件 — リポジトリ 585, リンク集 114, 記事 139, モデル 53, プロンプト 14 / ⚑ 要確認 693 件
+収録 906 件 — リポジトリ 586, リンク集 114, 記事 139, モデル 53, プロンプト 14 / ⚑ 要確認 694 件
 
-## リポジトリ（585）
+## リポジトリ（586）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -105,7 +105,7 @@
 | [jevwire](entries/agent-framework/brainwires-jevwire.md) ⚑ | 27 | 6 | 週次 | 11 | 2026-11-06 | 2026-11-11 | 2026-11-11 | MIT |
 | [web-api-skills](entries/agent-framework/oxylabs-web-api-skills.md) | 13 | 1 | 週次 | 11 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
 
-### 動画生成パイプライン（85）
+### 動画生成パイプライン（86）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -168,6 +168,7 @@
 | [ComfyUI MiniMax H3 Director workflows](entries/video-gen/huangserva-comfyui_minimaxh3_director.md) ⚑ | 1,485 | 152 | 停滞 | 0 | 2026-08-04 | 2026-11-11 | 2026-11-11 | Apache-2.0 |
 | [Papermorph](entries/video-gen/dozentwelve-papermorph.md) | 1,476 | 190 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
 | [vibe-knowledge-film](entries/video-gen/heychengc-vibe-knowledge-film.md) ⚑ | 1,191 | 112 | 月次 | 2 | 2026-10-13 | 2026-11-09 | 2026-11-10 | 未確認（GitHub API は NOASSERTION） |
+| [twigl](entries/video-gen/doxas-twigl.md) ⚑ | 1,110 | 65 | 停滞 | 0 | 2026-03-04 | 2026-11-11 | 2026-11-11 | MIT |
 | [Kablex/ComfyUI-Ref2VA-VSA](entries/video-gen/kablex-comfyui-ref2va-vsa.md) ⚑ | 1,027 | 127 | 月次 | 1 | 2026-10-17 | 2026-11-09 | 2026-11-10 | NOASSERTION |
 | [Story Studio（故事工坊）](entries/video-gen/konlu-story-studio.md) ⚑ | 842 | 182 | 月次 | 3 | 2026-11-03 | 2026-11-10 | 2026-11-10 | unknown |
 | [claude-video-effects](entries/video-gen/vibha-ramprakash-claude-video-effects.md) ⚑ | 839 | 202 | 週次 | 9 | 2026-11-09 | 2026-11-10 | 2026-11-10 | unknown |
@@ -1968,6 +1969,7 @@
 - [shinyobjectz/raea](entries/video-gen/shinyobjectz-raea.md) — unverified / canaryで日々の破壊的変更、Windowsは特に未検証と作者が注意。FSL-1.1-ALv2は競合利用制限があり2年後Apache移行、通常のApache OSSとは異なる。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [ComfyUI MiniMax H3 Director workflows](entries/video-gen/huangserva-comfyui_minimaxh3_director.md) — unverified / README报告的已验证环境仅覆盖 RTX 4090、ComfyUI 0.30.0、PyTorch 2.11.0 + CUDA 12.8 和 Ref2VA INT8；该环境下可运行 R2V、V2V、RV2V。T2V、I2V、FL2V 尚需 fl2va 权重。人物身份没有硬锁，README建议检查分段衔接与人物一致性。
 - [vibe-knowledge-film](entries/video-gen/heychengc-vibe-knowledge-film.md) — unverified / ライセンス未確認（API は NOASSERTION、標準ライセンスファイル無し）。参照サンプルの転用可否も不明。
+- [twigl](entries/video-gen/doxas-twigl.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Kablex/ComfyUI-Ref2VA-VSA](entries/video-gen/kablex-comfyui-ref2va-vsa.md) — unverified / RTX4090の約72秒warm/13.5GBは作者表。zero face driftは設計主張で独立証明なし。2026-09-05作成で今回の新作ではない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Story Studio（故事工坊）](entries/video-gen/konlu-story-studio.md) — unverified / 公開文書を確認。依存関係の自動セットアップ、文字起こしと分鏡の整合精度、剪映のバージョン別互換性、最新リリースは未検証。README はコードと Skill 仕様に MIT を明記する一方、GitHub API の計測値は unknown。収録台本・参考画像の個別の再利用条件は未確認。 GitHub APIでライセンスを確認できていません。
 - [claude-video-effects](entries/video-gen/vibha-ramprakash-claude-video-effects.md) — unverified / 公式 README は公開 raw URL で確認。最新リリース、顔追従・遮蔽処理・発話位置の精度、初回セットアップの所要時間、Codex 互換性は未確認。ライセンス欄は親の GitHub API 実測値 unknown を保持。MIT と同梱素材の個別ライセンスは README の記載に基づき、各ライセンス本文は未照合。 GitHub APIでライセンスを確認できていません。

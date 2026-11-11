@@ -1,5 +1,5 @@
 {
-  "count": 905,
+  "count": 906,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -25872,6 +25872,37 @@
       "type": "repo",
       "path": "entries/video-gen/heychengc-vibe-knowledge-film.md",
       "summary": "知識系ショート動画（抖音で流行した「バイブ知識大賞」形式）を作るスキル。2モード: 「夜曲」＝抽象的で難解な知識を語る／「寓言」＝心理・行動のロジックを物語として見せる。"
+    },
+    {
+      "name": "twigl",
+      "genre": "video-gen",
+      "url": "https://github.com/doxas/twigl",
+      "repo": "doxas/twigl",
+      "license": "MIT",
+      "language": "JavaScript",
+      "created": "2020-04-13",
+      "updated": "2026-03-04",
+      "commits_30d": 0,
+      "commit_cadence": "stale",
+      "commits_90d": 0,
+      "size_kb": 17972,
+      "archived": false,
+      "stars": 1110,
+      "forks": 65,
+      "open_issues": 15,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景・有効性・依存関係・実行条件。",
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/RealMarvelX/status/2118330503040221345"
+      ],
+      "fetched_at": "2026-11-11T20:10:03.104881+00:00",
+      "path": "entries/video-gen/doxas-twigl.md",
+      "summary": "twigl.appはOne tweet shader向けのオンラインエディターです。READMEではGIF、WebM、JPEG、PNGの生成、サウンドシェーダー、ライブコーディングに対応すると説明しています。GLSL ES 3.0とMRTにも対応し、サウンドシェーダーが生成する音声データをグラフィックス用シェーダーでu"
     },
     {
       "type": "repo",
