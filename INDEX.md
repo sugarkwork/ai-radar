@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 882 件 — リポジトリ 563, リンク集 113, 記事 139, モデル 53, プロンプト 14 / ⚑ 要確認 671 件
+収録 883 件 — リポジトリ 564, リンク集 113, 記事 139, モデル 53, プロンプト 14 / ⚑ 要確認 672 件
 
-## リポジトリ（563）
+## リポジトリ（564）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -540,12 +540,13 @@
 | [pagesift](entries/mcp-server/yolow92-pagesift.md) ⚑ | 256 | 32 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | AGPL-3.0 |
 | [Kosh](entries/mcp-server/sachinyadavaug20-kosh.md) ⚑ | 4 | 0 | 毎日 | 61 | 2026-11-10 | 2026-11-10 | 2026-11-10 | Apache-2.0 |
 
-### 画像生成・編集（21）
+### 画像生成・編集（22）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
 | [ComfyUI](entries/image-gen/comfy-org-comfyui.md) ⚑ | 146,083 | 17,401 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | GPL-3.0 |
 | [Real-ESRGAN](entries/image-gen/xinntao-real-esrgan.md) ⚑ | 37,430 | 4,528 | 停滞 | 0 | 2024-08-06 | 2026-11-10 | 2026-11-10 | BSD-3-Clause |
+| [rembg](entries/image-gen/danielgatis-rembg.md) ⚑ | 25,424 | 2,481 | 週次 | 9 | 2026-11-06 | 2026-11-11 | 2026-11-11 | MIT |
 | [ostris/ai-toolkit](entries/image-gen/ostris-ai-toolkit.md) ⚑ | 12,595 | 1,616 | 毎日 | 55 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
 | [facebookresearch/sam3](entries/image-gen/facebookresearch-sam3.md) ⚑ | 12,252 | 1,857 | 月次 | 2 | 2026-10-23 | 2026-11-09 | 2026-11-10 | NOASSERTION |
 | [AI 角色参考与合成工作台 · 中文版（3合1）](entries/image-gen/anhao-ai-pose-gallery-zh.md) ⚑ | 6,608 | 1,670 | 毎日 | 82 | 2026-11-04 | 2026-11-10 | 2026-11-10 | unknown |
@@ -1613,6 +1614,7 @@
 - [jev-polymarket-test](entries/finance-quant/truongxxxx-jev-polymarket-test.md) — unverified / 理由未記入
 - [ComfyUI](entries/image-gen/comfy-org-comfyui.md) — unverified / FP8とDynamic VRAMの速度改善幅、P-H3-Imageのモデル系譜と重みの利用条件、各機能の必要VRAMと出力品質、最新リリースの公開日時の年とタイムゾーンは未確認。導入と推論の実行検証は行っていない。
 - [Real-ESRGAN](entries/image-gen/xinntao-real-esrgan.md) — unverified / 最新リリースのタグはGitHubの公開ページで確認した。公開日時、現在の依存バージョンでの互換性、実行速度、VRAM使用量、動画フレーム間の一貫性、配布重み固有の利用条件は未確認。画質の記述は著者の報告に基づき、独立した実行・測定は行っていない。
+- [rembg](entries/image-gen/danielgatis-rembg.md) — unverified / READMEに説明されている機能・効果の記載であり、個別環境での動作や出力品質は確認していない。GPU利用には対応する実行環境とバックエンドの追加設定が必要。クラウドモデルは外部APIのキーと課金条件に依存する。
 - [ostris/ai-toolkit](entries/image-gen/ostris-ai-toolkit.md) — unverified / MITはツールのコードに関する条件で、学習元重み・画像・生成物の条件とは別。学習速度・VRAM・成果は未再現。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [facebookresearch/sam3](entries/image-gen/facebookresearch-sam3.md) — unverified / 独自SAM Licenseで標準MIT/Apacheではない。重みのmanual gateや利用条件を確認し、複数人モーションのデモを本体の実行試験としない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [AI 角色参考与合成工作台 · 中文版（3合1）](entries/image-gen/anhao-ai-pose-gallery-zh.md) — unverified / README に基づく。デモと各生成連携の動作、生成品質、クラウド API の料金、素材ごとの許諾、最新リリースは未確認。 GitHub APIでライセンスを確認できていません。

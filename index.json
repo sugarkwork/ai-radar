@@ -1,5 +1,5 @@
 {
-  "count": 882,
+  "count": 883,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -11802,6 +11802,37 @@
       "fetched_at": "2026-11-10T09:51:41Z",
       "path": "entries/image-gen/xinntao-real-esrgan.md",
       "summary": "一般画像向けの学習済みモデルで画像を4倍に拡大できる。公式リポジトリはアニメ動画向けのモデルも案内している。 [公式README](https://raw.githubusercontent.com/xinntao/Real-ESRGAN/master/README.md)"
+    },
+    {
+      "name": "rembg",
+      "genre": "image-gen",
+      "url": "https://github.com/danielgatis/rembg",
+      "repo": "danielgatis/rembg",
+      "license": "MIT",
+      "stars": 25424,
+      "language": "Python",
+      "created": "2020-08-10",
+      "updated": "2026-11-06",
+      "forks": 2481,
+      "open_issues": 1,
+      "commits_30d": 9,
+      "commit_cadence": "weekly",
+      "commits_90d": 24,
+      "size_kb": 89581,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEに説明されている機能・効果の記載であり、個別環境での動作や出力品質は確認していない。GPU利用には対応する実行環境とバックエンドの追加設定が必要。クラウドモデルは外部APIのキーと課金条件に依存する。",
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/cryptowluha/status/2118618563703394414"
+      ],
+      "fetched_at": "2026-11-11T15:12:36.528978+00:00",
+      "path": "entries/image-gen/danielgatis-rembg.md",
+      "summary": "画像の背景を除去するツール。READMEではCLI、Pythonライブラリ、HTTPサーバー、Dockerコンテナとしての利用を説明。CLIは単体画像、フォルダーのバッチ処理と監視処理、HTTPサーバー、RGB24ストリームを扱える。単体画像処理ではモデル指定、マスクのみの出力、アルファマッティング、ソフトエッジの色に"
     },
     {
       "type": "repo",
