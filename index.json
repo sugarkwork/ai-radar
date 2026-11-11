@@ -1,5 +1,5 @@
 {
-  "count": 846,
+  "count": 847,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -8562,6 +8562,37 @@
       "fetched_at": "2026-11-10T12:15:35+00:00",
       "path": "entries/coding-agent/ibelick-ui-skills.md",
       "summary": "create-canvasは、既存コンポーネントを使った操作可能な画面案を、プロジェクト内のキャンバスに並べるための実装指示を提供する。別案を頼まれた場合は元の案を残し、別案に新しいID、固有の名前、独立した状態を持たせるよう定めている。"
+    },
+    {
+      "name": "improve",
+      "genre": "coding-agent",
+      "url": "https://github.com/shadcn/improve",
+      "repo": "shadcn/improve",
+      "license": "MIT",
+      "stars": 10241,
+      "language": "unknown",
+      "created": "2026-06-10",
+      "updated": "2026-09-12",
+      "forks": 425,
+      "open_issues": 17,
+      "commits_30d": 0,
+      "commit_cadence": "stale",
+      "commits_90d": 1,
+      "size_kb": 17,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景・有効性・依存関係・実行条件。",
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/TiagerBao/status/2120123324273745941"
+      ],
+      "fetched_at": "2026-11-10T23:16:52.547704+00:00",
+      "path": "entries/coding-agent/shadcn-improve.md",
+      "summary": "READMEでは、コードベースを監査して優先順位付きの指摘と実装計画を作成するAgent Skillとして説明されている。監査カテゴリには正確性、セキュリティ、性能、テスト網羅性、技術的負債、依存関係・移行、開発者体験、ドキュメント、方向性が含まれる。計画のレビュー、安価な実行エージェントへの委任、計画バックログの整理"
     },
     {
       "repo": "tamaratran/fast-jev-compaction",
