@@ -1,5 +1,5 @@
 {
-  "count": 901,
+  "count": 902,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -18052,6 +18052,37 @@
       "fetched_at": "2026-11-10T23:13:41.871917+00:00",
       "path": "entries/other/google-deepmind-mujoco.md",
       "summary": "関節構造と環境が相互作用する物理シミュレーションを行う汎用エンジン。C API、Python bindings、Unityプラグインを提供し、ネイティブデスクトップウィンドウとWebブラウザーでの対話型可視化、物理量計算用のユーティリティ関数を備える。READMEはロボティクス、生体力学、グラフィックス・アニメーション"
+    },
+    {
+      "name": "PlayCanvas Engine",
+      "genre": "other",
+      "url": "https://github.com/playcanvas/engine",
+      "repo": "playcanvas/engine",
+      "language": "JavaScript",
+      "open_issues": 461,
+      "updated": "2026-11-11",
+      "commit_cadence": "daily",
+      "size_kb": 708450,
+      "archived": false,
+      "stars": 17274,
+      "forks": 2054,
+      "created": "2014-05-12",
+      "license": "MIT",
+      "commits_30d": 100,
+      "commits_90d": 100,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景・有効性・依存関係・実行条件。",
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/RealMarvelX/status/2118330503040221345"
+      ],
+      "fetched_at": "2026-11-11T20:08:46.525455+00:00",
+      "path": "entries/other/playcanvas-engine.md",
+      "summary": "WebGL2とWebGPUを基盤とするゲームエンジン。ブラウザーで動くインタラクティブな3Dアプリ、ゲーム、ビジュアライゼーションを作成できる。READMEにはグラフィックス、Gaussian Splatting、WebXR、物理演算、アニメーション、入力、音声、アセット配信、JavaScript/TypeScript"
     },
     {
       "repo": "dreammis/social-auto-upload",
