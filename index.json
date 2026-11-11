@@ -1,5 +1,5 @@
 {
-  "count": 786,
+  "count": 787,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -16210,6 +16210,41 @@
       "type": "repo",
       "path": "entries/other/tencent-wevisone-vl.md",
       "summary": "物体レベルの知覚（物体検出、指示対象の位置特定、カウント、ポイント指示、OCR）と、画素レベルの知覚（指示セグメンテーション、プロンプタブルなアルファマット）を1つの視覚言語モデルで扱う。"
+    },
+    {
+      "repo": "anishfn/shapeshift",
+      "name": "Shapeshift",
+      "genre": "other",
+      "url": "https://github.com/anishfn/shapeshift",
+      "stars": 1066,
+      "forks": 106,
+      "open_issues": 6,
+      "size_kb": 12116,
+      "language": "TypeScript",
+      "created": "2026-09-22",
+      "updated": "2026-09-23",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 0,
+      "commits_90d": 18,
+      "commit_cadence": "monthly",
+      "last_release": "",
+      "last_release_at": "",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": [
+        "READMEと公開ソースを確認。コードは実行しておらず、分類精度、曖昧な入力での挙動、実応答時間、オンライン障害時のフォールバックは未実測。TypeSafe APIの現行料金と利用条件は未確認。"
+      ],
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/thegreatest_sv/status/2115779290033803462"
+      ],
+      "fetched_at": "2026-11-10T12:34:19+00:00",
+      "path": "entries/other/anishfn-shapeshift.md",
+      "summary": "1つの入力欄から予定、チェックリスト、タイマー、割り勘などの既定カードを選ぶ。作者の例では split 2400 between 3 で1人あたり₹800を表示する。保存したカードはブラウザーの localStorage に残る。"
     },
     {
       "repo": "georgmartius/vid.stab",
