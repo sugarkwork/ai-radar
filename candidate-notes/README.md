@@ -6,6 +6,9 @@
 
 ## 2026-11-12（日本時間）
 
+- [X: thegreatest_sv の投稿](https://x.com/thegreatest_sv/status/2118325722850697573)
+  - 候補の対象が複数あり、一意に特定できませんでした。
+  - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: sumika45379 の投稿](https://x.com/sumika45379/status/2118292245107683494)
   - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: sep_is_heim の投稿](https://x.com/sep_is_heim/status/2118293989992661049)
@@ -20,6 +23,8 @@
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
 - [X: naka_1717 の投稿](https://x.com/naka_1717/status/2118295722571567371)
   - 下書きが公開用の検証基準を満たしていません。 照合済み参照先: <https://x.com/naka_1717/status/2118295722571567371>。
+- [X: mingzi206 の投稿](https://x.com/mingzi206/status/2118322838901813417)
+  - 候補の対象が複数あり、一意に特定できませんでした。
 - [X: mingzi206 の投稿](https://x.com/mingzi206/status/2118269752334553089)
   - GitHub APIで元のリポジトリを確認できませんでした。
 - [X: lucasjamali の投稿](https://x.com/lucasjamali/status/2120513123215888591)
@@ -28,6 +33,13 @@
   - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: ganfanren_ai の投稿](https://x.com/ganfanren_ai/status/2118313579049009485)
   - 公開に必須の根拠がそろっていません。
+- [X: fhwofjow51260 の投稿](https://x.com/fhwofjow51260/status/2118323477958787442)
+  - 対象を裏付ける公開一次資料を確認できませんでした。
+- [X: fhwofjow51260 の投稿](https://x.com/fhwofjow51260/status/2118323335046259110)
+  - 対象を裏付ける公開一次資料を確認できませんでした。
+- [X: fhwofjow51260 の投稿](https://x.com/fhwofjow51260/status/2118321677725806652)
+  - 候補の対象が複数あり、一意に特定できませんでした。
+  - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: fhwofjow51260 の投稿](https://x.com/fhwofjow51260/status/2118321504748528089)
   - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: fhwofjow51260 の投稿](https://x.com/fhwofjow51260/status/2118321147918057501)
