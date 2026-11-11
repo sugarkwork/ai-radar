@@ -98,6 +98,8 @@
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
 - [X: sep_is_heim の投稿](https://x.com/sep_is_heim/status/2120257150421475438)
   - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://huggingface.co/MiniMaxAI/MiniMax-H3-Image>。
+- [X: sep_is_heim の投稿](https://x.com/sep_is_heim/status/2118268981454962976)
+  - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://x.com/sep_is_heim/status/2118268981454962976>。
 - [X: sep_is_heim の投稿](https://x.com/sep_is_heim/status/2118255151781924914)
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
 - [X: sep_is_heim の投稿](https://x.com/sep_is_heim/status/2118237891113754632)
@@ -174,6 +176,8 @@
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 - [X: naka_1717 の投稿](https://x.com/naka_1717/status/2119002818652565905)
   - 候補の対象が複数あり、一意に特定できませんでした。
+- [X: naka_1717 の投稿](https://x.com/naka_1717/status/2118255800292639033)
+  - 候補の対象が複数あり、一意に特定できませんでした。
 - [X: naka_1717 の投稿](https://x.com/naka_1717/status/2118234806605717783)
   - 元画像を確認できず、画像内の内容は未検証です。 照合済み参照先: <https://x.com/xikhar/status/2117776295534997818>。
   - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://x.com/xikhar/status/2117776295534997818>。
@@ -222,6 +226,8 @@
   - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: mingzi206 の投稿](https://x.com/mingzi206/status/2118910667667476626)
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+- [X: mingzi206 の投稿](https://x.com/mingzi206/status/2118258404712223047)
+  - 候補の対象が複数あり、一意に特定できませんでした。
 - [X: mingzi206 の投稿](https://x.com/mingzi206/status/2118244361347670486)
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
 - [X: mingzi206 の投稿](https://x.com/mingzi206/status/2118242106917757272)
@@ -309,6 +315,12 @@
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
 - [X: eng_khairallah1 の投稿](https://x.com/eng_khairallah1/status/2118058699877126221)
   - 一次資料と候補の説明に、解消できない相違があります。 照合済み参照先: <https://x.com/eng_khairallah1/status/2117950857132282358>。
+- [X: dyfwsammy の投稿](https://x.com/dyfwsammy/status/2118615353336922149)
+  - 候補の対象が複数あり、一意に特定できませんでした。
+  - GitHub APIで元のリポジトリを確認できませんでした。
+  - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+  - 対象を裏付ける公開一次資料を確認できませんでした。
+  - 公開に必須の根拠がそろっていません。
 - [X: dotey の投稿](https://x.com/dotey/status/2118052017755005210)
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
 - [X: dextune の投稿](https://x.com/dextune/status/2118994641798262815)
@@ -459,6 +471,9 @@
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
   - 料金の区分または出典を確認できませんでした。
   - 公開に必須の根拠がそろっていません。
+- [X: RealMarvelX の投稿](https://x.com/RealMarvelX/status/2118258924595888452)
+  - 公開に必須の根拠がそろっていません。
+  - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://x.com/RealMarvelX/status/2118258924595888452>。
 - [X: RealMarvelX の投稿](https://x.com/RealMarvelX/status/2118237278292070756)
   - 対象を裏付ける公開一次資料を確認できませんでした。
   - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://x.com/RealMarvelX/status/2118237278292070756>。
@@ -499,6 +514,8 @@
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 - [X: PayneL_AI の投稿](https://x.com/PayneL_AI/status/2117428107535884645)
   - 対象を裏付ける公開一次資料を確認できませんでした。
+- [X: PartyStraw の投稿](https://x.com/PartyStraw/status/2120515005229449341)
+  - 元投稿と配布先が同一対象であることを裏付けられませんでした。
 - [X: OnwUh12 の投稿](https://x.com/OnwUh12/status/2118891000089411602)
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
 - [X: NanihaalKahani の投稿](https://x.com/NanihaalKahani/status/2119651681592095127)
@@ -583,6 +600,9 @@
 - [X: GoSailGlobal の投稿](https://x.com/GoSailGlobal/status/2117474999221285252)
   - 掲載先URLの正常なHTTP応答を確認できませんでした。
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+- [X: FradSer の投稿](https://x.com/FradSer/status/2118257675779850453)
+  - 候補の対象が複数あり、一意に特定できませんでした。
+  - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: Forhanvv の投稿](https://x.com/Forhanvv/status/2119186920228147368)
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
 - [X: Eris_Create_Lab の投稿](https://x.com/Eris_Create_Lab/status/2118948825125597550)
