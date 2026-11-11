@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 891 件 — リポジトリ 571, リンク集 114, 記事 139, モデル 53, プロンプト 14 / ⚑ 要確認 679 件
+収録 892 件 — リポジトリ 572, リンク集 114, 記事 139, モデル 53, プロンプト 14 / ⚑ 要確認 680 件
 
-## リポジトリ（571）
+## リポジトリ（572）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### エージェント基盤・スキル集（87）
+### エージェント基盤・スキル集（88）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -25,6 +25,7 @@
 | [paperclip](entries/agent-framework/paperclipai-paperclip.md) | 112,618 | 18,677 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
 | [Agent-Reach](entries/agent-framework/panniantong-agent-reach.md) | 110,600 | 9,905 | 毎日 | 100+ | 2026-11-08 | 2026-11-09 | 2026-11-10 | MIT |
 | [Impeccable](entries/agent-framework/pbakaus-impeccable.md) | 106,815 | 6,347 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [OpenHands Agent Canvas](entries/agent-framework/openhands-openhands.md) ⚑ | 93,244 | 12,457 | 毎日 | 100+ | 2026-11-11 | 2026-11-11 | 2026-11-11 | MIT |
 | [lobehub/lobehub](entries/agent-framework/lobehub-lobehub.md) ⚑ | 84,579 | 16,168 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | NOASSERTION |
 | [strix](entries/agent-framework/usestrix-strix.md) | 74,664 | 8,445 | 毎日 | 55 | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
 | [Security Audit Skill (Cloudflare)](entries/agent-framework/cloudflare-security-audit-skill.md) | 67,955 | 4,455 | 月次 | 0 | 2026-09-14 | 2026-11-09 | 2026-11-10 | MIT |
@@ -1387,6 +1388,7 @@
 - [Dify](entries/agent-framework/langgenius-dify.md) — unverified / ライセンスは取得データ上unknown。Docker、Docker Compose v2.35.0以降、OpenSSLが必要。最低要件はCPU 2コア、RAM 4 GiB。README記載以外の効果や依存条件は未確認。 GitHub APIでライセンスを確認できていません。
 - [Browser Use](entries/agent-framework/browser-use-browser-use.md) — unverified / README記載の実行条件と手順は未実行。クラウド利用時の料金や各機能の効果・利用条件は、この資料からは検証していない。
 - [thedotmack/claude-mem](entries/agent-framework/thedotmack-claude-mem.md) — unverified / 保存した会話・コード・機密の保持と削除範囲を確認する。starsランキングは性能試験ではなく、圧縮精度・情報漏洩対策は未実行確認。 当方でインストール・推論・生成・ベンチ再現はしていない。
+- [OpenHands Agent Canvas](entries/agent-framework/openhands-openhands.md) — unverified / Direct installation runs the agent server on the host with full filesystem access. The README recommends a Docker sandbox; its example mounts the selected projects directory and stores settings, secrets, and conversations in a named volume. Self-hosting security hardening is linked in the README.
 - [lobehub/lobehub](entries/agent-framework/lobehub-lobehub.md) — unverified / LobeHub Community LicenseはApache-2.0に派生作品配布の商用条件を追加した独自条件。NOASSERTIONを標準OSSライセンスと解釈しない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [oh-my-claudecode](entries/agent-framework/yeachan-heo-oh-my-claudecode.md) — unverified / 導入と実行は未検証。単一エージェントと比較した品質・所要時間・モデル利用料の実測は確認していない。最新リリースのタグは確認したが、公開日時のタイムゾーンは確認できなかった。30日・90日のコミット数はいずれも取得上限に達しており、100件以上を示す。
 - [PentAGI](entries/agent-framework/vxcontrol-pentagi.md) — unverified / 自律型ペネトレーションテスト基盤であり、動作は「対象への実際の攻撃」そのもの。README は利用者を "Security engineers, penetration testers, researchers and red teams ... for authorized testing only" と限定しており、自組織資産または書面で許可された範囲以外への実行は法律違反になり得る。既定の管理者アカウントは admin@pentagi.com / admin で、初回ログイン時に変更しないまま外部公開すると乗っ取りにつながる。サンドボックスへ Docker を渡す設定は特に危険で、リリースノートは CVE-2026-14784 について "with `DOCKER_INSIDE=true`, as the shipped `.env.example` set it, the host Docker socket was mounted into every sandbox, so an agent steered by prompt injection could take over the host" と説明し、2.2.0 で DOCKER_INSIDE の既定を false、ホストソケットの自動マウント廃止に変更した。README もソケットの bind mount を "Not recommended" と明記。プロンプトインジェクション耐性はモデルの指示追従性に依存し、完全には閉じないとリリースノート自身が述べている。機能面の注意: MCP サーバ、エージェントプロファイル、プラグイン、攻撃チェーン可視化、顧客向けレポートは PentAGI Enterprise（有償、別ライセンスキー）側で、本リポジトリの OSS 版には含まれない。Kali イメージの mcp タグはサンドボックス側のゲートウェイであり、PentAGI 本体の MCP サーバではない。有効性はベンダー自身の ctester レポートと主張に基づき、独立した第三者ベンチマークは未確認（ベンダー主張のみで独立検証なし）。LLM API 利用料は別途発生する。BAS／敵対エミュレーション製品ではないと README が明記しており、その用途には使えない。

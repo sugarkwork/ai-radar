@@ -1,5 +1,5 @@
 {
-  "count": 891,
+  "count": 892,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -3320,6 +3320,37 @@
       "type": "repo",
       "path": "entries/agent-framework/pbakaus-impeccable.md",
       "summary": "コーディングエージェントに「デザインの語彙」を与えるスキル。/impeccable <コマンド> <対象> の形で、対象を1つに絞って指示する。"
+    },
+    {
+      "name": "OpenHands Agent Canvas",
+      "genre": "agent-framework",
+      "url": "https://github.com/OpenHands/OpenHands",
+      "repo": "OpenHands/OpenHands",
+      "license": "MIT",
+      "stars": 93244,
+      "language": "TypeScript",
+      "created": "2024-03-13",
+      "updated": "2026-11-11",
+      "forks": 12457,
+      "open_issues": 1168,
+      "commits_30d": 100,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 659682,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "Direct installation runs the agent server on the host with full filesystem access. The README recommends a Docker sandbox; its example mounts the selected projects directory and stores settings, secrets, and conversations in a named volume. Self-hosting security hardening is linked in the README.",
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/thegreatest_sv/status/2118325722850697573"
+      ],
+      "fetched_at": "2026-11-11T19:06:00.619117+00:00",
+      "path": "entries/agent-framework/openhands-openhands.md",
+      "summary": "OpenHands Agent Canvas は、OpenHands、Claude Code、Codex、Gemini CLI、Pi、OpenCode、および ACP 対応エージェントを利用するセルフホスト型の開発者向けコントロールセンターです。ローカル、Docker、VM、企業内環境などのバックエンドを切り替えられま"
     },
     {
       "type": "repo",
