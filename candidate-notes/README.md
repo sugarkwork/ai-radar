@@ -29,6 +29,12 @@
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
 - [X: toyxyz3 の投稿](https://x.com/toyxyz3/status/2118045641209483326)
   - 対象を裏付ける公開一次資料を確認できませんでした。
+- [X: tokufxug の投稿](https://x.com/tokufxug/status/2118212439187804520)
+  - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+  - 対象を裏付ける公開一次資料を確認できませんでした。
+  - 公開に必須の根拠がそろっていません。
+- [X: tokufxug の投稿](https://x.com/tokufxug/status/2118212214050214311)
+  - 元投稿と配布先が同一対象であることを裏付けられませんでした。
 - [X: tokufxug の投稿](https://x.com/tokufxug/status/2118173103138525590)
   - 下書きが公開用の検証基準を満たしていません。
   - 公開に必須の根拠がそろっていません。
@@ -80,6 +86,11 @@
   - 公開に必須の根拠がそろっていません。
 - [X: seventhgraphics の投稿](https://x.com/seventhgraphics/status/2118691998471471393)
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+- [X: sep_is_heim の投稿](https://x.com/sep_is_heim/status/2120257150421475438)
+  - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://huggingface.co/MiniMaxAI/MiniMax-H3-Image>。
+- [X: sep_is_heim の投稿](https://x.com/sep_is_heim/status/2118207014967161216)
+  - 候補の対象が複数あり、一意に特定できませんでした。
+  - 公開に必須の根拠がそろっていません。
 - [X: sep_is_heim の投稿](https://x.com/sep_is_heim/status/2118127103782887436)
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
 - [X: sep_is_heim の投稿](https://x.com/sep_is_heim/status/2118094195751862692)
@@ -115,6 +126,8 @@
   - 掲載先URLの正常なHTTP応答を確認できませんでした。
 - [X: nuno_leugim_10 の投稿](https://x.com/nuno_leugim_10/status/2120302252569379293)
   - 候補の対象が複数あり、一意に特定できませんでした。
+- [X: neuronxwhite の投稿](https://x.com/neuronxwhite/status/2118220433715822612)
+  - 下書きが公開用の検証基準を満たしていません。
 - [X: neuronxwhite の投稿](https://x.com/neuronxwhite/status/2118189300194132180)
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
 - [X: neuronxwhite の投稿](https://x.com/neuronxwhite/status/2118189288156549572)
@@ -182,10 +195,14 @@
   - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: mingzi206 の投稿](https://x.com/mingzi206/status/2118910667667476626)
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+- [X: mingzi206 の投稿](https://x.com/mingzi206/status/2118214329049002286)
+  - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://x.com/mingzi206/status/2118214329049002286>。
 - [X: mingzi206 の投稿](https://x.com/mingzi206/status/2118195810257277437)
   - 候補の対象が複数あり、一意に特定できませんでした。
 - [X: mingzi206 の投稿](https://x.com/mingzi206/status/2118033257925365941)
   - 対象を裏付ける公開一次資料を確認できませんでした。
+- [X: milbon_ の投稿](https://x.com/milbon_/status/2120313677505314996)
+  - 元投稿と配布先が同一対象であることを裏付けられませんでした。
 - [X: midori_tatsuta の投稿](https://x.com/midori_tatsuta/status/2119030202315743254)
   - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: memuringo7544 の投稿](https://x.com/memuringo7544/status/2120083038394544151)
@@ -211,10 +228,14 @@
   - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://x.com/kiyoshi_shin/status/2120050900580565354>。
 - [X: kimuai08 の投稿](https://x.com/kimuai08/status/2118911436646977726)
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+- [X: kazukiiwas の投稿](https://x.com/kazukiiwas/status/2120128382835073355)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 - [X: kangyou82 の投稿](https://x.com/kangyou82/status/2119987833721278770)
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
 - [X: k_matsumaru の投稿](https://x.com/k_matsumaru/status/2118869734154453304)
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+- [X: izutorishima の投稿](https://x.com/izutorishima/status/2120094977141436515)
+  - 下書きが公開用の検証基準を満たしていません。
 - [X: ichiaimarketer の投稿](https://x.com/ichiaimarketer/status/2117202555419959335)
   - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: huang_chao4969 の投稿](https://x.com/huang_chao4969/status/2118698314720006490)
@@ -303,6 +324,10 @@
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
 - [X: bernvadell の投稿](https://x.com/bernvadell/status/2117307891774333200)
   - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://huggingface.co/Edge0/Audio8-TTS-Realistic-Air>。
+- [X: bei351009016 の投稿](https://x.com/bei351009016/status/2120333007949267319)
+  - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+  - 元画像を確認できず、画像内の内容は未検証です。
+  - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://github.com/MiniMax-AI/MiniMax-H3-Image>。
 - [X: asoda_recruit の投稿](https://x.com/asoda_recruit/status/2118138305506402353)
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
   - 対象を裏付ける公開一次資料を確認できませんでした。
@@ -310,6 +335,10 @@
   - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: alizeh_ai の投稿](https://x.com/alizeh_ai/status/2119084556343251403)
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+- [X: alan_arakawa の投稿](https://x.com/alan_arakawa/status/2120297996197961752)
+  - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://x.com/alan_arakawa/status/2120297996197961752>。
+- [X: aiaicreate の投稿](https://x.com/aiaicreate/status/2120336491939549246)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 - [X: aiaicreate の投稿](https://x.com/aiaicreate/status/2120138764630852007)
   - 候補の対象が複数あり、一意に特定できませんでした。
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
@@ -404,6 +433,11 @@
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
 - [X: Nag1ovo の投稿](https://x.com/Nag1ovo/status/2117284438115557620)
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+- [X: NFT_Chen の投稿](https://x.com/NFT_Chen/status/2120071782548066701)
+  - 元リンクと提案された掲載種別が一致しません。
+  - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+  - 公開に必須の根拠がそろっていません。
+  - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://x.com/atomicagent_io/status/2119918110752846094>。
 - [X: N01ennn の投稿](https://x.com/N01ennn/status/2117309730846560764)
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
 - [X: MariaOnchainDev の投稿](https://x.com/MariaOnchainDev/status/2119585762018509199)
@@ -442,6 +476,9 @@
   - 候補の対象が複数あり、一意に特定できませんでした。
 - [X: LidaMidorin の投稿](https://x.com/LidaMidorin/status/2118984430182351159)
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+- [X: LiFeng61532 の投稿](https://x.com/LiFeng61532/status/2120087539604455673)
+  - 候補の対象が複数あり、一意に特定できませんでした。
+  - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: Leviwoyun の投稿](https://x.com/Leviwoyun/status/2118197971112366538)
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
   - 対象を裏付ける公開一次資料を確認できませんでした。
@@ -537,6 +574,8 @@
   - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://x.com/AIExplorerTim/status/2117501532166066384>。
 - [X: 96neko の投稿](https://x.com/96neko/status/2119328781806801028)
   - 料金の区分または出典を確認できませんでした。
+- [X: 8co28 の投稿](https://x.com/8co28/status/2120104769218056643)
+  - 元投稿と配布先が同一対象であることを裏付けられませんでした。
 - [X: 0xluffy_eth の投稿](https://x.com/0xluffy_eth/status/2117552880165306731)
   - 対象を裏付ける公開一次資料を確認できませんでした。
   - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://x.com/0xluffy_eth/status/2117552880165306731>。
