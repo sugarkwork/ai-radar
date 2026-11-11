@@ -1,5 +1,5 @@
 {
-  "count": 804,
+  "count": 805,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -13542,6 +13542,37 @@
       "fetched_at": "2026-11-10T11:34:45+00:00",
       "path": "entries/mcp-server/glips-figma-context-mcp.md",
       "summary": "Figmaのファイル、フレーム、グループのリンクをもとにレイアウトやスタイルを取得し、UI実装の文脈としてエージェントに渡せる。"
+    },
+    {
+      "name": "Apify MCP server",
+      "genre": "mcp-server",
+      "url": "https://github.com/apify/apify-mcp-server",
+      "repo": "apify/apify-mcp-server",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "Actorの料金や実行条件は個々のActorによって異なる可能性があるが、READMEから一律の条件や費用は確認できない。記載された効果はREADME上の説明であり、独立検証していない。",
+      "stars": 15564,
+      "forks": 444,
+      "open_issues": 253,
+      "size_kb": 10980,
+      "language": "TypeScript",
+      "created": "2025-01-02",
+      "updated": "2026-11-10",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 100,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/Y0urDumble/status/2116341413755453670"
+      ],
+      "fetched_at": "2026-11-10T13:38:35.474660+00:00",
+      "path": "entries/mcp-server/apify-apify-mcp-server.md",
+      "summary": "Apify StoreのActorsを通じて、エージェントにウェブスクレイピング、データ抽出、ブラウザ自動化の機能を提供する。エージェントはActorを検索し、入力と料金を確認して実行し、構造化された結果を受け取る。"
     },
     {
       "repo": "open-pencil/open-pencil",
