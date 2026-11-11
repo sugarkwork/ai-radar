@@ -1,5 +1,5 @@
 {
-  "count": 815,
+  "count": 816,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -8979,6 +8979,37 @@
       "fetched_at": "2026-11-10T12:28:27+00:00",
       "path": "entries/coding-agent/warpdotdev-common-skills.md",
       "summary": "PRの目的との整合性、影響範囲、検証の証拠、ロールバックの負担、障害検知のしやすさを評価し、総合リスクを低・中・高で返す。各観点ではリスクを高める不足点を挙げる。"
+    },
+    {
+      "name": "Machine Skill",
+      "genre": "coding-agent",
+      "url": "https://github.com/AirsupHQ/machine-skill",
+      "repo": "AirsupHQ/machine-skill",
+      "license": "MIT",
+      "language": "JavaScript",
+      "created": "2026-10-12",
+      "updated": "2026-10-13",
+      "commits_30d": 8,
+      "commit_cadence": "weekly",
+      "commits_90d": 8,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "README記載の機能や数値はリポジトリの説明に基づき、独立検証していない。生成結果の精度や動作条件は未確認。",
+      "stars": 625,
+      "forks": 83,
+      "open_issues": 4,
+      "size_kb": 17276,
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/Bober_smart/status/2116895220491276469"
+      ],
+      "fetched_at": "2026-11-10T14:08:41.744771+00:00",
+      "path": "entries/coding-agent/airsuphq-machine-skill.md",
+      "summary": "READMEでは、Claude Code向けAgent Skillとして、機械の説明から単一HTMLファイルのインタラクティブな3Dシミュレーションを生成し、録画スクリプトで映像化できると説明されている。例として、分解表示、断面表示、X線表示、スローモーション、ラベル表示、計算に基づく破損モードが挙げられている。"
     },
     {
       "repo": "xai-org/plugin-marketplace",
