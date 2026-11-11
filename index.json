@@ -1,5 +1,5 @@
 {
-  "count": 885,
+  "count": 886,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -9613,6 +9613,37 @@
       "fetched_at": "2026-11-10T09:19:25Z",
       "path": "entries/coding-agent/motionsites-ai-claude-skill.md",
       "summary": "Claudeが作例と映像素材を参照し、実装仕様を作ってランディングページを構築する。作者のREADMEによると、実装後はスクリーンショットとQAスクリプトで素材切れ、モバイル幅でのはみ出し、フォント、動画再生を点検する。"
+    },
+    {
+      "name": "reanimate",
+      "genre": "coding-agent",
+      "url": "https://github.com/NiazMorshed2007/reanimate",
+      "repo": "NiazMorshed2007/reanimate",
+      "license": "MIT",
+      "stars": 1557,
+      "language": "JavaScript",
+      "created": "2026-10-29",
+      "updated": "2026-10-31",
+      "forks": 136,
+      "open_issues": 7,
+      "commits_30d": 20,
+      "commit_cadence": "daily",
+      "commits_90d": 20,
+      "size_kb": 59722,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "Windows is untested. The README says the skill has only been tested with Claude Code, though other agents that read SKILL.md can install it.",
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/ganfanren_ai/status/2118311436485321040"
+      ],
+      "fetched_at": "2026-11-11T16:12:05.648487+00:00",
+      "path": "entries/coding-agent/niazmorshed2007-reanimate.md",
+      "summary": "README describes a Claude Code skill that records animation references from a live site, screen recording, MP4, GIF, or Lottie file; builds an animation in the "
     },
     {
       "repo": "openai/php2shell-checker",
