@@ -1,5 +1,5 @@
 {
-  "count": 784,
+  "count": 785,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -16404,6 +16404,37 @@
       "fetched_at": "2026-11-10T08:19:51+00:00",
       "path": "entries/other/amirmushichge-pixel-plays.md",
       "summary": "ボッチャ、橋からの飛び込み、洗濯物入れ、テニス、スケートボードの5本を収録。READMEには公開プレイ先が掲載されている。"
+    },
+    {
+      "repo": "moritzkremb/jev-voice-browser",
+      "name": "jev-voice-browser",
+      "genre": "other",
+      "url": "https://github.com/moritzkremb/jev-voice-browser",
+      "stars": 431,
+      "forks": 71,
+      "open_issues": 8,
+      "size_kb": 83,
+      "language": "JavaScript",
+      "created": "2026-09-17",
+      "updated": "2026-09-21",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 0,
+      "commits_90d": 2,
+      "commit_cadence": "stale",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "性能と費用はREADMEに記載された作者環境での報告で、独立再現、現行のAPI料金・利用条件、確認機構の実効性は未検証。GitHubの公開リリース一覧にはリリースが表示されていない。",
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/thegreatest_sv/status/2115779290033803462"
+      ],
+      "fetched_at": "2026-11-10T12:33:06Z",
+      "path": "entries/other/moritzkremb-jev-voice-browser.md",
+      "summary": "音声やテキストでページ移動、検索、クリック、入力、スクロール、タブ切り替えを指示できる。READMEによると、対象要素の候補は最大100件で、iframe内の要素は対象外。"
     },
     {
       "repo": "UnderleveledBuilder/awesome-social-media-skills",
