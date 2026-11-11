@@ -1,5 +1,5 @@
 {
-  "count": 914,
+  "count": 915,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -18958,6 +18958,38 @@
       "type": "repo",
       "path": "entries/other/morluto-awesome-reverse-engineering.md",
       "summary": "リバースエンジニアリングのツールと学習リソースを、対象別に整理したキュレーションリスト。"
+    },
+    {
+      "name": "Google Pro Helper",
+      "genre": "other",
+      "url": "https://github.com/mmdoctor/google-pro-helper",
+      "repo": "mmdoctor/google-pro-helper",
+      "license": "unknown",
+      "stars": 1724,
+      "language": "Python",
+      "created": "2026-11-05",
+      "updated": "2026-11-05",
+      "forks": 584,
+      "open_issues": 3,
+      "commits_30d": 9,
+      "commit_cadence": "weekly",
+      "commits_90d": 9,
+      "size_kb": 94,
+      "archived": false,
+      "flags": [
+        "malicious",
+        "unverified"
+      ],
+      "risk_notes": "README describes bulk account tasks, automated sign-in using passwords and 2FA, payment-card enrollment, and attempts to obtain extended subscription benefits through stacked offers. These are abuse-enabling activities; do not treat the author’s reported results as independently verified. The README documents account farming and attempts to stack Google AI Pro offer periods. It does not establish that the offers, pricing, or resulting benefits will work as described; actual charges and eligibility are unverified. The workflow handles account credentials, 2FA secrets, payment details, and browser data. GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/mingzi206/status/2118374215254671454"
+      ],
+      "fetched_at": "2026-11-11T23:07:10.748746+00:00",
+      "path": "entries/other/mmdoctor-google-pro-helper.md",
+      "summary": "READMEによると、リポジトリにはChromeブラウザー拡張版とWindows向けのバッチ版コンソールがある。拡張版はブラウザーから利用する構成。バッチ版はアカウントの一括取り込み、ブラウザー操作、決済設定、購読操作を自動化する構成として説明されている。READMEは成功や無料利用を保証していない。出典: https"
     },
     {
       "repo": "undefined-ui/second-brain-os",
