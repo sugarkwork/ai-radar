@@ -1,5 +1,5 @@
 {
-  "count": 843,
+  "count": 844,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -10393,6 +10393,37 @@
       "fetched_at": "2026-11-10T08:27:27+00:00",
       "path": "entries/finance-quant/tauricresearch-tradingagents.md",
       "summary": "銘柄と分析日を指定すると、選択したアナリストが財務、相場、ニュース、ソーシャル投稿などを調査する。強気・弱気のリサーチャーが報告を討論し、トレーダーとリスク管理チームが判断をまとめる。CLIからHTMLレポートを保存できる。"
+    },
+    {
+      "name": "股票智能分析系统（daily_stock_analysis）",
+      "genre": "finance-quant",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "repo": "ZhuLinsen/daily_stock_analysis",
+      "license": "MIT",
+      "stars": 69545,
+      "language": "Python",
+      "created": "2026-01-10",
+      "updated": "2026-11-10",
+      "forks": 56670,
+      "open_issues": 43,
+      "commits_30d": 34,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 120431,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEの説明や掲載例は独立検証された性能・投資効果を示すものではありません。実際の分析精度や各データソースの利用条件・料金はREADMEだけでは確認できません。",
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/GitTrend0x/status/2119950747898974362"
+      ],
+      "fetched_at": "2026-11-10T23:13:53.629808+00:00",
+      "path": "entries/finance-quant/zhulinsen-daily_stock_analysis.md",
+      "summary": "READMEによると、A株・香港株・米国株・日本株・韓国株・台湾株とETFを対象に、行情・K線・テクニカル指標・ニュース・公告・ファンダメンタルズ情報を集約し、AI決策レポートを生成します。Web／デスクトップの作業画面、複数ターンのAgent問答、画像・CSV・Excel・クリップボードからの銘柄インポート、GitH"
     },
     {
       "repo": "freqtrade/freqtrade",
