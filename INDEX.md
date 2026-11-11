@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 802 件 — リポジトリ 491, リンク集 113, 記事 131, モデル 53, プロンプト 14 / ⚑ 要確認 592 件
+収録 803 件 — リポジトリ 492, リンク集 113, 記事 131, モデル 53, プロンプト 14 / ⚑ 要確認 593 件
 
-## リポジトリ（491）
+## リポジトリ（492）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -164,7 +164,7 @@
 | [X Virality Score](entries/agent-framework/monkeyteamvip-x-virality-score.md) ⚑ | 35 | 19 | 月次 | 3 | 2026-10-27 | 2026-11-09 | 2026-11-10 | MIT |
 | [web-api-skills](entries/agent-framework/oxylabs-web-api-skills.md) | 13 | 1 | 週次 | 11 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
 
-### 3D・モーション（62）
+### 3D・モーション（63）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -213,6 +213,7 @@
 | [patch-gg/anymove](entries/3d-motion/patch-gg-anymove.md) ⚑ | 563 | 62 | 週次 | 11 | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
 | [prompt2rig — プロンプトから3Dキャラクター動作を生成](entries/3d-motion/blendi-remade-prompt2rig.md) ⚑ | 552 | 81 | 週次 | 16 | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
 | [Geometry Script](entries/3d-motion/carson-katri-geometry-script.md) ⚑ | 379 | 33 | 週次 | 6 | 2026-11-09 | 2026-11-10 | 2026-11-10 | GPL-3.0 |
+| [Motion2Code](entries/3d-motion/lovisdotio-motion2code.md) ⚑ | 349 | 31 | 月次 | 2 | 2026-10-20 | 2026-11-10 | 2026-11-11 | MIT |
 | [shinshin86/aituber-onair](entries/3d-motion/shinshin86-aituber-onair.md) ⚑ | 320 | 31 | 毎日 | 100+ | 2026-11-07 | 2026-11-09 | 2026-11-10 | MIT |
 | [open-3d-skills](entries/3d-motion/moh4696-open-3d-skills.md) | 319 | 42 | 週次 | 4 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
 | [FlexGlue](entries/3d-motion/cvg-flexglue.md) | 304 | 15 | 週次 | 13 | 2026-11-06 | 2026-11-09 | 2026-11-10 | MIT |
@@ -1254,6 +1255,7 @@
 - [patch-gg/anymove](entries/3d-motion/patch-gg-anymove.md) — unverified / 5秒2カメラ0.26ドルだけでなく実用1動作約3ドル・合格率58%等も作者説明。8本脚・寝姿・翼・尻尾等は不可。クラウド版なし、速度・精度は未追試。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [prompt2rig — プロンプトから3Dキャラクター動作を生成](entries/3d-motion/blendi-remade-prompt2rig.md) — unverified / コードはApache-2.0だが、HQパスの依存関係が商用を制限。GVHMR=教育・研究・非営利のみ。SMPL-X=非商用（商用はMeshcapadeから別途）。WiLoR=CC-BY-NC-ND。MANO=非商用。Ultralytics YOLO=AGPL-3.0（コピーレフト、エンタープライズライセンス別途）。MediaPipe・three.jsは商用可。Webアプリ・ライブプレビュー・動画生成は商用可能。HQパスを商用で使うには依存関係の置き換えまたは別途ライセンスが必要。動画モデル（FLUX 3 Max/H3 Max Turbo）はfalおよびモデル提供元の条件に従う。当方未実行。 当方でインストール・動作・性能の実行検証はしていない。
 - [Geometry Script](entries/3d-motion/carson-katri-geometry-script.md) — unverified / 理由未記入
+- [Motion2Code](entries/3d-motion/lovisdotio-motion2code.md) — unverified / 最新リリースの版と日時は未確認。掲載例の容量・再現精度、任意の動画への適用範囲、実行環境での動作は独立検証していない。外部ライブラリ・フォントの利用条件とエージェント利用料は未確認。
 - [shinshin86/aituber-onair](entries/3d-motion/shinshin86-aituber-onair.md) — unverified / 投稿の10種とページ9種は不一致。APIキーはlocalStorage平文、Live2DはCubism Core手動配置。公開オリジンへそのまま配備非推奨で各素材ライセンスも別。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [cc-blender-skill](entries/3d-motion/roble3-cc-blender-skill.md) — unverified / 動作と生成品質は独立に検証していない。作者資料でもClaude Codeでのスキル検出・振り分け、Blender 5.1.1以外の実機動作、Unrealへのインポートは検証範囲が限られる。発見投稿の参照動画からの編集可能プロジェクト再現は、本リポジトリの機能として確認できていない。
 - [Lida-V/3DCharaMakeSkills-Lida](entries/3d-motion/lida-v-3dcharamakeskills-lida.md) — unverified / Lida Attribution License1.0は商用・改変・組込み・再配布を許すが再配布時は出典保持。制作物へのクレジットは不要という原チェック記録。外部API費用は別。 当方でインストール・推論・生成・ベンチ再現はしていない。

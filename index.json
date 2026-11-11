@@ -1,5 +1,5 @@
 {
-  "count": 802,
+  "count": 803,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -1532,6 +1532,37 @@
       "fetched_at": "2026-11-10T12:23:04+00:00",
       "path": "entries/3d-motion/carson-katri-geometry-script.md",
       "summary": "Geometry Nodes、シェーダー、コンポジターのノード構成をPythonで記述する。公式のRepeat Grid例では、格子の点に入力ジオメトリをインスタンス配置する。"
+    },
+    {
+      "repo": "lovisdotio/motion2code",
+      "name": "Motion2Code",
+      "genre": "3d-motion",
+      "url": "https://github.com/lovisdotio/motion2code",
+      "license": "MIT",
+      "stars": 349,
+      "forks": 31,
+      "open_issues": 2,
+      "size_kb": 7539,
+      "language": "HTML",
+      "created": "2026-10-20",
+      "updated": "2026-10-20",
+      "archived": false,
+      "commits_30d": 2,
+      "commits_90d": 2,
+      "commit_cadence": "monthly",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "最新リリースの版と日時は未確認。掲載例の容量・再現精度、任意の動画への適用範囲、実行環境での動作は独立検証していない。外部ライブラリ・フォントの利用条件とエージェント利用料は未確認。",
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/thegreatest_sv/status/2116241528737693741"
+      ],
+      "fetched_at": "2026-11-10T13:03:43+00:00",
+      "path": "entries/3d-motion/lovisdotio-motion2code.md",
+      "summary": "モーション動画をインラインSVGと単一のGSAPタイムラインを使うループ付きHTMLとして再構成する。READMEには、画面録画をScrollTrigger付きの操作可能なページとして再構成する手順もある。"
     },
     {
       "type": "repo",
