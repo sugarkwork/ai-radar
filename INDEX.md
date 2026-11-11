@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 814 件 — リポジトリ 502, リンク集 113, 記事 132, モデル 53, プロンプト 14 / ⚑ 要確認 604 件
+収録 815 件 — リポジトリ 503, リンク集 113, 記事 132, モデル 53, プロンプト 14 / ⚑ 要確認 605 件
 
-## リポジトリ（502）
+## リポジトリ（503）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -401,7 +401,7 @@
 | [muse-irodori-voice — CPUで固有音声を作るIrodoriキット](entries/tts-audio/kgmkm-muse-irodori-voice.md) ⚑ | 9 | 0 | 週次 | 4 | 2026-10-31 | 2026-11-09 | 2026-11-10 | MIT |
 | [lab-tts](entries/tts-audio/lakimi-ai-systems-lab-tts.md) ⚑ | 8 | 0 | 月次 | 3 | 2026-11-03 | 2026-11-10 | 2026-11-10 | Apache-2.0 |
 
-### 金融・クオンツ（25）
+### 金融・クオンツ（26）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -426,6 +426,7 @@
 | [serenity-stock-choke](entries/finance-quant/fadewalk-serenity-stock-choke.md) | 531 | 56 | 月次 | 0 | 2026-10-06 | 2026-11-09 | 2026-11-10 | MIT |
 | [A-Share Quant Selector](entries/finance-quant/dzy-hw-xd-a-share-quant-selector.md) | 513 | 109 | 停滞 | 0 | 2026-09-08 | 2026-11-09 | 2026-11-10 | MIT |
 | [HyperGrok Trading Desk](entries/finance-quant/galleonlabs-hypergrok-trading-desk.md) ⚑ | 472 | 110 | 毎日 | 26 | 2026-11-04 | 2026-11-10 | 2026-11-10 | MIT |
+| [polymarket-trade-engine](entries/finance-quant/kaustubhpatange-polymarket-trade-engine.md) ⚑ | 323 | 91 | 停滞 | 0 | 2026-06-08 | 2026-11-10 | 2026-11-11 | MIT |
 | [trade-jev](entries/finance-quant/justinhe16-trade-jev.md) ⚑ | 13 | 3 | 週次 | 16 | 2026-11-09 | 2026-11-10 | 2026-11-10 | MIT |
 | [Jev Paper Trader](entries/finance-quant/mojoai-king-jev-paper-trader.md) ⚑ | 3 | 1 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | unknown |
 | [JevOnAir](entries/finance-quant/valuecodes-jev-on-air.md) ⚑ | 0 | 0 | 週次 | 11 | 2026-11-09 | 2026-11-10 | 2026-11-10 | MIT |
@@ -1501,6 +1502,7 @@
 - [jev-trader](entries/finance-quant/jarrodwatts-jev-trader.md) — unverified / README の遅延値は作者によるモック推論のドライラン計測。実コードの起動、Jev 使用時の遅延・精度、実注文の約定率・収益性、Jev API の料金・利用条件は未検証。発見投稿の Nasdaq 先物成績は別リポジトリの実験。
 - [prediction-market-backtesting](entries/finance-quant/evan-kolberg-prediction-market-backtesting.md) — unverified / READMEには開発中とある。Limitless.exchangeとOpinion.tradeは今後の予定で、Kalshiは公開実行可能なバックテスト経路ではないと記載。ライセンスはAPI上unknownだが、READMEのバッジはMIT + LGPL-3.0-or-laterを示すため、適用範囲は確認が必要。README抜粋にある情報のみを記載。 GitHub APIでライセンスを確認できていません。
 - [HyperGrok Trading Desk](entries/finance-quant/galleonlabs-hypergrok-trading-desk.md) — unverified / 独立した動作検証は未実施。各環境の導入・権限設定、注文承認の強制と迂回耐性、取引成績、ホスト環境と取引所の料金は未確認。v1.7.1のリリースノートによると、公開Grok Botテンプレートは当時v1.7.0を配布しており、v1.7.1への更新状況は未確認。
+- [polymarket-trade-engine](entries/finance-quant/kaustubhpatange-polymarket-trade-engine.md) — unverified / 自動売買の成績、実運用時の条件、手数料などはREADMEから確認できない。measuredの更新日は2026-06-08で、直近30日・90日のコミットはいずれも0。
 - [trade-jev](entries/finance-quant/justinhe16-trade-jev.md) — unverified / コードの実行と損益の独立再計算は未実施。別期間での成績、実約定での損益、現行のAPI・市場データ料金、最新リリースは未確認。
 - [Jev Paper Trader](entries/finance-quant/mojoai-king-jev-paper-trader.md) — unverified / GitHub上の表示版READMEを確認。現在の成績、動作の再現性、外部サービスの現行料金、最新リリースは未確認。コードの再配布・改変を許諾するライセンスは確認できていない。 GitHub APIでライセンスを確認できていません。
 - [JevOnAir](entries/finance-quant/valuecodes-jev-on-air.md) — unverified / 公開READMEとリリース記述を確認した。CLIの動作、収益性、判断精度、配信から模擬約定までの遅延、外部サービスの現行料金と利用条件は未検証。

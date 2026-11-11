@@ -1,5 +1,5 @@
 {
-  "count": 814,
+  "count": 815,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -10483,6 +10483,37 @@
       "fetched_at": "2026-11-10T09:44:37+00:00",
       "path": "entries/finance-quant/galleonlabs-hypergrok-trading-desk.md",
       "summary": "7つの役割定義と17のSKILL.mdを収録。Opening BellはHyperliquidの公開/infoから価格、資金調達率、建玉、スプレッド、板の厚みを取得する。READMEに開発元の出力例がある。"
+    },
+    {
+      "name": "polymarket-trade-engine",
+      "genre": "finance-quant",
+      "url": "https://github.com/KaustubhPatange/polymarket-trade-engine",
+      "repo": "KaustubhPatange/polymarket-trade-engine",
+      "license": "MIT",
+      "stars": 323,
+      "language": "TypeScript",
+      "created": "2026-04-04",
+      "updated": "2026-06-08",
+      "forks": 91,
+      "open_issues": 5,
+      "commits_30d": 0,
+      "commit_cadence": "stale",
+      "commits_90d": 0,
+      "size_kb": 1717,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "自動売買の成績、実運用時の条件、手数料などはREADMEから確認できない。measuredの更新日は2026-06-08で、直近30日・90日のコミットはいずれも0。",
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/thegreatest_sv/status/2116886377698578543"
+      ],
+      "fetched_at": "2026-11-10T14:07:42.052389+00:00",
+      "path": "entries/finance-quant/kaustubhpatange-polymarket-trade-engine.md",
+      "summary": "PolymarketのBTC、ETH、XRP、SOL、DOGE、HYPE、BNBの5分・15分予測市場向け自動売買エンジン。戦略テスト用ハーネスと、実行結果を分析する対話型ダッシュボードを備える。"
     },
     {
       "repo": "justinhe16/trade-jev",
