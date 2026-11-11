@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 903 件 — リポジトリ 583, リンク集 114, 記事 139, モデル 53, プロンプト 14 / ⚑ 要確認 691 件
+収録 904 件 — リポジトリ 584, リンク集 114, 記事 139, モデル 53, プロンプト 14 / ⚑ 要確認 692 件
 
-## リポジトリ（583）
+## リポジトリ（584）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -358,7 +358,7 @@
 | [Jev Grand Prix](entries/other/enoyola-jev-grand-prix.md) ⚑ | 7 | 0 | 月次 | 0 | 2026-09-21 | 2026-11-10 | 2026-11-11 | MIT |
 | [剪坊](entries/other/tuyetloanpham08-png-jianfang.md) ⚑ | 7 | 1 | 月次 | 2 | 2026-10-20 | 2026-11-11 | 2026-11-11 | unknown |
 
-### 3D・モーション（63）
+### 3D・モーション（64）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -383,6 +383,7 @@
 | [teardown](entries/3d-motion/elvarofficial-teardown.md) | 2,781 | 429 | 月次 | 2 | 2026-10-31 | 2026-11-09 | 2026-11-10 | MIT |
 | [UniMate](entries/3d-motion/friedrich-m-unimate.md) | 2,646 | 281 | 月次 | 0 | 2026-10-08 | 2026-11-09 | 2026-11-10 | MIT |
 | [Claude Animated Shorts](entries/3d-motion/mromidev-claude-animated-shorts.md) ⚑ | 2,591 | 564 | 月次 | 2 | 2026-11-01 | 2026-11-09 | 2026-11-10 | MIT |
+| [Sverchok](entries/3d-motion/nortikin-sverchok.md) ⚑ | 2,557 | 247 | 毎日 | 24 | 2026-11-10 | 2026-11-11 | 2026-11-11 | GPL-3.0 |
 | [Blender Skills（94 specialist Blender skills）](entries/3d-motion/arjun988-blender-skills.md) ⚑ | 2,331 | 211 | 月次 | 1 | 2026-11-06 | 2026-11-09 | 2026-11-10 | MIT |
 | [pixiv/three-vrm](entries/3d-motion/pixiv-three-vrm.md) ⚑ | 2,279 | 202 | 月次 | 3 | 2026-10-22 | 2026-11-09 | 2026-11-10 | MIT |
 | [UniRig](entries/3d-motion/vast-ai-research-unirig.md) | 2,081 | 206 | 停滞 | 0 | 2026-06-04 | 2026-11-09 | 2026-11-10 | MIT |
@@ -1340,6 +1341,7 @@
 - [Post Processing](entries/3d-motion/pmndrs-postprocessing.md) — unverified / ['実機での描画、GPU別の性能差、発見投稿が紹介したAI制作フロー全体は未検証。']
 - [Motion Design Skill](entries/3d-motion/lottiefiles-motion-design-skill.md) — unverified / 確認範囲は公開READMEとスキル定義の記述。導入とエージェントでの動作、出力品質の改善、発見投稿で紹介された動画制作工程での効果は未検証。利用するエージェントの料金や条件は未確認。
 - [Claude Animated Shorts](entries/3d-motion/mromidev-claude-animated-shorts.md) — unverified / 今回の紹介はREADMEと一致したが、新たな実行検証ではない。 今回の動作・推論・生成・性能は未検証。
+- [Sverchok](entries/3d-motion/nortikin-sverchok.md) — unverified / Blender 5.1、4.5、3.6、2.8対応との記載。追加ライブラリは一部ノードで必要。個別機能の依存条件はREADME記載のDependencies資料を参照。
 - [Blender Skills（94 specialist Blender skills）](entries/3d-motion/arjun988-blender-skills.md) — unverified / 効果の定量評価・ベンチマークは無く、README の設計方針と投稿者のデモ動画だけが根拠。README は「Marketplace listing is currently under review by Anthropic」と記載しており、Claude Code プラグインマーケット未登録（GitHub から手動コピー）。30日コミットは1件で開発は低頻度（最終コミット 2026-11-06）。MCP 方式のため投稿が書く `blender -b -P script.py` の完全ヘッドレス実行とは前提が異なり、Blender を起動してアドオンから接続する必要がある。
 - [pixiv/three-vrm](entries/3d-motion/pixiv-three-vrm.md) — unverified / v3.6.0-beta.0のVRMC_springBone_limitはBeta拡張。MITはコードの条件で、各VRMの人物・衣装・モデルの権利は別。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [three-gpu-pathtracer](entries/3d-motion/gkjohnson-three-gpu-pathtracer.md) — unverified / ['GitHub の最新リリースは未確認。依存関係と導入手順は main ブランチの公開資料に基づく。', '描画速度、収束時間、画質、端末別の互換性、特定のAIモデルとの連携は実測していない。']
