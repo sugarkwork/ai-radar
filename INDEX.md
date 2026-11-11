@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 833 件 — リポジトリ 521, リンク集 113, 記事 132, モデル 53, プロンプト 14 / ⚑ 要確認 623 件
+収録 834 件 — リポジトリ 522, リンク集 113, 記事 132, モデル 53, プロンプト 14 / ⚑ 要確認 624 件
 
-## リポジトリ（521）
+## リポジトリ（522）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -92,7 +92,7 @@
 | [utillayer/youtube-agent-skill](entries/video-gen/utillayer-youtube-agent-skill.md) ⚑ | 14 | 2 | 週次 | 16 | 2026-10-29 | 2026-11-09 | 2026-11-10 | MIT |
 | [BennyDaBall930/comfyui_hyperflow_int8_nodes](entries/video-gen/bennydaball930-comfyui_hyperflow_int8_nodes.md) ⚑ | 3 | 0 | 週次 | 10 | 2026-11-09 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
 
-### エージェント基盤・スキル集（76）
+### エージェント基盤・スキル集（77）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Firecrawl](entries/agent-framework/firecrawl-firecrawl.md) ⚑ | 200,407 | 10,543 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-11 | AGPL-3.0 |
 | [anthropics/skills](entries/agent-framework/anthropics-skills.md) ⚑ | 190,810 | 22,434 | 月次 | 2 | 2026-11-06 | 2026-11-09 | 2026-11-10 | unknown |
 | [Ponytail](entries/agent-framework/dietrichgebert-ponytail.md) | 187,617 | 10,404 | 毎日 | 50 | 2026-10-29 | 2026-11-09 | 2026-11-10 | MIT |
+| [Dify](entries/agent-framework/langgenius-dify.md) ⚑ | 160,853 | 25,444 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-11 | unknown |
 | [gstack（Garry's Stack）](entries/agent-framework/garrytan-gstack.md) | 140,943 | 20,797 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
 | [Browser Use](entries/agent-framework/browser-use-browser-use.md) ⚑ | 120,559 | 13,471 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-11 | MIT |
 | [thedotmack/claude-mem](entries/agent-framework/thedotmack-claude-mem.md) ⚑ | 115,363 | 10,019 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
@@ -1325,6 +1326,7 @@
 - [n8n](entries/agent-framework/n8n-io-n8n.md) — unverified / 公式資料で機能と設定手順を確認。Docker起動、MCP接続、ワークフロー実行は未試験。発見投稿のGrok Botとの接続や節約効果は未確認。 GitHub APIでライセンスを確認できていません。
 - [Firecrawl](entries/agent-framework/firecrawl-firecrawl.md) — unverified / README記載の性能やカバー率は独立に検証していない。利用条件や料金もこの資料だけでは確認できない。
 - [anthropics/skills](entries/agent-framework/anthropics-skills.md) — unverified / 原チェックのAPIではlicense未設定。リポジトリ全体と個別技能・素材の条件を一括でApache/MITと断定しない。各条件は利用前に確認する。 当方でインストール・推論・生成・ベンチ再現はしていない。
+- [Dify](entries/agent-framework/langgenius-dify.md) — unverified / ライセンスは取得データ上unknown。Docker、Docker Compose v2.35.0以降、OpenSSLが必要。最低要件はCPU 2コア、RAM 4 GiB。README記載以外の効果や依存条件は未確認。 GitHub APIでライセンスを確認できていません。
 - [Browser Use](entries/agent-framework/browser-use-browser-use.md) — unverified / README記載の実行条件と手順は未実行。クラウド利用時の料金や各機能の効果・利用条件は、この資料からは検証していない。
 - [thedotmack/claude-mem](entries/agent-framework/thedotmack-claude-mem.md) — unverified / 保存した会話・コード・機密の保持と削除範囲を確認する。starsランキングは性能試験ではなく、圧縮精度・情報漏洩対策は未実行確認。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [lobehub/lobehub](entries/agent-framework/lobehub-lobehub.md) — unverified / LobeHub Community LicenseはApache-2.0に派生作品配布の商用条件を追加した独自条件。NOASSERTIONを標準OSSライセンスと解釈しない。 当方でインストール・推論・生成・ベンチ再現はしていない。
