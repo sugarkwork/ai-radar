@@ -1,5 +1,5 @@
 {
-  "count": 872,
+  "count": 873,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -12044,6 +12044,37 @@
       "fetched_at": "2026-11-11T02:12:57.237855+00:00",
       "path": "entries/image-gen/woyun520-gif-factory.md",
       "summary": "README は「挑一种风格，给一张参考图，把角色、相片和想法做成 GIF，也能延伸成动态绘本」と説明し、ピクセル、人物・ペット、粘土風マスコット、光栅変画、漫画風動的ポスターなどの作例とスタイル別の制作方法を案内しています。ブランド短片も掲載対象として記載されています。"
+    },
+    {
+      "name": "ComfyArt",
+      "genre": "image-gen",
+      "url": "https://github.com/jtydhr88/ComfyArt",
+      "repo": "jtydhr88/ComfyArt",
+      "license": "MIT",
+      "stars": 504,
+      "language": "TypeScript",
+      "created": "2026-10-13",
+      "updated": "2026-11-09",
+      "forks": 87,
+      "open_issues": 0,
+      "commits_30d": 70,
+      "commit_cadence": "daily",
+      "commits_90d": 70,
+      "size_kb": 41572,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一部の生成ワークフローが必要とするモデルやカスタムノードのローカル環境への導入条件は、READMEだけでは全て確認できない。Comfy Cloud APIキーには有料Comfyプランが必要と記載されている。",
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/bfl_ai/status/2120281089709363685"
+      ],
+      "fetched_at": "2026-11-11T06:13:30.781899+00:00",
+      "path": "entries/image-gen/jtydhr88-comfyart.md",
+      "summary": "READMEでは、ComfyUI上で動く無限キャンバス型のデザイン環境として、画像・動画・音声・3Dの生成、画像編集、書き出し、MCP経由のエージェント操作を説明している。これらはREADMEに記載された機能であり、独立した実機検証結果ではない。出典: https://github.com/jtydhr88/Comfy"
     },
     {
       "repo": "JGRFW/comfyui-aicg3d-PoseSwap",
