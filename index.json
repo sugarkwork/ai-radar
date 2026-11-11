@@ -1,5 +1,5 @@
 {
-  "count": 898,
+  "count": 899,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -18400,6 +18400,37 @@
       "fetched_at": "2026-11-11T19:04:09.729471+00:00",
       "path": "entries/other/fqscfqj-y2a-auto.md",
       "summary": "READMEによると、YouTube動画のダウンロード、音声認識による字幕生成、字幕翻訳・質疑・焼き込み、メタデータ生成、内容审核、AcFun／bilibiliへのアップロードを自動化する。Web管理画面でタスク確認や手動审核を行えるほか、YouTubeチャンネル・キーワード監視、通知、CookieCloud連携、CP"
+    },
+    {
+      "name": "Storyboarder",
+      "genre": "other",
+      "url": "https://github.com/wonderunit/storyboarder",
+      "repo": "wonderunit/storyboarder",
+      "license": "unknown",
+      "stars": 3946,
+      "language": "JavaScript",
+      "created": "2016-12-22",
+      "updated": "2024-03-17",
+      "forks": 404,
+      "open_issues": 1065,
+      "commits_30d": 0,
+      "commit_cadence": "stale",
+      "commits_90d": 0,
+      "size_kb": 172138,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "ライセンスは確認できていません（GitHub API値: unknown）。 GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/RealMarvelX/status/2118330503040221345"
+      ],
+      "fetched_at": "2026-11-11T20:07:15.353762+00:00",
+      "path": "entries/other/wonderunit-storyboarder.md",
+      "summary": "ストーリーボードを描いて、再生・提示し、変更できます。READMEにはFountain脚本の読み込み、印刷用ワークシート、Photoshopでの編集、各種形式への書き出し、GitHubでの共同作業も記載されています。"
     },
     {
       "repo": "Vexa-ai/vexa",
