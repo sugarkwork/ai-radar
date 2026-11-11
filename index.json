@@ -1,5 +1,5 @@
 {
-  "count": 890,
+  "count": 891,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -3714,6 +3714,37 @@
       "commits_90d": 66,
       "path": "entries/agent-framework/tencentcloud-tencentdb-agent-memory.md",
       "summary": "エージェントの文脈を**4種類の再利用可能な記憶資産**として切り出す：**Chat Memory**（会話・好み・事実・決定・やり取りの履歴）、**Skill**（手順の蓄積）、**LLM-Wiki**（文書をリンク付きの構造化ページに変換）、**CodeGraph**（コードのシンボル・ファイル・呼び出し関係・影響"
+    },
+    {
+      "name": "GPT Researcher",
+      "genre": "agent-framework",
+      "url": "https://github.com/assafelovic/gpt-researcher",
+      "repo": "assafelovic/gpt-researcher",
+      "stars": 30630,
+      "forks": 4211,
+      "open_issues": 19,
+      "size_kb": 54578,
+      "language": "Python",
+      "created": "2023-05-12",
+      "updated": "2026-11-09",
+      "archived": false,
+      "license": "Apache-2.0",
+      "commits_30d": 100,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景・有効性・依存関係・実行条件。",
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/thegreatest_sv/status/2118325722850697573"
+      ],
+      "fetched_at": "2026-11-11T19:06:16.549783+00:00",
+      "path": "entries/agent-framework/assafelovic-gpt-researcher.md",
+      "summary": "Webとローカル文書を使った調査レポートの作成、情報源の要約と記録、調査結果の集約を行うとREADMEに記載されています。画像の取得・選別、JavaScript対応スクレイピング、PDFやWordなどへの出力、MCP連携も記載されています。"
     },
     {
       "repo": "browser-use/jev-ultrafast",
