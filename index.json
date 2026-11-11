@@ -1,5 +1,5 @@
 {
-  "count": 836,
+  "count": 837,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -6516,6 +6516,24 @@
       ],
       "fetched_at": "2026-11-10T13:09:00+09:00",
       "path": "articles/2026-10-12-shahir-embeddinggemma-2.md"
+    },
+    {
+      "name": "FlowTranslator: Training-Free In-Image Machine Translation with Flow-Based Editing",
+      "genre": "article",
+      "url": "https://arxiv.org/abs/2611.04303",
+      "published": "2026-11-03",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "論文の評価値は記載されたEasyOCR read-back protocolおよびScenePairの条件に基づく。別条件での性能は未確認。投稿文の説明は論文要約と一致するが、一般の写真で周囲が常に完全保持されることは確認していない。",
+      "type": "article",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/Machinedelusion/status/2118155587875942772"
+      ],
+      "fetched_at": "2026-11-10T20:06:17Z",
+      "path": "articles/2026-11-03-author-flowtranslator-training-free-in-image-machine-translation-with-flow-based-editin.md"
     },
     {
       "name": "GDG OAUのAgent Skillsワークショップ報告",
