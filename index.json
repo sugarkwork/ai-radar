@@ -1,5 +1,5 @@
 {
-  "count": 831,
+  "count": 832,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -19542,6 +19542,37 @@
       "last_release_at": "2026-11-06",
       "path": "entries/rag/hkuds-deeptutor.md",
       "summary": "学習・質問解説を支援するDeepTutor。原チェックではv1.7.2のmacOS/Windowsデスクトップ配布を確認。"
+    },
+    {
+      "name": "Graphiti",
+      "genre": "rag",
+      "url": "https://github.com/getzep/graphiti",
+      "repo": "getzep/graphiti",
+      "license": "Apache-2.0",
+      "stars": 32713,
+      "language": "Python",
+      "created": "2024-08-08",
+      "updated": "2026-11-09",
+      "forks": 3359,
+      "open_issues": 557,
+      "commits_30d": 47,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 16571,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "README says users supply the graph database, LLM, and embedder and build the surrounding service. It identifies Neo4j, FalkorDB, and Amazon Neptune as graph backend options. Specific setup requirements, effects, and costs are not verified here.",
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/thegreatest_sv/status/2118043980420030914"
+      ],
+      "fetched_at": "2026-11-10T16:22:51.420510+00:00",
+      "path": "entries/rag/getzep-graphiti.md",
+      "summary": "AIエージェント向けの時間的コンテキストグラフを構築・検索するPythonフレームワーク。事実の有効期間と出典エピソードを保持し、意味検索・キーワード検索・グラフ探索を組み合わせた検索を提供するとREADMEに記載されています。"
     },
     {
       "repo": "opendataloader-project/opendataloader-pdf",
