@@ -1,5 +1,5 @@
 {
-  "count": 844,
+  "count": 845,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -16926,6 +16926,37 @@
       "fetched_at": "2026-11-10T11:50:45+00:00",
       "path": "entries/other/karpathy-micrograd.md",
       "summary": "Python の Value でスカラーの計算グラフを組み立て、backward() で各入力の勾配を求められる。README には MLP を SGD で学習させる二値分類の例もある。"
+    },
+    {
+      "name": "MuJoCo",
+      "genre": "other",
+      "url": "https://github.com/google-deepmind/mujoco",
+      "repo": "google-deepmind/mujoco",
+      "license": "Apache-2.0",
+      "stars": 17326,
+      "language": "C++",
+      "created": "2021-08-27",
+      "updated": "2026-11-10",
+      "forks": 2146,
+      "open_issues": 332,
+      "commits_30d": 100,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 154330,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEの取得内容がライセンス節の途中で途切れているため、ライセンス本文の条件はこの資料から確認できない。",
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/GitTrend0x/status/2119950747898974362"
+      ],
+      "fetched_at": "2026-11-10T23:13:41.871917+00:00",
+      "path": "entries/other/google-deepmind-mujoco.md",
+      "summary": "関節構造と環境が相互作用する物理シミュレーションを行う汎用エンジン。C API、Python bindings、Unityプラグインを提供し、ネイティブデスクトップウィンドウとWebブラウザーでの対話型可視化、物理量計算用のユーティリティ関数を備える。READMEはロボティクス、生体力学、グラフィックス・アニメーション"
     },
     {
       "repo": "dreammis/social-auto-upload",
