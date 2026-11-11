@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 809 件 — リポジトリ 497, リンク集 113, 記事 132, モデル 53, プロンプト 14 / ⚑ 要確認 599 件
+収録 810 件 — リポジトリ 498, リンク集 113, 記事 132, モデル 53, プロンプト 14 / ⚑ 要確認 600 件
 
-## リポジトリ（497）
+## リポジトリ（498）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -529,7 +529,7 @@
 | [sepiablue-ai/ComfyUI-PH3-Manga](entries/image-gen/sepiablue-ai-comfyui-ph3-manga.md) ⚑ | 8 | 0 | 週次 | 10 | 2026-11-07 | 2026-11-09 | 2026-11-10 | MIT |
 | [ComfyUI Prompt Atelier](entries/image-gen/renz1998-comfyui-prompt-atelier.md) | 3 | 0 | 毎日 | 51 | 2026-11-09 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
 
-### プロンプト（デザイン/UI）（15）
+### プロンプト（デザイン/UI）（16）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -544,6 +544,7 @@
 | [logo-design-skill](entries/prompt-design/kaankiziltug-logo-design-skill.md) ⚑ | 6,462 | 513 | 週次 | 8 | 2026-11-06 | 2026-11-10 | 2026-11-11 | MIT |
 | [kepano/obsidian-minimal](entries/prompt-design/kepano-obsidian-minimal.md) ⚑ | 5,555 | 295 | 月次 | 0 | 2026-10-06 | 2026-11-09 | 2026-11-10 | MIT |
 | [kepano/flexoki](entries/prompt-design/kepano-flexoki.md) ⚑ | 3,810 | 139 | 停滞 | 0 | 2026-03-07 | 2026-11-09 | 2026-11-10 | MIT |
+| [The Designer Skills Pack](entries/prompt-design/owl-listener-designer-skills.md) ⚑ | 3,309 | 436 | 月次 | 0 | 2026-09-05 | 2026-11-10 | 2026-11-11 | MIT |
 | [AI 漫剧 Skills](entries/prompt-design/zhanghao123vip-ai-manju-skills.md) ⚑ | 695 | 124 | 月次 | 2 | 2026-11-01 | 2026-11-10 | 2026-11-10 | MIT |
 | [better-readme](entries/prompt-design/tommy0103-better-readme-skill.md) ⚑ | 32 | 1 | 停滞 | 0 | 2026-10-08 | 2026-11-09 | 2026-11-10 | MIT |
 | [Grok Bot Teams](entries/prompt-design/ellelion-botteams.md) ⚑ | 26 | 6 | 月次 | 0 | 2026-09-08 | 2026-11-10 | 2026-11-10 | MIT |
@@ -1690,6 +1691,7 @@
 - [logo-design-skill](entries/prompt-design/kaankiziltug-logo-design-skill.md) — unverified / 作者の手順と掲載例を確認した。スクリプトの実行、エージェント間の再現性、16 pxでの可読性や既存商標との類似性は独立検証していない。最新リリースは公開ページの表示で確認し、公開日時の完全な値は未確認。
 - [kepano/obsidian-minimal](entries/prompt-design/kepano-obsidian-minimal.md) — unverified / MIT表記を原チェックで確認。テーマの見た目・機能・バージョン互換性は未実行確認。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [kepano/flexoki](entries/prompt-design/kepano-flexoki.md) — unverified / MITは配色リポジトリの条件。コントラストや可読性は実際の組み合わせ・端末で確認する必要があり本調査では未試験。 当方でインストール・推論・生成・ベンチ再現はしていない。
+- [The Designer Skills Pack](entries/prompt-design/owl-listener-designer-skills.md) — unverified / README names Claude Code and Gemini CLI but does not establish compatibility with other agents. Dependencies beyond those tools, execution requirements, and effectiveness are unverified. Repository metrics are supplied separately as measured data.
 - [AI 漫剧 Skills](entries/prompt-design/zhanghao123vip-ai-manju-skills.md) — unverified / 最新リリースは未確認。動作検証はREADMEの作者報告に基づく。残りの題材の個別動作、各対応環境での再現性、生成物の品質は今回独立に検証していない。
 - [better-readme](entries/prompt-design/tommy0103-better-readme-skill.md) — unverified / GitHub の language は null（コードが無く Markdown のみ）。同梱の Art of README 本文には上流のライセンス表記が無く、上流 https://github.com/noffle/art-of-readme も 404 のため再配布条件は未確認。効果（使う前と後で変わる）は作者の主張のみで、before/after 例・テスト・第三者評価はリポジトリに無い。npx skills add は npm の skills v1.7.6 とそのドキュメントで実在を確認したが、この環境では実行できず、実際のインストール成否は未確認。投稿の画像は撮影時点で star 0 の README 画面で、現在値（31）とは一致しない。
 - [Grok Bot Teams](entries/prompt-design/ellelion-botteams.md) — unverified / ['Grok Bot上での導入成功率、生成結果、実行時の料金、最新リリースは未確認。コネクタごとの動作も実機では確認していない。']
