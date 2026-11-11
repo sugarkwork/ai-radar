@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 795 件 — リポジトリ 484, リンク集 113, 記事 131, モデル 53, プロンプト 14 / ⚑ 要確認 585 件
+収録 796 件 — リポジトリ 485, リンク集 113, 記事 131, モデル 53, プロンプト 14 / ⚑ 要確認 586 件
 
-## リポジトリ（484）
+## リポジトリ（485）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -231,7 +231,7 @@
 | [3dmodel](entries/3d-motion/fletcherholt-3dmodel-skill.md) ⚑ | 6 | 0 | 停滞 | 0 | 2026-06-16 | 2026-11-10 | 2026-11-10 | unknown |
 | [Lida-V/LidaAngelToon](entries/3d-motion/lida-v-lidaangeltoon.md) ⚑ | 6 | 0 | 週次 | 13 | 2026-10-17 | 2026-11-09 | 2026-11-10 | NOASSERTION |
 
-### その他（57）
+### その他（58）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -291,6 +291,7 @@
 | [jev-guard](entries/other/leepokai-jev-guard.md) ⚑ | 150 | 24 | 月次 | 0 | 2026-10-02 | 2026-11-09 | 2026-11-10 | MIT |
 | [Jev Plays Pokémon Red](entries/other/christianmat-jev-pokemon.md) ⚑ | 133 | 10 | 月次 | 0 | 2026-09-28 | 2026-11-10 | 2026-11-10 | GPL-2.0 |
 | [clash-jev](entries/other/bytelabs-oss-clash-jev.md) ⚑ | 37 | 11 | 月次 | 2 | 2026-10-14 | 2026-11-10 | 2026-11-11 | MIT |
+| [duckdb-jev](entries/other/prasanthj-duckdb-jev.md) ⚑ | 14 | 3 | 月次 | 2 | 2026-10-21 | 2026-11-10 | 2026-11-11 | Apache-2.0 |
 | [Jev Grand Prix](entries/other/enoyola-jev-grand-prix.md) ⚑ | 7 | 0 | 月次 | 0 | 2026-09-21 | 2026-11-10 | 2026-11-11 | MIT |
 
 ### コーディングエージェント（56）
@@ -1639,6 +1640,7 @@
 - [jev-guard](entries/other/leepokai-jev-guard.md) — unverified / 料金『1,000チェックあたり約4セント』は README の想定（1コール約1kトークン）と Vercel AI Gateway の $0.042/1M input 単価からの試算で、実測の請求額ではない。APIキーは必須（キー未設定時は明示的にエラー）だが、無料枠の有無は一次情報で確認できない。有効性は開発者自身の計測（662スキル走査、ライブAPIでのClaude Code/OpenCode検証）のみで、第三者評価は無い。既定は fail-open（API不達なら許可）で、フックを通らない経路や設定ミスでは回避され得る。README 自身が『guardrail, not a sandbox』と明記している。
 - [Jev Plays Pokémon Red](entries/other/christianmat-jev-pokemon.md) — unverified / クリア結果、所要時間、費用は作者の報告。独立再現、現行の Gateway 料金、別環境での動作は未確認。GitHub の公開 Releases ページにリリースは掲載されていなかった。
 - [clash-jev](entries/other/bytelabs-oss-clash-jev.md) — unverified / 約135msはREADMEが示すJevの単一応答の目安。全体遅延、勝率、端末ごとの認識精度、現行API料金は未検証。READMEは自動プレイがSupercellの利用規約に反すると明記している。
+- [duckdb-jev](entries/other/prasanthj-duckdb-jev.md) — unverified / 性能値は開発者が合成データで計測したもので、独立再測定、実データでの分類精度、TypeSafeの現行料金・データ保持条件は未確認。公開リリースのタグは確認済みで、公開日時と配布物の動作は未確認。
 - [Jev Grand Prix](entries/other/enoyola-jev-grand-prix.md) — unverified / 作者の試走結果は独立再現していない。TypeSafe APIの現在の料金、利用規約、キーの発行条件は未確認。
 - [169Pi/Alpie_seed](models/other/169pi-alpie_seed.md) — unverified / 61.20はMini-SWE-agent・thinking有効・再試行なし・temperature0のモデルカード自己報告。latestタグだけで画像入力可能とは判断しない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Clover 35B-A3B（拡散型 MoE）](models/other/diffuspace-clover-35b-a3b-preview.md) — unverified / tok/s 比較は投稿者環境の一例で、モデルカードに計測条件の記載がない。

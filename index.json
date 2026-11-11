@@ -1,5 +1,5 @@
 {
-  "count": 795,
+  "count": 796,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -16819,6 +16819,38 @@
       "fetched_at": "2026-11-10T12:32:31+00:00",
       "path": "entries/other/bytelabs-oss-clash-jev.md",
       "summary": "ADBで取得したH.264映像から手札、エリクサー、タワーなどを読み取り、既定で毎秒JSONのゲーム状態を組み立てる。Jevが戦略、カード、配置マスを順に選び、実行可能性を検査してからタップする。"
+    },
+    {
+      "repo": "prasanthj/duckdb-jev",
+      "name": "duckdb-jev",
+      "genre": "other",
+      "url": "https://github.com/prasanthj/duckdb-jev",
+      "last_release": "v0.2.2",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "性能値は開発者が合成データで計測したもので、独立再測定、実データでの分類精度、TypeSafeの現行料金・データ保持条件は未確認。公開リリースのタグは確認済みで、公開日時と配布物の動作は未確認。",
+      "stars": 14,
+      "forks": 3,
+      "open_issues": 2,
+      "size_kb": 1390,
+      "language": "C++",
+      "created": "2026-09-20",
+      "updated": "2026-10-21",
+      "archived": false,
+      "license": "Apache-2.0",
+      "commits_30d": 2,
+      "commits_90d": 39,
+      "commit_cadence": "monthly",
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/thegreatest_sv/status/2116142322543198271"
+      ],
+      "fetched_at": "2026-11-10T12:55:22Z",
+      "path": "entries/other/prasanthj-duckdb-jev.md",
+      "summary": "SQLから二値判定、候補ラベルへの分類、順序付き尺度での採点を行う。テキスト、JSON、DuckDBのSTRUCT・LIST・ARRAYを入力にできる。"
     },
     {
       "repo": "enoyola/jev-grand-prix",
