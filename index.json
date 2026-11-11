@@ -1,5 +1,5 @@
 {
-  "count": 888,
+  "count": 889,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -18736,6 +18736,37 @@
       "fetched_at": "2026-11-10T12:33:06Z",
       "path": "entries/other/moritzkremb-jev-voice-browser.md",
       "summary": "音声やテキストでページ移動、検索、クリック、入力、スクロール、タブ切り替えを指示できる。READMEによると、対象要素の候補は最大100件で、iframe内の要素は対象外。"
+    },
+    {
+      "name": "ResumeForge",
+      "genre": "other",
+      "url": "https://github.com/magicapple123/ResumeForge",
+      "repo": "magicapple123/ResumeForge",
+      "license": "Apache-2.0",
+      "stars": 417,
+      "language": "Python",
+      "created": "2026-08-18",
+      "updated": "2026-11-10",
+      "forks": 19,
+      "open_issues": 2,
+      "commits_30d": 100,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 68162,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景・有効性・依存関係・実行条件。",
+      "type": "repo",
+      "added": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "https://x.com/fhwofjow51260/status/2118320468621156556"
+      ],
+      "fetched_at": "2026-11-11T18:05:38.246995+00:00",
+      "path": "entries/other/magicapple123-resumeforge.md",
+      "summary": "READMEでは、求人情報の整理・解析、プロフィールとの適合分析、履歴書の作成とPDF出力、応募状況の追跡、模擬面接と振り返りを扱うと説明されています。プロフィールの事実と生成文を分け、登録内容との不一致や未入力マーカーを警告する機能も記載されています。これらは作者の説明であり、独立した動作確認ではありません。"
     },
     {
       "repo": "UnderleveledBuilder/awesome-social-media-skills",

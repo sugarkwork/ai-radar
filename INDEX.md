@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 888 件 — リポジトリ 568, リンク集 114, 記事 139, モデル 53, プロンプト 14 / ⚑ 要確認 676 件
+収録 889 件 — リポジトリ 569, リンク集 114, 記事 139, モデル 53, プロンプト 14 / ⚑ 要確認 677 件
 
-## リポジトリ（568）
+## リポジトリ（569）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -270,7 +270,7 @@
 | [GDG Agent Skillsの実演教材](entries/coding-agent/gdg-oau-agent-skills-gdg.md) ⚑ | 1 | 0 | 週次 | 13 | 2026-11-07 | 2026-11-10 | 2026-11-10 | unknown |
 | [Leash](entries/coding-agent/cmaintz-leash.md) ⚑ | 0 | 0 | 毎日 | 21 | 2026-11-06 | 2026-11-10 | 2026-11-11 | MIT |
 
-### その他（69）
+### その他（70）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -332,6 +332,7 @@
 | [NamiAgent](entries/other/aa1143-namiagent.md) ⚑ | 483 | 53 | 毎日 | 20 | 2026-10-30 | 2026-11-10 | 2026-11-10 | MIT |
 | [Pixel Plays](entries/other/amirmushichge-pixel-plays.md) ⚑ | 448 | 43 | 月次 | 2 | 2026-10-31 | 2026-11-10 | 2026-11-10 | MIT |
 | [jev-voice-browser](entries/other/moritzkremb-jev-voice-browser.md) ⚑ | 431 | 71 | 停滞 | 0 | 2026-09-21 | 2026-11-10 | 2026-11-11 | MIT |
+| [ResumeForge](entries/other/magicapple123-resumeforge.md) ⚑ | 417 | 19 | 毎日 | 100+ | 2026-11-10 | 2026-11-11 | 2026-11-11 | Apache-2.0 |
 | [Awesome Social Media Skills](entries/other/underleveledbuilder-awesome-social-media-skills.md) ⚑ | 252 | 40 | 毎日 | 33 | 2026-11-08 | 2026-11-10 | 2026-11-10 | CC0-1.0 |
 | [fuxi-pdf · 复习pdf](entries/other/stevensun1005-fuxi-pdf.md) ⚑ | 201 | 3 | 週次 | 12 | 2026-10-22 | 2026-11-11 | 2026-11-11 | unknown |
 | [grok-bot-cli](entries/other/scriptedalchemy-grok-bot-cli.md) ⚑ | 181 | 37 | 毎日 | 31 | 2026-11-04 | 2026-11-10 | 2026-11-10 | MIT |
@@ -1796,6 +1797,7 @@
 - [NamiAgent](entries/other/aa1143-namiagent.md) — unverified / 最新リリース、テストの成功、デモと実モデルの動作、権限機構の実効性、モデルAPIの料金は未確認。著者は、権限機構で意図的な攻撃を防げないと明記している。
 - [Pixel Plays](entries/other/amirmushichge-pixel-plays.md) — unverified / ['候補投稿が言及するClaude Opus 5.5の使用は、作者投稿を取得できなかったため未確認。最新リリース、ブラウザでの動作・性能、別題材への改変結果も未確認。']
 - [jev-voice-browser](entries/other/moritzkremb-jev-voice-browser.md) — unverified / 性能と費用はREADMEに記載された作者環境での報告で、独立再現、現行のAPI料金・利用条件、確認機構の実効性は未検証。GitHubの公開リリース一覧にはリリースが表示されていない。
+- [ResumeForge](entries/other/magicapple123-resumeforge.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Awesome Social Media Skills](entries/other/underleveledbuilder-awesome-social-media-skills.md) — unverified / 最新リリース、検索スキルの導入と動作、掲載ツールの実効性・安全性・個別の料金や利用条件は未確認。READMEによると、投稿や返信を行う一部のツールはアカウント認証を要し、Cookieをローカルに保存する場合がある。
 - [fuxi-pdf · 复习pdf](entries/other/stevensun1005-fuxi-pdf.md) — unverified / READMEはSkill指示と構築・検証コードをMITと記載する一方、同梱の授業デモ、派生PDF、プレビューはCC BY-NC-SA 4.0と明記。第三者授業素材はコードのMITライセンスに含まれない。 GitHub APIでライセンスを確認できていません。
 - [grok-bot-cli](entries/other/scriptedalchemy-grok-bot-cli.md) — unverified / README に基づく確認。CLI・MCP の実機動作、OS 別の認証互換性、最新 GitHub リリース、Grok Bot 側の料金・プラン条件は未確認。90 日コミット数の 100 は計測上限で、100 件以上を表す。
