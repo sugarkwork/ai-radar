@@ -1,5 +1,5 @@
 {
-  "count": 944,
+  "count": 945,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -316,6 +316,37 @@
       "last_release_at": "2025-08-19",
       "path": "entries/3d-motion/alicevision-meshroom.md",
       "summary": "複数の写真からカメラ位置と形状を推定し、メッシュやテクスチャを生成するノードベースの視覚的ワークフロー。AliceVisionプラグインでフォトグラメトリー、カメラ追跡、パノラマ等を扱う。独自Pythonノードや外部コマンドで拡張できる。"
+    },
+    {
+      "name": "Theatre.js",
+      "genre": "3d-motion",
+      "url": "https://github.com/theatre-js/theatre",
+      "repo": "theatre-js/theatre",
+      "license": "Apache-2.0",
+      "stars": 12979,
+      "language": "TypeScript",
+      "created": "2013-12-23",
+      "updated": "2024-08-14",
+      "forks": 505,
+      "open_issues": 141,
+      "commits_30d": 0,
+      "commit_cadence": "stale",
+      "commits_90d": 0,
+      "size_kb": 27636,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEでは、開発を一時的に非公開リポジトリへ移したと説明されています。studio（@theatre/studio）はAGPL-3.0、core（@theatre/core）および多くのパッケージはApache-2.0と記載されており、ライセンスはパッケージごとに確認が必要です。",
+      "type": "repo",
+      "added": "2026-11-12",
+      "first_seen": "2026-11-12",
+      "sources": [
+        "https://x.com/RealMarvelX/status/2118525010088251781"
+      ],
+      "fetched_at": "2026-11-12T11:17:45.055118+00:00",
+      "path": "entries/3d-motion/theatre-js-theatre.md",
+      "summary": "高精細なモーショングラフィックス向けのアニメーションライブラリです。READMEによると、THREE.jsなどの3Dライブラリで作ったオブジェクト、Reactなどで扱うHTML/SVG、マイクロインタラクション、生成的なインタラクティブアート、その他のJavaScript変数をアニメーション化できます。プログラムからも"
     },
     {
       "repo": "jrouwe/JoltPhysics",

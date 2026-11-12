@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 944 件 — リポジトリ 618, リンク集 116, 記事 143, モデル 53, プロンプト 14 / ⚑ 要確認 731 件
+収録 945 件 — リポジトリ 619, リンク集 116, 記事 143, モデル 53, プロンプト 14 / ⚑ 要確認 732 件
 
-## リポジトリ（618）
+## リポジトリ（619）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -385,7 +385,7 @@
 | [Jev Grand Prix](entries/other/enoyola-jev-grand-prix.md) ⚑ | 7 | 0 | 月次 | 0 | 2026-09-21 | 2026-11-10 | 2026-11-11 | MIT |
 | [剪坊](entries/other/tuyetloanpham08-png-jianfang.md) ⚑ | 7 | 1 | 月次 | 2 | 2026-10-20 | 2026-11-11 | 2026-11-11 | unknown |
 
-### 3D・モーション（65）
+### 3D・モーション（66）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -399,6 +399,7 @@
 | [Blender](entries/3d-motion/blender-blender.md) ⚑ | 21,829 | 3,550 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | unknown |
 | [Hunyuan3D-2](entries/3d-motion/tencent-hunyuan-hunyuan3d-2.md) ⚑ | 15,376 | 1,594 | 停滞 | 0 | 2025-10-28 | 2026-11-10 | 2026-11-10 | unknown |
 | [Meshroom](entries/3d-motion/alicevision-meshroom.md) ⚑ | 13,076 | 1,243 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MPL-2.0 |
+| [Theatre.js](entries/3d-motion/theatre-js-theatre.md) ⚑ | 12,979 | 505 | 停滞 | 0 | 2024-08-14 | 2026-11-12 | 2026-11-12 | Apache-2.0 |
 | [Jolt Physics](entries/3d-motion/jrouwe-joltphysics.md) ⚑ | 12,261 | 1,013 | 毎日 | 49 | 2026-11-09 | 2026-11-10 | 2026-11-10 | MIT |
 | [FreeMoCap](entries/3d-motion/freemocap-freemocap.md) ⚑ | 10,769 | 1,026 | 月次 | 2 | 2026-11-09 | 2026-11-10 | 2026-11-10 | AGPL-3.0 |
 | [Text-to-Lottie](entries/3d-motion/diffusionstudio-lottie.md) ⚑ | 5,716 | 302 | 停滞 | 0 | 2026-07-25 | 2026-11-10 | 2026-11-10 | MIT |
@@ -1380,6 +1381,7 @@
 - [Blender](entries/3d-motion/blender-blender.md) — unverified / GitHubミラーの最新リリース、発見投稿のClaudeによる全工程自動化、外部MCPとの接続、総費用、制作結果は未確認。レンダリング速度や画質の独立実測は行っていない。 GitHub APIでライセンスを確認できていません。
 - [Hunyuan3D-2](entries/3d-motion/tencent-hunyuan-hunyuan3d-2.md) — unverified / GitHub APIでライセンスを確認できていません。
 - [Meshroom](entries/3d-motion/alicevision-meshroom.md) — unverified / Meshroom本体はMPL-2.0。AliceVisionや追加プラグイン、AIモデルの条件は個別に確認。公式マニュアルによると密な深度推定にはCUDA対応NVIDIA GPUが必要で、非CUDA環境は粗いdraft meshingを利用。実行・再構築品質は未検証。
+- [Theatre.js](entries/3d-motion/theatre-js-theatre.md) — unverified / READMEでは、開発を一時的に非公開リポジトリへ移したと説明されています。studio（@theatre/studio）はAGPL-3.0、core（@theatre/core）および多くのパッケージはApache-2.0と記載されており、ライセンスはパッケージごとに確認が必要です。
 - [Jolt Physics](entries/3d-motion/jrouwe-joltphysics.md) — unverified / リリースタグは公式の最新リリースページで確認したが、公開日時は未確認。ビルド、性能、AIツールとの連携は実行検証していない。
 - [FreeMoCap](entries/3d-motion/freemocap-freemocap.md) — unverified / 公開資料による確認。インストール、撮影、追跡精度、処理速度、Blender出力の品質は実測していない。最新リリースのタグは公開ページの転送先で確認したが、公開日時は未確認。READMEのソースビルド手順には非公開Git依存があり、公開アクセスだけでの再現性は未確認。
 - [Text-to-Lottie](entries/3d-motion/diffusionstudio-lottie.md) — unverified / 導入・生成・プレビューは未実行。出力品質、複雑なシーンや各再生環境での互換性、参照動画からの再現、対応ランタイムの最低バージョン、エージェント側の料金は未検証。
