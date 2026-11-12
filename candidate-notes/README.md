@@ -6,11 +6,20 @@
 
 ## 2026-11-13（日本時間）
 
+- [X: superfang119 の投稿](https://x.com/superfang119/status/2118572735349874822)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+  - 対象を裏付ける公開一次資料を確認できませんでした。
+  - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://x.com/superfang119/status/2118572735349874822>。
+- [X: superfang119 の投稿](https://x.com/superfang119/status/2118571692289331699)
+  - 対象を裏付ける公開一次資料を確認できませんでした。
+  - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://x.com/superfang119/status/2118571692289331699>。
 - [X: superfang119 の投稿](https://x.com/superfang119/status/2118558530286612987)
   - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://x.com/superfang119/status/2118558530286612987>。
 - [X: superfang119 の投稿](https://x.com/superfang119/status/2118557622374928579)
   - 候補の対象が複数あり、一意に特定できませんでした。
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+- [X: sep_is_heim の投稿](https://x.com/sep_is_heim/status/2118570584200413222)
+  - 掲載先URLの正常なHTTP応答を確認できませんでした。
 - [X: rvaniaaaa の投稿](https://x.com/rvaniaaaa/status/2120861156801647094)
   - 候補の対象が複数あり、一意に特定できませんでした。
   - 対象を裏付ける公開一次資料を確認できませんでした。
@@ -30,6 +39,18 @@
 - [X: huksyn の投稿](https://x.com/huksyn/status/2118554175642698049)
   - 掲載先URLの正常なHTTP応答を確認できませんでした。
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+- [X: daaihq の投稿](https://x.com/daaihq/status/2118572719700930838)
+  - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://x.com/daaihq/status/2118572719700930838>。
+- [X: daaihq の投稿](https://x.com/daaihq/status/2118572714168668508)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+  - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://x.com/daaihq/status/2118572714168668508>。
+- [X: ai_hakase_ の投稿](https://x.com/ai_hakase_/status/2118569827044360253)
+  - 下書きが公開用の検証基準を満たしていません。 照合済み参照先: <https://huggingface.co/Axion1-0/Axion-1.0-35B>。
+  - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+  - 公開に必須の根拠がそろっていません。
+  - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://huggingface.co/Axion1-0/Axion-1.0-35B>。
+- [X: ai_hakase_ の投稿](https://x.com/ai_hakase_/status/2118569825513492749)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 - [X: ai_hakase_ の投稿](https://x.com/ai_hakase_/status/2118569572173263170)
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
@@ -55,6 +76,8 @@
 - [X: ai_hacks_akira の投稿](https://x.com/ai_hacks_akira/status/2118554295721480561)
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
   - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://github.com/anthropics/skills>。
+- [X: Leviwoyun の投稿](https://x.com/Leviwoyun/status/2118570744250880325)
+  - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: Jackywine の投稿](https://x.com/Jackywine/status/2118562780383216113)
   - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: AiAircle34052 の投稿](https://x.com/AiAircle34052/status/2118559500181635527)
