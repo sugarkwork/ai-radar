@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 960 件 — リポジトリ 634, リンク集 116, 記事 143, モデル 53, プロンプト 14 / ⚑ 要確認 747 件
+収録 961 件 — リポジトリ 635, リンク集 116, 記事 143, モデル 53, プロンプト 14 / ⚑ 要確認 748 件
 
-## リポジトリ（634）
+## リポジトリ（635）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -306,7 +306,7 @@
 | [jevwire](entries/agent-framework/brainwires-jevwire.md) ⚑ | 27 | 6 | 週次 | 11 | 2026-11-06 | 2026-11-11 | 2026-11-11 | MIT |
 | [web-api-skills](entries/agent-framework/oxylabs-web-api-skills.md) | 13 | 1 | 週次 | 11 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
 
-### その他（86）
+### その他（87）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -372,6 +372,7 @@
 | [Second Brain OS](entries/other/undefined-ui-second-brain-os.md) ⚑ | 1,549 | 265 | 週次 | 8 | 2026-11-03 | 2026-11-10 | 2026-11-10 | MIT |
 | [Motion Video Kit](entries/other/echris6-motion-video-kit.md) ⚑ | 1,378 | 123 | 月次 | 1 | 2026-10-14 | 2026-11-09 | 2026-11-10 | MIT |
 | [pg-jev](entries/other/realzachi-pg-jev.md) ⚑ | 1,303 | 109 | 月次 | 0 | 2026-10-06 | 2026-11-10 | 2026-11-11 | unknown |
+| [One IP](entries/other/zhihui-hu-one-ip.md) ⚑ | 1,235 | 1,388 | 週次 | 18 | 2026-11-12 | 2026-11-12 | 2026-11-12 | AGPL-3.0 |
 | [WeVisOne-VL](entries/other/tencent-wevisone-vl.md) | 1,111 | 95 | 月次 | 3 | 2026-10-25 | 2026-11-09 | 2026-11-10 | Apache-2.0（Tencent 著作部分） |
 | [Shapeshift](entries/other/anishfn-shapeshift.md) ⚑ | 1,066 | 106 | 月次 | 0 | 2026-09-23 | 2026-11-10 | 2026-11-11 | MIT |
 | [FlashProve](entries/other/anthropics-flashprove.md) ⚑ | 1,017 | 109 | 月次 | 1 | 2026-10-30 | 2026-11-11 | 2026-11-11 | Apache-2.0 |
@@ -1921,6 +1922,7 @@
 - [Second Brain OS](entries/other/undefined-ui-second-brain-os.md) — unverified / 検索精度や学習効果の比較実測、プラグインとスクリプトの実行互換性、Claude Codeの利用料金、最新リリースのタグと公開日は未確認。
 - [Motion Video Kit](entries/other/echris6-motion-video-kit.md) — unverified / スター1366・フォーク121に対し、コミットは90日で7件（作成2026-09-27、最終push 2026-10-14）で、X投稿経由の注目が先行した可能性がある。作例3本の動画・レンダー結果はリポジトリに含まれず（git tree に mp4 等なし）、成果物品質は第三者が確認できない。効果測定・ベンチマークはなく、効果は作者の自己申告の範囲。HyperFrames でのレンダリング（component-lab.html の npx 手順）は当方では未実行。
 - [pg-jev](entries/other/realzachi-pg-jev.md) — unverified / 速度・精度・費用はREADMEの著者測定で、独立再現、別データでの精度、現行料金、ローカル互換サーバーの動作は未確認。最新リリースの公開ページでタグを確認したが、タイムゾーン付きの公開日時は未確認。 GitHub APIでライセンスを確認できていません。
+- [One IP](entries/other/zhihui-hu-one-ip.md) — unverified / 結果は第三者サービスに依存し、レート制限やクロスオリジン制約の影響を受ける場合がある。READMEはIP種別と評判スコアを参考情報としている。
 - [Shapeshift](entries/other/anishfn-shapeshift.md) — unverified / ['READMEと公開ソースを確認。コードは実行しておらず、分類精度、曖昧な入力での挙動、実応答時間、オンライン障害時のフォールバックは未実測。TypeSafe APIの現行料金と利用条件は未確認。']
 - [FlashProve](entries/other/anthropics-flashprove.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [VidStab](entries/other/georgmartius-vid.stab.md) — unverified / 補正量・画質・処理速度は実測していない。READMEはmasterの仕様を含むため、最新公開リリースv1.1.2や各FFmpeg配布ビルドでの機能差は未確認。公開日の年は取得した表示から確定できなかった。ライセンス欄は親工程のAPI値を保持し、利用条件は対象バージョンのライセンス文書で確認する。 GitHub APIでライセンスを確認できていません。

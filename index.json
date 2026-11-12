@@ -1,5 +1,5 @@
 {
-  "count": 960,
+  "count": 961,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -20079,6 +20079,37 @@
       "fetched_at": "2026-11-10T12:34:37+00:00",
       "path": "entries/other/realzachi-pg-jev.md",
       "summary": "jev()をWHERE句に置いて自然言語条件で行を絞り込む。jev_prob()で確率順に並べ、jev_choice()で指定した選択肢に分類できる。"
+    },
+    {
+      "name": "One IP",
+      "genre": "other",
+      "url": "https://github.com/zhihui-hu/one-ip",
+      "repo": "zhihui-hu/one-ip",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "結果は第三者サービスに依存し、レート制限やクロスオリジン制約の影響を受ける場合がある。READMEはIP種別と評判スコアを参考情報としている。",
+      "stars": 1235,
+      "forks": 1388,
+      "open_issues": 1,
+      "size_kb": 5784,
+      "language": "TypeScript",
+      "created": "2026-09-09",
+      "updated": "2026-11-12",
+      "archived": false,
+      "license": "AGPL-3.0",
+      "commits_30d": 18,
+      "commits_90d": 58,
+      "commit_cadence": "weekly",
+      "type": "repo",
+      "added": "2026-11-12",
+      "first_seen": "2026-11-12",
+      "sources": [
+        "https://x.com/ruyi3699/status/2118563022801338575"
+      ],
+      "fetched_at": "2026-11-12T18:09:18.512178+00:00",
+      "path": "entries/other/zhihui-hu-one-ip.md",
+      "summary": "IPv4/IPv6の所在・事業者・ASN・評判スコア・地図表示、DNS/WebRTC漏洩検出、AI・動画配信サービス等への接続診断、Cloudflareエッジネットワークを使った速度測定、WHOIS、Global Ping、ブラウザー指紋・環境検出、サービス状態確認を提供する。中英語、ライト/ダークテーマ、モバイル表示"
     },
     {
       "repo": "Tencent/WeVisOne-VL",
