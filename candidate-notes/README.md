@@ -113,10 +113,14 @@
   - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://x.com/daaihq/status/2118280583013134432>。
 - [X: cryptowluha の投稿](https://x.com/cryptowluha/status/2118618563703394414)
   - 対象を裏付ける公開一次資料を確認できませんでした。
+- [X: cookie_sns の投稿](https://x.com/cookie_sns/status/2118629478289326548)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 - [X: bernvadell の投稿](https://x.com/bernvadell/status/2118379432272380290)
   - 候補の対象が複数あり、一意に特定できませんでした。
 - [X: bdsqlsz の投稿](https://x.com/bdsqlsz/status/2118373375232123191)
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+- [X: RealMarvelX の投稿](https://x.com/RealMarvelX/status/2118386966156701958)
+  - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://x.com/RealMarvelX/status/2118386966156701958>。
 - [X: RealMarvelX の投稿](https://x.com/RealMarvelX/status/2118349624763207790)
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
 - [X: RealMarvelX の投稿](https://x.com/RealMarvelX/status/2118330503040221345)
@@ -134,6 +138,10 @@
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 - [X: Jack_FluxAI の投稿](https://x.com/Jack_FluxAI/status/2118318397708812364)
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+- [X: HugoDuprez の投稿](https://x.com/HugoDuprez/status/2118383938871664784)
+  - 公開に必須の根拠がそろっていません。
+- [X: HamdiAmer16 の投稿](https://x.com/HamdiAmer16/status/2118381791954264419)
+  - 公開に必須の根拠がそろっていません。
 - [X: EianLu の投稿](https://x.com/EianLu/status/2118317430665613741)
   - 下書きが公開用の検証基準を満たしていません。
   - 対象を裏付ける公開一次資料を確認できませんでした。
@@ -142,6 +150,8 @@
 - [X: Bober_smart の投稿](https://x.com/Bober_smart/status/2118359362448073001)
   - 候補の対象が複数あり、一意に特定できませんでした。
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+- [X: Av1dlive の投稿](https://x.com/Av1dlive/status/2118386892270149703)
+  - 対象を裏付ける公開一次資料を確認できませんでした。
 ## 2026-11-11（日本時間）
 
 - [X: zazzy_stardust の投稿](https://x.com/zazzy_stardust/status/2119055200732557746)
