@@ -1,5 +1,5 @@
 {
-  "count": 954,
+  "count": 955,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -18081,6 +18081,37 @@
       "fetched_at": "2026-11-10T16:22:18.748508+00:00",
       "path": "entries/other/microsoft-markitdown.md",
       "summary": "PDF、PowerPoint、Word、Excel、画像、音声、HTML、CSV・JSON・XML、ZIP、YouTube URL、EPUBなどをMarkdownへ変換します。READMEでは、見出し・リスト・表・リンクなどの文書構造をMarkdownとして保持することを重視すると説明しています。"
+    },
+    {
+      "name": "Build a Large Language Model (From Scratch)",
+      "genre": "other",
+      "url": "https://github.com/rasbt/LLMs-from-scratch",
+      "repo": "rasbt/LLMs-from-scratch",
+      "license": "unknown",
+      "stars": 108297,
+      "language": "Jupyter Notebook",
+      "created": "2023-07-23",
+      "updated": "2026-11-09",
+      "forks": 16745,
+      "open_issues": 4,
+      "commits_30d": 13,
+      "commit_cadence": "weekly",
+      "commits_90d": 29,
+      "size_kb": 17124,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "ライセンスはAPI上でunknown。利用・再配布の許諾条件は確認できていない。 GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-12",
+      "first_seen": "2026-11-12",
+      "sources": [
+        "https://x.com/rvaniaaaa/status/2120861156801647094"
+      ],
+      "fetched_at": "2026-11-12T15:07:38.937699+00:00",
+      "path": "entries/other/rasbt-llms-from-scratch.md",
+      "summary": "GPT型の大規模言語モデルを一から開発し、事前学習やファインチューニングを行うコードと学習内容を提供する。章ごとのノートブックやコードが整理されている。出典：README（https://github.com/rasbt/LLMs-from-scratch）。"
     },
     {
       "repo": "career-ops-hq/career-ops",
