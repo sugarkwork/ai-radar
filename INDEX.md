@@ -2,11 +2,111 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 955 件 — リポジトリ 629, リンク集 116, 記事 143, モデル 53, プロンプト 14 / ⚑ 要確認 742 件
+収録 956 件 — リポジトリ 630, リンク集 116, 記事 143, モデル 53, プロンプト 14 / ⚑ 要確認 743 件
 
-## リポジトリ（629）
+## リポジトリ（630）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
+
+### コーディングエージェント（95）
+
+| 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
+|---|---:|---:|---|---:|---|---|---|---|
+| [Karpathy Guidelines（karpathy-guidelines スキル）](entries/coding-agent/multica-ai-andrej-karpathy-skills.md) ⚑ | 231,320 | 22,999 | 停滞 | 0 | 2026-04-20 | 2026-11-09 | 2026-11-10 | unknown |
+| [Claude Code](entries/coding-agent/anthropics-claude-code.md) ⚑ | 155,135 | 24,886 | 毎日 | 54 | 2026-11-10 | 2026-11-10 | 2026-11-10 | unknown |
+| [Spec Kit](entries/coding-agent/github-spec-kit.md) ⚑ | 149,097 | 13,388 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | MIT |
+| [UI UX Pro Max](entries/coding-agent/nextlevelbuilder-ui-ux-pro-max-skill.md) ⚑ | 147,531 | 15,608 | 毎日 | 21 | 2026-11-07 | 2026-11-10 | 2026-11-10 | MIT |
+| [Next.js](entries/coding-agent/vercel-next.js.md) ⚑ | 143,475 | 32,801 | 毎日 | 100+ | 2026-11-11 | 2026-11-11 | 2026-11-11 | MIT |
+| [Orca](entries/coding-agent/stablyai-orca.md) ⚑ | 120,836 | 7,653 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | MIT |
+| [Caveman](entries/coding-agent/juliusbrussee-caveman.md) ⚑ | 118,623 | 6,907 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [Agent Skills](entries/coding-agent/addyosmani-agent-skills.md) ⚑ | 114,537 | 11,972 | 毎日 | 100+ | 2026-11-01 | 2026-11-09 | 2026-11-10 | MIT |
+| [OpenDesign](entries/coding-agent/nexu-io-open-design.md) ⚑ | 106,979 | 12,169 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-11 | Apache-2.0 |
+| [Playwright](entries/coding-agent/microsoft-playwright.md) ⚑ | 99,952 | 6,855 | 毎日 | 100+ | 2026-11-12 | 2026-11-12 | 2026-11-12 | Apache-2.0 |
+| [autoresearch](entries/coding-agent/karpathy-autoresearch.md) ⚑ | 99,728 | 13,741 | 停滞 | 0 | 2026-03-26 | 2026-11-10 | 2026-11-10 | unknown |
+| [Archify](entries/coding-agent/tt-a1i-archify.md) ⚑ | 95,261 | 6,499 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | Apache-2.0 |
+| [Awesome Claude Skills](entries/coding-agent/composiohq-awesome-claude-skills.md) ⚑ | 79,332 | 9,677 | 停滞 | 0 | 2026-09-18 | 2026-11-12 | 2026-11-12 | unknown |
+| [CodeGraph](entries/coding-agent/colbymchenry-codegraph.md) | 77,198 | 5,141 | 毎日 | 100+ | 2026-11-01 | 2026-11-09 | 2026-11-10 | MIT |
+| [Open Interpreter](entries/coding-agent/openinterpreter-openinterpreter.md) ⚑ | 68,864 | 5,943 | 週次 | 11 | 2026-11-11 | 2026-11-11 | 2026-11-11 | Apache-2.0 |
+| [Skills for Designers and Engineers](entries/coding-agent/emilkowalski-skills.md) ⚑ | 55,592 | 3,238 | 週次 | 8 | 2026-11-09 | 2026-11-10 | 2026-11-10 | MIT |
+| [Obsidian Skills](entries/coding-agent/kepano-obsidian-skills.md) ⚑ | 51,458 | 3,639 | 月次 | 0 | 2026-09-15 | 2026-11-10 | 2026-11-10 | MIT |
+| [herdr](entries/coding-agent/herdrdev-herdr.md) ⚑ | 49,753 | 4,017 | 毎日 | 49 | 2026-11-07 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [wshobson/agents](entries/coding-agent/wshobson-agents.md) ⚑ | 42,378 | 4,476 | 毎日 | 34 | 2026-11-09 | 2026-11-10 | 2026-11-10 | MIT |
+| [Codewhale](entries/coding-agent/codewhale-hq-codewhale.md) ⚑ | 41,173 | 3,569 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | MIT |
+| [oh-my-pi](entries/coding-agent/can1357-oh-my-pi.md) ⚑ | 38,506 | 4,380 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | MIT |
+| [Claude Code Game Studios](entries/coding-agent/donchitos-claude-code-game-studios.md) ⚑ | 37,789 | 4,949 | 月次 | 2 | 2026-11-09 | 2026-11-10 | 2026-11-10 | MIT |
+| [Awesome Agent Skills](entries/coding-agent/voltagent-awesome-agent-skills.md) ⚑ | 37,027 | 4,103 | 毎日 | 100+ | 2026-11-05 | 2026-11-10 | 2026-11-10 | MIT |
+| [Vercel Agent Skills](entries/coding-agent/vercel-labs-agent-skills.md) ⚑ | 33,817 | 2,956 | 週次 | 5 | 2026-10-28 | 2026-11-10 | 2026-11-10 | unknown |
+| [claude-code-templates](entries/coding-agent/davila7-claude-code-templates.md) ⚑ | 33,241 | 3,901 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [AGENTS.md](entries/coding-agent/agentsmd-agents.md.md) ⚑ | 25,417 | 1,950 | 月次 | 0 | 2026-09-10 | 2026-11-10 | 2026-11-10 | MIT |
+| [Craft Anything](entries/coding-agent/storytold-craft-anything.md) | 24,308 | 4,863 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [jcode](entries/coding-agent/1jehuang-jcode.md) | 21,641 | 2,517 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [meta/astryx](entries/coding-agent/meta-astryx.md) ⚑ | 19,713 | 1,502 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [GSAP AI Skills](entries/coding-agent/greensock-gsap-skills.md) ⚑ | 18,218 | 1,148 | 停滞 | 0 | 2026-07-29 | 2026-11-10 | 2026-11-11 | MIT |
+| [pstack（Lauren Tan / poteto）](entries/coding-agent/cursor-plugins.md) ⚑ | 15,853 | 1,657 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [Garden Skills](entries/coding-agent/conardli-garden-skills.md) ⚑ | 14,851 | 1,710 | 週次 | 11 | 2026-11-08 | 2026-11-10 | 2026-11-10 | MIT |
+| [Agent Orchestrator](entries/coding-agent/orchestratorinc-agent-orchestrator.md) ⚑ | 14,373 | 1,955 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | Apache-2.0 |
+| [UI Skills](entries/coding-agent/ibelick-ui-skills.md) ⚑ | 10,912 | 521 | 毎日 | 85 | 2026-11-07 | 2026-11-10 | 2026-11-10 | MIT |
+| [improve](entries/coding-agent/shadcn-improve.md) ⚑ | 10,241 | 425 | 停滞 | 0 | 2026-09-12 | 2026-11-10 | 2026-11-11 | MIT |
+| [fast-jev-compaction](entries/coding-agent/tamaratran-fast-jev-compaction.md) ⚑ | 7,933 | 581 | 月次 | 0 | 2026-09-18 | 2026-11-09 | 2026-11-10 | MIT |
+| [ZSeven-W/openpencil](entries/coding-agent/zseven-w-openpencil.md) ⚑ | 7,172 | 625 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [Coucou](entries/coding-agent/louis-cfm-coucou.md) ⚑ | 7,102 | 1,166 | 毎日 | 100+ | 2026-11-06 | 2026-11-10 | 2026-11-10 | MIT |
+| [billion-context](entries/coding-agent/ranxianglei-billion-context.md) ⚑ | 5,714 | 433 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | NOASSERTION |
+| [TokenEconomizer](entries/coding-agent/microsoft-tokeneconomizer.md) ⚑ | 5,576 | 345 | 毎日 | 100+ | 2026-11-08 | 2026-11-10 | 2026-11-10 | Apache-2.0 |
+| [Obsidian Mind](entries/coding-agent/breferrari-obsidian-mind.md) ⚑ | 5,525 | 610 | 毎日 | 36 | 2026-10-17 | 2026-11-10 | 2026-11-10 | MIT |
+| [obsidian-second-brain](entries/coding-agent/eugeniughelbur-obsidian-second-brain.md) ⚑ | 5,252 | 643 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | MIT |
+| [chinese-novelist skill](entries/coding-agent/penglonghuang-chinese-novelist-skill.md) ⚑ | 4,766 | 646 | 毎日 | 21 | 2026-11-01 | 2026-11-11 | 2026-11-11 | MIT |
+| [obsidianmd/obsidian-sample-plugin](entries/coding-agent/obsidianmd-obsidian-sample-plugin.md) ⚑ | 4,672 | 1,810 | 停滞 | 0 | 2026-08-02 | 2026-11-09 | 2026-11-10 | 0BSD |
+| [pstack-claude](entries/coding-agent/michael-denyer-pstack-claude.md) ⚑ | 4,178 | 381 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [Three.js Skills for Claude Code](entries/coding-agent/cloudai-x-threejs-skills.md) ⚑ | 4,148 | 477 | 毎日 | 20 | 2026-10-19 | 2026-11-12 | 2026-11-12 | MIT |
+| [Scenario Agent Skills](entries/coding-agent/scenario-labs-skills.md) ⚑ | 3,658 | 321 | 毎日 | 100+ | 2026-11-10 | 2026-11-11 | 2026-11-11 | MIT |
+| [tstack](entries/coding-agent/t3dotgg-tstack.md) ⚑ | 3,411 | 258 | 週次 | 5 | 2026-10-28 | 2026-11-10 | 2026-11-10 | MIT |
+| [Beacon](entries/coding-agent/asymptote-labs-agent-beacon.md) ⚑ | 3,410 | 302 | 毎日 | 100+ | 2026-11-09 | 2026-11-10 | 2026-11-10 | MIT |
+| [oh-my-mermaid（omm）](entries/coding-agent/oh-my-mermaid-oh-my-mermaid.md) | 3,389 | 267 | 停滞 | 0 | 2026-04-07 | 2026-11-09 | 2026-11-10 | MIT |
+| [nanoMuse — 自分のデバイスで動くオープンソースパーソナルエージェント](entries/coding-agent/nano-muse-nanomuse.md) ⚑ | 3,358 | 402 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
+| [Jevgrep](entries/coding-agent/dzhng-jevgrep.md) ⚑ | 3,205 | 245 | 毎日 | 71 | 2026-11-08 | 2026-11-10 | 2026-11-11 | MIT |
+| [Oil UI](entries/coding-agent/oil-oil-oil-ui.md) ⚑ | 3,102 | 177 | 毎日 | 52 | 2026-11-10 | 2026-11-10 | 2026-11-11 | MIT |
+| [yomiyasu（よみやす）](entries/coding-agent/nanaism-yomiyasu.md) ⚑ | 2,975 | 78 | 毎日 | 26 | 2026-11-10 | 2026-11-11 | 2026-11-11 | MIT |
+| [DS Harness Remote](entries/coding-agent/liguobao-ds-harness-remote.md) ⚑ | 2,667 | 198 | 毎日 | 100+ | 2026-11-12 | 2026-11-12 | 2026-11-12 | MIT |
+| [Better Harness](entries/coding-agent/qoderai-better-harness.md) ⚑ | 2,444 | 204 | 週次 | 12 | 2026-11-07 | 2026-11-10 | 2026-11-10 | MIT |
+| [ppmpreetham/BUI](entries/coding-agent/ppmpreetham-bui.md) ⚑ | 2,363 | 95 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
+| [reacher-z/Awesome-REA](entries/coding-agent/reacher-z-awesome-rea.md) ⚑ | 2,312 | 421 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [MotionSites Web Builder](entries/coding-agent/motionsites-ai-claude-skill.md) ⚑ | 1,935 | 198 | 月次 | 2 | 2026-10-26 | 2026-11-10 | 2026-11-10 | unknown |
+| [reanimate](entries/coding-agent/niazmorshed2007-reanimate.md) ⚑ | 1,557 | 136 | 毎日 | 20 | 2026-10-31 | 2026-11-11 | 2026-11-11 | MIT |
+| [PHP Version Checker](entries/coding-agent/openai-php2shell-checker.md) ⚑ | 1,468 | 147 | 週次 | 8 | 2026-10-22 | 2026-11-10 | 2026-11-10 | Apache-2.0 |
+| [EvoSkill](entries/coding-agent/sentient-agi-evoskill.md) ⚑ | 1,298 | 134 | 停滞 | 0 | 2026-10-26 | 2026-11-12 | 2026-11-12 | Apache-2.0 |
+| [Claude Code Frontend Design Toolkit](entries/coding-agent/wilwaldon-claude-code-frontend-design-toolkit.md) ⚑ | 1,292 | 138 | 停滞 | 0 | 2026-04-11 | 2026-11-10 | 2026-11-10 | unknown |
+| [Claude Remotion Skill](entries/coding-agent/haidrrrry-claude-remotion-skill.md) ⚑ | 960 | 131 | 停滞 | 0 | 2026-08-12 | 2026-11-12 | 2026-11-12 | MIT |
+| [Second Brain Starter](entries/coding-agent/coleam00-second-brain-starter.md) ⚑ | 885 | 188 | 停滞 | 0 | 2026-06-09 | 2026-11-10 | 2026-11-10 | unknown |
+| [claude-motion-design](entries/coding-agent/howseen-ai-claude-motion-design.md) ⚑ | 811 | 105 | 月次 | 0 | 2026-10-04 | 2026-11-12 | 2026-11-12 | MIT |
+| [Second Brain](entries/coding-agent/nicholasspisak-second-brain.md) ⚑ | 775 | 116 | 停滞 | 0 | 2026-04-07 | 2026-11-10 | 2026-11-11 | unknown |
+| [Common Skills](entries/coding-agent/warpdotdev-common-skills.md) ⚑ | 686 | 44 | 月次 | 2 | 2026-10-28 | 2026-11-10 | 2026-11-10 | MIT |
+| [Motion Graphics Skill Pack](entries/coding-agent/charlie947-motion-graphics-skills.md) ⚑ | 648 | 86 | 月次 | 0 | 2026-10-11 | 2026-11-12 | 2026-11-12 | MIT |
+| [min-skill](entries/coding-agent/limin112-min-skill.md) ⚑ | 630 | 94 | 週次 | 14 | 2026-11-05 | 2026-11-11 | 2026-11-11 | unknown |
+| [Machine Skill](entries/coding-agent/airsuphq-machine-skill.md) ⚑ | 625 | 83 | 週次 | 8 | 2026-10-13 | 2026-11-10 | 2026-11-11 | MIT |
+| [Product Engineering](entries/coding-agent/phuryn-product-engineering.md) ⚑ | 455 | 59 | 毎日 | 100+ | 2026-11-08 | 2026-11-10 | 2026-11-11 | MIT |
+| [OnlyShot](entries/coding-agent/a-cat-with-carrots-onlyshot.md) ⚑ | 408 | 43 | 週次 | 11 | 2026-11-12 | 2026-11-12 | 2026-11-12 | MIT |
+| [Video Studio Skill](entries/coding-agent/aaitor-skill-video-studio.md) ⚑ | 390 | 13 | 週次 | 8 | 2026-11-04 | 2026-11-10 | 2026-11-11 | MIT |
+| [Agent HUD](entries/coding-agent/jazzenchen-agent-hud-open.md) ⚑ | 326 | 54 | 毎日 | 100+ | 2026-11-10 | 2026-11-11 | 2026-11-11 | Apache-2.0 |
+| [xAI Plugin Marketplace](entries/coding-agent/xai-org-plugin-marketplace.md) ⚑ | 325 | 1,222 | 毎日 | 31 | 2026-11-09 | 2026-11-10 | 2026-11-10 | unknown |
+| [Motion.dev Animations Skill](entries/coding-agent/199-biotechnologies-motion-dev-animations-skill.md) ⚑ | 231 | 36 | 停滞 | 0 | 2026-03-30 | 2026-11-12 | 2026-11-12 | MIT |
+| [AI Second Brain](entries/coding-agent/charlie947-ai-second-brain.md) ⚑ | 229 | 45 | 月次 | 1 | 2026-10-24 | 2026-11-10 | 2026-11-11 | MIT |
+| [Motion Design Skills](entries/coding-agent/iart-ai-motion-design-skills.md) ⚑ | 226 | 36 | 月次 | 1 | 2026-11-11 | 2026-11-12 | 2026-11-12 | MIT |
+| [open-source-hands](entries/coding-agent/abouchedidxcode-open-source-hands.md) ⚑ | 205 | 30 | 月次 | 2 | 2026-11-03 | 2026-11-11 | 2026-11-11 | MIT |
+| [Dual-Brain — 設計とコードの二視点レビュー用スキル](entries/coding-agent/sleeplesshan-dual-brain.md) ⚑ | 143 | 11 | 週次 | 6 | 2026-11-06 | 2026-11-09 | 2026-11-10 | MIT |
+| [quicksilver](entries/coding-agent/uditakhourii-quicksilver.md) ⚑ | 142 | 11 | 停滞 | 0 | 2026-09-25 | 2026-11-09 | 2026-11-10 | MIT |
+| [Awesome Motion Design Agent Skills](entries/coding-agent/frankxai-awesome-motion-design-agent-skills.md) ⚑ | 106 | 37 | 週次 | 10 | 2026-11-09 | 2026-11-12 | 2026-11-12 | CC0-1.0 |
+| [Xing4.0-29B-A4B](entries/coding-agent/xingchen-agi-xing4.0-29b-a4b.md) ⚑ | 106 | 10 | 週次 | 7 | 2026-11-10 | 2026-11-12 | 2026-11-12 | Apache-2.0 |
+| [Klik Motion-Graphics System](entries/coding-agent/t3knobox-klik-anim-skill-creation.md) ⚑ | 96 | 19 | 停滞 | 0 | 2026-08-06 | 2026-11-12 | 2026-11-12 | unknown |
+| [jev-code](entries/coding-agent/francoischastel-jev-code.md) ⚑ | 59 | 9 | 月次 | 0 | 2026-10-31 | 2026-11-11 | 2026-11-11 | MIT |
+| [Flow Preview](entries/coding-agent/tanishqkancharla-flow-preview.md) ⚑ | 37 | 3 | 週次 | 13 | 2026-11-06 | 2026-11-10 | 2026-11-11 | Apache-2.0 |
+| [Jev Cookbook](entries/coding-agent/jev-engineering-cookbook.md) ⚑ | 30 | 5 | 毎日 | 73 | 2026-11-10 | 2026-11-11 | 2026-11-11 | MIT |
+| [Teddarific/skills](entries/coding-agent/teddarific-skills.md) ⚑ | 18 | 1 | 月次 | 3 | 2026-10-14 | 2026-11-10 | 2026-11-11 | unknown |
+| [davekiss/mods（leaks）](entries/coding-agent/davekiss-mods.md) ⚑ | 12 | 1 | 週次 | 11 | 2026-10-29 | 2026-11-10 | 2026-11-11 | MIT |
+| [system-design-skill](entries/coding-agent/codejunkie99-system-design-skill.md) ⚑ | 9 | 1 | 月次 | 1 | 2026-11-01 | 2026-11-10 | 2026-11-11 | MIT |
+| [GDG Agent Skillsの実演教材](entries/coding-agent/gdg-oau-agent-skills-gdg.md) ⚑ | 1 | 0 | 週次 | 13 | 2026-11-07 | 2026-11-10 | 2026-11-10 | unknown |
+| [JobFit](entries/coding-agent/du8866-nice-jobfit.md) ⚑ | 1 | 0 | 週次 | 7 | 2026-10-29 | 2026-11-12 | 2026-11-12 | MIT |
+| [Berth](entries/coding-agent/maxzyma-berth.md) ⚑ | 0 | 0 | 毎日 | 100+ | 2026-11-11 | 2026-11-12 | 2026-11-12 | MIT |
+| [Leash](entries/coding-agent/cmaintz-leash.md) ⚑ | 0 | 0 | 毎日 | 21 | 2026-11-06 | 2026-11-10 | 2026-11-11 | MIT |
 
 ### 動画生成パイプライン（95）
 
@@ -107,105 +207,6 @@
 | [Luo-Yihong/VA-TDM](entries/video-gen/luo-yihong-va-tdm.md) ⚑ | 25 | 2 | 月次 | 1 | 2026-11-04 | 2026-11-09 | 2026-11-10 | unknown |
 | [utillayer/youtube-agent-skill](entries/video-gen/utillayer-youtube-agent-skill.md) ⚑ | 14 | 2 | 週次 | 16 | 2026-10-29 | 2026-11-09 | 2026-11-10 | MIT |
 | [BennyDaBall930/comfyui_hyperflow_int8_nodes](entries/video-gen/bennydaball930-comfyui_hyperflow_int8_nodes.md) ⚑ | 3 | 0 | 週次 | 10 | 2026-11-09 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
-
-### コーディングエージェント（94）
-
-| 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
-|---|---:|---:|---|---:|---|---|---|---|
-| [Karpathy Guidelines（karpathy-guidelines スキル）](entries/coding-agent/multica-ai-andrej-karpathy-skills.md) ⚑ | 231,320 | 22,999 | 停滞 | 0 | 2026-04-20 | 2026-11-09 | 2026-11-10 | unknown |
-| [Claude Code](entries/coding-agent/anthropics-claude-code.md) ⚑ | 155,135 | 24,886 | 毎日 | 54 | 2026-11-10 | 2026-11-10 | 2026-11-10 | unknown |
-| [Spec Kit](entries/coding-agent/github-spec-kit.md) ⚑ | 149,097 | 13,388 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | MIT |
-| [UI UX Pro Max](entries/coding-agent/nextlevelbuilder-ui-ux-pro-max-skill.md) ⚑ | 147,531 | 15,608 | 毎日 | 21 | 2026-11-07 | 2026-11-10 | 2026-11-10 | MIT |
-| [Next.js](entries/coding-agent/vercel-next.js.md) ⚑ | 143,475 | 32,801 | 毎日 | 100+ | 2026-11-11 | 2026-11-11 | 2026-11-11 | MIT |
-| [Orca](entries/coding-agent/stablyai-orca.md) ⚑ | 120,836 | 7,653 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | MIT |
-| [Caveman](entries/coding-agent/juliusbrussee-caveman.md) ⚑ | 118,623 | 6,907 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [Agent Skills](entries/coding-agent/addyosmani-agent-skills.md) ⚑ | 114,537 | 11,972 | 毎日 | 100+ | 2026-11-01 | 2026-11-09 | 2026-11-10 | MIT |
-| [OpenDesign](entries/coding-agent/nexu-io-open-design.md) ⚑ | 106,979 | 12,169 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-11 | Apache-2.0 |
-| [Playwright](entries/coding-agent/microsoft-playwright.md) ⚑ | 99,952 | 6,855 | 毎日 | 100+ | 2026-11-12 | 2026-11-12 | 2026-11-12 | Apache-2.0 |
-| [autoresearch](entries/coding-agent/karpathy-autoresearch.md) ⚑ | 99,728 | 13,741 | 停滞 | 0 | 2026-03-26 | 2026-11-10 | 2026-11-10 | unknown |
-| [Archify](entries/coding-agent/tt-a1i-archify.md) ⚑ | 95,261 | 6,499 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | Apache-2.0 |
-| [CodeGraph](entries/coding-agent/colbymchenry-codegraph.md) | 77,198 | 5,141 | 毎日 | 100+ | 2026-11-01 | 2026-11-09 | 2026-11-10 | MIT |
-| [Open Interpreter](entries/coding-agent/openinterpreter-openinterpreter.md) ⚑ | 68,864 | 5,943 | 週次 | 11 | 2026-11-11 | 2026-11-11 | 2026-11-11 | Apache-2.0 |
-| [Skills for Designers and Engineers](entries/coding-agent/emilkowalski-skills.md) ⚑ | 55,592 | 3,238 | 週次 | 8 | 2026-11-09 | 2026-11-10 | 2026-11-10 | MIT |
-| [Obsidian Skills](entries/coding-agent/kepano-obsidian-skills.md) ⚑ | 51,458 | 3,639 | 月次 | 0 | 2026-09-15 | 2026-11-10 | 2026-11-10 | MIT |
-| [herdr](entries/coding-agent/herdrdev-herdr.md) ⚑ | 49,753 | 4,017 | 毎日 | 49 | 2026-11-07 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [wshobson/agents](entries/coding-agent/wshobson-agents.md) ⚑ | 42,378 | 4,476 | 毎日 | 34 | 2026-11-09 | 2026-11-10 | 2026-11-10 | MIT |
-| [Codewhale](entries/coding-agent/codewhale-hq-codewhale.md) ⚑ | 41,173 | 3,569 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | MIT |
-| [oh-my-pi](entries/coding-agent/can1357-oh-my-pi.md) ⚑ | 38,506 | 4,380 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | MIT |
-| [Claude Code Game Studios](entries/coding-agent/donchitos-claude-code-game-studios.md) ⚑ | 37,789 | 4,949 | 月次 | 2 | 2026-11-09 | 2026-11-10 | 2026-11-10 | MIT |
-| [Awesome Agent Skills](entries/coding-agent/voltagent-awesome-agent-skills.md) ⚑ | 37,027 | 4,103 | 毎日 | 100+ | 2026-11-05 | 2026-11-10 | 2026-11-10 | MIT |
-| [Vercel Agent Skills](entries/coding-agent/vercel-labs-agent-skills.md) ⚑ | 33,817 | 2,956 | 週次 | 5 | 2026-10-28 | 2026-11-10 | 2026-11-10 | unknown |
-| [claude-code-templates](entries/coding-agent/davila7-claude-code-templates.md) ⚑ | 33,241 | 3,901 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
-| [AGENTS.md](entries/coding-agent/agentsmd-agents.md.md) ⚑ | 25,417 | 1,950 | 月次 | 0 | 2026-09-10 | 2026-11-10 | 2026-11-10 | MIT |
-| [Craft Anything](entries/coding-agent/storytold-craft-anything.md) | 24,308 | 4,863 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [jcode](entries/coding-agent/1jehuang-jcode.md) | 21,641 | 2,517 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
-| [meta/astryx](entries/coding-agent/meta-astryx.md) ⚑ | 19,713 | 1,502 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
-| [GSAP AI Skills](entries/coding-agent/greensock-gsap-skills.md) ⚑ | 18,218 | 1,148 | 停滞 | 0 | 2026-07-29 | 2026-11-10 | 2026-11-11 | MIT |
-| [pstack（Lauren Tan / poteto）](entries/coding-agent/cursor-plugins.md) ⚑ | 15,853 | 1,657 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
-| [Garden Skills](entries/coding-agent/conardli-garden-skills.md) ⚑ | 14,851 | 1,710 | 週次 | 11 | 2026-11-08 | 2026-11-10 | 2026-11-10 | MIT |
-| [Agent Orchestrator](entries/coding-agent/orchestratorinc-agent-orchestrator.md) ⚑ | 14,373 | 1,955 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | Apache-2.0 |
-| [UI Skills](entries/coding-agent/ibelick-ui-skills.md) ⚑ | 10,912 | 521 | 毎日 | 85 | 2026-11-07 | 2026-11-10 | 2026-11-10 | MIT |
-| [improve](entries/coding-agent/shadcn-improve.md) ⚑ | 10,241 | 425 | 停滞 | 0 | 2026-09-12 | 2026-11-10 | 2026-11-11 | MIT |
-| [fast-jev-compaction](entries/coding-agent/tamaratran-fast-jev-compaction.md) ⚑ | 7,933 | 581 | 月次 | 0 | 2026-09-18 | 2026-11-09 | 2026-11-10 | MIT |
-| [ZSeven-W/openpencil](entries/coding-agent/zseven-w-openpencil.md) ⚑ | 7,172 | 625 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
-| [Coucou](entries/coding-agent/louis-cfm-coucou.md) ⚑ | 7,102 | 1,166 | 毎日 | 100+ | 2026-11-06 | 2026-11-10 | 2026-11-10 | MIT |
-| [billion-context](entries/coding-agent/ranxianglei-billion-context.md) ⚑ | 5,714 | 433 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | NOASSERTION |
-| [TokenEconomizer](entries/coding-agent/microsoft-tokeneconomizer.md) ⚑ | 5,576 | 345 | 毎日 | 100+ | 2026-11-08 | 2026-11-10 | 2026-11-10 | Apache-2.0 |
-| [Obsidian Mind](entries/coding-agent/breferrari-obsidian-mind.md) ⚑ | 5,525 | 610 | 毎日 | 36 | 2026-10-17 | 2026-11-10 | 2026-11-10 | MIT |
-| [obsidian-second-brain](entries/coding-agent/eugeniughelbur-obsidian-second-brain.md) ⚑ | 5,252 | 643 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | MIT |
-| [chinese-novelist skill](entries/coding-agent/penglonghuang-chinese-novelist-skill.md) ⚑ | 4,766 | 646 | 毎日 | 21 | 2026-11-01 | 2026-11-11 | 2026-11-11 | MIT |
-| [obsidianmd/obsidian-sample-plugin](entries/coding-agent/obsidianmd-obsidian-sample-plugin.md) ⚑ | 4,672 | 1,810 | 停滞 | 0 | 2026-08-02 | 2026-11-09 | 2026-11-10 | 0BSD |
-| [pstack-claude](entries/coding-agent/michael-denyer-pstack-claude.md) ⚑ | 4,178 | 381 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
-| [Three.js Skills for Claude Code](entries/coding-agent/cloudai-x-threejs-skills.md) ⚑ | 4,148 | 477 | 毎日 | 20 | 2026-10-19 | 2026-11-12 | 2026-11-12 | MIT |
-| [Scenario Agent Skills](entries/coding-agent/scenario-labs-skills.md) ⚑ | 3,658 | 321 | 毎日 | 100+ | 2026-11-10 | 2026-11-11 | 2026-11-11 | MIT |
-| [tstack](entries/coding-agent/t3dotgg-tstack.md) ⚑ | 3,411 | 258 | 週次 | 5 | 2026-10-28 | 2026-11-10 | 2026-11-10 | MIT |
-| [Beacon](entries/coding-agent/asymptote-labs-agent-beacon.md) ⚑ | 3,410 | 302 | 毎日 | 100+ | 2026-11-09 | 2026-11-10 | 2026-11-10 | MIT |
-| [oh-my-mermaid（omm）](entries/coding-agent/oh-my-mermaid-oh-my-mermaid.md) | 3,389 | 267 | 停滞 | 0 | 2026-04-07 | 2026-11-09 | 2026-11-10 | MIT |
-| [nanoMuse — 自分のデバイスで動くオープンソースパーソナルエージェント](entries/coding-agent/nano-muse-nanomuse.md) ⚑ | 3,358 | 402 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
-| [Jevgrep](entries/coding-agent/dzhng-jevgrep.md) ⚑ | 3,205 | 245 | 毎日 | 71 | 2026-11-08 | 2026-11-10 | 2026-11-11 | MIT |
-| [Oil UI](entries/coding-agent/oil-oil-oil-ui.md) ⚑ | 3,102 | 177 | 毎日 | 52 | 2026-11-10 | 2026-11-10 | 2026-11-11 | MIT |
-| [yomiyasu（よみやす）](entries/coding-agent/nanaism-yomiyasu.md) ⚑ | 2,975 | 78 | 毎日 | 26 | 2026-11-10 | 2026-11-11 | 2026-11-11 | MIT |
-| [DS Harness Remote](entries/coding-agent/liguobao-ds-harness-remote.md) ⚑ | 2,667 | 198 | 毎日 | 100+ | 2026-11-12 | 2026-11-12 | 2026-11-12 | MIT |
-| [Better Harness](entries/coding-agent/qoderai-better-harness.md) ⚑ | 2,444 | 204 | 週次 | 12 | 2026-11-07 | 2026-11-10 | 2026-11-10 | MIT |
-| [ppmpreetham/BUI](entries/coding-agent/ppmpreetham-bui.md) ⚑ | 2,363 | 95 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
-| [reacher-z/Awesome-REA](entries/coding-agent/reacher-z-awesome-rea.md) ⚑ | 2,312 | 421 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
-| [MotionSites Web Builder](entries/coding-agent/motionsites-ai-claude-skill.md) ⚑ | 1,935 | 198 | 月次 | 2 | 2026-10-26 | 2026-11-10 | 2026-11-10 | unknown |
-| [reanimate](entries/coding-agent/niazmorshed2007-reanimate.md) ⚑ | 1,557 | 136 | 毎日 | 20 | 2026-10-31 | 2026-11-11 | 2026-11-11 | MIT |
-| [PHP Version Checker](entries/coding-agent/openai-php2shell-checker.md) ⚑ | 1,468 | 147 | 週次 | 8 | 2026-10-22 | 2026-11-10 | 2026-11-10 | Apache-2.0 |
-| [EvoSkill](entries/coding-agent/sentient-agi-evoskill.md) ⚑ | 1,298 | 134 | 停滞 | 0 | 2026-10-26 | 2026-11-12 | 2026-11-12 | Apache-2.0 |
-| [Claude Code Frontend Design Toolkit](entries/coding-agent/wilwaldon-claude-code-frontend-design-toolkit.md) ⚑ | 1,292 | 138 | 停滞 | 0 | 2026-04-11 | 2026-11-10 | 2026-11-10 | unknown |
-| [Claude Remotion Skill](entries/coding-agent/haidrrrry-claude-remotion-skill.md) ⚑ | 960 | 131 | 停滞 | 0 | 2026-08-12 | 2026-11-12 | 2026-11-12 | MIT |
-| [Second Brain Starter](entries/coding-agent/coleam00-second-brain-starter.md) ⚑ | 885 | 188 | 停滞 | 0 | 2026-06-09 | 2026-11-10 | 2026-11-10 | unknown |
-| [claude-motion-design](entries/coding-agent/howseen-ai-claude-motion-design.md) ⚑ | 811 | 105 | 月次 | 0 | 2026-10-04 | 2026-11-12 | 2026-11-12 | MIT |
-| [Second Brain](entries/coding-agent/nicholasspisak-second-brain.md) ⚑ | 775 | 116 | 停滞 | 0 | 2026-04-07 | 2026-11-10 | 2026-11-11 | unknown |
-| [Common Skills](entries/coding-agent/warpdotdev-common-skills.md) ⚑ | 686 | 44 | 月次 | 2 | 2026-10-28 | 2026-11-10 | 2026-11-10 | MIT |
-| [Motion Graphics Skill Pack](entries/coding-agent/charlie947-motion-graphics-skills.md) ⚑ | 648 | 86 | 月次 | 0 | 2026-10-11 | 2026-11-12 | 2026-11-12 | MIT |
-| [min-skill](entries/coding-agent/limin112-min-skill.md) ⚑ | 630 | 94 | 週次 | 14 | 2026-11-05 | 2026-11-11 | 2026-11-11 | unknown |
-| [Machine Skill](entries/coding-agent/airsuphq-machine-skill.md) ⚑ | 625 | 83 | 週次 | 8 | 2026-10-13 | 2026-11-10 | 2026-11-11 | MIT |
-| [Product Engineering](entries/coding-agent/phuryn-product-engineering.md) ⚑ | 455 | 59 | 毎日 | 100+ | 2026-11-08 | 2026-11-10 | 2026-11-11 | MIT |
-| [OnlyShot](entries/coding-agent/a-cat-with-carrots-onlyshot.md) ⚑ | 408 | 43 | 週次 | 11 | 2026-11-12 | 2026-11-12 | 2026-11-12 | MIT |
-| [Video Studio Skill](entries/coding-agent/aaitor-skill-video-studio.md) ⚑ | 390 | 13 | 週次 | 8 | 2026-11-04 | 2026-11-10 | 2026-11-11 | MIT |
-| [Agent HUD](entries/coding-agent/jazzenchen-agent-hud-open.md) ⚑ | 326 | 54 | 毎日 | 100+ | 2026-11-10 | 2026-11-11 | 2026-11-11 | Apache-2.0 |
-| [xAI Plugin Marketplace](entries/coding-agent/xai-org-plugin-marketplace.md) ⚑ | 325 | 1,222 | 毎日 | 31 | 2026-11-09 | 2026-11-10 | 2026-11-10 | unknown |
-| [Motion.dev Animations Skill](entries/coding-agent/199-biotechnologies-motion-dev-animations-skill.md) ⚑ | 231 | 36 | 停滞 | 0 | 2026-03-30 | 2026-11-12 | 2026-11-12 | MIT |
-| [AI Second Brain](entries/coding-agent/charlie947-ai-second-brain.md) ⚑ | 229 | 45 | 月次 | 1 | 2026-10-24 | 2026-11-10 | 2026-11-11 | MIT |
-| [Motion Design Skills](entries/coding-agent/iart-ai-motion-design-skills.md) ⚑ | 226 | 36 | 月次 | 1 | 2026-11-11 | 2026-11-12 | 2026-11-12 | MIT |
-| [open-source-hands](entries/coding-agent/abouchedidxcode-open-source-hands.md) ⚑ | 205 | 30 | 月次 | 2 | 2026-11-03 | 2026-11-11 | 2026-11-11 | MIT |
-| [Dual-Brain — 設計とコードの二視点レビュー用スキル](entries/coding-agent/sleeplesshan-dual-brain.md) ⚑ | 143 | 11 | 週次 | 6 | 2026-11-06 | 2026-11-09 | 2026-11-10 | MIT |
-| [quicksilver](entries/coding-agent/uditakhourii-quicksilver.md) ⚑ | 142 | 11 | 停滞 | 0 | 2026-09-25 | 2026-11-09 | 2026-11-10 | MIT |
-| [Awesome Motion Design Agent Skills](entries/coding-agent/frankxai-awesome-motion-design-agent-skills.md) ⚑ | 106 | 37 | 週次 | 10 | 2026-11-09 | 2026-11-12 | 2026-11-12 | CC0-1.0 |
-| [Xing4.0-29B-A4B](entries/coding-agent/xingchen-agi-xing4.0-29b-a4b.md) ⚑ | 106 | 10 | 週次 | 7 | 2026-11-10 | 2026-11-12 | 2026-11-12 | Apache-2.0 |
-| [Klik Motion-Graphics System](entries/coding-agent/t3knobox-klik-anim-skill-creation.md) ⚑ | 96 | 19 | 停滞 | 0 | 2026-08-06 | 2026-11-12 | 2026-11-12 | unknown |
-| [jev-code](entries/coding-agent/francoischastel-jev-code.md) ⚑ | 59 | 9 | 月次 | 0 | 2026-10-31 | 2026-11-11 | 2026-11-11 | MIT |
-| [Flow Preview](entries/coding-agent/tanishqkancharla-flow-preview.md) ⚑ | 37 | 3 | 週次 | 13 | 2026-11-06 | 2026-11-10 | 2026-11-11 | Apache-2.0 |
-| [Jev Cookbook](entries/coding-agent/jev-engineering-cookbook.md) ⚑ | 30 | 5 | 毎日 | 73 | 2026-11-10 | 2026-11-11 | 2026-11-11 | MIT |
-| [Teddarific/skills](entries/coding-agent/teddarific-skills.md) ⚑ | 18 | 1 | 月次 | 3 | 2026-10-14 | 2026-11-10 | 2026-11-11 | unknown |
-| [davekiss/mods（leaks）](entries/coding-agent/davekiss-mods.md) ⚑ | 12 | 1 | 週次 | 11 | 2026-10-29 | 2026-11-10 | 2026-11-11 | MIT |
-| [system-design-skill](entries/coding-agent/codejunkie99-system-design-skill.md) ⚑ | 9 | 1 | 月次 | 1 | 2026-11-01 | 2026-11-10 | 2026-11-11 | MIT |
-| [GDG Agent Skillsの実演教材](entries/coding-agent/gdg-oau-agent-skills-gdg.md) ⚑ | 1 | 0 | 週次 | 13 | 2026-11-07 | 2026-11-10 | 2026-11-10 | unknown |
-| [JobFit](entries/coding-agent/du8866-nice-jobfit.md) ⚑ | 1 | 0 | 週次 | 7 | 2026-10-29 | 2026-11-12 | 2026-11-12 | MIT |
-| [Berth](entries/coding-agent/maxzyma-berth.md) ⚑ | 0 | 0 | 毎日 | 100+ | 2026-11-11 | 2026-11-12 | 2026-11-12 | MIT |
-| [Leash](entries/coding-agent/cmaintz-leash.md) ⚑ | 0 | 0 | 毎日 | 21 | 2026-11-06 | 2026-11-10 | 2026-11-11 | MIT |
 
 ### エージェント基盤・スキル集（92）
 
@@ -1615,6 +1616,7 @@
 - [Playwright](entries/coding-agent/microsoft-playwright.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [autoresearch](entries/coding-agent/karpathy-autoresearch.md) — unverified / 独立実行による改善幅、試行回数、H100以外での動作、GPU・エージェントの利用料金は未確認。READMEはMITと記載しているが、親のGitHub API測定値はunknown。学習データの利用条件は未確認。 GitHub APIでライセンスを確認できていません。
 - [Archify](entries/coding-agent/tt-a1i-archify.md) — unverified / 生成された図の正確性や可読性、各エージェントでの導入と書き出しの動作は独立に検証していない。GitHubの公開ページで最新版タグを確認したが、完全な公開日時は未確認。
+- [Awesome Claude Skills](entries/coding-agent/composiohq-awesome-claude-skills.md) — unverified / ライセンスはGitHub APIの取得値がunknownです。READMEのバッジはApache 2.0を示していますが、ライセンス条件は確定できません。 GitHub APIでライセンスを確認できていません。
 - [Open Interpreter](entries/coding-agent/openinterpreter-openinterpreter.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Skills for Designers and Engineers](entries/coding-agent/emilkowalski-skills.md) — unverified / 公開文書を確認した。インストールと呼び出しの動作、対応バージョン、導入による品質・性能の改善、エージェント側の料金は未確認。発見投稿のダッシュボードは技術的根拠に含めていない。READMEは公開raw URLで確認した。
 - [Obsidian Skills](entries/coding-agent/kepano-obsidian-skills.md) — unverified / 理由未記入

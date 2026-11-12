@@ -1,5 +1,5 @@
 {
-  "count": 955,
+  "count": 956,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -8586,6 +8586,37 @@
       "fetched_at": "2026-11-10T12:02:00Z",
       "path": "entries/coding-agent/tt-a1i-archify.md",
       "summary": "自然文から、ノードを選んで経路をたどれるHTMLの構成図を生成する。手元にコードがない設計案から始め、会話で認証の追加や経路の強調を指示できる。 [公式README](https://raw.githubusercontent.com/tt-a1i/archify/main/README.md)"
+    },
+    {
+      "name": "Awesome Claude Skills",
+      "genre": "coding-agent",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "repo": "ComposioHQ/awesome-claude-skills",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "ライセンスはGitHub APIの取得値がunknownです。READMEのバッジはApache 2.0を示していますが、ライセンス条件は確定できません。 GitHub APIでライセンスを確認できていません。",
+      "stars": 79332,
+      "forks": 9677,
+      "open_issues": 1892,
+      "size_kb": 3663,
+      "language": "Python",
+      "created": "2025-10-17",
+      "updated": "2026-09-18",
+      "archived": false,
+      "license": "unknown",
+      "commits_30d": 0,
+      "commits_90d": 0,
+      "commit_cadence": "stale",
+      "type": "repo",
+      "added": "2026-11-12",
+      "first_seen": "2026-11-12",
+      "sources": [
+        "https://x.com/rvaniaaaa/status/2120861156801647094"
+      ],
+      "fetched_at": "2026-11-12T15:08:48.265426+00:00",
+      "path": "entries/coding-agent/composiohq-awesome-claude-skills.md",
+      "summary": "READMEは、Claude.ai、Claude Code、Codex、Cursor、Gemini CLIなどで使うClaude Skillsやプラグインの一覧を提供すると説明しています。Skillは特定のタスク向けの再利用可能な指示パッケージとして紹介されています。出典: https://github.com/Com"
     },
     {
       "repo": "colbymchenry/codegraph",
