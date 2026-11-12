@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 932 件 — リポジトリ 608, リンク集 116, 記事 141, モデル 53, プロンプト 14 / ⚑ 要確認 719 件
+収録 933 件 — リポジトリ 609, リンク集 116, 記事 141, モデル 53, プロンプト 14 / ⚑ 要確認 720 件
 
-## リポジトリ（608）
+## リポジトリ（609）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -200,7 +200,7 @@
 | [utillayer/youtube-agent-skill](entries/video-gen/utillayer-youtube-agent-skill.md) ⚑ | 14 | 2 | 週次 | 16 | 2026-10-29 | 2026-11-09 | 2026-11-10 | MIT |
 | [BennyDaBall930/comfyui_hyperflow_int8_nodes](entries/video-gen/bennydaball930-comfyui_hyperflow_int8_nodes.md) ⚑ | 3 | 0 | 週次 | 10 | 2026-11-09 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
 
-### コーディングエージェント（85）
+### コーディングエージェント（86）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -275,6 +275,7 @@
 | [Agent HUD](entries/coding-agent/jazzenchen-agent-hud-open.md) ⚑ | 326 | 54 | 毎日 | 100+ | 2026-11-10 | 2026-11-11 | 2026-11-11 | Apache-2.0 |
 | [xAI Plugin Marketplace](entries/coding-agent/xai-org-plugin-marketplace.md) ⚑ | 325 | 1,222 | 毎日 | 31 | 2026-11-09 | 2026-11-10 | 2026-11-10 | unknown |
 | [AI Second Brain](entries/coding-agent/charlie947-ai-second-brain.md) ⚑ | 229 | 45 | 月次 | 1 | 2026-10-24 | 2026-11-10 | 2026-11-11 | MIT |
+| [Motion Design Skills](entries/coding-agent/iart-ai-motion-design-skills.md) ⚑ | 226 | 36 | 月次 | 1 | 2026-11-11 | 2026-11-12 | 2026-11-12 | MIT |
 | [open-source-hands](entries/coding-agent/abouchedidxcode-open-source-hands.md) ⚑ | 205 | 30 | 月次 | 2 | 2026-11-03 | 2026-11-11 | 2026-11-11 | MIT |
 | [Dual-Brain — 設計とコードの二視点レビュー用スキル](entries/coding-agent/sleeplesshan-dual-brain.md) ⚑ | 143 | 11 | 週次 | 6 | 2026-11-06 | 2026-11-09 | 2026-11-10 | MIT |
 | [quicksilver](entries/coding-agent/uditakhourii-quicksilver.md) ⚑ | 142 | 11 | 停滞 | 0 | 2026-09-25 | 2026-11-09 | 2026-11-10 | MIT |
@@ -1644,6 +1645,7 @@
 - [Agent HUD](entries/coding-agent/jazzenchen-agent-hud-open.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [xAI Plugin Marketplace](entries/coding-agent/xai-org-plugin-marketplace.md) — unverified / ['最新リリースのタグと公開日は未確認。プラグインの導入・実行、個別機能の有効性や安全性、料金、ライセンスおよび利用条件は未検証。README は公開 raw URL で確認した。'] GitHub APIでライセンスを確認できていません。
 - [AI Second Brain](entries/coding-agent/charlie947-ai-second-brain.md) — unverified / README記載の機能・動作条件は独立検証していない。ChatGPTのエクスポートには1〜3日の待ち時間がかかる場合があると記載。
+- [Motion Design Skills](entries/coding-agent/iart-ai-motion-design-skills.md) — unverified / 個々のスキルの依存関係や必要な実行環境はREADMEに記載されていません。
 - [open-source-hands](entries/coding-agent/abouchedidxcode-open-source-hands.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Dual-Brain — 設計とコードの二視点レビュー用スキル](entries/coding-agent/sleeplesshan-dual-brain.md) — unverified / MIT。投稿のMS関連社内ハッカソンでAI審査員から満点という説明は作者の自己申告で、公式採点記録・Microsoftの推薦や認証を確認したものではない。READMEは旧5事例ベンチの比較条件・トークン二重計上に問題があり旧総数を撤回と明記。普遍的な性能改善や低遅延は保証しない。 当方でインストール・動作・性能の実行検証はしていない。
 - [quicksilver](entries/coding-agent/uditakhourii-quicksilver.md) — unverified / 効果数値は作者自身の12タスク・ベンチマーク（bench/）による自己申告で、第三者による追試や自動テストは無い。bench の再実行には有料の Jev API キーが必要。対象ファイル/ログの内容は TypeSafe の API（api.typesafe.ai）へ送信されるため機密情報には使えない（.env・鍵・証明書・credentials、2MB 超、バイナリはスキップし .gitignore を尊重すると README に記載）。2026-09-25 の初回コミット2件以降の更新が無く、メンテ状況は不明。
