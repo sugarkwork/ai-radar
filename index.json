@@ -1,5 +1,5 @@
 {
-  "count": 965,
+  "count": 966,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -6905,6 +6905,22 @@
       ],
       "fetched_at": "2026-11-10T18:09:22Z",
       "path": "articles/2026-11-04-author-almost-no-one-uses-ai-agents-to-book-their-uber-company-says.md"
+    },
+    {
+      "name": "Asia stocks crumble after AI rout hits US markets",
+      "genre": "article",
+      "url": "https://www.straitstimes.com/business/asia-stocks-crumble-after-ai-rout-rocks-us-markets",
+      "published": "2026-11-06 09:52 AM (SGT)",
+      "flags": [],
+      "type": "article",
+      "added": "2026-11-12",
+      "first_seen": "2026-11-12",
+      "risk_notes": "",
+      "sources": [
+        "https://x.com/neuronxwhite/status/2118588788566032786"
+      ],
+      "fetched_at": "2026-11-12T20:14:34Z",
+      "path": "articles/2026-11-06-author-asia-stocks-crumble-after-ai-rout-hits-us-markets.md"
     },
     {
       "name": "Axion 1.0: Open Agent Foundation Models, Simplified",
