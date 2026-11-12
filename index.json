@@ -1,5 +1,5 @@
 {
-  "count": 933,
+  "count": 934,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -10587,6 +10587,37 @@
       "last_release_at": "",
       "path": "entries/coding-agent/uditakhourii-quicksilver.md",
       "summary": "リポジトリ全体や大量ファイルに「このファイルは認証まわりを実装しているか」等の yes/no 判定を一括実行し、該当ファイルだけを確信度付きで返す（qs filter）。"
+    },
+    {
+      "name": "Awesome Motion Design Agent Skills",
+      "genre": "coding-agent",
+      "url": "https://github.com/frankxai/awesome-motion-design-agent-skills",
+      "repo": "frankxai/awesome-motion-design-agent-skills",
+      "license": "CC0-1.0",
+      "stars": 106,
+      "language": "Python",
+      "created": "2026-06-18",
+      "updated": "2026-11-09",
+      "forks": 37,
+      "open_issues": 8,
+      "commits_30d": 10,
+      "commit_cadence": "weekly",
+      "commits_90d": 20,
+      "size_kb": 4283,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景・有効性・依存関係・実行条件。",
+      "type": "repo",
+      "added": "2026-11-12",
+      "first_seen": "2026-11-12",
+      "sources": [
+        "https://x.com/PromptLabCN/status/2120750742785171596"
+      ],
+      "fetched_at": "2026-11-12T06:17:02.356833+00:00",
+      "path": "entries/coding-agent/frankxai-awesome-motion-design-agent-skills.md",
+      "summary": "READMEによると、モーションデザイン、シネマティックなサイト演出、Remotionによる動画制作、生成メディアのルーティングと仕上げ、レビュー・キャプチャ・モーションQA向けの5つのSKILL.mdワークフローを提供します。GSAP、Motion、Remotion、Rive、Lottie、3Dツールのカタログも含み"
     },
     {
       "name": "Klik Motion-Graphics System",
