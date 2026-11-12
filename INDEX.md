@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 916 件 — リポジトリ 594, リンク集 115, 記事 140, モデル 53, プロンプト 14 / ⚑ 要確認 704 件
+収録 917 件 — リポジトリ 595, リンク集 115, 記事 140, モデル 53, プロンプト 14 / ⚑ 要確認 705 件
 
-## リポジトリ（594）
+## リポジトリ（595）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -657,6 +657,15 @@
 | [kodasdream/gamefeel-benchmark](entries/eval/kodasdream-gamefeel-benchmark.md) ⚑ | 13 | 0 | 週次 | 17 | 2026-11-09 | 2026-11-09 | 2026-11-10 | unknown |
 | [JevLight](entries/eval/usail-hkust-jevlight.md) ⚑ | 11 | 2 | 週次 | 10 | 2026-11-06 | 2026-11-10 | 2026-11-11 | unknown |
 
+### リンク（素材・アイコン・3D）（4）
+
+| 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
+|---|---:|---:|---|---:|---|---|---|---|
+| [Awesome-Selfhosted](entries/link-asset/awesome-selfhosted-awesome-selfhosted.md) ⚑ | 336,158 | 15,811 | 週次 | 19 | 2026-11-07 | 2026-11-12 | 2026-11-12 | unknown |
+| [lucas-martinic/polyfork-catalog](entries/link-asset/lucas-martinic-polyfork-catalog.md) ⚑ | 499 | 61 | 週次 | 8 | 2026-11-09 | 2026-11-09 | 2026-11-10 | NOASSERTION |
+| [Shisei](entries/link-asset/wquguru-shisei.md) ⚑ | 478 | 102 | 毎日 | 100+ | 2026-11-02 | 2026-11-10 | 2026-11-10 | Apache-2.0 |
+| [idlerunner00/procedural-pixel-creatures](entries/link-asset/idlerunner00-procedural-pixel-creatures.md) ⚑ | 262 | 31 | 月次 | 0 | 2026-10-05 | 2026-11-09 | 2026-11-10 | MIT |
+
 ### agent（3）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
@@ -664,14 +673,6 @@
 | [agent-browser](entries/agent/vercel-labs-agent-browser.md) ⚑ | 48,395 | 3,296 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
 | [niubigeo](entries/agent/albert-weasker-niubigeo.md) ⚑ | 10,180 | 822 | 週次 | 12 | 2026-11-03 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
 | [ontosmith](entries/agent/dongbumlee-ontosmith.md) ⚑ | 259 | 26 | 毎日 | 100+ | 2026-11-08 | 2026-11-09 | 2026-11-10 | MIT |
-
-### リンク（素材・アイコン・3D）（3）
-
-| 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
-|---|---:|---:|---|---:|---|---|---|---|
-| [lucas-martinic/polyfork-catalog](entries/link-asset/lucas-martinic-polyfork-catalog.md) ⚑ | 499 | 61 | 週次 | 8 | 2026-11-09 | 2026-11-09 | 2026-11-10 | NOASSERTION |
-| [Shisei](entries/link-asset/wquguru-shisei.md) ⚑ | 478 | 102 | 毎日 | 100+ | 2026-11-02 | 2026-11-10 | 2026-11-10 | Apache-2.0 |
-| [idlerunner00/procedural-pixel-creatures](entries/link-asset/idlerunner00-procedural-pixel-creatures.md) ⚑ | 262 | 31 | 月次 | 0 | 2026-10-05 | 2026-11-09 | 2026-11-10 | MIT |
 
 ### image-generation（1）
 
@@ -1705,6 +1706,7 @@
 - [Glada's MOSS Image Workflow v2](articles/image-generation/gladas-moss-image-workflow-v2.md) — unverified / リプライでの紹介のみ。ComfyUIワークフロー。当方で動作検証はしていない。
 - [Juggernaut Moss V1](models/image-generation/juggernaut-moss-v1.md) — unverified / 当方で生成・品質検証はしていない。V1のため手・細部文字・群衆・一部アートスタイルに課題。投稿者のブラインドテスト結果（勝率73%）を記載。
 - [Z-Image-Turbo：低VRAM向けComfyUI制作記事](articles/image-generation/2026-11-09-zzuurn-z-image-low-vram.md) — unverified / 18+ / NSFW。成人向け表現を扱う。VRAM・速度・長時間安定性は記事の主張で、当方では未検証。公式モデルは16GB環境への適合を説明しており、8GB動作は量子化・オフロードや環境に左右される。モデルや追加素材の条件は個別確認。
+- [Awesome-Selfhosted](entries/link-asset/awesome-selfhosted-awesome-selfhosted.md) — unverified / README describes the list as Free Software, with non-free software listed separately. Repository license is unknown in the supplied measured data; individual entries have their own listed licenses and deployment technologies. GitHub APIでライセンスを確認できていません。
 - [lucas-martinic/polyfork-catalog](entries/link-asset/lucas-martinic-polyfork-catalog.md) — unverified / LICENSE.mdはindexのみ。各メッシュやmjsを同条件で再配布できない。投稿の2791件は原チェック時3077件より古い。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Shisei](entries/link-asset/wquguru-shisei.md) — unverified / 線画と各マップの画素整合、生成結果の一貫性、ControlNetのモデル別互換性、ZIPの中身とチェックサムは独立検証していない。リリースタグは確認済みで、公開日時は未確認。
 - [idlerunner00/procedural-pixel-creatures](entries/link-asset/idlerunner00-procedural-pixel-creatures.md) — unverified / AI画像を生成するモデルではなく手続き型生成。95%が一プロンプト由来という制作比率は作者推定。原チェック時30日commit0で実機未確認。 当方でインストール・推論・生成・ベンチ再現はしていない。

@@ -1,5 +1,5 @@
 {
-  "count": 916,
+  "count": 917,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -13702,6 +13702,37 @@
         "https://docs.comfy.org/tutorials/image/z-image/z-image-turbo"
       ],
       "path": "articles/image-generation/2026-11-09-zzuurn-z-image-low-vram.md"
+    },
+    {
+      "name": "Awesome-Selfhosted",
+      "genre": "link-asset",
+      "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+      "repo": "awesome-selfhosted/awesome-selfhosted",
+      "license": "unknown",
+      "stars": 336158,
+      "language": "unknown",
+      "created": "2015-06-01",
+      "updated": "2026-11-07",
+      "forks": 15811,
+      "open_issues": 0,
+      "commits_30d": 19,
+      "commit_cadence": "weekly",
+      "commits_90d": 79,
+      "size_kb": 17409,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "README describes the list as Free Software, with non-free software listed separately. Repository license is unknown in the supplied measured data; individual entries have their own listed licenses and deployment technologies. GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-12",
+      "first_seen": "2026-11-12",
+      "sources": [
+        "https://x.com/awe0_io/status/2118384339348324428"
+      ],
+      "fetched_at": "2026-11-12T00:07:30.970116+00:00",
+      "path": "entries/link-asset/awesome-selfhosted-awesome-selfhosted.md",
+      "summary": "自分のサーバーでホストできるフリーソフトウェアのネットワークサービスとWebアプリケーションを、分野別に探せる一覧です。READMEはHTML版を推奨し、Markdown版をlegacyとしています。出典: https://github.com/awesome-selfhosted/awesome-selfhosted"
     },
     {
       "type": "repo",
