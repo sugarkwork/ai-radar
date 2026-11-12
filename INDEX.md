@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 919 件 — リポジトリ 596, リンク集 116, 記事 140, モデル 53, プロンプト 14 / ⚑ 要確認 707 件
+収録 920 件 — リポジトリ 597, リンク集 116, 記事 140, モデル 53, プロンプト 14 / ⚑ 要確認 708 件
 
-## リポジトリ（596）
+## リポジトリ（597）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -196,7 +196,7 @@
 | [utillayer/youtube-agent-skill](entries/video-gen/utillayer-youtube-agent-skill.md) ⚑ | 14 | 2 | 週次 | 16 | 2026-10-29 | 2026-11-09 | 2026-11-10 | MIT |
 | [BennyDaBall930/comfyui_hyperflow_int8_nodes](entries/video-gen/bennydaball930-comfyui_hyperflow_int8_nodes.md) ⚑ | 3 | 0 | 週次 | 10 | 2026-11-09 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
 
-### コーディングエージェント（80）
+### コーディングエージェント（81）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -279,6 +279,7 @@
 | [system-design-skill](entries/coding-agent/codejunkie99-system-design-skill.md) ⚑ | 9 | 1 | 月次 | 1 | 2026-11-01 | 2026-11-10 | 2026-11-11 | MIT |
 | [GDG Agent Skillsの実演教材](entries/coding-agent/gdg-oau-agent-skills-gdg.md) ⚑ | 1 | 0 | 週次 | 13 | 2026-11-07 | 2026-11-10 | 2026-11-10 | unknown |
 | [JobFit](entries/coding-agent/du8866-nice-jobfit.md) ⚑ | 1 | 0 | 週次 | 7 | 2026-10-29 | 2026-11-12 | 2026-11-12 | MIT |
+| [Berth](entries/coding-agent/maxzyma-berth.md) ⚑ | 0 | 0 | 毎日 | 100+ | 2026-11-11 | 2026-11-12 | 2026-11-12 | MIT |
 | [Leash](entries/coding-agent/cmaintz-leash.md) ⚑ | 0 | 0 | 毎日 | 21 | 2026-11-06 | 2026-11-10 | 2026-11-11 | MIT |
 
 ### その他（80）
@@ -1640,6 +1641,7 @@
 - [GDG Agent Skillsの実演教材](entries/coding-agent/gdg-oau-agent-skills-gdg.md) — unverified / 実行未検証。READMEが案内するafterブランチとライセンスを確認できない。
 - [JobFit](entries/coding-agent/du8866-nice-jobfit.md) — unverified / 実モデル利用時は履歴書が選択したAIプロバイダーに送信される。READMEにはプロバイダーへの送信をページ上で案内するとあるが、実際の公開デモでの設定やデータ処理は確認していない。
 - [ApiiroによるClaude Code settings.local.json資格情報漏洩調査](articles/2026-11-09-https-x.com-yoppy0123-status-2119219945179603110.md) — unverified / global gitignore追加だけでは既追跡や後からrepo化したケースを守れない。漏洩時は履歴削除だけでなくまず鍵を失効・ローテーション。実資格情報は転載しない。 当方でインストール・推論・生成・ベンチ再現はしていない。
+- [Berth](entries/coding-agent/maxzyma-berth.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Claude Code](links/coding-agent/claude.com-claude-code.md) — unverified / Claude Code は汎用コーディングエージェントで、CGI/動画専用の機能はない。投稿のスタックではブリーフ→ショットリスト/カメラワークの文章生成と、MCP 経由の Blender 操作指示を担うが、モデリング・ライティング・レンダーは Blender、編集は HyperFrames/FFmpeg 側。『全部 Claude Code がやる』は不正確。投稿の15秒動画は 1440x1800（4:5）・30fps・15.03秒の1フォーマットで、画面内に『INVOICE · EXAMPLE』『ILLUSTRATIVE BUILD LOG』『FICTIONAL BRAND · RENDERED IN BLENDER』と明記された UI モックアップ。請求例はアニメーションで増える『EXAMPLE』で、終盤は $300 + $600 + $400 + $400 + $300 = $2,000。実在の請求ではなく、$1,500–5,000 の市場価格は未検証。DELIVERY GATE は 0/6 から終盤 6/6 になるが、それは UI のチェックで、実ファイルは 4:5 の1フォーマットのみ。16:9/9:16/1:1 の実ファイルは確認できない。『4 shots』は UI のショットリスト、『3 formats』は UI 表示で、納品物の実体は未確認。`/cgi-ad-studio` の配布物（skill/リポジトリ/プロンプト）へのリンクは投稿になく、.blend も生成スクリプトも公開されていない。引用 X 記事はログイン要求で本文未確認。15秒・4カメラ・3フォーマットの納品実績は未検証。『no 3D artist / no studio』は投稿の主張、『one operator』は UI のコピーで、実際の制作体制は確認できない。返信の supervoid_si も『ブランドはレンダーではなく光・カメラ・ビートの判断に払う』と指摘している。
 - [Claude Code Skills 機能](links/coding-agent/code.claude.com-claude-code-skills.md) — unverified / 投稿の主要な主張は一次情報で確認できた：`.claude/skills/<skill-name>/SKILL.md` と `~/.claude/skills/<skill-name>/SKILL.md` の配置、description が常時コンテキストに載り本文は起動時に読み込まれる点、`allowed-tools`／`context: fork`／`paths` の実在、description+when_to_use の 1,536 文字上限、SKILL.md を 500 行未満に保つ指示、scripts 配下が「executed, not loaded」である点。一方で次の差がある。(1) 「Anthropic just shared one of the best tricks」とあるが新公開の裏技ではなく以前から文書化された標準機能（ページ最終更新 2026-11-04）。(2) `allowed-tools` の許可はそのスキルを起動したターン限りで、次のメッセージを送ると失効する。(3) スクリプトのファイル自体は読まれないが、インライン shell 展開の実行結果はスキル本文に注入されコンテキストに入るため、コンテキスト消費がゼロになるわけではない。(4) `context: fork` は会話履歴を引き継がないが、CLAUDE.md はエージェントの起動コンテキストとして読み込まれる（Explore／Plan エージェントは除く）。(5) 投稿が繰り返す「JEV」「JEV engineering」「routes micro-forks in milliseconds」は一次情報に記載がなく、スキル機能とは無関係の宣伝とみられる（未確認）。(6) 添付は動画1本のみで静止画はなく、動画フレームの書き起こしは行っていない。上記の各主張は動画ではなく一次情報の本文と突き合わせて個別に判定した。
 - [Claude Code v2.1.283 の設定監査 /doctor prompt-audit](articles/2026-09-25-anthropic-claude-code-v2.1.283-doctor-prompt-audit.md) — unverified / 監査の検出精度、提案による改善効果、適用依頼前にファイルが変更されないという公式説明の実環境での挙動、監査固有の料金は未確認。発見投稿が案内するX記事のテンプレートとディレクトリ構成も未確認。

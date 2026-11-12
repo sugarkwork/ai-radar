@@ -1,5 +1,5 @@
 {
-  "count": 919,
+  "count": 920,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -10720,6 +10720,37 @@
       "risk_notes": "global gitignore追加だけでは既追跡や後からrepo化したケースを守れない。漏洩時は履歴削除だけでなくまず鍵を失効・ローテーション。実資格情報は転載しない。 当方でインストール・推論・生成・ベンチ再現はしていない。",
       "published": "2026-11-08",
       "path": "articles/2026-11-09-https-x.com-yoppy0123-status-2119219945179603110.md"
+    },
+    {
+      "name": "Berth",
+      "genre": "coding-agent",
+      "url": "https://github.com/maxzyma/berth",
+      "repo": "maxzyma/berth",
+      "stars": 0,
+      "forks": 0,
+      "open_issues": 0,
+      "size_kb": 2298,
+      "language": "TypeScript",
+      "created": "2026-10-26",
+      "updated": "2026-11-11",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 100,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景・有効性・依存関係・実行条件。",
+      "type": "repo",
+      "added": "2026-11-12",
+      "first_seen": "2026-11-12",
+      "sources": [
+        "https://x.com/binbin_eth/status/2120710960247615505"
+      ],
+      "fetched_at": "2026-11-12T03:43:42.535493+00:00",
+      "path": "entries/coding-agent/maxzyma-berth.md",
+      "summary": "ターミナルで起動したエージェントとtmuxセッションを検出し、VS Codeからセッション一覧の表示、新規作成、接続、終了、起動時の再オープンを行う。記録された会話の再開は、会話ID・プロファイル・起動オプションを確認し、エージェントが会話IDを確認した場合に成立する。任意のiTerm2連携は復元済みペインへの再接続と"
     },
     {
       "name": "Claude Code",
