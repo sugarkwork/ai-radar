@@ -25,6 +25,8 @@
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
   - 公開に必須の根拠がそろっていません。
   - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://x.com/wquguru/status/2118342047518363955>。
+- [X: wildmindai の投稿](https://x.com/wildmindai/status/2118493695100289374)
+  - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://huggingface.co/Comfy-Org/RelayVSR>。
 - [X: tomgoldsteincs の投稿](https://x.com/tomgoldsteincs/status/2118394191764169001)
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
 - [X: tokufxug の投稿](https://x.com/tokufxug/status/2118362287081918964)
@@ -76,6 +78,13 @@
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 - [X: okapi_fukugyo の投稿](https://x.com/okapi_fukugyo/status/2118459206512873690)
   - 下書きが公開用の検証基準を満たしていません。
+- [X: neuronxwhite の投稿](https://x.com/neuronxwhite/status/2118493379961168258)
+  - 候補の対象が複数あり、一意に特定できませんでした。
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+- [X: neuronxwhite の投稿](https://x.com/neuronxwhite/status/2118493367831351733)
+  - 候補の対象が複数あり、一意に特定できませんでした。
+  - 下書きが公開用の検証基準を満たしていません。
+  - 元投稿と配布先が同一対象であることを裏付けられませんでした。
 - [X: neuronxwhite の投稿](https://x.com/neuronxwhite/status/2118339232599269702)
   - 候補の対象が複数あり、一意に特定できませんでした。
   - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://x.com/neuronxwhite/status/2118339232599269702>。
@@ -116,6 +125,8 @@
   - 公開に必須の根拠がそろっていません。
 - [X: gippp69 の投稿](https://x.com/gippp69/status/2118391554964418937)
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+- [X: ganfanren_ai の投稿](https://x.com/ganfanren_ai/status/2118497339820167196)
+  - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: ganfanren_ai の投稿](https://x.com/ganfanren_ai/status/2118313579049009485)
   - 公開に必須の根拠がそろっていません。
 - [X: fhwofjow51260 の投稿](https://x.com/fhwofjow51260/status/2118331005375541552)
@@ -142,6 +153,10 @@
 - [X: eng_khairallah1 の投稿](https://x.com/eng_khairallah1/status/2118313226471694508)
   - 下書きの出典を公開資料として確認できませんでした。 照合済み参照先: <https://x.com/eng_khairallah1/status/2118313226471694508>。
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+- [X: daaihq の投稿](https://x.com/daaihq/status/2118496047614025968)
+  - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://x.com/daaihq/status/2118496047614025968>。
+- [X: daaihq の投稿](https://x.com/daaihq/status/2118496042618601582)
+  - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://x.com/daaihq/status/2118496042618601582>。
 - [X: daaihq の投稿](https://x.com/daaihq/status/2118280583013134432)
   - 候補の対象が複数あり、一意に特定できませんでした。
   - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://x.com/daaihq/status/2118280583013134432>。
@@ -183,6 +198,8 @@
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
   - 公開に必須の根拠がそろっていません。
+- [X: PromptLabCN の投稿](https://x.com/PromptLabCN/status/2120750742785171596)
+  - 公開に必須の根拠がそろっていません。
 - [X: PayneL_AI の投稿](https://x.com/PayneL_AI/status/2118333980009435294)
   - 候補の対象が複数あり、一意に特定できませんでした。
   - 対象を裏付ける公開一次資料を確認できませんでした。
@@ -209,6 +226,8 @@
   - 公開に必須の根拠がそろっていません。
 - [X: HamdiAmer16 の投稿](https://x.com/HamdiAmer16/status/2118381791954264419)
   - 公開に必須の根拠がそろっていません。
+- [X: GlobalFeedAI の投稿](https://x.com/GlobalFeedAI/status/2120706944692343201)
+  - 公開に必須の根拠がそろっていません。
 - [X: EianLu の投稿](https://x.com/EianLu/status/2118317430665613741)
   - 下書きが公開用の検証基準を満たしていません。
   - 対象を裏付ける公開一次資料を確認できませんでした。
@@ -226,6 +245,16 @@
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 - [X: Av1dlive の投稿](https://x.com/Av1dlive/status/2118386892270149703)
   - 対象を裏付ける公開一次資料を確認できませんでした。
+- [X: AIExplorerTim の投稿](https://x.com/AIExplorerTim/status/2118504399127576931)
+  - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://x.com/AIExplorerTim/status/2118504399127576931>。
+- [X: AIExplorerTim の投稿](https://x.com/AIExplorerTim/status/2118504397353419163)
+  - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://x.com/AIExplorerTim/status/2118504397353419163>。
+- [X: AIExplorerTim の投稿](https://x.com/AIExplorerTim/status/2118504395709313177)
+  - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://x.com/AIExplorerTim/status/2118504395709313177>。
+- [X: AIExplorerTim の投稿](https://x.com/AIExplorerTim/status/2118504393867931799)
+  - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://x.com/AIExplorerTim/status/2118504393867931799>。
+- [X: AIExplorerTim の投稿](https://x.com/AIExplorerTim/status/2118504392181895588)
+  - 一次資料と候補の説明に、解消できない相違があります。 照合済み参照先: <https://x.com/AIExplorerTim/status/2118504392181895588>。
 ## 2026-11-11（日本時間）
 
 - [X: zazzy_stardust の投稿](https://x.com/zazzy_stardust/status/2119055200732557746)
