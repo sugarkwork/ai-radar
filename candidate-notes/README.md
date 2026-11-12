@@ -29,6 +29,14 @@
   - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://huggingface.co/Comfy-Org/RelayVSR>。
 - [X: tomgoldsteincs の投稿](https://x.com/tomgoldsteincs/status/2118394191764169001)
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+- [X: tokufxug の投稿](https://x.com/tokufxug/status/2118519299946258842)
+  - 候補の対象が複数あり、一意に特定できませんでした。
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+- [X: tokufxug の投稿](https://x.com/tokufxug/status/2118518139403239783)
+  - 掲載先URLの正常なHTTP応答を確認できませんでした。
+  - 公開に必須の根拠がそろっていません。
+- [X: tokufxug の投稿](https://x.com/tokufxug/status/2118518008478085477)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 - [X: tokufxug の投稿](https://x.com/tokufxug/status/2118362287081918964)
   - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://x.com/tokufxug/status/2118362287081918964>。
 - [X: tokufxug の投稿](https://x.com/tokufxug/status/2118354543763501510)
@@ -78,6 +86,8 @@
   - 候補の対象が複数あり、一意に特定できませんでした。
 - [X: quixeltools の投稿](https://x.com/quixeltools/status/2118346475528994821)
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+- [X: pesumcinema の投稿](https://x.com/pesumcinema/status/2120695468024082797)
+  - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: okapi_fukugyo の投稿](https://x.com/okapi_fukugyo/status/2118510755746341093)
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
 - [X: okapi_fukugyo の投稿](https://x.com/okapi_fukugyo/status/2118459206512873690)
@@ -123,6 +133,8 @@
   - 候補の対象が複数あり、一意に特定できませんでした。
 - [X: lucasjamali の投稿](https://x.com/lucasjamali/status/2120513123215888591)
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+- [X: kamuiyamaro の投稿](https://x.com/kamuiyamaro/status/2118670987470479434)
+  - 候補の対象が複数あり、一意に特定できませんでした。
 - [X: jarvis11x の投稿](https://x.com/jarvis11x/status/2118512113543258311)
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
   - 対象を裏付ける公開一次資料を確認できませんでした。
@@ -133,6 +145,8 @@
   - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: happy_analytics の投稿](https://x.com/happy_analytics/status/2120665283530744053)
   - 公開に必須の根拠がそろっていません。
+- [X: h_tenkyu の投稿](https://x.com/h_tenkyu/status/2118516749851295904)
+  - 候補の対象が複数あり、一意に特定できませんでした。
 - [X: gippp69 の投稿](https://x.com/gippp69/status/2118391554964418937)
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 - [X: ganfanren_ai の投稿](https://x.com/ganfanren_ai/status/2118497339820167196)
@@ -218,10 +232,17 @@
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 - [X: ModelingTechNT の投稿](https://x.com/ModelingTechNT/status/2118312373941633396)
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+- [X: Machinedelusion の投稿](https://x.com/Machinedelusion/status/2118517975565193604)
+  - 候補の対象が複数あり、一意に特定できませんでした。
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+  - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+  - 公開に必須の根拠がそろっていません。
 - [X: Machinedelusion の投稿](https://x.com/Machinedelusion/status/2118480227135365270)
   - 下書きが公開用の検証基準を満たしていません。
 - [X: Machinedelusion の投稿](https://x.com/Machinedelusion/status/2118398689706217516)
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+- [X: Leviwoyun の投稿](https://x.com/Leviwoyun/status/2118516397857010033)
+  - 元投稿と配布先が同一対象であることを裏付けられませんでした。
 - [X: Khaled865412521 の投稿](https://x.com/Khaled865412521/status/2120664495173353513)
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
   - 公開に必須の根拠がそろっていません。
