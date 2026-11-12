@@ -1,5 +1,5 @@
 {
-  "count": 947,
+  "count": 948,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -23872,6 +23872,37 @@
       "last_release_at": "",
       "path": "entries/tts-audio/ace-step-ace-step.md",
       "summary": "Text2Music: タグ（ジャンル・楽器・雰囲気）＋構造タグ付き歌詞（[verse] / [chorus] / [bridge]）＋長さを渡して楽曲を生成する。抽象では「A100 で4分の楽曲を20秒」と記載。"
+    },
+    {
+      "name": "DeepFilterNet",
+      "genre": "tts-audio",
+      "url": "https://github.com/Rikorose/DeepFilterNet",
+      "repo": "Rikorose/DeepFilterNet",
+      "license": "unknown",
+      "stars": 5002,
+      "language": "Python",
+      "created": "2021-10-10",
+      "updated": "2026-11-06",
+      "forks": 552,
+      "open_issues": 64,
+      "commits_30d": 1,
+      "commit_cadence": "monthly",
+      "commits_90d": 1,
+      "size_kb": 179186,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "GitHub APIのlicense値はunknown。READMEからライセンスを確認できない。CLIバイナリは48 kHzのWAVのみ対応と記載。 GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-12",
+      "first_seen": "2026-11-12",
+      "sources": [
+        "https://x.com/RealMarvelX/status/2118525010088251781"
+      ],
+      "fetched_at": "2026-11-12T11:19:25.090022+00:00",
+      "path": "entries/tts-audio/rikorose-deepfilternet.md",
+      "summary": "DeepFilterNetは、48 kHzフルバンド音声向けの音声強調フレームワーク。READMEは、ノイズのあるWAVファイルを処理するCLI、Python API、学習・評価・可視化機能、およびリアルタイムのノイズ抑制に使うLADSPAプラグインを案内している。CLIで対応する入力はサンプリングレート48 kHzの"
     },
     {
       "type": "repo",
