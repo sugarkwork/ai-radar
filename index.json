@@ -1,5 +1,5 @@
 {
-  "count": 957,
+  "count": 958,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -16216,6 +16216,37 @@
       "fetched_at": "2026-11-10T11:34:45+00:00",
       "path": "entries/mcp-server/glips-figma-context-mcp.md",
       "summary": "Figmaのファイル、フレーム、グループのリンクをもとにレイアウトやスタイルを取得し、UI実装の文脈としてエージェントに渡せる。"
+    },
+    {
+      "name": "SolidCraft",
+      "genre": "mcp-server",
+      "url": "https://github.com/tangency-labs/solidcraft",
+      "repo": "tangency-labs/solidcraft",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "ライセンス表記に差異があります。READMEは「MIT OR Apache-2.0」と記載していますが、提供された測定値ではApache-2.0です。採用前にライセンスファイルを確認してください。",
+      "stars": 15931,
+      "forks": 2181,
+      "open_issues": 6652,
+      "size_kb": 531665,
+      "language": "Rust",
+      "created": "2026-10-07",
+      "updated": "2026-11-12",
+      "archived": false,
+      "license": "Apache-2.0",
+      "commits_30d": 100,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "type": "repo",
+      "added": "2026-11-12",
+      "first_seen": "2026-11-12",
+      "sources": [
+        "https://x.com/Leviwoyun/status/2118546148860526934"
+      ],
+      "fetched_at": "2026-11-12T15:11:02.435866+00:00",
+      "path": "entries/mcp-server/tangency-labs-solidcraft.md",
+      "summary": "パラメトリックな3D CADアプリ。スケッチ、拘束、フィーチャーのタイムライン、パラメーター、アセンブリ、板金機能を備えるとREADMEに記載。STEP、IGES、3MF、STL、OBJ、glTFの入出力（対応範囲内）とURDF出力、デスクトップ・ブラウザー・ヘッドレスCLI・MCPサーバーの提供も記載されている。"
     },
     {
       "name": "Apify MCP server",
