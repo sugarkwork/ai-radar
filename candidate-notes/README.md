@@ -27,8 +27,20 @@
   - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://x.com/wquguru/status/2118342047518363955>。
 - [X: wildmindai の投稿](https://x.com/wildmindai/status/2118493695100289374)
   - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://huggingface.co/Comfy-Org/RelayVSR>。
+- [X: toyofukux の投稿](https://x.com/toyofukux/status/2120718736156156293)
+  - 下書きが公開用の検証基準を満たしていません。
 - [X: tomgoldsteincs の投稿](https://x.com/tomgoldsteincs/status/2118394191764169001)
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+- [X: tokufxug の投稿](https://x.com/tokufxug/status/2118528154788913490)
+  - 対象を裏付ける公開一次資料を確認できませんでした。
+  - 公開に必須の根拠がそろっていません。
+- [X: tokufxug の投稿](https://x.com/tokufxug/status/2118528096592974278)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+- [X: tokufxug の投稿](https://x.com/tokufxug/status/2118525276821115039)
+  - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+- [X: tokufxug の投稿](https://x.com/tokufxug/status/2118523683648233485)
+  - 候補の対象が複数あり、一意に特定できませんでした。
+  - 公開に必須の根拠がそろっていません。
 - [X: tokufxug の投稿](https://x.com/tokufxug/status/2118523625393537314)
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
@@ -128,6 +140,8 @@
 - [X: neuronxwhite の投稿](https://x.com/neuronxwhite/status/2118278506916544679)
   - 候補の対象が複数あり、一意に特定できませんでした。
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+- [X: nekopy_ai の投稿](https://x.com/nekopy_ai/status/2120720813443731841)
+  - 下書きが公開用の検証基準を満たしていません。
 - [X: naka_1717 の投稿](https://x.com/naka_1717/status/2118466126418256076)
   - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://x.com/naka_1717/status/2118466126418256076>。
 - [X: naka_1717 の投稿](https://x.com/naka_1717/status/2118320485473890645)
@@ -151,6 +165,8 @@
   - 候補の対象が複数あり、一意に特定できませんでした。
 - [X: lucasjamali の投稿](https://x.com/lucasjamali/status/2120513123215888591)
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+- [X: kursormaxx の投稿](https://x.com/kursormaxx/status/2118673610722144590)
+  - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://x.com/kursormaxx/status/2118673610722144590>。
 - [X: kamuiyamaro の投稿](https://x.com/kamuiyamaro/status/2118670987470479434)
   - 候補の対象が複数あり、一意に特定できませんでした。
 - [X: jarvis11x の投稿](https://x.com/jarvis11x/status/2118512113543258311)
@@ -218,6 +234,22 @@
   - 候補の対象が複数あり、一意に特定できませんでした。
 - [X: bdsqlsz の投稿](https://x.com/bdsqlsz/status/2118373375232123191)
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+- [X: ai_hakase_ の投稿](https://x.com/ai_hakase_/status/2118525283061932364)
+  - 提案された種別と配布先を確認できませんでした。
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+  - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+  - 公開に必須の根拠がそろっていません。
+- [X: ai_hakase_ の投稿](https://x.com/ai_hakase_/status/2118525281681969547)
+  - 候補の対象が複数あり、一意に特定できませんでした。
+  - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+- [X: ai_hakase_ の投稿](https://x.com/ai_hakase_/status/2118525030396989768)
+  - 下書きが公開用の検証基準を満たしていません。 照合済み参照先: <https://huggingface.co/ricursiveAI/Ripple-65B-Preview>。
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+  - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+- [X: ai_hakase_ の投稿](https://x.com/ai_hakase_/status/2118525028887101802)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+- [X: ai_7days_lab の投稿](https://x.com/ai_7days_lab/status/2118674772066213893)
+  - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: Yooeec3 の投稿](https://x.com/Yooeec3/status/2118659806269780267)
   - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: Y0urDumble の投稿](https://x.com/Y0urDumble/status/2118390619680714952)
@@ -225,6 +257,8 @@
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
   - 対象を裏付ける公開一次資料を確認できませんでした。
   - 公開に必須の根拠がそろっていません。
+- [X: RealMarvelX の投稿](https://x.com/RealMarvelX/status/2118525010088251781)
+  - 候補の対象が複数あり、一意に特定できませんでした。
 - [X: RealMarvelX の投稿](https://x.com/RealMarvelX/status/2118416730427121930)
   - 公開に必須の根拠がそろっていません。
 - [X: RealMarvelX の投稿](https://x.com/RealMarvelX/status/2118416164476916071)
