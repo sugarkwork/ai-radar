@@ -1,5 +1,5 @@
 {
-  "count": 917,
+  "count": 918,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -13922,6 +13922,27 @@
       "first_seen": "2026-11-08",
       "path": "links/link-asset/x.com-edmond-ai.md",
       "summary": "AIで作った人物を毎回同じ見た目でショート動画に出すための、参照画像（キャラクターシート）の実例。1枚の中に全身の向きと顔の寄りを揃えてあり、画像生成・動画生成モデルに「この人物」を渡すときの入力として使う。"
+    },
+    {
+      "name": "Freesound",
+      "genre": "link-asset",
+      "url": "https://freesound.org/",
+      "pricing": "free",
+      "pricing_detail": "サイトの利用は無料とFAQに記載。音源ごとにライセンス条件が異なる。",
+      "signup_required": true,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "各音源の商用利用可否やクレジット条件は個別のライセンスによる。ダウンロードには登録済みアカウントへのログインが必要。",
+      "type": "link",
+      "added": "2026-11-12",
+      "first_seen": "2026-11-12",
+      "sources": [
+        "https://x.com/Y0urDumble/status/2118390619680714952"
+      ],
+      "fetched_at": "2026-11-12T01:14:51Z",
+      "path": "links/link-asset/freesound.org-freesound.md",
+      "summary": "動画、ゲーム、音楽などに使う音声クリップや録音を探すための共同データベース。"
     },
     {
       "name": "Lead Research Assistant (ComposioHQ)",
