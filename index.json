@@ -1,5 +1,5 @@
 {
-  "count": 915,
+  "count": 916,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -14172,6 +14172,27 @@
       "fetched_at": "2026-11-08T06:01:30Z",
       "path": "links/link-asset/bomiberzina.com-the-bomi-berzina-ai-character-shorts-playbook.md",
       "summary": "AI生成キャラクターを1体作り、そのキャラクターを毎回同じ見た目でショート動画に出演させ続けるための有料PDF手順書。動画の元ネタ探し→キャラクターの差し替え→書き出し→投稿までを17ステップに区切っている。"
+    },
+    {
+      "name": "Weight Paint Box",
+      "genre": "link-asset",
+      "url": "https://superhivemarket.com/products/weight-paint-box",
+      "pricing": "paid",
+      "pricing_detail": "公式ページ表示価格 $35（2026-11-12確認）。",
+      "signup_required": true,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "なし",
+      "type": "link",
+      "added": "2026-11-12",
+      "first_seen": "2026-11-12",
+      "sources": [
+        "https://x.com/HamdiAmer16/status/2118381791954264419"
+      ],
+      "fetched_at": "2026-11-12T00:06:13Z",
+      "path": "links/link-asset/superhivemarket.com-weight-paint-box.md",
+      "summary": "Blenderでのウェイトペイントとリギングを支援するアドオン。"
     },
     {
       "name": "Wonderlist",

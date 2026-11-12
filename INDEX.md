@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 915 件 — リポジトリ 594, リンク集 114, 記事 140, モデル 53, プロンプト 14 / ⚑ 要確認 703 件
+収録 916 件 — リポジトリ 594, リンク集 115, 記事 140, モデル 53, プロンプト 14 / ⚑ 要確認 704 件
 
 ## リポジトリ（594）
 
@@ -739,7 +739,7 @@
 - **[MiniMax H3：20種のダンスと音楽指定](prompts/video-gen/minimax-h3-20-dance-music.md)** ⚑  MiniMax H3 / EndFolding79421
   - キャラクターシートを参照し、6秒間の全身ダンスと音楽・環境音を指示するための投稿者のテンプレート。ダンス20種類の音楽指定例を含む。
 
-## リンク集（114）
+## リンク集（115）
 
 ### リンク（作例・インスピレーション）（20）
 
@@ -784,6 +784,47 @@
 - **[uilabs — 動きのあるUI部品集](links/link-inspiration/uilabs.dev.md)** ⚑  uilabs — 動きのあるUI部品集
   - React UIの操作とモーションの実装例を調べる小さな部品集。
 
+### リンク（素材・アイコン・3D）（19）
+
+- **[AI Camera Movements（カメラワーク46種のプロンプト）](links/link-asset/aicameramovements-com.md)**  free / aicameramovements.com
+  - AI 動画の「カメラが止まって見える」問題を、動きの名前と定型プロンプトで解決する。動きの違いを並べて比較してから選べる。
+- **[Cold Email (marketingskills)](links/link-asset/github.com-cold-email-marketingskills.md)** ⚑  free / coreyhaines31
+  - コールドメールの件名・本文・フォロー・配信ドメイン設定・LinkedIn/電話を含むマルチチャネル手順・返信分類を1つのSkillにまとめたもの。
+- **[Edmond キャラクター三面図（AIペルソナ用ターンアラウンド）](links/link-asset/x.com-edmond-ai.md)** ⚑  free / @Y0urDumble
+  - AIで作った人物を毎回同じ見た目でショート動画に出すための、参照画像（キャラクターシート）の実例。1枚の中に全身の向きと顔の寄りを揃えてあり、画像生成・動画生成モデルに「この人物」を渡すときの入力として使う。
+- **[Lead Research Assistant (ComposioHQ)](links/link-asset/github.com-lead-research-assistant-composiohq.md)** ⚑  free / ComposioHQ
+  - 自社製品・ICPを入力に、対象企業の候補、適合スコア、意思決定者の役割、接触時の切り口を整理するSkill。営業・BD・マーケティングの下調べを短縮する用途。
+- **[Melies 撮影技法ライブラリ（424種）](links/link-asset/melies-co-cinematic-techniques.md)**  Melies
+  - AI 動画のプロンプトに「映画の語彙」を持ち込むための事典。技法名から入って、意味・作例・そのまま使えるプロンプトを引く。
+- **[Mio's Pose Designs Vol. 11](links/link-asset/mio-pose-designs-vol11.md)**  free / @Mio_2am
+  - 座位・横臥のポーズを9種類まとめた作画資料。画像生成AIのポーズ指定、ControlNet・LoRA の参照セット、絵コンテの下敷きなど、人体の姿勢を固定したいときに使う。
+- **[Mio's Pose Designs Vol. 18](links/link-asset/mio-pose-designs-vol18.md)** ⚑  free
+  - 椅子に座る人体ポーズ9種の視覚的な参考資料。
+- **[PLATEAU 5都市GLB 797タイル](links/link-asset/https-huggingface.co-datasets-codepawl-plateau-city-glb.md)** ⚑  @bei351009016
+  - PLATEAUの東京23区・大阪・横浜・名古屋・札幌の中心部をGLBへ変換した3D都市素材。
+- **[Poly Haven](links/link-asset/polyhaven.com-poly-haven.md)** ⚑  free / Poly Haven
+  - 投稿の LIGHT 工程。スタジオ HDRI と PBR テクスチャを Blender に取り込み、ガラス/液体/金の反射と照明を作るための素材ライブラリ。実行ツールではなく参照・素材。
+- **[Polyfork](links/link-asset/https-polyfork.dev.md)** ⚑  @Shoonee27
+  - GLBと再構築可能なESモジュールでlow-poly3Dモデルを提供するPolyfork。検索・CLI・キー不要MCPを案内。
+- **[Remotion Agent Skills](links/link-asset/remotion.dev-remotion-agent-skills.md)** ⚑  free / Remotion
+  - Remotion（React コンポーネントを MP4 に書き出す動画フレームワーク）の公式 Agent Skills。Claude Code / Codex / Kimi Code / Cursor などに読み込ませ、動画コードを自己流で書かせず、フレームワークの作法どおりに生成させるために使う。
+- **[Scenario Blender Animation（scenario-labs）](links/link-asset/typingmind.com-scenario-blender-animation-scenario-labs.md)** ⚑  free / scenario-labs（Scenario）
+  - Blender で Python 経由のキャラクター／物体アニメを作るとき、エージェントが「再生して目で見る」代わりに数値で判断できるようにするための SKILL.md。バウンシングボール、歩行・走行サイクル、ジャンプ、演技カット、リップシンク、目の動き、ステップドキーでのブロッキング、スプライン化、タイミングと間隔、
+- **[TailSteer-Source](links/link-asset/https-huggingface.co-datasets-lyricccco-tailsteer-source.md)** ⚑  @cutetoxicguy
+  - TailSteer学習に使う元画像とtrajectory requestのデータセット。
+- **[TextureLabs](links/link-asset/texturelabs-org.md)**  free / TextureLabs
+  - アート・デザイン向けの**無料テクスチャ素材庫**。壁・レンガ・コンクリート・金属・紙・空・土・水・布・フィルム・グランジなど、カテゴリ別に数千点を公開している。画像生成の背景素材、3Dのマテリアル、映像のオーバーレイ、合成の下地などに使う。
+- **[The Bomi Berzina AI Character Shorts Playbook](links/link-asset/bomiberzina.com-the-bomi-berzina-ai-character-shorts-playbook.md)** ⚑  paid / Bomi Berzina（bomiberzina.com）
+  - AI生成キャラクターを1体作り、そのキャラクターを毎回同じ見た目でショート動画に出演させ続けるための有料PDF手順書。動画の元ネタ探し→キャラクターの差し替え→書き出し→投稿までを17ステップに区切っている。
+- **[Weight Paint Box](links/link-asset/superhivemarket.com-weight-paint-box.md)** ⚑  paid
+  - Blenderでのウェイトペイントとリギングを支援するアドオン。
+- **[Wonderlist](links/link-asset/wonderlist-design.md)**  paid / Wonderlist
+  - Figma 形式の Web サイトデザイン集を買い切りで販売する。デザイナー／開発者が一から設計せずにサイトを立ち上げるための素材。
+- **[useAnimations — 動くアイコン300点](links/link-asset/useanimations.com.md)** ⚑  free / useAnimations — 動くアイコン300点
+  - ホバー・クリック・ループのフィードバックをUIへ組み込むアイコン素材。
+- **[背景ガチャ（九龍城砦セット＋パース補助線）](links/link-asset/tools.oyasumi-gamedev.com-haikeigacha.md)** ⚑  free / おやすみゲーム開発部（MIYADAIKU）
+  - 漫画・イラストの背景を、ブラウザ上で部品を組み合わせて作る無料ツール。3Dモデリングなしで、部屋・建物・街並みのラフを作る。
+
 ### リンク（サービス・ツール）（19）
 
 - **[Aura](links/link-service/aura.build-aura.md)** ⚑  freemium / DESIGNCODE IO PTE. LTD.（Meng To / DesignCode）
@@ -824,45 +865,6 @@
   - Solana上のミームコインを、コードを書かずに誰でも短時間で発行し、その場で売買できるローンチパッド。公式ドキュメントは「Pump.fun is a memecoin launchpad on Solana. Anyone can launch a coin in under a minute. There's no
 - **[treg REA growth](links/link-service/treg.to-treg-rea-growth.md)** ⚑  freemium / superdesigndev（Superdesign Dev Pty Ltd）
   - treg.to は「エージェント向けツールの OpenRouter」を名乗る従量課金の API ゲートウェイ。1 つのトークンで 126 プロバイダ・4,100+ のツール（SEO/SERP、被リンク、SNS 投稿、人物・企業情報、広告ライブラリ、スクレイピング、画像/動画/音声生成）を、プロバイダごとの契約なしで呼べ
-
-### リンク（素材・アイコン・3D）（18）
-
-- **[AI Camera Movements（カメラワーク46種のプロンプト）](links/link-asset/aicameramovements-com.md)**  free / aicameramovements.com
-  - AI 動画の「カメラが止まって見える」問題を、動きの名前と定型プロンプトで解決する。動きの違いを並べて比較してから選べる。
-- **[Cold Email (marketingskills)](links/link-asset/github.com-cold-email-marketingskills.md)** ⚑  free / coreyhaines31
-  - コールドメールの件名・本文・フォロー・配信ドメイン設定・LinkedIn/電話を含むマルチチャネル手順・返信分類を1つのSkillにまとめたもの。
-- **[Edmond キャラクター三面図（AIペルソナ用ターンアラウンド）](links/link-asset/x.com-edmond-ai.md)** ⚑  free / @Y0urDumble
-  - AIで作った人物を毎回同じ見た目でショート動画に出すための、参照画像（キャラクターシート）の実例。1枚の中に全身の向きと顔の寄りを揃えてあり、画像生成・動画生成モデルに「この人物」を渡すときの入力として使う。
-- **[Lead Research Assistant (ComposioHQ)](links/link-asset/github.com-lead-research-assistant-composiohq.md)** ⚑  free / ComposioHQ
-  - 自社製品・ICPを入力に、対象企業の候補、適合スコア、意思決定者の役割、接触時の切り口を整理するSkill。営業・BD・マーケティングの下調べを短縮する用途。
-- **[Melies 撮影技法ライブラリ（424種）](links/link-asset/melies-co-cinematic-techniques.md)**  Melies
-  - AI 動画のプロンプトに「映画の語彙」を持ち込むための事典。技法名から入って、意味・作例・そのまま使えるプロンプトを引く。
-- **[Mio's Pose Designs Vol. 11](links/link-asset/mio-pose-designs-vol11.md)**  free / @Mio_2am
-  - 座位・横臥のポーズを9種類まとめた作画資料。画像生成AIのポーズ指定、ControlNet・LoRA の参照セット、絵コンテの下敷きなど、人体の姿勢を固定したいときに使う。
-- **[Mio's Pose Designs Vol. 18](links/link-asset/mio-pose-designs-vol18.md)** ⚑  free
-  - 椅子に座る人体ポーズ9種の視覚的な参考資料。
-- **[PLATEAU 5都市GLB 797タイル](links/link-asset/https-huggingface.co-datasets-codepawl-plateau-city-glb.md)** ⚑  @bei351009016
-  - PLATEAUの東京23区・大阪・横浜・名古屋・札幌の中心部をGLBへ変換した3D都市素材。
-- **[Poly Haven](links/link-asset/polyhaven.com-poly-haven.md)** ⚑  free / Poly Haven
-  - 投稿の LIGHT 工程。スタジオ HDRI と PBR テクスチャを Blender に取り込み、ガラス/液体/金の反射と照明を作るための素材ライブラリ。実行ツールではなく参照・素材。
-- **[Polyfork](links/link-asset/https-polyfork.dev.md)** ⚑  @Shoonee27
-  - GLBと再構築可能なESモジュールでlow-poly3Dモデルを提供するPolyfork。検索・CLI・キー不要MCPを案内。
-- **[Remotion Agent Skills](links/link-asset/remotion.dev-remotion-agent-skills.md)** ⚑  free / Remotion
-  - Remotion（React コンポーネントを MP4 に書き出す動画フレームワーク）の公式 Agent Skills。Claude Code / Codex / Kimi Code / Cursor などに読み込ませ、動画コードを自己流で書かせず、フレームワークの作法どおりに生成させるために使う。
-- **[Scenario Blender Animation（scenario-labs）](links/link-asset/typingmind.com-scenario-blender-animation-scenario-labs.md)** ⚑  free / scenario-labs（Scenario）
-  - Blender で Python 経由のキャラクター／物体アニメを作るとき、エージェントが「再生して目で見る」代わりに数値で判断できるようにするための SKILL.md。バウンシングボール、歩行・走行サイクル、ジャンプ、演技カット、リップシンク、目の動き、ステップドキーでのブロッキング、スプライン化、タイミングと間隔、
-- **[TailSteer-Source](links/link-asset/https-huggingface.co-datasets-lyricccco-tailsteer-source.md)** ⚑  @cutetoxicguy
-  - TailSteer学習に使う元画像とtrajectory requestのデータセット。
-- **[TextureLabs](links/link-asset/texturelabs-org.md)**  free / TextureLabs
-  - アート・デザイン向けの**無料テクスチャ素材庫**。壁・レンガ・コンクリート・金属・紙・空・土・水・布・フィルム・グランジなど、カテゴリ別に数千点を公開している。画像生成の背景素材、3Dのマテリアル、映像のオーバーレイ、合成の下地などに使う。
-- **[The Bomi Berzina AI Character Shorts Playbook](links/link-asset/bomiberzina.com-the-bomi-berzina-ai-character-shorts-playbook.md)** ⚑  paid / Bomi Berzina（bomiberzina.com）
-  - AI生成キャラクターを1体作り、そのキャラクターを毎回同じ見た目でショート動画に出演させ続けるための有料PDF手順書。動画の元ネタ探し→キャラクターの差し替え→書き出し→投稿までを17ステップに区切っている。
-- **[Wonderlist](links/link-asset/wonderlist-design.md)**  paid / Wonderlist
-  - Figma 形式の Web サイトデザイン集を買い切りで販売する。デザイナー／開発者が一から設計せずにサイトを立ち上げるための素材。
-- **[useAnimations — 動くアイコン300点](links/link-asset/useanimations.com.md)** ⚑  free / useAnimations — 動くアイコン300点
-  - ホバー・クリック・ループのフィードバックをUIへ組み込むアイコン素材。
-- **[背景ガチャ（九龍城砦セット＋パース補助線）](links/link-asset/tools.oyasumi-gamedev.com-haikeigacha.md)** ⚑  free / おやすみゲーム開発部（MIYADAIKU）
-  - 漫画・イラストの背景を、ブラウザ上で部品を組み合わせて作る無料ツール。3Dモデリングなしで、部屋・建物・街並みのラフを作る。
 
 ### 3D・モーション（11）
 
@@ -1717,6 +1719,7 @@
 - [Scenario Blender Animation（scenario-labs）](links/link-asset/typingmind.com-scenario-blender-animation-scenario-labs.md) — unverified / TypingMind 経由での利用はアプリのアカウント（買い切りライセンス）が前提。アプリの具体価格はページに静的表示が無く未確認。ページの stars/forks 表示（970/114）は GitHub API 実測（3535/307）と乖離しており、ページ側のメタ情報は古い。スキルは単体完結せず scenario-blender-expert などを前提とするため、フォルダ単体をコピーすると不足する（未導入時はツールスキーマから進み gap を明示する挙動）。
 - [TailSteer-Source](links/link-asset/https-huggingface.co-datasets-lyricccco-tailsteer-source.md) — unverified / 元画像と派生データの利用・再配布条件を分けて確認する。モデル重みではなくデータセットであり品質・権利を一括保証しない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [The Bomi Berzina AI Character Shorts Playbook](links/link-asset/bomiberzina.com-the-bomi-berzina-ai-character-shorts-playbook.md) — unverified / 投稿の「10日で$13K」「10.6M再生」「最大5.6M」は投稿者自身の推計であり一次情報で確認していない。今回実測できたのは TikTok プロフィールの 23.6K フォロワー / 539.7K いいね / 13本（2026-11-08時点、レンダリング取得）で、個別動画の再生数は TikTok の WAF とログイン要求で取得できず未確認。Instagram は HTTP 200 だがログインウォールでプロフィールを読めない。価格 $9.99 は販売ページの表示と JSON-LD で確認し、Stripe の live セッションも実際に発行された（303）が、Stripe ページの金額は JS レンダリングで HTML から読めず、決済額そのものは未確認。PDF 本文は有料で、無料公開のプレビューは2ページ分（02, 04）のみ。17ステップのうち確認できたのは 01, 02, 05, 06, 07, 08 の6ステップとプロンプト2本（キャラクターシート用、Genjutsu の Object Swap 用）だけで、残り11ステップと残りのプロンプト本文は未確認。返金は商品ページに30日と明記されているが、リンク先の規約・返金ページ（smashcourses.com）は汎用文面で Bomi 商品を名指ししておらず、連絡先も商品ページは zenithlawassociates@gmail.com、規約ページは service@officeofagents.com で一致しない。手順06は他者のバイラル動画を第三者のダウンローダー（ytshortsdl.com / snaptik / igexport）で保存しキャラクターを差し替えるよう指示しており、著作権と各SNSの規約上のリスクがある。Jean Phil など他者キャラクターの世界観に便乗する手法も権利面で要注意。同一ドメインのルート https://bomiberzina.com は未発行の Solana ミームコイン「$BB」のプレローンチページ（価格 'Soon'、'CA DROPS AT LAUNCH'）で、ブランドがトークン販売と結び付いている点は別種の高リスクとして扱う。
+- [Weight Paint Box](links/link-asset/superhivemarket.com-weight-paint-box.md) — unverified / なし
 - [useAnimations — 動くアイコン300点](links/link-asset/useanimations.com.md) — unverified / 素材を再配布する場合はMITの著作権・許諾表示を保持する。サイトへのクレジットは任意だがライセンス表示義務とは別。全アイコンの表示やSSR動作は当方未試験。 当方では導入・生成・操作の実行検証をしていない。
 - [背景ガチャ（九龍城砦セット＋パース補助線）](links/link-asset/tools.oyasumi-gamedev.com-haikeigacha.md) — unverified / AIツールではなく、家具900以上をプログラムで組み合わせる手続き型の背景ジェネレータ（公式の仕組み解説に明記）。開発時のAI利用はClaude Codeのみ。部屋150種類以上に住宅・学校・洋館・中世の城・教会・九龍城砦のセットを追加。パース補助線は書き出しの『下絵（なぞる用）』でアイレベル線・パース補助線・消失点を別レイヤーに分離し、PSDはパースフォルダ内の各レイヤー、SVGは別ファイル、vp.txtに座標を出力する。ブラウザ完結・外部送信なし。β版で、版が上がると同seedでも部屋の作りが変わり得る。書き出し品質・PSDレイヤー構成は未確認（ブラウザツールのため実行検証は未実施）。
 - [Awesome DeepSeek Harness (DSH) Plugin](entries/link-inspiration/awesome-dsh-plugin-awesome-dsh-plugin.md) — unverified / 掲載はセキュリティ審査を意味しません。READMEは、導入した第三者プラグインが利用者権限で動作し、ファイル・認証情報・ネットワークにアクセスしうると明記しています。
