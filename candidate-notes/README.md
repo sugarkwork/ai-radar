@@ -4,6 +4,22 @@
 **ここは検証済みカタログではありません。** 公開に必要な裏取りが足りなかった候補を、元投稿への参照と注意点だけで残しています。
 元投稿の主張・配布物の同一性・動作・安全性を保証しません。本文・画像・内部データは転載していません。
 
+## 2026-11-13（日本時間）
+
+- [X: rvaniaaaa の投稿](https://x.com/rvaniaaaa/status/2120861156801647094)
+  - 候補の対象が複数あり、一意に特定できませんでした。
+  - 対象を裏付ける公開一次資料を確認できませんでした。
+- [X: rock_me_mimora の投稿](https://x.com/rock_me_mimora/status/2118680965086355780)
+  - 対象を裏付ける公開一次資料を確認できませんでした。
+- [X: realchendahuang の投稿](https://x.com/realchendahuang/status/2118545092986413146)
+  - 対象を裏付ける公開一次資料を確認できませんでした。
+  - 公開に必須の根拠がそろっていません。
+- [X: mingzi206 の投稿](https://x.com/mingzi206/status/2118545997798453679)
+  - 一次資料と候補の説明に、解消できない相違があります。 照合済み参照先: <https://x.com/mingzi206/status/2118545997798453679>。
+  - 公開に必須の根拠がそろっていません。
+- [X: lemomo_ai の投稿](https://x.com/lemomo_ai/status/2118551060596092928)
+  - 候補の対象が複数あり、一意に特定できませんでした。
+  - 対象を裏付ける公開一次資料を確認できませんでした。
 ## 2026-11-12（日本時間）
 
 - [X: zobotics の投稿](https://x.com/zobotics/status/2118424216760680937)
@@ -25,6 +41,9 @@
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
   - 公開に必須の根拠がそろっていません。
   - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://x.com/wquguru/status/2118342047518363955>。
+- [X: woodxbt の投稿](https://x.com/woodxbt/status/2118675421952713022)
+  - 候補の対象が複数あり、一意に特定できませんでした。
+  - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: wildmindai の投稿](https://x.com/wildmindai/status/2118493695100289374)
   - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://huggingface.co/Comfy-Org/RelayVSR>。
 - [X: toyofukux の投稿](https://x.com/toyofukux/status/2120718736156156293)
@@ -80,6 +99,8 @@
 - [X: thegreatest_sv の投稿](https://x.com/thegreatest_sv/status/2118325722850697573)
   - 候補の対象が複数あり、一意に特定できませんでした。
   - 対象を裏付ける公開一次資料を確認できませんでした。
+- [X: superfang119 の投稿](https://x.com/superfang119/status/2118540995914780674)
+  - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://huggingface.co/Comfy-Org/RelayVSR>。
 - [X: superfang119 の投稿](https://x.com/superfang119/status/2118347872500666643)
   - 候補の対象が複数あり、一意に特定できませんでした。
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
@@ -108,6 +129,8 @@
 - [X: sep_is_heim の投稿](https://x.com/sep_is_heim/status/2118293989992661049)
   - 候補の対象が複数あり、一意に特定できませんでした。
   - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://x.com/sep_is_heim/status/2118293989992661049>。
+- [X: ruyi3699 の投稿](https://x.com/ruyi3699/status/2118537353782591859)
+  - 公開に必須の根拠がそろっていません。
 - [X: romandevz の投稿](https://x.com/romandevz/status/2118651712877543670)
   - 候補の対象が複数あり、一意に特定できませんでした。
 - [X: quixeltools の投稿](https://x.com/quixeltools/status/2118346475528994821)
@@ -187,6 +210,8 @@
   - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: ganfanren_ai の投稿](https://x.com/ganfanren_ai/status/2118313579049009485)
   - 公開に必須の根拠がそろっていません。
+- [X: flxrnc の投稿](https://x.com/flxrnc/status/2118678323999944973)
+  - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: fhwofjow51260 の投稿](https://x.com/fhwofjow51260/status/2118331005375541552)
   - 候補の対象が複数あり、一意に特定できませんでした。
 - [X: fhwofjow51260 の投稿](https://x.com/fhwofjow51260/status/2118323477958787442)
@@ -234,6 +259,17 @@
   - 候補の対象が複数あり、一意に特定できませんでした。
 - [X: bdsqlsz の投稿](https://x.com/bdsqlsz/status/2118373375232123191)
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+- [X: ai_hakase_ の投稿](https://x.com/ai_hakase_/status/2118540382145228865)
+  - 下書きが公開用の検証基準を満たしていません。 照合済み参照先: <https://github.com/XingChen-AGI/Xing4.0-29B-A4B>。
+  - 提案された種別と配布先を確認できませんでした。
+  - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+  - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B>。
+- [X: ai_hakase_ の投稿](https://x.com/ai_hakase_/status/2118540380614328328)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+- [X: ai_hakase_ の投稿](https://x.com/ai_hakase_/status/2118540131690774833)
+  - 提案された種別と配布先を確認できませんでした。
+- [X: ai_hakase_ の投稿](https://x.com/ai_hakase_/status/2118540130084426192)
+  - 提案された種別と配布先を確認できませんでした。
 - [X: ai_hakase_ の投稿](https://x.com/ai_hakase_/status/2118525283061932364)
   - 提案された種別と配布先を確認できませんでした。
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
@@ -250,6 +286,10 @@
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 - [X: ai_7days_lab の投稿](https://x.com/ai_7days_lab/status/2118674772066213893)
   - 対象を裏付ける公開一次資料を確認できませんでした。
+- [X: YuanLiu41955461 の投稿](https://x.com/YuanLiu41955461/status/2118540292836176321)
+  - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+  - 公開に必須の根拠がそろっていません。
+  - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://github.com/JiazhiShu/mobius-code>。
 - [X: Yooeec3 の投稿](https://x.com/Yooeec3/status/2118659806269780267)
   - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: Y0urDumble の投稿](https://x.com/Y0urDumble/status/2118390619680714952)
