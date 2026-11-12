@@ -1,5 +1,5 @@
 {
-  "count": 952,
+  "count": 953,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -10871,6 +10871,37 @@
       "fetched_at": "2026-11-12T06:17:02.356833+00:00",
       "path": "entries/coding-agent/frankxai-awesome-motion-design-agent-skills.md",
       "summary": "READMEによると、モーションデザイン、シネマティックなサイト演出、Remotionによる動画制作、生成メディアのルーティングと仕上げ、レビュー・キャプチャ・モーションQA向けの5つのSKILL.mdワークフローを提供します。GSAP、Motion、Remotion、Rive、Lottie、3Dツールのカタログも含み"
+    },
+    {
+      "name": "Xing4.0-29B-A4B",
+      "genre": "coding-agent",
+      "url": "https://github.com/XingChen-AGI/Xing4.0-29B-A4B",
+      "repo": "XingChen-AGI/Xing4.0-29B-A4B",
+      "license": "Apache-2.0",
+      "stars": 106,
+      "language": "unknown",
+      "created": "2026-09-17",
+      "updated": "2026-11-10",
+      "forks": 10,
+      "open_issues": 2,
+      "commits_30d": 7,
+      "commit_cadence": "weekly",
+      "commits_90d": 35,
+      "size_kb": 1630,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEから最低限必要なハードウェア構成、依存パッケージのバージョン、利用料金は確認できない。評価値はREADME記載の作者側の報告で、独立実測ではない。",
+      "type": "repo",
+      "added": "2026-11-12",
+      "first_seen": "2026-11-12",
+      "sources": [
+        "https://x.com/ai_hakase_/status/2118540382145228865"
+      ],
+      "fetched_at": "2026-11-12T14:21:14.948119+00:00",
+      "path": "entries/coding-agent/xingchen-agi-xing4.0-29b-a4b.md",
+      "summary": "29B総パラメータ、トークンあたり4B活性のモデル。READMEは256Kのネイティブコンテキスト長と512Kへの拡張を記載している。マルチステップ計画やツール呼び出しを含むエージェント用途を想定し、README記載の評価結果にはSWE-bench Verified 75.0、Terminal-Bench 2.1 57"
     },
     {
       "name": "Klik Motion-Graphics System",
