@@ -1,5 +1,5 @@
 {
-  "count": 961,
+  "count": 962,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -6874,6 +6874,24 @@
       ],
       "fetched_at": "2026-11-10T18:09:22Z",
       "path": "articles/2026-11-04-author-almost-no-one-uses-ai-agents-to-book-their-uber-company-says.md"
+    },
+    {
+      "name": "Axion 1.0: Open Agent Foundation Models, Simplified",
+      "genre": "article",
+      "url": "https://arxiv.org/abs/2611.03233",
+      "published": "2026-11-02",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "ベンチマークでの性能に関する記述は著者らの報告であり、この確認では独立に検証していない。",
+      "type": "article",
+      "added": "2026-11-12",
+      "first_seen": "2026-11-12",
+      "sources": [
+        "https://x.com/ai_hakase_/status/2118569827044360253"
+      ],
+      "fetched_at": "2026-11-12T19:08:25Z",
+      "path": "articles/2026-11-02-author-axion-1.0-open-agent-foundation-models-simplified.md"
     },
     {
       "name": "Bring Agentic Coding On-Device with Foundry Local",
