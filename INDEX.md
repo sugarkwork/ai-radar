@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 964 件 — リポジトリ 637, リンク集 116, 記事 144, モデル 53, プロンプト 14 / ⚑ 要確認 751 件
+収録 965 件 — リポジトリ 637, リンク集 117, 記事 144, モデル 53, プロンプト 14 / ⚑ 要確認 752 件
 
 ## リポジトリ（637）
 
@@ -782,7 +782,7 @@
 - **[MiniMax H3：20種のダンスと音楽指定](prompts/video-gen/minimax-h3-20-dance-music.md)** ⚑  MiniMax H3 / EndFolding79421
   - キャラクターシートを参照し、6秒間の全身ダンスと音楽・環境音を指示するための投稿者のテンプレート。ダンス20種類の音楽指定例を含む。
 
-## リンク集（116）
+## リンク集（117）
 
 ### リンク（素材・アイコン・3D）（20）
 
@@ -870,10 +870,12 @@
 - **[uilabs — 動きのあるUI部品集](links/link-inspiration/uilabs.dev.md)** ⚑  uilabs — 動きのあるUI部品集
   - React UIの操作とモーションの実装例を調べる小さな部品集。
 
-### リンク（サービス・ツール）（19）
+### リンク（サービス・ツール）（20）
 
 - **[Aura](links/link-service/aura.build-aura.md)** ⚑  freemium / DESIGNCODE IO PTE. LTD.（Meng To / DesignCode）
   - テキストプロンプトからランディングページやマルチページのウェブサイトを生成し、ブラウザ上で視覚編集して公開・書き出しまで完結させるサービス。公式は「AI landing page builder that creates stunning designs in seconds」と説明している。
+- **[BT4G](links/link-service/bt4gprx.com-bt4g.md)** ⚑
+  - トレントのメタデータを検索するウェブサービス。
 - **[Banani](links/link-service/banani-co.md)**  freemium / Banani
   - テキストから UI を生成する AI デザインツール。プロンプトを「編集可能な UI デザイン」に変えることを狙う。ポストの説明（turn prompts into editable UI designs）と一致する。
 - **[Browserbase公式ドキュメント索引](links/link-service/docs.browserbase.com-browserbase.md)**  free / Browserbase
@@ -1813,6 +1815,7 @@
 - [recent.design](links/link-inspiration/https-recent.design.md) — unverified / 各作例の模倣・再配布は別途権利確認が必要。現在の有料条件と利用規約は未確認。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [uilabs — 動きのあるUI部品集](links/link-inspiration/uilabs.dev.md) — unverified / 投稿の12部品という総数は今回独立に数えていない。コードをプロジェクトに組み込む前に各部品の配布・利用条件を確認する。 当方では導入・生成・操作の実行検証をしていない。
 - [Aura](links/link-service/aura.build-aura.md) — unverified / 未確認: (1) MCPのツール一覧・レート制限・1操作あたりのプロンプト消費量は、Auraアカウントなしではtools/listを取得できず未確認（未認証は401のみ確認）。(2) 公開REST API/CLIの有無は公式文書で確認できず、api.aura.build はサイトと同じHTMLを返すだけ。(3) テンプレート/コンポーネント/アセット数はページ間で記述が食い違う（料金ページFAQ: 5,000+テンプレート・2,800+コンポーネント・30,000+アセット、learn/introduction: 1000+テンプレート・1400+コンポーネント・20,000+アセット）ため数値は採用しない。(4) 月払い価格は料金ページのプラン設定（配信JSバンドル）から取得し、年払い額はページ表示のプロモ価格。年払い50%オフは期間限定表示で終了時期は不明。(5) MCPエンドポイントは初回probeで401を確認したが、再試行時に25秒タイムアウトした（一時的な可能性）。生成品質・出力の再現性は実生成していないため未評価。
+- [BT4G](links/link-service/bt4gprx.com-bt4g.md) — low-quality, unverified / 公式DMCA案内のTakedownページは、BT4GがDHT上のトレントを自動で索引し、索引対象を確認しないと説明している。検索結果に不適切または悪意ある内容が含まれる可能性がある。 公式ページによれば索引作成は自動で、掲載内容を事前確認しない。検索結果やリンク先の安全性・権利状態は保証されない。
 - [CompShare（優云智算）](links/link-service/compshare.cn-compshare.md) — unverified / GPU の無料枠・トライアルの有無、本人確認（実名認証）の要否、表示価格の税込/税抜は未確認。対象URLには referral_code と ytag のアフィリエイト用パラメータが付いており、エントリでは正規URL（https://www.compshare.cn/）を使う。コミュニティイメージは作成者が乌兰察布(cn-wlcb-01)の RTX4090 のみで検証済みと明記。210GB のイメージ取得とストレージ課金が別途発生する。
 - [Grok Bot](links/link-service/docs.x.ai-grok-bot.md) — unverified / 投稿の収益主張（3か月で$315回収、Elon Musk の27Mビュー投稿の実践など）は一次情報で確認できない。同じ文面を複数アカウントが微妙に数値を変えて使い回しており（$315/$217 等）、収益誘導のテンプレートとみられる。投稿の『step-by-step breakdown』リンクはログイン必須の X 記事で本文未確認。grokbot.sh は同名の別ブログで、現在はドメイン売却ページになっており本製品とは無関係。製品仕様・料金は公式ドキュメントと料金ページで確認済み。
 - [Grok Bot Marketplace](links/link-service/x.ai-grok-bot-marketplace.md) — unverified / 「146」という総数は公式未確認（マーケットプレイスに総数の表示はなく、複数の第三者投稿がマーケット90＋ユースケース56と主張）。ボットの追加は無料だが、Grok Botの利用自体はPremium $30/月以上が必要で「完全無料」ではない。8体は第三者の出品で、品質・サポート・更新は作者依存（公式製ではない）。全ボットが1つのクラウドPCとファイル・ブラウザ・ログインを共有し、分離はユーザー単位のため、権限の広いアカウント連携は注意。投稿が引用する記事はログイン壁で本文未確認。
