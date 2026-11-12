@@ -1,5 +1,5 @@
 {
-  "count": 940,
+  "count": 941,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -8459,6 +8459,37 @@
       "fetched_at": "2026-11-10T14:10:20.961311+00:00",
       "path": "entries/coding-agent/nexu-io-open-design.md",
       "summary": "短い要件から、デザインシステムに沿うプロトタイプを作成し、チームからフィードバックを受けてエージェントに同じプロジェクト内で改善させる。READMEでは、スライド、画像、モーショングラフィックスの作成・確認・書き出しも紹介されている。"
+    },
+    {
+      "name": "Playwright",
+      "genre": "coding-agent",
+      "url": "https://github.com/microsoft/playwright",
+      "repo": "microsoft/playwright",
+      "license": "Apache-2.0",
+      "stars": 99952,
+      "language": "TypeScript",
+      "created": "2019-11-15",
+      "updated": "2026-11-12",
+      "forks": 6855,
+      "open_issues": 30,
+      "commits_30d": 100,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 246944,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景・有効性・依存関係・実行条件。",
+      "type": "repo",
+      "added": "2026-11-12",
+      "first_seen": "2026-11-12",
+      "sources": [
+        "https://x.com/kursormaxx/status/2118673610722144590"
+      ],
+      "fetched_at": "2026-11-12T11:11:07.075000+00:00",
+      "path": "entries/coding-agent/microsoft-playwright.md",
+      "summary": "公式READMEによると、PlaywrightはChromium・Firefox・WebKitを共通APIで操作するWeb自動化・テスト用フレームワーク。Playwright TestはブラウザーをまたぐE2Eテスト、CLIはコーディングエージェント向けブラウザー操作、MCPサーバーはアクセシビリティスナップショットを"
     },
     {
       "repo": "karpathy/autoresearch",
