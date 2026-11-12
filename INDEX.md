@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 959 件 — リポジトリ 633, リンク集 116, 記事 143, モデル 53, プロンプト 14 / ⚑ 要確認 746 件
+収録 960 件 — リポジトリ 634, リンク集 116, 記事 143, モデル 53, プロンプト 14 / ⚑ 要確認 747 件
 
-## リポジトリ（633）
+## リポジトリ（634）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### コーディングエージェント（95）
+### コーディングエージェント（96）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -84,6 +84,7 @@
 | [min-skill](entries/coding-agent/limin112-min-skill.md) ⚑ | 630 | 94 | 週次 | 14 | 2026-11-05 | 2026-11-11 | 2026-11-11 | unknown |
 | [Machine Skill](entries/coding-agent/airsuphq-machine-skill.md) ⚑ | 625 | 83 | 週次 | 8 | 2026-10-13 | 2026-11-10 | 2026-11-11 | MIT |
 | [Product Engineering](entries/coding-agent/phuryn-product-engineering.md) ⚑ | 455 | 59 | 毎日 | 100+ | 2026-11-08 | 2026-11-10 | 2026-11-11 | MIT |
+| [SeeCut](entries/coding-agent/yeje-cpu-seecut.md) ⚑ | 453 | 84 | 月次 | 2 | 2026-10-30 | 2026-11-12 | 2026-11-12 | unknown |
 | [OnlyShot](entries/coding-agent/a-cat-with-carrots-onlyshot.md) ⚑ | 408 | 43 | 週次 | 11 | 2026-11-12 | 2026-11-12 | 2026-11-12 | MIT |
 | [Video Studio Skill](entries/coding-agent/aaitor-skill-video-studio.md) ⚑ | 390 | 13 | 週次 | 8 | 2026-11-04 | 2026-11-10 | 2026-11-11 | MIT |
 | [Agent HUD](entries/coding-agent/jazzenchen-agent-hud-open.md) ⚑ | 326 | 54 | 毎日 | 100+ | 2026-11-10 | 2026-11-11 | 2026-11-11 | Apache-2.0 |
@@ -1675,6 +1676,7 @@
 - [min-skill](entries/coding-agent/limin112-min-skill.md) — unverified / 各Skill・ツールの詳細な依存関係や実行条件は、それぞれのディレクトリにあるREADMEで確認が必要。 GitHub APIでライセンスを確認できていません。
 - [Machine Skill](entries/coding-agent/airsuphq-machine-skill.md) — unverified / README記載の機能や数値はリポジトリの説明に基づき、独立検証していない。生成結果の精度や動作条件は未確認。
 - [Product Engineering](entries/coding-agent/phuryn-product-engineering.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
+- [SeeCut](entries/coding-agent/yeje-cpu-seecut.md) — unverified / README says the workflow has only been tested on macOS. The author reports Claude Code tested and other skill-capable agents theoretically compatible; those other agents are not independently verified here. An Antigravity CLI account and sufficient usage quota are required for video review and self-iteration. GitHub APIでライセンスを確認できていません。
 - [OnlyShot](entries/coding-agent/a-cat-with-carrots-onlyshot.md) — unverified / README記載の积分・費用は作者による2026-05時点の実測報告であり、独立実測ではない。
 - [Video Studio Skill](entries/coding-agent/aaitor-skill-video-studio.md) — unverified / 全工程の実行にはローカルのツール環境が必要。README記載の本番要件はNode.js 22以上、FFmpeg/ffprobe、Chromiumおよび補助ツール固有のPython依存関係。ナレーションやアバターには追加サービスまたはGPU環境が必要。効果や費用は確認できない。
 - [Agent HUD](entries/coding-agent/jazzenchen-agent-hud-open.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
