@@ -1,5 +1,5 @@
 {
-  "count": 956,
+  "count": 957,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -19504,6 +19504,37 @@
       "last_release_at": "2026-10-30",
       "path": "entries/other/wyattblue-auto-editor.md",
       "summary": "音声のラウドネス（既定 audio:threshold=0.04）、モーション、黒フレーム、字幕の語句一致から「切る区間」を判定し、初稿を書き出す。入力は動画・音声のほか、yt-dlp 導入時の URL、:mic でのマイク録音にも対応"
+    },
+    {
+      "name": "Bumblebee",
+      "genre": "other",
+      "url": "https://github.com/perplexityai/bumblebee",
+      "repo": "perplexityai/bumblebee",
+      "stars": 5148,
+      "forks": 464,
+      "open_issues": 49,
+      "size_kb": 173,
+      "language": "Go",
+      "created": "2026-05-20",
+      "updated": "2026-11-10",
+      "archived": false,
+      "license": "Apache-2.0",
+      "commits_30d": 0,
+      "commits_90d": 7,
+      "commit_cadence": "monthly",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景・有効性・実行条件。",
+      "type": "repo",
+      "added": "2026-11-12",
+      "first_seen": "2026-11-12",
+      "sources": [
+        "https://x.com/rvaniaaaa/status/2120861156801647094"
+      ],
+      "fetched_at": "2026-11-12T15:08:49.664301+00:00",
+      "path": "entries/other/perplexityai-bumblebee.md",
+      "summary": "macOS・Linuxの開発端末で、パッケージ、エディタ・ブラウザ拡張、対応するMCP設定などのメタデータを読み取り、NDJSON形式のコンポーネント記録を出力する。露出カタログを指定すると、既知の対象との一致を検出できる。READMEは「read-only exposure checks」と説明している。出典: ht"
     },
     {
       "name": "Y2A-Auto",
