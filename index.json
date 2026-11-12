@@ -1,5 +1,5 @@
 {
-  "count": 941,
+  "count": 942,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -9622,6 +9622,37 @@
       "fetched_at": "2026-11-09T21:36:25Z",
       "path": "entries/coding-agent/michael-denyer-pstack-claude.md",
       "summary": "入口は poteto-mode というスキル。依頼を渡すとタスク種別に応じた playbook を選び、バグ修正では「失敗の再現 → how / why で原因調査 → 修正の委任 → 失敗ケースの再実行」まで進める。返るのは修正と、失敗していた時・通った時の両方の証拠（README の Getting started"
+    },
+    {
+      "name": "Three.js Skills for Claude Code",
+      "genre": "coding-agent",
+      "url": "https://github.com/CloudAI-X/threejs-skills",
+      "repo": "CloudAI-X/threejs-skills",
+      "license": "MIT",
+      "stars": 4148,
+      "language": "unknown",
+      "created": "2026-01-19",
+      "updated": "2026-10-19",
+      "forks": 477,
+      "open_issues": 0,
+      "commits_30d": 20,
+      "commit_cadence": "daily",
+      "commits_90d": 20,
+      "size_kb": 169,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景・有効性・依存関係・実行条件。",
+      "type": "repo",
+      "added": "2026-11-12",
+      "first_seen": "2026-11-12",
+      "sources": [
+        "https://x.com/kursormaxx/status/2118673610722144590"
+      ],
+      "fetched_at": "2026-11-12T11:12:17.566111+00:00",
+      "path": "entries/coding-agent/cloudai-x-threejs-skills.md",
+      "summary": "Claude Codeでthree.jsを使う際の参照知識として、シーン構成、ジオメトリ、マテリアル、照明、テクスチャ、アニメーション、各種ローダー、シェーダー、ポストプロセス、インタラクション、性能、React Three Fiber、glTFアセット処理を扱う。READMEではthree.js r186（three"
     },
     {
       "name": "Scenario Agent Skills",
