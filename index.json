@@ -1,5 +1,5 @@
 {
-  "count": 942,
+  "count": 943,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -26822,6 +26822,37 @@
       "fetched_at": "2026-11-11T20:10:03.104881+00:00",
       "path": "entries/video-gen/doxas-twigl.md",
       "summary": "twigl.appはOne tweet shader向けのオンラインエディターです。READMEではGIF、WebM、JPEG、PNGの生成、サウンドシェーダー、ライブコーディングに対応すると説明しています。GLSL ES 3.0とMRTにも対応し、サウンドシェーダーが生成する音声データをグラフィックス用シェーダーでu"
+    },
+    {
+      "name": "ChatCut AI Video Editor",
+      "genre": "video-gen",
+      "url": "https://github.com/ChatCut-Inc/agent-plugin",
+      "repo": "ChatCut-Inc/agent-plugin",
+      "license": "Apache-2.0",
+      "stars": 1030,
+      "language": "JavaScript",
+      "created": "2026-06-25",
+      "updated": "2026-11-12",
+      "forks": 84,
+      "open_issues": 12,
+      "commits_30d": 100,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 143495,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEにはChatCut Desktopまたはホスト型ChatCut Webが必要とあるが、料金や各機能の利用条件は添付資料から確認できない。",
+      "type": "repo",
+      "added": "2026-11-12",
+      "first_seen": "2026-11-12",
+      "sources": [
+        "https://x.com/Ryrenz/status/2118524281537663296"
+      ],
+      "fetched_at": "2026-11-12T11:14:52.740874+00:00",
+      "path": "entries/video-gen/chatcut-inc-agent-plugin.md",
+      "summary": "READMEでは、エージェント向けのMCPサーバー／プラグインとして、手元の映像への字幕・字幕テキスト追加、無音やフィラー語の除去、モーショングラフィックス、動画・ボイスオーバー・音楽の生成、編集可能なタイムラインの書き出しを説明している。"
     },
     {
       "type": "repo",
