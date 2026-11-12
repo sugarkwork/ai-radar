@@ -1,5 +1,5 @@
 {
-  "count": 966,
+  "count": 967,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -8220,6 +8220,24 @@
       "risk_notes": "年500万円・価格7〜10倍は著者の自己申告。収益の再現性、PDFの内容・料金・権利条件は未確認。 当方でインストール・推論・生成・ベンチ再現はしていない。",
       "published": "2026-11-06",
       "path": "articles/2026-11-09-https-x.com-i-article-2117172572655849472.md"
+    },
+    {
+      "name": "無料の動画モーキャプ「RGB MoCap」を試したらすごかった話",
+      "genre": "article",
+      "url": "https://note.com/yosfuku/n/nf844a5ebb48c",
+      "published": "2026-11-07T21:19:00+09:00",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "記事で報告される処理時間、メモリ・VRAM使用量、精度や補正効果は著者の特定環境・動画での結果であり、独立した測定や一般的な性能保証ではない。",
+      "type": "article",
+      "added": "2026-11-12",
+      "first_seen": "2026-11-12",
+      "sources": [
+        "https://x.com/luaginga777/status/2119042246637187413"
+      ],
+      "fetched_at": "2026-11-12T23:09:02Z",
+      "path": "articles/2026-11-07-author-rgb-mocap.md"
     },
     {
       "name": "画像1枚から3Dの「Idol」を16GB GPUで動かした——キャラシート正面1枚が37秒で26万粒のガウシアンスプラットに。Blender 5.3はアドオンなしで読んで撮れた",
