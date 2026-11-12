@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 938 件 — リポジトリ 613, リンク集 116, 記事 142, モデル 53, プロンプト 14 / ⚑ 要確認 725 件
+収録 939 件 — リポジトリ 613, リンク集 116, 記事 143, モデル 53, プロンプト 14 / ⚑ 要確認 726 件
 
 ## リポジトリ（613）
 
@@ -1172,9 +1172,9 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（142）
+## 記事（143）
 
-### 記事（82）
+### 記事（83）
 
 - **[$0のデジタル参謀長で月$80,000の契約候補を作ったというX投稿（動画付き）](articles/2026-10-22-bober_smart-0-80-000-x.md)** ⚑  @Bober_smart
 - **[1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md)** ⚑  @mukadeshinigami（mukade死神）
@@ -1197,6 +1197,7 @@
 - **[Claude Codeの補足情報と実行時の権限制御](articles/2026-03-22-michael-livshits-claude-code.md)** ⚑  Michael Livshits
 - **[Coding Agents Copy Your Secrets to a Hidden File. Thousands Are on GitHub](articles/2026-11-05-apiiro-coding-agents-copy-your-secrets-to-a-hidden-file.-thousands-are-on-github.md)** ⚑  Apiiro
 - **[Control Room](articles/2026-11-09-openai-control-room.md)** ⚑  OpenAI
+- **[Covert underperformance on safety research tasks](articles/2026-11-04-author-covert-underperformance-on-safety-research-tasks.md)** ⚑
 - **[DatalabのIndra OCR初回公開](articles/2026-10-13-vik-paruchuri-datalab-indra-ocr.md)** ⚑  Vik Paruchuri
 - **[Design the Muse App, Just for You](articles/2026-11-06-author-design-the-muse-app-just-for-you.md)** ⚑
 - **[Eddie Woo の対数講義――「何倍になるまでの時間」を1本の対数で読む](articles/2026-09-14-xsmryze-eddie-woo-1-589eee2ad8.md)** ⚑  xsmryze
@@ -1526,6 +1527,7 @@
 - [Claude Codeの補足情報と実行時の権限制御](articles/2026-03-22-michael-livshits-claude-code.md) — unverified / リマインダーの効果は実測していない。実行権限は実行基盤で判定する。
 - [Coding Agents Copy Your Secrets to a Hidden File. Thousands Are on GitHub](articles/2026-11-05-apiiro-coding-agents-copy-your-secrets-to-a-hidden-file.-thousands-are-on-github.md) — unverified / 集計と挙動の再現はApiiroによる報告。調査対象の認証情報の有効性や、Claude Codeのバージョンごとの挙動は独立に検証していない。
 - [Control Room](articles/2026-11-09-openai-control-room.md) — unverified / 停止まで最大35秒はOpenAIの研究環境についての公表値。独立した計測や稼働環境での再現は行っていない。外部向けの実装・APIの提供は公式記事で確認できない。
+- [Covert underperformance on safety research tasks](articles/2026-11-04-author-covert-underperformance-on-safety-research-tasks.md) — unverified / 内部評価と社内Codex利用の観察に基づく報告であり、記載された性能差や頻度を一般の利用環境へそのまま当てはめられるとは示されていない。原因は特定されていない。
 - [DatalabのIndra OCR初回公開](articles/2026-10-13-vik-paruchuri-datalab-indra-ocr.md) — unverified / 性能は提供元の測定。モデル重みとコードのライセンス条件は異なる。
 - [Design the Muse App, Just for You](articles/2026-11-06-author-design-the-muse-app-just-for-you.md) — unverified / 実機での動作、対応する外部アプリと必要な権限、料金・利用条件、Metaのモデル評価の独立再現は未確認。
 - [Eddie Woo の対数講義――「何倍になるまでの時間」を1本の対数で読む](articles/2026-09-14-xsmryze-eddie-woo-1-589eee2ad8.md) — unverified / 主張: 投資が何倍になるまでの時間は対数1本で、Eddie Woo の5分の講義がそれを自明にする、という投稿。確認できたこと: Eddie Woo はシドニーの公立高校数学教師で、YouTube @misterwootube は登録者2.01M・5,043本・191,145,357回再生（2026-11-09取得）。添付動画は7分51秒の実授業映像で、白板の LOGARITHMS / 2^5=32 / log_2 32=5 / log_3 81=4 と 2,4,8,16,32・3,9,27,81 の説明が Woo の「Introduction to Logarithms (1 of 2: Definition)」（7:52, 2017-08-30）の内容と一致。数学も正しい（log_3 81=4、倍加時間 ln2/ln(1+r)、Rule of 72 は近似）。未確認: 引用元X記事（x.com/i/article/2087190920026365952）の本文はログイン要求で取得できず、fetch_article.py も失敗。動画の音声は未転記で、投稿の「5分で」は実際の7分51秒と一致しない。Rule of 72 は近似であり、実務では変動リターン・手数料・税金で変わる点は投稿に無い。

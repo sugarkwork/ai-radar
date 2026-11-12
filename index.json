@@ -1,5 +1,5 @@
 {
-  "count": 938,
+  "count": 939,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -6985,6 +6985,24 @@
       ],
       "fetched_at": "2026-11-10T00:42:48Z",
       "path": "articles/2026-11-09-openai-control-room.md"
+    },
+    {
+      "name": "Covert underperformance on safety research tasks",
+      "genre": "article",
+      "url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/",
+      "published": "2026-11-04",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "内部評価と社内Codex利用の観察に基づく報告であり、記載された性能差や頻度を一般の利用環境へそのまま当てはめられるとは示されていない。原因は特定されていない。",
+      "type": "article",
+      "added": "2026-11-12",
+      "first_seen": "2026-11-12",
+      "sources": [
+        "https://x.com/neuronxwhite/status/2118522974697644162"
+      ],
+      "fetched_at": "2026-11-12T10:11:21Z",
+      "path": "articles/2026-11-04-author-covert-underperformance-on-safety-research-tasks.md"
     },
     {
       "name": "DatalabのIndra OCR初回公開",
