@@ -1,5 +1,5 @@
 {
-  "count": 934,
+  "count": 935,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -26537,6 +26537,37 @@
       "type": "repo",
       "path": "entries/video-gen/dozentwelve-papermorph.md",
       "summary": "本や教材を、**アニメーション付き・ナレーション付き・インタラクティブな Web 教材**に変換する Claude Code 向けスキル。"
+    },
+    {
+      "name": "motion-graphics",
+      "genre": "video-gen",
+      "url": "https://github.com/Barty-Bart/motion-graphics",
+      "repo": "Barty-Bart/motion-graphics",
+      "license": "unknown",
+      "stars": 1209,
+      "language": "HTML",
+      "created": "2026-09-25",
+      "updated": "2026-10-13",
+      "forks": 176,
+      "open_issues": 3,
+      "commits_30d": 1,
+      "commit_cadence": "monthly",
+      "commits_90d": 10,
+      "size_kb": 41265,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-12",
+      "first_seen": "2026-11-12",
+      "sources": [
+        "https://x.com/PromptLabCN/status/2120750742785171596"
+      ],
+      "fetched_at": "2026-11-12T06:16:46.135617+00:00",
+      "path": "entries/video-gen/barty-bart-motion-graphics.md",
+      "summary": "READMEでは、Claude Code向けの用途別動画編集スキルとして、発話に合わせてモーショングラフィックスB-rollを作る、人物・製品・手を動画の背景から分離する、製品デモや短いプロモーション動画を作る、ビートに合わせた効果音を加える機能を案内している。これらはREADMEの説明であり、独立検証結果ではない。"
     },
     {
       "repo": "HeyChengC/vibe-knowledge-film",

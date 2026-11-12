@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 934 件 — リポジトリ 610, リンク集 116, 記事 141, モデル 53, プロンプト 14 / ⚑ 要確認 721 件
+収録 935 件 — リポジトリ 611, リンク集 116, 記事 141, モデル 53, プロンプト 14 / ⚑ 要確認 722 件
 
-## リポジトリ（610）
+## リポジトリ（611）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -105,7 +105,7 @@
 | [jevwire](entries/agent-framework/brainwires-jevwire.md) ⚑ | 27 | 6 | 週次 | 11 | 2026-11-06 | 2026-11-11 | 2026-11-11 | MIT |
 | [web-api-skills](entries/agent-framework/oxylabs-web-api-skills.md) | 13 | 1 | 週次 | 11 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
 
-### 動画生成パイプライン（90）
+### 動画生成パイプライン（91）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -167,6 +167,7 @@
 | [4DAnyone](entries/video-gen/ant-research-4danyone.md) | 1,488 | 106 | 月次 | 1 | 2026-10-14 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
 | [ComfyUI MiniMax H3 Director workflows](entries/video-gen/huangserva-comfyui_minimaxh3_director.md) ⚑ | 1,485 | 152 | 停滞 | 0 | 2026-08-04 | 2026-11-11 | 2026-11-11 | Apache-2.0 |
 | [Papermorph](entries/video-gen/dozentwelve-papermorph.md) | 1,476 | 190 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [motion-graphics](entries/video-gen/barty-bart-motion-graphics.md) ⚑ | 1,209 | 176 | 月次 | 1 | 2026-10-13 | 2026-11-12 | 2026-11-12 | unknown |
 | [vibe-knowledge-film](entries/video-gen/heychengc-vibe-knowledge-film.md) ⚑ | 1,191 | 112 | 月次 | 2 | 2026-10-13 | 2026-11-09 | 2026-11-10 | 未確認（GitHub API は NOASSERTION） |
 | [twigl](entries/video-gen/doxas-twigl.md) ⚑ | 1,110 | 65 | 停滞 | 0 | 2026-03-04 | 2026-11-11 | 2026-11-11 | MIT |
 | [Kablex/ComfyUI-Ref2VA-VSA](entries/video-gen/kablex-comfyui-ref2va-vsa.md) ⚑ | 1,027 | 127 | 月次 | 1 | 2026-10-17 | 2026-11-09 | 2026-11-10 | NOASSERTION |
@@ -2026,6 +2027,7 @@
 - [vasturiano/three-globe](entries/video-gen/vasturiano-three-globe.md) — unverified / MIT表記。汎用地球儀描画でAIモデルを含まない。制作費削減と描画性能は未検証。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [shinyobjectz/raea](entries/video-gen/shinyobjectz-raea.md) — unverified / canaryで日々の破壊的変更、Windowsは特に未検証と作者が注意。FSL-1.1-ALv2は競合利用制限があり2年後Apache移行、通常のApache OSSとは異なる。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [ComfyUI MiniMax H3 Director workflows](entries/video-gen/huangserva-comfyui_minimaxh3_director.md) — unverified / README报告的已验证环境仅覆盖 RTX 4090、ComfyUI 0.30.0、PyTorch 2.11.0 + CUDA 12.8 和 Ref2VA INT8；该环境下可运行 R2V、V2V、RV2V。T2V、I2V、FL2V 尚需 fl2va 权重。人物身份没有硬锁，README建议检查分段衔接与人物一致性。
+- [motion-graphics](entries/video-gen/barty-bart-motion-graphics.md) — unverified / GitHub APIでライセンスを確認できていません。
 - [vibe-knowledge-film](entries/video-gen/heychengc-vibe-knowledge-film.md) — unverified / ライセンス未確認（API は NOASSERTION、標準ライセンスファイル無し）。参照サンプルの転用可否も不明。
 - [twigl](entries/video-gen/doxas-twigl.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Kablex/ComfyUI-Ref2VA-VSA](entries/video-gen/kablex-comfyui-ref2va-vsa.md) — unverified / RTX4090の約72秒warm/13.5GBは作者表。zero face driftは設計主張で独立証明なし。2026-09-05作成で今回の新作ではない。 当方でインストール・推論・生成・ベンチ再現はしていない。
