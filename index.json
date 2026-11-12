@@ -1,5 +1,5 @@
 {
-  "count": 918,
+  "count": 919,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -10669,6 +10669,37 @@
       "fetched_at": "2026-11-10T03:37:26Z",
       "path": "entries/coding-agent/gdg-oau-agent-skills-gdg.md",
       "summary": "予約APIと画面アニメーションのスキル定義を参照できる。"
+    },
+    {
+      "name": "JobFit",
+      "genre": "coding-agent",
+      "url": "https://github.com/DU8866-nice/jobfit",
+      "repo": "DU8866-nice/jobfit",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "実モデル利用時は履歴書が選択したAIプロバイダーに送信される。READMEにはプロバイダーへの送信をページ上で案内するとあるが、実際の公開デモでの設定やデータ処理は確認していない。",
+      "stars": 1,
+      "forks": 0,
+      "open_issues": 1,
+      "size_kb": 495,
+      "language": "Python",
+      "created": "2026-10-29",
+      "updated": "2026-10-29",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 7,
+      "commits_90d": 7,
+      "commit_cadence": "weekly",
+      "type": "repo",
+      "added": "2026-11-12",
+      "first_seen": "2026-11-12",
+      "sources": [
+        "https://x.com/binbin_eth/status/2120710960247615505"
+      ],
+      "fetched_at": "2026-11-12T03:43:51.902742+00:00",
+      "path": "entries/coding-agent/du8866-nice-jobfit.md",
+      "summary": "求人票の要件を必須・歓迎に分け、履歴書との一致を「一致・一部一致・不足」で整理する。該当箇所の引用、求人票にあって履歴書にない語、既存の記述に基づく編集案、就労資格に関するフラグを表示する。英語・中国語に対応するとREADMEに記載。モデルの引用は履歴書内に存在するかコードで検証し、見つからない引用は除去する。"
     },
     {
       "type": "article",
