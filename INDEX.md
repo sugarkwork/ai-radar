@@ -142,7 +142,7 @@
 | [paperjs/paper.js](entries/video-gen/paperjs-paper.js.md) ⚑ | 15,192 | 1,260 | 毎日 | 100+ | 2026-11-06 | 2026-11-09 | 2026-11-10 | NOASSERTION |
 | [MoviePy](entries/video-gen/zulko-moviepy.md) ⚑ | 15,136 | 2,147 | 停滞 | 0 | 2026-08-26 | 2026-11-11 | 2026-11-11 | MIT |
 | [awesome-opus5-5-videos](entries/video-gen/yihui-dev-awesome-opus5-5-videos.md) | 14,532 | 1,532 | 週次 | 4 | 2026-10-13 | 2026-11-09 | 2026-11-10 | MIT |
-| [OpenCreator](entries/video-gen/krillinai-opencreator.md) | 14,269 | 1,590 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [OpenCreator](entries/video-gen/krillinai-opencreator.md) | 14,269 | 1,590 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-12 | Apache-2.0 |
 | [Lemo-Opuscar](entries/video-gen/lemomo-ai-lemo-opuscar.md) | 14,050 | 1,690 | 毎日 | 100+ | 2026-11-08 | 2026-11-09 | 2026-11-10 | MIT (コード) / CC BY 4.0 (スタイル記述) |
 | [WanGP](entries/video-gen/deepbeepmeep-wangp.md) | 11,549 | 1,875 | 毎日 | 66 | 2026-11-09 | 2026-11-09 | 2026-11-10 | WanGP Community License 2.0 |
 | [LTX-Video (Legacy)](entries/video-gen/lightricks-ltx-video.md) ⚑ | 11,358 | 1,230 | 月次 | 2 | 2026-11-02 | 2026-11-11 | 2026-11-11 | Apache-2.0 |

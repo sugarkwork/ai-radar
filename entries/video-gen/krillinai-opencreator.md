@@ -30,7 +30,7 @@ last_release_at: "2026-11-08"
 
 ## 出来ること
 
-- 動画翻訳: ローカル/公開動画を取り込み、クラウドまたはローカルの Whisper 系で文字起こし → LLM で文分割・用語・翻訳 → バイリンガル字幕・吹替・声サンプル・字幕スタイル・横/縦構成を設定し、SRT・音声・動画で書き出し。元言語123・訳先124（ピンイン含む）
+- 動画翻訳: ローカル/公開動画を取り込み、クラウドまたはローカルの Whisper 系で文字起こし → LLM で文分割・用語・翻訳 → バイリンガル字幕・吹替・声サンプル・字幕スタイル・横/縦構成を設定し、SRT・音声・動画で書き出し。元言語123・訳先124（ピンイン含む）。v3.3.0 では字幕翻訳のチェックポイントからの再開を改善し、後続の字幕補正に失敗した場合も有効な訳文を保持する。日中韓の文字を含む字幕の不要な分割も抑えた
 - 字幕だけの翻訳: SRT を読み込み、元動画・吹替・レンダリング無しで翻訳と確認ができる
 - 字幕エディタ: 再生に同期した波形とタイムライン、キュー単位の分割・結合、置換、スタイルのプレビュー
 - 動画ダウンローダ: YouTube / Bilibili / X / TikTok / Instagram / Douyin / Facebook / 小红书 / Pinterest / Reddit の単体動画を解析し、フォーマット比較のうえ動画か音声を保存。プラットフォーム字幕があれば SRT で取得
@@ -68,11 +68,11 @@ last_release_at: "2026-11-08"
 
 ## 最短手順
 
-- デスクトップ（最短）: https://github.com/krillinai/OpenCreator/releases/latest から macOS か Windows x64 のインストーラ（v3.3.0、約490〜540MB）を取得して起動。初回に既存の Codex 設定（サインイン/API キー）を再利用するか別プロバイダを入力する
+- デスクトップ: https://github.com/krillinai/OpenCreator/releases から対応するインストーラを取得。v3.3.0 の配布例は Apple Silicon 464 MB、Intel Mac 494 MB、Windows x64 514 MB（https://github.com/krillinai/OpenCreator/releases/tag/v3.3.0）。Codex CLI は同梱され、初回に既存のサインインや API キーを再利用できる
 - Codex CLI を先に用意する場合: `npm i -g @openai/codex && codex --version && codex login`
 - Web をソースから: `git clone --depth 1 https://github.com/krillinai/OpenCreator.git && cd OpenCreator && corepack enable && pnpm install && pnpm web:dev` → `http://127.0.0.1:19861/`
 - デーモンだけ動かす: `pnpm daemon:dev`（ループバックのみで待ち受け、接続先と一時トークンを stdout に1回だけ出す）
-- CLI をリリースから使う: `KrillinAI-CLI-3.3.0-linux-x64.tar.gz`（約12MB）を取得して展開し、展開先ルートで `cp config/config-example.toml config/config.toml` を作って `[llm]` `[transcribe]` `[tts]` を埋める（アーカイブ内の実行ファイル名と配置は未確認）
+- CLI をリリースから使う: v3.3.0 には Linux x64（11.9 MB）と Linux ARM64（11.5 MB）の CLI アーカイブがある。対応するアーカイブを取得して展開し、展開先ルートで `cp config/config-example.toml config/config.toml` を作って `[llm]` `[transcribe]` `[tts]` を埋める（アーカイブ内の実行ファイル名と配置は未確認）
 - CLI をソースからビルド: `pnpm krillinai:build` → `KRX=$PWD/.runtime/build/krillinai/$(node -p "process.platform+'-'+process.arch")/bin/krillinai-cli`（同シェル）
 - 字幕→縦動画の最小例: `cd runtime/krillinai && "$KRX" subtitle <URL or 動画パス> --origin-lang en --target-lang ja --workdir /abs/tasks/demo --prepare-video` → `"$KRX" render-vertical --workdir /abs/tasks/demo`
 - CLI の成果物は `krillinai_manifest.json` を正とする。`--dry-run` でコマンド形を検証し、`pipeline` は dry-run 専用（本実行は `unsupported_command`）
@@ -81,3 +81,4 @@ last_release_at: "2026-11-08"
 ## 変更履歴
 
 - 2026-11-07: 初回登録
+- v3.3.0: 字幕翻訳の復旧と配布物を公式リリースで確認（https://github.com/krillinai/OpenCreator/releases/tag/v3.3.0）
