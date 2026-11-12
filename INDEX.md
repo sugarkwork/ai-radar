@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 950 件 — リポジトリ 624, リンク集 116, 記事 143, モデル 53, プロンプト 14 / ⚑ 要確認 737 件
+収録 951 件 — リポジトリ 625, リンク集 116, 記事 143, モデル 53, プロンプト 14 / ⚑ 要確認 738 件
 
-## リポジトリ（624）
+## リポジトリ（625）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### 動画生成パイプライン（93）
+### 動画生成パイプライン（94）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Generative Models by Stability AI](entries/video-gen/stability-ai-generative-models.md) ⚑ | 27,343 | 3,091 | 停滞 | 0 | 2025-12-16 | 2026-11-11 | 2026-11-11 | MIT |
 | [processing/p5.js](entries/video-gen/processing-p5.js.md) ⚑ | 24,327 | 3,899 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | LGPL-2.1 |
 | [Video2X](entries/video-gen/k4yt3x-video2x.md) ⚑ | 22,687 | 1,982 | 停滞 | 0 | 2026-03-07 | 2026-11-11 | 2026-11-11 | AGPL-3.0 |
+| [Toonflow](entries/video-gen/hbai-ltd-toonflow-app.md) ⚑ | 21,535 | 3,885 | 毎日 | 38 | 2026-11-05 | 2026-11-12 | 2026-11-12 | MIT |
 | [LivePortrait](entries/video-gen/klingairesearch-liveportrait.md) ⚑ | 19,446 | 2,026 | 停滞 | 0 | 2026-06-01 | 2026-11-10 | 2026-11-11 | unknown |
 | [mojs/mojs](entries/video-gen/mojs-mojs.md) ⚑ | 18,895 | 902 | 停滞 | 0 | 2026-07-30 | 2026-11-09 | 2026-11-10 | MIT |
 | [liabru/matter-js](entries/video-gen/liabru-matter-js.md) ⚑ | 18,614 | 2,001 | 月次 | 0 | 2026-09-30 | 2026-11-09 | 2026-11-10 | MIT |
@@ -2033,6 +2034,7 @@
 - [Generative Models by Stability AI](entries/video-gen/stability-ai-generative-models.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [processing/p5.js](entries/video-gen/processing-p5.js.md) — unverified / LGPL-2.1であり他の一覧項目と同じMITではない。配布・改変条件と入力素材の権利を確認する。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Video2X](entries/video-gen/k4yt3x-video2x.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
+- [Toonflow](entries/video-gen/hbai-ltd-toonflow-app.md) — unverified / README does not specify installation steps, runtime prerequisites, or service and model usage costs.
 - [LivePortrait](entries/video-gen/klingairesearch-liveportrait.md) — unverified / ライセンスは提示された測定値でunknown。READMEの記載に基づく機能・手順であり、未記載の実行環境や効果は確認できていない。 GitHub APIでライセンスを確認できていません。
 - [mojs/mojs](entries/video-gen/mojs-mojs.md) — unverified / MIT表記。紹介リストの費用削減を裏付ける実例試験なし。現行依存・ブラウザ互換も未検証。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [liabru/matter-js](entries/video-gen/liabru-matter-js.md) — unverified / MIT表記。モーションの全自動制作を保証するものではない。数値安定性・性能は用途ごとの検証が必要で本調査未実行。 当方でインストール・推論・生成・ベンチ再現はしていない。

@@ -1,5 +1,5 @@
 {
-  "count": 950,
+  "count": 951,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -25436,6 +25436,37 @@
       "fetched_at": "2026-11-11T08:19:22.224059+00:00",
       "path": "entries/video-gen/k4yt3x-video2x.md",
       "summary": "動画のアップスケーリング（filtering）とフレーム補間に対応します。READMEによると、Anime4K v4およびMPV互換GLSLシェーダー、Real-ESRGAN、Real-CUGAN、RIFEを利用できます。モデルや画質に関する説明はREADMEに記載された作者の説明です。"
+    },
+    {
+      "name": "Toonflow",
+      "genre": "video-gen",
+      "url": "https://github.com/HBAI-Ltd/Toonflow-app",
+      "repo": "HBAI-Ltd/Toonflow-app",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "README does not specify installation steps, runtime prerequisites, or service and model usage costs.",
+      "stars": 21535,
+      "forks": 3885,
+      "open_issues": 4,
+      "size_kb": 297522,
+      "language": "TypeScript",
+      "created": "2026-01-29",
+      "updated": "2026-11-05",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 38,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "type": "repo",
+      "added": "2026-11-12",
+      "first_seen": "2026-11-12",
+      "sources": [
+        "https://x.com/superfang119/status/2118540239870599654"
+      ],
+      "fetched_at": "2026-11-12T13:17:49.859913+00:00",
+      "path": "entries/video-gen/hbai-ltd-toonflow-app.md",
+      "summary": "READMEでは、無限キャンバスで脚本や絵コンテを作成し、キャラクターやシーン素材を管理して、画像や動画を生成できると説明されている。ローカル配置、モデルの接続、AI Agent・MCP・プラグインによる拡張にも対応すると記載されている。"
     },
     {
       "name": "LivePortrait",
