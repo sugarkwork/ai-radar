@@ -1,5 +1,5 @@
 {
-  "count": 931,
+  "count": 932,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -26736,6 +26736,37 @@
       "fetched_at": "2026-11-10T10:56:31+00:00",
       "path": "entries/video-gen/andyhuo520-vibe-knowledge.md",
       "summary": "題材の調査、出典表と台本の作成、ナレーション、コードによる1080p60の逐次フレーム描画、品質チェック、公開用素材の準備を対話で進める。READMEはOCRによる照合、音量、フレームの静止、BGMの検査を記載している。"
+    },
+    {
+      "name": "Product Launch Motion",
+      "genre": "video-gen",
+      "url": "https://github.com/AbubakrChan/product-launch-motion",
+      "repo": "AbubakrChan/product-launch-motion",
+      "stars": 452,
+      "forks": 59,
+      "open_issues": 0,
+      "size_kb": 51948,
+      "language": "JavaScript",
+      "created": "2026-07-27",
+      "updated": "2026-10-21",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 33,
+      "commits_90d": 44,
+      "commit_cadence": "daily",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景・有効性・依存関係・実行条件。",
+      "type": "repo",
+      "added": "2026-11-12",
+      "first_seen": "2026-11-12",
+      "sources": [
+        "https://x.com/PromptLabCN/status/2120750742785171596"
+      ],
+      "fetched_at": "2026-11-12T06:13:54.236477+00:00",
+      "path": "entries/video-gen/abubakrchan-product-launch-motion.md",
+      "summary": "READMEでは、WebサイトのURLを入力として、Claude Codeが構成を作り、HTMLベースの動画を制作・レンダリングするスキルと説明されている。作者は音楽・効果音を同期させた60 fpsのMP4を出力すると述べている。これはREADME上の説明であり、独立した動作確認ではない。出典: https://git"
     },
     {
       "repo": "SwotAtmk/infinite-creation",

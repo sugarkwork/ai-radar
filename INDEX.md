@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 931 件 — リポジトリ 607, リンク集 116, 記事 141, モデル 53, プロンプト 14 / ⚑ 要確認 718 件
+収録 932 件 — リポジトリ 608, リンク集 116, 記事 141, モデル 53, プロンプト 14 / ⚑ 要確認 719 件
 
-## リポジトリ（607）
+## リポジトリ（608）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -105,7 +105,7 @@
 | [jevwire](entries/agent-framework/brainwires-jevwire.md) ⚑ | 27 | 6 | 週次 | 11 | 2026-11-06 | 2026-11-11 | 2026-11-11 | MIT |
 | [web-api-skills](entries/agent-framework/oxylabs-web-api-skills.md) | 13 | 1 | 週次 | 11 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
 
-### 動画生成パイプライン（89）
+### 動画生成パイプライン（90）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -175,6 +175,7 @@
 | [claude-video-effects](entries/video-gen/vibha-ramprakash-claude-video-effects.md) ⚑ | 839 | 202 | 週次 | 9 | 2026-11-09 | 2026-11-10 | 2026-11-10 | unknown |
 | [赛博小雅直播版（Cyber Xiaoya Live）](entries/video-gen/cyber-xiaoya-cyber-xiaoya-live.md) | 815 | 350 | 週次 | 18 | 2026-11-09 | 2026-11-09 | 2026-11-10 | AGPL-3.0（コードのみ。素材・ブランドは NOTICE で別扱い） |
 | [vibe-knowledge](entries/video-gen/andyhuo520-vibe-knowledge.md) ⚑ | 613 | 92 | 月次 | 3 | 2026-10-28 | 2026-11-10 | 2026-11-10 | MIT |
+| [Product Launch Motion](entries/video-gen/abubakrchan-product-launch-motion.md) ⚑ | 452 | 59 | 毎日 | 33 | 2026-10-21 | 2026-11-12 | 2026-11-12 | MIT |
 | [Infinite Creation（Agent无限创作）](entries/video-gen/swotatmk-infinite-creation.md) | 295 | 69 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
 | [comfyui-obvpm-timeline](entries/video-gen/chanon-comfyui-obvpm-timeline.md) | 270 | 34 | 週次 | 5 | 2026-10-23 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
 | [cinematic-shot](entries/video-gen/1weiho-skills.md) ⚑ | 240 | 8 | 週次 | 19 | 2026-10-29 | 2026-11-10 | 2026-11-11 | MIT |
@@ -2028,6 +2029,7 @@
 - [Story Studio（故事工坊）](entries/video-gen/konlu-story-studio.md) — unverified / 公開文書を確認。依存関係の自動セットアップ、文字起こしと分鏡の整合精度、剪映のバージョン別互換性、最新リリースは未検証。README はコードと Skill 仕様に MIT を明記する一方、GitHub API の計測値は unknown。収録台本・参考画像の個別の再利用条件は未確認。 GitHub APIでライセンスを確認できていません。
 - [claude-video-effects](entries/video-gen/vibha-ramprakash-claude-video-effects.md) — unverified / 公式 README は公開 raw URL で確認。最新リリース、顔追従・遮蔽処理・発話位置の精度、初回セットアップの所要時間、Codex 互換性は未確認。ライセンス欄は親の GitHub API 実測値 unknown を保持。MIT と同梱素材の個別ライセンスは README の記載に基づき、各ライセンス本文は未照合。 GitHub APIでライセンスを確認できていません。
 - [vibe-knowledge](entries/video-gen/andyhuo520-vibe-knowledge.md) — unverified / READMEと公開リリースの記載を確認。コードの実行、サンプルの視聴、出典の正確性、画質、処理時間、質検の検出精度、OS別の動作、外部サービスの現行料金は未検証。公開リリースの一覧で最新版タグを確認し、正確な公開日時は未確認。
+- [Product Launch Motion](entries/video-gen/abubakrchan-product-launch-motion.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [cinematic-shot](entries/video-gen/1weiho-skills.md) — unverified / 作者のデモ映像の画質・再現性、対応エージェントごとの導入とレンダリング、実行時間や費用は未検証。GitHubの公開リリース一覧には掲載なし。
 - [Otopilot](entries/video-gen/wj-sidiss-otopilot.md) — unverified / 機能は公式READMEとリリースノートで確認した。動画の生成、品質、処理時間、素材サービスの稼働、ライセンスフィルターの判定精度は実測していない。READMEはGitHubのraw配信で確認した。公開リリースページで最新版のタグを確認したが、公開日時の年とタイムゾーンは確認できていない。
 - [HyperFrames Motion Reel Skill](entries/video-gen/sunwood-ai-labs-hyperframes-motion-reel-skill.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
