@@ -1,5 +1,5 @@
 {
-  "count": 927,
+  "count": 928,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -10174,6 +10174,37 @@
       "fetched_at": "2026-11-10T12:28:27+00:00",
       "path": "entries/coding-agent/warpdotdev-common-skills.md",
       "summary": "PRの目的との整合性、影響範囲、検証の証拠、ロールバックの負担、障害検知のしやすさを評価し、総合リスクを低・中・高で返す。各観点ではリスクを高める不足点を挙げる。"
+    },
+    {
+      "name": "Motion Graphics Skill Pack",
+      "genre": "coding-agent",
+      "url": "https://github.com/charlie947/motion-graphics-skills",
+      "repo": "charlie947/motion-graphics-skills",
+      "stars": 648,
+      "forks": 86,
+      "open_issues": 2,
+      "size_kb": 12307,
+      "language": "Shell",
+      "created": "2026-09-26",
+      "updated": "2026-10-11",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 0,
+      "commits_90d": 28,
+      "commit_cadence": "monthly",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景・有効性・依存関係・実行条件。",
+      "type": "repo",
+      "added": "2026-11-12",
+      "first_seen": "2026-11-12",
+      "sources": [
+        "https://x.com/PromptLabCN/status/2120750742785171596"
+      ],
+      "fetched_at": "2026-11-12T06:12:31.553664+00:00",
+      "path": "entries/coding-agent/charlie947-motion-graphics-skills.md",
+      "summary": "READMEでは、ブランド設定、制作 brief の作成、参考動画の分析、プロモーション動画・解説動画・チャート・3Dタイトルなどの制作、リール用書き出しを行う15個のスキルを案内している。Claude Code と Codex での利用方法も記載されている。"
     },
     {
       "name": "min-skill",
