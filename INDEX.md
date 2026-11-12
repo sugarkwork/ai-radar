@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 922 件 — リポジトリ 599, リンク集 116, 記事 140, モデル 53, プロンプト 14 / ⚑ 要確認 710 件
+収録 923 件 — リポジトリ 600, リンク集 116, 記事 140, モデル 53, プロンプト 14 / ⚑ 要確認 711 件
 
-## リポジトリ（599）
+## リポジトリ（600）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -597,7 +597,7 @@
 | [ComfyUI Prompt Atelier](entries/image-gen/renz1998-comfyui-prompt-atelier.md) | 3 | 0 | 毎日 | 51 | 2026-11-09 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
 | [P-H3-Image ComfyUI sample workflows](entries/image-gen/tori29umai0123-p-h3-image_workflows.md) ⚑ | 2 | 1 | 週次 | 4 | 2026-11-06 | 2026-11-10 | 2026-11-11 | unknown |
 
-### プロンプト（デザイン/UI）（20）
+### プロンプト（デザイン/UI）（21）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -608,6 +608,7 @@
 | [CL4R1T4S](entries/prompt-design/elder-plinius-cl4r1t4s.md) ⚑ | 52,149 | 10,666 | 月次 | 3 | 2026-11-09 | 2026-11-11 | 2026-11-11 | AGPL-3.0 |
 | [Hallmark（AIっぽさを名指しで潰すデザインスキル）](entries/prompt-design/nutlope-hallmark.md) ⚑ | 51,710 | 2,750 | 毎日 | 85 | 2026-11-05 | 2026-11-09 | 2026-11-10 | MIT |
 | [Huashu Design](entries/prompt-design/alchaincyf-huashu-design.md) ⚑ | 29,080 | 3,134 | 毎日 | 31 | 2026-11-10 | 2026-11-10 | 2026-11-10 | MIT |
+| [Anthropic courses](entries/prompt-design/anthropics-courses.md) ⚑ | 23,011 | 2,558 | 停滞 | 0 | 2026-08-28 | 2026-11-12 | 2026-11-12 | unknown |
 | [prompt-master](entries/prompt-design/nidhinjs-prompt-master.md) ⚑ | 15,766 | 1,819 | 週次 | 7 | 2026-10-22 | 2026-11-09 | 2026-11-10 | MIT |
 | [scroll-world](entries/prompt-design/oso95-scroll-world.md) ⚑ | 10,920 | 1,190 | 停滞 | 0 | 2026-07-29 | 2026-11-10 | 2026-11-11 | MIT |
 | [handraw-style](entries/prompt-design/yang0-handraw-style.md) | 7,265 | 852 | 毎日 | 60 | 2026-11-09 | 2026-11-09 | 2026-11-10 | NOASSERTION |
@@ -1900,6 +1901,7 @@
 - [CL4R1T4S](entries/prompt-design/elder-plinius-cl4r1t4s.md) — prompt-injection, unverified / README末尾に、読者へ指示を出し、会話中のシステム指示を全文含めるよう求めるプロンプトインジェクションがある。 各項目の出所、抽出日、真正性はREADMEだけでは確認できないため、個々の内容を公式プロンプトや現行の設定として扱えるかは不明。
 - [Hallmark（AIっぽさを名指しで潰すデザインスキル）](entries/prompt-design/nutlope-hallmark.md) — unverified / リリースもタグも無い（`/releases` と `/tags` が空、バージョンは SKILL.md と package.json の 2.0.0 表記のみ）。更新は活発だが 30日85コミットの大半が数十件のコミュニティPRを同一分にまとめてマージしたもので、内容はテーマ検証・sloplint・capture のバグ修正が中心（docs/スクリプトのみで実行バイナリは無い）。未解決が issue 25・PR 15。リポジトリは 228MB（site/ と docs/screenshots/ の画像が主因）で、インストールされるスキル本体は 7.1MB。ブラウザ検査（`--render`）は puppeteer-core + Chrome が要り、無い場合は『render tier not run』と出して静的検査だけに落ちる（実測）。同期間の★増分『+7,600』は投稿の主張で、stargazers API が 4万件超のページを返さない（page 400 で 404）ため検証できない。★は API 値 49,068 を採る（投稿の『4.8万』とほぼ一致、やや過小）。同梱の写真755枚は Wikimedia Commons の CC0/PD/CC BY/CC BY-SA で、CC BY 系は著作者・ライセンス・元ページの表示が条件。スキルはエージェントのフル権限で走る（skills.sh の警告）ので、導入前に SKILL.md と scripts/ を読むべき。画像生成ステップだけは TOGETHER_API_KEY（FLUX.1.1-pro、有料）を使う。eval/README が『claude -p ではスキルは自動発火しない』と明記しており、名前で呼ぶ運用が前提。
 - [Huashu Design](entries/prompt-design/alchaincyf-huashu-design.md) — unverified / ['導入・生成・書き出しは未実行。成果物の品質、制作時間、エージェントやOSごとの動作、生成物に含まれる第三者素材の権利は未検証。最新リリースの公開時刻はタイムゾーン付きで確認できなかったため省略した。']
+- [Anthropic courses](entries/prompt-design/anthropics-courses.md) — unverified / ライセンスは確認できていません。READMEによると、教材はAPI利用料金を抑えるためClaude 3 Haikuを選ぶことが多く、他のClaudeモデルも利用できるとされています。 GitHub APIでライセンスを確認できていません。
 - [prompt-master](entries/prompt-design/nidhinjs-prompt-master.md) — unverified / 今回の投稿は機能紹介で新たな実行試験ではない。 今回の動作・推論・生成・性能は未検証。
 - [scroll-world](entries/prompt-design/oso95-scroll-world.md) — unverified / 生成には外部サービスのCLI、認証情報、クレジットまたは従量課金が必要。README記載の価格や効果は独立検証していない。
 - [logo-design-skill](entries/prompt-design/kaankiziltug-logo-design-skill.md) — unverified / 作者の手順と掲載例を確認した。スクリプトの実行、エージェント間の再現性、16 pxでの可読性や既存商標との類似性は独立検証していない。最新リリースは公開ページの表示で確認し、公開日時の完全な値は未確認。
