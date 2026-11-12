@@ -1,5 +1,5 @@
 {
-  "count": 935,
+  "count": 936,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -10422,6 +10422,37 @@
       "fetched_at": "2026-11-10T09:44:32+00:00",
       "path": "entries/coding-agent/xai-org-plugin-marketplace.md",
       "summary": "Grok Build 向けプラグインの取得元をカタログで探し、生成済みの索引でスキル、コマンド、サブエージェント、フック、MCP・LSP サーバーなどの同梱機能を導入前に確認できる。 [README](https://raw.githubusercontent.com/xai-org/plugin-marketplac"
+    },
+    {
+      "name": "Motion.dev Animations Skill",
+      "genre": "coding-agent",
+      "url": "https://github.com/199-biotechnologies/motion-dev-animations-skill",
+      "repo": "199-biotechnologies/motion-dev-animations-skill",
+      "license": "MIT",
+      "stars": 231,
+      "language": "TypeScript",
+      "created": "2025-11-07",
+      "updated": "2026-03-30",
+      "forks": 36,
+      "open_issues": 0,
+      "commits_30d": 0,
+      "commit_cadence": "stale",
+      "commits_90d": 0,
+      "size_kb": 76,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景・有効性・依存関係・実行条件。",
+      "type": "repo",
+      "added": "2026-11-12",
+      "first_seen": "2026-11-12",
+      "sources": [
+        "https://x.com/PromptLabCN/status/2120750742785171596"
+      ],
+      "fetched_at": "2026-11-12T06:17:27.762824+00:00",
+      "path": "entries/coding-agent/199-biotechnologies-motion-dev-animations-skill.md",
+      "summary": "READMEでは、Claude Codeが自然言語の指示からMotion.devを使ったTypeScript/JSXのアニメーションコードを生成するスキルと説明されています。例として、ヒーロー要素の登場、スクロール効果、ホバー、ドラッグ並べ替え、ボタンのマイクロインタラクションが挙げられています。README記載の性能"
     },
     {
       "name": "AI Second Brain",
