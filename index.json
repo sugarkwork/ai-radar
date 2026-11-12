@@ -1,5 +1,5 @@
 {
-  "count": 921,
+  "count": 922,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -14378,6 +14378,37 @@
       "amplifiers": [],
       "path": "links/link-asset/tools.oyasumi-gamedev.com-haikeigacha.md",
       "summary": "漫画・イラストの背景を、ブラウザ上で部品を組み合わせて作る無料ツール。3Dモデリングなしで、部屋・建物・街並みのラフを作る。"
+    },
+    {
+      "name": "Awesome Claude Code",
+      "genre": "link-inspiration",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code",
+      "repo": "hesreallyhim/awesome-claude-code",
+      "license": "unknown",
+      "stars": 57801,
+      "language": "Python",
+      "created": "2025-04-19",
+      "updated": "2026-11-12",
+      "forks": 4938,
+      "open_issues": 1258,
+      "commits_30d": 100,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 36843,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "ライセンスはGitHub API上でunknown。利用・再配布条件は確認できていない。 GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-12",
+      "first_seen": "2026-11-12",
+      "sources": [
+        "https://x.com/Bober_smart/status/2118429681892364383"
+      ],
+      "fetched_at": "2026-11-12T03:47:17.093679+00:00",
+      "path": "entries/link-inspiration/hesreallyhim-awesome-claude-code.md",
+      "summary": "Claude Code向けのskills、agents、status lines、開発者ツール、pluginsなどのリソースを一覧から探せる。READMEは「A hand-picked collection」と説明している。"
     },
     {
       "name": "Awesome DeepSeek Harness (DSH) Plugin",

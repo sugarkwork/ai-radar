@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 921 件 — リポジトリ 598, リンク集 116, 記事 140, モデル 53, プロンプト 14 / ⚑ 要確認 709 件
+収録 922 件 — リポジトリ 599, リンク集 116, 記事 140, モデル 53, プロンプト 14 / ⚑ 要確認 710 件
 
-## リポジトリ（598）
+## リポジトリ（599）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -676,10 +676,11 @@
 | [niubigeo](entries/agent/albert-weasker-niubigeo.md) ⚑ | 10,180 | 822 | 週次 | 12 | 2026-11-03 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
 | [ontosmith](entries/agent/dongbumlee-ontosmith.md) ⚑ | 259 | 26 | 毎日 | 100+ | 2026-11-08 | 2026-11-09 | 2026-11-10 | MIT |
 
-### リンク（作例・インスピレーション）（2）
+### リンク（作例・インスピレーション）（3）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
+| [Awesome Claude Code](entries/link-inspiration/hesreallyhim-awesome-claude-code.md) ⚑ | 57,801 | 4,938 | 毎日 | 100+ | 2026-11-12 | 2026-11-12 | 2026-11-12 | unknown |
 | [Awesome DeepSeek Harness (DSH) Plugin](entries/link-inspiration/awesome-dsh-plugin-awesome-dsh-plugin.md) ⚑ | 24,324 | 7,990 | 毎日 | 100+ | 2026-11-11 | 2026-11-11 | 2026-11-11 | CC0-1.0 |
 | [Awesome AI Drama](entries/link-inspiration/du8866-nice-awesome-ai-drama.md) ⚑ | 2 | 2 | 週次 | 5 | 2026-11-09 | 2026-11-12 | 2026-11-12 | CC0-1.0 |
 
@@ -1732,6 +1733,7 @@
 - [Weight Paint Box](links/link-asset/superhivemarket.com-weight-paint-box.md) — unverified / なし
 - [useAnimations — 動くアイコン300点](links/link-asset/useanimations.com.md) — unverified / 素材を再配布する場合はMITの著作権・許諾表示を保持する。サイトへのクレジットは任意だがライセンス表示義務とは別。全アイコンの表示やSSR動作は当方未試験。 当方では導入・生成・操作の実行検証をしていない。
 - [背景ガチャ（九龍城砦セット＋パース補助線）](links/link-asset/tools.oyasumi-gamedev.com-haikeigacha.md) — unverified / AIツールではなく、家具900以上をプログラムで組み合わせる手続き型の背景ジェネレータ（公式の仕組み解説に明記）。開発時のAI利用はClaude Codeのみ。部屋150種類以上に住宅・学校・洋館・中世の城・教会・九龍城砦のセットを追加。パース補助線は書き出しの『下絵（なぞる用）』でアイレベル線・パース補助線・消失点を別レイヤーに分離し、PSDはパースフォルダ内の各レイヤー、SVGは別ファイル、vp.txtに座標を出力する。ブラウザ完結・外部送信なし。β版で、版が上がると同seedでも部屋の作りが変わり得る。書き出し品質・PSDレイヤー構成は未確認（ブラウザツールのため実行検証は未実施）。
+- [Awesome Claude Code](entries/link-inspiration/hesreallyhim-awesome-claude-code.md) — unverified / ライセンスはGitHub API上でunknown。利用・再配布条件は確認できていない。 GitHub APIでライセンスを確認できていません。
 - [Awesome DeepSeek Harness (DSH) Plugin](entries/link-inspiration/awesome-dsh-plugin-awesome-dsh-plugin.md) — unverified / 掲載はセキュリティ審査を意味しません。READMEは、導入した第三者プラグインが利用者権限で動作し、ファイル・認証情報・ネットワークにアクセスしうると明記しています。
 - [Awesome AI Drama](entries/link-inspiration/du8866-nice-awesome-ai-drama.md) — unverified / 目录中的项目能力、维护状态及“真正能用”等评价是 README 的整理说明，未在本次审查中逐项核验；README 引用的行业数据也未独立确认。
 - [Claude Code に Blender のシーンをコードで書かせて voxel キャラを踊らせる手順（投稿）](links/link-inspiration/x.com-claude-code-blender-voxel.md) — unverified / 投稿内の `blender -b -P https://t.co/ueDlwhvcq2` のリンク先 scene.py は DNS 解決不可（HTTP 000、Wayback スナップショットも 0 件）で、投稿が想定したスクリプト／記事の実体を確認できない。X の引用元は Article 2109318233866006528 でログイン必須のため本文未取得。「Opus 5.5 が無料で1000倍良い」は投稿者の主張で、比較測定は無い。動画は 3D ビューポートそのものではなく UI オーバーレイ付きの演出済みデモ（ログ表示は擬似 UI）であり、719 voxels / 12 joints / 16 秒 / 120bpm は投稿者と動画の自己申告値。実際の再現には Blender 5.2 系と Claude Code、上記2スキルが必要。
