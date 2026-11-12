@@ -1,5 +1,5 @@
 {
-  "count": 962,
+  "count": 963,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -5905,6 +5905,37 @@
       "fetched_at": "2026-11-10T23:20:27.907597+00:00",
       "path": "entries/agent-framework/codepawl-creator-generalist.md",
       "summary": "2D・3Dの画像や映像、キャラクター、地図、図表、背景、アニメーション、動画編集、音声制作などに使うエージェント向けスキルを提供する。READMEには、3D制作にBlender、Three.js、67jsを使う手順や、2D制作に無料ツールを使う手順などが記載されている。"
+    },
+    {
+      "name": "Axion 1.0",
+      "genre": "agent-framework",
+      "url": "https://github.com/bytedance/axion1_0",
+      "repo": "bytedance/axion1_0",
+      "stars": 72,
+      "forks": 6,
+      "open_issues": 4,
+      "size_kb": 4045,
+      "language": "Python",
+      "created": "2026-11-02",
+      "updated": "2026-11-11",
+      "archived": false,
+      "license": "Apache-2.0",
+      "commits_30d": 39,
+      "commits_90d": 39,
+      "commit_cadence": "daily",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景・有効性・依存関係・実行条件。",
+      "type": "repo",
+      "added": "2026-11-12",
+      "first_seen": "2026-11-12",
+      "sources": [
+        "https://x.com/ai_hakase_/status/2118569827044360253"
+      ],
+      "fetched_at": "2026-11-12T19:08:45.737408+00:00",
+      "path": "entries/agent-framework/bytedance-axion1_0.md",
+      "summary": "科学・数学の自己完結型推論問題とツール依存型推論問題のデータ構築、2段階の教師あり微調整（SFT）、非同期GRPOによる強化学習、ベンチマークの準備と採点のコードを提供する。READMEは、ツール利用時の検索・ウェブページ閲覧・学術情報取得・Pythonとのエージェント対話をRLの対象として記載している。"
     },
     {
       "name": "vouch",
