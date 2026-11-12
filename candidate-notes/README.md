@@ -9,6 +9,10 @@
 - [X: zobotics の投稿](https://x.com/zobotics/status/2118424216760680937)
   - 候補の対象が複数あり、一意に特定できませんでした。
   - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://x.com/zobotics/status/2118424216760680937>。
+- [X: yousayblah の投稿](https://x.com/yousayblah/status/2118471125713715542)
+  - 対象を裏付ける公開一次資料を確認できませんでした。
+- [X: yama_boku の投稿](https://x.com/yama_boku/status/2120708486430679148)
+  - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: xsmryze の投稿](https://x.com/xsmryze/status/2118454062727172555)
   - 対象を裏付ける公開一次資料を確認できませんでした。
   - 公開に必須の根拠がそろっていません。
@@ -56,8 +60,13 @@
 - [X: superfang119 の投稿](https://x.com/superfang119/status/2118330533801529837)
   - 候補の対象が複数あり、一意に特定できませんでした。
   - 対象を裏付ける公開一次資料を確認できませんでした。
+- [X: sumika45379 の投稿](https://x.com/sumika45379/status/2118470935053541468)
+  - 公開に必須の根拠がそろっていません。
 - [X: sumika45379 の投稿](https://x.com/sumika45379/status/2118292245107683494)
   - 対象を裏付ける公開一次資料を確認できませんでした。
+- [X: sep_is_heim の投稿](https://x.com/sep_is_heim/status/2118468897397756055)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+  - 元投稿と配布先が同一対象であることを裏付けられませんでした。
 - [X: sep_is_heim の投稿](https://x.com/sep_is_heim/status/2118293989992661049)
   - 候補の対象が複数あり、一意に特定できませんでした。
   - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://x.com/sep_is_heim/status/2118293989992661049>。
@@ -99,6 +108,8 @@
   - GitHub APIで元のリポジトリを確認できませんでした。
 - [X: lucasjamali の投稿](https://x.com/lucasjamali/status/2120513123215888591)
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+- [X: jarvis11x の投稿](https://x.com/jarvis11x/status/2118480168511803589)
+  - 公開に必須の根拠がそろっていません。
 - [X: iasg1004 の投稿](https://x.com/iasg1004/status/2120513671495344563)
   - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: happy_analytics の投稿](https://x.com/happy_analytics/status/2120665283530744053)
@@ -150,6 +161,8 @@
   - 候補の対象が複数あり、一意に特定できませんでした。
 - [X: bdsqlsz の投稿](https://x.com/bdsqlsz/status/2118373375232123191)
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+- [X: Yooeec3 の投稿](https://x.com/Yooeec3/status/2118659806269780267)
+  - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: Y0urDumble の投稿](https://x.com/Y0urDumble/status/2118390619680714952)
   - 掲載先URLの正常なHTTP応答を確認できませんでした。
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
@@ -178,6 +191,8 @@
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 - [X: ModelingTechNT の投稿](https://x.com/ModelingTechNT/status/2118312373941633396)
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+- [X: Machinedelusion の投稿](https://x.com/Machinedelusion/status/2118480227135365270)
+  - 下書きが公開用の検証基準を満たしていません。
 - [X: Machinedelusion の投稿](https://x.com/Machinedelusion/status/2118398689706217516)
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 - [X: Khaled865412521 の投稿](https://x.com/Khaled865412521/status/2120664495173353513)
