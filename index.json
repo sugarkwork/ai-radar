@@ -1,5 +1,5 @@
 {
-  "count": 923,
+  "count": 924,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -26977,6 +26977,37 @@
       "commits_90d": 29,
       "path": "entries/video-gen/tencent-weviscut.md",
       "summary": "長文の知識記事／ナレーション原稿を渡すと、章分割・ショット設計・ナレーション合成・素材検索・テンプレート装飾・BGM選曲・品質判定・自己修復・結合までを、1回あたり**約12回のツール呼び出し**で通しで行う"
+    },
+    {
+      "name": "VidDub",
+      "genre": "video-gen",
+      "url": "https://github.com/LAW1223/VidDub",
+      "repo": "LAW1223/VidDub",
+      "license": "unknown",
+      "stars": 64,
+      "language": "Python",
+      "created": "2026-10-29",
+      "updated": "2026-11-10",
+      "forks": 0,
+      "open_issues": 2,
+      "commits_30d": 8,
+      "commit_cadence": "weekly",
+      "commits_90d": 8,
+      "size_kb": 2308,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "リポジトリAPI上のライセンスはunknown。READMEのライセンス表示だけでは具体的な利用条件を確認できない。 GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-12",
+      "first_seen": "2026-11-12",
+      "sources": [
+        "https://x.com/Machinedelusion/status/2118436438614196297"
+      ],
+      "fetched_at": "2026-11-12T03:50:04.466784+00:00",
+      "path": "entries/video-gen/law1223-viddub.md",
+      "summary": "置換音声に合わせて動画の発話動作を編集する、音声駆動の動画吹き替えシステム。READMEでは、人物の外見・動き・シーンを保ちながら発話を置き換える設計、2ステップ推論、長尺動画向けの重複窓処理を説明している。"
     },
     {
       "repo": "mo-akkakk/ComfyUI-MiniMaxH3-TemporalWindow-SpatialTiles",
