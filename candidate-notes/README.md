@@ -92,8 +92,20 @@
 - [X: ai_hacks_akira の投稿](https://x.com/ai_hacks_akira/status/2118554295721480561)
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
   - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://github.com/anthropics/skills>。
+- [X: RealMarvelX の投稿](https://x.com/RealMarvelX/status/2118598459020153262)
+  - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://github.com/OpenSelena/omniget>。
 - [X: RealMarvelX の投稿](https://x.com/RealMarvelX/status/2118583059507200011)
   - 対象を裏付ける公開一次資料を確認できませんでした。
+- [X: Leviwoyun の投稿](https://x.com/Leviwoyun/status/2118597904852222392)
+  - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+- [X: Leviwoyun の投稿](https://x.com/Leviwoyun/status/2118592847779930247)
+  - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+- [X: Leviwoyun の投稿](https://x.com/Leviwoyun/status/2118590362726150461)
+  - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+- [X: Leviwoyun の投稿](https://x.com/Leviwoyun/status/2118590318694342668)
+  - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+- [X: Leviwoyun の投稿](https://x.com/Leviwoyun/status/2118589946428883449)
+  - 元投稿と配布先が同一対象であることを裏付けられませんでした。
 - [X: Leviwoyun の投稿](https://x.com/Leviwoyun/status/2118570744250880325)
   - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: Jackywine の投稿](https://x.com/Jackywine/status/2118562780383216113)
