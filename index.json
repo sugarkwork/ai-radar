@@ -1,5 +1,5 @@
 {
-  "count": 951,
+  "count": 952,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -10179,6 +10179,37 @@
       "fetched_at": "2026-11-10T11:48:17Z",
       "path": "entries/coding-agent/openai-php2shell-checker.md",
       "summary": "URLモードは管理対象サイトがHTTPヘッダーで公開するPHP版数を読み取り、OK、POTENTIALLY VULNERABLE、UNKNOWNのいずれかを返す。JSON出力にも対応する。攻撃用のリクエストは送信しない。"
+    },
+    {
+      "name": "EvoSkill",
+      "genre": "coding-agent",
+      "url": "https://github.com/sentient-agi/EvoSkill",
+      "repo": "sentient-agi/EvoSkill",
+      "stars": 1298,
+      "forks": 134,
+      "open_issues": 21,
+      "size_kb": 8819,
+      "language": "Python",
+      "created": "2026-03-04",
+      "updated": "2026-10-26",
+      "archived": false,
+      "license": "Apache-2.0",
+      "commits_30d": 0,
+      "commits_90d": 0,
+      "commit_cadence": "stale",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景・有効性・依存関係・実行条件。",
+      "type": "repo",
+      "added": "2026-11-12",
+      "first_seen": "2026-11-12",
+      "sources": [
+        "https://x.com/slatro_eth/status/2120861866712838495"
+      ],
+      "fetched_at": "2026-11-12T14:18:16.262396+00:00",
+      "path": "entries/coding-agent/sentient-agi-evoskill.md",
+      "summary": "ベンチマーク上で複数のスキルやプロンプトの変更案を評価し、新しいエージェントプログラムを作成する。READMEではClaude Code、OpenCode、OpenHands、Goose、Codex CLI、Harborへの対応を挙げている。README: https://github.com/sentient-agi"
     },
     {
       "repo": "wilwaldon/Claude-Code-Frontend-Design-Toolkit",
