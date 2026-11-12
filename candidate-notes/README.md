@@ -6,6 +6,9 @@
 
 ## 2026-11-12（日本時間）
 
+- [X: zobotics の投稿](https://x.com/zobotics/status/2118424216760680937)
+  - 候補の対象が複数あり、一意に特定できませんでした。
+  - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://x.com/zobotics/status/2118424216760680937>。
 - [X: wquguru の投稿](https://x.com/wquguru/status/2118352277107101969)
   - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://x.com/wquguru/status/2118352277107101969>。
 - [X: wquguru の投稿](https://x.com/wquguru/status/2118344919454810429)
@@ -15,6 +18,8 @@
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
   - 公開に必須の根拠がそろっていません。
   - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://x.com/wquguru/status/2118342047518363955>。
+- [X: tomgoldsteincs の投稿](https://x.com/tomgoldsteincs/status/2118394191764169001)
+  - 元投稿と配布先が同一対象であることを裏付けられませんでした。
 - [X: tokufxug の投稿](https://x.com/tokufxug/status/2118362287081918964)
   - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://x.com/tokufxug/status/2118362287081918964>。
 - [X: tokufxug の投稿](https://x.com/tokufxug/status/2118354543763501510)
@@ -25,6 +30,9 @@
   - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: tokufxug の投稿](https://x.com/tokufxug/status/2118349774349066550)
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+- [X: thegreatest_sv の投稿](https://x.com/thegreatest_sv/status/2118410014922805250)
+  - 候補の対象が複数あり、一意に特定できませんでした。
+  - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: thegreatest_sv の投稿](https://x.com/thegreatest_sv/status/2118374136799985771)
   - 候補の対象が複数あり、一意に特定できませんでした。
   - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://github.com/nextlevelbuilder/ui-ux-pro-max-skill>。
@@ -67,6 +75,8 @@
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
 - [X: naka_1717 の投稿](https://x.com/naka_1717/status/2118295722571567371)
   - 下書きが公開用の検証基準を満たしていません。 照合済み参照先: <https://x.com/naka_1717/status/2118295722571567371>。
+- [X: mingzi206 の投稿](https://x.com/mingzi206/status/2118380708922364068)
+  - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://github.com/mmdoctor/google-pro-helper>。
 - [X: mingzi206 の投稿](https://x.com/mingzi206/status/2118374215254671454)
   - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://github.com/mmdoctor/google-pro-helper>。
 - [X: mingzi206 の投稿](https://x.com/mingzi206/status/2118347518199451946)
@@ -82,6 +92,10 @@
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 - [X: iasg1004 の投稿](https://x.com/iasg1004/status/2120513671495344563)
   - 対象を裏付ける公開一次資料を確認できませんでした。
+- [X: happy_analytics の投稿](https://x.com/happy_analytics/status/2120665283530744053)
+  - 公開に必須の根拠がそろっていません。
+- [X: gippp69 の投稿](https://x.com/gippp69/status/2118391554964418937)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 - [X: ganfanren_ai の投稿](https://x.com/ganfanren_ai/status/2118313579049009485)
   - 公開に必須の根拠がそろっていません。
 - [X: fhwofjow51260 の投稿](https://x.com/fhwofjow51260/status/2118331005375541552)
@@ -115,9 +129,22 @@
   - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: cookie_sns の投稿](https://x.com/cookie_sns/status/2118629478289326548)
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+- [X: bernvadell の投稿](https://x.com/bernvadell/status/2118399908545765879)
+  - 候補の対象が複数あり、一意に特定できませんでした。
+  - 対象を裏付ける公開一次資料を確認できませんでした。
+  - 公開に必須の根拠がそろっていません。
 - [X: bernvadell の投稿](https://x.com/bernvadell/status/2118379432272380290)
   - 候補の対象が複数あり、一意に特定できませんでした。
 - [X: bdsqlsz の投稿](https://x.com/bdsqlsz/status/2118373375232123191)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+- [X: Y0urDumble の投稿](https://x.com/Y0urDumble/status/2118390619680714952)
+  - 掲載先URLの正常なHTTP応答を確認できませんでした。
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+  - 対象を裏付ける公開一次資料を確認できませんでした。
+  - 公開に必須の根拠がそろっていません。
+- [X: RealMarvelX の投稿](https://x.com/RealMarvelX/status/2118416730427121930)
+  - 公開に必須の根拠がそろっていません。
+- [X: RealMarvelX の投稿](https://x.com/RealMarvelX/status/2118416164476916071)
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 - [X: RealMarvelX の投稿](https://x.com/RealMarvelX/status/2118386966156701958)
   - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://x.com/RealMarvelX/status/2118386966156701958>。
@@ -134,11 +161,23 @@
   - 候補の対象が複数あり、一意に特定できませんでした。
   - 対象を裏付ける公開一次資料を確認できませんでした。
   - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://x.com/PayneL_AI/status/2118322639936909786>。
+- [X: Muse の投稿](https://x.com/Muse/status/2118411960337289583)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 - [X: ModelingTechNT の投稿](https://x.com/ModelingTechNT/status/2118312373941633396)
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+- [X: Machinedelusion の投稿](https://x.com/Machinedelusion/status/2118398689706217516)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+- [X: Khaled865412521 の投稿](https://x.com/Khaled865412521/status/2120664495173353513)
+  - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+  - 公開に必須の根拠がそろっていません。
 - [X: Jack_FluxAI の投稿](https://x.com/Jack_FluxAI/status/2118318397708812364)
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+- [X: ItsmeAjayKV の投稿](https://x.com/ItsmeAjayKV/status/2118640141879390497)
+  - 候補の対象が複数あり、一意に特定できませんでした。
 - [X: HugoDuprez の投稿](https://x.com/HugoDuprez/status/2118383938871664784)
+  - 公開に必須の根拠がそろっていません。
+- [X: HarryTandy の投稿](https://x.com/HarryTandy/status/2118399873816854936)
+  - 対象を裏付ける公開一次資料を確認できませんでした。
   - 公開に必須の根拠がそろっていません。
 - [X: HamdiAmer16 の投稿](https://x.com/HamdiAmer16/status/2118381791954264419)
   - 公開に必須の根拠がそろっていません。
