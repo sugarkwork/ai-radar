@@ -1,5 +1,5 @@
 {
-  "count": 936,
+  "count": 937,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -7639,6 +7639,24 @@
       ],
       "fetched_at": "2026-11-10T05:45:51Z",
       "path": "articles/2026-10-21-jacob-cooper-railway-railway-api.md"
+    },
+    {
+      "name": "RelayVSR: Large–Small Model Collaboration for Efficient Real-World Video Super-Resolution",
+      "genre": "article",
+      "url": "https://kopperx.github.io/RelayVSR/",
+      "published": "2026-09-29",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "FPS・GPUメモリ・品質評価は論文著者による実験報告。単一のNVIDIA A100 80GBでのモデル推論結果であり、ComfyUI版の動作や投稿にある14 GB VRAMでの30 FPSを裏付けるものではない。双方向参照では入力30 FPS時に最大0.5秒の先読み待ちがあると論文に記載。",
+      "type": "article",
+      "added": "2026-11-12",
+      "first_seen": "2026-11-12",
+      "sources": [
+        "https://x.com/wildmindai/status/2118493695100289374"
+      ],
+      "fetched_at": "2026-11-12T06:20:38Z",
+      "path": "articles/2026-09-29-author-relayvsr-large-small-model-collaboration-for-efficient-real-world-video-super-re.md"
     },
     {
       "name": "RenderのAIエージェント向けドキュメント設計",

@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 936 件 — リポジトリ 612, リンク集 116, 記事 141, モデル 53, プロンプト 14 / ⚑ 要確認 723 件
+収録 937 件 — リポジトリ 612, リンク集 116, 記事 142, モデル 53, プロンプト 14 / ⚑ 要確認 724 件
 
 ## リポジトリ（612）
 
@@ -1171,9 +1171,9 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（141）
+## 記事（142）
 
-### 記事（81）
+### 記事（82）
 
 - **[$0のデジタル参謀長で月$80,000の契約候補を作ったというX投稿（動画付き）](articles/2026-10-22-bober_smart-0-80-000-x.md)** ⚑  @Bober_smart
 - **[1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md)** ⚑  @mukadeshinigami（mukade死神）
@@ -1231,6 +1231,7 @@
 - **[PFNの翻訳特化LLM「PLaMo 3 Translate」をスマホ・Windows・Mac・Linuxに入れる方法](articles/2026-11-05-emma-eva-note-emma_and_eva-pfn-llm-plamo-3-translate-windows-mac-linux.md)** ⚑  Emma先生 & Eva先生（note: emma_and_eva）
 - **[Project Suncatcher試作衛星からの初応答](articles/2026-10-30-travis-beals-project-suncatcher.md)** ⚑  Travis Beals
 - **[Railway公式セキュリティ告知：環境変数に保存したAPIキーへの対応](articles/2026-10-21-jacob-cooper-railway-railway-api.md)** ⚑  Jacob Cooper（Railway）
+- **[RelayVSR: Large–Small Model Collaboration for Efficient Real-World Video Super-Resolution](articles/2026-09-29-author-relayvsr-large-small-model-collaboration-for-efficient-real-world-video-super-re.md)** ⚑
 - **[RenderのAIエージェント向けドキュメント設計](articles/2026-11-07-brenden-house-render-ai.md)** ⚑  Brenden House
 - **[See's Candies 1972→1998——$25Mが$60Mを生んだ理由を、バフェットがMBA学生に語った](articles/1998-10-15-warren-buffett-see-s-candies-1972-1998-25m-60m-mba-12d8279960.md)** ⚑  Warren Buffett
 - **[Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights](articles/2026-11-02-author-sparks-of-weight-space-programming-llms-can-natively-read-write-neural-network-w.md)** ⚑
@@ -1558,6 +1559,7 @@
 - [PFNの翻訳特化LLM「PLaMo 3 Translate」をスマホ・Windows・Mac・Linuxに入れる方法](articles/2026-11-05-emma-eva-note-emma_and_eva-pfn-llm-plamo-3-translate-windows-mac-linux.md) — unverified / PFN 公式ブログではなく第三者アカウントのまとめ記事。ベンチマーク優位は PFN 自身の評価の引用、iPhone の 0.515 秒は GIGAZINE の 1 回計測の引用で独立検証なし。winget での llama.cpp 導入、PocketPal AI での 0.8B 読み込み手順、llama.app のインストールスクリプト（取得したスクリプトをシェルに渡す方式）は本文の記述のみで未検証。記事末尾は著者の有料講義の宣伝。
 - [Project Suncatcher試作衛星からの初応答](articles/2026-10-30-travis-beals-project-suncatcher.md) — unverified / 推論成功はGoogleの自己報告。軌道上での長期信頼性、熱・放射線の影響、候補投稿の費用比較は確認できていない。
 - [Railway公式セキュリティ告知：環境変数に保存したAPIキーへの対応](articles/2026-10-21-jacob-cooper-railway-railway-api.md) — unverified / 影響範囲と個別のキーの悪用有無は独立検証していない。候補投稿の引用先であるX記事の本文は未確認。
+- [RelayVSR: Large–Small Model Collaboration for Efficient Real-World Video Super-Resolution](articles/2026-09-29-author-relayvsr-large-small-model-collaboration-for-efficient-real-world-video-super-re.md) — unverified / FPS・GPUメモリ・品質評価は論文著者による実験報告。単一のNVIDIA A100 80GBでのモデル推論結果であり、ComfyUI版の動作や投稿にある14 GB VRAMでの30 FPSを裏付けるものではない。双方向参照では入力30 FPS時に最大0.5秒の先読み待ちがあると論文に記載。
 - [RenderのAIエージェント向けドキュメント設計](articles/2026-11-07-brenden-house-render-ai.md) — unverified / 公開日はUTC。投稿後半と導入効果は未確認。
 - [See's Candies 1972→1998——$25Mが$60Mを生んだ理由を、バフェットがMBA学生に語った](articles/1998-10-15-warren-buffett-see-s-candies-1972-1998-25m-60m-mba-12d8279960.md) — unverified / 【投稿の主張】1972年に$25Mで買収、当時は年$4M。1998年には同じレシピ・追加資本ほぼなしで$60M。16Mポンド@$1.95の箱が$2.25で売れるかが唯一の論点。1998年は30Mポンド@$2/ポンドで、$60Mのうち$55Mがクリスマス前3週。毎年12月26日に値上げ。コンサルなし、デューデリは箱を買って食べるだけ。カリフォルニアの「share of mind」と、店員の笑顔がmoatを広げる。【一次情報で確認できたこと】Tilson公開の講演全文（1998-10-15、University of Florida School of Business、Graham-Buffett Teaching Endowment第1回）に、$25M・16Mポンド・$1.95/ポンド・$4M税前・6.25x pre-tax、$60M・$2 per pound on 30 million pounds・$55M in the three weeks before Christmas・12月26日の値上げ・コンサル無し/箱を買って食べた・販売員の笑顔でmoatが広がる、がすべて原文どおり存在。1998年通期のSee's税前利益は$62M（1998年書簡の税前利益表）で、10月時点の「$60M」という当年見込みは妥当。2007年書簡で1972年16Mポンド/売上$30M/税前$5M未満/必要資本$8M、2007年31Mポンド/売上$383M/税前$82M/累計税前$1.35B/追加資本$32Mを確認。【誤り・注意】(1)「1998年は30Mポンド@$2/ポンド」は単位の取り違え。原文は「We will make $2 per pound on 30 million pounds」＝1ポンドあたり$2の“利益”で合計$60M。同じ講演で「See'sは今$11/ポンド」と述べており、$2は販売価格ではない。$2を価格と読むと30M×$2=$60Mが売上になり、税前利益$60Mと二重計上になる（1998年売上は約$330M）。2007年は$383M/31Mポンド≒$12.35/ポンド。(2)「earned $4 million a year」は税前。本人は10x after-taxとも言っており、税引後は約$2.5M。(3)買収主体はBlue Chip Stamps（BuffettとMungerが支配、後にBerkshireへ合併）。「Buffettが$25M払った」は略記。(4)「no market research」は原文にない。原文は「コンサルを雇ったことがない。コンサル的代わりに箱を買って食べた」。(5)「ten years later you can see nothing else」は原文「You can't see the moat day by day... Ten years from now, you will see the difference」の脚色。(6)「the girl behind the counter is the asset」は投稿者の解釈。原文は「商品を売る人もproduct deliveryの一部」「笑顔ならmoatは広がり、しかめ面なら狭まる」。(7)$55M/3週はBuffett本人の発言だが監査数字ではなく自己申告。1998年通期$62Mとは整合するが四半期別の検証はしていない。(8)Buffettの数字は年により概数で揺れる。16M→30M（26年、年2.4%）と16M→31M/年2%（35年）は同じ人物の別年度発言で内部整合しない。1972年も$1.95×16M=$31.2Mに対し書簡の売上は$30M。桁は合うが一致しない。【未確認】引用元X記事2087190920026365952は非ログインでHTTP 307→ログイン画面になり本文を読めていない（投稿の要約がこの講義のものかは未確認）。添付動画は取得して320x240・84分35秒を実測し、5秒と42分台のフレームでUniversity of Floridaの演台とBuffett本人を確認したが、音声の全編照合はしていない（See'sの説明が42:14頃というのは文字起こしサイトの情報で、当該時刻の映像フレームのみ確認）。
 - [Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights](articles/2026-11-02-author-sparks-of-weight-space-programming-llms-can-natively-read-write-neural-network-w.md) — unverified / 掲載スコアと重み編集の再現性は独立に検証していない。GPT-6 Astraの利用条件・料金、公開ログの再利用ライセンスは未確認。
