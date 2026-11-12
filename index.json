@@ -1,5 +1,5 @@
 {
-  "count": 939,
+  "count": 940,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -18342,6 +18342,37 @@
       "fetched_at": "2026-11-10T11:46:50+00:00",
       "path": "entries/other/pdfmathtranslate-pdfmathtranslate.md",
       "summary": "科学論文などのPDFを翻訳する。公式READMEでは数式、図表、目次、注釈を保持する設計としており、翻訳先のサービスにはGoogle、DeepL、Ollama、OpenAIなどを選べる。"
+    },
+    {
+      "name": "NumPy",
+      "genre": "other",
+      "url": "https://github.com/numpy/numpy",
+      "repo": "numpy/numpy",
+      "license": "unknown",
+      "stars": 33343,
+      "language": "Python",
+      "created": "2010-09-13",
+      "updated": "2026-11-12",
+      "forks": 13099,
+      "open_issues": 2249,
+      "commits_30d": 100,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 187263,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "ライセンスは取得済みメタデータでunknownのため確認できていない。 GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-12",
+      "first_seen": "2026-11-12",
+      "sources": [
+        "https://x.com/kursormaxx/status/2118673610722144590"
+      ],
+      "fetched_at": "2026-11-12T11:10:36.818769+00:00",
+      "path": "entries/other/numpy-numpy.md",
+      "summary": "Pythonで科学計算を行うための基盤パッケージ。N次元配列オブジェクト、ブロードキャスト関数、C/C++・Fortranコードとの連携機能、線形代数・フーリエ変換・乱数機能を提供するとREADMEに記載されている。"
     },
     {
       "repo": "iOfficeAI/OfficeCLI",

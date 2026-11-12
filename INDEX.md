@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 939 件 — リポジトリ 613, リンク集 116, 記事 143, モデル 53, プロンプト 14 / ⚑ 要確認 726 件
+収録 940 件 — リポジトリ 614, リンク集 116, 記事 143, モデル 53, プロンプト 14 / ⚑ 要確認 727 件
 
-## リポジトリ（613）
+## リポジトリ（614）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -295,7 +295,7 @@
 | [Berth](entries/coding-agent/maxzyma-berth.md) ⚑ | 0 | 0 | 毎日 | 100+ | 2026-11-11 | 2026-11-12 | 2026-11-12 | MIT |
 | [Leash](entries/coding-agent/cmaintz-leash.md) ⚑ | 0 | 0 | 毎日 | 21 | 2026-11-06 | 2026-11-10 | 2026-11-11 | MIT |
 
-### その他（80）
+### その他（81）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -316,6 +316,7 @@
 | [Postiz](entries/other/gitroomhq-postiz-app.md) ⚑ | 41,250 | 7,864 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-11 | AGPL-3.0 |
 | [Heretic](entries/other/p-e-w-heretic.md) | 40,132 | 4,590 | 毎日 | 29 | 2026-11-08 | 2026-11-09 | 2026-11-10 | AGPL-3.0 |
 | [PDFMathTranslate](entries/other/pdfmathtranslate-pdfmathtranslate.md) ⚑ | 38,342 | 3,433 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | AGPL-3.0 |
+| [NumPy](entries/other/numpy-numpy.md) ⚑ | 33,343 | 13,099 | 毎日 | 100+ | 2026-11-12 | 2026-11-12 | 2026-11-12 | unknown |
 | [OfficeCLI](entries/other/iofficeai-officecli.md) | 33,171 | 2,271 | 毎日 | 80 | 2026-10-30 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
 | [Google Workspace CLI (gws)](entries/other/googleworkspace-cli.md) ⚑ | 32,212 | 1,988 | 月次 | 1 | 2026-11-03 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
 | [llm.c](entries/other/karpathy-llm.c.md) ⚑ | 31,421 | 3,814 | 停滞 | 0 | 2025-06-26 | 2026-11-10 | 2026-11-10 | MIT |
@@ -1852,6 +1853,7 @@
 - [LosslessCut](entries/other/mifi-lossless-cut.md) — unverified / 実ファイルでの処理速度、カット位置、CLIとHTTP APIの動作は未実測。公開リリースページで最新タグは確認したが、公開日時の年とタイムゾーンは未確認。
 - [Postiz](entries/other/gitroomhq-postiz-app.md) — unverified / README記載のAGPL-3.0以外の利用条件や、セルフホストに必要な具体的な設定・環境条件は確認していない。
 - [PDFMathTranslate](entries/other/pdfmathtranslate-pdfmathtranslate.md) — unverified / 翻訳精度、レイアウトの保持度、実行速度、実験的OCRの品質、CLIとMCPの動作は独立検証していない。mainブランチの記載と配布版の機能差、最新リリースのタグと公開日時、翻訳サービスごとの料金とデータ取扱条件は未確認。
+- [NumPy](entries/other/numpy-numpy.md) — unverified / ライセンスは取得済みメタデータでunknownのため確認できていない。 GitHub APIでライセンスを確認できていません。
 - [Google Workspace CLI (gws)](entries/other/googleworkspace-cli.md) — unverified / README 冒頭に「This is not an officially supported Google product.」と明記されており、googleworkspace org 配下でも公式サポート製品ではない。Claude/Anthropic への言及はなく、Claude Code から使えるかは Bash ツール経由で CLI を呼ぶ一般経路の推測で、リポジトリ側の検証はない。最終リリースは 2026-03-31、90日コミットは 2026-10-30 の CI 修正1件のみで開発は停滞している。README はスキル数を 40+ と 100+ の両方で書いており、実際の skills/ は95ディレクトリ。API の課金額は各 GCP プロジェクトのクォータ次第で、料金表は確認していない。
 - [llm.c](entries/other/karpathy-llm.c.md) — unverified / 最新リリースの版と日時は未確認。CPUデモの実行、PyTorchとの照合、CUDA版の速度と学習費用は独立に検証していない。外部の重みとデータの利用条件は未確認。
 - [Karakeep](entries/other/karakeep-app-karakeep.md) — unverified / リリースの公開日時は未確定。タグ付け・要約の精度、検索品質、処理時間、MCP 接続の実動作は未測定。発見投稿の Grok Bot との連携は未確認。
