@@ -1,5 +1,5 @@
 {
-  "count": 930,
+  "count": 931,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -26893,6 +26893,37 @@
       "type": "repo",
       "path": "entries/video-gen/veda-sparse-veda-on-comfyui.md",
       "summary": "ComfyUI の MiniMax-H3（**T2VA / FL2VA / R2VA**）に差し込む学習型スパースアテンションのノード。MODEL を受けて MODEL を返す1ノードで、モデルとLoRAの後、guider/sampler の直前に置く。"
+    },
+    {
+      "name": "HyperFrames Motion Reel Skill",
+      "genre": "video-gen",
+      "url": "https://github.com/Sunwood-ai-labs/hyperframes-motion-reel-skill",
+      "repo": "Sunwood-ai-labs/hyperframes-motion-reel-skill",
+      "stars": 185,
+      "forks": 26,
+      "open_issues": 0,
+      "size_kb": 54,
+      "language": "unknown",
+      "created": "2026-09-29",
+      "updated": "2026-09-29",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 0,
+      "commits_90d": 6,
+      "commit_cadence": "monthly",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景・有効性・依存関係・実行条件。",
+      "type": "repo",
+      "added": "2026-11-12",
+      "first_seen": "2026-11-12",
+      "sources": [
+        "https://x.com/PromptLabCN/status/2120750742785171596"
+      ],
+      "fetched_at": "2026-11-12T06:13:06.021483+00:00",
+      "path": "entries/video-gen/sunwood-ai-labs-hyperframes-motion-reel-skill.md",
+      "summary": "短いテーマと任意の画像・音声から、デザインシステム、ビートごとのタイムライン、コード生成音声を含むHyperFrames動画を制作するClaude Codeスキル。READMEは、GSAPとCanvas/SVGを使ったアニメーション構成、決定的レンダリング、MP4出力までを機能として説明している。出典: https:/"
     },
     {
       "repo": "nomadoor/ComfyUI-Panorama-Stickers",

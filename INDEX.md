@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 930 件 — リポジトリ 606, リンク集 116, 記事 141, モデル 53, プロンプト 14 / ⚑ 要確認 717 件
+収録 931 件 — リポジトリ 607, リンク集 116, 記事 141, モデル 53, プロンプト 14 / ⚑ 要確認 718 件
 
-## リポジトリ（606）
+## リポジトリ（607）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -105,7 +105,7 @@
 | [jevwire](entries/agent-framework/brainwires-jevwire.md) ⚑ | 27 | 6 | 週次 | 11 | 2026-11-06 | 2026-11-11 | 2026-11-11 | MIT |
 | [web-api-skills](entries/agent-framework/oxylabs-web-api-skills.md) | 13 | 1 | 週次 | 11 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
 
-### 動画生成パイプライン（88）
+### 動画生成パイプライン（89）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -180,6 +180,7 @@
 | [cinematic-shot](entries/video-gen/1weiho-skills.md) ⚑ | 240 | 8 | 週次 | 19 | 2026-10-29 | 2026-11-10 | 2026-11-11 | MIT |
 | [Otopilot](entries/video-gen/wj-sidiss-otopilot.md) ⚑ | 230 | 42 | 毎日 | 63 | 2026-11-08 | 2026-11-10 | 2026-11-10 | MIT |
 | [Veda Sparse Attention for ComfyUI (MiniMax-H3)](entries/video-gen/veda-sparse-veda-on-comfyui.md) | 224 | 20 | 週次 | 4 | 2026-10-11 | 2026-11-09 | 2026-11-10 | MIT |
+| [HyperFrames Motion Reel Skill](entries/video-gen/sunwood-ai-labs-hyperframes-motion-reel-skill.md) ⚑ | 185 | 26 | 月次 | 0 | 2026-09-29 | 2026-11-12 | 2026-11-12 | MIT |
 | [ComfyUI Panorama Stickers](entries/video-gen/nomadoor-comfyui-panorama-stickers.md) | 182 | 17 | 毎日 | 84 | 2026-11-05 | 2026-11-09 | 2026-11-10 | MIT |
 | [H3 Continuity Studio](entries/video-gen/kadobot-comfyui-h3-continuity-studio.md) | 160 | 18 | 毎日 | 100+ | 2026-11-08 | 2026-11-09 | 2026-11-10 | MIT |
 | [Video-Rebirth/hyperflow-h3-flash](entries/video-gen/video-rebirth-hyperflow-h3-flash.md) ⚑ | 160 | 8 | 週次 | 4 | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
@@ -2029,6 +2030,7 @@
 - [vibe-knowledge](entries/video-gen/andyhuo520-vibe-knowledge.md) — unverified / READMEと公開リリースの記載を確認。コードの実行、サンプルの視聴、出典の正確性、画質、処理時間、質検の検出精度、OS別の動作、外部サービスの現行料金は未検証。公開リリースの一覧で最新版タグを確認し、正確な公開日時は未確認。
 - [cinematic-shot](entries/video-gen/1weiho-skills.md) — unverified / 作者のデモ映像の画質・再現性、対応エージェントごとの導入とレンダリング、実行時間や費用は未検証。GitHubの公開リリース一覧には掲載なし。
 - [Otopilot](entries/video-gen/wj-sidiss-otopilot.md) — unverified / 機能は公式READMEとリリースノートで確認した。動画の生成、品質、処理時間、素材サービスの稼働、ライセンスフィルターの判定精度は実測していない。READMEはGitHubのraw配信で確認した。公開リリースページで最新版のタグを確認したが、公開日時の年とタイムゾーンは確認できていない。
+- [HyperFrames Motion Reel Skill](entries/video-gen/sunwood-ai-labs-hyperframes-motion-reel-skill.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Video-Rebirth/hyperflow-h3-flash](entries/video-gen/video-rebirth-hyperflow-h3-flash.md) — unverified / コードのApache-2.0を重みのライセンスへ拡張しない。モデルはMiniMax H3系の地域・商用条件を別途持つ。速度は未再現。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Claude Code Video Toolkit](entries/video-gen/wilwaldon-claude-code-video-toolkit.md) — unverified / 外部ツールの導入・レンダリング、出力品質、現行バージョンでの互換性、料金は未検証。READMEにはMIT表記があるが、親のGitHub API測定ではライセンスはunknown。外部ツールや素材の利用条件は各提供元で確認する。 GitHub APIでライセンスを確認できていません。
 - [VidDub](entries/video-gen/law1223-viddub.md) — unverified / リポジトリAPI上のライセンスはunknown。READMEのライセンス表示だけでは具体的な利用条件を確認できない。 GitHub APIでライセンスを確認できていません。
