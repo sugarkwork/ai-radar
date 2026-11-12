@@ -29,6 +29,18 @@
   - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://huggingface.co/Comfy-Org/RelayVSR>。
 - [X: tomgoldsteincs の投稿](https://x.com/tomgoldsteincs/status/2118394191764169001)
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+- [X: tokufxug の投稿](https://x.com/tokufxug/status/2118523625393537314)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+  - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+- [X: tokufxug の投稿](https://x.com/tokufxug/status/2118521037814210996)
+  - 候補の対象が複数あり、一意に特定できませんでした。
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+  - 公開に必須の根拠がそろっていません。
+- [X: tokufxug の投稿](https://x.com/tokufxug/status/2118520943337480240)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+- [X: tokufxug の投稿](https://x.com/tokufxug/status/2118519432243007523)
+  - 候補の対象が複数あり、一意に特定できませんでした。
+  - 公開に必須の根拠がそろっていません。
 - [X: tokufxug の投稿](https://x.com/tokufxug/status/2118519299946258842)
   - 候補の対象が複数あり、一意に特定できませんでした。
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
@@ -74,6 +86,8 @@
   - 公開に必須の根拠がそろっていません。
 - [X: sumika45379 の投稿](https://x.com/sumika45379/status/2118292245107683494)
   - 対象を裏付ける公開一次資料を確認できませんでした。
+- [X: shushant_l の投稿](https://x.com/shushant_l/status/2120804566996590911)
+  - 候補の対象が複数あり、一意に特定できませんでした。
 - [X: shouvik_palit の投稿](https://x.com/shouvik_palit/status/2120704128309678386)
   - 公開に必須の根拠がそろっていません。
 - [X: sep_is_heim の投稿](https://x.com/sep_is_heim/status/2118468897397756055)
@@ -91,6 +105,10 @@
 - [X: okapi_fukugyo の投稿](https://x.com/okapi_fukugyo/status/2118510755746341093)
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
 - [X: okapi_fukugyo の投稿](https://x.com/okapi_fukugyo/status/2118459206512873690)
+  - 下書きが公開用の検証基準を満たしていません。
+- [X: neuronxwhite の投稿](https://x.com/neuronxwhite/status/2118522985820963127)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+- [X: neuronxwhite の投稿](https://x.com/neuronxwhite/status/2118522974697644162)
   - 下書きが公開用の検証基準を満たしていません。
 - [X: neuronxwhite の投稿](https://x.com/neuronxwhite/status/2118493379961168258)
   - 候補の対象が複数あり、一意に特定できませんでした。
@@ -246,6 +264,9 @@
 - [X: Khaled865412521 の投稿](https://x.com/Khaled865412521/status/2120664495173353513)
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
   - 公開に必須の根拠がそろっていません。
+- [X: KOF97AI の投稿](https://x.com/KOF97AI/status/2118672134633312491)
+  - 候補の対象が複数あり、一意に特定できませんでした。
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 - [X: Jack_FluxAI の投稿](https://x.com/Jack_FluxAI/status/2118318397708812364)
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 - [X: ItsmeAjayKV の投稿](https://x.com/ItsmeAjayKV/status/2118640141879390497)
