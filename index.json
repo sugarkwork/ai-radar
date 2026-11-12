@@ -1,5 +1,5 @@
 {
-  "count": 920,
+  "count": 921,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -14409,6 +14409,37 @@
       "fetched_at": "2026-11-11T22:12:17.294914+00:00",
       "path": "entries/link-inspiration/awesome-dsh-plugin-awesome-dsh-plugin.md",
       "summary": "DeepSeek Harness用プラグインをカテゴリ別に掲載し、説明や導入コマンドから候補を探せます。READMEによると、dsh 0.2.1以降ではプラグイン一覧をインデックスソースとして追加でき、Discoverタブとplugin_marketエージェントツールから同じエントリーを検索できます。出典: https"
+    },
+    {
+      "name": "Awesome AI Drama",
+      "genre": "link-inspiration",
+      "url": "https://github.com/DU8866-nice/awesome-ai-drama",
+      "repo": "DU8866-nice/awesome-ai-drama",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "目录中的项目能力、维护状态及“真正能用”等评价是 README 的整理说明，未在本次审查中逐项核验；README 引用的行业数据也未独立确认。",
+      "stars": 2,
+      "forks": 2,
+      "open_issues": 0,
+      "size_kb": 55,
+      "language": "Python",
+      "created": "2026-11-09",
+      "updated": "2026-11-09",
+      "archived": false,
+      "license": "CC0-1.0",
+      "commits_30d": 5,
+      "commits_90d": 5,
+      "commit_cadence": "weekly",
+      "type": "repo",
+      "added": "2026-11-12",
+      "first_seen": "2026-11-12",
+      "sources": [
+        "https://x.com/binbin_eth/status/2120710960247615505"
+      ],
+      "fetched_at": "2026-11-12T03:43:39.347300+00:00",
+      "path": "entries/link-inspiration/du8866-nice-awesome-ai-drama.md",
+      "summary": "按剧本、分镜、角色与场景资产、视频生成、配音口型、剪辑和发布等环节，整理 AI 短剧与漫剧相关工具；README 还提供零代码、一站式平台、全本地和 Agent 工作流示例。"
     },
     {
       "name": "BestAIBuilder",
