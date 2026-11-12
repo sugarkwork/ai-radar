@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 963 件 — リポジトリ 636, リンク集 116, 記事 144, モデル 53, プロンプト 14 / ⚑ 要確認 750 件
+収録 964 件 — リポジトリ 637, リンク集 116, 記事 144, モデル 53, プロンプト 14 / ⚑ 要確認 751 件
 
-## リポジトリ（636）
+## リポジトリ（637）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -307,7 +307,7 @@
 | [jevwire](entries/agent-framework/brainwires-jevwire.md) ⚑ | 27 | 6 | 週次 | 11 | 2026-11-06 | 2026-11-11 | 2026-11-11 | MIT |
 | [web-api-skills](entries/agent-framework/oxylabs-web-api-skills.md) | 13 | 1 | 週次 | 11 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
 
-### その他（87）
+### その他（88）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -384,6 +384,7 @@
 | [Awesome AI Pedia](entries/other/awesome-ai-pedia-awesome-ai-pedia.md) ⚑ | 686 | 66 | 週次 | 14 | 2026-11-10 | 2026-11-11 | 2026-11-11 | MIT |
 | [DuoDesk](entries/other/0xcodez-duodesk.md) ⚑ | 486 | 79 | 毎日 | 100+ | 2026-10-31 | 2026-11-10 | 2026-11-10 | GPL-3.0 |
 | [NamiAgent](entries/other/aa1143-namiagent.md) ⚑ | 483 | 53 | 毎日 | 20 | 2026-10-30 | 2026-11-10 | 2026-11-10 | MIT |
+| [LINEJS](entries/other/evex-dev-linejs.md) ⚑ | 474 | 103 | 毎日 | 22 | 2026-11-05 | 2026-11-12 | 2026-11-12 | MIT |
 | [Pixel Plays](entries/other/amirmushichge-pixel-plays.md) ⚑ | 448 | 43 | 月次 | 2 | 2026-10-31 | 2026-11-10 | 2026-11-10 | MIT |
 | [jev-voice-browser](entries/other/moritzkremb-jev-voice-browser.md) ⚑ | 431 | 71 | 停滞 | 0 | 2026-09-21 | 2026-11-10 | 2026-11-11 | MIT |
 | [ResumeForge](entries/other/magicapple123-resumeforge.md) ⚑ | 417 | 19 | 毎日 | 100+ | 2026-11-10 | 2026-11-11 | 2026-11-11 | Apache-2.0 |
@@ -1936,6 +1937,7 @@
 - [Awesome AI Pedia](entries/other/awesome-ai-pedia-awesome-ai-pedia.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [DuoDesk](entries/other/0xcodez-duodesk.md) — unverified / 最新リリースの公開日時と配布物の署名状態は未確認。対応 OS の組み合わせ別の動作、転送性能、通信の安全性は独立検証していない。Claude Code と Opus 5.5 の利用および開発規模は、候補が指す X 投稿を直接取得できず未確認。
 - [NamiAgent](entries/other/aa1143-namiagent.md) — unverified / 最新リリース、テストの成功、デモと実モデルの動作、権限機構の実効性、モデルAPIの料金は未確認。著者は、権限機構で意図的な攻撃を防げないと明記している。
+- [LINEJS](entries/other/evex-dev-linejs.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Pixel Plays](entries/other/amirmushichge-pixel-plays.md) — unverified / ['候補投稿が言及するClaude Opus 5.5の使用は、作者投稿を取得できなかったため未確認。最新リリース、ブラウザでの動作・性能、別題材への改変結果も未確認。']
 - [jev-voice-browser](entries/other/moritzkremb-jev-voice-browser.md) — unverified / 性能と費用はREADMEに記載された作者環境での報告で、独立再現、現行のAPI料金・利用条件、確認機構の実効性は未検証。GitHubの公開リリース一覧にはリリースが表示されていない。
 - [ResumeForge](entries/other/magicapple123-resumeforge.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。

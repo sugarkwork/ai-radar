@@ -1,5 +1,5 @@
 {
-  "count": 963,
+  "count": 964,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -20477,6 +20477,37 @@
       "fetched_at": "2026-11-10T10:58:16+00:00",
       "path": "entries/other/aa1143-namiagent.md",
       "summary": "第1〜11課のコードを比較し、ツール、権限、コンテキスト管理、Skills、MCP、子エージェント、計画、記憶を段階的に学べる。第12〜18課は既存エージェントの解説記事。"
+    },
+    {
+      "name": "LINEJS",
+      "genre": "other",
+      "url": "https://github.com/evex-dev/linejs",
+      "repo": "evex-dev/linejs",
+      "stars": 474,
+      "forks": 103,
+      "open_issues": 8,
+      "size_kb": 8822,
+      "language": "TypeScript",
+      "created": "2024-01-23",
+      "updated": "2026-11-05",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 22,
+      "commits_90d": 82,
+      "commit_cadence": "daily",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景・有効性・依存関係・実行条件。",
+      "type": "repo",
+      "added": "2026-11-12",
+      "first_seen": "2026-11-12",
+      "sources": [
+        "https://x.com/naka_1717/status/2118582879840334223"
+      ],
+      "fetched_at": "2026-11-12T20:11:23.370254+00:00",
+      "path": "entries/other/evex-dev-linejs.md",
+      "summary": "LINE SelfBotを作成するJavaScriptライブラリ。READMEでは、Client、BaseClient、通話制御・メディア補助、Thrift読み書き、ストレージ、型定義などのパッケージを案内している。"
     },
     {
       "repo": "amirmushichge/pixel-plays",
