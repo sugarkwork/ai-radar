@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 928 件 — リポジトリ 604, リンク集 116, 記事 141, モデル 53, プロンプト 14 / ⚑ 要確認 715 件
+収録 929 件 — リポジトリ 605, リンク集 116, 記事 141, モデル 53, プロンプト 14 / ⚑ 要確認 716 件
 
-## リポジトリ（604）
+## リポジトリ（605）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -198,7 +198,7 @@
 | [utillayer/youtube-agent-skill](entries/video-gen/utillayer-youtube-agent-skill.md) ⚑ | 14 | 2 | 週次 | 16 | 2026-10-29 | 2026-11-09 | 2026-11-10 | MIT |
 | [BennyDaBall930/comfyui_hyperflow_int8_nodes](entries/video-gen/bennydaball930-comfyui_hyperflow_int8_nodes.md) ⚑ | 3 | 0 | 週次 | 10 | 2026-11-09 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
 
-### コーディングエージェント（83）
+### コーディングエージェント（84）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -260,6 +260,7 @@
 | [reanimate](entries/coding-agent/niazmorshed2007-reanimate.md) ⚑ | 1,557 | 136 | 毎日 | 20 | 2026-10-31 | 2026-11-11 | 2026-11-11 | MIT |
 | [PHP Version Checker](entries/coding-agent/openai-php2shell-checker.md) ⚑ | 1,468 | 147 | 週次 | 8 | 2026-10-22 | 2026-11-10 | 2026-11-10 | Apache-2.0 |
 | [Claude Code Frontend Design Toolkit](entries/coding-agent/wilwaldon-claude-code-frontend-design-toolkit.md) ⚑ | 1,292 | 138 | 停滞 | 0 | 2026-04-11 | 2026-11-10 | 2026-11-10 | unknown |
+| [Claude Remotion Skill](entries/coding-agent/haidrrrry-claude-remotion-skill.md) ⚑ | 960 | 131 | 停滞 | 0 | 2026-08-12 | 2026-11-12 | 2026-11-12 | MIT |
 | [Second Brain Starter](entries/coding-agent/coleam00-second-brain-starter.md) ⚑ | 885 | 188 | 停滞 | 0 | 2026-06-09 | 2026-11-10 | 2026-11-10 | unknown |
 | [claude-motion-design](entries/coding-agent/howseen-ai-claude-motion-design.md) ⚑ | 811 | 105 | 月次 | 0 | 2026-10-04 | 2026-11-12 | 2026-11-12 | MIT |
 | [Second Brain](entries/coding-agent/nicholasspisak-second-brain.md) ⚑ | 775 | 116 | 停滞 | 0 | 2026-04-07 | 2026-11-10 | 2026-11-11 | unknown |
@@ -1627,6 +1628,7 @@
 - [reanimate](entries/coding-agent/niazmorshed2007-reanimate.md) — unverified / Windows is untested. The README says the skill has only been tested with Claude Code, though other agents that read SKILL.md can install it.
 - [PHP Version Checker](entries/coding-agent/openai-php2shell-checker.md) — unverified / READMEとスキル文書を確認した。コードは実行しておらず、実環境での判定結果、Node.jsの最低対応バージョン、各ベンダーの修正情報との照合は未検証。公開Releasesページにはリリースの掲載がなく、最新リリースAPIは未確認。
 - [Claude Code Frontend Design Toolkit](entries/coding-agent/wilwaldon-claude-code-frontend-design-toolkit.md) — unverified / UI品質の改善効果、掲載ツールの現行バージョンでの動作、個別の料金・ライセンス条件は未検証。READMEにはMITと記載されるが、親工程のGitHub API測定ではライセンスがunknownのため、その値を維持した。 GitHub APIでライセンスを確認できていません。
+- [Claude Remotion Skill](entries/coding-agent/haidrrrry-claude-remotion-skill.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Second Brain Starter](entries/coding-agent/coleam00-second-brain-starter.md) — unverified / スキルは未実行。生成PRDの品質、連携先ごとの動作、対応バージョン、運用費用、ライセンス条件は未確認。GitHubの公開リリース一覧の取得結果にはリリースが表示されず、最新リリースへの直接アクセスはタイムアウトした。READMEは公開raw URLおよびGitHubの表示から確認した。 GitHub APIでライセンスを確認できていません。
 - [claude-motion-design](entries/coding-agent/howseen-ai-claude-motion-design.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Second Brain](entries/coding-agent/nicholasspisak-second-brain.md) — unverified / READMEに記載された機能と手順に基づく。個別の効果、利用条件、費用は確認できていない。 GitHub APIでライセンスを確認できていません。

@@ -1,5 +1,5 @@
 {
-  "count": 928,
+  "count": 929,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -10050,6 +10050,37 @@
       "fetched_at": "2026-11-10T11:22:53+00:00",
       "path": "entries/coding-agent/wilwaldon-claude-code-frontend-design-toolkit.md",
       "summary": "UIのデザイン方針、配色・タイポグラフィ、アニメーション、アクセシビリティ、Figma連携など、作業に応じてClaude Code向けのスキルやMCPサーバーを探せる。READMEは各ツールへの索引として使う。"
+    },
+    {
+      "name": "Claude Remotion Skill",
+      "genre": "coding-agent",
+      "url": "https://github.com/haidrrrry/claude-remotion-skill",
+      "repo": "haidrrrry/claude-remotion-skill",
+      "license": "MIT",
+      "stars": 960,
+      "language": "TypeScript",
+      "created": "2026-06-13",
+      "updated": "2026-08-12",
+      "forks": 131,
+      "open_issues": 2,
+      "commits_30d": 0,
+      "commit_cadence": "stale",
+      "commits_90d": 0,
+      "size_kb": 14826,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景・有効性・依存関係・実行条件。",
+      "type": "repo",
+      "added": "2026-11-12",
+      "first_seen": "2026-11-12",
+      "sources": [
+        "https://x.com/PromptLabCN/status/2120750742785171596"
+      ],
+      "fetched_at": "2026-11-12T06:12:26.325213+00:00",
+      "path": "entries/coding-agent/haidrrrry-claude-remotion-skill.md",
+      "summary": "Claude向けのエージェントスキルとしてRemotionの動画・モーショングラフィックス制作を支援する。READMEは、スプリングやベジェ曲線、段階的なアニメーション、カラーグレーディング、字幕、効果音設計などのルールを示し、ReactとTypeScriptによる動画制作を説明している。"
     },
     {
       "repo": "coleam00/second-brain-starter",
