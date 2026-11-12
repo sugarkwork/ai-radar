@@ -30,6 +30,12 @@
 - [X: huksyn の投稿](https://x.com/huksyn/status/2118554175642698049)
   - 掲載先URLの正常なHTTP応答を確認できませんでした。
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+- [X: ai_hakase_ の投稿](https://x.com/ai_hakase_/status/2118569572173263170)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+  - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+  - 公開に必須の根拠がそろっていません。
+- [X: ai_hakase_ の投稿](https://x.com/ai_hakase_/status/2118569570692723017)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 - [X: ai_hakase_ の投稿](https://x.com/ai_hakase_/status/2118557752360391036)
   - 下書きが公開用の検証基準を満たしていません。
   - 掲載先URLの正常なHTTP応答を確認できませんでした。
@@ -49,8 +55,18 @@
 - [X: ai_hacks_akira の投稿](https://x.com/ai_hacks_akira/status/2118554295721480561)
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
   - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://github.com/anthropics/skills>。
+- [X: Jackywine の投稿](https://x.com/Jackywine/status/2118562780383216113)
+  - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: AiAircle34052 の投稿](https://x.com/AiAircle34052/status/2118559500181635527)
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+- [X: AIExplorerTim の投稿](https://x.com/AIExplorerTim/status/2118562538241786021)
+  - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://x.com/AIExplorerTim/status/2118562538241786021>。
+- [X: AIExplorerTim の投稿](https://x.com/AIExplorerTim/status/2118562536517943784)
+  - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://x.com/AIExplorerTim/status/2118562536517943784>。
+- [X: AIExplorerTim の投稿](https://x.com/AIExplorerTim/status/2118562534630543717)
+  - 下書きが公開用の検証基準を満たしていません。 照合済み参照先: <https://x.com/AIExplorerTim/status/2118562534630543717>。
+- [X: AIExplorerTim の投稿](https://x.com/AIExplorerTim/status/2118562532986355825)
+  - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://x.com/AIExplorerTim/status/2118562532986355825>。
 - [X: AIExplorerTim の投稿](https://x.com/AIExplorerTim/status/2118562531241517083)
   - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://x.com/AIExplorerTim/status/2118562531241517083>。
 - [X: AIExplorerTim の投稿](https://x.com/AIExplorerTim/status/2118562526049030556)
