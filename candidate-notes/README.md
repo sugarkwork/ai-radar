@@ -41,9 +41,16 @@
 - [X: mingzi206 の投稿](https://x.com/mingzi206/status/2118545997798453679)
   - 一次資料と候補の説明に、解消できない相違があります。 照合済み参照先: <https://x.com/mingzi206/status/2118545997798453679>。
   - 公開に必須の根拠がそろっていません。
+- [X: luaginga777 の投稿](https://x.com/luaginga777/status/2119042246637187413)
+  - 下書きが公開用の検証基準を満たしていません。
 - [X: lemomo_ai の投稿](https://x.com/lemomo_ai/status/2118551060596092928)
   - 候補の対象が複数あり、一意に特定できませんでした。
   - 対象を裏付ける公開一次資料を確認できませんでした。
+- [X: kukoinari の投稿](https://x.com/kukoinari/status/2119758756481478724)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+  - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+- [X: jarvis11x の投稿](https://x.com/jarvis11x/status/2118621335844741185)
+  - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://x.com/jarvis11x/status/2118621335844741185>。
 - [X: huksyn の投稿](https://x.com/huksyn/status/2118554175642698049)
   - 掲載先URLの正常なHTTP応答を確認できませんでした。
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
@@ -52,6 +59,32 @@
 - [X: daaihq の投稿](https://x.com/daaihq/status/2118572714168668508)
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
   - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://x.com/daaihq/status/2118572714168668508>。
+- [X: bkdgiffug の投稿](https://x.com/bkdgiffug/status/2118621912545022263)
+  - 公開に必須の根拠がそろっていません。
+- [X: ai_hakase_ の投稿](https://x.com/ai_hakase_/status/2118615124957131142)
+  - 下書きが公開用の検証基準を満たしていません。
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+- [X: ai_hakase_ の投稿](https://x.com/ai_hakase_/status/2118615123971465394)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+- [X: ai_hakase_ の投稿](https://x.com/ai_hakase_/status/2118615006455418914)
+  - 候補の対象が複数あり、一意に特定できませんでした。
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+  - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+- [X: ai_hakase_ の投稿](https://x.com/ai_hakase_/status/2118615005041930313)
+  - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+- [X: ai_hakase_ の投稿](https://x.com/ai_hakase_/status/2118602792059195766)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+  - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+  - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://huggingface.co/Feyd89/Qwen3.8-27B-refusal-band-ablation-experiment>。
+- [X: ai_hakase_ の投稿](https://x.com/ai_hakase_/status/2118602790578622543)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+- [X: ai_hakase_ の投稿](https://x.com/ai_hakase_/status/2118602542154150097)
+  - 下書きが公開用の検証基準を満たしていません。 照合済み参照先: <https://huggingface.co/moonshotai/Kimi-K3.1-Pro>。
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+  - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+  - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://huggingface.co/moonshotai/Kimi-K3.1-Pro>。
+- [X: ai_hakase_ の投稿](https://x.com/ai_hakase_/status/2118602540883362224)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 - [X: ai_hakase_ の投稿](https://x.com/ai_hakase_/status/2118585681240817937)
   - 提案された種別と配布先を確認できませんでした。
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
@@ -110,8 +143,14 @@
   - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: Jackywine の投稿](https://x.com/Jackywine/status/2118562780383216113)
   - 対象を裏付ける公開一次資料を確認できませんでした。
+- [X: ImAI_Eruel の投稿](https://x.com/ImAI_Eruel/status/2118616087629910416)
+  - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://x.com/ImAI_Eruel/status/2118616087629910416>。
 - [X: AiAircle34052 の投稿](https://x.com/AiAircle34052/status/2118559500181635527)
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+- [X: AIExplorerTim の投稿](https://x.com/AIExplorerTim/status/2118615248546755043)
+  - 対象を裏付ける公開一次資料を確認できませんでした。
+- [X: AIExplorerTim の投稿](https://x.com/AIExplorerTim/status/2118602536982868108)
+  - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://x.com/AIExplorerTim/status/2118602536982868108>。
 - [X: AIExplorerTim の投稿](https://x.com/AIExplorerTim/status/2118562538241786021)
   - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://x.com/AIExplorerTim/status/2118562538241786021>。
 - [X: AIExplorerTim の投稿](https://x.com/AIExplorerTim/status/2118562536517943784)
