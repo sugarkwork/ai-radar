@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 937 件 — リポジトリ 612, リンク集 116, 記事 142, モデル 53, プロンプト 14 / ⚑ 要確認 724 件
+収録 938 件 — リポジトリ 613, リンク集 116, 記事 142, モデル 53, プロンプト 14 / ⚑ 要確認 725 件
 
-## リポジトリ（612）
+## リポジトリ（613）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -201,7 +201,7 @@
 | [utillayer/youtube-agent-skill](entries/video-gen/utillayer-youtube-agent-skill.md) ⚑ | 14 | 2 | 週次 | 16 | 2026-10-29 | 2026-11-09 | 2026-11-10 | MIT |
 | [BennyDaBall930/comfyui_hyperflow_int8_nodes](entries/video-gen/bennydaball930-comfyui_hyperflow_int8_nodes.md) ⚑ | 3 | 0 | 週次 | 10 | 2026-11-09 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
 
-### コーディングエージェント（88）
+### コーディングエージェント（89）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -256,6 +256,7 @@
 | [Jevgrep](entries/coding-agent/dzhng-jevgrep.md) ⚑ | 3,205 | 245 | 毎日 | 71 | 2026-11-08 | 2026-11-10 | 2026-11-11 | MIT |
 | [Oil UI](entries/coding-agent/oil-oil-oil-ui.md) ⚑ | 3,102 | 177 | 毎日 | 52 | 2026-11-10 | 2026-11-10 | 2026-11-11 | MIT |
 | [yomiyasu（よみやす）](entries/coding-agent/nanaism-yomiyasu.md) ⚑ | 2,975 | 78 | 毎日 | 26 | 2026-11-10 | 2026-11-11 | 2026-11-11 | MIT |
+| [DS Harness Remote](entries/coding-agent/liguobao-ds-harness-remote.md) ⚑ | 2,667 | 198 | 毎日 | 100+ | 2026-11-12 | 2026-11-12 | 2026-11-12 | MIT |
 | [Better Harness](entries/coding-agent/qoderai-better-harness.md) ⚑ | 2,444 | 204 | 週次 | 12 | 2026-11-07 | 2026-11-10 | 2026-11-10 | MIT |
 | [ppmpreetham/BUI](entries/coding-agent/ppmpreetham-bui.md) ⚑ | 2,363 | 95 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
 | [reacher-z/Awesome-REA](entries/coding-agent/reacher-z-awesome-rea.md) ⚑ | 2,312 | 421 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
@@ -1630,6 +1631,7 @@
 - [Jevgrep](entries/coding-agent/dzhng-jevgrep.md) — unverified / CLIは実行していない。作者の費用比較を独立に再現しておらず、他のリポジトリへの一般化、速度改善、各プロバイダーの現行料金、GitHubリリースの完全な公開日時は未確認。
 - [Oil UI](entries/coding-agent/oil-oil-oil-ui.md) — unverified / README記載の機能説明は作者による説明で、効果は独立検証されていない。Proの価格として一括払い9.99ドルと記載があるが、現在の価格・購入条件は未確認。
 - [yomiyasu（よみやす）](entries/coding-agent/nanaism-yomiyasu.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
+- [DS Harness Remote](entries/coding-agent/liguobao-ds-harness-remote.md) — unverified / アカウント登録には招待コードが必要とREADMEに記載。招待コードの入手条件、利用料金は資料から確認できない。
 - [Better Harness](entries/coding-agent/qoderai-better-harness.md) — unverified / 公開文書で仕様を確認した。実行時の動作、ホスト間の互換性、導入前後の改善効果、最新リリースのタグと公開日は未確認。MITはリポジトリのライセンスで、ホストの利用条件・料金は未確認。
 - [ppmpreetham/BUI](entries/coding-agent/ppmpreetham-bui.md) — unverified / 即時モードではなく一つのノードツリーを保持する方式。IME・スクリーンリーダー未対応。GPL-3.0-or-laterで組込み配布の条件に注意。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [reacher-z/Awesome-REA](entries/coding-agent/reacher-z-awesome-rea.md) — unverified / indexed repos3309は自動収集で未レビュー。数の多さや公開索引を各項目の安全性・有用性の保証としない。 当方でインストール・推論・生成・ベンチ再現はしていない。

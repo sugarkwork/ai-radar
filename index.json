@@ -1,5 +1,5 @@
 {
-  "count": 937,
+  "count": 938,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -9830,6 +9830,37 @@
       "fetched_at": "2026-11-11T04:18:01.512443+00:00",
       "path": "entries/coding-agent/nanaism-yomiyasu.md",
       "summary": "AIが生成した日本語の不自然な比喩、曖昧な主述関係、不要な装飾を直し、読みやすい文章に整えるスキル。技術記事、設計書・仕様書、PR説明文、社内レポートなどの実務文書を主な対象とする。READMEでは、指示書（SKILL.md）と、直す前後で意味が変わる恐れのある箇所を示す検査ツールをまとめたものと説明されている。"
+    },
+    {
+      "name": "DS Harness Remote",
+      "genre": "coding-agent",
+      "url": "https://github.com/liguobao/ds-harness-remote",
+      "repo": "liguobao/ds-harness-remote",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "アカウント登録には招待コードが必要とREADMEに記載。招待コードの入手条件、利用料金は資料から確認できない。",
+      "stars": 2667,
+      "forks": 198,
+      "open_issues": 49,
+      "size_kb": 45202,
+      "language": "TypeScript",
+      "created": "2026-08-14",
+      "updated": "2026-11-12",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 100,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "type": "repo",
+      "added": "2026-11-12",
+      "first_seen": "2026-11-12",
+      "sources": [
+        "https://x.com/Ryrenz/status/2118509316688748877"
+      ],
+      "fetched_at": "2026-11-12T08:07:34.601984+00:00",
+      "path": "entries/coding-agent/liguobao-ds-harness-remote.md",
+      "summary": "READMEによると、DeepSeek Harness DesktopなどのHostにWeb、PC、モバイル端末から接続し、ワークスペースの選択、会話モデルの切り替え、ファイルの読み取り専用プレビュー、リモートターミナル、許可された開発サービスのプレビューを利用できる。Codex、Cursor、Google Antig"
     },
     {
       "repo": "QoderAI/better-harness",
