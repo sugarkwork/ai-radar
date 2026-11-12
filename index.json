@@ -1,5 +1,5 @@
 {
-  "count": 967,
+  "count": 968,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -11269,6 +11269,37 @@
       "fetched_at": "2026-11-10T14:10:16.314296+00:00",
       "path": "entries/coding-agent/codejunkie99-system-design-skill.md",
       "summary": "8段階の短いインタビューで要件と規模を整理し、容量見積もり、段階ごとの必要度判断、選択肢とトレードオフの記録、Mermaid図、プレモーテムを作成する。承認用のDESIGN.mdを作り、承認されるまでコードを書かない。"
+    },
+    {
+      "name": "opencode-compaction-anchor",
+      "genre": "coding-agent",
+      "url": "https://github.com/kylebakerio/opencode-compaction-anchor",
+      "repo": "kylebakerio/opencode-compaction-anchor",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "README記載の結果は限定された4タスクで各設定1回の作者報告であり、独立実測ではない。",
+      "stars": 3,
+      "forks": 1,
+      "open_issues": 0,
+      "size_kb": 10,
+      "language": "JavaScript",
+      "created": "2026-11-01",
+      "updated": "2026-11-01",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 2,
+      "commits_90d": 2,
+      "commit_cadence": "monthly",
+      "type": "repo",
+      "added": "2026-11-12",
+      "first_seen": "2026-11-12",
+      "sources": [
+        "https://x.com/ai_hakase_/status/2118615006455418914"
+      ],
+      "fetched_at": "2026-11-12T23:10:14.534880+00:00",
+      "path": "entries/coding-agent/kylebakerio-opencode-compaction-anchor.md",
+      "summary": "OpenCodeの要約後、元の依頼を原文どおり次のメッセージに再挿入するreinsert、要約に元の依頼項目ごとのチェックリストを含めるよう促すchecklistを提供する。任意で会話履歴を書き出して要約に保存先を示すpointer、自動の確認・停止案内を「タスクを続けて」と置き換えるno-stop-and-askもあ"
     },
     {
       "repo": "GDG-OAU/agent-skills-gdg",

@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 967 件 — リポジトリ 637, リンク集 117, 記事 146, モデル 53, プロンプト 14 / ⚑ 要確認 753 件
+収録 968 件 — リポジトリ 638, リンク集 117, 記事 146, モデル 53, プロンプト 14 / ⚑ 要確認 754 件
 
-## リポジトリ（637）
+## リポジトリ（638）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### コーディングエージェント（96）
+### コーディングエージェント（97）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Teddarific/skills](entries/coding-agent/teddarific-skills.md) ⚑ | 18 | 1 | 月次 | 3 | 2026-10-14 | 2026-11-10 | 2026-11-11 | unknown |
 | [davekiss/mods（leaks）](entries/coding-agent/davekiss-mods.md) ⚑ | 12 | 1 | 週次 | 11 | 2026-10-29 | 2026-11-10 | 2026-11-11 | MIT |
 | [system-design-skill](entries/coding-agent/codejunkie99-system-design-skill.md) ⚑ | 9 | 1 | 月次 | 1 | 2026-11-01 | 2026-11-10 | 2026-11-11 | MIT |
+| [opencode-compaction-anchor](entries/coding-agent/kylebakerio-opencode-compaction-anchor.md) ⚑ | 3 | 1 | 月次 | 2 | 2026-11-01 | 2026-11-12 | 2026-11-12 | MIT |
 | [GDG Agent Skillsの実演教材](entries/coding-agent/gdg-oau-agent-skills-gdg.md) ⚑ | 1 | 0 | 週次 | 13 | 2026-11-07 | 2026-11-10 | 2026-11-10 | unknown |
 | [JobFit](entries/coding-agent/du8866-nice-jobfit.md) ⚑ | 1 | 0 | 週次 | 7 | 2026-10-29 | 2026-11-12 | 2026-11-12 | MIT |
 | [Berth](entries/coding-agent/maxzyma-berth.md) ⚑ | 0 | 0 | 毎日 | 100+ | 2026-11-11 | 2026-11-12 | 2026-11-12 | MIT |
@@ -1707,6 +1708,7 @@
 - [Teddarific/skills](entries/coding-agent/teddarific-skills.md) — unverified / README記載のインストール方法や実行条件は未検証です。ライセンスはAPIでunknownと確認されています。 GitHub APIでライセンスを確認できていません。
 - [davekiss/mods（leaks）](entries/coding-agent/davekiss-mods.md) — unverified / ['READMEを確認した。プラグインは実行しておらず、節約額の推計精度、週次利用枠への実際の影響、対応するClaude Codeのバージョン、ログの外部送信がないという作者の説明は未検証。', 'GitHubの公開Releases一覧にリリースの掲載はなかった。']
 - [system-design-skill](entries/coding-agent/codejunkie99-system-design-skill.md) — unverified / READMEによると、実利用はまだなく、テストはURL短縮サービスの模擬インタビュー1回のみ。応答時間、レート制限、tier境界の一部は提案値で、ピーク負荷の2倍設定に標準的根拠はない。README記載の範囲では依存関係の詳細は確認できない。
+- [opencode-compaction-anchor](entries/coding-agent/kylebakerio-opencode-compaction-anchor.md) — unverified / README記載の結果は限定された4タスクで各設定1回の作者報告であり、独立実測ではない。
 - [GDG Agent Skillsの実演教材](entries/coding-agent/gdg-oau-agent-skills-gdg.md) — unverified / 実行未検証。READMEが案内するafterブランチとライセンスを確認できない。
 - [JobFit](entries/coding-agent/du8866-nice-jobfit.md) — unverified / 実モデル利用時は履歴書が選択したAIプロバイダーに送信される。READMEにはプロバイダーへの送信をページ上で案内するとあるが、実際の公開デモでの設定やデータ処理は確認していない。
 - [ApiiroによるClaude Code settings.local.json資格情報漏洩調査](articles/2026-11-09-https-x.com-yoppy0123-status-2119219945179603110.md) — unverified / global gitignore追加だけでは既追跡や後からrepo化したケースを守れない。漏洩時は履歴削除だけでなくまず鍵を失効・ローテーション。実資格情報は転載しない。 当方でインストール・推論・生成・ベンチ再現はしていない。
