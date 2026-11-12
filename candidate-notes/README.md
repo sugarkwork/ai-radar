@@ -66,6 +66,8 @@
   - 公開に必須の根拠がそろっていません。
 - [X: sumika45379 の投稿](https://x.com/sumika45379/status/2118292245107683494)
   - 対象を裏付ける公開一次資料を確認できませんでした。
+- [X: shouvik_palit の投稿](https://x.com/shouvik_palit/status/2120704128309678386)
+  - 公開に必須の根拠がそろっていません。
 - [X: sep_is_heim の投稿](https://x.com/sep_is_heim/status/2118468897397756055)
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
@@ -76,6 +78,8 @@
   - 候補の対象が複数あり、一意に特定できませんでした。
 - [X: quixeltools の投稿](https://x.com/quixeltools/status/2118346475528994821)
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+- [X: okapi_fukugyo の投稿](https://x.com/okapi_fukugyo/status/2118510755746341093)
+  - 元投稿と配布先が同一対象であることを裏付けられませんでした。
 - [X: okapi_fukugyo の投稿](https://x.com/okapi_fukugyo/status/2118459206512873690)
   - 下書きが公開用の検証基準を満たしていません。
 - [X: neuronxwhite の投稿](https://x.com/neuronxwhite/status/2118493379961168258)
@@ -115,8 +119,14 @@
   - 候補の対象が複数あり、一意に特定できませんでした。
 - [X: mingzi206 の投稿](https://x.com/mingzi206/status/2118269752334553089)
   - GitHub APIで元のリポジトリを確認できませんでした。
+- [X: mapte_fireball の投稿](https://x.com/mapte_fireball/status/2118670564932137442)
+  - 候補の対象が複数あり、一意に特定できませんでした。
 - [X: lucasjamali の投稿](https://x.com/lucasjamali/status/2120513123215888591)
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+- [X: jarvis11x の投稿](https://x.com/jarvis11x/status/2118512113543258311)
+  - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+  - 対象を裏付ける公開一次資料を確認できませんでした。
+  - 公開に必須の根拠がそろっていません。
 - [X: jarvis11x の投稿](https://x.com/jarvis11x/status/2118480168511803589)
   - 公開に必須の根拠がそろっていません。
 - [X: iasg1004 の投稿](https://x.com/iasg1004/status/2120513671495344563)
@@ -245,6 +255,12 @@
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 - [X: Av1dlive の投稿](https://x.com/Av1dlive/status/2118386892270149703)
   - 対象を裏付ける公開一次資料を確認できませんでした。
+- [X: AIExplorerTim の投稿](https://x.com/AIExplorerTim/status/2118504409718280596)
+  - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://x.com/AIExplorerTim/status/2118504409718280596>。
+- [X: AIExplorerTim の投稿](https://x.com/AIExplorerTim/status/2118504408036331666)
+  - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://x.com/AIExplorerTim/status/2118504408036331666>。
+- [X: AIExplorerTim の投稿](https://x.com/AIExplorerTim/status/2118504400926945600)
+  - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://x.com/AIExplorerTim/status/2118504400926945600>。
 - [X: AIExplorerTim の投稿](https://x.com/AIExplorerTim/status/2118504399127576931)
   - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://x.com/AIExplorerTim/status/2118504399127576931>。
 - [X: AIExplorerTim の投稿](https://x.com/AIExplorerTim/status/2118504397353419163)
