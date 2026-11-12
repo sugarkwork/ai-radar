@@ -1,5 +1,5 @@
 {
-  "count": 958,
+  "count": 959,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -17295,6 +17295,37 @@
       "fetched_at": "2026-11-09T21:39:50Z",
       "path": "entries/model-serving/gargpratyush-jev-router.md",
       "summary": "各ユーザーターン冒頭でプロンプトの複雑さを判定し、fast（Haiku）/ balanced（Sonnet）/ strong（Opus）/ long（Fable）の tier を選んで実モデルIDへ差し替える。Claude Code と OpenAI Codex の両方に対応。"
+    },
+    {
+      "name": "Locals",
+      "genre": "model-serving",
+      "url": "https://github.com/Generated-Computers/Locals",
+      "repo": "Generated-Computers/Locals",
+      "license": "Apache-2.0",
+      "stars": 647,
+      "language": "Python",
+      "created": "2026-10-12",
+      "updated": "2026-11-12",
+      "forks": 43,
+      "open_issues": 8,
+      "commits_30d": 100,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 4202,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "速度・処理性能に関する数値はREADME記載の作者による測定報告です。READMEに示された機種・メモリ・比較条件の範囲での報告であり、独立実測ではありません。",
+      "type": "repo",
+      "added": "2026-11-12",
+      "first_seen": "2026-11-12",
+      "sources": [
+        "https://x.com/Ryrenz/status/2118555228756639888"
+      ],
+      "fetched_at": "2026-11-12T16:17:04.035226+00:00",
+      "path": "entries/model-serving/generated-computers-locals.md",
+      "summary": "AIモデルをMac上で動かし、複数エージェントからの要求、会話の継続、ツール呼び出しやスキーマに沿ったJSON応答を扱うローカルサーバーです。READMEではOpenCode、Cline、Aider、OpenHands、Claude Codeなどとの連携を説明しています。速度の数値はREADMEに記載された作者の測定報"
     },
     {
       "repo": "Prefrontal-AI/latent-sparse-attention",
