@@ -1,5 +1,5 @@
 {
-  "count": 929,
+  "count": 930,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -10556,6 +10556,37 @@
       "last_release_at": "",
       "path": "entries/coding-agent/uditakhourii-quicksilver.md",
       "summary": "リポジトリ全体や大量ファイルに「このファイルは認証まわりを実装しているか」等の yes/no 判定を一括実行し、該当ファイルだけを確信度付きで返す（qs filter）。"
+    },
+    {
+      "name": "Klik Motion-Graphics System",
+      "genre": "coding-agent",
+      "url": "https://github.com/t3knobox/klik-anim-skill-creation",
+      "repo": "t3knobox/klik-anim-skill-creation",
+      "license": "unknown",
+      "stars": 96,
+      "language": "Python",
+      "created": "2026-08-03",
+      "updated": "2026-08-06",
+      "forks": 19,
+      "open_issues": 0,
+      "commits_30d": 0,
+      "commit_cadence": "stale",
+      "commits_90d": 0,
+      "size_kb": 761,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "ライセンスはGitHub API上で不明。利用許諾の条件は確認できていない。 GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-12",
+      "first_seen": "2026-11-12",
+      "sources": [
+        "https://x.com/PromptLabCN/status/2120750742785171596"
+      ],
+      "fetched_at": "2026-11-12T06:12:46.568650+00:00",
+      "path": "entries/coding-agent/t3knobox-klik-anim-skill-creation.md",
+      "summary": "Remotionでのアニメーション制作向けに、要素の動き方を扱うklik-anim、カメラ移動を扱うklik-cam、プロンプトから動画制作までの工程を扱うklik-remotion-methodを提供する。READMEは、klik-animをイージング・タイミング・振付・視線誘導・チェックリストなどの指針、klik-"
     },
     {
       "name": "jev-code",

@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 929 件 — リポジトリ 605, リンク集 116, 記事 141, モデル 53, プロンプト 14 / ⚑ 要確認 716 件
+収録 930 件 — リポジトリ 606, リンク集 116, 記事 141, モデル 53, プロンプト 14 / ⚑ 要確認 717 件
 
-## リポジトリ（605）
+## リポジトリ（606）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -198,7 +198,7 @@
 | [utillayer/youtube-agent-skill](entries/video-gen/utillayer-youtube-agent-skill.md) ⚑ | 14 | 2 | 週次 | 16 | 2026-10-29 | 2026-11-09 | 2026-11-10 | MIT |
 | [BennyDaBall930/comfyui_hyperflow_int8_nodes](entries/video-gen/bennydaball930-comfyui_hyperflow_int8_nodes.md) ⚑ | 3 | 0 | 週次 | 10 | 2026-11-09 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
 
-### コーディングエージェント（84）
+### コーディングエージェント（85）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -276,6 +276,7 @@
 | [open-source-hands](entries/coding-agent/abouchedidxcode-open-source-hands.md) ⚑ | 205 | 30 | 月次 | 2 | 2026-11-03 | 2026-11-11 | 2026-11-11 | MIT |
 | [Dual-Brain — 設計とコードの二視点レビュー用スキル](entries/coding-agent/sleeplesshan-dual-brain.md) ⚑ | 143 | 11 | 週次 | 6 | 2026-11-06 | 2026-11-09 | 2026-11-10 | MIT |
 | [quicksilver](entries/coding-agent/uditakhourii-quicksilver.md) ⚑ | 142 | 11 | 停滞 | 0 | 2026-09-25 | 2026-11-09 | 2026-11-10 | MIT |
+| [Klik Motion-Graphics System](entries/coding-agent/t3knobox-klik-anim-skill-creation.md) ⚑ | 96 | 19 | 停滞 | 0 | 2026-08-06 | 2026-11-12 | 2026-11-12 | unknown |
 | [jev-code](entries/coding-agent/francoischastel-jev-code.md) ⚑ | 59 | 9 | 月次 | 0 | 2026-10-31 | 2026-11-11 | 2026-11-11 | MIT |
 | [Flow Preview](entries/coding-agent/tanishqkancharla-flow-preview.md) ⚑ | 37 | 3 | 週次 | 13 | 2026-11-06 | 2026-11-10 | 2026-11-11 | Apache-2.0 |
 | [Jev Cookbook](entries/coding-agent/jev-engineering-cookbook.md) ⚑ | 30 | 5 | 毎日 | 73 | 2026-11-10 | 2026-11-11 | 2026-11-11 | MIT |
@@ -1644,6 +1645,7 @@
 - [open-source-hands](entries/coding-agent/abouchedidxcode-open-source-hands.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Dual-Brain — 設計とコードの二視点レビュー用スキル](entries/coding-agent/sleeplesshan-dual-brain.md) — unverified / MIT。投稿のMS関連社内ハッカソンでAI審査員から満点という説明は作者の自己申告で、公式採点記録・Microsoftの推薦や認証を確認したものではない。READMEは旧5事例ベンチの比較条件・トークン二重計上に問題があり旧総数を撤回と明記。普遍的な性能改善や低遅延は保証しない。 当方でインストール・動作・性能の実行検証はしていない。
 - [quicksilver](entries/coding-agent/uditakhourii-quicksilver.md) — unverified / 効果数値は作者自身の12タスク・ベンチマーク（bench/）による自己申告で、第三者による追試や自動テストは無い。bench の再実行には有料の Jev API キーが必要。対象ファイル/ログの内容は TypeSafe の API（api.typesafe.ai）へ送信されるため機密情報には使えない（.env・鍵・証明書・credentials、2MB 超、バイナリはスキップし .gitignore を尊重すると README に記載）。2026-09-25 の初回コミット2件以降の更新が無く、メンテ状況は不明。
+- [Klik Motion-Graphics System](entries/coding-agent/t3knobox-klik-anim-skill-creation.md) — unverified / ライセンスはGitHub API上で不明。利用許諾の条件は確認できていない。 GitHub APIでライセンスを確認できていません。
 - [jev-code](entries/coding-agent/francoischastel-jev-code.md) — unverified / 分類結果の品質・較正性能はこのREADMEでは独立検証されていない。利用にはNode.js 20以上と、選択したホストのAPIキーが必要。ホストごとの料金や費用はREADMEに記載なし。
 - [Flow Preview](entries/coding-agent/tanishqkancharla-flow-preview.md) — unverified / README記載の要件はNode.js 24以降、npm、および生成されたプレビューの依存関係をインストールするためのレジストリアクセス。個別プロジェクトでの適合性や動作結果は未確認。
 - [Jev Cookbook](entries/coding-agent/jev-engineering-cookbook.md) — unverified / The README does not identify the license or provide the runtime requirements of each recipe. Box requires the Jev 1.14 preview and experimental images header. Quality, latency, and cost are not established by synthetic runs; live-result claims require held-out recorded inference with model version, date, and sample count.
