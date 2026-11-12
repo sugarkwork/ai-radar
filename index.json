@@ -1,5 +1,5 @@
 {
-  "count": 946,
+  "count": 947,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -19412,6 +19412,37 @@
       "fetched_at": "2026-11-10T12:30:58+00:00",
       "path": "entries/other/vexa-ai-vexa.md",
       "summary": "Google Meet・Microsoft Teams・Zoomにボットが参加し、話者付きの文字起こしをリアルタイムに取得できると開発元は説明している。発話が重なると話者欄が空になる場合がある。[公式README](https://github.com/Vexa-ai/vexa/blob/main/README.md)"
+    },
+    {
+      "name": "Rhubarb Lip Sync",
+      "genre": "other",
+      "url": "https://github.com/DanielSWolf/rhubarb-lip-sync",
+      "repo": "DanielSWolf/rhubarb-lip-sync",
+      "license": "unknown",
+      "stars": 2763,
+      "language": "C++",
+      "created": "2015-10-19",
+      "updated": "2026-06-16",
+      "forks": 329,
+      "open_issues": 26,
+      "commits_30d": 0,
+      "commit_cadence": "stale",
+      "commits_90d": 0,
+      "size_kb": 120528,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "ライセンスは提供されたリポジトリ情報で確認できず、unknownです。 GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-12",
+      "first_seen": "2026-11-12",
+      "sources": [
+        "https://x.com/RealMarvelX/status/2118525010088251781"
+      ],
+      "fetched_at": "2026-11-12T11:19:46.293973+00:00",
+      "path": "entries/other/danielswolf-rhubarb-lip-sync.md",
+      "summary": "音声ファイルを解析して発話を認識し、2Dの口形アニメーション情報を生成する。CLIではTSV・XML・JSONなどの形式で出力でき、After Effects、Moho、OpenToonz、Spine、Vegas Pro向けの連携もREADMEに記載されている。"
     },
     {
       "repo": "Autumn-27/ScopeSentry",
