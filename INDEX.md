@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 948 件 — リポジトリ 622, リンク集 116, 記事 143, モデル 53, プロンプト 14 / ⚑ 要確認 735 件
+収録 949 件 — リポジトリ 623, リンク集 116, 記事 143, モデル 53, プロンプト 14 / ⚑ 要確認 736 件
 
-## リポジトリ（622）
+## リポジトリ（623）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -203,7 +203,7 @@
 | [jevwire](entries/agent-framework/brainwires-jevwire.md) ⚑ | 27 | 6 | 週次 | 11 | 2026-11-06 | 2026-11-11 | 2026-11-11 | MIT |
 | [web-api-skills](entries/agent-framework/oxylabs-web-api-skills.md) | 13 | 1 | 週次 | 11 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
 
-### コーディングエージェント（91）
+### コーディングエージェント（92）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -277,6 +277,7 @@
 | [min-skill](entries/coding-agent/limin112-min-skill.md) ⚑ | 630 | 94 | 週次 | 14 | 2026-11-05 | 2026-11-11 | 2026-11-11 | unknown |
 | [Machine Skill](entries/coding-agent/airsuphq-machine-skill.md) ⚑ | 625 | 83 | 週次 | 8 | 2026-10-13 | 2026-11-10 | 2026-11-11 | MIT |
 | [Product Engineering](entries/coding-agent/phuryn-product-engineering.md) ⚑ | 455 | 59 | 毎日 | 100+ | 2026-11-08 | 2026-11-10 | 2026-11-11 | MIT |
+| [OnlyShot](entries/coding-agent/a-cat-with-carrots-onlyshot.md) ⚑ | 408 | 43 | 週次 | 11 | 2026-11-12 | 2026-11-12 | 2026-11-12 | MIT |
 | [Video Studio Skill](entries/coding-agent/aaitor-skill-video-studio.md) ⚑ | 390 | 13 | 週次 | 8 | 2026-11-04 | 2026-11-10 | 2026-11-11 | MIT |
 | [Agent HUD](entries/coding-agent/jazzenchen-agent-hud-open.md) ⚑ | 326 | 54 | 毎日 | 100+ | 2026-11-10 | 2026-11-11 | 2026-11-11 | Apache-2.0 |
 | [xAI Plugin Marketplace](entries/coding-agent/xai-org-plugin-marketplace.md) ⚑ | 325 | 1,222 | 毎日 | 31 | 2026-11-09 | 2026-11-10 | 2026-11-10 | unknown |
@@ -1662,6 +1663,7 @@
 - [min-skill](entries/coding-agent/limin112-min-skill.md) — unverified / 各Skill・ツールの詳細な依存関係や実行条件は、それぞれのディレクトリにあるREADMEで確認が必要。 GitHub APIでライセンスを確認できていません。
 - [Machine Skill](entries/coding-agent/airsuphq-machine-skill.md) — unverified / README記載の機能や数値はリポジトリの説明に基づき、独立検証していない。生成結果の精度や動作条件は未確認。
 - [Product Engineering](entries/coding-agent/phuryn-product-engineering.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
+- [OnlyShot](entries/coding-agent/a-cat-with-carrots-onlyshot.md) — unverified / README記載の积分・費用は作者による2026-05時点の実測報告であり、独立実測ではない。
 - [Video Studio Skill](entries/coding-agent/aaitor-skill-video-studio.md) — unverified / 全工程の実行にはローカルのツール環境が必要。README記載の本番要件はNode.js 22以上、FFmpeg/ffprobe、Chromiumおよび補助ツール固有のPython依存関係。ナレーションやアバターには追加サービスまたはGPU環境が必要。効果や費用は確認できない。
 - [Agent HUD](entries/coding-agent/jazzenchen-agent-hud-open.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [xAI Plugin Marketplace](entries/coding-agent/xai-org-plugin-marketplace.md) — unverified / ['最新リリースのタグと公開日は未確認。プラグインの導入・実行、個別機能の有効性や安全性、料金、ライセンスおよび利用条件は未検証。README は公開 raw URL で確認した。'] GitHub APIでライセンスを確認できていません。

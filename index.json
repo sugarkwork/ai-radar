@@ -1,5 +1,5 @@
 {
-  "count": 948,
+  "count": 949,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -10489,6 +10489,37 @@
       "fetched_at": "2026-11-10T23:11:38.679328+00:00",
       "path": "entries/coding-agent/phuryn-product-engineering.md",
       "summary": "コーディングエージェントを使い、最初のアイデアから実ユーザー向けの製品開発、リリース、運用まで進めるためのエージェントスキルを提供する。READMEではClaude Code、Codex、Cursor、Gemini CLI、OpenCode、GitHub Copilotなどで利用できると説明されている。"
+    },
+    {
+      "name": "OnlyShot",
+      "genre": "coding-agent",
+      "url": "https://github.com/A-cat-with-carrots/OnlyShot",
+      "repo": "A-cat-with-carrots/OnlyShot",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "README記載の积分・費用は作者による2026-05時点の実測報告であり、独立実測ではない。",
+      "stars": 408,
+      "forks": 43,
+      "open_issues": 0,
+      "size_kb": 361,
+      "language": "Python",
+      "created": "2026-05-05",
+      "updated": "2026-11-12",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 11,
+      "commits_90d": 11,
+      "commit_cadence": "weekly",
+      "type": "repo",
+      "added": "2026-11-12",
+      "first_seen": "2026-11-12",
+      "sources": [
+        "https://x.com/AIExplorerTim/status/2118530314645672201"
+      ],
+      "fetched_at": "2026-11-12T12:11:31.217038+00:00",
+      "path": "entries/coding-agent/a-cat-with-carrots-onlyshot.md",
+      "summary": "READMEによると、Claude Code Skill「ai-short-drama」は短劇の市場情報、脚本、設定、分镜、分镜图、動画生成、字幕・AI标识付き初剪までを段階的に扱う。動画生成には即梦 dreamina CLIを連携できる。出典: https://github.com/A-cat-with-carrot"
     },
     {
       "name": "Video Studio Skill",
