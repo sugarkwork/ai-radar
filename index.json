@@ -1,5 +1,5 @@
 {
-  "count": 925,
+  "count": 926,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -26454,6 +26454,37 @@
       "last_release_at": "",
       "path": "entries/video-gen/kablex-comfyui-ref2va-vsa.md",
       "summary": "FastVideo由来VSAゲートをRef2VAへ移植し、映像トークンを疎にして少ステップ生成を高速化する実験ComfyUIノード。"
+    },
+    {
+      "name": "claude-motion",
+      "genre": "video-gen",
+      "url": "https://github.com/whaleyxbt/claude-motion",
+      "repo": "whaleyxbt/claude-motion",
+      "stars": 951,
+      "forks": 119,
+      "open_issues": 0,
+      "size_kb": 14821,
+      "language": "JavaScript",
+      "created": "2026-09-29",
+      "updated": "2026-11-08",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 4,
+      "commits_90d": 15,
+      "commit_cadence": "weekly",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景・有効性・依存関係・実行条件。",
+      "type": "repo",
+      "added": "2026-11-12",
+      "first_seen": "2026-11-12",
+      "sources": [
+        "https://x.com/PromptLabCN/status/2120750742785171596"
+      ],
+      "fetched_at": "2026-11-12T06:11:44.233762+00:00",
+      "path": "entries/video-gen/whaleyxbt-claude-motion.md",
+      "summary": "コーディングエージェント向けに、モーションデザインのルール、ビートごとのフレーム確認と修正ループ、タイムラインに同期した音声生成を提供する。Webページとして作ったシミュレーションをフレーム単位で描画し、60 fpsの動画にキャプチャする手順もある。README記載の機能説明であり、個別環境での動作を独立に確認したもの"
     },
     {
       "repo": "konlu/story-studio",
