@@ -1,5 +1,5 @@
 {
-  "count": 924,
+  "count": 925,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -7060,6 +7060,22 @@
       ],
       "fetched_at": "2026-11-10T13:09:00+09:00",
       "path": "articles/2026-10-12-shahir-embeddinggemma-2.md"
+    },
+    {
+      "name": "FlashRelight: Portrait Video Relighting with Dynamic Lighting",
+      "genre": "article",
+      "url": "https://arxiv.org/abs/2611.06355",
+      "published": "2026-11-04",
+      "flags": [],
+      "type": "article",
+      "added": "2026-11-12",
+      "first_seen": "2026-11-12",
+      "risk_notes": "",
+      "sources": [
+        "https://x.com/Machinedelusion/status/2118480227135365270"
+      ],
+      "fetched_at": "2026-11-12T05:10:19Z",
+      "path": "articles/2026-11-04-author-flashrelight-portrait-video-relighting-with-dynamic-lighting.md"
     },
     {
       "name": "FlowTranslator: Training-Free In-Image Machine Translation with Flow-Based Editing",

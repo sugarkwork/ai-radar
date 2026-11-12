@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 924 件 — リポジトリ 601, リンク集 116, 記事 140, モデル 53, プロンプト 14 / ⚑ 要確認 712 件
+収録 925 件 — リポジトリ 601, リンク集 116, 記事 141, モデル 53, プロンプト 14 / ⚑ 要確認 712 件
 
 ## リポジトリ（601）
 
@@ -1160,9 +1160,9 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（140）
+## 記事（141）
 
-### 記事（80）
+### 記事（81）
 
 - **[$0のデジタル参謀長で月$80,000の契約候補を作ったというX投稿（動画付き）](articles/2026-10-22-bober_smart-0-80-000-x.md)** ⚑  @Bober_smart
 - **[1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md)** ⚑  @mukadeshinigami（mukade死神）
@@ -1189,6 +1189,7 @@
 - **[Design the Muse App, Just for You](articles/2026-11-06-author-design-the-muse-app-just-for-you.md)** ⚑
 - **[Eddie Woo の対数講義――「何倍になるまでの時間」を1本の対数で読む](articles/2026-09-14-xsmryze-eddie-woo-1-589eee2ad8.md)** ⚑  xsmryze
 - **[EmbeddingGemma 2を使ったオンデバイス英語文字起こし](articles/2026-10-12-shahir-embeddinggemma-2.md)** ⚑  Shahir
+- **[FlashRelight: Portrait Video Relighting with Dynamic Lighting](articles/2026-11-04-author-flashrelight-portrait-video-relighting-with-dynamic-lighting.md)**
 - **[FlowTranslator: Training-Free In-Image Machine Translation with Flow-Based Editing](articles/2026-11-03-author-flowtranslator-training-free-in-image-machine-translation-with-flow-based-editin.md)** ⚑
 - **[GDG OAUのAgent Skillsワークショップ報告](articles/2026-11-07-gdg-oau-gdg-oau-agent-skills.md)** ⚑  GDG OAU
 - **[GPT‑6 Cyber の公式発表](articles/2026-11-05-openai-gpt-6-cyber.md)** ⚑  OpenAI
