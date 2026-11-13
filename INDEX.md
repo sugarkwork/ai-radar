@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 978 件 — リポジトリ 644, リンク集 117, 記事 150, モデル 53, プロンプト 14 / ⚑ 要確認 763 件
+収録 979 件 — リポジトリ 644, リンク集 117, 記事 151, モデル 53, プロンプト 14 / ⚑ 要確認 764 件
 
 ## リポジトリ（644）
 
@@ -1205,9 +1205,9 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（150）
+## 記事（151）
 
-### 記事（90）
+### 記事（91）
 
 - **[$0のデジタル参謀長で月$80,000の契約候補を作ったというX投稿（動画付き）](articles/2026-10-22-bober_smart-0-80-000-x.md)** ⚑  @Bober_smart
 - **[1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md)** ⚑  @mukadeshinigami（mukade死神）
@@ -1296,6 +1296,7 @@
 - **[業務エージェントの共通基盤と用途別テンプレート](articles/2026-11-07-mike-gannotti-5de4a7af.md)** ⚑  Mike Gannotti
 - **[業務手順の構築と運用でエージェントの役割を分ける提案](articles/2026-10-09-bernat-vadell-b4c1fb04.md)** ⚑  Bernat Vadell
 - **[海外版noteで日本語の知識を英語圏に販売するAI活用記事](articles/2026-11-09-https-x.com-i-article-2117172572655849472.md)** ⚑  @pometa_afi
+- **[演奏収録を起点にした映像制作パイプライン](articles/2026-10-29-aiwarper-df0864a0.md)** ⚑  AIWarper
 - **[無料の動画モーキャプ「RGB MoCap」を試したらすごかった話](articles/2026-11-07-author-rgb-mocap.md)** ⚑
 - **[画像1枚から3Dの「Idol」を16GB GPUで動かした——キャラシート正面1枚が37秒で26万粒のガウシアンスプラットに。Blender 5.3はアドオンなしで読んで撮れた](articles/2026-11-09-author-1-3d-idol-16gb-gpu-1-37-26-blender-5.3.md)** ⚑
 - **[自主制作AIドラマ《最后的巨魔》](articles/2026-10-22-jiuyueaigc-ai.md)** ⚑  @JiuYueAIGC
@@ -1632,6 +1633,7 @@
 - [業務エージェントの共通基盤と用途別テンプレート](articles/2026-11-07-mike-gannotti-5de4a7af.md) — unverified / 公開日は共有投稿のUTC日付。運用実績と費用対効果は未検証。
 - [業務手順の構築と運用でエージェントの役割を分ける提案](articles/2026-10-09-bernat-vadell-b4c1fb04.md) — unverified / 公開日はUTC。製品の提供状況と効果は未確認。
 - [海外版noteで日本語の知識を英語圏に販売するAI活用記事](articles/2026-11-09-https-x.com-i-article-2117172572655849472.md) — unverified, low-quality / 年500万円・価格7〜10倍は著者の自己申告。収益の再現性、PDFの内容・料金・権利条件は未確認。 当方でインストール・推論・生成・ベンチ再現はしていない。
+- [演奏収録を起点にした映像制作パイプライン](articles/2026-10-29-aiwarper-df0864a0.md) — unverified / 投稿者の実践メモです。効果・原因・再現条件は独立した資料では未確認です。
 - [無料の動画モーキャプ「RGB MoCap」を試したらすごかった話](articles/2026-11-07-author-rgb-mocap.md) — unverified / 記事で報告される処理時間、メモリ・VRAM使用量、精度や補正効果は著者の特定環境・動画での結果であり、独立した測定や一般的な性能保証ではない。
 - [画像1枚から3Dの「Idol」を16GB GPUで動かした——キャラシート正面1枚が37秒で26万粒のガウシアンスプラットに。Blender 5.3はアドオンなしで読んで撮れた](articles/2026-11-09-author-1-3d-idol-16gb-gpu-1-37-26-blender-5.3.md) — unverified / H3の参照動画に使った場合の改善効果は未検証。記事中の生成時間・VRAM値は作者環境での報告で、異なる環境や入力での性能を保証しない。
 - [自主制作AIドラマ《最后的巨魔》](articles/2026-10-22-jiuyueaigc-ai.md) — unverified / 再生数と制作ツールは未確認。
