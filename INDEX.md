@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 987 件 — リポジトリ 651, リンク集 117, 記事 152, モデル 53, プロンプト 14 / ⚑ 要確認 771 件
+収録 988 件 — リポジトリ 651, リンク集 117, 記事 153, モデル 53, プロンプト 14 / ⚑ 要確認 772 件
 
 ## リポジトリ（651）
 
@@ -1212,7 +1212,7 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（152）
+## 記事（153）
 
 ### 記事（92）
 
@@ -1341,6 +1341,15 @@
 - **[Solvaix MEP・Claude間取り図からの設計事例](articles/2026-11-09-https-x.com-taziku_co-status-2119267211206635743.md)** ⚑  @taziku_co
 - **[白素体とプロンプトの同時変更による3方向比較（記事54）](articles/2026-11-09-https-make-profit.net-2026-11-06-genai-lab-54-blender-mixamo-h3-soft-body-mannequin-three-angles-regenerated.md)** ⚑  @Phantom_202601
 
+### 音声・TTS（6）
+
+- **[Introducing Chariot-1-TTS-Multilingual](articles/2026-11-12-author-introducing-chariot-1-tts-multilingual.md)** ⚑
+- **[Museで既存動画へ声を付ける制作メモ（18+注意）](articles/2026-11-09-memuringo7544-muse-video-voiceover.md)** ⚑  @memuringo7544
+- **[Muse・無料GPUによるYuE2実行手順（本文未取得）](articles/2026-11-09-https-x.com-i-article-2118941631386996736.md)** ⚑  @Eris_Create_Lab
+- **[Muse内Irodori音声ライブラリ制作事例](articles/2026-11-09-https-x.com-memuringo7544-status-2118972621866012726.md)** ⚑  @memuringo7544
+- **[成人向けSEライブラリの分類・検索UI制作事例](articles/2026-11-09-https-x.com-de_nier_ai-status-2119342412611068332.md)** ⚑  @memuringo7544
+- **[音声を短文分割生成し接合部を調整する運用メモ](articles/2026-11-09-topic-ai_1610-audio-segment-join.md)** ⚑  @ai_1610
+
 ### 画像生成・編集（5）
 
 - **[ChatGPT Images 2.6 GIFと参照画像登録の解説](articles/2026-11-09-https-x.com-midori_tatsuta-status-2119030202315743254.md)** ⚑  @midori_tatsuta
@@ -1348,14 +1357,6 @@
 - **[MOSS-Image-Baseの二段階ComfyUIワークフロー](articles/2026-11-05-ciclosporin-moss-image-base-comfyui.md)** ⚑  Ciclosporin
 - **[P-H3の成人向け利用レポート（18+）](articles/2026-11-08-taki_auto-p-h3-adult-report.md)** ⚑  @taki_auto
 - **[totaku_originalのビジュアル完成度を高める制作手順](articles/2026-11-09-https-x.com-i-article-2118242706573135872.md)** ⚑  @shun_cmdouga
-
-### 音声・TTS（5）
-
-- **[Museで既存動画へ声を付ける制作メモ（18+注意）](articles/2026-11-09-memuringo7544-muse-video-voiceover.md)** ⚑  @memuringo7544
-- **[Muse・無料GPUによるYuE2実行手順（本文未取得）](articles/2026-11-09-https-x.com-i-article-2118941631386996736.md)** ⚑  @Eris_Create_Lab
-- **[Muse内Irodori音声ライブラリ制作事例](articles/2026-11-09-https-x.com-memuringo7544-status-2118972621866012726.md)** ⚑  @memuringo7544
-- **[成人向けSEライブラリの分類・検索UI制作事例](articles/2026-11-09-https-x.com-de_nier_ai-status-2119342412611068332.md)** ⚑  @memuringo7544
-- **[音声を短文分割生成し接合部を調整する運用メモ](articles/2026-11-09-topic-ai_1610-audio-segment-join.md)** ⚑  @ai_1610
 
 ### コーディングエージェント（4）
 
@@ -2078,6 +2079,7 @@
 - [lowkeytea/scyllasband](entries/tts-audio/lowkeytea-scyllasband.md) — unverified / ランタイムApache-2.0と各構成要素の条件を確認する。モデルの70ms等を全デバイスでの実測保証にしない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [muse-irodori-voice — CPUで固有音声を作るIrodoriキット](entries/tts-audio/kgmkm-muse-irodori-voice.md) — unverified / コードはMITだが重みと音声利用条件は別。READMEは特定声優・キャラクターへの模倣を禁じ、同意のない他者のなりすまし等にも注意する。このONNX経路ではSilentCipher透かしが入らないと説明されているためAI音声であることを明示する。速度・同一性・品質は作者の測定で当方未追試。 当方でインストール・動作・性能の実行検証はしていない。
 - [lab-tts](entries/tts-audio/lakimi-ai-systems-lab-tts.md) — unverified / 最新リリース、実行時の動作と必要VRAM、公開結果の再現性は未確認。Audio8の休止時間は日常文1例での著者報告。モデルの利用条件はリポジトリREADMEの記載を確認した範囲。
+- [Introducing Chariot-1-TTS-Multilingual](articles/2026-11-12-author-introducing-chariot-1-tts-multilingual.md) — unverified / 評価順位と数値はChariotが2026-11-11の評価で比較対象とした構成に限る。音声品質の値は自動評価器NISQAによる予測値であり、独立検証結果ではない。
 - [Museで既存動画へ声を付ける制作メモ（18+注意）](articles/2026-11-09-memuringo7544-muse-video-voiceover.md) — unverified / 18+ / NSFW。成人向けを含む動画への音声付与に関する投稿。原音除去/重ね合わせの説明と口パク一致の限界を区別。画像内のAI回答は動作証拠ではなく、ユーザーの成功談も独立追試していない。
 - [Muse・無料GPUによるYuE2実行手順（本文未取得）](articles/2026-11-09-https-x.com-i-article-2118941631386996736.md) — unverified / 具体的な無料GPU・接続方法・費用・原文指示は未確認。YuE2本体の実在を記事の手順成功の証拠にしない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Muse内Irodori音声ライブラリ制作事例](articles/2026-11-09-https-x.com-memuringo7544-status-2118972621866012726.md) — unverified / 18+ / NSFWに関連する音声分類を含む。音声・露骨な題名は転載しない。コード・配布URLとMuse内保存/共有条件は未確認で、UI画像は再現性の証明ではない。 当方でインストール・推論・生成・ベンチ再現はしていない。

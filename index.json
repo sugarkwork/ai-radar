@@ -1,5 +1,5 @@
 {
-  "count": 987,
+  "count": 988,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -25365,6 +25365,24 @@
       "signup_required": false,
       "path": "models/tts-audio/third-intelligence-haas-ja-v1-0.md",
       "summary": "**日本語音声認識（ASR）モデル**。NVIDIA Parakeet-TDT 系の構成（FastConformer エンコーダ＋ TDT デコーダ）で、予測ネットワークの LSTM を **Kimi Delta Attention（KDA）** に置き換えている。"
+    },
+    {
+      "name": "Introducing Chariot-1-TTS-Multilingual",
+      "genre": "tts-audio",
+      "url": "https://chariot.in/news/introducing-chariot-1-tts-multilingual/",
+      "published": "2026-11-12",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "評価順位と数値はChariotが2026-11-11の評価で比較対象とした構成に限る。音声品質の値は自動評価器NISQAによる予測値であり、独立検証結果ではない。",
+      "type": "article",
+      "added": "2026-11-13",
+      "first_seen": "2026-11-13",
+      "sources": [
+        "https://x.com/verbex_ai/status/2121049583803662549"
+      ],
+      "fetched_at": "2026-11-13T07:18:37.679303+00:00",
+      "path": "articles/2026-11-12-author-introducing-chariot-1-tts-multilingual.md"
     },
     {
       "type": "article",
