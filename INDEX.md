@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 995 件 — リポジトリ 657, リンク集 117, 記事 154, モデル 53, プロンプト 14 / ⚑ 要確認 779 件
+収録 996 件 — リポジトリ 657, リンク集 117, 記事 155, モデル 53, プロンプト 14 / ⚑ 要確認 780 件
 
 ## リポジトリ（657）
 
@@ -1218,7 +1218,7 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（154）
+## 記事（155）
 
 ### 記事（93）
 
@@ -1337,7 +1337,7 @@
 - **[錬金学総論(62) 走る女性の顔クローズアップ](articles/2026-11-08-author-62.md)** ⚑
 - **[錬金学総論58 MiniMax H3のLoRA一覧](articles/2026-11-09-topic-phantom_202601-h3-lora-list-58.md)** ⚑  @Phantom_202601
 
-### 3D・モーション（8）
+### 3D・モーション（9）
 
 - **[Cascadeur AI inbetweening](articles/2026-11-09-cascadeur-ai-inbetweening-introduction.md)** ⚑  @AYi_AInotes
 - **[Charakuru→Blender→C4D MCP→Octaneトゥーン制作例](articles/2026-11-09-topic-seventhgraphics-charakuru-octane.md)** ⚑  @seventhgraphics
@@ -1345,6 +1345,7 @@
 - **[Muse・Blender・PLATEAUの大阪城制作実例と生成破綻](articles/2026-11-09-topic-noel_ai_lab-osaka-castle-muse-plateau.md)** ⚑  @noel_ai_lab
 - **[Möbius：動作理解・生成・編集の統合研究](articles/3d-motion/2026-11-03-mobius-motion-language.md)** ⚑
 - **[SAM 3.1・SAM 3D Bodyの複数人モーション制作例](articles/2026-11-09-https-x.com-l_arch_01-status-2119383964167409667.md)** ⚑  @L_ARCH_01
+- **[SlimeVRのヘッドセット不要モーションキャプチャモード紹介](articles/2026-11-06-author-slimevr.md)** ⚑
 - **[Solvaix MEP・Claude間取り図からの設計事例](articles/2026-11-09-https-x.com-taziku_co-status-2119267211206635743.md)** ⚑  @taziku_co
 - **[白素体とプロンプトの同時変更による3方向比較（記事54）](articles/2026-11-09-https-make-profit.net-2026-11-06-genai-lab-54-blender-mixamo-h3-soft-body-mannequin-three-angles-regenerated.md)** ⚑  @Phantom_202601
 
@@ -1485,6 +1486,7 @@
 - [Möbius：動作理解・生成・編集の統合研究](articles/3d-motion/2026-11-03-mobius-motion-language.md) — unverified / 公式コード公開は内部審査中。プロジェクトページは事前計算した例の閲覧であり自由入力の推論ではない。論文の比較は作者評価、実行や権利条件は未確認。
 - [SAM 3.1・SAM 3D Bodyの複数人モーション制作例](articles/2026-11-09-https-x.com-l_arch_01-status-2119383964167409667.md) — unverified / 配布元の独自SAM Licenseと手動承認ゲート、元映像の人物の同意・プライバシーに注意。UI比較映像は精度・一貫性の独立測定ではない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [SHOT OF THE DEAD — ブラウザ3Dプリビズ](links/3d-motion/shotofthedead.com-shot-of-the-dead.md) — unverified / macOS/WindowsのChrome対象。Safari/Firefox非対応、他Chromiumは未検証。最終AI動画は外部モデルで生成する。投稿の12月10日までのPro特典、25ドル割引・コードLOOPYは投稿者の案内で、今回有効性を確認していない。 当方では導入・生成・操作の実行検証をしていない。
+- [SlimeVRのヘッドセット不要モーションキャプチャモード紹介](articles/2026-11-06-author-slimevr.md) — unverified / 汎用性や制約の少なさ、スタジオ級の品質は投稿者側の説明で、独立検証された性能としては確認できない。試用にはSlimeVRトラッカーとDiscordのベータチャンネルへのアクセスが必要と投稿に記載されている。
 - [Solvaix MEP・Claude間取り図からの設計事例](articles/2026-11-09-https-x.com-taziku_co-status-2119267211206635743.md) — unverified / 件数はSolvaixの自己申告で独立検証なし。建築・設備の法令/構造/安全審査をAIや案数だけで代替できない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [TailorRig](links/3d-motion/xxxx0601.github.io-tailorrig.md) — unverified / 論文・デモと研究用データセットは公開。記載されたGitHubコードURLは404、推論コード・重みは未確認。データセットカードは学術研究のみ・商用や製品利用不可とし、LICENSE原文は対象をソフト・重みと記載しているため、対象範囲や第三者素材の権利は配布元に確認。性能は論文の評価で実行未検証。
 - [TailorRig Dataset](links/3d-motion/huggingface-tencent-tailorrig-dataset.md) — unverified / カードは学術研究専用・商用および製品用途不可と記載。添付LICENSEのTailorRigの定義はコード・重みであり、データへの適用範囲や第三者由来素材の条件は配布元に確認。データ内容やダウンロード後の動作は未検証。

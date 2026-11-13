@@ -1,5 +1,5 @@
 {
-  "count": 995,
+  "count": 996,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -2673,6 +2673,24 @@
       "fetched_at": "2026-11-07T10:59:19Z",
       "path": "links/3d-motion/sandflow.ai-sand3d-sand3d.md",
       "summary": "3D 形状を「部品ごとの短い Python プログラム」として記述するためのライブラリ。座標を手計算せず、名前付きの部品・辺・面を操作するので、LLM が数百トークンで物体を書き、人間がそのまま読める。"
+    },
+    {
+      "name": "SlimeVRのヘッドセット不要モーションキャプチャモード紹介",
+      "genre": "3d-motion",
+      "url": "https://www.reddit.com/r/SlimeVR/comments/1xp9owo/our_headsetless_motion_capture_mode_in_slimevr/",
+      "published": "2026-11-06",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "汎用性や制約の少なさ、スタジオ級の品質は投稿者側の説明で、独立検証された性能としては確認できない。試用にはSlimeVRトラッカーとDiscordのベータチャンネルへのアクセスが必要と投稿に記載されている。",
+      "type": "article",
+      "added": "2026-11-13",
+      "first_seen": "2026-11-13",
+      "sources": [
+        "https://x.com/toyxyz3/status/2118661398050004999"
+      ],
+      "fetched_at": "2026-11-13T11:16:05.627449+00:00",
+      "path": "articles/2026-11-06-author-slimevr.md"
     },
     {
       "type": "article",
