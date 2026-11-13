@@ -1,5 +1,5 @@
 {
-  "count": 973,
+  "count": 974,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -11828,6 +11828,37 @@
       "type": "repo",
       "path": "entries/eval/tencent-ai-infra-guard.md",
       "summary": "AI 構成物のセキュリティ検査を1つの Web UI にまとめたプラットフォーム（Tencent Zhuque Lab）。個別のスキャナを単体 CLI としても配布している。"
+    },
+    {
+      "name": "PyRIT (Python Risk Identification Tool for generative AI)",
+      "genre": "eval",
+      "url": "https://github.com/microsoft/PyRIT",
+      "repo": "microsoft/PyRIT",
+      "license": "MIT",
+      "stars": 4801,
+      "language": "Python",
+      "created": "2023-12-12",
+      "updated": "2026-11-12",
+      "forks": 1050,
+      "open_issues": 285,
+      "commits_30d": 100,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 506810,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景・有効性・依存関係・実行条件。",
+      "type": "repo",
+      "added": "2026-11-13",
+      "first_seen": "2026-11-13",
+      "sources": [
+        "https://x.com/mingzi206/status/2118628554883883348"
+      ],
+      "fetched_at": "2026-11-13T00:13:04.411900+00:00",
+      "path": "entries/eval/microsoft-pyrit.md",
+      "summary": "生成AIシステムのセキュリティ・安全性上の弱点を見つけるための評価を支援する。CLIから再現可能な評価を実行するScanner、ブラウザーで結果を確認できるCoPyRIT GUI、独自のレッドチームワークフローを組み立てて拡張するPython frameworkを備える。OpenAI、Anthropic、Azure O"
     },
     {
       "type": "repo",

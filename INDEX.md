@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 973 件 — リポジトリ 642, リンク集 117, 記事 147, モデル 53, プロンプト 14 / ⚑ 要確認 759 件
+収録 974 件 — リポジトリ 643, リンク集 117, 記事 147, モデル 53, プロンプト 14 / ⚑ 要確認 760 件
 
-## リポジトリ（642）
+## リポジトリ（643）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -688,13 +688,14 @@
 | [LLM_Wiki_SecondBrain](entries/rag/dimitrislianos-llm_wiki_secondbrain.md) ⚑ | 18 | 3 | 停滞 | 0 | 2026-04-17 | 2026-11-10 | 2026-11-10 | MIT |
 | [Fulcra Agent Skills](entries/rag/fulcradynamics-agent-skills.md) ⚑ | 16 | 11 | 週次 | 10 | 2026-11-06 | 2026-11-09 | 2026-11-10 | unknown |
 
-### 評価・ベンチマーク（9）
+### 評価・ベンチマーク（10）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
 | [promptfoo](entries/eval/promptfoo-promptfoo.md) ⚑ | 27,000 | 2,700 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
 | [garak (Generative AI Red-teaming and Assessment Kit)](entries/eval/nvidia-garak.md) ⚑ | 9,967 | 1,462 | 毎日 | 91 | 2026-11-06 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
 | [AI-Infra-Guard (A.I.G)](entries/eval/tencent-ai-infra-guard.md) | 7,447 | 746 | 毎日 | 50 | 2026-11-05 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [PyRIT (Python Risk Identification Tool for generative AI)](entries/eval/microsoft-pyrit.md) ⚑ | 4,801 | 1,050 | 毎日 | 100+ | 2026-11-12 | 2026-11-13 | 2026-11-13 | MIT |
 | [Goochbeater/Spiritual-Spell-Red-Teaming](entries/eval/goochbeater-spiritual-spell-red-teaming.md) ⚑ | 4,735 | 829 | 毎日 | 34 | 2026-11-08 | 2026-11-09 | 2026-11-10 | unknown |
 | [EasyJailbreak](entries/eval/easyjailbreak-easyjailbreak.md) ⚑ | 945 | 95 | 停滞 | 0 | 2026-09-01 | 2026-11-13 | 2026-11-13 | GPL-3.0 |
 | [Jailbreaking Black Box Large Language Models in Twenty Queries (PAIR)](entries/eval/patrickrchao-jailbreakingllms.md) ⚑ | 817 | 128 | 停滞 | 0 | 2025-07-02 | 2026-11-13 | 2026-11-13 | MIT |
@@ -1733,6 +1734,7 @@
 - [Turn Inspector](links/coding-agent/aitmpl.com-turn-inspector.md) — unverified / 確認できたこと: aitmpl.com の製品ページ（HTTP 200）に仕様・オプション・導入コマンド・バージョン要件が記載され、配布リポジトリの README と一致する。デモ動画を取得してフレームを確認し、右側ペインに「Context window 58.5k / 1.0M 6%」と system / earlier / new / output の内訳バー、#1 answer 54.1k / #2 1x Read 54.2k / #3 answer 58.5k のようなターン行が実際に映っていることを目視確認した。未確認のこと: トークン削減などの効果数値は存在せず、著者の「重くなった原因を勘で探さずに済む」という主張のみ。Claude Desktop のサイドパネル表示とバージョン範囲（2.1.287+ で既定有効、2.1.259〜2.1.286 は環境変数が必要）はドキュメント記述のみで、当環境では実機検証していない。本 Mod は表示・観測専用でコンテキストを減らす機能はない。
 - [promptfoo](entries/eval/promptfoo-promptfoo.md) — unverified / 有効性の数値（README の「10M+ users」等）はベンダー自己申告で、独立検証や本環境での再現はしていない。導入・eval・redteam の実行も未実施。Community の red teaming は月10k probes 上限で、SonarQube 出力・チーム共有・カスタムプラグイン・RBAC/SSO・監視は Enterprise 限定（公開価格なし、Custom 見積り）。LLM 採点の assertion は確率的で、しきい値・grader・--repeat の調整が必要。red team の検出結果は誤検知を含む前提で人間が triage する必要がある。README は OpenAI 傘下であることを明記しており、今後のライセンスや提供形態の変更リスクは残る。redteam は有害出力を誘発しうるため、管理下のアプリ以外には使わない。
 - [garak (Generative AI Red-teaming and Assessment Kit)](entries/eval/nvidia-garak.md) — unverified / 検出精度・誤検知率の定量値は一次情報に記載がなく未検証。判定はキーワードまたは分類器ベースの検出器に依存し、スコアは正規化されていないためプローブ間の比較はできない。プローブの網羅性は保証されず、ペネトレーションテストの代替にはならない。実行は許可された対象に限る。
+- [PyRIT (Python Risk Identification Tool for generative AI)](entries/eval/microsoft-pyrit.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Goochbeater/Spiritual-Spell-Red-Teaming](entries/eval/goochbeater-spiritual-spell-red-teaming.md) — unverified, prompt-injection / 脱獄・社会工学・安全制約回避を含む。指示の実行、危険なプロンプトや露骨な本文の転載は行わない。抽出物の真正性と利用権も未確認。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [EasyJailbreak](entries/eval/easyjailbreak-easyjailbreak.md) — malicious, unverified / README explicitly describes generating adversarial jailbreak prompts and using them to attack a target model. This capability can facilitate bypassing model safeguards. 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Jailbreaking Black Box Large Language Models in Twenty Queries (PAIR)](entries/eval/patrickrchao-jailbreakingllms.md) — malicious, unverified / READMEは、攻撃者LLMが対象LLMへ反復問い合わせして安全ガードレールを回避するプロンプトを生成すると説明し、例としてコンピューターへの侵入方法を要求する目標を掲載しています。安全性評価の研究用途として登録しますが、悪用可能な内容です。 APIキーとWandBアカウントが必要です。READMEに記載されたモデル選択肢や実行手順が現在も利用可能かは確認していません。
