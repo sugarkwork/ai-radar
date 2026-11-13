@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 996 件 — リポジトリ 657, リンク集 117, 記事 155, モデル 53, プロンプト 14 / ⚑ 要確認 780 件
+収録 997 件 — リポジトリ 658, リンク集 117, 記事 155, モデル 53, プロンプト 14 / ⚑ 要確認 781 件
 
-## リポジトリ（657）
+## リポジトリ（658）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -111,6 +111,107 @@
 | [JobFit](entries/coding-agent/du8866-nice-jobfit.md) ⚑ | 1 | 0 | 週次 | 7 | 2026-10-29 | 2026-11-12 | 2026-11-12 | MIT |
 | [Berth](entries/coding-agent/maxzyma-berth.md) ⚑ | 0 | 0 | 毎日 | 100+ | 2026-11-11 | 2026-11-12 | 2026-11-12 | MIT |
 | [Leash](entries/coding-agent/cmaintz-leash.md) ⚑ | 0 | 0 | 毎日 | 21 | 2026-11-06 | 2026-11-10 | 2026-11-11 | MIT |
+
+### エージェント基盤・スキル集（96）
+
+| 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
+|---|---:|---:|---|---:|---|---|---|---|
+| [Skills for Real Engineers](entries/agent-framework/mattpocock-skills.md) | 319,628 | 26,760 | 週次 | 8 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [Superpowers](entries/agent-framework/obra-superpowers.md) | 315,107 | 28,031 | 月次 | 3 | 2026-11-03 | 2026-11-09 | 2026-11-10 | MIT |
+| [n8n](entries/agent-framework/n8n-io-n8n.md) ⚑ | 209,990 | 61,430 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | unknown |
+| [Firecrawl](entries/agent-framework/firecrawl-firecrawl.md) ⚑ | 200,407 | 10,543 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-11 | AGPL-3.0 |
+| [anthropics/skills](entries/agent-framework/anthropics-skills.md) ⚑ | 190,810 | 22,434 | 月次 | 2 | 2026-11-06 | 2026-11-09 | 2026-11-10 | unknown |
+| [Ponytail](entries/agent-framework/dietrichgebert-ponytail.md) | 187,617 | 10,404 | 毎日 | 50 | 2026-10-29 | 2026-11-09 | 2026-11-10 | MIT |
+| [Dify](entries/agent-framework/langgenius-dify.md) ⚑ | 160,853 | 25,444 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-11 | unknown |
+| [gstack（Garry's Stack）](entries/agent-framework/garrytan-gstack.md) | 140,943 | 20,797 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [Browser Use](entries/agent-framework/browser-use-browser-use.md) ⚑ | 120,559 | 13,471 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-11 | MIT |
+| [thedotmack/claude-mem](entries/agent-framework/thedotmack-claude-mem.md) ⚑ | 115,363 | 10,019 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [paperclip](entries/agent-framework/paperclipai-paperclip.md) | 112,618 | 18,677 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [Agent-Reach](entries/agent-framework/panniantong-agent-reach.md) | 110,600 | 9,905 | 毎日 | 100+ | 2026-11-08 | 2026-11-09 | 2026-11-10 | MIT |
+| [Impeccable](entries/agent-framework/pbakaus-impeccable.md) | 106,815 | 6,347 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [OpenHands Agent Canvas](entries/agent-framework/openhands-openhands.md) ⚑ | 93,244 | 12,457 | 毎日 | 100+ | 2026-11-11 | 2026-11-11 | 2026-11-11 | MIT |
+| [Crawl4AI](entries/agent-framework/unclecode-crawl4ai.md) ⚑ | 87,228 | 9,090 | 毎日 | 30 | 2026-11-10 | 2026-11-11 | 2026-11-11 | Apache-2.0 |
+| [lobehub/lobehub](entries/agent-framework/lobehub-lobehub.md) ⚑ | 84,579 | 16,168 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | NOASSERTION |
+| [strix](entries/agent-framework/usestrix-strix.md) | 74,664 | 8,445 | 毎日 | 55 | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [Security Audit Skill (Cloudflare)](entries/agent-framework/cloudflare-security-audit-skill.md) | 67,955 | 4,455 | 月次 | 0 | 2026-09-14 | 2026-11-09 | 2026-11-10 | MIT |
+| [CrewAI](entries/agent-framework/crewaiinc-crewai.md) ⚑ | 60,778 | 9,154 | 毎日 | 100+ | 2026-11-11 | 2026-11-11 | 2026-11-11 | MIT |
+| [CLI-Anything](entries/agent-framework/hkuds-cli-anything.md) | 58,505 | 5,270 | 月次 | 0 | 2026-09-22 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [Flowise](entries/agent-framework/flowiseai-flowise.md) ⚑ | 55,567 | 25,094 | 停滞 | 0 | 2026-08-13 | 2026-11-11 | 2026-11-11 | unknown |
+| [agentic-awesome-skills（AAS）](entries/agent-framework/sickn33-agentic-awesome-skills.md) | 49,414 | 7,167 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [claude-plugins-official](entries/agent-framework/anthropics-claude-plugins-official.md) | 46,615 | 4,858 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [oh-my-claudecode](entries/agent-framework/yeachan-heo-oh-my-claudecode.md) ⚑ | 40,729 | 3,637 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | MIT |
+| [ai-website-cloner-template](entries/agent-framework/jcodesmore-ai-website-cloner-template.md) | 38,914 | 5,791 | 月次 | 0 | 2026-10-19 | 2026-11-09 | 2026-11-10 | MIT |
+| [PentAGI](entries/agent-framework/vxcontrol-pentagi.md) ⚑ | 33,799 | 5,305 | 月次 | 1 | 2026-10-22 | 2026-11-09 | 2026-11-10 | MIT |
+| [GBrain](entries/agent-framework/garrytan-gbrain.md) ⚑ | 32,488 | 4,838 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-11 | MIT |
+| [Composio](entries/agent-framework/composiohq-composio.md) ⚑ | 31,014 | 4,935 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-11 | MIT |
+| [TencentDB Agent Memory（チームで共有するエージェント記憶ハブ）](entries/agent-framework/tencentcloud-tencentdb-agent-memory.md) | 30,693 | 2,999 | 毎日 | 22 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT（GitHub API は NOASSERTION） |
+| [GPT Researcher](entries/agent-framework/assafelovic-gpt-researcher.md) ⚑ | 30,630 | 4,211 | 毎日 | 100+ | 2026-11-09 | 2026-11-11 | 2026-11-11 | Apache-2.0 |
+| [Activepieces](entries/agent-framework/activepieces-activepieces.md) ⚑ | 25,479 | 4,454 | 毎日 | 100+ | 2026-11-11 | 2026-11-11 | 2026-11-11 | unknown |
+| [Jev Ultrafast](entries/agent-framework/browser-use-jev-ultrafast.md) ⚑ | 24,346 | 1,874 | 月次 | 1 | 2026-11-03 | 2026-11-10 | 2026-11-11 | MIT |
+| [google/skills](entries/agent-framework/google-skills.md) ⚑ | 23,767 | 1,986 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [dsh-superagent (prototype)](entries/agent-framework/deepseek-ai-dsh-superagent-prototype.md) | 21,726 | 2,608 | 月次 | 1 | 2026-11-03 | 2026-11-09 | 2026-11-10 | MIT |
+| [agent-desktop](entries/agent-framework/vercel-labs-agent-desktop.md) | 20,364 | 1,507 | 毎日 | 81 | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [Claude Quickstarts](entries/agent-framework/anthropics-claude-quickstarts.md) ⚑ | 20,218 | 3,373 | 週次 | 5 | 2026-11-06 | 2026-11-10 | 2026-11-10 | MIT |
+| [milind-soni/OpenMausBot](entries/agent-framework/milind-soni-openmausbot.md) ⚑ | 19,575 | 2,682 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [ccch1mneyyy/dsh-Go](entries/agent-framework/ccch1mneyyy-dsh-go.md) ⚑ | 17,518 | 757 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | AGPL-3.0 |
+| [ARTEMIS](entries/agent-framework/google-artemis.md) | 17,116 | 1,909 | 月次 | 0 | 2026-10-01 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [opensandbox-group/OpenSandbox](entries/agent-framework/opensandbox-group-opensandbox.md) ⚑ | 16,881 | 1,589 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [LiveKit Agents](entries/agent-framework/livekit-agents.md) | 15,158 | 4,108 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [OpenUI](entries/agent-framework/thesysdev-openui.md) | 15,026 | 998 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [e2e](entries/agent-framework/e2e-inc-e2e.md) ⚑ | 13,799 | 732 | 毎日 | 100+ | 2026-11-13 | 2026-11-13 | 2026-11-13 | Apache-2.0 |
+| [unslop](entries/agent-framework/heydamir-unslop.md) | 12,694 | 713 | 毎日 | 29 | 2026-11-08 | 2026-11-09 | 2026-11-10 | CC-BY-4.0 |
+| [Worktrunk](entries/agent-framework/max-sixty-worktrunk.md) ⚑ | 12,258 | 475 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT OR Apache-2.0 |
+| [jakubkrehel/skills（UI デザインスキル集）](entries/agent-framework/jakubkrehel-skills.md) | 11,856 | 461 | 毎日 | 39 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [dsh-market/dsh-market](entries/agent-framework/dsh-market-dsh-market.md) ⚑ | 11,675 | 444 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [InkOS](entries/agent-framework/narcooo-inkos.md) | 11,086 | 2,015 | 週次 | 6 | 2026-10-24 | 2026-11-09 | 2026-11-10 | AGPL-3.0 |
+| [AutoHarness](entries/agent-framework/tigerless-labs-autoharness.md) ⚑ | 10,940 | 654 | 毎日 | 100+ | 2026-11-10 | 2026-11-11 | 2026-11-11 | MIT |
+| [zhu1090093659/dsh-web](entries/agent-framework/zhu1090093659-dsh-web.md) ⚑ | 10,279 | 626 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [Mobilerun](entries/agent-framework/droidrun-mobilerun.md) ⚑ | 10,004 | 1,086 | 毎日 | 94 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [Orkas](entries/agent-framework/orkas-ai-orkas.md) ⚑ | 9,183 | 534 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-11 | MIT |
+| [firstmate](entries/agent-framework/kunchenguid-firstmate.md) ⚑ | 8,753 | 2,734 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-11 | MIT |
+| [CyberStrikeAI](entries/agent-framework/aipentest-cyberstrikeai.md) ⚑ | 8,514 | 1,882 | 毎日 | 91 | 2026-11-08 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [HKUDS/AgentPilot](entries/agent-framework/hkuds-agentpilot.md) ⚑ | 7,978 | 939 | 月次 | 3 | 2026-11-06 | 2026-11-09 | 2026-11-10 | MIT |
+| [ccch1mneyyy/dsh-TUI](entries/agent-framework/ccch1mneyyy-dsh-tui.md) ⚑ | 7,319 | 351 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [Open Duet](entries/agent-framework/anil-matcha-open-duet.md) | 6,936 | 897 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [Answer me with HTML](entries/agent-framework/qingyuna-answer-me-with-html.md) | 6,155 | 405 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [social-media-research-skills](entries/agent-framework/scrapecreators-social-media-research-skills.md) | 6,082 | 167 | 停滞 | 0 | 2026-08-26 | 2026-11-09 | 2026-11-10 | MIT |
+| [omdsh-dev/DSH-better-sidebar](entries/agent-framework/omdsh-dev-dsh-better-sidebar.md) ⚑ | 5,028 | 481 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [PilotDeck](entries/agent-framework/openbmb-pilotdeck.md) ⚑ | 4,989 | 563 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | AGPL-3.0 |
+| [liustack/modlens](entries/agent-framework/liustack-modlens.md) ⚑ | 4,879 | 152 | 週次 | 13 | 2026-11-07 | 2026-11-09 | 2026-11-10 | MIT |
+| [bowenliang123/dsh-context](entries/agent-framework/bowenliang123-dsh-context.md) ⚑ | 4,775 | 201 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [hyperresearch](entries/agent-framework/jordan-gibbs-hyperresearch.md) ⚑ | 4,482 | 462 | 毎日 | 27 | 2026-11-09 | 2026-11-10 | 2026-11-11 | MIT |
+| [Agent Autoloop](entries/agent-framework/kkkkhazix-agent-autoloop.md) ⚑ | 4,268 | 776 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [Effective HTML](entries/agent-framework/plannotator-effective-html.md) | 4,060 | 280 | 週次 | 5 | 2026-10-31 | 2026-11-09 | 2026-11-10 | MIT |
+| [FireRed-OpenStoryline](entries/agent-framework/fireredteam-firered-openstoryline.md) ⚑ | 3,658 | 429 | 停滞 | 0 | 2026-07-31 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [SoL-Pi](entries/agent-framework/nvlabs-sol-pi.md) | 3,657 | 299 | 毎日 | 32 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [Social Media Agent（LangChain）](entries/agent-framework/langchain-ai-social-media-agent.md) | 3,006 | 549 | 毎日 | 32 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [Stageshow（benjitaylor/skills）](entries/agent-framework/benjitaylor-skills.md) | 2,884 | 196 | 月次 | 3 | 2026-11-05 | 2026-11-09 | 2026-11-10 | 未確認（リポジトリ全体の LICENSE なし。各スキル個別のライセンス表記） |
+| [NanmiCoder/dsh-agent-teams](entries/agent-framework/nanmicoder-dsh-agent-teams.md) ⚑ | 2,815 | 238 | 毎日 | 77 | 2026-11-06 | 2026-11-09 | 2026-11-10 | MIT |
+| [karpathy-llm-wiki](entries/agent-framework/astro-han-karpathy-llm-wiki.md) ⚑ | 2,718 | 314 | 停滞 | 0 | 2026-07-23 | 2026-11-10 | 2026-11-11 | MIT |
+| [stripe/ai](entries/agent-framework/stripe-ai.md) ⚑ | 2,052 | 386 | 毎日 | 56 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [Hy Memory](entries/agent-framework/tencent-hunyuan-hy-memory.md) ⚑ | 2,020 | 146 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [ARTEX](entries/agent-framework/hinln-artex.md) ⚑ | 1,443 | 1,961 | 月次 | 0 | 2026-10-08 | 2026-11-09 | 2026-11-10 | AGPL-3.0 |
+| [ysr666/dsh-vision-router](entries/agent-framework/ysr666-dsh-vision-router.md) ⚑ | 1,253 | 64 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [Rerun](entries/agent-framework/rerun-build-rerun.md) ⚑ | 1,031 | 125 | 毎日 | 100+ | 2026-11-12 | 2026-11-12 | 2026-11-12 | AGPL-3.0 |
+| [omdsh-dev/dsh-browser](entries/agent-framework/omdsh-dev-dsh-browser.md) ⚑ | 1,025 | 83 | 毎日 | 21 | 2026-11-08 | 2026-11-09 | 2026-11-10 | MIT |
+| [Nakama](entries/agent-framework/ahmadrosid-nakama.md) ⚑ | 802 | 137 | 毎日 | 100+ | 2026-11-10 | 2026-11-11 | 2026-11-11 | MIT |
+| [Grok Bot Field Notes](entries/agent-framework/unicodef1wn-grokbot-field-notes.md) | 700 | 100 | 月次 | 0 | 2026-09-20 | 2026-11-09 | 2026-11-10 | MIT |
+| [@antfu/skills（npm で配るスキル詰め合わせ）](entries/agent-framework/antfu-skills-pack.md) | 337 | 5 | 週次 | 6 | 2026-10-30 | 2026-11-09 | 2026-11-10 | MIT |
+| [neo4jev — Graph Navigation Demo (TypeSafe Jev + Neo4j)](entries/agent-framework/jexp-neo4jev.md) ⚑ | 184 | 27 | 月次 | 0 | 2026-09-18 | 2026-11-11 | 2026-11-11 | MIT |
+| [CoworkOS](entries/agent-framework/ruc-nlpir-coworkos.md) | 148 | 16 | 週次 | 17 | 2026-11-03 | 2026-11-09 | 2026-11-10 | MIT |
+| [video-to-skill](entries/agent-framework/brenoepics-video-to-skill.md) | 145 | 20 | 毎日 | 100+ | 2026-11-06 | 2026-11-09 | 2026-11-10 | MIT |
+| [Canny](entries/agent-framework/qkal-canny.md) ⚑ | 134 | 18 | 月次 | 0 | 2026-09-22 | 2026-11-09 | 2026-11-10 | MIT |
+| [creator-generalist](entries/agent-framework/codepawl-creator-generalist.md) ⚑ | 119 | 7 | 毎日 | 28 | 2026-11-10 | 2026-11-10 | 2026-11-11 | MIT |
+| [Axion 1.0](entries/agent-framework/bytedance-axion1_0.md) ⚑ | 72 | 6 | 毎日 | 39 | 2026-11-11 | 2026-11-12 | 2026-11-12 | Apache-2.0 |
+| [vouch](entries/agent-framework/vouchdev-vouch.md) ⚑ | 67 | 62 | 停滞 | 0 | 2026-08-23 | 2026-11-10 | 2026-11-11 | MIT |
+| [Spring AI TypeSafe](entries/agent-framework/spring-ai-community-spring-ai-typesafe.md) ⚑ | 64 | 19 | 月次 | 0 | 2026-10-05 | 2026-11-11 | 2026-11-11 | Apache-2.0 |
+| [LATCH](entries/agent-framework/balanov-latch.md) | 63 | 1 | 毎日 | 21 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [Nod](entries/agent-framework/n8n-io-nod.md) ⚑ | 41 | 3 | 毎日 | 100+ | 2026-11-11 | 2026-11-11 | 2026-11-11 | Apache-2.0 |
+| [BetterSearch](entries/agent-framework/ry0narushima-bettersearch.md) | 40 | 4 | 週次 | 10 | 2026-10-18 | 2026-11-09 | 2026-11-10 | MIT |
+| [X Virality Score](entries/agent-framework/monkeyteamvip-x-virality-score.md) ⚑ | 35 | 19 | 月次 | 3 | 2026-10-27 | 2026-11-09 | 2026-11-10 | MIT |
+| [jevwire](entries/agent-framework/brainwires-jevwire.md) ⚑ | 27 | 6 | 週次 | 11 | 2026-11-06 | 2026-11-11 | 2026-11-11 | MIT |
+| [AI SDK](entries/agent-framework/anil-matcha-ai.md) ⚑ | 18 | 4 | 停滞 | 0 | 2026-08-06 | 2026-11-13 | 2026-11-13 | unknown |
+| [web-api-skills](entries/agent-framework/oxylabs-web-api-skills.md) | 13 | 1 | 週次 | 11 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
 
 ### その他（96）
 
@@ -313,106 +414,6 @@
 | [Luo-Yihong/VA-TDM](entries/video-gen/luo-yihong-va-tdm.md) ⚑ | 25 | 2 | 月次 | 1 | 2026-11-04 | 2026-11-09 | 2026-11-10 | unknown |
 | [utillayer/youtube-agent-skill](entries/video-gen/utillayer-youtube-agent-skill.md) ⚑ | 14 | 2 | 週次 | 16 | 2026-10-29 | 2026-11-09 | 2026-11-10 | MIT |
 | [BennyDaBall930/comfyui_hyperflow_int8_nodes](entries/video-gen/bennydaball930-comfyui_hyperflow_int8_nodes.md) ⚑ | 3 | 0 | 週次 | 10 | 2026-11-09 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
-
-### エージェント基盤・スキル集（95）
-
-| 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
-|---|---:|---:|---|---:|---|---|---|---|
-| [Skills for Real Engineers](entries/agent-framework/mattpocock-skills.md) | 319,628 | 26,760 | 週次 | 8 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
-| [Superpowers](entries/agent-framework/obra-superpowers.md) | 315,107 | 28,031 | 月次 | 3 | 2026-11-03 | 2026-11-09 | 2026-11-10 | MIT |
-| [n8n](entries/agent-framework/n8n-io-n8n.md) ⚑ | 209,990 | 61,430 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | unknown |
-| [Firecrawl](entries/agent-framework/firecrawl-firecrawl.md) ⚑ | 200,407 | 10,543 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-11 | AGPL-3.0 |
-| [anthropics/skills](entries/agent-framework/anthropics-skills.md) ⚑ | 190,810 | 22,434 | 月次 | 2 | 2026-11-06 | 2026-11-09 | 2026-11-10 | unknown |
-| [Ponytail](entries/agent-framework/dietrichgebert-ponytail.md) | 187,617 | 10,404 | 毎日 | 50 | 2026-10-29 | 2026-11-09 | 2026-11-10 | MIT |
-| [Dify](entries/agent-framework/langgenius-dify.md) ⚑ | 160,853 | 25,444 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-11 | unknown |
-| [gstack（Garry's Stack）](entries/agent-framework/garrytan-gstack.md) | 140,943 | 20,797 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
-| [Browser Use](entries/agent-framework/browser-use-browser-use.md) ⚑ | 120,559 | 13,471 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-11 | MIT |
-| [thedotmack/claude-mem](entries/agent-framework/thedotmack-claude-mem.md) ⚑ | 115,363 | 10,019 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [paperclip](entries/agent-framework/paperclipai-paperclip.md) | 112,618 | 18,677 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
-| [Agent-Reach](entries/agent-framework/panniantong-agent-reach.md) | 110,600 | 9,905 | 毎日 | 100+ | 2026-11-08 | 2026-11-09 | 2026-11-10 | MIT |
-| [Impeccable](entries/agent-framework/pbakaus-impeccable.md) | 106,815 | 6,347 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [OpenHands Agent Canvas](entries/agent-framework/openhands-openhands.md) ⚑ | 93,244 | 12,457 | 毎日 | 100+ | 2026-11-11 | 2026-11-11 | 2026-11-11 | MIT |
-| [Crawl4AI](entries/agent-framework/unclecode-crawl4ai.md) ⚑ | 87,228 | 9,090 | 毎日 | 30 | 2026-11-10 | 2026-11-11 | 2026-11-11 | Apache-2.0 |
-| [lobehub/lobehub](entries/agent-framework/lobehub-lobehub.md) ⚑ | 84,579 | 16,168 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | NOASSERTION |
-| [strix](entries/agent-framework/usestrix-strix.md) | 74,664 | 8,445 | 毎日 | 55 | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [Security Audit Skill (Cloudflare)](entries/agent-framework/cloudflare-security-audit-skill.md) | 67,955 | 4,455 | 月次 | 0 | 2026-09-14 | 2026-11-09 | 2026-11-10 | MIT |
-| [CrewAI](entries/agent-framework/crewaiinc-crewai.md) ⚑ | 60,778 | 9,154 | 毎日 | 100+ | 2026-11-11 | 2026-11-11 | 2026-11-11 | MIT |
-| [CLI-Anything](entries/agent-framework/hkuds-cli-anything.md) | 58,505 | 5,270 | 月次 | 0 | 2026-09-22 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [Flowise](entries/agent-framework/flowiseai-flowise.md) ⚑ | 55,567 | 25,094 | 停滞 | 0 | 2026-08-13 | 2026-11-11 | 2026-11-11 | unknown |
-| [agentic-awesome-skills（AAS）](entries/agent-framework/sickn33-agentic-awesome-skills.md) | 49,414 | 7,167 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
-| [claude-plugins-official](entries/agent-framework/anthropics-claude-plugins-official.md) | 46,615 | 4,858 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [oh-my-claudecode](entries/agent-framework/yeachan-heo-oh-my-claudecode.md) ⚑ | 40,729 | 3,637 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | MIT |
-| [ai-website-cloner-template](entries/agent-framework/jcodesmore-ai-website-cloner-template.md) | 38,914 | 5,791 | 月次 | 0 | 2026-10-19 | 2026-11-09 | 2026-11-10 | MIT |
-| [PentAGI](entries/agent-framework/vxcontrol-pentagi.md) ⚑ | 33,799 | 5,305 | 月次 | 1 | 2026-10-22 | 2026-11-09 | 2026-11-10 | MIT |
-| [GBrain](entries/agent-framework/garrytan-gbrain.md) ⚑ | 32,488 | 4,838 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-11 | MIT |
-| [Composio](entries/agent-framework/composiohq-composio.md) ⚑ | 31,014 | 4,935 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-11 | MIT |
-| [TencentDB Agent Memory（チームで共有するエージェント記憶ハブ）](entries/agent-framework/tencentcloud-tencentdb-agent-memory.md) | 30,693 | 2,999 | 毎日 | 22 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT（GitHub API は NOASSERTION） |
-| [GPT Researcher](entries/agent-framework/assafelovic-gpt-researcher.md) ⚑ | 30,630 | 4,211 | 毎日 | 100+ | 2026-11-09 | 2026-11-11 | 2026-11-11 | Apache-2.0 |
-| [Activepieces](entries/agent-framework/activepieces-activepieces.md) ⚑ | 25,479 | 4,454 | 毎日 | 100+ | 2026-11-11 | 2026-11-11 | 2026-11-11 | unknown |
-| [Jev Ultrafast](entries/agent-framework/browser-use-jev-ultrafast.md) ⚑ | 24,346 | 1,874 | 月次 | 1 | 2026-11-03 | 2026-11-10 | 2026-11-11 | MIT |
-| [google/skills](entries/agent-framework/google-skills.md) ⚑ | 23,767 | 1,986 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [dsh-superagent (prototype)](entries/agent-framework/deepseek-ai-dsh-superagent-prototype.md) | 21,726 | 2,608 | 月次 | 1 | 2026-11-03 | 2026-11-09 | 2026-11-10 | MIT |
-| [agent-desktop](entries/agent-framework/vercel-labs-agent-desktop.md) | 20,364 | 1,507 | 毎日 | 81 | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [Claude Quickstarts](entries/agent-framework/anthropics-claude-quickstarts.md) ⚑ | 20,218 | 3,373 | 週次 | 5 | 2026-11-06 | 2026-11-10 | 2026-11-10 | MIT |
-| [milind-soni/OpenMausBot](entries/agent-framework/milind-soni-openmausbot.md) ⚑ | 19,575 | 2,682 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [ccch1mneyyy/dsh-Go](entries/agent-framework/ccch1mneyyy-dsh-go.md) ⚑ | 17,518 | 757 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | AGPL-3.0 |
-| [ARTEMIS](entries/agent-framework/google-artemis.md) | 17,116 | 1,909 | 月次 | 0 | 2026-10-01 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [opensandbox-group/OpenSandbox](entries/agent-framework/opensandbox-group-opensandbox.md) ⚑ | 16,881 | 1,589 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [LiveKit Agents](entries/agent-framework/livekit-agents.md) | 15,158 | 4,108 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [OpenUI](entries/agent-framework/thesysdev-openui.md) | 15,026 | 998 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
-| [unslop](entries/agent-framework/heydamir-unslop.md) | 12,694 | 713 | 毎日 | 29 | 2026-11-08 | 2026-11-09 | 2026-11-10 | CC-BY-4.0 |
-| [Worktrunk](entries/agent-framework/max-sixty-worktrunk.md) ⚑ | 12,258 | 475 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT OR Apache-2.0 |
-| [jakubkrehel/skills（UI デザインスキル集）](entries/agent-framework/jakubkrehel-skills.md) | 11,856 | 461 | 毎日 | 39 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
-| [dsh-market/dsh-market](entries/agent-framework/dsh-market-dsh-market.md) ⚑ | 11,675 | 444 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
-| [InkOS](entries/agent-framework/narcooo-inkos.md) | 11,086 | 2,015 | 週次 | 6 | 2026-10-24 | 2026-11-09 | 2026-11-10 | AGPL-3.0 |
-| [AutoHarness](entries/agent-framework/tigerless-labs-autoharness.md) ⚑ | 10,940 | 654 | 毎日 | 100+ | 2026-11-10 | 2026-11-11 | 2026-11-11 | MIT |
-| [zhu1090093659/dsh-web](entries/agent-framework/zhu1090093659-dsh-web.md) ⚑ | 10,279 | 626 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [Mobilerun](entries/agent-framework/droidrun-mobilerun.md) ⚑ | 10,004 | 1,086 | 毎日 | 94 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
-| [Orkas](entries/agent-framework/orkas-ai-orkas.md) ⚑ | 9,183 | 534 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-11 | MIT |
-| [firstmate](entries/agent-framework/kunchenguid-firstmate.md) ⚑ | 8,753 | 2,734 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-11 | MIT |
-| [CyberStrikeAI](entries/agent-framework/aipentest-cyberstrikeai.md) ⚑ | 8,514 | 1,882 | 毎日 | 91 | 2026-11-08 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [HKUDS/AgentPilot](entries/agent-framework/hkuds-agentpilot.md) ⚑ | 7,978 | 939 | 月次 | 3 | 2026-11-06 | 2026-11-09 | 2026-11-10 | MIT |
-| [ccch1mneyyy/dsh-TUI](entries/agent-framework/ccch1mneyyy-dsh-tui.md) ⚑ | 7,319 | 351 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
-| [Open Duet](entries/agent-framework/anil-matcha-open-duet.md) | 6,936 | 897 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [Answer me with HTML](entries/agent-framework/qingyuna-answer-me-with-html.md) | 6,155 | 405 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
-| [social-media-research-skills](entries/agent-framework/scrapecreators-social-media-research-skills.md) | 6,082 | 167 | 停滞 | 0 | 2026-08-26 | 2026-11-09 | 2026-11-10 | MIT |
-| [omdsh-dev/DSH-better-sidebar](entries/agent-framework/omdsh-dev-dsh-better-sidebar.md) ⚑ | 5,028 | 481 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
-| [PilotDeck](entries/agent-framework/openbmb-pilotdeck.md) ⚑ | 4,989 | 563 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | AGPL-3.0 |
-| [liustack/modlens](entries/agent-framework/liustack-modlens.md) ⚑ | 4,879 | 152 | 週次 | 13 | 2026-11-07 | 2026-11-09 | 2026-11-10 | MIT |
-| [bowenliang123/dsh-context](entries/agent-framework/bowenliang123-dsh-context.md) ⚑ | 4,775 | 201 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [hyperresearch](entries/agent-framework/jordan-gibbs-hyperresearch.md) ⚑ | 4,482 | 462 | 毎日 | 27 | 2026-11-09 | 2026-11-10 | 2026-11-11 | MIT |
-| [Agent Autoloop](entries/agent-framework/kkkkhazix-agent-autoloop.md) ⚑ | 4,268 | 776 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
-| [Effective HTML](entries/agent-framework/plannotator-effective-html.md) | 4,060 | 280 | 週次 | 5 | 2026-10-31 | 2026-11-09 | 2026-11-10 | MIT |
-| [FireRed-OpenStoryline](entries/agent-framework/fireredteam-firered-openstoryline.md) ⚑ | 3,658 | 429 | 停滞 | 0 | 2026-07-31 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [SoL-Pi](entries/agent-framework/nvlabs-sol-pi.md) | 3,657 | 299 | 毎日 | 32 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
-| [Social Media Agent（LangChain）](entries/agent-framework/langchain-ai-social-media-agent.md) | 3,006 | 549 | 毎日 | 32 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
-| [Stageshow（benjitaylor/skills）](entries/agent-framework/benjitaylor-skills.md) | 2,884 | 196 | 月次 | 3 | 2026-11-05 | 2026-11-09 | 2026-11-10 | 未確認（リポジトリ全体の LICENSE なし。各スキル個別のライセンス表記） |
-| [NanmiCoder/dsh-agent-teams](entries/agent-framework/nanmicoder-dsh-agent-teams.md) ⚑ | 2,815 | 238 | 毎日 | 77 | 2026-11-06 | 2026-11-09 | 2026-11-10 | MIT |
-| [karpathy-llm-wiki](entries/agent-framework/astro-han-karpathy-llm-wiki.md) ⚑ | 2,718 | 314 | 停滞 | 0 | 2026-07-23 | 2026-11-10 | 2026-11-11 | MIT |
-| [stripe/ai](entries/agent-framework/stripe-ai.md) ⚑ | 2,052 | 386 | 毎日 | 56 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
-| [Hy Memory](entries/agent-framework/tencent-hunyuan-hy-memory.md) ⚑ | 2,020 | 146 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [ARTEX](entries/agent-framework/hinln-artex.md) ⚑ | 1,443 | 1,961 | 月次 | 0 | 2026-10-08 | 2026-11-09 | 2026-11-10 | AGPL-3.0 |
-| [ysr666/dsh-vision-router](entries/agent-framework/ysr666-dsh-vision-router.md) ⚑ | 1,253 | 64 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
-| [Rerun](entries/agent-framework/rerun-build-rerun.md) ⚑ | 1,031 | 125 | 毎日 | 100+ | 2026-11-12 | 2026-11-12 | 2026-11-12 | AGPL-3.0 |
-| [omdsh-dev/dsh-browser](entries/agent-framework/omdsh-dev-dsh-browser.md) ⚑ | 1,025 | 83 | 毎日 | 21 | 2026-11-08 | 2026-11-09 | 2026-11-10 | MIT |
-| [Nakama](entries/agent-framework/ahmadrosid-nakama.md) ⚑ | 802 | 137 | 毎日 | 100+ | 2026-11-10 | 2026-11-11 | 2026-11-11 | MIT |
-| [Grok Bot Field Notes](entries/agent-framework/unicodef1wn-grokbot-field-notes.md) | 700 | 100 | 月次 | 0 | 2026-09-20 | 2026-11-09 | 2026-11-10 | MIT |
-| [@antfu/skills（npm で配るスキル詰め合わせ）](entries/agent-framework/antfu-skills-pack.md) | 337 | 5 | 週次 | 6 | 2026-10-30 | 2026-11-09 | 2026-11-10 | MIT |
-| [neo4jev — Graph Navigation Demo (TypeSafe Jev + Neo4j)](entries/agent-framework/jexp-neo4jev.md) ⚑ | 184 | 27 | 月次 | 0 | 2026-09-18 | 2026-11-11 | 2026-11-11 | MIT |
-| [CoworkOS](entries/agent-framework/ruc-nlpir-coworkos.md) | 148 | 16 | 週次 | 17 | 2026-11-03 | 2026-11-09 | 2026-11-10 | MIT |
-| [video-to-skill](entries/agent-framework/brenoepics-video-to-skill.md) | 145 | 20 | 毎日 | 100+ | 2026-11-06 | 2026-11-09 | 2026-11-10 | MIT |
-| [Canny](entries/agent-framework/qkal-canny.md) ⚑ | 134 | 18 | 月次 | 0 | 2026-09-22 | 2026-11-09 | 2026-11-10 | MIT |
-| [creator-generalist](entries/agent-framework/codepawl-creator-generalist.md) ⚑ | 119 | 7 | 毎日 | 28 | 2026-11-10 | 2026-11-10 | 2026-11-11 | MIT |
-| [Axion 1.0](entries/agent-framework/bytedance-axion1_0.md) ⚑ | 72 | 6 | 毎日 | 39 | 2026-11-11 | 2026-11-12 | 2026-11-12 | Apache-2.0 |
-| [vouch](entries/agent-framework/vouchdev-vouch.md) ⚑ | 67 | 62 | 停滞 | 0 | 2026-08-23 | 2026-11-10 | 2026-11-11 | MIT |
-| [Spring AI TypeSafe](entries/agent-framework/spring-ai-community-spring-ai-typesafe.md) ⚑ | 64 | 19 | 月次 | 0 | 2026-10-05 | 2026-11-11 | 2026-11-11 | Apache-2.0 |
-| [LATCH](entries/agent-framework/balanov-latch.md) | 63 | 1 | 毎日 | 21 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
-| [Nod](entries/agent-framework/n8n-io-nod.md) ⚑ | 41 | 3 | 毎日 | 100+ | 2026-11-11 | 2026-11-11 | 2026-11-11 | Apache-2.0 |
-| [BetterSearch](entries/agent-framework/ry0narushima-bettersearch.md) | 40 | 4 | 週次 | 10 | 2026-10-18 | 2026-11-09 | 2026-11-10 | MIT |
-| [X Virality Score](entries/agent-framework/monkeyteamvip-x-virality-score.md) ⚑ | 35 | 19 | 月次 | 3 | 2026-10-27 | 2026-11-09 | 2026-11-10 | MIT |
-| [jevwire](entries/agent-framework/brainwires-jevwire.md) ⚑ | 27 | 6 | 週次 | 11 | 2026-11-06 | 2026-11-11 | 2026-11-11 | MIT |
-| [AI SDK](entries/agent-framework/anil-matcha-ai.md) ⚑ | 18 | 4 | 停滞 | 0 | 2026-08-06 | 2026-11-13 | 2026-11-13 | unknown |
-| [web-api-skills](entries/agent-framework/oxylabs-web-api-skills.md) | 13 | 1 | 週次 | 11 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
 
 ### 3D・モーション（66）
 
@@ -1521,6 +1522,7 @@
 - [milind-soni/OpenMausBot](entries/agent-framework/milind-soni-openmausbot.md) — unverified / Apache-2.0は一般部分でenterprise配下は別条件。機能の無料性とモデル・クラウド利用料は別。権限・資格情報と外部操作の承認を確認する。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [ccch1mneyyy/dsh-Go](entries/agent-framework/ccch1mneyyy-dsh-go.md) — unverified / 匿名使用統計は既定ONで停止可能。スマホ操作の画面内容がモデル提供元へ送られ得る。ローカル起動でもモデル通信・課金は別。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [opensandbox-group/OpenSandbox](entries/agent-framework/opensandbox-group-opensandbox.md) — unverified / 64ms P50・125.4ms P99等は開発側ベンチ。隔離の強さは設定・バックエンドによるため、秘密情報やネットワークの安全性を一括保証しない。 当方でインストール・推論・生成・ベンチ再現はしていない。
+- [e2e](entries/agent-framework/e2e-inc-e2e.md) — unverified / エージェント実行には利用者自身のサブスクリプション、APIキー、またはローカルモデルが必要。料金や各モデルの利用条件はREADMEに記載なし。
 - [Worktrunk](entries/agent-framework/max-sixty-worktrunk.md) — unverified / 発見元の投稿は画面録画MCP（t.co リンク先は gmpetrov/agent-screenplay）の紹介で、worktrunk はそのツールではない。worktrunk は git worktree 管理 CLI で、投稿本文に worktrunk への言及はない。数値・機能は worktrunk 自身の API/README/公式ドキュメントで確認した。
 - [dsh-market/dsh-market](entries/agent-framework/dsh-market-dsh-market.md) — unverified / 4200以上のプラグインという数は投稿/READMEの主張で独立確認なし。市場の掲載は各プラグインの安全性保証ではない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [AutoHarness](entries/agent-framework/tigerless-labs-autoharness.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。

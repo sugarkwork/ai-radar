@@ -1,5 +1,5 @@
 {
-  "count": 996,
+  "count": 997,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -4400,6 +4400,37 @@
       "type": "repo",
       "path": "entries/agent-framework/thesysdev-openui.md",
       "summary": "モデルに返させる UI を **OpenUI Lang** という専用の記法で書かせる。JSON ではなくストリーミング前提の言語で、README では「同等の JSON より最大67%トークンが少ない」としている。"
+    },
+    {
+      "name": "e2e",
+      "genre": "agent-framework",
+      "url": "https://github.com/e2e-inc/e2e",
+      "repo": "e2e-inc/e2e",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "エージェント実行には利用者自身のサブスクリプション、APIキー、またはローカルモデルが必要。料金や各モデルの利用条件はREADMEに記載なし。",
+      "stars": 13799,
+      "forks": 732,
+      "open_issues": 81,
+      "size_kb": 113420,
+      "language": "TypeScript",
+      "created": "2026-07-22",
+      "updated": "2026-11-13",
+      "archived": false,
+      "license": "Apache-2.0",
+      "commits_30d": 100,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "type": "repo",
+      "added": "2026-11-13",
+      "first_seen": "2026-11-13",
+      "sources": [
+        "https://x.com/awe0_io/status/2118662503542706437"
+      ],
+      "fetched_at": "2026-11-13T11:17:34.506881+00:00",
+      "path": "entries/agent-framework/e2e-inc-e2e.md",
+      "summary": "Web・モバイルアプリのエンドツーエンドテストを作成できる。テスト内で自然言語の目標をエージェントに実行させ、locatorやassertionで結果を確認する。エージェントの操作を後続assertionが検証した場合、次回実行ではアプリに変化がない限り操作を記録から再生し、モデル呼び出しを行わないとREADMEは説明"
     },
     {
       "repo": "heydamir/unslop",
