@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 983 件 — リポジトリ 647, リンク集 117, 記事 152, モデル 53, プロンプト 14 / ⚑ 要確認 767 件
+収録 984 件 — リポジトリ 648, リンク集 117, 記事 152, モデル 53, プロンプト 14 / ⚑ 要確認 768 件
 
-## リポジトリ（647）
+## リポジトリ（648）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -310,7 +310,7 @@
 | [utillayer/youtube-agent-skill](entries/video-gen/utillayer-youtube-agent-skill.md) ⚑ | 14 | 2 | 週次 | 16 | 2026-10-29 | 2026-11-09 | 2026-11-10 | MIT |
 | [BennyDaBall930/comfyui_hyperflow_int8_nodes](entries/video-gen/bennydaball930-comfyui_hyperflow_int8_nodes.md) ⚑ | 3 | 0 | 週次 | 10 | 2026-11-09 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
 
-### その他（91）
+### その他（92）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -361,6 +361,7 @@
 | [Nuxt UI](entries/other/nuxt-ui.md) | 7,061 | 1,154 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
 | [flubber](entries/other/veltman-flubber.md) ⚑ | 6,966 | 171 | 停滞 | 0 | 2022-11-08 | 2026-11-11 | 2026-11-11 | MIT |
 | [Pedalboard](entries/other/spotify-pedalboard.md) ⚑ | 6,475 | 376 | 週次 | 11 | 2026-11-09 | 2026-11-11 | 2026-11-11 | GPL-3.0 |
+| [微信视频号下载工具](entries/other/qiye45-wechatvideodownload.md) ⚑ | 6,054 | 578 | 月次 | 0 | 2026-10-05 | 2026-11-13 | 2026-11-13 | unknown |
 | [Sandstorm（アイドル状態のエージェントsandboxをスナップショットして1台に数千個載せる）](entries/other/deeplethe-sandstorm.md) | 5,955 | 490 | 毎日 | 100+ | 2026-11-01 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
 | [Auto-Editor](entries/other/wyattblue-auto-editor.md) ⚑ | 5,824 | 725 | 毎日 | 100+ | 2026-11-08 | 2026-11-09 | 2026-11-10 | Unlicense |
 | [Bumblebee](entries/other/perplexityai-bumblebee.md) ⚑ | 5,148 | 464 | 月次 | 0 | 2026-11-10 | 2026-11-12 | 2026-11-12 | Apache-2.0 |
@@ -1946,6 +1947,7 @@
 - [HomeBox](entries/other/sysadminsmedia-homebox.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [flubber](entries/other/veltman-flubber.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Pedalboard](entries/other/spotify-pedalboard.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
+- [微信视频号下载工具](entries/other/qiye45-wechatvideodownload.md) — unverified / READMEには学習・研究目的に限定し、商用または違法な用途を禁止する旨の免責事項がある。利用時の法的責任や対象サービスの利用条件はREADMEでは確認できない。 GitHub APIでライセンスを確認できていません。
 - [Auto-Editor](entries/other/wyattblue-auto-editor.md) — unverified / commits_30d/90d は GitHub API の per_page=100 上限に達しており、実数は100件超（30日窓で返った最古のコミットが 2026-10-19）。効果の測定は合成素材1本（10秒・320x240）で行ったもので、実収録でのカット精度や話し言葉の語尾保持は独立検証していない。PyPI 版は 29.3.1（2025-11-04）で更新が止まっており pip 導入は非推奨。24時間超の素材、字幕・データストリームのみの入力は非対応。
 - [Bumblebee](entries/other/perplexityai-bumblebee.md) — unverified / 一次資料で未確認: 技術背景・有効性・実行条件。
 - [Y2A-Auto](entries/other/fqscfqj-y2a-auto.md) — unverified / The supplied README does not establish what permissions or platform terms apply to reposting videos; verify these before use.
