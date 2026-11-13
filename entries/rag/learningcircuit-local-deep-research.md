@@ -42,6 +42,8 @@ fetched_at: "2026-11-09T21:42:24Z"
 - 認証＋CSRF 付き REST API、WebSocket 進捗、PDF/Markdown 書き出し、購読ダイジェスト、コスト分析ダッシュボード、OpenAlex/DOAJ 由来21万件超のジャーナル品質スコア
 - `quick_summary()` はサーバ不要で in-process 動作。既存の retriever をそのまま渡せる
 
+- コレクションへの資料追加では、フォルダー選択に対応するブラウザなら、サブフォルダー内のファイルもまとめて選択し、アップロード前に一覧を確認できる（https://github.com/LearningCircuit/local-deep-research/pull/8327）
+
 ## 目的・背景
 
 - OpenAI / Google の Deep Research に対する「自分でホストする」代替。テレメトリ・解析・トラッキングを持たず、通信は自分が設定した検索・LLM・通知だけだと明記している
@@ -65,7 +67,7 @@ fetched_at: "2026-11-09T21:42:24Z"
 - Docker（Linux ネイティブまたは Docker Desktop）か pip。リポジトリは 135,582KB（約132MB）で、別途モデル重みとデータ領域
 - 既定ポートは 5000（Web UI）、Ollama 11434、SearXNG 8080
 - `--network host` は Linux ネイティブ専用。Docker Desktop（macOS / Windows / WSL2）では port 5000 が出ず localhost も LDR 自身を指すため、compose か FAQ のレシピを使う
-- 安定版は 2.0.0（2026-11-07、GitHub release・PyPI・Docker の `latest` が一致）。2.0 は DB リビジョンが上がり v1.10.7 では開けないので、上げる前に暗号化 DB を別領域へ退避し、初回サインイン後に `encrypted_databases/backups/<user hash>/pre-migration/` を data ディレクトリの外へコピーする（既定の保持は1世代7日）
+- 安定版は 2.0.0（2026-11-07、GitHub release・PyPI・Docker の `latest` が一致）。2.0 は DB リビジョンが上がり v1.10.7 では開けないので、上げる前に暗号化 DB を別領域へ退避し、初回サインイン後に `encrypted_databases/backups/<user hash>/pre-migration/` を data ディレクトリの外へコピーする（この移行前バックアップは通常の世代整理や v1.10.7 の整理から保護される。次の移行前バックアップで置き換わり、パスワード変更時には削除される場合がある）
 - 非コンテナ起動は既定で `127.0.0.1` にバインドする。LAN から使うなら `LDR_WEB_HOST=0.0.0.0`
 - リバースプロキシ配下は `TRUST_PROXY_HEADERS=true` と、公開・CGNAT アドレスのプロキシなら `LDR_SERVER_FORWARDED_ALLOW_IPS` が要る（未設定だと全クライアントが1つのレート制限・ログインロックのバケットを共有する）。WebSocket は 2.0 で `/ws/socket.io` へ移動
 - `LDR_BOOTSTRAP_ALLOW_UNENCRYPTED=true` は SQLCipher が使えない時だけ平文 SQLite に落ちる開発用。パスワード検証をしないので共有環境向けではない
