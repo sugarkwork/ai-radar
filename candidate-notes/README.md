@@ -10,6 +10,8 @@
   - 公開に必須の根拠がそろっていません。
 - [X: twavebyku の投稿](https://x.com/twavebyku/status/2118792399904551115)
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+- [X: toyxyz3 の投稿](https://x.com/toyxyz3/status/2118661398050004999)
+  - 公開に必須の根拠がそろっていません。
 - [X: toyxyz3 の投稿](https://x.com/toyxyz3/status/2118644250510512517)
   - 下書きが公開用の検証基準を満たしていません。 照合済み参照先: <https://huggingface.co/Lyricccco/Qwen-Image-2.1-TailSteer>。
 - [X: tonbistudio の投稿](https://x.com/tonbistudio/status/2121026446030422464)
@@ -19,6 +21,12 @@
   - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: suwa_sh の投稿](https://x.com/suwa_sh/status/2121165169686401179)
   - 対象を裏付ける公開一次資料を確認できませんでした。
+- [X: superfang119 の投稿](https://x.com/superfang119/status/2118666587381068155)
+  - 対象を裏付ける公開一次資料を確認できませんでした。
+  - 公開に必須の根拠がそろっていません。
+- [X: superfang119 の投稿](https://x.com/superfang119/status/2118663435542233378)
+  - 対象を裏付ける公開一次資料を確認できませんでした。
+  - 公開に必須の根拠がそろっていません。
 - [X: superfang119 の投稿](https://x.com/superfang119/status/2118656506388451652)
   - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://x.com/superfang119/status/2118656506388451652>。
 - [X: superfang119 の投稿](https://x.com/superfang119/status/2118656143035875761)
@@ -50,6 +58,8 @@
 - [X: rvaniaaaa の投稿](https://x.com/rvaniaaaa/status/2120861156801647094)
   - 候補の対象が複数あり、一意に特定できませんでした。
   - 対象を裏付ける公開一次資料を確認できませんでした。
+- [X: ruyi3699 の投稿](https://x.com/ruyi3699/status/2118666202772029534)
+  - 公開に必須の根拠がそろっていません。
 - [X: ruyi3699 の投稿](https://x.com/ruyi3699/status/2118624175971791099)
   - 一次資料と候補の説明に、解消できない相違があります。 照合済み参照先: <https://github.com/gnekt/My-Brain-Is-Full-Crew>。
 - [X: ruyi3699 の投稿](https://x.com/ruyi3699/status/2118578374138339450)
@@ -73,6 +83,8 @@
   - 候補の対象が複数あり、一意に特定できませんでした。
 - [X: naka_1717 の投稿](https://x.com/naka_1717/status/2118582879840334223)
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+- [X: mingzi206 の投稿](https://x.com/mingzi206/status/2118668034189791437)
+  - 公開に必須の根拠がそろっていません。
 - [X: mingzi206 の投稿](https://x.com/mingzi206/status/2118655841024753692)
   - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic>。
 - [X: mingzi206 の投稿](https://x.com/mingzi206/status/2118628554883883348)
@@ -132,6 +144,19 @@
 - [X: bkdgiffug の投稿](https://x.com/bkdgiffug/status/2118621912545022263)
   - 公開に必須の根拠がそろっていません。
 - [X: aiaicreate の投稿](https://x.com/aiaicreate/status/2118707200474677388)
+  - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+- [X: ai_hakase_ の投稿](https://x.com/ai_hakase_/status/2118660445573697813)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+  - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+  - 公開に必須の根拠がそろっていません。
+- [X: ai_hakase_ の投稿](https://x.com/ai_hakase_/status/2118660444042797445)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+  - 公開に必須の根拠がそろっていません。
+- [X: ai_hakase_ の投稿](https://x.com/ai_hakase_/status/2118660442679607524)
+  - 提案された種別と配布先を確認できませんでした。
+  - GitHub APIで元のリポジトリを確認できませんでした。
+  - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+- [X: ai_hakase_ の投稿](https://x.com/ai_hakase_/status/2118660440918020128)
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
 - [X: ai_hakase_ の投稿](https://x.com/ai_hakase_/status/2118660415010046456)
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
@@ -233,6 +258,12 @@
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
   - 対象を裏付ける公開一次資料を確認できませんでした。
   - 公開に必須の根拠がそろっていません。
+- [X: Saccc_c の投稿](https://x.com/Saccc_c/status/2118667287310061987)
+  - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+  - 対象を裏付ける公開一次資料を確認できませんでした。
+  - 公開に必須の根拠がそろっていません。
+- [X: RizeOnline の投稿](https://x.com/RizeOnline/status/2118799959264829737)
+  - 元投稿と配布先が同一対象であることを裏付けられませんでした。
 - [X: RealMarvelX の投稿](https://x.com/RealMarvelX/status/2118624898998550683)
   - 公開に必須の根拠がそろっていません。
 - [X: RealMarvelX の投稿](https://x.com/RealMarvelX/status/2118624430880387390)
@@ -240,6 +271,9 @@
 - [X: RealMarvelX の投稿](https://x.com/RealMarvelX/status/2118598459020153262)
   - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://github.com/OpenSelena/omniget>。
 - [X: RealMarvelX の投稿](https://x.com/RealMarvelX/status/2118583059507200011)
+  - 対象を裏付ける公開一次資料を確認できませんでした。
+- [X: Phantom_202601 の投稿](https://x.com/Phantom_202601/status/2118813114493964648)
+  - 候補の対象が複数あり、一意に特定できませんでした。
   - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: OwnYourCompute の投稿](https://x.com/OwnYourCompute/status/2118697414114619722)
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
@@ -270,6 +304,8 @@
 - [X: I_am_Aiabir の投稿](https://x.com/I_am_Aiabir/status/2118731208578478546)
   - GitHub APIで元のリポジトリを確認できませんでした。
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+- [X: HopefullySC の投稿](https://x.com/HopefullySC/status/2121025840007758020)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 - [X: HigurashiAI の投稿](https://x.com/HigurashiAI/status/2121043937762889832)
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
 - [X: DentalAkimoto の投稿](https://x.com/DentalAkimoto/status/2118658046570467501)
