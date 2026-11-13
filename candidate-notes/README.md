@@ -6,6 +6,9 @@
 
 ## 2026-11-13（日本時間）
 
+- [X: tonbistudio の投稿](https://x.com/tonbistudio/status/2121026446030422464)
+  - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+  - 公開に必須の根拠がそろっていません。
 - [X: sxzBST の投稿](https://x.com/sxzBST/status/2118585154407178442)
   - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: superfang119 の投稿](https://x.com/superfang119/status/2118572735349874822)
@@ -53,6 +56,9 @@
 - [X: kukoinari の投稿](https://x.com/kukoinari/status/2119758756481478724)
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+- [X: kaijucode の投稿](https://x.com/kaijucode/status/2118706373739315205)
+  - 候補の対象が複数あり、一意に特定できませんでした。
+  - 公開に必須の根拠がそろっていません。
 - [X: jarvis11x の投稿](https://x.com/jarvis11x/status/2118621335844741185)
   - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://x.com/jarvis11x/status/2118621335844741185>。
 - [X: huksyn の投稿](https://x.com/huksyn/status/2118554175642698049)
@@ -67,6 +73,14 @@
   - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://x.com/daaihq/status/2118572714168668508>。
 - [X: bkdgiffug の投稿](https://x.com/bkdgiffug/status/2118621912545022263)
   - 公開に必須の根拠がそろっていません。
+- [X: ai_hakase_ の投稿](https://x.com/ai_hakase_/status/2118630308677374184)
+  - 掲載先URLの正常なHTTP応答を確認できませんでした。
+  - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+  - 公開に必須の根拠がそろっていません。
+- [X: ai_hakase_ の投稿](https://x.com/ai_hakase_/status/2118630307272229094)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+- [X: ai_hakase_ の投稿](https://x.com/ai_hakase_/status/2118630301777686871)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 - [X: ai_hakase_ の投稿](https://x.com/ai_hakase_/status/2118624255520932266)
   - 下書きが公開用の検証基準を満たしていません。
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
@@ -137,6 +151,9 @@
 - [X: ai_hacks_akira の投稿](https://x.com/ai_hacks_akira/status/2118554295721480561)
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
   - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://github.com/anthropics/skills>。
+- [X: The_Genesis_0 の投稿](https://x.com/The_Genesis_0/status/2118633101903442065)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+  - 元投稿と配布先が同一対象であることを裏付けられませんでした。
 - [X: RealMarvelX の投稿](https://x.com/RealMarvelX/status/2118624898998550683)
   - 公開に必須の根拠がそろっていません。
 - [X: RealMarvelX の投稿](https://x.com/RealMarvelX/status/2118624430880387390)
@@ -147,6 +164,12 @@
   - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: OwnYourCompute の投稿](https://x.com/OwnYourCompute/status/2118697414114619722)
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+- [X: Leviwoyun の投稿](https://x.com/Leviwoyun/status/2118633056454209617)
+  - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+- [X: Leviwoyun の投稿](https://x.com/Leviwoyun/status/2118632791353237734)
+  - 候補の対象が複数あり、一意に特定できませんでした。
+  - 対象を裏付ける公開一次資料を確認できませんでした。
+  - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://x.com/nima2qisi2/status/2113153664668021157>。
 - [X: Leviwoyun の投稿](https://x.com/Leviwoyun/status/2118597904852222392)
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
 - [X: Leviwoyun の投稿](https://x.com/Leviwoyun/status/2118592847779930247)
