@@ -1,5 +1,5 @@
 {
-  "count": 1000,
+  "count": 1001,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -22371,6 +22371,37 @@
       "last_release_at": "2026-11-09",
       "path": "entries/productivity/sp-yduck-overlaysubs.md",
       "summary": "PCで再生中の音声（WASAPIループバック/macOS ScreenCaptureKit）またはマイクをリアルタイムで文字起こし・翻訳し、常に最前面の半透明オーバーレイ字幕として表示。クリックスルー可能。履歴をテキスト/SRTで書き出し。"
+    },
+    {
+      "name": "prompts.chat",
+      "genre": "prompt-design",
+      "url": "https://github.com/f/prompts.chat",
+      "repo": "f/prompts.chat",
+      "stars": 177066,
+      "forks": 22575,
+      "open_issues": 85,
+      "size_kb": 898853,
+      "language": "MDX",
+      "created": "2022-12-05",
+      "updated": "2026-11-13",
+      "archived": false,
+      "license": "unknown",
+      "commits_30d": 100,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-13",
+      "first_seen": "2026-11-13",
+      "sources": [
+        "https://x.com/RealMarvelX/status/2118673366894682140"
+      ],
+      "fetched_at": "2026-11-13T14:08:46.514518+00:00",
+      "path": "entries/prompt-design/f-prompts.chat.md",
+      "summary": "AIチャットモデル向けのプロンプトを収集・閲覧できます。READMEにはCSV、Markdown、Hugging Face Dataset形式での公開、セルフホスト、CLI、Claude Codeプラグイン、MCPサーバーの案内があります。"
     },
     {
       "repo": "VoltAgent/awesome-design-md",

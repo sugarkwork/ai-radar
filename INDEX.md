@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1000 件 — リポジトリ 660, リンク集 117, 記事 156, モデル 53, プロンプト 14 / ⚑ 要確認 784 件
+収録 1001 件 — リポジトリ 661, リンク集 117, 記事 156, モデル 53, プロンプト 14 / ⚑ 要確認 785 件
 
-## リポジトリ（660）
+## リポジトリ（661）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -653,10 +653,11 @@
 | [ComfyUI Prompt Atelier](entries/image-gen/renz1998-comfyui-prompt-atelier.md) | 3 | 0 | 毎日 | 51 | 2026-11-09 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
 | [P-H3-Image ComfyUI sample workflows](entries/image-gen/tori29umai0123-p-h3-image_workflows.md) ⚑ | 2 | 1 | 週次 | 4 | 2026-11-06 | 2026-11-10 | 2026-11-11 | unknown |
 
-### プロンプト（デザイン/UI）（22）
+### プロンプト（デザイン/UI）（23）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
+| [prompts.chat](entries/prompt-design/f-prompts.chat.md) ⚑ | 177,066 | 22,575 | 毎日 | 100+ | 2026-11-13 | 2026-11-13 | 2026-11-13 | unknown |
 | [Awesome DESIGN.md](entries/prompt-design/voltagent-awesome-design-md.md) ⚑ | 126,314 | 13,979 | 週次 | 5 | 2026-10-28 | 2026-11-09 | 2026-11-10 | MIT |
 | [Taste Skill](entries/prompt-design/leonxlnx-taste-skill.md) ⚑ | 112,762 | 7,588 | 毎日 | 100+ | 2026-11-08 | 2026-11-10 | 2026-11-10 | MIT |
 | [Diagram Design](entries/prompt-design/cathrynlavery-diagram-design.md) ⚑ | 66,245 | 4,400 | 毎日 | 100+ | 2026-11-09 | 2026-11-10 | 2026-11-11 | MIT |
@@ -2029,6 +2030,7 @@
 - [mradermacher/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic-GGUF](models/other/mradermacher-deepseek-v4-pro-qwen3.5-9b-uncensored-heretic-gguf.md) — unverified / 原チェックではMTPテンソル欠落とconfig不一致によるllama.cppのロード失敗報告。元重み修復後の再生成・ロードは未確認。能力保持の宣伝は未追試。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [mradermacher/gemma-4-31B-it-ARA-heretic-GGUF](models/other/mradermacher-gemma-4-31b-it-ara-heretic-gguf.md) — unverified / 音声対話モデルやSophonの派生ではない。拒否低減の名称は安全性・能力保持の証明ではなく、量子化推論とライセンス継承の実体は別途確認する。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [OverlaySubs — PC音声のリアルタイム翻訳オーバーレイ字幕](entries/productivity/sp-yduck-overlaysubs.md) — unverified / コードはMIT。アプリ利用はOverlaySubs利用規約に従う。PLaMo 3 Translateの利用はPLaMoコミュニティライセンスに従う。ビルドはコード署名なし（SmartScreen/Gatekeeper警告あり）。自動アップデートなし。起動時にGitHub Releases APIへ匿名で最新版確認（1回のみ、失敗時無視）。当方未インストール。 当方でインストール・動作・性能の実行検証はしていない。
+- [prompts.chat](entries/prompt-design/f-prompts.chat.md) — unverified / GitHub APIでライセンスを確認できていません。
 - [Awesome DESIGN.md](entries/prompt-design/voltagent-awesome-design-md.md) — unverified / ブランドの視覚的アイデンティティは各社に帰属し、READMEは「We do not claim ownership of any site's visual identity」と明記する。各DESIGN.mdは第三者による解釈（"An inspired interpretation of X's design language"）で公式配色の転載ではなく、実サイトと差異があり得る。84本中10本はYAMLフロントマター無し・11本はDo's and Don'ts節が無く、shadcnスキルが前提とする入力を満たさない。README/CONTRIBUTINGが言及するpreview.html / preview-dark.html はリポジトリに存在しない（プレビューはgetdesign.md側）。UI生成の品質・再現性は未実測で、リポジトリにベンチ・比較は無い。npmの@google/design.mdはlicense表記が無く、lintツールの再配布条件は未確認。skills CLIは既定でテレメトリ送信。
 - [Taste Skill](entries/prompt-design/leonxlnx-taste-skill.md) — unverified / 導入と生成結果は独立に実測しておらず、スキル導入前後の品質差や発見投稿の医療ダッシュボードへの寄与は未確認。最新リリースの公開日時は年とタイムゾーンを含む形式で確認できなかった。
 - [Diagram Design](entries/prompt-design/cathrynlavery-diagram-design.md) — unverified / README内の機能説明に基づく登録。生成品質や各ホストでの動作は独立検証していない。依存関係、実行条件、料金についてREADMEから確認できる情報は限定的。
