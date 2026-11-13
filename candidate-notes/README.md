@@ -6,6 +6,10 @@
 
 ## 2026-11-13（日本時間）
 
+- [X: zg0820 の投稿](https://x.com/zg0820/status/2121225184892055798)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+- [X: yis9617 の投稿](https://x.com/yis9617/status/2118826106925306212)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 - [X: verbex_ai の投稿](https://x.com/verbex_ai/status/2121049583803662549)
   - 公開に必須の根拠がそろっていません。
 - [X: twavebyku の投稿](https://x.com/twavebyku/status/2118792399904551115)
@@ -277,6 +281,8 @@
   - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: OwnYourCompute の投稿](https://x.com/OwnYourCompute/status/2118697414114619722)
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+- [X: Leviwoyun の投稿](https://x.com/Leviwoyun/status/2118671413896986983)
+  - 公開に必須の根拠がそろっていません。
 - [X: Leviwoyun の投稿](https://x.com/Leviwoyun/status/2118633056454209617)
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
 - [X: Leviwoyun の投稿](https://x.com/Leviwoyun/status/2118632791353237734)
