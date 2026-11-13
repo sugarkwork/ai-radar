@@ -25,6 +25,11 @@
   - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: suwa_sh の投稿](https://x.com/suwa_sh/status/2121165169686401179)
   - 対象を裏付ける公開一次資料を確認できませんでした。
+- [X: superfang119 の投稿](https://x.com/superfang119/status/2118681398211158328)
+  - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://x.com/superfang119/status/2118681398211158328>。
+- [X: superfang119 の投稿](https://x.com/superfang119/status/2118680806977937443)
+  - 対象を裏付ける公開一次資料を確認できませんでした。
+  - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://x.com/superfang119/status/2118680806977937443>。
 - [X: superfang119 の投稿](https://x.com/superfang119/status/2118666587381068155)
   - 対象を裏付ける公開一次資料を確認できませんでした。
   - 公開に必須の根拠がそろっていません。
@@ -109,6 +114,8 @@
 - [X: kaijucode の投稿](https://x.com/kaijucode/status/2118706373739315205)
   - 候補の対象が複数あり、一意に特定できませんでした。
   - 公開に必須の根拠がそろっていません。
+- [X: julitogtu の投稿](https://x.com/julitogtu/status/2121225151673217095)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 - [X: joejossy_12 の投稿](https://x.com/joejossy_12/status/2121023988721975803)
   - 公開に必須の根拠がそろっていません。
 - [X: jarvis11x の投稿](https://x.com/jarvis11x/status/2118621335844741185)
@@ -123,6 +130,9 @@
   - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: fabrizzioruiz_ の投稿](https://x.com/fabrizzioruiz_/status/2121027205656723958)
   - 候補の対象が複数あり、一意に特定できませんでした。
+- [X: eng_khairallah1 の投稿](https://x.com/eng_khairallah1/status/2118675558137815110)
+  - 公開に必須の根拠がそろっていません。
+  - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://x.com/eng_khairallah1/status/2118675558137815110>。
 - [X: daaihq の投稿](https://x.com/daaihq/status/2118646061296488647)
   - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://x.com/daaihq/status/2118646061296488647>。
 - [X: daaihq の投稿](https://x.com/daaihq/status/2118646056217088020)
@@ -252,6 +262,8 @@
 - [X: ai_hacks_akira の投稿](https://x.com/ai_hacks_akira/status/2118554295721480561)
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
   - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://github.com/anthropics/skills>。
+- [X: ai2chiuo の投稿](https://x.com/ai2chiuo/status/2118673211236008091)
+  - 元画像を確認できず、画像内の内容は未検証です。
 - [X: agenticgirl の投稿](https://x.com/agenticgirl/status/2121055446115168572)
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
 - [X: The_Genesis_0 の投稿](https://x.com/The_Genesis_0/status/2118633101903442065)
@@ -267,6 +279,8 @@
   - 対象を裏付ける公開一次資料を確認できませんでした。
   - 公開に必須の根拠がそろっていません。
 - [X: RizeOnline の投稿](https://x.com/RizeOnline/status/2118799959264829737)
+  - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+- [X: RealMarvelX の投稿](https://x.com/RealMarvelX/status/2118673366894682140)
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
 - [X: RealMarvelX の投稿](https://x.com/RealMarvelX/status/2118624898998550683)
   - 公開に必須の根拠がそろっていません。
