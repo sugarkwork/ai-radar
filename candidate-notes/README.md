@@ -41,6 +41,8 @@
   - 公開に必須の根拠がそろっていません。
 - [X: partnerinai の投稿](https://x.com/partnerinai/status/2120860410605936735)
   - 候補の対象が複数あり、一意に特定できませんでした。
+- [X: paperswithcodee の投稿](https://x.com/paperswithcodee/status/2121060762336498005)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 - [X: naka_1717 の投稿](https://x.com/naka_1717/status/2118582879840334223)
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
 - [X: mingzi206 の投稿](https://x.com/mingzi206/status/2118628554883883348)
@@ -186,12 +188,26 @@
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
 - [X: Leviwoyun の投稿](https://x.com/Leviwoyun/status/2118570744250880325)
   - 対象を裏付ける公開一次資料を確認できませんでした。
+- [X: JmR2v の投稿](https://x.com/JmR2v/status/2118723125483565334)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 - [X: Jackywine の投稿](https://x.com/Jackywine/status/2118562780383216113)
   - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: ImAI_Eruel の投稿](https://x.com/ImAI_Eruel/status/2118616087629910416)
   - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://x.com/ImAI_Eruel/status/2118616087629910416>。
 - [X: AiAircle34052 の投稿](https://x.com/AiAircle34052/status/2118559500181635527)
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+- [X: AIWarper の投稿](https://x.com/AIWarper/status/2115146549588316165)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+- [X: AIWarper の投稿](https://x.com/AIWarper/status/2114736282991833303)
+  - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://x.com/AIWarper/status/2114736282991833303>。
+- [X: AIWarper の投稿](https://x.com/AIWarper/status/2114736281527926994)
+  - 候補の対象が複数あり、一意に特定できませんでした。
+- [X: AIWarper の投稿](https://x.com/AIWarper/status/2114736275794366467)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+- [X: AIWarper の投稿](https://x.com/AIWarper/status/2114531085426303447)
+  - 候補の対象が複数あり、一意に特定できませんでした。
+- [X: AIWarper の投稿](https://x.com/AIWarper/status/2114437262062829746)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 - [X: AIWarper の投稿](https://x.com/AIWarper/status/2114026743589904593)
   - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: AIWarper の投稿](https://x.com/AIWarper/status/2113833241904108014)
