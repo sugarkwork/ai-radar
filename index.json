@@ -1,5 +1,5 @@
 {
-  "count": 982,
+  "count": 983,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -19401,6 +19401,37 @@
       "fetched_at": "2026-11-10T09:19:17Z",
       "path": "entries/other/citrolabs-ego-lite.md",
       "summary": "CodexやClaude Codeが専用のSpaceでページを開き、構造化テキストとして内容を読み取ったり、フォームに入力したりできる。利用者は自分のSpaceで閲覧を続けられる。"
+    },
+    {
+      "name": "res-downloader",
+      "genre": "other",
+      "url": "https://github.com/putyy/res-downloader",
+      "repo": "putyy/res-downloader",
+      "license": "Apache-2.0",
+      "stars": 21255,
+      "language": "Go",
+      "created": "2023-09-01",
+      "updated": "2026-11-11",
+      "forks": 2609,
+      "open_issues": 11,
+      "commits_30d": 0,
+      "commit_cadence": "stale",
+      "commits_90d": 0,
+      "size_kb": 28174,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "README says setup requires allowing certificate installation and network access. It also notes that the system proxy may need to be turned off manually after closing the app.",
+      "type": "repo",
+      "added": "2026-11-13",
+      "first_seen": "2026-11-13",
+      "sources": [
+        "https://x.com/bkdgiffug/status/2118637513862783231"
+      ],
+      "fetched_at": "2026-11-13T06:23:38.178409+00:00",
+      "path": "entries/other/putyy-res-downloader.md",
+      "summary": "READMEでは、Windows / macOS / Linux向けのリソースダウンロードツールとして紹介されています。動画、音声、画像、m3u8、ライブストリームなどを扱い、プロキシ経由でリソースを取得できます。対応プラットフォームとして微信视频号、小程序、抖音、快手、小红书、酷狗音乐、QQ音乐が挙げられています。出"
     },
     {
       "repo": "Usagi-org/ai-goofish-monitor",
