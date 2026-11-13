@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1007 件 — リポジトリ 665, リンク集 118, 記事 157, モデル 53, プロンプト 14 / ⚑ 要確認 790 件
+収録 1008 件 — リポジトリ 666, リンク集 118, 記事 157, モデル 53, プロンプト 14 / ⚑ 要確認 791 件
 
-## リポジトリ（665）
+## リポジトリ（666）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（100）
+### その他（101）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Storyboarder](entries/other/wonderunit-storyboarder.md) ⚑ | 3,946 | 404 | 停滞 | 0 | 2024-03-17 | 2026-11-11 | 2026-11-11 | unknown |
 | [Vexa](entries/other/vexa-ai-vexa.md) ⚑ | 2,965 | 544 | 週次 | 4 | 2026-11-09 | 2026-11-10 | 2026-11-10 | Apache-2.0 |
 | [Rhubarb Lip Sync](entries/other/danielswolf-rhubarb-lip-sync.md) ⚑ | 2,763 | 329 | 停滞 | 0 | 2026-06-16 | 2026-11-12 | 2026-11-12 | unknown |
+| [sheeridVerify](entries/other/jenkinwoo-sheeridverify.md) ⚑ | 2,515 | 1,310 | 月次 | 1 | 2026-11-06 | 2026-11-13 | 2026-11-13 | ISC |
 | [ScopeSentry](entries/other/autumn-27-scopesentry.md) ⚑ | 2,334 | 554 | 月次 | 3 | 2026-10-11 | 2026-11-09 | 2026-11-10 | unknown |
 | [JIZURA 字面](entries/other/852wa-jizura.md) ⚑ | 2,232 | 295 | 週次 | 9 | 2026-11-10 | 2026-11-11 | 2026-11-11 | MIT |
 | [nv-uefi-unlocker](entries/other/physicsdolphin-nv-uefi-unlocker.md) ⚑ | 2,223 | 202 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | GPL-2.0 |
@@ -1990,6 +1991,7 @@
 - [Storyboarder](entries/other/wonderunit-storyboarder.md) — unverified / ライセンスは確認できていません（GitHub API値: unknown）。 GitHub APIでライセンスを確認できていません。
 - [Vexa](entries/other/vexa-ai-vexa.md) — unverified / 会議への参加、文字起こしの精度・遅延、話者割り当て、Macでの起動、MCP接続は独立実測なし。Jitsiのライブ検証はREADME上で保留。最新リリースの公開日時は年とタイムゾーンまで確認できなかった。
 - [Rhubarb Lip Sync](entries/other/danielswolf-rhubarb-lip-sync.md) — unverified / ライセンスは提供されたリポジトリ情報で確認できず、unknownです。 GitHub APIでライセンスを確認できていません。
+- [sheeridVerify](entries/other/jenkinwoo-sheeridverify.md) — unverified / 実際のプラットフォームで使うには必要な許可が必要。README は SheerID や学校との公式な関係・承認を否定し、検証成功も保証していない。
 - [ScopeSentry](entries/other/autumn-27-scopesentry.md) — unverified / ①悪用時の法的リスク: 許可なく第三者のドメイン・IP・Web アプリをスキャンすると、日本なら不正アクセス禁止法や各府県の迷惑防止条例、米国なら CFAA、中国なら网络安全法などに触れうる。資産の所有者であること、または書面のスキャン許可がある範囲だけを対象にし、レート制限と停止条件を決めてから使う。②実測性能が無い: 作者・README に処理量・スキャン速度・検出率の測定値やベンチマークは無く、本項でも実行検証していない。ノード数を増やしても実効速度は対象やネットワーク次第で、数値の裏付けは無い。③外部スキャナ/POC への依存: 脆弱性検査は nuclei v3.3.6 をライブラリとして内蔵し、subfinder v2.6.8 / httpx v1.6.10 / dnsx / tlsx / fingerprintx / gospider も libs/ に vendored している。バイナリを別途入れる必要は無い反面、追従は本体のリリース次第で、nuclei テンプレート（POC）の更新・誤検知の管理は利用者側の負担。④ライセンスの実態: GitHub API の license は null、/license とリポジトリ直下の LICENSE は 404（取得時点）。README 末尾は「All branches of this project follow AGPL-3.0」としつつ、商用利用には別途商用ライセンスが必要で、営利法人は使用・配布・改変の前に取得を求めるとする追加条項を置いており、AGPL-3.0 そのものと一致しない。法的に使う前提なら著者への確認が要る。⑤その他の未確認: ARTEX 連携は ARTEX 側 README に記載があるが ScopeSentry 側 README には無く、実際の同期動作は未検証。リソース要件（CPU/メモリ/ディスク）は README・compose に記載が無い。README の「Server：python - FastApi」は現行構成（Go 実装、.py ファイル 0）と一致しない。 ⑥ARTEX との関係: 投稿は ScopeSentry を「ARTEX 作者が貢献した」と述べるが、ARTEX のリポジトリ所有者は Hinln で、README は Autumn-27/norma を SDK として参照するのみ。同一著者であることは一次情報で断定できない。
 - [JIZURA 字面](entries/other/852wa-jizura.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [nv-uefi-unlocker](entries/other/physicsdolphin-nv-uefi-unlocker.md) — unverified / 性能と互換性は開発元の報告に基づき、独立した実機試験は未実施。投稿にあるv2.1.9-diag.3のCSM環境向け復旧処理とUSBへのログ書き込みの保証は未確認。最新安定版のタグは確認したが、公開日時は未確認。

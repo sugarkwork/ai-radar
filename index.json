@@ -1,5 +1,5 @@
 {
-  "count": 1007,
+  "count": 1008,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -20516,6 +20516,37 @@
       "fetched_at": "2026-11-12T11:19:46.293973+00:00",
       "path": "entries/other/danielswolf-rhubarb-lip-sync.md",
       "summary": "音声ファイルを解析して発話を認識し、2Dの口形アニメーション情報を生成する。CLIではTSV・XML・JSONなどの形式で出力でき、After Effects、Moho、OpenToonz、Spine、Vegas Pro向けの連携もREADMEに記載されている。"
+    },
+    {
+      "name": "sheeridVerify",
+      "genre": "other",
+      "url": "https://github.com/JenkinWoo/sheeridVerify",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "実際のプラットフォームで使うには必要な許可が必要。README は SheerID や学校との公式な関係・承認を否定し、検証成功も保証していない。",
+      "repo": "JenkinWoo/sheeridVerify",
+      "stars": 2515,
+      "forks": 1310,
+      "open_issues": 0,
+      "size_kb": 408,
+      "language": "JavaScript",
+      "created": "2026-11-06",
+      "updated": "2026-11-06",
+      "archived": false,
+      "license": "ISC",
+      "commits_30d": 1,
+      "commits_90d": 1,
+      "commit_cadence": "monthly",
+      "type": "repo",
+      "added": "2026-11-13",
+      "first_seen": "2026-11-13",
+      "sources": [
+        "https://x.com/mingzi206/status/2118686234587607352"
+      ],
+      "fetched_at": "2026-11-13T16:15:34.105623+00:00",
+      "path": "entries/other/jenkinwoo-sheeridverify.md",
+      "summary": "ローカル Web 作業台でタスクを作成・キューイング・停止・再開・削除できる。Node.js の fetch による状態照会と、必要に応じたブラウザフォーム操作または原本資料のアップロードを行う。資料を生成・変更せず、インタラクティブな本人確認はユーザーが行う。出典: https://github.com/Jenkin"
     },
     {
       "repo": "Autumn-27/ScopeSentry",
