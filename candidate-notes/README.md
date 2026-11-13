@@ -59,6 +59,8 @@
 - [X: kaijucode の投稿](https://x.com/kaijucode/status/2118706373739315205)
   - 候補の対象が複数あり、一意に特定できませんでした。
   - 公開に必須の根拠がそろっていません。
+- [X: joejossy_12 の投稿](https://x.com/joejossy_12/status/2121023988721975803)
+  - 公開に必須の根拠がそろっていません。
 - [X: jarvis11x の投稿](https://x.com/jarvis11x/status/2118621335844741185)
   - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://x.com/jarvis11x/status/2118621335844741185>。
 - [X: huksyn の投稿](https://x.com/huksyn/status/2118554175642698049)
@@ -73,6 +75,8 @@
   - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://x.com/daaihq/status/2118572714168668508>。
 - [X: bkdgiffug の投稿](https://x.com/bkdgiffug/status/2118621912545022263)
   - 公開に必須の根拠がそろっていません。
+- [X: aiaicreate の投稿](https://x.com/aiaicreate/status/2118707200474677388)
+  - 元投稿と配布先が同一対象であることを裏付けられませんでした。
 - [X: ai_hakase_ の投稿](https://x.com/ai_hakase_/status/2118630308677374184)
   - 掲載先URLの正常なHTTP応答を確認できませんでした。
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
@@ -188,6 +192,17 @@
   - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://x.com/ImAI_Eruel/status/2118616087629910416>。
 - [X: AiAircle34052 の投稿](https://x.com/AiAircle34052/status/2118559500181635527)
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+- [X: AIWarper の投稿](https://x.com/AIWarper/status/2114026743589904593)
+  - 対象を裏付ける公開一次資料を確認できませんでした。
+- [X: AIWarper の投稿](https://x.com/AIWarper/status/2113833241904108014)
+  - 候補の対象が複数あり、一意に特定できませんでした。
+- [X: AIWarper の投稿](https://x.com/AIWarper/status/2113707745694380399)
+  - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://x.com/AIWarper/status/2113707745694380399>。
+  - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://x.com/AIWarper/status/2113707745694380399>。
+- [X: AIWarper の投稿](https://x.com/AIWarper/status/2113657948975284477)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+- [X: AIWarper の投稿](https://x.com/AIWarper/status/2113342898288951451)
+  - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://x.com/AIWarper/status/2113342898288951451>。
 - [X: AIExplorerTim の投稿](https://x.com/AIExplorerTim/status/2118615248546755043)
   - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: AIExplorerTim の投稿](https://x.com/AIExplorerTim/status/2118602536982868108)
