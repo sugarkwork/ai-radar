@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1001 件 — リポジトリ 661, リンク集 117, 記事 156, モデル 53, プロンプト 14 / ⚑ 要確認 785 件
+収録 1002 件 — リポジトリ 661, リンク集 118, 記事 156, モデル 53, プロンプト 14 / ⚑ 要確認 786 件
 
 ## リポジトリ（661）
 
@@ -806,7 +806,7 @@
 - **[MiniMax H3：20種のダンスと音楽指定](prompts/video-gen/minimax-h3-20-dance-music.md)** ⚑  MiniMax H3 / EndFolding79421
   - キャラクターシートを参照し、6秒間の全身ダンスと音楽・環境音を指示するための投稿者のテンプレート。ダンス20種類の音楽指定例を含む。
 
-## リンク集（117）
+## リンク集（118）
 
 ### リンク（素材・アイコン・3D）（20）
 
@@ -1081,6 +1081,11 @@
 
 - **[PDF skill (anthropics/skills)](links/other/github.com-pdf-skill-anthropics-skills.md)**  free / Anthropic
   - PDFのテキスト・表抽出、結合・分割、回転、透かし、新規作成、フォーム入力、暗号化・復号、画像抽出、スキャンPDFのOCRを扱うための手順とコード集。
+
+### プロンプト（その他）（1）
+
+- **[prompts.chat](links/prompt-other/prompts.chat-prompts.chat.md)** ⚑
+  - コミュニティが共有するAIプロンプトを発見・収集し、チャットモデルやアプリで再利用するためのライブラリ。
 
 ### RAG・検索（1）
 
@@ -2062,6 +2067,7 @@
 - [キャラクター三面図プロンプト（GPT / MageSpace）](prompts/prompt-design/jackchen1919-character-sheet.md) — unverified / 投稿はプロンプト本文＋生成結果8枚で、特定の製品・モデルの配布ではない。生成画像は著者の作例で、再現性・品質は未検証（当方では生成していない）。実在の人物・既存キャラクターに寄せると権利侵害になり得る。
 - [落合陽一の公開制作をもとにした二次AIデザイン指針](articles/2026-11-09-https-x.com-kimuai08-article-2079212341250724250.md) — unverified / 落合本人の公式指示や完全な記事通読として扱わない。原文プロンプトを創作せず二次解説として残す。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [sepia](entries/prompt-other/nanako0129-sepia.md) — unverified / StoryScopeの93.2%は論文の小説コーパスにおける人間とAIの二値分類のmacro-F1。sepiaによる改稿の品質改善、業務文書への有効性、ホスト別の動作、利用料金、最新リリースは未確認。今回の確認は公開資料の閲覧のみ。
+- [prompts.chat](links/prompt-other/prompts.chat-prompts.chat.md) — unverified / 公式FAQはプロンプトがCC0で商用利用可能と説明する一方、サイト利用そのものの料金条件や有料機能の範囲は確認できていない。
 - [暖かい愛情・自然な日本語チャットの指示書](articles/2026-11-09-zeowota-natural-japanese-chat-instructions-overview.md) — unverified / 18+ / NSFWのサイト由来。取得した原文が本資料にはないためプロンプトを創作せず記事として要約する。キャラ「レイ」の移植/再配布禁止をこの別指示書へ自動適用せず権利範囲は未確認。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [英語リスニング教材の自動選定＋訓練進行＋Obsidian書き出し](prompts/prompt-other/obsidian-21020864dd.md) — unverified / 著者の主張は「実在する英語音声教材を ChatGPT に検索・選定させ、盲聴から復述までの訓練を自動進行し、最後に Obsidian 用ノートを出す」こと。プロンプト本文は原文どおり 2109 字で、記事 HTML の <code> ブロックと空白正規化後の SHA-1 が一致することを確認した。確認できた制約は3点。①検索リンクは保証されない：OpenAI 公式は検索結果・引用が「incomplete, outdated, or incorrect」であり引用元を開いて確認するよう求め、幻覚の例として「Fabricated quotes, studies, citations or references to non-existent sources」を挙げる。ペイウォールや robots.txt で取得できない場合もあると明記。プロンプトの「不要编造…」は指示であって防止策ではない。②Obsidian への直接書き込みは標準では不可：公式のコネクテッドアプリ一覧に Obsidian は無く、MCP 経由ならフル書き込みは Business/Enterprise/Edu、Pro は read/fetch のみで Web 限定。プロンプト自身も「できなければ Markdown を出力」と留保しており、通常はそちらが既定経路。③出典5サイトのうち British Council は 2026-11-09 時点で接続タイムアウト（他4件は HTTP 200）。未確認：初回50〜70%→80% の難易度基準と升级判定はモデルの自己評価のみで測定根拠がなく、学習効果の定量データも無い。記事 URL は未ログインでログイン画面へリダイレクトされる。
 - [英語リスニング訓練コーチ（教材生成＋盲聴＋誤り分類）](prompts/prompt-other/990639c4-15d8bdb039.md) — unverified / 著者の主張は「レベルと練習時間に合った英文を生成させ、盲聴→大意1問→テキスト開示→誤り分類→復盤まで自動で回す」こと。プロンプト本文は原文どおり 442 字で、記事 HTML の <code> ブロックと空白正規化後の SHA-1 が一致することを確認した。確認できたのは指示文の内容までで、次は未確認・不成立。①「第一遍只朗读，不展示文本」は ChatGPT Voice では成立しない（公式ヘルプ：Live は読み上げと同時に応答テキストをチャットに表示する。Advanced も会話終了後に transcript が追加される）。②5〜8分の連続朗読は Voice の想定用途（対話）から外れ、実際には分割されやすい。③「初回60%→数回で80%」の難易度基準は著者の経験則で出典なし。④このプロンプトによる学習効果の測定データは無い。記事 URL は未ログインだとログイン画面（x.com/i/jf/onboarding/web）へリダイレクトされ、本文は投稿ページにサーバー描画された HTML から取得した。
