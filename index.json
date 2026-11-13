@@ -1,5 +1,5 @@
 {
-  "count": 989,
+  "count": 990,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -20538,6 +20538,37 @@
       "type": "repo",
       "path": "entries/other/morluto-awesome-reverse-engineering.md",
       "summary": "リバースエンジニアリングのツールと学習リソースを、対象別に整理したキュレーションリスト。"
+    },
+    {
+      "name": "Quiet.md",
+      "genre": "other",
+      "url": "https://github.com/s1dashu/quiet-md",
+      "repo": "s1dashu/quiet-md",
+      "license": "MIT",
+      "stars": 1740,
+      "language": "Rust",
+      "created": "2026-11-01",
+      "updated": "2026-11-13",
+      "forks": 157,
+      "open_issues": 76,
+      "commits_30d": 100,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 30807,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景・有効性・依存関係・実行条件。",
+      "type": "repo",
+      "added": "2026-11-13",
+      "first_seen": "2026-11-13",
+      "sources": [
+        "https://x.com/Ryrenz/status/2118645832056541192"
+      ],
+      "fetched_at": "2026-11-13T07:21:55.847216+00:00",
+      "path": "entries/other/s1dashu-quiet-md.md",
+      "summary": "RustとGPUIで描画するローカルノートアプリ。見出し、リスト、To-do、表、コード、数式、画像、添付ファイルなどを含むリッチテキスト編集、全文検索、文書ツリーでの整理ができる。MarkdownとFeishu (Lark) DocxXMLのインポート、MarkdownとPDFへのエクスポートに対応する。"
     },
     {
       "name": "Google Pro Helper",
