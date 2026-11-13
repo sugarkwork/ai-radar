@@ -1,5 +1,5 @@
 {
-  "count": 1004,
+  "count": 1005,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -22805,6 +22805,37 @@
       "fetched_at": "2026-11-10T14:10:51.867000+00:00",
       "path": "entries/prompt-design/oso95-scroll-world.md",
       "summary": "業界やブランド向けに、スクロール位置でカメラ飛行を制御し、場面を途切れなくつなぐランディングページを生成する。シーン画像、場面内への移動動画、場面間の接続動画と、設定駆動のスクロールエンジンを用意する。"
+    },
+    {
+      "name": "Lieflat Less AI Tone",
+      "genre": "prompt-design",
+      "url": "https://github.com/larashero3-dotcom/lieflat-less-ai-tone",
+      "repo": "larashero3-dotcom/lieflat-less-ai-tone",
+      "license": "unknown",
+      "language": "Python",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "研究の語料はリポジトリに含まれず、報告された数値は第三者が直接検証できない。意味層の判定は単一モデルで、READMEは抽出確認で15–30%の誤判定があったと述べている。商用利用には別途ライセンス購入が必要と記載されている。 GitHub APIでライセンスを確認できていません。",
+      "stars": 7586,
+      "forks": 535,
+      "open_issues": 5,
+      "size_kb": 4682,
+      "created": "2026-08-20",
+      "updated": "2026-11-11",
+      "archived": false,
+      "commits_30d": 14,
+      "commits_90d": 27,
+      "commit_cadence": "weekly",
+      "type": "repo",
+      "added": "2026-11-13",
+      "first_seen": "2026-11-13",
+      "sources": [
+        "https://x.com/fhwofjow51260/status/2118683436122837064"
+      ],
+      "fetched_at": "2026-11-13T16:09:41.501205+00:00",
+      "path": "entries/prompt-design/larashero3-dotcom-lieflat-less-ai-tone.md",
+      "summary": "文章の特徴をスクリプトで検出し、意味判定の候補をモデルで確認して、指標・研究参照・原文例・改稿案を含む検出レポートを作る。ユーザーの返答後に改稿し、再検査して前後を比較する。比喩の適切さなど機械判定が難しい項目は人手確認として扱う。"
     },
     {
       "repo": "yang0/handraw-style",
