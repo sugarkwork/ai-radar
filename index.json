@@ -1,5 +1,5 @@
 {
-  "count": 976,
+  "count": 977,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -6185,6 +6185,37 @@
       "fetched_at": "2026-11-11T06:11:40.668057+00:00",
       "path": "entries/agent-framework/brainwires-jevwire.md",
       "summary": "状態と型付き質問を入力し、定義済みの回答候補に対する確率を返す分類モデルをハーネスに接続します。README記載では、7つのMCPツール、各ツールに対応する組み込み用のrun関数、Claude Codeのフックを提供します。生成、算術、数え上げ、日付比較、複数段階の推論には使わないと説明されています。出典: https"
+    },
+    {
+      "name": "AI SDK",
+      "genre": "agent-framework",
+      "url": "https://github.com/Anil-matcha/ai",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEにライセンスの記載がなく、利用条件は確認できません。 GitHub APIでライセンスを確認できていません。",
+      "repo": "Anil-matcha/ai",
+      "stars": 18,
+      "forks": 4,
+      "open_issues": 0,
+      "size_kb": 265635,
+      "language": "unknown",
+      "created": "2026-06-17",
+      "updated": "2026-08-06",
+      "archived": false,
+      "license": "unknown",
+      "commits_30d": 0,
+      "commits_90d": 0,
+      "commit_cadence": "stale",
+      "type": "repo",
+      "added": "2026-11-13",
+      "first_seen": "2026-11-13",
+      "sources": [
+        "https://x.com/I_am_Aiabir/status/2118731208578478546"
+      ],
+      "fetched_at": "2026-11-13T04:09:25.273794+00:00",
+      "path": "entries/agent-framework/anil-matcha-ai.md",
+      "summary": "Node.jsやNext.js、React、Svelte、Vue、AngularなどでAIアプリやエージェントを構築するためのTypeScriptツールキット。複数のモデルプロバイダーを統一APIまたは各プロバイダーのSDK経由で利用でき、テキスト生成、構造化データ生成、ツールを使うエージェント、チャットUIを実装でき"
     },
     {
       "repo": "oxylabs/web-api-skills",
