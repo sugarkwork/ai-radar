@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 979 件 — リポジトリ 644, リンク集 117, 記事 151, モデル 53, プロンプト 14 / ⚑ 要確認 764 件
+収録 980 件 — リポジトリ 645, リンク集 117, 記事 151, モデル 53, プロンプト 14 / ⚑ 要確認 765 件
 
-## リポジトリ（644）
+## リポジトリ（645）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -310,7 +310,7 @@
 | [utillayer/youtube-agent-skill](entries/video-gen/utillayer-youtube-agent-skill.md) ⚑ | 14 | 2 | 週次 | 16 | 2026-10-29 | 2026-11-09 | 2026-11-10 | MIT |
 | [BennyDaBall930/comfyui_hyperflow_int8_nodes](entries/video-gen/bennydaball930-comfyui_hyperflow_int8_nodes.md) ⚑ | 3 | 0 | 週次 | 10 | 2026-11-09 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
 
-### その他（88）
+### その他（89）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -402,6 +402,7 @@
 | [duckdb-jev](entries/other/prasanthj-duckdb-jev.md) ⚑ | 14 | 3 | 月次 | 2 | 2026-10-21 | 2026-11-10 | 2026-11-11 | Apache-2.0 |
 | [Jev Grand Prix](entries/other/enoyola-jev-grand-prix.md) ⚑ | 7 | 0 | 月次 | 0 | 2026-09-21 | 2026-11-10 | 2026-11-11 | MIT |
 | [剪坊](entries/other/tuyetloanpham08-png-jianfang.md) ⚑ | 7 | 1 | 月次 | 2 | 2026-10-20 | 2026-11-11 | 2026-11-11 | unknown |
+| [LapDraw](entries/other/sachinyadavaug20-lapdraw.md) ⚑ | 0 | 0 | 毎日 | 22 | 2026-11-07 | 2026-11-13 | 2026-11-13 | MIT |
 
 ### 3D・モーション（66）
 
@@ -1983,6 +1984,7 @@
 - [169Pi/Alpie_seed](models/other/169pi-alpie_seed.md) — unverified / 61.20はMini-SWE-agent・thinking有効・再試行なし・temperature0のモデルカード自己報告。latestタグだけで画像入力可能とは判断しない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Clover 35B-A3B（拡散型 MoE）](models/other/diffuspace-clover-35b-a3b-preview.md) — unverified / tok/s 比較は投稿者環境の一例で、モデルカードに計測条件の記載がない。
 - [DeepSeek-V4-Pro-Qwen3.5-9B UNCENSORED（Heretic ARA）](models/other/xtools-at-deepseek-v4-pro-qwen3.5-9b-uncensored-heretic.md) — unverified / モデルとライセンスは実在（HF APIで2026-11-08に確認: DL 1,369・likes 564・apache-2.0・Qwen3_5ForConditionalGeneration）。ただし投稿の主張は未検証か誤りを含む: 『Hugging Faceのサーバーが落ちた』は障害記録がなく誤り。『拒否率100/100→3/100』『KL 0.0422』『25万点蒸留』『知能を1点も失わない』はモデルカードの自己申告で第三者追試なし。カードのGSM8K 94.50%/MMLU-Pro 90.53%は拒否除去前のJackrong版の数字で、heretic版の能力評価は未提出。公式リポジトリはBF16のみでGGUFは第三者変換。そのQ4_K_M 5.63GBは変換時点でconfig.jsonのmtp_num_hidden_layers=1と実ウェイトが食い違い、llama.cppがGGML_ASSERTで落ちる（作者が11/08にMTPテンソルを復元したが再量子化は未実施）。『どの端末でも数秒』は誇張で、CPUのみは変換者計測で約1 t/s。同名の非公式再アップロードが複数あり、クローンからの取得は避ける。当方でGPU推論・llama.cpp実行は未実施（runs_verified=false）。
+- [LapDraw](entries/other/sachinyadavaug20-lapdraw.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [PLaMo 3 Translate 8B](models/other/pfnet-plamo-3-translate-8b.md) — unverified / weights は PLaMo Community License（OSI 認証のオープンソースライセンスではない）。商用利用は売上高10億円で条件が分岐するため、業務利用前に条件確認が必要。custom_code モデルのため trust_remote_code=True でリポジトリ内 modeling_plamo.py を実行する点に注意（コード自体のライセンスは未確認）。base_model はカード表記が「PLaMo 3 NICT」で正確な repo id は明記されておらず、同サイズの pfnet/plamo-3-nict-8b-base をサイズから対応付けた推測。
 - [Quazim0t0/Qwenx86-4B-GGUF](models/other/quazim0t0-qwenx86-4b-gguf.md) — unverified / compact版のサイズ・速度・検証結果をそのままこのGGUF版の独立実測として転載しない。現時点の各量子ファイルの動作は未確認。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Quazim0t0/Qwenx86-4B-compact](models/other/quazim0t0-qwenx86-4b-compact.md) — unverified / 完全なPCや高速な実用計算機ではない。計算一件に数十秒〜数分。GSM8K26/28等は作者測定で、ホスト側メモリ機能と重み内実行を区別する。 当方でインストール・推論・生成・ベンチ再現はしていない。

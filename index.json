@@ -1,5 +1,5 @@
 {
-  "count": 979,
+  "count": 980,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -21422,6 +21422,37 @@
       "amplifiers": [],
       "path": "models/other/xtools-at-deepseek-v4-pro-qwen3.5-9b-uncensored-heretic.md",
       "summary": "Qwen3.5-9B をベースに、DeepSeek-V4-Pro の推論を約25万件の数学・STEMサンプルで蒸留した Jackrong/DeepSeek-V4-Pro-Qwen3.5-9B に対し、Heretic v2.0.0.dev0 の **ARA（Arbitrary-Rank Ablation）** を適用して"
+    },
+    {
+      "name": "LapDraw",
+      "genre": "other",
+      "url": "https://github.com/SachinyadavAug20/lapdraw",
+      "repo": "SachinyadavAug20/lapdraw",
+      "stars": 0,
+      "forks": 0,
+      "open_issues": 0,
+      "size_kb": 1023,
+      "language": "JavaScript",
+      "created": "2026-11-06",
+      "updated": "2026-11-07",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 22,
+      "commits_90d": 22,
+      "commit_cadence": "daily",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景・有効性・依存関係・実行条件。",
+      "type": "repo",
+      "added": "2026-11-13",
+      "first_seen": "2026-11-13",
+      "sources": [
+        "https://x.com/samtagon38824/status/2118738054374736329"
+      ],
+      "fetched_at": "2026-11-13T05:07:47.872720+00:00",
+      "path": "entries/other/sachinyadavaug20-lapdraw.md",
+      "summary": "READMEによると、ウェブページ上の描画・ハイライト・レビュー用スタンプ、URL単位のノート、無限キャンバス、シーケンス図・UMLクラス図・ERDの作成に対応する。QuickShapeは450ms静止時に線や図形を整形すると説明されている。"
     },
     {
       "type": "model",
