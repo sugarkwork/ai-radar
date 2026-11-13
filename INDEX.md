@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 974 件 — リポジトリ 643, リンク集 117, 記事 147, モデル 53, プロンプト 14 / ⚑ 要確認 760 件
+収録 975 件 — リポジトリ 643, リンク集 117, 記事 148, モデル 53, プロンプト 14 / ⚑ 要確認 761 件
 
 ## リポジトリ（643）
 
@@ -1204,9 +1204,9 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（147）
+## 記事（148）
 
-### 記事（87）
+### 記事（88）
 
 - **[$0のデジタル参謀長で月$80,000の契約候補を作ったというX投稿（動画付き）](articles/2026-10-22-bober_smart-0-80-000-x.md)** ⚑  @Bober_smart
 - **[1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md)** ⚑  @mukadeshinigami（mukade死神）
@@ -1245,6 +1245,7 @@
 - **[GitHub Copilot週次更新（11月2日の週）](articles/2026-11-06-github-github-copilot-11-2.md)** ⚑  GitHub
 - **[Giving every team a data scientist with Grok Bot](articles/2026-11-02-author-giving-every-team-a-data-scientist-with-grok-bot.md)** ⚑
 - **[Google Gemini Business Profile Tools Are Coming To Workspace](articles/2026-11-06-author-google-gemini-business-profile-tools-are-coming-to-workspace.md)** ⚑
+- **[H3 Imageの高解像度生成と縮小手順](articles/2026-11-12-aiwarper-h3-image.md)** ⚑  AIWarper
 - **[Harness design for long-running application development](articles/2026-03-24-author-harness-design-for-long-running-application-development.md)** ⚑
 - **[How we’re training a Figma-fluent editing model](articles/2026-10-29-author-how-we-re-training-a-figma-fluent-editing-model.md)** ⚑
 - **[Independent Assessment of AI R&D Acceleration at Anthropic in October 2026](articles/2026-11-05-author-independent-assessment-of-ai-r-d-acceleration-at-anthropic-in-october-2026.md)** ⚑
@@ -1580,6 +1581,7 @@
 - [GitHub Copilot週次更新（11月2日の週）](articles/2026-11-06-github-github-copilot-11-2.md) — unverified / Xcode統合はパブリックプレビュー。JetBrains Airのクラウド実行は組織設定に依存。
 - [Giving every team a data scientist with Grok Bot](articles/2026-11-02-author-giving-every-team-a-data-scientist-with-grok-bot.md) — unverified / 分析精度と工数削減は独立に検証していない。導入先で必要となる権限設定の詳細、現行の料金、社内スキルの再配布条件は未確認。
 - [Google Gemini Business Profile Tools Are Coming To Workspace](articles/2026-11-06-author-google-gemini-business-profile-tools-are-coming-to-workspace.md) — unverified / GoogleのSmall Business BulletinはWorkspace対応を「rolling out now」とする一方、確認したGoogleヘルプページは仕事用アカウントを対象外と記載。記事はこの不一致を指摘している。Workspaceへの提供時期や対象範囲は確定情報として扱わないこと。
+- [H3 Imageの高解像度生成と縮小手順](articles/2026-11-12-aiwarper-h3-image.md) — unverified / 投稿者の実践メモです。効果・原因・再現条件は独立した資料では未確認です。
 - [Harness design for long-running application development](articles/2026-03-24-author-harness-design-for-long-running-application-development.md) — unverified / 生成アプリの独立再現、構成要素ごとの寄与、別タスクへの一般化、実験用ハーネスのコード配布・再利用条件は未確認。
 - [How we’re training a Figma-fluent editing model](articles/2026-10-29-author-how-we-re-training-a-figma-fluent-editing-model.md) — unverified / 比較結果はFigmaの社内評価で、独立した再現性は未確認。学習データに含まれる顧客コンテンツの具体的な範囲と利用条件、学習済みモデルやデータの入手・再利用条件、モデル単体の速度と費用は未確認。
 - [Independent Assessment of AI R&D Acceleration at Anthropic in October 2026](articles/2026-11-05-author-independent-assessment-of-ai-r-d-acceleration-at-anthropic-in-october-2026.md) — unverified / METRの結論を強く支えた証拠の大半は非公開。公開情報からは推定の独立再現や、加速のうちAI利用に起因する割合の検証はできない。

@@ -1,5 +1,5 @@
 {
-  "count": 974,
+  "count": 975,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -7369,6 +7369,25 @@
       ],
       "fetched_at": "2026-11-10T13:51:53Z",
       "path": "articles/2026-11-06-author-google-gemini-business-profile-tools-are-coming-to-workspace.md"
+    },
+    {
+      "name": "H3 Imageの高解像度生成と縮小手順",
+      "genre": "article",
+      "url": "https://x.com/AIWarper/status/2120919911619080626",
+      "author": "AIWarper",
+      "published": "2026-11-12",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "投稿者の実践メモです。効果・原因・再現条件は独立した資料では未確認です。",
+      "type": "article",
+      "added": "2026-11-13",
+      "first_seen": "2026-11-13",
+      "sources": [
+        "https://x.com/AIWarper/status/2120919911619080626"
+      ],
+      "fetched_at": "2026-11-13T00:16:57+00:00",
+      "path": "articles/2026-11-12-aiwarper-h3-image.md"
     },
     {
       "name": "Harness design for long-running application development",
