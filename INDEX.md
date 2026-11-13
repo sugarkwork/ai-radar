@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 971 件 — リポジトリ 640, リンク集 117, 記事 147, モデル 53, プロンプト 14 / ⚑ 要確認 757 件
+収録 972 件 — リポジトリ 641, リンク集 117, 記事 147, モデル 53, プロンプト 14 / ⚑ 要確認 758 件
 
-## リポジトリ（640）
+## リポジトリ（641）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -636,7 +636,7 @@
 | [ComfyUI Prompt Atelier](entries/image-gen/renz1998-comfyui-prompt-atelier.md) | 3 | 0 | 毎日 | 51 | 2026-11-09 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
 | [P-H3-Image ComfyUI sample workflows](entries/image-gen/tori29umai0123-p-h3-image_workflows.md) ⚑ | 2 | 1 | 週次 | 4 | 2026-11-06 | 2026-11-10 | 2026-11-11 | unknown |
 
-### プロンプト（デザイン/UI）（21）
+### プロンプト（デザイン/UI）（22）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -658,6 +658,7 @@
 | [The Designer Skills Pack](entries/prompt-design/owl-listener-designer-skills.md) ⚑ | 3,309 | 436 | 月次 | 0 | 2026-09-05 | 2026-11-10 | 2026-11-11 | MIT |
 | [GitReverse](entries/prompt-design/filiksyos-gitreverse.md) ⚑ | 2,081 | 337 | 週次 | 8 | 2026-11-10 | 2026-11-11 | 2026-11-11 | MIT |
 | [AI 漫剧 Skills](entries/prompt-design/zhanghao123vip-ai-manju-skills.md) ⚑ | 695 | 124 | 月次 | 2 | 2026-11-01 | 2026-11-10 | 2026-11-10 | MIT |
+| [TAP (Tree of Attacks with Pruning)](entries/prompt-design/ricommunity-tap.md) ⚑ | 253 | 42 | 停滞 | 0 | 2024-12-10 | 2026-11-13 | 2026-11-13 | MIT |
 | [better-readme](entries/prompt-design/tommy0103-better-readme-skill.md) ⚑ | 32 | 1 | 停滞 | 0 | 2026-10-08 | 2026-11-09 | 2026-11-10 | MIT |
 | [Grok Bot Teams](entries/prompt-design/ellelion-botteams.md) ⚑ | 26 | 6 | 月次 | 0 | 2026-09-08 | 2026-11-10 | 2026-11-10 | MIT |
 | [GUntilB/Anima-Prompt-Generator](entries/prompt-design/guntilb-anima-prompt-generator.md) ⚑ | 13 | 1 | 月次 | 3 | 2026-11-08 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
@@ -1996,6 +1997,7 @@
 - [The Designer Skills Pack](entries/prompt-design/owl-listener-designer-skills.md) — unverified / README names Claude Code and Gemini CLI but does not establish compatibility with other agents. Dependencies beyond those tools, execution requirements, and effectiveness are unverified. Repository metrics are supplied separately as measured data.
 - [GitReverse](entries/prompt-design/filiksyos-gitreverse.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [AI 漫剧 Skills](entries/prompt-design/zhanghao123vip-ai-manju-skills.md) — unverified / 最新リリースは未確認。動作検証はREADMEの作者報告に基づく。残りの題材の個別動作、各対応環境での再現性、生成物の品質は今回独立に検証していない。
+- [TAP (Tree of Attacks with Pruning)](entries/prompt-design/ricommunity-tap.md) — unverified / READMEは、制限情報を求めるgoalと応答のtarget prefixを指定して実行する例を示している。対象モデルへの利用許可やAPI利用料金はREADMEから確認できない。
 - [better-readme](entries/prompt-design/tommy0103-better-readme-skill.md) — unverified / GitHub の language は null（コードが無く Markdown のみ）。同梱の Art of README 本文には上流のライセンス表記が無く、上流 https://github.com/noffle/art-of-readme も 404 のため再配布条件は未確認。効果（使う前と後で変わる）は作者の主張のみで、before/after 例・テスト・第三者評価はリポジトリに無い。npx skills add は npm の skills v1.7.6 とそのドキュメントで実在を確認したが、この環境では実行できず、実際のインストール成否は未確認。投稿の画像は撮影時点で star 0 の README 画面で、現在値（31）とは一致しない。
 - [Grok Bot Teams](entries/prompt-design/ellelion-botteams.md) — unverified / ['Grok Bot上での導入成功率、生成結果、実行時の料金、最新リリースは未確認。コネクタごとの動作も実機では確認していない。']
 - [GUntilB/Anima-Prompt-Generator](entries/prompt-design/guntilb-anima-prompt-generator.md) — unverified / 33.8kタグ/7.5k別名はREADME自己申告で未検証。原チェック時は作成直後の小規模プロジェクト。GPL-3.0と使用モデルの条件を分ける。 当方でインストール・推論・生成・ベンチ再現はしていない。

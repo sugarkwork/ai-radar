@@ -1,5 +1,5 @@
 {
-  "count": 971,
+  "count": 972,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -22363,6 +22363,37 @@
       "fetched_at": "2026-11-10T09:23:57Z",
       "path": "entries/prompt-design/zhanghao123vip-ai-manju-skills.md",
       "summary": "物語のアイデアをもとに、企画書、人物・小道具・背景などの画像生成プロンプト、各話の台本、絵コンテ・動画生成プロンプト、表紙や投稿文の案を段階的に出力する。"
+    },
+    {
+      "name": "TAP (Tree of Attacks with Pruning)",
+      "genre": "prompt-design",
+      "url": "https://github.com/RICommunity/TAP",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEは、制限情報を求めるgoalと応答のtarget prefixを指定して実行する例を示している。対象モデルへの利用許可やAPI利用料金はREADMEから確認できない。",
+      "repo": "RICommunity/TAP",
+      "stars": 253,
+      "forks": 42,
+      "open_issues": 5,
+      "size_kb": 420,
+      "language": "Python",
+      "created": "2023-12-01",
+      "updated": "2024-12-10",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 0,
+      "commits_90d": 0,
+      "commit_cadence": "stale",
+      "type": "repo",
+      "added": "2026-11-13",
+      "first_seen": "2026-11-13",
+      "sources": [
+        "https://x.com/mingzi206/status/2118628554883883348"
+      ],
+      "fetched_at": "2026-11-13T00:12:59.137522+00:00",
+      "path": "entries/prompt-design/ricommunity-tap.md",
+      "summary": "攻撃側LLMがtree-of-thought reasoningで攻撃プロンプトを生成し、評価側LLMが不適切な候補を枝刈りして対象LLMの応答を評価する、ブラックボックス型の自動jailbreak手法。READMEは実験でGPT-4やGPT-4-Turboを含むモデルに対し、少数のクエリで80%超のプロンプトがjai"
     },
     {
       "repo": "tommy0103/better-readme-skill",
