@@ -12,6 +12,18 @@
 - [X: thegreatest_sv の投稿](https://x.com/thegreatest_sv/status/2118684117055226197)
   - 公開に必須の根拠がそろっていません。
   - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://x.com/thegreatest_sv/status/2118684117055226197>。
+- [X: naka_1717 の投稿](https://x.com/naka_1717/status/2118687295884947643)
+  - 公開に必須の根拠がそろっていません。
+- [X: fhwofjow51260 の投稿](https://x.com/fhwofjow51260/status/2118689833883422906)
+  - 対象を裏付ける公開一次資料を確認できませんでした。
+- [X: fhwofjow51260 の投稿](https://x.com/fhwofjow51260/status/2118688980648751553)
+  - 公開に必須の根拠がそろっていません。
+- [X: fhwofjow51260 の投稿](https://x.com/fhwofjow51260/status/2118688723592442004)
+  - 候補の対象が複数あり、一意に特定できませんでした。
+  - 対象を裏付ける公開一次資料を確認できませんでした。
+- [X: fhwofjow51260 の投稿](https://x.com/fhwofjow51260/status/2118687885658579178)
+  - 対象を裏付ける公開一次資料を確認できませんでした。
+  - 公開に必須の根拠がそろっていません。
 - [X: fhwofjow51260 の投稿](https://x.com/fhwofjow51260/status/2118685015412498604)
   - 候補の対象が複数あり、一意に特定できませんでした。
 - [X: fhwofjow51260 の投稿](https://x.com/fhwofjow51260/status/2118683677710508040)
@@ -22,6 +34,8 @@
   - 公開に必須の根拠がそろっていません。
 - [X: bunkeideploy の投稿](https://x.com/bunkeideploy/status/2118846996769313160)
   - 対象を裏付ける公開一次資料を確認できませんでした。
+- [X: bladesofmirage の投稿](https://x.com/bladesofmirage/status/2118689861813117380)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 - [X: HeLi8866 の投稿](https://x.com/HeLi8866/status/2121225016478196054)
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
 ## 2026-11-13（日本時間）
