@@ -1,5 +1,5 @@
 {
-  "count": 990,
+  "count": 991,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -25289,6 +25289,37 @@
       "last_release_at": "2026-11-08",
       "path": "entries/tts-audio/adventists-ai-sophon-realtime.md",
       "summary": "Sophon-Realtimeのリアルタイム音声対話コード。Tag/FlashとE2Eプレビューを案内。"
+    },
+    {
+      "name": "VoxMel",
+      "genre": "tts-audio",
+      "url": "https://github.com/VoxDance-Lab/VoxMel",
+      "repo": "VoxDance-Lab/VoxMel",
+      "license": "unknown",
+      "stars": 29,
+      "language": "Python",
+      "created": "2026-11-11",
+      "updated": "2026-11-12",
+      "forks": 2,
+      "open_issues": 0,
+      "commits_30d": 12,
+      "commit_cadence": "weekly",
+      "commits_90d": 12,
+      "size_kb": 6507,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "README does not state the repository license; the supplied API measurement reports license as unknown. The README says model weights, experiment config, and Vocos weights are not included in the checkout and must be supplied separately. GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-13",
+      "first_seen": "2026-11-13",
+      "sources": [
+        "https://x.com/cutetoxicguy/status/2121037830960922877"
+      ],
+      "fetched_at": "2026-11-13T08:09:42.027959+00:00",
+      "path": "entries/tts-audio/voxdance-lab-voxmel.md",
+      "summary": "メルスペクトログラムを固定の二軸Haar変換で分解し、Coarse-Melを自己回帰生成、時間・周波数残差を非自己回帰で予測して再構成し、Vocos vocoderで音声に変換する音声合成フレームワーク。READMEは英語・中国語のゼロショット音声クローニングを説明している。変換の可逆性は生成音声やvocoder再構成"
     },
     {
       "type": "repo",
