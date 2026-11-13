@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 969 件 — リポジトリ 639, リンク集 117, 記事 146, モデル 53, プロンプト 14 / ⚑ 要確認 755 件
+収録 970 件 — リポジトリ 639, リンク集 117, 記事 147, モデル 53, プロンプト 14 / ⚑ 要確認 756 件
 
 ## リポジトリ（639）
 
@@ -1200,9 +1200,9 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（146）
+## 記事（147）
 
-### 記事（86）
+### 記事（87）
 
 - **[$0のデジタル参謀長で月$80,000の契約候補を作ったというX投稿（動画付き）](articles/2026-10-22-bober_smart-0-80-000-x.md)** ⚑  @Bober_smart
 - **[1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md)** ⚑  @mukadeshinigami（mukade死神）
@@ -1260,6 +1260,7 @@
 - **[OpenUIで表データの取得をUI生成と分ける](articles/2026-10-21-bernat-vadell-openui-ui.md)** ⚑  Bernat Vadell
 - **[P-H3-Image LoRAでキャラクターシートから12種類の画像編集を試した記事](articles/2026-11-06-author-p-h3-image-lora-12.md)** ⚑
 - **[P-H3-Image: Turning a SOTA Video Model into an Efficient Open Image Model](articles/2026-11-03-author-p-h3-image-turning-a-sota-video-model-into-an-efficient-open-image-model.md)** ⚑
+- **[P-H3-Imageの使い方：ComfyUIワークフローの解説](articles/2026-11-06-author-p-h3-image-comfyui.md)** ⚑
 - **[PFNの翻訳特化LLM「PLaMo 3 Translate」をスマホ・Windows・Mac・Linuxに入れる方法](articles/2026-11-05-emma-eva-note-emma_and_eva-pfn-llm-plamo-3-translate-windows-mac-linux.md)** ⚑  Emma先生 & Eva先生（note: emma_and_eva）
 - **[Project Suncatcher試作衛星からの初応答](articles/2026-10-30-travis-beals-project-suncatcher.md)** ⚑  Travis Beals
 - **[Railway公式セキュリティ告知：環境変数に保存したAPIキーへの対応](articles/2026-10-21-jacob-cooper-railway-railway-api.md)** ⚑  Jacob Cooper（Railway）
@@ -1594,6 +1595,7 @@
 - [OpenUIで表データの取得をUI生成と分ける](articles/2026-10-21-bernat-vadell-openui-ui.md) — unverified / 原文は公開ミラー経由。性能や費用の実測はない。
 - [P-H3-Image LoRAでキャラクターシートから12種類の画像編集を試した記事](articles/2026-11-06-author-p-h3-image-lora-12.md) — unverified / 記載の実行時間・出力結果は記事著者の環境での報告で、独立した再現確認ではない。
 - [P-H3-Image: Turning a SOTA Video Model into an Efficient Open Image Model](articles/2026-11-03-author-p-h3-image-turning-a-sota-video-model-into-an-efficient-open-image-model.md) — unverified / 編集入力の上限は記事では9枚、公式モデルカード2件では編集対象を含めて8枚。9枚入力の動作、生成速度、VRAM使用量、出力品質は独立検証していない。
+- [P-H3-Imageの使い方：ComfyUIワークフローの解説](articles/2026-11-06-author-p-h3-image-comfyui.md) — low-quality, unverified / 記事中のプロンプト書き換えモデル名が公式資料と食い違う。無制限に無料という表現も条件を明示していない。 記事は日本語プロンプトの書き換えにGemma 4 12Bを使うと説明するが、Pruna AIの公式資料ではプロンプトアップサンプラーはQwen3.5-9Bベースとされている。また「何枚でも無料」はローカル利用にかかる環境費用やライセンス条件を含めて保証されたものではない。利用地域などの条件は公式ライセンスを確認すること。
 - [PFNの翻訳特化LLM「PLaMo 3 Translate」をスマホ・Windows・Mac・Linuxに入れる方法](articles/2026-11-05-emma-eva-note-emma_and_eva-pfn-llm-plamo-3-translate-windows-mac-linux.md) — unverified / PFN 公式ブログではなく第三者アカウントのまとめ記事。ベンチマーク優位は PFN 自身の評価の引用、iPhone の 0.515 秒は GIGAZINE の 1 回計測の引用で独立検証なし。winget での llama.cpp 導入、PocketPal AI での 0.8B 読み込み手順、llama.app のインストールスクリプト（取得したスクリプトをシェルに渡す方式）は本文の記述のみで未検証。記事末尾は著者の有料講義の宣伝。
 - [Project Suncatcher試作衛星からの初応答](articles/2026-10-30-travis-beals-project-suncatcher.md) — unverified / 推論成功はGoogleの自己報告。軌道上での長期信頼性、熱・放射線の影響、候補投稿の費用比較は確認できていない。
 - [Railway公式セキュリティ告知：環境変数に保存したAPIキーへの対応](articles/2026-10-21-jacob-cooper-railway-railway-api.md) — unverified / 影響範囲と個別のキーの悪用有無は独立検証していない。候補投稿の引用先であるX記事の本文は未確認。

@@ -1,5 +1,5 @@
 {
-  "count": 969,
+  "count": 970,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -7723,6 +7723,25 @@
       ],
       "fetched_at": "2026-11-10T10:14:02Z",
       "path": "articles/2026-11-03-author-p-h3-image-turning-a-sota-video-model-into-an-efficient-open-image-model.md"
+    },
+    {
+      "name": "P-H3-Imageの使い方：ComfyUIワークフローの解説",
+      "genre": "article",
+      "url": "https://note.com/ai_hakase/n/n391c06d816c2",
+      "published": "2026-11-06",
+      "flags": [
+        "low-quality",
+        "unverified"
+      ],
+      "risk_notes": "記事中のプロンプト書き換えモデル名が公式資料と食い違う。無制限に無料という表現も条件を明示していない。 記事は日本語プロンプトの書き換えにGemma 4 12Bを使うと説明するが、Pruna AIの公式資料ではプロンプトアップサンプラーはQwen3.5-9Bベースとされている。また「何枚でも無料」はローカル利用にかかる環境費用やライセンス条件を含めて保証されたものではない。利用地域などの条件は公式ライセンスを確認すること。",
+      "type": "article",
+      "added": "2026-11-13",
+      "first_seen": "2026-11-13",
+      "sources": [
+        "https://x.com/ai_hakase_/status/2118624255520932266"
+      ],
+      "fetched_at": "2026-11-13T00:10:35Z",
+      "path": "articles/2026-11-06-author-p-h3-image-comfyui.md"
     },
     {
       "type": "article",
