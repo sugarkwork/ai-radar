@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 998 件 — リポジトリ 659, リンク集 117, 記事 155, モデル 53, プロンプト 14 / ⚑ 要確認 782 件
+収録 999 件 — リポジトリ 660, リンク集 117, 記事 155, モデル 53, プロンプト 14 / ⚑ 要確認 783 件
 
-## リポジトリ（659）
+## リポジトリ（660）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -112,7 +112,7 @@
 | [Berth](entries/coding-agent/maxzyma-berth.md) ⚑ | 0 | 0 | 毎日 | 100+ | 2026-11-11 | 2026-11-12 | 2026-11-12 | MIT |
 | [Leash](entries/coding-agent/cmaintz-leash.md) ⚑ | 0 | 0 | 毎日 | 21 | 2026-11-06 | 2026-11-10 | 2026-11-11 | MIT |
 
-### その他（97）
+### その他（98）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -191,6 +191,7 @@
 | [FlashProve](entries/other/anthropics-flashprove.md) ⚑ | 1,017 | 109 | 月次 | 1 | 2026-10-30 | 2026-11-11 | 2026-11-11 | Apache-2.0 |
 | [VidStab](entries/other/georgmartius-vid.stab.md) ⚑ | 991 | 126 | 月次 | 0 | 2026-08-14 | 2026-11-10 | 2026-11-10 | unknown |
 | [DSH 破甲ワークフロー（dsh-jailbreak-workflow）](entries/other/minglink-dsh-jailbreak-workflow.md) ⚑ | 816 | 284 | 週次 | 18 | 2026-11-05 | 2026-11-09 | 2026-11-10 | 未確認（API は NOASSERTION、標準ライセンスファイル無し） |
+| [Awesome Chinese Secondhand Slang（中国二手暗语全书与避坑合规指南）](entries/other/domainsun-awesome-chinese-secondhand-slang.md) ⚑ | 777 | 51 | 週次 | 8 | 2026-10-19 | 2026-11-13 | 2026-11-13 | MIT |
 | [Orfeo](entries/other/squarebow-orfeo.md) ⚑ | 723 | 58 | 毎日 | 100+ | 2026-11-13 | 2026-11-13 | 2026-11-13 | GPL-3.0 |
 | [color-matcher](entries/other/hahnec-color-matcher.md) ⚑ | 706 | 50 | 停滞 | 0 | 2026-02-24 | 2026-11-10 | 2026-11-10 | GPL-3.0 |
 | [Manufacturing WeChat Mini Program Starter](entries/other/changhaoting1998-star-manufacturing-wechat-miniapp-starter.md) ⚑ | 703 | 39 | 月次 | 3 | 2026-10-27 | 2026-11-11 | 2026-11-11 | MIT |
@@ -1991,6 +1992,7 @@
 - [FlashProve](entries/other/anthropics-flashprove.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [VidStab](entries/other/georgmartius-vid.stab.md) — unverified / 補正量・画質・処理速度は実測していない。READMEはmasterの仕様を含むため、最新公開リリースv1.1.2や各FFmpeg配布ビルドでの機能差は未確認。公開日の年は取得した表示から確定できなかった。ライセンス欄は親工程のAPI値を保持し、利用条件は対象バージョンのライセンス文書で確認する。 GitHub APIでライセンスを確認できていません。
 - [DSH 破甲ワークフロー（dsh-jailbreak-workflow）](entries/other/minglink-dsh-jailbreak-workflow.md) — prompt-injection / モデルの拒否応答を回避する『破甲（jailbreak）』プロンプトを自動生成するためのワークフロー。各サービスの利用規約違反になり得る。記録のみで、実行・生成した内容の利用はしない。
+- [Awesome Chinese Secondhand Slang（中国二手暗语全书与避坑合规指南）](entries/other/domainsun-awesome-chinese-secondhand-slang.md) — malicious, low-quality, unverified / READMEは、平台の敏感語検出を避けるための代替語・暗語や、文案の排雷・転译を売り手向け用途として記載している。これは規制・モデレーション回避を助けうる。収録件数と分類数にもREADME内の不一致がある。 README内で収録規模が一致しない（本文は4,569+変異形・114分類、バッジは5,082,569+変異形・149分類）。記載された語句の意味や存活状態、平台ルールへの適合性は独立確認されていない。
 - [Orfeo](entries/other/squarebow-orfeo.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [color-matcher](entries/other/hahnec-color-matcher.md) — unverified / 著者による手法比較の独立再現、映像の時間方向の一貫性、現行環境での動作は未検証。GitHub は v0.5.0 を Latest と表示し、PyPI は 0.6.0 を掲載している。GitHub リリースの年を含む公開日は未確認。
 - [Manufacturing WeChat Mini Program Starter](entries/other/changhaoting1998-star-manufacturing-wechat-miniapp-starter.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
