@@ -1,5 +1,5 @@
 {
-  "count": 975,
+  "count": 976,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -8024,6 +8024,22 @@
       ],
       "fetched_at": "2026-11-10T09:53:06Z",
       "path": "articles/2026-11-02-author-upcoming-new-age-rating-content-descriptors-in-app-store-connect-533ca96fb6.md"
+    },
+    {
+      "name": "What are vector embeddings? An interactive guide",
+      "genre": "article",
+      "url": "https://isaacus.com/blog/what-are-vector-embeddings",
+      "published": "2026-10-14",
+      "flags": [],
+      "type": "article",
+      "added": "2026-11-13",
+      "first_seen": "2026-11-13",
+      "risk_notes": "",
+      "sources": [
+        "https://x.com/ai_hakase_/status/2118630308677374184"
+      ],
+      "fetched_at": "2026-11-13T01:14:12.517595+00:00",
+      "path": "articles/2026-10-14-author-what-are-vector-embeddings-an-interactive-guide.md"
     },
     {
       "name": "Xのアカウントデータを使った自己点検の提案",
