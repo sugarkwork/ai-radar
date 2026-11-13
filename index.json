@@ -1,5 +1,5 @@
 {
-  "count": 1002,
+  "count": 1003,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -21176,6 +21176,37 @@
       "fetched_at": "2026-11-11T17:11:56.089318+00:00",
       "path": "entries/other/awesome-ai-pedia-awesome-ai-pedia.md",
       "summary": "AI ツールの使用ガイド、ベストプラクティス、実践例をまとめる。README では Claude Code、Cursor、MCP、Agent、Skills、Prompt 工程などを扱い、全文検索と暗色テーマを備えると説明されている。"
+    },
+    {
+      "name": "Enterprise System Design",
+      "genre": "other",
+      "url": "https://github.com/DrHazemAli/enterprise-system-design",
+      "repo": "DrHazemAli/enterprise-system-design",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEにライセンス条件の記載がなく、ライセンスは確認できていません。 GitHub APIでライセンスを確認できていません。",
+      "stars": 659,
+      "forks": 135,
+      "open_issues": 1,
+      "size_kb": 51837,
+      "language": "unknown",
+      "created": "2026-08-12",
+      "updated": "2026-11-12",
+      "archived": false,
+      "license": "unknown",
+      "commits_30d": 0,
+      "commits_90d": 3,
+      "commit_cadence": "monthly",
+      "type": "repo",
+      "added": "2026-11-13",
+      "first_seen": "2026-11-13",
+      "sources": [
+        "https://x.com/Ryrenz/status/2118677036923261317"
+      ],
+      "fetched_at": "2026-11-13T14:10:31.223872+00:00",
+      "path": "entries/other/drhazemali-enterprise-system-design.md",
+      "summary": "READMEでは、Azure上の分散システム設計コース兼技術リファレンスと説明されています。基礎から本番AIワークロードまでを扱い、信頼性、セキュリティ、運用、検索、モデル提供などの設計を学べます。"
     },
     {
       "repo": "0xCodez/DuoDesk",
