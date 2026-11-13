@@ -1,5 +1,5 @@
 {
-  "count": 993,
+  "count": 994,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -25461,6 +25461,37 @@
       "fetched_at": "2026-11-10T09:33:29+00:00",
       "path": "entries/tts-audio/lakimi-ai-systems-lab-tts.md",
       "summary": "Qwen3-TTS 1.7B VoiceDesignで文章の指示から合成参照音声を作り、0.6B Baseでその声を使って別の文を読み上げる。Audio8などと発音、長文での安定性、休止を比較できる。"
+    },
+    {
+      "name": "Voxarium",
+      "genre": "tts-audio",
+      "url": "https://github.com/AhmadMansy/voxarium",
+      "repo": "AhmadMansy/voxarium",
+      "license": "AGPL-3.0",
+      "stars": 7,
+      "language": "TypeScript",
+      "created": "2026-10-29",
+      "updated": "2026-11-08",
+      "forks": 0,
+      "open_issues": 9,
+      "commits_30d": 40,
+      "commit_cadence": "daily",
+      "commits_90d": 40,
+      "size_kb": 17353,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "LinuxとmacOSはCIで未検証。PythonモデルはWindowsでもKokoro、Supertonic、Piper以外がエンドツーエンド未検証とREADMEに記載。",
+      "type": "repo",
+      "added": "2026-11-13",
+      "first_seen": "2026-11-13",
+      "sources": [
+        "https://x.com/dextune/status/2121037326759473319"
+      ],
+      "fetched_at": "2026-11-13T11:10:54.873037+00:00",
+      "path": "entries/tts-audio/ahmadmansy-voxarium.md",
+      "summary": "Windows、Linux、macOS向けのローカルTTSスタジオ。スクリプトから音声を生成し、音声の選択・調整、最大50行のバッチ処理、WAV/MP3出力ができる。ローカルAPI、MCPサーバー、CLIも提供するとREADMEに記載。"
     },
     {
       "type": "model",

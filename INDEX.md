@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 993 件 — リポジトリ 656, リンク集 117, 記事 153, モデル 53, プロンプト 14 / ⚑ 要確認 777 件
+収録 994 件 — リポジトリ 657, リンク集 117, 記事 153, モデル 53, プロンプト 14 / ⚑ 要確認 778 件
 
-## リポジトリ（656）
+## リポジトリ（657）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -485,7 +485,7 @@
 | [3dmodel](entries/3d-motion/fletcherholt-3dmodel-skill.md) ⚑ | 6 | 0 | 停滞 | 0 | 2026-06-16 | 2026-11-10 | 2026-11-10 | unknown |
 | [Lida-V/LidaAngelToon](entries/3d-motion/lida-v-lidaangeltoon.md) ⚑ | 6 | 0 | 週次 | 13 | 2026-10-17 | 2026-11-09 | 2026-11-10 | NOASSERTION |
 
-### 音声・TTS（36）
+### 音声・TTS（37）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -525,6 +525,7 @@
 | [lowkeytea/scyllasband](entries/tts-audio/lowkeytea-scyllasband.md) ⚑ | 29 | 2 | 週次 | 11 | 2026-11-07 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
 | [muse-irodori-voice — CPUで固有音声を作るIrodoriキット](entries/tts-audio/kgmkm-muse-irodori-voice.md) ⚑ | 9 | 0 | 週次 | 4 | 2026-10-31 | 2026-11-09 | 2026-11-10 | MIT |
 | [lab-tts](entries/tts-audio/lakimi-ai-systems-lab-tts.md) ⚑ | 8 | 0 | 月次 | 3 | 2026-11-03 | 2026-11-10 | 2026-11-10 | Apache-2.0 |
+| [Voxarium](entries/tts-audio/ahmadmansy-voxarium.md) ⚑ | 7 | 0 | 毎日 | 40 | 2026-11-08 | 2026-11-13 | 2026-11-13 | AGPL-3.0 |
 
 ### 金融・クオンツ（27）
 
@@ -2088,6 +2089,7 @@
 - [lowkeytea/scyllasband](entries/tts-audio/lowkeytea-scyllasband.md) — unverified / ランタイムApache-2.0と各構成要素の条件を確認する。モデルの70ms等を全デバイスでの実測保証にしない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [muse-irodori-voice — CPUで固有音声を作るIrodoriキット](entries/tts-audio/kgmkm-muse-irodori-voice.md) — unverified / コードはMITだが重みと音声利用条件は別。READMEは特定声優・キャラクターへの模倣を禁じ、同意のない他者のなりすまし等にも注意する。このONNX経路ではSilentCipher透かしが入らないと説明されているためAI音声であることを明示する。速度・同一性・品質は作者の測定で当方未追試。 当方でインストール・動作・性能の実行検証はしていない。
 - [lab-tts](entries/tts-audio/lakimi-ai-systems-lab-tts.md) — unverified / 最新リリース、実行時の動作と必要VRAM、公開結果の再現性は未確認。Audio8の休止時間は日常文1例での著者報告。モデルの利用条件はリポジトリREADMEの記載を確認した範囲。
+- [Voxarium](entries/tts-audio/ahmadmansy-voxarium.md) — unverified / LinuxとmacOSはCIで未検証。PythonモデルはWindowsでもKokoro、Supertonic、Piper以外がエンドツーエンド未検証とREADMEに記載。
 - [Introducing Chariot-1-TTS-Multilingual](articles/2026-11-12-author-introducing-chariot-1-tts-multilingual.md) — unverified / 評価順位と数値はChariotが2026-11-11の評価で比較対象とした構成に限る。音声品質の値は自動評価器NISQAによる予測値であり、独立検証結果ではない。
 - [Museで既存動画へ声を付ける制作メモ（18+注意）](articles/2026-11-09-memuringo7544-muse-video-voiceover.md) — unverified / 18+ / NSFW。成人向けを含む動画への音声付与に関する投稿。原音除去/重ね合わせの説明と口パク一致の限界を区別。画像内のAI回答は動作証拠ではなく、ユーザーの成功談も独立追試していない。
 - [Muse・無料GPUによるYuE2実行手順（本文未取得）](articles/2026-11-09-https-x.com-i-article-2118941631386996736.md) — unverified / 具体的な無料GPU・接続方法・費用・原文指示は未確認。YuE2本体の実在を記事の手順成功の証拠にしない。 当方でインストール・推論・生成・ベンチ再現はしていない。
