@@ -1,5 +1,5 @@
 {
-  "count": 980,
+  "count": 981,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -7909,6 +7909,22 @@
       ],
       "fetched_at": "2026-11-10T04:04:31Z",
       "path": "articles/2026-11-07-brenden-house-render-ai.md"
+    },
+    {
+      "name": "Retiring Advanced and Standard Voice in ChatGPT",
+      "genre": "article",
+      "url": "https://help.openai.com/en/articles/20001638-retiring-advanced-and-standard-voice-in-chatgpt",
+      "published": "2026-11-10",
+      "flags": [],
+      "type": "article",
+      "added": "2026-11-13",
+      "first_seen": "2026-11-13",
+      "risk_notes": "",
+      "sources": [
+        "https://x.com/DYoung_AI/status/2121053660192845937"
+      ],
+      "fetched_at": "2026-11-13T05:09:02.607660+00:00",
+      "path": "articles/2026-11-10-author-retiring-advanced-and-standard-voice-in-chatgpt.md"
     },
     {
       "name": "See's Candies 1972→1998——$25Mが$60Mを生んだ理由を、バフェットがMBA学生に語った",

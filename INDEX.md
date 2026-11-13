@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 980 件 — リポジトリ 645, リンク集 117, 記事 151, モデル 53, プロンプト 14 / ⚑ 要確認 765 件
+収録 981 件 — リポジトリ 645, リンク集 117, 記事 152, モデル 53, プロンプト 14 / ⚑ 要確認 765 件
 
 ## リポジトリ（645）
 
@@ -1206,9 +1206,9 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（151）
+## 記事（152）
 
-### 記事（91）
+### 記事（92）
 
 - **[$0のデジタル参謀長で月$80,000の契約候補を作ったというX投稿（動画付き）](articles/2026-10-22-bober_smart-0-80-000-x.md)** ⚑  @Bober_smart
 - **[1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md)** ⚑  @mukadeshinigami（mukade死神）
@@ -1274,6 +1274,7 @@
 - **[Railway公式セキュリティ告知：環境変数に保存したAPIキーへの対応](articles/2026-10-21-jacob-cooper-railway-railway-api.md)** ⚑  Jacob Cooper（Railway）
 - **[RelayVSR: Large–Small Model Collaboration for Efficient Real-World Video Super-Resolution](articles/2026-09-29-author-relayvsr-large-small-model-collaboration-for-efficient-real-world-video-super-re.md)** ⚑
 - **[RenderのAIエージェント向けドキュメント設計](articles/2026-11-07-brenden-house-render-ai.md)** ⚑  Brenden House
+- **[Retiring Advanced and Standard Voice in ChatGPT](articles/2026-11-10-author-retiring-advanced-and-standard-voice-in-chatgpt.md)**
 - **[See's Candies 1972→1998——$25Mが$60Mを生んだ理由を、バフェットがMBA学生に語った](articles/1998-10-15-warren-buffett-see-s-candies-1972-1998-25m-60m-mba-12d8279960.md)** ⚑  Warren Buffett
 - **[Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights](articles/2026-11-02-author-sparks-of-weight-space-programming-llms-can-natively-read-write-neural-network-w.md)** ⚑
 - **[The Johnson brothers — AIキャラを「家族」に増やす成長プレイブック](articles/2026-10-16-y0urdumble-dumble-the-johnson-brothers-ai.md)** ⚑  @Y0urDumble (Dumble)
