@@ -1,5 +1,5 @@
 {
-  "count": 1005,
+  "count": 1006,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -7068,6 +7068,22 @@
       ],
       "fetched_at": "2026-11-10T10:09:52Z",
       "path": "articles/2026-11-05-author-bring-agentic-coding-on-device-with-foundry-local.md"
+    },
+    {
+      "name": "Build once, run on any agent: A practical guide to agent skills",
+      "genre": "article",
+      "url": "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/",
+      "published": "2026-11-12",
+      "flags": [],
+      "type": "article",
+      "added": "2026-11-13",
+      "first_seen": "2026-11-13",
+      "risk_notes": "",
+      "sources": [
+        "https://x.com/CodetocashAi/status/2121224709291319659"
+      ],
+      "fetched_at": "2026-11-13T16:11:55.484636+00:00",
+      "path": "articles/2026-11-12-author-build-once-run-on-any-agent-a-practical-guide-to-agent-skills.md"
     },
     {
       "name": "ChatGPT + Obsidian で組む英語リスニング訓練システム",
