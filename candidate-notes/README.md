@@ -157,6 +157,8 @@
 - [X: ai_hacks_akira の投稿](https://x.com/ai_hacks_akira/status/2118554295721480561)
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
   - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://github.com/anthropics/skills>。
+- [X: agenticgirl の投稿](https://x.com/agenticgirl/status/2121055446115168572)
+  - 元投稿と配布先が同一対象であることを裏付けられませんでした。
 - [X: The_Genesis_0 の投稿](https://x.com/The_Genesis_0/status/2118633101903442065)
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
@@ -194,8 +196,26 @@
   - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: ImAI_Eruel の投稿](https://x.com/ImAI_Eruel/status/2118616087629910416)
   - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://x.com/ImAI_Eruel/status/2118616087629910416>。
+- [X: I_am_Aiabir の投稿](https://x.com/I_am_Aiabir/status/2118731208578478546)
+  - GitHub APIで元のリポジトリを確認できませんでした。
+  - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+- [X: HigurashiAI の投稿](https://x.com/HigurashiAI/status/2121043937762889832)
+  - 元投稿と配布先が同一対象であることを裏付けられませんでした。
 - [X: AiAircle34052 の投稿](https://x.com/AiAircle34052/status/2118559500181635527)
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+- [X: AIWarper の投稿](https://x.com/AIWarper/status/2115923826362183764)
+  - 候補の対象が複数あり、一意に特定できませんでした。
+- [X: AIWarper の投稿](https://x.com/AIWarper/status/2115867211449647493)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+- [X: AIWarper の投稿](https://x.com/AIWarper/status/2115867209486782704)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+- [X: AIWarper の投稿](https://x.com/AIWarper/status/2115488246713237582)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+- [X: AIWarper の投稿](https://x.com/AIWarper/status/2115267337205195174)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+  - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://x.com/AIWarper/status/2115267337205195174>。
+- [X: AIWarper の投稿](https://x.com/AIWarper/status/2115266851139952684)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 - [X: AIWarper の投稿](https://x.com/AIWarper/status/2115146549588316165)
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 - [X: AIWarper の投稿](https://x.com/AIWarper/status/2114736282991833303)
