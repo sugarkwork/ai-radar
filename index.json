@@ -1,5 +1,5 @@
 {
-  "count": 970,
+  "count": 971,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -11870,6 +11870,38 @@
       "last_release_at": "",
       "path": "entries/eval/goochbeater-spiritual-spell-red-teaming.md",
       "summary": "モデル別のレッドチーミング資料やシステムプロンプトと称する文書を集めたリポジトリ。"
+    },
+    {
+      "name": "Jailbreaking Black Box Large Language Models in Twenty Queries (PAIR)",
+      "genre": "eval",
+      "url": "https://github.com/patrickrchao/JailbreakingLLMs",
+      "flags": [
+        "malicious",
+        "unverified"
+      ],
+      "risk_notes": "READMEは、攻撃者LLMが対象LLMへ反復問い合わせして安全ガードレールを回避するプロンプトを生成すると説明し、例としてコンピューターへの侵入方法を要求する目標を掲載しています。安全性評価の研究用途として登録しますが、悪用可能な内容です。 APIキーとWandBアカウントが必要です。READMEに記載されたモデル選択肢や実行手順が現在も利用可能かは確認していません。",
+      "repo": "patrickrchao/JailbreakingLLMs",
+      "stars": 817,
+      "forks": 128,
+      "open_issues": 13,
+      "size_kb": 41,
+      "language": "Python",
+      "created": "2023-10-13",
+      "updated": "2025-07-02",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 0,
+      "commits_90d": 0,
+      "commit_cadence": "stale",
+      "type": "repo",
+      "added": "2026-11-13",
+      "first_seen": "2026-11-13",
+      "sources": [
+        "https://x.com/mingzi206/status/2118628554883883348"
+      ],
+      "fetched_at": "2026-11-13T00:12:43.073340+00:00",
+      "path": "entries/eval/patrickrchao-jailbreakingllms.md",
+      "summary": "PAIR（Prompt Automatic Iterative Refinement）で、攻撃者LLMが対象LLMへのブラックボックス問い合わせを反復し、候補の脱獄プロンプトを生成・改良します。READMEは、GPT-3.5/4、Vicuna、GeminiPro-2などでの実験結果として、少ない問い合わせ回数での成功や"
     },
     {
       "repo": "smkrv/jev-calibrate",
