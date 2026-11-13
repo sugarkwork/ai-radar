@@ -19,6 +19,11 @@
   - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: suwa_sh の投稿](https://x.com/suwa_sh/status/2121165169686401179)
   - 対象を裏付ける公開一次資料を確認できませんでした。
+- [X: superfang119 の投稿](https://x.com/superfang119/status/2118656506388451652)
+  - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://x.com/superfang119/status/2118656506388451652>。
+- [X: superfang119 の投稿](https://x.com/superfang119/status/2118656143035875761)
+  - 対象を裏付ける公開一次資料を確認できませんでした。
+  - 公開に必須の根拠がそろっていません。
 - [X: superfang119 の投稿](https://x.com/superfang119/status/2118653519809110378)
   - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://x.com/superfang119/status/2118653519809110378>。
 - [X: superfang119 の投稿](https://x.com/superfang119/status/2118649976977010897)
@@ -75,6 +80,8 @@
 - [X: mingzi206 の投稿](https://x.com/mingzi206/status/2118545997798453679)
   - 一次資料と候補の説明に、解消できない相違があります。 照合済み参照先: <https://x.com/mingzi206/status/2118545997798453679>。
   - 公開に必須の根拠がそろっていません。
+- [X: memuringo7544 の投稿](https://x.com/memuringo7544/status/2118657208011620835)
+  - 候補の対象が複数あり、一意に特定できませんでした。
 - [X: luaginga777 の投稿](https://x.com/luaginga777/status/2119042246637187413)
   - 下書きが公開用の検証基準を満たしていません。
 - [X: lemomo_ai の投稿](https://x.com/lemomo_ai/status/2118551060596092928)
@@ -113,6 +120,8 @@
 - [X: cutetoxicguy の投稿](https://x.com/cutetoxicguy/status/2121037830960922877)
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
   - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://huggingface.co/VoxDance-Lab/VoxMel-0.6B>。
+- [X: cookie_sns の投稿](https://x.com/cookie_sns/status/2118795557585994194)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 - [X: chasen_liao の投稿](https://x.com/chasen_liao/status/2118640065714729150)
   - 公開に必須の根拠がそろっていません。
 - [X: bkdgiffug の投稿](https://x.com/bkdgiffug/status/2118653116606198159)
@@ -124,6 +133,8 @@
   - 公開に必須の根拠がそろっていません。
 - [X: aiaicreate の投稿](https://x.com/aiaicreate/status/2118707200474677388)
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+- [X: ai_hakase_ の投稿](https://x.com/ai_hakase_/status/2118660415010046456)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 - [X: ai_hakase_ の投稿](https://x.com/ai_hakase_/status/2118646329832333474)
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 - [X: ai_hakase_ の投稿](https://x.com/ai_hakase_/status/2118646328204939730)
@@ -261,6 +272,8 @@
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
 - [X: HigurashiAI の投稿](https://x.com/HigurashiAI/status/2121043937762889832)
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+- [X: DentalAkimoto の投稿](https://x.com/DentalAkimoto/status/2118658046570467501)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 - [X: DYoung_AI の投稿](https://x.com/DYoung_AI/status/2121053660192845937)
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
   - 公開に必須の根拠がそろっていません。
