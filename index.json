@@ -1,5 +1,5 @@
 {
-  "count": 977,
+  "count": 978,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -7308,6 +7308,25 @@
       ],
       "fetched_at": "2026-11-10T05:45:27Z",
       "path": "articles/2026-11-05-openai-gpt-6-cyber.md"
+    },
+    {
+      "name": "GPTでアバターを複数の作品風スタイルに展開する",
+      "genre": "article",
+      "url": "https://x.com/AIWarper/status/2115266851139952684",
+      "author": "AIWarper",
+      "published": "2026-10-28",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "投稿者の実践メモです。効果・原因・再現条件は独立した資料では未確認です。",
+      "type": "article",
+      "added": "2026-11-13",
+      "first_seen": "2026-11-13",
+      "sources": [
+        "https://x.com/AIWarper/status/2115266851139952684"
+      ],
+      "fetched_at": "2026-11-13T04:00:11+00:00",
+      "path": "articles/2026-10-28-aiwarper-gpt.md"
     },
     {
       "name": "Garry Tanの個人向けAIエージェント運用事例",

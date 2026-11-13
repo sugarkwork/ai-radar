@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 977 件 — リポジトリ 644, リンク集 117, 記事 149, モデル 53, プロンプト 14 / ⚑ 要確認 762 件
+収録 978 件 — リポジトリ 644, リンク集 117, 記事 150, モデル 53, プロンプト 14 / ⚑ 要確認 763 件
 
 ## リポジトリ（644）
 
@@ -1205,9 +1205,9 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（149）
+## 記事（150）
 
-### 記事（89）
+### 記事（90）
 
 - **[$0のデジタル参謀長で月$80,000の契約候補を作ったというX投稿（動画付き）](articles/2026-10-22-bober_smart-0-80-000-x.md)** ⚑  @Bober_smart
 - **[1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md)** ⚑  @mukadeshinigami（mukade死神）
@@ -1241,6 +1241,7 @@
 - **[FlowTranslator: Training-Free In-Image Machine Translation with Flow-Based Editing](articles/2026-11-03-author-flowtranslator-training-free-in-image-machine-translation-with-flow-based-editin.md)** ⚑
 - **[GDG OAUのAgent Skillsワークショップ報告](articles/2026-11-07-gdg-oau-gdg-oau-agent-skills.md)** ⚑  GDG OAU
 - **[GPT‑6 Cyber の公式発表](articles/2026-11-05-openai-gpt-6-cyber.md)** ⚑  OpenAI
+- **[GPTでアバターを複数の作品風スタイルに展開する](articles/2026-10-28-aiwarper-gpt.md)** ⚑  AIWarper
 - **[Garry Tanの個人向けAIエージェント運用事例](articles/2026-11-02-author-garry-tan-ai.md)** ⚑
 - **[Genesis Agent Skillsの公開発表](articles/2026-10-15-u.s.-department-of-energy-office-of-science-genesis-agent-skills.md)** ⚑  U.S. Department of Energy Office of Science
 - **[GitHub Copilot週次更新（11月2日の週）](articles/2026-11-06-github-github-copilot-11-2.md)** ⚑  GitHub
@@ -1579,6 +1580,7 @@
 - [FlowTranslator: Training-Free In-Image Machine Translation with Flow-Based Editing](articles/2026-11-03-author-flowtranslator-training-free-in-image-machine-translation-with-flow-based-editin.md) — unverified / 論文の評価値は記載されたEasyOCR read-back protocolおよびScenePairの条件に基づく。別条件での性能は未確認。投稿文の説明は論文要約と一致するが、一般の写真で周囲が常に完全保持されることは確認していない。
 - [GDG OAUのAgent Skillsワークショップ報告](articles/2026-11-07-gdg-oau-gdg-oau-agent-skills.md) — unverified / 生成工程や効率向上を裏付ける比較計測は未確認。
 - [GPT‑6 Cyber の公式発表](articles/2026-11-05-openai-gpt-6-cyber.md) — unverified / Firefox と Linux の件数および評価スコアは OpenAI の報告値。個別事例の再現、修正の網羅性、実運用環境での評価結果の一般化は未検証。
+- [GPTでアバターを複数の作品風スタイルに展開する](articles/2026-10-28-aiwarper-gpt.md) — unverified / 投稿者の実践メモです。効果・原因・再現条件は独立した資料では未確認です。
 - [Garry Tanの個人向けAIエージェント運用事例](articles/2026-11-02-author-garry-tan-ai.md) — unverified / 支出は本人の概算。番組公式ページで該当回の掲載を確認したが、発言はTechCrunchの引用に基づく。使用モデル、データ連携時の権限設定、データ保持条件、作業効果の実測値は未確認。
 - [Genesis Agent Skillsの公開発表](articles/2026-10-15-u.s.-department-of-energy-office-of-science-genesis-agent-skills.md) — unverified / 元のX投稿と短縮URLの転送先は未確認。機能は発表元の説明に基づき、対応する実行環境、導入手順、性能や再現性への効果は未検証。
 - [GitHub Copilot週次更新（11月2日の週）](articles/2026-11-06-github-github-copilot-11-2.md) — unverified / Xcode統合はパブリックプレビュー。JetBrains Airのクラウド実行は組織設定に依存。
