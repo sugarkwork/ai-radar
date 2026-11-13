@@ -1,5 +1,5 @@
 {
-  "count": 992,
+  "count": 993,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -11501,6 +11501,37 @@
       "fetched_at": "2026-11-12T23:10:14.534880+00:00",
       "path": "entries/coding-agent/kylebakerio-opencode-compaction-anchor.md",
       "summary": "OpenCodeの要約後、元の依頼を原文どおり次のメッセージに再挿入するreinsert、要約に元の依頼項目ごとのチェックリストを含めるよう促すchecklistを提供する。任意で会話履歴を書き出して要約に保存先を示すpointer、自動の確認・停止案内を「タスクを続けて」と置き換えるno-stop-and-askもあ"
+    },
+    {
+      "name": "Cracked Engineer",
+      "genre": "coding-agent",
+      "url": "https://github.com/codejunkie99/cracked-engineer",
+      "repo": "codejunkie99/cracked-engineer",
+      "stars": 2,
+      "forks": 0,
+      "open_issues": 0,
+      "size_kb": 66,
+      "language": "JavaScript",
+      "created": "2026-11-06",
+      "updated": "2026-11-06",
+      "archived": false,
+      "license": "unknown",
+      "commits_30d": 1,
+      "commits_90d": 1,
+      "commit_cadence": "monthly",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-13",
+      "first_seen": "2026-11-13",
+      "sources": [
+        "https://x.com/Av1dlive/status/2118658725796032803"
+      ],
+      "fetched_at": "2026-11-13T10:09:59.329512+00:00",
+      "path": "entries/coding-agent/codejunkie99-cracked-engineer.md",
+      "summary": "設計上の決定を SYSTEM.md のルールにし、各ルールについて故障を仕込んだテストを作る Claude Code skill。READMEには intake、audit、change、incident の4モードが記載されています。出典: https://github.com/codejunkie99/cracke"
     },
     {
       "repo": "GDG-OAU/agent-skills-gdg",
