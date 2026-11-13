@@ -8,6 +8,8 @@
 
 - [X: verbex_ai の投稿](https://x.com/verbex_ai/status/2121049583803662549)
   - 公開に必須の根拠がそろっていません。
+- [X: twavebyku の投稿](https://x.com/twavebyku/status/2118792399904551115)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 - [X: toyxyz3 の投稿](https://x.com/toyxyz3/status/2118644250510512517)
   - 下書きが公開用の検証基準を満たしていません。 照合済み参照先: <https://huggingface.co/Lyricccco/Qwen-Image-2.1-TailSteer>。
 - [X: tonbistudio の投稿](https://x.com/tonbistudio/status/2121026446030422464)
@@ -15,6 +17,13 @@
   - 公開に必須の根拠がそろっていません。
 - [X: sxzBST の投稿](https://x.com/sxzBST/status/2118585154407178442)
   - 対象を裏付ける公開一次資料を確認できませんでした。
+- [X: suwa_sh の投稿](https://x.com/suwa_sh/status/2121165169686401179)
+  - 対象を裏付ける公開一次資料を確認できませんでした。
+- [X: superfang119 の投稿](https://x.com/superfang119/status/2118653519809110378)
+  - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://x.com/superfang119/status/2118653519809110378>。
+- [X: superfang119 の投稿](https://x.com/superfang119/status/2118649976977010897)
+  - 対象を裏付ける公開一次資料を確認できませんでした。
+  - 公開に必須の根拠がそろっていません。
 - [X: superfang119 の投稿](https://x.com/superfang119/status/2118572735349874822)
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
   - 対象を裏付ける公開一次資料を確認できませんでした。
@@ -53,8 +62,14 @@
   - 候補の対象が複数あり、一意に特定できませんでした。
 - [X: paperswithcodee の投稿](https://x.com/paperswithcodee/status/2121060762336498005)
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+- [X: naka_1717 の投稿](https://x.com/naka_1717/status/2118647313166180716)
+  - 候補の対象が複数あり、一意に特定できませんでした。
+- [X: naka_1717 の投稿](https://x.com/naka_1717/status/2118647310582161585)
+  - 候補の対象が複数あり、一意に特定できませんでした。
 - [X: naka_1717 の投稿](https://x.com/naka_1717/status/2118582879840334223)
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+- [X: mingzi206 の投稿](https://x.com/mingzi206/status/2118655841024753692)
+  - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic>。
 - [X: mingzi206 の投稿](https://x.com/mingzi206/status/2118628554883883348)
   - 候補の対象が複数あり、一意に特定できませんでした。
 - [X: mingzi206 の投稿](https://x.com/mingzi206/status/2118545997798453679)
@@ -100,6 +115,8 @@
   - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://huggingface.co/VoxDance-Lab/VoxMel-0.6B>。
 - [X: chasen_liao の投稿](https://x.com/chasen_liao/status/2118640065714729150)
   - 公開に必須の根拠がそろっていません。
+- [X: bkdgiffug の投稿](https://x.com/bkdgiffug/status/2118653116606198159)
+  - 下書きが公開用の検証基準を満たしていません。 照合済み参照先: <https://github.com/NB-Corp/gpt-with-taste>。
 - [X: bkdgiffug の投稿](https://x.com/bkdgiffug/status/2118637513862783231)
   - 掲載先URLの正常なHTTP応答を確認できませんでした。
   - 公開に必須の根拠がそろっていません。
