@@ -6,6 +6,10 @@
 
 ## 2026-11-13（日本時間）
 
+- [X: verbex_ai の投稿](https://x.com/verbex_ai/status/2121049583803662549)
+  - 公開に必須の根拠がそろっていません。
+- [X: toyxyz3 の投稿](https://x.com/toyxyz3/status/2118644250510512517)
+  - 下書きが公開用の検証基準を満たしていません。 照合済み参照先: <https://huggingface.co/Lyricccco/Qwen-Image-2.1-TailSteer>。
 - [X: tonbistudio の投稿](https://x.com/tonbistudio/status/2121026446030422464)
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
   - 公開に必須の根拠がそろっていません。
@@ -23,6 +27,10 @@
 - [X: superfang119 の投稿](https://x.com/superfang119/status/2118557622374928579)
   - 候補の対象が複数あり、一意に特定できませんでした。
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+- [X: squishlab_ai の投稿](https://x.com/squishlab_ai/status/2118754588496916528)
+  - 候補の対象が複数あり、一意に特定できませんでした。
+  - 対象を裏付ける公開一次資料を確認できませんでした。
+  - 公開に必須の根拠がそろっていません。
 - [X: sep_is_heim の投稿](https://x.com/sep_is_heim/status/2118570584200413222)
   - 掲載先URLの正常なHTTP応答を確認できませんでした。
 - [X: rvaniaaaa の投稿](https://x.com/rvaniaaaa/status/2120861156801647094)
@@ -36,6 +44,8 @@
   - 公開に必須の根拠がそろっていません。
 - [X: rock_me_mimora の投稿](https://x.com/rock_me_mimora/status/2118680965086355780)
   - 対象を裏付ける公開一次資料を確認できませんでした。
+- [X: rkmt の投稿](https://x.com/rkmt/status/2118642627981787613)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 - [X: realchendahuang の投稿](https://x.com/realchendahuang/status/2118545092986413146)
   - 対象を裏付ける公開一次資料を確認できませんでした。
   - 公開に必須の根拠がそろっていません。
@@ -68,17 +78,45 @@
 - [X: huksyn の投稿](https://x.com/huksyn/status/2118554175642698049)
   - 掲載先URLの正常なHTTP応答を確認できませんでした。
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+- [X: gippp69 の投稿](https://x.com/gippp69/status/2118647285789683877)
+  - 対象を裏付ける公開一次資料を確認できませんでした。
+  - 公開に必須の根拠がそろっていません。
+- [X: ganzuul の投稿](https://x.com/ganzuul/status/2118742608302452762)
+  - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: fabrizzioruiz_ の投稿](https://x.com/fabrizzioruiz_/status/2121027205656723958)
   - 候補の対象が複数あり、一意に特定できませんでした。
+- [X: daaihq の投稿](https://x.com/daaihq/status/2118646061296488647)
+  - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://x.com/daaihq/status/2118646061296488647>。
+- [X: daaihq の投稿](https://x.com/daaihq/status/2118646056217088020)
+  - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://x.com/daaihq/status/2118646056217088020>。
+  - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://x.com/daaihq/status/2118646056217088020>。
 - [X: daaihq の投稿](https://x.com/daaihq/status/2118572719700930838)
   - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://x.com/daaihq/status/2118572719700930838>。
 - [X: daaihq の投稿](https://x.com/daaihq/status/2118572714168668508)
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
   - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://x.com/daaihq/status/2118572714168668508>。
+- [X: cutetoxicguy の投稿](https://x.com/cutetoxicguy/status/2121037830960922877)
+  - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+  - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://huggingface.co/VoxDance-Lab/VoxMel-0.6B>。
+- [X: chasen_liao の投稿](https://x.com/chasen_liao/status/2118640065714729150)
+  - 公開に必須の根拠がそろっていません。
+- [X: bkdgiffug の投稿](https://x.com/bkdgiffug/status/2118637513862783231)
+  - 掲載先URLの正常なHTTP応答を確認できませんでした。
+  - 公開に必須の根拠がそろっていません。
 - [X: bkdgiffug の投稿](https://x.com/bkdgiffug/status/2118621912545022263)
   - 公開に必須の根拠がそろっていません。
 - [X: aiaicreate の投稿](https://x.com/aiaicreate/status/2118707200474677388)
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+- [X: ai_hakase_ の投稿](https://x.com/ai_hakase_/status/2118646329832333474)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+- [X: ai_hakase_ の投稿](https://x.com/ai_hakase_/status/2118646328204939730)
+  - 対象を裏付ける公開一次資料を確認できませんでした。
+- [X: ai_hakase_ の投稿](https://x.com/ai_hakase_/status/2118646075586126013)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+  - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+  - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://huggingface.co/mesmertech/mesmer-ai-detector-4b>。
+- [X: ai_hakase_ の投稿](https://x.com/ai_hakase_/status/2118646074160169051)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 - [X: ai_hakase_ の投稿](https://x.com/ai_hakase_/status/2118630308677374184)
   - 掲載先URLの正常なHTTP応答を確認できませんでした。
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
@@ -162,6 +200,11 @@
 - [X: The_Genesis_0 の投稿](https://x.com/The_Genesis_0/status/2118633101903442065)
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+- [X: Shyan0p の投稿](https://x.com/Shyan0p/status/2121051791454532020)
+  - 掲載先URLの正常なHTTP応答を確認できませんでした。
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+  - 対象を裏付ける公開一次資料を確認できませんでした。
+  - 公開に必須の根拠がそろっていません。
 - [X: RealMarvelX の投稿](https://x.com/RealMarvelX/status/2118624898998550683)
   - 公開に必須の根拠がそろっていません。
 - [X: RealMarvelX の投稿](https://x.com/RealMarvelX/status/2118624430880387390)
@@ -206,6 +249,17 @@
   - 公開に必須の根拠がそろっていません。
 - [X: AiAircle34052 の投稿](https://x.com/AiAircle34052/status/2118559500181635527)
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+- [X: AIWarper の投稿](https://x.com/AIWarper/status/2118423800429916381)
+  - 対象を裏付ける公開一次資料を確認できませんでした。
+- [X: AIWarper の投稿](https://x.com/AIWarper/status/2118055878129758435)
+  - 元画像を確認できず、画像内の内容は未検証です。
+  - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://x.com/AIWarper/status/2118055878129758435>。
+- [X: AIWarper の投稿](https://x.com/AIWarper/status/2118053944085860538)
+  - 下書きが公開用の検証基準を満たしていません。 照合済み参照先: <https://huggingface.co/Viggle/Viggle-Remake>。
+  - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+  - 公開に必須の根拠がそろっていません。
+- [X: AIWarper の投稿](https://x.com/AIWarper/status/2117447801944854723)
+  - 元画像を確認できず、画像内の内容は未検証です。
 - [X: AIWarper の投稿](https://x.com/AIWarper/status/2117439990322106494)
   - 候補の対象が複数あり、一意に特定できませんでした。
 - [X: AIWarper の投稿](https://x.com/AIWarper/status/2117438920950722642)
