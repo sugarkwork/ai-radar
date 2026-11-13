@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 988 件 — リポジトリ 651, リンク集 117, 記事 153, モデル 53, プロンプト 14 / ⚑ 要確認 772 件
+収録 989 件 — リポジトリ 652, リンク集 117, 記事 153, モデル 53, プロンプト 14 / ⚑ 要確認 773 件
 
-## リポジトリ（651）
+## リポジトリ（652）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### コーディングエージェント（97）
+### コーディングエージェント（98）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Product Engineering](entries/coding-agent/phuryn-product-engineering.md) ⚑ | 455 | 59 | 毎日 | 100+ | 2026-11-08 | 2026-11-10 | 2026-11-11 | MIT |
 | [SeeCut](entries/coding-agent/yeje-cpu-seecut.md) ⚑ | 453 | 84 | 月次 | 2 | 2026-10-30 | 2026-11-12 | 2026-11-12 | unknown |
 | [OnlyShot](entries/coding-agent/a-cat-with-carrots-onlyshot.md) ⚑ | 408 | 43 | 週次 | 11 | 2026-11-12 | 2026-11-12 | 2026-11-12 | MIT |
+| [Typefree](entries/coding-agent/kdsz001-typefree.md) ⚑ | 398 | 70 | 週次 | 4 | 2026-10-28 | 2026-11-13 | 2026-11-13 | unknown |
 | [Video Studio Skill](entries/coding-agent/aaitor-skill-video-studio.md) ⚑ | 390 | 13 | 週次 | 8 | 2026-11-04 | 2026-11-10 | 2026-11-11 | MIT |
 | [Agent HUD](entries/coding-agent/jazzenchen-agent-hud-open.md) ⚑ | 326 | 54 | 毎日 | 100+ | 2026-11-10 | 2026-11-11 | 2026-11-11 | Apache-2.0 |
 | [xAI Plugin Marketplace](entries/coding-agent/xai-org-plugin-marketplace.md) ⚑ | 325 | 1,222 | 毎日 | 31 | 2026-11-09 | 2026-11-10 | 2026-11-10 | unknown |
@@ -1716,6 +1717,7 @@
 - [Product Engineering](entries/coding-agent/phuryn-product-engineering.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [SeeCut](entries/coding-agent/yeje-cpu-seecut.md) — unverified / README says the workflow has only been tested on macOS. The author reports Claude Code tested and other skill-capable agents theoretically compatible; those other agents are not independently verified here. An Antigravity CLI account and sufficient usage quota are required for video review and self-iteration. GitHub APIでライセンスを確認できていません。
 - [OnlyShot](entries/coding-agent/a-cat-with-carrots-onlyshot.md) — unverified / README記載の积分・費用は作者による2026-05時点の実測報告であり、独立実測ではない。
+- [Typefree](entries/coding-agent/kdsz001-typefree.md) — unverified / GitHub APIでライセンスを確認できていません。
 - [Video Studio Skill](entries/coding-agent/aaitor-skill-video-studio.md) — unverified / 全工程の実行にはローカルのツール環境が必要。README記載の本番要件はNode.js 22以上、FFmpeg/ffprobe、Chromiumおよび補助ツール固有のPython依存関係。ナレーションやアバターには追加サービスまたはGPU環境が必要。効果や費用は確認できない。
 - [Agent HUD](entries/coding-agent/jazzenchen-agent-hud-open.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [xAI Plugin Marketplace](entries/coding-agent/xai-org-plugin-marketplace.md) — unverified / ['最新リリースのタグと公開日は未確認。プラグインの導入・実行、個別機能の有効性や安全性、料金、ライセンスおよび利用条件は未検証。README は公開 raw URL で確認した。'] GitHub APIでライセンスを確認できていません。
