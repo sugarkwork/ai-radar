@@ -1,5 +1,5 @@
 {
-  "count": 981,
+  "count": 982,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -19681,6 +19681,37 @@
       "fetched_at": "2026-11-10T11:50:52+00:00",
       "path": "entries/other/karpathy-minbpe.md",
       "summary": "手持ちのテキストから語彙とマージ規則を学習し、文字列をトークンID列へ変換して復号できる。BasicTokenizerとRegexTokenizerで事前分割の影響を比較できる。"
+    },
+    {
+      "name": "微信视频号下载器",
+      "genre": "other",
+      "url": "https://github.com/ltaoo/wx_channels_download",
+      "repo": "ltaoo/wx_channels_download",
+      "license": "unknown",
+      "stars": 10534,
+      "language": "Go",
+      "created": "2024-09-30",
+      "updated": "2026-11-12",
+      "forks": 1748,
+      "open_issues": 12,
+      "commits_30d": 5,
+      "commit_cadence": "weekly",
+      "commits_90d": 30,
+      "size_kb": 28748,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "README記載の利用には管理者権限での実行と証明書のインストールが必要です。ライセンスはAPIでunknownと確認されています。 GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-13",
+      "first_seen": "2026-11-13",
+      "sources": [
+        "https://x.com/bkdgiffug/status/2118637513862783231"
+      ],
+      "fetched_at": "2026-11-13T06:23:43.862958+00:00",
+      "path": "entries/other/ltaoo-wx_channels_download.md",
+      "summary": "READMEによると、微信PC版で再生中の视频号動画をダウンロードできます。通常のダウンロードボタンは現在再生中の品質を選び、ドロップダウンから別の品質も選べます。"
     },
     {
       "repo": "open-slide/open-slide",
