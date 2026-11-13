@@ -1,5 +1,5 @@
 {
-  "count": 994,
+  "count": 995,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -7737,6 +7737,24 @@
       ],
       "fetched_at": "2026-11-10T13:19:00+09:00",
       "path": "articles/2026-10-26-jarvis11x-muse-seedance.md"
+    },
+    {
+      "name": "Nemotron 3.5 Bolt E4B on Jetson Orin Nano Super at 27.7 tok/s!",
+      "genre": "article",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoogj8/nemotron_35_bolt_e4b_on_jetson_orin_nano_super_at/",
+      "published": "2026-11-05",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "27.7 tok/sと比較対象の15 tok/sは投稿者の報告であり、この資料だけでは測定条件や独立検証を確認できない。",
+      "type": "article",
+      "added": "2026-11-13",
+      "first_seen": "2026-11-13",
+      "sources": [
+        "https://x.com/ai_hakase_/status/2118660445573697813"
+      ],
+      "fetched_at": "2026-11-13T11:15:04.196952+00:00",
+      "path": "articles/2026-11-05-author-nemotron-3.5-bolt-e4b-on-jetson-orin-nano-super-at-27.7-tok-s.md"
     },
     {
       "name": "OpenUIで表データの取得をUI生成と分ける",
