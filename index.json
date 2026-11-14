@@ -1,5 +1,5 @@
 {
-  "count": 1080,
+  "count": 1081,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -22193,6 +22193,37 @@
       "fetched_at": "2026-11-14T07:16:28.594729+00:00",
       "path": "entries/other/thednp-kute.js.md",
       "summary": "Web向けのJavaScriptアニメーションエンジン。READMEでは、CSSプロパティ、HTML属性、SVGのtransform・stroke描画・path morphing、テキストや数値のアニメーションなどのコンポーネントを説明している。全18コンポーネントのうち、すべてが標準配布パッケージに含まれるわけではな"
+    },
+    {
+      "name": "Oh My PPT",
+      "genre": "other",
+      "url": "https://github.com/arcsin1/oh-my-ppt",
+      "repo": "arcsin1/oh-my-ppt",
+      "license": "Apache-2.0",
+      "stars": 2525,
+      "language": "TypeScript",
+      "created": "2026-04-24",
+      "updated": "2026-11-04",
+      "forks": 247,
+      "open_issues": 11,
+      "commits_30d": 12,
+      "commit_cadence": "weekly",
+      "commits_90d": 29,
+      "size_kb": 81154,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "README describes PPTX import and export fidelity as close to 100% in common cases, while noting that complex shapes, charts, tables, animations, fonts, and assets can affect results and remain under improvement.",
+      "type": "repo",
+      "added": "2026-11-14",
+      "first_seen": "2026-11-14",
+      "sources": [
+        "https://x.com/bkdgiffug/status/2118826257442042003"
+      ],
+      "fetched_at": "2026-11-14T12:09:55.564441+00:00",
+      "path": "entries/other/arcsin1-oh-my-ppt.md",
+      "summary": "READMEによると、Oh My PPTはAIでHTMLプレゼンテーションを作成し、アプリ内で編集・演示・エクスポートするデスクトップツールです。テーマや文書からのスライド生成、対話式の修正、画像生成、アニメーション、PDF・PNG・MP4・編集可能PPTXへの出力、PPTXの取り込みに対応すると説明されています。出典"
     },
     {
       "name": "sheeridVerify",
