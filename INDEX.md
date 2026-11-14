@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1066 件 — リポジトリ 715, リンク集 119, 記事 165, モデル 53, プロンプト 14 / ⚑ 要確認 842 件
+収録 1067 件 — リポジトリ 716, リンク集 119, 記事 165, モデル 53, プロンプト 14 / ⚑ 要確認 843 件
 
-## リポジトリ（715）
+## リポジトリ（716）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（125）
+### その他（126）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -70,6 +70,7 @@
 | [OBLITERATUS](entries/other/elder-plinius-obliteratus.md) | 9,407 | 1,706 | 毎日 | 100+ | 2026-11-05 | 2026-11-09 | 2026-11-10 | AGPL-3.0 |
 | [Webstudio](entries/other/webstudio-is-webstudio.md) ⚑ | 9,170 | 1,639 | 毎日 | 57 | 2026-11-13 | 2026-11-14 | 2026-11-14 | AGPL-3.0 |
 | [librosa](entries/other/librosa-librosa.md) ⚑ | 8,830 | 1,105 | 毎日 | 59 | 2026-11-09 | 2026-11-10 | 2026-11-10 | ISC |
+| [OpenToonz](entries/other/opentoonz-opentoonz.md) ⚑ | 8,215 | 943 | 毎日 | 55 | 2026-11-12 | 2026-11-14 | 2026-11-14 | unknown |
 | [StatiCrypt](entries/other/robinmoisson-staticrypt.md) ⚑ | 8,074 | 502 | 停滞 | 0 | 2026-07-06 | 2026-11-14 | 2026-11-14 | MIT |
 | [HomeBox](entries/other/sysadminsmedia-homebox.md) ⚑ | 7,842 | 620 | 毎日 | 22 | 2026-11-07 | 2026-11-12 | 2026-11-12 | AGPL-3.0 |
 | [APScheduler](entries/other/agronholm-apscheduler.md) | 7,698 | 822 | 週次 | 4 | 2026-10-26 | 2026-11-09 | 2026-11-10 | MIT |
@@ -2075,6 +2076,7 @@
 - [open-slide](entries/other/open-slide-open-slide.md) — unverified / 公開リリース一覧では @open-slide/core@2.3.2 が Latest と表示された一方、取得した /releases/latest はキャッシュから @open-slide/core@2.0.1 に転送されたため、最新タグと公開日時は未確定。CLIやエージェントは実行しておらず、制作時間の短縮、PPTXの再現性・編集互換性、エージェント側の契約・料金は未検証。
 - [Webstudio](entries/other/webstudio-is-webstudio.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [librosa](entries/other/librosa-librosa.md) — unverified / GitHub の latest は 1.0.0 に転送されたが、GitHub 上の公開日は未確認。PyPI の公開日は 2026-08-11。手順は公式資料に基づき、独立した実行・精度測定は行っていない。
+- [OpenToonz](entries/other/opentoonz-opentoonz.md) — unverified / The README directs users to official downloads and says third-party components and MyPaint brushes have separate licensing terms. API reports the repository license as unknown; confirm applicable license terms for specific files before reuse. GitHub APIでライセンスを確認できていません。
 - [StatiCrypt](entries/other/robinmoisson-staticrypt.md) — unverified / README says shareable links contain the hashed password and can auto-decrypt the file. Treat such links as credentials.
 - [HomeBox](entries/other/sysadminsmedia-homebox.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [flubber](entries/other/veltman-flubber.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
