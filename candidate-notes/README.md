@@ -20,6 +20,8 @@
   - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://x.com/arafune/status/2118582485412131107>。
 - [X: mnishi41 の投稿](https://x.com/mnishi41/status/2118852779020312988)
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+- [X: ganfanren_ai の投稿](https://x.com/ganfanren_ai/status/2118875956089856189)
+  - 元投稿と配布先が同一対象であることを裏付けられませんでした。
 - [X: bkdgiffug の投稿](https://x.com/bkdgiffug/status/2118865264070848901)
   - 一次資料と候補の説明に、解消できない相違があります。 照合済み参照先: <https://github.com/KevinLiss/ApeAdmin>。
 - [X: atch1993 の投稿](https://x.com/atch1993/status/2118925928604803357)
@@ -36,6 +38,12 @@
   - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://x.com/firesidealpha/status/2118778601726501016>。
 - [X: Awed_Urshy の投稿](https://x.com/Awed_Urshy/status/2118866796250038660)
   - 候補の対象が複数あり、一意に特定できませんでした。
+- [X: AIExplorerTim の投稿](https://x.com/AIExplorerTim/status/2118878118903734465)
+  - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://x.com/AIExplorerTim/status/2118878118903734465>。
+- [X: AIExplorerTim の投稿](https://x.com/AIExplorerTim/status/2118878106668916862)
+  - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://x.com/AIExplorerTim/status/2118878106668916862>。
+- [X: AIExplorerTim の投稿](https://x.com/AIExplorerTim/status/2118878103460258100)
+  - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://x.com/AIExplorerTim/status/2118878103460258100>。
 ## 2026-11-14（日本時間）
 
 - [X: yang_xin19 の投稿](https://x.com/yang_xin19/status/2118909872767176872)
