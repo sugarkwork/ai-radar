@@ -8,6 +8,10 @@
 
 - [X: tori29umai の投稿](https://x.com/tori29umai/status/2118716616267743545)
   - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://github.com/tori29umai0123/ComfyUI-SAM3DBody-openpose-editor>。
+- [X: thegreatest_sv の投稿](https://x.com/thegreatest_sv/status/2118770137646162218)
+  - 候補の対象が複数あり、一意に特定できませんでした。
+  - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+  - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: thegreatest_sv の投稿](https://x.com/thegreatest_sv/status/2118724335905148990)
   - 公開に必須の根拠がそろっていません。
   - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://x.com/thegreatest_sv/status/2118724335905148990>。
@@ -117,8 +121,12 @@
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
 - [X: YuYoshimuta の投稿](https://x.com/YuYoshimuta/status/2118706791458722089)
   - 候補の対象が複数あり、一意に特定できませんでした。
+- [X: TheArthiAI の投稿](https://x.com/TheArthiAI/status/2121435010939142280)
+  - 元投稿と配布先が同一対象であることを裏付けられませんでした。
 - [X: SeiraHisada の投稿](https://x.com/SeiraHisada/status/2118853035451707634)
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+- [X: RealMarvelX の投稿](https://x.com/RealMarvelX/status/2118773613876634056)
+  - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: RealMarvelX の投稿](https://x.com/RealMarvelX/status/2118744379703579045)
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 - [X: RealMarvelX の投稿](https://x.com/RealMarvelX/status/2118697249676923026)
