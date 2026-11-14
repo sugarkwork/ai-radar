@@ -1,5 +1,5 @@
 {
-  "count": 1019,
+  "count": 1020,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -2010,6 +2010,37 @@
       "last_release_at": "",
       "path": "entries/3d-motion/edrethardo-faltwerk.md",
       "summary": ".falt ビットストリームの Python リファレンス実装（encoder / decoder、rANS・曲線・コードブック・予測）を同梱。python -m codec.measure で、同じシンボルに対するエンコード・復号・サイズと所要時間の測定ができる。"
+    },
+    {
+      "name": "ComfyUI-SAM3DBody-openpose-editor",
+      "genre": "3d-motion",
+      "url": "https://github.com/tori29umai0123/ComfyUI-SAM3DBody-openpose-editor",
+      "repo": "tori29umai0123/ComfyUI-SAM3DBody-openpose-editor",
+      "license": "GPL-3.0",
+      "stars": 30,
+      "language": "Python",
+      "created": "2026-11-06",
+      "updated": "2026-11-07",
+      "forks": 5,
+      "open_issues": 0,
+      "commits_30d": 16,
+      "commit_cadence": "weekly",
+      "commits_90d": 16,
+      "size_kb": 51596,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEでは必要モデルを初回使用時に自動ダウンロードすると説明しているが、モデルの配布条件・料金はREADMEから確認できない。",
+      "type": "repo",
+      "added": "2026-11-14",
+      "first_seen": "2026-11-14",
+      "sources": [
+        "https://x.com/tori29umai/status/2118716616267743545"
+      ],
+      "fetched_at": "2026-11-13T20:15:17.228402+00:00",
+      "path": "entries/3d-motion/tori29umai0123-comfyui-sam3dbody-openpose-editor.md",
+      "summary": "ComfyUIのAnalyzeノードで画像の人物姿勢を推定し、OpenPose互換のpose_keypointとbody_shape_keypointを出力する。動画フレームの解析・追跡と、参照画像に基づく人物ごとの体型比率調整にも対応するとREADMEに記載されている。RenderノードでOpenPose画像を生成で"
     },
     {
       "type": "repo",

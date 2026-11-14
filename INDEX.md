@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1019 件 — リポジトリ 677, リンク集 118, 記事 157, モデル 53, プロンプト 14 / ⚑ 要確認 802 件
+収録 1020 件 — リポジトリ 678, リンク集 118, 記事 157, モデル 53, プロンプト 14 / ⚑ 要確認 803 件
 
-## リポジトリ（677）
+## リポジトリ（678）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -430,7 +430,7 @@
 | [utillayer/youtube-agent-skill](entries/video-gen/utillayer-youtube-agent-skill.md) ⚑ | 14 | 2 | 週次 | 16 | 2026-10-29 | 2026-11-09 | 2026-11-10 | MIT |
 | [BennyDaBall930/comfyui_hyperflow_int8_nodes](entries/video-gen/bennydaball930-comfyui_hyperflow_int8_nodes.md) ⚑ | 3 | 0 | 週次 | 10 | 2026-11-09 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
 
-### 3D・モーション（66）
+### 3D・モーション（67）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -493,6 +493,7 @@
 | [ComfyUI-InstantHMR — 写真・動画・ライブ人物モーション推定](entries/3d-motion/jtydhr88-comfyui-instanthmr.md) ⚑ | 52 | 10 | 週次 | 19 | 2026-11-08 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
 | [lovisdotio/video-to-texture](entries/3d-motion/lovisdotio-video-to-texture.md) ⚑ | 45 | 2 | 週次 | 6 | 2026-10-27 | 2026-11-09 | 2026-11-10 | MIT |
 | [Faltwerk](entries/3d-motion/edrethardo-faltwerk.md) | 36 | 3 | 月次 | 3 | 2026-11-04 | 2026-11-09 | 2026-11-10 | MIT |
+| [ComfyUI-SAM3DBody-openpose-editor](entries/3d-motion/tori29umai0123-comfyui-sam3dbody-openpose-editor.md) ⚑ | 30 | 5 | 週次 | 16 | 2026-11-07 | 2026-11-13 | 2026-11-14 | GPL-3.0 |
 | [GLB Viewer](entries/3d-motion/cullenwebber-glb-viewer.md) ⚑ | 18 | 2 | 毎日 | 22 | 2026-11-04 | 2026-11-09 | 2026-11-10 | none |
 | [Three.js AI Skills](entries/3d-motion/alton47-threejs-skills.md) ⚑ | 18 | 6 | 停滞 | 0 | 2026-03-25 | 2026-11-10 | 2026-11-10 | MIT |
 | [VRMkimodo](entries/3d-motion/camenduru-vrmkimodo.md) ⚑ | 17 | 1 | 毎日 | 21 | 2026-11-05 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
@@ -1493,6 +1494,7 @@
 - [Lida-V/3DCharaMakeSkills-Lida](entries/3d-motion/lida-v-3dcharamakeskills-lida.md) — unverified / Lida Attribution License1.0は商用・改変・組込み・再配布を許すが再配布時は出典保持。制作物へのクレジットは不要という原チェック記録。外部API費用は別。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [ComfyUI-InstantHMR — 写真・動画・ライブ人物モーション推定](entries/3d-motion/jtydhr88-comfyui-instanthmr.md) — unverified / コードはApache-2.0だが重みはSAM License。nano/tiny/small/mediumは追加で非商用限定。商用用途はmedium_commercialを選びSAM条件を確認する。投稿の約2.5ms/人・40fps超は作者の報告で測定条件やエンドツーエンド性能を当方は再現していない。 当方でインストール・動作・性能の実行検証はしていない。
 - [lovisdotio/video-to-texture](entries/3d-motion/lovisdotio-video-to-texture.md) — unverified / 4096²・120フレームを55.8秒等は作者申告。SfM不要でも元メッシュ・既知カメラ・有料生成が必要で、ゼロ費用ではない。 当方でインストール・推論・生成・ベンチ再現はしていない。
+- [ComfyUI-SAM3DBody-openpose-editor](entries/3d-motion/tori29umai0123-comfyui-sam3dbody-openpose-editor.md) — unverified / READMEでは必要モデルを初回使用時に自動ダウンロードすると説明しているが、モデルの配布条件・料金はREADMEから確認できない。
 - [GLB Viewer](entries/3d-motion/cullenwebber-glb-viewer.md) — unverified / LICENSEファイルが404で、明示ライセンスなし（all rights reserved）。ソースは公開されているが、再配布・商用利用の許諾は不明。配布はmacOSのDMGのみ（arm64/x64、Apple公証なし→初回はOpen Anywayかxattr -cr）。Windows/Linuxのビルド手順はREADMEになく、Windows 11環境ではそのまま動かせない。16 starsの若いプロジェクトで、AI機能はない。DMG未ダウンロード・未起動（READMEとリポジトリ構成のみ確認）。
 - [Three.js AI Skills](entries/3d-motion/alton47-threejs-skills.md) — unverified / エージェント別の導入とスキル読込、生成コードの動作、スキル有無による品質差、対応バージョンは未検証。閲覧した公開リリース一覧には掲載がなかったが、最新リリースのAPI確認は未実施。
 - [VRMkimodo](entries/3d-motion/camenduru-vrmkimodo.md) — unverified / 上流 nv-tlabs/kimodo のフォークで、独自追加は kimodo/exports/vrma.py のみ（README/CHANGELOG は上流と同一、CLI・デモからは未接続）。.vrma 書き出しはコード読解のみで実行検証していない。コードは Apache-2.0 だがモデル重みは NVIDIA Open Model License。ローカル生成には約17GB VRAM が必要。
