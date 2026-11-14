@@ -1,5 +1,5 @@
 {
-  "count": 1021,
+  "count": 1022,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -10049,6 +10049,37 @@
       "last_release_at": "2020-10-28",
       "path": "entries/coding-agent/obsidianmd-obsidian-sample-plugin.md",
       "summary": "Obsidian公式のプラグイン開発雛形。"
+    },
+    {
+      "name": "Drama Skills",
+      "genre": "coding-agent",
+      "url": "https://github.com/zenstory-ai/drama-skills",
+      "repo": "zenstory-ai/drama-skills",
+      "license": "MIT",
+      "stars": 4202,
+      "language": "Python",
+      "created": "2026-07-16",
+      "updated": "2026-11-10",
+      "forks": 739,
+      "open_issues": 2,
+      "commits_30d": 80,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 79228,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "README記載の「视频生成成本约40元」は作者によるサンプルの説明で、一般的な費用を示すものではありません。実際の費用は記載されていません。",
+      "type": "repo",
+      "added": "2026-11-14",
+      "first_seen": "2026-11-14",
+      "sources": [
+        "https://x.com/ganfanren_ai/status/2118721879242633643"
+      ],
+      "fetched_at": "2026-11-13T21:12:06.095938+00:00",
+      "path": "entries/coding-agent/zenstory-ai-drama-skills.md",
+      "summary": "短劇・漫劇の制作工程を、原著分析、分集脚本、ビジュアル設定、画像・動画提示詞、確認後の素材生成、編集、レビューまで12個のスキルで支援します。READMEには、Markdown文書で制作判断を記録する方法、文書間の参照や連続性ロックを検査するスクリプト、生成前に内容とパラメーターをプレビューして明示確認する手順が記載さ"
     },
     {
       "repo": "michael-denyer/pstack-claude",

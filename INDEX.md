@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1021 件 — リポジトリ 679, リンク集 118, 記事 157, モデル 53, プロンプト 14 / ⚑ 要確認 804 件
+収録 1022 件 — リポジトリ 680, リンク集 118, 記事 157, モデル 53, プロンプト 14 / ⚑ 要確認 805 件
 
-## リポジトリ（679）
+## リポジトリ（680）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -120,7 +120,7 @@
 | [剪坊](entries/other/tuyetloanpham08-png-jianfang.md) ⚑ | 7 | 1 | 月次 | 2 | 2026-10-20 | 2026-11-11 | 2026-11-11 | unknown |
 | [LapDraw](entries/other/sachinyadavaug20-lapdraw.md) ⚑ | 0 | 0 | 毎日 | 22 | 2026-11-07 | 2026-11-13 | 2026-11-13 | MIT |
 
-### コーディングエージェント（102）
+### コーディングエージェント（103）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -168,6 +168,7 @@
 | [obsidian-second-brain](entries/coding-agent/eugeniughelbur-obsidian-second-brain.md) ⚑ | 5,252 | 643 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | MIT |
 | [chinese-novelist skill](entries/coding-agent/penglonghuang-chinese-novelist-skill.md) ⚑ | 4,766 | 646 | 毎日 | 21 | 2026-11-01 | 2026-11-11 | 2026-11-11 | MIT |
 | [obsidianmd/obsidian-sample-plugin](entries/coding-agent/obsidianmd-obsidian-sample-plugin.md) ⚑ | 4,672 | 1,810 | 停滞 | 0 | 2026-08-02 | 2026-11-09 | 2026-11-10 | 0BSD |
+| [Drama Skills](entries/coding-agent/zenstory-ai-drama-skills.md) ⚑ | 4,202 | 739 | 毎日 | 80 | 2026-11-10 | 2026-11-13 | 2026-11-14 | MIT |
 | [pstack-claude](entries/coding-agent/michael-denyer-pstack-claude.md) ⚑ | 4,178 | 381 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
 | [Three.js Skills for Claude Code](entries/coding-agent/cloudai-x-threejs-skills.md) ⚑ | 4,148 | 477 | 毎日 | 20 | 2026-10-19 | 2026-11-12 | 2026-11-12 | MIT |
 | [Scenario Agent Skills](entries/coding-agent/scenario-labs-skills.md) ⚑ | 3,658 | 321 | 毎日 | 100+ | 2026-11-10 | 2026-11-11 | 2026-11-11 | MIT |
@@ -1729,6 +1730,7 @@
 - [obsidian-second-brain](entries/coding-agent/eugeniughelbur-obsidian-second-brain.md) — unverified / README に基づく文書確認。最新版リリース、実環境での導入・各 CLI の動作、検索精度、外部サービスの料金は未確認。
 - [chinese-novelist skill](entries/coding-agent/penglonghuang-chinese-novelist-skill.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [obsidianmd/obsidian-sample-plugin](entries/coding-agent/obsidianmd-obsidian-sample-plugin.md) — unverified / 0BSDは雛形の条件で、組み込む他のコードやObsidian本体の条件は別。ビルド・プラグイン起動は未確認。 当方でインストール・推論・生成・ベンチ再現はしていない。
+- [Drama Skills](entries/coding-agent/zenstory-ai-drama-skills.md) — unverified / README記載の「视频生成成本约40元」は作者によるサンプルの説明で、一般的な費用を示すものではありません。実際の費用は記載されていません。
 - [pstack-claude](entries/coding-agent/michael-denyer-pstack-claude.md) — unverified / 投稿の media は対象と無関係な日本語ニュース系の転載（静止画は著名人のポートレートで、リポジトリやAIツールの内容を含まない）。動画 mp4 は vision で内容を確認できないため評価に使っていない。effectiveness は README の記述＝作者の主張で、第三者による効果測定は公開されていない。Codex / Copilot / Pi などの対応は各ランタイム向けマッピングと synthetic provider のスモークテストに基づく自己申告で、実モデルの遵守は一部しか確認されていないと docs/reference.md に注記がある。
 - [Three.js Skills for Claude Code](entries/coding-agent/cloudai-x-threejs-skills.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Scenario Agent Skills](entries/coding-agent/scenario-labs-skills.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
