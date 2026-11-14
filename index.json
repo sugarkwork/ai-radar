@@ -1,5 +1,5 @@
 {
-  "count": 1016,
+  "count": 1017,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -20639,6 +20639,37 @@
       "fetched_at": "2026-11-11T20:07:15.353762+00:00",
       "path": "entries/other/wonderunit-storyboarder.md",
       "summary": "ストーリーボードを描いて、再生・提示し、変更できます。READMEにはFountain脚本の読み込み、印刷用ワークシート、Photoshopでの編集、各種形式への書き出し、GitHubでの共同作業も記載されています。"
+    },
+    {
+      "name": "shodan-python",
+      "genre": "other",
+      "url": "https://github.com/achillean/shodan-python",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEにはライセンス情報がなく、ライセンスは確認できていない。利用にはShodan APIキーが必要。 GitHub APIでライセンスを確認できていません。",
+      "repo": "achillean/shodan-python",
+      "stars": 3487,
+      "forks": 785,
+      "open_issues": 64,
+      "size_kb": 448,
+      "language": "Python",
+      "created": "2010-09-07",
+      "updated": "2024-08-05",
+      "archived": false,
+      "license": "unknown",
+      "commits_30d": 0,
+      "commits_90d": 0,
+      "commit_cadence": "stale",
+      "type": "repo",
+      "added": "2026-11-14",
+      "first_seen": "2026-11-14",
+      "sources": [
+        "https://x.com/ruyi3699/status/2118713263290741015"
+      ],
+      "fetched_at": "2026-11-13T20:10:45.297706+00:00",
+      "path": "entries/other/achillean-shodan-python.md",
+      "summary": "READMEは、Shodanの検索、IP情報の高速・一括照会、リアルタイムのストリーミングAPI、ネットワークアラート管理、Exploit検索API、データの一括ダウンロード、Shodan DNS DBのドメイン情報参照、およびコマンドラインインターフェースを機能として挙げている。これらはREADMEの説明であり、独立"
     },
     {
       "repo": "Vexa-ai/vexa",
