@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1096 件 — リポジトリ 739, リンク集 119, 記事 171, モデル 53, プロンプト 14 / ⚑ 要確認 870 件
+収録 1097 件 — リポジトリ 740, リンク集 119, 記事 171, モデル 53, プロンプト 14 / ⚑ 要確認 871 件
 
-## リポジトリ（739）
+## リポジトリ（740）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（135）
+### その他（136）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -117,6 +117,7 @@
 | [JavRanking 浏览器扩展](entries/other/javranking-javranking-extension.md) ⚑ | 1,043 | 70 | 週次 | 4 | 2026-10-27 | 2026-11-13 | 2026-11-14 | MIT |
 | [FlashProve](entries/other/anthropics-flashprove.md) ⚑ | 1,017 | 109 | 月次 | 1 | 2026-10-30 | 2026-11-11 | 2026-11-11 | Apache-2.0 |
 | [VidStab](entries/other/georgmartius-vid.stab.md) ⚑ | 991 | 126 | 月次 | 0 | 2026-08-14 | 2026-11-10 | 2026-11-10 | unknown |
+| [TrenTorch](entries/other/trentorch-trentorch.md) ⚑ | 842 | 88 | 毎日 | 100+ | 2026-11-14 | 2026-11-14 | 2026-11-14 | unknown |
 | [DSH 破甲ワークフロー（dsh-jailbreak-workflow）](entries/other/minglink-dsh-jailbreak-workflow.md) ⚑ | 816 | 284 | 週次 | 18 | 2026-11-05 | 2026-11-09 | 2026-11-10 | 未確認（API は NOASSERTION、標準ライセンスファイル無し） |
 | [Awesome Chinese Secondhand Slang（中国二手暗语全书与避坑合规指南）](entries/other/domainsun-awesome-chinese-secondhand-slang.md) ⚑ | 777 | 51 | 週次 | 8 | 2026-10-19 | 2026-11-13 | 2026-11-13 | MIT |
 | [Orfeo](entries/other/squarebow-orfeo.md) ⚑ | 723 | 58 | 毎日 | 100+ | 2026-11-13 | 2026-11-13 | 2026-11-13 | GPL-3.0 |
@@ -2163,6 +2164,7 @@
 - [JavRanking 浏览器扩展](entries/other/javranking-javranking-extension.md) — unverified / Chrome/Edge installation uses a manually loaded unpacked extension and updates are manual. Firefox is only available for temporary development loading; persistent installation requires a Mozilla-signed XPI, which is not yet available.
 - [FlashProve](entries/other/anthropics-flashprove.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [VidStab](entries/other/georgmartius-vid.stab.md) — unverified / 補正量・画質・処理速度は実測していない。READMEはmasterの仕様を含むため、最新公開リリースv1.1.2や各FFmpeg配布ビルドでの機能差は未確認。公開日の年は取得した表示から確定できなかった。ライセンス欄は親工程のAPI値を保持し、利用条件は対象バージョンのライセンス文書で確認する。 GitHub APIでライセンスを確認できていません。
+- [TrenTorch](entries/other/trentorch-trentorch.md) — unverified / READMEではPolyForm Noncommercial 1.0.0と記載されています。商用利用の可否やその他の利用条件はライセンス本文を確認してください。 GitHub APIでライセンスを確認できていません。
 - [DSH 破甲ワークフロー（dsh-jailbreak-workflow）](entries/other/minglink-dsh-jailbreak-workflow.md) — prompt-injection / モデルの拒否応答を回避する『破甲（jailbreak）』プロンプトを自動生成するためのワークフロー。各サービスの利用規約違反になり得る。記録のみで、実行・生成した内容の利用はしない。
 - [Awesome Chinese Secondhand Slang（中国二手暗语全书与避坑合规指南）](entries/other/domainsun-awesome-chinese-secondhand-slang.md) — malicious, low-quality, unverified / READMEは、平台の敏感語検出を避けるための代替語・暗語や、文案の排雷・転译を売り手向け用途として記載している。これは規制・モデレーション回避を助けうる。収録件数と分類数にもREADME内の不一致がある。 README内で収録規模が一致しない（本文は4,569+変異形・114分類、バッジは5,082,569+変異形・149分類）。記載された語句の意味や存活状態、平台ルールへの適合性は独立確認されていない。
 - [Orfeo](entries/other/squarebow-orfeo.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。

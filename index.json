@@ -1,5 +1,5 @@
 {
-  "count": 1096,
+  "count": 1097,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -23241,6 +23241,37 @@
       "fetched_at": "2026-11-10T09:50:37Z",
       "path": "entries/other/georgmartius-vid.stab.md",
       "summary": "FFmpegのvidstabdetectでフレーム間の動きを解析し、vidstabtransformで解析結果を使って手ぶれを補正する。"
+    },
+    {
+      "name": "TrenTorch",
+      "genre": "other",
+      "url": "https://github.com/TrenTorch/TrenTorch",
+      "repo": "TrenTorch/TrenTorch",
+      "license": "unknown",
+      "stars": 842,
+      "language": "Python",
+      "created": "2026-08-21",
+      "updated": "2026-11-14",
+      "forks": 88,
+      "open_issues": 19,
+      "commits_30d": 100,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 226035,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEではPolyForm Noncommercial 1.0.0と記載されています。商用利用の可否やその他の利用条件はライセンス本文を確認してください。 GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-14",
+      "first_seen": "2026-11-14",
+      "sources": [
+        "https://x.com/bkdgiffug/status/2118873065706934431"
+      ],
+      "fetched_at": "2026-11-14T17:05:32.238723+00:00",
+      "path": "entries/other/trentorch-trentorch.md",
+      "summary": "NumPyを基礎に機械学習フレームワークの仕組みを学ぶCLIカリキュラムと、ブラウザーで取り組めるコーディング問題を提供します。READMEにはWeb版の問題数を1,647、CLI版を20モジュールと記載。問題には課題文、理論、スターターファイル、テスト、参照解答が含まれます。"
     },
     {
       "repo": "Minglink/dsh-jailbreak-workflow",
