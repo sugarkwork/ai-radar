@@ -6,6 +6,9 @@
 
 ## 2026-11-14（日本時間）
 
+- [X: yang_xin19 の投稿](https://x.com/yang_xin19/status/2118909872767176872)
+  - 対象を裏付ける公開一次資料を確認できませんでした。
+  - 公開に必須の根拠がそろっていません。
 - [X: xsmryze の投稿](https://x.com/xsmryze/status/2118819655833837659)
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
   - 公開に必須の根拠がそろっていません。
@@ -84,6 +87,8 @@
   - 候補の対象が複数あり、一意に特定できませんでした。
 - [X: sep_is_heim の投稿](https://x.com/sep_is_heim/status/2118690623763222820)
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+- [X: ruyi3699 の投稿](https://x.com/ruyi3699/status/2118847396427788789)
+  - 元投稿と配布先が同一対象であることを裏付けられませんでした。
 - [X: ruyi3699 の投稿](https://x.com/ruyi3699/status/2118832045220872601)
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
   - 公開に必須の根拠がそろっていません。
@@ -125,6 +130,8 @@
   - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://github.com/sparsh101sparsh/gmail-browser-mcp>。
 - [X: invest_morgan の投稿](https://x.com/invest_morgan/status/2118856101164961921)
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+- [X: hana_aichobo の投稿](https://x.com/hana_aichobo/status/2121569081346429388)
+  - 元投稿と配布先が同一対象であることを裏付けられませんでした。
 - [X: ganfanren_ai の投稿](https://x.com/ganfanren_ai/status/2118721879242633643)
   - 公開に必須の根拠がそろっていません。
 - [X: fujikawa の投稿](https://x.com/fujikawa/status/2118860150589284601)
@@ -203,6 +210,8 @@
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
 - [X: SeiraHisada の投稿](https://x.com/SeiraHisada/status/2118853035451707634)
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+- [X: RoundtableSpace の投稿](https://x.com/RoundtableSpace/status/2118852178005885279)
+  - 元投稿と配布先が同一対象であることを裏付けられませんでした。
 - [X: RoundtableSpace の投稿](https://x.com/RoundtableSpace/status/2118821978891337885)
   - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: RoundtableSpace の投稿](https://x.com/RoundtableSpace/status/2118806879564394585)
@@ -225,6 +234,13 @@
   - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: NVIDIAAI の投稿](https://x.com/NVIDIAAI/status/2118800021013643269)
   - 公開に必須の根拠がそろっていません。
+- [X: NFT_Chen の投稿](https://x.com/NFT_Chen/status/2118851677927419976)
+  - 候補の対象が複数あり、一意に特定できませんでした。
+- [X: NFT_Chen の投稿](https://x.com/NFT_Chen/status/2118847554133918003)
+  - 提案された種別と配布先を確認できませんでした。
+  - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+  - 公開に必須の根拠がそろっていません。
+  - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://huggingface.co/NousResearch/Arete-27B>。
 - [X: NFT_Chen の投稿](https://x.com/NFT_Chen/status/2118842192055902302)
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 - [X: NFT_Chen の投稿](https://x.com/NFT_Chen/status/2118825518024040589)
@@ -274,6 +290,8 @@
   - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: HeLi8866 の投稿](https://x.com/HeLi8866/status/2121225016478196054)
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+- [X: GOROman の投稿](https://x.com/GOROman/status/2118851687758856544)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 - [X: GOROman の投稿](https://x.com/GOROman/status/2118839045732352350)
   - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: GOROman の投稿](https://x.com/GOROman/status/2118800389822931146)
