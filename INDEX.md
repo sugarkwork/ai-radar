@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1073 件 — リポジトリ 720, リンク集 119, 記事 167, モデル 53, プロンプト 14 / ⚑ 要確認 848 件
+収録 1074 件 — リポジトリ 720, リンク集 119, 記事 168, モデル 53, プロンプト 14 / ⚑ 要確認 849 件
 
 ## リポジトリ（720）
 
@@ -1288,9 +1288,9 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（167）
+## 記事（168）
 
-### 記事（104）
+### 記事（105）
 
 - **[$0のデジタル参謀長で月$80,000の契約候補を作ったというX投稿（動画付き）](articles/2026-10-22-bober_smart-0-80-000-x.md)** ⚑  @Bober_smart
 - **[1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md)** ⚑  @mukadeshinigami（mukade死神）
@@ -1323,6 +1323,7 @@
 - **[Day 283: Something To Stand On — body contacts in an animation system](articles/2026-11-06-author-day-283-something-to-stand-on-body-contacts-in-an-animation-system.md)**
 - **[Deep Learning with PyTorch: A 60 Minute Blitz](articles/2017-03-24-author-deep-learning-with-pytorch-a-60-minute-blitz.md)**
 - **[Design the Muse App, Just for You](articles/2026-11-06-author-design-the-muse-app-just-for-you.md)** ⚑
+- **[Dreaming with a dynamic workflow](articles/2026-11-02-author-dreaming-with-a-dynamic-workflow.md)** ⚑
 - **[Eddie Woo の対数講義――「何倍になるまでの時間」を1本の対数で読む](articles/2026-09-14-xsmryze-eddie-woo-1-589eee2ad8.md)** ⚑  xsmryze
 - **[EmbeddingGemma 2を使ったオンデバイス英語文字起こし](articles/2026-10-12-shahir-embeddinggemma-2.md)** ⚑  Shahir
 - **[Evidence of red blood cells seen in dinosaur fossil from Brazil](articles/2026-11-02-author-evidence-of-red-blood-cells-seen-in-dinosaur-fossil-from-brazil.md)**
@@ -1687,6 +1688,7 @@
 - [Covert underperformance on safety research tasks](articles/2026-11-04-author-covert-underperformance-on-safety-research-tasks.md) — unverified / 内部評価と社内Codex利用の観察に基づく報告であり、記載された性能差や頻度を一般の利用環境へそのまま当てはめられるとは示されていない。原因は特定されていない。
 - [DatalabのIndra OCR初回公開](articles/2026-10-13-vik-paruchuri-datalab-indra-ocr.md) — unverified / 性能は提供元の測定。モデル重みとコードのライセンス条件は異なる。
 - [Design the Muse App, Just for You](articles/2026-11-06-author-design-the-muse-app-just-for-you.md) — unverified / 実機での動作、対応する外部アプリと必要な権限、料金・利用条件、Metaのモデル評価の独立再現は未確認。
+- [Dreaming with a dynamic workflow](articles/2026-11-02-author-dreaming-with-a-dynamic-workflow.md) — unverified / 記事の費用・所要時間は著者が示した条件での報告で、一般的な性能保証ではない。また、記事は未信頼の記録がメモリ内容を変えうると説明している。夜間の既存ストア更新には変更の事前レビューが既定でないため、運用前に保存内容を確認する必要がある。
 - [Eddie Woo の対数講義――「何倍になるまでの時間」を1本の対数で読む](articles/2026-09-14-xsmryze-eddie-woo-1-589eee2ad8.md) — unverified / 主張: 投資が何倍になるまでの時間は対数1本で、Eddie Woo の5分の講義がそれを自明にする、という投稿。確認できたこと: Eddie Woo はシドニーの公立高校数学教師で、YouTube @misterwootube は登録者2.01M・5,043本・191,145,357回再生（2026-11-09取得）。添付動画は7分51秒の実授業映像で、白板の LOGARITHMS / 2^5=32 / log_2 32=5 / log_3 81=4 と 2,4,8,16,32・3,9,27,81 の説明が Woo の「Introduction to Logarithms (1 of 2: Definition)」（7:52, 2017-08-30）の内容と一致。数学も正しい（log_3 81=4、倍加時間 ln2/ln(1+r)、Rule of 72 は近似）。未確認: 引用元X記事（x.com/i/article/2087190920026365952）の本文はログイン要求で取得できず、fetch_article.py も失敗。動画の音声は未転記で、投稿の「5分で」は実際の7分51秒と一致しない。Rule of 72 は近似であり、実務では変動リターン・手数料・税金で変わる点は投稿に無い。
 - [EmbeddingGemma 2を使ったオンデバイス英語文字起こし](articles/2026-10-12-shahir-embeddinggemma-2.md) — unverified / 投稿日はUTC。開発者測定で、音源・測定範囲と日本語対応は未確認。
 - [FlowTranslator: Training-Free In-Image Machine Translation with Flow-Based Editing](articles/2026-11-03-author-flowtranslator-training-free-in-image-machine-translation-with-flow-based-editin.md) — unverified / 論文の評価値は記載されたEasyOCR read-back protocolおよびScenePairの条件に基づく。別条件での性能は未確認。投稿文の説明は論文要約と一致するが、一般の写真で周囲が常に完全保持されることは確認していない。

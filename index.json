@@ -1,5 +1,5 @@
 {
-  "count": 1073,
+  "count": 1074,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -7637,6 +7637,24 @@
       ],
       "fetched_at": "2026-11-10T11:18:42Z",
       "path": "articles/2026-11-06-author-design-the-muse-app-just-for-you.md"
+    },
+    {
+      "name": "Dreaming with a dynamic workflow",
+      "genre": "article",
+      "url": "https://platform.claude.com/cookbook/managed-agents-cma-dreaming-with-a-dynamic-workflow",
+      "published": "2026-11-02",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "記事の費用・所要時間は著者が示した条件での報告で、一般的な性能保証ではない。また、記事は未信頼の記録がメモリ内容を変えうると説明している。夜間の既存ストア更新には変更の事前レビューが既定でないため、運用前に保存内容を確認する必要がある。",
+      "type": "article",
+      "added": "2026-11-14",
+      "first_seen": "2026-11-14",
+      "sources": [
+        "https://x.com/lucas_flatwhite/status/2118883529253941380"
+      ],
+      "fetched_at": "2026-11-14T10:09:59.398597+00:00",
+      "path": "articles/2026-11-02-author-dreaming-with-a-dynamic-workflow.md"
     },
     {
       "name": "Eddie Woo の対数講義――「何倍になるまでの時間」を1本の対数で読む",
