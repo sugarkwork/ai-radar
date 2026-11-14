@@ -1,5 +1,5 @@
 {
-  "count": 1027,
+  "count": 1028,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -8328,6 +8328,24 @@
       ],
       "fetched_at": "2026-11-10T09:53:06Z",
       "path": "articles/2026-11-02-author-upcoming-new-age-rating-content-descriptors-in-app-store-connect-533ca96fb6.md"
+    },
+    {
+      "name": "Using ChatGPT at work? Your boss may trust you less, new study finds",
+      "genre": "article",
+      "url": "https://phys.org/news/2026-11-chatgpt-boss.html",
+      "published": "2026-11-04",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "68%対24%は特定の実験で上司役の参加者が従業員を信頼した割合で、職場全般での発生率や実際の昇進結果を示すものではありません。記事の研究紹介は、出版社掲載の論文要旨と大学の研究記録の範囲で確認しました。",
+      "type": "article",
+      "added": "2026-11-14",
+      "first_seen": "2026-11-14",
+      "sources": [
+        "https://x.com/awe0_io/status/2118737523900068053"
+      ],
+      "fetched_at": "2026-11-13T22:11:10.607938+00:00",
+      "path": "articles/2026-11-04-author-using-chatgpt-at-work-your-boss-may-trust-you-less-new-study-finds.md"
     },
     {
       "name": "What are vector embeddings? An interactive guide",

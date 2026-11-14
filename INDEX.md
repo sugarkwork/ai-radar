@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1027 件 — リポジトリ 684, リンク集 119, 記事 157, モデル 53, プロンプト 14 / ⚑ 要確認 810 件
+収録 1028 件 — リポジトリ 684, リンク集 119, 記事 158, モデル 53, プロンプト 14 / ⚑ 要確認 811 件
 
 ## リポジトリ（684）
 
@@ -1252,9 +1252,9 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（157）
+## 記事（158）
 
-### 記事（94）
+### 記事（95）
 
 - **[$0のデジタル参謀長で月$80,000の契約候補を作ったというX投稿（動画付き）](articles/2026-10-22-bober_smart-0-80-000-x.md)** ⚑  @Bober_smart
 - **[1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md)** ⚑  @mukadeshinigami（mukade死神）
@@ -1332,6 +1332,7 @@
 - **[Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals](articles/2026-10-30-chris-porter-nvidia-things-that-go-beep-in-the-night-agentic-ai-joins-the-search-for-extraterrestria.md)** ⚑  Chris Porter（NVIDIA）
 - **[TokenSpeedのQwen3.8-Flash-Next推論測定](articles/2026-10-13-tokenspeed-team-tokenspeed-qwen3.8-flash-next.md)** ⚑  TokenSpeed Team
 - **[Upcoming: New age rating content descriptors in App Store Connect](articles/2026-11-02-author-upcoming-new-age-rating-content-descriptors-in-app-store-connect-533ca96fb6.md)**
+- **[Using ChatGPT at work? Your boss may trust you less, new study finds](articles/2026-11-04-author-using-chatgpt-at-work-your-boss-may-trust-you-less-new-study-finds.md)** ⚑
 - **[What are vector embeddings? An interactive guide](articles/2026-10-14-author-what-are-vector-embeddings-an-interactive-guide.md)**
 - **[Xのアカウントデータを使った自己点検の提案](articles/2026-10-23-jarvis11x-x.md)** ⚑  @jarvis11x
 - **[iPhone『削除済み写真173,521件』主張の検証（PhotoData/Thumbnails）](articles/2026-10-25-bober_smart-iphone-173-521-photodata-thumbnails.md)** ⚑  Bober_smart
@@ -1681,6 +1682,7 @@
 - [The components of agent memory](articles/2026-11-06-anthropic-engineering-the-components-of-agent-memory.md) — unverified / 評価はAnthropicの報告に基づく。独立再現、別タスクへの一般化、記憶の保守に必要な計算コストは未検証。
 - [Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals](articles/2026-10-30-chris-porter-nvidia-things-that-go-beep-in-the-night-agentic-ai-joins-the-search-for-extraterrestria.md) — unverified / 投稿の短縮URLは解決できず、自然言語によるアンテナの指向変更・較正と、かにパルサーのリアルタイム検出という記述の一致から対象記事を特定した。エージェントの制御精度、誤操作時の挙動、観測から検出までの一連の再現手順、構成一式のライセンスと利用料金は確認できていない。
 - [TokenSpeedのQwen3.8-Flash-Next推論測定](articles/2026-10-13-tokenspeed-team-tokenspeed-qwen3.8-flash-next.md) — unverified / 開発元測定。独立追試やQwen 4製品性能は未確認。
+- [Using ChatGPT at work? Your boss may trust you less, new study finds](articles/2026-11-04-author-using-chatgpt-at-work-your-boss-may-trust-you-less-new-study-finds.md) — unverified / 68%対24%は特定の実験で上司役の参加者が従業員を信頼した割合で、職場全般での発生率や実際の昇進結果を示すものではありません。記事の研究紹介は、出版社掲載の論文要旨と大学の研究記録の範囲で確認しました。
 - [Xのアカウントデータを使った自己点検の提案](articles/2026-10-23-jarvis11x-x.md) — unverified / 凍結防止と投稿の拡散効果は未検証。アーカイブには個人情報が含まれる。
 - [iPhone『削除済み写真173,521件』主張の検証（PhotoData/Thumbnails）](articles/2026-10-25-bober_smart-iphone-173-521-photodata-thumbnails.md) — unverified, low-quality / 投稿単体では裏取り不能。同一本文内で183,000超と173,521が矛盾し、ほぼ同文の投稿が他アカウントから145,763/147,863/152,000件など異なる数字で出回る（AI-generated engagement baitとのコミュニティノートあり）。PhotoData/Thumbnailsの存在とサムネイル残存は文献で確認できるが、原寸オリジナル4年分という記述と『Spotlight索引』という説明は不正確。『19アプリが自由に読めた』はAppleのサンドボックス仕様および返信者の検証画像（permission denied）と矛盾。引用X記事はログイン壁、添付動画はフレームの文字が判読不能で、手順・プロンプト・実測値はいずれも未確認。
 - [「長くなる一方のSkill」を「短く効くSkill」にする、Matt Pocock式の作り方](articles/2026-10-20-sumika45379-skills-studio-skill-skill-matt-pocock.md) — unverified / 2026-10-10時点「スター28万超」という記事の数字は当時の値を再現できず、2026-11-08実測は318,171（記事の数字は古いスナップショットで、現在は上回る）。種動画の内容は説明欄のチャプター（5段）と公開日まで確認、本編の逐語と図版は未確認。動画側の「22 million+ people use them」は一次確認なし（記事はこの種のインストール数を載せていない）。効果（送り返しの減少）の第三者計測は記事にも当方にも見つからない。記事は本文中2箇所でLINE友だち追加による「Skill10選」配布へ誘導する販促導線を含む。
