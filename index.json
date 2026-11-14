@@ -1,5 +1,5 @@
 {
-  "count": 1059,
+  "count": 1060,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -19522,6 +19522,37 @@
       "fetched_at": "2026-11-10T16:22:18.748508+00:00",
       "path": "entries/other/microsoft-markitdown.md",
       "summary": "PDF、PowerPoint、Word、Excel、画像、音声、HTML、CSV・JSON・XML、ZIP、YouTube URL、EPUBなどをMarkdownへ変換します。READMEでは、見出し・リスト・表・リンクなどの文書構造をMarkdownとして保持することを重視すると説明しています。"
+    },
+    {
+      "name": "Immich",
+      "genre": "other",
+      "url": "https://github.com/immich-app/immich",
+      "repo": "immich-app/immich",
+      "license": "AGPL-3.0",
+      "stars": 119119,
+      "language": "TypeScript",
+      "created": "2022-02-03",
+      "updated": "2026-11-13",
+      "forks": 7592,
+      "open_issues": 680,
+      "commits_30d": 100,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 325467,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "インストール要件、詳細な実行条件、料金は添付READMEから確認できません。",
+      "type": "repo",
+      "added": "2026-11-14",
+      "first_seen": "2026-11-14",
+      "sources": [
+        "https://x.com/bkdgiffug/status/2118778945424212086"
+      ],
+      "fetched_at": "2026-11-14T05:15:47.627451+00:00",
+      "path": "entries/other/immich-app-immich.md",
+      "summary": "写真・動画のアップロードと閲覧、重複防止、アルバム、共有、EXIFや地図を含むメタデータ表示、メタデータ・オブジェクト・顔・CLIPによる検索などを提供するとREADMEに記載されています。モバイルとWebで利用できる機能はREADMEの機能表を参照してください。出典: https://github.com/immic"
     },
     {
       "name": "Build a Large Language Model (From Scratch)",

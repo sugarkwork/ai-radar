@@ -2,19 +2,20 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1059 件 — リポジトリ 710, リンク集 119, 記事 163, モデル 53, プロンプト 14 / ⚑ 要確認 837 件
+収録 1060 件 — リポジトリ 711, リンク集 119, 記事 163, モデル 53, プロンプト 14 / ⚑ 要確認 838 件
 
-## リポジトリ（710）
+## リポジトリ（711）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（121）
+### その他（122）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
 | [Free Programming Books](entries/other/ebookfoundation-free-programming-books.md) ⚑ | 401,413 | 67,628 | 毎日 | 46 | 2026-11-07 | 2026-11-11 | 2026-11-11 | CC-BY-4.0 |
 | [yt-dlp](entries/other/yt-dlp-yt-dlp.md) ⚑ | 206,601 | 18,169 | 毎日 | 26 | 2026-11-04 | 2026-11-10 | 2026-11-10 | Unlicense |
 | [MarkItDown](entries/other/microsoft-markitdown.md) ⚑ | 194,754 | 14,682 | 週次 | 9 | 2026-11-07 | 2026-11-10 | 2026-11-11 | MIT |
+| [Immich](entries/other/immich-app-immich.md) ⚑ | 119,119 | 7,592 | 毎日 | 100+ | 2026-11-13 | 2026-11-14 | 2026-11-14 | AGPL-3.0 |
 | [Build a Large Language Model (From Scratch)](entries/other/rasbt-llms-from-scratch.md) ⚑ | 108,297 | 16,745 | 週次 | 13 | 2026-11-09 | 2026-11-12 | 2026-11-12 | unknown |
 | [career-ops](entries/other/career-ops-hq-career-ops.md) | 81,473 | 14,978 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
 | [OBS Studio](entries/other/obsproject-obs-studio.md) ⚑ | 79,247 | 11,149 | 毎日 | 41 | 2026-11-10 | 2026-11-10 | 2026-11-10 | GPL-2.0 |
@@ -2019,6 +2020,7 @@
 - [Free Programming Books](entries/other/ebookfoundation-free-programming-books.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [yt-dlp](entries/other/yt-dlp-yt-dlp.md) — unverified / 最新リリース、個別動画での字幕取得の成否と字幕品質は未確認。発見投稿が述べる制作本数や収益性も未検証。
 - [MarkItDown](entries/other/microsoft-markitdown.md) — unverified / プロセスの権限でリソースへアクセスするため、READMEは信頼できない環境で入力をサニタイズし、用途に必要な範囲のconvert関数を使うよう注意しています。画像のキャプションと音声の文字起こしはWebホスト型サービスに依存します。変換の精度やサービス料金はREADMEから確認できません。
+- [Immich](entries/other/immich-app-immich.md) — unverified / インストール要件、詳細な実行条件、料金は添付READMEから確認できません。
 - [Build a Large Language Model (From Scratch)](entries/other/rasbt-llms-from-scratch.md) — unverified / ライセンスはAPI上でunknown。利用・再配布の許諾条件は確認できていない。 GitHub APIでライセンスを確認できていません。
 - [OBS Studio](entries/other/obsproject-obs-studio.md) — unverified / 最新リリースの年とタイムゾーンを含む公開日時は未確認。収録品質・負荷、エージェント経由の接続と録画、発見投稿で言及されたOpus 5.5との連携は未検証。90日コミット数は100件以上を表す。
 - [高性价比人生指南](entries/other/eternity4719-howtolivebetter.md) — unverified / 内容可能过时或有误，政策执行因地区而异。实际办事、就医或诉讼时，以当地部门、医生或律师的意见为准。
