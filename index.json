@@ -1,5 +1,5 @@
 {
-  "count": 1044,
+  "count": 1045,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -7447,6 +7447,22 @@
       ],
       "fetched_at": "2026-11-10T04:07:51Z",
       "path": "articles/2026-10-13-vik-paruchuri-datalab-indra-ocr.md"
+    },
+    {
+      "name": "Day 283: Something To Stand On — body contacts in an animation system",
+      "genre": "article",
+      "url": "https://x.com/AlecSaysThings/status/2118760866850156829",
+      "published": "2026-11-06",
+      "flags": [],
+      "type": "article",
+      "added": "2026-11-14",
+      "first_seen": "2026-11-14",
+      "risk_notes": "",
+      "sources": [
+        "https://x.com/AlecSaysThings/status/2118760866850156829"
+      ],
+      "fetched_at": "2026-11-14T02:11:51.553178+00:00",
+      "path": "articles/2026-11-06-author-day-283-something-to-stand-on-body-contacts-in-an-animation-system.md"
     },
     {
       "name": "Design the Muse App, Just for You",
