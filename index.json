@@ -1,5 +1,5 @@
 {
-  "count": 1105,
+  "count": 1106,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -8856,6 +8856,24 @@
       ],
       "fetched_at": "2026-11-10T04:08:08Z",
       "path": "articles/2026-10-13-tokenspeed-team-tokenspeed-qwen3.8-flash-next.md"
+    },
+    {
+      "name": "Ultralytics YOLO26とSAHIによるスライス推論ガイド",
+      "genre": "article",
+      "url": "https://docs.ultralytics.com/guides/sahi-tiled-inference",
+      "published": "2023-11-12",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "このガイドのSAHI連携は非推奨です。Ultralyticsは学習・検証・予測で標準のtile引数を使うよう案内しています。掲載された小物体検出やメモリ使用に関する効果は公式資料の説明であり、特定データや環境での独立検証結果ではありません。",
+      "type": "article",
+      "added": "2026-11-14",
+      "first_seen": "2026-11-14",
+      "sources": [
+        "https://x.com/tokufxug/status/2118896163554488397"
+      ],
+      "fetched_at": "2026-11-14T22:11:05.313244+00:00",
+      "path": "articles/2023-11-12-author-ultralytics-yolo26-sahi.md"
     },
     {
       "name": "Upcoming: New age rating content descriptors in App Store Connect",

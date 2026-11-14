@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1105 件 — リポジトリ 746, リンク集 119, 記事 173, モデル 53, プロンプト 14 / ⚑ 要確認 878 件
+収録 1106 件 — リポジトリ 746, リンク集 119, 記事 174, モデル 53, プロンプト 14 / ⚑ 要確認 879 件
 
 ## リポジトリ（746）
 
@@ -1314,9 +1314,9 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（173）
+## 記事（174）
 
-### 記事（110）
+### 記事（111）
 
 - **[$0のデジタル参謀長で月$80,000の契約候補を作ったというX投稿（動画付き）](articles/2026-10-22-bober_smart-0-80-000-x.md)** ⚑  @Bober_smart
 - **[1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md)** ⚑  @mukadeshinigami（mukade死神）
@@ -1407,6 +1407,7 @@
 - **[The components of agent memory](articles/2026-11-06-anthropic-engineering-the-components-of-agent-memory.md)** ⚑  Anthropic Engineering
 - **[Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals](articles/2026-10-30-chris-porter-nvidia-things-that-go-beep-in-the-night-agentic-ai-joins-the-search-for-extraterrestria.md)** ⚑  Chris Porter（NVIDIA）
 - **[TokenSpeedのQwen3.8-Flash-Next推論測定](articles/2026-10-13-tokenspeed-team-tokenspeed-qwen3.8-flash-next.md)** ⚑  TokenSpeed Team
+- **[Ultralytics YOLO26とSAHIによるスライス推論ガイド](articles/2023-11-12-author-ultralytics-yolo26-sahi.md)** ⚑
 - **[Upcoming: New age rating content descriptors in App Store Connect](articles/2026-11-02-author-upcoming-new-age-rating-content-descriptors-in-app-store-connect-533ca96fb6.md)**
 - **[Using ChatGPT at work? Your boss may trust you less, new study finds](articles/2026-11-04-author-using-chatgpt-at-work-your-boss-may-trust-you-less-new-study-finds.md)** ⚑
 - **[VINO: Revisiting 3D Representation Learning with Volume Transformers](articles/2026-11-04-author-vino-revisiting-3d-representation-learning-with-volume-transformers.md)**
@@ -1774,6 +1775,7 @@
 - [The components of agent memory](articles/2026-11-06-anthropic-engineering-the-components-of-agent-memory.md) — unverified / 評価はAnthropicの報告に基づく。独立再現、別タスクへの一般化、記憶の保守に必要な計算コストは未検証。
 - [Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals](articles/2026-10-30-chris-porter-nvidia-things-that-go-beep-in-the-night-agentic-ai-joins-the-search-for-extraterrestria.md) — unverified / 投稿の短縮URLは解決できず、自然言語によるアンテナの指向変更・較正と、かにパルサーのリアルタイム検出という記述の一致から対象記事を特定した。エージェントの制御精度、誤操作時の挙動、観測から検出までの一連の再現手順、構成一式のライセンスと利用料金は確認できていない。
 - [TokenSpeedのQwen3.8-Flash-Next推論測定](articles/2026-10-13-tokenspeed-team-tokenspeed-qwen3.8-flash-next.md) — unverified / 開発元測定。独立追試やQwen 4製品性能は未確認。
+- [Ultralytics YOLO26とSAHIによるスライス推論ガイド](articles/2023-11-12-author-ultralytics-yolo26-sahi.md) — unverified / このガイドのSAHI連携は非推奨です。Ultralyticsは学習・検証・予測で標準のtile引数を使うよう案内しています。掲載された小物体検出やメモリ使用に関する効果は公式資料の説明であり、特定データや環境での独立検証結果ではありません。
 - [Using ChatGPT at work? Your boss may trust you less, new study finds](articles/2026-11-04-author-using-chatgpt-at-work-your-boss-may-trust-you-less-new-study-finds.md) — unverified / 68%対24%は特定の実験で上司役の参加者が従業員を信頼した割合で、職場全般での発生率や実際の昇進結果を示すものではありません。記事の研究紹介は、出版社掲載の論文要旨と大学の研究記録の範囲で確認しました。
 - [Xのアカウントデータを使った自己点検の提案](articles/2026-10-23-jarvis11x-x.md) — unverified / 凍結防止と投稿の拡散効果は未検証。アーカイブには個人情報が含まれる。
 - [iPhone『削除済み写真173,521件』主張の検証（PhotoData/Thumbnails）](articles/2026-10-25-bober_smart-iphone-173-521-photodata-thumbnails.md) — unverified, low-quality / 投稿単体では裏取り不能。同一本文内で183,000超と173,521が矛盾し、ほぼ同文の投稿が他アカウントから145,763/147,863/152,000件など異なる数字で出回る（AI-generated engagement baitとのコミュニティノートあり）。PhotoData/Thumbnailsの存在とサムネイル残存は文献で確認できるが、原寸オリジナル4年分という記述と『Spotlight索引』という説明は不正確。『19アプリが自由に読めた』はAppleのサンドボックス仕様および返信者の検証画像（permission denied）と矛盾。引用X記事はログイン壁、添付動画はフレームの文字が判読不能で、手順・プロンプト・実測値はいずれも未確認。
