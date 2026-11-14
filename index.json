@@ -1,5 +1,5 @@
 {
-  "count": 1033,
+  "count": 1034,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -22419,6 +22419,37 @@
       "fetched_at": "2026-11-10T12:55:53+00:00",
       "path": "entries/other/ktaletsk-jevframe.md",
       "summary": "レビューの感情判定、問い合わせの分類、ルーブリックに沿った採点を、DataFrameの行ごとに実行できる。二択判定は肯定の確率をSeriesで返し、分類や採点では各選択肢の確率も列として取得できる。"
+    },
+    {
+      "name": "FossFLOW",
+      "genre": "other",
+      "url": "https://github.com/Grujowmi/FossFlow",
+      "repo": "Grujowmi/FossFlow",
+      "stars": 15,
+      "forks": 3,
+      "open_issues": 0,
+      "size_kb": 750,
+      "language": "TypeScript",
+      "created": "2026-05-22",
+      "updated": "2026-05-22",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 0,
+      "commits_90d": 0,
+      "commit_cadence": "stale",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景・有効性・依存関係・実行条件。",
+      "type": "repo",
+      "added": "2026-11-14",
+      "first_seen": "2026-11-14",
+      "sources": [
+        "https://x.com/awe0_io/status/2118740924612362518"
+      ],
+      "fetched_at": "2026-11-14T00:12:59.120377+00:00",
+      "path": "entries/other/grujowmi-fossflow.md",
+      "summary": "React製のPWAでアイソメトリック図を作成できます。コンポーネントをキャンバスに配置し、ノード間を接続できます。ブラウザーセッションへのクイック保存、自動保存、JSON形式でのエクスポートとインポートに対応するとREADMEに記載されています。"
     },
     {
       "name": "PlayBridge",
