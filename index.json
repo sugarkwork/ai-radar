@@ -1,5 +1,5 @@
 {
-  "count": 1054,
+  "count": 1055,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -13826,6 +13826,37 @@
       "fetched_at": "2026-11-10T10:41:51+00:00",
       "path": "entries/image-gen/comfy-org-comfyui.md",
       "summary": "画像生成・編集の処理をノードで接続し、ワークフローとして再利用できる。公式テンプレートにはP-H3-Imageで参照画像を編集する例がある。[公式編集テンプレート](https://github.com/Comfy-Org/workflow_templates/blob/main/templates/image_p_h"
+    },
+    {
+      "name": "Upscayl",
+      "genre": "image-gen",
+      "url": "https://github.com/upscayl/upscayl",
+      "repo": "upscayl/upscayl",
+      "license": "AGPL-3.0",
+      "stars": 52517,
+      "language": "TypeScript",
+      "created": "2022-07-30",
+      "updated": "2026-10-05",
+      "forks": 2751,
+      "open_issues": 56,
+      "commits_30d": 0,
+      "commit_cadence": "stale",
+      "commits_90d": 0,
+      "size_kb": 568363,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景・有効性・依存関係・実行条件。",
+      "type": "repo",
+      "added": "2026-11-14",
+      "first_seen": "2026-11-14",
+      "sources": [
+        "https://x.com/bkdgiffug/status/2118778945424212086"
+      ],
+      "fetched_at": "2026-11-14T05:14:20.166596+00:00",
+      "path": "entries/image-gen/upscayl-upscayl.md",
+      "summary": "AIモデルを使って低解像度画像を拡大・補正するデスクトップアプリです。READMEではReal-ESRGANとVulkanを使用すると説明されています。READMEのFAQによると、ピンぼけや完全にぼけた画像の補正には向かないとされています。"
     },
     {
       "repo": "xinntao/Real-ESRGAN",

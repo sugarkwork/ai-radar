@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1054 件 — リポジトリ 705, リンク集 119, 記事 163, モデル 53, プロンプト 14 / ⚑ 要確認 832 件
+収録 1055 件 — リポジトリ 706, リンク集 119, 記事 163, モデル 53, プロンプト 14 / ⚑ 要確認 833 件
 
-## リポジトリ（705）
+## リポジトリ（706）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -695,11 +695,12 @@
 | [Grok Bot Teams](entries/prompt-design/ellelion-botteams.md) ⚑ | 26 | 6 | 月次 | 0 | 2026-09-08 | 2026-11-10 | 2026-11-10 | MIT |
 | [GUntilB/Anima-Prompt-Generator](entries/prompt-design/guntilb-anima-prompt-generator.md) ⚑ | 13 | 1 | 月次 | 3 | 2026-11-08 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
 
-### 画像生成・編集（24）
+### 画像生成・編集（25）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
 | [ComfyUI](entries/image-gen/comfy-org-comfyui.md) ⚑ | 146,083 | 17,401 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | GPL-3.0 |
+| [Upscayl](entries/image-gen/upscayl-upscayl.md) ⚑ | 52,517 | 2,751 | 停滞 | 0 | 2026-10-05 | 2026-11-14 | 2026-11-14 | AGPL-3.0 |
 | [Real-ESRGAN](entries/image-gen/xinntao-real-esrgan.md) ⚑ | 37,430 | 4,528 | 停滞 | 0 | 2024-08-06 | 2026-11-10 | 2026-11-10 | BSD-3-Clause |
 | [rembg](entries/image-gen/danielgatis-rembg.md) ⚑ | 25,424 | 2,481 | 週次 | 9 | 2026-11-06 | 2026-11-11 | 2026-11-11 | MIT |
 | [Primitive Pictures](entries/image-gen/fogleman-primitive.md) ⚑ | 13,594 | 671 | 停滞 | 0 | 2024-07-22 | 2026-11-14 | 2026-11-14 | MIT |
@@ -1864,6 +1865,7 @@
 - [JevOnAir](entries/finance-quant/valuecodes-jev-on-air.md) — unverified / 公開READMEとリリース記述を確認した。CLIの動作、収益性、判断精度、配信から模擬約定までの遅延、外部サービスの現行料金と利用条件は未検証。
 - [jev-polymarket-test](entries/finance-quant/truongxxxx-jev-polymarket-test.md) — unverified / 理由未記入
 - [ComfyUI](entries/image-gen/comfy-org-comfyui.md) — unverified / FP8とDynamic VRAMの速度改善幅、P-H3-Imageのモデル系譜と重みの利用条件、各機能の必要VRAMと出力品質、最新リリースの公開日時の年とタイムゾーンは未確認。導入と推論の実行検証は行っていない。
+- [Upscayl](entries/image-gen/upscayl-upscayl.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Real-ESRGAN](entries/image-gen/xinntao-real-esrgan.md) — unverified / 最新リリースのタグはGitHubの公開ページで確認した。公開日時、現在の依存バージョンでの互換性、実行速度、VRAM使用量、動画フレーム間の一貫性、配布重み固有の利用条件は未確認。画質の記述は著者の報告に基づき、独立した実行・測定は行っていない。
 - [rembg](entries/image-gen/danielgatis-rembg.md) — unverified / READMEに説明されている機能・効果の記載であり、個別環境での動作や出力品質は確認していない。GPU利用には対応する実行環境とバックエンドの追加設定が必要。クラウドモデルは外部APIのキーと課金条件に依存する。
 - [Primitive Pictures](entries/image-gen/fogleman-primitive.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
