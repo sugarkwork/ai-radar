@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1069 件 — リポジトリ 718, リンク集 119, 記事 165, モデル 53, プロンプト 14 / ⚑ 要確認 845 件
+収録 1070 件 — リポジトリ 719, リンク集 119, 記事 165, モデル 53, プロンプト 14 / ⚑ 要確認 846 件
 
-## リポジトリ（718）
+## リポジトリ（719）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（128）
+### その他（129）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -70,6 +70,7 @@
 | [open-slide](entries/other/open-slide-open-slide.md) ⚑ | 9,729 | 716 | 毎日 | 33 | 2026-11-09 | 2026-11-10 | 2026-11-10 | MIT |
 | [OBLITERATUS](entries/other/elder-plinius-obliteratus.md) | 9,407 | 1,706 | 毎日 | 100+ | 2026-11-05 | 2026-11-09 | 2026-11-10 | AGPL-3.0 |
 | [Webstudio](entries/other/webstudio-is-webstudio.md) ⚑ | 9,170 | 1,639 | 毎日 | 57 | 2026-11-13 | 2026-11-14 | 2026-11-14 | AGPL-3.0 |
+| [tsParticles](entries/other/tsparticles-tsparticles.md) ⚑ | 9,090 | 954 | 毎日 | 100+ | 2026-11-13 | 2026-11-14 | 2026-11-14 | MIT |
 | [librosa](entries/other/librosa-librosa.md) ⚑ | 8,830 | 1,105 | 毎日 | 59 | 2026-11-09 | 2026-11-10 | 2026-11-10 | ISC |
 | [OpenToonz](entries/other/opentoonz-opentoonz.md) ⚑ | 8,215 | 943 | 毎日 | 55 | 2026-11-12 | 2026-11-14 | 2026-11-14 | unknown |
 | [StatiCrypt](entries/other/robinmoisson-staticrypt.md) ⚑ | 8,074 | 502 | 停滞 | 0 | 2026-07-06 | 2026-11-14 | 2026-11-14 | MIT |
@@ -2078,6 +2079,7 @@
 - [Blackbird](entries/other/antoniaci-blackbird.md) — unverified / README記載の「低い誤検出率」やAIによるプロファイリングの有効性は独立検証されていない。ライセンスはAPI上unknown。README内のclone先は別リポジトリ p1ngul1n0/blackbird を指しており、対象リポジトリでの実行・依存関係は確認できない。 GitHub APIでライセンスを確認できていません。
 - [open-slide](entries/other/open-slide-open-slide.md) — unverified / 公開リリース一覧では @open-slide/core@2.3.2 が Latest と表示された一方、取得した /releases/latest はキャッシュから @open-slide/core@2.0.1 に転送されたため、最新タグと公開日時は未確定。CLIやエージェントは実行しておらず、制作時間の短縮、PPTXの再現性・編集互換性、エージェント側の契約・料金は未検証。
 - [Webstudio](entries/other/webstudio-is-webstudio.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
+- [tsParticles](entries/other/tsparticles-tsparticles.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [librosa](entries/other/librosa-librosa.md) — unverified / GitHub の latest は 1.0.0 に転送されたが、GitHub 上の公開日は未確認。PyPI の公開日は 2026-08-11。手順は公式資料に基づき、独立した実行・精度測定は行っていない。
 - [OpenToonz](entries/other/opentoonz-opentoonz.md) — unverified / The README directs users to official downloads and says third-party components and MyPaint brushes have separate licensing terms. API reports the repository license as unknown; confirm applicable license terms for specific files before reuse. GitHub APIでライセンスを確認できていません。
 - [StatiCrypt](entries/other/robinmoisson-staticrypt.md) — unverified / README says shareable links contain the hashed password and can auto-decrypt the file. Treat such links as credentials.

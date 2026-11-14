@@ -1,5 +1,5 @@
 {
-  "count": 1069,
+  "count": 1070,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -21281,6 +21281,37 @@
       "fetched_at": "2026-11-14T04:14:40.392465+00:00",
       "path": "entries/other/webstudio-is-webstudio.md",
       "summary": "開発者・デザイナー・部門横断チーム向けのオープンソースのビジュアル開発プラットフォーム。データ、コンポーネント、インフラを自分で所有できるとREADMEに記載されている。"
+    },
+    {
+      "name": "tsParticles",
+      "genre": "other",
+      "url": "https://github.com/tsparticles/tsparticles",
+      "repo": "tsparticles/tsparticles",
+      "stars": 9090,
+      "forks": 954,
+      "open_issues": 20,
+      "size_kb": 553556,
+      "language": "TypeScript",
+      "created": "2020-02-05",
+      "updated": "2026-11-13",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 100,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景・有効性・依存関係・実行条件。",
+      "type": "repo",
+      "added": "2026-11-14",
+      "first_seen": "2026-11-14",
+      "sources": [
+        "https://x.com/aikangarooking/status/2121444332091965629"
+      ],
+      "fetched_at": "2026-11-14T07:20:26.639520+00:00",
+      "path": "entries/other/tsparticles-tsparticles.md",
+      "summary": "Webページ向けにパーティクルを作成するTypeScriptライブラリです。READMEではプリセットや各種フレームワーク用コンポーネントも案内されています。出典: https://github.com/tsparticles/tsparticles"
     },
     {
       "name": "librosa",
