@@ -1,5 +1,5 @@
 {
-  "count": 1017,
+  "count": 1018,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -10887,6 +10887,37 @@
       "fetched_at": "2026-11-10T14:08:41.744771+00:00",
       "path": "entries/coding-agent/airsuphq-machine-skill.md",
       "summary": "READMEでは、Claude Code向けAgent Skillとして、機械の説明から単一HTMLファイルのインタラクティブな3Dシミュレーションを生成し、録画スクリプトで映像化できると説明されている。例として、分解表示、断面表示、X線表示、スローモーション、ラベル表示、計算に基づく破損モードが挙げられている。"
+    },
+    {
+      "name": "DSH Game Studio",
+      "genre": "coding-agent",
+      "url": "https://github.com/ZSeven-W/dsh-game-studio",
+      "repo": "ZSeven-W/dsh-game-studio",
+      "stars": 546,
+      "forks": 45,
+      "open_issues": 1,
+      "size_kb": 9264,
+      "language": "TypeScript",
+      "created": "2026-11-05",
+      "updated": "2026-11-09",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 11,
+      "commits_90d": 11,
+      "commit_cadence": "weekly",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景・有効性・依存関係・実行条件。",
+      "type": "repo",
+      "added": "2026-11-14",
+      "first_seen": "2026-11-14",
+      "sources": [
+        "https://x.com/Leviwoyun/status/2118714367302877635"
+      ],
+      "fetched_at": "2026-11-13T20:10:48.071221+00:00",
+      "path": "entries/coding-agent/zseven-w-dsh-game-studio.md",
+      "summary": "DeepSeek Harnessの会話サイドバーで、2Dトップダウンまたは3Dボクセルのテンプレートを元にゲームを作成・プレビューできる。AI画像候補の生成、ヘッドレスブラウザーでのプレイテスト、変更履歴の復元、オフラインで動作する単一HTMLへの書き出しもREADMEに記載されている。出典: https://gith"
     },
     {
       "name": "Product Engineering",
