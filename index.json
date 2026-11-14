@@ -1,5 +1,5 @@
 {
-  "count": 1040,
+  "count": 1041,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -24098,6 +24098,37 @@
       "fetched_at": "2026-11-10T09:23:57Z",
       "path": "entries/prompt-design/zhanghao123vip-ai-manju-skills.md",
       "summary": "物語のアイデアをもとに、企画書、人物・小道具・背景などの画像生成プロンプト、各話の台本、絵コンテ・動画生成プロンプト、表紙や投稿文の案を段階的に出力する。"
+    },
+    {
+      "name": "Moyu（摸鱼）",
+      "genre": "prompt-design",
+      "url": "https://github.com/uucz/moyu",
+      "repo": "uucz/moyu",
+      "license": "MIT",
+      "language": "Python",
+      "commit_cadence": "stale",
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "過度なエンジニアリングを抑える効果としてREADMEに記載された説明・数値は、独立した検証結果として確認されていない。",
+      "stars": 307,
+      "forks": 13,
+      "open_issues": 1,
+      "size_kb": 1307,
+      "created": "2026-03-23",
+      "updated": "2026-07-30",
+      "commits_30d": 0,
+      "commits_90d": 0,
+      "type": "repo",
+      "added": "2026-11-14",
+      "first_seen": "2026-11-14",
+      "sources": [
+        "https://x.com/bkdgiffug/status/2118747739769151562"
+      ],
+      "fetched_at": "2026-11-14T01:12:43.921560+00:00",
+      "path": "entries/prompt-design/uucz-moyu.md",
+      "summary": "READMEは、コーディングエージェント向けのルール集「摸鱼」を説明している。ルールは、依頼されたコードだけを変更する、最も簡潔な案を優先する、不明点は質問する、の3点。過剰な変更を検出する4段階の基準も記載されている。Claude Code、Codex、Cursor、Copilot、Windsurf、Cline、Ki"
     },
     {
       "name": "TAP (Tree of Attacks with Pruning)",
