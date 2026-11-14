@@ -1,5 +1,5 @@
 {
-  "count": 1094,
+  "count": 1095,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -23666,6 +23666,37 @@
       "fetched_at": "2026-11-11T18:05:38.246995+00:00",
       "path": "entries/other/magicapple123-resumeforge.md",
       "summary": "READMEでは、求人情報の整理・解析、プロフィールとの適合分析、履歴書の作成とPDF出力、応募状況の追跡、模擬面接と振り返りを扱うと説明されています。プロフィールの事実と生成文を分け、登録内容との不一致や未入力マーカーを警告する機能も記載されています。これらは作者の説明であり、独立した動作確認ではありません。"
+    },
+    {
+      "name": "Image 2 Sculpt",
+      "genre": "other",
+      "url": "https://github.com/gokayfem/image-to-sculpt",
+      "repo": "gokayfem/image-to-sculpt",
+      "license": "MIT",
+      "stars": 289,
+      "language": "Python",
+      "created": "2026-11-08",
+      "updated": "2026-11-08",
+      "forks": 21,
+      "open_issues": 0,
+      "commits_30d": 2,
+      "commit_cadence": "monthly",
+      "commits_90d": 2,
+      "size_kb": 187,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "README gives a typical case cost of about $2; actual cost may vary with calls and the per-case budget. A fal API key is required for masks, depth, normals, and generated views; the README also describes a front-only path using a cut-out PNG and user-provided views.",
+      "type": "repo",
+      "added": "2026-11-14",
+      "first_seen": "2026-11-14",
+      "sources": [
+        "https://x.com/Vlixsi/status/2121631327036318061"
+      ],
+      "fetched_at": "2026-11-14T16:11:56.248394+00:00",
+      "path": "entries/other/gokayfem-image-to-sculpt.md",
+      "summary": "Coding-agent向けのskillとPythonツールキット。入力画像のマスク・深度・法線を使い、画像のシルエットや表面に合わせて3Dスカルプトを段階的に作成する。複数視点を登録・スクリーニングし、各視点のシルエットIoU、輪郭距離、法線角度、粗さ、入力画像の深度を個別に確認する。ビルド手順を記録し、Blende"
     },
     {
       "repo": "UnderleveledBuilder/awesome-social-media-skills",
