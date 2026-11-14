@@ -1,5 +1,5 @@
 {
-  "count": 1095,
+  "count": 1096,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -7598,6 +7598,24 @@
       "fetched_at": "2026-11-08T20:52:35Z",
       "type": "article",
       "path": "articles/2026-10-22-y0urdumble-claude-code-blender-python-6.md"
+    },
+    {
+      "name": "Claude Codeで作った帆走シミュレーターで複数モデルを競走させた事例",
+      "genre": "article",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xpij9t/i_built_a_sailing_sim_with_claude_code_and_made/",
+      "published": "2026-11-06",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "結果は作者による個別の競走報告で、独立したベンチマークではない。作者はコメントでマークの通過ルールが明確でなかったと述べており、コードや条件を確認できないため、勝敗や費用の一般化には注意が必要。",
+      "type": "article",
+      "added": "2026-11-14",
+      "first_seen": "2026-11-14",
+      "sources": [
+        "https://x.com/RoundtableSpace/status/2118867277378703544"
+      ],
+      "fetched_at": "2026-11-14T16:15:36.695716+00:00",
+      "path": "articles/2026-11-06-author-claude-code.md"
     },
     {
       "name": "Claude Codeの利用量とAPI料金換算の個人報告",
