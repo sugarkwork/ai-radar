@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1060 件 — リポジトリ 711, リンク集 119, 記事 163, モデル 53, プロンプト 14 / ⚑ 要確認 838 件
+収録 1061 件 — リポジトリ 711, リンク集 119, 記事 164, モデル 53, プロンプト 14 / ⚑ 要確認 838 件
 
 ## リポジトリ（711）
 
@@ -1279,9 +1279,9 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（163）
+## 記事（164）
 
-### 記事（100）
+### 記事（101）
 
 - **[$0のデジタル参謀長で月$80,000の契約候補を作ったというX投稿（動画付き）](articles/2026-10-22-bober_smart-0-80-000-x.md)** ⚑  @Bober_smart
 - **[1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md)** ⚑  @mukadeshinigami（mukade死神）
@@ -1300,6 +1300,7 @@
 - **[Almost no one uses AI agents to book their Uber, company says](articles/2026-11-04-author-almost-no-one-uses-ai-agents-to-book-their-uber-company-says.md)** ⚑
 - **[Asia stocks crumble after AI rout hits US markets](articles/2026-11-06-author-asia-stocks-crumble-after-ai-rout-hits-us-markets.md)**
 - **[Axion 1.0: Open Agent Foundation Models, Simplified](articles/2026-11-02-author-axion-1.0-open-agent-foundation-models-simplified.md)** ⚑
+- **[Bernat Vadellによる音声エージェント構築の実践メモ](articles/2026-11-06-author-bernat-vadell.md)**
 - **[Bring Agentic Coding On-Device with Foundry Local](articles/2026-11-05-author-bring-agentic-coding-on-device-with-foundry-local.md)** ⚑
 - **[Build once, run on any agent: A practical guide to agent skills](articles/2026-11-12-author-build-once-run-on-any-agent-a-practical-guide-to-agent-skills.md)**
 - **[ChatGPT + Obsidian で組む英語リスニング訓練システム](articles/2026-09-27-momoai_daily-momoai-chatgpt-obsidian.md)** ⚑  @momoai_daily（momoai沫沫🫧）

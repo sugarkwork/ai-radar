@@ -1,5 +1,5 @@
 {
-  "count": 1060,
+  "count": 1061,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -7345,6 +7345,22 @@
       ],
       "fetched_at": "2026-11-12T19:08:25Z",
       "path": "articles/2026-11-02-author-axion-1.0-open-agent-foundation-models-simplified.md"
+    },
+    {
+      "name": "Bernat Vadellによる音声エージェント構築の実践メモ",
+      "genre": "article",
+      "url": "https://x.com/bernvadell/status/2118781221643641027",
+      "published": "2026-11-06",
+      "flags": [],
+      "type": "article",
+      "added": "2026-11-14",
+      "first_seen": "2026-11-14",
+      "risk_notes": "",
+      "sources": [
+        "https://x.com/bernvadell/status/2118781221643641027"
+      ],
+      "fetched_at": "2026-11-14T06:16:30.337664+00:00",
+      "path": "articles/2026-11-06-author-bernat-vadell.md"
     },
     {
       "name": "Bring Agentic Coding On-Device with Foundry Local",
