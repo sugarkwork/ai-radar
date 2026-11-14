@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1048 件 — リポジトリ 700, リンク集 119, 記事 162, モデル 53, プロンプト 14 / ⚑ 要確認 827 件
+収録 1049 件 — リポジトリ 701, リンク集 119, 記事 162, モデル 53, プロンプト 14 / ⚑ 要確認 828 件
 
-## リポジトリ（700）
+## リポジトリ（701）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -238,7 +238,7 @@
 | [Berth](entries/coding-agent/maxzyma-berth.md) ⚑ | 0 | 0 | 毎日 | 100+ | 2026-11-11 | 2026-11-12 | 2026-11-12 | MIT |
 | [Leash](entries/coding-agent/cmaintz-leash.md) ⚑ | 0 | 0 | 毎日 | 21 | 2026-11-06 | 2026-11-10 | 2026-11-11 | MIT |
 
-### エージェント基盤・スキル集（99）
+### エージェント基盤・スキル集（100）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -309,6 +309,7 @@
 | [bowenliang123/dsh-context](entries/agent-framework/bowenliang123-dsh-context.md) ⚑ | 4,775 | 201 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
 | [hyperresearch](entries/agent-framework/jordan-gibbs-hyperresearch.md) ⚑ | 4,482 | 462 | 毎日 | 27 | 2026-11-09 | 2026-11-10 | 2026-11-11 | MIT |
 | [Agent Autoloop](entries/agent-framework/kkkkhazix-agent-autoloop.md) ⚑ | 4,268 | 776 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [Speakr](entries/agent-framework/murtaza-nasir-speakr.md) ⚑ | 4,172 | 359 | 毎日 | 100+ | 2026-11-13 | 2026-11-14 | 2026-11-14 | AGPL-3.0 |
 | [Effective HTML](entries/agent-framework/plannotator-effective-html.md) | 4,060 | 280 | 週次 | 5 | 2026-10-31 | 2026-11-09 | 2026-11-10 | MIT |
 | [FireRed-OpenStoryline](entries/agent-framework/fireredteam-firered-openstoryline.md) ⚑ | 3,658 | 429 | 停滞 | 0 | 2026-07-31 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
 | [SoL-Pi](entries/agent-framework/nvlabs-sol-pi.md) | 3,657 | 299 | 毎日 | 32 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
@@ -1601,6 +1602,7 @@
 - [bowenliang123/dsh-context](entries/agent-framework/bowenliang123-dsh-context.md) — unverified / 一覧紹介とAPI上の実在確認が根拠で、文脈削減の効果やデータ保管の安全性を独立検証したものではない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [hyperresearch](entries/agent-framework/jordan-gibbs-hyperresearch.md) — unverified / READMEの250件以上はpremier設定に関する開発元の説明。収集件数と引用監査の精度は独立に実測していない。READMEでは引用監査の対象範囲に関する記述が一致せず、全件を点検するかは未確認。最新GitHubリリースの公開日時は未確認。
 - [Agent Autoloop](entries/agent-framework/kkkkhazix-agent-autoloop.md) — unverified / starsの投稿値と確認値は時点差がある。承認の実効性・無人稼働は今回試験していない。 今回の動作・推論・生成・性能は未検証。
+- [Speakr](entries/agent-framework/murtaza-nasir-speakr.md) — unverified / 料金はREADMEで確認できない。
 - [FireRed-OpenStoryline](entries/agent-framework/fireredteam-firered-openstoryline.md) — unverified / インストール・実レンダリングは未実行で、記載は README / config.toml / requirements.txt / docs の原文にもとづく。2026-07-31 以降コミットがなく（30日0・90日0）、GitHub の Releases とタグは未作成（Docker Hub には v1.0.1 イメージあり）。LLM・VLM・（任意で）TTS/Pexels/AIトランジションのAPIキーが必須で、AIトランジションは外部動画生成APIの課金が発生し「コストが比較的高く結果は予測しづらい」とREADMEが明記している。
 - [NanmiCoder/dsh-agent-teams](entries/agent-framework/nanmicoder-dsh-agent-teams.md) — unverified / 10選への掲載はチーム動作や品質改善の実証ではない。タスク競合・外部操作の承認は未検証。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [karpathy-llm-wiki](entries/agent-framework/astro-han-karpathy-llm-wiki.md) — unverified / READMEに記載された利用統計や運用実績はREADME上の説明であり、独立検証していない。インストール方法としてnpx add-skillが記載されているが、実行条件や追加依存関係はREADMEだけでは確認できない。

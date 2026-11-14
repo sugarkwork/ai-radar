@@ -1,5 +1,5 @@
 {
-  "count": 1048,
+  "count": 1049,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -5442,6 +5442,37 @@
       "amplifiers": [],
       "path": "entries/agent-framework/kkkkhazix-agent-autoloop.md",
       "summary": "コマンドライン Agent（Claude Code、Codex など）を**常駐させて自分で仕事を拾わせる**ための軽量な中台。ターミナルを開いていない間も、キューに積まれた仕事を順に処理する。"
+    },
+    {
+      "name": "Speakr",
+      "genre": "agent-framework",
+      "url": "https://github.com/murtaza-nasir/speakr",
+      "repo": "murtaza-nasir/speakr",
+      "license": "AGPL-3.0",
+      "stars": 4172,
+      "language": "Python",
+      "created": "2025-05-05",
+      "updated": "2026-11-13",
+      "forks": 359,
+      "open_issues": 7,
+      "commits_30d": 100,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 131489,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "料金はREADMEで確認できない。",
+      "type": "repo",
+      "added": "2026-11-14",
+      "first_seen": "2026-11-14",
+      "sources": [
+        "https://x.com/ruyi3699/status/2118768879308505192"
+      ],
+      "fetched_at": "2026-11-14T04:11:35.668455+00:00",
+      "path": "entries/agent-framework/murtaza-nasir-speakr.md",
+      "summary": "音声を録音またはファイルから取り込み、文字起こし、要約、アクション項目や予定の抽出、録音単位のチャット、録音ライブラリ横断の意味検索・チャットを行う。フォルダー、タグ、保持ポリシー、共有、ユーザー・グループ管理、REST API、署名付きWebhook、テンプレート出力を備えるとREADMEに記載。WhisperX、O"
     },
     {
       "repo": "plannotator/effective-html",
