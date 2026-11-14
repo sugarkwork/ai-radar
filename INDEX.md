@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1009 件 — リポジトリ 667, リンク集 118, 記事 157, モデル 53, プロンプト 14 / ⚑ 要確認 792 件
+収録 1010 件 — リポジトリ 668, リンク集 118, 記事 157, モデル 53, プロンプト 14 / ⚑ 要確認 793 件
 
-## リポジトリ（667）
+## リポジトリ（668）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（101）
+### その他（102）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Manufacturing WeChat Mini Program Starter](entries/other/changhaoting1998-star-manufacturing-wechat-miniapp-starter.md) ⚑ | 703 | 39 | 月次 | 3 | 2026-10-27 | 2026-11-11 | 2026-11-11 | MIT |
 | [Awesome AI Pedia](entries/other/awesome-ai-pedia-awesome-ai-pedia.md) ⚑ | 686 | 66 | 週次 | 14 | 2026-11-10 | 2026-11-11 | 2026-11-11 | MIT |
 | [Enterprise System Design](entries/other/drhazemali-enterprise-system-design.md) ⚑ | 659 | 135 | 月次 | 0 | 2026-11-12 | 2026-11-13 | 2026-11-13 | unknown |
+| [高性价比职场指南](entries/other/goodseafly-how-to-make-work-pay.md) ⚑ | 489 | 43 | 週次 | 12 | 2026-10-26 | 2026-11-13 | 2026-11-14 | unknown |
 | [DuoDesk](entries/other/0xcodez-duodesk.md) ⚑ | 486 | 79 | 毎日 | 100+ | 2026-10-31 | 2026-11-10 | 2026-11-10 | GPL-3.0 |
 | [NamiAgent](entries/other/aa1143-namiagent.md) ⚑ | 483 | 53 | 毎日 | 20 | 2026-10-30 | 2026-11-10 | 2026-11-10 | MIT |
 | [LINEJS](entries/other/evex-dev-linejs.md) ⚑ | 474 | 103 | 毎日 | 22 | 2026-11-05 | 2026-11-12 | 2026-11-12 | MIT |
@@ -2015,6 +2016,7 @@
 - [Manufacturing WeChat Mini Program Starter](entries/other/changhaoting1998-star-manufacturing-wechat-miniapp-starter.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Awesome AI Pedia](entries/other/awesome-ai-pedia-awesome-ai-pedia.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Enterprise System Design](entries/other/drhazemali-enterprise-system-design.md) — unverified / READMEにライセンス条件の記載がなく、ライセンスは確認できていません。 GitHub APIでライセンスを確認できていません。
+- [高性价比职场指南](entries/other/goodseafly-how-to-make-work-pay.md) — unverified / GitHub APIでライセンスを確認できていません。
 - [DuoDesk](entries/other/0xcodez-duodesk.md) — unverified / 最新リリースの公開日時と配布物の署名状態は未確認。対応 OS の組み合わせ別の動作、転送性能、通信の安全性は独立検証していない。Claude Code と Opus 5.5 の利用および開発規模は、候補が指す X 投稿を直接取得できず未確認。
 - [NamiAgent](entries/other/aa1143-namiagent.md) — unverified / 最新リリース、テストの成功、デモと実モデルの動作、権限機構の実効性、モデルAPIの料金は未確認。著者は、権限機構で意図的な攻撃を防げないと明記している。
 - [LINEJS](entries/other/evex-dev-linejs.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。

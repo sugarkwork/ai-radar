@@ -1,5 +1,5 @@
 {
-  "count": 1009,
+  "count": 1010,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -21316,6 +21316,37 @@
       "fetched_at": "2026-11-13T14:10:31.223872+00:00",
       "path": "entries/other/drhazemali-enterprise-system-design.md",
       "summary": "READMEでは、Azure上の分散システム設計コース兼技術リファレンスと説明されています。基礎から本番AIワークロードまでを扱い、信頼性、セキュリティ、運用、検索、モデル提供などの設計を学べます。"
+    },
+    {
+      "name": "高性价比职场指南",
+      "genre": "other",
+      "url": "https://github.com/goodseafly/how-to-make-work-pay",
+      "repo": "goodseafly/how-to-make-work-pay",
+      "license": "unknown",
+      "stars": 489,
+      "forks": 43,
+      "open_issues": 1,
+      "size_kb": 53935,
+      "language": "HTML",
+      "created": "2026-10-06",
+      "updated": "2026-10-26",
+      "archived": false,
+      "commits_30d": 12,
+      "commits_90d": 32,
+      "commit_cadence": "weekly",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-14",
+      "first_seen": "2026-11-14",
+      "sources": [
+        "https://x.com/bkdgiffug/status/2118700427801919767"
+      ],
+      "fetched_at": "2026-11-13T19:08:05.018658+00:00",
+      "path": "entries/other/goodseafly-how-to-make-work-pay.md",
+      "summary": "READMEによると、職場の採用、契約、賃金、休暇、社会保険、労災、退職、解雇などについて、576件の提案を検索・閲覧できます。オンライン検索ページにはキーワード、章、証拠レベル、コストによる絞り込みがあり、オフライン版も案内されています。"
     },
     {
       "repo": "0xCodez/DuoDesk",
