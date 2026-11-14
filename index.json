@@ -1,5 +1,5 @@
 {
-  "count": 1072,
+  "count": 1073,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -8150,6 +8150,22 @@
       ],
       "fetched_at": "2026-11-09T10:22:00+00:00",
       "path": "articles/2026-07-14-graham-weaver-stanford-graduate-school-of-business-last-lecture-series-how-to-win-without-f6d1f4ee42.md"
+    },
+    {
+      "name": "Lyra 2.0: Explorable Generative 3D Worlds",
+      "genre": "article",
+      "url": "https://nv-tlabs.github.io/Project-Lyra/",
+      "published": "2026-04-14",
+      "flags": [],
+      "type": "article",
+      "added": "2026-11-14",
+      "first_seen": "2026-11-14",
+      "risk_notes": "",
+      "sources": [
+        "https://x.com/NVIDIAAI/status/2118800021013643269"
+      ],
+      "fetched_at": "2026-11-14T09:09:58.828025+00:00",
+      "path": "articles/2026-04-14-author-lyra-2.0-explorable-generative-3d-worlds.md"
     },
     {
       "name": "Machine-Readable Training Preference Signal",

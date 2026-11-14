@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1072 件 — リポジトリ 720, リンク集 119, 記事 166, モデル 53, プロンプト 14 / ⚑ 要確認 848 件
+収録 1073 件 — リポジトリ 720, リンク集 119, 記事 167, モデル 53, プロンプト 14 / ⚑ 要確認 848 件
 
 ## リポジトリ（720）
 
@@ -1288,9 +1288,9 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（166）
+## 記事（167）
 
-### 記事（103）
+### 記事（104）
 
 - **[$0のデジタル参謀長で月$80,000の契約候補を作ったというX投稿（動画付き）](articles/2026-10-22-bober_smart-0-80-000-x.md)** ⚑  @Bober_smart
 - **[1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md)** ⚑  @mukadeshinigami（mukade死神）
@@ -1351,6 +1351,7 @@
 - **[LLM Wiki](articles/2026-04-04-andrej-karpathy-llm-wiki.md)** ⚑  Andrej Karpathy
 - **[Laddersによる履歴書PDFの抽出評価](articles/2026-11-07-marc-cenedella-ladders-pdf.md)** ⚑  Marc Cenedella
 - **[Last Lecture Series: “How to Win Without Crushing Your Soul” - Graham Weaver（Stanford GSB Class of 2026）](articles/2026-07-14-graham-weaver-stanford-graduate-school-of-business-last-lecture-series-how-to-win-without-f6d1f4ee42.md)** ⚑  Graham Weaver（Stanford Graduate School of Business 公式チャンネル）
+- **[Lyra 2.0: Explorable Generative 3D Worlds](articles/2026-04-14-author-lyra-2.0-explorable-generative-3d-worlds.md)**
 - **[Machine-Readable Training Preference Signal](articles/2026-10-30-k.-kelley-anthropic-machine-readable-training-preference-signal.md)** ⚑  K. Kelley (Anthropic)
 - **[Making Local LLMs Usable on 8GB GPUs](articles/2026-11-02-naresh-waghela-hastimal-jangid-making-local-llms-usable-on-8gb-gpus.md)** ⚑  Naresh Waghela, Hastimal Jangid
 - **[Material Painterを使った部分編集の報告](articles/2026-11-08-ry-heyhaigh-material-painter.md)** ⚑  Ry (@heyhaigh)
