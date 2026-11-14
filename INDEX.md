@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1091 件 — リポジトリ 735, リンク集 119, 記事 170, モデル 53, プロンプト 14 / ⚑ 要確認 865 件
+収録 1092 件 — リポジトリ 736, リンク集 119, 記事 170, モデル 53, プロンプト 14 / ⚑ 要確認 866 件
 
-## リポジトリ（735）
+## リポジトリ（736）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -593,6 +593,40 @@
 | [lab-tts](entries/tts-audio/lakimi-ai-systems-lab-tts.md) ⚑ | 8 | 0 | 月次 | 3 | 2026-11-03 | 2026-11-10 | 2026-11-10 | Apache-2.0 |
 | [Voxarium](entries/tts-audio/ahmadmansy-voxarium.md) ⚑ | 7 | 0 | 毎日 | 40 | 2026-11-08 | 2026-11-13 | 2026-11-13 | AGPL-3.0 |
 
+### 金融・クオンツ（29）
+
+| 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
+|---|---:|---:|---|---:|---|---|---|---|
+| [TradingAgents](entries/finance-quant/tauricresearch-tradingagents.md) ⚑ | 121,734 | 23,299 | 毎日 | 34 | 2026-11-04 | 2026-11-10 | 2026-11-10 | Apache-2.0 |
+| [股票智能分析系统（daily_stock_analysis）](entries/finance-quant/zhulinsen-daily_stock_analysis.md) ⚑ | 69,545 | 56,670 | 毎日 | 34 | 2026-11-10 | 2026-11-10 | 2026-11-11 | MIT |
+| [Freqtrade](entries/finance-quant/freqtrade-freqtrade.md) | 56,701 | 11,723 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
+| [Kronos](entries/finance-quant/shiyu-coder-kronos.md) | 47,426 | 7,839 | 停滞 | 0 | 2026-04-13 | 2026-11-09 | 2026-11-10 | MIT |
+| [CCXT](entries/finance-quant/ccxt-ccxt.md) | 44,839 | 8,963 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [awesome-quant](entries/finance-quant/wilsonfreitas-awesome-quant.md) | 30,551 | 4,327 | 毎日 | 57 | 2026-11-09 | 2026-11-09 | 2026-11-10 | unknown |
+| [backtrader](entries/finance-quant/mementum-backtrader.md) | 23,701 | 5,324 | 停滞 | 0 | 2024-08-19 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
+| [AKShare](entries/finance-quant/akfamily-akshare.md) ⚑ | 23,340 | 3,576 | 毎日 | 100+ | 2026-11-14 | 2026-11-14 | 2026-11-14 | MIT |
+| [machine-learning-for-trading](entries/finance-quant/stefan-jansen-machine-learning-for-trading.md) | 21,767 | 5,767 | 毎日 | 22 | 2026-11-06 | 2026-11-09 | 2026-11-10 | MIT |
+| [Zipline (Quantopian)](entries/finance-quant/quantopian-zipline.md) | 20,224 | 5,064 | 停滞 | 0 | 2024-02-13 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [Lightweight Charts](entries/finance-quant/tradingview-lightweight-charts.md) | 17,828 | 2,700 | 毎日 | 81 | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [TA-Lib Python](entries/finance-quant/ta-lib-ta-lib-python.md) | 12,395 | 2,009 | 毎日 | 36 | 2026-11-09 | 2026-11-09 | 2026-11-10 | BSD-2-Clause |
+| [quant-trading](entries/finance-quant/je-suis-tm-quant-trading.md) | 11,224 | 1,959 | 停滞 | 0 | 2026-06-20 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [vectorbt](entries/finance-quant/polakowo-vectorbt.md) | 9,782 | 1,280 | 毎日 | 49 | 2026-11-08 | 2026-11-09 | 2026-11-10 | Apache-2.0 + Commons Clause（販売不可） |
+| [QuantStats](entries/finance-quant/ranaroussi-quantstats.md) | 7,840 | 1,285 | 月次 | 1 | 2026-11-02 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [Claude Trading Skills](entries/finance-quant/tradermonty-claude-trading-skills.md) ⚑ | 4,511 | 893 | 毎日 | 100+ | 2026-11-14 | 2026-11-14 | 2026-11-14 | MIT |
+| [jev-trader](entries/finance-quant/jarrodwatts-jev-trader.md) ⚑ | 3,135 | 601 | 週次 | 4 | 2026-10-13 | 2026-11-10 | 2026-11-10 | MIT |
+| [cryptofeed](entries/finance-quant/bmoscon-cryptofeed.md) | 3,018 | 791 | 毎日 | 49 | 2026-11-09 | 2026-11-09 | 2026-11-10 | AGPL-3.0 |
+| [QuantSkills](entries/finance-quant/quantskills-quantskills.md) | 2,624 | 242 | 毎日 | 55 | 2026-11-09 | 2026-11-09 | 2026-11-10 | unknown |
+| [skfolio](entries/finance-quant/skfolio-skfolio.md) | 2,618 | 305 | 毎日 | 81 | 2026-11-08 | 2026-11-09 | 2026-11-10 | BSD-3-Clause |
+| [prediction-market-backtesting](entries/finance-quant/evan-kolberg-prediction-market-backtesting.md) ⚑ | 1,267 | 201 | 停滞 | 0 | 2026-05-16 | 2026-11-10 | 2026-11-11 | unknown |
+| [serenity-stock-choke](entries/finance-quant/fadewalk-serenity-stock-choke.md) | 531 | 56 | 月次 | 0 | 2026-10-06 | 2026-11-09 | 2026-11-10 | MIT |
+| [A-Share Quant Selector](entries/finance-quant/dzy-hw-xd-a-share-quant-selector.md) | 513 | 109 | 停滞 | 0 | 2026-09-08 | 2026-11-09 | 2026-11-10 | MIT |
+| [HyperGrok Trading Desk](entries/finance-quant/galleonlabs-hypergrok-trading-desk.md) ⚑ | 472 | 110 | 毎日 | 26 | 2026-11-04 | 2026-11-10 | 2026-11-10 | MIT |
+| [polymarket-trade-engine](entries/finance-quant/kaustubhpatange-polymarket-trade-engine.md) ⚑ | 323 | 91 | 停滞 | 0 | 2026-06-08 | 2026-11-10 | 2026-11-11 | MIT |
+| [trade-jev](entries/finance-quant/justinhe16-trade-jev.md) ⚑ | 13 | 3 | 週次 | 16 | 2026-11-09 | 2026-11-10 | 2026-11-10 | MIT |
+| [Jev Paper Trader](entries/finance-quant/mojoai-king-jev-paper-trader.md) ⚑ | 3 | 1 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | unknown |
+| [JevOnAir](entries/finance-quant/valuecodes-jev-on-air.md) ⚑ | 0 | 0 | 週次 | 11 | 2026-11-09 | 2026-11-10 | 2026-11-10 | MIT |
+| [jev-polymarket-test](entries/finance-quant/truongxxxx-jev-polymarket-test.md) ⚑ | 0 | 0 | 停滞 | 0 | 2026-10-10 | 2026-11-10 | 2026-11-10 | MIT |
+
 ### MCPサーバー（29）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
@@ -626,39 +660,6 @@
 | [Moodle-MCP](entries/mcp-server/faixiang-moodle-mcp.md) ⚑ | 206 | 0 | 毎日 | 20 | 2026-11-01 | 2026-11-13 | 2026-11-14 | MIT |
 | [Kosh](entries/mcp-server/sachinyadavaug20-kosh.md) ⚑ | 4 | 0 | 毎日 | 61 | 2026-11-10 | 2026-11-10 | 2026-11-10 | Apache-2.0 |
 | [gmail-browser-mcp](entries/mcp-server/sparsh101sparsh-gmail-browser-mcp.md) ⚑ | 0 | 0 | 毎日 | 88 | 2026-11-13 | 2026-11-14 | 2026-11-14 | unknown |
-
-### 金融・クオンツ（28）
-
-| 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
-|---|---:|---:|---|---:|---|---|---|---|
-| [TradingAgents](entries/finance-quant/tauricresearch-tradingagents.md) ⚑ | 121,734 | 23,299 | 毎日 | 34 | 2026-11-04 | 2026-11-10 | 2026-11-10 | Apache-2.0 |
-| [股票智能分析系统（daily_stock_analysis）](entries/finance-quant/zhulinsen-daily_stock_analysis.md) ⚑ | 69,545 | 56,670 | 毎日 | 34 | 2026-11-10 | 2026-11-10 | 2026-11-11 | MIT |
-| [Freqtrade](entries/finance-quant/freqtrade-freqtrade.md) | 56,701 | 11,723 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
-| [Kronos](entries/finance-quant/shiyu-coder-kronos.md) | 47,426 | 7,839 | 停滞 | 0 | 2026-04-13 | 2026-11-09 | 2026-11-10 | MIT |
-| [CCXT](entries/finance-quant/ccxt-ccxt.md) | 44,839 | 8,963 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
-| [awesome-quant](entries/finance-quant/wilsonfreitas-awesome-quant.md) | 30,551 | 4,327 | 毎日 | 57 | 2026-11-09 | 2026-11-09 | 2026-11-10 | unknown |
-| [backtrader](entries/finance-quant/mementum-backtrader.md) | 23,701 | 5,324 | 停滞 | 0 | 2024-08-19 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
-| [machine-learning-for-trading](entries/finance-quant/stefan-jansen-machine-learning-for-trading.md) | 21,767 | 5,767 | 毎日 | 22 | 2026-11-06 | 2026-11-09 | 2026-11-10 | MIT |
-| [Zipline (Quantopian)](entries/finance-quant/quantopian-zipline.md) | 20,224 | 5,064 | 停滞 | 0 | 2024-02-13 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [Lightweight Charts](entries/finance-quant/tradingview-lightweight-charts.md) | 17,828 | 2,700 | 毎日 | 81 | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [TA-Lib Python](entries/finance-quant/ta-lib-ta-lib-python.md) | 12,395 | 2,009 | 毎日 | 36 | 2026-11-09 | 2026-11-09 | 2026-11-10 | BSD-2-Clause |
-| [quant-trading](entries/finance-quant/je-suis-tm-quant-trading.md) | 11,224 | 1,959 | 停滞 | 0 | 2026-06-20 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [vectorbt](entries/finance-quant/polakowo-vectorbt.md) | 9,782 | 1,280 | 毎日 | 49 | 2026-11-08 | 2026-11-09 | 2026-11-10 | Apache-2.0 + Commons Clause（販売不可） |
-| [QuantStats](entries/finance-quant/ranaroussi-quantstats.md) | 7,840 | 1,285 | 月次 | 1 | 2026-11-02 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [Claude Trading Skills](entries/finance-quant/tradermonty-claude-trading-skills.md) ⚑ | 4,511 | 893 | 毎日 | 100+ | 2026-11-14 | 2026-11-14 | 2026-11-14 | MIT |
-| [jev-trader](entries/finance-quant/jarrodwatts-jev-trader.md) ⚑ | 3,135 | 601 | 週次 | 4 | 2026-10-13 | 2026-11-10 | 2026-11-10 | MIT |
-| [cryptofeed](entries/finance-quant/bmoscon-cryptofeed.md) | 3,018 | 791 | 毎日 | 49 | 2026-11-09 | 2026-11-09 | 2026-11-10 | AGPL-3.0 |
-| [QuantSkills](entries/finance-quant/quantskills-quantskills.md) | 2,624 | 242 | 毎日 | 55 | 2026-11-09 | 2026-11-09 | 2026-11-10 | unknown |
-| [skfolio](entries/finance-quant/skfolio-skfolio.md) | 2,618 | 305 | 毎日 | 81 | 2026-11-08 | 2026-11-09 | 2026-11-10 | BSD-3-Clause |
-| [prediction-market-backtesting](entries/finance-quant/evan-kolberg-prediction-market-backtesting.md) ⚑ | 1,267 | 201 | 停滞 | 0 | 2026-05-16 | 2026-11-10 | 2026-11-11 | unknown |
-| [serenity-stock-choke](entries/finance-quant/fadewalk-serenity-stock-choke.md) | 531 | 56 | 月次 | 0 | 2026-10-06 | 2026-11-09 | 2026-11-10 | MIT |
-| [A-Share Quant Selector](entries/finance-quant/dzy-hw-xd-a-share-quant-selector.md) | 513 | 109 | 停滞 | 0 | 2026-09-08 | 2026-11-09 | 2026-11-10 | MIT |
-| [HyperGrok Trading Desk](entries/finance-quant/galleonlabs-hypergrok-trading-desk.md) ⚑ | 472 | 110 | 毎日 | 26 | 2026-11-04 | 2026-11-10 | 2026-11-10 | MIT |
-| [polymarket-trade-engine](entries/finance-quant/kaustubhpatange-polymarket-trade-engine.md) ⚑ | 323 | 91 | 停滞 | 0 | 2026-06-08 | 2026-11-10 | 2026-11-11 | MIT |
-| [trade-jev](entries/finance-quant/justinhe16-trade-jev.md) ⚑ | 13 | 3 | 週次 | 16 | 2026-11-09 | 2026-11-10 | 2026-11-10 | MIT |
-| [Jev Paper Trader](entries/finance-quant/mojoai-king-jev-paper-trader.md) ⚑ | 3 | 1 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | unknown |
-| [JevOnAir](entries/finance-quant/valuecodes-jev-on-air.md) ⚑ | 0 | 0 | 週次 | 11 | 2026-11-09 | 2026-11-10 | 2026-11-10 | MIT |
-| [jev-polymarket-test](entries/finance-quant/truongxxxx-jev-polymarket-test.md) ⚑ | 0 | 0 | 停滞 | 0 | 2026-10-10 | 2026-11-10 | 2026-11-10 | MIT |
 
 ### モデル推論・配信（28）
 
@@ -1903,6 +1904,7 @@
 - [kakaocorp/kanana-2-v-decide-3b-2611](models/eval/kakaocorp-kanana-2-v-decide-3b-2611.md) — unverified / 独自Kanana Open LicenseでAPI再販・SI・組込み等の商用提供に別許諾、表示・派生名等に条件。Decision Index61.23等はKakao自己評価。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [TradingAgents](entries/finance-quant/tauricresearch-tradingagents.md) — unverified / 現行版のCLI実行、データ取得の安定性、論文結果の独立再現、実取引での成績は未確認。LLMや外部データの料金・利用条件は提供元と設定に依存し、個別条件は未確認。90日コミット数は計測上限のため100件以上を表す。
 - [股票智能分析系统（daily_stock_analysis）](entries/finance-quant/zhulinsen-daily_stock_analysis.md) — unverified / READMEの説明や掲載例は独立検証された性能・投資効果を示すものではありません。実際の分析精度や各データソースの利用条件・料金はREADMEだけでは確認できません。
+- [AKShare](entries/finance-quant/akfamily-akshare.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Claude Trading Skills](entries/finance-quant/tradermonty-claude-trading-skills.md) — unverified / 利用料金やアカウント要件はREADME記載時点の案内で、変更される可能性がある。
 - [jev-trader](entries/finance-quant/jarrodwatts-jev-trader.md) — unverified / README の遅延値は作者によるモック推論のドライラン計測。実コードの起動、Jev 使用時の遅延・精度、実注文の約定率・収益性、Jev API の料金・利用条件は未検証。発見投稿の Nasdaq 先物成績は別リポジトリの実験。
 - [prediction-market-backtesting](entries/finance-quant/evan-kolberg-prediction-market-backtesting.md) — unverified / READMEには開発中とある。Limitless.exchangeとOpinion.tradeは今後の予定で、Kalshiは公開実行可能なバックテスト経路ではないと記載。ライセンスはAPI上unknownだが、READMEのバッジはMIT + LGPL-3.0-or-laterを示すため、適用範囲は確認が必要。README抜粋にある情報のみを記載。 GitHub APIでライセンスを確認できていません。
