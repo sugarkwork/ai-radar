@@ -1,5 +1,5 @@
 {
-  "count": 1012,
+  "count": 1013,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -20043,6 +20043,37 @@
       "fetched_at": "2026-11-13T06:23:43.862958+00:00",
       "path": "entries/other/ltaoo-wx_channels_download.md",
       "summary": "READMEによると、微信PC版で再生中の视频号動画をダウンロードできます。通常のダウンロードボタンは現在再生中の品質を選び、ドロップダウンから別の品質も選べます。"
+    },
+    {
+      "name": "Blackbird",
+      "genre": "other",
+      "url": "https://github.com/antoniaci/blackbird",
+      "repo": "antoniaci/blackbird",
+      "license": "unknown",
+      "stars": 10154,
+      "language": "Python",
+      "created": "2022-05-06",
+      "updated": "2026-11-03",
+      "forks": 1472,
+      "open_issues": 16,
+      "commits_30d": 5,
+      "commit_cadence": "weekly",
+      "commits_90d": 8,
+      "size_kb": 14580,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "README記載の「低い誤検出率」やAIによるプロファイリングの有効性は独立検証されていない。ライセンスはAPI上unknown。README内のclone先は別リポジトリ p1ngul1n0/blackbird を指しており、対象リポジトリでの実行・依存関係は確認できない。 GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-14",
+      "first_seen": "2026-11-14",
+      "sources": [
+        "https://x.com/ruyi3699/status/2118713263290741015"
+      ],
+      "fetched_at": "2026-11-13T20:09:13.755613+00:00",
+      "path": "entries/other/antoniaci-blackbird.md",
+      "summary": "READMEによると、ユーザー名またはメールアドレスを600以上のプラットフォームで検索し、結果をPDF/CSVに出力するCLI。任意のAI機能は見つかったサイト名を分析してユーザーの行動・技術プロフィールを返すと説明されている。READMEはAIへ送信するのはサイト名のみと主張している。"
     },
     {
       "repo": "open-slide/open-slide",
