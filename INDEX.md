@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1014 件 — リポジトリ 672, リンク集 118, 記事 157, モデル 53, プロンプト 14 / ⚑ 要確認 797 件
+収録 1015 件 — リポジトリ 673, リンク集 118, 記事 157, モデル 53, プロンプト 14 / ⚑ 要確認 798 件
 
-## リポジトリ（672）
+## リポジトリ（673）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（104）
+### その他（105）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Actual Budget](entries/other/actualbudget-actual.md) ⚑ | 30,135 | 3,272 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | MIT |
 | [Claude Code Skills & Plugins](entries/other/alirezarezvani-claude-skills.md) ⚑ | 29,573 | 4,095 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | MIT |
 | [Neural Networks: Zero to Hero](entries/other/karpathy-nn-zero-to-hero.md) ⚑ | 25,433 | 3,697 | 停滞 | 0 | 2024-08-18 | 2026-11-10 | 2026-11-10 | MIT |
+| [SpiderFoot](entries/other/smicallef-spiderfoot.md) ⚑ | 24,564 | 4,081 | 停滞 | 0 | 2026-04-13 | 2026-11-13 | 2026-11-14 | MIT |
 | [ego lite](entries/other/citrolabs-ego-lite.md) ⚑ | 22,387 | 1,269 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | MIT |
 | [res-downloader](entries/other/putyy-res-downloader.md) ⚑ | 21,255 | 2,609 | 停滞 | 0 | 2026-11-11 | 2026-11-13 | 2026-11-13 | Apache-2.0 |
 | [ai-goofish-monitor](entries/other/usagi-org-ai-goofish-monitor.md) ⚑ | 19,101 | 3,116 | 月次 | 0 | 2026-10-10 | 2026-11-10 | 2026-11-10 | MIT |
@@ -1975,6 +1976,7 @@
 - [Actual Budget](entries/other/actualbudget-actual.md) — unverified / 定期支出の検出精度、発見投稿のiPhone向けGrok Botの構成と節約額、独自のAI連携手順の動作は未検証。GitHubのリリース表示と公式ノートの日付が異なるため、公開日時は記載していない。
 - [Claude Code Skills & Plugins](entries/other/alirezarezvani-claude-skills.md) — unverified / メンテナーの検証はClaude Codeでのスキル読み込みを対象とする。生成物の品質や作業時間への効果、CodexやCursorでの挙動、個別スクリプトの実行条件は独立に検証していない。
 - [Neural Networks: Zero to Hero](entries/other/karpathy-nn-zero-to-hero.md) — unverified / 最新リリースのタグと公開日は未確認。ノートブックは実行しておらず、依存ライブラリの対応バージョン、必要な計算資源、学習成果は独立検証していない。外部サービスの利用条件や料金は未確認。
+- [SpiderFoot](entries/other/smicallef-spiderfoot.md) — unverified / モジュールごとのAPIキー要件や料金の詳細はREADMEだけでは特定できない。
 - [ego lite](entries/other/citrolabs-ego-lite.md) — unverified / 公式リリース一覧ではv2.1.0がLatestと表示された。最新リリースへの直接アクセスはタイムアウトし、公開日時は未確認。作者ベンチマークの再現性、ブラウザデータの取り扱い、Spaces間の分離の実効性は未検証。
 - [res-downloader](entries/other/putyy-res-downloader.md) — unverified / README says setup requires allowing certificate installation and network access. It also notes that the system proxy may need to be turned off manually after closing the app.
 - [ai-goofish-monitor](entries/other/usagi-org-ai-goofish-monitor.md) — unverified / 判定精度、通知遅延、現行の闲鱼環境での動作、モデルAPIの実利用料金、最新リリースの公開日時は未確認。プラットフォームの利用条件への適合性は利用形態に依存する。

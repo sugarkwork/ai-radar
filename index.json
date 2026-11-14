@@ -1,5 +1,5 @@
 {
-  "count": 1014,
+  "count": 1015,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -19669,6 +19669,37 @@
       "fetched_at": "2026-11-10T11:50:44+00:00",
       "path": "entries/other/karpathy-nn-zero-to-hero.md",
       "summary": "microgradで誤差逆伝播を追い、makemoreで文字単位のbigramモデルと多層パーセプトロンを実装する。後続の講義はGPTとBPEトークナイザーを扱う。GPT回の補助資料は動画説明欄からたどる。"
+    },
+    {
+      "name": "SpiderFoot",
+      "genre": "other",
+      "url": "https://github.com/smicallef/spiderfoot",
+      "repo": "smicallef/spiderfoot",
+      "license": "MIT",
+      "stars": 24564,
+      "language": "Python",
+      "created": "2012-04-28",
+      "updated": "2026-04-13",
+      "forks": 4081,
+      "open_issues": 406,
+      "commits_30d": 0,
+      "commit_cadence": "stale",
+      "commits_90d": 0,
+      "size_kb": 16517,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "モジュールごとのAPIキー要件や料金の詳細はREADMEだけでは特定できない。",
+      "type": "repo",
+      "added": "2026-11-14",
+      "first_seen": "2026-11-14",
+      "sources": [
+        "https://x.com/ruyi3699/status/2118713263290741015"
+      ],
+      "fetched_at": "2026-11-13T20:09:38.798685+00:00",
+      "path": "entries/other/smicallef-spiderfoot.md",
+      "summary": "Web UIまたはCLIからOSINT調査を行い、200超のモジュールで情報源の照会・データ分析を行う。CSV、JSON、GEXFへのエクスポート、SQLiteバックエンド、可視化、YAML設定可能な相関エンジンを備えるとREADMEに記載。"
     },
     {
       "repo": "citrolabs/ego-lite",
