@@ -1,5 +1,5 @@
 {
-  "count": 1104,
+  "count": 1105,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -13996,6 +13996,37 @@
       "fetched_at": "2026-11-14T15:08:18.472413+00:00",
       "path": "entries/finance-quant/tradermonty-claude-trading-skills.md",
       "summary": "市場状況の確認、ポートフォリオレビュー、スイング候補の探索、リスク管理、トレード記録と振り返りのワークフローを提供する。READMEでは、AIに売買判断を委ねるのではなく、判断プロセスを構造化するためのツールキットと説明している。"
+    },
+    {
+      "name": "Vibe Research",
+      "genre": "finance-quant",
+      "url": "https://github.com/simonlin1212/Vibe-Research",
+      "repo": "simonlin1212/Vibe-Research",
+      "license": "MIT",
+      "stars": 3712,
+      "language": "TypeScript",
+      "created": "2026-07-05",
+      "updated": "2026-11-12",
+      "forks": 699,
+      "open_issues": 4,
+      "commits_30d": 26,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 24056,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEでは、行情は腾讯のスナップショットで逐筆リアルタイムではないと説明されている。AIの調査内容や算出結果の正確性は、READMEだけでは独立に確認できない。",
+      "type": "repo",
+      "added": "2026-11-14",
+      "first_seen": "2026-11-14",
+      "sources": [
+        "https://x.com/bkdgiffug/status/2118895966543651094"
+      ],
+      "fetched_at": "2026-11-14T22:09:19.228674+00:00",
+      "path": "entries/finance-quant/simonlin1212-vibe-research.md",
+      "summary": "A株・米株・香港株の行情・財務・ニュースなどを使った投研ワーク台。READMEでは、個別銘柄の6段階調査と根拠付きレポート、バックテスト、取引履歴に基づく保有状況の確認、PDF・Word等の資料検索、対話型AIを使った調査を説明している。データ端点は168個と記載されている。"
     },
     {
       "repo": "jarrodwatts/jev-trader",
