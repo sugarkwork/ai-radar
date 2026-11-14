@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1102 件 — リポジトリ 744, リンク集 119, 記事 172, モデル 53, プロンプト 14 / ⚑ 要確認 876 件
+収録 1103 件 — リポジトリ 745, リンク集 119, 記事 172, モデル 53, プロンプト 14 / ⚑ 要確認 877 件
 
-## リポジトリ（744）
+## リポジトリ（745）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（137）
+### その他（138）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Storyboarder](entries/other/wonderunit-storyboarder.md) ⚑ | 3,946 | 404 | 停滞 | 0 | 2024-03-17 | 2026-11-11 | 2026-11-11 | unknown |
 | [shodan-python](entries/other/achillean-shodan-python.md) ⚑ | 3,487 | 785 | 停滞 | 0 | 2024-08-05 | 2026-11-13 | 2026-11-14 | unknown |
 | [Tendedero](entries/other/alejandrobujan-tendedero.md) ⚑ | 3,198 | 290 | 毎日 | 62 | 2026-11-12 | 2026-11-13 | 2026-11-14 | unknown |
+| [Open Source Face Recognition SDK](entries/other/faceplugin-ltd-open-source-face-recognition-sdk.md) ⚑ | 3,161 | 530 | 月次 | 0 | 2026-10-02 | 2026-11-14 | 2026-11-14 | unknown |
 | [Vexa](entries/other/vexa-ai-vexa.md) ⚑ | 2,965 | 544 | 週次 | 4 | 2026-11-09 | 2026-11-10 | 2026-11-10 | Apache-2.0 |
 | [Rhubarb Lip Sync](entries/other/danielswolf-rhubarb-lip-sync.md) ⚑ | 2,763 | 329 | 停滞 | 0 | 2026-06-16 | 2026-11-12 | 2026-11-12 | unknown |
 | [KUTE.js](entries/other/thednp-kute.js.md) ⚑ | 2,651 | 173 | 停滞 | 0 | 2026-03-26 | 2026-11-14 | 2026-11-14 | MIT |
@@ -2150,6 +2151,7 @@
 - [Storyboarder](entries/other/wonderunit-storyboarder.md) — unverified / ライセンスは確認できていません（GitHub API値: unknown）。 GitHub APIでライセンスを確認できていません。
 - [shodan-python](entries/other/achillean-shodan-python.md) — unverified / READMEにはライセンス情報がなく、ライセンスは確認できていない。利用にはShodan APIキーが必要。 GitHub APIでライセンスを確認できていません。
 - [Tendedero](entries/other/alejandrobujan-tendedero.md) — unverified / GitHub APIでライセンスを確認できていません。
+- [Open Source Face Recognition SDK](entries/other/faceplugin-ltd-open-source-face-recognition-sdk.md) — low-quality, unverified / README заявляет «high accuracy», «real-time» и «completely free», но не приводит измерений точности или скорости; лицензионные условия не указаны. Эти заявления не представлены как независимо проверенные факты. README называет SDK бесплатным и открытым, но API указывает лицензию как unknown. Условия использования и лицензирования не подтверждены. GitHub APIでライセンスを確認できていません。
 - [Vexa](entries/other/vexa-ai-vexa.md) — unverified / 会議への参加、文字起こしの精度・遅延、話者割り当て、Macでの起動、MCP接続は独立実測なし。Jitsiのライブ検証はREADME上で保留。最新リリースの公開日時は年とタイムゾーンまで確認できなかった。
 - [Rhubarb Lip Sync](entries/other/danielswolf-rhubarb-lip-sync.md) — unverified / ライセンスは提供されたリポジトリ情報で確認できず、unknownです。 GitHub APIでライセンスを確認できていません。
 - [KUTE.js](entries/other/thednp-kute.js.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。

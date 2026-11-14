@@ -1,5 +1,5 @@
 {
-  "count": 1102,
+  "count": 1103,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -22557,6 +22557,38 @@
       "fetched_at": "2026-11-13T23:19:39.918997+00:00",
       "path": "entries/other/alejandrobujan-tendedero.md",
       "summary": "macOSのメニューバー付近にラインを表示し、スクリーンショットやコピーしたテキスト・リンク・画像を一時保持する。項目のコピー、Markupでの編集、プレビュー、アプリやフォルダへのドラッグ、共有、ピン留め、検索に対応する。スクリーン録画の保持とトリミング、画像内テキストの検索もREADMEに記載されている。"
+    },
+    {
+      "name": "Open Source Face Recognition SDK",
+      "genre": "other",
+      "url": "https://github.com/Faceplugin-ltd/Open-Source-Face-Recognition-SDK",
+      "repo": "Faceplugin-ltd/Open-Source-Face-Recognition-SDK",
+      "license": "unknown",
+      "language": "Python",
+      "commit_cadence": "monthly",
+      "flags": [
+        "low-quality",
+        "unverified"
+      ],
+      "risk_notes": "README заявляет «high accuracy», «real-time» и «completely free», но не приводит измерений точности или скорости; лицензионные условия не указаны. Эти заявления не представлены как независимо проверенные факты. README называет SDK бесплатным и открытым, но API указывает лицензию как unknown. Условия использования и лицензирования не подтверждены. GitHub APIでライセンスを確認できていません。",
+      "stars": 3161,
+      "forks": 530,
+      "open_issues": 0,
+      "size_kb": 55916,
+      "created": "2025-01-17",
+      "updated": "2026-10-02",
+      "archived": false,
+      "commits_30d": 0,
+      "commits_90d": 3,
+      "type": "repo",
+      "added": "2026-11-14",
+      "first_seen": "2026-11-14",
+      "sources": [
+        "https://x.com/bkdgiffug/status/2118888416800542983"
+      ],
+      "fetched_at": "2026-11-14T20:12:49.311748+00:00",
+      "path": "entries/other/faceplugin-ltd-open-source-face-recognition-sdk.md",
+      "summary": "READMEによると、画像から顔を検出してバウンディングボックス、顔のランドマーク、特徴量埋め込みを取得できます。2つの埋め込みを比較し、0〜100の類似度スコアを返すAPIも説明されています。対応画像形式としてJPG、PNG、BMP、TIFFが挙げられています。"
     },
     {
       "repo": "Vexa-ai/vexa",
