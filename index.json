@@ -1,5 +1,5 @@
 {
-  "count": 1023,
+  "count": 1024,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -411,6 +411,37 @@
       "fetched_at": "2026-11-10T08:51:17Z",
       "path": "entries/3d-motion/freemocap-freemocap.md",
       "summary": "Webカメラ1台で身体の2Dキーポイントを追跡し、2Dアニメーションの動きの参照に使える。3Dモーションキャプチャは2台以上で行い、公式ガイドは3台を推奨する。"
+    },
+    {
+      "name": "@react-three/drei",
+      "genre": "3d-motion",
+      "url": "https://github.com/pmndrs/drei",
+      "repo": "pmndrs/drei",
+      "license": "MIT",
+      "stars": 10154,
+      "language": "JavaScript",
+      "created": "2020-04-26",
+      "updated": "2026-10-21",
+      "forks": 871,
+      "open_issues": 151,
+      "commits_30d": 0,
+      "commit_cadence": "monthly",
+      "commits_90d": 7,
+      "size_kb": 53178,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景・有効性・依存関係・実行条件。",
+      "type": "repo",
+      "added": "2026-11-14",
+      "first_seen": "2026-11-14",
+      "sources": [
+        "https://x.com/thegreatest_sv/status/2118724335905148990"
+      ],
+      "fetched_at": "2026-11-13T21:14:10.221291+00:00",
+      "path": "entries/3d-motion/pmndrs-drei.md",
+      "summary": "@react-three/fiber向けのヘルパーおよび機能を備えた抽象化コンポーネントを提供する。READMEにはカメラ、操作コントロール、ローダー、シェーダー、パフォーマンス関連コンポーネントなどが掲載されている。出典: https://github.com/pmndrs/drei"
     },
     {
       "repo": "diffusionstudio/lottie",
