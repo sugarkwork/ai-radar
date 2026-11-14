@@ -1,5 +1,5 @@
 {
-  "count": 1056,
+  "count": 1057,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -19783,6 +19783,37 @@
       "fetched_at": "2026-11-10T11:52:22Z",
       "path": "entries/other/karpathy-nanochat.md",
       "summary": "トークナイザー学習、事前学習、教師あり微調整、評価、対話推論を一つのリポジトリで実施できる。"
+    },
+    {
+      "name": "Jellyfin Server",
+      "genre": "other",
+      "url": "https://github.com/jellyfin/jellyfin",
+      "repo": "jellyfin/jellyfin",
+      "license": "GPL-2.0",
+      "stars": 59334,
+      "language": "C#",
+      "created": "2018-12-09",
+      "updated": "2026-11-13",
+      "forks": 5810,
+      "open_issues": 900,
+      "commits_30d": 60,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 79350,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景・有効性・依存関係・実行条件。",
+      "type": "repo",
+      "added": "2026-11-14",
+      "first_seen": "2026-11-14",
+      "sources": [
+        "https://x.com/bkdgiffug/status/2118778945424212086"
+      ],
+      "fetched_at": "2026-11-14T05:15:48.430386+00:00",
+      "path": "entries/other/jellyfin-jellyfin.md",
+      "summary": "メディアを管理し、専用サーバーから複数のアプリを使うエンドユーザー端末へストリーミングするFree Softwareのメディアシステムです。READMEでは、Jellyfin Serverリポジトリはバックエンドサーバーのコードを含むと説明しています。"
     },
     {
       "name": "Motrix",
