@@ -1,5 +1,5 @@
 {
-  "count": 1092,
+  "count": 1093,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -11413,6 +11413,37 @@
       "fetched_at": "2026-11-10T10:03:12Z",
       "path": "entries/coding-agent/coleam00-second-brain-starter.md",
       "summary": "利用ツール、優先タスク、自律度、許可範囲を記入した要件から、実装順と段階間の依存関係を含む9段階のPRDを生成する。各機能の実装はPRD生成後の工程になる。"
+    },
+    {
+      "name": "yuwen-publish-precheck｜发布前审",
+      "genre": "coding-agent",
+      "url": "https://github.com/yuwen-cool/yuwen-publish-precheck",
+      "repo": "yuwen-cool/yuwen-publish-precheck",
+      "license": "MIT",
+      "stars": 814,
+      "language": "Python",
+      "created": "2026-07-15",
+      "updated": "2026-10-08",
+      "forks": 77,
+      "open_issues": 0,
+      "commits_30d": 0,
+      "commit_cadence": "monthly",
+      "commits_90d": 4,
+      "size_kb": 130,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "検出精度やプラットフォームでの審査結果に関する説明はREADME内の作者の記述・例であり、独立した検証結果ではない。README自身も審査通過を保証せず、最終判断はプラットフォーム側に依存するとしている。",
+      "type": "repo",
+      "added": "2026-11-14",
+      "first_seen": "2026-11-14",
+      "sources": [
+        "https://x.com/ruyi3699/status/2118862747832025357"
+      ],
+      "fetched_at": "2026-11-14T15:12:36.236268+00:00",
+      "path": "entries/coding-agent/yuwen-cool-yuwen-publish-precheck.md",
+      "summary": "READMEによると、抖音・小红书・微信视频号向けに投稿文を確認し、問題箇所の指摘、修正文の提案、修正後の再確認を行う。利用者のルールや事例をローカルの data/ に蓄積する機能も説明されている。"
     },
     {
       "name": "claude-motion-design",
