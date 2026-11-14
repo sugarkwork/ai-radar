@@ -1,5 +1,5 @@
 {
-  "count": 1045,
+  "count": 1046,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -19581,6 +19581,37 @@
       "fetched_at": "2026-11-10T11:52:22Z",
       "path": "entries/other/karpathy-nanochat.md",
       "summary": "トークナイザー学習、事前学習、教師あり微調整、評価、対話推論を一つのリポジトリで実施できる。"
+    },
+    {
+      "name": "Motrix",
+      "genre": "other",
+      "url": "https://github.com/agalwood/Motrix",
+      "repo": "agalwood/Motrix",
+      "license": "unknown",
+      "stars": 58239,
+      "language": "TypeScript",
+      "created": "2018-12-18",
+      "updated": "2026-11-09",
+      "forks": 5150,
+      "open_issues": 160,
+      "commits_30d": 95,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 106671,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEには更新前に既存プロフィールとダウンロードのバックアップが必要と記載されています。v2エンジンはSQLiteをschema 6へ更新し、旧エンジンではschema 6を開けないため、ダウングレードの可能性がある場合は更新前バックアップを保持してください。 GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-14",
+      "first_seen": "2026-11-14",
+      "sources": [
+        "https://x.com/ruyi3699/status/2118761581547012468"
+      ],
+      "fetched_at": "2026-11-14T03:10:58.387536+00:00",
+      "path": "entries/other/agalwood-motrix.md",
+      "summary": "HTTP・FTP・BitTorrent・magnetリンクなどのダウンロードを管理するデスクトップアプリです。READMEには、ファイル単位の選択、トラッカー管理、速度制限、再起動後のダウンロード復元、ブラウザー拡張からのダウンロード引き渡し、ヘッドレスサーバー、URL Resolverプラグインなどが記載されています"
     },
     {
       "repo": "skylot/jadx",

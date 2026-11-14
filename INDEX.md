@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1045 件 — リポジトリ 697, リンク集 119, 記事 162, モデル 53, プロンプト 14 / ⚑ 要確認 824 件
+収録 1046 件 — リポジトリ 698, リンク集 119, 記事 162, モデル 53, プロンプト 14 / ⚑ 要確認 825 件
 
-## リポジトリ（697）
+## リポジトリ（698）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（115）
+### その他（116）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -24,6 +24,7 @@
 | [nanoGPT](entries/other/karpathy-nanogpt.md) ⚑ | 64,598 | 11,112 | 停滞 | 0 | 2025-11-12 | 2026-11-10 | 2026-11-10 | MIT |
 | [Memos](entries/other/usememos-memos.md) ⚑ | 64,375 | 4,946 | 毎日 | 74 | 2026-11-09 | 2026-11-10 | 2026-11-10 | MIT |
 | [nanochat](entries/other/karpathy-nanochat.md) ⚑ | 60,415 | 8,471 | 停滞 | 0 | 2026-09-07 | 2026-11-10 | 2026-11-10 | MIT |
+| [Motrix](entries/other/agalwood-motrix.md) ⚑ | 58,239 | 5,150 | 毎日 | 95 | 2026-11-09 | 2026-11-14 | 2026-11-14 | unknown |
 | [JADX](entries/other/skylot-jadx.md) ⚑ | 51,735 | 5,928 | 毎日 | 28 | 2026-11-08 | 2026-11-10 | 2026-11-10 | Apache-2.0 |
 | [PixiJS](entries/other/pixijs-pixijs.md) ⚑ | 48,675 | 5,143 | 毎日 | 37 | 2026-11-11 | 2026-11-12 | 2026-11-12 | MIT |
 | [Paperless-ngx](entries/other/paperless-ngx-paperless-ngx.md) ⚑ | 47,969 | 3,372 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | GPL-3.0 |
@@ -2006,6 +2007,7 @@
 - [nanoGPT](entries/other/karpathy-nanogpt.md) — unverified / 最新リリース、現行の依存パッケージとの互換性、学習時間と検証損失の再現性は未確認。学習結果はREADMEの著者報告。MITはリポジトリのライセンスで、外部データや事前学習済み重みの利用条件は未確認。
 - [Memos](entries/other/usememos-memos.md) — unverified / Docker起動、MCPクライアントからの接続、検索結果の品質や応答速度は独立実測していない。発見投稿にあるGrok Botとの接続は未確認。
 - [nanochat](entries/other/karpathy-nanochat.md) — unverified / 最新リリースのタグと公開日は未確認。学習時間とCOREスコアはプロジェクトの報告で、独立再現は行っていない。実際のGPU利用料金、学習データの個別の利用条件、CLIの実行動作は未検証。
+- [Motrix](entries/other/agalwood-motrix.md) — unverified / READMEには更新前に既存プロフィールとダウンロードのバックアップが必要と記載されています。v2エンジンはSQLiteをschema 6へ更新し、旧エンジンではschema 6を開けないため、ダウングレードの可能性がある場合は更新前バックアップを保持してください。 GitHub APIでライセンスを確認できていません。
 - [JADX](entries/other/skylot-jadx.md) — unverified / 最新版のタグと公開日時は未確認。READMEの機能記載を確認した範囲で、逆コンパイルの精度、実行環境ごとの動作、AIによる要約の品質は実測していない。READMEは逆コンパイル時にエラーが生じうると明記している。
 - [PixiJS](entries/other/pixijs-pixijs.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Paperless-ngx](entries/other/paperless-ngx-paperless-ngx.md) — unverified / OCR精度、検索性能、外部AIからの接続は実機で未検証。最新リリースのタグと公開日時は /releases/latest で未確認。コミット数は両期間とも取得上限のため100件以上。
