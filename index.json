@@ -1,5 +1,5 @@
 {
-  "count": 1101,
+  "count": 1102,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -7991,6 +7991,24 @@
       ],
       "fetched_at": "2026-11-10T09:11:27Z",
       "path": "articles/2026-11-02-author-garry-tan-ai.md"
+    },
+    {
+      "name": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "genre": "article",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+      "published": "2026-11-05",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "Google Vidsの「毎月無料で3本」およびGeminiアプリの「全Google AI契約者が多輪編集可能」という条件は、確認した公式記事では裏付けられません。利用条件・無料枠は本文の根拠として採用していません。",
+      "type": "article",
+      "added": "2026-11-14",
+      "first_seen": "2026-11-14",
+      "sources": [
+        "https://x.com/ganfanren_ai/status/2118888378775330893"
+      ],
+      "fetched_at": "2026-11-14T20:11:42.102311+00:00",
+      "path": "articles/2026-11-05-author-gemini-omni-1.2-flash-fast-and-cost-effective-with-longer-clips.md"
     },
     {
       "name": "Genesis Agent Skillsの公開発表",

@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1101 件 — リポジトリ 744, リンク集 119, 記事 171, モデル 53, プロンプト 14 / ⚑ 要確認 875 件
+収録 1102 件 — リポジトリ 744, リンク集 119, 記事 172, モデル 53, プロンプト 14 / ⚑ 要確認 876 件
 
 ## リポジトリ（744）
 
@@ -1312,9 +1312,9 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（171）
+## 記事（172）
 
-### 記事（108）
+### 記事（109）
 
 - **[$0のデジタル参謀長で月$80,000の契約候補を作ったというX投稿（動画付き）](articles/2026-10-22-bober_smart-0-80-000-x.md)** ⚑  @Bober_smart
 - **[1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md)** ⚑  @mukadeshinigami（mukade死神）
@@ -1358,6 +1358,7 @@
 - **[GPT‑6 Cyber の公式発表](articles/2026-11-05-openai-gpt-6-cyber.md)** ⚑  OpenAI
 - **[GPTでアバターを複数の作品風スタイルに展開する](articles/2026-10-28-aiwarper-gpt.md)** ⚑  AIWarper
 - **[Garry Tanの個人向けAIエージェント運用事例](articles/2026-11-02-author-garry-tan-ai.md)** ⚑
+- **[Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips](articles/2026-11-05-author-gemini-omni-1.2-flash-fast-and-cost-effective-with-longer-clips.md)** ⚑
 - **[Genesis Agent Skillsの公開発表](articles/2026-10-15-u.s.-department-of-energy-office-of-science-genesis-agent-skills.md)** ⚑  U.S. Department of Energy Office of Science
 - **[GitHub Copilot週次更新（11月2日の週）](articles/2026-11-06-github-github-copilot-11-2.md)** ⚑  GitHub
 - **[Giving every team a data scientist with Grok Bot](articles/2026-11-02-author-giving-every-team-a-data-scientist-with-grok-bot.md)** ⚑
@@ -1729,6 +1730,7 @@
 - [GPT‑6 Cyber の公式発表](articles/2026-11-05-openai-gpt-6-cyber.md) — unverified / Firefox と Linux の件数および評価スコアは OpenAI の報告値。個別事例の再現、修正の網羅性、実運用環境での評価結果の一般化は未検証。
 - [GPTでアバターを複数の作品風スタイルに展開する](articles/2026-10-28-aiwarper-gpt.md) — unverified / 投稿者の実践メモです。効果・原因・再現条件は独立した資料では未確認です。
 - [Garry Tanの個人向けAIエージェント運用事例](articles/2026-11-02-author-garry-tan-ai.md) — unverified / 支出は本人の概算。番組公式ページで該当回の掲載を確認したが、発言はTechCrunchの引用に基づく。使用モデル、データ連携時の権限設定、データ保持条件、作業効果の実測値は未確認。
+- [Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips](articles/2026-11-05-author-gemini-omni-1.2-flash-fast-and-cost-effective-with-longer-clips.md) — unverified / Google Vidsの「毎月無料で3本」およびGeminiアプリの「全Google AI契約者が多輪編集可能」という条件は、確認した公式記事では裏付けられません。利用条件・無料枠は本文の根拠として採用していません。
 - [Genesis Agent Skillsの公開発表](articles/2026-10-15-u.s.-department-of-energy-office-of-science-genesis-agent-skills.md) — unverified / 元のX投稿と短縮URLの転送先は未確認。機能は発表元の説明に基づき、対応する実行環境、導入手順、性能や再現性への効果は未検証。
 - [GitHub Copilot週次更新（11月2日の週）](articles/2026-11-06-github-github-copilot-11-2.md) — unverified / Xcode統合はパブリックプレビュー。JetBrains Airのクラウド実行は組織設定に依存。
 - [Giving every team a data scientist with Grok Bot](articles/2026-11-02-author-giving-every-team-a-data-scientist-with-grok-bot.md) — unverified / 分析精度と工数削減は独立に検証していない。導入先で必要となる権限設定の詳細、現行の料金、社内スキルの再配布条件は未確認。
