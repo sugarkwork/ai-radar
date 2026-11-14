@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1081 件 — リポジトリ 726, リンク集 119, 記事 169, モデル 53, プロンプト 14 / ⚑ 要確認 855 件
+収録 1082 件 — リポジトリ 727, リンク集 119, 記事 169, モデル 53, プロンプト 14 / ⚑ 要確認 856 件
 
-## リポジトリ（726）
+## リポジトリ（727）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（132）
+### その他（133）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -143,6 +143,7 @@
 | [duckdb-jev](entries/other/prasanthj-duckdb-jev.md) ⚑ | 14 | 3 | 月次 | 2 | 2026-10-21 | 2026-11-10 | 2026-11-11 | Apache-2.0 |
 | [Jev Grand Prix](entries/other/enoyola-jev-grand-prix.md) ⚑ | 7 | 0 | 月次 | 0 | 2026-09-21 | 2026-11-10 | 2026-11-11 | MIT |
 | [剪坊](entries/other/tuyetloanpham08-png-jianfang.md) ⚑ | 7 | 1 | 月次 | 2 | 2026-10-20 | 2026-11-11 | 2026-11-11 | unknown |
+| [Pay Small Check](entries/other/ahmardchain-pay-small-check.md) ⚑ | 1 | 0 | 毎日 | 32 | 2026-11-07 | 2026-11-14 | 2026-11-14 | MIT |
 | [LapDraw](entries/other/sachinyadavaug20-lapdraw.md) ⚑ | 0 | 0 | 毎日 | 22 | 2026-11-07 | 2026-11-13 | 2026-11-13 | MIT |
 
 ### コーディングエージェント（104）
@@ -2163,6 +2164,7 @@
 - [duckdb-jev](entries/other/prasanthj-duckdb-jev.md) — unverified / 性能値は開発者が合成データで計測したもので、独立再測定、実データでの分類精度、TypeSafeの現行料金・データ保持条件は未確認。公開リリースのタグは確認済みで、公開日時と配布物の動作は未確認。
 - [Jev Grand Prix](entries/other/enoyola-jev-grand-prix.md) — unverified / 作者の試走結果は独立再現していない。TypeSafe APIの現在の料金、利用規約、キーの発行条件は未確認。
 - [剪坊](entries/other/tuyetloanpham08-png-jianfang.md) — unverified / Apple Silicon MacとmacOS 26以降が必要。プレビュー版はApple Developer ID署名・公証がなく、初回起動時にmacOSの許可操作が必要な場合がある。READMEではIntel Macで未検証とされる。 GitHub APIでライセンスを確認できていません。
+- [Pay Small Check](entries/other/ahmardchain-pay-small-check.md) — unverified / 判定の正確さや詐欺被害を防ぐ効果は確認できない。README記載の購入者価格は1チェックあたり$0.08。
 - [169Pi/Alpie_seed](models/other/169pi-alpie_seed.md) — unverified / 61.20はMini-SWE-agent・thinking有効・再試行なし・temperature0のモデルカード自己報告。latestタグだけで画像入力可能とは判断しない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Clover 35B-A3B（拡散型 MoE）](models/other/diffuspace-clover-35b-a3b-preview.md) — unverified / tok/s 比較は投稿者環境の一例で、モデルカードに計測条件の記載がない。
 - [DeepSeek-V4-Pro-Qwen3.5-9B UNCENSORED（Heretic ARA）](models/other/xtools-at-deepseek-v4-pro-qwen3.5-9b-uncensored-heretic.md) — unverified / モデルとライセンスは実在（HF APIで2026-11-08に確認: DL 1,369・likes 564・apache-2.0・Qwen3_5ForConditionalGeneration）。ただし投稿の主張は未検証か誤りを含む: 『Hugging Faceのサーバーが落ちた』は障害記録がなく誤り。『拒否率100/100→3/100』『KL 0.0422』『25万点蒸留』『知能を1点も失わない』はモデルカードの自己申告で第三者追試なし。カードのGSM8K 94.50%/MMLU-Pro 90.53%は拒否除去前のJackrong版の数字で、heretic版の能力評価は未提出。公式リポジトリはBF16のみでGGUFは第三者変換。そのQ4_K_M 5.63GBは変換時点でconfig.jsonのmtp_num_hidden_layers=1と実ウェイトが食い違い、llama.cppがGGML_ASSERTで落ちる（作者が11/08にMTPテンソルを復元したが再量子化は未実施）。『どの端末でも数秒』は誇張で、CPUのみは変換者計測で約1 t/s。同名の非公式再アップロードが複数あり、クローンからの取得は避ける。当方でGPU推論・llama.cpp実行は未実施（runs_verified=false）。
