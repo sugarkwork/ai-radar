@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1070 件 — リポジトリ 719, リンク集 119, 記事 165, モデル 53, プロンプト 14 / ⚑ 要確認 846 件
+収録 1071 件 — リポジトリ 720, リンク集 119, 記事 165, モデル 53, プロンプト 14 / ⚑ 要確認 847 件
 
-## リポジトリ（719）
+## リポジトリ（720）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -460,7 +460,7 @@
 | [utillayer/youtube-agent-skill](entries/video-gen/utillayer-youtube-agent-skill.md) ⚑ | 14 | 2 | 週次 | 16 | 2026-10-29 | 2026-11-09 | 2026-11-10 | MIT |
 | [BennyDaBall930/comfyui_hyperflow_int8_nodes](entries/video-gen/bennydaball930-comfyui_hyperflow_int8_nodes.md) ⚑ | 3 | 0 | 週次 | 10 | 2026-11-09 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
 
-### 3D・モーション（70）
+### 3D・モーション（71）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -494,6 +494,7 @@
 | [UniRig](entries/3d-motion/vast-ai-research-unirig.md) | 2,081 | 206 | 停滞 | 0 | 2026-06-04 | 2026-11-09 | 2026-11-10 | MIT |
 | [three-gpu-pathtracer](entries/3d-motion/gkjohnson-three-gpu-pathtracer.md) ⚑ | 2,037 | 200 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | MIT |
 | [dream-loop](entries/3d-motion/achimala-dream-loop.md) ⚑ | 1,914 | 193 | 月次 | 0 | 2026-09-09 | 2026-11-10 | 2026-11-10 | MIT |
+| [Inochi2D](entries/3d-motion/inochi2d-inochi2d.md) ⚑ | 1,863 | 76 | 月次 | 1 | 2026-11-10 | 2026-11-14 | 2026-11-14 | BSD-2-Clause |
 | [StableGen](entries/3d-motion/sakalond-stablegen.md) | 1,632 | 163 | 毎日 | 100+ | 2026-11-04 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
 | [React Three Rapier](entries/3d-motion/pmndrs-react-three-rapier.md) ⚑ | 1,613 | 106 | 停滞 | 0 | 2026-10-12 | 2026-11-13 | 2026-11-14 | MIT |
 | [react-postprocessing](entries/3d-motion/pmndrs-react-postprocessing.md) ⚑ | 1,589 | 164 | 週次 | 7 | 2026-10-21 | 2026-11-13 | 2026-11-14 | MIT |
@@ -1528,6 +1529,7 @@
 - [pixiv/three-vrm](entries/3d-motion/pixiv-three-vrm.md) — unverified / v3.6.0-beta.0のVRMC_springBone_limitはBeta拡張。MITはコードの条件で、各VRMの人物・衣装・モデルの権利は別。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [three-gpu-pathtracer](entries/3d-motion/gkjohnson-three-gpu-pathtracer.md) — unverified / ['GitHub の最新リリースは未確認。依存関係と導入手順は main ブランチの公開資料に基づく。', '描画速度、収束時間、画質、端末別の互換性、特定のAIモデルとの連携は実測していない。']
 - [dream-loop](entries/3d-motion/achimala-dream-loop.md) — unverified / ['最新リリースは取得がタイムアウトしたため未確認。', '作者のREADMEではCodex上のGPT-6 Astraのみでテスト済み。Claude Opus 5.5での動作、比較ベンチマーク、デモの画質・FPS、実行費用は未検証。']
+- [Inochi2D](entries/3d-motion/inochi2d-inochi2d.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [React Three Rapier](entries/3d-motion/pmndrs-react-three-rapier.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [react-postprocessing](entries/3d-motion/pmndrs-react-postprocessing.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [motionmaxxing](entries/3d-motion/tejashmakwana-motionmaxxing.md) — unverified / 現行版の生成品質、実行互換性、レンダリング性能は独立検証していない。作者のブラインド比較は旧版を対象とした単一評価者の結果で、作例の映像品質も評価していない。紹介投稿の冒頭にある参照動画の再現能力は、このリポジトリについて確認できていない。

@@ -1,5 +1,5 @@
 {
-  "count": 1070,
+  "count": 1071,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -998,6 +998,37 @@
       "fetched_at": "2026-11-10T08:25:19+00:00",
       "path": "entries/3d-motion/achimala-dream-loop.md",
       "summary": "ゲームやアプリの目標スクリーンショットを生成し、実装のキャプチャとの差をAIが指摘する。エージェントはその指摘をもとに実装を修正する。"
+    },
+    {
+      "name": "Inochi2D",
+      "genre": "3d-motion",
+      "url": "https://github.com/Inochi2D/inochi2d",
+      "repo": "Inochi2D/inochi2d",
+      "license": "BSD-2-Clause",
+      "stars": 1863,
+      "language": "D",
+      "created": "2020-10-08",
+      "updated": "2026-11-10",
+      "forks": 76,
+      "open_issues": 13,
+      "commits_30d": 1,
+      "commit_cadence": "monthly",
+      "commits_90d": 6,
+      "size_kb": 4381,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景・有効性・依存関係・実行条件。",
+      "type": "repo",
+      "added": "2026-11-14",
+      "first_seen": "2026-11-14",
+      "sources": [
+        "https://x.com/aikangarooking/status/2121444332091965629"
+      ],
+      "fetched_at": "2026-11-14T08:07:11.688502+00:00",
+      "path": "entries/3d-motion/inochi2d-inochi2d.md",
+      "summary": "レイヤーアートから作成した2Dメッシュを実行時にパラメータに応じて変形し、2Dアートに奥行きや動きを見せるリアルタイム2Dパペットアニメーション用ライブラリ。Inochi2D Puppet標準のリファレンス実装。SDKはD言語のほか、C FFIを通じて他言語から利用でき、Godot向けGDExtensionとWebAs"
     },
     {
       "repo": "sakalond/StableGen",
