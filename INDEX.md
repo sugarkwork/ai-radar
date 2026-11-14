@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1047 件 — リポジトリ 699, リンク集 119, 記事 162, モデル 53, プロンプト 14 / ⚑ 要確認 826 件
+収録 1048 件 — リポジトリ 700, リンク集 119, 記事 162, モデル 53, プロンプト 14 / ⚑ 要確認 827 件
 
-## リポジトリ（699）
+## リポジトリ（700）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -238,7 +238,7 @@
 | [Berth](entries/coding-agent/maxzyma-berth.md) ⚑ | 0 | 0 | 毎日 | 100+ | 2026-11-11 | 2026-11-12 | 2026-11-12 | MIT |
 | [Leash](entries/coding-agent/cmaintz-leash.md) ⚑ | 0 | 0 | 毎日 | 21 | 2026-11-06 | 2026-11-10 | 2026-11-11 | MIT |
 
-### エージェント基盤・スキル集（98）
+### エージェント基盤・スキル集（99）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -325,6 +325,7 @@
 | [Nakama](entries/agent-framework/ahmadrosid-nakama.md) ⚑ | 802 | 137 | 毎日 | 100+ | 2026-11-10 | 2026-11-11 | 2026-11-11 | MIT |
 | [Grok Bot Field Notes](entries/agent-framework/unicodef1wn-grokbot-field-notes.md) | 700 | 100 | 月次 | 0 | 2026-09-20 | 2026-11-09 | 2026-11-10 | MIT |
 | [@antfu/skills（npm で配るスキル詰め合わせ）](entries/agent-framework/antfu-skills-pack.md) | 337 | 5 | 週次 | 6 | 2026-10-30 | 2026-11-09 | 2026-11-10 | MIT |
+| [blender-ai-copilot-lab](entries/agent-framework/precygtrucqui1981-blender-ai-copilot-lab.md) ⚑ | 187 | 5 | 月次 | 3 | 2026-11-12 | 2026-11-14 | 2026-11-14 | MIT |
 | [neo4jev — Graph Navigation Demo (TypeSafe Jev + Neo4j)](entries/agent-framework/jexp-neo4jev.md) ⚑ | 184 | 27 | 月次 | 0 | 2026-09-18 | 2026-11-11 | 2026-11-11 | MIT |
 | [CoworkOS](entries/agent-framework/ruc-nlpir-coworkos.md) | 148 | 16 | 週次 | 17 | 2026-11-03 | 2026-11-09 | 2026-11-10 | MIT |
 | [video-to-skill](entries/agent-framework/brenoepics-video-to-skill.md) | 145 | 20 | 毎日 | 100+ | 2026-11-06 | 2026-11-09 | 2026-11-10 | MIT |
@@ -1610,6 +1611,7 @@
 - [Rerun](entries/agent-framework/rerun-build-rerun.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [omdsh-dev/dsh-browser](entries/agent-framework/omdsh-dev-dsh-browser.md) — unverified / 20%高速という値は投稿/READMEの主張で比較条件・独立追試なし。ログイン済みブラウザの操作を無制限に許可しない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Nakama](entries/agent-framework/ahmadrosid-nakama.md) — unverified / READMEによると、Dockerのリセット手順はデータを破棄し、ポート4310を公開する無関係なコンテナも削除する。実行前に影響範囲を確認すること。
+- [blender-ai-copilot-lab](entries/agent-framework/precygtrucqui1981-blender-ai-copilot-lab.md) — unverified / README記載の機能と対象環境は作者の説明に基づく。独立した動作確認は行っていない。
 - [neo4jev — Graph Navigation Demo (TypeSafe Jev + Neo4j)](entries/agent-framework/jexp-neo4jev.md) — unverified / TypeSafe APIの利用にはTYPESAFE_API_KEYが必要。READMEによると、既定のベクトル埋め込みは決定論的なハッシュ由来のプレースホルダーで、意味的な検索にはならない。
 - [Canny](entries/agent-framework/qkal-canny.md) — unverified / 投稿は「Jev repos」の一つとして紹介するが、Canny は TypeSafe 製ではなく qkal 個人のプロジェクトで、Jev は任意の判定器（キー未設定でも決定論的ゲートは動く）。確認できたこと: 実装は実在し src/*.ts 約81KB・test 約97KB、CI（Node 22/24/26 + macOS + smoke + CodeQL）が直近成功、手元で 246 tests passed、Stop の block→allow→replay も実測で再現。確認できなかったこと: star 134 の真正性は API からは検証不能（未確認）。注意すべき事実: 23コミット全てが 2026-09-17〜22 の6日間に1名で入り、以後 48日コミットなし（30日コミット0、contributors は qkal 1名のみ、AI ボット名義のコミットは無く web-flow は GitHub のマージコミッター）。134 stars / 18 forks に対し watchers 0、外部PRは 2026-10-01 と 10-21 から未マージ。README 自身がプロジェクト全体の効果は未測定と明記し、bench も成果差なし（両アーム全通過、25ペアで 1.6±3.4 秒差）。未回答のセキュリティ指摘 issue #26（Jev 判断の乗っ取り JPDH、2026-10-14、コメントなし）が open。既知の実装制限: Windows のパス正規表現（#24）、python3 -m unittest 等の検出漏れ（#27/#28）、シェル経由の書き込み検出は一部記法のみ（find -exec、xargs、python -c 等は不可）。dist/ プリビルト同梱・npm 未配布のため供給網は作者1名に依存。キー設定時は編集差分（4,000字上限）と最終メッセージが TypeSafe に送信される。
 - [creator-generalist](entries/agent-framework/codepawl-creator-generalist.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。

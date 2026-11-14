@@ -1,5 +1,5 @@
 {
-  "count": 1047,
+  "count": 1048,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -6011,6 +6011,37 @@
       "type": "repo",
       "path": "entries/agent-framework/antfu-skills-pack.md",
       "summary": "複数の配布元のエージェントスキルを1つの npm パッケージにまとめ、pnpm i のたびに同期する。導入は依存に @antfu/skills と skills を足し、prepare に skills experimental_sync -y を置くだけ。"
+    },
+    {
+      "name": "blender-ai-copilot-lab",
+      "genre": "agent-framework",
+      "url": "https://github.com/precygtrucqui1981/blender-ai-copilot-lab",
+      "repo": "precygtrucqui1981/blender-ai-copilot-lab",
+      "license": "MIT",
+      "stars": 187,
+      "forks": 5,
+      "created": "2026-11-12",
+      "updated": "2026-11-12",
+      "commits_30d": 3,
+      "commit_cadence": "monthly",
+      "commits_90d": 3,
+      "size_kb": 8,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "README記載の機能と対象環境は作者の説明に基づく。独立した動作確認は行っていない。",
+      "open_issues": 38,
+      "language": "unknown",
+      "type": "repo",
+      "added": "2026-11-14",
+      "first_seen": "2026-11-14",
+      "sources": [
+        "https://x.com/TheArthiAI/status/2121435010939142280"
+      ],
+      "fetched_at": "2026-11-14T04:09:24.616371+00:00",
+      "path": "entries/agent-framework/precygtrucqui1981-blender-ai-copilot-lab.md",
+      "summary": "Blender内の拡張として、managerが依頼を受け入れ条件付きのタスクに分解し、workerが27種類の監督付きシーン操作ツールで実行、reviewerが承認または具体的な指摘を返す。タスクボードで進捗・試行・指摘を確認でき、ブロックされたタスクには修正を1回試行する。各変更には名前付きUndo手順があり、操作ご"
     },
     {
       "name": "neo4jev — Graph Navigation Demo (TypeSafe Jev + Neo4j)",
