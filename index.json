@@ -1,5 +1,5 @@
 {
-  "count": 1022,
+  "count": 1023,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -996,6 +996,37 @@
       "type": "repo",
       "path": "entries/3d-motion/sakalond-stablegen.md",
       "summary": "Blender のアドオンとして、メッシュやシーン全体に Diffusion モデルでテクスチャを貼る。UV を切って手で描く工程を置き換える。"
+    },
+    {
+      "name": "react-postprocessing",
+      "genre": "3d-motion",
+      "url": "https://github.com/pmndrs/react-postprocessing",
+      "repo": "pmndrs/react-postprocessing",
+      "stars": 1589,
+      "forks": 164,
+      "open_issues": 12,
+      "size_kb": 16933,
+      "language": "TypeScript",
+      "created": "2020-05-07",
+      "updated": "2026-10-21",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 7,
+      "commits_90d": 64,
+      "commit_cadence": "weekly",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景・有効性・依存関係・実行条件。",
+      "type": "repo",
+      "added": "2026-11-14",
+      "first_seen": "2026-11-14",
+      "sources": [
+        "https://x.com/thegreatest_sv/status/2118724335905148990"
+      ],
+      "fetched_at": "2026-11-13T21:14:13.076162+00:00",
+      "path": "entries/3d-motion/pmndrs-react-postprocessing.md",
+      "summary": "React Three Fiber 向けの postprocessing ラッパー。READMEにはBloom、DepthOfField、Noise、VignetteをEffectComposer内で組み合わせる例がある。READMEは、複雑なエフェクトのオーケストレーションを目的としたものではないと説明している。"
     },
     {
       "name": "motionmaxxing",
