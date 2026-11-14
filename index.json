@@ -1,5 +1,5 @@
 {
-  "count": 1090,
+  "count": 1091,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -11940,6 +11940,38 @@
       "fetched_at": "2026-11-14T15:09:20.986873+00:00",
       "path": "entries/coding-agent/scottduncanai-pid-to-knowledge-graph.md",
       "summary": "Claude Code向けスキル pid-to-kg は、PDF形式のP&IDおよびPFDを読み取り、プロセス知識グラフを作成する。READMEによれば、グラフには機器・配管の上流下流関係、計測器と計測対象・位置、センサーから制御機器・最終要素までの制御ループを含める。summary.md、graph.json、gra"
+    },
+    {
+      "name": "sakurai-skill",
+      "genre": "coding-agent",
+      "url": "https://github.com/kociden/sakurai-skill",
+      "repo": "kociden/sakurai-skill",
+      "flags": [
+        "low-quality",
+        "unverified"
+      ],
+      "risk_notes": "READMEによると、内容は動画の自動字幕をAIが要約したもので、聞き取り誤りが残る可能性があります。 リポジトリのライセンスは不明です。READMEは、要約が自動字幕に基づき聞き取り誤りが残る可能性を明記しています。 GitHub APIでライセンスを確認できていません。",
+      "stars": 244,
+      "forks": 18,
+      "open_issues": 0,
+      "size_kb": 1108,
+      "language": "Python",
+      "created": "2026-11-12",
+      "updated": "2026-11-12",
+      "archived": false,
+      "license": "unknown",
+      "commits_30d": 5,
+      "commits_90d": 5,
+      "commit_cadence": "weekly",
+      "type": "repo",
+      "added": "2026-11-14",
+      "first_seen": "2026-11-14",
+      "sources": [
+        "https://x.com/GitTrend0x/status/2121566394286248121"
+      ],
+      "fetched_at": "2026-11-14T15:10:08.045857+00:00",
+      "path": "entries/coding-agent/kociden-sakurai-skill.md",
+      "summary": "ゲームの企画、ゲーム性、難易度、ご褒美、操作感、モーション、エフェクト、グラフィック、UI、サウンド、調整、デバッグ、チーム運営、企画書、広報などを考えたりレビューしたりする際に使うAgent Skillです。READMEは、ヒットストップ、ジャンプ、カメラや「手応えがない」「もっさり」といった課題も対象として挙げてい"
     },
     {
       "name": "Motion.dev Animations Skill",

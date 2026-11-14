@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1090 件 — リポジトリ 734, リンク集 119, 記事 170, モデル 53, プロンプト 14 / ⚑ 要確認 864 件
+収録 1091 件 — リポジトリ 735, リンク集 119, 記事 170, モデル 53, プロンプト 14 / ⚑ 要確認 865 件
 
-## リポジトリ（734）
+## リポジトリ（735）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -147,7 +147,7 @@
 | [Pay Small Check](entries/other/ahmardchain-pay-small-check.md) ⚑ | 1 | 0 | 毎日 | 32 | 2026-11-07 | 2026-11-14 | 2026-11-14 | MIT |
 | [LapDraw](entries/other/sachinyadavaug20-lapdraw.md) ⚑ | 0 | 0 | 毎日 | 22 | 2026-11-07 | 2026-11-13 | 2026-11-13 | MIT |
 
-### コーディングエージェント（107）
+### コーディングエージェント（108）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -237,6 +237,7 @@
 | [Agent HUD](entries/coding-agent/jazzenchen-agent-hud-open.md) ⚑ | 326 | 54 | 毎日 | 100+ | 2026-11-10 | 2026-11-11 | 2026-11-11 | Apache-2.0 |
 | [xAI Plugin Marketplace](entries/coding-agent/xai-org-plugin-marketplace.md) ⚑ | 325 | 1,222 | 毎日 | 31 | 2026-11-09 | 2026-11-10 | 2026-11-10 | unknown |
 | [P&ID to Knowledge Graph](entries/coding-agent/scottduncanai-pid-to-knowledge-graph.md) ⚑ | 265 | 55 | 月次 | 3 | 2026-11-08 | 2026-11-14 | 2026-11-14 | MIT |
+| [sakurai-skill](entries/coding-agent/kociden-sakurai-skill.md) ⚑ | 244 | 18 | 週次 | 5 | 2026-11-12 | 2026-11-14 | 2026-11-14 | unknown |
 | [Motion.dev Animations Skill](entries/coding-agent/199-biotechnologies-motion-dev-animations-skill.md) ⚑ | 231 | 36 | 停滞 | 0 | 2026-03-30 | 2026-11-12 | 2026-11-12 | MIT |
 | [AI Second Brain](entries/coding-agent/charlie947-ai-second-brain.md) ⚑ | 229 | 45 | 月次 | 1 | 2026-10-24 | 2026-11-10 | 2026-11-11 | MIT |
 | [Motion Design Skills](entries/coding-agent/iart-ai-motion-design-skills.md) ⚑ | 226 | 36 | 月次 | 1 | 2026-11-11 | 2026-11-12 | 2026-11-12 | MIT |
@@ -1855,6 +1856,7 @@
 - [Agent HUD](entries/coding-agent/jazzenchen-agent-hud-open.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [xAI Plugin Marketplace](entries/coding-agent/xai-org-plugin-marketplace.md) — unverified / ['最新リリースのタグと公開日は未確認。プラグインの導入・実行、個別機能の有効性や安全性、料金、ライセンスおよび利用条件は未検証。README は公開 raw URL で確認した。'] GitHub APIでライセンスを確認できていません。
 - [P&ID to Knowledge Graph](entries/coding-agent/scottduncanai-pid-to-knowledge-graph.md) — unverified / Python 3.13以降ではOCRによる照合と自動ページ方向調整が利用できない。抽出品質は図面の判読性に依存し、制御説明文や原因・結果分析にのみあるロジックは抽出対象外とREADMEに記載されている。
+- [sakurai-skill](entries/coding-agent/kociden-sakurai-skill.md) — low-quality, unverified / READMEによると、内容は動画の自動字幕をAIが要約したもので、聞き取り誤りが残る可能性があります。 リポジトリのライセンスは不明です。READMEは、要約が自動字幕に基づき聞き取り誤りが残る可能性を明記しています。 GitHub APIでライセンスを確認できていません。
 - [Motion.dev Animations Skill](entries/coding-agent/199-biotechnologies-motion-dev-animations-skill.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [AI Second Brain](entries/coding-agent/charlie947-ai-second-brain.md) — unverified / README記載の機能・動作条件は独立検証していない。ChatGPTのエクスポートには1〜3日の待ち時間がかかる場合があると記載。
 - [Motion Design Skills](entries/coding-agent/iart-ai-motion-design-skills.md) — unverified / 個々のスキルの依存関係や必要な実行環境はREADMEに記載されていません。
