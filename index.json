@@ -1,5 +1,5 @@
 {
-  "count": 1013,
+  "count": 1014,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -19324,6 +19324,37 @@
       "fetched_at": "2026-11-10T13:39:35.699250+00:00",
       "path": "entries/other/gitroomhq-postiz-app.md",
       "summary": "ソーシャルメディア投稿の予約、自動化、分析を行う。チームでの共同作業やコメント、投稿の交換・購入にも対応するとREADMEに記載。N8N、Make.com、Zapierなどを使ったAPI経由の自動化を想定している。"
+    },
+    {
+      "name": "Maigret",
+      "genre": "other",
+      "url": "https://github.com/soxoj/maigret",
+      "repo": "soxoj/maigret",
+      "stars": 40599,
+      "forks": 3269,
+      "open_issues": 62,
+      "size_kb": 31377,
+      "language": "Python",
+      "created": "2020-06-27",
+      "updated": "2026-11-13",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 58,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景・有効性・依存関係・実行条件。",
+      "type": "repo",
+      "added": "2026-11-14",
+      "first_seen": "2026-11-14",
+      "sources": [
+        "https://x.com/ruyi3699/status/2118713263290741015"
+      ],
+      "fetched_at": "2026-11-13T20:09:34.089321+00:00",
+      "path": "entries/other/soxoj-maigret.md",
+      "summary": "READMEによると、ユーザー名で5,900サイトに対応し、既定ではトラフィック順位上位500サイトを検索する。全サイト検索、タグによる絞り込み、プロフィールページやサイトAPIからの情報抽出、発見したユーザー名等を使った再帰検索、結果のグラフ表示と各形式のレポート出力に対応する。任意のAI分析モードも記載されている。"
     },
     {
       "repo": "p-e-w/heretic",

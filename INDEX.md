@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1013 件 — リポジトリ 671, リンク集 118, 記事 157, モデル 53, プロンプト 14 / ⚑ 要確認 796 件
+収録 1014 件 — リポジトリ 672, リンク集 118, 記事 157, モデル 53, プロンプト 14 / ⚑ 要確認 797 件
 
-## リポジトリ（671）
+## リポジトリ（672）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（103）
+### その他（104）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -30,6 +30,7 @@
 | [LosslessCut](entries/other/mifi-lossless-cut.md) ⚑ | 45,884 | 2,317 | 毎日 | 100+ | 2026-11-09 | 2026-11-10 | 2026-11-10 | GPL-2.0 |
 | [DuckDB](entries/other/duckdb-duckdb.md) | 42,947 | 4,180 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
 | [Postiz](entries/other/gitroomhq-postiz-app.md) ⚑ | 41,250 | 7,864 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-11 | AGPL-3.0 |
+| [Maigret](entries/other/soxoj-maigret.md) ⚑ | 40,599 | 3,269 | 毎日 | 58 | 2026-11-13 | 2026-11-13 | 2026-11-14 | MIT |
 | [Heretic](entries/other/p-e-w-heretic.md) | 40,132 | 4,590 | 毎日 | 29 | 2026-11-08 | 2026-11-09 | 2026-11-10 | AGPL-3.0 |
 | [PDFMathTranslate](entries/other/pdfmathtranslate-pdfmathtranslate.md) ⚑ | 38,342 | 3,433 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | AGPL-3.0 |
 | [NumPy](entries/other/numpy-numpy.md) ⚑ | 33,343 | 13,099 | 毎日 | 100+ | 2026-11-12 | 2026-11-12 | 2026-11-12 | unknown |
@@ -1965,6 +1966,7 @@
 - [Paperless-ngx](entries/other/paperless-ngx-paperless-ngx.md) — unverified / OCR精度、検索性能、外部AIからの接続は実機で未検証。最新リリースのタグと公開日時は /releases/latest で未確認。コミット数は両期間とも取得上限のため100件以上。
 - [LosslessCut](entries/other/mifi-lossless-cut.md) — unverified / 実ファイルでの処理速度、カット位置、CLIとHTTP APIの動作は未実測。公開リリースページで最新タグは確認したが、公開日時の年とタイムゾーンは未確認。
 - [Postiz](entries/other/gitroomhq-postiz-app.md) — unverified / README記載のAGPL-3.0以外の利用条件や、セルフホストに必要な具体的な設定・環境条件は確認していない。
+- [Maigret](entries/other/soxoj-maigret.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [PDFMathTranslate](entries/other/pdfmathtranslate-pdfmathtranslate.md) — unverified / 翻訳精度、レイアウトの保持度、実行速度、実験的OCRの品質、CLIとMCPの動作は独立検証していない。mainブランチの記載と配布版の機能差、最新リリースのタグと公開日時、翻訳サービスごとの料金とデータ取扱条件は未確認。
 - [NumPy](entries/other/numpy-numpy.md) — unverified / ライセンスは取得済みメタデータでunknownのため確認できていない。 GitHub APIでライセンスを確認できていません。
 - [Google Workspace CLI (gws)](entries/other/googleworkspace-cli.md) — unverified / README 冒頭に「This is not an officially supported Google product.」と明記されており、googleworkspace org 配下でも公式サポート製品ではない。Claude/Anthropic への言及はなく、Claude Code から使えるかは Bash ツール経由で CLI を呼ぶ一般経路の推測で、リポジトリ側の検証はない。最終リリースは 2026-03-31、90日コミットは 2026-10-30 の CI 修正1件のみで開発は停滞している。README はスキル数を 40+ と 100+ の両方で書いており、実際の skills/ は95ディレクトリ。API の課金額は各 GCP プロジェクトのクォータ次第で、料金表は確認していない。
