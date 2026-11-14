@@ -1,5 +1,5 @@
 {
-  "count": 1064,
+  "count": 1065,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -21877,6 +21877,37 @@
       "fetched_at": "2026-11-12T11:19:46.293973+00:00",
       "path": "entries/other/danielswolf-rhubarb-lip-sync.md",
       "summary": "音声ファイルを解析して発話を認識し、2Dの口形アニメーション情報を生成する。CLIではTSV・XML・JSONなどの形式で出力でき、After Effects、Moho、OpenToonz、Spine、Vegas Pro向けの連携もREADMEに記載されている。"
+    },
+    {
+      "name": "KUTE.js",
+      "genre": "other",
+      "url": "https://github.com/thednp/kute.js",
+      "repo": "thednp/kute.js",
+      "stars": 2651,
+      "forks": 173,
+      "open_issues": 7,
+      "size_kb": 4144,
+      "language": "JavaScript",
+      "created": "2015-03-20",
+      "updated": "2026-03-26",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 0,
+      "commits_90d": 0,
+      "commit_cadence": "stale",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景・有効性・依存関係・実行条件。",
+      "type": "repo",
+      "added": "2026-11-14",
+      "first_seen": "2026-11-14",
+      "sources": [
+        "https://x.com/aikangarooking/status/2121444332091965629"
+      ],
+      "fetched_at": "2026-11-14T07:16:28.594729+00:00",
+      "path": "entries/other/thednp-kute.js.md",
+      "summary": "Web向けのJavaScriptアニメーションエンジン。READMEでは、CSSプロパティ、HTML属性、SVGのtransform・stroke描画・path morphing、テキストや数値のアニメーションなどのコンポーネントを説明している。全18コンポーネントのうち、すべてが標準配布パッケージに含まれるわけではな"
     },
     {
       "name": "sheeridVerify",
