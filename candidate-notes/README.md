@@ -82,6 +82,9 @@
   - 候補の対象が複数あり、一意に特定できませんでした。
 - [X: sep_is_heim の投稿](https://x.com/sep_is_heim/status/2118690623763222820)
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+- [X: ruyi3699 の投稿](https://x.com/ruyi3699/status/2118832045220872601)
+  - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+  - 公開に必須の根拠がそろっていません。
 - [X: ruyi3699 の投稿](https://x.com/ruyi3699/status/2118757554591563807)
   - 公開に必須の根拠がそろっていません。
 - [X: phuclh93 の投稿](https://x.com/phuclh93/status/2121390625312641470)
@@ -145,6 +148,8 @@
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 - [X: fhwofjow51260 の投稿](https://x.com/fhwofjow51260/status/2118681908834083162)
   - 公開に必須の根拠がそろっていません。
+- [X: cuntnator2000 の投稿](https://x.com/cuntnator2000/status/2118908163550335069)
+  - 元画像を確認できず、画像内の内容は未検証です。
 - [X: bunkeideploy の投稿](https://x.com/bunkeideploy/status/2118846996769313160)
   - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: bladesofmirage の投稿](https://x.com/bladesofmirage/status/2118689861813117380)
@@ -186,6 +191,8 @@
   - 候補の対象が複数あり、一意に特定できませんでした。
 - [X: TheArthiAI の投稿](https://x.com/TheArthiAI/status/2121435010939142280)
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+- [X: TempemLoid の投稿](https://x.com/TempemLoid/status/2118827569852379172)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 - [X: TechPoliNeko の投稿](https://x.com/TechPoliNeko/status/2118888287590822336)
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
 - [X: SeiraHisada の投稿](https://x.com/SeiraHisada/status/2118853035451707634)
@@ -239,6 +246,9 @@
   - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF>。
 - [X: Muse の投稿](https://x.com/Muse/status/2118766983936197072)
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+- [X: Machinedelusion の投稿](https://x.com/Machinedelusion/status/2118829025158160416)
+  - 下書きが公開用の検証基準を満たしていません。 照合済み参照先: <https://huggingface.co/nvidia/Cosmos3-Nano-Sim-Bimanual>。
+  - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://huggingface.co/nvidia/Cosmos3-Nano-Sim-Bimanual>。
 - [X: Machinedelusion の投稿](https://x.com/Machinedelusion/status/2118804958107836451)
   - 候補の対象が複数あり、一意に特定できませんでした。
 - [X: Machinedelusion の投稿](https://x.com/Machinedelusion/status/2118791276371837150)
@@ -269,6 +279,8 @@
 - [X: Bober_smart の投稿](https://x.com/Bober_smart/status/2118706834307416366)
   - 公開に必須の根拠がそろっていません。
   - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://x.com/Bober_smart/status/2118706834307416366>。
+- [X: Awed_Urshy の投稿](https://x.com/Awed_Urshy/status/2118828150448947272)
+  - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: Awed_Urshy の投稿](https://x.com/Awed_Urshy/status/2118722159795400710)
   - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: Awed_Urshy の投稿](https://x.com/Awed_Urshy/status/2118720699212894719)
@@ -279,6 +291,8 @@
 - [X: Av1dlive の投稿](https://x.com/Av1dlive/status/2118762654609404200)
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
   - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://x.com/Av1dlive/status/2118762654609404200>。
+- [X: 0xyumi7 の投稿](https://x.com/0xyumi7/status/2121570568730198088)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 ## 2026-11-13（日本時間）
 
 - [X: zg0820 の投稿](https://x.com/zg0820/status/2121225184892055798)
