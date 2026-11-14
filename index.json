@@ -1,5 +1,5 @@
 {
-  "count": 1068,
+  "count": 1069,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -19554,6 +19554,37 @@
       "fetched_at": "2026-11-10T16:22:18.748508+00:00",
       "path": "entries/other/microsoft-markitdown.md",
       "summary": "PDF、PowerPoint、Word、Excel、画像、音声、HTML、CSV・JSON・XML、ZIP、YouTube URL、EPUBなどをMarkdownへ変換します。READMEでは、見出し・リスト・表・リンクなどの文書構造をMarkdownとして保持することを重視すると説明しています。"
+    },
+    {
+      "name": "Godot Engine",
+      "genre": "other",
+      "url": "https://github.com/godotengine/godot",
+      "repo": "godotengine/godot",
+      "stars": 120113,
+      "forks": 27494,
+      "open_issues": 19042,
+      "size_kb": 1961208,
+      "language": "C++",
+      "created": "2014-01-04",
+      "updated": "2026-11-13",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 100,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景・有効性・依存関係・実行条件。",
+      "type": "repo",
+      "added": "2026-11-14",
+      "first_seen": "2026-11-14",
+      "sources": [
+        "https://x.com/aikangarooking/status/2121444332091965629"
+      ],
+      "fetched_at": "2026-11-14T07:19:31.861066+00:00",
+      "path": "entries/other/godotengine-godot.md",
+      "summary": "統合インターフェースから2D・3Dゲームを制作できるクロスプラットフォームのゲームエンジン。READMEでは、Linux・macOS・Windows、Android・iOS、Web、コンソール向けにゲームをエクスポートできると説明している。"
     },
     {
       "name": "Immich",
