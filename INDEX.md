@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1061 件 — リポジトリ 711, リンク集 119, 記事 164, モデル 53, プロンプト 14 / ⚑ 要確認 838 件
+収録 1062 件 — リポジトリ 711, リンク集 119, 記事 165, モデル 53, プロンプト 14 / ⚑ 要確認 838 件
 
 ## リポジトリ（711）
 
@@ -1279,9 +1279,9 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（164）
+## 記事（165）
 
-### 記事（101）
+### 記事（102）
 
 - **[$0のデジタル参謀長で月$80,000の契約候補を作ったというX投稿（動画付き）](articles/2026-10-22-bober_smart-0-80-000-x.md)** ⚑  @Bober_smart
 - **[1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md)** ⚑  @mukadeshinigami（mukade死神）
@@ -1344,6 +1344,7 @@
 - **[Machine-Readable Training Preference Signal](articles/2026-10-30-k.-kelley-anthropic-machine-readable-training-preference-signal.md)** ⚑  K. Kelley (Anthropic)
 - **[Making Local LLMs Usable on 8GB GPUs](articles/2026-11-02-naresh-waghela-hastimal-jangid-making-local-llms-usable-on-8gb-gpus.md)** ⚑  Naresh Waghela, Hastimal Jangid
 - **[Material Painterを使った部分編集の報告](articles/2026-11-08-ry-heyhaigh-material-painter.md)** ⚑  Ry (@heyhaigh)
+- **[Measuring how AI agents handle everyday wet-lab science](articles/2026-11-06-author-measuring-how-ai-agents-handle-everyday-wet-lab-science.md)**
 - **[Museで試作し入力素材をSeedanceへ引き継ぐ動画制作案](articles/2026-10-26-jarvis11x-muse-seedance.md)** ⚑  @jarvis11x
 - **[Nemotron 3.5 Bolt E4B on Jetson Orin Nano Super at 27.7 tok/s!](articles/2026-11-05-author-nemotron-3.5-bolt-e4b-on-jetson-orin-nano-super-at-27.7-tok-s.md)** ⚑
 - **[OpenUIで表データの取得をUI生成と分ける](articles/2026-10-21-bernat-vadell-openui-ui.md)** ⚑  Bernat Vadell
