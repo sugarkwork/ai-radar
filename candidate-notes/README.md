@@ -17,6 +17,16 @@
 - [X: thegreatest_sv の投稿](https://x.com/thegreatest_sv/status/2118684117055226197)
   - 公開に必須の根拠がそろっていません。
   - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://x.com/thegreatest_sv/status/2118684117055226197>。
+- [X: superfang119 の投稿](https://x.com/superfang119/status/2118763376306507800)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+  - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+  - 対象を裏付ける公開一次資料を確認できませんでした。
+  - 公開に必須の根拠がそろっていません。
+  - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://huggingface.co/Comfy-Org/RelayVSR>。
+  - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://x.com/superfang119/status/2118571692289331699>。
+- [X: superfang119 の投稿](https://x.com/superfang119/status/2118762802139840534)
+  - 対象を裏付ける公開一次資料を確認できませんでした。
+  - 公開に必須の根拠がそろっていません。
 - [X: superfang119 の投稿](https://x.com/superfang119/status/2118759359937446020)
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
   - 対象を裏付ける公開一次資料を確認できませんでした。
@@ -50,6 +60,9 @@
   - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: naka_1717 の投稿](https://x.com/naka_1717/status/2118687295884947643)
   - 公開に必須の根拠がそろっていません。
+- [X: mizupyon の投稿](https://x.com/mizupyon/status/2121436106260652535)
+  - 対象を裏付ける公開一次資料を確認できませんでした。
+  - 公開に必須の根拠がそろっていません。
 - [X: jp_costa の投稿](https://x.com/jp_costa/status/2119924600142479497)
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
@@ -57,6 +70,8 @@
 - [X: issparssh の投稿](https://x.com/issparssh/status/2121389152768008212)
   - 下書きが公開用の検証基準を満たしていません。 照合済み参照先: <https://github.com/sparsh101sparsh/gmail-browser-mcp>。
   - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://github.com/sparsh101sparsh/gmail-browser-mcp>。
+- [X: invest_morgan の投稿](https://x.com/invest_morgan/status/2118856101164961921)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 - [X: ganfanren_ai の投稿](https://x.com/ganfanren_ai/status/2118721879242633643)
   - 公開に必須の根拠がそろっていません。
 - [X: fhwofjow51260 の投稿](https://x.com/fhwofjow51260/status/2118690573104357789)
@@ -113,6 +128,8 @@
 - [X: NFT_Chen の投稿](https://x.com/NFT_Chen/status/2118719233429516288)
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
   - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF>。
+- [X: Muse の投稿](https://x.com/Muse/status/2118766983936197072)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 - [X: Leviwoyun の投稿](https://x.com/Leviwoyun/status/2118737393977373055)
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
 - [X: Leviwoyun の投稿](https://x.com/Leviwoyun/status/2118714515181494590)
@@ -140,6 +157,9 @@
   - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: Awed_Urshy の投稿](https://x.com/Awed_Urshy/status/2118709353574474196)
   - 候補の対象が複数あり、一意に特定できませんでした。
+- [X: Av1dlive の投稿](https://x.com/Av1dlive/status/2118762654609404200)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+  - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://x.com/Av1dlive/status/2118762654609404200>。
 ## 2026-11-13（日本時間）
 
 - [X: zg0820 の投稿](https://x.com/zg0820/status/2121225184892055798)
