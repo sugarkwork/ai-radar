@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1043 件 — リポジトリ 696, リンク集 119, 記事 161, モデル 53, プロンプト 14 / ⚑ 要確認 823 件
+収録 1044 件 — リポジトリ 697, リンク集 119, 記事 161, モデル 53, プロンプト 14 / ⚑ 要確認 824 件
 
-## リポジトリ（696）
+## リポジトリ（697）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -656,7 +656,7 @@
 | [GLM-5.3-Flash 2×RTX PRO 6000 配備レシピ（TensorFold）](entries/model-serving/miaai-lab-glm-5.3-flash-2x-rtx-pro-6000.md) ⚑ | 23 | 2 | 週次 | 16 | 2026-11-07 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
 | [ausboss/ComfyUI-AusBoss-Model-Downloader](entries/model-serving/ausboss-comfyui-ausboss-model-downloader.md) ⚑ | 9 | 1 | 週次 | 5 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
 
-### プロンプト（デザイン/UI）（25）
+### プロンプト（デザイン/UI）（26）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -679,6 +679,7 @@
 | [kepano/flexoki](entries/prompt-design/kepano-flexoki.md) ⚑ | 3,810 | 139 | 停滞 | 0 | 2026-03-07 | 2026-11-09 | 2026-11-10 | MIT |
 | [The Designer Skills Pack](entries/prompt-design/owl-listener-designer-skills.md) ⚑ | 3,309 | 436 | 月次 | 0 | 2026-09-05 | 2026-11-10 | 2026-11-11 | MIT |
 | [GitReverse](entries/prompt-design/filiksyos-gitreverse.md) ⚑ | 2,081 | 337 | 週次 | 8 | 2026-11-10 | 2026-11-11 | 2026-11-11 | MIT |
+| [Casting-Workflow](entries/prompt-design/dama-cyber-casting-workflow.md) ⚑ | 710 | 136 | 停滞 | 0 | 2026-08-07 | 2026-11-14 | 2026-11-14 | unknown |
 | [AI 漫剧 Skills](entries/prompt-design/zhanghao123vip-ai-manju-skills.md) ⚑ | 695 | 124 | 月次 | 2 | 2026-11-01 | 2026-11-10 | 2026-11-10 | MIT |
 | [Moyu（摸鱼）](entries/prompt-design/uucz-moyu.md) ⚑ | 307 | 13 | 停滞 | 0 | 2026-07-30 | 2026-11-14 | 2026-11-14 | MIT |
 | [TAP (Tree of Attacks with Pruning)](entries/prompt-design/ricommunity-tap.md) ⚑ | 253 | 42 | 停滞 | 0 | 2024-12-10 | 2026-11-13 | 2026-11-13 | MIT |
@@ -2128,6 +2129,7 @@
 - [kepano/flexoki](entries/prompt-design/kepano-flexoki.md) — unverified / MITは配色リポジトリの条件。コントラストや可読性は実際の組み合わせ・端末で確認する必要があり本調査では未試験。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [The Designer Skills Pack](entries/prompt-design/owl-listener-designer-skills.md) — unverified / README names Claude Code and Gemini CLI but does not establish compatibility with other agents. Dependencies beyond those tools, execution requirements, and effectiveness are unverified. Repository metrics are supplied separately as measured data.
 - [GitReverse](entries/prompt-design/filiksyos-gitreverse.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
+- [Casting-Workflow](entries/prompt-design/dama-cyber-casting-workflow.md) — unverified / 内容の独創性や朱雀検出への効果はREADME内の作者の説明であり、独立検証は確認できません。READMEはMITと記載していますが、測定データ上のライセンス情報はunknownです。 GitHub APIでライセンスを確認できていません。
 - [AI 漫剧 Skills](entries/prompt-design/zhanghao123vip-ai-manju-skills.md) — unverified / 最新リリースは未確認。動作検証はREADMEの作者報告に基づく。残りの題材の個別動作、各対応環境での再現性、生成物の品質は今回独立に検証していない。
 - [Moyu（摸鱼）](entries/prompt-design/uucz-moyu.md) — unverified / 過度なエンジニアリングを抑える効果としてREADMEに記載された説明・数値は、独立した検証結果として確認されていない。
 - [TAP (Tree of Attacks with Pruning)](entries/prompt-design/ricommunity-tap.md) — unverified / READMEは、制限情報を求めるgoalと応答のtarget prefixを指定して実行する例を示している。対象モデルへの利用許可やAPI利用料金はREADMEから確認できない。
