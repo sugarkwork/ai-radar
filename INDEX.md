@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1049 件 — リポジトリ 701, リンク集 119, 記事 162, モデル 53, プロンプト 14 / ⚑ 要確認 828 件
+収録 1050 件 — リポジトリ 702, リンク集 119, 記事 162, モデル 53, プロンプト 14 / ⚑ 要確認 829 件
 
-## リポジトリ（701）
+## リポジトリ（702）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -130,7 +130,7 @@
 | [剪坊](entries/other/tuyetloanpham08-png-jianfang.md) ⚑ | 7 | 1 | 月次 | 2 | 2026-10-20 | 2026-11-11 | 2026-11-11 | unknown |
 | [LapDraw](entries/other/sachinyadavaug20-lapdraw.md) ⚑ | 0 | 0 | 毎日 | 22 | 2026-11-07 | 2026-11-13 | 2026-11-13 | MIT |
 
-### コーディングエージェント（103）
+### コーディングエージェント（104）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -162,6 +162,7 @@
 | [AGENTS.md](entries/coding-agent/agentsmd-agents.md.md) ⚑ | 25,417 | 1,950 | 月次 | 0 | 2026-09-10 | 2026-11-10 | 2026-11-10 | MIT |
 | [Craft Anything](entries/coding-agent/storytold-craft-anything.md) | 24,308 | 4,863 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
 | [jcode](entries/coding-agent/1jehuang-jcode.md) | 21,641 | 2,517 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [bolt.diy](entries/coding-agent/stackblitz-labs-bolt.diy.md) ⚑ | 20,087 | 10,614 | 月次 | 0 | 2026-10-14 | 2026-11-14 | 2026-11-14 | MIT |
 | [meta/astryx](entries/coding-agent/meta-astryx.md) ⚑ | 19,713 | 1,502 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
 | [GSAP AI Skills](entries/coding-agent/greensock-gsap-skills.md) ⚑ | 18,218 | 1,148 | 停滞 | 0 | 2026-07-29 | 2026-11-10 | 2026-11-11 | MIT |
 | [pstack（Lauren Tan / poteto）](entries/coding-agent/cursor-plugins.md) ⚑ | 15,853 | 1,657 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
@@ -1749,6 +1750,7 @@
 - [Vercel Agent Skills](entries/coding-agent/vercel-labs-agent-skills.md) — unverified / レビュー精度や適用前後の性能差は未実測。GitHubのLatestページでタグは確認したが、年とタイムゾーンを含む公開日時は確認できなかった。READMEはMITと記載しているが、APIの測定値はunknown。エージェント側の料金と導入の実動作は未確認。 GitHub APIでライセンスを確認できていません。
 - [claude-code-templates](entries/coding-agent/davila7-claude-code-templates.md) — unverified / Turn Inspector の描画は Claude Code 2.1.287+ の実機では未実行で、リポジトリ同梱の README・hooks 実装・テストファイルと作者のデモ動画に基づく確認。インストールコマンド自体（npx claude-code-templates@latest --mod ui/turn-inspector）は空ディレクトリで実行し、6ファイルが配置されることを実測した。ブロック別トークン数は概算（約4文字/トークン）で、正確なのはリクエスト単位の入出力合計のみ。mod は v0.1.0 と新しく、GitHub Releases は v1.29.7（2026-10-09）で npm の 1.32.2（2026-11-07）より遅れている。
 - [AGENTS.md](entries/coding-agent/agentsmd-agents.md.md) — unverified / 最新リリースのタグと公開日は未確認。エージェントごとの対応バージョン、指示の読み込み順、コマンドの実行挙動は実機で検証していない。効果は引用した研究の評価条件に限られる。
+- [bolt.diy](entries/coding-agent/stackblitz-labs-bolt.diy.md) — unverified / WebContainers APIにはエンタープライズ展開向けの個別の商用ライセンス条件があるとREADMEに記載。
 - [meta/astryx](entries/coding-agent/meta-astryx.md) — unverified / Beta版。社内13000以上のアプリ使用という説明は配布元の申告で、公開APIの安定性や実機アクセシビリティを本調査で検証していない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [GSAP AI Skills](entries/coding-agent/greensock-gsap-skills.md) — unverified / スキル導入前後の生成品質、エージェントごとの自動読み込み、生成コードのブラウザ動作は未検証。GitHubの公開リリース一覧に掲載はなく、最新リリースのタグと日時は記載していない。
 - [pstack（Lauren Tan / poteto）](entries/coding-agent/cursor-plugins.md) — unverified / 【投稿の主張と実体】投稿は『SpaceXAI の Lauren Tan が /loop と /goal を使って80以上の GrokBot エージェントを動かし、85%のエンジニアが10以上を並列運用、Chief of Staff agent が全体を管理』と引用するが、この引用は一次情報で確認できなかった。添付動画（実測 55分47秒 / 1920x1078 / 30fps）を取得し7点のフレームを確認したところ、話者カードは『Lauren Tan / Software engineer | SpaceXAI』で本人の講演だが、内容は trust ladder・検証スキル・pstack・社内フレームワーク Dune の説明で、確認した範囲に『80+ agents』『/loop』『/goal』『Chief of Staff』『85%』は出てこない。同一講演の公開版（@poteto 本人投稿、38:02、『how i shipped 2,500 PRs last month』）の書き起こしにも該当発言はなく、『80%』は別の再アップロードの書き起こしでは『仕事の8割は1ディレクトリに閉じる』という局所性の文脈で出ており、エージェント数の主張とは無関係。同じ講演を再アップロードしたYouTubeチャンネル複数が『20+』『15+』『80+ agents』『85%』『1%』と互いに矛盾する煽り文を説明欄に付けており、投稿の引用はこの種の二次的な煽り文と一致する。よって引用は出典不明（本人発言として未確認）。/loop と /goal は Cursor Agent（および Grok Build）のスラッシュコマンドで、Grok Bot のコマンドではない（pstack README も『cursor's /loop command』と明記）。『85%のエンジニアが10+』は一次情報なし。Lauren Tan の所属自体は本物で、元 Meta（React Compiler）→ Cursor → SpaceXAI の Grok Bot 担当（動画の話者カード、GitHub、本人投稿で一致）。【指標の注意】pstack は cursor/plugins モノレポ内のサブディレクトリで単独リポジトリは存在しない。stars/forks/open_issues は親リポジトリ全体の値（15,813 / 1,653 / 641）。size_kb は pstack 配下の blob 合計 6,295,660 bytes の KB 換算（6,148KB）で、親リポジトリ全体は 18,538KB。commits は path=pstack で絞った実測（30日69、90日99）。親リポジトリ直下にライセンスはないが pstack/LICENSE は MIT。投稿の引用元X記事2件（2091522676426694656 等）は非ログインでログイン画面へリダイレクトされ本文を読めないことを実際に確認しており、内容は推測していない。

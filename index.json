@@ -1,5 +1,5 @@
 {
-  "count": 1049,
+  "count": 1050,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -9757,6 +9757,37 @@
       "type": "repo",
       "path": "entries/coding-agent/1jehuang-jcode.md",
       "summary": "Rust 製のコーディングエージェント用ハーネス（CLI）。複数エージェントの並列実行を前提に、メモリ消費を抑える設計。"
+    },
+    {
+      "name": "bolt.diy",
+      "genre": "coding-agent",
+      "url": "https://github.com/stackblitz-labs/bolt.diy",
+      "repo": "stackblitz-labs/bolt.diy",
+      "license": "MIT",
+      "stars": 20087,
+      "language": "TypeScript",
+      "created": "2024-10-13",
+      "updated": "2026-10-14",
+      "forks": 10614,
+      "open_issues": 14,
+      "commits_30d": 0,
+      "commit_cadence": "monthly",
+      "commits_90d": 100,
+      "size_kb": 14941,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "WebContainers APIにはエンタープライズ展開向けの個別の商用ライセンス条件があるとREADMEに記載。",
+      "type": "repo",
+      "added": "2026-11-14",
+      "first_seen": "2026-11-14",
+      "sources": [
+        "https://x.com/thegreatest_sv/status/2118770137646162218"
+      ],
+      "fetched_at": "2026-11-14T04:12:34.300392+00:00",
+      "path": "entries/coding-agent/stackblitz-labs-bolt.diy.md",
+      "summary": "ブラウザー上でフルスタックWebアプリを開発できるAI開発環境。READMEでは22以上のクラウド・ローカルLLMプロバイダー、コードエディター、ターミナル、差分表示、ライブプレビュー、Git操作、スナップショット復元、ZIP書き出し、Netlify・Vercel・GitHub Pagesへのデプロイ、Supabase"
     },
     {
       "type": "repo",
