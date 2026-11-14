@@ -1,5 +1,5 @@
 {
-  "count": 1083,
+  "count": 1084,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -19839,6 +19839,37 @@
       "fetched_at": "2026-11-12T15:07:38.937699+00:00",
       "path": "entries/other/rasbt-llms-from-scratch.md",
       "summary": "GPT型の大規模言語モデルを一から開発し、事前学習やファインチューニングを行うコードと学習内容を提供する。章ごとのノートブックやコードが整理されている。出典：README（https://github.com/rasbt/LLMs-from-scratch）。"
+    },
+    {
+      "name": "OpenCut",
+      "genre": "other",
+      "url": "https://github.com/OpenCut-app/OpenCut",
+      "repo": "OpenCut-app/OpenCut",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "このリポジトリの改修版が利用可能になる時期や、記載された開発手順が現在も動作するかはREADMEから確認できません。",
+      "stars": 98341,
+      "forks": 9823,
+      "open_issues": 386,
+      "size_kb": 28243,
+      "language": "TypeScript",
+      "created": "2025-06-22",
+      "updated": "2026-09-24",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 0,
+      "commits_90d": 1,
+      "commit_cadence": "stale",
+      "type": "repo",
+      "added": "2026-11-14",
+      "first_seen": "2026-11-14",
+      "sources": [
+        "https://x.com/ruyi3699/status/2118847396427788789"
+      ],
+      "fetched_at": "2026-11-14T14:08:32.163072+00:00",
+      "path": "entries/other/opencut-app-opencut.md",
+      "summary": "Web・デスクトップ・モバイル向けの無料オープンソース動画編集ソフトウェアとして説明されています。READMEでは現行リポジトリを全面改修中とし、Editor API、プラグイン、MCPサーバー、ヘッドレスモードなどは「今後予定」として記載しています。出典: https://github.com/OpenCut-app"
     },
     {
       "repo": "career-ops-hq/career-ops",
