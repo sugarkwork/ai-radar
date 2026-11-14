@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1034 件 — リポジトリ 688, リンク集 119, 記事 160, モデル 53, プロンプト 14 / ⚑ 要確認 815 件
+収録 1035 件 — リポジトリ 689, リンク集 119, 記事 160, モデル 53, プロンプト 14 / ⚑ 要確認 816 件
 
-## リポジトリ（688）
+## リポジトリ（689）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（111）
+### その他（112）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -65,6 +65,7 @@
 | [APScheduler](entries/other/agronholm-apscheduler.md) | 7,698 | 822 | 週次 | 4 | 2026-10-26 | 2026-11-09 | 2026-11-10 | MIT |
 | [Nuxt UI](entries/other/nuxt-ui.md) | 7,061 | 1,154 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
 | [flubber](entries/other/veltman-flubber.md) ⚑ | 6,966 | 171 | 停滞 | 0 | 2022-11-08 | 2026-11-11 | 2026-11-11 | MIT |
+| [Kando](entries/other/kando-menu-kando.md) ⚑ | 6,646 | 242 | 毎日 | 60 | 2026-11-12 | 2026-11-14 | 2026-11-14 | unknown |
 | [Pedalboard](entries/other/spotify-pedalboard.md) ⚑ | 6,475 | 376 | 週次 | 11 | 2026-11-09 | 2026-11-11 | 2026-11-11 | GPL-3.0 |
 | [Telegram Media Downloader](entries/other/neet-nestor-telegram-media-downloader.md) ⚑ | 6,450 | 637 | 週次 | 19 | 2026-10-19 | 2026-11-13 | 2026-11-13 | GPL-3.0 |
 | [微信视频号下载工具](entries/other/qiye45-wechatvideodownload.md) ⚑ | 6,054 | 578 | 月次 | 0 | 2026-10-05 | 2026-11-13 | 2026-11-13 | unknown |
@@ -2027,6 +2028,7 @@
 - [librosa](entries/other/librosa-librosa.md) — unverified / GitHub の latest は 1.0.0 に転送されたが、GitHub 上の公開日は未確認。PyPI の公開日は 2026-08-11。手順は公式資料に基づき、独立した実行・精度測定は行っていない。
 - [HomeBox](entries/other/sysadminsmedia-homebox.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [flubber](entries/other/veltman-flubber.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
+- [Kando](entries/other/kando-menu-kando.md) — unverified / API上のlicenseはunknown。READMEは無料と説明していますが、ライセンス条件はREADMEの記載だけでは確認できません。 GitHub APIでライセンスを確認できていません。
 - [Pedalboard](entries/other/spotify-pedalboard.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Telegram Media Downloader](entries/other/neet-nestor-telegram-media-downloader.md) — unverified / ダウンロード制限のあるコンテンツへの適用可否や利用条件は、Telegram側の権限・規約との関係をREADMEだけでは確認できない。
 - [微信视频号下载工具](entries/other/qiye45-wechatvideodownload.md) — unverified / READMEには学習・研究目的に限定し、商用または違法な用途を禁止する旨の免責事項がある。利用時の法的責任や対象サービスの利用条件はREADMEでは確認できない。 GitHub APIでライセンスを確認できていません。

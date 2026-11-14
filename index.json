@@ -1,5 +1,5 @@
 {
-  "count": 1034,
+  "count": 1035,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -20770,6 +20770,37 @@
       "fetched_at": "2026-11-11T20:08:22.531588+00:00",
       "path": "entries/other/veltman-flubber.md",
       "summary": "SVGパス文字列または[x, y]点列を入力に、形状間の補間関数を作成する。円・矩形への変形、単一形状と複数形状の分割・結合、複数形状同士の補間、点列からSVGパス文字列への変換などのAPIがある。READMEによれば、補間は「best-guess」であり、穴や複数形状を含むパス文字列では最初の外側形状以外は無視される"
+    },
+    {
+      "name": "Kando",
+      "genre": "other",
+      "url": "https://github.com/kando-menu/kando",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "API上のlicenseはunknown。READMEは無料と説明していますが、ライセンス条件はREADMEの記載だけでは確認できません。 GitHub APIでライセンスを確認できていません。",
+      "repo": "kando-menu/kando",
+      "stars": 6646,
+      "forks": 242,
+      "open_issues": 74,
+      "size_kb": 56243,
+      "language": "TypeScript",
+      "created": "2023-04-16",
+      "updated": "2026-11-12",
+      "archived": false,
+      "license": "unknown",
+      "commits_30d": 60,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "type": "repo",
+      "added": "2026-11-14",
+      "first_seen": "2026-11-14",
+      "sources": [
+        "https://x.com/awe0_io/status/2118741680551772250"
+      ],
+      "fetched_at": "2026-11-14T00:13:41.122820+00:00",
+      "path": "entries/other/kando-menu-kando.md",
+      "summary": "デスクトップ向けのパイメニュー。アプリの起動、キーボードショートカットのシミュレート、ファイルを開く操作などに使える。マウス、スタイラス、タッチ、コントローラーに対応し、キーボードでも操作できる。"
     },
     {
       "name": "Pedalboard",
