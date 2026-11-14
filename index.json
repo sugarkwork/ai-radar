@@ -1,5 +1,5 @@
 {
-  "count": 1031,
+  "count": 1032,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -3944,6 +3944,37 @@
       "type": "repo",
       "path": "entries/agent-framework/jcodesmore-ai-website-cloner-template.md",
       "summary": "コーディングエージェントにURLを渡すと、そのサイトを**編集可能な Next.js アプリとして再構築**するテンプレート。/clone-website <url> のスキルを同梱する。"
+    },
+    {
+      "name": "Knowledge Work Plugins",
+      "genre": "agent-framework",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "repo": "anthropics/knowledge-work-plugins",
+      "stars": 35663,
+      "forks": 3945,
+      "open_issues": 169,
+      "size_kb": 6859,
+      "language": "Python",
+      "created": "2026-01-23",
+      "updated": "2026-11-13",
+      "archived": false,
+      "license": "Apache-2.0",
+      "commits_30d": 75,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景・有効性・依存関係・実行条件。",
+      "type": "repo",
+      "added": "2026-11-14",
+      "first_seen": "2026-11-14",
+      "sources": [
+        "https://x.com/awe0_io/status/2118739120206045238"
+      ],
+      "fetched_at": "2026-11-13T23:19:15.427574+00:00",
+      "path": "entries/agent-framework/anthropics-knowledge-work-plugins.md",
+      "summary": "職務別プラグインを通じて、Claudeにスキル、外部ツール接続、スラッシュコマンドを提供する。READMEでは、生産性、営業、カスタマーサポート、製品管理、マーケティング、法務、財務、データ、企業内検索、バイオ研究、プラグイン管理の11種類を紹介している。"
     },
     {
       "repo": "vxcontrol/pentagi",

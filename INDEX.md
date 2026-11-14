@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1031 件 — リポジトリ 685, リンク集 119, 記事 160, モデル 53, プロンプト 14 / ⚑ 要確認 812 件
+収録 1032 件 — リポジトリ 686, リンク集 119, 記事 160, モデル 53, プロンプト 14 / ⚑ 要確認 813 件
 
-## リポジトリ（685）
+## リポジトリ（686）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -230,7 +230,7 @@
 | [Berth](entries/coding-agent/maxzyma-berth.md) ⚑ | 0 | 0 | 毎日 | 100+ | 2026-11-11 | 2026-11-12 | 2026-11-12 | MIT |
 | [Leash](entries/coding-agent/cmaintz-leash.md) ⚑ | 0 | 0 | 毎日 | 21 | 2026-11-06 | 2026-11-10 | 2026-11-11 | MIT |
 
-### エージェント基盤・スキル集（97）
+### エージェント基盤・スキル集（98）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -259,6 +259,7 @@
 | [claude-plugins-official](entries/agent-framework/anthropics-claude-plugins-official.md) | 46,615 | 4,858 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
 | [oh-my-claudecode](entries/agent-framework/yeachan-heo-oh-my-claudecode.md) ⚑ | 40,729 | 3,637 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | MIT |
 | [ai-website-cloner-template](entries/agent-framework/jcodesmore-ai-website-cloner-template.md) | 38,914 | 5,791 | 月次 | 0 | 2026-10-19 | 2026-11-09 | 2026-11-10 | MIT |
+| [Knowledge Work Plugins](entries/agent-framework/anthropics-knowledge-work-plugins.md) ⚑ | 35,663 | 3,945 | 毎日 | 75 | 2026-11-13 | 2026-11-13 | 2026-11-14 | Apache-2.0 |
 | [PentAGI](entries/agent-framework/vxcontrol-pentagi.md) ⚑ | 33,799 | 5,305 | 月次 | 1 | 2026-10-22 | 2026-11-09 | 2026-11-10 | MIT |
 | [GBrain](entries/agent-framework/garrytan-gbrain.md) ⚑ | 32,488 | 4,838 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-11 | MIT |
 | [Composio](entries/agent-framework/composiohq-composio.md) ⚑ | 31,014 | 4,935 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-11 | MIT |
@@ -1554,6 +1555,7 @@
 - [CrewAI](entries/agent-framework/crewaiinc-crewai.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Flowise](entries/agent-framework/flowiseai-flowise.md) — unverified / READMEにリポジトリがアーカイブ済みと明記されています。GitHub APIのライセンス値はunknownですが、READMEはApache License Version 2.0と記載しています。 GitHub APIでライセンスを確認できていません。
 - [oh-my-claudecode](entries/agent-framework/yeachan-heo-oh-my-claudecode.md) — unverified / 導入と実行は未検証。単一エージェントと比較した品質・所要時間・モデル利用料の実測は確認していない。最新リリースのタグは確認したが、公開日時のタイムゾーンは確認できなかった。30日・90日のコミット数はいずれも取得上限に達しており、100件以上を示す。
+- [Knowledge Work Plugins](entries/agent-framework/anthropics-knowledge-work-plugins.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [PentAGI](entries/agent-framework/vxcontrol-pentagi.md) — unverified / 自律型ペネトレーションテスト基盤であり、動作は「対象への実際の攻撃」そのもの。README は利用者を "Security engineers, penetration testers, researchers and red teams ... for authorized testing only" と限定しており、自組織資産または書面で許可された範囲以外への実行は法律違反になり得る。既定の管理者アカウントは admin@pentagi.com / admin で、初回ログイン時に変更しないまま外部公開すると乗っ取りにつながる。サンドボックスへ Docker を渡す設定は特に危険で、リリースノートは CVE-2026-14784 について "with `DOCKER_INSIDE=true`, as the shipped `.env.example` set it, the host Docker socket was mounted into every sandbox, so an agent steered by prompt injection could take over the host" と説明し、2.2.0 で DOCKER_INSIDE の既定を false、ホストソケットの自動マウント廃止に変更した。README もソケットの bind mount を "Not recommended" と明記。プロンプトインジェクション耐性はモデルの指示追従性に依存し、完全には閉じないとリリースノート自身が述べている。機能面の注意: MCP サーバ、エージェントプロファイル、プラグイン、攻撃チェーン可視化、顧客向けレポートは PentAGI Enterprise（有償、別ライセンスキー）側で、本リポジトリの OSS 版には含まれない。Kali イメージの mcp タグはサンドボックス側のゲートウェイであり、PentAGI 本体の MCP サーバではない。有効性はベンダー自身の ctester レポートと主張に基づき、独立した第三者ベンチマークは未確認（ベンダー主張のみで独立検証なし）。LLM API 利用料は別途発生する。BAS／敵対エミュレーション製品ではないと README が明記しており、その用途には使えない。
 - [GBrain](entries/agent-framework/garrytan-gbrain.md) — unverified / READMEは作者の説明であり、記載された機能・性能を独立に検証したものではありません。
 - [Composio](entries/agent-framework/composiohq-composio.md) — unverified / 利用にはCOMPOSIO_API_KEYが必要とREADMEに記載。README記載の機能や規模について独立した検証はしていない。
