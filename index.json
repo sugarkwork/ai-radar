@@ -1,5 +1,5 @@
 {
-  "count": 1039,
+  "count": 1040,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -17844,6 +17844,38 @@
       "fetched_at": "2026-11-10T03:36:40Z",
       "path": "links/mcp-server/date-math.datemath.workers.dev-date-math.md",
       "summary": "AIエージェント向けに日時計算を提供する。"
+    },
+    {
+      "name": "gmail-browser-mcp",
+      "genre": "mcp-server",
+      "url": "https://github.com/sparsh101sparsh/gmail-browser-mcp",
+      "repo": "sparsh101sparsh/gmail-browser-mcp",
+      "license": "unknown",
+      "stars": 0,
+      "language": "TypeScript",
+      "created": "2026-11-11",
+      "updated": "2026-11-13",
+      "forks": 0,
+      "open_issues": 0,
+      "commits_30d": 88,
+      "commit_cadence": "daily",
+      "commits_90d": 88,
+      "size_kb": 984,
+      "archived": false,
+      "flags": [
+        "low-quality",
+        "unverified"
+      ],
+      "risk_notes": "作者自身がX投稿で「not in production stage」「you need to configure multiple things by yourself」と説明。 作者の説明では本番利用段階ではなく、複数の設定を利用者が行う必要がある。必要な設定項目と本番利用条件は今回確認した資料だけでは特定できない。 GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-14",
+      "first_seen": "2026-11-14",
+      "sources": [
+        "https://x.com/issparssh/status/2121389152768008212"
+      ],
+      "fetched_at": "2026-11-14T01:10:47Z",
+      "path": "entries/mcp-server/sparsh101sparsh-gmail-browser-mcp.md",
+      "summary": "GitHubの説明ではPlaywrightを使ったブラウザー自動化によるGmail MCPサーバー。package.jsonは製品説明として「Local browser-automated Gmail MCP server using Playwright and persistent user profile」と記載"
     },
     {
       "repo": "cheaper-inference/OmniRoute",
