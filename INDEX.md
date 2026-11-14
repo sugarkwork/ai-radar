@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1051 件 — リポジトリ 703, リンク集 119, 記事 162, モデル 53, プロンプト 14 / ⚑ 要確認 830 件
+収録 1052 件 — リポジトリ 704, リンク集 119, 記事 162, モデル 53, プロンプト 14 / ⚑ 要確認 831 件
 
-## リポジトリ（703）
+## リポジトリ（704）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（117）
+### その他（118）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Blackbird](entries/other/antoniaci-blackbird.md) ⚑ | 10,154 | 1,472 | 週次 | 5 | 2026-11-03 | 2026-11-13 | 2026-11-14 | unknown |
 | [open-slide](entries/other/open-slide-open-slide.md) ⚑ | 9,729 | 716 | 毎日 | 33 | 2026-11-09 | 2026-11-10 | 2026-11-10 | MIT |
 | [OBLITERATUS](entries/other/elder-plinius-obliteratus.md) | 9,407 | 1,706 | 毎日 | 100+ | 2026-11-05 | 2026-11-09 | 2026-11-10 | AGPL-3.0 |
+| [Webstudio](entries/other/webstudio-is-webstudio.md) ⚑ | 9,170 | 1,639 | 毎日 | 57 | 2026-11-13 | 2026-11-14 | 2026-11-14 | AGPL-3.0 |
 | [librosa](entries/other/librosa-librosa.md) ⚑ | 8,830 | 1,105 | 毎日 | 59 | 2026-11-09 | 2026-11-10 | 2026-11-10 | ISC |
 | [StatiCrypt](entries/other/robinmoisson-staticrypt.md) ⚑ | 8,074 | 502 | 停滞 | 0 | 2026-07-06 | 2026-11-14 | 2026-11-14 | MIT |
 | [HomeBox](entries/other/sysadminsmedia-homebox.md) ⚑ | 7,842 | 620 | 毎日 | 22 | 2026-11-07 | 2026-11-12 | 2026-11-12 | AGPL-3.0 |
@@ -2050,6 +2051,7 @@
 - [微信视频号下载器](entries/other/ltaoo-wx_channels_download.md) — unverified / README記載の利用には管理者権限での実行と証明書のインストールが必要です。ライセンスはAPIでunknownと確認されています。 GitHub APIでライセンスを確認できていません。
 - [Blackbird](entries/other/antoniaci-blackbird.md) — unverified / README記載の「低い誤検出率」やAIによるプロファイリングの有効性は独立検証されていない。ライセンスはAPI上unknown。README内のclone先は別リポジトリ p1ngul1n0/blackbird を指しており、対象リポジトリでの実行・依存関係は確認できない。 GitHub APIでライセンスを確認できていません。
 - [open-slide](entries/other/open-slide-open-slide.md) — unverified / 公開リリース一覧では @open-slide/core@2.3.2 が Latest と表示された一方、取得した /releases/latest はキャッシュから @open-slide/core@2.0.1 に転送されたため、最新タグと公開日時は未確定。CLIやエージェントは実行しておらず、制作時間の短縮、PPTXの再現性・編集互換性、エージェント側の契約・料金は未検証。
+- [Webstudio](entries/other/webstudio-is-webstudio.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [librosa](entries/other/librosa-librosa.md) — unverified / GitHub の latest は 1.0.0 に転送されたが、GitHub 上の公開日は未確認。PyPI の公開日は 2026-08-11。手順は公式資料に基づき、独立した実行・精度測定は行っていない。
 - [StatiCrypt](entries/other/robinmoisson-staticrypt.md) — unverified / README says shareable links contain the hashed password and can auto-decrypt the file. Treat such links as credentials.
 - [HomeBox](entries/other/sysadminsmedia-homebox.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
