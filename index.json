@@ -1,5 +1,5 @@
 {
-  "count": 1078,
+  "count": 1079,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -23433,6 +23433,37 @@
       "fetched_at": "2026-11-10T12:31:32+00:00",
       "path": "entries/other/christianmat-jev-pokemon.md",
       "summary": "Game Boy エミュレーターの RAM からマップ、手持ち、戦闘、表示テキストを取得する。行動候補にタイプ相性やダメージ見積もりを添えて Jev に渡し、選ばれた行動をボタン入力に変換する。"
+    },
+    {
+      "name": "myradio",
+      "genre": "other",
+      "url": "https://github.com/monoradio102/myradio",
+      "repo": "monoradio102/myradio",
+      "license": "unknown",
+      "stars": 107,
+      "language": "HTML",
+      "created": "2026-11-05",
+      "updated": "2026-11-13",
+      "forks": 15,
+      "open_issues": 0,
+      "commits_30d": 37,
+      "commit_cadence": "daily",
+      "commits_90d": 37,
+      "size_kb": 23156,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-14",
+      "first_seen": "2026-11-14",
+      "sources": [
+        "https://x.com/naka_1717/status/2118823104977965390"
+      ],
+      "fetched_at": "2026-11-14T11:13:11.272114+00:00",
+      "path": "entries/other/monoradio102-myradio.md",
+      "summary": "台本JSONと音声をリポジトリに置き、GitHub Pagesでキャラクター付きのHTML番組を公開する。音声に合わせてスライド・字幕・キャラクター・リンクカードを動かし、見出し移動、記事リンク、台本の閲覧に対応する。天気表示、SNS共有カード、埋め込み、コメント欄の機能もREADMEに記載されている。"
     },
     {
       "repo": "bytelabs-oss/clash-jev",
