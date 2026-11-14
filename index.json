@@ -1,5 +1,5 @@
 {
-  "count": 1052,
+  "count": 1053,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -5104,6 +5104,37 @@
       "last_release_at": "2026-11-06",
       "path": "entries/agent-framework/ccch1mneyyy-dsh-tui.md",
       "summary": "DSHのターミナルUIとして紹介されたdsh-TUI。"
+    },
+    {
+      "name": "Rune",
+      "genre": "agent-framework",
+      "url": "https://github.com/anomalyco/rune",
+      "repo": "anomalyco/rune",
+      "stars": 7051,
+      "forks": 266,
+      "open_issues": 377,
+      "size_kb": 162387,
+      "language": "Rust",
+      "created": "2026-10-22",
+      "updated": "2026-11-14",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 100,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景・有効性・依存関係・実行条件。",
+      "type": "repo",
+      "added": "2026-11-14",
+      "first_seen": "2026-11-14",
+      "sources": [
+        "https://x.com/Ryrenz/status/2118775440810680672"
+      ],
+      "fetched_at": "2026-11-14T04:16:15.793761+00:00",
+      "path": "entries/agent-framework/anomalyco-rune.md",
+      "summary": "macOS、Windows、Linux、Web向けのネイティブGPU描画Rust UIフレームワーク。独自のrenderer、text、layout、springsを備え、アプリをヘッドレスで実行してPNG描画、element treeの出力、スクリプト入力による操作ができるとREADMEは説明している。出典: htt"
     },
     {
       "repo": "Anil-matcha/open-duet",
