@@ -6,21 +6,34 @@
 
 ## 2026-11-15（日本時間）
 
+- [X: yang_xin19 の投稿](https://x.com/yang_xin19/status/2118945969090040184)
+  - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: ranbpa0 の投稿](https://x.com/ranbpa0/status/2118860498624266398)
   - 対象を裏付ける公開一次資料を確認できませんでした。
   - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://x.com/ranbpa0/status/2118860498624266398>。
 - [X: okapi_fukugyo の投稿](https://x.com/okapi_fukugyo/status/2118857106518602083)
   - 対象を裏付ける公開一次資料を確認できませんでした。
   - 公開に必須の根拠がそろっていません。
+- [X: naka_1717 の投稿](https://x.com/naka_1717/status/2118869130535375008)
+  - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://x.com/arafune/status/2118582485412131107>。
 - [X: mnishi41 の投稿](https://x.com/mnishi41/status/2118852779020312988)
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+- [X: bkdgiffug の投稿](https://x.com/bkdgiffug/status/2118865264070848901)
+  - 一次資料と候補の説明に、解消できない相違があります。 照合済み参照先: <https://github.com/KevinLiss/ApeAdmin>。
 - [X: atch1993 の投稿](https://x.com/atch1993/status/2118925928604803357)
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 - [X: Yarad_ai の投稿](https://x.com/Yarad_ai/status/2121225629177663872)
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+- [X: Vlixsi の投稿](https://x.com/Vlixsi/status/2121631327036318061)
+  - 対象を裏付ける公開一次資料を確認できませんでした。
+  - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://github.com/Tencent-Hunyuan/Hunyuan3D-2.1>。
+- [X: NFT_Chen の投稿](https://x.com/NFT_Chen/status/2118864161878966461)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 - [X: NFT_Chen の投稿](https://x.com/NFT_Chen/status/2118857618055905764)
   - 対象を裏付ける公開一次資料を確認できませんでした。
   - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://x.com/firesidealpha/status/2118778601726501016>。
+- [X: Awed_Urshy の投稿](https://x.com/Awed_Urshy/status/2118866796250038660)
+  - 候補の対象が複数あり、一意に特定できませんでした。
 ## 2026-11-14（日本時間）
 
 - [X: yang_xin19 の投稿](https://x.com/yang_xin19/status/2118909872767176872)
