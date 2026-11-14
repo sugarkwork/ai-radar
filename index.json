@@ -1,5 +1,5 @@
 {
-  "count": 1010,
+  "count": 1011,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -4224,6 +4224,37 @@
       "last_release_at": "2026-11-09",
       "path": "entries/agent-framework/milind-soni-openmausbot.md",
       "summary": "Grok Bot型の連絡先UIでclaude/codex/grok CLI等を実行するOpenMausBot。各ボットの人格・モデル・接続アプリ・実行先を分け承認カードを出す。"
+    },
+    {
+      "name": "Rowboat",
+      "genre": "agent-framework",
+      "url": "https://github.com/rowboatlabs/rowboat",
+      "repo": "rowboatlabs/rowboat",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEは「Expect breaking changes while we dogfood」としており、wire contractの互換性は今後変更される可能性がある。",
+      "stars": 18231,
+      "forks": 1824,
+      "open_issues": 240,
+      "size_kb": 160283,
+      "language": "TypeScript",
+      "created": "2025-01-13",
+      "updated": "2026-11-13",
+      "archived": false,
+      "license": "Apache-2.0",
+      "commits_30d": 100,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "type": "repo",
+      "added": "2026-11-14",
+      "first_seen": "2026-11-14",
+      "sources": [
+        "https://x.com/ruyi3699/status/2118704706897736102"
+      ],
+      "fetched_at": "2026-11-13T19:10:10.908899+00:00",
+      "path": "entries/agent-framework/rowboatlabs-rowboat.md",
+      "summary": "人とエージェントが共有スペースやグループチャットで協働する。エージェントはメッセージ、スレッド、ファイル、タスク一覧などを共有できる。HarborはSpacesのサーバーで、MCP経由の接続にも対応する。デスクトップアプリはローカルの作業情報をインデックス化し、メール、ノート、ブラウザー、コード作業、会議メモなどに使う"
     },
     {
       "type": "repo",
