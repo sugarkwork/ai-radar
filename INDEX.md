@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1028 件 — リポジトリ 684, リンク集 119, 記事 158, モデル 53, プロンプト 14 / ⚑ 要確認 811 件
+収録 1029 件 — リポジトリ 684, リンク集 119, 記事 159, モデル 53, プロンプト 14 / ⚑ 要確認 811 件
 
 ## リポジトリ（684）
 
@@ -1252,9 +1252,9 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（158）
+## 記事（159）
 
-### 記事（95）
+### 記事（96）
 
 - **[$0のデジタル参謀長で月$80,000の契約候補を作ったというX投稿（動画付き）](articles/2026-10-22-bober_smart-0-80-000-x.md)** ⚑  @Bober_smart
 - **[1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md)** ⚑  @mukadeshinigami（mukade死神）
@@ -1285,6 +1285,7 @@
 - **[Design the Muse App, Just for You](articles/2026-11-06-author-design-the-muse-app-just-for-you.md)** ⚑
 - **[Eddie Woo の対数講義――「何倍になるまでの時間」を1本の対数で読む](articles/2026-09-14-xsmryze-eddie-woo-1-589eee2ad8.md)** ⚑  xsmryze
 - **[EmbeddingGemma 2を使ったオンデバイス英語文字起こし](articles/2026-10-12-shahir-embeddinggemma-2.md)** ⚑  Shahir
+- **[Evidence of red blood cells seen in dinosaur fossil from Brazil](articles/2026-11-02-author-evidence-of-red-blood-cells-seen-in-dinosaur-fossil-from-brazil.md)**
 - **[FlashRelight: Portrait Video Relighting with Dynamic Lighting](articles/2026-11-04-author-flashrelight-portrait-video-relighting-with-dynamic-lighting.md)**
 - **[FlowTranslator: Training-Free In-Image Machine Translation with Flow-Based Editing](articles/2026-11-03-author-flowtranslator-training-free-in-image-machine-translation-with-flow-based-editin.md)** ⚑
 - **[GDG OAUのAgent Skillsワークショップ報告](articles/2026-11-07-gdg-oau-gdg-oau-agent-skills.md)** ⚑  GDG OAU

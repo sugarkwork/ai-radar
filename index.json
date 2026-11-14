@@ -1,5 +1,5 @@
 {
-  "count": 1028,
+  "count": 1029,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -7456,6 +7456,22 @@
       ],
       "fetched_at": "2026-11-10T13:09:00+09:00",
       "path": "articles/2026-10-12-shahir-embeddinggemma-2.md"
+    },
+    {
+      "name": "Evidence of red blood cells seen in dinosaur fossil from Brazil",
+      "genre": "article",
+      "url": "https://www.reuters.com/science/evidence-red-blood-cells-seen-dinosaur-fossil-brazil-2026-11-02/",
+      "published": "2026-11-02",
+      "flags": [],
+      "type": "article",
+      "added": "2026-11-14",
+      "first_seen": "2026-11-14",
+      "risk_notes": "",
+      "sources": [
+        "https://x.com/awe0_io/status/2118737574936400192"
+      ],
+      "fetched_at": "2026-11-13T22:11:27.288343+00:00",
+      "path": "articles/2026-11-02-author-evidence-of-red-blood-cells-seen-in-dinosaur-fossil-from-brazil.md"
     },
     {
       "name": "FlashRelight: Portrait Video Relighting with Dynamic Lighting",
