@@ -8,11 +8,46 @@
 
 - [X: yang_xin19 の投稿](https://x.com/yang_xin19/status/2118945969090040184)
   - 対象を裏付ける公開一次資料を確認できませんでした。
+- [X: tokufxug の投稿](https://x.com/tokufxug/status/2118905819265954053)
+  - 公開に必須の根拠がそろっていません。
+- [X: tokufxug の投稿](https://x.com/tokufxug/status/2118905723719680051)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+- [X: tokufxug の投稿](https://x.com/tokufxug/status/2118900422824108351)
+  - 一次資料と候補の説明に、解消できない相違があります。
+  - 公開に必須の根拠がそろっていません。
+- [X: tokufxug の投稿](https://x.com/tokufxug/status/2118900303663948176)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+- [X: tokufxug の投稿](https://x.com/tokufxug/status/2118898297020813525)
+  - 候補の対象が複数あり、一意に特定できませんでした。
+  - 対象を裏付ける公開一次資料を確認できませんでした。
+  - 公開に必須の根拠がそろっていません。
+- [X: tokufxug の投稿](https://x.com/tokufxug/status/2118898139180724711)
+  - 対象を裏付ける公開一次資料を確認できませんでした。
+- [X: tokufxug の投稿](https://x.com/tokufxug/status/2118896163554488397)
+  - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+  - 対象を裏付ける公開一次資料を確認できませんでした。
+  - 公開に必須の根拠がそろっていません。
+- [X: tokufxug の投稿](https://x.com/tokufxug/status/2118896015935930647)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+- [X: tokufxug の投稿](https://x.com/tokufxug/status/2118892032190243171)
+  - 公開に必須の根拠がそろっていません。
+- [X: tokufxug の投稿](https://x.com/tokufxug/status/2118891900413550889)
+  - 候補の対象が複数あり、一意に特定できませんでした。
+- [X: tokufxug の投稿](https://x.com/tokufxug/status/2118891131102777379)
+  - 公開に必須の根拠がそろっていません。
+- [X: tokufxug の投稿](https://x.com/tokufxug/status/2118891012273885579)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+- [X: superfang119 の投稿](https://x.com/superfang119/status/2118897891167359384)
+  - 下書きが公開用の検証基準を満たしていません。 照合済み参照先: <https://huggingface.co/VideoRebirthAI/hyperflow-h3-flash>。
 - [X: sep_is_heim の投稿](https://x.com/sep_is_heim/status/2118874673467552234)
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
 - [X: ranbpa0 の投稿](https://x.com/ranbpa0/status/2118860498624266398)
   - 対象を裏付ける公開一次資料を確認できませんでした。
   - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://x.com/ranbpa0/status/2118860498624266398>。
+- [X: okapi_fukugyo の投稿](https://x.com/okapi_fukugyo/status/2118893124194082977)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+  - 対象を裏付ける公開一次資料を確認できませんでした。
+  - 公開に必須の根拠がそろっていません。
 - [X: okapi_fukugyo の投稿](https://x.com/okapi_fukugyo/status/2118857106518602083)
   - 対象を裏付ける公開一次資料を確認できませんでした。
   - 公開に必須の根拠がそろっていません。
@@ -32,6 +67,8 @@
 - [X: daaihq の投稿](https://x.com/daaihq/status/2118888221233013237)
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
   - 対象を裏付ける公開一次資料を確認できませんでした。
+- [X: bkdgiffug の投稿](https://x.com/bkdgiffug/status/2118904774712013209)
+  - 公開に必須の根拠がそろっていません。
 - [X: bkdgiffug の投稿](https://x.com/bkdgiffug/status/2118865264070848901)
   - 一次資料と候補の説明に、解消できない相違があります。 照合済み参照先: <https://github.com/KevinLiss/ApeAdmin>。
 - [X: atch1993 の投稿](https://x.com/atch1993/status/2118925928604803357)
@@ -41,13 +78,25 @@
 - [X: Vlixsi の投稿](https://x.com/Vlixsi/status/2121631327036318061)
   - 対象を裏付ける公開一次資料を確認できませんでした。
   - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://github.com/Tencent-Hunyuan/Hunyuan3D-2.1>。
+- [X: RoundtableSpace の投稿](https://x.com/RoundtableSpace/status/2118897476749209878)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+- [X: RoundtableSpace の投稿](https://x.com/RoundtableSpace/status/2118889927199142290)
+  - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: RoundtableSpace の投稿](https://x.com/RoundtableSpace/status/2118882376981823653)
   - 対象を裏付ける公開一次資料を確認できませんでした。
+- [X: RealMarvelX の投稿](https://x.com/RealMarvelX/status/2118899249794425275)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+  - 公開に必須の根拠がそろっていません。
 - [X: NFT_Chen の投稿](https://x.com/NFT_Chen/status/2118864161878966461)
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 - [X: NFT_Chen の投稿](https://x.com/NFT_Chen/status/2118857618055905764)
   - 対象を裏付ける公開一次資料を確認できませんでした。
   - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://x.com/firesidealpha/status/2118778601726501016>。
+- [X: Leviwoyun の投稿](https://x.com/Leviwoyun/status/2118893810684227761)
+  - 候補の対象が複数あり、一意に特定できませんでした。
+- [X: Leviwoyun の投稿](https://x.com/Leviwoyun/status/2118893693440782369)
+  - 候補の対象が複数あり、一意に特定できませんでした。
+  - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: Leviwoyun の投稿](https://x.com/Leviwoyun/status/2118881463534059903)
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
   - 公開に必須の根拠がそろっていません。
