@@ -1,5 +1,5 @@
 {
-  "count": 1071,
+  "count": 1072,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -7963,6 +7963,24 @@
       ],
       "fetched_at": "2026-11-10T11:19:41Z",
       "path": "articles/2026-11-05-author-independent-assessment-of-ai-r-d-acceleration-at-anthropic-in-october-2026.md"
+    },
+    {
+      "name": "Introducing Loom: agent memory that keeps up with your code",
+      "genre": "article",
+      "url": "https://clickhouse.com/blog/introducing-loom-agent-memory-that-keeps-up-with-your-code",
+      "published": "2026-11-13",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "ベンチマークはClickHouseによる自社評価であり、記事は独立した再現結果を示していない。記載された改善値は評価条件に基づく著者報告として扱う。",
+      "type": "article",
+      "added": "2026-11-14",
+      "first_seen": "2026-11-14",
+      "sources": [
+        "https://x.com/legoboku/status/2121527246062236042"
+      ],
+      "fetched_at": "2026-11-14T09:09:18.732975+00:00",
+      "path": "articles/2026-11-13-author-introducing-loom-agent-memory-that-keeps-up-with-your-code.md"
     },
     {
       "name": "Introducing System One Models & Jev",
