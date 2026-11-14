@@ -1,5 +1,5 @@
 {
-  "count": 1077,
+  "count": 1078,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -26744,6 +26744,37 @@
       "type": "repo",
       "path": "entries/tts-audio/rvc-project-retrieval-based-voice-conversion-webui.md",
       "summary": "10分程度の音声データから声質変換（Voice Conversion）モデルを学習できる。歌声・話し声の両方に対応。"
+    },
+    {
+      "name": "OpenVoice",
+      "genre": "tts-audio",
+      "url": "https://github.com/myshell-ai/OpenVoice",
+      "repo": "myshell-ai/OpenVoice",
+      "license": "MIT",
+      "stars": 38239,
+      "language": "Python",
+      "created": "2023-11-29",
+      "updated": "2025-04-19",
+      "forks": 4293,
+      "open_issues": 316,
+      "commits_30d": 0,
+      "commit_cadence": "stale",
+      "commits_90d": 0,
+      "size_kb": 3944,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景・有効性・依存関係・実行条件。",
+      "type": "repo",
+      "added": "2026-11-14",
+      "first_seen": "2026-11-14",
+      "sources": [
+        "https://x.com/RoundtableSpace/status/2118814429353783493"
+      ],
+      "fetched_at": "2026-11-14T10:15:03.826642+00:00",
+      "path": "entries/tts-audio/myshell-ai-openvoice.md",
+      "summary": "参照音声の声色を複製して複数言語・アクセントで音声を生成し、感情やアクセント、リズム、間、イントネーションなどの音声スタイルを制御する機能をREADMEで説明。V2は英語、スペイン語、フランス語、中国語、日本語、韓国語をネイティブにサポートすると記載されている。"
     },
     {
       "repo": "svc-develop-team/so-vits-svc",

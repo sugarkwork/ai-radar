@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1077 件 — リポジトリ 722, リンク集 119, 記事 169, モデル 53, プロンプト 14 / ⚑ 要確認 851 件
+収録 1078 件 — リポジトリ 723, リンク集 119, 記事 169, モデル 53, プロンプト 14 / ⚑ 要確認 852 件
 
-## リポジトリ（722）
+## リポジトリ（723）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -538,7 +538,7 @@
 | [3dmodel](entries/3d-motion/fletcherholt-3dmodel-skill.md) ⚑ | 6 | 0 | 停滞 | 0 | 2026-06-16 | 2026-11-10 | 2026-11-10 | unknown |
 | [Lida-V/LidaAngelToon](entries/3d-motion/lida-v-lidaangeltoon.md) ⚑ | 6 | 0 | 週次 | 13 | 2026-10-17 | 2026-11-09 | 2026-11-10 | NOASSERTION |
 
-### 音声・TTS（38）
+### 音声・TTS（39）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -549,6 +549,7 @@
 | [OpenBMB/VoxCPM](entries/tts-audio/openbmb-voxcpm.md) ⚑ | 42,103 | 4,798 | 月次 | 3 | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
 | [Bark](entries/tts-audio/suno-ai-bark.md) | 39,332 | 4,659 | 停滞 | 0 | 2024-08-19 | 2026-11-09 | 2026-11-10 | MIT |
 | [RVC (Retrieval-based Voice Conversion WebUI)](entries/tts-audio/rvc-project-retrieval-based-voice-conversion-webui.md) | 39,138 | 5,349 | 停滞 | 0 | 2026-08-04 | 2026-11-09 | 2026-11-10 | MIT |
+| [OpenVoice](entries/tts-audio/myshell-ai-openvoice.md) ⚑ | 38,239 | 4,293 | 停滞 | 0 | 2025-04-19 | 2026-11-14 | 2026-11-14 | MIT |
 | [so-vits-svc](entries/tts-audio/svc-develop-team-so-vits-svc.md) | 28,049 | 5,010 | 停滞 | 0 | 2023-11-11 | 2026-11-09 | 2026-11-10 | AGPL-3.0 |
 | [Chatterbox](entries/tts-audio/resemble-ai-chatterbox.md) ⚑ | 27,726 | 3,730 | 月次 | 1 | 2026-11-04 | 2026-11-10 | 2026-11-10 | MIT |
 | [faster-whisper](entries/tts-audio/systran-faster-whisper.md) ⚑ | 26,637 | 2,228 | 週次 | 6 | 2026-11-06 | 2026-11-10 | 2026-11-10 | MIT |
@@ -2229,6 +2230,7 @@
 - [plamo-3-translate WebGPUやさしい日本語Chrome拡張の制作事例](articles/2026-11-09-https-x.com-gosrum-status-2119048949831188578.md) — unverified / 基底翻訳モデルの配布とChrome拡張の公開を混同しない。NVIDIAなら高速という部分は本人推測で実行比較なし。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [microsoft/VibeVoice](entries/tts-audio/microsoft-vibevoice.md) — unverified / 旧TTSコードは2025-09-05に削除され、Quick TryがDisabledの箇所もある。過去のTTSデモを現行でそのまま利用可能とは扱わない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [OpenBMB/VoxCPM](entries/tts-audio/openbmb-voxcpm.md) — unverified / RTX4090のRTF約0.3やVRAM約8GBは配布元の記述。トレンド1位は未確認。本人または許諾済み音声だけを利用し、コード・重み以外の権利も確認する。 当方でインストール・推論・生成・ベンチ再現はしていない。
+- [OpenVoice](entries/tts-audio/myshell-ai-openvoice.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Chatterbox](entries/tts-audio/resemble-ai-chatterbox.md) — unverified / 公開元が案内する聴取評価の詳細と結果、生成速度、必要VRAM、透かしの検出性能は未検証。GitHubリリースの公開日は未確認。音声参照素材の利用許諾は個別に確認が必要。
 - [faster-whisper](entries/tts-audio/systran-faster-whisper.md) — unverified / ['最新リリースのタグは確認済み。公開日の年とタイムゾーンを含む公開日時は未確認。', '性能値は開発元のベンチマーク。今回の精査では実行せず、別の音源や環境での処理速度・認識精度は未検証。']
 - [WhisperX](entries/tts-audio/m-bain-whisperx.md) — unverified / 最新版のタグと公開日時、対象音声での速度・単語境界の精度、投稿で紹介された動画制作工程との統合は未確認。
