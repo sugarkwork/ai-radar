@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1082 件 — リポジトリ 727, リンク集 119, 記事 169, モデル 53, プロンプト 14 / ⚑ 要確認 856 件
+収録 1083 件 — リポジトリ 728, リンク集 119, 記事 169, モデル 53, プロンプト 14 / ⚑ 要確認 857 件
 
-## リポジトリ（727）
+## リポジトリ（728）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -255,12 +255,13 @@
 | [Berth](entries/coding-agent/maxzyma-berth.md) ⚑ | 0 | 0 | 毎日 | 100+ | 2026-11-11 | 2026-11-12 | 2026-11-12 | MIT |
 | [Leash](entries/coding-agent/cmaintz-leash.md) ⚑ | 0 | 0 | 毎日 | 21 | 2026-11-06 | 2026-11-10 | 2026-11-11 | MIT |
 
-### エージェント基盤・スキル集（102）
+### エージェント基盤・スキル集（103）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
 | [Skills for Real Engineers](entries/agent-framework/mattpocock-skills.md) | 319,628 | 26,760 | 週次 | 8 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
 | [Superpowers](entries/agent-framework/obra-superpowers.md) | 315,107 | 28,031 | 月次 | 3 | 2026-11-03 | 2026-11-09 | 2026-11-10 | MIT |
+| [Hermes Agent](entries/agent-framework/nousresearch-hermes-agent.md) ⚑ | 263,292 | 59,333 | 毎日 | 100+ | 2026-11-14 | 2026-11-14 | 2026-11-14 | MIT |
 | [n8n](entries/agent-framework/n8n-io-n8n.md) ⚑ | 209,990 | 61,430 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | unknown |
 | [Firecrawl](entries/agent-framework/firecrawl-firecrawl.md) ⚑ | 200,407 | 10,543 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-11 | AGPL-3.0 |
 | [anthropics/skills](entries/agent-framework/anthropics-skills.md) ⚑ | 190,810 | 22,434 | 月次 | 2 | 2026-11-06 | 2026-11-09 | 2026-11-10 | unknown |
@@ -1595,6 +1596,7 @@
 - [Claude Code × Blender：ゲーム向け3D制作手順](articles/agent/2026-11-08-rektwild-blender-game-pipeline.md) — unverified / 投稿内容は作者の手順であり完成品質や実行の再現性は未検証。MCP経由の操作はBlenderの開いたシーンを変更し得るため、保存前の確認とバックアップが必要。
 - [Claude Skills 67選：開発向けスキル紹介](articles/agent/2026-04-17-claude-skills-67.md) — unverified / 67件や生産性向上は記事の主張であり個々の現行配布先や効果を一括検証していない。第三者のスキルは指示と実行スクリプトを読むなど、導入前の安全確認が必要。
 - [Meng To：Claudeでthree.jsの部屋を制作](articles/agent/2026-11-07-meng-to-threejs-room.md) — unverified / 公開された映像は作例であり、再現手順・ソースやアプリ再制作の所要時間は独立検証できていない。ソフトウェア配布物ではない。
+- [Hermes Agent](entries/agent-framework/nousresearch-hermes-agent.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [n8n](entries/agent-framework/n8n-io-n8n.md) — unverified / 公式資料で機能と設定手順を確認。Docker起動、MCP接続、ワークフロー実行は未試験。発見投稿のGrok Botとの接続や節約効果は未確認。 GitHub APIでライセンスを確認できていません。
 - [Firecrawl](entries/agent-framework/firecrawl-firecrawl.md) — unverified / README記載の性能やカバー率は独立に検証していない。利用条件や料金もこの資料だけでは確認できない。
 - [anthropics/skills](entries/agent-framework/anthropics-skills.md) — unverified / 原チェックのAPIではlicense未設定。リポジトリ全体と個別技能・素材の条件を一括でApache/MITと断定しない。各条件は利用前に確認する。 当方でインストール・推論・生成・ベンチ再現はしていない。

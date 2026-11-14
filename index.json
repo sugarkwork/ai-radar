@@ -1,5 +1,5 @@
 {
-  "count": 1082,
+  "count": 1083,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -3257,6 +3257,37 @@
       "type": "repo",
       "path": "entries/agent-framework/obra-superpowers.md",
       "summary": "コーディングエージェント向けの「開発方法論」を、合成可能なスキル群として配布する。"
+    },
+    {
+      "name": "Hermes Agent",
+      "genre": "agent-framework",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "repo": "NousResearch/hermes-agent",
+      "language": "Python",
+      "commit_cadence": "daily",
+      "stars": 263292,
+      "forks": 59333,
+      "open_issues": 53308,
+      "size_kb": 1458600,
+      "created": "2025-07-22",
+      "updated": "2026-11-14",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 100,
+      "commits_90d": 100,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景・有効性・依存関係・実行条件。",
+      "type": "repo",
+      "added": "2026-11-14",
+      "first_seen": "2026-11-14",
+      "sources": [
+        "https://x.com/RoundtableSpace/status/2118837821079212188"
+      ],
+      "fetched_at": "2026-11-14T13:06:35.597718+00:00",
+      "path": "entries/agent-framework/nousresearch-hermes-agent.md",
+      "summary": "READMEでは、複数プロバイダーのモデル利用、CLI/TUIでの対話、Telegram・Discord・Slack・WhatsApp・Signal向けゲートウェイ、cronによる定期実行、サブエージェントによる並列作業、過去の会話検索やスキル作成・改善を説明している。これらはREADME記載の機能説明であり、独立した"
     },
     {
       "repo": "n8n-io/n8n",
