@@ -1,5 +1,5 @@
 {
-  "count": 1107,
+  "count": 1108,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -8224,6 +8224,24 @@
       ],
       "fetched_at": "2026-11-14T09:09:18.732975+00:00",
       "path": "articles/2026-11-13-author-introducing-loom-agent-memory-that-keeps-up-with-your-code.md"
+    },
+    {
+      "name": "Introducing PD Forma: 4D reconstruction, scored against reality.",
+      "genre": "article",
+      "url": "https://paralleldomain.com/resources/pd-forma-launch",
+      "published": "2026-11-04",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "料金と利用条件は記事に記載されていない。",
+      "type": "article",
+      "added": "2026-11-14",
+      "first_seen": "2026-11-14",
+      "sources": [
+        "https://x.com/tokufxug/status/2118900422824108351"
+      ],
+      "fetched_at": "2026-11-14T23:10:33.819292+00:00",
+      "path": "articles/2026-11-04-author-introducing-pd-forma-4d-reconstruction-scored-against-reality.md"
     },
     {
       "name": "Introducing System One Models & Jev",
