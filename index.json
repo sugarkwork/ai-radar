@@ -1,5 +1,5 @@
 {
-  "count": 1103,
+  "count": 1104,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -8890,6 +8890,22 @@
       ],
       "fetched_at": "2026-11-13T22:11:10.607938+00:00",
       "path": "articles/2026-11-04-author-using-chatgpt-at-work-your-boss-may-trust-you-less-new-study-finds.md"
+    },
+    {
+      "name": "VINO: Revisiting 3D Representation Learning with Volume Transformers",
+      "genre": "article",
+      "url": "https://adriankruse.github.io/VINO/",
+      "published": "2026-11-04",
+      "flags": [],
+      "type": "article",
+      "added": "2026-11-14",
+      "first_seen": "2026-11-14",
+      "risk_notes": "",
+      "sources": [
+        "https://x.com/tokufxug/status/2118891131102777379"
+      ],
+      "fetched_at": "2026-11-14T21:12:35.480816+00:00",
+      "path": "articles/2026-11-04-author-vino-revisiting-3d-representation-learning-with-volume-transformers.md"
     },
     {
       "name": "What are vector embeddings? An interactive guide",

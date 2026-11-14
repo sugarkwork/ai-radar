@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1103 件 — リポジトリ 745, リンク集 119, 記事 172, モデル 53, プロンプト 14 / ⚑ 要確認 877 件
+収録 1104 件 — リポジトリ 745, リンク集 119, 記事 173, モデル 53, プロンプト 14 / ⚑ 要確認 877 件
 
 ## リポジトリ（745）
 
@@ -1313,9 +1313,9 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（172）
+## 記事（173）
 
-### 記事（109）
+### 記事（110）
 
 - **[$0のデジタル参謀長で月$80,000の契約候補を作ったというX投稿（動画付き）](articles/2026-10-22-bober_smart-0-80-000-x.md)** ⚑  @Bober_smart
 - **[1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md)** ⚑  @mukadeshinigami（mukade死神）
@@ -1408,6 +1408,7 @@
 - **[TokenSpeedのQwen3.8-Flash-Next推論測定](articles/2026-10-13-tokenspeed-team-tokenspeed-qwen3.8-flash-next.md)** ⚑  TokenSpeed Team
 - **[Upcoming: New age rating content descriptors in App Store Connect](articles/2026-11-02-author-upcoming-new-age-rating-content-descriptors-in-app-store-connect-533ca96fb6.md)**
 - **[Using ChatGPT at work? Your boss may trust you less, new study finds](articles/2026-11-04-author-using-chatgpt-at-work-your-boss-may-trust-you-less-new-study-finds.md)** ⚑
+- **[VINO: Revisiting 3D Representation Learning with Volume Transformers](articles/2026-11-04-author-vino-revisiting-3d-representation-learning-with-volume-transformers.md)**
 - **[What are vector embeddings? An interactive guide](articles/2026-10-14-author-what-are-vector-embeddings-an-interactive-guide.md)**
 - **[Xのアカウントデータを使った自己点検の提案](articles/2026-10-23-jarvis11x-x.md)** ⚑  @jarvis11x
 - **[iPhone『削除済み写真173,521件』主張の検証（PhotoData/Thumbnails）](articles/2026-10-25-bober_smart-iphone-173-521-photodata-thumbnails.md)** ⚑  Bober_smart
