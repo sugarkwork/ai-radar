@@ -21,6 +21,13 @@
 - [X: thegreatest_sv の投稿](https://x.com/thegreatest_sv/status/2118684117055226197)
   - 公開に必須の根拠がそろっていません。
   - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://x.com/thegreatest_sv/status/2118684117055226197>。
+- [X: superfang119 の投稿](https://x.com/superfang119/status/2118778467278062041)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+  - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://x.com/joshesye/status/2118573484330594633>。
+  - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://x.com/superfang119/status/2118778467278062041>。
+- [X: superfang119 の投稿](https://x.com/superfang119/status/2118776663605706833)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+  - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: superfang119 の投稿](https://x.com/superfang119/status/2118763376306507800)
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
@@ -67,6 +74,8 @@
 - [X: mizupyon の投稿](https://x.com/mizupyon/status/2121436106260652535)
   - 対象を裏付ける公開一次資料を確認できませんでした。
   - 公開に必須の根拠がそろっていません。
+- [X: mizupyon の投稿](https://x.com/mizupyon/status/2121422325245768006)
+  - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://x.com/mizupyon/status/2121422325245768006>。
 - [X: jp_costa の投稿](https://x.com/jp_costa/status/2119924600142479497)
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
@@ -77,6 +86,9 @@
 - [X: invest_morgan の投稿](https://x.com/invest_morgan/status/2118856101164961921)
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 - [X: ganfanren_ai の投稿](https://x.com/ganfanren_ai/status/2118721879242633643)
+  - 公開に必須の根拠がそろっていません。
+- [X: fujikawa の投稿](https://x.com/fujikawa/status/2118860150589284601)
+  - 対象を裏付ける公開一次資料を確認できませんでした。
   - 公開に必須の根拠がそろっていません。
 - [X: fhwofjow51260 の投稿](https://x.com/fhwofjow51260/status/2118690573104357789)
   - 対象を裏付ける公開一次資料を確認できませんでした。
@@ -104,6 +116,8 @@
   - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: bladesofmirage の投稿](https://x.com/bladesofmirage/status/2118689861813117380)
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+- [X: bkdgiffug の投稿](https://x.com/bkdgiffug/status/2118778945424212086)
+  - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://github.com/Stirling-Tools/Stirling-PDF>。
 - [X: bkdgiffug の投稿](https://x.com/bkdgiffug/status/2118747739769151562)
   - 下書きが公開用の検証基準を満たしていません。 照合済み参照先: <https://github.com/uucz/moyu>。
 - [X: bkdgiffug の投稿](https://x.com/bkdgiffug/status/2118732137369075961)
@@ -117,6 +131,8 @@
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 - [X: awe0_io の投稿](https://x.com/awe0_io/status/2118704067727999227)
   - 対象を裏付ける公開一次資料を確認できませんでした。
+- [X: alexandr_wang の投稿](https://x.com/alexandr_wang/status/2118776727912755478)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 - [X: ai_hakase_ の投稿](https://x.com/ai_hakase_/status/2119943879369584775)
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
 - [X: YuYoshimuta の投稿](https://x.com/YuYoshimuta/status/2118706791458722089)
@@ -133,6 +149,9 @@
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 - [X: Odi_HGN の投稿](https://x.com/Odi_HGN/status/2118851148006457378)
   - 対象を裏付ける公開一次資料を確認できませんでした。
+- [X: NFT_Chen の投稿](https://x.com/NFT_Chen/status/2118776726994223537)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+  - 元投稿と配布先が同一対象であることを裏付けられませんでした。
 - [X: NFT_Chen の投稿](https://x.com/NFT_Chen/status/2118719233429516288)
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
   - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF>。
