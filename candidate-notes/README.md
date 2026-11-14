@@ -17,6 +17,10 @@
 - [X: thegreatest_sv の投稿](https://x.com/thegreatest_sv/status/2118684117055226197)
   - 公開に必須の根拠がそろっていません。
   - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://x.com/thegreatest_sv/status/2118684117055226197>。
+- [X: superfang119 の投稿](https://x.com/superfang119/status/2118759359937446020)
+  - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+  - 対象を裏付ける公開一次資料を確認できませんでした。
+  - 公開に必須の根拠がそろっていません。
 - [X: superfang119 の投稿](https://x.com/superfang119/status/2118754466132558005)
   - 下書きが公開用の検証基準を満たしていません。 照合済み参照先: <https://huggingface.co/WarmBloodAban/Minimax-h3_Singularity>。
 - [X: superfang119 の投稿](https://x.com/superfang119/status/2118695720958284152)
@@ -37,8 +41,13 @@
   - 候補の対象が複数あり、一意に特定できませんでした。
 - [X: sep_is_heim の投稿](https://x.com/sep_is_heim/status/2118690623763222820)
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+- [X: ruyi3699 の投稿](https://x.com/ruyi3699/status/2118757554591563807)
+  - 公開に必須の根拠がそろっていません。
 - [X: phuclh93 の投稿](https://x.com/phuclh93/status/2121390625312641470)
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+- [X: nullpodesu の投稿](https://x.com/nullpodesu/status/2121387308020801756)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+  - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: naka_1717 の投稿](https://x.com/naka_1717/status/2118687295884947643)
   - 公開に必須の根拠がそろっていません。
 - [X: jp_costa の投稿](https://x.com/jp_costa/status/2119924600142479497)
@@ -93,6 +102,8 @@
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
 - [X: YuYoshimuta の投稿](https://x.com/YuYoshimuta/status/2118706791458722089)
   - 候補の対象が複数あり、一意に特定できませんでした。
+- [X: SeiraHisada の投稿](https://x.com/SeiraHisada/status/2118853035451707634)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 - [X: RealMarvelX の投稿](https://x.com/RealMarvelX/status/2118744379703579045)
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 - [X: RealMarvelX の投稿](https://x.com/RealMarvelX/status/2118697249676923026)
