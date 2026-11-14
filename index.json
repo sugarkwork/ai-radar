@@ -1,5 +1,5 @@
 {
-  "count": 1108,
+  "count": 1109,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -8556,6 +8556,22 @@
       ],
       "fetched_at": "2026-11-10T04:14:38Z",
       "path": "articles/2026-10-21-bernat-vadell-openui-ui.md"
+    },
+    {
+      "name": "Opus 5.5 + WebGL2 ➡️ Pompidou Centre (No 3D Software)",
+      "genre": "article",
+      "url": "https://www.linkedin.com/posts/chiangning_opus-55-doesnt-even-need-a-3d-software-ugcPost-7522879836508479488-6vVX/",
+      "published": "2026-11-06",
+      "flags": [],
+      "type": "article",
+      "added": "2026-11-14",
+      "first_seen": "2026-11-14",
+      "risk_notes": "",
+      "sources": [
+        "https://x.com/tokufxug/status/2118905819265954053"
+      ],
+      "fetched_at": "2026-11-14T23:11:54.402363+00:00",
+      "path": "articles/2026-11-06-author-opus-5.5-webgl2-pompidou-centre-no-3d-software.md"
     },
     {
       "name": "P-H3-Image LoRAでキャラクターシートから12種類の画像編集を試した記事",
