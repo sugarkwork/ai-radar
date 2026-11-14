@@ -78,6 +78,8 @@
   - 公開に必須の根拠がそろっていません。
 - [X: sep_is_heim の投稿](https://x.com/sep_is_heim/status/2118873007854944386)
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+- [X: sep_is_heim の投稿](https://x.com/sep_is_heim/status/2118838979298795778)
+  - 元投稿と配布先が同一対象であることを裏付けられませんでした。
 - [X: sep_is_heim の投稿](https://x.com/sep_is_heim/status/2118692994966855761)
   - 候補の対象が複数あり、一意に特定できませんでした。
 - [X: sep_is_heim の投稿](https://x.com/sep_is_heim/status/2118690623763222820)
@@ -87,6 +89,8 @@
   - 公開に必須の根拠がそろっていません。
 - [X: ruyi3699 の投稿](https://x.com/ruyi3699/status/2118757554591563807)
   - 公開に必須の根拠がそろっていません。
+- [X: reijjb の投稿](https://x.com/reijjb/status/2118909736435204137)
+  - 候補の対象が複数あり、一意に特定できませんでした。
 - [X: phuclh93 の投稿](https://x.com/phuclh93/status/2121390625312641470)
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 - [X: nullpodesu の投稿](https://x.com/nullpodesu/status/2121387308020801756)
@@ -150,6 +154,8 @@
   - 公開に必須の根拠がそろっていません。
 - [X: cuntnator2000 の投稿](https://x.com/cuntnator2000/status/2118908163550335069)
   - 元画像を確認できず、画像内の内容は未検証です。
+- [X: cadavercollect の投稿](https://x.com/cadavercollect/status/2121569591260533173)
+  - 元投稿と配布先が同一対象であることを裏付けられませんでした。
 - [X: bunkeideploy の投稿](https://x.com/bunkeideploy/status/2118846996769313160)
   - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: bladesofmirage の投稿](https://x.com/bladesofmirage/status/2118689861813117380)
@@ -219,6 +225,8 @@
   - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: NVIDIAAI の投稿](https://x.com/NVIDIAAI/status/2118800021013643269)
   - 公開に必須の根拠がそろっていません。
+- [X: NFT_Chen の投稿](https://x.com/NFT_Chen/status/2118842192055902302)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 - [X: NFT_Chen の投稿](https://x.com/NFT_Chen/status/2118825518024040589)
   - 候補の対象が複数あり、一意に特定できませんでした。
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
@@ -266,6 +274,8 @@
   - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: HeLi8866 の投稿](https://x.com/HeLi8866/status/2121225016478196054)
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+- [X: GOROman の投稿](https://x.com/GOROman/status/2118839045732352350)
+  - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: GOROman の投稿](https://x.com/GOROman/status/2118800389822931146)
   - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: FCUtsukemono の投稿](https://x.com/FCUtsukemono/status/2118738564271731094)
