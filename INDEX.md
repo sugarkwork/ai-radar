@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1106 件 — リポジトリ 746, リンク集 119, 記事 174, モデル 53, プロンプト 14 / ⚑ 要確認 879 件
+収録 1107 件 — リポジトリ 747, リンク集 119, 記事 174, モデル 53, プロンプト 14 / ⚑ 要確認 880 件
 
-## リポジトリ（746）
+## リポジトリ（747）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -375,7 +375,7 @@
 | [AI SDK](entries/agent-framework/anil-matcha-ai.md) ⚑ | 18 | 4 | 停滞 | 0 | 2026-08-06 | 2026-11-13 | 2026-11-13 | unknown |
 | [web-api-skills](entries/agent-framework/oxylabs-web-api-skills.md) | 13 | 1 | 週次 | 11 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
 
-### 動画生成パイプライン（100）
+### 動画生成パイプライン（101）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -455,6 +455,7 @@
 | [vibe-knowledge](entries/video-gen/andyhuo520-vibe-knowledge.md) ⚑ | 613 | 92 | 月次 | 3 | 2026-10-28 | 2026-11-10 | 2026-11-10 | MIT |
 | [Product Launch Motion](entries/video-gen/abubakrchan-product-launch-motion.md) ⚑ | 452 | 59 | 毎日 | 33 | 2026-10-21 | 2026-11-12 | 2026-11-12 | MIT |
 | [comfyui-SelfLift](entries/video-gen/facok-comfyui-selflift.md) ⚑ | 418 | 26 | 月次 | 0 | 2026-09-18 | 2026-11-12 | 2026-11-12 | unknown |
+| [Tesseract](entries/video-gen/mirage-hq-tesseract.md) ⚑ | 367 | 27 | 週次 | 12 | 2026-11-13 | 2026-11-14 | 2026-11-14 | unknown |
 | [RelayVSR](entries/video-gen/kopperx-relayvsr.md) ⚑ | 315 | 26 | 月次 | 0 | 2026-10-05 | 2026-11-13 | 2026-11-13 | Apache-2.0 |
 | [Infinite Creation（Agent无限创作）](entries/video-gen/swotatmk-infinite-creation.md) | 295 | 69 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
 | [comfyui-obvpm-timeline](entries/video-gen/chanon-comfyui-obvpm-timeline.md) | 270 | 34 | 週次 | 5 | 2026-10-23 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
@@ -2369,6 +2370,7 @@
 - [vibe-knowledge](entries/video-gen/andyhuo520-vibe-knowledge.md) — unverified / READMEと公開リリースの記載を確認。コードの実行、サンプルの視聴、出典の正確性、画質、処理時間、質検の検出精度、OS別の動作、外部サービスの現行料金は未検証。公開リリースの一覧で最新版タグを確認し、正確な公開日時は未確認。
 - [Product Launch Motion](entries/video-gen/abubakrchan-product-launch-motion.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [comfyui-SelfLift](entries/video-gen/facok-comfyui-selflift.md) — unverified / H3の画質に関する記述はREADME記載の単一シードでの結果で、独立した検証ではありません。H3向け機能は実験的とされています。 GitHub APIでライセンスを確認できていません。
+- [Tesseract](entries/video-gen/mirage-hq-tesseract.md) — unverified / READMEにライセンスの説明がなく、API/MCPや製品の利用条件はリンク先未確認。 GitHub APIでライセンスを確認できていません。
 - [RelayVSR](entries/video-gen/kopperx-relayvsr.md) — unverified / GPUメモリ要件と実行速度はREADMEに記載がありません。
 - [cinematic-shot](entries/video-gen/1weiho-skills.md) — unverified / 作者のデモ映像の画質・再現性、対応エージェントごとの導入とレンダリング、実行時間や費用は未検証。GitHubの公開リリース一覧には掲載なし。
 - [Otopilot](entries/video-gen/wj-sidiss-otopilot.md) — unverified / 機能は公式READMEとリリースノートで確認した。動画の生成、品質、処理時間、素材サービスの稼働、ライセンスフィルターの判定精度は実測していない。READMEはGitHubのraw配信で確認した。公開リリースページで最新版のタグを確認したが、公開日時の年とタイムゾーンは確認できていない。
