@@ -6,6 +6,9 @@
 
 ## 2026-11-14（日本時間）
 
+- [X: xsmryze の投稿](https://x.com/xsmryze/status/2118819655833837659)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+  - 公開に必須の根拠がそろっていません。
 - [X: tori29umai の投稿](https://x.com/tori29umai/status/2118716616267743545)
   - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://github.com/tori29umai0123/ComfyUI-SAM3DBody-openpose-editor>。
 - [X: thegreatest_sv の投稿](https://x.com/thegreatest_sv/status/2118770137646162218)
@@ -21,6 +24,21 @@
 - [X: thegreatest_sv の投稿](https://x.com/thegreatest_sv/status/2118684117055226197)
   - 公開に必須の根拠がそろっていません。
   - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://x.com/thegreatest_sv/status/2118684117055226197>。
+- [X: takuya_solovate の投稿](https://x.com/takuya_solovate/status/2118868133637398853)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+- [X: superfang119 の投稿](https://x.com/superfang119/status/2118792854659387581)
+  - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://x.com/superfang119/status/2118792854659387581>。
+- [X: superfang119 の投稿](https://x.com/superfang119/status/2118792582109233341)
+  - 候補の対象が複数あり、一意に特定できませんでした。
+  - 対象を裏付ける公開一次資料を確認できませんでした。
+  - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://x.com/AIVideoHub_/status/2117989242269729165>。
+  - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://x.com/superfang119/status/2118792582109233341>。
+- [X: superfang119 の投稿](https://x.com/superfang119/status/2118792029719404591)
+  - 対象を裏付ける公開一次資料を確認できませんでした。
+  - 公開に必須の根拠がそろっていません。
+- [X: superfang119 の投稿](https://x.com/superfang119/status/2118791959041163692)
+  - 対象を裏付ける公開一次資料を確認できませんでした。
+  - 公開に必須の根拠がそろっていません。
 - [X: superfang119 の投稿](https://x.com/superfang119/status/2118778467278062041)
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
   - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://x.com/joshesye/status/2118573484330594633>。
@@ -58,6 +76,8 @@
 - [X: superfang119 の投稿](https://x.com/superfang119/status/2118691599945461819)
   - 対象を裏付ける公開一次資料を確認できませんでした。
   - 公開に必須の根拠がそろっていません。
+- [X: sep_is_heim の投稿](https://x.com/sep_is_heim/status/2118873007854944386)
+  - 元投稿と配布先が同一対象であることを裏付けられませんでした。
 - [X: sep_is_heim の投稿](https://x.com/sep_is_heim/status/2118692994966855761)
   - 候補の対象が複数あり、一意に特定できませんでした。
 - [X: sep_is_heim の投稿](https://x.com/sep_is_heim/status/2118690623763222820)
@@ -76,6 +96,19 @@
   - 公開に必須の根拠がそろっていません。
 - [X: mizupyon の投稿](https://x.com/mizupyon/status/2121422325245768006)
   - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://x.com/mizupyon/status/2121422325245768006>。
+- [X: masato_ai_log の投稿](https://x.com/masato_ai_log/status/2121518180086759624)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+  - 公開に必須の根拠がそろっていません。
+- [X: lucas_flatwhite の投稿](https://x.com/lucas_flatwhite/status/2118883529253941380)
+  - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+- [X: kelvin_sznx の投稿](https://x.com/kelvin_sznx/status/2121470221827318147)
+  - GitHub APIで元のリポジトリを確認できませんでした。
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+  - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+  - 対象を裏付ける公開一次資料を確認できませんでした。
+  - 公開に必須の根拠がそろっていません。
+- [X: keikumata の投稿](https://x.com/keikumata/status/2118822555763290348)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 - [X: jp_costa の投稿](https://x.com/jp_costa/status/2119924600142479497)
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
@@ -116,12 +149,18 @@
   - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: bladesofmirage の投稿](https://x.com/bladesofmirage/status/2118689861813117380)
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+- [X: bkdgiffug の投稿](https://x.com/bkdgiffug/status/2118794548071805385)
+  - 公開に必須の根拠がそろっていません。
 - [X: bkdgiffug の投稿](https://x.com/bkdgiffug/status/2118778945424212086)
   - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://github.com/Stirling-Tools/Stirling-PDF>。
 - [X: bkdgiffug の投稿](https://x.com/bkdgiffug/status/2118747739769151562)
   - 下書きが公開用の検証基準を満たしていません。 照合済み参照先: <https://github.com/uucz/moyu>。
 - [X: bkdgiffug の投稿](https://x.com/bkdgiffug/status/2118732137369075961)
   - 公開に必須の根拠がそろっていません。
+- [X: bernvadell の投稿](https://x.com/bernvadell/status/2118781223866884209)
+  - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://x.com/bernvadell/status/2118781223866884209>。
+- [X: bernvadell の投稿](https://x.com/bernvadell/status/2118781221643641027)
+  - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://x.com/bernvadell/status/2118781221643641027>。
 - [X: awe0_io の投稿](https://x.com/awe0_io/status/2118741680551772250)
   - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://github.com/kando-menu/kando>。
 - [X: awe0_io の投稿](https://x.com/awe0_io/status/2118737574936400192)
@@ -133,14 +172,36 @@
   - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: alexandr_wang の投稿](https://x.com/alexandr_wang/status/2118776727912755478)
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+- [X: aikangarooking の投稿](https://x.com/aikangarooking/status/2121444332091965629)
+  - 下書きが公開用の検証基準を満たしていません。 照合済み参照先: <https://github.com/ingram-projects/animxyz>。
+  - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: ai_hakase_ の投稿](https://x.com/ai_hakase_/status/2119943879369584775)
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+- [X: ai_algoit の投稿](https://x.com/ai_algoit/status/2121417931850658294)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+- [X: adjelmohamed の投稿](https://x.com/adjelmohamed/status/2118813115810803792)
+  - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+  - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://huggingface.co/momolesang/InstantHMR>。
 - [X: YuYoshimuta の投稿](https://x.com/YuYoshimuta/status/2118706791458722089)
   - 候補の対象が複数あり、一意に特定できませんでした。
 - [X: TheArthiAI の投稿](https://x.com/TheArthiAI/status/2121435010939142280)
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+- [X: TechPoliNeko の投稿](https://x.com/TechPoliNeko/status/2118888287590822336)
+  - 元投稿と配布先が同一対象であることを裏付けられませんでした。
 - [X: SeiraHisada の投稿](https://x.com/SeiraHisada/status/2118853035451707634)
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+- [X: RoundtableSpace の投稿](https://x.com/RoundtableSpace/status/2118821978891337885)
+  - 対象を裏付ける公開一次資料を確認できませんでした。
+- [X: RoundtableSpace の投稿](https://x.com/RoundtableSpace/status/2118806879564394585)
+  - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://x.com/RoundtableSpace/status/2118806879564394585>。
+- [X: RoundtableSpace の投稿](https://x.com/RoundtableSpace/status/2118799329490092219)
+  - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://x.com/LuminaBench/status/2113185847566876679>。
+- [X: RoundtableSpace の投稿](https://x.com/RoundtableSpace/status/2118791779671806051)
+  - 対象を裏付ける公開一次資料を確認できませんでした。
+- [X: RoundtableSpace の投稿](https://x.com/RoundtableSpace/status/2118784230876758062)
+  - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://x.com/RoundtableSpace/status/2118784230876758062>。
+- [X: RealMarvelX の投稿](https://x.com/RealMarvelX/status/2118793550620184737)
+  - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://x.com/RealMarvelX/status/2118793550620184737>。
 - [X: RealMarvelX の投稿](https://x.com/RealMarvelX/status/2118773613876634056)
   - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: RealMarvelX の投稿](https://x.com/RealMarvelX/status/2118744379703579045)
@@ -149,6 +210,27 @@
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 - [X: Odi_HGN の投稿](https://x.com/Odi_HGN/status/2118851148006457378)
   - 対象を裏付ける公開一次資料を確認できませんでした。
+- [X: NVIDIAAI の投稿](https://x.com/NVIDIAAI/status/2118800021013643269)
+  - 公開に必須の根拠がそろっていません。
+- [X: NFT_Chen の投稿](https://x.com/NFT_Chen/status/2118825518024040589)
+  - 候補の対象が複数あり、一意に特定できませんでした。
+  - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+- [X: NFT_Chen の投稿](https://x.com/NFT_Chen/status/2118813642674311641)
+  - 候補の対象が複数あり、一意に特定できませんでした。
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+  - 対象を裏付ける公開一次資料を確認できませんでした。
+  - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://x.com/firesidealpha/status/2118778601726501016>。
+- [X: NFT_Chen の投稿](https://x.com/NFT_Chen/status/2118805901230608689)
+  - 候補の対象が複数あり、一意に特定できませんでした。
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+  - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://x.com/ClaudeDevs/status/2118795192090386454>。
+  - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://x.com/ClaudeDevs/status/2118795192090386454>。
+- [X: NFT_Chen の投稿](https://x.com/NFT_Chen/status/2118803054514540924)
+  - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+- [X: NFT_Chen の投稿](https://x.com/NFT_Chen/status/2118796500432310522)
+  - 候補の対象が複数あり、一意に特定できませんでした。
+- [X: NFT_Chen の投稿](https://x.com/NFT_Chen/status/2118792091040116926)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 - [X: NFT_Chen の投稿](https://x.com/NFT_Chen/status/2118776726994223537)
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
@@ -157,6 +239,11 @@
   - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF>。
 - [X: Muse の投稿](https://x.com/Muse/status/2118766983936197072)
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+- [X: Machinedelusion の投稿](https://x.com/Machinedelusion/status/2118804958107836451)
+  - 候補の対象が複数あり、一意に特定できませんでした。
+- [X: Machinedelusion の投稿](https://x.com/Machinedelusion/status/2118791276371837150)
+  - 下書きが公開用の検証基準を満たしていません。 照合済み参照先: <https://huggingface.co/Lyricccco/FLUX.2-klein-base-9B-TailSteer>。
+  - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://huggingface.co/Lyricccco/FLUX.2-klein-base-9B-TailSteer>。
 - [X: Leviwoyun の投稿](https://x.com/Leviwoyun/status/2118737393977373055)
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
 - [X: Leviwoyun の投稿](https://x.com/Leviwoyun/status/2118714515181494590)
@@ -169,10 +256,15 @@
   - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: HeLi8866 の投稿](https://x.com/HeLi8866/status/2121225016478196054)
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+- [X: GOROman の投稿](https://x.com/GOROman/status/2118800389822931146)
+  - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: FCUtsukemono の投稿](https://x.com/FCUtsukemono/status/2118738564271731094)
   - 候補の対象が複数あり、一意に特定できませんでした。
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+  - 公開に必須の根拠がそろっていません。
+- [X: Bober_smart の投稿](https://x.com/Bober_smart/status/2118781819319660839)
+  - 候補の対象が複数あり、一意に特定できませんでした。
   - 公開に必須の根拠がそろっていません。
 - [X: Bober_smart の投稿](https://x.com/Bober_smart/status/2118706834307416366)
   - 公開に必須の根拠がそろっていません。
