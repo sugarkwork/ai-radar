@@ -1,5 +1,5 @@
 {
-  "count": 1084,
+  "count": 1085,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -8090,6 +8090,24 @@
       ],
       "fetched_at": "2026-11-14T10:13:37.527080+00:00",
       "path": "articles/2026-11-06-author-instanthmr-real-time-human-mesh-recovery-on-your-phone.md"
+    },
+    {
+      "name": "Introducing Arete-27B: Qwen3.8-27B Post-Trained To Reinforce Western Values",
+      "genre": "article",
+      "url": "https://nousresearch.com/arete",
+      "published": "2026-11-06",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "評価結果と能力維持の主張は記事著者による報告であり、独立検証とは確認できていない。記事自身が全ての関連挙動を解消したとは主張していない。",
+      "type": "article",
+      "added": "2026-11-14",
+      "first_seen": "2026-11-14",
+      "sources": [
+        "https://x.com/NFT_Chen/status/2118847554133918003"
+      ],
+      "fetched_at": "2026-11-14T14:09:18.550064+00:00",
+      "path": "articles/2026-11-06-author-introducing-arete-27b-qwen3.8-27b-post-trained-to-reinforce-western-values.md"
     },
     {
       "name": "Introducing Loom: agent memory that keeps up with your code",

@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1084 件 — リポジトリ 729, リンク集 119, 記事 169, モデル 53, プロンプト 14 / ⚑ 要確認 858 件
+収録 1085 件 — リポジトリ 729, リンク集 119, 記事 170, モデル 53, プロンプト 14 / ⚑ 要確認 859 件
 
 ## リポジトリ（729）
 
@@ -1297,9 +1297,9 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（169）
+## 記事（170）
 
-### 記事（106）
+### 記事（107）
 
 - **[$0のデジタル参謀長で月$80,000の契約候補を作ったというX投稿（動画付き）](articles/2026-10-22-bober_smart-0-80-000-x.md)** ⚑  @Bober_smart
 - **[1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md)** ⚑  @mukadeshinigami（mukade死神）
@@ -1352,6 +1352,7 @@
 - **[Hundreds of Mundane AI Apps Are Hiding Sexually Abusive Deepfake Features](articles/2026-11-02-author-hundreds-of-mundane-ai-apps-are-hiding-sexually-abusive-deepfake-features.md)**
 - **[Independent Assessment of AI R&D Acceleration at Anthropic in October 2026](articles/2026-11-05-author-independent-assessment-of-ai-r-d-acceleration-at-anthropic-in-october-2026.md)** ⚑
 - **[InstantHMR: Real-Time Human Mesh Recovery on Your Phone](articles/2026-11-06-author-instanthmr-real-time-human-mesh-recovery-on-your-phone.md)**
+- **[Introducing Arete-27B: Qwen3.8-27B Post-Trained To Reinforce Western Values](articles/2026-11-06-author-introducing-arete-27b-qwen3.8-27b-post-trained-to-reinforce-western-values.md)** ⚑
 - **[Introducing Loom: agent memory that keeps up with your code](articles/2026-11-13-author-introducing-loom-agent-memory-that-keeps-up-with-your-code.md)** ⚑
 - **[Introducing System One Models & Jev](articles/2026-09-15-diogo-almeida-typesafe-ai-introducing-system-one-models-jev.md)** ⚑  Diogo Almeida（TypeSafe AI）
 - **[Jetpack Compose for XR 1.0.0-beta02 リリースノート](articles/2026-10-21-author-jetpack-compose-for-xr-1.0.0-beta02-d5c3bbee7c.md)** ⚑
@@ -1717,6 +1718,7 @@
 - [Harness design for long-running application development](articles/2026-03-24-author-harness-design-for-long-running-application-development.md) — unverified / 生成アプリの独立再現、構成要素ごとの寄与、別タスクへの一般化、実験用ハーネスのコード配布・再利用条件は未確認。
 - [How we’re training a Figma-fluent editing model](articles/2026-10-29-author-how-we-re-training-a-figma-fluent-editing-model.md) — unverified / 比較結果はFigmaの社内評価で、独立した再現性は未確認。学習データに含まれる顧客コンテンツの具体的な範囲と利用条件、学習済みモデルやデータの入手・再利用条件、モデル単体の速度と費用は未確認。
 - [Independent Assessment of AI R&D Acceleration at Anthropic in October 2026](articles/2026-11-05-author-independent-assessment-of-ai-r-d-acceleration-at-anthropic-in-october-2026.md) — unverified / METRの結論を強く支えた証拠の大半は非公開。公開情報からは推定の独立再現や、加速のうちAI利用に起因する割合の検証はできない。
+- [Introducing Arete-27B: Qwen3.8-27B Post-Trained To Reinforce Western Values](articles/2026-11-06-author-introducing-arete-27b-qwen3.8-27b-post-trained-to-reinforce-western-values.md) — unverified / 評価結果と能力維持の主張は記事著者による報告であり、独立検証とは確認できていない。記事自身が全ての関連挙動を解消したとは主張していない。
 - [Introducing Loom: agent memory that keeps up with your code](articles/2026-11-13-author-introducing-loom-agent-memory-that-keeps-up-with-your-code.md) — unverified / ベンチマークはClickHouseによる自社評価であり、記事は独立した再現結果を示していない。記載された改善値は評価条件に基づく著者報告として扱う。
 - [Introducing System One Models & Jev](articles/2026-09-15-diogo-almeida-typesafe-ai-introducing-system-one-models-jev.md) — unverified / 速度・精度・確率の較正は独立に実測していない。候補投稿のPokémon Red以外のデモ、現行の利用条件およびモデル重みの配布条件は未確認。
 - [Jetpack Compose for XR 1.0.0-beta02 リリースノート](articles/2026-10-21-author-jetpack-compose-for-xr-1.0.0-beta02-d5c3bbee7c.md) — unverified / このバージョンはandroidx.xr.scenecore:1.0.0-rc01に既知のメモリリークを含む依存関係があり、公式資料はSceneCore 1.0.0への明示的な上書きを回避策として示しています。XREAL AURAとの互換性や、投稿にあるエラーの原因はこのページから確認できません。
