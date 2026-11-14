@@ -1,5 +1,5 @@
 {
-  "count": 1025,
+  "count": 1026,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -16626,6 +16626,27 @@
       "risk_notes": "",
       "path": "links/link-service/paperanimation-ai.md",
       "summary": "画像1枚から紙風のアニメーションクリップを作る Web ツール。ショート動画のフック用素材（新聞の切り抜き風、紙の折り畳み等）を短時間で作ることを狙う。投稿の説明（paper-style animations）と一致する。"
+    },
+    {
+      "name": "Raphael AI",
+      "genre": "link-service",
+      "url": "https://raphael.app/zh",
+      "pricing": "freemium",
+      "pricing_detail": "公式ページは無料利用を案内。料金ページでは年払い時のProが月額10米ドル、Ultimateが月額20米ドル、Maxが月額40米ドルと記載（表示価格）。無料画像には透かしが含まれる。",
+      "signup_required": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "無料画像には透かしが含まれる。公式ページ間で商用利用条件の説明が一致せず、無料利用時の商用利用可否は要確認。",
+      "type": "link",
+      "added": "2026-11-14",
+      "first_seen": "2026-11-14",
+      "sources": [
+        "https://x.com/bkdgiffug/status/2118732137369075961"
+      ],
+      "fetched_at": "2026-11-13T22:09:24Z",
+      "path": "links/link-service/raphael.app-raphael-ai.md",
+      "summary": "ブラウザー上でAI画像を生成・編集するWebサービス。"
     },
     {
       "name": "ScaleDown",
