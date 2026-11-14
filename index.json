@@ -1,5 +1,5 @@
 {
-  "count": 1088,
+  "count": 1089,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -11816,6 +11816,37 @@
       "fetched_at": "2026-11-10T15:19:20.013402+00:00",
       "path": "entries/coding-agent/aaitor-skill-video-studio.md",
       "summary": "Claude Codeの/devrel-videoスキルを使い、製品操作のブラウザー撮影、HyperFramesによるタイトル・章・CTAの合成、FFmpegによる動画の仕上げと検査を行う。音楽、ナレーション、字幕、持ち込みプレゼンター映像などは任意の追加レイヤー。ブランド、ブリーフ、テンプレートと作例を含む。"
+    },
+    {
+      "name": "Cinematic Skill",
+      "genre": "coding-agent",
+      "url": "https://github.com/Moh4696/cinematic-skill",
+      "repo": "Moh4696/cinematic-skill",
+      "license": "MIT",
+      "stars": 350,
+      "language": "Python",
+      "created": "2026-11-09",
+      "updated": "2026-11-09",
+      "forks": 28,
+      "open_issues": 0,
+      "commits_30d": 3,
+      "commit_cadence": "monthly",
+      "commits_90d": 3,
+      "size_kb": 1989,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "無料の下書き音声としてmacOSのsayまたはespeak-ngを使用し、最終音声は任意のTTSまたは録音音声と記載。Wikimedia Commonsから素材を取得する手順がある。最終音声サービスの料金・利用条件はREADMEに記載なし。",
+      "type": "repo",
+      "added": "2026-11-14",
+      "first_seen": "2026-11-14",
+      "sources": [
+        "https://x.com/GitTrend0x/status/2121566394286248121"
+      ],
+      "fetched_at": "2026-11-14T15:08:48.969805+00:00",
+      "path": "entries/coding-agent/moh4696-cinematic-skill.md",
+      "summary": "コーディングエージェントが、調査・台本作成、ナレーションに合わせたタイミング調整、画像や文書などの配置、カメラ移動、音響、字幕を含む映像をコードから構築する。映像はSkia（Python）で描画するとREADMEに記載。Wikimedia Commonsの画像検索・取得とライセンス記録、独自画像やAI生成静止画の利用に"
     },
     {
       "name": "Agent HUD",
