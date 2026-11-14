@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1079 件 — リポジトリ 724, リンク集 119, 記事 169, モデル 53, プロンプト 14 / ⚑ 要確認 853 件
+収録 1080 件 — リポジトリ 725, リンク集 119, 記事 169, モデル 53, プロンプト 14 / ⚑ 要確認 854 件
 
-## リポジトリ（724）
+## リポジトリ（725）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -253,7 +253,7 @@
 | [Berth](entries/coding-agent/maxzyma-berth.md) ⚑ | 0 | 0 | 毎日 | 100+ | 2026-11-11 | 2026-11-12 | 2026-11-12 | MIT |
 | [Leash](entries/coding-agent/cmaintz-leash.md) ⚑ | 0 | 0 | 毎日 | 21 | 2026-11-06 | 2026-11-10 | 2026-11-11 | MIT |
 
-### エージェント基盤・スキル集（101）
+### エージェント基盤・スキル集（102）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -313,6 +313,7 @@
 | [Orkas](entries/agent-framework/orkas-ai-orkas.md) ⚑ | 9,183 | 534 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-11 | MIT |
 | [firstmate](entries/agent-framework/kunchenguid-firstmate.md) ⚑ | 8,753 | 2,734 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-11 | MIT |
 | [CyberStrikeAI](entries/agent-framework/aipentest-cyberstrikeai.md) ⚑ | 8,514 | 1,882 | 毎日 | 91 | 2026-11-08 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [Rakazo](entries/agent-framework/elie222-rakazo.md) ⚑ | 8,321 | 1,505 | 毎日 | 100+ | 2026-11-14 | 2026-11-14 | 2026-11-14 | Apache-2.0 |
 | [HKUDS/AgentPilot](entries/agent-framework/hkuds-agentpilot.md) ⚑ | 7,978 | 939 | 月次 | 3 | 2026-11-06 | 2026-11-09 | 2026-11-10 | MIT |
 | [ccch1mneyyy/dsh-TUI](entries/agent-framework/ccch1mneyyy-dsh-tui.md) ⚑ | 7,319 | 351 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
 | [Rune](entries/agent-framework/anomalyco-rune.md) ⚑ | 7,051 | 266 | 毎日 | 100+ | 2026-11-14 | 2026-11-14 | 2026-11-14 | MIT |
@@ -1626,6 +1627,7 @@
 - [Orkas](entries/agent-framework/orkas-ai-orkas.md) — unverified / README記載の機能説明に基づく。各エージェントの実際の性能、動作条件、依存関係は確認していない。
 - [firstmate](entries/agent-framework/kunchenguid-firstmate.md) — unverified / 実際の効果や、記載された要件以外の依存関係・実行条件は未検証。
 - [CyberStrikeAI](entries/agent-framework/aipentest-cyberstrikeai.md) — unverified / 認可前提: README と security-model.md が「所有または明示的に許可されたシステムにのみ使用」と明記する高権限ツール。WebShell 管理・内蔵 C2（リスナー、暗号化ビーコン、セッション、ペイロード生成）・Metasploit / mimikatz / responder などのポストエクスプロイト系レシピを含み、認可なき標的への実行は違法行為になり得る。実装上の注意として、security-model.md は「c2.enabled: false unless required」を本番基準とする一方、リポジトリ同梱の config.example.yaml は `c2: enabled: true`（省略時も既定で有効とのコメント付き）であり、既定値の解釈が文書間で一致しない。HTTP API はトークンをクエリ文字列でも受け付けるため、ログ経由の漏えいに注意。プロンプトインジェクションは標的側の応答がエージェントのツール選択に影響し得る脅威として security-model.md 自身が挙げている。未検証範囲: 有効性（検出率・成功率）の第三者実測は無く、README の網羅性主張とベンチマーク非公開のまま。実運用での誤検知率、C2/WebShell の検知回避性能、マルチエージェント編成の品質は未確認。
+- [Rakazo](entries/agent-framework/elie222-rakazo.md) — unverified / 本番運用でHTTPSを前段に置くこと、サンドボックスプロバイダーに応じた設定、開発時のNode.js・pnpm・Docker・Postgres等の条件がある。料金や未記載のプロバイダー条件はREADMEだけでは確認できない。
 - [HKUDS/AgentPilot](entries/agent-framework/hkuds-agentpilot.md) — unverified / Terminal-Bench 63.8%・AIME改善はREADMEの自己報告。9B戦略モデルの重みの取得方法は原チェックで確認できていない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [ccch1mneyyy/dsh-TUI](entries/agent-framework/ccch1mneyyy-dsh-tui.md) — unverified / 「DSH公式推薦」は投稿の主張で公式根拠未確認。DeepSeek公式配布と断定せず、CLI操作は未実行。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Rune](entries/agent-framework/anomalyco-rune.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
