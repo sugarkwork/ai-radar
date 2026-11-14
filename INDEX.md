@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1053 件 — リポジトリ 705, リンク集 119, 記事 162, モデル 53, プロンプト 14 / ⚑ 要確認 832 件
+収録 1054 件 — リポジトリ 705, リンク集 119, 記事 163, モデル 53, プロンプト 14 / ⚑ 要確認 832 件
 
 ## リポジトリ（705）
 
@@ -1273,9 +1273,9 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（162）
+## 記事（163）
 
-### 記事（99）
+### 記事（100）
 
 - **[$0のデジタル参謀長で月$80,000の契約候補を作ったというX投稿（動画付き）](articles/2026-10-22-bober_smart-0-80-000-x.md)** ⚑  @Bober_smart
 - **[1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md)** ⚑  @mukadeshinigami（mukade死神）
@@ -1305,6 +1305,7 @@
 - **[Covert underperformance on safety research tasks](articles/2026-11-04-author-covert-underperformance-on-safety-research-tasks.md)** ⚑
 - **[DatalabのIndra OCR初回公開](articles/2026-10-13-vik-paruchuri-datalab-indra-ocr.md)** ⚑  Vik Paruchuri
 - **[Day 283: Something To Stand On — body contacts in an animation system](articles/2026-11-06-author-day-283-something-to-stand-on-body-contacts-in-an-animation-system.md)**
+- **[Deep Learning with PyTorch: A 60 Minute Blitz](articles/2017-03-24-author-deep-learning-with-pytorch-a-60-minute-blitz.md)**
 - **[Design the Muse App, Just for You](articles/2026-11-06-author-design-the-muse-app-just-for-you.md)** ⚑
 - **[Eddie Woo の対数講義――「何倍になるまでの時間」を1本の対数で読む](articles/2026-09-14-xsmryze-eddie-woo-1-589eee2ad8.md)** ⚑  xsmryze
 - **[EmbeddingGemma 2を使ったオンデバイス英語文字起こし](articles/2026-10-12-shahir-embeddinggemma-2.md)** ⚑  Shahir
