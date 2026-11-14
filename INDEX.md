@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1075 件 — リポジトリ 721, リンク集 119, 記事 168, モデル 53, プロンプト 14 / ⚑ 要確認 850 件
+収録 1076 件 — リポジトリ 722, リンク集 119, 記事 168, モデル 53, プロンプト 14 / ⚑ 要確認 851 件
 
-## リポジトリ（721）
+## リポジトリ（722）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -461,7 +461,7 @@
 | [utillayer/youtube-agent-skill](entries/video-gen/utillayer-youtube-agent-skill.md) ⚑ | 14 | 2 | 週次 | 16 | 2026-10-29 | 2026-11-09 | 2026-11-10 | MIT |
 | [BennyDaBall930/comfyui_hyperflow_int8_nodes](entries/video-gen/bennydaball930-comfyui_hyperflow_int8_nodes.md) ⚑ | 3 | 0 | 週次 | 10 | 2026-11-09 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
 
-### 3D・モーション（71）
+### 3D・モーション（72）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -516,6 +516,7 @@
 | [SkinTokens（TokenRig）](entries/3d-motion/vast-ai-research-skintokens.md) | 625 | 84 | 停滞 | 0 | 2026-05-12 | 2026-11-09 | 2026-11-10 | MIT |
 | [patch-gg/anymove](entries/3d-motion/patch-gg-anymove.md) ⚑ | 563 | 62 | 週次 | 11 | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
 | [prompt2rig — プロンプトから3Dキャラクター動作を生成](entries/3d-motion/blendi-remade-prompt2rig.md) ⚑ | 552 | 81 | 週次 | 16 | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [InstantHMR](entries/3d-motion/naturalpad-studio-instanthmr.md) ⚑ | 400 | 45 | 週次 | 18 | 2026-11-10 | 2026-11-14 | 2026-11-14 | Apache-2.0 |
 | [Geometry Script](entries/3d-motion/carson-katri-geometry-script.md) ⚑ | 379 | 33 | 週次 | 6 | 2026-11-09 | 2026-11-10 | 2026-11-10 | GPL-3.0 |
 | [Motion2Code](entries/3d-motion/lovisdotio-motion2code.md) ⚑ | 349 | 31 | 月次 | 2 | 2026-10-20 | 2026-11-10 | 2026-11-11 | MIT |
 | [shinshin86/aituber-onair](entries/3d-motion/shinshin86-aituber-onair.md) ⚑ | 320 | 31 | 毎日 | 100+ | 2026-11-07 | 2026-11-09 | 2026-11-10 | MIT |
@@ -1547,6 +1548,7 @@
 - [MPFB2](entries/3d-motion/makehumancommunity-mpfb2.md) — unverified / 公式資料に基づく確認。Blenderでの動作、Python経由の自動化、外部モーションキャプチャとの互換性、制作時間や工程全体の費用は未検証。GitHubの最新タグは確認したが、公開日時の年とタイムゾーンは確認できていない。 GitHub APIでライセンスを確認できていません。
 - [patch-gg/anymove](entries/3d-motion/patch-gg-anymove.md) — unverified / 5秒2カメラ0.26ドルだけでなく実用1動作約3ドル・合格率58%等も作者説明。8本脚・寝姿・翼・尻尾等は不可。クラウド版なし、速度・精度は未追試。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [prompt2rig — プロンプトから3Dキャラクター動作を生成](entries/3d-motion/blendi-remade-prompt2rig.md) — unverified / コードはApache-2.0だが、HQパスの依存関係が商用を制限。GVHMR=教育・研究・非営利のみ。SMPL-X=非商用（商用はMeshcapadeから別途）。WiLoR=CC-BY-NC-ND。MANO=非商用。Ultralytics YOLO=AGPL-3.0（コピーレフト、エンタープライズライセンス別途）。MediaPipe・three.jsは商用可。Webアプリ・ライブプレビュー・動画生成は商用可能。HQパスを商用で使うには依存関係の置き換えまたは別途ライセンスが必要。動画モデル（FLUX 3 Max/H3 Max Turbo）はfalおよびモデル提供元の条件に従う。当方未実行。 当方でインストール・動作・性能の実行検証はしていない。
+- [InstantHMR](entries/3d-motion/naturalpad-studio-instanthmr.md) — unverified / モデルの利用条件は種類により異なります。READMEではnano/tiny/small/mediumはSAM License・非商用、medium-commercialはSAM Licenseとされていますが、ライセンスの詳細条件はREADMEに記載されていません。
 - [Geometry Script](entries/3d-motion/carson-katri-geometry-script.md) — unverified / 理由未記入
 - [Motion2Code](entries/3d-motion/lovisdotio-motion2code.md) — unverified / 最新リリースの版と日時は未確認。掲載例の容量・再現精度、任意の動画への適用範囲、実行環境での動作は独立検証していない。外部ライブラリ・フォントの利用条件とエージェント利用料は未確認。
 - [shinshin86/aituber-onair](entries/3d-motion/shinshin86-aituber-onair.md) — unverified / 投稿の10種とページ9種は不一致。APIキーはlocalStorage平文、Live2DはCubism Core手動配置。公開オリジンへそのまま配備非推奨で各素材ライセンスも別。 当方でインストール・推論・生成・ベンチ再現はしていない。

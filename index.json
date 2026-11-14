@@ -1,5 +1,5 @@
 {
-  "count": 1075,
+  "count": 1076,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -1718,6 +1718,37 @@
       "last_release_at": "",
       "path": "entries/3d-motion/blendi-remade-prompt2rig.md",
       "summary": "テキストで動作を指定→動画モデルが演技→GPUで3Dボディ/指の動作を推定→Mixamo互換リグのキャラクターで再生→Blender/UnityへGLB出力。MediaPipeでブラウザ即時プレビュー、GVHMRでHQボディ、WiLoRで指。"
+    },
+    {
+      "name": "InstantHMR",
+      "genre": "3d-motion",
+      "url": "https://github.com/Naturalpad-studio/InstantHMR",
+      "repo": "Naturalpad-studio/InstantHMR",
+      "license": "Apache-2.0",
+      "stars": 400,
+      "language": "Python",
+      "created": "2026-04-29",
+      "updated": "2026-11-10",
+      "forks": 45,
+      "open_issues": 1,
+      "commits_30d": 18,
+      "commit_cadence": "weekly",
+      "commits_90d": 61,
+      "size_kb": 102843,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "モデルの利用条件は種類により異なります。READMEではnano/tiny/small/mediumはSAM License・非商用、medium-commercialはSAM Licenseとされていますが、ライセンスの詳細条件はREADMEに記載されていません。",
+      "type": "repo",
+      "added": "2026-11-14",
+      "first_seen": "2026-11-14",
+      "sources": [
+        "https://x.com/adjelmohamed/status/2118813115810803792"
+      ],
+      "fetched_at": "2026-11-14T10:12:38.937726+00:00",
+      "path": "entries/3d-motion/naturalpad-studio-instanthmr.md",
+      "summary": "画像内の人物ごとに、姿勢・体形・70点の2D/3Dキーポイントと、Momentum Human Rig（MHR）形式の全身メッシュを推定する。画像・動画・カメラ入力に対応するデモとPython APIがある。README記載のモデル単体レイテンシは、RTX 4070 TensorRTで0.70～0.98 ms、Gala"
     },
     {
       "repo": "carson-katri/geometry-script",
