@@ -1,5 +1,5 @@
 {
-  "count": 1026,
+  "count": 1027,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -21516,6 +21516,37 @@
       "fetched_at": "2026-11-10T12:34:19+00:00",
       "path": "entries/other/anishfn-shapeshift.md",
       "summary": "1つの入力欄から予定、チェックリスト、タイマー、割り勘などの既定カードを選ぶ。作者の例では split 2400 between 3 で1人あたり₹800を表示する。保存したカードはブラウザーの localStorage に残る。"
+    },
+    {
+      "name": "JavRanking 浏览器扩展",
+      "genre": "other",
+      "url": "https://github.com/javranking/javranking-extension",
+      "repo": "javranking/javranking-extension",
+      "license": "MIT",
+      "stars": 1043,
+      "language": "TypeScript",
+      "created": "2026-09-07",
+      "updated": "2026-10-27",
+      "forks": 70,
+      "open_issues": 0,
+      "commits_30d": 4,
+      "commit_cadence": "weekly",
+      "commits_90d": 15,
+      "size_kb": 833,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "Chrome/Edge installation uses a manually loaded unpacked extension and updates are manual. Firefox is only available for temporary development loading; persistent installation requires a Mozilla-signed XPI, which is not yet available.",
+      "type": "repo",
+      "added": "2026-11-14",
+      "first_seen": "2026-11-14",
+      "sources": [
+        "https://x.com/ruyi3699/status/2118735409052004744"
+      ],
+      "fetched_at": "2026-11-13T22:10:04.709587+00:00",
+      "path": "entries/other/javranking-javranking-extension.md",
+      "summary": "用户主动点击浏览器工具栏图标后，扩展会识别当前页面中的影片番号，并展示可对应的 JavRanking 榜单资料。README 还说明，扩展读取 JavRanking 已发布的静态搜索索引来查找匹配项。"
     },
     {
       "name": "FlashProve",

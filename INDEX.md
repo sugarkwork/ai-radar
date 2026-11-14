@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1026 件 — リポジトリ 683, リンク集 119, 記事 157, モデル 53, プロンプト 14 / ⚑ 要確認 809 件
+収録 1027 件 — リポジトリ 684, リンク集 119, 記事 157, モデル 53, プロンプト 14 / ⚑ 要確認 810 件
 
-## リポジトリ（683）
+## リポジトリ（684）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（107）
+### その他（108）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -91,6 +91,7 @@
 | [One IP](entries/other/zhihui-hu-one-ip.md) ⚑ | 1,235 | 1,388 | 週次 | 18 | 2026-11-12 | 2026-11-12 | 2026-11-12 | AGPL-3.0 |
 | [WeVisOne-VL](entries/other/tencent-wevisone-vl.md) | 1,111 | 95 | 月次 | 3 | 2026-10-25 | 2026-11-09 | 2026-11-10 | Apache-2.0（Tencent 著作部分） |
 | [Shapeshift](entries/other/anishfn-shapeshift.md) ⚑ | 1,066 | 106 | 月次 | 0 | 2026-09-23 | 2026-11-10 | 2026-11-11 | MIT |
+| [JavRanking 浏览器扩展](entries/other/javranking-javranking-extension.md) ⚑ | 1,043 | 70 | 週次 | 4 | 2026-10-27 | 2026-11-13 | 2026-11-14 | MIT |
 | [FlashProve](entries/other/anthropics-flashprove.md) ⚑ | 1,017 | 109 | 月次 | 1 | 2026-10-30 | 2026-11-11 | 2026-11-11 | Apache-2.0 |
 | [VidStab](entries/other/georgmartius-vid.stab.md) ⚑ | 991 | 126 | 月次 | 0 | 2026-08-14 | 2026-11-10 | 2026-11-10 | unknown |
 | [DSH 破甲ワークフロー（dsh-jailbreak-workflow）](entries/other/minglink-dsh-jailbreak-workflow.md) ⚑ | 816 | 284 | 週次 | 18 | 2026-11-05 | 2026-11-09 | 2026-11-10 | 未確認（API は NOASSERTION、標準ライセンスファイル無し） |
@@ -2040,6 +2041,7 @@
 - [pg-jev](entries/other/realzachi-pg-jev.md) — unverified / 速度・精度・費用はREADMEの著者測定で、独立再現、別データでの精度、現行料金、ローカル互換サーバーの動作は未確認。最新リリースの公開ページでタグを確認したが、タイムゾーン付きの公開日時は未確認。 GitHub APIでライセンスを確認できていません。
 - [One IP](entries/other/zhihui-hu-one-ip.md) — unverified / 結果は第三者サービスに依存し、レート制限やクロスオリジン制約の影響を受ける場合がある。READMEはIP種別と評判スコアを参考情報としている。
 - [Shapeshift](entries/other/anishfn-shapeshift.md) — unverified / ['READMEと公開ソースを確認。コードは実行しておらず、分類精度、曖昧な入力での挙動、実応答時間、オンライン障害時のフォールバックは未実測。TypeSafe APIの現行料金と利用条件は未確認。']
+- [JavRanking 浏览器扩展](entries/other/javranking-javranking-extension.md) — unverified / Chrome/Edge installation uses a manually loaded unpacked extension and updates are manual. Firefox is only available for temporary development loading; persistent installation requires a Mozilla-signed XPI, which is not yet available.
 - [FlashProve](entries/other/anthropics-flashprove.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [VidStab](entries/other/georgmartius-vid.stab.md) — unverified / 補正量・画質・処理速度は実測していない。READMEはmasterの仕様を含むため、最新公開リリースv1.1.2や各FFmpeg配布ビルドでの機能差は未確認。公開日の年は取得した表示から確定できなかった。ライセンス欄は親工程のAPI値を保持し、利用条件は対象バージョンのライセンス文書で確認する。 GitHub APIでライセンスを確認できていません。
 - [DSH 破甲ワークフロー（dsh-jailbreak-workflow）](entries/other/minglink-dsh-jailbreak-workflow.md) — prompt-injection / モデルの拒否応答を回避する『破甲（jailbreak）』プロンプトを自動生成するためのワークフロー。各サービスの利用規約違反になり得る。記録のみで、実行・生成した内容の利用はしない。
