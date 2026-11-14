@@ -1,5 +1,5 @@
 {
-  "count": 1065,
+  "count": 1066,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -22327,6 +22327,37 @@
       "fetched_at": "2026-11-10T12:34:37+00:00",
       "path": "entries/other/realzachi-pg-jev.md",
       "summary": "jev()をWHERE句に置いて自然言語条件で行を絞り込む。jev_prob()で確率順に並べ、jev_choice()で指定した選択肢に分類できる。"
+    },
+    {
+      "name": "Rive C++ runtime",
+      "genre": "other",
+      "url": "https://github.com/rive-app/rive-runtime",
+      "repo": "rive-app/rive-runtime",
+      "license": "MIT",
+      "stars": 1258,
+      "language": "C++",
+      "created": "2023-06-02",
+      "updated": "2026-11-13",
+      "forks": 133,
+      "open_issues": 81,
+      "commits_30d": 100,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 150393,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景・有効性・依存関係・実行条件。",
+      "type": "repo",
+      "added": "2026-11-14",
+      "first_seen": "2026-11-14",
+      "sources": [
+        "https://x.com/aikangarooking/status/2121444332091965629"
+      ],
+      "fetched_at": "2026-11-14T07:17:26.316369+00:00",
+      "path": "entries/other/rive-app-rive-runtime.md",
+      "summary": ".rivファイルからアートボードとその内容を読み込み、アートボードのステートマシンを取得して操作できる。アートボードの階層変更をArtboard::advanceで解決する。抽象Rendererインターフェースによる外部ベクターレンダラー接続と、Metal、Vulkan、D3D12、D3D11、OpenGL/WebGL"
     },
     {
       "name": "One IP",
