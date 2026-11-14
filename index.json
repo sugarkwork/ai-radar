@@ -1,5 +1,5 @@
 {
-  "count": 1032,
+  "count": 1033,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -21051,6 +21051,37 @@
       "fetched_at": "2026-11-13T20:10:45.297706+00:00",
       "path": "entries/other/achillean-shodan-python.md",
       "summary": "READMEは、Shodanの検索、IP情報の高速・一括照会、リアルタイムのストリーミングAPI、ネットワークアラート管理、Exploit検索API、データの一括ダウンロード、Shodan DNS DBのドメイン情報参照、およびコマンドラインインターフェースを機能として挙げている。これらはREADMEの説明であり、独立"
+    },
+    {
+      "name": "Tendedero",
+      "genre": "other",
+      "url": "https://github.com/alejandrobujan/tendedero",
+      "repo": "alejandrobujan/tendedero",
+      "license": "unknown",
+      "stars": 3198,
+      "language": "Swift",
+      "created": "2026-10-07",
+      "updated": "2026-11-12",
+      "forks": 290,
+      "open_issues": 32,
+      "commits_30d": 62,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 117755,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-14",
+      "first_seen": "2026-11-14",
+      "sources": [
+        "https://x.com/awe0_io/status/2118740875417371015"
+      ],
+      "fetched_at": "2026-11-13T23:19:39.918997+00:00",
+      "path": "entries/other/alejandrobujan-tendedero.md",
+      "summary": "macOSのメニューバー付近にラインを表示し、スクリーンショットやコピーしたテキスト・リンク・画像を一時保持する。項目のコピー、Markupでの編集、プレビュー、アプリやフォルダへのドラッグ、共有、ピン留め、検索に対応する。スクリーン録画の保持とトリミング、画像内テキストの検索もREADMEに記載されている。"
     },
     {
       "repo": "Vexa-ai/vexa",
