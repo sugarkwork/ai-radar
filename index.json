@@ -1,5 +1,5 @@
 {
-  "count": 1074,
+  "count": 1075,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -20679,6 +20679,37 @@
       "fetched_at": "2026-11-14T07:14:03.435839+00:00",
       "path": "entries/other/pmndrs-react-spring.md",
       "summary": "READMEはreact-springをクロスプラットフォームのspring物理ベースのアニメーションライブラリと説明している。react-domとreact-three-fiberをサポートし、宣言的または命令的にアニメーションを設定できる。デフォルトではspringを使い、durationとeasingもサポートす"
+    },
+    {
+      "name": "Filee",
+      "genre": "other",
+      "url": "https://github.com/KnifeLemon/Filee",
+      "repo": "KnifeLemon/Filee",
+      "stars": 26944,
+      "forks": 1546,
+      "open_issues": 108,
+      "size_kb": 49177,
+      "language": "C#",
+      "created": "2026-09-29",
+      "updated": "2026-11-14",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 100,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景・有効性・依存関係・実行条件。",
+      "type": "repo",
+      "added": "2026-11-14",
+      "first_seen": "2026-11-14",
+      "sources": [
+        "https://x.com/bkdgiffug/status/2118810151167856808"
+      ],
+      "fetched_at": "2026-11-14T10:12:34.239777+00:00",
+      "path": "entries/other/knifelemon-filee.md",
+      "summary": "カーソル位置に形式メニューを表示し、ファイルを形式にドロップして変換するデスクトップアプリ。READMEは画像、文書、動画・音声、アーカイブ、CAD、3Dモデルなど270形式への対応、オフライン動作、元ファイルと同じ場所への保存を説明している。ほかに一括変換、監視フォルダー、トリミング、変換設定、ブラウザーからのファイ"
     },
     {
       "repo": "karpathy/nn-zero-to-hero",

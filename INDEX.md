@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1074 件 — リポジトリ 720, リンク集 119, 記事 168, モデル 53, プロンプト 14 / ⚑ 要確認 849 件
+収録 1075 件 — リポジトリ 721, リンク集 119, 記事 168, モデル 53, プロンプト 14 / ⚑ 要確認 850 件
 
-## リポジトリ（720）
+## リポジトリ（721）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（129）
+### その他（130）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Actual Budget](entries/other/actualbudget-actual.md) ⚑ | 30,135 | 3,272 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | MIT |
 | [Claude Code Skills & Plugins](entries/other/alirezarezvani-claude-skills.md) ⚑ | 29,573 | 4,095 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | MIT |
 | [react-spring](entries/other/pmndrs-react-spring.md) ⚑ | 29,279 | 1,236 | 毎日 | 23 | 2026-11-01 | 2026-11-14 | 2026-11-14 | MIT |
+| [Filee](entries/other/knifelemon-filee.md) ⚑ | 26,944 | 1,546 | 毎日 | 100+ | 2026-11-14 | 2026-11-14 | 2026-11-14 | MIT |
 | [Neural Networks: Zero to Hero](entries/other/karpathy-nn-zero-to-hero.md) ⚑ | 25,433 | 3,697 | 停滞 | 0 | 2024-08-18 | 2026-11-10 | 2026-11-10 | MIT |
 | [SpiderFoot](entries/other/smicallef-spiderfoot.md) ⚑ | 24,564 | 4,081 | 停滞 | 0 | 2026-04-13 | 2026-11-13 | 2026-11-14 | MIT |
 | [ego lite](entries/other/citrolabs-ego-lite.md) ⚑ | 22,387 | 1,269 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | MIT |
@@ -2066,6 +2067,7 @@
 - [Actual Budget](entries/other/actualbudget-actual.md) — unverified / 定期支出の検出精度、発見投稿のiPhone向けGrok Botの構成と節約額、独自のAI連携手順の動作は未検証。GitHubのリリース表示と公式ノートの日付が異なるため、公開日時は記載していない。
 - [Claude Code Skills & Plugins](entries/other/alirezarezvani-claude-skills.md) — unverified / メンテナーの検証はClaude Codeでのスキル読み込みを対象とする。生成物の品質や作業時間への効果、CodexやCursorでの挙動、個別スクリプトの実行条件は独立に検証していない。
 - [react-spring](entries/other/pmndrs-react-spring.md) — unverified / READMEでは対応先と導入例を確認できるが、詳細な依存関係や各環境の利用条件は示されていない。
+- [Filee](entries/other/knifelemon-filee.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Neural Networks: Zero to Hero](entries/other/karpathy-nn-zero-to-hero.md) — unverified / 最新リリースのタグと公開日は未確認。ノートブックは実行しておらず、依存ライブラリの対応バージョン、必要な計算資源、学習成果は独立検証していない。外部サービスの利用条件や料金は未確認。
 - [SpiderFoot](entries/other/smicallef-spiderfoot.md) — unverified / モジュールごとのAPIキー要件や料金の詳細はREADMEだけでは特定できない。
 - [ego lite](entries/other/citrolabs-ego-lite.md) — unverified / 公式リリース一覧ではv2.1.0がLatestと表示された。最新リリースへの直接アクセスはタイムアウトし、公開日時は未確認。作者ベンチマークの再現性、ブラウザデータの取り扱い、Spaces間の分離の実効性は未検証。
