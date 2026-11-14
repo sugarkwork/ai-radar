@@ -1,5 +1,5 @@
 {
-  "count": 1076,
+  "count": 1077,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -8012,6 +8012,22 @@
       ],
       "fetched_at": "2026-11-10T11:19:41Z",
       "path": "articles/2026-11-05-author-independent-assessment-of-ai-r-d-acceleration-at-anthropic-in-october-2026.md"
+    },
+    {
+      "name": "InstantHMR: Real-Time Human Mesh Recovery on Your Phone",
+      "genre": "article",
+      "url": "https://hal.science/hal-05854387",
+      "published": "2026-11-06",
+      "flags": [],
+      "type": "article",
+      "added": "2026-11-14",
+      "first_seen": "2026-11-14",
+      "risk_notes": "",
+      "sources": [
+        "https://x.com/adjelmohamed/status/2118813115810803792"
+      ],
+      "fetched_at": "2026-11-14T10:13:37.527080+00:00",
+      "path": "articles/2026-11-06-author-instanthmr-real-time-human-mesh-recovery-on-your-phone.md"
     },
     {
       "name": "Introducing Loom: agent memory that keeps up with your code",

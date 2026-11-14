@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1076 件 — リポジトリ 722, リンク集 119, 記事 168, モデル 53, プロンプト 14 / ⚑ 要確認 851 件
+収録 1077 件 — リポジトリ 722, リンク集 119, 記事 169, モデル 53, プロンプト 14 / ⚑ 要確認 851 件
 
 ## リポジトリ（722）
 
@@ -1290,9 +1290,9 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（168）
+## 記事（169）
 
-### 記事（105）
+### 記事（106）
 
 - **[$0のデジタル参謀長で月$80,000の契約候補を作ったというX投稿（動画付き）](articles/2026-10-22-bober_smart-0-80-000-x.md)** ⚑  @Bober_smart
 - **[1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md)** ⚑  @mukadeshinigami（mukade死神）
@@ -1344,6 +1344,7 @@
 - **[How we’re training a Figma-fluent editing model](articles/2026-10-29-author-how-we-re-training-a-figma-fluent-editing-model.md)** ⚑
 - **[Hundreds of Mundane AI Apps Are Hiding Sexually Abusive Deepfake Features](articles/2026-11-02-author-hundreds-of-mundane-ai-apps-are-hiding-sexually-abusive-deepfake-features.md)**
 - **[Independent Assessment of AI R&D Acceleration at Anthropic in October 2026](articles/2026-11-05-author-independent-assessment-of-ai-r-d-acceleration-at-anthropic-in-october-2026.md)** ⚑
+- **[InstantHMR: Real-Time Human Mesh Recovery on Your Phone](articles/2026-11-06-author-instanthmr-real-time-human-mesh-recovery-on-your-phone.md)**
 - **[Introducing Loom: agent memory that keeps up with your code](articles/2026-11-13-author-introducing-loom-agent-memory-that-keeps-up-with-your-code.md)** ⚑
 - **[Introducing System One Models & Jev](articles/2026-09-15-diogo-almeida-typesafe-ai-introducing-system-one-models-jev.md)** ⚑  Diogo Almeida（TypeSafe AI）
 - **[Jetpack Compose for XR 1.0.0-beta02 リリースノート](articles/2026-10-21-author-jetpack-compose-for-xr-1.0.0-beta02-d5c3bbee7c.md)** ⚑
