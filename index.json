@@ -1,5 +1,5 @@
 {
-  "count": 1085,
+  "count": 1086,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -29731,6 +29731,37 @@
       "fetched_at": "2026-11-11T08:19:06.264085+00:00",
       "path": "entries/video-gen/lightricks-ltx-video.md",
       "summary": "LTX-Video v0.9.xは動画生成モデル。READMEでは、テキストからの動画生成に加えて、画像からの動画生成、複数キーフレームによる条件付け、キーフレームアニメーション、動画の前後への延長、動画から動画への変換をサポートすると説明している。また、音声と動画の同期生成、最大50 FPS・ネイティブ4K出力につい"
+    },
+    {
+      "name": "OpenFilm",
+      "genre": "video-gen",
+      "url": "https://github.com/openfilm/openfilm",
+      "repo": "openfilm/openfilm",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "生成音声・音楽・画像・動画の利用には、接続サービスの利用またはOpenFilmへのサインインが必要と記載されています。各サービスの料金や利用条件はREADMEでは確認できません。",
+      "stars": 6950,
+      "forks": 669,
+      "open_issues": 27,
+      "size_kb": 55842,
+      "language": "TypeScript",
+      "created": "2026-10-04",
+      "updated": "2026-11-13",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 100,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "type": "repo",
+      "added": "2026-11-14",
+      "first_seen": "2026-11-14",
+      "sources": [
+        "https://x.com/Yarad_ai/status/2121225629177663872"
+      ],
+      "fetched_at": "2026-11-14T15:07:50.363346+00:00",
+      "path": "entries/video-gen/openfilm-openfilm.md",
+      "summary": "コーディングエージェントがHTMLページを組み合わせて動画を作成し、ローカルのブラウザー上で動くStudioで編集できます。READMEには、タイムライン編集やMP4、GIF、音声、字幕、静止画などの書き出し機能が記載されています。"
     },
     {
       "repo": "remotion-dev/skills",
