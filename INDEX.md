@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1057 件 — リポジトリ 708, リンク集 119, 記事 163, モデル 53, プロンプト 14 / ⚑ 要確認 835 件
+収録 1058 件 — リポジトリ 709, リンク集 119, 記事 163, モデル 53, プロンプト 14 / ⚑ 要確認 836 件
 
-## リポジトリ（708）
+## リポジトリ（709）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（120）
+### その他（121）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -49,6 +49,7 @@
 | [SpiderFoot](entries/other/smicallef-spiderfoot.md) ⚑ | 24,564 | 4,081 | 停滞 | 0 | 2026-04-13 | 2026-11-13 | 2026-11-14 | MIT |
 | [ego lite](entries/other/citrolabs-ego-lite.md) ⚑ | 22,387 | 1,269 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | MIT |
 | [res-downloader](entries/other/putyy-res-downloader.md) ⚑ | 21,255 | 2,609 | 停滞 | 0 | 2026-11-11 | 2026-11-13 | 2026-11-13 | Apache-2.0 |
+| [ActivityWatch](entries/other/activitywatch-activitywatch.md) ⚑ | 19,621 | 1,078 | 週次 | 19 | 2026-11-13 | 2026-11-14 | 2026-11-14 | MPL-2.0 |
 | [ai-goofish-monitor](entries/other/usagi-org-ai-goofish-monitor.md) ⚑ | 19,101 | 3,116 | 月次 | 0 | 2026-10-10 | 2026-11-10 | 2026-11-10 | MIT |
 | [micrograd](entries/other/karpathy-micrograd.md) ⚑ | 18,805 | 2,993 | 停滞 | 0 | 2026-08-03 | 2026-11-10 | 2026-11-10 | MIT |
 | [theHarvester](entries/other/laramies-theharvester.md) ⚑ | 18,318 | 2,736 | 毎日 | 63 | 2026-11-13 | 2026-11-13 | 2026-11-14 | GPL-2.0 |
@@ -2046,6 +2047,7 @@
 - [SpiderFoot](entries/other/smicallef-spiderfoot.md) — unverified / モジュールごとのAPIキー要件や料金の詳細はREADMEだけでは特定できない。
 - [ego lite](entries/other/citrolabs-ego-lite.md) — unverified / 公式リリース一覧ではv2.1.0がLatestと表示された。最新リリースへの直接アクセスはタイムアウトし、公開日時は未確認。作者ベンチマークの再現性、ブラウザデータの取り扱い、Spaces間の分離の実効性は未検証。
 - [res-downloader](entries/other/putyy-res-downloader.md) — unverified / README says setup requires allowing certificate installation and network access. It also notes that the system proxy may need to be turned off manually after closing the app.
+- [ActivityWatch](entries/other/activitywatch-activitywatch.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [ai-goofish-monitor](entries/other/usagi-org-ai-goofish-monitor.md) — unverified / 判定精度、通知遅延、現行の闲鱼環境での動作、モデルAPIの実利用料金、最新リリースの公開日時は未確認。プラットフォームの利用条件への適合性は利用形態に依存する。
 - [micrograd](entries/other/karpathy-micrograd.md) — unverified / 勾配の一致、分類デモの再現性、実行性能、Python バージョンごとの動作は独立実測していない。GitHub の公開 Releases 一覧にはリリースが表示されていないため、最新リリースの版と日時は未記載。
 - [theHarvester](entries/other/laramies-theharvester.md) — unverified / 対象の所有または明示的なテスト許可が必要。選択した提供元には対象文字列が送られる。P1のDNS照会とP2の対象への直接接続は、選択した場合に実行される。Python 3.14とuvが必要。

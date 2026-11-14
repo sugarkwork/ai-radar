@@ -1,5 +1,5 @@
 {
-  "count": 1057,
+  "count": 1058,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -20565,6 +20565,37 @@
       "fetched_at": "2026-11-13T06:23:38.178409+00:00",
       "path": "entries/other/putyy-res-downloader.md",
       "summary": "READMEでは、Windows / macOS / Linux向けのリソースダウンロードツールとして紹介されています。動画、音声、画像、m3u8、ライブストリームなどを扱い、プロキシ経由でリソースを取得できます。対応プラットフォームとして微信视频号、小程序、抖音、快手、小红书、酷狗音乐、QQ音乐が挙げられています。出"
+    },
+    {
+      "name": "ActivityWatch",
+      "genre": "other",
+      "url": "https://github.com/ActivityWatch/activitywatch",
+      "repo": "ActivityWatch/activitywatch",
+      "license": "MPL-2.0",
+      "stars": 19621,
+      "language": "Python",
+      "created": "2016-04-27",
+      "updated": "2026-11-13",
+      "forks": 1078,
+      "open_issues": 136,
+      "commits_30d": 19,
+      "commit_cadence": "weekly",
+      "commits_90d": 100,
+      "size_kb": 1876,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景・有効性・依存関係・実行条件。",
+      "type": "repo",
+      "added": "2026-11-14",
+      "first_seen": "2026-11-14",
+      "sources": [
+        "https://x.com/bkdgiffug/status/2118778945424212086"
+      ],
+      "fetched_at": "2026-11-14T05:15:44.648562+00:00",
+      "path": "entries/other/activitywatch-activitywatch.md",
+      "summary": "アクティブなアプリケーションとウィンドウタイトル、ブラウザーのアクティブなタブとタイトル・URL、キーボードとマウスの活動を記録できます。記録データをローカル端末に保存し、活動を表示します。出典: https://github.com/ActivityWatch/activitywatch"
     },
     {
       "repo": "Usagi-org/ai-goofish-monitor",
