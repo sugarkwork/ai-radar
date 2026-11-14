@@ -1,5 +1,5 @@
 {
-  "count": 1098,
+  "count": 1099,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -4503,6 +4503,37 @@
       "last_release_at": "2026-11-09",
       "path": "entries/agent-framework/milind-soni-openmausbot.md",
       "summary": "Grok Bot型の連絡先UIでclaude/codex/grok CLI等を実行するOpenMausBot。各ボットの人格・モデル・接続アプリ・実行先を分け承認カードを出す。"
+    },
+    {
+      "name": "Elephant-Goldfish Model (EGM)",
+      "genre": "agent-framework",
+      "url": "https://github.com/google/elephant-goldfish-model",
+      "repo": "google/elephant-goldfish-model",
+      "stars": 19014,
+      "forks": 1414,
+      "open_issues": 105,
+      "size_kb": 15142,
+      "language": "Python",
+      "created": "2026-09-13",
+      "updated": "2026-11-14",
+      "archived": false,
+      "license": "Apache-2.0",
+      "commits_30d": 100,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景・有効性・依存関係・実行条件。",
+      "type": "repo",
+      "added": "2026-11-14",
+      "first_seen": "2026-11-14",
+      "sources": [
+        "https://x.com/ganfanren_ai/status/2118875956089856189"
+      ],
+      "fetched_at": "2026-11-14T18:07:06.457626+00:00",
+      "path": "entries/agent-framework/google-elephant-goldfish-model.md",
+      "summary": "AIアシスタント向けプラグインとして、プロジェクトの文脈をもとに仕様書を作成し、別の新規レビュアーが仕様書と参照資料を確認する設計レビューを提供する。既存の設計文書やPR計画をコードと照合するレビュー、文書とコードのドリフト報告、アイデアの検討、仕様書の草案作成にも使える。レビューはテストや人の判断の代替ではない。出典"
     },
     {
       "name": "Rowboat",

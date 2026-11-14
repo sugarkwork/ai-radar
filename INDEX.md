@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1098 件 — リポジトリ 741, リンク集 119, 記事 171, モデル 53, プロンプト 14 / ⚑ 要確認 872 件
+収録 1099 件 — リポジトリ 742, リンク集 119, 記事 171, モデル 53, プロンプト 14 / ⚑ 要確認 873 件
 
-## リポジトリ（741）
+## リポジトリ（742）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -264,7 +264,7 @@
 | [Berth](entries/coding-agent/maxzyma-berth.md) ⚑ | 0 | 0 | 毎日 | 100+ | 2026-11-11 | 2026-11-12 | 2026-11-12 | MIT |
 | [Leash](entries/coding-agent/cmaintz-leash.md) ⚑ | 0 | 0 | 毎日 | 21 | 2026-11-06 | 2026-11-10 | 2026-11-11 | MIT |
 
-### エージェント基盤・スキル集（103）
+### エージェント基盤・スキル集（104）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -307,6 +307,7 @@
 | [agent-desktop](entries/agent-framework/vercel-labs-agent-desktop.md) | 20,364 | 1,507 | 毎日 | 81 | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
 | [Claude Quickstarts](entries/agent-framework/anthropics-claude-quickstarts.md) ⚑ | 20,218 | 3,373 | 週次 | 5 | 2026-11-06 | 2026-11-10 | 2026-11-10 | MIT |
 | [milind-soni/OpenMausBot](entries/agent-framework/milind-soni-openmausbot.md) ⚑ | 19,575 | 2,682 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [Elephant-Goldfish Model (EGM)](entries/agent-framework/google-elephant-goldfish-model.md) ⚑ | 19,014 | 1,414 | 毎日 | 100+ | 2026-11-14 | 2026-11-14 | 2026-11-14 | Apache-2.0 |
 | [Rowboat](entries/agent-framework/rowboatlabs-rowboat.md) ⚑ | 18,231 | 1,824 | 毎日 | 100+ | 2026-11-13 | 2026-11-13 | 2026-11-14 | Apache-2.0 |
 | [ccch1mneyyy/dsh-Go](entries/agent-framework/ccch1mneyyy-dsh-go.md) ⚑ | 17,518 | 757 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | AGPL-3.0 |
 | [ARTEMIS](entries/agent-framework/google-artemis.md) | 17,116 | 1,909 | 月次 | 0 | 2026-10-01 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
@@ -1635,6 +1636,7 @@
 - [google/skills](entries/agent-framework/google-skills.md) — unverified / skill追加だけで対象クラウド契約・API課金が無料になるわけではない。日次stars増分と効果は未検証。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Claude Quickstarts](entries/agent-framework/anthropics-claude-quickstarts.md) — unverified / 最新リリースのタグと公開日時、サンプルの動作、回答精度、実利用時の費用は未確認。MITはリポジトリ単位のAPI計測値。各サンプルの条件は個別に確認が必要で、自律コーディング例のREADMEには『Internal Anthropic use.』と記載がある。https://github.com/anthropics/claude-quickstarts/blob/main/autonomous-coding/README.md
 - [milind-soni/OpenMausBot](entries/agent-framework/milind-soni-openmausbot.md) — unverified / Apache-2.0は一般部分でenterprise配下は別条件。機能の無料性とモデル・クラウド利用料は別。権限・資格情報と外部操作の承認を確認する。 当方でインストール・推論・生成・ベンチ再現はしていない。
+- [Elephant-Goldfish Model (EGM)](entries/agent-framework/google-elephant-goldfish-model.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Rowboat](entries/agent-framework/rowboatlabs-rowboat.md) — unverified / READMEは「Expect breaking changes while we dogfood」としており、wire contractの互換性は今後変更される可能性がある。
 - [ccch1mneyyy/dsh-Go](entries/agent-framework/ccch1mneyyy-dsh-go.md) — unverified / 匿名使用統計は既定ONで停止可能。スマホ操作の画面内容がモデル提供元へ送られ得る。ローカル起動でもモデル通信・課金は別。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [opensandbox-group/OpenSandbox](entries/agent-framework/opensandbox-group-opensandbox.md) — unverified / 64ms P50・125.4ms P99等は開発側ベンチ。隔離の強さは設定・バックエンドによるため、秘密情報やネットワークの安全性を一括保証しない。 当方でインストール・推論・生成・ベンチ再現はしていない。
