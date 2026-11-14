@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1041 件 — リポジトリ 695, リンク集 119, 記事 160, モデル 53, プロンプト 14 / ⚑ 要確認 822 件
+収録 1042 件 — リポジトリ 695, リンク集 119, 記事 161, モデル 53, プロンプト 14 / ⚑ 要確認 822 件
 
 ## リポジトリ（695）
 
@@ -1263,14 +1263,15 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（160）
+## 記事（161）
 
-### 記事（97）
+### 記事（98）
 
 - **[$0のデジタル参謀長で月$80,000の契約候補を作ったというX投稿（動画付き）](articles/2026-10-22-bober_smart-0-80-000-x.md)** ⚑  @Bober_smart
 - **[1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md)** ⚑  @mukadeshinigami（mukade死神）
 - **[4回に1回に間引いても平均は50%——大数の法則と「選別」の境界](articles/2026-09-13-xsmryze-4-1-50.md)** ⚑  xsmryze
 - **[6つのAIツールを統合して就寝中に$832稼いだというX投稿（動画付き）](articles/2026-10-24-bober_smart-6-ai-832-x.md)** ⚑  @Bober_smart
+- **[A proof of the Aaronson-Ambainis conjecture](articles/2026-11-06-author-a-proof-of-the-aaronson-ambainis-conjecture.md)**
 - **[A thousand fewer paths to root](articles/2026-11-04-author-a-thousand-fewer-paths-to-root.md)**
 - **[AEGEAN — Three.jsで描く海辺の3D体験](articles/2026-09-30-chetan-ankola-aegean-three.js-3d.md)** ⚑  Chetan Ankola
 - **[AIの出力がバラバラにならなくなる、Pydantic AIの「型で縛る」使い方](articles/2026-10-23-opensourcelab9-ai-pydantic-ai.md)**  opensourcelab9
