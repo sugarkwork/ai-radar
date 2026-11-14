@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1042 件 — リポジトリ 695, リンク集 119, 記事 161, モデル 53, プロンプト 14 / ⚑ 要確認 822 件
+収録 1043 件 — リポジトリ 696, リンク集 119, 記事 161, モデル 53, プロンプト 14 / ⚑ 要確認 823 件
 
-## リポジトリ（695）
+## リポジトリ（696）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -516,7 +516,7 @@
 | [3dmodel](entries/3d-motion/fletcherholt-3dmodel-skill.md) ⚑ | 6 | 0 | 停滞 | 0 | 2026-06-16 | 2026-11-10 | 2026-11-10 | unknown |
 | [Lida-V/LidaAngelToon](entries/3d-motion/lida-v-lidaangeltoon.md) ⚑ | 6 | 0 | 週次 | 13 | 2026-10-17 | 2026-11-09 | 2026-11-10 | NOASSERTION |
 
-### 音声・TTS（37）
+### 音声・TTS（38）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -551,6 +551,7 @@
 | [知了 Cicada](entries/tts-audio/wquguru-cicada.md) ⚑ | 2,104 | 366 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | Apache-2.0 |
 | [Irodori-TTS](entries/tts-audio/aratako-irodori-tts.md) ⚑ | 1,586 | 188 | 週次 | 18 | 2026-11-09 | 2026-11-11 | 2026-11-11 | MIT |
 | [ElevenLabs Skills](entries/tts-audio/elevenlabs-skills.md) ⚑ | 547 | 94 | 週次 | 13 | 2026-11-04 | 2026-11-10 | 2026-11-10 | MIT |
+| [speech.cpp](entries/tts-audio/nyosegawa-speech.cpp.md) ⚑ | 406 | 28 | 毎日 | 52 | 2026-11-14 | 2026-11-14 | 2026-11-14 | MIT |
 | [adventists-ai/sophon-realtime](entries/tts-audio/adventists-ai-sophon-realtime.md) ⚑ | 58 | 4 | 毎日 | 36 | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
 | [VoxMel](entries/tts-audio/voxdance-lab-voxmel.md) ⚑ | 29 | 2 | 週次 | 12 | 2026-11-12 | 2026-11-13 | 2026-11-13 | unknown |
 | [lowkeytea/scyllasband](entries/tts-audio/lowkeytea-scyllasband.md) ⚑ | 29 | 2 | 週次 | 11 | 2026-11-07 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
@@ -2180,6 +2181,7 @@
 - [知了 Cicada](entries/tts-audio/wquguru-cicada.md) — unverified / 公開資料の確認のみ。認識・翻訳精度、遅延、話者識別、共有時の機密情報検出、実際の外部送信先は未検証。Lingの現行料金と無料枠の適用条件は提供元で未確認。
 - [Irodori-TTS](entries/tts-audio/aratako-irodori-tts.md) — unverified / READMEは、単一の長時間録音を使う形式は評価されておらず、複数の短い同一話者クリップで測定した結果と異なる場合があると記載している。必要なGPU・VRAMなどの具体的な実行条件は、提示されたREADME部分から確認できない。
 - [ElevenLabs Skills](entries/tts-audio/elevenlabs-skills.md) — unverified / 最新リリースのタグと公開日時は確認できなかった。スキルの起動、生成音の品質・所要時間、個別API機能の課金条件と生成物の商用利用条件は未検証。
+- [speech.cpp](entries/tts-audio/nyosegawa-speech.cpp.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [adventists-ai/sophon-realtime](entries/tts-audio/adventists-ai-sophon-realtime.md) — unverified / Apache-2.0とNOTICEの第三者要素の条件を分ける。0.31秒等は特定版・構成の作者測定で全版への保証ではない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [VoxMel](entries/tts-audio/voxdance-lab-voxmel.md) — unverified / README does not state the repository license; the supplied API measurement reports license as unknown. The README says model weights, experiment config, and Vocos weights are not included in the checkout and must be supplied separately. GitHub APIでライセンスを確認できていません。
 - [lowkeytea/scyllasband](entries/tts-audio/lowkeytea-scyllasband.md) — unverified / ランタイムApache-2.0と各構成要素の条件を確認する。モデルの70ms等を全デバイスでの実測保証にしない。 当方でインストール・推論・生成・ベンチ再現はしていない。
