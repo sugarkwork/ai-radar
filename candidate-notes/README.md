@@ -31,13 +31,20 @@
 - [X: Vlixsi の投稿](https://x.com/Vlixsi/status/2121631327036318061)
   - 対象を裏付ける公開一次資料を確認できませんでした。
   - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://github.com/Tencent-Hunyuan/Hunyuan3D-2.1>。
+- [X: RoundtableSpace の投稿](https://x.com/RoundtableSpace/status/2118882376981823653)
+  - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: NFT_Chen の投稿](https://x.com/NFT_Chen/status/2118864161878966461)
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 - [X: NFT_Chen の投稿](https://x.com/NFT_Chen/status/2118857618055905764)
   - 対象を裏付ける公開一次資料を確認できませんでした。
   - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://x.com/firesidealpha/status/2118778601726501016>。
+- [X: Leviwoyun の投稿](https://x.com/Leviwoyun/status/2118881463534059903)
+  - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+  - 公開に必須の根拠がそろっていません。
 - [X: Awed_Urshy の投稿](https://x.com/Awed_Urshy/status/2118866796250038660)
   - 候補の対象が複数あり、一意に特定できませんでした。
+- [X: AiAircle34052 の投稿](https://x.com/AiAircle34052/status/2118878610195120234)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 - [X: AIExplorerTim の投稿](https://x.com/AIExplorerTim/status/2118878118903734465)
   - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://x.com/AIExplorerTim/status/2118878118903734465>。
 - [X: AIExplorerTim の投稿](https://x.com/AIExplorerTim/status/2118878106668916862)
