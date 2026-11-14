@@ -1,5 +1,5 @@
 {
-  "count": 1055,
+  "count": 1056,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -19907,6 +19907,37 @@
       "fetched_at": "2026-11-10T11:14:04+00:00",
       "path": "entries/other/paperless-ngx-paperless-ngx.md",
       "summary": "領収書、請求書、契約書などを取り込み、OCRで抽出したテキストをWeb UIやREST APIから全文検索できる。"
+    },
+    {
+      "name": "SiYuan",
+      "genre": "other",
+      "url": "https://github.com/siyuan-note/siyuan",
+      "repo": "siyuan-note/siyuan",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一部機能は有料会員限定。機能ごとの利用条件や料金の詳細はREADMEから確認できない。",
+      "stars": 47217,
+      "forks": 3115,
+      "open_issues": 5,
+      "size_kb": 861917,
+      "language": "TypeScript",
+      "created": "2020-08-30",
+      "updated": "2026-11-14",
+      "archived": false,
+      "license": "AGPL-3.0",
+      "commits_30d": 100,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "type": "repo",
+      "added": "2026-11-14",
+      "first_seen": "2026-11-14",
+      "sources": [
+        "https://x.com/bkdgiffug/status/2118778945424212086"
+      ],
+      "fetched_at": "2026-11-14T05:14:49.861969+00:00",
+      "path": "entries/other/siyuan-note-siyuan.md",
+      "summary": "個人向けナレッジ管理、ブロック単位の参照と双方向リンク、Markdown WYSIWYG編集、Webクリッピング、PDF注釈リンク、各種形式へのエクスポート、フラッシュカード学習、OpenAI APIを使ったAIライティングとQ&Aチャットなど。出典: https://github.com/siyuan-note/si"
     },
     {
       "repo": "mifi/lossless-cut",
