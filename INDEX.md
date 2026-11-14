@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1029 件 — リポジトリ 684, リンク集 119, 記事 159, モデル 53, プロンプト 14 / ⚑ 要確認 811 件
+収録 1030 件 — リポジトリ 684, リンク集 119, 記事 160, モデル 53, プロンプト 14 / ⚑ 要確認 811 件
 
 ## リポジトリ（684）
 
@@ -1252,9 +1252,9 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（159）
+## 記事（160）
 
-### 記事（96）
+### 記事（97）
 
 - **[$0のデジタル参謀長で月$80,000の契約候補を作ったというX投稿（動画付き）](articles/2026-10-22-bober_smart-0-80-000-x.md)** ⚑  @Bober_smart
 - **[1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md)** ⚑  @mukadeshinigami（mukade死神）
@@ -1299,6 +1299,7 @@
 - **[H3 Imageの高解像度生成と縮小手順](articles/2026-11-12-aiwarper-h3-image.md)** ⚑  AIWarper
 - **[Harness design for long-running application development](articles/2026-03-24-author-harness-design-for-long-running-application-development.md)** ⚑
 - **[How we’re training a Figma-fluent editing model](articles/2026-10-29-author-how-we-re-training-a-figma-fluent-editing-model.md)** ⚑
+- **[Hundreds of Mundane AI Apps Are Hiding Sexually Abusive Deepfake Features](articles/2026-11-02-author-hundreds-of-mundane-ai-apps-are-hiding-sexually-abusive-deepfake-features.md)**
 - **[Independent Assessment of AI R&D Acceleration at Anthropic in October 2026](articles/2026-11-05-author-independent-assessment-of-ai-r-d-acceleration-at-anthropic-in-october-2026.md)** ⚑
 - **[Introducing System One Models & Jev](articles/2026-09-15-diogo-almeida-typesafe-ai-introducing-system-one-models-jev.md)** ⚑  Diogo Almeida（TypeSafe AI）
 - **[Jetpack Compose for XR 1.0.0-beta02 リリースノート](articles/2026-10-21-author-jetpack-compose-for-xr-1.0.0-beta02-d5c3bbee7c.md)** ⚑
