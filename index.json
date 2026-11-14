@@ -1,5 +1,5 @@
 {
-  "count": 1018,
+  "count": 1019,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -10515,6 +10515,37 @@
       "fetched_at": "2026-11-10T09:19:25Z",
       "path": "entries/coding-agent/motionsites-ai-claude-skill.md",
       "summary": "Claudeが作例と映像素材を参照し、実装仕様を作ってランディングページを構築する。作者のREADMEによると、実装後はスクリーンショットとQAスクリプトで素材切れ、モバイル幅でのはみ出し、フォント、動画再生を点検する。"
+    },
+    {
+      "name": "zlib",
+      "genre": "coding-agent",
+      "url": "https://github.com/heartleo/zlib",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "利用にはZ-Libraryアカウントが必要とREADMEに記載されています。利用可能なドメインやダウンロード条件の詳細はREADME本文では確認できません。",
+      "repo": "heartleo/zlib",
+      "stars": 1860,
+      "forks": 135,
+      "open_issues": 0,
+      "size_kb": 10621,
+      "language": "Go",
+      "created": "2026-04-10",
+      "updated": "2026-11-13",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 100,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "type": "repo",
+      "added": "2026-11-14",
+      "first_seen": "2026-11-14",
+      "sources": [
+        "https://x.com/bkdgiffug/status/2118716534314897487"
+      ],
+      "fetched_at": "2026-11-13T20:14:25.538843+00:00",
+      "path": "entries/coding-agent/heartleo-zlib.md",
+      "summary": "ターミナルから書籍を検索し、結果の閲覧、ダウンロード、Kindleへの送信、WeReadへの取り込みができます。Claude CodeとCodex向けのエージェントプラグイン、およびローカルstdioのMCPサーバー連携もREADMEに記載されています。出典: https://github.com/heartleo/z"
     },
     {
       "name": "reanimate",

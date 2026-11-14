@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1018 件 — リポジトリ 676, リンク集 118, 記事 157, モデル 53, プロンプト 14 / ⚑ 要確認 801 件
+収録 1019 件 — リポジトリ 677, リンク集 118, 記事 157, モデル 53, プロンプト 14 / ⚑ 要確認 802 件
 
-## リポジトリ（676）
+## リポジトリ（677）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -120,7 +120,7 @@
 | [剪坊](entries/other/tuyetloanpham08-png-jianfang.md) ⚑ | 7 | 1 | 月次 | 2 | 2026-10-20 | 2026-11-11 | 2026-11-11 | unknown |
 | [LapDraw](entries/other/sachinyadavaug20-lapdraw.md) ⚑ | 0 | 0 | 毎日 | 22 | 2026-11-07 | 2026-11-13 | 2026-11-13 | MIT |
 
-### コーディングエージェント（100）
+### コーディングエージェント（101）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -183,6 +183,7 @@
 | [ppmpreetham/BUI](entries/coding-agent/ppmpreetham-bui.md) ⚑ | 2,363 | 95 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
 | [reacher-z/Awesome-REA](entries/coding-agent/reacher-z-awesome-rea.md) ⚑ | 2,312 | 421 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
 | [MotionSites Web Builder](entries/coding-agent/motionsites-ai-claude-skill.md) ⚑ | 1,935 | 198 | 月次 | 2 | 2026-10-26 | 2026-11-10 | 2026-11-10 | unknown |
+| [zlib](entries/coding-agent/heartleo-zlib.md) ⚑ | 1,860 | 135 | 毎日 | 100+ | 2026-11-13 | 2026-11-13 | 2026-11-14 | MIT |
 | [reanimate](entries/coding-agent/niazmorshed2007-reanimate.md) ⚑ | 1,557 | 136 | 毎日 | 20 | 2026-10-31 | 2026-11-11 | 2026-11-11 | MIT |
 | [PHP Version Checker](entries/coding-agent/openai-php2shell-checker.md) ⚑ | 1,468 | 147 | 週次 | 8 | 2026-10-22 | 2026-11-10 | 2026-11-10 | Apache-2.0 |
 | [EvoSkill](entries/coding-agent/sentient-agi-evoskill.md) ⚑ | 1,298 | 134 | 停滞 | 0 | 2026-10-26 | 2026-11-12 | 2026-11-12 | Apache-2.0 |
@@ -1739,6 +1740,7 @@
 - [ppmpreetham/BUI](entries/coding-agent/ppmpreetham-bui.md) — unverified / 即時モードではなく一つのノードツリーを保持する方式。IME・スクリーンリーダー未対応。GPL-3.0-or-laterで組込み配布の条件に注意。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [reacher-z/Awesome-REA](entries/coding-agent/reacher-z-awesome-rea.md) — unverified / indexed repos3309は自動収集で未レビュー。数の多さや公開索引を各項目の安全性・有用性の保証としない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [MotionSites Web Builder](entries/coding-agent/motionsites-ai-claude-skill.md) — unverified / ['作者のREADMEで手順を確認した。導入、スクリーンショットによる修正ループ、生成品質、外部配信素材の到達性は実測していない。', 'GitHubの公開ページで最新タグを確認した。公開日時の年とタイムゾーンは取得できなかった。'] GitHub APIでライセンスを確認できていません。
+- [zlib](entries/coding-agent/heartleo-zlib.md) — unverified / 利用にはZ-Libraryアカウントが必要とREADMEに記載されています。利用可能なドメインやダウンロード条件の詳細はREADME本文では確認できません。
 - [reanimate](entries/coding-agent/niazmorshed2007-reanimate.md) — unverified / Windows is untested. The README says the skill has only been tested with Claude Code, though other agents that read SKILL.md can install it.
 - [PHP Version Checker](entries/coding-agent/openai-php2shell-checker.md) — unverified / READMEとスキル文書を確認した。コードは実行しておらず、実環境での判定結果、Node.jsの最低対応バージョン、各ベンダーの修正情報との照合は未検証。公開Releasesページにはリリースの掲載がなく、最新リリースAPIは未確認。
 - [EvoSkill](entries/coding-agent/sentient-agi-evoskill.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
