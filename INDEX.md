@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1035 件 — リポジトリ 689, リンク集 119, 記事 160, モデル 53, プロンプト 14 / ⚑ 要確認 816 件
+収録 1036 件 — リポジトリ 690, リンク集 119, 記事 160, モデル 53, プロンプト 14 / ⚑ 要確認 817 件
 
-## リポジトリ（689）
+## リポジトリ（690）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -651,6 +651,35 @@
 | [GLM-5.3-Flash 2×RTX PRO 6000 配備レシピ（TensorFold）](entries/model-serving/miaai-lab-glm-5.3-flash-2x-rtx-pro-6000.md) ⚑ | 23 | 2 | 週次 | 16 | 2026-11-07 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
 | [ausboss/ComfyUI-AusBoss-Model-Downloader](entries/model-serving/ausboss-comfyui-ausboss-model-downloader.md) ⚑ | 9 | 1 | 週次 | 5 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
 
+### 画像生成・編集（24）
+
+| 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
+|---|---:|---:|---|---:|---|---|---|---|
+| [ComfyUI](entries/image-gen/comfy-org-comfyui.md) ⚑ | 146,083 | 17,401 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | GPL-3.0 |
+| [Real-ESRGAN](entries/image-gen/xinntao-real-esrgan.md) ⚑ | 37,430 | 4,528 | 停滞 | 0 | 2024-08-06 | 2026-11-10 | 2026-11-10 | BSD-3-Clause |
+| [rembg](entries/image-gen/danielgatis-rembg.md) ⚑ | 25,424 | 2,481 | 週次 | 9 | 2026-11-06 | 2026-11-11 | 2026-11-11 | MIT |
+| [Primitive Pictures](entries/image-gen/fogleman-primitive.md) ⚑ | 13,594 | 671 | 停滞 | 0 | 2024-07-22 | 2026-11-14 | 2026-11-14 | MIT |
+| [ostris/ai-toolkit](entries/image-gen/ostris-ai-toolkit.md) ⚑ | 12,595 | 1,616 | 毎日 | 55 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [facebookresearch/sam3](entries/image-gen/facebookresearch-sam3.md) ⚑ | 12,252 | 1,857 | 月次 | 2 | 2026-10-23 | 2026-11-09 | 2026-11-10 | NOASSERTION |
+| [Pixelorama](entries/image-gen/orama-interactive-pixelorama.md) ⚑ | 11,071 | 615 | 毎日 | 65 | 2026-11-10 | 2026-11-11 | 2026-11-11 | MIT |
+| [AI 角色参考与合成工作台 · 中文版（3合1）](entries/image-gen/anhao-ai-pose-gallery-zh.md) ⚑ | 6,608 | 1,670 | 毎日 | 82 | 2026-11-04 | 2026-11-10 | 2026-11-10 | unknown |
+| [pixelfx](entries/image-gen/patch-gg-pixelfx.md) | 6,308 | 830 | 週次 | 9 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [Agent Sprite Forge](entries/image-gen/0x0funky-agent-sprite-forge.md) ⚑ | 5,456 | 533 | 月次 | 3 | 2026-11-06 | 2026-11-09 | 2026-11-10 | MIT |
+| [FLUX.2](entries/image-gen/black-forest-labs-flux2.md) | 2,862 | 222 | 停滞 | 0 | 2026-03-12 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [Qwen-Image-2.1](entries/image-gen/qwenlm-qwen-image-2.1.md) | 2,189 | 158 | 月次 | 3 | 2026-10-14 | 2026-11-09 | 2026-11-10 | NOASSERTION |
+| [GIF 工厂](entries/image-gen/woyun520-gif-factory.md) ⚑ | 1,092 | 134 | 毎日 | 27 | 2026-11-11 | 2026-11-11 | 2026-11-11 | MIT |
+| [ComfyArt](entries/image-gen/jtydhr88-comfyart.md) ⚑ | 504 | 87 | 毎日 | 70 | 2026-11-09 | 2026-11-11 | 2026-11-11 | MIT |
+| [ComfyUI AICG3D PoseSwap](entries/image-gen/jgrfw-comfyui-pose-swap.md) | 330 | 47 | 週次 | 7 | 2026-11-01 | 2026-11-09 | 2026-11-10 | MIT |
+| [Anima Reference Adapter for ComfyUI](entries/image-gen/arcanima-comfyui-anima-ref-adapter.md) ⚑ | 234 | 14 | 週次 | 12 | 2026-10-31 | 2026-11-11 | 2026-11-11 | Apache-2.0 |
+| [MiniMax-H3-Image](entries/image-gen/minimax-ai-minimax-h3-image.md) ⚑ | 85 | 2 | 月次 | 1 | 2026-11-10 | 2026-11-11 | 2026-11-11 | unknown |
+| [Iris-3B Metal](entries/image-gen/tky-27-iris-3b-metal.md) | 58 | 2 | 毎日 | 36 | 2026-10-19 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [Lyricccco/tailsteer](entries/image-gen/lyricccco-tailsteer.md) ⚑ | 49 | 1 | 週次 | 11 | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [ComfyUI-MossPanelDataset](entries/image-gen/sepiablue-ai-comfyui-mosspaneldataset.md) | 41 | 5 | 週次 | 18 | 2026-11-05 | 2026-11-09 | 2026-11-10 | MIT |
+| [rhinoc/xprite-lighter](entries/image-gen/rhinoc-xprite-lighter.md) ⚑ | 15 | 0 | 毎日 | 91 | 2026-11-08 | 2026-11-09 | 2026-11-10 | MIT |
+| [sepiablue-ai/ComfyUI-PH3-Manga](entries/image-gen/sepiablue-ai-comfyui-ph3-manga.md) ⚑ | 8 | 0 | 週次 | 10 | 2026-11-07 | 2026-11-09 | 2026-11-10 | MIT |
+| [ComfyUI Prompt Atelier](entries/image-gen/renz1998-comfyui-prompt-atelier.md) | 3 | 0 | 毎日 | 51 | 2026-11-09 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
+| [P-H3-Image ComfyUI sample workflows](entries/image-gen/tori29umai0123-p-h3-image_workflows.md) ⚑ | 2 | 1 | 週次 | 4 | 2026-11-06 | 2026-11-10 | 2026-11-11 | unknown |
+
 ### プロンプト（デザイン/UI）（24）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
@@ -679,34 +708,6 @@
 | [better-readme](entries/prompt-design/tommy0103-better-readme-skill.md) ⚑ | 32 | 1 | 停滞 | 0 | 2026-10-08 | 2026-11-09 | 2026-11-10 | MIT |
 | [Grok Bot Teams](entries/prompt-design/ellelion-botteams.md) ⚑ | 26 | 6 | 月次 | 0 | 2026-09-08 | 2026-11-10 | 2026-11-10 | MIT |
 | [GUntilB/Anima-Prompt-Generator](entries/prompt-design/guntilb-anima-prompt-generator.md) ⚑ | 13 | 1 | 月次 | 3 | 2026-11-08 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
-
-### 画像生成・編集（23）
-
-| 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
-|---|---:|---:|---|---:|---|---|---|---|
-| [ComfyUI](entries/image-gen/comfy-org-comfyui.md) ⚑ | 146,083 | 17,401 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | GPL-3.0 |
-| [Real-ESRGAN](entries/image-gen/xinntao-real-esrgan.md) ⚑ | 37,430 | 4,528 | 停滞 | 0 | 2024-08-06 | 2026-11-10 | 2026-11-10 | BSD-3-Clause |
-| [rembg](entries/image-gen/danielgatis-rembg.md) ⚑ | 25,424 | 2,481 | 週次 | 9 | 2026-11-06 | 2026-11-11 | 2026-11-11 | MIT |
-| [ostris/ai-toolkit](entries/image-gen/ostris-ai-toolkit.md) ⚑ | 12,595 | 1,616 | 毎日 | 55 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
-| [facebookresearch/sam3](entries/image-gen/facebookresearch-sam3.md) ⚑ | 12,252 | 1,857 | 月次 | 2 | 2026-10-23 | 2026-11-09 | 2026-11-10 | NOASSERTION |
-| [Pixelorama](entries/image-gen/orama-interactive-pixelorama.md) ⚑ | 11,071 | 615 | 毎日 | 65 | 2026-11-10 | 2026-11-11 | 2026-11-11 | MIT |
-| [AI 角色参考与合成工作台 · 中文版（3合1）](entries/image-gen/anhao-ai-pose-gallery-zh.md) ⚑ | 6,608 | 1,670 | 毎日 | 82 | 2026-11-04 | 2026-11-10 | 2026-11-10 | unknown |
-| [pixelfx](entries/image-gen/patch-gg-pixelfx.md) | 6,308 | 830 | 週次 | 9 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
-| [Agent Sprite Forge](entries/image-gen/0x0funky-agent-sprite-forge.md) ⚑ | 5,456 | 533 | 月次 | 3 | 2026-11-06 | 2026-11-09 | 2026-11-10 | MIT |
-| [FLUX.2](entries/image-gen/black-forest-labs-flux2.md) | 2,862 | 222 | 停滞 | 0 | 2026-03-12 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [Qwen-Image-2.1](entries/image-gen/qwenlm-qwen-image-2.1.md) | 2,189 | 158 | 月次 | 3 | 2026-10-14 | 2026-11-09 | 2026-11-10 | NOASSERTION |
-| [GIF 工厂](entries/image-gen/woyun520-gif-factory.md) ⚑ | 1,092 | 134 | 毎日 | 27 | 2026-11-11 | 2026-11-11 | 2026-11-11 | MIT |
-| [ComfyArt](entries/image-gen/jtydhr88-comfyart.md) ⚑ | 504 | 87 | 毎日 | 70 | 2026-11-09 | 2026-11-11 | 2026-11-11 | MIT |
-| [ComfyUI AICG3D PoseSwap](entries/image-gen/jgrfw-comfyui-pose-swap.md) | 330 | 47 | 週次 | 7 | 2026-11-01 | 2026-11-09 | 2026-11-10 | MIT |
-| [Anima Reference Adapter for ComfyUI](entries/image-gen/arcanima-comfyui-anima-ref-adapter.md) ⚑ | 234 | 14 | 週次 | 12 | 2026-10-31 | 2026-11-11 | 2026-11-11 | Apache-2.0 |
-| [MiniMax-H3-Image](entries/image-gen/minimax-ai-minimax-h3-image.md) ⚑ | 85 | 2 | 月次 | 1 | 2026-11-10 | 2026-11-11 | 2026-11-11 | unknown |
-| [Iris-3B Metal](entries/image-gen/tky-27-iris-3b-metal.md) | 58 | 2 | 毎日 | 36 | 2026-10-19 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [Lyricccco/tailsteer](entries/image-gen/lyricccco-tailsteer.md) ⚑ | 49 | 1 | 週次 | 11 | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [ComfyUI-MossPanelDataset](entries/image-gen/sepiablue-ai-comfyui-mosspaneldataset.md) | 41 | 5 | 週次 | 18 | 2026-11-05 | 2026-11-09 | 2026-11-10 | MIT |
-| [rhinoc/xprite-lighter](entries/image-gen/rhinoc-xprite-lighter.md) ⚑ | 15 | 0 | 毎日 | 91 | 2026-11-08 | 2026-11-09 | 2026-11-10 | MIT |
-| [sepiablue-ai/ComfyUI-PH3-Manga](entries/image-gen/sepiablue-ai-comfyui-ph3-manga.md) ⚑ | 8 | 0 | 週次 | 10 | 2026-11-07 | 2026-11-09 | 2026-11-10 | MIT |
-| [ComfyUI Prompt Atelier](entries/image-gen/renz1998-comfyui-prompt-atelier.md) | 3 | 0 | 毎日 | 51 | 2026-11-09 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
-| [P-H3-Image ComfyUI sample workflows](entries/image-gen/tori29umai0123-p-h3-image_workflows.md) ⚑ | 2 | 1 | 週次 | 4 | 2026-11-06 | 2026-11-10 | 2026-11-11 | unknown |
 
 ### RAG・検索（20）
 
@@ -1843,6 +1844,7 @@
 - [ComfyUI](entries/image-gen/comfy-org-comfyui.md) — unverified / FP8とDynamic VRAMの速度改善幅、P-H3-Imageのモデル系譜と重みの利用条件、各機能の必要VRAMと出力品質、最新リリースの公開日時の年とタイムゾーンは未確認。導入と推論の実行検証は行っていない。
 - [Real-ESRGAN](entries/image-gen/xinntao-real-esrgan.md) — unverified / 最新リリースのタグはGitHubの公開ページで確認した。公開日時、現在の依存バージョンでの互換性、実行速度、VRAM使用量、動画フレーム間の一貫性、配布重み固有の利用条件は未確認。画質の記述は著者の報告に基づき、独立した実行・測定は行っていない。
 - [rembg](entries/image-gen/danielgatis-rembg.md) — unverified / READMEに説明されている機能・効果の記載であり、個別環境での動作や出力品質は確認していない。GPU利用には対応する実行環境とバックエンドの追加設定が必要。クラウドモデルは外部APIのキーと課金条件に依存する。
+- [Primitive Pictures](entries/image-gen/fogleman-primitive.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [ostris/ai-toolkit](entries/image-gen/ostris-ai-toolkit.md) — unverified / MITはツールのコードに関する条件で、学習元重み・画像・生成物の条件とは別。学習速度・VRAM・成果は未再現。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [facebookresearch/sam3](entries/image-gen/facebookresearch-sam3.md) — unverified / 独自SAM Licenseで標準MIT/Apacheではない。重みのmanual gateや利用条件を確認し、複数人モーションのデモを本体の実行試験としない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Pixelorama](entries/image-gen/orama-interactive-pixelorama.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
