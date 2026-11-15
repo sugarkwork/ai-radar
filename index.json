@@ -1,5 +1,5 @@
 {
-  "count": 1115,
+  "count": 1116,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -12551,6 +12551,37 @@
       "last_release_at": "",
       "path": "entries/coding-agent/uditakhourii-quicksilver.md",
       "summary": "リポジトリ全体や大量ファイルに「このファイルは認証まわりを実装しているか」等の yes/no 判定を一括実行し、該当ファイルだけを確信度付きで返す（qs filter）。"
+    },
+    {
+      "name": "Flecha",
+      "genre": "coding-agent",
+      "url": "https://github.com/lucianodiisouza/flecha-browser",
+      "repo": "lucianodiisouza/flecha-browser",
+      "stars": 134,
+      "forks": 22,
+      "open_issues": 2,
+      "size_kb": 5400,
+      "language": "TypeScript",
+      "created": "2026-10-22",
+      "updated": "2026-11-11",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 100,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景・有効性・依存関係・実行条件。",
+      "type": "repo",
+      "added": "2026-11-15",
+      "first_seen": "2026-11-15",
+      "sources": [
+        "https://x.com/AIExplorerTim/status/2118910064606233060"
+      ],
+      "fetched_at": "2026-11-15T00:19:36.693396+00:00",
+      "path": "entries/coding-agent/lucianodiisouza-flecha-browser.md",
+      "summary": "Chromiumベースのブラウザー。サイドバー、Spaces、コマンドバー、Peek、分割表示、サイト別TypeScript/CSS、DevToolsなどを備える。READMEは、Coding agents設定でローカルMCPサーバーを有効にすると、Claude CodeやCursorなどからタブ一覧、ページ内容、コン"
     },
     {
       "name": "astro-conversion-kit",

@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1115 件 — リポジトリ 753, リンク集 119, 記事 176, モデル 53, プロンプト 14 / ⚑ 要確認 887 件
+収録 1116 件 — リポジトリ 754, リンク集 119, 記事 176, モデル 53, プロンプト 14 / ⚑ 要確認 888 件
 
-## リポジトリ（753）
+## リポジトリ（754）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -151,7 +151,7 @@
 | [Pay Small Check](entries/other/ahmardchain-pay-small-check.md) ⚑ | 1 | 0 | 毎日 | 32 | 2026-11-07 | 2026-11-14 | 2026-11-14 | MIT |
 | [LapDraw](entries/other/sachinyadavaug20-lapdraw.md) ⚑ | 0 | 0 | 毎日 | 22 | 2026-11-07 | 2026-11-13 | 2026-11-13 | MIT |
 
-### コーディングエージェント（114）
+### コーディングエージェント（115）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -253,6 +253,7 @@
 | [open-source-hands](entries/coding-agent/abouchedidxcode-open-source-hands.md) ⚑ | 205 | 30 | 月次 | 2 | 2026-11-03 | 2026-11-11 | 2026-11-11 | MIT |
 | [Dual-Brain — 設計とコードの二視点レビュー用スキル](entries/coding-agent/sleeplesshan-dual-brain.md) ⚑ | 143 | 11 | 週次 | 6 | 2026-11-06 | 2026-11-09 | 2026-11-10 | MIT |
 | [quicksilver](entries/coding-agent/uditakhourii-quicksilver.md) ⚑ | 142 | 11 | 停滞 | 0 | 2026-09-25 | 2026-11-09 | 2026-11-10 | MIT |
+| [Flecha](entries/coding-agent/lucianodiisouza-flecha-browser.md) ⚑ | 134 | 22 | 毎日 | 100+ | 2026-11-11 | 2026-11-15 | 2026-11-15 | MIT |
 | [astro-conversion-kit](entries/coding-agent/ethanplusai-astro-conversion-kit.md) ⚑ | 131 | 25 | 毎日 | 100+ | 2026-10-31 | 2026-11-15 | 2026-11-15 | MIT |
 | [Awesome Motion Design Agent Skills](entries/coding-agent/frankxai-awesome-motion-design-agent-skills.md) ⚑ | 106 | 37 | 週次 | 10 | 2026-11-09 | 2026-11-12 | 2026-11-12 | CC0-1.0 |
 | [Xing4.0-29B-A4B](entries/coding-agent/xingchen-agi-xing4.0-29b-a4b.md) ⚑ | 106 | 10 | 週次 | 7 | 2026-11-10 | 2026-11-12 | 2026-11-12 | Apache-2.0 |
@@ -1900,6 +1901,7 @@
 - [open-source-hands](entries/coding-agent/abouchedidxcode-open-source-hands.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Dual-Brain — 設計とコードの二視点レビュー用スキル](entries/coding-agent/sleeplesshan-dual-brain.md) — unverified / MIT。投稿のMS関連社内ハッカソンでAI審査員から満点という説明は作者の自己申告で、公式採点記録・Microsoftの推薦や認証を確認したものではない。READMEは旧5事例ベンチの比較条件・トークン二重計上に問題があり旧総数を撤回と明記。普遍的な性能改善や低遅延は保証しない。 当方でインストール・動作・性能の実行検証はしていない。
 - [quicksilver](entries/coding-agent/uditakhourii-quicksilver.md) — unverified / 効果数値は作者自身の12タスク・ベンチマーク（bench/）による自己申告で、第三者による追試や自動テストは無い。bench の再実行には有料の Jev API キーが必要。対象ファイル/ログの内容は TypeSafe の API（api.typesafe.ai）へ送信されるため機密情報には使えない（.env・鍵・証明書・credentials、2MB 超、バイナリはスキップし .gitignore を尊重すると README に記載）。2026-09-25 の初回コミット2件以降の更新が無く、メンテ状況は不明。
+- [Flecha](entries/coding-agent/lucianodiisouza-flecha-browser.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [astro-conversion-kit](entries/coding-agent/ethanplusai-astro-conversion-kit.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Awesome Motion Design Agent Skills](entries/coding-agent/frankxai-awesome-motion-design-agent-skills.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Xing4.0-29B-A4B](entries/coding-agent/xingchen-agi-xing4.0-29b-a4b.md) — unverified / READMEから最低限必要なハードウェア構成、依存パッケージのバージョン、利用料金は確認できない。評価値はREADME記載の作者側の報告で、独立実測ではない。
