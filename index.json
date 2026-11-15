@@ -1,5 +1,5 @@
 {
-  "count": 1110,
+  "count": 1111,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -6091,6 +6091,37 @@
       "last_release_at": "2026-11-09",
       "path": "entries/agent-framework/ysr666-dsh-vision-router.md",
       "summary": "DSHから画像入力に対応するモデルへ処理を振り分ける補助として紹介されたdsh-vision-router。"
+    },
+    {
+      "name": "Kanzo",
+      "genre": "agent-framework",
+      "url": "https://github.com/emanuele-em/kanzo",
+      "repo": "emanuele-em/kanzo",
+      "stars": 1195,
+      "forks": 99,
+      "open_issues": 13,
+      "size_kb": 20321,
+      "language": "Rust",
+      "created": "2026-10-25",
+      "updated": "2026-11-11",
+      "archived": false,
+      "license": "AGPL-3.0",
+      "commits_30d": 100,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景・有効性・依存関係・実行条件。",
+      "type": "repo",
+      "added": "2026-11-15",
+      "first_seen": "2026-11-15",
+      "sources": [
+        "https://x.com/AIExplorerTim/status/2118910064606233060"
+      ],
+      "fetched_at": "2026-11-15T00:17:28.872334+00:00",
+      "path": "entries/agent-framework/emanuele-em-kanzo.md",
+      "summary": "ブラウザー上のボード、MCP、CLIからタスクを扱えます。エージェントはタスクの取得、カードの移動、コメントを行えます。タスクの検索・絞り込み、依存タスクの設定、複数コンピューター間でのボード共有にも対応するとREADMEに記載されています。"
     },
     {
       "name": "Rerun",
