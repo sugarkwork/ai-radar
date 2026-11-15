@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1151 件 — リポジトリ 781, リンク集 119, 記事 184, モデル 53, プロンプト 14 / ⚑ 要確認 921 件
+収録 1152 件 — リポジトリ 782, リンク集 119, 記事 184, モデル 53, プロンプト 14 / ⚑ 要確認 922 件
 
-## リポジトリ（781）
+## リポジトリ（782）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -288,7 +288,7 @@
 | [ChrisHKAI-Video](entries/coding-agent/authrain-cloud-abdullahformuli-chrishkai-video.md) ⚑ | 0 | 0 | 月次 | 1 | 2026-11-07 | 2026-11-15 | 2026-11-15 | MIT |
 | [Leash](entries/coding-agent/cmaintz-leash.md) ⚑ | 0 | 0 | 毎日 | 21 | 2026-11-06 | 2026-11-10 | 2026-11-11 | MIT |
 
-### エージェント基盤・スキル集（109）
+### エージェント基盤・スキル集（110）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -309,6 +309,7 @@
 | [OpenHands Agent Canvas](entries/agent-framework/openhands-openhands.md) ⚑ | 93,244 | 12,457 | 毎日 | 100+ | 2026-11-11 | 2026-11-11 | 2026-11-11 | MIT |
 | [Crawl4AI](entries/agent-framework/unclecode-crawl4ai.md) ⚑ | 87,228 | 9,090 | 毎日 | 30 | 2026-11-10 | 2026-11-11 | 2026-11-11 | Apache-2.0 |
 | [lobehub/lobehub](entries/agent-framework/lobehub-lobehub.md) ⚑ | 84,579 | 16,168 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | NOASSERTION |
+| [AI Agents for Beginners](entries/agent-framework/microsoft-ai-agents-for-beginners.md) ⚑ | 79,666 | 26,079 | 毎日 | 100+ | 2026-11-07 | 2026-11-15 | 2026-11-15 | MIT |
 | [strix](entries/agent-framework/usestrix-strix.md) | 74,664 | 8,445 | 毎日 | 55 | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
 | [Security Audit Skill (Cloudflare)](entries/agent-framework/cloudflare-security-audit-skill.md) | 67,955 | 4,455 | 月次 | 0 | 2026-09-14 | 2026-11-09 | 2026-11-10 | MIT |
 | [CrewAI](entries/agent-framework/crewaiinc-crewai.md) ⚑ | 60,778 | 9,154 | 毎日 | 100+ | 2026-11-11 | 2026-11-11 | 2026-11-11 | MIT |
@@ -1677,6 +1678,7 @@
 - [OpenHands Agent Canvas](entries/agent-framework/openhands-openhands.md) — unverified / Direct installation runs the agent server on the host with full filesystem access. The README recommends a Docker sandbox; its example mounts the selected projects directory and stores settings, secrets, and conversations in a named volume. Self-hosting security hardening is linked in the README.
 - [Crawl4AI](entries/agent-framework/unclecode-crawl4ai.md) — unverified / Cloud APIは従量課金で、READMEに記載の価格はプランや利用量により異なる。
 - [lobehub/lobehub](entries/agent-framework/lobehub-lobehub.md) — unverified / LobeHub Community LicenseはApache-2.0に派生作品配布の商用条件を追加した独自条件。NOASSERTIONを標準OSSライセンスと解釈しない。 当方でインストール・推論・生成・ベンチ再現はしていない。
+- [AI Agents for Beginners](entries/agent-framework/microsoft-ai-agents-for-beginners.md) — unverified / コード例の実行にはAzureアカウントが必要とREADMEに記載されています。料金の記載は確認できません。
 - [CrewAI](entries/agent-framework/crewaiinc-crewai.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Flowise](entries/agent-framework/flowiseai-flowise.md) — unverified / READMEにリポジトリがアーカイブ済みと明記されています。GitHub APIのライセンス値はunknownですが、READMEはApache License Version 2.0と記載しています。 GitHub APIでライセンスを確認できていません。
 - [oh-my-claudecode](entries/agent-framework/yeachan-heo-oh-my-claudecode.md) — unverified / 導入と実行は未検証。単一エージェントと比較した品質・所要時間・モデル利用料の実測は確認していない。最新リリースのタグは確認したが、公開日時のタイムゾーンは確認できなかった。30日・90日のコミット数はいずれも取得上限に達しており、100件以上を示す。
