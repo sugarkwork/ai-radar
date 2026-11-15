@@ -1,5 +1,5 @@
 {
-  "count": 1135,
+  "count": 1136,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -5474,6 +5474,37 @@
       "last_release_at": "",
       "path": "entries/agent-framework/scrapecreators-social-media-research-skills.md",
       "summary": "13本のスキルで構成: outlier-post-finder / transcript-intelligence / comment-mining / competitor-social-research / ad-library-teardown / trend-discovery / influencer-pro"
+    },
+    {
+      "name": "百智办公 · MonkeyAI",
+      "genre": "agent-framework",
+      "url": "https://github.com/chaitin/MonkeyCode",
+      "repo": "chaitin/MonkeyCode",
+      "license": "AGPL-3.0",
+      "stars": 5202,
+      "language": "TypeScript",
+      "created": "2025-06-25",
+      "updated": "2026-11-14",
+      "forks": 782,
+      "open_issues": 427,
+      "commits_30d": 100,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 152678,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "無料版は最大10席で、クラウドPCと技術サポートは含まれない。付費版の価格と席数はREADMEに記載がなく、要問い合わせ。外部モデルやツールを使う場合、関連内容は設定したサービスへ送信される。",
+      "type": "repo",
+      "added": "2026-11-15",
+      "first_seen": "2026-11-15",
+      "sources": [
+        "https://x.com/ruyi3699/status/2118923901900333222"
+      ],
+      "fetched_at": "2026-11-15T03:23:28.985824+00:00",
+      "path": "entries/agent-framework/chaitin-monkeycode.md",
+      "summary": "チーム向けAIワークスペースとして、自然言語でオフィス業務、プログラミング、デザインを依頼し、資料を整理して成果物を作る。チーム資源の共有、権限管理、利用状況の監査・統計に対応するとREADMEに記載。モデルサービス、MCPコネクター、ナレッジベース、スキル、エキスパート、ルールを組み合わせられる。"
     },
     {
       "type": "repo",

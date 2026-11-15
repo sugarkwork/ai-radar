@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1135 件 — リポジトリ 768, リンク集 119, 記事 181, モデル 53, プロンプト 14 / ⚑ 要確認 905 件
+収録 1136 件 — リポジトリ 769, リンク集 119, 記事 181, モデル 53, プロンプト 14 / ⚑ 要確認 906 件
 
-## リポジトリ（768）
+## リポジトリ（769）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -282,7 +282,7 @@
 | [ChrisHKAI-Video](entries/coding-agent/authrain-cloud-abdullahformuli-chrishkai-video.md) ⚑ | 0 | 0 | 月次 | 1 | 2026-11-07 | 2026-11-15 | 2026-11-15 | MIT |
 | [Leash](entries/coding-agent/cmaintz-leash.md) ⚑ | 0 | 0 | 毎日 | 21 | 2026-11-06 | 2026-11-10 | 2026-11-11 | MIT |
 
-### エージェント基盤・スキル集（106）
+### エージェント基盤・スキル集（107）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -351,6 +351,7 @@
 | [Open Duet](entries/agent-framework/anil-matcha-open-duet.md) | 6,936 | 897 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
 | [Answer me with HTML](entries/agent-framework/qingyuna-answer-me-with-html.md) | 6,155 | 405 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
 | [social-media-research-skills](entries/agent-framework/scrapecreators-social-media-research-skills.md) | 6,082 | 167 | 停滞 | 0 | 2026-08-26 | 2026-11-09 | 2026-11-10 | MIT |
+| [百智办公 · MonkeyAI](entries/agent-framework/chaitin-monkeycode.md) ⚑ | 5,202 | 782 | 毎日 | 100+ | 2026-11-14 | 2026-11-15 | 2026-11-15 | AGPL-3.0 |
 | [omdsh-dev/DSH-better-sidebar](entries/agent-framework/omdsh-dev-dsh-better-sidebar.md) ⚑ | 5,028 | 481 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
 | [PilotDeck](entries/agent-framework/openbmb-pilotdeck.md) ⚑ | 4,989 | 563 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | AGPL-3.0 |
 | [liustack/modlens](entries/agent-framework/liustack-modlens.md) ⚑ | 4,879 | 152 | 週次 | 13 | 2026-11-07 | 2026-11-09 | 2026-11-10 | MIT |
@@ -1691,6 +1692,7 @@
 - [HKUDS/AgentPilot](entries/agent-framework/hkuds-agentpilot.md) — unverified / Terminal-Bench 63.8%・AIME改善はREADMEの自己報告。9B戦略モデルの重みの取得方法は原チェックで確認できていない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [ccch1mneyyy/dsh-TUI](entries/agent-framework/ccch1mneyyy-dsh-tui.md) — unverified / 「DSH公式推薦」は投稿の主張で公式根拠未確認。DeepSeek公式配布と断定せず、CLI操作は未実行。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Rune](entries/agent-framework/anomalyco-rune.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
+- [百智办公 · MonkeyAI](entries/agent-framework/chaitin-monkeycode.md) — unverified / 無料版は最大10席で、クラウドPCと技術サポートは含まれない。付費版の価格と席数はREADMEに記載がなく、要問い合わせ。外部モデルやツールを使う場合、関連内容は設定したサービスへ送信される。
 - [omdsh-dev/DSH-better-sidebar](entries/agent-framework/omdsh-dev-dsh-better-sidebar.md) — unverified / 一覧への掲載を独立した使い勝手評価に変えない。具体的な互換性・設定保持・安全性は未検証。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [PilotDeck](entries/agent-framework/openbmb-pilotdeck.md) — unverified / 投稿の Workbuddy Bench 79.1点（Qwen3.6-35B-A3B）は README の表に該当がなく一次情報で確認できない。採用した数値は README 側のみ。
 - [liustack/modlens](entries/agent-framework/liustack-modlens.md) — unverified / DSH必須プラグイン一覧に載ることとDSH専用実装であることは別。対応エージェント・権限・画面送信の扱いは未検証。 当方でインストール・推論・生成・ベンチ再現はしていない。
