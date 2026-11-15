@@ -10,6 +10,8 @@
   - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: yang_xin19 の投稿](https://x.com/yang_xin19/status/2118945969090040184)
   - 対象を裏付ける公開一次資料を確認できませんでした。
+- [X: wellwue の投稿](https://x.com/wellwue/status/2121728568401297561)
+  - 候補の対象が複数あり、一意に特定できませんでした。
 - [X: tokufxug の投稿](https://x.com/tokufxug/status/2118905819265954053)
   - 公開に必須の根拠がそろっていません。
 - [X: tokufxug の投稿](https://x.com/tokufxug/status/2118905723719680051)
@@ -70,10 +72,19 @@
   - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://x.com/arafune/status/2118582485412131107>。
 - [X: mnishi41 の投稿](https://x.com/mnishi41/status/2118852779020312988)
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+- [X: mingzi206 の投稿](https://x.com/mingzi206/status/2118948511047905354)
+  - 候補の対象が複数あり、一意に特定できませんでした。
 - [X: mayfair0077 の投稿](https://x.com/mayfair0077/status/2118957680710865282)
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 - [X: kiu124 の投稿](https://x.com/kiu124/status/2118922682318442761)
   - 候補の対象が複数あり、一意に特定できませんでした。
+- [X: ganfanren_ai の投稿](https://x.com/ganfanren_ai/status/2118963364907094088)
+  - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://github.com/ChrisHKAI/ChrisHKAI-Video>。
+- [X: ganfanren_ai の投稿](https://x.com/ganfanren_ai/status/2118962746360553653)
+  - 元画像を確認できず、画像内の内容は未検証です。
+  - 対象を裏付ける公開一次資料を確認できませんでした。
+- [X: ganfanren_ai の投稿](https://x.com/ganfanren_ai/status/2118948040593801681)
+  - 元画像を確認できず、画像内の内容は未検証です。
 - [X: ganfanren_ai の投稿](https://x.com/ganfanren_ai/status/2118947777648754784)
   - 候補の対象が複数あり、一意に特定できませんでした。
 - [X: ganfanren_ai の投稿](https://x.com/ganfanren_ai/status/2118941637330288758)
@@ -107,11 +118,15 @@
   - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://github.com/kajisho5/ffmpeg-skill>。
 - [X: dextune の投稿](https://x.com/dextune/status/2121641813136290022)
   - 一次資料と候補の説明に、解消できない相違があります。 照合済み参照先: <https://github.com/A8Chann/dsh-pet-live2d>。
+- [X: dextune の投稿](https://x.com/dextune/status/2118961655237197924)
+  - 元投稿と配布先が同一対象であることを裏付けられませんでした。
 - [X: daaihq の投稿](https://x.com/daaihq/status/2118888226522042683)
   - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://x.com/daaihq/status/2118888226522042683>。
 - [X: daaihq の投稿](https://x.com/daaihq/status/2118888221233013237)
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
   - 対象を裏付ける公開一次資料を確認できませんでした。
+- [X: cookie_sns の投稿](https://x.com/cookie_sns/status/2118996881720455652)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 - [X: codecloude の投稿](https://x.com/codecloude/status/2121669053332775356)
   - 候補の対象が複数あり、一意に特定できませんでした。
   - 提案された種別と配布先を確認できませんでした。
@@ -121,6 +136,8 @@
   - 公開に必須の根拠がそろっていません。
 - [X: bkdgiffug の投稿](https://x.com/bkdgiffug/status/2118865264070848901)
   - 一次資料と候補の説明に、解消できない相違があります。 照合済み参照先: <https://github.com/KevinLiss/ApeAdmin>。
+- [X: awe0_io の投稿](https://x.com/awe0_io/status/2118954339771576520)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 - [X: awe0_io の投稿](https://x.com/awe0_io/status/2118947565471457610)
   - 公開に必須の根拠がそろっていません。
 - [X: atch1993 の投稿](https://x.com/atch1993/status/2118925928604803357)
@@ -131,6 +148,11 @@
   - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://x.com/0xMovez/status/2121312707588583455>。
   - 公開に必須の根拠がそろっていません。
   - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://github.com/pmndrs/react-three-rapier>。
+- [X: abir35627 の投稿](https://x.com/abir35627/status/2121743713714208994)
+  - GitHub APIで元のリポジトリを確認できませんでした。
+  - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+  - 対象を裏付ける公開一次資料を確認できませんでした。
+  - 公開に必須の根拠がそろっていません。
 - [X: abdullahformuli の投稿](https://x.com/abdullahformuli/status/2118982549833949493)
   - 候補の対象が複数あり、一意に特定できませんでした。
 - [X: Yarad_ai の投稿](https://x.com/Yarad_ai/status/2121225629177663872)
@@ -140,6 +162,15 @@
   - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://github.com/Tencent-Hunyuan/Hunyuan3D-2.1>。
 - [X: TommyBeFamous の投稿](https://x.com/TommyBeFamous/status/2121729135215047154)
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+- [X: RoundtableSpace の投稿](https://x.com/RoundtableSpace/status/2121758830857998546)
+  - 候補の対象が複数あり、一意に特定できませんでした。
+  - 下書きが公開用の検証基準を満たしていません。 照合済み参照先: <https://github.com/mrdoob/three.js>。
+- [X: RoundtableSpace の投稿](https://x.com/RoundtableSpace/status/2118965424213614679)
+  - 公開に必須の根拠がそろっていません。
+- [X: RoundtableSpace の投稿](https://x.com/RoundtableSpace/status/2118957874487718323)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+- [X: RoundtableSpace の投稿](https://x.com/RoundtableSpace/status/2118950324383653962)
+  - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://x.com/lesse_jivermore/status/2118672148466393341>。
 - [X: RoundtableSpace の投稿](https://x.com/RoundtableSpace/status/2118935225204175130)
   - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://x.com/RoundtableSpace/status/2118935225204175130>。
 - [X: RoundtableSpace の投稿](https://x.com/RoundtableSpace/status/2118927675469480429)
@@ -164,6 +195,8 @@
   - 公開に必須の根拠がそろっていません。
 - [X: PayneL_AI の投稿](https://x.com/PayneL_AI/status/2118909907521191952)
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+  - 公開に必須の根拠がそろっていません。
+- [X: NFT_Chen の投稿](https://x.com/NFT_Chen/status/2118957893072699798)
   - 公開に必須の根拠がそろっていません。
 - [X: NFT_Chen の投稿](https://x.com/NFT_Chen/status/2118940859656016191)
   - GitHub APIで元のリポジトリを確認できませんでした。
@@ -199,6 +232,8 @@
 - [X: Leviwoyun の投稿](https://x.com/Leviwoyun/status/2118878806882869348)
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
   - 公開に必須の根拠がそろっていません。
+- [X: Frank0495445361 の投稿](https://x.com/Frank0495445361/status/2119019367765791024)
+  - 公開に必須の根拠がそろっていません。
 - [X: Feljoy_ix の投稿](https://x.com/Feljoy_ix/status/2121787138455040333)
   - 候補の対象が複数あり、一意に特定できませんでした。
 - [X: EveryDevAi の投稿](https://x.com/EveryDevAi/status/2121754050274496869)
@@ -206,7 +241,17 @@
 - [X: Dstudio_ai の投稿](https://x.com/Dstudio_ai/status/2118943445842804929)
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
   - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://x.com/Dstudio_ai/status/2118943445842804929>。
+- [X: DAIEvolutionHub の投稿](https://x.com/DAIEvolutionHub/status/2121642650965315953)
+  - 一次資料と候補の説明に、解消できない相違があります。 照合済み参照先: <https://github.com/microsoft/autogen>。
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+  - 公開に必須の根拠がそろっていません。
 - [X: Awed_Urshy の投稿](https://x.com/Awed_Urshy/status/2118866796250038660)
+  - 候補の対象が複数あり、一意に特定できませんでした。
+- [X: Av1dlive の投稿](https://x.com/Av1dlive/status/2118959800881131544)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+- [X: Av1dlive の投稿](https://x.com/Av1dlive/status/2118959798142353667)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+- [X: AiAircle34052 の投稿](https://x.com/AiAircle34052/status/2118964670342291953)
   - 候補の対象が複数あり、一意に特定できませんでした。
 - [X: AiAircle34052 の投稿](https://x.com/AiAircle34052/status/2118920629768663263)
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
