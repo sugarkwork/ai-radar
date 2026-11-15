@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1173 件 — リポジトリ 802, リンク集 119, 記事 185, モデル 53, プロンプト 14 / ⚑ 要確認 940 件
+収録 1174 件 — リポジトリ 802, リンク集 119, 記事 186, モデル 53, プロンプト 14 / ⚑ 要確認 941 件
 
 ## リポジトリ（802）
 
@@ -1370,9 +1370,9 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（185）
+## 記事（186）
 
-### 記事（122）
+### 記事（123）
 
 - **[$0のデジタル参謀長で月$80,000の契約候補を作ったというX投稿（動画付き）](articles/2026-10-22-bober_smart-0-80-000-x.md)** ⚑  @Bober_smart
 - **[1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md)** ⚑  @mukadeshinigami（mukade死神）
@@ -1470,6 +1470,7 @@
 - **[The Winners and Losers of AI’s First Big Election](articles/2026-11-10-author-the-winners-and-losers-of-ai-s-first-big-election.md)** ⚑
 - **[The attack chain behind the v1.107.0 LiteLLM release](articles/2026-10-23-oliver-jensen-mateo-wang-litellm-the-attack-chain-behind-the-v1.107.0-litellm-release.md)**  Oliver Jensen、Mateo Wang（LiteLLM）
 - **[The components of agent memory](articles/2026-11-06-anthropic-engineering-the-components-of-agent-memory.md)** ⚑  Anthropic Engineering
+- **[The next chapter of Redis Iris: what agents need to work in the real world](articles/2026-11-04-author-the-next-chapter-of-redis-iris-what-agents-need-to-work-in-the-real-world.md)** ⚑
 - **[Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals](articles/2026-10-30-chris-porter-nvidia-things-that-go-beep-in-the-night-agentic-ai-joins-the-search-for-extraterrestria.md)** ⚑  Chris Porter（NVIDIA）
 - **[TokenSpeedのQwen3.8-Flash-Next推論測定](articles/2026-10-13-tokenspeed-team-tokenspeed-qwen3.8-flash-next.md)** ⚑  TokenSpeed Team
 - **[UN-backed anti-terrorism group calls for urgent policy action to halt spread of 'rogue' AI](articles/2026-11-15-author-un-backed-anti-terrorism-group-calls-for-urgent-policy-action-to-halt-spread-of.md)** ⚑
@@ -1856,6 +1857,7 @@
 - [The Johnson brothers — AIキャラを「家族」に増やす成長プレイブック](articles/2026-10-16-y0urdumble-dumble-the-johnson-brothers-ai.md) — unverified, low-quality / 一次情報で確認できなかったこと: 具体的な生成ツール/モデル名（動画・画像に透かしもUIも開示ラベルもない）、プロンプト原文（投稿にもメディアにも存在しない）、フォロワー数・再生数・いいね数の実値（TikTok側は当方の取得で実データを返さず、第三者の集計でも同アカウントは時期により 156K/225.7K と変動）、$21K という収益額（71.6M views × $0.30/1000 の概算で、案件単価や成約の裏付けなし）、「2アカウントが同一運営者」という推断（著者自身が everything points to と推測で書いている）。動画の人物がAI生成だという前提も著者の主張と見た目の印象に留まり、プラットフォーム上の明示的開示は確認できない。誘導先 https://x.com/i/article/2109318233866006528 はログイン必須で本文未確認（同一URLの記事は既に別項目として登録済みのため重複作成しない）。内容は成長施策の助言が中心で、再現手順の技術的検証はできない。
 - [The Winners and Losers of AI’s First Big Election](articles/2026-11-10-author-the-winners-and-losers-of-ai-s-first-big-election.md) — unverified / ページ上部にProject Management Instituteとの提携を示すスポンサー記事の内容が混在している。記事本文にはページ内の公開日「2026-11-10」と署名欄の「Nov 4, 2026」が併記されているため、公開日の表記には注意。記事中の調査・選挙結果の主張はTIME記事の記述であり、各リンク先資料までは個別に検証していない。
 - [The components of agent memory](articles/2026-11-06-anthropic-engineering-the-components-of-agent-memory.md) — unverified / 評価はAnthropicの報告に基づく。独立再現、別タスクへの一般化、記憶の保守に必要な計算コストは未検証。
+- [The next chapter of Redis Iris: what agents need to work in the real world](articles/2026-11-04-author-the-next-chapter-of-redis-iris-what-agents-need-to-work-in-the-real-world.md) — unverified / トークン削減や解決時間短縮などの効果はRedisによる説明で、記事中に独立検証の結果は示されていない。料金・利用条件はこの記事では確認できない。
 - [Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals](articles/2026-10-30-chris-porter-nvidia-things-that-go-beep-in-the-night-agentic-ai-joins-the-search-for-extraterrestria.md) — unverified / 投稿の短縮URLは解決できず、自然言語によるアンテナの指向変更・較正と、かにパルサーのリアルタイム検出という記述の一致から対象記事を特定した。エージェントの制御精度、誤操作時の挙動、観測から検出までの一連の再現手順、構成一式のライセンスと利用料金は確認できていない。
 - [TokenSpeedのQwen3.8-Flash-Next推論測定](articles/2026-10-13-tokenspeed-team-tokenspeed-qwen3.8-flash-next.md) — unverified / 開発元測定。独立追試やQwen 4製品性能は未確認。
 - [UN-backed anti-terrorism group calls for urgent policy action to halt spread of 'rogue' AI](articles/2026-11-15-author-un-backed-anti-terrorism-group-calls-for-urgent-policy-action-to-halt-spread-of.md) — unverified / 162モデルの検証結果や安全対策を除去したモデル数は、記事内で紹介されたTech Against Terrorismの報告・調査に関する記述であり、独立実測として扱わない。

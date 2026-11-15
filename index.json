@@ -1,5 +1,5 @@
 {
-  "count": 1173,
+  "count": 1174,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -9284,6 +9284,24 @@
       ],
       "fetched_at": "2026-11-10T06:17:03Z",
       "path": "articles/2026-11-06-anthropic-engineering-the-components-of-agent-memory.md"
+    },
+    {
+      "name": "The next chapter of Redis Iris: what agents need to work in the real world",
+      "genre": "article",
+      "url": "https://redis.io/blog/the-next-chapter-of-redis-iris-what-agents-need-to-work-in-the-real-world/",
+      "published": "2026-11-04",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "トークン削減や解決時間短縮などの効果はRedisによる説明で、記事中に独立検証の結果は示されていない。料金・利用条件はこの記事では確認できない。",
+      "type": "article",
+      "added": "2026-11-15",
+      "first_seen": "2026-11-15",
+      "sources": [
+        "https://x.com/awe0_io/status/2118983979454062708"
+      ],
+      "fetched_at": "2026-11-15T15:27:42.029561+00:00",
+      "path": "articles/2026-11-04-author-the-next-chapter-of-redis-iris-what-agents-need-to-work-in-the-real-world.md"
     },
     {
       "name": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
