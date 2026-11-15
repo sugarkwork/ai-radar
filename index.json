@@ -1,5 +1,5 @@
 {
-  "count": 1176,
+  "count": 1177,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -11268,6 +11268,37 @@
       "fetched_at": "2026-11-15T08:13:46.838603+00:00",
       "path": "entries/coding-agent/jakeschincariol-instagram-agent-skill.md",
       "summary": "READMEによると、Instagram向けの13個のClaudeスキルが、Reels用フックや台本、キャプション、カルーセル、ストーリー、プロフィール、投稿計画、コメント・返信・DM案などを作成します。ローカルのPythonツールとして、フックの採点、台本の時間見積もり、キャプションのチェック、テキストの整形・検出も"
+    },
+    {
+      "name": "Skill Recorder",
+      "genre": "coding-agent",
+      "url": "https://github.com/microsoft/skill-recorder",
+      "repo": "microsoft/skill-recorder",
+      "stars": 5816,
+      "forks": 658,
+      "open_issues": 48,
+      "size_kb": 6130,
+      "language": "TypeScript",
+      "created": "2026-07-29",
+      "updated": "2026-11-12",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 8,
+      "commits_90d": 35,
+      "commit_cadence": "weekly",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景・有効性・依存関係・実行条件。",
+      "type": "repo",
+      "added": "2026-11-15",
+      "first_seen": "2026-11-15",
+      "sources": [
+        "https://x.com/ruyi3699/status/2118984802250498379"
+      ],
+      "fetched_at": "2026-11-15T16:08:21.184927+00:00",
+      "path": "entries/coding-agent/microsoft-skill-recorder.md",
+      "summary": "画面上の作業セッションを記録し、GitHub Copilot CLIで全体の意図と順序付きの手順を再構成する。承認した分析から、オンデマンドで実行するSKILL.md形式のSkill、またはスケジュールやトリガーで実行するAutomationを作成できる。生成物はUIクリックの再生より、gh CLIやweb_fetch"
     },
     {
       "type": "repo",

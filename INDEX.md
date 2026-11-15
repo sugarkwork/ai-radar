@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1176 件 — リポジトリ 804, リンク集 119, 記事 186, モデル 53, プロンプト 14 / ⚑ 要確認 943 件
+収録 1177 件 — リポジトリ 805, リンク集 119, 記事 186, モデル 53, プロンプト 14 / ⚑ 要確認 944 件
 
-## リポジトリ（804）
+## リポジトリ（805）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -169,7 +169,7 @@
 | [Pay Small Check](entries/other/ahmardchain-pay-small-check.md) ⚑ | 1 | 0 | 毎日 | 32 | 2026-11-07 | 2026-11-14 | 2026-11-14 | MIT |
 | [LapDraw](entries/other/sachinyadavaug20-lapdraw.md) ⚑ | 0 | 0 | 毎日 | 22 | 2026-11-07 | 2026-11-13 | 2026-11-13 | MIT |
 
-### コーディングエージェント（125）
+### コーディングエージェント（126）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -218,6 +218,7 @@
 | [ZSeven-W/openpencil](entries/coding-agent/zseven-w-openpencil.md) ⚑ | 7,172 | 625 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
 | [Coucou](entries/coding-agent/louis-cfm-coucou.md) ⚑ | 7,102 | 1,166 | 毎日 | 100+ | 2026-11-06 | 2026-11-10 | 2026-11-10 | MIT |
 | [The Instagram agent skill](entries/coding-agent/jakeschincariol-instagram-agent-skill.md) ⚑ | 6,502 | 1,270 | 停滞 | 0 | 2026-09-13 | 2026-11-15 | 2026-11-15 | MIT |
+| [Skill Recorder](entries/coding-agent/microsoft-skill-recorder.md) ⚑ | 5,816 | 658 | 週次 | 8 | 2026-11-12 | 2026-11-15 | 2026-11-15 | MIT |
 | [billion-context](entries/coding-agent/ranxianglei-billion-context.md) ⚑ | 5,714 | 433 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | NOASSERTION |
 | [TokenEconomizer](entries/coding-agent/microsoft-tokeneconomizer.md) ⚑ | 5,576 | 345 | 毎日 | 100+ | 2026-11-08 | 2026-11-10 | 2026-11-10 | Apache-2.0 |
 | [Obsidian Mind](entries/coding-agent/breferrari-obsidian-mind.md) ⚑ | 5,525 | 610 | 毎日 | 36 | 2026-10-17 | 2026-11-10 | 2026-11-10 | MIT |
@@ -1924,6 +1925,7 @@
 - [ZSeven-W/openpencil](entries/coding-agent/zseven-w-openpencil.md) — unverified / 「普通模式」という機能名は原チェックで裏付けなし。宣伝動画制作に使ったRenoise MCPは外部有料サービスで本体の無料機能ではない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Coucou](entries/coding-agent/louis-cfm-coucou.md) — unverified / ['公開資料による確認。通知の到達や遅延、端末移動、Face ID承認は実機未検証。CodexでClaude Codeと同じ承認操作ができるか、およびTestFlightの参加可否は未確認。']
 - [The Instagram agent skill](entries/coding-agent/jakeschincariol-instagram-agent-skill.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係。
+- [Skill Recorder](entries/coding-agent/microsoft-skill-recorder.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [billion-context](entries/coding-agent/ranxianglei-billion-context.md) — unverified / ライセンスはMIT本文に加え、利用者が触れる製品・サービスのページや文書等への目立つ出典表示義務がある独自条件。純粋なMITと同一ではない。性能は作者報告で独立検証していない。 実行・品質は未検証。
 - [TokenEconomizer](entries/coding-agent/microsoft-tokeneconomizer.md) — unverified / 最新リリースの公開日時は未確認。導入と動作は実機で再現しておらず、掲載の削減率は著者のベンチマークに限られる。別のリポジトリやモデルでの効果は未確認。
 - [Obsidian Mind](entries/coding-agent/breferrari-obsidian-mind.md) — unverified / READMEの例は作者による記載。振り分けの精度、検索品質、クライアント間の機能差、音声入力の動作は独立に検証していない。
