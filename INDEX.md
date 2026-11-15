@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1114 件 — リポジトリ 752, リンク集 119, 記事 176, モデル 53, プロンプト 14 / ⚑ 要確認 886 件
+収録 1115 件 — リポジトリ 753, リンク集 119, 記事 176, モデル 53, プロンプト 14 / ⚑ 要確認 887 件
 
-## リポジトリ（752）
+## リポジトリ（753）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -151,7 +151,7 @@
 | [Pay Small Check](entries/other/ahmardchain-pay-small-check.md) ⚑ | 1 | 0 | 毎日 | 32 | 2026-11-07 | 2026-11-14 | 2026-11-14 | MIT |
 | [LapDraw](entries/other/sachinyadavaug20-lapdraw.md) ⚑ | 0 | 0 | 毎日 | 22 | 2026-11-07 | 2026-11-13 | 2026-11-13 | MIT |
 
-### コーディングエージェント（113）
+### コーディングエージェント（114）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -229,6 +229,7 @@
 | [yuwen-publish-precheck｜发布前审](entries/coding-agent/yuwen-cool-yuwen-publish-precheck.md) ⚑ | 814 | 77 | 月次 | 0 | 2026-10-08 | 2026-11-14 | 2026-11-14 | MIT |
 | [claude-motion-design](entries/coding-agent/howseen-ai-claude-motion-design.md) ⚑ | 811 | 105 | 月次 | 0 | 2026-10-04 | 2026-11-12 | 2026-11-12 | MIT |
 | [Second Brain](entries/coding-agent/nicholasspisak-second-brain.md) ⚑ | 775 | 116 | 停滞 | 0 | 2026-04-07 | 2026-11-10 | 2026-11-11 | unknown |
+| [MCode Stack](entries/coding-agent/minimax-ai-mcode-stack.md) ⚑ | 717 | 50 | 週次 | 16 | 2026-11-11 | 2026-11-15 | 2026-11-15 | MIT |
 | [Common Skills](entries/coding-agent/warpdotdev-common-skills.md) ⚑ | 686 | 44 | 月次 | 2 | 2026-10-28 | 2026-11-10 | 2026-11-10 | MIT |
 | [Motion Graphics Skill Pack](entries/coding-agent/charlie947-motion-graphics-skills.md) ⚑ | 648 | 86 | 月次 | 0 | 2026-10-11 | 2026-11-12 | 2026-11-12 | MIT |
 | [min-skill](entries/coding-agent/limin112-min-skill.md) ⚑ | 630 | 94 | 週次 | 14 | 2026-11-05 | 2026-11-11 | 2026-11-11 | unknown |
@@ -1875,6 +1876,7 @@
 - [yuwen-publish-precheck｜发布前审](entries/coding-agent/yuwen-cool-yuwen-publish-precheck.md) — unverified / 検出精度やプラットフォームでの審査結果に関する説明はREADME内の作者の記述・例であり、独立した検証結果ではない。README自身も審査通過を保証せず、最終判断はプラットフォーム側に依存するとしている。
 - [claude-motion-design](entries/coding-agent/howseen-ai-claude-motion-design.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Second Brain](entries/coding-agent/nicholasspisak-second-brain.md) — unverified / READMEに記載された機能と手順に基づく。個別の効果、利用条件、費用は確認できていない。 GitHub APIでライセンスを確認できていません。
+- [MCode Stack](entries/coding-agent/minimax-ai-mcode-stack.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Common Skills](entries/coding-agent/warpdotdev-common-skills.md) — unverified / 評価精度、レビュー時間の短縮効果、導入コマンドの実動作、ホスト環境ごとの互換性、最新リリースは未確認。
 - [Motion Graphics Skill Pack](entries/coding-agent/charlie947-motion-graphics-skills.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [min-skill](entries/coding-agent/limin112-min-skill.md) — unverified / 各Skill・ツールの詳細な依存関係や実行条件は、それぞれのディレクトリにあるREADMEで確認が必要。 GitHub APIでライセンスを確認できていません。

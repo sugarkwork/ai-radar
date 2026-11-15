@@ -1,5 +1,5 @@
 {
-  "count": 1114,
+  "count": 1115,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -11796,6 +11796,37 @@
       "fetched_at": "2026-11-10T14:14:37.834658+00:00",
       "path": "entries/coding-agent/nicholasspisak-second-brain.md",
       "summary": "raw/フォルダの素材をエージェントが構造化Wikiページにまとめ、相互参照とインデックスを維持する。Obsidianで閲覧し、クエリやWikiの健全性確認を行うための4つのスキルを提供する。"
+    },
+    {
+      "name": "MCode Stack",
+      "genre": "coding-agent",
+      "url": "https://github.com/MiniMax-AI/mcode-stack",
+      "repo": "MiniMax-AI/mcode-stack",
+      "license": "MIT",
+      "language": "JavaScript",
+      "archived": false,
+      "stars": 717,
+      "forks": 50,
+      "open_issues": 1,
+      "size_kb": 8645,
+      "created": "2026-10-28",
+      "updated": "2026-11-11",
+      "commits_30d": 16,
+      "commits_90d": 16,
+      "commit_cadence": "weekly",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景・有効性・依存関係・実行条件。",
+      "type": "repo",
+      "added": "2026-11-15",
+      "first_seen": "2026-11-15",
+      "sources": [
+        "https://x.com/AIExplorerTim/status/2118910064606233060"
+      ],
+      "fetched_at": "2026-11-15T00:20:08.912832+00:00",
+      "path": "entries/coding-agent/minimax-ai-mcode-stack.md",
+      "summary": "MiniMax Codeチームの開発ワークフローとスキルを提供する。内容には、作業のサブエージェント分割、コンテキストやツールの監査、長時間セッション・コマンドの管理、コードレビュー、評価実験、エージェントへの作業依頼とレビューなどがある。READMEでは、スキルは共通のSKILL.md形式で、対応する他のエージェント"
     },
     {
       "repo": "warpdotdev/common-skills",
