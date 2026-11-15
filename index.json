@@ -1,5 +1,5 @@
 {
-  "count": 1149,
+  "count": 1150,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -20908,6 +20908,37 @@
       "fetched_at": "2026-11-10T16:22:18.748508+00:00",
       "path": "entries/other/microsoft-markitdown.md",
       "summary": "PDF、PowerPoint、Word、Excel、画像、音声、HTML、CSV・JSON・XML、ZIP、YouTube URL、EPUBなどをMarkdownへ変換します。READMEでは、見出し・リスト・表・リンクなどの文書構造をMarkdownとして保持することを重視すると説明しています。"
+    },
+    {
+      "name": "Generative AI for Beginners",
+      "genre": "other",
+      "url": "https://github.com/microsoft/generative-ai-for-beginners",
+      "repo": "microsoft/generative-ai-for-beginners",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEに料金の記載はなく、利用する各サービスの費用は確認できない。",
+      "stars": 123543,
+      "forks": 66422,
+      "open_issues": 22,
+      "size_kb": 6639791,
+      "language": "Jupyter Notebook",
+      "created": "2023-06-19",
+      "updated": "2026-11-12",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 66,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "type": "repo",
+      "added": "2026-11-15",
+      "first_seen": "2026-11-15",
+      "sources": [
+        "https://x.com/DAIEvolutionHub/status/2121642650965315953"
+      ],
+      "fetched_at": "2026-11-15T08:17:41.908728+00:00",
+      "path": "entries/other/microsoft-generative-ai-for-beginners.md",
+      "summary": "生成AIアプリ開発の基礎を21レッスンで学べる。レッスンには概念を説明するLearnと、概念およびコード例を扱うBuildがあり、コード例は可能な場合PythonとTypeScriptで提供される。各レッスンに追加学習用の資料もある。"
     },
     {
       "name": "Godot Engine",
