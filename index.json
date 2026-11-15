@@ -1,5 +1,5 @@
 {
-  "count": 1146,
+  "count": 1147,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -10986,6 +10986,37 @@
       "fetched_at": "2026-11-10T12:28:52+00:00",
       "path": "entries/coding-agent/louis-cfm-coucou.md",
       "summary": "Claude Code、Codex、Cursor、Gemini CLIなどのセッションをMacのノッチで確認できる。Claude Codeの許可要求にはノッチから応答できると公式READMEに記載されている。"
+    },
+    {
+      "name": "The Instagram agent skill",
+      "genre": "coding-agent",
+      "url": "https://github.com/Jakeschincariol/instagram-agent-skill",
+      "repo": "Jakeschincariol/instagram-agent-skill",
+      "stars": 6502,
+      "forks": 1270,
+      "open_issues": 61,
+      "size_kb": 75,
+      "language": "Python",
+      "created": "2026-09-13",
+      "updated": "2026-09-13",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 0,
+      "commits_90d": 2,
+      "commit_cadence": "stale",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景・有効性・依存関係。",
+      "type": "repo",
+      "added": "2026-11-15",
+      "first_seen": "2026-11-15",
+      "sources": [
+        "https://x.com/Ryrenz/status/2121629259655520446"
+      ],
+      "fetched_at": "2026-11-15T08:13:46.838603+00:00",
+      "path": "entries/coding-agent/jakeschincariol-instagram-agent-skill.md",
+      "summary": "READMEによると、Instagram向けの13個のClaudeスキルが、Reels用フックや台本、キャプション、カルーセル、ストーリー、プロフィール、投稿計画、コメント・返信・DM案などを作成します。ローカルのPythonツールとして、フックの採点、台本の時間見積もり、キャプションのチェック、テキストの整形・検出も"
     },
     {
       "type": "repo",
