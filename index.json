@@ -1,5 +1,5 @@
 {
-  "count": 1163,
+  "count": 1164,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -20478,6 +20478,37 @@
       "type": "repo",
       "path": "entries/model-serving/midagedev-bloomery.md",
       "summary": "GPU に載りきらない MoE モデルを、GPU とホスト RAM に分割して推論するサーバー。**使用頻度の高いエキスパートを実行中に GPU へ移す**ため、全エキスパートを VRAM に置く必要がない。"
+    },
+    {
+      "name": "nf12",
+      "genre": "model-serving",
+      "url": "https://github.com/dphnAI/nf12",
+      "repo": "dphnAI/nf12",
+      "license": "Apache-2.0",
+      "stars": 32,
+      "language": "Python",
+      "created": "2026-11-06",
+      "updated": "2026-11-14",
+      "forks": 3,
+      "open_issues": 3,
+      "commits_30d": 12,
+      "commit_cadence": "weekly",
+      "commits_90d": 12,
+      "size_kb": 539,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景・有効性・依存関係・実行条件。",
+      "type": "repo",
+      "added": "2026-11-15",
+      "first_seen": "2026-11-15",
+      "sources": [
+        "https://x.com/NFT_Chen/status/2118977906474983767"
+      ],
+      "fetched_at": "2026-11-15T13:10:02.924099+00:00",
+      "path": "entries/model-serving/dphnai-nf12.md",
+      "summary": "BF16重み行列を固定長12-bit形式で符号化・復号し、PyTorch APIでlinear、embedding、MoE演算を利用できる。NVIDIA CUDA、AMD RDNA4 HIP、Apple Silicon Metalに対応し、Apple SiliconではMLX APIも提供する。README記載のベンチ"
     },
     {
       "type": "repo",
