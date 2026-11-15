@@ -1,5 +1,5 @@
 {
-  "count": 1121,
+  "count": 1122,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -9004,6 +9004,24 @@
       ],
       "fetched_at": "2026-11-10T04:08:08Z",
       "path": "articles/2026-10-13-tokenspeed-team-tokenspeed-qwen3.8-flash-next.md"
+    },
+    {
+      "name": "UN-backed anti-terrorism group calls for urgent policy action to halt spread of 'rogue' AI",
+      "genre": "article",
+      "url": "https://www.abc.net.au/news/2026-11-15/open-source-ai-like-nazi-coach-un-backed-anti-terror-group-says/107368512",
+      "published": "2026-11-15",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "162モデルの検証結果や安全対策を除去したモデル数は、記事内で紹介されたTech Against Terrorismの報告・調査に関する記述であり、独立実測として扱わない。",
+      "type": "article",
+      "added": "2026-11-15",
+      "first_seen": "2026-11-15",
+      "sources": [
+        "https://x.com/routeriverwest/status/2121748137496949104"
+      ],
+      "fetched_at": "2026-11-15T01:23:19.452863+00:00",
+      "path": "articles/2026-11-15-author-un-backed-anti-terrorism-group-calls-for-urgent-policy-action-to-halt-spread-of.md"
     },
     {
       "name": "Ultralytics YOLO26とSAHIによるスライス推論ガイド",
