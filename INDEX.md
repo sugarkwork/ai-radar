@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1159 件 — リポジトリ 788, リンク集 119, 記事 185, モデル 53, プロンプト 14 / ⚑ 要確認 928 件
+収録 1160 件 — リポジトリ 789, リンク集 119, 記事 185, モデル 53, プロンプト 14 / ⚑ 要確認 929 件
 
-## リポジトリ（788）
+## リポジトリ（789）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -407,7 +407,7 @@
 | [AI SDK](entries/agent-framework/anil-matcha-ai.md) ⚑ | 18 | 4 | 停滞 | 0 | 2026-08-06 | 2026-11-13 | 2026-11-13 | unknown |
 | [web-api-skills](entries/agent-framework/oxylabs-web-api-skills.md) | 13 | 1 | 週次 | 11 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
 
-### 動画生成パイプライン（101）
+### 動画生成パイプライン（102）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -498,6 +498,7 @@
 | [ComfyUI Panorama Stickers](entries/video-gen/nomadoor-comfyui-panorama-stickers.md) | 182 | 17 | 毎日 | 84 | 2026-11-05 | 2026-11-09 | 2026-11-10 | MIT |
 | [H3 Continuity Studio](entries/video-gen/kadobot-comfyui-h3-continuity-studio.md) | 160 | 18 | 毎日 | 100+ | 2026-11-08 | 2026-11-09 | 2026-11-10 | MIT |
 | [Video-Rebirth/hyperflow-h3-flash](entries/video-gen/video-rebirth-hyperflow-h3-flash.md) ⚑ | 160 | 8 | 週次 | 4 | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [ChrisHKAI-Video](entries/video-gen/chrishkai-chrishkai-video.md) ⚑ | 150 | 45 | 毎日 | 100+ | 2026-11-14 | 2026-11-15 | 2026-11-15 | MIT |
 | [music-mv](entries/video-gen/win-hao-music-mv.md) | 116 | 5 | 月次 | 3 | 2026-10-20 | 2026-11-09 | 2026-11-10 | MIT |
 | [Claude Code Video Toolkit](entries/video-gen/wilwaldon-claude-code-video-toolkit.md) ⚑ | 110 | 17 | 停滞 | 0 | 2026-02-26 | 2026-11-10 | 2026-11-10 | unknown |
 | [Screenplay](entries/video-gen/gmpetrov-agent-screenplay.md) | 105 | 4 | 毎日 | 22 | 2026-11-03 | 2026-11-09 | 2026-11-10 | MIT |
@@ -2476,6 +2477,7 @@
 - [Otopilot](entries/video-gen/wj-sidiss-otopilot.md) — unverified / 機能は公式READMEとリリースノートで確認した。動画の生成、品質、処理時間、素材サービスの稼働、ライセンスフィルターの判定精度は実測していない。READMEはGitHubのraw配信で確認した。公開リリースページで最新版のタグを確認したが、公開日時の年とタイムゾーンは確認できていない。
 - [HyperFrames Motion Reel Skill](entries/video-gen/sunwood-ai-labs-hyperframes-motion-reel-skill.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Video-Rebirth/hyperflow-h3-flash](entries/video-gen/video-rebirth-hyperflow-h3-flash.md) — unverified / コードのApache-2.0を重みのライセンスへ拡張しない。モデルはMiniMax H3系の地域・商用条件を別途持つ。速度は未再現。 当方でインストール・推論・生成・ベンチ再現はしていない。
+- [ChrisHKAI-Video](entries/video-gen/chrishkai-chrishkai-video.md) — unverified / Codexによる完全な映像制作の品質はREADME時点で未検証。
 - [Claude Code Video Toolkit](entries/video-gen/wilwaldon-claude-code-video-toolkit.md) — unverified / 外部ツールの導入・レンダリング、出力品質、現行バージョンでの互換性、料金は未検証。READMEにはMIT表記があるが、親のGitHub API測定ではライセンスはunknown。外部ツールや素材の利用条件は各提供元で確認する。 GitHub APIでライセンスを確認できていません。
 - [VidDub](entries/video-gen/law1223-viddub.md) — unverified / リポジトリAPI上のライセンスはunknown。READMEのライセンス表示だけでは具体的な利用条件を確認できない。 GitHub APIでライセンスを確認できていません。
 - [NitroFusion2（1〜2ステップ text-to-image）](entries/video-gen/chendaryen-nitrofusion2.md) — unverified / 発見元の投稿（x.com/Machinedelusion/...）は別プロジェクト WeVisCut の宣伝で、NitroFusion2 の説明は一切ない。本項目の根拠はリポジトリ/モデルカードの一次情報のみ。README の「1 step で sharp text」「比較画像」は著者の主張で、第三者計測や条件記載はない。必要 VRAM は README・モデルカードに記載がなく未検証（bf16 重みが約 12.3GB、Q2_K_4XS で約 2.0GB）。リリース/タグが無いため固定バージョンでの導入はできず、clone 時点の main に追従する。カタログに image-gen ジャンルが無いため、同じ扱いをしている画像系モデル（Anima RGBA 等）に合わせて video-gen に分類した（実体は text-to-image）。ライセンスは本体・重みとも Apache-2.0、土台の Tongyi-MAI/Z-Image-Turbo も apache-2.0。

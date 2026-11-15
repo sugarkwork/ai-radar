@@ -1,5 +1,5 @@
 {
-  "count": 1159,
+  "count": 1160,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -33468,6 +33468,37 @@
       "last_release_at": "",
       "path": "entries/video-gen/video-rebirth-hyperflow-h3-flash.md",
       "summary": "HyperFlow H3 Flashの推論コード。圧縮したH3で少ステップの音声映像生成を行うモデルの公式実装。"
+    },
+    {
+      "name": "ChrisHKAI-Video",
+      "genre": "video-gen",
+      "url": "https://github.com/ChrisHKAI/ChrisHKAI-Video",
+      "repo": "ChrisHKAI/ChrisHKAI-Video",
+      "license": "MIT",
+      "stars": 150,
+      "language": "JavaScript",
+      "created": "2026-10-28",
+      "updated": "2026-11-14",
+      "forks": 45,
+      "open_issues": 1,
+      "commits_30d": 100,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 62331,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "Codexによる完全な映像制作の品質はREADME時点で未検証。",
+      "type": "repo",
+      "added": "2026-11-15",
+      "first_seen": "2026-11-15",
+      "sources": [
+        "https://x.com/ganfanren_ai/status/2118963364907094088"
+      ],
+      "fetched_at": "2026-11-15T10:09:39.337687+00:00",
+      "path": "entries/video-gen/chrishkai-chrishkai-video.md",
+      "summary": "XのプロフィールURLを入力し、プロフィール画像や投稿、数値を題材にした短編映像を制作する。READMEは、画像を3Dトイ化し、投稿を壁のように配置し、数値を映像内に表現する例を説明している。映像はBlenderで描画し、音声はPythonで作成する。"
     },
     {
       "repo": "Win-Hao/music-mv",
