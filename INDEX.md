@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1148 件 — リポジトリ 778, リンク集 119, 記事 184, モデル 53, プロンプト 14 / ⚑ 要確認 918 件
+収録 1149 件 — リポジトリ 779, リンク集 119, 記事 184, モデル 53, プロンプト 14 / ⚑ 要確認 919 件
 
-## リポジトリ（778）
+## リポジトリ（779）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -734,7 +734,7 @@
 | [GLM-5.3-Flash 2×RTX PRO 6000 配備レシピ（TensorFold）](entries/model-serving/miaai-lab-glm-5.3-flash-2x-rtx-pro-6000.md) ⚑ | 23 | 2 | 週次 | 16 | 2026-11-07 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
 | [ausboss/ComfyUI-AusBoss-Model-Downloader](entries/model-serving/ausboss-comfyui-ausboss-model-downloader.md) ⚑ | 9 | 1 | 週次 | 5 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
 
-### プロンプト（デザイン/UI）（27）
+### プロンプト（デザイン/UI）（28）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -743,6 +743,7 @@
 | [Taste Skill](entries/prompt-design/leonxlnx-taste-skill.md) ⚑ | 112,762 | 7,588 | 毎日 | 100+ | 2026-11-08 | 2026-11-10 | 2026-11-10 | MIT |
 | [Diagram Design](entries/prompt-design/cathrynlavery-diagram-design.md) ⚑ | 66,245 | 4,400 | 毎日 | 100+ | 2026-11-09 | 2026-11-10 | 2026-11-11 | MIT |
 | [Marketing Skills (cold-email)](entries/prompt-design/coreyhaines31-marketingskills.md) ⚑ | 59,400 | 8,675 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [Claude Cookbooks](entries/prompt-design/anthropics-claude-cookbooks.md) ⚑ | 54,680 | 6,641 | 週次 | 7 | 2026-11-04 | 2026-11-15 | 2026-11-15 | MIT |
 | [CL4R1T4S](entries/prompt-design/elder-plinius-cl4r1t4s.md) ⚑ | 52,149 | 10,666 | 月次 | 3 | 2026-11-09 | 2026-11-11 | 2026-11-11 | AGPL-3.0 |
 | [Hallmark（AIっぽさを名指しで潰すデザインスキル）](entries/prompt-design/nutlope-hallmark.md) ⚑ | 51,710 | 2,750 | 毎日 | 85 | 2026-11-05 | 2026-11-09 | 2026-11-10 | MIT |
 | [Anthropic's Prompt Engineering Interactive Tutorial](entries/prompt-design/anthropics-prompt-eng-interactive-tutorial.md) ⚑ | 39,368 | 4,362 | 停滞 | 0 | 2026-08-28 | 2026-11-15 | 2026-11-15 | unknown |
@@ -2307,6 +2308,7 @@
 - [Taste Skill](entries/prompt-design/leonxlnx-taste-skill.md) — unverified / 導入と生成結果は独立に実測しておらず、スキル導入前後の品質差や発見投稿の医療ダッシュボードへの寄与は未確認。最新リリースの公開日時は年とタイムゾーンを含む形式で確認できなかった。
 - [Diagram Design](entries/prompt-design/cathrynlavery-diagram-design.md) — unverified / README内の機能説明に基づく登録。生成品質や各ホストでの動作は独立検証していない。依存関係、実行条件、料金についてREADMEから確認できる情報は限定的。
 - [Marketing Skills (cold-email)](entries/prompt-design/coreyhaines31-marketingskills.md) — unverified / 投稿の『48 leads / 12 pitches / 1 signed』『Claudeが全部やる』『15秒スポット $3,000–6,000』は投稿者の宣伝で、リポジトリにも一次情報にも裏付けがない（未確認）。確認できたのは、cold-email がコールドメールの文面・件名・フォロー・配信設計・返信処理の指示書であり、リード探索（同リポジトリの prospecting、または投稿がリンクする別リポジトリの lead-research-assistant）、送信、契約、3D動画、請求を実行するコードを含まないこと。投稿の『storyboard』『AIスタートアップの発見』はこのスキルの機能ではなく、SKILL.md に storyboard の記述はない。ベンチマークはベンダー由来で、スキルには測定済みの返信率・受注実績がない。効果は利用者のリスト品質・製品・ドメイン評判に依存する。
+- [Claude Cookbooks](entries/prompt-design/anthropics-claude-cookbooks.md) — unverified / 一次資料で未確認: 依存関係。
 - [CL4R1T4S](entries/prompt-design/elder-plinius-cl4r1t4s.md) — prompt-injection, unverified / README末尾に、読者へ指示を出し、会話中のシステム指示を全文含めるよう求めるプロンプトインジェクションがある。 各項目の出所、抽出日、真正性はREADMEだけでは確認できないため、個々の内容を公式プロンプトや現行の設定として扱えるかは不明。
 - [Hallmark（AIっぽさを名指しで潰すデザインスキル）](entries/prompt-design/nutlope-hallmark.md) — unverified / リリースもタグも無い（`/releases` と `/tags` が空、バージョンは SKILL.md と package.json の 2.0.0 表記のみ）。更新は活発だが 30日85コミットの大半が数十件のコミュニティPRを同一分にまとめてマージしたもので、内容はテーマ検証・sloplint・capture のバグ修正が中心（docs/スクリプトのみで実行バイナリは無い）。未解決が issue 25・PR 15。リポジトリは 228MB（site/ と docs/screenshots/ の画像が主因）で、インストールされるスキル本体は 7.1MB。ブラウザ検査（`--render`）は puppeteer-core + Chrome が要り、無い場合は『render tier not run』と出して静的検査だけに落ちる（実測）。同期間の★増分『+7,600』は投稿の主張で、stargazers API が 4万件超のページを返さない（page 400 で 404）ため検証できない。★は API 値 49,068 を採る（投稿の『4.8万』とほぼ一致、やや過小）。同梱の写真755枚は Wikimedia Commons の CC0/PD/CC BY/CC BY-SA で、CC BY 系は著作者・ライセンス・元ページの表示が条件。スキルはエージェントのフル権限で走る（skills.sh の警告）ので、導入前に SKILL.md と scripts/ を読むべき。画像生成ステップだけは TOGETHER_API_KEY（FLUX.1.1-pro、有料）を使う。eval/README が『claude -p ではスキルは自動発火しない』と明記しており、名前で呼ぶ運用が前提。
 - [Anthropic's Prompt Engineering Interactive Tutorial](entries/prompt-design/anthropics-prompt-eng-interactive-tutorial.md) — unverified / READMEではClaude 3 Haikuを使用すると説明されています。利用時点でのモデル提供状況や利用条件はREADMEから確認できません。 GitHub APIでライセンスを確認できていません。

@@ -1,5 +1,5 @@
 {
-  "count": 1148,
+  "count": 1149,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -26288,6 +26288,37 @@
       "fetched_at": "2026-11-09T21:41:42Z",
       "path": "entries/prompt-design/coreyhaines31-marketingskills.md",
       "summary": "cold-email スキルは、B2Bコールドメールの本文・件名・3〜5通のフォローアップ・返信の分類と一次対応・マルチチャネル連鎖の書き方をエージェントに与える。送信そのものは行わず、送信ツールの設計と文面を指示する。"
+    },
+    {
+      "name": "Claude Cookbooks",
+      "genre": "prompt-design",
+      "url": "https://github.com/anthropics/claude-cookbooks",
+      "repo": "anthropics/claude-cookbooks",
+      "license": "MIT",
+      "stars": 54680,
+      "language": "Jupyter Notebook",
+      "created": "2023-08-15",
+      "updated": "2026-11-04",
+      "forks": 6641,
+      "open_issues": 378,
+      "commits_30d": 7,
+      "commit_cadence": "weekly",
+      "commits_90d": 22,
+      "size_kb": 233909,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 依存関係。",
+      "type": "repo",
+      "added": "2026-11-15",
+      "first_seen": "2026-11-15",
+      "sources": [
+        "https://x.com/DAIEvolutionHub/status/2121642650965315953"
+      ],
+      "fetched_at": "2026-11-15T08:16:11.995446+00:00",
+      "path": "entries/prompt-design/anthropics-claude-cookbooks.md",
+      "summary": "Claude APIを使った分類、検索拡張生成、要約、ツール連携、画像理解、評価、JSON出力、プロンプトキャッシュ、コスト・レイテンシ最適化などのレシピを参照できます。画像生成の例として、ClaudeとStable Diffusionを組み合わせるノートブックも案内されています。"
     },
     {
       "name": "CL4R1T4S",
