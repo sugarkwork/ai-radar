@@ -1,5 +1,5 @@
 {
-  "count": 1168,
+  "count": 1169,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -10814,6 +10814,37 @@
       "fetched_at": "2026-11-10T12:45:27Z",
       "path": "entries/coding-agent/greensock-gsap-skills.md",
       "summary": "AIコーディングエージェントが、GSAPのタイムラインで複数の動きを順序づける方法、ScrollTriggerでスクロールに連動させる方法、SplitTextなどでテキストを演出する方法を参照できる。"
+    },
+    {
+      "name": "Claudian",
+      "genre": "coding-agent",
+      "url": "https://github.com/YishenTu/claudian",
+      "repo": "YishenTu/claudian",
+      "license": "MIT",
+      "stars": 15996,
+      "language": "TypeScript",
+      "created": "2025-12-05",
+      "updated": "2026-11-14",
+      "forks": 1095,
+      "open_issues": 43,
+      "commits_30d": 100,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 40197,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 依存関係。",
+      "type": "repo",
+      "added": "2026-11-15",
+      "first_seen": "2026-11-15",
+      "sources": [
+        "https://x.com/stewy0x/status/2121929768996110590"
+      ],
+      "fetched_at": "2026-11-15T14:18:02.710207+00:00",
+      "path": "entries/coding-agent/yishentu-claudian.md",
+      "summary": "ObsidianのVault内でClaude Code、Codex、Grok Build、Antigravity CLI、OpenCode、Pi、DeepSeek HarnessなどのAIコーディングエージェントを利用できる。エージェントはVaultを作業ディレクトリとして、ファイルの読み書き、検索、コマンド実行、複数"
     },
     {
       "type": "repo",
