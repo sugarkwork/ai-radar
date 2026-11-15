@@ -1,5 +1,5 @@
 {
-  "count": 1113,
+  "count": 1114,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -6352,6 +6352,37 @@
       "fetched_at": "2026-11-11T06:10:34.954075+00:00",
       "path": "entries/agent-framework/jexp-neo4jev.md",
       "summary": "Neo4jのノードから隣接関係を1ホップずつ探索する。各ホップでTypeSafeのsystem_one構造化判定APIに関係候補を渡し、次に進む候補の確率分布を取得する。上位候補や確率しきい値を使ったビームサーチで経路を選び、neo4j-vizで周辺グラフとともに表示する。自由記述のゴール、特定ノード、経路パターンの3"
+    },
+    {
+      "name": "AgentFlux",
+      "genre": "agent-framework",
+      "url": "https://github.com/davemessew/AgentFlux",
+      "repo": "davemessew/AgentFlux",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEによるとログイン機能はなく、単一ユーザー向けです。共有または公開アクセスにはアクセス制御層と適切なネットワーク設定が必要です。",
+      "stars": 182,
+      "forks": 4,
+      "open_issues": 1,
+      "size_kb": 1324,
+      "language": "TypeScript",
+      "created": "2026-10-27",
+      "updated": "2026-10-30",
+      "archived": false,
+      "license": "Apache-2.0",
+      "commits_30d": 5,
+      "commits_90d": 16,
+      "commit_cadence": "weekly",
+      "type": "repo",
+      "added": "2026-11-15",
+      "first_seen": "2026-11-15",
+      "sources": [
+        "https://x.com/AIExplorerTim/status/2118910064606233060"
+      ],
+      "fetched_at": "2026-11-15T00:18:25.064256+00:00",
+      "path": "entries/agent-framework/davemessew-agentflux.md",
+      "summary": "文書・データソース・言語モデルを視覚的なワークフローで接続し、タスク説明からエージェントにワークフローを作成させられます。READMEは、事前設定済みの17ステップと8テンプレート、分岐、動画解析によるワークフロー生成、ローカル文書の検索、Ollama・LM Studio・vLLM・OpenAI互換エンドポイントへの接"
     },
     {
       "repo": "RUC-NLPIR/CoworkOS",
