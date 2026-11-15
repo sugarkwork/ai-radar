@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1119 件 — リポジトリ 756, リンク集 119, 記事 177, モデル 53, プロンプト 14 / ⚑ 要確認 890 件
+収録 1120 件 — リポジトリ 756, リンク集 119, 記事 178, モデル 53, プロンプト 14 / ⚑ 要確認 891 件
 
 ## リポジトリ（756）
 
@@ -1324,9 +1324,9 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（177）
+## 記事（178）
 
-### 記事（114）
+### 記事（115）
 
 - **[$0のデジタル参謀長で月$80,000の契約候補を作ったというX投稿（動画付き）](articles/2026-10-22-bober_smart-0-80-000-x.md)** ⚑  @Bober_smart
 - **[1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md)** ⚑  @mukadeshinigami（mukade死神）
@@ -1342,6 +1342,7 @@
 - **[AI作品の売れるコンセプト選定に関する販促記事（本文未取得）](articles/2026-11-09-https-x.com-i-article-2118611825109729280.md)** ⚑  @1banana2546
 - **[AI生成コードと障害対応をめぐる逸話](articles/2026-10-23-jarvis11x-ai.md)** ⚑  @jarvis11x
 - **[Accelerating engineering for the physical world](articles/2026-11-03-author-accelerating-engineering-for-the-physical-world.md)** ⚑
+- **[Advancing science & engineering with Antigravity’s /teamwork](articles/2026-11-13-author-advancing-science-engineering-with-antigravity-s-teamwork.md)** ⚑
 - **[Almost no one uses AI agents to book their Uber, company says](articles/2026-11-04-author-almost-no-one-uses-ai-agents-to-book-their-uber-company-says.md)** ⚑
 - **[Asia stocks crumble after AI rout hits US markets](articles/2026-11-06-author-asia-stocks-crumble-after-ai-rout-hits-us-markets.md)**
 - **[Axion 1.0: Open Agent Foundation Models, Simplified](articles/2026-11-02-author-axion-1.0-open-agent-foundation-models-simplified.md)** ⚑
@@ -1728,6 +1729,7 @@
 - [AI作品の売れるコンセプト選定に関する販促記事（本文未取得）](articles/2026-11-09-https-x.com-i-article-2118611825109729280.md) — unverified, low-quality / 18+ / NSFWに関連。露骨な例・本文は転載しない。具体的手法、売上効果、教材内容・価格は未確認で成功例として断定しない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [AI生成コードと障害対応をめぐる逸話](articles/2026-10-23-jarvis11x-ai.md) — unverified / 障害、解雇、AI使用との因果は未確認。
 - [Accelerating engineering for the physical world](articles/2026-11-03-author-accelerating-engineering-for-the-physical-world.md) — unverified / 試作期間はOpenAIの自己報告。独立再現、試作費用、量産時の歩留まり、具体的なツール構成や設計成果物の再利用条件は未確認。
+- [Advancing science & engineering with Antigravity’s /teamwork](articles/2026-11-13-author-advancing-science-engineering-with-antigravity-s-teamwork.md) — unverified / 効果や成果の数値はGoogle Researchが記事で報告したもので、独立した実測としては確認していない。
 - [Almost no one uses AI agents to book their Uber, company says](articles/2026-11-04-author-almost-no-one-uses-ai-agents-to-book-their-uber-company-says.md) — unverified / 記事はUberの決算説明会での発言を報じたもの。信頼や所要時間に関する見解は著者による解釈で、記事中の将来予測や他社比較も独立検証していない。
 - [Axion 1.0: Open Agent Foundation Models, Simplified](articles/2026-11-02-author-axion-1.0-open-agent-foundation-models-simplified.md) — unverified / ベンチマークでの性能に関する記述は著者らの報告であり、この確認では独立に検証していない。
 - [Bring Agentic Coding On-Device with Foundry Local](articles/2026-11-05-author-bring-agentic-coding-on-device-with-foundry-local.md) — unverified / llama.cppとの速度差とVRAM別のコンテキスト上限はMicrosoftの報告に基づく。実機での再現、Copilotアプリ全体のオフライン動作、利用プランごとの料金・条件は未確認。
