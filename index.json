@@ -1,5 +1,5 @@
 {
-  "count": 1154,
+  "count": 1155,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -26378,6 +26378,37 @@
       "fetched_at": "2026-11-10T11:21:22+00:00",
       "path": "entries/prompt-design/leonxlnx-taste-skill.md",
       "summary": "コーディングエージェントに、レイアウト、写真、タイポグラフィ、動きの設計ルールを渡す。完了前にブラウザーでレイアウトやフォーム、アクセシビリティの一部を確認し、コピーも検査する。"
+    },
+    {
+      "name": "Prompt Engineering Guide",
+      "genre": "prompt-design",
+      "url": "https://github.com/dair-ai/Prompt-Engineering-Guide",
+      "repo": "dair-ai/Prompt-Engineering-Guide",
+      "license": "MIT",
+      "stars": 80067,
+      "language": "MDX",
+      "created": "2022-12-16",
+      "updated": "2026-03-11",
+      "forks": 8780,
+      "open_issues": 298,
+      "commits_30d": 0,
+      "commit_cadence": "stale",
+      "commits_90d": 0,
+      "size_kb": 82777,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景・依存関係・実行条件。",
+      "type": "repo",
+      "added": "2026-11-15",
+      "first_seen": "2026-11-15",
+      "sources": [
+        "https://x.com/DAIEvolutionHub/status/2121642650965315953"
+      ],
+      "fetched_at": "2026-11-15T08:19:50.521442+00:00",
+      "path": "entries/prompt-design/dair-ai-prompt-engineering-guide.md",
+      "summary": "LLM向けのプロンプト設計技法、適用例、プロンプト例、モデル紹介、リスク、論文、ツール、ノートブック、データセットなどを参照できる。"
     },
     {
       "name": "Diagram Design",
