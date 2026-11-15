@@ -1,5 +1,5 @@
 {
-  "count": 1131,
+  "count": 1132,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -22179,6 +22179,37 @@
       "fetched_at": "2026-11-11T20:11:14.585112+00:00",
       "path": "entries/other/mltframework-shotcut.md",
       "summary": "クロスプラットフォームの動画編集ソフトです。READMEには、バイナリの配布先として https://www.shotcut.org/download/ が記載されています。"
+    },
+    {
+      "name": "Konva",
+      "genre": "other",
+      "url": "https://github.com/konvajs/konva",
+      "repo": "konvajs/konva",
+      "license": "unknown",
+      "stars": 14961,
+      "language": "TypeScript",
+      "created": "2015-01-09",
+      "updated": "2026-11-10",
+      "forks": 1074,
+      "open_issues": 3,
+      "commits_30d": 26,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 23555,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-15",
+      "first_seen": "2026-11-15",
+      "sources": [
+        "https://x.com/Feljoy_ix/status/2121787138455040333"
+      ],
+      "fetched_at": "2026-11-15T03:20:11.463195+00:00",
+      "path": "entries/other/konvajs-konva.md",
+      "summary": "対話型2D Canvas描画のためのシーングラフを提供します。図形ごとのイベント、ドラッグ操作、変形、アニメーション、キャッシュ、書き出しを利用でき、デザインエディタ、ホワイトボード、図表、注釈、地図などの視覚ツールに使えます。React、Vue、Svelte、Angular向け連携パッケージも案内されています。"
     },
     {
       "repo": "Thysrael/Horizon",
