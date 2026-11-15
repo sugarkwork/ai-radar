@@ -1,5 +1,5 @@
 {
-  "count": 1152,
+  "count": 1153,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -22417,6 +22417,37 @@
       "fetched_at": "2026-11-13T20:10:31.173378+00:00",
       "path": "entries/other/laramies-theharvester.md",
       "summary": "検索エンジン、証明書透明性ログ、DNSデータセット、コードリポジトリ、脅威インテリジェンス基盤などの公開情報源から、ホスト名、メールアドレス、IPアドレス、URL、ASN、人名、侵害名などを収集・正規化する。CLI、ローカルのHarvestView、REST APIから利用できる。"
+    },
+    {
+      "name": "Generative AI on Google Cloud",
+      "genre": "other",
+      "url": "https://github.com/GoogleCloudPlatform/generative-ai",
+      "repo": "GoogleCloudPlatform/generative-ai",
+      "license": "Apache-2.0",
+      "stars": 17906,
+      "language": "Jupyter Notebook",
+      "created": "2023-05-05",
+      "updated": "2026-11-14",
+      "forks": 4515,
+      "open_issues": 94,
+      "commits_30d": 24,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 531843,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEだけでは、各サンプルの個別の依存関係、実行条件、料金は確認できません。",
+      "type": "repo",
+      "added": "2026-11-15",
+      "first_seen": "2026-11-15",
+      "sources": [
+        "https://x.com/DAIEvolutionHub/status/2121642650965315953"
+      ],
+      "fetched_at": "2026-11-15T08:18:43.406941+00:00",
+      "path": "entries/other/googlecloudplatform-generative-ai.md",
+      "summary": "Geminiのスターターノートブック、ユースケース、function calling、サンプルアプリを参照できます。RAGとGrounding、ImagenとVeoを使ったソリューション構築、Chirpを使った音声関連のサンプルも案内されています。"
     },
     {
       "name": "MuJoCo",
