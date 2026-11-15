@@ -1,5 +1,5 @@
 {
-  "count": 1147,
+  "count": 1148,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -26363,6 +26363,37 @@
       "amplifiers": [],
       "path": "entries/prompt-design/nutlope-hallmark.md",
       "summary": "AI生成UIの『それっぽさ』を名指しで禁止する。Floor は16条で無効化不可：紫→青グラデ、transition: all、ローマン見出し中のイタリック1語、eyebrow（見出し上の小ラベル）、字間を開けた大文字ラベル、絵文字アイコン、カード内カード、100vw、捏造したメトリクス/ testimonial / "
+    },
+    {
+      "name": "Anthropic's Prompt Engineering Interactive Tutorial",
+      "genre": "prompt-design",
+      "url": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
+      "repo": "anthropics/prompt-eng-interactive-tutorial",
+      "license": "unknown",
+      "stars": 39368,
+      "language": "Jupyter Notebook",
+      "created": "2024-04-02",
+      "updated": "2026-08-28",
+      "forks": 4362,
+      "open_issues": 66,
+      "commits_30d": 0,
+      "commit_cadence": "stale",
+      "commits_90d": 0,
+      "size_kb": 5685,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEではClaude 3 Haikuを使用すると説明されています。利用時点でのモデル提供状況や利用条件はREADMEから確認できません。 GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-15",
+      "first_seen": "2026-11-15",
+      "sources": [
+        "https://x.com/DAIEvolutionHub/status/2121642650965315953"
+      ],
+      "fetched_at": "2026-11-15T08:14:51.742022+00:00",
+      "path": "entries/prompt-design/anthropics-prompt-eng-interactive-tutorial.md",
+      "summary": "Claude向けのプロンプト設計を学べます。READMEは、基本構造、明確で直接的な指示、役割設定、データと指示の分離、出力形式、段階的な思考、例の活用、ハルシネーション回避、複雑な用途向けプロンプトを扱うと説明しています。9章のレッスンと演習があり、各レッスン末尾に例を試すExample Playgroundがありま"
     },
     {
       "repo": "alchaincyf/huashu-design",
