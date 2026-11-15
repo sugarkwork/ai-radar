@@ -1,5 +1,5 @@
 {
-  "count": 1124,
+  "count": 1125,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -11458,6 +11458,37 @@
       "fetched_at": "2026-11-10T10:20:01Z",
       "path": "entries/coding-agent/qoderai-better-harness.md",
       "summary": "プロジェクトの設定や成果物と、対応ホストで取得できるセッションの証拠を整理し、優先度付きの指摘と検証方法をレポートにまとめる。"
+    },
+    {
+      "name": "Rainman Translate Book",
+      "genre": "coding-agent",
+      "url": "https://github.com/deusyu/translate-book",
+      "repo": "deusyu/translate-book",
+      "license": "MIT",
+      "stars": 2412,
+      "language": "Python",
+      "created": "2026-03-15",
+      "updated": "2026-11-07",
+      "forks": 278,
+      "open_issues": 1,
+      "commits_30d": 8,
+      "commit_cadence": "weekly",
+      "commits_90d": 16,
+      "size_kb": 11578,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景・有効性・依存関係・実行条件。",
+      "type": "repo",
+      "added": "2026-11-15",
+      "first_seen": "2026-11-15",
+      "sources": [
+        "https://x.com/bkdgiffug/status/2118920628938088657"
+      ],
+      "fetched_at": "2026-11-15T02:08:31.220482+00:00",
+      "path": "entries/coding-agent/deusyu-translate-book.md",
+      "summary": "PDF/DOCX/EPUBまたはMarkdownの書籍をチャンクに分け、既定で8並列のサブエージェントに翻訳させる。隣接チャンクの短い抜粋を参照でき、マニフェストのハッシュ検証、再開・選択的な再翻訳、結合後のHTML・DOCX・EPUB・PDF出力に対応するとREADMEに記載されている。"
     },
     {
       "type": "repo",
