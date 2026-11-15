@@ -1,5 +1,5 @@
 {
-  "count": 1174,
+  "count": 1175,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -33916,6 +33916,37 @@
       "fetched_at": "2026-11-15T10:09:39.337687+00:00",
       "path": "entries/video-gen/chrishkai-chrishkai-video.md",
       "summary": "XのプロフィールURLを入力し、プロフィール画像や投稿、数値を題材にした短編映像を制作する。READMEは、画像を3Dトイ化し、投稿を壁のように配置し、数値を映像内に表現する例を説明している。映像はBlenderで描画し、音声はPythonで作成する。"
+    },
+    {
+      "name": "ComfyUI Omnichar",
+      "genre": "video-gen",
+      "url": "https://github.com/omnichar/ComfyUI-Omnichar",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "Omnichar Cloudのライセンス付きキャラクターでは、実行ごとのプロバイダーへの報告と、画像・動画の出力許可条件がある。",
+      "repo": "omnichar/ComfyUI-Omnichar",
+      "stars": 139,
+      "forks": 22,
+      "open_issues": 0,
+      "size_kb": 9683,
+      "language": "Python",
+      "created": "2026-10-02",
+      "updated": "2026-11-15",
+      "archived": false,
+      "license": "GPL-3.0",
+      "commits_30d": 3,
+      "commits_90d": 29,
+      "commit_cadence": "monthly",
+      "type": "repo",
+      "added": "2026-11-15",
+      "first_seen": "2026-11-15",
+      "sources": [
+        "https://x.com/dextune/status/2118984300498677835"
+      ],
+      "fetched_at": "2026-11-15T15:28:57.905932+00:00",
+      "path": "entries/video-gen/omnichar-comfyui-omnichar.md",
+      "summary": "ComfyUI上で.char形式のキャラクターを読み込み、顔・体・衣装の参照画像、説明文、任意のLoRAをノードに接続できる。Encode Characterでキャラクターを作成し、Save Characterで保存できる。READMEはFLUX.2、MiniMax H3、Krea 2などの対応を掲げ、MiniMax "
     },
     {
       "repo": "Win-Hao/music-mv",

@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1174 件 — リポジトリ 802, リンク集 119, 記事 186, モデル 53, プロンプト 14 / ⚑ 要確認 941 件
+収録 1175 件 — リポジトリ 803, リンク集 119, 記事 186, モデル 53, プロンプト 14 / ⚑ 要確認 942 件
 
-## リポジトリ（802）
+## リポジトリ（803）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -416,7 +416,7 @@
 | [AI SDK](entries/agent-framework/anil-matcha-ai.md) ⚑ | 18 | 4 | 停滞 | 0 | 2026-08-06 | 2026-11-13 | 2026-11-13 | unknown |
 | [web-api-skills](entries/agent-framework/oxylabs-web-api-skills.md) | 13 | 1 | 週次 | 11 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
 
-### 動画生成パイプライン（103）
+### 動画生成パイプライン（104）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -509,6 +509,7 @@
 | [Video-Rebirth/hyperflow-h3-flash](entries/video-gen/video-rebirth-hyperflow-h3-flash.md) ⚑ | 160 | 8 | 週次 | 4 | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
 | [video-agent-skills](entries/video-gen/melvynx-video-agent-skills.md) ⚑ | 158 | 39 | 週次 | 13 | 2026-11-06 | 2026-11-15 | 2026-11-15 | MIT |
 | [ChrisHKAI-Video](entries/video-gen/chrishkai-chrishkai-video.md) ⚑ | 150 | 45 | 毎日 | 100+ | 2026-11-14 | 2026-11-15 | 2026-11-15 | MIT |
+| [ComfyUI Omnichar](entries/video-gen/omnichar-comfyui-omnichar.md) ⚑ | 139 | 22 | 月次 | 3 | 2026-11-15 | 2026-11-15 | 2026-11-15 | GPL-3.0 |
 | [music-mv](entries/video-gen/win-hao-music-mv.md) | 116 | 5 | 月次 | 3 | 2026-10-20 | 2026-11-09 | 2026-11-10 | MIT |
 | [Claude Code Video Toolkit](entries/video-gen/wilwaldon-claude-code-video-toolkit.md) ⚑ | 110 | 17 | 停滞 | 0 | 2026-02-26 | 2026-11-10 | 2026-11-10 | unknown |
 | [Screenplay](entries/video-gen/gmpetrov-agent-screenplay.md) | 105 | 4 | 毎日 | 22 | 2026-11-03 | 2026-11-09 | 2026-11-10 | MIT |
@@ -2504,6 +2505,7 @@
 - [Video-Rebirth/hyperflow-h3-flash](entries/video-gen/video-rebirth-hyperflow-h3-flash.md) — unverified / コードのApache-2.0を重みのライセンスへ拡張しない。モデルはMiniMax H3系の地域・商用条件を別途持つ。速度は未再現。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [video-agent-skills](entries/video-gen/melvynx-video-agent-skills.md) — unverified / Tregによる一部機能は有料と記載されていますが、料金はREADMEに明記された範囲に限られます。
 - [ChrisHKAI-Video](entries/video-gen/chrishkai-chrishkai-video.md) — unverified / Codexによる完全な映像制作の品質はREADME時点で未検証。
+- [ComfyUI Omnichar](entries/video-gen/omnichar-comfyui-omnichar.md) — unverified / Omnichar Cloudのライセンス付きキャラクターでは、実行ごとのプロバイダーへの報告と、画像・動画の出力許可条件がある。
 - [Claude Code Video Toolkit](entries/video-gen/wilwaldon-claude-code-video-toolkit.md) — unverified / 外部ツールの導入・レンダリング、出力品質、現行バージョンでの互換性、料金は未検証。READMEにはMIT表記があるが、親のGitHub API測定ではライセンスはunknown。外部ツールや素材の利用条件は各提供元で確認する。 GitHub APIでライセンスを確認できていません。
 - [VidDub](entries/video-gen/law1223-viddub.md) — unverified / リポジトリAPI上のライセンスはunknown。READMEのライセンス表示だけでは具体的な利用条件を確認できない。 GitHub APIでライセンスを確認できていません。
 - [NitroFusion2（1〜2ステップ text-to-image）](entries/video-gen/chendaryen-nitrofusion2.md) — unverified / 発見元の投稿（x.com/Machinedelusion/...）は別プロジェクト WeVisCut の宣伝で、NitroFusion2 の説明は一切ない。本項目の根拠はリポジトリ/モデルカードの一次情報のみ。README の「1 step で sharp text」「比較画像」は著者の主張で、第三者計測や条件記載はない。必要 VRAM は README・モデルカードに記載がなく未検証（bf16 重みが約 12.3GB、Q2_K_4XS で約 2.0GB）。リリース/タグが無いため固定バージョンでの導入はできず、clone 時点の main に追従する。カタログに image-gen ジャンルが無いため、同じ扱いをしている画像系モデル（Anima RGBA 等）に合わせて video-gen に分類した（実体は text-to-image）。ライセンスは本体・重みとも Apache-2.0、土台の Tongyi-MAI/Z-Image-Turbo も apache-2.0。
