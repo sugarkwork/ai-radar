@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1123 件 — リポジトリ 756, リンク集 119, 記事 181, モデル 53, プロンプト 14 / ⚑ 要確認 893 件
+収録 1124 件 — リポジトリ 757, リンク集 119, 記事 181, モデル 53, プロンプト 14 / ⚑ 要確認 894 件
 
-## リポジトリ（756）
+## リポジトリ（757）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -490,7 +490,7 @@
 | [utillayer/youtube-agent-skill](entries/video-gen/utillayer-youtube-agent-skill.md) ⚑ | 14 | 2 | 週次 | 16 | 2026-10-29 | 2026-11-09 | 2026-11-10 | MIT |
 | [BennyDaBall930/comfyui_hyperflow_int8_nodes](entries/video-gen/bennydaball930-comfyui_hyperflow_int8_nodes.md) ⚑ | 3 | 0 | 週次 | 10 | 2026-11-09 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
 
-### 3D・モーション（73）
+### 3D・モーション（74）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -524,6 +524,7 @@
 | [pixiv/three-vrm](entries/3d-motion/pixiv-three-vrm.md) ⚑ | 2,279 | 202 | 月次 | 3 | 2026-10-22 | 2026-11-09 | 2026-11-10 | MIT |
 | [UniRig](entries/3d-motion/vast-ai-research-unirig.md) | 2,081 | 206 | 停滞 | 0 | 2026-06-04 | 2026-11-09 | 2026-11-10 | MIT |
 | [three-gpu-pathtracer](entries/3d-motion/gkjohnson-three-gpu-pathtracer.md) ⚑ | 2,037 | 200 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | MIT |
+| [sand3d](entries/3d-motion/sandflow-ai-sand3d.md) ⚑ | 1,999 | 221 | 毎日 | 25 | 2026-11-14 | 2026-11-15 | 2026-11-15 | Apache-2.0 |
 | [dream-loop](entries/3d-motion/achimala-dream-loop.md) ⚑ | 1,914 | 193 | 月次 | 0 | 2026-09-09 | 2026-11-10 | 2026-11-10 | MIT |
 | [Inochi2D](entries/3d-motion/inochi2d-inochi2d.md) ⚑ | 1,863 | 76 | 月次 | 1 | 2026-11-10 | 2026-11-14 | 2026-11-14 | BSD-2-Clause |
 | [StableGen](entries/3d-motion/sakalond-stablegen.md) | 1,632 | 163 | 毎日 | 100+ | 2026-11-04 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
@@ -1581,6 +1582,7 @@
 - [Blender Skills（94 specialist Blender skills）](entries/3d-motion/arjun988-blender-skills.md) — unverified / 効果の定量評価・ベンチマークは無く、README の設計方針と投稿者のデモ動画だけが根拠。README は「Marketplace listing is currently under review by Anthropic」と記載しており、Claude Code プラグインマーケット未登録（GitHub から手動コピー）。30日コミットは1件で開発は低頻度（最終コミット 2026-11-06）。MCP 方式のため投稿が書く `blender -b -P script.py` の完全ヘッドレス実行とは前提が異なり、Blender を起動してアドオンから接続する必要がある。
 - [pixiv/three-vrm](entries/3d-motion/pixiv-three-vrm.md) — unverified / v3.6.0-beta.0のVRMC_springBone_limitはBeta拡張。MITはコードの条件で、各VRMの人物・衣装・モデルの権利は別。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [three-gpu-pathtracer](entries/3d-motion/gkjohnson-three-gpu-pathtracer.md) — unverified / ['GitHub の最新リリースは未確認。依存関係と導入手順は main ブランチの公開資料に基づく。', '描画速度、収束時間、画質、端末別の互換性、特定のAIモデルとの連携は実測していない。']
+- [sand3d](entries/3d-motion/sandflow-ai-sand3d.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [dream-loop](entries/3d-motion/achimala-dream-loop.md) — unverified / ['最新リリースは取得がタイムアウトしたため未確認。', '作者のREADMEではCodex上のGPT-6 Astraのみでテスト済み。Claude Opus 5.5での動作、比較ベンチマーク、デモの画質・FPS、実行費用は未検証。']
 - [Inochi2D](entries/3d-motion/inochi2d-inochi2d.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [React Three Rapier](entries/3d-motion/pmndrs-react-three-rapier.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。

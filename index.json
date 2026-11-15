@@ -1,5 +1,5 @@
 {
-  "count": 1123,
+  "count": 1124,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -995,6 +995,37 @@
       "fetched_at": "2026-11-10T09:55:26+00:00",
       "path": "entries/3d-motion/gkjohnson-three-gpu-pathtracer.md",
       "summary": "既存の Three.js シーンとカメラを使い、物理ベースの材質、面光源、被写界深度を含むシーンを描画できる。"
+    },
+    {
+      "name": "sand3d",
+      "genre": "3d-motion",
+      "url": "https://github.com/Sandflow-ai/sand3d",
+      "repo": "Sandflow-ai/sand3d",
+      "stars": 1999,
+      "forks": 221,
+      "open_issues": 14,
+      "size_kb": 7699,
+      "language": "HTML",
+      "created": "2026-11-03",
+      "updated": "2026-11-14",
+      "archived": false,
+      "license": "Apache-2.0",
+      "commits_30d": 25,
+      "commits_90d": 25,
+      "commit_cadence": "daily",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景・有効性・依存関係・実行条件。",
+      "type": "repo",
+      "added": "2026-11-15",
+      "first_seen": "2026-11-15",
+      "sources": [
+        "https://x.com/Ryrenz/status/2118917617545072970"
+      ],
+      "fetched_at": "2026-11-15T01:26:07.961695+00:00",
+      "path": "entries/3d-motion/sandflow-ai-sand3d.md",
+      "summary": "Pythonライブラリとして、Blenderのbpy上でプロファイル、立体、編集、フレーム、関節、アセンブリを記述できる。GLB、URDF、USD、IFC、OBJ、STLへ出力する。READMEでは、GLBはメッシュ・マテリアル・関節情報、URDFはリンク・関節と制限、USDAはOpenUSDのツリーとマテリアルを含む"
     },
     {
       "repo": "achimala/dream-loop",
