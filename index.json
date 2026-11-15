@@ -1,5 +1,5 @@
 {
-  "count": 1144,
+  "count": 1145,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -13001,6 +13001,37 @@
       "fetched_at": "2026-11-12T14:21:14.948119+00:00",
       "path": "entries/coding-agent/xingchen-agi-xing4.0-29b-a4b.md",
       "summary": "29B総パラメータ、トークンあたり4B活性のモデル。READMEは256Kのネイティブコンテキスト長と512Kへの拡張を記載している。マルチステップ計画やツール呼び出しを含むエージェント用途を想定し、README記載の評価結果にはSWE-bench Verified 75.0、Terminal-Bench 2.1 57"
+    },
+    {
+      "name": "Motion AI Kit",
+      "genre": "coding-agent",
+      "url": "https://github.com/motiondivision/ai-kit",
+      "repo": "motiondivision/ai-kit",
+      "license": "unknown",
+      "stars": 104,
+      "language": "JavaScript",
+      "created": "2026-07-27",
+      "updated": "2026-11-04",
+      "forks": 15,
+      "open_issues": 5,
+      "commits_30d": 10,
+      "commit_cadence": "weekly",
+      "commits_90d": 22,
+      "size_kb": 392,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "MotionScore監査、Motion+資料およびソースコードへのアクセスはMotion+会員向け。READMEは料金額を示していない。 GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-15",
+      "first_seen": "2026-11-15",
+      "sources": [
+        "https://x.com/codecloude/status/2121669053332775356"
+      ],
+      "fetched_at": "2026-11-15T06:18:08.562702+00:00",
+      "path": "entries/coding-agent/motiondivision-ai-kit.md",
+      "summary": "アニメーション作成のベストプラクティスを提供する。エージェントがMotionのドキュメントを検索でき、CSSのlinear() easingを使うspring animationを生成できる。Motion+では、アニメーションやコンポーネント、ページの静的コード・実行時解析によるMotionScore監査と、Motio"
     },
     {
       "name": "Klik Motion-Graphics System",
