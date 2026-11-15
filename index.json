@@ -1,5 +1,5 @@
 {
-  "count": 1169,
+  "count": 1170,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -11078,6 +11078,37 @@
       "fetched_at": "2026-11-10T23:16:52.547704+00:00",
       "path": "entries/coding-agent/shadcn-improve.md",
       "summary": "READMEでは、コードベースを監査して優先順位付きの指摘と実装計画を作成するAgent Skillとして説明されている。監査カテゴリには正確性、セキュリティ、性能、テスト網羅性、技術的負債、依存関係・移行、開発者体験、ドキュメント、方向性が含まれる。計画のレビュー、安価な実行エージェントへの委任、計画バックログの整理"
+    },
+    {
+      "name": "Copilot for Obsidian",
+      "genre": "coding-agent",
+      "url": "https://github.com/logancyang/obsidian-copilot",
+      "repo": "logancyang/obsidian-copilot",
+      "license": "AGPL-3.0",
+      "stars": 7992,
+      "language": "TypeScript",
+      "created": "2023-03-31",
+      "updated": "2026-11-14",
+      "forks": 773,
+      "open_issues": 144,
+      "commits_30d": 100,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 184616,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "利用可能なモデルやサービス上限は変わるため、現在のプランや利用条件はREADME記載の料金ページまたはアプリ内表示で確認が必要。",
+      "type": "repo",
+      "added": "2026-11-15",
+      "first_seen": "2026-11-15",
+      "sources": [
+        "https://x.com/stewy0x/status/2121929768996110590"
+      ],
+      "fetched_at": "2026-11-15T14:18:38.205018+00:00",
+      "path": "entries/coding-agent/logancyang-obsidian-copilot.md",
+      "summary": "READMEによると、Copilot V4はOpenCode、Claude Code、CodexをObsidianに接続し、ノートの調査、執筆、ナレッジ作業に使えるエージェント機能を提供する。エージェントはノートを参照し、ツールを使い、Obsidianファイルを作成できる。Quick Chat、Quick Ask、Pr"
     },
     {
       "repo": "tamaratran/fast-jev-compaction",
