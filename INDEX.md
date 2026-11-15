@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1133 件 — リポジトリ 766, リンク集 119, 記事 181, モデル 53, プロンプト 14 / ⚑ 要確認 903 件
+収録 1134 件 — リポジトリ 767, リンク集 119, 記事 181, モデル 53, プロンプト 14 / ⚑ 要確認 904 件
 
-## リポジトリ（766）
+## リポジトリ（767）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -498,7 +498,7 @@
 | [utillayer/youtube-agent-skill](entries/video-gen/utillayer-youtube-agent-skill.md) ⚑ | 14 | 2 | 週次 | 16 | 2026-10-29 | 2026-11-09 | 2026-11-10 | MIT |
 | [BennyDaBall930/comfyui_hyperflow_int8_nodes](entries/video-gen/bennydaball930-comfyui_hyperflow_int8_nodes.md) ⚑ | 3 | 0 | 週次 | 10 | 2026-11-09 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
 
-### 3D・モーション（74）
+### 3D・モーション（75）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -507,6 +507,7 @@
 | [MCP for Blender](entries/3d-motion/ahujasid-mcp-for-blender.md) | 33,776 | 3,073 | 毎日 | 22 | 2026-11-04 | 2026-11-09 | 2026-11-10 | MIT |
 | [@react-three/fiber](entries/3d-motion/pmndrs-react-three-fiber.md) ⚑ | 33,655 | 2,098 | 月次 | 2 | 2026-10-21 | 2026-11-11 | 2026-11-11 | MIT |
 | [GSAP](entries/3d-motion/greensock-gsap.md) ⚑ | 30,400 | 2,367 | 月次 | 1 | 2026-11-04 | 2026-11-10 | 2026-11-10 | unknown |
+| [Babylon.js](entries/3d-motion/babylonjs-babylon.js.md) ⚑ | 26,359 | 3,730 | 毎日 | 100+ | 2026-11-14 | 2026-11-15 | 2026-11-15 | Apache-2.0 |
 | [Anatomy](entries/3d-motion/wheresryan22-anatomy.md) | 26,237 | 2,201 | 毎日 | 100+ | 2026-10-18 | 2026-11-09 | 2026-11-10 | MIT |
 | [text-to-cad](entries/3d-motion/earthtojake-text-to-cad.md) ⚑ | 25,908 | 2,464 | 毎日 | 45 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
 | [Blender](entries/3d-motion/blender-blender.md) ⚑ | 21,829 | 3,550 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | unknown |
@@ -1571,6 +1572,7 @@
 - [Motion](entries/3d-motion/motiondivision-motion.md) — unverified / 最新リリースの版と公開日時、ブラウザー上の描画性能、エージェントへのSkill導入とMCP接続の実動作は未確認。コミット件数の100は各期間で100件以上を表す。
 - [@react-three/fiber](entries/3d-motion/pmndrs-react-three-fiber.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [GSAP](entries/3d-motion/greensock-gsap.md) — unverified / GitHub APIでライセンスを確認できていません。
+- [Babylon.js](entries/3d-motion/babylonjs-babylon.js.md) — unverified / READMEのCDNは学習や小規模な実験向けで、本番環境では使用しないよう記載されている。READMEは実機での動作や対応環境の詳細を独立検証していない。
 - [text-to-cad](entries/3d-motion/earthtojake-text-to-cad.md) — unverified / 有効性は配布元の設計説明と自己申告のみで、生成された CAD の寸法精度・製造可能性を第三者が測定した結果は確認していない。DFM/DfAM の検査は mesh 計測と規則の引用だが、規則の妥当性・合否閾値は未検証。PyPI の分類は Development Status :: 4 - Beta。Python 3.14 固定で 3.13 以前では動かない。Windows 11 の Smart App Control 有効環境では OCP のネイティブモジュールが遮断される。既定でテレメトリ有効。リポジトリサイズは API 表記 436,278 KB。
 - [Blender](entries/3d-motion/blender-blender.md) — unverified / GitHubミラーの最新リリース、発見投稿のClaudeによる全工程自動化、外部MCPとの接続、総費用、制作結果は未確認。レンダリング速度や画質の独立実測は行っていない。 GitHub APIでライセンスを確認できていません。
 - [Hunyuan3D-2](entries/3d-motion/tencent-hunyuan-hunyuan3d-2.md) — unverified / GitHub APIでライセンスを確認できていません。
