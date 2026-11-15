@@ -1,5 +1,5 @@
 {
-  "count": 1177,
+  "count": 1178,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -25047,6 +25047,37 @@
       "fetched_at": "2026-11-11T08:23:25.156827+00:00",
       "path": "entries/other/anthropics-flashprove.md",
       "summary": "モデルの重みを公開せず、応答が特定の重みに対応するモデルの出力であることを証明する。READMEによると、プロバイダーが重みに結び付いた commitment ID を公開し、GPUで応答ごとの証明を生成する。第三者は重みなしで、通常のCPUから cp_verify で検証できる。READMEにある保存済み例は合成重み"
+    },
+    {
+      "name": "Whisper Flow",
+      "genre": "other",
+      "url": "https://github.com/dimastatz/whisper-flow",
+      "repo": "dimastatz/whisper-flow",
+      "license": "MIT",
+      "stars": 1011,
+      "language": "Python",
+      "created": "2024-06-03",
+      "updated": "2026-11-15",
+      "forks": 139,
+      "open_issues": 1,
+      "commits_30d": 18,
+      "commit_cadence": "weekly",
+      "commits_90d": 47,
+      "size_kb": 75994,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "The README reports benchmark results of latency below 500 ms and a word error rate around 7% on an M1 MacBook Air with 16 GB RAM; these are author-reported results, not independent measurements. The attached README ends during the development setup instructions, so later setup details are unavailable.",
+      "type": "repo",
+      "added": "2026-11-15",
+      "first_seen": "2026-11-15",
+      "sources": [
+        "https://x.com/ruyi3699/status/2118990841880465621"
+      ],
+      "fetched_at": "2026-11-15T17:09:38.773933+00:00",
+      "path": "entries/other/dimastatz-whisper-flow.md",
+      "summary": "ストリーミング音声をリアルタイムに文字起こしするサービス。音声を16 kHz、モノラル、int16 PCMのバイナリフレームとして/wsへ送り、JSON形式の部分結果・確定結果を受け取ります。READMEは、ストリーミングは処理速度が上がる一方、精度が低下する場合があると説明しています。"
     },
     {
       "repo": "georgmartius/vid.stab",
