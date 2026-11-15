@@ -1,5 +1,5 @@
 {
-  "count": 1175,
+  "count": 1176,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -33440,6 +33440,37 @@
       "fetched_at": "2026-11-10T10:56:31+00:00",
       "path": "entries/video-gen/andyhuo520-vibe-knowledge.md",
       "summary": "題材の調査、出典表と台本の作成、ナレーション、コードによる1080p60の逐次フレーム描画、品質チェック、公開用素材の準備を対話で進める。READMEはOCRによる照合、音量、フレームの静止、BGMの検査を記載している。"
+    },
+    {
+      "name": "ComfyUI MiniMax H3 首尾帧视频工作流",
+      "genre": "video-gen",
+      "url": "https://github.com/pixelaigc/ComfyUI-MiniMax-H3-Workflow",
+      "repo": "pixelaigc/ComfyUI-MiniMax-H3-Workflow",
+      "license": "unknown",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEではワークフローのライセンスは作者が別途指定するとされていますが、この資料内にライセンス名はありません。 GitHub APIでライセンスを確認できていません。",
+      "stars": 469,
+      "forks": 78,
+      "open_issues": 0,
+      "size_kb": 1724,
+      "language": "unknown",
+      "created": "2026-09-09",
+      "updated": "2026-09-10",
+      "archived": false,
+      "commits_30d": 0,
+      "commits_90d": 2,
+      "commit_cadence": "stale",
+      "type": "repo",
+      "added": "2026-11-15",
+      "first_seen": "2026-11-15",
+      "sources": [
+        "https://x.com/LuisAngelSG8LA8/status/2119031897376583922"
+      ],
+      "fetched_at": "2026-11-15T16:07:47.112339+00:00",
+      "path": "entries/video-gen/pixelaigc-comfyui-minimax-h3-workflow.md",
+      "summary": "ComfyUI上でMiniMax H3を使い、首尾フレーム画像とプロンプトから動画を生成するワークフローです。首フレームのみの画像動画生成、画像を使わないテキスト動画生成にも切り替えられます。動画と音声を別々にデコードして合成し、SaveVideoで保存します。READMEの説明はワークフローJSONとノードソースに基"
     },
     {
       "name": "Product Launch Motion",

@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1175 件 — リポジトリ 803, リンク集 119, 記事 186, モデル 53, プロンプト 14 / ⚑ 要確認 942 件
+収録 1176 件 — リポジトリ 804, リンク集 119, 記事 186, モデル 53, プロンプト 14 / ⚑ 要確認 943 件
 
-## リポジトリ（803）
+## リポジトリ（804）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -416,7 +416,7 @@
 | [AI SDK](entries/agent-framework/anil-matcha-ai.md) ⚑ | 18 | 4 | 停滞 | 0 | 2026-08-06 | 2026-11-13 | 2026-11-13 | unknown |
 | [web-api-skills](entries/agent-framework/oxylabs-web-api-skills.md) | 13 | 1 | 週次 | 11 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
 
-### 動画生成パイプライン（104）
+### 動画生成パイプライン（105）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -494,6 +494,7 @@
 | [claude-video-effects](entries/video-gen/vibha-ramprakash-claude-video-effects.md) ⚑ | 839 | 202 | 週次 | 9 | 2026-11-09 | 2026-11-10 | 2026-11-10 | unknown |
 | [赛博小雅直播版（Cyber Xiaoya Live）](entries/video-gen/cyber-xiaoya-cyber-xiaoya-live.md) | 815 | 350 | 週次 | 18 | 2026-11-09 | 2026-11-09 | 2026-11-10 | AGPL-3.0（コードのみ。素材・ブランドは NOTICE で別扱い） |
 | [vibe-knowledge](entries/video-gen/andyhuo520-vibe-knowledge.md) ⚑ | 613 | 92 | 月次 | 3 | 2026-10-28 | 2026-11-10 | 2026-11-10 | MIT |
+| [ComfyUI MiniMax H3 首尾帧视频工作流](entries/video-gen/pixelaigc-comfyui-minimax-h3-workflow.md) ⚑ | 469 | 78 | 停滞 | 0 | 2026-09-10 | 2026-11-15 | 2026-11-15 | unknown |
 | [Product Launch Motion](entries/video-gen/abubakrchan-product-launch-motion.md) ⚑ | 452 | 59 | 毎日 | 33 | 2026-10-21 | 2026-11-12 | 2026-11-12 | MIT |
 | [comfyui-SelfLift](entries/video-gen/facok-comfyui-selflift.md) ⚑ | 418 | 26 | 月次 | 0 | 2026-09-18 | 2026-11-12 | 2026-11-12 | unknown |
 | [Tesseract](entries/video-gen/mirage-hq-tesseract.md) ⚑ | 367 | 27 | 週次 | 12 | 2026-11-13 | 2026-11-14 | 2026-11-14 | unknown |
@@ -2495,6 +2496,7 @@
 - [Story Studio（故事工坊）](entries/video-gen/konlu-story-studio.md) — unverified / 公開文書を確認。依存関係の自動セットアップ、文字起こしと分鏡の整合精度、剪映のバージョン別互換性、最新リリースは未検証。README はコードと Skill 仕様に MIT を明記する一方、GitHub API の計測値は unknown。収録台本・参考画像の個別の再利用条件は未確認。 GitHub APIでライセンスを確認できていません。
 - [claude-video-effects](entries/video-gen/vibha-ramprakash-claude-video-effects.md) — unverified / 公式 README は公開 raw URL で確認。最新リリース、顔追従・遮蔽処理・発話位置の精度、初回セットアップの所要時間、Codex 互換性は未確認。ライセンス欄は親の GitHub API 実測値 unknown を保持。MIT と同梱素材の個別ライセンスは README の記載に基づき、各ライセンス本文は未照合。 GitHub APIでライセンスを確認できていません。
 - [vibe-knowledge](entries/video-gen/andyhuo520-vibe-knowledge.md) — unverified / READMEと公開リリースの記載を確認。コードの実行、サンプルの視聴、出典の正確性、画質、処理時間、質検の検出精度、OS別の動作、外部サービスの現行料金は未検証。公開リリースの一覧で最新版タグを確認し、正確な公開日時は未確認。
+- [ComfyUI MiniMax H3 首尾帧视频工作流](entries/video-gen/pixelaigc-comfyui-minimax-h3-workflow.md) — unverified / READMEではワークフローのライセンスは作者が別途指定するとされていますが、この資料内にライセンス名はありません。 GitHub APIでライセンスを確認できていません。
 - [Product Launch Motion](entries/video-gen/abubakrchan-product-launch-motion.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [comfyui-SelfLift](entries/video-gen/facok-comfyui-selflift.md) — unverified / H3の画質に関する記述はREADME記載の単一シードでの結果で、独立した検証ではありません。H3向け機能は実験的とされています。 GitHub APIでライセンスを確認できていません。
 - [Tesseract](entries/video-gen/mirage-hq-tesseract.md) — unverified / READMEにライセンスの説明がなく、API/MCPや製品の利用条件はリンク先未確認。 GitHub APIでライセンスを確認できていません。
