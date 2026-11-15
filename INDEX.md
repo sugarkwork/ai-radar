@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1112 件 — リポジトリ 750, リンク集 119, 記事 176, モデル 53, プロンプト 14 / ⚑ 要確認 884 件
+収録 1113 件 — リポジトリ 751, リンク集 119, 記事 176, モデル 53, プロンプト 14 / ⚑ 要確認 885 件
 
-## リポジトリ（750）
+## リポジトリ（751）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -151,7 +151,7 @@
 | [Pay Small Check](entries/other/ahmardchain-pay-small-check.md) ⚑ | 1 | 0 | 毎日 | 32 | 2026-11-07 | 2026-11-14 | 2026-11-14 | MIT |
 | [LapDraw](entries/other/sachinyadavaug20-lapdraw.md) ⚑ | 0 | 0 | 毎日 | 22 | 2026-11-07 | 2026-11-13 | 2026-11-13 | MIT |
 
-### コーディングエージェント（112）
+### コーディングエージェント（113）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -219,6 +219,7 @@
 | [Awesome Short Drama Skills](entries/coding-agent/underleveledbuilder-awesome-short-drama-skills.md) ⚑ | 2,284 | 275 | 毎日 | 80 | 2026-11-13 | 2026-11-13 | 2026-11-14 | CC0-1.0 |
 | [MotionSites Web Builder](entries/coding-agent/motionsites-ai-claude-skill.md) ⚑ | 1,935 | 198 | 月次 | 2 | 2026-10-26 | 2026-11-10 | 2026-11-10 | unknown |
 | [zlib](entries/coding-agent/heartleo-zlib.md) ⚑ | 1,860 | 135 | 毎日 | 100+ | 2026-11-13 | 2026-11-13 | 2026-11-14 | MIT |
+| [BAMA: Build Any Mac App](entries/coding-agent/daveebbelaar-bama.md) ⚑ | 1,819 | 223 | 毎日 | 27 | 2026-11-05 | 2026-11-15 | 2026-11-15 | MIT |
 | [reanimate](entries/coding-agent/niazmorshed2007-reanimate.md) ⚑ | 1,557 | 136 | 毎日 | 20 | 2026-10-31 | 2026-11-11 | 2026-11-11 | MIT |
 | [PHP Version Checker](entries/coding-agent/openai-php2shell-checker.md) ⚑ | 1,468 | 147 | 週次 | 8 | 2026-10-22 | 2026-11-10 | 2026-11-10 | Apache-2.0 |
 | [EvoSkill](entries/coding-agent/sentient-agi-evoskill.md) ⚑ | 1,298 | 134 | 停滞 | 0 | 2026-10-26 | 2026-11-12 | 2026-11-12 | Apache-2.0 |
@@ -1862,6 +1863,7 @@
 - [Awesome Short Drama Skills](entries/coding-agent/underleveledbuilder-awesome-short-drama-skills.md) — unverified / 掲載スキルの効果はREADME記載の評価範囲に限られる。評価はclaude-opus-5-5のみで、各ラウンドに題材や評価者間の不一致などの制約がある。スキルによってはスクリプトを含む場合があるため、導入前にSKILL.mdを確認するようREADMEが案内している。
 - [MotionSites Web Builder](entries/coding-agent/motionsites-ai-claude-skill.md) — unverified / ['作者のREADMEで手順を確認した。導入、スクリーンショットによる修正ループ、生成品質、外部配信素材の到達性は実測していない。', 'GitHubの公開ページで最新タグを確認した。公開日時の年とタイムゾーンは取得できなかった。'] GitHub APIでライセンスを確認できていません。
 - [zlib](entries/coding-agent/heartleo-zlib.md) — unverified / 利用にはZ-Libraryアカウントが必要とREADMEに記載されています。利用可能なドメインやダウンロード条件の詳細はREADME本文では確認できません。
+- [BAMA: Build Any Mac App](entries/coding-agent/daveebbelaar-bama.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [reanimate](entries/coding-agent/niazmorshed2007-reanimate.md) — unverified / Windows is untested. The README says the skill has only been tested with Claude Code, though other agents that read SKILL.md can install it.
 - [PHP Version Checker](entries/coding-agent/openai-php2shell-checker.md) — unverified / READMEとスキル文書を確認した。コードは実行しておらず、実環境での判定結果、Node.jsの最低対応バージョン、各ベンダーの修正情報との照合は未検証。公開Releasesページにはリリースの掲載がなく、最新リリースAPIは未確認。
 - [EvoSkill](entries/coding-agent/sentient-agi-evoskill.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
