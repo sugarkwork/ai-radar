@@ -1,5 +1,5 @@
 {
-  "count": 1109,
+  "count": 1110,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -10457,6 +10457,37 @@
       "fetched_at": "2026-11-10T12:15:35+00:00",
       "path": "entries/coding-agent/ibelick-ui-skills.md",
       "summary": "create-canvasは、既存コンポーネントを使った操作可能な画面案を、プロジェクト内のキャンバスに並べるための実装指示を提供する。別案を頼まれた場合は元の案を残し、別案に新しいID、固有の名前、独立した状態を持たせるよう定めている。"
+    },
+    {
+      "name": "Dashi PPT Skill",
+      "genre": "coding-agent",
+      "url": "https://github.com/chuspeeism/dashi-ppt-skill",
+      "repo": "chuspeeism/dashi-ppt-skill",
+      "license": "AGPL-3.0",
+      "stars": 10694,
+      "language": "JavaScript",
+      "created": "2026-06-10",
+      "updated": "2026-11-06",
+      "forks": 910,
+      "open_issues": 16,
+      "commits_30d": 2,
+      "commit_cadence": "monthly",
+      "commits_90d": 5,
+      "size_kb": 101827,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEの説明に基づく機能・プラットフォーム情報で、独立した動作確認ではありません。導出PPTXエンジンは専有コンポーネントと説明されています。",
+      "type": "repo",
+      "added": "2026-11-15",
+      "first_seen": "2026-11-15",
+      "sources": [
+        "https://x.com/ruyi3699/status/2118908549656969652"
+      ],
+      "fetched_at": "2026-11-15T00:13:21.647614+00:00",
+      "path": "entries/coding-agent/chuspeeism-dashi-ppt-skill.md",
+      "summary": "READMEによると、AIエージェントでプレゼン資料を生成し、ブラウザー上でテキスト、画像、レイアウト、配色などを編集できます。HTMLオフラインパッケージ、PDF、編集可能なPPTXへの出力に対応すると説明されています。出典: https://github.com/chuspeeism/dashi-ppt-skill"
     },
     {
       "name": "improve",
