@@ -1,5 +1,5 @@
 {
-  "count": 1143,
+  "count": 1144,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -7683,6 +7683,24 @@
       ],
       "fetched_at": "2026-11-15T01:22:23.059351+00:00",
       "path": "articles/2026-11-13-author-advancing-science-engineering-with-antigravity-s-teamwork.md"
+    },
+    {
+      "name": "After courting Trump, corporate America faces a Democratic reckoning",
+      "genre": "article",
+      "url": "https://www.washingtonpost.com/technology/2026/11/06/after-courting-trump-corporate-america-faces-democratic-reckoning/",
+      "published": "2026-11-06",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "調査計画や関係者の見通しは、匿名の情報源を含む取材に基づく記事中の報道であり、独立に確認された事実や実施済みの調査として扱わないこと。",
+      "type": "article",
+      "added": "2026-11-15",
+      "first_seen": "2026-11-15",
+      "sources": [
+        "https://x.com/NFT_Chen/status/2118945879101231472"
+      ],
+      "fetched_at": "2026-11-15T05:32:52.369861+00:00",
+      "path": "articles/2026-11-06-author-after-courting-trump-corporate-america-faces-a-democratic-reckoning.md"
     },
     {
       "name": "Almost no one uses AI agents to book their Uber, company says",
