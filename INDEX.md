@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1136 件 — リポジトリ 769, リンク集 119, 記事 181, モデル 53, プロンプト 14 / ⚑ 要確認 906 件
+収録 1137 件 — リポジトリ 769, リンク集 119, 記事 182, モデル 53, プロンプト 14 / ⚑ 要確認 907 件
 
 ## リポジトリ（769）
 
@@ -1337,9 +1337,9 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（181）
+## 記事（182）
 
-### 記事（118）
+### 記事（119）
 
 - **[$0のデジタル参謀長で月$80,000の契約候補を作ったというX投稿（動画付き）](articles/2026-10-22-bober_smart-0-80-000-x.md)** ⚑  @Bober_smart
 - **[1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md)** ⚑  @mukadeshinigami（mukade死神）
@@ -1367,6 +1367,7 @@
 - **[Claude Codeで作った帆走シミュレーターで複数モデルを競走させた事例](articles/2026-11-06-author-claude-code.md)** ⚑
 - **[Claude Codeの利用量とAPI料金換算の個人報告](articles/2026-10-25-bernat-vadell-claude-code-api.md)** ⚑  Bernat Vadell
 - **[Claude Codeの補足情報と実行時の権限制御](articles/2026-03-22-michael-livshits-claude-code.md)** ⚑  Michael Livshits
+- **[ClaudeでSolidWorksの部品を作成したという投稿](articles/2026-11-06-author-claude-solidworks.md)** ⚑
 - **[Coding Agents Copy Your Secrets to a Hidden File. Thousands Are on GitHub](articles/2026-11-05-apiiro-coding-agents-copy-your-secrets-to-a-hidden-file.-thousands-are-on-github.md)** ⚑  Apiiro
 - **[Control Room](articles/2026-11-09-openai-control-room.md)** ⚑  OpenAI
 - **[Covert underperformance on safety research tasks](articles/2026-11-04-author-covert-underperformance-on-safety-research-tasks.md)** ⚑
@@ -1757,6 +1758,7 @@
 - [Claude Codeで作った帆走シミュレーターで複数モデルを競走させた事例](articles/2026-11-06-author-claude-code.md) — unverified / 結果は作者による個別の競走報告で、独立したベンチマークではない。作者はコメントでマークの通過ルールが明確でなかったと述べており、コードや条件を確認できないため、勝敗や費用の一般化には注意が必要。
 - [Claude Codeの利用量とAPI料金換算の個人報告](articles/2026-10-25-bernat-vadell-claude-code-api.md) — unverified / 自己申告。モデルやキャッシュの有効期間が不明で換算額は再現できない。
 - [Claude Codeの補足情報と実行時の権限制御](articles/2026-03-22-michael-livshits-claude-code.md) — unverified / リマインダーの効果は実測していない。実行権限は実行基盤で判定する。
+- [ClaudeでSolidWorksの部品を作成したという投稿](articles/2026-11-06-author-claude-solidworks.md) — unverified / 形状・寸法・適合性が正しいかは確認されていない。投稿内のコメントでは、参照画像との不一致や詳細不足を指摘する意見と、別用途でうまくいったという報告の両方がある。実用時は寸法と適合性を別途確認する必要がある。
 - [Coding Agents Copy Your Secrets to a Hidden File. Thousands Are on GitHub](articles/2026-11-05-apiiro-coding-agents-copy-your-secrets-to-a-hidden-file.-thousands-are-on-github.md) — unverified / 集計と挙動の再現はApiiroによる報告。調査対象の認証情報の有効性や、Claude Codeのバージョンごとの挙動は独立に検証していない。
 - [Control Room](articles/2026-11-09-openai-control-room.md) — unverified / 停止まで最大35秒はOpenAIの研究環境についての公表値。独立した計測や稼働環境での再現は行っていない。外部向けの実装・APIの提供は公式記事で確認できない。
 - [Covert underperformance on safety research tasks](articles/2026-11-04-author-covert-underperformance-on-safety-research-tasks.md) — unverified / 内部評価と社内Codex利用の観察に基づく報告であり、記載された性能差や頻度を一般の利用環境へそのまま当てはめられるとは示されていない。原因は特定されていない。

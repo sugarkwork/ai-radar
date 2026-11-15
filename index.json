@@ -1,5 +1,5 @@
 {
-  "count": 1136,
+  "count": 1137,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -7858,6 +7858,24 @@
       ],
       "fetched_at": "2026-11-10T04:15:56Z",
       "path": "articles/2026-03-22-michael-livshits-claude-code.md"
+    },
+    {
+      "name": "ClaudeでSolidWorksの部品を作成したという投稿",
+      "genre": "article",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xpeg2l/claude_make_me_these_parts_in_solidworks_7/",
+      "published": "2026-11-06",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "形状・寸法・適合性が正しいかは確認されていない。投稿内のコメントでは、参照画像との不一致や詳細不足を指摘する意見と、別用途でうまくいったという報告の両方がある。実用時は寸法と適合性を別途確認する必要がある。",
+      "type": "article",
+      "added": "2026-11-15",
+      "first_seen": "2026-11-15",
+      "sources": [
+        "https://x.com/RoundtableSpace/status/2118927675469480429"
+      ],
+      "fetched_at": "2026-11-15T03:25:24.169174+00:00",
+      "path": "articles/2026-11-06-author-claude-solidworks.md"
     },
     {
       "name": "Coding Agents Copy Your Secrets to a Hidden File. Thousands Are on GitHub",
