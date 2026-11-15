@@ -1,5 +1,5 @@
 {
-  "count": 1118,
+  "count": 1119,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -8599,6 +8599,22 @@
       ],
       "fetched_at": "2026-11-13T11:15:04.196952+00:00",
       "path": "articles/2026-11-05-author-nemotron-3.5-bolt-e4b-on-jetson-orin-nano-super-at-27.7-tok-s.md"
+    },
+    {
+      "name": "OpenAI、独立ロボティクスチームを再編",
+      "genre": "article",
+      "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/",
+      "published": "2026-11-13",
+      "flags": [],
+      "type": "article",
+      "added": "2026-11-15",
+      "first_seen": "2026-11-15",
+      "risk_notes": "",
+      "sources": [
+        "https://x.com/routeriverwest/status/2121748137496949104"
+      ],
+      "fetched_at": "2026-11-15T01:21:59.620333+00:00",
+      "path": "articles/2026-11-13-author-openai.md"
     },
     {
       "name": "OpenUIで表データの取得をUI生成と分ける",
