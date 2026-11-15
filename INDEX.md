@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1171 件 — リポジトリ 800, リンク集 119, 記事 185, モデル 53, プロンプト 14 / ⚑ 要確認 939 件
+収録 1172 件 — リポジトリ 801, リンク集 119, 記事 185, モデル 53, プロンプト 14 / ⚑ 要確認 940 件
 
-## リポジトリ（800）
+## リポジトリ（801）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（155）
+### その他（156）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Kando](entries/other/kando-menu-kando.md) ⚑ | 6,646 | 242 | 毎日 | 60 | 2026-11-12 | 2026-11-14 | 2026-11-14 | unknown |
 | [Pedalboard](entries/other/spotify-pedalboard.md) ⚑ | 6,475 | 376 | 週次 | 11 | 2026-11-09 | 2026-11-11 | 2026-11-11 | GPL-3.0 |
 | [Telegram Media Downloader](entries/other/neet-nestor-telegram-media-downloader.md) ⚑ | 6,450 | 637 | 週次 | 19 | 2026-10-19 | 2026-11-13 | 2026-11-13 | GPL-3.0 |
+| [Rapier](entries/other/dimforge-rapier.md) ⚑ | 6,074 | 439 | 月次 | 0 | 2026-11-01 | 2026-11-15 | 2026-11-15 | Apache-2.0 |
 | [微信视频号下载工具](entries/other/qiye45-wechatvideodownload.md) ⚑ | 6,054 | 578 | 月次 | 0 | 2026-10-05 | 2026-11-13 | 2026-11-13 | unknown |
 | [Sandstorm（アイドル状態のエージェントsandboxをスナップショットして1台に数千個載せる）](entries/other/deeplethe-sandstorm.md) | 5,955 | 490 | 毎日 | 100+ | 2026-11-01 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
 | [Auto-Editor](entries/other/wyattblue-auto-editor.md) ⚑ | 5,824 | 725 | 毎日 | 100+ | 2026-11-08 | 2026-11-09 | 2026-11-10 | Unlicense |
@@ -2254,6 +2255,7 @@
 - [Kando](entries/other/kando-menu-kando.md) — unverified / API上のlicenseはunknown。READMEは無料と説明していますが、ライセンス条件はREADMEの記載だけでは確認できません。 GitHub APIでライセンスを確認できていません。
 - [Pedalboard](entries/other/spotify-pedalboard.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Telegram Media Downloader](entries/other/neet-nestor-telegram-media-downloader.md) — unverified / ダウンロード制限のあるコンテンツへの適用可否や利用条件は、Telegram側の権限・規約との関係をREADMEだけでは確認できない。
+- [Rapier](entries/other/dimforge-rapier.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [微信视频号下载工具](entries/other/qiye45-wechatvideodownload.md) — unverified / READMEには学習・研究目的に限定し、商用または違法な用途を禁止する旨の免責事項がある。利用時の法的責任や対象サービスの利用条件はREADMEでは確認できない。 GitHub APIでライセンスを確認できていません。
 - [Auto-Editor](entries/other/wyattblue-auto-editor.md) — unverified / commits_30d/90d は GitHub API の per_page=100 上限に達しており、実数は100件超（30日窓で返った最古のコミットが 2026-10-19）。効果の測定は合成素材1本（10秒・320x240）で行ったもので、実収録でのカット精度や話し言葉の語尾保持は独立検証していない。PyPI 版は 29.3.1（2025-11-04）で更新が止まっており pip 導入は非推奨。24時間超の素材、字幕・データストリームのみの入力は非対応。
 - [软件屏蔽器（Malware-Patch）](entries/other/the1812-malware-patch.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
