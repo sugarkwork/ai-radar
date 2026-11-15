@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1153 件 — リポジトリ 783, リンク集 119, 記事 184, モデル 53, プロンプト 14 / ⚑ 要確認 923 件
+収録 1154 件 — リポジトリ 784, リンク集 119, 記事 184, モデル 53, プロンプト 14 / ⚑ 要確認 924 件
 
-## リポジトリ（783）
+## リポジトリ（784）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（151）
+### その他（152）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -22,6 +22,7 @@
 | [OpenCut](entries/other/opencut-app-opencut.md) ⚑ | 98,341 | 9,823 | 停滞 | 0 | 2026-09-24 | 2026-11-14 | 2026-11-14 | MIT |
 | [career-ops](entries/other/career-ops-hq-career-ops.md) | 81,473 | 14,978 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
 | [OBS Studio](entries/other/obsproject-obs-studio.md) ⚑ | 79,247 | 11,149 | 毎日 | 41 | 2026-11-10 | 2026-11-10 | 2026-11-10 | GPL-2.0 |
+| [OpenAI Cookbook](entries/other/openai-openai-cookbook.md) ⚑ | 77,132 | 13,068 | 週次 | 19 | 2026-11-14 | 2026-11-15 | 2026-11-15 | MIT |
 | [高性价比人生指南](entries/other/eternity4719-howtolivebetter.md) ⚑ | 75,551 | 6,695 | 毎日 | 89 | 2026-11-12 | 2026-11-13 | 2026-11-13 | CC-BY-4.0 |
 | [MediaCrawler](entries/other/nanmicoder-mediacrawler.md) ⚑ | 70,741 | 13,389 | 毎日 | 21 | 2026-11-09 | 2026-11-09 | 2026-11-10 | 未確認（API は NOASSERTION、標準ライセンスファイル無し） |
 | [FFmpeg](entries/other/ffmpeg-ffmpeg.md) ⚑ | 66,858 | 14,558 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | unknown |
@@ -2167,6 +2168,7 @@
 - [Build a Large Language Model (From Scratch)](entries/other/rasbt-llms-from-scratch.md) — unverified / ライセンスはAPI上でunknown。利用・再配布の許諾条件は確認できていない。 GitHub APIでライセンスを確認できていません。
 - [OpenCut](entries/other/opencut-app-opencut.md) — unverified / このリポジトリの改修版が利用可能になる時期や、記載された開発手順が現在も動作するかはREADMEから確認できません。
 - [OBS Studio](entries/other/obsproject-obs-studio.md) — unverified / 最新リリースの年とタイムゾーンを含む公開日時は未確認。収録品質・負荷、エージェント経由の接続と録画、発見投稿で言及されたOpus 5.5との連携は未検証。90日コミット数は100件以上を表す。
+- [OpenAI Cookbook](entries/other/openai-openai-cookbook.md) — unverified / 一次資料で未確認: 技術背景・有効性・実行条件。
 - [高性价比人生指南](entries/other/eternity4719-howtolivebetter.md) — unverified / 内容可能过时或有误，政策执行因地区而异。实际办事、就医或诉讼时，以当地部门、医生或律师的意见为准。
 - [MediaCrawler](entries/other/nanmicoder-mediacrawler.md) — unverified / 各プラットフォームの利用規約と著作権に抵触しうる。収集した投稿・動画の再配布は権利者の許諾が必要。規約違反・アカウント停止のリスクは利用者側。
 - [FFmpeg](entries/other/ffmpeg-ffmpeg.md) — unverified / GitHubの最新リリース情報、個別ビルドで利用できるコーデック、処理速度・出力品質、AIエージェントからの実行は未検証。READMEはGitHubの公開rawファイルで確認した。 GitHub APIでライセンスを確認できていません。
