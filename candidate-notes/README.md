@@ -41,6 +41,8 @@
   - 公開に必須の根拠がそろっていません。
 - [X: tokufxug の投稿](https://x.com/tokufxug/status/2118891012273885579)
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+- [X: the_mdfazal の投稿](https://x.com/the_mdfazal/status/2119024739599745065)
+  - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://x.com/the_mdfazal/status/2119024739599745065>。
 - [X: taki_auto の投稿](https://x.com/taki_auto/status/2121536157590913056)
   - 公開に必須の根拠がそろっていません。
 - [X: superfang119 の投稿](https://x.com/superfang119/status/2118897891167359384)
@@ -59,6 +61,8 @@
 - [X: ranbpa0 の投稿](https://x.com/ranbpa0/status/2118860498624266398)
   - 対象を裏付ける公開一次資料を確認できませんでした。
   - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://x.com/ranbpa0/status/2118860498624266398>。
+- [X: okapi_fukugyo の投稿](https://x.com/okapi_fukugyo/status/2121725407867351215)
+  - 候補の対象が複数あり、一意に特定できませんでした。
 - [X: okapi_fukugyo の投稿](https://x.com/okapi_fukugyo/status/2118893124194082977)
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
   - 対象を裏付ける公開一次資料を確認できませんでした。
@@ -66,8 +70,13 @@
 - [X: okapi_fukugyo の投稿](https://x.com/okapi_fukugyo/status/2118857106518602083)
   - 対象を裏付ける公開一次資料を確認できませんでした。
   - 公開に必須の根拠がそろっていません。
+- [X: noel_ai_lab の投稿](https://x.com/noel_ai_lab/status/2118969848776847572)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+  - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://x.com/noel_ai_lab/status/2118969848776847572>。
 - [X: noa_gpt の投稿](https://x.com/noa_gpt/status/2121774600321486897)
   - 候補の対象が複数あり、一意に特定できませんでした。
+- [X: neuronxwhite の投稿](https://x.com/neuronxwhite/status/2118975019728683078)
+  - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: naka_1717 の投稿](https://x.com/naka_1717/status/2118869130535375008)
   - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://x.com/arafune/status/2118582485412131107>。
 - [X: mnishi41 の投稿](https://x.com/mnishi41/status/2118852779020312988)
@@ -78,6 +87,18 @@
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 - [X: kiu124 の投稿](https://x.com/kiu124/status/2118922682318442761)
   - 候補の対象が複数あり、一意に特定できませんでした。
+- [X: ganfanren_ai の投稿](https://x.com/ganfanren_ai/status/2118975516229476683)
+  - 元画像を確認できず、画像内の内容は未検証です。
+- [X: ganfanren_ai の投稿](https://x.com/ganfanren_ai/status/2118971500745384063)
+  - 対象を裏付ける公開一次資料を確認できませんでした。
+  - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://x.com/JacobCEdmunds/status/2118750759856517155>。
+- [X: ganfanren_ai の投稿](https://x.com/ganfanren_ai/status/2118970869657808954)
+  - 対象を裏付ける公開一次資料を確認できませんでした。
+- [X: ganfanren_ai の投稿](https://x.com/ganfanren_ai/status/2118970418602430762)
+  - 候補の対象が複数あり、一意に特定できませんでした。
+  - 対象を裏付ける公開一次資料を確認できませんでした。
+- [X: ganfanren_ai の投稿](https://x.com/ganfanren_ai/status/2118967483650687213)
+  - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: ganfanren_ai の投稿](https://x.com/ganfanren_ai/status/2118963364907094088)
   - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://github.com/ChrisHKAI/ChrisHKAI-Video>。
 - [X: ganfanren_ai の投稿](https://x.com/ganfanren_ai/status/2118962746360553653)
@@ -118,6 +139,8 @@
   - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://github.com/kajisho5/ffmpeg-skill>。
 - [X: dextune の投稿](https://x.com/dextune/status/2121641813136290022)
   - 一次資料と候補の説明に、解消できない相違があります。 照合済み参照先: <https://github.com/A8Chann/dsh-pet-live2d>。
+- [X: dextune の投稿](https://x.com/dextune/status/2118969200328982698)
+  - 公開に必須の根拠がそろっていません。
 - [X: dextune の投稿](https://x.com/dextune/status/2118961655237197924)
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
 - [X: daaihq の投稿](https://x.com/daaihq/status/2118888226522042683)
@@ -157,14 +180,22 @@
   - 候補の対象が複数あり、一意に特定できませんでした。
 - [X: Yarad_ai の投稿](https://x.com/Yarad_ai/status/2121225629177663872)
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+- [X: Y0urDumble の投稿](https://x.com/Y0urDumble/status/2119023461267833047)
+  - 候補の対象が複数あり、一意に特定できませんでした。
+  - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://github.com/OpenMontageInc/OpenMontage>。
+  - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://github.com/Tejashmakwana/motionmaxxing>。
 - [X: Vlixsi の投稿](https://x.com/Vlixsi/status/2121631327036318061)
   - 対象を裏付ける公開一次資料を確認できませんでした。
   - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://github.com/Tencent-Hunyuan/Hunyuan3D-2.1>。
 - [X: TommyBeFamous の投稿](https://x.com/TommyBeFamous/status/2121729135215047154)
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+- [X: SiliciumRose の投稿](https://x.com/SiliciumRose/status/2121933160560668893)
+  - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: RoundtableSpace の投稿](https://x.com/RoundtableSpace/status/2121758830857998546)
   - 候補の対象が複数あり、一意に特定できませんでした。
   - 下書きが公開用の検証基準を満たしていません。 照合済み参照先: <https://github.com/mrdoob/three.js>。
+- [X: RoundtableSpace の投稿](https://x.com/RoundtableSpace/status/2118972973985964346)
+  - 公開に必須の根拠がそろっていません。
 - [X: RoundtableSpace の投稿](https://x.com/RoundtableSpace/status/2118965424213614679)
   - 公開に必須の根拠がそろっていません。
 - [X: RoundtableSpace の投稿](https://x.com/RoundtableSpace/status/2118957874487718323)
@@ -245,6 +276,9 @@
   - 一次資料と候補の説明に、解消できない相違があります。 照合済み参照先: <https://github.com/microsoft/autogen>。
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
   - 公開に必須の根拠がそろっていません。
+- [X: Awed_Urshy の投稿](https://x.com/Awed_Urshy/status/2118973862025339200)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+  - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: Awed_Urshy の投稿](https://x.com/Awed_Urshy/status/2118866796250038660)
   - 候補の対象が複数あり、一意に特定できませんでした。
 - [X: Av1dlive の投稿](https://x.com/Av1dlive/status/2118959800881131544)
