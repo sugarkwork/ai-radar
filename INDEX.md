@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1164 件 — リポジトリ 793, リンク集 119, 記事 185, モデル 53, プロンプト 14 / ⚑ 要確認 932 件
+収録 1165 件 — リポジトリ 794, リンク集 119, 記事 185, モデル 53, プロンプト 14 / ⚑ 要確認 933 件
 
-## リポジトリ（793）
+## リポジトリ（794）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -294,7 +294,7 @@
 | [ChrisHKAI-Video](entries/coding-agent/authrain-cloud-abdullahformuli-chrishkai-video.md) ⚑ | 0 | 0 | 月次 | 1 | 2026-11-07 | 2026-11-15 | 2026-11-15 | MIT |
 | [Leash](entries/coding-agent/cmaintz-leash.md) ⚑ | 0 | 0 | 毎日 | 21 | 2026-11-06 | 2026-11-10 | 2026-11-11 | MIT |
 
-### エージェント基盤・スキル集（111）
+### エージェント基盤・スキル集（112）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -388,6 +388,7 @@
 | [Kanzo](entries/agent-framework/emanuele-em-kanzo.md) ⚑ | 1,195 | 99 | 毎日 | 100+ | 2026-11-11 | 2026-11-15 | 2026-11-15 | AGPL-3.0 |
 | [Rerun](entries/agent-framework/rerun-build-rerun.md) ⚑ | 1,031 | 125 | 毎日 | 100+ | 2026-11-12 | 2026-11-12 | 2026-11-12 | AGPL-3.0 |
 | [omdsh-dev/dsh-browser](entries/agent-framework/omdsh-dev-dsh-browser.md) ⚑ | 1,025 | 83 | 毎日 | 21 | 2026-11-08 | 2026-11-09 | 2026-11-10 | MIT |
+| [RustXNG](entries/agent-framework/sahenjp-rustxng.md) ⚑ | 975 | 81 | 毎日 | 100+ | 2026-11-15 | 2026-11-15 | 2026-11-15 | AGPL-3.0 |
 | [Nakama](entries/agent-framework/ahmadrosid-nakama.md) ⚑ | 802 | 137 | 毎日 | 100+ | 2026-11-10 | 2026-11-11 | 2026-11-11 | MIT |
 | [Grok Bot Field Notes](entries/agent-framework/unicodef1wn-grokbot-field-notes.md) | 700 | 100 | 月次 | 0 | 2026-09-20 | 2026-11-09 | 2026-11-10 | MIT |
 | [browse](entries/agent-framework/anomalyco-browse.md) ⚑ | 588 | 43 | 毎日 | 100+ | 2026-11-15 | 2026-11-15 | 2026-11-15 | MIT |
@@ -1741,6 +1742,7 @@
 - [Kanzo](entries/agent-framework/emanuele-em-kanzo.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Rerun](entries/agent-framework/rerun-build-rerun.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [omdsh-dev/dsh-browser](entries/agent-framework/omdsh-dev-dsh-browser.md) — unverified / 20%高速という値は投稿/READMEの主張で比較条件・独立追試なし。ログイン済みブラウザの操作を無制限に許可しない。 当方でインストール・推論・生成・ベンチ再現はしていない。
+- [RustXNG](entries/agent-framework/sahenjp-rustxng.md) — unverified / 標準・Fullプロファイルは有効な外部検索プロバイダーへクエリを送信する。Fullには自動アクセス条件が制限的または未確認のプロバイダーが含まれる。利用するプロバイダーの条件確認が必要。
 - [Nakama](entries/agent-framework/ahmadrosid-nakama.md) — unverified / READMEによると、Dockerのリセット手順はデータを破棄し、ポート4310を公開する無関係なコンテナも削除する。実行前に影響範囲を確認すること。
 - [browse](entries/agent-framework/anomalyco-browse.md) — unverified / README記載の導入方法には、ダウンロードしたインストーラーを実行する手順（curl | bash、PowerShellのirm | iex、npx install）が含まれます。この候補では実行していません。
 - [blender-ai-copilot-lab](entries/agent-framework/precygtrucqui1981-blender-ai-copilot-lab.md) — unverified / README記載の機能と対象環境は作者の説明に基づく。独立した動作確認は行っていない。
