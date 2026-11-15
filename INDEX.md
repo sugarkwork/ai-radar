@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1122 件 — リポジトリ 756, リンク集 119, 記事 180, モデル 53, プロンプト 14 / ⚑ 要確認 893 件
+収録 1123 件 — リポジトリ 756, リンク集 119, 記事 181, モデル 53, プロンプト 14 / ⚑ 要確認 893 件
 
 ## リポジトリ（756）
 
@@ -1324,9 +1324,9 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（180）
+## 記事（181）
 
-### 記事（117）
+### 記事（118）
 
 - **[$0のデジタル参謀長で月$80,000の契約候補を作ったというX投稿（動画付き）](articles/2026-10-22-bober_smart-0-80-000-x.md)** ⚑  @Bober_smart
 - **[1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md)** ⚑  @mukadeshinigami（mukade死神）
@@ -1430,6 +1430,7 @@
 - **[What are vector embeddings? An interactive guide](articles/2026-10-14-author-what-are-vector-embeddings-an-interactive-guide.md)**
 - **[Xのアカウントデータを使った自己点検の提案](articles/2026-10-23-jarvis11x-x.md)** ⚑  @jarvis11x
 - **[iPhone『削除済み写真173,521件』主張の検証（PhotoData/Thumbnails）](articles/2026-10-25-bober_smart-iphone-173-521-photodata-thumbnails.md)** ⚑  Bober_smart
+- **[llama.cpp v1.0.0: A stronger foundation for the local AI ecosystem](articles/2026-11-13-author-llama.cpp-v1.0.0-a-stronger-foundation-for-the-local-ai-ecosystem.md)**
 - **[「長くなる一方のSkill」を「短く効くSkill」にする、Matt Pocock式の作り方](articles/2026-10-20-sumika45379-skills-studio-skill-skill-matt-pocock.md)** ⚑  @sumika45379 (Skills Studio)
 - **[【公式】Claude Codeの「直しました」で終わらせない。画面の確認まで任せるSkillの作り方](articles/2026-10-23-sumika45379-skills-studio-claude-code-skill.md)** ⚑  sumika45379 / Skills Studio
 - **[ジェンスン・フアンがCNNで語ったAIを使った学習と回答の比較](articles/2025-07-13-cnn-cnn-ai.md)** ⚑  CNN
