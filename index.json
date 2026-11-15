@@ -1,5 +1,5 @@
 {
-  "count": 1172,
+  "count": 1173,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -12042,6 +12042,35 @@
       "fetched_at": "2026-11-13T21:11:34.757016+00:00",
       "path": "entries/coding-agent/underleveledbuilder-awesome-short-drama-skills.md",
       "summary": "短劇・漫劇向けのエージェントスキルを、種類や創作段階、対応動画モデルから探せる。READMEでは小説改編、脚本、分鏡、動画プロンプトなどを扱うスキルを紹介している。"
+    },
+    {
+      "name": "boss-agent-cli",
+      "genre": "coding-agent",
+      "url": "https://github.com/can4hou6joeng4/boss-agent-cli",
+      "repo": "can4hou6joeng4/boss-agent-cli",
+      "license": "MIT",
+      "stars": 2223,
+      "language": "Python",
+      "created": "2026-03-20",
+      "updated": "2026-11-15",
+      "forks": 192,
+      "open_issues": 3,
+      "commits_30d": 100,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 65779,
+      "archived": false,
+      "flags": [],
+      "type": "repo",
+      "added": "2026-11-15",
+      "first_seen": "2026-11-15",
+      "risk_notes": "",
+      "sources": [
+        "https://x.com/bkdgiffug/status/2118983795194069108"
+      ],
+      "fetched_at": "2026-11-15T15:27:57.797316+00:00",
+      "path": "entries/coding-agent/can4hou6joeng4-boss-agent-cli.md",
+      "summary": "READMEによると、BOSS直聘向けに求職者の求人検索、福利厚生条件による絞り込み、候補求人の整理、AIによる求人票・履歴書関連の支援、応募者と採用者のワークフローを提供する。CLI、JSON、MCP、Python APIから利用できる。"
     },
     {
       "repo": "Motionsites-AI/claude-skill",

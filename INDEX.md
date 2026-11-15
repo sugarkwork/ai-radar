@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1172 件 — リポジトリ 801, リンク集 119, 記事 185, モデル 53, プロンプト 14 / ⚑ 要確認 940 件
+収録 1173 件 — リポジトリ 802, リンク集 119, 記事 185, モデル 53, プロンプト 14 / ⚑ 要確認 940 件
 
-## リポジトリ（801）
+## リポジトリ（802）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -169,7 +169,7 @@
 | [Pay Small Check](entries/other/ahmardchain-pay-small-check.md) ⚑ | 1 | 0 | 毎日 | 32 | 2026-11-07 | 2026-11-14 | 2026-11-14 | MIT |
 | [LapDraw](entries/other/sachinyadavaug20-lapdraw.md) ⚑ | 0 | 0 | 毎日 | 22 | 2026-11-07 | 2026-11-13 | 2026-11-13 | MIT |
 
-### コーディングエージェント（124）
+### コーディングエージェント（125）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -242,6 +242,7 @@
 | [ppmpreetham/BUI](entries/coding-agent/ppmpreetham-bui.md) ⚑ | 2,363 | 95 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
 | [reacher-z/Awesome-REA](entries/coding-agent/reacher-z-awesome-rea.md) ⚑ | 2,312 | 421 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
 | [Awesome Short Drama Skills](entries/coding-agent/underleveledbuilder-awesome-short-drama-skills.md) ⚑ | 2,284 | 275 | 毎日 | 80 | 2026-11-13 | 2026-11-13 | 2026-11-14 | CC0-1.0 |
+| [boss-agent-cli](entries/coding-agent/can4hou6joeng4-boss-agent-cli.md) | 2,223 | 192 | 毎日 | 100+ | 2026-11-15 | 2026-11-15 | 2026-11-15 | MIT |
 | [MotionSites Web Builder](entries/coding-agent/motionsites-ai-claude-skill.md) ⚑ | 1,935 | 198 | 月次 | 2 | 2026-10-26 | 2026-11-10 | 2026-11-10 | unknown |
 | [zlib](entries/coding-agent/heartleo-zlib.md) ⚑ | 1,860 | 135 | 毎日 | 100+ | 2026-11-13 | 2026-11-13 | 2026-11-14 | MIT |
 | [BAMA: Build Any Mac App](entries/coding-agent/daveebbelaar-bama.md) ⚑ | 1,819 | 223 | 毎日 | 27 | 2026-11-05 | 2026-11-15 | 2026-11-15 | MIT |
