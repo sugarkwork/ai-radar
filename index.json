@@ -1,5 +1,5 @@
 {
-  "count": 1166,
+  "count": 1167,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -10298,6 +10298,37 @@
       "fetched_at": "2026-11-10T11:22:38Z",
       "path": "entries/coding-agent/emilkowalski-skills.md",
       "summary": "animate はUIモーションの要否、目的、イージング、時間、変更するプロパティを順に判断して実装する。review-animations は既存の動きを著者の基準でレビューする。"
+    },
+    {
+      "name": "Obsidian Agent Skills",
+      "genre": "coding-agent",
+      "url": "https://github.com/obsidianmd/obsidian-skills",
+      "repo": "obsidianmd/obsidian-skills",
+      "license": "MIT",
+      "stars": 52741,
+      "language": "Shell",
+      "created": "2026-01-02",
+      "updated": "2026-11-11",
+      "forks": 3755,
+      "open_issues": 4,
+      "commits_30d": 33,
+      "commit_cadence": "daily",
+      "commits_90d": 43,
+      "size_kb": 187,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 依存関係・実行条件。",
+      "type": "repo",
+      "added": "2026-11-15",
+      "first_seen": "2026-11-15",
+      "sources": [
+        "https://x.com/stewy0x/status/2121929768996110590"
+      ],
+      "fetched_at": "2026-11-15T14:17:01.950921+00:00",
+      "path": "entries/coding-agent/obsidianmd-obsidian-skills.md",
+      "summary": "Obsidian Flavored MarkdownやObsidian Basesの作成・編集、JSON Canvasファイルの作成・編集、Obsidian CLIによるVault操作、Obsidian Headlessによるコマンドラインからの同期・公開、DefuddleによるWebページからのMarkdown抽出、"
     },
     {
       "repo": "kepano/obsidian-skills",
