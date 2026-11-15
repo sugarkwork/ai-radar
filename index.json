@@ -1,5 +1,5 @@
 {
-  "count": 1165,
+  "count": 1166,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -33621,6 +33621,37 @@
       "last_release_at": "",
       "path": "entries/video-gen/video-rebirth-hyperflow-h3-flash.md",
       "summary": "HyperFlow H3 Flashの推論コード。圧縮したH3で少ステップの音声映像生成を行うモデルの公式実装。"
+    },
+    {
+      "name": "video-agent-skills",
+      "genre": "video-gen",
+      "url": "https://github.com/Melvynx/video-agent-skills",
+      "repo": "Melvynx/video-agent-skills",
+      "license": "MIT",
+      "stars": 158,
+      "language": "JavaScript",
+      "created": "2026-10-09",
+      "updated": "2026-11-06",
+      "forks": 39,
+      "open_issues": 1,
+      "commits_30d": 13,
+      "commit_cadence": "weekly",
+      "commits_90d": 26,
+      "size_kb": 9366,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "Tregによる一部機能は有料と記載されていますが、料金はREADMEに明記された範囲に限られます。",
+      "type": "repo",
+      "added": "2026-11-15",
+      "first_seen": "2026-11-15",
+      "sources": [
+        "https://x.com/eva_love_1999/status/2119028590423802349"
+      ],
+      "fetched_at": "2026-11-15T14:13:11.551620+00:00",
+      "path": "entries/video-gen/melvynx-video-agent-skills.md",
+      "summary": "Claude Code向けの動画制作スキル群。READMEでは、動画の編集、スクリプト作成、競合動画の分析、翻訳、画像生成、YouTube・Instagram・TikTokへの公開などを説明しています。short-editingは素材から字幕付き動画、字幕ファイル、投稿文を作成すると記載されています。"
     },
     {
       "name": "ChrisHKAI-Video",

@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1165 件 — リポジトリ 794, リンク集 119, 記事 185, モデル 53, プロンプト 14 / ⚑ 要確認 933 件
+収録 1166 件 — リポジトリ 795, リンク集 119, 記事 185, モデル 53, プロンプト 14 / ⚑ 要確認 934 件
 
-## リポジトリ（794）
+## リポジトリ（795）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -411,7 +411,7 @@
 | [AI SDK](entries/agent-framework/anil-matcha-ai.md) ⚑ | 18 | 4 | 停滞 | 0 | 2026-08-06 | 2026-11-13 | 2026-11-13 | unknown |
 | [web-api-skills](entries/agent-framework/oxylabs-web-api-skills.md) | 13 | 1 | 週次 | 11 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
 
-### 動画生成パイプライン（102）
+### 動画生成パイプライン（103）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -502,6 +502,7 @@
 | [ComfyUI Panorama Stickers](entries/video-gen/nomadoor-comfyui-panorama-stickers.md) | 182 | 17 | 毎日 | 84 | 2026-11-05 | 2026-11-09 | 2026-11-10 | MIT |
 | [H3 Continuity Studio](entries/video-gen/kadobot-comfyui-h3-continuity-studio.md) | 160 | 18 | 毎日 | 100+ | 2026-11-08 | 2026-11-09 | 2026-11-10 | MIT |
 | [Video-Rebirth/hyperflow-h3-flash](entries/video-gen/video-rebirth-hyperflow-h3-flash.md) ⚑ | 160 | 8 | 週次 | 4 | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [video-agent-skills](entries/video-gen/melvynx-video-agent-skills.md) ⚑ | 158 | 39 | 週次 | 13 | 2026-11-06 | 2026-11-15 | 2026-11-15 | MIT |
 | [ChrisHKAI-Video](entries/video-gen/chrishkai-chrishkai-video.md) ⚑ | 150 | 45 | 毎日 | 100+ | 2026-11-14 | 2026-11-15 | 2026-11-15 | MIT |
 | [music-mv](entries/video-gen/win-hao-music-mv.md) | 116 | 5 | 月次 | 3 | 2026-10-20 | 2026-11-09 | 2026-11-10 | MIT |
 | [Claude Code Video Toolkit](entries/video-gen/wilwaldon-claude-code-video-toolkit.md) ⚑ | 110 | 17 | 停滞 | 0 | 2026-02-26 | 2026-11-10 | 2026-11-10 | unknown |
@@ -2486,6 +2487,7 @@
 - [Otopilot](entries/video-gen/wj-sidiss-otopilot.md) — unverified / 機能は公式READMEとリリースノートで確認した。動画の生成、品質、処理時間、素材サービスの稼働、ライセンスフィルターの判定精度は実測していない。READMEはGitHubのraw配信で確認した。公開リリースページで最新版のタグを確認したが、公開日時の年とタイムゾーンは確認できていない。
 - [HyperFrames Motion Reel Skill](entries/video-gen/sunwood-ai-labs-hyperframes-motion-reel-skill.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Video-Rebirth/hyperflow-h3-flash](entries/video-gen/video-rebirth-hyperflow-h3-flash.md) — unverified / コードのApache-2.0を重みのライセンスへ拡張しない。モデルはMiniMax H3系の地域・商用条件を別途持つ。速度は未再現。 当方でインストール・推論・生成・ベンチ再現はしていない。
+- [video-agent-skills](entries/video-gen/melvynx-video-agent-skills.md) — unverified / Tregによる一部機能は有料と記載されていますが、料金はREADMEに明記された範囲に限られます。
 - [ChrisHKAI-Video](entries/video-gen/chrishkai-chrishkai-video.md) — unverified / Codexによる完全な映像制作の品質はREADME時点で未検証。
 - [Claude Code Video Toolkit](entries/video-gen/wilwaldon-claude-code-video-toolkit.md) — unverified / 外部ツールの導入・レンダリング、出力品質、現行バージョンでの互換性、料金は未検証。READMEにはMIT表記があるが、親のGitHub API測定ではライセンスはunknown。外部ツールや素材の利用条件は各提供元で確認する。 GitHub APIでライセンスを確認できていません。
 - [VidDub](entries/video-gen/law1223-viddub.md) — unverified / リポジトリAPI上のライセンスはunknown。READMEのライセンス表示だけでは具体的な利用条件を確認できない。 GitHub APIでライセンスを確認できていません。
