@@ -1,5 +1,5 @@
 {
-  "count": 1142,
+  "count": 1143,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -7769,6 +7769,24 @@
       ],
       "fetched_at": "2026-11-10T10:09:52Z",
       "path": "articles/2026-11-05-author-bring-agentic-coding-on-device-with-foundry-local.md"
+    },
+    {
+      "name": "Build Live Apps in Cursor",
+      "genre": "article",
+      "url": "https://cursor.com/changelog/build-live-apps",
+      "published": "2026-11-05",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "投稿にある「.env」やsource mapを含む個別の検査対象は、確認した公式記事では明記されていないため記載していない。",
+      "type": "article",
+      "added": "2026-11-15",
+      "first_seen": "2026-11-15",
+      "sources": [
+        "https://x.com/ganfanren_ai/status/2118941347017335099"
+      ],
+      "fetched_at": "2026-11-15T05:29:45.184985+00:00",
+      "path": "articles/2026-11-05-author-build-live-apps-in-cursor.md"
     },
     {
       "name": "Build once, run on any agent: A practical guide to agent skills",

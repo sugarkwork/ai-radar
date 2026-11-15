@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1142 件 — リポジトリ 774, リンク集 119, 記事 182, モデル 53, プロンプト 14 / ⚑ 要確認 912 件
+収録 1143 件 — リポジトリ 774, リンク集 119, 記事 183, モデル 53, プロンプト 14 / ⚑ 要確認 913 件
 
 ## リポジトリ（774）
 
@@ -1342,9 +1342,9 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（182）
+## 記事（183）
 
-### 記事（119）
+### 記事（120）
 
 - **[$0のデジタル参謀長で月$80,000の契約候補を作ったというX投稿（動画付き）](articles/2026-10-22-bober_smart-0-80-000-x.md)** ⚑  @Bober_smart
 - **[1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md)** ⚑  @mukadeshinigami（mukade死神）
@@ -1366,6 +1366,7 @@
 - **[Axion 1.0: Open Agent Foundation Models, Simplified](articles/2026-11-02-author-axion-1.0-open-agent-foundation-models-simplified.md)** ⚑
 - **[Bernat Vadellによる音声エージェント構築の実践メモ](articles/2026-11-06-author-bernat-vadell.md)**
 - **[Bring Agentic Coding On-Device with Foundry Local](articles/2026-11-05-author-bring-agentic-coding-on-device-with-foundry-local.md)** ⚑
+- **[Build Live Apps in Cursor](articles/2026-11-05-author-build-live-apps-in-cursor.md)** ⚑
 - **[Build once, run on any agent: A practical guide to agent skills](articles/2026-11-12-author-build-once-run-on-any-agent-a-practical-guide-to-agent-skills.md)**
 - **[ChatGPT + Obsidian で組む英語リスニング訓練システム](articles/2026-09-27-momoai_daily-momoai-chatgpt-obsidian.md)** ⚑  @momoai_daily（momoai沫沫🫧）
 - **[Claude Code に Blender シーンを Python で書かせ、ヘッドレスで回す6段階](articles/2026-10-22-y0urdumble-claude-code-blender-python-6.md)** ⚑  @Y0urDumble
@@ -1759,6 +1760,7 @@
 - [Almost no one uses AI agents to book their Uber, company says](articles/2026-11-04-author-almost-no-one-uses-ai-agents-to-book-their-uber-company-says.md) — unverified / 記事はUberの決算説明会での発言を報じたもの。信頼や所要時間に関する見解は著者による解釈で、記事中の将来予測や他社比較も独立検証していない。
 - [Axion 1.0: Open Agent Foundation Models, Simplified](articles/2026-11-02-author-axion-1.0-open-agent-foundation-models-simplified.md) — unverified / ベンチマークでの性能に関する記述は著者らの報告であり、この確認では独立に検証していない。
 - [Bring Agentic Coding On-Device with Foundry Local](articles/2026-11-05-author-bring-agentic-coding-on-device-with-foundry-local.md) — unverified / llama.cppとの速度差とVRAM別のコンテキスト上限はMicrosoftの報告に基づく。実機での再現、Copilotアプリ全体のオフライン動作、利用プランごとの料金・条件は未確認。
+- [Build Live Apps in Cursor](articles/2026-11-05-author-build-live-apps-in-cursor.md) — unverified / 投稿にある「.env」やsource mapを含む個別の検査対象は、確認した公式記事では明記されていないため記載していない。
 - [ChatGPT + Obsidian で組む英語リスニング訓練システム](articles/2026-09-27-momoai_daily-momoai-chatgpt-obsidian.md) — unverified / 本文は全文取得済みだが、初回60%→80%の目安や復習間隔は著者の経験則で定量データなし。Obsidian への自動書き込みは公式連携がなく手動運用。
 - [Claude Code に Blender シーンを Python で書かせ、ヘッドレスで回す6段階](articles/2026-10-22-y0urdumble-claude-code-blender-python-6.md) — unverified, low-quality / 主張: 719 voxels・12 joints・16秒/120bpm・音楽も Python 合成・参考画像1枚で修正・『Opus 5.5 が無料でやった』『Blender を一度も開いていない』。確認できた: blender -b（UIなし）と -P（スクリプト実行）は公式引数で、-f によるフレーム単位レンダーも公式。EEVEE は実在しラスタライズ方式。Blender 5.2.3 LTS は投稿当日の 2026-10-22 リリースで無料（GPL）。動画は実測 16.04 秒で『16 sec』と一致。確認できず: 719 voxels / 12 joints / 120bpm / 音楽合成のいずれも投稿と動画キャプション以外の裏付けがなく、再現スクリプトも第三者検証もない。手順3の t.co は scene.py が URL と誤認されたもので資料ではない。誤り・誇張: Free プランに Claude Code は含まれず『無料』は不正確（Pro 月20ドル、Opus 5.5 API は $4/$20 per MTok）。動画のオーバーレイは『CLAUDE OPUS 5.5 x BLENDER MCP』『mcp.connect(blender)』で、ヘッドレス実行とも『一度も開いていない』とも食い違う。『28 beats . 120 bpm』は14秒、ログの beats=12 は6秒で、16秒と整合しない。配布物 arjun988/blender-skills は MCP 前提の 94 skills で、headless/719/120bpm/12 joints の記述は0件——投稿の主張と配布物の実体は別物。『3Dはドリフトしない』は形状のみで、ライティング・フレーミング・アニメーションで印象は変わる（返信で同旨の指摘、著者も同意）。記事本文はログイン必須で未取得のため、記事内の詳細・コード・プロンプトは未確認。
 - [Claude Codeで作った帆走シミュレーターで複数モデルを競走させた事例](articles/2026-11-06-author-claude-code.md) — unverified / 結果は作者による個別の競走報告で、独立したベンチマークではない。作者はコメントでマークの通過ルールが明確でなかったと述べており、コードや条件を確認できないため、勝敗や費用の一般化には注意が必要。
