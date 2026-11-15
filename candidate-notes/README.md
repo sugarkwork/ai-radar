@@ -139,10 +139,14 @@
   - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://github.com/kajisho5/ffmpeg-skill>。
 - [X: dextune の投稿](https://x.com/dextune/status/2121641813136290022)
   - 一次資料と候補の説明に、解消できない相違があります。 照合済み参照先: <https://github.com/A8Chann/dsh-pet-live2d>。
+- [X: dextune の投稿](https://x.com/dextune/status/2118976753477537984)
+  - 元投稿と配布先が同一対象であることを裏付けられませんでした。
 - [X: dextune の投稿](https://x.com/dextune/status/2118969200328982698)
   - 公開に必須の根拠がそろっていません。
 - [X: dextune の投稿](https://x.com/dextune/status/2118961655237197924)
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+- [X: deepumohanp の投稿](https://x.com/deepumohanp/status/2121931858669629620)
+  - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://x.com/deepumohanp/status/2121931858669629620>。
 - [X: daaihq の投稿](https://x.com/daaihq/status/2118888226522042683)
   - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://x.com/daaihq/status/2118888226522042683>。
 - [X: daaihq の投稿](https://x.com/daaihq/status/2118888221233013237)
@@ -249,6 +253,12 @@
 - [X: Machinedelusion の投稿](https://x.com/Machinedelusion/status/2118910562369417561)
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
   - 公開に必須の根拠がそろっていません。
+- [X: Leviwoyun の投稿](https://x.com/Leviwoyun/status/2118978755423314223)
+  - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://x.com/Leviwoyun/status/2118978690625515927>。
+  - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://x.com/Leviwoyun/status/2118978690625515927>。
+- [X: Leviwoyun の投稿](https://x.com/Leviwoyun/status/2118978690625515927)
+  - 候補の対象が複数あり、一意に特定できませんでした。
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 - [X: Leviwoyun の投稿](https://x.com/Leviwoyun/status/2118910059262730622)
   - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://x.com/kriptogelisim/status/2118632177793683461>。
   - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://x.com/kriptogelisim/status/2118632177793683461>。
@@ -263,6 +273,8 @@
 - [X: Leviwoyun の投稿](https://x.com/Leviwoyun/status/2118878806882869348)
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
   - 公開に必須の根拠がそろっていません。
+- [X: KarnaughK の投稿](https://x.com/KarnaughK/status/2119025961333383244)
+  - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: Frank0495445361 の投稿](https://x.com/Frank0495445361/status/2119019367765791024)
   - 公開に必須の根拠がそろっていません。
 - [X: Feljoy_ix の投稿](https://x.com/Feljoy_ix/status/2121787138455040333)
