@@ -1,5 +1,5 @@
 {
-  "count": 1138,
+  "count": 1139,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -21883,6 +21883,37 @@
       "fetched_at": "2026-11-14T07:14:03.435839+00:00",
       "path": "entries/other/pmndrs-react-spring.md",
       "summary": "READMEはreact-springをクロスプラットフォームのspring物理ベースのアニメーションライブラリと説明している。react-domとreact-three-fiberをサポートし、宣言的または命令的にアニメーションを設定できる。デフォルトではspringを使い、durationとeasingもサポートす"
+    },
+    {
+      "name": "System Design Interview — An Insider’s Guide (Vol 1 and 2) notes",
+      "genre": "other",
+      "url": "https://github.com/liquidslr/system-design-notes",
+      "repo": "liquidslr/system-design-notes",
+      "license": "unknown",
+      "stars": 28391,
+      "language": "unknown",
+      "created": "2024-12-24",
+      "updated": "2026-08-12",
+      "forks": 5337,
+      "open_issues": 13,
+      "commits_30d": 0,
+      "commit_cadence": "stale",
+      "commits_90d": 0,
+      "size_kb": 83057,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "README says the notes are a work in progress. License is unknown in the supplied repository data. GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-15",
+      "first_seen": "2026-11-15",
+      "sources": [
+        "https://x.com/bkdgiffug/status/2118936231757169006"
+      ],
+      "fetched_at": "2026-11-15T04:20:41.562803+00:00",
+      "path": "entries/other/liquidslr-system-design-notes.md",
+      "summary": "READMEの目次には、スケーリング、レート制限、一貫性ハッシュ、キー・バリューストア、URL短縮、検索オートコンプリート、チャット、動画配信、決済など28章の設計ノートが掲載されています。追加参考資料へのリンクもあります。出典: https://github.com/liquidslr/system-design-n"
     },
     {
       "name": "Filee",
