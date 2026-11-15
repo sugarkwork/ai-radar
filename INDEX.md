@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1137 件 — リポジトリ 769, リンク集 119, 記事 182, モデル 53, プロンプト 14 / ⚑ 要確認 907 件
+収録 1138 件 — リポジトリ 770, リンク集 119, 記事 182, モデル 53, プロンプト 14 / ⚑ 要確認 908 件
 
-## リポジトリ（769）
+## リポジトリ（770）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -282,7 +282,7 @@
 | [ChrisHKAI-Video](entries/coding-agent/authrain-cloud-abdullahformuli-chrishkai-video.md) ⚑ | 0 | 0 | 月次 | 1 | 2026-11-07 | 2026-11-15 | 2026-11-15 | MIT |
 | [Leash](entries/coding-agent/cmaintz-leash.md) ⚑ | 0 | 0 | 毎日 | 21 | 2026-11-06 | 2026-11-10 | 2026-11-11 | MIT |
 
-### エージェント基盤・スキル集（107）
+### エージェント基盤・スキル集（108）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -375,6 +375,7 @@
 | [omdsh-dev/dsh-browser](entries/agent-framework/omdsh-dev-dsh-browser.md) ⚑ | 1,025 | 83 | 毎日 | 21 | 2026-11-08 | 2026-11-09 | 2026-11-10 | MIT |
 | [Nakama](entries/agent-framework/ahmadrosid-nakama.md) ⚑ | 802 | 137 | 毎日 | 100+ | 2026-11-10 | 2026-11-11 | 2026-11-11 | MIT |
 | [Grok Bot Field Notes](entries/agent-framework/unicodef1wn-grokbot-field-notes.md) | 700 | 100 | 月次 | 0 | 2026-09-20 | 2026-11-09 | 2026-11-10 | MIT |
+| [browse](entries/agent-framework/anomalyco-browse.md) ⚑ | 588 | 43 | 毎日 | 100+ | 2026-11-15 | 2026-11-15 | 2026-11-15 | MIT |
 | [@antfu/skills（npm で配るスキル詰め合わせ）](entries/agent-framework/antfu-skills-pack.md) | 337 | 5 | 週次 | 6 | 2026-10-30 | 2026-11-09 | 2026-11-10 | MIT |
 | [blender-ai-copilot-lab](entries/agent-framework/precygtrucqui1981-blender-ai-copilot-lab.md) ⚑ | 187 | 5 | 月次 | 3 | 2026-11-12 | 2026-11-14 | 2026-11-14 | MIT |
 | [neo4jev — Graph Navigation Demo (TypeSafe Jev + Neo4j)](entries/agent-framework/jexp-neo4jev.md) ⚑ | 184 | 27 | 月次 | 0 | 2026-09-18 | 2026-11-11 | 2026-11-11 | MIT |
@@ -1712,6 +1713,7 @@
 - [Rerun](entries/agent-framework/rerun-build-rerun.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [omdsh-dev/dsh-browser](entries/agent-framework/omdsh-dev-dsh-browser.md) — unverified / 20%高速という値は投稿/READMEの主張で比較条件・独立追試なし。ログイン済みブラウザの操作を無制限に許可しない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Nakama](entries/agent-framework/ahmadrosid-nakama.md) — unverified / READMEによると、Dockerのリセット手順はデータを破棄し、ポート4310を公開する無関係なコンテナも削除する。実行前に影響範囲を確認すること。
+- [browse](entries/agent-framework/anomalyco-browse.md) — unverified / README記載の導入方法には、ダウンロードしたインストーラーを実行する手順（curl | bash、PowerShellのirm | iex、npx install）が含まれます。この候補では実行していません。
 - [blender-ai-copilot-lab](entries/agent-framework/precygtrucqui1981-blender-ai-copilot-lab.md) — unverified / README記載の機能と対象環境は作者の説明に基づく。独立した動作確認は行っていない。
 - [neo4jev — Graph Navigation Demo (TypeSafe Jev + Neo4j)](entries/agent-framework/jexp-neo4jev.md) — unverified / TypeSafe APIの利用にはTYPESAFE_API_KEYが必要。READMEによると、既定のベクトル埋め込みは決定論的なハッシュ由来のプレースホルダーで、意味的な検索にはならない。
 - [AgentFlux](entries/agent-framework/davemessew-agentflux.md) — unverified / READMEによるとログイン機能はなく、単一ユーザー向けです。共有または公開アクセスにはアクセス制御層と適切なネットワーク設定が必要です。

@@ -1,5 +1,5 @@
 {
-  "count": 1137,
+  "count": 1138,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -6353,6 +6353,37 @@
       "type": "repo",
       "path": "entries/agent-framework/unicodef1wn-grokbot-field-notes.md",
       "summary": "xAI の Grok Bot チームのエンジニア3名が、空のリポジトリから 72 時間のライブ配信で製品を作り切った際の運用知識を配布する。"
+    },
+    {
+      "name": "browse",
+      "genre": "agent-framework",
+      "url": "https://github.com/anomalyco/browse",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "README記載の導入方法には、ダウンロードしたインストーラーを実行する手順（curl | bash、PowerShellのirm | iex、npx install）が含まれます。この候補では実行していません。",
+      "repo": "anomalyco/browse",
+      "stars": 588,
+      "forks": 43,
+      "open_issues": 26,
+      "size_kb": 5452,
+      "language": "TypeScript",
+      "created": "2026-10-27",
+      "updated": "2026-11-15",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 100,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "type": "repo",
+      "added": "2026-11-15",
+      "first_seen": "2026-11-15",
+      "sources": [
+        "https://x.com/NFT_Chen/status/2118934674533978517"
+      ],
+      "fetched_at": "2026-11-15T04:20:32.755140+00:00",
+      "path": "entries/agent-framework/anomalyco-browse.md",
+      "summary": "browse MCPサーバーとChromium拡張機能を提供する。エージェントはPlaywrightでタブを開いて操作し、スクリーンショット取得、ネットワーク通信の記録、画面録画ができる。ログイン、二要素認証、支払いなど利用者の操作が必要な場面ではタブを利用者に引き渡し、利用者がContinueを押した後に続行する。R"
     },
     {
       "repo": "antfu/skills-pack",
