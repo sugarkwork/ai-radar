@@ -1,5 +1,5 @@
 {
-  "count": 1158,
+  "count": 1159,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -7962,6 +7962,22 @@
       "fetched_at": "2026-11-08T20:52:35Z",
       "type": "article",
       "path": "articles/2026-10-22-y0urdumble-claude-code-blender-python-6.md"
+    },
+    {
+      "name": "Claude Code、Codex＋Seedance：AI 影片製作從分鏡到剪輯怎麼做？",
+      "genre": "article",
+      "url": "https://www.aiposthub.com/claude-code-codex-seedance-ai-video-workflow/",
+      "published": "2026-11-05",
+      "flags": [],
+      "type": "article",
+      "added": "2026-11-15",
+      "first_seen": "2026-11-15",
+      "risk_notes": "",
+      "sources": [
+        "https://x.com/Frank0495445361/status/2119019367765791024"
+      ],
+      "fetched_at": "2026-11-15T10:07:17.832337+00:00",
+      "path": "articles/2026-11-05-author-claude-code-codex-seedance-ai.md"
     },
     {
       "name": "Claude Codeで作った帆走シミュレーターで複数モデルを競走させた事例",

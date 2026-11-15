@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1158 件 — リポジトリ 788, リンク集 119, 記事 184, モデル 53, プロンプト 14 / ⚑ 要確認 928 件
+収録 1159 件 — リポジトリ 788, リンク集 119, 記事 185, モデル 53, プロンプト 14 / ⚑ 要確認 928 件
 
 ## リポジトリ（788）
 
@@ -1356,9 +1356,9 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（184）
+## 記事（185）
 
-### 記事（121）
+### 記事（122）
 
 - **[$0のデジタル参謀長で月$80,000の契約候補を作ったというX投稿（動画付き）](articles/2026-10-22-bober_smart-0-80-000-x.md)** ⚑  @Bober_smart
 - **[1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md)** ⚑  @mukadeshinigami（mukade死神）
@@ -1385,6 +1385,7 @@
 - **[Build once, run on any agent: A practical guide to agent skills](articles/2026-11-12-author-build-once-run-on-any-agent-a-practical-guide-to-agent-skills.md)**
 - **[ChatGPT + Obsidian で組む英語リスニング訓練システム](articles/2026-09-27-momoai_daily-momoai-chatgpt-obsidian.md)** ⚑  @momoai_daily（momoai沫沫🫧）
 - **[Claude Code に Blender シーンを Python で書かせ、ヘッドレスで回す6段階](articles/2026-10-22-y0urdumble-claude-code-blender-python-6.md)** ⚑  @Y0urDumble
+- **[Claude Code、Codex＋Seedance：AI 影片製作從分鏡到剪輯怎麼做？](articles/2026-11-05-author-claude-code-codex-seedance-ai.md)**
 - **[Claude Codeで作った帆走シミュレーターで複数モデルを競走させた事例](articles/2026-11-06-author-claude-code.md)** ⚑
 - **[Claude Codeの利用量とAPI料金換算の個人報告](articles/2026-10-25-bernat-vadell-claude-code-api.md)** ⚑  Bernat Vadell
 - **[Claude Codeの補足情報と実行時の権限制御](articles/2026-03-22-michael-livshits-claude-code.md)** ⚑  Michael Livshits
