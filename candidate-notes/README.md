@@ -6,6 +6,15 @@
 
 ## 2026-11-16（日本時間）
 
+- [X: wquguru の投稿](https://x.com/wquguru/status/2118993725485625577)
+  - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://x.com/wquguru/status/2118993725485625577>。
+- [X: wquguru の投稿](https://x.com/wquguru/status/2118991882835661171)
+  - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://x.com/wquguru/status/2118991882835661171>。
+- [X: wquguru の投稿](https://x.com/wquguru/status/2118990628637769899)
+  - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://x.com/wquguru/status/2118990628637769899>。
+- [X: mingzi206 の投稿](https://x.com/mingzi206/status/2118994581857657151)
+  - 下書きが公開用の検証基準を満たしていません。 照合済み参照先: <https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic>。
+  - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic>。
 - [X: lemomo_ai の投稿](https://x.com/lemomo_ai/status/2118984301522153874)
   - 候補の対象が複数あり、一意に特定できませんでした。
   - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://x.com/lemomo_ai/status/2118984301522153874>。
@@ -18,6 +27,11 @@
 - [X: RealMarvelX の投稿](https://x.com/RealMarvelX/status/2118985876088766763)
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
   - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://x.com/RealMarvelX/status/2118985876088766763>。
+- [X: NFT_Chen の投稿](https://x.com/NFT_Chen/status/2118994581702496282)
+  - GitHub APIで元のリポジトリを確認できませんでした。
+  - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+  - 公開に必須の根拠がそろっていません。
+  - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://github.com/FareedKhan-dev/kimi-k3-in-c>。
 - [X: NFT_Chen の投稿](https://x.com/NFT_Chen/status/2118987682647093728)
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 - [X: MarkleeLabs の投稿](https://x.com/MarkleeLabs/status/2121979537667883376)
@@ -25,6 +39,8 @@
 - [X: LuisAngelSG8LA8 の投稿](https://x.com/LuisAngelSG8LA8/status/2119031897376583922)
   - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://github.com/pixelaigc/ComfyUI-MiniMax-H3-Workflow>。
 - [X: FiniYang の投稿](https://x.com/FiniYang/status/2118982866923299102)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+- [X: Awed_Urshy の投稿](https://x.com/Awed_Urshy/status/2118991546523832720)
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 - [X: Awed_Urshy の投稿](https://x.com/Awed_Urshy/status/2118985135609823451)
   - 対象を裏付ける公開一次資料を確認できませんでした。
