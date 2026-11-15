@@ -1,5 +1,5 @@
 {
-  "count": 1128,
+  "count": 1129,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -22520,6 +22520,37 @@
       "fetched_at": "2026-11-10T09:51:59+00:00",
       "path": "entries/other/librosa-librosa.md",
       "summary": "音源からテンポと拍位置を推定し、拍位置を秒単位で取り出せる。映像編集では、その時刻をカット候補として使える。 [公式リズム解析チュートリアル](https://librosa.org/doc/latest/auto_tutorials/01-intro/06-rhythm.html)"
+    },
+    {
+      "name": "Two.js",
+      "genre": "other",
+      "url": "https://github.com/jonobr1/two.js",
+      "repo": "jonobr1/two.js",
+      "license": "MIT",
+      "stars": 8726,
+      "language": "JavaScript",
+      "created": "2012-09-05",
+      "updated": "2026-11-13",
+      "forks": 472,
+      "open_issues": 34,
+      "commits_30d": 22,
+      "commit_cadence": "daily",
+      "commits_90d": 47,
+      "size_kb": 21722,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景・有効性・依存関係・実行条件。",
+      "type": "repo",
+      "added": "2026-11-15",
+      "first_seen": "2026-11-15",
+      "sources": [
+        "https://x.com/Feljoy_ix/status/2121787138455040333"
+      ],
+      "fetched_at": "2026-11-15T03:18:16.822736+00:00",
+      "path": "entries/other/jonobr1-two.js.md",
+      "summary": "ブラウザー向けの2D描画API。READMEによると、同じAPIからWebGL、Canvas 2D、SVGの各レンダラーで描画できます。図形やアニメーションを扱う例として、矩形を作成して更新イベントで回転させる手順が示されています。"
     },
     {
       "name": "OpenToonz",
