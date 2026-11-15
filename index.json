@@ -1,5 +1,5 @@
 {
-  "count": 1117,
+  "count": 1118,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -24425,6 +24425,37 @@
       "fetched_at": "2026-11-14T11:13:11.272114+00:00",
       "path": "entries/other/monoradio102-myradio.md",
       "summary": "台本JSONと音声をリポジトリに置き、GitHub Pagesでキャラクター付きのHTML番組を公開する。音声に合わせてスライド・字幕・キャラクター・リンクカードを動かし、見出し移動、記事リンク、台本の閲覧に対応する。天気表示、SNS共有カード、埋め込み、コメント欄の機能もREADMEに記載されている。"
+    },
+    {
+      "name": "dsh-pet-live2d",
+      "genre": "other",
+      "url": "https://github.com/A8Chann/dsh-pet-live2d",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "APIのlicense値はunknown。READMEのバッジにはMIT + CC BY-NC-SA 4.0とあるが、ライセンスの適用範囲は添付READMEだけでは確認できない。 GitHub APIでライセンスを確認できていません。",
+      "repo": "A8Chann/dsh-pet-live2d",
+      "stars": 78,
+      "forks": 10,
+      "open_issues": 1,
+      "size_kb": 8268,
+      "language": "JavaScript",
+      "created": "2026-09-20",
+      "updated": "2026-11-09",
+      "archived": false,
+      "license": "unknown",
+      "commits_30d": 42,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "type": "repo",
+      "added": "2026-11-15",
+      "first_seen": "2026-11-15",
+      "sources": [
+        "https://x.com/dextune/status/2121641813136290022"
+      ],
+      "fetched_at": "2026-11-15T00:28:17.031408+00:00",
+      "path": "entries/other/a8chann-dsh-pet-live2d.md",
+      "summary": "READMEによると、DSH Web GUI上にLive2Dのデスクトップペットを表示し、ドラッグ・拡大縮小、マウス追従、クリック操作、着せ替え、DSHのセッションイベントに応じた動作や表情の切り替えを行う。ペットの位置やサイズはlocalStorageに保存される。"
     },
     {
       "repo": "bytelabs-oss/clash-jev",
