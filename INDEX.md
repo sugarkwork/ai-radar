@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1170 件 — リポジトリ 799, リンク集 119, 記事 185, モデル 53, プロンプト 14 / ⚑ 要確認 938 件
+収録 1171 件 — リポジトリ 800, リンク集 119, 記事 185, モデル 53, プロンプト 14 / ⚑ 要確認 939 件
 
-## リポジトリ（799）
+## リポジトリ（800）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -648,6 +648,42 @@
 | [lab-tts](entries/tts-audio/lakimi-ai-systems-lab-tts.md) ⚑ | 8 | 0 | 月次 | 3 | 2026-11-03 | 2026-11-10 | 2026-11-10 | Apache-2.0 |
 | [Voxarium](entries/tts-audio/ahmadmansy-voxarium.md) ⚑ | 7 | 0 | 毎日 | 40 | 2026-11-08 | 2026-11-13 | 2026-11-13 | AGPL-3.0 |
 
+### MCPサーバー（31）
+
+| 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
+|---|---:|---:|---|---:|---|---|---|---|
+| [REA](entries/mcp-server/morluto-rea.md) ⚑ | 446,665 | 110,198 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [shadcn/ui](entries/mcp-server/shadcn-ui-ui.md) ⚑ | 127,807 | 11,332 | 毎日 | 84 | 2026-11-10 | 2026-11-10 | 2026-11-11 | MIT |
+| [Scrapling](entries/mcp-server/d4vinci-scrapling.md) | 100,495 | 10,502 | 毎日 | 97 | 2026-11-09 | 2026-11-09 | 2026-11-10 | BSD-3-Clause |
+| [Home Assistant Core](entries/mcp-server/home-assistant-core.md) ⚑ | 92,120 | 39,255 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | Apache-2.0 |
+| [Penpot](entries/mcp-server/penpot-penpot.md) ⚑ | 62,245 | 4,393 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | MPL-2.0 |
+| [Chrome DevTools for agents](entries/mcp-server/chromedevtools-chrome-devtools-mcp.md) ⚑ | 55,061 | 4,579 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-11 | Apache-2.0 |
+| [Playwright MCP](entries/mcp-server/microsoft-playwright-mcp.md) | 39,387 | 3,410 | 週次 | 18 | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [changedetection.io](entries/mcp-server/dgtlmoon-changedetection.io.md) ⚑ | 35,707 | 2,230 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | Apache-2.0 |
+| [OpenSEO](entries/mcp-server/every-app-open-seo.md) ⚑ | 27,127 | 3,759 | 毎日 | 100+ | 2026-11-07 | 2026-11-10 | 2026-11-11 | MIT |
+| [Framelink MCP for Figma](entries/mcp-server/glips-figma-context-mcp.md) ⚑ | 16,187 | 1,282 | 停滞 | 0 | 2026-10-27 | 2026-11-10 | 2026-11-10 | MIT |
+| [SolidCraft](entries/mcp-server/tangency-labs-solidcraft.md) ⚑ | 15,931 | 2,181 | 毎日 | 100+ | 2026-11-12 | 2026-11-12 | 2026-11-12 | Apache-2.0 |
+| [Apify MCP server](entries/mcp-server/apify-apify-mcp-server.md) ⚑ | 15,564 | 444 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-11 | MIT |
+| [OpenPencil](entries/mcp-server/open-pencil-open-pencil.md) ⚑ | 9,747 | 1,051 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-11 | MIT |
+| [treg（REA growth スキル同梱のエージェント用ツールレジストリ）](entries/mcp-server/superdesigndev-treg.md) | 7,723 | 704 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 + 追加条項（GitHub API は NOASSERTION） |
+| [21st MCP compatibility proxy (formerly Magic MCP)](entries/mcp-server/21st-dev-magic-mcp.md) ⚑ | 6,482 | 531 | 月次 | 0 | 2026-09-09 | 2026-11-14 | 2026-11-14 | ISC |
+| [Exa MCP Server](entries/mcp-server/exa-labs-exa-mcp-server.md) ⚑ | 5,221 | 414 | 週次 | 9 | 2026-11-05 | 2026-11-10 | 2026-11-10 | MIT |
+| [designlang](entries/mcp-server/manavarya09-design-extract.md) ⚑ | 5,003 | 415 | 毎日 | 24 | 2026-11-05 | 2026-11-10 | 2026-11-10 | MIT |
+| [Basic Memory](entries/mcp-server/basicmachines-co-basic-memory.md) ⚑ | 4,583 | 360 | 毎日 | 100+ | 2026-11-15 | 2026-11-15 | 2026-11-15 | AGPL-3.0 |
+| [New Term Radar](entries/mcp-server/zhuyansen-new-term-radar.md) ⚑ | 2,147 | 642 | 毎日 | 54 | 2026-11-02 | 2026-11-10 | 2026-11-10 | MIT |
+| [Gmail AutoAuth MCP Server](entries/mcp-server/gongrzhe-gmail-mcp-server.md) ⚑ | 1,169 | 416 | 停滞 | 0 | 2025-08-06 | 2026-11-10 | 2026-11-11 | MIT |
+| [World Intelligence MCP](entries/mcp-server/marc-shade-world-intel-mcp.md) | 1,067 | 176 | 毎日 | 100+ | 2026-10-18 | 2026-11-09 | 2026-11-10 | MIT |
+| [PicLite](entries/mcp-server/amiaoapp-piclite.md) ⚑ | 1,034 | 66 | 毎日 | 70 | 2026-11-06 | 2026-11-10 | 2026-11-10 | GPL-3.0 |
+| [ExcelMcp（本物のExcelをCOM経由でAIに操作させるMCPサーバ／CLI）](entries/mcp-server/sbroenne-mcp-server-excel.md) | 875 | 108 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [Graphicle（コードグラフと記憶を1つのMCPサーバでエージェントに渡すRust製ツール）](entries/mcp-server/graphicle-ai-graphicle.md) | 543 | 41 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [DeepScrape](entries/mcp-server/stretchcloud-deepscrape.md) ⚑ | 337 | 28 | 月次 | 0 | 2026-08-21 | 2026-11-10 | 2026-11-10 | MIT |
+| [Material Painter](entries/mcp-server/alla2001-material-painter.md) ⚑ | 265 | 26 | 毎日 | 41 | 2026-11-07 | 2026-11-10 | 2026-11-10 | GPL-3.0 |
+| [pagesift](entries/mcp-server/yolow92-pagesift.md) ⚑ | 256 | 32 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | AGPL-3.0 |
+| [Moodle-MCP](entries/mcp-server/faixiang-moodle-mcp.md) ⚑ | 206 | 0 | 毎日 | 20 | 2026-11-01 | 2026-11-13 | 2026-11-14 | MIT |
+| [Kosh](entries/mcp-server/sachinyadavaug20-kosh.md) ⚑ | 4 | 0 | 毎日 | 61 | 2026-11-10 | 2026-11-10 | 2026-11-10 | Apache-2.0 |
+| [losslesscut-mcp](entries/mcp-server/bariswha-losslesscut-mcp.md) ⚑ | 4 | 0 | 月次 | 3 | 2026-11-12 | 2026-11-15 | 2026-11-15 | MIT |
+| [gmail-browser-mcp](entries/mcp-server/sparsh101sparsh-gmail-browser-mcp.md) ⚑ | 0 | 0 | 毎日 | 88 | 2026-11-13 | 2026-11-14 | 2026-11-14 | unknown |
+
 ### 金融・クオンツ（30）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
@@ -682,41 +718,6 @@
 | [Jev Paper Trader](entries/finance-quant/mojoai-king-jev-paper-trader.md) ⚑ | 3 | 1 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | unknown |
 | [JevOnAir](entries/finance-quant/valuecodes-jev-on-air.md) ⚑ | 0 | 0 | 週次 | 11 | 2026-11-09 | 2026-11-10 | 2026-11-10 | MIT |
 | [jev-polymarket-test](entries/finance-quant/truongxxxx-jev-polymarket-test.md) ⚑ | 0 | 0 | 停滞 | 0 | 2026-10-10 | 2026-11-10 | 2026-11-10 | MIT |
-
-### MCPサーバー（30）
-
-| 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
-|---|---:|---:|---|---:|---|---|---|---|
-| [REA](entries/mcp-server/morluto-rea.md) ⚑ | 446,665 | 110,198 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
-| [shadcn/ui](entries/mcp-server/shadcn-ui-ui.md) ⚑ | 127,807 | 11,332 | 毎日 | 84 | 2026-11-10 | 2026-11-10 | 2026-11-11 | MIT |
-| [Scrapling](entries/mcp-server/d4vinci-scrapling.md) | 100,495 | 10,502 | 毎日 | 97 | 2026-11-09 | 2026-11-09 | 2026-11-10 | BSD-3-Clause |
-| [Home Assistant Core](entries/mcp-server/home-assistant-core.md) ⚑ | 92,120 | 39,255 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | Apache-2.0 |
-| [Penpot](entries/mcp-server/penpot-penpot.md) ⚑ | 62,245 | 4,393 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | MPL-2.0 |
-| [Chrome DevTools for agents](entries/mcp-server/chromedevtools-chrome-devtools-mcp.md) ⚑ | 55,061 | 4,579 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-11 | Apache-2.0 |
-| [Playwright MCP](entries/mcp-server/microsoft-playwright-mcp.md) | 39,387 | 3,410 | 週次 | 18 | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [changedetection.io](entries/mcp-server/dgtlmoon-changedetection.io.md) ⚑ | 35,707 | 2,230 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | Apache-2.0 |
-| [OpenSEO](entries/mcp-server/every-app-open-seo.md) ⚑ | 27,127 | 3,759 | 毎日 | 100+ | 2026-11-07 | 2026-11-10 | 2026-11-11 | MIT |
-| [Framelink MCP for Figma](entries/mcp-server/glips-figma-context-mcp.md) ⚑ | 16,187 | 1,282 | 停滞 | 0 | 2026-10-27 | 2026-11-10 | 2026-11-10 | MIT |
-| [SolidCraft](entries/mcp-server/tangency-labs-solidcraft.md) ⚑ | 15,931 | 2,181 | 毎日 | 100+ | 2026-11-12 | 2026-11-12 | 2026-11-12 | Apache-2.0 |
-| [Apify MCP server](entries/mcp-server/apify-apify-mcp-server.md) ⚑ | 15,564 | 444 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-11 | MIT |
-| [OpenPencil](entries/mcp-server/open-pencil-open-pencil.md) ⚑ | 9,747 | 1,051 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-11 | MIT |
-| [treg（REA growth スキル同梱のエージェント用ツールレジストリ）](entries/mcp-server/superdesigndev-treg.md) | 7,723 | 704 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 + 追加条項（GitHub API は NOASSERTION） |
-| [21st MCP compatibility proxy (formerly Magic MCP)](entries/mcp-server/21st-dev-magic-mcp.md) ⚑ | 6,482 | 531 | 月次 | 0 | 2026-09-09 | 2026-11-14 | 2026-11-14 | ISC |
-| [Exa MCP Server](entries/mcp-server/exa-labs-exa-mcp-server.md) ⚑ | 5,221 | 414 | 週次 | 9 | 2026-11-05 | 2026-11-10 | 2026-11-10 | MIT |
-| [designlang](entries/mcp-server/manavarya09-design-extract.md) ⚑ | 5,003 | 415 | 毎日 | 24 | 2026-11-05 | 2026-11-10 | 2026-11-10 | MIT |
-| [New Term Radar](entries/mcp-server/zhuyansen-new-term-radar.md) ⚑ | 2,147 | 642 | 毎日 | 54 | 2026-11-02 | 2026-11-10 | 2026-11-10 | MIT |
-| [Gmail AutoAuth MCP Server](entries/mcp-server/gongrzhe-gmail-mcp-server.md) ⚑ | 1,169 | 416 | 停滞 | 0 | 2025-08-06 | 2026-11-10 | 2026-11-11 | MIT |
-| [World Intelligence MCP](entries/mcp-server/marc-shade-world-intel-mcp.md) | 1,067 | 176 | 毎日 | 100+ | 2026-10-18 | 2026-11-09 | 2026-11-10 | MIT |
-| [PicLite](entries/mcp-server/amiaoapp-piclite.md) ⚑ | 1,034 | 66 | 毎日 | 70 | 2026-11-06 | 2026-11-10 | 2026-11-10 | GPL-3.0 |
-| [ExcelMcp（本物のExcelをCOM経由でAIに操作させるMCPサーバ／CLI）](entries/mcp-server/sbroenne-mcp-server-excel.md) | 875 | 108 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
-| [Graphicle（コードグラフと記憶を1つのMCPサーバでエージェントに渡すRust製ツール）](entries/mcp-server/graphicle-ai-graphicle.md) | 543 | 41 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [DeepScrape](entries/mcp-server/stretchcloud-deepscrape.md) ⚑ | 337 | 28 | 月次 | 0 | 2026-08-21 | 2026-11-10 | 2026-11-10 | MIT |
-| [Material Painter](entries/mcp-server/alla2001-material-painter.md) ⚑ | 265 | 26 | 毎日 | 41 | 2026-11-07 | 2026-11-10 | 2026-11-10 | GPL-3.0 |
-| [pagesift](entries/mcp-server/yolow92-pagesift.md) ⚑ | 256 | 32 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | AGPL-3.0 |
-| [Moodle-MCP](entries/mcp-server/faixiang-moodle-mcp.md) ⚑ | 206 | 0 | 毎日 | 20 | 2026-11-01 | 2026-11-13 | 2026-11-14 | MIT |
-| [Kosh](entries/mcp-server/sachinyadavaug20-kosh.md) ⚑ | 4 | 0 | 毎日 | 61 | 2026-11-10 | 2026-11-10 | 2026-11-10 | Apache-2.0 |
-| [losslesscut-mcp](entries/mcp-server/bariswha-losslesscut-mcp.md) ⚑ | 4 | 0 | 月次 | 3 | 2026-11-12 | 2026-11-15 | 2026-11-15 | MIT |
-| [gmail-browser-mcp](entries/mcp-server/sparsh101sparsh-gmail-browser-mcp.md) ⚑ | 0 | 0 | 毎日 | 88 | 2026-11-13 | 2026-11-14 | 2026-11-14 | unknown |
 
 ### モデル推論・配信（29）
 
@@ -2139,6 +2140,7 @@
 - [21st MCP compatibility proxy (formerly Magic MCP)](entries/mcp-server/21st-dev-magic-mcp.md) — unverified / 旧Magic APIキーは無効で、新しいAPIキーが必要です。AI生成ツールはアカウントでAIアクセスが有効な場合に限り一覧に表示され、利用可能なAIクレジット残量はREADMEから確認できません。
 - [Exa MCP Server](entries/mcp-server/exa-labs-exa-mcp-server.md) — unverified / GitHub の最新リリース用 URL は一覧に転送され、最新リリースのタグと公開日時は確認できなかった。README は GitHub の raw ファイルで確認した。検索精度、本文取得の成功率、匿名枠の具体的な上限、発見投稿が述べる YouTube のトレンド検出や動画制作・収益化の成果は未検証。
 - [designlang](entries/mcp-server/manavarya09-design-extract.md) — unverified / 最新リリースの公開日時は未確認。抽出精度、サイト間での再現性、CLI・MCP の実動作は未検証。README の出力例は作者による掲載例。
+- [Basic Memory](entries/mcp-server/basicmachines-co-basic-memory.md) — unverified / 一次資料で未確認: 技術背景・有効性。
 - [New Term Radar](entries/mcp-server/zhuyansen-new-term-radar.md) — unverified / 理由未記入
 - [Gmail AutoAuth MCP Server](entries/mcp-server/gongrzhe-gmail-mcp-server.md) — unverified / READMEに記載のOAuth認証ではGoogle Cloudの設定と認証情報が必要。効果、依存関係の全容、料金はREADMEから確認できない。測定値ではリポジトリはアーカイブ済みで、直近30日・90日のコミットは0件。
 - [PicLite](entries/mcp-server/amiaoapp-piclite.md) — unverified / ['圧縮率・画質・処理時間、各OS向け配布バイナリと第三者MCPクライアントの実動作は未検証。プロジェクトは公式MCP SDKと実ファイルを使った試験を報告している。']
