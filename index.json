@@ -1,5 +1,5 @@
 {
-  "count": 1139,
+  "count": 1140,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -24963,6 +24963,37 @@
       "fetched_at": "2026-11-10T12:31:32+00:00",
       "path": "entries/other/christianmat-jev-pokemon.md",
       "summary": "Game Boy エミュレーターの RAM からマップ、手持ち、戦闘、表示テキストを取得する。行動候補にタイプ相性やダメージ見積もりを添えて Jev に渡し、選ばれた行動をボタン入力に変換する。"
+    },
+    {
+      "name": "muse-grok-x-search",
+      "genre": "other",
+      "url": "https://github.com/kgmkm/muse-grok-x-search",
+      "repo": "kgmkm/muse-grok-x-search",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "Grok Buildはベータ版で、利用可能なプランは変更される可能性がある。必要なプランや利用条件はセットアップ時に公式情報で確認すること。",
+      "stars": 108,
+      "forks": 17,
+      "open_issues": 0,
+      "size_kb": 14,
+      "language": "unknown",
+      "created": "2026-11-03",
+      "updated": "2026-11-03",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 2,
+      "commits_90d": 2,
+      "commit_cadence": "monthly",
+      "type": "repo",
+      "added": "2026-11-15",
+      "first_seen": "2026-11-15",
+      "sources": [
+        "https://x.com/noa_gpt/status/2121774600321486897"
+      ],
+      "fetched_at": "2026-11-15T05:24:57.545513+00:00",
+      "path": "entries/other/kgmkm-muse-grok-x-search.md",
+      "summary": "MuseからGrok Buildの組み込みx_searchを呼び出し、Xの公開投稿を検索する。READMEでは、日付・アカウント・URLとともにトレンド投稿、返信、引用を取得すると説明している。検索結果はGrokが生成する要約であり、重要な判断では元投稿をURLから確認するよう記載されている。"
     },
     {
       "name": "myradio",
