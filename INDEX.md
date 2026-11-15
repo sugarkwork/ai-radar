@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1160 件 — リポジトリ 789, リンク集 119, 記事 185, モデル 53, プロンプト 14 / ⚑ 要確認 929 件
+収録 1161 件 — リポジトリ 790, リンク集 119, 記事 185, モデル 53, プロンプト 14 / ⚑ 要確認 929 件
 
-## リポジトリ（789）
+## リポジトリ（790）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -166,7 +166,7 @@
 | [Pay Small Check](entries/other/ahmardchain-pay-small-check.md) ⚑ | 1 | 0 | 毎日 | 32 | 2026-11-07 | 2026-11-14 | 2026-11-14 | MIT |
 | [LapDraw](entries/other/sachinyadavaug20-lapdraw.md) ⚑ | 0 | 0 | 毎日 | 22 | 2026-11-07 | 2026-11-13 | 2026-11-13 | MIT |
 
-### コーディングエージェント（120）
+### コーディングエージェント（121）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -229,6 +229,7 @@
 | [Jevgrep](entries/coding-agent/dzhng-jevgrep.md) ⚑ | 3,205 | 245 | 毎日 | 71 | 2026-11-08 | 2026-11-10 | 2026-11-11 | MIT |
 | [Oil UI](entries/coding-agent/oil-oil-oil-ui.md) ⚑ | 3,102 | 177 | 毎日 | 52 | 2026-11-10 | 2026-11-10 | 2026-11-11 | MIT |
 | [yomiyasu（よみやす）](entries/coding-agent/nanaism-yomiyasu.md) ⚑ | 2,975 | 78 | 毎日 | 26 | 2026-11-10 | 2026-11-11 | 2026-11-11 | MIT |
+| [Three.js Game Skills](entries/coding-agent/majidmanzarpour-threejs-game-skills.md) | 2,815 | 284 | 停滞 | 0 | 2026-09-28 | 2026-11-15 | 2026-11-15 | MIT |
 | [DS Harness Remote](entries/coding-agent/liguobao-ds-harness-remote.md) ⚑ | 2,667 | 198 | 毎日 | 100+ | 2026-11-12 | 2026-11-12 | 2026-11-12 | MIT |
 | [Better Harness](entries/coding-agent/qoderai-better-harness.md) ⚑ | 2,444 | 204 | 週次 | 12 | 2026-11-07 | 2026-11-10 | 2026-11-10 | MIT |
 | [Rainman Translate Book](entries/coding-agent/deusyu-translate-book.md) ⚑ | 2,412 | 278 | 週次 | 8 | 2026-11-07 | 2026-11-15 | 2026-11-15 | MIT |

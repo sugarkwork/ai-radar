@@ -1,5 +1,5 @@
 {
-  "count": 1160,
+  "count": 1161,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -11683,6 +11683,35 @@
       "fetched_at": "2026-11-11T04:18:01.512443+00:00",
       "path": "entries/coding-agent/nanaism-yomiyasu.md",
       "summary": "AIが生成した日本語の不自然な比喩、曖昧な主述関係、不要な装飾を直し、読みやすい文章に整えるスキル。技術記事、設計書・仕様書、PR説明文、社内レポートなどの実務文書を主な対象とする。READMEでは、指示書（SKILL.md）と、直す前後で意味が変わる恐れのある箇所を示す検査ツールをまとめたものと説明されている。"
+    },
+    {
+      "name": "Three.js Game Skills",
+      "genre": "coding-agent",
+      "url": "https://github.com/majidmanzarpour/threejs-game-skills",
+      "repo": "majidmanzarpour/threejs-game-skills",
+      "stars": 2815,
+      "forks": 284,
+      "open_issues": 5,
+      "size_kb": 444,
+      "language": "Python",
+      "created": "2026-06-14",
+      "updated": "2026-09-28",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 0,
+      "commits_90d": 2,
+      "commit_cadence": "stale",
+      "flags": [],
+      "type": "repo",
+      "added": "2026-11-15",
+      "first_seen": "2026-11-15",
+      "risk_notes": "",
+      "sources": [
+        "https://x.com/Y0urDumble/status/2119023461267833047"
+      ],
+      "fetched_at": "2026-11-15T11:17:55.378348+00:00",
+      "path": "entries/coding-agent/majidmanzarpour-threejs-game-skills.md",
+      "summary": "CodexとClaude Code向けの共有スキル群を使い、Three.jsのブラウザーゲーム制作を支援する。ディレクタースキルがゲームプレイ、グラフィックス、UI、アセット生成、音声、デバッグ、リリース検証を適宜振り分ける。ゲーム用の雛形、決定論的テストフック、seed付き乱数、Playwrightのテストテンプレー"
     },
     {
       "name": "DS Harness Remote",
