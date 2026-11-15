@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1162 件 — リポジトリ 791, リンク集 119, 記事 185, モデル 53, プロンプト 14 / ⚑ 要確認 930 件
+収録 1163 件 — リポジトリ 792, リンク集 119, 記事 185, モデル 53, プロンプト 14 / ⚑ 要確認 931 件
 
-## リポジトリ（791）
+## リポジトリ（792）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（154）
+### その他（155）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -97,6 +97,7 @@
 | [软件屏蔽器（Malware-Patch）](entries/other/the1812-malware-patch.md) ⚑ | 5,644 | 333 | 停滞 | 0 | 2026-05-27 | 2026-11-14 | 2026-11-14 | MIT |
 | [Bumblebee](entries/other/perplexityai-bumblebee.md) ⚑ | 5,148 | 464 | 月次 | 0 | 2026-11-10 | 2026-11-12 | 2026-11-12 | Apache-2.0 |
 | [Y2A-Auto](entries/other/fqscfqj-y2a-auto.md) ⚑ | 4,749 | 797 | 週次 | 4 | 2026-10-28 | 2026-11-11 | 2026-11-11 | GPL-3.0 |
+| [Create](entries/other/creators-of-create-create.md) ⚑ | 4,618 | 1,446 | 週次 | 18 | 2026-11-15 | 2026-11-15 | 2026-11-15 | unknown |
 | [Storyboarder](entries/other/wonderunit-storyboarder.md) ⚑ | 3,946 | 404 | 停滞 | 0 | 2024-03-17 | 2026-11-11 | 2026-11-11 | unknown |
 | [Marp CLI](entries/other/marp-team-marp-cli.md) ⚑ | 3,922 | 207 | 月次 | 0 | 2026-09-08 | 2026-11-15 | 2026-11-15 | MIT |
 | [TweenJS](entries/other/createjs-tweenjs.md) ⚑ | 3,553 | 936 | 停滞 | 0 | 2023-12-18 | 2026-11-15 | 2026-11-15 | MIT |
@@ -2244,6 +2245,7 @@
 - [软件屏蔽器（Malware-Patch）](entries/other/the1812-malware-patch.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Bumblebee](entries/other/perplexityai-bumblebee.md) — unverified / 一次資料で未確認: 技術背景・有効性・実行条件。
 - [Y2A-Auto](entries/other/fqscfqj-y2a-auto.md) — unverified / The supplied README does not establish what permissions or platform terms apply to reposting videos; verify these before use.
+- [Create](entries/other/creators-of-create-create.md) — unverified / READMEには対応するMinecraftやmodローダーのバージョン、具体的な導入条件が記載されていない。 GitHub APIでライセンスを確認できていません。
 - [Storyboarder](entries/other/wonderunit-storyboarder.md) — unverified / ライセンスは確認できていません（GitHub API値: unknown）。 GitHub APIでライセンスを確認できていません。
 - [Marp CLI](entries/other/marp-team-marp-cli.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [TweenJS](entries/other/createjs-tweenjs.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。

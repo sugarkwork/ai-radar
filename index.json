@@ -1,5 +1,5 @@
 {
-  "count": 1162,
+  "count": 1163,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -23616,6 +23616,37 @@
       "fetched_at": "2026-11-11T19:04:09.729471+00:00",
       "path": "entries/other/fqscfqj-y2a-auto.md",
       "summary": "READMEによると、YouTube動画のダウンロード、音声認識による字幕生成、字幕翻訳・質疑・焼き込み、メタデータ生成、内容审核、AcFun／bilibiliへのアップロードを自動化する。Web管理画面でタスク確認や手動审核を行えるほか、YouTubeチャンネル・キーワード監視、通知、CookieCloud連携、CP"
+    },
+    {
+      "name": "Create",
+      "genre": "other",
+      "url": "https://github.com/Creators-of-Create/Create",
+      "repo": "Creators-of-Create/Create",
+      "license": "unknown",
+      "stars": 4618,
+      "language": "Java",
+      "created": "2019-07-18",
+      "updated": "2026-11-15",
+      "forks": 1446,
+      "open_issues": 1357,
+      "commits_30d": 18,
+      "commit_cadence": "weekly",
+      "commits_90d": 43,
+      "size_kb": 94661,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEには対応するMinecraftやmodローダーのバージョン、具体的な導入条件が記載されていない。 GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-15",
+      "first_seen": "2026-11-15",
+      "sources": [
+        "https://x.com/dextune/status/2118976752693203289"
+      ],
+      "fetched_at": "2026-11-15T13:09:07.179360+00:00",
+      "path": "entries/other/creators-of-create-create.md",
+      "summary": "Minecraftに、建築・装飾・見た目を重視した自動化のためのツールとブロックを追加する。アニメーションする部品を組み合わせた装置を、さまざまな構成で作れる。ゲーム内のビジュアルドキュメント「Ponder」が追加された仕組みや装置を案内する。出典: https://github.com/Creators-of-Cre"
     },
     {
       "name": "Storyboarder",
