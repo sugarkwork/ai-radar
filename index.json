@@ -1,5 +1,5 @@
 {
-  "count": 1155,
+  "count": 1156,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -3549,6 +3549,37 @@
       "fetched_at": "2026-11-10T16:23:08.901272+00:00",
       "path": "entries/agent-framework/langgenius-dify.md",
       "summary": "AIワークフローの構築・テスト、複数の推論プロバイダーやセルフホスト環境のモデル連携、プロンプト作成とモデル比較、文書取り込みから検索までのRAG、サンドボックス内でコマンド実行やファイル操作を行うエージェントを提供する。"
+    },
+    {
+      "name": "Awesome LLM Apps",
+      "genre": "agent-framework",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "repo": "Shubhamsaboo/awesome-llm-apps",
+      "stars": 144669,
+      "forks": 21292,
+      "open_issues": 7,
+      "size_kb": 222284,
+      "language": "Python",
+      "created": "2024-04-29",
+      "updated": "2026-11-15",
+      "archived": false,
+      "license": "Apache-2.0",
+      "commits_30d": 63,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 依存関係・実行条件。",
+      "type": "repo",
+      "added": "2026-11-15",
+      "first_seen": "2026-11-15",
+      "sources": [
+        "https://x.com/DAIEvolutionHub/status/2121642650965315953"
+      ],
+      "fetched_at": "2026-11-15T08:21:37.121041+00:00",
+      "path": "entries/agent-framework/shubhamsaboo-awesome-llm-apps.md",
+      "summary": "AIエージェント、エージェントスキル、RAGアプリなどのテンプレートを掲載しています。READMEには、コーディングエージェントへのスキル追加例と、旅行エージェントを実行する例があります。出典: https://github.com/Shubhamsaboo/awesome-llm-apps"
     },
     {
       "type": "repo",
