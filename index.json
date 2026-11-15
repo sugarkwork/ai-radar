@@ -1,5 +1,5 @@
 {
-  "count": 1150,
+  "count": 1151,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -4161,6 +4161,37 @@
       "fetched_at": "2026-11-13T23:19:15.427574+00:00",
       "path": "entries/agent-framework/anthropics-knowledge-work-plugins.md",
       "summary": "職務別プラグインを通じて、Claudeにスキル、外部ツール接続、スラッシュコマンドを提供する。READMEでは、生産性、営業、カスタマーサポート、製品管理、マーケティング、法務、財務、データ、企業内検索、バイオ研究、プラグイン管理の11種類を紹介している。"
+    },
+    {
+      "name": "The Hugging Face Agents Course",
+      "genre": "agent-framework",
+      "url": "https://github.com/huggingface/agents-course",
+      "repo": "huggingface/agents-course",
+      "stars": 34943,
+      "forks": 2505,
+      "open_issues": 191,
+      "size_kb": 28517,
+      "language": "MDX",
+      "created": "2025-01-16",
+      "updated": "2026-11-10",
+      "archived": false,
+      "license": "Apache-2.0",
+      "commits_30d": 2,
+      "commits_90d": 7,
+      "commit_cadence": "monthly",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景・有効性・実行条件。",
+      "type": "repo",
+      "added": "2026-11-15",
+      "first_seen": "2026-11-15",
+      "sources": [
+        "https://x.com/DAIEvolutionHub/status/2121642650965315953"
+      ],
+      "fetched_at": "2026-11-15T08:18:08.752842+00:00",
+      "path": "entries/agent-framework/huggingface-agents-course.md",
+      "summary": "AIエージェントの基礎、smolagents・LlamaIndex・LangGraph、Agentic RAG、エージェントの評価を学べます。"
     },
     {
       "repo": "vxcontrol/pentagi",
