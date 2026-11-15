@@ -1,5 +1,5 @@
 {
-  "count": 1156,
+  "count": 1157,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -22758,6 +22758,37 @@
       "fetched_at": "2026-11-13T23:13:48.097421+00:00",
       "path": "entries/other/thaw-app-thaw.md",
       "summary": "macOSのメニューバー項目を隠し、必要時に戻す、グループ化する、プロファイルを切り替える、レイアウトを変更する、Zen Modeを使う機能をREADMEが説明しています。項目をキー操作で探せるほか、thaw://リンク経由でRaycast、Floe、Shortcuts、シェルスクリプトから操作できると記載されています"
+    },
+    {
+      "name": "Betaflight",
+      "genre": "other",
+      "url": "https://github.com/betaflight/betaflight",
+      "repo": "betaflight/betaflight",
+      "stars": 11791,
+      "forks": 4169,
+      "open_issues": 191,
+      "size_kb": 420863,
+      "language": "C",
+      "created": "2015-06-08",
+      "updated": "2026-11-15",
+      "archived": false,
+      "license": "GPL-3.0",
+      "commits_30d": 100,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 依存関係。",
+      "type": "repo",
+      "added": "2026-11-15",
+      "first_seen": "2026-11-15",
+      "sources": [
+        "https://x.com/dextune/status/2118954101014733277"
+      ],
+      "fetched_at": "2026-11-15T08:35:12.403758+00:00",
+      "path": "entries/other/betaflight-betaflight.md",
+      "summary": "ドローン向けフライトコントローラーファームウェアです。READMEは、モータープロトコル、Blackbox飛行記録、受信機接続とフェイルセーフ、テレメトリ、OSD、PID・フィルター調整などを機能として挙げています。出典: https://github.com/betaflight/betaflight"
     },
     {
       "name": "VidBee",

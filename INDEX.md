@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1156 件 — リポジトリ 786, リンク集 119, 記事 184, モデル 53, プロンプト 14 / ⚑ 要確認 926 件
+収録 1157 件 — リポジトリ 787, リンク集 119, 記事 184, モデル 53, プロンプト 14 / ⚑ 要確認 927 件
 
-## リポジトリ（786）
+## リポジトリ（787）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（152）
+### その他（153）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Konva](entries/other/konvajs-konva.md) ⚑ | 14,961 | 1,074 | 毎日 | 26 | 2026-11-10 | 2026-11-15 | 2026-11-15 | unknown |
 | [Horizon](entries/other/thysrael-horizon.md) | 13,147 | 1,876 | 毎日 | 80 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
 | [Thaw](entries/other/thaw-app-thaw.md) ⚑ | 12,708 | 345 | 毎日 | 100+ | 2026-11-13 | 2026-11-13 | 2026-11-14 | GPL-3.0 |
+| [Betaflight](entries/other/betaflight-betaflight.md) ⚑ | 11,791 | 4,169 | 毎日 | 100+ | 2026-11-15 | 2026-11-15 | 2026-11-15 | GPL-3.0 |
 | [VidBee](entries/other/nexmoe-vidbee.md) ⚑ | 11,135 | 874 | 週次 | 13 | 2026-11-08 | 2026-11-13 | 2026-11-13 | MIT |
 | [minbpe](entries/other/karpathy-minbpe.md) ⚑ | 11,021 | 1,150 | 停滞 | 0 | 2024-07-01 | 2026-11-10 | 2026-11-10 | MIT |
 | [微信视频号下载器](entries/other/ltaoo-wx_channels_download.md) ⚑ | 10,534 | 1,748 | 週次 | 5 | 2026-11-12 | 2026-11-13 | 2026-11-13 | unknown |
@@ -2216,6 +2217,7 @@
 - [Shotcut](entries/other/mltframework-shotcut.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Konva](entries/other/konvajs-konva.md) — unverified / GitHub APIでライセンスを確認できていません。
 - [Thaw](entries/other/thaw-app-thaw.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
+- [Betaflight](entries/other/betaflight-betaflight.md) — unverified / 一次資料で未確認: 依存関係。
 - [VidBee](entries/other/nexmoe-vidbee.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [minbpe](entries/other/karpathy-minbpe.md) — unverified / 最新リリース、対応するPython・依存ライブラリのバージョン範囲、cl100k_baseとの出力一致、実行時間は未検証。互換性と所要時間はREADMEの著者報告に基づく。
 - [微信视频号下载器](entries/other/ltaoo-wx_channels_download.md) — unverified / README記載の利用には管理者権限での実行と証明書のインストールが必要です。ライセンスはAPIでunknownと確認されています。 GitHub APIでライセンスを確認できていません。
