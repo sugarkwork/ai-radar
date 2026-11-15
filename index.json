@@ -1,5 +1,5 @@
 {
-  "count": 1140,
+  "count": 1141,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -28647,6 +28647,37 @@
       "type": "repo",
       "path": "entries/tts-audio/k2-fsa-omnivoice.md",
       "summary": "600言語以上に対応するゼロショット TTS。参照音声を数秒渡すだけで声質を複製（voice cloning）できる。"
+    },
+    {
+      "name": "F5-TTS",
+      "genre": "tts-audio",
+      "url": "https://github.com/SWivid/F5-TTS",
+      "repo": "SWivid/F5-TTS",
+      "license": "MIT",
+      "stars": 15588,
+      "language": "Python",
+      "created": "2024-10-08",
+      "updated": "2026-11-03",
+      "forks": 2280,
+      "open_issues": 69,
+      "commits_30d": 3,
+      "commit_cadence": "monthly",
+      "commits_90d": 7,
+      "size_kb": 2429,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEのベンチマーク値は単一のL20 GPU、26組の入力、16 NFEという条件での報告です。別環境での性能は確認できません。",
+      "type": "repo",
+      "added": "2026-11-15",
+      "first_seen": "2026-11-15",
+      "sources": [
+        "https://x.com/noa_gpt/status/2121774600321486897"
+      ],
+      "fetched_at": "2026-11-15T05:29:04.266720+00:00",
+      "path": "entries/tts-audio/swivid-f5-tts.md",
+      "summary": "READMEでは、GradioアプリとCLIによる音声合成、チャンク推論、複数スタイル・話者の生成、音声を参照した生成、学習・ファインチューニング、評価を案内しています。GradioアプリにはQwen2.5-3B-Instructを利用するVoice Chat機能も記載されています。"
     },
     {
       "repo": "Open-LLM-VTuber/Open-LLM-VTuber",
