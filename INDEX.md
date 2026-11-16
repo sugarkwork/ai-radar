@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1230 件 — リポジトリ 837, リンク集 120, 記事 206, モデル 53, プロンプト 14 / ⚑ 要確認 986 件
+収録 1231 件 — リポジトリ 838, リンク集 120, 記事 206, モデル 53, プロンプト 14 / ⚑ 要確認 987 件
 
-## リポジトリ（837）
+## リポジトリ（838）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -822,7 +822,7 @@
 | [Grok Bot Teams](entries/prompt-design/ellelion-botteams.md) ⚑ | 26 | 6 | 月次 | 0 | 2026-09-08 | 2026-11-10 | 2026-11-10 | MIT |
 | [GUntilB/Anima-Prompt-Generator](entries/prompt-design/guntilb-anima-prompt-generator.md) ⚑ | 13 | 1 | 月次 | 3 | 2026-11-08 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
 
-### 画像生成・編集（27）
+### 画像生成・編集（28）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -845,6 +845,7 @@
 | [gifenc](entries/image-gen/mattdesl-gifenc.md) ⚑ | 357 | 29 | 停滞 | 0 | 2024-09-19 | 2026-11-15 | 2026-11-15 | MIT |
 | [ComfyUI AICG3D PoseSwap](entries/image-gen/jgrfw-comfyui-pose-swap.md) | 330 | 47 | 週次 | 7 | 2026-11-01 | 2026-11-09 | 2026-11-10 | MIT |
 | [Anima Reference Adapter for ComfyUI](entries/image-gen/arcanima-comfyui-anima-ref-adapter.md) ⚑ | 234 | 14 | 週次 | 12 | 2026-10-31 | 2026-11-11 | 2026-11-11 | Apache-2.0 |
+| [Tost AI - Sprite Sheet Studio](entries/image-gen/camenduru-tostai-sprite-sheet-studio.md) ⚑ | 88 | 6 | 月次 | 0 | 2026-10-02 | 2026-11-16 | 2026-11-16 | unknown |
 | [MiniMax-H3-Image](entries/image-gen/minimax-ai-minimax-h3-image.md) ⚑ | 85 | 2 | 月次 | 1 | 2026-11-10 | 2026-11-11 | 2026-11-11 | unknown |
 | [Iris-3B Metal](entries/image-gen/tky-27-iris-3b-metal.md) | 58 | 2 | 毎日 | 36 | 2026-10-19 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
 | [Lyricccco/tailsteer](entries/image-gen/lyricccco-tailsteer.md) ⚑ | 49 | 1 | 週次 | 11 | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
@@ -2129,6 +2130,7 @@
 - [ray-sticker-shop](entries/image-gen/imraywang-ray-sticker-shop.md) — unverified / README указывает ориентировочную стоимость около $0.7 для 8 стикеров и 5 дополнительных материалов по официальным тарифам OpenAI; фактическая стоимость зависит от повторной генерации. Прохождение модерации и доход не гарантируются.
 - [gifenc](entries/image-gen/mattdesl-gifenc.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Anima Reference Adapter for ComfyUI](entries/image-gen/arcanima-comfyui-anima-ref-adapter.md) — unverified / アダプターの重みはCircleStone Non-Commercialライセンス。READMEではコードのライセンスをApache-2.0としている。
+- [Tost AI - Sprite Sheet Studio](entries/image-gen/camenduru-tostai-sprite-sheet-studio.md) — unverified / APIでライセンスがunknown。VRMBG-3.0はゲート付きで、モデル取得にHF_TOKENが必要。Docker実行にはNVIDIA GPU（最低4GB VRAM）が必要とREADMEに記載されている。 GitHub APIでライセンスを確認できていません。
 - [MiniMax-H3-Image](entries/image-gen/minimax-ai-minimax-h3-image.md) — unverified / READMEはライセンスを示すバッジとLICENSEへのリンクを掲載していますが、ライセンス名や利用条件は確認できません。 GitHub APIでライセンスを確認できていません。
 - [Lyricccco/tailsteer](entries/image-gen/lyricccco-tailsteer.md) — unverified / 主な保持定量評価は10ターン。編集精度RISEが低下した値も公開され、保持と指示追従の両方が一律に向上したわけではない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [rhinoc/xprite-lighter](entries/image-gen/rhinoc-xprite-lighter.md) — unverified / MIT表記を原チェックで確認。派生版のAPI互換性・現行版と同じ処理品質は未試験。 当方でインストール・推論・生成・ベンチ再現はしていない。

@@ -1,5 +1,5 @@
 {
-  "count": 1230,
+  "count": 1231,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -16668,6 +16668,37 @@
       "fetched_at": "2026-11-11T06:16:24.804050+00:00",
       "path": "entries/image-gen/arcanima-comfyui-anima-ref-adapter.md",
       "summary": "Animaに参照画像を与え、プロンプトで指定した場面に合わせてキャラクターの外見や画風を保つことを目指す。参照画像2枚を並べて、1枚の画像に2キャラクターを出す手順もREADMEに記載されている。これらは作者の説明であり、独立した実測結果ではない。"
+    },
+    {
+      "name": "Tost AI - Sprite Sheet Studio",
+      "genre": "image-gen",
+      "url": "https://github.com/camenduru/TostAI-Sprite-Sheet-Studio",
+      "repo": "camenduru/TostAI-Sprite-Sheet-Studio",
+      "license": "unknown",
+      "stars": 88,
+      "language": "Python",
+      "created": "2026-09-26",
+      "updated": "2026-10-02",
+      "forks": 6,
+      "open_issues": 0,
+      "commits_30d": 0,
+      "commit_cadence": "monthly",
+      "commits_90d": 14,
+      "size_kb": 991,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "APIでライセンスがunknown。VRMBG-3.0はゲート付きで、モデル取得にHF_TOKENが必要。Docker実行にはNVIDIA GPU（最低4GB VRAM）が必要とREADMEに記載されている。 GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-16",
+      "first_seen": "2026-11-16",
+      "sources": [
+        "https://x.com/dextune/status/2119044699583635664"
+      ],
+      "fetched_at": "2026-11-16T09:22:34.973247+00:00",
+      "path": "entries/image-gen/camenduru-tostai-sprite-sheet-studio.md",
+      "summary": "動画から背景を除去してスプライトシートを生成し、サイドカーJSON、プレビュー、GIFを作成する。既存のシートではピボット調整、マット修正、色抜き、再グリッド化、タイミング調整、再出力ができる。背景除去にはVRMBG-3.0、任意のマスク動画、または元動画のアルファを使う選択肢がある。出典: README（https:"
     },
     {
       "name": "MiniMax-H3-Image",
