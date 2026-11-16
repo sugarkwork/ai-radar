@@ -1,5 +1,5 @@
 {
-  "count": 1180,
+  "count": 1181,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -23708,6 +23708,37 @@
       "fetched_at": "2026-11-13T06:25:23.508893+00:00",
       "path": "entries/other/neet-nestor-telegram-media-downloader.md",
       "summary": "Telegram Web のチャット、ストーリー、プライベートチャンネルで画像・GIF・音声・動画のダウンロード操作を追加するユーザースクリプト。ダウンロード制限が有効な場合に、画像・GIF・動画のボタンを追加するとREADMEは説明している。音声メッセージのダウンロードなど一部機能は /k/ 版のみ。ダウンロードパネ"
+    },
+    {
+      "name": "Blockbench",
+      "genre": "other",
+      "url": "https://github.com/JannisX11/blockbench",
+      "repo": "JannisX11/blockbench",
+      "license": "GPL-3.0",
+      "stars": 6213,
+      "language": "JavaScript",
+      "created": "2017-06-08",
+      "updated": "2026-11-15",
+      "forks": 543,
+      "open_issues": 696,
+      "commits_30d": 1,
+      "commit_cadence": "monthly",
+      "commits_90d": 100,
+      "size_kb": 60886,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 有効性・依存関係。",
+      "type": "repo",
+      "added": "2026-11-16",
+      "first_seen": "2026-11-16",
+      "sources": [
+        "https://x.com/dextune/status/2119000656455614716"
+      ],
+      "fetched_at": "2026-11-16T00:19:17.337548+00:00",
+      "path": "entries/other/jannisx11-blockbench.md",
+      "summary": "ローポリモデルとピクセルアートテクスチャを編集できる。モデルを標準形式に書き出して共有、レンダリング、3Dプリント、ゲームエンジンでの利用に使える。Minecraft Java EditionおよびBedrock Edition向けの形式にも対応し、プラグインで機能を拡張できる。"
     },
     {
       "name": "Rapier",
