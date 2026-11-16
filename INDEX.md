@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1184 件 — リポジトリ 811, リンク集 119, 記事 187, モデル 53, プロンプト 14 / ⚑ 要確認 949 件
+収録 1185 件 — リポジトリ 811, リンク集 120, 記事 187, モデル 53, プロンプト 14 / ⚑ 要確認 949 件
 
 ## リポジトリ（811）
 
@@ -956,9 +956,9 @@
 - **[MiniMax H3：20種のダンスと音楽指定](prompts/video-gen/minimax-h3-20-dance-music.md)** ⚑  MiniMax H3 / EndFolding79421
   - キャラクターシートを参照し、6秒間の全身ダンスと音楽・環境音を指示するための投稿者のテンプレート。ダンス20種類の音楽指定例を含む。
 
-## リンク集（119）
+## リンク集（120）
 
-### リンク（サービス・ツール）（21）
+### リンク（サービス・ツール）（22）
 
 - **[Aura](links/link-service/aura.build-aura.md)** ⚑  freemium / DESIGNCODE IO PTE. LTD.（Meng To / DesignCode）
   - テキストプロンプトからランディングページやマルチページのウェブサイトを生成し、ブラウザ上で視覚編集して公開・書き出しまで完結させるサービス。公式は「AI landing page builder that creates stunning designs in seconds」と説明している。
@@ -972,6 +972,8 @@
   - 業務上対応が必要な項目の通知と、依頼作業のバックグラウンド処理。
 - **[CompShare（優云智算）](links/link-service/compshare.cn-compshare.md)** ⚑  paid / UCloud（优刻得科技）
   - UCloud（优刻得）系の GPU クラウド。AI の学習・推論・画像生成用に GPU インスタンスを時間・日・月単位で借りる。
+- **[Google Antigravity — Get started](links/link-service/antigravity.google-google-antigravity-get-started.md)**
+  - Google AntigravityをApp、CLI、IDE拡張、SDKのいずれかで使い始めるための公式ガイド。
 - **[Grok Bot](links/link-service/docs.x.ai-grok-bot.md)** ⚑  paid / xAI
   - xAI の常駐型 AI チーム。名前を付けた Bot がクラウド上の実コンピュータ（ブラウザ・ファイルシステム・ターミナル）を共有し、指示した仕事を継続して実行する。
 - **[Grok Bot Marketplace](links/link-service/x.ai-grok-bot-marketplace.md)** ⚑  paid / xAI

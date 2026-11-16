@@ -1,5 +1,5 @@
 {
-  "count": 1184,
+  "count": 1185,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -18502,6 +18502,25 @@
       "fetched_at": "2026-11-06T21:06:07Z",
       "path": "links/link-service/compshare.cn-compshare.md",
       "summary": "UCloud（优刻得）系の GPU クラウド。AI の学習・推論・画像生成用に GPU インスタンスを時間・日・月単位で借りる。"
+    },
+    {
+      "name": "Google Antigravity — Get started",
+      "genre": "link-service",
+      "url": "https://antigravity.google/docs/getting-started/",
+      "pricing": "unknown",
+      "pricing_detail": "このガイドに料金の説明なし。",
+      "signup_required": true,
+      "flags": [],
+      "type": "link",
+      "added": "2026-11-16",
+      "first_seen": "2026-11-16",
+      "risk_notes": "",
+      "sources": [
+        "https://x.com/tetumemo/status/2119007030161858775"
+      ],
+      "fetched_at": "2026-11-16T01:16:29Z",
+      "path": "links/link-service/antigravity.google-google-antigravity-get-started.md",
+      "summary": "Google AntigravityをApp、CLI、IDE拡張、SDKのいずれかで使い始めるための公式ガイド。"
     },
     {
       "name": "Grok Bot",
