@@ -1,5 +1,5 @@
 {
-  "count": 1252,
+  "count": 1253,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -959,6 +959,35 @@
       "last_release_at": "2026-07-09",
       "path": "entries/3d-motion/pixiv-three-vrm.md",
       "summary": "Three.jsのGLTFLoaderへVRMLoaderPluginを登録しVRMを読み込むpixivのライブラリ。"
+    },
+    {
+      "name": "DSH × Blender",
+      "genre": "3d-motion",
+      "url": "https://github.com/sixtysevenlf/dsh-blender-plugin",
+      "repo": "sixtysevenlf/dsh-blender-plugin",
+      "stars": 2147,
+      "forks": 94,
+      "open_issues": 9,
+      "size_kb": 10781,
+      "language": "Python",
+      "created": "2026-09-13",
+      "updated": "2026-11-12",
+      "archived": false,
+      "license": "BSD-3-Clause",
+      "commits_30d": 100,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "flags": [],
+      "type": "repo",
+      "added": "2026-11-16",
+      "first_seen": "2026-11-16",
+      "risk_notes": "",
+      "sources": [
+        "https://x.com/zhngzhom1/status/2119087220170932350"
+      ],
+      "fetched_at": "2026-11-16T19:12:25.937604+00:00",
+      "path": "entries/3d-motion/sixtysevenlf-dsh-blender-plugin.md",
+      "summary": "DSHのエージェントをBlenderに接続し、シーンの確認・変更・検証・書き出しを行う。GUIでの対話操作のほか、GUIがない場合のheadlessジョブ、参照画像の計測、パラメトリック面の生成と検査、アセンブリの監査・修復、レンダー比較による受け入れ判定などをREADMEが説明している。"
     },
     {
       "repo": "VAST-AI-Research/UniRig",

@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1252 件 — リポジトリ 857, リンク集 120, 記事 208, モデル 53, プロンプト 14 / ⚑ 要確認 1006 件
+収録 1253 件 — リポジトリ 858, リンク集 120, 記事 208, モデル 53, プロンプト 14 / ⚑ 要確認 1006 件
 
-## リポジトリ（857）
+## リポジトリ（858）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -565,7 +565,7 @@
 | [utillayer/youtube-agent-skill](entries/video-gen/utillayer-youtube-agent-skill.md) ⚑ | 14 | 2 | 週次 | 16 | 2026-10-29 | 2026-11-09 | 2026-11-10 | MIT |
 | [BennyDaBall930/comfyui_hyperflow_int8_nodes](entries/video-gen/bennydaball930-comfyui_hyperflow_int8_nodes.md) ⚑ | 3 | 0 | 週次 | 10 | 2026-11-09 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
 
-### 3D・モーション（76）
+### 3D・モーション（77）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -598,6 +598,7 @@
 | [Sverchok](entries/3d-motion/nortikin-sverchok.md) ⚑ | 2,557 | 247 | 毎日 | 24 | 2026-11-10 | 2026-11-11 | 2026-11-11 | GPL-3.0 |
 | [Blender Skills（94 specialist Blender skills）](entries/3d-motion/arjun988-blender-skills.md) ⚑ | 2,331 | 211 | 月次 | 1 | 2026-11-06 | 2026-11-09 | 2026-11-10 | MIT |
 | [pixiv/three-vrm](entries/3d-motion/pixiv-three-vrm.md) ⚑ | 2,279 | 202 | 月次 | 3 | 2026-10-22 | 2026-11-09 | 2026-11-10 | MIT |
+| [DSH × Blender](entries/3d-motion/sixtysevenlf-dsh-blender-plugin.md) | 2,147 | 94 | 毎日 | 100+ | 2026-11-12 | 2026-11-16 | 2026-11-16 | BSD-3-Clause |
 | [UniRig](entries/3d-motion/vast-ai-research-unirig.md) | 2,081 | 206 | 停滞 | 0 | 2026-06-04 | 2026-11-09 | 2026-11-10 | MIT |
 | [three-gpu-pathtracer](entries/3d-motion/gkjohnson-three-gpu-pathtracer.md) ⚑ | 2,037 | 200 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | MIT |
 | [sand3d](entries/3d-motion/sandflow-ai-sand3d.md) ⚑ | 1,999 | 221 | 毎日 | 25 | 2026-11-14 | 2026-11-15 | 2026-11-15 | Apache-2.0 |
