@@ -1,5 +1,5 @@
 {
-  "count": 1210,
+  "count": 1211,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -23681,6 +23681,37 @@
       "fetched_at": "2026-11-15T03:20:11.463195+00:00",
       "path": "entries/other/konvajs-konva.md",
       "summary": "対話型2D Canvas描画のためのシーングラフを提供します。図形ごとのイベント、ドラッグ操作、変形、アニメーション、キャッシュ、書き出しを利用でき、デザインエディタ、ホワイトボード、図表、注釈、地図などの視覚ツールに使えます。React、Vue、Svelte、Angular向け連携パッケージも案内されています。"
+    },
+    {
+      "name": "Tone.js",
+      "genre": "other",
+      "url": "https://github.com/Tonejs/Tone.js",
+      "repo": "Tonejs/Tone.js",
+      "stars": 14918,
+      "forks": 1094,
+      "open_issues": 52,
+      "size_kb": 26161,
+      "language": "TypeScript",
+      "created": "2014-03-11",
+      "updated": "2026-11-15",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 38,
+      "commits_90d": 80,
+      "commit_cadence": "daily",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 依存関係。",
+      "type": "repo",
+      "added": "2026-11-16",
+      "first_seen": "2026-11-16",
+      "sources": [
+        "https://x.com/xoom777/status/2122155858499109073"
+      ],
+      "fetched_at": "2026-11-16T06:25:08.839455+00:00",
+      "path": "entries/other/tonejs-tone.js.md",
+      "summary": "ブラウザー上の音楽アプリ向けに、シンセサイザーやエフェクト、サンプル再生、AudioContext時間に沿ったイベントのスケジューリングを提供する。Transportを使ってイベントやパートを同期できる。"
     },
     {
       "repo": "Thysrael/Horizon",

@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1210 件 — リポジトリ 833, リンク集 120, 記事 190, モデル 53, プロンプト 14 / ⚑ 要確認 971 件
+収録 1211 件 — リポジトリ 834, リンク集 120, 記事 190, モデル 53, プロンプト 14 / ⚑ 要確認 972 件
 
-## リポジトリ（833）
+## リポジトリ（834）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（165）
+### その他（166）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -71,6 +71,7 @@
 | [claude-obsidian](entries/other/agricidaniel-claude-obsidian.md) ⚑ | 16,310 | 1,598 | 毎日 | 69 | 2026-10-25 | 2026-11-10 | 2026-11-10 | MIT |
 | [Shotcut](entries/other/mltframework-shotcut.md) ⚑ | 15,654 | 1,565 | 毎日 | 51 | 2026-11-11 | 2026-11-11 | 2026-11-11 | GPL-3.0 |
 | [Konva](entries/other/konvajs-konva.md) ⚑ | 14,961 | 1,074 | 毎日 | 26 | 2026-11-10 | 2026-11-15 | 2026-11-15 | unknown |
+| [Tone.js](entries/other/tonejs-tone.js.md) ⚑ | 14,918 | 1,094 | 毎日 | 38 | 2026-11-15 | 2026-11-16 | 2026-11-16 | MIT |
 | [Horizon](entries/other/thysrael-horizon.md) | 13,147 | 1,876 | 毎日 | 80 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
 | [Paper](entries/other/papermc-paper.md) ⚑ | 12,815 | 3,564 | 毎日 | 58 | 2026-11-15 | 2026-11-16 | 2026-11-16 | unknown |
 | [Thaw](entries/other/thaw-app-thaw.md) ⚑ | 12,708 | 345 | 毎日 | 100+ | 2026-11-13 | 2026-11-13 | 2026-11-14 | GPL-3.0 |
@@ -2298,6 +2299,7 @@
 - [claude-obsidian](entries/other/agricidaniel-claude-obsidian.md) — unverified / 理由未記入
 - [Shotcut](entries/other/mltframework-shotcut.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Konva](entries/other/konvajs-konva.md) — unverified / GitHub APIでライセンスを確認できていません。
+- [Tone.js](entries/other/tonejs-tone.js.md) — unverified / 一次資料で未確認: 依存関係。
 - [Paper](entries/other/papermc-paper.md) — unverified / ライセンスは取得済みデータでunknownです。READMEにはライセンスの記載がありません。 GitHub APIでライセンスを確認できていません。
 - [Thaw](entries/other/thaw-app-thaw.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Betaflight](entries/other/betaflight-betaflight.md) — unverified / 一次資料で未確認: 依存関係。
