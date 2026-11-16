@@ -1,5 +1,5 @@
 {
-  "count": 1206,
+  "count": 1207,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -20326,6 +20326,37 @@
       "fetched_at": "2026-11-16T05:27:49.192451+00:00",
       "path": "entries/model-serving/ggml-org-llama.cpp.md",
       "summary": "C/C++でLLMおよびVLMの推論を実行する。量子化、CPU・GPUハイブリッド推論、複数のハードウェア向けバックエンドに対応するとREADMEは説明している。llama cliによるモデル実行と、OpenAI互換APIサーバーのllama serveを利用できる。"
+    },
+    {
+      "name": "vLLM",
+      "genre": "model-serving",
+      "url": "https://github.com/vllm-project/vllm",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEには、必要なGPU・CPUの最低要件や対応するソフトウェアのバージョン条件が記載されていません。",
+      "repo": "vllm-project/vllm",
+      "stars": 96992,
+      "forks": 24870,
+      "open_issues": 10430,
+      "size_kb": 365543,
+      "language": "Python",
+      "created": "2023-02-09",
+      "updated": "2026-11-16",
+      "archived": false,
+      "license": "Apache-2.0",
+      "commits_30d": 100,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "type": "repo",
+      "added": "2026-11-16",
+      "first_seen": "2026-11-16",
+      "sources": [
+        "https://x.com/naka_1717/status/2119034856676159987"
+      ],
+      "fetched_at": "2026-11-16T05:29:33.518506+00:00",
+      "path": "entries/model-serving/vllm-project-vllm.md",
+      "summary": "LLMの推論・サービング用ライブラリ。READMEはPagedAttentionによるKVメモリ管理、連続バッチ処理、量子化、分散推論、ストリーミング出力、構造化出力、ツール呼び出し、OpenAI互換APIサーバーなどを機能として挙げています。また、Hugging Face上の200超のモデルアーキテクチャをサポートす"
     },
     {
       "repo": "cheaper-inference/OmniRoute",
