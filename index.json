@@ -1,5 +1,5 @@
 {
-  "count": 1202,
+  "count": 1203,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -24337,6 +24337,37 @@
       "last_release_at": "2026-10-30",
       "path": "entries/other/wyattblue-auto-editor.md",
       "summary": "音声のラウドネス（既定 audio:threshold=0.04）、モーション、黒フレーム、字幕の語句一致から「切る区間」を判定し、初稿を書き出す。入力は動画・音声のほか、yt-dlp 導入時の URL、:mic でのマイク録音にも対応"
+    },
+    {
+      "name": "gifski",
+      "genre": "other",
+      "url": "https://github.com/ImageOptim/gifski",
+      "repo": "ImageOptim/gifski",
+      "license": "unknown",
+      "stars": 5710,
+      "language": "Rust",
+      "created": "2017-11-01",
+      "updated": "2026-06-17",
+      "forks": 183,
+      "open_issues": 38,
+      "commits_30d": 0,
+      "commit_cadence": "stale",
+      "commits_90d": 0,
+      "size_kb": 709,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "GitHub APIのライセンス値はunknown。READMEにはAGPL 3 or laterと記載されているが、商用ライセンスの条件・料金は確認できない。 GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-16",
+      "first_seen": "2026-11-16",
+      "sources": [
+        "https://x.com/taki_auto/status/2122162883320848580"
+      ],
+      "fetched_at": "2026-11-16T05:24:34.784426+00:00",
+      "path": "entries/other/imageoptim-gifski.md",
+      "summary": "動画フレームをGIFアニメーションに変換するCLIツール。PNGフレームの入力にも対応し、Cライブラリとして他のアプリから利用できる。幅・高さや品質設定を調整できる。"
     },
     {
       "name": "软件屏蔽器（Malware-Patch）",
