@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1179 件 — リポジトリ 807, リンク集 119, 記事 186, モデル 53, プロンプト 14 / ⚑ 要確認 946 件
+収録 1180 件 — リポジトリ 807, リンク集 119, 記事 187, モデル 53, プロンプト 14 / ⚑ 要確認 946 件
 
 ## リポジトリ（807）
 
@@ -98,7 +98,7 @@
 | [软件屏蔽器（Malware-Patch）](entries/other/the1812-malware-patch.md) ⚑ | 5,644 | 333 | 停滞 | 0 | 2026-05-27 | 2026-11-14 |  | MIT |
 | [Bumblebee](entries/other/perplexityai-bumblebee.md) ⚑ | 5,148 | 464 | 月次 | 0 | 2026-11-10 | 2026-11-12 |  | Apache-2.0 |
 | [Y2A-Auto](entries/other/fqscfqj-y2a-auto.md) ⚑ | 4,749 | 797 | 週次 | 4 | 2026-10-28 | 2026-11-11 |  | GPL-3.0 |
-| [Screenbox](entries/other/huynhsontung-screenbox.md) ⚑ | 4,700 | 222 | 毎日 | 20 | 2026-11-15 | 2026-11-16 | 2026-11-16 | GPL-3.0 |
+| [Screenbox](entries/other/huynhsontung-screenbox.md) ⚑ | 4,700 | 222 | 毎日 | 20 | 2026-11-15 | 2026-11-16 |  | GPL-3.0 |
 | [Create](entries/other/creators-of-create-create.md) ⚑ | 4,618 | 1,446 | 週次 | 18 | 2026-11-15 | 2026-11-15 |  | unknown |
 | [Storyboarder](entries/other/wonderunit-storyboarder.md) ⚑ | 3,946 | 404 | 停滞 | 0 | 2024-03-17 | 2026-11-11 |  | unknown |
 | [Marp CLI](entries/other/marp-team-marp-cli.md) ⚑ | 3,922 | 207 | 月次 | 0 | 2026-09-08 | 2026-11-15 |  | MIT |
@@ -1375,9 +1375,9 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（186）
+## 記事（187）
 
-### 記事（123）
+### 記事（124）
 
 - **[$0のデジタル参謀長で月$80,000の契約候補を作ったというX投稿（動画付き）](articles/2026-10-22-bober_smart-0-80-000-x.md)** ⚑  @Bober_smart
 - **[1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md)** ⚑  @mukadeshinigami（mukade死神）
@@ -1471,6 +1471,7 @@
 - **[Retiring Advanced and Standard Voice in ChatGPT](articles/2026-11-10-author-retiring-advanced-and-standard-voice-in-chatgpt.md)**
 - **[See's Candies 1972→1998——$25Mが$60Mを生んだ理由を、バフェットがMBA学生に語った](articles/1998-10-15-warren-buffett-see-s-candies-1972-1998-25m-60m-mba-12d8279960.md)** ⚑  Warren Buffett
 - **[Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights](articles/2026-11-02-author-sparks-of-weight-space-programming-llms-can-natively-read-write-neural-network-w.md)** ⚑
+- **[Teaching AI to build scientific models](articles/2026-11-06-author-teaching-ai-to-build-scientific-models.md)**
 - **[The Johnson brothers — AIキャラを「家族」に増やす成長プレイブック](articles/2026-10-16-y0urdumble-dumble-the-johnson-brothers-ai.md)** ⚑  @Y0urDumble (Dumble)
 - **[The Winners and Losers of AI’s First Big Election](articles/2026-11-10-author-the-winners-and-losers-of-ai-s-first-big-election.md)** ⚑
 - **[The attack chain behind the v1.107.0 LiteLLM release](articles/2026-10-23-oliver-jensen-mateo-wang-litellm-the-attack-chain-behind-the-v1.107.0-litellm-release.md)**  Oliver Jensen、Mateo Wang（LiteLLM）

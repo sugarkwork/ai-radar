@@ -1,5 +1,5 @@
 {
-  "count": 1179,
+  "count": 1180,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -9210,6 +9210,22 @@
       ],
       "fetched_at": "2026-11-10T08:39:25Z",
       "path": "articles/2026-11-02-author-sparks-of-weight-space-programming-llms-can-natively-read-write-neural-network-w.md"
+    },
+    {
+      "name": "Teaching AI to build scientific models",
+      "genre": "article",
+      "url": "https://www.anthropic.com/research/teaching-ai-to-build-scientific-models",
+      "published": "2026-11-06",
+      "flags": [],
+      "type": "article",
+      "added": "2026-11-16",
+      "first_seen": "2026-11-16",
+      "risk_notes": "",
+      "sources": [
+        "https://x.com/tetumemo/status/2118999430921908445"
+      ],
+      "fetched_at": "2026-11-16T00:15:15.969872+00:00",
+      "path": "articles/2026-11-06-author-teaching-ai-to-build-scientific-models.md"
     },
     {
       "name": "The Johnson brothers — AIキャラを「家族」に増やす成長プレイブック",
