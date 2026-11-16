@@ -1,5 +1,5 @@
 {
-  "count": 1214,
+  "count": 1215,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -9464,6 +9464,24 @@
       ],
       "fetched_at": "2026-11-10T06:22:24Z",
       "path": "articles/2026-10-30-chris-porter-nvidia-things-that-go-beep-in-the-night-agentic-ai-joins-the-search-for-extraterrestria.md"
+    },
+    {
+      "name": "Threat Overview of ARTEX Autonomous Penetration Testing Framework",
+      "genre": "article",
+      "url": "https://www.ic3.gov/CSA/2026/261113.pdf",
+      "published": "2026-11-13",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "記事は脅威活動と推奨緩和策を説明する警告資料であり、ARTEXの独立した安全性評価や一般的な有効性評価ではない。",
+      "type": "article",
+      "added": "2026-11-16",
+      "first_seen": "2026-11-16",
+      "sources": [
+        "https://x.com/ueo0j/status/2122146243509973404"
+      ],
+      "fetched_at": "2026-11-16T08:16:44.842513+00:00",
+      "path": "articles/2026-11-13-author-threat-overview-of-artex-autonomous-penetration-testing-framework.md"
     },
     {
       "name": "TokenSpeedのQwen3.8-Flash-Next推論測定",

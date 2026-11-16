@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1214 件 — リポジトリ 835, リンク集 120, 記事 192, モデル 53, プロンプト 14 / ⚑ 要確認 974 件
+収録 1215 件 — リポジトリ 835, リンク集 120, 記事 193, モデル 53, プロンプト 14 / ⚑ 要確認 975 件
 
 ## リポジトリ（835）
 
@@ -1405,9 +1405,9 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（192）
+## 記事（193）
 
-### 記事（129）
+### 記事（130）
 
 - **[$0のデジタル参謀長で月$80,000の契約候補を作ったというX投稿（動画付き）](articles/2026-10-22-bober_smart-0-80-000-x.md)** ⚑  @Bober_smart
 - **[1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md)** ⚑  @mukadeshinigami（mukade死神）
@@ -1510,6 +1510,7 @@
 - **[The components of agent memory](articles/2026-11-06-anthropic-engineering-the-components-of-agent-memory.md)** ⚑  Anthropic Engineering
 - **[The next chapter of Redis Iris: what agents need to work in the real world](articles/2026-11-04-author-the-next-chapter-of-redis-iris-what-agents-need-to-work-in-the-real-world.md)** ⚑
 - **[Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals](articles/2026-10-30-chris-porter-nvidia-things-that-go-beep-in-the-night-agentic-ai-joins-the-search-for-extraterrestria.md)** ⚑  Chris Porter（NVIDIA）
+- **[Threat Overview of ARTEX Autonomous Penetration Testing Framework](articles/2026-11-13-author-threat-overview-of-artex-autonomous-penetration-testing-framework.md)** ⚑
 - **[TokenSpeedのQwen3.8-Flash-Next推論測定](articles/2026-10-13-tokenspeed-team-tokenspeed-qwen3.8-flash-next.md)** ⚑  TokenSpeed Team
 - **[UN-backed anti-terrorism group calls for urgent policy action to halt spread of 'rogue' AI](articles/2026-11-15-author-un-backed-anti-terrorism-group-calls-for-urgent-policy-action-to-halt-spread-of.md)** ⚑
 - **[Ultralytics YOLO26とSAHIによるスライス推論ガイド](articles/2023-11-12-author-ultralytics-yolo26-sahi.md)** ⚑
@@ -1904,6 +1905,7 @@
 - [The components of agent memory](articles/2026-11-06-anthropic-engineering-the-components-of-agent-memory.md) — unverified / 評価はAnthropicの報告に基づく。独立再現、別タスクへの一般化、記憶の保守に必要な計算コストは未検証。
 - [The next chapter of Redis Iris: what agents need to work in the real world](articles/2026-11-04-author-the-next-chapter-of-redis-iris-what-agents-need-to-work-in-the-real-world.md) — unverified / トークン削減や解決時間短縮などの効果はRedisによる説明で、記事中に独立検証の結果は示されていない。料金・利用条件はこの記事では確認できない。
 - [Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals](articles/2026-10-30-chris-porter-nvidia-things-that-go-beep-in-the-night-agentic-ai-joins-the-search-for-extraterrestria.md) — unverified / 投稿の短縮URLは解決できず、自然言語によるアンテナの指向変更・較正と、かにパルサーのリアルタイム検出という記述の一致から対象記事を特定した。エージェントの制御精度、誤操作時の挙動、観測から検出までの一連の再現手順、構成一式のライセンスと利用料金は確認できていない。
+- [Threat Overview of ARTEX Autonomous Penetration Testing Framework](articles/2026-11-13-author-threat-overview-of-artex-autonomous-penetration-testing-framework.md) — unverified / 記事は脅威活動と推奨緩和策を説明する警告資料であり、ARTEXの独立した安全性評価や一般的な有効性評価ではない。
 - [TokenSpeedのQwen3.8-Flash-Next推論測定](articles/2026-10-13-tokenspeed-team-tokenspeed-qwen3.8-flash-next.md) — unverified / 開発元測定。独立追試やQwen 4製品性能は未確認。
 - [UN-backed anti-terrorism group calls for urgent policy action to halt spread of 'rogue' AI](articles/2026-11-15-author-un-backed-anti-terrorism-group-calls-for-urgent-policy-action-to-halt-spread-of.md) — unverified / 162モデルの検証結果や安全対策を除去したモデル数は、記事内で紹介されたTech Against Terrorismの報告・調査に関する記述であり、独立実測として扱わない。
 - [Ultralytics YOLO26とSAHIによるスライス推論ガイド](articles/2023-11-12-author-ultralytics-yolo26-sahi.md) — unverified / このガイドのSAHI連携は非推奨です。Ultralyticsは学習・検証・予測で標準のtile引数を使うよう案内しています。掲載された小物体検出やメモリ使用に関する効果は公式資料の説明であり、特定データや環境での独立検証結果ではありません。
