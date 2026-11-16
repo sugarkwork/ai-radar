@@ -1,5 +1,5 @@
 {
-  "count": 1224,
+  "count": 1225,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -9113,6 +9113,22 @@
       ],
       "fetched_at": "2026-11-14T06:18:16.591647+00:00",
       "path": "articles/2026-11-06-author-measuring-how-ai-agents-handle-everyday-wet-lab-science.md"
+    },
+    {
+      "name": "Microsoft’s November 2026 Patch Tuesday addresses 1093 CVEs (CVE-2026-124194)",
+      "genre": "article",
+      "url": "https://www.tenable.com/blog/microsoft-november-2026-patch-tuesday-addresses-1093-cves-cve-2026-124194",
+      "published": "2026-11-10",
+      "flags": [],
+      "type": "article",
+      "added": "2026-11-16",
+      "first_seen": "2026-11-16",
+      "risk_notes": "",
+      "sources": [
+        "https://x.com/ueo0j/status/2122146243509973404"
+      ],
+      "fetched_at": "2026-11-16T08:24:30.212100+00:00",
+      "path": "articles/2026-11-10-author-microsoft-s-november-2026-patch-tuesday-addresses-1093-cves-cve-2026-124194.md"
     },
     {
       "name": "Museで試作し入力素材をSeedanceへ引き継ぐ動画制作案",
