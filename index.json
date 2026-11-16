@@ -1,5 +1,5 @@
 {
-  "count": 1250,
+  "count": 1251,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -23681,6 +23681,37 @@
       "fetched_at": "2026-11-14T10:12:34.239777+00:00",
       "path": "entries/other/knifelemon-filee.md",
       "summary": "カーソル位置に形式メニューを表示し、ファイルを形式にドロップして変換するデスクトップアプリ。READMEは画像、文書、動画・音声、アーカイブ、CAD、3Dモデルなど270形式への対応、オフライン動作、元ファイルと同じ場所への保存を説明している。ほかに一括変換、監視フォルダー、トリミング、変換設定、ブラウザーからのファイ"
+    },
+    {
+      "name": "Jenkins",
+      "genre": "other",
+      "url": "https://github.com/jenkinsci/jenkins",
+      "repo": "jenkinsci/jenkins",
+      "license": "MIT",
+      "stars": 26780,
+      "language": "Java",
+      "created": "2010-11-22",
+      "updated": "2026-11-16",
+      "forks": 9838,
+      "open_issues": 3618,
+      "commits_30d": 100,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 174694,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEには利用者側の実行条件や依存関係の詳細が記載されていません。",
+      "type": "repo",
+      "added": "2026-11-16",
+      "first_seen": "2026-11-16",
+      "sources": [
+        "https://x.com/bkdgiffug/status/2119077915812147360"
+      ],
+      "fetched_at": "2026-11-16T18:12:17.367645+00:00",
+      "path": "entries/other/jenkinsci-jenkins.md",
+      "summary": "開発ワークフローを自動化し、プロジェクトのビルド、テスト実行、静的コード解析、デプロイに利用できます。READMEは2,000以上のプラグインをサポートすると説明しています。"
     },
     {
       "repo": "karpathy/nn-zero-to-hero",

@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1250 件 — リポジトリ 855, リンク集 120, 記事 208, モデル 53, プロンプト 14 / ⚑ 要確認 1004 件
+収録 1251 件 — リポジトリ 856, リンク集 120, 記事 208, モデル 53, プロンプト 14 / ⚑ 要確認 1005 件
 
-## リポジトリ（855）
+## リポジトリ（856）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（177）
+### その他（178）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -54,6 +54,7 @@
 | [react-spring](entries/other/pmndrs-react-spring.md) ⚑ | 29,279 | 1,236 | 毎日 | 23 | 2026-11-01 | 2026-11-14 | 2026-11-14 | MIT |
 | [System Design Interview — An Insider’s Guide (Vol 1 and 2) notes](entries/other/liquidslr-system-design-notes.md) ⚑ | 28,391 | 5,337 | 停滞 | 0 | 2026-08-12 | 2026-11-15 | 2026-11-15 | unknown |
 | [Filee](entries/other/knifelemon-filee.md) ⚑ | 26,944 | 1,546 | 毎日 | 100+ | 2026-11-14 | 2026-11-14 | 2026-11-14 | MIT |
+| [Jenkins](entries/other/jenkinsci-jenkins.md) ⚑ | 26,780 | 9,838 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-16 | MIT |
 | [Neural Networks: Zero to Hero](entries/other/karpathy-nn-zero-to-hero.md) ⚑ | 25,433 | 3,697 | 停滞 | 0 | 2024-08-18 | 2026-11-10 | 2026-11-10 | MIT |
 | [SpiderFoot](entries/other/smicallef-spiderfoot.md) ⚑ | 24,564 | 4,081 | 停滞 | 0 | 2026-04-13 | 2026-11-13 | 2026-11-14 | MIT |
 | [ego lite](entries/other/citrolabs-ego-lite.md) ⚑ | 22,387 | 1,269 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | MIT |
@@ -2341,6 +2342,7 @@
 - [react-spring](entries/other/pmndrs-react-spring.md) — unverified / READMEでは対応先と導入例を確認できるが、詳細な依存関係や各環境の利用条件は示されていない。
 - [System Design Interview — An Insider’s Guide (Vol 1 and 2) notes](entries/other/liquidslr-system-design-notes.md) — unverified / README says the notes are a work in progress. License is unknown in the supplied repository data. GitHub APIでライセンスを確認できていません。
 - [Filee](entries/other/knifelemon-filee.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
+- [Jenkins](entries/other/jenkinsci-jenkins.md) — unverified / READMEには利用者側の実行条件や依存関係の詳細が記載されていません。
 - [Neural Networks: Zero to Hero](entries/other/karpathy-nn-zero-to-hero.md) — unverified / 最新リリースのタグと公開日は未確認。ノートブックは実行しておらず、依存ライブラリの対応バージョン、必要な計算資源、学習成果は独立検証していない。外部サービスの利用条件や料金は未確認。
 - [SpiderFoot](entries/other/smicallef-spiderfoot.md) — unverified / モジュールごとのAPIキー要件や料金の詳細はREADMEだけでは特定できない。
 - [ego lite](entries/other/citrolabs-ego-lite.md) — unverified / 公式リリース一覧ではv2.1.0がLatestと表示された。最新リリースへの直接アクセスはタイムアウトし、公開日時は未確認。作者ベンチマークの再現性、ブラウザデータの取り扱い、Spaces間の分離の実効性は未検証。
