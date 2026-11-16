@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1212 件 — リポジトリ 834, リンク集 120, 記事 191, モデル 53, プロンプト 14 / ⚑ 要確認 973 件
+収録 1213 件 — リポジトリ 835, リンク集 120, 記事 191, モデル 53, プロンプト 14 / ⚑ 要確認 974 件
 
-## リポジトリ（834）
+## リポジトリ（835）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -434,7 +434,7 @@
 | [AI SDK](entries/agent-framework/anil-matcha-ai.md) ⚑ | 18 | 4 | 停滞 | 0 | 2026-08-06 | 2026-11-13 | 2026-11-13 | unknown |
 | [web-api-skills](entries/agent-framework/oxylabs-web-api-skills.md) | 13 | 1 | 週次 | 11 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
 
-### 動画生成パイプライン（107）
+### 動画生成パイプライン（108）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -530,6 +530,7 @@
 | [Video-Rebirth/hyperflow-h3-flash](entries/video-gen/video-rebirth-hyperflow-h3-flash.md) ⚑ | 160 | 8 | 週次 | 4 | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
 | [video-agent-skills](entries/video-gen/melvynx-video-agent-skills.md) ⚑ | 158 | 39 | 週次 | 13 | 2026-11-06 | 2026-11-15 | 2026-11-15 | MIT |
 | [ChrisHKAI-Video](entries/video-gen/chrishkai-chrishkai-video.md) ⚑ | 150 | 45 | 毎日 | 100+ | 2026-11-14 | 2026-11-15 | 2026-11-15 | MIT |
+| [AIEV - AI Edit Video](entries/video-gen/notivn-aievv2.md) ⚑ | 143 | 66 | 週次 | 14 | 2026-11-13 | 2026-11-16 | 2026-11-16 | MIT |
 | [ComfyUI Omnichar](entries/video-gen/omnichar-comfyui-omnichar.md) ⚑ | 139 | 22 | 月次 | 3 | 2026-11-15 | 2026-11-15 | 2026-11-15 | GPL-3.0 |
 | [music-mv](entries/video-gen/win-hao-music-mv.md) | 116 | 5 | 月次 | 3 | 2026-10-20 | 2026-11-09 | 2026-11-10 | MIT |
 | [Claude Code Video Toolkit](entries/video-gen/wilwaldon-claude-code-video-toolkit.md) ⚑ | 110 | 17 | 停滞 | 0 | 2026-02-26 | 2026-11-10 | 2026-11-10 | unknown |
@@ -2574,6 +2575,7 @@
 - [Video-Rebirth/hyperflow-h3-flash](entries/video-gen/video-rebirth-hyperflow-h3-flash.md) — unverified / コードのApache-2.0を重みのライセンスへ拡張しない。モデルはMiniMax H3系の地域・商用条件を別途持つ。速度は未再現。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [video-agent-skills](entries/video-gen/melvynx-video-agent-skills.md) — unverified / Tregによる一部機能は有料と記載されていますが、料金はREADMEに明記された範囲に限られます。
 - [ChrisHKAI-Video](entries/video-gen/chrishkai-chrishkai-video.md) — unverified / Codexによる完全な映像制作の品質はREADME時点で未検証。
+- [AIEV - AI Edit Video](entries/video-gen/notivn-aievv2.md) — unverified / 一次資料で未確認: 技術背景・依存関係。
 - [ComfyUI Omnichar](entries/video-gen/omnichar-comfyui-omnichar.md) — unverified / Omnichar Cloudのライセンス付きキャラクターでは、実行ごとのプロバイダーへの報告と、画像・動画の出力許可条件がある。
 - [Claude Code Video Toolkit](entries/video-gen/wilwaldon-claude-code-video-toolkit.md) — unverified / 外部ツールの導入・レンダリング、出力品質、現行バージョンでの互換性、料金は未検証。READMEにはMIT表記があるが、親のGitHub API測定ではライセンスはunknown。外部ツールや素材の利用条件は各提供元で確認する。 GitHub APIでライセンスを確認できていません。
 - [VidDub](entries/video-gen/law1223-viddub.md) — unverified / リポジトリAPI上のライセンスはunknown。READMEのライセンス表示だけでは具体的な利用条件を確認できない。 GitHub APIでライセンスを確認できていません。

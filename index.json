@@ -1,5 +1,5 @@
 {
-  "count": 1212,
+  "count": 1213,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -34976,6 +34976,37 @@
       "fetched_at": "2026-11-15T10:09:39.337687+00:00",
       "path": "entries/video-gen/chrishkai-chrishkai-video.md",
       "summary": "XのプロフィールURLを入力し、プロフィール画像や投稿、数値を題材にした短編映像を制作する。READMEは、画像を3Dトイ化し、投稿を壁のように配置し、数値を映像内に表現する例を説明している。映像はBlenderで描画し、音声はPythonで作成する。"
+    },
+    {
+      "name": "AIEV - AI Edit Video",
+      "genre": "video-gen",
+      "url": "https://github.com/notivn/AIEVv2",
+      "repo": "notivn/AIEVv2",
+      "stars": 143,
+      "forks": 66,
+      "open_issues": 5,
+      "size_kb": 15302,
+      "language": "TypeScript",
+      "created": "2026-10-26",
+      "updated": "2026-11-13",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 14,
+      "commits_90d": 14,
+      "commit_cadence": "weekly",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景・依存関係。",
+      "type": "repo",
+      "added": "2026-11-16",
+      "first_seen": "2026-11-16",
+      "sources": [
+        "https://x.com/Ryrenz/status/2119039413329993878"
+      ],
+      "fetched_at": "2026-11-16T07:16:17.575410+00:00",
+      "path": "entries/video-gen/notivn-aievv2.md",
+      "summary": "AI-монтаж видео: Claude анализирует исходник, создает сцены HyperFrames на HTML и GSAP, собирает таймлайн в Remotion и экспортирует MP4. Встроенный редактор поз"
     },
     {
       "name": "ComfyUI Omnichar",
