@@ -1,5 +1,5 @@
 {
-  "count": 1237,
+  "count": 1238,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -11395,6 +11395,37 @@
       "fetched_at": "2026-11-15T14:18:02.710207+00:00",
       "path": "entries/coding-agent/yishentu-claudian.md",
       "summary": "ObsidianのVault内でClaude Code、Codex、Grok Build、Antigravity CLI、OpenCode、Pi、DeepSeek HarnessなどのAIコーディングエージェントを利用できる。エージェントはVaultを作業ディレクトリとして、ファイルの読み書き、検索、コマンド実行、複数"
+    },
+    {
+      "name": "ai-memory",
+      "genre": "coding-agent",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "repo": "akitaonrails/ai-memory",
+      "license": "MIT",
+      "stars": 15992,
+      "language": "Rust",
+      "created": "2026-05-21",
+      "updated": "2026-11-15",
+      "forks": 1199,
+      "open_issues": 55,
+      "commits_30d": 100,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 54713,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景・有効性・依存関係。",
+      "type": "repo",
+      "added": "2026-11-16",
+      "first_seen": "2026-11-16",
+      "sources": [
+        "https://x.com/ruyi3699/status/2119061557858464140"
+      ],
+      "fetched_at": "2026-11-16T14:11:28.066661+00:00",
+      "path": "entries/coding-agent/akitaonrails-ai-memory.md",
+      "summary": "複数のコーディングエージェント、プロジェクト、マシンで共有する長期メモリを提供する。READMEによると、ライフサイクルフックで観測内容を取り込み、セッション終了時にMarkdownページへまとめ、次のセッションに要約を渡す。検索は全文、エンティティ、リンクを使い、ベクトル検索は任意。引き継ぎには担当者を持つ型付きプロ"
     },
     {
       "type": "repo",
