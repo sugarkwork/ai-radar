@@ -1,5 +1,5 @@
 {
-  "count": 1192,
+  "count": 1193,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -8499,6 +8499,24 @@
       ],
       "fetched_at": "2026-11-10T13:51:53Z",
       "path": "articles/2026-11-06-author-google-gemini-business-profile-tools-are-coming-to-workspace.md"
+    },
+    {
+      "name": "Grok BotはX連携で化ける！専門botを指揮者のように組み合わせて毎日ネタがたまる使い方と、そのまま貼れるプロンプト集97個を配布します",
+      "genre": "article",
+      "url": "https://tetumemo.m-newsletter.com/",
+      "published": "2026-10-15",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "利用料金や利用条件は記事公開時の作者の申込画面に基づく記載で、現在の価格・提供条件は確認できていません。約3分での下書き作成などの成果は作者の報告です。記事には、削除指示の誤解でホームフォルダを消した事例も記載されています。",
+      "type": "article",
+      "added": "2026-11-16",
+      "first_seen": "2026-11-16",
+      "sources": [
+        "https://x.com/tetumemo/status/2119022127613706698"
+      ],
+      "fetched_at": "2026-11-16T01:35:49.370763+00:00",
+      "path": "articles/2026-10-15-author-grok-bot-x-bot-97.md"
     },
     {
       "name": "H3 Imageの高解像度生成と縮小手順",

@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1192 件 — リポジトリ 817, リンク集 120, 記事 188, モデル 53, プロンプト 14 / ⚑ 要確認 956 件
+収録 1193 件 — リポジトリ 817, リンク集 120, 記事 189, モデル 53, プロンプト 14 / ⚑ 要確認 957 件
 
 ## リポジトリ（817）
 
@@ -1387,9 +1387,9 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（188）
+## 記事（189）
 
-### 記事（125）
+### 記事（126）
 
 - **[$0のデジタル参謀長で月$80,000の契約候補を作ったというX投稿（動画付き）](articles/2026-10-22-bober_smart-0-80-000-x.md)** ⚑  @Bober_smart
 - **[1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md)** ⚑  @mukadeshinigami（mukade死神）
@@ -1444,6 +1444,7 @@
 - **[GitHub Copilot週次更新（11月2日の週）](articles/2026-11-06-github-github-copilot-11-2.md)** ⚑  GitHub
 - **[Giving every team a data scientist with Grok Bot](articles/2026-11-02-author-giving-every-team-a-data-scientist-with-grok-bot.md)** ⚑
 - **[Google Gemini Business Profile Tools Are Coming To Workspace](articles/2026-11-06-author-google-gemini-business-profile-tools-are-coming-to-workspace.md)** ⚑
+- **[Grok BotはX連携で化ける！専門botを指揮者のように組み合わせて毎日ネタがたまる使い方と、そのまま貼れるプロンプト集97個を配布します](articles/2026-10-15-author-grok-bot-x-bot-97.md)** ⚑
 - **[H3 Imageの高解像度生成と縮小手順](articles/2026-11-12-aiwarper-h3-image.md)** ⚑  AIWarper
 - **[Harness design for long-running application development](articles/2026-03-24-author-harness-design-for-long-running-application-development.md)** ⚑
 - **[How we’re training a Figma-fluent editing model](articles/2026-10-29-author-how-we-re-training-a-figma-fluent-editing-model.md)** ⚑
@@ -1841,6 +1842,7 @@
 - [GitHub Copilot週次更新（11月2日の週）](articles/2026-11-06-github-github-copilot-11-2.md) — unverified / Xcode統合はパブリックプレビュー。JetBrains Airのクラウド実行は組織設定に依存。
 - [Giving every team a data scientist with Grok Bot](articles/2026-11-02-author-giving-every-team-a-data-scientist-with-grok-bot.md) — unverified / 分析精度と工数削減は独立に検証していない。導入先で必要となる権限設定の詳細、現行の料金、社内スキルの再配布条件は未確認。
 - [Google Gemini Business Profile Tools Are Coming To Workspace](articles/2026-11-06-author-google-gemini-business-profile-tools-are-coming-to-workspace.md) — unverified / GoogleのSmall Business BulletinはWorkspace対応を「rolling out now」とする一方、確認したGoogleヘルプページは仕事用アカウントを対象外と記載。記事はこの不一致を指摘している。Workspaceへの提供時期や対象範囲は確定情報として扱わないこと。
+- [Grok BotはX連携で化ける！専門botを指揮者のように組み合わせて毎日ネタがたまる使い方と、そのまま貼れるプロンプト集97個を配布します](articles/2026-10-15-author-grok-bot-x-bot-97.md) — unverified / 利用料金や利用条件は記事公開時の作者の申込画面に基づく記載で、現在の価格・提供条件は確認できていません。約3分での下書き作成などの成果は作者の報告です。記事には、削除指示の誤解でホームフォルダを消した事例も記載されています。
 - [H3 Imageの高解像度生成と縮小手順](articles/2026-11-12-aiwarper-h3-image.md) — unverified / 投稿者の実践メモです。効果・原因・再現条件は独立した資料では未確認です。
 - [Harness design for long-running application development](articles/2026-03-24-author-harness-design-for-long-running-application-development.md) — unverified / 生成アプリの独立再現、構成要素ごとの寄与、別タスクへの一般化、実験用ハーネスのコード配布・再利用条件は未確認。
 - [How we’re training a Figma-fluent editing model](articles/2026-10-29-author-how-we-re-training-a-figma-fluent-editing-model.md) — unverified / 比較結果はFigmaの社内評価で、独立した再現性は未確認。学習データに含まれる顧客コンテンツの具体的な範囲と利用条件、学習済みモデルやデータの入手・再利用条件、モデル単体の速度と費用は未確認。
