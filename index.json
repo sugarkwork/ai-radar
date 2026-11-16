@@ -1,5 +1,5 @@
 {
-  "count": 1186,
+  "count": 1187,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -17234,6 +17234,37 @@
       "fetched_at": "2026-11-12T00:07:30.970116+00:00",
       "path": "entries/link-asset/awesome-selfhosted-awesome-selfhosted.md",
       "summary": "自分のサーバーでホストできるフリーソフトウェアのネットワークサービスとWebアプリケーションを、分野別に探せる一覧です。READMEはHTML版を推奨し、Markdown版をlegacyとしています。出典: https://github.com/awesome-selfhosted/awesome-selfhosted"
+    },
+    {
+      "name": "方舟像素字体 / Ark Pixel Font",
+      "genre": "link-asset",
+      "url": "https://github.com/TakWolf/ark-pixel-font",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEは文字が大量に不足していると説明しています。16pxサイズは廃止済みです。",
+      "repo": "TakWolf/ark-pixel-font",
+      "stars": 4972,
+      "forks": 104,
+      "open_issues": 5,
+      "size_kb": 13471,
+      "language": "Python",
+      "created": "2021-05-11",
+      "updated": "2026-11-14",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 28,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "type": "repo",
+      "added": "2026-11-16",
+      "first_seen": "2026-11-16",
+      "sources": [
+        "https://x.com/dextune/status/2119014497486569854"
+      ],
+      "fetched_at": "2026-11-16T01:23:18.401975+00:00",
+      "path": "entries/link-asset/takwolf-ark-pixel-font.md",
+      "summary": "泛拉丁文字と泛中日韩文字に対応する、黑体風のピクセルフォントです。10px・12pxの等幅／比例モードがあり、言語別字形としてlatin、zh-Hans、zh-Hant、zh-HK、zh-TW、ja、koを用意しています。READMEは比例モードについて、字形に応じた文字幅、より自然な字間と行高、字偶距調整に対応すると"
     },
     {
       "type": "repo",
