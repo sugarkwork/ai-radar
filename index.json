@@ -1,5 +1,5 @@
 {
-  "count": 1216,
+  "count": 1217,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -8935,6 +8935,24 @@
       ],
       "fetched_at": "2026-11-10T04:01:30Z",
       "path": "articles/2026-11-07-marc-cenedella-ladders-pdf.md"
+    },
+    {
+      "name": "LangChain、3億ドルのシリーズCを調達し、企業価値30億ドルに",
+      "genre": "article",
+      "url": "https://www.langchain.com/blog/series-c",
+      "published": "2026-11-13",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "導入組織数や顧客事例、製品の機能・効果はLangChainの発表内容であり、独立検証された結果ではない。",
+      "type": "article",
+      "added": "2026-11-16",
+      "first_seen": "2026-11-16",
+      "sources": [
+        "https://x.com/ueo0j/status/2122146243509973404"
+      ],
+      "fetched_at": "2026-11-16T08:18:32.315740+00:00",
+      "path": "articles/2026-11-13-author-langchain-3-c-30.md"
     },
     {
       "name": "Last Lecture Series: “How to Win Without Crushing Your Soul” - Graham Weaver（Stanford GSB Class of 2026）",
