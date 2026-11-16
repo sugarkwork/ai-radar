@@ -1,5 +1,5 @@
 {
-  "count": 1236,
+  "count": 1237,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -35515,6 +35515,35 @@
       "fetched_at": "2026-11-16T07:16:17.575410+00:00",
       "path": "entries/video-gen/notivn-aievv2.md",
       "summary": "AI-монтаж видео: Claude анализирует исходник, создает сцены HyperFrames на HTML и GSAP, собирает таймлайн в Remotion и экспортирует MP4. Встроенный редактор поз"
+    },
+    {
+      "name": "paper-reel",
+      "genre": "video-gen",
+      "url": "https://github.com/haiderfarooq3/paper-reel",
+      "repo": "haiderfarooq3/paper-reel",
+      "stars": 141,
+      "forks": 23,
+      "open_issues": 1,
+      "size_kb": 5214,
+      "language": "JavaScript",
+      "created": "2026-10-23",
+      "updated": "2026-10-27",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 3,
+      "commits_90d": 3,
+      "commit_cadence": "monthly",
+      "flags": [],
+      "type": "repo",
+      "added": "2026-11-16",
+      "first_seen": "2026-11-16",
+      "risk_notes": "",
+      "sources": [
+        "https://x.com/dextune/status/2119059798167531717"
+      ],
+      "fetched_at": "2026-11-16T13:11:32.118823+00:00",
+      "path": "entries/video-gen/haiderfarooq3-paper-reel.md",
+      "summary": "Claude Codeにトピックを渡してスクリプトを作成し、音声・シーンを組み立ててMP4を書き出す。READMEでは、音声を基準にwhisper.cppで単語のタイミングを取り、シーンの小道具や字幕を同期させる仕組みを説明している。"
     },
     {
       "name": "ComfyUI Omnichar",

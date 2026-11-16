@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1236 件 — リポジトリ 843, リンク集 120, 記事 206, モデル 53, プロンプト 14 / ⚑ 要確認 992 件
+収録 1237 件 — リポジトリ 844, リンク集 120, 記事 206, モデル 53, プロンプト 14 / ⚑ 要確認 992 件
 
-## リポジトリ（843）
+## リポジトリ（844）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -440,7 +440,7 @@
 | [AI SDK](entries/agent-framework/anil-matcha-ai.md) ⚑ | 18 | 4 | 停滞 | 0 | 2026-08-06 | 2026-11-13 | 2026-11-13 | unknown |
 | [web-api-skills](entries/agent-framework/oxylabs-web-api-skills.md) | 13 | 1 | 週次 | 11 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
 
-### 動画生成パイプライン（108）
+### 動画生成パイプライン（109）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -537,6 +537,7 @@
 | [video-agent-skills](entries/video-gen/melvynx-video-agent-skills.md) ⚑ | 158 | 39 | 週次 | 13 | 2026-11-06 | 2026-11-15 | 2026-11-15 | MIT |
 | [ChrisHKAI-Video](entries/video-gen/chrishkai-chrishkai-video.md) ⚑ | 150 | 45 | 毎日 | 100+ | 2026-11-14 | 2026-11-15 | 2026-11-15 | MIT |
 | [AIEV - AI Edit Video](entries/video-gen/notivn-aievv2.md) ⚑ | 143 | 66 | 週次 | 14 | 2026-11-13 | 2026-11-16 | 2026-11-16 | MIT |
+| [paper-reel](entries/video-gen/haiderfarooq3-paper-reel.md) | 141 | 23 | 月次 | 3 | 2026-10-27 | 2026-11-16 | 2026-11-16 | MIT |
 | [ComfyUI Omnichar](entries/video-gen/omnichar-comfyui-omnichar.md) ⚑ | 139 | 22 | 月次 | 3 | 2026-11-15 | 2026-11-15 | 2026-11-15 | GPL-3.0 |
 | [music-mv](entries/video-gen/win-hao-music-mv.md) | 116 | 5 | 月次 | 3 | 2026-10-20 | 2026-11-09 | 2026-11-10 | MIT |
 | [Claude Code Video Toolkit](entries/video-gen/wilwaldon-claude-code-video-toolkit.md) ⚑ | 110 | 17 | 停滞 | 0 | 2026-02-26 | 2026-11-10 | 2026-11-10 | unknown |
