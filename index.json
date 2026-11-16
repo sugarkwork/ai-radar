@@ -1,5 +1,5 @@
 {
-  "count": 1241,
+  "count": 1242,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -8156,6 +8156,24 @@
       ],
       "fetched_at": "2026-11-09T03:29:35Z",
       "path": "articles/2026-09-27-momoai_daily-momoai-chatgpt-obsidian.md"
+    },
+    {
+      "name": "ChatGPT Images 2.6のGIF生成・参照画像機能",
+      "genre": "article",
+      "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+      "published": "2026-11-04",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "GIF作成は段階的に提供中。利用可能かどうかはアカウントによって異なる場合があります。",
+      "type": "article",
+      "added": "2026-11-16",
+      "first_seen": "2026-11-16",
+      "sources": [
+        "https://x.com/awe0_io/status/2119068830014357851"
+      ],
+      "fetched_at": "2026-11-16T16:25:45.203442+00:00",
+      "path": "articles/2026-11-04-author-chatgpt-images-2.6-gif.md"
     },
     {
       "name": "Claude Code に Blender シーンを Python で書かせ、ヘッドレスで回す6段階",
