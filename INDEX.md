@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1246 件 — リポジトリ 852, リンク集 120, 記事 207, モデル 53, プロンプト 14 / ⚑ 要確認 1001 件
+収録 1247 件 — リポジトリ 853, リンク集 120, 記事 207, モデル 53, プロンプト 14 / ⚑ 要確認 1002 件
 
-## リポジトリ（852）
+## リポジトリ（853）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（176）
+### その他（177）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -105,6 +105,7 @@
 | [gifski](entries/other/imageoptim-gifski.md) ⚑ | 5,710 | 183 | 停滞 | 0 | 2026-06-17 | 2026-11-16 | 2026-11-16 | unknown |
 | [软件屏蔽器（Malware-Patch）](entries/other/the1812-malware-patch.md) ⚑ | 5,644 | 333 | 停滞 | 0 | 2026-05-27 | 2026-11-14 | 2026-11-14 | MIT |
 | [Bumblebee](entries/other/perplexityai-bumblebee.md) ⚑ | 5,148 | 464 | 月次 | 0 | 2026-11-10 | 2026-11-12 | 2026-11-12 | Apache-2.0 |
+| [FigCraft](entries/other/storytold-figcraft.md) ⚑ | 5,042 | 1,863 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-16 | Apache-2.0 |
 | [Y2A-Auto](entries/other/fqscfqj-y2a-auto.md) ⚑ | 4,749 | 797 | 週次 | 4 | 2026-10-28 | 2026-11-11 | 2026-11-11 | GPL-3.0 |
 | [Screenbox](entries/other/huynhsontung-screenbox.md) ⚑ | 4,700 | 222 | 毎日 | 20 | 2026-11-15 | 2026-11-16 | 2026-11-16 | GPL-3.0 |
 | [Create](entries/other/creators-of-create-create.md) ⚑ | 4,618 | 1,446 | 週次 | 18 | 2026-11-15 | 2026-11-15 | 2026-11-15 | unknown |
@@ -2380,6 +2381,7 @@
 - [gifski](entries/other/imageoptim-gifski.md) — unverified / GitHub APIのライセンス値はunknown。READMEにはAGPL 3 or laterと記載されているが、商用ライセンスの条件・料金は確認できない。 GitHub APIでライセンスを確認できていません。
 - [软件屏蔽器（Malware-Patch）](entries/other/the1812-malware-patch.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Bumblebee](entries/other/perplexityai-bumblebee.md) — unverified / 一次資料で未確認: 技術背景・有効性・実行条件。
+- [FigCraft](entries/other/storytold-figcraft.md) — unverified / READMEではステータスをearly alphaと記載。機能の成熟度や各OS・形式での対応範囲はREADMEだけでは確認できない。ライセンスはREADMEのバッジがMIT OR Apache-2.0、取得済みGitHub API値がApache-2.0と異なるため、適用条件を確認すること。
 - [Y2A-Auto](entries/other/fqscfqj-y2a-auto.md) — unverified / The supplied README does not establish what permissions or platform terms apply to reposting videos; verify these before use.
 - [Screenbox](entries/other/huynhsontung-screenbox.md) — unverified / 一次資料で未確認: 実行条件。
 - [Create](entries/other/creators-of-create-create.md) — unverified / READMEには対応するMinecraftやmodローダーのバージョン、具体的な導入条件が記載されていない。 GitHub APIでライセンスを確認できていません。
