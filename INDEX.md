@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1247 件 — リポジトリ 853, リンク集 120, 記事 207, モデル 53, プロンプト 14 / ⚑ 要確認 1002 件
+収録 1248 件 — リポジトリ 854, リンク集 120, 記事 207, モデル 53, プロンプト 14 / ⚑ 要確認 1003 件
 
-## リポジトリ（853）
+## リポジトリ（854）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -328,7 +328,7 @@
 | [Leash](entries/coding-agent/cmaintz-leash.md) ⚑ | 0 | 0 | 毎日 | 21 | 2026-11-06 | 2026-11-10 | 2026-11-11 | MIT |
 | [grok-x](entries/coding-agent/stat-guy-grok-x.md) ⚑ | 0 | 0 | 停滞 | 0 | 2026-03-19 | 2026-11-16 | 2026-11-16 | unknown |
 
-### エージェント基盤・スキル集（115）
+### エージェント基盤・スキル集（116）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -443,6 +443,7 @@
 | [LATCH](entries/agent-framework/balanov-latch.md) | 63 | 1 | 毎日 | 21 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
 | [Nod](entries/agent-framework/n8n-io-nod.md) ⚑ | 41 | 3 | 毎日 | 100+ | 2026-11-11 | 2026-11-11 | 2026-11-11 | Apache-2.0 |
 | [BetterSearch](entries/agent-framework/ry0narushima-bettersearch.md) | 40 | 4 | 週次 | 10 | 2026-10-18 | 2026-11-09 | 2026-11-10 | MIT |
+| [AI Office](entries/agent-framework/engchoon-ai-office.md) ⚑ | 36 | 9 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-16 | MIT |
 | [X Virality Score](entries/agent-framework/monkeyteamvip-x-virality-score.md) ⚑ | 35 | 19 | 月次 | 3 | 2026-10-27 | 2026-11-09 | 2026-11-10 | MIT |
 | [jevwire](entries/agent-framework/brainwires-jevwire.md) ⚑ | 27 | 6 | 週次 | 11 | 2026-11-06 | 2026-11-11 | 2026-11-11 | MIT |
 | [AI SDK](entries/agent-framework/anil-matcha-ai.md) ⚑ | 18 | 4 | 停滞 | 0 | 2026-08-06 | 2026-11-13 | 2026-11-13 | unknown |
@@ -1841,6 +1842,7 @@
 - [vouch](entries/agent-framework/vouchdev-vouch.md) — unverified / READMEの説明に基づく機能であり、効果や実行結果は未検証。LLM機能にはANTHROPIC_API_KEYを渡す手順が記載されているが、料金や利用条件は不明。
 - [Spring AI TypeSafe](entries/agent-framework/spring-ai-community-spring-ai-typesafe.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Nod](entries/agent-framework/n8n-io-nod.md) — low-quality, unverified / READMEに「Status: research preview」と明記されています。 研究プレビューです。対応OSはmacOS 14以降（Apple siliconまたはIntel）とWindows 11プレビュー、利用条件はChatGPT Plus/ProまたはAIキーとREADMEに記載されています。Windowsの正式対応状況や、利用するモデル・プロバイダーごとの費用はこのREADME抜粋から確認できません。
+- [AI Office](entries/agent-framework/engchoon-ai-office.md) — unverified / Windowsでは通知、アプリ外で開始したスタッフへの質問処理、画面キャプチャは未対応。タスク結果の確認にはGit for WindowsとGitHub CLIが必要で、実運用で未検証。Mac版はApple Silicon専用で署名・公証されていない。
 - [X Virality Score](entries/agent-framework/monkeyteamvip-x-virality-score.md) — unverified / ①主張と実測の差: 投稿は「1投稿あたり10万インプレッション」「月500万ビュー」を掲げるが、これは著者の主張で、著者自身が返信で「100K views を保証しない実験的ツール」と訂正している。返信には直近15投稿が2K〜47Kだったという反論と、コミュニティノート相当の指摘（実験的な手動ツール、公開ボードはプレースホルダーの静的デモ）が付いている。②著者の公開ボード data.json（2026-11-08分、2026-11-09 11:05 MSK 更新）では、本人のベスト投稿は21,377 views、当日合計26,146 views、ウォッチリスト29人中7位。少なくともこの日の実績は「10万/投稿」と一致しない。③引用元の X 記事（x.com/i/article/2100215736375373824）はログイン必須で、curl ではログイン画面へリダイレクトされ本文・配布条件を確認できない。④リポジトリ内 ARTICLE.md は「1投稿 約2.08M views」を挙げるが単発の事例で、ツールによる効果の測定ではない。同ファイルに「This is experimental. No big promise.」「Demo / case-study board (this article's example — not yours by default)」と明記がある。⑤返信に添付された画像はインプレッションのスクリーンショットではなく、とんがり帽子で座る男性の風刺イラストだった（vision で確認、数値・UIなし）。インプレッション主張の裏付けにならない。⑥投稿のプロモ動画は UI のアニメーションで、「VIRAL VIEWS 1,052,489」「2.08M views」等は演出上の数値であり実測ではない。実際の画面かと問われた著者も「It's on the experimental stage now」と答えており、動画を実装済みUIの証拠にはできない。⑦コミュニティノートの「公開ボードはプレースホルダーの静的デモ」という記述は、公開ボードが実際に26件のヒット（5,295〜147,225 views）を含む data.json を読むため、そのままは確認できなかった（ノート側の記述が不正確）。ただしページ自体は静的で、事業者が再公開するまで更新されない。⑧料金・提供条件: リポジトリは MIT で無料だが、X の閲覧/API 条件、Grok Bot マーケットプレイスの提供条件・レート制限は未確認。⑨再現性: サンプルは架空データで、pipeline/ は X を呼ばない。実データ取得は利用者の X セッションかボットの読み取りツールに依存し、取得失敗は stale として残る（2026-11-09 11:00 MSK の refresh では19件が stale）。
 - [jevwire](entries/agent-framework/brainwires-jevwire.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [AI SDK](entries/agent-framework/anil-matcha-ai.md) — unverified / READMEにライセンスの記載がなく、利用条件は確認できません。 GitHub APIでライセンスを確認できていません。
