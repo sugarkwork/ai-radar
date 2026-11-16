@@ -1,5 +1,5 @@
 {
-  "count": 1218,
+  "count": 1219,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -9623,6 +9623,24 @@
       ],
       "fetched_at": "2026-11-14T21:12:35.480816+00:00",
       "path": "articles/2026-11-04-author-vino-revisiting-3d-representation-learning-with-volume-transformers.md"
+    },
+    {
+      "name": "What Caused the Microsoft 365 Outage of November 12, 2026",
+      "genre": "article",
+      "url": "https://controlplane.com/blog/post/microsoft-365-outage-november-2026-cause",
+      "published": "2026-11-13",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "Microsoftは初期のサーバー障害を引き起こした原因をまだ公表していないと記事は説明しています。",
+      "type": "article",
+      "added": "2026-11-16",
+      "first_seen": "2026-11-16",
+      "sources": [
+        "https://x.com/ueo0j/status/2122146243509973404"
+      ],
+      "fetched_at": "2026-11-16T08:19:15.035623+00:00",
+      "path": "articles/2026-11-13-author-what-caused-the-microsoft-365-outage-of-november-12-2026.md"
     },
     {
       "name": "What are vector embeddings? An interactive guide",
