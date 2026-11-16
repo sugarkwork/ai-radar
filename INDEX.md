@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1244 件 — リポジトリ 850, リンク集 120, 記事 207, モデル 53, プロンプト 14 / ⚑ 要確認 999 件
+収録 1245 件 — リポジトリ 851, リンク集 120, 記事 207, モデル 53, プロンプト 14 / ⚑ 要確認 1000 件
 
-## リポジトリ（850）
+## リポジトリ（851）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（174）
+### その他（175）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -149,6 +149,7 @@
 | [VidStab](entries/other/georgmartius-vid.stab.md) ⚑ | 991 | 126 | 月次 | 0 | 2026-08-14 | 2026-11-10 | 2026-11-10 | unknown |
 | [TrenTorch](entries/other/trentorch-trentorch.md) ⚑ | 842 | 88 | 毎日 | 100+ | 2026-11-14 | 2026-11-14 | 2026-11-14 | unknown |
 | [DSH 破甲ワークフロー（dsh-jailbreak-workflow）](entries/other/minglink-dsh-jailbreak-workflow.md) ⚑ | 816 | 284 | 週次 | 18 | 2026-11-05 | 2026-11-09 | 2026-11-10 | 未確認（API は NOASSERTION、標準ライセンスファイル無し） |
+| [vt-py](entries/other/virustotal-vt-py.md) ⚑ | 798 | 171 | 停滞 | 0 | 2026-11-10 | 2026-11-16 | 2026-11-16 | Apache-2.0 |
 | [拉片笔记（Lapian Notes）](entries/other/bkingfilm-lapian-notes.md) ⚑ | 797 | 74 | 週次 | 7 | 2026-10-26 | 2026-11-16 | 2026-11-16 | MIT |
 | [Awesome Chinese Secondhand Slang（中国二手暗语全书与避坑合规指南）](entries/other/domainsun-awesome-chinese-secondhand-slang.md) ⚑ | 777 | 51 | 週次 | 8 | 2026-10-19 | 2026-11-13 | 2026-11-13 | MIT |
 | [Orfeo](entries/other/squarebow-orfeo.md) ⚑ | 723 | 58 | 毎日 | 100+ | 2026-11-13 | 2026-11-13 | 2026-11-13 | GPL-3.0 |
@@ -2420,6 +2421,7 @@
 - [VidStab](entries/other/georgmartius-vid.stab.md) — unverified / 補正量・画質・処理速度は実測していない。READMEはmasterの仕様を含むため、最新公開リリースv1.1.2や各FFmpeg配布ビルドでの機能差は未確認。公開日の年は取得した表示から確定できなかった。ライセンス欄は親工程のAPI値を保持し、利用条件は対象バージョンのライセンス文書で確認する。 GitHub APIでライセンスを確認できていません。
 - [TrenTorch](entries/other/trentorch-trentorch.md) — unverified / READMEではPolyForm Noncommercial 1.0.0と記載されています。商用利用の可否やその他の利用条件はライセンス本文を確認してください。 GitHub APIでライセンスを確認できていません。
 - [DSH 破甲ワークフロー（dsh-jailbreak-workflow）](entries/other/minglink-dsh-jailbreak-workflow.md) — prompt-injection / モデルの拒否応答を回避する『破甲（jailbreak）』プロンプトを自動生成するためのワークフロー。各サービスの利用規約違反になり得る。記録のみで、実行・生成した内容の利用はしない。
+- [vt-py](entries/other/virustotal-vt-py.md) — unverified / READMEには依存パッケージと実行条件の記載がないため未確認。
 - [拉片笔记（Lapian Notes）](entries/other/bkingfilm-lapian-notes.md) — unverified / AI分析の品質は利用するAIに依存し、READMEは無料AIが大量の画像を処理できず分析を省略する場合があると説明している。
 - [Awesome Chinese Secondhand Slang（中国二手暗语全书与避坑合规指南）](entries/other/domainsun-awesome-chinese-secondhand-slang.md) — malicious, low-quality, unverified / READMEは、平台の敏感語検出を避けるための代替語・暗語や、文案の排雷・転译を売り手向け用途として記載している。これは規制・モデレーション回避を助けうる。収録件数と分類数にもREADME内の不一致がある。 README内で収録規模が一致しない（本文は4,569+変異形・114分類、バッジは5,082,569+変異形・149分類）。記載された語句の意味や存活状態、平台ルールへの適合性は独立確認されていない。
 - [Orfeo](entries/other/squarebow-orfeo.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。

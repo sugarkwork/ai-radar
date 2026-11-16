@@ -1,5 +1,5 @@
 {
-  "count": 1244,
+  "count": 1245,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -26578,6 +26578,37 @@
       "type": "repo",
       "path": "entries/other/minglink-dsh-jailbreak-workflow.md",
       "summary": "DeepSeek Harness（DSH）上で動く**ワークフロープラグイン**。画布でフローを設計し、計画プロンプトにコンパイルしてモデル自身に実行させる（分岐・ループ・並列に対応）。"
+    },
+    {
+      "name": "vt-py",
+      "genre": "other",
+      "url": "https://github.com/VirusTotal/vt-py",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEには依存パッケージと実行条件の記載がないため未確認。",
+      "repo": "VirusTotal/vt-py",
+      "stars": 798,
+      "forks": 171,
+      "open_issues": 16,
+      "size_kb": 10746,
+      "language": "Python",
+      "created": "2019-06-06",
+      "updated": "2026-11-10",
+      "archived": false,
+      "license": "Apache-2.0",
+      "commits_30d": 0,
+      "commits_90d": 0,
+      "commit_cadence": "stale",
+      "type": "repo",
+      "added": "2026-11-16",
+      "first_seen": "2026-11-16",
+      "sources": [
+        "https://x.com/RoundtableSpace/status/2119071100307169630"
+      ],
+      "fetched_at": "2026-11-16T17:11:56.068748+00:00",
+      "path": "entries/other/virustotal-vt-py.md",
+      "summary": "READMEによると、ファイルやURLのスキャン、ファイル・URL・ドメインなどの情報取得、VirusTotal Intelligence検索、LiveHuntルールセットと通知の管理、Retrohuntジョブの実行と結果取得、VirusTotal Graphsの操作ができる。これはREADMEに記載された機能であり、"
     },
     {
       "name": "拉片笔记（Lapian Notes）",
