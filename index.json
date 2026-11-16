@@ -1,5 +1,5 @@
 {
-  "count": 1232,
+  "count": 1233,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -26121,6 +26121,37 @@
       "fetched_at": "2026-11-12T18:09:18.512178+00:00",
       "path": "entries/other/zhihui-hu-one-ip.md",
       "summary": "IPv4/IPv6の所在・事業者・ASN・評判スコア・地図表示、DNS/WebRTC漏洩検出、AI・動画配信サービス等への接続診断、Cloudflareエッジネットワークを使った速度測定、WHOIS、Global Ping、ブラウザー指紋・環境検出、サービス状態確認を提供する。中英語、ライト/ダークテーマ、モバイル表示"
+    },
+    {
+      "name": "VFX-JS",
+      "genre": "other",
+      "url": "https://github.com/fand/vfx-js",
+      "repo": "fand/vfx-js",
+      "license": "MIT",
+      "stars": 1190,
+      "language": "TypeScript",
+      "created": "2019-12-14",
+      "updated": "2026-11-14",
+      "forks": 40,
+      "open_issues": 8,
+      "commits_30d": 55,
+      "commit_cadence": "daily",
+      "commits_90d": 55,
+      "size_kb": 110282,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 有効性。",
+      "type": "repo",
+      "added": "2026-11-16",
+      "first_seen": "2026-11-16",
+      "sources": [
+        "https://x.com/slashui/status/2122136865960562784"
+      ],
+      "fetched_at": "2026-11-16T10:25:06.262014+00:00",
+      "path": "entries/other/fand-vfx-js.md",
+      "summary": "HTMLの画像・動画・テキストなどにWebGLエフェクトを適用し、エフェクトを重ねたりGLSLで独自エフェクトを書いたりできます。DOMをキャプチャしてページ遷移エフェクトを適用する機能も説明されています。出典: https://github.com/fand/vfx-js"
     },
     {
       "repo": "Tencent/WeVisOne-VL",
