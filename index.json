@@ -1,5 +1,5 @@
 {
-  "count": 1245,
+  "count": 1246,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -24409,6 +24409,37 @@
       "fetched_at": "2026-11-13T20:09:13.755613+00:00",
       "path": "entries/other/antoniaci-blackbird.md",
       "summary": "READMEによると、ユーザー名またはメールアドレスを600以上のプラットフォームで検索し、結果をPDF/CSVに出力するCLI。任意のAI機能は見つかったサイト名を分析してユーザーの行動・技術プロフィールを返すと説明されている。READMEはAIへ送信するのはサイト名のみと主張している。"
+    },
+    {
+      "name": "YARA",
+      "genre": "other",
+      "url": "https://github.com/VirusTotal/yara",
+      "repo": "VirusTotal/yara",
+      "license": "BSD-3-Clause",
+      "stars": 10043,
+      "language": "C",
+      "created": "2012-12-06",
+      "updated": "2026-10-27",
+      "forks": 1605,
+      "open_issues": 170,
+      "commits_30d": 16,
+      "commit_cadence": "weekly",
+      "commits_90d": 29,
+      "size_kb": 24478,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "プロジェクトはメンテナンスモードです。READMEに記載された具体的なサポート期間や今後の更新方針は確認できません。",
+      "type": "repo",
+      "added": "2026-11-16",
+      "first_seen": "2026-11-16",
+      "sources": [
+        "https://x.com/RoundtableSpace/status/2119071100307169630"
+      ],
+      "fetched_at": "2026-11-16T17:11:37.542909+00:00",
+      "path": "entries/other/virustotal-yara.md",
+      "summary": "テキストまたはバイナリのパターンと真偽式を組み合わせたルールを作成し、ファイルを識別・分類できます。ワイルドカード、大文字小文字を区別しない文字列、正規表現、特殊演算子などを利用できます。出典: https://github.com/VirusTotal/yara"
     },
     {
       "repo": "open-slide/open-slide",
