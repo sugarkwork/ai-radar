@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1208 件 — リポジトリ 831, リンク集 120, 記事 190, モデル 53, プロンプト 14 / ⚑ 要確認 969 件
+収録 1209 件 — リポジトリ 832, リンク集 120, 記事 190, モデル 53, プロンプト 14 / ⚑ 要確認 970 件
 
-## リポジトリ（831）
+## リポジトリ（832）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -671,7 +671,7 @@
 | [lab-tts](entries/tts-audio/lakimi-ai-systems-lab-tts.md) ⚑ | 8 | 0 | 月次 | 3 | 2026-11-03 | 2026-11-10 | 2026-11-10 | Apache-2.0 |
 | [Voxarium](entries/tts-audio/ahmadmansy-voxarium.md) ⚑ | 7 | 0 | 毎日 | 40 | 2026-11-08 | 2026-11-13 | 2026-11-13 | AGPL-3.0 |
 
-### モデル推論・配信（34）
+### モデル推論・配信（35）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -681,6 +681,7 @@
 | [vLLM](entries/model-serving/vllm-project-vllm.md) ⚑ | 96,992 | 24,870 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-16 | Apache-2.0 |
 | [OmniRoute](entries/model-serving/cheaper-inference-omniroute.md) | 85,969 | 13,041 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
 | [LocalAI](entries/model-serving/mudler-localai.md) ⚑ | 50,388 | 4,610 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-16 | MIT |
+| [exo](entries/model-serving/exo-explore-exo.md) ⚑ | 48,446 | 3,621 | 毎日 | 81 | 2026-11-06 | 2026-11-16 | 2026-11-16 | Apache-2.0 |
 | [Jan](entries/model-serving/janhq-jan.md) ⚑ | 45,734 | 3,177 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-16 | unknown |
 | [Strata](entries/model-serving/niko1221-strata.md) ⚑ | 42,470 | 4,641 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
 | [MiniCPM-V](entries/model-serving/openbmb-minicpm-v.md) | 27,117 | 2,127 | 毎日 | 34 | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
@@ -2210,6 +2211,7 @@
 - [llama.cpp](entries/model-serving/ggml-org-llama.cpp.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係。
 - [vLLM](entries/model-serving/vllm-project-vllm.md) — unverified / READMEには、必要なGPU・CPUの最低要件や対応するソフトウェアのバージョン条件が記載されていません。
 - [LocalAI](entries/model-serving/mudler-localai.md) — unverified / チーム共有やアドオンなどREADMEでdevelopment buildsとされる機能は、通常の最新リリースでは利用できるか不明。README記載の版情報は取得時点の独立確認ではない。
+- [exo](entries/model-serving/exo-explore-exo.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係。
 - [Jan](entries/model-serving/janhq-jan.md) — unverified / GitHub APIでライセンスを確認できていません。
 - [Strata](entries/model-serving/niko1221-strata.md) — unverified / Mac31%・Linuxほぼ3倍等はリリースノートで同じ条件の根拠がない箇所がある。control vectorは特定Qwen向け実験で既定off。 今回の動作・推論・生成・性能は未検証。
 - [DeepInfer](entries/model-serving/deepseek-ai-deepinfer.md) — unverified / 公開版はオフライン推論用。起動と公表性能の再現は未確認。

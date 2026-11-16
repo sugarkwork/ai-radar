@@ -1,5 +1,5 @@
 {
-  "count": 1208,
+  "count": 1209,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -20448,6 +20448,37 @@
       "fetched_at": "2026-11-16T05:28:23.644229+00:00",
       "path": "entries/model-serving/mudler-localai.md",
       "summary": "ローカルのハードウェア上で、テキスト、視覚、音声、画像、動画、埋め込みなどのモデルをAPI経由で提供する。READMEはOpenAI、Anthropic、ElevenLabs形式のAPIと80超のバックエンドを記載している。チャット、ツール・MCPを使うエージェント、ファイルやコレクション、音声入出力、画像生成、分散モ"
+    },
+    {
+      "name": "exo",
+      "genre": "model-serving",
+      "url": "https://github.com/exo-explore/exo",
+      "repo": "exo-explore/exo",
+      "license": "Apache-2.0",
+      "stars": 48446,
+      "language": "Python",
+      "created": "2024-06-24",
+      "updated": "2026-11-06",
+      "forks": 3621,
+      "open_issues": 472,
+      "commits_30d": 81,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 43669,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景・有効性・依存関係。",
+      "type": "repo",
+      "added": "2026-11-16",
+      "first_seen": "2026-11-16",
+      "sources": [
+        "https://x.com/naka_1717/status/2119034856676159987"
+      ],
+      "fetched_at": "2026-11-16T05:30:14.749291+00:00",
+      "path": "entries/model-serving/exo-explore-exo.md",
+      "summary": "exoはデバイスをAIクラスターとして接続し、単一デバイスには収まらない大きさのモデルを実行できるとREADMEで説明されています。デバイスの自動検出、デバイス構成やネットワークを考慮したモデル分割、Tensor Parallelism、MLXを使った推論、OpenAI Chat Completions・Claude "
     },
     {
       "name": "Jan",
