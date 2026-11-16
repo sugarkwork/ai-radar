@@ -1,5 +1,5 @@
 {
-  "count": 1231,
+  "count": 1232,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -28840,6 +28840,37 @@
       "fetched_at": "2026-11-10T09:23:57Z",
       "path": "entries/prompt-design/zhanghao123vip-ai-manju-skills.md",
       "summary": "物語のアイデアをもとに、企画書、人物・小道具・背景などの画像生成プロンプト、各話の台本、絵コンテ・動画生成プロンプト、表紙や投稿文の案を段階的に出力する。"
+    },
+    {
+      "name": "Universal Fable 5 System Prompt",
+      "genre": "prompt-design",
+      "url": "https://github.com/KinetiNode/claude-fable-5-system-prompt-clean",
+      "repo": "KinetiNode/claude-fable-5-system-prompt-clean",
+      "license": "MIT",
+      "stars": 525,
+      "language": "unknown",
+      "created": "2026-07-19",
+      "updated": "2026-08-08",
+      "forks": 112,
+      "open_issues": 1,
+      "commits_30d": 0,
+      "commit_cadence": "stale",
+      "commits_90d": 0,
+      "size_kb": 34,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 依存関係。",
+      "type": "repo",
+      "added": "2026-11-16",
+      "first_seen": "2026-11-16",
+      "sources": [
+        "https://x.com/ruyi3699/status/2119046206965899745"
+      ],
+      "fetched_at": "2026-11-16T09:24:31.719721+00:00",
+      "path": "entries/prompt-design/kinetinode-claude-fable-5-system-prompt-clean.md",
+      "summary": "Claude Fable 5 / Mythos 5の公開システムプロンプトから、XML形式、ツール連携、製品固有の指示などClaude固有の実装要素を除き、他のモデルにも適用できる行動指針を抽出したプロンプトを提供する。core、balanced、completeの3種類を収録。READMEではClaude、ChatG"
     },
     {
       "name": "Moyu（摸鱼）",

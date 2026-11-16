@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1231 件 — リポジトリ 838, リンク集 120, 記事 206, モデル 53, プロンプト 14 / ⚑ 要確認 987 件
+収録 1232 件 — リポジトリ 839, リンク集 120, 記事 206, モデル 53, プロンプト 14 / ⚑ 要確認 988 件
 
-## リポジトリ（838）
+## リポジトリ（839）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -788,7 +788,7 @@
 | [JevOnAir](entries/finance-quant/valuecodes-jev-on-air.md) ⚑ | 0 | 0 | 週次 | 11 | 2026-11-09 | 2026-11-10 | 2026-11-10 | MIT |
 | [jev-polymarket-test](entries/finance-quant/truongxxxx-jev-polymarket-test.md) ⚑ | 0 | 0 | 停滞 | 0 | 2026-10-10 | 2026-11-10 | 2026-11-10 | MIT |
 
-### プロンプト（デザイン/UI）（29）
+### プロンプト（デザイン/UI）（30）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -816,6 +816,7 @@
 | [GitReverse](entries/prompt-design/filiksyos-gitreverse.md) ⚑ | 2,081 | 337 | 週次 | 8 | 2026-11-10 | 2026-11-11 | 2026-11-11 | MIT |
 | [Casting-Workflow](entries/prompt-design/dama-cyber-casting-workflow.md) ⚑ | 710 | 136 | 停滞 | 0 | 2026-08-07 | 2026-11-14 | 2026-11-14 | unknown |
 | [AI 漫剧 Skills](entries/prompt-design/zhanghao123vip-ai-manju-skills.md) ⚑ | 695 | 124 | 月次 | 2 | 2026-11-01 | 2026-11-10 | 2026-11-10 | MIT |
+| [Universal Fable 5 System Prompt](entries/prompt-design/kinetinode-claude-fable-5-system-prompt-clean.md) ⚑ | 525 | 112 | 停滞 | 0 | 2026-08-08 | 2026-11-16 | 2026-11-16 | MIT |
 | [Moyu（摸鱼）](entries/prompt-design/uucz-moyu.md) ⚑ | 307 | 13 | 停滞 | 0 | 2026-07-30 | 2026-11-14 | 2026-11-14 | MIT |
 | [TAP (Tree of Attacks with Pruning)](entries/prompt-design/ricommunity-tap.md) ⚑ | 253 | 42 | 停滞 | 0 | 2024-12-10 | 2026-11-13 | 2026-11-13 | MIT |
 | [better-readme](entries/prompt-design/tommy0103-better-readme-skill.md) ⚑ | 32 | 1 | 停滞 | 0 | 2026-10-08 | 2026-11-09 | 2026-11-10 | MIT |
@@ -2469,6 +2470,7 @@
 - [GitReverse](entries/prompt-design/filiksyos-gitreverse.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Casting-Workflow](entries/prompt-design/dama-cyber-casting-workflow.md) — unverified / 内容の独創性や朱雀検出への効果はREADME内の作者の説明であり、独立検証は確認できません。READMEはMITと記載していますが、測定データ上のライセンス情報はunknownです。 GitHub APIでライセンスを確認できていません。
 - [AI 漫剧 Skills](entries/prompt-design/zhanghao123vip-ai-manju-skills.md) — unverified / 最新リリースは未確認。動作検証はREADMEの作者報告に基づく。残りの題材の個別動作、各対応環境での再現性、生成物の品質は今回独立に検証していない。
+- [Universal Fable 5 System Prompt](entries/prompt-design/kinetinode-claude-fable-5-system-prompt-clean.md) — unverified / 一次資料で未確認: 依存関係。
 - [Moyu（摸鱼）](entries/prompt-design/uucz-moyu.md) — unverified / 過度なエンジニアリングを抑える効果としてREADMEに記載された説明・数値は、独立した検証結果として確認されていない。
 - [TAP (Tree of Attacks with Pruning)](entries/prompt-design/ricommunity-tap.md) — unverified / READMEは、制限情報を求めるgoalと応答のtarget prefixを指定して実行する例を示している。対象モデルへの利用許可やAPI利用料金はREADMEから確認できない。
 - [better-readme](entries/prompt-design/tommy0103-better-readme-skill.md) — unverified / GitHub の language は null（コードが無く Markdown のみ）。同梱の Art of README 本文には上流のライセンス表記が無く、上流 https://github.com/noffle/art-of-readme も 404 のため再配布条件は未確認。効果（使う前と後で変わる）は作者の主張のみで、before/after 例・テスト・第三者評価はリポジトリに無い。npx skills add は npm の skills v1.7.6 とそのドキュメントで実在を確認したが、この環境では実行できず、実際のインストール成否は未確認。投稿の画像は撮影時点で star 0 の README 画面で、現在値（31）とは一致しない。
