@@ -1,5 +1,5 @@
 {
-  "count": 1190,
+  "count": 1191,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -24367,6 +24367,37 @@
       "fetched_at": "2026-11-13T20:10:45.297706+00:00",
       "path": "entries/other/achillean-shodan-python.md",
       "summary": "READMEは、Shodanの検索、IP情報の高速・一括照会、リアルタイムのストリーミングAPI、ネットワークアラート管理、Exploit検索API、データの一括ダウンロード、Shodan DNS DBのドメイン情報参照、およびコマンドラインインターフェースを機能として挙げている。これらはREADMEの説明であり、独立"
+    },
+    {
+      "name": "Swarm Rebuild",
+      "genre": "other",
+      "url": "https://github.com/DhvanilPatel/swarm-cursors",
+      "repo": "DhvanilPatel/swarm-cursors",
+      "license": "unknown",
+      "stars": 3339,
+      "language": "JavaScript",
+      "created": "2026-10-14",
+      "updated": "2026-11-11",
+      "forks": 365,
+      "open_issues": 20,
+      "commits_30d": 7,
+      "commit_cadence": "weekly",
+      "commits_90d": 9,
+      "size_kb": 20455,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEには「None yet」とあり、ライセンスは設定されていない。コードの再利用条件は権利者への確認が必要。 GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-16",
+      "first_seen": "2026-11-16",
+      "sources": [
+        "https://x.com/awe0_io/status/2119017257707941899"
+      ],
+      "fetched_at": "2026-11-16T01:29:01.580550+00:00",
+      "path": "entries/other/dhvanilpatel-swarm-cursors.md",
+      "summary": "Chrome拡張機能として、ページを一時的に覆い、DOMのスナップショットをもとにテキスト、図形、線、メディア、重複要素をカーソル群が組み立てる様子を表示する。スクロールに追従し、速度変更、音、録画用の自動スクロール、再生・終了にも対応する。再構築は視覚表現で、元ページのスクリプトは再構築レイヤー内では動作しない。"
     },
     {
       "name": "Tendedero",

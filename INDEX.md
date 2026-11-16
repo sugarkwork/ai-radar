@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1190 件 — リポジトリ 815, リンク集 120, 記事 188, モデル 53, プロンプト 14 / ⚑ 要確認 954 件
+収録 1191 件 — リポジトリ 816, リンク集 120, 記事 188, モデル 53, プロンプト 14 / ⚑ 要確認 955 件
 
-## リポジトリ（815）
+## リポジトリ（816）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（160）
+### その他（161）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Marp CLI](entries/other/marp-team-marp-cli.md) ⚑ | 3,922 | 207 | 月次 | 0 | 2026-09-08 | 2026-11-15 | 2026-11-15 | MIT |
 | [TweenJS](entries/other/createjs-tweenjs.md) ⚑ | 3,553 | 936 | 停滞 | 0 | 2023-12-18 | 2026-11-15 | 2026-11-15 | MIT |
 | [shodan-python](entries/other/achillean-shodan-python.md) ⚑ | 3,487 | 785 | 停滞 | 0 | 2024-08-05 | 2026-11-13 | 2026-11-14 | unknown |
+| [Swarm Rebuild](entries/other/dhvanilpatel-swarm-cursors.md) ⚑ | 3,339 | 365 | 週次 | 7 | 2026-11-11 | 2026-11-16 | 2026-11-16 | unknown |
 | [Tendedero](entries/other/alejandrobujan-tendedero.md) ⚑ | 3,198 | 290 | 毎日 | 62 | 2026-11-12 | 2026-11-13 | 2026-11-14 | unknown |
 | [Open Source Face Recognition SDK](entries/other/faceplugin-ltd-open-source-face-recognition-sdk.md) ⚑ | 3,161 | 530 | 月次 | 0 | 2026-10-02 | 2026-11-14 | 2026-11-14 | unknown |
 | [Vexa](entries/other/vexa-ai-vexa.md) ⚑ | 2,965 | 544 | 週次 | 4 | 2026-11-09 | 2026-11-10 | 2026-11-10 | Apache-2.0 |
@@ -2296,6 +2297,7 @@
 - [Marp CLI](entries/other/marp-team-marp-cli.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [TweenJS](entries/other/createjs-tweenjs.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [shodan-python](entries/other/achillean-shodan-python.md) — unverified / READMEにはライセンス情報がなく、ライセンスは確認できていない。利用にはShodan APIキーが必要。 GitHub APIでライセンスを確認できていません。
+- [Swarm Rebuild](entries/other/dhvanilpatel-swarm-cursors.md) — unverified / READMEには「None yet」とあり、ライセンスは設定されていない。コードの再利用条件は権利者への確認が必要。 GitHub APIでライセンスを確認できていません。
 - [Tendedero](entries/other/alejandrobujan-tendedero.md) — unverified / GitHub APIでライセンスを確認できていません。
 - [Open Source Face Recognition SDK](entries/other/faceplugin-ltd-open-source-face-recognition-sdk.md) — low-quality, unverified / README заявляет «high accuracy», «real-time» и «completely free», но не приводит измерений точности или скорости; лицензионные условия не указаны. Эти заявления не представлены как независимо проверенные факты. README называет SDK бесплатным и открытым, но API указывает лицензию как unknown. Условия использования и лицензирования не подтверждены. GitHub APIでライセンスを確認できていません。
 - [Vexa](entries/other/vexa-ai-vexa.md) — unverified / 会議への参加、文字起こしの精度・遅延、話者割り当て、Macでの起動、MCP接続は独立実測なし。Jitsiのライブ検証はREADME上で保留。最新リリースの公開日時は年とタイムゾーンまで確認できなかった。
