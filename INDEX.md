@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1201 件 — リポジトリ 824, リンク集 120, 記事 190, モデル 53, プロンプト 14 / ⚑ 要確認 962 件
+収録 1202 件 — リポジトリ 825, リンク集 120, 記事 190, モデル 53, プロンプト 14 / ⚑ 要確認 963 件
 
-## リポジトリ（824）
+## リポジトリ（825）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（163）
+### その他（164）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Neural Networks: Zero to Hero](entries/other/karpathy-nn-zero-to-hero.md) ⚑ | 25,433 | 3,697 | 停滞 | 0 | 2024-08-18 | 2026-11-10 | 2026-11-10 | MIT |
 | [SpiderFoot](entries/other/smicallef-spiderfoot.md) ⚑ | 24,564 | 4,081 | 停滞 | 0 | 2026-04-13 | 2026-11-13 | 2026-11-14 | MIT |
 | [ego lite](entries/other/citrolabs-ego-lite.md) ⚑ | 22,387 | 1,269 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | MIT |
+| [Rough.js](entries/other/rough-stuff-rough.md) ⚑ | 21,384 | 671 | 停滞 | 0 | 2024-07-28 | 2026-11-16 | 2026-11-16 | MIT |
 | [res-downloader](entries/other/putyy-res-downloader.md) ⚑ | 21,255 | 2,609 | 停滞 | 0 | 2026-11-11 | 2026-11-13 | 2026-11-13 | Apache-2.0 |
 | [SAM 2](entries/other/facebookresearch-sam2.md) | 20,155 | 2,592 | 停滞 | 0 | 2026-05-30 | 2026-11-16 | 2026-11-16 | Apache-2.0 |
 | [ActivityWatch](entries/other/activitywatch-activitywatch.md) ⚑ | 19,621 | 1,078 | 週次 | 19 | 2026-11-13 | 2026-11-14 | 2026-11-14 | MPL-2.0 |
@@ -2269,6 +2270,7 @@
 - [Neural Networks: Zero to Hero](entries/other/karpathy-nn-zero-to-hero.md) — unverified / 最新リリースのタグと公開日は未確認。ノートブックは実行しておらず、依存ライブラリの対応バージョン、必要な計算資源、学習成果は独立検証していない。外部サービスの利用条件や料金は未確認。
 - [SpiderFoot](entries/other/smicallef-spiderfoot.md) — unverified / モジュールごとのAPIキー要件や料金の詳細はREADMEだけでは特定できない。
 - [ego lite](entries/other/citrolabs-ego-lite.md) — unverified / 公式リリース一覧ではv2.1.0がLatestと表示された。最新リリースへの直接アクセスはタイムアウトし、公開日時は未確認。作者ベンチマークの再現性、ブラウザデータの取り扱い、Spaces間の分離の実効性は未検証。
+- [Rough.js](entries/other/rough-stuff-rough.md) — unverified / 一次資料で未確認: 依存関係。
 - [res-downloader](entries/other/putyy-res-downloader.md) — unverified / README says setup requires allowing certificate installation and network access. It also notes that the system proxy may need to be turned off manually after closing the app.
 - [ActivityWatch](entries/other/activitywatch-activitywatch.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [ai-goofish-monitor](entries/other/usagi-org-ai-goofish-monitor.md) — unverified / 判定精度、通知遅延、現行の闲鱼環境での動作、モデルAPIの実利用料金、最新リリースの公開日時は未確認。プラットフォームの利用条件への適合性は利用形態に依存する。

@@ -1,5 +1,5 @@
 {
-  "count": 1201,
+  "count": 1202,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -23029,6 +23029,37 @@
       "fetched_at": "2026-11-10T09:19:17Z",
       "path": "entries/other/citrolabs-ego-lite.md",
       "summary": "CodexやClaude Codeが専用のSpaceでページを開き、構造化テキストとして内容を読み取ったり、フォームに入力したりできる。利用者は自分のSpaceで閲覧を続けられる。"
+    },
+    {
+      "name": "Rough.js",
+      "genre": "other",
+      "url": "https://github.com/rough-stuff/rough",
+      "repo": "rough-stuff/rough",
+      "stars": 21384,
+      "forks": 671,
+      "open_issues": 42,
+      "size_kb": 6173,
+      "language": "HTML",
+      "created": "2016-12-13",
+      "updated": "2024-07-28",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 0,
+      "commits_90d": 0,
+      "commit_cadence": "stale",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 依存関係。",
+      "type": "repo",
+      "added": "2026-11-16",
+      "first_seen": "2026-11-16",
+      "sources": [
+        "https://x.com/taki_auto/status/2122162883320848580"
+      ],
+      "fetched_at": "2026-11-16T05:22:56.033660+00:00",
+      "path": "entries/other/rough-stuff-rough.md",
+      "summary": "CanvasとSVGの両方で、線、曲線、円弧、多角形、円、楕円、SVGパスをスケッチ風に描画できる。塗りつぶしスタイルやroughness、bowingなどの指定もREADMEに記載されている。"
     },
     {
       "name": "res-downloader",
