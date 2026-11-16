@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1215 件 — リポジトリ 835, リンク集 120, 記事 193, モデル 53, プロンプト 14 / ⚑ 要確認 975 件
+収録 1216 件 — リポジトリ 835, リンク集 120, 記事 194, モデル 53, プロンプト 14 / ⚑ 要確認 976 件
 
 ## リポジトリ（835）
 
@@ -1405,9 +1405,9 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（193）
+## 記事（194）
 
-### 記事（130）
+### 記事（131）
 
 - **[$0のデジタル参謀長で月$80,000の契約候補を作ったというX投稿（動画付き）](articles/2026-10-22-bober_smart-0-80-000-x.md)** ⚑  @Bober_smart
 - **[1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md)** ⚑  @mukadeshinigami（mukade死神）
@@ -1539,6 +1539,7 @@
 - **[無料の動画モーキャプ「RGB MoCap」を試したらすごかった話](articles/2026-11-07-author-rgb-mocap.md)** ⚑
 - **[画像1枚から3Dの「Idol」を16GB GPUで動かした——キャラシート正面1枚が37秒で26万粒のガウシアンスプラットに。Blender 5.3はアドオンなしで読んで撮れた](articles/2026-11-09-author-1-3d-idol-16gb-gpu-1-37-26-blender-5.3.md)** ⚑
 - **[自主制作AIドラマ《最后的巨魔》](articles/2026-10-22-jiuyueaigc-ai.md)** ⚑  @JiuYueAIGC
+- **[세무사 수석 ‘AI 부정’ 자백…인력공단, 국가자격시험 전수조사 [종합]](articles/2026-11-15-author-ai.md)** ⚑
 
 ### 動画生成パイプライン（18）
 
@@ -1929,6 +1930,7 @@
 - [無料の動画モーキャプ「RGB MoCap」を試したらすごかった話](articles/2026-11-07-author-rgb-mocap.md) — unverified / 記事で報告される処理時間、メモリ・VRAM使用量、精度や補正効果は著者の特定環境・動画での結果であり、独立した測定や一般的な性能保証ではない。
 - [画像1枚から3Dの「Idol」を16GB GPUで動かした——キャラシート正面1枚が37秒で26万粒のガウシアンスプラットに。Blender 5.3はアドオンなしで読んで撮れた](articles/2026-11-09-author-1-3d-idol-16gb-gpu-1-37-26-blender-5.3.md) — unverified / H3の参照動画に使った場合の改善効果は未検証。記事中の生成時間・VRAM値は作者環境での報告で、異なる環境や入力での性能を保証しない。
 - [自主制作AIドラマ《最后的巨魔》](articles/2026-10-22-jiuyueaigc-ai.md) — unverified / 再生数と制作ツールは未確認。
+- [세무사 수석 ‘AI 부정’ 자백…인력공단, 국가자격시험 전수조사 [종합]](articles/2026-11-15-author-ai.md) — unverified / 당사자의 부정행위 관련 내용은 기사에 인용된 본인의 시인 등을 바탕으로 보도되었으며, 수사·행정 절차의 최종 결과는 확인되지 않았다.
 - [ECC](entries/coding-agent/affaan-m-ecc.md) — unverified / READMEには、実行に必要な具体的な依存関係や環境条件の記載がありません。
 - [Karpathy Guidelines（karpathy-guidelines スキル）](entries/coding-agent/multica-ai-andrej-karpathy-skills.md) — unverified / 効果は未検証：README の定性チェックリスト以外に実測・ベンチマークがなく、効能は著者の主張にとどまる。Karpathy 本人の監修・寄稿はなく、第三者が本人のX投稿（2026-01-26）を4原則に再構成した非公式プロジェクト（旧リビジョンの README には非公式である旨の免責があったが現行 README では削除済み）。ライセンスは LICENSE ファイルがなく API は null（README・SKILL.md・plugin.json は MIT と記載）のため unknown 扱い。2026-04-20 以降コミットがなく stale、open_issues 139 は Issues 無効化（has_issues=false）のため実質 PR。README のインストール手順は forrestchang 名義の URL で、multica-ai へ301リダイレクトする移管前の記述のまま。
 - [Claude Code](entries/coding-agent/anthropics-claude-code.md) — unverified / 投稿のClaude Opus 5.5の使用、2.5D制作工程の一貫実行、完成動画の品質、費用ゼロの主張は未確認。CLIやMCPは公式文書で確認し、動作と効果の独立実測は行っていない。最新リリースと再配布条件の詳細は未確認。90日コミット数の100は集計上限で、100件以上を示す。 GitHub APIでライセンスを確認できていません。

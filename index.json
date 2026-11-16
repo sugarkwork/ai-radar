@@ -1,5 +1,5 @@
 {
-  "count": 1215,
+  "count": 1216,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -10010,6 +10010,24 @@
       ],
       "fetched_at": "2026-11-10T03:32:49Z",
       "path": "articles/2026-10-22-jiuyueaigc-ai.md"
+    },
+    {
+      "name": "세무사 수석 ‘AI 부정’ 자백…인력공단, 국가자격시험 전수조사 [종합]",
+      "genre": "article",
+      "url": "https://www.etoday.co.kr/news/view/2648320",
+      "published": "2026-11-15",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "당사자의 부정행위 관련 내용은 기사에 인용된 본인의 시인 등을 바탕으로 보도되었으며, 수사·행정 절차의 최종 결과는 확인되지 않았다.",
+      "type": "article",
+      "added": "2026-11-16",
+      "first_seen": "2026-11-16",
+      "sources": [
+        "https://x.com/ueo0j/status/2122146243509973404"
+      ],
+      "fetched_at": "2026-11-16T08:17:37.913372+00:00",
+      "path": "articles/2026-11-15-author-ai.md"
     },
     {
       "name": "ECC",
