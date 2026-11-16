@@ -1,5 +1,5 @@
 {
-  "count": 1226,
+  "count": 1227,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -9113,6 +9113,24 @@
       ],
       "fetched_at": "2026-11-14T06:18:16.591647+00:00",
       "path": "articles/2026-11-06-author-measuring-how-ai-agents-handle-everyday-wet-lab-science.md"
+    },
+    {
+      "name": "Microsoft confirms Windows activation failures after November updates",
+      "genre": "article",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-activation-failures-after-november-updates/",
+      "published": "2026-11-13",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "記事は修正が数日以内に提供される見込みと報じていますが、現在の修正提供状況はこの記事から確認できません。Microsoft のサービス通知への直接リンクも記事内で確認できません。",
+      "type": "article",
+      "added": "2026-11-16",
+      "first_seen": "2026-11-16",
+      "sources": [
+        "https://x.com/ueo0j/status/2122146243509973404"
+      ],
+      "fetched_at": "2026-11-16T08:25:20.643976+00:00",
+      "path": "articles/2026-11-13-author-microsoft-confirms-windows-activation-failures-after-november-updates.md"
     },
     {
       "name": "Microsoft’s November 2026 Patch Tuesday addresses 1093 CVEs (CVE-2026-124194)",
