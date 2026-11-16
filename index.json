@@ -1,5 +1,5 @@
 {
-  "count": 1189,
+  "count": 1190,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -19278,6 +19278,37 @@
       "fetched_at": "2026-11-10T12:48:03+00:00",
       "path": "entries/mcp-server/every-app-open-seo.md",
       "summary": "キーワード調査、順位追跡、競合分析、被リンク調査、サイト監査、AI検索での可視性調査を扱う。公式MCPガイドでは、検索量・難易度・CPCやGoogleのオーガニック検索結果をAIクライアントから取得できるとしている。"
+    },
+    {
+      "name": "Pascal Editor",
+      "genre": "mcp-server",
+      "url": "https://github.com/pascalorg/editor",
+      "repo": "pascalorg/editor",
+      "license": "MIT",
+      "stars": 25529,
+      "language": "TypeScript",
+      "created": "2025-10-16",
+      "updated": "2026-11-14",
+      "forks": 3174,
+      "open_issues": 57,
+      "commits_30d": 100,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 192437,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 有効性・依存関係・実行条件。",
+      "type": "repo",
+      "added": "2026-11-16",
+      "first_seen": "2026-11-16",
+      "sources": [
+        "https://x.com/awe0_io/status/2119016448001728685"
+      ],
+      "fetched_at": "2026-11-16T01:28:10.186722+00:00",
+      "path": "entries/mcp-server/pascalorg-editor.md",
+      "summary": "READMEによると、Pascal Editorはブラウザー上で3D建物モデルを作成・編集するツールです。サイト、建物、階、壁、床、屋根、開口部、部屋、家具を扱い、3Dスキャンを参照レイヤーとして取り込んで、その上に編集可能な建築要素をモデル化できます。MCPサーバーを通じてエージェントがシーンを読み取り、編集、検証、"
     },
     {
       "repo": "GLips/Figma-Context-MCP",
