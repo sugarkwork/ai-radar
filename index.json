@@ -1,5 +1,5 @@
 {
-  "count": 1229,
+  "count": 1230,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -26343,6 +26343,37 @@
       "type": "repo",
       "path": "entries/other/minglink-dsh-jailbreak-workflow.md",
       "summary": "DeepSeek Harness（DSH）上で動く**ワークフロープラグイン**。画布でフローを設計し、計画プロンプトにコンパイルしてモデル自身に実行させる（分岐・ループ・並列に対応）。"
+    },
+    {
+      "name": "拉片笔记（Lapian Notes）",
+      "genre": "other",
+      "url": "https://github.com/bkingfilm/lapian-notes",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "AI分析の品質は利用するAIに依存し、READMEは無料AIが大量の画像を処理できず分析を省略する場合があると説明している。",
+      "repo": "bkingfilm/lapian-notes",
+      "stars": 797,
+      "forks": 74,
+      "open_issues": 1,
+      "size_kb": 852,
+      "language": "TypeScript",
+      "created": "2026-07-08",
+      "updated": "2026-10-26",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 7,
+      "commits_90d": 9,
+      "commit_cadence": "weekly",
+      "type": "repo",
+      "added": "2026-11-16",
+      "first_seen": "2026-11-16",
+      "sources": [
+        "https://x.com/fhwofjow51260/status/2119043539309113474"
+      ],
+      "fetched_at": "2026-11-16T08:32:00.400931+00:00",
+      "path": "entries/other/bkingfilm-lapian-notes.md",
+      "summary": "映画から1秒間隔でフレームを抽出し、字幕とともにAI分析用のZIPを作成できる。AIの分析結果を読み込むと、剧情泳道时间轴・構造ツリー・観客の感情曲線を生成し、段落ノートを編集してMarkdownなどに出力できる。作者のREADMEによる機能説明。出典: https://github.com/bkingfilm/lap"
     },
     {
       "name": "Awesome Chinese Secondhand Slang（中国二手暗语全书与避坑合规指南）",
