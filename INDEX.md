@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1213 件 — リポジトリ 835, リンク集 120, 記事 191, モデル 53, プロンプト 14 / ⚑ 要確認 974 件
+収録 1214 件 — リポジトリ 835, リンク集 120, 記事 192, モデル 53, プロンプト 14 / ⚑ 要確認 974 件
 
 ## リポジトリ（835）
 
@@ -1405,9 +1405,9 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（191）
+## 記事（192）
 
-### 記事（128）
+### 記事（129）
 
 - **[$0のデジタル参謀長で月$80,000の契約候補を作ったというX投稿（動画付き）](articles/2026-10-22-bober_smart-0-80-000-x.md)** ⚑  @Bober_smart
 - **[1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md)** ⚑  @mukadeshinigami（mukade死神）
@@ -1426,6 +1426,7 @@
 - **[Advancing science & engineering with Antigravity’s /teamwork](articles/2026-11-13-author-advancing-science-engineering-with-antigravity-s-teamwork.md)** ⚑
 - **[After courting Trump, corporate America faces a Democratic reckoning](articles/2026-11-06-author-after-courting-trump-corporate-america-faces-a-democratic-reckoning.md)** ⚑
 - **[Almost no one uses AI agents to book their Uber, company says](articles/2026-11-04-author-almost-no-one-uses-ai-agents-to-book-their-uber-company-says.md)** ⚑
+- **[An update on our recent security incident](articles/2026-11-13-author-an-update-on-our-recent-security-incident.md)**
 - **[Asia stocks crumble after AI rout hits US markets](articles/2026-11-06-author-asia-stocks-crumble-after-ai-rout-hits-us-markets.md)**
 - **[Axion 1.0: Open Agent Foundation Models, Simplified](articles/2026-11-02-author-axion-1.0-open-agent-foundation-models-simplified.md)** ⚑
 - **[Bernat Vadellによる音声エージェント構築の実践メモ](articles/2026-11-06-author-bernat-vadell.md)**

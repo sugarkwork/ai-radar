@@ -1,5 +1,5 @@
 {
-  "count": 1213,
+  "count": 1214,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -7936,6 +7936,22 @@
       ],
       "fetched_at": "2026-11-10T18:09:22Z",
       "path": "articles/2026-11-04-author-almost-no-one-uses-ai-agents-to-book-their-uber-company-says.md"
+    },
+    {
+      "name": "An update on our recent security incident",
+      "genre": "article",
+      "url": "https://cursor.com/blog/security-incident-update",
+      "published": "2026-11-13",
+      "flags": [],
+      "type": "article",
+      "added": "2026-11-16",
+      "first_seen": "2026-11-16",
+      "risk_notes": "",
+      "sources": [
+        "https://x.com/ueo0j/status/2122146243509973404"
+      ],
+      "fetched_at": "2026-11-16T08:16:42.142206+00:00",
+      "path": "articles/2026-11-13-author-an-update-on-our-recent-security-incident.md"
     },
     {
       "name": "Asia stocks crumble after AI rout hits US markets",
