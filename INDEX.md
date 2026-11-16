@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1238 件 — リポジトリ 845, リンク集 120, 記事 206, モデル 53, プロンプト 14 / ⚑ 要確認 993 件
+収録 1239 件 — リポジトリ 846, リンク集 120, 記事 206, モデル 53, プロンプト 14 / ⚑ 要確認 994 件
 
-## リポジトリ（845）
+## リポジトリ（846）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -184,7 +184,7 @@
 | [Pay Small Check](entries/other/ahmardchain-pay-small-check.md) ⚑ | 1 | 0 | 毎日 | 32 | 2026-11-07 | 2026-11-14 | 2026-11-14 | MIT |
 | [LapDraw](entries/other/sachinyadavaug20-lapdraw.md) ⚑ | 0 | 0 | 毎日 | 22 | 2026-11-07 | 2026-11-13 | 2026-11-13 | MIT |
 
-### コーディングエージェント（132）
+### コーディングエージェント（133）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -283,6 +283,7 @@
 | [Machine Skill](entries/coding-agent/airsuphq-machine-skill.md) ⚑ | 625 | 83 | 週次 | 8 | 2026-10-13 | 2026-11-10 | 2026-11-11 | MIT |
 | [Diorama](entries/coding-agent/sloemo01-diorama.md) ⚑ | 554 | 44 | 毎日 | 26 | 2026-11-16 | 2026-11-16 | 2026-11-16 | MIT |
 | [DSH Game Studio](entries/coding-agent/zseven-w-dsh-game-studio.md) ⚑ | 546 | 45 | 週次 | 11 | 2026-11-09 | 2026-11-13 | 2026-11-14 | MIT |
+| [qiaomu-seo](entries/coding-agent/joeseesun-qiaomu-seo.md) ⚑ | 475 | 62 | 停滞 | 0 | 2026-08-03 | 2026-11-16 | 2026-11-16 | MIT |
 | [Product Engineering](entries/coding-agent/phuryn-product-engineering.md) ⚑ | 455 | 59 | 毎日 | 100+ | 2026-11-08 | 2026-11-10 | 2026-11-11 | MIT |
 | [SeeCut](entries/coding-agent/yeje-cpu-seecut.md) ⚑ | 453 | 84 | 月次 | 2 | 2026-10-30 | 2026-11-12 | 2026-11-12 | unknown |
 | [simcraft](entries/coding-agent/dotslashsimran-simcraft.md) ⚑ | 418 | 32 | 月次 | 3 | 2026-11-09 | 2026-11-14 | 2026-11-14 | MIT |
@@ -2051,6 +2052,7 @@
 - [Machine Skill](entries/coding-agent/airsuphq-machine-skill.md) — unverified / README記載の機能や数値はリポジトリの説明に基づき、独立検証していない。生成結果の精度や動作条件は未確認。
 - [Diorama](entries/coding-agent/sloemo01-diorama.md) — unverified / 一次資料で未確認: 有効性・実行条件。
 - [DSH Game Studio](entries/coding-agent/zseven-w-dsh-game-studio.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
+- [qiaomu-seo](entries/coding-agent/joeseesun-qiaomu-seo.md) — unverified / 一次資料で未確認: 技術背景・有効性。
 - [Product Engineering](entries/coding-agent/phuryn-product-engineering.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [SeeCut](entries/coding-agent/yeje-cpu-seecut.md) — unverified / README says the workflow has only been tested on macOS. The author reports Claude Code tested and other skill-capable agents theoretically compatible; those other agents are not independently verified here. An Antigravity CLI account and sufficient usage quota are required for video review and self-iteration. GitHub APIでライセンスを確認できていません。
 - [simcraft](entries/coding-agent/dotslashsimran-simcraft.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。

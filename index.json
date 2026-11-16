@@ -1,5 +1,5 @@
 {
-  "count": 1238,
+  "count": 1239,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -13335,6 +13335,37 @@
       "fetched_at": "2026-11-13T20:10:48.071221+00:00",
       "path": "entries/coding-agent/zseven-w-dsh-game-studio.md",
       "summary": "DeepSeek Harnessの会話サイドバーで、2Dトップダウンまたは3Dボクセルのテンプレートを元にゲームを作成・プレビューできる。AI画像候補の生成、ヘッドレスブラウザーでのプレイテスト、変更履歴の復元、オフラインで動作する単一HTMLへの書き出しもREADMEに記載されている。出典: https://gith"
+    },
+    {
+      "name": "qiaomu-seo",
+      "genre": "coding-agent",
+      "url": "https://github.com/joeseesun/qiaomu-seo",
+      "repo": "joeseesun/qiaomu-seo",
+      "license": "MIT",
+      "stars": 475,
+      "language": "Python",
+      "created": "2026-08-03",
+      "updated": "2026-08-03",
+      "forks": 62,
+      "open_issues": 0,
+      "commits_30d": 0,
+      "commit_cadence": "stale",
+      "commits_90d": 0,
+      "size_kb": 6477,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景・有効性。",
+      "type": "repo",
+      "added": "2026-11-16",
+      "first_seen": "2026-11-16",
+      "sources": [
+        "https://x.com/bkdgiffug/status/2119062313156084036"
+      ],
+      "fetched_at": "2026-11-16T14:11:57.908157+00:00",
+      "path": "entries/coding-agent/joeseesun-qiaomu-seo.md",
+      "summary": "Google、Bing、AI Search向けのSEO Agent Skill。READMEでは、技術SEO監査、自然検索の診断、キーワードとページの対応付け、サイト移行計画、明示的な許可を得たコード修正などを用途として挙げている。結論は直接観察・推論・証拠不足を区別し、ランキングや掲載を保証しない。出典: https"
     },
     {
       "name": "Product Engineering",
