@@ -1,5 +1,5 @@
 {
-  "count": 1220,
+  "count": 1221,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -7882,6 +7882,22 @@
       ],
       "fetched_at": "2026-11-10T03:33:05Z",
       "path": "articles/2026-10-23-jarvis11x-ai.md"
+    },
+    {
+      "name": "AWS Secrets Manager のクロスアカウント複製対応",
+      "genre": "article",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/secrets-manager-cross-account/",
+      "published": "2026-11-13",
+      "flags": [],
+      "type": "article",
+      "added": "2026-11-16",
+      "first_seen": "2026-11-16",
+      "risk_notes": "",
+      "sources": [
+        "https://x.com/ueo0j/status/2122146243509973404"
+      ],
+      "fetched_at": "2026-11-16T08:20:31.366817+00:00",
+      "path": "articles/2026-11-13-author-aws-secrets-manager.md"
     },
     {
       "name": "Accelerating engineering for the physical world",
