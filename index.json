@@ -1,5 +1,5 @@
 {
-  "count": 1193,
+  "count": 1194,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -22920,6 +22920,35 @@
       "fetched_at": "2026-11-13T06:23:38.178409+00:00",
       "path": "entries/other/putyy-res-downloader.md",
       "summary": "READMEでは、Windows / macOS / Linux向けのリソースダウンロードツールとして紹介されています。動画、音声、画像、m3u8、ライブストリームなどを扱い、プロキシ経由でリソースを取得できます。対応プラットフォームとして微信视频号、小程序、抖音、快手、小红书、酷狗音乐、QQ音乐が挙げられています。出"
+    },
+    {
+      "name": "SAM 2",
+      "genre": "other",
+      "url": "https://github.com/facebookresearch/sam2",
+      "repo": "facebookresearch/sam2",
+      "license": "Apache-2.0",
+      "stars": 20155,
+      "language": "Jupyter Notebook",
+      "created": "2024-07-29",
+      "updated": "2026-05-30",
+      "forks": 2592,
+      "open_issues": 487,
+      "commits_30d": 0,
+      "commit_cadence": "stale",
+      "commits_90d": 0,
+      "size_kb": 138255,
+      "archived": false,
+      "flags": [],
+      "type": "repo",
+      "added": "2026-11-16",
+      "first_seen": "2026-11-16",
+      "risk_notes": "",
+      "sources": [
+        "https://x.com/flxrnc/status/2119041226909372919"
+      ],
+      "fetched_at": "2026-11-16T01:43:44.291840+00:00",
+      "path": "entries/other/facebookresearch-sam2.md",
+      "summary": "SAM 2は、画像と動画を対象とするプロンプト可能な視覚セグメンテーション用モデルです。画像予測、画像の自動マスク生成、動画内の複数オブジェクトのセグメンテーションと追跡に対応するAPIを提供します。READMEは、動画推論でプロンプトを追加し、動画フレームへマスクを伝播できると説明しています。"
     },
     {
       "name": "ActivityWatch",

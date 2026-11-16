@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1193 件 — リポジトリ 817, リンク集 120, 記事 189, モデル 53, プロンプト 14 / ⚑ 要確認 957 件
+収録 1194 件 — リポジトリ 818, リンク集 120, 記事 189, モデル 53, プロンプト 14 / ⚑ 要確認 957 件
 
-## リポジトリ（817）
+## リポジトリ（818）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（161）
+### その他（162）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -58,6 +58,7 @@
 | [SpiderFoot](entries/other/smicallef-spiderfoot.md) ⚑ | 24,564 | 4,081 | 停滞 | 0 | 2026-04-13 | 2026-11-13 | 2026-11-14 | MIT |
 | [ego lite](entries/other/citrolabs-ego-lite.md) ⚑ | 22,387 | 1,269 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | MIT |
 | [res-downloader](entries/other/putyy-res-downloader.md) ⚑ | 21,255 | 2,609 | 停滞 | 0 | 2026-11-11 | 2026-11-13 | 2026-11-13 | Apache-2.0 |
+| [SAM 2](entries/other/facebookresearch-sam2.md) | 20,155 | 2,592 | 停滞 | 0 | 2026-05-30 | 2026-11-16 | 2026-11-16 | Apache-2.0 |
 | [ActivityWatch](entries/other/activitywatch-activitywatch.md) ⚑ | 19,621 | 1,078 | 週次 | 19 | 2026-11-13 | 2026-11-14 | 2026-11-14 | MPL-2.0 |
 | [ai-goofish-monitor](entries/other/usagi-org-ai-goofish-monitor.md) ⚑ | 19,101 | 3,116 | 月次 | 0 | 2026-10-10 | 2026-11-10 | 2026-11-10 | MIT |
 | [micrograd](entries/other/karpathy-micrograd.md) ⚑ | 18,805 | 2,993 | 停滞 | 0 | 2026-08-03 | 2026-11-10 | 2026-11-10 | MIT |
