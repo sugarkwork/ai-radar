@@ -1,5 +1,5 @@
 {
-  "count": 1181,
+  "count": 1182,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -31624,6 +31624,35 @@
       "fetched_at": "2026-11-11T08:19:22.224059+00:00",
       "path": "entries/video-gen/k4yt3x-video2x.md",
       "summary": "動画のアップスケーリング（filtering）とフレーム補間に対応します。READMEによると、Anime4K v4およびMPV互換GLSLシェーダー、Real-ESRGAN、Real-CUGAN、RIFEを利用できます。モデルや画質に関する説明はREADMEに記載された作者の説明です。"
+    },
+    {
+      "name": "/brag",
+      "genre": "video-gen",
+      "url": "https://github.com/latent-spaces/brag",
+      "repo": "latent-spaces/brag",
+      "license": "MIT",
+      "stars": 21613,
+      "language": "Python",
+      "created": "2026-06-16",
+      "updated": "2026-11-15",
+      "forks": 1680,
+      "open_issues": 8,
+      "commits_30d": 40,
+      "commit_cadence": "daily",
+      "commits_90d": 58,
+      "size_kb": 50282,
+      "archived": false,
+      "flags": [],
+      "type": "repo",
+      "added": "2026-11-16",
+      "first_seen": "2026-11-16",
+      "risk_notes": "",
+      "sources": [
+        "https://x.com/ganfanren_ai/status/2119002572552052995"
+      ],
+      "fetched_at": "2026-11-16T00:23:18.274181+00:00",
+      "path": "entries/video-gen/latent-spaces-brag.md",
+      "summary": "プロジェクトの内容をもとに、音楽・モーション・共有用コピーを含む短いローンチ動画を作るエージェントスキル。READMEでは、通常版はHyperframesに動画の構築・タイミング調整・レンダリングを任せ、対応モデル向けのbrag-slimはHyperframesや同梱素材を使わない構成と説明している。出力先は brag"
     },
     {
       "name": "Toonflow",

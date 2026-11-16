@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1181 件 — リポジトリ 808, リンク集 119, 記事 187, モデル 53, プロンプト 14 / ⚑ 要確認 947 件
+収録 1182 件 — リポジトリ 809, リンク集 119, 記事 187, モデル 53, プロンプト 14 / ⚑ 要確認 947 件
 
-## リポジトリ（808）
+## リポジトリ（809）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -91,7 +91,7 @@
 | [Kando](entries/other/kando-menu-kando.md) ⚑ | 6,646 | 242 | 毎日 | 60 | 2026-11-12 | 2026-11-14 |  | unknown |
 | [Pedalboard](entries/other/spotify-pedalboard.md) ⚑ | 6,475 | 376 | 週次 | 11 | 2026-11-09 | 2026-11-11 |  | GPL-3.0 |
 | [Telegram Media Downloader](entries/other/neet-nestor-telegram-media-downloader.md) ⚑ | 6,450 | 637 | 週次 | 19 | 2026-10-19 | 2026-11-13 |  | GPL-3.0 |
-| [Blockbench](entries/other/jannisx11-blockbench.md) ⚑ | 6,213 | 543 | 月次 | 1 | 2026-11-15 | 2026-11-16 | 2026-11-16 | GPL-3.0 |
+| [Blockbench](entries/other/jannisx11-blockbench.md) ⚑ | 6,213 | 543 | 月次 | 1 | 2026-11-15 | 2026-11-16 |  | GPL-3.0 |
 | [Rapier](entries/other/dimforge-rapier.md) ⚑ | 6,074 | 439 | 月次 | 0 | 2026-11-01 | 2026-11-15 |  | Apache-2.0 |
 | [微信视频号下载工具](entries/other/qiye45-wechatvideodownload.md) ⚑ | 6,054 | 578 | 月次 | 0 | 2026-10-05 | 2026-11-13 |  | unknown |
 | [Sandstorm（アイドル状態のエージェントsandboxをスナップショットして1台に数千個載せる）](entries/other/deeplethe-sandstorm.md) | 5,955 | 490 | 毎日 | 100+ | 2026-11-01 | 2026-11-09 |  | Apache-2.0 |
@@ -420,7 +420,7 @@
 | [AI SDK](entries/agent-framework/anil-matcha-ai.md) ⚑ | 18 | 4 | 停滞 | 0 | 2026-08-06 | 2026-11-13 |  | unknown |
 | [web-api-skills](entries/agent-framework/oxylabs-web-api-skills.md) | 13 | 1 | 週次 | 11 | 2026-11-09 | 2026-11-09 |  | MIT |
 
-### 動画生成パイプライン（105）
+### 動画生成パイプライン（106）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -441,6 +441,7 @@
 | [Generative Models by Stability AI](entries/video-gen/stability-ai-generative-models.md) ⚑ | 27,343 | 3,091 | 停滞 | 0 | 2025-12-16 | 2026-11-11 |  | MIT |
 | [processing/p5.js](entries/video-gen/processing-p5.js.md) ⚑ | 24,327 | 3,899 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 |  | LGPL-2.1 |
 | [Video2X](entries/video-gen/k4yt3x-video2x.md) ⚑ | 22,687 | 1,982 | 停滞 | 0 | 2026-03-07 | 2026-11-11 |  | AGPL-3.0 |
+| [/brag](entries/video-gen/latent-spaces-brag.md) | 21,613 | 1,680 | 毎日 | 40 | 2026-11-15 | 2026-11-16 | 2026-11-16 | MIT |
 | [Toonflow](entries/video-gen/hbai-ltd-toonflow-app.md) ⚑ | 21,535 | 3,885 | 毎日 | 38 | 2026-11-05 | 2026-11-12 |  | MIT |
 | [Motion Canvas](entries/video-gen/motion-canvas-motion-canvas.md) ⚑ | 19,806 | 894 | 停滞 | 0 | 2026-07-02 | 2026-11-14 |  | MIT |
 | [LivePortrait](entries/video-gen/klingairesearch-liveportrait.md) ⚑ | 19,446 | 2,026 | 停滞 | 0 | 2026-06-01 | 2026-11-10 |  | unknown |
