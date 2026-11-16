@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1191 件 — リポジトリ 816, リンク集 120, 記事 188, モデル 53, プロンプト 14 / ⚑ 要確認 955 件
+収録 1192 件 — リポジトリ 817, リンク集 120, 記事 188, モデル 53, プロンプト 14 / ⚑ 要確認 956 件
 
-## リポジトリ（816）
+## リポジトリ（817）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -802,7 +802,7 @@
 | [Grok Bot Teams](entries/prompt-design/ellelion-botteams.md) ⚑ | 26 | 6 | 月次 | 0 | 2026-09-08 | 2026-11-10 | 2026-11-10 | MIT |
 | [GUntilB/Anima-Prompt-Generator](entries/prompt-design/guntilb-anima-prompt-generator.md) ⚑ | 13 | 1 | 月次 | 3 | 2026-11-08 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
 
-### 画像生成・編集（26）
+### 画像生成・編集（27）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -821,6 +821,7 @@
 | [Qwen-Image-2.1](entries/image-gen/qwenlm-qwen-image-2.1.md) | 2,189 | 158 | 月次 | 3 | 2026-10-14 | 2026-11-09 | 2026-11-10 | NOASSERTION |
 | [GIF 工厂](entries/image-gen/woyun520-gif-factory.md) ⚑ | 1,092 | 134 | 毎日 | 27 | 2026-11-11 | 2026-11-11 | 2026-11-11 | MIT |
 | [ComfyArt](entries/image-gen/jtydhr88-comfyart.md) ⚑ | 504 | 87 | 毎日 | 70 | 2026-11-09 | 2026-11-11 | 2026-11-11 | MIT |
+| [ray-sticker-shop](entries/image-gen/imraywang-ray-sticker-shop.md) ⚑ | 500 | 57 | 月次 | 1 | 2026-11-05 | 2026-11-16 | 2026-11-16 | MIT |
 | [gifenc](entries/image-gen/mattdesl-gifenc.md) ⚑ | 357 | 29 | 停滞 | 0 | 2024-09-19 | 2026-11-15 | 2026-11-15 | MIT |
 | [ComfyUI AICG3D PoseSwap](entries/image-gen/jgrfw-comfyui-pose-swap.md) | 330 | 47 | 週次 | 7 | 2026-11-01 | 2026-11-09 | 2026-11-10 | MIT |
 | [Anima Reference Adapter for ComfyUI](entries/image-gen/arcanima-comfyui-anima-ref-adapter.md) ⚑ | 234 | 14 | 週次 | 12 | 2026-10-31 | 2026-11-11 | 2026-11-11 | Apache-2.0 |
@@ -2070,6 +2071,7 @@
 - [Agent Sprite Forge](entries/image-gen/0x0funky-agent-sprite-forge.md) — unverified / 元ポストは「ゲームエンジンへの取り込みは未確認」と留保するが、README は Godot/Aseprite/Tiled/LDtk 書き出しを検証済みと明記。実機検証は未実施。
 - [GIF 工厂](entries/image-gen/woyun520-gif-factory.md) — unverified / 具体生成所用模型、依赖、运行条件、费用及完整最短操作步骤未能从所附 README 确认。
 - [ComfyArt](entries/image-gen/jtydhr88-comfyart.md) — unverified / 一部の生成ワークフローが必要とするモデルやカスタムノードのローカル環境への導入条件は、READMEだけでは全て確認できない。Comfy Cloud APIキーには有料Comfyプランが必要と記載されている。
+- [ray-sticker-shop](entries/image-gen/imraywang-ray-sticker-shop.md) — unverified / README указывает ориентировочную стоимость около $0.7 для 8 стикеров и 5 дополнительных материалов по официальным тарифам OpenAI; фактическая стоимость зависит от повторной генерации. Прохождение модерации и доход не гарантируются.
 - [gifenc](entries/image-gen/mattdesl-gifenc.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Anima Reference Adapter for ComfyUI](entries/image-gen/arcanima-comfyui-anima-ref-adapter.md) — unverified / アダプターの重みはCircleStone Non-Commercialライセンス。READMEではコードのライセンスをApache-2.0としている。
 - [MiniMax-H3-Image](entries/image-gen/minimax-ai-minimax-h3-image.md) — unverified / READMEはライセンスを示すバッジとLICENSEへのリンクを掲載していますが、ライセンス名や利用条件は確認できません。 GitHub APIでライセンスを確認できていません。

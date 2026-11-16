@@ -1,5 +1,5 @@
 {
-  "count": 1191,
+  "count": 1192,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -16078,6 +16078,37 @@
       "fetched_at": "2026-11-11T06:13:30.781899+00:00",
       "path": "entries/image-gen/jtydhr88-comfyart.md",
       "summary": "READMEでは、ComfyUI上で動く無限キャンバス型のデザイン環境として、画像・動画・音声・3Dの生成、画像編集、書き出し、MCP経由のエージェント操作を説明している。これらはREADMEに記載された機能であり、独立した実機検証結果ではない。出典: https://github.com/jtydhr88/Comfy"
+    },
+    {
+      "name": "ray-sticker-shop",
+      "genre": "image-gen",
+      "url": "https://github.com/imraywang/ray-sticker-shop",
+      "repo": "imraywang/ray-sticker-shop",
+      "license": "MIT",
+      "stars": 500,
+      "language": "Python",
+      "created": "2026-11-05",
+      "updated": "2026-11-05",
+      "forks": 57,
+      "open_issues": 1,
+      "commits_30d": 1,
+      "commit_cadence": "monthly",
+      "commits_90d": 1,
+      "size_kb": 16,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "README указывает ориентировочную стоимость около $0.7 для 8 стикеров и 5 дополнительных материалов по официальным тарифам OpenAI; фактическая стоимость зависит от повторной генерации. Прохождение модерации и доход не гарантируются.",
+      "type": "repo",
+      "added": "2026-11-16",
+      "first_seen": "2026-11-16",
+      "sources": [
+        "https://x.com/ganfanren_ai/status/2119020240348835900"
+      ],
+      "fetched_at": "2026-11-16T01:30:37.681458+00:00",
+      "path": "entries/image-gen/imraywang-ray-sticker-shop.md",
+      "summary": "READMEによると、参考画像やキャラクター画像から、キャラクターの一貫性を保った動く表情包一式を生成し、微信表情开放平台向け素材をまとめます。240×240 GIFを500KB以内に圧縮し、表紙・アイコン・バナー・赞赏图、掲載文案、納品用パッケージを作成すると説明されています。規格に沿った自動チェックも記載されていま"
     },
     {
       "name": "gifenc",
