@@ -4,6 +4,46 @@
 **ここは検証済みカタログではありません。** 公開に必要な裏取りが足りなかった候補を、元投稿への参照と注意点だけで残しています。
 元投稿の主張・配布物の同一性・動作・安全性を保証しません。本文・画像・内部データは転載していません。
 
+## 2026-11-17（日本時間）
+
+- [X: tetumemo の投稿](https://x.com/tetumemo/status/2119073894338646514)
+  - 候補の対象が複数あり、一意に特定できませんでした。
+  - 対象を裏付ける公開一次資料を確認できませんでした。
+- [X: qHooks_ の投稿](https://x.com/qHooks_/status/2122342565861106056)
+  - 対象を裏付ける公開一次資料を確認できませんでした。
+- [X: okapi_fukugyo の投稿](https://x.com/okapi_fukugyo/status/2119064562284831078)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+- [X: mingzi206 の投稿](https://x.com/mingzi206/status/2119073006278594827)
+  - 候補の対象が複数あり、一意に特定できませんでした。
+- [X: mingzi206 の投稿](https://x.com/mingzi206/status/2119070972963848413)
+  - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://x.com/mingzi206/status/2119070972963848413>。
+- [X: mingzi206 の投稿](https://x.com/mingzi206/status/2119069715779997895)
+  - 公開に必須の根拠がそろっていません。
+- [X: jarvis11x の投稿](https://x.com/jarvis11x/status/2119069448459989280)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+- [X: dextune の投稿](https://x.com/dextune/status/2119073564213268594)
+  - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+- [X: Yarad_ai の投稿](https://x.com/Yarad_ai/status/2119089795829784806)
+  - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+  - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://github.com/OpenMontageInc/OpenMontage>。
+- [X: TensorSlay の投稿](https://x.com/TensorSlay/status/2119067091877904600)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+- [X: RoundtableSpace の投稿](https://x.com/RoundtableSpace/status/2119071100307169630)
+  - 候補の対象が複数あり、一意に特定できませんでした。
+  - 対象を裏付ける公開一次資料を確認できませんでした。
+- [X: RealMarvelX の投稿](https://x.com/RealMarvelX/status/2119091042959925644)
+  - 候補の対象が複数あり、一意に特定できませんでした。
+  - GitHub APIで元のリポジトリを確認できませんでした。
+  - 公開に必須の根拠がそろっていません。
+- [X: NFT_Chen の投稿](https://x.com/NFT_Chen/status/2119070158354538560)
+  - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://x.com/addyosmani/status/2118958843501920268>。
+- [X: NFT_Chen の投稿](https://x.com/NFT_Chen/status/2119066209941651607)
+  - 対象を裏付ける公開一次資料を確認できませんでした。
+- [X: Bober_smart の投稿](https://x.com/Bober_smart/status/2119070145284841481)
+  - 対象を裏付ける公開一次資料を確認できませんでした。
+  - 公開に必須の根拠がそろっていません。
+- [X: AIOZNetwork の投稿](https://x.com/AIOZNetwork/status/2122342949002346546)
+  - 元投稿と配布先が同一対象であることを裏付けられませんでした。
 ## 2026-11-16（日本時間）
 
 - [X: zyunizyunia の投稿](https://x.com/zyunizyunia/status/2119061551449772402)
