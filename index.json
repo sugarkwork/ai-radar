@@ -1,5 +1,5 @@
 {
-  "count": 1223,
+  "count": 1224,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -9386,6 +9386,24 @@
       ],
       "fetched_at": "2026-11-13T05:09:02.607660+00:00",
       "path": "articles/2026-11-10-author-retiring-advanced-and-standard-voice-in-chatgpt.md"
+    },
+    {
+      "name": "SCKit abuses ScreenConnect to deploy remote access and target technician sessions",
+      "genre": "article",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/11/13/sckit-abuses-screenconnect-deploy-remote-access-target-technician-sessions/",
+      "published": "2026-11-13",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "初期侵入経路は調査中と記事に記載されている。",
+      "type": "article",
+      "added": "2026-11-16",
+      "first_seen": "2026-11-16",
+      "sources": [
+        "https://x.com/ueo0j/status/2122146243509973404"
+      ],
+      "fetched_at": "2026-11-16T08:23:29.151988+00:00",
+      "path": "articles/2026-11-13-author-sckit-abuses-screenconnect-to-deploy-remote-access-and-target-technician-session.md"
     },
     {
       "name": "See's Candies 1972→1998——$25Mが$60Mを生んだ理由を、バフェットがMBA学生に語った",
