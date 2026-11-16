@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1194 件 — リポジトリ 818, リンク集 120, 記事 189, モデル 53, プロンプト 14 / ⚑ 要確認 957 件
+収録 1195 件 — リポジトリ 819, リンク集 120, 記事 189, モデル 53, プロンプト 14 / ⚑ 要確認 957 件
 
-## リポジトリ（818）
+## リポジトリ（819）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -426,7 +426,7 @@
 | [AI SDK](entries/agent-framework/anil-matcha-ai.md) ⚑ | 18 | 4 | 停滞 | 0 | 2026-08-06 | 2026-11-13 | 2026-11-13 | unknown |
 | [web-api-skills](entries/agent-framework/oxylabs-web-api-skills.md) | 13 | 1 | 週次 | 11 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
 
-### 動画生成パイプライン（106）
+### 動画生成パイプライン（107）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -451,6 +451,7 @@
 | [Toonflow](entries/video-gen/hbai-ltd-toonflow-app.md) ⚑ | 21,535 | 3,885 | 毎日 | 38 | 2026-11-05 | 2026-11-12 | 2026-11-12 | MIT |
 | [Motion Canvas](entries/video-gen/motion-canvas-motion-canvas.md) ⚑ | 19,806 | 894 | 停滞 | 0 | 2026-07-02 | 2026-11-14 | 2026-11-14 | MIT |
 | [LivePortrait](entries/video-gen/klingairesearch-liveportrait.md) ⚑ | 19,446 | 2,026 | 停滞 | 0 | 2026-06-01 | 2026-11-10 | 2026-11-11 | unknown |
+| [VideoLingo](entries/video-gen/huanshere-videolingo.md) | 19,271 | 2,130 | 週次 | 6 | 2026-11-13 | 2026-11-16 | 2026-11-16 | Apache-2.0 |
 | [mojs/mojs](entries/video-gen/mojs-mojs.md) ⚑ | 18,895 | 902 | 停滞 | 0 | 2026-07-30 | 2026-11-09 | 2026-11-10 | MIT |
 | [liabru/matter-js](entries/video-gen/liabru-matter-js.md) ⚑ | 18,614 | 2,001 | 月次 | 0 | 2026-09-30 | 2026-11-09 | 2026-11-10 | MIT |
 | [Wan2.2](entries/video-gen/wan-video-wan2.2.md) ⚑ | 18,508 | 2,456 | 停滞 | 0 | 2026-09-21 | 2026-11-10 | 2026-11-11 | Apache-2.0 |

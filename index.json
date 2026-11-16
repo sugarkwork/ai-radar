@@ -1,5 +1,5 @@
 {
-  "count": 1194,
+  "count": 1195,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -32078,6 +32078,35 @@
       "fetched_at": "2026-11-10T16:16:53.557781+00:00",
       "path": "entries/video-gen/klingairesearch-liveportrait.md",
       "summary": "公式PyTorch実装として、ポートレートアニメーションを提供する。READMEには人・猫・犬の対応、画像駆動モード、領域制御、ポートレート動画編集、Gradioインターフェースでのポーズ編集が記載されている。"
+    },
+    {
+      "name": "VideoLingo",
+      "genre": "video-gen",
+      "url": "https://github.com/Huanshere/VideoLingo",
+      "repo": "Huanshere/VideoLingo",
+      "stars": 19271,
+      "forks": 2130,
+      "open_issues": 25,
+      "size_kb": 21457,
+      "language": "Python",
+      "created": "2024-08-09",
+      "updated": "2026-11-13",
+      "archived": false,
+      "license": "Apache-2.0",
+      "commits_30d": 6,
+      "commits_90d": 100,
+      "commit_cadence": "weekly",
+      "flags": [],
+      "type": "repo",
+      "added": "2026-11-16",
+      "first_seen": "2026-11-16",
+      "risk_notes": "",
+      "sources": [
+        "https://x.com/flxrnc/status/2119041226909372919"
+      ],
+      "fetched_at": "2026-11-16T01:45:21.344103+00:00",
+      "path": "entries/video-gen/huanshere-videolingo.md",
+      "summary": "音声認識、字幕翻訳、字幕分割、吹き替えをStreamlitの画面で扱い、字幕ファイルや、任意で字幕・吹き替え付きの動画を作成するとREADMEに記載されています。品質は元音声、言語、選択したモデルに依存します。出典: https://github.com/Huanshere/VideoLingo/blob/main/R"
     },
     {
       "type": "repo",
