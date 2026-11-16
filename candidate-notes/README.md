@@ -40,6 +40,11 @@
   - 公開に必須の根拠がそろっていません。
 - [X: tetumemo の投稿](https://x.com/tetumemo/status/2122113681437975021)
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+- [X: tetumemo の投稿](https://x.com/tetumemo/status/2119059895790321900)
+  - 公開に必須の根拠がそろっていません。
+- [X: tetumemo の投稿](https://x.com/tetumemo/status/2119059824193511456)
+  - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://x.com/furoku/status/2118884778913214687>。
+  - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://x.com/furoku/status/2118884778913214687>。
 - [X: tetumemo の投稿](https://x.com/tetumemo/status/2119052576851382440)
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
@@ -194,6 +199,8 @@
 - [X: huangxiaoyu0825 の投稿](https://x.com/huangxiaoyu0825/status/2119046529906598218)
   - 対象を裏付ける公開一次資料を確認できませんでした。
   - 公開に必須の根拠がそろっていません。
+- [X: gold0_fx の投稿](https://x.com/gold0_fx/status/2122292727496761795)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 - [X: ganfanren_ai の投稿](https://x.com/ganfanren_ai/status/2119029925567144389)
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
   - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://x.com/trq212/status/2118822238262853904>。
@@ -238,6 +245,9 @@
 - [X: eikakkokari の投稿](https://x.com/eikakkokari/status/2122295671575445955)
   - 候補の対象が複数あり、一意に特定できませんでした。
   - 対象を裏付ける公開一次資料を確認できませんでした。
+- [X: dextune の投稿](https://x.com/dextune/status/2119059798868009418)
+  - 候補の対象が複数あり、一意に特定できませんでした。
+  - 元投稿と配布先が同一対象であることを裏付けられませんでした。
 - [X: dextune の投稿](https://x.com/dextune/status/2119052258138550680)
   - 候補の対象が複数あり、一意に特定できませんでした。
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
@@ -264,6 +274,8 @@
 - [X: abir35627 の投稿](https://x.com/abir35627/status/2119005116410081516)
   - GitHub APIで元のリポジトリを確認できませんでした。
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+- [X: abc123953468547 の投稿](https://x.com/abc123953468547/status/2119085192950476843)
+  - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: Y0urDumble の投稿](https://x.com/Y0urDumble/status/2121980122743861421)
   - 候補の対象が複数あり、一意に特定できませんでした。
   - 下書きが公開用の検証基準を満たしていません。 照合済み参照先: <https://github.com/processing/p5.js>。
@@ -280,6 +292,8 @@
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
 - [X: RoundtableSpace の投稿](https://x.com/RoundtableSpace/status/2119036050177659117)
   - 元画像を確認できず、画像内の内容は未検証です。 照合済み参照先: <https://x.com/RoundtableSpace/status/2119036050177659117>。
+- [X: RealMarvelX の投稿](https://x.com/RealMarvelX/status/2119056748342300964)
+  - 候補の対象が複数あり、一意に特定できませんでした。
 - [X: RealMarvelX の投稿](https://x.com/RealMarvelX/status/2119035841452331518)
   - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://x.com/RealMarvelX/status/2119035841452331518>。
 - [X: RealMarvelX の投稿](https://x.com/RealMarvelX/status/2119008728477217226)
