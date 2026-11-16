@@ -1,5 +1,5 @@
 {
-  "count": 1221,
+  "count": 1222,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -9607,6 +9607,24 @@
       ],
       "fetched_at": "2026-11-14T22:11:05.313244+00:00",
       "path": "articles/2023-11-12-author-ultralytics-yolo26-sahi.md"
+    },
+    {
+      "name": "UnrealIRCd 6.2.7.1 released & hot-patch to fix 9 security issues, including one CRITICAL (CVE-2026-114713)",
+      "genre": "article",
+      "url": "https://forums.unrealircd.org/viewtopic.php?t=9487",
+      "published": "2026-11-07",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "脆弱性の影響や悪用状況、修正内容は投稿者の告知に基づく。独立した検証結果ではない。",
+      "type": "article",
+      "added": "2026-11-16",
+      "first_seen": "2026-11-16",
+      "sources": [
+        "https://x.com/ueo0j/status/2122146243509973404"
+      ],
+      "fetched_at": "2026-11-16T08:22:49.798476+00:00",
+      "path": "articles/2026-11-07-author-unrealircd-6.2.7.1-released-hot-patch-to-fix-9-security-issues-including-one-cri-2b2a5fd876.md"
     },
     {
       "name": "Upcoming: New age rating content descriptors in App Store Connect",
