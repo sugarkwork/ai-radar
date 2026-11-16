@@ -1,5 +1,5 @@
 {
-  "count": 1251,
+  "count": 1252,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -27692,6 +27692,37 @@
       "fetched_at": "2026-11-10T12:32:31+00:00",
       "path": "entries/other/bytelabs-oss-clash-jev.md",
       "summary": "ADBで取得したH.264映像から手札、エリクサー、タワーなどを読み取り、既定で毎秒JSONのゲーム状態を組み立てる。Jevが戦略、カード、配置マスを順に選び、実行可能性を検査してからタップする。"
+    },
+    {
+      "name": "Sprite Pencil",
+      "genre": "other",
+      "url": "https://github.com/256Arts/Sprite-Pencil",
+      "repo": "256Arts/Sprite-Pencil",
+      "license": "unknown",
+      "stars": 28,
+      "language": "Swift",
+      "created": "2022-08-20",
+      "updated": "2026-11-11",
+      "forks": 6,
+      "open_issues": 0,
+      "commits_30d": 9,
+      "commit_cadence": "weekly",
+      "commits_90d": 44,
+      "size_kb": 1562,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "README does not state the license or the app's cost; confirm these before relying on reuse or distribution terms. GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-16",
+      "first_seen": "2026-11-16",
+      "sources": [
+        "https://x.com/dextune/status/2119082194282979423"
+      ],
+      "fetched_at": "2026-11-16T18:13:26.004689+00:00",
+      "path": "entries/other/256arts-sprite-pencil.md",
+      "summary": "ピクセルアートのスプライト、アイコンなどの小さな画像を描画・編集するアプリ。鉛筆、消しゴム、塗りつぶし、ハイライト、シャドウ、対称描画、ディザリング、パレット選択・インポート、反転・回転・輪郭追加、取り消し・やり直しに対応するとREADMEに記載。スプライトはPNGファイルとして扱い、システムの書類ブラウザやiClou"
     },
     {
       "repo": "ktaletsk/jevframe",

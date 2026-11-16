@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1251 件 — リポジトリ 856, リンク集 120, 記事 208, モデル 53, プロンプト 14 / ⚑ 要確認 1005 件
+収録 1252 件 — リポジトリ 857, リンク集 120, 記事 208, モデル 53, プロンプト 14 / ⚑ 要確認 1006 件
 
-## リポジトリ（856）
+## リポジトリ（857）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（178）
+### その他（179）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -182,6 +182,7 @@
 | [dsh-pet-live2d](entries/other/a8chann-dsh-pet-live2d.md) ⚑ | 78 | 10 | 毎日 | 42 | 2026-11-09 | 2026-11-15 | 2026-11-15 | unknown |
 | [Strata](entries/other/carthageadev-strata.md) ⚑ | 48 | 3 | 毎日 | 41 | 2026-11-11 | 2026-11-16 | 2026-11-16 | unknown |
 | [clash-jev](entries/other/bytelabs-oss-clash-jev.md) ⚑ | 37 | 11 | 月次 | 2 | 2026-10-14 | 2026-11-10 | 2026-11-11 | MIT |
+| [Sprite Pencil](entries/other/256arts-sprite-pencil.md) ⚑ | 28 | 6 | 週次 | 9 | 2026-11-11 | 2026-11-16 | 2026-11-16 | unknown |
 | [jevframe](entries/other/ktaletsk-jevframe.md) ⚑ | 21 | 3 | 月次 | 0 | 2026-09-24 | 2026-11-10 | 2026-11-11 | MIT |
 | [FossFLOW](entries/other/grujowmi-fossflow.md) ⚑ | 15 | 3 | 停滞 | 0 | 2026-05-22 | 2026-11-14 | 2026-11-14 | MIT |
 | [PlayBridge](entries/other/ramalhoboss-playbridge.md) ⚑ | 15 | 1 | 週次 | 17 | 2026-11-06 | 2026-11-11 | 2026-11-11 | GPL-3.0 |
@@ -2462,6 +2463,7 @@
 - [dsh-pet-live2d](entries/other/a8chann-dsh-pet-live2d.md) — unverified / APIのlicense値はunknown。READMEのバッジにはMIT + CC BY-NC-SA 4.0とあるが、ライセンスの適用範囲は添付READMEだけでは確認できない。 GitHub APIでライセンスを確認できていません。
 - [Strata](entries/other/carthageadev-strata.md) — unverified / GitHub APIでライセンスを確認できていません。
 - [clash-jev](entries/other/bytelabs-oss-clash-jev.md) — unverified / 約135msはREADMEが示すJevの単一応答の目安。全体遅延、勝率、端末ごとの認識精度、現行API料金は未検証。READMEは自動プレイがSupercellの利用規約に反すると明記している。
+- [Sprite Pencil](entries/other/256arts-sprite-pencil.md) — unverified / README does not state the license or the app's cost; confirm these before relying on reuse or distribution terms. GitHub APIでライセンスを確認できていません。
 - [jevframe](entries/other/ktaletsk-jevframe.md) — unverified / READMEと公開パッケージ情報を確認した。実行による精度、処理速度、費用削減の検証は行っていない。TypeSafe APIの現行単価とデータ保持条件、およびGitHubの最新リリースは未確認。
 - [FossFLOW](entries/other/grujowmi-fossflow.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [PlayBridge](entries/other/ramalhoboss-playbridge.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
