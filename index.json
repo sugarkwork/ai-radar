@@ -1,5 +1,5 @@
 {
-  "count": 1227,
+  "count": 1228,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -8749,6 +8749,24 @@
       ],
       "fetched_at": "2026-11-13T23:13:14.520565+00:00",
       "path": "articles/2026-11-02-author-hundreds-of-mundane-ai-apps-are-hiding-sexually-abusive-deepfake-features.md"
+    },
+    {
+      "name": "IBMとMicrosoftのImagine Enterprise発表を研究機関の評価観点から解説する記事",
+      "genre": "article",
+      "url": "https://casrai.org/news/ibm-microsoft-imagine-enterprise-agent-platform-2026",
+      "published": "2026-11-14",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "大学での導入や研究業務との統合は発表資料で確認できない。ガバナンス機能は企業の説明であり、独立認証や個別機関のワークフローでの有効性を示すものではない。",
+      "type": "article",
+      "added": "2026-11-16",
+      "first_seen": "2026-11-16",
+      "sources": [
+        "https://x.com/ueo0j/status/2122146243509973404"
+      ],
+      "fetched_at": "2026-11-16T08:25:59.060165+00:00",
+      "path": "articles/2026-11-14-author-ibm-microsoft-imagine-enterprise.md"
     },
     {
       "name": "Independent Assessment of AI R&D Acceleration at Anthropic in October 2026",
