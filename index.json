@@ -1,5 +1,5 @@
 {
-  "count": 1205,
+  "count": 1206,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -20355,6 +20355,37 @@
       "type": "repo",
       "path": "entries/model-serving/cheaper-inference-omniroute.md",
       "summary": "1つのエンドポイント（既定 http://localhost:20128/v1）で多数のプロバイダとモデルに接続するゲートウェイ。README の見出しは「380プロバイダ・1400+モデル」で、Anthropic / OpenAI / Gemini / Kimi / GLM / DeepSeek / MiniMax "
+    },
+    {
+      "name": "LocalAI",
+      "genre": "model-serving",
+      "url": "https://github.com/mudler/LocalAI",
+      "repo": "mudler/LocalAI",
+      "license": "MIT",
+      "stars": 50388,
+      "language": "Go",
+      "created": "2023-03-18",
+      "updated": "2026-11-16",
+      "forks": 4610,
+      "open_issues": 186,
+      "commits_30d": 100,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 233224,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "チーム共有やアドオンなどREADMEでdevelopment buildsとされる機能は、通常の最新リリースでは利用できるか不明。README記載の版情報は取得時点の独立確認ではない。",
+      "type": "repo",
+      "added": "2026-11-16",
+      "first_seen": "2026-11-16",
+      "sources": [
+        "https://x.com/naka_1717/status/2119034856676159987"
+      ],
+      "fetched_at": "2026-11-16T05:28:23.644229+00:00",
+      "path": "entries/model-serving/mudler-localai.md",
+      "summary": "ローカルのハードウェア上で、テキスト、視覚、音声、画像、動画、埋め込みなどのモデルをAPI経由で提供する。READMEはOpenAI、Anthropic、ElevenLabs形式のAPIと80超のバックエンドを記載している。チャット、ツール・MCPを使うエージェント、ファイルやコレクション、音声入出力、画像生成、分散モ"
     },
     {
       "name": "Jan",
