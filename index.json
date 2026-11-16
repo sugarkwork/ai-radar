@@ -1,5 +1,5 @@
 {
-  "count": 1200,
+  "count": 1201,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -25126,6 +25126,37 @@
       "fetched_at": "2026-11-15T03:15:39.900923+00:00",
       "path": "entries/other/franciscop-ola.md",
       "summary": "数値や数値を持つオブジェクト・配列の値を、指定時間をかけて滑らかに補間します。READMEでは、遷移中に次の値を設定した場合も滑らかに動くこと、値を読み取るときに必要な値を計算することを説明しています。出典: https://github.com/franciscop/ola"
+    },
+    {
+      "name": "Splitting.js",
+      "genre": "other",
+      "url": "https://github.com/shshaw/Splitting",
+      "repo": "shshaw/Splitting",
+      "stars": 1757,
+      "forks": 74,
+      "open_issues": 46,
+      "size_kb": 1408,
+      "language": "JavaScript",
+      "created": "2018-01-05",
+      "updated": "2024-06-19",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 0,
+      "commits_90d": 0,
+      "commit_cadence": "stale",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 依存関係・実行条件。",
+      "type": "repo",
+      "added": "2026-11-16",
+      "first_seen": "2026-11-16",
+      "sources": [
+        "https://x.com/taki_auto/status/2122162883320848580"
+      ],
+      "fetched_at": "2026-11-16T05:21:19.818618+00:00",
+      "path": "entries/other/shshaw-splitting.md",
+      "summary": "要素を単語、文字、子ノードなどに分割するJavaScriptマイクロライブラリです。分割した要素にCSS変数とdata属性を設定し、CSSでのトランジションやアニメーションに利用できます。出典: https://github.com/shshaw/Splitting"
     },
     {
       "name": "Quiet.md",

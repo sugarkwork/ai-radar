@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1200 件 — リポジトリ 823, リンク集 120, 記事 190, モデル 53, プロンプト 14 / ⚑ 要確認 961 件
+収録 1201 件 — リポジトリ 824, リンク集 120, 記事 190, モデル 53, プロンプト 14 / ⚑ 要確認 962 件
 
-## リポジトリ（823）
+## リポジトリ（824）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（162）
+### その他（163）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Effekseer](entries/other/effekseer-effekseer.md) ⚑ | 2,063 | 330 | 週次 | 17 | 2026-10-30 | 2026-11-11 | 2026-11-11 | MIT |
 | [awesome-reverse-engineering](entries/other/morluto-awesome-reverse-engineering.md) | 1,991 | 440 | 毎日 | 99 | 2026-11-09 | 2026-11-09 | 2026-11-10 | CC0-1.0 |
 | [Ola](entries/other/franciscop-ola.md) ⚑ | 1,833 | 36 | 月次 | 3 | 2026-10-24 | 2026-11-15 | 2026-11-15 | MIT |
+| [Splitting.js](entries/other/shshaw-splitting.md) ⚑ | 1,757 | 74 | 停滞 | 0 | 2024-06-19 | 2026-11-16 | 2026-11-16 | MIT |
 | [Quiet.md](entries/other/s1dashu-quiet-md.md) ⚑ | 1,740 | 157 | 毎日 | 100+ | 2026-11-13 | 2026-11-13 | 2026-11-13 | MIT |
 | [Google Pro Helper](entries/other/mmdoctor-google-pro-helper.md) ⚑ | 1,724 | 584 | 週次 | 9 | 2026-11-05 | 2026-11-11 | 2026-11-11 | unknown |
 | [Youwee](entries/other/vanloctech-youwee.md) ⚑ | 1,639 | 236 | 週次 | 17 | 2026-11-12 | 2026-11-13 | 2026-11-13 | MIT |
@@ -2328,6 +2329,7 @@
 - [cannon-es](entries/other/pmndrs-cannon-es.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Effekseer](entries/other/effekseer-effekseer.md) — unverified / READMEには、対応プラットフォームでの再生にはランタイムやプラグインの組み込みが必要とある。具体的な導入手順・依存関係・利用条件はこのREADMEだけでは確認できない。
 - [Ola](entries/other/franciscop-ola.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
+- [Splitting.js](entries/other/shshaw-splitting.md) — unverified / 一次資料で未確認: 依存関係・実行条件。
 - [Quiet.md](entries/other/s1dashu-quiet-md.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Google Pro Helper](entries/other/mmdoctor-google-pro-helper.md) — malicious, unverified / README describes bulk account tasks, automated sign-in using passwords and 2FA, payment-card enrollment, and attempts to obtain extended subscription benefits through stacked offers. These are abuse-enabling activities; do not treat the author’s reported results as independently verified. The README documents account farming and attempts to stack Google AI Pro offer periods. It does not establish that the offers, pricing, or resulting benefits will work as described; actual charges and eligibility are unverified. The workflow handles account credentials, 2FA secrets, payment details, and browser data. GitHub APIでライセンスを確認できていません。
 - [Youwee](entries/other/vanloctech-youwee.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
