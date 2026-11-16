@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1248 件 — リポジトリ 854, リンク集 120, 記事 207, モデル 53, プロンプト 14 / ⚑ 要確認 1003 件
+収録 1249 件 — リポジトリ 854, リンク集 120, 記事 208, モデル 53, プロンプト 14 / ⚑ 要確認 1003 件
 
 ## リポジトリ（854）
 
@@ -1424,9 +1424,9 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（207）
+## 記事（208）
 
-### 記事（144）
+### 記事（145）
 
 - **[$0のデジタル参謀長で月$80,000の契約候補を作ったというX投稿（動画付き）](articles/2026-10-22-bober_smart-0-80-000-x.md)** ⚑  @Bober_smart
 - **[1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md)** ⚑  @mukadeshinigami（mukade死神）
@@ -1564,6 +1564,7 @@
 - **[ローカルAI推論で速度が次の課題になるという論考](articles/2026-10-01-bernat-vadell-ai.md)** ⚑  Bernat Vadell
 - **[公開済みサイトのSEO・GEO監査と再測定](articles/2026-09-02-jarvis11x-seo-geo.md)** ⚑  @jarvis11x
 - **[動画サイトの月途中の売上報告](articles/2026-10-14-jarvis11x-2dae9ce2.md)** ⚑  @jarvis11x
+- **[多地-32℃？ APP显示天气预报“离大谱”](articles/2026-11-04-author-32-app.md)**
 - **[業務エージェントの共通基盤と用途別テンプレート](articles/2026-11-07-mike-gannotti-5de4a7af.md)** ⚑  Mike Gannotti
 - **[業務手順の構築と運用でエージェントの役割を分ける提案](articles/2026-10-09-bernat-vadell-b4c1fb04.md)** ⚑  Bernat Vadell
 - **[海外版noteで日本語の知識を英語圏に販売するAI活用記事](articles/2026-11-09-https-x.com-i-article-2117172572655849472.md)** ⚑  @pometa_afi

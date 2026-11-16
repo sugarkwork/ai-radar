@@ -1,5 +1,5 @@
 {
-  "count": 1248,
+  "count": 1249,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -10161,6 +10161,22 @@
       ],
       "fetched_at": "2026-11-10T12:05:03+09:00",
       "path": "articles/2026-10-14-jarvis11x-2dae9ce2.md"
+    },
+    {
+      "name": "多地-32℃？ APP显示天气预报“离大谱”",
+      "genre": "article",
+      "url": "https://www2.xinhuanet.com/politics/20261104/04e824017f3843cbbf9362b9542d2995/c.html",
+      "published": "2026-11-04",
+      "flags": [],
+      "type": "article",
+      "added": "2026-11-16",
+      "first_seen": "2026-11-16",
+      "risk_notes": "",
+      "sources": [
+        "https://x.com/awe0_io/status/2119076971565220242"
+      ],
+      "fetched_at": "2026-11-16T18:09:32.177113+00:00",
+      "path": "articles/2026-11-04-author-32-app.md"
     },
     {
       "name": "業務エージェントの共通基盤と用途別テンプレート",
