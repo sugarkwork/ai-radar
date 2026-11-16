@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1195 件 — リポジトリ 819, リンク集 120, 記事 189, モデル 53, プロンプト 14 / ⚑ 要確認 957 件
+収録 1196 件 — リポジトリ 820, リンク集 120, 記事 189, モデル 53, プロンプト 14 / ⚑ 要確認 958 件
 
-## リポジトリ（819）
+## リポジトリ（820）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -538,7 +538,7 @@
 | [utillayer/youtube-agent-skill](entries/video-gen/utillayer-youtube-agent-skill.md) ⚑ | 14 | 2 | 週次 | 16 | 2026-10-29 | 2026-11-09 | 2026-11-10 | MIT |
 | [BennyDaBall930/comfyui_hyperflow_int8_nodes](entries/video-gen/bennydaball930-comfyui_hyperflow_int8_nodes.md) ⚑ | 3 | 0 | 週次 | 10 | 2026-11-09 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
 
-### 3D・モーション（75）
+### 3D・モーション（76）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -590,6 +590,7 @@
 | [Scenario for Blender](entries/3d-motion/scenario-labs-blender-plugin.md) ⚑ | 968 | 97 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | GPL-3.0 |
 | [Idol (image-to-3D Gaussian splat SDK)](entries/3d-motion/speridlabs-idol-sdk.md) | 945 | 95 | 週次 | 5 | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
 | [Blender Agent Skills](entries/3d-motion/el4cteo-blender-skills.md) ⚑ | 933 | 89 | 週次 | 9 | 2026-11-07 | 2026-11-10 | 2026-11-10 | MIT |
+| [Athenaion](entries/3d-motion/leonxlnx-athenaion.md) ⚑ | 709 | 90 | 月次 | 2 | 2026-10-17 | 2026-11-16 | 2026-11-16 | MIT |
 | [MPFB2](entries/3d-motion/makehumancommunity-mpfb2.md) ⚑ | 694 | 103 | 毎日 | 34 | 2026-10-24 | 2026-11-10 | 2026-11-10 | unknown |
 | [Ultra Water](entries/3d-motion/humpalumps-ultra-water.md) | 653 | 97 | 毎日 | 20 | 2026-11-02 | 2026-11-09 | 2026-11-10 | MIT |
 | [SculptForge](entries/3d-motion/islandmed-sculptforge.md) | 649 | 80 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
@@ -1668,6 +1669,7 @@
 - [toyxyz/toyxyz_RGBMocap](entries/3d-motion/toyxyz-toyxyz_rgbmocap.md) — unverified / MITは自作コードのみ。ExMR/GVHMR/PromptHMRと登録ボディには非商用等の別条件。FlowHMRも重みは非商用であり、コードのApacheを重みに適用しない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Scenario for Blender](entries/3d-motion/scenario-labs-blender-plugin.md) — unverified / インストール、MCP接続、生成品質、処理時間、実消費CUは未実測。発見投稿の羊牧場デモにおける本拡張の寄与と所要時間、生成物の利用条件は未確認。
 - [Blender Agent Skills](entries/3d-motion/el4cteo-blender-skills.md) — unverified / テスト通過は公開リリースでの作者報告。テストの再実行、生成物の品質差、投稿の羊牧場の制作・レンダリング時間、各エージェントやMCP構成での実動作は未検証。リリースの年とタイムゾーンを含む公開日時は未確認。
+- [Athenaion](entries/3d-motion/leonxlnx-athenaion.md) — unverified / READMEには依存パッケージのバージョン、対応環境、必要なハードウェアの詳細が記載されていない。
 - [MPFB2](entries/3d-motion/makehumancommunity-mpfb2.md) — unverified / 公式資料に基づく確認。Blenderでの動作、Python経由の自動化、外部モーションキャプチャとの互換性、制作時間や工程全体の費用は未検証。GitHubの最新タグは確認したが、公開日時の年とタイムゾーンは確認できていない。 GitHub APIでライセンスを確認できていません。
 - [patch-gg/anymove](entries/3d-motion/patch-gg-anymove.md) — unverified / 5秒2カメラ0.26ドルだけでなく実用1動作約3ドル・合格率58%等も作者説明。8本脚・寝姿・翼・尻尾等は不可。クラウド版なし、速度・精度は未追試。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [prompt2rig — プロンプトから3Dキャラクター動作を生成](entries/3d-motion/blendi-remade-prompt2rig.md) — unverified / コードはApache-2.0だが、HQパスの依存関係が商用を制限。GVHMR=教育・研究・非営利のみ。SMPL-X=非商用（商用はMeshcapadeから別途）。WiLoR=CC-BY-NC-ND。MANO=非商用。Ultralytics YOLO=AGPL-3.0（コピーレフト、エンタープライズライセンス別途）。MediaPipe・three.jsは商用可。Webアプリ・ライブプレビュー・動画生成は商用可能。HQパスを商用で使うには依存関係の置き換えまたは別途ライセンスが必要。動画モデル（FLUX 3 Max/H3 Max Turbo）はfalおよびモデル提供元の条件に従う。当方未実行。 当方でインストール・動作・性能の実行検証はしていない。
