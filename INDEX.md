@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1249 件 — リポジトリ 854, リンク集 120, 記事 208, モデル 53, プロンプト 14 / ⚑ 要確認 1003 件
+収録 1250 件 — リポジトリ 855, リンク集 120, 記事 208, モデル 53, プロンプト 14 / ⚑ 要確認 1004 件
 
-## リポジトリ（854）
+## リポジトリ（855）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -768,7 +768,7 @@
 | [losslesscut-mcp](entries/mcp-server/bariswha-losslesscut-mcp.md) ⚑ | 4 | 0 | 月次 | 3 | 2026-11-12 | 2026-11-15 | 2026-11-15 | MIT |
 | [gmail-browser-mcp](entries/mcp-server/sparsh101sparsh-gmail-browser-mcp.md) ⚑ | 0 | 0 | 毎日 | 88 | 2026-11-13 | 2026-11-14 | 2026-11-14 | unknown |
 
-### 金融・クオンツ（30）
+### 金融・クオンツ（31）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -791,6 +791,7 @@
 | [Vibe Research](entries/finance-quant/simonlin1212-vibe-research.md) ⚑ | 3,712 | 699 | 毎日 | 26 | 2026-11-12 | 2026-11-14 | 2026-11-14 | MIT |
 | [jev-trader](entries/finance-quant/jarrodwatts-jev-trader.md) ⚑ | 3,135 | 601 | 週次 | 4 | 2026-10-13 | 2026-11-10 | 2026-11-10 | MIT |
 | [cryptofeed](entries/finance-quant/bmoscon-cryptofeed.md) | 3,018 | 791 | 毎日 | 49 | 2026-11-09 | 2026-11-09 | 2026-11-10 | AGPL-3.0 |
+| [Gloom](entries/finance-quant/gloom-sh-gloomberb.md) ⚑ | 2,762 | 204 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-16 | MIT |
 | [QuantSkills](entries/finance-quant/quantskills-quantskills.md) | 2,624 | 242 | 毎日 | 55 | 2026-11-09 | 2026-11-09 | 2026-11-10 | unknown |
 | [skfolio](entries/finance-quant/skfolio-skfolio.md) | 2,618 | 305 | 毎日 | 81 | 2026-11-08 | 2026-11-09 | 2026-11-10 | BSD-3-Clause |
 | [prediction-market-backtesting](entries/finance-quant/evan-kolberg-prediction-market-backtesting.md) ⚑ | 1,267 | 201 | 停滞 | 0 | 2026-05-16 | 2026-11-10 | 2026-11-11 | unknown |
@@ -2131,6 +2132,7 @@
 - [Claude Trading Skills](entries/finance-quant/tradermonty-claude-trading-skills.md) — unverified / 利用料金やアカウント要件はREADME記載時点の案内で、変更される可能性がある。
 - [Vibe Research](entries/finance-quant/simonlin1212-vibe-research.md) — unverified / READMEでは、行情は腾讯のスナップショットで逐筆リアルタイムではないと説明されている。AIの調査内容や算出結果の正確性は、READMEだけでは独立に確認できない。
 - [jev-trader](entries/finance-quant/jarrodwatts-jev-trader.md) — unverified / README の遅延値は作者によるモック推論のドライラン計測。実コードの起動、Jev 使用時の遅延・精度、実注文の約定率・収益性、Jev API の料金・利用条件は未検証。発見投稿の Nasdaq 先物成績は別リポジトリの実験。
+- [Gloom](entries/finance-quant/gloom-sh-gloomberb.md) — unverified / Proの料金はREADMEに記載がありません。
 - [prediction-market-backtesting](entries/finance-quant/evan-kolberg-prediction-market-backtesting.md) — unverified / READMEには開発中とある。Limitless.exchangeとOpinion.tradeは今後の予定で、Kalshiは公開実行可能なバックテスト経路ではないと記載。ライセンスはAPI上unknownだが、READMEのバッジはMIT + LGPL-3.0-or-laterを示すため、適用範囲は確認が必要。README抜粋にある情報のみを記載。 GitHub APIでライセンスを確認できていません。
 - [HyperGrok Trading Desk](entries/finance-quant/galleonlabs-hypergrok-trading-desk.md) — unverified / 独立した動作検証は未実施。各環境の導入・権限設定、注文承認の強制と迂回耐性、取引成績、ホスト環境と取引所の料金は未確認。v1.7.1のリリースノートによると、公開Grok Botテンプレートは当時v1.7.0を配布しており、v1.7.1への更新状況は未確認。
 - [polymarket-trade-engine](entries/finance-quant/kaustubhpatange-polymarket-trade-engine.md) — unverified / 自動売買の成績、実運用時の条件、手数料などはREADMEから確認できない。measuredの更新日は2026-06-08で、直近30日・90日のコミットはいずれも0。

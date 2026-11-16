@@ -1,5 +1,5 @@
 {
-  "count": 1249,
+  "count": 1250,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -15870,6 +15870,37 @@
       "type": "repo",
       "path": "entries/finance-quant/bmoscon-cryptofeed.md",
       "summary": "暗号資産取引所の**WebSocketフィードを正規化してコールバックに流す**ライブラリ。取引・板・ticker・資金調達率・建玉などを、取引所ごとの差異を吸収した共通形式で受け取れる。"
+    },
+    {
+      "name": "Gloom",
+      "genre": "finance-quant",
+      "url": "https://github.com/gloom-sh/gloomberb",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "Proの料金はREADMEに記載がありません。",
+      "repo": "gloom-sh/gloomberb",
+      "stars": 2762,
+      "forks": 204,
+      "open_issues": 4,
+      "size_kb": 883982,
+      "language": "TypeScript",
+      "created": "2026-03-25",
+      "updated": "2026-11-16",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 100,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "type": "repo",
+      "added": "2026-11-16",
+      "first_seen": "2026-11-16",
+      "sources": [
+        "https://x.com/ruyi3699/status/2119076909514461335"
+      ],
+      "fetched_at": "2026-11-16T18:09:44.171064+00:00",
+      "path": "entries/finance-quant/gloom-sh-gloomberb.md",
+      "summary": "株価、チャート、財務情報、提出書類、オプション、ニュース、ポートフォリオをキーボード操作で扱う金融端末です。端末、デスクトップアプリ、ブラウザで利用できます。出典: https://github.com/gloom-sh/gloomberb"
     },
     {
       "repo": "quantskills/quantskills",
