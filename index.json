@@ -1,5 +1,5 @@
 {
-  "count": 1182,
+  "count": 1183,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -9813,6 +9813,37 @@
       ],
       "fetched_at": "2026-11-10T03:32:49Z",
       "path": "articles/2026-10-22-jiuyueaigc-ai.md"
+    },
+    {
+      "name": "ECC",
+      "genre": "coding-agent",
+      "url": "https://github.com/affaan-m/ECC",
+      "repo": "affaan-m/ECC",
+      "license": "MIT",
+      "stars": 303847,
+      "language": "JavaScript",
+      "created": "2026-01-18",
+      "updated": "2026-11-15",
+      "forks": 44785,
+      "open_issues": 283,
+      "commits_30d": 100,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 62275,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEには、実行に必要な具体的な依存関係や環境条件の記載がありません。",
+      "type": "repo",
+      "added": "2026-11-16",
+      "first_seen": "2026-11-16",
+      "sources": [
+        "https://x.com/abir35627/status/2119005116410081516"
+      ],
+      "fetched_at": "2026-11-16T00:28:20.380693+00:00",
+      "path": "entries/coding-agent/affaan-m-ecc.md",
+      "summary": "AIコーディングエージェント向けに、計画、テスト、実装、レビュー、検証、記憶、改善を含むエンジニアリング用ワークフローとツール群を提供します。READMEではClaude Codeで最もよく動作し、CodexとQoderにはネイティブのプラグイン経路があり、Cursor、OpenCode、Gemini、Zedには機能を"
     },
     {
       "repo": "multica-ai/andrej-karpathy-skills",
