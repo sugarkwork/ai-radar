@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1239 件 — リポジトリ 846, リンク集 120, 記事 206, モデル 53, プロンプト 14 / ⚑ 要確認 994 件
+収録 1240 件 — リポジトリ 847, リンク集 120, 記事 206, モデル 53, プロンプト 14 / ⚑ 要確認 995 件
 
-## リポジトリ（846）
+## リポジトリ（847）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（171）
+### その他（172）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -174,6 +174,7 @@
 | [muse-grok-x-search](entries/other/kgmkm-muse-grok-x-search.md) ⚑ | 108 | 17 | 月次 | 2 | 2026-11-03 | 2026-11-15 | 2026-11-15 | MIT |
 | [myradio](entries/other/monoradio102-myradio.md) ⚑ | 107 | 15 | 毎日 | 37 | 2026-11-13 | 2026-11-14 | 2026-11-14 | unknown |
 | [dsh-pet-live2d](entries/other/a8chann-dsh-pet-live2d.md) ⚑ | 78 | 10 | 毎日 | 42 | 2026-11-09 | 2026-11-15 | 2026-11-15 | unknown |
+| [Strata](entries/other/carthageadev-strata.md) ⚑ | 48 | 3 | 毎日 | 41 | 2026-11-11 | 2026-11-16 | 2026-11-16 | unknown |
 | [clash-jev](entries/other/bytelabs-oss-clash-jev.md) ⚑ | 37 | 11 | 月次 | 2 | 2026-10-14 | 2026-11-10 | 2026-11-11 | MIT |
 | [jevframe](entries/other/ktaletsk-jevframe.md) ⚑ | 21 | 3 | 月次 | 0 | 2026-09-24 | 2026-11-10 | 2026-11-11 | MIT |
 | [FossFLOW](entries/other/grujowmi-fossflow.md) ⚑ | 15 | 3 | 停滞 | 0 | 2026-05-22 | 2026-11-14 | 2026-11-14 | MIT |
@@ -2438,6 +2439,7 @@
 - [muse-grok-x-search](entries/other/kgmkm-muse-grok-x-search.md) — unverified / Grok Buildはベータ版で、利用可能なプランは変更される可能性がある。必要なプランや利用条件はセットアップ時に公式情報で確認すること。
 - [myradio](entries/other/monoradio102-myradio.md) — unverified / GitHub APIでライセンスを確認できていません。
 - [dsh-pet-live2d](entries/other/a8chann-dsh-pet-live2d.md) — unverified / APIのlicense値はunknown。READMEのバッジにはMIT + CC BY-NC-SA 4.0とあるが、ライセンスの適用範囲は添付READMEだけでは確認できない。 GitHub APIでライセンスを確認できていません。
+- [Strata](entries/other/carthageadev-strata.md) — unverified / GitHub APIでライセンスを確認できていません。
 - [clash-jev](entries/other/bytelabs-oss-clash-jev.md) — unverified / 約135msはREADMEが示すJevの単一応答の目安。全体遅延、勝率、端末ごとの認識精度、現行API料金は未検証。READMEは自動プレイがSupercellの利用規約に反すると明記している。
 - [jevframe](entries/other/ktaletsk-jevframe.md) — unverified / READMEと公開パッケージ情報を確認した。実行による精度、処理速度、費用削減の検証は行っていない。TypeSafe APIの現行単価とデータ保持条件、およびGitHubの最新リリースは未確認。
 - [FossFLOW](entries/other/grujowmi-fossflow.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。

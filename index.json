@@ -1,5 +1,5 @@
 {
-  "count": 1239,
+  "count": 1240,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -27314,6 +27314,37 @@
       "fetched_at": "2026-11-15T00:28:17.031408+00:00",
       "path": "entries/other/a8chann-dsh-pet-live2d.md",
       "summary": "READMEによると、DSH Web GUI上にLive2Dのデスクトップペットを表示し、ドラッグ・拡大縮小、マウス追従、クリック操作、着せ替え、DSHのセッションイベントに応じた動作や表情の切り替えを行う。ペットの位置やサイズはlocalStorageに保存される。"
+    },
+    {
+      "name": "Strata",
+      "genre": "other",
+      "url": "https://github.com/carthageadev/strata",
+      "repo": "carthageadev/strata",
+      "license": "unknown",
+      "stars": 48,
+      "language": "C#",
+      "created": "2026-10-22",
+      "updated": "2026-11-11",
+      "forks": 3,
+      "open_issues": 0,
+      "commits_30d": 41,
+      "commit_cadence": "daily",
+      "commits_90d": 41,
+      "size_kb": 27359,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-16",
+      "first_seen": "2026-11-16",
+      "sources": [
+        "https://x.com/dextune/status/2119067347050983896"
+      ],
+      "fetched_at": "2026-11-16T15:19:53.504665+00:00",
+      "path": "entries/other/carthageadev-strata.md",
+      "summary": "Unity EditorのScene viewで、地形の高さ、地面、壁、縁、階段をペイントできます。ペイント結果は通常のUnityメッシュとマテリアルを使うprefabにベイクできます。"
     },
     {
       "repo": "bytelabs-oss/clash-jev",
