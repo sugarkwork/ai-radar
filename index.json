@@ -1,5 +1,5 @@
 {
-  "count": 1222,
+  "count": 1223,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -9150,6 +9150,22 @@
       ],
       "fetched_at": "2026-11-13T11:15:04.196952+00:00",
       "path": "articles/2026-11-05-author-nemotron-3.5-bolt-e4b-on-jetson-orin-nano-super-at-27.7-tok-s.md"
+    },
+    {
+      "name": "Node2Shell: Brotli Flaw Triggers Patching Across Microsoft, Node.js, Python Packages",
+      "genre": "article",
+      "url": "https://www.securityweek.com/node2shell-brotli-flaw-triggers-patching-across-microsoft-node-js-python-packages/",
+      "published": "2026-10-26",
+      "flags": [],
+      "type": "article",
+      "added": "2026-11-16",
+      "first_seen": "2026-11-16",
+      "risk_notes": "",
+      "sources": [
+        "https://x.com/ueo0j/status/2122146243509973404"
+      ],
+      "fetched_at": "2026-11-16T08:23:16.579534+00:00",
+      "path": "articles/2026-10-26-author-node2shell-brotli-flaw-triggers-patching-across-microsoft-node.js-python-package.md"
     },
     {
       "name": "OpenAI、独立ロボティクスチームを再編",
