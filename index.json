@@ -1,5 +1,5 @@
 {
-  "count": 1217,
+  "count": 1218,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -7728,6 +7728,24 @@
       ],
       "fetched_at": "2026-11-11T04:17:25Z",
       "path": "articles/2026-11-04-author-a-thousand-fewer-paths-to-root.md"
+    },
+    {
+      "name": "A timeline of Trump administration's response to FAA ground stop",
+      "genre": "article",
+      "url": "https://www.cbsnews.com/news/faa-ground-stop-trump-admin-response/",
+      "published": "2026-11-14",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "障害の根本原因は記事時点で未確定。回線更新中のルーター過負荷は当局者が示した発生経緯として記述されている。",
+      "type": "article",
+      "added": "2026-11-16",
+      "first_seen": "2026-11-16",
+      "sources": [
+        "https://x.com/ueo0j/status/2122146243509973404"
+      ],
+      "fetched_at": "2026-11-16T08:19:15.765245+00:00",
+      "path": "articles/2026-11-14-author-a-timeline-of-trump-administration-s-response-to-faa-ground-stop.md"
     },
     {
       "name": "AEGEAN — Three.jsで描く海辺の3D体験",
