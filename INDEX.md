@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1198 件 — リポジトリ 821, リンク集 120, 記事 190, モデル 53, プロンプト 14 / ⚑ 要確認 959 件
+収録 1199 件 — リポジトリ 822, リンク集 120, 記事 190, モデル 53, プロンプト 14 / ⚑ 要確認 960 件
 
-## リポジトリ（821）
+## リポジトリ（822）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -310,7 +310,7 @@
 | [Leash](entries/coding-agent/cmaintz-leash.md) ⚑ | 0 | 0 | 毎日 | 21 | 2026-11-06 | 2026-11-10 | 2026-11-11 | MIT |
 | [grok-x](entries/coding-agent/stat-guy-grok-x.md) ⚑ | 0 | 0 | 停滞 | 0 | 2026-03-19 | 2026-11-16 | 2026-11-16 | unknown |
 
-### エージェント基盤・スキル集（112）
+### エージェント基盤・スキル集（113）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -372,6 +372,7 @@
 | [AutoHarness](entries/agent-framework/tigerless-labs-autoharness.md) ⚑ | 10,940 | 654 | 毎日 | 100+ | 2026-11-10 | 2026-11-11 | 2026-11-11 | MIT |
 | [zhu1090093659/dsh-web](entries/agent-framework/zhu1090093659-dsh-web.md) ⚑ | 10,279 | 626 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
 | [Mobilerun](entries/agent-framework/droidrun-mobilerun.md) ⚑ | 10,004 | 1,086 | 毎日 | 94 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [Munder Difflin](entries/agent-framework/harnessmd-munder-difflin.md) ⚑ | 9,574 | 1,348 | 毎日 | 57 | 2026-11-15 | 2026-11-16 | 2026-11-16 | MIT |
 | [Orkas](entries/agent-framework/orkas-ai-orkas.md) ⚑ | 9,183 | 534 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-11 | MIT |
 | [firstmate](entries/agent-framework/kunchenguid-firstmate.md) ⚑ | 8,753 | 2,734 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-11 | MIT |
 | [CyberStrikeAI](entries/agent-framework/aipentest-cyberstrikeai.md) ⚑ | 8,514 | 1,882 | 毎日 | 91 | 2026-11-08 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
@@ -1752,6 +1753,7 @@
 - [AutoHarness](entries/agent-framework/tigerless-labs-autoharness.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [zhu1090093659/dsh-web](entries/agent-framework/zhu1090093659-dsh-web.md) — unverified / 10選への掲載とGitHub実在確認は動作試験ではない。外部公開時の安全性・セッション保持・料金は未確認。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Mobilerun](entries/agent-framework/droidrun-mobilerun.md) — unverified / 投稿の主張のうち一次情報で確認できたのは「root不要」「ADB経由で実機を操作」「MIT」まで。未確認/誤り: (1)「300+機種・40ブランド対応」は README・docs に記載がなく、要件は Android 8.0(API 26)+ のみ。(2)「家庭内Wi-FiのADBは誰でも命令できる抜け穴」は誤りで、公式docsは Android 11+ のワイヤレスデバッグにペアリングコード(or QR)による adb pair を必須と明記。(3)「3ツールのエージェントをMCPとしてClaude Codeに接続」は repo の実装と不一致。repo 内 mobilerun/mcp は外部MCPサーバーをツールとして取り込むクライアント側で、MCPサーバーは提供していない。コーディングエージェント連携は別リポジトリの Markdown スキル mobile-harness 経由。(4) エージェントの操作は9種(click/long_press/type/system_button/swipe/open_app/get_state/take_screenshot/complete)で「3ツール」ではない。(5)「1言でTelegramを開きChatGPTを入れる」動作は docs/README に実演記録がなく、Play Store 経由の自動インストールは未確認(Portal は URL からの APK インストールには対応)。(6) 引用記事 https://x.com/i/article/2109686434210693120 はログイン要求で本文未取得。(7) ベンチマーク 100% AndroidWorld / 98.34% iOSWorld はベンダー自己申告で第三者追試なし。
+- [Munder Difflin](entries/agent-framework/harnessmd-munder-difflin.md) — unverified / README記載のPro無料提供期間は2026年10月24日まで。確認時点である2026年11月16日の現行料金・利用条件はREADMEから確認できない。
 - [Orkas](entries/agent-framework/orkas-ai-orkas.md) — unverified / README記載の機能説明に基づく。各エージェントの実際の性能、動作条件、依存関係は確認していない。
 - [firstmate](entries/agent-framework/kunchenguid-firstmate.md) — unverified / 実際の効果や、記載された要件以外の依存関係・実行条件は未検証。
 - [CyberStrikeAI](entries/agent-framework/aipentest-cyberstrikeai.md) — unverified / 認可前提: README と security-model.md が「所有または明示的に許可されたシステムにのみ使用」と明記する高権限ツール。WebShell 管理・内蔵 C2（リスナー、暗号化ビーコン、セッション、ペイロード生成）・Metasploit / mimikatz / responder などのポストエクスプロイト系レシピを含み、認可なき標的への実行は違法行為になり得る。実装上の注意として、security-model.md は「c2.enabled: false unless required」を本番基準とする一方、リポジトリ同梱の config.example.yaml は `c2: enabled: true`（省略時も既定で有効とのコメント付き）であり、既定値の解釈が文書間で一致しない。HTTP API はトークンをクエリ文字列でも受け付けるため、ログ経由の漏えいに注意。プロンプトインジェクションは標的側の応答がエージェントのツール選択に影響し得る脅威として security-model.md 自身が挙げている。未検証範囲: 有効性（検出率・成功率）の第三者実測は無く、README の網羅性主張とベンチマーク非公開のまま。実運用での誤検知率、C2/WebShell の検知回避性能、マルチエージェント編成の品質は未確認。
