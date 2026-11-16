@@ -1,5 +1,5 @@
 {
-  "count": 1187,
+  "count": 1188,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -9600,6 +9600,24 @@
       "risk_notes": "PC等の1/2以内・上限10万円は原チェック時の公式確認。誰でも単体PCを先に買えば補助される制度ではなく、現行公募要領と対象者を確認する。 当方でインストール・推論・生成・ベンチ再現はしていない。",
       "published": "2026-08-17",
       "path": "articles/2026-11-09-https-x.com-makeai_ceo-status-2089261252120051821.md"
+    },
+    {
+      "name": "マジで詰む、AIがCドライブを勝手に削除した。「削除禁止」では止まらなかった理由と、Claude Code・Codex・dots・Muse・Grok Botにそのまま貼れる「消させない」ルール集を作った",
+      "genre": "article",
+      "url": "https://tetumemo.m-newsletter.com/posts/3be090cfa195a108",
+      "published": "2026-11-04",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "有料部分のルール集とチェックリストは閲覧できておらず、記事の表示では購読料は月額¥980（税込み）、バックナンバーは別途購入。掲載の手順は作者のWindows 11環境を対象とし、Macでは未確認。事故や復旧、対策の有効性は作者の報告であり、独立検証ではない。",
+      "type": "article",
+      "added": "2026-11-16",
+      "first_seen": "2026-11-16",
+      "sources": [
+        "https://x.com/tetumemo/status/2119014605666308100"
+      ],
+      "fetched_at": "2026-11-16T01:26:21.487544+00:00",
+      "path": "articles/2026-11-04-author-ai-c-claude-code-codex-dots-muse-grok-bot.md"
     },
     {
       "name": "モデルの能力とハーネスの適合を考える",
