@@ -6,6 +6,8 @@
 
 ## 2026-11-16（日本時間）
 
+- [X: zyunizyunia の投稿](https://x.com/zyunizyunia/status/2119061551449772402)
+  - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: zjcpzz の投稿](https://x.com/zjcpzz/status/2119082920497631307)
   - 公開に必須の根拠がそろっていません。
 - [X: xoyif63862452 の投稿](https://x.com/xoyif63862452/status/2119037691350204576)
@@ -39,6 +41,9 @@
   - 対象を裏付ける公開一次資料を確認できませんでした。
   - 公開に必須の根拠がそろっていません。
 - [X: tetumemo の投稿](https://x.com/tetumemo/status/2122113681437975021)
+  - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+- [X: tetumemo の投稿](https://x.com/tetumemo/status/2119059907668529525)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
 - [X: tetumemo の投稿](https://x.com/tetumemo/status/2119059895790321900)
   - 公開に必須の根拠がそろっていません。
@@ -288,6 +293,8 @@
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
 - [X: RoundtableSpace の投稿](https://x.com/RoundtableSpace/status/2122166518041767999)
   - 候補の対象が複数あり、一意に特定できませんでした。
+- [X: RoundtableSpace の投稿](https://x.com/RoundtableSpace/status/2119063571107918271)
+  - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://x.com/RoundtableSpace/status/2119063571107918271>。
 - [X: RoundtableSpace の投稿](https://x.com/RoundtableSpace/status/2119043277173207238)
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
 - [X: RoundtableSpace の投稿](https://x.com/RoundtableSpace/status/2119036050177659117)
@@ -341,6 +348,8 @@
   - 候補の対象が複数あり、一意に特定できませんでした。
 - [X: JBroomestix の投稿](https://x.com/JBroomestix/status/2122109800788169197)
   - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://x.com/JBroomestix/status/2122109800788169197>。
+- [X: HeLi8866 の投稿](https://x.com/HeLi8866/status/2119060068503273594)
+  - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic>。
 - [X: FiniYang の投稿](https://x.com/FiniYang/status/2118982866923299102)
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 - [X: Awed_Urshy の投稿](https://x.com/Awed_Urshy/status/2119025092709732673)
