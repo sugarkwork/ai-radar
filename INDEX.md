@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1225 件 — リポジトリ 835, リンク集 120, 記事 203, モデル 53, プロンプト 14 / ⚑ 要確認 982 件
+収録 1226 件 — リポジトリ 835, リンク集 120, 記事 204, モデル 53, プロンプト 14 / ⚑ 要確認 982 件
 
 ## リポジトリ（835）
 
@@ -1405,9 +1405,9 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（203）
+## 記事（204）
 
-### 記事（140）
+### 記事（141）
 
 - **[$0のデジタル参謀長で月$80,000の契約候補を作ったというX投稿（動画付き）](articles/2026-10-22-bober_smart-0-80-000-x.md)** ⚑  @Bober_smart
 - **[1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md)** ⚑  @mukadeshinigami（mukade死神）
@@ -1522,6 +1522,7 @@
 - **[UN-backed anti-terrorism group calls for urgent policy action to halt spread of 'rogue' AI](articles/2026-11-15-author-un-backed-anti-terrorism-group-calls-for-urgent-policy-action-to-halt-spread-of.md)** ⚑
 - **[Ultralytics YOLO26とSAHIによるスライス推論ガイド](articles/2023-11-12-author-ultralytics-yolo26-sahi.md)** ⚑
 - **[UnrealIRCd 6.2.7.1 released & hot-patch to fix 9 security issues, including one CRITICAL (CVE-2026-114713)](articles/2026-11-07-author-unrealircd-6.2.7.1-released-hot-patch-to-fix-9-security-issues-including-one-cri-2b2a5fd876.md)** ⚑
+- **[Upcoming deprecation of selected GitHub Copilot models in December](articles/2026-11-13-author-upcoming-deprecation-of-selected-github-copilot-models-in-december.md)**
 - **[Upcoming: New age rating content descriptors in App Store Connect](articles/2026-11-02-author-upcoming-new-age-rating-content-descriptors-in-app-store-connect-533ca96fb6.md)**
 - **[Using ChatGPT at work? Your boss may trust you less, new study finds](articles/2026-11-04-author-using-chatgpt-at-work-your-boss-may-trust-you-less-new-study-finds.md)** ⚑
 - **[VINO: Revisiting 3D Representation Learning with Volume Transformers](articles/2026-11-04-author-vino-revisiting-3d-representation-learning-with-volume-transformers.md)**

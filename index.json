@@ -1,5 +1,5 @@
 {
-  "count": 1225,
+  "count": 1226,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -9675,6 +9675,22 @@
       ],
       "fetched_at": "2026-11-16T08:22:49.798476+00:00",
       "path": "articles/2026-11-07-author-unrealircd-6.2.7.1-released-hot-patch-to-fix-9-security-issues-including-one-cri-2b2a5fd876.md"
+    },
+    {
+      "name": "Upcoming deprecation of selected GitHub Copilot models in December",
+      "genre": "article",
+      "url": "https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december/",
+      "published": "2026-11-13",
+      "flags": [],
+      "type": "article",
+      "added": "2026-11-16",
+      "first_seen": "2026-11-16",
+      "risk_notes": "",
+      "sources": [
+        "https://x.com/ueo0j/status/2122146243509973404"
+      ],
+      "fetched_at": "2026-11-16T08:25:22.954847+00:00",
+      "path": "articles/2026-11-13-author-upcoming-deprecation-of-selected-github-copilot-models-in-december.md"
     },
     {
       "name": "Upcoming: New age rating content descriptors in App Store Connect",
