@@ -1,5 +1,5 @@
 {
-  "count": 1188,
+  "count": 1189,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -10319,6 +10319,37 @@
       "type": "repo",
       "path": "entries/coding-agent/colbymchenry-codegraph.md",
       "summary": "コードベースを「事前索引化した知識グラフ」にして、MCP サーバー経由でエージェントに渡す。シンボル・呼び出しエッジ・依存関係を1回の問い合わせで返すため、エージェントはファイルを総当たりで読まなくて済む。"
+    },
+    {
+      "name": "AI Job Search",
+      "genre": "coding-agent",
+      "url": "https://github.com/ai-job-search-dev/ai-job-search",
+      "repo": "ai-job-search-dev/ai-job-search",
+      "license": "MIT",
+      "stars": 71924,
+      "language": "Python",
+      "created": "2026-03-18",
+      "updated": "2026-11-12",
+      "forks": 23161,
+      "open_issues": 70,
+      "commits_30d": 100,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 5777,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "求人ポータル検索スキルはデンマーク市場向け。個人情報を含むプロフィールファイルの保存先と、公開forkではそのファイルが追跡対象になる点に注意。効果の数値は作者の利用報告であり、独立検証ではない。",
+      "type": "repo",
+      "added": "2026-11-16",
+      "first_seen": "2026-11-16",
+      "sources": [
+        "https://x.com/bkdgiffug/status/2119015504304107839"
+      ],
+      "fetched_at": "2026-11-16T01:27:27.179782+00:00",
+      "path": "entries/coding-agent/ai-job-search-dev-ai-job-search.md",
+      "summary": "Claude Codeを使った求人応募ワークフロー。README記載の6コマンドで、プロフィール作成（/setup）、求人検索（/scrape）、候補の評価・絞り込み（/rank）、履歴書とカバーレターの作成（/apply）、面接準備（/interview）、応募結果の記録（/outcome）を行う。"
     },
     {
       "name": "Open Interpreter",

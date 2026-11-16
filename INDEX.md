@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1188 件 — リポジトリ 813, リンク集 120, 記事 188, モデル 53, プロンプト 14 / ⚑ 要確認 952 件
+収録 1189 件 — リポジトリ 814, リンク集 120, 記事 188, モデル 53, プロンプト 14 / ⚑ 要確認 953 件
 
-## リポジトリ（813）
+## リポジトリ（814）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -173,7 +173,7 @@
 | [Pay Small Check](entries/other/ahmardchain-pay-small-check.md) ⚑ | 1 | 0 | 毎日 | 32 | 2026-11-07 | 2026-11-14 | 2026-11-14 | MIT |
 | [LapDraw](entries/other/sachinyadavaug20-lapdraw.md) ⚑ | 0 | 0 | 毎日 | 22 | 2026-11-07 | 2026-11-13 | 2026-11-13 | MIT |
 
-### コーディングエージェント（128）
+### コーディングエージェント（129）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -192,6 +192,7 @@
 | [Archify](entries/coding-agent/tt-a1i-archify.md) ⚑ | 95,261 | 6,499 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | Apache-2.0 |
 | [Awesome Claude Skills](entries/coding-agent/composiohq-awesome-claude-skills.md) ⚑ | 79,332 | 9,677 | 停滞 | 0 | 2026-09-18 | 2026-11-12 | 2026-11-12 | unknown |
 | [CodeGraph](entries/coding-agent/colbymchenry-codegraph.md) | 77,198 | 5,141 | 毎日 | 100+ | 2026-11-01 | 2026-11-09 | 2026-11-10 | MIT |
+| [AI Job Search](entries/coding-agent/ai-job-search-dev-ai-job-search.md) ⚑ | 71,924 | 23,161 | 毎日 | 100+ | 2026-11-12 | 2026-11-16 | 2026-11-16 | MIT |
 | [Open Interpreter](entries/coding-agent/openinterpreter-openinterpreter.md) ⚑ | 68,864 | 5,943 | 週次 | 11 | 2026-11-11 | 2026-11-11 | 2026-11-11 | Apache-2.0 |
 | [Skills for Designers and Engineers](entries/coding-agent/emilkowalski-skills.md) ⚑ | 55,592 | 3,238 | 週次 | 8 | 2026-11-09 | 2026-11-10 | 2026-11-10 | MIT |
 | [Obsidian Agent Skills](entries/coding-agent/obsidianmd-obsidian-skills.md) ⚑ | 52,741 | 3,755 | 毎日 | 33 | 2026-11-11 | 2026-11-15 | 2026-11-15 | MIT |
@@ -1910,6 +1911,7 @@
 - [autoresearch](entries/coding-agent/karpathy-autoresearch.md) — unverified / 独立実行による改善幅、試行回数、H100以外での動作、GPU・エージェントの利用料金は未確認。READMEはMITと記載しているが、親のGitHub API測定値はunknown。学習データの利用条件は未確認。 GitHub APIでライセンスを確認できていません。
 - [Archify](entries/coding-agent/tt-a1i-archify.md) — unverified / 生成された図の正確性や可読性、各エージェントでの導入と書き出しの動作は独立に検証していない。GitHubの公開ページで最新版タグを確認したが、完全な公開日時は未確認。
 - [Awesome Claude Skills](entries/coding-agent/composiohq-awesome-claude-skills.md) — unverified / ライセンスはGitHub APIの取得値がunknownです。READMEのバッジはApache 2.0を示していますが、ライセンス条件は確定できません。 GitHub APIでライセンスを確認できていません。
+- [AI Job Search](entries/coding-agent/ai-job-search-dev-ai-job-search.md) — unverified / 求人ポータル検索スキルはデンマーク市場向け。個人情報を含むプロフィールファイルの保存先と、公開forkではそのファイルが追跡対象になる点に注意。効果の数値は作者の利用報告であり、独立検証ではない。
 - [Open Interpreter](entries/coding-agent/openinterpreter-openinterpreter.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Skills for Designers and Engineers](entries/coding-agent/emilkowalski-skills.md) — unverified / 公開文書を確認した。インストールと呼び出しの動作、対応バージョン、導入による品質・性能の改善、エージェント側の料金は未確認。発見投稿のダッシュボードは技術的根拠に含めていない。READMEは公開raw URLで確認した。
 - [Obsidian Agent Skills](entries/coding-agent/obsidianmd-obsidian-skills.md) — unverified / 一次資料で未確認: 依存関係・実行条件。
