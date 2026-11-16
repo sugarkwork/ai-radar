@@ -23,11 +23,15 @@
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 - [X: dextune の投稿](https://x.com/dextune/status/2119073564213268594)
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+- [X: awe0_io の投稿](https://x.com/awe0_io/status/2119077145830125652)
+  - 対象外と判断する根拠が元投稿・元リンクに結びつきません。
 - [X: Yarad_ai の投稿](https://x.com/Yarad_ai/status/2119089795829784806)
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
   - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://github.com/OpenMontageInc/OpenMontage>。
 - [X: TensorSlay の投稿](https://x.com/TensorSlay/status/2119067091877904600)
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+- [X: RoundtableSpace の投稿](https://x.com/RoundtableSpace/status/2119078671419924528)
+  - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://x.com/RoundtableSpace/status/2119078671419924528>。
 - [X: RoundtableSpace の投稿](https://x.com/RoundtableSpace/status/2119071100307169630)
   - 候補の対象が複数あり、一意に特定できませんでした。
   - 対象を裏付ける公開一次資料を確認できませんでした。
