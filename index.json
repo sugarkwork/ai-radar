@@ -1,5 +1,5 @@
 {
-  "count": 1234,
+  "count": 1235,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -26970,6 +26970,37 @@
       "fetched_at": "2026-11-10T10:04:19Z",
       "path": "entries/other/underleveledbuilder-awesome-social-media-skills.md",
       "summary": "企画、原稿、カバー画像・短尺動画、公開、分析の工程別に、小紅書、抖音、WeChat、Bilibili、X、YouTube、TikTok、LinkedInなどの候補を探せる。確認したREADMEにはスキル189件とMCPツール・オープンソース基盤27件が記載されている（メタデータ更新日2026-11-05）。"
+    },
+    {
+      "name": "小浣熊阅读",
+      "genre": "other",
+      "url": "https://github.com/Aminark/legado-ios",
+      "repo": "Aminark/legado-ios",
+      "license": "GPL-3.0",
+      "stars": 232,
+      "language": "Swift",
+      "created": "2026-10-13",
+      "updated": "2026-11-13",
+      "forks": 66,
+      "open_issues": 3,
+      "commits_30d": 22,
+      "commit_cadence": "daily",
+      "commits_90d": 24,
+      "size_kb": 12285,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "在线书源和内容由用户自行提供；README 提醒书源兼容性可能受复杂 JavaScript、登录、验证码、WebView 规则及来源网站变化影响。",
+      "type": "repo",
+      "added": "2026-11-16",
+      "first_seen": "2026-11-16",
+      "sources": [
+        "https://x.com/fhwofjow51260/status/2119052219882647575"
+      ],
+      "fetched_at": "2026-11-16T11:21:48.508436+00:00",
+      "path": "entries/other/aminark-legado-ios.md",
+      "summary": "阅读器支持阅读书源的 JSON、文件、URL、二维码导入，以及书源分组、编辑和调试；支持多书源并发搜索、缓存结果、书架管理、阅读排版、TXT/EPUB 本地阅读、系统朗读与 HTTP TTS 配置、RSS 订阅。README 提到搜索体验会受到网络和书源网站响应影响，复杂 JavaScript、登录、验证码和 WebV"
     },
     {
       "name": "fuxi-pdf · 复习pdf",
