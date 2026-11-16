@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1240 件 — リポジトリ 847, リンク集 120, 記事 206, モデル 53, プロンプト 14 / ⚑ 要確認 995 件
+収録 1241 件 — リポジトリ 848, リンク集 120, 記事 206, モデル 53, プロンプト 14 / ⚑ 要確認 996 件
 
-## リポジトリ（847）
+## リポジトリ（848）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -724,7 +724,7 @@
 | [GLM-5.3-Flash 2×RTX PRO 6000 配備レシピ（TensorFold）](entries/model-serving/miaai-lab-glm-5.3-flash-2x-rtx-pro-6000.md) ⚑ | 23 | 2 | 週次 | 16 | 2026-11-07 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
 | [ausboss/ComfyUI-AusBoss-Model-Downloader](entries/model-serving/ausboss-comfyui-ausboss-model-downloader.md) ⚑ | 9 | 1 | 週次 | 5 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
 
-### MCPサーバー（32）
+### MCPサーバー（33）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -748,6 +748,7 @@
 | [designlang](entries/mcp-server/manavarya09-design-extract.md) ⚑ | 5,003 | 415 | 毎日 | 24 | 2026-11-05 | 2026-11-10 | 2026-11-10 | MIT |
 | [Basic Memory](entries/mcp-server/basicmachines-co-basic-memory.md) ⚑ | 4,583 | 360 | 毎日 | 100+ | 2026-11-15 | 2026-11-15 | 2026-11-15 | AGPL-3.0 |
 | [New Term Radar](entries/mcp-server/zhuyansen-new-term-radar.md) ⚑ | 2,147 | 642 | 毎日 | 54 | 2026-11-02 | 2026-11-10 | 2026-11-10 | MIT |
+| [Doop](entries/mcp-server/kgoedecke-doop.md) ⚑ | 2,069 | 265 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-16 | AGPL-3.0 |
 | [Gmail AutoAuth MCP Server](entries/mcp-server/gongrzhe-gmail-mcp-server.md) ⚑ | 1,169 | 416 | 停滞 | 0 | 2025-08-06 | 2026-11-10 | 2026-11-11 | MIT |
 | [World Intelligence MCP](entries/mcp-server/marc-shade-world-intel-mcp.md) | 1,067 | 176 | 毎日 | 100+ | 2026-10-18 | 2026-11-09 | 2026-11-10 | MIT |
 | [PicLite](entries/mcp-server/amiaoapp-piclite.md) ⚑ | 1,034 | 66 | 毎日 | 70 | 2026-11-06 | 2026-11-10 | 2026-11-10 | GPL-3.0 |
@@ -2242,6 +2243,7 @@
 - [designlang](entries/mcp-server/manavarya09-design-extract.md) — unverified / 最新リリースの公開日時は未確認。抽出精度、サイト間での再現性、CLI・MCP の実動作は未検証。README の出力例は作者による掲載例。
 - [Basic Memory](entries/mcp-server/basicmachines-co-basic-memory.md) — unverified / 一次資料で未確認: 技術背景・有効性。
 - [New Term Radar](entries/mcp-server/zhuyansen-new-term-radar.md) — unverified / 理由未記入
+- [Doop](entries/mcp-server/kgoedecke-doop.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Gmail AutoAuth MCP Server](entries/mcp-server/gongrzhe-gmail-mcp-server.md) — unverified / READMEに記載のOAuth認証ではGoogle Cloudの設定と認証情報が必要。効果、依存関係の全容、料金はREADMEから確認できない。測定値ではリポジトリはアーカイブ済みで、直近30日・90日のコミットは0件。
 - [PicLite](entries/mcp-server/amiaoapp-piclite.md) — unverified / ['圧縮率・画質・処理時間、各OS向け配布バイナリと第三者MCPクライアントの実動作は未検証。プロジェクトは公式MCP SDKと実ファイルを使った試験を報告している。']
 - [DeepScrape](entries/mcp-server/stretchcloud-deepscrape.md) — unverified / READMEに記載された機能と手順を確認した。実行時の動作、サイト変更後の復旧率、破損PDFの解析精度、モデル利用料の具体額は未確認。GitHubの最新版リンクはリリース一覧に遷移し、取得した一覧にはリリースが表示されていなかったため、最新リリースのタグと公開日時は未確認。
