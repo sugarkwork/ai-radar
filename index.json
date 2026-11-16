@@ -1,5 +1,5 @@
 {
-  "count": 1211,
+  "count": 1212,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -9727,6 +9727,24 @@
       "risk_notes": "PC等の1/2以内・上限10万円は原チェック時の公式確認。誰でも単体PCを先に買えば補助される制度ではなく、現行公募要領と対象者を確認する。 当方でインストール・推論・生成・ベンチ再現はしていない。",
       "published": "2026-08-17",
       "path": "articles/2026-11-09-https-x.com-makeai_ceo-status-2089261252120051821.md"
+    },
+    {
+      "name": "マジで詰む、AIがCドライブを勝手に削除した。「削除禁止」では止まらなかった理由と、Claude Code・Codex・dots・Muse・Grok Botにそのまま貼れる「消させない」ルール集を作った",
+      "genre": "article",
+      "url": "https://tetumemo.m-newsletter.com/posts/3be090cfa195a108?promo=B94083",
+      "published": "2026-11-04",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "記事は有料として掲載されています。記事内の事故経緯や対策後の結果は作者の報告であり、独立した実測ではありません。",
+      "type": "article",
+      "added": "2026-11-16",
+      "first_seen": "2026-11-16",
+      "sources": [
+        "https://x.com/nodenodenode1/status/2119038168120922278"
+      ],
+      "fetched_at": "2026-11-16T07:14:24.081822+00:00",
+      "path": "articles/2026-11-04-author-ai-c-claude-code-codex-dots-muse-grok-bot-cb424550bf.md"
     },
     {
       "name": "マジで詰む、AIがCドライブを勝手に削除した。「削除禁止」では止まらなかった理由と、Claude Code・Codex・dots・Muse・Grok Botにそのまま貼れる「消させない」ルール集を作った",

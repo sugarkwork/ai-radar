@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1211 件 — リポジトリ 834, リンク集 120, 記事 190, モデル 53, プロンプト 14 / ⚑ 要確認 972 件
+収録 1212 件 — リポジトリ 834, リンク集 120, 記事 191, モデル 53, プロンプト 14 / ⚑ 要確認 973 件
 
 ## リポジトリ（834）
 
@@ -1404,9 +1404,9 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（190）
+## 記事（191）
 
-### 記事（127）
+### 記事（128）
 
 - **[$0のデジタル参謀長で月$80,000の契約候補を作ったというX投稿（動画付き）](articles/2026-10-22-bober_smart-0-80-000-x.md)** ⚑  @Bober_smart
 - **[1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md)** ⚑  @mukadeshinigami（mukade死神）
@@ -1523,6 +1523,7 @@
 - **[【公式】Claude Codeの「直しました」で終わらせない。画面の確認まで任せるSkillの作り方](articles/2026-10-23-sumika45379-skills-studio-claude-code-skill.md)** ⚑  sumika45379 / Skills Studio
 - **[ジェンスン・フアンがCNNで語ったAIを使った学習と回答の比較](articles/2025-07-13-cnn-cnn-ai.md)** ⚑  CNN
 - **[デジタル化・AI導入補助金の申請条件と交付順序](articles/2026-11-09-https-x.com-makeai_ceo-status-2089261252120051821.md)** ⚑  @ai_ai_ailover
+- **[マジで詰む、AIがCドライブを勝手に削除した。「削除禁止」では止まらなかった理由と、Claude Code・Codex・dots・Muse・Grok Botにそのまま貼れる「消させない」ルール集を作った](articles/2026-11-04-author-ai-c-claude-code-codex-dots-muse-grok-bot-cb424550bf.md)** ⚑
 - **[マジで詰む、AIがCドライブを勝手に削除した。「削除禁止」では止まらなかった理由と、Claude Code・Codex・dots・Muse・Grok Botにそのまま貼れる「消させない」ルール集を作った](articles/2026-11-04-author-ai-c-claude-code-codex-dots-muse-grok-bot.md)** ⚑
 - **[モデルの能力とハーネスの適合を考える](articles/2026-10-12-bernat-vadell-d5322e77.md)** ⚑  Bernat Vadell
 - **[ローカルAI推論で速度が次の課題になるという論考](articles/2026-10-01-bernat-vadell-ai.md)** ⚑  Bernat Vadell
@@ -1911,6 +1912,7 @@
 - [【公式】Claude Codeの「直しました」で終わらせない。画面の確認まで任せるSkillの作り方](articles/2026-10-23-sumika45379-skills-studio-claude-code-skill.md) — unverified / 記事ページは非ログインだと x.com のログイン画面へリダイレクトされ（HTTP 200）、本文は封筒JSONの articleText に依拠。published は発見元ポストの日時（2026-10-23）で、記事ページ上の公開日は未確認。動画の字幕が取得できず、動画内の具体発言（3つの確認例、CLS 実演）は直接確認していない。v2.1.286 の自動実行は公式ドキュメントで確認済みだが、著者自身は /verify を実行しておらず、記事もその旨を明記している。末尾に LINE 友だち追加でプロンプト集を配る導線がある。
 - [ジェンスン・フアンがCNNで語ったAIを使った学習と回答の比較](articles/2025-07-13-cnn-cnn-ai.md) — unverified / 認知能力の向上は本人の自己評価。学習効果、複数のAIによる相互批評の精度向上、引用投稿が述べる認知能力の低下や格差拡大は、この資料では実証されていない。
 - [デジタル化・AI導入補助金の申請条件と交付順序](articles/2026-11-09-https-x.com-makeai_ceo-status-2089261252120051821.md) — unverified / PC等の1/2以内・上限10万円は原チェック時の公式確認。誰でも単体PCを先に買えば補助される制度ではなく、現行公募要領と対象者を確認する。 当方でインストール・推論・生成・ベンチ再現はしていない。
+- [マジで詰む、AIがCドライブを勝手に削除した。「削除禁止」では止まらなかった理由と、Claude Code・Codex・dots・Muse・Grok Botにそのまま貼れる「消させない」ルール集を作った](articles/2026-11-04-author-ai-c-claude-code-codex-dots-muse-grok-bot-cb424550bf.md) — unverified / 記事は有料として掲載されています。記事内の事故経緯や対策後の結果は作者の報告であり、独立した実測ではありません。
 - [マジで詰む、AIがCドライブを勝手に削除した。「削除禁止」では止まらなかった理由と、Claude Code・Codex・dots・Muse・Grok Botにそのまま貼れる「消させない」ルール集を作った](articles/2026-11-04-author-ai-c-claude-code-codex-dots-muse-grok-bot.md) — unverified / 有料部分のルール集とチェックリストは閲覧できておらず、記事の表示では購読料は月額¥980（税込み）、バックナンバーは別途購入。掲載の手順は作者のWindows 11環境を対象とし、Macでは未確認。事故や復旧、対策の有効性は作者の報告であり、独立検証ではない。
 - [モデルの能力とハーネスの適合を考える](articles/2026-10-12-bernat-vadell-d5322e77.md) — unverified / 投稿自体にベンチマークや導入効果の測定はない。
 - [ローカルAI推論で速度が次の課題になるという論考](articles/2026-10-01-bernat-vadell-ai.md) — unverified / 速度の例示は実測値ではなく、将来予測。
