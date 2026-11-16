@@ -6,9 +6,14 @@
 
 ## 2026-11-17（日本時間）
 
+- [X: tetumemo の投稿](https://x.com/tetumemo/status/2119084069803983097)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 - [X: tetumemo の投稿](https://x.com/tetumemo/status/2119073894338646514)
   - 候補の対象が複数あり、一意に特定できませんでした。
   - 対象を裏付ける公開一次資料を確認できませんでした。
+- [X: taya_mama_AI の投稿](https://x.com/taya_mama_AI/status/2119085435117084801)
+  - 対象を裏付ける公開一次資料を確認できませんでした。
+  - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://x.com/tetumemo/status/2119005622947754156>。
 - [X: qHooks_ の投稿](https://x.com/qHooks_/status/2122342565861106056)
   - 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: okapi_fukugyo の投稿](https://x.com/okapi_fukugyo/status/2119064562284831078)
@@ -21,6 +26,11 @@
   - 公開に必須の根拠がそろっていません。
 - [X: jarvis11x の投稿](https://x.com/jarvis11x/status/2119069448459989280)
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+- [X: dextune の投稿](https://x.com/dextune/status/2119089997798334878)
+  - 候補の対象が複数あり、一意に特定できませんでした。
+  - 元投稿と配布先が同一対象であることを裏付けられませんでした。
+- [X: dextune の投稿](https://x.com/dextune/status/2119082195050463475)
+  - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 - [X: dextune の投稿](https://x.com/dextune/status/2119073564213268594)
   - 元投稿と配布先が同一対象であることを裏付けられませんでした。
 - [X: awe0_io の投稿](https://x.com/awe0_io/status/2119077145830125652)
@@ -30,6 +40,8 @@
   - 公開に必須の根拠がそろっていません。 照合済み参照先: <https://github.com/OpenMontageInc/OpenMontage>。
 - [X: TensorSlay の投稿](https://x.com/TensorSlay/status/2119067091877904600)
   - 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+- [X: RoundtableSpace の投稿](https://x.com/RoundtableSpace/status/2119086220605010180)
+  - 公開に必須の根拠がそろっていません。
 - [X: RoundtableSpace の投稿](https://x.com/RoundtableSpace/status/2119078671419924528)
   - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://x.com/RoundtableSpace/status/2119078671419924528>。
 - [X: RoundtableSpace の投稿](https://x.com/RoundtableSpace/status/2119071100307169630)
@@ -38,6 +50,8 @@
 - [X: RealMarvelX の投稿](https://x.com/RealMarvelX/status/2119091042959925644)
   - 候補の対象が複数あり、一意に特定できませんでした。
   - GitHub APIで元のリポジトリを確認できませんでした。
+  - 公開に必須の根拠がそろっていません。
+- [X: NFT_Chen の投稿](https://x.com/NFT_Chen/status/2119082866961523054)
   - 公開に必須の根拠がそろっていません。
 - [X: NFT_Chen の投稿](https://x.com/NFT_Chen/status/2119070158354538560)
   - 対象を裏付ける公開一次資料を確認できませんでした。 照合済み参照先: <https://x.com/addyosmani/status/2118958843501920268>。
