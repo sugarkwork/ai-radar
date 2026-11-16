@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1203 件 — リポジトリ 826, リンク集 120, 記事 190, モデル 53, プロンプト 14 / ⚑ 要確認 964 件
+収録 1204 件 — リポジトリ 827, リンク集 120, 記事 190, モデル 53, プロンプト 14 / ⚑ 要確認 965 件
 
-## リポジトリ（826）
+## リポジトリ（827）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -743,12 +743,13 @@
 | [JevOnAir](entries/finance-quant/valuecodes-jev-on-air.md) ⚑ | 0 | 0 | 週次 | 11 | 2026-11-09 | 2026-11-10 | 2026-11-10 | MIT |
 | [jev-polymarket-test](entries/finance-quant/truongxxxx-jev-polymarket-test.md) ⚑ | 0 | 0 | 停滞 | 0 | 2026-10-10 | 2026-11-10 | 2026-11-10 | MIT |
 
-### モデル推論・配信（29）
+### モデル推論・配信（30）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
 | [Ollama](entries/model-serving/ollama-ollama.md) ⚑ | 186,907 | 19,075 | 毎日 | 98 | 2026-11-14 | 2026-11-14 | 2026-11-14 | MIT |
 | [OmniRoute](entries/model-serving/cheaper-inference-omniroute.md) | 85,969 | 13,041 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [Jan](entries/model-serving/janhq-jan.md) ⚑ | 45,734 | 3,177 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-16 | unknown |
 | [Strata](entries/model-serving/niko1221-strata.md) ⚑ | 42,470 | 4,641 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
 | [MiniCPM-V](entries/model-serving/openbmb-minicpm-v.md) | 27,117 | 2,127 | 毎日 | 34 | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
 | [DeepInfer](entries/model-serving/deepseek-ai-deepinfer.md) ⚑ | 25,757 | 3,161 | 週次 | 6 | 2026-11-03 | 2026-11-10 | 2026-11-10 | Apache-2.0 |
@@ -2201,6 +2202,7 @@
 - [Date Math](links/mcp-server/date-math.datemath.workers.dev-date-math.md) — unverified / 計算精度と決済は未検証。
 - [gmail-browser-mcp](entries/mcp-server/sparsh101sparsh-gmail-browser-mcp.md) — low-quality, unverified / 作者自身がX投稿で「not in production stage」「you need to configure multiple things by yourself」と説明。 作者の説明では本番利用段階ではなく、複数の設定を利用者が行う必要がある。必要な設定項目と本番利用条件は今回確認した資料だけでは特定できない。 GitHub APIでライセンスを確認できていません。
 - [Ollama](entries/model-serving/ollama-ollama.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
+- [Jan](entries/model-serving/janhq-jan.md) — unverified / GitHub APIでライセンスを確認できていません。
 - [Strata](entries/model-serving/niko1221-strata.md) — unverified / Mac31%・Linuxほぼ3倍等はリリースノートで同じ条件の根拠がない箇所がある。control vectorは特定Qwen向け実験で既定off。 今回の動作・推論・生成・性能は未検証。
 - [DeepInfer](entries/model-serving/deepseek-ai-deepinfer.md) — unverified / 公開版はオフライン推論用。起動と公表性能の再現は未確認。
 - [gpu-unlock](entries/model-serving/zagitta-gpu-unlock.md) — unverified / ブート時にカーネルモジュールでGPUの速度セレクタを書き換える構成。性能値は作者計測で第三者検証なし。GeForce の保証・NVIDIA の規約への影響は未確認。トップレベルに LICENSE ファイルが無く licenses/ 配下のみ。
