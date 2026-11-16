@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1199 件 — リポジトリ 822, リンク集 120, 記事 190, モデル 53, プロンプト 14 / ⚑ 要確認 960 件
+収録 1200 件 — リポジトリ 823, リンク集 120, 記事 190, モデル 53, プロンプト 14 / ⚑ 要確認 961 件
 
-## リポジトリ（822）
+## リポジトリ（823）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -310,7 +310,7 @@
 | [Leash](entries/coding-agent/cmaintz-leash.md) ⚑ | 0 | 0 | 毎日 | 21 | 2026-11-06 | 2026-11-10 | 2026-11-11 | MIT |
 | [grok-x](entries/coding-agent/stat-guy-grok-x.md) ⚑ | 0 | 0 | 停滞 | 0 | 2026-03-19 | 2026-11-16 | 2026-11-16 | unknown |
 
-### エージェント基盤・スキル集（113）
+### エージェント基盤・スキル集（114）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -361,6 +361,7 @@
 | [ccch1mneyyy/dsh-Go](entries/agent-framework/ccch1mneyyy-dsh-go.md) ⚑ | 17,518 | 757 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | AGPL-3.0 |
 | [ARTEMIS](entries/agent-framework/google-artemis.md) | 17,116 | 1,909 | 月次 | 0 | 2026-10-01 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
 | [opensandbox-group/OpenSandbox](entries/agent-framework/opensandbox-group-opensandbox.md) ⚑ | 16,881 | 1,589 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [QM](entries/agent-framework/yc-software-qm.md) ⚑ | 15,712 | 1,964 | 毎日 | 100+ | 2026-11-15 | 2026-11-16 | 2026-11-16 | MIT |
 | [LiveKit Agents](entries/agent-framework/livekit-agents.md) | 15,158 | 4,108 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
 | [OpenUI](entries/agent-framework/thesysdev-openui.md) | 15,026 | 998 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
 | [e2e](entries/agent-framework/e2e-inc-e2e.md) ⚑ | 13,799 | 732 | 毎日 | 100+ | 2026-11-13 | 2026-11-13 | 2026-11-13 | Apache-2.0 |
@@ -1747,6 +1748,7 @@
 - [Rowboat](entries/agent-framework/rowboatlabs-rowboat.md) — unverified / READMEは「Expect breaking changes while we dogfood」としており、wire contractの互換性は今後変更される可能性がある。
 - [ccch1mneyyy/dsh-Go](entries/agent-framework/ccch1mneyyy-dsh-go.md) — unverified / 匿名使用統計は既定ONで停止可能。スマホ操作の画面内容がモデル提供元へ送られ得る。ローカル起動でもモデル通信・課金は別。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [opensandbox-group/OpenSandbox](entries/agent-framework/opensandbox-group-opensandbox.md) — unverified / 64ms P50・125.4ms P99等は開発側ベンチ。隔離の強さは設定・バックエンドによるため、秘密情報やネットワークの安全性を一括保証しない。 当方でインストール・推論・生成・ベンチ再現はしていない。
+- [QM](entries/agent-framework/yc-software-qm.md) — unverified / 一次資料で未確認: 技術背景・有効性。
 - [e2e](entries/agent-framework/e2e-inc-e2e.md) — unverified / エージェント実行には利用者自身のサブスクリプション、APIキー、またはローカルモデルが必要。料金や各モデルの利用条件はREADMEに記載なし。
 - [Worktrunk](entries/agent-framework/max-sixty-worktrunk.md) — unverified / 発見元の投稿は画面録画MCP（t.co リンク先は gmpetrov/agent-screenplay）の紹介で、worktrunk はそのツールではない。worktrunk は git worktree 管理 CLI で、投稿本文に worktrunk への言及はない。数値・機能は worktrunk 自身の API/README/公式ドキュメントで確認した。
 - [dsh-market/dsh-market](entries/agent-framework/dsh-market-dsh-market.md) — unverified / 4200以上のプラグインという数は投稿/READMEの主張で独立確認なし。市場の掲載は各プラグインの安全性保証ではない。 当方でインストール・推論・生成・ベンチ再現はしていない。
