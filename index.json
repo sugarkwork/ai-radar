@@ -1,5 +1,5 @@
 {
-  "count": 1209,
+  "count": 1210,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -12933,6 +12933,37 @@
       "fetched_at": "2026-11-10T14:08:41.744771+00:00",
       "path": "entries/coding-agent/airsuphq-machine-skill.md",
       "summary": "READMEでは、Claude Code向けAgent Skillとして、機械の説明から単一HTMLファイルのインタラクティブな3Dシミュレーションを生成し、録画スクリプトで映像化できると説明されている。例として、分解表示、断面表示、X線表示、スローモーション、ラベル表示、計算に基づく破損モードが挙げられている。"
+    },
+    {
+      "name": "Diorama",
+      "genre": "coding-agent",
+      "url": "https://github.com/sloemo01/diorama",
+      "repo": "sloemo01/diorama",
+      "stars": 554,
+      "forks": 44,
+      "open_issues": 2,
+      "size_kb": 24080,
+      "language": "JavaScript",
+      "created": "2026-10-24",
+      "updated": "2026-11-16",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 26,
+      "commits_90d": 26,
+      "commit_cadence": "daily",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 有効性・実行条件。",
+      "type": "repo",
+      "added": "2026-11-16",
+      "first_seen": "2026-11-16",
+      "sources": [
+        "https://x.com/dextune/status/2119037150305862030"
+      ],
+      "fetched_at": "2026-11-16T05:34:41.383626+00:00",
+      "path": "entries/coding-agent/sloemo01-diorama.md",
+      "summary": "Three.jsで小さなジオラマシーンを制作するためのplaybookとコードキット。READMEでは、pixel、stroked toon、pixel + strokeの見た目、アセットと自作ジオメトリの選択、テンプレート、QA harness、制作例を案内している。出典: https://github.com/sl"
     },
     {
       "name": "DSH Game Studio",
