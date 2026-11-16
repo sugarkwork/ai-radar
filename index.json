@@ -1,5 +1,5 @@
 {
-  "count": 1243,
+  "count": 1244,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -27363,6 +27363,37 @@
       "fetched_at": "2026-11-14T11:13:11.272114+00:00",
       "path": "entries/other/monoradio102-myradio.md",
       "summary": "台本JSONと音声をリポジトリに置き、GitHub Pagesでキャラクター付きのHTML番組を公開する。音声に合わせてスライド・字幕・キャラクター・リンクカードを動かし、見出し移動、記事リンク、台本の閲覧に対応する。天気表示、SNS共有カード、埋め込み、コメント欄の機能もREADMEに記載されている。"
+    },
+    {
+      "name": "URLhaus",
+      "genre": "other",
+      "url": "https://github.com/abusech/URLhaus",
+      "repo": "abusech/URLhaus",
+      "license": "unknown",
+      "stars": 79,
+      "language": "Python",
+      "created": "2018-07-10",
+      "updated": "2024-11-09",
+      "forks": 12,
+      "open_issues": 8,
+      "commits_30d": 0,
+      "commit_cadence": "stale",
+      "commits_90d": 0,
+      "size_kb": 31,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEに記載された無料のAuth-Key取得には登録が必要です。リポジトリのライセンスは取得済みメタデータでunknownです。 GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-16",
+      "first_seen": "2026-11-16",
+      "sources": [
+        "https://x.com/RoundtableSpace/status/2119071100307169630"
+      ],
+      "fetched_at": "2026-11-16T17:10:50.592396+00:00",
+      "path": "entries/other/abusech-urlhaus.md",
+      "summary": "URLhausバルクAPIを使ったURLの照会、ファイルハッシュ（MD5またはSHA256）の照会、悪性URLの報告を行うPythonサンプルを提供します。ClamAVシグネチャファイルも提供し、READMEではcronで毎分更新する方法を案内しています。"
     },
     {
       "name": "dsh-pet-live2d",
