@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1207 件 — リポジトリ 830, リンク集 120, 記事 190, モデル 53, プロンプト 14 / ⚑ 要確認 968 件
+収録 1208 件 — リポジトリ 831, リンク集 120, 記事 190, モデル 53, プロンプト 14 / ⚑ 要確認 969 件
 
-## リポジトリ（830）
+## リポジトリ（831）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -671,11 +671,12 @@
 | [lab-tts](entries/tts-audio/lakimi-ai-systems-lab-tts.md) ⚑ | 8 | 0 | 月次 | 3 | 2026-11-03 | 2026-11-10 | 2026-11-10 | Apache-2.0 |
 | [Voxarium](entries/tts-audio/ahmadmansy-voxarium.md) ⚑ | 7 | 0 | 毎日 | 40 | 2026-11-08 | 2026-11-13 | 2026-11-13 | AGPL-3.0 |
 
-### モデル推論・配信（33）
+### モデル推論・配信（34）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
 | [Ollama](entries/model-serving/ollama-ollama.md) ⚑ | 186,907 | 19,075 | 毎日 | 98 | 2026-11-14 | 2026-11-14 | 2026-11-14 | MIT |
+| [Open WebUI](entries/model-serving/open-webui-open-webui.md) ⚑ | 158,778 | 23,088 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-16 | unknown |
 | [llama.cpp](entries/model-serving/ggml-org-llama.cpp.md) ⚑ | 135,242 | 25,656 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-16 | MIT |
 | [vLLM](entries/model-serving/vllm-project-vllm.md) ⚑ | 96,992 | 24,870 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-16 | Apache-2.0 |
 | [OmniRoute](entries/model-serving/cheaper-inference-omniroute.md) | 85,969 | 13,041 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
@@ -2205,6 +2206,7 @@
 - [Date Math](links/mcp-server/date-math.datemath.workers.dev-date-math.md) — unverified / 計算精度と決済は未検証。
 - [gmail-browser-mcp](entries/mcp-server/sparsh101sparsh-gmail-browser-mcp.md) — low-quality, unverified / 作者自身がX投稿で「not in production stage」「you need to configure multiple things by yourself」と説明。 作者の説明では本番利用段階ではなく、複数の設定を利用者が行う必要がある。必要な設定項目と本番利用条件は今回確認した資料だけでは特定できない。 GitHub APIでライセンスを確認できていません。
 - [Ollama](entries/model-serving/ollama-ollama.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
+- [Open WebUI](entries/model-serving/open-webui-open-webui.md) — unverified / READMEの説明に基づく機能情報です。実機での動作や効果は独立検証されていません。 GitHub APIでライセンスを確認できていません。
 - [llama.cpp](entries/model-serving/ggml-org-llama.cpp.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係。
 - [vLLM](entries/model-serving/vllm-project-vllm.md) — unverified / READMEには、必要なGPU・CPUの最低要件や対応するソフトウェアのバージョン条件が記載されていません。
 - [LocalAI](entries/model-serving/mudler-localai.md) — unverified / チーム共有やアドオンなどREADMEでdevelopment buildsとされる機能は、通常の最新リリースでは利用できるか不明。README記載の版情報は取得時点の独立確認ではない。

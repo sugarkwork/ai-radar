@@ -1,5 +1,5 @@
 {
-  "count": 1207,
+  "count": 1208,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -20295,6 +20295,37 @@
       "fetched_at": "2026-11-14T05:16:36.070001+00:00",
       "path": "entries/model-serving/ollama-ollama.md",
       "summary": "オープンモデルをローカルまたはクラウドで利用し、モデルを実行・管理できます。CLIからモデルとのチャットや対応するコーディングツールの起動ができ、REST API、Pythonライブラリ、JavaScriptライブラリからも利用できます。出典: https://github.com/ollama/ollama"
+    },
+    {
+      "name": "Open WebUI",
+      "genre": "model-serving",
+      "url": "https://github.com/open-webui/open-webui",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEの説明に基づく機能情報です。実機での動作や効果は独立検証されていません。 GitHub APIでライセンスを確認できていません。",
+      "repo": "open-webui/open-webui",
+      "stars": 158778,
+      "forks": 23088,
+      "open_issues": 391,
+      "size_kb": 562890,
+      "language": "Svelte",
+      "created": "2023-10-06",
+      "updated": "2026-11-16",
+      "archived": false,
+      "license": "unknown",
+      "commits_30d": 100,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "type": "repo",
+      "added": "2026-11-16",
+      "first_seen": "2026-11-16",
+      "sources": [
+        "https://x.com/naka_1717/status/2119034856676159987"
+      ],
+      "fetched_at": "2026-11-16T05:29:01.132995+00:00",
+      "path": "entries/model-serving/open-webui-open-webui.md",
+      "summary": "セルフホスト型のAIプラットフォーム。READMEによると、オフラインでの動作、Ollamaのローカルモデルへの接続、OpenAI互換APIを使ったローカル・クラウドモデルへの接続に対応します。"
     },
     {
       "name": "llama.cpp",
