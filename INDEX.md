@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1197 件 — リポジトリ 821, リンク集 120, 記事 189, モデル 53, プロンプト 14 / ⚑ 要確認 959 件
+収録 1198 件 — リポジトリ 821, リンク集 120, 記事 190, モデル 53, プロンプト 14 / ⚑ 要確認 959 件
 
 ## リポジトリ（821）
 
@@ -1391,9 +1391,9 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（189）
+## 記事（190）
 
-### 記事（126）
+### 記事（127）
 
 - **[$0のデジタル参謀長で月$80,000の契約候補を作ったというX投稿（動画付き）](articles/2026-10-22-bober_smart-0-80-000-x.md)** ⚑  @Bober_smart
 - **[1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md)** ⚑  @mukadeshinigami（mukade死神）
@@ -1503,6 +1503,7 @@
 - **[VINO: Revisiting 3D Representation Learning with Volume Transformers](articles/2026-11-04-author-vino-revisiting-3d-representation-learning-with-volume-transformers.md)**
 - **[What are vector embeddings? An interactive guide](articles/2026-10-14-author-what-are-vector-embeddings-an-interactive-guide.md)**
 - **[Xのアカウントデータを使った自己点検の提案](articles/2026-10-23-jarvis11x-x.md)** ⚑  @jarvis11x
+- **[You can edit your videos with AI on Instagram’s new desktop Edits app](articles/2026-11-05-author-you-can-edit-your-videos-with-ai-on-instagram-s-new-desktop-edits-app.md)**
 - **[iPhone『削除済み写真173,521件』主張の検証（PhotoData/Thumbnails）](articles/2026-10-25-bober_smart-iphone-173-521-photodata-thumbnails.md)** ⚑  Bober_smart
 - **[llama.cpp v1.0.0: A stronger foundation for the local AI ecosystem](articles/2026-11-13-author-llama.cpp-v1.0.0-a-stronger-foundation-for-the-local-ai-ecosystem.md)**
 - **[「長くなる一方のSkill」を「短く効くSkill」にする、Matt Pocock式の作り方](articles/2026-10-20-sumika45379-skills-studio-skill-skill-matt-pocock.md)** ⚑  @sumika45379 (Skills Studio)

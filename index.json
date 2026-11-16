@@ -1,5 +1,5 @@
 {
-  "count": 1197,
+  "count": 1198,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -9526,6 +9526,22 @@
       ],
       "fetched_at": "2026-11-10T03:32:08Z",
       "path": "articles/2026-10-23-jarvis11x-x.md"
+    },
+    {
+      "name": "You can edit your videos with AI on Instagram’s new desktop Edits app",
+      "genre": "article",
+      "url": "https://www.theverge.com/tech/1027444/instagram-edits-desktop-ai-agents-muse-mcp",
+      "published": "2026-11-05",
+      "flags": [],
+      "type": "article",
+      "added": "2026-11-16",
+      "first_seen": "2026-11-16",
+      "risk_notes": "",
+      "sources": [
+        "https://x.com/ganfanren_ai/status/2119029925567144389"
+      ],
+      "fetched_at": "2026-11-16T04:26:35.769210+00:00",
+      "path": "articles/2026-11-05-author-you-can-edit-your-videos-with-ai-on-instagram-s-new-desktop-edits-app.md"
     },
     {
       "name": "iPhone『削除済み写真173,521件』主張の検証（PhotoData/Thumbnails）",
