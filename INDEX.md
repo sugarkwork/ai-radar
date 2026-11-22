@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1313 件 — リポジトリ 916, リンク集 120, 記事 210, モデル 53, プロンプト 14 / ⚑ 要確認 1057 件
+収録 1314 件 — リポジトリ 917, リンク集 120, 記事 210, モデル 53, プロンプト 14 / ⚑ 要確認 1058 件
 
-## リポジトリ（916）
+## リポジトリ（917）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -601,7 +601,7 @@
 | [remotion-ffmpeg-skill](entries/video-gen/kajisho5-remotion-ffmpeg-skill.md) ⚑ | 8 | 0 | 毎日 | 77 | 2026-11-14 | 2026-11-17 | 2026-11-22 | MIT |
 | [BennyDaBall930/comfyui_hyperflow_int8_nodes](entries/video-gen/bennydaball930-comfyui_hyperflow_int8_nodes.md) ⚑ | 3 | 0 | 週次 | 10 | 2026-11-09 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
 
-### 3D・モーション（80）
+### 3D・モーション（81）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -647,6 +647,7 @@
 | [react-postprocessing](entries/3d-motion/pmndrs-react-postprocessing.md) ⚑ | 1,640 | 171 | 週次 | 7 | 2026-10-21 | 2026-11-16 | 2026-11-22 | MIT |
 | [motionmaxxing](entries/3d-motion/tejashmakwana-motionmaxxing.md) ⚑ | 1,639 | 165 | 停滞 | 0 | 2026-10-06 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
 | [nanocle/Charakuru](entries/3d-motion/nanocle-charakuru.md) ⚑ | 1,637 | 137 | 月次 | 2 | 2026-11-02 | 2026-11-16 | 2026-11-22 | NOASSERTION |
+| [vork](entries/3d-motion/voyager-so-vork.md) ⚑ | 1,611 | 134 | 週次 | 14 | 2026-11-17 | 2026-11-17 | 2026-11-22 | unknown |
 | [toyxyz/toyxyz_RGBMocap](entries/3d-motion/toyxyz-toyxyz_rgbmocap.md) ⚑ | 1,574 | 204 | 毎日 | 62 | 2026-11-16 | 2026-11-16 | 2026-11-22 | NOASSERTION |
 | [livliv-dev/player](entries/3d-motion/livliv-dev-player.md) ⚑ | 1,571 | 161 | 毎日 | 63 | 2026-11-16 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
 | [NullMotion](entries/3d-motion/blixvip-nullmotion.md) | 1,426 | 138 | 毎日 | 40 | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
@@ -1781,6 +1782,7 @@
 - [react-postprocessing](entries/3d-motion/pmndrs-react-postprocessing.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [motionmaxxing](entries/3d-motion/tejashmakwana-motionmaxxing.md) — unverified / 現行版の生成品質、実行互換性、レンダリング性能は独立検証していない。作者のブラインド比較は旧版を対象とした単一評価者の結果で、作例の映像品質も評価していない。紹介投稿の冒頭にある参照動画の再現能力は、このリポジトリについて確認できていない。
 - [nanocle/Charakuru](entries/3d-motion/nanocle-charakuru.md) — unverified / 独自Charakuru Source-Available License and Terms of UseでOSI承認OSSではない。商用・再配布条件、Tripo/API料金を別途確認する。 当方でインストール・推論・生成・ベンチ再現はしていない。
+- [vork](entries/3d-motion/voyager-so-vork.md) — unverified / READMEは「source-available」「research preview期間中は無料」と説明していますが、ライセンスの種類は確認できません。README記載の速度比較は作者による報告で、独立実測ではありません。 GitHub APIでライセンスを確認できていません。
 - [toyxyz/toyxyz_RGBMocap](entries/3d-motion/toyxyz-toyxyz_rgbmocap.md) — unverified / MITは自作コードのみ。ExMR/GVHMR/PromptHMRと登録ボディには非商用等の別条件。FlowHMRも重みは非商用であり、コードのApacheを重みに適用しない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [livliv-dev/player](entries/3d-motion/livliv-dev-player.md) — unverified / Apache-2.0はプレイヤーのみ。同梱21キャラは個人非商用・クレジット等の別条件で一部さらに例外。公開直後でmodel.json v4等の形式は流動的。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [3Dviz Pro Max](entries/3d-motion/viettranx-3dviz-pro-max.md) — unverified / 描画・導入は独立に再現していない。README掲載の作者評価は各条件1件で、品質向上の一般化は未確認。作者資料でもCodexアプリへの導入とClaude Codeのマーケットプレイス経由の導入は未検証。冒頭の村の映像はスキル開発前の素材で、再配布権は確認中。

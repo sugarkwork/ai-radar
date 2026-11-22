@@ -1,5 +1,5 @@
 {
-  "count": 1313,
+  "count": 1314,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -1420,6 +1420,37 @@
       "last_release_at": "2026-11-02",
       "path": "entries/3d-motion/nanocle-charakuru.md",
       "summary": "一枚のイラストからVRMアバターを作るローカルキットCharakuru。Tripo Smart MeshとCodex/GPTを利用し表情対応も案内する。"
+    },
+    {
+      "name": "vork",
+      "genre": "3d-motion",
+      "url": "https://github.com/voyager-so/vork",
+      "repo": "voyager-so/vork",
+      "license": "unknown",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEは「source-available」「research preview期間中は無料」と説明していますが、ライセンスの種類は確認できません。README記載の速度比較は作者による報告で、独立実測ではありません。 GitHub APIでライセンスを確認できていません。",
+      "stars": 1611,
+      "forks": 134,
+      "open_issues": 5,
+      "size_kb": 28448,
+      "language": "Rust",
+      "created": "2026-11-05",
+      "updated": "2026-11-17",
+      "archived": false,
+      "commits_30d": 14,
+      "commits_90d": 14,
+      "commit_cadence": "weekly",
+      "type": "repo",
+      "added": "2026-11-22",
+      "first_seen": "2026-11-22",
+      "sources": [
+        "https://x.com/RoundtableSpace/status/2119207016069738968"
+      ],
+      "fetched_at": "2026-11-17T11:11:43.832261+00:00",
+      "path": "entries/3d-motion/voyager-so-vork.md",
+      "summary": "AIエージェントがシーンをコードで記述し、GPUで3D/VFXをレンダリングするエンジン。READMEによると、シーンプログラムでマテリアル、カメラ、光の伝播、シミュレーション、コンポジットを定義できる。"
     },
     {
       "type": "repo",
