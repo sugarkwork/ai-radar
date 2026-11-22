@@ -1,5 +1,5 @@
 {
-  "count": 1270,
+  "count": 1271,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -8571,6 +8571,22 @@
       ],
       "fetched_at": "2026-11-15T03:25:24.169174+00:00",
       "path": "articles/2026-11-06-author-claude-solidworks.md"
+    },
+    {
+      "name": "Claudeは「夢」を見て記憶を直す。Anthropicがエージェント記憶の部品を公開、35万ファイルのwiki化で正答材料は13％から48％へ",
+      "genre": "article",
+      "url": "https://itpostjp.com/ai/anthropic-components-agent-memory-dreaming/",
+      "published": "2026-11-07",
+      "flags": [],
+      "type": "article",
+      "added": "2026-11-22",
+      "first_seen": "2026-11-22",
+      "risk_notes": "",
+      "sources": [
+        "https://x.com/STomoya_todo/status/2119100653012505018"
+      ],
+      "fetched_at": "2026-11-17T02:14:48.876952+00:00",
+      "path": "articles/2026-11-07-author-claude-anthropic-35-wiki-13-48.md"
     },
     {
       "name": "Coding Agents Copy Your Secrets to a Hidden File. Thousands Are on GitHub",

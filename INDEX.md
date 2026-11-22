@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1270 件 — リポジトリ 875, リンク集 120, 記事 208, モデル 53, プロンプト 14 / ⚑ 要確認 1020 件
+収録 1271 件 — リポジトリ 875, リンク集 120, 記事 209, モデル 53, プロンプト 14 / ⚑ 要確認 1020 件
 
 ## リポジトリ（875）
 
@@ -1445,9 +1445,9 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（208）
+## 記事（209）
 
-### 記事（145）
+### 記事（146）
 
 - **[$0のデジタル参謀長で月$80,000の契約候補を作ったというX投稿（動画付き）](articles/2026-10-22-bober_smart-0-80-000-x.md)** ⚑  @Bober_smart
 - **[1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md)** ⚑  @mukadeshinigami（mukade死神）
@@ -1484,6 +1484,7 @@
 - **[Claude Codeの利用量とAPI料金換算の個人報告](articles/2026-10-25-bernat-vadell-claude-code-api.md)** ⚑  Bernat Vadell
 - **[Claude Codeの補足情報と実行時の権限制御](articles/2026-03-22-michael-livshits-claude-code.md)** ⚑  Michael Livshits
 - **[ClaudeでSolidWorksの部品を作成したという投稿](articles/2026-11-06-author-claude-solidworks.md)** ⚑
+- **[Claudeは「夢」を見て記憶を直す。Anthropicがエージェント記憶の部品を公開、35万ファイルのwiki化で正答材料は13％から48％へ](articles/2026-11-07-author-claude-anthropic-35-wiki-13-48.md)**
 - **[Coding Agents Copy Your Secrets to a Hidden File. Thousands Are on GitHub](articles/2026-11-05-apiiro-coding-agents-copy-your-secrets-to-a-hidden-file.-thousands-are-on-github.md)** ⚑  Apiiro
 - **[Control Room](articles/2026-11-09-openai-control-room.md)** ⚑  OpenAI
 - **[Covert underperformance on safety research tasks](articles/2026-11-04-author-covert-underperformance-on-safety-research-tasks.md)** ⚑
