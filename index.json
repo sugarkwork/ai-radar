@@ -1,5 +1,5 @@
 {
-  "count": 1280,
+  "count": 1281,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -18745,6 +18745,37 @@
       "last_release_at": "2023-08-22",
       "path": "entries/link-asset/awesome-selfhosted-awesome-selfhosted.md",
       "summary": "自分のサーバーでホストできるフリーソフトウェアのネットワークサービスとWebアプリケーションを、分野別に探せる一覧です。READMEはHTML版を推奨し、Markdown版をlegacyとしています。出典: https://github.com/awesome-selfhosted/awesome-selfhosted"
+    },
+    {
+      "name": "Learning English",
+      "genre": "link-asset",
+      "url": "https://github.com/knowledgefxg/learning-english",
+      "repo": "knowledgefxg/learning-english",
+      "license": "unknown",
+      "stars": 5011,
+      "language": "unknown",
+      "created": "2025-02-22",
+      "updated": "2026-10-27",
+      "forks": 505,
+      "open_issues": 39,
+      "commits_30d": 7,
+      "commit_cadence": "weekly",
+      "commits_90d": 16,
+      "size_kb": 1623,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-22",
+      "first_seen": "2026-11-22",
+      "sources": [
+        "https://x.com/ruyi3699/status/2119133783496819012"
+      ],
+      "fetched_at": "2026-11-17T02:27:23.216585+00:00",
+      "path": "entries/link-asset/knowledgefxg-learning-english.md",
+      "summary": "英語学習向けのポッドキャスト、動画、読書教材、ゲーム、ウェブサイト、ツール、オンライン講座などを分野別に探せます。掲載項目と説明はREADME記載の内容です。"
     },
     {
       "name": "方舟像素字体 / Ark Pixel Font",
