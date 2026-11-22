@@ -1,5 +1,5 @@
 {
-  "count": 1260,
+  "count": 1261,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -11150,6 +11150,37 @@
       "last_release_at": "2026-11-11",
       "path": "entries/coding-agent/openinterpreter-openinterpreter.md",
       "summary": "低コストモデル向けのコーディングエージェント。READMEでは、複数のエージェントハーネスの切り替え、ACPクライアントからの起動、Codex exec protocolとの互換性、MCP・skills・hooks・permissions・AGENTS.mdのサポートを説明している。コマンドはmacOS・Linux・W"
+    },
+    {
+      "name": "i-have-adhd",
+      "genre": "coding-agent",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "repo": "ayghri/i-have-adhd",
+      "license": "MIT",
+      "stars": 61396,
+      "language": "Python",
+      "created": "2026-05-13",
+      "updated": "2026-10-19",
+      "forks": 3601,
+      "open_issues": 102,
+      "commits_30d": 0,
+      "commit_cadence": "monthly",
+      "commits_90d": 85,
+      "size_kb": 442,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "README本文には、動作に必要な依存関係や実行条件の詳細がありません。導入前にINSTALL.mdおよびAGENTS.mdの内容を確認してください。",
+      "type": "repo",
+      "added": "2026-11-22",
+      "first_seen": "2026-11-22",
+      "sources": [
+        "https://x.com/bkdgiffug/status/2119110128209432593"
+      ],
+      "fetched_at": "2026-11-16T23:11:07.763442+00:00",
+      "path": "entries/coding-agent/ayghri-i-have-adhd.md",
+      "summary": "コーディングアシスタントの回答を、次の行動を先に示し、複数手順を番号付きで提示する形式に整えるskill/pluginです。余談を抑え、具体的な次の一歩で終えるなどの回答ルールがREADMEに記載されています。"
     },
     {
       "repo": "emilkowalski/skills",
