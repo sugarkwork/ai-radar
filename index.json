@@ -1,5 +1,5 @@
 {
-  "count": 1344,
+  "count": 1345,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -30043,6 +30043,37 @@
       "last_release_at": "",
       "path": "entries/other/gokayfem-image-to-sculpt.md",
       "summary": "Coding-agent向けのskillとPythonツールキット。入力画像のマスク・深度・法線を使い、画像のシルエットや表面に合わせて3Dスカルプトを段階的に作成する。複数視点を登録・スクリーニングし、各視点のシルエットIoU、輪郭距離、法線角度、粗さ、入力画像の深度を個別に確認する。ビルド手順を記録し、Blende"
+    },
+    {
+      "name": "rea-toon",
+      "genre": "other",
+      "url": "https://github.com/JuneYaooo/rea-toon",
+      "repo": "JuneYaooo/rea-toon",
+      "license": "unknown",
+      "stars": 253,
+      "language": "Python",
+      "created": "2026-11-14",
+      "updated": "2026-11-17",
+      "forks": 45,
+      "open_issues": 0,
+      "commits_30d": 8,
+      "commit_cadence": "weekly",
+      "commits_90d": 8,
+      "size_kb": 15062,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEはライセンスを「Noncommercial」と表示していますが、API計測値はlicense unknownです。具体的なライセンス条件は未確認です。長編シリーズではトークン消費が多く、APIモデルは呼び出しごとに課金されるとREADMEにありますが、実際の費用は未確認です。 GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-22",
+      "first_seen": "2026-11-22",
+      "sources": [
+        "https://x.com/shenxiankk/status/2122508772186738901"
+      ],
+      "fetched_at": "2026-11-17T23:25:29.941429+00:00",
+      "path": "entries/other/juneyaooo-rea-toon.md",
+      "summary": "手元にある短編ドラマ動画を分析し、作品の構成や視聴者を引きつける要素をまとめたStudy、シーンや台詞を整理したScript、各ショットの画面・動き・台詞・音などを記したShot scriptを生成します。出力には閲覧用HTMLページと、エージェントが読めるVIDEO.md形式のデータが含まれます。READMEでは、ラ"
     },
     {
       "repo": "UnderleveledBuilder/awesome-social-media-skills",

@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1344 件 — リポジトリ 943, リンク集 120, 記事 214, モデル 53, プロンプト 14 / ⚑ 要確認 1084 件
+収録 1345 件 — リポジトリ 944, リンク集 120, 記事 214, モデル 53, プロンプト 14 / ⚑ 要確認 1085 件
 
-## リポジトリ（943）
+## リポジトリ（944）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（210）
+### その他（211）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -197,6 +197,7 @@
 | [Hishel](entries/other/karpetrosyan-hishel.md) ⚑ | 422 | 57 | 週次 | 14 | 2026-11-10 | 2026-11-17 | 2026-11-22 | BSD-3-Clause |
 | [ResumeForge](entries/other/magicapple123-resumeforge.md) ⚑ | 417 | 19 | 毎日 | 100+ | 2026-11-10 | 2026-11-11 | 2026-11-11 | Apache-2.0 |
 | [Image 2 Sculpt](entries/other/gokayfem-image-to-sculpt.md) ⚑ | 295 | 21 | 月次 | 2 | 2026-11-08 | 2026-11-16 | 2026-11-22 | MIT |
+| [rea-toon](entries/other/juneyaooo-rea-toon.md) ⚑ | 253 | 45 | 週次 | 8 | 2026-11-17 | 2026-11-17 | 2026-11-22 | unknown |
 | [Awesome Social Media Skills](entries/other/underleveledbuilder-awesome-social-media-skills.md) ⚑ | 252 | 40 | 毎日 | 33 | 2026-11-08 | 2026-11-10 | 2026-11-10 | CC0-1.0 |
 | [小浣熊阅读](entries/other/aminark-legado-ios.md) ⚑ | 232 | 66 | 毎日 | 22 | 2026-11-13 | 2026-11-16 | 2026-11-22 | GPL-3.0 |
 | [fuxi-pdf · 复习pdf](entries/other/stevensun1005-fuxi-pdf.md) ⚑ | 201 | 3 | 週次 | 12 | 2026-10-22 | 2026-11-11 | 2026-11-11 | unknown |
@@ -2602,6 +2603,7 @@
 - [Hishel](entries/other/karpetrosyan-hishel.md) — unverified / 一次資料で未確認: 有効性・実行条件。
 - [ResumeForge](entries/other/magicapple123-resumeforge.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Image 2 Sculpt](entries/other/gokayfem-image-to-sculpt.md) — unverified / README gives a typical case cost of about $2; actual cost may vary with calls and the per-case budget. A fal API key is required for masks, depth, normals, and generated views; the README also describes a front-only path using a cut-out PNG and user-provided views.
+- [rea-toon](entries/other/juneyaooo-rea-toon.md) — unverified / READMEはライセンスを「Noncommercial」と表示していますが、API計測値はlicense unknownです。具体的なライセンス条件は未確認です。長編シリーズではトークン消費が多く、APIモデルは呼び出しごとに課金されるとREADMEにありますが、実際の費用は未確認です。 GitHub APIでライセンスを確認できていません。
 - [Awesome Social Media Skills](entries/other/underleveledbuilder-awesome-social-media-skills.md) — unverified / 最新リリース、検索スキルの導入と動作、掲載ツールの実効性・安全性・個別の料金や利用条件は未確認。READMEによると、投稿や返信を行う一部のツールはアカウント認証を要し、Cookieをローカルに保存する場合がある。
 - [小浣熊阅读](entries/other/aminark-legado-ios.md) — unverified / 在线书源和内容由用户自行提供；README 提醒书源兼容性可能受复杂 JavaScript、登录、验证码、WebView 规则及来源网站变化影响。
 - [fuxi-pdf · 复习pdf](entries/other/stevensun1005-fuxi-pdf.md) — unverified / READMEはSkill指示と構築・検証コードをMITと記載する一方、同梱の授業デモ、派生PDF、プレビューはCC BY-NC-SA 4.0と明記。第三者授業素材はコードのMITライセンスに含まれない。 GitHub APIでライセンスを確認できていません。
