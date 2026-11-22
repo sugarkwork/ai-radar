@@ -1,5 +1,5 @@
 {
-  "count": 1284,
+  "count": 1285,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -12066,6 +12066,37 @@
       "last_release_at": "2026-11-16",
       "path": "entries/coding-agent/orchestratorinc-agent-orchestrator.md",
       "summary": "プロジェクトのメインエージェントに依頼すると、作業を分割し、担当ワーカーを個別のブランチとGit worktreeで起動する。ボードはセッション、PR、CI、レビューの状態をもとに並べ替える。"
+    },
+    {
+      "name": "中国专利.skill",
+      "genre": "coding-agent",
+      "url": "https://github.com/handsomestWei/patent-disclosure-skill",
+      "repo": "handsomestWei/patent-disclosure-skill",
+      "stars": 13534,
+      "forks": 1467,
+      "open_issues": 19,
+      "size_kb": 9030,
+      "language": "Python",
+      "created": "2026-04-07",
+      "updated": "2026-11-17",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 7,
+      "commits_90d": 55,
+      "commit_cadence": "weekly",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 依存関係。",
+      "type": "repo",
+      "added": "2026-11-22",
+      "first_seen": "2026-11-22",
+      "sources": [
+        "https://x.com/ruyi3699/status/2119149134762410467"
+      ],
+      "fetched_at": "2026-11-17T04:17:16.221098+00:00",
+      "path": "entries/coding-agent/handsomestwei-patent-disclosure-skill.md",
+      "summary": "READMEによると、複数の子スキルを通じて、特許交底書や出願書類の作成、特許の解説とObsidianへの整理、特許検索・地図作成、審査応答の補助などを行う。"
     },
     {
       "name": "improve",

@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1284 件 — リポジトリ 888, リンク集 120, 記事 209, モデル 53, プロンプト 14 / ⚑ 要確認 1031 件
+収録 1285 件 — リポジトリ 889, リンク集 120, 記事 209, モデル 53, プロンプト 14 / ⚑ 要確認 1032 件
 
-## リポジトリ（888）
+## リポジトリ（889）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -200,7 +200,7 @@
 | [Pay Small Check](entries/other/ahmardchain-pay-small-check.md) ⚑ | 1 | 0 | 毎日 | 32 | 2026-11-07 | 2026-11-16 | 2026-11-22 | MIT |
 | [LapDraw](entries/other/sachinyadavaug20-lapdraw.md) ⚑ | 0 | 0 | 毎日 | 22 | 2026-11-07 | 2026-11-13 | 2026-11-13 | MIT |
 
-### コーディングエージェント（137）
+### コーディングエージェント（138）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -246,6 +246,7 @@
 | [Claudian](entries/coding-agent/yishentu-claudian.md) ⚑ | 16,007 | 1,096 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
 | [Garden Skills](entries/coding-agent/conardli-garden-skills.md) ⚑ | 15,296 | 1,740 | 毎日 | 20 | 2026-11-14 | 2026-11-16 | 2026-11-22 | MIT |
 | [Agent Orchestrator](entries/coding-agent/orchestratorinc-agent-orchestrator.md) ⚑ | 14,816 | 2,034 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [中国专利.skill](entries/coding-agent/handsomestwei-patent-disclosure-skill.md) ⚑ | 13,534 | 1,467 | 週次 | 7 | 2026-11-17 | 2026-11-17 | 2026-11-22 | MIT |
 | [improve](entries/coding-agent/shadcn-improve.md) ⚑ | 11,998 | 487 | 停滞 | 0 | 2026-09-12 | 2026-11-16 | 2026-11-22 | MIT |
 | [UI Skills](entries/coding-agent/ibelick-ui-skills.md) ⚑ | 11,125 | 534 | 毎日 | 46 | 2026-11-14 | 2026-11-16 | 2026-11-22 | MIT |
 | [Dashi PPT Skill](entries/coding-agent/chuspeeism-dashi-ppt-skill.md) ⚑ | 10,750 | 916 | 月次 | 2 | 2026-11-06 | 2026-11-16 | 2026-11-22 | AGPL-3.0 |
@@ -2051,6 +2052,7 @@
 - [Claudian](entries/coding-agent/yishentu-claudian.md) — unverified / 一次資料で未確認: 依存関係。
 - [Garden Skills](entries/coding-agent/conardli-garden-skills.md) — unverified / レビューではインストールや生成を実行しておらず、出力品質、知識検索によるコンテキスト削減量、エージェント間の動作差、各スキルの追加依存と外部サービスの料金・素材の利用条件は未確認。GitHubの /releases/latest は motion-showreel v0.1.0 を表示したが、公開一覧には同スキルの v0.2.0 もあるため、リポジトリ全体の最新版と公開日時は記載していない。
 - [Agent Orchestrator](entries/coding-agent/orchestratorinc-agent-orchestrator.md) — unverified / 最新リリースのタグと公開日時、クラウドと外部エージェントの料金は未確認。並列実行の性能、CIやレビュー指摘の差し戻し、モバイル通知と応答は公式文書の記載に基づき、実機では未検証。
+- [中国专利.skill](entries/coding-agent/handsomestwei-patent-disclosure-skill.md) — unverified / 一次資料で未確認: 依存関係。
 - [improve](entries/coding-agent/shadcn-improve.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [UI Skills](entries/coding-agent/ibelick-ui-skills.md) — unverified / ['create-canvasの動作、生成結果の品質、ブラウザー互換性や性能は未実測。対応フレームワークの範囲と公開MCPの料金・利用上限は未確認。最新リリースのタグはGitHubで確認したが、公開日時の年とタイムゾーンは確認できていない。']
 - [Dashi PPT Skill](entries/coding-agent/chuspeeism-dashi-ppt-skill.md) — unverified / READMEの説明に基づく機能・プラットフォーム情報で、独立した動作確認ではありません。導出PPTXエンジンは専有コンポーネントと説明されています。
