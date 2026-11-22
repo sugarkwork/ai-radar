@@ -1,5 +1,5 @@
 {
-  "count": 1267,
+  "count": 1268,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -37533,6 +37533,37 @@
       "fetched_at": "2026-11-16T23:13:20.717649+00:00",
       "path": "entries/video-gen/coldsilence507-householdermotionembedding-release.md",
       "summary": "参照動画からRAFTで光学フローを推定するか、事前計算したフロー場を入力して、FlowHouseholder変換で時間的に相関した初期ノイズを生成し、LoRAを適用したCogVideoX-5B-I2Vで動きに沿う動画を生成します。READMEの出力仕様は49フレーム、480×720、8 fpsです。"
+    },
+    {
+      "name": "remotion-ffmpeg-skill",
+      "genre": "video-gen",
+      "url": "https://github.com/kajisho5/remotion-ffmpeg-skill",
+      "repo": "kajisho5/remotion-ffmpeg-skill",
+      "license": "MIT",
+      "stars": 8,
+      "language": "Python",
+      "created": "2026-10-24",
+      "updated": "2026-11-14",
+      "forks": 0,
+      "open_issues": 1,
+      "commits_30d": 77,
+      "commit_cadence": "daily",
+      "commits_90d": 77,
+      "size_kb": 9223,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 有効性。",
+      "type": "repo",
+      "added": "2026-11-22",
+      "first_seen": "2026-11-22",
+      "sources": [
+        "https://x.com/Manojkumar2257/status/2119092488258674771"
+      ],
+      "fetched_at": "2026-11-17T01:12:21.940383+00:00",
+      "path": "entries/video-gen/kajisho5-remotion-ffmpeg-skill.md",
+      "summary": "READMEによると、実映像の長さ・fps・サイズ、無音区間、シーン切り替わり、音声ピークなどをffmpeg-skillで測定し、Remotionの既成Compositionで字幕、ジャンプカット、音声ピーク連動グラフィック、章カード、ハイライト、ビートモンタージュ、カラオケ字幕などを作成できます。レンダー後はフレーム"
     },
     {
       "type": "repo",

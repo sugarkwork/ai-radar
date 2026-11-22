@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1267 件 — リポジトリ 872, リンク集 120, 記事 208, モデル 53, プロンプト 14 / ⚑ 要確認 1018 件
+収録 1268 件 — リポジトリ 873, リンク集 120, 記事 208, モデル 53, プロンプト 14 / ⚑ 要確認 1019 件
 
-## リポジトリ（872）
+## リポジトリ（873）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -460,7 +460,7 @@
 | [AI SDK](entries/agent-framework/anil-matcha-ai.md) ⚑ | 19 | 4 | 停滞 | 0 | 2026-08-06 | 2026-11-16 | 2026-11-22 | unknown |
 | [web-api-skills](entries/agent-framework/oxylabs-web-api-skills.md) | 13 | 1 | 週次 | 14 | 2026-11-11 | 2026-11-16 | 2026-11-22 | MIT |
 
-### 動画生成パイプライン（110）
+### 動画生成パイプライン（111）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -573,6 +573,7 @@
 | [Luo-Yihong/VA-TDM](entries/video-gen/luo-yihong-va-tdm.md) ⚑ | 25 | 2 | 月次 | 1 | 2026-11-04 | 2026-11-09 | 2026-11-10 | unknown |
 | [utillayer/youtube-agent-skill](entries/video-gen/utillayer-youtube-agent-skill.md) ⚑ | 14 | 2 | 週次 | 16 | 2026-10-29 | 2026-11-09 | 2026-11-10 | MIT |
 | [Householder Motion Embedding (NoiseControl)](entries/video-gen/coldsilence507-householdermotionembedding-release.md) ⚑ | 10 | 1 | 週次 | 14 | 2026-11-06 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [remotion-ffmpeg-skill](entries/video-gen/kajisho5-remotion-ffmpeg-skill.md) ⚑ | 8 | 0 | 毎日 | 77 | 2026-11-14 | 2026-11-17 | 2026-11-22 | MIT |
 | [BennyDaBall930/comfyui_hyperflow_int8_nodes](entries/video-gen/bennydaball930-comfyui_hyperflow_int8_nodes.md) ⚑ | 3 | 0 | 週次 | 10 | 2026-11-09 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
 
 ### 3D・モーション（77）
@@ -2683,6 +2684,7 @@
 - [Luo-Yihong/VA-TDM](entries/video-gen/luo-yihong-va-tdm.md) — unverified / 4NFEのH3でFast-H3に61.33%の人間選好等は論文/プロジェクトの測定。完成済み汎用推論モデルの配布と混同しない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [utillayer/youtube-agent-skill](entries/video-gen/utillayer-youtube-agent-skill.md) — unverified / 原チェックはファイル構成を確認した段階で機能実行なし。対象動画の権利・プラットフォームの規約と情報取得の現行可否は別。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Householder Motion Embedding (NoiseControl)](entries/video-gen/coldsilence507-householdermotionembedding-release.md) — unverified / 一次資料で未確認: 技術背景・有効性・実行条件。
+- [remotion-ffmpeg-skill](entries/video-gen/kajisho5-remotion-ffmpeg-skill.md) — unverified / 一次資料で未確認: 有効性。
 - [BennyDaBall930/comfyui_hyperflow_int8_nodes](entries/video-gen/bennydaball930-comfyui_hyperflow_int8_nodes.md) — unverified / コードと重みは別ライセンス。速度の比較は特定RTX5090・ステップ/解像度条件で、本調査は導入していない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [AIアニメ動画を「作って終わり」にしない。0→1で作品を作り、最初の売上につなげる完全ロードマップ](articles/2026-10-23-8fa0ce29-ai-0-1-ac6dbbe07b.md) — unverified / 生成の失敗率が下がるという著者の主張について、公開部分で比較データは確認できなかった。有料部分と購入特典の内容、参照映像や画像の転載・生成入力への利用条件は未確認。
 - [AIインフルエンサー量産術：Higgsfield AI Influencer＋Genjutsuで作る架空キャラ](articles/2026-10-11-y0urdumble-ai-higgsfield-ai-influencer-genjutsu.md) — unverified / 記事本文は取得済み（X Article 2109318233866006528、公開 2026-10-11 17:55 UTC）。未検証：収益・フォロワー・トークン手数料（2週間で約$235K、5日で$10K、276Kフォロワー、時価総額$12.3M）は著者の推計で第三者検証がない。JEANPHILのFDVは2026-11-08時点で約$4.08Mまで下落。Biscuit Johnsonの数値は一次確認できず（TikTokは自動取得をブロック）。料金も変動しており、記事の「Starter $15/月」「無料5回」は現行公式表示（年払い$19/月、無料10回）と一致しない。添付mp4はスポンジ・ボブの meme クリップ（1.44秒）で、記事の手順画面の収録ではない。内容はミームコイン前提の収益モデルを含み、投資助言ではないが金銭的インセンティブのある導線である点に注意。
