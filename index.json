@@ -1,5 +1,5 @@
 {
-  "count": 1355,
+  "count": 1356,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -7228,6 +7228,38 @@
       "last_release_at": "2026-11-15",
       "path": "entries/agent-framework/precygtrucqui1981-blender-ai-copilot-lab.md",
       "summary": "Blender内の拡張として、managerが依頼を受け入れ条件付きのタスクに分解し、workerが27種類の監督付きシーン操作ツールで実行、reviewerが承認または具体的な指摘を返す。タスクボードで進捗・試行・指摘を確認でき、ブロックされたタスクには修正を1回試行する。各変更には名前付きUndo手順があり、操作ご"
+    },
+    {
+      "name": "Nexus",
+      "genre": "agent-framework",
+      "url": "https://github.com/ysunyang4/Nexus",
+      "repo": "ysunyang4/Nexus",
+      "license": "AGPL-3.0",
+      "stars": 375,
+      "language": "TypeScript",
+      "created": "2026-11-13",
+      "updated": "2026-11-15",
+      "forks": 65,
+      "open_issues": 2,
+      "commits_30d": 10,
+      "commit_cadence": "weekly",
+      "commits_90d": 10,
+      "size_kb": 14758,
+      "archived": false,
+      "flags": [
+        "low-quality",
+        "unverified"
+      ],
+      "risk_notes": "READMEは「Zero Hallucination Guarantee」といった強い保証表現を含みますが、提示された資料内にその保証を裏付ける独立した根拠はありません。 READMEはサンドボックス、トークン保護、クラッシュ復旧などのセキュリティ・信頼性機能を主張していますが、この資料だけでは実装や効果を独立に確認できません。リリースページの配布物やチェックサムの有無もREADMEでは確認していません。",
+      "type": "repo",
+      "added": "2026-11-22",
+      "first_seen": "2026-11-22",
+      "sources": [
+        "https://x.com/shenxiankk/status/2122521103381745949"
+      ],
+      "fetched_at": "2026-11-18T00:37:13.372068+00:00",
+      "path": "entries/agent-framework/ysunyang4-nexus.md",
+      "summary": "READMEによると、NexusはChatGPT、DeepSeekなどのAIアシスタントとローカルワークステーションをMCP経由で接続するデスクトップアプリ、サーバー、実行デーモンからなる構成です。ローカルファイル操作、コマンド実行、Git、ブラウザー操作、Windowsのコンピューター操作、LSP連携などの機能を掲げ"
     },
     {
       "repo": "antfu/skills-pack",

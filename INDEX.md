@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1355 件 — リポジトリ 953, リンク集 120, 記事 215, モデル 53, プロンプト 14 / ⚑ 要確認 1095 件
+収録 1356 件 — リポジトリ 954, リンク集 120, 記事 215, モデル 53, プロンプト 14 / ⚑ 要確認 1096 件
 
-## リポジトリ（953）
+## リポジトリ（954）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -377,7 +377,7 @@
 | [Leash](entries/coding-agent/cmaintz-leash.md) ⚑ | 0 | 0 | 毎日 | 20 | 2026-11-15 | 2026-11-16 |  | MIT |
 | [grok-x](entries/coding-agent/stat-guy-grok-x.md) ⚑ | 0 | 0 | 停滞 | 0 | 2026-03-19 | 2026-11-16 |  | unknown |
 
-### エージェント基盤・スキル集（124）
+### エージェント基盤・スキル集（125）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -487,6 +487,7 @@
 | [ccteam](entries/agent-framework/firstintent-ccteam.md) ⚑ | 649 | 29 | 毎日 | 37 | 2026-11-14 | 2026-11-16 |  | MIT |
 | [Hermes Gadget](entries/agent-framework/adolanium-hermes-gadget-sdk.md) ⚑ | 548 | 97 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 |  | MIT |
 | [blender-ai-copilot-lab](entries/agent-framework/precygtrucqui1981-blender-ai-copilot-lab.md) ⚑ | 507 | 13 | 週次 | 5 | 2026-11-15 | 2026-11-16 |  | MIT |
+| [Nexus](entries/agent-framework/ysunyang4-nexus.md) ⚑ | 375 | 65 | 週次 | 10 | 2026-11-15 | 2026-11-18 | 2026-11-22 | AGPL-3.0 |
 | [@antfu/skills（npm で配るスキル詰め合わせ）](entries/agent-framework/antfu-skills-pack.md) | 342 | 5 | 週次 | 6 | 2026-10-30 | 2026-11-16 |  | MIT |
 | [creator-generalist](entries/agent-framework/codepawl-creator-generalist.md) ⚑ | 216 | 17 | 毎日 | 56 | 2026-11-16 | 2026-11-16 |  | MIT |
 | [neo4jev — Graph Navigation Demo (TypeSafe Jev + Neo4j)](entries/agent-framework/jexp-neo4jev.md) ⚑ | 189 | 27 | 月次 | 0 | 2026-09-18 | 2026-11-16 |  | MIT |
@@ -862,7 +863,7 @@
 | [Anthropic's Prompt Engineering Interactive Tutorial](entries/prompt-design/anthropics-prompt-eng-interactive-tutorial.md) ⚑ | 39,368 | 4,362 | 停滞 | 0 | 2026-08-28 | 2026-11-15 |  | unknown |
 | [Huashu Design](entries/prompt-design/alchaincyf-huashu-design.md) ⚑ | 29,080 | 3,134 | 毎日 | 31 | 2026-11-10 | 2026-11-10 |  | MIT |
 | [Anthropic courses](entries/prompt-design/anthropics-courses.md) ⚑ | 23,011 | 2,558 | 停滞 | 0 | 2026-08-28 | 2026-11-12 |  | unknown |
-| [Jailbreaks](entries/prompt-design/togg53192-cmd-jailbreaks.md) ⚑ | 18,071 | 3,173 | 毎日 | 90 | 2026-11-16 | 2026-11-18 | 2026-11-22 | unknown |
+| [Jailbreaks](entries/prompt-design/togg53192-cmd-jailbreaks.md) ⚑ | 18,071 | 3,173 | 毎日 | 90 | 2026-11-16 | 2026-11-18 |  | unknown |
 | [prompt-master](entries/prompt-design/nidhinjs-prompt-master.md) ⚑ | 15,766 | 1,819 | 週次 | 7 | 2026-10-22 | 2026-11-09 |  | MIT |
 | [scroll-world](entries/prompt-design/oso95-scroll-world.md) ⚑ | 10,920 | 1,190 | 停滞 | 0 | 2026-07-29 | 2026-11-10 |  | MIT |
 | [Lieflat Less AI Tone](entries/prompt-design/larashero3-dotcom-lieflat-less-ai-tone.md) ⚑ | 7,586 | 535 | 週次 | 14 | 2026-11-11 | 2026-11-13 |  | unknown |
@@ -1950,6 +1951,7 @@
 - [ccteam](entries/agent-framework/firstintent-ccteam.md) — unverified / README excerpt does not specify the complete dependency list or installation requirements.
 - [Hermes Gadget](entries/agent-framework/adolanium-hermes-gadget-sdk.md) — unverified / 実機ポートは、対象リビジョンの完全な物理検証レポートが記録されるまで実験的とREADMEに記載。ボード選定時は検証表の確認が必要。
 - [blender-ai-copilot-lab](entries/agent-framework/precygtrucqui1981-blender-ai-copilot-lab.md) — unverified / README記載の機能と対象環境は作者の説明に基づく。独立した動作確認は行っていない。
+- [Nexus](entries/agent-framework/ysunyang4-nexus.md) — low-quality, unverified / READMEは「Zero Hallucination Guarantee」といった強い保証表現を含みますが、提示された資料内にその保証を裏付ける独立した根拠はありません。 READMEはサンドボックス、トークン保護、クラッシュ復旧などのセキュリティ・信頼性機能を主張していますが、この資料だけでは実装や効果を独立に確認できません。リリースページの配布物やチェックサムの有無もREADMEでは確認していません。
 - [creator-generalist](entries/agent-framework/codepawl-creator-generalist.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [neo4jev — Graph Navigation Demo (TypeSafe Jev + Neo4j)](entries/agent-framework/jexp-neo4jev.md) — unverified / TypeSafe APIの利用にはTYPESAFE_API_KEYが必要。READMEによると、既定のベクトル埋め込みは決定論的なハッシュ由来のプレースホルダーで、意味的な検索にはならない。
 - [AgentFlux](entries/agent-framework/davemessew-agentflux.md) — unverified / READMEによるとログイン機能はなく、単一ユーザー向けです。共有または公開アクセスにはアクセス制御層と適切なネットワーク設定が必要です。
