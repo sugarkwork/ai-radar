@@ -1,5 +1,5 @@
 {
-  "count": 1309,
+  "count": 1310,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -14917,6 +14917,37 @@
       "last_release_at": "2026-10-02",
       "path": "entries/coding-agent/frankxai-awesome-motion-design-agent-skills.md",
       "summary": "READMEによると、モーションデザイン、シネマティックなサイト演出、Remotionによる動画制作、生成メディアのルーティングと仕上げ、レビュー・キャプチャ・モーションQA向けの5つのSKILL.mdワークフローを提供します。GSAP、Motion、Remotion、Rive、Lottie、3Dツールのカタログも含み"
+    },
+    {
+      "name": "Pixelbolt",
+      "genre": "coding-agent",
+      "url": "https://github.com/skulitom/Pixelbolt",
+      "repo": "skulitom/Pixelbolt",
+      "license": "MIT",
+      "stars": 113,
+      "language": "JavaScript",
+      "created": "2026-09-27",
+      "updated": "2026-11-17",
+      "forks": 9,
+      "open_issues": 0,
+      "commits_30d": 100,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 32685,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 有効性・依存関係・実行条件。",
+      "type": "repo",
+      "added": "2026-11-22",
+      "first_seen": "2026-11-22",
+      "sources": [
+        "https://x.com/dextune/status/2119188149075431723"
+      ],
+      "fetched_at": "2026-11-17T09:10:40.402434+00:00",
+      "path": "entries/coding-agent/skulitom-pixelbolt.md",
+      "summary": "編集可能なJSONレシピから、ピクセルアートのスプライト、タイル、アイコン、エフェクト、短いアニメーションを生成できます。PNGスプライトシート、テクスチャアトラス、APNG、GIF、動画編集ソフト用フレームとして出力でき、CLIまたはローカルMCPサーバー経由でエージェントから操作できます。ローカルブラウザスタジオで"
     },
     {
       "name": "Xing4.0-29B-A4B",

@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1309 件 — リポジトリ 912, リンク集 120, 記事 210, モデル 53, プロンプト 14 / ⚑ 要確認 1054 件
+収録 1310 件 — リポジトリ 913, リンク集 120, 記事 210, モデル 53, プロンプト 14 / ⚑ 要確認 1055 件
 
-## リポジトリ（912）
+## リポジトリ（913）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -210,7 +210,7 @@
 | [Pay Small Check](entries/other/ahmardchain-pay-small-check.md) ⚑ | 1 | 0 | 毎日 | 32 | 2026-11-07 | 2026-11-16 | 2026-11-22 | MIT |
 | [LapDraw](entries/other/sachinyadavaug20-lapdraw.md) ⚑ | 0 | 0 | 毎日 | 22 | 2026-11-07 | 2026-11-13 | 2026-11-13 | MIT |
 
-### コーディングエージェント（138）
+### コーディングエージェント（139）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -336,6 +336,7 @@
 | [astro-conversion-kit](entries/coding-agent/ethanplusai-astro-conversion-kit.md) ⚑ | 132 | 25 | 毎日 | 100+ | 2026-10-31 | 2026-11-16 | 2026-11-22 | MIT |
 | [Motion AI Kit](entries/coding-agent/motiondivision-ai-kit.md) ⚑ | 119 | 17 | 週次 | 8 | 2026-11-04 | 2026-11-16 | 2026-11-22 | unknown |
 | [Awesome Motion Design Agent Skills](entries/coding-agent/frankxai-awesome-motion-design-agent-skills.md) ⚑ | 114 | 37 | 週次 | 9 | 2026-11-12 | 2026-11-16 | 2026-11-22 | CC0-1.0 |
+| [Pixelbolt](entries/coding-agent/skulitom-pixelbolt.md) ⚑ | 113 | 9 | 毎日 | 100+ | 2026-11-17 | 2026-11-17 | 2026-11-22 | MIT |
 | [Xing4.0-29B-A4B](entries/coding-agent/xingchen-agi-xing4.0-29b-a4b.md) ⚑ | 109 | 10 | 週次 | 5 | 2026-11-10 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
 | [Klik Motion-Graphics System](entries/coding-agent/t3knobox-klik-anim-skill-creation.md) ⚑ | 97 | 19 | 停滞 | 0 | 2026-08-06 | 2026-11-16 | 2026-11-22 | unknown |
 | [jev-code](entries/coding-agent/francoischastel-jev-code.md) ⚑ | 59 | 9 | 月次 | 3 | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
@@ -2158,6 +2159,7 @@
 - [astro-conversion-kit](entries/coding-agent/ethanplusai-astro-conversion-kit.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Motion AI Kit](entries/coding-agent/motiondivision-ai-kit.md) — unverified / MotionScore監査、Motion+資料およびソースコードへのアクセスはMotion+会員向け。READMEは料金額を示していない。 GitHub APIでライセンスを確認できていません。
 - [Awesome Motion Design Agent Skills](entries/coding-agent/frankxai-awesome-motion-design-agent-skills.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
+- [Pixelbolt](entries/coding-agent/skulitom-pixelbolt.md) — unverified / 一次資料で未確認: 有効性・依存関係・実行条件。
 - [Xing4.0-29B-A4B](entries/coding-agent/xingchen-agi-xing4.0-29b-a4b.md) — unverified / READMEから最低限必要なハードウェア構成、依存パッケージのバージョン、利用料金は確認できない。評価値はREADME記載の作者側の報告で、独立実測ではない。
 - [Klik Motion-Graphics System](entries/coding-agent/t3knobox-klik-anim-skill-creation.md) — unverified / ライセンスはGitHub API上で不明。利用許諾の条件は確認できていない。 GitHub APIでライセンスを確認できていません。
 - [jev-code](entries/coding-agent/francoischastel-jev-code.md) — unverified / 分類結果の品質・較正性能はこのREADMEでは独立検証されていない。利用にはNode.js 20以上と、選択したホストのAPIキーが必要。ホストごとの料金や費用はREADMEに記載なし。
