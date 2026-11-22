@@ -1,5 +1,5 @@
 {
-  "count": 1292,
+  "count": 1293,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -25169,6 +25169,37 @@
       "fetched_at": "2026-11-10T10:07:12+00:00",
       "path": "entries/other/usagi-org-ai-goofish-monitor.md",
       "summary": "キーワード、価格帯、送料無料、出品時期、地域で絞り込んで定期監視し、AIが推奨した商品を企業微信、Bark、Telegram、Webhookなどへ通知できる。タスク、実行ログ、結果はWeb UIで確認できる。"
+    },
+    {
+      "name": "Yoga",
+      "genre": "other",
+      "url": "https://github.com/react/yoga",
+      "repo": "react/yoga",
+      "license": "MIT",
+      "stars": 18954,
+      "language": "C++",
+      "created": "2014-04-07",
+      "updated": "2026-11-13",
+      "forks": 1586,
+      "open_issues": 190,
+      "commits_30d": 16,
+      "commit_cadence": "weekly",
+      "commits_90d": 34,
+      "size_kb": 27581,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 依存関係・実行条件。",
+      "type": "repo",
+      "added": "2026-11-22",
+      "first_seen": "2026-11-22",
+      "sources": [
+        "https://x.com/RealMarvelX/status/2119161121387020570"
+      ],
+      "fetched_at": "2026-11-17T06:25:05.975404+00:00",
+      "path": "entries/other/react-yoga.md",
+      "summary": "複数言語向けバインディングを備えた、組み込み可能なflexboxレイアウトエンジン。READMEは「Yoga is an embeddable and performant flexbox layout engine with bindings for multiple languages.」と説明している。"
     },
     {
       "repo": "karpathy/micrograd",

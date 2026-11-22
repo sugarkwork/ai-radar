@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1292 件 — リポジトリ 896, リンク集 120, 記事 209, モデル 53, プロンプト 14 / ⚑ 要確認 1038 件
+収録 1293 件 — リポジトリ 897, リンク集 120, 記事 209, モデル 53, プロンプト 14 / ⚑ 要確認 1039 件
 
-## リポジトリ（896）
+## リポジトリ（897）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（190）
+### その他（191）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -67,6 +67,7 @@
 | [SAM 2](entries/other/facebookresearch-sam2.md) | 20,166 | 2,596 | 停滞 | 0 | 2026-05-30 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
 | [ActivityWatch](entries/other/activitywatch-activitywatch.md) ⚑ | 19,655 | 1,079 | 週次 | 18 | 2026-11-15 | 2026-11-16 | 2026-11-22 | MPL-2.0 |
 | [ai-goofish-monitor](entries/other/usagi-org-ai-goofish-monitor.md) ⚑ | 19,101 | 3,116 | 月次 | 0 | 2026-10-10 | 2026-11-10 | 2026-11-10 | MIT |
+| [Yoga](entries/other/react-yoga.md) ⚑ | 18,954 | 1,586 | 週次 | 16 | 2026-11-13 | 2026-11-17 | 2026-11-22 | MIT |
 | [micrograd](entries/other/karpathy-micrograd.md) ⚑ | 18,805 | 2,993 | 停滞 | 0 | 2026-08-03 | 2026-11-10 | 2026-11-10 | MIT |
 | [theHarvester](entries/other/laramies-theharvester.md) ⚑ | 18,318 | 2,736 | 毎日 | 63 | 2026-11-13 | 2026-11-13 | 2026-11-14 | GPL-2.0 |
 | [MuJoCo](entries/other/google-deepmind-mujoco.md) ⚑ | 18,174 | 2,206 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
@@ -2407,6 +2408,7 @@
 - [res-downloader](entries/other/putyy-res-downloader.md) — unverified / README says setup requires allowing certificate installation and network access. It also notes that the system proxy may need to be turned off manually after closing the app.
 - [ActivityWatch](entries/other/activitywatch-activitywatch.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [ai-goofish-monitor](entries/other/usagi-org-ai-goofish-monitor.md) — unverified / 判定精度、通知遅延、現行の闲鱼環境での動作、モデルAPIの実利用料金、最新リリースの公開日時は未確認。プラットフォームの利用条件への適合性は利用形態に依存する。
+- [Yoga](entries/other/react-yoga.md) — unverified / 一次資料で未確認: 依存関係・実行条件。
 - [micrograd](entries/other/karpathy-micrograd.md) — unverified / 勾配の一致、分類デモの再現性、実行性能、Python バージョンごとの動作は独立実測していない。GitHub の公開 Releases 一覧にはリリースが表示されていないため、最新リリースの版と日時は未記載。
 - [theHarvester](entries/other/laramies-theharvester.md) — unverified / 対象の所有または明示的なテスト許可が必要。選択した提供元には対象文字列が送られる。P1のDNS照会とP2の対象への直接接続は、選択した場合に実行される。Python 3.14とuvが必要。
 - [MuJoCo](entries/other/google-deepmind-mujoco.md) — unverified / READMEの取得内容がライセンス節の途中で途切れているため、ライセンス本文の条件はこの資料から確認できない。
