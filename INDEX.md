@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1304 件 — リポジトリ 907, リンク集 120, 記事 210, モデル 53, プロンプト 14 / ⚑ 要確認 1050 件
+収録 1305 件 — リポジトリ 908, リンク集 120, 記事 210, モデル 53, プロンプト 14 / ⚑ 要確認 1051 件
 
-## リポジトリ（907）
+## リポジトリ（908）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -679,7 +679,7 @@
 | [3dmodel](entries/3d-motion/fletcherholt-3dmodel-skill.md) ⚑ | 7 | 0 | 停滞 | 0 | 2026-06-16 | 2026-11-16 | 2026-11-22 | unknown |
 | [Lida-V/LidaAngelToon](entries/3d-motion/lida-v-lidaangeltoon.md) ⚑ | 7 | 0 | 月次 | 0 | 2026-10-17 | 2026-11-16 | 2026-11-22 | NOASSERTION |
 
-### 音声・TTS（42）
+### 音声・TTS（43）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -715,6 +715,7 @@
 | [Stable Audio Tools](entries/tts-audio/stability-ai-stable-audio-tools.md) | 3,904 | 490 | 停滞 | 0 | 2026-11-01 | 2026-11-09 | 2026-11-10 | MIT |
 | [Essentia](entries/tts-audio/mtg-essentia.md) | 3,801 | 644 | 週次 | 15 | 2026-11-05 | 2026-11-09 | 2026-11-10 | AGPL-3.0 |
 | [stable-ts](entries/tts-audio/jianfch-stable-ts.md) | 2,282 | 248 | 停滞 | 0 | 2026-05-30 | 2026-11-09 | 2026-11-10 | MIT |
+| [Qwen2-Audio](entries/tts-audio/qwenlm-qwen2-audio.md) ⚑ | 2,104 | 174 | 停滞 | 0 | 2025-04-21 | 2026-11-17 | 2026-11-22 | unknown |
 | [知了 Cicada](entries/tts-audio/wquguru-cicada.md) ⚑ | 2,104 | 366 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | Apache-2.0 |
 | [Irodori-TTS](entries/tts-audio/aratako-irodori-tts.md) ⚑ | 1,586 | 188 | 週次 | 18 | 2026-11-09 | 2026-11-11 | 2026-11-11 | MIT |
 | [ElevenLabs Skills](entries/tts-audio/elevenlabs-skills.md) ⚑ | 547 | 94 | 週次 | 13 | 2026-11-04 | 2026-11-10 | 2026-11-10 | MIT |
@@ -2655,6 +2656,7 @@
 - [DeepFilterNet](entries/tts-audio/rikorose-deepfilternet.md) — unverified / GitHub APIのlicense値はunknown。READMEからライセンスを確認できない。CLIバイナリは48 kHzのWAVのみ対応と記載。 GitHub APIでライセンスを確認できていません。
 - [umlx5h/LLPlayer](entries/tts-audio/umlx5h-llplayer.md) — unverified / Beta版で設定互換性が変わる可能性。ASR/OCRはローカルだが翻訳はエンジンによってクラウド送信・API費用が生じる。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [earshot](entries/tts-audio/leonxlnx-earshot.md) — unverified / 実行と独立評価は未実施。作者評価の結果が他の素材や編集工程に一般化するか、発見投稿の動画で効果音のタイミングが改善したか、最新版の正確な公開時刻は未確認。
+- [Qwen2-Audio](entries/tts-audio/qwenlm-qwen2-audio.md) — unverified / READMEから依存関係、実行条件、ライセンスの詳細は確認できません。 GitHub APIでライセンスを確認できていません。
 - [知了 Cicada](entries/tts-audio/wquguru-cicada.md) — unverified / 公開資料の確認のみ。認識・翻訳精度、遅延、話者識別、共有時の機密情報検出、実際の外部送信先は未検証。Lingの現行料金と無料枠の適用条件は提供元で未確認。
 - [Irodori-TTS](entries/tts-audio/aratako-irodori-tts.md) — unverified / READMEは、単一の長時間録音を使う形式は評価されておらず、複数の短い同一話者クリップで測定した結果と異なる場合があると記載している。必要なGPU・VRAMなどの具体的な実行条件は、提示されたREADME部分から確認できない。
 - [ElevenLabs Skills](entries/tts-audio/elevenlabs-skills.md) — unverified / 最新リリースのタグと公開日時は確認できなかった。スキルの起動、生成音の品質・所要時間、個別API機能の課金条件と生成物の商用利用条件は未検証。

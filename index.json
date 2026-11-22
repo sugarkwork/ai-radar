@@ -1,5 +1,5 @@
 {
-  "count": 1304,
+  "count": 1305,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -34046,6 +34046,37 @@
       "fetched_at": "2026-11-09T21:43:08Z",
       "path": "entries/tts-audio/jianfch-stable-ts.md",
       "summary": "Whisper 系モデルで文字起こしし、単語単位のタイムスタンプを付与（cross-attention + dynamic time warping）"
+    },
+    {
+      "name": "Qwen2-Audio",
+      "genre": "tts-audio",
+      "url": "https://github.com/QwenLM/Qwen2-Audio",
+      "repo": "QwenLM/Qwen2-Audio",
+      "license": "unknown",
+      "stars": 2104,
+      "language": "Python",
+      "created": "2024-06-24",
+      "updated": "2025-04-21",
+      "forks": 174,
+      "open_issues": 116,
+      "commits_30d": 0,
+      "commit_cadence": "stale",
+      "commits_90d": 0,
+      "size_kb": 2172,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEから依存関係、実行条件、ライセンスの詳細は確認できません。 GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-22",
+      "first_seen": "2026-11-22",
+      "sources": [
+        "https://x.com/DivyanshT91162/status/2119134534134600107"
+      ],
+      "fetched_at": "2026-11-17T07:18:15.677192+00:00",
+      "path": "entries/tts-audio/qwenlm-qwen2-audio.md",
+      "summary": "音声入力を受け取り、音声分析または音声指示に対するテキスト応答を行うとREADMEに記載されています。音声テキスト入力なしで対話する「voice chat」と、音声とテキスト指示を使って分析する「audio analysis」の2つの対話形式が説明されています。READMEはQwen2-Audio-7BとQwen2-A"
     },
     {
       "repo": "wquguru/cicada",
