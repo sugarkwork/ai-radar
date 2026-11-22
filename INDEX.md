@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1278 件 — リポジトリ 882, リンク集 120, 記事 209, モデル 53, プロンプト 14 / ⚑ 要確認 1025 件
+収録 1279 件 — リポジトリ 883, リンク集 120, 記事 209, モデル 53, プロンプト 14 / ⚑ 要確認 1026 件
 
-## リポジトリ（882）
+## リポジトリ（883）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -924,10 +924,11 @@
 | [LLM_Wiki_SecondBrain](entries/rag/dimitrislianos-llm_wiki_secondbrain.md) ⚑ | 18 | 3 | 停滞 | 0 | 2026-04-17 | 2026-11-10 | 2026-11-10 | MIT |
 | [Fulcra Agent Skills](entries/rag/fulcradynamics-agent-skills.md) ⚑ | 16 | 11 | 週次 | 10 | 2026-11-06 | 2026-11-09 | 2026-11-10 | unknown |
 
-### 評価・ベンチマーク（10）
+### 評価・ベンチマーク（11）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
+| [Langfuse](entries/eval/langfuse-langfuse.md) ⚑ | 37,508 | 4,240 | 毎日 | 100+ | 2026-11-16 | 2026-11-17 | 2026-11-22 | unknown |
 | [promptfoo](entries/eval/promptfoo-promptfoo.md) ⚑ | 27,327 | 2,784 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
 | [garak (Generative AI Red-teaming and Assessment Kit)](entries/eval/nvidia-garak.md) ⚑ | 10,052 | 1,485 | 毎日 | 64 | 2026-11-06 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
 | [AI-Infra-Guard (A.I.G)](entries/eval/tencent-ai-infra-guard.md) | 7,527 | 763 | 毎日 | 54 | 2026-11-16 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
@@ -2148,6 +2149,7 @@
 - [Leash](entries/coding-agent/cmaintz-leash.md) — unverified / 最新GitHubリリース、npmの配布版、現行のJev料金と送信データの保持条件は未確認。READMEの約300 msと約68%は作者の記載で、測定条件や対象リポジトリでの再現性は未確認。CLI、フック、MCPは未実行。
 - [Turn Inspector](links/coding-agent/aitmpl.com-turn-inspector.md) — unverified / 確認できたこと: aitmpl.com の製品ページ（HTTP 200）に仕様・オプション・導入コマンド・バージョン要件が記載され、配布リポジトリの README と一致する。デモ動画を取得してフレームを確認し、右側ペインに「Context window 58.5k / 1.0M 6%」と system / earlier / new / output の内訳バー、#1 answer 54.1k / #2 1x Read 54.2k / #3 answer 58.5k のようなターン行が実際に映っていることを目視確認した。未確認のこと: トークン削減などの効果数値は存在せず、著者の「重くなった原因を勘で探さずに済む」という主張のみ。Claude Desktop のサイドパネル表示とバージョン範囲（2.1.287+ で既定有効、2.1.259〜2.1.286 は環境変数が必要）はドキュメント記述のみで、当環境では実機検証していない。本 Mod は表示・観測専用でコンテキストを減らす機能はない。
 - [grok-x](entries/coding-agent/stat-guy-grok-x.md) — unverified / READMEはGrok-nativeとClaude Codeの両方を記載していますが、利用できる機能は実行環境や指定ツールに依存します。 GitHub APIでライセンスを確認できていません。
+- [Langfuse](entries/eval/langfuse-langfuse.md) — unverified / GitHub APIでライセンスを確認できていません。
 - [promptfoo](entries/eval/promptfoo-promptfoo.md) — unverified / 有効性の数値（README の「10M+ users」等）はベンダー自己申告で、独立検証や本環境での再現はしていない。導入・eval・redteam の実行も未実施。Community の red teaming は月10k probes 上限で、SonarQube 出力・チーム共有・カスタムプラグイン・RBAC/SSO・監視は Enterprise 限定（公開価格なし、Custom 見積り）。LLM 採点の assertion は確率的で、しきい値・grader・--repeat の調整が必要。red team の検出結果は誤検知を含む前提で人間が triage する必要がある。README は OpenAI 傘下であることを明記しており、今後のライセンスや提供形態の変更リスクは残る。redteam は有害出力を誘発しうるため、管理下のアプリ以外には使わない。
 - [garak (Generative AI Red-teaming and Assessment Kit)](entries/eval/nvidia-garak.md) — unverified / 検出精度・誤検知率の定量値は一次情報に記載がなく未検証。判定はキーワードまたは分類器ベースの検出器に依存し、スコアは正規化されていないためプローブ間の比較はできない。プローブの網羅性は保証されず、ペネトレーションテストの代替にはならない。実行は許可された対象に限る。
 - [Goochbeater/Spiritual-Spell-Red-Teaming](entries/eval/goochbeater-spiritual-spell-red-teaming.md) — unverified, prompt-injection / 脱獄・社会工学・安全制約回避を含む。指示の実行、危険なプロンプトや露骨な本文の転載は行わない。抽出物の真正性と利用権も未確認。 当方でインストール・推論・生成・ベンチ再現はしていない。
