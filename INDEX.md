@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1305 件 — リポジトリ 908, リンク集 120, 記事 210, モデル 53, プロンプト 14 / ⚑ 要確認 1051 件
+収録 1306 件 — リポジトリ 909, リンク集 120, 記事 210, モデル 53, プロンプト 14 / ⚑ 要確認 1051 件
 
-## リポジトリ（908）
+## リポジトリ（909）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -595,7 +595,7 @@
 | [remotion-ffmpeg-skill](entries/video-gen/kajisho5-remotion-ffmpeg-skill.md) ⚑ | 8 | 0 | 毎日 | 77 | 2026-11-14 | 2026-11-17 | 2026-11-22 | MIT |
 | [BennyDaBall930/comfyui_hyperflow_int8_nodes](entries/video-gen/bennydaball930-comfyui_hyperflow_int8_nodes.md) ⚑ | 3 | 0 | 週次 | 10 | 2026-11-09 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
 
-### 3D・モーション（79）
+### 3D・モーション（80）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -663,6 +663,7 @@
 | [Motion2Code](entries/3d-motion/lovisdotio-motion2code.md) ⚑ | 354 | 31 | 月次 | 2 | 2026-10-20 | 2026-11-16 | 2026-11-22 | MIT |
 | [FlexGlue](entries/3d-motion/cvg-flexglue.md) | 344 | 18 | 週次 | 14 | 2026-11-10 | 2026-11-16 | 2026-11-22 | MIT |
 | [shinshin86/aituber-onair](entries/3d-motion/shinshin86-aituber-onair.md) ⚑ | 335 | 34 | 毎日 | 88 | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [live2d-add-motion-sample-web-ui](entries/3d-motion/shinshin86-live2d-add-motion-sample-web-ui.md) | 298 | 19 | 週次 | 12 | 2026-11-03 | 2026-11-17 | 2026-11-22 | MIT |
 | [effekseer-vfx-skill](entries/3d-motion/kanaworksai-hue-effekseer-vfx-skill.md) | 172 | 11 | 週次 | 4 | 2026-10-29 | 2026-11-16 | 2026-11-22 | MIT |
 | [cc-blender-skill](entries/3d-motion/roble3-cc-blender-skill.md) ⚑ | 168 | 20 | 月次 | 0 | 2026-10-12 | 2026-11-16 | 2026-11-22 | MIT |
 | [Lida-V/3DCharaMakeSkills-Lida](entries/3d-motion/lida-v-3dcharamakeskills-lida.md) ⚑ | 64 | 4 | 週次 | 9 | 2026-11-15 | 2026-11-16 | 2026-11-22 | NOASSERTION |

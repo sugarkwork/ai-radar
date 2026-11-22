@@ -1,5 +1,5 @@
 {
-  "count": 1305,
+  "count": 1306,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -2186,6 +2186,35 @@
       "last_release_at": "2026-11-14",
       "path": "entries/3d-motion/shinshin86-aituber-onair.md",
       "summary": "AIエージェントからAITuberアプリを始めるサイトと、Vite/React/TypeScriptのテンプレートを持つaituber-onair。"
+    },
+    {
+      "name": "live2d-add-motion-sample-web-ui",
+      "genre": "3d-motion",
+      "url": "https://github.com/shinshin86/live2d-add-motion-sample-web-ui",
+      "repo": "shinshin86/live2d-add-motion-sample-web-ui",
+      "license": "MIT",
+      "stars": 298,
+      "language": "JavaScript",
+      "created": "2026-07-13",
+      "updated": "2026-11-03",
+      "forks": 19,
+      "open_issues": 0,
+      "commits_30d": 12,
+      "commit_cadence": "weekly",
+      "commits_90d": 46,
+      "size_kb": 8927,
+      "archived": false,
+      "flags": [],
+      "type": "repo",
+      "added": "2026-11-22",
+      "first_seen": "2026-11-22",
+      "risk_notes": "",
+      "sources": [
+        "https://x.com/dextune/status/2119173045797708268"
+      ],
+      "fetched_at": "2026-11-17T07:21:49.457543+00:00",
+      "path": "entries/3d-motion/shinshin86-live2d-add-motion-sample-web-ui.md",
+      "summary": "Live2Dモデルの既存パラメータ向けに、JSONでモーションを作成し、生成・検証してWeb UIで再生できる。READMEでは、生成スクリプト、独立したバリデーター、ヘッドレスブラウザーでの検証を挙げている。"
     },
     {
       "repo": "kanaworksai-hue/effekseer-vfx-skill",
