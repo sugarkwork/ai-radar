@@ -1,5 +1,5 @@
 {
-  "count": 1268,
+  "count": 1269,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -11346,6 +11346,37 @@
       "last_release_at": "",
       "path": "entries/coding-agent/wshobson-agents.md",
       "summary": "Python開発などの用途別プラグインを導入し、テスト設計のスキルや専門エージェントを作業に使える。 [プラグイン一覧](https://github.com/wshobson/agents/blob/main/docs/plugins.md)"
+    },
+    {
+      "name": "Lightpanda Browser",
+      "genre": "coding-agent",
+      "url": "https://github.com/lightpanda-io/browser",
+      "repo": "lightpanda-io/browser",
+      "license": "AGPL-3.0",
+      "stars": 42144,
+      "language": "Zig",
+      "created": "2023-02-07",
+      "updated": "2026-11-17",
+      "forks": 2124,
+      "open_issues": 81,
+      "commits_30d": 100,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 47378,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "Linuxのnightlyバイナリはglibc依存で、必要なバージョンはx86_64が2.35、arm64が2.38。musl系LinuxやAndroid/Termuxでは動作せず、WindowsはWSL経由です。ベンチマークの速度・メモリー比較はREADME記載の作者側測定条件による報告です。",
+      "type": "repo",
+      "added": "2026-11-22",
+      "first_seen": "2026-11-22",
+      "sources": [
+        "https://x.com/bkdgiffug/status/2119125730760241560"
+      ],
+      "fetched_at": "2026-11-17T01:16:21.359270+00:00",
+      "path": "entries/coding-agent/lightpanda-io-browser.md",
+      "summary": "URLのHTML、Markdown、PNG、PDF、構造化データを取得できます。CDPサーバーを起動し、Puppeteerなどから接続できます。また、WebDriver BiDiにも対応するとREADMEに記載されています。ネイティブエージェントは自然言語やスラッシュコマンドでページ移動、クリック、フォーム入力、構造化"
     },
     {
       "repo": "codewhale-hq/Codewhale",
