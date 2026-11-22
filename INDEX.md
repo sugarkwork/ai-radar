@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1354 件 — リポジトリ 952, リンク集 120, 記事 215, モデル 53, プロンプト 14 / ⚑ 要確認 1094 件
+収録 1355 件 — リポジトリ 953, リンク集 120, 記事 215, モデル 53, プロンプト 14 / ⚑ 要確認 1095 件
 
-## リポジトリ（952）
+## リポジトリ（953）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -801,7 +801,7 @@
 | [nf12](entries/model-serving/dphnai-nf12.md) ⚑ | 32 | 3 | 週次 | 12 | 2026-11-14 | 2026-11-16 |  | Apache-2.0 |
 | [GLM-5.3-Flash 2×RTX PRO 6000 配備レシピ（TensorFold）](entries/model-serving/miaai-lab-glm-5.3-flash-2x-rtx-pro-6000.md) ⚑ | 31 | 4 | 毎日 | 31 | 2026-11-12 | 2026-11-16 |  | Apache-2.0 |
 | [Tokenomos](entries/model-serving/kohakublueleaf-tokenomos.md) | 28 | 0 | 毎日 | 20 | 2026-11-05 | 2026-11-16 |  | Apache-2.0 |
-| [ttf-home](entries/model-serving/oguzeldereli-ttf-home.md) ⚑ | 18 | 4 | 毎日 | 100+ | 2026-11-17 | 2026-11-18 | 2026-11-22 | unknown |
+| [ttf-home](entries/model-serving/oguzeldereli-ttf-home.md) ⚑ | 18 | 4 | 毎日 | 100+ | 2026-11-17 | 2026-11-18 |  | unknown |
 | [ausboss/ComfyUI-AusBoss-Model-Downloader](entries/model-serving/ausboss-comfyui-ausboss-model-downloader.md) ⚑ | 9 | 1 | 週次 | 9 | 2026-11-15 | 2026-11-16 |  | MIT |
 
 ### MCPサーバー（37）
@@ -846,7 +846,7 @@
 | [Kosh](entries/mcp-server/sachinyadavaug20-kosh.md) ⚑ | 5 | 0 | 毎日 | 76 | 2026-11-15 | 2026-11-16 |  | Apache-2.0 |
 | [gmail-browser-mcp](entries/mcp-server/sparsh101sparsh-gmail-browser-mcp.md) ⚑ | 0 | 0 | 毎日 | 88 | 2026-11-13 | 2026-11-16 |  | unknown |
 
-### プロンプト（デザイン/UI）（33）
+### プロンプト（デザイン/UI）（34）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -862,6 +862,7 @@
 | [Anthropic's Prompt Engineering Interactive Tutorial](entries/prompt-design/anthropics-prompt-eng-interactive-tutorial.md) ⚑ | 39,368 | 4,362 | 停滞 | 0 | 2026-08-28 | 2026-11-15 |  | unknown |
 | [Huashu Design](entries/prompt-design/alchaincyf-huashu-design.md) ⚑ | 29,080 | 3,134 | 毎日 | 31 | 2026-11-10 | 2026-11-10 |  | MIT |
 | [Anthropic courses](entries/prompt-design/anthropics-courses.md) ⚑ | 23,011 | 2,558 | 停滞 | 0 | 2026-08-28 | 2026-11-12 |  | unknown |
+| [Jailbreaks](entries/prompt-design/togg53192-cmd-jailbreaks.md) ⚑ | 18,071 | 3,173 | 毎日 | 90 | 2026-11-16 | 2026-11-18 | 2026-11-22 | unknown |
 | [prompt-master](entries/prompt-design/nidhinjs-prompt-master.md) ⚑ | 15,766 | 1,819 | 週次 | 7 | 2026-10-22 | 2026-11-09 |  | MIT |
 | [scroll-world](entries/prompt-design/oso95-scroll-world.md) ⚑ | 10,920 | 1,190 | 停滞 | 0 | 2026-07-29 | 2026-11-10 |  | MIT |
 | [Lieflat Less AI Tone](entries/prompt-design/larashero3-dotcom-lieflat-less-ai-tone.md) ⚑ | 7,586 | 535 | 週次 | 14 | 2026-11-11 | 2026-11-13 |  | unknown |
@@ -2672,6 +2673,7 @@
 - [Anthropic's Prompt Engineering Interactive Tutorial](entries/prompt-design/anthropics-prompt-eng-interactive-tutorial.md) — unverified / READMEではClaude 3 Haikuを使用すると説明されています。利用時点でのモデル提供状況や利用条件はREADMEから確認できません。 GitHub APIでライセンスを確認できていません。
 - [Huashu Design](entries/prompt-design/alchaincyf-huashu-design.md) — unverified / ['導入・生成・書き出しは未実行。成果物の品質、制作時間、エージェントやOSごとの動作、生成物に含まれる第三者素材の権利は未検証。最新リリースの公開時刻はタイムゾーン付きで確認できなかったため省略した。']
 - [Anthropic courses](entries/prompt-design/anthropics-courses.md) — unverified / ライセンスは確認できていません。READMEによると、教材はAPI利用料金を抑えるためClaude 3 Haikuを選ぶことが多く、他のClaudeモデルも利用できるとされています。 GitHub APIでライセンスを確認できていません。
+- [Jailbreaks](entries/prompt-design/togg53192-cmd-jailbreaks.md) — unverified / READMEはプロンプトの挙動がモデルやバージョンに依存し、更新で効果が変わり得ると説明している。各プロンプトの有効性は独立に確認されていない。 GitHub APIでライセンスを確認できていません。
 - [prompt-master](entries/prompt-design/nidhinjs-prompt-master.md) — unverified / 今回の投稿は機能紹介で新たな実行試験ではない。 今回の動作・推論・生成・性能は未検証。
 - [scroll-world](entries/prompt-design/oso95-scroll-world.md) — unverified / 生成には外部サービスのCLI、認証情報、クレジットまたは従量課金が必要。README記載の価格や効果は独立検証していない。
 - [Lieflat Less AI Tone](entries/prompt-design/larashero3-dotcom-lieflat-less-ai-tone.md) — unverified / 研究の語料はリポジトリに含まれず、報告された数値は第三者が直接検証できない。意味層の判定は単一モデルで、READMEは抽出確認で15–30%の誤判定があったと述べている。商用利用には別途ライセンス購入が必要と記載されている。 GitHub APIでライセンスを確認できていません。

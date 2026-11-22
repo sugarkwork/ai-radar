@@ -1,5 +1,5 @@
 {
-  "count": 1354,
+  "count": 1355,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -32160,6 +32160,37 @@
       "fetched_at": "2026-11-12T03:48:27.794033+00:00",
       "path": "entries/prompt-design/anthropics-courses.md",
       "summary": "READMEでは、Claude SDKを使ったAPIキーの取得、モデルパラメータ、マルチモーダルプロンプト、ストリーミング応答の基礎を学べると説明されています。プロンプトエンジニアリング、実際の複雑なプロンプト、プロンプト評価、ワークフローでのツール利用を扱うコースも含まれます。"
+    },
+    {
+      "name": "Jailbreaks",
+      "genre": "prompt-design",
+      "url": "https://github.com/togg53192-cmd/jailbreaks",
+      "repo": "togg53192-cmd/jailbreaks",
+      "license": "unknown",
+      "stars": 18071,
+      "language": "unknown",
+      "created": "2026-06-18",
+      "updated": "2026-11-16",
+      "forks": 3173,
+      "open_issues": 52,
+      "commits_30d": 90,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 212,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEはプロンプトの挙動がモデルやバージョンに依存し、更新で効果が変わり得ると説明している。各プロンプトの有効性は独立に確認されていない。 GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-22",
+      "first_seen": "2026-11-22",
+      "sources": [
+        "https://x.com/DeepTechTR/status/2122578824512606356"
+      ],
+      "fetched_at": "2026-11-18T00:33:21.845163+00:00",
+      "path": "entries/prompt-design/togg53192-cmd-jailbreaks.md",
+      "summary": "READMEによると、複数モデル向けのシステムプロンプト、ペルソナ定義、ワークスペースポリシー、AGENTS.md、設定ブロック、Ollama Modelfileを収録。システムプロンプト欄や対応するクライアント/API設定に貼り付けたり、AGENTS.mdを対象ワークスペースのルートに置いたりして利用する。READM"
     },
     {
       "repo": "nidhinjs/prompt-master",
