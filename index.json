@@ -1,5 +1,5 @@
 {
-  "count": 1334,
+  "count": 1335,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -33290,6 +33290,37 @@
       "fetched_at": "2026-11-09T21:42:24Z",
       "path": "entries/rag/learningcircuit-local-deep-research.md",
       "summary": "質問から検索→読解→引用付きレポートまで自動。Quick Summary（30秒〜3分）、Detailed Research、Report Generation、Chat Mode（マルチターン）を選べる"
+    },
+    {
+      "name": "GPTCache",
+      "genre": "rag",
+      "url": "https://github.com/zilliztech/GPTCache",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEは開発中でAPIが変更される可能性があると説明している。また、新しいAPIやモデルの追加サポートは行わない旨が記載されている。キャッシュによるコスト・速度改善の数値はREADMEの主張であり、独立した実測結果としては確認していない。",
+      "repo": "zilliztech/GPTCache",
+      "stars": 8228,
+      "forks": 608,
+      "open_issues": 103,
+      "size_kb": 24343,
+      "language": "Python",
+      "created": "2023-03-24",
+      "updated": "2026-09-22",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 0,
+      "commits_90d": 10,
+      "commit_cadence": "monthly",
+      "type": "repo",
+      "added": "2026-11-22",
+      "first_seen": "2026-11-22",
+      "sources": [
+        "https://x.com/irongiantXBT/status/2122709093102285099"
+      ],
+      "fetched_at": "2026-11-17T23:16:36.562968+00:00",
+      "path": "entries/rag/zilliztech-gptcache.md",
+      "summary": "LLMへの問い合わせと応答をキャッシュし、完全一致または類似検索でキャッシュ済みの応答を取得する。READMEには、OpenAI APIとの利用例、温度パラメーターによるキャッシュ検索の制御例、LangChainとの統合、および言語を問わず利用できるGPTCacheサーバーの案内がある。コストを10分の1、速度を100"
     },
     {
       "repo": "ARahim3/DigUp",

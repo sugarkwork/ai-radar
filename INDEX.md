@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1334 件 — リポジトリ 933, リンク集 120, 記事 214, モデル 53, プロンプト 14 / ⚑ 要確認 1075 件
+収録 1335 件 — リポジトリ 934, リンク集 120, 記事 214, モデル 53, プロンプト 14 / ⚑ 要確認 1076 件
 
-## リポジトリ（933）
+## リポジトリ（934）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -940,7 +940,7 @@
 | [P-H3-Image ComfyUI sample workflows](entries/image-gen/tori29umai0123-p-h3-image_workflows.md) ⚑ | 2 | 1 | 週次 | 4 | 2026-11-06 | 2026-11-16 | 2026-11-22 | unknown |
 | [GrabTag](entries/image-gen/blackll7-moss-image-edit-grabtag.md) | 0 | 0 | 毎日 | 43 | 2026-11-09 | 2026-11-17 | 2026-11-22 | MIT |
 
-### RAG・検索（28）
+### RAG・検索（29）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -960,6 +960,7 @@
 | [NVIDIA/auto-ontology](entries/rag/nvidia-auto-ontology.md) ⚑ | 10,982 | 897 | 毎日 | 95 | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
 | [PixelRAG](entries/rag/startrail-org-pixelrag.md) ⚑ | 10,889 | 980 | 毎日 | 25 | 2026-11-05 | 2026-11-10 | 2026-11-11 | Apache-2.0 |
 | [Local Deep Research](entries/rag/learningcircuit-local-deep-research.md) | 9,556 | 910 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-13 | MIT |
+| [GPTCache](entries/rag/zilliztech-gptcache.md) ⚑ | 8,228 | 608 | 月次 | 0 | 2026-09-22 | 2026-11-17 | 2026-11-22 | MIT |
 | [DigUp](entries/rag/arahim3-digup.md) | 6,341 | 501 | 毎日 | 100+ | 2026-10-26 | 2026-11-09 | 2026-11-10 | MIT |
 | [kepano/kepano-obsidian](entries/rag/kepano-kepano-obsidian.md) ⚑ | 5,521 | 448 | 停滞 | 0 | 2026-01-09 | 2026-11-09 | 2026-11-10 | MIT |
 | [Code-Graph-RAG](entries/rag/vitali87-code-graph-rag.md) ⚑ | 5,347 | 711 | 毎日 | 100+ | 2026-11-11 | 2026-11-11 | 2026-11-11 | MIT |
@@ -2681,6 +2682,7 @@
 - [FlagEmbedding (BGE)](entries/rag/flagopen-flagembedding.md) — unverified / 提供されたREADME抜粋では依存関係と実行条件を確認できず、最短手順の具体的なコマンドも確認できない。
 - [NVIDIA/auto-ontology](entries/rag/nvidia-auto-ontology.md) — unverified / 原チェック時READMEは外部コントリビューションを受け付けないと明記。API・ホスト費用とデータ送信条件は実行前に確認する。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [PixelRAG](entries/rag/startrail-org-pixelrag.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
+- [GPTCache](entries/rag/zilliztech-gptcache.md) — unverified / READMEは開発中でAPIが変更される可能性があると説明している。また、新しいAPIやモデルの追加サポートは行わない旨が記載されている。キャッシュによるコスト・速度改善の数値はREADMEの主張であり、独立した実測結果としては確認していない。
 - [kepano/kepano-obsidian](entries/rag/kepano-kepano-obsidian.md) — unverified / 2026-01-09以来の更新停止という原チェック記録。個人の運用テンプレートで、万人に合う知識管理法の実証ではない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Code-Graph-RAG](entries/rag/vitali87-code-graph-rag.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [zvec-ai/zvec-grep](entries/rag/zvec-ai-zvec-grep.md) — unverified / 起動26.8ms・索引構築64.5%短縮等は開発元のApple M3 Pro単一環境の比較。第三者追試でもWindowsでの計測でもない。 当方でインストール・推論・生成・ベンチ再現はしていない。
