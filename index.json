@@ -1,5 +1,5 @@
 {
-  "count": 1317,
+  "count": 1318,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -9854,6 +9854,24 @@
       ],
       "fetched_at": "2026-11-10T13:19:00+09:00",
       "path": "articles/2026-10-26-jarvis11x-muse-seedance.md"
+    },
+    {
+      "name": "MuseのシステムファイルをZIPにまとめ、AIと内容を確認する",
+      "genre": "article",
+      "url": "https://x.com/tetumemo/status/2119217457470836938",
+      "published": "2026-11-07",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "ZIPに含まれるファイルの具体的な範囲や、別環境への移行・再利用の可否は確認できていません。記載内容は投稿者の報告で、独立した動作確認ではありません。",
+      "type": "article",
+      "added": "2026-11-22",
+      "first_seen": "2026-11-22",
+      "sources": [
+        "https://x.com/tetumemo/status/2119217457470836938"
+      ],
+      "fetched_at": "2026-11-17T14:14:49.957767+00:00",
+      "path": "articles/2026-11-07-author-muse-zip-ai.md"
     },
     {
       "name": "Nemotron 3.5 Bolt E4B on Jetson Orin Nano Super at 27.7 tok/s!",

@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1317 件 — リポジトリ 918, リンク集 120, 記事 212, モデル 53, プロンプト 14 / ⚑ 要確認 1060 件
+収録 1318 件 — リポジトリ 918, リンク集 120, 記事 213, モデル 53, プロンプト 14 / ⚑ 要確認 1061 件
 
 ## リポジトリ（918）
 
@@ -1488,9 +1488,9 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（212）
+## 記事（213）
 
-### 記事（149）
+### 記事（150）
 
 - **[$0のデジタル参謀長で月$80,000の契約候補を作ったというX投稿（動画付き）](articles/2026-10-22-bober_smart-0-80-000-x.md)** ⚑  @Bober_smart
 - **[1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md)** ⚑  @mukadeshinigami（mukade死神）
@@ -1583,6 +1583,7 @@
 - **[Microsoft confirms Windows activation failures after November updates](articles/2026-11-13-author-microsoft-confirms-windows-activation-failures-after-november-updates.md)** ⚑
 - **[Microsoft’s November 2026 Patch Tuesday addresses 1093 CVEs (CVE-2026-124194)](articles/2026-11-10-author-microsoft-s-november-2026-patch-tuesday-addresses-1093-cves-cve-2026-124194.md)**
 - **[Museで試作し入力素材をSeedanceへ引き継ぐ動画制作案](articles/2026-10-26-jarvis11x-muse-seedance.md)** ⚑  @jarvis11x
+- **[MuseのシステムファイルをZIPにまとめ、AIと内容を確認する](articles/2026-11-07-author-muse-zip-ai.md)** ⚑
 - **[Nemotron 3.5 Bolt E4B on Jetson Orin Nano Super at 27.7 tok/s!](articles/2026-11-05-author-nemotron-3.5-bolt-e4b-on-jetson-orin-nano-super-at-27.7-tok-s.md)** ⚑
 - **[Node2Shell: Brotli Flaw Triggers Patching Across Microsoft, Node.js, Python Packages](articles/2026-10-26-author-node2shell-brotli-flaw-triggers-patching-across-microsoft-node.js-python-package.md)**
 - **[OpenAI、独立ロボティクスチームを再編](articles/2026-11-13-author-openai.md)**
@@ -2008,6 +2009,7 @@
 - [Metatron — A Promptable Whole-Body Execution Layer for Humanoids](articles/2026-10-01-author-metatron-a-promptable-whole-body-execution-layer-for-humanoids.md) — unverified / 実演値や改善の説明はNVIDIA掲載資料の報告であり、独立検証ではない。歩行品質・安定性の改善は定性的評価と明記されている。
 - [Microsoft confirms Windows activation failures after November updates](articles/2026-11-13-author-microsoft-confirms-windows-activation-failures-after-november-updates.md) — unverified / 記事は修正が数日以内に提供される見込みと報じていますが、現在の修正提供状況はこの記事から確認できません。Microsoft のサービス通知への直接リンクも記事内で確認できません。
 - [Museで試作し入力素材をSeedanceへ引き継ぐ動画制作案](articles/2026-10-26-jarvis11x-muse-seedance.md) — unverified / 品質、費用、再現性は未計測。投稿のSeedanceバージョンは不明。
+- [MuseのシステムファイルをZIPにまとめ、AIと内容を確認する](articles/2026-11-07-author-muse-zip-ai.md) — unverified / ZIPに含まれるファイルの具体的な範囲や、別環境への移行・再利用の可否は確認できていません。記載内容は投稿者の報告で、独立した動作確認ではありません。
 - [Nemotron 3.5 Bolt E4B on Jetson Orin Nano Super at 27.7 tok/s!](articles/2026-11-05-author-nemotron-3.5-bolt-e4b-on-jetson-orin-nano-super-at-27.7-tok-s.md) — unverified / 27.7 tok/sと比較対象の15 tok/sは投稿者の報告であり、この資料だけでは測定条件や独立検証を確認できない。
 - [OpenUIで表データの取得をUI生成と分ける](articles/2026-10-21-bernat-vadell-openui-ui.md) — unverified / 原文は公開ミラー経由。性能や費用の実測はない。
 - [P-H3-Image LoRAでキャラクターシートから12種類の画像編集を試した記事](articles/2026-11-06-author-p-h3-image-lora-12.md) — unverified / 記載の実行時間・出力結果は記事著者の環境での報告で、独立した再現確認ではない。
