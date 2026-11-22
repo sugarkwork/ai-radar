@@ -1,5 +1,5 @@
 {
-  "count": 1302,
+  "count": 1303,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -33249,6 +33249,37 @@
       "fetched_at": "2026-11-14T10:15:03.826642+00:00",
       "path": "entries/tts-audio/myshell-ai-openvoice.md",
       "summary": "参照音声の声色を複製して複数言語・アクセントで音声を生成し、感情やアクセント、リズム、間、イントネーションなどの音声スタイルを制御する機能をREADMEで説明。V2は英語、スペイン語、フランス語、中国語、日本語、韓国語をネイティブにサポートすると記載されている。"
+    },
+    {
+      "name": "Fish Speech",
+      "genre": "tts-audio",
+      "url": "https://github.com/fishaudio/fish-speech",
+      "repo": "fishaudio/fish-speech",
+      "license": "unknown",
+      "stars": 33764,
+      "language": "Python",
+      "created": "2023-10-10",
+      "updated": "2026-11-14",
+      "forks": 2946,
+      "open_issues": 28,
+      "commits_30d": 1,
+      "commit_cadence": "monthly",
+      "commits_90d": 15,
+      "size_kb": 33277,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEによるとコードベースと関連モデル重みはFish Audio Community Licenseだが、S2-Proの重みはFish Audio Research License。利用前にLICENSEで条件を確認すること。 GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-22",
+      "first_seen": "2026-11-22",
+      "sources": [
+        "https://x.com/DivyanshT91162/status/2119134534134600107"
+      ],
+      "fetched_at": "2026-11-17T07:14:07.133619+00:00",
+      "path": "entries/tts-audio/fishaudio-fish-speech.md",
+      "summary": "Fish Speechはテキストからの音声生成、音声クローニング、複数話者生成、自然言語による感情・韻律制御に対応する。READMEはDrama 3について複数キャラクターのシーン生成、長文音声、音声の部分編集、複数ターンの修正を記載している。S2-Proでは話者IDによる複数話者生成と、参照音声10〜30秒を使った音"
     },
     {
       "repo": "svc-develop-team/so-vits-svc",
