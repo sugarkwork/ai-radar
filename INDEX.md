@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1265 件 — リポジトリ 870, リンク集 120, 記事 208, モデル 53, プロンプト 14 / ⚑ 要確認 1016 件
+収録 1266 件 — リポジトリ 871, リンク集 120, 記事 208, モデル 53, プロンプト 14 / ⚑ 要確認 1017 件
 
-## リポジトリ（870）
+## リポジトリ（871）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（181）
+### その他（182）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Jellyfin Server](entries/other/jellyfin-jellyfin.md) ⚑ | 59,334 | 5,810 | 毎日 | 60 | 2026-11-13 | 2026-11-14 | 2026-11-14 | GPL-2.0 |
 | [Motrix](entries/other/agalwood-motrix.md) ⚑ | 58,397 | 5,156 | 毎日 | 86 | 2026-11-16 | 2026-11-16 | 2026-11-22 | unknown |
 | [JADX](entries/other/skylot-jadx.md) ⚑ | 51,735 | 5,928 | 毎日 | 28 | 2026-11-08 | 2026-11-10 | 2026-11-10 | Apache-2.0 |
+| [Ruff](entries/other/astral-sh-ruff.md) ⚑ | 51,255 | 2,724 | 毎日 | 100+ | 2026-11-16 | 2026-11-17 | 2026-11-22 | MIT |
 | [PixiJS](entries/other/pixijs-pixijs.md) ⚑ | 48,675 | 5,143 | 毎日 | 37 | 2026-11-11 | 2026-11-12 | 2026-11-12 | MIT |
 | [Paperless-ngx](entries/other/paperless-ngx-paperless-ngx.md) ⚑ | 47,969 | 3,372 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | GPL-3.0 |
 | [SiYuan](entries/other/siyuan-note-siyuan.md) ⚑ | 47,217 | 3,115 | 毎日 | 100+ | 2026-11-14 | 2026-11-14 | 2026-11-14 | AGPL-3.0 |
@@ -2344,6 +2345,7 @@
 - [Jellyfin Server](entries/other/jellyfin-jellyfin.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Motrix](entries/other/agalwood-motrix.md) — unverified / READMEには更新前に既存プロフィールとダウンロードのバックアップが必要と記載されています。v2エンジンはSQLiteをschema 6へ更新し、旧エンジンではschema 6を開けないため、ダウングレードの可能性がある場合は更新前バックアップを保持してください。 GitHub APIでライセンスを確認できていません。
 - [JADX](entries/other/skylot-jadx.md) — unverified / 最新版のタグと公開日時は未確認。READMEの機能記載を確認した範囲で、逆コンパイルの精度、実行環境ごとの動作、AIによる要約の品質は実測していない。READMEは逆コンパイル時にエラーが生じうると明記している。
+- [Ruff](entries/other/astral-sh-ruff.md) — unverified / READMEには依存関係の明示がありません。
 - [PixiJS](entries/other/pixijs-pixijs.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Paperless-ngx](entries/other/paperless-ngx-paperless-ngx.md) — unverified / OCR精度、検索性能、外部AIからの接続は実機で未検証。最新リリースのタグと公開日時は /releases/latest で未確認。コミット数は両期間とも取得上限のため100件以上。
 - [SiYuan](entries/other/siyuan-note-siyuan.md) — unverified / 一部機能は有料会員限定。機能ごとの利用条件や料金の詳細はREADMEから確認できない。
