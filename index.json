@@ -1,5 +1,5 @@
 {
-  "count": 1293,
+  "count": 1294,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -9534,6 +9534,24 @@
       ],
       "fetched_at": "2026-11-14T06:18:16.591647+00:00",
       "path": "articles/2026-11-06-author-measuring-how-ai-agents-handle-everyday-wet-lab-science.md"
+    },
+    {
+      "name": "Metatron — A Promptable Whole-Body Execution Layer for Humanoids",
+      "genre": "article",
+      "url": "https://research.nvidia.com/labs/par/projects/metatron/",
+      "published": "2026-10-01",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "実演値や改善の説明はNVIDIA掲載資料の報告であり、独立検証ではない。歩行品質・安定性の改善は定性的評価と明記されている。",
+      "type": "article",
+      "added": "2026-11-22",
+      "first_seen": "2026-11-22",
+      "sources": [
+        "https://x.com/AlecSaysThings/status/2119160757602427144"
+      ],
+      "fetched_at": "2026-11-17T06:24:25.047076+00:00",
+      "path": "articles/2026-10-01-author-metatron-a-promptable-whole-body-execution-layer-for-humanoids.md"
     },
     {
       "name": "Microsoft confirms Windows activation failures after November updates",
