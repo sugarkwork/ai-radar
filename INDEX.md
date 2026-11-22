@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1291 件 — リポジトリ 895, リンク集 120, 記事 209, モデル 53, プロンプト 14 / ⚑ 要確認 1037 件
+収録 1292 件 — リポジトリ 896, リンク集 120, 記事 209, モデル 53, プロンプト 14 / ⚑ 要確認 1038 件
 
-## リポジトリ（895）
+## リポジトリ（896）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -469,7 +469,7 @@
 | [AI SDK](entries/agent-framework/anil-matcha-ai.md) ⚑ | 19 | 4 | 停滞 | 0 | 2026-08-06 | 2026-11-16 | 2026-11-22 | unknown |
 | [web-api-skills](entries/agent-framework/oxylabs-web-api-skills.md) | 13 | 1 | 週次 | 14 | 2026-11-11 | 2026-11-16 | 2026-11-22 | MIT |
 
-### 動画生成パイプライン（111）
+### 動画生成パイプライン（112）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -580,6 +580,7 @@
 | [Seam](entries/video-gen/jdnichollsc-seam.md) ⚑ | 26 | 3 | 毎日 | 25 | 2026-11-06 | 2026-11-10 | 2026-11-10 | MIT |
 | [TaoLiveAIGC/TaoMate-HD](entries/video-gen/taoliveaigc-taomate-hd.md) ⚑ | 26 | 2 | 月次 | 2 | 2026-11-03 | 2026-11-09 | 2026-11-10 | NOASSERTION |
 | [Luo-Yihong/VA-TDM](entries/video-gen/luo-yihong-va-tdm.md) ⚑ | 25 | 2 | 月次 | 1 | 2026-11-04 | 2026-11-09 | 2026-11-10 | unknown |
+| [su-card-to-video](entries/video-gen/doublesq97-ui-su-card-to-video.md) ⚑ | 17 | 3 | 停滞 | 0 | 2026-07-28 | 2026-11-17 | 2026-11-22 | MIT |
 | [utillayer/youtube-agent-skill](entries/video-gen/utillayer-youtube-agent-skill.md) ⚑ | 14 | 2 | 週次 | 16 | 2026-10-29 | 2026-11-09 | 2026-11-10 | MIT |
 | [Householder Motion Embedding (NoiseControl)](entries/video-gen/coldsilence507-householdermotionembedding-release.md) ⚑ | 10 | 1 | 週次 | 14 | 2026-11-06 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
 | [remotion-ffmpeg-skill](entries/video-gen/kajisho5-remotion-ffmpeg-skill.md) ⚑ | 8 | 0 | 毎日 | 77 | 2026-11-14 | 2026-11-17 | 2026-11-22 | MIT |
@@ -2723,6 +2724,7 @@
 - [Seam](entries/video-gen/jdnichollsc-seam.md) — unverified / GitHubの最新リリースリンクはv0.0.1へ転送された。公開日時と、現行READMEの機能が同タグに含まれる範囲は未確認。生成品質、所要時間、GLB入力、MCP連携は独立に再現していない。READMEでは24 GB GPU、Linux、macOSでの動作は未検証。クラウド経由の実レンダーも未検証と記載されている。
 - [TaoLiveAIGC/TaoMate-HD](entries/video-gen/taoliveaigc-taomate-hd.md) — unverified / 学習コード・データ・最終LoRAは未公開。1.6倍高速化とCER改善は論文自己報告。コードと重みにMiniMax H3系の独自条件・地域制限あり。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Luo-Yihong/VA-TDM](entries/video-gen/luo-yihong-va-tdm.md) — unverified / 4NFEのH3でFast-H3に61.33%の人間選好等は論文/プロジェクトの測定。完成済み汎用推論モデルの配布と混同しない。 当方でインストール・推論・生成・ベンチ再現はしていない。
+- [su-card-to-video](entries/video-gen/doublesq97-ui-su-card-to-video.md) — unverified / READMEには、HyperFrames/GSAPなど複数のレンダリング方法が挙げられているが、各方法の具体的な対応条件は明記されていない。
 - [utillayer/youtube-agent-skill](entries/video-gen/utillayer-youtube-agent-skill.md) — unverified / 原チェックはファイル構成を確認した段階で機能実行なし。対象動画の権利・プラットフォームの規約と情報取得の現行可否は別。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Householder Motion Embedding (NoiseControl)](entries/video-gen/coldsilence507-householdermotionembedding-release.md) — unverified / 一次資料で未確認: 技術背景・有効性・実行条件。
 - [remotion-ffmpeg-skill](entries/video-gen/kajisho5-remotion-ffmpeg-skill.md) — unverified / 一次資料で未確認: 有効性。
