@@ -1,5 +1,5 @@
 {
-  "count": 1314,
+  "count": 1315,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -9294,6 +9294,24 @@
       ],
       "fetched_at": "2026-11-16T01:35:49.370763+00:00",
       "path": "articles/2026-10-15-author-grok-bot-x-bot-97.md"
+    },
+    {
+      "name": "Grok Botを指揮者として使う実践記事",
+      "genre": "article",
+      "url": "https://x.com/tetumemo/status/2118297314079240240",
+      "published": "2026-10-15",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "連携手順や約3分で下書きが完成した例、使用量・料金の記述は記事執筆者による報告で、独立した再現確認ではない。料金などの条件は記事内で確認できた時点の情報。",
+      "type": "article",
+      "added": "2026-11-22",
+      "first_seen": "2026-11-22",
+      "sources": [
+        "https://x.com/tetumemo/status/2119210848015237126"
+      ],
+      "fetched_at": "2026-11-17T12:19:19.825368+00:00",
+      "path": "articles/2026-10-15-author-grok-bot.md"
     },
     {
       "name": "H3 Imageの高解像度生成と縮小手順",
