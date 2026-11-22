@@ -1,5 +1,5 @@
 {
-  "count": 1303,
+  "count": 1304,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -21741,6 +21741,37 @@
       "last_release_at": "",
       "path": "entries/mcp-server/faixiang-moodle-mcp.md",
       "summary": "MoodleのWeb Service APIから、登録コース、最近の更新、未提出課題と期限、クイズの受験状態、コース内ファイル情報を取得するMCPツールを提供する。週次ダイジェストも生成できる。READMEでは10個の読み取り系ツールを説明し、別途、moodle_download_weekによる週単位のファイル保存機能"
+    },
+    {
+      "name": "Oxylabs Web API — MCP Server",
+      "genre": "mcp-server",
+      "url": "https://github.com/oxylabs/web-api-mcp",
+      "repo": "oxylabs/web-api-mcp",
+      "license": "MIT",
+      "stars": 58,
+      "language": "Python",
+      "created": "2026-08-23",
+      "updated": "2026-11-09",
+      "forks": 9,
+      "open_issues": 0,
+      "commits_30d": 28,
+      "commit_cadence": "daily",
+      "commits_90d": 70,
+      "size_kb": 210,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "利用にはOxylabs Web APIキーが必要です。APIの料金・利用枠はREADMEに記載がなく、費用は確認できません。",
+      "type": "repo",
+      "added": "2026-11-22",
+      "first_seen": "2026-11-22",
+      "sources": [
+        "https://x.com/DivyanshT91162/status/2119134534134600107"
+      ],
+      "fetched_at": "2026-11-17T07:15:57.547500+00:00",
+      "path": "entries/mcp-server/oxylabs-web-api-mcp.md",
+      "summary": "Oxylabs Web APIへのMCP接続を提供します。READMEによると、searchはライブWebの検索結果を返し、scrapeはURLをMarkdownまたは指定したJSON形式で取得します。list_scrapersで利用可能な専用スクレイパーとパラメーターを確認でき、run_scraperで実行できます。"
     },
     {
       "name": "BlendRelay MCP",
