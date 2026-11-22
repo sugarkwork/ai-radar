@@ -1,5 +1,5 @@
 {
-  "count": 1315,
+  "count": 1316,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -27181,6 +27181,35 @@
       "last_release_at": "2026-11-16",
       "path": "entries/other/fqscfqj-y2a-auto.md",
       "summary": "READMEによると、YouTube動画のダウンロード、音声認識による字幕生成、字幕翻訳・質疑・焼き込み、メタデータ生成、内容审核、AcFun／bilibiliへのアップロードを自動化する。Web管理画面でタスク確認や手動审核を行えるほか、YouTubeチャンネル・キーワード監視、通知、CookieCloud連携、CP"
+    },
+    {
+      "name": "Aliens Eye",
+      "genre": "other",
+      "url": "https://github.com/arxhr007/Aliens_eye",
+      "repo": "arxhr007/Aliens_eye",
+      "license": "MIT",
+      "stars": 4836,
+      "language": "Python",
+      "created": "2021-09-22",
+      "updated": "2026-11-15",
+      "forks": 573,
+      "open_issues": 0,
+      "commits_30d": 19,
+      "commit_cadence": "weekly",
+      "commits_90d": 53,
+      "size_kb": 24095,
+      "archived": false,
+      "flags": [],
+      "type": "repo",
+      "added": "2026-11-22",
+      "first_seen": "2026-11-22",
+      "risk_notes": "",
+      "sources": [
+        "https://x.com/bkdgiffug/status/2119212049398210763"
+      ],
+      "fetched_at": "2026-11-17T13:11:58.567951+00:00",
+      "path": "entries/other/arxhr007-aliens_eye.md",
+      "summary": "READMEでは、ユーザー名を7,700以上のプラットフォームで非同期に検索し、見つかったプロフィールの表示名・自己紹介・アバターを抽出する機能を説明しています。アバターや自己紹介などによるプロフィールの相関分析、リンク先ユーザー名の再帰検索、ドメイン確認、定期再スキャン、途中再開、JSON・CSV・HTML・Mark"
     },
     {
       "name": "Screenbox",

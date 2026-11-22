@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1315 件 — リポジトリ 917, リンク集 120, 記事 211, モデル 53, プロンプト 14 / ⚑ 要確認 1059 件
+収録 1316 件 — リポジトリ 918, リンク集 120, 記事 211, モデル 53, プロンプト 14 / ⚑ 要確認 1059 件
 
-## リポジトリ（917）
+## リポジトリ（918）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（199）
+### その他（200）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Bumblebee](entries/other/perplexityai-bumblebee.md) ⚑ | 5,148 | 464 | 月次 | 0 | 2026-11-10 | 2026-11-12 | 2026-11-12 | Apache-2.0 |
 | [FigCraft](entries/other/storytold-figcraft.md) ⚑ | 5,042 | 1,863 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-16 | Apache-2.0 |
 | [Y2A-Auto](entries/other/fqscfqj-y2a-auto.md) ⚑ | 5,018 | 850 | 週次 | 9 | 2026-11-16 | 2026-11-16 | 2026-11-22 | GPL-3.0 |
+| [Aliens Eye](entries/other/arxhr007-aliens_eye.md) | 4,836 | 573 | 週次 | 19 | 2026-11-15 | 2026-11-17 | 2026-11-22 | MIT |
 | [Screenbox](entries/other/huynhsontung-screenbox.md) ⚑ | 4,704 | 222 | 毎日 | 20 | 2026-11-16 | 2026-11-16 | 2026-11-22 | GPL-3.0 |
 | [terminal-browser](entries/other/zenbu-labs-terminal-browser.md) | 4,690 | 243 | 毎日 | 96 | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
 | [Create](entries/other/creators-of-create-create.md) ⚑ | 4,621 | 1,449 | 週次 | 19 | 2026-11-15 | 2026-11-16 | 2026-11-22 | unknown |
