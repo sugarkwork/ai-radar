@@ -1,5 +1,5 @@
 {
-  "count": 1346,
+  "count": 1347,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -30136,6 +30136,37 @@
       "fetched_at": "2026-11-10T10:04:19Z",
       "path": "entries/other/underleveledbuilder-awesome-social-media-skills.md",
       "summary": "企画、原稿、カバー画像・短尺動画、公開、分析の工程別に、小紅書、抖音、WeChat、Bilibili、X、YouTube、TikTok、LinkedInなどの候補を探せる。確認したREADMEにはスキル189件とMCPツール・オープンソース基盤27件が記載されている（メタデータ更新日2026-11-05）。"
+    },
+    {
+      "name": "Download Anything (DA)",
+      "genre": "other",
+      "url": "https://github.com/nengong/download-anything",
+      "repo": "nengong/download-anything",
+      "license": "unknown",
+      "stars": 251,
+      "language": "Python",
+      "created": "2026-11-04",
+      "updated": "2026-11-08",
+      "forks": 6,
+      "open_issues": 1,
+      "commits_30d": 32,
+      "commit_cadence": "daily",
+      "commits_90d": 32,
+      "size_kb": 451,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEではMITと案内されているが、添付の測定値ではlicenseがunknown。対象プラットフォームごとの記載機能や取得可否は、実際の動作を独立に確認していない。 GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-22",
+      "first_seen": "2026-11-22",
+      "sources": [
+        "https://x.com/GitTrend0x/status/2122653626900332544"
+      ],
+      "fetched_at": "2026-11-17T23:27:57.115054+00:00",
+      "path": "entries/other/nengong-download-anything.md",
+      "summary": "READMEによると、CLIとAgent Skillの2つの入口から、動画・画像・音声・記事・論文・電子書籍・共有ファイルなどを取得できる。字幕、カバー画像、独立音声トラック、BibTeX、Markdown、メタデータなどの付属ファイル保存、ファイル形式の検証、Obsidian Vaultへの同期も説明されている。対応"
     },
     {
       "name": "小浣熊阅读",
