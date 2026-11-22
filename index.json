@@ -1,5 +1,5 @@
 {
-  "count": 1348,
+  "count": 1349,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -14504,6 +14504,37 @@
       "last_release_at": "2026-11-16",
       "path": "entries/coding-agent/jazzenchen-agent-hud-open.md",
       "summary": "画面上でエージェントの進捗、クォータ、残高、直近24時間のトークン使用状況、セッションを表示します。許可要求への応答や質問への回答、セッションへの復帰に対応します。組み込みMCPサーバーを使ったエージェント間メッセージ送信、セッション開始、HUD表示のカスタマイズもREADMEに記載されています。"
+    },
+    {
+      "name": "Boring Marketing Skills",
+      "genre": "coding-agent",
+      "url": "https://github.com/boringmarketer/boring-marketing-skills",
+      "repo": "boringmarketer/boring-marketing-skills",
+      "license": "MIT",
+      "stars": 518,
+      "language": "Python",
+      "created": "2026-11-16",
+      "updated": "2026-11-17",
+      "forks": 201,
+      "open_issues": 1,
+      "commits_30d": 7,
+      "commit_cadence": "weekly",
+      "commits_90d": 7,
+      "size_kb": 1143,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "作者は実キャンペーン由来の知見や効果を述べていますが、READMEだけでは独立した検証を確認できません。",
+      "type": "repo",
+      "added": "2026-11-22",
+      "first_seen": "2026-11-22",
+      "sources": [
+        "https://x.com/GitTrend0x/status/2122653626900332544"
+      ],
+      "fetched_at": "2026-11-17T23:28:54.127105+00:00",
+      "path": "entries/coding-agent/boringmarketer-boring-marketing-skills.md",
+      "summary": "Claude Code、Codex、Cursorなどのエージェントに追加する32種類のマーケティングスキルを提供。地域ビジネス向けの調査、ポジショニング、コピー、ページ作成、SEO、AI検索、広告、メール、コンテンツ制作などを扱います。READMEでは各スキルが有料ツールなしで動くと説明しています。"
     },
     {
       "name": "qiaomu-seo",

@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1348 件 — リポジトリ 947, リンク集 120, 記事 214, モデル 53, プロンプト 14 / ⚑ 要確認 1088 件
+収録 1349 件 — リポジトリ 948, リンク集 120, 記事 214, モデル 53, プロンプト 14 / ⚑ 要確認 1089 件
 
-## リポジトリ（947）
+## リポジトリ（948）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -225,7 +225,7 @@
 | [Pay Small Check](entries/other/ahmardchain-pay-small-check.md) ⚑ | 1 | 0 | 毎日 | 32 | 2026-11-07 | 2026-11-16 |  | MIT |
 | [LapDraw](entries/other/sachinyadavaug20-lapdraw.md) ⚑ | 0 | 0 | 毎日 | 22 | 2026-11-07 | 2026-11-13 |  | MIT |
 
-### コーディングエージェント（143）
+### コーディングエージェント（144）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -333,6 +333,7 @@
 | [DSH Game Studio](entries/coding-agent/zseven-w-dsh-game-studio.md) ⚑ | 569 | 47 | 週次 | 11 | 2026-11-09 | 2026-11-16 |  | MIT |
 | [Diorama](entries/coding-agent/sloemo01-diorama.md) ⚑ | 566 | 48 | 毎日 | 38 | 2026-11-16 | 2026-11-16 |  | MIT |
 | [Agent HUD](entries/coding-agent/jazzenchen-agent-hud-open.md) ⚑ | 553 | 81 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 |  | Apache-2.0 |
+| [Boring Marketing Skills](entries/coding-agent/boringmarketer-boring-marketing-skills.md) ⚑ | 518 | 201 | 週次 | 7 | 2026-11-17 | 2026-11-17 | 2026-11-22 | MIT |
 | [qiaomu-seo](entries/coding-agent/joeseesun-qiaomu-seo.md) ⚑ | 476 | 62 | 停滞 | 0 | 2026-08-03 | 2026-11-16 |  | MIT |
 | [simcraft](entries/coding-agent/dotslashsimran-simcraft.md) ⚑ | 470 | 36 | 月次 | 3 | 2026-11-09 | 2026-11-16 |  | MIT |
 | [SeeCut](entries/coding-agent/yeje-cpu-seecut.md) ⚑ | 464 | 85 | 月次 | 2 | 2026-10-30 | 2026-11-16 |  | unknown |
@@ -349,7 +350,7 @@
 | [open-source-hands](entries/coding-agent/abouchedidxcode-open-source-hands.md) ⚑ | 216 | 31 | 月次 | 1 | 2026-11-03 | 2026-11-16 |  | MIT |
 | [Dual-Brain — 設計とコードの二視点レビュー用スキル](entries/coding-agent/sleeplesshan-dual-brain.md) ⚑ | 155 | 11 | 週次 | 4 | 2026-11-06 | 2026-11-16 |  | MIT |
 | [quicksilver](entries/coding-agent/uditakhourii-quicksilver.md) ⚑ | 142 | 12 | 停滞 | 0 | 2026-09-25 | 2026-11-16 |  | MIT |
-| [Hill Climb](entries/coding-agent/bil0000-hill-climb.md) ⚑ | 140 | 5 | 週次 | 8 | 2026-11-12 | 2026-11-17 | 2026-11-22 | MIT |
+| [Hill Climb](entries/coding-agent/bil0000-hill-climb.md) ⚑ | 140 | 5 | 週次 | 8 | 2026-11-12 | 2026-11-17 |  | MIT |
 | [Flecha](entries/coding-agent/lucianodiisouza-flecha-browser.md) ⚑ | 137 | 22 | 毎日 | 100+ | 2026-11-11 | 2026-11-16 |  | MIT |
 | [astro-conversion-kit](entries/coding-agent/ethanplusai-astro-conversion-kit.md) ⚑ | 132 | 25 | 毎日 | 100+ | 2026-10-31 | 2026-11-16 |  | MIT |
 | [Motion AI Kit](entries/coding-agent/motiondivision-ai-kit.md) ⚑ | 119 | 17 | 週次 | 8 | 2026-11-04 | 2026-11-16 |  | unknown |
@@ -2184,6 +2185,7 @@
 - [DSH Game Studio](entries/coding-agent/zseven-w-dsh-game-studio.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Diorama](entries/coding-agent/sloemo01-diorama.md) — unverified / 一次資料で未確認: 有効性・実行条件。
 - [Agent HUD](entries/coding-agent/jazzenchen-agent-hud-open.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
+- [Boring Marketing Skills](entries/coding-agent/boringmarketer-boring-marketing-skills.md) — unverified / 作者は実キャンペーン由来の知見や効果を述べていますが、READMEだけでは独立した検証を確認できません。
 - [qiaomu-seo](entries/coding-agent/joeseesun-qiaomu-seo.md) — unverified / 一次資料で未確認: 技術背景・有効性。
 - [simcraft](entries/coding-agent/dotslashsimran-simcraft.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [SeeCut](entries/coding-agent/yeje-cpu-seecut.md) — unverified / README says the workflow has only been tested on macOS. The author reports Claude Code tested and other skill-capable agents theoretically compatible; those other agents are not independently verified here. An Antigravity CLI account and sufficient usage quota are required for video review and self-iteration. GitHub APIでライセンスを確認できていません。
