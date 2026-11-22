@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1273 件 — リポジトリ 877, リンク集 120, 記事 209, モデル 53, プロンプト 14 / ⚑ 要確認 1021 件
+収録 1274 件 — リポジトリ 878, リンク集 120, 記事 209, モデル 53, プロンプト 14 / ⚑ 要確認 1021 件
 
-## リポジトリ（877）
+## リポジトリ（878）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -577,7 +577,7 @@
 | [remotion-ffmpeg-skill](entries/video-gen/kajisho5-remotion-ffmpeg-skill.md) ⚑ | 8 | 0 | 毎日 | 77 | 2026-11-14 | 2026-11-17 | 2026-11-22 | MIT |
 | [BennyDaBall930/comfyui_hyperflow_int8_nodes](entries/video-gen/bennydaball930-comfyui_hyperflow_int8_nodes.md) ⚑ | 3 | 0 | 週次 | 10 | 2026-11-09 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
 
-### 3D・モーション（77）
+### 3D・モーション（78）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -597,6 +597,7 @@
 | [Jolt Physics](entries/3d-motion/jrouwe-joltphysics.md) ⚑ | 12,326 | 1,027 | 毎日 | 60 | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
 | [FreeMoCap](entries/3d-motion/freemocap-freemocap.md) ⚑ | 10,824 | 1,036 | 週次 | 5 | 2026-11-14 | 2026-11-16 | 2026-11-22 | AGPL-3.0 |
 | [@react-three/drei](entries/3d-motion/pmndrs-drei.md) ⚑ | 10,167 | 873 | 月次 | 0 | 2026-10-21 | 2026-11-16 | 2026-11-22 | MIT |
+| [TripoSR](entries/3d-motion/vast-ai-research-triposr.md) | 7,409 | 959 | 停滞 | 0 | 2026-06-04 | 2026-11-17 | 2026-11-22 | MIT |
 | [Text-to-Lottie](entries/3d-motion/diffusionstudio-lottie.md) ⚑ | 5,763 | 304 | 停滞 | 0 | 2026-07-25 | 2026-11-16 | 2026-11-22 | MIT |
 | [Tweakpane](entries/3d-motion/cocopon-tweakpane.md) ⚑ | 4,699 | 140 | 停滞 | 0 | 2026-03-15 | 2026-11-16 | 2026-11-22 | MIT |
 | [Kimodo](entries/3d-motion/nv-tlabs-kimodo.md) ⚑ | 4,241 | 473 | 月次 | 0 | 2026-10-15 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
