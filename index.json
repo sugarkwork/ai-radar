@@ -1,5 +1,5 @@
 {
-  "count": 1336,
+  "count": 1337,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -29733,6 +29733,37 @@
       "fetched_at": "2026-11-10T12:33:06Z",
       "path": "entries/other/moritzkremb-jev-voice-browser.md",
       "summary": "音声やテキストでページ移動、検索、クリック、入力、スクロール、タブ切り替えを指示できる。READMEによると、対象要素の候補は最大100件で、iframe内の要素は対象外。"
+    },
+    {
+      "name": "Hishel",
+      "genre": "other",
+      "url": "https://github.com/karpetrosyan/hishel",
+      "repo": "karpetrosyan/hishel",
+      "license": "BSD-3-Clause",
+      "stars": 422,
+      "language": "Python",
+      "created": "2023-07-15",
+      "updated": "2026-11-10",
+      "forks": 57,
+      "open_issues": 7,
+      "commits_30d": 14,
+      "commit_cadence": "weekly",
+      "commits_90d": 28,
+      "size_kb": 3622,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 有効性・実行条件。",
+      "type": "repo",
+      "added": "2026-11-22",
+      "first_seen": "2026-11-22",
+      "sources": [
+        "https://x.com/irongiantXBT/status/2122709093102285099"
+      ],
+      "fetched_at": "2026-11-17T23:18:17.509830+00:00",
+      "path": "entries/other/karpetrosyan-hishel.md",
+      "summary": "PythonでHTTPキャッシュを追加するライブラリ。READMEによるとHTTPX、HTTPX2、Requests、ASGIアプリケーションに少ないコード変更で統合でき、FastAPIにも対応。RFC 9111に従うモード、SQLite・Redisまたは独自ストレージ、同期・非同期処理、TTL・TTI・サイズ制限、リ"
     },
     {
       "name": "ResumeForge",
