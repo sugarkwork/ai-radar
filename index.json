@@ -1,5 +1,5 @@
 {
-  "count": 1290,
+  "count": 1291,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -31116,6 +31116,37 @@
       "last_release_at": "2026-11-08",
       "path": "entries/prompt-design/guntilb-anima-prompt-generator.md",
       "summary": "LM StudioのローカルLLMを使いAnima向け画像指示を作るAnima-Prompt-Generator。"
+    },
+    {
+      "name": "SU Motion Top 12",
+      "genre": "prompt-design",
+      "url": "https://github.com/doublesq97-ui/su-motion-top12",
+      "repo": "doublesq97-ui/su-motion-top12",
+      "license": "MIT",
+      "stars": 5,
+      "language": "HTML",
+      "created": "2026-07-13",
+      "updated": "2026-07-28",
+      "forks": 0,
+      "open_issues": 0,
+      "commits_30d": 0,
+      "commit_cadence": "stale",
+      "commits_90d": 0,
+      "size_kb": 14439,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 有効性・依存関係。",
+      "type": "repo",
+      "added": "2026-11-22",
+      "first_seen": "2026-11-22",
+      "sources": [
+        "https://x.com/Sukiea1008/status/2122512547438096467"
+      ],
+      "fetched_at": "2026-11-17T06:22:14.736750+00:00",
+      "path": "entries/prompt-design/doublesq97-ui-su-motion-top12.md",
+      "summary": "README では、12 種の高頻度 Motion について選定、実装、検証の指針を提供すると説明されています。各 Motion には意図、トリガー、反例、時間、イージング、低機能時の代替策が含まれると記載されています。Web は CSS、Web Animations API、GSAP、Motion、Canvas など"
     },
     {
       "type": "prompt",
