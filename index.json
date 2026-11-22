@@ -1,5 +1,5 @@
 {
-  "count": 1281,
+  "count": 1282,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -27535,6 +27535,37 @@
       "last_release_at": "",
       "path": "entries/other/echris6-motion-video-kit.md",
       "summary": "15〜40秒のビジネス向けローンチ風CMを、AI生成映像＋HTML/GSAPのモーション（必要ならThree.js）で作るためのClaude Codeスキル。SKILL.md が「ブリーフ→参考選定→絵コンテ→素材→部品単体→本編→批評→音→納品」の9段階の手順を定義している。"
+    },
+    {
+      "name": "LocalThings",
+      "genre": "other",
+      "url": "https://github.com/mbillow/localthings",
+      "repo": "mbillow/localthings",
+      "license": "MIT",
+      "stars": 1383,
+      "language": "Python",
+      "created": "2026-06-30",
+      "updated": "2026-11-15",
+      "forks": 141,
+      "open_issues": 92,
+      "commits_30d": 100,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 6485,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 有効性・実行条件。",
+      "type": "repo",
+      "added": "2026-11-22",
+      "first_seen": "2026-11-22",
+      "sources": [
+        "https://x.com/Ryrenz/status/2119137828927910070"
+      ],
+      "fetched_at": "2026-11-17T03:14:10.066449+00:00",
+      "path": "entries/other/mbillow-localthings.md",
+      "summary": "Home Assistantから、SmartThingsアプリに対応するSamsung家電を家庭内ネットワーク経由で操作・監視する。READMEでは洗濯機、乾燥機、冷蔵庫、エアコン、オーブンなどを挙げ、電源、運転モード、開始・一時停止・停止、温度、残り時間、ドア状態、エネルギー使用量など、家電が報告する情報に応じた操作"
     },
     {
       "repo": "realZachi/pg-jev",
