@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1343 件 — リポジトリ 942, リンク集 120, 記事 214, モデル 53, プロンプト 14 / ⚑ 要確認 1083 件
+収録 1344 件 — リポジトリ 943, リンク集 120, 記事 214, モデル 53, プロンプト 14 / ⚑ 要確認 1084 件
 
-## リポジトリ（942）
+## リポジトリ（943）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -750,7 +750,7 @@
 | [lab-tts](entries/tts-audio/lakimi-ai-systems-lab-tts.md) ⚑ | 8 | 0 | 月次 | 3 | 2026-11-03 | 2026-11-10 | 2026-11-10 | Apache-2.0 |
 | [Voxarium](entries/tts-audio/ahmadmansy-voxarium.md) ⚑ | 7 | 0 | 毎日 | 40 | 2026-11-08 | 2026-11-13 | 2026-11-13 | AGPL-3.0 |
 
-### モデル推論・配信（39）
+### モデル推論・配信（40）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -759,6 +759,7 @@
 | [llama.cpp](entries/model-serving/ggml-org-llama.cpp.md) ⚑ | 135,345 | 25,656 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
 | [vLLM](entries/model-serving/vllm-project-vllm.md) ⚑ | 97,050 | 24,904 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
 | [OmniRoute](entries/model-serving/cheaper-inference-omniroute.md) | 88,094 | 13,517 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [LiteLLM](entries/model-serving/berriai-litellm.md) ⚑ | 63,442 | 13,367 | 毎日 | 100+ | 2026-11-17 | 2026-11-17 | 2026-11-22 | unknown |
 | [LocalAI](entries/model-serving/mudler-localai.md) ⚑ | 50,392 | 4,611 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
 | [exo](entries/model-serving/exo-explore-exo.md) ⚑ | 48,467 | 3,625 | 毎日 | 81 | 2026-11-06 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
 | [Jan](entries/model-serving/janhq-jan.md) ⚑ | 45,747 | 3,179 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | unknown |
@@ -2393,6 +2394,7 @@
 - [Open WebUI](entries/model-serving/open-webui-open-webui.md) — unverified / READMEの説明に基づく機能情報です。実機での動作や効果は独立検証されていません。 GitHub APIでライセンスを確認できていません。
 - [llama.cpp](entries/model-serving/ggml-org-llama.cpp.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係。
 - [vLLM](entries/model-serving/vllm-project-vllm.md) — unverified / READMEには、必要なGPU・CPUの最低要件や対応するソフトウェアのバージョン条件が記載されていません。
+- [LiteLLM](entries/model-serving/berriai-litellm.md) — unverified / GitHub APIの取得データではライセンスがunknownです。ライセンス条件は確認できていません。 GitHub APIでライセンスを確認できていません。
 - [LocalAI](entries/model-serving/mudler-localai.md) — unverified / チーム共有やアドオンなどREADMEでdevelopment buildsとされる機能は、通常の最新リリースでは利用できるか不明。README記載の版情報は取得時点の独立確認ではない。
 - [exo](entries/model-serving/exo-explore-exo.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係。
 - [Jan](entries/model-serving/janhq-jan.md) — unverified / GitHub APIでライセンスを確認できていません。
