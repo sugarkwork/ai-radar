@@ -1,5 +1,5 @@
 {
-  "count": 1338,
+  "count": 1339,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -28698,6 +28698,37 @@
       "last_release_at": "2026-11-15",
       "path": "entries/other/hanxi-cups-web.md",
       "summary": "ブラウザーからファイルを送ってCUPS経由で印刷し、印刷記録を追跡するWebツール。READMEにはPDF・画像・Office文書などの印刷、スキャン、フォント管理、プリンタードライバー管理が記載されている。"
+    },
+    {
+      "name": "requests-cache",
+      "genre": "other",
+      "url": "https://github.com/requests-cache/requests-cache",
+      "repo": "requests-cache/requests-cache",
+      "stars": 1508,
+      "forks": 174,
+      "open_issues": 23,
+      "size_kb": 5551,
+      "language": "Python",
+      "created": "2012-04-12",
+      "updated": "2026-11-17",
+      "archived": false,
+      "license": "BSD-2-Clause",
+      "commits_30d": 5,
+      "commits_90d": 39,
+      "commit_cadence": "weekly",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景・有効性。",
+      "type": "repo",
+      "added": "2026-11-22",
+      "first_seen": "2026-11-22",
+      "sources": [
+        "https://x.com/irongiantXBT/status/2122709093102285099"
+      ],
+      "fetched_at": "2026-11-17T23:19:26.106033+00:00",
+      "path": "entries/other/requests-cache-requests-cache.md",
+      "summary": "requestsのSessionに近い使い方でHTTP応答をキャッシュし、SQLite、Redis、MongoDB、DynamoDBなどの保存先に対応するとREADMEは説明しています。Cache-Controlヘッダーや独自の有効期限を設定できます。キャッシュ済み応答の速度はREADMEで「sub-milliseco"
     },
     {
       "repo": "echris6/motion-video-kit",
