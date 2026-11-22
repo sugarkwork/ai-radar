@@ -4,7 +4,7 @@ name: VRMExMR
 genre: 3d-motion
 url: https://github.com/camenduru/VRMExMR
 license: 未確認（API は NOASSERTION。ExMR 側の条件を確認）
-stars: 15
+stars: 16
 language: Python
 created: 2026-11-04
 updated: "2026-11-05"
@@ -23,7 +23,7 @@ commits_90d: 39
 commit_cadence: "daily"
 size_kb: 28180
 archived: false
-fetched_at: "2026-11-09T21:30:32Z"
+fetched_at: "2026-11-16T21:32:18Z"
 last_release: ""
 last_release_at: ""
 ---

@@ -4,11 +4,11 @@ genre: "other"
 url: "https://github.com/effekseer/Effekseer"
 repo: "effekseer/Effekseer"
 license: "MIT"
-stars: 2063
+stars: 2094
 language: "C"
 created: "2013-10-19"
 updated: "2026-10-30"
-forks: 330
+forks: 337
 open_issues: 89
 commits_30d: 17
 commit_cadence: "weekly"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-11"
 first_seen: "2026-11-11"
 sources: ["https://x.com/RealMarvelX/status/2118330503040221345"]
-fetched_at: "2026-11-11T20:10:16.743784+00:00"
+fetched_at: "2026-11-16T21:59:58Z"
+last_release: "1808"
+last_release_at: "2026-10-30"
 ---
 
 # Effekseer

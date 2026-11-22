@@ -3,17 +3,17 @@ repo: "browser-use/jev-ultrafast"
 name: "Jev Ultrafast"
 genre: "agent-framework"
 url: "https://github.com/browser-use/jev-ultrafast"
-stars: 24346
-forks: 1874
-open_issues: 210
-size_kb: 4519
+stars: 24546
+forks: 1888
+open_issues: 214
+size_kb: 4504
 language: "Python"
 created: "2026-09-16"
-updated: "2026-11-03"
+updated: "2026-11-11"
 archived: false
 license: "MIT"
-commits_30d: 1
-commits_90d: 4
+commits_30d: 2
+commits_90d: 5
 commit_cadence: "monthly"
 flags: ["unverified"]
 risk_notes: ["最新リリースのタグと公開日時、外部APIの現行料金・利用条件は未確認。", "性能値は開発元の報告。独立した再実行は行っておらず、別サイトや別環境での性能は未確認。"]
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-11"
 first_seen: "2026-11-11"
 sources: ["https://x.com/thegreatest_sv/status/2115779290033803462"]
-fetched_at: "2026-11-10T12:32:47+00:00"
+fetched_at: "2026-11-16T21:36:54Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # Jev Ultrafast — 操作の選択と入力文の生成を分けるブラウザエージェント

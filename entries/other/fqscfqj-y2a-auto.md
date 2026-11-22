@@ -5,23 +5,25 @@ url: "https://github.com/fqscfqj/Y2A-Auto"
 repo: "fqscfqj/Y2A-Auto"
 flags: ["unverified"]
 risk_notes: "The supplied README does not establish what permissions or platform terms apply to reposting videos; verify these before use."
-stars: 4749
-forks: 797
+stars: 5018
+forks: 850
 open_issues: 13
-size_kb: 54396
+size_kb: 54959
 language: "Python"
 created: "2025-05-10"
-updated: "2026-10-28"
+updated: "2026-11-16"
 archived: false
 license: "GPL-3.0"
-commits_30d: 4
-commits_90d: 37
+commits_30d: 9
+commits_90d: 29
 commit_cadence: "weekly"
 type: "repo"
 added: "2026-11-11"
 first_seen: "2026-11-11"
 sources: ["https://x.com/superfang119/status/2118323026576253399"]
-fetched_at: "2026-11-11T19:04:09.729471+00:00"
+fetched_at: "2026-11-16T22:00:30Z"
+last_release: "4.12.0"
+last_release_at: "2026-11-16"
 ---
 
 # Y2A-Auto

@@ -6,7 +6,7 @@ url: "https://github.com/KohakuBlueleaf/Tokenomos"
 author: "KohakuBlueleaf (Shih-Ying Yeh)"
 repo: "KohakuBlueleaf/Tokenomos"
 license: "Apache-2.0"
-stars: 26
+stars: 28
 language: "Python"
 created: "2026-10-31"
 updated: "2026-11-05"
@@ -21,7 +21,7 @@ commits_30d: 20
 commit_cadence: "daily"
 size_kb: 3299
 archived: false
-fetched_at: "2026-11-09T21:40:04Z"
+fetched_at: "2026-11-16T21:56:40Z"
 last_release: "v0.0.1"
 last_release_at: "2026-10-31"
 commits_90d: 20

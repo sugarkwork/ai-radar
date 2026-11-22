@@ -4,16 +4,16 @@ genre: "model-serving"
 url: "https://github.com/ggml-org/llama.cpp"
 repo: "ggml-org/llama.cpp"
 license: "MIT"
-stars: 135242
+stars: 135345
 language: "C++"
 created: "2023-03-10"
 updated: "2026-11-16"
 forks: 25656
-open_issues: 2624
+open_issues: 2625
 commits_30d: 100
 commit_cadence: "daily"
 commits_90d: 100
-size_kb: 501302
+size_kb: 502924
 archived: false
 flags: ["unverified"]
 risk_notes: "一次資料で未確認: 技術背景・有効性・依存関係。"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-16"
 first_seen: "2026-11-16"
 sources: ["https://x.com/naka_1717/status/2119034856676159987"]
-fetched_at: "2026-11-16T05:27:49.192451+00:00"
+fetched_at: "2026-11-16T21:56:21Z"
+last_release: "v1.0.0"
+last_release_at: "2026-11-13"
 ---
 
 # llama.cpp

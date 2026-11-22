@@ -3,13 +3,13 @@ repo: "dgtlmoon/changedetection.io"
 name: "changedetection.io"
 genre: "mcp-server"
 url: "https://github.com/dgtlmoon/changedetection.io"
-stars: 35707
-forks: 2230
-open_issues: 386
-size_kb: 78237
+stars: 35853
+forks: 2255
+open_issues: 387
+size_kb: 76727
 language: "Python"
 created: "2021-01-27"
-updated: "2026-11-10"
+updated: "2026-11-16"
 archived: false
 license: "Apache-2.0"
 commits_30d: 100
@@ -22,7 +22,8 @@ type: "repo"
 added: "2026-11-10"
 first_seen: "2026-11-10"
 sources: ["https://x.com/thegreatest_sv/status/2117960732184633699"]
-fetched_at: "2026-11-10T11:12:36+00:00"
+fetched_at: "2026-11-16T21:54:00Z"
+last_release_at: "2026-11-09"
 ---
 
 # changedetection.io｜Webページの変更履歴をMCPでAIから参照

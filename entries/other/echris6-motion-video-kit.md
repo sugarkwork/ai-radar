@@ -4,13 +4,13 @@ name: "Motion Video Kit"
 genre: "other"
 url: "https://github.com/echris6/motion-video-kit"
 license: "MIT"
-stars: 1378
+stars: 1413
 language: "Python"
 created: "2026-09-27"
 updated: "2026-10-14"
-forks: 123
+forks: 126
 open_issues: 0
-commits_30d: 1
+commits_30d: 0
 commit_cadence: "monthly"
 commits_90d: 7
 size_kb: 68
@@ -21,7 +21,7 @@ type: "repo"
 added: "2026-11-07"
 first_seen: "2026-11-07"
 sources: ["https://x.com/heyrimsha/status/2118662273044807904"]
-fetched_at: "2026-11-09T21:40:57Z"
+fetched_at: "2026-11-16T21:59:56Z"
 last_release: ""
 last_release_at: ""
 ---

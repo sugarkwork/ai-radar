@@ -5,19 +5,19 @@ name: "herdr"
 genre: "coding-agent"
 url: "https://github.com/herdrdev/herdr"
 license: "Apache-2.0"
-stars: 49753
+stars: 51387
 language: "Rust"
 created: "2026-03-27"
 updated: "2026-11-07"
-forks: 4017
-open_issues: 459
-commits_30d: 49
+forks: 4153
+open_issues: 507
+commits_30d: 15
 commits_90d: 100
-commit_cadence: "daily"
+commit_cadence: "weekly"
 size_kb: 49708
 archived: false
 added: "2026-11-09"
-fetched_at: "2026-11-09T21:36:09Z"
+fetched_at: "2026-11-16T21:44:45Z"
 flags: ["unverified"]
 risk_notes: "Apache-2.0。再起動後は保存レイアウトや対応エージェントのセッションを復元できる場合があるが、プロセス継続とは異なる。 実行・品質は未検証。"
 sources: ["https://x.com/i/status/2119588334615802105", "https://github.com/herdrdev/herdr"]

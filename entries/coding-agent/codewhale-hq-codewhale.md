@@ -6,13 +6,13 @@ url: "https://github.com/codewhale-hq/Codewhale"
 last_release: "v0.10.2"
 flags: ["unverified"]
 risk_notes: ["開発元のデモはスクリプト化したテストモデルを使用。実タスクでの成功率、モデル間の性能差、OS別の動作は未検証。", "既定の編集承認設定は公式文書間で記述が異なるため、利用する版とセッションの権限を確認する。リリースのタイムゾーン付き公開日時は未確認。"]
-stars: 41173
-forks: 3569
-open_issues: 71
-size_kb: 354208
+stars: 41184
+forks: 3572
+open_issues: 90
+size_kb: 377347
 language: "Rust"
 created: "2026-01-19"
-updated: "2026-11-10"
+updated: "2026-11-16"
 archived: false
 license: "MIT"
 commits_30d: 100
@@ -22,7 +22,8 @@ type: "repo"
 added: "2026-11-10"
 first_seen: "2026-11-10"
 sources: ["https://x.com/opensourcelab9/status/2114967848775041508"]
-fetched_at: "2026-11-10T11:45:26+00:00"
+fetched_at: "2026-11-16T21:43:19Z"
+last_release_at: "2026-10-24"
 ---
 
 # Codewhale｜モデルを選べるターミナル向けコーディングエージェント

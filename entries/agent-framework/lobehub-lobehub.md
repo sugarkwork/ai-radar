@@ -15,19 +15,19 @@ repo: "lobehub/lobehub"
 license: "NOASSERTION"
 language: "TypeScript"
 created: "2023-05-21"
-updated: "2026-11-09"
-stars: 84579
-forks: 16168
-open_issues: 1326
+updated: "2026-11-16"
+stars: 85642
+forks: 16345
+open_issues: 1378
 commits_30d: 100
 commits_90d: 100
 commit_cadence: "daily"
-size_kb: 612782
+size_kb: 629794
 archived: false
-fetched_at: "2026-11-09T21:33:41Z"
+fetched_at: "2026-11-16T21:39:06Z"
 license_detail: "原チェックのLICENSE/README解釈: LobeHub Community License。APIのSPDX判定とは別。利用前に現行本文を確認。"
-last_release: "v2.3.2"
-last_release_at: "2026-11-06"
+last_release: "v2.3.3"
+last_release_at: "2026-11-12"
 ---
 
 # lobehub/lobehub

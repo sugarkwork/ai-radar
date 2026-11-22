@@ -4,16 +4,16 @@ genre: "other"
 url: "https://github.com/arcsin1/oh-my-ppt"
 repo: "arcsin1/oh-my-ppt"
 license: "Apache-2.0"
-stars: 2525
+stars: 2531
 language: "TypeScript"
 created: "2026-04-24"
-updated: "2026-11-04"
+updated: "2026-11-16"
 forks: 247
-open_issues: 11
-commits_30d: 12
+open_issues: 10
+commits_30d: 13
 commit_cadence: "weekly"
-commits_90d: 29
-size_kb: 81154
+commits_90d: 30
+size_kb: 81196
 archived: false
 flags: ["unverified"]
 risk_notes: "README describes PPTX import and export fidelity as close to 100% in common cases, while noting that complex shapes, charts, tables, animations, fonts, and assets can affect results and remain under improvement."
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-14"
 first_seen: "2026-11-14"
 sources: ["https://x.com/bkdgiffug/status/2118826257442042003"]
-fetched_at: "2026-11-14T12:09:55.564441+00:00"
+fetched_at: "2026-11-16T21:58:47Z"
+last_release: "v2.11.0"
+last_release_at: "2026-11-16"
 ---
 
 # Oh My PPT

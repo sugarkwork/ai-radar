@@ -4,16 +4,16 @@ genre: "coding-agent"
 url: "https://github.com/ai-job-search-dev/ai-job-search"
 repo: "ai-job-search-dev/ai-job-search"
 license: "MIT"
-stars: 71924
+stars: 72085
 language: "Python"
 created: "2026-03-18"
-updated: "2026-11-12"
-forks: 23161
-open_issues: 70
+updated: "2026-11-16"
+forks: 23191
+open_issues: 71
 commits_30d: 100
 commit_cadence: "daily"
 commits_90d: 100
-size_kb: 5777
+size_kb: 5840
 archived: false
 flags: ["unverified"]
 risk_notes: "求人ポータル検索スキルはデンマーク市場向け。個人情報を含むプロフィールファイルの保存先と、公開forkではそのファイルが追跡対象になる点に注意。効果の数値は作者の利用報告であり、独立検証ではない。"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-16"
 first_seen: "2026-11-16"
 sources: ["https://x.com/bkdgiffug/status/2119015504304107839"]
-fetched_at: "2026-11-16T01:27:27.179782+00:00"
+fetched_at: "2026-11-16T21:42:26Z"
+last_release: "v2.0.0"
+last_release_at: "2026-11-16"
 ---
 
 # AI Job Search

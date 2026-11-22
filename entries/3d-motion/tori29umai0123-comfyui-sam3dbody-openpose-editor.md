@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-14"
 first_seen: "2026-11-14"
 sources: ["https://x.com/tori29umai/status/2118716616267743545"]
-fetched_at: "2026-11-13T20:15:17.228402+00:00"
+fetched_at: "2026-11-16T21:35:14Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # ComfyUI-SAM3DBody-openpose-editor

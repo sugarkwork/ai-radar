@@ -6,13 +6,13 @@ url: "https://github.com/gkjohnson/three-gpu-pathtracer"
 license: "MIT"
 flags: ["unverified"]
 risk_notes: ["GitHub の最新リリースは未確認。依存関係と導入手順は main ブランチの公開資料に基づく。", "描画速度、収束時間、画質、端末別の互換性、特定のAIモデルとの連携は実測していない。"]
-stars: 2037
-forks: 200
-open_issues: 58
-size_kb: 955374
+stars: 2056
+forks: 201
+open_issues: 68
+size_kb: 955780
 language: "JavaScript"
 created: "2021-11-03"
-updated: "2026-11-10"
+updated: "2026-11-16"
 archived: false
 commits_30d: 100
 commits_90d: 100
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-10"
 first_seen: "2026-11-10"
 sources: ["https://x.com/okapi_fukugyo/status/2117616982518559161"]
-fetched_at: "2026-11-10T09:55:26+00:00"
+fetched_at: "2026-11-16T21:33:10Z"
+last_release: "v0.0.28"
+last_release_at: "2026-11-02"
 ---
 
 # three-gpu-pathtracer — Three.js のシーンを WebGPU でパストレーシング

@@ -4,16 +4,16 @@ name: "Blender"
 genre: "3d-motion"
 url: "https://github.com/blender/blender"
 license: "unknown"
-stars: 21829
+stars: 22112
 language: "C++"
 created: "2019-10-09"
-updated: "2026-11-10"
-forks: 3550
+updated: "2026-11-16"
+forks: 3610
 open_issues: 0
 commits_30d: 100
 commit_cadence: "daily"
 commits_90d: 100
-size_kb: 1448787
+size_kb: 1456421
 archived: false
 flags: ["unverified"]
 risk_notes: "GitHubミラーの最新リリース、発見投稿のClaudeによる全工程自動化、外部MCPとの接続、総費用、制作結果は未確認。レンダリング速度や画質の独立実測は行っていない。 GitHub APIでライセンスを確認できていません。"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-10"
 first_seen: "2026-11-10"
 sources: ["https://x.com/Y0urDumble/status/2117030430507401326"]
-fetched_at: "2026-11-10T08:16:10+00:00"
+fetched_at: "2026-11-16T21:32:09Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # Blender｜2.5Dアニメーションのシーン制作とレンダリング

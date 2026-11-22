@@ -4,12 +4,12 @@ name: "FireRed-OpenStoryline"
 genre: "agent-framework"
 url: "https://github.com/FireRedTeam/FireRed-OpenStoryline"
 license: "Apache-2.0"
-stars: 3658
+stars: 3692
 language: "Python"
 created: "2026-02-07"
 updated: "2026-07-31"
-forks: 429
-open_issues: 33
+forks: 434
+open_issues: 34
 commits_30d: 0
 commit_cadence: "stale"
 commits_90d: 0
@@ -21,7 +21,7 @@ type: "repo"
 added: "2026-11-07"
 first_seen: "2026-11-07"
 sources: ["https://x.com/heyrimsha/status/2118662273044807904"]
-fetched_at: "2026-11-09T21:32:59Z"
+fetched_at: "2026-11-16T21:37:56Z"
 last_release: ""
 last_release_at: ""
 ---

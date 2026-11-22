@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-15"
 first_seen: "2026-11-15"
 sources: ["https://x.com/NFT_Chen/status/2118977906474983767"]
-fetched_at: "2026-11-15T13:10:02.924099+00:00"
+fetched_at: "2026-11-16T21:56:00Z"
+last_release: "v1.1.0"
+last_release_at: "2026-11-11"
 ---
 
 # nf12

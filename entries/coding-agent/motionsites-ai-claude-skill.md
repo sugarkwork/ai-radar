@@ -4,9 +4,9 @@ name: "MotionSites Web Builder"
 genre: "coding-agent"
 url: "https://github.com/Motionsites-AI/claude-skill"
 license: "unknown"
-stars: 1935
-forks: 198
-open_issues: 1
+stars: 2160
+forks: 221
+open_issues: 2
 size_kb: 1942
 language: "Python"
 created: "2026-10-26"
@@ -22,7 +22,8 @@ type: "repo"
 added: "2026-11-10"
 first_seen: "2026-11-10"
 sources: ["https://x.com/opensourcelab9/status/2117504564941508613"]
-fetched_at: "2026-11-10T09:19:25Z"
+fetched_at: "2026-11-16T21:46:13Z"
+last_release_at: "2026-10-26"
 ---
 
 # MotionSites Web Builder — ページを実装し、スクリーンショットで点検するClaudeスキル

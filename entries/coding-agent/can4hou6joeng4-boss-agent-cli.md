@@ -4,16 +4,16 @@ genre: "coding-agent"
 url: "https://github.com/can4hou6joeng4/boss-agent-cli"
 repo: "can4hou6joeng4/boss-agent-cli"
 license: "MIT"
-stars: 2223
+stars: 2225
 language: "Python"
 created: "2026-03-20"
-updated: "2026-11-15"
-forks: 192
-open_issues: 3
+updated: "2026-11-16"
+forks: 194
+open_issues: 8
 commits_30d: 100
 commit_cadence: "daily"
 commits_90d: 100
-size_kb: 65779
+size_kb: 64222
 archived: false
 flags: []
 type: "repo"
@@ -21,7 +21,9 @@ added: "2026-11-15"
 first_seen: "2026-11-15"
 risk_notes: ""
 sources: ["https://x.com/bkdgiffug/status/2118983795194069108"]
-fetched_at: "2026-11-15T15:27:57.797316+00:00"
+fetched_at: "2026-11-16T21:42:52Z"
+last_release: "v3.4.72"
+last_release_at: "2026-11-16"
 ---
 
 # boss-agent-cli

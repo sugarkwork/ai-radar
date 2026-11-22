@@ -4,16 +4,16 @@ genre: "other"
 url: "https://github.com/ActivityWatch/activitywatch"
 repo: "ActivityWatch/activitywatch"
 license: "MPL-2.0"
-stars: 19621
+stars: 19655
 language: "Python"
 created: "2016-04-27"
-updated: "2026-11-13"
-forks: 1078
+updated: "2026-11-15"
+forks: 1079
 open_issues: 136
-commits_30d: 19
+commits_30d: 18
 commit_cadence: "weekly"
 commits_90d: 100
-size_kb: 1876
+size_kb: 1902
 archived: false
 flags: ["unverified"]
 risk_notes: "一次資料で未確認: 技術背景・有効性・依存関係・実行条件。"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-14"
 first_seen: "2026-11-14"
 sources: ["https://x.com/bkdgiffug/status/2118778945424212086"]
-fetched_at: "2026-11-14T05:15:44.648562+00:00"
+fetched_at: "2026-11-16T21:58:07Z"
+last_release: "v0.14.3"
+last_release_at: "2026-11-15"
 ---
 
 # ActivityWatch

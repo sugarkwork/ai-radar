@@ -3,8 +3,8 @@ name: "The Instagram agent skill"
 genre: "coding-agent"
 url: "https://github.com/Jakeschincariol/instagram-agent-skill"
 repo: "Jakeschincariol/instagram-agent-skill"
-stars: 6502
-forks: 1270
+stars: 6800
+forks: 1329
 open_issues: 61
 size_kb: 75
 language: "Python"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-15"
 first_seen: "2026-11-15"
 sources: ["https://x.com/Ryrenz/status/2121629259655520446"]
-fetched_at: "2026-11-15T08:13:46.838603+00:00"
+fetched_at: "2026-11-16T21:44:55Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # The Instagram agent skill

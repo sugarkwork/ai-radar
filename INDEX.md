@@ -12,125 +12,125 @@
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
-| [Free Programming Books](entries/other/ebookfoundation-free-programming-books.md) ⚑ | 401,413 | 67,628 | 毎日 | 46 | 2026-11-07 | 2026-11-11 | 2026-11-11 | CC-BY-4.0 |
+| [Free Programming Books](entries/other/ebookfoundation-free-programming-books.md) ⚑ | 401,702 | 67,883 | 毎日 | 46 | 2026-11-12 | 2026-11-16 | 2026-11-22 | CC-BY-4.0 |
 | [yt-dlp](entries/other/yt-dlp-yt-dlp.md) ⚑ | 206,601 | 18,169 | 毎日 | 26 | 2026-11-04 | 2026-11-10 | 2026-11-10 | Unlicense |
 | [MarkItDown](entries/other/microsoft-markitdown.md) ⚑ | 194,754 | 14,682 | 週次 | 9 | 2026-11-07 | 2026-11-10 | 2026-11-11 | MIT |
 | [Generative AI for Beginners](entries/other/microsoft-generative-ai-for-beginners.md) ⚑ | 123,543 | 66,422 | 毎日 | 66 | 2026-11-12 | 2026-11-15 | 2026-11-15 | MIT |
-| [Godot Engine](entries/other/godotengine-godot.md) ⚑ | 120,113 | 27,494 | 毎日 | 100+ | 2026-11-13 | 2026-11-14 | 2026-11-14 | MIT |
-| [Immich](entries/other/immich-app-immich.md) ⚑ | 119,119 | 7,592 | 毎日 | 100+ | 2026-11-13 | 2026-11-14 | 2026-11-14 | AGPL-3.0 |
+| [Godot Engine](entries/other/godotengine-godot.md) ⚑ | 120,279 | 27,542 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [Immich](entries/other/immich-app-immich.md) ⚑ | 119,382 | 7,632 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | AGPL-3.0 |
 | [Build a Large Language Model (From Scratch)](entries/other/rasbt-llms-from-scratch.md) ⚑ | 108,297 | 16,745 | 週次 | 13 | 2026-11-09 | 2026-11-12 | 2026-11-12 | unknown |
 | [OpenCut](entries/other/opencut-app-opencut.md) ⚑ | 98,341 | 9,823 | 停滞 | 0 | 2026-09-24 | 2026-11-14 | 2026-11-14 | MIT |
-| [career-ops](entries/other/career-ops-hq-career-ops.md) | 81,473 | 14,978 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [career-ops](entries/other/career-ops-hq-career-ops.md) | 83,084 | 15,257 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
 | [OBS Studio](entries/other/obsproject-obs-studio.md) ⚑ | 79,247 | 11,149 | 毎日 | 41 | 2026-11-10 | 2026-11-10 | 2026-11-10 | GPL-2.0 |
 | [OpenAI Cookbook](entries/other/openai-openai-cookbook.md) ⚑ | 77,132 | 13,068 | 週次 | 19 | 2026-11-14 | 2026-11-15 | 2026-11-15 | MIT |
-| [高性价比人生指南](entries/other/eternity4719-howtolivebetter.md) ⚑ | 75,551 | 6,695 | 毎日 | 89 | 2026-11-12 | 2026-11-13 | 2026-11-13 | CC-BY-4.0 |
+| [高性价比人生指南](entries/other/eternity4719-howtolivebetter.md) ⚑ | 76,109 | 6,760 | 毎日 | 79 | 2026-11-16 | 2026-11-16 | 2026-11-22 | CC-BY-4.0 |
 | [MediaCrawler](entries/other/nanmicoder-mediacrawler.md) ⚑ | 70,741 | 13,389 | 毎日 | 21 | 2026-11-09 | 2026-11-09 | 2026-11-10 | 未確認（API は NOASSERTION、標準ライセンスファイル無し） |
-| [FFmpeg](entries/other/ffmpeg-ffmpeg.md) ⚑ | 66,858 | 14,558 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | unknown |
+| [FFmpeg](entries/other/ffmpeg-ffmpeg.md) ⚑ | 67,396 | 14,648 | 毎日 | 52 | 2026-11-16 | 2026-11-16 | 2026-11-22 | unknown |
 | [MiniMind](entries/other/jingyaogong-minimind.md) ⚑ | 65,230 | 8,542 | 週次 | 10 | 2026-10-27 | 2026-11-14 | 2026-11-14 | Apache-2.0 |
 | [nanoGPT](entries/other/karpathy-nanogpt.md) ⚑ | 64,598 | 11,112 | 停滞 | 0 | 2025-11-12 | 2026-11-10 | 2026-11-10 | MIT |
 | [Memos](entries/other/usememos-memos.md) ⚑ | 64,375 | 4,946 | 毎日 | 74 | 2026-11-09 | 2026-11-10 | 2026-11-10 | MIT |
 | [nanochat](entries/other/karpathy-nanochat.md) ⚑ | 60,415 | 8,471 | 停滞 | 0 | 2026-09-07 | 2026-11-10 | 2026-11-10 | MIT |
 | [Jellyfin Server](entries/other/jellyfin-jellyfin.md) ⚑ | 59,334 | 5,810 | 毎日 | 60 | 2026-11-13 | 2026-11-14 | 2026-11-14 | GPL-2.0 |
-| [Motrix](entries/other/agalwood-motrix.md) ⚑ | 58,239 | 5,150 | 毎日 | 95 | 2026-11-09 | 2026-11-14 | 2026-11-14 | unknown |
+| [Motrix](entries/other/agalwood-motrix.md) ⚑ | 58,397 | 5,156 | 毎日 | 86 | 2026-11-16 | 2026-11-16 | 2026-11-22 | unknown |
 | [JADX](entries/other/skylot-jadx.md) ⚑ | 51,735 | 5,928 | 毎日 | 28 | 2026-11-08 | 2026-11-10 | 2026-11-10 | Apache-2.0 |
 | [PixiJS](entries/other/pixijs-pixijs.md) ⚑ | 48,675 | 5,143 | 毎日 | 37 | 2026-11-11 | 2026-11-12 | 2026-11-12 | MIT |
 | [Paperless-ngx](entries/other/paperless-ngx-paperless-ngx.md) ⚑ | 47,969 | 3,372 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | GPL-3.0 |
 | [SiYuan](entries/other/siyuan-note-siyuan.md) ⚑ | 47,217 | 3,115 | 毎日 | 100+ | 2026-11-14 | 2026-11-14 | 2026-11-14 | AGPL-3.0 |
 | [LosslessCut](entries/other/mifi-lossless-cut.md) ⚑ | 45,884 | 2,317 | 毎日 | 100+ | 2026-11-09 | 2026-11-10 | 2026-11-10 | GPL-2.0 |
-| [DuckDB](entries/other/duckdb-duckdb.md) | 42,947 | 4,180 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
-| [Postiz](entries/other/gitroomhq-postiz-app.md) ⚑ | 41,250 | 7,864 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-11 | AGPL-3.0 |
+| [DuckDB](entries/other/duckdb-duckdb.md) | 43,113 | 4,212 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [Postiz](entries/other/gitroomhq-postiz-app.md) ⚑ | 41,750 | 7,973 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | AGPL-3.0 |
 | [croc](entries/other/schollz-croc.md) ⚑ | 40,930 | 1,655 | 毎日 | 74 | 2026-11-13 | 2026-11-14 | 2026-11-14 | MIT |
 | [Maigret](entries/other/soxoj-maigret.md) ⚑ | 40,599 | 3,269 | 毎日 | 58 | 2026-11-13 | 2026-11-13 | 2026-11-14 | MIT |
 | [Heretic](entries/other/p-e-w-heretic.md) | 40,132 | 4,590 | 毎日 | 29 | 2026-11-08 | 2026-11-09 | 2026-11-10 | AGPL-3.0 |
 | [PDFMathTranslate](entries/other/pdfmathtranslate-pdfmathtranslate.md) ⚑ | 38,342 | 3,433 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | AGPL-3.0 |
 | [Czkawka / Krokiet](entries/other/qarmin-czkawka.md) ⚑ | 35,149 | 1,261 | 週次 | 19 | 2026-11-10 | 2026-11-14 | 2026-11-14 | unknown |
+| [OfficeCLI](entries/other/iofficeai-officecli.md) | 33,352 | 2,276 | 毎日 | 89 | 2026-11-16 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
 | [NumPy](entries/other/numpy-numpy.md) ⚑ | 33,343 | 13,099 | 毎日 | 100+ | 2026-11-12 | 2026-11-12 | 2026-11-12 | unknown |
-| [OfficeCLI](entries/other/iofficeai-officecli.md) | 33,171 | 2,271 | 毎日 | 80 | 2026-10-30 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [Google Workspace CLI (gws)](entries/other/googleworkspace-cli.md) ⚑ | 32,212 | 1,988 | 月次 | 1 | 2026-11-03 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [Google Workspace CLI (gws)](entries/other/googleworkspace-cli.md) ⚑ | 32,350 | 1,995 | 月次 | 1 | 2026-11-03 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
 | [llm.c](entries/other/karpathy-llm.c.md) ⚑ | 31,421 | 3,814 | 停滞 | 0 | 2025-06-26 | 2026-11-10 | 2026-11-10 | MIT |
 | [Karakeep](entries/other/karakeep-app-karakeep.md) ⚑ | 30,436 | 1,630 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | AGPL-3.0 |
-| [Actual Budget](entries/other/actualbudget-actual.md) ⚑ | 30,135 | 3,272 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | MIT |
-| [Claude Code Skills & Plugins](entries/other/alirezarezvani-claude-skills.md) ⚑ | 29,573 | 4,095 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | MIT |
+| [Actual Budget](entries/other/actualbudget-actual.md) ⚑ | 30,311 | 3,325 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [Claude Code Skills & Plugins](entries/other/alirezarezvani-claude-skills.md) ⚑ | 29,899 | 4,150 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
 | [react-spring](entries/other/pmndrs-react-spring.md) ⚑ | 29,279 | 1,236 | 毎日 | 23 | 2026-11-01 | 2026-11-14 | 2026-11-14 | MIT |
 | [System Design Interview — An Insider’s Guide (Vol 1 and 2) notes](entries/other/liquidslr-system-design-notes.md) ⚑ | 28,391 | 5,337 | 停滞 | 0 | 2026-08-12 | 2026-11-15 | 2026-11-15 | unknown |
 | [Filee](entries/other/knifelemon-filee.md) ⚑ | 26,944 | 1,546 | 毎日 | 100+ | 2026-11-14 | 2026-11-14 | 2026-11-14 | MIT |
 | [Jenkins](entries/other/jenkinsci-jenkins.md) ⚑ | 26,780 | 9,838 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-16 | MIT |
 | [Neural Networks: Zero to Hero](entries/other/karpathy-nn-zero-to-hero.md) ⚑ | 25,433 | 3,697 | 停滞 | 0 | 2024-08-18 | 2026-11-10 | 2026-11-10 | MIT |
 | [SpiderFoot](entries/other/smicallef-spiderfoot.md) ⚑ | 24,564 | 4,081 | 停滞 | 0 | 2026-04-13 | 2026-11-13 | 2026-11-14 | MIT |
-| [ego lite](entries/other/citrolabs-ego-lite.md) ⚑ | 22,387 | 1,269 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | MIT |
+| [ego lite](entries/other/citrolabs-ego-lite.md) ⚑ | 23,149 | 1,308 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
 | [Rough.js](entries/other/rough-stuff-rough.md) ⚑ | 21,384 | 671 | 停滞 | 0 | 2024-07-28 | 2026-11-16 | 2026-11-16 | MIT |
 | [res-downloader](entries/other/putyy-res-downloader.md) ⚑ | 21,255 | 2,609 | 停滞 | 0 | 2026-11-11 | 2026-11-13 | 2026-11-13 | Apache-2.0 |
-| [SAM 2](entries/other/facebookresearch-sam2.md) | 20,155 | 2,592 | 停滞 | 0 | 2026-05-30 | 2026-11-16 | 2026-11-16 | Apache-2.0 |
-| [ActivityWatch](entries/other/activitywatch-activitywatch.md) ⚑ | 19,621 | 1,078 | 週次 | 19 | 2026-11-13 | 2026-11-14 | 2026-11-14 | MPL-2.0 |
+| [SAM 2](entries/other/facebookresearch-sam2.md) | 20,166 | 2,596 | 停滞 | 0 | 2026-05-30 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [ActivityWatch](entries/other/activitywatch-activitywatch.md) ⚑ | 19,655 | 1,079 | 週次 | 18 | 2026-11-15 | 2026-11-16 | 2026-11-22 | MPL-2.0 |
 | [ai-goofish-monitor](entries/other/usagi-org-ai-goofish-monitor.md) ⚑ | 19,101 | 3,116 | 月次 | 0 | 2026-10-10 | 2026-11-10 | 2026-11-10 | MIT |
 | [micrograd](entries/other/karpathy-micrograd.md) ⚑ | 18,805 | 2,993 | 停滞 | 0 | 2026-08-03 | 2026-11-10 | 2026-11-10 | MIT |
 | [theHarvester](entries/other/laramies-theharvester.md) ⚑ | 18,318 | 2,736 | 毎日 | 63 | 2026-11-13 | 2026-11-13 | 2026-11-14 | GPL-2.0 |
-| [Generative AI on Google Cloud](entries/other/googlecloudplatform-generative-ai.md) ⚑ | 17,906 | 4,515 | 毎日 | 24 | 2026-11-14 | 2026-11-15 | 2026-11-15 | Apache-2.0 |
-| [MuJoCo](entries/other/google-deepmind-mujoco.md) ⚑ | 17,326 | 2,146 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-11 | Apache-2.0 |
+| [MuJoCo](entries/other/google-deepmind-mujoco.md) ⚑ | 18,174 | 2,206 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [Generative AI on Google Cloud](entries/other/googlecloudplatform-generative-ai.md) ⚑ | 17,940 | 4,523 | 毎日 | 28 | 2026-11-16 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
 | [PlayCanvas Engine](entries/other/playcanvas-engine.md) ⚑ | 17,274 | 2,054 | 毎日 | 100+ | 2026-11-11 | 2026-11-11 | 2026-11-11 | MIT |
-| [social-auto-upload](entries/other/dreammis-social-auto-upload.md) ⚑ | 16,378 | 2,777 | 週次 | 16 | 2026-10-22 | 2026-11-10 | 2026-11-10 | MIT |
-| [claude-obsidian](entries/other/agricidaniel-claude-obsidian.md) ⚑ | 16,310 | 1,598 | 毎日 | 69 | 2026-10-25 | 2026-11-10 | 2026-11-10 | MIT |
+| [social-auto-upload](entries/other/dreammis-social-auto-upload.md) ⚑ | 16,605 | 2,814 | 週次 | 16 | 2026-10-22 | 2026-11-16 | 2026-11-22 | MIT |
+| [claude-obsidian](entries/other/agricidaniel-claude-obsidian.md) ⚑ | 16,541 | 1,621 | 毎日 | 67 | 2026-10-25 | 2026-11-16 | 2026-11-22 | MIT |
 | [Shotcut](entries/other/mltframework-shotcut.md) ⚑ | 15,654 | 1,565 | 毎日 | 51 | 2026-11-11 | 2026-11-11 | 2026-11-11 | GPL-3.0 |
 | [Konva](entries/other/konvajs-konva.md) ⚑ | 14,961 | 1,074 | 毎日 | 26 | 2026-11-10 | 2026-11-15 | 2026-11-15 | unknown |
 | [Tone.js](entries/other/tonejs-tone.js.md) ⚑ | 14,918 | 1,094 | 毎日 | 38 | 2026-11-15 | 2026-11-16 | 2026-11-16 | MIT |
 | [Horizon](entries/other/thysrael-horizon.md) | 13,147 | 1,876 | 毎日 | 80 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
 | [Paper](entries/other/papermc-paper.md) ⚑ | 12,815 | 3,564 | 毎日 | 58 | 2026-11-15 | 2026-11-16 | 2026-11-16 | unknown |
 | [Thaw](entries/other/thaw-app-thaw.md) ⚑ | 12,708 | 345 | 毎日 | 100+ | 2026-11-13 | 2026-11-13 | 2026-11-14 | GPL-3.0 |
-| [Betaflight](entries/other/betaflight-betaflight.md) ⚑ | 11,791 | 4,169 | 毎日 | 100+ | 2026-11-15 | 2026-11-15 | 2026-11-15 | GPL-3.0 |
+| [Betaflight](entries/other/betaflight-betaflight.md) ⚑ | 11,799 | 4,172 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | GPL-3.0 |
 | [VidBee](entries/other/nexmoe-vidbee.md) ⚑ | 11,135 | 874 | 週次 | 13 | 2026-11-08 | 2026-11-13 | 2026-11-13 | MIT |
 | [minbpe](entries/other/karpathy-minbpe.md) ⚑ | 11,021 | 1,150 | 停滞 | 0 | 2024-07-01 | 2026-11-10 | 2026-11-10 | MIT |
 | [微信视频号下载器](entries/other/ltaoo-wx_channels_download.md) ⚑ | 10,534 | 1,748 | 週次 | 5 | 2026-11-12 | 2026-11-13 | 2026-11-13 | unknown |
-| [Blackbird](entries/other/antoniaci-blackbird.md) ⚑ | 10,154 | 1,472 | 週次 | 5 | 2026-11-03 | 2026-11-13 | 2026-11-14 | unknown |
+| [Blackbird](entries/other/antoniaci-blackbird.md) ⚑ | 10,187 | 1,486 | 月次 | 3 | 2026-11-03 | 2026-11-16 | 2026-11-22 | unknown |
 | [YARA](entries/other/virustotal-yara.md) ⚑ | 10,043 | 1,605 | 週次 | 16 | 2026-10-27 | 2026-11-16 | 2026-11-16 | BSD-3-Clause |
 | [open-slide](entries/other/open-slide-open-slide.md) ⚑ | 9,729 | 716 | 毎日 | 33 | 2026-11-09 | 2026-11-10 | 2026-11-10 | MIT |
-| [OBLITERATUS](entries/other/elder-plinius-obliteratus.md) | 9,407 | 1,706 | 毎日 | 100+ | 2026-11-05 | 2026-11-09 | 2026-11-10 | AGPL-3.0 |
+| [OBLITERATUS](entries/other/elder-plinius-obliteratus.md) | 9,541 | 1,736 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | AGPL-3.0 |
 | [Webstudio](entries/other/webstudio-is-webstudio.md) ⚑ | 9,170 | 1,639 | 毎日 | 57 | 2026-11-13 | 2026-11-14 | 2026-11-14 | AGPL-3.0 |
 | [tsParticles](entries/other/tsparticles-tsparticles.md) ⚑ | 9,090 | 954 | 毎日 | 100+ | 2026-11-13 | 2026-11-14 | 2026-11-14 | MIT |
-| [Ever Gauzy Platform](entries/other/ever-co-ever-gauzy.md) ⚑ | 8,847 | 1,346 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-16 | AGPL-3.0 |
+| [Ever Gauzy Platform](entries/other/ever-co-ever-gauzy.md) ⚑ | 8,853 | 1,349 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | AGPL-3.0 |
 | [librosa](entries/other/librosa-librosa.md) ⚑ | 8,830 | 1,105 | 毎日 | 59 | 2026-11-09 | 2026-11-10 | 2026-11-10 | ISC |
 | [Two.js](entries/other/jonobr1-two.js.md) ⚑ | 8,726 | 472 | 毎日 | 22 | 2026-11-13 | 2026-11-15 | 2026-11-15 | MIT |
 | [OpenToonz](entries/other/opentoonz-opentoonz.md) ⚑ | 8,215 | 943 | 毎日 | 55 | 2026-11-12 | 2026-11-14 | 2026-11-14 | unknown |
 | [StatiCrypt](entries/other/robinmoisson-staticrypt.md) ⚑ | 8,074 | 502 | 停滞 | 0 | 2026-07-06 | 2026-11-14 | 2026-11-14 | MIT |
 | [HomeBox](entries/other/sysadminsmedia-homebox.md) ⚑ | 7,842 | 620 | 毎日 | 22 | 2026-11-07 | 2026-11-12 | 2026-11-12 | AGPL-3.0 |
-| [APScheduler](entries/other/agronholm-apscheduler.md) | 7,698 | 822 | 週次 | 4 | 2026-10-26 | 2026-11-09 | 2026-11-10 | MIT |
+| [APScheduler](entries/other/agronholm-apscheduler.md) | 7,706 | 832 | 月次 | 1 | 2026-10-26 | 2026-11-16 | 2026-11-22 | MIT |
 | [Nuxt UI](entries/other/nuxt-ui.md) | 7,061 | 1,154 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
 | [flubber](entries/other/veltman-flubber.md) ⚑ | 6,966 | 171 | 停滞 | 0 | 2022-11-08 | 2026-11-11 | 2026-11-11 | MIT |
 | [Kando](entries/other/kando-menu-kando.md) ⚑ | 6,646 | 242 | 毎日 | 60 | 2026-11-12 | 2026-11-14 | 2026-11-14 | unknown |
 | [Pedalboard](entries/other/spotify-pedalboard.md) ⚑ | 6,475 | 376 | 週次 | 11 | 2026-11-09 | 2026-11-11 | 2026-11-11 | GPL-3.0 |
 | [Telegram Media Downloader](entries/other/neet-nestor-telegram-media-downloader.md) ⚑ | 6,450 | 637 | 週次 | 19 | 2026-10-19 | 2026-11-13 | 2026-11-13 | GPL-3.0 |
-| [Blockbench](entries/other/jannisx11-blockbench.md) ⚑ | 6,213 | 543 | 月次 | 1 | 2026-11-15 | 2026-11-16 | 2026-11-16 | GPL-3.0 |
-| [Rapier](entries/other/dimforge-rapier.md) ⚑ | 6,074 | 439 | 月次 | 0 | 2026-11-01 | 2026-11-15 | 2026-11-15 | Apache-2.0 |
+| [Blockbench](entries/other/jannisx11-blockbench.md) ⚑ | 6,216 | 543 | 月次 | 1 | 2026-11-15 | 2026-11-16 | 2026-11-22 | GPL-3.0 |
+| [Sandstorm（アイドル状態のエージェントsandboxをスナップショットして1台に数千個載せる）](entries/other/deeplethe-sandstorm.md) | 6,099 | 526 | 毎日 | 100+ | 2026-11-01 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [Rapier](entries/other/dimforge-rapier.md) ⚑ | 6,085 | 441 | 月次 | 0 | 2026-11-01 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
 | [微信视频号下载工具](entries/other/qiye45-wechatvideodownload.md) ⚑ | 6,054 | 578 | 月次 | 0 | 2026-10-05 | 2026-11-13 | 2026-11-13 | unknown |
-| [Sandstorm（アイドル状態のエージェントsandboxをスナップショットして1台に数千個載せる）](entries/other/deeplethe-sandstorm.md) | 5,955 | 490 | 毎日 | 100+ | 2026-11-01 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
 | [Auto-Editor](entries/other/wyattblue-auto-editor.md) ⚑ | 5,824 | 725 | 毎日 | 100+ | 2026-11-08 | 2026-11-09 | 2026-11-10 | Unlicense |
-| [gifski](entries/other/imageoptim-gifski.md) ⚑ | 5,710 | 183 | 停滞 | 0 | 2026-06-17 | 2026-11-16 | 2026-11-16 | unknown |
+| [gifski](entries/other/imageoptim-gifski.md) ⚑ | 5,711 | 183 | 停滞 | 0 | 2026-06-17 | 2026-11-16 | 2026-11-22 | unknown |
 | [软件屏蔽器（Malware-Patch）](entries/other/the1812-malware-patch.md) ⚑ | 5,644 | 333 | 停滞 | 0 | 2026-05-27 | 2026-11-14 | 2026-11-14 | MIT |
 | [Bumblebee](entries/other/perplexityai-bumblebee.md) ⚑ | 5,148 | 464 | 月次 | 0 | 2026-11-10 | 2026-11-12 | 2026-11-12 | Apache-2.0 |
 | [FigCraft](entries/other/storytold-figcraft.md) ⚑ | 5,042 | 1,863 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-16 | Apache-2.0 |
-| [Y2A-Auto](entries/other/fqscfqj-y2a-auto.md) ⚑ | 4,749 | 797 | 週次 | 4 | 2026-10-28 | 2026-11-11 | 2026-11-11 | GPL-3.0 |
-| [Screenbox](entries/other/huynhsontung-screenbox.md) ⚑ | 4,700 | 222 | 毎日 | 20 | 2026-11-15 | 2026-11-16 | 2026-11-16 | GPL-3.0 |
-| [Create](entries/other/creators-of-create-create.md) ⚑ | 4,618 | 1,446 | 週次 | 18 | 2026-11-15 | 2026-11-15 | 2026-11-15 | unknown |
+| [Y2A-Auto](entries/other/fqscfqj-y2a-auto.md) ⚑ | 5,018 | 850 | 週次 | 9 | 2026-11-16 | 2026-11-16 | 2026-11-22 | GPL-3.0 |
+| [Screenbox](entries/other/huynhsontung-screenbox.md) ⚑ | 4,704 | 222 | 毎日 | 20 | 2026-11-16 | 2026-11-16 | 2026-11-22 | GPL-3.0 |
+| [Create](entries/other/creators-of-create-create.md) ⚑ | 4,621 | 1,449 | 週次 | 19 | 2026-11-15 | 2026-11-16 | 2026-11-22 | unknown |
 | [Storyboarder](entries/other/wonderunit-storyboarder.md) ⚑ | 3,946 | 404 | 停滞 | 0 | 2024-03-17 | 2026-11-11 | 2026-11-11 | unknown |
 | [Marp CLI](entries/other/marp-team-marp-cli.md) ⚑ | 3,922 | 207 | 月次 | 0 | 2026-09-08 | 2026-11-15 | 2026-11-15 | MIT |
-| [TweenJS](entries/other/createjs-tweenjs.md) ⚑ | 3,553 | 936 | 停滞 | 0 | 2023-12-18 | 2026-11-15 | 2026-11-15 | MIT |
-| [shodan-python](entries/other/achillean-shodan-python.md) ⚑ | 3,487 | 785 | 停滞 | 0 | 2024-08-05 | 2026-11-13 | 2026-11-14 | unknown |
-| [Swarm Rebuild](entries/other/dhvanilpatel-swarm-cursors.md) ⚑ | 3,339 | 365 | 週次 | 7 | 2026-11-11 | 2026-11-16 | 2026-11-16 | unknown |
-| [Tendedero](entries/other/alejandrobujan-tendedero.md) ⚑ | 3,198 | 290 | 毎日 | 62 | 2026-11-12 | 2026-11-13 | 2026-11-14 | unknown |
-| [Open Source Face Recognition SDK](entries/other/faceplugin-ltd-open-source-face-recognition-sdk.md) ⚑ | 3,161 | 530 | 月次 | 0 | 2026-10-02 | 2026-11-14 | 2026-11-14 | unknown |
+| [TweenJS](entries/other/createjs-tweenjs.md) ⚑ | 3,568 | 940 | 停滞 | 0 | 2023-12-18 | 2026-11-16 | 2026-11-22 | MIT |
+| [shodan-python](entries/other/achillean-shodan-python.md) ⚑ | 3,493 | 786 | 停滞 | 0 | 2024-08-05 | 2026-11-16 | 2026-11-22 | unknown |
+| [Swarm Rebuild](entries/other/dhvanilpatel-swarm-cursors.md) ⚑ | 3,428 | 378 | 週次 | 7 | 2026-11-11 | 2026-11-16 | 2026-11-22 | unknown |
+| [Tendedero](entries/other/alejandrobujan-tendedero.md) ⚑ | 3,270 | 295 | 毎日 | 67 | 2026-11-15 | 2026-11-16 | 2026-11-22 | unknown |
+| [Open Source Face Recognition SDK](entries/other/faceplugin-ltd-open-source-face-recognition-sdk.md) ⚑ | 3,169 | 533 | 月次 | 0 | 2026-10-02 | 2026-11-16 | 2026-11-22 | unknown |
 | [Vexa](entries/other/vexa-ai-vexa.md) ⚑ | 2,965 | 544 | 週次 | 4 | 2026-11-09 | 2026-11-10 | 2026-11-10 | Apache-2.0 |
-| [Rhubarb Lip Sync](entries/other/danielswolf-rhubarb-lip-sync.md) ⚑ | 2,763 | 329 | 停滞 | 0 | 2026-06-16 | 2026-11-12 | 2026-11-12 | unknown |
+| [Rhubarb Lip Sync](entries/other/danielswolf-rhubarb-lip-sync.md) ⚑ | 2,778 | 331 | 停滞 | 0 | 2026-06-16 | 2026-11-16 | 2026-11-22 | unknown |
 | [KUTE.js](entries/other/thednp-kute.js.md) ⚑ | 2,651 | 173 | 停滞 | 0 | 2026-03-26 | 2026-11-14 | 2026-11-14 | MIT |
-| [Oh My PPT](entries/other/arcsin1-oh-my-ppt.md) ⚑ | 2,525 | 247 | 週次 | 12 | 2026-11-04 | 2026-11-14 | 2026-11-14 | Apache-2.0 |
+| [Oh My PPT](entries/other/arcsin1-oh-my-ppt.md) ⚑ | 2,531 | 247 | 週次 | 13 | 2026-11-16 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [Proton](entries/other/drawcall-proton.md) ⚑ | 2,521 | 288 | 停滞 | 0 | 2026-03-06 | 2026-11-16 | 2026-11-22 | MIT |
 | [sheeridVerify](entries/other/jenkinwoo-sheeridverify.md) ⚑ | 2,515 | 1,310 | 月次 | 1 | 2026-11-06 | 2026-11-13 | 2026-11-13 | ISC |
-| [Proton](entries/other/drawcall-proton.md) ⚑ | 2,499 | 283 | 停滞 | 0 | 2026-03-06 | 2026-11-15 | 2026-11-15 | MIT |
+| [ScopeSentry](entries/other/autumn-27-scopesentry.md) ⚑ | 2,441 | 598 | 月次 | 0 | 2026-10-11 | 2026-11-16 | 2026-11-22 | unknown |
 | [Synfig Studio](entries/other/synfig-synfig.md) ⚑ | 2,420 | 466 | 週次 | 7 | 2026-11-08 | 2026-11-14 | 2026-11-14 | GPL-3.0 |
-| [ScopeSentry](entries/other/autumn-27-scopesentry.md) ⚑ | 2,334 | 554 | 月次 | 3 | 2026-10-11 | 2026-11-09 | 2026-11-10 | unknown |
-| [JIZURA 字面](entries/other/852wa-jizura.md) ⚑ | 2,232 | 295 | 週次 | 9 | 2026-11-10 | 2026-11-11 | 2026-11-11 | MIT |
+| [JIZURA 字面](entries/other/852wa-jizura.md) ⚑ | 2,291 | 304 | 週次 | 9 | 2026-11-10 | 2026-11-16 | 2026-11-22 | MIT |
 | [nv-uefi-unlocker](entries/other/physicsdolphin-nv-uefi-unlocker.md) ⚑ | 2,223 | 202 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | GPL-2.0 |
+| [Effekseer](entries/other/effekseer-effekseer.md) ⚑ | 2,094 | 337 | 週次 | 17 | 2026-10-30 | 2026-11-16 | 2026-11-22 | MIT |
 | [cannon-es](entries/other/pmndrs-cannon-es.md) ⚑ | 2,090 | 158 | 停滞 | 0 | 2024-01-06 | 2026-11-11 | 2026-11-11 | MIT |
-| [Effekseer](entries/other/effekseer-effekseer.md) ⚑ | 2,063 | 330 | 週次 | 17 | 2026-10-30 | 2026-11-11 | 2026-11-11 | MIT |
 | [awesome-reverse-engineering](entries/other/morluto-awesome-reverse-engineering.md) | 1,991 | 440 | 毎日 | 99 | 2026-11-09 | 2026-11-09 | 2026-11-10 | CC0-1.0 |
-| [Ola](entries/other/franciscop-ola.md) ⚑ | 1,833 | 36 | 月次 | 3 | 2026-10-24 | 2026-11-15 | 2026-11-15 | MIT |
+| [Ola](entries/other/franciscop-ola.md) ⚑ | 1,856 | 40 | 月次 | 3 | 2026-10-24 | 2026-11-16 | 2026-11-22 | MIT |
 | [Splitting.js](entries/other/shshaw-splitting.md) ⚑ | 1,757 | 74 | 停滞 | 0 | 2024-06-19 | 2026-11-16 | 2026-11-16 | MIT |
 | [Quiet.md](entries/other/s1dashu-quiet-md.md) ⚑ | 1,740 | 157 | 毎日 | 100+ | 2026-11-13 | 2026-11-13 | 2026-11-13 | MIT |
 | [Google Pro Helper](entries/other/mmdoctor-google-pro-helper.md) ⚑ | 1,724 | 584 | 週次 | 9 | 2026-11-05 | 2026-11-11 | 2026-11-11 | unknown |
@@ -138,318 +138,318 @@
 | [Shifty](entries/other/jeremyckahn-shifty.md) ⚑ | 1,569 | 88 | 週次 | 8 | 2026-11-14 | 2026-11-15 | 2026-11-15 | MIT |
 | [Second Brain OS](entries/other/undefined-ui-second-brain-os.md) ⚑ | 1,549 | 265 | 週次 | 8 | 2026-11-03 | 2026-11-10 | 2026-11-10 | MIT |
 | [LUME](entries/other/lume-lume.md) ⚑ | 1,540 | 68 | 停滞 | 0 | 2026-09-08 | 2026-11-15 | 2026-11-15 | MIT |
-| [CUPS Web](entries/other/hanxi-cups-web.md) ⚑ | 1,529 | 192 | 週次 | 13 | 2026-11-08 | 2026-11-15 | 2026-11-15 | MIT |
-| [Motion Video Kit](entries/other/echris6-motion-video-kit.md) ⚑ | 1,378 | 123 | 月次 | 1 | 2026-10-14 | 2026-11-09 | 2026-11-10 | MIT |
+| [CUPS Web](entries/other/hanxi-cups-web.md) ⚑ | 1,528 | 193 | 週次 | 13 | 2026-11-15 | 2026-11-16 | 2026-11-22 | MIT |
+| [Motion Video Kit](entries/other/echris6-motion-video-kit.md) ⚑ | 1,413 | 126 | 月次 | 0 | 2026-10-14 | 2026-11-16 | 2026-11-22 | MIT |
 | [pg-jev](entries/other/realzachi-pg-jev.md) ⚑ | 1,303 | 109 | 月次 | 0 | 2026-10-06 | 2026-11-10 | 2026-11-11 | unknown |
 | [Rive C++ runtime](entries/other/rive-app-rive-runtime.md) ⚑ | 1,258 | 133 | 毎日 | 100+ | 2026-11-13 | 2026-11-14 | 2026-11-14 | MIT |
 | [One IP](entries/other/zhihui-hu-one-ip.md) ⚑ | 1,235 | 1,388 | 週次 | 18 | 2026-11-12 | 2026-11-12 | 2026-11-12 | AGPL-3.0 |
-| [VFX-JS](entries/other/fand-vfx-js.md) ⚑ | 1,190 | 40 | 毎日 | 55 | 2026-11-14 | 2026-11-16 | 2026-11-16 | MIT |
+| [VFX-JS](entries/other/fand-vfx-js.md) ⚑ | 1,193 | 40 | 毎日 | 55 | 2026-11-14 | 2026-11-16 | 2026-11-22 | MIT |
 | [WeVisOne-VL](entries/other/tencent-wevisone-vl.md) | 1,111 | 95 | 月次 | 3 | 2026-10-25 | 2026-11-09 | 2026-11-10 | Apache-2.0（Tencent 著作部分） |
-| [Shapeshift](entries/other/anishfn-shapeshift.md) ⚑ | 1,066 | 106 | 月次 | 0 | 2026-09-23 | 2026-11-10 | 2026-11-11 | MIT |
-| [JavRanking 浏览器扩展](entries/other/javranking-javranking-extension.md) ⚑ | 1,043 | 70 | 週次 | 4 | 2026-10-27 | 2026-11-13 | 2026-11-14 | MIT |
-| [FlashProve](entries/other/anthropics-flashprove.md) ⚑ | 1,017 | 109 | 月次 | 1 | 2026-10-30 | 2026-11-11 | 2026-11-11 | Apache-2.0 |
-| [Whisper Flow](entries/other/dimastatz-whisper-flow.md) ⚑ | 1,011 | 139 | 週次 | 18 | 2026-11-15 | 2026-11-15 | 2026-11-15 | MIT |
-| [VidStab](entries/other/georgmartius-vid.stab.md) ⚑ | 991 | 126 | 月次 | 0 | 2026-08-14 | 2026-11-10 | 2026-11-10 | unknown |
+| [Shapeshift](entries/other/anishfn-shapeshift.md) ⚑ | 1,073 | 106 | 月次 | 0 | 2026-09-23 | 2026-11-16 | 2026-11-22 | MIT |
+| [FlashProve](entries/other/anthropics-flashprove.md) ⚑ | 1,063 | 113 | 月次 | 1 | 2026-10-30 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [JavRanking 浏览器扩展](entries/other/javranking-javranking-extension.md) ⚑ | 1,054 | 70 | 週次 | 4 | 2026-10-27 | 2026-11-16 | 2026-11-22 | MIT |
+| [Whisper Flow](entries/other/dimastatz-whisper-flow.md) ⚑ | 1,012 | 139 | 週次 | 18 | 2026-11-15 | 2026-11-16 | 2026-11-22 | MIT |
+| [VidStab](entries/other/georgmartius-vid.stab.md) ⚑ | 996 | 126 | 停滞 | 0 | 2026-08-14 | 2026-11-16 | 2026-11-22 | unknown |
+| [Manufacturing WeChat Mini Program Starter](entries/other/changhaoting1998-star-manufacturing-wechat-miniapp-starter.md) ⚑ | 897 | 62 | 月次 | 3 | 2026-10-27 | 2026-11-16 | 2026-11-22 | MIT |
 | [TrenTorch](entries/other/trentorch-trentorch.md) ⚑ | 842 | 88 | 毎日 | 100+ | 2026-11-14 | 2026-11-14 | 2026-11-14 | unknown |
 | [DSH 破甲ワークフロー（dsh-jailbreak-workflow）](entries/other/minglink-dsh-jailbreak-workflow.md) ⚑ | 816 | 284 | 週次 | 18 | 2026-11-05 | 2026-11-09 | 2026-11-10 | 未確認（API は NOASSERTION、標準ライセンスファイル無し） |
+| [Awesome Chinese Secondhand Slang（中国二手暗语全书与避坑合规指南）](entries/other/domainsun-awesome-chinese-secondhand-slang.md) ⚑ | 798 | 51 | 週次 | 4 | 2026-10-19 | 2026-11-16 | 2026-11-22 | MIT |
 | [vt-py](entries/other/virustotal-vt-py.md) ⚑ | 798 | 171 | 停滞 | 0 | 2026-11-10 | 2026-11-16 | 2026-11-16 | Apache-2.0 |
-| [拉片笔记（Lapian Notes）](entries/other/bkingfilm-lapian-notes.md) ⚑ | 797 | 74 | 週次 | 7 | 2026-10-26 | 2026-11-16 | 2026-11-16 | MIT |
-| [Awesome Chinese Secondhand Slang（中国二手暗语全书与避坑合规指南）](entries/other/domainsun-awesome-chinese-secondhand-slang.md) ⚑ | 777 | 51 | 週次 | 8 | 2026-10-19 | 2026-11-13 | 2026-11-13 | MIT |
+| [拉片笔记（Lapian Notes）](entries/other/bkingfilm-lapian-notes.md) ⚑ | 798 | 74 | 週次 | 7 | 2026-10-26 | 2026-11-16 | 2026-11-22 | MIT |
 | [Orfeo](entries/other/squarebow-orfeo.md) ⚑ | 723 | 58 | 毎日 | 100+ | 2026-11-13 | 2026-11-13 | 2026-11-13 | GPL-3.0 |
-| [color-matcher](entries/other/hahnec-color-matcher.md) ⚑ | 706 | 50 | 停滞 | 0 | 2026-02-24 | 2026-11-10 | 2026-11-10 | GPL-3.0 |
-| [Manufacturing WeChat Mini Program Starter](entries/other/changhaoting1998-star-manufacturing-wechat-miniapp-starter.md) ⚑ | 703 | 39 | 月次 | 3 | 2026-10-27 | 2026-11-11 | 2026-11-11 | MIT |
-| [Awesome AI Pedia](entries/other/awesome-ai-pedia-awesome-ai-pedia.md) ⚑ | 686 | 66 | 週次 | 14 | 2026-11-10 | 2026-11-11 | 2026-11-11 | MIT |
-| [Enterprise System Design](entries/other/drhazemali-enterprise-system-design.md) ⚑ | 659 | 135 | 月次 | 0 | 2026-11-12 | 2026-11-13 | 2026-11-13 | unknown |
-| [高性价比职场指南](entries/other/goodseafly-how-to-make-work-pay.md) ⚑ | 489 | 43 | 週次 | 12 | 2026-10-26 | 2026-11-13 | 2026-11-14 | unknown |
-| [DuoDesk](entries/other/0xcodez-duodesk.md) ⚑ | 486 | 79 | 毎日 | 100+ | 2026-10-31 | 2026-11-10 | 2026-11-10 | GPL-3.0 |
-| [NamiAgent](entries/other/aa1143-namiagent.md) ⚑ | 483 | 53 | 毎日 | 20 | 2026-10-30 | 2026-11-10 | 2026-11-10 | MIT |
+| [Awesome AI Pedia](entries/other/awesome-ai-pedia-awesome-ai-pedia.md) ⚑ | 721 | 70 | 週次 | 14 | 2026-11-12 | 2026-11-16 | 2026-11-22 | MIT |
+| [color-matcher](entries/other/hahnec-color-matcher.md) ⚑ | 710 | 50 | 停滞 | 0 | 2026-02-24 | 2026-11-16 | 2026-11-22 | GPL-3.0 |
+| [Enterprise System Design](entries/other/drhazemali-enterprise-system-design.md) ⚑ | 660 | 135 | 月次 | 0 | 2026-11-12 | 2026-11-16 | 2026-11-22 | unknown |
+| [NamiAgent](entries/other/aa1143-namiagent.md) ⚑ | 536 | 57 | 毎日 | 20 | 2026-10-30 | 2026-11-16 | 2026-11-22 | MIT |
+| [Pixel Plays](entries/other/amirmushichge-pixel-plays.md) ⚑ | 519 | 51 | 月次 | 2 | 2026-10-31 | 2026-11-16 | 2026-11-22 | MIT |
+| [DuoDesk](entries/other/0xcodez-duodesk.md) ⚑ | 514 | 86 | 毎日 | 100+ | 2026-10-31 | 2026-11-16 | 2026-11-22 | GPL-3.0 |
+| [高性价比职场指南](entries/other/goodseafly-how-to-make-work-pay.md) ⚑ | 492 | 43 | 週次 | 7 | 2026-10-26 | 2026-11-16 | 2026-11-22 | unknown |
 | [Life Destiny K-Line（人生 K 线）](entries/other/miounet11-life-kline.md) ⚑ | 479 | 132 | 停滞 | 0 | 2025-12-22 | 2026-11-16 | 2026-11-16 | Apache-2.0 |
-| [LINEJS](entries/other/evex-dev-linejs.md) ⚑ | 474 | 103 | 毎日 | 22 | 2026-11-05 | 2026-11-12 | 2026-11-12 | MIT |
-| [Pixel Plays](entries/other/amirmushichge-pixel-plays.md) ⚑ | 448 | 43 | 月次 | 2 | 2026-10-31 | 2026-11-10 | 2026-11-10 | MIT |
+| [LINEJS](entries/other/evex-dev-linejs.md) ⚑ | 477 | 106 | 毎日 | 24 | 2026-11-13 | 2026-11-16 | 2026-11-22 | MIT |
 | [jev-voice-browser](entries/other/moritzkremb-jev-voice-browser.md) ⚑ | 431 | 71 | 停滞 | 0 | 2026-09-21 | 2026-11-10 | 2026-11-11 | MIT |
 | [ResumeForge](entries/other/magicapple123-resumeforge.md) ⚑ | 417 | 19 | 毎日 | 100+ | 2026-11-10 | 2026-11-11 | 2026-11-11 | Apache-2.0 |
-| [Image 2 Sculpt](entries/other/gokayfem-image-to-sculpt.md) ⚑ | 289 | 21 | 月次 | 2 | 2026-11-08 | 2026-11-14 | 2026-11-14 | MIT |
+| [Image 2 Sculpt](entries/other/gokayfem-image-to-sculpt.md) ⚑ | 295 | 21 | 月次 | 2 | 2026-11-08 | 2026-11-16 | 2026-11-22 | MIT |
 | [Awesome Social Media Skills](entries/other/underleveledbuilder-awesome-social-media-skills.md) ⚑ | 252 | 40 | 毎日 | 33 | 2026-11-08 | 2026-11-10 | 2026-11-10 | CC0-1.0 |
-| [小浣熊阅读](entries/other/aminark-legado-ios.md) ⚑ | 232 | 66 | 毎日 | 22 | 2026-11-13 | 2026-11-16 | 2026-11-16 | GPL-3.0 |
+| [小浣熊阅读](entries/other/aminark-legado-ios.md) ⚑ | 232 | 66 | 毎日 | 22 | 2026-11-13 | 2026-11-16 | 2026-11-22 | GPL-3.0 |
 | [fuxi-pdf · 复习pdf](entries/other/stevensun1005-fuxi-pdf.md) ⚑ | 201 | 3 | 週次 | 12 | 2026-10-22 | 2026-11-11 | 2026-11-11 | unknown |
 | [大模型推理案头手册（开源版）](entries/other/shtjww-llm-inference-capacity-handbook.md) ⚑ | 186 | 0 | 月次 | 0 | 2026-09-20 | 2026-11-16 | 2026-11-16 | unknown |
 | [grok-bot-cli](entries/other/scriptedalchemy-grok-bot-cli.md) ⚑ | 181 | 37 | 毎日 | 31 | 2026-11-04 | 2026-11-10 | 2026-11-10 | MIT |
 | [jev-guard](entries/other/leepokai-jev-guard.md) ⚑ | 150 | 24 | 月次 | 0 | 2026-10-02 | 2026-11-09 | 2026-11-10 | MIT |
-| [Jev Plays Pokémon Red](entries/other/christianmat-jev-pokemon.md) ⚑ | 133 | 10 | 月次 | 0 | 2026-09-28 | 2026-11-10 | 2026-11-10 | GPL-2.0 |
+| [Jev Plays Pokémon Red](entries/other/christianmat-jev-pokemon.md) ⚑ | 134 | 11 | 月次 | 0 | 2026-09-28 | 2026-11-16 | 2026-11-22 | GPL-2.0 |
 | [muse-grok-x-search](entries/other/kgmkm-muse-grok-x-search.md) ⚑ | 108 | 17 | 月次 | 2 | 2026-11-03 | 2026-11-15 | 2026-11-15 | MIT |
 | [myradio](entries/other/monoradio102-myradio.md) ⚑ | 107 | 15 | 毎日 | 37 | 2026-11-13 | 2026-11-14 | 2026-11-14 | unknown |
-| [URLhaus](entries/other/abusech-urlhaus.md) ⚑ | 79 | 12 | 停滞 | 0 | 2024-11-09 | 2026-11-16 | 2026-11-16 | unknown |
-| [dsh-pet-live2d](entries/other/a8chann-dsh-pet-live2d.md) ⚑ | 78 | 10 | 毎日 | 42 | 2026-11-09 | 2026-11-15 | 2026-11-15 | unknown |
-| [Strata](entries/other/carthageadev-strata.md) ⚑ | 48 | 3 | 毎日 | 41 | 2026-11-11 | 2026-11-16 | 2026-11-16 | unknown |
-| [clash-jev](entries/other/bytelabs-oss-clash-jev.md) ⚑ | 37 | 11 | 月次 | 2 | 2026-10-14 | 2026-11-10 | 2026-11-11 | MIT |
-| [Sprite Pencil](entries/other/256arts-sprite-pencil.md) ⚑ | 28 | 6 | 週次 | 9 | 2026-11-11 | 2026-11-16 | 2026-11-16 | unknown |
+| [dsh-pet-live2d](entries/other/a8chann-dsh-pet-live2d.md) ⚑ | 80 | 11 | 毎日 | 35 | 2026-11-09 | 2026-11-16 | 2026-11-22 | unknown |
+| [URLhaus](entries/other/abusech-urlhaus.md) ⚑ | 79 | 12 | 停滞 | 0 | 2024-11-09 | 2026-11-16 | 2026-11-22 | unknown |
+| [Strata](entries/other/carthageadev-strata.md) ⚑ | 48 | 3 | 毎日 | 41 | 2026-11-11 | 2026-11-16 | 2026-11-22 | unknown |
+| [clash-jev](entries/other/bytelabs-oss-clash-jev.md) ⚑ | 37 | 11 | 月次 | 0 | 2026-10-14 | 2026-11-16 | 2026-11-22 | MIT |
+| [Sprite Pencil](entries/other/256arts-sprite-pencil.md) ⚑ | 28 | 6 | 週次 | 9 | 2026-11-11 | 2026-11-16 | 2026-11-22 | unknown |
 | [jevframe](entries/other/ktaletsk-jevframe.md) ⚑ | 21 | 3 | 月次 | 0 | 2026-09-24 | 2026-11-10 | 2026-11-11 | MIT |
-| [FossFLOW](entries/other/grujowmi-fossflow.md) ⚑ | 15 | 3 | 停滞 | 0 | 2026-05-22 | 2026-11-14 | 2026-11-14 | MIT |
+| [FossFLOW](entries/other/grujowmi-fossflow.md) ⚑ | 15 | 3 | 停滞 | 0 | 2026-05-22 | 2026-11-16 | 2026-11-22 | MIT |
 | [PlayBridge](entries/other/ramalhoboss-playbridge.md) ⚑ | 15 | 1 | 週次 | 17 | 2026-11-06 | 2026-11-11 | 2026-11-11 | GPL-3.0 |
 | [duckdb-jev](entries/other/prasanthj-duckdb-jev.md) ⚑ | 14 | 3 | 月次 | 2 | 2026-10-21 | 2026-11-10 | 2026-11-11 | Apache-2.0 |
-| [Jev Grand Prix](entries/other/enoyola-jev-grand-prix.md) ⚑ | 7 | 0 | 月次 | 0 | 2026-09-21 | 2026-11-10 | 2026-11-11 | MIT |
+| [Jev Grand Prix](entries/other/enoyola-jev-grand-prix.md) ⚑ | 7 | 0 | 月次 | 0 | 2026-09-21 | 2026-11-16 | 2026-11-22 | MIT |
 | [剪坊](entries/other/tuyetloanpham08-png-jianfang.md) ⚑ | 7 | 1 | 月次 | 2 | 2026-10-20 | 2026-11-11 | 2026-11-11 | unknown |
-| [Pay Small Check](entries/other/ahmardchain-pay-small-check.md) ⚑ | 1 | 0 | 毎日 | 32 | 2026-11-07 | 2026-11-14 | 2026-11-14 | MIT |
+| [Pay Small Check](entries/other/ahmardchain-pay-small-check.md) ⚑ | 1 | 0 | 毎日 | 32 | 2026-11-07 | 2026-11-16 | 2026-11-22 | MIT |
 | [LapDraw](entries/other/sachinyadavaug20-lapdraw.md) ⚑ | 0 | 0 | 毎日 | 22 | 2026-11-07 | 2026-11-13 | 2026-11-13 | MIT |
 
 ### コーディングエージェント（133）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
-| [ECC](entries/coding-agent/affaan-m-ecc.md) ⚑ | 303,847 | 44,785 | 毎日 | 100+ | 2026-11-15 | 2026-11-16 | 2026-11-16 | MIT |
-| [Karpathy Guidelines（karpathy-guidelines スキル）](entries/coding-agent/multica-ai-andrej-karpathy-skills.md) ⚑ | 231,320 | 22,999 | 停滞 | 0 | 2026-04-20 | 2026-11-09 | 2026-11-10 | unknown |
-| [Claude Code](entries/coding-agent/anthropics-claude-code.md) ⚑ | 155,135 | 24,886 | 毎日 | 54 | 2026-11-10 | 2026-11-10 | 2026-11-10 | unknown |
-| [Spec Kit](entries/coding-agent/github-spec-kit.md) ⚑ | 149,097 | 13,388 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | MIT |
-| [UI UX Pro Max](entries/coding-agent/nextlevelbuilder-ui-ux-pro-max-skill.md) ⚑ | 147,531 | 15,608 | 毎日 | 21 | 2026-11-07 | 2026-11-10 | 2026-11-10 | MIT |
-| [Next.js](entries/coding-agent/vercel-next.js.md) ⚑ | 143,475 | 32,801 | 毎日 | 100+ | 2026-11-11 | 2026-11-11 | 2026-11-11 | MIT |
-| [Orca](entries/coding-agent/stablyai-orca.md) ⚑ | 120,836 | 7,653 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | MIT |
-| [Caveman](entries/coding-agent/juliusbrussee-caveman.md) ⚑ | 118,623 | 6,907 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [Agent Skills](entries/coding-agent/addyosmani-agent-skills.md) ⚑ | 114,537 | 11,972 | 毎日 | 100+ | 2026-11-01 | 2026-11-09 | 2026-11-10 | MIT |
-| [OpenDesign](entries/coding-agent/nexu-io-open-design.md) ⚑ | 106,979 | 12,169 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-11 | Apache-2.0 |
-| [Playwright](entries/coding-agent/microsoft-playwright.md) ⚑ | 99,952 | 6,855 | 毎日 | 100+ | 2026-11-12 | 2026-11-12 | 2026-11-12 | Apache-2.0 |
-| [autoresearch](entries/coding-agent/karpathy-autoresearch.md) ⚑ | 99,728 | 13,741 | 停滞 | 0 | 2026-03-26 | 2026-11-10 | 2026-11-10 | unknown |
-| [Archify](entries/coding-agent/tt-a1i-archify.md) ⚑ | 95,261 | 6,499 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | Apache-2.0 |
-| [Awesome Claude Skills](entries/coding-agent/composiohq-awesome-claude-skills.md) ⚑ | 79,332 | 9,677 | 停滞 | 0 | 2026-09-18 | 2026-11-12 | 2026-11-12 | unknown |
-| [CodeGraph](entries/coding-agent/colbymchenry-codegraph.md) | 77,198 | 5,141 | 毎日 | 100+ | 2026-11-01 | 2026-11-09 | 2026-11-10 | MIT |
-| [AI Job Search](entries/coding-agent/ai-job-search-dev-ai-job-search.md) ⚑ | 71,924 | 23,161 | 毎日 | 100+ | 2026-11-12 | 2026-11-16 | 2026-11-16 | MIT |
-| [Open Interpreter](entries/coding-agent/openinterpreter-openinterpreter.md) ⚑ | 68,864 | 5,943 | 週次 | 11 | 2026-11-11 | 2026-11-11 | 2026-11-11 | Apache-2.0 |
-| [Skills for Designers and Engineers](entries/coding-agent/emilkowalski-skills.md) ⚑ | 55,592 | 3,238 | 週次 | 8 | 2026-11-09 | 2026-11-10 | 2026-11-10 | MIT |
-| [Obsidian Agent Skills](entries/coding-agent/obsidianmd-obsidian-skills.md) ⚑ | 52,741 | 3,755 | 毎日 | 33 | 2026-11-11 | 2026-11-15 | 2026-11-15 | MIT |
-| [Obsidian Skills](entries/coding-agent/kepano-obsidian-skills.md) ⚑ | 51,458 | 3,639 | 月次 | 0 | 2026-09-15 | 2026-11-10 | 2026-11-10 | MIT |
-| [herdr](entries/coding-agent/herdrdev-herdr.md) ⚑ | 49,753 | 4,017 | 毎日 | 49 | 2026-11-07 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [wshobson/agents](entries/coding-agent/wshobson-agents.md) ⚑ | 42,378 | 4,476 | 毎日 | 34 | 2026-11-09 | 2026-11-10 | 2026-11-10 | MIT |
-| [Codewhale](entries/coding-agent/codewhale-hq-codewhale.md) ⚑ | 41,173 | 3,569 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | MIT |
-| [oh-my-pi](entries/coding-agent/can1357-oh-my-pi.md) ⚑ | 38,506 | 4,380 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | MIT |
-| [Claude Code Game Studios](entries/coding-agent/donchitos-claude-code-game-studios.md) ⚑ | 37,789 | 4,949 | 月次 | 2 | 2026-11-09 | 2026-11-10 | 2026-11-10 | MIT |
-| [Awesome Agent Skills](entries/coding-agent/voltagent-awesome-agent-skills.md) ⚑ | 37,027 | 4,103 | 毎日 | 100+ | 2026-11-05 | 2026-11-10 | 2026-11-10 | MIT |
-| [Vercel Agent Skills](entries/coding-agent/vercel-labs-agent-skills.md) ⚑ | 33,817 | 2,956 | 週次 | 5 | 2026-10-28 | 2026-11-10 | 2026-11-10 | unknown |
-| [claude-code-templates](entries/coding-agent/davila7-claude-code-templates.md) ⚑ | 33,241 | 3,901 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
-| [AGENTS.md](entries/coding-agent/agentsmd-agents.md.md) ⚑ | 25,417 | 1,950 | 月次 | 0 | 2026-09-10 | 2026-11-10 | 2026-11-10 | MIT |
-| [Craft Anything](entries/coding-agent/storytold-craft-anything.md) | 24,308 | 4,863 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [jcode](entries/coding-agent/1jehuang-jcode.md) | 21,641 | 2,517 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
-| [bolt.diy](entries/coding-agent/stackblitz-labs-bolt.diy.md) ⚑ | 20,087 | 10,614 | 月次 | 0 | 2026-10-14 | 2026-11-14 | 2026-11-14 | MIT |
-| [meta/astryx](entries/coding-agent/meta-astryx.md) ⚑ | 19,713 | 1,502 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
-| [GSAP AI Skills](entries/coding-agent/greensock-gsap-skills.md) ⚑ | 18,218 | 1,148 | 停滞 | 0 | 2026-07-29 | 2026-11-10 | 2026-11-11 | MIT |
-| [Claudian](entries/coding-agent/yishentu-claudian.md) ⚑ | 15,996 | 1,095 | 毎日 | 100+ | 2026-11-14 | 2026-11-15 | 2026-11-15 | MIT |
-| [ai-memory](entries/coding-agent/akitaonrails-ai-memory.md) ⚑ | 15,992 | 1,199 | 毎日 | 100+ | 2026-11-15 | 2026-11-16 | 2026-11-16 | MIT |
-| [pstack（Lauren Tan / poteto）](entries/coding-agent/cursor-plugins.md) ⚑ | 15,853 | 1,657 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
-| [Modern Web Guidance](entries/coding-agent/googlechrome-modern-web-guidance.md) ⚑ | 15,170 | 550 | 週次 | 4 | 2026-11-10 | 2026-11-15 | 2026-11-15 | Apache-2.0 |
-| [Garden Skills](entries/coding-agent/conardli-garden-skills.md) ⚑ | 14,851 | 1,710 | 週次 | 11 | 2026-11-08 | 2026-11-10 | 2026-11-10 | MIT |
-| [Agent Orchestrator](entries/coding-agent/orchestratorinc-agent-orchestrator.md) ⚑ | 14,373 | 1,955 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | Apache-2.0 |
-| [UI Skills](entries/coding-agent/ibelick-ui-skills.md) ⚑ | 10,912 | 521 | 毎日 | 85 | 2026-11-07 | 2026-11-10 | 2026-11-10 | MIT |
-| [Dashi PPT Skill](entries/coding-agent/chuspeeism-dashi-ppt-skill.md) ⚑ | 10,694 | 910 | 月次 | 2 | 2026-11-06 | 2026-11-15 | 2026-11-15 | AGPL-3.0 |
-| [improve](entries/coding-agent/shadcn-improve.md) ⚑ | 10,241 | 425 | 停滞 | 0 | 2026-09-12 | 2026-11-10 | 2026-11-11 | MIT |
-| [Copilot for Obsidian](entries/coding-agent/logancyang-obsidian-copilot.md) ⚑ | 7,992 | 773 | 毎日 | 100+ | 2026-11-14 | 2026-11-15 | 2026-11-15 | AGPL-3.0 |
-| [fast-jev-compaction](entries/coding-agent/tamaratran-fast-jev-compaction.md) ⚑ | 7,933 | 581 | 月次 | 0 | 2026-09-18 | 2026-11-09 | 2026-11-10 | MIT |
-| [ZSeven-W/openpencil](entries/coding-agent/zseven-w-openpencil.md) ⚑ | 7,172 | 625 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
-| [Coucou](entries/coding-agent/louis-cfm-coucou.md) ⚑ | 7,102 | 1,166 | 毎日 | 100+ | 2026-11-06 | 2026-11-10 | 2026-11-10 | MIT |
-| [The Instagram agent skill](entries/coding-agent/jakeschincariol-instagram-agent-skill.md) ⚑ | 6,502 | 1,270 | 停滞 | 0 | 2026-09-13 | 2026-11-15 | 2026-11-15 | MIT |
-| [Skill Recorder](entries/coding-agent/microsoft-skill-recorder.md) ⚑ | 5,816 | 658 | 週次 | 8 | 2026-11-12 | 2026-11-15 | 2026-11-15 | MIT |
-| [billion-context](entries/coding-agent/ranxianglei-billion-context.md) ⚑ | 5,714 | 433 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | NOASSERTION |
-| [TokenEconomizer](entries/coding-agent/microsoft-tokeneconomizer.md) ⚑ | 5,576 | 345 | 毎日 | 100+ | 2026-11-08 | 2026-11-10 | 2026-11-10 | Apache-2.0 |
-| [Obsidian Mind](entries/coding-agent/breferrari-obsidian-mind.md) ⚑ | 5,525 | 610 | 毎日 | 36 | 2026-10-17 | 2026-11-10 | 2026-11-10 | MIT |
-| [obsidian-second-brain](entries/coding-agent/eugeniughelbur-obsidian-second-brain.md) ⚑ | 5,252 | 643 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | MIT |
-| [chinese-novelist skill](entries/coding-agent/penglonghuang-chinese-novelist-skill.md) ⚑ | 4,766 | 646 | 毎日 | 21 | 2026-11-01 | 2026-11-11 | 2026-11-11 | MIT |
-| [obsidianmd/obsidian-sample-plugin](entries/coding-agent/obsidianmd-obsidian-sample-plugin.md) ⚑ | 4,672 | 1,810 | 停滞 | 0 | 2026-08-02 | 2026-11-09 | 2026-11-10 | 0BSD |
-| [Drama Skills](entries/coding-agent/zenstory-ai-drama-skills.md) ⚑ | 4,202 | 739 | 毎日 | 80 | 2026-11-10 | 2026-11-13 | 2026-11-14 | MIT |
-| [pstack-claude](entries/coding-agent/michael-denyer-pstack-claude.md) ⚑ | 4,178 | 381 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
-| [Three.js Skills for Claude Code](entries/coding-agent/cloudai-x-threejs-skills.md) ⚑ | 4,148 | 477 | 毎日 | 20 | 2026-10-19 | 2026-11-12 | 2026-11-12 | MIT |
-| [Scenario Agent Skills](entries/coding-agent/scenario-labs-skills.md) ⚑ | 3,658 | 321 | 毎日 | 100+ | 2026-11-10 | 2026-11-11 | 2026-11-11 | MIT |
-| [tstack](entries/coding-agent/t3dotgg-tstack.md) ⚑ | 3,411 | 258 | 週次 | 5 | 2026-10-28 | 2026-11-10 | 2026-11-10 | MIT |
-| [Beacon](entries/coding-agent/asymptote-labs-agent-beacon.md) ⚑ | 3,410 | 302 | 毎日 | 100+ | 2026-11-09 | 2026-11-10 | 2026-11-10 | MIT |
-| [oh-my-mermaid（omm）](entries/coding-agent/oh-my-mermaid-oh-my-mermaid.md) | 3,389 | 267 | 停滞 | 0 | 2026-04-07 | 2026-11-09 | 2026-11-10 | MIT |
-| [nanoMuse — 自分のデバイスで動くオープンソースパーソナルエージェント](entries/coding-agent/nano-muse-nanomuse.md) ⚑ | 3,358 | 402 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
-| [Jevgrep](entries/coding-agent/dzhng-jevgrep.md) ⚑ | 3,205 | 245 | 毎日 | 71 | 2026-11-08 | 2026-11-10 | 2026-11-11 | MIT |
-| [Oil UI](entries/coding-agent/oil-oil-oil-ui.md) ⚑ | 3,102 | 177 | 毎日 | 52 | 2026-11-10 | 2026-11-10 | 2026-11-11 | MIT |
-| [yomiyasu（よみやす）](entries/coding-agent/nanaism-yomiyasu.md) ⚑ | 2,975 | 78 | 毎日 | 26 | 2026-11-10 | 2026-11-11 | 2026-11-11 | MIT |
-| [Three.js Game Skills](entries/coding-agent/majidmanzarpour-threejs-game-skills.md) | 2,815 | 284 | 停滞 | 0 | 2026-09-28 | 2026-11-15 | 2026-11-15 | MIT |
-| [DS Harness Remote](entries/coding-agent/liguobao-ds-harness-remote.md) ⚑ | 2,667 | 198 | 毎日 | 100+ | 2026-11-12 | 2026-11-12 | 2026-11-12 | MIT |
-| [Better Harness](entries/coding-agent/qoderai-better-harness.md) ⚑ | 2,444 | 204 | 週次 | 12 | 2026-11-07 | 2026-11-10 | 2026-11-10 | MIT |
-| [Rainman Translate Book](entries/coding-agent/deusyu-translate-book.md) ⚑ | 2,412 | 278 | 週次 | 8 | 2026-11-07 | 2026-11-15 | 2026-11-15 | MIT |
-| [ppmpreetham/BUI](entries/coding-agent/ppmpreetham-bui.md) ⚑ | 2,363 | 95 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
-| [reacher-z/Awesome-REA](entries/coding-agent/reacher-z-awesome-rea.md) ⚑ | 2,312 | 421 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
-| [Awesome Short Drama Skills](entries/coding-agent/underleveledbuilder-awesome-short-drama-skills.md) ⚑ | 2,284 | 275 | 毎日 | 80 | 2026-11-13 | 2026-11-13 | 2026-11-14 | CC0-1.0 |
-| [boss-agent-cli](entries/coding-agent/can4hou6joeng4-boss-agent-cli.md) | 2,223 | 192 | 毎日 | 100+ | 2026-11-15 | 2026-11-15 | 2026-11-15 | MIT |
-| [MotionSites Web Builder](entries/coding-agent/motionsites-ai-claude-skill.md) ⚑ | 1,935 | 198 | 月次 | 2 | 2026-10-26 | 2026-11-10 | 2026-11-10 | unknown |
-| [zlib](entries/coding-agent/heartleo-zlib.md) ⚑ | 1,860 | 135 | 毎日 | 100+ | 2026-11-13 | 2026-11-13 | 2026-11-14 | MIT |
-| [BAMA: Build Any Mac App](entries/coding-agent/daveebbelaar-bama.md) ⚑ | 1,819 | 223 | 毎日 | 27 | 2026-11-05 | 2026-11-15 | 2026-11-15 | MIT |
-| [reanimate](entries/coding-agent/niazmorshed2007-reanimate.md) ⚑ | 1,557 | 136 | 毎日 | 20 | 2026-10-31 | 2026-11-11 | 2026-11-11 | MIT |
-| [PHP Version Checker](entries/coding-agent/openai-php2shell-checker.md) ⚑ | 1,468 | 147 | 週次 | 8 | 2026-10-22 | 2026-11-10 | 2026-11-10 | Apache-2.0 |
-| [EvoSkill](entries/coding-agent/sentient-agi-evoskill.md) ⚑ | 1,298 | 134 | 停滞 | 0 | 2026-10-26 | 2026-11-12 | 2026-11-12 | Apache-2.0 |
-| [Claude Code Frontend Design Toolkit](entries/coding-agent/wilwaldon-claude-code-frontend-design-toolkit.md) ⚑ | 1,292 | 138 | 停滞 | 0 | 2026-04-11 | 2026-11-10 | 2026-11-10 | unknown |
-| [Claude Remotion Skill](entries/coding-agent/haidrrrry-claude-remotion-skill.md) ⚑ | 960 | 131 | 停滞 | 0 | 2026-08-12 | 2026-11-12 | 2026-11-12 | MIT |
-| [Second Brain Starter](entries/coding-agent/coleam00-second-brain-starter.md) ⚑ | 885 | 188 | 停滞 | 0 | 2026-06-09 | 2026-11-10 | 2026-11-10 | unknown |
-| [公文 Skills · dyz-gongwen-skills](entries/coding-agent/duyunzhoudyz-dyz-gongwen-skills.md) ⚑ | 852 | 38 | 毎日 | 91 | 2026-11-13 | 2026-11-16 | 2026-11-16 | unknown |
-| [yuwen-publish-precheck｜发布前审](entries/coding-agent/yuwen-cool-yuwen-publish-precheck.md) ⚑ | 814 | 77 | 月次 | 0 | 2026-10-08 | 2026-11-14 | 2026-11-14 | MIT |
-| [claude-motion-design](entries/coding-agent/howseen-ai-claude-motion-design.md) ⚑ | 811 | 105 | 月次 | 0 | 2026-10-04 | 2026-11-12 | 2026-11-12 | MIT |
-| [Second Brain](entries/coding-agent/nicholasspisak-second-brain.md) ⚑ | 775 | 116 | 停滞 | 0 | 2026-04-07 | 2026-11-10 | 2026-11-11 | unknown |
-| [MCode Stack](entries/coding-agent/minimax-ai-mcode-stack.md) ⚑ | 717 | 50 | 週次 | 16 | 2026-11-11 | 2026-11-15 | 2026-11-15 | MIT |
-| [Common Skills](entries/coding-agent/warpdotdev-common-skills.md) ⚑ | 686 | 44 | 月次 | 2 | 2026-10-28 | 2026-11-10 | 2026-11-10 | MIT |
-| [Motion Graphics Skill Pack](entries/coding-agent/charlie947-motion-graphics-skills.md) ⚑ | 648 | 86 | 月次 | 0 | 2026-10-11 | 2026-11-12 | 2026-11-12 | MIT |
-| [min-skill](entries/coding-agent/limin112-min-skill.md) ⚑ | 630 | 94 | 週次 | 14 | 2026-11-05 | 2026-11-11 | 2026-11-11 | unknown |
-| [devvm](entries/coding-agent/devvmhq-devvm.md) ⚑ | 628 | 31 | 毎日 | 100+ | 2026-11-14 | 2026-11-14 | 2026-11-14 | MIT |
-| [Machine Skill](entries/coding-agent/airsuphq-machine-skill.md) ⚑ | 625 | 83 | 週次 | 8 | 2026-10-13 | 2026-11-10 | 2026-11-11 | MIT |
-| [Diorama](entries/coding-agent/sloemo01-diorama.md) ⚑ | 554 | 44 | 毎日 | 26 | 2026-11-16 | 2026-11-16 | 2026-11-16 | MIT |
-| [DSH Game Studio](entries/coding-agent/zseven-w-dsh-game-studio.md) ⚑ | 546 | 45 | 週次 | 11 | 2026-11-09 | 2026-11-13 | 2026-11-14 | MIT |
-| [qiaomu-seo](entries/coding-agent/joeseesun-qiaomu-seo.md) ⚑ | 475 | 62 | 停滞 | 0 | 2026-08-03 | 2026-11-16 | 2026-11-16 | MIT |
-| [Product Engineering](entries/coding-agent/phuryn-product-engineering.md) ⚑ | 455 | 59 | 毎日 | 100+ | 2026-11-08 | 2026-11-10 | 2026-11-11 | MIT |
-| [SeeCut](entries/coding-agent/yeje-cpu-seecut.md) ⚑ | 453 | 84 | 月次 | 2 | 2026-10-30 | 2026-11-12 | 2026-11-12 | unknown |
-| [simcraft](entries/coding-agent/dotslashsimran-simcraft.md) ⚑ | 418 | 32 | 月次 | 3 | 2026-11-09 | 2026-11-14 | 2026-11-14 | MIT |
-| [OnlyShot](entries/coding-agent/a-cat-with-carrots-onlyshot.md) ⚑ | 408 | 43 | 週次 | 11 | 2026-11-12 | 2026-11-12 | 2026-11-12 | MIT |
-| [Typefree](entries/coding-agent/kdsz001-typefree.md) ⚑ | 398 | 70 | 週次 | 4 | 2026-10-28 | 2026-11-13 | 2026-11-13 | unknown |
-| [Video Studio Skill](entries/coding-agent/aaitor-skill-video-studio.md) ⚑ | 390 | 13 | 週次 | 8 | 2026-11-04 | 2026-11-10 | 2026-11-11 | MIT |
-| [Cinematic Skill](entries/coding-agent/moh4696-cinematic-skill.md) ⚑ | 350 | 28 | 月次 | 3 | 2026-11-09 | 2026-11-14 | 2026-11-14 | MIT |
-| [Agent HUD](entries/coding-agent/jazzenchen-agent-hud-open.md) ⚑ | 326 | 54 | 毎日 | 100+ | 2026-11-10 | 2026-11-11 | 2026-11-11 | Apache-2.0 |
-| [xAI Plugin Marketplace](entries/coding-agent/xai-org-plugin-marketplace.md) ⚑ | 325 | 1,222 | 毎日 | 31 | 2026-11-09 | 2026-11-10 | 2026-11-10 | unknown |
-| [P&ID to Knowledge Graph](entries/coding-agent/scottduncanai-pid-to-knowledge-graph.md) ⚑ | 265 | 55 | 月次 | 3 | 2026-11-08 | 2026-11-14 | 2026-11-14 | MIT |
-| [sakurai-skill](entries/coding-agent/kociden-sakurai-skill.md) ⚑ | 244 | 18 | 週次 | 5 | 2026-11-12 | 2026-11-14 | 2026-11-14 | unknown |
-| [Motion.dev Animations Skill](entries/coding-agent/199-biotechnologies-motion-dev-animations-skill.md) ⚑ | 231 | 36 | 停滞 | 0 | 2026-03-30 | 2026-11-12 | 2026-11-12 | MIT |
-| [AI Second Brain](entries/coding-agent/charlie947-ai-second-brain.md) ⚑ | 229 | 45 | 月次 | 1 | 2026-10-24 | 2026-11-10 | 2026-11-11 | MIT |
-| [Motion Design Skills](entries/coding-agent/iart-ai-motion-design-skills.md) ⚑ | 226 | 36 | 月次 | 1 | 2026-11-11 | 2026-11-12 | 2026-11-12 | MIT |
-| [open-source-hands](entries/coding-agent/abouchedidxcode-open-source-hands.md) ⚑ | 205 | 30 | 月次 | 2 | 2026-11-03 | 2026-11-11 | 2026-11-11 | MIT |
-| [Dual-Brain — 設計とコードの二視点レビュー用スキル](entries/coding-agent/sleeplesshan-dual-brain.md) ⚑ | 143 | 11 | 週次 | 6 | 2026-11-06 | 2026-11-09 | 2026-11-10 | MIT |
-| [quicksilver](entries/coding-agent/uditakhourii-quicksilver.md) ⚑ | 142 | 11 | 停滞 | 0 | 2026-09-25 | 2026-11-09 | 2026-11-10 | MIT |
-| [Flecha](entries/coding-agent/lucianodiisouza-flecha-browser.md) ⚑ | 134 | 22 | 毎日 | 100+ | 2026-11-11 | 2026-11-15 | 2026-11-15 | MIT |
-| [astro-conversion-kit](entries/coding-agent/ethanplusai-astro-conversion-kit.md) ⚑ | 131 | 25 | 毎日 | 100+ | 2026-10-31 | 2026-11-15 | 2026-11-15 | MIT |
-| [Awesome Motion Design Agent Skills](entries/coding-agent/frankxai-awesome-motion-design-agent-skills.md) ⚑ | 106 | 37 | 週次 | 10 | 2026-11-09 | 2026-11-12 | 2026-11-12 | CC0-1.0 |
-| [Xing4.0-29B-A4B](entries/coding-agent/xingchen-agi-xing4.0-29b-a4b.md) ⚑ | 106 | 10 | 週次 | 7 | 2026-11-10 | 2026-11-12 | 2026-11-12 | Apache-2.0 |
-| [Motion AI Kit](entries/coding-agent/motiondivision-ai-kit.md) ⚑ | 104 | 15 | 週次 | 10 | 2026-11-04 | 2026-11-15 | 2026-11-15 | unknown |
-| [Klik Motion-Graphics System](entries/coding-agent/t3knobox-klik-anim-skill-creation.md) ⚑ | 96 | 19 | 停滞 | 0 | 2026-08-06 | 2026-11-12 | 2026-11-12 | unknown |
-| [jev-code](entries/coding-agent/francoischastel-jev-code.md) ⚑ | 59 | 9 | 月次 | 0 | 2026-10-31 | 2026-11-11 | 2026-11-11 | MIT |
-| [Flow Preview](entries/coding-agent/tanishqkancharla-flow-preview.md) ⚑ | 37 | 3 | 週次 | 13 | 2026-11-06 | 2026-11-10 | 2026-11-11 | Apache-2.0 |
-| [Jev Cookbook](entries/coding-agent/jev-engineering-cookbook.md) ⚑ | 30 | 5 | 毎日 | 73 | 2026-11-10 | 2026-11-11 | 2026-11-11 | MIT |
-| [Teddarific/skills](entries/coding-agent/teddarific-skills.md) ⚑ | 18 | 1 | 月次 | 3 | 2026-10-14 | 2026-11-10 | 2026-11-11 | unknown |
-| [davekiss/mods（leaks）](entries/coding-agent/davekiss-mods.md) ⚑ | 12 | 1 | 週次 | 11 | 2026-10-29 | 2026-11-10 | 2026-11-11 | MIT |
-| [system-design-skill](entries/coding-agent/codejunkie99-system-design-skill.md) ⚑ | 9 | 1 | 月次 | 1 | 2026-11-01 | 2026-11-10 | 2026-11-11 | MIT |
-| [opencode-compaction-anchor](entries/coding-agent/kylebakerio-opencode-compaction-anchor.md) ⚑ | 3 | 1 | 月次 | 2 | 2026-11-01 | 2026-11-12 | 2026-11-12 | MIT |
-| [Cracked Engineer](entries/coding-agent/codejunkie99-cracked-engineer.md) ⚑ | 2 | 0 | 月次 | 1 | 2026-11-06 | 2026-11-13 | 2026-11-13 | unknown |
-| [GDG Agent Skillsの実演教材](entries/coding-agent/gdg-oau-agent-skills-gdg.md) ⚑ | 1 | 0 | 週次 | 13 | 2026-11-07 | 2026-11-10 | 2026-11-10 | unknown |
-| [JobFit](entries/coding-agent/du8866-nice-jobfit.md) ⚑ | 1 | 0 | 週次 | 7 | 2026-10-29 | 2026-11-12 | 2026-11-12 | MIT |
-| [Berth](entries/coding-agent/maxzyma-berth.md) ⚑ | 0 | 0 | 毎日 | 100+ | 2026-11-11 | 2026-11-12 | 2026-11-12 | MIT |
-| [ChrisHKAI-Video](entries/coding-agent/authrain-cloud-abdullahformuli-chrishkai-video.md) ⚑ | 0 | 0 | 月次 | 1 | 2026-11-07 | 2026-11-15 | 2026-11-15 | MIT |
-| [Leash](entries/coding-agent/cmaintz-leash.md) ⚑ | 0 | 0 | 毎日 | 21 | 2026-11-06 | 2026-11-10 | 2026-11-11 | MIT |
-| [grok-x](entries/coding-agent/stat-guy-grok-x.md) ⚑ | 0 | 0 | 停滞 | 0 | 2026-03-19 | 2026-11-16 | 2026-11-16 | unknown |
+| [ECC](entries/coding-agent/affaan-m-ecc.md) ⚑ | 304,545 | 44,853 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [Karpathy Guidelines（karpathy-guidelines スキル）](entries/coding-agent/multica-ai-andrej-karpathy-skills.md) ⚑ | 233,710 | 23,246 | 停滞 | 0 | 2026-04-20 | 2026-11-16 | 2026-11-22 | unknown |
+| [Claude Code](entries/coding-agent/anthropics-claude-code.md) ⚑ | 155,907 | 25,021 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | unknown |
+| [UI UX Pro Max](entries/coding-agent/nextlevelbuilder-ui-ux-pro-max-skill.md) ⚑ | 150,395 | 15,896 | 毎日 | 26 | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [Spec Kit](entries/coding-agent/github-spec-kit.md) ⚑ | 150,094 | 13,485 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [Next.js](entries/coding-agent/vercel-next.js.md) ⚑ | 143,631 | 32,812 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [Orca](entries/coding-agent/stablyai-orca.md) ⚑ | 126,702 | 8,041 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [Caveman](entries/coding-agent/juliusbrussee-caveman.md) ⚑ | 120,741 | 7,051 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [Agent Skills](entries/coding-agent/addyosmani-agent-skills.md) ⚑ | 118,297 | 12,355 | 毎日 | 100+ | 2026-11-14 | 2026-11-16 | 2026-11-22 | MIT |
+| [OpenDesign](entries/coding-agent/nexu-io-open-design.md) ⚑ | 107,933 | 12,261 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [Playwright](entries/coding-agent/microsoft-playwright.md) ⚑ | 100,346 | 6,896 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [autoresearch](entries/coding-agent/karpathy-autoresearch.md) ⚑ | 100,135 | 13,784 | 停滞 | 0 | 2026-03-26 | 2026-11-16 | 2026-11-22 | unknown |
+| [Archify](entries/coding-agent/tt-a1i-archify.md) ⚑ | 97,153 | 6,636 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [Awesome Claude Skills](entries/coding-agent/composiohq-awesome-claude-skills.md) ⚑ | 79,651 | 9,740 | 停滞 | 0 | 2026-09-18 | 2026-11-16 | 2026-11-22 | unknown |
+| [CodeGraph](entries/coding-agent/colbymchenry-codegraph.md) | 77,745 | 5,189 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [AI Job Search](entries/coding-agent/ai-job-search-dev-ai-job-search.md) ⚑ | 72,085 | 23,191 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [Open Interpreter](entries/coding-agent/openinterpreter-openinterpreter.md) ⚑ | 68,895 | 5,950 | 毎日 | 20 | 2026-11-15 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [Skills for Designers and Engineers](entries/coding-agent/emilkowalski-skills.md) ⚑ | 57,448 | 3,375 | 週次 | 12 | 2026-11-15 | 2026-11-16 | 2026-11-22 | MIT |
+| [Obsidian Agent Skills](entries/coding-agent/obsidianmd-obsidian-skills.md) ⚑ | 52,945 | 3,771 | 毎日 | 34 | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [Obsidian Skills](entries/coding-agent/kepano-obsidian-skills.md) ⚑ | 52,944 | 3,771 | 毎日 | 34 | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [herdr](entries/coding-agent/herdrdev-herdr.md) ⚑ | 51,387 | 4,153 | 週次 | 15 | 2026-11-07 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [wshobson/agents](entries/coding-agent/wshobson-agents.md) ⚑ | 42,582 | 4,501 | 週次 | 18 | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [Codewhale](entries/coding-agent/codewhale-hq-codewhale.md) ⚑ | 41,184 | 3,572 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [Claude Code Game Studios](entries/coding-agent/donchitos-claude-code-game-studios.md) ⚑ | 39,760 | 5,190 | 月次 | 2 | 2026-11-09 | 2026-11-16 | 2026-11-22 | MIT |
+| [oh-my-pi](entries/coding-agent/can1357-oh-my-pi.md) ⚑ | 39,203 | 4,489 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [Awesome Agent Skills](entries/coding-agent/voltagent-awesome-agent-skills.md) ⚑ | 37,245 | 4,148 | 毎日 | 100+ | 2026-11-15 | 2026-11-16 | 2026-11-22 | MIT |
+| [Craft Anything](entries/coding-agent/storytold-craft-anything.md) | 34,695 | 6,997 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [Vercel Agent Skills](entries/coding-agent/vercel-labs-agent-skills.md) ⚑ | 34,200 | 2,985 | 週次 | 5 | 2026-11-12 | 2026-11-16 | 2026-11-22 | unknown |
+| [claude-code-templates](entries/coding-agent/davila7-claude-code-templates.md) ⚑ | 33,865 | 4,008 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [meta/astryx](entries/coding-agent/meta-astryx.md) ⚑ | 29,520 | 2,304 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [AGENTS.md](entries/coding-agent/agentsmd-agents.md.md) ⚑ | 25,522 | 1,965 | 月次 | 0 | 2026-09-10 | 2026-11-16 | 2026-11-22 | MIT |
+| [jcode](entries/coding-agent/1jehuang-jcode.md) | 21,821 | 2,544 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [bolt.diy](entries/coding-agent/stackblitz-labs-bolt.diy.md) ⚑ | 20,095 | 10,611 | 毎日 | 65 | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [Modern Web Guidance](entries/coding-agent/googlechrome-modern-web-guidance.md) ⚑ | 20,065 | 787 | 週次 | 5 | 2026-11-16 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [GSAP AI Skills](entries/coding-agent/greensock-gsap-skills.md) ⚑ | 18,549 | 1,176 | 停滞 | 0 | 2026-07-29 | 2026-11-16 | 2026-11-22 | MIT |
+| [pstack（Lauren Tan / poteto）](entries/coding-agent/cursor-plugins.md) ⚑ | 16,618 | 1,773 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [ai-memory](entries/coding-agent/akitaonrails-ai-memory.md) ⚑ | 16,010 | 1,201 | 毎日 | 100+ | 2026-11-15 | 2026-11-16 | 2026-11-22 | MIT |
+| [Claudian](entries/coding-agent/yishentu-claudian.md) ⚑ | 16,007 | 1,096 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [Garden Skills](entries/coding-agent/conardli-garden-skills.md) ⚑ | 15,296 | 1,740 | 毎日 | 20 | 2026-11-14 | 2026-11-16 | 2026-11-22 | MIT |
+| [Agent Orchestrator](entries/coding-agent/orchestratorinc-agent-orchestrator.md) ⚑ | 14,816 | 2,034 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [improve](entries/coding-agent/shadcn-improve.md) ⚑ | 11,998 | 487 | 停滞 | 0 | 2026-09-12 | 2026-11-16 | 2026-11-22 | MIT |
+| [UI Skills](entries/coding-agent/ibelick-ui-skills.md) ⚑ | 11,125 | 534 | 毎日 | 46 | 2026-11-14 | 2026-11-16 | 2026-11-22 | MIT |
+| [Dashi PPT Skill](entries/coding-agent/chuspeeism-dashi-ppt-skill.md) ⚑ | 10,750 | 916 | 月次 | 2 | 2026-11-06 | 2026-11-16 | 2026-11-22 | AGPL-3.0 |
+| [Copilot for Obsidian](entries/coding-agent/logancyang-obsidian-copilot.md) ⚑ | 8,005 | 775 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | AGPL-3.0 |
+| [fast-jev-compaction](entries/coding-agent/tamaratran-fast-jev-compaction.md) ⚑ | 7,985 | 588 | 月次 | 0 | 2026-09-18 | 2026-11-16 | 2026-11-22 | MIT |
+| [billion-context](entries/coding-agent/ranxianglei-billion-context.md) ⚑ | 7,665 | 618 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | NOASSERTION |
+| [Coucou](entries/coding-agent/louis-cfm-coucou.md) ⚑ | 7,274 | 1,195 | 毎日 | 100+ | 2026-11-13 | 2026-11-16 | 2026-11-22 | MIT |
+| [ZSeven-W/openpencil](entries/coding-agent/zseven-w-openpencil.md) ⚑ | 7,254 | 637 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [TokenEconomizer](entries/coding-agent/microsoft-tokeneconomizer.md) ⚑ | 7,110 | 462 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [The Instagram agent skill](entries/coding-agent/jakeschincariol-instagram-agent-skill.md) ⚑ | 6,800 | 1,329 | 停滞 | 0 | 2026-09-13 | 2026-11-16 | 2026-11-22 | MIT |
+| [Skill Recorder](entries/coding-agent/microsoft-skill-recorder.md) ⚑ | 5,835 | 657 | 週次 | 8 | 2026-11-12 | 2026-11-16 | 2026-11-22 | MIT |
+| [Obsidian Mind](entries/coding-agent/breferrari-obsidian-mind.md) ⚑ | 5,540 | 616 | 月次 | 1 | 2026-10-17 | 2026-11-16 | 2026-11-22 | MIT |
+| [obsidian-second-brain](entries/coding-agent/eugeniughelbur-obsidian-second-brain.md) ⚑ | 5,353 | 655 | 毎日 | 98 | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [chinese-novelist skill](entries/coding-agent/penglonghuang-chinese-novelist-skill.md) ⚑ | 4,959 | 682 | 毎日 | 25 | 2026-11-15 | 2026-11-16 | 2026-11-22 | MIT |
+| [obsidianmd/obsidian-sample-plugin](entries/coding-agent/obsidianmd-obsidian-sample-plugin.md) ⚑ | 4,707 | 1,814 | 停滞 | 0 | 2026-08-02 | 2026-11-16 | 2026-11-22 | 0BSD |
+| [pstack-claude](entries/coding-agent/michael-denyer-pstack-claude.md) ⚑ | 4,393 | 402 | 毎日 | 100+ | 2026-11-13 | 2026-11-16 | 2026-11-22 | MIT |
+| [Drama Skills](entries/coding-agent/zenstory-ai-drama-skills.md) ⚑ | 4,350 | 760 | 毎日 | 68 | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [Three.js Skills for Claude Code](entries/coding-agent/cloudai-x-threejs-skills.md) ⚑ | 4,228 | 487 | 毎日 | 20 | 2026-10-19 | 2026-11-16 | 2026-11-22 | MIT |
+| [tstack](entries/coding-agent/t3dotgg-tstack.md) ⚑ | 4,036 | 308 | 週次 | 6 | 2026-11-11 | 2026-11-16 | 2026-11-22 | MIT |
+| [Scenario Agent Skills](entries/coding-agent/scenario-labs-skills.md) ⚑ | 3,837 | 335 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [Beacon](entries/coding-agent/asymptote-labs-agent-beacon.md) ⚑ | 3,531 | 317 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [nanoMuse — 自分のデバイスで動くオープンソースパーソナルエージェント](entries/coding-agent/nano-muse-nanomuse.md) ⚑ | 3,528 | 419 | 毎日 | 100+ | 2026-11-13 | 2026-11-16 | 2026-11-22 | GPL-3.0 |
+| [Oil UI](entries/coding-agent/oil-oil-oil-ui.md) ⚑ | 3,452 | 198 | 毎日 | 44 | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [oh-my-mermaid（omm）](entries/coding-agent/oh-my-mermaid-oh-my-mermaid.md) | 3,393 | 266 | 停滞 | 0 | 2026-04-07 | 2026-11-16 | 2026-11-22 | MIT |
+| [yomiyasu（よみやす）](entries/coding-agent/nanaism-yomiyasu.md) ⚑ | 3,312 | 89 | 毎日 | 23 | 2026-11-12 | 2026-11-16 | 2026-11-22 | MIT |
+| [Jevgrep](entries/coding-agent/dzhng-jevgrep.md) ⚑ | 3,234 | 247 | 毎日 | 66 | 2026-11-12 | 2026-11-16 | 2026-11-22 | MIT |
+| [DS Harness Remote](entries/coding-agent/liguobao-ds-harness-remote.md) ⚑ | 3,073 | 232 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [reacher-z/Awesome-REA](entries/coding-agent/reacher-z-awesome-rea.md) ⚑ | 3,002 | 502 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [Three.js Game Skills](entries/coding-agent/majidmanzarpour-threejs-game-skills.md) | 2,828 | 284 | 停滞 | 0 | 2026-09-28 | 2026-11-16 | 2026-11-22 | MIT |
+| [ppmpreetham/BUI](entries/coding-agent/ppmpreetham-bui.md) ⚑ | 2,581 | 116 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | GPL-3.0 |
+| [Better Harness](entries/coding-agent/qoderai-better-harness.md) ⚑ | 2,462 | 206 | 週次 | 9 | 2026-11-11 | 2026-11-16 | 2026-11-22 | MIT |
+| [Awesome Short Drama Skills](entries/coding-agent/underleveledbuilder-awesome-short-drama-skills.md) ⚑ | 2,436 | 293 | 毎日 | 46 | 2026-11-16 | 2026-11-16 | 2026-11-22 | CC0-1.0 |
+| [Rainman Translate Book](entries/coding-agent/deusyu-translate-book.md) ⚑ | 2,425 | 279 | 週次 | 8 | 2026-11-07 | 2026-11-16 | 2026-11-22 | MIT |
+| [boss-agent-cli](entries/coding-agent/can4hou6joeng4-boss-agent-cli.md) | 2,225 | 194 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [MotionSites Web Builder](entries/coding-agent/motionsites-ai-claude-skill.md) ⚑ | 2,160 | 221 | 月次 | 2 | 2026-10-26 | 2026-11-16 | 2026-11-22 | unknown |
+| [zlib](entries/coding-agent/heartleo-zlib.md) ⚑ | 2,022 | 141 | 毎日 | 100+ | 2026-11-15 | 2026-11-16 | 2026-11-22 | MIT |
+| [BAMA: Build Any Mac App](entries/coding-agent/daveebbelaar-bama.md) ⚑ | 1,866 | 228 | 毎日 | 27 | 2026-11-05 | 2026-11-16 | 2026-11-22 | MIT |
+| [reanimate](entries/coding-agent/niazmorshed2007-reanimate.md) ⚑ | 1,721 | 147 | 毎日 | 20 | 2026-10-31 | 2026-11-16 | 2026-11-22 | MIT |
+| [PHP Version Checker](entries/coding-agent/openai-php2shell-checker.md) ⚑ | 1,470 | 148 | 週次 | 8 | 2026-10-22 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [Claude Code Frontend Design Toolkit](entries/coding-agent/wilwaldon-claude-code-frontend-design-toolkit.md) ⚑ | 1,312 | 144 | 停滞 | 0 | 2026-04-11 | 2026-11-16 | 2026-11-22 | unknown |
+| [EvoSkill](entries/coding-agent/sentient-agi-evoskill.md) ⚑ | 1,303 | 134 | 停滞 | 0 | 2026-10-26 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [Claude Remotion Skill](entries/coding-agent/haidrrrry-claude-remotion-skill.md) ⚑ | 1,061 | 143 | 停滞 | 0 | 2026-08-12 | 2026-11-16 | 2026-11-22 | MIT |
+| [Second Brain Starter](entries/coding-agent/coleam00-second-brain-starter.md) ⚑ | 905 | 191 | 停滞 | 0 | 2026-06-09 | 2026-11-16 | 2026-11-22 | unknown |
+| [公文 Skills · dyz-gongwen-skills](entries/coding-agent/duyunzhoudyz-dyz-gongwen-skills.md) ⚑ | 883 | 38 | 毎日 | 91 | 2026-11-13 | 2026-11-16 | 2026-11-22 | unknown |
+| [claude-motion-design](entries/coding-agent/howseen-ai-claude-motion-design.md) ⚑ | 845 | 106 | 月次 | 0 | 2026-10-04 | 2026-11-16 | 2026-11-22 | MIT |
+| [yuwen-publish-precheck｜发布前审](entries/coding-agent/yuwen-cool-yuwen-publish-precheck.md) ⚑ | 816 | 78 | 月次 | 0 | 2026-10-08 | 2026-11-16 | 2026-11-22 | MIT |
+| [Second Brain](entries/coding-agent/nicholasspisak-second-brain.md) ⚑ | 779 | 116 | 停滞 | 0 | 2026-04-07 | 2026-11-16 | 2026-11-22 | unknown |
+| [MCode Stack](entries/coding-agent/minimax-ai-mcode-stack.md) ⚑ | 725 | 49 | 週次 | 16 | 2026-11-11 | 2026-11-16 | 2026-11-22 | MIT |
+| [Common Skills](entries/coding-agent/warpdotdev-common-skills.md) ⚑ | 705 | 51 | 月次 | 2 | 2026-11-11 | 2026-11-16 | 2026-11-22 | MIT |
+| [Motion Graphics Skill Pack](entries/coding-agent/charlie947-motion-graphics-skills.md) ⚑ | 696 | 97 | 月次 | 0 | 2026-10-11 | 2026-11-16 | 2026-11-22 | MIT |
+| [Machine Skill](entries/coding-agent/airsuphq-machine-skill.md) ⚑ | 692 | 92 | 月次 | 0 | 2026-10-13 | 2026-11-16 | 2026-11-22 | MIT |
+| [devvm](entries/coding-agent/devvmhq-devvm.md) ⚑ | 666 | 35 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [min-skill](entries/coding-agent/limin112-min-skill.md) ⚑ | 642 | 96 | 週次 | 14 | 2026-11-05 | 2026-11-16 | 2026-11-22 | unknown |
+| [Cinematic Skill](entries/coding-agent/moh4696-cinematic-skill.md) ⚑ | 633 | 91 | 月次 | 3 | 2026-11-09 | 2026-11-16 | 2026-11-22 | MIT |
+| [Product Engineering](entries/coding-agent/phuryn-product-engineering.md) ⚑ | 611 | 83 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [DSH Game Studio](entries/coding-agent/zseven-w-dsh-game-studio.md) ⚑ | 569 | 47 | 週次 | 11 | 2026-11-09 | 2026-11-16 | 2026-11-22 | MIT |
+| [Diorama](entries/coding-agent/sloemo01-diorama.md) ⚑ | 566 | 48 | 毎日 | 38 | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [Agent HUD](entries/coding-agent/jazzenchen-agent-hud-open.md) ⚑ | 553 | 81 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [qiaomu-seo](entries/coding-agent/joeseesun-qiaomu-seo.md) ⚑ | 476 | 62 | 停滞 | 0 | 2026-08-03 | 2026-11-16 | 2026-11-22 | MIT |
+| [simcraft](entries/coding-agent/dotslashsimran-simcraft.md) ⚑ | 470 | 36 | 月次 | 3 | 2026-11-09 | 2026-11-16 | 2026-11-22 | MIT |
+| [SeeCut](entries/coding-agent/yeje-cpu-seecut.md) ⚑ | 464 | 85 | 月次 | 2 | 2026-10-30 | 2026-11-16 | 2026-11-22 | unknown |
+| [OnlyShot](entries/coding-agent/a-cat-with-carrots-onlyshot.md) ⚑ | 416 | 45 | 週次 | 13 | 2026-11-12 | 2026-11-16 | 2026-11-22 | MIT |
+| [Typefree](entries/coding-agent/kdsz001-typefree.md) ⚑ | 398 | 70 | 月次 | 2 | 2026-10-28 | 2026-11-16 | 2026-11-22 | unknown |
+| [Video Studio Skill](entries/coding-agent/aaitor-skill-video-studio.md) ⚑ | 397 | 14 | 週次 | 8 | 2026-11-04 | 2026-11-16 | 2026-11-22 | MIT |
+| [sakurai-skill](entries/coding-agent/kociden-sakurai-skill.md) ⚑ | 373 | 24 | 週次 | 5 | 2026-11-12 | 2026-11-16 | 2026-11-22 | unknown |
+| [xAI Plugin Marketplace](entries/coding-agent/xai-org-plugin-marketplace.md) ⚑ | 333 | 1,292 | 毎日 | 25 | 2026-11-16 | 2026-11-16 | 2026-11-22 | unknown |
+| [P&ID to Knowledge Graph](entries/coding-agent/scottduncanai-pid-to-knowledge-graph.md) ⚑ | 289 | 58 | 月次 | 3 | 2026-11-08 | 2026-11-16 | 2026-11-22 | MIT |
+| [AI Second Brain](entries/coding-agent/charlie947-ai-second-brain.md) ⚑ | 240 | 47 | 月次 | 1 | 2026-10-24 | 2026-11-16 | 2026-11-22 | MIT |
+| [Motion Design Skills](entries/coding-agent/iart-ai-motion-design-skills.md) ⚑ | 239 | 40 | 月次 | 1 | 2026-11-11 | 2026-11-16 | 2026-11-22 | MIT |
+| [Motion.dev Animations Skill](entries/coding-agent/199-biotechnologies-motion-dev-animations-skill.md) ⚑ | 233 | 36 | 停滞 | 0 | 2026-03-30 | 2026-11-16 | 2026-11-22 | MIT |
+| [open-source-hands](entries/coding-agent/abouchedidxcode-open-source-hands.md) ⚑ | 216 | 31 | 月次 | 1 | 2026-11-03 | 2026-11-16 | 2026-11-22 | MIT |
+| [Dual-Brain — 設計とコードの二視点レビュー用スキル](entries/coding-agent/sleeplesshan-dual-brain.md) ⚑ | 155 | 11 | 週次 | 4 | 2026-11-06 | 2026-11-16 | 2026-11-22 | MIT |
+| [quicksilver](entries/coding-agent/uditakhourii-quicksilver.md) ⚑ | 142 | 12 | 停滞 | 0 | 2026-09-25 | 2026-11-16 | 2026-11-22 | MIT |
+| [Flecha](entries/coding-agent/lucianodiisouza-flecha-browser.md) ⚑ | 137 | 22 | 毎日 | 100+ | 2026-11-11 | 2026-11-16 | 2026-11-22 | MIT |
+| [astro-conversion-kit](entries/coding-agent/ethanplusai-astro-conversion-kit.md) ⚑ | 132 | 25 | 毎日 | 100+ | 2026-10-31 | 2026-11-16 | 2026-11-22 | MIT |
+| [Motion AI Kit](entries/coding-agent/motiondivision-ai-kit.md) ⚑ | 119 | 17 | 週次 | 8 | 2026-11-04 | 2026-11-16 | 2026-11-22 | unknown |
+| [Awesome Motion Design Agent Skills](entries/coding-agent/frankxai-awesome-motion-design-agent-skills.md) ⚑ | 114 | 37 | 週次 | 9 | 2026-11-12 | 2026-11-16 | 2026-11-22 | CC0-1.0 |
+| [Xing4.0-29B-A4B](entries/coding-agent/xingchen-agi-xing4.0-29b-a4b.md) ⚑ | 109 | 10 | 週次 | 5 | 2026-11-10 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [Klik Motion-Graphics System](entries/coding-agent/t3knobox-klik-anim-skill-creation.md) ⚑ | 97 | 19 | 停滞 | 0 | 2026-08-06 | 2026-11-16 | 2026-11-22 | unknown |
+| [jev-code](entries/coding-agent/francoischastel-jev-code.md) ⚑ | 59 | 9 | 月次 | 3 | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [Flow Preview](entries/coding-agent/tanishqkancharla-flow-preview.md) ⚑ | 37 | 3 | 週次 | 13 | 2026-11-06 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [Jev Cookbook](entries/coding-agent/jev-engineering-cookbook.md) ⚑ | 35 | 6 | 毎日 | 61 | 2026-11-14 | 2026-11-16 | 2026-11-22 | MIT |
+| [Teddarific/skills](entries/coding-agent/teddarific-skills.md) ⚑ | 19 | 1 | 月次 | 0 | 2026-10-14 | 2026-11-16 | 2026-11-22 | unknown |
+| [davekiss/mods（leaks）](entries/coding-agent/davekiss-mods.md) ⚑ | 12 | 1 | 月次 | 3 | 2026-10-29 | 2026-11-16 | 2026-11-22 | MIT |
+| [system-design-skill](entries/coding-agent/codejunkie99-system-design-skill.md) ⚑ | 10 | 1 | 月次 | 1 | 2026-11-01 | 2026-11-16 | 2026-11-22 | MIT |
+| [opencode-compaction-anchor](entries/coding-agent/kylebakerio-opencode-compaction-anchor.md) ⚑ | 3 | 1 | 月次 | 2 | 2026-11-01 | 2026-11-16 | 2026-11-22 | MIT |
+| [Cracked Engineer](entries/coding-agent/codejunkie99-cracked-engineer.md) ⚑ | 2 | 0 | 月次 | 1 | 2026-11-06 | 2026-11-16 | 2026-11-22 | unknown |
+| [GDG Agent Skillsの実演教材](entries/coding-agent/gdg-oau-agent-skills-gdg.md) ⚑ | 2 | 0 | 週次 | 13 | 2026-11-07 | 2026-11-16 | 2026-11-22 | unknown |
+| [JobFit](entries/coding-agent/du8866-nice-jobfit.md) ⚑ | 2 | 0 | 週次 | 7 | 2026-10-29 | 2026-11-16 | 2026-11-22 | MIT |
+| [Berth](entries/coding-agent/maxzyma-berth.md) ⚑ | 1 | 0 | 毎日 | 100+ | 2026-11-12 | 2026-11-16 | 2026-11-22 | MIT |
+| [ChrisHKAI-Video](entries/coding-agent/authrain-cloud-abdullahformuli-chrishkai-video.md) ⚑ | 0 | 0 | 月次 | 1 | 2026-11-07 | 2026-11-16 | 2026-11-22 | MIT |
+| [Leash](entries/coding-agent/cmaintz-leash.md) ⚑ | 0 | 0 | 毎日 | 20 | 2026-11-15 | 2026-11-16 | 2026-11-22 | MIT |
+| [grok-x](entries/coding-agent/stat-guy-grok-x.md) ⚑ | 0 | 0 | 停滞 | 0 | 2026-03-19 | 2026-11-16 | 2026-11-22 | unknown |
 
 ### エージェント基盤・スキル集（116）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
-| [Skills for Real Engineers](entries/agent-framework/mattpocock-skills.md) | 319,628 | 26,760 | 週次 | 8 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
-| [Superpowers](entries/agent-framework/obra-superpowers.md) | 315,107 | 28,031 | 月次 | 3 | 2026-11-03 | 2026-11-09 | 2026-11-10 | MIT |
-| [Hermes Agent](entries/agent-framework/nousresearch-hermes-agent.md) ⚑ | 263,292 | 59,333 | 毎日 | 100+ | 2026-11-14 | 2026-11-14 | 2026-11-14 | MIT |
-| [n8n](entries/agent-framework/n8n-io-n8n.md) ⚑ | 209,990 | 61,430 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | unknown |
-| [Firecrawl](entries/agent-framework/firecrawl-firecrawl.md) ⚑ | 200,407 | 10,543 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-11 | AGPL-3.0 |
-| [anthropics/skills](entries/agent-framework/anthropics-skills.md) ⚑ | 190,810 | 22,434 | 月次 | 2 | 2026-11-06 | 2026-11-09 | 2026-11-10 | unknown |
-| [Ponytail](entries/agent-framework/dietrichgebert-ponytail.md) | 187,617 | 10,404 | 毎日 | 50 | 2026-10-29 | 2026-11-09 | 2026-11-10 | MIT |
-| [Dify](entries/agent-framework/langgenius-dify.md) ⚑ | 160,853 | 25,444 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-11 | unknown |
-| [Awesome LLM Apps](entries/agent-framework/shubhamsaboo-awesome-llm-apps.md) ⚑ | 144,669 | 21,292 | 毎日 | 63 | 2026-11-15 | 2026-11-15 | 2026-11-15 | Apache-2.0 |
-| [gstack（Garry's Stack）](entries/agent-framework/garrytan-gstack.md) | 140,943 | 20,797 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
-| [Browser Use](entries/agent-framework/browser-use-browser-use.md) ⚑ | 120,559 | 13,471 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-11 | MIT |
-| [thedotmack/claude-mem](entries/agent-framework/thedotmack-claude-mem.md) ⚑ | 115,363 | 10,019 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [paperclip](entries/agent-framework/paperclipai-paperclip.md) | 112,618 | 18,677 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
-| [Agent-Reach](entries/agent-framework/panniantong-agent-reach.md) | 110,600 | 9,905 | 毎日 | 100+ | 2026-11-08 | 2026-11-09 | 2026-11-10 | MIT |
-| [Impeccable](entries/agent-framework/pbakaus-impeccable.md) | 106,815 | 6,347 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [OpenHands Agent Canvas](entries/agent-framework/openhands-openhands.md) ⚑ | 93,244 | 12,457 | 毎日 | 100+ | 2026-11-11 | 2026-11-11 | 2026-11-11 | MIT |
-| [Crawl4AI](entries/agent-framework/unclecode-crawl4ai.md) ⚑ | 87,228 | 9,090 | 毎日 | 30 | 2026-11-10 | 2026-11-11 | 2026-11-11 | Apache-2.0 |
-| [lobehub/lobehub](entries/agent-framework/lobehub-lobehub.md) ⚑ | 84,579 | 16,168 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | NOASSERTION |
-| [AI Agents for Beginners](entries/agent-framework/microsoft-ai-agents-for-beginners.md) ⚑ | 79,666 | 26,079 | 毎日 | 100+ | 2026-11-07 | 2026-11-15 | 2026-11-15 | MIT |
-| [strix](entries/agent-framework/usestrix-strix.md) | 74,664 | 8,445 | 毎日 | 55 | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [Security Audit Skill (Cloudflare)](entries/agent-framework/cloudflare-security-audit-skill.md) | 67,955 | 4,455 | 月次 | 0 | 2026-09-14 | 2026-11-09 | 2026-11-10 | MIT |
-| [CrewAI](entries/agent-framework/crewaiinc-crewai.md) ⚑ | 60,778 | 9,154 | 毎日 | 100+ | 2026-11-11 | 2026-11-11 | 2026-11-11 | MIT |
-| [CLI-Anything](entries/agent-framework/hkuds-cli-anything.md) | 58,505 | 5,270 | 月次 | 0 | 2026-09-22 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [Flowise](entries/agent-framework/flowiseai-flowise.md) ⚑ | 55,567 | 25,094 | 停滞 | 0 | 2026-08-13 | 2026-11-11 | 2026-11-11 | unknown |
-| [agentic-awesome-skills（AAS）](entries/agent-framework/sickn33-agentic-awesome-skills.md) | 49,414 | 7,167 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
-| [claude-plugins-official](entries/agent-framework/anthropics-claude-plugins-official.md) | 46,615 | 4,858 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [oh-my-claudecode](entries/agent-framework/yeachan-heo-oh-my-claudecode.md) ⚑ | 40,729 | 3,637 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | MIT |
-| [ai-website-cloner-template](entries/agent-framework/jcodesmore-ai-website-cloner-template.md) | 38,914 | 5,791 | 月次 | 0 | 2026-10-19 | 2026-11-09 | 2026-11-10 | MIT |
-| [Knowledge Work Plugins](entries/agent-framework/anthropics-knowledge-work-plugins.md) ⚑ | 35,663 | 3,945 | 毎日 | 75 | 2026-11-13 | 2026-11-13 | 2026-11-14 | Apache-2.0 |
-| [The Hugging Face Agents Course](entries/agent-framework/huggingface-agents-course.md) ⚑ | 34,943 | 2,505 | 月次 | 2 | 2026-11-10 | 2026-11-15 | 2026-11-15 | Apache-2.0 |
-| [PentAGI](entries/agent-framework/vxcontrol-pentagi.md) ⚑ | 33,799 | 5,305 | 月次 | 1 | 2026-10-22 | 2026-11-09 | 2026-11-10 | MIT |
-| [GBrain](entries/agent-framework/garrytan-gbrain.md) ⚑ | 32,488 | 4,838 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-11 | MIT |
-| [Composio](entries/agent-framework/composiohq-composio.md) ⚑ | 31,014 | 4,935 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-11 | MIT |
-| [TencentDB Agent Memory（チームで共有するエージェント記憶ハブ）](entries/agent-framework/tencentcloud-tencentdb-agent-memory.md) | 30,693 | 2,999 | 毎日 | 22 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT（GitHub API は NOASSERTION） |
-| [GPT Researcher](entries/agent-framework/assafelovic-gpt-researcher.md) ⚑ | 30,630 | 4,211 | 毎日 | 100+ | 2026-11-09 | 2026-11-11 | 2026-11-11 | Apache-2.0 |
-| [Activepieces](entries/agent-framework/activepieces-activepieces.md) ⚑ | 25,479 | 4,454 | 毎日 | 100+ | 2026-11-11 | 2026-11-11 | 2026-11-11 | unknown |
-| [Jev Ultrafast](entries/agent-framework/browser-use-jev-ultrafast.md) ⚑ | 24,346 | 1,874 | 月次 | 1 | 2026-11-03 | 2026-11-10 | 2026-11-11 | MIT |
-| [google/skills](entries/agent-framework/google-skills.md) ⚑ | 23,767 | 1,986 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [dsh-superagent (prototype)](entries/agent-framework/deepseek-ai-dsh-superagent-prototype.md) | 21,726 | 2,608 | 月次 | 1 | 2026-11-03 | 2026-11-09 | 2026-11-10 | MIT |
-| [agent-desktop](entries/agent-framework/vercel-labs-agent-desktop.md) | 20,364 | 1,507 | 毎日 | 81 | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [Claude Quickstarts](entries/agent-framework/anthropics-claude-quickstarts.md) ⚑ | 20,218 | 3,373 | 週次 | 5 | 2026-11-06 | 2026-11-10 | 2026-11-10 | MIT |
-| [milind-soni/OpenMausBot](entries/agent-framework/milind-soni-openmausbot.md) ⚑ | 19,575 | 2,682 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [Elephant-Goldfish Model (EGM)](entries/agent-framework/google-elephant-goldfish-model.md) ⚑ | 19,014 | 1,414 | 毎日 | 100+ | 2026-11-14 | 2026-11-14 | 2026-11-14 | Apache-2.0 |
-| [Rowboat](entries/agent-framework/rowboatlabs-rowboat.md) ⚑ | 18,231 | 1,824 | 毎日 | 100+ | 2026-11-13 | 2026-11-13 | 2026-11-14 | Apache-2.0 |
-| [ccch1mneyyy/dsh-Go](entries/agent-framework/ccch1mneyyy-dsh-go.md) ⚑ | 17,518 | 757 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | AGPL-3.0 |
-| [ARTEMIS](entries/agent-framework/google-artemis.md) | 17,116 | 1,909 | 月次 | 0 | 2026-10-01 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [opensandbox-group/OpenSandbox](entries/agent-framework/opensandbox-group-opensandbox.md) ⚑ | 16,881 | 1,589 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [QM](entries/agent-framework/yc-software-qm.md) ⚑ | 15,712 | 1,964 | 毎日 | 100+ | 2026-11-15 | 2026-11-16 | 2026-11-16 | MIT |
-| [LiveKit Agents](entries/agent-framework/livekit-agents.md) | 15,158 | 4,108 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [OpenUI](entries/agent-framework/thesysdev-openui.md) | 15,026 | 998 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
-| [e2e](entries/agent-framework/e2e-inc-e2e.md) ⚑ | 13,799 | 732 | 毎日 | 100+ | 2026-11-13 | 2026-11-13 | 2026-11-13 | Apache-2.0 |
-| [unslop](entries/agent-framework/heydamir-unslop.md) | 12,694 | 713 | 毎日 | 29 | 2026-11-08 | 2026-11-09 | 2026-11-10 | CC-BY-4.0 |
-| [Worktrunk](entries/agent-framework/max-sixty-worktrunk.md) ⚑ | 12,258 | 475 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT OR Apache-2.0 |
-| [jakubkrehel/skills（UI デザインスキル集）](entries/agent-framework/jakubkrehel-skills.md) | 11,856 | 461 | 毎日 | 39 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
-| [dsh-market/dsh-market](entries/agent-framework/dsh-market-dsh-market.md) ⚑ | 11,675 | 444 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
-| [InkOS](entries/agent-framework/narcooo-inkos.md) | 11,086 | 2,015 | 週次 | 6 | 2026-10-24 | 2026-11-09 | 2026-11-10 | AGPL-3.0 |
-| [AutoHarness](entries/agent-framework/tigerless-labs-autoharness.md) ⚑ | 10,940 | 654 | 毎日 | 100+ | 2026-11-10 | 2026-11-11 | 2026-11-11 | MIT |
-| [zhu1090093659/dsh-web](entries/agent-framework/zhu1090093659-dsh-web.md) ⚑ | 10,279 | 626 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [Mobilerun](entries/agent-framework/droidrun-mobilerun.md) ⚑ | 10,004 | 1,086 | 毎日 | 94 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
-| [Munder Difflin](entries/agent-framework/harnessmd-munder-difflin.md) ⚑ | 9,574 | 1,348 | 毎日 | 57 | 2026-11-15 | 2026-11-16 | 2026-11-16 | MIT |
-| [Orkas](entries/agent-framework/orkas-ai-orkas.md) ⚑ | 9,183 | 534 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-11 | MIT |
-| [firstmate](entries/agent-framework/kunchenguid-firstmate.md) ⚑ | 8,753 | 2,734 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-11 | MIT |
-| [CyberStrikeAI](entries/agent-framework/aipentest-cyberstrikeai.md) ⚑ | 8,514 | 1,882 | 毎日 | 91 | 2026-11-08 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [Rakazo](entries/agent-framework/elie222-rakazo.md) ⚑ | 8,321 | 1,505 | 毎日 | 100+ | 2026-11-14 | 2026-11-14 | 2026-11-14 | Apache-2.0 |
-| [HKUDS/AgentPilot](entries/agent-framework/hkuds-agentpilot.md) ⚑ | 7,978 | 939 | 月次 | 3 | 2026-11-06 | 2026-11-09 | 2026-11-10 | MIT |
-| [ccch1mneyyy/dsh-TUI](entries/agent-framework/ccch1mneyyy-dsh-tui.md) ⚑ | 7,319 | 351 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
-| [Rune](entries/agent-framework/anomalyco-rune.md) ⚑ | 7,051 | 266 | 毎日 | 100+ | 2026-11-14 | 2026-11-14 | 2026-11-14 | MIT |
-| [Open Duet](entries/agent-framework/anil-matcha-open-duet.md) | 6,936 | 897 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [Answer me with HTML](entries/agent-framework/qingyuna-answer-me-with-html.md) | 6,155 | 405 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
-| [social-media-research-skills](entries/agent-framework/scrapecreators-social-media-research-skills.md) | 6,082 | 167 | 停滞 | 0 | 2026-08-26 | 2026-11-09 | 2026-11-10 | MIT |
-| [百智办公 · MonkeyAI](entries/agent-framework/chaitin-monkeycode.md) ⚑ | 5,202 | 782 | 毎日 | 100+ | 2026-11-14 | 2026-11-15 | 2026-11-15 | AGPL-3.0 |
-| [omdsh-dev/DSH-better-sidebar](entries/agent-framework/omdsh-dev-dsh-better-sidebar.md) ⚑ | 5,028 | 481 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
-| [PilotDeck](entries/agent-framework/openbmb-pilotdeck.md) ⚑ | 4,989 | 563 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | AGPL-3.0 |
-| [liustack/modlens](entries/agent-framework/liustack-modlens.md) ⚑ | 4,879 | 152 | 週次 | 13 | 2026-11-07 | 2026-11-09 | 2026-11-10 | MIT |
-| [bowenliang123/dsh-context](entries/agent-framework/bowenliang123-dsh-context.md) ⚑ | 4,775 | 201 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [hyperresearch](entries/agent-framework/jordan-gibbs-hyperresearch.md) ⚑ | 4,482 | 462 | 毎日 | 27 | 2026-11-09 | 2026-11-10 | 2026-11-11 | MIT |
-| [Agent Autoloop](entries/agent-framework/kkkkhazix-agent-autoloop.md) ⚑ | 4,268 | 776 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
-| [Speakr](entries/agent-framework/murtaza-nasir-speakr.md) ⚑ | 4,172 | 359 | 毎日 | 100+ | 2026-11-13 | 2026-11-14 | 2026-11-14 | AGPL-3.0 |
-| [Effective HTML](entries/agent-framework/plannotator-effective-html.md) | 4,060 | 280 | 週次 | 5 | 2026-10-31 | 2026-11-09 | 2026-11-10 | MIT |
-| [FireRed-OpenStoryline](entries/agent-framework/fireredteam-firered-openstoryline.md) ⚑ | 3,658 | 429 | 停滞 | 0 | 2026-07-31 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [SoL-Pi](entries/agent-framework/nvlabs-sol-pi.md) | 3,657 | 299 | 毎日 | 32 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
-| [Social Media Agent（LangChain）](entries/agent-framework/langchain-ai-social-media-agent.md) | 3,006 | 549 | 毎日 | 32 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
-| [Stageshow（benjitaylor/skills）](entries/agent-framework/benjitaylor-skills.md) | 2,884 | 196 | 月次 | 3 | 2026-11-05 | 2026-11-09 | 2026-11-10 | 未確認（リポジトリ全体の LICENSE なし。各スキル個別のライセンス表記） |
-| [NanmiCoder/dsh-agent-teams](entries/agent-framework/nanmicoder-dsh-agent-teams.md) ⚑ | 2,815 | 238 | 毎日 | 77 | 2026-11-06 | 2026-11-09 | 2026-11-10 | MIT |
-| [karpathy-llm-wiki](entries/agent-framework/astro-han-karpathy-llm-wiki.md) ⚑ | 2,718 | 314 | 停滞 | 0 | 2026-07-23 | 2026-11-10 | 2026-11-11 | MIT |
-| [stripe/ai](entries/agent-framework/stripe-ai.md) ⚑ | 2,052 | 386 | 毎日 | 56 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
-| [Hy Memory](entries/agent-framework/tencent-hunyuan-hy-memory.md) ⚑ | 2,020 | 146 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [ARTEX](entries/agent-framework/hinln-artex.md) ⚑ | 1,443 | 1,961 | 月次 | 0 | 2026-10-08 | 2026-11-09 | 2026-11-10 | AGPL-3.0 |
-| [ysr666/dsh-vision-router](entries/agent-framework/ysr666-dsh-vision-router.md) ⚑ | 1,253 | 64 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
-| [Kanzo](entries/agent-framework/emanuele-em-kanzo.md) ⚑ | 1,195 | 99 | 毎日 | 100+ | 2026-11-11 | 2026-11-15 | 2026-11-15 | AGPL-3.0 |
-| [Rerun](entries/agent-framework/rerun-build-rerun.md) ⚑ | 1,031 | 125 | 毎日 | 100+ | 2026-11-12 | 2026-11-12 | 2026-11-12 | AGPL-3.0 |
-| [omdsh-dev/dsh-browser](entries/agent-framework/omdsh-dev-dsh-browser.md) ⚑ | 1,025 | 83 | 毎日 | 21 | 2026-11-08 | 2026-11-09 | 2026-11-10 | MIT |
-| [RustXNG](entries/agent-framework/sahenjp-rustxng.md) ⚑ | 975 | 81 | 毎日 | 100+ | 2026-11-15 | 2026-11-15 | 2026-11-15 | AGPL-3.0 |
-| [Nakama](entries/agent-framework/ahmadrosid-nakama.md) ⚑ | 802 | 137 | 毎日 | 100+ | 2026-11-10 | 2026-11-11 | 2026-11-11 | MIT |
-| [Grok Bot Field Notes](entries/agent-framework/unicodef1wn-grokbot-field-notes.md) | 700 | 100 | 月次 | 0 | 2026-09-20 | 2026-11-09 | 2026-11-10 | MIT |
-| [browse](entries/agent-framework/anomalyco-browse.md) ⚑ | 588 | 43 | 毎日 | 100+ | 2026-11-15 | 2026-11-15 | 2026-11-15 | MIT |
-| [Hermes Gadget](entries/agent-framework/adolanium-hermes-gadget-sdk.md) ⚑ | 547 | 96 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-16 | MIT |
-| [@antfu/skills（npm で配るスキル詰め合わせ）](entries/agent-framework/antfu-skills-pack.md) | 337 | 5 | 週次 | 6 | 2026-10-30 | 2026-11-09 | 2026-11-10 | MIT |
-| [blender-ai-copilot-lab](entries/agent-framework/precygtrucqui1981-blender-ai-copilot-lab.md) ⚑ | 187 | 5 | 月次 | 3 | 2026-11-12 | 2026-11-14 | 2026-11-14 | MIT |
-| [neo4jev — Graph Navigation Demo (TypeSafe Jev + Neo4j)](entries/agent-framework/jexp-neo4jev.md) ⚑ | 184 | 27 | 月次 | 0 | 2026-09-18 | 2026-11-11 | 2026-11-11 | MIT |
-| [AgentFlux](entries/agent-framework/davemessew-agentflux.md) ⚑ | 182 | 4 | 週次 | 5 | 2026-10-30 | 2026-11-15 | 2026-11-15 | Apache-2.0 |
-| [CoworkOS](entries/agent-framework/ruc-nlpir-coworkos.md) | 148 | 16 | 週次 | 17 | 2026-11-03 | 2026-11-09 | 2026-11-10 | MIT |
-| [video-to-skill](entries/agent-framework/brenoepics-video-to-skill.md) | 145 | 20 | 毎日 | 100+ | 2026-11-06 | 2026-11-09 | 2026-11-10 | MIT |
-| [Canny](entries/agent-framework/qkal-canny.md) ⚑ | 134 | 18 | 月次 | 0 | 2026-09-22 | 2026-11-09 | 2026-11-10 | MIT |
-| [creator-generalist](entries/agent-framework/codepawl-creator-generalist.md) ⚑ | 119 | 7 | 毎日 | 28 | 2026-11-10 | 2026-11-10 | 2026-11-11 | MIT |
-| [Axion 1.0](entries/agent-framework/bytedance-axion1_0.md) ⚑ | 72 | 6 | 毎日 | 39 | 2026-11-11 | 2026-11-12 | 2026-11-12 | Apache-2.0 |
-| [vouch](entries/agent-framework/vouchdev-vouch.md) ⚑ | 67 | 62 | 停滞 | 0 | 2026-08-23 | 2026-11-10 | 2026-11-11 | MIT |
-| [Spring AI TypeSafe](entries/agent-framework/spring-ai-community-spring-ai-typesafe.md) ⚑ | 64 | 19 | 月次 | 0 | 2026-10-05 | 2026-11-11 | 2026-11-11 | Apache-2.0 |
-| [LATCH](entries/agent-framework/balanov-latch.md) | 63 | 1 | 毎日 | 21 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
-| [Nod](entries/agent-framework/n8n-io-nod.md) ⚑ | 41 | 3 | 毎日 | 100+ | 2026-11-11 | 2026-11-11 | 2026-11-11 | Apache-2.0 |
-| [BetterSearch](entries/agent-framework/ry0narushima-bettersearch.md) | 40 | 4 | 週次 | 10 | 2026-10-18 | 2026-11-09 | 2026-11-10 | MIT |
-| [AI Office](entries/agent-framework/engchoon-ai-office.md) ⚑ | 36 | 9 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-16 | MIT |
-| [X Virality Score](entries/agent-framework/monkeyteamvip-x-virality-score.md) ⚑ | 35 | 19 | 月次 | 3 | 2026-10-27 | 2026-11-09 | 2026-11-10 | MIT |
-| [jevwire](entries/agent-framework/brainwires-jevwire.md) ⚑ | 27 | 6 | 週次 | 11 | 2026-11-06 | 2026-11-11 | 2026-11-11 | MIT |
-| [AI SDK](entries/agent-framework/anil-matcha-ai.md) ⚑ | 18 | 4 | 停滞 | 0 | 2026-08-06 | 2026-11-13 | 2026-11-13 | unknown |
-| [web-api-skills](entries/agent-framework/oxylabs-web-api-skills.md) | 13 | 1 | 週次 | 11 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [Skills for Real Engineers](entries/agent-framework/mattpocock-skills.md) | 325,896 | 27,353 | 週次 | 10 | 2026-11-13 | 2026-11-16 | 2026-11-22 | MIT |
+| [Superpowers](entries/agent-framework/obra-superpowers.md) | 318,646 | 28,394 | 月次 | 3 | 2026-11-03 | 2026-11-16 | 2026-11-22 | MIT |
+| [Hermes Agent](entries/agent-framework/nousresearch-hermes-agent.md) ⚑ | 263,893 | 59,510 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [n8n](entries/agent-framework/n8n-io-n8n.md) ⚑ | 210,649 | 61,526 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | unknown |
+| [Firecrawl](entries/agent-framework/firecrawl-firecrawl.md) ⚑ | 202,330 | 10,602 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | AGPL-3.0 |
+| [anthropics/skills](entries/agent-framework/anthropics-skills.md) ⚑ | 195,972 | 23,004 | 週次 | 4 | 2026-11-16 | 2026-11-16 | 2026-11-22 | unknown |
+| [Ponytail](entries/agent-framework/dietrichgebert-ponytail.md) | 192,098 | 10,779 | 週次 | 14 | 2026-10-29 | 2026-11-16 | 2026-11-22 | MIT |
+| [Dify](entries/agent-framework/langgenius-dify.md) ⚑ | 161,287 | 25,516 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | unknown |
+| [Awesome LLM Apps](entries/agent-framework/shubhamsaboo-awesome-llm-apps.md) ⚑ | 144,874 | 21,328 | 毎日 | 67 | 2026-11-15 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [gstack（Garry's Stack）](entries/agent-framework/garrytan-gstack.md) | 141,803 | 20,942 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [Browser Use](entries/agent-framework/browser-use-browser-use.md) ⚑ | 121,222 | 13,553 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [thedotmack/claude-mem](entries/agent-framework/thedotmack-claude-mem.md) ⚑ | 117,660 | 10,217 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [paperclip](entries/agent-framework/paperclipai-paperclip.md) | 114,334 | 18,959 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [Agent-Reach](entries/agent-framework/panniantong-agent-reach.md) | 112,309 | 10,068 | 毎日 | 100+ | 2026-11-08 | 2026-11-16 | 2026-11-22 | MIT |
+| [Impeccable](entries/agent-framework/pbakaus-impeccable.md) | 111,325 | 6,654 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [OpenHands Agent Canvas](entries/agent-framework/openhands-openhands.md) ⚑ | 93,604 | 12,536 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [Crawl4AI](entries/agent-framework/unclecode-crawl4ai.md) ⚑ | 87,445 | 9,122 | 週次 | 13 | 2026-11-13 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [lobehub/lobehub](entries/agent-framework/lobehub-lobehub.md) ⚑ | 85,642 | 16,345 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | NOASSERTION |
+| [AI Agents for Beginners](entries/agent-framework/microsoft-ai-agents-for-beginners.md) ⚑ | 79,837 | 26,117 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [strix](entries/agent-framework/usestrix-strix.md) | 76,017 | 8,600 | 毎日 | 57 | 2026-11-16 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [Security Audit Skill (Cloudflare)](entries/agent-framework/cloudflare-security-audit-skill.md) | 73,859 | 4,948 | 月次 | 0 | 2026-09-14 | 2026-11-16 | 2026-11-22 | MIT |
+| [CrewAI](entries/agent-framework/crewaiinc-crewai.md) ⚑ | 60,992 | 9,209 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [CLI-Anything](entries/agent-framework/hkuds-cli-anything.md) | 58,804 | 5,299 | 月次 | 0 | 2026-09-22 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [Flowise](entries/agent-framework/flowiseai-flowise.md) ⚑ | 55,570 | 25,095 | 停滞 | 0 | 2026-08-13 | 2026-11-16 | 2026-11-22 | unknown |
+| [agentic-awesome-skills（AAS）](entries/agent-framework/sickn33-agentic-awesome-skills.md) | 49,810 | 7,216 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [claude-plugins-official](entries/agent-framework/anthropics-claude-plugins-official.md) | 47,464 | 4,931 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [oh-my-claudecode](entries/agent-framework/yeachan-heo-oh-my-claudecode.md) ⚑ | 40,867 | 3,648 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [ai-website-cloner-template](entries/agent-framework/jcodesmore-ai-website-cloner-template.md) | 39,282 | 5,849 | 月次 | 1 | 2026-11-10 | 2026-11-16 | 2026-11-22 | MIT |
+| [Knowledge Work Plugins](entries/agent-framework/anthropics-knowledge-work-plugins.md) ⚑ | 36,290 | 4,008 | 毎日 | 32 | 2026-11-13 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [The Hugging Face Agents Course](entries/agent-framework/huggingface-agents-course.md) ⚑ | 35,051 | 2,511 | 月次 | 2 | 2026-11-10 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [PentAGI](entries/agent-framework/vxcontrol-pentagi.md) ⚑ | 34,279 | 5,417 | 月次 | 1 | 2026-11-13 | 2026-11-16 | 2026-11-22 | MIT |
+| [GBrain](entries/agent-framework/garrytan-gbrain.md) ⚑ | 33,152 | 4,958 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [Composio](entries/agent-framework/composiohq-composio.md) ⚑ | 31,110 | 4,955 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [TencentDB Agent Memory（チームで共有するエージェント記憶ハブ）](entries/agent-framework/tencentcloud-tencentdb-agent-memory.md) | 30,940 | 3,030 | 週次 | 14 | 2026-11-10 | 2026-11-16 | 2026-11-22 | MIT（GitHub API は NOASSERTION） |
+| [GPT Researcher](entries/agent-framework/assafelovic-gpt-researcher.md) ⚑ | 30,738 | 4,231 | 毎日 | 100+ | 2026-11-12 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [Activepieces](entries/agent-framework/activepieces-activepieces.md) ⚑ | 25,568 | 4,476 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | unknown |
+| [ccch1mneyyy/dsh-Go](entries/agent-framework/ccch1mneyyy-dsh-go.md) ⚑ | 24,732 | 1,179 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | AGPL-3.0 |
+| [agent-desktop](entries/agent-framework/vercel-labs-agent-desktop.md) | 24,577 | 1,827 | 毎日 | 92 | 2026-11-16 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [Jev Ultrafast](entries/agent-framework/browser-use-jev-ultrafast.md) ⚑ | 24,546 | 1,888 | 月次 | 2 | 2026-11-11 | 2026-11-16 | 2026-11-22 | MIT |
+| [google/skills](entries/agent-framework/google-skills.md) ⚑ | 24,366 | 2,016 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [milind-soni/OpenMausBot](entries/agent-framework/milind-soni-openmausbot.md) ⚑ | 24,166 | 3,352 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [dsh-superagent (prototype)](entries/agent-framework/deepseek-ai-dsh-superagent-prototype.md) | 23,482 | 2,884 | 月次 | 1 | 2026-11-03 | 2026-11-16 | 2026-11-22 | MIT |
+| [Claude Quickstarts](entries/agent-framework/anthropics-claude-quickstarts.md) ⚑ | 21,070 | 3,500 | 週次 | 5 | 2026-11-06 | 2026-11-16 | 2026-11-22 | MIT |
+| [Elephant-Goldfish Model (EGM)](entries/agent-framework/google-elephant-goldfish-model.md) ⚑ | 20,321 | 1,503 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [Rowboat](entries/agent-framework/rowboatlabs-rowboat.md) ⚑ | 18,277 | 1,829 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [ARTEMIS](entries/agent-framework/google-artemis.md) | 17,528 | 1,954 | 月次 | 0 | 2026-10-01 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [opensandbox-group/OpenSandbox](entries/agent-framework/opensandbox-group-opensandbox.md) ⚑ | 17,353 | 1,656 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [unslop](entries/agent-framework/heydamir-unslop.md) | 17,233 | 1,001 | 毎日 | 40 | 2026-11-15 | 2026-11-16 | 2026-11-22 | CC-BY-4.0 |
+| [QM](entries/agent-framework/yc-software-qm.md) ⚑ | 15,714 | 1,963 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [OpenUI](entries/agent-framework/thesysdev-openui.md) | 15,274 | 1,017 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [LiveKit Agents](entries/agent-framework/livekit-agents.md) | 15,249 | 4,150 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [e2e](entries/agent-framework/e2e-inc-e2e.md) ⚑ | 13,953 | 753 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [dsh-market/dsh-market](entries/agent-framework/dsh-market-dsh-market.md) ⚑ | 12,641 | 483 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [Worktrunk](entries/agent-framework/max-sixty-worktrunk.md) ⚑ | 12,569 | 500 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT OR Apache-2.0 |
+| [jakubkrehel/skills（UI デザインスキル集）](entries/agent-framework/jakubkrehel-skills.md) | 12,250 | 478 | 毎日 | 40 | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [InkOS](entries/agent-framework/narcooo-inkos.md) | 11,253 | 2,029 | 週次 | 6 | 2026-10-24 | 2026-11-16 | 2026-11-22 | AGPL-3.0 |
+| [AutoHarness](entries/agent-framework/tigerless-labs-autoharness.md) ⚑ | 11,145 | 666 | 毎日 | 100+ | 2026-11-12 | 2026-11-16 | 2026-11-22 | MIT |
+| [zhu1090093659/dsh-web](entries/agent-framework/zhu1090093659-dsh-web.md) ⚑ | 10,458 | 633 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [Mobilerun](entries/agent-framework/droidrun-mobilerun.md) ⚑ | 10,053 | 1,097 | 毎日 | 58 | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [Munder Difflin](entries/agent-framework/harnessmd-munder-difflin.md) ⚑ | 9,586 | 1,353 | 毎日 | 58 | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [Orkas](entries/agent-framework/orkas-ai-orkas.md) ⚑ | 9,407 | 559 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [firstmate](entries/agent-framework/kunchenguid-firstmate.md) ⚑ | 8,916 | 2,763 | 毎日 | 100+ | 2026-11-13 | 2026-11-16 | 2026-11-22 | MIT |
+| [Rakazo](entries/agent-framework/elie222-rakazo.md) ⚑ | 8,832 | 1,584 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [CyberStrikeAI](entries/agent-framework/aipentest-cyberstrikeai.md) ⚑ | 8,710 | 1,963 | 毎日 | 70 | 2026-11-16 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [HKUDS/AgentPilot](entries/agent-framework/hkuds-agentpilot.md) ⚑ | 8,063 | 949 | 週次 | 4 | 2026-11-12 | 2026-11-16 | 2026-11-22 | MIT |
+| [ccch1mneyyy/dsh-TUI](entries/agent-framework/ccch1mneyyy-dsh-tui.md) ⚑ | 7,801 | 372 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [Rune](entries/agent-framework/anomalyco-rune.md) ⚑ | 7,317 | 290 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [Open Duet](entries/agent-framework/anil-matcha-open-duet.md) | 7,093 | 922 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [social-media-research-skills](entries/agent-framework/scrapecreators-social-media-research-skills.md) | 6,585 | 199 | 停滞 | 0 | 2026-08-26 | 2026-11-16 | 2026-11-22 | MIT |
+| [Answer me with HTML](entries/agent-framework/qingyuna-answer-me-with-html.md) | 6,365 | 429 | 毎日 | 94 | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [Agent Autoloop](entries/agent-framework/kkkkhazix-agent-autoloop.md) ⚑ | 5,685 | 1,050 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [百智办公 · MonkeyAI](entries/agent-framework/chaitin-monkeycode.md) ⚑ | 5,216 | 782 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | AGPL-3.0 |
+| [bowenliang123/dsh-context](entries/agent-framework/bowenliang123-dsh-context.md) ⚑ | 5,192 | 228 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [omdsh-dev/DSH-better-sidebar](entries/agent-framework/omdsh-dev-dsh-better-sidebar.md) ⚑ | 5,191 | 502 | 毎日 | 100+ | 2026-11-15 | 2026-11-16 | 2026-11-22 | MIT |
+| [PilotDeck](entries/agent-framework/openbmb-pilotdeck.md) ⚑ | 4,998 | 564 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | AGPL-3.0 |
+| [liustack/modlens](entries/agent-framework/liustack-modlens.md) ⚑ | 4,996 | 158 | 週次 | 15 | 2026-11-15 | 2026-11-16 | 2026-11-22 | MIT |
+| [hyperresearch](entries/agent-framework/jordan-gibbs-hyperresearch.md) ⚑ | 4,828 | 500 | 毎日 | 35 | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [Effective HTML](entries/agent-framework/plannotator-effective-html.md) | 4,193 | 288 | 週次 | 4 | 2026-10-31 | 2026-11-16 | 2026-11-22 | MIT |
+| [Speakr](entries/agent-framework/murtaza-nasir-speakr.md) ⚑ | 4,180 | 361 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | AGPL-3.0 |
+| [FireRed-OpenStoryline](entries/agent-framework/fireredteam-firered-openstoryline.md) ⚑ | 3,692 | 434 | 停滞 | 0 | 2026-07-31 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [SoL-Pi](entries/agent-framework/nvlabs-sol-pi.md) | 3,683 | 303 | 月次 | 3 | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [Stageshow（benjitaylor/skills）](entries/agent-framework/benjitaylor-skills.md) | 3,442 | 235 | 月次 | 3 | 2026-11-05 | 2026-11-16 | 2026-11-22 | 未確認（リポジトリ全体の LICENSE なし。各スキル個別のライセンス表記） |
+| [Social Media Agent（LangChain）](entries/agent-framework/langchain-ai-social-media-agent.md) | 3,025 | 550 | 毎日 | 26 | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [NanmiCoder/dsh-agent-teams](entries/agent-framework/nanmicoder-dsh-agent-teams.md) ⚑ | 2,978 | 245 | 毎日 | 71 | 2026-11-13 | 2026-11-16 | 2026-11-22 | MIT |
+| [karpathy-llm-wiki](entries/agent-framework/astro-han-karpathy-llm-wiki.md) ⚑ | 2,755 | 317 | 停滞 | 0 | 2026-07-23 | 2026-11-16 | 2026-11-22 | MIT |
+| [Hy Memory](entries/agent-framework/tencent-hunyuan-hy-memory.md) ⚑ | 2,068 | 152 | 毎日 | 100+ | 2026-11-15 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [stripe/ai](entries/agent-framework/stripe-ai.md) ⚑ | 2,068 | 385 | 毎日 | 61 | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [Nod](entries/agent-framework/n8n-io-nod.md) ⚑ | 2,019 | 272 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [ARTEX](entries/agent-framework/hinln-artex.md) ⚑ | 1,633 | 2,154 | 月次 | 0 | 2026-10-08 | 2026-11-16 | 2026-11-22 | AGPL-3.0 |
+| [ysr666/dsh-vision-router](entries/agent-framework/ysr666-dsh-vision-router.md) ⚑ | 1,281 | 62 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [Kanzo](entries/agent-framework/emanuele-em-kanzo.md) ⚑ | 1,218 | 98 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | AGPL-3.0 |
+| [Rerun](entries/agent-framework/rerun-build-rerun.md) ⚑ | 1,085 | 131 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | AGPL-3.0 |
+| [omdsh-dev/dsh-browser](entries/agent-framework/omdsh-dev-dsh-browser.md) ⚑ | 1,081 | 86 | 毎日 | 41 | 2026-11-15 | 2026-11-16 | 2026-11-22 | MIT |
+| [RustXNG](entries/agent-framework/sahenjp-rustxng.md) ⚑ | 978 | 82 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | AGPL-3.0 |
+| [Nakama](entries/agent-framework/ahmadrosid-nakama.md) ⚑ | 827 | 146 | 毎日 | 100+ | 2026-11-15 | 2026-11-16 | 2026-11-22 | MIT |
+| [Grok Bot Field Notes](entries/agent-framework/unicodef1wn-grokbot-field-notes.md) | 711 | 103 | 月次 | 0 | 2026-09-20 | 2026-11-16 | 2026-11-22 | MIT |
+| [browse](entries/agent-framework/anomalyco-browse.md) ⚑ | 669 | 51 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [Hermes Gadget](entries/agent-framework/adolanium-hermes-gadget-sdk.md) ⚑ | 548 | 97 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [blender-ai-copilot-lab](entries/agent-framework/precygtrucqui1981-blender-ai-copilot-lab.md) ⚑ | 507 | 13 | 週次 | 5 | 2026-11-15 | 2026-11-16 | 2026-11-22 | MIT |
+| [@antfu/skills（npm で配るスキル詰め合わせ）](entries/agent-framework/antfu-skills-pack.md) | 342 | 5 | 週次 | 6 | 2026-10-30 | 2026-11-16 | 2026-11-22 | MIT |
+| [creator-generalist](entries/agent-framework/codepawl-creator-generalist.md) ⚑ | 216 | 17 | 毎日 | 56 | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [neo4jev — Graph Navigation Demo (TypeSafe Jev + Neo4j)](entries/agent-framework/jexp-neo4jev.md) ⚑ | 189 | 27 | 月次 | 0 | 2026-09-18 | 2026-11-16 | 2026-11-22 | MIT |
+| [AgentFlux](entries/agent-framework/davemessew-agentflux.md) ⚑ | 182 | 4 | 月次 | 2 | 2026-10-30 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [CoworkOS](entries/agent-framework/ruc-nlpir-coworkos.md) | 176 | 17 | 週次 | 17 | 2026-11-03 | 2026-11-16 | 2026-11-22 | MIT |
+| [video-to-skill](entries/agent-framework/brenoepics-video-to-skill.md) | 158 | 23 | 毎日 | 100+ | 2026-11-11 | 2026-11-16 | 2026-11-22 | MIT |
+| [Canny](entries/agent-framework/qkal-canny.md) ⚑ | 135 | 18 | 週次 | 8 | 2026-11-13 | 2026-11-16 | 2026-11-22 | MIT |
+| [Axion 1.0](entries/agent-framework/bytedance-axion1_0.md) ⚑ | 82 | 6 | 毎日 | 23 | 2026-11-11 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [vouch](entries/agent-framework/vouchdev-vouch.md) ⚑ | 68 | 62 | 停滞 | 0 | 2026-08-23 | 2026-11-16 | 2026-11-22 | MIT |
+| [Spring AI TypeSafe](entries/agent-framework/spring-ai-community-spring-ai-typesafe.md) ⚑ | 66 | 19 | 月次 | 1 | 2026-11-15 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [LATCH](entries/agent-framework/balanov-latch.md) | 63 | 3 | 毎日 | 30 | 2026-11-15 | 2026-11-16 | 2026-11-22 | MIT |
+| [BetterSearch](entries/agent-framework/ry0narushima-bettersearch.md) | 41 | 4 | 週次 | 10 | 2026-10-18 | 2026-11-16 | 2026-11-22 | MIT |
+| [AI Office](entries/agent-framework/engchoon-ai-office.md) ⚑ | 36 | 9 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [X Virality Score](entries/agent-framework/monkeyteamvip-x-virality-score.md) ⚑ | 36 | 20 | 月次 | 3 | 2026-10-27 | 2026-11-16 | 2026-11-22 | MIT |
+| [jevwire](entries/agent-framework/brainwires-jevwire.md) ⚑ | 27 | 5 | 週次 | 17 | 2026-11-12 | 2026-11-16 | 2026-11-22 | MIT |
+| [AI SDK](entries/agent-framework/anil-matcha-ai.md) ⚑ | 19 | 4 | 停滞 | 0 | 2026-08-06 | 2026-11-16 | 2026-11-22 | unknown |
+| [web-api-skills](entries/agent-framework/oxylabs-web-api-skills.md) | 13 | 1 | 週次 | 14 | 2026-11-11 | 2026-11-16 | 2026-11-22 | MIT |
 
 ### 動画生成パイプライン（109）
 
@@ -569,83 +569,83 @@
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
-| [Three.js](entries/3d-motion/mrdoob-three.js.md) ⚑ | 118,014 | 36,937 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | MIT |
-| [Motion](entries/3d-motion/motiondivision-motion.md) ⚑ | 35,043 | 1,527 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | MIT |
-| [MCP for Blender](entries/3d-motion/ahujasid-mcp-for-blender.md) | 33,776 | 3,073 | 毎日 | 22 | 2026-11-04 | 2026-11-09 | 2026-11-10 | MIT |
-| [@react-three/fiber](entries/3d-motion/pmndrs-react-three-fiber.md) ⚑ | 33,655 | 2,098 | 月次 | 2 | 2026-10-21 | 2026-11-11 | 2026-11-11 | MIT |
-| [GSAP](entries/3d-motion/greensock-gsap.md) ⚑ | 30,400 | 2,367 | 月次 | 1 | 2026-11-04 | 2026-11-10 | 2026-11-10 | unknown |
-| [Babylon.js](entries/3d-motion/babylonjs-babylon.js.md) ⚑ | 26,359 | 3,730 | 毎日 | 100+ | 2026-11-14 | 2026-11-15 | 2026-11-15 | Apache-2.0 |
-| [Anatomy](entries/3d-motion/wheresryan22-anatomy.md) | 26,237 | 2,201 | 毎日 | 100+ | 2026-10-18 | 2026-11-09 | 2026-11-10 | MIT |
-| [text-to-cad](entries/3d-motion/earthtojake-text-to-cad.md) ⚑ | 25,908 | 2,464 | 毎日 | 45 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
-| [Blender](entries/3d-motion/blender-blender.md) ⚑ | 21,829 | 3,550 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | unknown |
-| [Hunyuan3D-2](entries/3d-motion/tencent-hunyuan-hunyuan3d-2.md) ⚑ | 15,376 | 1,594 | 停滞 | 0 | 2025-10-28 | 2026-11-10 | 2026-11-10 | unknown |
-| [Meshroom](entries/3d-motion/alicevision-meshroom.md) ⚑ | 13,076 | 1,243 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MPL-2.0 |
-| [Theatre.js](entries/3d-motion/theatre-js-theatre.md) ⚑ | 12,979 | 505 | 停滞 | 0 | 2024-08-14 | 2026-11-12 | 2026-11-12 | Apache-2.0 |
-| [TRELLIS.2](entries/3d-motion/microsoft-trellis.2.md) ⚑ | 12,905 | 1,565 | 停滞 | 0 | 2026-07-10 | 2026-11-14 | 2026-11-14 | MIT |
-| [Jolt Physics](entries/3d-motion/jrouwe-joltphysics.md) ⚑ | 12,261 | 1,013 | 毎日 | 49 | 2026-11-09 | 2026-11-10 | 2026-11-10 | MIT |
-| [FreeMoCap](entries/3d-motion/freemocap-freemocap.md) ⚑ | 10,769 | 1,026 | 月次 | 2 | 2026-11-09 | 2026-11-10 | 2026-11-10 | AGPL-3.0 |
-| [@react-three/drei](entries/3d-motion/pmndrs-drei.md) ⚑ | 10,154 | 871 | 月次 | 0 | 2026-10-21 | 2026-11-13 | 2026-11-14 | MIT |
-| [Text-to-Lottie](entries/3d-motion/diffusionstudio-lottie.md) ⚑ | 5,716 | 302 | 停滞 | 0 | 2026-07-25 | 2026-11-10 | 2026-11-10 | MIT |
-| [Tweakpane](entries/3d-motion/cocopon-tweakpane.md) ⚑ | 4,669 | 134 | 停滞 | 0 | 2026-03-15 | 2026-11-10 | 2026-11-10 | MIT |
-| [Kimodo](entries/3d-motion/nv-tlabs-kimodo.md) ⚑ | 4,130 | 464 | 週次 | 18 | 2026-10-15 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [facebookresearch/sam-3d-body](entries/3d-motion/facebookresearch-sam-3d-body.md) ⚑ | 3,703 | 438 | 停滞 | 0 | 2026-02-19 | 2026-11-09 | 2026-11-10 | NOASSERTION |
-| [floorplan-3d](entries/3d-motion/wy51ai-floorplan-3d.md) | 3,651 | 767 | 月次 | 0 | 2026-10-02 | 2026-11-09 | 2026-11-10 | MIT |
-| [Post Processing](entries/3d-motion/pmndrs-postprocessing.md) ⚑ | 2,963 | 258 | 週次 | 6 | 2026-11-01 | 2026-11-10 | 2026-11-10 | Zlib |
-| [Motion Design Skill](entries/3d-motion/lottiefiles-motion-design-skill.md) ⚑ | 2,921 | 200 | 停滞 | 0 | 2026-05-18 | 2026-11-10 | 2026-11-10 | MIT |
-| [teardown](entries/3d-motion/elvarofficial-teardown.md) | 2,781 | 429 | 月次 | 2 | 2026-10-31 | 2026-11-09 | 2026-11-10 | MIT |
-| [UniMate](entries/3d-motion/friedrich-m-unimate.md) | 2,646 | 281 | 月次 | 0 | 2026-10-08 | 2026-11-09 | 2026-11-10 | MIT |
-| [Claude Animated Shorts](entries/3d-motion/mromidev-claude-animated-shorts.md) ⚑ | 2,591 | 564 | 月次 | 2 | 2026-11-01 | 2026-11-09 | 2026-11-10 | MIT |
-| [Sverchok](entries/3d-motion/nortikin-sverchok.md) ⚑ | 2,557 | 247 | 毎日 | 24 | 2026-11-10 | 2026-11-11 | 2026-11-11 | GPL-3.0 |
-| [Blender Skills（94 specialist Blender skills）](entries/3d-motion/arjun988-blender-skills.md) ⚑ | 2,331 | 211 | 月次 | 1 | 2026-11-06 | 2026-11-09 | 2026-11-10 | MIT |
-| [pixiv/three-vrm](entries/3d-motion/pixiv-three-vrm.md) ⚑ | 2,279 | 202 | 月次 | 3 | 2026-10-22 | 2026-11-09 | 2026-11-10 | MIT |
-| [DSH × Blender](entries/3d-motion/sixtysevenlf-dsh-blender-plugin.md) | 2,147 | 94 | 毎日 | 100+ | 2026-11-12 | 2026-11-16 | 2026-11-16 | BSD-3-Clause |
-| [UniRig](entries/3d-motion/vast-ai-research-unirig.md) | 2,081 | 206 | 停滞 | 0 | 2026-06-04 | 2026-11-09 | 2026-11-10 | MIT |
-| [three-gpu-pathtracer](entries/3d-motion/gkjohnson-three-gpu-pathtracer.md) ⚑ | 2,037 | 200 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | MIT |
-| [sand3d](entries/3d-motion/sandflow-ai-sand3d.md) ⚑ | 1,999 | 221 | 毎日 | 25 | 2026-11-14 | 2026-11-15 | 2026-11-15 | Apache-2.0 |
-| [dream-loop](entries/3d-motion/achimala-dream-loop.md) ⚑ | 1,914 | 193 | 月次 | 0 | 2026-09-09 | 2026-11-10 | 2026-11-10 | MIT |
-| [Inochi2D](entries/3d-motion/inochi2d-inochi2d.md) ⚑ | 1,863 | 76 | 月次 | 1 | 2026-11-10 | 2026-11-14 | 2026-11-14 | BSD-2-Clause |
-| [StableGen](entries/3d-motion/sakalond-stablegen.md) | 1,632 | 163 | 毎日 | 100+ | 2026-11-04 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
-| [React Three Rapier](entries/3d-motion/pmndrs-react-three-rapier.md) ⚑ | 1,613 | 106 | 停滞 | 0 | 2026-10-12 | 2026-11-13 | 2026-11-14 | MIT |
-| [react-postprocessing](entries/3d-motion/pmndrs-react-postprocessing.md) ⚑ | 1,589 | 164 | 週次 | 7 | 2026-10-21 | 2026-11-13 | 2026-11-14 | MIT |
-| [motionmaxxing](entries/3d-motion/tejashmakwana-motionmaxxing.md) ⚑ | 1,509 | 154 | 停滞 | 0 | 2026-10-06 | 2026-11-10 | 2026-11-10 | Apache-2.0 |
-| [nanocle/Charakuru](entries/3d-motion/nanocle-charakuru.md) ⚑ | 1,488 | 126 | 週次 | 5 | 2026-11-02 | 2026-11-09 | 2026-11-10 | NOASSERTION |
-| [livliv-dev/player](entries/3d-motion/livliv-dev-player.md) ⚑ | 1,395 | 146 | 毎日 | 40 | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [NullMotion](entries/3d-motion/blixvip-nullmotion.md) | 1,335 | 133 | 週次 | 16 | 2026-10-31 | 2026-11-04 | 2026-11-04 | MIT |
-| [3Dviz Pro Max](entries/3d-motion/viettranx-3dviz-pro-max.md) ⚑ | 1,212 | 138 | 月次 | 0 | 2026-09-11 | 2026-11-10 | 2026-11-10 | MIT |
-| [three.quarks](entries/3d-motion/alchemist0823-three.quarks.md) ⚑ | 1,192 | 76 | 停滞 | 0 | 2026-05-21 | 2026-11-10 | 2026-11-10 | MIT |
-| [toyxyz/toyxyz_RGBMocap](entries/3d-motion/toyxyz-toyxyz_rgbmocap.md) ⚑ | 1,159 | 153 | 毎日 | 49 | 2026-11-09 | 2026-11-09 | 2026-11-10 | NOASSERTION |
-| [HairDeck（1枚の画像からアニメ調ヘアカードと揺れボーンを作る）](entries/3d-motion/hyz317-hairdeck.md) | 1,034 | 77 | 週次 | 7 | 2026-11-05 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [Scenario for Blender](entries/3d-motion/scenario-labs-blender-plugin.md) ⚑ | 968 | 97 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | GPL-3.0 |
-| [Idol (image-to-3D Gaussian splat SDK)](entries/3d-motion/speridlabs-idol-sdk.md) | 945 | 95 | 週次 | 5 | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [Blender Agent Skills](entries/3d-motion/el4cteo-blender-skills.md) ⚑ | 933 | 89 | 週次 | 9 | 2026-11-07 | 2026-11-10 | 2026-11-10 | MIT |
-| [Athenaion](entries/3d-motion/leonxlnx-athenaion.md) ⚑ | 709 | 90 | 月次 | 2 | 2026-10-17 | 2026-11-16 | 2026-11-16 | MIT |
-| [MPFB2](entries/3d-motion/makehumancommunity-mpfb2.md) ⚑ | 694 | 103 | 毎日 | 34 | 2026-10-24 | 2026-11-10 | 2026-11-10 | unknown |
-| [Ultra Water](entries/3d-motion/humpalumps-ultra-water.md) | 653 | 97 | 毎日 | 20 | 2026-11-02 | 2026-11-09 | 2026-11-10 | MIT |
-| [SculptForge](entries/3d-motion/islandmed-sculptforge.md) | 649 | 80 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
-| [SkinTokens（TokenRig）](entries/3d-motion/vast-ai-research-skintokens.md) | 625 | 84 | 停滞 | 0 | 2026-05-12 | 2026-11-09 | 2026-11-10 | MIT |
-| [patch-gg/anymove](entries/3d-motion/patch-gg-anymove.md) ⚑ | 563 | 62 | 週次 | 11 | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [prompt2rig — プロンプトから3Dキャラクター動作を生成](entries/3d-motion/blendi-remade-prompt2rig.md) ⚑ | 552 | 81 | 週次 | 16 | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [InstantHMR](entries/3d-motion/naturalpad-studio-instanthmr.md) ⚑ | 400 | 45 | 週次 | 18 | 2026-11-10 | 2026-11-14 | 2026-11-14 | Apache-2.0 |
-| [Geometry Script](entries/3d-motion/carson-katri-geometry-script.md) ⚑ | 379 | 33 | 週次 | 6 | 2026-11-09 | 2026-11-10 | 2026-11-10 | GPL-3.0 |
-| [Motion2Code](entries/3d-motion/lovisdotio-motion2code.md) ⚑ | 349 | 31 | 月次 | 2 | 2026-10-20 | 2026-11-10 | 2026-11-11 | MIT |
-| [shinshin86/aituber-onair](entries/3d-motion/shinshin86-aituber-onair.md) ⚑ | 320 | 31 | 毎日 | 100+ | 2026-11-07 | 2026-11-09 | 2026-11-10 | MIT |
-| [open-3d-skills](entries/3d-motion/moh4696-open-3d-skills.md) | 319 | 42 | 週次 | 4 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
-| [FlexGlue](entries/3d-motion/cvg-flexglue.md) | 304 | 15 | 週次 | 13 | 2026-11-06 | 2026-11-09 | 2026-11-10 | MIT |
-| [effekseer-vfx-skill](entries/3d-motion/kanaworksai-hue-effekseer-vfx-skill.md) | 160 | 11 | 週次 | 7 | 2026-10-29 | 2026-11-09 | 2026-11-10 | MIT |
-| [cc-blender-skill](entries/3d-motion/roble3-cc-blender-skill.md) ⚑ | 156 | 18 | 週次 | 4 | 2026-10-12 | 2026-11-10 | 2026-11-10 | MIT |
-| [Lida-V/3DCharaMakeSkills-Lida](entries/3d-motion/lida-v-3dcharamakeskills-lida.md) ⚑ | 62 | 4 | 毎日 | 48 | 2026-11-07 | 2026-11-09 | 2026-11-10 | NOASSERTION |
-| [CurioMesh](entries/3d-motion/curiocrafter-curiomesh.md) | 55 | 5 | 毎日 | 100+ | 2026-11-07 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
-| [ComfyUI-InstantHMR — 写真・動画・ライブ人物モーション推定](entries/3d-motion/jtydhr88-comfyui-instanthmr.md) ⚑ | 52 | 10 | 週次 | 19 | 2026-11-08 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [lovisdotio/video-to-texture](entries/3d-motion/lovisdotio-video-to-texture.md) ⚑ | 45 | 2 | 週次 | 6 | 2026-10-27 | 2026-11-09 | 2026-11-10 | MIT |
-| [Faltwerk](entries/3d-motion/edrethardo-faltwerk.md) | 36 | 3 | 月次 | 3 | 2026-11-04 | 2026-11-09 | 2026-11-10 | MIT |
-| [ComfyUI-SAM3DBody-openpose-editor](entries/3d-motion/tori29umai0123-comfyui-sam3dbody-openpose-editor.md) ⚑ | 30 | 5 | 週次 | 16 | 2026-11-07 | 2026-11-13 | 2026-11-14 | GPL-3.0 |
-| [GLB Viewer](entries/3d-motion/cullenwebber-glb-viewer.md) ⚑ | 18 | 2 | 毎日 | 22 | 2026-11-04 | 2026-11-09 | 2026-11-10 | none |
-| [Three.js AI Skills](entries/3d-motion/alton47-threejs-skills.md) ⚑ | 18 | 6 | 停滞 | 0 | 2026-03-25 | 2026-11-10 | 2026-11-10 | MIT |
-| [VRMkimodo](entries/3d-motion/camenduru-vrmkimodo.md) ⚑ | 17 | 1 | 毎日 | 21 | 2026-11-05 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [VRMExMR](entries/3d-motion/camenduru-vrmexmr.md) ⚑ | 15 | 0 | 毎日 | 39 | 2026-11-05 | 2026-11-09 | 2026-11-10 | 未確認（API は NOASSERTION。ExMR 側の条件を確認） |
-| [motion-tools-and-skills](entries/3d-motion/visualxintelligence-motion-tools-and-skills.md) ⚑ | 9 | 2 | 週次 | 8 | 2026-11-04 | 2026-11-10 | 2026-11-10 | MIT |
-| [3dmodel](entries/3d-motion/fletcherholt-3dmodel-skill.md) ⚑ | 6 | 0 | 停滞 | 0 | 2026-06-16 | 2026-11-10 | 2026-11-10 | unknown |
-| [Lida-V/LidaAngelToon](entries/3d-motion/lida-v-lidaangeltoon.md) ⚑ | 6 | 0 | 週次 | 13 | 2026-10-17 | 2026-11-09 | 2026-11-10 | NOASSERTION |
+| [Three.js](entries/3d-motion/mrdoob-three.js.md) ⚑ | 118,656 | 37,007 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [Motion](entries/3d-motion/motiondivision-motion.md) ⚑ | 35,261 | 1,559 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [MCP for Blender](entries/3d-motion/ahujasid-mcp-for-blender.md) | 34,654 | 3,165 | 毎日 | 29 | 2026-11-15 | 2026-11-16 | 2026-11-22 | MIT |
+| [@react-three/fiber](entries/3d-motion/pmndrs-react-three-fiber.md) ⚑ | 33,774 | 2,111 | 月次 | 0 | 2026-10-21 | 2026-11-16 | 2026-11-22 | MIT |
+| [GSAP](entries/3d-motion/greensock-gsap.md) ⚑ | 30,777 | 2,404 | 月次 | 1 | 2026-11-04 | 2026-11-16 | 2026-11-22 | unknown |
+| [Anatomy](entries/3d-motion/wheresryan22-anatomy.md) | 27,680 | 2,349 | 月次 | 1 | 2026-10-18 | 2026-11-16 | 2026-11-22 | MIT |
+| [text-to-cad](entries/3d-motion/earthtojake-text-to-cad.md) ⚑ | 26,433 | 2,521 | 毎日 | 57 | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [Babylon.js](entries/3d-motion/babylonjs-babylon.js.md) ⚑ | 26,380 | 3,739 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [Blender](entries/3d-motion/blender-blender.md) ⚑ | 22,112 | 3,610 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | unknown |
+| [Hunyuan3D-2](entries/3d-motion/tencent-hunyuan-hunyuan3d-2.md) ⚑ | 15,445 | 1,604 | 停滞 | 0 | 2025-10-28 | 2026-11-16 | 2026-11-22 | unknown |
+| [Meshroom](entries/3d-motion/alicevision-meshroom.md) ⚑ | 13,096 | 1,242 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MPL-2.0 |
+| [Theatre.js](entries/3d-motion/theatre-js-theatre.md) ⚑ | 13,028 | 511 | 停滞 | 0 | 2024-08-14 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [TRELLIS.2](entries/3d-motion/microsoft-trellis.2.md) ⚑ | 12,950 | 1,575 | 停滞 | 0 | 2026-07-10 | 2026-11-16 | 2026-11-22 | MIT |
+| [Jolt Physics](entries/3d-motion/jrouwe-joltphysics.md) ⚑ | 12,326 | 1,027 | 毎日 | 60 | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [FreeMoCap](entries/3d-motion/freemocap-freemocap.md) ⚑ | 10,824 | 1,036 | 週次 | 5 | 2026-11-14 | 2026-11-16 | 2026-11-22 | AGPL-3.0 |
+| [@react-three/drei](entries/3d-motion/pmndrs-drei.md) ⚑ | 10,167 | 873 | 月次 | 0 | 2026-10-21 | 2026-11-16 | 2026-11-22 | MIT |
+| [Text-to-Lottie](entries/3d-motion/diffusionstudio-lottie.md) ⚑ | 5,763 | 304 | 停滞 | 0 | 2026-07-25 | 2026-11-16 | 2026-11-22 | MIT |
+| [Tweakpane](entries/3d-motion/cocopon-tweakpane.md) ⚑ | 4,699 | 140 | 停滞 | 0 | 2026-03-15 | 2026-11-16 | 2026-11-22 | MIT |
+| [Kimodo](entries/3d-motion/nv-tlabs-kimodo.md) ⚑ | 4,241 | 473 | 月次 | 0 | 2026-10-15 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [Blender Skills（94 specialist Blender skills）](entries/3d-motion/arjun988-blender-skills.md) ⚑ | 3,926 | 350 | 月次 | 1 | 2026-11-06 | 2026-11-16 | 2026-11-22 | MIT |
+| [floorplan-3d](entries/3d-motion/wy51ai-floorplan-3d.md) | 3,766 | 790 | 月次 | 0 | 2026-10-02 | 2026-11-16 | 2026-11-22 | MIT |
+| [facebookresearch/sam-3d-body](entries/3d-motion/facebookresearch-sam-3d-body.md) ⚑ | 3,734 | 443 | 停滞 | 0 | 2026-02-19 | 2026-11-16 | 2026-11-22 | NOASSERTION |
+| [Claude Animated Shorts](entries/3d-motion/mromidev-claude-animated-shorts.md) ⚑ | 3,711 | 784 | 月次 | 2 | 2026-11-01 | 2026-11-16 | 2026-11-22 | MIT |
+| [teardown](entries/3d-motion/elvarofficial-teardown.md) | 3,633 | 542 | 月次 | 2 | 2026-10-31 | 2026-11-16 | 2026-11-22 | MIT |
+| [Motion Design Skill](entries/3d-motion/lottiefiles-motion-design-skill.md) ⚑ | 3,227 | 233 | 停滞 | 0 | 2026-05-18 | 2026-11-16 | 2026-11-22 | MIT |
+| [Post Processing](entries/3d-motion/pmndrs-postprocessing.md) ⚑ | 2,980 | 260 | 週次 | 6 | 2026-11-01 | 2026-11-16 | 2026-11-22 | Zlib |
+| [UniMate](entries/3d-motion/friedrich-m-unimate.md) | 2,724 | 287 | 月次 | 0 | 2026-10-08 | 2026-11-16 | 2026-11-22 | MIT |
+| [Sverchok](entries/3d-motion/nortikin-sverchok.md) ⚑ | 2,559 | 248 | 毎日 | 27 | 2026-11-16 | 2026-11-16 | 2026-11-22 | GPL-3.0 |
+| [dream-loop](entries/3d-motion/achimala-dream-loop.md) ⚑ | 2,369 | 230 | 月次 | 0 | 2026-09-09 | 2026-11-16 | 2026-11-22 | MIT |
+| [pixiv/three-vrm](entries/3d-motion/pixiv-three-vrm.md) ⚑ | 2,291 | 204 | 月次 | 2 | 2026-10-22 | 2026-11-16 | 2026-11-22 | MIT |
+| [DSH × Blender](entries/3d-motion/sixtysevenlf-dsh-blender-plugin.md) | 2,148 | 94 | 毎日 | 100+ | 2026-11-12 | 2026-11-16 | 2026-11-22 | BSD-3-Clause |
+| [UniRig](entries/3d-motion/vast-ai-research-unirig.md) | 2,146 | 211 | 停滞 | 0 | 2026-06-04 | 2026-11-16 | 2026-11-22 | MIT |
+| [sand3d](entries/3d-motion/sandflow-ai-sand3d.md) ⚑ | 2,080 | 231 | 毎日 | 25 | 2026-11-16 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [three-gpu-pathtracer](entries/3d-motion/gkjohnson-three-gpu-pathtracer.md) ⚑ | 2,056 | 201 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [Inochi2D](entries/3d-motion/inochi2d-inochi2d.md) ⚑ | 1,877 | 76 | 月次 | 1 | 2026-11-10 | 2026-11-16 | 2026-11-22 | BSD-2-Clause |
+| [StableGen](entries/3d-motion/sakalond-stablegen.md) | 1,671 | 169 | 毎日 | 74 | 2026-11-04 | 2026-11-16 | 2026-11-22 | GPL-3.0 |
+| [React Three Rapier](entries/3d-motion/pmndrs-react-three-rapier.md) ⚑ | 1,665 | 114 | 停滞 | 0 | 2026-10-12 | 2026-11-16 | 2026-11-22 | MIT |
+| [react-postprocessing](entries/3d-motion/pmndrs-react-postprocessing.md) ⚑ | 1,640 | 171 | 週次 | 7 | 2026-10-21 | 2026-11-16 | 2026-11-22 | MIT |
+| [motionmaxxing](entries/3d-motion/tejashmakwana-motionmaxxing.md) ⚑ | 1,639 | 165 | 停滞 | 0 | 2026-10-06 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [nanocle/Charakuru](entries/3d-motion/nanocle-charakuru.md) ⚑ | 1,637 | 137 | 月次 | 2 | 2026-11-02 | 2026-11-16 | 2026-11-22 | NOASSERTION |
+| [toyxyz/toyxyz_RGBMocap](entries/3d-motion/toyxyz-toyxyz_rgbmocap.md) ⚑ | 1,574 | 204 | 毎日 | 62 | 2026-11-16 | 2026-11-16 | 2026-11-22 | NOASSERTION |
+| [livliv-dev/player](entries/3d-motion/livliv-dev-player.md) ⚑ | 1,571 | 161 | 毎日 | 63 | 2026-11-16 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [NullMotion](entries/3d-motion/blixvip-nullmotion.md) | 1,426 | 138 | 毎日 | 40 | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [3Dviz Pro Max](entries/3d-motion/viettranx-3dviz-pro-max.md) ⚑ | 1,361 | 157 | 月次 | 0 | 2026-09-11 | 2026-11-16 | 2026-11-22 | MIT |
+| [Blender Agent Skills](entries/3d-motion/el4cteo-blender-skills.md) ⚑ | 1,343 | 130 | 週次 | 7 | 2026-11-13 | 2026-11-16 | 2026-11-22 | MIT |
+| [three.quarks](entries/3d-motion/alchemist0823-three.quarks.md) ⚑ | 1,222 | 81 | 停滞 | 0 | 2026-05-21 | 2026-11-16 | 2026-11-22 | MIT |
+| [HairDeck（1枚の画像からアニメ調ヘアカードと揺れボーンを作る）](entries/3d-motion/hyz317-hairdeck.md) | 1,147 | 89 | 週次 | 11 | 2026-11-13 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [Idol (image-to-3D Gaussian splat SDK)](entries/3d-motion/speridlabs-idol-sdk.md) | 1,138 | 112 | 週次 | 5 | 2026-11-09 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [Scenario for Blender](entries/3d-motion/scenario-labs-blender-plugin.md) ⚑ | 1,032 | 106 | 毎日 | 74 | 2026-11-13 | 2026-11-16 | 2026-11-22 | GPL-3.0 |
+| [SculptForge](entries/3d-motion/islandmed-sculptforge.md) | 718 | 89 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | GPL-3.0 |
+| [Athenaion](entries/3d-motion/leonxlnx-athenaion.md) ⚑ | 714 | 92 | 月次 | 2 | 2026-10-17 | 2026-11-16 | 2026-11-22 | MIT |
+| [MPFB2](entries/3d-motion/makehumancommunity-mpfb2.md) ⚑ | 708 | 109 | 毎日 | 20 | 2026-11-12 | 2026-11-16 | 2026-11-22 | unknown |
+| [Ultra Water](entries/3d-motion/humpalumps-ultra-water.md) | 675 | 100 | 毎日 | 20 | 2026-11-02 | 2026-11-16 | 2026-11-22 | MIT |
+| [SkinTokens（TokenRig）](entries/3d-motion/vast-ai-research-skintokens.md) | 652 | 85 | 停滞 | 0 | 2026-05-12 | 2026-11-16 | 2026-11-22 | MIT |
+| [patch-gg/anymove](entries/3d-motion/patch-gg-anymove.md) ⚑ | 609 | 67 | 週次 | 12 | 2026-11-13 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [prompt2rig — プロンプトから3Dキャラクター動作を生成](entries/3d-motion/blendi-remade-prompt2rig.md) ⚑ | 581 | 86 | 週次 | 16 | 2026-11-09 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [InstantHMR](entries/3d-motion/naturalpad-studio-instanthmr.md) ⚑ | 410 | 46 | 週次 | 18 | 2026-11-10 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [open-3d-skills](entries/3d-motion/moh4696-open-3d-skills.md) | 404 | 54 | 週次 | 4 | 2026-11-09 | 2026-11-16 | 2026-11-22 | MIT |
+| [Geometry Script](entries/3d-motion/carson-katri-geometry-script.md) ⚑ | 388 | 33 | 月次 | 0 | 2026-11-16 | 2026-11-16 | 2026-11-22 | GPL-3.0 |
+| [Motion2Code](entries/3d-motion/lovisdotio-motion2code.md) ⚑ | 354 | 31 | 月次 | 2 | 2026-10-20 | 2026-11-16 | 2026-11-22 | MIT |
+| [FlexGlue](entries/3d-motion/cvg-flexglue.md) | 344 | 18 | 週次 | 14 | 2026-11-10 | 2026-11-16 | 2026-11-22 | MIT |
+| [shinshin86/aituber-onair](entries/3d-motion/shinshin86-aituber-onair.md) ⚑ | 335 | 34 | 毎日 | 88 | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [effekseer-vfx-skill](entries/3d-motion/kanaworksai-hue-effekseer-vfx-skill.md) | 172 | 11 | 週次 | 4 | 2026-10-29 | 2026-11-16 | 2026-11-22 | MIT |
+| [cc-blender-skill](entries/3d-motion/roble3-cc-blender-skill.md) ⚑ | 168 | 20 | 月次 | 0 | 2026-10-12 | 2026-11-16 | 2026-11-22 | MIT |
+| [Lida-V/3DCharaMakeSkills-Lida](entries/3d-motion/lida-v-3dcharamakeskills-lida.md) ⚑ | 64 | 4 | 週次 | 9 | 2026-11-15 | 2026-11-16 | 2026-11-22 | NOASSERTION |
+| [CurioMesh](entries/3d-motion/curiocrafter-curiomesh.md) | 61 | 6 | 毎日 | 100+ | 2026-11-11 | 2026-11-16 | 2026-11-22 | GPL-3.0 |
+| [ComfyUI-InstantHMR — 写真・動画・ライブ人物モーション推定](entries/3d-motion/jtydhr88-comfyui-instanthmr.md) ⚑ | 56 | 10 | 週次 | 19 | 2026-11-08 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [Faltwerk](entries/3d-motion/edrethardo-faltwerk.md) | 47 | 3 | 週次 | 4 | 2026-11-14 | 2026-11-16 | 2026-11-22 | MIT |
+| [lovisdotio/video-to-texture](entries/3d-motion/lovisdotio-video-to-texture.md) ⚑ | 45 | 2 | 週次 | 6 | 2026-10-27 | 2026-11-16 | 2026-11-22 | MIT |
+| [ComfyUI-SAM3DBody-openpose-editor](entries/3d-motion/tori29umai0123-comfyui-sam3dbody-openpose-editor.md) ⚑ | 30 | 5 | 週次 | 16 | 2026-11-07 | 2026-11-16 | 2026-11-22 | GPL-3.0 |
+| [Three.js AI Skills](entries/3d-motion/alton47-threejs-skills.md) ⚑ | 21 | 6 | 停滞 | 0 | 2026-03-25 | 2026-11-16 | 2026-11-22 | MIT |
+| [GLB Viewer](entries/3d-motion/cullenwebber-glb-viewer.md) ⚑ | 20 | 2 | 毎日 | 22 | 2026-11-04 | 2026-11-16 | 2026-11-22 | none |
+| [VRMkimodo](entries/3d-motion/camenduru-vrmkimodo.md) ⚑ | 17 | 1 | 月次 | 3 | 2026-11-05 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [VRMExMR](entries/3d-motion/camenduru-vrmexmr.md) ⚑ | 16 | 0 | 毎日 | 39 | 2026-11-05 | 2026-11-16 | 2026-11-22 | 未確認（API は NOASSERTION。ExMR 側の条件を確認） |
+| [motion-tools-and-skills](entries/3d-motion/visualxintelligence-motion-tools-and-skills.md) ⚑ | 11 | 2 | 週次 | 12 | 2026-11-15 | 2026-11-16 | 2026-11-22 | MIT |
+| [3dmodel](entries/3d-motion/fletcherholt-3dmodel-skill.md) ⚑ | 7 | 0 | 停滞 | 0 | 2026-06-16 | 2026-11-16 | 2026-11-22 | unknown |
+| [Lida-V/LidaAngelToon](entries/3d-motion/lida-v-lidaangeltoon.md) ⚑ | 7 | 0 | 月次 | 0 | 2026-10-17 | 2026-11-16 | 2026-11-22 | NOASSERTION |
 
 ### 音声・TTS（41）
 
@@ -697,115 +697,115 @@
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
-| [Ollama](entries/model-serving/ollama-ollama.md) ⚑ | 186,907 | 19,075 | 毎日 | 98 | 2026-11-14 | 2026-11-14 | 2026-11-14 | MIT |
-| [Open WebUI](entries/model-serving/open-webui-open-webui.md) ⚑ | 158,778 | 23,088 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-16 | unknown |
-| [llama.cpp](entries/model-serving/ggml-org-llama.cpp.md) ⚑ | 135,242 | 25,656 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-16 | MIT |
-| [vLLM](entries/model-serving/vllm-project-vllm.md) ⚑ | 96,992 | 24,870 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-16 | Apache-2.0 |
-| [OmniRoute](entries/model-serving/cheaper-inference-omniroute.md) | 85,969 | 13,041 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
-| [LocalAI](entries/model-serving/mudler-localai.md) ⚑ | 50,388 | 4,610 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-16 | MIT |
-| [exo](entries/model-serving/exo-explore-exo.md) ⚑ | 48,446 | 3,621 | 毎日 | 81 | 2026-11-06 | 2026-11-16 | 2026-11-16 | Apache-2.0 |
-| [Jan](entries/model-serving/janhq-jan.md) ⚑ | 45,734 | 3,177 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-16 | unknown |
-| [Strata](entries/model-serving/niko1221-strata.md) ⚑ | 42,470 | 4,641 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
-| [MiniCPM-V](entries/model-serving/openbmb-minicpm-v.md) | 27,117 | 2,127 | 毎日 | 34 | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [DeepInfer](entries/model-serving/deepseek-ai-deepinfer.md) ⚑ | 25,757 | 3,161 | 週次 | 6 | 2026-11-03 | 2026-11-10 | 2026-11-10 | Apache-2.0 |
-| [oMLX（Apple Silicon向けLLM推論サーバ、メニューバーから管理）](entries/model-serving/jundot-omlx.md) | 23,487 | 2,113 | 毎日 | 100+ | 2026-11-08 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [gpu-unlock](entries/model-serving/zagitta-gpu-unlock.md) ⚑ | 18,370 | 1,869 | 毎日 | 36 | 2026-10-29 | 2026-11-09 | 2026-11-10 | GPL-2.0 |
-| [cactus-compute/cactus](entries/model-serving/cactus-compute-cactus.md) ⚑ | 14,620 | 1,017 | 毎日 | 32 | 2026-11-07 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [kimi-k3-in-c](entries/model-serving/fareedkhan-dev-kimi-k3-in-c.md) ⚑ | 11,459 | 1,785 | 月次 | 0 | 2026-10-02 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [open-free-llm-api/awesome-freellm-apis](entries/model-serving/open-free-llm-api-awesome-freellm-apis.md) ⚑ | 5,463 | 851 | 毎日 | 40 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
-| [TokenSpeed](entries/model-serving/lightseekorg-tokenspeed.md) ⚑ | 2,907 | 404 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | MIT |
-| [googlecolab/google-colab-cli](entries/model-serving/googlecolab-google-colab-cli.md) ⚑ | 2,127 | 301 | 週次 | 18 | 2026-11-06 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [Ollaya](entries/model-serving/ollaya-dev-ollaya.md) ⚑ | 1,454 | 90 | 毎日 | 100+ | 2026-11-06 | 2026-11-10 | 2026-11-11 | Apache-2.0 |
-| [NVIDIA Kubernetes Engine (NVKE)](entries/model-serving/dsx-ai-factory-nvke.md) ⚑ | 1,113 | 136 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-11 | Apache-2.0 |
-| [jev-router](entries/model-serving/gargpratyush-jev-router.md) ⚑ | 660 | 102 | 月次 | 0 | 2026-09-19 | 2026-11-09 | 2026-11-10 | MIT |
-| [Locals](entries/model-serving/generated-computers-locals.md) ⚑ | 647 | 43 | 毎日 | 100+ | 2026-11-12 | 2026-11-12 | 2026-11-12 | Apache-2.0 |
-| [Latent Sparse Attention (LSA)](entries/model-serving/prefrontal-ai-latent-sparse-attention.md) | 452 | 55 | 週次 | 7 | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [sushi](entries/model-serving/beamivalice-sushi.md) | 438 | 35 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
-| [llamAmpere](entries/model-serving/jakeatx-llamampere.md) | 303 | 37 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
-| [SpecPilot](entries/model-serving/stargazerx0-specpilot.md) | 183 | 11 | 月次 | 1 | 2026-11-03 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [Tencent/DSpine](entries/model-serving/tencent-dspine.md) ⚑ | 172 | 12 | 週次 | 7 | 2026-11-09 | 2026-11-09 | 2026-11-10 | NOASSERTION |
-| [Magnvs7/Promethevs](entries/model-serving/magnvs7-promethevs.md) ⚑ | 161 | 10 | 週次 | 16 | 2026-11-09 | 2026-11-09 | 2026-11-10 | CC-BY-4.0 |
-| [GLM-5.3-Flash DGX Spark 2台 配備レシピ](entries/model-serving/miaai-lab-glm-5.3-flash-dgx-sparks.md) ⚑ | 96 | 20 | 毎日 | 45 | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [bloomery](entries/model-serving/midagedev-bloomery.md) | 62 | 7 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
-| [nf12](entries/model-serving/dphnai-nf12.md) ⚑ | 32 | 3 | 週次 | 12 | 2026-11-14 | 2026-11-15 | 2026-11-15 | Apache-2.0 |
-| [Tokenomos](entries/model-serving/kohakublueleaf-tokenomos.md) | 26 | 0 | 毎日 | 20 | 2026-11-05 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [qwen-warp](entries/model-serving/tuan3w-qwen-warp.md) ⚑ | 24 | 4 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
-| [GLM-5.3-Flash 2×RTX PRO 6000 配備レシピ（TensorFold）](entries/model-serving/miaai-lab-glm-5.3-flash-2x-rtx-pro-6000.md) ⚑ | 23 | 2 | 週次 | 16 | 2026-11-07 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [ausboss/ComfyUI-AusBoss-Model-Downloader](entries/model-serving/ausboss-comfyui-ausboss-model-downloader.md) ⚑ | 9 | 1 | 週次 | 5 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
+| [Ollama](entries/model-serving/ollama-ollama.md) ⚑ | 187,256 | 19,113 | 毎日 | 85 | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [Open WebUI](entries/model-serving/open-webui-open-webui.md) ⚑ | 158,839 | 23,087 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | unknown |
+| [llama.cpp](entries/model-serving/ggml-org-llama.cpp.md) ⚑ | 135,345 | 25,656 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [vLLM](entries/model-serving/vllm-project-vllm.md) ⚑ | 97,050 | 24,904 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [OmniRoute](entries/model-serving/cheaper-inference-omniroute.md) | 88,094 | 13,517 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [LocalAI](entries/model-serving/mudler-localai.md) ⚑ | 50,392 | 4,611 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [exo](entries/model-serving/exo-explore-exo.md) ⚑ | 48,467 | 3,625 | 毎日 | 81 | 2026-11-06 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [Jan](entries/model-serving/janhq-jan.md) ⚑ | 45,747 | 3,179 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | unknown |
+| [Strata](entries/model-serving/niko1221-strata.md) ⚑ | 44,910 | 4,966 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [MiniCPM-V](entries/model-serving/openbmb-minicpm-v.md) | 27,157 | 2,130 | 週次 | 7 | 2026-11-09 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [DeepInfer](entries/model-serving/deepseek-ai-deepinfer.md) ⚑ | 26,112 | 3,211 | 週次 | 6 | 2026-11-03 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [oMLX（Apple Silicon向けLLM推論サーバ、メニューバーから管理）](entries/model-serving/jundot-omlx.md) | 23,668 | 2,142 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [gpu-unlock](entries/model-serving/zagitta-gpu-unlock.md) ⚑ | 19,975 | 2,079 | 毎日 | 36 | 2026-10-29 | 2026-11-16 | 2026-11-22 | GPL-2.0 |
+| [cactus-compute/cactus](entries/model-serving/cactus-compute-cactus.md) ⚑ | 14,775 | 1,040 | 毎日 | 30 | 2026-11-16 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [kimi-k3-in-c](entries/model-serving/fareedkhan-dev-kimi-k3-in-c.md) ⚑ | 12,199 | 1,883 | 毎日 | 45 | 2026-11-16 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [open-free-llm-api/awesome-freellm-apis](entries/model-serving/open-free-llm-api-awesome-freellm-apis.md) ⚑ | 5,715 | 896 | 毎日 | 42 | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [TokenSpeed](entries/model-serving/lightseekorg-tokenspeed.md) ⚑ | 2,930 | 416 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [googlecolab/google-colab-cli](entries/model-serving/googlecolab-google-colab-cli.md) ⚑ | 2,497 | 367 | 毎日 | 27 | 2026-11-15 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [Ollaya](entries/model-serving/ollaya-dev-ollaya.md) ⚑ | 1,468 | 92 | 毎日 | 98 | 2026-11-10 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [NVIDIA Kubernetes Engine (NVKE)](entries/model-serving/dsx-ai-factory-nvke.md) ⚑ | 1,233 | 163 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [jev-router](entries/model-serving/gargpratyush-jev-router.md) ⚑ | 669 | 102 | 月次 | 0 | 2026-09-19 | 2026-11-16 | 2026-11-22 | MIT |
+| [Locals](entries/model-serving/generated-computers-locals.md) ⚑ | 651 | 43 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [sushi](entries/model-serving/beamivalice-sushi.md) | 481 | 38 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [Latent Sparse Attention (LSA)](entries/model-serving/prefrontal-ai-latent-sparse-attention.md) | 468 | 60 | 毎日 | 23 | 2026-11-16 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [llamAmpere](entries/model-serving/jakeatx-llamampere.md) | 385 | 45 | 毎日 | 100+ | 2026-11-14 | 2026-11-16 | 2026-11-22 | MIT |
+| [Tencent/DSpine](entries/model-serving/tencent-dspine.md) ⚑ | 259 | 19 | 週次 | 15 | 2026-11-16 | 2026-11-16 | 2026-11-22 | NOASSERTION |
+| [SpecPilot](entries/model-serving/stargazerx0-specpilot.md) | 197 | 11 | 月次 | 1 | 2026-11-03 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [Magnvs7/Promethevs](entries/model-serving/magnvs7-promethevs.md) ⚑ | 193 | 12 | 週次 | 16 | 2026-11-09 | 2026-11-16 | 2026-11-22 | CC-BY-4.0 |
+| [GLM-5.3-Flash DGX Spark 2台 配備レシピ](entries/model-serving/miaai-lab-glm-5.3-flash-dgx-sparks.md) ⚑ | 132 | 31 | 毎日 | 89 | 2026-11-11 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [bloomery](entries/model-serving/midagedev-bloomery.md) | 78 | 7 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [qwen-warp](entries/model-serving/tuan3w-qwen-warp.md) ⚑ | 42 | 6 | 毎日 | 100+ | 2026-11-15 | 2026-11-16 | 2026-11-22 | MIT |
+| [nf12](entries/model-serving/dphnai-nf12.md) ⚑ | 32 | 3 | 週次 | 12 | 2026-11-14 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [GLM-5.3-Flash 2×RTX PRO 6000 配備レシピ（TensorFold）](entries/model-serving/miaai-lab-glm-5.3-flash-2x-rtx-pro-6000.md) ⚑ | 31 | 4 | 毎日 | 31 | 2026-11-12 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [Tokenomos](entries/model-serving/kohakublueleaf-tokenomos.md) | 28 | 0 | 毎日 | 20 | 2026-11-05 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [ausboss/ComfyUI-AusBoss-Model-Downloader](entries/model-serving/ausboss-comfyui-ausboss-model-downloader.md) ⚑ | 9 | 1 | 週次 | 9 | 2026-11-15 | 2026-11-16 | 2026-11-22 | MIT |
 
 ### MCPサーバー（33）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
-| [REA](entries/mcp-server/morluto-rea.md) ⚑ | 446,665 | 110,198 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
-| [shadcn/ui](entries/mcp-server/shadcn-ui-ui.md) ⚑ | 127,807 | 11,332 | 毎日 | 84 | 2026-11-10 | 2026-11-10 | 2026-11-11 | MIT |
-| [Scrapling](entries/mcp-server/d4vinci-scrapling.md) | 100,495 | 10,502 | 毎日 | 97 | 2026-11-09 | 2026-11-09 | 2026-11-10 | BSD-3-Clause |
-| [Home Assistant Core](entries/mcp-server/home-assistant-core.md) ⚑ | 92,120 | 39,255 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | Apache-2.0 |
-| [Penpot](entries/mcp-server/penpot-penpot.md) ⚑ | 62,245 | 4,393 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | MPL-2.0 |
-| [Chrome DevTools for agents](entries/mcp-server/chromedevtools-chrome-devtools-mcp.md) ⚑ | 55,061 | 4,579 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-11 | Apache-2.0 |
-| [Playwright MCP](entries/mcp-server/microsoft-playwright-mcp.md) | 39,387 | 3,410 | 週次 | 18 | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [changedetection.io](entries/mcp-server/dgtlmoon-changedetection.io.md) ⚑ | 35,707 | 2,230 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | Apache-2.0 |
-| [OpenSEO](entries/mcp-server/every-app-open-seo.md) ⚑ | 27,127 | 3,759 | 毎日 | 100+ | 2026-11-07 | 2026-11-10 | 2026-11-11 | MIT |
-| [Pascal Editor](entries/mcp-server/pascalorg-editor.md) ⚑ | 25,529 | 3,174 | 毎日 | 100+ | 2026-11-14 | 2026-11-16 | 2026-11-16 | MIT |
-| [Framelink MCP for Figma](entries/mcp-server/glips-figma-context-mcp.md) ⚑ | 16,187 | 1,282 | 停滞 | 0 | 2026-10-27 | 2026-11-10 | 2026-11-10 | MIT |
-| [SolidCraft](entries/mcp-server/tangency-labs-solidcraft.md) ⚑ | 15,931 | 2,181 | 毎日 | 100+ | 2026-11-12 | 2026-11-12 | 2026-11-12 | Apache-2.0 |
-| [Apify MCP server](entries/mcp-server/apify-apify-mcp-server.md) ⚑ | 15,564 | 444 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-11 | MIT |
-| [OpenPencil](entries/mcp-server/open-pencil-open-pencil.md) ⚑ | 9,747 | 1,051 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-11 | MIT |
-| [treg（REA growth スキル同梱のエージェント用ツールレジストリ）](entries/mcp-server/superdesigndev-treg.md) | 7,723 | 704 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 + 追加条項（GitHub API は NOASSERTION） |
-| [21st MCP compatibility proxy (formerly Magic MCP)](entries/mcp-server/21st-dev-magic-mcp.md) ⚑ | 6,482 | 531 | 月次 | 0 | 2026-09-09 | 2026-11-14 | 2026-11-14 | ISC |
-| [Exa MCP Server](entries/mcp-server/exa-labs-exa-mcp-server.md) ⚑ | 5,221 | 414 | 週次 | 9 | 2026-11-05 | 2026-11-10 | 2026-11-10 | MIT |
-| [designlang](entries/mcp-server/manavarya09-design-extract.md) ⚑ | 5,003 | 415 | 毎日 | 24 | 2026-11-05 | 2026-11-10 | 2026-11-10 | MIT |
-| [Basic Memory](entries/mcp-server/basicmachines-co-basic-memory.md) ⚑ | 4,583 | 360 | 毎日 | 100+ | 2026-11-15 | 2026-11-15 | 2026-11-15 | AGPL-3.0 |
-| [New Term Radar](entries/mcp-server/zhuyansen-new-term-radar.md) ⚑ | 2,147 | 642 | 毎日 | 54 | 2026-11-02 | 2026-11-10 | 2026-11-10 | MIT |
-| [Doop](entries/mcp-server/kgoedecke-doop.md) ⚑ | 2,069 | 265 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-16 | AGPL-3.0 |
-| [Gmail AutoAuth MCP Server](entries/mcp-server/gongrzhe-gmail-mcp-server.md) ⚑ | 1,169 | 416 | 停滞 | 0 | 2025-08-06 | 2026-11-10 | 2026-11-11 | MIT |
-| [World Intelligence MCP](entries/mcp-server/marc-shade-world-intel-mcp.md) | 1,067 | 176 | 毎日 | 100+ | 2026-10-18 | 2026-11-09 | 2026-11-10 | MIT |
-| [PicLite](entries/mcp-server/amiaoapp-piclite.md) ⚑ | 1,034 | 66 | 毎日 | 70 | 2026-11-06 | 2026-11-10 | 2026-11-10 | GPL-3.0 |
-| [ExcelMcp（本物のExcelをCOM経由でAIに操作させるMCPサーバ／CLI）](entries/mcp-server/sbroenne-mcp-server-excel.md) | 875 | 108 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
-| [Graphicle（コードグラフと記憶を1つのMCPサーバでエージェントに渡すRust製ツール）](entries/mcp-server/graphicle-ai-graphicle.md) | 543 | 41 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [DeepScrape](entries/mcp-server/stretchcloud-deepscrape.md) ⚑ | 337 | 28 | 月次 | 0 | 2026-08-21 | 2026-11-10 | 2026-11-10 | MIT |
-| [Material Painter](entries/mcp-server/alla2001-material-painter.md) ⚑ | 265 | 26 | 毎日 | 41 | 2026-11-07 | 2026-11-10 | 2026-11-10 | GPL-3.0 |
-| [pagesift](entries/mcp-server/yolow92-pagesift.md) ⚑ | 256 | 32 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | AGPL-3.0 |
-| [Moodle-MCP](entries/mcp-server/faixiang-moodle-mcp.md) ⚑ | 206 | 0 | 毎日 | 20 | 2026-11-01 | 2026-11-13 | 2026-11-14 | MIT |
-| [Kosh](entries/mcp-server/sachinyadavaug20-kosh.md) ⚑ | 4 | 0 | 毎日 | 61 | 2026-11-10 | 2026-11-10 | 2026-11-10 | Apache-2.0 |
-| [losslesscut-mcp](entries/mcp-server/bariswha-losslesscut-mcp.md) ⚑ | 4 | 0 | 月次 | 3 | 2026-11-12 | 2026-11-15 | 2026-11-15 | MIT |
-| [gmail-browser-mcp](entries/mcp-server/sparsh101sparsh-gmail-browser-mcp.md) ⚑ | 0 | 0 | 毎日 | 88 | 2026-11-13 | 2026-11-14 | 2026-11-14 | unknown |
+| [REA](entries/mcp-server/morluto-rea.md) ⚑ | 463,967 | 113,554 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [shadcn/ui](entries/mcp-server/shadcn-ui-ui.md) ⚑ | 128,336 | 11,403 | 毎日 | 70 | 2026-11-13 | 2026-11-16 | 2026-11-22 | MIT |
+| [Scrapling](entries/mcp-server/d4vinci-scrapling.md) | 103,622 | 10,812 | 毎日 | 52 | 2026-11-14 | 2026-11-16 | 2026-11-22 | BSD-3-Clause |
+| [Home Assistant Core](entries/mcp-server/home-assistant-core.md) ⚑ | 92,295 | 39,346 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [Penpot](entries/mcp-server/penpot-penpot.md) ⚑ | 62,429 | 4,424 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MPL-2.0 |
+| [Chrome DevTools for agents](entries/mcp-server/chromedevtools-chrome-devtools-mcp.md) ⚑ | 57,632 | 4,849 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [Playwright MCP](entries/mcp-server/microsoft-playwright-mcp.md) | 39,745 | 3,448 | 毎日 | 30 | 2026-11-16 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [changedetection.io](entries/mcp-server/dgtlmoon-changedetection.io.md) ⚑ | 35,853 | 2,255 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [OpenSEO](entries/mcp-server/every-app-open-seo.md) ⚑ | 27,936 | 3,935 | 毎日 | 100+ | 2026-11-13 | 2026-11-16 | 2026-11-22 | MIT |
+| [Pascal Editor](entries/mcp-server/pascalorg-editor.md) ⚑ | 25,556 | 3,177 | 毎日 | 100+ | 2026-11-14 | 2026-11-16 | 2026-11-22 | MIT |
+| [SolidCraft](entries/mcp-server/tangency-labs-solidcraft.md) ⚑ | 16,660 | 2,299 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [Apify MCP server](entries/mcp-server/apify-apify-mcp-server.md) ⚑ | 16,558 | 459 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [Framelink MCP for Figma](entries/mcp-server/glips-figma-context-mcp.md) ⚑ | 16,217 | 1,288 | 停滞 | 0 | 2026-11-15 | 2026-11-16 | 2026-11-22 | MIT |
+| [OpenPencil](entries/mcp-server/open-pencil-open-pencil.md) ⚑ | 9,888 | 1,072 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [treg（REA growth スキル同梱のエージェント用ツールレジストリ）](entries/mcp-server/superdesigndev-treg.md) | 8,169 | 776 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | Apache-2.0 + 追加条項（GitHub API は NOASSERTION） |
+| [21st MCP compatibility proxy (formerly Magic MCP)](entries/mcp-server/21st-dev-magic-mcp.md) ⚑ | 6,570 | 536 | 月次 | 0 | 2026-09-09 | 2026-11-16 | 2026-11-22 | ISC |
+| [Exa MCP Server](entries/mcp-server/exa-labs-exa-mcp-server.md) ⚑ | 5,240 | 414 | 週次 | 9 | 2026-11-05 | 2026-11-16 | 2026-11-22 | MIT |
+| [designlang](entries/mcp-server/manavarya09-design-extract.md) ⚑ | 5,119 | 425 | 毎日 | 25 | 2026-11-13 | 2026-11-16 | 2026-11-22 | MIT |
+| [Basic Memory](entries/mcp-server/basicmachines-co-basic-memory.md) ⚑ | 4,602 | 361 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | AGPL-3.0 |
+| [New Term Radar](entries/mcp-server/zhuyansen-new-term-radar.md) ⚑ | 2,182 | 649 | 毎日 | 28 | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [Doop](entries/mcp-server/kgoedecke-doop.md) ⚑ | 2,078 | 263 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | AGPL-3.0 |
+| [Gmail AutoAuth MCP Server](entries/mcp-server/gongrzhe-gmail-mcp-server.md) ⚑ | 1,171 | 419 | 停滞 | 0 | 2025-08-06 | 2026-11-16 | 2026-11-22 | MIT |
+| [PicLite](entries/mcp-server/amiaoapp-piclite.md) ⚑ | 1,100 | 72 | 毎日 | 59 | 2026-11-06 | 2026-11-16 | 2026-11-22 | GPL-3.0 |
+| [World Intelligence MCP](entries/mcp-server/marc-shade-world-intel-mcp.md) | 1,080 | 177 | 毎日 | 97 | 2026-10-18 | 2026-11-16 | 2026-11-22 | MIT |
+| [ExcelMcp（本物のExcelをCOM経由でAIに操作させるMCPサーバ／CLI）](entries/mcp-server/sbroenne-mcp-server-excel.md) | 898 | 113 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [Graphicle（コードグラフと記憶を1つのMCPサーバでエージェントに渡すRust製ツール）](entries/mcp-server/graphicle-ai-graphicle.md) | 580 | 44 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [DeepScrape](entries/mcp-server/stretchcloud-deepscrape.md) ⚑ | 339 | 28 | 月次 | 0 | 2026-08-21 | 2026-11-16 | 2026-11-22 | MIT |
+| [Material Painter](entries/mcp-server/alla2001-material-painter.md) ⚑ | 338 | 32 | 毎日 | 44 | 2026-11-16 | 2026-11-16 | 2026-11-22 | GPL-3.0 |
+| [pagesift](entries/mcp-server/yolow92-pagesift.md) ⚑ | 276 | 37 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | AGPL-3.0 |
+| [Moodle-MCP](entries/mcp-server/faixiang-moodle-mcp.md) ⚑ | 208 | 0 | 毎日 | 20 | 2026-11-01 | 2026-11-16 | 2026-11-22 | MIT |
+| [losslesscut-mcp](entries/mcp-server/bariswha-losslesscut-mcp.md) ⚑ | 12 | 0 | 月次 | 3 | 2026-11-12 | 2026-11-16 | 2026-11-22 | MIT |
+| [Kosh](entries/mcp-server/sachinyadavaug20-kosh.md) ⚑ | 5 | 0 | 毎日 | 76 | 2026-11-15 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [gmail-browser-mcp](entries/mcp-server/sparsh101sparsh-gmail-browser-mcp.md) ⚑ | 0 | 0 | 毎日 | 88 | 2026-11-13 | 2026-11-16 | 2026-11-22 | unknown |
 
 ### 金融・クオンツ（31）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
-| [TradingAgents](entries/finance-quant/tauricresearch-tradingagents.md) ⚑ | 121,734 | 23,299 | 毎日 | 34 | 2026-11-04 | 2026-11-10 | 2026-11-10 | Apache-2.0 |
-| [股票智能分析系统（daily_stock_analysis）](entries/finance-quant/zhulinsen-daily_stock_analysis.md) ⚑ | 69,545 | 56,670 | 毎日 | 34 | 2026-11-10 | 2026-11-10 | 2026-11-11 | MIT |
-| [Freqtrade](entries/finance-quant/freqtrade-freqtrade.md) | 56,701 | 11,723 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
-| [Kronos](entries/finance-quant/shiyu-coder-kronos.md) | 47,426 | 7,839 | 停滞 | 0 | 2026-04-13 | 2026-11-09 | 2026-11-10 | MIT |
-| [CCXT](entries/finance-quant/ccxt-ccxt.md) | 44,839 | 8,963 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
-| [awesome-quant](entries/finance-quant/wilsonfreitas-awesome-quant.md) | 30,551 | 4,327 | 毎日 | 57 | 2026-11-09 | 2026-11-09 | 2026-11-10 | unknown |
-| [backtrader](entries/finance-quant/mementum-backtrader.md) | 23,701 | 5,324 | 停滞 | 0 | 2024-08-19 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
-| [AKShare](entries/finance-quant/akfamily-akshare.md) ⚑ | 23,340 | 3,576 | 毎日 | 100+ | 2026-11-14 | 2026-11-14 | 2026-11-14 | MIT |
-| [machine-learning-for-trading](entries/finance-quant/stefan-jansen-machine-learning-for-trading.md) | 21,767 | 5,767 | 毎日 | 22 | 2026-11-06 | 2026-11-09 | 2026-11-10 | MIT |
-| [Zipline (Quantopian)](entries/finance-quant/quantopian-zipline.md) | 20,224 | 5,064 | 停滞 | 0 | 2024-02-13 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [Lightweight Charts](entries/finance-quant/tradingview-lightweight-charts.md) | 17,828 | 2,700 | 毎日 | 81 | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [TA-Lib Python](entries/finance-quant/ta-lib-ta-lib-python.md) | 12,395 | 2,009 | 毎日 | 36 | 2026-11-09 | 2026-11-09 | 2026-11-10 | BSD-2-Clause |
-| [quant-trading](entries/finance-quant/je-suis-tm-quant-trading.md) | 11,224 | 1,959 | 停滞 | 0 | 2026-06-20 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [vectorbt](entries/finance-quant/polakowo-vectorbt.md) | 9,782 | 1,280 | 毎日 | 49 | 2026-11-08 | 2026-11-09 | 2026-11-10 | Apache-2.0 + Commons Clause（販売不可） |
-| [QuantStats](entries/finance-quant/ranaroussi-quantstats.md) | 7,840 | 1,285 | 月次 | 1 | 2026-11-02 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [Claude Trading Skills](entries/finance-quant/tradermonty-claude-trading-skills.md) ⚑ | 4,511 | 893 | 毎日 | 100+ | 2026-11-14 | 2026-11-14 | 2026-11-14 | MIT |
-| [Vibe Research](entries/finance-quant/simonlin1212-vibe-research.md) ⚑ | 3,712 | 699 | 毎日 | 26 | 2026-11-12 | 2026-11-14 | 2026-11-14 | MIT |
-| [jev-trader](entries/finance-quant/jarrodwatts-jev-trader.md) ⚑ | 3,135 | 601 | 週次 | 4 | 2026-10-13 | 2026-11-10 | 2026-11-10 | MIT |
-| [cryptofeed](entries/finance-quant/bmoscon-cryptofeed.md) | 3,018 | 791 | 毎日 | 49 | 2026-11-09 | 2026-11-09 | 2026-11-10 | AGPL-3.0 |
-| [Gloom](entries/finance-quant/gloom-sh-gloomberb.md) ⚑ | 2,762 | 204 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-16 | MIT |
-| [QuantSkills](entries/finance-quant/quantskills-quantskills.md) | 2,624 | 242 | 毎日 | 55 | 2026-11-09 | 2026-11-09 | 2026-11-10 | unknown |
-| [skfolio](entries/finance-quant/skfolio-skfolio.md) | 2,618 | 305 | 毎日 | 81 | 2026-11-08 | 2026-11-09 | 2026-11-10 | BSD-3-Clause |
-| [prediction-market-backtesting](entries/finance-quant/evan-kolberg-prediction-market-backtesting.md) ⚑ | 1,267 | 201 | 停滞 | 0 | 2026-05-16 | 2026-11-10 | 2026-11-11 | unknown |
-| [serenity-stock-choke](entries/finance-quant/fadewalk-serenity-stock-choke.md) | 531 | 56 | 月次 | 0 | 2026-10-06 | 2026-11-09 | 2026-11-10 | MIT |
-| [A-Share Quant Selector](entries/finance-quant/dzy-hw-xd-a-share-quant-selector.md) | 513 | 109 | 停滞 | 0 | 2026-09-08 | 2026-11-09 | 2026-11-10 | MIT |
-| [HyperGrok Trading Desk](entries/finance-quant/galleonlabs-hypergrok-trading-desk.md) ⚑ | 472 | 110 | 毎日 | 26 | 2026-11-04 | 2026-11-10 | 2026-11-10 | MIT |
-| [polymarket-trade-engine](entries/finance-quant/kaustubhpatange-polymarket-trade-engine.md) ⚑ | 323 | 91 | 停滞 | 0 | 2026-06-08 | 2026-11-10 | 2026-11-11 | MIT |
-| [trade-jev](entries/finance-quant/justinhe16-trade-jev.md) ⚑ | 13 | 3 | 週次 | 16 | 2026-11-09 | 2026-11-10 | 2026-11-10 | MIT |
-| [Jev Paper Trader](entries/finance-quant/mojoai-king-jev-paper-trader.md) ⚑ | 3 | 1 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | unknown |
-| [JevOnAir](entries/finance-quant/valuecodes-jev-on-air.md) ⚑ | 0 | 0 | 週次 | 11 | 2026-11-09 | 2026-11-10 | 2026-11-10 | MIT |
-| [jev-polymarket-test](entries/finance-quant/truongxxxx-jev-polymarket-test.md) ⚑ | 0 | 0 | 停滞 | 0 | 2026-10-10 | 2026-11-10 | 2026-11-10 | MIT |
+| [TradingAgents](entries/finance-quant/tauricresearch-tradingagents.md) ⚑ | 122,842 | 23,555 | 毎日 | 23 | 2026-11-04 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [股票智能分析系统（daily_stock_analysis）](entries/finance-quant/zhulinsen-daily_stock_analysis.md) ⚑ | 72,786 | 57,667 | 毎日 | 48 | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [Freqtrade](entries/finance-quant/freqtrade-freqtrade.md) | 56,954 | 11,759 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | GPL-3.0 |
+| [Kronos](entries/finance-quant/shiyu-coder-kronos.md) | 47,897 | 7,926 | 停滞 | 0 | 2026-04-13 | 2026-11-16 | 2026-11-22 | MIT |
+| [CCXT](entries/finance-quant/ccxt-ccxt.md) | 44,895 | 8,985 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [awesome-quant](entries/finance-quant/wilsonfreitas-awesome-quant.md) | 30,666 | 4,372 | 毎日 | 72 | 2026-11-16 | 2026-11-16 | 2026-11-22 | unknown |
+| [backtrader](entries/finance-quant/mementum-backtrader.md) | 23,753 | 5,329 | 停滞 | 0 | 2024-08-19 | 2026-11-16 | 2026-11-22 | GPL-3.0 |
+| [AKShare](entries/finance-quant/akfamily-akshare.md) ⚑ | 23,360 | 3,577 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [machine-learning-for-trading](entries/finance-quant/stefan-jansen-machine-learning-for-trading.md) | 21,838 | 5,789 | 週次 | 18 | 2026-11-13 | 2026-11-16 | 2026-11-22 | MIT |
+| [Zipline (Quantopian)](entries/finance-quant/quantopian-zipline.md) | 20,246 | 5,065 | 停滞 | 0 | 2024-02-13 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [Lightweight Charts](entries/finance-quant/tradingview-lightweight-charts.md) | 17,878 | 2,717 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [TA-Lib Python](entries/finance-quant/ta-lib-ta-lib-python.md) | 12,416 | 2,016 | 毎日 | 28 | 2026-11-11 | 2026-11-16 | 2026-11-22 | BSD-2-Clause |
+| [quant-trading](entries/finance-quant/je-suis-tm-quant-trading.md) | 11,292 | 1,970 | 停滞 | 0 | 2026-06-20 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [vectorbt](entries/finance-quant/polakowo-vectorbt.md) | 9,865 | 1,310 | 毎日 | 46 | 2026-11-11 | 2026-11-16 | 2026-11-22 | Apache-2.0 + Commons Clause（販売不可） |
+| [QuantStats](entries/finance-quant/ranaroussi-quantstats.md) | 7,878 | 1,300 | 月次 | 1 | 2026-11-02 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [Claude Trading Skills](entries/finance-quant/tradermonty-claude-trading-skills.md) ⚑ | 6,234 | 1,324 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [Vibe Research](entries/finance-quant/simonlin1212-vibe-research.md) ⚑ | 3,746 | 707 | 毎日 | 26 | 2026-11-12 | 2026-11-16 | 2026-11-22 | MIT |
+| [jev-trader](entries/finance-quant/jarrodwatts-jev-trader.md) ⚑ | 3,139 | 601 | 月次 | 0 | 2026-10-13 | 2026-11-16 | 2026-11-22 | MIT |
+| [cryptofeed](entries/finance-quant/bmoscon-cryptofeed.md) | 3,036 | 797 | 毎日 | 54 | 2026-11-16 | 2026-11-16 | 2026-11-22 | AGPL-3.0 |
+| [QuantSkills](entries/finance-quant/quantskills-quantskills.md) | 2,790 | 265 | 毎日 | 54 | 2026-11-16 | 2026-11-16 | 2026-11-22 | unknown |
+| [Gloom](entries/finance-quant/gloom-sh-gloomberb.md) ⚑ | 2,763 | 204 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [skfolio](entries/finance-quant/skfolio-skfolio.md) | 2,651 | 316 | 毎日 | 81 | 2026-11-16 | 2026-11-16 | 2026-11-22 | BSD-3-Clause |
+| [prediction-market-backtesting](entries/finance-quant/evan-kolberg-prediction-market-backtesting.md) ⚑ | 1,270 | 202 | 停滞 | 0 | 2026-05-16 | 2026-11-16 | 2026-11-22 | unknown |
+| [HyperGrok Trading Desk](entries/finance-quant/galleonlabs-hypergrok-trading-desk.md) ⚑ | 540 | 121 | 毎日 | 23 | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [serenity-stock-choke](entries/finance-quant/fadewalk-serenity-stock-choke.md) | 535 | 56 | 月次 | 0 | 2026-10-06 | 2026-11-16 | 2026-11-22 | MIT |
+| [A-Share Quant Selector](entries/finance-quant/dzy-hw-xd-a-share-quant-selector.md) | 515 | 110 | 停滞 | 0 | 2026-09-08 | 2026-11-16 | 2026-11-22 | MIT |
+| [polymarket-trade-engine](entries/finance-quant/kaustubhpatange-polymarket-trade-engine.md) ⚑ | 323 | 91 | 停滞 | 0 | 2026-06-08 | 2026-11-16 | 2026-11-22 | MIT |
+| [trade-jev](entries/finance-quant/justinhe16-trade-jev.md) ⚑ | 13 | 3 | 毎日 | 20 | 2026-11-13 | 2026-11-16 | 2026-11-22 | MIT |
+| [Jev Paper Trader](entries/finance-quant/mojoai-king-jev-paper-trader.md) ⚑ | 3 | 1 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | unknown |
+| [JevOnAir](entries/finance-quant/valuecodes-jev-on-air.md) ⚑ | 0 | 0 | 週次 | 11 | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [jev-polymarket-test](entries/finance-quant/truongxxxx-jev-polymarket-test.md) ⚑ | 0 | 0 | 停滞 | 0 | 2026-10-10 | 2026-11-16 | 2026-11-22 | MIT |
 
 ### プロンプト（デザイン/UI）（30）
 
@@ -846,34 +846,34 @@
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
-| [ComfyUI](entries/image-gen/comfy-org-comfyui.md) ⚑ | 146,083 | 17,401 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | GPL-3.0 |
-| [Upscayl](entries/image-gen/upscayl-upscayl.md) ⚑ | 52,517 | 2,751 | 停滞 | 0 | 2026-10-05 | 2026-11-14 | 2026-11-14 | AGPL-3.0 |
-| [Real-ESRGAN](entries/image-gen/xinntao-real-esrgan.md) ⚑ | 37,430 | 4,528 | 停滞 | 0 | 2024-08-06 | 2026-11-10 | 2026-11-10 | BSD-3-Clause |
-| [rembg](entries/image-gen/danielgatis-rembg.md) ⚑ | 25,424 | 2,481 | 週次 | 9 | 2026-11-06 | 2026-11-11 | 2026-11-11 | MIT |
-| [Primitive Pictures](entries/image-gen/fogleman-primitive.md) ⚑ | 13,594 | 671 | 停滞 | 0 | 2024-07-22 | 2026-11-14 | 2026-11-14 | MIT |
-| [ostris/ai-toolkit](entries/image-gen/ostris-ai-toolkit.md) ⚑ | 12,595 | 1,616 | 毎日 | 55 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
-| [facebookresearch/sam3](entries/image-gen/facebookresearch-sam3.md) ⚑ | 12,252 | 1,857 | 月次 | 2 | 2026-10-23 | 2026-11-09 | 2026-11-10 | NOASSERTION |
-| [Pixelorama](entries/image-gen/orama-interactive-pixelorama.md) ⚑ | 11,071 | 615 | 毎日 | 65 | 2026-11-10 | 2026-11-11 | 2026-11-11 | MIT |
-| [AI 角色参考与合成工作台 · 中文版（3合1）](entries/image-gen/anhao-ai-pose-gallery-zh.md) ⚑ | 6,608 | 1,670 | 毎日 | 82 | 2026-11-04 | 2026-11-10 | 2026-11-10 | unknown |
-| [pixelfx](entries/image-gen/patch-gg-pixelfx.md) | 6,308 | 830 | 週次 | 9 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
-| [Agent Sprite Forge](entries/image-gen/0x0funky-agent-sprite-forge.md) ⚑ | 5,456 | 533 | 月次 | 3 | 2026-11-06 | 2026-11-09 | 2026-11-10 | MIT |
-| [FLUX.2](entries/image-gen/black-forest-labs-flux2.md) | 2,862 | 222 | 停滞 | 0 | 2026-03-12 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [Qwen-Image-2.1](entries/image-gen/qwenlm-qwen-image-2.1.md) | 2,189 | 158 | 月次 | 3 | 2026-10-14 | 2026-11-09 | 2026-11-10 | NOASSERTION |
-| [GIF 工厂](entries/image-gen/woyun520-gif-factory.md) ⚑ | 1,092 | 134 | 毎日 | 27 | 2026-11-11 | 2026-11-11 | 2026-11-11 | MIT |
-| [ComfyArt](entries/image-gen/jtydhr88-comfyart.md) ⚑ | 504 | 87 | 毎日 | 70 | 2026-11-09 | 2026-11-11 | 2026-11-11 | MIT |
-| [ray-sticker-shop](entries/image-gen/imraywang-ray-sticker-shop.md) ⚑ | 500 | 57 | 月次 | 1 | 2026-11-05 | 2026-11-16 | 2026-11-16 | MIT |
-| [gifenc](entries/image-gen/mattdesl-gifenc.md) ⚑ | 357 | 29 | 停滞 | 0 | 2024-09-19 | 2026-11-15 | 2026-11-15 | MIT |
-| [ComfyUI AICG3D PoseSwap](entries/image-gen/jgrfw-comfyui-pose-swap.md) | 330 | 47 | 週次 | 7 | 2026-11-01 | 2026-11-09 | 2026-11-10 | MIT |
-| [Anima Reference Adapter for ComfyUI](entries/image-gen/arcanima-comfyui-anima-ref-adapter.md) ⚑ | 234 | 14 | 週次 | 12 | 2026-10-31 | 2026-11-11 | 2026-11-11 | Apache-2.0 |
-| [Tost AI - Sprite Sheet Studio](entries/image-gen/camenduru-tostai-sprite-sheet-studio.md) ⚑ | 88 | 6 | 月次 | 0 | 2026-10-02 | 2026-11-16 | 2026-11-16 | unknown |
-| [MiniMax-H3-Image](entries/image-gen/minimax-ai-minimax-h3-image.md) ⚑ | 85 | 2 | 月次 | 1 | 2026-11-10 | 2026-11-11 | 2026-11-11 | unknown |
-| [Iris-3B Metal](entries/image-gen/tky-27-iris-3b-metal.md) | 58 | 2 | 毎日 | 36 | 2026-10-19 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [Lyricccco/tailsteer](entries/image-gen/lyricccco-tailsteer.md) ⚑ | 49 | 1 | 週次 | 11 | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [ComfyUI-MossPanelDataset](entries/image-gen/sepiablue-ai-comfyui-mosspaneldataset.md) | 41 | 5 | 週次 | 18 | 2026-11-05 | 2026-11-09 | 2026-11-10 | MIT |
-| [rhinoc/xprite-lighter](entries/image-gen/rhinoc-xprite-lighter.md) ⚑ | 15 | 0 | 毎日 | 91 | 2026-11-08 | 2026-11-09 | 2026-11-10 | MIT |
-| [sepiablue-ai/ComfyUI-PH3-Manga](entries/image-gen/sepiablue-ai-comfyui-ph3-manga.md) ⚑ | 8 | 0 | 週次 | 10 | 2026-11-07 | 2026-11-09 | 2026-11-10 | MIT |
-| [ComfyUI Prompt Atelier](entries/image-gen/renz1998-comfyui-prompt-atelier.md) | 3 | 0 | 毎日 | 51 | 2026-11-09 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
-| [P-H3-Image ComfyUI sample workflows](entries/image-gen/tori29umai0123-p-h3-image_workflows.md) ⚑ | 2 | 1 | 週次 | 4 | 2026-11-06 | 2026-11-10 | 2026-11-11 | unknown |
+| [ComfyUI](entries/image-gen/comfy-org-comfyui.md) ⚑ | 147,174 | 17,573 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | GPL-3.0 |
+| [Upscayl](entries/image-gen/upscayl-upscayl.md) ⚑ | 52,767 | 2,768 | 停滞 | 0 | 2026-11-14 | 2026-11-16 | 2026-11-22 | AGPL-3.0 |
+| [Real-ESRGAN](entries/image-gen/xinntao-real-esrgan.md) ⚑ | 37,530 | 4,541 | 停滞 | 0 | 2024-08-06 | 2026-11-16 | 2026-11-22 | BSD-3-Clause |
+| [rembg](entries/image-gen/danielgatis-rembg.md) ⚑ | 25,527 | 2,500 | 週次 | 9 | 2026-11-06 | 2026-11-16 | 2026-11-22 | MIT |
+| [Primitive Pictures](entries/image-gen/fogleman-primitive.md) ⚑ | 13,597 | 671 | 停滞 | 0 | 2024-07-22 | 2026-11-16 | 2026-11-22 | MIT |
+| [ostris/ai-toolkit](entries/image-gen/ostris-ai-toolkit.md) ⚑ | 12,641 | 1,621 | 毎日 | 35 | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [facebookresearch/sam3](entries/image-gen/facebookresearch-sam3.md) ⚑ | 12,310 | 1,873 | 月次 | 3 | 2026-11-13 | 2026-11-16 | 2026-11-22 | NOASSERTION |
+| [Pixelorama](entries/image-gen/orama-interactive-pixelorama.md) ⚑ | 11,121 | 616 | 毎日 | 44 | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [pixelfx](entries/image-gen/patch-gg-pixelfx.md) | 7,750 | 1,018 | 週次 | 10 | 2026-11-13 | 2026-11-16 | 2026-11-22 | MIT |
+| [AI 角色参考与合成工作台 · 中文版（3合1）](entries/image-gen/anhao-ai-pose-gallery-zh.md) ⚑ | 7,097 | 1,809 | 毎日 | 82 | 2026-11-04 | 2026-11-16 | 2026-11-22 | unknown |
+| [Agent Sprite Forge](entries/image-gen/0x0funky-agent-sprite-forge.md) ⚑ | 5,778 | 562 | 週次 | 19 | 2026-11-13 | 2026-11-16 | 2026-11-22 | MIT |
+| [FLUX.2](entries/image-gen/black-forest-labs-flux2.md) | 2,878 | 225 | 停滞 | 0 | 2026-03-12 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [Qwen-Image-2.1](entries/image-gen/qwenlm-qwen-image-2.1.md) | 2,232 | 165 | 月次 | 0 | 2026-10-14 | 2026-11-16 | 2026-11-22 | NOASSERTION |
+| [GIF 工厂](entries/image-gen/woyun520-gif-factory.md) ⚑ | 1,951 | 232 | 毎日 | 52 | 2026-11-15 | 2026-11-16 | 2026-11-22 | MIT |
+| [ComfyArt](entries/image-gen/jtydhr88-comfyart.md) ⚑ | 562 | 97 | 毎日 | 54 | 2026-11-12 | 2026-11-16 | 2026-11-22 | MIT |
+| [ray-sticker-shop](entries/image-gen/imraywang-ray-sticker-shop.md) ⚑ | 507 | 58 | 月次 | 1 | 2026-11-05 | 2026-11-16 | 2026-11-22 | MIT |
+| [MiniMax-H3-Image](entries/image-gen/minimax-ai-minimax-h3-image.md) ⚑ | 402 | 21 | 週次 | 5 | 2026-11-11 | 2026-11-16 | 2026-11-22 | unknown |
+| [ComfyUI AICG3D PoseSwap](entries/image-gen/jgrfw-comfyui-pose-swap.md) | 393 | 61 | 週次 | 7 | 2026-11-01 | 2026-11-16 | 2026-11-22 | MIT |
+| [gifenc](entries/image-gen/mattdesl-gifenc.md) ⚑ | 370 | 33 | 停滞 | 0 | 2024-09-19 | 2026-11-16 | 2026-11-22 | MIT |
+| [Anima Reference Adapter for ComfyUI](entries/image-gen/arcanima-comfyui-anima-ref-adapter.md) ⚑ | 239 | 14 | 週次 | 19 | 2026-11-11 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [Tost AI - Sprite Sheet Studio](entries/image-gen/camenduru-tostai-sprite-sheet-studio.md) ⚑ | 88 | 6 | 月次 | 0 | 2026-10-02 | 2026-11-16 | 2026-11-22 | unknown |
+| [Lyricccco/tailsteer](entries/image-gen/lyricccco-tailsteer.md) ⚑ | 59 | 2 | 週次 | 12 | 2026-11-11 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [Iris-3B Metal](entries/image-gen/tky-27-iris-3b-metal.md) | 58 | 2 | 週次 | 11 | 2026-10-19 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [ComfyUI-MossPanelDataset](entries/image-gen/sepiablue-ai-comfyui-mosspaneldataset.md) | 43 | 5 | 週次 | 18 | 2026-11-05 | 2026-11-16 | 2026-11-22 | MIT |
+| [rhinoc/xprite-lighter](entries/image-gen/rhinoc-xprite-lighter.md) ⚑ | 30 | 1 | 毎日 | 91 | 2026-11-08 | 2026-11-16 | 2026-11-22 | MIT |
+| [sepiablue-ai/ComfyUI-PH3-Manga](entries/image-gen/sepiablue-ai-comfyui-ph3-manga.md) ⚑ | 13 | 2 | 週次 | 10 | 2026-11-07 | 2026-11-16 | 2026-11-22 | MIT |
+| [ComfyUI Prompt Atelier](entries/image-gen/renz1998-comfyui-prompt-atelier.md) | 3 | 0 | 毎日 | 72 | 2026-11-11 | 2026-11-16 | 2026-11-22 | GPL-3.0 |
+| [P-H3-Image ComfyUI sample workflows](entries/image-gen/tori29umai0123-p-h3-image_workflows.md) ⚑ | 2 | 1 | 週次 | 4 | 2026-11-06 | 2026-11-16 | 2026-11-22 | unknown |
 
 ### RAG・検索（21）
 
@@ -905,49 +905,49 @@
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
-| [promptfoo](entries/eval/promptfoo-promptfoo.md) ⚑ | 27,000 | 2,700 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
-| [garak (Generative AI Red-teaming and Assessment Kit)](entries/eval/nvidia-garak.md) ⚑ | 9,967 | 1,462 | 毎日 | 91 | 2026-11-06 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [AI-Infra-Guard (A.I.G)](entries/eval/tencent-ai-infra-guard.md) | 7,447 | 746 | 毎日 | 50 | 2026-11-05 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [PyRIT (Python Risk Identification Tool for generative AI)](entries/eval/microsoft-pyrit.md) ⚑ | 4,801 | 1,050 | 毎日 | 100+ | 2026-11-12 | 2026-11-13 | 2026-11-13 | MIT |
-| [Goochbeater/Spiritual-Spell-Red-Teaming](entries/eval/goochbeater-spiritual-spell-red-teaming.md) ⚑ | 4,735 | 829 | 毎日 | 34 | 2026-11-08 | 2026-11-09 | 2026-11-10 | unknown |
-| [EasyJailbreak](entries/eval/easyjailbreak-easyjailbreak.md) ⚑ | 945 | 95 | 停滞 | 0 | 2026-09-01 | 2026-11-13 | 2026-11-13 | GPL-3.0 |
-| [Jailbreaking Black Box Large Language Models in Twenty Queries (PAIR)](entries/eval/patrickrchao-jailbreakingllms.md) ⚑ | 817 | 128 | 停滞 | 0 | 2025-07-02 | 2026-11-13 | 2026-11-13 | MIT |
-| [jev-calibrate](entries/eval/smkrv-jev-calibrate.md) ⚑ | 33 | 1 | 月次 | 0 | 2026-10-19 | 2026-11-10 | 2026-11-11 | MIT |
-| [kodasdream/gamefeel-benchmark](entries/eval/kodasdream-gamefeel-benchmark.md) ⚑ | 13 | 0 | 週次 | 17 | 2026-11-09 | 2026-11-09 | 2026-11-10 | unknown |
-| [JevLight](entries/eval/usail-hkust-jevlight.md) ⚑ | 11 | 2 | 週次 | 10 | 2026-11-06 | 2026-11-10 | 2026-11-11 | unknown |
+| [promptfoo](entries/eval/promptfoo-promptfoo.md) ⚑ | 27,327 | 2,784 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [garak (Generative AI Red-teaming and Assessment Kit)](entries/eval/nvidia-garak.md) ⚑ | 10,052 | 1,485 | 毎日 | 64 | 2026-11-06 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [AI-Infra-Guard (A.I.G)](entries/eval/tencent-ai-infra-guard.md) | 7,527 | 763 | 毎日 | 54 | 2026-11-16 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [Goochbeater/Spiritual-Spell-Red-Teaming](entries/eval/goochbeater-spiritual-spell-red-teaming.md) ⚑ | 4,973 | 870 | 毎日 | 37 | 2026-11-15 | 2026-11-16 | 2026-11-22 | unknown |
+| [PyRIT (Python Risk Identification Tool for generative AI)](entries/eval/microsoft-pyrit.md) ⚑ | 4,888 | 1,072 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [EasyJailbreak](entries/eval/easyjailbreak-easyjailbreak.md) ⚑ | 947 | 96 | 停滞 | 0 | 2026-09-01 | 2026-11-16 | 2026-11-22 | GPL-3.0 |
+| [Jailbreaking Black Box Large Language Models in Twenty Queries (PAIR)](entries/eval/patrickrchao-jailbreakingllms.md) ⚑ | 820 | 128 | 停滞 | 0 | 2025-07-02 | 2026-11-16 | 2026-11-22 | MIT |
+| [jev-calibrate](entries/eval/smkrv-jev-calibrate.md) ⚑ | 33 | 1 | 月次 | 0 | 2026-10-19 | 2026-11-16 | 2026-11-22 | MIT |
+| [kodasdream/gamefeel-benchmark](entries/eval/kodasdream-gamefeel-benchmark.md) ⚑ | 16 | 0 | 毎日 | 51 | 2026-11-16 | 2026-11-16 | 2026-11-22 | unknown |
+| [JevLight](entries/eval/usail-hkust-jevlight.md) ⚑ | 11 | 3 | 週次 | 10 | 2026-11-12 | 2026-11-16 | 2026-11-22 | unknown |
 
 ### リンク（素材・アイコン・3D）（5）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
-| [Awesome-Selfhosted](entries/link-asset/awesome-selfhosted-awesome-selfhosted.md) ⚑ | 336,158 | 15,811 | 週次 | 19 | 2026-11-07 | 2026-11-12 | 2026-11-12 | unknown |
-| [方舟像素字体 / Ark Pixel Font](entries/link-asset/takwolf-ark-pixel-font.md) ⚑ | 4,972 | 104 | 毎日 | 28 | 2026-11-14 | 2026-11-16 | 2026-11-16 | MIT |
-| [lucas-martinic/polyfork-catalog](entries/link-asset/lucas-martinic-polyfork-catalog.md) ⚑ | 499 | 61 | 週次 | 8 | 2026-11-09 | 2026-11-09 | 2026-11-10 | NOASSERTION |
-| [Shisei](entries/link-asset/wquguru-shisei.md) ⚑ | 478 | 102 | 毎日 | 100+ | 2026-11-02 | 2026-11-10 | 2026-11-10 | Apache-2.0 |
-| [idlerunner00/procedural-pixel-creatures](entries/link-asset/idlerunner00-procedural-pixel-creatures.md) ⚑ | 262 | 31 | 月次 | 0 | 2026-10-05 | 2026-11-09 | 2026-11-10 | MIT |
+| [Awesome-Selfhosted](entries/link-asset/awesome-selfhosted-awesome-selfhosted.md) ⚑ | 337,694 | 15,862 | 週次 | 16 | 2026-11-16 | 2026-11-16 | 2026-11-22 | unknown |
+| [方舟像素字体 / Ark Pixel Font](entries/link-asset/takwolf-ark-pixel-font.md) ⚑ | 4,980 | 104 | 毎日 | 28 | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [lucas-martinic/polyfork-catalog](entries/link-asset/lucas-martinic-polyfork-catalog.md) ⚑ | 754 | 89 | 週次 | 15 | 2026-11-16 | 2026-11-16 | 2026-11-22 | NOASSERTION |
+| [Shisei](entries/link-asset/wquguru-shisei.md) ⚑ | 537 | 112 | 毎日 | 100+ | 2026-11-14 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [idlerunner00/procedural-pixel-creatures](entries/link-asset/idlerunner00-procedural-pixel-creatures.md) ⚑ | 264 | 33 | 月次 | 0 | 2026-10-05 | 2026-11-16 | 2026-11-22 | MIT |
 
 ### リンク（作例・インスピレーション）（4）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
-| [Awesome Claude Code](entries/link-inspiration/hesreallyhim-awesome-claude-code.md) ⚑ | 57,801 | 4,938 | 毎日 | 100+ | 2026-11-12 | 2026-11-12 | 2026-11-12 | unknown |
-| [Awesome DeepSeek Harness (DSH) Plugin](entries/link-inspiration/awesome-dsh-plugin-awesome-dsh-plugin.md) ⚑ | 24,324 | 7,990 | 毎日 | 100+ | 2026-11-11 | 2026-11-11 | 2026-11-11 | CC0-1.0 |
-| [Awesome English](entries/link-inspiration/yvoronoy-awesome-english.md) ⚑ | 4,539 | 470 | 月次 | 0 | 2026-11-10 | 2026-11-13 | 2026-11-13 | CC0-1.0 |
-| [Awesome AI Drama](entries/link-inspiration/du8866-nice-awesome-ai-drama.md) ⚑ | 2 | 2 | 週次 | 5 | 2026-11-09 | 2026-11-12 | 2026-11-12 | CC0-1.0 |
+| [Awesome Claude Code](entries/link-inspiration/hesreallyhim-awesome-claude-code.md) ⚑ | 58,156 | 4,971 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | unknown |
+| [Awesome DeepSeek Harness (DSH) Plugin](entries/link-inspiration/awesome-dsh-plugin-awesome-dsh-plugin.md) ⚑ | 24,893 | 8,701 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | CC0-1.0 |
+| [Awesome English](entries/link-inspiration/yvoronoy-awesome-english.md) ⚑ | 4,557 | 474 | 月次 | 0 | 2026-11-10 | 2026-11-16 | 2026-11-22 | CC0-1.0 |
+| [Awesome AI Drama](entries/link-inspiration/du8866-nice-awesome-ai-drama.md) ⚑ | 16 | 6 | 週次 | 6 | 2026-11-16 | 2026-11-16 | 2026-11-22 | CC0-1.0 |
 
 ### agent（3）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
-| [agent-browser](entries/agent/vercel-labs-agent-browser.md) ⚑ | 48,395 | 3,296 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [niubigeo](entries/agent/albert-weasker-niubigeo.md) ⚑ | 10,180 | 822 | 週次 | 12 | 2026-11-03 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
-| [ontosmith](entries/agent/dongbumlee-ontosmith.md) ⚑ | 259 | 26 | 毎日 | 100+ | 2026-11-08 | 2026-11-09 | 2026-11-10 | MIT |
+| [agent-browser](entries/agent/vercel-labs-agent-browser.md) ⚑ | 51,976 | 3,629 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [niubigeo](entries/agent/albert-weasker-niubigeo.md) ⚑ | 10,329 | 824 | 週次 | 13 | 2026-11-16 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [ontosmith](entries/agent/dongbumlee-ontosmith.md) ⚑ | 285 | 28 | 毎日 | 100+ | 2026-11-13 | 2026-11-16 | 2026-11-22 | MIT |
 
 ### image-generation（1）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
-| [Fumika — ローカル漫画・画像・LoRA学習スタジオ](entries/image-generation/7err4-fumika.md) ⚑ | 6 | 3 | 月次 | 2 | 2026-10-25 | 2026-11-09 | 2026-11-10 | NOASSERTION |
+| [Fumika — ローカル漫画・画像・LoRA学習スタジオ](entries/image-generation/7err4-fumika.md) ⚑ | 6 | 3 | 月次 | 2 | 2026-10-25 | 2026-11-16 | 2026-11-22 | NOASSERTION |
 
 ### productivity（1）
 
@@ -1692,8 +1692,8 @@
 - [Motion](entries/3d-motion/motiondivision-motion.md) — unverified / 最新リリースの版と公開日時、ブラウザー上の描画性能、エージェントへのSkill導入とMCP接続の実動作は未確認。コミット件数の100は各期間で100件以上を表す。
 - [@react-three/fiber](entries/3d-motion/pmndrs-react-three-fiber.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [GSAP](entries/3d-motion/greensock-gsap.md) — unverified / GitHub APIでライセンスを確認できていません。
-- [Babylon.js](entries/3d-motion/babylonjs-babylon.js.md) — unverified / READMEのCDNは学習や小規模な実験向けで、本番環境では使用しないよう記載されている。READMEは実機での動作や対応環境の詳細を独立検証していない。
 - [text-to-cad](entries/3d-motion/earthtojake-text-to-cad.md) — unverified / 有効性は配布元の設計説明と自己申告のみで、生成された CAD の寸法精度・製造可能性を第三者が測定した結果は確認していない。DFM/DfAM の検査は mesh 計測と規則の引用だが、規則の妥当性・合否閾値は未検証。PyPI の分類は Development Status :: 4 - Beta。Python 3.14 固定で 3.13 以前では動かない。Windows 11 の Smart App Control 有効環境では OCP のネイティブモジュールが遮断される。既定でテレメトリ有効。リポジトリサイズは API 表記 436,278 KB。
+- [Babylon.js](entries/3d-motion/babylonjs-babylon.js.md) — unverified / READMEのCDNは学習や小規模な実験向けで、本番環境では使用しないよう記載されている。READMEは実機での動作や対応環境の詳細を独立検証していない。
 - [Blender](entries/3d-motion/blender-blender.md) — unverified / GitHubミラーの最新リリース、発見投稿のClaudeによる全工程自動化、外部MCPとの接続、総費用、制作結果は未確認。レンダリング速度や画質の独立実測は行っていない。 GitHub APIでライセンスを確認できていません。
 - [Hunyuan3D-2](entries/3d-motion/tencent-hunyuan-hunyuan3d-2.md) — unverified / GitHub APIでライセンスを確認できていません。
 - [Meshroom](entries/3d-motion/alicevision-meshroom.md) — unverified / Meshroom本体はMPL-2.0。AliceVisionや追加プラグイン、AIモデルの条件は個別に確認。公式マニュアルによると密な深度推定にはCUDA対応NVIDIA GPUが必要で、非CUDA環境は粗いdraft meshingを利用。実行・再構築品質は未検証。
@@ -1705,27 +1705,27 @@
 - [Text-to-Lottie](entries/3d-motion/diffusionstudio-lottie.md) — unverified / 導入・生成・プレビューは未実行。出力品質、複雑なシーンや各再生環境での互換性、参照動画からの再現、対応ランタイムの最低バージョン、エージェント側の料金は未検証。
 - [Tweakpane](entries/3d-motion/cocopon-tweakpane.md) — unverified / 機能と手順は公式の記述とサンプルで確認した。実行検証、制作時間への効果、特定の描画ライブラリとの互換性、最新リリースの公開日時は未確認。
 - [Kimodo](entries/3d-motion/nv-tlabs-kimodo.md) — unverified / コードはApache-2.0、重みはモデル別。SOMA-RP-v1.2はNVIDIA Open Model Licenseで商用利用可能、SMPLX-RP-v1はNVIDIA R&D Model License。Scenarioは別サービスで無料プランの生成物は個人・評価用途に限る。実行・生成品質・Scenario操作は未検証。
-- [facebookresearch/sam-3d-body](entries/3d-motion/facebookresearch-sam-3d-body.md) — unverified / 独自SAM LicenseはMIT/Apacheではなく用途・再配布・法令・プライバシー等に条件。非商用専用と断定する根拠はない。人体動画の同意と権利を確認する。 当方でインストール・推論・生成・ベンチ再現はしていない。
-- [Post Processing](entries/3d-motion/pmndrs-postprocessing.md) — unverified / ['実機での描画、GPU別の性能差、発見投稿が紹介したAI制作フロー全体は未検証。']
-- [Motion Design Skill](entries/3d-motion/lottiefiles-motion-design-skill.md) — unverified / 確認範囲は公開READMEとスキル定義の記述。導入とエージェントでの動作、出力品質の改善、発見投稿で紹介された動画制作工程での効果は未検証。利用するエージェントの料金や条件は未確認。
-- [Claude Animated Shorts](entries/3d-motion/mromidev-claude-animated-shorts.md) — unverified / 今回の紹介はREADMEと一致したが、新たな実行検証ではない。 今回の動作・推論・生成・性能は未検証。
-- [Sverchok](entries/3d-motion/nortikin-sverchok.md) — unverified / Blender 5.1、4.5、3.6、2.8対応との記載。追加ライブラリは一部ノードで必要。個別機能の依存条件はREADME記載のDependencies資料を参照。
 - [Blender Skills（94 specialist Blender skills）](entries/3d-motion/arjun988-blender-skills.md) — unverified / 効果の定量評価・ベンチマークは無く、README の設計方針と投稿者のデモ動画だけが根拠。README は「Marketplace listing is currently under review by Anthropic」と記載しており、Claude Code プラグインマーケット未登録（GitHub から手動コピー）。30日コミットは1件で開発は低頻度（最終コミット 2026-11-06）。MCP 方式のため投稿が書く `blender -b -P script.py` の完全ヘッドレス実行とは前提が異なり、Blender を起動してアドオンから接続する必要がある。
-- [pixiv/three-vrm](entries/3d-motion/pixiv-three-vrm.md) — unverified / v3.6.0-beta.0のVRMC_springBone_limitはBeta拡張。MITはコードの条件で、各VRMの人物・衣装・モデルの権利は別。 当方でインストール・推論・生成・ベンチ再現はしていない。
-- [three-gpu-pathtracer](entries/3d-motion/gkjohnson-three-gpu-pathtracer.md) — unverified / ['GitHub の最新リリースは未確認。依存関係と導入手順は main ブランチの公開資料に基づく。', '描画速度、収束時間、画質、端末別の互換性、特定のAIモデルとの連携は実測していない。']
-- [sand3d](entries/3d-motion/sandflow-ai-sand3d.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
+- [facebookresearch/sam-3d-body](entries/3d-motion/facebookresearch-sam-3d-body.md) — unverified / 独自SAM LicenseはMIT/Apacheではなく用途・再配布・法令・プライバシー等に条件。非商用専用と断定する根拠はない。人体動画の同意と権利を確認する。 当方でインストール・推論・生成・ベンチ再現はしていない。
+- [Claude Animated Shorts](entries/3d-motion/mromidev-claude-animated-shorts.md) — unverified / 今回の紹介はREADMEと一致したが、新たな実行検証ではない。 今回の動作・推論・生成・性能は未検証。
+- [Motion Design Skill](entries/3d-motion/lottiefiles-motion-design-skill.md) — unverified / 確認範囲は公開READMEとスキル定義の記述。導入とエージェントでの動作、出力品質の改善、発見投稿で紹介された動画制作工程での効果は未検証。利用するエージェントの料金や条件は未確認。
+- [Post Processing](entries/3d-motion/pmndrs-postprocessing.md) — unverified / ['実機での描画、GPU別の性能差、発見投稿が紹介したAI制作フロー全体は未検証。']
+- [Sverchok](entries/3d-motion/nortikin-sverchok.md) — unverified / Blender 5.1、4.5、3.6、2.8対応との記載。追加ライブラリは一部ノードで必要。個別機能の依存条件はREADME記載のDependencies資料を参照。
 - [dream-loop](entries/3d-motion/achimala-dream-loop.md) — unverified / ['最新リリースは取得がタイムアウトしたため未確認。', '作者のREADMEではCodex上のGPT-6 Astraのみでテスト済み。Claude Opus 5.5での動作、比較ベンチマーク、デモの画質・FPS、実行費用は未検証。']
+- [pixiv/three-vrm](entries/3d-motion/pixiv-three-vrm.md) — unverified / v3.6.0-beta.0のVRMC_springBone_limitはBeta拡張。MITはコードの条件で、各VRMの人物・衣装・モデルの権利は別。 当方でインストール・推論・生成・ベンチ再現はしていない。
+- [sand3d](entries/3d-motion/sandflow-ai-sand3d.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
+- [three-gpu-pathtracer](entries/3d-motion/gkjohnson-three-gpu-pathtracer.md) — unverified / ['GitHub の最新リリースは未確認。依存関係と導入手順は main ブランチの公開資料に基づく。', '描画速度、収束時間、画質、端末別の互換性、特定のAIモデルとの連携は実測していない。']
 - [Inochi2D](entries/3d-motion/inochi2d-inochi2d.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [React Three Rapier](entries/3d-motion/pmndrs-react-three-rapier.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [react-postprocessing](entries/3d-motion/pmndrs-react-postprocessing.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [motionmaxxing](entries/3d-motion/tejashmakwana-motionmaxxing.md) — unverified / 現行版の生成品質、実行互換性、レンダリング性能は独立検証していない。作者のブラインド比較は旧版を対象とした単一評価者の結果で、作例の映像品質も評価していない。紹介投稿の冒頭にある参照動画の再現能力は、このリポジトリについて確認できていない。
 - [nanocle/Charakuru](entries/3d-motion/nanocle-charakuru.md) — unverified / 独自Charakuru Source-Available License and Terms of UseでOSI承認OSSではない。商用・再配布条件、Tripo/API料金を別途確認する。 当方でインストール・推論・生成・ベンチ再現はしていない。
+- [toyxyz/toyxyz_RGBMocap](entries/3d-motion/toyxyz-toyxyz_rgbmocap.md) — unverified / MITは自作コードのみ。ExMR/GVHMR/PromptHMRと登録ボディには非商用等の別条件。FlowHMRも重みは非商用であり、コードのApacheを重みに適用しない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [livliv-dev/player](entries/3d-motion/livliv-dev-player.md) — unverified / Apache-2.0はプレイヤーのみ。同梱21キャラは個人非商用・クレジット等の別条件で一部さらに例外。公開直後でmodel.json v4等の形式は流動的。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [3Dviz Pro Max](entries/3d-motion/viettranx-3dviz-pro-max.md) — unverified / 描画・導入は独立に再現していない。README掲載の作者評価は各条件1件で、品質向上の一般化は未確認。作者資料でもCodexアプリへの導入とClaude Codeのマーケットプレイス経由の導入は未検証。冒頭の村の映像はスキル開発前の素材で、再配布権は確認中。
-- [three.quarks](entries/3d-motion/alchemist0823-three.quarks.md) — unverified / GitHubの最新リリースと公開日は未確認。バッチ描画による描画呼び出し削減は作者の説明に基づき、削減量やフレームレートは未計測。Three.jsの対応バージョン範囲とAIエージェントとの連携動作も未検証。
-- [toyxyz/toyxyz_RGBMocap](entries/3d-motion/toyxyz-toyxyz_rgbmocap.md) — unverified / MITは自作コードのみ。ExMR/GVHMR/PromptHMRと登録ボディには非商用等の別条件。FlowHMRも重みは非商用であり、コードのApacheを重みに適用しない。 当方でインストール・推論・生成・ベンチ再現はしていない。
-- [Scenario for Blender](entries/3d-motion/scenario-labs-blender-plugin.md) — unverified / インストール、MCP接続、生成品質、処理時間、実消費CUは未実測。発見投稿の羊牧場デモにおける本拡張の寄与と所要時間、生成物の利用条件は未確認。
 - [Blender Agent Skills](entries/3d-motion/el4cteo-blender-skills.md) — unverified / テスト通過は公開リリースでの作者報告。テストの再実行、生成物の品質差、投稿の羊牧場の制作・レンダリング時間、各エージェントやMCP構成での実動作は未検証。リリースの年とタイムゾーンを含む公開日時は未確認。
+- [three.quarks](entries/3d-motion/alchemist0823-three.quarks.md) — unverified / GitHubの最新リリースと公開日は未確認。バッチ描画による描画呼び出し削減は作者の説明に基づき、削減量やフレームレートは未計測。Three.jsの対応バージョン範囲とAIエージェントとの連携動作も未検証。
+- [Scenario for Blender](entries/3d-motion/scenario-labs-blender-plugin.md) — unverified / インストール、MCP接続、生成品質、処理時間、実消費CUは未実測。発見投稿の羊牧場デモにおける本拡張の寄与と所要時間、生成物の利用条件は未確認。
 - [Athenaion](entries/3d-motion/leonxlnx-athenaion.md) — unverified / READMEには依存パッケージのバージョン、対応環境、必要なハードウェアの詳細が記載されていない。
 - [MPFB2](entries/3d-motion/makehumancommunity-mpfb2.md) — unverified / 公式資料に基づく確認。Blenderでの動作、Python経由の自動化、外部モーションキャプチャとの互換性、制作時間や工程全体の費用は未検証。GitHubの最新タグは確認したが、公開日時の年とタイムゾーンは確認できていない。 GitHub APIでライセンスを確認できていません。
 - [patch-gg/anymove](entries/3d-motion/patch-gg-anymove.md) — unverified / 5秒2カメラ0.26ドルだけでなく実用1動作約3ドル・合格率58%等も作者説明。8本脚・寝姿・翼・尻尾等は不可。クラウド版なし、速度・精度は未追試。 当方でインストール・推論・生成・ベンチ再現はしていない。
@@ -1739,8 +1739,8 @@
 - [ComfyUI-InstantHMR — 写真・動画・ライブ人物モーション推定](entries/3d-motion/jtydhr88-comfyui-instanthmr.md) — unverified / コードはApache-2.0だが重みはSAM License。nano/tiny/small/mediumは追加で非商用限定。商用用途はmedium_commercialを選びSAM条件を確認する。投稿の約2.5ms/人・40fps超は作者の報告で測定条件やエンドツーエンド性能を当方は再現していない。 当方でインストール・動作・性能の実行検証はしていない。
 - [lovisdotio/video-to-texture](entries/3d-motion/lovisdotio-video-to-texture.md) — unverified / 4096²・120フレームを55.8秒等は作者申告。SfM不要でも元メッシュ・既知カメラ・有料生成が必要で、ゼロ費用ではない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [ComfyUI-SAM3DBody-openpose-editor](entries/3d-motion/tori29umai0123-comfyui-sam3dbody-openpose-editor.md) — unverified / READMEでは必要モデルを初回使用時に自動ダウンロードすると説明しているが、モデルの配布条件・料金はREADMEから確認できない。
-- [GLB Viewer](entries/3d-motion/cullenwebber-glb-viewer.md) — unverified / LICENSEファイルが404で、明示ライセンスなし（all rights reserved）。ソースは公開されているが、再配布・商用利用の許諾は不明。配布はmacOSのDMGのみ（arm64/x64、Apple公証なし→初回はOpen Anywayかxattr -cr）。Windows/Linuxのビルド手順はREADMEになく、Windows 11環境ではそのまま動かせない。16 starsの若いプロジェクトで、AI機能はない。DMG未ダウンロード・未起動（READMEとリポジトリ構成のみ確認）。
 - [Three.js AI Skills](entries/3d-motion/alton47-threejs-skills.md) — unverified / エージェント別の導入とスキル読込、生成コードの動作、スキル有無による品質差、対応バージョンは未検証。閲覧した公開リリース一覧には掲載がなかったが、最新リリースのAPI確認は未実施。
+- [GLB Viewer](entries/3d-motion/cullenwebber-glb-viewer.md) — unverified / LICENSEファイルが404で、明示ライセンスなし（all rights reserved）。ソースは公開されているが、再配布・商用利用の許諾は不明。配布はmacOSのDMGのみ（arm64/x64、Apple公証なし→初回はOpen Anywayかxattr -cr）。Windows/Linuxのビルド手順はREADMEになく、Windows 11環境ではそのまま動かせない。16 starsの若いプロジェクトで、AI機能はない。DMG未ダウンロード・未起動（READMEとリポジトリ構成のみ確認）。
 - [VRMkimodo](entries/3d-motion/camenduru-vrmkimodo.md) — unverified / 上流 nv-tlabs/kimodo のフォークで、独自追加は kimodo/exports/vrma.py のみ（README/CHANGELOG は上流と同一、CLI・デモからは未接続）。.vrma 書き出しはコード読解のみで実行検証していない。コードは Apache-2.0 だがモデル重みは NVIDIA Open Model License。ローカル生成には約17GB VRAM が必要。
 - [VRMExMR](entries/3d-motion/camenduru-vrmexmr.md) — unverified / ライセンス表記がなく、ExMR 側の利用条件（研究用か商用可か）を一次情報で確認できていない。商用利用の前に必ず確認する。
 - [motion-tools-and-skills](entries/3d-motion/visualxintelligence-motion-tools-and-skills.md) — unverified / スキルの動作、レンダリング品質、制作時間の短縮効果、参考動画の再現精度は未検証。個別ツールの対応バージョンと外部サービスの料金も未確認。
@@ -1793,42 +1793,43 @@
 - [Composio](entries/agent-framework/composiohq-composio.md) — unverified / 利用にはCOMPOSIO_API_KEYが必要とREADMEに記載。README記載の機能や規模について独立した検証はしていない。
 - [GPT Researcher](entries/agent-framework/assafelovic-gpt-researcher.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Activepieces](entries/agent-framework/activepieces-activepieces.md) — unverified / GitHub APIでライセンスを確認できていません。
+- [ccch1mneyyy/dsh-Go](entries/agent-framework/ccch1mneyyy-dsh-go.md) — unverified / 匿名使用統計は既定ONで停止可能。スマホ操作の画面内容がモデル提供元へ送られ得る。ローカル起動でもモデル通信・課金は別。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Jev Ultrafast](entries/agent-framework/browser-use-jev-ultrafast.md) — unverified / ['最新リリースのタグと公開日時、外部APIの現行料金・利用条件は未確認。', '性能値は開発元の報告。独立した再実行は行っておらず、別サイトや別環境での性能は未確認。']
 - [google/skills](entries/agent-framework/google-skills.md) — unverified / skill追加だけで対象クラウド契約・API課金が無料になるわけではない。日次stars増分と効果は未検証。 当方でインストール・推論・生成・ベンチ再現はしていない。
-- [Claude Quickstarts](entries/agent-framework/anthropics-claude-quickstarts.md) — unverified / 最新リリースのタグと公開日時、サンプルの動作、回答精度、実利用時の費用は未確認。MITはリポジトリ単位のAPI計測値。各サンプルの条件は個別に確認が必要で、自律コーディング例のREADMEには『Internal Anthropic use.』と記載がある。https://github.com/anthropics/claude-quickstarts/blob/main/autonomous-coding/README.md
 - [milind-soni/OpenMausBot](entries/agent-framework/milind-soni-openmausbot.md) — unverified / Apache-2.0は一般部分でenterprise配下は別条件。機能の無料性とモデル・クラウド利用料は別。権限・資格情報と外部操作の承認を確認する。 当方でインストール・推論・生成・ベンチ再現はしていない。
+- [Claude Quickstarts](entries/agent-framework/anthropics-claude-quickstarts.md) — unverified / 最新リリースのタグと公開日時、サンプルの動作、回答精度、実利用時の費用は未確認。MITはリポジトリ単位のAPI計測値。各サンプルの条件は個別に確認が必要で、自律コーディング例のREADMEには『Internal Anthropic use.』と記載がある。https://github.com/anthropics/claude-quickstarts/blob/main/autonomous-coding/README.md
 - [Elephant-Goldfish Model (EGM)](entries/agent-framework/google-elephant-goldfish-model.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Rowboat](entries/agent-framework/rowboatlabs-rowboat.md) — unverified / READMEは「Expect breaking changes while we dogfood」としており、wire contractの互換性は今後変更される可能性がある。
-- [ccch1mneyyy/dsh-Go](entries/agent-framework/ccch1mneyyy-dsh-go.md) — unverified / 匿名使用統計は既定ONで停止可能。スマホ操作の画面内容がモデル提供元へ送られ得る。ローカル起動でもモデル通信・課金は別。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [opensandbox-group/OpenSandbox](entries/agent-framework/opensandbox-group-opensandbox.md) — unverified / 64ms P50・125.4ms P99等は開発側ベンチ。隔離の強さは設定・バックエンドによるため、秘密情報やネットワークの安全性を一括保証しない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [QM](entries/agent-framework/yc-software-qm.md) — unverified / 一次資料で未確認: 技術背景・有効性。
 - [e2e](entries/agent-framework/e2e-inc-e2e.md) — unverified / エージェント実行には利用者自身のサブスクリプション、APIキー、またはローカルモデルが必要。料金や各モデルの利用条件はREADMEに記載なし。
-- [Worktrunk](entries/agent-framework/max-sixty-worktrunk.md) — unverified / 発見元の投稿は画面録画MCP（t.co リンク先は gmpetrov/agent-screenplay）の紹介で、worktrunk はそのツールではない。worktrunk は git worktree 管理 CLI で、投稿本文に worktrunk への言及はない。数値・機能は worktrunk 自身の API/README/公式ドキュメントで確認した。
 - [dsh-market/dsh-market](entries/agent-framework/dsh-market-dsh-market.md) — unverified / 4200以上のプラグインという数は投稿/READMEの主張で独立確認なし。市場の掲載は各プラグインの安全性保証ではない。 当方でインストール・推論・生成・ベンチ再現はしていない。
+- [Worktrunk](entries/agent-framework/max-sixty-worktrunk.md) — unverified / 発見元の投稿は画面録画MCP（t.co リンク先は gmpetrov/agent-screenplay）の紹介で、worktrunk はそのツールではない。worktrunk は git worktree 管理 CLI で、投稿本文に worktrunk への言及はない。数値・機能は worktrunk 自身の API/README/公式ドキュメントで確認した。
 - [AutoHarness](entries/agent-framework/tigerless-labs-autoharness.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [zhu1090093659/dsh-web](entries/agent-framework/zhu1090093659-dsh-web.md) — unverified / 10選への掲載とGitHub実在確認は動作試験ではない。外部公開時の安全性・セッション保持・料金は未確認。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Mobilerun](entries/agent-framework/droidrun-mobilerun.md) — unverified / 投稿の主張のうち一次情報で確認できたのは「root不要」「ADB経由で実機を操作」「MIT」まで。未確認/誤り: (1)「300+機種・40ブランド対応」は README・docs に記載がなく、要件は Android 8.0(API 26)+ のみ。(2)「家庭内Wi-FiのADBは誰でも命令できる抜け穴」は誤りで、公式docsは Android 11+ のワイヤレスデバッグにペアリングコード(or QR)による adb pair を必須と明記。(3)「3ツールのエージェントをMCPとしてClaude Codeに接続」は repo の実装と不一致。repo 内 mobilerun/mcp は外部MCPサーバーをツールとして取り込むクライアント側で、MCPサーバーは提供していない。コーディングエージェント連携は別リポジトリの Markdown スキル mobile-harness 経由。(4) エージェントの操作は9種(click/long_press/type/system_button/swipe/open_app/get_state/take_screenshot/complete)で「3ツール」ではない。(5)「1言でTelegramを開きChatGPTを入れる」動作は docs/README に実演記録がなく、Play Store 経由の自動インストールは未確認(Portal は URL からの APK インストールには対応)。(6) 引用記事 https://x.com/i/article/2109686434210693120 はログイン要求で本文未取得。(7) ベンチマーク 100% AndroidWorld / 98.34% iOSWorld はベンダー自己申告で第三者追試なし。
 - [Munder Difflin](entries/agent-framework/harnessmd-munder-difflin.md) — unverified / README記載のPro無料提供期間は2026年10月24日まで。確認時点である2026年11月16日の現行料金・利用条件はREADMEから確認できない。
 - [Orkas](entries/agent-framework/orkas-ai-orkas.md) — unverified / README記載の機能説明に基づく。各エージェントの実際の性能、動作条件、依存関係は確認していない。
 - [firstmate](entries/agent-framework/kunchenguid-firstmate.md) — unverified / 実際の効果や、記載された要件以外の依存関係・実行条件は未検証。
-- [CyberStrikeAI](entries/agent-framework/aipentest-cyberstrikeai.md) — unverified / 認可前提: README と security-model.md が「所有または明示的に許可されたシステムにのみ使用」と明記する高権限ツール。WebShell 管理・内蔵 C2（リスナー、暗号化ビーコン、セッション、ペイロード生成）・Metasploit / mimikatz / responder などのポストエクスプロイト系レシピを含み、認可なき標的への実行は違法行為になり得る。実装上の注意として、security-model.md は「c2.enabled: false unless required」を本番基準とする一方、リポジトリ同梱の config.example.yaml は `c2: enabled: true`（省略時も既定で有効とのコメント付き）であり、既定値の解釈が文書間で一致しない。HTTP API はトークンをクエリ文字列でも受け付けるため、ログ経由の漏えいに注意。プロンプトインジェクションは標的側の応答がエージェントのツール選択に影響し得る脅威として security-model.md 自身が挙げている。未検証範囲: 有効性（検出率・成功率）の第三者実測は無く、README の網羅性主張とベンチマーク非公開のまま。実運用での誤検知率、C2/WebShell の検知回避性能、マルチエージェント編成の品質は未確認。
 - [Rakazo](entries/agent-framework/elie222-rakazo.md) — unverified / 本番運用でHTTPSを前段に置くこと、サンドボックスプロバイダーに応じた設定、開発時のNode.js・pnpm・Docker・Postgres等の条件がある。料金や未記載のプロバイダー条件はREADMEだけでは確認できない。
+- [CyberStrikeAI](entries/agent-framework/aipentest-cyberstrikeai.md) — unverified / 認可前提: README と security-model.md が「所有または明示的に許可されたシステムにのみ使用」と明記する高権限ツール。WebShell 管理・内蔵 C2（リスナー、暗号化ビーコン、セッション、ペイロード生成）・Metasploit / mimikatz / responder などのポストエクスプロイト系レシピを含み、認可なき標的への実行は違法行為になり得る。実装上の注意として、security-model.md は「c2.enabled: false unless required」を本番基準とする一方、リポジトリ同梱の config.example.yaml は `c2: enabled: true`（省略時も既定で有効とのコメント付き）であり、既定値の解釈が文書間で一致しない。HTTP API はトークンをクエリ文字列でも受け付けるため、ログ経由の漏えいに注意。プロンプトインジェクションは標的側の応答がエージェントのツール選択に影響し得る脅威として security-model.md 自身が挙げている。未検証範囲: 有効性（検出率・成功率）の第三者実測は無く、README の網羅性主張とベンチマーク非公開のまま。実運用での誤検知率、C2/WebShell の検知回避性能、マルチエージェント編成の品質は未確認。
 - [HKUDS/AgentPilot](entries/agent-framework/hkuds-agentpilot.md) — unverified / Terminal-Bench 63.8%・AIME改善はREADMEの自己報告。9B戦略モデルの重みの取得方法は原チェックで確認できていない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [ccch1mneyyy/dsh-TUI](entries/agent-framework/ccch1mneyyy-dsh-tui.md) — unverified / 「DSH公式推薦」は投稿の主張で公式根拠未確認。DeepSeek公式配布と断定せず、CLI操作は未実行。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Rune](entries/agent-framework/anomalyco-rune.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
+- [Agent Autoloop](entries/agent-framework/kkkkhazix-agent-autoloop.md) — unverified / starsの投稿値と確認値は時点差がある。承認の実効性・無人稼働は今回試験していない。 今回の動作・推論・生成・性能は未検証。
 - [百智办公 · MonkeyAI](entries/agent-framework/chaitin-monkeycode.md) — unverified / 無料版は最大10席で、クラウドPCと技術サポートは含まれない。付費版の価格と席数はREADMEに記載がなく、要問い合わせ。外部モデルやツールを使う場合、関連内容は設定したサービスへ送信される。
+- [bowenliang123/dsh-context](entries/agent-framework/bowenliang123-dsh-context.md) — unverified / 一覧紹介とAPI上の実在確認が根拠で、文脈削減の効果やデータ保管の安全性を独立検証したものではない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [omdsh-dev/DSH-better-sidebar](entries/agent-framework/omdsh-dev-dsh-better-sidebar.md) — unverified / 一覧への掲載を独立した使い勝手評価に変えない。具体的な互換性・設定保持・安全性は未検証。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [PilotDeck](entries/agent-framework/openbmb-pilotdeck.md) — unverified / 投稿の Workbuddy Bench 79.1点（Qwen3.6-35B-A3B）は README の表に該当がなく一次情報で確認できない。採用した数値は README 側のみ。
 - [liustack/modlens](entries/agent-framework/liustack-modlens.md) — unverified / DSH必須プラグイン一覧に載ることとDSH専用実装であることは別。対応エージェント・権限・画面送信の扱いは未検証。 当方でインストール・推論・生成・ベンチ再現はしていない。
-- [bowenliang123/dsh-context](entries/agent-framework/bowenliang123-dsh-context.md) — unverified / 一覧紹介とAPI上の実在確認が根拠で、文脈削減の効果やデータ保管の安全性を独立検証したものではない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [hyperresearch](entries/agent-framework/jordan-gibbs-hyperresearch.md) — unverified / READMEの250件以上はpremier設定に関する開発元の説明。収集件数と引用監査の精度は独立に実測していない。READMEでは引用監査の対象範囲に関する記述が一致せず、全件を点検するかは未確認。最新GitHubリリースの公開日時は未確認。
-- [Agent Autoloop](entries/agent-framework/kkkkhazix-agent-autoloop.md) — unverified / starsの投稿値と確認値は時点差がある。承認の実効性・無人稼働は今回試験していない。 今回の動作・推論・生成・性能は未検証。
 - [Speakr](entries/agent-framework/murtaza-nasir-speakr.md) — unverified / 料金はREADMEで確認できない。
 - [FireRed-OpenStoryline](entries/agent-framework/fireredteam-firered-openstoryline.md) — unverified / インストール・実レンダリングは未実行で、記載は README / config.toml / requirements.txt / docs の原文にもとづく。2026-07-31 以降コミットがなく（30日0・90日0）、GitHub の Releases とタグは未作成（Docker Hub には v1.0.1 イメージあり）。LLM・VLM・（任意で）TTS/Pexels/AIトランジションのAPIキーが必須で、AIトランジションは外部動画生成APIの課金が発生し「コストが比較的高く結果は予測しづらい」とREADMEが明記している。
 - [NanmiCoder/dsh-agent-teams](entries/agent-framework/nanmicoder-dsh-agent-teams.md) — unverified / 10選への掲載はチーム動作や品質改善の実証ではない。タスク競合・外部操作の承認は未検証。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [karpathy-llm-wiki](entries/agent-framework/astro-han-karpathy-llm-wiki.md) — unverified / READMEに記載された利用統計や運用実績はREADME上の説明であり、独立検証していない。インストール方法としてnpx add-skillが記載されているが、実行条件や追加依存関係はREADMEだけでは確認できない。
-- [stripe/ai](entries/agent-framework/stripe-ai.md) — unverified / 投稿が『Stripe agent toolkit』と呼ぶ @stripe/agent-toolkit は、READMEで『今後の更新・セキュリティ修正なし』と明記され、ホスト型MCP（https://mcp.stripe.com）への移行が推奨されている。新規導入では非推奨パッケージを選ばないこと。ベンチマークはStripe自身が3回の最良値を採る社内評価で、独立再現ではない。投稿の請求書・決済リンクの即時発行、$3,000–6,000、48 leads / 12 pitches / 1 signed は動作確認していない。当方でプラグイン導入・MCP接続・決済試験はしていない。
 - [Hy Memory](entries/agent-framework/tencent-hunyuan-hy-memory.md) — unverified / 投稿の数値のうち multi-hop recall 50%→90% は Tencent 公式サイトの導入事例グラフ（「多跳召回提升 40 个百分点」、棒グラフ50→90）と Tencent AI 公式X投稿で確認した。記憶量51.8%減・呼び出しトークン39.3%減は Tencent AI 公式X投稿（2026-10-16）の文言にのみ存在し、README・製品サイト・公開論文アブストラクトには該当記述が見つからず、第三者検証もない。pip install hy-memory==2.0.3 は実在（PyPI公開 2026-10-17）するが最新は 2.0.14（READMEも2.0.4以上を案内）。MemHub は preview 段階で、macOS は arm64 のみ・Windows非対応。GitHub API の license は Other/NOASSERTION を返すが、LICENSE 本文と README は Apache-2.0 と明記している。
+- [stripe/ai](entries/agent-framework/stripe-ai.md) — unverified / 投稿が『Stripe agent toolkit』と呼ぶ @stripe/agent-toolkit は、READMEで『今後の更新・セキュリティ修正なし』と明記され、ホスト型MCP（https://mcp.stripe.com）への移行が推奨されている。新規導入では非推奨パッケージを選ばないこと。ベンチマークはStripe自身が3回の最良値を採る社内評価で、独立再現ではない。投稿の請求書・決済リンクの即時発行、$3,000–6,000、48 leads / 12 pitches / 1 signed は動作確認していない。当方でプラグイン導入・MCP接続・決済試験はしていない。
+- [Nod](entries/agent-framework/n8n-io-nod.md) — low-quality, unverified / READMEに「Status: research preview」と明記されています。 研究プレビューです。対応OSはmacOS 14以降（Apple siliconまたはIntel）とWindows 11プレビュー、利用条件はChatGPT Plus/ProまたはAIキーとREADMEに記載されています。Windowsの正式対応状況や、利用するモデル・プロバイダーごとの費用はこのREADME抜粋から確認できません。
 - [ARTEX](entries/agent-framework/hinln-artex.md) — unverified / ①認可前提: README は「オンラインシステムへの実行は認可の有無を問わず禁止」と明記し、対象はローカルの隔離環境に限るとする。実運用で使うなら著者の許諾と法的根拠の両方が要る。②危険な既定値: worker は Bash/HTTP を実ツールで実行する。0.3.15 の変更履歴は、内蔵の破壊的 HTTP 規則が DELETE メソッドしか見ておらず、GET/POST の削除系エンドポイント（例 `/api/user/delete?id=1`）を実際に叩いてデータを消し得たと述べ、deny 規則を追加したとしている。0.3.15 未満は破壊的操作を止められない前提で扱うべき。③承認ゲートの範囲は未検証: guard/intercept とタスク単位 intercept_rules は存在するが、既定で何が承認待ちになるかの一覧は README・CHANGELOG から特定できない。④MITM の鍵管理: 記録プロキシが CA を発行して TLS を復号し、Bash/HTTP を留痕する。CA 秘密鍵と traffic データの保管・削除は利用者責任で、第三者環境に置くと通信内容がそのまま残る。⑤サプライチェーン: 本リポジトリは上流のバックアップで、Hinln 名義のコミット 1 本が自己更新の取得先を Hinln/ARTEX Releases に変更している。更新は zip 取得→SHA256SUMS 照合→`-h` スモークテスト→入替（3 回失敗でロールバック）という実装だが、配布元が単一アカウントである点は変わらない。取得時点で Releases と tags は 0 件のため更新経路は動かない。⑥記述の不整合: README は「これは私有リポジトリ」として ARTEX_UPDATE_GITHUB_TOKEN（Contents: read）の設定を求めるが、API 上 private=false。トークン前提の更新手順は現状と一致しない。⑦上流の消失: Autumn-27/ARTEX は API 404 で作者の公開リポジトリ一覧にも無い。fork 1941 > star 1427 という比率は一斉ミラーと整合するが、各 fork が同一内容とは限らず、本項では上流タグとのハッシュ照合をしていない。⑧未検証: 本項はコード・README・compose の静的確認のみで、実行・ベンチ・検出率の検証はしていない。効果の数値的裏付けは無い。
 - [ysr666/dsh-vision-router](entries/agent-framework/ysr666-dsh-vision-router.md) — unverified / 画像の外部送信先・API費用・対応モデルの範囲は未確認。名称からすべてのモデルに視覚能力が付くと判断しない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Kanzo](entries/agent-framework/emanuele-em-kanzo.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
@@ -1839,14 +1840,13 @@
 - [browse](entries/agent-framework/anomalyco-browse.md) — unverified / README記載の導入方法には、ダウンロードしたインストーラーを実行する手順（curl | bash、PowerShellのirm | iex、npx install）が含まれます。この候補では実行していません。
 - [Hermes Gadget](entries/agent-framework/adolanium-hermes-gadget-sdk.md) — unverified / 実機ポートは、対象リビジョンの完全な物理検証レポートが記録されるまで実験的とREADMEに記載。ボード選定時は検証表の確認が必要。
 - [blender-ai-copilot-lab](entries/agent-framework/precygtrucqui1981-blender-ai-copilot-lab.md) — unverified / README記載の機能と対象環境は作者の説明に基づく。独立した動作確認は行っていない。
+- [creator-generalist](entries/agent-framework/codepawl-creator-generalist.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [neo4jev — Graph Navigation Demo (TypeSafe Jev + Neo4j)](entries/agent-framework/jexp-neo4jev.md) — unverified / TypeSafe APIの利用にはTYPESAFE_API_KEYが必要。READMEによると、既定のベクトル埋め込みは決定論的なハッシュ由来のプレースホルダーで、意味的な検索にはならない。
 - [AgentFlux](entries/agent-framework/davemessew-agentflux.md) — unverified / READMEによるとログイン機能はなく、単一ユーザー向けです。共有または公開アクセスにはアクセス制御層と適切なネットワーク設定が必要です。
 - [Canny](entries/agent-framework/qkal-canny.md) — unverified / 投稿は「Jev repos」の一つとして紹介するが、Canny は TypeSafe 製ではなく qkal 個人のプロジェクトで、Jev は任意の判定器（キー未設定でも決定論的ゲートは動く）。確認できたこと: 実装は実在し src/*.ts 約81KB・test 約97KB、CI（Node 22/24/26 + macOS + smoke + CodeQL）が直近成功、手元で 246 tests passed、Stop の block→allow→replay も実測で再現。確認できなかったこと: star 134 の真正性は API からは検証不能（未確認）。注意すべき事実: 23コミット全てが 2026-09-17〜22 の6日間に1名で入り、以後 48日コミットなし（30日コミット0、contributors は qkal 1名のみ、AI ボット名義のコミットは無く web-flow は GitHub のマージコミッター）。134 stars / 18 forks に対し watchers 0、外部PRは 2026-10-01 と 10-21 から未マージ。README 自身がプロジェクト全体の効果は未測定と明記し、bench も成果差なし（両アーム全通過、25ペアで 1.6±3.4 秒差）。未回答のセキュリティ指摘 issue #26（Jev 判断の乗っ取り JPDH、2026-10-14、コメントなし）が open。既知の実装制限: Windows のパス正規表現（#24）、python3 -m unittest 等の検出漏れ（#27/#28）、シェル経由の書き込み検出は一部記法のみ（find -exec、xargs、python -c 等は不可）。dist/ プリビルト同梱・npm 未配布のため供給網は作者1名に依存。キー設定時は編集差分（4,000字上限）と最終メッセージが TypeSafe に送信される。
-- [creator-generalist](entries/agent-framework/codepawl-creator-generalist.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Axion 1.0](entries/agent-framework/bytedance-axion1_0.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [vouch](entries/agent-framework/vouchdev-vouch.md) — unverified / READMEの説明に基づく機能であり、効果や実行結果は未検証。LLM機能にはANTHROPIC_API_KEYを渡す手順が記載されているが、料金や利用条件は不明。
 - [Spring AI TypeSafe](entries/agent-framework/spring-ai-community-spring-ai-typesafe.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
-- [Nod](entries/agent-framework/n8n-io-nod.md) — low-quality, unverified / READMEに「Status: research preview」と明記されています。 研究プレビューです。対応OSはmacOS 14以降（Apple siliconまたはIntel）とWindows 11プレビュー、利用条件はChatGPT Plus/ProまたはAIキーとREADMEに記載されています。Windowsの正式対応状況や、利用するモデル・プロバイダーごとの費用はこのREADME抜粋から確認できません。
 - [AI Office](entries/agent-framework/engchoon-ai-office.md) — unverified / Windowsでは通知、アプリ外で開始したスタッフへの質問処理、画面キャプチャは未対応。タスク結果の確認にはGit for WindowsとGitHub CLIが必要で、実運用で未検証。Mac版はApple Silicon専用で署名・公証されていない。
 - [X Virality Score](entries/agent-framework/monkeyteamvip-x-virality-score.md) — unverified / ①主張と実測の差: 投稿は「1投稿あたり10万インプレッション」「月500万ビュー」を掲げるが、これは著者の主張で、著者自身が返信で「100K views を保証しない実験的ツール」と訂正している。返信には直近15投稿が2K〜47Kだったという反論と、コミュニティノート相当の指摘（実験的な手動ツール、公開ボードはプレースホルダーの静的デモ）が付いている。②著者の公開ボード data.json（2026-11-08分、2026-11-09 11:05 MSK 更新）では、本人のベスト投稿は21,377 views、当日合計26,146 views、ウォッチリスト29人中7位。少なくともこの日の実績は「10万/投稿」と一致しない。③引用元の X 記事（x.com/i/article/2100215736375373824）はログイン必須で、curl ではログイン画面へリダイレクトされ本文・配布条件を確認できない。④リポジトリ内 ARTICLE.md は「1投稿 約2.08M views」を挙げるが単発の事例で、ツールによる効果の測定ではない。同ファイルに「This is experimental. No big promise.」「Demo / case-study board (this article's example — not yours by default)」と明記がある。⑤返信に添付された画像はインプレッションのスクリーンショットではなく、とんがり帽子で座る男性の風刺イラストだった（vision で確認、数値・UIなし）。インプレッション主張の裏付けにならない。⑥投稿のプロモ動画は UI のアニメーションで、「VIRAL VIEWS 1,052,489」「2.08M views」等は演出上の数値であり実測ではない。実際の画面かと問われた著者も「It's on the experimental stage now」と答えており、動画を実装済みUIの証拠にはできない。⑦コミュニティノートの「公開ボードはプレースホルダーの静的デモ」という記述は、公開ボードが実際に26件のヒット（5,295〜147,225 views）を含む data.json を読むため、そのままは確認できなかった（ノート側の記述が不正確）。ただしページ自体は静的で、事業者が再公開するまで更新されない。⑧料金・提供条件: リポジトリは MIT で無料だが、X の閲覧/API 条件、Grok Bot マーケットプレイスの提供条件・レート制限は未確認。⑨再現性: サンプルは架空データで、pipeline/ は X を呼ばない。実データ取得は利用者の X セッションかボットの読み取りツールに依存し、取得失敗は stale として残る（2026-11-09 11:00 MSK の refresh では19件が stale）。
 - [jevwire](entries/agent-framework/brainwires-jevwire.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
@@ -1982,8 +1982,8 @@
 - [ECC](entries/coding-agent/affaan-m-ecc.md) — unverified / READMEには、実行に必要な具体的な依存関係や環境条件の記載がありません。
 - [Karpathy Guidelines（karpathy-guidelines スキル）](entries/coding-agent/multica-ai-andrej-karpathy-skills.md) — unverified / 効果は未検証：README の定性チェックリスト以外に実測・ベンチマークがなく、効能は著者の主張にとどまる。Karpathy 本人の監修・寄稿はなく、第三者が本人のX投稿（2026-01-26）を4原則に再構成した非公式プロジェクト（旧リビジョンの README には非公式である旨の免責があったが現行 README では削除済み）。ライセンスは LICENSE ファイルがなく API は null（README・SKILL.md・plugin.json は MIT と記載）のため unknown 扱い。2026-04-20 以降コミットがなく stale、open_issues 139 は Issues 無効化（has_issues=false）のため実質 PR。README のインストール手順は forrestchang 名義の URL で、multica-ai へ301リダイレクトする移管前の記述のまま。
 - [Claude Code](entries/coding-agent/anthropics-claude-code.md) — unverified / 投稿のClaude Opus 5.5の使用、2.5D制作工程の一貫実行、完成動画の品質、費用ゼロの主張は未確認。CLIやMCPは公式文書で確認し、動作と効果の独立実測は行っていない。最新リリースと再配布条件の詳細は未確認。90日コミット数の100は集計上限で、100件以上を示す。 GitHub APIでライセンスを確認できていません。
-- [Spec Kit](entries/coding-agent/github-spec-kit.md) — unverified / 公式資料で手順と対応環境を確認した。実行時の挙動、実装品質や手戻りへの効果、各エージェントの利用料金は未検証。最新リリースの表示は確認したが、公開日時の年とタイムゾーンを含む完全な値は未確認。
 - [UI UX Pro Max](entries/coding-agent/nextlevelbuilder-ui-ux-pro-max-skill.md) — unverified / 理由未記入
+- [Spec Kit](entries/coding-agent/github-spec-kit.md) — unverified / 公式資料で手順と対応環境を確認した。実行時の挙動、実装品質や手戻りへの効果、各エージェントの利用料金は未検証。最新リリースの表示は確認したが、公開日時の年とタイムゾーンを含む完全な値は未確認。
 - [Next.js](entries/coding-agent/vercel-next.js.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Orca](entries/coding-agent/stablyai-orca.md) — unverified / ['最新安定版のタグと公開日時は未確認。並列実行時の速度、作業品質、リソース消費、既存契約での利用可否は実機で検証していない。']
 - [Caveman](entries/coding-agent/juliusbrussee-caveman.md) — unverified / 効果数値（入力トークン33.2%減、54%安価、18/18正解、圧縮率など）はリポジトリ自身のベンチマークで自己申告であり、本検証では再実行していない。READMEが引用するAdobe ResearchのarXiv論文とJetBrainsのブログは原典を取得しておらず、第三者検証としては未確認。CLIのインストール・実行も未実施。APIのlicenseはApache-2.0だが、リポジトリにはLICENSE-MITも同梱されており、ファイル単位のライセンス区分は未確認。「Caveman」とロゴは商標。
@@ -2001,96 +2001,96 @@
 - [herdr](entries/coding-agent/herdrdev-herdr.md) — unverified / Apache-2.0。再起動後は保存レイアウトや対応エージェントのセッションを復元できる場合があるが、プロセス継続とは異なる。 実行・品質は未検証。
 - [wshobson/agents](entries/coding-agent/wshobson-agents.md) — unverified / 最新リリース、導入後の動作、ホスト間の機能差、トークン削減量や生成品質への効果は未確認。MITはリポジトリのライセンスで、外部配布項目やホストの利用条件・料金は未確認。90日コミット数は100件以上を示す。
 - [Codewhale](entries/coding-agent/codewhale-hq-codewhale.md) — unverified / ['開発元のデモはスクリプト化したテストモデルを使用。実タスクでの成功率、モデル間の性能差、OS別の動作は未検証。', '既定の編集承認設定は公式文書間で記述が異なるため、利用する版とセッションの権限を確認する。リリースのタイムゾーン付き公開日時は未確認。']
-- [oh-my-pi](entries/coding-agent/can1357-oh-my-pi.md) — unverified / インストール、モデル接続、LSP連携は未実行。開発元が掲載した編集性能の比較値は、測定条件と再現性を未確認。最新リリースのタグと公開日時、各モデル提供元の料金と利用条件は未確認。コミット件数の100は集計上限で、各期間100件以上を示す。
 - [Claude Code Game Studios](entries/coding-agent/donchitos-claude-code-game-studios.md) — unverified / ブラウザ試作とフックは独立実行していない。作者が報告した比較は3企画に限られ、完成した試作品の評価は同等だった。Godot・Unity・Unreal経路と設計文書による掘り下げは、作者の同等の比較評価が未実施。最新リリースのタグと日時は未確認。Claude Codeの利用料金は未確認。
+- [oh-my-pi](entries/coding-agent/can1357-oh-my-pi.md) — unverified / インストール、モデル接続、LSP連携は未実行。開発元が掲載した編集性能の比較値は、測定条件と再現性を未確認。最新リリースのタグと公開日時、各モデル提供元の料金と利用条件は未確認。コミット件数の100は集計上限で、各期間100件以上を示す。
 - [Awesome Agent Skills](entries/coding-agent/voltagent-awesome-agent-skills.md) — unverified / 最新リリースの有無・日時、掲載スキル個別の動作・効果・依存関係・利用条件は未確認。READMEの対応表は掲載元による案内で、互換性の独立検証は行っていない。
 - [Vercel Agent Skills](entries/coding-agent/vercel-labs-agent-skills.md) — unverified / レビュー精度や適用前後の性能差は未実測。GitHubのLatestページでタグは確認したが、年とタイムゾーンを含む公開日時は確認できなかった。READMEはMITと記載しているが、APIの測定値はunknown。エージェント側の料金と導入の実動作は未確認。 GitHub APIでライセンスを確認できていません。
 - [claude-code-templates](entries/coding-agent/davila7-claude-code-templates.md) — unverified / Turn Inspector の描画は Claude Code 2.1.287+ の実機では未実行で、リポジトリ同梱の README・hooks 実装・テストファイルと作者のデモ動画に基づく確認。インストールコマンド自体（npx claude-code-templates@latest --mod ui/turn-inspector）は空ディレクトリで実行し、6ファイルが配置されることを実測した。ブロック別トークン数は概算（約4文字/トークン）で、正確なのはリクエスト単位の入出力合計のみ。mod は v0.1.0 と新しく、GitHub Releases は v1.29.7（2026-10-09）で npm の 1.32.2（2026-11-07）より遅れている。
+- [meta/astryx](entries/coding-agent/meta-astryx.md) — unverified / Beta版。社内13000以上のアプリ使用という説明は配布元の申告で、公開APIの安定性や実機アクセシビリティを本調査で検証していない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [AGENTS.md](entries/coding-agent/agentsmd-agents.md.md) — unverified / 最新リリースのタグと公開日は未確認。エージェントごとの対応バージョン、指示の読み込み順、コマンドの実行挙動は実機で検証していない。効果は引用した研究の評価条件に限られる。
 - [bolt.diy](entries/coding-agent/stackblitz-labs-bolt.diy.md) — unverified / WebContainers APIにはエンタープライズ展開向けの個別の商用ライセンス条件があるとREADMEに記載。
-- [meta/astryx](entries/coding-agent/meta-astryx.md) — unverified / Beta版。社内13000以上のアプリ使用という説明は配布元の申告で、公開APIの安定性や実機アクセシビリティを本調査で検証していない。 当方でインストール・推論・生成・ベンチ再現はしていない。
-- [GSAP AI Skills](entries/coding-agent/greensock-gsap-skills.md) — unverified / スキル導入前後の生成品質、エージェントごとの自動読み込み、生成コードのブラウザ動作は未検証。GitHubの公開リリース一覧に掲載はなく、最新リリースのタグと日時は記載していない。
-- [Claudian](entries/coding-agent/yishentu-claudian.md) — unverified / 一次資料で未確認: 依存関係。
-- [ai-memory](entries/coding-agent/akitaonrails-ai-memory.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係。
-- [pstack（Lauren Tan / poteto）](entries/coding-agent/cursor-plugins.md) — unverified / 【投稿の主張と実体】投稿は『SpaceXAI の Lauren Tan が /loop と /goal を使って80以上の GrokBot エージェントを動かし、85%のエンジニアが10以上を並列運用、Chief of Staff agent が全体を管理』と引用するが、この引用は一次情報で確認できなかった。添付動画（実測 55分47秒 / 1920x1078 / 30fps）を取得し7点のフレームを確認したところ、話者カードは『Lauren Tan / Software engineer | SpaceXAI』で本人の講演だが、内容は trust ladder・検証スキル・pstack・社内フレームワーク Dune の説明で、確認した範囲に『80+ agents』『/loop』『/goal』『Chief of Staff』『85%』は出てこない。同一講演の公開版（@poteto 本人投稿、38:02、『how i shipped 2,500 PRs last month』）の書き起こしにも該当発言はなく、『80%』は別の再アップロードの書き起こしでは『仕事の8割は1ディレクトリに閉じる』という局所性の文脈で出ており、エージェント数の主張とは無関係。同じ講演を再アップロードしたYouTubeチャンネル複数が『20+』『15+』『80+ agents』『85%』『1%』と互いに矛盾する煽り文を説明欄に付けており、投稿の引用はこの種の二次的な煽り文と一致する。よって引用は出典不明（本人発言として未確認）。/loop と /goal は Cursor Agent（および Grok Build）のスラッシュコマンドで、Grok Bot のコマンドではない（pstack README も『cursor's /loop command』と明記）。『85%のエンジニアが10+』は一次情報なし。Lauren Tan の所属自体は本物で、元 Meta（React Compiler）→ Cursor → SpaceXAI の Grok Bot 担当（動画の話者カード、GitHub、本人投稿で一致）。【指標の注意】pstack は cursor/plugins モノレポ内のサブディレクトリで単独リポジトリは存在しない。stars/forks/open_issues は親リポジトリ全体の値（15,813 / 1,653 / 641）。size_kb は pstack 配下の blob 合計 6,295,660 bytes の KB 換算（6,148KB）で、親リポジトリ全体は 18,538KB。commits は path=pstack で絞った実測（30日69、90日99）。親リポジトリ直下にライセンスはないが pstack/LICENSE は MIT。投稿の引用元X記事2件（2091522676426694656 等）は非ログインでログイン画面へリダイレクトされ本文を読めないことを実際に確認しており、内容は推測していない。
 - [Modern Web Guidance](entries/coding-agent/googlechrome-modern-web-guidance.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
+- [GSAP AI Skills](entries/coding-agent/greensock-gsap-skills.md) — unverified / スキル導入前後の生成品質、エージェントごとの自動読み込み、生成コードのブラウザ動作は未検証。GitHubの公開リリース一覧に掲載はなく、最新リリースのタグと日時は記載していない。
+- [pstack（Lauren Tan / poteto）](entries/coding-agent/cursor-plugins.md) — unverified / 【投稿の主張と実体】投稿は『SpaceXAI の Lauren Tan が /loop と /goal を使って80以上の GrokBot エージェントを動かし、85%のエンジニアが10以上を並列運用、Chief of Staff agent が全体を管理』と引用するが、この引用は一次情報で確認できなかった。添付動画（実測 55分47秒 / 1920x1078 / 30fps）を取得し7点のフレームを確認したところ、話者カードは『Lauren Tan / Software engineer | SpaceXAI』で本人の講演だが、内容は trust ladder・検証スキル・pstack・社内フレームワーク Dune の説明で、確認した範囲に『80+ agents』『/loop』『/goal』『Chief of Staff』『85%』は出てこない。同一講演の公開版（@poteto 本人投稿、38:02、『how i shipped 2,500 PRs last month』）の書き起こしにも該当発言はなく、『80%』は別の再アップロードの書き起こしでは『仕事の8割は1ディレクトリに閉じる』という局所性の文脈で出ており、エージェント数の主張とは無関係。同じ講演を再アップロードしたYouTubeチャンネル複数が『20+』『15+』『80+ agents』『85%』『1%』と互いに矛盾する煽り文を説明欄に付けており、投稿の引用はこの種の二次的な煽り文と一致する。よって引用は出典不明（本人発言として未確認）。/loop と /goal は Cursor Agent（および Grok Build）のスラッシュコマンドで、Grok Bot のコマンドではない（pstack README も『cursor's /loop command』と明記）。『85%のエンジニアが10+』は一次情報なし。Lauren Tan の所属自体は本物で、元 Meta（React Compiler）→ Cursor → SpaceXAI の Grok Bot 担当（動画の話者カード、GitHub、本人投稿で一致）。【指標の注意】pstack は cursor/plugins モノレポ内のサブディレクトリで単独リポジトリは存在しない。stars/forks/open_issues は親リポジトリ全体の値（15,813 / 1,653 / 641）。size_kb は pstack 配下の blob 合計 6,295,660 bytes の KB 換算（6,148KB）で、親リポジトリ全体は 18,538KB。commits は path=pstack で絞った実測（30日69、90日99）。親リポジトリ直下にライセンスはないが pstack/LICENSE は MIT。投稿の引用元X記事2件（2091522676426694656 等）は非ログインでログイン画面へリダイレクトされ本文を読めないことを実際に確認しており、内容は推測していない。
+- [ai-memory](entries/coding-agent/akitaonrails-ai-memory.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係。
+- [Claudian](entries/coding-agent/yishentu-claudian.md) — unverified / 一次資料で未確認: 依存関係。
 - [Garden Skills](entries/coding-agent/conardli-garden-skills.md) — unverified / レビューではインストールや生成を実行しておらず、出力品質、知識検索によるコンテキスト削減量、エージェント間の動作差、各スキルの追加依存と外部サービスの料金・素材の利用条件は未確認。GitHubの /releases/latest は motion-showreel v0.1.0 を表示したが、公開一覧には同スキルの v0.2.0 もあるため、リポジトリ全体の最新版と公開日時は記載していない。
 - [Agent Orchestrator](entries/coding-agent/orchestratorinc-agent-orchestrator.md) — unverified / 最新リリースのタグと公開日時、クラウドと外部エージェントの料金は未確認。並列実行の性能、CIやレビュー指摘の差し戻し、モバイル通知と応答は公式文書の記載に基づき、実機では未検証。
+- [improve](entries/coding-agent/shadcn-improve.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [UI Skills](entries/coding-agent/ibelick-ui-skills.md) — unverified / ['create-canvasの動作、生成結果の品質、ブラウザー互換性や性能は未実測。対応フレームワークの範囲と公開MCPの料金・利用上限は未確認。最新リリースのタグはGitHubで確認したが、公開日時の年とタイムゾーンは確認できていない。']
 - [Dashi PPT Skill](entries/coding-agent/chuspeeism-dashi-ppt-skill.md) — unverified / READMEの説明に基づく機能・プラットフォーム情報で、独立した動作確認ではありません。導出PPTXエンジンは専有コンポーネントと説明されています。
-- [improve](entries/coding-agent/shadcn-improve.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Copilot for Obsidian](entries/coding-agent/logancyang-obsidian-copilot.md) — unverified / 利用可能なモデルやサービス上限は変わるため、現在のプランや利用条件はREADME記載の料金ページまたはアプリ内表示で確認が必要。
 - [fast-jev-compaction](entries/coding-agent/tamaratran-fast-jev-compaction.md) — unverified / 【主張と実体の差分】投稿の主張は概ね実装と一致するが、3点ずれる。(1)「Jev が古いと採点」— 実装は『古さ』を直接採点せず、call_<id>（呼び出しを残すべきか）と result_<id>（結果を逐語で残すべきか）の2つの noul 確率を閾値0.5で切るだけ。年齢や使用済みかどうかの特徴量は入力に明示されない。(2)「何も書き換えない／一字一句そのまま」— 保持された項目は同一オブジェクトで返るが、結果だけ不要と判定された場合は先頭300文字＋注記に切り詰められる（削除ではなく改変）。Jev に送る state も 25k トークンに収めるため段階的に省略される。(3)「npm ライブラリとしても使える」— npm の fast-jev-compaction は latest 0.4.1 を 2026-09-24 に maintainer aleksvega が公開した第三者フォークで、README に『Fork of tamaratran/fast-jev-compaction』と明記され、jev-compact / jev-gate など別 CLI を含む。リポジトリ側 package.json は 0.2.0、plugin.json は 0.3.0 で、このリポジトリのコードがそのまま npm 名で配布されているわけではない。【実績の不自然さ】stars 7,917 / forks 581 / open issues 125 に対し、コミットは全30件が 2026-09-17〜18 の2日間のみ、直近30日は0件、リポジトリは34ファイル・245KB。contributors に devin-ai-integration[bot] が入り、主要コミットは Devin AI 共著。数字の大きさと開発量・更新停止が釣り合わず、star の真正性は未確認（不正と断定はできない）。【有効性】作者による削減率・精度のベンチマークは未公開（issue #160 が benchmarks を求めて起票、回答なし）。第三者の計測（issue #154）は AUC 0.70〜0.83 で順位は安定するが、fitState() の段階で絶対スコアが 0.25〜0.80 に動き、固定閾値0.5だと全保持（実質無効）や過剰削除になりうると報告。issue #65 は『narration は残り根拠が消える』過剰削除を報告。【デモ】投稿の14秒動画を取得しフレームを確認したところ、GitHub の README をスクロールする画面で、API を叩いた実行記録ではなかった。リポジトリ同梱の SwiftUI デモも README に『It never calls the API; it exists to be screen recorded.』と明記され、演出用。【依存・権利】MIT（LICENSE は Copyright (c) 2025）。TypeSafe の有料 API が必須で、無料枠や無償トークンは未確認。Claude Code の function hooks は早期アクセスで仕様変更リスクあり（hooks/README.md 自身が明記）。issue #151 / #153 では Team 組織や SDK・ヘッドレス環境で session.compact が使えない報告があり、環境により動作しない可能性。【未確認】作者自身の効果測定、star の真正性、TypeSafe の無料枠、Claude Code 2.1.274 以外での動作。
-- [ZSeven-W/openpencil](entries/coding-agent/zseven-w-openpencil.md) — unverified / 「普通模式」という機能名は原チェックで裏付けなし。宣伝動画制作に使ったRenoise MCPは外部有料サービスで本体の無料機能ではない。 当方でインストール・推論・生成・ベンチ再現はしていない。
+- [billion-context](entries/coding-agent/ranxianglei-billion-context.md) — unverified / ライセンスはMIT本文に加え、利用者が触れる製品・サービスのページや文書等への目立つ出典表示義務がある独自条件。純粋なMITと同一ではない。性能は作者報告で独立検証していない。 実行・品質は未検証。
 - [Coucou](entries/coding-agent/louis-cfm-coucou.md) — unverified / ['公開資料による確認。通知の到達や遅延、端末移動、Face ID承認は実機未検証。CodexでClaude Codeと同じ承認操作ができるか、およびTestFlightの参加可否は未確認。']
+- [ZSeven-W/openpencil](entries/coding-agent/zseven-w-openpencil.md) — unverified / 「普通模式」という機能名は原チェックで裏付けなし。宣伝動画制作に使ったRenoise MCPは外部有料サービスで本体の無料機能ではない。 当方でインストール・推論・生成・ベンチ再現はしていない。
+- [TokenEconomizer](entries/coding-agent/microsoft-tokeneconomizer.md) — unverified / 最新リリースの公開日時は未確認。導入と動作は実機で再現しておらず、掲載の削減率は著者のベンチマークに限られる。別のリポジトリやモデルでの効果は未確認。
 - [The Instagram agent skill](entries/coding-agent/jakeschincariol-instagram-agent-skill.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係。
 - [Skill Recorder](entries/coding-agent/microsoft-skill-recorder.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
-- [billion-context](entries/coding-agent/ranxianglei-billion-context.md) — unverified / ライセンスはMIT本文に加え、利用者が触れる製品・サービスのページや文書等への目立つ出典表示義務がある独自条件。純粋なMITと同一ではない。性能は作者報告で独立検証していない。 実行・品質は未検証。
-- [TokenEconomizer](entries/coding-agent/microsoft-tokeneconomizer.md) — unverified / 最新リリースの公開日時は未確認。導入と動作は実機で再現しておらず、掲載の削減率は著者のベンチマークに限られる。別のリポジトリやモデルでの効果は未確認。
 - [Obsidian Mind](entries/coding-agent/breferrari-obsidian-mind.md) — unverified / READMEの例は作者による記載。振り分けの精度、検索品質、クライアント間の機能差、音声入力の動作は独立に検証していない。
 - [obsidian-second-brain](entries/coding-agent/eugeniughelbur-obsidian-second-brain.md) — unverified / README に基づく文書確認。最新版リリース、実環境での導入・各 CLI の動作、検索精度、外部サービスの料金は未確認。
 - [chinese-novelist skill](entries/coding-agent/penglonghuang-chinese-novelist-skill.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [obsidianmd/obsidian-sample-plugin](entries/coding-agent/obsidianmd-obsidian-sample-plugin.md) — unverified / 0BSDは雛形の条件で、組み込む他のコードやObsidian本体の条件は別。ビルド・プラグイン起動は未確認。 当方でインストール・推論・生成・ベンチ再現はしていない。
-- [Drama Skills](entries/coding-agent/zenstory-ai-drama-skills.md) — unverified / README記載の「视频生成成本约40元」は作者によるサンプルの説明で、一般的な費用を示すものではありません。実際の費用は記載されていません。
 - [pstack-claude](entries/coding-agent/michael-denyer-pstack-claude.md) — unverified / 投稿の media は対象と無関係な日本語ニュース系の転載（静止画は著名人のポートレートで、リポジトリやAIツールの内容を含まない）。動画 mp4 は vision で内容を確認できないため評価に使っていない。effectiveness は README の記述＝作者の主張で、第三者による効果測定は公開されていない。Codex / Copilot / Pi などの対応は各ランタイム向けマッピングと synthetic provider のスモークテストに基づく自己申告で、実モデルの遵守は一部しか確認されていないと docs/reference.md に注記がある。
+- [Drama Skills](entries/coding-agent/zenstory-ai-drama-skills.md) — unverified / README記載の「视频生成成本约40元」は作者によるサンプルの説明で、一般的な費用を示すものではありません。実際の費用は記載されていません。
 - [Three.js Skills for Claude Code](entries/coding-agent/cloudai-x-threejs-skills.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
-- [Scenario Agent Skills](entries/coding-agent/scenario-labs-skills.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [tstack](entries/coding-agent/t3dotgg-tstack.md) — unverified / 各スキルの実行結果、Claude CodeとCodex間の挙動差、レビュー品質や作業時間への効果は未検証。GitHubの公開Releases一覧には掲載なし。
+- [Scenario Agent Skills](entries/coding-agent/scenario-labs-skills.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Beacon](entries/coding-agent/asymptote-labs-agent-beacon.md) — unverified / 最新版のタグ・公開日時、投稿にある beacon handoff resume の具体的な挙動、エージェント間の再利用による時間短縮や成功率、Beacon Cloudの料金は未確認。対話セットアップではBeacon Cloudが事前選択され、確定すると収集した履歴の転送が始まる。
 - [nanoMuse — 自分のデバイスで動くオープンソースパーソナルエージェント](entries/coding-agent/nano-muse-nanomuse.md) — unverified / Meta Platformsとは無関係の独立コミュニティプロジェクト。MuseはMetaの商標。中国大陸の携帯番号登録が必要な場合がある。デスクトップ版は未公証・未署名。当方未インストール。 当方でインストール・動作・性能の実行検証はしていない。
-- [Jevgrep](entries/coding-agent/dzhng-jevgrep.md) — unverified / CLIは実行していない。作者の費用比較を独立に再現しておらず、他のリポジトリへの一般化、速度改善、各プロバイダーの現行料金、GitHubリリースの完全な公開日時は未確認。
 - [Oil UI](entries/coding-agent/oil-oil-oil-ui.md) — unverified / README記載の機能説明は作者による説明で、効果は独立検証されていない。Proの価格として一括払い9.99ドルと記載があるが、現在の価格・購入条件は未確認。
 - [yomiyasu（よみやす）](entries/coding-agent/nanaism-yomiyasu.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
+- [Jevgrep](entries/coding-agent/dzhng-jevgrep.md) — unverified / CLIは実行していない。作者の費用比較を独立に再現しておらず、他のリポジトリへの一般化、速度改善、各プロバイダーの現行料金、GitHubリリースの完全な公開日時は未確認。
 - [DS Harness Remote](entries/coding-agent/liguobao-ds-harness-remote.md) — unverified / アカウント登録には招待コードが必要とREADMEに記載。招待コードの入手条件、利用料金は資料から確認できない。
-- [Better Harness](entries/coding-agent/qoderai-better-harness.md) — unverified / 公開文書で仕様を確認した。実行時の動作、ホスト間の互換性、導入前後の改善効果、最新リリースのタグと公開日は未確認。MITはリポジトリのライセンスで、ホストの利用条件・料金は未確認。
-- [Rainman Translate Book](entries/coding-agent/deusyu-translate-book.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
-- [ppmpreetham/BUI](entries/coding-agent/ppmpreetham-bui.md) — unverified / 即時モードではなく一つのノードツリーを保持する方式。IME・スクリーンリーダー未対応。GPL-3.0-or-laterで組込み配布の条件に注意。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [reacher-z/Awesome-REA](entries/coding-agent/reacher-z-awesome-rea.md) — unverified / indexed repos3309は自動収集で未レビュー。数の多さや公開索引を各項目の安全性・有用性の保証としない。 当方でインストール・推論・生成・ベンチ再現はしていない。
+- [ppmpreetham/BUI](entries/coding-agent/ppmpreetham-bui.md) — unverified / 即時モードではなく一つのノードツリーを保持する方式。IME・スクリーンリーダー未対応。GPL-3.0-or-laterで組込み配布の条件に注意。 当方でインストール・推論・生成・ベンチ再現はしていない。
+- [Better Harness](entries/coding-agent/qoderai-better-harness.md) — unverified / 公開文書で仕様を確認した。実行時の動作、ホスト間の互換性、導入前後の改善効果、最新リリースのタグと公開日は未確認。MITはリポジトリのライセンスで、ホストの利用条件・料金は未確認。
 - [Awesome Short Drama Skills](entries/coding-agent/underleveledbuilder-awesome-short-drama-skills.md) — unverified / 掲載スキルの効果はREADME記載の評価範囲に限られる。評価はclaude-opus-5-5のみで、各ラウンドに題材や評価者間の不一致などの制約がある。スキルによってはスクリプトを含む場合があるため、導入前にSKILL.mdを確認するようREADMEが案内している。
+- [Rainman Translate Book](entries/coding-agent/deusyu-translate-book.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [MotionSites Web Builder](entries/coding-agent/motionsites-ai-claude-skill.md) — unverified / ['作者のREADMEで手順を確認した。導入、スクリーンショットによる修正ループ、生成品質、外部配信素材の到達性は実測していない。', 'GitHubの公開ページで最新タグを確認した。公開日時の年とタイムゾーンは取得できなかった。'] GitHub APIでライセンスを確認できていません。
 - [zlib](entries/coding-agent/heartleo-zlib.md) — unverified / 利用にはZ-Libraryアカウントが必要とREADMEに記載されています。利用可能なドメインやダウンロード条件の詳細はREADME本文では確認できません。
 - [BAMA: Build Any Mac App](entries/coding-agent/daveebbelaar-bama.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [reanimate](entries/coding-agent/niazmorshed2007-reanimate.md) — unverified / Windows is untested. The README says the skill has only been tested with Claude Code, though other agents that read SKILL.md can install it.
 - [PHP Version Checker](entries/coding-agent/openai-php2shell-checker.md) — unverified / READMEとスキル文書を確認した。コードは実行しておらず、実環境での判定結果、Node.jsの最低対応バージョン、各ベンダーの修正情報との照合は未検証。公開Releasesページにはリリースの掲載がなく、最新リリースAPIは未確認。
-- [EvoSkill](entries/coding-agent/sentient-agi-evoskill.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Claude Code Frontend Design Toolkit](entries/coding-agent/wilwaldon-claude-code-frontend-design-toolkit.md) — unverified / UI品質の改善効果、掲載ツールの現行バージョンでの動作、個別の料金・ライセンス条件は未検証。READMEにはMITと記載されるが、親工程のGitHub API測定ではライセンスがunknownのため、その値を維持した。 GitHub APIでライセンスを確認できていません。
+- [EvoSkill](entries/coding-agent/sentient-agi-evoskill.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Claude Remotion Skill](entries/coding-agent/haidrrrry-claude-remotion-skill.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Second Brain Starter](entries/coding-agent/coleam00-second-brain-starter.md) — unverified / スキルは未実行。生成PRDの品質、連携先ごとの動作、対応バージョン、運用費用、ライセンス条件は未確認。GitHubの公開リリース一覧の取得結果にはリリースが表示されず、最新リリースへの直接アクセスはタイムアウトした。READMEは公開raw URLおよびGitHubの表示から確認した。 GitHub APIでライセンスを確認できていません。
 - [公文 Skills · dyz-gongwen-skills](entries/coding-agent/duyunzhoudyz-dyz-gongwen-skills.md) — unverified / GitHub APIのlicense値はunknownですが、READMEのバッジはPolyForm NC 1.0を示しています。ライセンス本文の条件はこの資料では確認できません。 GitHub APIでライセンスを確認できていません。
-- [yuwen-publish-precheck｜发布前审](entries/coding-agent/yuwen-cool-yuwen-publish-precheck.md) — unverified / 検出精度やプラットフォームでの審査結果に関する説明はREADME内の作者の記述・例であり、独立した検証結果ではない。README自身も審査通過を保証せず、最終判断はプラットフォーム側に依存するとしている。
 - [claude-motion-design](entries/coding-agent/howseen-ai-claude-motion-design.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
+- [yuwen-publish-precheck｜发布前审](entries/coding-agent/yuwen-cool-yuwen-publish-precheck.md) — unverified / 検出精度やプラットフォームでの審査結果に関する説明はREADME内の作者の記述・例であり、独立した検証結果ではない。README自身も審査通過を保証せず、最終判断はプラットフォーム側に依存するとしている。
 - [Second Brain](entries/coding-agent/nicholasspisak-second-brain.md) — unverified / READMEに記載された機能と手順に基づく。個別の効果、利用条件、費用は確認できていない。 GitHub APIでライセンスを確認できていません。
 - [MCode Stack](entries/coding-agent/minimax-ai-mcode-stack.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Common Skills](entries/coding-agent/warpdotdev-common-skills.md) — unverified / 評価精度、レビュー時間の短縮効果、導入コマンドの実動作、ホスト環境ごとの互換性、最新リリースは未確認。
 - [Motion Graphics Skill Pack](entries/coding-agent/charlie947-motion-graphics-skills.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
-- [min-skill](entries/coding-agent/limin112-min-skill.md) — unverified / 各Skill・ツールの詳細な依存関係や実行条件は、それぞれのディレクトリにあるREADMEで確認が必要。 GitHub APIでライセンスを確認できていません。
-- [devvm](entries/coding-agent/devvmhq-devvm.md) — unverified / READMEではApple silicon Macとarm64/x86_64のLinuxでテスト済みとし、Intel Macでは未テストとしている。
 - [Machine Skill](entries/coding-agent/airsuphq-machine-skill.md) — unverified / README記載の機能や数値はリポジトリの説明に基づき、独立検証していない。生成結果の精度や動作条件は未確認。
-- [Diorama](entries/coding-agent/sloemo01-diorama.md) — unverified / 一次資料で未確認: 有効性・実行条件。
-- [DSH Game Studio](entries/coding-agent/zseven-w-dsh-game-studio.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
-- [qiaomu-seo](entries/coding-agent/joeseesun-qiaomu-seo.md) — unverified / 一次資料で未確認: 技術背景・有効性。
+- [devvm](entries/coding-agent/devvmhq-devvm.md) — unverified / READMEではApple silicon Macとarm64/x86_64のLinuxでテスト済みとし、Intel Macでは未テストとしている。
+- [min-skill](entries/coding-agent/limin112-min-skill.md) — unverified / 各Skill・ツールの詳細な依存関係や実行条件は、それぞれのディレクトリにあるREADMEで確認が必要。 GitHub APIでライセンスを確認できていません。
+- [Cinematic Skill](entries/coding-agent/moh4696-cinematic-skill.md) — unverified / 無料の下書き音声としてmacOSのsayまたはespeak-ngを使用し、最終音声は任意のTTSまたは録音音声と記載。Wikimedia Commonsから素材を取得する手順がある。最終音声サービスの料金・利用条件はREADMEに記載なし。
 - [Product Engineering](entries/coding-agent/phuryn-product-engineering.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
-- [SeeCut](entries/coding-agent/yeje-cpu-seecut.md) — unverified / README says the workflow has only been tested on macOS. The author reports Claude Code tested and other skill-capable agents theoretically compatible; those other agents are not independently verified here. An Antigravity CLI account and sufficient usage quota are required for video review and self-iteration. GitHub APIでライセンスを確認できていません。
+- [DSH Game Studio](entries/coding-agent/zseven-w-dsh-game-studio.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
+- [Diorama](entries/coding-agent/sloemo01-diorama.md) — unverified / 一次資料で未確認: 有効性・実行条件。
+- [Agent HUD](entries/coding-agent/jazzenchen-agent-hud-open.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
+- [qiaomu-seo](entries/coding-agent/joeseesun-qiaomu-seo.md) — unverified / 一次資料で未確認: 技術背景・有効性。
 - [simcraft](entries/coding-agent/dotslashsimran-simcraft.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
+- [SeeCut](entries/coding-agent/yeje-cpu-seecut.md) — unverified / README says the workflow has only been tested on macOS. The author reports Claude Code tested and other skill-capable agents theoretically compatible; those other agents are not independently verified here. An Antigravity CLI account and sufficient usage quota are required for video review and self-iteration. GitHub APIでライセンスを確認できていません。
 - [OnlyShot](entries/coding-agent/a-cat-with-carrots-onlyshot.md) — unverified / README記載の积分・費用は作者による2026-05時点の実測報告であり、独立実測ではない。
 - [Typefree](entries/coding-agent/kdsz001-typefree.md) — unverified / GitHub APIでライセンスを確認できていません。
 - [Video Studio Skill](entries/coding-agent/aaitor-skill-video-studio.md) — unverified / 全工程の実行にはローカルのツール環境が必要。README記載の本番要件はNode.js 22以上、FFmpeg/ffprobe、Chromiumおよび補助ツール固有のPython依存関係。ナレーションやアバターには追加サービスまたはGPU環境が必要。効果や費用は確認できない。
-- [Cinematic Skill](entries/coding-agent/moh4696-cinematic-skill.md) — unverified / 無料の下書き音声としてmacOSのsayまたはespeak-ngを使用し、最終音声は任意のTTSまたは録音音声と記載。Wikimedia Commonsから素材を取得する手順がある。最終音声サービスの料金・利用条件はREADMEに記載なし。
-- [Agent HUD](entries/coding-agent/jazzenchen-agent-hud-open.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
+- [sakurai-skill](entries/coding-agent/kociden-sakurai-skill.md) — low-quality, unverified / READMEによると、内容は動画の自動字幕をAIが要約したもので、聞き取り誤りが残る可能性があります。 リポジトリのライセンスは不明です。READMEは、要約が自動字幕に基づき聞き取り誤りが残る可能性を明記しています。 GitHub APIでライセンスを確認できていません。
 - [xAI Plugin Marketplace](entries/coding-agent/xai-org-plugin-marketplace.md) — unverified / ['最新リリースのタグと公開日は未確認。プラグインの導入・実行、個別機能の有効性や安全性、料金、ライセンスおよび利用条件は未検証。README は公開 raw URL で確認した。'] GitHub APIでライセンスを確認できていません。
 - [P&ID to Knowledge Graph](entries/coding-agent/scottduncanai-pid-to-knowledge-graph.md) — unverified / Python 3.13以降ではOCRによる照合と自動ページ方向調整が利用できない。抽出品質は図面の判読性に依存し、制御説明文や原因・結果分析にのみあるロジックは抽出対象外とREADMEに記載されている。
-- [sakurai-skill](entries/coding-agent/kociden-sakurai-skill.md) — low-quality, unverified / READMEによると、内容は動画の自動字幕をAIが要約したもので、聞き取り誤りが残る可能性があります。 リポジトリのライセンスは不明です。READMEは、要約が自動字幕に基づき聞き取り誤りが残る可能性を明記しています。 GitHub APIでライセンスを確認できていません。
-- [Motion.dev Animations Skill](entries/coding-agent/199-biotechnologies-motion-dev-animations-skill.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [AI Second Brain](entries/coding-agent/charlie947-ai-second-brain.md) — unverified / README記載の機能・動作条件は独立検証していない。ChatGPTのエクスポートには1〜3日の待ち時間がかかる場合があると記載。
 - [Motion Design Skills](entries/coding-agent/iart-ai-motion-design-skills.md) — unverified / 個々のスキルの依存関係や必要な実行環境はREADMEに記載されていません。
+- [Motion.dev Animations Skill](entries/coding-agent/199-biotechnologies-motion-dev-animations-skill.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [open-source-hands](entries/coding-agent/abouchedidxcode-open-source-hands.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Dual-Brain — 設計とコードの二視点レビュー用スキル](entries/coding-agent/sleeplesshan-dual-brain.md) — unverified / MIT。投稿のMS関連社内ハッカソンでAI審査員から満点という説明は作者の自己申告で、公式採点記録・Microsoftの推薦や認証を確認したものではない。READMEは旧5事例ベンチの比較条件・トークン二重計上に問題があり旧総数を撤回と明記。普遍的な性能改善や低遅延は保証しない。 当方でインストール・動作・性能の実行検証はしていない。
 - [quicksilver](entries/coding-agent/uditakhourii-quicksilver.md) — unverified / 効果数値は作者自身の12タスク・ベンチマーク（bench/）による自己申告で、第三者による追試や自動テストは無い。bench の再実行には有料の Jev API キーが必要。対象ファイル/ログの内容は TypeSafe の API（api.typesafe.ai）へ送信されるため機密情報には使えない（.env・鍵・証明書・credentials、2MB 超、バイナリはスキップし .gitignore を尊重すると README に記載）。2026-09-25 の初回コミット2件以降の更新が無く、メンテ状況は不明。
 - [Flecha](entries/coding-agent/lucianodiisouza-flecha-browser.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [astro-conversion-kit](entries/coding-agent/ethanplusai-astro-conversion-kit.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
+- [Motion AI Kit](entries/coding-agent/motiondivision-ai-kit.md) — unverified / MotionScore監査、Motion+資料およびソースコードへのアクセスはMotion+会員向け。READMEは料金額を示していない。 GitHub APIでライセンスを確認できていません。
 - [Awesome Motion Design Agent Skills](entries/coding-agent/frankxai-awesome-motion-design-agent-skills.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Xing4.0-29B-A4B](entries/coding-agent/xingchen-agi-xing4.0-29b-a4b.md) — unverified / READMEから最低限必要なハードウェア構成、依存パッケージのバージョン、利用料金は確認できない。評価値はREADME記載の作者側の報告で、独立実測ではない。
-- [Motion AI Kit](entries/coding-agent/motiondivision-ai-kit.md) — unverified / MotionScore監査、Motion+資料およびソースコードへのアクセスはMotion+会員向け。READMEは料金額を示していない。 GitHub APIでライセンスを確認できていません。
 - [Klik Motion-Graphics System](entries/coding-agent/t3knobox-klik-anim-skill-creation.md) — unverified / ライセンスはGitHub API上で不明。利用許諾の条件は確認できていない。 GitHub APIでライセンスを確認できていません。
 - [jev-code](entries/coding-agent/francoischastel-jev-code.md) — unverified / 分類結果の品質・較正性能はこのREADMEでは独立検証されていない。利用にはNode.js 20以上と、選択したホストのAPIキーが必要。ホストごとの料金や費用はREADMEに記載なし。
 - [Flow Preview](entries/coding-agent/tanishqkancharla-flow-preview.md) — unverified / README記載の要件はNode.js 24以降、npm、および生成されたプレビューの依存関係をインストールするためのレジストリアクセス。個別プロジェクトでの適合性や動作結果は未確認。
@@ -2102,8 +2102,8 @@
 - [Cracked Engineer](entries/coding-agent/codejunkie99-cracked-engineer.md) — unverified / GitHub APIでライセンスを確認できていません。
 - [GDG Agent Skillsの実演教材](entries/coding-agent/gdg-oau-agent-skills-gdg.md) — unverified / 実行未検証。READMEが案内するafterブランチとライセンスを確認できない。
 - [JobFit](entries/coding-agent/du8866-nice-jobfit.md) — unverified / 実モデル利用時は履歴書が選択したAIプロバイダーに送信される。READMEにはプロバイダーへの送信をページ上で案内するとあるが、実際の公開デモでの設定やデータ処理は確認していない。
-- [ApiiroによるClaude Code settings.local.json資格情報漏洩調査](articles/2026-11-09-https-x.com-yoppy0123-status-2119219945179603110.md) — unverified / global gitignore追加だけでは既追跡や後からrepo化したケースを守れない。漏洩時は履歴削除だけでなくまず鍵を失効・ローテーション。実資格情報は転載しない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Berth](entries/coding-agent/maxzyma-berth.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
+- [ApiiroによるClaude Code settings.local.json資格情報漏洩調査](articles/2026-11-09-https-x.com-yoppy0123-status-2119219945179603110.md) — unverified / global gitignore追加だけでは既追跡や後からrepo化したケースを守れない。漏洩時は履歴削除だけでなくまず鍵を失効・ローテーション。実資格情報は転載しない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [ChrisHKAI-Video](entries/coding-agent/authrain-cloud-abdullahformuli-chrishkai-video.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Claude Code](links/coding-agent/claude.com-claude-code.md) — unverified / Claude Code は汎用コーディングエージェントで、CGI/動画専用の機能はない。投稿のスタックではブリーフ→ショットリスト/カメラワークの文章生成と、MCP 経由の Blender 操作指示を担うが、モデリング・ライティング・レンダーは Blender、編集は HyperFrames/FFmpeg 側。『全部 Claude Code がやる』は不正確。投稿の15秒動画は 1440x1800（4:5）・30fps・15.03秒の1フォーマットで、画面内に『INVOICE · EXAMPLE』『ILLUSTRATIVE BUILD LOG』『FICTIONAL BRAND · RENDERED IN BLENDER』と明記された UI モックアップ。請求例はアニメーションで増える『EXAMPLE』で、終盤は $300 + $600 + $400 + $400 + $300 = $2,000。実在の請求ではなく、$1,500–5,000 の市場価格は未検証。DELIVERY GATE は 0/6 から終盤 6/6 になるが、それは UI のチェックで、実ファイルは 4:5 の1フォーマットのみ。16:9/9:16/1:1 の実ファイルは確認できない。『4 shots』は UI のショットリスト、『3 formats』は UI 表示で、納品物の実体は未確認。`/cgi-ad-studio` の配布物（skill/リポジトリ/プロンプト）へのリンクは投稿になく、.blend も生成スクリプトも公開されていない。引用 X 記事はログイン要求で本文未確認。15秒・4カメラ・3フォーマットの納品実績は未検証。『no 3D artist / no studio』は投稿の主張、『one operator』は UI のコピーで、実際の制作体制は確認できない。返信の supervoid_si も『ブランドはレンダーではなく光・カメラ・ビートの判断に払う』と指摘している。
 - [Claude Code Skills 機能](links/coding-agent/code.claude.com-claude-code-skills.md) — unverified / 投稿の主要な主張は一次情報で確認できた：`.claude/skills/<skill-name>/SKILL.md` と `~/.claude/skills/<skill-name>/SKILL.md` の配置、description が常時コンテキストに載り本文は起動時に読み込まれる点、`allowed-tools`／`context: fork`／`paths` の実在、description+when_to_use の 1,536 文字上限、SKILL.md を 500 行未満に保つ指示、scripts 配下が「executed, not loaded」である点。一方で次の差がある。(1) 「Anthropic just shared one of the best tricks」とあるが新公開の裏技ではなく以前から文書化された標準機能（ページ最終更新 2026-11-04）。(2) `allowed-tools` の許可はそのスキルを起動したターン限りで、次のメッセージを送ると失効する。(3) スクリプトのファイル自体は読まれないが、インライン shell 展開の実行結果はスキル本文に注入されコンテキストに入るため、コンテキスト消費がゼロになるわけではない。(4) `context: fork` は会話履歴を引き継がないが、CLAUDE.md はエージェントの起動コンテキストとして読み込まれる（Explore／Plan エージェントは除く）。(5) 投稿が繰り返す「JEV」「JEV engineering」「routes micro-forks in milliseconds」は一次情報に記載がなく、スキル機能とは無関係の宣伝とみられる（未確認）。(6) 添付は動画1本のみで静止画はなく、動画フレームの書き起こしは行っていない。上記の各主張は動画ではなく一次情報の本文と突き合わせて個別に判定した。
@@ -2119,8 +2119,8 @@
 - [grok-x](entries/coding-agent/stat-guy-grok-x.md) — unverified / READMEはGrok-nativeとClaude Codeの両方を記載していますが、利用できる機能は実行環境や指定ツールに依存します。 GitHub APIでライセンスを確認できていません。
 - [promptfoo](entries/eval/promptfoo-promptfoo.md) — unverified / 有効性の数値（README の「10M+ users」等）はベンダー自己申告で、独立検証や本環境での再現はしていない。導入・eval・redteam の実行も未実施。Community の red teaming は月10k probes 上限で、SonarQube 出力・チーム共有・カスタムプラグイン・RBAC/SSO・監視は Enterprise 限定（公開価格なし、Custom 見積り）。LLM 採点の assertion は確率的で、しきい値・grader・--repeat の調整が必要。red team の検出結果は誤検知を含む前提で人間が triage する必要がある。README は OpenAI 傘下であることを明記しており、今後のライセンスや提供形態の変更リスクは残る。redteam は有害出力を誘発しうるため、管理下のアプリ以外には使わない。
 - [garak (Generative AI Red-teaming and Assessment Kit)](entries/eval/nvidia-garak.md) — unverified / 検出精度・誤検知率の定量値は一次情報に記載がなく未検証。判定はキーワードまたは分類器ベースの検出器に依存し、スコアは正規化されていないためプローブ間の比較はできない。プローブの網羅性は保証されず、ペネトレーションテストの代替にはならない。実行は許可された対象に限る。
-- [PyRIT (Python Risk Identification Tool for generative AI)](entries/eval/microsoft-pyrit.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Goochbeater/Spiritual-Spell-Red-Teaming](entries/eval/goochbeater-spiritual-spell-red-teaming.md) — unverified, prompt-injection / 脱獄・社会工学・安全制約回避を含む。指示の実行、危険なプロンプトや露骨な本文の転載は行わない。抽出物の真正性と利用権も未確認。 当方でインストール・推論・生成・ベンチ再現はしていない。
+- [PyRIT (Python Risk Identification Tool for generative AI)](entries/eval/microsoft-pyrit.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [EasyJailbreak](entries/eval/easyjailbreak-easyjailbreak.md) — malicious, unverified / README explicitly describes generating adversarial jailbreak prompts and using them to attack a target model. This capability can facilitate bypassing model safeguards. 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Jailbreaking Black Box Large Language Models in Twenty Queries (PAIR)](entries/eval/patrickrchao-jailbreakingllms.md) — malicious, unverified / READMEは、攻撃者LLMが対象LLMへ反復問い合わせして安全ガードレールを回避するプロンプトを生成すると説明し、例としてコンピューターへの侵入方法を要求する目標を掲載しています。安全性評価の研究用途として登録しますが、悪用可能な内容です。 APIキーとWandBアカウントが必要です。READMEに記載されたモデル選択肢や実行手順が現在も利用可能かは確認していません。
 - [jev-calibrate](entries/eval/smkrv-jev-calibrate.md) — unverified / ['精度は著者が公開した同梱例の結果。独立した実行検証や、別データ・モデル版・プロバイダーでの再現性確認は行っていない。', '現在のAPI料金・データ保持条件と、最新リリースの年・タイムゾーンを含む公開日時は未確認。']
@@ -2156,10 +2156,10 @@
 - [GIF 工厂](entries/image-gen/woyun520-gif-factory.md) — unverified / 具体生成所用模型、依赖、运行条件、费用及完整最短操作步骤未能从所附 README 确认。
 - [ComfyArt](entries/image-gen/jtydhr88-comfyart.md) — unverified / 一部の生成ワークフローが必要とするモデルやカスタムノードのローカル環境への導入条件は、READMEだけでは全て確認できない。Comfy Cloud APIキーには有料Comfyプランが必要と記載されている。
 - [ray-sticker-shop](entries/image-gen/imraywang-ray-sticker-shop.md) — unverified / README указывает ориентировочную стоимость около $0.7 для 8 стикеров и 5 дополнительных материалов по официальным тарифам OpenAI; фактическая стоимость зависит от повторной генерации. Прохождение модерации и доход не гарантируются.
+- [MiniMax-H3-Image](entries/image-gen/minimax-ai-minimax-h3-image.md) — unverified / READMEはライセンスを示すバッジとLICENSEへのリンクを掲載していますが、ライセンス名や利用条件は確認できません。 GitHub APIでライセンスを確認できていません。
 - [gifenc](entries/image-gen/mattdesl-gifenc.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Anima Reference Adapter for ComfyUI](entries/image-gen/arcanima-comfyui-anima-ref-adapter.md) — unverified / アダプターの重みはCircleStone Non-Commercialライセンス。READMEではコードのライセンスをApache-2.0としている。
 - [Tost AI - Sprite Sheet Studio](entries/image-gen/camenduru-tostai-sprite-sheet-studio.md) — unverified / APIでライセンスがunknown。VRMBG-3.0はゲート付きで、モデル取得にHF_TOKENが必要。Docker実行にはNVIDIA GPU（最低4GB VRAM）が必要とREADMEに記載されている。 GitHub APIでライセンスを確認できていません。
-- [MiniMax-H3-Image](entries/image-gen/minimax-ai-minimax-h3-image.md) — unverified / READMEはライセンスを示すバッジとLICENSEへのリンクを掲載していますが、ライセンス名や利用条件は確認できません。 GitHub APIでライセンスを確認できていません。
 - [Lyricccco/tailsteer](entries/image-gen/lyricccco-tailsteer.md) — unverified / 主な保持定量評価は10ターン。編集精度RISEが低下した値も公開され、保持と指示追従の両方が一律に向上したわけではない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [rhinoc/xprite-lighter](entries/image-gen/rhinoc-xprite-lighter.md) — unverified / MIT表記を原チェックで確認。派生版のAPI互換性・現行版と同じ処理品質は未試験。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [sepiablue-ai/ComfyUI-PH3-Manga](entries/image-gen/sepiablue-ai-comfyui-ph3-manga.md) — unverified / RTX4070で1ページ90秒はREADMEに根拠が見つからない投稿者申告。ノードMITとP-H3重みの独自条件は別。生成・写植は未試験。 当方でインストール・推論・生成・ベンチ再現はしていない。
@@ -2249,9 +2249,9 @@
 - [changedetection.io](entries/mcp-server/dgtlmoon-changedetection.io.md) — unverified / 公開資料の記載を確認した。最新リリースの公開日時は年とタイムゾーンまで確認できていない。監視の検出精度・通知遅延、MCP接続の実動作、発見投稿のGrok Botとの連携は未検証。
 - [OpenSEO](entries/mcp-server/every-app-open-seo.md) — unverified / MCP接続とセルフホストは公式手順の確認まで。検索データの精度、他製品との比較、最新リリース、Cloudflare無料枠での稼働は未確認。
 - [Pascal Editor](entries/mcp-server/pascalorg-editor.md) — unverified / 一次資料で未確認: 有効性・依存関係・実行条件。
-- [Framelink MCP for Figma](entries/mcp-server/glips-figma-context-mcp.md) — unverified / スクリーンショット入力に対する再現精度の優位性は作者の主張。実行による再現、Claude Code固有の設定と互換性、Figmaのプラン別料金・API利用条件は未確認。
 - [SolidCraft](entries/mcp-server/tangency-labs-solidcraft.md) — unverified / ライセンス表記に差異があります。READMEは「MIT OR Apache-2.0」と記載していますが、提供された測定値ではApache-2.0です。採用前にライセンスファイルを確認してください。
 - [Apify MCP server](entries/mcp-server/apify-apify-mcp-server.md) — unverified / Actorの料金や実行条件は個々のActorによって異なる可能性があるが、READMEから一律の条件や費用は確認できない。記載された効果はREADME上の説明であり、独立検証していない。
+- [Framelink MCP for Figma](entries/mcp-server/glips-figma-context-mcp.md) — unverified / スクリーンショット入力に対する再現精度の優位性は作者の主張。実行による再現、Claude Code固有の設定と互換性、Figmaのプラン別料金・API利用条件は未確認。
 - [OpenPencil](entries/mcp-server/open-pencil-open-pencil.md) — unverified / .figの往復保存でレイアウトや変数がどこまで保持されるか、MCP接続と生成結果の品質は実機未検証。リリースの正確な公開日時は未確認。コミット数は各期間100件で打ち切り。
 - [21st MCP compatibility proxy (formerly Magic MCP)](entries/mcp-server/21st-dev-magic-mcp.md) — unverified / 旧Magic APIキーは無効で、新しいAPIキーが必要です。AI生成ツールはアカウントでAIアクセスが有効な場合に限り一覧に表示され、利用可能なAIクレジット残量はREADMEから確認できません。
 - [Exa MCP Server](entries/mcp-server/exa-labs-exa-mcp-server.md) — unverified / GitHub の最新リリース用 URL は一覧に転送され、最新リリースのタグと公開日時は確認できなかった。README は GitHub の raw ファイルで確認した。検索精度、本文取得の成功率、匿名枠の具体的な上限、発見投稿が述べる YouTube のトレンド検出や動画制作・収益化の成果は未検証。
@@ -2265,8 +2265,8 @@
 - [Material Painter](entries/mcp-server/alla2001-material-painter.md) — unverified / 早期アクセス。アプリとMCPの動作は未検証。
 - [pagesift](entries/mcp-server/yolow92-pagesift.md) — unverified / AGPL-3.0 のため、改変してネットワーク越しに提供する場合はソース開示義務。プロプライエタリ製品への組み込みは別途商用ライセンス。README のベンチマーク数値（2.4ms/ページ、20.49倍、32MB 等）はすべて著者自身の計測で第三者検証なし＝カタログの事実としては採用せず flag 扱い。リポジトリは 2026-10-20 作成で履歴が浅く、v1.1.3 は検証当日リリース。pip 版 CLI のサブコマンドは mcp/scrape/convert のみで、README が示す crawl/extract/doctor やローカル PDF/Office の直接パースは cargo ビルド版の機能（pip 版 scrape は http(s) のみ受け付け、ローカルファイルは convert で HTML のみ）。
 - [Moodle-MCP](entries/mcp-server/faixiang-moodle-mcp.md) — unverified / 利用にはWeb ServicesとREST protocolが有効なMoodle 3.x/4.xサイト、およびwebservice/rest:use capabilityを持つアカウントが必要。ファイルのローカル保存機能を使う場合は保存先を指定する。
-- [Kosh](entries/mcp-server/sachinyadavaug20-kosh.md) — unverified / ['実機での起動、クライアントとの接続、GLBの生成品質や処理時間、最新リリース、M8ven評価は未確認。README内でBlenderの対応版とツール数の記述に幅があり、実際の対応範囲は未確認。Gemini APIの利用料金は未確認。']
 - [losslesscut-mcp](entries/mcp-server/bariswha-losslesscut-mcp.md) — unverified / 一次資料で未確認: 有効性・実行条件。
+- [Kosh](entries/mcp-server/sachinyadavaug20-kosh.md) — unverified / ['実機での起動、クライアントとの接続、GLBの生成品質や処理時間、最新リリース、M8ven評価は未確認。README内でBlenderの対応版とツール数の記述に幅があり、実際の対応範囲は未確認。Gemini APIの利用料金は未確認。']
 - [60fps.design MCP](links/mcp-server/https-60fps.design-mcp.md) — unverified / 月29ドル/四半期69ドル・1席は原チェック時。PROプランにMCPは含まれない。SwiftUIのコンパイル確認は提供側の説明で本調査では未実行。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Date Math](links/mcp-server/date-math.datemath.workers.dev-date-math.md) — unverified / 計算精度と決済は未検証。
 - [gmail-browser-mcp](entries/mcp-server/sparsh101sparsh-gmail-browser-mcp.md) — low-quality, unverified / 作者自身がX投稿で「not in production stage」「you need to configure multiple things by yourself」と説明。 作者の説明では本番利用段階ではなく、複数の設定を利用者が行う必要がある。必要な設定項目と本番利用条件は今回確認した資料だけでは特定できない。 GitHub APIでライセンスを確認できていません。
@@ -2292,8 +2292,8 @@
 - [Tencent/DSpine](entries/model-serving/tencent-dspine.md) — unverified / READMEのApacheバッジに対し原チェックのLICENSEは404・API NOASSERTION。許諾を確定せずライセンス本文と依存を確認する。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Magnvs7/Promethevs](entries/model-serving/magnvs7-promethevs.md) — unverified / 最良7.4tok/sと一致率98.33%は限定した作者試験。原本完全一致デコードは別の約2.14tok/s。エンジンApacheと報告・図表CC BYを区別する。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [GLM-5.3-Flash DGX Spark 2台 配備レシピ](entries/model-serving/miaai-lab-glm-5.3-flash-dgx-sparks.md) — unverified / DGX Spark 2台（計128GB統一メモリ級）が必須。チェックポイント約164GiB、イメージ約40GiB。既定drafterはCC BY-NC-ND 4.0（非商用）で、商用はDRAFTER=mtp/none。投稿のKV拡張・再起動復元・thinking off短縮は自己申告で未検証。当方でビルド・実行は未実施。
-- [nf12](entries/model-serving/dphnai-nf12.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [qwen-warp](entries/model-serving/tuan3w-qwen-warp.md) — unverified / 元投稿が解説する「SpecPilot」(W12・ツリー検証・自律エージェント探索・4.46x→10.87x)は別リポジトリ StargazerX0/SpecPilot の内容で、本リポジトリは返信スレッドに別リンクとして挙がっているだけ。本リポジトリの速度・品質数値は作者が RTX 3090 1枚で自己計測したもので第三者検証はない(stars 3/forks 1、作成から5日)。RTX 3090(sm_86)専用で他の GPU は未テスト、同時1リクエストのみ、logprobs/structured output/bad_words は HTTP 400、モデル重みは別ライセンス(swift-open-license-1.0, gated)でリポジトリの MIT 対象外、エージェント多ターンの成功率は未計測と README に明記。
+- [nf12](entries/model-serving/dphnai-nf12.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [GLM-5.3-Flash 2×RTX PRO 6000 配備レシピ（TensorFold）](entries/model-serving/miaai-lab-glm-5.3-flash-2x-rtx-pro-6000.md) — unverified / 2×96GBのRTX PRO 6000（Blackwell sm_120）が必須。チェックポイント約164GiB、Dockerイメージ約40GiB。TensorFold（ashhart/TensorFold、Zig/CUDA）をDockerでビルドし、GLM-5.3-FlashのEXL3 4bpw量子化を配備する。既定のdrafterはCC BY-NC-ND 4.0（非商用）で、商用はDRAFTER=mtp/noneに切り替える。投稿のKV 973K→1.05M、再起動後約1秒で会話復元、thinking off時の出力短縮、誤ネット設定の自動修正はREADMEと方向性が一致するが数値は自己申告で未検証。当方でビルド・実行は未実施。
 - [ausboss/ComfyUI-AusBoss-Model-Downloader](entries/model-serving/ausboss-comfyui-ausboss-model-downloader.md) — unverified / 既存ファイルは上書きせず再ハッシュもしないため完全性の証明にはならない。取得したモデルは実行しない設計だが配布元・トークン・重みの権利確認は必要。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF](models/model-serving/ista-daslab-qwen3.8-flash-next-gsq-rco-gguf.md) — unverified / Unsloth版との性能比較は個人の感想で独立測定なし。量子化方式と条件の違いをファイルサイズだけで評価しない。 当方でインストール・推論・生成・ベンチ再現はしていない。
@@ -2354,8 +2354,8 @@
 - [ai-goofish-monitor](entries/other/usagi-org-ai-goofish-monitor.md) — unverified / 判定精度、通知遅延、現行の闲鱼環境での動作、モデルAPIの実利用料金、最新リリースの公開日時は未確認。プラットフォームの利用条件への適合性は利用形態に依存する。
 - [micrograd](entries/other/karpathy-micrograd.md) — unverified / 勾配の一致、分類デモの再現性、実行性能、Python バージョンごとの動作は独立実測していない。GitHub の公開 Releases 一覧にはリリースが表示されていないため、最新リリースの版と日時は未記載。
 - [theHarvester](entries/other/laramies-theharvester.md) — unverified / 対象の所有または明示的なテスト許可が必要。選択した提供元には対象文字列が送られる。P1のDNS照会とP2の対象への直接接続は、選択した場合に実行される。Python 3.14とuvが必要。
-- [Generative AI on Google Cloud](entries/other/googlecloudplatform-generative-ai.md) — unverified / READMEだけでは、各サンプルの個別の依存関係、実行条件、料金は確認できません。
 - [MuJoCo](entries/other/google-deepmind-mujoco.md) — unverified / READMEの取得内容がライセンス節の途中で途切れているため、ライセンス本文の条件はこの資料から確認できない。
+- [Generative AI on Google Cloud](entries/other/googlecloudplatform-generative-ai.md) — unverified / READMEだけでは、各サンプルの個別の依存関係、実行条件、料金は確認できません。
 - [PlayCanvas Engine](entries/other/playcanvas-engine.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [social-auto-upload](entries/other/dreammis-social-auto-upload.md) — unverified / 対応表は開発元の記載。実アカウントでのログイン、投稿成功率、定時公開、処理時間、各サービスの規約適合性は未検証。最新リリースのタグは確認済みだが、公開年とタイムゾーンを含む日時は未確認。
 - [claude-obsidian](entries/other/agricidaniel-claude-obsidian.md) — unverified / 理由未記入
@@ -2405,14 +2405,14 @@
 - [Rhubarb Lip Sync](entries/other/danielswolf-rhubarb-lip-sync.md) — unverified / ライセンスは提供されたリポジトリ情報で確認できず、unknownです。 GitHub APIでライセンスを確認できていません。
 - [KUTE.js](entries/other/thednp-kute.js.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Oh My PPT](entries/other/arcsin1-oh-my-ppt.md) — unverified / README describes PPTX import and export fidelity as close to 100% in common cases, while noting that complex shapes, charts, tables, animations, fonts, and assets can affect results and remain under improvement.
-- [sheeridVerify](entries/other/jenkinwoo-sheeridverify.md) — unverified / 実際のプラットフォームで使うには必要な許可が必要。README は SheerID や学校との公式な関係・承認を否定し、検証成功も保証していない。
 - [Proton](entries/other/drawcall-proton.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
-- [Synfig Studio](entries/other/synfig-synfig.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
+- [sheeridVerify](entries/other/jenkinwoo-sheeridverify.md) — unverified / 実際のプラットフォームで使うには必要な許可が必要。README は SheerID や学校との公式な関係・承認を否定し、検証成功も保証していない。
 - [ScopeSentry](entries/other/autumn-27-scopesentry.md) — unverified / ①悪用時の法的リスク: 許可なく第三者のドメイン・IP・Web アプリをスキャンすると、日本なら不正アクセス禁止法や各府県の迷惑防止条例、米国なら CFAA、中国なら网络安全法などに触れうる。資産の所有者であること、または書面のスキャン許可がある範囲だけを対象にし、レート制限と停止条件を決めてから使う。②実測性能が無い: 作者・README に処理量・スキャン速度・検出率の測定値やベンチマークは無く、本項でも実行検証していない。ノード数を増やしても実効速度は対象やネットワーク次第で、数値の裏付けは無い。③外部スキャナ/POC への依存: 脆弱性検査は nuclei v3.3.6 をライブラリとして内蔵し、subfinder v2.6.8 / httpx v1.6.10 / dnsx / tlsx / fingerprintx / gospider も libs/ に vendored している。バイナリを別途入れる必要は無い反面、追従は本体のリリース次第で、nuclei テンプレート（POC）の更新・誤検知の管理は利用者側の負担。④ライセンスの実態: GitHub API の license は null、/license とリポジトリ直下の LICENSE は 404（取得時点）。README 末尾は「All branches of this project follow AGPL-3.0」としつつ、商用利用には別途商用ライセンスが必要で、営利法人は使用・配布・改変の前に取得を求めるとする追加条項を置いており、AGPL-3.0 そのものと一致しない。法的に使う前提なら著者への確認が要る。⑤その他の未確認: ARTEX 連携は ARTEX 側 README に記載があるが ScopeSentry 側 README には無く、実際の同期動作は未検証。リソース要件（CPU/メモリ/ディスク）は README・compose に記載が無い。README の「Server：python - FastApi」は現行構成（Go 実装、.py ファイル 0）と一致しない。 ⑥ARTEX との関係: 投稿は ScopeSentry を「ARTEX 作者が貢献した」と述べるが、ARTEX のリポジトリ所有者は Hinln で、README は Autumn-27/norma を SDK として参照するのみ。同一著者であることは一次情報で断定できない。
+- [Synfig Studio](entries/other/synfig-synfig.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [JIZURA 字面](entries/other/852wa-jizura.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [nv-uefi-unlocker](entries/other/physicsdolphin-nv-uefi-unlocker.md) — unverified / 性能と互換性は開発元の報告に基づき、独立した実機試験は未実施。投稿にあるv2.1.9-diag.3のCSM環境向け復旧処理とUSBへのログ書き込みの保証は未確認。最新安定版のタグは確認したが、公開日時は未確認。
-- [cannon-es](entries/other/pmndrs-cannon-es.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Effekseer](entries/other/effekseer-effekseer.md) — unverified / READMEには、対応プラットフォームでの再生にはランタイムやプラグインの組み込みが必要とある。具体的な導入手順・依存関係・利用条件はこのREADMEだけでは確認できない。
+- [cannon-es](entries/other/pmndrs-cannon-es.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Ola](entries/other/franciscop-ola.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Splitting.js](entries/other/shshaw-splitting.md) — unverified / 一次資料で未確認: 依存関係・実行条件。
 - [Quiet.md](entries/other/s1dashu-quiet-md.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
@@ -2428,26 +2428,26 @@
 - [One IP](entries/other/zhihui-hu-one-ip.md) — unverified / 結果は第三者サービスに依存し、レート制限やクロスオリジン制約の影響を受ける場合がある。READMEはIP種別と評判スコアを参考情報としている。
 - [VFX-JS](entries/other/fand-vfx-js.md) — unverified / 一次資料で未確認: 有効性。
 - [Shapeshift](entries/other/anishfn-shapeshift.md) — unverified / ['READMEと公開ソースを確認。コードは実行しておらず、分類精度、曖昧な入力での挙動、実応答時間、オンライン障害時のフォールバックは未実測。TypeSafe APIの現行料金と利用条件は未確認。']
-- [JavRanking 浏览器扩展](entries/other/javranking-javranking-extension.md) — unverified / Chrome/Edge installation uses a manually loaded unpacked extension and updates are manual. Firefox is only available for temporary development loading; persistent installation requires a Mozilla-signed XPI, which is not yet available.
 - [FlashProve](entries/other/anthropics-flashprove.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
+- [JavRanking 浏览器扩展](entries/other/javranking-javranking-extension.md) — unverified / Chrome/Edge installation uses a manually loaded unpacked extension and updates are manual. Firefox is only available for temporary development loading; persistent installation requires a Mozilla-signed XPI, which is not yet available.
 - [Whisper Flow](entries/other/dimastatz-whisper-flow.md) — unverified / The README reports benchmark results of latency below 500 ms and a word error rate around 7% on an M1 MacBook Air with 16 GB RAM; these are author-reported results, not independent measurements. The attached README ends during the development setup instructions, so later setup details are unavailable.
 - [VidStab](entries/other/georgmartius-vid.stab.md) — unverified / 補正量・画質・処理速度は実測していない。READMEはmasterの仕様を含むため、最新公開リリースv1.1.2や各FFmpeg配布ビルドでの機能差は未確認。公開日の年は取得した表示から確定できなかった。ライセンス欄は親工程のAPI値を保持し、利用条件は対象バージョンのライセンス文書で確認する。 GitHub APIでライセンスを確認できていません。
+- [Manufacturing WeChat Mini Program Starter](entries/other/changhaoting1998-star-manufacturing-wechat-miniapp-starter.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [TrenTorch](entries/other/trentorch-trentorch.md) — unverified / READMEではPolyForm Noncommercial 1.0.0と記載されています。商用利用の可否やその他の利用条件はライセンス本文を確認してください。 GitHub APIでライセンスを確認できていません。
 - [DSH 破甲ワークフロー（dsh-jailbreak-workflow）](entries/other/minglink-dsh-jailbreak-workflow.md) — prompt-injection / モデルの拒否応答を回避する『破甲（jailbreak）』プロンプトを自動生成するためのワークフロー。各サービスの利用規約違反になり得る。記録のみで、実行・生成した内容の利用はしない。
+- [Awesome Chinese Secondhand Slang（中国二手暗语全书与避坑合规指南）](entries/other/domainsun-awesome-chinese-secondhand-slang.md) — malicious, low-quality, unverified / READMEは、平台の敏感語検出を避けるための代替語・暗語や、文案の排雷・転译を売り手向け用途として記載している。これは規制・モデレーション回避を助けうる。収録件数と分類数にもREADME内の不一致がある。 README内で収録規模が一致しない（本文は4,569+変異形・114分類、バッジは5,082,569+変異形・149分類）。記載された語句の意味や存活状態、平台ルールへの適合性は独立確認されていない。
 - [vt-py](entries/other/virustotal-vt-py.md) — unverified / READMEには依存パッケージと実行条件の記載がないため未確認。
 - [拉片笔记（Lapian Notes）](entries/other/bkingfilm-lapian-notes.md) — unverified / AI分析の品質は利用するAIに依存し、READMEは無料AIが大量の画像を処理できず分析を省略する場合があると説明している。
-- [Awesome Chinese Secondhand Slang（中国二手暗语全书与避坑合规指南）](entries/other/domainsun-awesome-chinese-secondhand-slang.md) — malicious, low-quality, unverified / READMEは、平台の敏感語検出を避けるための代替語・暗語や、文案の排雷・転译を売り手向け用途として記載している。これは規制・モデレーション回避を助けうる。収録件数と分類数にもREADME内の不一致がある。 README内で収録規模が一致しない（本文は4,569+変異形・114分類、バッジは5,082,569+変異形・149分類）。記載された語句の意味や存活状態、平台ルールへの適合性は独立確認されていない。
 - [Orfeo](entries/other/squarebow-orfeo.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
-- [color-matcher](entries/other/hahnec-color-matcher.md) — unverified / 著者による手法比較の独立再現、映像の時間方向の一貫性、現行環境での動作は未検証。GitHub は v0.5.0 を Latest と表示し、PyPI は 0.6.0 を掲載している。GitHub リリースの年を含む公開日は未確認。
-- [Manufacturing WeChat Mini Program Starter](entries/other/changhaoting1998-star-manufacturing-wechat-miniapp-starter.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Awesome AI Pedia](entries/other/awesome-ai-pedia-awesome-ai-pedia.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
+- [color-matcher](entries/other/hahnec-color-matcher.md) — unverified / 著者による手法比較の独立再現、映像の時間方向の一貫性、現行環境での動作は未検証。GitHub は v0.5.0 を Latest と表示し、PyPI は 0.6.0 を掲載している。GitHub リリースの年を含む公開日は未確認。
 - [Enterprise System Design](entries/other/drhazemali-enterprise-system-design.md) — unverified / READMEにライセンス条件の記載がなく、ライセンスは確認できていません。 GitHub APIでライセンスを確認できていません。
-- [高性价比职场指南](entries/other/goodseafly-how-to-make-work-pay.md) — unverified / GitHub APIでライセンスを確認できていません。
-- [DuoDesk](entries/other/0xcodez-duodesk.md) — unverified / 最新リリースの公開日時と配布物の署名状態は未確認。対応 OS の組み合わせ別の動作、転送性能、通信の安全性は独立検証していない。Claude Code と Opus 5.5 の利用および開発規模は、候補が指す X 投稿を直接取得できず未確認。
 - [NamiAgent](entries/other/aa1143-namiagent.md) — unverified / 最新リリース、テストの成功、デモと実モデルの動作、権限機構の実効性、モデルAPIの料金は未確認。著者は、権限機構で意図的な攻撃を防げないと明記している。
+- [Pixel Plays](entries/other/amirmushichge-pixel-plays.md) — unverified / ['候補投稿が言及するClaude Opus 5.5の使用は、作者投稿を取得できなかったため未確認。最新リリース、ブラウザでの動作・性能、別題材への改変結果も未確認。']
+- [DuoDesk](entries/other/0xcodez-duodesk.md) — unverified / 最新リリースの公開日時と配布物の署名状態は未確認。対応 OS の組み合わせ別の動作、転送性能、通信の安全性は独立検証していない。Claude Code と Opus 5.5 の利用および開発規模は、候補が指す X 投稿を直接取得できず未確認。
+- [高性价比职场指南](entries/other/goodseafly-how-to-make-work-pay.md) — unverified / GitHub APIでライセンスを確認できていません。
 - [Life Destiny K-Line（人生 K 线）](entries/other/miounet11-life-kline.md) — unverified / README describes fortune and prediction features but does not establish their accuracy. Its feature and effect claims are author-provided, not independently verified.
 - [LINEJS](entries/other/evex-dev-linejs.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
-- [Pixel Plays](entries/other/amirmushichge-pixel-plays.md) — unverified / ['候補投稿が言及するClaude Opus 5.5の使用は、作者投稿を取得できなかったため未確認。最新リリース、ブラウザでの動作・性能、別題材への改変結果も未確認。']
 - [jev-voice-browser](entries/other/moritzkremb-jev-voice-browser.md) — unverified / 性能と費用はREADMEに記載された作者環境での報告で、独立再現、現行のAPI料金・利用条件、確認機構の実効性は未検証。GitHubの公開リリース一覧にはリリースが表示されていない。
 - [ResumeForge](entries/other/magicapple123-resumeforge.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Image 2 Sculpt](entries/other/gokayfem-image-to-sculpt.md) — unverified / README gives a typical case cost of about $2; actual cost may vary with calls and the per-case budget. A fal API key is required for masks, depth, normals, and generated views; the README also describes a front-only path using a cut-out PNG and user-provided views.
@@ -2460,8 +2460,8 @@
 - [Jev Plays Pokémon Red](entries/other/christianmat-jev-pokemon.md) — unverified / クリア結果、所要時間、費用は作者の報告。独立再現、現行の Gateway 料金、別環境での動作は未確認。GitHub の公開 Releases ページにリリースは掲載されていなかった。
 - [muse-grok-x-search](entries/other/kgmkm-muse-grok-x-search.md) — unverified / Grok Buildはベータ版で、利用可能なプランは変更される可能性がある。必要なプランや利用条件はセットアップ時に公式情報で確認すること。
 - [myradio](entries/other/monoradio102-myradio.md) — unverified / GitHub APIでライセンスを確認できていません。
-- [URLhaus](entries/other/abusech-urlhaus.md) — unverified / READMEに記載された無料のAuth-Key取得には登録が必要です。リポジトリのライセンスは取得済みメタデータでunknownです。 GitHub APIでライセンスを確認できていません。
 - [dsh-pet-live2d](entries/other/a8chann-dsh-pet-live2d.md) — unverified / APIのlicense値はunknown。READMEのバッジにはMIT + CC BY-NC-SA 4.0とあるが、ライセンスの適用範囲は添付READMEだけでは確認できない。 GitHub APIでライセンスを確認できていません。
+- [URLhaus](entries/other/abusech-urlhaus.md) — unverified / READMEに記載された無料のAuth-Key取得には登録が必要です。リポジトリのライセンスは取得済みメタデータでunknownです。 GitHub APIでライセンスを確認できていません。
 - [Strata](entries/other/carthageadev-strata.md) — unverified / GitHub APIでライセンスを確認できていません。
 - [clash-jev](entries/other/bytelabs-oss-clash-jev.md) — unverified / 約135msはREADMEが示すJevの単一応答の目安。全体遅延、勝率、端末ごとの認識精度、現行API料金は未検証。READMEは自動プレイがSupercellの利用規約に反すると明記している。
 - [Sprite Pencil](entries/other/256arts-sprite-pencil.md) — unverified / README does not state the license or the app's cost; confirm these before relying on reuse or distribution terms. GitHub APIでライセンスを確認できていません。

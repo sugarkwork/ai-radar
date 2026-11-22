@@ -4,11 +4,11 @@ genre: "coding-agent"
 url: "https://github.com/CloudAI-X/threejs-skills"
 repo: "CloudAI-X/threejs-skills"
 license: "MIT"
-stars: 4148
+stars: 4228
 language: "unknown"
 created: "2026-01-19"
 updated: "2026-10-19"
-forks: 477
+forks: 487
 open_issues: 0
 commits_30d: 20
 commit_cadence: "daily"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-12"
 first_seen: "2026-11-12"
 sources: ["https://x.com/kursormaxx/status/2118673610722144590"]
-fetched_at: "2026-11-12T11:12:17.566111+00:00"
+fetched_at: "2026-11-16T21:43:08Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # Three.js Skills for Claude Code

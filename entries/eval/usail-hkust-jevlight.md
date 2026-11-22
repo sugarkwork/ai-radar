@@ -7,13 +7,13 @@ license: "unknown"
 stars: 11
 language: "Python"
 created: "2026-09-21"
-updated: "2026-11-06"
-forks: 2
-open_issues: 0
+updated: "2026-11-12"
+forks: 3
+open_issues: 1
 commits_30d: 10
 commit_cadence: "weekly"
-commits_90d: 29
-size_kb: 81755
+commits_90d: 30
+size_kb: 81758
 archived: false
 flags: ["unverified"]
 risk_notes: "模擬実験を含めコードは実行していない。著者のSUMO集計はREADMEの記述を確認した範囲で、個別のスコア、独立再現、実道路での有効性、実APIの料金・利用条件、最新リリースは未確認。ライセンスは提供されたGitHub API実測値でunknown。 GitHub APIでライセンスを確認できていません。"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-11"
 first_seen: "2026-11-11"
 sources: ["https://x.com/thegreatest_sv/status/2115779290033803462"]
-fetched_at: "2026-11-10T12:35:29Z"
+fetched_at: "2026-11-16T21:49:53Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # JevLight — SUMOで交通信号の意思決定モデルを比較する

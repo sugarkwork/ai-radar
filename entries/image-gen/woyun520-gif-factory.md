@@ -4,16 +4,16 @@ genre: "image-gen"
 url: "https://github.com/WoYun520/gif-factory"
 repo: "WoYun520/gif-factory"
 license: "MIT"
-stars: 1092
+stars: 1951
 language: "Python"
 created: "2026-11-05"
-updated: "2026-11-11"
-forks: 134
+updated: "2026-11-15"
+forks: 232
 open_issues: 1
-commits_30d: 27
+commits_30d: 52
 commit_cadence: "daily"
-commits_90d: 27
-size_kb: 445094
+commits_90d: 52
+size_kb: 907316
 archived: false
 flags: ["unverified"]
 risk_notes: "具体生成所用模型、依赖、运行条件、费用及完整最短操作步骤未能从所附 README 确认。"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-11"
 first_seen: "2026-11-11"
 sources: ["https://x.com/Leviwoyun/status/2118197971112366538"]
-fetched_at: "2026-11-11T02:12:57.237855+00:00"
+fetched_at: "2026-11-16T21:52:55Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # GIF 工厂

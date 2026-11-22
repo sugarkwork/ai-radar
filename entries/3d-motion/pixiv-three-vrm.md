@@ -16,15 +16,15 @@ license: "MIT"
 language: "TypeScript"
 created: "2019-06-04"
 updated: "2026-10-22"
-stars: 2279
-forks: 202
-open_issues: 45
-commits_30d: 3
+stars: 2291
+forks: 204
+open_issues: 47
+commits_30d: 2
 commits_90d: 14
 commit_cadence: "monthly"
 size_kb: 127519
 archived: false
-fetched_at: "2026-11-09T21:31:36Z"
+fetched_at: "2026-11-16T21:34:28Z"
 last_release: "v3.5.5"
 last_release_at: "2026-07-09"
 ---

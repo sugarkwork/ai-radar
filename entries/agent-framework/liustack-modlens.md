@@ -15,18 +15,18 @@ repo: "liustack/modlens"
 license: "MIT"
 language: "TypeScript"
 created: "2026-02-22"
-updated: "2026-11-07"
-stars: 4879
-forks: 152
-open_issues: 2
-commits_30d: 13
+updated: "2026-11-15"
+stars: 4996
+forks: 158
+open_issues: 3
+commits_30d: 15
 commits_90d: 100
 commit_cadence: "weekly"
-size_kb: 12514
+size_kb: 12968
 archived: false
-fetched_at: "2026-11-09T21:33:35Z"
-last_release: "v3.27.3"
-last_release_at: "2026-11-07"
+fetched_at: "2026-11-16T21:39:00Z"
+last_release: "v3.27.5"
+last_release_at: "2026-11-15"
 ---
 
 # liustack/modlens

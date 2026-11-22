@@ -7,13 +7,13 @@ license: "MIT"
 stars: 59
 language: "TypeScript"
 created: "2026-09-19"
-updated: "2026-10-31"
+updated: "2026-11-16"
 forks: 9
-open_issues: 6
-commits_30d: 0
+open_issues: 3
+commits_30d: 3
 commit_cadence: "monthly"
-commits_90d: 42
-size_kb: 931
+commits_90d: 46
+size_kb: 823
 archived: false
 flags: ["unverified"]
 risk_notes: "分類結果の品質・較正性能はこのREADMEでは独立検証されていない。利用にはNode.js 20以上と、選択したホストのAPIキーが必要。ホストごとの料金や費用はREADMEに記載なし。"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-11"
 first_seen: "2026-11-11"
 sources: ["https://x.com/GitTrend0x/status/2120147118237114757"]
-fetched_at: "2026-11-11T06:11:26.887950+00:00"
+fetched_at: "2026-11-16T21:44:21Z"
+last_release: "v0.5.0"
+last_release_at: "2026-10-08"
 ---
 
 # jev-code

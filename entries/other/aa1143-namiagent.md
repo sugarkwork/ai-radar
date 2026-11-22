@@ -3,8 +3,8 @@ repo: "aa1143/NamiAgent"
 name: "NamiAgent"
 genre: "other"
 url: "https://github.com/aa1143/NamiAgent"
-stars: 483
-forks: 53
+stars: 536
+forks: 57
 open_issues: 1
 size_kb: 2554
 language: "Python"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-10"
 first_seen: "2026-11-10"
 sources: ["https://x.com/Ryrenz/status/2117921052726538618"]
-fetched_at: "2026-11-10T10:58:16+00:00"
+fetched_at: "2026-11-16T21:58:01Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # NamiAgent｜最小ループから学ぶAIエージェントのPython教材

@@ -5,23 +5,25 @@ genre: "coding-agent"
 url: "https://github.com/ConardLi/garden-skills"
 flags: ["unverified"]
 risk_notes: "レビューではインストールや生成を実行しておらず、出力品質、知識検索によるコンテキスト削減量、エージェント間の動作差、各スキルの追加依存と外部サービスの料金・素材の利用条件は未確認。GitHubの /releases/latest は motion-showreel v0.1.0 を表示したが、公開一覧には同スキルの v0.2.0 もあるため、リポジトリ全体の最新版と公開日時は記載していない。"
-stars: 14851
-forks: 1710
-open_issues: 26
-size_kb: 76325
+stars: 15296
+forks: 1740
+open_issues: 21
+size_kb: 76378
 language: "JavaScript"
 created: "2026-04-21"
-updated: "2026-11-08"
+updated: "2026-11-14"
 archived: false
 license: "MIT"
-commits_30d: 11
-commits_90d: 21
-commit_cadence: "weekly"
+commits_30d: 20
+commits_90d: 33
+commit_cadence: "daily"
 type: "repo"
 added: "2026-11-10"
 first_seen: "2026-11-10"
 sources: ["https://x.com/AISuperDomain/status/2118356546698760516"]
-fetched_at: "2026-11-10T09:48:43+00:00"
+fetched_at: "2026-11-16T21:43:32Z"
+last_release: "web-video-presentation-v1.2.3"
+last_release_at: "2026-11-14"
 ---
 
 # Garden Skills — Web制作・動画・記事化などをAIエージェントに追加するスキル集

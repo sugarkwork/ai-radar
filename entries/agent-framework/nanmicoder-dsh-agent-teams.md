@@ -15,18 +15,18 @@ repo: "NanmiCoder/dsh-agent-teams"
 license: "MIT"
 language: "JavaScript"
 created: "2026-08-12"
-updated: "2026-11-06"
-stars: 2815
-forks: 238
-open_issues: 81
-commits_30d: 77
+updated: "2026-11-13"
+stars: 2978
+forks: 245
+open_issues: 87
+commits_30d: 71
 commits_90d: 100
 commit_cadence: "daily"
-size_kb: 18522
+size_kb: 17640
 archived: false
-fetched_at: "2026-11-09T21:33:57Z"
-last_release: "v0.1.29"
-last_release_at: "2026-11-06"
+fetched_at: "2026-11-16T21:39:36Z"
+last_release: "v0.1.30"
+last_release_at: "2026-11-13"
 ---
 
 # NanmiCoder/dsh-agent-teams

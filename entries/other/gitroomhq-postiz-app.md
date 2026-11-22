@@ -5,13 +5,13 @@ url: "https://github.com/gitroomhq/postiz-app"
 flags: ["unverified"]
 risk_notes: "README記載のAGPL-3.0以外の利用条件や、セルフホストに必要な具体的な設定・環境条件は確認していない。"
 repo: "gitroomhq/postiz-app"
-stars: 41250
-forks: 7864
-open_issues: 212
-size_kb: 64962
+stars: 41750
+forks: 7973
+open_issues: 207
+size_kb: 67538
 language: "TypeScript"
 created: "2023-07-08"
-updated: "2026-11-10"
+updated: "2026-11-16"
 archived: false
 license: "AGPL-3.0"
 commits_30d: 100
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-11"
 first_seen: "2026-11-11"
 sources: ["https://x.com/Y0urDumble/status/2116341413755453670"]
-fetched_at: "2026-11-10T13:39:35.699250+00:00"
+fetched_at: "2026-11-16T22:00:38Z"
+last_release: "v2.26.0"
+last_release_at: "2026-11-13"
 ---
 
 # Postiz

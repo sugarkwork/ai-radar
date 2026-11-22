@@ -13,15 +13,15 @@ sources:
   - https://x.com/dextune/status/2117522164140347849
 flags: []
 risk_notes: ""
-stars: 319
-forks: 42
-open_issues: 1
+stars: 404
+forks: 54
+open_issues: 2
 commits_30d: 4
 commits_90d: 4
 commit_cadence: "weekly"
 size_kb: 1715
 archived: false
-fetched_at: "2026-11-09T21:31:24Z"
+fetched_at: "2026-11-16T21:34:01Z"
 last_release: ""
 last_release_at: ""
 ---

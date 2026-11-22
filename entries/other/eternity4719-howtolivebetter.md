@@ -5,23 +5,25 @@ url: "https://github.com/eternity4719/HowToLiveBetter"
 flags: ["unverified"]
 risk_notes: "内容可能过时或有误，政策执行因地区而异。实际办事、就医或诉讼时，以当地部门、医生或律师的意见为准。"
 repo: "eternity4719/HowToLiveBetter"
-stars: 75551
-forks: 6695
+stars: 76109
+forks: 6760
 open_issues: 15
-size_kb: 23025
+size_kb: 22912
 language: "HTML"
 created: "2026-09-07"
-updated: "2026-11-12"
+updated: "2026-11-16"
 archived: false
 license: "CC-BY-4.0"
-commits_30d: 89
+commits_30d: 79
 commits_90d: 100
 commit_cadence: "daily"
 type: "repo"
 added: "2026-11-13"
 first_seen: "2026-11-13"
 sources: ["https://x.com/ruyi3699/status/2118682310388121615"]
-fetched_at: "2026-11-13T16:09:11.379934+00:00"
+fetched_at: "2026-11-16T22:00:08Z"
+last_release: "epub-latest"
+last_release_at: "2026-09-18"
 ---
 
 # 高性价比人生指南

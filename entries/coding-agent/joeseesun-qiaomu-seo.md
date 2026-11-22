@@ -4,7 +4,7 @@ genre: "coding-agent"
 url: "https://github.com/joeseesun/qiaomu-seo"
 repo: "joeseesun/qiaomu-seo"
 license: "MIT"
-stars: 475
+stars: 476
 language: "Python"
 created: "2026-08-03"
 updated: "2026-08-03"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-16"
 first_seen: "2026-11-16"
 sources: ["https://x.com/bkdgiffug/status/2119062313156084036"]
-fetched_at: "2026-11-16T14:11:57.908157+00:00"
+fetched_at: "2026-11-16T21:45:05Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # qiaomu-seo

@@ -5,23 +5,25 @@ url: "https://github.com/DU8866-nice/awesome-ai-drama"
 repo: "DU8866-nice/awesome-ai-drama"
 flags: ["unverified"]
 risk_notes: "目录中的项目能力、维护状态及“真正能用”等评价是 README 的整理说明，未在本次审查中逐项核验；README 引用的行业数据也未独立确认。"
-stars: 2
-forks: 2
+stars: 16
+forks: 6
 open_issues: 0
-size_kb: 55
+size_kb: 58
 language: "Python"
 created: "2026-11-09"
-updated: "2026-11-09"
+updated: "2026-11-16"
 archived: false
 license: "CC0-1.0"
-commits_30d: 5
-commits_90d: 5
+commits_30d: 6
+commits_90d: 6
 commit_cadence: "weekly"
 type: "repo"
 added: "2026-11-12"
 first_seen: "2026-11-12"
 sources: ["https://x.com/binbin_eth/status/2120710960247615505"]
-fetched_at: "2026-11-12T03:43:39.347300+00:00"
+fetched_at: "2026-11-16T21:53:27Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # Awesome AI Drama

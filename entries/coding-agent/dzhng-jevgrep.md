@@ -4,16 +4,16 @@ name: "Jevgrep"
 genre: "coding-agent"
 url: "https://github.com/dzhng/jevgrep"
 license: "MIT"
-stars: 3205
+stars: 3234
 language: "TypeScript"
 created: "2026-09-26"
-updated: "2026-11-08"
-forks: 245
-open_issues: 10
-commits_30d: 71
+updated: "2026-11-12"
+forks: 247
+open_issues: 8
+commits_30d: 66
 commit_cadence: "daily"
 commits_90d: 100
-size_kb: 11750
+size_kb: 11798
 archived: false
 last_release: "v0.8.0"
 flags: ["unverified"]
@@ -22,7 +22,8 @@ type: "repo"
 added: "2026-11-11"
 first_seen: "2026-11-11"
 sources: ["https://x.com/thegreatest_sv/status/2116142322543198271"]
-fetched_at: "2026-11-10T12:54:07+00:00"
+fetched_at: "2026-11-16T21:44:08Z"
+last_release_at: "2026-10-01"
 ---
 
 # Jevgrep — 自然言語で関連コードを探すエージェント向けCLI

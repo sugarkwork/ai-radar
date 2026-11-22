@@ -4,11 +4,11 @@ name: "Tweakpane"
 genre: "3d-motion"
 url: "https://github.com/cocopon/tweakpane"
 license: "MIT"
-stars: 4669
+stars: 4699
 language: "TypeScript"
 created: "2016-05-10"
 updated: "2026-03-15"
-forks: 134
+forks: 140
 open_issues: 32
 commits_30d: 0
 commit_cadence: "stale"
@@ -22,7 +22,8 @@ type: "repo"
 added: "2026-11-10"
 first_seen: "2026-11-10"
 sources: ["https://x.com/RealMarvelX/status/2117956876369264741"]
-fetched_at: "2026-11-10T11:08:18Z"
+fetched_at: "2026-11-16T21:32:27Z"
+last_release_at: "2024-11-03"
 ---
 
 # Tweakpaneでブラウザー上のモーションを調整する

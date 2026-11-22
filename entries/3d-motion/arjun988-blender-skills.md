@@ -5,12 +5,12 @@ genre: "3d-motion"
 url: "https://github.com/arjun988/blender-skills"
 author: "arjun988"
 license: "MIT"
-stars: 2331
+stars: 3926
 language: "TypeScript"
 created: "2026-07-05"
 updated: "2026-11-06"
-forks: 211
-open_issues: 3
+forks: 350
+open_issues: 7
 commits_30d: 1
 commits_90d: 1
 commit_cadence: "monthly"
@@ -25,7 +25,7 @@ type: "repo"
 added: "2026-11-09"
 first_seen: "2026-11-09"
 sources: ["https://x.com/Y0urDumble/status/2113374545302200732"]
-fetched_at: "2026-11-09T21:30:27Z"
+fetched_at: "2026-11-16T21:32:03Z"
 ---
 
 # Blender Skills — Blender を操作する 94 本のエージェントスキル集（MCP 経由）

@@ -4,11 +4,11 @@ genre: "3d-motion"
 url: "https://github.com/pmndrs/drei"
 repo: "pmndrs/drei"
 license: "MIT"
-stars: 10154
+stars: 10167
 language: "JavaScript"
 created: "2020-04-26"
 updated: "2026-10-21"
-forks: 871
+forks: 873
 open_issues: 151
 commits_30d: 0
 commit_cadence: "monthly"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-14"
 first_seen: "2026-11-14"
 sources: ["https://x.com/thegreatest_sv/status/2118724335905148990"]
-fetched_at: "2026-11-13T21:14:10.221291+00:00"
+fetched_at: "2026-11-16T21:34:30Z"
+last_release: "v10.7.9"
+last_release_at: "2026-09-25"
 ---
 
 # @react-three/drei

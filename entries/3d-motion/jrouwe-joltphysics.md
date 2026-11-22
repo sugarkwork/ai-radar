@@ -4,25 +4,26 @@ name: "Jolt Physics"
 genre: "3d-motion"
 url: "https://github.com/jrouwe/JoltPhysics"
 license: "MIT"
-stars: 12261
+stars: 12326
 language: "C++"
 created: "2021-08-12"
-updated: "2026-11-09"
-forks: 1013
-open_issues: 8
-commits_30d: 49
+updated: "2026-11-16"
+forks: 1027
+open_issues: 14
+commits_30d: 60
 commit_cadence: "daily"
-commits_90d: 89
-size_kb: 31832
+commits_90d: 100
+size_kb: 31667
 archived: false
-last_release: "v5.6.0"
+last_release: "v5.7.0"
 flags: ["unverified"]
 risk_notes: "リリースタグは公式の最新リリースページで確認したが、公開日時は未確認。ビルド、性能、AIツールとの連携は実行検証していない。"
 type: "repo"
 added: "2026-11-10"
 first_seen: "2026-11-10"
 sources: ["https://x.com/okapi_fukugyo/status/2117616982518559161"]
-fetched_at: "2026-11-10T09:55:54Z"
+fetched_at: "2026-11-16T21:33:27Z"
+last_release_at: "2026-11-14"
 ---
 
 # Jolt Physics — 3Dシーンに衝突・剛体・軟体シミュレーションを組み込むC++ライブラリ

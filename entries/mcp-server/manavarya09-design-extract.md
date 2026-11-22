@@ -3,17 +3,17 @@ repo: "Manavarya09/design-extract"
 name: "designlang"
 genre: "mcp-server"
 url: "https://github.com/Manavarya09/design-extract"
-stars: 5003
-forks: 415
-open_issues: 19
-size_kb: 15954
+stars: 5119
+forks: 425
+open_issues: 20
+size_kb: 15935
 language: "HTML"
 created: "2026-04-15"
-updated: "2026-11-05"
+updated: "2026-11-13"
 archived: false
 license: "MIT"
-commits_30d: 24
-commits_90d: 86
+commits_30d: 25
+commits_90d: 88
 commit_cadence: "daily"
 last_release: "v13.3.2"
 flags: ["unverified"]
@@ -22,7 +22,8 @@ type: "repo"
 added: "2026-11-10"
 first_seen: "2026-11-10"
 sources: ["https://x.com/thegreatest_sv/status/2117324109478507007"]
-fetched_at: "2026-11-10T08:41:43+00:00"
+fetched_at: "2026-11-16T21:54:37Z"
+last_release_at: "2026-09-23"
 ---
 
 # designlang — Webページからデザイントークンを抽出する CLI・MCP

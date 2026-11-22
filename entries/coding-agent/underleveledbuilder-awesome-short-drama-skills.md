@@ -5,23 +5,25 @@ url: "https://github.com/UnderleveledBuilder/awesome-short-drama-skills"
 repo: "UnderleveledBuilder/awesome-short-drama-skills"
 flags: ["unverified"]
 risk_notes: "掲載スキルの効果はREADME記載の評価範囲に限られる。評価はclaude-opus-5-5のみで、各ラウンドに題材や評価者間の不一致などの制約がある。スキルによってはスクリプトを含む場合があるため、導入前にSKILL.mdを確認するようREADMEが案内している。"
-stars: 2284
-forks: 275
-open_issues: 13
-size_kb: 24864
+stars: 2436
+forks: 293
+open_issues: 8
+size_kb: 25461
 language: "HTML"
 created: "2026-10-13"
-updated: "2026-11-13"
+updated: "2026-11-16"
 archived: false
 license: "CC0-1.0"
-commits_30d: 80
-commits_90d: 89
+commits_30d: 46
+commits_90d: 96
 commit_cadence: "daily"
 type: "repo"
 added: "2026-11-14"
 first_seen: "2026-11-14"
 sources: ["https://x.com/ganfanren_ai/status/2118721879242633643"]
-fetched_at: "2026-11-13T21:11:34.757016+00:00"
+fetched_at: "2026-11-16T21:48:00Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # Awesome Short Drama Skills

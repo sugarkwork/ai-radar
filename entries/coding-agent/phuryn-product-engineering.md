@@ -3,13 +3,13 @@ name: "Product Engineering"
 genre: "coding-agent"
 url: "https://github.com/phuryn/product-engineering"
 repo: "phuryn/product-engineering"
-stars: 455
-forks: 59
+stars: 611
+forks: 83
 open_issues: 0
-size_kb: 5866
+size_kb: 6209
 language: "Python"
 created: "2026-10-29"
-updated: "2026-11-08"
+updated: "2026-11-16"
 archived: false
 license: "MIT"
 commits_30d: 100
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-11"
 first_seen: "2026-11-11"
 sources: ["https://x.com/TiagerBao/status/2120107853809856738"]
-fetched_at: "2026-11-10T23:11:38.679328+00:00"
+fetched_at: "2026-11-16T21:46:58Z"
+last_release: "v1.12.0"
+last_release_at: "2026-11-14"
 ---
 
 # Product Engineering

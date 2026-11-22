@@ -4,10 +4,10 @@ name: OBLITERATUS
 genre: other
 url: https://github.com/elder-plinius/OBLITERATUS
 license: AGPL-3.0
-stars: 9407
+stars: 9541
 language: Python
 created: 2026-03-03
-updated: "2026-11-05"
+updated: "2026-11-16"
 added: 2026-11-05
 first_seen: 2026-11-05
 source_post: https://x.com/Forhanvv/status/2118463967412854938
@@ -15,14 +15,14 @@ sources:
   - https://huggingface.co/spaces/pliny-the-prompter/obliteratus
 flags: []
 risk_notes: "モデルの拒否挙動を除去する（abliteration）ツール。各モデルのライセンスと利用規約、および出力の責任は利用者側。本エントリは手順を記載せず、存在と構成のみを記録する。"
-forks: 1706
-open_issues: 9
+forks: 1736
+open_issues: 5
 commits_30d: 100
 commits_90d: 100
 commit_cadence: "daily"
-size_kb: 40637
+size_kb: 40856
 archived: false
-fetched_at: "2026-11-09T21:41:00Z"
+fetched_at: "2026-11-16T22:00:01Z"
 last_release: "v0.1.4"
 last_release_at: "2026-10-15"
 ---

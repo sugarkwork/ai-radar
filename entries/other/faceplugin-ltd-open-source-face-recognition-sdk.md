@@ -8,8 +8,8 @@ language: "Python"
 commit_cadence: "monthly"
 flags: ["low-quality", "unverified"]
 risk_notes: "README заявляет «high accuracy», «real-time» и «completely free», но не приводит измерений точности или скорости; лицензионные условия не указаны. Эти заявления не представлены как независимо проверенные факты. README называет SDK бесплатным и открытым, но API указывает лицензию как unknown. Условия использования и лицензирования не подтверждены. GitHub APIでライセンスを確認できていません。"
-stars: 3161
-forks: 530
+stars: 3169
+forks: 533
 open_issues: 0
 size_kb: 55916
 created: "2025-01-17"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-14"
 first_seen: "2026-11-14"
 sources: ["https://x.com/bkdgiffug/status/2118888416800542983"]
-fetched_at: "2026-11-14T20:12:49.311748+00:00"
+fetched_at: "2026-11-16T22:00:20Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # Open Source Face Recognition SDK

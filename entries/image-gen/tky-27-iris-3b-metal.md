@@ -19,10 +19,10 @@ open_issues: 1
 size_kb: 16697
 archived: false
 last_release: "v0.6.1"
-commits_30d: 36
+commits_30d: 11
 commits_90d: 78
-commit_cadence: "daily"
-fetched_at: "2026-11-09T21:38:41Z"
+commit_cadence: "weekly"
+fetched_at: "2026-11-16T21:52:42Z"
 last_release_at: "2026-10-19"
 ---
 

@@ -4,16 +4,16 @@ genre: "finance-quant"
 url: "https://github.com/tradermonty/claude-trading-skills"
 repo: "tradermonty/claude-trading-skills"
 license: "MIT"
-stars: 4511
+stars: 6234
 language: "Python"
 created: "2025-10-19"
-updated: "2026-11-14"
-forks: 893
-open_issues: 74
+updated: "2026-11-16"
+forks: 1324
+open_issues: 51
 commits_30d: 100
 commit_cadence: "daily"
 commits_90d: 100
-size_kb: 74851
+size_kb: 73281
 archived: false
 flags: ["unverified"]
 risk_notes: "利用料金やアカウント要件はREADME記載時点の案内で、変更される可能性がある。"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-14"
 first_seen: "2026-11-14"
 sources: ["https://x.com/GitTrend0x/status/2121566394286248121"]
-fetched_at: "2026-11-14T15:08:18.472413+00:00"
+fetched_at: "2026-11-16T21:51:16Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # Claude Trading Skills

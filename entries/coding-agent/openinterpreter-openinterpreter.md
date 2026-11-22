@@ -3,25 +3,27 @@ name: "Open Interpreter"
 genre: "coding-agent"
 url: "https://github.com/openinterpreter/openinterpreter"
 repo: "openinterpreter/openinterpreter"
-stars: 68864
-forks: 5943
-open_issues: 39
-size_kb: 285189
+stars: 68895
+forks: 5950
+open_issues: 36
+size_kb: 306302
 language: "Rust"
 created: "2023-07-14"
-updated: "2026-11-11"
+updated: "2026-11-15"
 archived: false
 license: "Apache-2.0"
-commits_30d: 11
+commits_30d: 20
 commits_90d: 100
-commit_cadence: "weekly"
+commit_cadence: "daily"
 flags: ["unverified"]
 risk_notes: "一次資料で未確認: 技術背景・有効性・依存関係・実行条件。"
 type: "repo"
 added: "2026-11-11"
 first_seen: "2026-11-11"
 sources: ["https://x.com/thegreatest_sv/status/2118325722850697573"]
-fetched_at: "2026-11-11T19:07:28.427910+00:00"
+fetched_at: "2026-11-16T21:46:48Z"
+last_release: "rust-v0.0.61"
+last_release_at: "2026-11-11"
 ---
 
 # Open Interpreter

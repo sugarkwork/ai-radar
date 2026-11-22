@@ -3,13 +3,13 @@ name: "Free Programming Books"
 genre: "other"
 url: "https://github.com/EbookFoundation/free-programming-books"
 repo: "EbookFoundation/free-programming-books"
-stars: 401413
-forks: 67628
-open_issues: 100
-size_kb: 22279
+stars: 401702
+forks: 67883
+open_issues: 118
+size_kb: 22355
 language: "Python"
 created: "2013-10-11"
-updated: "2026-11-07"
+updated: "2026-11-12"
 archived: false
 license: "CC-BY-4.0"
 commits_30d: 46
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-11"
 first_seen: "2026-11-11"
 sources: ["https://x.com/fhwofjow51260/status/2118318582299759006"]
-fetched_at: "2026-11-11T18:04:52.717749+00:00"
+fetched_at: "2026-11-16T21:59:53Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # Free Programming Books

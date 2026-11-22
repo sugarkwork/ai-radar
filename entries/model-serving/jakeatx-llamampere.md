@@ -6,24 +6,24 @@ url: https://github.com/JakeATX/llamAmpere
 license: MIT
 language: C++
 created: 2026-09-07
-updated: "2026-11-09"
+updated: "2026-11-14"
 added: 2026-11-04
 first_seen: 2026-11-04
 sources:
   - https://x.com/ai_hakase_/status/2117527965277773956
 flags: []
 risk_notes: ""
-stars: 303
-forks: 37
-open_issues: 11
+stars: 385
+forks: 45
+open_issues: 13
 commits_30d: 100
 commits_90d: 100
 commit_cadence: "daily"
-size_kb: 390516
+size_kb: 390712
 archived: false
-fetched_at: "2026-11-09T21:39:57Z"
-last_release: "v0.6.3.10"
-last_release_at: "2026-11-09"
+fetched_at: "2026-11-16T21:56:28Z"
+last_release: "v0.6.4"
+last_release_at: "2026-11-11"
 ---
 
 # llamAmpere

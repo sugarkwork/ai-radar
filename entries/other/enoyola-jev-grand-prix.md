@@ -23,7 +23,7 @@ type: "repo"
 added: "2026-11-11"
 first_seen: "2026-11-11"
 sources: ["https://x.com/thegreatest_sv/status/2115779290033803462"]
-fetched_at: "2026-11-10T12:33:58+00:00"
+fetched_at: "2026-11-16T22:00:05Z"
 ---
 
 # Jev Grand Prix — AIの判断と高頻度の車両制御を分けたブラウザーレース

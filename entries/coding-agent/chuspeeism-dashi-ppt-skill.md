@@ -4,11 +4,11 @@ genre: "coding-agent"
 url: "https://github.com/chuspeeism/dashi-ppt-skill"
 repo: "chuspeeism/dashi-ppt-skill"
 license: "AGPL-3.0"
-stars: 10694
+stars: 10750
 language: "JavaScript"
 created: "2026-06-10"
 updated: "2026-11-06"
-forks: 910
+forks: 916
 open_issues: 16
 commits_30d: 2
 commit_cadence: "monthly"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-15"
 first_seen: "2026-11-15"
 sources: ["https://x.com/ruyi3699/status/2118908549656969652"]
-fetched_at: "2026-11-15T00:13:21.647614+00:00"
+fetched_at: "2026-11-16T21:43:05Z"
+last_release: "readme-assets-v1"
+last_release_at: "2026-07-07"
 ---
 
 # Dashi PPT Skill

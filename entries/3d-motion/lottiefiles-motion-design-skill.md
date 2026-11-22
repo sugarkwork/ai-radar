@@ -3,8 +3,8 @@ repo: "LottieFiles/motion-design-skill"
 name: "Motion Design Skill"
 genre: "3d-motion"
 url: "https://github.com/LottieFiles/motion-design-skill"
-stars: 2921
-forks: 200
+stars: 3227
+forks: 233
 open_issues: 4
 size_kb: 34
 language: "unknown"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-10"
 first_seen: "2026-11-10"
 sources: ["https://x.com/Y0urDumble/status/2115193601458151552"]
-fetched_at: "2026-11-10T11:59:30Z"
+fetched_at: "2026-11-16T21:33:47Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # Motion Design SkillでAIにUIアニメーションの設計指針を渡す

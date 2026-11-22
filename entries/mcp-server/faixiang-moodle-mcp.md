@@ -5,7 +5,7 @@ url: "https://github.com/Faixiang/Moodle-MCP"
 repo: "Faixiang/Moodle-MCP"
 flags: ["unverified"]
 risk_notes: "利用にはWeb ServicesとREST protocolが有効なMoodle 3.x/4.xサイト、およびwebservice/rest:use capabilityを持つアカウントが必要。ファイルのローカル保存機能を使う場合は保存先を指定する。"
-stars: 206
+stars: 208
 forks: 0
 open_issues: 0
 size_kb: 265
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-14"
 first_seen: "2026-11-14"
 sources: ["https://x.com/Ryrenz/status/2118707230270763082"]
-fetched_at: "2026-11-13T19:10:39.944066+00:00"
+fetched_at: "2026-11-16T21:54:10Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # Moodle-MCP

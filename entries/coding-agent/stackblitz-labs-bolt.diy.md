@@ -4,16 +4,16 @@ genre: "coding-agent"
 url: "https://github.com/stackblitz-labs/bolt.diy"
 repo: "stackblitz-labs/bolt.diy"
 license: "MIT"
-stars: 20087
+stars: 20095
 language: "TypeScript"
 created: "2024-10-13"
-updated: "2026-10-14"
-forks: 10614
-open_issues: 14
-commits_30d: 0
-commit_cadence: "monthly"
+updated: "2026-11-16"
+forks: 10611
+open_issues: 3
+commits_30d: 65
+commit_cadence: "daily"
 commits_90d: 100
-size_kb: 14941
+size_kb: 14947
 archived: false
 flags: ["unverified"]
 risk_notes: "WebContainers APIにはエンタープライズ展開向けの個別の商用ライセンス条件があるとREADMEに記載。"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-14"
 first_seen: "2026-11-14"
 sources: ["https://x.com/thegreatest_sv/status/2118770137646162218"]
-fetched_at: "2026-11-14T04:12:34.300392+00:00"
+fetched_at: "2026-11-16T21:47:33Z"
+last_release: "v1.0.3"
+last_release_at: "2026-11-15"
 ---
 
 # bolt.diy

@@ -5,7 +5,7 @@ url: "https://github.com/DrHazemAli/enterprise-system-design"
 repo: "DrHazemAli/enterprise-system-design"
 flags: ["unverified"]
 risk_notes: "READMEにライセンス条件の記載がなく、ライセンスは確認できていません。 GitHub APIでライセンスを確認できていません。"
-stars: 659
+stars: 660
 forks: 135
 open_issues: 1
 size_kb: 51837
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-13"
 first_seen: "2026-11-13"
 sources: ["https://x.com/Ryrenz/status/2118677036923261317"]
-fetched_at: "2026-11-13T14:10:31.223872+00:00"
+fetched_at: "2026-11-16T21:59:46Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # Enterprise System Design

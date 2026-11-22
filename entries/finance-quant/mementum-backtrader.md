@@ -4,7 +4,7 @@ name: "backtrader"
 genre: finance-quant
 url: "https://github.com/mementum/backtrader"
 license: "GPL-3.0"
-stars: 23701
+stars: 23753
 language: "Python"
 created: "2015-01-10"
 updated: "2024-08-19"
@@ -13,14 +13,14 @@ first_seen: "2026-11-03"
 sources: []
 flags: []
 risk_notes: ""
-forks: 5324
+forks: 5329
 open_issues: 64
 commits_30d: 0
 commits_90d: 0
 commit_cadence: "stale"
 size_kb: 22460
 archived: false
-fetched_at: "2026-11-09T21:37:36Z"
+fetched_at: "2026-11-16T21:50:36Z"
 last_release: ""
 last_release_at: ""
 ---

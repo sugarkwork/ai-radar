@@ -5,9 +5,9 @@ genre: "3d-motion"
 url: "https://github.com/viettranx/3dviz-pro-max"
 flags: ["unverified"]
 risk_notes: "描画・導入は独立に再現していない。README掲載の作者評価は各条件1件で、品質向上の一般化は未確認。作者資料でもCodexアプリへの導入とClaude Codeのマーケットプレイス経由の導入は未検証。冒頭の村の映像はスキル開発前の素材で、再配布権は確認中。"
-stars: 1212
-forks: 138
-open_issues: 2
+stars: 1361
+forks: 157
+open_issues: 1
 size_kb: 71449
 language: "JavaScript"
 created: "2026-09-10"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-10"
 first_seen: "2026-11-10"
 sources: ["https://x.com/CryptooGG_/status/2119312343892976064"]
-fetched_at: "2026-11-10T12:11:29+00:00"
+fetched_at: "2026-11-16T21:35:24Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # 3Dviz Pro Max｜Claude Code・Codex向けの対話型3D制作スキル

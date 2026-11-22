@@ -3,8 +3,8 @@ name: "TweenJS"
 genre: "other"
 url: "https://github.com/CreateJS/TweenJS"
 repo: "CreateJS/TweenJS"
-stars: 3553
-forks: 936
+stars: 3568
+forks: 940
 open_issues: 12
 size_kb: 25241
 language: "JavaScript"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-15"
 first_seen: "2026-11-15"
 sources: ["https://x.com/Feljoy_ix/status/2121787138455040333"]
-fetched_at: "2026-11-15T03:18:46.721176+00:00"
+fetched_at: "2026-11-16T21:59:17Z"
+last_release: "1.0.0"
+last_release_at: "2017-09-27"
 ---
 
 # TweenJS

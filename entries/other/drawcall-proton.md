@@ -4,11 +4,11 @@ genre: "other"
 url: "https://github.com/drawcall/Proton"
 repo: "drawcall/Proton"
 license: "MIT"
-stars: 2499
+stars: 2521
 language: "JavaScript"
 created: "2013-07-10"
 updated: "2026-03-06"
-forks: 283
+forks: 288
 open_issues: 17
 commits_30d: 0
 commit_cadence: "stale"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-15"
 first_seen: "2026-11-15"
 sources: ["https://x.com/Feljoy_ix/status/2121787138455040333"]
-fetched_at: "2026-11-15T03:22:55.956368+00:00"
+fetched_at: "2026-11-16T21:59:41Z"
+last_release: "v5.4.3"
+last_release_at: "2022-04-28"
 ---
 
 # Proton

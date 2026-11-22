@@ -7,13 +7,13 @@ license: "unknown"
 stars: 3
 language: "Python"
 created: "2026-09-27"
-updated: "2026-11-10"
+updated: "2026-11-16"
 forks: 1
 open_issues: 0
 commits_30d: 100
 commit_cadence: "daily"
 commits_90d: 100
-size_kb: 260686
+size_kb: 291733
 archived: false
 flags: ["unverified"]
 risk_notes: "GitHub上の表示版READMEを確認。現在の成績、動作の再現性、外部サービスの現行料金、最新リリースは未確認。コードの再配布・改変を許諾するライセンスは確認できていない。 GitHub APIでライセンスを確認できていません。"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-10"
 first_seen: "2026-11-10"
 sources: ["https://x.com/thegreatest_sv/status/2115461838607659474"]
-fetched_at: "2026-11-10T12:20:27+00:00"
+fetched_at: "2026-11-16T21:50:41Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # Jev Paper Trader — 予測市場でClaudeの調査が予測精度に効くかを比較する

@@ -21,7 +21,9 @@ added: "2026-11-10"
 first_seen: "2026-11-10"
 risk_notes: ""
 sources: ["https://x.com/thegreatest_sv/status/2115461838607659474"]
-fetched_at: "2026-11-10T12:20:49+00:00"
+fetched_at: "2026-11-16T21:51:23Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # jev-polymarket-test — Jevの予測をPolymarketの価格と比較する評価コード

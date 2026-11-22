@@ -5,13 +5,13 @@ url: "https://github.com/apify/apify-mcp-server"
 repo: "apify/apify-mcp-server"
 flags: ["unverified"]
 risk_notes: "Actorの料金や実行条件は個々のActorによって異なる可能性があるが、READMEから一律の条件や費用は確認できない。記載された効果はREADME上の説明であり、独立検証していない。"
-stars: 15564
-forks: 444
-open_issues: 253
-size_kb: 10980
+stars: 16558
+forks: 459
+open_issues: 266
+size_kb: 11670
 language: "TypeScript"
 created: "2025-01-02"
-updated: "2026-11-10"
+updated: "2026-11-16"
 archived: false
 license: "MIT"
 commits_30d: 100
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-11"
 first_seen: "2026-11-11"
 sources: ["https://x.com/Y0urDumble/status/2116341413755453670"]
-fetched_at: "2026-11-10T13:38:35.474660+00:00"
+fetched_at: "2026-11-16T21:53:45Z"
+last_release: "v0.21.11"
+last_release_at: "2026-11-16"
 ---
 
 # Apify MCP server

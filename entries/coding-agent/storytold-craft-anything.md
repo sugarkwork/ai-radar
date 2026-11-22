@@ -4,23 +4,23 @@ name: Craft Anything
 genre: coding-agent
 url: https://github.com/storytold/craft-anything
 license: Apache-2.0
-stars: 24308
+stars: 34695
 language: Rust
 created: 2026-10-31
-updated: "2026-11-09"
+updated: "2026-11-16"
 added: 2026-11-03
 sources:
   - https://x.com/rammcodes/status/2117515072893284799
-forks: 4863
-open_issues: 275
+forks: 6997
+open_issues: 376
 commits_30d: 100
 commits_90d: 100
 commit_cadence: "daily"
-size_kb: 10977
+size_kb: 19038
 archived: false
-fetched_at: "2026-11-09T21:36:50Z"
-last_release: "v0.6.0"
-last_release_at: "2026-11-09"
+fetched_at: "2026-11-16T21:47:38Z"
+last_release: "v0.6.1"
+last_release_at: "2026-11-12"
 ---
 
 # Craft Anything

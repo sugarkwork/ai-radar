@@ -4,26 +4,26 @@ name: "n8n"
 genre: "agent-framework"
 url: "https://github.com/n8n-io/n8n"
 license: "unknown"
-stars: 209990
+stars: 210649
 language: "TypeScript"
 created: "2019-06-22"
-updated: "2026-11-10"
-forks: 61430
-open_issues: 1225
+updated: "2026-11-16"
+forks: 61526
+open_issues: 1278
 commits_30d: 100
 commit_cadence: "daily"
 commits_90d: 100
-size_kb: 803402
+size_kb: 827541
 archived: false
-last_release: "n8n@2.47.3"
-last_release_at: "2026-11-09"
+last_release: "n8n@2.47.7"
+last_release_at: "2026-11-13"
 flags: ["unverified"]
 risk_notes: "公式資料で機能と設定手順を確認。Docker起動、MCP接続、ワークフロー実行は未試験。発見投稿のGrok Botとの接続や節約効果は未確認。 GitHub APIでライセンスを確認できていません。"
 type: "repo"
 added: "2026-11-10"
 first_seen: "2026-11-10"
 sources: ["https://x.com/thegreatest_sv/status/2117960732184633699"]
-fetched_at: "2026-11-10T11:13:28+00:00"
+fetched_at: "2026-11-16T21:39:29Z"
 ---
 
 # n8n — AIエージェントとアプリ連携のワークフロー自動化

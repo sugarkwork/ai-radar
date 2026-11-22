@@ -5,7 +5,7 @@ url: "https://github.com/codejunkie99/system-design-skill"
 repo: "codejunkie99/system-design-skill"
 flags: ["unverified"]
 risk_notes: "READMEによると、実利用はまだなく、テストはURL短縮サービスの模擬インタビュー1回のみ。応答時間、レート制限、tier境界の一部は提案値で、ピーク負荷の2倍設定に標準的根拠はない。README記載の範囲では依存関係の詳細は確認できない。"
-stars: 9
+stars: 10
 forks: 1
 open_issues: 0
 size_kb: 12
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-11"
 first_seen: "2026-11-11"
 sources: ["https://x.com/Av1dlive/status/2116940187662217667"]
-fetched_at: "2026-11-10T14:10:16.314296+00:00"
+fetched_at: "2026-11-16T21:43:16Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # system-design-skill

@@ -5,24 +5,24 @@ name: "ontosmith"
 genre: "agent"
 url: "https://github.com/Dongbumlee/ontosmith"
 license: "MIT"
-stars: 259
+stars: 285
 language: "Python"
 created: "2026-10-22"
-updated: "2026-11-08"
-forks: 26
+updated: "2026-11-13"
+forks: 28
 open_issues: 1
 commits_30d: 100
 commits_90d: 100
 commit_cadence: "daily"
-size_kb: 32035
+size_kb: 32267
 archived: false
 added: "2026-11-09"
-fetched_at: "2026-11-09T21:32:04Z"
+fetched_at: "2026-11-16T21:35:37Z"
 flags: ["unverified"]
 risk_notes: "MIT。引用が実在しても関係が真とは限らず、出典付き記録は数学的証明ではない。モデル判定や費用を実データで検証する必要がある。 実行・品質は未検証。"
 sources: ["https://x.com/i/status/2119417274314396148", "https://github.com/Dongbumlee/ontosmith"]
-last_release: "v0.1.9"
-last_release_at: "2026-11-07"
+last_release: "v0.2.0"
+last_release_at: "2026-11-13"
 ---
 
 # ontosmith

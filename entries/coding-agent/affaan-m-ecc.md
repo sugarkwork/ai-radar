@@ -4,16 +4,16 @@ genre: "coding-agent"
 url: "https://github.com/affaan-m/ECC"
 repo: "affaan-m/ECC"
 license: "MIT"
-stars: 303847
+stars: 304545
 language: "JavaScript"
 created: "2026-01-18"
-updated: "2026-11-15"
-forks: 44785
-open_issues: 283
+updated: "2026-11-16"
+forks: 44853
+open_issues: 166
 commits_30d: 100
 commit_cadence: "daily"
 commits_90d: 100
-size_kb: 62275
+size_kb: 63116
 archived: false
 flags: ["unverified"]
 risk_notes: "READMEには、実行に必要な具体的な依存関係や環境条件の記載がありません。"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-16"
 first_seen: "2026-11-16"
 sources: ["https://x.com/abir35627/status/2119005116410081516"]
-fetched_at: "2026-11-16T00:28:20.380693+00:00"
+fetched_at: "2026-11-16T21:42:20Z"
+last_release: "v2.2.3"
+last_release_at: "2026-10-01"
 ---
 
 # ECC

@@ -5,13 +5,13 @@ genre: "coding-agent"
 url: "https://github.com/OrchestratorInc/agent-orchestrator"
 flags: ["unverified"]
 risk_notes: "最新リリースのタグと公開日時、クラウドと外部エージェントの料金は未確認。並列実行の性能、CIやレビュー指摘の差し戻し、モバイル通知と応答は公式文書の記載に基づき、実機では未検証。"
-stars: 14373
-forks: 1955
-open_issues: 924
-size_kb: 658927
+stars: 14816
+forks: 2034
+open_issues: 1027
+size_kb: 726658
 language: "Go"
 created: "2026-02-13"
-updated: "2026-11-10"
+updated: "2026-11-16"
 archived: false
 license: "Apache-2.0"
 commits_30d: 100
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-10"
 first_seen: "2026-11-10"
 sources: ["https://x.com/opensourcelab9/status/2117225240451535192"]
-fetched_at: "2026-11-10T08:23:40+00:00"
+fetched_at: "2026-11-16T21:46:52Z"
+last_release: "v0.15.3"
+last_release_at: "2026-11-16"
 ---
 
 # Agent Orchestratorで複数のコーディングエージェントとPRを管理する

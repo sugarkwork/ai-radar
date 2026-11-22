@@ -4,11 +4,11 @@ genre: "3d-motion"
 url: "https://github.com/pmndrs/react-three-rapier"
 repo: "pmndrs/react-three-rapier"
 license: "MIT"
-stars: 1613
+stars: 1665
 language: "TypeScript"
 created: "2022-04-30"
 updated: "2026-10-12"
-forks: 106
+forks: 114
 open_issues: 55
 commits_30d: 0
 commit_cadence: "stale"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-14"
 first_seen: "2026-11-14"
 sources: ["https://x.com/thegreatest_sv/status/2118724335905148990"]
-fetched_at: "2026-11-13T21:14:36.468889+00:00"
+fetched_at: "2026-11-16T21:34:42Z"
+last_release: "@react-three/rapier@2.2.0"
+last_release_at: "2025-11-03"
 ---
 
 # React Three Rapier

@@ -4,26 +4,26 @@ name: OfficeCLI
 genre: other
 url: https://github.com/iOfficeAI/OfficeCLI
 license: Apache-2.0
-stars: 33171
+stars: 33352
 language: C#
 created: 2026-03-15
-updated: "2026-10-30"
+updated: "2026-11-16"
 added: 2026-11-05
 first_seen: 2026-11-04
 source_post: https://x.com/thegreatest_sv/status/2117687388214272339
 sources: []
 flags: []
 risk_notes: ""
-forks: 2271
-open_issues: 145
-commits_30d: 80
-size_kb: 322871
+forks: 2276
+open_issues: 134
+commits_30d: 89
+size_kb: 323472
 archived: false
 commits_90d: 100
 commit_cadence: "daily"
-fetched_at: "2026-11-09T21:41:06Z"
-last_release: "v1.0.160"
-last_release_at: "2026-10-30"
+fetched_at: "2026-11-16T22:01:20Z"
+last_release: "v1.0.162"
+last_release_at: "2026-11-16"
 ---
 
 # OfficeCLI

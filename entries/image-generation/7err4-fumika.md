@@ -22,7 +22,7 @@ sources: ["https://x.com/dextune/status/2119301388857745593", "https://github.co
 added: "2026-11-09"
 first_seen: "2026-11-09"
 source_post: "https://x.com/dextune/status/2119301388857745593"
-fetched_at: "2026-11-09T21:38:45Z"
+fetched_at: "2026-11-16T21:53:04Z"
 flags: ["unverified"]
 last_release: "v0.1.1"
 last_release_at: "2026-10-25"

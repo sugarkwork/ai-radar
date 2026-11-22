@@ -4,16 +4,16 @@ genre: "agent-framework"
 url: "https://github.com/murtaza-nasir/speakr"
 repo: "murtaza-nasir/speakr"
 license: "AGPL-3.0"
-stars: 4172
+stars: 4180
 language: "Python"
 created: "2025-05-05"
-updated: "2026-11-13"
-forks: 359
-open_issues: 7
+updated: "2026-11-16"
+forks: 361
+open_issues: 6
 commits_30d: 100
 commit_cadence: "daily"
 commits_90d: 100
-size_kb: 131489
+size_kb: 134628
 archived: false
 flags: ["unverified"]
 risk_notes: "料金はREADMEで確認できない。"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-14"
 first_seen: "2026-11-14"
 sources: ["https://x.com/ruyi3699/status/2118768879308505192"]
-fetched_at: "2026-11-14T04:11:35.668455+00:00"
+fetched_at: "2026-11-16T21:39:26Z"
+last_release: "v0.11.0"
+last_release_at: "2026-11-16"
 ---
 
 # Speakr

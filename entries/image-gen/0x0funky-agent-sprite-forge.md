@@ -4,10 +4,10 @@ name: "Agent Sprite Forge"
 genre: image-gen
 url: "https://github.com/0x0funky/agent-sprite-forge"
 license: "MIT"
-stars: 5456
+stars: 5778
 language: "Python"
 created: "2026-04-23"
-updated: "2026-11-06"
+updated: "2026-11-13"
 added: "2026-11-03"
 flags: [unverified]
 risk_notes: "元ポストは「ゲームエンジンへの取り込みは未確認」と留保するが、README は Godot/Aseprite/Tiled/LDtk 書き出しを検証済みと明記。実機検証は未実施。"
@@ -15,16 +15,16 @@ source_post: "https://x.com/AiAircle34052/status/2117493224118047187"
 sources:
   - "https://x.com/AiAircle34052/status/2117493224118047187"
   - "https://x.com/Mnilax/status/2116583914684702837"
-forks: 533
+forks: 562
 open_issues: 14
-commits_30d: 3
+commits_30d: 19
 commits_90d: 100
-commit_cadence: "monthly"
-size_kb: 99664
+commit_cadence: "weekly"
+size_kb: 105675
 archived: false
-fetched_at: "2026-11-09T21:38:09Z"
-last_release: "v0.4.0"
-last_release_at: "2026-10-06"
+fetched_at: "2026-11-16T21:51:34Z"
+last_release: "v0.6.0"
+last_release_at: "2026-11-13"
 ---
 
 # Agent Sprite Forge

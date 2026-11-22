@@ -4,12 +4,12 @@ genre: "coding-agent"
 url: "https://github.com/deusyu/translate-book"
 repo: "deusyu/translate-book"
 license: "MIT"
-stars: 2412
+stars: 2425
 language: "Python"
 created: "2026-03-15"
 updated: "2026-11-07"
-forks: 278
-open_issues: 1
+forks: 279
+open_issues: 2
 commits_30d: 8
 commit_cadence: "weekly"
 commits_90d: 16
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-15"
 first_seen: "2026-11-15"
 sources: ["https://x.com/bkdgiffug/status/2118920628938088657"]
-fetched_at: "2026-11-15T02:08:31.220482+00:00"
+fetched_at: "2026-11-16T21:43:49Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # Rainman Translate Book

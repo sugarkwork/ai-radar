@@ -15,16 +15,16 @@ repo: "cactus-compute/cactus"
 license: "Apache-2.0"
 language: "Python"
 created: "2026-02-24"
-updated: "2026-11-07"
-stars: 14620
-forks: 1017
-open_issues: 7
-commits_30d: 32
+updated: "2026-11-16"
+stars: 14775
+forks: 1040
+open_issues: 5
+commits_30d: 30
 commits_90d: 100
 commit_cadence: "daily"
-size_kb: 4940
+size_kb: 4857
 archived: false
-fetched_at: "2026-11-09T21:39:39Z"
+fetched_at: "2026-11-16T21:55:51Z"
 last_release: ""
 last_release_at: ""
 ---

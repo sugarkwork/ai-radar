@@ -6,21 +6,21 @@ genre: "coding-agent"
 url: "https://github.com/cursor/plugins"
 author: "Lauren Tan (@poteto)"
 license: "MIT"
-stars: 15853
+stars: 16618
 language: "TypeScript"
 created: "2026-01-23"
-updated: "2026-11-09"
-forks: 1657
-open_issues: 642
+updated: "2026-11-16"
+forks: 1773
+open_issues: 666
 commits_30d: 100
 commits_90d: 100
 commit_cadence: "daily"
-size_kb: 18577
+size_kb: 18883
 archived: false
 last_release: ""
 last_release_at: ""
 added: "2026-11-09"
-fetched_at: "2026-11-09T21:36:01Z"
+fetched_at: "2026-11-16T21:43:35Z"
 flags: ["unverified"]
 risk_notes: "【投稿の主張と実体】投稿は『SpaceXAI の Lauren Tan が /loop と /goal を使って80以上の GrokBot エージェントを動かし、85%のエンジニアが10以上を並列運用、Chief of Staff agent が全体を管理』と引用するが、この引用は一次情報で確認できなかった。添付動画（実測 55分47秒 / 1920x1078 / 30fps）を取得し7点のフレームを確認したところ、話者カードは『Lauren Tan / Software engineer | SpaceXAI』で本人の講演だが、内容は trust ladder・検証スキル・pstack・社内フレームワーク Dune の説明で、確認した範囲に『80+ agents』『/loop』『/goal』『Chief of Staff』『85%』は出てこない。同一講演の公開版（@poteto 本人投稿、38:02、『how i shipped 2,500 PRs last month』）の書き起こしにも該当発言はなく、『80%』は別の再アップロードの書き起こしでは『仕事の8割は1ディレクトリに閉じる』という局所性の文脈で出ており、エージェント数の主張とは無関係。同じ講演を再アップロードしたYouTubeチャンネル複数が『20+』『15+』『80+ agents』『85%』『1%』と互いに矛盾する煽り文を説明欄に付けており、投稿の引用はこの種の二次的な煽り文と一致する。よって引用は出典不明（本人発言として未確認）。/loop と /goal は Cursor Agent（および Grok Build）のスラッシュコマンドで、Grok Bot のコマンドではない（pstack README も『cursor's /loop command』と明記）。『85%のエンジニアが10+』は一次情報なし。Lauren Tan の所属自体は本物で、元 Meta（React Compiler）→ Cursor → SpaceXAI の Grok Bot 担当（動画の話者カード、GitHub、本人投稿で一致）。【指標の注意】pstack は cursor/plugins モノレポ内のサブディレクトリで単独リポジトリは存在しない。stars/forks/open_issues は親リポジトリ全体の値（15,813 / 1,653 / 641）。size_kb は pstack 配下の blob 合計 6,295,660 bytes の KB 換算（6,148KB）で、親リポジトリ全体は 18,538KB。commits は path=pstack で絞った実測（30日69、90日99）。親リポジトリ直下にライセンスはないが pstack/LICENSE は MIT。投稿の引用元X記事2件（2091522676426694656 等）は非ログインでログイン画面へリダイレクトされ本文を読めないことを実際に確認しており、内容は推測していない。"
 sources: ["https://github.com/cursor/plugins/tree/main/pstack", "https://github.com/cursor/plugins/blob/main/pstack/README.md", "https://github.com/cursor/plugins/blob/main/pstack/plugin.json", "https://github.com/cursor/plugins/blob/main/pstack/LICENSE", "https://github.com/cursor/plugins/blob/main/pstack/docs/guide/01-setup.md", "https://github.com/cursor/plugins/pull/73", "https://x.com/poteto/status/2102050467505430555", "https://ai.engineer/speakers/lauren-tan", "https://cursor.com/docs/agent/overview", "https://x.com/xsmryze/status/2109764661356671245"]

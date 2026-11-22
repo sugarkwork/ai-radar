@@ -3,13 +3,13 @@ repo: "can1357/oh-my-pi"
 name: "oh-my-pi"
 genre: "coding-agent"
 url: "https://github.com/can1357/oh-my-pi"
-stars: 38506
-forks: 4380
-open_issues: 4675
-size_kb: 798069
+stars: 39203
+forks: 4489
+open_issues: 4930
+size_kb: 821633
 language: "TypeScript"
 created: "2025-12-31"
-updated: "2026-11-10"
+updated: "2026-11-16"
 archived: false
 license: "MIT"
 commits_30d: 100
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-10"
 first_seen: "2026-11-10"
 sources: ["https://x.com/opensourcelab9/status/2114967848775041508"]
-fetched_at: "2026-11-10T11:46:58Z"
+fetched_at: "2026-11-16T21:42:49Z"
+last_release: "v18.21.0"
+last_release_at: "2026-11-16"
 ---
 
 # oh-my-pi — LSPを統合した端末向けAIコーディングエージェント

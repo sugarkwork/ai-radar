@@ -4,16 +4,16 @@ genre: "mcp-server"
 url: "https://github.com/kgoedecke/doop"
 repo: "kgoedecke/doop"
 license: "AGPL-3.0"
-stars: 2069
+stars: 2078
 language: "TypeScript"
 created: "2026-08-22"
 updated: "2026-11-16"
-forks: 265
-open_issues: 90
+forks: 263
+open_issues: 89
 commits_30d: 100
 commit_cadence: "daily"
 commits_90d: 100
-size_kb: 19763
+size_kb: 19644
 archived: false
 flags: ["unverified"]
 risk_notes: "一次資料で未確認: 技術背景・有効性・依存関係・実行条件。"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-16"
 first_seen: "2026-11-16"
 sources: ["https://x.com/awe0_io/status/2119067835708387501"]
-fetched_at: "2026-11-16T15:19:33.012423+00:00"
+fetched_at: "2026-11-16T21:54:33Z"
+last_release: "desktop-v0.14.0"
+last_release_at: "2026-11-16"
 ---
 
 # Doop

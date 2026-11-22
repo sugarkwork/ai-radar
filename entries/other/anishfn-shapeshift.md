@@ -3,7 +3,7 @@ repo: "anishfn/shapeshift"
 name: "Shapeshift"
 genre: "other"
 url: "https://github.com/anishfn/shapeshift"
-stars: 1066
+stars: 1073
 forks: 106
 open_issues: 6
 size_kb: 12116
@@ -23,7 +23,7 @@ type: "repo"
 added: "2026-11-11"
 first_seen: "2026-11-11"
 sources: ["https://x.com/thegreatest_sv/status/2115779290033803462"]
-fetched_at: "2026-11-10T12:34:19+00:00"
+fetched_at: "2026-11-16T21:58:40Z"
 ---
 
 # Shapeshift — 自然文から用途に合うUIカードを選ぶ

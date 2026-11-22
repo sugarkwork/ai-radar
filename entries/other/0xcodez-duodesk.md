@@ -6,8 +6,8 @@ url: "https://github.com/0xCodez/DuoDesk"
 last_release: "v2.5.0"
 flags: ["unverified"]
 risk_notes: "最新リリースの公開日時と配布物の署名状態は未確認。対応 OS の組み合わせ別の動作、転送性能、通信の安全性は独立検証していない。Claude Code と Opus 5.5 の利用および開発規模は、候補が指す X 投稿を直接取得できず未確認。"
-stars: 486
-forks: 79
+stars: 514
+forks: 86
 open_issues: 7
 size_kb: 21153
 language: "JavaScript"
@@ -22,7 +22,8 @@ type: "repo"
 added: "2026-11-10"
 first_seen: "2026-11-10"
 sources: ["https://x.com/AiAircle34052/status/2117462521783447830"]
-fetched_at: "2026-11-10T09:06:21Z"
+fetched_at: "2026-11-16T21:57:47Z"
+last_release_at: "2026-10-31"
 ---
 
 # DuoDesk — 複数端末でマウス・キーボードとクリップボードを共有

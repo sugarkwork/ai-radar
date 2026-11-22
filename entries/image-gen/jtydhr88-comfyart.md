@@ -4,16 +4,16 @@ genre: "image-gen"
 url: "https://github.com/jtydhr88/ComfyArt"
 repo: "jtydhr88/ComfyArt"
 license: "MIT"
-stars: 504
+stars: 562
 language: "TypeScript"
 created: "2026-10-13"
-updated: "2026-11-09"
-forks: 87
-open_issues: 0
-commits_30d: 70
+updated: "2026-11-12"
+forks: 97
+open_issues: 2
+commits_30d: 54
 commit_cadence: "daily"
-commits_90d: 70
-size_kb: 41572
+commits_90d: 73
+size_kb: 41999
 archived: false
 flags: ["unverified"]
 risk_notes: "一部の生成ワークフローが必要とするモデルやカスタムノードのローカル環境への導入条件は、READMEだけでは全て確認できない。Comfy Cloud APIキーには有料Comfyプランが必要と記載されている。"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-11"
 first_seen: "2026-11-11"
 sources: ["https://x.com/bfl_ai/status/2120281089709363685"]
-fetched_at: "2026-11-11T06:13:30.781899+00:00"
+fetched_at: "2026-11-16T21:52:04Z"
+last_release: "v1.3.0"
+last_release_at: "2026-11-12"
 ---
 
 # ComfyArt

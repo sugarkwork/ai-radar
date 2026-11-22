@@ -5,10 +5,10 @@ url: "https://github.com/gloom-sh/gloomberb"
 flags: ["unverified"]
 risk_notes: "Proの料金はREADMEに記載がありません。"
 repo: "gloom-sh/gloomberb"
-stars: 2762
+stars: 2763
 forks: 204
-open_issues: 4
-size_kb: 883982
+open_issues: 6
+size_kb: 884989
 language: "TypeScript"
 created: "2026-03-25"
 updated: "2026-11-16"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-16"
 first_seen: "2026-11-16"
 sources: ["https://x.com/ruyi3699/status/2119076909514461335"]
-fetched_at: "2026-11-16T18:09:44.171064+00:00"
+fetched_at: "2026-11-16T21:50:20Z"
+last_release: "v0.20.17"
+last_release_at: "2026-11-16"
 ---
 
 # Gloom

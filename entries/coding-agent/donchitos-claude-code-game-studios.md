@@ -5,9 +5,9 @@ genre: "coding-agent"
 url: "https://github.com/Donchitos/Claude-Code-Game-Studios"
 flags: ["unverified"]
 risk_notes: "ブラウザ試作とフックは独立実行していない。作者が報告した比較は3企画に限られ、完成した試作品の評価は同等だった。Godot・Unity・Unreal経路と設計文書による掘り下げは、作者の同等の比較評価が未実施。最新リリースのタグと日時は未確認。Claude Codeの利用料金は未確認。"
-stars: 37789
-forks: 4949
-open_issues: 96
+stars: 39760
+forks: 5190
+open_issues: 95
 size_kb: 5612
 language: "Shell"
 created: "2026-02-12"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-10"
 first_seen: "2026-11-10"
 sources: ["https://x.com/naka_1717/status/2117501380969508891"]
-fetched_at: "2026-11-10T09:14:35Z"
+fetched_at: "2026-11-16T21:43:55Z"
+last_release: "v1.3.0"
+last_release_at: "2026-11-09"
 ---
 
 # Claude Code Game Studiosでゲームの企画からブラウザ試作まで進める

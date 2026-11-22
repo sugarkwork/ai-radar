@@ -4,11 +4,11 @@ genre: "mcp-server"
 url: "https://github.com/21st-dev/magic-mcp"
 repo: "21st-dev/magic-mcp"
 license: "ISC"
-stars: 6482
+stars: 6570
 language: "TypeScript"
 created: "2025-02-19"
 updated: "2026-09-09"
-forks: 531
+forks: 536
 open_issues: 9
 commits_30d: 0
 commit_cadence: "monthly"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-14"
 first_seen: "2026-11-14"
 sources: ["https://x.com/thegreatest_sv/status/2118770137646162218"]
-fetched_at: "2026-11-14T04:13:04.640182+00:00"
+fetched_at: "2026-11-16T21:53:36Z"
+last_release: "v0.2.3"
+last_release_at: "2026-09-09"
 ---
 
 # 21st MCP compatibility proxy (formerly Magic MCP)

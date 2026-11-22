@@ -4,16 +4,16 @@ genre: "3d-motion"
 url: "https://github.com/nortikin/sverchok"
 repo: "nortikin/sverchok"
 license: "GPL-3.0"
-stars: 2557
+stars: 2559
 language: "Python"
 created: "2013-10-26"
-updated: "2026-11-10"
-forks: 247
-open_issues: 212
-commits_30d: 24
+updated: "2026-11-16"
+forks: 248
+open_issues: 207
+commits_30d: 27
 commit_cadence: "daily"
-commits_90d: 28
-size_kb: 732639
+commits_90d: 32
+size_kb: 732762
 archived: false
 flags: ["unverified"]
 risk_notes: "Blender 5.1、4.5、3.6、2.8対応との記載。追加ライブラリは一部ノードで必要。個別機能の依存条件はREADME記載のDependencies資料を参照。"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-11"
 first_seen: "2026-11-11"
 sources: ["https://x.com/RealMarvelX/status/2118330503040221345"]
-fetched_at: "2026-11-11T20:09:27.753551+00:00"
+fetched_at: "2026-11-16T21:34:19Z"
+last_release: "v1.4.0"
+last_release_at: "2026-03-05"
 ---
 
 # Sverchok

@@ -4,24 +4,26 @@ name: "New Term Radar"
 genre: "mcp-server"
 url: "https://github.com/zhuyansen/new-term-radar"
 flags: ["unverified"]
-stars: 2147
-forks: 642
-open_issues: 3
-size_kb: 4649
+stars: 2182
+forks: 649
+open_issues: 4
+size_kb: 6424
 language: "Python"
 created: "2026-10-12"
-updated: "2026-11-02"
+updated: "2026-11-16"
 archived: false
 license: "MIT"
-commits_30d: 54
-commits_90d: 54
+commits_30d: 28
+commits_90d: 55
 commit_cadence: "daily"
 type: "repo"
 added: "2026-11-10"
 first_seen: "2026-11-10"
 risk_notes: ""
 sources: ["https://x.com/GoSailGlobal/status/2117474999221285252"]
-fetched_at: "2026-11-10T09:08:23Z"
+fetched_at: "2026-11-16T21:55:41Z"
+last_release: "v0.6.1"
+last_release_at: "2026-10-28"
 ---
 
 # New Term Radar — AIの新語を追跡して検索語候補を調べるCLI・MCP

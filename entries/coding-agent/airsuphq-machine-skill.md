@@ -7,21 +7,23 @@ license: "MIT"
 language: "JavaScript"
 created: "2026-10-12"
 updated: "2026-10-13"
-commits_30d: 8
-commit_cadence: "weekly"
+commits_30d: 0
+commit_cadence: "monthly"
 commits_90d: 8
 archived: false
 flags: ["unverified"]
 risk_notes: "README記載の機能や数値はリポジトリの説明に基づき、独立検証していない。生成結果の精度や動作条件は未確認。"
-stars: 625
-forks: 83
+stars: 692
+forks: 92
 open_issues: 4
 size_kb: 17276
 type: "repo"
 added: "2026-11-11"
 first_seen: "2026-11-11"
 sources: ["https://x.com/Bober_smart/status/2116895220491276469"]
-fetched_at: "2026-11-10T14:08:41.744771+00:00"
+fetched_at: "2026-11-16T21:42:30Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # Machine Skill

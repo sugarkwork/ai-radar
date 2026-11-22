@@ -4,8 +4,8 @@ name: "social-auto-upload"
 genre: "other"
 url: "https://github.com/dreammis/social-auto-upload"
 license: "MIT"
-stars: 16378
-forks: 2777
+stars: 16605
+forks: 2814
 open_issues: 87
 size_kb: 24752
 language: "Python"
@@ -13,7 +13,7 @@ created: "2023-12-04"
 updated: "2026-10-22"
 archived: false
 commits_30d: 16
-commits_90d: 43
+commits_90d: 34
 commit_cadence: "weekly"
 last_release: "v1.0.0-skills.2"
 flags: ["unverified"]
@@ -22,7 +22,8 @@ type: "repo"
 added: "2026-11-10"
 first_seen: "2026-11-10"
 sources: ["https://x.com/ganfanren_ai/status/2117237474493968435"]
-fetched_at: "2026-11-10T08:28:22Z"
+fetched_at: "2026-11-16T21:59:44Z"
+last_release_at: "2026-10-22"
 ---
 
 # social-auto-upload｜動画・画像付き投稿・記事を配信するCLIとAgent Skill

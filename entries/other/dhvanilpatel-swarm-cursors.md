@@ -4,12 +4,12 @@ genre: "other"
 url: "https://github.com/DhvanilPatel/swarm-cursors"
 repo: "DhvanilPatel/swarm-cursors"
 license: "unknown"
-stars: 3339
+stars: 3428
 language: "JavaScript"
 created: "2026-10-14"
 updated: "2026-11-11"
-forks: 365
-open_issues: 20
+forks: 378
+open_issues: 21
 commits_30d: 7
 commit_cadence: "weekly"
 commits_90d: 9
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-16"
 first_seen: "2026-11-16"
 sources: ["https://x.com/awe0_io/status/2119017257707941899"]
-fetched_at: "2026-11-16T01:29:01.580550+00:00"
+fetched_at: "2026-11-16T21:59:31Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # Swarm Rebuild

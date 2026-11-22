@@ -13,15 +13,15 @@ sources:
   - https://x.com/awe0_io/status/2117581510547312710
 flags: []
 risk_notes: "AGPL-3.0。ネットワーク経由で提供する場合はソース公開義務が生じる。生成物の権利・出版条件は利用者側で確認。"
-stars: 11086
-forks: 2015
-open_issues: 251
+stars: 11253
+forks: 2029
+open_issues: 250
 commits_30d: 6
 commits_90d: 100
 commit_cadence: "weekly"
 size_kb: 31015
 archived: false
-fetched_at: "2026-11-09T21:34:01Z"
+fetched_at: "2026-11-16T21:39:39Z"
 last_release: "v1.8.0"
 last_release_at: "2026-08-17"
 ---

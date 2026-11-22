@@ -5,7 +5,7 @@ url: "https://github.com/jexp/neo4jev"
 repo: "jexp/neo4jev"
 flags: ["unverified"]
 risk_notes: "TypeSafe APIの利用にはTYPESAFE_API_KEYが必要。READMEによると、既定のベクトル埋め込みは決定論的なハッシュ由来のプレースホルダーで、意味的な検索にはならない。"
-stars: 184
+stars: 189
 forks: 27
 open_issues: 2
 size_kb: 6655
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-11"
 first_seen: "2026-11-11"
 sources: ["https://x.com/GitTrend0x/status/2120147118237114757"]
-fetched_at: "2026-11-11T06:10:34.954075+00:00"
+fetched_at: "2026-11-16T21:38:39Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # neo4jev — Graph Navigation Demo (TypeSafe Jev + Neo4j)

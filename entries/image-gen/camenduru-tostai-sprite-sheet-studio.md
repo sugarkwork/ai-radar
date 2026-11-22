@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-16"
 first_seen: "2026-11-16"
 sources: ["https://x.com/dextune/status/2119044699583635664"]
-fetched_at: "2026-11-16T09:22:34.973247+00:00"
+fetched_at: "2026-11-16T21:51:46Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # Tost AI - Sprite Sheet Studio

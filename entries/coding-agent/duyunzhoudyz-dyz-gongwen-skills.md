@@ -5,7 +5,7 @@ url: "https://github.com/duyunzhoudyz/dyz-gongwen-skills"
 flags: ["unverified"]
 risk_notes: "GitHub APIのlicense値はunknownですが、READMEのバッジはPolyForm NC 1.0を示しています。ライセンス本文の条件はこの資料では確認できません。 GitHub APIでライセンスを確認できていません。"
 repo: "duyunzhoudyz/dyz-gongwen-skills"
-stars: 852
+stars: 883
 forks: 38
 open_issues: 0
 size_kb: 18429
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-16"
 first_seen: "2026-11-16"
 sources: ["https://x.com/Ryrenz/status/2119008208849133570"]
-fetched_at: "2026-11-16T01:20:58.784254+00:00"
+fetched_at: "2026-11-16T21:44:04Z"
+last_release: "v1.1.0"
+last_release_at: "2026-11-04"
 ---
 
 # 公文 Skills · dyz-gongwen-skills

@@ -3,16 +3,16 @@ repo: "anthropics/claude-code"
 name: "Claude Code"
 genre: "coding-agent"
 url: "https://github.com/anthropics/claude-code"
-stars: 155135
-forks: 24886
-open_issues: 16966
-size_kb: 34723
+stars: 155907
+forks: 25021
+open_issues: 17045
+size_kb: 35372
 language: "TypeScript"
 created: "2025-02-22"
-updated: "2026-11-10"
+updated: "2026-11-16"
 archived: false
 license: "unknown"
-commits_30d: 54
+commits_30d: 100
 commits_90d: 100
 commit_cadence: "daily"
 flags: ["unverified"]
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-10"
 first_seen: "2026-11-10"
 sources: ["https://x.com/Y0urDumble/status/2117030430507401326"]
-fetched_at: "2026-11-10T08:15:51+00:00"
+fetched_at: "2026-11-16T21:42:36Z"
+last_release: "v2.1.325"
+last_release_at: "2026-11-13"
 ---
 
 # Claude Code — CLIとMCPで使えるコーディングエージェント

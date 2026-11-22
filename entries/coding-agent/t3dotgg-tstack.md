@@ -3,17 +3,17 @@ repo: "t3dotgg/tstack"
 name: "tstack"
 genre: "coding-agent"
 url: "https://github.com/t3dotgg/tstack"
-stars: 3411
-forks: 258
-open_issues: 15
-size_kb: 25
+stars: 4036
+forks: 308
+open_issues: 17
+size_kb: 14
 language: "Python"
 created: "2026-10-24"
-updated: "2026-10-28"
+updated: "2026-11-11"
 archived: false
 license: "MIT"
-commits_30d: 5
-commits_90d: 5
+commits_30d: 6
+commits_90d: 6
 commit_cadence: "weekly"
 last_release: ""
 last_release_at: ""
@@ -23,7 +23,7 @@ type: "repo"
 added: "2026-11-10"
 first_seen: "2026-11-10"
 sources: ["https://x.com/opensourcelab9/status/2117504564941508613"]
-fetched_at: "2026-11-10T09:17:55+00:00"
+fetched_at: "2026-11-16T21:47:42Z"
 ---
 
 # tstack — Claude CodeとCodex向けのPR作業スキル集

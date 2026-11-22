@@ -4,15 +4,15 @@ name: "claude-obsidian"
 genre: "other"
 url: "https://github.com/AgriciDaniel/claude-obsidian"
 license: "MIT"
-stars: 16310
-forks: 1598
-open_issues: 25
+stars: 16541
+forks: 1621
+open_issues: 26
 size_kb: 38035
 language: "Python"
 created: "2026-04-07"
 updated: "2026-10-25"
 archived: false
-commits_30d: 69
+commits_30d: 67
 commits_90d: 100
 commit_cadence: "daily"
 last_release: "v3.0.1"
@@ -22,7 +22,8 @@ added: "2026-11-10"
 first_seen: "2026-11-10"
 risk_notes: ""
 sources: ["https://x.com/Bober_smart/status/2117619229465641097"]
-fetched_at: "2026-11-10T10:01:55+00:00"
+fetched_at: "2026-11-16T21:58:19Z"
+last_release_at: "2026-10-21"
 ---
 
 # claude-obsidian｜Claude Code で出典付きの Obsidian Wiki を育てる

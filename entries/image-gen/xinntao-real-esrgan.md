@@ -3,8 +3,8 @@ repo: "xinntao/Real-ESRGAN"
 name: "Real-ESRGAN"
 genre: "image-gen"
 url: "https://github.com/xinntao/Real-ESRGAN"
-stars: 37430
-forks: 4528
+stars: 37530
+forks: 4541
 open_issues: 648
 size_kb: 5514
 language: "Python"
@@ -22,7 +22,8 @@ type: "repo"
 added: "2026-11-10"
 first_seen: "2026-11-10"
 sources: ["https://x.com/RealMarvelX/status/2117612832019689696"]
-fetched_at: "2026-11-10T09:51:41Z"
+fetched_at: "2026-11-16T21:52:59Z"
+last_release_at: "2022-09-20"
 ---
 
 # Real-ESRGANで低解像度画像を復元・拡大する

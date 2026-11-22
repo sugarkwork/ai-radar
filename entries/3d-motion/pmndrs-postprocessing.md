@@ -6,8 +6,8 @@ url: "https://github.com/pmndrs/postprocessing"
 last_release: "v6.39.6"
 flags: ["unverified"]
 risk_notes: ["実機での描画、GPU別の性能差、発見投稿が紹介したAI制作フロー全体は未検証。"]
-stars: 2963
-forks: 258
+stars: 2980
+forks: 260
 open_issues: 30
 size_kb: 262336
 language: "JavaScript"
@@ -16,13 +16,14 @@ updated: "2026-11-01"
 archived: false
 license: "Zlib"
 commits_30d: 6
-commits_90d: 22
+commits_90d: 20
 commit_cadence: "weekly"
 type: "repo"
 added: "2026-11-10"
 first_seen: "2026-11-10"
 sources: ["https://x.com/RealMarvelX/status/2117956876369264741"]
-fetched_at: "2026-11-10T11:07:00+00:00"
+fetched_at: "2026-11-16T21:34:32Z"
+last_release_at: "2026-11-01"
 ---
 
 # Post ProcessingでThree.jsの描画にブルームと被写界深度を加える

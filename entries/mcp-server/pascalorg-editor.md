@@ -4,11 +4,11 @@ genre: "mcp-server"
 url: "https://github.com/pascalorg/editor"
 repo: "pascalorg/editor"
 license: "MIT"
-stars: 25529
+stars: 25556
 language: "TypeScript"
 created: "2025-10-16"
 updated: "2026-11-14"
-forks: 3174
+forks: 3177
 open_issues: 57
 commits_30d: 100
 commit_cadence: "daily"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-16"
 first_seen: "2026-11-16"
 sources: ["https://x.com/awe0_io/status/2119016448001728685"]
-fetched_at: "2026-11-16T01:28:10.186722+00:00"
+fetched_at: "2026-11-16T21:55:06Z"
+last_release: "@pascal-app/cli@1.1.4"
+last_release_at: "2026-11-12"
 ---
 
 # Pascal Editor

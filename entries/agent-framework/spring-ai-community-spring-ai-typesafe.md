@@ -3,17 +3,17 @@ name: "Spring AI TypeSafe"
 genre: "agent-framework"
 url: "https://github.com/spring-ai-community/spring-ai-typesafe"
 repo: "spring-ai-community/spring-ai-typesafe"
-stars: 64
+stars: 66
 forks: 19
-open_issues: 19
-size_kb: 1530
+open_issues: 0
+size_kb: 1931
 language: "Java"
 created: "2026-09-20"
-updated: "2026-10-05"
+updated: "2026-11-15"
 archived: false
 license: "Apache-2.0"
-commits_30d: 0
-commits_90d: 30
+commits_30d: 1
+commits_90d: 31
 commit_cadence: "monthly"
 flags: ["unverified"]
 risk_notes: "一次資料で未確認: 技術背景・有効性・依存関係・実行条件。"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-11"
 first_seen: "2026-11-11"
 sources: ["https://x.com/GitTrend0x/status/2120147118237114757"]
-fetched_at: "2026-11-11T06:10:44.581808+00:00"
+fetched_at: "2026-11-16T21:41:05Z"
+last_release: "v0.4.0"
+last_release_at: "2026-10-03"
 ---
 
 # Spring AI TypeSafe

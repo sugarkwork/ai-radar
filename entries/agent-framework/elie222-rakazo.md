@@ -4,16 +4,16 @@ genre: "agent-framework"
 url: "https://github.com/elie222/rakazo"
 repo: "elie222/rakazo"
 license: "Apache-2.0"
-stars: 8321
+stars: 8832
 language: "TypeScript"
 created: "2026-08-13"
-updated: "2026-11-14"
-forks: 1505
-open_issues: 274
+updated: "2026-11-16"
+forks: 1584
+open_issues: 231
 commits_30d: 100
 commit_cadence: "daily"
 commits_90d: 100
-size_kb: 177934
+size_kb: 190006
 archived: false
 flags: ["unverified"]
 risk_notes: "本番運用でHTTPSを前段に置くこと、サンドボックスプロバイダーに応じた設定、開発時のNode.js・pnpm・Docker・Postgres等の条件がある。料金や未記載のプロバイダー条件はREADMEだけでは確認できない。"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-14"
 first_seen: "2026-11-14"
 sources: ["https://x.com/NFT_Chen/status/2118825518024040589"]
-fetched_at: "2026-11-14T11:15:16.322444+00:00"
+fetched_at: "2026-11-16T21:37:40Z"
+last_release: "v0.12.0"
+last_release_at: "2026-11-16"
 ---
 
 # Rakazo

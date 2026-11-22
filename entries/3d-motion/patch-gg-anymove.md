@@ -15,16 +15,16 @@ repo: "patch-gg/anymove"
 license: "Apache-2.0"
 language: "Python"
 created: "2026-10-27"
-updated: "2026-11-09"
-stars: 563
-forks: 62
-open_issues: 1
-commits_30d: 11
-commits_90d: 11
+updated: "2026-11-13"
+stars: 609
+forks: 67
+open_issues: 4
+commits_30d: 12
+commits_90d: 12
 commit_cadence: "weekly"
-size_kb: 14065
+size_kb: 14117
 archived: false
-fetched_at: "2026-11-09T21:31:33Z"
+fetched_at: "2026-11-16T21:34:25Z"
 last_release: "examples-v1"
 last_release_at: "2026-10-27"
 ---

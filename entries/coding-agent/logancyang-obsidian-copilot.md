@@ -4,12 +4,12 @@ genre: "coding-agent"
 url: "https://github.com/logancyang/obsidian-copilot"
 repo: "logancyang/obsidian-copilot"
 license: "AGPL-3.0"
-stars: 7992
+stars: 8005
 language: "TypeScript"
 created: "2023-03-31"
-updated: "2026-11-14"
-forks: 773
-open_issues: 144
+updated: "2026-11-16"
+forks: 775
+open_issues: 168
 commits_30d: 100
 commit_cadence: "daily"
 commits_90d: 100
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-15"
 first_seen: "2026-11-15"
 sources: ["https://x.com/stewy0x/status/2121929768996110590"]
-fetched_at: "2026-11-15T14:18:38.205018+00:00"
+fetched_at: "2026-11-16T21:45:32Z"
+last_release: "4.0.20"
+last_release_at: "2026-11-13"
 ---
 
 # Copilot for Obsidian

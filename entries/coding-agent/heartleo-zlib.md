@@ -5,13 +5,13 @@ url: "https://github.com/heartleo/zlib"
 flags: ["unverified"]
 risk_notes: "利用にはZ-Libraryアカウントが必要とREADMEに記載されています。利用可能なドメインやダウンロード条件の詳細はREADME本文では確認できません。"
 repo: "heartleo/zlib"
-stars: 1860
-forks: 135
+stars: 2022
+forks: 141
 open_issues: 0
-size_kb: 10621
+size_kb: 10649
 language: "Go"
 created: "2026-04-10"
-updated: "2026-11-13"
+updated: "2026-11-15"
 archived: false
 license: "MIT"
 commits_30d: 100
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-14"
 first_seen: "2026-11-14"
 sources: ["https://x.com/bkdgiffug/status/2118716534314897487"]
-fetched_at: "2026-11-13T20:14:25.538843+00:00"
+fetched_at: "2026-11-16T21:44:42Z"
+last_release: "v0.0.14"
+last_release_at: "2026-11-13"
 ---
 
 # zlib

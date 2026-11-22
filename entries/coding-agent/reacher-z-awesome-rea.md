@@ -15,16 +15,16 @@ repo: "reacher-z/Awesome-REA"
 license: "MIT"
 language: "Python"
 created: "2026-10-16"
-updated: "2026-11-09"
-stars: 2312
-forks: 421
-open_issues: 1857
+updated: "2026-11-16"
+stars: 3002
+forks: 502
+open_issues: 1852
 commits_30d: 100
 commits_90d: 100
 commit_cadence: "daily"
-size_kb: 80981
+size_kb: 67133
 archived: false
-fetched_at: "2026-11-09T21:36:45Z"
+fetched_at: "2026-11-16T21:47:10Z"
 last_release: "v0.12.0"
 last_release_at: "2026-10-17"
 ---

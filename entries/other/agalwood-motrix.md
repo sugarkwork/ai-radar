@@ -4,16 +4,16 @@ genre: "other"
 url: "https://github.com/agalwood/Motrix"
 repo: "agalwood/Motrix"
 license: "unknown"
-stars: 58239
+stars: 58397
 language: "TypeScript"
 created: "2018-12-18"
-updated: "2026-11-09"
-forks: 5150
-open_issues: 160
-commits_30d: 95
+updated: "2026-11-16"
+forks: 5156
+open_issues: 162
+commits_30d: 86
 commit_cadence: "daily"
 commits_90d: 100
-size_kb: 106671
+size_kb: 105518
 archived: false
 flags: ["unverified"]
 risk_notes: "READMEには更新前に既存プロフィールとダウンロードのバックアップが必要と記載されています。v2エンジンはSQLiteをschema 6へ更新し、旧エンジンではschema 6を開けないため、ダウングレードの可能性がある場合は更新前バックアップを保持してください。 GitHub APIでライセンスを確認できていません。"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-14"
 first_seen: "2026-11-14"
 sources: ["https://x.com/ruyi3699/status/2118761581547012468"]
-fetched_at: "2026-11-14T03:10:58.387536+00:00"
+fetched_at: "2026-11-16T21:58:15Z"
+last_release: "v2.4.2"
+last_release_at: "2026-11-15"
 ---
 
 # Motrix

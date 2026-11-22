@@ -5,7 +5,7 @@ genre: "mcp-server"
 url: "https://github.com/stretchcloud/deepscrape"
 flags: ["unverified"]
 risk_notes: "READMEに記載された機能と手順を確認した。実行時の動作、サイト変更後の復旧率、破損PDFの解析精度、モデル利用料の具体額は未確認。GitHubの最新版リンクはリリース一覧に遷移し、取得した一覧にはリリースが表示されていなかったため、最新リリースのタグと公開日時は未確認。"
-stars: 337
+stars: 339
 forks: 28
 open_issues: 0
 size_kb: 9132
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-10"
 first_seen: "2026-11-10"
 sources: ["https://x.com/stretchcloud/status/2119222115862040970"]
-fetched_at: "2026-11-10T11:29:46+00:00"
+fetched_at: "2026-11-16T21:55:27Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # DeepScrapeでWebページの抽出ルールを再利用し、MCPから呼び出す

@@ -5,9 +5,9 @@ url: "https://github.com/ComposioHQ/awesome-claude-skills"
 repo: "ComposioHQ/awesome-claude-skills"
 flags: ["unverified"]
 risk_notes: "ライセンスはGitHub APIの取得値がunknownです。READMEのバッジはApache 2.0を示していますが、ライセンス条件は確定できません。 GitHub APIでライセンスを確認できていません。"
-stars: 79332
-forks: 9677
-open_issues: 1892
+stars: 79651
+forks: 9740
+open_issues: 1910
 size_kb: 3663
 language: "Python"
 created: "2025-10-17"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-12"
 first_seen: "2026-11-12"
 sources: ["https://x.com/rvaniaaaa/status/2120861156801647094"]
-fetched_at: "2026-11-12T15:08:48.265426+00:00"
+fetched_at: "2026-11-16T21:43:30Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # Awesome Claude Skills

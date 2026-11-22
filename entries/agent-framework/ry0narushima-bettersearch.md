@@ -4,7 +4,7 @@ name: "BetterSearch"
 genre: agent-framework
 url: "https://github.com/ry0narushima/bettersearch"
 license: "MIT"
-stars: 40
+stars: 41
 language: "Python"
 created: "2026-10-18"
 updated: "2026-10-18"
@@ -20,7 +20,7 @@ commits_90d: 10
 commit_cadence: "weekly"
 size_kb: 960
 archived: false
-fetched_at: "2026-11-09T21:34:48Z"
+fetched_at: "2026-11-16T21:40:49Z"
 last_release: ""
 last_release_at: ""
 ---

@@ -15,18 +15,18 @@ repo: "opensandbox-group/OpenSandbox"
 license: "Apache-2.0"
 language: "Python"
 created: "2025-12-17"
-updated: "2026-11-09"
-stars: 16881
-forks: 1589
-open_issues: 161
+updated: "2026-11-16"
+stars: 17353
+forks: 1656
+open_issues: 197
 commits_30d: 100
 commits_90d: 100
 commit_cadence: "daily"
-size_kb: 118748
+size_kb: 119964
 archived: false
-fetched_at: "2026-11-09T21:34:19Z"
-last_release: "release-1.2.0"
-last_release_at: "2026-10-27"
+fetched_at: "2026-11-16T21:40:07Z"
+last_release: "release-1.2.1"
+last_release_at: "2026-11-13"
 ---
 
 # opensandbox-group/OpenSandbox

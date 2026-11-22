@@ -4,15 +4,15 @@ name: "Obsidian Mind"
 genre: "coding-agent"
 url: "https://github.com/breferrari/obsidian-mind"
 license: "MIT"
-stars: 5525
+stars: 5540
 language: "TypeScript"
 created: "2026-02-28"
 updated: "2026-10-17"
-forks: 610
+forks: 616
 open_issues: 16
-commits_30d: 36
-commit_cadence: "daily"
-commits_90d: 100
+commits_30d: 1
+commit_cadence: "monthly"
+commits_90d: 88
 size_kb: 7059
 archived: false
 last_release: "v10.0.0"
@@ -23,7 +23,7 @@ type: "repo"
 added: "2026-11-10"
 first_seen: "2026-11-10"
 sources: ["https://x.com/opensourcelab9/status/2115413335638470709"]
-fetched_at: "2026-11-10T12:13:18Z"
+fetched_at: "2026-11-16T21:42:46Z"
 ---
 
 # Obsidian Mindで会議メモを整理し、次のAIセッションに引き継ぐ

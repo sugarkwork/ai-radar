@@ -5,13 +5,13 @@ url: "https://github.com/tangency-labs/solidcraft"
 repo: "tangency-labs/solidcraft"
 flags: ["unverified"]
 risk_notes: "ライセンス表記に差異があります。READMEは「MIT OR Apache-2.0」と記載していますが、提供された測定値ではApache-2.0です。採用前にライセンスファイルを確認してください。"
-stars: 15931
-forks: 2181
-open_issues: 6652
-size_kb: 531665
+stars: 16660
+forks: 2299
+open_issues: 7287
+size_kb: 599241
 language: "Rust"
 created: "2026-10-07"
-updated: "2026-11-12"
+updated: "2026-11-16"
 archived: false
 license: "Apache-2.0"
 commits_30d: 100
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-12"
 first_seen: "2026-11-12"
 sources: ["https://x.com/Leviwoyun/status/2118546148860526934"]
-fetched_at: "2026-11-12T15:11:02.435866+00:00"
+fetched_at: "2026-11-16T21:55:33Z"
+last_release: "v0.43.0"
+last_release_at: "2026-11-16"
 ---
 
 # SolidCraft

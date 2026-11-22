@@ -4,16 +4,16 @@ genre: "model-serving"
 url: "https://github.com/janhq/jan"
 repo: "janhq/jan"
 license: "unknown"
-stars: 45734
+stars: 45747
 language: "Rust"
 created: "2023-08-17"
 updated: "2026-11-16"
-forks: 3177
-open_issues: 579
+forks: 3179
+open_issues: 581
 commits_30d: 100
 commit_cadence: "daily"
 commits_90d: 100
-size_kb: 1582872
+size_kb: 1582946
 archived: false
 flags: ["unverified"]
 risk_notes: "GitHub APIでライセンスを確認できていません。"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-16"
 first_seen: "2026-11-16"
 sources: ["https://x.com/naka_1717/status/2119034856676159987"]
-fetched_at: "2026-11-16T05:27:49.277949+00:00"
+fetched_at: "2026-11-16T21:56:32Z"
+last_release: "v0.8.8"
+last_release_at: "2026-10-28"
 ---
 
 # Jan

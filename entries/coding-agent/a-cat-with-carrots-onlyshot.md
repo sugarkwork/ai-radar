@@ -5,23 +5,25 @@ url: "https://github.com/A-cat-with-carrots/OnlyShot"
 repo: "A-cat-with-carrots/OnlyShot"
 flags: ["unverified"]
 risk_notes: "README記載の积分・費用は作者による2026-05時点の実測報告であり、独立実測ではない。"
-stars: 408
-forks: 43
+stars: 416
+forks: 45
 open_issues: 0
-size_kb: 361
+size_kb: 387
 language: "Python"
 created: "2026-05-05"
 updated: "2026-11-12"
 archived: false
 license: "MIT"
-commits_30d: 11
-commits_90d: 11
+commits_30d: 13
+commits_90d: 13
 commit_cadence: "weekly"
 type: "repo"
 added: "2026-11-12"
 first_seen: "2026-11-12"
 sources: ["https://x.com/AIExplorerTim/status/2118530314645672201"]
-fetched_at: "2026-11-12T12:11:31.217038+00:00"
+fetched_at: "2026-11-16T21:42:09Z"
+last_release: "v0.7.0"
+last_release_at: "2026-11-09"
 ---
 
 # OnlyShot

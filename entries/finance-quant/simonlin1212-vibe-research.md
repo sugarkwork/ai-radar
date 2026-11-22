@@ -4,12 +4,12 @@ genre: "finance-quant"
 url: "https://github.com/simonlin1212/Vibe-Research"
 repo: "simonlin1212/Vibe-Research"
 license: "MIT"
-stars: 3712
+stars: 3746
 language: "TypeScript"
 created: "2026-07-05"
 updated: "2026-11-12"
-forks: 699
-open_issues: 4
+forks: 707
+open_issues: 5
 commits_30d: 26
 commit_cadence: "daily"
 commits_90d: 100
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-14"
 first_seen: "2026-11-14"
 sources: ["https://x.com/bkdgiffug/status/2118895966543651094"]
-fetched_at: "2026-11-14T22:09:19.228674+00:00"
+fetched_at: "2026-11-16T21:50:59Z"
+last_release: "v2.2.7"
+last_release_at: "2026-11-12"
 ---
 
 # Vibe Research

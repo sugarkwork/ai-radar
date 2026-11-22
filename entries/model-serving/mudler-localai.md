@@ -4,16 +4,16 @@ genre: "model-serving"
 url: "https://github.com/mudler/LocalAI"
 repo: "mudler/LocalAI"
 license: "MIT"
-stars: 50388
+stars: 50392
 language: "Go"
 created: "2023-03-18"
 updated: "2026-11-16"
-forks: 4610
-open_issues: 186
+forks: 4611
+open_issues: 187
 commits_30d: 100
 commit_cadence: "daily"
 commits_90d: 100
-size_kb: 233224
+size_kb: 243926
 archived: false
 flags: ["unverified"]
 risk_notes: "チーム共有やアドオンなどREADMEでdevelopment buildsとされる機能は、通常の最新リリースでは利用できるか不明。README記載の版情報は取得時点の独立確認ではない。"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-16"
 first_seen: "2026-11-16"
 sources: ["https://x.com/naka_1717/status/2119034856676159987"]
-fetched_at: "2026-11-16T05:28:23.644229+00:00"
+fetched_at: "2026-11-16T21:57:03Z"
+last_release: "v4.12.1"
+last_release_at: "2026-10-23"
 ---
 
 # LocalAI

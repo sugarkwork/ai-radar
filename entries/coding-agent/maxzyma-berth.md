@@ -3,13 +3,13 @@ name: "Berth"
 genre: "coding-agent"
 url: "https://github.com/maxzyma/berth"
 repo: "maxzyma/berth"
-stars: 0
+stars: 1
 forks: 0
 open_issues: 0
-size_kb: 2298
+size_kb: 2434
 language: "TypeScript"
 created: "2026-10-26"
-updated: "2026-11-11"
+updated: "2026-11-12"
 archived: false
 license: "MIT"
 commits_30d: 100
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-12"
 first_seen: "2026-11-12"
 sources: ["https://x.com/binbin_eth/status/2120710960247615505"]
-fetched_at: "2026-11-12T03:43:42.535493+00:00"
+fetched_at: "2026-11-16T21:45:44Z"
+last_release: "v0.4.11"
+last_release_at: "2026-11-12"
 ---
 
 # Berth

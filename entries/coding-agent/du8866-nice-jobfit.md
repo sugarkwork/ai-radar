@@ -5,7 +5,7 @@ url: "https://github.com/DU8866-nice/jobfit"
 repo: "DU8866-nice/jobfit"
 flags: ["unverified"]
 risk_notes: "実モデル利用時は履歴書が選択したAIプロバイダーに送信される。READMEにはプロバイダーへの送信をページ上で案内するとあるが、実際の公開デモでの設定やデータ処理は確認していない。"
-stars: 1
+stars: 2
 forks: 0
 open_issues: 1
 size_kb: 495
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-12"
 first_seen: "2026-11-12"
 sources: ["https://x.com/binbin_eth/status/2120710960247615505"]
-fetched_at: "2026-11-12T03:43:51.902742+00:00"
+fetched_at: "2026-11-16T21:44:01Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # JobFit

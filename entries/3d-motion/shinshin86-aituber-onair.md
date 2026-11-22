@@ -15,18 +15,18 @@ repo: "shinshin86/aituber-onair"
 license: "MIT"
 language: "TypeScript"
 created: "2025-03-15"
-updated: "2026-11-07"
-stars: 320
-forks: 31
-open_issues: 0
-commits_30d: 100
+updated: "2026-11-16"
+stars: 335
+forks: 34
+open_issues: 2
+commits_30d: 88
 commits_90d: 100
 commit_cadence: "daily"
-size_kb: 92764
+size_kb: 94567
 archived: false
-fetched_at: "2026-11-09T21:31:42Z"
-last_release: "@aituber-onair/core@0.26.27"
-last_release_at: "2026-11-01"
+fetched_at: "2026-11-16T21:34:56Z"
+last_release: "@aituber-onair/core@0.26.30"
+last_release_at: "2026-11-14"
 ---
 
 # shinshin86/aituber-onair

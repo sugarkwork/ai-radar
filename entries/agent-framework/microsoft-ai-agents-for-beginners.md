@@ -4,16 +4,16 @@ genre: "agent-framework"
 url: "https://github.com/microsoft/ai-agents-for-beginners"
 repo: "microsoft/ai-agents-for-beginners"
 license: "MIT"
-stars: 79666
+stars: 79837
 language: "Jupyter Notebook"
 created: "2024-11-28"
-updated: "2026-11-07"
-forks: 26079
-open_issues: 5
+updated: "2026-11-16"
+forks: 26117
+open_issues: 3
 commits_30d: 100
 commit_cadence: "daily"
 commits_90d: 100
-size_kb: 3809894
+size_kb: 3809596
 archived: false
 flags: ["unverified"]
 risk_notes: "コード例の実行にはAzureアカウントが必要とREADMEに記載されています。料金の記載は確認できません。"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-15"
 first_seen: "2026-11-15"
 sources: ["https://x.com/DAIEvolutionHub/status/2121642650965315953"]
-fetched_at: "2026-11-15T08:18:11.071464+00:00"
+fetched_at: "2026-11-16T21:39:17Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # AI Agents for Beginners

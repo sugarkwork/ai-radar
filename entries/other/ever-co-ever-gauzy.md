@@ -4,16 +4,16 @@ genre: "other"
 url: "https://github.com/ever-co/ever-gauzy"
 repo: "ever-co/ever-gauzy"
 license: "AGPL-3.0"
-stars: 8847
+stars: 8853
 language: "TypeScript"
 created: "2019-06-02"
 updated: "2026-11-16"
-forks: 1346
-open_issues: 137
+forks: 1349
+open_issues: 150
 commits_30d: 100
 commit_cadence: "daily"
 commits_90d: 100
-size_kb: 327960
+size_kb: 325387
 archived: false
 flags: ["unverified"]
 risk_notes: "READMEの提示内容が途中で終わっているため、依存関係、実行条件、最短手順は確認できません。"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-16"
 first_seen: "2026-11-16"
 sources: ["https://x.com/bkdgiffug/status/2119046710127477066"]
-fetched_at: "2026-11-16T10:39:58.698691+00:00"
+fetched_at: "2026-11-16T22:00:11Z"
+last_release: "v111.142.11"
+last_release_at: "2026-10-29"
 ---
 
 # Ever Gauzy Platform

@@ -5,13 +5,13 @@ url: "https://github.com/e2e-inc/e2e"
 repo: "e2e-inc/e2e"
 flags: ["unverified"]
 risk_notes: "エージェント実行には利用者自身のサブスクリプション、APIキー、またはローカルモデルが必要。料金や各モデルの利用条件はREADMEに記載なし。"
-stars: 13799
-forks: 732
-open_issues: 81
-size_kb: 113420
+stars: 13953
+forks: 753
+open_issues: 109
+size_kb: 116250
 language: "TypeScript"
 created: "2026-07-22"
-updated: "2026-11-13"
+updated: "2026-11-16"
 archived: false
 license: "Apache-2.0"
 commits_30d: 100
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-13"
 first_seen: "2026-11-13"
 sources: ["https://x.com/awe0_io/status/2118662503542706437"]
-fetched_at: "2026-11-13T11:17:34.506881+00:00"
+fetched_at: "2026-11-16T21:37:37Z"
+last_release: "@e2e-dev/testmu@0.0.5"
+last_release_at: "2026-11-13"
 ---
 
 # e2e

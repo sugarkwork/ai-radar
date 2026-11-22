@@ -15,18 +15,18 @@ repo: "ccch1mneyyy/dsh-TUI"
 license: "MIT"
 language: "TypeScript"
 created: "2026-08-13"
-updated: "2026-11-09"
-stars: 7319
-forks: 351
-open_issues: 125
+updated: "2026-11-16"
+stars: 7801
+forks: 372
+open_issues: 159
 commits_30d: 100
 commits_90d: 100
 commit_cadence: "daily"
-size_kb: 52053
+size_kb: 53455
 archived: false
-fetched_at: "2026-11-09T21:32:41Z"
-last_release: "v0.19.0"
-last_release_at: "2026-11-06"
+fetched_at: "2026-11-16T21:37:03Z"
+last_release: "v0.20.1"
+last_release_at: "2026-11-14"
 ---
 
 # ccch1mneyyy/dsh-TUI

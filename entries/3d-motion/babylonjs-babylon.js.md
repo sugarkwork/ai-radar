@@ -4,16 +4,16 @@ genre: "3d-motion"
 url: "https://github.com/BabylonJS/Babylon.js"
 repo: "BabylonJS/Babylon.js"
 license: "Apache-2.0"
-stars: 26359
+stars: 26380
 language: "TypeScript"
 created: "2013-06-27"
-updated: "2026-11-14"
-forks: 3730
+updated: "2026-11-16"
+forks: 3739
 open_issues: 22
 commits_30d: 100
 commit_cadence: "daily"
 commits_90d: 100
-size_kb: 1497866
+size_kb: 1498005
 archived: false
 flags: ["unverified"]
 risk_notes: "READMEのCDNは学習や小規模な実験向けで、本番環境では使用しないよう記載されている。READMEは実機での動作や対応環境の詳細を独立検証していない。"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-15"
 first_seen: "2026-11-15"
 sources: ["https://x.com/Feljoy_ix/status/2121787138455040333"]
-fetched_at: "2026-11-15T03:22:01.400064+00:00"
+fetched_at: "2026-11-16T21:32:05Z"
+last_release: "9.37.0"
+last_release_at: "2026-11-16"
 ---
 
 # Babylon.js

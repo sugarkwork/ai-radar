@@ -4,16 +4,16 @@ genre: "coding-agent"
 url: "https://github.com/vercel/next.js"
 repo: "vercel/next.js"
 license: "MIT"
-stars: 143475
+stars: 143631
 language: "JavaScript"
 created: "2016-10-05"
-updated: "2026-11-11"
-forks: 32801
-open_issues: 3950
+updated: "2026-11-16"
+forks: 32812
+open_issues: 4006
 commits_30d: 100
 commit_cadence: "daily"
 commits_90d: 100
-size_kb: 2635398
+size_kb: 2639884
 archived: false
 flags: ["unverified"]
 risk_notes: "一次資料で未確認: 技術背景・有効性・依存関係・実行条件。"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-11"
 first_seen: "2026-11-11"
 sources: ["https://x.com/RealMarvelX/status/2118349624763207790"]
-fetched_at: "2026-11-11T22:14:03.065068+00:00"
+fetched_at: "2026-11-16T21:48:05Z"
+last_release: "v16.4.6"
+last_release_at: "2026-11-09"
 ---
 
 # Next.js

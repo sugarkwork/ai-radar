@@ -4,16 +4,16 @@ genre: "other"
 url: "https://github.com/immich-app/immich"
 repo: "immich-app/immich"
 license: "AGPL-3.0"
-stars: 119119
+stars: 119382
 language: "TypeScript"
 created: "2022-02-03"
-updated: "2026-11-13"
-forks: 7592
-open_issues: 680
+updated: "2026-11-16"
+forks: 7632
+open_issues: 715
 commits_30d: 100
 commit_cadence: "daily"
 commits_90d: 100
-size_kb: 325467
+size_kb: 326117
 archived: false
 flags: ["unverified"]
 risk_notes: "インストール要件、詳細な実行条件、料金は添付READMEから確認できません。"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-14"
 first_seen: "2026-11-14"
 sources: ["https://x.com/bkdgiffug/status/2118778945424212086"]
-fetched_at: "2026-11-14T05:15:47.627451+00:00"
+fetched_at: "2026-11-16T22:01:16Z"
+last_release: "v3.4.1"
+last_release_at: "2026-11-11"
 ---
 
 # Immich

@@ -6,8 +6,8 @@ url: "https://github.com/greensock/GSAP"
 flags: ["unverified"]
 pricing: "free"
 pricing_detail: "公式READMEでは商用利用を含めてプラグインも無償。標準ライセンスでは、Webflowのビジュアルアニメーション作成機能と競合するノーコードツールの開発を促進・支援する用途などに制限がある。"
-stars: 30400
-forks: 2367
+stars: 30777
+forks: 2404
 open_issues: 6
 size_kb: 14943
 language: "JavaScript"
@@ -23,7 +23,9 @@ type: "repo"
 added: "2026-11-10"
 first_seen: "2026-11-10"
 sources: ["https://x.com/CryptooGG_/status/2119312343892976064"]
-fetched_at: "2026-11-10T12:07:30+00:00"
+fetched_at: "2026-11-16T21:33:14Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # GSAPでWebアニメーションをタイムライン化する

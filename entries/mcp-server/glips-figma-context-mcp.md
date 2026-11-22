@@ -4,16 +4,16 @@ name: "Framelink MCP for Figma"
 genre: "mcp-server"
 url: "https://github.com/GLips/Figma-Context-MCP"
 license: "MIT"
-stars: 16187
+stars: 16217
 language: "TypeScript"
 created: "2025-02-13"
-updated: "2026-10-27"
-forks: 1282
-open_issues: 29
+updated: "2026-11-15"
+forks: 1288
+open_issues: 30
 commits_30d: 0
 commit_cadence: "stale"
 commits_90d: 0
-size_kb: 8185
+size_kb: 8723
 archived: false
 last_release: "v0.13.2"
 last_release_at: "2026-06-18"
@@ -23,7 +23,7 @@ type: "repo"
 added: "2026-11-10"
 first_seen: "2026-11-10"
 sources: ["https://x.com/thegreatest_sv/status/2114739076796428729"]
-fetched_at: "2026-11-10T11:34:45+00:00"
+fetched_at: "2026-11-16T21:54:16Z"
 ---
 
 # Framelink MCP for Figmaでデザイン情報をAIエージェントに渡す

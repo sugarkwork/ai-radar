@@ -3,17 +3,17 @@ name: "yomiyasu（よみやす）"
 genre: "coding-agent"
 url: "https://github.com/nanaism/yomiyasu"
 repo: "nanaism/yomiyasu"
-stars: 2975
-forks: 78
-open_issues: 1
-size_kb: 5279
+stars: 3312
+forks: 89
+open_issues: 0
+size_kb: 6669
 language: "Python"
 created: "2026-09-30"
-updated: "2026-11-10"
+updated: "2026-11-12"
 archived: false
 license: "MIT"
-commits_30d: 26
-commits_90d: 69
+commits_30d: 23
+commits_90d: 73
 commit_cadence: "daily"
 flags: ["unverified"]
 risk_notes: "一次資料で未確認: 技術背景・有効性・依存関係・実行条件。"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-11"
 first_seen: "2026-11-11"
 sources: ["https://x.com/oga_aiichiro/status/2105309676305072437"]
-fetched_at: "2026-11-11T04:18:01.512443+00:00"
+fetched_at: "2026-11-16T21:46:18Z"
+last_release: "v3.1.0"
+last_release_at: "2026-11-12"
 ---
 
 # yomiyasu（よみやす）

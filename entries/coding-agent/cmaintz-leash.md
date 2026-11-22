@@ -7,13 +7,13 @@ license: "MIT"
 stars: 0
 language: "TypeScript"
 created: "2026-09-30"
-updated: "2026-11-06"
+updated: "2026-11-15"
 forks: 0
 open_issues: 6
-commits_30d: 21
+commits_30d: 20
 commit_cadence: "daily"
 commits_90d: 93
-size_kb: 314
+size_kb: 316
 archived: false
 flags: ["unverified"]
 risk_notes: "最新GitHubリリース、npmの配布版、現行のJev料金と送信データの保持条件は未確認。READMEの約300 msと約68%は作者の記載で、測定条件や対象リポジトリでの再現性は未確認。CLI、フック、MCPは未実行。"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-11"
 first_seen: "2026-11-11"
 sources: ["https://x.com/thegreatest_sv/status/2116142322543198271"]
-fetched_at: "2026-11-10T12:54:52Z"
+fetched_at: "2026-11-16T21:43:10Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # Leash — コーディングエージェントの変更差分をプロジェクトのルールで判定

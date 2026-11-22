@@ -5,19 +5,19 @@ genre: "mcp-server"
 url: "https://github.com/morluto/rea"
 author: "morluto"
 license: "MIT"
-stars: 446665
+stars: 463967
 language: "TypeScript"
 created: "2026-04-14"
-updated: "2026-11-09"
-forks: 110198
-open_issues: 1650
+updated: "2026-11-16"
+forks: 113554
+open_issues: 1525
 commits_30d: 100
 commits_90d: 100
 commit_cadence: "daily"
-size_kb: 149077
+size_kb: 179090
 archived: false
-last_release: "rea-agents-6.8.0"
-last_release_at: "2026-10-25"
+last_release: "rea-agents-6.9.0"
+last_release_at: "2026-11-12"
 added: "2026-11-09"
 flags: ["unverified"]
 risk_notes: "GitHub API の数値と README/手順書の記述は 2026-11-09 時点で確認済み。未検証なのは (1) Ghidra/Hopper を実際に起動した動作確認、(2) README showcase の再構成数値（3,205 ケース等）で、効果は著者側の主張にとどまる。Hopper は商用（デモは制限付き）、Windows の Ghidra 対応は実験的 P0 で読み取り専用。"
@@ -25,7 +25,7 @@ source_post: "https://x.com/wquguru/status/2113181135522214168"
 sources: ["https://github.com/morluto/rea", "https://api.github.com/repos/morluto/rea", "https://x.com/wquguru/status/2113181135522214168"]
 type: "repo"
 first_seen: "2026-11-09"
-fetched_at: "2026-11-09T21:39:06Z"
+fetched_at: "2026-11-16T21:54:52Z"
 ---
 
 # REA — バイナリからアプリまで、エージェント向け逆解析 MCP サーバー

@@ -4,8 +4,8 @@ name: "PHP Version Checker"
 genre: "coding-agent"
 url: "https://github.com/openai/php2shell-checker"
 license: "Apache-2.0"
-stars: 1468
-forks: 147
+stars: 1470
+forks: 148
 open_issues: 2
 size_kb: 34
 language: "JavaScript"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-10"
 first_seen: "2026-11-10"
 sources: ["https://x.com/opensourcelab9/status/2115051156703772686"]
-fetched_at: "2026-11-10T11:48:17Z"
+fetched_at: "2026-11-16T21:46:46Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # PHP Version Checker — CodexでPHP2Shellの修正状況を確認

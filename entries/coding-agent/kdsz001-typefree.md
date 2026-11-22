@@ -10,9 +10,9 @@ created: "2026-06-05"
 updated: "2026-10-28"
 forks: 70
 open_issues: 4
-commits_30d: 4
-commit_cadence: "weekly"
-commits_90d: 47
+commits_30d: 2
+commit_cadence: "monthly"
+commits_90d: 46
 size_kb: 18535
 archived: false
 flags: ["unverified"]
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-13"
 first_seen: "2026-11-13"
 sources: ["https://x.com/ruyi3699/status/2118639527069696057"]
-fetched_at: "2026-11-13T07:19:29.656015+00:00"
+fetched_at: "2026-11-16T21:45:12Z"
+last_release: "v3.0.15"
+last_release_at: "2026-10-28"
 ---
 
 # Typefree

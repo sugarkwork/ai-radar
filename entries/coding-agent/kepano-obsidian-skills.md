@@ -4,24 +4,26 @@ name: "Obsidian Skills"
 genre: "coding-agent"
 url: "https://github.com/kepano/obsidian-skills"
 flags: ["unverified"]
-stars: 51458
-forks: 3639
-open_issues: 76
-size_kb: 44
+stars: 52944
+forks: 3771
+open_issues: 2
+size_kb: 187
 language: "unknown"
 created: "2026-01-02"
-updated: "2026-09-15"
+updated: "2026-11-16"
 archived: false
 license: "MIT"
-commits_30d: 0
-commits_90d: 3
-commit_cadence: "monthly"
+commits_30d: 34
+commits_90d: 44
+commit_cadence: "daily"
 type: "repo"
 added: "2026-11-10"
 first_seen: "2026-11-10"
 risk_notes: ""
 sources: ["https://x.com/Bober_smart/status/2117619229465641097"]
-fetched_at: "2026-11-10T10:01:34+00:00"
+fetched_at: "2026-11-16T21:45:16Z"
+last_release: "1.2.0"
+last_release_at: "2026-11-16"
 ---
 
 # Obsidian Skills — AIにノート形式とVault操作を教えるスキル集

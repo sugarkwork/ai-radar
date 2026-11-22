@@ -4,7 +4,7 @@ name: CLI-Anything
 genre: agent-framework
 url: https://github.com/HKUDS/CLI-Anything
 license: Apache-2.0
-stars: 58505
+stars: 58804
 language: Python
 created: 2026-03-08
 updated: "2026-09-22"
@@ -15,14 +15,14 @@ sources:
   - https://clianything.cc/
 flags: []
 risk_notes: ""
-forks: 5270
+forks: 5299
 open_issues: 245
 size_kb: 42270
 archived: false
 commits_30d: 0
-commits_90d: 22
+commits_90d: 20
 commit_cadence: "monthly"
-fetched_at: "2026-11-09T21:33:19Z"
+fetched_at: "2026-11-16T21:38:29Z"
 last_release: "v0.4.0"
 last_release_at: "2026-06-25"
 ---

@@ -3,13 +3,13 @@ name: "Kanzo"
 genre: "agent-framework"
 url: "https://github.com/emanuele-em/kanzo"
 repo: "emanuele-em/kanzo"
-stars: 1195
-forks: 99
-open_issues: 13
-size_kb: 20321
+stars: 1218
+forks: 98
+open_issues: 16
+size_kb: 20325
 language: "Rust"
 created: "2026-10-25"
-updated: "2026-11-11"
+updated: "2026-11-16"
 archived: false
 license: "AGPL-3.0"
 commits_30d: 100
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-15"
 first_seen: "2026-11-15"
 sources: ["https://x.com/AIExplorerTim/status/2118910064606233060"]
-fetched_at: "2026-11-15T00:17:28.872334+00:00"
+fetched_at: "2026-11-16T21:37:44Z"
+last_release: "v0.4.2"
+last_release_at: "2026-11-11"
 ---
 
 # Kanzo

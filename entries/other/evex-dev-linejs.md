@@ -3,17 +3,17 @@ name: "LINEJS"
 genre: "other"
 url: "https://github.com/evex-dev/linejs"
 repo: "evex-dev/linejs"
-stars: 474
-forks: 103
-open_issues: 8
-size_kb: 8822
+stars: 477
+forks: 106
+open_issues: 13
+size_kb: 8483
 language: "TypeScript"
 created: "2024-01-23"
-updated: "2026-11-05"
+updated: "2026-11-13"
 archived: false
 license: "MIT"
-commits_30d: 22
-commits_90d: 82
+commits_30d: 24
+commits_90d: 84
 commit_cadence: "daily"
 flags: ["unverified"]
 risk_notes: "一次資料で未確認: 技術背景・有効性・依存関係・実行条件。"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-12"
 first_seen: "2026-11-12"
 sources: ["https://x.com/naka_1717/status/2118582879840334223"]
-fetched_at: "2026-11-12T20:11:23.370254+00:00"
+fetched_at: "2026-11-16T22:00:15Z"
+last_release: "v3.6.5"
+last_release_at: "2026-11-13"
 ---
 
 # LINEJS

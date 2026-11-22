@@ -3,7 +3,7 @@ name: "Flecha"
 genre: "coding-agent"
 url: "https://github.com/lucianodiisouza/flecha-browser"
 repo: "lucianodiisouza/flecha-browser"
-stars: 134
+stars: 137
 forks: 22
 open_issues: 2
 size_kb: 5400
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-15"
 first_seen: "2026-11-15"
 sources: ["https://x.com/AIExplorerTim/status/2118910064606233060"]
-fetched_at: "2026-11-15T00:19:36.693396+00:00"
+fetched_at: "2026-11-16T21:45:38Z"
+last_release: "v0.1.3"
+last_release_at: "2026-11-09"
 ---
 
 # Flecha

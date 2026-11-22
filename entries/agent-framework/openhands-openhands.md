@@ -4,16 +4,16 @@ genre: "agent-framework"
 url: "https://github.com/OpenHands/OpenHands"
 repo: "OpenHands/OpenHands"
 license: "MIT"
-stars: 93244
+stars: 93604
 language: "TypeScript"
 created: "2024-03-13"
-updated: "2026-11-11"
-forks: 12457
-open_issues: 1168
+updated: "2026-11-16"
+forks: 12536
+open_issues: 1188
 commits_30d: 100
 commit_cadence: "daily"
 commits_90d: 100
-size_kb: 659682
+size_kb: 667239
 archived: false
 flags: ["unverified"]
 risk_notes: "Direct installation runs the agent server on the host with full filesystem access. The README recommends a Docker sandbox; its example mounts the selected projects directory and stores settings, secrets, and conversations in a named volume. Self-hosting security hardening is linked in the README."
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-11"
 first_seen: "2026-11-11"
 sources: ["https://x.com/thegreatest_sv/status/2118325722850697573"]
-fetched_at: "2026-11-11T19:06:00.619117+00:00"
+fetched_at: "2026-11-16T21:40:03Z"
+last_release: "v1.41.0"
+last_release_at: "2026-11-16"
 ---
 
 # OpenHands Agent Canvas

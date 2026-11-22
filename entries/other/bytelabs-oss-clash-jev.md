@@ -12,7 +12,7 @@ created: "2026-09-21"
 updated: "2026-10-14"
 archived: false
 license: "MIT"
-commits_30d: 2
+commits_30d: 0
 commits_90d: 6
 commit_cadence: "monthly"
 last_release: ""
@@ -24,7 +24,7 @@ type: "repo"
 added: "2026-11-11"
 first_seen: "2026-11-11"
 sources: ["https://x.com/thegreatest_sv/status/2115779290033803462"]
-fetched_at: "2026-11-10T12:32:31+00:00"
+fetched_at: "2026-11-16T21:59:00Z"
 ---
 
 # clash-jev — Androidのゲーム画面を構造化し、Jevで手を選ぶ実装例

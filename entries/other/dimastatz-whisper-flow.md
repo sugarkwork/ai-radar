@@ -4,7 +4,7 @@ genre: "other"
 url: "https://github.com/dimastatz/whisper-flow"
 repo: "dimastatz/whisper-flow"
 license: "MIT"
-stars: 1011
+stars: 1012
 language: "Python"
 created: "2024-06-03"
 updated: "2026-11-15"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-15"
 first_seen: "2026-11-15"
 sources: ["https://x.com/ruyi3699/status/2118990841880465621"]
-fetched_at: "2026-11-15T17:09:38.773933+00:00"
+fetched_at: "2026-11-16T21:59:33Z"
+last_release: "v1.4.0"
+last_release_at: "2026-11-01"
 ---
 
 # Whisper Flow

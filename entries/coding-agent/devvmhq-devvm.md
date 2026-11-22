@@ -4,16 +4,16 @@ genre: "coding-agent"
 url: "https://github.com/devvmhq/devvm"
 repo: "devvmhq/devvm"
 license: "MIT"
-stars: 628
+stars: 666
 language: "Go"
 created: "2026-11-06"
-updated: "2026-11-14"
-forks: 31
-open_issues: 2
+updated: "2026-11-16"
+forks: 35
+open_issues: 3
 commits_30d: 100
 commit_cadence: "daily"
 commits_90d: 100
-size_kb: 21510
+size_kb: 24004
 archived: false
 flags: ["unverified"]
 risk_notes: "READMEではApple silicon Macとarm64/x86_64のLinuxでテスト済みとし、Intel Macでは未テストとしている。"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-14"
 first_seen: "2026-11-14"
 sources: ["https://x.com/RoundtableSpace/status/2118874827683774478"]
-fetched_at: "2026-11-14T17:06:57.264416+00:00"
+fetched_at: "2026-11-16T21:43:51Z"
+last_release: "v0.1.0"
+last_release_at: "2026-11-06"
 ---
 
 # devvm

@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-16"
 first_seen: "2026-11-16"
 sources: ["https://x.com/dextune/status/2119067347050983896"]
-fetched_at: "2026-11-16T15:19:53.504665+00:00"
+fetched_at: "2026-11-16T21:59:06Z"
+last_release: "v0.6.6"
+last_release_at: "2026-10-26"
 ---
 
 # Strata

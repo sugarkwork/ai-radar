@@ -4,26 +4,26 @@ name: "Coucou"
 genre: "coding-agent"
 url: "https://github.com/Louis-CFM/coucou"
 license: "MIT"
-stars: 7102
+stars: 7274
 language: "Swift"
 created: "2026-09-27"
-updated: "2026-11-06"
-forks: 1166
-open_issues: 460
+updated: "2026-11-13"
+forks: 1195
+open_issues: 462
 commits_30d: 100
 commit_cadence: "daily"
 commits_90d: 100
-size_kb: 30519
+size_kb: 30512
 archived: false
-last_release: "v0.5.8"
-last_release_at: "2026-10-31"
+last_release: "v0.6.0"
+last_release_at: "2026-11-11"
 flags: ["unverified"]
 risk_notes: ["公開資料による確認。通知の到達や遅延、端末移動、Face ID承認は実機未検証。CodexでClaude Codeと同じ承認操作ができるか、およびTestFlightの参加可否は未確認。"]
 type: "repo"
 added: "2026-11-10"
 first_seen: "2026-11-10"
 sources: ["https://x.com/opensourcelab9/status/2115692620999725338"]
-fetched_at: "2026-11-10T12:28:52+00:00"
+fetched_at: "2026-11-16T21:45:35Z"
 ---
 
 # Coucou — MacのノッチにAIコーディングエージェントの進捗と許可要求を表示

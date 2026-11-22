@@ -4,10 +4,10 @@ name: TA-Lib Python
 genre: finance-quant
 url: https://github.com/TA-Lib/ta-lib-python
 license: BSD-2-Clause
-stars: 12395
+stars: 12416
 language: Cython
 created: 2012-03-23
-updated: "2026-11-09"
+updated: "2026-11-11"
 added: 2026-11-05
 first_seen: 2026-11-05
 source_post: https://x.com/roundtablespace/status/2118172700757889191
@@ -15,14 +15,14 @@ sources:
   - https://ta-lib.org/
 flags: []
 risk_notes: ""
-forks: 2009
+forks: 2016
 open_issues: 88
-commits_30d: 36
+commits_30d: 28
 commits_90d: 60
 commit_cadence: "daily"
-size_kb: 86934
+size_kb: 87091
 archived: false
-fetched_at: "2026-11-09T21:37:59Z"
+fetched_at: "2026-11-16T21:51:10Z"
 last_release: "v0.8.3"
 last_release_at: "2026-10-28"
 ---

@@ -4,16 +4,16 @@ genre: "agent-framework"
 url: "https://github.com/rerun-build/rerun"
 repo: "rerun-build/rerun"
 license: "AGPL-3.0"
-stars: 1031
+stars: 1085
 language: "TypeScript"
 created: "2026-10-29"
-updated: "2026-11-12"
-forks: 125
-open_issues: 20
+updated: "2026-11-16"
+forks: 131
+open_issues: 24
 commits_30d: 100
 commit_cadence: "daily"
 commits_90d: 100
-size_kb: 33921
+size_kb: 38112
 archived: false
 flags: ["unverified"]
 risk_notes: "一次資料で未確認: 技術背景・有効性・依存関係・実行条件。"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-12"
 first_seen: "2026-11-12"
 sources: ["https://x.com/Ryrenz/status/2118615875062227049"]
-fetched_at: "2026-11-12T23:11:52.665317+00:00"
+fetched_at: "2026-11-16T21:40:39Z"
+last_release: "v0.16.1"
+last_release_at: "2026-11-16"
 ---
 
 # Rerun

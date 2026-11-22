@@ -4,8 +4,8 @@ name: "Hunyuan3D-2"
 genre: "3d-motion"
 url: "https://github.com/Tencent-Hunyuan/Hunyuan3D-2"
 license: "unknown"
-stars: 15376
-forks: 1594
+stars: 15445
+forks: 1604
 open_issues: 254
 size_kb: 83148
 language: "Python"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-10"
 first_seen: "2026-11-10"
 sources: ["https://x.com/Y0urDumble/status/2117739253748937033"]
-fetched_at: "2026-11-10T10:28:18+00:00"
+fetched_at: "2026-11-16T21:35:08Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # Hunyuan3D-2で単一画像から3Dメッシュを生成

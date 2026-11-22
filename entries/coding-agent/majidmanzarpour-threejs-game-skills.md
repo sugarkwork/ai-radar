@@ -3,7 +3,7 @@ name: "Three.js Game Skills"
 genre: "coding-agent"
 url: "https://github.com/majidmanzarpour/threejs-game-skills"
 repo: "majidmanzarpour/threejs-game-skills"
-stars: 2815
+stars: 2828
 forks: 284
 open_issues: 5
 size_kb: 444
@@ -21,7 +21,9 @@ added: "2026-11-15"
 first_seen: "2026-11-15"
 risk_notes: ""
 sources: ["https://x.com/Y0urDumble/status/2119023461267833047"]
-fetched_at: "2026-11-15T11:17:55.378348+00:00"
+fetched_at: "2026-11-16T21:45:41Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # Three.js Game Skills

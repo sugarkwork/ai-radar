@@ -4,17 +4,17 @@ name: "cc-blender-skill"
 genre: "3d-motion"
 url: "https://github.com/RobLe3/cc-blender-skill"
 license: "MIT"
-stars: 156
-forks: 18
+stars: 168
+forks: 20
 open_issues: 0
 size_kb: 23066
 language: "Python"
 created: "2026-04-27"
 updated: "2026-10-12"
 archived: false
-commits_30d: 4
+commits_30d: 0
 commits_90d: 4
-commit_cadence: "weekly"
+commit_cadence: "monthly"
 last_release: "v1.4.0"
 flags: ["unverified"]
 risk_notes: "動作と生成品質は独立に検証していない。作者資料でもClaude Codeでのスキル検出・振り分け、Blender 5.1.1以外の実機動作、Unrealへのインポートは検証範囲が限られる。発見投稿の参照動画からの編集可能プロジェクト再現は、本リポジトリの機能として確認できていない。"
@@ -22,7 +22,8 @@ type: "repo"
 added: "2026-11-10"
 first_seen: "2026-11-10"
 sources: ["https://x.com/CryptooGG_/status/2119312343892976064"]
-fetched_at: "2026-11-10T12:09:32+00:00"
+fetched_at: "2026-11-16T21:34:44Z"
+last_release_at: "2026-10-12"
 ---
 
 # cc-blender-skill — 自然言語でBlenderの制作工程を組み立てるスキル集

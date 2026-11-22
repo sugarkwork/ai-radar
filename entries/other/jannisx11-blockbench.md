@@ -4,7 +4,7 @@ genre: "other"
 url: "https://github.com/JannisX11/blockbench"
 repo: "JannisX11/blockbench"
 license: "GPL-3.0"
-stars: 6213
+stars: 6216
 language: "JavaScript"
 created: "2017-06-08"
 updated: "2026-11-15"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-16"
 first_seen: "2026-11-16"
 sources: ["https://x.com/dextune/status/2119000656455614716"]
-fetched_at: "2026-11-16T00:19:17.337548+00:00"
+fetched_at: "2026-11-16T22:01:23Z"
+last_release: "v5.2.2"
+last_release_at: "2026-10-08"
 ---
 
 # Blockbench

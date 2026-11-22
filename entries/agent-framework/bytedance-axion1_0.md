@@ -3,7 +3,7 @@ name: "Axion 1.0"
 genre: "agent-framework"
 url: "https://github.com/bytedance/axion1_0"
 repo: "bytedance/axion1_0"
-stars: 72
+stars: 82
 forks: 6
 open_issues: 4
 size_kb: 4045
@@ -12,7 +12,7 @@ created: "2026-11-02"
 updated: "2026-11-11"
 archived: false
 license: "Apache-2.0"
-commits_30d: 39
+commits_30d: 23
 commits_90d: 39
 commit_cadence: "daily"
 flags: ["unverified"]
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-12"
 first_seen: "2026-11-12"
 sources: ["https://x.com/ai_hakase_/status/2118569827044360253"]
-fetched_at: "2026-11-12T19:08:45.737408+00:00"
+fetched_at: "2026-11-16T21:36:57Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # Axion 1.0

@@ -4,10 +4,10 @@ name: Lightweight Charts
 genre: finance-quant
 url: https://github.com/tradingview/lightweight-charts
 license: Apache-2.0
-stars: 17828
+stars: 17878
 language: TypeScript
 created: 2019-05-24
-updated: "2026-11-09"
+updated: "2026-11-16"
 added: 2026-11-05
 first_seen: 2026-11-05
 source_post: https://x.com/roundtablespace/status/2118172700757889191
@@ -15,16 +15,16 @@ sources:
   - https://tradingview.github.io/lightweight-charts/
 flags: []
 risk_notes: ""
-forks: 2700
-open_issues: 110
-commits_30d: 81
+forks: 2717
+open_issues: 105
+commits_30d: 100
 commits_90d: 100
 commit_cadence: "daily"
-size_kb: 240356
+size_kb: 269505
 archived: false
-fetched_at: "2026-11-09T21:38:03Z"
-last_release: "v5.2.1"
-last_release_at: "2026-08-12"
+fetched_at: "2026-11-16T21:51:20Z"
+last_release: "v5.3.0"
+last_release_at: "2026-11-10"
 ---
 
 # Lightweight Charts

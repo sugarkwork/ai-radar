@@ -4,15 +4,15 @@ genre: "coding-agent"
 url: "https://github.com/obsidianmd/obsidian-skills"
 repo: "obsidianmd/obsidian-skills"
 license: "MIT"
-stars: 52741
+stars: 52945
 language: "Shell"
 created: "2026-01-02"
-updated: "2026-11-11"
-forks: 3755
-open_issues: 4
-commits_30d: 33
+updated: "2026-11-16"
+forks: 3771
+open_issues: 2
+commits_30d: 34
 commit_cadence: "daily"
-commits_90d: 43
+commits_90d: 44
 size_kb: 187
 archived: false
 flags: ["unverified"]
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-15"
 first_seen: "2026-11-15"
 sources: ["https://x.com/stewy0x/status/2121929768996110590"]
-fetched_at: "2026-11-15T14:17:01.950921+00:00"
+fetched_at: "2026-11-16T21:46:38Z"
+last_release: "1.2.0"
+last_release_at: "2026-11-16"
 ---
 
 # Obsidian Agent Skills

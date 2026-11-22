@@ -4,16 +4,16 @@ genre: "other"
 url: "https://github.com/hanxi/cups-web"
 repo: "hanxi/cups-web"
 license: "MIT"
-stars: 1529
+stars: 1528
 language: "Go"
 created: "2025-12-30"
-updated: "2026-11-08"
-forks: 192
-open_issues: 4
+updated: "2026-11-15"
+forks: 193
+open_issues: 3
 commits_30d: 13
 commit_cadence: "weekly"
-commits_90d: 63
-size_kb: 77651
+commits_90d: 64
+size_kb: 77655
 archived: false
 flags: ["unverified"]
 risk_notes: "管理画面からアップロードした.debは、コンテナ内でrootとしてインストールスクリプトを実行する。信頼できる出所のパッケージのみを使う必要がある。"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-15"
 first_seen: "2026-11-15"
 sources: ["https://x.com/bkdgiffug/status/2118967689159082344"]
-fetched_at: "2026-11-15T11:30:16.621744+00:00"
+fetched_at: "2026-11-16T22:01:07Z"
+last_release: "v0.2.27"
+last_release_at: "2026-11-15"
 ---
 
 # CUPS Web

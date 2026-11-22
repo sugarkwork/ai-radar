@@ -5,9 +5,9 @@ url: "https://github.com/vouchdev/vouch"
 repo: "vouchdev/vouch"
 flags: ["unverified"]
 risk_notes: "READMEの説明に基づく機能であり、効果や実行結果は未検証。LLM機能にはANTHROPIC_API_KEYを渡す手順が記載されているが、料金や利用条件は不明。"
-stars: 67
+stars: 68
 forks: 62
-open_issues: 45
+open_issues: 44
 size_kb: 22305
 language: "Python"
 created: "2026-05-17"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-11"
 first_seen: "2026-11-11"
 sources: ["https://x.com/Bober_smart/status/2116978958121964030"]
-fetched_at: "2026-11-10T14:15:17.698097+00:00"
+fetched_at: "2026-11-16T21:41:41Z"
+last_release: "v1.5.0"
+last_release_at: "2026-07-20"
 ---
 
 # vouch

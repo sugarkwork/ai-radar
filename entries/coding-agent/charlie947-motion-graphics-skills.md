@@ -3,8 +3,8 @@ name: "Motion Graphics Skill Pack"
 genre: "coding-agent"
 url: "https://github.com/charlie947/motion-graphics-skills"
 repo: "charlie947/motion-graphics-skills"
-stars: 648
-forks: 86
+stars: 696
+forks: 97
 open_issues: 2
 size_kb: 12307
 language: "Shell"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-12"
 first_seen: "2026-11-12"
 sources: ["https://x.com/PromptLabCN/status/2120750742785171596"]
-fetched_at: "2026-11-12T06:12:31.553664+00:00"
+fetched_at: "2026-11-16T21:43:02Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # Motion Graphics Skill Pack

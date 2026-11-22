@@ -6,23 +6,24 @@ url: "https://github.com/ibelick/ui-skills"
 last_release: "v0.2.3"
 flags: ["unverified"]
 risk_notes: ["create-canvasの動作、生成結果の品質、ブラウザー互換性や性能は未実測。対応フレームワークの範囲と公開MCPの料金・利用上限は未確認。最新リリースのタグはGitHubで確認したが、公開日時の年とタイムゾーンは確認できていない。"]
-stars: 10912
-forks: 521
-open_issues: 22
-size_kb: 2730
+stars: 11125
+forks: 534
+open_issues: 29
+size_kb: 2928
 language: "TypeScript"
 created: "2026-01-07"
-updated: "2026-11-07"
+updated: "2026-11-14"
 archived: false
 license: "MIT"
-commits_30d: 85
+commits_30d: 46
 commits_90d: 100
 commit_cadence: "daily"
 type: "repo"
 added: "2026-11-10"
 first_seen: "2026-11-10"
 sources: ["https://x.com/sumika45379/status/2115420830910029989"]
-fetched_at: "2026-11-10T12:15:35+00:00"
+fetched_at: "2026-11-16T21:44:52Z"
+last_release_at: "2026-06-22"
 ---
 
 # UI Skills — 既存のUI部品で画面案を比較するエージェント向けスキル集

@@ -5,8 +5,8 @@ url: "https://github.com/EasyJailbreak/EasyJailbreak"
 repo: "EasyJailbreak/EasyJailbreak"
 flags: ["malicious", "unverified"]
 risk_notes: "README explicitly describes generating adversarial jailbreak prompts and using them to attack a target model. This capability can facilitate bypassing model safeguards. 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。"
-stars: 945
-forks: 95
+stars: 947
+forks: 96
 open_issues: 17
 size_kb: 8916
 language: "Python"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-13"
 first_seen: "2026-11-13"
 sources: ["https://x.com/mingzi206/status/2118628554883883348"]
-fetched_at: "2026-11-13T00:12:58.574194+00:00"
+fetched_at: "2026-11-16T21:49:22Z"
+last_release: "0.1.3"
+last_release_at: "2024-08-30"
 ---
 
 # EasyJailbreak

@@ -4,16 +4,16 @@ genre: "image-gen"
 url: "https://github.com/upscayl/upscayl"
 repo: "upscayl/upscayl"
 license: "AGPL-3.0"
-stars: 52517
+stars: 52767
 language: "TypeScript"
 created: "2022-07-30"
-updated: "2026-10-05"
-forks: 2751
-open_issues: 56
+updated: "2026-11-14"
+forks: 2768
+open_issues: 55
 commits_30d: 0
 commit_cadence: "stale"
 commits_90d: 0
-size_kb: 568363
+size_kb: 568505
 archived: false
 flags: ["unverified"]
 risk_notes: "一次資料で未確認: 技術背景・有効性・依存関係・実行条件。"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-14"
 first_seen: "2026-11-14"
 sources: ["https://x.com/bkdgiffug/status/2118778945424212086"]
-fetched_at: "2026-11-14T05:14:20.166596+00:00"
+fetched_at: "2026-11-16T21:52:52Z"
+last_release: "v2.15.0"
+last_release_at: "2024-12-25"
 ---
 
 # Upscayl

@@ -16,15 +16,15 @@ license: "CC-BY-4.0"
 language: "unknown"
 created: "2026-10-21"
 updated: "2026-11-09"
-stars: 161
-forks: 10
-open_issues: 9
+stars: 193
+forks: 12
+open_issues: 10
 commits_30d: 16
 commits_90d: 16
 commit_cadence: "weekly"
 size_kb: 3474
 archived: false
-fetched_at: "2026-11-09T21:40:06Z"
+fetched_at: "2026-11-16T21:56:50Z"
 license_detail: "原チェックのLICENSE/README解釈: Apache-2.0 (engine); CC-BY-4.0 (reports)。APIのSPDX判定とは別。利用前に現行本文を確認。"
 last_release: "v0.2"
 last_release_at: "2026-10-23"

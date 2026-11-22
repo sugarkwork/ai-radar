@@ -4,11 +4,11 @@ name: "Jev Plays Pokémon Red"
 genre: "other"
 url: "https://github.com/christianmat/jev-pokemon"
 license: "GPL-2.0"
-stars: 133
+stars: 134
 language: "TypeScript"
 created: "2026-09-25"
 updated: "2026-09-28"
-forks: 10
+forks: 11
 open_issues: 2
 commits_30d: 0
 commit_cadence: "monthly"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-10"
 first_seen: "2026-11-10"
 sources: ["https://x.com/thegreatest_sv/status/2115779290033803462"]
-fetched_at: "2026-11-10T12:31:32+00:00"
+fetched_at: "2026-11-16T21:59:11Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # Jev Plays Pokémon Red — ゲーム状態から行動候補を組み立てる AI 実行基盤の実例

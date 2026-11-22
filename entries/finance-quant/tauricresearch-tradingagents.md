@@ -3,16 +3,16 @@ repo: "TauricResearch/TradingAgents"
 name: "TradingAgents"
 genre: "finance-quant"
 url: "https://github.com/TauricResearch/TradingAgents"
-stars: 121734
-forks: 23299
-open_issues: 133
+stars: 122842
+forks: 23555
+open_issues: 152
 size_kb: 6566
 language: "Python"
 created: "2024-12-28"
 updated: "2026-11-04"
 archived: false
 license: "Apache-2.0"
-commits_30d: 34
+commits_30d: 23
 commits_90d: 100
 commit_cadence: "daily"
 last_release: "v0.7.1"
@@ -23,7 +23,7 @@ type: "repo"
 added: "2026-11-10"
 first_seen: "2026-11-10"
 sources: ["https://x.com/PayneL_AI/status/2117231964495221130"]
-fetched_at: "2026-11-10T08:27:27+00:00"
+fetched_at: "2026-11-16T21:51:13Z"
 ---
 
 # TradingAgents — 複数のLLMエージェントによる銘柄調査

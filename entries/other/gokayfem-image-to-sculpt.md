@@ -4,7 +4,7 @@ genre: "other"
 url: "https://github.com/gokayfem/image-to-sculpt"
 repo: "gokayfem/image-to-sculpt"
 license: "MIT"
-stars: 289
+stars: 295
 language: "Python"
 created: "2026-11-08"
 updated: "2026-11-08"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-14"
 first_seen: "2026-11-14"
 sources: ["https://x.com/Vlixsi/status/2121631327036318061"]
-fetched_at: "2026-11-14T16:11:56.248394+00:00"
+fetched_at: "2026-11-16T22:00:46Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # Image 2 Sculpt

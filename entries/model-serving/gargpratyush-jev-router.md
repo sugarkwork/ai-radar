@@ -6,7 +6,7 @@ url: "https://github.com/gargpratyush/jev-router"
 author: "gargpratyush"
 type: "repo"
 license: "MIT"
-stars: 660
+stars: 669
 language: "JavaScript"
 created: "2026-09-16"
 updated: "2026-09-19"
@@ -24,7 +24,7 @@ risk_notes: "README にベンチマークが無く、ルーティング精度や
 added: "2026-11-09"
 first_seen: "2026-11-09"
 sources: ["https://x.com/thegreatest_sv/status/2114378197932617766"]
-fetched_at: "2026-11-09T21:39:50Z"
+fetched_at: "2026-11-16T21:56:15Z"
 ---
 
 # jev-router — Claude Code / Codex をターン毎に安いモデルへ振り分けるルータ

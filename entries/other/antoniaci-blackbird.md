@@ -4,14 +4,14 @@ genre: "other"
 url: "https://github.com/antoniaci/blackbird"
 repo: "antoniaci/blackbird"
 license: "unknown"
-stars: 10154
+stars: 10187
 language: "Python"
 created: "2022-05-06"
 updated: "2026-11-03"
-forks: 1472
+forks: 1486
 open_issues: 16
-commits_30d: 5
-commit_cadence: "weekly"
+commits_30d: 3
+commit_cadence: "monthly"
 commits_90d: 8
 size_kb: 14580
 archived: false
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-14"
 first_seen: "2026-11-14"
 sources: ["https://x.com/ruyi3699/status/2118713263290741015"]
-fetched_at: "2026-11-13T20:09:13.755613+00:00"
+fetched_at: "2026-11-16T21:58:45Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # Blackbird

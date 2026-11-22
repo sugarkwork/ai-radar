@@ -4,16 +4,16 @@ genre: "coding-agent"
 url: "https://github.com/Jev-Engineering/cookbook"
 repo: "Jev-Engineering/cookbook"
 license: "MIT"
-stars: 30
+stars: 35
 language: "Jupyter Notebook"
 created: "2026-10-06"
-updated: "2026-11-10"
-forks: 5
-open_issues: 129
-commits_30d: 73
+updated: "2026-11-14"
+forks: 6
+open_issues: 192
+commits_30d: 61
 commit_cadence: "daily"
 commits_90d: 100
-size_kb: 38359
+size_kb: 44016
 archived: false
 flags: ["unverified"]
 risk_notes: "The README does not identify the license or provide the runtime requirements of each recipe. Box requires the Jev 1.14 preview and experimental images header. Quality, latency, and cost are not established by synthetic runs; live-result claims require held-out recorded inference with model version, date, and sample count."
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-11"
 first_seen: "2026-11-11"
 sources: ["https://x.com/GitTrend0x/status/2120147118237114757"]
-fetched_at: "2026-11-11T06:11:22.093945+00:00"
+fetched_at: "2026-11-16T21:45:00Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # Jev Cookbook

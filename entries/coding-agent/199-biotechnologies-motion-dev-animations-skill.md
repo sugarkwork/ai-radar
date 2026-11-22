@@ -4,7 +4,7 @@ genre: "coding-agent"
 url: "https://github.com/199-biotechnologies/motion-dev-animations-skill"
 repo: "199-biotechnologies/motion-dev-animations-skill"
 license: "MIT"
-stars: 231
+stars: 233
 language: "TypeScript"
 created: "2025-11-07"
 updated: "2026-03-30"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-12"
 first_seen: "2026-11-12"
 sources: ["https://x.com/PromptLabCN/status/2120750742785171596"]
-fetched_at: "2026-11-12T06:17:27.762824+00:00"
+fetched_at: "2026-11-16T21:42:03Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # Motion.dev Animations Skill

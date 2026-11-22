@@ -4,16 +4,16 @@ genre: "agent-framework"
 url: "https://github.com/chaitin/MonkeyCode"
 repo: "chaitin/MonkeyCode"
 license: "AGPL-3.0"
-stars: 5202
+stars: 5216
 language: "TypeScript"
 created: "2025-06-25"
-updated: "2026-11-14"
+updated: "2026-11-16"
 forks: 782
-open_issues: 427
+open_issues: 428
 commits_30d: 100
 commit_cadence: "daily"
 commits_90d: 100
-size_kb: 152678
+size_kb: 153186
 archived: false
 flags: ["unverified"]
 risk_notes: "無料版は最大10席で、クラウドPCと技術サポートは含まれない。付費版の価格と席数はREADMEに記載がなく、要問い合わせ。外部モデルやツールを使う場合、関連内容は設定したサービスへ送信される。"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-15"
 first_seen: "2026-11-15"
 sources: ["https://x.com/ruyi3699/status/2118923901900333222"]
-fetched_at: "2026-11-15T03:23:28.985824+00:00"
+fetched_at: "2026-11-16T21:37:06Z"
+last_release: "v26072801"
+last_release_at: "2026-07-28"
 ---
 
 # 百智办公 · MonkeyAI

@@ -4,10 +4,10 @@ genre: "model-serving"
 url: "https://github.com/Generated-Computers/Locals"
 repo: "Generated-Computers/Locals"
 license: "Apache-2.0"
-stars: 647
+stars: 651
 language: "Python"
 created: "2026-10-12"
-updated: "2026-11-12"
+updated: "2026-11-16"
 forks: 43
 open_issues: 8
 commits_30d: 100
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-12"
 first_seen: "2026-11-12"
 sources: ["https://x.com/Ryrenz/status/2118555228756639888"]
-fetched_at: "2026-11-12T16:17:04.035226+00:00"
+fetched_at: "2026-11-16T21:56:18Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # Locals

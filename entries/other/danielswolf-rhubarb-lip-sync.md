@@ -4,11 +4,11 @@ genre: "other"
 url: "https://github.com/DanielSWolf/rhubarb-lip-sync"
 repo: "DanielSWolf/rhubarb-lip-sync"
 license: "unknown"
-stars: 2763
+stars: 2778
 language: "C++"
 created: "2015-10-19"
 updated: "2026-06-16"
-forks: 329
+forks: 331
 open_issues: 26
 commits_30d: 0
 commit_cadence: "stale"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-12"
 first_seen: "2026-11-12"
 sources: ["https://x.com/RealMarvelX/status/2118525010088251781"]
-fetched_at: "2026-11-12T11:19:46.293973+00:00"
+fetched_at: "2026-11-16T21:59:24Z"
+last_release: "v1.14.0"
+last_release_at: "2025-04-03"
 ---
 
 # Rhubarb Lip Sync

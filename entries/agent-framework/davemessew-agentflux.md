@@ -14,14 +14,16 @@ created: "2026-10-27"
 updated: "2026-10-30"
 archived: false
 license: "Apache-2.0"
-commits_30d: 5
-commits_90d: 16
-commit_cadence: "weekly"
+commits_30d: 2
+commits_90d: 15
+commit_cadence: "monthly"
 type: "repo"
 added: "2026-11-15"
 first_seen: "2026-11-15"
 sources: ["https://x.com/AIExplorerTim/status/2118910064606233060"]
-fetched_at: "2026-11-15T00:18:25.064256+00:00"
+fetched_at: "2026-11-16T21:37:23Z"
+last_release: "v0.3.0"
+last_release_at: "2026-10-30"
 ---
 
 # AgentFlux

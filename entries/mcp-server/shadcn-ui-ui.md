@@ -6,23 +6,24 @@ url: "https://github.com/shadcn-ui/ui"
 last_release: "shadcn@4.23.0"
 flags: ["unverified"]
 risk_notes: "MCP の接続とコンポーネント追加は公式手順で確認した。実行時の互換性、生成結果の品質、作業時間の短縮効果は実測していない。最新リリースの公開日時は未確認。"
-stars: 127807
-forks: 11332
-open_issues: 1776
-size_kb: 75193
+stars: 128336
+forks: 11403
+open_issues: 1775
+size_kb: 75394
 language: "TypeScript"
 created: "2023-01-04"
-updated: "2026-11-10"
+updated: "2026-11-13"
 archived: false
 license: "MIT"
-commits_30d: 84
+commits_30d: 70
 commits_90d: 100
 commit_cadence: "daily"
 type: "repo"
 added: "2026-11-11"
 first_seen: "2026-11-11"
 sources: ["https://x.com/thegreatest_sv/status/2116190137948254226"]
-fetched_at: "2026-11-10T13:00:07+00:00"
+fetched_at: "2026-11-16T21:55:20Z"
+last_release_at: "2026-10-27"
 ---
 
 # shadcn/ui の公式 MCP で UI コンポーネントを探して追加する

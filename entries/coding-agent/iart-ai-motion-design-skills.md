@@ -6,8 +6,8 @@ repo: "iart-ai/motion-design-skills"
 license: "MIT"
 flags: ["unverified"]
 risk_notes: "個々のスキルの依存関係や必要な実行環境はREADMEに記載されていません。"
-stars: 226
-forks: 36
+stars: 239
+forks: 40
 open_issues: 0
 size_kb: 4333
 language: "HTML"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-12"
 first_seen: "2026-11-12"
 sources: ["https://x.com/PromptLabCN/status/2120750742785171596"]
-fetched_at: "2026-11-12T06:14:27.936966+00:00"
+fetched_at: "2026-11-16T21:44:50Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # Motion Design Skills

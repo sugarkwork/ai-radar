@@ -3,16 +3,16 @@ repo: "Comfy-Org/ComfyUI"
 name: "ComfyUI"
 genre: "image-gen"
 url: "https://github.com/Comfy-Org/ComfyUI"
-last_release: "v0.44.0"
+last_release: "v0.45.0"
 flags: ["unverified"]
 risk_notes: "FP8とDynamic VRAMの速度改善幅、P-H3-Imageのモデル系譜と重みの利用条件、各機能の必要VRAMと出力品質、最新リリースの公開日時の年とタイムゾーンは未確認。導入と推論の実行検証は行っていない。"
-stars: 146083
-forks: 17401
-open_issues: 5486
-size_kb: 107607
+stars: 147174
+forks: 17573
+open_issues: 5555
+size_kb: 107656
 language: "Python"
 created: "2023-01-17"
-updated: "2026-11-10"
+updated: "2026-11-16"
 archived: false
 license: "GPL-3.0"
 commits_30d: 100
@@ -22,7 +22,8 @@ type: "repo"
 added: "2026-11-10"
 first_seen: "2026-11-10"
 sources: ["https://x.com/sep_is_heim/status/2117816879461093847"]
-fetched_at: "2026-11-10T10:41:51+00:00"
+fetched_at: "2026-11-16T21:51:49Z"
+last_release_at: "2026-11-10"
 ---
 
 # ComfyUI v0.44.0で画像生成・編集ワークフローを組む

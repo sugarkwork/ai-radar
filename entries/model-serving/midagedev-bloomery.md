@@ -4,10 +4,10 @@ name: "bloomery"
 genre: model-serving
 url: "https://github.com/midagedev/bloomery"
 license: "MIT"
-stars: 62
+stars: 78
 language: "Rust"
 created: "2026-09-19"
-updated: "2026-11-09"
+updated: "2026-11-16"
 added: "2026-11-04"
 first_seen: "2026-11-04"
 source_post: "https://x.com/dextune/status/2117900921984401793"
@@ -15,15 +15,15 @@ sources: []
 flags: []
 risk_notes: ""
 forks: 7
-open_issues: 44
-size_kb: 97312
+open_issues: 39
+size_kb: 101240
 archived: false
-last_release: "v0.3.13"
+last_release: "v0.3.14"
 commits_30d: 100
 commits_90d: 100
 commit_cadence: "daily"
-fetched_at: "2026-11-09T21:40:14Z"
-last_release_at: "2026-11-08"
+fetched_at: "2026-11-16T21:57:00Z"
+last_release_at: "2026-11-13"
 ---
 
 # bloomery

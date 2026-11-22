@@ -4,12 +4,12 @@ genre: "coding-agent"
 url: "https://github.com/akitaonrails/ai-memory"
 repo: "akitaonrails/ai-memory"
 license: "MIT"
-stars: 15992
+stars: 16010
 language: "Rust"
 created: "2026-05-21"
 updated: "2026-11-15"
-forks: 1199
-open_issues: 55
+forks: 1201
+open_issues: 62
 commits_30d: 100
 commit_cadence: "daily"
 commits_90d: 100
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-16"
 first_seen: "2026-11-16"
 sources: ["https://x.com/ruyi3699/status/2119061557858464140"]
-fetched_at: "2026-11-16T14:11:28.066661+00:00"
+fetched_at: "2026-11-16T21:42:33Z"
+last_release: "v3.4.7"
+last_release_at: "2026-11-15"
 ---
 
 # ai-memory

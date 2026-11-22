@@ -5,13 +5,13 @@ repo: "motiondivision/motion"
 url: "https://github.com/motiondivision/motion"
 flags: ["unverified"]
 risk_notes: "最新リリースの版と公開日時、ブラウザー上の描画性能、エージェントへのSkill導入とMCP接続の実動作は未確認。コミット件数の100は各期間で100件以上を表す。"
-stars: 35043
-forks: 1527
-open_issues: 5
-size_kb: 1668394
+stars: 35261
+forks: 1559
+open_issues: 11
+size_kb: 1668105
 language: "TypeScript"
 created: "2018-11-16"
-updated: "2026-11-10"
+updated: "2026-11-16"
 archived: false
 license: "MIT"
 commits_30d: 100
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-10"
 first_seen: "2026-11-10"
 sources: ["https://x.com/okapi_fukugyo/status/2117616982518559161"]
-fetched_at: "2026-11-10T09:54:18+00:00"
+fetched_at: "2026-11-16T21:34:03Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # Motion — ReactのUIアニメーションとレイアウト遷移

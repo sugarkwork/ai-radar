@@ -4,10 +4,10 @@ name: Skills for Real Engineers
 genre: agent-framework
 url: https://github.com/mattpocock/skills
 license: MIT
-stars: 319628
+stars: 325896
 language: Shell
 created: 2026-02-03
-updated: "2026-11-09"
+updated: "2026-11-13"
 added: 2026-11-05
 first_seen: 2026-11-05
 source_post: https://x.com/mattpocockuk/status/2117947025354539286
@@ -16,14 +16,14 @@ sources:
   - https://skills.sh/mattpocock/skills
 flags: []
 risk_notes: ""
-forks: 26760
-open_issues: 229
-commits_30d: 8
+forks: 27353
+open_issues: 248
+commits_30d: 10
 commits_90d: 100
 commit_cadence: "weekly"
-size_kb: 2269
+size_kb: 2391
 archived: false
-fetched_at: "2026-11-09T21:33:45Z"
+fetched_at: "2026-11-16T21:39:10Z"
 last_release: "v1.3.2"
 last_release_at: "2026-10-29"
 ---

@@ -4,12 +4,12 @@ name: "Claude Quickstarts"
 genre: "agent-framework"
 url: "https://github.com/anthropics/claude-quickstarts"
 license: "MIT"
-stars: 20218
+stars: 21070
 language: "Python"
 created: "2024-08-29"
 updated: "2026-11-06"
-forks: 3373
-open_issues: 240
+forks: 3500
+open_issues: 244
 commits_30d: 5
 commit_cadence: "weekly"
 commits_90d: 28
@@ -22,7 +22,9 @@ type: "repo"
 added: "2026-11-10"
 first_seen: "2026-11-10"
 sources: ["https://x.com/N01ennn/status/2117681136306393357"]
-fetched_at: "2026-11-10T10:18:36Z"
+fetched_at: "2026-11-16T21:36:20Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # Claude Quickstarts — Anthropic公式のClaude API実装例集

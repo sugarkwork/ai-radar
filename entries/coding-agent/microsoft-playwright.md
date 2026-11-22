@@ -4,16 +4,16 @@ genre: "coding-agent"
 url: "https://github.com/microsoft/playwright"
 repo: "microsoft/playwright"
 license: "Apache-2.0"
-stars: 99952
+stars: 100346
 language: "TypeScript"
 created: "2019-11-15"
-updated: "2026-11-12"
-forks: 6855
-open_issues: 30
+updated: "2026-11-16"
+forks: 6896
+open_issues: 68
 commits_30d: 100
 commit_cadence: "daily"
 commits_90d: 100
-size_kb: 246944
+size_kb: 247714
 archived: false
 flags: ["unverified"]
 risk_notes: "一次資料で未確認: 技術背景・有効性・依存関係・実行条件。"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-12"
 first_seen: "2026-11-12"
 sources: ["https://x.com/kursormaxx/status/2118673610722144590"]
-fetched_at: "2026-11-12T11:11:07.075000+00:00"
+fetched_at: "2026-11-16T21:45:55Z"
+last_release: "v1.65.1"
+last_release_at: "2026-11-13"
 ---
 
 # Playwright

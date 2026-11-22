@@ -6,10 +6,10 @@ url: "https://github.com/edrethardo/Faltwerk"
 author: "Aaron Nowak (@edrethardo) / James Kane (@jameskane05) — co-developer, testing, feedback"
 repo: "edrethardo/Faltwerk"
 license: "MIT"
-stars: 36
+stars: 47
 language: "Python"
 created: "2026-10-27"
-updated: "2026-11-04"
+updated: "2026-11-14"
 added: "2026-11-07"
 first_seen: "2026-11-05"
 sources: ["https://x.com/tokufxug/status/2118171681437175920", "https://jameskane05.github.io/faltwerk-demo/", "https://github.com/edrethardo/Faltwerk"]
@@ -17,13 +17,13 @@ flags: []
 risk_notes: "研究コード（作成 2026-10-27、コミット3件、リリース・PyPI 無し、README に Research code, moving quickly）。画像ソースの学習は PyTorch + gsplat 1.5 + CUDA GPU（24GB 推奨）と外部データセットが必要。MCP サーバ・REST API・Agent Skill は無く、呼び出し口は CLI と Python API のみ。GitHub API の license 判定は NOASSERTION だが LICENSE 本文は MIT。 投稿の「1.4GB→5〜7MB」「Quest 3 で 25〜40Mbps」は投稿者の比較値で、本項目では採用していない。"
 forks: 3
 open_issues: 0
-commits_30d: 3
-commit_cadence: "monthly"
+commits_30d: 4
+commit_cadence: "weekly"
 size_kb: 1429
 archived: false
-fetched_at: "2026-11-09T21:30:49Z"
+fetched_at: "2026-11-16T21:32:48Z"
 source_post: "https://www.linkedin.com/posts/james-c-kane_can-i-interest-anyone-in-a-tiny-angry-james-ugcPost-7523402576223203328-Bdc8/"
-commits_90d: 3
+commits_90d: 4
 last_release: ""
 last_release_at: ""
 ---

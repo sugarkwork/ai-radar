@@ -3,7 +3,7 @@ name: "EvoSkill"
 genre: "coding-agent"
 url: "https://github.com/sentient-agi/EvoSkill"
 repo: "sentient-agi/EvoSkill"
-stars: 1298
+stars: 1303
 forks: 134
 open_issues: 21
 size_kb: 8819
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-12"
 first_seen: "2026-11-12"
 sources: ["https://x.com/slatro_eth/status/2120861866712838495"]
-fetched_at: "2026-11-12T14:18:16.262396+00:00"
+fetched_at: "2026-11-16T21:47:19Z"
+last_release: "v2.0.0"
+last_release_at: "2026-10-26"
 ---
 
 # EvoSkill

@@ -6,22 +6,24 @@ url: "https://github.com/justinhe16/trade-jev"
 stars: 13
 forks: 3
 open_issues: 1
-size_kb: 994
+size_kb: 1042
 language: "Python"
 created: "2026-09-17"
-updated: "2026-11-09"
+updated: "2026-11-13"
 archived: false
 license: "MIT"
-commits_30d: 16
-commits_90d: 21
-commit_cadence: "weekly"
+commits_30d: 20
+commits_90d: 25
+commit_cadence: "daily"
 flags: ["unverified"]
 risk_notes: "コードの実行と損益の独立再計算は未実施。別期間での成績、実約定での損益、現行のAPI・市場データ料金、最新リリースは未確認。"
 type: "repo"
 added: "2026-11-10"
 first_seen: "2026-11-10"
 sources: ["https://x.com/thegreatest_sv/status/2115461838607659474"]
-fetched_at: "2026-11-10T12:19:21Z"
+fetched_at: "2026-11-16T21:50:28Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # trade-jev｜Jevの売買シグナルを板データでバックテスト・再評価

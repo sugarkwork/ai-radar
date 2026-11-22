@@ -4,16 +4,16 @@ name: "Beacon"
 genre: "coding-agent"
 url: "https://github.com/Asymptote-Labs/agent-beacon"
 license: "MIT"
-stars: 3410
+stars: 3531
 language: "Go"
 created: "2026-05-12"
-updated: "2026-11-09"
-forks: 302
-open_issues: 13
+updated: "2026-11-16"
+forks: 317
+open_issues: 26
 commits_30d: 100
 commit_cadence: "daily"
 commits_90d: 100
-size_kb: 71397
+size_kb: 73042
 archived: false
 flags: ["unverified"]
 risk_notes: "最新版のタグ・公開日時、投稿にある beacon handoff resume の具体的な挙動、エージェント間の再利用による時間短縮や成功率、Beacon Cloudの料金は未確認。対話セットアップではBeacon Cloudが事前選択され、確定すると収集した履歴の転送が始まる。"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-10"
 first_seen: "2026-11-10"
 sources: ["https://x.com/PayneL_AI/status/2117477229563445735"]
-fetched_at: "2026-11-10T09:10:12+00:00"
+fetched_at: "2026-11-16T21:42:40Z"
+last_release: "v1.3.62"
+last_release_at: "2026-11-16"
 ---
 
 # BeaconでClaude CodeやCodexの作業知識を再利用する

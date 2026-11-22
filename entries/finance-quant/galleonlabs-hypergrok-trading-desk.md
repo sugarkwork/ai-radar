@@ -2,27 +2,28 @@
 name: "HyperGrok Trading Desk"
 genre: "finance-quant"
 url: "https://github.com/galleonlabs/hypergrok-trading-desk"
-last_release: "v1.7.1"
+last_release: "v1.8.0"
 flags: ["unverified"]
 risk_notes: "独立した動作検証は未実施。各環境の導入・権限設定、注文承認の強制と迂回耐性、取引成績、ホスト環境と取引所の料金は未確認。v1.7.1のリリースノートによると、公開Grok Botテンプレートは当時v1.7.0を配布しており、v1.7.1への更新状況は未確認。"
 repo: "galleonlabs/hypergrok-trading-desk"
-stars: 472
-forks: 110
+stars: 540
+forks: 121
 open_issues: 1
-size_kb: 1635
+size_kb: 1607
 language: "Python"
 created: "2026-08-16"
-updated: "2026-11-04"
+updated: "2026-11-16"
 archived: false
 license: "MIT"
-commits_30d: 26
-commits_90d: 80
+commits_30d: 23
+commits_90d: 88
 commit_cadence: "daily"
 type: "repo"
 added: "2026-11-10"
 first_seen: "2026-11-10"
 sources: ["https://x.com/thegreatest_sv/status/2117591176048005131"]
-fetched_at: "2026-11-10T09:44:37+00:00"
+fetched_at: "2026-11-16T21:50:16Z"
+last_release_at: "2026-11-16"
 ---
 
 # HyperGrok Trading Desk — Hyperliquid市場調査のためのAIエージェント用スキル集

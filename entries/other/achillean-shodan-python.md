@@ -5,8 +5,8 @@ url: "https://github.com/achillean/shodan-python"
 flags: ["unverified"]
 risk_notes: "READMEにはライセンス情報がなく、ライセンスは確認できていない。利用にはShodan APIキーが必要。 GitHub APIでライセンスを確認できていません。"
 repo: "achillean/shodan-python"
-stars: 3487
-forks: 785
+stars: 3493
+forks: 786
 open_issues: 64
 size_kb: 448
 language: "Python"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-14"
 first_seen: "2026-11-14"
 sources: ["https://x.com/ruyi3699/status/2118713263290741015"]
-fetched_at: "2026-11-13T20:10:45.297706+00:00"
+fetched_at: "2026-11-16T21:58:05Z"
+last_release: "1.28.0"
+last_release_at: "2022-07-09"
 ---
 
 # shodan-python

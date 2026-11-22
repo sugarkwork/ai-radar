@@ -3,8 +3,8 @@ name: "TRELLIS.2"
 genre: "3d-motion"
 url: "https://github.com/microsoft/TRELLIS.2"
 repo: "microsoft/TRELLIS.2"
-stars: 12905
-forks: 1565
+stars: 12950
+forks: 1575
 open_issues: 162
 size_kb: 676187
 language: "Python"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-14"
 first_seen: "2026-11-14"
 sources: ["https://x.com/Vlixsi/status/2121631327036318061"]
-fetched_at: "2026-11-14T16:10:27.320689+00:00"
+fetched_at: "2026-11-16T21:33:58Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # TRELLIS.2

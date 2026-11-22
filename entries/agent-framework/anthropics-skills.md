@@ -15,16 +15,16 @@ repo: "anthropics/skills"
 license: "unknown"
 language: "Python"
 created: "2025-09-22"
-updated: "2026-11-06"
-stars: 190810
-forks: 22434
-open_issues: 1505
-commits_30d: 2
-commits_90d: 15
-commit_cadence: "monthly"
-size_kb: 5502
+updated: "2026-11-16"
+stars: 195972
+forks: 23004
+open_issues: 1548
+commits_30d: 4
+commits_90d: 13
+commit_cadence: "weekly"
+size_kb: 5542
 archived: false
-fetched_at: "2026-11-09T21:32:25Z"
+fetched_at: "2026-11-16T21:36:27Z"
 last_release: ""
 last_release_at: ""
 ---

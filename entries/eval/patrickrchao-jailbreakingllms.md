@@ -5,7 +5,7 @@ url: "https://github.com/patrickrchao/JailbreakingLLMs"
 flags: ["malicious", "unverified"]
 risk_notes: "READMEは、攻撃者LLMが対象LLMへ反復問い合わせして安全ガードレールを回避するプロンプトを生成すると説明し、例としてコンピューターへの侵入方法を要求する目標を掲載しています。安全性評価の研究用途として登録しますが、悪用可能な内容です。 APIキーとWandBアカウントが必要です。READMEに記載されたモデル選択肢や実行手順が現在も利用可能かは確認していません。"
 repo: "patrickrchao/JailbreakingLLMs"
-stars: 817
+stars: 820
 forks: 128
 open_issues: 13
 size_kb: 41
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-13"
 first_seen: "2026-11-13"
 sources: ["https://x.com/mingzi206/status/2118628554883883348"]
-fetched_at: "2026-11-13T00:12:43.073340+00:00"
+fetched_at: "2026-11-16T21:49:38Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # Jailbreaking Black Box Large Language Models in Twenty Queries (PAIR)

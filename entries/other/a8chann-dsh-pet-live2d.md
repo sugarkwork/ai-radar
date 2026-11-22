@@ -5,23 +5,25 @@ url: "https://github.com/A8Chann/dsh-pet-live2d"
 flags: ["unverified"]
 risk_notes: "APIのlicense値はunknown。READMEのバッジにはMIT + CC BY-NC-SA 4.0とあるが、ライセンスの適用範囲は添付READMEだけでは確認できない。 GitHub APIでライセンスを確認できていません。"
 repo: "A8Chann/dsh-pet-live2d"
-stars: 78
-forks: 10
-open_issues: 1
+stars: 80
+forks: 11
+open_issues: 2
 size_kb: 8268
 language: "JavaScript"
 created: "2026-09-20"
 updated: "2026-11-09"
 archived: false
 license: "unknown"
-commits_30d: 42
+commits_30d: 35
 commits_90d: 100
 commit_cadence: "daily"
 type: "repo"
 added: "2026-11-15"
 first_seen: "2026-11-15"
 sources: ["https://x.com/dextune/status/2121641813136290022"]
-fetched_at: "2026-11-15T00:28:17.031408+00:00"
+fetched_at: "2026-11-16T21:57:57Z"
+last_release: "v3.6.0"
+last_release_at: "2026-11-09"
 ---
 
 # dsh-pet-live2d

@@ -4,15 +4,15 @@ genre: "image-gen"
 url: "https://github.com/danielgatis/rembg"
 repo: "danielgatis/rembg"
 license: "MIT"
-stars: 25424
+stars: 25527
 language: "Python"
 created: "2020-08-10"
 updated: "2026-11-06"
-forks: 2481
-open_issues: 1
+forks: 2500
+open_issues: 2
 commits_30d: 9
 commit_cadence: "weekly"
-commits_90d: 24
+commits_90d: 19
 size_kb: 89581
 archived: false
 flags: ["unverified"]
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-11"
 first_seen: "2026-11-11"
 sources: ["https://x.com/cryptowluha/status/2118618563703394414"]
-fetched_at: "2026-11-11T15:12:36.528978+00:00"
+fetched_at: "2026-11-16T21:51:51Z"
+last_release: "v2.0.87"
+last_release_at: "2026-11-06"
 ---
 
 # rembg

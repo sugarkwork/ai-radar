@@ -4,16 +4,16 @@ genre: "other"
 url: "https://github.com/Creators-of-Create/Create"
 repo: "Creators-of-Create/Create"
 license: "unknown"
-stars: 4618
+stars: 4621
 language: "Java"
 created: "2019-07-18"
 updated: "2026-11-15"
-forks: 1446
-open_issues: 1357
-commits_30d: 18
+forks: 1449
+open_issues: 1358
+commits_30d: 19
 commit_cadence: "weekly"
-commits_90d: 43
-size_kb: 94661
+commits_90d: 44
+size_kb: 94665
 archived: false
 flags: ["unverified"]
 risk_notes: "READMEには対応するMinecraftやmodローダーのバージョン、具体的な導入条件が記載されていない。 GitHub APIでライセンスを確認できていません。"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-15"
 first_seen: "2026-11-15"
 sources: ["https://x.com/dextune/status/2118976752693203289"]
-fetched_at: "2026-11-15T13:09:07.179360+00:00"
+fetched_at: "2026-11-16T21:59:20Z"
+last_release: "mc1.21.1-6.0.10"
+last_release_at: "2026-04-21"
 ---
 
 # Create

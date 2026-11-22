@@ -4,7 +4,7 @@ genre: "other"
 url: "https://github.com/ImageOptim/gifski"
 repo: "ImageOptim/gifski"
 license: "unknown"
-stars: 5710
+stars: 5711
 language: "Rust"
 created: "2017-11-01"
 updated: "2026-06-17"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-16"
 first_seen: "2026-11-16"
 sources: ["https://x.com/taki_auto/status/2122162883320848580"]
-fetched_at: "2026-11-16T05:24:34.784426+00:00"
+fetched_at: "2026-11-16T22:01:13Z"
+last_release: "1.34.0"
+last_release_at: "2025-07-13"
 ---
 
 # gifski

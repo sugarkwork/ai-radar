@@ -4,14 +4,14 @@ name: "jev-trader"
 genre: "finance-quant"
 url: "https://github.com/jarrodwatts/jev-trader"
 license: "MIT"
-stars: 3135
+stars: 3139
 language: "TypeScript"
 created: "2026-09-16"
 updated: "2026-10-13"
 forks: 601
 open_issues: 3
-commits_30d: 4
-commit_cadence: "weekly"
+commits_30d: 0
+commit_cadence: "monthly"
 commits_90d: 16
 size_kb: 69
 archived: false
@@ -23,7 +23,7 @@ type: "repo"
 added: "2026-11-10"
 first_seen: "2026-11-10"
 sources: ["https://x.com/thegreatest_sv/status/2115461838607659474"]
-fetched_at: "2026-11-10T12:20:57+00:00"
+fetched_at: "2026-11-16T21:50:23Z"
 ---
 
 # jev-trader — Monad のブロックごとに板を読み、Jev で売買方向を判定する実装

@@ -4,15 +4,15 @@ genre: "mcp-server"
 repo: "amiaoapp/PicLite"
 url: "https://github.com/amiaoapp/PicLite"
 license: "GPL-3.0"
-stars: 1034
-forks: 66
+stars: 1100
+forks: 72
 open_issues: 0
 size_kb: 17329
 language: "TypeScript"
 created: "2026-07-28"
 updated: "2026-11-06"
 archived: false
-commits_30d: 70
+commits_30d: 59
 commits_90d: 100
 commit_cadence: "daily"
 last_release: "v2.1.5"
@@ -22,7 +22,8 @@ type: "repo"
 added: "2026-11-10"
 first_seen: "2026-11-10"
 sources: ["https://x.com/Ryrenz/status/2117830448944382018"]
-fetched_at: "2026-11-10T10:43:43+00:00"
+fetched_at: "2026-11-16T21:53:41Z"
+last_release_at: "2026-11-06"
 ---
 
 # PicLite — MCPで呼び出せるローカル画像・GIF圧縮ツール

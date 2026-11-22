@@ -4,16 +4,16 @@ genre: "agent-framework"
 url: "https://github.com/Adolanium/hermes-gadget-sdk"
 repo: "Adolanium/hermes-gadget-sdk"
 license: "MIT"
-stars: 547
+stars: 548
 language: "C++"
 created: "2026-10-03"
 updated: "2026-11-16"
-forks: 96
-open_issues: 8
+forks: 97
+open_issues: 6
 commits_30d: 100
 commit_cadence: "daily"
 commits_90d: 100
-size_kb: 6270
+size_kb: 8091
 archived: false
 flags: ["unverified"]
 risk_notes: "実機ポートは、対象リビジョンの完全な物理検証レポートが記録されるまで実験的とREADMEに記載。ボード選定時は検証表の確認が必要。"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-16"
 first_seen: "2026-11-16"
 sources: ["https://x.com/dextune/status/2119052257438179494"]
-fetched_at: "2026-11-16T11:22:35.276759+00:00"
+fetched_at: "2026-11-16T21:35:49Z"
+last_release: "v0.5.0"
+last_release_at: "2026-11-05"
 ---
 
 # Hermes Gadget

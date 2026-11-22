@@ -4,7 +4,7 @@ name: "Motion2Code"
 genre: "3d-motion"
 url: "https://github.com/lovisdotio/motion2code"
 license: "MIT"
-stars: 349
+stars: 354
 forks: 31
 open_issues: 2
 size_kb: 7539
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-11"
 first_seen: "2026-11-11"
 sources: ["https://x.com/thegreatest_sv/status/2116241528737693741"]
-fetched_at: "2026-11-10T13:03:43+00:00"
+fetched_at: "2026-11-16T21:33:49Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # Motion2Codeで動画を編集可能なSVGアニメーションに再構成する

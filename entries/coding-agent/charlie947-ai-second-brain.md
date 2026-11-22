@@ -5,8 +5,8 @@ url: "https://github.com/charlie947/ai-second-brain"
 flags: ["unverified"]
 risk_notes: "README記載の機能・動作条件は独立検証していない。ChatGPTのエクスポートには1〜3日の待ち時間がかかる場合があると記載。"
 repo: "charlie947/ai-second-brain"
-stars: 229
-forks: 45
+stars: 240
+forks: 47
 open_issues: 0
 size_kb: 523
 language: "unknown"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-11"
 first_seen: "2026-11-11"
 sources: ["https://x.com/Bober_smart/status/2116978958121964030"]
-fetched_at: "2026-11-10T14:14:46.869661+00:00"
+fetched_at: "2026-11-16T21:42:57Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # AI Second Brain

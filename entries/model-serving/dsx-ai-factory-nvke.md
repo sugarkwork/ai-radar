@@ -5,13 +5,13 @@ url: "https://github.com/dsx-ai-factory/nvke"
 repo: "dsx-ai-factory/nvke"
 flags: ["unverified"]
 risk_notes: "Preview版で、本番ワークロードには推奨されていません。PreviewではAPI認証が初期状態で無効、インストール後のAPIは平文HTTPです。利用前に認証と保護されたアクセスを設定してください。管理クラスターのアップグレード・スケール・置換、および管理プレーンのアップグレード・バックアップ／復元手順はありません。"
-stars: 1113
-forks: 136
-open_issues: 202
-size_kb: 137628
+stars: 1233
+forks: 163
+open_issues: 210
+size_kb: 136904
 language: "Go"
 created: "2026-08-04"
-updated: "2026-11-10"
+updated: "2026-11-16"
 archived: false
 license: "Apache-2.0"
 commits_30d: 100
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-11"
 first_seen: "2026-11-11"
 sources: ["https://x.com/Ryrenz/status/2120065434103812405"]
-fetched_at: "2026-11-10T23:23:55.270745+00:00"
+fetched_at: "2026-11-16T21:56:03Z"
+last_release: "v0.23.1"
+last_release_at: "2026-11-03"
 ---
 
 # NVIDIA Kubernetes Engine (NVKE)

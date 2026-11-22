@@ -3,13 +3,13 @@ repo: "open-pencil/open-pencil"
 name: "OpenPencil"
 genre: "mcp-server"
 url: "https://github.com/open-pencil/open-pencil"
-stars: 9747
-forks: 1051
-open_issues: 151
-size_kb: 78421
+stars: 9888
+forks: 1072
+open_issues: 126
+size_kb: 84310
 language: "TypeScript"
 created: "2026-02-27"
-updated: "2026-11-10"
+updated: "2026-11-16"
 archived: false
 license: "MIT"
 commits_30d: 100
@@ -22,7 +22,8 @@ type: "repo"
 added: "2026-11-11"
 first_seen: "2026-11-11"
 sources: ["https://x.com/thegreatest_sv/status/2116241528737693741"]
-fetched_at: "2026-11-10T13:03:10+00:00"
+fetched_at: "2026-11-16T21:54:58Z"
+last_release_at: "2026-10-14"
 ---
 
 # OpenPencil — Claude CodeからMCPで編集できるデザインエディター

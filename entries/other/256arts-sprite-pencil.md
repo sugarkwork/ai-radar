@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-16"
 first_seen: "2026-11-16"
 sources: ["https://x.com/dextune/status/2119082194282979423"]
-fetched_at: "2026-11-16T18:13:26.004689+00:00"
+fetched_at: "2026-11-16T21:57:51Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # Sprite Pencil

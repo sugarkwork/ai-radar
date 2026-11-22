@@ -3,26 +3,27 @@ repo: "jordan-gibbs/hyperresearch"
 name: "hyperresearch"
 genre: "agent-framework"
 url: "https://github.com/jordan-gibbs/hyperresearch"
-last_release: "v0.13.1"
+last_release: "v0.13.3"
 flags: ["unverified"]
 risk_notes: "READMEの250件以上はpremier設定に関する開発元の説明。収集件数と引用監査の精度は独立に実測していない。READMEでは引用監査の対象範囲に関する記述が一致せず、全件を点検するかは未確認。最新GitHubリリースの公開日時は未確認。"
-stars: 4482
-forks: 462
-open_issues: 15
-size_kb: 6644
+stars: 4828
+forks: 500
+open_issues: 16
+size_kb: 6924
 language: "Python"
 created: "2026-04-09"
-updated: "2026-11-09"
+updated: "2026-11-16"
 archived: false
 license: "MIT"
-commits_30d: 27
-commits_90d: 71
+commits_30d: 35
+commits_90d: 79
 commit_cadence: "daily"
 type: "repo"
 added: "2026-11-11"
 first_seen: "2026-11-11"
 sources: ["https://x.com/opensourcelab9/status/2116296617716486320"]
-fetched_at: "2026-11-10T13:06:39Z"
+fetched_at: "2026-11-16T21:38:42Z"
+last_release_at: "2026-11-16"
 ---
 
 # hyperresearch — Claude Codeで出典付きレポートを作り、資料を再利用する調査スキル

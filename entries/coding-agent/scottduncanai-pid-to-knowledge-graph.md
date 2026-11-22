@@ -4,11 +4,11 @@ genre: "coding-agent"
 url: "https://github.com/ScottDuncanAI/PID-to-Knowledge-Graph"
 repo: "ScottDuncanAI/PID-to-Knowledge-Graph"
 license: "MIT"
-stars: 265
+stars: 289
 language: "Python"
 created: "2026-11-08"
 updated: "2026-11-08"
-forks: 55
+forks: 58
 open_issues: 1
 commits_30d: 3
 commit_cadence: "monthly"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-14"
 first_seen: "2026-11-14"
 sources: ["https://x.com/GitTrend0x/status/2121566394286248121"]
-fetched_at: "2026-11-14T15:09:20.986873+00:00"
+fetched_at: "2026-11-16T21:47:17Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # P&ID to Knowledge Graph

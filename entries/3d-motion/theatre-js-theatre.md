@@ -4,11 +4,11 @@ genre: "3d-motion"
 url: "https://github.com/theatre-js/theatre"
 repo: "theatre-js/theatre"
 license: "Apache-2.0"
-stars: 12979
+stars: 13028
 language: "TypeScript"
 created: "2013-12-23"
 updated: "2024-08-14"
-forks: 505
+forks: 511
 open_issues: 141
 commits_30d: 0
 commit_cadence: "stale"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-12"
 first_seen: "2026-11-12"
 sources: ["https://x.com/RealMarvelX/status/2118525010088251781"]
-fetched_at: "2026-11-12T11:17:45.055118+00:00"
+fetched_at: "2026-11-16T21:35:11Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # Theatre.js

@@ -6,7 +6,7 @@ url: "https://github.com/speridlabs/idol-sdk"
 author: "speridlabs"
 repo: "speridlabs/idol-sdk"
 license: "Apache-2.0"
-stars: 945
+stars: 1138
 language: "Python"
 created: "2026-10-28"
 updated: "2026-11-09"
@@ -15,13 +15,13 @@ first_seen: "2026-11-06"
 sources: ["https://x.com/speridlabs/status/2115890658636656826"]
 flags: []
 risk_notes: "PyPI 未公開・タグ/リリース無しのため clone して pip install -e . で導入する（README の記載どおり）。条件付けに入力エンコーダ2件の HF アクセス承認が必要で、未認証時は EncoderAccessError で停止する。CUDA GPU 必須。直近30日のコミットは 1 件で commit_cadence は stale 扱い。"
-forks: 95
-open_issues: 4
+forks: 112
+open_issues: 3
 commits_30d: 5
 commit_cadence: "weekly"
 size_kb: 6866
 archived: false
-fetched_at: "2026-11-09T21:31:45Z"
+fetched_at: "2026-11-16T21:35:03Z"
 last_release: ""
 last_release_at: ""
 commits_90d: 5

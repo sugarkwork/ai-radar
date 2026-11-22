@@ -5,26 +5,26 @@ genre: "agent-framework"
 url: "https://github.com/livekit/agents"
 author: "LiveKit"
 license: "Apache-2.0"
-stars: 15158
+stars: 15249
 language: "Python"
 created: "2023-10-19"
-updated: "2026-11-09"
-forks: 4108
-open_issues: 949
+updated: "2026-11-16"
+forks: 4150
+open_issues: 963
 commits_30d: 100
 commits_90d: 100
 commit_cadence: "daily"
-size_kb: 52726
+size_kb: 84815
 archived: false
-last_release: "livekit-agents@1.8.11"
-last_release_at: "2026-11-05"
+last_release: "livekit-agents@1.8.12"
+last_release_at: "2026-11-13"
 flags: []
 risk_notes: "フレームワーク本体は Apache-2.0 だが、ターン検出モデルは別条件の LiveKit Model License（README に明記）。LiveKit Inference 経由の v1 ターン検出、ノイズキャンセリング、電話番号などのクラウド機能は LiveKit Cloud 依存で、Cloud は Build が $0（月1,000 agent session 分）から、Ship は $50/月〜、Scale は $500/月〜。各 STT/LLM/TTS プロバイダの API 利用料は別途従量課金。ターン検出の精度数値はベンダー自身の測定で第三者検証はない。open_issues の 931 は PR を含む GitHub の集計値。"
 type: "repo"
 added: "2026-11-09"
 first_seen: "2026-11-09"
 sources: ["https://x.com/opensourcelab9/status/2113397488862605824"]
-fetched_at: "2026-11-09T21:33:38Z"
+fetched_at: "2026-11-16T21:39:03Z"
 ---
 
 # LiveKit Agents — リアルタイム音声AIエージェントフレームワーク

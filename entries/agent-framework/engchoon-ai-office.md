@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-16"
 first_seen: "2026-11-16"
 sources: ["https://x.com/dextune/status/2119074897087570318"]
-fetched_at: "2026-11-16T17:16:29.272899+00:00"
+fetched_at: "2026-11-16T21:37:47Z"
+last_release: "v1.4.2"
+last_release_at: "2026-11-16"
 ---
 
 # AI Office

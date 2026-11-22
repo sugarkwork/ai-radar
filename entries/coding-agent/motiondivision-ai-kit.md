@@ -4,13 +4,13 @@ genre: "coding-agent"
 url: "https://github.com/motiondivision/ai-kit"
 repo: "motiondivision/ai-kit"
 license: "unknown"
-stars: 104
+stars: 119
 language: "JavaScript"
 created: "2026-07-27"
 updated: "2026-11-04"
-forks: 15
+forks: 17
 open_issues: 5
-commits_30d: 10
+commits_30d: 8
 commit_cadence: "weekly"
 commits_90d: 22
 size_kb: 392
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-15"
 first_seen: "2026-11-15"
 sources: ["https://x.com/codecloude/status/2121669053332775356"]
-fetched_at: "2026-11-15T06:18:08.562702+00:00"
+fetched_at: "2026-11-16T21:46:11Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # Motion AI Kit

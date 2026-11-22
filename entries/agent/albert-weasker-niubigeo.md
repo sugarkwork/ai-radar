@@ -5,19 +5,19 @@ name: "niubigeo"
 genre: "agent"
 url: "https://github.com/Albert-Weasker/niubigeo"
 license: "Apache-2.0"
-stars: 10180
+stars: 10329
 language: "TypeScript"
 created: "2026-09-03"
-updated: "2026-11-03"
-forks: 822
-open_issues: 62
-commits_30d: 12
-commits_90d: 54
+updated: "2026-11-16"
+forks: 824
+open_issues: 63
+commits_30d: 13
+commits_90d: 55
 commit_cadence: "weekly"
-size_kb: 34085
+size_kb: 34106
 archived: false
 added: "2026-11-09"
-fetched_at: "2026-11-09T21:32:01Z"
+fetched_at: "2026-11-16T21:35:34Z"
 flags: ["unverified"]
 risk_notes: "Apache-2.0。ソフト本体と別にモデルAPI・インフラの費用が発生し得る。順位や言及は質問・モデル・時点に依存する。 実行・品質は未検証。"
 sources: ["https://x.com/i/status/2119588334615802105", "https://github.com/Albert-Weasker/niubigeo"]

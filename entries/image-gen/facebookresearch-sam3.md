@@ -15,16 +15,16 @@ repo: "facebookresearch/sam3"
 license: "NOASSERTION"
 language: "Python"
 created: "2025-07-17"
-updated: "2026-10-23"
-stars: 12252
-forks: 1857
-open_issues: 382
-commits_30d: 2
-commits_90d: 11
+updated: "2026-11-13"
+stars: 12310
+forks: 1873
+open_issues: 387
+commits_30d: 3
+commits_90d: 12
 commit_cadence: "monthly"
-size_kb: 61937
+size_kb: 62018
 archived: false
-fetched_at: "2026-11-09T21:38:14Z"
+fetched_at: "2026-11-16T21:51:54Z"
 last_release: ""
 last_release_at: ""
 ---

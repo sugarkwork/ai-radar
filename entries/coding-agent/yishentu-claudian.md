@@ -4,16 +4,16 @@ genre: "coding-agent"
 url: "https://github.com/YishenTu/claudian"
 repo: "YishenTu/claudian"
 license: "MIT"
-stars: 15996
+stars: 16007
 language: "TypeScript"
 created: "2025-12-05"
-updated: "2026-11-14"
-forks: 1095
-open_issues: 43
+updated: "2026-11-16"
+forks: 1096
+open_issues: 41
 commits_30d: 100
 commit_cadence: "daily"
 commits_90d: 100
-size_kb: 40197
+size_kb: 40223
 archived: false
 flags: ["unverified"]
 risk_notes: "一次資料で未確認: 依存関係。"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-15"
 first_seen: "2026-11-15"
 sources: ["https://x.com/stewy0x/status/2121929768996110590"]
-fetched_at: "2026-11-15T14:18:02.710207+00:00"
+fetched_at: "2026-11-16T21:48:30Z"
+last_release: "2.3.43"
+last_release_at: "2026-11-14"
 ---
 
 # Claudian

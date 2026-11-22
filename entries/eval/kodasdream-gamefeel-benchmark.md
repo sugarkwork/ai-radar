@@ -15,16 +15,16 @@ repo: "kodasdream/gamefeel-benchmark"
 license: "unknown"
 language: "JavaScript"
 created: "2026-10-16"
-updated: "2026-11-09"
-stars: 13
+updated: "2026-11-16"
+stars: 16
 forks: 0
 open_issues: 0
-commits_30d: 17
-commits_90d: 17
-commit_cadence: "weekly"
-size_kb: 160
+commits_30d: 51
+commits_90d: 52
+commit_cadence: "daily"
+size_kb: 818
 archived: false
-fetched_at: "2026-11-09T21:37:06Z"
+fetched_at: "2026-11-16T21:49:28Z"
 last_release: ""
 last_release_at: ""
 ---

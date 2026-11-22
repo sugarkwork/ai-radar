@@ -3,13 +3,13 @@ name: "QM"
 genre: "agent-framework"
 url: "https://github.com/yc-software/qm"
 repo: "yc-software/qm"
-stars: 15712
-forks: 1964
-open_issues: 1071
-size_kb: 166403
+stars: 15714
+forks: 1963
+open_issues: 1066
+size_kb: 166789
 language: "TypeScript"
 created: "2026-07-29"
-updated: "2026-11-15"
+updated: "2026-11-16"
 archived: false
 license: "MIT"
 commits_30d: 100
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-16"
 first_seen: "2026-11-16"
 sources: ["https://x.com/bkdgiffug/status/2119031107567878386"]
-fetched_at: "2026-11-16T04:27:39.331865+00:00"
+fetched_at: "2026-11-16T21:41:45Z"
+last_release: "v0.1.18"
+last_release_at: "2026-11-11"
 ---
 
 # QM

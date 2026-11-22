@@ -4,16 +4,16 @@ genre: "agent-framework"
 url: "https://github.com/unclecode/crawl4ai"
 repo: "unclecode/crawl4ai"
 license: "Apache-2.0"
-stars: 87228
+stars: 87445
 language: "Python"
 created: "2024-05-09"
-updated: "2026-11-10"
-forks: 9090
-open_issues: 331
-commits_30d: 30
-commit_cadence: "daily"
+updated: "2026-11-13"
+forks: 9122
+open_issues: 347
+commits_30d: 13
+commit_cadence: "weekly"
 commits_90d: 100
-size_kb: 151881
+size_kb: 152019
 archived: false
 flags: ["unverified"]
 risk_notes: "Cloud APIは従量課金で、READMEに記載の価格はプランや利用量により異なる。"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-11"
 first_seen: "2026-11-11"
 sources: ["https://x.com/thegreatest_sv/status/2118325722850697573"]
-fetched_at: "2026-11-11T19:07:11.004659+00:00"
+fetched_at: "2026-11-16T21:41:29Z"
+last_release: "v0.9.5"
+last_release_at: "2026-10-14"
 ---
 
 # Crawl4AI

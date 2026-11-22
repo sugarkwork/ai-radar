@@ -5,10 +5,10 @@ url: "https://github.com/open-webui/open-webui"
 flags: ["unverified"]
 risk_notes: "READMEの説明に基づく機能情報です。実機での動作や効果は独立検証されていません。 GitHub APIでライセンスを確認できていません。"
 repo: "open-webui/open-webui"
-stars: 158778
-forks: 23088
-open_issues: 391
-size_kb: 562890
+stars: 158839
+forks: 23087
+open_issues: 252
+size_kb: 568583
 language: "Svelte"
 created: "2023-10-06"
 updated: "2026-11-16"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-16"
 first_seen: "2026-11-16"
 sources: ["https://x.com/naka_1717/status/2119034856676159987"]
-fetched_at: "2026-11-16T05:29:01.132995+00:00"
+fetched_at: "2026-11-16T21:57:23Z"
+last_release: "v0.13.3"
+last_release_at: "2026-11-08"
 ---
 
 # Open WebUI

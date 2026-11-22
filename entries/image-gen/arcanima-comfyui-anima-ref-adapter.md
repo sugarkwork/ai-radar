@@ -5,23 +5,25 @@ url: "https://github.com/ArcAnima/ComfyUI-Anima-Ref-Adapter"
 flags: ["unverified"]
 risk_notes: "アダプターの重みはCircleStone Non-Commercialライセンス。READMEではコードのライセンスをApache-2.0としている。"
 repo: "ArcAnima/ComfyUI-Anima-Ref-Adapter"
-stars: 234
+stars: 239
 forks: 14
-open_issues: 4
-size_kb: 13749
+open_issues: 2
+size_kb: 13805
 language: "Python"
 created: "2026-10-27"
-updated: "2026-10-31"
+updated: "2026-11-11"
 archived: false
 license: "Apache-2.0"
-commits_30d: 12
-commits_90d: 12
+commits_30d: 19
+commits_90d: 19
 commit_cadence: "weekly"
 type: "repo"
 added: "2026-11-11"
 first_seen: "2026-11-11"
 sources: ["https://x.com/malariadx/status/2120128085374951521"]
-fetched_at: "2026-11-11T06:16:24.804050+00:00"
+fetched_at: "2026-11-16T21:51:41Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # Anima Reference Adapter for ComfyUI

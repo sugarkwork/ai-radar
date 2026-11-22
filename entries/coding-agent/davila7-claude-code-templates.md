@@ -5,20 +5,20 @@ genre: "coding-agent"
 url: "https://github.com/davila7/claude-code-templates"
 author: "Daniel Ávila (@dani_avila7)"
 license: "MIT"
-stars: 33241
+stars: 33865
 language: "Python"
 created: "2025-07-04"
-updated: "2026-11-09"
-forks: 3901
-open_issues: 483
+updated: "2026-11-16"
+forks: 4008
+open_issues: 526
 commits_30d: 100
 commits_90d: 100
 commit_cadence: "daily"
-size_kb: 303529
+size_kb: 301625
 archived: false
 last_release: "v1.29.7"
 last_release_at: "2026-10-09"
-fetched_at: "2026-11-09T21:36:05Z"
+fetched_at: "2026-11-16T21:43:45Z"
 source_post: "https://x.com/opensourcelab9/status/2113238959862284769"
 sources: ["https://www.aitmpl.com", "https://x.com/dani_avila7/status/2109822699174559748", "https://x.com/opensourcelab9/status/2113238959862284769"]
 first_seen: "2026-11-08"

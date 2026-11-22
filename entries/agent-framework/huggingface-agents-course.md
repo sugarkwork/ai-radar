@@ -3,9 +3,9 @@ name: "The Hugging Face Agents Course"
 genre: "agent-framework"
 url: "https://github.com/huggingface/agents-course"
 repo: "huggingface/agents-course"
-stars: 34943
-forks: 2505
-open_issues: 191
+stars: 35051
+forks: 2511
+open_issues: 196
 size_kb: 28517
 language: "MDX"
 created: "2025-01-16"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-15"
 first_seen: "2026-11-15"
 sources: ["https://x.com/DAIEvolutionHub/status/2121642650965315953"]
-fetched_at: "2026-11-15T08:18:08.752842+00:00"
+fetched_at: "2026-11-16T21:38:31Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # The Hugging Face Agents Course

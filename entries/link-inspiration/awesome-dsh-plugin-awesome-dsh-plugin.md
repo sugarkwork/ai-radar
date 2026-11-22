@@ -4,16 +4,16 @@ genre: "link-inspiration"
 url: "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin"
 repo: "awesome-dsh-plugin/awesome-dsh-plugin"
 license: "CC0-1.0"
-stars: 24324
+stars: 24893
 language: "JavaScript"
 created: "2026-08-13"
-updated: "2026-11-11"
-forks: 7990
-open_issues: 289
+updated: "2026-11-16"
+forks: 8701
+open_issues: 362
 commits_30d: 100
 commit_cadence: "daily"
 commits_90d: 100
-size_kb: 353264
+size_kb: 448322
 archived: false
 flags: ["unverified"]
 risk_notes: "掲載はセキュリティ審査を意味しません。READMEは、導入した第三者プラグインが利用者権限で動作し、ファイル・認証情報・ネットワークにアクセスしうると明記しています。"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-11"
 first_seen: "2026-11-11"
 sources: ["https://x.com/mingzi206/status/2118347518199451946"]
-fetched_at: "2026-11-11T22:12:17.294914+00:00"
+fetched_at: "2026-11-16T21:53:24Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # Awesome DeepSeek Harness (DSH) Plugin

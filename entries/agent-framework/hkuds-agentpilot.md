@@ -15,16 +15,16 @@ repo: "HKUDS/AgentPilot"
 license: "MIT"
 language: "Python"
 created: "2026-03-24"
-updated: "2026-11-06"
-stars: 7978
-forks: 939
-open_issues: 55
-commits_30d: 3
-commits_90d: 7
-commit_cadence: "monthly"
-size_kb: 113883
+updated: "2026-11-12"
+stars: 8063
+forks: 949
+open_issues: 57
+commits_30d: 4
+commits_90d: 4
+commit_cadence: "weekly"
+size_kb: 113894
 archived: false
-fetched_at: "2026-11-09T21:33:17Z"
+fetched_at: "2026-11-16T21:38:27Z"
 last_release: "agentpilot-v1.0.0"
 last_release_at: "2026-11-01"
 ---

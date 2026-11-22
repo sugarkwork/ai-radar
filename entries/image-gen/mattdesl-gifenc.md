@@ -4,11 +4,11 @@ genre: "image-gen"
 url: "https://github.com/mattdesl/gifenc"
 repo: "mattdesl/gifenc"
 license: "MIT"
-stars: 357
+stars: 370
 language: "JavaScript"
 created: "2021-02-23"
 updated: "2024-09-19"
-forks: 29
+forks: 33
 open_issues: 11
 commits_30d: 0
 commit_cadence: "stale"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-15"
 first_seen: "2026-11-15"
 sources: ["https://x.com/Feljoy_ix/status/2121787138455040333"]
-fetched_at: "2026-11-15T03:20:11.851899+00:00"
+fetched_at: "2026-11-16T21:52:09Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # gifenc

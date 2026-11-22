@@ -4,16 +4,16 @@ genre: "other"
 url: "https://github.com/google-deepmind/mujoco"
 repo: "google-deepmind/mujoco"
 license: "Apache-2.0"
-stars: 17326
+stars: 18174
 language: "C++"
 created: "2021-08-27"
-updated: "2026-11-10"
-forks: 2146
-open_issues: 332
+updated: "2026-11-16"
+forks: 2206
+open_issues: 420
 commits_30d: 100
 commit_cadence: "daily"
 commits_90d: 100
-size_kb: 154330
+size_kb: 153787
 archived: false
 flags: ["unverified"]
 risk_notes: "READMEの取得内容がライセンス節の途中で途切れているため、ライセンス本文の条件はこの資料から確認できない。"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-11"
 first_seen: "2026-11-11"
 sources: ["https://x.com/GitTrend0x/status/2119950747898974362"]
-fetched_at: "2026-11-10T23:13:41.871917+00:00"
+fetched_at: "2026-11-16T22:00:51Z"
+last_release: "4.0.1"
+last_release_at: "2026-11-11"
 ---
 
 # MuJoCo

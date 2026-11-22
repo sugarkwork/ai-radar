@@ -3,13 +3,13 @@ repo: "wquguru/shisei"
 name: "Shisei"
 genre: "link-asset"
 url: "https://github.com/wquguru/shisei"
-stars: 478
-forks: 102
+stars: 537
+forks: 112
 open_issues: 0
-size_kb: 255884
+size_kb: 258738
 language: "Python"
 created: "2026-10-29"
-updated: "2026-11-02"
+updated: "2026-11-14"
 archived: false
 license: "Apache-2.0"
 commits_30d: 100
@@ -22,7 +22,8 @@ type: "repo"
 added: "2026-11-10"
 first_seen: "2026-11-10"
 sources: ["https://x.com/dextune/status/2117483057343353195"]
-fetched_at: "2026-11-10T09:05:26+00:00"
+fetched_at: "2026-11-16T21:53:21Z"
+last_release_at: "2026-11-01"
 ---
 
 # Shisei — 画像生成向けのマネキン姿勢素材集

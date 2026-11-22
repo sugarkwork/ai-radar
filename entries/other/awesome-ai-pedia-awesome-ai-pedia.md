@@ -5,23 +5,25 @@ url: "https://github.com/Awesome-AI-Pedia/Awesome-AI-Pedia"
 repo: "Awesome-AI-Pedia/Awesome-AI-Pedia"
 license: "MIT"
 language: "TypeScript"
-updated: "2026-11-10"
+updated: "2026-11-12"
 commit_cadence: "weekly"
 archived: false
-stars: 686
-forks: 66
-open_issues: 14
-size_kb: 20793
+stars: 721
+forks: 70
+open_issues: 17
+size_kb: 20799
 created: "2026-08-03"
 commits_30d: 14
-commits_90d: 55
+commits_90d: 50
 flags: ["unverified"]
 risk_notes: "一次資料で未確認: 技術背景・有効性・依存関係・実行条件。"
 type: "repo"
 added: "2026-11-11"
 first_seen: "2026-11-11"
 sources: ["https://x.com/Ryrenz/status/2118314640027406685"]
-fetched_at: "2026-11-11T17:11:56.089318+00:00"
+fetched_at: "2026-11-16T21:58:51Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # Awesome AI Pedia

@@ -15,18 +15,18 @@ repo: "ccch1mneyyy/dsh-Go"
 license: "AGPL-3.0"
 language: "Dart"
 created: "2026-10-25"
-updated: "2026-11-09"
-stars: 17518
-forks: 757
-open_issues: 443
+updated: "2026-11-16"
+stars: 24732
+forks: 1179
+open_issues: 662
 commits_30d: 100
 commits_90d: 100
 commit_cadence: "daily"
-size_kb: 471736
+size_kb: 675399
 archived: false
-fetched_at: "2026-11-09T21:32:38Z"
-last_release: "v1.0.14"
-last_release_at: "2026-11-09"
+fetched_at: "2026-11-16T21:36:59Z"
+last_release: "v1.1.0"
+last_release_at: "2026-11-15"
 ---
 
 # ccch1mneyyy/dsh-Go

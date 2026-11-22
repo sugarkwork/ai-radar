@@ -4,11 +4,11 @@ genre: "image-gen"
 url: "https://github.com/imraywang/ray-sticker-shop"
 repo: "imraywang/ray-sticker-shop"
 license: "MIT"
-stars: 500
+stars: 507
 language: "Python"
 created: "2026-11-05"
 updated: "2026-11-05"
-forks: 57
+forks: 58
 open_issues: 1
 commits_30d: 1
 commit_cadence: "monthly"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-16"
 first_seen: "2026-11-16"
 sources: ["https://x.com/ganfanren_ai/status/2119020240348835900"]
-fetched_at: "2026-11-16T01:30:37.681458+00:00"
+fetched_at: "2026-11-16T21:51:59Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # ray-sticker-shop

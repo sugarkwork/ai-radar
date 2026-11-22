@@ -4,12 +4,12 @@ name: "DeepInfer"
 genre: "model-serving"
 url: "https://github.com/deepseek-ai/DeepInfer"
 license: "Apache-2.0"
-stars: 25757
+stars: 26112
 language: "Python"
 created: "2026-10-16"
 updated: "2026-11-03"
-forks: 3161
-open_issues: 247
+forks: 3211
+open_issues: 251
 commits_30d: 6
 commit_cadence: "weekly"
 commits_90d: 6
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-10"
 first_seen: "2026-11-10"
 sources: ["https://x.com/bernvadell/status/2112534880819290613"]
-fetched_at: "2026-11-10T04:14:00.414Z"
+fetched_at: "2026-11-16T21:55:58Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # DeepInfer

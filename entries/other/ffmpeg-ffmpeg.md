@@ -5,23 +5,25 @@ genre: "other"
 url: "https://github.com/FFmpeg/FFmpeg"
 flags: ["unverified"]
 risk_notes: "GitHubの最新リリース情報、個別ビルドで利用できるコーデック、処理速度・出力品質、AIエージェントからの実行は未検証。READMEはGitHubの公開rawファイルで確認した。 GitHub APIでライセンスを確認できていません。"
-stars: 66858
-forks: 14558
+stars: 67396
+forks: 14648
 open_issues: 3
-size_kb: 506833
+size_kb: 509035
 language: "C"
 created: "2011-04-14"
-updated: "2026-11-10"
+updated: "2026-11-16"
 archived: false
 license: "unknown"
-commits_30d: 100
+commits_30d: 52
 commits_90d: 100
 commit_cadence: "daily"
 type: "repo"
 added: "2026-11-10"
 first_seen: "2026-11-10"
 sources: ["https://x.com/nuannuan_share/status/2119640438135242817"]
-fetched_at: "2026-11-10T09:31:04Z"
+fetched_at: "2026-11-16T22:00:26Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # FFmpegでAI生成素材を変換・検査する

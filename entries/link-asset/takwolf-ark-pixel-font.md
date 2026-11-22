@@ -5,13 +5,13 @@ url: "https://github.com/TakWolf/ark-pixel-font"
 flags: ["unverified"]
 risk_notes: "READMEは文字が大量に不足していると説明しています。16pxサイズは廃止済みです。"
 repo: "TakWolf/ark-pixel-font"
-stars: 4972
+stars: 4980
 forks: 104
 open_issues: 5
 size_kb: 13471
 language: "Python"
 created: "2021-05-11"
-updated: "2026-11-14"
+updated: "2026-11-16"
 archived: false
 license: "MIT"
 commits_30d: 28
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-16"
 first_seen: "2026-11-16"
 sources: ["https://x.com/dextune/status/2119014497486569854"]
-fetched_at: "2026-11-16T01:23:18.401975+00:00"
+fetched_at: "2026-11-16T21:53:18Z"
+last_release: "2026.11.10"
+last_release_at: "2026-11-09"
 ---
 
 # 方舟像素字体 / Ark Pixel Font

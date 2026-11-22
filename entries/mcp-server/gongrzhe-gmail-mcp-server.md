@@ -5,8 +5,8 @@ url: "https://github.com/GongRzhe/Gmail-MCP-Server"
 repo: "GongRzhe/Gmail-MCP-Server"
 flags: ["unverified"]
 risk_notes: "READMEに記載のOAuth認証ではGoogle Cloudの設定と認証情報が必要。効果、依存関係の全容、料金はREADMEから確認できない。測定値ではリポジトリはアーカイブ済みで、直近30日・90日のコミットは0件。"
-stars: 1169
-forks: 416
+stars: 1171
+forks: 419
 open_issues: 70
 size_kb: 141
 language: "JavaScript"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-11"
 first_seen: "2026-11-11"
 sources: ["https://x.com/Y0urDumble/status/2116341413755453670"]
-fetched_at: "2026-11-10T13:39:39.898168+00:00"
+fetched_at: "2026-11-16T21:54:19Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # Gmail AutoAuth MCP Server

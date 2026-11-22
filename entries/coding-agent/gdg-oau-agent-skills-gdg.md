@@ -4,7 +4,7 @@ name: "GDG Agent Skillsの実演教材"
 genre: "coding-agent"
 url: "https://github.com/GDG-OAU/agent-skills-gdg"
 license: "unknown"
-stars: 1
+stars: 2
 language: ""
 created: "2026-11-07"
 updated: "2026-11-07"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-10"
 first_seen: "2026-11-10"
 sources: ["https://x.com/GDGOAU/status/2119175133915127953"]
-fetched_at: "2026-11-10T03:37:26Z"
+fetched_at: "2026-11-16T21:44:27Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # GDG Agent Skillsの実演教材

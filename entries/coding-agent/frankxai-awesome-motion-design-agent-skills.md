@@ -4,16 +4,16 @@ genre: "coding-agent"
 url: "https://github.com/frankxai/awesome-motion-design-agent-skills"
 repo: "frankxai/awesome-motion-design-agent-skills"
 license: "CC0-1.0"
-stars: 106
+stars: 114
 language: "Python"
 created: "2026-06-18"
-updated: "2026-11-09"
+updated: "2026-11-12"
 forks: 37
-open_issues: 8
-commits_30d: 10
+open_issues: 6
+commits_30d: 9
 commit_cadence: "weekly"
-commits_90d: 20
-size_kb: 4283
+commits_90d: 22
+size_kb: 4300
 archived: false
 flags: ["unverified"]
 risk_notes: "一次資料で未確認: 技術背景・有効性・依存関係・実行条件。"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-12"
 first_seen: "2026-11-12"
 sources: ["https://x.com/PromptLabCN/status/2120750742785171596"]
-fetched_at: "2026-11-12T06:17:02.356833+00:00"
+fetched_at: "2026-11-16T21:44:24Z"
+last_release: "skills-latest"
+last_release_at: "2026-10-02"
 ---
 
 # Awesome Motion Design Agent Skills

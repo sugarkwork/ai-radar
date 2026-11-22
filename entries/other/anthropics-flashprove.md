@@ -3,8 +3,8 @@ name: "FlashProve"
 genre: "other"
 url: "https://github.com/anthropics/FlashProve"
 repo: "anthropics/FlashProve"
-stars: 1017
-forks: 109
+stars: 1063
+forks: 113
 open_issues: 4
 size_kb: 174468
 language: "Lean"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-11"
 first_seen: "2026-11-11"
 sources: ["https://x.com/Ryrenz/status/2118253498458317171"]
-fetched_at: "2026-11-11T08:23:25.156827+00:00"
+fetched_at: "2026-11-16T21:58:42Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # FlashProve

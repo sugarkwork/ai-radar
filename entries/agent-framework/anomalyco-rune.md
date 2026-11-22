@@ -3,13 +3,13 @@ name: "Rune"
 genre: "agent-framework"
 url: "https://github.com/anomalyco/rune"
 repo: "anomalyco/rune"
-stars: 7051
-forks: 266
-open_issues: 377
-size_kb: 162387
+stars: 7317
+forks: 290
+open_issues: 444
+size_kb: 163974
 language: "Rust"
 created: "2026-10-22"
-updated: "2026-11-14"
+updated: "2026-11-16"
 archived: false
 license: "MIT"
 commits_30d: 100
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-14"
 first_seen: "2026-11-14"
 sources: ["https://x.com/Ryrenz/status/2118775440810680672"]
-fetched_at: "2026-11-14T04:16:15.793761+00:00"
+fetched_at: "2026-11-16T21:36:11Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # Rune

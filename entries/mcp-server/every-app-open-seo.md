@@ -3,13 +3,13 @@ repo: "every-app/open-seo"
 name: "OpenSEO"
 genre: "mcp-server"
 url: "https://github.com/every-app/open-seo"
-stars: 27127
-forks: 3759
-open_issues: 109
-size_kb: 38925
+stars: 27936
+forks: 3935
+open_issues: 131
+size_kb: 39421
 language: "TypeScript"
 created: "2026-02-27"
-updated: "2026-11-07"
+updated: "2026-11-13"
 archived: false
 license: "MIT"
 commits_30d: 100
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-11"
 first_seen: "2026-11-11"
 sources: ["https://x.com/opensourcelab9/status/2115934204165062890"]
-fetched_at: "2026-11-10T12:48:03+00:00"
+fetched_at: "2026-11-16T21:54:04Z"
+last_release: "v0.1.27"
+last_release_at: "2026-11-11"
 ---
 
 # OpenSEO — CodexやClaude CodeからSEOデータを調べるMCP

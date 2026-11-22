@@ -4,16 +4,16 @@ name: "Kosh"
 genre: "mcp-server"
 url: "https://github.com/SachinyadavAug20/kosh"
 license: "Apache-2.0"
-stars: 4
+stars: 5
 forks: 0
 open_issues: 0
-size_kb: 26429
+size_kb: 27306
 language: "TypeScript"
 created: "2026-10-30"
-updated: "2026-11-10"
+updated: "2026-11-15"
 archived: false
-commits_30d: 61
-commits_90d: 61
+commits_30d: 76
+commits_90d: 76
 commit_cadence: "daily"
 flags: ["unverified"]
 risk_notes: ["実機での起動、クライアントとの接続、GLBの生成品質や処理時間、最新リリース、M8ven評価は未確認。README内でBlenderの対応版とツール数の記述に幅があり、実際の対応範囲は未確認。Gemini APIの利用料金は未確認。"]
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-10"
 first_seen: "2026-11-10"
 sources: ["https://x.com/samtagon38824/status/2118037888986460441"]
-fetched_at: "2026-11-10T11:43:29+00:00"
+fetched_at: "2026-11-16T21:55:13Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # Kosh — AIクライアントからBlenderを操作する3D制作向けMCPサーバー

@@ -5,8 +5,8 @@ url: "https://github.com/kociden/sakurai-skill"
 repo: "kociden/sakurai-skill"
 flags: ["low-quality", "unverified"]
 risk_notes: "READMEによると、内容は動画の自動字幕をAIが要約したもので、聞き取り誤りが残る可能性があります。 リポジトリのライセンスは不明です。READMEは、要約が自動字幕に基づき聞き取り誤りが残る可能性を明記しています。 GitHub APIでライセンスを確認できていません。"
-stars: 244
-forks: 18
+stars: 373
+forks: 24
 open_issues: 0
 size_kb: 1108
 language: "Python"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-14"
 first_seen: "2026-11-14"
 sources: ["https://x.com/GitTrend0x/status/2121566394286248121"]
-fetched_at: "2026-11-14T15:10:08.045857+00:00"
+fetched_at: "2026-11-16T21:45:20Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # sakurai-skill

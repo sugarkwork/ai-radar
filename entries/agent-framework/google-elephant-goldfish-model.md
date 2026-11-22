@@ -3,13 +3,13 @@ name: "Elephant-Goldfish Model (EGM)"
 genre: "agent-framework"
 url: "https://github.com/google/elephant-goldfish-model"
 repo: "google/elephant-goldfish-model"
-stars: 19014
-forks: 1414
-open_issues: 105
-size_kb: 15142
+stars: 20321
+forks: 1503
+open_issues: 121
+size_kb: 15271
 language: "Python"
 created: "2026-09-13"
-updated: "2026-11-14"
+updated: "2026-11-16"
 archived: false
 license: "Apache-2.0"
 commits_30d: 100
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-14"
 first_seen: "2026-11-14"
 sources: ["https://x.com/ganfanren_ai/status/2118875956089856189"]
-fetched_at: "2026-11-14T18:07:06.457626+00:00"
+fetched_at: "2026-11-16T21:38:10Z"
+last_release: "v0.1.1"
+last_release_at: "2026-11-06"
 ---
 
 # Elephant-Goldfish Model (EGM)

@@ -4,12 +4,12 @@ name: "Karpathy Guidelines（karpathy-guidelines スキル）"
 genre: "coding-agent"
 url: "https://github.com/multica-ai/andrej-karpathy-skills"
 license: "unknown"
-stars: 231320
+stars: 233710
 language: ""
 created: "2026-01-27"
 updated: "2026-04-20"
-forks: 22999
-open_issues: 139
+forks: 23246
+open_issues: 138
 commits_30d: 0
 commit_cadence: "stale"
 commits_90d: 0
@@ -24,7 +24,7 @@ type: "repo"
 added: "2026-11-09"
 first_seen: "2026-11-09"
 sources: ["https://x.com/sumika45379/status/2112884125120319643", "https://x.com/ai_300/status/2118846893404897593?a=P4rnRTlJRTZ6LwYBFuI&s=46", "https://x.com/ai_300/status/2118846893404897593", "https://api.github.com/repos/multica-ai/andrej-karpathy-skills", "https://github.com/multica-ai/andrej-karpathy-skills/blob/HEAD/README.md", "https://api.github.com/repos/multica-ai/andrej-karpathy-skills/commits?per_page=3", "https://github.com/multica-ai/andrej-karpathy-skills"]
-fetched_at: "2026-11-09T21:36:28Z"
+fetched_at: "2026-11-16T21:46:15Z"
 ---
 
 # andrej-karpathy-skills — Karpathy の観察を4原則にした coding-agent 向けガイドライン／skill

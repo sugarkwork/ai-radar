@@ -5,8 +5,8 @@ url: "https://github.com/Leonxlnx/athenaion"
 flags: ["unverified"]
 risk_notes: "READMEには依存パッケージのバージョン、対応環境、必要なハードウェアの詳細が記載されていない。"
 repo: "Leonxlnx/athenaion"
-stars: 709
-forks: 90
+stars: 714
+forks: 92
 open_issues: 0
 size_kb: 62135
 language: "JavaScript"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-16"
 first_seen: "2026-11-16"
 sources: ["https://x.com/dextune/status/2119029602257351106"]
-fetched_at: "2026-11-16T03:11:13.835807+00:00"
+fetched_at: "2026-11-16T21:33:35Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # Athenaion

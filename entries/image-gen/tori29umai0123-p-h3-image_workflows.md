@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-11"
 first_seen: "2026-11-11"
 sources: ["https://x.com/SlipperyGem/status/2120080547779350641"]
-fetched_at: "2026-11-10T23:10:18.321747+00:00"
+fetched_at: "2026-11-16T21:52:47Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # P-H3-Image ComfyUI sample workflows

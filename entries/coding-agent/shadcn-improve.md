@@ -4,12 +4,12 @@ genre: "coding-agent"
 url: "https://github.com/shadcn/improve"
 repo: "shadcn/improve"
 license: "MIT"
-stars: 10241
+stars: 11998
 language: "unknown"
 created: "2026-06-10"
 updated: "2026-09-12"
-forks: 425
-open_issues: 17
+forks: 487
+open_issues: 20
 commits_30d: 0
 commit_cadence: "stale"
 commits_90d: 1
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-11"
 first_seen: "2026-11-11"
 sources: ["https://x.com/TiagerBao/status/2120123324273745941"]
-fetched_at: "2026-11-10T23:16:52.547704+00:00"
+fetched_at: "2026-11-16T21:47:22Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # improve

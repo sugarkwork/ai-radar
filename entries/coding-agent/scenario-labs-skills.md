@@ -3,13 +3,13 @@ name: "Scenario Agent Skills"
 genre: "coding-agent"
 url: "https://github.com/scenario-labs/skills"
 repo: "scenario-labs/skills"
-stars: 3658
-forks: 321
-open_issues: 27
-size_kb: 49134
+stars: 3837
+forks: 335
+open_issues: 26
+size_kb: 48622
 language: "Python"
 created: "2026-08-12"
-updated: "2026-11-10"
+updated: "2026-11-16"
 archived: false
 license: "MIT"
 commits_30d: 100
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-11"
 first_seen: "2026-11-11"
 sources: ["https://x.com/naka_1717/status/2118183433390465215"]
-fetched_at: "2026-11-11T01:36:47.581530+00:00"
+fetched_at: "2026-11-16T21:47:13Z"
+last_release: "skills-v0.62.0"
+last_release_at: "2026-11-11"
 ---
 
 # Scenario Agent Skills

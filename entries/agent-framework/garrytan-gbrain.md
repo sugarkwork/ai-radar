@@ -5,13 +5,13 @@ url: "https://github.com/garrytan/gbrain"
 repo: "garrytan/gbrain"
 flags: ["unverified"]
 risk_notes: "READMEは作者の説明であり、記載された機能・性能を独立に検証したものではありません。"
-stars: 32488
-forks: 4838
-open_issues: 807
-size_kb: 456904
+stars: 33152
+forks: 4958
+open_issues: 528
+size_kb: 503944
 language: "TypeScript"
 created: "2026-04-05"
-updated: "2026-11-10"
+updated: "2026-11-16"
 archived: false
 license: "MIT"
 commits_30d: 100
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-11"
 first_seen: "2026-11-11"
 sources: ["https://x.com/GitTrend0x/status/2119950747898974362"]
-fetched_at: "2026-11-10T23:14:26.028410+00:00"
+fetched_at: "2026-11-16T21:38:00Z"
+last_release: "v0.60.728.0"
+last_release_at: "2026-11-15"
 ---
 
 # GBrain

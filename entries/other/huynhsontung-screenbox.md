@@ -4,16 +4,16 @@ genre: "other"
 url: "https://github.com/huynhsontung/Screenbox"
 repo: "huynhsontung/Screenbox"
 license: "GPL-3.0"
-stars: 4700
+stars: 4704
 language: "C#"
 created: "2022-01-12"
-updated: "2026-11-15"
+updated: "2026-11-16"
 forks: 222
 open_issues: 195
 commits_30d: 20
 commit_cadence: "daily"
-commits_90d: 67
-size_kb: 32757
+commits_90d: 68
+size_kb: 32988
 archived: false
 flags: ["unverified"]
 risk_notes: "一次資料で未確認: 実行条件。"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-16"
 first_seen: "2026-11-16"
 sources: ["https://x.com/bkdgiffug/status/2118999399334306232"]
-fetched_at: "2026-11-16T00:15:30.582214+00:00"
+fetched_at: "2026-11-16T22:01:10Z"
+last_release: "v0.24.0"
+last_release_at: "2026-10-26"
 ---
 
 # Screenbox

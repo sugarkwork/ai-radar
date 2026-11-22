@@ -3,16 +3,16 @@ repo: "penpot/penpot"
 name: "Penpot"
 genre: "mcp-server"
 url: "https://github.com/penpot/penpot"
-last_release: "2.19.0"
+last_release: "2.19.2"
 flags: ["unverified"]
 risk_notes: "MCPの接続、編集結果、生成コードの忠実度や往復変換で保持される範囲は独立に実測していない。最新リリースのタグは公開ページで確認したが、年とタイムゾーンを含む公開日時は未確認。"
-stars: 62245
-forks: 4393
-open_issues: 937
-size_kb: 438276
+stars: 62429
+forks: 4424
+open_issues: 943
+size_kb: 439239
 language: "Clojure"
 created: "2015-12-29"
-updated: "2026-11-10"
+updated: "2026-11-16"
 archived: false
 license: "MPL-2.0"
 commits_30d: 100
@@ -22,7 +22,8 @@ type: "repo"
 added: "2026-11-10"
 first_seen: "2026-11-10"
 sources: ["https://x.com/thegreatest_sv/status/2114739076796428729"]
-fetched_at: "2026-11-10T11:34:59+00:00"
+fetched_at: "2026-11-16T21:55:10Z"
+last_release_at: "2026-11-16"
 ---
 
 # Penpot — 公式MCPでデザインを読み取り・編集する

@@ -3,9 +3,9 @@ name: "Rapier"
 genre: "other"
 url: "https://github.com/dimforge/rapier"
 repo: "dimforge/rapier"
-stars: 6074
-forks: 439
-open_issues: 105
+stars: 6085
+forks: 441
+open_issues: 104
 size_kb: 83368
 language: "Rust"
 created: "2020-08-25"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-15"
 first_seen: "2026-11-15"
 sources: ["https://x.com/Y0urDumble/status/2121980122743861421"]
-fetched_at: "2026-11-15T15:21:34.741429+00:00"
+fetched_at: "2026-11-16T21:59:36Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # Rapier

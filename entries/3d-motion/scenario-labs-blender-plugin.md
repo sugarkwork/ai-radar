@@ -3,27 +3,27 @@ repo: "scenario-labs/blender-plugin"
 name: "Scenario for Blender"
 genre: "3d-motion"
 url: "https://github.com/scenario-labs/blender-plugin"
-stars: 968
-forks: 97
-open_issues: 55
-size_kb: 96720
+stars: 1032
+forks: 106
+open_issues: 54
+size_kb: 96743
 language: "Python"
 created: "2026-08-30"
-updated: "2026-11-10"
+updated: "2026-11-13"
 archived: false
 license: "GPL-3.0"
-commits_30d: 100
+commits_30d: 74
 commits_90d: 100
 commit_cadence: "daily"
-last_release: "blender-plugin-v0.13.0"
-last_release_at: "2026-11-04"
+last_release: "blender-plugin-v0.13.1"
+last_release_at: "2026-11-12"
 flags: ["unverified"]
 risk_notes: "インストール、MCP接続、生成品質、処理時間、実消費CUは未実測。発見投稿の羊牧場デモにおける本拡張の寄与と所要時間、生成物の利用条件は未確認。"
 type: "repo"
 added: "2026-11-10"
 first_seen: "2026-11-10"
 sources: ["https://x.com/Y0urDumble/status/2115534594854551771"]
-fetched_at: "2026-11-10T12:24:30+00:00"
+fetched_at: "2026-11-16T21:34:52Z"
 ---
 
 # Scenario for Blender — PBR素材の生成・適用とローカルMCP連携

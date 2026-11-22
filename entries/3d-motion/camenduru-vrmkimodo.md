@@ -17,11 +17,11 @@ flags: ["unverified"]
 risk_notes: "上流 nv-tlabs/kimodo のフォークで、独自追加は kimodo/exports/vrma.py のみ（README/CHANGELOG は上流と同一、CLI・デモからは未接続）。.vrma 書き出しはコード読解のみで実行検証していない。コードは Apache-2.0 だがモデル重みは NVIDIA Open Model License。ローカル生成には約17GB VRAM が必要。"
 forks: 1
 open_issues: 0
-commits_30d: 21
-commit_cadence: "daily"
+commits_30d: 3
+commit_cadence: "monthly"
 size_kb: 44583
 archived: false
-fetched_at: "2026-11-09T21:30:35Z"
+fetched_at: "2026-11-16T21:32:22Z"
 last_release: ""
 last_release_at: ""
 commits_90d: 23

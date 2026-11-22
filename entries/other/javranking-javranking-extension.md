@@ -4,7 +4,7 @@ genre: "other"
 url: "https://github.com/javranking/javranking-extension"
 repo: "javranking/javranking-extension"
 license: "MIT"
-stars: 1043
+stars: 1054
 language: "TypeScript"
 created: "2026-09-07"
 updated: "2026-10-27"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-14"
 first_seen: "2026-11-14"
 sources: ["https://x.com/ruyi3699/status/2118735409052004744"]
-fetched_at: "2026-11-13T22:10:04.709587+00:00"
+fetched_at: "2026-11-16T22:01:26Z"
+last_release: "v1.0.1"
+last_release_at: "2026-09-13"
 ---
 
 # JavRanking 浏览器扩展

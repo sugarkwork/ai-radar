@@ -4,7 +4,7 @@ genre: "3d-motion"
 url: "https://github.com/Inochi2D/inochi2d"
 repo: "Inochi2D/inochi2d"
 license: "BSD-2-Clause"
-stars: 1863
+stars: 1877
 language: "D"
 created: "2020-10-08"
 updated: "2026-11-10"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-14"
 first_seen: "2026-11-14"
 sources: ["https://x.com/aikangarooking/status/2121444332091965629"]
-fetched_at: "2026-11-14T08:07:11.688502+00:00"
+fetched_at: "2026-11-16T21:33:22Z"
+last_release: "v0.8.7"
+last_release_at: "2024-10-02"
 ---
 
 # Inochi2D

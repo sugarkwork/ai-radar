@@ -4,8 +4,8 @@ name: "Pixel Plays"
 genre: "other"
 url: "https://github.com/amirmushichge/pixel-plays"
 license: "MIT"
-stars: 448
-forks: 43
+stars: 519
+forks: 51
 open_issues: 2
 size_kb: 12025
 language: "HTML"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-10"
 first_seen: "2026-11-10"
 sources: ["https://x.com/AiAircle34052/status/2117088054892785671"]
-fetched_at: "2026-11-10T08:19:51+00:00"
+fetched_at: "2026-11-16T21:58:37Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # Pixel Plays｜画像素材なしで描画するブラウザゲーム5本

@@ -5,8 +5,8 @@ url: "https://github.com/Astro-Han/karpathy-llm-wiki"
 repo: "Astro-Han/karpathy-llm-wiki"
 flags: ["unverified"]
 risk_notes: "READMEに記載された利用統計や運用実績はREADME上の説明であり、独立検証していない。インストール方法としてnpx add-skillが記載されているが、実行条件や追加依存関係はREADMEだけでは確認できない。"
-stars: 2718
-forks: 314
+stars: 2755
+forks: 317
 open_issues: 11
 size_kb: 372
 language: "Python"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-11"
 first_seen: "2026-11-11"
 sources: ["https://x.com/Bober_smart/status/2116978958121964030"]
-fetched_at: "2026-11-10T14:14:31.536519+00:00"
+fetched_at: "2026-11-16T21:36:34Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # karpathy-llm-wiki

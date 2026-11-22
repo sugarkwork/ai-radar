@@ -15,18 +15,18 @@ repo: "bowenliang123/dsh-context"
 license: "Apache-2.0"
 language: "TypeScript"
 created: "2026-08-14"
-updated: "2026-11-09"
-stars: 4775
-forks: 201
-open_issues: 0
+updated: "2026-11-16"
+stars: 5192
+forks: 228
+open_issues: 5
 commits_30d: 100
 commits_90d: 100
 commit_cadence: "daily"
-size_kb: 137222
+size_kb: 137683
 archived: false
-fetched_at: "2026-11-09T21:32:32Z"
-last_release: "v0.83.0"
-last_release_at: "2026-11-08"
+fetched_at: "2026-11-16T21:36:41Z"
+last_release: "v0.85.1"
+last_release_at: "2026-11-15"
 ---
 
 # bowenliang123/dsh-context

@@ -4,16 +4,16 @@ genre: "agent-framework"
 url: "https://github.com/browser-use/browser-use"
 repo: "browser-use/browser-use"
 license: "MIT"
-stars: 120559
+stars: 121222
 language: "Python"
 created: "2024-10-31"
-updated: "2026-11-10"
-forks: 13471
-open_issues: 618
+updated: "2026-11-16"
+forks: 13553
+open_issues: 595
 commits_30d: 100
 commit_cadence: "daily"
 commits_90d: 100
-size_kb: 40312
+size_kb: 43227
 archived: false
 flags: ["unverified"]
 risk_notes: "README記載の実行条件と手順は未実行。クラウド利用時の料金や各機能の効果・利用条件は、この資料からは検証していない。"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-11"
 first_seen: "2026-11-11"
 sources: ["https://x.com/thegreatest_sv/status/2118043980420030914"]
-fetched_at: "2026-11-10T16:21:31.320250+00:00"
+fetched_at: "2026-11-16T21:36:51Z"
+last_release: "1.0.6"
+last_release_at: "2026-11-16"
 ---
 
 # Browser Use

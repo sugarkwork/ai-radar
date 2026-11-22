@@ -3,8 +3,8 @@ name: "DSH Game Studio"
 genre: "coding-agent"
 url: "https://github.com/ZSeven-W/dsh-game-studio"
 repo: "ZSeven-W/dsh-game-studio"
-stars: 546
-forks: 45
+stars: 569
+forks: 47
 open_issues: 1
 size_kb: 9264
 language: "TypeScript"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-14"
 first_seen: "2026-11-14"
 sources: ["https://x.com/Leviwoyun/status/2118714367302877635"]
-fetched_at: "2026-11-13T20:10:48.071221+00:00"
+fetched_at: "2026-11-16T21:48:43Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # DSH Game Studio

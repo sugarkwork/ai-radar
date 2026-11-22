@@ -16,14 +16,14 @@ created: "2026-10-12"
 updated: "2026-10-29"
 archived: false
 license: "MIT"
-commits_30d: 11
+commits_30d: 3
 commits_90d: 11
-commit_cadence: "weekly"
+commit_cadence: "monthly"
 type: "repo"
 added: "2026-11-11"
 first_seen: "2026-11-11"
 sources: ["https://x.com/sumika45379/status/2116145600156856583"]
-fetched_at: "2026-11-10T12:58:05+00:00"
+fetched_at: "2026-11-16T21:43:43Z"
 ---
 
 # davekiss/mods の /leaksでClaude Codeのトークン消費を見直す

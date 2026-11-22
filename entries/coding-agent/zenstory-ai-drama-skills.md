@@ -4,16 +4,16 @@ genre: "coding-agent"
 url: "https://github.com/zenstory-ai/drama-skills"
 repo: "zenstory-ai/drama-skills"
 license: "MIT"
-stars: 4202
+stars: 4350
 language: "Python"
 created: "2026-07-16"
-updated: "2026-11-10"
-forks: 739
-open_issues: 2
-commits_30d: 80
+updated: "2026-11-16"
+forks: 760
+open_issues: 3
+commits_30d: 68
 commit_cadence: "daily"
 commits_90d: 100
-size_kb: 79228
+size_kb: 80214
 archived: false
 flags: ["unverified"]
 risk_notes: "README記載の「视频生成成本约40元」は作者によるサンプルの説明で、一般的な費用を示すものではありません。実際の費用は記載されていません。"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-14"
 first_seen: "2026-11-14"
 sources: ["https://x.com/ganfanren_ai/status/2118721879242633643"]
-fetched_at: "2026-11-13T21:12:06.095938+00:00"
+fetched_at: "2026-11-16T21:48:40Z"
+last_release: "v0.12.1"
+last_release_at: "2026-11-16"
 ---
 
 # Drama Skills

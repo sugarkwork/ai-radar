@@ -5,12 +5,12 @@ url: "https://github.com/NousResearch/hermes-agent"
 repo: "NousResearch/hermes-agent"
 language: "Python"
 commit_cadence: "daily"
-stars: 263292
-forks: 59333
-open_issues: 53308
-size_kb: 1458600
+stars: 263893
+forks: 59510
+open_issues: 53360
+size_kb: 1482988
 created: "2025-07-22"
-updated: "2026-11-14"
+updated: "2026-11-16"
 archived: false
 license: "MIT"
 commits_30d: 100
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-14"
 first_seen: "2026-11-14"
 sources: ["https://x.com/RoundtableSpace/status/2118837821079212188"]
-fetched_at: "2026-11-14T13:06:35.597718+00:00"
+fetched_at: "2026-11-16T21:39:42Z"
+last_release: "v0.23.2"
+last_release_at: "2026-11-16"
 ---
 
 # Hermes Agent

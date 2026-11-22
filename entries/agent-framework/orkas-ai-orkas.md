@@ -4,16 +4,16 @@ genre: "agent-framework"
 url: "https://github.com/Orkas-AI/Orkas"
 repo: "Orkas-AI/Orkas"
 license: "MIT"
-stars: 9183
+stars: 9407
 language: "JavaScript"
 created: "2026-04-29"
-updated: "2026-11-10"
-forks: 534
-open_issues: 16
+updated: "2026-11-16"
+forks: 559
+open_issues: 20
 commits_30d: 100
 commit_cadence: "daily"
 commits_90d: 100
-size_kb: 155729
+size_kb: 160631
 archived: false
 flags: ["unverified"]
 risk_notes: "README記載の機能説明に基づく。各エージェントの実際の性能、動作条件、依存関係は確認していない。"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-11"
 first_seen: "2026-11-11"
 sources: ["https://x.com/awe0_io/status/2120092852919402640"]
-fetched_at: "2026-11-10T22:27:28.634950+00:00"
+fetched_at: "2026-11-16T21:40:11Z"
+last_release: "v2026.11.16"
+last_release_at: "2026-11-16"
 ---
 
 # Orkas

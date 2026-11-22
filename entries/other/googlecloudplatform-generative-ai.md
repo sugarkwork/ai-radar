@@ -4,16 +4,16 @@ genre: "other"
 url: "https://github.com/GoogleCloudPlatform/generative-ai"
 repo: "GoogleCloudPlatform/generative-ai"
 license: "Apache-2.0"
-stars: 17906
+stars: 17940
 language: "Jupyter Notebook"
 created: "2023-05-05"
-updated: "2026-11-14"
-forks: 4515
-open_issues: 94
-commits_30d: 24
+updated: "2026-11-16"
+forks: 4523
+open_issues: 96
+commits_30d: 28
 commit_cadence: "daily"
 commits_90d: 100
-size_kb: 531843
+size_kb: 537361
 archived: false
 flags: ["unverified"]
 risk_notes: "READMEだけでは、各サンプルの個別の依存関係、実行条件、料金は確認できません。"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-15"
 first_seen: "2026-11-15"
 sources: ["https://x.com/DAIEvolutionHub/status/2121642650965315953"]
-fetched_at: "2026-11-15T08:18:43.406941+00:00"
+fetched_at: "2026-11-16T22:00:55Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # Generative AI on Google Cloud

@@ -4,16 +4,16 @@ genre: "mcp-server"
 url: "https://github.com/basicmachines-co/basic-memory"
 repo: "basicmachines-co/basic-memory"
 license: "AGPL-3.0"
-stars: 4583
+stars: 4602
 language: "Python"
 created: "2024-12-02"
-updated: "2026-11-15"
-forks: 360
-open_issues: 55
+updated: "2026-11-16"
+forks: 361
+open_issues: 56
 commits_30d: 100
 commit_cadence: "daily"
 commits_90d: 100
-size_kb: 60537
+size_kb: 60626
 archived: false
 flags: ["unverified"]
 risk_notes: "一次資料で未確認: 技術背景・有効性。"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-15"
 first_seen: "2026-11-15"
 sources: ["https://x.com/stewy0x/status/2121929768996110590"]
-fetched_at: "2026-11-15T14:19:09.788975+00:00"
+fetched_at: "2026-11-16T21:53:50Z"
+last_release: "v1.0.0"
+last_release_at: "2026-10-29"
 ---
 
 # Basic Memory

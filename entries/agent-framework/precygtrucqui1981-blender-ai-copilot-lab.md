@@ -4,24 +4,26 @@ genre: "agent-framework"
 url: "https://github.com/precygtrucqui1981/blender-ai-copilot-lab"
 repo: "precygtrucqui1981/blender-ai-copilot-lab"
 license: "MIT"
-stars: 187
-forks: 5
+stars: 507
+forks: 13
 created: "2026-11-12"
-updated: "2026-11-12"
-commits_30d: 3
-commit_cadence: "monthly"
-commits_90d: 3
+updated: "2026-11-15"
+commits_30d: 5
+commit_cadence: "weekly"
+commits_90d: 5
 size_kb: 8
 archived: false
 flags: ["unverified"]
 risk_notes: "README記載の機能と対象環境は作者の説明に基づく。独立した動作確認は行っていない。"
-open_issues: 38
+open_issues: 45
 language: "unknown"
 type: "repo"
 added: "2026-11-14"
 first_seen: "2026-11-14"
 sources: ["https://x.com/TheArthiAI/status/2121435010939142280"]
-fetched_at: "2026-11-14T04:09:24.616371+00:00"
+fetched_at: "2026-11-16T21:40:30Z"
+last_release: "v1.0.0"
+last_release_at: "2026-11-15"
 ---
 
 # blender-ai-copilot-lab

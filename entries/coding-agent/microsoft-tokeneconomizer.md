@@ -3,13 +3,13 @@ repo: "microsoft/TokenEconomizer"
 name: "TokenEconomizer"
 genre: "coding-agent"
 url: "https://github.com/microsoft/TokenEconomizer"
-stars: 5576
-forks: 345
-open_issues: 30
-size_kb: 6997
+stars: 7110
+forks: 462
+open_issues: 27
+size_kb: 7151
 language: "Python"
 created: "2026-10-13"
-updated: "2026-11-08"
+updated: "2026-11-16"
 archived: false
 license: "Apache-2.0"
 commits_30d: 100
@@ -22,7 +22,8 @@ type: "repo"
 added: "2026-11-10"
 first_seen: "2026-11-10"
 sources: ["https://x.com/opensourcelab9/status/2117504564941508613"]
-fetched_at: "2026-11-10T09:19:56Z"
+fetched_at: "2026-11-16T21:46:02Z"
+last_release_at: "2026-10-26"
 ---
 
 # TokenEconomizer — コーディングエージェントの反復作業にかかるトークン費用を抑えるプラグイン

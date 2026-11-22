@@ -3,8 +3,8 @@ name: "Knowledge Work Plugins"
 genre: "agent-framework"
 url: "https://github.com/anthropics/knowledge-work-plugins"
 repo: "anthropics/knowledge-work-plugins"
-stars: 35663
-forks: 3945
+stars: 36290
+forks: 4008
 open_issues: 169
 size_kb: 6859
 language: "Python"
@@ -12,7 +12,7 @@ created: "2026-01-23"
 updated: "2026-11-13"
 archived: false
 license: "Apache-2.0"
-commits_30d: 75
+commits_30d: 32
 commits_90d: 100
 commit_cadence: "daily"
 flags: ["unverified"]
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-14"
 first_seen: "2026-11-14"
 sources: ["https://x.com/awe0_io/status/2118739120206045238"]
-fetched_at: "2026-11-13T23:19:15.427574+00:00"
+fetched_at: "2026-11-16T21:36:24Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # Knowledge Work Plugins

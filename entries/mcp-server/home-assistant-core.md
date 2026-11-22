@@ -3,13 +3,13 @@ repo: "home-assistant/core"
 name: "Home Assistant Core"
 genre: "mcp-server"
 url: "https://github.com/home-assistant/core"
-stars: 92120
-forks: 39255
-open_issues: 3854
-size_kb: 937536
+stars: 92295
+forks: 39346
+open_issues: 3920
+size_kb: 943535
 language: "Python"
 created: "2013-09-17"
-updated: "2026-11-10"
+updated: "2026-11-16"
 archived: false
 license: "Apache-2.0"
 commits_30d: 100
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-10"
 first_seen: "2026-11-10"
 sources: ["https://x.com/thegreatest_sv/status/2117960732184633699"]
-fetched_at: "2026-11-10T11:15:00+00:00"
+fetched_at: "2026-11-16T21:54:27Z"
+last_release: "2026.11.2"
+last_release_at: "2026-11-16"
 ---
 
 # Home Assistant Core — MCP で家庭内機器を AI クライアントにつなぐ

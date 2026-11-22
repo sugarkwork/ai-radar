@@ -4,7 +4,7 @@ genre: "coding-agent"
 url: "https://github.com/t3knobox/klik-anim-skill-creation"
 repo: "t3knobox/klik-anim-skill-creation"
 license: "unknown"
-stars: 96
+stars: 97
 language: "Python"
 created: "2026-08-03"
 updated: "2026-08-06"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-12"
 first_seen: "2026-11-12"
 sources: ["https://x.com/PromptLabCN/status/2120750742785171596"]
-fetched_at: "2026-11-12T06:12:46.568650+00:00"
+fetched_at: "2026-11-16T21:47:44Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # Klik Motion-Graphics System

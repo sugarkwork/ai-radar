@@ -3,26 +3,27 @@ name: "FreeMoCap"
 genre: "3d-motion"
 repo: "freemocap/freemocap"
 url: "https://github.com/freemocap/freemocap"
-stars: 10769
-forks: 1026
-open_issues: 193
-size_kb: 299536
+stars: 10824
+forks: 1036
+open_issues: 190
+size_kb: 300461
 language: "TypeScript"
 created: "2021-04-12"
-updated: "2026-11-09"
+updated: "2026-11-14"
 archived: false
 license: "AGPL-3.0"
-commits_30d: 2
-commits_90d: 20
-commit_cadence: "monthly"
-last_release: "v2.0.0-alpha.25"
+commits_30d: 5
+commits_90d: 23
+commit_cadence: "weekly"
+last_release: "v2.0.0-alpha.26"
 flags: ["unverified"]
 risk_notes: "公開資料による確認。インストール、撮影、追跡精度、処理速度、Blender出力の品質は実測していない。最新リリースのタグは公開ページの転送先で確認したが、公開日時は未確認。READMEのソースビルド手順には非公開Git依存があり、公開アクセスだけでの再現性は未確認。"
 type: "repo"
 added: "2026-11-10"
 first_seen: "2026-11-10"
 sources: ["https://x.com/Y0urDumble/status/2117396633889427646"]
-fetched_at: "2026-11-10T08:51:17Z"
+fetched_at: "2026-11-16T21:33:04Z"
+last_release_at: "2026-11-11"
 ---
 
 # FreeMoCap｜Webカメラで始めるマーカーレス動作追跡

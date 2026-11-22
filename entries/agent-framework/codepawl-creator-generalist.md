@@ -4,16 +4,16 @@ genre: "agent-framework"
 url: "https://github.com/codepawl/creator-generalist"
 repo: "codepawl/creator-generalist"
 license: "MIT"
-stars: 119
+stars: 216
 language: "Python"
 created: "2026-11-06"
-updated: "2026-11-10"
-forks: 7
+updated: "2026-11-16"
+forks: 17
 open_issues: 0
-commits_30d: 28
+commits_30d: 56
 commit_cadence: "daily"
-commits_90d: 28
-size_kb: 7122
+commits_90d: 56
+size_kb: 7870
 archived: false
 flags: ["unverified"]
 risk_notes: "一次資料で未確認: 技術背景・有効性・依存関係・実行条件。"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-11"
 first_seen: "2026-11-11"
 sources: ["https://x.com/CY160909/status/2119983884934734211"]
-fetched_at: "2026-11-10T23:20:27.907597+00:00"
+fetched_at: "2026-11-16T21:37:12Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # creator-generalist

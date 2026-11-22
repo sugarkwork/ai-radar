@@ -22,7 +22,8 @@ type: "repo"
 added: "2026-11-11"
 first_seen: "2026-11-11"
 sources: ["https://x.com/thegreatest_sv/status/2116142322543198271"]
-fetched_at: "2026-11-10T12:56:36+00:00"
+fetched_at: "2026-11-16T21:49:46Z"
+last_release_at: "2026-09-21"
 ---
 
 # jev-calibrate — Jevの判定を手元のラベルで評価するCLI

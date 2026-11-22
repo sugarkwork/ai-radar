@@ -6,13 +6,13 @@ repo: "tigerless-labs/autoharness"
 license: "MIT"
 language: "Python"
 created: "2026-06-09"
-updated: "2026-11-10"
+updated: "2026-11-12"
 commit_cadence: "daily"
 archived: false
-stars: 10940
-forks: 654
-open_issues: 19
-size_kb: 1190
+stars: 11145
+forks: 666
+open_issues: 15
+size_kb: 1304
 commits_30d: 100
 commits_90d: 100
 flags: ["unverified"]
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-11"
 first_seen: "2026-11-11"
 sources: ["https://x.com/CY160909/status/2120278073715396948"]
-fetched_at: "2026-11-11T04:20:28.707230+00:00"
+fetched_at: "2026-11-16T21:41:26Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # AutoHarness

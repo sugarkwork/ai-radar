@@ -3,8 +3,8 @@ name: "BAMA: Build Any Mac App"
 genre: "coding-agent"
 url: "https://github.com/daveebbelaar/bama"
 repo: "daveebbelaar/bama"
-stars: 1819
-forks: 223
+stars: 1866
+forks: 228
 open_issues: 3
 size_kb: 1253
 language: "Swift"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-15"
 first_seen: "2026-11-15"
 sources: ["https://x.com/AIExplorerTim/status/2118910064606233060"]
-fetched_at: "2026-11-15T00:18:08.409699+00:00"
+fetched_at: "2026-11-16T21:43:39Z"
+last_release: "bama--v1.1.1"
+last_release_at: "2026-11-05"
 ---
 
 # BAMA: Build Any Mac App

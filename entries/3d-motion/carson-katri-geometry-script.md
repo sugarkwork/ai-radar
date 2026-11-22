@@ -6,22 +6,24 @@ url: "https://github.com/carson-katri/geometry-script"
 license: "GPL-3.0"
 language: "Python"
 flags: ["unverified"]
-stars: 379
+stars: 388
 forks: 33
 open_issues: 33
 size_kb: 22244
 created: "2022-11-13"
-updated: "2026-11-09"
+updated: "2026-11-16"
 archived: false
-commits_30d: 6
+commits_30d: 0
 commits_90d: 6
-commit_cadence: "weekly"
+commit_cadence: "monthly"
 type: "repo"
 added: "2026-11-10"
 first_seen: "2026-11-10"
 risk_notes: ""
 sources: ["https://x.com/Y0urDumble/status/2115534594854551771"]
-fetched_at: "2026-11-10T12:23:04+00:00"
+fetched_at: "2026-11-16T21:32:25Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # Geometry Script — BlenderのノードツリーをPythonで組む

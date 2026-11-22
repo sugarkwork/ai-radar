@@ -15,18 +15,18 @@ repo: "meta/astryx"
 license: "MIT"
 language: "TypeScript"
 created: "2026-01-09"
-updated: "2026-11-09"
-stars: 19713
-forks: 1502
-open_issues: 682
+updated: "2026-11-16"
+stars: 29520
+forks: 2304
+open_issues: 804
 commits_30d: 100
 commits_90d: 100
 commit_cadence: "daily"
-size_kb: 1263758
+size_kb: 1384843
 archived: false
-fetched_at: "2026-11-09T21:36:21Z"
-last_release: "v0.7.11"
-last_release_at: "2026-11-07"
+fetched_at: "2026-11-16T21:45:47Z"
+last_release: "v0.7.16"
+last_release_at: "2026-11-14"
 ---
 
 # meta/astryx

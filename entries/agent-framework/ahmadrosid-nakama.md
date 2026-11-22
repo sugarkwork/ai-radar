@@ -5,13 +5,13 @@ url: "https://github.com/ahmadrosid/nakama"
 repo: "ahmadrosid/nakama"
 flags: ["unverified"]
 risk_notes: "READMEによると、Dockerのリセット手順はデータを破棄し、ポート4310を公開する無関係なコンテナも削除する。実行前に影響範囲を確認すること。"
-stars: 802
-forks: 137
-open_issues: 60
-size_kb: 48795
+stars: 827
+forks: 146
+open_issues: 50
+size_kb: 49599
 language: "TypeScript"
 created: "2026-05-23"
-updated: "2026-11-10"
+updated: "2026-11-15"
 archived: false
 license: "MIT"
 commits_30d: 100
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-11"
 first_seen: "2026-11-11"
 sources: ["https://x.com/Ryrenz/status/2118192835266519269"]
-fetched_at: "2026-11-11T02:11:02.748871+00:00"
+fetched_at: "2026-11-16T21:35:53Z"
+last_release: "v0.4.74"
+last_release_at: "2026-11-13"
 ---
 
 # Nakama

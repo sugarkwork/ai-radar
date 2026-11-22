@@ -5,13 +5,13 @@ url: "https://github.com/firecrawl/firecrawl"
 flags: ["unverified"]
 risk_notes: "README記載の性能やカバー率は独立に検証していない。利用条件や料金もこの資料だけでは確認できない。"
 repo: "firecrawl/firecrawl"
-stars: 200407
-forks: 10543
-open_issues: 783
-size_kb: 190416
+stars: 202330
+forks: 10602
+open_issues: 804
+size_kb: 191291
 language: "TypeScript"
 created: "2024-04-15"
-updated: "2026-11-10"
+updated: "2026-11-16"
 archived: false
 license: "AGPL-3.0"
 commits_30d: 100
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-11"
 first_seen: "2026-11-11"
 sources: ["https://x.com/thegreatest_sv/status/2118043980420030914"]
-fetched_at: "2026-11-10T16:21:38.616964+00:00"
+fetched_at: "2026-11-16T21:37:51Z"
+last_release: "v2.11.0"
+last_release_at: "2026-06-19"
 ---
 
 # Firecrawl

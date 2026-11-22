@@ -7,7 +7,7 @@ license: "MIT"
 stars: 13
 language: "Python"
 created: "2026-08-23"
-updated: "2026-11-09"
+updated: "2026-11-11"
 added: "2026-11-03"
 first_seen: "2026-11-03"
 sources: []
@@ -15,12 +15,12 @@ flags: []
 risk_notes: ""
 forks: 1
 open_issues: 0
-commits_30d: 11
+commits_30d: 14
 commit_cadence: "weekly"
-size_kb: 103
+size_kb: 129
 archived: false
-commits_90d: 30
-fetched_at: "2026-11-09T21:34:23Z"
+commits_90d: 34
+fetched_at: "2026-11-16T21:40:14Z"
 last_release: ""
 last_release_at: ""
 ---

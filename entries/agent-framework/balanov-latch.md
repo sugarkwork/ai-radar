@@ -7,23 +7,23 @@ license: "MIT"
 stars: 63
 language: "JavaScript"
 created: "2026-11-04"
-updated: "2026-11-09"
+updated: "2026-11-15"
 added: "2026-11-05"
 first_seen: "2026-11-04"
 source_post: "https://x.com/RoundtableSpace/status/2118117449782460643"
 sources: []
 flags: []
 risk_notes: ""
-forks: 1
+forks: 3
 open_issues: 0
-size_kb: 2460
+size_kb: 2505
 archived: false
-commits_30d: 21
-commits_90d: 21
+commits_30d: 30
+commits_90d: 30
 commit_cadence: "daily"
-fetched_at: "2026-11-09T21:32:27Z"
-last_release: ""
-last_release_at: ""
+fetched_at: "2026-11-16T21:36:36Z"
+last_release: "v0.2.1"
+last_release_at: "2026-11-15"
 ---
 
 # LATCH

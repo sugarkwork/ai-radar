@@ -3,16 +3,16 @@ name: "Modern Web Guidance"
 genre: "coding-agent"
 url: "https://github.com/GoogleChrome/modern-web-guidance"
 repo: "GoogleChrome/modern-web-guidance"
-stars: 15170
-forks: 550
+stars: 20065
+forks: 787
 open_issues: 1
-size_kb: 1726
+size_kb: 1899
 language: "unknown"
 created: "2026-03-23"
-updated: "2026-11-10"
+updated: "2026-11-16"
 archived: false
 license: "Apache-2.0"
-commits_30d: 4
+commits_30d: 5
 commits_90d: 16
 commit_cadence: "weekly"
 flags: ["unverified"]
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-15"
 first_seen: "2026-11-15"
 sources: ["https://x.com/don_tech1/status/2121060480714469728"]
-fetched_at: "2026-11-15T00:22:18.003521+00:00"
+fetched_at: "2026-11-16T21:44:35Z"
+last_release: "v1.0.1"
+last_release_at: "2026-11-16"
 ---
 
 # Modern Web Guidance

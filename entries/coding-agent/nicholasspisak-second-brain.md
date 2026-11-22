@@ -5,7 +5,7 @@ url: "https://github.com/NicholasSpisak/second-brain"
 repo: "NicholasSpisak/second-brain"
 flags: ["unverified"]
 risk_notes: "READMEに記載された機能と手順に基づく。個別の効果、利用条件、費用は確認できていない。 GitHub APIでライセンスを確認できていません。"
-stars: 775
+stars: 779
 forks: 116
 open_issues: 1
 size_kb: 3586
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-11"
 first_seen: "2026-11-11"
 sources: ["https://x.com/Bober_smart/status/2116978958121964030"]
-fetched_at: "2026-11-10T14:14:37.834658+00:00"
+fetched_at: "2026-11-16T21:46:34Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # Second Brain

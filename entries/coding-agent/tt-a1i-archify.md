@@ -6,13 +6,13 @@ url: "https://github.com/tt-a1i/archify"
 last_release: "v3.2.0"
 flags: ["unverified"]
 risk_notes: "生成された図の正確性や可読性、各エージェントでの導入と書き出しの動作は独立に検証していない。GitHubの公開ページで最新版タグを確認したが、完全な公開日時は未確認。"
-stars: 95261
-forks: 6499
-open_issues: 353
-size_kb: 1523129
+stars: 97153
+forks: 6636
+open_issues: 371
+size_kb: 1641191
 language: "JavaScript"
 created: "2026-04-15"
-updated: "2026-11-10"
+updated: "2026-11-16"
 archived: false
 license: "Apache-2.0"
 commits_30d: 100
@@ -22,7 +22,8 @@ type: "repo"
 added: "2026-11-10"
 first_seen: "2026-11-10"
 sources: ["https://x.com/opensourcelab9/status/2115209466392228235"]
-fetched_at: "2026-11-10T12:02:00Z"
+fetched_at: "2026-11-16T21:47:54Z"
+last_release_at: "2026-10-19"
 ---
 
 # Archify — AIとの会話で作るインタラクティブな構成図

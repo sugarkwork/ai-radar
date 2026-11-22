@@ -7,8 +7,8 @@ last_release: ""
 last_release_at: ""
 flags: ["unverified"]
 risk_notes: "現行版の生成品質、実行互換性、レンダリング性能は独立検証していない。作者のブラインド比較は旧版を対象とした単一評価者の結果で、作例の映像品質も評価していない。紹介投稿の冒頭にある参照動画の再現能力は、このリポジトリについて確認できていない。"
-stars: 1509
-forks: 154
+stars: 1639
+forks: 165
 open_issues: 1
 size_kb: 21795
 language: "JavaScript"
@@ -23,7 +23,7 @@ type: "repo"
 added: "2026-11-10"
 first_seen: "2026-11-10"
 sources: ["https://x.com/CryptooGG_/status/2119312343892976064"]
-fetched_at: "2026-11-10T12:08:26Z"
+fetched_at: "2026-11-16T21:35:05Z"
 ---
 
 # motionmaxxingでモーショングラフィックスを設計し、編集可能なHTMLとMP4に出力する

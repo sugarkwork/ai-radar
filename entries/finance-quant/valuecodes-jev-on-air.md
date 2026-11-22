@@ -5,11 +5,11 @@ genre: "finance-quant"
 url: "https://github.com/valuecodes/jev-on-air"
 stars: 0
 forks: 0
-open_issues: 3
-size_kb: 999
+open_issues: 4
+size_kb: 1000
 language: "TypeScript"
 created: "2026-09-26"
-updated: "2026-11-09"
+updated: "2026-11-16"
 archived: false
 license: "MIT"
 commits_30d: 11
@@ -22,7 +22,8 @@ type: "repo"
 added: "2026-11-10"
 first_seen: "2026-11-10"
 sources: ["https://x.com/thegreatest_sv/status/2115461838607659474"]
-fetched_at: "2026-11-10T12:19:45Z"
+fetched_at: "2026-11-16T21:51:25Z"
+last_release_at: "2026-10-22"
 ---
 
 # JevOnAir — 配信の文字起こしと市場データを使うペーパートレードCLI

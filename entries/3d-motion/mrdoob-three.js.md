@@ -4,13 +4,13 @@ name: "Three.js"
 genre: "3d-motion"
 url: "https://github.com/mrdoob/three.js"
 license: "MIT"
-stars: 118014
-forks: 36937
-open_issues: 412
-size_kb: 1702728
+stars: 118656
+forks: 37007
+open_issues: 393
+size_kb: 1703426
 language: "JavaScript"
 created: "2010-03-23"
-updated: "2026-11-10"
+updated: "2026-11-16"
 archived: false
 commits_30d: 100
 commits_90d: 100
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-10"
 first_seen: "2026-11-10"
 sources: ["https://x.com/okapi_fukugyo/status/2117616982518559161"]
-fetched_at: "2026-11-10T09:54:27+00:00"
+fetched_at: "2026-11-16T21:34:07Z"
+last_release: "r187"
+last_release_at: "2026-10-30"
 ---
 
 # Three.jsでブラウザ上の3Dシーンとカメラワークを試作する

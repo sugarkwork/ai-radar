@@ -4,11 +4,11 @@ genre: "coding-agent"
 url: "https://github.com/NiazMorshed2007/reanimate"
 repo: "NiazMorshed2007/reanimate"
 license: "MIT"
-stars: 1557
+stars: 1721
 language: "JavaScript"
 created: "2026-10-29"
 updated: "2026-10-31"
-forks: 136
+forks: 147
 open_issues: 7
 commits_30d: 20
 commit_cadence: "daily"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-11"
 first_seen: "2026-11-11"
 sources: ["https://x.com/ganfanren_ai/status/2118311436485321040"]
-fetched_at: "2026-11-11T16:12:05.648487+00:00"
+fetched_at: "2026-11-16T21:46:31Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # reanimate

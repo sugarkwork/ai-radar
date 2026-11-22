@@ -3,26 +3,27 @@ repo: "citrolabs/ego-lite"
 name: "ego lite"
 genre: "other"
 url: "https://github.com/citrolabs/ego-lite"
-stars: 22387
-forks: 1269
-open_issues: 271
-size_kb: 9054
+stars: 23149
+forks: 1308
+open_issues: 284
+size_kb: 9170
 language: "JavaScript"
 created: "2026-04-16"
-updated: "2026-11-10"
+updated: "2026-11-16"
 archived: false
 license: "MIT"
 commits_30d: 100
 commits_90d: 100
 commit_cadence: "daily"
-last_release: "v2.1.0"
+last_release: "v2.2.1"
 flags: ["unverified"]
 risk_notes: "公式リリース一覧ではv2.1.0がLatestと表示された。最新リリースへの直接アクセスはタイムアウトし、公開日時は未確認。作者ベンチマークの再現性、ブラウザデータの取り扱い、Spaces間の分離の実効性は未検証。"
 type: "repo"
 added: "2026-11-10"
 first_seen: "2026-11-10"
 sources: ["https://x.com/opensourcelab9/status/2117504564941508613"]
-fetched_at: "2026-11-10T09:19:17Z"
+fetched_at: "2026-11-16T21:59:14Z"
+last_release_at: "2026-11-16"
 ---
 
 # ego lite — AIエージェントと並行作業できるブラウザ

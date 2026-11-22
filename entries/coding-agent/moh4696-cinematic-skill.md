@@ -4,12 +4,12 @@ genre: "coding-agent"
 url: "https://github.com/Moh4696/cinematic-skill"
 repo: "Moh4696/cinematic-skill"
 license: "MIT"
-stars: 350
+stars: 633
 language: "Python"
 created: "2026-11-09"
 updated: "2026-11-09"
-forks: 28
-open_issues: 0
+forks: 91
+open_issues: 1
 commits_30d: 3
 commit_cadence: "monthly"
 commits_90d: 3
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-14"
 first_seen: "2026-11-14"
 sources: ["https://x.com/GitTrend0x/status/2121566394286248121"]
-fetched_at: "2026-11-14T15:08:48.969805+00:00"
+fetched_at: "2026-11-16T21:46:08Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # Cinematic Skill

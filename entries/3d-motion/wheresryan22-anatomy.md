@@ -5,7 +5,7 @@ genre: 3d-motion
 url: https://github.com/wheresryan22/anatomy
 author: wheresryan22
 license: MIT
-stars: 26237
+stars: 27680
 language: JavaScript
 created: 2026-10-08
 updated: "2026-10-18"
@@ -14,14 +14,14 @@ first_seen: 2026-11-03
 source_post: https://x.com/Fluyeporlaweb/status/2117544561861972226
 sources:
   - https://skills.wheresryan.sh/anatomy
-forks: 2201
-open_issues: 73
-commits_30d: 100
+forks: 2349
+open_issues: 77
+commits_30d: 1
 commits_90d: 100
-commit_cadence: "daily"
+commit_cadence: "monthly"
 size_kb: 12817
 archived: false
-fetched_at: "2026-11-09T21:31:55Z"
+fetched_at: "2026-11-16T21:35:29Z"
 last_release: "v1.1.0"
 last_release_at: "2026-10-12"
 ---

@@ -3,16 +3,16 @@ repo: "github/spec-kit"
 name: "Spec Kit"
 genre: "coding-agent"
 url: "https://github.com/github/spec-kit"
-last_release: "v1.3.3"
+last_release: "v1.4.1"
 flags: ["unverified"]
 risk_notes: "公式資料で手順と対応環境を確認した。実行時の挙動、実装品質や手戻りへの効果、各エージェントの利用料金は未検証。最新リリースの表示は確認したが、公開日時の年とタイムゾーンを含む完全な値は未確認。"
-stars: 149097
-forks: 13388
-open_issues: 227
-size_kb: 22347
+stars: 150094
+forks: 13485
+open_issues: 247
+size_kb: 23535
 language: "Python"
 created: "2025-08-21"
-updated: "2026-11-10"
+updated: "2026-11-16"
 archived: false
 license: "MIT"
 commits_30d: 100
@@ -22,7 +22,8 @@ type: "repo"
 added: "2026-11-10"
 first_seen: "2026-11-10"
 sources: ["https://x.com/AIExplorerTim/status/2117517393186689063"]
-fetched_at: "2026-11-10T09:20:46+00:00"
+fetched_at: "2026-11-16T21:44:30Z"
+last_release_at: "2026-11-16"
 ---
 
 # Spec Kit — AIコーディングエージェントで仕様から実装まで進めるツールキット

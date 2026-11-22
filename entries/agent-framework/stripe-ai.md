@@ -5,16 +5,16 @@ genre: "agent-framework"
 url: "https://github.com/stripe/ai"
 author: "stripe"
 license: "MIT"
-stars: 2052
+stars: 2068
 language: "TypeScript"
 created: "2024-11-11"
-updated: "2026-11-09"
-forks: 386
-open_issues: 43
-commits_30d: 56
+updated: "2026-11-16"
+forks: 385
+open_issues: 47
+commits_30d: 61
 commits_90d: 100
 commit_cadence: "daily"
-size_kb: 15295
+size_kb: 15465
 archived: false
 last_release: ""
 last_release_at: ""
@@ -23,7 +23,7 @@ first_seen: "2026-10-25"
 added: "2026-11-09"
 flags: ["unverified"]
 risk_notes: "投稿が『Stripe agent toolkit』と呼ぶ @stripe/agent-toolkit は、READMEで『今後の更新・セキュリティ修正なし』と明記され、ホスト型MCP（https://mcp.stripe.com）への移行が推奨されている。新規導入では非推奨パッケージを選ばないこと。ベンチマークはStripe自身が3回の最良値を採る社内評価で、独立再現ではない。投稿の請求書・決済リンクの即時発行、$3,000–6,000、48 leads / 12 pitches / 1 signed は動作確認していない。当方でプラグイン導入・MCP接続・決済試験はしていない。"
-fetched_at: "2026-11-09T21:34:56Z"
+fetched_at: "2026-11-16T21:41:08Z"
 type: "repo"
 ---
 

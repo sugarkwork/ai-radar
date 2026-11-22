@@ -5,23 +5,25 @@ url: "https://github.com/eugeniughelbur/obsidian-second-brain"
 flags: ["unverified"]
 risk_notes: "README に基づく文書確認。最新版リリース、実環境での導入・各 CLI の動作、検索精度、外部サービスの料金は未確認。"
 repo: "eugeniughelbur/obsidian-second-brain"
-stars: 5252
-forks: 643
-open_issues: 8
-size_kb: 26749
+stars: 5353
+forks: 655
+open_issues: 9
+size_kb: 32931
 language: "Python"
 created: "2026-03-24"
-updated: "2026-11-10"
+updated: "2026-11-16"
 archived: false
 license: "MIT"
-commits_30d: 100
+commits_30d: 98
 commits_90d: 100
 commit_cadence: "daily"
 type: "repo"
 added: "2026-11-10"
 first_seen: "2026-11-10"
 sources: ["https://x.com/Bober_smart/status/2117619229465641097"]
-fetched_at: "2026-11-10T10:02:48+00:00"
+fetched_at: "2026-11-16T21:44:18Z"
+last_release: "v0.20.0"
+last_release_at: "2026-10-25"
 ---
 
 # obsidian-second-brain — Obsidian のノートを AI エージェントの継続メモリに

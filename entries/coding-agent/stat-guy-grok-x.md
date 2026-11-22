@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-16"
 first_seen: "2026-11-16"
 sources: ["https://x.com/RoundtableSpace/status/2122166518041767999"]
-fetched_at: "2026-11-16T04:18:22.271486+00:00"
+fetched_at: "2026-11-16T21:47:36Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # grok-x

@@ -3,16 +3,16 @@ name: "Pixelorama"
 genre: "image-gen"
 url: "https://github.com/Orama-Interactive/Pixelorama"
 repo: "Orama-Interactive/Pixelorama"
-stars: 11071
-forks: 615
-open_issues: 87
-size_kb: 70022
+stars: 11121
+forks: 616
+open_issues: 88
+size_kb: 69862
 language: "GDScript"
 created: "2019-08-18"
-updated: "2026-11-10"
+updated: "2026-11-16"
 archived: false
 license: "MIT"
-commits_30d: 65
+commits_30d: 44
 commits_90d: 100
 commit_cadence: "daily"
 flags: ["unverified"]
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-11"
 first_seen: "2026-11-11"
 sources: ["https://x.com/RealMarvelX/status/2118330503040221345"]
-fetched_at: "2026-11-11T20:08:51.233457+00:00"
+fetched_at: "2026-11-16T21:52:14Z"
+last_release: "v1.2.4"
+last_release_at: "2026-11-03"
 ---
 
 # Pixelorama

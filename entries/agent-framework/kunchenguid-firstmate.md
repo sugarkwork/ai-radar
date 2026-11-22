@@ -4,16 +4,16 @@ genre: "agent-framework"
 url: "https://github.com/kunchenguid/firstmate"
 repo: "kunchenguid/firstmate"
 license: "MIT"
-stars: 8753
+stars: 8916
 language: "Shell"
 created: "2026-06-12"
-updated: "2026-11-10"
-forks: 2734
-open_issues: 2663
+updated: "2026-11-13"
+forks: 2763
+open_issues: 2767
 commits_30d: 100
 commit_cadence: "daily"
 commits_90d: 100
-size_kb: 57032
+size_kb: 59341
 archived: false
 flags: ["unverified"]
 risk_notes: "実際の効果や、記載された要件以外の依存関係・実行条件は未検証。"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-11"
 first_seen: "2026-11-11"
 sources: ["https://x.com/opensourcelab9/status/2116862853928095838"]
-fetched_at: "2026-11-10T14:03:09.098793+00:00"
+fetched_at: "2026-11-16T21:38:48Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # firstmate

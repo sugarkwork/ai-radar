@@ -7,12 +7,12 @@ url: "https://github.com/sleeplesshan/dual-brain"
 author: "sleeplesshan"
 license: "MIT"
 language: "Python"
-stars: 143
+stars: 155
 forks: 11
 open_issues: 0
 created: "2026-05-24"
 updated: "2026-11-06"
-commits_30d: 6
+commits_30d: 4
 commits_90d: 6
 commit_cadence: "weekly"
 size_kb: 130
@@ -22,7 +22,7 @@ sources: ["https://x.com/sleepless_han/status/2119291833322729923", "https://git
 added: "2026-11-09"
 first_seen: "2026-11-08"
 source_post: "https://x.com/sleepless_han/status/2119291833322729923"
-fetched_at: "2026-11-09T21:36:48Z"
+fetched_at: "2026-11-16T21:47:24Z"
 flags: ["unverified"]
 last_release: "v1.7.0"
 last_release_at: "2026-11-06"

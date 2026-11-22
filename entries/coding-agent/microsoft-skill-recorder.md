@@ -3,9 +3,9 @@ name: "Skill Recorder"
 genre: "coding-agent"
 url: "https://github.com/microsoft/skill-recorder"
 repo: "microsoft/skill-recorder"
-stars: 5816
-forks: 658
-open_issues: 48
+stars: 5835
+forks: 657
+open_issues: 47
 size_kb: 6130
 language: "TypeScript"
 created: "2026-07-29"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-15"
 first_seen: "2026-11-15"
 sources: ["https://x.com/ruyi3699/status/2118984802250498379"]
-fetched_at: "2026-11-15T16:08:21.184927+00:00"
+fetched_at: "2026-11-16T21:45:59Z"
+last_release: "v0.9.2"
+last_release_at: "2026-11-12"
 ---
 
 # Skill Recorder

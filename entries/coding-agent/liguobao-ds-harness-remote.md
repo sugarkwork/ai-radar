@@ -5,13 +5,13 @@ url: "https://github.com/liguobao/ds-harness-remote"
 repo: "liguobao/ds-harness-remote"
 flags: ["unverified"]
 risk_notes: "アカウント登録には招待コードが必要とREADMEに記載。招待コードの入手条件、利用料金は資料から確認できない。"
-stars: 2667
-forks: 198
-open_issues: 49
-size_kb: 45202
+stars: 3073
+forks: 232
+open_issues: 53
+size_kb: 61562
 language: "TypeScript"
 created: "2026-08-14"
-updated: "2026-11-12"
+updated: "2026-11-16"
 archived: false
 license: "MIT"
 commits_30d: 100
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-12"
 first_seen: "2026-11-12"
 sources: ["https://x.com/Ryrenz/status/2118509316688748877"]
-fetched_at: "2026-11-12T08:07:34.601984+00:00"
+fetched_at: "2026-11-16T21:45:26Z"
+last_release: "v0.6.5"
+last_release_at: "2026-11-14"
 ---
 
 # DS Harness Remote

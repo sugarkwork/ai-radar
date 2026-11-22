@@ -4,16 +4,16 @@ genre: "link-inspiration"
 url: "https://github.com/hesreallyhim/awesome-claude-code"
 repo: "hesreallyhim/awesome-claude-code"
 license: "unknown"
-stars: 57801
+stars: 58156
 language: "Python"
 created: "2025-04-19"
-updated: "2026-11-12"
-forks: 4938
-open_issues: 1258
+updated: "2026-11-16"
+forks: 4971
+open_issues: 1278
 commits_30d: 100
 commit_cadence: "daily"
 commits_90d: 100
-size_kb: 36843
+size_kb: 36902
 archived: false
 flags: ["unverified"]
 risk_notes: "ライセンスはGitHub API上でunknown。利用・再配布条件は確認できていない。 GitHub APIでライセンスを確認できていません。"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-12"
 first_seen: "2026-11-12"
 sources: ["https://x.com/Bober_smart/status/2118429681892364383"]
-fetched_at: "2026-11-12T03:47:17.093679+00:00"
+fetched_at: "2026-11-16T21:53:30Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # Awesome Claude Code

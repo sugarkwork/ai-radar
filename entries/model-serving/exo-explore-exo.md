@@ -4,11 +4,11 @@ genre: "model-serving"
 url: "https://github.com/exo-explore/exo"
 repo: "exo-explore/exo"
 license: "Apache-2.0"
-stars: 48446
+stars: 48467
 language: "Python"
 created: "2024-06-24"
 updated: "2026-11-06"
-forks: 3621
+forks: 3625
 open_issues: 472
 commits_30d: 81
 commit_cadence: "daily"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-16"
 first_seen: "2026-11-16"
 sources: ["https://x.com/naka_1717/status/2119034856676159987"]
-fetched_at: "2026-11-16T05:30:14.749291+00:00"
+fetched_at: "2026-11-16T21:56:07Z"
+last_release: "v1.0.71"
+last_release_at: "2026-04-23"
 ---
 
 # exo

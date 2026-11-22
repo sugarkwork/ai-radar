@@ -5,13 +5,13 @@ genre: "coding-agent"
 url: "https://github.com/VoltAgent/awesome-agent-skills"
 flags: ["unverified"]
 risk_notes: "最新リリースの有無・日時、掲載スキル個別の動作・効果・依存関係・利用条件は未確認。READMEの対応表は掲載元による案内で、互換性の独立検証は行っていない。"
-stars: 37027
-forks: 4103
-open_issues: 34
-size_kb: 2500
+stars: 37245
+forks: 4148
+open_issues: 16
+size_kb: 2216
 language: "unknown"
 created: "2025-10-28"
-updated: "2026-11-05"
+updated: "2026-11-15"
 archived: false
 license: "MIT"
 commits_30d: 100
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-10"
 first_seen: "2026-11-10"
 sources: ["https://x.com/N01ennn/status/2117681136306393357"]
-fetched_at: "2026-11-10T10:16:45+00:00"
+fetched_at: "2026-11-16T21:48:09Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # Awesome Agent Skills — コーディングエージェント向けスキルの索引

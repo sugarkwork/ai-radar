@@ -4,11 +4,11 @@ name: "Second Brain Starter"
 genre: "coding-agent"
 url: "https://github.com/coleam00/second-brain-starter"
 license: "unknown"
-stars: 885
+stars: 905
 language: "unknown"
 created: "2026-03-29"
 updated: "2026-06-09"
-forks: 188
+forks: 191
 open_issues: 1
 commits_30d: 0
 commit_cadence: "stale"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-10"
 first_seen: "2026-11-10"
 sources: ["https://x.com/Bober_smart/status/2117619229465641097"]
-fetched_at: "2026-11-10T10:03:12Z"
+fetched_at: "2026-11-16T21:43:27Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # Second Brain Starter — Claude Codeで個人向けAIアシスタントの構築計画を作る

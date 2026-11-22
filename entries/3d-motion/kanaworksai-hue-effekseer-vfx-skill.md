@@ -5,7 +5,7 @@ genre: 3d-motion
 url: https://github.com/kanaworksai-hue/effekseer-vfx-skill
 author: KanaWorks_AI（@dextune）
 license: MIT
-stars: 160
+stars: 172
 language: Python
 created: 2026-10-10
 updated: "2026-10-29"
@@ -15,12 +15,12 @@ source_post: https://x.com/dextune/status/2117798991438192931
 sources: []
 forks: 11
 open_issues: 0
-commits_30d: 7
+commits_30d: 4
 commits_90d: 11
 commit_cadence: "weekly"
 size_kb: 6458
 archived: false
-fetched_at: "2026-11-09T21:31:10Z"
+fetched_at: "2026-11-16T21:33:33Z"
 last_release: ""
 last_release_at: ""
 ---

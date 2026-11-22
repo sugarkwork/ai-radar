@@ -6,22 +6,24 @@ repo: "MiniMax-AI/MiniMax-H3-Image"
 license: "unknown"
 flags: ["unverified"]
 risk_notes: "READMEはライセンスを示すバッジとLICENSEへのリンクを掲載していますが、ライセンス名や利用条件は確認できません。 GitHub APIでライセンスを確認できていません。"
-stars: 85
-forks: 2
-open_issues: 0
-size_kb: 11715
+stars: 402
+forks: 21
+open_issues: 3
+size_kb: 87564
 language: "unknown"
 created: "2026-11-09"
-updated: "2026-11-10"
+updated: "2026-11-11"
 archived: false
-commits_30d: 1
-commits_90d: 1
-commit_cadence: "monthly"
+commits_30d: 5
+commits_90d: 5
+commit_cadence: "weekly"
 type: "repo"
 added: "2026-11-11"
 first_seen: "2026-11-11"
 sources: ["https://x.com/bei351009016/status/2120333007949267319"]
-fetched_at: "2026-11-11T04:09:44.778055+00:00"
+fetched_at: "2026-11-16T21:52:11Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # MiniMax-H3-Image

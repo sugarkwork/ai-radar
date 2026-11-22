@@ -5,8 +5,8 @@ url: "https://github.com/YeJe-cpu/SeeCut"
 flags: ["unverified"]
 risk_notes: "README says the workflow has only been tested on macOS. The author reports Claude Code tested and other skill-capable agents theoretically compatible; those other agents are not independently verified here. An Antigravity CLI account and sufficient usage quota are required for video review and self-iteration. GitHub APIでライセンスを確認できていません。"
 repo: "YeJe-cpu/SeeCut"
-stars: 453
-forks: 84
+stars: 464
+forks: 85
 open_issues: 0
 size_kb: 301
 language: "JavaScript"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-12"
 first_seen: "2026-11-12"
 sources: ["https://x.com/ganfanren_ai/status/2118557404522824008"]
-fetched_at: "2026-11-12T16:17:30.117896+00:00"
+fetched_at: "2026-11-16T21:48:27Z"
+last_release: "demo-v1"
+last_release_at: "2026-09-25"
 ---
 
 # SeeCut

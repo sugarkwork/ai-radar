@@ -4,13 +4,13 @@ genre: "coding-agent"
 url: "https://github.com/abouchedidxcode/open-source-hands"
 repo: "abouchedidxcode/open-source-hands"
 license: "MIT"
-stars: 205
+stars: 216
 language: "TypeScript"
 created: "2026-11-03"
 updated: "2026-11-03"
-forks: 30
+forks: 31
 open_issues: 1
-commits_30d: 2
+commits_30d: 1
 commit_cadence: "monthly"
 commits_90d: 2
 size_kb: 5838
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-11"
 first_seen: "2026-11-11"
 sources: ["https://x.com/tokufxug/status/2118212439187804520"]
-fetched_at: "2026-11-11T04:14:50.856077+00:00"
+fetched_at: "2026-11-16T21:42:15Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # open-source-hands

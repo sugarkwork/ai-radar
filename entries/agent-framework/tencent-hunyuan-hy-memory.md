@@ -5,16 +5,16 @@ genre: "agent-framework"
 url: "https://github.com/Tencent-Hunyuan/Hy-Memory"
 author: "Tencent Hunyuan"
 license: "Apache-2.0"
-stars: 2020
-forks: 146
+stars: 2068
+forks: 152
 language: "Python"
 created: "2026-10-15"
-updated: "2026-11-09"
-open_issues: 153
+updated: "2026-11-15"
+open_issues: 109
 commits_30d: 100
 commits_90d: 100
 commit_cadence: "daily"
-size_kb: 23605
+size_kb: 25574
 archived: false
 last_release: "v1.0.6"
 last_release_at: "2026-11-06"
@@ -24,7 +24,7 @@ type: "repo"
 added: "2026-11-09"
 first_seen: "2026-11-09"
 sources: ["https://x.com/opensourcelab9/status/2113601359564230784"]
-fetched_at: "2026-11-09T21:35:02Z"
+fetched_at: "2026-11-16T21:41:12Z"
 ---
 
 # Hy Memory — LLMエージェント向け記憶エンジンと MemHub（Codex/Cursor 間で記憶を共有）

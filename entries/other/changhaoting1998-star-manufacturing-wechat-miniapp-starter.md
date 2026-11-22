@@ -3,8 +3,8 @@ name: "Manufacturing WeChat Mini Program Starter"
 genre: "other"
 url: "https://github.com/changhaoting1998-star/manufacturing-wechat-miniapp-starter"
 repo: "changhaoting1998-star/manufacturing-wechat-miniapp-starter"
-stars: 703
-forks: 39
+stars: 897
+forks: 62
 open_issues: 0
 size_kb: 35
 language: "JavaScript"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-11"
 first_seen: "2026-11-11"
 sources: ["https://x.com/Ryrenz/status/2118344838739288282"]
-fetched_at: "2026-11-11T21:06:16.461930+00:00"
+fetched_at: "2026-11-16T21:59:09Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # Manufacturing WeChat Mini Program Starter

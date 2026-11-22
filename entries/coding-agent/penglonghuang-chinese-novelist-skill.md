@@ -4,16 +4,16 @@ genre: "coding-agent"
 url: "https://github.com/PenglongHuang/chinese-novelist-skill"
 repo: "PenglongHuang/chinese-novelist-skill"
 license: "MIT"
-stars: 4766
+stars: 4959
 language: "JavaScript"
 created: "2026-01-25"
-updated: "2026-11-01"
-forks: 646
+updated: "2026-11-15"
+forks: 682
 open_issues: 15
-commits_30d: 21
+commits_30d: 25
 commit_cadence: "daily"
-commits_90d: 30
-size_kb: 1088
+commits_90d: 34
+size_kb: 1113
 archived: false
 flags: ["unverified"]
 risk_notes: "一次資料で未確認: 技術背景・有効性・依存関係・実行条件。"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-11"
 first_seen: "2026-11-11"
 sources: ["https://x.com/0xGky/status/2120065171347640759"]
-fetched_at: "2026-11-11T06:07:45.327293+00:00"
+fetched_at: "2026-11-16T21:46:56Z"
+last_release: "v2.3.2"
+last_release_at: "2026-10-29"
 ---
 
 # chinese-novelist skill

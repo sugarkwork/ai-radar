@@ -4,16 +4,16 @@ name: "motion-tools-and-skills"
 genre: "3d-motion"
 url: "https://github.com/VisualxIntelligence/motion-tools-and-skills"
 license: "MIT"
-stars: 9
+stars: 11
 forks: 2
 open_issues: 0
-size_kb: 8319
+size_kb: 10435
 language: "JavaScript"
 created: "2026-10-06"
-updated: "2026-11-04"
+updated: "2026-11-15"
 archived: false
-commits_30d: 8
-commits_90d: 10
+commits_30d: 12
+commits_90d: 14
 commit_cadence: "weekly"
 last_release: ""
 last_release_at: ""
@@ -23,7 +23,7 @@ type: "repo"
 added: "2026-11-10"
 first_seen: "2026-11-10"
 sources: ["https://x.com/CryptooGG_/status/2119312343892976064"]
-fetched_at: "2026-11-10T12:08:45Z"
+fetched_at: "2026-11-16T21:35:26Z"
 ---
 
 # motion-tools-and-skills — Claude Code で使うモーション制作スキルと作例集

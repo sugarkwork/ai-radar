@@ -3,13 +3,13 @@ name: "sand3d"
 genre: "3d-motion"
 url: "https://github.com/Sandflow-ai/sand3d"
 repo: "Sandflow-ai/sand3d"
-stars: 1999
-forks: 221
+stars: 2080
+forks: 231
 open_issues: 14
-size_kb: 7699
+size_kb: 8093
 language: "HTML"
 created: "2026-11-03"
-updated: "2026-11-14"
+updated: "2026-11-16"
 archived: false
 license: "Apache-2.0"
 commits_30d: 25
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-15"
 first_seen: "2026-11-15"
 sources: ["https://x.com/Ryrenz/status/2118917617545072970"]
-fetched_at: "2026-11-15T01:26:07.961695+00:00"
+fetched_at: "2026-11-16T21:34:49Z"
+last_release: "v1.6.3"
+last_release_at: "2026-11-06"
 ---
 
 # sand3d

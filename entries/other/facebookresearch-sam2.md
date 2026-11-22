@@ -4,12 +4,12 @@ genre: "other"
 url: "https://github.com/facebookresearch/sam2"
 repo: "facebookresearch/sam2"
 license: "Apache-2.0"
-stars: 20155
+stars: 20166
 language: "Jupyter Notebook"
 created: "2024-07-29"
 updated: "2026-05-30"
-forks: 2592
-open_issues: 487
+forks: 2596
+open_issues: 488
 commits_30d: 0
 commit_cadence: "stale"
 commits_90d: 0
@@ -21,7 +21,9 @@ added: "2026-11-16"
 first_seen: "2026-11-16"
 risk_notes: ""
 sources: ["https://x.com/flxrnc/status/2119041226909372919"]
-fetched_at: "2026-11-16T01:43:44.291840+00:00"
+fetched_at: "2026-11-16T22:00:18Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # SAM 2

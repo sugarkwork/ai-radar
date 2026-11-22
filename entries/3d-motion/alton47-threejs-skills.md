@@ -4,7 +4,7 @@ name: "Three.js AI Skills"
 genre: "3d-motion"
 url: "https://github.com/alton47/threejs-skills"
 license: "MIT"
-stars: 18
+stars: 21
 forks: 6
 open_issues: 1
 size_kb: 96
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-10"
 first_seen: "2026-11-10"
 sources: ["https://x.com/CryptooGG_/status/2119312343892976064"]
-fetched_at: "2026-11-10T12:11:00+00:00"
+fetched_at: "2026-11-16T21:32:00Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # Three.js AI Skills — AIエージェント向けのThree.js実装ガイド

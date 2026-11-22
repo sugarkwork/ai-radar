@@ -4,11 +4,11 @@ name: "Claude Code Frontend Design Toolkit"
 genre: "coding-agent"
 url: "https://github.com/wilwaldon/Claude-Code-Frontend-Design-Toolkit"
 license: "unknown"
-stars: 1292
+stars: 1312
 language: "unknown"
 created: "2026-02-25"
 updated: "2026-04-11"
-forks: 138
+forks: 144
 open_issues: 3
 commits_30d: 0
 commit_cadence: "stale"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-10"
 first_seen: "2026-11-10"
 sources: ["https://x.com/thegreatest_sv/status/2117998992126591399"]
-fetched_at: "2026-11-10T11:22:53+00:00"
+fetched_at: "2026-11-16T21:48:15Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # Claude Code Frontend Design Toolkit — フロントエンド設計向けのスキル・MCPガイド

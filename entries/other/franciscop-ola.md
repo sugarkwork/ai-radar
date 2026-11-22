@@ -4,11 +4,11 @@ genre: "other"
 url: "https://github.com/franciscop/ola"
 repo: "franciscop/ola"
 license: "MIT"
-stars: 1833
+stars: 1856
 language: "JavaScript"
 created: "2019-05-10"
 updated: "2026-10-24"
-forks: 36
+forks: 40
 open_issues: 0
 commits_30d: 3
 commit_cadence: "monthly"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-15"
 first_seen: "2026-11-15"
 sources: ["https://x.com/Feljoy_ix/status/2121787138455040333"]
-fetched_at: "2026-11-15T03:15:39.900923+00:00"
+fetched_at: "2026-11-16T22:00:33Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # Ola

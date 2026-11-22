@@ -4,12 +4,12 @@ name: "GSAP AI Skills"
 genre: "coding-agent"
 url: "https://github.com/greensock/gsap-skills"
 license: "MIT"
-stars: 18218
+stars: 18549
 language: "unknown"
 created: "2026-03-04"
 updated: "2026-07-29"
-forks: 1148
-open_issues: 15
+forks: 1176
+open_issues: 16
 commits_30d: 0
 commit_cadence: "stale"
 commits_90d: 0
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-11"
 first_seen: "2026-11-11"
 sources: ["https://x.com/thegreatest_sv/status/2115876572464812071"]
-fetched_at: "2026-11-10T12:45:27Z"
+fetched_at: "2026-11-16T21:44:38Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # GSAP AI Skills｜AIエージェント向けの公式アニメーション実装ガイド

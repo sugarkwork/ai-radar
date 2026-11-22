@@ -3,17 +3,17 @@ name: "Diorama"
 genre: "coding-agent"
 url: "https://github.com/sloemo01/diorama"
 repo: "sloemo01/diorama"
-stars: 554
-forks: 44
+stars: 566
+forks: 48
 open_issues: 2
-size_kb: 24080
+size_kb: 24146
 language: "JavaScript"
 created: "2026-10-24"
 updated: "2026-11-16"
 archived: false
 license: "MIT"
-commits_30d: 26
-commits_90d: 26
+commits_30d: 38
+commits_90d: 38
 commit_cadence: "daily"
 flags: ["unverified"]
 risk_notes: "一次資料で未確認: 有効性・実行条件。"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-16"
 first_seen: "2026-11-16"
 sources: ["https://x.com/dextune/status/2119037150305862030"]
-fetched_at: "2026-11-16T05:34:41.383626+00:00"
+fetched_at: "2026-11-16T21:47:26Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # Diorama

@@ -4,16 +4,16 @@ name: "TokenSpeed"
 genre: "model-serving"
 url: "https://github.com/lightseekorg/tokenspeed"
 license: "MIT"
-stars: 2907
+stars: 2930
 language: "Python"
 created: "2026-05-06"
-updated: "2026-11-10"
-forks: 404
-open_issues: 103
+updated: "2026-11-16"
+forks: 416
+open_issues: 93
 commits_30d: 100
 commit_cadence: "daily"
 commits_90d: 100
-size_kb: 58706
+size_kb: 63101
 archived: false
 flags: ["unverified"]
 risk_notes: "コミット数は集計上限100。性能は開発元測定で、起動と追試は未確認。"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-10"
 first_seen: "2026-11-10"
 sources: ["https://x.com/bernvadell/status/2110318450082017517"]
-fetched_at: "2026-11-10T04:08:37Z"
+fetched_at: "2026-11-16T21:56:45Z"
+last_release: "v0.1.1"
+last_release_at: "2026-10-06"
 ---
 
 # TokenSpeed

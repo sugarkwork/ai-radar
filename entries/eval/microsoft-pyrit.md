@@ -4,16 +4,16 @@ genre: "eval"
 url: "https://github.com/microsoft/PyRIT"
 repo: "microsoft/PyRIT"
 license: "MIT"
-stars: 4801
+stars: 4888
 language: "Python"
 created: "2023-12-12"
-updated: "2026-11-12"
-forks: 1050
-open_issues: 285
+updated: "2026-11-16"
+forks: 1072
+open_issues: 297
 commits_30d: 100
 commit_cadence: "daily"
 commits_90d: 100
-size_kb: 506810
+size_kb: 528187
 archived: false
 flags: ["unverified"]
 risk_notes: "一次資料で未確認: 技術背景・有効性・依存関係・実行条件。"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-13"
 first_seen: "2026-11-13"
 sources: ["https://x.com/mingzi206/status/2118628554883883348"]
-fetched_at: "2026-11-13T00:13:04.411900+00:00"
+fetched_at: "2026-11-16T21:49:31Z"
+last_release: "v1.2.0"
+last_release_at: "2026-11-13"
 ---
 
 # PyRIT (Python Risk Identification Tool for generative AI)

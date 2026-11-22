@@ -4,7 +4,7 @@ genre: "other"
 url: "https://github.com/goodseafly/how-to-make-work-pay"
 repo: "goodseafly/how-to-make-work-pay"
 license: "unknown"
-stars: 489
+stars: 492
 forks: 43
 open_issues: 1
 size_kb: 53935
@@ -12,7 +12,7 @@ language: "HTML"
 created: "2026-10-06"
 updated: "2026-10-26"
 archived: false
-commits_30d: 12
+commits_30d: 7
 commits_90d: 32
 commit_cadence: "weekly"
 flags: ["unverified"]
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-14"
 first_seen: "2026-11-14"
 sources: ["https://x.com/bkdgiffug/status/2118700427801919767"]
-fetched_at: "2026-11-13T19:08:05.018658+00:00"
+fetched_at: "2026-11-16T22:00:48Z"
+last_release: "book-latest"
+last_release_at: "2026-10-06"
 ---
 
 # 高性价比职场指南

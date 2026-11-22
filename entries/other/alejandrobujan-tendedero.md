@@ -4,16 +4,16 @@ genre: "other"
 url: "https://github.com/alejandrobujan/tendedero"
 repo: "alejandrobujan/tendedero"
 license: "unknown"
-stars: 3198
+stars: 3270
 language: "Swift"
 created: "2026-10-07"
-updated: "2026-11-12"
-forks: 290
-open_issues: 32
-commits_30d: 62
+updated: "2026-11-15"
+forks: 295
+open_issues: 34
+commits_30d: 67
 commit_cadence: "daily"
 commits_90d: 100
-size_kb: 117755
+size_kb: 117791
 archived: false
 flags: ["unverified"]
 risk_notes: "GitHub APIでライセンスを確認できていません。"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-14"
 first_seen: "2026-11-14"
 sources: ["https://x.com/awe0_io/status/2118740875417371015"]
-fetched_at: "2026-11-13T23:19:39.918997+00:00"
+fetched_at: "2026-11-16T21:58:28Z"
+last_release: "v2.0.0"
+last_release_at: "2026-11-10"
 ---
 
 # Tendedero

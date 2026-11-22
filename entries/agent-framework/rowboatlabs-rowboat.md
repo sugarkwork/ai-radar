@@ -5,13 +5,13 @@ url: "https://github.com/rowboatlabs/rowboat"
 repo: "rowboatlabs/rowboat"
 flags: ["unverified"]
 risk_notes: "READMEは「Expect breaking changes while we dogfood」としており、wire contractの互換性は今後変更される可能性がある。"
-stars: 18231
-forks: 1824
+stars: 18277
+forks: 1829
 open_issues: 240
-size_kb: 160283
+size_kb: 159519
 language: "TypeScript"
 created: "2025-01-13"
-updated: "2026-11-13"
+updated: "2026-11-16"
 archived: false
 license: "Apache-2.0"
 commits_30d: 100
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-14"
 first_seen: "2026-11-14"
 sources: ["https://x.com/ruyi3699/status/2118704706897736102"]
-fetched_at: "2026-11-13T19:10:10.908899+00:00"
+fetched_at: "2026-11-16T21:40:42Z"
+last_release: "v1.0.9"
+last_release_at: "2026-11-11"
 ---
 
 # Rowboat

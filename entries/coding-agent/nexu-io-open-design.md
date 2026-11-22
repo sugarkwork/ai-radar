@@ -4,16 +4,16 @@ genre: "coding-agent"
 url: "https://github.com/nexu-io/open-design"
 repo: "nexu-io/open-design"
 license: "Apache-2.0"
-stars: 106979
+stars: 107933
 language: "TypeScript"
 created: "2026-04-28"
-updated: "2026-11-10"
-forks: 12169
-open_issues: 1387
+updated: "2026-11-16"
+forks: 12261
+open_issues: 1399
 commits_30d: 100
 commit_cadence: "daily"
 commits_90d: 100
-size_kb: 3656611
+size_kb: 3660107
 archived: false
 flags: ["unverified"]
 risk_notes: "READMEだけでは実行時の依存関係、必要環境、料金の適用条件は確認できない。README記載の対応状況や製品機能はリポジトリ記載に基づく。"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-11"
 first_seen: "2026-11-11"
 sources: ["https://x.com/thegreatest_sv/status/2116967509735747833"]
-fetched_at: "2026-11-10T14:10:20.961311+00:00"
+fetched_at: "2026-11-16T21:46:28Z"
+last_release: "open-design-v0.27.1"
+last_release_at: "2026-11-10"
 ---
 
 # OpenDesign

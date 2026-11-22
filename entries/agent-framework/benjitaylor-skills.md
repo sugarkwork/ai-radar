@@ -13,15 +13,15 @@ source_post: "https://x.com/tetumemo/status/2117618086392316274"
 sources:
   - https://x.com/shannholmberg/status/2116957574008590445
   - https://benji.org/stageshow
-stars: 2884
-forks: 196
+stars: 3442
+forks: 235
 open_issues: 0
 commits_30d: 3
 commits_90d: 3
 commit_cadence: "monthly"
 size_kb: 1172
 archived: false
-fetched_at: "2026-11-09T21:32:30Z"
+fetched_at: "2026-11-16T21:36:39Z"
 last_release: "stageshow-v1.1.1"
 last_release_at: "2026-11-05"
 ---

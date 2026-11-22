@@ -5,25 +5,25 @@ genre: "3d-motion"
 url: "https://github.com/hyz317/HairDeck"
 repo: "hyz317/HairDeck"
 license: "Apache-2.0"
-stars: 1034
+stars: 1147
 language: "Python"
 created: "2026-10-29"
-updated: "2026-11-05"
+updated: "2026-11-13"
 added: "2026-11-06"
 first_seen: "2026-10-31"
 sources: ["https://x.com/Machinedelusion/status/2116624498933833758", "https://hyzcluster.github.io/HairDeck", "https://huggingface.co/hyz317/HairDeck"]
 flags: []
 risk_notes: "入力エンコーダにゲート付きモデルを使う：facebook/sam3 と facebook/dinov3-vitl16-pretrain-lvd1689m は HF 上で規約同意が必要で、`hf auth login` していないと停止する。Blender 4.2 LTS と VRM Add-on をダウンロードスクリプトが自動取得し、PATH の `ffmpeg` も必要。生成されるメッシュ・テクスチャの権利や、入力画像（既存キャラクター）の扱いはツール側では担保されないので利用者の責任。品質評価は論文側のテストセット評価で、手持ちの絵柄での再現は別途確認が要る。"
-forks: 77
+forks: 89
 open_issues: 2
-commits_30d: 7
+commits_30d: 11
 commit_cadence: "weekly"
-size_kb: 749
+size_kb: 831
 archived: false
-fetched_at: "2026-11-09T21:31:01Z"
+fetched_at: "2026-11-16T21:33:19Z"
 last_release: ""
 last_release_at: ""
-commits_90d: 7
+commits_90d: 11
 ---
 
 # HairDeck — キャラクター画像1枚から、ゲームでそのまま使えるヘアカードと揺れボーンを生成する

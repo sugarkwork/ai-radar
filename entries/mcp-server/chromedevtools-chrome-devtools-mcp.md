@@ -5,13 +5,13 @@ url: "https://github.com/ChromeDevTools/chrome-devtools-mcp"
 repo: "ChromeDevTools/chrome-devtools-mcp"
 flags: ["unverified"]
 risk_notes: "使用統計は既定で有効。MCPクライアントはブラウザー内の情報を閲覧・変更できる。公式サポート対象はGoogle ChromeとChrome for Testing。"
-stars: 55061
-forks: 4579
-open_issues: 129
-size_kb: 21871
+stars: 57632
+forks: 4849
+open_issues: 127
+size_kb: 13522
 language: "TypeScript"
 created: "2025-09-11"
-updated: "2026-11-10"
+updated: "2026-11-16"
 archived: false
 license: "Apache-2.0"
 commits_30d: 100
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-11"
 first_seen: "2026-11-11"
 sources: ["https://x.com/nuannuan_share/status/2119640438135242817"]
-fetched_at: "2026-11-10T15:14:33.512147+00:00"
+fetched_at: "2026-11-16T21:53:54Z"
+last_release: "chrome-devtools-mcp-v1.13.0"
+last_release_at: "2026-11-11"
 ---
 
 # Chrome DevTools for agents

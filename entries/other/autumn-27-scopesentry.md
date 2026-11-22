@@ -4,13 +4,13 @@ name: "ScopeSentry"
 genre: "other"
 url: "https://github.com/Autumn-27/ScopeSentry"
 license: "unknown"
-stars: 2334
+stars: 2441
 language: "Go"
 created: "2024-02-27"
 updated: "2026-10-11"
-forks: 554
-open_issues: 90
-commits_30d: 3
+forks: 598
+open_issues: 91
+commits_30d: 0
 commit_cadence: "monthly"
 commits_90d: 10
 size_kb: 95415
@@ -22,7 +22,7 @@ last_release: "v1.9.4"
 last_release_at: "2026-08-23"
 added: "2026-11-09"
 first_seen: "2026-10-22"
-fetched_at: "2026-11-09T21:40:43Z"
+fetched_at: "2026-11-16T21:58:49Z"
 source_post: "https://x.com/wquguru/status/2113181135522214168"
 sources: ["https://github.com/Autumn-27/ScopeSentry", "https://github.com/Autumn-27/ScopeSentry/blob/main/README.md", "https://github.com/Autumn-27/ScopeSentry/blob/main/single-host-deployment.yml", "https://github.com/Autumn-27/ScopeSentry/blob/main/SKILL.md", "https://github.com/Autumn-27/ScopeSentry-Scan", "https://github.com/Hinln/ARTEX", "https://www.scope-sentry.top/en/", "https://x.com/wquguru/status/2113181135522214168"]
 type: "repo"

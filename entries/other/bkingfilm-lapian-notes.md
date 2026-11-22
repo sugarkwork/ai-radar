@@ -5,7 +5,7 @@ url: "https://github.com/bkingfilm/lapian-notes"
 flags: ["unverified"]
 risk_notes: "AI分析の品質は利用するAIに依存し、READMEは無料AIが大量の画像を処理できず分析を省略する場合があると説明している。"
 repo: "bkingfilm/lapian-notes"
-stars: 797
+stars: 798
 forks: 74
 open_issues: 1
 size_kb: 852
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-16"
 first_seen: "2026-11-16"
 sources: ["https://x.com/fhwofjow51260/status/2119043539309113474"]
-fetched_at: "2026-11-16T08:32:00.400931+00:00"
+fetched_at: "2026-11-16T21:58:58Z"
+last_release: "v0.5.3"
+last_release_at: "2026-10-26"
 ---
 
 # 拉片笔记（Lapian Notes）

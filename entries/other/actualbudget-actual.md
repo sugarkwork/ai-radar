@@ -3,13 +3,13 @@ repo: "actualbudget/actual"
 name: "Actual Budget"
 genre: "other"
 url: "https://github.com/actualbudget/actual"
-stars: 30135
-forks: 3272
-open_issues: 205
-size_kb: 675919
+stars: 30311
+forks: 3325
+open_issues: 223
+size_kb: 677617
 language: "TypeScript"
 created: "2022-04-29"
-updated: "2026-11-10"
+updated: "2026-11-16"
 archived: false
 license: "MIT"
 commits_30d: 100
@@ -22,7 +22,8 @@ type: "repo"
 added: "2026-11-10"
 first_seen: "2026-11-10"
 sources: ["https://x.com/thegreatest_sv/status/2117960732184633699"]
-fetched_at: "2026-11-10T11:12:04Z"
+fetched_at: "2026-11-16T21:58:11Z"
+last_release_at: "2026-11-02"
 ---
 
 # Actual Budgetで定期支出を見つけ、取引データをAIから参照する

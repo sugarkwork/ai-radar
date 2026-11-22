@@ -4,7 +4,7 @@ name: "quant-trading"
 genre: finance-quant
 url: "https://github.com/je-suis-tm/quant-trading"
 license: "Apache-2.0"
-stars: 11224
+stars: 11292
 language: "Python"
 created: "2018-04-03"
 updated: "2026-06-20"
@@ -13,14 +13,14 @@ first_seen: "2026-11-03"
 sources: []
 flags: []
 risk_notes: ""
-forks: 1959
+forks: 1970
 open_issues: 1
 commits_30d: 0
 commit_cadence: "stale"
 size_kb: 13020
 archived: false
 commits_90d: 0
-fetched_at: "2026-11-09T21:37:34Z"
+fetched_at: "2026-11-16T21:50:26Z"
 last_release: ""
 last_release_at: ""
 ---

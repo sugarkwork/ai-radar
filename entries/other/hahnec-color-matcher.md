@@ -3,7 +3,7 @@ repo: "hahnec/color-matcher"
 name: "color-matcher"
 genre: "other"
 url: "https://github.com/hahnec/color-matcher"
-stars: 706
+stars: 710
 forks: 50
 open_issues: 7
 size_kb: 124542
@@ -16,14 +16,14 @@ commits_30d: 0
 commits_90d: 0
 commit_cadence: "stale"
 last_release: "v0.5.0"
-last_release_at: ""
+last_release_at: "2021-08-25"
 flags: ["unverified"]
 risk_notes: "著者による手法比較の独立再現、映像の時間方向の一貫性、現行環境での動作は未検証。GitHub は v0.5.0 を Latest と表示し、PyPI は 0.6.0 を掲載している。GitHub リリースの年を含む公開日は未確認。"
 type: "repo"
 added: "2026-11-10"
 first_seen: "2026-11-10"
 sources: ["https://x.com/RealMarvelX/status/2117612832019689696"]
-fetched_at: "2026-11-10T09:50:44+00:00"
+fetched_at: "2026-11-16T22:01:05Z"
 ---
 
 # color-matcher — 参照画像を使った色合わせ

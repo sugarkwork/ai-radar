@@ -16,15 +16,15 @@ license: "NOASSERTION"
 language: "Python"
 created: "2026-10-15"
 updated: "2026-10-17"
-stars: 6
+stars: 7
 forks: 0
 open_issues: 0
-commits_30d: 13
+commits_30d: 0
 commits_90d: 13
-commit_cadence: "weekly"
+commit_cadence: "monthly"
 size_kb: 4778
 archived: false
-fetched_at: "2026-11-09T21:31:16Z"
+fetched_at: "2026-11-16T21:33:40Z"
 license_detail: "原チェックのLICENSE/README解釈: GPL-3.0-or-later (addon); Lida Attribution License 1.1 (shader)。APIのSPDX判定とは別。利用前に現行本文を確認。"
 last_release: "v0.2.1"
 last_release_at: "2026-10-17"

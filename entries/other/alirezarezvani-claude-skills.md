@@ -3,27 +3,27 @@ repo: "alirezarezvani/claude-skills"
 name: "Claude Code Skills & Plugins"
 genre: "other"
 url: "https://github.com/alirezarezvani/claude-skills"
-stars: 29573
-forks: 4095
-open_issues: 0
-size_kb: 24392
+stars: 29899
+forks: 4150
+open_issues: 1
+size_kb: 24879
 language: "Python"
 created: "2025-10-19"
-updated: "2026-11-10"
+updated: "2026-11-16"
 archived: false
 license: "MIT"
 commits_30d: 100
 commits_90d: 100
 commit_cadence: "daily"
-last_release: "v2.14.10"
-last_release_at: "2026-11-10"
+last_release: "v2.14.12"
+last_release_at: "2026-11-16"
 flags: ["unverified"]
 risk_notes: "メンテナーの検証はClaude Codeでのスキル読み込みを対象とする。生成物の品質や作業時間への効果、CodexやCursorでの挙動、個別スクリプトの実行条件は独立に検証していない。"
 type: "repo"
 added: "2026-11-10"
 first_seen: "2026-11-10"
 sources: ["https://x.com/opensourcelab9/status/2114967848775041508"]
-fetched_at: "2026-11-10T11:47:50+00:00"
+fetched_at: "2026-11-16T21:58:31Z"
 ---
 
 # Claude Code Skills & Plugins — コーディングエージェント向けの作業手順集

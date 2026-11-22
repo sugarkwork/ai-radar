@@ -5,23 +5,25 @@ url: "https://github.com/sahenjp/RustXNG"
 repo: "sahenjp/RustXNG"
 license: "AGPL-3.0"
 language: "Rust"
-updated: "2026-11-15"
+updated: "2026-11-16"
 commits_30d: 100
 commit_cadence: "daily"
 commits_90d: 100
 flags: ["unverified"]
 risk_notes: "標準・Fullプロファイルは有効な外部検索プロバイダーへクエリを送信する。Fullには自動アクセス条件が制限的または未確認のプロバイダーが含まれる。利用するプロバイダーの条件確認が必要。"
-stars: 975
-forks: 81
-open_issues: 8
-size_kb: 6392
+stars: 978
+forks: 82
+open_issues: 16
+size_kb: 6437
 created: "2026-10-18"
 archived: false
 type: "repo"
 added: "2026-11-15"
 first_seen: "2026-11-15"
 sources: ["https://x.com/Ryrenz/status/2118978267860382008"]
-fetched_at: "2026-11-15T13:10:44.758510+00:00"
+fetched_at: "2026-11-16T21:40:52Z"
+last_release: "v0.31.2"
+last_release_at: "2026-11-11"
 ---
 
 # RustXNG

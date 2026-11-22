@@ -5,7 +5,7 @@ genre: agent-framework
 url: https://github.com/deepseek-ai/dsh-superagent-prototype
 author: DeepSeek
 license: MIT
-stars: 21726
+stars: 23482
 language: TypeScript
 created: 2026-10-31
 updated: "2026-11-03"
@@ -14,14 +14,14 @@ first_seen: 2026-11-03
 source_post: https://x.com/Fluyeporlaweb/status/2117544561861972226
 sources:
   - https://github.com/deepseek-ai/dsh-superagent-prototype/blob/main/docs/000-philosophy.md
-forks: 2608
+forks: 2884
 open_issues: 0
 commits_30d: 1
 commits_90d: 1
 commit_cadence: "monthly"
 size_kb: 37
 archived: false
-fetched_at: "2026-11-09T21:32:48Z"
+fetched_at: "2026-11-16T21:37:26Z"
 last_release: ""
 last_release_at: ""
 ---

@@ -4,11 +4,11 @@ name: "X Virality Score"
 genre: "agent-framework"
 url: "https://github.com/monkeyteamvip/x-virality-score"
 license: "MIT"
-stars: 35
+stars: 36
 language: "HTML"
 created: "2026-09-16"
 updated: "2026-10-27"
-forks: 19
+forks: 20
 open_issues: 0
 commits_30d: 3
 commit_cadence: "monthly"
@@ -22,7 +22,7 @@ type: "repo"
 added: "2026-11-09"
 first_seen: "2026-11-09"
 sources: ["https://x.com/thegreatest_sv/status/2114419470693507261"]
-fetched_at: "2026-11-09T21:33:55Z"
+fetched_at: "2026-11-16T21:39:24Z"
 last_release: "v8.0.0"
 last_release_at: "2026-10-27"
 ---

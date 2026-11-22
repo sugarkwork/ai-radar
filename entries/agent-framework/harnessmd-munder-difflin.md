@@ -5,23 +5,25 @@ url: "https://github.com/HarnessMD/munder-difflin"
 repo: "HarnessMD/munder-difflin"
 flags: ["unverified"]
 risk_notes: "README記載のPro無料提供期間は2026年10月24日まで。確認時点である2026年11月16日の現行料金・利用条件はREADMEから確認できない。"
-stars: 9574
-forks: 1348
-open_issues: 290
-size_kb: 411270
+stars: 9586
+forks: 1353
+open_issues: 291
+size_kb: 421253
 language: "JavaScript"
 created: "2026-05-31"
-updated: "2026-11-15"
+updated: "2026-11-16"
 archived: false
 license: "MIT"
-commits_30d: 57
+commits_30d: 58
 commits_90d: 100
 commit_cadence: "daily"
 type: "repo"
 added: "2026-11-16"
 first_seen: "2026-11-16"
 sources: ["https://x.com/ruyi3699/status/2119030855955894416"]
-fetched_at: "2026-11-16T04:27:30.888680+00:00"
+fetched_at: "2026-11-16T21:38:17Z"
+last_release: "v0.5.5"
+last_release_at: "2026-10-01"
 ---
 
 # Munder Difflin

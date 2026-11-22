@@ -3,9 +3,9 @@ name: "JIZURA 字面"
 genre: "other"
 url: "https://github.com/852wa/JIZURA"
 repo: "852wa/JIZURA"
-stars: 2232
-forks: 295
-open_issues: 3
+stars: 2291
+forks: 304
+open_issues: 4
 size_kb: 64467
 language: "HTML"
 created: "2026-09-23"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-11"
 first_seen: "2026-11-11"
 sources: ["https://x.com/8co28/status/2120104769218056643"]
-fetched_at: "2026-11-11T04:11:04.652121+00:00"
+fetched_at: "2026-11-16T21:57:54Z"
+last_release: "v0.13.0"
+last_release_at: "2026-11-10"
 ---
 
 # JIZURA 字面

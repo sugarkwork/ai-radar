@@ -4,11 +4,11 @@ genre: "coding-agent"
 url: "https://github.com/aaitor/skill-video-studio"
 repo: "aaitor/skill-video-studio"
 license: "MIT"
-stars: 390
+stars: 397
 language: "HTML"
 created: "2026-08-26"
 updated: "2026-11-04"
-forks: 13
+forks: 14
 open_issues: 3
 commits_30d: 8
 commit_cadence: "weekly"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-11"
 first_seen: "2026-11-11"
 sources: ["https://x.com/Ryrenz/status/2117952254091145585"]
-fetched_at: "2026-11-10T15:19:20.013402+00:00"
+fetched_at: "2026-11-16T21:42:12Z"
+last_release: "v1.0.1"
+last_release_at: "2026-11-02"
 ---
 
 # Video Studio Skill

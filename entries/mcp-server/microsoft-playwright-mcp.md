@@ -6,16 +6,16 @@ type: "repo"
 url: "https://github.com/microsoft/playwright-mcp"
 author: "Microsoft"
 license: "Apache-2.0"
-stars: 39387
+stars: 39745
 language: "TypeScript"
 created: "2025-03-21"
-updated: "2026-11-09"
-forks: 3410
-open_issues: 2
-commits_30d: 18
-commits_90d: 44
-commit_cadence: "weekly"
-size_kb: 2003
+updated: "2026-11-16"
+forks: 3448
+open_issues: 4
+commits_30d: 30
+commits_90d: 56
+commit_cadence: "daily"
+size_kb: 2050
 archived: false
 last_release: "v0.0.85"
 last_release_at: "2026-11-09"
@@ -24,7 +24,7 @@ risk_notes: "発見源は宣伝スレッド中の1行コマンドで、性能面
 added: "2026-11-09"
 first_seen: "2026-11-09"
 sources: ["https://x.com/thegreatest_sv/status/2114326860326723736"]
-fetched_at: "2026-11-09T21:39:03Z"
+fetched_at: "2026-11-16T21:54:47Z"
 ---
 
 # Playwright MCP — アクセシビリティスナップショットでブラウザを操作する Microsoft 公式 MCP サーバ

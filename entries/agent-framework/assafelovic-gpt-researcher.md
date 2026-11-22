@@ -3,13 +3,13 @@ name: "GPT Researcher"
 genre: "agent-framework"
 url: "https://github.com/assafelovic/gpt-researcher"
 repo: "assafelovic/gpt-researcher"
-stars: 30630
-forks: 4211
-open_issues: 19
-size_kb: 54578
+stars: 30738
+forks: 4231
+open_issues: 53
+size_kb: 54420
 language: "Python"
 created: "2023-05-12"
-updated: "2026-11-09"
+updated: "2026-11-12"
 archived: false
 license: "Apache-2.0"
 commits_30d: 100
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-11"
 first_seen: "2026-11-11"
 sources: ["https://x.com/thegreatest_sv/status/2118325722850697573"]
-fetched_at: "2026-11-11T19:06:16.549783+00:00"
+fetched_at: "2026-11-16T21:36:29Z"
+last_release: "v3.8.0"
+last_release_at: "2026-11-09"
 ---
 
 # GPT Researcher

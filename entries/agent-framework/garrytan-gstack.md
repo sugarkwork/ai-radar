@@ -5,24 +5,24 @@ genre: "agent-framework"
 url: "https://github.com/garrytan/gstack"
 repo: "garrytan/gstack"
 license: "MIT"
-stars: 140943
+stars: 141803
 language: "TypeScript"
 created: "2026-03-11"
-updated: "2026-11-09"
+updated: "2026-11-16"
 added: "2026-11-07"
 first_seen: "2026-11-07"
 sources: ["https://x.com/awe0_io/status/2118663188875247930"]
 flags: []
 risk_notes: "① repo description と発見元の「23 tools」は現状と不一致。repo description の「23 tools」は現状と不一致で、ツリー上は <dir>/SKILL.md が 62 個（test fixture 等の入れ子を含め 77）。README の表も 23 行では収まらない。1.97 で /plan-eng-review と /investigate は廃止され、ディレクトリだけが残る（setup は入れない）。② バス係数 1: contributors は garrytan 1,013 / 次点 17 で、直近30日の commit は全件 garrytan。③ full tier は Claude Code のみ認定。Codex CLI / Cursor / Gemini / OpenClaw / Hermes 等は experimental で、/careful などの安全フックは「advisory, not blocked」＝強制されない。④ /codex と /claude-code のセカンドオピニオンはもう一方の有料 CLI へのログインが前提。⑤ バージョン刻みが極端（v1.92.55.0 → v1.96.0.0 の間に 123 版、リリースは約3日毎）で、スキル名・CLI フラグが短期間で動く。⑥ クローンは 259,677KB（約254MB）・4,959 ファイル（うち test 2,866）で重く、--depth 1 前提。⑦ macOS 推奨の Aside ブラウザは商用製品（無くても同梱 Chromium で動く）。⑧ Windows は Smart App Control が未署名バイナリを拒否（issue #2595）。⑨ 8か月で14万★は個人リポジトリとしては異常値で、独立利用の実績を示す指標ではない。"
-forks: 20797
-open_issues: 89
+forks: 20942
+open_issues: 123
 commits_30d: 100
 commit_cadence: "daily"
-size_kb: 264884
+size_kb: 272672
 archived: false
-fetched_at: "2026-11-09T21:33:02Z"
-last_release: "v1.98.0.0"
-last_release_at: "2026-11-08"
+fetched_at: "2026-11-16T21:38:04Z"
+last_release: "v1.99.5.0"
+last_release_at: "2026-11-16"
 commits_90d: 100
 ---
 

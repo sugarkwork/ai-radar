@@ -15,16 +15,16 @@ repo: "toyxyz/toyxyz_RGBMocap"
 license: "NOASSERTION"
 language: "Python"
 created: "2026-10-26"
-updated: "2026-11-09"
-stars: 1159
-forks: 153
-open_issues: 15
-commits_30d: 49
-commits_90d: 49
+updated: "2026-11-16"
+stars: 1574
+forks: 204
+open_issues: 16
+commits_30d: 62
+commits_90d: 62
 commit_cadence: "daily"
-size_kb: 42908
+size_kb: 56133
 archived: false
-fetched_at: "2026-11-09T21:31:48Z"
+fetched_at: "2026-11-16T21:35:16Z"
 last_release: ""
 last_release_at: ""
 ---

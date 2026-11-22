@@ -4,16 +4,16 @@ genre: "coding-agent"
 url: "https://github.com/oil-oil/oil-ui"
 repo: "oil-oil/oil-ui"
 license: "MIT"
-stars: 3102
+stars: 3452
 language: "Python"
 created: "2026-09-30"
-updated: "2026-11-10"
-forks: 177
+updated: "2026-11-16"
+forks: 198
 open_issues: 3
-commits_30d: 52
+commits_30d: 44
 commit_cadence: "daily"
 commits_90d: 100
-size_kb: 3504
+size_kb: 3541
 archived: false
 flags: ["unverified"]
 risk_notes: "README記載の機能説明は作者による説明で、効果は独立検証されていない。Proの価格として一括払い9.99ドルと記載があるが、現在の価格・購入条件は未確認。"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-11"
 first_seen: "2026-11-11"
 sources: ["https://x.com/kangyou82/status/2119987833721278770"]
-fetched_at: "2026-11-10T22:24:41.050520+00:00"
+fetched_at: "2026-11-16T21:46:43Z"
+last_release: "v0.33.5"
+last_release_at: "2026-11-15"
 ---
 
 # Oil UI

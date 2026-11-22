@@ -15,18 +15,18 @@ repo: "thedotmack/claude-mem"
 license: "Apache-2.0"
 language: "TypeScript"
 created: "2025-08-31"
-updated: "2026-11-09"
-stars: 115363
-forks: 10019
-open_issues: 92
+updated: "2026-11-16"
+stars: 117660
+forks: 10217
+open_issues: 107
 commits_30d: 100
 commits_90d: 100
 commit_cadence: "daily"
-size_kb: 795033
+size_kb: 888472
 archived: false
-fetched_at: "2026-11-09T21:35:12Z"
-last_release: "v15.13.0"
-last_release_at: "2026-11-09"
+fetched_at: "2026-11-16T21:41:19Z"
+last_release: "v15.19.0"
+last_release_at: "2026-11-16"
 ---
 
 # thedotmack/claude-mem

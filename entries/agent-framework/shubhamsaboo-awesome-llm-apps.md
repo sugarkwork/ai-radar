@@ -3,16 +3,16 @@ name: "Awesome LLM Apps"
 genre: "agent-framework"
 url: "https://github.com/Shubhamsaboo/awesome-llm-apps"
 repo: "Shubhamsaboo/awesome-llm-apps"
-stars: 144669
-forks: 21292
-open_issues: 7
-size_kb: 222284
+stars: 144874
+forks: 21328
+open_issues: 10
+size_kb: 222299
 language: "Python"
 created: "2024-04-29"
 updated: "2026-11-15"
 archived: false
 license: "Apache-2.0"
-commits_30d: 63
+commits_30d: 67
 commits_90d: 100
 commit_cadence: "daily"
 flags: ["unverified"]
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-15"
 first_seen: "2026-11-15"
 sources: ["https://x.com/DAIEvolutionHub/status/2121642650965315953"]
-fetched_at: "2026-11-15T08:21:37.121041+00:00"
+fetched_at: "2026-11-16T21:40:59Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # Awesome LLM Apps

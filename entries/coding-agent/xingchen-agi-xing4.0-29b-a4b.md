@@ -4,13 +4,13 @@ genre: "coding-agent"
 url: "https://github.com/XingChen-AGI/Xing4.0-29B-A4B"
 repo: "XingChen-AGI/Xing4.0-29B-A4B"
 license: "Apache-2.0"
-stars: 106
+stars: 109
 language: "unknown"
 created: "2026-09-17"
 updated: "2026-11-10"
 forks: 10
 open_issues: 2
-commits_30d: 7
+commits_30d: 5
 commit_cadence: "weekly"
 commits_90d: 35
 size_kb: 1630
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-12"
 first_seen: "2026-11-12"
 sources: ["https://x.com/ai_hakase_/status/2118540382145228865"]
-fetched_at: "2026-11-12T14:21:14.948119+00:00"
+fetched_at: "2026-11-16T21:48:24Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # Xing4.0-29B-A4B

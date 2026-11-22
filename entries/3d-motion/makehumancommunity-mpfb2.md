@@ -6,23 +6,24 @@ url: "https://github.com/makehumancommunity/mpfb2"
 last_release: "v2.0.18"
 flags: ["unverified"]
 risk_notes: "公式資料に基づく確認。Blenderでの動作、Python経由の自動化、外部モーションキャプチャとの互換性、制作時間や工程全体の費用は未検証。GitHubの最新タグは確認したが、公開日時の年とタイムゾーンは確認できていない。 GitHub APIでライセンスを確認できていません。"
-stars: 694
-forks: 103
-open_issues: 70
-size_kb: 90231
+stars: 708
+forks: 109
+open_issues: 71
+size_kb: 90240
 language: "Python"
 created: "2021-02-06"
-updated: "2026-10-24"
+updated: "2026-11-12"
 archived: false
 license: "unknown"
-commits_30d: 34
-commits_90d: 67
+commits_30d: 20
+commits_90d: 69
 commit_cadence: "daily"
 type: "repo"
 added: "2026-11-10"
 first_seen: "2026-11-10"
 sources: ["https://x.com/Y0urDumble/status/2117030430507401326"]
-fetched_at: "2026-11-10T08:16:20Z"
+fetched_at: "2026-11-16T21:33:55Z"
+last_release_at: "2026-10-11"
 ---
 
 # MPFB2 — Blenderで体型を調整してリグ付き人物を作る

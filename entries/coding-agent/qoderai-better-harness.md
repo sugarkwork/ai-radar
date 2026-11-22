@@ -5,23 +5,25 @@ genre: "coding-agent"
 url: "https://github.com/QoderAI/better-harness"
 flags: ["unverified"]
 risk_notes: "公開文書で仕様を確認した。実行時の動作、ホスト間の互換性、導入前後の改善効果、最新リリースのタグと公開日は未確認。MITはリポジトリのライセンスで、ホストの利用条件・料金は未確認。"
-stars: 2444
-forks: 204
+stars: 2462
+forks: 206
 open_issues: 11
-size_kb: 11392
+size_kb: 11429
 language: "JavaScript"
 created: "2026-07-21"
-updated: "2026-11-07"
+updated: "2026-11-11"
 archived: false
 license: "MIT"
-commits_30d: 12
+commits_30d: 9
 commits_90d: 100
 commit_cadence: "weekly"
 type: "repo"
 added: "2026-11-10"
 first_seen: "2026-11-10"
 sources: ["https://x.com/N01ennn/status/2117681136306393357"]
-fetched_at: "2026-11-10T10:20:01Z"
+fetched_at: "2026-11-16T21:47:05Z"
+last_release: "v0.4.1"
+last_release_at: "2026-08-04"
 ---
 
 # Better HarnessでAIコーディング工程を点検する

@@ -4,7 +4,7 @@ genre: "other"
 url: "https://github.com/fand/vfx-js"
 repo: "fand/vfx-js"
 license: "MIT"
-stars: 1190
+stars: 1193
 language: "TypeScript"
 created: "2019-12-14"
 updated: "2026-11-14"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-16"
 first_seen: "2026-11-16"
 sources: ["https://x.com/slashui/status/2122136865960562784"]
-fetched_at: "2026-11-16T10:25:06.262014+00:00"
+fetched_at: "2026-11-16T22:00:23Z"
+last_release: "@vfx-js/core@1.6.0"
+last_release_at: "2026-11-10"
 ---
 
 # VFX-JS

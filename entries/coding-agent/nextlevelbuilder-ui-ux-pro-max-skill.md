@@ -4,16 +4,16 @@ name: "UI UX Pro Max"
 genre: "coding-agent"
 url: "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill"
 license: "MIT"
-stars: 147531
-forks: 15608
-open_issues: 89
-size_kb: 8625
+stars: 150395
+forks: 15896
+open_issues: 83
+size_kb: 8573
 language: "Python"
 created: "2025-11-30"
-updated: "2026-11-07"
+updated: "2026-11-16"
 archived: false
-commits_30d: 21
-commits_90d: 84
+commits_30d: 26
+commits_90d: 87
 commit_cadence: "daily"
 last_release: "v2.15.0"
 flags: ["unverified"]
@@ -22,7 +22,8 @@ added: "2026-11-10"
 first_seen: "2026-11-10"
 risk_notes: ""
 sources: ["https://x.com/thegreatest_sv/status/2117324109478507007"]
-fetched_at: "2026-11-10T08:40:33Z"
+fetched_at: "2026-11-16T21:46:25Z"
+last_release_at: "2026-08-13"
 ---
 
 # UI UX Pro MaxでコーディングエージェントにUI設計案を作らせる

@@ -7,8 +7,8 @@ url: "https://github.com/blendi-remade/prompt2rig"
 author: "blendi-remade"
 license: "Apache-2.0"
 language: "JavaScript"
-stars: 552
-forks: 81
+stars: 581
+forks: 86
 open_issues: 0
 created: "2026-10-19"
 updated: "2026-11-09"
@@ -22,7 +22,7 @@ sources: ["https://x.com/cutetoxicguy/status/2119595833691897981", "https://gith
 added: "2026-11-09"
 first_seen: "2026-11-09"
 source_post: "https://x.com/cutetoxicguy/status/2119595833691897981"
-fetched_at: "2026-11-09T21:30:29Z"
+fetched_at: "2026-11-16T21:32:13Z"
 flags: ["unverified"]
 last_release: ""
 last_release_at: ""

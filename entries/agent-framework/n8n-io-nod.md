@@ -5,13 +5,13 @@ url: "https://github.com/n8n-io/nod"
 flags: ["low-quality", "unverified"]
 risk_notes: "READMEに「Status: research preview」と明記されています。 研究プレビューです。対応OSはmacOS 14以降（Apple siliconまたはIntel）とWindows 11プレビュー、利用条件はChatGPT Plus/ProまたはAIキーとREADMEに記載されています。Windowsの正式対応状況や、利用するモデル・プロバイダーごとの費用はこのREADME抜粋から確認できません。"
 repo: "n8n-io/nod"
-stars: 41
-forks: 3
-open_issues: 2
-size_kb: 70616
+stars: 2019
+forks: 272
+open_issues: 36
+size_kb: 147227
 language: "TypeScript"
 created: "2026-09-25"
-updated: "2026-11-11"
+updated: "2026-11-16"
 archived: false
 license: "Apache-2.0"
 commits_30d: 100
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-11"
 first_seen: "2026-11-11"
 sources: ["https://x.com/superdoccimo/status/2120309807613874286"]
-fetched_at: "2026-11-11T08:13:45.720587+00:00"
+fetched_at: "2026-11-16T21:39:33Z"
+last_release: "nod-v0.8.2"
+last_release_at: "2026-11-16"
 ---
 
 # Nod

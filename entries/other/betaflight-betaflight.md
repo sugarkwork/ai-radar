@@ -3,13 +3,13 @@ name: "Betaflight"
 genre: "other"
 url: "https://github.com/betaflight/betaflight"
 repo: "betaflight/betaflight"
-stars: 11791
-forks: 4169
-open_issues: 191
-size_kb: 420863
+stars: 11799
+forks: 4172
+open_issues: 193
+size_kb: 421161
 language: "C"
 created: "2015-06-08"
-updated: "2026-11-15"
+updated: "2026-11-16"
 archived: false
 license: "GPL-3.0"
 commits_30d: 100
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-15"
 first_seen: "2026-11-15"
 sources: ["https://x.com/dextune/status/2118954101014733277"]
-fetched_at: "2026-11-15T08:35:12.403758+00:00"
+fetched_at: "2026-11-16T21:58:54Z"
+last_release: "2026.6.2"
+last_release_at: "2026-09-16"
 ---
 
 # Betaflight

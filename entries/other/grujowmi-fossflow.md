@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-14"
 first_seen: "2026-11-14"
 sources: ["https://x.com/awe0_io/status/2118740924612362518"]
-fetched_at: "2026-11-14T00:12:59.120377+00:00"
+fetched_at: "2026-11-16T22:01:02Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # FossFLOW

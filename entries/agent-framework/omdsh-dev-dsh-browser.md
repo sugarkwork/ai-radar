@@ -15,18 +15,18 @@ repo: "omdsh-dev/dsh-browser"
 license: "MIT"
 language: "TypeScript"
 created: "2026-08-06"
-updated: "2026-11-08"
-stars: 1025
-forks: 83
-open_issues: 37
-commits_30d: 21
+updated: "2026-11-15"
+stars: 1081
+forks: 86
+open_issues: 35
+commits_30d: 41
 commits_90d: 100
 commit_cadence: "daily"
-size_kb: 1811
+size_kb: 1817
 archived: false
-fetched_at: "2026-11-09T21:34:12Z"
-last_release: "v0.1.4"
-last_release_at: "2026-11-08"
+fetched_at: "2026-11-16T21:39:55Z"
+last_release: "v0.1.5"
+last_release_at: "2026-11-15"
 ---
 
 # omdsh-dev/dsh-browser

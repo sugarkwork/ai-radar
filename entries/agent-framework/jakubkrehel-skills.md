@@ -4,10 +4,10 @@ name: jakubkrehel/skills（UI デザインスキル集）
 genre: agent-framework
 url: https://github.com/jakubkrehel/skills
 license: MIT
-stars: 11856
+stars: 12250
 language: Markdown
 created: 2026-07-10
-updated: "2026-11-09"
+updated: "2026-11-16"
 added: 2026-11-05
 first_seen: 2026-10-22
 source_post: https://x.com/sumika45379/status/2113397508152111418
@@ -15,14 +15,14 @@ sources:
   - https://jakub.kr/skills
 flags: []
 risk_notes: ""
-forks: 461
-open_issues: 11
-size_kb: 756
+forks: 478
+open_issues: 0
+size_kb: 792
 archived: false
-commits_30d: 39
+commits_30d: 40
 commits_90d: 100
 commit_cadence: "daily"
-fetched_at: "2026-11-09T21:33:22Z"
+fetched_at: "2026-11-16T21:38:34Z"
 last_release: ""
 last_release_at: ""
 ---

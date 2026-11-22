@@ -5,7 +5,7 @@ genre: model-serving
 url: https://github.com/Zagitta/gpu-unlock
 author: Zagitta
 license: GPL-2.0
-stars: 18370
+stars: 19975
 language: C
 created: 2026-10-18
 updated: "2026-10-29"
@@ -18,14 +18,14 @@ amplifiers:
   - https://x.com/0xluffy_eth/status/2117561830629675499
 flags: [unverified]
 risk_notes: "ブート時にカーネルモジュールでGPUの速度セレクタを書き換える構成。性能値は作者計測で第三者検証なし。GeForce の保証・NVIDIA の規約への影響は未確認。トップレベルに LICENSE ファイルが無く licenses/ 配下のみ。"
-forks: 1869
-open_issues: 130
+forks: 2079
+open_issues: 139
 commits_30d: 36
 commits_90d: 37
 commit_cadence: "daily"
 size_kb: 193
 archived: false
-fetched_at: "2026-11-09T21:40:37Z"
+fetched_at: "2026-11-16T21:57:45Z"
 last_release: ""
 last_release_at: ""
 ---

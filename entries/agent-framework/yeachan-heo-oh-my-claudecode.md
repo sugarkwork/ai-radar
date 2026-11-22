@@ -3,27 +3,27 @@ repo: "Yeachan-Heo/oh-my-claudecode"
 name: "oh-my-claudecode"
 genre: "agent-framework"
 url: "https://github.com/Yeachan-Heo/oh-my-claudecode"
-stars: 40729
-forks: 3637
-open_issues: 16
-size_kb: 163022
+stars: 40867
+forks: 3648
+open_issues: 30
+size_kb: 165777
 language: "TypeScript"
 created: "2026-01-09"
-updated: "2026-11-10"
+updated: "2026-11-16"
 archived: false
 license: "MIT"
 commits_30d: 100
 commits_90d: 100
 commit_cadence: "daily"
 last_release: "v5.8.4"
-last_release_at: ""
+last_release_at: "2026-11-10"
 flags: ["unverified"]
 risk_notes: "導入と実行は未検証。単一エージェントと比較した品質・所要時間・モデル利用料の実測は確認していない。最新リリースのタグは確認したが、公開日時のタイムゾーンは確認できなかった。30日・90日のコミット数はいずれも取得上限に達しており、100件以上を示す。"
 type: "repo"
 added: "2026-11-10"
 first_seen: "2026-11-10"
 sources: ["https://x.com/opensourcelab9/status/2114967848775041508"]
-fetched_at: "2026-11-10T11:46:29Z"
+fetched_at: "2026-11-16T21:41:49Z"
 ---
 
 # oh-my-claudecodeでClaude Codeの開発タスクをチームに分担する

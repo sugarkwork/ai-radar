@@ -7,9 +7,9 @@ flags: ["unverified"]
 risk_notes: "独立実行による改善幅、試行回数、H100以外での動作、GPU・エージェントの利用料金は未確認。READMEはMITと記載しているが、親のGitHub API測定値はunknown。学習データの利用条件は未確認。 GitHub APIでライセンスを確認できていません。"
 last_release: ""
 last_release_at: ""
-stars: 99728
-forks: 13741
-open_issues: 196
+stars: 100135
+forks: 13784
+open_issues: 195
 size_kb: 530
 language: "Python"
 created: "2026-03-06"
@@ -23,7 +23,7 @@ type: "repo"
 added: "2026-11-10"
 first_seen: "2026-11-10"
 sources: ["https://x.com/thegreatest_sv/status/2115051970251628961"]
-fetched_at: "2026-11-10T11:53:15Z"
+fetched_at: "2026-11-16T21:45:10Z"
 ---
 
 # autoresearch — コーディングエージェントで小規模LLMの学習実験を反復する

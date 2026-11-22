@@ -4,7 +4,7 @@ name: "ARTEMIS"
 genre: agent-framework
 url: "https://github.com/google/artemis"
 license: "Apache-2.0"
-stars: 17116
+stars: 17528
 language: "Python"
 created: "2026-08-13"
 updated: "2026-10-01"
@@ -14,14 +14,14 @@ source_post: "https://x.com/bkdgiffug/status/2117913241326387519"
 sources: []
 flags: []
 risk_notes: ""
-forks: 1909
-open_issues: 187
+forks: 1954
+open_issues: 192
 size_kb: 25762
 archived: false
 commits_30d: 0
 commits_90d: 100
 commit_cadence: "monthly"
-fetched_at: "2026-11-09T21:33:05Z"
+fetched_at: "2026-11-16T21:38:07Z"
 last_release: ""
 last_release_at: ""
 ---

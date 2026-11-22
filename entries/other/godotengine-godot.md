@@ -3,13 +3,13 @@ name: "Godot Engine"
 genre: "other"
 url: "https://github.com/godotengine/godot"
 repo: "godotengine/godot"
-stars: 120113
-forks: 27494
-open_issues: 19042
-size_kb: 1961208
+stars: 120279
+forks: 27542
+open_issues: 19050
+size_kb: 1951859
 language: "C++"
 created: "2014-01-04"
-updated: "2026-11-13"
+updated: "2026-11-16"
 archived: false
 license: "MIT"
 commits_30d: 100
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-14"
 first_seen: "2026-11-14"
 sources: ["https://x.com/aikangarooking/status/2121444332091965629"]
-fetched_at: "2026-11-14T07:19:31.861066+00:00"
+fetched_at: "2026-11-16T22:00:42Z"
+last_release: "4.7.2-stable"
+last_release_at: "2026-08-18"
 ---
 
 # Godot Engine

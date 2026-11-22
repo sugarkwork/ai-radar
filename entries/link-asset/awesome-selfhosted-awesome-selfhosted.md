@@ -4,16 +4,16 @@ genre: "link-asset"
 url: "https://github.com/awesome-selfhosted/awesome-selfhosted"
 repo: "awesome-selfhosted/awesome-selfhosted"
 license: "unknown"
-stars: 336158
+stars: 337694
 language: "unknown"
 created: "2015-06-01"
-updated: "2026-11-07"
-forks: 15811
+updated: "2026-11-16"
+forks: 15862
 open_issues: 0
-commits_30d: 19
+commits_30d: 16
 commit_cadence: "weekly"
 commits_90d: 79
-size_kb: 17409
+size_kb: 17526
 archived: false
 flags: ["unverified"]
 risk_notes: "README describes the list as Free Software, with non-free software listed separately. Repository license is unknown in the supplied measured data; individual entries have their own listed licenses and deployment technologies. GitHub APIでライセンスを確認できていません。"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-12"
 first_seen: "2026-11-12"
 sources: ["https://x.com/awe0_io/status/2118384339348324428"]
-fetched_at: "2026-11-12T00:07:30.970116+00:00"
+fetched_at: "2026-11-16T21:53:07Z"
+last_release: "1.0.0"
+last_release_at: "2023-08-22"
 ---
 
 # Awesome-Selfhosted

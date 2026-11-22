@@ -15,16 +15,16 @@ repo: "Lida-V/3DCharaMakeSkills-Lida"
 license: "NOASSERTION"
 language: "Python"
 created: "2026-10-13"
-updated: "2026-11-07"
-stars: 62
+updated: "2026-11-15"
+stars: 64
 forks: 4
 open_issues: 0
-commits_30d: 48
+commits_30d: 9
 commits_90d: 48
-commit_cadence: "daily"
-size_kb: 17890
+commit_cadence: "weekly"
+size_kb: 18682
 archived: false
-fetched_at: "2026-11-09T21:31:13Z"
+fetched_at: "2026-11-16T21:33:38Z"
 license_detail: "原チェックのLICENSE/README解釈: Lida Attribution License 1.0。APIのSPDX判定とは別。利用前に現行本文を確認。"
 last_release: "v1.12.0"
 last_release_at: "2026-11-07"

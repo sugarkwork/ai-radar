@@ -6,8 +6,8 @@ repo: "MiniMax-AI/mcode-stack"
 license: "MIT"
 language: "JavaScript"
 archived: false
-stars: 717
-forks: 50
+stars: 725
+forks: 49
 open_issues: 1
 size_kb: 8645
 created: "2026-10-28"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-15"
 first_seen: "2026-11-15"
 sources: ["https://x.com/AIExplorerTim/status/2118910064606233060"]
-fetched_at: "2026-11-15T00:20:08.912832+00:00"
+fetched_at: "2026-11-16T21:46:05Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # MCode Stack

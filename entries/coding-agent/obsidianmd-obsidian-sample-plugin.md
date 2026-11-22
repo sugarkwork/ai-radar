@@ -16,15 +16,15 @@ license: "0BSD"
 language: "TypeScript"
 created: "2020-10-25"
 updated: "2026-08-02"
-stars: 4672
-forks: 1810
+stars: 4707
+forks: 1814
 open_issues: 23
 commits_30d: 0
 commits_90d: 0
 commit_cadence: "stale"
 size_kb: 224
 archived: false
-fetched_at: "2026-11-09T21:36:34Z"
+fetched_at: "2026-11-16T21:46:36Z"
 last_release: "1.0.0"
 last_release_at: "2020-10-28"
 ---

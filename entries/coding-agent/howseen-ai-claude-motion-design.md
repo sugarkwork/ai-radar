@@ -4,11 +4,11 @@ genre: "coding-agent"
 url: "https://github.com/howseen-ai/claude-motion-design"
 repo: "howseen-ai/claude-motion-design"
 license: "MIT"
-stars: 811
+stars: 845
 language: "Python"
 created: "2026-09-27"
 updated: "2026-10-04"
-forks: 105
+forks: 106
 open_issues: 2
 commits_30d: 0
 commit_cadence: "monthly"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-12"
 first_seen: "2026-11-12"
 sources: ["https://x.com/PromptLabCN/status/2120750742785171596"]
-fetched_at: "2026-11-12T06:11:47.616288+00:00"
+fetched_at: "2026-11-16T21:44:48Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # claude-motion-design

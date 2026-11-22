@@ -4,15 +4,15 @@ name: "MiniCPM-V"
 genre: "model-serving"
 url: "https://github.com/OpenBMB/MiniCPM-V"
 license: "Apache-2.0"
-stars: 27117
+stars: 27157
 language: "Python"
 created: "2024-01-29"
 updated: "2026-11-09"
-forks: 2127
-open_issues: 65
-commits_30d: 34
-commit_cadence: "daily"
-commits_90d: 43
+forks: 2130
+open_issues: 66
+commits_30d: 7
+commit_cadence: "weekly"
+commits_90d: 42
 size_kb: 815169
 archived: false
 last_release: "20250527"
@@ -24,7 +24,7 @@ type: "repo"
 added: "2026-11-09"
 first_seen: "2026-11-09"
 sources: ["https://x.com/opensourcelab9/status/2113035113537970380"]
-fetched_at: "2026-11-09T21:40:24Z"
+fetched_at: "2026-11-16T21:57:27Z"
 ---
 
 # MiniCPM-V 4.7

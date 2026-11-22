@@ -4,16 +4,16 @@ name: "Exa MCP Server"
 genre: "mcp-server"
 url: "https://github.com/exa-labs/exa-mcp-server"
 license: "MIT"
-stars: 5221
+stars: 5240
 forks: 414
-open_issues: 8
+open_issues: 10
 size_kb: 4415
 language: "TypeScript"
 created: "2024-11-27"
 updated: "2026-11-05"
 archived: false
 commits_30d: 9
-commits_90d: 20
+commits_90d: 17
 commit_cadence: "weekly"
 flags: ["unverified"]
 risk_notes: "GitHub の最新リリース用 URL は一覧に転送され、最新リリースのタグと公開日時は確認できなかった。README は GitHub の raw ファイルで確認した。検索精度、本文取得の成功率、匿名枠の具体的な上限、発見投稿が述べる YouTube のトレンド検出や動画制作・収益化の成果は未検証。"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-10"
 first_seen: "2026-11-10"
 sources: ["https://x.com/Y0urDumble/status/2114798387249717600"]
-fetched_at: "2026-11-10T11:38:25+00:00"
+fetched_at: "2026-11-16T21:54:07Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # Exa MCP Server — AI エージェントに Web 検索と本文取得を追加

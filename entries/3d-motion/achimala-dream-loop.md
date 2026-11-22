@@ -3,9 +3,9 @@ repo: "achimala/dream-loop"
 name: "dream-loop"
 genre: "3d-motion"
 url: "https://github.com/achimala/dream-loop"
-stars: 1914
-forks: 193
-open_issues: 4
+stars: 2369
+forks: 230
+open_issues: 5
 size_kb: 6768
 language: "JavaScript"
 created: "2026-09-07"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-10"
 first_seen: "2026-11-10"
 sources: ["https://x.com/thegreatest_sv/status/2117231247433118169"]
-fetched_at: "2026-11-10T08:25:19+00:00"
+fetched_at: "2026-11-16T21:31:49Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # dream-loop：目標画像を基準に3Dシーンの実装を反復するエージェントスキル

@@ -3,7 +3,7 @@ name: "losslesscut-mcp"
 genre: "mcp-server"
 url: "https://github.com/bariswha/losslesscut-mcp"
 repo: "bariswha/losslesscut-mcp"
-stars: 4
+stars: 12
 forks: 0
 open_issues: 0
 size_kb: 443
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-15"
 first_seen: "2026-11-15"
 sources: ["https://x.com/doodi_dev/status/2121789030299754718"]
-fetched_at: "2026-11-15T08:13:40.533104+00:00"
+fetched_at: "2026-11-16T21:53:48Z"
+last_release: "v2.0.0"
+last_release_at: "2026-11-12"
 ---
 
 # losslesscut-mcp

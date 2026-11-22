@@ -15,16 +15,16 @@ repo: "lucas-martinic/polyfork-catalog"
 license: "NOASSERTION"
 language: "unknown"
 created: "2026-11-02"
-updated: "2026-11-09"
-stars: 499
-forks: 61
+updated: "2026-11-16"
+stars: 754
+forks: 89
 open_issues: 0
-commits_30d: 8
-commits_90d: 8
+commits_30d: 15
+commits_90d: 15
 commit_cadence: "weekly"
-size_kb: 2267
+size_kb: 2849
 archived: false
-fetched_at: "2026-11-09T21:38:49Z"
+fetched_at: "2026-11-16T21:53:15Z"
 license_detail: "原チェックのLICENSE/README解釈: Polyfork catalog index license (assets have separate terms)。APIのSPDX判定とは別。利用前に現行本文を確認。"
 last_release: ""
 last_release_at: ""

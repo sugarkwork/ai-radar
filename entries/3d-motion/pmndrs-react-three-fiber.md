@@ -4,13 +4,13 @@ genre: "3d-motion"
 url: "https://github.com/pmndrs/react-three-fiber"
 repo: "pmndrs/react-three-fiber"
 license: "MIT"
-stars: 33655
+stars: 33774
 language: "TypeScript"
 created: "2019-02-25"
 updated: "2026-10-21"
-forks: 2098
-open_issues: 37
-commits_30d: 2
+forks: 2111
+open_issues: 26
+commits_30d: 0
 commit_cadence: "monthly"
 commits_90d: 44
 size_kb: 31505
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-11"
 first_seen: "2026-11-11"
 sources: ["https://x.com/thegreatest_sv/status/2118374136799985771"]
-fetched_at: "2026-11-11T23:05:24.740159+00:00"
+fetched_at: "2026-11-16T21:34:39Z"
+last_release: "v9.8.2"
+last_release_at: "2026-10-15"
 ---
 
 # @react-three/fiber

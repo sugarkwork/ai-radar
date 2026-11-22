@@ -5,13 +5,13 @@ url: "https://github.com/anomalyco/browse"
 flags: ["unverified"]
 risk_notes: "README記載の導入方法には、ダウンロードしたインストーラーを実行する手順（curl | bash、PowerShellのirm | iex、npx install）が含まれます。この候補では実行していません。"
 repo: "anomalyco/browse"
-stars: 588
-forks: 43
-open_issues: 26
-size_kb: 5452
+stars: 669
+forks: 51
+open_issues: 28
+size_kb: 4878
 language: "TypeScript"
 created: "2026-10-27"
-updated: "2026-11-15"
+updated: "2026-11-16"
 archived: false
 license: "MIT"
 commits_30d: 100
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-15"
 first_seen: "2026-11-15"
 sources: ["https://x.com/NFT_Chen/status/2118934674533978517"]
-fetched_at: "2026-11-15T04:20:32.755140+00:00"
+fetched_at: "2026-11-16T21:36:07Z"
+last_release: "v0.1.0"
+last_release_at: "2026-11-16"
 ---
 
 # browse

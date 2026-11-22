@@ -4,16 +4,16 @@ genre: "coding-agent"
 url: "https://github.com/jazzenchen/agent-hud-open"
 repo: "jazzenchen/agent-hud-open"
 license: "Apache-2.0"
-stars: 326
+stars: 553
 language: "Rust"
 created: "2026-10-22"
-updated: "2026-11-10"
-forks: 54
-open_issues: 17
+updated: "2026-11-16"
+forks: 81
+open_issues: 21
 commits_30d: 100
 commit_cadence: "daily"
 commits_90d: 100
-size_kb: 19725
+size_kb: 21272
 archived: false
 flags: ["unverified"]
 risk_notes: "一次資料で未確認: 技術背景・有効性・依存関係・実行条件。"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-11"
 first_seen: "2026-11-11"
 sources: ["https://x.com/Ryrenz/status/2120095383393067096"]
-fetched_at: "2026-11-11T04:20:47.096991+00:00"
+fetched_at: "2026-11-16T21:44:57Z"
+last_release: "v0.6.6"
+last_release_at: "2026-11-16"
 ---
 
 # Agent HUD

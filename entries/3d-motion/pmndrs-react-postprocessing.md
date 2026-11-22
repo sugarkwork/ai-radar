@@ -3,8 +3,8 @@ name: "react-postprocessing"
 genre: "3d-motion"
 url: "https://github.com/pmndrs/react-postprocessing"
 repo: "pmndrs/react-postprocessing"
-stars: 1589
-forks: 164
+stars: 1640
+forks: 171
 open_issues: 12
 size_kb: 16933
 language: "TypeScript"
@@ -13,7 +13,7 @@ updated: "2026-10-21"
 archived: false
 license: "MIT"
 commits_30d: 7
-commits_90d: 64
+commits_90d: 57
 commit_cadence: "weekly"
 flags: ["unverified"]
 risk_notes: "一次資料で未確認: 技術背景・有効性・依存関係・実行条件。"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-14"
 first_seen: "2026-11-14"
 sources: ["https://x.com/thegreatest_sv/status/2118724335905148990"]
-fetched_at: "2026-11-13T21:14:13.076162+00:00"
+fetched_at: "2026-11-16T21:34:35Z"
+last_release: "v3.2.2"
+last_release_at: "2026-10-21"
 ---
 
 # react-postprocessing

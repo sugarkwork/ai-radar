@@ -15,16 +15,16 @@ repo: "open-free-llm-api/awesome-freellm-apis"
 license: "MIT"
 language: "unknown"
 created: "2026-05-10"
-updated: "2026-11-09"
-stars: 5463
-forks: 851
-open_issues: 2
-commits_30d: 40
+updated: "2026-11-16"
+stars: 5715
+forks: 896
+open_issues: 0
+commits_30d: 42
 commits_90d: 100
 commit_cadence: "daily"
-size_kb: 605
+size_kb: 603
 archived: false
-fetched_at: "2026-11-09T21:40:21Z"
+fetched_at: "2026-11-16T21:57:20Z"
 last_release: ""
 last_release_at: ""
 ---

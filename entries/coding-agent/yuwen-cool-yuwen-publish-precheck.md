@@ -4,11 +4,11 @@ genre: "coding-agent"
 url: "https://github.com/yuwen-cool/yuwen-publish-precheck"
 repo: "yuwen-cool/yuwen-publish-precheck"
 license: "MIT"
-stars: 814
+stars: 816
 language: "Python"
 created: "2026-07-15"
 updated: "2026-10-08"
-forks: 77
+forks: 78
 open_issues: 0
 commits_30d: 0
 commit_cadence: "monthly"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-14"
 first_seen: "2026-11-14"
 sources: ["https://x.com/ruyi3699/status/2118862747832025357"]
-fetched_at: "2026-11-14T15:12:36.236268+00:00"
+fetched_at: "2026-11-16T21:48:35Z"
+last_release: "v1.0.6"
+last_release_at: "2026-09-16"
 ---
 
 # yuwen-publish-precheck｜发布前审

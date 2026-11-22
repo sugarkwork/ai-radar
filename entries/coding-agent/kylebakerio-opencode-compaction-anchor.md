@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-12"
 first_seen: "2026-11-12"
 sources: ["https://x.com/ai_hakase_/status/2118615006455418914"]
-fetched_at: "2026-11-12T23:10:14.534880+00:00"
+fetched_at: "2026-11-16T21:45:23Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # opencode-compaction-anchor

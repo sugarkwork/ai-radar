@@ -4,16 +4,16 @@ genre: "finance-quant"
 url: "https://github.com/akfamily/akshare"
 repo: "akfamily/akshare"
 license: "MIT"
-stars: 23340
+stars: 23360
 language: "Python"
 created: "2019-10-01"
-updated: "2026-11-14"
-forks: 3576
-open_issues: 1
+updated: "2026-11-16"
+forks: 3577
+open_issues: 2
 commits_30d: 100
 commit_cadence: "daily"
 commits_90d: 100
-size_kb: 12331
+size_kb: 9631
 archived: false
 flags: ["unverified"]
 risk_notes: "一次資料で未確認: 技術背景・有効性・依存関係・実行条件。"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-14"
 first_seen: "2026-11-14"
 sources: ["https://x.com/bkdgiffug/status/2118857714390733011"]
-fetched_at: "2026-11-14T15:11:39.954389+00:00"
+fetched_at: "2026-11-16T21:49:55Z"
+last_release: "v1.20.65"
+last_release_at: "2026-11-15"
 ---
 
 # AKShare

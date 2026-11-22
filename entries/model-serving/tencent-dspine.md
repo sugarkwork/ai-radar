@@ -15,16 +15,16 @@ repo: "Tencent/DSpine"
 license: "NOASSERTION"
 language: "Python"
 created: "2026-10-15"
-updated: "2026-11-09"
-stars: 172
-forks: 12
-open_issues: 4
-commits_30d: 7
-commits_90d: 7
+updated: "2026-11-16"
+stars: 259
+forks: 19
+open_issues: 7
+commits_30d: 15
+commits_90d: 16
 commit_cadence: "weekly"
-size_kb: 855
+size_kb: 1354
 archived: false
-fetched_at: "2026-11-09T21:40:32Z"
+fetched_at: "2026-11-16T21:57:35Z"
 license_detail: "原チェックのLICENSE/README解釈: unknown (README Apache-2.0 badge; LICENSE not confirmed)。APIのSPDX判定とは別。利用前に現行本文を確認。"
 last_release: ""
 last_release_at: ""

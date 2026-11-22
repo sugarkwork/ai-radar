@@ -3,17 +3,17 @@ repo: "xai-org/plugin-marketplace"
 name: "xAI Plugin Marketplace"
 genre: "coding-agent"
 url: "https://github.com/xai-org/plugin-marketplace"
-stars: 325
-forks: 1222
-open_issues: 1287
-size_kb: 3010
+stars: 333
+forks: 1292
+open_issues: 1373
+size_kb: 3347
 language: "Python"
 created: "2026-05-15"
-updated: "2026-11-09"
+updated: "2026-11-16"
 archived: false
 license: "unknown"
-commits_30d: 31
-commits_90d: 81
+commits_30d: 25
+commits_90d: 82
 commit_cadence: "daily"
 flags: ["unverified"]
 risk_notes: "['最新リリースのタグと公開日は未確認。プラグインの導入・実行、個別機能の有効性や安全性、料金、ライセンスおよび利用条件は未検証。README は公開 raw URL で確認した。'] GitHub APIでライセンスを確認できていません。"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-10"
 first_seen: "2026-11-10"
 sources: ["https://x.com/thegreatest_sv/status/2117591176048005131"]
-fetched_at: "2026-11-10T09:44:32+00:00"
+fetched_at: "2026-11-16T21:48:21Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # xAI Plugin Marketplace — Grok Build の公式プラグインカタログ

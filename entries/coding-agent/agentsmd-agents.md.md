@@ -5,9 +5,9 @@ genre: "coding-agent"
 url: "https://github.com/agentsmd/agents.md"
 flags: ["unverified"]
 risk_notes: "最新リリースのタグと公開日は未確認。エージェントごとの対応バージョン、指示の読み込み順、コマンドの実行挙動は実機で検証していない。効果は引用した研究の評価条件に限られる。"
-stars: 25417
-forks: 1950
-open_issues: 190
+stars: 25522
+forks: 1965
+open_issues: 191
 size_kb: 2131
 language: "TypeScript"
 created: "2025-08-19"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-10"
 first_seen: "2026-11-10"
 sources: ["https://x.com/N01ennn/status/2117681136306393357"]
-fetched_at: "2026-11-10T10:17:04+00:00"
+fetched_at: "2026-11-16T21:42:24Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # AGENTS.mdでコーディングエージェントにプロジェクトの作業手順を渡す

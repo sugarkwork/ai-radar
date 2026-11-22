@@ -4,7 +4,7 @@ name: "3dmodel"
 genre: "3d-motion"
 url: "https://github.com/fletcherholt/3dmodel-skill"
 license: "unknown"
-stars: 6
+stars: 7
 language: "unknown"
 created: "2026-06-15"
 updated: "2026-06-16"
@@ -23,7 +23,7 @@ type: "repo"
 added: "2026-11-10"
 first_seen: "2026-11-10"
 sources: ["https://x.com/CryptooGG_/status/2119312343892976064"]
-fetched_at: "2026-11-10T12:10:45+00:00"
+fetched_at: "2026-11-16T21:33:02Z"
 ---
 
 # 3dmodel — Claude Codeで3D素材とインタラクティブビューアを作るスキル

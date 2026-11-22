@@ -4,11 +4,11 @@ genre: "finance-quant"
 url: "https://github.com/evan-kolberg/prediction-market-backtesting"
 repo: "evan-kolberg/prediction-market-backtesting"
 license: "unknown"
-stars: 1267
+stars: 1270
 language: "Python"
 created: "2026-02-13"
 updated: "2026-05-16"
-forks: 201
+forks: 202
 open_issues: 5
 commits_30d: 0
 commit_cadence: "stale"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-11"
 first_seen: "2026-11-11"
 sources: ["https://x.com/thegreatest_sv/status/2116886377698578543"]
-fetched_at: "2026-11-10T14:08:08.079008+00:00"
+fetched_at: "2026-11-16T21:50:07Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # prediction-market-backtesting

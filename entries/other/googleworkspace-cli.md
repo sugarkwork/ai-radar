@@ -6,12 +6,12 @@ genre: "other"
 url: "https://github.com/googleworkspace/cli"
 author: "googleworkspace (Google)"
 license: "Apache-2.0"
-stars: 32212
+stars: 32350
 language: "Rust"
 created: "2026-03-02"
 updated: "2026-11-03"
-forks: 1988
-open_issues: 136
+forks: 1995
+open_issues: 137
 commits_30d: 1
 commits_90d: 1
 commit_cadence: "monthly"
@@ -24,7 +24,7 @@ risk_notes: "README 冒頭に「This is not an officially supported Google produ
 added: "2026-11-09"
 first_seen: "2026-11-09"
 sources: ["https://x.com/thegreatest_sv/status/2114326860326723736"]
-fetched_at: "2026-11-09T21:41:03Z"
+fetched_at: "2026-11-16T22:00:59Z"
 ---
 
 # Google Workspace CLI (gws) — Gmail/Drive/Calendar を1つの CLI と Agent Skills で操作

@@ -5,7 +5,7 @@ url: "https://github.com/Domainsun/awesome-chinese-secondhand-slang"
 repo: "Domainsun/awesome-chinese-secondhand-slang"
 flags: ["malicious", "low-quality", "unverified"]
 risk_notes: "READMEは、平台の敏感語検出を避けるための代替語・暗語や、文案の排雷・転译を売り手向け用途として記載している。これは規制・モデレーション回避を助けうる。収録件数と分類数にもREADME内の不一致がある。 README内で収録規模が一致しない（本文は4,569+変異形・114分類、バッジは5,082,569+変異形・149分類）。記載された語句の意味や存活状態、平台ルールへの適合性は独立確認されていない。"
-stars: 777
+stars: 798
 forks: 51
 open_issues: 1
 size_kb: 217
@@ -14,14 +14,16 @@ created: "2026-10-17"
 updated: "2026-10-19"
 archived: false
 license: "MIT"
-commits_30d: 8
+commits_30d: 4
 commits_90d: 8
 commit_cadence: "weekly"
 type: "repo"
 added: "2026-11-13"
 first_seen: "2026-11-13"
 sources: ["https://x.com/bkdgiffug/status/2118668719169626547"]
-fetched_at: "2026-11-13T13:09:39.845807+00:00"
+fetched_at: "2026-11-16T21:59:39Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # Awesome Chinese Secondhand Slang（中国二手暗语全书与避坑合规指南）

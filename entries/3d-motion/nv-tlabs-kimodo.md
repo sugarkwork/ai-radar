@@ -6,18 +6,18 @@ url: "https://github.com/nv-tlabs/kimodo"
 author: "NVIDIA / nv-tlabs"
 repo: "nv-tlabs/kimodo"
 license: "Apache-2.0"
-stars: 4130
-forks: 464
+stars: 4241
+forks: 473
 open_issues: 22
 language: "Python"
 created: "2026-03-16"
 updated: "2026-10-15"
 added: "2026-11-09"
 first_seen: "2026-11-09"
-fetched_at: "2026-11-09T21:31:31Z"
-commits_30d: 18
+fetched_at: "2026-11-16T21:34:22Z"
+commits_30d: 0
 commits_90d: 20
-commit_cadence: "weekly"
+commit_cadence: "monthly"
 size_kb: 44539
 archived: false
 flags: ["unverified"]

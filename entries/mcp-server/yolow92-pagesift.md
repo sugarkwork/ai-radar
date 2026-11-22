@@ -6,24 +6,24 @@ url: "https://github.com/YOLOW92/pagesift"
 author: "YOLOW92"
 repo: "YOLOW92/pagesift"
 license: "AGPL-3.0"
-stars: 256
+stars: 276
 language: "Rust"
 created: "2026-10-20"
-updated: "2026-11-09"
+updated: "2026-11-16"
 added: "2026-11-06"
 first_seen: "2026-11-05"
 sources: ["https://x.com/Ryrenz/status/2118161886894080121"]
 flags: ["unverified"]
 risk_notes: "AGPL-3.0 のため、改変してネットワーク越しに提供する場合はソース開示義務。プロプライエタリ製品への組み込みは別途商用ライセンス。README のベンチマーク数値（2.4ms/ページ、20.49倍、32MB 等）はすべて著者自身の計測で第三者検証なし＝カタログの事実としては採用せず flag 扱い。リポジトリは 2026-10-20 作成で履歴が浅く、v1.1.3 は検証当日リリース。pip 版 CLI のサブコマンドは mcp/scrape/convert のみで、README が示す crawl/extract/doctor やローカル PDF/Office の直接パースは cargo ビルド版の機能（pip 版 scrape は http(s) のみ受け付け、ローカルファイルは convert で HTML のみ）。"
-forks: 32
+forks: 37
 open_issues: 0
 commits_30d: 100
 commit_cadence: "daily"
-size_kb: 34774
+size_kb: 37352
 archived: false
-fetched_at: "2026-11-09T21:39:21Z"
-last_release: "v1.2.4"
-last_release_at: "2026-11-09"
+fetched_at: "2026-11-16T21:55:37Z"
+last_release: "v1.5.6"
+last_release_at: "2026-11-16"
 commits_90d: 100
 ---
 

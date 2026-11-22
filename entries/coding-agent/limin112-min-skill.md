@@ -5,8 +5,8 @@ url: "https://github.com/limin112/min-skill"
 repo: "limin112/min-skill"
 flags: ["unverified"]
 risk_notes: "各Skill・ツールの詳細な依存関係や実行条件は、それぞれのディレクトリにあるREADMEで確認が必要。 GitHub APIでライセンスを確認できていません。"
-stars: 630
-forks: 94
+stars: 642
+forks: 96
 open_issues: 1
 size_kb: 37677
 language: "TypeScript"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-11"
 first_seen: "2026-11-11"
 sources: ["https://x.com/superfang119/status/2118329991687712953"]
-fetched_at: "2026-11-11T19:08:26.774499+00:00"
+fetched_at: "2026-11-16T21:45:29Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # min-skill

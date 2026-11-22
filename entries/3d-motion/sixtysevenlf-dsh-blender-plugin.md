@@ -3,7 +3,7 @@ name: "DSH × Blender"
 genre: "3d-motion"
 url: "https://github.com/sixtysevenlf/dsh-blender-plugin"
 repo: "sixtysevenlf/dsh-blender-plugin"
-stars: 2147
+stars: 2148
 forks: 94
 open_issues: 9
 size_kb: 10781
@@ -21,7 +21,9 @@ added: "2026-11-16"
 first_seen: "2026-11-16"
 risk_notes: ""
 sources: ["https://x.com/zhngzhom1/status/2119087220170932350"]
-fetched_at: "2026-11-16T19:12:25.937604+00:00"
+fetched_at: "2026-11-16T21:34:59Z"
+last_release: "v3.0.6"
+last_release_at: "2026-11-05"
 ---
 
 # DSH × Blender

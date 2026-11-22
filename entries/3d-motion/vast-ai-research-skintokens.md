@@ -5,7 +5,7 @@ genre: 3d-motion
 url: https://github.com/VAST-AI-Research/SkinTokens
 author: VAST-AI-Research（清華大学 + Tripo）
 license: MIT
-stars: 625
+stars: 652
 language: Python
 created: 2026-02-08
 updated: "2026-05-12"
@@ -16,14 +16,14 @@ sources:
   - https://zjp-shadow.github.io/works/SkinTokens/
   - https://arxiv.org/abs/2602.04805
   - https://huggingface.co/spaces/VAST-AI/SkinTokens
-forks: 84
+forks: 85
 open_issues: 11
 commits_30d: 0
 commits_90d: 0
 commit_cadence: "stale"
 size_kb: 13374
 archived: false
-fetched_at: "2026-11-09T21:31:51Z"
+fetched_at: "2026-11-16T21:35:19Z"
 last_release: ""
 last_release_at: ""
 ---

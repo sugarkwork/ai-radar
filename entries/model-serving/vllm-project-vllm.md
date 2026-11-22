@@ -5,10 +5,10 @@ url: "https://github.com/vllm-project/vllm"
 flags: ["unverified"]
 risk_notes: "READMEには、必要なGPU・CPUの最低要件や対応するソフトウェアのバージョン条件が記載されていません。"
 repo: "vllm-project/vllm"
-stars: 96992
-forks: 24870
-open_issues: 10430
-size_kb: 365543
+stars: 97050
+forks: 24904
+open_issues: 10462
+size_kb: 368038
 language: "Python"
 created: "2023-02-09"
 updated: "2026-11-16"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-16"
 first_seen: "2026-11-16"
 sources: ["https://x.com/naka_1717/status/2119034856676159987"]
-fetched_at: "2026-11-16T05:29:33.518506+00:00"
+fetched_at: "2026-11-16T21:57:41Z"
+last_release: "v0.33.0rc3"
+last_release_at: "2026-11-02"
 ---
 
 # vLLM

@@ -4,24 +4,26 @@ name: "wshobson/agents"
 genre: "coding-agent"
 url: "https://github.com/wshobson/agents"
 license: "MIT"
-stars: 42378
-forks: 4476
-open_issues: 11
-size_kb: 5072
+stars: 42582
+forks: 4501
+open_issues: 14
+size_kb: 6457
 language: "Python"
 created: "2025-07-24"
-updated: "2026-11-09"
+updated: "2026-11-16"
 archived: false
-commits_30d: 34
-commits_90d: 100
-commit_cadence: "daily"
+commits_30d: 18
+commits_90d: 84
+commit_cadence: "weekly"
 flags: ["unverified"]
 risk_notes: "最新リリース、導入後の動作、ホスト間の機能差、トークン削減量や生成品質への効果は未確認。MITはリポジトリのライセンスで、外部配布項目やホストの利用条件・料金は未確認。90日コミット数は100件以上を示す。"
 type: "repo"
 added: "2026-11-10"
 first_seen: "2026-11-10"
 sources: ["https://x.com/N01ennn/status/2117681136306393357"]
-fetched_at: "2026-11-10T10:18:28+00:00"
+fetched_at: "2026-11-16T21:48:18Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # wshobson/agents — AIコーディングツール向けスキルとサブエージェント集

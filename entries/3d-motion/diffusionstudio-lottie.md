@@ -7,8 +7,8 @@ last_release: "v1.0.0"
 last_release_at: "2026-06-15"
 flags: ["unverified"]
 risk_notes: "導入・生成・プレビューは未実行。出力品質、複雑なシーンや各再生環境での互換性、参照動画からの再現、対応ランタイムの最低バージョン、エージェント側の料金は未検証。"
-stars: 5716
-forks: 302
+stars: 5763
+forks: 304
 open_issues: 2
 size_kb: 5000
 language: "TypeScript"
@@ -23,7 +23,7 @@ type: "repo"
 added: "2026-11-10"
 first_seen: "2026-11-10"
 sources: ["https://x.com/CryptooGG_/status/2119312343892976064"]
-fetched_at: "2026-11-10T12:08:08+00:00"
+fetched_at: "2026-11-16T21:32:40Z"
 ---
 
 # Text-to-Lottie — コーディングエージェントで Lottie JSON を作成・編集

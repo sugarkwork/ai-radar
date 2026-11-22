@@ -4,13 +4,13 @@ genre: "agent-framework"
 url: "https://github.com/activepieces/activepieces"
 repo: "activepieces/activepieces"
 license: "unknown"
-stars: 25479
-forks: 4454
-open_issues: 922
-size_kb: 1055172
+stars: 25568
+forks: 4476
+open_issues: 959
+size_kb: 1059844
 language: "TypeScript"
 created: "2022-12-03"
-updated: "2026-11-11"
+updated: "2026-11-16"
 archived: false
 commits_30d: 100
 commits_90d: 100
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-11"
 first_seen: "2026-11-11"
 sources: ["https://x.com/thegreatest_sv/status/2118325722850697573"]
-fetched_at: "2026-11-11T19:06:06.076343+00:00"
+fetched_at: "2026-11-16T21:35:45Z"
+last_release: "0.93.0"
+last_release_at: "2026-11-08"
 ---
 
 # Activepieces

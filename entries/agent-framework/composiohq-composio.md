@@ -4,16 +4,16 @@ genre: "agent-framework"
 url: "https://github.com/ComposioHQ/composio"
 repo: "ComposioHQ/composio"
 license: "MIT"
-stars: 31014
+stars: 31110
 language: "TypeScript"
 created: "2024-02-23"
-updated: "2026-11-10"
-forks: 4935
-open_issues: 141
+updated: "2026-11-16"
+forks: 4955
+open_issues: 142
 commits_30d: 100
 commit_cadence: "daily"
 commits_90d: 100
-size_kb: 484550
+size_kb: 513272
 archived: false
 flags: ["unverified"]
 risk_notes: "利用にはCOMPOSIO_API_KEYが必要とREADMEに記載。README記載の機能や規模について独立した検証はしていない。"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-11"
 first_seen: "2026-11-11"
 sources: ["https://x.com/thegreatest_sv/status/2118043980420030914"]
-fetched_at: "2026-11-10T16:22:48.093539+00:00"
+fetched_at: "2026-11-16T21:37:15Z"
+last_release: "@composio/cli@0.6.2"
+last_release_at: "2026-11-16"
 ---
 
 # Composio

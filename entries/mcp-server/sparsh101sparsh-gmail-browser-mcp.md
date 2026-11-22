@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-14"
 first_seen: "2026-11-14"
 sources: ["https://x.com/issparssh/status/2121389152768008212"]
-fetched_at: "2026-11-14T01:10:47Z"
+fetched_at: "2026-11-16T21:55:24Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # gmail-browser-mcp

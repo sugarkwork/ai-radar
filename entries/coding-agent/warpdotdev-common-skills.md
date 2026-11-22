@@ -4,16 +4,16 @@ name: "Common Skills"
 genre: "coding-agent"
 url: "https://github.com/warpdotdev/common-skills"
 license: "MIT"
-stars: 686
+stars: 705
 language: "Python"
 created: "2026-04-30"
-updated: "2026-10-28"
-forks: 44
-open_issues: 45
+updated: "2026-11-11"
+forks: 51
+open_issues: 49
 commits_30d: 2
 commit_cadence: "monthly"
-commits_90d: 20
-size_kb: 1022
+commits_90d: 15
+size_kb: 1024
 archived: false
 flags: ["unverified"]
 risk_notes: "評価精度、レビュー時間の短縮効果、導入コマンドの実動作、ホスト環境ごとの互換性、最新リリースは未確認。"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-10"
 first_seen: "2026-11-10"
 sources: ["https://x.com/sumika45379/status/2115643537048154583"]
-fetched_at: "2026-11-10T12:28:27+00:00"
+fetched_at: "2026-11-16T21:48:12Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # Warp Common Skills — /merge-risk でPRのマージリスクを5観点から確認

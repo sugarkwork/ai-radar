@@ -5,7 +5,7 @@ genre: 3d-motion
 url: https://github.com/VAST-AI-Research/UniRig
 author: VAST-AI-Research（清華大学 + Tripo）
 license: MIT
-stars: 2081
+stars: 2146
 language: Python
 created: 2025-04-08
 updated: "2026-06-04"
@@ -16,14 +16,14 @@ sources:
   - https://zjp-shadow.github.io/works/UniRig/
   - https://arxiv.org/abs/2504.12451
   - https://github.com/VAST-AI-Research/SkinTokens
-forks: 206
-open_issues: 28
+forks: 211
+open_issues: 27
 commits_30d: 0
 commits_90d: 0
 commit_cadence: "stale"
 size_kb: 22338
 archived: false
-fetched_at: "2026-11-09T21:31:53Z"
+fetched_at: "2026-11-16T21:35:22Z"
 last_release: ""
 last_release_at: ""
 ---

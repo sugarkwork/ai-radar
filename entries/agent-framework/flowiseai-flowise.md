@@ -5,9 +5,9 @@ url: "https://github.com/FlowiseAI/Flowise"
 flags: ["unverified"]
 risk_notes: "READMEにリポジトリがアーカイブ済みと明記されています。GitHub APIのライセンス値はunknownですが、READMEはApache License Version 2.0と記載しています。 GitHub APIでライセンスを確認できていません。"
 repo: "FlowiseAI/Flowise"
-stars: 55567
-forks: 25094
-open_issues: 1038
+stars: 55570
+forks: 25095
+open_issues: 1033
 size_kb: 82933
 language: "TypeScript"
 created: "2023-03-31"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-11"
 first_seen: "2026-11-11"
 sources: ["https://x.com/thegreatest_sv/status/2118325722850697573"]
-fetched_at: "2026-11-11T19:07:07.502531+00:00"
+fetched_at: "2026-11-16T21:37:58Z"
+last_release: "flowise@3.1.4"
+last_release_at: "2026-07-29"
 ---
 
 # Flowise

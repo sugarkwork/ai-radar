@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-15"
 first_seen: "2026-11-15"
 sources: ["https://x.com/abdullahformuli/status/2118982549833949493"]
-fetched_at: "2026-11-15T03:13:09.290106+00:00"
+fetched_at: "2026-11-16T21:42:43Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # ChrisHKAI-Video

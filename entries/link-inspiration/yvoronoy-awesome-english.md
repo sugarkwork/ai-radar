@@ -3,9 +3,9 @@ name: "Awesome English"
 genre: "link-inspiration"
 url: "https://github.com/yvoronoy/awesome-english"
 repo: "yvoronoy/awesome-english"
-stars: 4539
-forks: 470
-open_issues: 8
+stars: 4557
+forks: 474
+open_issues: 11
 size_kb: 200
 language: "HTML"
 created: "2016-05-07"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-13"
 first_seen: "2026-11-13"
 sources: ["https://x.com/bkdgiffug/status/2118684825632792642"]
-fetched_at: "2026-11-13T16:13:01.655359+00:00"
+fetched_at: "2026-11-16T21:53:33Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # Awesome English

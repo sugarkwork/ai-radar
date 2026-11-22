@@ -4,15 +4,15 @@ name: "VidStab"
 genre: "other"
 url: "https://github.com/georgmartius/vid.stab"
 license: "unknown"
-stars: 991
+stars: 996
 language: "C"
 created: "2011-11-24"
 updated: "2026-08-14"
 forks: 126
 open_issues: 10
 commits_30d: 0
-commit_cadence: "monthly"
-commits_90d: 23
+commit_cadence: "stale"
+commits_90d: 0
 size_kb: 1748
 archived: false
 last_release: "v1.1.2"
@@ -22,7 +22,8 @@ type: "repo"
 added: "2026-11-10"
 first_seen: "2026-11-10"
 sources: ["https://x.com/RealMarvelX/status/2117612832019689696"]
-fetched_at: "2026-11-10T09:50:37Z"
+fetched_at: "2026-11-16T22:00:36Z"
+last_release_at: "2026-07-29"
 ---
 
 # VidStabで手持ち動画の揺れを補正する

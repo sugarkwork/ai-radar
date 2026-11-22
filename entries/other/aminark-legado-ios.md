@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-16"
 first_seen: "2026-11-16"
 sources: ["https://x.com/fhwofjow51260/status/2119052219882647575"]
-fetched_at: "2026-11-16T11:21:48.508436+00:00"
+fetched_at: "2026-11-16T21:58:34Z"
+last_release: "v0.1.15"
+last_release_at: "2026-11-13"
 ---
 
 # 小浣熊阅读

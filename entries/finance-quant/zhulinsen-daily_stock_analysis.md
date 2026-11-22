@@ -4,16 +4,16 @@ genre: "finance-quant"
 url: "https://github.com/ZhuLinsen/daily_stock_analysis"
 repo: "ZhuLinsen/daily_stock_analysis"
 license: "MIT"
-stars: 69545
+stars: 72786
 language: "Python"
 created: "2026-01-10"
-updated: "2026-11-10"
-forks: 56670
-open_issues: 43
-commits_30d: 34
+updated: "2026-11-16"
+forks: 57667
+open_issues: 35
+commits_30d: 48
 commit_cadence: "daily"
 commits_90d: 100
-size_kb: 120431
+size_kb: 122079
 archived: false
 flags: ["unverified"]
 risk_notes: "READMEの説明や掲載例は独立検証された性能・投資効果を示すものではありません。実際の分析精度や各データソースの利用条件・料金はREADMEだけでは確認できません。"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-11"
 first_seen: "2026-11-11"
 sources: ["https://x.com/GitTrend0x/status/2119950747898974362"]
-fetched_at: "2026-11-10T23:13:53.629808+00:00"
+fetched_at: "2026-11-16T21:51:31Z"
+last_release: "v3.35.0"
+last_release_at: "2026-11-16"
 ---
 
 # 股票智能分析系统（daily_stock_analysis）

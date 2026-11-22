@@ -4,11 +4,11 @@ genre: "coding-agent"
 url: "https://github.com/dotslashsimran/simcraft"
 repo: "dotslashsimran/simcraft"
 license: "MIT"
-stars: 418
+stars: 470
 language: "Python"
 created: "2026-11-05"
 updated: "2026-11-09"
-forks: 32
+forks: 36
 open_issues: 0
 commits_30d: 3
 commit_cadence: "monthly"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-14"
 first_seen: "2026-11-14"
 sources: ["https://x.com/GitTrend0x/status/2121566394286248121"]
-fetched_at: "2026-11-14T15:08:43.304309+00:00"
+fetched_at: "2026-11-16T21:43:58Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # simcraft

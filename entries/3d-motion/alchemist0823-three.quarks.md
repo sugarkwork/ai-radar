@@ -5,9 +5,9 @@ url: "https://github.com/Alchemist0823/three.quarks"
 flags: ["unverified"]
 risk_notes: "GitHubの最新リリースと公開日は未確認。バッチ描画による描画呼び出し削減は作者の説明に基づき、削減量やフレームレートは未計測。Three.jsの対応バージョン範囲とAIエージェントとの連携動作も未検証。"
 repo: "Alchemist0823/three.quarks"
-stars: 1192
-forks: 76
-open_issues: 13
+stars: 1222
+forks: 81
+open_issues: 14
 size_kb: 9601
 language: "TypeScript"
 created: "2019-06-16"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-10"
 first_seen: "2026-11-10"
 sources: ["https://x.com/okapi_fukugyo/status/2117616982518559161"]
-fetched_at: "2026-11-10T09:56:09Z"
+fetched_at: "2026-11-16T21:31:54Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # three.quarks — Three.js向けパーティクルVFXライブラリ

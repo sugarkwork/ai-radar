@@ -5,9 +5,9 @@ genre: "image-gen"
 url: "https://github.com/anhao/ai-pose-gallery-zh"
 flags: ["unverified"]
 risk_notes: "README に基づく。デモと各生成連携の動作、生成品質、クラウド API の料金、素材ごとの許諾、最新リリースは未確認。 GitHub APIでライセンスを確認できていません。"
-stars: 6608
-forks: 1670
-open_issues: 14
+stars: 7097
+forks: 1809
+open_issues: 17
 size_kb: 1170001
 language: "TypeScript"
 created: "2026-10-27"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-10"
 first_seen: "2026-11-10"
 sources: ["https://x.com/ganfanren_ai/status/2118493023164334541"]
-fetched_at: "2026-11-10T10:04:41Z"
+fetched_at: "2026-11-16T21:51:38Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # ポーズ・衣装・人物の参照画像を組み合わせる中国語ワークベンチ

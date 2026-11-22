@@ -5,7 +5,7 @@ url: "https://github.com/Teddarific/skills"
 repo: "Teddarific/skills"
 flags: ["unverified"]
 risk_notes: "README記載のインストール方法や実行条件は未検証です。ライセンスはAPIでunknownと確認されています。 GitHub APIでライセンスを確認できていません。"
-stars: 18
+stars: 19
 forks: 1
 open_issues: 1
 size_kb: 8468
@@ -14,14 +14,16 @@ created: "2026-10-14"
 updated: "2026-10-14"
 archived: false
 license: "unknown"
-commits_30d: 3
+commits_30d: 0
 commits_90d: 3
 commit_cadence: "monthly"
 type: "repo"
 added: "2026-11-11"
 first_seen: "2026-11-11"
 sources: ["https://x.com/sumika45379/status/2116730700246417903"]
-fetched_at: "2026-11-10T13:57:40.480867+00:00"
+fetched_at: "2026-11-16T21:47:52Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # Teddarific/skills

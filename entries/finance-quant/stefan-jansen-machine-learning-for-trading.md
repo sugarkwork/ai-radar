@@ -4,23 +4,23 @@ name: "machine-learning-for-trading"
 genre: finance-quant
 url: "https://github.com/stefan-jansen/machine-learning-for-trading"
 license: "MIT"
-stars: 21767
+stars: 21838
 language: "Jupyter Notebook"
 created: "2018-05-09"
-updated: "2026-11-06"
+updated: "2026-11-13"
 added: "2026-11-03"
 first_seen: "2026-11-03"
 sources: []
 flags: []
 risk_notes: ""
-forks: 5767
+forks: 5789
 open_issues: 0
-commits_30d: 22
-commit_cadence: "daily"
-size_kb: 1294435
+commits_30d: 18
+commit_cadence: "weekly"
+size_kb: 1294740
 archived: false
 commits_90d: 100
-fetched_at: "2026-11-09T21:37:55Z"
+fetched_at: "2026-11-16T21:51:06Z"
 last_release: "v3.1.0-artifacts"
 last_release_at: "2026-09-20"
 ---

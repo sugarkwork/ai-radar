@@ -4,16 +4,16 @@ name: "Ollaya"
 genre: "model-serving"
 url: "https://github.com/ollaya-dev/ollaya"
 license: "Apache-2.0"
-stars: 1454
+stars: 1468
 language: "Rust"
 created: "2026-09-23"
-updated: "2026-11-06"
-forks: 90
-open_issues: 10
-commits_30d: 100
+updated: "2026-11-10"
+forks: 92
+open_issues: 15
+commits_30d: 98
 commit_cadence: "daily"
 commits_90d: 100
-size_kb: 10442
+size_kb: 9759
 archived: false
 flags: ["unverified"]
 risk_notes: "速度・精度は開発元の公開測定で、今回の調査では再実行していない。個別ワークロードでの精度、遅延、費用削減、各モデルの利用条件は未確認。GitHubの最新版リンクはv0.18.0を返したが、mainのREADMEには0.19.0の測定への言及があり、最新リリースのタグと公開日時は確定していない。"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-11"
 first_seen: "2026-11-11"
 sources: ["https://x.com/thegreatest_sv/status/2116142322543198271"]
-fetched_at: "2026-11-10T12:57:09Z"
+fetched_at: "2026-11-16T21:57:16Z"
+last_release: "v0.18.0"
+last_release_at: "2026-10-25"
 ---
 
 # Ollaya — 判断モデルをローカルで配信するJev互換サーバー

@@ -3,13 +3,13 @@ name: "CrewAI"
 genre: "agent-framework"
 url: "https://github.com/crewAIInc/crewAI"
 repo: "crewAIInc/crewAI"
-stars: 60778
-forks: 9154
-open_issues: 1251
-size_kb: 309466
+stars: 60992
+forks: 9209
+open_issues: 1261
+size_kb: 307915
 language: "Python"
 created: "2023-10-27"
-updated: "2026-11-11"
+updated: "2026-11-16"
 archived: false
 license: "MIT"
 commits_30d: 100
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-11"
 first_seen: "2026-11-11"
 sources: ["https://x.com/thegreatest_sv/status/2118325722850697573"]
-fetched_at: "2026-11-11T19:06:34.505322+00:00"
+fetched_at: "2026-11-16T21:37:18Z"
+last_release: "1.15.41"
+last_release_at: "2026-11-12"
 ---
 
 # CrewAI

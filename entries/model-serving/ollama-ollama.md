@@ -3,16 +3,16 @@ name: "Ollama"
 genre: "model-serving"
 url: "https://github.com/ollama/ollama"
 repo: "ollama/ollama"
-stars: 186907
-forks: 19075
-open_issues: 4654
-size_kb: 97750
+stars: 187256
+forks: 19113
+open_issues: 4669
+size_kb: 97755
 language: "Go"
 created: "2023-06-26"
-updated: "2026-11-14"
+updated: "2026-11-16"
 archived: false
 license: "MIT"
-commits_30d: 98
+commits_30d: 85
 commits_90d: 100
 commit_cadence: "daily"
 flags: ["unverified"]
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-14"
 first_seen: "2026-11-14"
 sources: ["https://x.com/bkdgiffug/status/2118778945424212086"]
-fetched_at: "2026-11-14T05:16:36.070001+00:00"
+fetched_at: "2026-11-16T21:57:12Z"
+last_release: "v0.40.16"
+last_release_at: "2026-11-09"
 ---
 
 # Ollama

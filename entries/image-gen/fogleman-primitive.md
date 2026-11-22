@@ -3,7 +3,7 @@ name: "Primitive Pictures"
 genre: "image-gen"
 url: "https://github.com/fogleman/primitive"
 repo: "fogleman/primitive"
-stars: 13594
+stars: 13597
 forks: 671
 open_issues: 55
 size_kb: 2348
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-14"
 first_seen: "2026-11-14"
 sources: ["https://x.com/awe0_io/status/2118741744045146377"]
-fetched_at: "2026-11-14T00:14:10.193556+00:00"
+fetched_at: "2026-11-16T21:51:57Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # Primitive Pictures

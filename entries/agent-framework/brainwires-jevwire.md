@@ -4,16 +4,16 @@ genre: "agent-framework"
 url: "https://github.com/Brainwires/jevwire"
 repo: "Brainwires/jevwire"
 stars: 27
-forks: 6
-open_issues: 1
-size_kb: 3243
+forks: 5
+open_issues: 0
+size_kb: 3836
 language: "TypeScript"
 created: "2026-09-17"
-updated: "2026-11-06"
+updated: "2026-11-12"
 archived: false
 license: "MIT"
-commits_30d: 11
-commits_90d: 43
+commits_30d: 17
+commits_90d: 49
 commit_cadence: "weekly"
 flags: ["unverified"]
 risk_notes: "一次資料で未確認: 技術背景・有効性・依存関係・実行条件。"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-11"
 first_seen: "2026-11-11"
 sources: ["https://x.com/GitTrend0x/status/2120147118237114757"]
-fetched_at: "2026-11-11T06:11:40.668057+00:00"
+fetched_at: "2026-11-16T21:36:44Z"
+last_release: "v0.7.2"
+last_release_at: "2026-11-12"
 ---
 
 # jevwire

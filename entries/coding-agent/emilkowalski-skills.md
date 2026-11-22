@@ -3,17 +3,17 @@ repo: "emilkowalski/skills"
 name: "Skills for Designers and Engineers"
 genre: "coding-agent"
 url: "https://github.com/emilkowalski/skills"
-stars: 55592
-forks: 3238
-open_issues: 1
-size_kb: 230
+stars: 57448
+forks: 3375
+open_issues: 2
+size_kb: 342
 language: "Markdown"
 created: "2026-03-16"
-updated: "2026-11-09"
+updated: "2026-11-15"
 archived: false
 license: "MIT"
-commits_30d: 8
-commits_90d: 16
+commits_30d: 12
+commits_90d: 21
 commit_cadence: "weekly"
 flags: ["unverified"]
 risk_notes: "公開文書を確認した。インストールと呼び出しの動作、対応バージョン、導入による品質・性能の改善、エージェント側の料金は未確認。発見投稿のダッシュボードは技術的根拠に含めていない。READMEは公開raw URLで確認した。"
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-10"
 first_seen: "2026-11-10"
 sources: ["https://x.com/thegreatest_sv/status/2117998992126591399"]
-fetched_at: "2026-11-10T11:22:38Z"
+fetched_at: "2026-11-16T21:44:11Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # Emil KowalskiのUIアニメーション設計・レビュー用Agent Skills

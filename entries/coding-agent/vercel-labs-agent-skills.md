@@ -3,17 +3,17 @@ repo: "vercel-labs/agent-skills"
 name: "Vercel Agent Skills"
 genre: "coding-agent"
 url: "https://github.com/vercel-labs/agent-skills"
-stars: 33817
-forks: 2956
-open_issues: 196
-size_kb: 11754
+stars: 34200
+forks: 2985
+open_issues: 199
+size_kb: 11801
 language: "JavaScript"
 created: "2025-12-08"
-updated: "2026-10-28"
+updated: "2026-11-12"
 archived: false
 license: "unknown"
 commits_30d: 5
-commits_90d: 23
+commits_90d: 17
 commit_cadence: "weekly"
 last_release: "agent-skills-1a2c79d4e6c4a2283dc2c614b6538cbe1ed5ca62"
 flags: ["unverified"]
@@ -22,7 +22,8 @@ type: "repo"
 added: "2026-11-10"
 first_seen: "2026-11-10"
 sources: ["https://x.com/thegreatest_sv/status/2117998992126591399"]
-fetched_at: "2026-11-10T11:21:32+00:00"
+fetched_at: "2026-11-16T21:48:03Z"
+last_release_at: "2026-10-27"
 ---
 
 # Vercel Agent SkillsでReactの性能とWeb UIをレビューする

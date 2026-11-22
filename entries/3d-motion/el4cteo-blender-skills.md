@@ -3,26 +3,27 @@ repo: "EL4CTEO/blender-skills"
 name: "Blender Agent Skills"
 genre: "3d-motion"
 url: "https://github.com/EL4CTEO/blender-skills"
-last_release: "v1.2.0"
+last_release: "v1.3.1"
 flags: ["unverified"]
 risk_notes: "テスト通過は公開リリースでの作者報告。テストの再実行、生成物の品質差、投稿の羊牧場の制作・レンダリング時間、各エージェントやMCP構成での実動作は未検証。リリースの年とタイムゾーンを含む公開日時は未確認。"
-stars: 933
-forks: 89
+stars: 1343
+forks: 130
 open_issues: 1
-size_kb: 6042
+size_kb: 6084
 language: "Python"
 created: "2026-10-14"
-updated: "2026-11-07"
+updated: "2026-11-13"
 archived: false
 license: "MIT"
-commits_30d: 9
-commits_90d: 9
+commits_30d: 7
+commits_90d: 13
 commit_cadence: "weekly"
 type: "repo"
 added: "2026-11-10"
 first_seen: "2026-11-10"
 sources: ["https://x.com/Y0urDumble/status/2115534594854551771"]
-fetched_at: "2026-11-10T12:24:07+00:00"
+fetched_at: "2026-11-16T21:32:51Z"
+last_release_at: "2026-11-13"
 ---
 
 # Blender Agent Skills — Blender制作工程をAIエージェントから使う

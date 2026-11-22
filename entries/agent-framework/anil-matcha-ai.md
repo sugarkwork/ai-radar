@@ -5,7 +5,7 @@ url: "https://github.com/Anil-matcha/ai"
 flags: ["unverified"]
 risk_notes: "READMEにライセンスの記載がなく、利用条件は確認できません。 GitHub APIでライセンスを確認できていません。"
 repo: "Anil-matcha/ai"
-stars: 18
+stars: 19
 forks: 4
 open_issues: 0
 size_kb: 265635
@@ -21,7 +21,9 @@ type: "repo"
 added: "2026-11-13"
 first_seen: "2026-11-13"
 sources: ["https://x.com/I_am_Aiabir/status/2118731208578478546"]
-fetched_at: "2026-11-13T04:09:25.273794+00:00"
+fetched_at: "2026-11-16T21:36:00Z"
+last_release: ""
+last_release_at: ""
 ---
 
 # AI SDK
