@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1341 件 — リポジトリ 940, リンク集 120, 記事 214, モデル 53, プロンプト 14 / ⚑ 要確認 1082 件
+収録 1342 件 — リポジトリ 941, リンク集 120, 記事 214, モデル 53, プロンプト 14 / ⚑ 要確認 1083 件
 
-## リポジトリ（940）
+## リポジトリ（941）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（209）
+### その他（210）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -184,6 +184,7 @@
 | [Orfeo](entries/other/squarebow-orfeo.md) ⚑ | 723 | 58 | 毎日 | 100+ | 2026-11-13 | 2026-11-13 | 2026-11-13 | GPL-3.0 |
 | [Awesome AI Pedia](entries/other/awesome-ai-pedia-awesome-ai-pedia.md) ⚑ | 721 | 70 | 週次 | 14 | 2026-11-12 | 2026-11-16 | 2026-11-22 | MIT |
 | [color-matcher](entries/other/hahnec-color-matcher.md) ⚑ | 710 | 50 | 停滞 | 0 | 2026-02-24 | 2026-11-16 | 2026-11-22 | GPL-3.0 |
+| [PyBreaker](entries/other/danielfm-pybreaker.md) ⚑ | 702 | 97 | 停滞 | 0 | 2026-09-25 | 2026-11-17 | 2026-11-22 | BSD-3-Clause |
 | [Enterprise System Design](entries/other/drhazemali-enterprise-system-design.md) ⚑ | 660 | 135 | 月次 | 0 | 2026-11-12 | 2026-11-16 | 2026-11-22 | unknown |
 | [NamiAgent](entries/other/aa1143-namiagent.md) ⚑ | 536 | 57 | 毎日 | 20 | 2026-10-30 | 2026-11-16 | 2026-11-22 | MIT |
 | [Pixel Plays](entries/other/amirmushichge-pixel-plays.md) ⚑ | 519 | 51 | 月次 | 2 | 2026-10-31 | 2026-11-16 | 2026-11-22 | MIT |
@@ -2585,6 +2586,7 @@
 - [Orfeo](entries/other/squarebow-orfeo.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Awesome AI Pedia](entries/other/awesome-ai-pedia-awesome-ai-pedia.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [color-matcher](entries/other/hahnec-color-matcher.md) — unverified / 著者による手法比較の独立再現、映像の時間方向の一貫性、現行環境での動作は未検証。GitHub は v0.5.0 を Latest と表示し、PyPI は 0.6.0 を掲載している。GitHub リリースの年を含む公開日は未確認。
+- [PyBreaker](entries/other/danielfm-pybreaker.md) — unverified / 一次資料で未確認: 有効性・依存関係。
 - [Enterprise System Design](entries/other/drhazemali-enterprise-system-design.md) — unverified / READMEにライセンス条件の記載がなく、ライセンスは確認できていません。 GitHub APIでライセンスを確認できていません。
 - [NamiAgent](entries/other/aa1143-namiagent.md) — unverified / 最新リリース、テストの成功、デモと実モデルの動作、権限機構の実効性、モデルAPIの料金は未確認。著者は、権限機構で意図的な攻撃を防げないと明記している。
 - [Pixel Plays](entries/other/amirmushichge-pixel-plays.md) — unverified / ['候補投稿が言及するClaude Opus 5.5の使用は、作者投稿を取得できなかったため未確認。最新リリース、ブラウザでの動作・性能、別題材への改変結果も未確認。']

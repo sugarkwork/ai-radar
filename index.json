@@ -1,5 +1,5 @@
 {
-  "count": 1341,
+  "count": 1342,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -29564,6 +29564,37 @@
       "fetched_at": "2026-11-16T22:01:05Z",
       "path": "entries/other/hahnec-color-matcher.md",
       "summary": "参照画像の色分布を入力画像に転写する。CLI では単一画像のほか、入力ディレクトリを指定した一括処理もできる。"
+    },
+    {
+      "name": "PyBreaker",
+      "genre": "other",
+      "url": "https://github.com/danielfm/pybreaker",
+      "repo": "danielfm/pybreaker",
+      "license": "BSD-3-Clause",
+      "stars": 702,
+      "language": "Python",
+      "created": "2010-10-17",
+      "updated": "2026-09-25",
+      "forks": 97,
+      "open_issues": 29,
+      "commits_30d": 0,
+      "commit_cadence": "stale",
+      "commits_90d": 1,
+      "size_kb": 186,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 有効性・依存関係。",
+      "type": "repo",
+      "added": "2026-11-22",
+      "first_seen": "2026-11-22",
+      "sources": [
+        "https://x.com/irongiantXBT/status/2122709093102285099"
+      ],
+      "fetched_at": "2026-11-17T23:22:20.934365+00:00",
+      "path": "entries/other/danielfm-pybreaker.md",
+      "summary": "危険な外部連携処理をCircuit Breakerで保護するPython実装。失敗閾値とリセット時間の設定、例外の除外、イベントリスナー、ジェネレーター関数の保護、状態の監視・管理に対応するとREADMEに記載されています。Redisによる状態保存とTornado非同期呼び出しはオプションです。"
     },
     {
       "name": "Enterprise System Design",
