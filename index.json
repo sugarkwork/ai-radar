@@ -1,5 +1,5 @@
 {
-  "count": 1316,
+  "count": 1317,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -8230,6 +8230,24 @@
       ],
       "risk_notes": "X の記事取得でコードブロック（プロンプト雛形・位置合わせスクリプト・Blender スクリプト）が欠落。数値は著者の自己申告で独立検証なし。",
       "path": "articles/2026-10-28-mukadeshinigami-pbr-textures.md"
+    },
+    {
+      "name": "1通貨から取引できるFX会社4社比較｜松井証券FX・SBI FXトレードなど",
+      "genre": "article",
+      "url": "https://snowkeyfx.com/fxcompany-comparison/22052/",
+      "published": "2026-08-13",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "取引条件は変更される可能性があり、記事の比較条件は2026年10月12日時点。各社の最新条件は公式資料で未確認。",
+      "type": "article",
+      "added": "2026-11-22",
+      "first_seen": "2026-11-22",
+      "sources": [
+        "https://x.com/snowkey_ameba/status/2122686164079616213"
+      ],
+      "fetched_at": "2026-11-17T14:13:00.609270+00:00",
+      "path": "articles/2026-08-13-author-1-fx-4-fx-sbi-fx.md"
     },
     {
       "name": "4回に1回に間引いても平均は50%——大数の法則と「選別」の境界",
