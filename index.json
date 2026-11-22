@@ -1,5 +1,5 @@
 {
-  "count": 1285,
+  "count": 1286,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -22827,6 +22827,37 @@
       "last_release_at": "",
       "path": "entries/model-serving/miaai-lab-glm-5.3-flash-dgx-sparks.md",
       "summary": "GLM-5.3-Flash（zai-org/GLM-5.3-Flash、MIT）を、DGX Spark 2台で動かすための配備レシピ。"
+    },
+    {
+      "name": "tqLLM",
+      "genre": "model-serving",
+      "url": "https://github.com/turbo-tan/tqllm",
+      "repo": "turbo-tan/tqllm",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEの1.6.0記載では、Qwen3.5/3.6のMoE GGUFは未検証。MoEモデルはネイティブWindowsで動作せず、WSL 2が必要。",
+      "stars": 131,
+      "forks": 17,
+      "open_issues": 10,
+      "size_kb": 20198,
+      "language": "C++",
+      "created": "2026-10-02",
+      "updated": "2026-11-16",
+      "archived": false,
+      "license": "Apache-2.0",
+      "commits_30d": 46,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "type": "repo",
+      "added": "2026-11-22",
+      "first_seen": "2026-11-22",
+      "sources": [
+        "https://x.com/NFT_Chen/status/2119152668119892110"
+      ],
+      "fetched_at": "2026-11-17T04:18:33.018458+00:00",
+      "path": "entries/model-serving/turbo-tan-tqllm.md",
+      "summary": "Qwen系モデルとTurboQuant GGUF重みをNVIDIA GPU（CUDA）およびApple Silicon（Metal）で推論し、OpenAI互換HTTPサーバーとして提供する。READMEは、対応モデルの一覧、ローカル実行、複数GPU・複数マシン利用、リクエスト状況を表示するモニターを案内している。"
     },
     {
       "repo": "midagedev/bloomery",
