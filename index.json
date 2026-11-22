@@ -1,5 +1,5 @@
 {
-  "count": 1298,
+  "count": 1299,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -4172,6 +4172,37 @@
       "commits_90d": 3,
       "path": "entries/agent-framework/cloudflare-security-audit-skill.md",
       "summary": "コーディングエージェントを「セキュリティ監査者」に変える Agent Skill。リポジトリ/API/サービス/CLI/ライブラリ/デーモンを、偵察 → カバレッジ主導の探索 → 候補の反証検証 → 構造化出力 → 独立レコード検証 → 対象非依存レポートの6フェーズで回す。"
+    },
+    {
+      "name": "Mem0",
+      "genre": "agent-framework",
+      "url": "https://github.com/mem0ai/mem0",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "ベンチマーク値はMem0の管理プラットフォームでの結果で、READMEはオープンソース版では同一の数値にならないと説明している。",
+      "repo": "mem0ai/mem0",
+      "stars": 69090,
+      "forks": 8224,
+      "open_issues": 959,
+      "size_kb": 69585,
+      "language": "Python",
+      "created": "2023-06-20",
+      "updated": "2026-11-17",
+      "archived": false,
+      "license": "Apache-2.0",
+      "commits_30d": 7,
+      "commits_90d": 85,
+      "commit_cadence": "weekly",
+      "type": "repo",
+      "added": "2026-11-22",
+      "first_seen": "2026-11-22",
+      "sources": [
+        "https://x.com/RoundtableSpace/status/2119161717586366650"
+      ],
+      "fetched_at": "2026-11-17T06:30:38.950239+00:00",
+      "path": "entries/agent-framework/mem0ai-mem0.md",
+      "summary": "AIアシスタントやエージェントに記憶レイヤーを追加し、ユーザー、セッション、エージェントの状態を保持する。READMEは、ユーザーの好みの記憶や、過去の会話・サポート履歴を用いた応答などを用途として挙げている。"
     },
     {
       "name": "CrewAI",
