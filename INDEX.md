@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1283 件 — リポジトリ 887, リンク集 120, 記事 209, モデル 53, プロンプト 14 / ⚑ 要確認 1030 件
+収録 1284 件 — リポジトリ 888, リンク集 120, 記事 209, モデル 53, プロンプト 14 / ⚑ 要確認 1031 件
 
-## リポジトリ（887）
+## リポジトリ（888）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（186）
+### その他（187）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Screenbox](entries/other/huynhsontung-screenbox.md) ⚑ | 4,704 | 222 | 毎日 | 20 | 2026-11-16 | 2026-11-16 | 2026-11-22 | GPL-3.0 |
 | [terminal-browser](entries/other/zenbu-labs-terminal-browser.md) | 4,690 | 243 | 毎日 | 96 | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
 | [Create](entries/other/creators-of-create-create.md) ⚑ | 4,621 | 1,449 | 週次 | 19 | 2026-11-15 | 2026-11-16 | 2026-11-22 | unknown |
+| [EmulatorJS](entries/other/emulatorjs-emulatorjs.md) ⚑ | 4,351 | 1,037 | 週次 | 5 | 2026-10-21 | 2026-11-17 | 2026-11-22 | GPL-3.0 |
 | [Storyboarder](entries/other/wonderunit-storyboarder.md) ⚑ | 3,946 | 404 | 停滞 | 0 | 2024-03-17 | 2026-11-11 | 2026-11-11 | unknown |
 | [Marp CLI](entries/other/marp-team-marp-cli.md) ⚑ | 3,922 | 207 | 月次 | 0 | 2026-09-08 | 2026-11-15 | 2026-11-15 | MIT |
 | [TweenJS](entries/other/createjs-tweenjs.md) ⚑ | 3,568 | 940 | 停滞 | 0 | 2023-12-18 | 2026-11-16 | 2026-11-22 | MIT |
@@ -2437,6 +2438,7 @@
 - [Y2A-Auto](entries/other/fqscfqj-y2a-auto.md) — unverified / The supplied README does not establish what permissions or platform terms apply to reposting videos; verify these before use.
 - [Screenbox](entries/other/huynhsontung-screenbox.md) — unverified / 一次資料で未確認: 実行条件。
 - [Create](entries/other/creators-of-create-create.md) — unverified / READMEには対応するMinecraftやmodローダーのバージョン、具体的な導入条件が記載されていない。 GitHub APIでライセンスを確認できていません。
+- [EmulatorJS](entries/other/emulatorjs-emulatorjs.md) — unverified / 一次資料で未確認: 依存関係。
 - [Storyboarder](entries/other/wonderunit-storyboarder.md) — unverified / ライセンスは確認できていません（GitHub API値: unknown）。 GitHub APIでライセンスを確認できていません。
 - [Marp CLI](entries/other/marp-team-marp-cli.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [TweenJS](entries/other/createjs-tweenjs.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。

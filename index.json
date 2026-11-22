@@ -1,5 +1,5 @@
 {
-  "count": 1283,
+  "count": 1284,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -26564,6 +26564,37 @@
       "last_release_at": "2026-04-21",
       "path": "entries/other/creators-of-create-create.md",
       "summary": "Minecraftに、建築・装飾・見た目を重視した自動化のためのツールとブロックを追加する。アニメーションする部品を組み合わせた装置を、さまざまな構成で作れる。ゲーム内のビジュアルドキュメント「Ponder」が追加された仕組みや装置を案内する。出典: https://github.com/Creators-of-Cre"
+    },
+    {
+      "name": "EmulatorJS",
+      "genre": "other",
+      "url": "https://github.com/EmulatorJS/EmulatorJS",
+      "repo": "EmulatorJS/EmulatorJS",
+      "stars": 4351,
+      "forks": 1037,
+      "open_issues": 122,
+      "size_kb": 665416,
+      "language": "JavaScript",
+      "created": "2021-04-05",
+      "updated": "2026-10-21",
+      "archived": false,
+      "license": "GPL-3.0",
+      "commits_30d": 5,
+      "commits_90d": 28,
+      "commit_cadence": "weekly",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 依存関係。",
+      "type": "repo",
+      "added": "2026-11-22",
+      "first_seen": "2026-11-22",
+      "sources": [
+        "https://x.com/dextune/status/2119142849551986784"
+      ],
+      "fetched_at": "2026-11-17T03:15:13.292263+00:00",
+      "path": "entries/other/emulatorjs-emulatorjs.md",
+      "summary": "複数のレガシーゲーム機やアーケード機向けのJavaScriptエミュレーションを、自身のプロジェクトにライブラリ／プラグインとして組み込めます。対応コアの全一覧はREADMEから案内されているコア文書を参照してください。出典: https://github.com/EmulatorJS/EmulatorJS"
     },
     {
       "name": "Storyboarder",
