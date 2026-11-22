@@ -1,5 +1,5 @@
 {
-  "count": 1329,
+  "count": 1330,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -31654,6 +31654,37 @@
       "type": "repo",
       "path": "entries/prompt-design/yang0-handraw-style.md",
       "summary": "手描きイラスト〜写実写真までの **365種の画風**（FA〜FI の分類番号と 001〜365 の通し番号）、**170種のレイアウト型**（SNSカード24 / データ infographic 38 / 漫画コマ割り71 / IP デザイン13 / EC 用24）、**36種の単色テーマ**を番号で選び、中英バイリ"
+    },
+    {
+      "name": "LLMLingua",
+      "genre": "prompt-design",
+      "url": "https://github.com/microsoft/LLMLingua",
+      "repo": "microsoft/LLMLingua",
+      "stars": 6828,
+      "forks": 454,
+      "open_issues": 124,
+      "size_kb": 4061,
+      "language": "Python",
+      "created": "2023-07-07",
+      "updated": "2026-11-09",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 1,
+      "commits_90d": 4,
+      "commit_cadence": "monthly",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 依存関係・実行条件。",
+      "type": "repo",
+      "added": "2026-11-22",
+      "first_seen": "2026-11-22",
+      "sources": [
+        "https://x.com/irongiantXBT/status/2122709093102285099"
+      ],
+      "fetched_at": "2026-11-17T23:12:59.452285+00:00",
+      "path": "entries/prompt-design/microsoft-llmlingua.md",
+      "summary": "LLMLinguaシリーズは、プロンプトから重要度の低いトークンを取り除いて圧縮する手法を提供する。READMEでは、LLMLingua-2はタスク非依存の圧縮を行い、LLMLinguaより3〜6倍高速と説明されている。これらの効果はREADMEに記載された説明であり、ここでは独立実測していない。"
     },
     {
       "name": "logo-design-skill",
