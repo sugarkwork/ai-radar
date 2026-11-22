@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1300 件 — リポジトリ 903, リンク集 120, 記事 210, モデル 53, プロンプト 14 / ⚑ 要確認 1046 件
+収録 1301 件 — リポジトリ 904, リンク集 120, 記事 210, モデル 53, プロンプト 14 / ⚑ 要確認 1047 件
 
-## リポジトリ（903）
+## リポジトリ（904）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -351,7 +351,7 @@
 | [Leash](entries/coding-agent/cmaintz-leash.md) ⚑ | 0 | 0 | 毎日 | 20 | 2026-11-15 | 2026-11-16 | 2026-11-22 | MIT |
 | [grok-x](entries/coding-agent/stat-guy-grok-x.md) ⚑ | 0 | 0 | 停滞 | 0 | 2026-03-19 | 2026-11-16 | 2026-11-22 | unknown |
 
-### エージェント基盤・スキル集（120）
+### エージェント基盤・スキル集（121）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -399,6 +399,7 @@
 | [google/skills](entries/agent-framework/google-skills.md) ⚑ | 24,366 | 2,016 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
 | [milind-soni/OpenMausBot](entries/agent-framework/milind-soni-openmausbot.md) ⚑ | 24,166 | 3,352 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
 | [dsh-superagent (prototype)](entries/agent-framework/deepseek-ai-dsh-superagent-prototype.md) | 23,482 | 2,884 | 月次 | 1 | 2026-11-03 | 2026-11-16 | 2026-11-22 | MIT |
+| [Rasa Open Source](entries/agent-framework/rasahq-rasa.md) ⚑ | 21,388 | 4,906 | 停滞 | 0 | 2026-07-24 | 2026-11-17 | 2026-11-22 | Apache-2.0 |
 | [Claude Quickstarts](entries/agent-framework/anthropics-claude-quickstarts.md) ⚑ | 21,070 | 3,500 | 週次 | 5 | 2026-11-06 | 2026-11-16 | 2026-11-22 | MIT |
 | [Elephant-Goldfish Model (EGM)](entries/agent-framework/google-elephant-goldfish-model.md) ⚑ | 20,321 | 1,503 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
 | [Unity ML-Agents Toolkit](entries/agent-framework/unity-technologies-ml-agents.md) ⚑ | 19,879 | 4,521 | 週次 | 7 | 2026-10-30 | 2026-11-17 | 2026-11-22 | unknown |
@@ -1846,6 +1847,7 @@
 - [Jev Ultrafast](entries/agent-framework/browser-use-jev-ultrafast.md) — unverified / ['最新リリースのタグと公開日時、外部APIの現行料金・利用条件は未確認。', '性能値は開発元の報告。独立した再実行は行っておらず、別サイトや別環境での性能は未確認。']
 - [google/skills](entries/agent-framework/google-skills.md) — unverified / skill追加だけで対象クラウド契約・API課金が無料になるわけではない。日次stars増分と効果は未検証。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [milind-soni/OpenMausBot](entries/agent-framework/milind-soni-openmausbot.md) — unverified / Apache-2.0は一般部分でenterprise配下は別条件。機能の無料性とモデル・クラウド利用料は別。権限・資格情報と外部操作の承認を確認する。 当方でインストール・推論・生成・ベンチ再現はしていない。
+- [Rasa Open Source](entries/agent-framework/rasahq-rasa.md) — unverified / 現在メンテナンスモード。READMEは後継としてHello RasaとCALMを案内している。
 - [Claude Quickstarts](entries/agent-framework/anthropics-claude-quickstarts.md) — unverified / 最新リリースのタグと公開日時、サンプルの動作、回答精度、実利用時の費用は未確認。MITはリポジトリ単位のAPI計測値。各サンプルの条件は個別に確認が必要で、自律コーディング例のREADMEには『Internal Anthropic use.』と記載がある。https://github.com/anthropics/claude-quickstarts/blob/main/autonomous-coding/README.md
 - [Elephant-Goldfish Model (EGM)](entries/agent-framework/google-elephant-goldfish-model.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Unity ML-Agents Toolkit](entries/agent-framework/unity-technologies-ml-agents.md) — unverified / READMEだけでは、対応するUnity・Pythonのバージョンや具体的な依存関係を確認できない。ライセンスはAPI計測値がunknownで、READMEのApache-2.0バッジ表示との整合を確認できていない。 GitHub APIでライセンスを確認できていません。

@@ -1,5 +1,5 @@
 {
-  "count": 1300,
+  "count": 1301,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -4946,6 +4946,37 @@
       "type": "repo",
       "path": "entries/agent-framework/deepseek-ai-dsh-superagent-prototype.md",
       "summary": "**1つの GitHub リポジトリ専属の能動型コーディングエージェント**。GitHub（任意で Feishu）を監視し、許可された相手から依頼が来ると「作業項目」を開き、専用のエージェントセッションと作業ディレクトリで進め、元の会話に返信する（例: プルリクエスト）。"
+    },
+    {
+      "name": "Rasa Open Source",
+      "genre": "agent-framework",
+      "url": "https://github.com/RasaHQ/rasa",
+      "repo": "RasaHQ/rasa",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "現在メンテナンスモード。READMEは後継としてHello RasaとCALMを案内している。",
+      "stars": 21388,
+      "forks": 4906,
+      "open_issues": 161,
+      "size_kb": 1707110,
+      "language": "Python",
+      "created": "2016-10-14",
+      "updated": "2026-07-24",
+      "archived": false,
+      "license": "Apache-2.0",
+      "commits_30d": 0,
+      "commits_90d": 0,
+      "commit_cadence": "stale",
+      "type": "repo",
+      "added": "2026-11-22",
+      "first_seen": "2026-11-22",
+      "sources": [
+        "https://x.com/RoundtableSpace/status/2119161717586366650"
+      ],
+      "fetched_at": "2026-11-17T06:33:53.672949+00:00",
+      "path": "entries/agent-framework/rasahq-rasa.md",
+      "summary": "テキストおよび音声ベースの会話を自動化する文脈型アシスタントを構築できる。Facebook Messenger、Slack、Google Hangouts、Webex Teams、Microsoft Bot Framework、Rocket.Chat、Mattermost、Telegram、Twilio、および独自の会"
     },
     {
       "repo": "anthropics/claude-quickstarts",
