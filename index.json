@@ -1,5 +1,5 @@
 {
-  "count": 1294,
+  "count": 1295,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -25722,6 +25722,37 @@
       "fetched_at": "2026-11-10T11:50:52+00:00",
       "path": "entries/other/karpathy-minbpe.md",
       "summary": "手持ちのテキストから語彙とマージ規則を学習し、文字列をトークンID列へ変換して復号できる。BasicTokenizerとRegexTokenizerで事前分割の影響を比較できる。"
+    },
+    {
+      "name": "Chroma.js",
+      "genre": "other",
+      "url": "https://github.com/gka/chroma.js",
+      "repo": "gka/chroma.js",
+      "license": "unknown",
+      "stars": 10606,
+      "language": "JavaScript",
+      "created": "2011-12-12",
+      "updated": "2026-11-16",
+      "forks": 562,
+      "open_issues": 69,
+      "commits_30d": 18,
+      "commit_cadence": "weekly",
+      "commits_90d": 24,
+      "size_kb": 3235,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-22",
+      "first_seen": "2026-11-22",
+      "sources": [
+        "https://x.com/RealMarvelX/status/2119161121387020570"
+      ],
+      "fetched_at": "2026-11-17T06:25:54.680655+00:00",
+      "path": "entries/other/gka-chroma.js.md",
+      "summary": "色変換、色の明暗操作、カラースケール生成に使えるJavaScriptライブラリ。READMEにはLab/Lch補間、quantileやlogを含むdomain設定、Color Brewerスケールの例がある。出典: https://github.com/gka/chroma.js"
     },
     {
       "name": "微信视频号下载器",
