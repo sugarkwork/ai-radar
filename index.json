@@ -1,5 +1,5 @@
 {
-  "count": 1324,
+  "count": 1325,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -29996,6 +29996,37 @@
       "last_release_at": "2026-10-26",
       "path": "entries/other/carthageadev-strata.md",
       "summary": "Unity EditorのScene viewで、地形の高さ、地面、壁、縁、階段をペイントできます。ペイント結果は通常のUnityメッシュとマテリアルを使うprefabにベイクできます。"
+    },
+    {
+      "name": "Voice Workshop (Officina della voce)",
+      "genre": "other",
+      "url": "https://github.com/MithrilMan/voice-workshop",
+      "repo": "MithrilMan/voice-workshop",
+      "license": "Apache-2.0",
+      "stars": 37,
+      "language": "TypeScript",
+      "created": "2026-11-08",
+      "updated": "2026-11-08",
+      "forks": 9,
+      "open_issues": 1,
+      "commits_30d": 31,
+      "commit_cadence": "daily",
+      "commits_90d": 31,
+      "size_kb": 15783,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景・有効性・依存関係。",
+      "type": "repo",
+      "added": "2026-11-22",
+      "first_seen": "2026-11-22",
+      "sources": [
+        "https://x.com/FabioAngela79/status/2119235589136408721"
+      ],
+      "fetched_at": "2026-11-17T20:10:56.879267+00:00",
+      "path": "entries/other/mithrilman-voice-workshop.md",
+      "summary": "人声を声帯のバズ、乱流のヒス、声道のフィルターに分けて、音と可視化で試せる。学習用の章立て、理論なしで触れるPlay、音源・声道・ノイズ・出力を個別に扱うLabを備える。頭部の調音操作、音声・母音・音素・メロディの再生、スペクトルやスペクトログラムなどの表示がある。READMEによると計算はブラウザー内で行う。"
     },
     {
       "repo": "bytelabs-oss/clash-jev",
