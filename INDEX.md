@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1256 件 — リポジトリ 861, リンク集 120, 記事 208, モデル 53, プロンプト 14 / ⚑ 要確認 1009 件
+収録 1257 件 — リポジトリ 862, リンク集 120, 記事 208, モデル 53, プロンプト 14 / ⚑ 要確認 1010 件
 
-## リポジトリ（861）
+## リポジトリ（862）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -734,7 +734,7 @@
 | [Tokenomos](entries/model-serving/kohakublueleaf-tokenomos.md) | 28 | 0 | 毎日 | 20 | 2026-11-05 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
 | [ausboss/ComfyUI-AusBoss-Model-Downloader](entries/model-serving/ausboss-comfyui-ausboss-model-downloader.md) ⚑ | 9 | 1 | 週次 | 9 | 2026-11-15 | 2026-11-16 | 2026-11-22 | MIT |
 
-### MCPサーバー（33）
+### MCPサーバー（34）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -754,6 +754,7 @@
 | [OpenPencil](entries/mcp-server/open-pencil-open-pencil.md) ⚑ | 9,888 | 1,072 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
 | [treg（REA growth スキル同梱のエージェント用ツールレジストリ）](entries/mcp-server/superdesigndev-treg.md) | 8,169 | 776 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | Apache-2.0 + 追加条項（GitHub API は NOASSERTION） |
 | [21st MCP compatibility proxy (formerly Magic MCP)](entries/mcp-server/21st-dev-magic-mcp.md) ⚑ | 6,570 | 536 | 月次 | 0 | 2026-09-09 | 2026-11-16 | 2026-11-22 | ISC |
+| [TradingView MCP](entries/mcp-server/atilaahmettaner-tradingview-mcp.md) ⚑ | 5,301 | 1,031 | 週次 | 17 | 2026-11-15 | 2026-11-16 | 2026-11-22 | MIT |
 | [Exa MCP Server](entries/mcp-server/exa-labs-exa-mcp-server.md) ⚑ | 5,240 | 414 | 週次 | 9 | 2026-11-05 | 2026-11-16 | 2026-11-22 | MIT |
 | [designlang](entries/mcp-server/manavarya09-design-extract.md) ⚑ | 5,119 | 425 | 毎日 | 25 | 2026-11-13 | 2026-11-16 | 2026-11-22 | MIT |
 | [Basic Memory](entries/mcp-server/basicmachines-co-basic-memory.md) ⚑ | 4,602 | 361 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | AGPL-3.0 |
@@ -2258,6 +2259,7 @@
 - [Framelink MCP for Figma](entries/mcp-server/glips-figma-context-mcp.md) — unverified / スクリーンショット入力に対する再現精度の優位性は作者の主張。実行による再現、Claude Code固有の設定と互換性、Figmaのプラン別料金・API利用条件は未確認。
 - [OpenPencil](entries/mcp-server/open-pencil-open-pencil.md) — unverified / .figの往復保存でレイアウトや変数がどこまで保持されるか、MCP接続と生成結果の品質は実機未検証。リリースの正確な公開日時は未確認。コミット数は各期間100件で打ち切り。
 - [21st MCP compatibility proxy (formerly Magic MCP)](entries/mcp-server/21st-dev-magic-mcp.md) — unverified / 旧Magic APIキーは無効で、新しいAPIキーが必要です。AI生成ツールはアカウントでAIアクセスが有効な場合に限り一覧に表示され、利用可能なAIクレジット残量はREADMEから確認できません。
+- [TradingView MCP](entries/mcp-server/atilaahmettaner-tradingview-mcp.md) — unverified / READMEによると市場データは遅延・不正確・不完全な場合があり、出力は投資助言ではない。READMEの作者による機能説明であり、独立した実測結果としては扱っていない。
 - [Exa MCP Server](entries/mcp-server/exa-labs-exa-mcp-server.md) — unverified / GitHub の最新リリース用 URL は一覧に転送され、最新リリースのタグと公開日時は確認できなかった。README は GitHub の raw ファイルで確認した。検索精度、本文取得の成功率、匿名枠の具体的な上限、発見投稿が述べる YouTube のトレンド検出や動画制作・収益化の成果は未検証。
 - [designlang](entries/mcp-server/manavarya09-design-extract.md) — unverified / 最新リリースの公開日時は未確認。抽出精度、サイト間での再現性、CLI・MCP の実動作は未検証。README の出力例は作者による掲載例。
 - [Basic Memory](entries/mcp-server/basicmachines-co-basic-memory.md) — unverified / 一次資料で未確認: 技術背景・有効性。

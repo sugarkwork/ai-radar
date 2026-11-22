@@ -1,5 +1,5 @@
 {
-  "count": 1256,
+  "count": 1257,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -20729,6 +20729,37 @@
       "last_release_at": "2026-09-09",
       "path": "entries/mcp-server/21st-dev-magic-mcp.md",
       "summary": "既存の@21st-dev/magic設定からMCPメッセージを21st MCPへ転送するstdio互換プロキシとして動作します。21st MCPでは、アカウントで利用可能なツールが提供され、READMEにはコンポーネント等の検索、コード取得、ブックマーク、チームライブラリ、UI生成などが記載されています。AI生成ツール"
+    },
+    {
+      "name": "TradingView MCP",
+      "genre": "mcp-server",
+      "url": "https://github.com/atilaahmettaner/tradingview-mcp",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEによると市場データは遅延・不正確・不完全な場合があり、出力は投資助言ではない。READMEの作者による機能説明であり、独立した実測結果としては扱っていない。",
+      "repo": "atilaahmettaner/tradingview-mcp",
+      "stars": 5301,
+      "forks": 1031,
+      "open_issues": 8,
+      "size_kb": 15852,
+      "language": "Python",
+      "created": "2025-08-08",
+      "updated": "2026-11-15",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 17,
+      "commits_90d": 51,
+      "commit_cadence": "weekly",
+      "type": "repo",
+      "added": "2026-11-22",
+      "first_seen": "2026-11-22",
+      "sources": [
+        "https://x.com/bkdgiffug/status/2119094022077591620"
+      ],
+      "fetched_at": "2026-11-16T21:13:10.443960+00:00",
+      "path": "entries/mcp-server/atilaahmettaner-tradingview-mcp.md",
+      "summary": "READMEでは、株式・暗号資産・為替・先物の市場データ、テクニカル指標、スクリーナー、バックテストをMCPクライアントから利用できると説明している。対応機能の作者説明であり、独立検証ではない。"
     },
     {
       "repo": "exa-labs/exa-mcp-server",
