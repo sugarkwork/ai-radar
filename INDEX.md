@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1339 件 — リポジトリ 938, リンク集 120, 記事 214, モデル 53, プロンプト 14 / ⚑ 要確認 1080 件
+収録 1340 件 — リポジトリ 939, リンク集 120, 記事 214, モデル 53, プロンプト 14 / ⚑ 要確認 1081 件
 
-## リポジトリ（938）
+## リポジトリ（939）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -748,7 +748,7 @@
 | [lab-tts](entries/tts-audio/lakimi-ai-systems-lab-tts.md) ⚑ | 8 | 0 | 月次 | 3 | 2026-11-03 | 2026-11-10 | 2026-11-10 | Apache-2.0 |
 | [Voxarium](entries/tts-audio/ahmadmansy-voxarium.md) ⚑ | 7 | 0 | 毎日 | 40 | 2026-11-08 | 2026-11-13 | 2026-11-13 | AGPL-3.0 |
 
-### モデル推論・配信（38）
+### モデル推論・配信（39）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -769,6 +769,7 @@
 | [Portkey AI Gateway](entries/model-serving/portkey-ai-gateway.md) ⚑ | 13,394 | 1,383 | 停滞 | 0 | 2026-05-25 | 2026-11-17 | 2026-11-22 | MIT |
 | [kimi-k3-in-c](entries/model-serving/fareedkhan-dev-kimi-k3-in-c.md) ⚑ | 12,199 | 1,883 | 毎日 | 45 | 2026-11-16 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
 | [open-free-llm-api/awesome-freellm-apis](entries/model-serving/open-free-llm-api-awesome-freellm-apis.md) ⚑ | 5,715 | 896 | 毎日 | 42 | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [RouteLLM](entries/model-serving/lm-sys-routellm.md) ⚑ | 5,712 | 455 | 停滞 | 0 | 2024-08-10 | 2026-11-17 | 2026-11-22 | Apache-2.0 |
 | [TokenSpeed](entries/model-serving/lightseekorg-tokenspeed.md) ⚑ | 2,930 | 416 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
 | [googlecolab/google-colab-cli](entries/model-serving/googlecolab-google-colab-cli.md) ⚑ | 2,497 | 367 | 毎日 | 27 | 2026-11-15 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
 | [Ollaya](entries/model-serving/ollaya-dev-ollaya.md) ⚑ | 1,468 | 92 | 毎日 | 98 | 2026-11-10 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
@@ -2398,6 +2399,7 @@
 - [Portkey AI Gateway](entries/model-serving/portkey-ai-gateway.md) — unverified / READMEは「250+ LLM」と「1600+ language, vision, audio, and image models」の両方を記載しており、対象数の数え方は確認できない。README記載の機能・性能値は独立検証していない。
 - [kimi-k3-in-c](entries/model-serving/fareedkhan-dev-kimi-k3-in-c.md) — unverified / 1.56TBのチェックポイントを8.24GBのRAMで動かすという主張。数値は作者の docs/data のみで、独立した再現・検証はない。
 - [open-free-llm-api/awesome-freellm-apis](entries/model-serving/open-free-llm-api-awesome-freellm-apis.md) — unverified / freellm.netへの誘導が強いミラー。「無料」は各社枠で無制限ではなく、現行料金・キー/カード条件は各社確認が必要。 当方でインストール・推論・生成・ベンチ再現はしていない。
+- [RouteLLM](entries/model-serving/lm-sys-routellm.md) — unverified / README記載の最大85%のコスト削減・ベンチマーク性能はプロジェクト側の報告であり、独立検証されていない。実際の効果はモデルの組み合わせ、クエリ、しきい値に依存する。
 - [TokenSpeed](entries/model-serving/lightseekorg-tokenspeed.md) — unverified / コミット数は集計上限100。性能は開発元測定で、起動と追試は未確認。
 - [googlecolab/google-colab-cli](entries/model-serving/googlecolab-google-colab-cli.md) — unverified / T4〜A100等の利用可否は契約・割当次第。「200点・2TB」を無償枠と断定できず、51GBを2分という速度も未検証。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Ollaya](entries/model-serving/ollaya-dev-ollaya.md) — unverified / 速度・精度は開発元の公開測定で、今回の調査では再実行していない。個別ワークロードでの精度、遅延、費用削減、各モデルの利用条件は未確認。GitHubの最新版リンクはv0.18.0を返したが、mainのREADMEには0.19.0の測定への言及があり、最新リリースのタグと公開日時は確定していない。

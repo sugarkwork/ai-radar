@@ -1,5 +1,5 @@
 {
-  "count": 1339,
+  "count": 1340,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -22980,6 +22980,37 @@
       "last_release_at": "",
       "path": "entries/model-serving/open-free-llm-api-awesome-freellm-apis.md",
       "summary": "31プロバイダ・539以上の無料LLM API枠を整理するディレクトリ。"
+    },
+    {
+      "name": "RouteLLM",
+      "genre": "model-serving",
+      "url": "https://github.com/lm-sys/RouteLLM",
+      "repo": "lm-sys/RouteLLM",
+      "license": "Apache-2.0",
+      "stars": 5712,
+      "language": "Python",
+      "created": "2024-06-03",
+      "updated": "2024-08-10",
+      "forks": 455,
+      "open_issues": 45,
+      "commits_30d": 0,
+      "commit_cadence": "stale",
+      "commits_90d": 0,
+      "size_kb": 5472,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "README記載の最大85%のコスト削減・ベンチマーク性能はプロジェクト側の報告であり、独立検証されていない。実際の効果はモデルの組み合わせ、クエリ、しきい値に依存する。",
+      "type": "repo",
+      "added": "2026-11-22",
+      "first_seen": "2026-11-22",
+      "sources": [
+        "https://x.com/irongiantXBT/status/2122709093102285099"
+      ],
+      "fetched_at": "2026-11-17T23:21:23.356387+00:00",
+      "path": "entries/model-serving/lm-sys-routellm.md",
+      "summary": "LLMルーターの配信と評価を行うフレームワーク。READMEによると、OpenAIクライアントの置き換えやOpenAI互換サーバーとして利用でき、クエリを強力なモデルと低コストなモデルの間で振り分ける。ルーターの追加や複数ベンチマークでの比較にも対応する。コスト削減や性能に関する数値はプロジェクト側のベンチマーク報告で"
     },
     {
       "repo": "lightseekorg/tokenspeed",
