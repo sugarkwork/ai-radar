@@ -1,5 +1,5 @@
 {
-  "count": 1345,
+  "count": 1346,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -14802,6 +14802,37 @@
       "last_release_at": "",
       "path": "entries/coding-agent/scottduncanai-pid-to-knowledge-graph.md",
       "summary": "Claude Code向けスキル pid-to-kg は、PDF形式のP&IDおよびPFDを読み取り、プロセス知識グラフを作成する。READMEによれば、グラフには機器・配管の上流下流関係、計測器と計測対象・位置、センサーから制御機器・最終要素までの制御ループを含める。summary.md、graph.json、gra"
+    },
+    {
+      "name": "music-skill",
+      "genre": "coding-agent",
+      "url": "https://github.com/owoevan-dev/music-skill",
+      "repo": "owoevan-dev/music-skill",
+      "license": "MIT",
+      "stars": 241,
+      "language": "Python",
+      "created": "2026-11-02",
+      "updated": "2026-11-17",
+      "forks": 29,
+      "open_issues": 0,
+      "commits_30d": 45,
+      "commit_cadence": "daily",
+      "commits_90d": 45,
+      "size_kb": 62764,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEで参照されるInstall節の内容は確認できていないため、レンダラーや音源バンクの詳細な依存関係・導入条件は未確認です。",
+      "type": "repo",
+      "added": "2026-11-22",
+      "first_seen": "2026-11-22",
+      "sources": [
+        "https://x.com/GitTrend0x/status/2122653626900332544"
+      ],
+      "fetched_at": "2026-11-17T23:27:40.947791+00:00",
+      "path": "entries/coding-agent/owoevan-dev-music-skill.md",
+      "summary": "エージェントがオリジナルの器楽曲を作曲し、楽譜を確認してサンプル音源で演奏、ミックス、マスタリングするとREADMEは説明しています。MP3・WAVに加え、MIDI、パートごとのステム、編集して再レンダリングできるプロジェクトファイルを出力するとしています。"
     },
     {
       "name": "AI Second Brain",
