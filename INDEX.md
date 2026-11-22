@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1262 件 — リポジトリ 867, リンク集 120, 記事 208, モデル 53, プロンプト 14 / ⚑ 要確認 1014 件
+収録 1263 件 — リポジトリ 868, リンク集 120, 記事 208, モデル 53, プロンプト 14 / ⚑ 要確認 1015 件
 
-## リポジトリ（867）
+## リポジトリ（868）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -193,7 +193,7 @@
 | [Pay Small Check](entries/other/ahmardchain-pay-small-check.md) ⚑ | 1 | 0 | 毎日 | 32 | 2026-11-07 | 2026-11-16 | 2026-11-22 | MIT |
 | [LapDraw](entries/other/sachinyadavaug20-lapdraw.md) ⚑ | 0 | 0 | 毎日 | 22 | 2026-11-07 | 2026-11-13 | 2026-11-13 | MIT |
 
-### コーディングエージェント（134）
+### コーディングエージェント（135）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -265,6 +265,7 @@
 | [yomiyasu（よみやす）](entries/coding-agent/nanaism-yomiyasu.md) ⚑ | 3,312 | 89 | 毎日 | 23 | 2026-11-12 | 2026-11-16 | 2026-11-22 | MIT |
 | [Jevgrep](entries/coding-agent/dzhng-jevgrep.md) ⚑ | 3,234 | 247 | 毎日 | 66 | 2026-11-12 | 2026-11-16 | 2026-11-22 | MIT |
 | [DS Harness Remote](entries/coding-agent/liguobao-ds-harness-remote.md) ⚑ | 3,073 | 232 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [3D Model Anything](entries/coding-agent/wesbos-3d-model-anything.md) ⚑ | 3,035 | 455 | 週次 | 5 | 2026-10-27 | 2026-11-16 | 2026-11-22 | unknown |
 | [reacher-z/Awesome-REA](entries/coding-agent/reacher-z-awesome-rea.md) ⚑ | 3,002 | 502 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
 | [Three.js Game Skills](entries/coding-agent/majidmanzarpour-threejs-game-skills.md) | 2,828 | 284 | 停滞 | 0 | 2026-09-28 | 2026-11-16 | 2026-11-22 | MIT |
 | [ppmpreetham/BUI](entries/coding-agent/ppmpreetham-bui.md) ⚑ | 2,581 | 116 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | GPL-3.0 |
@@ -2053,6 +2054,7 @@
 - [yomiyasu（よみやす）](entries/coding-agent/nanaism-yomiyasu.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Jevgrep](entries/coding-agent/dzhng-jevgrep.md) — unverified / CLIは実行していない。作者の費用比較を独立に再現しておらず、他のリポジトリへの一般化、速度改善、各プロバイダーの現行料金、GitHubリリースの完全な公開日時は未確認。
 - [DS Harness Remote](entries/coding-agent/liguobao-ds-harness-remote.md) — unverified / アカウント登録には招待コードが必要とREADMEに記載。招待コードの入手条件、利用料金は資料から確認できない。
+- [3D Model Anything](entries/coding-agent/wesbos-3d-model-anything.md) — unverified / GitHub APIのlicense値はunknown。READMEでは再利用可能なコードとスキルをMITライセンスとし、オフィス画像・テクスチャには別の利用条件があると説明しています。個別素材の条件はASSETS-LICENSE.mdで確認してください。 GitHub APIでライセンスを確認できていません。
 - [reacher-z/Awesome-REA](entries/coding-agent/reacher-z-awesome-rea.md) — unverified / indexed repos3309は自動収集で未レビュー。数の多さや公開索引を各項目の安全性・有用性の保証としない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [ppmpreetham/BUI](entries/coding-agent/ppmpreetham-bui.md) — unverified / 即時モードではなく一つのノードツリーを保持する方式。IME・スクリーンリーダー未対応。GPL-3.0-or-laterで組込み配布の条件に注意。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Better Harness](entries/coding-agent/qoderai-better-harness.md) — unverified / 公開文書で仕様を確認した。実行時の動作、ホスト間の互換性、導入前後の改善効果、最新リリースのタグと公開日は未確認。MITはリポジトリのライセンスで、ホストの利用条件・料金は未確認。

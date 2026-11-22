@@ -1,5 +1,5 @@
 {
-  "count": 1262,
+  "count": 1263,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -12877,6 +12877,37 @@
       "last_release_at": "2026-11-14",
       "path": "entries/coding-agent/liguobao-ds-harness-remote.md",
       "summary": "READMEによると、DeepSeek Harness DesktopなどのHostにWeb、PC、モバイル端末から接続し、ワークスペースの選択、会話モデルの切り替え、ファイルの読み取り専用プレビュー、リモートターミナル、許可された開発サービスのプレビューを利用できる。Codex、Cursor、Google Antig"
+    },
+    {
+      "name": "3D Model Anything",
+      "genre": "coding-agent",
+      "url": "https://github.com/wesbos/3d-model-anything",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "GitHub APIのlicense値はunknown。READMEでは再利用可能なコードとスキルをMITライセンスとし、オフィス画像・テクスチャには別の利用条件があると説明しています。個別素材の条件はASSETS-LICENSE.mdで確認してください。 GitHub APIでライセンスを確認できていません。",
+      "repo": "wesbos/3d-model-anything",
+      "stars": 3035,
+      "forks": 455,
+      "open_issues": 24,
+      "size_kb": 36049,
+      "language": "Swift",
+      "created": "2026-10-21",
+      "updated": "2026-10-27",
+      "archived": false,
+      "license": "unknown",
+      "commits_30d": 5,
+      "commits_90d": 5,
+      "commit_cadence": "weekly",
+      "type": "repo",
+      "added": "2026-11-22",
+      "first_seen": "2026-11-22",
+      "sources": [
+        "https://x.com/awe0_io/status/2119114909099380934"
+      ],
+      "fetched_at": "2026-11-16T23:15:29.309826+00:00",
+      "path": "entries/coding-agent/wesbos-3d-model-anything.md",
+      "summary": "iPhoneで部屋を撮影し、形状と写真を使ってAIコーディングエージェントと編集可能なThree.jsシーンを作成します。リポジトリにはiPhoneアプリ、Three.jsビューアー、scan-to-threejsエージェントスキル、オフィスのデモが含まれます。READMEは、これは反復的な再構成ワークフローであり、ワ"
     },
     {
       "type": "repo",
