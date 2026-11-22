@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1287 件 — リポジトリ 891, リンク集 120, 記事 209, モデル 53, プロンプト 14 / ⚑ 要確認 1034 件
+収録 1288 件 — リポジトリ 892, リンク集 120, 記事 209, モデル 53, プロンプト 14 / ⚑ 要確認 1034 件
 
-## リポジトリ（891）
+## リポジトリ（892）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -867,7 +867,7 @@
 | [GUntilB/Anima-Prompt-Generator](entries/prompt-design/guntilb-anima-prompt-generator.md) ⚑ | 13 | 1 | 月次 | 3 | 2026-11-08 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
 | [P-H3-Image Workflows](entries/prompt-design/sepiablue-ai-p-h3-image-workflows.md) ⚑ | 0 | 0 | 月次 | 1 | 2026-11-07 | 2026-11-17 | 2026-11-22 | unknown |
 
-### 画像生成・編集（28）
+### 画像生成・編集（29）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -899,6 +899,7 @@
 | [sepiablue-ai/ComfyUI-PH3-Manga](entries/image-gen/sepiablue-ai-comfyui-ph3-manga.md) ⚑ | 13 | 2 | 週次 | 10 | 2026-11-07 | 2026-11-16 | 2026-11-22 | MIT |
 | [ComfyUI Prompt Atelier](entries/image-gen/renz1998-comfyui-prompt-atelier.md) | 3 | 0 | 毎日 | 72 | 2026-11-11 | 2026-11-16 | 2026-11-22 | GPL-3.0 |
 | [P-H3-Image ComfyUI sample workflows](entries/image-gen/tori29umai0123-p-h3-image_workflows.md) ⚑ | 2 | 1 | 週次 | 4 | 2026-11-06 | 2026-11-16 | 2026-11-22 | unknown |
+| [GrabTag](entries/image-gen/blackll7-moss-image-edit-grabtag.md) | 0 | 0 | 毎日 | 43 | 2026-11-09 | 2026-11-17 | 2026-11-22 | MIT |
 
 ### RAG・検索（26）
 
