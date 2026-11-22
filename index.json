@@ -1,5 +1,5 @@
 {
-  "count": 1337,
+  "count": 1338,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -25434,6 +25434,37 @@
       "fetched_at": "2026-11-14T07:14:03.435839+00:00",
       "path": "entries/other/pmndrs-react-spring.md",
       "summary": "READMEはreact-springをクロスプラットフォームのspring物理ベースのアニメーションライブラリと説明している。react-domとreact-three-fiberをサポートし、宣言的または命令的にアニメーションを設定できる。デフォルトではspringを使い、durationとeasingもサポートす"
+    },
+    {
+      "name": "Celery",
+      "genre": "other",
+      "url": "https://github.com/celery/celery",
+      "repo": "celery/celery",
+      "license": "unknown",
+      "stars": 29219,
+      "language": "Python",
+      "created": "2009-04-24",
+      "updated": "2026-11-17",
+      "forks": 5265,
+      "open_issues": 813,
+      "commits_30d": 76,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 38346,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "README上の最新版5.7.xの実行条件はPython 3.11+またはPyPy 3.11+（v8+）。Windowsはサポート対象外と記載。API計測ではlicenseがunknownのため、ライセンスはREADME本文から確認できず。 GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-22",
+      "first_seen": "2026-11-22",
+      "sources": [
+        "https://x.com/irongiantXBT/status/2122709093102285099"
+      ],
+      "fetched_at": "2026-11-17T23:19:25.633344+00:00",
+      "path": "entries/other/celery-celery.md",
+      "summary": "タスクキューを使ってスレッドやマシン間に作業を配布する。クライアントがタスクのメッセージをブローカーへ送り、ワーカープロセスがキューを監視して処理する。複数のワーカーとブローカーで高可用性や水平スケーリングを構成できる。"
     },
     {
       "name": "System Design Interview — An Insider’s Guide (Vol 1 and 2) notes",
