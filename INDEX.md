@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1352 件 — リポジトリ 951, リンク集 120, 記事 214, モデル 53, プロンプト 14 / ⚑ 要確認 1092 件
+収録 1353 件 — リポジトリ 951, リンク集 120, 記事 215, モデル 53, プロンプト 14 / ⚑ 要確認 1093 件
 
 ## リポジトリ（951）
 
@@ -364,7 +364,7 @@
 | [Flow Preview](entries/coding-agent/tanishqkancharla-flow-preview.md) ⚑ | 37 | 3 | 週次 | 13 | 2026-11-06 | 2026-11-16 |  | Apache-2.0 |
 | [Jev Cookbook](entries/coding-agent/jev-engineering-cookbook.md) ⚑ | 35 | 6 | 毎日 | 61 | 2026-11-14 | 2026-11-16 |  | MIT |
 | [Teddarific/skills](entries/coding-agent/teddarific-skills.md) ⚑ | 19 | 1 | 月次 | 0 | 2026-10-14 | 2026-11-16 |  | unknown |
-| [peer](entries/coding-agent/oesoll-peer.md) ⚑ | 13 | 0 | 毎日 | 27 | 2026-11-16 | 2026-11-18 | 2026-11-22 | MIT |
+| [peer](entries/coding-agent/oesoll-peer.md) ⚑ | 13 | 0 | 毎日 | 27 | 2026-11-16 | 2026-11-18 |  | MIT |
 | [davekiss/mods（leaks）](entries/coding-agent/davekiss-mods.md) ⚑ | 12 | 1 | 月次 | 3 | 2026-10-29 | 2026-11-16 |  | MIT |
 | [system-design-skill](entries/coding-agent/codejunkie99-system-design-skill.md) ⚑ | 10 | 1 | 月次 | 1 | 2026-11-01 | 2026-11-16 |  | MIT |
 | [opencode-compaction-anchor](entries/coding-agent/kylebakerio-opencode-compaction-anchor.md) ⚑ | 3 | 1 | 月次 | 2 | 2026-11-01 | 2026-11-16 |  | MIT |
@@ -1521,9 +1521,9 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（214）
+## 記事（215）
 
-### 記事（151）
+### 記事（152）
 
 - **[$0のデジタル参謀長で月$80,000の契約候補を作ったというX投稿（動画付き）](articles/2026-10-22-bober_smart-0-80-000-x.md)** ⚑  @Bober_smart
 - **[1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md)** ⚑  @mukadeshinigami（mukade死神）
@@ -1666,6 +1666,7 @@
 - **[モデルの能力とハーネスの適合を考える](articles/2026-10-12-bernat-vadell-d5322e77.md)** ⚑  Bernat Vadell
 - **[ローカルAI推論で速度が次の課題になるという論考](articles/2026-10-01-bernat-vadell-ai.md)** ⚑  Bernat Vadell
 - **[公開済みサイトのSEO・GEO監査と再測定](articles/2026-09-02-jarvis11x-seo-geo.md)** ⚑  @jarvis11x
+- **[動くLINEスタンプ、気になっているけど時間が取れない方へ。Claude CodeやCodexで、絵を1枚も描かずに作る制作Skillsキットを配布します](articles/2026-09-03-author-line-claude-code-codex-1-skills-9629cc191a.md)** ⚑
 - **[動画サイトの月途中の売上報告](articles/2026-10-14-jarvis11x-2dae9ce2.md)** ⚑  @jarvis11x
 - **[多地-32℃？ APP显示天气预报“离大谱”](articles/2026-11-04-author-32-app.md)**
 - **[業務エージェントの共通基盤と用途別テンプレート](articles/2026-11-07-mike-gannotti-5de4a7af.md)** ⚑  Mike Gannotti
@@ -2081,6 +2082,7 @@
 - [モデルの能力とハーネスの適合を考える](articles/2026-10-12-bernat-vadell-d5322e77.md) — unverified / 投稿自体にベンチマークや導入効果の測定はない。
 - [ローカルAI推論で速度が次の課題になるという論考](articles/2026-10-01-bernat-vadell-ai.md) — unverified / 速度の例示は実測値ではなく、将来予測。
 - [公開済みサイトのSEO・GEO監査と再測定](articles/2026-09-02-jarvis11x-seo-geo.md) — unverified / 計測期間が異なり、SEO施策の効果と売上への寄与は独立検証できていない。
+- [動くLINEスタンプ、気になっているけど時間が取れない方へ。Claude CodeやCodexで、絵を1枚も描かずに作る制作Skillsキットを配布します](articles/2026-09-03-author-line-claude-code-codex-1-skills-9629cc191a.md) — unverified / 制作時間・費用・承認結果などは著者の自己報告。記事の方法による再現性や販売実績は独立に確認していない。
 - [動画サイトの月途中の売上報告](articles/2026-10-14-jarvis11x-2dae9ce2.md) — unverified / 本文と日付は公開ミラー経由。売上の真正性とSEOの効果は未確認。
 - [業務エージェントの共通基盤と用途別テンプレート](articles/2026-11-07-mike-gannotti-5de4a7af.md) — unverified / 公開日は共有投稿のUTC日付。運用実績と費用対効果は未検証。
 - [業務手順の構築と運用でエージェントの役割を分ける提案](articles/2026-10-09-bernat-vadell-b4c1fb04.md) — unverified / 公開日はUTC。製品の提供状況と効果は未確認。
