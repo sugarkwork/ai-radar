@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1325 件 — リポジトリ 924, リンク集 120, 記事 214, モデル 53, プロンプト 14 / ⚑ 要確認 1067 件
+収録 1326 件 — リポジトリ 925, リンク集 120, 記事 214, モデル 53, プロンプト 14 / ⚑ 要確認 1068 件
 
-## リポジトリ（924）
+## リポジトリ（925）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（204）
+### その他（205）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Rough.js](entries/other/rough-stuff-rough.md) ⚑ | 21,384 | 671 | 停滞 | 0 | 2024-07-28 | 2026-11-16 | 2026-11-16 | MIT |
 | [res-downloader](entries/other/putyy-res-downloader.md) ⚑ | 21,255 | 2,609 | 停滞 | 0 | 2026-11-11 | 2026-11-13 | 2026-11-13 | Apache-2.0 |
 | [SAM 2](entries/other/facebookresearch-sam2.md) | 20,166 | 2,596 | 停滞 | 0 | 2026-05-30 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [olmOCR](entries/other/allenai-olmocr.md) ⚑ | 19,829 | 1,657 | 停滞 | 0 | 2026-03-25 | 2026-11-17 | 2026-11-22 | Apache-2.0 |
 | [ActivityWatch](entries/other/activitywatch-activitywatch.md) ⚑ | 19,655 | 1,079 | 週次 | 18 | 2026-11-15 | 2026-11-16 | 2026-11-22 | MPL-2.0 |
 | [ai-goofish-monitor](entries/other/usagi-org-ai-goofish-monitor.md) ⚑ | 19,101 | 3,116 | 月次 | 0 | 2026-10-10 | 2026-11-10 | 2026-11-10 | MIT |
 | [Yoga](entries/other/react-yoga.md) ⚑ | 18,954 | 1,586 | 週次 | 16 | 2026-11-13 | 2026-11-17 | 2026-11-22 | MIT |
@@ -2455,6 +2456,7 @@
 - [MicroPython](entries/other/micropython-micropython.md) — unverified / GitHub APIでライセンスを確認できていません。
 - [Rough.js](entries/other/rough-stuff-rough.md) — unverified / 一次資料で未確認: 依存関係。
 - [res-downloader](entries/other/putyy-res-downloader.md) — unverified / README says setup requires allowing certificate installation and network access. It also notes that the system proxy may need to be turned off manually after closing the app.
+- [olmOCR](entries/other/allenai-olmocr.md) — unverified / ローカルGPU実行には最近のNVIDIA GPUと少なくとも12 GBのGPU RAM、30 GBの空きディスクが必要とREADMEに記載。費用や処理性能の記述はREADME上の説明であり、独立検証していない。
 - [ActivityWatch](entries/other/activitywatch-activitywatch.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [ai-goofish-monitor](entries/other/usagi-org-ai-goofish-monitor.md) — unverified / 判定精度、通知遅延、現行の闲鱼環境での動作、モデルAPIの実利用料金、最新リリースの公開日時は未確認。プラットフォームの利用条件への適合性は利用形態に依存する。
 - [Yoga](entries/other/react-yoga.md) — unverified / 一次資料で未確認: 依存関係・実行条件。

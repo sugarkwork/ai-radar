@@ -1,5 +1,5 @@
 {
-  "count": 1325,
+  "count": 1326,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -25653,6 +25653,37 @@
       "last_release_at": "",
       "path": "entries/other/facebookresearch-sam2.md",
       "summary": "SAM 2は、画像と動画を対象とするプロンプト可能な視覚セグメンテーション用モデルです。画像予測、画像の自動マスク生成、動画内の複数オブジェクトのセグメンテーションと追跡に対応するAPIを提供します。READMEは、動画推論でプロンプトを追加し、動画フレームへマスクを伝播できると説明しています。"
+    },
+    {
+      "name": "olmOCR",
+      "genre": "other",
+      "url": "https://github.com/allenai/olmocr",
+      "repo": "allenai/olmocr",
+      "license": "Apache-2.0",
+      "stars": 19829,
+      "language": "Python",
+      "created": "2024-09-17",
+      "updated": "2026-03-25",
+      "forks": 1657,
+      "open_issues": 93,
+      "commits_30d": 0,
+      "commit_cadence": "stale",
+      "commits_90d": 0,
+      "size_kb": 357497,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "ローカルGPU実行には最近のNVIDIA GPUと少なくとも12 GBのGPU RAM、30 GBの空きディスクが必要とREADMEに記載。費用や処理性能の記述はREADME上の説明であり、独立検証していない。",
+      "type": "repo",
+      "added": "2026-11-22",
+      "first_seen": "2026-11-22",
+      "sources": [
+        "https://x.com/bkdgiffug/status/2119235453551604112"
+      ],
+      "fetched_at": "2026-11-17T20:10:46.013009+00:00",
+      "path": "entries/other/allenai-olmocr.md",
+      "summary": "PDF・PNG・JPEG形式の文書をMarkdownに変換する。READMEでは、数式・表・手書き・複雑な書式、図や複数段組みを含む場合の自然な読み順、ヘッダーとフッターの自動除去を機能として挙げている。"
     },
     {
       "name": "ActivityWatch",
