@@ -1,5 +1,5 @@
 {
-  "count": 1253,
+  "count": 1254,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -30792,6 +30792,37 @@
       "last_release_at": "2026-11-06",
       "path": "entries/rag/hkuds-deeptutor.md",
       "summary": "学習・質問解説を支援するDeepTutor。原チェックではv1.7.2のmacOS/Windowsデスクトップ配布を確認。"
+    },
+    {
+      "name": "OpenViking",
+      "genre": "rag",
+      "url": "https://github.com/volcengine/OpenViking",
+      "repo": "volcengine/OpenViking",
+      "license": "AGPL-3.0",
+      "stars": 42312,
+      "language": "Python",
+      "created": "2026-01-05",
+      "updated": "2026-11-16",
+      "forks": 3502,
+      "open_issues": 1463,
+      "commits_30d": 100,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 431730,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "README記載のLoCoMo・tau2-benchの評価値は作者による報告で、独立実測ではない。",
+      "type": "repo",
+      "added": "2026-11-22",
+      "first_seen": "2026-11-22",
+      "sources": [
+        "https://x.com/ruyi3699/status/2119092260176584874"
+      ],
+      "fetched_at": "2026-11-16T21:10:24.388506+00:00",
+      "path": "entries/rag/volcengine-openviking.md",
+      "summary": "知識・メモリ・スキルをviking://仮想ファイルシステム上にまとめ、ls、tree、read、write、grepで閲覧・編集できる。ディレクトリ単位の検索、L0要約・L1概要を確認してから詳細（L2）を読む方法、セッションの保存とメモリ抽出を提供するとREADMEに記載されている。READMEはLoCoMoとta"
     },
     {
       "name": "Khoj",
