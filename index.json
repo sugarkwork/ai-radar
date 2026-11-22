@@ -1,5 +1,5 @@
 {
-  "count": 1353,
+  "count": 1354,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -23997,6 +23997,37 @@
       "commits_90d": 20,
       "path": "entries/model-serving/kohakublueleaf-tokenomos.md",
       "summary": "小型VLM（LFM3-VL 2B / Qwen3.5 4B・9B / Qwen3.8 27B / Gemma 4 E4B・12B・31B）を1枚のNVIDIA GPUでローカル推論する。"
+    },
+    {
+      "name": "ttf-home",
+      "genre": "model-serving",
+      "url": "https://github.com/oguzeldereli/ttf-home",
+      "repo": "oguzeldereli/ttf-home",
+      "license": "unknown",
+      "stars": 18,
+      "language": "C++",
+      "created": "2026-11-09",
+      "updated": "2026-11-17",
+      "forks": 4,
+      "open_issues": 2,
+      "commits_30d": 100,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 4941,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "README сообщает о скоростях, точности и качестве аудио, но это заявления автора; независимая проверка не проводилась. Лицензия репозитория не указана в измеренных данных. GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-22",
+      "first_seen": "2026-11-22",
+      "sources": [
+        "https://x.com/swarogan/status/2122681494019649868"
+      ],
+      "fetched_at": "2026-11-18T00:31:50.217277+00:00",
+      "path": "entries/model-serving/oguzeldereli-ttf-home.md",
+      "summary": "ttf-home は独自の ggml ベース runtime で .ttf 形式のテキストモデルと VoxCPM2 音声モデルを実行します。テキストモデルの継続生成、チャット、OpenAI 形式の API サーバー、ベンチマークに対応すると README は説明しています。別経路として、TTF パッチ適用済み llam"
     },
     {
       "type": "repo",
