@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1286 件 — リポジトリ 890, リンク集 120, 記事 209, モデル 53, プロンプト 14 / ⚑ 要確認 1033 件
+収録 1287 件 — リポジトリ 891, リンク集 120, 記事 209, モデル 53, プロンプト 14 / ⚑ 要確認 1034 件
 
-## リポジトリ（890）
+## リポジトリ（891）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（187）
+### その他（188）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Marp CLI](entries/other/marp-team-marp-cli.md) ⚑ | 3,922 | 207 | 月次 | 0 | 2026-09-08 | 2026-11-15 | 2026-11-15 | MIT |
 | [TweenJS](entries/other/createjs-tweenjs.md) ⚑ | 3,568 | 940 | 停滞 | 0 | 2023-12-18 | 2026-11-16 | 2026-11-22 | MIT |
 | [shodan-python](entries/other/achillean-shodan-python.md) ⚑ | 3,493 | 786 | 停滞 | 0 | 2024-08-05 | 2026-11-16 | 2026-11-22 | unknown |
+| [gputaskman](entries/other/shanselman-gputaskman.md) ⚑ | 3,436 | 170 | 毎日 | 100+ | 2026-11-16 | 2026-11-17 | 2026-11-22 | MIT |
 | [Swarm Rebuild](entries/other/dhvanilpatel-swarm-cursors.md) ⚑ | 3,428 | 378 | 週次 | 7 | 2026-11-11 | 2026-11-16 | 2026-11-22 | unknown |
 | [Tendedero](entries/other/alejandrobujan-tendedero.md) ⚑ | 3,270 | 295 | 毎日 | 67 | 2026-11-15 | 2026-11-16 | 2026-11-22 | unknown |
 | [Open Source Face Recognition SDK](entries/other/faceplugin-ltd-open-source-face-recognition-sdk.md) ⚑ | 3,169 | 533 | 月次 | 0 | 2026-10-02 | 2026-11-16 | 2026-11-22 | unknown |
@@ -2447,6 +2448,7 @@
 - [Marp CLI](entries/other/marp-team-marp-cli.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [TweenJS](entries/other/createjs-tweenjs.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [shodan-python](entries/other/achillean-shodan-python.md) — unverified / READMEにはライセンス情報がなく、ライセンスは確認できていない。利用にはShodan APIキーが必要。 GitHub APIでライセンスを確認できていません。
+- [gputaskman](entries/other/shanselman-gputaskman.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Swarm Rebuild](entries/other/dhvanilpatel-swarm-cursors.md) — unverified / READMEには「None yet」とあり、ライセンスは設定されていない。コードの再利用条件は権利者への確認が必要。 GitHub APIでライセンスを確認できていません。
 - [Tendedero](entries/other/alejandrobujan-tendedero.md) — unverified / GitHub APIでライセンスを確認できていません。
 - [Open Source Face Recognition SDK](entries/other/faceplugin-ltd-open-source-face-recognition-sdk.md) — low-quality, unverified / README заявляет «high accuracy», «real-time» и «completely free», но не приводит измерений точности или скорости; лицензионные условия не указаны. Эти заявления не представлены как независимо проверенные факты. README называет SDK бесплатным и открытым, но API указывает лицензию как unknown. Условия использования и лицензирования не подтверждены. GitHub APIでライセンスを確認できていません。
