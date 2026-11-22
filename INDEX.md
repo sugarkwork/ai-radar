@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1323 件 — リポジトリ 922, リンク集 120, 記事 214, モデル 53, プロンプト 14 / ⚑ 要確認 1065 件
+収録 1324 件 — リポジトリ 923, リンク集 120, 記事 214, モデル 53, プロンプト 14 / ⚑ 要確認 1066 件
 
-## リポジトリ（922）
+## リポジトリ（923）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（202）
+### その他（203）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -176,6 +176,7 @@
 | [Awesome Chinese Secondhand Slang（中国二手暗语全书与避坑合规指南）](entries/other/domainsun-awesome-chinese-secondhand-slang.md) ⚑ | 798 | 51 | 週次 | 4 | 2026-10-19 | 2026-11-16 | 2026-11-22 | MIT |
 | [vt-py](entries/other/virustotal-vt-py.md) ⚑ | 798 | 171 | 停滞 | 0 | 2026-11-10 | 2026-11-16 | 2026-11-16 | Apache-2.0 |
 | [拉片笔记（Lapian Notes）](entries/other/bkingfilm-lapian-notes.md) ⚑ | 798 | 74 | 週次 | 7 | 2026-10-26 | 2026-11-16 | 2026-11-22 | MIT |
+| [Moect](entries/other/mofan6-moect.md) ⚑ | 770 | 177 | 毎日 | 33 | 2026-11-14 | 2026-11-17 | 2026-11-22 | GPL-3.0 |
 | [Orfeo](entries/other/squarebow-orfeo.md) ⚑ | 723 | 58 | 毎日 | 100+ | 2026-11-13 | 2026-11-13 | 2026-11-13 | GPL-3.0 |
 | [Awesome AI Pedia](entries/other/awesome-ai-pedia-awesome-ai-pedia.md) ⚑ | 721 | 70 | 週次 | 14 | 2026-11-12 | 2026-11-16 | 2026-11-22 | MIT |
 | [color-matcher](entries/other/hahnec-color-matcher.md) ⚑ | 710 | 50 | 停滞 | 0 | 2026-02-24 | 2026-11-16 | 2026-11-22 | GPL-3.0 |
@@ -2552,6 +2553,7 @@
 - [Awesome Chinese Secondhand Slang（中国二手暗语全书与避坑合规指南）](entries/other/domainsun-awesome-chinese-secondhand-slang.md) — malicious, low-quality, unverified / READMEは、平台の敏感語検出を避けるための代替語・暗語や、文案の排雷・転译を売り手向け用途として記載している。これは規制・モデレーション回避を助けうる。収録件数と分類数にもREADME内の不一致がある。 README内で収録規模が一致しない（本文は4,569+変異形・114分類、バッジは5,082,569+変異形・149分類）。記載された語句の意味や存活状態、平台ルールへの適合性は独立確認されていない。
 - [vt-py](entries/other/virustotal-vt-py.md) — unverified / READMEには依存パッケージと実行条件の記載がないため未確認。
 - [拉片笔记（Lapian Notes）](entries/other/bkingfilm-lapian-notes.md) — unverified / AI分析の品質は利用するAIに依存し、READMEは無料AIが大量の画像を処理できず分析を省略する場合があると説明している。
+- [Moect](entries/other/mofan6-moect.md) — unverified / 対応対象は Windows 微信 4.x だが、READMEではすべての4.xバージョンへの対応を保証していない。メディア保存はローカルキャッシュ、利用可能な認証情報、元ファイルに依存する。
 - [Orfeo](entries/other/squarebow-orfeo.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Awesome AI Pedia](entries/other/awesome-ai-pedia-awesome-ai-pedia.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [color-matcher](entries/other/hahnec-color-matcher.md) — unverified / 著者による手法比較の独立再現、映像の時間方向の一貫性、現行環境での動作は未検証。GitHub は v0.5.0 を Latest と表示し、PyPI は 0.6.0 を掲載している。GitHub リリースの年を含む公開日は未確認。

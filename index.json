@@ -1,5 +1,5 @@
 {
-  "count": 1323,
+  "count": 1324,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -29095,6 +29095,37 @@
       "last_release_at": "2026-10-26",
       "path": "entries/other/bkingfilm-lapian-notes.md",
       "summary": "映画から1秒間隔でフレームを抽出し、字幕とともにAI分析用のZIPを作成できる。AIの分析結果を読み込むと、剧情泳道时间轴・構造ツリー・観客の感情曲線を生成し、段落ノートを編集してMarkdownなどに出力できる。作者のREADMEによる機能説明。出典: https://github.com/bkingfilm/lap"
+    },
+    {
+      "name": "Moect",
+      "genre": "other",
+      "url": "https://github.com/mofan6/Moect",
+      "repo": "mofan6/Moect",
+      "license": "GPL-3.0",
+      "stars": 770,
+      "language": "Python",
+      "created": "2026-10-31",
+      "updated": "2026-11-14",
+      "forks": 177,
+      "open_issues": 5,
+      "commits_30d": 33,
+      "commit_cadence": "daily",
+      "commits_90d": 33,
+      "size_kb": 26895,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "対応対象は Windows 微信 4.x だが、READMEではすべての4.xバージョンへの対応を保証していない。メディア保存はローカルキャッシュ、利用可能な認証情報、元ファイルに依存する。",
+      "type": "repo",
+      "added": "2026-11-22",
+      "first_seen": "2026-11-22",
+      "sources": [
+        "https://x.com/Ryrenz/status/2119233908625518683"
+      ],
+      "fetched_at": "2026-11-17T19:13:02.988532+00:00",
+      "path": "entries/other/mofan6-moect.md",
+      "summary": "Windows上で微信の好友・群聊、朋友圈、收藏表情、微信收藏を整理してエクスポートする。HTML、JSON、JSONL、TXT、CSV、Markdown、Excel形式に対応し、HTMLはオフラインで閲覧・検索・時間指定ができる。ZIPとAES-256による暗号化も選べる。READMEによると、メディアの保存可否はロ"
     },
     {
       "name": "Orfeo",
