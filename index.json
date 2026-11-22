@@ -1,5 +1,5 @@
 {
-  "count": 1306,
+  "count": 1307,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -28232,6 +28232,37 @@
       "fetched_at": "2026-11-12T18:09:18.512178+00:00",
       "path": "entries/other/zhihui-hu-one-ip.md",
       "summary": "IPv4/IPv6の所在・事業者・ASN・評判スコア・地図表示、DNS/WebRTC漏洩検出、AI・動画配信サービス等への接続診断、Cloudflareエッジネットワークを使った速度測定、WHOIS、Global Ping、ブラウザー指紋・環境検出、サービス状態確認を提供する。中英語、ライト/ダークテーマ、モバイル表示"
+    },
+    {
+      "name": "Web Interface Guidelines",
+      "genre": "other",
+      "url": "https://github.com/vercel-labs/web-interface-guidelines",
+      "repo": "vercel-labs/web-interface-guidelines",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "添付READMEは「Locale」で途切れており、続きの内容は確認できていません。提示部分には依存関係と実行条件の記載がありません。",
+      "stars": 1200,
+      "forks": 80,
+      "open_issues": 3,
+      "size_kb": 118,
+      "language": "Shell",
+      "created": "2025-09-10",
+      "updated": "2026-10-05",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 0,
+      "commits_90d": 2,
+      "commit_cadence": "stale",
+      "type": "repo",
+      "added": "2026-11-22",
+      "first_seen": "2026-11-22",
+      "sources": [
+        "https://x.com/somi_ai/status/2122508810241843510"
+      ],
+      "fetched_at": "2026-11-17T08:22:00.133840+00:00",
+      "path": "entries/other/vercel-labs-web-interface-guidelines.md",
+      "summary": "Webインターフェースの操作、アニメーション、レイアウト、コンテンツに関する設計指針を参照できます。READMEは「Most guidelines are framework-agnostic, some specific to React/Next.js.」と説明しています。"
     },
     {
       "name": "VFX-JS",

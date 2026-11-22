@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1306 件 — リポジトリ 909, リンク集 120, 記事 210, モデル 53, プロンプト 14 / ⚑ 要確認 1051 件
+収録 1307 件 — リポジトリ 910, リンク集 120, 記事 210, モデル 53, プロンプト 14 / ⚑ 要確認 1052 件
 
-## リポジトリ（909）
+## リポジトリ（910）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（196）
+### その他（197）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -158,6 +158,7 @@
 | [pg-jev](entries/other/realzachi-pg-jev.md) ⚑ | 1,303 | 109 | 月次 | 0 | 2026-10-06 | 2026-11-10 | 2026-11-11 | unknown |
 | [Rive C++ runtime](entries/other/rive-app-rive-runtime.md) ⚑ | 1,258 | 133 | 毎日 | 100+ | 2026-11-13 | 2026-11-14 | 2026-11-14 | MIT |
 | [One IP](entries/other/zhihui-hu-one-ip.md) ⚑ | 1,235 | 1,388 | 週次 | 18 | 2026-11-12 | 2026-11-12 | 2026-11-12 | AGPL-3.0 |
+| [Web Interface Guidelines](entries/other/vercel-labs-web-interface-guidelines.md) ⚑ | 1,200 | 80 | 停滞 | 0 | 2026-10-05 | 2026-11-17 | 2026-11-22 | MIT |
 | [VFX-JS](entries/other/fand-vfx-js.md) ⚑ | 1,193 | 40 | 毎日 | 55 | 2026-11-14 | 2026-11-16 | 2026-11-22 | MIT |
 | [Inkstone](entries/other/shuaiplus-inkstone.md) ⚑ | 1,188 | 1,095 | 月次 | 0 | 2026-10-07 | 2026-11-17 | 2026-11-22 | unknown |
 | [WeVisOne-VL](entries/other/tencent-wevisone-vl.md) | 1,111 | 95 | 月次 | 3 | 2026-10-25 | 2026-11-09 | 2026-11-10 | Apache-2.0（Tencent 著作部分） |
@@ -2510,6 +2511,7 @@
 - [pg-jev](entries/other/realzachi-pg-jev.md) — unverified / 速度・精度・費用はREADMEの著者測定で、独立再現、別データでの精度、現行料金、ローカル互換サーバーの動作は未確認。最新リリースの公開ページでタグを確認したが、タイムゾーン付きの公開日時は未確認。 GitHub APIでライセンスを確認できていません。
 - [Rive C++ runtime](entries/other/rive-app-rive-runtime.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [One IP](entries/other/zhihui-hu-one-ip.md) — unverified / 結果は第三者サービスに依存し、レート制限やクロスオリジン制約の影響を受ける場合がある。READMEはIP種別と評判スコアを参考情報としている。
+- [Web Interface Guidelines](entries/other/vercel-labs-web-interface-guidelines.md) — unverified / 添付READMEは「Locale」で途切れており、続きの内容は確認できていません。提示部分には依存関係と実行条件の記載がありません。
 - [VFX-JS](entries/other/fand-vfx-js.md) — unverified / 一次資料で未確認: 有効性。
 - [Inkstone](entries/other/shuaiplus-inkstone.md) — unverified / GitHub APIでライセンスを確認できていません。
 - [Shapeshift](entries/other/anishfn-shapeshift.md) — unverified / ['READMEと公開ソースを確認。コードは実行しておらず、分類精度、曖昧な入力での挙動、実応答時間、オンライン障害時のフォールバックは未実測。TypeSafe APIの現行料金と利用条件は未確認。']
