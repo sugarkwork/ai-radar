@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1351 件 — リポジトリ 950, リンク集 120, 記事 214, モデル 53, プロンプト 14 / ⚑ 要確認 1091 件
+収録 1352 件 — リポジトリ 951, リンク集 120, 記事 214, モデル 53, プロンプト 14 / ⚑ 要確認 1092 件
 
-## リポジトリ（950）
+## リポジトリ（951）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -225,7 +225,7 @@
 | [Pay Small Check](entries/other/ahmardchain-pay-small-check.md) ⚑ | 1 | 0 | 毎日 | 32 | 2026-11-07 | 2026-11-16 |  | MIT |
 | [LapDraw](entries/other/sachinyadavaug20-lapdraw.md) ⚑ | 0 | 0 | 毎日 | 22 | 2026-11-07 | 2026-11-13 |  | MIT |
 
-### コーディングエージェント（146）
+### コーディングエージェント（147）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -276,7 +276,7 @@
 | [improve](entries/coding-agent/shadcn-improve.md) ⚑ | 11,998 | 487 | 停滞 | 0 | 2026-09-12 | 2026-11-16 |  | MIT |
 | [UI Skills](entries/coding-agent/ibelick-ui-skills.md) ⚑ | 11,125 | 534 | 毎日 | 46 | 2026-11-14 | 2026-11-16 |  | MIT |
 | [Dashi PPT Skill](entries/coding-agent/chuspeeism-dashi-ppt-skill.md) ⚑ | 10,750 | 916 | 月次 | 2 | 2026-11-06 | 2026-11-16 |  | AGPL-3.0 |
-| [Stitch Design Skills](entries/coding-agent/google-labs-code-stitch-skills.md) ⚑ | 10,093 | 1,328 | 停滞 | 0 | 2026-08-17 | 2026-11-18 | 2026-11-22 | Apache-2.0 |
+| [Stitch Design Skills](entries/coding-agent/google-labs-code-stitch-skills.md) ⚑ | 10,093 | 1,328 | 停滞 | 0 | 2026-08-17 | 2026-11-18 |  | Apache-2.0 |
 | [Copilot for Obsidian](entries/coding-agent/logancyang-obsidian-copilot.md) ⚑ | 8,005 | 775 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 |  | AGPL-3.0 |
 | [fast-jev-compaction](entries/coding-agent/tamaratran-fast-jev-compaction.md) ⚑ | 7,985 | 588 | 月次 | 0 | 2026-09-18 | 2026-11-16 |  | MIT |
 | [billion-context](entries/coding-agent/ranxianglei-billion-context.md) ⚑ | 7,665 | 618 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 |  | NOASSERTION |
@@ -364,6 +364,7 @@
 | [Flow Preview](entries/coding-agent/tanishqkancharla-flow-preview.md) ⚑ | 37 | 3 | 週次 | 13 | 2026-11-06 | 2026-11-16 |  | Apache-2.0 |
 | [Jev Cookbook](entries/coding-agent/jev-engineering-cookbook.md) ⚑ | 35 | 6 | 毎日 | 61 | 2026-11-14 | 2026-11-16 |  | MIT |
 | [Teddarific/skills](entries/coding-agent/teddarific-skills.md) ⚑ | 19 | 1 | 月次 | 0 | 2026-10-14 | 2026-11-16 |  | unknown |
+| [peer](entries/coding-agent/oesoll-peer.md) ⚑ | 13 | 0 | 毎日 | 27 | 2026-11-16 | 2026-11-18 | 2026-11-22 | MIT |
 | [davekiss/mods（leaks）](entries/coding-agent/davekiss-mods.md) ⚑ | 12 | 1 | 月次 | 3 | 2026-10-29 | 2026-11-16 |  | MIT |
 | [system-design-skill](entries/coding-agent/codejunkie99-system-design-skill.md) ⚑ | 10 | 1 | 月次 | 1 | 2026-11-01 | 2026-11-16 |  | MIT |
 | [opencode-compaction-anchor](entries/coding-agent/kylebakerio-opencode-compaction-anchor.md) ⚑ | 3 | 1 | 月次 | 2 | 2026-11-01 | 2026-11-16 |  | MIT |
@@ -2218,6 +2219,7 @@
 - [Flow Preview](entries/coding-agent/tanishqkancharla-flow-preview.md) — unverified / README記載の要件はNode.js 24以降、npm、および生成されたプレビューの依存関係をインストールするためのレジストリアクセス。個別プロジェクトでの適合性や動作結果は未確認。
 - [Jev Cookbook](entries/coding-agent/jev-engineering-cookbook.md) — unverified / The README does not identify the license or provide the runtime requirements of each recipe. Box requires the Jev 1.14 preview and experimental images header. Quality, latency, and cost are not established by synthetic runs; live-result claims require held-out recorded inference with model version, date, and sample count.
 - [Teddarific/skills](entries/coding-agent/teddarific-skills.md) — unverified / README記載のインストール方法や実行条件は未検証です。ライセンスはAPIでunknownと確認されています。 GitHub APIでライセンスを確認できていません。
+- [peer](entries/coding-agent/oesoll-peer.md) — unverified / Codex対応はREADMEでClaude対応より新しく、テストが少ないと説明されている。Claude Codeのクロスセッション受信方式は公開APIではなく、更新で動作が変わる可能性がある。
 - [davekiss/mods（leaks）](entries/coding-agent/davekiss-mods.md) — unverified / ['READMEを確認した。プラグインは実行しておらず、節約額の推計精度、週次利用枠への実際の影響、対応するClaude Codeのバージョン、ログの外部送信がないという作者の説明は未検証。', 'GitHubの公開Releases一覧にリリースの掲載はなかった。']
 - [system-design-skill](entries/coding-agent/codejunkie99-system-design-skill.md) — unverified / READMEによると、実利用はまだなく、テストはURL短縮サービスの模擬インタビュー1回のみ。応答時間、レート制限、tier境界の一部は提案値で、ピーク負荷の2倍設定に標準的根拠はない。README記載の範囲では依存関係の詳細は確認できない。
 - [opencode-compaction-anchor](entries/coding-agent/kylebakerio-opencode-compaction-anchor.md) — unverified / README記載の結果は限定された4タスクで各設定1回の作者報告であり、独立実測ではない。

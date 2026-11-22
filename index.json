@@ -1,5 +1,5 @@
 {
-  "count": 1351,
+  "count": 1352,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -15522,6 +15522,37 @@
       "last_release_at": "",
       "path": "entries/coding-agent/teddarific-skills.md",
       "summary": "Claude Code、OpenCode、Codex、Antigravity向けのエージェントスキルを提供します。掲載スキル「anatomy-asset」は、ランディングページや製品サイト向けのアイソメトリックSVGイラストを作るものと説明されています。"
+    },
+    {
+      "name": "peer",
+      "genre": "coding-agent",
+      "url": "https://github.com/oesoll/peer",
+      "repo": "oesoll/peer",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "Codex対応はREADMEでClaude対応より新しく、テストが少ないと説明されている。Claude Codeのクロスセッション受信方式は公開APIではなく、更新で動作が変わる可能性がある。",
+      "stars": 13,
+      "forks": 0,
+      "open_issues": 0,
+      "size_kb": 17167,
+      "language": "Python",
+      "created": "2026-10-31",
+      "updated": "2026-11-16",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 27,
+      "commits_90d": 27,
+      "commit_cadence": "daily",
+      "type": "repo",
+      "added": "2026-11-22",
+      "first_seen": "2026-11-22",
+      "sources": [
+        "https://x.com/RoundtableSpace/status/2119244765325594625"
+      ],
+      "fetched_at": "2026-11-18T00:28:37.737506+00:00",
+      "path": "entries/coding-agent/oesoll-peer.md",
+      "summary": "Claude CodeとCodexのセッション間で名前を指定してメッセージを送り、配信状態や応答を確認できる。近くのセッション一覧、応答待ち、履歴参照、セッション起動、複数マシン間の接続にも対応する。READMEによると、Claude Codeでは組み込みのクロスセッション受信経路を使い、Codexではpeer経由で起"
     },
     {
       "repo": "davekiss/mods",
