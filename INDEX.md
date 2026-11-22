@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1327 件 — リポジトリ 926, リンク集 120, 記事 214, モデル 53, プロンプト 14 / ⚑ 要確認 1069 件
+収録 1328 件 — リポジトリ 927, リンク集 120, 記事 214, モデル 53, プロンプト 14 / ⚑ 要確認 1070 件
 
-## リポジトリ（926）
+## リポジトリ（927）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -608,7 +608,7 @@
 | [remotion-ffmpeg-skill](entries/video-gen/kajisho5-remotion-ffmpeg-skill.md) ⚑ | 8 | 0 | 毎日 | 77 | 2026-11-14 | 2026-11-17 | 2026-11-22 | MIT |
 | [BennyDaBall930/comfyui_hyperflow_int8_nodes](entries/video-gen/bennydaball930-comfyui_hyperflow_int8_nodes.md) ⚑ | 3 | 0 | 週次 | 10 | 2026-11-09 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
 
-### 3D・モーション（81）
+### 3D・モーション（82）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -669,6 +669,7 @@
 | [MPFB2](entries/3d-motion/makehumancommunity-mpfb2.md) ⚑ | 708 | 109 | 毎日 | 20 | 2026-11-12 | 2026-11-16 | 2026-11-22 | unknown |
 | [Ultra Water](entries/3d-motion/humpalumps-ultra-water.md) | 675 | 100 | 毎日 | 20 | 2026-11-02 | 2026-11-16 | 2026-11-22 | MIT |
 | [SkinTokens（TokenRig）](entries/3d-motion/vast-ai-research-skintokens.md) | 652 | 85 | 停滞 | 0 | 2026-05-12 | 2026-11-16 | 2026-11-22 | MIT |
+| [open-bot-avatar](entries/3d-motion/dominikscholz-open-bot-avatar.md) ⚑ | 633 | 58 | 週次 | 17 | 2026-11-17 | 2026-11-17 | 2026-11-22 | MIT |
 | [patch-gg/anymove](entries/3d-motion/patch-gg-anymove.md) ⚑ | 609 | 67 | 週次 | 12 | 2026-11-13 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
 | [prompt2rig — プロンプトから3Dキャラクター動作を生成](entries/3d-motion/blendi-remade-prompt2rig.md) ⚑ | 581 | 86 | 週次 | 16 | 2026-11-09 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
 | [InstantHMR](entries/3d-motion/naturalpad-studio-instanthmr.md) ⚑ | 410 | 46 | 週次 | 18 | 2026-11-10 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
@@ -1804,6 +1805,7 @@
 - [Scenario for Blender](entries/3d-motion/scenario-labs-blender-plugin.md) — unverified / インストール、MCP接続、生成品質、処理時間、実消費CUは未実測。発見投稿の羊牧場デモにおける本拡張の寄与と所要時間、生成物の利用条件は未確認。
 - [Athenaion](entries/3d-motion/leonxlnx-athenaion.md) — unverified / READMEには依存パッケージのバージョン、対応環境、必要なハードウェアの詳細が記載されていない。
 - [MPFB2](entries/3d-motion/makehumancommunity-mpfb2.md) — unverified / 公式資料に基づく確認。Blenderでの動作、Python経由の自動化、外部モーションキャプチャとの互換性、制作時間や工程全体の費用は未検証。GitHubの最新タグは確認したが、公開日時の年とタイムゾーンは確認できていない。 GitHub APIでライセンスを確認できていません。
+- [open-bot-avatar](entries/3d-motion/dominikscholz-open-bot-avatar.md) — unverified / 一次資料で未確認: 依存関係。
 - [patch-gg/anymove](entries/3d-motion/patch-gg-anymove.md) — unverified / 5秒2カメラ0.26ドルだけでなく実用1動作約3ドル・合格率58%等も作者説明。8本脚・寝姿・翼・尻尾等は不可。クラウド版なし、速度・精度は未追試。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [prompt2rig — プロンプトから3Dキャラクター動作を生成](entries/3d-motion/blendi-remade-prompt2rig.md) — unverified / コードはApache-2.0だが、HQパスの依存関係が商用を制限。GVHMR=教育・研究・非営利のみ。SMPL-X=非商用（商用はMeshcapadeから別途）。WiLoR=CC-BY-NC-ND。MANO=非商用。Ultralytics YOLO=AGPL-3.0（コピーレフト、エンタープライズライセンス別途）。MediaPipe・three.jsは商用可。Webアプリ・ライブプレビュー・動画生成は商用可能。HQパスを商用で使うには依存関係の置き換えまたは別途ライセンスが必要。動画モデル（FLUX 3 Max/H3 Max Turbo）はfalおよびモデル提供元の条件に従う。当方未実行。 当方でインストール・動作・性能の実行検証はしていない。
 - [InstantHMR](entries/3d-motion/naturalpad-studio-instanthmr.md) — unverified / モデルの利用条件は種類により異なります。READMEではnano/tiny/small/mediumはSAM License・非商用、medium-commercialはSAM Licenseとされていますが、ライセンスの詳細条件はREADMEに記載されていません。

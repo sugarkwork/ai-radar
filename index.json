@@ -1,5 +1,5 @@
 {
-  "count": 1327,
+  "count": 1328,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -1934,6 +1934,37 @@
       "type": "repo",
       "path": "entries/3d-motion/vast-ai-research-skintokens.md",
       "summary": "**1つのメッシュから、スケルトン階層とスキニングウェイトを一度に生成する自動リギング**。出力は標準的な3Dパイプラインにそのまま取り込める（キャラクターアニメーション・シミュレーション用）。"
+    },
+    {
+      "name": "open-bot-avatar",
+      "genre": "3d-motion",
+      "url": "https://github.com/DominikScholz/open-bot-avatar",
+      "repo": "DominikScholz/open-bot-avatar",
+      "license": "MIT",
+      "stars": 633,
+      "language": "TypeScript",
+      "created": "2026-11-02",
+      "updated": "2026-11-17",
+      "forks": 58,
+      "open_issues": 3,
+      "commits_30d": 17,
+      "commit_cadence": "weekly",
+      "commits_90d": 17,
+      "size_kb": 7988,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 依存関係。",
+      "type": "repo",
+      "added": "2026-11-22",
+      "first_seen": "2026-11-22",
+      "sources": [
+        "https://x.com/dextune/status/2119240990762631334"
+      ],
+      "fetched_at": "2026-11-17T21:12:29.366032+00:00",
+      "path": "entries/3d-motion/dominikscholz-open-bot-avatar.md",
+      "summary": "エージェント用アバターのJSON仕様とレンダラーを提供する。定義はSVGパスと目の位置で構成され、validateAvatarで定義を検証できる。renderAvatarSvgで静止SVGを生成し、mountAvatarでブラウザー要素に表示できる。色、表情、視線、奥行き、動きの設定に対応する。README記載。"
     },
     {
       "type": "repo",
