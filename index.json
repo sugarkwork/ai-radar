@@ -1,5 +1,5 @@
 {
-  "count": 1330,
+  "count": 1331,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -11427,6 +11427,37 @@
       "last_release_at": "2026-10-19",
       "path": "entries/coding-agent/tt-a1i-archify.md",
       "summary": "自然文から、ノードを選んで経路をたどれるHTMLの構成図を生成する。手元にコードがない設計案から始め、会話で認証の追加や経路の強調を指示できる。 [公式README](https://raw.githubusercontent.com/tt-a1i/archify/main/README.md)"
+    },
+    {
+      "name": "RTK (Rust Token Killer)",
+      "genre": "coding-agent",
+      "url": "https://github.com/rtk-ai/rtk",
+      "repo": "rtk-ai/rtk",
+      "license": "Apache-2.0",
+      "stars": 86937,
+      "language": "Rust",
+      "created": "2026-01-22",
+      "updated": "2026-11-17",
+      "forks": 5584,
+      "open_issues": 1670,
+      "commits_30d": 100,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 20442,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEはライセンス表示をApache-2.0とBUSL-1.1の併記としている一方、取得済みAPIデータはApache-2.0を示している。適用されるライセンス条件は未確認。削減率はREADME記載の作者側の説明であり、独立した実測ではない。",
+      "type": "repo",
+      "added": "2026-11-22",
+      "first_seen": "2026-11-22",
+      "sources": [
+        "https://x.com/irongiantXBT/status/2122709093102285099"
+      ],
+      "fetched_at": "2026-11-17T23:14:23.081035+00:00",
+      "path": "entries/coding-agent/rtk-ai-rtk.md",
+      "summary": "AIコーディングエージェントが読むシェルコマンド出力を圧縮する。READMEはテスト、diff、ログ、ビルド出力など100以上のコマンドを挙げ、rtk gainで削減状況を確認できるとしている。また、rtk bypassでコマンドをフィルターせず実行し、全出力を得る手順も示している。"
     },
     {
       "name": "Awesome Claude Skills",

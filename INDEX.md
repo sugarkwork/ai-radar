@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1330 件 — リポジトリ 929, リンク集 120, 記事 214, モデル 53, プロンプト 14 / ⚑ 要確認 1072 件
+収録 1331 件 — リポジトリ 930, リンク集 120, 記事 214, モデル 53, プロンプト 14 / ⚑ 要確認 1073 件
 
-## リポジトリ（929）
+## リポジトリ（930）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -218,7 +218,7 @@
 | [Pay Small Check](entries/other/ahmardchain-pay-small-check.md) ⚑ | 1 | 0 | 毎日 | 32 | 2026-11-07 | 2026-11-16 | 2026-11-22 | MIT |
 | [LapDraw](entries/other/sachinyadavaug20-lapdraw.md) ⚑ | 0 | 0 | 毎日 | 22 | 2026-11-07 | 2026-11-13 | 2026-11-13 | MIT |
 
-### コーディングエージェント（140）
+### コーディングエージェント（141）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -235,6 +235,7 @@
 | [Playwright](entries/coding-agent/microsoft-playwright.md) ⚑ | 100,346 | 6,896 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
 | [autoresearch](entries/coding-agent/karpathy-autoresearch.md) ⚑ | 100,135 | 13,784 | 停滞 | 0 | 2026-03-26 | 2026-11-16 | 2026-11-22 | unknown |
 | [Archify](entries/coding-agent/tt-a1i-archify.md) ⚑ | 97,153 | 6,636 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [RTK (Rust Token Killer)](entries/coding-agent/rtk-ai-rtk.md) ⚑ | 86,937 | 5,584 | 毎日 | 100+ | 2026-11-17 | 2026-11-17 | 2026-11-22 | Apache-2.0 |
 | [Awesome Claude Skills](entries/coding-agent/composiohq-awesome-claude-skills.md) ⚑ | 79,651 | 9,740 | 停滞 | 0 | 2026-09-18 | 2026-11-16 | 2026-11-22 | unknown |
 | [CodeGraph](entries/coding-agent/colbymchenry-codegraph.md) | 77,745 | 5,189 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
 | [AI Job Search](entries/coding-agent/ai-job-search-dev-ai-job-search.md) ⚑ | 72,085 | 23,191 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
@@ -2081,6 +2082,7 @@
 - [Playwright](entries/coding-agent/microsoft-playwright.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [autoresearch](entries/coding-agent/karpathy-autoresearch.md) — unverified / 独立実行による改善幅、試行回数、H100以外での動作、GPU・エージェントの利用料金は未確認。READMEはMITと記載しているが、親のGitHub API測定値はunknown。学習データの利用条件は未確認。 GitHub APIでライセンスを確認できていません。
 - [Archify](entries/coding-agent/tt-a1i-archify.md) — unverified / 生成された図の正確性や可読性、各エージェントでの導入と書き出しの動作は独立に検証していない。GitHubの公開ページで最新版タグを確認したが、完全な公開日時は未確認。
+- [RTK (Rust Token Killer)](entries/coding-agent/rtk-ai-rtk.md) — unverified / READMEはライセンス表示をApache-2.0とBUSL-1.1の併記としている一方、取得済みAPIデータはApache-2.0を示している。適用されるライセンス条件は未確認。削減率はREADME記載の作者側の説明であり、独立した実測ではない。
 - [Awesome Claude Skills](entries/coding-agent/composiohq-awesome-claude-skills.md) — unverified / ライセンスはGitHub APIの取得値がunknownです。READMEのバッジはApache 2.0を示していますが、ライセンス条件は確定できません。 GitHub APIでライセンスを確認できていません。
 - [AI Job Search](entries/coding-agent/ai-job-search-dev-ai-job-search.md) — unverified / 求人ポータル検索スキルはデンマーク市場向け。個人情報を含むプロフィールファイルの保存先と、公開forkではそのファイルが追跡対象になる点に注意。効果の数値は作者の利用報告であり、独立検証ではない。
 - [Open Interpreter](entries/coding-agent/openinterpreter-openinterpreter.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
