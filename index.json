@@ -1,5 +1,5 @@
 {
-  "count": 1259,
+  "count": 1260,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -31007,6 +31007,37 @@
       "fetched_at": "2026-11-15T14:17:13.060880+00:00",
       "path": "entries/rag/khoj-ai-khoj.md",
       "summary": "ローカルまたはオンラインのLLMとのチャット、インターネットや文書を使った回答、意味検索、知識・ペルソナ・チャットモデル・ツールを指定したエージェント作成、調査の自動化、画像生成、音声再生をREADMEで案内している。文書形式の例として画像、PDF、Markdown、org-mode、Word、Notionを挙げている"
+    },
+    {
+      "name": "Qdrant",
+      "genre": "rag",
+      "url": "https://github.com/qdrant/qdrant",
+      "repo": "qdrant/qdrant",
+      "license": "Apache-2.0",
+      "stars": 35598,
+      "language": "Rust",
+      "created": "2020-05-30",
+      "updated": "2026-11-16",
+      "forks": 2820,
+      "open_issues": 805,
+      "commits_30d": 100,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 76690,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "README記載の量子化によるRAM使用量最大97%削減は公式資料の説明であり、独立実測値ではない。Dockerの起動例は認証なしで全ネットワークインターフェースに公開されるため、本番利用前に公式のセキュリティ手順を確認する必要がある。",
+      "type": "repo",
+      "added": "2026-11-22",
+      "first_seen": "2026-11-22",
+      "sources": [
+        "https://x.com/RoundtableSpace/status/2119101320187560002"
+      ],
+      "fetched_at": "2026-11-16T21:19:02.555653+00:00",
+      "path": "entries/rag/qdrant-qdrant.md",
+      "summary": "ベクトル類似検索エンジン／ベクトルデータベースとして、ベクトルと追加ペイロードの保存・検索・管理を提供する。Dense・Sparse・Multi-vector検索、ペイロード条件によるフィルタリング、複数ベクトルのハイブリッド検索、量子化とディスク上ストレージ、シャーディングとレプリケーションによる分散配置に対応すると"
     },
     {
       "name": "Graphiti",

@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1259 件 — リポジトリ 864, リンク集 120, 記事 208, モデル 53, プロンプト 14 / ⚑ 要確認 1011 件
+収録 1260 件 — リポジトリ 865, リンク集 120, 記事 208, モデル 53, プロンプト 14 / ⚑ 要確認 1012 件
 
-## リポジトリ（864）
+## リポジトリ（865）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -879,7 +879,7 @@
 | [ComfyUI Prompt Atelier](entries/image-gen/renz1998-comfyui-prompt-atelier.md) | 3 | 0 | 毎日 | 72 | 2026-11-11 | 2026-11-16 | 2026-11-22 | GPL-3.0 |
 | [P-H3-Image ComfyUI sample workflows](entries/image-gen/tori29umai0123-p-h3-image_workflows.md) ⚑ | 2 | 1 | 週次 | 4 | 2026-11-06 | 2026-11-16 | 2026-11-22 | unknown |
 
-### RAG・検索（22）
+### RAG・検索（23）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -887,6 +887,7 @@
 | [HKUDS/DeepTutor](entries/rag/hkuds-deeptutor.md) ⚑ | 57,584 | 7,020 | 毎日 | 100+ | 2026-11-07 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
 | [OpenViking](entries/rag/volcengine-openviking.md) ⚑ | 42,312 | 3,502 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | AGPL-3.0 |
 | [Khoj](entries/rag/khoj-ai-khoj.md) ⚑ | 38,132 | 2,551 | 停滞 | 0 | 2026-08-02 | 2026-11-15 | 2026-11-15 | AGPL-3.0 |
+| [Qdrant](entries/rag/qdrant-qdrant.md) ⚑ | 35,598 | 2,820 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
 | [Graphiti](entries/rag/getzep-graphiti.md) ⚑ | 32,713 | 3,359 | 毎日 | 47 | 2026-11-09 | 2026-11-10 | 2026-11-11 | Apache-2.0 |
 | [OpenDataLoader PDF](entries/rag/opendataloader-project-opendataloader-pdf.md) | 30,261 | 2,897 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
 | [obsidianmd/obsidian-releases](entries/rag/obsidianmd-obsidian-releases.md) ⚑ | 23,200 | 7,954 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | unknown |
@@ -2543,6 +2544,7 @@
 - [HKUDS/DeepTutor](entries/rag/hkuds-deeptutor.md) — unverified / Apache-2.0表記はコード側の条件。教示の正しさ・教育効果、API費用、デスクトップの実機動作は未検証。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [OpenViking](entries/rag/volcengine-openviking.md) — unverified / README記載のLoCoMo・tau2-benchの評価値は作者による報告で、独立実測ではない。
 - [Khoj](entries/rag/khoj-ai-khoj.md) — unverified / READMEには依存関係、対応ランタイム、料金の詳細、セルフホストの具体的な手順が記載されていない。
+- [Qdrant](entries/rag/qdrant-qdrant.md) — unverified / README記載の量子化によるRAM使用量最大97%削減は公式資料の説明であり、独立実測値ではない。Dockerの起動例は認証なしで全ネットワークインターフェースに公開されるため、本番利用前に公式のセキュリティ手順を確認する必要がある。
 - [Graphiti](entries/rag/getzep-graphiti.md) — unverified / README says users supply the graph database, LLM, and embedder and build the surrounding service. It identifies Neo4j, FalkorDB, and Amazon Neptune as graph backend options. Specific setup requirements, effects, and costs are not verified here.
 - [obsidianmd/obsidian-releases](entries/rag/obsidianmd-obsidian-releases.md) — unverified / 原チェックはLICENSEなし。リポジトリ公開をObsidian本体または全プラグインのOSS化・自由再配布の許諾と扱わない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [NVIDIA/auto-ontology](entries/rag/nvidia-auto-ontology.md) — unverified / 原チェック時READMEは外部コントリビューションを受け付けないと明記。API・ホスト費用とデータ送信条件は実行前に確認する。 当方でインストール・推論・生成・ベンチ再現はしていない。
