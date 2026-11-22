@@ -1,5 +1,5 @@
 {
-  "count": 1254,
+  "count": 1255,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -26494,6 +26494,37 @@
       "fetched_at": "2026-11-14T07:18:40.305548+00:00",
       "path": "entries/other/synfig-synfig.md",
       "summary": "ベクターおよびビットマップのアートワークを使った2Dアニメーションを制作する。READMEでは、フレームごとにアニメーションを作成する必要をなくし、より少ない人員と資源で高品質なアニメーションを制作できると説明している。"
+    },
+    {
+      "name": "Henge",
+      "genre": "other",
+      "url": "https://github.com/Leviidev/Henge",
+      "repo": "Leviidev/Henge",
+      "license": "GPL-2.0",
+      "stars": 2368,
+      "language": "C",
+      "created": "2026-11-02",
+      "updated": "2026-11-15",
+      "forks": 208,
+      "open_issues": 130,
+      "commits_30d": 100,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 8152,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "iPadでの実機動作は未確認。iOS 17–26での外部ディスプレイ出力も実機未確認。Apple Accountへのサインインは失敗すると記載。",
+      "type": "repo",
+      "added": "2026-11-22",
+      "first_seen": "2026-11-22",
+      "sources": [
+        "https://x.com/Ryrenz/status/2119092525004657074"
+      ],
+      "fetched_at": "2026-11-16T21:10:30.032027+00:00",
+      "path": "entries/other/leviidev-henge.md",
+      "summary": "iPhone/iPad上でmacOSを独自エミュレーターにより実行する。READMEによると、Macのarm64コードを独自JIT、MMU、デバイスで動かし、QEMUやVirtualization.frameworkは使用しない。Appleの復元イメージをダウンロードして端末上にインストールし、仮想GPUの描画命令をM"
     },
     {
       "name": "JIZURA 字面",
