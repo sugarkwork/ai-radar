@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1255 件 — リポジトリ 860, リンク集 120, 記事 208, モデル 53, プロンプト 14 / ⚑ 要確認 1008 件
+収録 1256 件 — リポジトリ 861, リンク集 120, 記事 208, モデル 53, プロンプト 14 / ⚑ 要確認 1009 件
 
-## リポジトリ（860）
+## リポジトリ（861）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -918,12 +918,13 @@
 | [kodasdream/gamefeel-benchmark](entries/eval/kodasdream-gamefeel-benchmark.md) ⚑ | 16 | 0 | 毎日 | 51 | 2026-11-16 | 2026-11-16 | 2026-11-22 | unknown |
 | [JevLight](entries/eval/usail-hkust-jevlight.md) ⚑ | 11 | 3 | 週次 | 10 | 2026-11-12 | 2026-11-16 | 2026-11-22 | unknown |
 
-### リンク（素材・アイコン・3D）（5）
+### リンク（素材・アイコン・3D）（6）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
 | [Awesome-Selfhosted](entries/link-asset/awesome-selfhosted-awesome-selfhosted.md) ⚑ | 337,694 | 15,862 | 週次 | 16 | 2026-11-16 | 2026-11-16 | 2026-11-22 | unknown |
 | [方舟像素字体 / Ark Pixel Font](entries/link-asset/takwolf-ark-pixel-font.md) ⚑ | 4,980 | 104 | 毎日 | 28 | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [PokéAPI Sprites](entries/link-asset/pokeapi-sprites.md) ⚑ | 1,997 | 407 | 週次 | 7 | 2026-11-13 | 2026-11-16 | 2026-11-22 | unknown |
 | [lucas-martinic/polyfork-catalog](entries/link-asset/lucas-martinic-polyfork-catalog.md) ⚑ | 754 | 89 | 週次 | 15 | 2026-11-16 | 2026-11-16 | 2026-11-22 | NOASSERTION |
 | [Shisei](entries/link-asset/wquguru-shisei.md) ⚑ | 537 | 112 | 毎日 | 100+ | 2026-11-14 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
 | [idlerunner00/procedural-pixel-creatures](entries/link-asset/idlerunner00-procedural-pixel-creatures.md) ⚑ | 264 | 33 | 月次 | 0 | 2026-10-05 | 2026-11-16 | 2026-11-22 | MIT |
@@ -2192,6 +2193,7 @@
 - [Z-Image-Turbo：低VRAM向けComfyUI制作記事](articles/image-generation/2026-11-09-zzuurn-z-image-low-vram.md) — unverified / 18+ / NSFW。成人向け表現を扱う。VRAM・速度・長時間安定性は記事の主張で、当方では未検証。公式モデルは16GB環境への適合を説明しており、8GB動作は量子化・オフロードや環境に左右される。モデルや追加素材の条件は個別確認。
 - [Awesome-Selfhosted](entries/link-asset/awesome-selfhosted-awesome-selfhosted.md) — unverified / README describes the list as Free Software, with non-free software listed separately. Repository license is unknown in the supplied measured data; individual entries have their own listed licenses and deployment technologies. GitHub APIでライセンスを確認できていません。
 - [方舟像素字体 / Ark Pixel Font](entries/link-asset/takwolf-ark-pixel-font.md) — unverified / READMEは文字が大量に不足していると説明しています。16pxサイズは廃止済みです。
+- [PokéAPI Sprites](entries/link-asset/pokeapi-sprites.md) — unverified / ライセンスはAPI計測値でunknown。利用条件は確認できないため、利用前に確認が必要。 GitHub APIでライセンスを確認できていません。
 - [lucas-martinic/polyfork-catalog](entries/link-asset/lucas-martinic-polyfork-catalog.md) — unverified / LICENSE.mdはindexのみ。各メッシュやmjsを同条件で再配布できない。投稿の2791件は原チェック時3077件より古い。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Shisei](entries/link-asset/wquguru-shisei.md) — unverified / 線画と各マップの画素整合、生成結果の一貫性、ControlNetのモデル別互換性、ZIPの中身とチェックサムは独立検証していない。リリースタグは確認済みで、公開日時は未確認。
 - [idlerunner00/procedural-pixel-creatures](entries/link-asset/idlerunner00-procedural-pixel-creatures.md) — unverified / AI画像を生成するモデルではなく手続き型生成。95%が一プロンプト由来という制作比率は作者推定。原チェック時30日commit0で実機未確認。 当方でインストール・推論・生成・ベンチ再現はしていない。
