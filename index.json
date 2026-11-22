@@ -1,5 +1,5 @@
 {
-  "count": 1289,
+  "count": 1290,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -24980,6 +24980,37 @@
       "last_release_at": "2026-11-16",
       "path": "entries/other/citrolabs-ego-lite.md",
       "summary": "CodexやClaude Codeが専用のSpaceでページを開き、構造化テキストとして内容を読み取ったり、フォームに入力したりできる。利用者は自分のSpaceで閲覧を続けられる。"
+    },
+    {
+      "name": "MicroPython",
+      "genre": "other",
+      "url": "https://github.com/micropython/micropython",
+      "repo": "micropython/micropython",
+      "license": "unknown",
+      "stars": 22205,
+      "language": "C",
+      "created": "2013-12-20",
+      "updated": "2026-11-17",
+      "forks": 9062,
+      "open_issues": 1605,
+      "commits_30d": 100,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 77501,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-22",
+      "first_seen": "2026-11-22",
+      "sources": [
+        "https://x.com/dextune/status/2119157945149923762"
+      ],
+      "fetched_at": "2026-11-17T05:33:49.647675+00:00",
+      "path": "entries/other/micropython-micropython.md",
+      "summary": "制約のあるプラットフォーム向けにPython 3.xの実装を提供する。READMEによると、Python 3.4構文の全体と一部の後続機能を実装し、基本的なデータ型と組み込みモジュールを備える。また、GPIO、Timers、ADC、DAC、PWM、SPI、I2C、CAN、Bluetooth、USBなど、ハードウェアや周"
     },
     {
       "name": "Rough.js",
