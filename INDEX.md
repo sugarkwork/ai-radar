@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1359 件 — リポジトリ 957, リンク集 120, 記事 215, モデル 53, プロンプト 14 / ⚑ 要確認 1099 件
+収録 1360 件 — リポジトリ 958, リンク集 120, 記事 215, モデル 53, プロンプト 14 / ⚑ 要確認 1100 件
 
-## リポジトリ（957）
+## リポジトリ（958）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -225,7 +225,7 @@
 | [Pay Small Check](entries/other/ahmardchain-pay-small-check.md) ⚑ | 1 | 0 | 毎日 | 32 | 2026-11-07 | 2026-11-16 | 2026-11-22 | MIT |
 | [LapDraw](entries/other/sachinyadavaug20-lapdraw.md) ⚑ | 0 | 0 | 毎日 | 22 | 2026-11-07 | 2026-11-13 | 2026-11-13 | MIT |
 
-### コーディングエージェント（148）
+### コーディングエージェント（149）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -336,6 +336,7 @@
 | [Diorama](entries/coding-agent/sloemo01-diorama.md) ⚑ | 566 | 48 | 毎日 | 38 | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
 | [Agent HUD](entries/coding-agent/jazzenchen-agent-hud-open.md) ⚑ | 553 | 81 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
 | [Boring Marketing Skills](entries/coding-agent/boringmarketer-boring-marketing-skills.md) ⚑ | 518 | 201 | 週次 | 7 | 2026-11-17 | 2026-11-17 | 2026-11-22 | MIT |
+| [Taste — Design DNA Extractor](entries/coding-agent/senlindesign-taste-skill.md) ⚑ | 493 | 43 | 停滞 | 0 | 2026-07-07 | 2026-11-18 | 2026-11-22 | unknown |
 | [qiaomu-seo](entries/coding-agent/joeseesun-qiaomu-seo.md) ⚑ | 476 | 62 | 停滞 | 0 | 2026-08-03 | 2026-11-16 | 2026-11-22 | MIT |
 | [simcraft](entries/coding-agent/dotslashsimran-simcraft.md) ⚑ | 470 | 36 | 月次 | 3 | 2026-11-09 | 2026-11-16 | 2026-11-22 | MIT |
 | [SeeCut](entries/coding-agent/yeje-cpu-seecut.md) ⚑ | 464 | 85 | 月次 | 2 | 2026-10-30 | 2026-11-16 | 2026-11-22 | unknown |
@@ -2202,6 +2203,7 @@
 - [Diorama](entries/coding-agent/sloemo01-diorama.md) — unverified / 一次資料で未確認: 有効性・実行条件。
 - [Agent HUD](entries/coding-agent/jazzenchen-agent-hud-open.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Boring Marketing Skills](entries/coding-agent/boringmarketer-boring-marketing-skills.md) — unverified / 作者は実キャンペーン由来の知見や効果を述べていますが、READMEだけでは独立した検証を確認できません。
+- [Taste — Design DNA Extractor](entries/coding-agent/senlindesign-taste-skill.md) — unverified / READMEのライセンスバッジはMITを示すが、ライセンス本文は確認できていない。 GitHub APIでライセンスを確認できていません。
 - [qiaomu-seo](entries/coding-agent/joeseesun-qiaomu-seo.md) — unverified / 一次資料で未確認: 技術背景・有効性。
 - [simcraft](entries/coding-agent/dotslashsimran-simcraft.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [SeeCut](entries/coding-agent/yeje-cpu-seecut.md) — unverified / README says the workflow has only been tested on macOS. The author reports Claude Code tested and other skill-capable agents theoretically compatible; those other agents are not independently verified here. An Antigravity CLI account and sufficient usage quota are required for video review and self-iteration. GitHub APIでライセンスを確認できていません。

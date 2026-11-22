@@ -1,5 +1,5 @@
 {
-  "count": 1359,
+  "count": 1360,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -14709,6 +14709,37 @@
       "fetched_at": "2026-11-17T23:28:54.127105+00:00",
       "path": "entries/coding-agent/boringmarketer-boring-marketing-skills.md",
       "summary": "Claude Code、Codex、Cursorなどのエージェントに追加する32種類のマーケティングスキルを提供。地域ビジネス向けの調査、ポジショニング、コピー、ページ作成、SEO、AI検索、広告、メール、コンテンツ制作などを扱います。READMEでは各スキルが有料ツールなしで動くと説明しています。"
+    },
+    {
+      "name": "Taste — Design DNA Extractor",
+      "genre": "coding-agent",
+      "url": "https://github.com/senlindesign/taste-skill",
+      "repo": "senlindesign/taste-skill",
+      "license": "unknown",
+      "stars": 493,
+      "language": "JavaScript",
+      "created": "2026-05-24",
+      "updated": "2026-07-07",
+      "forks": 43,
+      "open_issues": 7,
+      "commits_30d": 0,
+      "commit_cadence": "stale",
+      "commits_90d": 0,
+      "size_kb": 10130,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEのライセンスバッジはMITを示すが、ライセンス本文は確認できていない。 GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-22",
+      "first_seen": "2026-11-22",
+      "sources": [
+        "https://x.com/suraj_sharma14/status/2122585528906518837"
+      ],
+      "fetched_at": "2026-11-18T00:44:35.716232+00:00",
+      "path": "entries/coding-agent/senlindesign-taste-skill.md",
+      "summary": "任意のWebサイトを解析し、デザインマップと「Taste DNA」をMarkdownおよびJSONで出力する。背景色・書体・角丸などの計測値に加え、デザイン原則、その根拠、判断理由、トレードオフをまとめる。CursorやWindsurfなど9種類のビルドツール向け形式にも出力できる。"
     },
     {
       "name": "qiaomu-seo",
