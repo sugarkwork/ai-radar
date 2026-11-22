@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1342 件 — リポジトリ 941, リンク集 120, 記事 214, モデル 53, プロンプト 14 / ⚑ 要確認 1083 件
+収録 1343 件 — リポジトリ 942, リンク集 120, 記事 214, モデル 53, プロンプト 14 / ⚑ 要確認 1083 件
 
-## リポジトリ（941）
+## リポジトリ（942）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -369,7 +369,7 @@
 | [Leash](entries/coding-agent/cmaintz-leash.md) ⚑ | 0 | 0 | 毎日 | 20 | 2026-11-15 | 2026-11-16 | 2026-11-22 | MIT |
 | [grok-x](entries/coding-agent/stat-guy-grok-x.md) ⚑ | 0 | 0 | 停滞 | 0 | 2026-03-19 | 2026-11-16 | 2026-11-22 | unknown |
 
-### エージェント基盤・スキル集（123）
+### エージェント基盤・スキル集（124）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -456,6 +456,7 @@
 | [hyperresearch](entries/agent-framework/jordan-gibbs-hyperresearch.md) ⚑ | 4,828 | 500 | 毎日 | 35 | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
 | [Effective HTML](entries/agent-framework/plannotator-effective-html.md) | 4,193 | 288 | 週次 | 4 | 2026-10-31 | 2026-11-16 | 2026-11-22 | MIT |
 | [Speakr](entries/agent-framework/murtaza-nasir-speakr.md) ⚑ | 4,180 | 361 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | AGPL-3.0 |
+| [Semantic Router](entries/agent-framework/aurelio-labs-semantic-router.md) | 4,033 | 396 | 毎日 | 21 | 2026-11-09 | 2026-11-17 | 2026-11-22 | MIT |
 | [FireRed-OpenStoryline](entries/agent-framework/fireredteam-firered-openstoryline.md) ⚑ | 3,692 | 434 | 停滞 | 0 | 2026-07-31 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
 | [SoL-Pi](entries/agent-framework/nvlabs-sol-pi.md) | 3,683 | 303 | 月次 | 3 | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
 | [Stageshow（benjitaylor/skills）](entries/agent-framework/benjitaylor-skills.md) | 3,442 | 235 | 月次 | 3 | 2026-11-05 | 2026-11-16 | 2026-11-22 | 未確認（リポジトリ全体の LICENSE なし。各スキル個別のライセンス表記） |

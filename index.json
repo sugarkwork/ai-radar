@@ -1,5 +1,5 @@
 {
-  "count": 1342,
+  "count": 1343,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -6424,6 +6424,35 @@
       "last_release_at": "2026-11-16",
       "path": "entries/agent-framework/murtaza-nasir-speakr.md",
       "summary": "音声を録音またはファイルから取り込み、文字起こし、要約、アクション項目や予定の抽出、録音単位のチャット、録音ライブラリ横断の意味検索・チャットを行う。フォルダー、タグ、保持ポリシー、共有、ユーザー・グループ管理、REST API、署名付きWebhook、テンプレート出力を備えるとREADMEに記載。WhisperX、O"
+    },
+    {
+      "name": "Semantic Router",
+      "genre": "agent-framework",
+      "url": "https://github.com/aurelio-labs/semantic-router",
+      "repo": "aurelio-labs/semantic-router",
+      "stars": 4033,
+      "forks": 396,
+      "open_issues": 102,
+      "size_kb": 117032,
+      "language": "Python",
+      "created": "2023-10-30",
+      "updated": "2026-11-09",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 21,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "flags": [],
+      "type": "repo",
+      "added": "2026-11-22",
+      "first_seen": "2026-11-22",
+      "risk_notes": "",
+      "sources": [
+        "https://x.com/irongiantXBT/status/2122709093102285099"
+      ],
+      "fetched_at": "2026-11-17T23:23:46.086073+00:00",
+      "path": "entries/agent-framework/aurelio-labs-semantic-router.md",
+      "summary": "READMEによると、入力文を定義済みルートと照合してLLMやエージェントの判断を振り分ける。IndexedRouterによる埋め込み検索、DecisionRouterによる判断モデルの利用、複数ルーターのChainやMerge、キーワードを併用するハイブリッド検索、画像ルーティングが紹介されている。READMEは判断"
     },
     {
       "repo": "FireRedTeam/FireRed-OpenStoryline",
