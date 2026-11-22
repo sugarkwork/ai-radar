@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1258 件 — リポジトリ 863, リンク集 120, 記事 208, モデル 53, プロンプト 14 / ⚑ 要確認 1011 件
+収録 1259 件 — リポジトリ 864, リンク集 120, 記事 208, モデル 53, プロンプト 14 / ⚑ 要確認 1011 件
 
-## リポジトリ（863）
+## リポジトリ（864）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -331,7 +331,7 @@
 | [Leash](entries/coding-agent/cmaintz-leash.md) ⚑ | 0 | 0 | 毎日 | 20 | 2026-11-15 | 2026-11-16 | 2026-11-22 | MIT |
 | [grok-x](entries/coding-agent/stat-guy-grok-x.md) ⚑ | 0 | 0 | 停滞 | 0 | 2026-03-19 | 2026-11-16 | 2026-11-22 | unknown |
 
-### エージェント基盤・スキル集（117）
+### エージェント基盤・スキル集（118）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -361,6 +361,7 @@
 | [Flowise](entries/agent-framework/flowiseai-flowise.md) ⚑ | 55,570 | 25,095 | 停滞 | 0 | 2026-08-13 | 2026-11-16 | 2026-11-22 | unknown |
 | [agentic-awesome-skills（AAS）](entries/agent-framework/sickn33-agentic-awesome-skills.md) | 49,810 | 7,216 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
 | [claude-plugins-official](entries/agent-framework/anthropics-claude-plugins-official.md) | 47,464 | 4,931 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [LangGraph](entries/agent-framework/langchain-ai-langgraph.md) | 45,031 | 7,776 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
 | [oh-my-claudecode](entries/agent-framework/yeachan-heo-oh-my-claudecode.md) ⚑ | 40,867 | 3,648 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
 | [ai-website-cloner-template](entries/agent-framework/jcodesmore-ai-website-cloner-template.md) | 39,282 | 5,849 | 月次 | 1 | 2026-11-10 | 2026-11-16 | 2026-11-22 | MIT |
 | [Knowledge Work Plugins](entries/agent-framework/anthropics-knowledge-work-plugins.md) ⚑ | 36,290 | 4,008 | 毎日 | 32 | 2026-11-13 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
