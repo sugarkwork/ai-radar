@@ -1,5 +1,5 @@
 {
-  "count": 1271,
+  "count": 1272,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -30827,6 +30827,37 @@
       ],
       "fetched_at": "2026-11-13T14:07:18.938460+00:00",
       "path": "articles/2026-11-07-author-minimax-h3.md"
+    },
+    {
+      "name": "P-H3-Image Workflows",
+      "genre": "prompt-design",
+      "url": "https://github.com/sepiablue-ai/p-h3-image-workflows",
+      "repo": "sepiablue-ai/p-h3-image-workflows",
+      "license": "unknown",
+      "stars": 0,
+      "language": "unknown",
+      "created": "2026-11-07",
+      "updated": "2026-11-07",
+      "forks": 0,
+      "open_issues": 0,
+      "commits_30d": 1,
+      "commit_cadence": "monthly",
+      "commits_90d": 1,
+      "size_kb": 6,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "ライセンスは確認できていません。README記載の生成結果は少数の手動試行に基づく定性的観察で、制御された評価や再現保証ではありません。ビーチ用プロンプトの改訂版は未評価です。 GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-22",
+      "first_seen": "2026-11-22",
+      "sources": [
+        "https://x.com/sep_is_heim/status/2119127775793877153"
+      ],
+      "fetched_at": "2026-11-17T02:15:49.781064+00:00",
+      "path": "entries/prompt-design/sepiablue-ai-p-h3-image-workflows.md",
+      "summary": "キャラクターの正面・側面・背面を含む1枚の参照シートをPicture 1として渡し、シーン、衣装、カメラ角度、ポーズを変えた画像を生成するための英語プロンプトを3例収録。READMEでは、教室とセーターの例について、少数の手動試行で顔や髪型の特徴が認識可能な形で残ったと報告しています。これは作者による定性的観察で、再現"
     },
     {
       "type": "link",

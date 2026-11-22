@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1271 件 — リポジトリ 875, リンク集 120, 記事 209, モデル 53, プロンプト 14 / ⚑ 要確認 1020 件
+収録 1272 件 — リポジトリ 876, リンク集 120, 記事 209, モデル 53, プロンプト 14 / ⚑ 要確認 1021 件
 
-## リポジトリ（875）
+## リポジトリ（876）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -821,7 +821,7 @@
 | [JevOnAir](entries/finance-quant/valuecodes-jev-on-air.md) ⚑ | 0 | 0 | 週次 | 11 | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
 | [jev-polymarket-test](entries/finance-quant/truongxxxx-jev-polymarket-test.md) ⚑ | 0 | 0 | 停滞 | 0 | 2026-10-10 | 2026-11-16 | 2026-11-22 | MIT |
 
-### プロンプト（デザイン/UI）（30）
+### プロンプト（デザイン/UI）（31）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -855,6 +855,7 @@
 | [better-readme](entries/prompt-design/tommy0103-better-readme-skill.md) ⚑ | 32 | 1 | 停滞 | 0 | 2026-10-08 | 2026-11-09 | 2026-11-10 | MIT |
 | [Grok Bot Teams](entries/prompt-design/ellelion-botteams.md) ⚑ | 26 | 6 | 月次 | 0 | 2026-09-08 | 2026-11-10 | 2026-11-10 | MIT |
 | [GUntilB/Anima-Prompt-Generator](entries/prompt-design/guntilb-anima-prompt-generator.md) ⚑ | 13 | 1 | 月次 | 3 | 2026-11-08 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
+| [P-H3-Image Workflows](entries/prompt-design/sepiablue-ai-p-h3-image-workflows.md) ⚑ | 0 | 0 | 月次 | 1 | 2026-11-07 | 2026-11-17 | 2026-11-22 | unknown |
 
 ### 画像生成・編集（28）
 
@@ -2548,6 +2549,7 @@
 - [Grok 6ボットで回すAIペルソナ農場（Persona Farm）構築プロンプト](prompts/prompt-design/grok-6-ai-persona-farm-0eee1982d3.md) — unverified / 投稿の数値（16,286フォロワー/45本/391返信/$1,386）は本人のデモ動画（day 11/14・15,201フォロワー・40本・3/5トークン・$1,050・画面に illustrative）とも一致せず第三者検証なし。5体のペルソナ実アカウントと $GUS/$OTIS/$LARS のペルソナ由来トークンは未確認（同名の無関係トークンと Otis 株のみ）。自動投稿・大量返信・トークン発行を指示する内容で、各SNSの規約と暗号資産規制に触れ得る。
 - [Grok Bot の4ボット記憶設計——raw 原本と rules で第二の脳を組むプロンプト](articles/2026-10-24-bober_smart-grok-bot-4-raw-rules.md) — unverified / 【主張】投稿は「Grok のボットチームでリークがあった」として、Grok Bot 用の記憶アーキテクチャのシステムプロンプト（second-brain.xml、15セクション）を動画末尾に全文掲載している。【確認できた】①投稿と動画の実体（2026-10-24T12:35:02Z、26.05秒、最終フレームに15セクション全文が判読可能）②プロンプトの設計内容（4ボット／raw/・wiki/・rules.md の3層／conflict_rules 6条／毎時 attention list／夜間チェック等）③Grok Bot 側の前提機能（Bot ごとのメモリ、グループチャット、routine、共有コンピュータ上のファイル）は xAI 公式ドキュメントで確認。【未確認・誤り】①リーク主張は裏付けなし。xAI 公式（x.ai/news、docs.x.ai/grok-bot）にも報道にも「ボットチームのリーク」の発表は見つからない。動画の文面は xAI の内部プロンプトではなく、ユーザーが Grok Bot に与える指示文（"You are my chief of staff and memory architect." で始まる）。同名で実在する Grok Bot 製品プロンプト（asgeirtj/system_prompts_leaks、2026-10-24 更新、211,184 bytes、"You are Grok Bot, a warm, concise desktop assistant."）とは別物で、同日更新のため混同しやすい。②動画は実画面の録画ではなくモック UI。SOURCES 230／PAGES 126→150／UNSOURCED 0→1／STATUS BUILT→CHECK→LIVE とフレーム間で数値が変わり、グループチャットのログも演出。画面の数字は実測値ではない。③投稿の「証拠が無ければ即座に記憶から破棄」はプロンプト本文と不一致。本文は UNSOURCED として人間に確認し、対象外は "skipped" に移して「削除しない」と指示しており、投稿の要約のほうが過激。④技術的妥当性は「製品機能の範囲で組める」まで。指示文に強制力はなく、ボットが raw/ を書き換えない保証も出典照合の実行保証もない。公式ドキュメント自身が「メモリは権威ある情報源の代替ではない」「変わる数値は取り直せ」と警告している。⑤毎時の受信箱・Slack・カレンダー走査と夜間の全 wiki 走査の負荷・トークン消費は未測定。Telegram への1日1通は公式の接続先として確認できず未確認。⑥エンゲージメント設計が強い。「insanely dangerous」「leak」のフック、プロンプトを動画最後に置く構成、"Bookmark this post"、引用先はログインウォールの X 記事（307 でログイン画面へ、本文到達不可）。同アカウントは 2026-10-26 にも "It is becoming f*cking dangerous … $16,400" と同型の投稿をしており、返信欄にも「露出＝公式リークではない」「アフィリエイト投稿」との批判がある。プロンプト自体にアフィリエイトリンクは無い。
 - [MiniMax H3の参照動画で走る女性のふくらはぎを柔らかく描くプロンプト調整](articles/2026-11-07-author-minimax-h3.md) — unverified / 柔らかな厚みの指定で改善したという効果は、作者による1組・1seedの目視評価で、全コマでの改善や他seedでの再現性は確認されていない。記事自身も原因をH3の学習表現に帰する説明を観察に基づく推測としている。
+- [P-H3-Image Workflows](entries/prompt-design/sepiablue-ai-p-h3-image-workflows.md) — unverified / ライセンスは確認できていません。README記載の生成結果は少数の手動試行に基づく定性的観察で、制御された評価や再現保証ではありません。ビーチ用プロンプトの改訂版は未評価です。 GitHub APIでライセンスを確認できていません。
 - [SceneAI](links/prompt-design/https-sceneai.art.md) — unverified / 月49ドル/買切199ドルは2026-11-08の記録で現行価格は未確認。有料素材の本文を転載せず、素材数や効果は配布元の案内として扱う。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [shadcn 公式スキル（shadcn/ui agent skill）](links/prompt-design/skills.sh-shadcn-shadcn-ui-agent-skill.md) — unverified / 未確認: (1) 生成される UI の品質・再現性は未実測。リポジトリに evals/evals.json はあるが、公開された採点結果や通過率は確認していない。(2) GitHub の stars は API がレート制限で取得できず、skills.sh 表示の 127.6K を採録（API 実測ではない）。(3) 見本ページ生成の一連の流れは design-system.md / design-system-page.md の記述に基づくもので、当方はアプリの scaffold から通しで実行していない。注意: スキルは SKILL.md 内の !`command` ディレクティブでシェルコマンドを実行し、エージェント権限で動く（skills.sh も警告、Socket 監査は Warn）。skills CLI は既定で匿名テレメトリを送る。DESIGN.md の配色はコミュニティが各ブランドを解釈したもので公式配色ではない（DESIGN.md 側の性質で、本スキルの欠陥ではない）。
 - [キャラクター三面図プロンプト（GPT / MageSpace）](prompts/prompt-design/jackchen1919-character-sheet.md) — unverified / 投稿はプロンプト本文＋生成結果8枚で、特定の製品・モデルの配布ではない。生成画像は著者の作例で、再現性・品質は未検証（当方では生成していない）。実在の人物・既存キャラクターに寄せると権利侵害になり得る。
