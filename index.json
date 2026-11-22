@@ -1,5 +1,5 @@
 {
-  "count": 1282,
+  "count": 1283,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -23787,6 +23787,37 @@
       "fetched_at": "2026-11-17T02:22:22.975408+00:00",
       "path": "entries/other/docling-project-docling.md",
       "summary": "PDF、DOCX、PPTX、XLSX、HTML、画像、音声などの文書形式を解析し、Markdown、HTML、WebVTT、JSONなどへ出力する。PDFではページレイアウト、読み順、表構造、コード、数式などを扱う。OCR、音声認識、動画解析、MCPサーバー、APIサーバーもREADMEに記載されている。"
+    },
+    {
+      "name": "Prometheus",
+      "genre": "other",
+      "url": "https://github.com/prometheus/prometheus",
+      "repo": "prometheus/prometheus",
+      "stars": 67664,
+      "forks": 11031,
+      "open_issues": 1107,
+      "size_kb": 297194,
+      "language": "Go",
+      "created": "2012-11-24",
+      "updated": "2026-11-16",
+      "archived": false,
+      "license": "Apache-2.0",
+      "commits_30d": 100,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景・有効性・実行条件。",
+      "type": "repo",
+      "added": "2026-11-22",
+      "first_seen": "2026-11-22",
+      "sources": [
+        "https://x.com/RoundtableSpace/status/2119139068374290493"
+      ],
+      "fetched_at": "2026-11-17T03:14:18.349839+00:00",
+      "path": "entries/other/prometheus-prometheus.md",
+      "summary": "設定したターゲットから一定間隔でメトリクスを収集し、ルール式を評価して結果を表示し、指定条件に応じてアラートを発生させる。PromQLによるクエリ、サービスディスカバリまたは静的設定、グラフ・ダッシュボード、フェデレーションにも対応する。出典: https://github.com/prometheus/prometh"
     },
     {
       "repo": "FFmpeg/FFmpeg",
