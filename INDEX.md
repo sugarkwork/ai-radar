@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1333 件 — リポジトリ 932, リンク集 120, 記事 214, モデル 53, プロンプト 14 / ⚑ 要確認 1074 件
+収録 1334 件 — リポジトリ 933, リンク集 120, 記事 214, モデル 53, プロンプト 14 / ⚑ 要確認 1075 件
 
-## リポジトリ（932）
+## リポジトリ（933）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（205）
+### その他（206）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Lucide](entries/other/lucide-icons-lucide.md) ⚑ | 25,800 | 1,692 | 毎日 | 100+ | 2026-11-17 | 2026-11-17 | 2026-11-22 | unknown |
 | [Neural Networks: Zero to Hero](entries/other/karpathy-nn-zero-to-hero.md) ⚑ | 25,433 | 3,697 | 停滞 | 0 | 2024-08-18 | 2026-11-10 | 2026-11-10 | MIT |
 | [SpiderFoot](entries/other/smicallef-spiderfoot.md) ⚑ | 24,564 | 4,081 | 停滞 | 0 | 2026-04-13 | 2026-11-13 | 2026-11-14 | MIT |
+| [Prefect](entries/other/prefecthq-prefect.md) ⚑ | 24,173 | 2,667 | 毎日 | 100+ | 2026-11-17 | 2026-11-17 | 2026-11-22 | Apache-2.0 |
 | [ego lite](entries/other/citrolabs-ego-lite.md) ⚑ | 23,149 | 1,308 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
 | [Yjs](entries/other/yjs-yjs.md) ⚑ | 23,074 | 819 | 週次 | 16 | 2026-11-16 | 2026-11-17 | 2026-11-22 | unknown |
 | [MicroPython](entries/other/micropython-micropython.md) ⚑ | 22,205 | 9,062 | 毎日 | 100+ | 2026-11-17 | 2026-11-17 | 2026-11-22 | unknown |
@@ -2462,6 +2463,7 @@
 - [Lucide](entries/other/lucide-icons-lucide.md) — unverified / GitHub APIでライセンスを確認できていません。
 - [Neural Networks: Zero to Hero](entries/other/karpathy-nn-zero-to-hero.md) — unverified / 最新リリースのタグと公開日は未確認。ノートブックは実行しておらず、依存ライブラリの対応バージョン、必要な計算資源、学習成果は独立検証していない。外部サービスの利用条件や料金は未確認。
 - [SpiderFoot](entries/other/smicallef-spiderfoot.md) — unverified / モジュールごとのAPIキー要件や料金の詳細はREADMEだけでは特定できない。
+- [Prefect](entries/other/prefecthq-prefect.md) — unverified / 一次資料で未確認: 依存関係。
 - [ego lite](entries/other/citrolabs-ego-lite.md) — unverified / 公式リリース一覧ではv2.1.0がLatestと表示された。最新リリースへの直接アクセスはタイムアウトし、公開日時は未確認。作者ベンチマークの再現性、ブラウザデータの取り扱い、Spaces間の分離の実効性は未検証。
 - [Yjs](entries/other/yjs-yjs.md) — unverified / GitHub APIでライセンスを確認できていません。
 - [MicroPython](entries/other/micropython-micropython.md) — unverified / GitHub APIでライセンスを確認できていません。

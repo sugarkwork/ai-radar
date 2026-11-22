@@ -1,5 +1,5 @@
 {
-  "count": 1333,
+  "count": 1334,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -25589,6 +25589,37 @@
       "fetched_at": "2026-11-13T20:09:38.798685+00:00",
       "path": "entries/other/smicallef-spiderfoot.md",
       "summary": "Web UIまたはCLIからOSINT調査を行い、200超のモジュールで情報源の照会・データ分析を行う。CSV、JSON、GEXFへのエクスポート、SQLiteバックエンド、可視化、YAML設定可能な相関エンジンを備えるとREADMEに記載。"
+    },
+    {
+      "name": "Prefect",
+      "genre": "other",
+      "url": "https://github.com/PrefectHQ/prefect",
+      "repo": "PrefectHQ/prefect",
+      "license": "Apache-2.0",
+      "stars": 24173,
+      "language": "Python",
+      "created": "2018-06-29",
+      "updated": "2026-11-17",
+      "forks": 2667,
+      "open_issues": 876,
+      "commits_30d": 100,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 254610,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 依存関係。",
+      "type": "repo",
+      "added": "2026-11-22",
+      "first_seen": "2026-11-22",
+      "sources": [
+        "https://x.com/irongiantXBT/status/2122709093102285099"
+      ],
+      "fetched_at": "2026-11-17T23:16:01.623437+00:00",
+      "path": "entries/other/prefecthq-prefect.md",
+      "summary": "Pythonのデータパイプラインをワークフローとして構築・実行し、スケジュール、キャッシュ、リトライ、イベント連動の自動化を利用できます。ワークフローの活動はセルフホストのPrefect serverまたはPrefect Cloudで監視できます。"
     },
     {
       "repo": "citrolabs/ego-lite",
