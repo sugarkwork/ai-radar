@@ -1,5 +1,5 @@
 {
-  "count": 1272,
+  "count": 1273,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -21448,6 +21448,35 @@
       "last_release_at": "",
       "path": "entries/mcp-server/faixiang-moodle-mcp.md",
       "summary": "MoodleのWeb Service APIから、登録コース、最近の更新、未提出課題と期限、クイズの受験状態、コース内ファイル情報を取得するMCPツールを提供する。週次ダイジェストも生成できる。READMEでは10個の読み取り系ツールを説明し、別途、moodle_download_weekによる週単位のファイル保存機能"
+    },
+    {
+      "name": "BlendRelay MCP",
+      "genre": "mcp-server",
+      "url": "https://github.com/shefq/blendrelay-mcp",
+      "repo": "shefq/blendrelay-mcp",
+      "license": "MIT",
+      "stars": 34,
+      "language": "Python",
+      "created": "2026-09-10",
+      "updated": "2026-11-09",
+      "forks": 3,
+      "open_issues": 2,
+      "commits_30d": 10,
+      "commit_cadence": "weekly",
+      "commits_90d": 38,
+      "size_kb": 2921,
+      "archived": false,
+      "flags": [],
+      "type": "repo",
+      "added": "2026-11-22",
+      "first_seen": "2026-11-22",
+      "risk_notes": "",
+      "sources": [
+        "https://x.com/thegreatest_sv/status/2119129564047982889"
+      ],
+      "fetched_at": "2026-11-17T02:17:48.882758+00:00",
+      "path": "entries/mcp-server/shefq-blendrelay-mcp.md",
+      "summary": "Blenderの開いているシーンをAIエージェントから確認・更新する。シーンやオブジェクトの生成、選択オブジェクトやEdit Modeで選択したメッシュ要素の編集、参照画像・ビューポートのスケッチ・対象領域の指定、マテリアルやライティング、カメラ、モディファイア、Geometry Nodes、アニメーション、レンダーの"
     },
     {
       "name": "losslesscut-mcp",

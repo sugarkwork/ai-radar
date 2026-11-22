@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1272 件 — リポジトリ 876, リンク集 120, 記事 209, モデル 53, プロンプト 14 / ⚑ 要確認 1021 件
+収録 1273 件 — リポジトリ 877, リンク集 120, 記事 209, モデル 53, プロンプト 14 / ⚑ 要確認 1021 件
 
-## リポジトリ（876）
+## リポジトリ（877）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -705,7 +705,7 @@
 | [lab-tts](entries/tts-audio/lakimi-ai-systems-lab-tts.md) ⚑ | 8 | 0 | 月次 | 3 | 2026-11-03 | 2026-11-10 | 2026-11-10 | Apache-2.0 |
 | [Voxarium](entries/tts-audio/ahmadmansy-voxarium.md) ⚑ | 7 | 0 | 毎日 | 40 | 2026-11-08 | 2026-11-13 | 2026-11-13 | AGPL-3.0 |
 
-### MCPサーバー（35）
+### MCPサーバー（36）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -741,6 +741,7 @@
 | [Material Painter](entries/mcp-server/alla2001-material-painter.md) ⚑ | 338 | 32 | 毎日 | 44 | 2026-11-16 | 2026-11-16 | 2026-11-22 | GPL-3.0 |
 | [pagesift](entries/mcp-server/yolow92-pagesift.md) ⚑ | 276 | 37 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | AGPL-3.0 |
 | [Moodle-MCP](entries/mcp-server/faixiang-moodle-mcp.md) ⚑ | 208 | 0 | 毎日 | 20 | 2026-11-01 | 2026-11-16 | 2026-11-22 | MIT |
+| [BlendRelay MCP](entries/mcp-server/shefq-blendrelay-mcp.md) | 34 | 3 | 週次 | 10 | 2026-11-09 | 2026-11-17 | 2026-11-22 | MIT |
 | [losslesscut-mcp](entries/mcp-server/bariswha-losslesscut-mcp.md) ⚑ | 12 | 0 | 月次 | 3 | 2026-11-12 | 2026-11-16 | 2026-11-22 | MIT |
 | [Kosh](entries/mcp-server/sachinyadavaug20-kosh.md) ⚑ | 5 | 0 | 毎日 | 76 | 2026-11-15 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
 | [gmail-browser-mcp](entries/mcp-server/sparsh101sparsh-gmail-browser-mcp.md) ⚑ | 0 | 0 | 毎日 | 88 | 2026-11-13 | 2026-11-16 | 2026-11-22 | unknown |
