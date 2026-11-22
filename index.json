@@ -1,5 +1,5 @@
 {
-  "count": 1261,
+  "count": 1262,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -37349,6 +37349,37 @@
       "last_release_at": "2026-10-29",
       "path": "entries/video-gen/utillayer-youtube-agent-skill.md",
       "summary": "YouTubeに関する作業をエージェントへ教える12のSKILL.mdと9のPythonツールを含むskill集。"
+    },
+    {
+      "name": "Householder Motion Embedding (NoiseControl)",
+      "genre": "video-gen",
+      "url": "https://github.com/coldsilence507/HouseholderMotionEmbedding-Release",
+      "repo": "coldsilence507/HouseholderMotionEmbedding-Release",
+      "license": "Apache-2.0",
+      "stars": 10,
+      "language": "Python",
+      "created": "2026-11-04",
+      "updated": "2026-11-06",
+      "forks": 1,
+      "open_issues": 0,
+      "commits_30d": 14,
+      "commit_cadence": "weekly",
+      "commits_90d": 14,
+      "size_kb": 16187,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景・有効性・実行条件。",
+      "type": "repo",
+      "added": "2026-11-22",
+      "first_seen": "2026-11-22",
+      "sources": [
+        "https://x.com/Machinedelusion/status/2119114405740765552"
+      ],
+      "fetched_at": "2026-11-16T23:13:20.717649+00:00",
+      "path": "entries/video-gen/coldsilence507-householdermotionembedding-release.md",
+      "summary": "参照動画からRAFTで光学フローを推定するか、事前計算したフロー場を入力して、FlowHouseholder変換で時間的に相関した初期ノイズを生成し、LoRAを適用したCogVideoX-5B-I2Vで動きに沿う動画を生成します。READMEの出力仕様は49フレーム、480×720、8 fpsです。"
     },
     {
       "type": "repo",
