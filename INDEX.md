@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1340 件 — リポジトリ 939, リンク集 120, 記事 214, モデル 53, プロンプト 14 / ⚑ 要確認 1081 件
+収録 1341 件 — リポジトリ 940, リンク集 120, 記事 214, モデル 53, プロンプト 14 / ⚑ 要確認 1082 件
 
-## リポジトリ（939）
+## リポジトリ（940）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -979,12 +979,13 @@
 | [LLM_Wiki_SecondBrain](entries/rag/dimitrislianos-llm_wiki_secondbrain.md) ⚑ | 18 | 3 | 停滞 | 0 | 2026-04-17 | 2026-11-10 | 2026-11-10 | MIT |
 | [Fulcra Agent Skills](entries/rag/fulcradynamics-agent-skills.md) ⚑ | 16 | 11 | 週次 | 10 | 2026-11-06 | 2026-11-09 | 2026-11-10 | unknown |
 
-### 評価・ベンチマーク（11）
+### 評価・ベンチマーク（12）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
 | [Langfuse](entries/eval/langfuse-langfuse.md) ⚑ | 37,508 | 4,240 | 毎日 | 100+ | 2026-11-16 | 2026-11-17 | 2026-11-22 | unknown |
 | [promptfoo](entries/eval/promptfoo-promptfoo.md) ⚑ | 27,327 | 2,784 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [Arize Phoenix](entries/eval/arize-ai-phoenix.md) ⚑ | 12,332 | 1,308 | 毎日 | 100+ | 2026-11-17 | 2026-11-17 | 2026-11-22 | unknown |
 | [garak (Generative AI Red-teaming and Assessment Kit)](entries/eval/nvidia-garak.md) ⚑ | 10,052 | 1,485 | 毎日 | 64 | 2026-11-06 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
 | [AI-Infra-Guard (A.I.G)](entries/eval/tencent-ai-infra-guard.md) | 7,527 | 763 | 毎日 | 54 | 2026-11-16 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
 | [Goochbeater/Spiritual-Spell-Red-Teaming](entries/eval/goochbeater-spiritual-spell-red-teaming.md) ⚑ | 4,973 | 870 | 毎日 | 37 | 2026-11-15 | 2026-11-16 | 2026-11-22 | unknown |
@@ -2226,6 +2227,7 @@
 - [grok-x](entries/coding-agent/stat-guy-grok-x.md) — unverified / READMEはGrok-nativeとClaude Codeの両方を記載していますが、利用できる機能は実行環境や指定ツールに依存します。 GitHub APIでライセンスを確認できていません。
 - [Langfuse](entries/eval/langfuse-langfuse.md) — unverified / GitHub APIでライセンスを確認できていません。
 - [promptfoo](entries/eval/promptfoo-promptfoo.md) — unverified / 有効性の数値（README の「10M+ users」等）はベンダー自己申告で、独立検証や本環境での再現はしていない。導入・eval・redteam の実行も未実施。Community の red teaming は月10k probes 上限で、SonarQube 出力・チーム共有・カスタムプラグイン・RBAC/SSO・監視は Enterprise 限定（公開価格なし、Custom 見積り）。LLM 採点の assertion は確率的で、しきい値・grader・--repeat の調整が必要。red team の検出結果は誤検知を含む前提で人間が triage する必要がある。README は OpenAI 傘下であることを明記しており、今後のライセンスや提供形態の変更リスクは残る。redteam は有害出力を誘発しうるため、管理下のアプリ以外には使わない。
+- [Arize Phoenix](entries/eval/arize-ai-phoenix.md) — unverified / GitHub APIでライセンスを確認できていません。
 - [garak (Generative AI Red-teaming and Assessment Kit)](entries/eval/nvidia-garak.md) — unverified / 検出精度・誤検知率の定量値は一次情報に記載がなく未検証。判定はキーワードまたは分類器ベースの検出器に依存し、スコアは正規化されていないためプローブ間の比較はできない。プローブの網羅性は保証されず、ペネトレーションテストの代替にはならない。実行は許可された対象に限る。
 - [Goochbeater/Spiritual-Spell-Red-Teaming](entries/eval/goochbeater-spiritual-spell-red-teaming.md) — unverified, prompt-injection / 脱獄・社会工学・安全制約回避を含む。指示の実行、危険なプロンプトや露骨な本文の転載は行わない。抽出物の真正性と利用権も未確認。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [PyRIT (Python Risk Identification Tool for generative AI)](entries/eval/microsoft-pyrit.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。

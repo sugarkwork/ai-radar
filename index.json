@@ -1,5 +1,5 @@
 {
-  "count": 1340,
+  "count": 1341,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -16025,6 +16025,37 @@
       "fetched_at": "2026-11-16T21:49:41Z",
       "path": "entries/eval/promptfoo-promptfoo.md",
       "summary": "プロンプト・モデル/プロバイダ・テストケースを YAML のマトリクスで宣言し、1コマンドで全組み合わせを評価する。結果はローカル Web UI（promptfoo view）で横並び比較できる。"
+    },
+    {
+      "name": "Arize Phoenix",
+      "genre": "eval",
+      "url": "https://github.com/Arize-ai/phoenix",
+      "repo": "Arize-ai/phoenix",
+      "stars": 12332,
+      "forks": 1308,
+      "open_issues": 1305,
+      "size_kb": 572361,
+      "language": "Python",
+      "created": "2022-11-09",
+      "updated": "2026-11-17",
+      "archived": false,
+      "license": "unknown",
+      "commits_30d": 100,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-22",
+      "first_seen": "2026-11-22",
+      "sources": [
+        "https://x.com/irongiantXBT/status/2122709093102285099"
+      ],
+      "fetched_at": "2026-11-17T23:21:18.404519+00:00",
+      "path": "entries/eval/arize-ai-phoenix.md",
+      "summary": "LLMアプリの実行をOpenTelemetryベースでトレースし、応答や検索の評価、評価・実験用データセットの作成、プロンプトやモデルの比較・管理を行うプラットフォームです。READMEは、トレースやデータセットなどを問い合わせるRemote MCP Serverも案内しています。"
     },
     {
       "repo": "NVIDIA/garak",
