@@ -1,5 +1,5 @@
 {
-  "count": 1266,
+  "count": 1267,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -27404,6 +27404,37 @@
       "last_release_at": "2026-11-10",
       "path": "entries/other/fand-vfx-js.md",
       "summary": "HTMLの画像・動画・テキストなどにWebGLエフェクトを適用し、エフェクトを重ねたりGLSLで独自エフェクトを書いたりできます。DOMをキャプチャしてページ遷移エフェクトを適用する機能も説明されています。出典: https://github.com/fand/vfx-js"
+    },
+    {
+      "name": "Inkstone",
+      "genre": "other",
+      "url": "https://github.com/shuaiplus/inkstone",
+      "repo": "shuaiplus/inkstone",
+      "stars": 1188,
+      "forks": 1095,
+      "open_issues": 36,
+      "size_kb": 784,
+      "language": "TypeScript",
+      "created": "2026-07-30",
+      "updated": "2026-10-07",
+      "archived": false,
+      "license": "unknown",
+      "commits_30d": 0,
+      "commits_90d": 39,
+      "commit_cadence": "monthly",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-22",
+      "first_seen": "2026-11-22",
+      "sources": [
+        "https://x.com/awe0_io/status/2119116478322737573"
+      ],
+      "fetched_at": "2026-11-17T00:13:30.162964+00:00",
+      "path": "entries/other/shuaiplus-inkstone.md",
+      "summary": "ブラウザー上でMarkdownノートを作成・整理・同期・バックアップする自己ホスト型アプリ。ライブプレビュー、全文検索と任意のセマンティック検索、双方向リンク、オフライン編集、複数端末同期、AIアクセス、公開共有、オフサイトバックアップなどを提供するとREADMEに記載されています。出典: https://github"
     },
     {
       "repo": "Tencent/WeVisOne-VL",
