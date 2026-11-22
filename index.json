@@ -1,5 +1,5 @@
 {
-  "count": 1307,
+  "count": 1308,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -17797,6 +17797,37 @@
       "last_release_at": "",
       "path": "entries/image-gen/arcanima-comfyui-anima-ref-adapter.md",
       "summary": "Animaに参照画像を与え、プロンプトで指定した場面に合わせてキャラクターの外見や画風を保つことを目指す。参照画像2枚を並べて、1枚の画像に2キャラクターを出す手順もREADMEに記載されている。これらは作者の説明であり、独立した実測結果ではない。"
+    },
+    {
+      "name": "ComfyUI-PhotoDeblur",
+      "genre": "image-gen",
+      "url": "https://github.com/porfeng/ComfyUI-PhotoDeblur",
+      "repo": "porfeng/ComfyUI-PhotoDeblur",
+      "stars": 93,
+      "forks": 5,
+      "open_issues": 0,
+      "size_kb": 3099,
+      "language": "Python",
+      "created": "2026-11-07",
+      "updated": "2026-11-07",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 13,
+      "commits_90d": 13,
+      "commit_cadence": "weekly",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 有効性・実行条件。",
+      "type": "repo",
+      "added": "2026-11-22",
+      "first_seen": "2026-11-22",
+      "sources": [
+        "https://x.com/wildmindai/status/2119174858881785942"
+      ],
+      "fetched_at": "2026-11-17T08:23:58.897740+00:00",
+      "path": "entries/image-gen/porfeng-comfyui-photodeblur.md",
+      "summary": "ComfyUIにHI-DiffとMISCFilterの写真デブラー用ノードを追加します。元画像の解像度を保つタイル処理、タイル間のブレンド、任意のTTAに対応し、公式モデル重みのダウンロードと検証を行うノードも含みます。READMEの例では看板や建物の輪郭、夜景の光跡などを示しています。"
     },
     {
       "name": "Tost AI - Sprite Sheet Studio",

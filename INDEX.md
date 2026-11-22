@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1307 件 — リポジトリ 910, リンク集 120, 記事 210, モデル 53, プロンプト 14 / ⚑ 要確認 1052 件
+収録 1308 件 — リポジトリ 911, リンク集 120, 記事 210, モデル 53, プロンプト 14 / ⚑ 要確認 1053 件
 
-## リポジトリ（910）
+## リポジトリ（911）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -885,7 +885,7 @@
 | [JevOnAir](entries/finance-quant/valuecodes-jev-on-air.md) ⚑ | 0 | 0 | 週次 | 11 | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
 | [jev-polymarket-test](entries/finance-quant/truongxxxx-jev-polymarket-test.md) ⚑ | 0 | 0 | 停滞 | 0 | 2026-10-10 | 2026-11-16 | 2026-11-22 | MIT |
 
-### 画像生成・編集（29）
+### 画像生成・編集（30）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -909,6 +909,7 @@
 | [ComfyUI AICG3D PoseSwap](entries/image-gen/jgrfw-comfyui-pose-swap.md) | 393 | 61 | 週次 | 7 | 2026-11-01 | 2026-11-16 | 2026-11-22 | MIT |
 | [gifenc](entries/image-gen/mattdesl-gifenc.md) ⚑ | 370 | 33 | 停滞 | 0 | 2024-09-19 | 2026-11-16 | 2026-11-22 | MIT |
 | [Anima Reference Adapter for ComfyUI](entries/image-gen/arcanima-comfyui-anima-ref-adapter.md) ⚑ | 239 | 14 | 週次 | 19 | 2026-11-11 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [ComfyUI-PhotoDeblur](entries/image-gen/porfeng-comfyui-photodeblur.md) ⚑ | 93 | 5 | 週次 | 13 | 2026-11-07 | 2026-11-17 | 2026-11-22 | MIT |
 | [Tost AI - Sprite Sheet Studio](entries/image-gen/camenduru-tostai-sprite-sheet-studio.md) ⚑ | 88 | 6 | 月次 | 0 | 2026-10-02 | 2026-11-16 | 2026-11-22 | unknown |
 | [Lyricccco/tailsteer](entries/image-gen/lyricccco-tailsteer.md) ⚑ | 59 | 2 | 週次 | 12 | 2026-11-11 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
 | [Iris-3B Metal](entries/image-gen/tky-27-iris-3b-metal.md) | 58 | 2 | 週次 | 11 | 2026-10-19 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
@@ -2225,6 +2226,7 @@
 - [MiniMax-H3-Image](entries/image-gen/minimax-ai-minimax-h3-image.md) — unverified / READMEはライセンスを示すバッジとLICENSEへのリンクを掲載していますが、ライセンス名や利用条件は確認できません。 GitHub APIでライセンスを確認できていません。
 - [gifenc](entries/image-gen/mattdesl-gifenc.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Anima Reference Adapter for ComfyUI](entries/image-gen/arcanima-comfyui-anima-ref-adapter.md) — unverified / アダプターの重みはCircleStone Non-Commercialライセンス。READMEではコードのライセンスをApache-2.0としている。
+- [ComfyUI-PhotoDeblur](entries/image-gen/porfeng-comfyui-photodeblur.md) — unverified / 一次資料で未確認: 有効性・実行条件。
 - [Tost AI - Sprite Sheet Studio](entries/image-gen/camenduru-tostai-sprite-sheet-studio.md) — unverified / APIでライセンスがunknown。VRMBG-3.0はゲート付きで、モデル取得にHF_TOKENが必要。Docker実行にはNVIDIA GPU（最低4GB VRAM）が必要とREADMEに記載されている。 GitHub APIでライセンスを確認できていません。
 - [Lyricccco/tailsteer](entries/image-gen/lyricccco-tailsteer.md) — unverified / 主な保持定量評価は10ターン。編集精度RISEが低下した値も公開され、保持と指示追従の両方が一律に向上したわけではない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [rhinoc/xprite-lighter](entries/image-gen/rhinoc-xprite-lighter.md) — unverified / MIT表記を原チェックで確認。派生版のAPI互換性・現行版と同じ処理品質は未試験。 当方でインストール・推論・生成・ベンチ再現はしていない。
