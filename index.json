@@ -1,5 +1,5 @@
 {
-  "count": 1347,
+  "count": 1348,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -15037,6 +15037,37 @@
       "last_release_at": "",
       "path": "entries/coding-agent/uditakhourii-quicksilver.md",
       "summary": "リポジトリ全体や大量ファイルに「このファイルは認証まわりを実装しているか」等の yes/no 判定を一括実行し、該当ファイルだけを確信度付きで返す（qs filter）。"
+    },
+    {
+      "name": "Hill Climb",
+      "genre": "coding-agent",
+      "url": "https://github.com/Bil0000/Hill-Climb",
+      "repo": "Bil0000/Hill-Climb",
+      "license": "MIT",
+      "stars": 140,
+      "language": "Python",
+      "created": "2026-11-02",
+      "updated": "2026-11-12",
+      "forks": 5,
+      "open_issues": 3,
+      "commits_30d": 8,
+      "commit_cadence": "weekly",
+      "commits_90d": 8,
+      "size_kb": 82,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEの機能説明と試行例は配布者の記述であり、独立した実機検証ではありません。",
+      "type": "repo",
+      "added": "2026-11-22",
+      "first_seen": "2026-11-22",
+      "sources": [
+        "https://x.com/GitTrend0x/status/2122653626900332544"
+      ],
+      "fetched_at": "2026-11-17T23:27:49.107122+00:00",
+      "path": "entries/coding-agent/bil0000-hill-climb.md",
+      "summary": "READMEによると、エージェントが小さな変更を行うたびに指定コマンドでスコアを測定し、テスト・型検査・lintなどのガードも実行します。スコアが改善し、ガードがすべて通れば変更を個別コミットし、それ以外は作業ツリーをリセットします。チェック対象ファイルをロックして変更を拒否する機能、進捗ログ、複数リポジトリへの対応も"
     },
     {
       "name": "Flecha",
