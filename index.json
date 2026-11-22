@@ -1,5 +1,5 @@
 {
-  "count": 1312,
+  "count": 1313,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -25935,6 +25935,37 @@
       "fetched_at": "2026-11-17T06:28:43.811227+00:00",
       "path": "entries/other/vercel-satori.md",
       "summary": "JSXまたはReact要素風オブジェクトを入力し、レイアウトやフォントを処理してSVG文字列を生成する。PNGなどの画像形式にする場合はSharpを使う方法がREADMEに記載されている。"
+    },
+    {
+      "name": "Luanti",
+      "genre": "other",
+      "url": "https://github.com/luanti-org/luanti",
+      "repo": "luanti-org/luanti",
+      "license": "unknown",
+      "stars": 13871,
+      "language": "C++",
+      "created": "2011-08-07",
+      "updated": "2026-11-16",
+      "forks": 2531,
+      "open_issues": 1487,
+      "commits_30d": 84,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 143800,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "GitHub API上のlicense値はunknown。READMEのバッジはLGPLv2.1+と表示しているが、ライセンスのAPI値とREADMEの表示に差がある。 GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-22",
+      "first_seen": "2026-11-22",
+      "sources": [
+        "https://x.com/bkdgiffug/status/2119204499822616692"
+      ],
+      "fetched_at": "2026-11-17T11:10:35.793542+00:00",
+      "path": "entries/other/luanti-org-luanti.md",
+      "summary": "Luantiは、ゲームの改造やゲーム制作が容易な、自由なオープンソースのボクセルゲームエンジンです。操作キーは設定から変更でき、READMEには既定の操作一覧があります。"
     },
     {
       "repo": "Thysrael/Horizon",
