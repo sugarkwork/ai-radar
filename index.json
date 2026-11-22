@@ -1,5 +1,5 @@
 {
-  "count": 1308,
+  "count": 1309,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -6720,6 +6720,37 @@
       "type": "repo",
       "path": "entries/agent-framework/hinln-artex.md",
       "summary": "LLM のマルチエージェントで Web アプリの侵入テストを回す自ホスト型システム。Go の単一バイナリに Next.js の UI を埋め込み、PostgreSQL に状態を持つ。"
+    },
+    {
+      "name": "Molt",
+      "genre": "agent-framework",
+      "url": "https://github.com/NVIDIA-NeMo/labs-molt",
+      "repo": "NVIDIA-NeMo/labs-molt",
+      "stars": 1355,
+      "forks": 149,
+      "open_issues": 21,
+      "size_kb": 4146,
+      "language": "Python",
+      "created": "2026-06-23",
+      "updated": "2026-11-17",
+      "archived": false,
+      "license": "Apache-2.0",
+      "commits_30d": 55,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景・有効性・依存関係。",
+      "type": "repo",
+      "added": "2026-11-22",
+      "first_seen": "2026-11-22",
+      "sources": [
+        "https://x.com/alacheng/status/2122247047881400738"
+      ],
+      "fetched_at": "2026-11-17T08:29:15.274343+00:00",
+      "path": "entries/agent-framework/nvidia-nemo-labs-molt.md",
+      "summary": "Gymnasiumに沿ったEnv.step()またはChatAgent.run()のAPIで、採点器、マルチターンのツール利用、VLM環境、既存エージェントを扱うagentic RLの学習を構成する。READMEによると、Rayがプロセス配置と非同期キューを担い、vLLMがロールアウトを生成し、NeMo AutoMod"
     },
     {
       "type": "repo",
