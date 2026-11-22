@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1288 件 — リポジトリ 892, リンク集 120, 記事 209, モデル 53, プロンプト 14 / ⚑ 要確認 1034 件
+収録 1289 件 — リポジトリ 893, リンク集 120, 記事 209, モデル 53, プロンプト 14 / ⚑ 要確認 1035 件
 
-## リポジトリ（892）
+## リポジトリ（893）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（188）
+### その他（189）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -198,6 +198,7 @@
 | [duckdb-jev](entries/other/prasanthj-duckdb-jev.md) ⚑ | 14 | 3 | 月次 | 2 | 2026-10-21 | 2026-11-10 | 2026-11-11 | Apache-2.0 |
 | [Jev Grand Prix](entries/other/enoyola-jev-grand-prix.md) ⚑ | 7 | 0 | 月次 | 0 | 2026-09-21 | 2026-11-16 | 2026-11-22 | MIT |
 | [剪坊](entries/other/tuyetloanpham08-png-jianfang.md) ⚑ | 7 | 1 | 月次 | 2 | 2026-10-20 | 2026-11-11 | 2026-11-11 | unknown |
+| [Hands-On Large Language Models](entries/other/sumanth077-hands-on-large-language-models.md) ⚑ | 4 | 1 | 停滞 | 0 | 2025-05-08 | 2026-11-17 | 2026-11-22 | Apache-2.0 |
 | [Pay Small Check](entries/other/ahmardchain-pay-small-check.md) ⚑ | 1 | 0 | 毎日 | 32 | 2026-11-07 | 2026-11-16 | 2026-11-22 | MIT |
 | [LapDraw](entries/other/sachinyadavaug20-lapdraw.md) ⚑ | 0 | 0 | 毎日 | 22 | 2026-11-07 | 2026-11-13 | 2026-11-13 | MIT |
 
@@ -2526,6 +2527,7 @@
 - [duckdb-jev](entries/other/prasanthj-duckdb-jev.md) — unverified / 性能値は開発者が合成データで計測したもので、独立再測定、実データでの分類精度、TypeSafeの現行料金・データ保持条件は未確認。公開リリースのタグは確認済みで、公開日時と配布物の動作は未確認。
 - [Jev Grand Prix](entries/other/enoyola-jev-grand-prix.md) — unverified / 作者の試走結果は独立再現していない。TypeSafe APIの現在の料金、利用規約、キーの発行条件は未確認。
 - [剪坊](entries/other/tuyetloanpham08-png-jianfang.md) — unverified / Apple Silicon MacとmacOS 26以降が必要。プレビュー版はApple Developer ID署名・公証がなく、初回起動時にmacOSの許可操作が必要な場合がある。READMEではIntel Macで未検証とされる。 GitHub APIでライセンスを確認できていません。
+- [Hands-On Large Language Models](entries/other/sumanth077-hands-on-large-language-models.md) — unverified / READMEはPython・OS・依存関係によって結果が書籍の例と多少異なる場合があると説明している。個別のノートブックに必要な依存関係や実行条件はREADMEだけでは特定できない。
 - [Pay Small Check](entries/other/ahmardchain-pay-small-check.md) — unverified / 判定の正確さや詐欺被害を防ぐ効果は確認できない。README記載の購入者価格は1チェックあたり$0.08。
 - [169Pi/Alpie_seed](models/other/169pi-alpie_seed.md) — unverified / 61.20はMini-SWE-agent・thinking有効・再試行なし・temperature0のモデルカード自己報告。latestタグだけで画像入力可能とは判断しない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Clover 35B-A3B（拡散型 MoE）](models/other/diffuspace-clover-35b-a3b-preview.md) — unverified / tok/s 比較は投稿者環境の一例で、モデルカードに計測条件の記載がない。

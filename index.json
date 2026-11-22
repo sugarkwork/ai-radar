@@ -1,5 +1,5 @@
 {
-  "count": 1288,
+  "count": 1289,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -29366,6 +29366,37 @@
       "fetched_at": "2026-11-11T07:05:39.215402+00:00",
       "path": "entries/other/tuyetloanpham08-png-jianfang.md",
       "summary": "READMEによると、剪坊はローカルで動作するmacOS動画編集アプリ。素材の取り込み、最大2本の動画トラックと4本の音声トラックでのタイムライン編集、字幕の追加・編集とSRTの読み書き、配楽の音量調整・フェード、プロジェクト保存・復元、H.264/AAC MP4のプレビューと書き出しに対応する。対応素材はSDR H."
+    },
+    {
+      "name": "Hands-On Large Language Models",
+      "genre": "other",
+      "url": "https://github.com/Sumanth077/Hands-On-Large-Language-Models",
+      "repo": "Sumanth077/Hands-On-Large-Language-Models",
+      "license": "Apache-2.0",
+      "stars": 4,
+      "language": "Jupyter Notebook",
+      "created": "2025-05-08",
+      "updated": "2025-05-08",
+      "forks": 1,
+      "open_issues": 0,
+      "commits_30d": 0,
+      "commit_cadence": "stale",
+      "commits_90d": 0,
+      "size_kb": 13658,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEはPython・OS・依存関係によって結果が書籍の例と多少異なる場合があると説明している。個別のノートブックに必要な依存関係や実行条件はREADMEだけでは特定できない。",
+      "type": "repo",
+      "added": "2026-11-22",
+      "first_seen": "2026-11-22",
+      "sources": [
+        "https://x.com/bkdgiffug/status/2119157439589425522"
+      ],
+      "fetched_at": "2026-11-17T05:32:48.496739+00:00",
+      "path": "entries/other/sumanth077-hands-on-large-language-models.md",
+      "summary": "書籍『Hands-On Large Language Models』の全12章に対応するJupyterノートブックを提供する。内容には言語モデルの基礎、トークンと埋め込み、Transformerの内部、テキスト分類、クラスタリングとトピックモデリング、プロンプトエンジニアリング、テキスト生成、意味検索とRAG、マルチモ"
     },
     {
       "name": "Pay Small Check",
