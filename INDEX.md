@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1349 件 — リポジトリ 948, リンク集 120, 記事 214, モデル 53, プロンプト 14 / ⚑ 要確認 1089 件
+収録 1350 件 — リポジトリ 949, リンク集 120, 記事 214, モデル 53, プロンプト 14 / ⚑ 要確認 1090 件
 
-## リポジトリ（948）
+## リポジトリ（949）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -225,7 +225,7 @@
 | [Pay Small Check](entries/other/ahmardchain-pay-small-check.md) ⚑ | 1 | 0 | 毎日 | 32 | 2026-11-07 | 2026-11-16 |  | MIT |
 | [LapDraw](entries/other/sachinyadavaug20-lapdraw.md) ⚑ | 0 | 0 | 毎日 | 22 | 2026-11-07 | 2026-11-13 |  | MIT |
 
-### コーディングエージェント（144）
+### コーディングエージェント（145）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -333,7 +333,7 @@
 | [DSH Game Studio](entries/coding-agent/zseven-w-dsh-game-studio.md) ⚑ | 569 | 47 | 週次 | 11 | 2026-11-09 | 2026-11-16 |  | MIT |
 | [Diorama](entries/coding-agent/sloemo01-diorama.md) ⚑ | 566 | 48 | 毎日 | 38 | 2026-11-16 | 2026-11-16 |  | MIT |
 | [Agent HUD](entries/coding-agent/jazzenchen-agent-hud-open.md) ⚑ | 553 | 81 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 |  | Apache-2.0 |
-| [Boring Marketing Skills](entries/coding-agent/boringmarketer-boring-marketing-skills.md) ⚑ | 518 | 201 | 週次 | 7 | 2026-11-17 | 2026-11-17 | 2026-11-22 | MIT |
+| [Boring Marketing Skills](entries/coding-agent/boringmarketer-boring-marketing-skills.md) ⚑ | 518 | 201 | 週次 | 7 | 2026-11-17 | 2026-11-17 |  | MIT |
 | [qiaomu-seo](entries/coding-agent/joeseesun-qiaomu-seo.md) ⚑ | 476 | 62 | 停滞 | 0 | 2026-08-03 | 2026-11-16 |  | MIT |
 | [simcraft](entries/coding-agent/dotslashsimran-simcraft.md) ⚑ | 470 | 36 | 月次 | 3 | 2026-11-09 | 2026-11-16 |  | MIT |
 | [SeeCut](entries/coding-agent/yeje-cpu-seecut.md) ⚑ | 464 | 85 | 月次 | 2 | 2026-10-30 | 2026-11-16 |  | unknown |
@@ -348,6 +348,7 @@
 | [Motion Design Skills](entries/coding-agent/iart-ai-motion-design-skills.md) ⚑ | 239 | 40 | 月次 | 1 | 2026-11-11 | 2026-11-16 |  | MIT |
 | [Motion.dev Animations Skill](entries/coding-agent/199-biotechnologies-motion-dev-animations-skill.md) ⚑ | 233 | 36 | 停滞 | 0 | 2026-03-30 | 2026-11-16 |  | MIT |
 | [open-source-hands](entries/coding-agent/abouchedidxcode-open-source-hands.md) ⚑ | 216 | 31 | 月次 | 1 | 2026-11-03 | 2026-11-16 |  | MIT |
+| [craft](entries/coding-agent/diego3g-craft.md) ⚑ | 186 | 7 | 毎日 | 23 | 2026-11-17 | 2026-11-17 | 2026-11-22 | unknown |
 | [Dual-Brain — 設計とコードの二視点レビュー用スキル](entries/coding-agent/sleeplesshan-dual-brain.md) ⚑ | 155 | 11 | 週次 | 4 | 2026-11-06 | 2026-11-16 |  | MIT |
 | [quicksilver](entries/coding-agent/uditakhourii-quicksilver.md) ⚑ | 142 | 12 | 停滞 | 0 | 2026-09-25 | 2026-11-16 |  | MIT |
 | [Hill Climb](entries/coding-agent/bil0000-hill-climb.md) ⚑ | 140 | 5 | 週次 | 8 | 2026-11-12 | 2026-11-17 |  | MIT |
@@ -2200,6 +2201,7 @@
 - [Motion Design Skills](entries/coding-agent/iart-ai-motion-design-skills.md) — unverified / 個々のスキルの依存関係や必要な実行環境はREADMEに記載されていません。
 - [Motion.dev Animations Skill](entries/coding-agent/199-biotechnologies-motion-dev-animations-skill.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [open-source-hands](entries/coding-agent/abouchedidxcode-open-source-hands.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
+- [craft](entries/coding-agent/diego3g-craft.md) — unverified / READMEではFigmaアダプターは実際の実行で未テストとされています。GitHub APIのlicense値はunknownですが、READMEのLicense欄はMITです。 GitHub APIでライセンスを確認できていません。
 - [Dual-Brain — 設計とコードの二視点レビュー用スキル](entries/coding-agent/sleeplesshan-dual-brain.md) — unverified / MIT。投稿のMS関連社内ハッカソンでAI審査員から満点という説明は作者の自己申告で、公式採点記録・Microsoftの推薦や認証を確認したものではない。READMEは旧5事例ベンチの比較条件・トークン二重計上に問題があり旧総数を撤回と明記。普遍的な性能改善や低遅延は保証しない。 当方でインストール・動作・性能の実行検証はしていない。
 - [quicksilver](entries/coding-agent/uditakhourii-quicksilver.md) — unverified / 効果数値は作者自身の12タスク・ベンチマーク（bench/）による自己申告で、第三者による追試や自動テストは無い。bench の再実行には有料の Jev API キーが必要。対象ファイル/ログの内容は TypeSafe の API（api.typesafe.ai）へ送信されるため機密情報には使えない（.env・鍵・証明書・credentials、2MB 超、バイナリはスキップし .gitignore を尊重すると README に記載）。2026-09-25 の初回コミット2件以降の更新が無く、メンテ状況は不明。
 - [Hill Climb](entries/coding-agent/bil0000-hill-climb.md) — unverified / READMEの機能説明と試行例は配布者の記述であり、独立した実機検証ではありません。

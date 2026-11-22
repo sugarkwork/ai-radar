@@ -1,5 +1,5 @@
 {
-  "count": 1349,
+  "count": 1350,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -14996,6 +14996,37 @@
       "last_release_at": "",
       "path": "entries/coding-agent/abouchedidxcode-open-source-hands.md",
       "summary": "READMEによると、Google MediaPipe Hand Landmarkerの21点を使い、20種のポーズ、16種の動き、5種の両手ジェスチャー、およびピンチ強度や手の位置などの連続値をゲーム入力に変換するTypeScriptキットを提供する。三.js製のゲーム用テンプレート、Gesture Lab、デモ、サ"
+    },
+    {
+      "name": "craft",
+      "genre": "coding-agent",
+      "url": "https://github.com/diego3g/craft",
+      "repo": "diego3g/craft",
+      "license": "unknown",
+      "stars": 186,
+      "language": "JavaScript",
+      "created": "2026-11-15",
+      "updated": "2026-11-17",
+      "forks": 7,
+      "open_issues": 0,
+      "commits_30d": 23,
+      "commit_cadence": "daily",
+      "commits_90d": 23,
+      "size_kb": 208,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEではFigmaアダプターは実際の実行で未テストとされています。GitHub APIのlicense値はunknownですが、READMEのLicense欄はMITです。 GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-22",
+      "first_seen": "2026-11-22",
+      "sources": [
+        "https://x.com/GitTrend0x/status/2122653626900332544"
+      ],
+      "fetched_at": "2026-11-17T23:29:52.235866+00:00",
+      "path": "entries/coding-agent/diego3g-craft.md",
+      "summary": "READMEによると、画面設計時に短いデザインブリーフを作り、画面の状態を列挙し、既存デザインシステムの部品を使い、提出前に自己レビューするワークフローを提供します。craft-setup、craft、craft-states、craft-explore、craft-system、craft-sync、craft-cr"
     },
     {
       "type": "repo",
