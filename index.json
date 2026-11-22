@@ -1,5 +1,5 @@
 {
-  "count": 1320,
+  "count": 1321,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -16360,6 +16360,37 @@
       "fetched_at": "2026-11-16T21:51:13Z",
       "path": "entries/finance-quant/tauricresearch-tradingagents.md",
       "summary": "銘柄と分析日を指定すると、選択したアナリストが財務、相場、ニュース、ソーシャル投稿などを調査する。強気・弱気のリサーチャーが報告を討論し、トレーダーとリスク管理チームが判断をまとめる。CLIからHTMLレポートを保存できる。"
+    },
+    {
+      "name": "Open Data Platform by OpenBB (ODP)",
+      "genre": "finance-quant",
+      "url": "https://github.com/openbq-org/OpenBB",
+      "repo": "openbq-org/OpenBB",
+      "license": "unknown",
+      "stars": 75488,
+      "language": "Python",
+      "created": "2020-12-20",
+      "updated": "2026-11-15",
+      "forks": 7898,
+      "open_issues": 114,
+      "commits_30d": 17,
+      "commit_cadence": "weekly",
+      "commits_90d": 25,
+      "size_kb": 2439947,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "README記載の通り、データが正確とは限らず、金融商品の取引には損失リスクがある。 GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-22",
+      "first_seen": "2026-11-22",
+      "sources": [
+        "https://x.com/ruyi3699/status/2119220353964691525"
+      ],
+      "fetched_at": "2026-11-17T15:14:02.841301+00:00",
+      "path": "entries/finance-quant/openbq-org-openbb.md",
+      "summary": "READMEによると、ODPは独自・ライセンス付き・公開データソースを統合し、Python環境、OpenBB Workspace、Excel、MCPサーバー、REST APIなどから利用できるようにするデータ統合基盤。データ統合機能の一覧はPythonリファレンスに案内されている。"
     },
     {
       "name": "股票智能分析系统（daily_stock_analysis）",
