@@ -1,5 +1,5 @@
 {
-  "count": 1328,
+  "count": 1329,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -23331,6 +23331,37 @@
       "last_release_at": "2026-10-23",
       "path": "entries/model-serving/magnvs7-promethevs.md",
       "summary": "巨大MoEを圧縮して計算し、曖昧なトークンだけ原本重みで補正するcompress-then-correct推論エンジン。"
+    },
+    {
+      "name": "SenseNova-Loop-9B",
+      "genre": "model-serving",
+      "url": "https://github.com/OpenSenseNova/SenseNova-Loop",
+      "repo": "OpenSenseNova/SenseNova-Loop",
+      "license": "Apache-2.0",
+      "stars": 157,
+      "language": "unknown",
+      "created": "2026-10-29",
+      "updated": "2026-11-17",
+      "forks": 9,
+      "open_issues": 1,
+      "commits_30d": 37,
+      "commit_cadence": "daily",
+      "commits_90d": 37,
+      "size_kb": 101572,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEの提示範囲では、具体的な導入・推論手順と依存関係・実行環境の要件を確認できない。",
+      "type": "repo",
+      "added": "2026-11-22",
+      "first_seen": "2026-11-22",
+      "sources": [
+        "https://x.com/watayuki_334BM/status/2122731117400981890"
+      ],
+      "fetched_at": "2026-11-17T23:11:48.778147+00:00",
+      "path": "entries/model-serving/opensensenova-sensenova-loop.md",
+      "summary": "READMEによると、テキストと画像を入力し、テキストを生成する約9Bパラメータのマルチモーダルモデル。長文脈理解と複数段階のタスクに対応すると説明され、コンテキスト長は最大512Kトークン。公式AWQ 4-bit版も公開されたと記載されている。これらの機能や評価結果は配布者の説明で、独立実測ではない。"
     },
     {
       "type": "repo",

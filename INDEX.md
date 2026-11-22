@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1328 件 — リポジトリ 927, リンク集 120, 記事 214, モデル 53, プロンプト 14 / ⚑ 要確認 1070 件
+収録 1329 件 — リポジトリ 928, リンク集 120, 記事 214, モデル 53, プロンプト 14 / ⚑ 要確認 1071 件
 
-## リポジトリ（927）
+## リポジトリ（928）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -785,7 +785,7 @@
 | [Kosh](entries/mcp-server/sachinyadavaug20-kosh.md) ⚑ | 5 | 0 | 毎日 | 76 | 2026-11-15 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
 | [gmail-browser-mcp](entries/mcp-server/sparsh101sparsh-gmail-browser-mcp.md) ⚑ | 0 | 0 | 毎日 | 88 | 2026-11-13 | 2026-11-16 | 2026-11-22 | unknown |
 
-### モデル推論・配信（36）
+### モデル推論・配信（37）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -817,6 +817,7 @@
 | [Tencent/DSpine](entries/model-serving/tencent-dspine.md) ⚑ | 259 | 19 | 週次 | 15 | 2026-11-16 | 2026-11-16 | 2026-11-22 | NOASSERTION |
 | [SpecPilot](entries/model-serving/stargazerx0-specpilot.md) | 197 | 11 | 月次 | 1 | 2026-11-03 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
 | [Magnvs7/Promethevs](entries/model-serving/magnvs7-promethevs.md) ⚑ | 193 | 12 | 週次 | 16 | 2026-11-09 | 2026-11-16 | 2026-11-22 | CC-BY-4.0 |
+| [SenseNova-Loop-9B](entries/model-serving/opensensenova-sensenova-loop.md) ⚑ | 157 | 9 | 毎日 | 37 | 2026-11-17 | 2026-11-17 | 2026-11-22 | Apache-2.0 |
 | [GLM-5.3-Flash DGX Spark 2台 配備レシピ](entries/model-serving/miaai-lab-glm-5.3-flash-dgx-sparks.md) ⚑ | 132 | 31 | 毎日 | 89 | 2026-11-11 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
 | [tqLLM](entries/model-serving/turbo-tan-tqllm.md) ⚑ | 131 | 17 | 毎日 | 46 | 2026-11-16 | 2026-11-17 | 2026-11-22 | Apache-2.0 |
 | [bloomery](entries/model-serving/midagedev-bloomery.md) | 78 | 7 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
@@ -2393,6 +2394,7 @@
 - [Locals](entries/model-serving/generated-computers-locals.md) — unverified / 速度・処理性能に関する数値はREADME記載の作者による測定報告です。READMEに示された機種・メモリ・比較条件の範囲での報告であり、独立実測ではありません。
 - [Tencent/DSpine](entries/model-serving/tencent-dspine.md) — unverified / READMEのApacheバッジに対し原チェックのLICENSEは404・API NOASSERTION。許諾を確定せずライセンス本文と依存を確認する。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Magnvs7/Promethevs](entries/model-serving/magnvs7-promethevs.md) — unverified / 最良7.4tok/sと一致率98.33%は限定した作者試験。原本完全一致デコードは別の約2.14tok/s。エンジンApacheと報告・図表CC BYを区別する。 当方でインストール・推論・生成・ベンチ再現はしていない。
+- [SenseNova-Loop-9B](entries/model-serving/opensensenova-sensenova-loop.md) — unverified / READMEの提示範囲では、具体的な導入・推論手順と依存関係・実行環境の要件を確認できない。
 - [GLM-5.3-Flash DGX Spark 2台 配備レシピ](entries/model-serving/miaai-lab-glm-5.3-flash-dgx-sparks.md) — unverified / DGX Spark 2台（計128GB統一メモリ級）が必須。チェックポイント約164GiB、イメージ約40GiB。既定drafterはCC BY-NC-ND 4.0（非商用）で、商用はDRAFTER=mtp/none。投稿のKV拡張・再起動復元・thinking off短縮は自己申告で未検証。当方でビルド・実行は未実施。
 - [tqLLM](entries/model-serving/turbo-tan-tqllm.md) — unverified / READMEの1.6.0記載では、Qwen3.5/3.6のMoE GGUFは未検証。MoEモデルはネイティブWindowsで動作せず、WSL 2が必要。
 - [qwen-warp](entries/model-serving/tuan3w-qwen-warp.md) — unverified / 元投稿が解説する「SpecPilot」(W12・ツリー検証・自律エージェント探索・4.46x→10.87x)は別リポジトリ StargazerX0/SpecPilot の内容で、本リポジトリは返信スレッドに別リンクとして挙がっているだけ。本リポジトリの速度・品質数値は作者が RTX 3090 1枚で自己計測したもので第三者検証はない(stars 3/forks 1、作成から5日)。RTX 3090(sm_86)専用で他の GPU は未テスト、同時1リクエストのみ、logprobs/structured output/bad_words は HTTP 400、モデル重みは別ライセンス(swift-open-license-1.0, gated)でリポジトリの MIT 対象外、エージェント多ターンの成功率は未計測と README に明記。
