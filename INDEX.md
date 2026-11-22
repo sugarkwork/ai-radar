@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1264 件 — リポジトリ 869, リンク集 120, 記事 208, モデル 53, プロンプト 14 / ⚑ 要確認 1015 件
+収録 1265 件 — リポジトリ 870, リンク集 120, 記事 208, モデル 53, プロンプト 14 / ⚑ 要確認 1016 件
 
-## リポジトリ（869）
+## リポジトリ（870）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -194,7 +194,7 @@
 | [Pay Small Check](entries/other/ahmardchain-pay-small-check.md) ⚑ | 1 | 0 | 毎日 | 32 | 2026-11-07 | 2026-11-16 | 2026-11-22 | MIT |
 | [LapDraw](entries/other/sachinyadavaug20-lapdraw.md) ⚑ | 0 | 0 | 毎日 | 22 | 2026-11-07 | 2026-11-13 | 2026-11-13 | MIT |
 
-### コーディングエージェント（135）
+### コーディングエージェント（136）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -263,6 +263,7 @@
 | [nanoMuse — 自分のデバイスで動くオープンソースパーソナルエージェント](entries/coding-agent/nano-muse-nanomuse.md) ⚑ | 3,528 | 419 | 毎日 | 100+ | 2026-11-13 | 2026-11-16 | 2026-11-22 | GPL-3.0 |
 | [Oil UI](entries/coding-agent/oil-oil-oil-ui.md) ⚑ | 3,452 | 198 | 毎日 | 44 | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
 | [oh-my-mermaid（omm）](entries/coding-agent/oh-my-mermaid-oh-my-mermaid.md) | 3,393 | 266 | 停滞 | 0 | 2026-04-07 | 2026-11-16 | 2026-11-22 | MIT |
+| [@shadcn/lint](entries/coding-agent/shadcn-ui-lint.md) ⚑ | 3,366 | 76 | 毎日 | 36 | 2026-11-02 | 2026-11-17 | 2026-11-22 | MIT |
 | [yomiyasu（よみやす）](entries/coding-agent/nanaism-yomiyasu.md) ⚑ | 3,312 | 89 | 毎日 | 23 | 2026-11-12 | 2026-11-16 | 2026-11-22 | MIT |
 | [Jevgrep](entries/coding-agent/dzhng-jevgrep.md) ⚑ | 3,234 | 247 | 毎日 | 66 | 2026-11-12 | 2026-11-16 | 2026-11-22 | MIT |
 | [DS Harness Remote](entries/coding-agent/liguobao-ds-harness-remote.md) ⚑ | 3,073 | 232 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
@@ -2052,6 +2053,7 @@
 - [Beacon](entries/coding-agent/asymptote-labs-agent-beacon.md) — unverified / 最新版のタグ・公開日時、投稿にある beacon handoff resume の具体的な挙動、エージェント間の再利用による時間短縮や成功率、Beacon Cloudの料金は未確認。対話セットアップではBeacon Cloudが事前選択され、確定すると収集した履歴の転送が始まる。
 - [nanoMuse — 自分のデバイスで動くオープンソースパーソナルエージェント](entries/coding-agent/nano-muse-nanomuse.md) — unverified / Meta Platformsとは無関係の独立コミュニティプロジェクト。MuseはMetaの商標。中国大陸の携帯番号登録が必要な場合がある。デスクトップ版は未公証・未署名。当方未インストール。 当方でインストール・動作・性能の実行検証はしていない。
 - [Oil UI](entries/coding-agent/oil-oil-oil-ui.md) — unverified / README記載の機能説明は作者による説明で、効果は独立検証されていない。Proの価格として一括払い9.99ドルと記載があるが、現在の価格・購入条件は未確認。
+- [@shadcn/lint](entries/coding-agent/shadcn-ui-lint.md) — unverified / README記載の評価結果とコスト削減率は作者による報告で、独立した実測としては確認していない。
 - [yomiyasu（よみやす）](entries/coding-agent/nanaism-yomiyasu.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Jevgrep](entries/coding-agent/dzhng-jevgrep.md) — unverified / CLIは実行していない。作者の費用比較を独立に再現しておらず、他のリポジトリへの一般化、速度改善、各プロバイダーの現行料金、GitHubリリースの完全な公開日時は未確認。
 - [DS Harness Remote](entries/coding-agent/liguobao-ds-harness-remote.md) — unverified / アカウント登録には招待コードが必要とREADMEに記載。招待コードの入手条件、利用料金は資料から確認できない。

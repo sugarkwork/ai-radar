@@ -1,5 +1,5 @@
 {
-  "count": 1264,
+  "count": 1265,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -12778,6 +12778,37 @@
       "type": "repo",
       "path": "entries/coding-agent/oh-my-mermaid-oh-my-mermaid.md",
       "summary": "AI エージェントにコードベースを読ませ、**アーキテクチャ図**を Mermaid で書かせる。エージェント側では /omm-scan を呼ぶ。"
+    },
+    {
+      "name": "@shadcn/lint",
+      "genre": "coding-agent",
+      "url": "https://github.com/shadcn-ui/lint",
+      "repo": "shadcn-ui/lint",
+      "license": "MIT",
+      "stars": 3366,
+      "language": "TypeScript",
+      "created": "2026-09-02",
+      "updated": "2026-11-02",
+      "forks": 76,
+      "open_issues": 12,
+      "commits_30d": 36,
+      "commit_cadence": "daily",
+      "commits_90d": 96,
+      "size_kb": 1064,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "README記載の評価結果とコスト削減率は作者による報告で、独立した実測としては確認していない。",
+      "type": "repo",
+      "added": "2026-11-22",
+      "first_seen": "2026-11-22",
+      "sources": [
+        "https://x.com/awe0_io/status/2119116454360658418"
+      ],
+      "fetched_at": "2026-11-17T00:12:57.025052+00:00",
+      "path": "entries/coding-agent/shadcn-ui-lint.md",
+      "summary": "Tailwind v4のデザインシステム向けに、コンポーネントごとのスタイル規則やテーマ値の利用を設定できるリンター。違反を診断し、コンポーネント、variant、themeに基づく修正案をエラーに含められる。ESLintとOxlintに対応し、React、Svelte、Vueで利用可能とREADMEに記載。出典: h"
     },
     {
       "name": "yomiyasu（よみやす）",
