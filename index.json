@@ -1,5 +1,5 @@
 {
-  "count": 1279,
+  "count": 1280,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -31344,6 +31344,37 @@
       "fetched_at": "2026-11-09T21:42:14Z",
       "path": "entries/rag/graphify-labs-graphify.md",
       "summary": "フォルダを指定すると、コード・設定・SQLスキーマ・ドキュメント・PDF・画像・音声/動画を1つの知識グラフにまとめ、graphify-out/ に graph.html（ブラウザで開くクリック可能な地図）、GRAPH_REPORT.md（要点・意外なつながり・推奨質問）、graph.json（エージェントが問い合わせ"
+    },
+    {
+      "name": "RAGFlow",
+      "genre": "rag",
+      "url": "https://github.com/infiniflow/ragflow",
+      "repo": "infiniflow/ragflow",
+      "license": "Apache-2.0",
+      "stars": 94266,
+      "language": "Go",
+      "created": "2023-12-12",
+      "updated": "2026-11-17",
+      "forks": 11333,
+      "open_issues": 1307,
+      "commits_30d": 100,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 194244,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景。",
+      "type": "repo",
+      "added": "2026-11-22",
+      "first_seen": "2026-11-22",
+      "sources": [
+        "https://x.com/RoundtableSpace/status/2119131518920433826"
+      ],
+      "fetched_at": "2026-11-17T02:24:05.373003+00:00",
+      "path": "entries/rag/infiniflow-ragflow.md",
+      "summary": "文書の知識抽出とテンプレートベースのチャンク分割、文書・データセット単位の知識コンパイル、複数段階の検索、根拠参照と引用の提示、複数形式のデータ取り込みを提供するとREADMEに記載されています。出典: https://github.com/infiniflow/ragflow#-key-features"
     },
     {
       "type": "repo",
