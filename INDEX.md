@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1277 件 — リポジトリ 881, リンク集 120, 記事 209, モデル 53, プロンプト 14 / ⚑ 要確認 1024 件
+収録 1278 件 — リポジトリ 882, リンク集 120, 記事 209, モデル 53, プロンプト 14 / ⚑ 要確認 1025 件
 
-## リポジトリ（881）
+## リポジトリ（882）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -894,12 +894,13 @@
 | [ComfyUI Prompt Atelier](entries/image-gen/renz1998-comfyui-prompt-atelier.md) | 3 | 0 | 毎日 | 72 | 2026-11-11 | 2026-11-16 | 2026-11-22 | GPL-3.0 |
 | [P-H3-Image ComfyUI sample workflows](entries/image-gen/tori29umai0123-p-h3-image_workflows.md) ⚑ | 2 | 1 | 週次 | 4 | 2026-11-06 | 2026-11-16 | 2026-11-22 | unknown |
 
-### RAG・検索（24）
+### RAG・検索（25）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
 | [Graphify](entries/rag/graphify-labs-graphify.md) ⚑ | 144,984 | 13,875 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
 | [HKUDS/DeepTutor](entries/rag/hkuds-deeptutor.md) ⚑ | 57,584 | 7,020 | 毎日 | 100+ | 2026-11-07 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [LlamaIndex Framework](entries/rag/run-llama-llama_index.md) ⚑ | 52,924 | 8,570 | 週次 | 9 | 2026-11-14 | 2026-11-17 | 2026-11-22 | MIT |
 | [OpenViking](entries/rag/volcengine-openviking.md) ⚑ | 42,312 | 3,502 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | AGPL-3.0 |
 | [Khoj](entries/rag/khoj-ai-khoj.md) ⚑ | 38,132 | 2,551 | 停滞 | 0 | 2026-08-02 | 2026-11-15 | 2026-11-15 | AGPL-3.0 |
 | [Qdrant](entries/rag/qdrant-qdrant.md) ⚑ | 35,598 | 2,820 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
@@ -2568,6 +2569,7 @@
 - [英語リスニング訓練コーチ（教材生成＋盲聴＋誤り分類）](prompts/prompt-other/990639c4-15d8bdb039.md) — unverified / 著者の主張は「レベルと練習時間に合った英文を生成させ、盲聴→大意1問→テキスト開示→誤り分類→復盤まで自動で回す」こと。プロンプト本文は原文どおり 442 字で、記事 HTML の <code> ブロックと空白正規化後の SHA-1 が一致することを確認した。確認できたのは指示文の内容までで、次は未確認・不成立。①「第一遍只朗读，不展示文本」は ChatGPT Voice では成立しない（公式ヘルプ：Live は読み上げと同時に応答テキストをチャットに表示する。Advanced も会話終了後に transcript が追加される）。②5〜8分の連続朗読は Voice の想定用途（対話）から外れ、実際には分割されやすい。③「初回60%→数回で80%」の難易度基準は著者の経験則で出典なし。④このプロンプトによる学習効果の測定データは無い。記事 URL は未ログインだとログイン画面（x.com/i/jf/onboarding/web）へリダイレクトされ、本文は投稿ページにサーバー描画された HTML から取得した。
 - [Graphify](entries/rag/graphify-labs-graphify.md) — unverified / 投稿の数値と実測の差分: 投稿は「134k stars」とするが、2026-11-09T15:03Z の GitHub API 実測は 144,862 stars（13,858 forks, 1,646 open issues）。投稿日 2026-10-25 時点より増えており、投稿は star を過小に述べている（誇張ではない）。ただし作成 2026-04-03 から約7か月で14万 stars という伸びは異常に速く、YC ページでは「116K+ stars（約5か月）」、創業者プロフィールでは「108K+」と時期により数値が動く。star の内訳（組織的・自動的な star の有無）は未認証 API では取得できず監査していない。ベンチマークは開発元自身のハーネス（mem0/supermemory をアダプタとして内包）による自己申告で、独立した第三者追試は見つからない。LOCOMO の QA accuracy では supermemory 49.7% が graphify 45.3% を上回るため「top10に約50%正解」は recall@10=0.497 の話であり、回答精度そのものが最高という主張ではない。投稿の「コード部分はローカル完結」「モデルクレジット0」はコードのみのグラフ構築に限られ、docs/PDF/画像は設定した LLM バックエンドへ送信され、Kimi は中国リージョンにルーティングされる。音声/動画は faster-whisper でローカル文字起こしだが、yt-dlp による取得を伴う。ホスト版 Graphify Cloud は有料（Free/Pro $10-15/月・Teams $20-29/seat/月）で、README 冒頭の「token spend 80%削減」はホスト版の主張。API の /releases/latest は 404 を返したため、最新版は releases 一覧の先頭 v0.9.104 を採用した。
 - [HKUDS/DeepTutor](entries/rag/hkuds-deeptutor.md) — unverified / Apache-2.0表記はコード側の条件。教示の正しさ・教育効果、API費用、デスクトップの実機動作は未検証。 当方でインストール・推論・生成・ベンチ再現はしていない。
+- [LlamaIndex Framework](entries/rag/run-llama-llama_index.md) — unverified / 一次資料で未確認: 有効性。
 - [OpenViking](entries/rag/volcengine-openviking.md) — unverified / README記載のLoCoMo・tau2-benchの評価値は作者による報告で、独立実測ではない。
 - [Khoj](entries/rag/khoj-ai-khoj.md) — unverified / READMEには依存関係、対応ランタイム、料金の詳細、セルフホストの具体的な手順が記載されていない。
 - [Qdrant](entries/rag/qdrant-qdrant.md) — unverified / README記載の量子化によるRAM使用量最大97%削減は公式資料の説明であり、独立実測値ではない。Dockerの起動例は認証なしで全ネットワークインターフェースに公開されるため、本番利用前に公式のセキュリティ手順を確認する必要がある。

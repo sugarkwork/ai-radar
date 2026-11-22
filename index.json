@@ -1,5 +1,5 @@
 {
-  "count": 1277,
+  "count": 1278,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -31356,6 +31356,37 @@
       "last_release_at": "2026-11-06",
       "path": "entries/rag/hkuds-deeptutor.md",
       "summary": "学習・質問解説を支援するDeepTutor。原チェックではv1.7.2のmacOS/Windowsデスクトップ配布を確認。"
+    },
+    {
+      "name": "LlamaIndex Framework",
+      "genre": "rag",
+      "url": "https://github.com/run-llama/llama_index",
+      "repo": "run-llama/llama_index",
+      "license": "MIT",
+      "stars": 52924,
+      "language": "Python",
+      "created": "2022-11-02",
+      "updated": "2026-11-14",
+      "forks": 8570,
+      "open_issues": 1458,
+      "commits_30d": 9,
+      "commit_cadence": "weekly",
+      "commits_90d": 73,
+      "size_kb": 529211,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 有効性。",
+      "type": "repo",
+      "added": "2026-11-22",
+      "first_seen": "2026-11-22",
+      "sources": [
+        "https://x.com/RoundtableSpace/status/2119131518920433826"
+      ],
+      "fetched_at": "2026-11-17T02:23:30.901039+00:00",
+      "path": "entries/rag/run-llama-llama_index.md",
+      "summary": "READMEでは、API・PDF・文書・SQLなどのデータコネクタ、データの構造化、検索・クエリを提供し、LLMアプリやRAGアプリを構築できると説明されています。高水準APIと、コネクタ・インデックス・検索器などを調整する低水準APIがあります。出典: https://github.com/run-llama/lla"
     },
     {
       "name": "OpenViking",
