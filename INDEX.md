@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1275 件 — リポジトリ 879, リンク集 120, 記事 209, モデル 53, プロンプト 14 / ⚑ 要確認 1022 件
+収録 1276 件 — リポジトリ 880, リンク集 120, 記事 209, モデル 53, プロンプト 14 / ⚑ 要確認 1023 件
 
-## リポジトリ（879）
+## リポジトリ（880）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（183）
+### その他（184）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -25,6 +25,7 @@
 | [OpenAI Cookbook](entries/other/openai-openai-cookbook.md) ⚑ | 77,132 | 13,068 | 週次 | 19 | 2026-11-14 | 2026-11-15 | 2026-11-15 | MIT |
 | [高性价比人生指南](entries/other/eternity4719-howtolivebetter.md) ⚑ | 76,109 | 6,760 | 毎日 | 79 | 2026-11-16 | 2026-11-16 | 2026-11-22 | CC-BY-4.0 |
 | [MediaCrawler](entries/other/nanmicoder-mediacrawler.md) ⚑ | 70,741 | 13,389 | 毎日 | 21 | 2026-11-09 | 2026-11-09 | 2026-11-10 | 未確認（API は NOASSERTION、標準ライセンスファイル無し） |
+| [Docling](entries/other/docling-project-docling.md) ⚑ | 70,669 | 5,364 | 毎日 | 100+ | 2026-11-17 | 2026-11-17 | 2026-11-22 | MIT |
 | [FFmpeg](entries/other/ffmpeg-ffmpeg.md) ⚑ | 67,396 | 14,648 | 毎日 | 52 | 2026-11-16 | 2026-11-16 | 2026-11-22 | unknown |
 | [MiniMind](entries/other/jingyaogong-minimind.md) ⚑ | 65,230 | 8,542 | 週次 | 10 | 2026-10-27 | 2026-11-14 | 2026-11-14 | Apache-2.0 |
 | [nanoGPT](entries/other/karpathy-nanogpt.md) ⚑ | 64,598 | 11,112 | 停滞 | 0 | 2025-11-12 | 2026-11-10 | 2026-11-10 | MIT |
@@ -2348,6 +2349,7 @@
 - [OpenAI Cookbook](entries/other/openai-openai-cookbook.md) — unverified / 一次資料で未確認: 技術背景・有効性・実行条件。
 - [高性价比人生指南](entries/other/eternity4719-howtolivebetter.md) — unverified / 内容可能过时或有误，政策执行因地区而异。实际办事、就医或诉讼时，以当地部门、医生或律师的意见为准。
 - [MediaCrawler](entries/other/nanmicoder-mediacrawler.md) — unverified / 各プラットフォームの利用規約と著作権に抵触しうる。収集した投稿・動画の再配布は権利者の許諾が必要。規約違反・アカウント停止のリスクは利用者側。
+- [Docling](entries/other/docling-project-docling.md) — unverified / 個別モデルの利用条件は各モデルのライセンスに従う。
 - [FFmpeg](entries/other/ffmpeg-ffmpeg.md) — unverified / GitHubの最新リリース情報、個別ビルドで利用できるコーデック、処理速度・出力品質、AIエージェントからの実行は未検証。READMEはGitHubの公開rawファイルで確認した。 GitHub APIでライセンスを確認できていません。
 - [MiniMind](entries/other/jingyaogong-minimind.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [nanoGPT](entries/other/karpathy-nanogpt.md) — unverified / 最新リリース、現行の依存パッケージとの互換性、学習時間と検証損失の再現性は未確認。学習結果はREADMEの著者報告。MITはリポジトリのライセンスで、外部データや事前学習済み重みの利用条件は未確認。

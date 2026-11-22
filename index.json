@@ -1,5 +1,5 @@
 {
-  "count": 1275,
+  "count": 1276,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -23694,6 +23694,37 @@
       "last_release_at": "",
       "path": "entries/other/nanmicoder-mediacrawler.md",
       "summary": "中国系プラットフォーム横断のデータ収集ツール。小红书（RED）・抖音・快手・B站・微博・百度貼吧・知乎の**投稿とコメント**を取得する。"
+    },
+    {
+      "name": "Docling",
+      "genre": "other",
+      "url": "https://github.com/docling-project/docling",
+      "repo": "docling-project/docling",
+      "license": "MIT",
+      "stars": 70669,
+      "language": "Python",
+      "created": "2024-07-09",
+      "updated": "2026-11-17",
+      "forks": 5364,
+      "open_issues": 1064,
+      "commits_30d": 100,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 482437,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "個別モデルの利用条件は各モデルのライセンスに従う。",
+      "type": "repo",
+      "added": "2026-11-22",
+      "first_seen": "2026-11-22",
+      "sources": [
+        "https://x.com/RoundtableSpace/status/2119131518920433826"
+      ],
+      "fetched_at": "2026-11-17T02:22:22.975408+00:00",
+      "path": "entries/other/docling-project-docling.md",
+      "summary": "PDF、DOCX、PPTX、XLSX、HTML、画像、音声などの文書形式を解析し、Markdown、HTML、WebVTT、JSONなどへ出力する。PDFではページレイアウト、読み順、表構造、コード、数式などを扱う。OCR、音声認識、動画解析、MCPサーバー、APIサーバーもREADMEに記載されている。"
     },
     {
       "repo": "FFmpeg/FFmpeg",
