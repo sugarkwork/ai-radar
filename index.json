@@ -1,5 +1,5 @@
 {
-  "count": 1319,
+  "count": 1320,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -29312,6 +29312,37 @@
       "last_release_at": "2026-10-06",
       "path": "entries/other/goodseafly-how-to-make-work-pay.md",
       "summary": "READMEによると、職場の採用、契約、賃金、休暇、社会保険、労災、退職、解雇などについて、576件の提案を検索・閲覧できます。オンライン検索ページにはキーワード、章、証拠レベル、コストによる絞り込みがあり、オフライン版も案内されています。"
+    },
+    {
+      "name": "Introduction to Statistical Learning with Python — Study Journey",
+      "genre": "other",
+      "url": "https://github.com/0xHadyy/isl-python",
+      "repo": "0xHadyy/isl-python",
+      "license": "unknown",
+      "stars": 480,
+      "language": "Jupyter Notebook",
+      "created": "2025-05-12",
+      "updated": "2026-02-14",
+      "forks": 44,
+      "open_issues": 0,
+      "commits_30d": 0,
+      "commit_cadence": "stale",
+      "commits_90d": 0,
+      "size_kb": 22708,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEではライセンス、必要な依存関係、実行条件は確認できません。 GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-22",
+      "first_seen": "2026-11-22",
+      "sources": [
+        "https://x.com/bkdgiffug/status/2119219850702946554"
+      ],
+      "fetched_at": "2026-11-17T15:11:58.603994+00:00",
+      "path": "entries/other/0xhadyy-isl-python.md",
+      "summary": "READMEによると、『An Introduction to Statistical Learning』とESLの発展的な章をPythonで学習した内容を章ごとにまとめています。章1〜7を完了済みとして挙げ、章8〜13を今後の学習項目として記載しています。"
     },
     {
       "name": "Life Destiny K-Line（人生 K 线）",
