@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1331 件 — リポジトリ 930, リンク集 120, 記事 214, モデル 53, プロンプト 14 / ⚑ 要確認 1073 件
+収録 1332 件 — リポジトリ 931, リンク集 120, 記事 214, モデル 53, プロンプト 14 / ⚑ 要確認 1073 件
 
-## リポジトリ（930）
+## リポジトリ（931）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -939,7 +939,7 @@
 | [P-H3-Image ComfyUI sample workflows](entries/image-gen/tori29umai0123-p-h3-image_workflows.md) ⚑ | 2 | 1 | 週次 | 4 | 2026-11-06 | 2026-11-16 | 2026-11-22 | unknown |
 | [GrabTag](entries/image-gen/blackll7-moss-image-edit-grabtag.md) | 0 | 0 | 毎日 | 43 | 2026-11-09 | 2026-11-17 | 2026-11-22 | MIT |
 
-### RAG・検索（26）
+### RAG・検索（27）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -962,6 +962,7 @@
 | [kepano/kepano-obsidian](entries/rag/kepano-kepano-obsidian.md) ⚑ | 5,521 | 448 | 停滞 | 0 | 2026-01-09 | 2026-11-09 | 2026-11-10 | MIT |
 | [Code-Graph-RAG](entries/rag/vitali87-code-graph-rag.md) ⚑ | 5,347 | 711 | 毎日 | 100+ | 2026-11-11 | 2026-11-11 | 2026-11-11 | MIT |
 | [OpenKB](entries/rag/vectifyai-openkb.md) | 4,862 | 504 | 停滞 | 0 | 2026-07-22 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
+| [Chonkie](entries/rag/feyninc-chonkie.md) | 4,836 | 373 | 月次 | 0 | 2026-11-17 | 2026-11-17 | 2026-11-22 | MIT |
 | [zvec-ai/zvec-grep](entries/rag/zvec-ai-zvec-grep.md) ⚑ | 4,298 | 263 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
 | [obsidianmd/jsoncanvas](entries/rag/obsidianmd-jsoncanvas.md) ⚑ | 3,852 | 183 | 停滞 | 0 | 2026-07-24 | 2026-11-09 | 2026-11-10 | MIT |
 | [zilliztech/memsearch](entries/rag/zilliztech-memsearch.md) ⚑ | 2,847 | 281 | 毎日 | 29 | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
