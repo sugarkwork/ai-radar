@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1321 件 — リポジトリ 921, リンク集 120, 記事 213, モデル 53, プロンプト 14 / ⚑ 要確認 1064 件
+収録 1322 件 — リポジトリ 921, リンク集 120, 記事 214, モデル 53, プロンプト 14 / ⚑ 要確認 1064 件
 
 ## リポジトリ（921）
 
@@ -1491,9 +1491,9 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（213）
+## 記事（214）
 
-### 記事（150）
+### 記事（151）
 
 - **[$0のデジタル参謀長で月$80,000の契約候補を作ったというX投稿（動画付き）](articles/2026-10-22-bober_smart-0-80-000-x.md)** ⚑  @Bober_smart
 - **[1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md)** ⚑  @mukadeshinigami（mukade死神）
@@ -1628,6 +1628,7 @@
 - **[llama.cpp v1.0.0: A stronger foundation for the local AI ecosystem](articles/2026-11-13-author-llama.cpp-v1.0.0-a-stronger-foundation-for-the-local-ai-ecosystem.md)**
 - **[「長くなる一方のSkill」を「短く効くSkill」にする、Matt Pocock式の作り方](articles/2026-10-20-sumika45379-skills-studio-skill-skill-matt-pocock.md)** ⚑  @sumika45379 (Skills Studio)
 - **[【公式】Claude Codeの「直しました」で終わらせない。画面の確認まで任せるSkillの作り方](articles/2026-10-23-sumika45379-skills-studio-claude-code-skill.md)** ⚑  sumika45379 / Skills Studio
+- **[ゲームNPCに会話・記憶・音声を加えるための8つのオープンソースプロジェクト](articles/2026-11-07-author-npc-8.md)**
 - **[ジェンスン・フアンがCNNで語ったAIを使った学習と回答の比較](articles/2025-07-13-cnn-cnn-ai.md)** ⚑  CNN
 - **[デジタル化・AI導入補助金の申請条件と交付順序](articles/2026-11-09-https-x.com-makeai_ceo-status-2089261252120051821.md)** ⚑  @ai_ai_ailover
 - **[マジで詰む、AIがCドライブを勝手に削除した。「削除禁止」では止まらなかった理由と、Claude Code・Codex・dots・Muse・Grok Botにそのまま貼れる「消させない」ルール集を作った](articles/2026-11-04-author-ai-c-claude-code-codex-dots-muse-grok-bot-cb424550bf.md)** ⚑

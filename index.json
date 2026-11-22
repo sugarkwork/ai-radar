@@ -1,5 +1,5 @@
 {
-  "count": 1321,
+  "count": 1322,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -10612,6 +10612,22 @@
       ],
       "fetched_at": "2026-11-09T08:32:37Z",
       "path": "articles/2026-10-23-sumika45379-skills-studio-claude-code-skill.md"
+    },
+    {
+      "name": "ゲームNPCに会話・記憶・音声を加えるための8つのオープンソースプロジェクト",
+      "genre": "article",
+      "url": "https://x.com/WojakTheDev/status/2119183805969994164",
+      "published": "2026-11-07",
+      "flags": [],
+      "type": "article",
+      "added": "2026-11-22",
+      "first_seen": "2026-11-22",
+      "risk_notes": "",
+      "sources": [
+        "https://x.com/WojakTheDev/status/2119183805969994164"
+      ],
+      "fetched_at": "2026-11-17T16:14:34.563317+00:00",
+      "path": "articles/2026-11-07-author-npc-8.md"
     },
     {
       "name": "ジェンスン・フアンがCNNで語ったAIを使った学習と回答の比較",
