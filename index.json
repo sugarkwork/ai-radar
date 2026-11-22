@@ -1,5 +1,5 @@
 {
-  "count": 1335,
+  "count": 1336,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -22869,6 +22869,37 @@
       "last_release_at": "",
       "path": "entries/model-serving/cactus-compute-cactus.md",
       "summary": "Mirage等のモデルを端末で実行するCactusの推論基盤。PythonパッケージとAPI例を公開。"
+    },
+    {
+      "name": "Portkey AI Gateway",
+      "genre": "model-serving",
+      "url": "https://github.com/Portkey-AI/gateway",
+      "repo": "Portkey-AI/gateway",
+      "license": "MIT",
+      "stars": 13394,
+      "language": "TypeScript",
+      "created": "2023-08-23",
+      "updated": "2026-05-25",
+      "forks": 1383,
+      "open_issues": 344,
+      "commits_30d": 0,
+      "commit_cadence": "stale",
+      "commits_90d": 0,
+      "size_kb": 67695,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEは「250+ LLM」と「1600+ language, vision, audio, and image models」の両方を記載しており、対象数の数え方は確認できない。README記載の機能・性能値は独立検証していない。",
+      "type": "repo",
+      "added": "2026-11-22",
+      "first_seen": "2026-11-22",
+      "sources": [
+        "https://x.com/irongiantXBT/status/2122709093102285099"
+      ],
+      "fetched_at": "2026-11-17T23:17:43.944784+00:00",
+      "path": "entries/model-serving/portkey-ai-gateway.md",
+      "summary": "READMEによると、複数のLLMを単一のAPIで利用するゲートウェイ。自動リトライ、フォールバック、ロードバランシング、条件付きルーティング、ガードレール、マルチモーダル機能を掲げ、MCPサーバーの管理機能も説明している。機能や性能の独立検証はしていない。"
     },
     {
       "repo": "FareedKhan-dev/kimi-k3-in-c",
