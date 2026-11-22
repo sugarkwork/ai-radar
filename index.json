@@ -1,5 +1,5 @@
 {
-  "count": 1257,
+  "count": 1258,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -6798,6 +6798,37 @@
       "last_release_at": "2026-11-16",
       "path": "entries/agent-framework/anomalyco-browse.md",
       "summary": "browse MCPサーバーとChromium拡張機能を提供する。エージェントはPlaywrightでタブを開いて操作し、スクリーンショット取得、ネットワーク通信の記録、画面録画ができる。ログイン、二要素認証、支払いなど利用者の操作が必要な場面ではタブを利用者に引き渡し、利用者がContinueを押した後に続行する。R"
+    },
+    {
+      "name": "ccteam",
+      "genre": "agent-framework",
+      "url": "https://github.com/firstintent/ccteam",
+      "repo": "firstintent/ccteam",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "README excerpt does not specify the complete dependency list or installation requirements.",
+      "stars": 649,
+      "forks": 29,
+      "open_issues": 8,
+      "size_kb": 30247,
+      "language": "Rust",
+      "created": "2026-05-04",
+      "updated": "2026-11-14",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 37,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "type": "repo",
+      "added": "2026-11-22",
+      "first_seen": "2026-11-22",
+      "sources": [
+        "https://x.com/ruyi3699/status/2119097797081501791"
+      ],
+      "fetched_at": "2026-11-16T21:15:45.726390+00:00",
+      "path": "entries/agent-framework/firstintent-ccteam.md",
+      "summary": "READMEによると、Claude Code、Codex、Grok、Kimi、Deepseek Harnessなどのコーディングエージェントをまとめ、セッションの作成・振り分け・結果収集を行う。Telegram、Lark、Slack、Webコンソールから操作でき、APIとJavaScriptで記述するFlowも提供する"
     },
     {
       "name": "Hermes Gadget",

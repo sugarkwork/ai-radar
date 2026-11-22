@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1257 件 — リポジトリ 862, リンク集 120, 記事 208, モデル 53, プロンプト 14 / ⚑ 要確認 1010 件
+収録 1258 件 — リポジトリ 863, リンク集 120, 記事 208, モデル 53, プロンプト 14 / ⚑ 要確認 1011 件
 
-## リポジトリ（862）
+## リポジトリ（863）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -331,7 +331,7 @@
 | [Leash](entries/coding-agent/cmaintz-leash.md) ⚑ | 0 | 0 | 毎日 | 20 | 2026-11-15 | 2026-11-16 | 2026-11-22 | MIT |
 | [grok-x](entries/coding-agent/stat-guy-grok-x.md) ⚑ | 0 | 0 | 停滞 | 0 | 2026-03-19 | 2026-11-16 | 2026-11-22 | unknown |
 
-### エージェント基盤・スキル集（116）
+### エージェント基盤・スキル集（117）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -432,6 +432,7 @@
 | [Nakama](entries/agent-framework/ahmadrosid-nakama.md) ⚑ | 827 | 146 | 毎日 | 100+ | 2026-11-15 | 2026-11-16 | 2026-11-22 | MIT |
 | [Grok Bot Field Notes](entries/agent-framework/unicodef1wn-grokbot-field-notes.md) | 711 | 103 | 月次 | 0 | 2026-09-20 | 2026-11-16 | 2026-11-22 | MIT |
 | [browse](entries/agent-framework/anomalyco-browse.md) ⚑ | 669 | 51 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [ccteam](entries/agent-framework/firstintent-ccteam.md) ⚑ | 649 | 29 | 毎日 | 37 | 2026-11-14 | 2026-11-16 | 2026-11-22 | MIT |
 | [Hermes Gadget](entries/agent-framework/adolanium-hermes-gadget-sdk.md) ⚑ | 548 | 97 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
 | [blender-ai-copilot-lab](entries/agent-framework/precygtrucqui1981-blender-ai-copilot-lab.md) ⚑ | 507 | 13 | 週次 | 5 | 2026-11-15 | 2026-11-16 | 2026-11-22 | MIT |
 | [@antfu/skills（npm で配るスキル詰め合わせ）](entries/agent-framework/antfu-skills-pack.md) | 342 | 5 | 週次 | 6 | 2026-10-30 | 2026-11-16 | 2026-11-22 | MIT |
@@ -1842,6 +1843,7 @@
 - [RustXNG](entries/agent-framework/sahenjp-rustxng.md) — unverified / 標準・Fullプロファイルは有効な外部検索プロバイダーへクエリを送信する。Fullには自動アクセス条件が制限的または未確認のプロバイダーが含まれる。利用するプロバイダーの条件確認が必要。
 - [Nakama](entries/agent-framework/ahmadrosid-nakama.md) — unverified / READMEによると、Dockerのリセット手順はデータを破棄し、ポート4310を公開する無関係なコンテナも削除する。実行前に影響範囲を確認すること。
 - [browse](entries/agent-framework/anomalyco-browse.md) — unverified / README記載の導入方法には、ダウンロードしたインストーラーを実行する手順（curl | bash、PowerShellのirm | iex、npx install）が含まれます。この候補では実行していません。
+- [ccteam](entries/agent-framework/firstintent-ccteam.md) — unverified / README excerpt does not specify the complete dependency list or installation requirements.
 - [Hermes Gadget](entries/agent-framework/adolanium-hermes-gadget-sdk.md) — unverified / 実機ポートは、対象リビジョンの完全な物理検証レポートが記録されるまで実験的とREADMEに記載。ボード選定時は検証表の確認が必要。
 - [blender-ai-copilot-lab](entries/agent-framework/precygtrucqui1981-blender-ai-copilot-lab.md) — unverified / README記載の機能と対象環境は作者の説明に基づく。独立した動作確認は行っていない。
 - [creator-generalist](entries/agent-framework/codepawl-creator-generalist.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
