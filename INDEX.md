@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1311 件 — リポジトリ 914, リンク集 120, 記事 210, モデル 53, プロンプト 14 / ⚑ 要確認 1056 件
+収録 1312 件 — リポジトリ 915, リンク集 120, 記事 210, モデル 53, プロンプト 14 / ⚑ 要確認 1056 件
 
-## リポジトリ（914）
+## リポジトリ（915）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -355,7 +355,7 @@
 | [Leash](entries/coding-agent/cmaintz-leash.md) ⚑ | 0 | 0 | 毎日 | 20 | 2026-11-15 | 2026-11-16 | 2026-11-22 | MIT |
 | [grok-x](entries/coding-agent/stat-guy-grok-x.md) ⚑ | 0 | 0 | 停滞 | 0 | 2026-03-19 | 2026-11-16 | 2026-11-22 | unknown |
 
-### エージェント基盤・スキル集（122）
+### エージェント基盤・スキル集（123）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -475,6 +475,7 @@
 | [vouch](entries/agent-framework/vouchdev-vouch.md) ⚑ | 68 | 62 | 停滞 | 0 | 2026-08-23 | 2026-11-16 | 2026-11-22 | MIT |
 | [Spring AI TypeSafe](entries/agent-framework/spring-ai-community-spring-ai-typesafe.md) ⚑ | 66 | 19 | 月次 | 1 | 2026-11-15 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
 | [LATCH](entries/agent-framework/balanov-latch.md) | 63 | 3 | 毎日 | 30 | 2026-11-15 | 2026-11-16 | 2026-11-22 | MIT |
+| [Cubicle](entries/agent-framework/caglarutkuguler-cubicle.md) | 61 | 7 | 毎日 | 26 | 2026-10-20 | 2026-11-17 | 2026-11-22 | MIT |
 | [BetterSearch](entries/agent-framework/ry0narushima-bettersearch.md) | 41 | 4 | 週次 | 10 | 2026-10-18 | 2026-11-16 | 2026-11-22 | MIT |
 | [AI Office](entries/agent-framework/engchoon-ai-office.md) ⚑ | 36 | 9 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
 | [X Virality Score](entries/agent-framework/monkeyteamvip-x-virality-score.md) ⚑ | 36 | 20 | 月次 | 3 | 2026-10-27 | 2026-11-16 | 2026-11-22 | MIT |
