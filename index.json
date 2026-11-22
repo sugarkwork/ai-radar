@@ -1,5 +1,5 @@
 {
-  "count": 1322,
+  "count": 1323,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -29706,6 +29706,37 @@
       "fetched_at": "2026-11-10T09:45:32+00:00",
       "path": "entries/other/scriptedalchemy-grok-bot-cli.md",
       "summary": "ボットとグループの作成・更新・削除、メッセージ送信、スレッド取得を CLI で行う。"
+    },
+    {
+      "name": "RedDownloader",
+      "genre": "other",
+      "url": "https://github.com/Jackhammer9/RedDownloader",
+      "repo": "Jackhammer9/RedDownloader",
+      "license": "GPL-3.0",
+      "stars": 177,
+      "language": "Python",
+      "created": "2021-10-09",
+      "updated": "2025-12-08",
+      "forks": 23,
+      "open_issues": 7,
+      "commits_30d": 0,
+      "commit_cadence": "stale",
+      "commits_90d": 0,
+      "size_kb": 743,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 依存関係。",
+      "type": "repo",
+      "added": "2026-11-22",
+      "first_seen": "2026-11-22",
+      "sources": [
+        "https://x.com/bkdgiffug/status/2119227400688930870"
+      ],
+      "fetched_at": "2026-11-17T18:08:57.204053+00:00",
+      "path": "entries/other/jackhammer9-reddownloader.md",
+      "summary": "READMEによると、Reddit投稿URLから画像・動画・ギャラリーを取得できます。サブレディットから投稿を取得する機能のほか、投稿者やユーザー情報の取得、取得済み投稿の重複を避けるキャッシュ機能も説明されています。"
     },
     {
       "repo": "leepokai/jev-guard",
