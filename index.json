@@ -1,5 +1,5 @@
 {
-  "count": 1350,
+  "count": 1351,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -12590,6 +12590,37 @@
       "last_release_at": "2026-07-07",
       "path": "entries/coding-agent/chuspeeism-dashi-ppt-skill.md",
       "summary": "READMEによると、AIエージェントでプレゼン資料を生成し、ブラウザー上でテキスト、画像、レイアウト、配色などを編集できます。HTMLオフラインパッケージ、PDF、編集可能なPPTXへの出力に対応すると説明されています。出典: https://github.com/chuspeeism/dashi-ppt-skill"
+    },
+    {
+      "name": "Stitch Design Skills",
+      "genre": "coding-agent",
+      "url": "https://github.com/google-labs-code/stitch-skills",
+      "repo": "google-labs-code/stitch-skills",
+      "license": "Apache-2.0",
+      "stars": 10093,
+      "language": "TypeScript",
+      "created": "2026-01-16",
+      "updated": "2026-08-17",
+      "forks": 1328,
+      "open_issues": 21,
+      "commits_30d": 0,
+      "commit_cadence": "stale",
+      "commits_90d": 0,
+      "size_kb": 248,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 実行条件。",
+      "type": "repo",
+      "added": "2026-11-22",
+      "first_seen": "2026-11-22",
+      "sources": [
+        "https://x.com/TheArthiAI/status/2122838487741436387"
+      ],
+      "fetched_at": "2026-11-18T00:24:52.717005+00:00",
+      "path": "entries/coding-agent/google-labs-code-stitch-skills.md",
+      "summary": "Google Stitch向けのスキルとプラグインを提供する。READMEでは、デザイン生成・編集、デザインシステム管理、フロントエンドコードからの変換、React/React Native向けコンポーネント生成、プロンプト改善などの用途を案内している。"
     },
     {
       "name": "Copilot for Obsidian",
