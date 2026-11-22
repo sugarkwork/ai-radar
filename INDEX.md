@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1357 件 — リポジトリ 955, リンク集 120, 記事 215, モデル 53, プロンプト 14 / ⚑ 要確認 1097 件
+収録 1358 件 — リポジトリ 956, リンク集 120, 記事 215, モデル 53, プロンプト 14 / ⚑ 要確認 1098 件
 
-## リポジトリ（955）
+## リポジトリ（956）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -377,7 +377,7 @@
 | [Leash](entries/coding-agent/cmaintz-leash.md) ⚑ | 0 | 0 | 毎日 | 20 | 2026-11-15 | 2026-11-16 | 2026-11-22 | MIT |
 | [grok-x](entries/coding-agent/stat-guy-grok-x.md) ⚑ | 0 | 0 | 停滞 | 0 | 2026-03-19 | 2026-11-16 | 2026-11-22 | unknown |
 
-### エージェント基盤・スキル集（126）
+### エージェント基盤・スキル集（127）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -403,6 +403,7 @@
 | [strix](entries/agent-framework/usestrix-strix.md) | 76,017 | 8,600 | 毎日 | 57 | 2026-11-16 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
 | [Security Audit Skill (Cloudflare)](entries/agent-framework/cloudflare-security-audit-skill.md) | 73,859 | 4,948 | 月次 | 0 | 2026-09-14 | 2026-11-16 | 2026-11-22 | MIT |
 | [Mem0](entries/agent-framework/mem0ai-mem0.md) ⚑ | 69,090 | 8,224 | 週次 | 7 | 2026-11-17 | 2026-11-17 | 2026-11-22 | Apache-2.0 |
+| [last30days-skill](entries/agent-framework/mvanhorn-last30days-skill.md) ⚑ | 69,049 | 6,145 | 毎日 | 100+ | 2026-11-17 | 2026-11-18 | 2026-11-22 | MIT |
 | [CrewAI](entries/agent-framework/crewaiinc-crewai.md) ⚑ | 60,992 | 9,209 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
 | [CLI-Anything](entries/agent-framework/hkuds-cli-anything.md) | 58,804 | 5,299 | 月次 | 0 | 2026-09-22 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
 | [Flowise](entries/agent-framework/flowiseai-flowise.md) ⚑ | 55,570 | 25,095 | 停滞 | 0 | 2026-08-13 | 2026-11-16 | 2026-11-22 | unknown |
@@ -1891,6 +1892,7 @@
 - [lobehub/lobehub](entries/agent-framework/lobehub-lobehub.md) — unverified / LobeHub Community LicenseはApache-2.0に派生作品配布の商用条件を追加した独自条件。NOASSERTIONを標準OSSライセンスと解釈しない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [AI Agents for Beginners](entries/agent-framework/microsoft-ai-agents-for-beginners.md) — unverified / コード例の実行にはAzureアカウントが必要とREADMEに記載されています。料金の記載は確認できません。
 - [Mem0](entries/agent-framework/mem0ai-mem0.md) — unverified / ベンチマーク値はMem0の管理プラットフォームでの結果で、READMEはオープンソース版では同一の数値にならないと説明している。
+- [last30days-skill](entries/agent-framework/mvanhorn-last30days-skill.md) — unverified / READMEは現行のコマンドやセットアップ動作の正本を別ファイルのSKILL.mdとして案内していますが、その内容は今回の資料に含まれていません。READMEに記載された追加ソースや効果の範囲は独立確認していません。
 - [CrewAI](entries/agent-framework/crewaiinc-crewai.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Flowise](entries/agent-framework/flowiseai-flowise.md) — unverified / READMEにリポジトリがアーカイブ済みと明記されています。GitHub APIのライセンス値はunknownですが、READMEはApache License Version 2.0と記載しています。 GitHub APIでライセンスを確認できていません。
 - [oh-my-claudecode](entries/agent-framework/yeachan-heo-oh-my-claudecode.md) — unverified / 導入と実行は未検証。単一エージェントと比較した品質・所要時間・モデル利用料の実測は確認していない。最新リリースのタグは確認したが、公開日時のタイムゾーンは確認できなかった。30日・90日のコミット数はいずれも取得上限に達しており、100件以上を示す。

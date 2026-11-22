@@ -1,5 +1,5 @@
 {
-  "count": 1357,
+  "count": 1358,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -4294,6 +4294,37 @@
       "fetched_at": "2026-11-17T06:30:38.950239+00:00",
       "path": "entries/agent-framework/mem0ai-mem0.md",
       "summary": "AIアシスタントやエージェントに記憶レイヤーを追加し、ユーザー、セッション、エージェントの状態を保持する。READMEは、ユーザーの好みの記憶や、過去の会話・サポート履歴を用いた応答などを用途として挙げている。"
+    },
+    {
+      "name": "last30days-skill",
+      "genre": "agent-framework",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "repo": "mvanhorn/last30days-skill",
+      "language": "Python",
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEは現行のコマンドやセットアップ動作の正本を別ファイルのSKILL.mdとして案内していますが、その内容は今回の資料に含まれていません。READMEに記載された追加ソースや効果の範囲は独立確認していません。",
+      "stars": 69049,
+      "forks": 6145,
+      "open_issues": 21,
+      "size_kb": 58496,
+      "created": "2026-01-23",
+      "updated": "2026-11-17",
+      "license": "MIT",
+      "commits_30d": 100,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "type": "repo",
+      "added": "2026-11-22",
+      "first_seen": "2026-11-22",
+      "sources": [
+        "https://x.com/suraj_sharma14/status/2122585528906518837"
+      ],
+      "fetched_at": "2026-11-18T00:41:25.925263+00:00",
+      "path": "entries/agent-framework/mvanhorn-last30days-skill.md",
+      "summary": "READMEの説明では、Reddit、Hacker News、GitHubなど複数の情報源を検索し、エンゲージメント指標を使って結果を評価し、AIエージェントが要約します。利用できる情報源や認証条件はソースごとに異なります。"
     },
     {
       "name": "CrewAI",
