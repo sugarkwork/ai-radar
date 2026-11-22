@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1263 件 — リポジトリ 868, リンク集 120, 記事 208, モデル 53, プロンプト 14 / ⚑ 要確認 1015 件
+収録 1264 件 — リポジトリ 869, リンク集 120, 記事 208, モデル 53, プロンプト 14 / ⚑ 要確認 1015 件
 
-## リポジトリ（868）
+## リポジトリ（869）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（180）
+### その他（181）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -109,6 +109,7 @@
 | [FigCraft](entries/other/storytold-figcraft.md) ⚑ | 5,042 | 1,863 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-16 | Apache-2.0 |
 | [Y2A-Auto](entries/other/fqscfqj-y2a-auto.md) ⚑ | 5,018 | 850 | 週次 | 9 | 2026-11-16 | 2026-11-16 | 2026-11-22 | GPL-3.0 |
 | [Screenbox](entries/other/huynhsontung-screenbox.md) ⚑ | 4,704 | 222 | 毎日 | 20 | 2026-11-16 | 2026-11-16 | 2026-11-22 | GPL-3.0 |
+| [terminal-browser](entries/other/zenbu-labs-terminal-browser.md) | 4,690 | 243 | 毎日 | 96 | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
 | [Create](entries/other/creators-of-create-create.md) ⚑ | 4,621 | 1,449 | 週次 | 19 | 2026-11-15 | 2026-11-16 | 2026-11-22 | unknown |
 | [Storyboarder](entries/other/wonderunit-storyboarder.md) ⚑ | 3,946 | 404 | 停滞 | 0 | 2024-03-17 | 2026-11-11 | 2026-11-11 | unknown |
 | [Marp CLI](entries/other/marp-team-marp-cli.md) ⚑ | 3,922 | 207 | 月次 | 0 | 2026-09-08 | 2026-11-15 | 2026-11-15 | MIT |

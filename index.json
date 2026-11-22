@@ -1,5 +1,5 @@
 {
-  "count": 1263,
+  "count": 1264,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -26151,6 +26151,35 @@
       "last_release_at": "2026-10-26",
       "path": "entries/other/huynhsontung-screenbox.md",
       "summary": "READMEによると、動画の再生、シークや音量変更のジェスチャー操作、ピクチャーインピクチャー、動画フレームの画像保存、Chromecast対応、ネットワーク上のメディアの閲覧・再生ができる。"
+    },
+    {
+      "name": "terminal-browser",
+      "genre": "other",
+      "url": "https://github.com/zenbu-labs/terminal-browser",
+      "repo": "zenbu-labs/terminal-browser",
+      "stars": 4690,
+      "forks": 243,
+      "open_issues": 128,
+      "size_kb": 23683,
+      "language": "TypeScript",
+      "created": "2026-07-06",
+      "updated": "2026-11-16",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 96,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "flags": [],
+      "type": "repo",
+      "added": "2026-11-22",
+      "first_seen": "2026-11-22",
+      "risk_notes": "",
+      "sources": [
+        "https://x.com/awe0_io/status/2119114978372551110"
+      ],
+      "fetched_at": "2026-11-16T23:15:32.470248+00:00",
+      "path": "entries/other/zenbu-labs-terminal-browser.md",
+      "summary": "ターミナル内でブラウザーを起動し、URLを開く、分割ペインで表示する、SSH経由でリモート側のネットワークへ接続する、既存のTUIに埋め込むといった使い方ができます。CLIから開いているブラウザーを操作する機能もあります。出典: https://github.com/zenbu-labs/terminal-browse"
     },
     {
       "name": "Create",
