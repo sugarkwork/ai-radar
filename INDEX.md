@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1326 件 — リポジトリ 925, リンク集 120, 記事 214, モデル 53, プロンプト 14 / ⚑ 要確認 1068 件
+収録 1327 件 — リポジトリ 926, リンク集 120, 記事 214, モデル 53, プロンプト 14 / ⚑ 要確認 1069 件
 
-## リポジトリ（925）
+## リポジトリ（926）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -218,7 +218,7 @@
 | [Pay Small Check](entries/other/ahmardchain-pay-small-check.md) ⚑ | 1 | 0 | 毎日 | 32 | 2026-11-07 | 2026-11-16 | 2026-11-22 | MIT |
 | [LapDraw](entries/other/sachinyadavaug20-lapdraw.md) ⚑ | 0 | 0 | 毎日 | 22 | 2026-11-07 | 2026-11-13 | 2026-11-13 | MIT |
 
-### コーディングエージェント（139）
+### コーディングエージェント（140）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -354,6 +354,7 @@
 | [davekiss/mods（leaks）](entries/coding-agent/davekiss-mods.md) ⚑ | 12 | 1 | 月次 | 3 | 2026-10-29 | 2026-11-16 | 2026-11-22 | MIT |
 | [system-design-skill](entries/coding-agent/codejunkie99-system-design-skill.md) ⚑ | 10 | 1 | 月次 | 1 | 2026-11-01 | 2026-11-16 | 2026-11-22 | MIT |
 | [opencode-compaction-anchor](entries/coding-agent/kylebakerio-opencode-compaction-anchor.md) ⚑ | 3 | 1 | 月次 | 2 | 2026-11-01 | 2026-11-16 | 2026-11-22 | MIT |
+| [rpn-gpt](entries/coding-agent/markab21-rpn-gpt.md) ⚑ | 3 | 1 | 毎日 | 23 | 2026-11-07 | 2026-11-17 | 2026-11-22 | MIT |
 | [Cracked Engineer](entries/coding-agent/codejunkie99-cracked-engineer.md) ⚑ | 2 | 0 | 月次 | 1 | 2026-11-06 | 2026-11-16 | 2026-11-22 | unknown |
 | [GDG Agent Skillsの実演教材](entries/coding-agent/gdg-oau-agent-skills-gdg.md) ⚑ | 2 | 0 | 週次 | 13 | 2026-11-07 | 2026-11-16 | 2026-11-22 | unknown |
 | [JobFit](entries/coding-agent/du8866-nice-jobfit.md) ⚑ | 2 | 0 | 週次 | 7 | 2026-10-29 | 2026-11-16 | 2026-11-22 | MIT |
@@ -2189,6 +2190,7 @@
 - [davekiss/mods（leaks）](entries/coding-agent/davekiss-mods.md) — unverified / ['READMEを確認した。プラグインは実行しておらず、節約額の推計精度、週次利用枠への実際の影響、対応するClaude Codeのバージョン、ログの外部送信がないという作者の説明は未検証。', 'GitHubの公開Releases一覧にリリースの掲載はなかった。']
 - [system-design-skill](entries/coding-agent/codejunkie99-system-design-skill.md) — unverified / READMEによると、実利用はまだなく、テストはURL短縮サービスの模擬インタビュー1回のみ。応答時間、レート制限、tier境界の一部は提案値で、ピーク負荷の2倍設定に標準的根拠はない。README記載の範囲では依存関係の詳細は確認できない。
 - [opencode-compaction-anchor](entries/coding-agent/kylebakerio-opencode-compaction-anchor.md) — unverified / README記載の結果は限定された4タスクで各設定1回の作者報告であり、独立実測ではない。
+- [rpn-gpt](entries/coding-agent/markab21-rpn-gpt.md) — unverified / READMEの評価値や実行例は配布者の報告であり、独立に検証していない。
 - [Cracked Engineer](entries/coding-agent/codejunkie99-cracked-engineer.md) — unverified / GitHub APIでライセンスを確認できていません。
 - [GDG Agent Skillsの実演教材](entries/coding-agent/gdg-oau-agent-skills-gdg.md) — unverified / 実行未検証。READMEが案内するafterブランチとライセンスを確認できない。
 - [JobFit](entries/coding-agent/du8866-nice-jobfit.md) — unverified / 実モデル利用時は履歴書が選択したAIプロバイダーに送信される。READMEにはプロバイダーへの送信をページ上で案内するとあるが、実際の公開デモでの設定やデータ処理は確認していない。

@@ -1,5 +1,5 @@
 {
-  "count": 1326,
+  "count": 1327,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -15378,6 +15378,37 @@
       "last_release_at": "",
       "path": "entries/coding-agent/kylebakerio-opencode-compaction-anchor.md",
       "summary": "OpenCodeの要約後、元の依頼を原文どおり次のメッセージに再挿入するreinsert、要約に元の依頼項目ごとのチェックリストを含めるよう促すchecklistを提供する。任意で会話履歴を書き出して要約に保存先を示すpointer、自動の確認・停止案内を「タスクを続けて」と置き換えるno-stop-and-askもあ"
+    },
+    {
+      "name": "rpn-gpt",
+      "genre": "coding-agent",
+      "url": "https://github.com/markab21/rpn-gpt",
+      "repo": "markab21/rpn-gpt",
+      "license": "MIT",
+      "stars": 3,
+      "language": "Python",
+      "created": "2026-11-06",
+      "updated": "2026-11-07",
+      "forks": 1,
+      "open_issues": 0,
+      "commits_30d": 23,
+      "commit_cadence": "daily",
+      "commits_90d": 23,
+      "size_kb": 1117,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEの評価値や実行例は配布者の報告であり、独立に検証していない。",
+      "type": "repo",
+      "added": "2026-11-22",
+      "first_seen": "2026-11-22",
+      "sources": [
+        "https://x.com/ai_hakase_/status/2119236467239100520"
+      ],
+      "fetched_at": "2026-11-17T20:13:45.338326+00:00",
+      "path": "entries/coding-agent/markab21-rpn-gpt.md",
+      "summary": "READMEによると、言語モデルがForth形式のプログラムを生成し、モデル内のカーネルがトークン単位で実行・出力する構成。カーネルは標準的な層で構成され、重みはPythonプログラムで計算したと説明されている。モデル・LoRA・GGUF/Ollama・MLX形式・データセットへの配布リンクも掲載されている。"
     },
     {
       "name": "Cracked Engineer",
