@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1332 件 — リポジトリ 931, リンク集 120, 記事 214, モデル 53, プロンプト 14 / ⚑ 要確認 1073 件
+収録 1333 件 — リポジトリ 932, リンク集 120, 記事 214, モデル 53, プロンプト 14 / ⚑ 要確認 1074 件
 
-## リポジトリ（931）
+## リポジトリ（932）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -939,7 +939,7 @@
 | [P-H3-Image ComfyUI sample workflows](entries/image-gen/tori29umai0123-p-h3-image_workflows.md) ⚑ | 2 | 1 | 週次 | 4 | 2026-11-06 | 2026-11-16 | 2026-11-22 | unknown |
 | [GrabTag](entries/image-gen/blackll7-moss-image-edit-grabtag.md) | 0 | 0 | 毎日 | 43 | 2026-11-09 | 2026-11-17 | 2026-11-22 | MIT |
 
-### RAG・検索（27）
+### RAG・検索（28）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -955,6 +955,7 @@
 | [obsidianmd/obsidian-releases](entries/rag/obsidianmd-obsidian-releases.md) ⚑ | 23,200 | 7,954 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | unknown |
 | [pdf-inspector](entries/rag/firecrawl-pdf-inspector.md) | 19,971 | 1,359 | 月次 | 0 | 2026-10-22 | 2026-11-09 | 2026-11-10 | MIT |
 | [unstructured](entries/rag/unstructured-io-unstructured.md) ⚑ | 15,750 | 1,402 | 毎日 | 83 | 2026-11-17 | 2026-11-17 | 2026-11-22 | Apache-2.0 |
+| [FlagEmbedding (BGE)](entries/rag/flagopen-flagembedding.md) ⚑ | 12,337 | 950 | 月次 | 2 | 2026-10-27 | 2026-11-17 | 2026-11-22 | MIT |
 | [NVIDIA/auto-ontology](entries/rag/nvidia-auto-ontology.md) ⚑ | 10,982 | 897 | 毎日 | 95 | 2026-11-09 | 2026-11-09 | 2026-11-10 | Apache-2.0 |
 | [PixelRAG](entries/rag/startrail-org-pixelrag.md) ⚑ | 10,889 | 980 | 毎日 | 25 | 2026-11-05 | 2026-11-10 | 2026-11-11 | Apache-2.0 |
 | [Local Deep Research](entries/rag/learningcircuit-local-deep-research.md) | 9,556 | 910 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-13 | MIT |
@@ -2675,6 +2676,7 @@
 - [Graphiti](entries/rag/getzep-graphiti.md) — unverified / README says users supply the graph database, LLM, and embedder and build the surrounding service. It identifies Neo4j, FalkorDB, and Amazon Neptune as graph backend options. Specific setup requirements, effects, and costs are not verified here.
 - [obsidianmd/obsidian-releases](entries/rag/obsidianmd-obsidian-releases.md) — unverified / 原チェックはLICENSEなし。リポジトリ公開をObsidian本体または全プラグインのOSS化・自由再配布の許諾と扱わない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [unstructured](entries/rag/unstructured-io-unstructured.md) — unverified / 一次資料で未確認: 有効性。
+- [FlagEmbedding (BGE)](entries/rag/flagopen-flagembedding.md) — unverified / 提供されたREADME抜粋では依存関係と実行条件を確認できず、最短手順の具体的なコマンドも確認できない。
 - [NVIDIA/auto-ontology](entries/rag/nvidia-auto-ontology.md) — unverified / 原チェック時READMEは外部コントリビューションを受け付けないと明記。API・ホスト費用とデータ送信条件は実行前に確認する。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [PixelRAG](entries/rag/startrail-org-pixelrag.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [kepano/kepano-obsidian](entries/rag/kepano-kepano-obsidian.md) — unverified / 2026-01-09以来の更新停止という原チェック記録。個人の運用テンプレートで、万人に合う知識管理法の実証ではない。 当方でインストール・推論・生成・ベンチ再現はしていない。
