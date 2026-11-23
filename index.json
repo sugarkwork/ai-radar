@@ -1,5 +1,5 @@
 {
-  "count": 1469,
+  "count": 1470,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -29860,6 +29860,37 @@
       "fetched_at": "2026-11-13T06:24:14.610811+00:00",
       "path": "entries/other/qiye45-wechatvideodownload.md",
       "summary": "READMEは、微信视频号の動画、ライブ配信、ライブ回放のダウンロード、動画のダウンロードリンク取得、自動監視に対応すると説明している。更新履歴には、ライブ配信のMP4形式での保存、分割録画、区間選択と一括ダウンロードなども記載されている。"
+    },
+    {
+      "name": "Sodium",
+      "genre": "other",
+      "url": "https://github.com/CaffeineMC/sodium",
+      "repo": "CaffeineMC/sodium",
+      "license": "unknown",
+      "stars": 5850,
+      "forks": 991,
+      "open_issues": 177,
+      "size_kb": 10787,
+      "language": "Java",
+      "created": "2020-02-01",
+      "updated": "2026-11-14",
+      "archived": false,
+      "commits_30d": 16,
+      "commits_90d": 47,
+      "commit_cadence": "weekly",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/dextune/status/2119331588920201422"
+      ],
+      "fetched_at": "2026-11-19T08:16:07.145366+00:00",
+      "path": "entries/other/caffeinemc-sodium.md",
+      "summary": "Minecraftクライアント向けの描画エンジン兼最適化mod。READMEでは、フレームレートの改善、マイクロスタッターの低減、複数のグラフィック上の問題の修正を目的としていると説明されています。効果の程度はREADMEでは定量化されていません。"
     },
     {
       "repo": "WyattBlue/auto-editor",
