@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1486 件 — リポジトリ 1052, リンク集 122, 記事 243, モデル 55, プロンプト 14 / ⚑ 要確認 1213 件
+収録 1487 件 — リポジトリ 1052, リンク集 123, 記事 243, モデル 55, プロンプト 14 / ⚑ 要確認 1214 件
 
 ## リポジトリ（1052）
 
@@ -77,7 +77,7 @@
 | [MicroPython](entries/other/micropython-micropython.md) ⚑ | 22,205 | 9,062 | 毎日 | 100+ | 2026-11-17 | 2026-11-17 |  | unknown |
 | [Rough.js](entries/other/rough-stuff-rough.md) ⚑ | 21,384 | 671 | 停滞 | 0 | 2024-07-28 | 2026-11-16 |  | MIT |
 | [res-downloader](entries/other/putyy-res-downloader.md) ⚑ | 21,255 | 2,609 | 停滞 | 0 | 2026-11-11 | 2026-11-13 |  | Apache-2.0 |
-| [V2rayU](entries/other/yanue-v2rayu.md) ⚑ | 20,196 | 2,961 | 停滞 | 0 | 2026-11-08 | 2026-11-19 | 2026-11-23 | unknown |
+| [V2rayU](entries/other/yanue-v2rayu.md) ⚑ | 20,196 | 2,961 | 停滞 | 0 | 2026-11-08 | 2026-11-19 |  | unknown |
 | [SAM 2](entries/other/facebookresearch-sam2.md) | 20,166 | 2,596 | 停滞 | 0 | 2026-05-30 | 2026-11-16 |  | Apache-2.0 |
 | [olmOCR](entries/other/allenai-olmocr.md) ⚑ | 19,829 | 1,657 | 停滞 | 0 | 2026-03-25 | 2026-11-17 |  | Apache-2.0 |
 | [ActivityWatch](entries/other/activitywatch-activitywatch.md) ⚑ | 19,655 | 1,079 | 週次 | 18 | 2026-11-15 | 2026-11-16 |  | MPL-2.0 |
@@ -1197,9 +1197,9 @@
 - **[MiniMax H3：20種のダンスと音楽指定](prompts/video-gen/minimax-h3-20-dance-music.md)** ⚑  MiniMax H3 / EndFolding79421
   - キャラクターシートを参照し、6秒間の全身ダンスと音楽・環境音を指示するための投稿者のテンプレート。ダンス20種類の音楽指定例を含む。
 
-## リンク集（122）
+## リンク集（123）
 
-### リンク（サービス・ツール）（23）
+### リンク（サービス・ツール）（24）
 
 - **[Aura](links/link-service/aura.build-aura.md)** ⚑  freemium / DESIGNCODE IO PTE. LTD.（Meng To / DesignCode）
   - テキストプロンプトからランディングページやマルチページのウェブサイトを生成し、ブラウザ上で視覚編集して公開・書き出しまで完結させるサービス。公式は「AI landing page builder that creates stunning designs in seconds」と説明している。
@@ -1213,6 +1213,8 @@
   - 業務上対応が必要な項目の通知と、依頼作業のバックグラウンド処理。
 - **[CompShare（優云智算）](links/link-service/compshare.cn-compshare.md)** ⚑  paid / UCloud（优刻得科技）
   - UCloud（优刻得）系の GPU クラウド。AI の学習・推論・画像生成用に GPU インスタンスを時間・日・月単位で借りる。
+- **[FreebieBot](links/link-service/x.ai-freebiebot.md)** ⚑
+  - 購入不要の懸賞・プレゼント企画を見つけ、応募先へのリンクを提示するGrok Botテンプレート。
 - **[Google Antigravity — Get started](links/link-service/antigravity.google-google-antigravity-get-started.md)**
   - Google AntigravityをApp、CLI、IDE拡張、SDKのいずれかで使い始めるための公式ガイド。
 - **[Grok Bot](links/link-service/docs.x.ai-grok-bot.md)** ⚑  paid / xAI
@@ -2553,6 +2555,7 @@
 - [Aura](links/link-service/aura.build-aura.md) — unverified / 未確認: (1) MCPのツール一覧・レート制限・1操作あたりのプロンプト消費量は、Auraアカウントなしではtools/listを取得できず未確認（未認証は401のみ確認）。(2) 公開REST API/CLIの有無は公式文書で確認できず、api.aura.build はサイトと同じHTMLを返すだけ。(3) テンプレート/コンポーネント/アセット数はページ間で記述が食い違う（料金ページFAQ: 5,000+テンプレート・2,800+コンポーネント・30,000+アセット、learn/introduction: 1000+テンプレート・1400+コンポーネント・20,000+アセット）ため数値は採用しない。(4) 月払い価格は料金ページのプラン設定（配信JSバンドル）から取得し、年払い額はページ表示のプロモ価格。年払い50%オフは期間限定表示で終了時期は不明。(5) MCPエンドポイントは初回probeで401を確認したが、再試行時に25秒タイムアウトした（一時的な可能性）。生成品質・出力の再現性は実生成していないため未評価。
 - [BT4G](links/link-service/bt4gprx.com-bt4g.md) — low-quality, unverified / 公式DMCA案内のTakedownページは、BT4GがDHT上のトレントを自動で索引し、索引対象を確認しないと説明している。検索結果に不適切または悪意ある内容が含まれる可能性がある。 公式ページによれば索引作成は自動で、掲載内容を事前確認しない。検索結果やリンク先の安全性・権利状態は保証されない。
 - [CompShare（優云智算）](links/link-service/compshare.cn-compshare.md) — unverified / GPU の無料枠・トライアルの有無、本人確認（実名認証）の要否、表示価格の税込/税抜は未確認。対象URLには referral_code と ytag のアフィリエイト用パラメータが付いており、エントリでは正規URL（https://www.compshare.cn/）を使う。コミュニティイメージは作成者が乌兰察布(cn-wlcb-01)の RTX4090 のみで検証済みと明記。210GB のイメージ取得とストレージ課金が別途発生する。
+- [FreebieBot](links/link-service/x.ai-freebiebot.md) — unverified / 懸賞の真正性確認の方法・網羅性、および任意のcrypto trackの内容は、確認できた一次資料だけでは不明。
 - [Grok Bot](links/link-service/docs.x.ai-grok-bot.md) — unverified / 投稿の収益主張（3か月で$315回収、Elon Musk の27Mビュー投稿の実践など）は一次情報で確認できない。同じ文面を複数アカウントが微妙に数値を変えて使い回しており（$315/$217 等）、収益誘導のテンプレートとみられる。投稿の『step-by-step breakdown』リンクはログイン必須の X 記事で本文未確認。grokbot.sh は同名の別ブログで、現在はドメイン売却ページになっており本製品とは無関係。製品仕様・料金は公式ドキュメントと料金ページで確認済み。
 - [Grok Bot Marketplace](links/link-service/x.ai-grok-bot-marketplace.md) — unverified / 「146」という総数は公式未確認（マーケットプレイスに総数の表示はなく、複数の第三者投稿がマーケット90＋ユースケース56と主張）。ボットの追加は無料だが、Grok Botの利用自体はPremium $30/月以上が必要で「完全無料」ではない。8体は第三者の出品で、品質・サポート・更新は作者依存（公式製ではない）。全ボットが1つのクラウドPCとファイル・ブラウザ・ログインを共有し、分離はユーザー単位のため、権限の広いアカウント連携は注意。投稿が引用する記事はログイン壁で本文未確認。
 - [Intel GPU D270](links/link-service/intel.com-intel-gpu-d270.md) — unverified / 仕様はIntel公表値。実機性能と消費電力は未計測。

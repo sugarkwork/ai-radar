@@ -1,5 +1,5 @@
 {
-  "count": 1486,
+  "count": 1487,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -22433,6 +22433,27 @@
       "fetched_at": "2026-11-06T21:06:07Z",
       "path": "links/link-service/compshare.cn-compshare.md",
       "summary": "UCloud（优刻得）系の GPU クラウド。AI の学習・推論・画像生成用に GPU インスタンスを時間・日・月単位で借りる。"
+    },
+    {
+      "name": "FreebieBot",
+      "genre": "link-service",
+      "url": "https://x.ai/bot/HOFnwCWZU-u-09WL5pjtl",
+      "pricing": "unknown",
+      "pricing_detail": "不明。追加時は無料だが、利用にはGrok Botの利用枠が必要となる可能性がある。",
+      "signup_required": true,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "懸賞の真正性確認の方法・網羅性、および任意のcrypto trackの内容は、確認できた一次資料だけでは不明。",
+      "type": "link",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/naka_1717/status/2119356934683856941"
+      ],
+      "fetched_at": "2026-11-19T17:14:00Z",
+      "path": "links/link-service/x.ai-freebiebot.md",
+      "summary": "購入不要の懸賞・プレゼント企画を見つけ、応募先へのリンクを提示するGrok Botテンプレート。"
     },
     {
       "name": "Google Antigravity — Get started",
