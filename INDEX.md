@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1397 件 — リポジトリ 989, リンク集 120, 記事 219, モデル 55, プロンプト 14 / ⚑ 要確認 1134 件
+収録 1398 件 — リポジトリ 990, リンク集 120, 記事 219, モデル 55, プロンプト 14 / ⚑ 要確認 1134 件
 
-## リポジトリ（989）
+## リポジトリ（990）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（224）
+### その他（225）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -212,6 +212,7 @@
 | [Awesome Social Media Skills](entries/other/underleveledbuilder-awesome-social-media-skills.md) ⚑ | 252 | 40 | 毎日 | 33 | 2026-11-08 | 2026-11-10 | 2026-11-10 | CC0-1.0 |
 | [Download Anything (DA)](entries/other/nengong-download-anything.md) ⚑ | 251 | 6 | 毎日 | 32 | 2026-11-08 | 2026-11-17 | 2026-11-22 | unknown |
 | [小浣熊阅读](entries/other/aminark-legado-ios.md) ⚑ | 232 | 66 | 毎日 | 22 | 2026-11-13 | 2026-11-16 | 2026-11-22 | GPL-3.0 |
+| [svg.filter.js](entries/other/svgdotjs-svg.filter.js.md) | 224 | 52 | 月次 | 0 | 2026-09-15 | 2026-11-18 | 2026-11-23 | MIT |
 | [fuxi-pdf · 复习pdf](entries/other/stevensun1005-fuxi-pdf.md) ⚑ | 201 | 3 | 週次 | 12 | 2026-10-22 | 2026-11-11 | 2026-11-11 | unknown |
 | [大模型推理案头手册（开源版）](entries/other/shtjww-llm-inference-capacity-handbook.md) ⚑ | 186 | 0 | 月次 | 0 | 2026-09-20 | 2026-11-16 | 2026-11-16 | unknown |
 | [grok-bot-cli](entries/other/scriptedalchemy-grok-bot-cli.md) ⚑ | 181 | 37 | 毎日 | 31 | 2026-11-04 | 2026-11-10 | 2026-11-10 | MIT |

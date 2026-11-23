@@ -1,5 +1,5 @@
 {
-  "count": 1397,
+  "count": 1398,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -31465,6 +31465,35 @@
       "last_release_at": "2026-11-13",
       "path": "entries/other/aminark-legado-ios.md",
       "summary": "阅读器支持阅读书源的 JSON、文件、URL、二维码导入，以及书源分组、编辑和调试；支持多书源并发搜索、缓存结果、书架管理、阅读排版、TXT/EPUB 本地阅读、系统朗读与 HTTP TTS 配置、RSS 订阅。README 提到搜索体验会受到网络和书源网站响应影响，复杂 JavaScript、登录、验证码和 WebV"
+    },
+    {
+      "name": "svg.filter.js",
+      "genre": "other",
+      "url": "https://github.com/svgdotjs/svg.filter.js",
+      "repo": "svgdotjs/svg.filter.js",
+      "license": "MIT",
+      "stars": 224,
+      "language": "JavaScript",
+      "created": "2013-07-11",
+      "updated": "2026-09-15",
+      "forks": 52,
+      "open_issues": 5,
+      "commits_30d": 0,
+      "commit_cadence": "monthly",
+      "commits_90d": 12,
+      "size_kb": 385,
+      "archived": false,
+      "flags": [],
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "risk_notes": "",
+      "sources": [
+        "https://x.com/0xclayo/status/2123016316353155192"
+      ],
+      "fetched_at": "2026-11-18T14:14:58.449847+00:00",
+      "path": "entries/other/svgdotjs-svg.filter.js.md",
+      "summary": "svg.jsで作成した要素にSVGフィルターを適用できます。READMEにはガウスぼかし、彩度・色調の変更、ドロップシャドウ、ライティングなどの例があり、フィルターの解除、再利用、値のアニメーションにも対応する方法が記載されています。これらはREADMEに記載された機能・例であり、個別環境での動作は確認していません。"
     },
     {
       "name": "fuxi-pdf · 复习pdf",
