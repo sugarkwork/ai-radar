@@ -1,5 +1,5 @@
 {
-  "count": 1369,
+  "count": 1370,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -30142,6 +30142,37 @@
       "last_release_at": "",
       "path": "entries/other/awesome-ai-pedia-awesome-ai-pedia.md",
       "summary": "AI ツールの使用ガイド、ベストプラクティス、実践例をまとめる。README では Claude Code、Cursor、MCP、Agent、Skills、Prompt 工程などを扱い、全文検索と暗色テーマを備えると説明されている。"
+    },
+    {
+      "name": "MOSS-Audio",
+      "genre": "other",
+      "url": "https://github.com/OpenMOSS/MOSS-Audio",
+      "repo": "OpenMOSS/MOSS-Audio",
+      "license": "unknown",
+      "stars": 711,
+      "language": "Python",
+      "created": "2026-04-11",
+      "updated": "2026-09-06",
+      "forks": 47,
+      "open_issues": 21,
+      "commits_30d": 0,
+      "commit_cadence": "stale",
+      "commits_90d": 2,
+      "size_kb": 32219,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEにライセンスの明記がなく、API計測でもlicenseはunknownです。利用条件を確認できていません。提示されたREADMEの範囲では依存関係と実行条件の詳細も確認できません。 GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://github.com/OpenMOSS/MOSS-Audio"
+      ],
+      "fetched_at": "2026-11-18T04:25:12.791973+00:00",
+      "path": "entries/other/openmoss-moss-audio.md",
+      "summary": "READMEによると、音声認識と文字起こし、話者・感情・音響イベントの分析、環境音や音楽の理解、音声への質問応答と要約、時間情報を扱う質問応答に対応するモデルです。4Bと8BのInstructおよびThinking版が案内されています。これらはREADME上の説明であり、独立した動作確認ではありません。"
     },
     {
       "repo": "hahnec/color-matcher",

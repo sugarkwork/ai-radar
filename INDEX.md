@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1369 件 — リポジトリ 965, リンク集 120, 記事 217, モデル 53, プロンプト 14 / ⚑ 要確認 1109 件
+収録 1370 件 — リポジトリ 966, リンク集 120, 記事 217, モデル 53, プロンプト 14 / ⚑ 要確認 1110 件
 
-## リポジトリ（965）
+## リポジトリ（966）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（214）
+### その他（215）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -185,6 +185,7 @@
 | [Moect](entries/other/mofan6-moect.md) ⚑ | 770 | 177 | 毎日 | 33 | 2026-11-14 | 2026-11-17 | 2026-11-22 | GPL-3.0 |
 | [Orfeo](entries/other/squarebow-orfeo.md) ⚑ | 723 | 58 | 毎日 | 100+ | 2026-11-13 | 2026-11-13 | 2026-11-13 | GPL-3.0 |
 | [Awesome AI Pedia](entries/other/awesome-ai-pedia-awesome-ai-pedia.md) ⚑ | 721 | 70 | 週次 | 14 | 2026-11-12 | 2026-11-16 | 2026-11-22 | MIT |
+| [MOSS-Audio](entries/other/openmoss-moss-audio.md) ⚑ | 711 | 47 | 停滞 | 0 | 2026-09-06 | 2026-11-18 | 2026-11-23 | unknown |
 | [color-matcher](entries/other/hahnec-color-matcher.md) ⚑ | 710 | 50 | 停滞 | 0 | 2026-02-24 | 2026-11-16 | 2026-11-22 | GPL-3.0 |
 | [PyBreaker](entries/other/danielfm-pybreaker.md) ⚑ | 702 | 97 | 停滞 | 0 | 2026-09-25 | 2026-11-17 | 2026-11-22 | BSD-3-Clause |
 | [Enterprise System Design](entries/other/drhazemali-enterprise-system-design.md) ⚑ | 660 | 135 | 月次 | 0 | 2026-11-12 | 2026-11-16 | 2026-11-22 | unknown |
@@ -2632,6 +2633,7 @@
 - [Moect](entries/other/mofan6-moect.md) — unverified / 対応対象は Windows 微信 4.x だが、READMEではすべての4.xバージョンへの対応を保証していない。メディア保存はローカルキャッシュ、利用可能な認証情報、元ファイルに依存する。
 - [Orfeo](entries/other/squarebow-orfeo.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Awesome AI Pedia](entries/other/awesome-ai-pedia-awesome-ai-pedia.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
+- [MOSS-Audio](entries/other/openmoss-moss-audio.md) — unverified / READMEにライセンスの明記がなく、API計測でもlicenseはunknownです。利用条件を確認できていません。提示されたREADMEの範囲では依存関係と実行条件の詳細も確認できません。 GitHub APIでライセンスを確認できていません。
 - [color-matcher](entries/other/hahnec-color-matcher.md) — unverified / 著者による手法比較の独立再現、映像の時間方向の一貫性、現行環境での動作は未検証。GitHub は v0.5.0 を Latest と表示し、PyPI は 0.6.0 を掲載している。GitHub リリースの年を含む公開日は未確認。
 - [PyBreaker](entries/other/danielfm-pybreaker.md) — unverified / 一次資料で未確認: 有効性・依存関係。
 - [Enterprise System Design](entries/other/drhazemali-enterprise-system-design.md) — unverified / READMEにライセンス条件の記載がなく、ライセンスは確認できていません。 GitHub APIでライセンスを確認できていません。
