@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1499 件 — リポジトリ 1063, リンク集 123, 記事 244, モデル 55, プロンプト 14 / ⚑ 要確認 1224 件
+収録 1500 件 — リポジトリ 1064, リンク集 123, 記事 244, モデル 55, プロンプト 14 / ⚑ 要確認 1225 件
 
-## リポジトリ（1063）
+## リポジトリ（1064）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -110,7 +110,7 @@
 | [微信视频号下载器](entries/other/ltaoo-wx_channels_download.md) ⚑ | 10,534 | 1,748 | 週次 | 5 | 2026-11-12 | 2026-11-13 |  | unknown |
 | [Blackbird](entries/other/antoniaci-blackbird.md) ⚑ | 10,187 | 1,486 | 月次 | 3 | 2026-11-03 | 2026-11-16 |  | unknown |
 | [YARA](entries/other/virustotal-yara.md) ⚑ | 10,043 | 1,605 | 週次 | 16 | 2026-10-27 | 2026-11-16 |  | BSD-3-Clause |
-| [DevilutionX](entries/other/diasurgical-devilutionx.md) ⚑ | 10,027 | 1,104 | 毎日 | 41 | 2026-11-17 | 2026-11-19 | 2026-11-23 | unknown |
+| [DevilutionX](entries/other/diasurgical-devilutionx.md) ⚑ | 10,027 | 1,104 | 毎日 | 41 | 2026-11-17 | 2026-11-19 |  | unknown |
 | [mitmproxy2swagger](entries/other/alufers-mitmproxy2swagger.md) ⚑ | 9,730 | 386 | 停滞 | 0 | 2026-11-16 | 2026-11-19 |  | unknown |
 | [open-slide](entries/other/open-slide-open-slide.md) ⚑ | 9,729 | 716 | 毎日 | 33 | 2026-11-09 | 2026-11-10 |  | MIT |
 | [OBLITERATUS](entries/other/elder-plinius-obliteratus.md) | 9,541 | 1,736 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 |  | AGPL-3.0 |
@@ -905,7 +905,7 @@
 | [lab-tts](entries/tts-audio/lakimi-ai-systems-lab-tts.md) ⚑ | 8 | 0 | 月次 | 3 | 2026-11-03 | 2026-11-10 |  | Apache-2.0 |
 | [Voxarium](entries/tts-audio/ahmadmansy-voxarium.md) ⚑ | 7 | 0 | 毎日 | 40 | 2026-11-08 | 2026-11-13 |  | AGPL-3.0 |
 
-### MCPサーバー（41）
+### MCPサーバー（42）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -948,6 +948,7 @@
 | [Oxylabs Web API — MCP Server](entries/mcp-server/oxylabs-web-api-mcp.md) ⚑ | 58 | 9 | 毎日 | 28 | 2026-11-09 | 2026-11-17 |  | MIT |
 | [BlendRelay MCP](entries/mcp-server/shefq-blendrelay-mcp.md) | 34 | 3 | 週次 | 10 | 2026-11-09 | 2026-11-17 |  | MIT |
 | [losslesscut-mcp](entries/mcp-server/bariswha-losslesscut-mcp.md) ⚑ | 12 | 0 | 月次 | 3 | 2026-11-12 | 2026-11-16 |  | MIT |
+| [iPhone Control](entries/mcp-server/codejunkie99-iphone-control.md) ⚑ | 10 | 2 | 月次 | 1 | 2026-11-08 | 2026-11-19 | 2026-11-23 | Apache-2.0 |
 | [Kosh](entries/mcp-server/sachinyadavaug20-kosh.md) ⚑ | 5 | 0 | 毎日 | 76 | 2026-11-15 | 2026-11-16 |  | Apache-2.0 |
 | [gmail-browser-mcp](entries/mcp-server/sparsh101sparsh-gmail-browser-mcp.md) ⚑ | 0 | 0 | 毎日 | 88 | 2026-11-13 | 2026-11-16 |  | unknown |
 
@@ -2612,6 +2613,7 @@
 - [Moodle-MCP](entries/mcp-server/faixiang-moodle-mcp.md) — unverified / 利用にはWeb ServicesとREST protocolが有効なMoodle 3.x/4.xサイト、およびwebservice/rest:use capabilityを持つアカウントが必要。ファイルのローカル保存機能を使う場合は保存先を指定する。
 - [Oxylabs Web API — MCP Server](entries/mcp-server/oxylabs-web-api-mcp.md) — unverified / 利用にはOxylabs Web APIキーが必要です。APIの料金・利用枠はREADMEに記載がなく、費用は確認できません。
 - [losslesscut-mcp](entries/mcp-server/bariswha-losslesscut-mcp.md) — unverified / 一次資料で未確認: 有効性・実行条件。
+- [iPhone Control](entries/mcp-server/codejunkie99-iphone-control.md) — unverified / READMEはmacOS 27上の実機での操作例とSIMULATEDバックエンドによる49テストを報告している。通常の承認付きモードでは、ミラーリング画面がどのiPhoneを表示しているか特定する文書化済みインターフェースがないため操作がブロックされる。--unattendedではデバイス識別を所有者の申告に委ねる。実機での独立検証は未実施。
 - [Kosh](entries/mcp-server/sachinyadavaug20-kosh.md) — unverified / ['実機での起動、クライアントとの接続、GLBの生成品質や処理時間、最新リリース、M8ven評価は未確認。README内でBlenderの対応版とツール数の記述に幅があり、実際の対応範囲は未確認。Gemini APIの利用料金は未確認。']
 - [60fps.design MCP](links/mcp-server/https-60fps.design-mcp.md) — unverified / 月29ドル/四半期69ドル・1席は原チェック時。PROプランにMCPは含まれない。SwiftUIのコンパイル確認は提供側の説明で本調査では未実行。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Date Math](links/mcp-server/date-math.datemath.workers.dev-date-math.md) — unverified / 計算精度と決済は未検証。
