@@ -1,5 +1,5 @@
 {
-  "count": 1456,
+  "count": 1457,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -27542,6 +27542,37 @@
       "fetched_at": "2026-11-17T06:26:55.963640+00:00",
       "path": "entries/other/lucide-icons-lucide.md",
       "summary": "1600以上のSVG形式のアイコンを提供する。READMEには、JavaScript、React、Vue、Svelte、Solid、Preact、React Native、Angular、Astro向けのパッケージと、静的SVG向けのパッケージが掲載されている。"
+    },
+    {
+      "name": "radare2",
+      "genre": "other",
+      "url": "https://github.com/radareorg/radare2",
+      "repo": "radareorg/radare2",
+      "license": "unknown",
+      "stars": 25456,
+      "language": "C",
+      "created": "2012-07-03",
+      "updated": "2026-11-18",
+      "forks": 3454,
+      "open_issues": 788,
+      "commits_30d": 100,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 217267,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "GitHub APIでlicenseがunknown。READMEは本体をLGPLv3と説明している一方、プラグインごとにライセンスが異なるとしている。 GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/RealMarvelX/status/2119329098929426902"
+      ],
+      "fetched_at": "2026-11-19T07:20:03.437614+00:00",
+      "path": "entries/other/radareorg-radare2.md",
+      "summary": "READMEによると、radare2はバイナリの解析、エミュレーション、デバッグ、変更、逆アセンブルに対応する低レベルのコマンドラインツールとライブラリ・プラグイン群。ローカルファイルやカーネルメモリを扱い、ローカルまたはリモートのgdb/windbgサーバー経由でプログラムをデバッグできる。組み込みJavaScrip"
     },
     {
       "repo": "karpathy/nn-zero-to-hero",
