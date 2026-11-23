@@ -1,5 +1,5 @@
 {
-  "count": 1444,
+  "count": 1445,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -31335,6 +31335,37 @@
       "type": "repo",
       "path": "entries/other/tencent-wevisone-vl.md",
       "summary": "物体レベルの知覚（物体検出、指示対象の位置特定、カウント、ポイント指示、OCR）と、画素レベルの知覚（指示セグメンテーション、プロンプタブルなアルファマット）を1つの視覚言語モデルで扱う。"
+    },
+    {
+      "name": "Visual Pinball",
+      "genre": "other",
+      "url": "https://github.com/vpinball/vpinball",
+      "repo": "vpinball/vpinball",
+      "license": "unknown",
+      "stars": 1077,
+      "language": "C++",
+      "created": "2016-08-12",
+      "updated": "2026-11-18",
+      "forks": 189,
+      "open_issues": 409,
+      "commits_30d": 100,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 776538,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEによるとドキュメントはまだ少なく、ビルド手順はmakeディレクトリのREADMEを参照する必要があります。 GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/dextune/status/2119316488305930527"
+      ],
+      "fetched_at": "2026-11-19T02:10:58.270983+00:00",
+      "path": "entries/other/vpinball-vpinball.md",
+      "summary": "ピンボール台の作成・編集と、台の物理シミュレーションおよび描画ができます。READMEには、ライブ編集、Visual Basic Scriptによる台のロジック制御、実機ピンボールのエミュレーション連携、VR/XR表示、各種入力機器やプラグインのサポートも記載されています。"
     },
     {
       "repo": "anishfn/shapeshift",
