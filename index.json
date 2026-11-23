@@ -1,5 +1,5 @@
 {
-  "count": 1430,
+  "count": 1431,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -10257,6 +10257,25 @@
       ],
       "fetched_at": "2026-11-09T10:22:00+00:00",
       "path": "articles/2026-07-14-graham-weaver-stanford-graduate-school-of-business-last-lecture-series-how-to-win-without-f6d1f4ee42.md"
+    },
+    {
+      "name": "Limits.",
+      "genre": "article",
+      "url": "https://ruben.substack.com/p/limitless",
+      "published": "2026-10-07",
+      "flags": [
+        "low-quality",
+        "unverified"
+      ],
+      "risk_notes": "記事は「limitless」とうたう一方、本文でも利用上限があると説明している。また、プランの価値比較など重要な数値は記事内で独立検証できず、有料ニュースレターや講座の宣伝も含む。 プラン間の作業量比較、推奨設定による利用量の節約効果、画面や機能の利用条件は記事の主張であり、独立した裏取りはしていない。Claudeのプランや機能は変更される可能性がある。",
+      "type": "article",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/okapi_fukugyo/status/2119299912882123032"
+      ],
+      "fetched_at": "2026-11-18T21:13:33.185638+00:00",
+      "path": "articles/2026-10-07-author-limits.md"
     },
     {
       "name": "Loop Engineering: Building Blocks, Adoption, and Impact",
