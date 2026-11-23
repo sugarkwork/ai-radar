@@ -1,5 +1,5 @@
 {
-  "count": 1371,
+  "count": 1372,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -12362,6 +12362,37 @@
       "last_release_at": "2026-11-14",
       "path": "entries/coding-agent/meta-astryx.md",
       "summary": "React19とStyleXを基盤とするデザインシステムastryx。CLIと150以上のアクセシブル部品を案内。"
+    },
+    {
+      "name": "SkillSpector",
+      "genre": "coding-agent",
+      "url": "https://github.com/NVIDIA/SkillSpector",
+      "repo": "NVIDIA/SkillSpector",
+      "license": "Apache-2.0",
+      "stars": 26672,
+      "language": "Python",
+      "created": "2026-03-21",
+      "updated": "2026-11-16",
+      "forks": 2376,
+      "open_issues": 163,
+      "commits_30d": 100,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 15426,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEの脆弱性割合（分析対象31,132件中26.1%に脆弱性、5.2%に悪意の可能性）はプロジェクト側の記載で、ここでは調査手法や結果を独立検証していない。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/saiitoshii/status/2119195054476869800"
+      ],
+      "fetched_at": "2026-11-18T05:11:25.966288+00:00",
+      "path": "entries/coding-agent/nvidia-skillspector.md",
+      "summary": "AIエージェント向けスキルを走査し、17カテゴリにわたる71の脆弱性パターンを検出する。高速な静的解析に加えて任意のLLM意味解析、OSV.devを使った依存関係の脆弱性照会、リスクスコアと推奨事項、既知の検出結果を抑制するベースライン機能を備える。ターミナル、JSON、Markdown、SARIF形式でレポートを出力"
     },
     {
       "repo": "agentsmd/agents.md",

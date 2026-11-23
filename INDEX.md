@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1371 件 — リポジトリ 967, リンク集 120, 記事 217, モデル 53, プロンプト 14 / ⚑ 要確認 1111 件
+収録 1372 件 — リポジトリ 968, リンク集 120, 記事 217, モデル 53, プロンプト 14 / ⚑ 要確認 1112 件
 
-## リポジトリ（967）
+## リポジトリ（968）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -228,7 +228,7 @@
 | [Pay Small Check](entries/other/ahmardchain-pay-small-check.md) ⚑ | 1 | 0 | 毎日 | 32 | 2026-11-07 | 2026-11-16 | 2026-11-22 | MIT |
 | [LapDraw](entries/other/sachinyadavaug20-lapdraw.md) ⚑ | 0 | 0 | 毎日 | 22 | 2026-11-07 | 2026-11-13 | 2026-11-13 | MIT |
 
-### コーディングエージェント（149）
+### コーディングエージェント（150）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -266,6 +266,7 @@
 | [Vercel Agent Skills](entries/coding-agent/vercel-labs-agent-skills.md) ⚑ | 34,200 | 2,985 | 週次 | 5 | 2026-11-12 | 2026-11-16 | 2026-11-22 | unknown |
 | [claude-code-templates](entries/coding-agent/davila7-claude-code-templates.md) ⚑ | 33,865 | 4,008 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
 | [meta/astryx](entries/coding-agent/meta-astryx.md) ⚑ | 29,520 | 2,304 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [SkillSpector](entries/coding-agent/nvidia-skillspector.md) ⚑ | 26,672 | 2,376 | 毎日 | 100+ | 2026-11-16 | 2026-11-18 | 2026-11-23 | Apache-2.0 |
 | [AGENTS.md](entries/coding-agent/agentsmd-agents.md.md) ⚑ | 25,522 | 1,965 | 月次 | 0 | 2026-09-10 | 2026-11-16 | 2026-11-22 | MIT |
 | [jcode](entries/coding-agent/1jehuang-jcode.md) | 21,821 | 2,544 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
 | [bolt.diy](entries/coding-agent/stackblitz-labs-bolt.diy.md) ⚑ | 20,095 | 10,611 | 毎日 | 65 | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
@@ -2149,6 +2150,7 @@
 - [Vercel Agent Skills](entries/coding-agent/vercel-labs-agent-skills.md) — unverified / レビュー精度や適用前後の性能差は未実測。GitHubのLatestページでタグは確認したが、年とタイムゾーンを含む公開日時は確認できなかった。READMEはMITと記載しているが、APIの測定値はunknown。エージェント側の料金と導入の実動作は未確認。 GitHub APIでライセンスを確認できていません。
 - [claude-code-templates](entries/coding-agent/davila7-claude-code-templates.md) — unverified / Turn Inspector の描画は Claude Code 2.1.287+ の実機では未実行で、リポジトリ同梱の README・hooks 実装・テストファイルと作者のデモ動画に基づく確認。インストールコマンド自体（npx claude-code-templates@latest --mod ui/turn-inspector）は空ディレクトリで実行し、6ファイルが配置されることを実測した。ブロック別トークン数は概算（約4文字/トークン）で、正確なのはリクエスト単位の入出力合計のみ。mod は v0.1.0 と新しく、GitHub Releases は v1.29.7（2026-10-09）で npm の 1.32.2（2026-11-07）より遅れている。
 - [meta/astryx](entries/coding-agent/meta-astryx.md) — unverified / Beta版。社内13000以上のアプリ使用という説明は配布元の申告で、公開APIの安定性や実機アクセシビリティを本調査で検証していない。 当方でインストール・推論・生成・ベンチ再現はしていない。
+- [SkillSpector](entries/coding-agent/nvidia-skillspector.md) — unverified / READMEの脆弱性割合（分析対象31,132件中26.1%に脆弱性、5.2%に悪意の可能性）はプロジェクト側の記載で、ここでは調査手法や結果を独立検証していない。
 - [AGENTS.md](entries/coding-agent/agentsmd-agents.md.md) — unverified / 最新リリースのタグと公開日は未確認。エージェントごとの対応バージョン、指示の読み込み順、コマンドの実行挙動は実機で検証していない。効果は引用した研究の評価条件に限られる。
 - [bolt.diy](entries/coding-agent/stackblitz-labs-bolt.diy.md) — unverified / WebContainers APIにはエンタープライズ展開向けの個別の商用ライセンス条件があるとREADMEに記載。
 - [Modern Web Guidance](entries/coding-agent/googlechrome-modern-web-guidance.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
