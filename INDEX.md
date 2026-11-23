@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1490 件 — リポジトリ 1055, リンク集 123, 記事 243, モデル 55, プロンプト 14 / ⚑ 要確認 1216 件
+収録 1491 件 — リポジトリ 1055, リンク集 123, 記事 244, モデル 55, プロンプト 14 / ⚑ 要確認 1216 件
 
 ## リポジトリ（1055）
 
@@ -162,7 +162,7 @@
 | [Swarm Rebuild](entries/other/dhvanilpatel-swarm-cursors.md) ⚑ | 3,428 | 378 | 週次 | 7 | 2026-11-11 | 2026-11-16 |  | unknown |
 | [Tendedero](entries/other/alejandrobujan-tendedero.md) ⚑ | 3,270 | 295 | 毎日 | 67 | 2026-11-15 | 2026-11-16 |  | unknown |
 | [Open Source Face Recognition SDK](entries/other/faceplugin-ltd-open-source-face-recognition-sdk.md) ⚑ | 3,169 | 533 | 月次 | 0 | 2026-10-02 | 2026-11-16 |  | unknown |
-| [Dungeon Crawl Stone Soup](entries/other/crawl-crawl.md) ⚑ | 3,081 | 1,763 | 毎日 | 100+ | 2026-11-19 | 2026-11-19 | 2026-11-23 | unknown |
+| [Dungeon Crawl Stone Soup](entries/other/crawl-crawl.md) ⚑ | 3,081 | 1,763 | 毎日 | 100+ | 2026-11-19 | 2026-11-19 |  | unknown |
 | [gl-react](entries/other/gre-gl-react.md) ⚑ | 3,016 | 162 | 毎日 | 39 | 2026-11-17 | 2026-11-18 |  | MIT |
 | [HatchZip](entries/other/xevrion-hatchzip.md) ⚑ | 2,968 | 102 | 毎日 | 100+ | 2026-11-16 | 2026-11-18 |  | Apache-2.0 |
 | [Vexa](entries/other/vexa-ai-vexa.md) ⚑ | 2,965 | 544 | 週次 | 4 | 2026-11-09 | 2026-11-10 |  | Apache-2.0 |
@@ -1635,9 +1635,9 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（243）
+## 記事（244）
 
-### 記事（178）
+### 記事（179）
 
 - **[$0のデジタル参謀長で月$80,000の契約候補を作ったというX投稿（動画付き）](articles/2026-10-22-bober_smart-0-80-000-x.md)** ⚑  @Bober_smart
 - **[1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md)** ⚑  @mukadeshinigami（mukade死神）
@@ -1749,6 +1749,7 @@
 - **[Microsoft’s November 2026 Patch Tuesday addresses 1093 CVEs (CVE-2026-124194)](articles/2026-11-10-author-microsoft-s-november-2026-patch-tuesday-addresses-1093-cves-cve-2026-124194.md)**
 - **[Museで試作し入力素材をSeedanceへ引き継ぐ動画制作案](articles/2026-10-26-jarvis11x-muse-seedance.md)** ⚑  @jarvis11x
 - **[MuseのシステムファイルをZIPにまとめ、AIと内容を確認する](articles/2026-11-07-author-muse-zip-ai.md)** ⚑
+- **[My YouTube tier list, six years later](articles/2026-11-01-author-my-youtube-tier-list-six-years-later.md)**
 - **[Nemotron 3.5 Bolt E4B on Jetson Orin Nano Super at 27.7 tok/s!](articles/2026-11-05-author-nemotron-3.5-bolt-e4b-on-jetson-orin-nano-super-at-27.7-tok-s.md)** ⚑
 - **[Node2Shell: Brotli Flaw Triggers Patching Across Microsoft, Node.js, Python Packages](articles/2026-10-26-author-node2shell-brotli-flaw-triggers-patching-across-microsoft-node.js-python-package.md)**
 - **[OpenAI、独立ロボティクスチームを再編](articles/2026-11-13-author-openai.md)**

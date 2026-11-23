@@ -1,5 +1,5 @@
 {
-  "count": 1490,
+  "count": 1491,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -10707,6 +10707,22 @@
       ],
       "fetched_at": "2026-11-17T14:14:49.957767+00:00",
       "path": "articles/2026-11-07-author-muse-zip-ai.md"
+    },
+    {
+      "name": "My YouTube tier list, six years later",
+      "genre": "article",
+      "url": "https://thume.ca/2026/11/01/youtube-tier-list-2026/",
+      "published": "2026-11-01",
+      "flags": [],
+      "type": "article",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "risk_notes": "",
+      "sources": [
+        "https://x.com/tetumemo/status/2119369395114045754"
+      ],
+      "fetched_at": "2026-11-19T19:10:04.139119+00:00",
+      "path": "articles/2026-11-01-author-my-youtube-tier-list-six-years-later.md"
     },
     {
       "name": "Nemotron 3.5 Bolt E4B on Jetson Orin Nano Super at 27.7 tok/s!",
