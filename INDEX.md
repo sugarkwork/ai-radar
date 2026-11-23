@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1518 件 — リポジトリ 1075, リンク集 125, 記事 249, モデル 55, プロンプト 14 / ⚑ 要確認 1240 件
+収録 1519 件 — リポジトリ 1076, リンク集 125, 記事 249, モデル 55, プロンプト 14 / ⚑ 要確認 1240 件
 
-## リポジトリ（1075）
+## リポジトリ（1076）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -103,7 +103,7 @@
 | [Horizon](entries/other/thysrael-horizon.md) | 13,147 | 1,876 | 毎日 | 80 | 2026-11-09 | 2026-11-09 |  | MIT |
 | [Paper](entries/other/papermc-paper.md) ⚑ | 12,815 | 3,564 | 毎日 | 58 | 2026-11-15 | 2026-11-16 |  | unknown |
 | [Thaw](entries/other/thaw-app-thaw.md) ⚑ | 12,708 | 345 | 毎日 | 100+ | 2026-11-13 | 2026-11-13 |  | GPL-3.0 |
-| [Git Plugin for Obsidian](entries/other/vinzent03-obsidian-git.md) ⚑ | 12,302 | 678 | 週次 | 16 | 2026-11-19 | 2026-11-20 | 2026-11-23 | MIT |
+| [Git Plugin for Obsidian](entries/other/vinzent03-obsidian-git.md) ⚑ | 12,302 | 678 | 週次 | 16 | 2026-11-19 | 2026-11-20 |  | MIT |
 | [Betaflight](entries/other/betaflight-betaflight.md) ⚑ | 11,799 | 4,172 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 |  | GPL-3.0 |
 | [VidBee](entries/other/nexmoe-vidbee.md) ⚑ | 11,135 | 874 | 週次 | 13 | 2026-11-08 | 2026-11-13 |  | MIT |
 | [BASIC Computer Games](entries/other/coding-horror-basic-computer-games.md) ⚑ | 11,098 | 1,341 | 週次 | 8 | 2026-11-01 | 2026-11-18 |  | Unlicense |
@@ -1080,7 +1080,7 @@
 | [P-H3-Image ComfyUI sample workflows](entries/image-gen/tori29umai0123-p-h3-image_workflows.md) ⚑ | 2 | 1 | 週次 | 4 | 2026-11-06 | 2026-11-16 |  | unknown |
 | [GrabTag](entries/image-gen/blackll7-moss-image-edit-grabtag.md) | 0 | 0 | 毎日 | 43 | 2026-11-09 | 2026-11-17 |  | MIT |
 
-### RAG・検索（29）
+### RAG・検索（30）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -1092,6 +1092,7 @@
 | [Khoj](entries/rag/khoj-ai-khoj.md) ⚑ | 38,132 | 2,551 | 停滞 | 0 | 2026-08-02 | 2026-11-15 |  | AGPL-3.0 |
 | [Qdrant](entries/rag/qdrant-qdrant.md) ⚑ | 35,598 | 2,820 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 |  | Apache-2.0 |
 | [Graphiti](entries/rag/getzep-graphiti.md) ⚑ | 32,713 | 3,359 | 毎日 | 47 | 2026-11-09 | 2026-11-10 |  | Apache-2.0 |
+| [QMD (Query Markup Documents)](entries/rag/tobi-qmd.md) | 31,265 | 1,973 | 毎日 | 25 | 2026-11-18 | 2026-11-20 | 2026-11-23 | MIT |
 | [OpenDataLoader PDF](entries/rag/opendataloader-project-opendataloader-pdf.md) | 30,261 | 2,897 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 |  | Apache-2.0 |
 | [obsidianmd/obsidian-releases](entries/rag/obsidianmd-obsidian-releases.md) ⚑ | 23,200 | 7,954 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 |  | unknown |
 | [pdf-inspector](entries/rag/firecrawl-pdf-inspector.md) | 19,971 | 1,359 | 月次 | 0 | 2026-10-22 | 2026-11-09 |  | MIT |

@@ -1,5 +1,5 @@
 {
-  "count": 1518,
+  "count": 1519,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -37883,6 +37883,35 @@
       "fetched_at": "2026-11-10T16:22:51.420510+00:00",
       "path": "entries/rag/getzep-graphiti.md",
       "summary": "AIエージェント向けの時間的コンテキストグラフを構築・検索するPythonフレームワーク。事実の有効期間と出典エピソードを保持し、意味検索・キーワード検索・グラフ探索を組み合わせた検索を提供するとREADMEに記載されています。"
+    },
+    {
+      "name": "QMD (Query Markup Documents)",
+      "genre": "rag",
+      "url": "https://github.com/tobi/qmd",
+      "repo": "tobi/qmd",
+      "license": "MIT",
+      "stars": 31265,
+      "language": "TypeScript",
+      "created": "2025-12-08",
+      "updated": "2026-11-18",
+      "forks": 1973,
+      "open_issues": 267,
+      "commits_30d": 25,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 9502,
+      "archived": false,
+      "flags": [],
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "risk_notes": "",
+      "sources": [
+        "https://x.com/rosemoni18/status/2119211334797840872"
+      ],
+      "fetched_at": "2026-11-20T03:10:04.593064+00:00",
+      "path": "entries/rag/tobi-qmd.md",
+      "summary": "READMEによると、Markdownのメモ、会議の議事録、ドキュメント、ナレッジベースを索引化し、BM25全文検索、ベクトル意味検索、LLMによる再ランキングを組み合わせて検索できます。CLIのほか、MCPサーバーとしてquery、get、multi_get、status、metadataを提供します。"
     },
     {
       "repo": "opendataloader-project/opendataloader-pdf",
