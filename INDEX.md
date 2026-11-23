@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1389 件 — リポジトリ 981, リンク集 120, 記事 219, モデル 55, プロンプト 14 / ⚑ 要確認 1127 件
+収録 1390 件 — リポジトリ 982, リンク集 120, 記事 219, モデル 55, プロンプト 14 / ⚑ 要確認 1128 件
 
-## リポジトリ（981）
+## リポジトリ（982）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（219）
+### その他（220）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -196,6 +196,7 @@
 | [NamiAgent](entries/other/aa1143-namiagent.md) ⚑ | 536 | 57 | 毎日 | 20 | 2026-10-30 | 2026-11-16 |  | MIT |
 | [Pixel Plays](entries/other/amirmushichge-pixel-plays.md) ⚑ | 519 | 51 | 月次 | 2 | 2026-10-31 | 2026-11-16 |  | MIT |
 | [DuoDesk](entries/other/0xcodez-duodesk.md) ⚑ | 514 | 86 | 毎日 | 100+ | 2026-10-31 | 2026-11-16 |  | GPL-3.0 |
+| [d3-interpolate](entries/other/d3-d3-interpolate.md) ⚑ | 500 | 70 | 月次 | 3 | 2026-11-03 | 2026-11-18 | 2026-11-23 | ISC |
 | [高性价比职场指南](entries/other/goodseafly-how-to-make-work-pay.md) ⚑ | 492 | 43 | 週次 | 7 | 2026-10-26 | 2026-11-16 |  | unknown |
 | [Introduction to Statistical Learning with Python — Study Journey](entries/other/0xhadyy-isl-python.md) ⚑ | 480 | 44 | 停滞 | 0 | 2026-02-14 | 2026-11-17 |  | unknown |
 | [Life Destiny K-Line（人生 K 线）](entries/other/miounet11-life-kline.md) ⚑ | 479 | 132 | 停滞 | 0 | 2025-12-22 | 2026-11-16 |  | Apache-2.0 |
@@ -676,7 +677,7 @@
 | [Post Processing](entries/3d-motion/pmndrs-postprocessing.md) ⚑ | 2,980 | 260 | 週次 | 6 | 2026-11-01 | 2026-11-16 |  | Zlib |
 | [UniMate](entries/3d-motion/friedrich-m-unimate.md) | 2,724 | 287 | 月次 | 0 | 2026-10-08 | 2026-11-16 |  | MIT |
 | [Sverchok](entries/3d-motion/nortikin-sverchok.md) ⚑ | 2,559 | 248 | 毎日 | 27 | 2026-11-16 | 2026-11-16 |  | GPL-3.0 |
-| [OOOSplat](entries/3d-motion/ooolabdev-ooosplat.md) ⚑ | 2,545 | 302 | 毎日 | 35 | 2026-11-15 | 2026-11-18 | 2026-11-23 | Apache-2.0 |
+| [OOOSplat](entries/3d-motion/ooolabdev-ooosplat.md) ⚑ | 2,545 | 302 | 毎日 | 35 | 2026-11-15 | 2026-11-18 |  | Apache-2.0 |
 | [dream-loop](entries/3d-motion/achimala-dream-loop.md) ⚑ | 2,369 | 230 | 月次 | 0 | 2026-09-09 | 2026-11-16 |  | MIT |
 | [pixiv/three-vrm](entries/3d-motion/pixiv-three-vrm.md) ⚑ | 2,291 | 204 | 月次 | 2 | 2026-10-22 | 2026-11-16 |  | MIT |
 | [DSH × Blender](entries/3d-motion/sixtysevenlf-dsh-blender-plugin.md) | 2,148 | 94 | 毎日 | 100+ | 2026-11-12 | 2026-11-16 |  | BSD-3-Clause |
@@ -2676,6 +2677,7 @@
 - [NamiAgent](entries/other/aa1143-namiagent.md) — unverified / 最新リリース、テストの成功、デモと実モデルの動作、権限機構の実効性、モデルAPIの料金は未確認。著者は、権限機構で意図的な攻撃を防げないと明記している。
 - [Pixel Plays](entries/other/amirmushichge-pixel-plays.md) — unverified / ['候補投稿が言及するClaude Opus 5.5の使用は、作者投稿を取得できなかったため未確認。最新リリース、ブラウザでの動作・性能、別題材への改変結果も未確認。']
 - [DuoDesk](entries/other/0xcodez-duodesk.md) — unverified / 最新リリースの公開日時と配布物の署名状態は未確認。対応 OS の組み合わせ別の動作、転送性能、通信の安全性は独立検証していない。Claude Code と Opus 5.5 の利用および開発規模は、候補が指す X 投稿を直接取得できず未確認。
+- [d3-interpolate](entries/other/d3-d3-interpolate.md) — unverified / 一次資料で未確認: 依存関係・実行条件。
 - [高性价比职场指南](entries/other/goodseafly-how-to-make-work-pay.md) — unverified / GitHub APIでライセンスを確認できていません。
 - [Introduction to Statistical Learning with Python — Study Journey](entries/other/0xhadyy-isl-python.md) — unverified / READMEではライセンス、必要な依存関係、実行条件は確認できません。 GitHub APIでライセンスを確認できていません。
 - [Life Destiny K-Line（人生 K 线）](entries/other/miounet11-life-kline.md) — unverified / README describes fortune and prediction features but does not establish their accuracy. Its feature and effect claims are author-provided, not independently verified.

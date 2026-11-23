@@ -1,5 +1,5 @@
 {
-  "count": 1389,
+  "count": 1390,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -30868,6 +30868,37 @@
       "last_release_at": "2026-10-31",
       "path": "entries/other/0xcodez-duodesk.md",
       "summary": "README によると、Mac・Windows・Linux・Android 間でマウスとキーボード、クリップボード、ファイルを共有できる。機能ごとの対応条件は端末や OS によって異なる。"
+    },
+    {
+      "name": "d3-interpolate",
+      "genre": "other",
+      "url": "https://github.com/d3/d3-interpolate",
+      "repo": "d3/d3-interpolate",
+      "license": "ISC",
+      "stars": 500,
+      "language": "JavaScript",
+      "created": "2015-06-10",
+      "updated": "2026-11-03",
+      "forks": 70,
+      "open_issues": 12,
+      "commits_30d": 3,
+      "commit_cadence": "monthly",
+      "commits_90d": 3,
+      "size_kb": 351,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 依存関係・実行条件。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/0xclayo/status/2123016316353155192"
+      ],
+      "fetched_at": "2026-11-18T14:08:46.124089+00:00",
+      "path": "entries/other/d3-d3-interpolate.md",
+      "summary": "2つの値の間を補間する。READMEには、数値、色、文字列、配列、入れ子状のオブジェクトが扱えるとある。"
     },
     {
       "name": "高性价比职场指南",
