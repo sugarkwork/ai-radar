@@ -1,5 +1,5 @@
 {
-  "count": 1431,
+  "count": 1432,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -9352,6 +9352,25 @@
       ],
       "fetched_at": "2026-11-18T21:09:32.282962+00:00",
       "path": "articles/2026-04-19-author-claude-for-dummies.md"
+    },
+    {
+      "name": "Claude Motion と Claude Dashboards の使い方",
+      "genre": "article",
+      "url": "https://ruben.substack.com/p/claude-motion-and-dashboards",
+      "published": "2026-10-14",
+      "author": "Ruben Hassid",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "記事中の「Pro・MaxでMotionとDashboardsが使える」という記述は、AnthropicのMotion公式ヘルプではMotionはTeam・Enterprise向けとされており一致しない。Claude Codeからの公開手順や著者の作成時間・分析値は独立検証されていない。",
+      "type": "article",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/okapi_fukugyo/status/2119299912882123032"
+      ],
+      "fetched_at": "2026-11-18T21:14:44.202705+00:00",
+      "path": "articles/2026-10-14-ruben-hassid-claude-motion-claude-dashboards.md"
     },
     {
       "name": "ClaudeでSolidWorksの部品を作成したという投稿",

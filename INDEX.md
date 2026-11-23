@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1431 件 — リポジトリ 1013, リンク集 121, 記事 228, モデル 55, プロンプト 14 / ⚑ 要確認 1165 件
+収録 1432 件 — リポジトリ 1013, リンク集 121, 記事 229, モデル 55, プロンプト 14 / ⚑ 要確認 1166 件
 
 ## リポジトリ（1013）
 
@@ -1589,9 +1589,9 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（228）
+## 記事（229）
 
-### 記事（164）
+### 記事（165）
 
 - **[$0のデジタル参謀長で月$80,000の契約候補を作ったというX投稿（動画付き）](articles/2026-10-22-bober_smart-0-80-000-x.md)** ⚑  @Bober_smart
 - **[1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md)** ⚑  @mukadeshinigami（mukade死神）
@@ -1633,6 +1633,7 @@
 - **[Claude Connectors：Claudeを外部アプリに接続する方法](articles/2026-05-13-author-claude-connectors-claude.md)** ⚑
 - **[Claude Design.](articles/2026-04-22-author-claude-design.md)** ⚑
 - **[Claude For Dummies](articles/2026-04-19-author-claude-for-dummies.md)** ⚑
+- **[Claude Motion と Claude Dashboards の使い方](articles/2026-10-14-ruben-hassid-claude-motion-claude-dashboards.md)** ⚑  Ruben Hassid
 - **[ClaudeでSolidWorksの部品を作成したという投稿](articles/2026-11-06-author-claude-solidworks.md)** ⚑
 - **[Claudeは「夢」を見て記憶を直す。Anthropicがエージェント記憶の部品を公開、35万ファイルのwiki化で正答材料は13％から48％へ](articles/2026-11-07-author-claude-anthropic-35-wiki-13-48.md)**
 - **[Coding Agents Copy Your Secrets to a Hidden File. Thousands Are on GitHub](articles/2026-11-05-apiiro-coding-agents-copy-your-secrets-to-a-hidden-file.-thousands-are-on-github.md)** ⚑  Apiiro
@@ -2096,6 +2097,7 @@
 - [Claude Connectors：Claudeを外部アプリに接続する方法](articles/2026-05-13-author-claude-connectors-claude.md) — unverified / 記事中の「200以上」というコネクター数、個別アプリの利用例や効果、独自コネクターの構築所要時間は記事の記述であり、独立確認していません。利用できるコネクターやプラン条件は変わる可能性があります。Anthropicの案内では、リモートコネクターは有料プラン向けで、カスタムコネクターはAnthropic未検証のサービスにも接続できるため、接続先と権限の確認が必要です。
 - [Claude Design.](articles/2026-04-22-author-claude-design.md) — unverified / 利用条件や機能の提供状況は記事公開時点の記述で、現在も同じとは確認できていない。作者は自身の利用経験として説明しており、記事中の作成時間や品質などは独立検証されていない。
 - [Claude For Dummies](articles/2026-04-19-author-claude-for-dummies.md) — unverified / 記事にはClaudeのプラン料金、モデル名、機能や他サービスとの比較など、変更されうる記述が含まれます。現在の提供状況や価格はこの記事では確認していません。
+- [Claude Motion と Claude Dashboards の使い方](articles/2026-10-14-ruben-hassid-claude-motion-claude-dashboards.md) — unverified / 記事中の「Pro・MaxでMotionとDashboardsが使える」という記述は、AnthropicのMotion公式ヘルプではMotionはTeam・Enterprise向けとされており一致しない。Claude Codeからの公開手順や著者の作成時間・分析値は独立検証されていない。
 - [ClaudeでSolidWorksの部品を作成したという投稿](articles/2026-11-06-author-claude-solidworks.md) — unverified / 形状・寸法・適合性が正しいかは確認されていない。投稿内のコメントでは、参照画像との不一致や詳細不足を指摘する意見と、別用途でうまくいったという報告の両方がある。実用時は寸法と適合性を別途確認する必要がある。
 - [Coding Agents Copy Your Secrets to a Hidden File. Thousands Are on GitHub](articles/2026-11-05-apiiro-coding-agents-copy-your-secrets-to-a-hidden-file.-thousands-are-on-github.md) — unverified / 集計と挙動の再現はApiiroによる報告。調査対象の認証情報の有効性や、Claude Codeのバージョンごとの挙動は独立に検証していない。
 - [Control Room](articles/2026-11-09-openai-control-room.md) — unverified / 停止まで最大35秒はOpenAIの研究環境についての公表値。独立した計測や稼働環境での再現は行っていない。外部向けの実装・APIの提供は公式記事で確認できない。
