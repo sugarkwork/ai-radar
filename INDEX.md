@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1487 件 — リポジトリ 1052, リンク集 123, 記事 243, モデル 55, プロンプト 14 / ⚑ 要確認 1214 件
+収録 1488 件 — リポジトリ 1053, リンク集 123, 記事 243, モデル 55, プロンプト 14 / ⚑ 要確認 1214 件
 
-## リポジトリ（1052）
+## リポジトリ（1053）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -941,7 +941,7 @@
 | [Kosh](entries/mcp-server/sachinyadavaug20-kosh.md) ⚑ | 5 | 0 | 毎日 | 76 | 2026-11-15 | 2026-11-16 |  | Apache-2.0 |
 | [gmail-browser-mcp](entries/mcp-server/sparsh101sparsh-gmail-browser-mcp.md) ⚑ | 0 | 0 | 毎日 | 88 | 2026-11-13 | 2026-11-16 |  | unknown |
 
-### プロンプト（デザイン/UI）（36）
+### プロンプト（デザイン/UI）（37）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -969,6 +969,7 @@
 | [kepano/flexoki](entries/prompt-design/kepano-flexoki.md) ⚑ | 3,810 | 139 | 停滞 | 0 | 2026-03-07 | 2026-11-09 |  | MIT |
 | [The Designer Skills Pack](entries/prompt-design/owl-listener-designer-skills.md) ⚑ | 3,309 | 436 | 月次 | 0 | 2026-09-05 | 2026-11-10 |  | MIT |
 | [GitReverse](entries/prompt-design/filiksyos-gitreverse.md) ⚑ | 2,081 | 337 | 週次 | 8 | 2026-11-10 | 2026-11-11 |  | MIT |
+| [video-spec-builder](entries/prompt-design/feicaiclub-video-spec-builder.md) | 1,078 | 128 | 停滞 | 0 | 2026-05-18 | 2026-11-19 | 2026-11-23 | MIT |
 | [Casting-Workflow](entries/prompt-design/dama-cyber-casting-workflow.md) ⚑ | 710 | 136 | 停滞 | 0 | 2026-08-07 | 2026-11-14 |  | unknown |
 | [AI 漫剧 Skills](entries/prompt-design/zhanghao123vip-ai-manju-skills.md) ⚑ | 695 | 124 | 月次 | 2 | 2026-11-01 | 2026-11-10 |  | MIT |
 | [Awesome GPT Image 2.5 Prompts](entries/prompt-design/youart-open-source-awesome-gpt-image-2-5-prompts.md) ⚑ | 596 | 46 | 停滞 | 0 | 2026-09-11 | 2026-11-19 |  | unknown |

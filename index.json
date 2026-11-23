@@ -1,5 +1,5 @@
 {
-  "count": 1487,
+  "count": 1488,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -35913,6 +35913,35 @@
       "fetched_at": "2026-11-11T22:14:14.260367+00:00",
       "path": "entries/prompt-design/filiksyos-gitreverse.md",
       "summary": "公開GitHubリポジトリのメタデータ、ルートのファイルツリー（深さ1）、READMEを使い、Cursor、Claude Code、Codexなどに入力する想定の短い会話調プロンプトを1つ生成する。READMEでは、GitHub URLまたはowner/repo形式をホーム画面に入力する方法と、/owner/repo形"
+    },
+    {
+      "name": "video-spec-builder",
+      "genre": "prompt-design",
+      "url": "https://github.com/feicaiclub/video-spec-builder",
+      "repo": "feicaiclub/video-spec-builder",
+      "license": "MIT",
+      "stars": 1078,
+      "language": "JavaScript",
+      "created": "2026-05-16",
+      "updated": "2026-05-18",
+      "forks": 128,
+      "open_issues": 2,
+      "commits_30d": 0,
+      "commit_cadence": "stale",
+      "commits_90d": 0,
+      "size_kb": 247,
+      "archived": false,
+      "flags": [],
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "risk_notes": "",
+      "sources": [
+        "https://x.com/bkdgiffug/status/2119361788496298116"
+      ],
+      "fetched_at": "2026-11-19T18:09:09.846317+00:00",
+      "path": "entries/prompt-design/feicaiclub-video-spec-builder.md",
+      "summary": "動画の目的、対象、長さ、伝えたいこと、素材、スタイルなどを対話で整理し、各ショットの映像内容・見せ方・秒数・次のショットへのつなぎ方を記した video-spec.md を作成します。既存の video-spec.md の一部を変更する場合も、変更の意図や他のショットへの影響を確認して仕様を更新します。"
     },
     {
       "name": "Casting-Workflow",
