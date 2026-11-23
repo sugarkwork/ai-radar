@@ -1,5 +1,5 @@
 {
-  "count": 1380,
+  "count": 1381,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -29397,6 +29397,37 @@
       "last_release_at": "",
       "path": "entries/other/franciscop-ola.md",
       "summary": "数値や数値を持つオブジェクト・配列の値を、指定時間をかけて滑らかに補間します。READMEでは、遷移中に次の値を設定した場合も滑らかに動くこと、値を読み取るときに必要な値を計算することを説明しています。出典: https://github.com/franciscop/ola"
+    },
+    {
+      "name": "Pokemon Auto Chess",
+      "genre": "other",
+      "url": "https://github.com/keldaanCommunity/pokemonAutoChess",
+      "repo": "keldaanCommunity/pokemonAutoChess",
+      "license": "GPL-3.0",
+      "stars": 1852,
+      "language": "TypeScript",
+      "created": "2019-09-11",
+      "updated": "2026-11-18",
+      "forks": 581,
+      "open_issues": 16,
+      "commits_30d": 100,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 1169355,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEはThe Pokémon Companyの権利を明記し、同社の要請で公開終了となる可能性を述べている。外部サービスの認証情報を自分で用意する必要があり、権利者の許諾や配布継続状況はREADMEから確認できない。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/dextune/status/2119263387477749830"
+      ],
+      "fetched_at": "2026-11-18T08:15:17.897075+00:00",
+      "path": "entries/other/keldaancommunity-pokemonautochess.md",
+      "summary": "READMEでは、ローカルでゲームを起動し、ボットと対戦できると案内している。開発サーバーで変更を試し、ビルドしたファイルを本番環境で起動する手順も記載されている。"
     },
     {
       "name": "Splitting.js",
