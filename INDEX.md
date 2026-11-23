@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1515 件 — リポジトリ 1072, リンク集 125, 記事 249, モデル 55, プロンプト 14 / ⚑ 要確認 1238 件
+収録 1516 件 — リポジトリ 1073, リンク集 125, 記事 249, モデル 55, プロンプト 14 / ⚑ 要確認 1238 件
 
-## リポジトリ（1072）
+## リポジトリ（1073）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（272）
+### その他（273）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -143,6 +143,7 @@
 | [tModLoader](entries/other/tmodloader-tmodloader.md) ⚑ | 5,797 | 2,200 | 毎日 | 100+ | 2026-11-17 | 2026-11-19 |  | MIT |
 | [gifski](entries/other/imageoptim-gifski.md) ⚑ | 5,711 | 183 | 停滞 | 0 | 2026-06-17 | 2026-11-16 |  | unknown |
 | [软件屏蔽器（Malware-Patch）](entries/other/the1812-malware-patch.md) ⚑ | 5,644 | 333 | 停滞 | 0 | 2026-05-27 | 2026-11-14 |  | MIT |
+| [Obsidian Web Clipper](entries/other/obsidianmd-obsidian-clipper.md) | 5,620 | 795 | 毎日 | 25 | 2026-11-20 | 2026-11-20 | 2026-11-23 | MIT |
 | [Atoll](entries/other/ebullioscopic-atoll.md) ⚑ | 5,291 | 389 | 毎日 | 33 | 2026-11-17 | 2026-11-17 |  | GPL-3.0 |
 | [PKHeX](entries/other/kwsch-pkhex.md) ⚑ | 5,284 | 980 | 毎日 | 26 | 2026-11-16 | 2026-11-19 |  | unknown |
 | [Bumblebee](entries/other/perplexityai-bumblebee.md) ⚑ | 5,148 | 464 | 月次 | 0 | 2026-11-10 | 2026-11-12 |  | Apache-2.0 |
@@ -343,7 +344,7 @@
 | [UI Skills](entries/coding-agent/ibelick-ui-skills.md) ⚑ | 11,125 | 534 | 毎日 | 46 | 2026-11-14 | 2026-11-16 |  | MIT |
 | [Dashi PPT Skill](entries/coding-agent/chuspeeism-dashi-ppt-skill.md) ⚑ | 10,750 | 916 | 月次 | 2 | 2026-11-06 | 2026-11-16 |  | AGPL-3.0 |
 | [Stitch Design Skills](entries/coding-agent/google-labs-code-stitch-skills.md) ⚑ | 10,093 | 1,328 | 停滞 | 0 | 2026-08-17 | 2026-11-18 |  | Apache-2.0 |
-| [awesome-gamedev-agent-skills](entries/coding-agent/gamedev-skills-awesome-gamedev-agent-skills.md) ⚑ | 9,585 | 974 | 毎日 | 100+ | 2026-11-12 | 2026-11-20 | 2026-11-23 | Apache-2.0 |
+| [awesome-gamedev-agent-skills](entries/coding-agent/gamedev-skills-awesome-gamedev-agent-skills.md) ⚑ | 9,585 | 974 | 毎日 | 100+ | 2026-11-12 | 2026-11-20 |  | Apache-2.0 |
 | [Copilot for Obsidian](entries/coding-agent/logancyang-obsidian-copilot.md) ⚑ | 8,005 | 775 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 |  | AGPL-3.0 |
 | [fast-jev-compaction](entries/coding-agent/tamaratran-fast-jev-compaction.md) ⚑ | 7,985 | 588 | 月次 | 0 | 2026-09-18 | 2026-11-16 |  | MIT |
 | [billion-context](entries/coding-agent/ranxianglei-billion-context.md) ⚑ | 7,665 | 618 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 |  | NOASSERTION |

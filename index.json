@@ -1,5 +1,5 @@
 {
-  "count": 1515,
+  "count": 1516,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -30693,6 +30693,35 @@
       "fetched_at": "2026-11-14T03:12:22.988056+00:00",
       "path": "entries/other/the1812-malware-patch.md",
       "summary": "READMEによると、対応ソフトウェアの管理者権限付与をブロックできる。GUIのほか、--disallow-all、--allow-all、--allow、--disallowなどのコマンドライン引数がある。"
+    },
+    {
+      "name": "Obsidian Web Clipper",
+      "genre": "other",
+      "url": "https://github.com/obsidianmd/obsidian-clipper",
+      "repo": "obsidianmd/obsidian-clipper",
+      "license": "MIT",
+      "stars": 5620,
+      "language": "TypeScript",
+      "created": "2024-08-29",
+      "updated": "2026-11-20",
+      "forks": 795,
+      "open_issues": 277,
+      "commits_30d": 25,
+      "commit_cadence": "daily",
+      "commits_90d": 36,
+      "size_kb": 9672,
+      "archived": false,
+      "flags": [],
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "risk_notes": "",
+      "sources": [
+        "https://x.com/rosemoni18/status/2119211334797840872"
+      ],
+      "fetched_at": "2026-11-20T03:08:34.694138+00:00",
+      "path": "entries/other/obsidianmd-obsidian-clipper.md",
+      "summary": "ブラウザーでWebページをハイライトして取り込み、保存した内容をMarkdownファイルとしてオフラインで読めるようにします。テンプレート、変数、フィルターの機能については公式ドキュメントを参照できます。"
     },
     {
       "name": "Atoll",
