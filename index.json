@@ -1,5 +1,5 @@
 {
-  "count": 1360,
+  "count": 1361,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -27045,6 +27045,37 @@
       "fetched_at": "2026-11-13T06:25:29.472768+00:00",
       "path": "entries/other/nexmoe-vidbee.md",
       "summary": "動画・音声を対応サイトからダウンロードするか、ローカルファイルを取り込み、文字起こしを検索可能なライブラリとして管理するデスクトップアプリ。READMEでは、ローカル音声認識、話者ラベル、タイムスタンプ再生、要約・翻訳・質問などのAI処理、ダウンロードキュー、RSS購読、形式やメタデータの設定を説明している。"
+    },
+    {
+      "name": "BASIC Computer Games",
+      "genre": "other",
+      "url": "https://github.com/coding-horror/basic-computer-games",
+      "repo": "coding-horror/basic-computer-games",
+      "license": "Unlicense",
+      "stars": 11098,
+      "language": "C#",
+      "created": "2021-01-30",
+      "updated": "2026-11-01",
+      "forks": 1341,
+      "open_issues": 8,
+      "commits_30d": 8,
+      "commit_cadence": "weekly",
+      "commits_90d": 8,
+      "size_kb": 78517,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景・依存関係・実行条件。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/dextune/status/2119248541008920585"
+      ],
+      "fetched_at": "2026-11-18T01:13:09.203890+00:00",
+      "path": "entries/other/coding-horror-basic-computer-games.md",
+      "summary": "古典的なBASICゲームをC#、Java、JavaScript、Kotlin、Lua、Perl、Python、Ruby、Rust、VB.NETへ移植し、言語ごとの実装を学習・比較できます。READMEでは、元のプログラムの振る舞いを保ちつつ、大文字・小文字の入力対応やエラー処理など現代的な改善を加える方針が示されていま"
     },
     {
       "repo": "karpathy/minbpe",
