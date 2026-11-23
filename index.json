@@ -1,5 +1,5 @@
 {
-  "count": 1408,
+  "count": 1409,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -39218,6 +39218,37 @@
       "fetched_at": "2026-11-14T18:08:32.659611+00:00",
       "path": "entries/video-gen/forget-c-jellyfish.md",
       "summary": "脚本をショットに分割し、登場人物・シーン・小道具・衣装・台詞の抽出や整合性確認を行う。ショットの準備、共有アセットの管理と再利用、画像・動画生成タスクの実行、結果の管理、タスク状況の追跡を行う制作ワークスペース。"
+    },
+    {
+      "name": "ProPainter",
+      "genre": "video-gen",
+      "url": "https://github.com/sczhou/ProPainter",
+      "repo": "sczhou/ProPainter",
+      "license": "unknown",
+      "stars": 7079,
+      "language": "Python",
+      "created": "2023-09-01",
+      "updated": "2026-10-27",
+      "forks": 823,
+      "open_issues": 82,
+      "commits_30d": 5,
+      "commit_cadence": "weekly",
+      "commits_90d": 5,
+      "size_kb": 71468,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "リポジトリのライセンス情報は取得値が unknown。README記載のGPUメモリ値は推定値で、この環境での実機検証はしていない。 GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/RoundtableSpace/status/2123027189276778909"
+      ],
+      "fetched_at": "2026-11-18T15:17:32.515276+00:00",
+      "path": "entries/video-gen/sczhou-propainter.md",
+      "summary": "動画の物体除去と動画補完を行う動画インペインティング。READMEでは、入力として動画または分割フレームとフレームごとのマスクを用意する手順を案内している。"
     },
     {
       "name": "OpenFilm",
