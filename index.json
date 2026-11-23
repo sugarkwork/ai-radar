@@ -1,5 +1,5 @@
 {
-  "count": 1375,
+  "count": 1376,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -29810,6 +29810,37 @@
       "fetched_at": "2026-11-17T00:13:30.162964+00:00",
       "path": "entries/other/shuaiplus-inkstone.md",
       "summary": "ブラウザー上でMarkdownノートを作成・整理・同期・バックアップする自己ホスト型アプリ。ライブプレビュー、全文検索と任意のセマンティック検索、双方向リンク、オフライン編集、複数端末同期、AIアクセス、公開共有、オフサイトバックアップなどを提供するとREADMEに記載されています。出典: https://github"
+    },
+    {
+      "name": "Hack Club Sprig",
+      "genre": "other",
+      "url": "https://github.com/hackclub/sprig",
+      "repo": "hackclub/sprig",
+      "license": "MIT",
+      "stars": 1119,
+      "language": "JavaScript",
+      "created": "2022-01-03",
+      "updated": "2026-11-17",
+      "forks": 1938,
+      "open_issues": 62,
+      "commits_30d": 24,
+      "commit_cadence": "daily",
+      "commits_90d": 95,
+      "size_kb": 127602,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "The README says only teenagers and younger can receive a Sprig device; it does not state the current eligibility or fulfillment details. The editor and gallery are described in the README, but their current availability is not verified here.",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/dextune/status/2119256089480843420"
+      ],
+      "fetched_at": "2026-11-18T05:14:53.840968+00:00",
+      "path": "entries/other/hackclub-sprig.md",
+      "summary": "ブラウザー上のエディターでJavaScriptを使ったタイルベースのゲームを作り、コミュニティギャラリーで共有できます。Sprigはそのゲームを実行するカスタム携帯ゲーム機で、READMEによると、同じJavaScriptゲームをデスクトップとマイクロコントローラーで実行できるよう独自システムを構築しています。ハードウ"
     },
     {
       "repo": "Tencent/WeVisOne-VL",

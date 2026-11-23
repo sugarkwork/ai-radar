@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1375 件 — リポジトリ 971, リンク集 120, 記事 217, モデル 53, プロンプト 14 / ⚑ 要確認 1115 件
+収録 1376 件 — リポジトリ 972, リンク集 120, 記事 217, モデル 53, プロンプト 14 / ⚑ 要確認 1116 件
 
-## リポジトリ（971）
+## リポジトリ（972）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（216）
+### その他（217）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -171,6 +171,7 @@
 | [Web Interface Guidelines](entries/other/vercel-labs-web-interface-guidelines.md) ⚑ | 1,200 | 80 | 停滞 | 0 | 2026-10-05 | 2026-11-17 | 2026-11-22 | MIT |
 | [VFX-JS](entries/other/fand-vfx-js.md) ⚑ | 1,193 | 40 | 毎日 | 55 | 2026-11-14 | 2026-11-16 | 2026-11-22 | MIT |
 | [Inkstone](entries/other/shuaiplus-inkstone.md) ⚑ | 1,188 | 1,095 | 月次 | 0 | 2026-10-07 | 2026-11-17 | 2026-11-22 | unknown |
+| [Hack Club Sprig](entries/other/hackclub-sprig.md) ⚑ | 1,119 | 1,938 | 毎日 | 24 | 2026-11-17 | 2026-11-18 | 2026-11-23 | MIT |
 | [WeVisOne-VL](entries/other/tencent-wevisone-vl.md) | 1,111 | 95 | 月次 | 3 | 2026-10-25 | 2026-11-09 | 2026-11-10 | Apache-2.0（Tencent 著作部分） |
 | [Shapeshift](entries/other/anishfn-shapeshift.md) ⚑ | 1,073 | 106 | 月次 | 0 | 2026-09-23 | 2026-11-16 | 2026-11-22 | MIT |
 | [FlashProve](entries/other/anthropics-flashprove.md) ⚑ | 1,063 | 113 | 月次 | 1 | 2026-10-30 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
@@ -2629,6 +2630,7 @@
 - [Web Interface Guidelines](entries/other/vercel-labs-web-interface-guidelines.md) — unverified / 添付READMEは「Locale」で途切れており、続きの内容は確認できていません。提示部分には依存関係と実行条件の記載がありません。
 - [VFX-JS](entries/other/fand-vfx-js.md) — unverified / 一次資料で未確認: 有効性。
 - [Inkstone](entries/other/shuaiplus-inkstone.md) — unverified / GitHub APIでライセンスを確認できていません。
+- [Hack Club Sprig](entries/other/hackclub-sprig.md) — unverified / The README says only teenagers and younger can receive a Sprig device; it does not state the current eligibility or fulfillment details. The editor and gallery are described in the README, but their current availability is not verified here.
 - [Shapeshift](entries/other/anishfn-shapeshift.md) — unverified / ['READMEと公開ソースを確認。コードは実行しておらず、分類精度、曖昧な入力での挙動、実応答時間、オンライン障害時のフォールバックは未実測。TypeSafe APIの現行料金と利用条件は未確認。']
 - [FlashProve](entries/other/anthropics-flashprove.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [JavRanking 浏览器扩展](entries/other/javranking-javranking-extension.md) — unverified / Chrome/Edge installation uses a manually loaded unpacked extension and updates are manual. Firefox is only available for temporary development loading; persistent installation requires a Mozilla-signed XPI, which is not yet available.
