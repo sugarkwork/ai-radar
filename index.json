@@ -1,5 +1,5 @@
 {
-  "count": 1447,
+  "count": 1448,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -43134,6 +43134,24 @@
       "signup_required": "unknown",
       "path": "links/video-gen/https-civitai.com-models-3038677.md",
       "summary": "H3の4〜6秒クリップをつないで40〜50秒にするComfyUIワークフロー配布。"
+    },
+    {
+      "name": "MiniMax H3の8秒カメラ接近をBlenderの白素体で設計し、縦じまを比較した記録",
+      "genre": "video-gen",
+      "url": "https://make-profit.net/2026/11/08/genai-lab-61-minimax-h3-drone-approach-8s-rear-camera-blender-12step-sky-stripes/",
+      "published": "2026-11-08",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "生成時間と縦じまの変化は記事著者の報告で、独立した再測定はない。記事も1組の比較のみで、縞が減った原因をステップ数だけとは断定していない。",
+      "type": "article",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/Phantom_202601/status/2119200865865306464"
+      ],
+      "fetched_at": "2026-11-19T04:09:48.111744+00:00",
+      "path": "articles/2026-11-08-author-minimax-h3-8-blender.md"
     },
     {
       "name": "MiniMax H3系のボイスLoRA／キャプション運用メモ",

@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1447 件 — リポジトリ 1021, リンク集 121, 記事 236, モデル 55, プロンプト 14 / ⚑ 要確認 1177 件
+収録 1448 件 — リポジトリ 1021, リンク集 121, 記事 237, モデル 55, プロンプト 14 / ⚑ 要確認 1178 件
 
 ## リポジトリ（1021）
 
@@ -1597,7 +1597,7 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（236）
+## 記事（237）
 
 ### 記事（172）
 
@@ -1774,7 +1774,7 @@
 - **[自主制作AIドラマ《最后的巨魔》](articles/2026-10-22-jiuyueaigc-ai.md)** ⚑  @JiuYueAIGC
 - **[세무사 수석 ‘AI 부정’ 자백…인력공단, 국가자격시험 전수조사 [종합]](articles/2026-11-15-author-ai.md)** ⚑
 
-### 動画生成パイプライン（18）
+### 動画生成パイプライン（19）
 
 - **[AIアニメ動画を「作って終わり」にしない。0→1で作品を作り、最初の売上につなげる完全ロードマップ](articles/2026-10-23-8fa0ce29-ai-0-1-ac6dbbe07b.md)** ⚑  paid / おかぴ
 - **[AIインフルエンサー量産術：Higgsfield AI Influencer＋Genjutsuで作る架空キャラ](articles/2026-10-11-y0urdumble-ai-higgsfield-ai-influencer-genjutsu.md)** ⚑  @Y0urDumble
@@ -1786,6 +1786,7 @@
 - **[GoShortのAI短編ドラマ制作・配信構想](articles/2026-11-09-goshort-goshort-ai.md)** ⚑  GoShort
 - **[History Forcing: Distilling History-Dependent Continuations for Long-Horizon Video World Models](articles/2026-11-02-author-history-forcing-distilling-history-dependent-continuations-for-long-horizon-vide.md)** ⚑
 - **[HyperFlow H3 Flash 第三者速度比較](articles/2026-11-09-https-x.com-deepforest_inc-status-2118808820013244894.md)** ⚑  @DeepForest_Inc
+- **[MiniMax H3の8秒カメラ接近をBlenderの白素体で設計し、縦じまを比較した記録](articles/2026-11-08-author-minimax-h3-8-blender.md)** ⚑
 - **[MiniMax H3系のボイスLoRA／キャプション運用メモ](articles/2026-11-07-ai_1610-h3-voice-lora-memo.md)** ⚑  @ai_1610
 - **[Muse Videoで参照画像から予告編を作る事例](articles/2026-10-22-jarvis11x-muse-video.md)** ⚑  @jarvis11x
 - **[Museに外部の無料GPU（Modal／Kaggle／Colab）を割り当てる手順](articles/2026-11-07-taki_auto-muse-free-gpu.md)** ⚑  @taki_auto
@@ -3041,6 +3042,7 @@
 - [Kling AI Motion Control](links/video-gen/kling.ai-kling-ai-motion-control.md) — unverified / 無料枠と月額サブスクの金額は未確認（確認できたのは API の従量単価のみ）。参照動画の権利と、生成結果が元動画と似ることによる権利・プラットフォームポリシーの確認が必要。
 - [LTX-2.5](models/video-gen/lightricks-ltx-2.5.md) — unverified / モデルファイルへのアクセスにはHugging Face情報の共有への同意が必要と表示されています。投稿にある「動画モデルで最もダウンロードされた」という比較主張は、このモデルカードの情報だけでは確認できません。
 - [MiniMax H3 long take 連結ワークフロー](links/video-gen/https-civitai.com-models-3038677.md) — unverified / 作者のRTX4070SUPER12GB使用は最低VRAM要件の証明ではない。長尺の整合性・繋ぎ・追加ノードの安全性と権利は未検証。 当方でインストール・推論・生成・ベンチ再現はしていない。
+- [MiniMax H3の8秒カメラ接近をBlenderの白素体で設計し、縦じまを比較した記録](articles/2026-11-08-author-minimax-h3-8-blender.md) — unverified / 生成時間と縦じまの変化は記事著者の報告で、独立した再測定はない。記事も1組の比較のみで、縞が減った原因をステップ数だけとは断定していない。
 - [MiniMax H3系のボイスLoRA／キャプション運用メモ](articles/2026-11-07-ai_1610-h3-voice-lora-memo.md) — unverified / 18+ / NSFW。引用先のnote記事は成人向け音声演技（喘ぎ・淫語）の設計メモで、職場閲覧注意。本文の『p-h3』は製品リンクがなく固有名を特定できない（H3系=MiniMax H3は既出。PrunaAIのP-H3-Imageは画像モデルで声LoRAとは無関係）。投稿は前投稿の訂正＋運用注意の追記で、新製品・リポジトリの提示ではない。声LoRAの効果やキャプション記述の優劣は本人の運用感で、数値・比較検証は無い。
 - [MiniMax H3：20種のダンスと音楽指定](prompts/video-gen/minimax-h3-20-dance-music.md) — unverified / 投稿本文を原文のまま収録。生成品質や参照画像の一致、音楽と動作の同期は未検証。元投稿には再配布・商用利用条件の明記を確認できていない。ローカルH3の生成物を商用利用するには別途ライセンスが必要。
 - [Muse Videoで参照画像から予告編を作る事例](articles/2026-10-22-jarvis11x-muse-video.md) — unverified / 一括生成か編集か、再現性、画像と音楽の利用許諾は未確認。
