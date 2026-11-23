@@ -1,5 +1,5 @@
 {
-  "count": 1426,
+  "count": 1427,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -9857,6 +9857,25 @@
       ],
       "fetched_at": "2026-11-10T11:24:02Z",
       "path": "articles/2026-03-24-author-harness-design-for-long-running-application-development.md"
+    },
+    {
+      "name": "How to set up Claude",
+      "genre": "article",
+      "url": "https://ruben.substack.com/p/how-to-set-up-claude",
+      "published": "2026-09-30",
+      "flags": [
+        "low-quality",
+        "unverified"
+      ],
+      "risk_notes": "公式ヘルプセンターはTeamプランに最低5人を要すると説明しているが、記事は2人と記載。また、個人アカウントよりTeamが安全という主張を裏付ける一次資料は確認できなかった。 Teamプランは最低5人必要で、個人利用向けではないというAnthropicの案内があり、記事中の「2人以上」という説明と異なる。また、記事の「Teamプランの方が安全」という評価や、機能・価格・モデル情報の一部は公式資料で確認できていないため、最新条件を公式ページで確認する必要がある。",
+      "type": "article",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/okapi_fukugyo/status/2119299912882123032"
+      ],
+      "fetched_at": "2026-11-18T21:09:55.391054+00:00",
+      "path": "articles/2026-09-30-author-how-to-set-up-claude.md"
     },
     {
       "name": "How we’re training a Figma-fluent editing model",
