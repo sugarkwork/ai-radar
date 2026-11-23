@@ -1,5 +1,5 @@
 {
-  "count": 1433,
+  "count": 1434,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -10834,6 +10834,22 @@
       ],
       "fetched_at": "2026-11-16T00:15:15.969872+00:00",
       "path": "articles/2026-11-06-author-teaching-ai-to-build-scientific-models.md"
+    },
+    {
+      "name": "The Complete Guide to Building Skills for Claude",
+      "genre": "article",
+      "url": "https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-Claude.pdf",
+      "published": "2026-01-29",
+      "flags": [],
+      "type": "article",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "risk_notes": "",
+      "sources": [
+        "https://x.com/okapi_fukugyo/status/2119299912882123032"
+      ],
+      "fetched_at": "2026-11-18T21:16:27.801951+00:00",
+      "path": "articles/2026-01-29-author-the-complete-guide-to-building-skills-for-claude.md"
     },
     {
       "name": "The Johnson brothers — AIキャラを「家族」に増やす成長プレイブック",

@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1433 件 — リポジトリ 1014, リンク集 121, 記事 229, モデル 55, プロンプト 14 / ⚑ 要確認 1167 件
+収録 1434 件 — リポジトリ 1014, リンク集 121, 記事 230, モデル 55, プロンプト 14 / ⚑ 要確認 1167 件
 
 ## リポジトリ（1014）
 
@@ -1590,9 +1590,9 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（229）
+## 記事（230）
 
-### 記事（165）
+### 記事（166）
 
 - **[$0のデジタル参謀長で月$80,000の契約候補を作ったというX投稿（動画付き）](articles/2026-10-22-bober_smart-0-80-000-x.md)** ⚑  @Bober_smart
 - **[1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md)** ⚑  @mukadeshinigami（mukade死神）
@@ -1716,6 +1716,7 @@
 - **[See's Candies 1972→1998——$25Mが$60Mを生んだ理由を、バフェットがMBA学生に語った](articles/1998-10-15-warren-buffett-see-s-candies-1972-1998-25m-60m-mba-12d8279960.md)** ⚑  Warren Buffett
 - **[Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights](articles/2026-11-02-author-sparks-of-weight-space-programming-llms-can-natively-read-write-neural-network-w.md)** ⚑
 - **[Teaching AI to build scientific models](articles/2026-11-06-author-teaching-ai-to-build-scientific-models.md)**
+- **[The Complete Guide to Building Skills for Claude](articles/2026-01-29-author-the-complete-guide-to-building-skills-for-claude.md)**
 - **[The Johnson brothers — AIキャラを「家族」に増やす成長プレイブック](articles/2026-10-16-y0urdumble-dumble-the-johnson-brothers-ai.md)** ⚑  @Y0urDumble (Dumble)
 - **[The Ultimate LoRA Training Guide for KREA2](articles/2026-07-24-author-the-ultimate-lora-training-guide-for-krea2.md)** ⚑
 - **[The Winners and Losers of AI’s First Big Election](articles/2026-11-10-author-the-winners-and-losers-of-ai-s-first-big-election.md)** ⚑
