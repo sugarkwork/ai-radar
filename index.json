@@ -1,5 +1,5 @@
 {
-  "count": 1543,
+  "count": 1544,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -11706,6 +11706,24 @@
       ],
       "fetched_at": "2026-11-14T21:12:35.480816+00:00",
       "path": "articles/2026-11-04-author-vino-revisiting-3d-representation-learning-with-volume-transformers.md"
+    },
+    {
+      "name": "Vidu S2: Real-Time Interactive, Editable, and Spatial Video Generation",
+      "genre": "article",
+      "url": "https://arxiv.org/abs/2609.11638",
+      "published": "2026-09-10",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "投稿文のOpenSplineやローカルでのサム・アルトマンのアバター事例は、この論文ページでは裏付けられないため、本記事の内容に含めない。論文の実験結果は独立に再現確認していない。",
+      "type": "article",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/ai_hakase_/status/2119415527558840477"
+      ],
+      "fetched_at": "2026-11-22T04:40:36.298670+00:00",
+      "path": "articles/2026-09-10-author-vidu-s2-real-time-interactive-editable-and-spatial-video-generation.md"
     },
     {
       "name": "What Caused the Microsoft 365 Outage of November 12, 2026",

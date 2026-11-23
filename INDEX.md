@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1543 件 — リポジトリ 1096, リンク集 125, 記事 253, モデル 55, プロンプト 14 / ⚑ 要確認 1263 件
+収録 1544 件 — リポジトリ 1096, リンク集 125, 記事 254, モデル 55, プロンプト 14 / ⚑ 要確認 1264 件
 
 ## リポジトリ（1096）
 
@@ -690,7 +690,7 @@
 | [claude-video-effects](entries/video-gen/vibha-ramprakash-claude-video-effects.md) ⚑ | 839 | 202 | 週次 | 9 | 2026-11-09 | 2026-11-10 |  | unknown |
 | [赛博小雅直播版（Cyber Xiaoya Live）](entries/video-gen/cyber-xiaoya-cyber-xiaoya-live.md) | 815 | 350 | 週次 | 18 | 2026-11-09 | 2026-11-09 |  | AGPL-3.0（コードのみ。素材・ブランドは NOTICE で別扱い） |
 | [vibe-knowledge](entries/video-gen/andyhuo520-vibe-knowledge.md) ⚑ | 613 | 92 | 月次 | 3 | 2026-10-28 | 2026-11-10 |  | MIT |
-| [Vidu S](entries/video-gen/shengshu-ai-vidu-s.md) ⚑ | 523 | 15 | 月次 | 0 | 2026-09-20 | 2026-11-22 | 2026-11-23 | unknown |
+| [Vidu S](entries/video-gen/shengshu-ai-vidu-s.md) ⚑ | 523 | 15 | 月次 | 0 | 2026-09-20 | 2026-11-22 |  | unknown |
 | [ComfyUI MiniMax H3 首尾帧视频工作流](entries/video-gen/pixelaigc-comfyui-minimax-h3-workflow.md) ⚑ | 469 | 78 | 停滞 | 0 | 2026-09-10 | 2026-11-15 |  | unknown |
 | [Product Launch Motion](entries/video-gen/abubakrchan-product-launch-motion.md) ⚑ | 452 | 59 | 毎日 | 33 | 2026-10-21 | 2026-11-12 |  | MIT |
 | [comfyui-SelfLift](entries/video-gen/facok-comfyui-selflift.md) ⚑ | 418 | 26 | 月次 | 0 | 2026-09-18 | 2026-11-12 |  | unknown |
@@ -1680,9 +1680,9 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（253）
+## 記事（254）
 
-### 記事（188）
+### 記事（189）
 
 - **[$0のデジタル参謀長で月$80,000の契約候補を作ったというX投稿（動画付き）](articles/2026-10-22-bober_smart-0-80-000-x.md)** ⚑  @Bober_smart
 - **[1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md)** ⚑  @mukadeshinigami（mukade死神）
@@ -1843,6 +1843,7 @@
 - **[Upcoming: New age rating content descriptors in App Store Connect](articles/2026-11-02-author-upcoming-new-age-rating-content-descriptors-in-app-store-connect-533ca96fb6.md)**
 - **[Using ChatGPT at work? Your boss may trust you less, new study finds](articles/2026-11-04-author-using-chatgpt-at-work-your-boss-may-trust-you-less-new-study-finds.md)** ⚑
 - **[VINO: Revisiting 3D Representation Learning with Volume Transformers](articles/2026-11-04-author-vino-revisiting-3d-representation-learning-with-volume-transformers.md)**
+- **[Vidu S2: Real-Time Interactive, Editable, and Spatial Video Generation](articles/2026-09-10-author-vidu-s2-real-time-interactive-editable-and-spatial-video-generation.md)** ⚑
 - **[What Caused the Microsoft 365 Outage of November 12, 2026](articles/2026-11-13-author-what-caused-the-microsoft-365-outage-of-november-12-2026.md)** ⚑
 - **[What are vector embeddings? An interactive guide](articles/2026-10-14-author-what-are-vector-embeddings-an-interactive-guide.md)**
 - **[Xのアカウントデータを使った自己点検の提案](articles/2026-10-23-jarvis11x-x.md)** ⚑  @jarvis11x
@@ -2314,6 +2315,7 @@
 - [Ultralytics YOLO26とSAHIによるスライス推論ガイド](articles/2023-11-12-author-ultralytics-yolo26-sahi.md) — unverified / このガイドのSAHI連携は非推奨です。Ultralyticsは学習・検証・予測で標準のtile引数を使うよう案内しています。掲載された小物体検出やメモリ使用に関する効果は公式資料の説明であり、特定データや環境での独立検証結果ではありません。
 - [UnrealIRCd 6.2.7.1 released & hot-patch to fix 9 security issues, including one CRITICAL (CVE-2026-114713)](articles/2026-11-07-author-unrealircd-6.2.7.1-released-hot-patch-to-fix-9-security-issues-including-one-cri-2b2a5fd876.md) — unverified / 脆弱性の影響や悪用状況、修正内容は投稿者の告知に基づく。独立した検証結果ではない。
 - [Using ChatGPT at work? Your boss may trust you less, new study finds](articles/2026-11-04-author-using-chatgpt-at-work-your-boss-may-trust-you-less-new-study-finds.md) — unverified / 68%対24%は特定の実験で上司役の参加者が従業員を信頼した割合で、職場全般での発生率や実際の昇進結果を示すものではありません。記事の研究紹介は、出版社掲載の論文要旨と大学の研究記録の範囲で確認しました。
+- [Vidu S2: Real-Time Interactive, Editable, and Spatial Video Generation](articles/2026-09-10-author-vidu-s2-real-time-interactive-editable-and-spatial-video-generation.md) — unverified / 投稿文のOpenSplineやローカルでのサム・アルトマンのアバター事例は、この論文ページでは裏付けられないため、本記事の内容に含めない。論文の実験結果は独立に再現確認していない。
 - [What Caused the Microsoft 365 Outage of November 12, 2026](articles/2026-11-13-author-what-caused-the-microsoft-365-outage-of-november-12-2026.md) — unverified / Microsoftは初期のサーバー障害を引き起こした原因をまだ公表していないと記事は説明しています。
 - [Xのアカウントデータを使った自己点検の提案](articles/2026-10-23-jarvis11x-x.md) — unverified / 凍結防止と投稿の拡散効果は未検証。アーカイブには個人情報が含まれる。
 - [iPhone『削除済み写真173,521件』主張の検証（PhotoData/Thumbnails）](articles/2026-10-25-bober_smart-iphone-173-521-photodata-thumbnails.md) — unverified, low-quality / 投稿単体では裏取り不能。同一本文内で183,000超と173,521が矛盾し、ほぼ同文の投稿が他アカウントから145,763/147,863/152,000件など異なる数字で出回る（AI-generated engagement baitとのコミュニティノートあり）。PhotoData/Thumbnailsの存在とサムネイル残存は文献で確認できるが、原寸オリジナル4年分という記述と『Spotlight索引』という説明は不正確。『19アプリが自由に読めた』はAppleのサンドボックス仕様および返信者の検証画像（permission denied）と矛盾。引用X記事はログイン壁、添付動画はフレームの文字が判読不能で、手順・プロンプト・実測値はいずれも未確認。
