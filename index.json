@@ -1,5 +1,5 @@
 {
-  "count": 1494,
+  "count": 1495,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -34540,6 +34540,37 @@
       "fetched_at": "2026-11-17T05:32:48.496739+00:00",
       "path": "entries/other/sumanth077-hands-on-large-language-models.md",
       "summary": "書籍『Hands-On Large Language Models』の全12章に対応するJupyterノートブックを提供する。内容には言語モデルの基礎、トークンと埋め込み、Transformerの内部、テキスト分類、クラスタリングとトピックモデリング、プロンプトエンジニアリング、テキスト生成、意味検索とRAG、マルチモ"
+    },
+    {
+      "name": "SoMarkDown Viewer",
+      "genre": "other",
+      "url": "https://github.com/SoMarkAI/SoMarkDownViewer",
+      "repo": "SoMarkAI/SoMarkDownViewer",
+      "license": "MIT",
+      "stars": 2,
+      "language": "JavaScript",
+      "created": "2026-03-14",
+      "updated": "2026-09-09",
+      "forks": 0,
+      "open_issues": 0,
+      "commits_30d": 0,
+      "commit_cadence": "stale",
+      "commits_90d": 1,
+      "size_kb": 1874,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 有効性。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/ai_hakase_/status/2119370852126908922"
+      ],
+      "fetched_at": "2026-11-19T19:14:37.701695+00:00",
+      "path": "entries/other/somarkai-somarkdownviewer.md",
+      "summary": "SoMarkDown文書をリアルタイム編集・描画する。READMEによると、数式、化学構造（SMILES）、コードのシンタックスハイライトなどを描画でき、双方向の同期スクロールと、クリック位置の双方向ジャンプにも対応する。SoMarkDownはmarkdown-itを基盤とするMarkdown拡張形式と説明されている。"
     },
     {
       "name": "Pay Small Check",

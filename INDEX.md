@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1494 件 — リポジトリ 1058, リンク集 123, 記事 244, モデル 55, プロンプト 14 / ⚑ 要確認 1219 件
+収録 1495 件 — リポジトリ 1059, リンク集 123, 記事 244, モデル 55, プロンプト 14 / ⚑ 要確認 1220 件
 
-## リポジトリ（1058）
+## リポジトリ（1059）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（264）
+### その他（265）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -264,7 +264,7 @@
 | [Strata](entries/other/carthageadev-strata.md) ⚑ | 48 | 3 | 毎日 | 41 | 2026-11-11 | 2026-11-16 |  | unknown |
 | [Voice Workshop (Officina della voce)](entries/other/mithrilman-voice-workshop.md) ⚑ | 37 | 9 | 毎日 | 31 | 2026-11-08 | 2026-11-17 |  | Apache-2.0 |
 | [clash-jev](entries/other/bytelabs-oss-clash-jev.md) ⚑ | 37 | 11 | 月次 | 0 | 2026-10-14 | 2026-11-16 |  | MIT |
-| [SoMarkDown](entries/other/somarkai-somarkdown.md) ⚑ | 34 | 2 | 停滞 | 0 | 2026-09-09 | 2026-11-19 | 2026-11-23 | MIT |
+| [SoMarkDown](entries/other/somarkai-somarkdown.md) ⚑ | 34 | 2 | 停滞 | 0 | 2026-09-09 | 2026-11-19 |  | MIT |
 | [Sprite Pencil](entries/other/256arts-sprite-pencil.md) ⚑ | 28 | 6 | 週次 | 9 | 2026-11-11 | 2026-11-16 |  | unknown |
 | [jevframe](entries/other/ktaletsk-jevframe.md) ⚑ | 21 | 3 | 月次 | 0 | 2026-09-24 | 2026-11-10 |  | MIT |
 | [FossFLOW](entries/other/grujowmi-fossflow.md) ⚑ | 15 | 3 | 停滞 | 0 | 2026-05-22 | 2026-11-16 |  | MIT |
@@ -273,6 +273,7 @@
 | [Jev Grand Prix](entries/other/enoyola-jev-grand-prix.md) ⚑ | 7 | 0 | 月次 | 0 | 2026-09-21 | 2026-11-16 |  | MIT |
 | [剪坊](entries/other/tuyetloanpham08-png-jianfang.md) ⚑ | 7 | 1 | 月次 | 2 | 2026-10-20 | 2026-11-11 |  | unknown |
 | [Hands-On Large Language Models](entries/other/sumanth077-hands-on-large-language-models.md) ⚑ | 4 | 1 | 停滞 | 0 | 2025-05-08 | 2026-11-17 |  | Apache-2.0 |
+| [SoMarkDown Viewer](entries/other/somarkai-somarkdownviewer.md) ⚑ | 2 | 0 | 停滞 | 0 | 2026-09-09 | 2026-11-19 | 2026-11-23 | MIT |
 | [Pay Small Check](entries/other/ahmardchain-pay-small-check.md) ⚑ | 1 | 0 | 毎日 | 32 | 2026-11-07 | 2026-11-16 |  | MIT |
 | [Knowlective](entries/other/knowlective-org-knowlective.md) | 0 | 0 | 毎日 | 100+ | 2026-11-19 | 2026-11-19 |  | AGPL-3.0 |
 | [LapDraw](entries/other/sachinyadavaug20-lapdraw.md) ⚑ | 0 | 0 | 毎日 | 22 | 2026-11-07 | 2026-11-13 |  | MIT |
@@ -2903,6 +2904,7 @@
 - [Jev Grand Prix](entries/other/enoyola-jev-grand-prix.md) — unverified / 作者の試走結果は独立再現していない。TypeSafe APIの現在の料金、利用規約、キーの発行条件は未確認。
 - [剪坊](entries/other/tuyetloanpham08-png-jianfang.md) — unverified / Apple Silicon MacとmacOS 26以降が必要。プレビュー版はApple Developer ID署名・公証がなく、初回起動時にmacOSの許可操作が必要な場合がある。READMEではIntel Macで未検証とされる。 GitHub APIでライセンスを確認できていません。
 - [Hands-On Large Language Models](entries/other/sumanth077-hands-on-large-language-models.md) — unverified / READMEはPython・OS・依存関係によって結果が書籍の例と多少異なる場合があると説明している。個別のノートブックに必要な依存関係や実行条件はREADMEだけでは特定できない。
+- [SoMarkDown Viewer](entries/other/somarkai-somarkdownviewer.md) — unverified / 一次資料で未確認: 有効性。
 - [Pay Small Check](entries/other/ahmardchain-pay-small-check.md) — unverified / 判定の正確さや詐欺被害を防ぐ効果は確認できない。README記載の購入者価格は1チェックあたり$0.08。
 - [169Pi/Alpie_seed](models/other/169pi-alpie_seed.md) — unverified / 61.20はMini-SWE-agent・thinking有効・再試行なし・temperature0のモデルカード自己報告。latestタグだけで画像入力可能とは判断しない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Arete-27B](models/other/nousresearch-arete-27b.md) — unverified / 効果の評価値はNous Researchが設計した803問の評価と同社の判定手順に基づく報告。モデル間の一部比較ではデコード設定が異なるため、一般の利用場面で同じ効果が得られるかは未確認。
