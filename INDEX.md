@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1467 件 — リポジトリ 1037, リンク集 121, 記事 240, モデル 55, プロンプト 14 / ⚑ 要確認 1196 件
+収録 1468 件 — リポジトリ 1038, リンク集 121, 記事 240, モデル 55, プロンプト 14 / ⚑ 要確認 1197 件
 
-## リポジトリ（1037）
+## リポジトリ（1038）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -121,7 +121,7 @@
 | [StatiCrypt](entries/other/robinmoisson-staticrypt.md) ⚑ | 8,074 | 502 | 停滞 | 0 | 2026-07-06 | 2026-11-14 |  | MIT |
 | [HomeBox](entries/other/sysadminsmedia-homebox.md) ⚑ | 7,842 | 620 | 毎日 | 22 | 2026-11-07 | 2026-11-12 |  | AGPL-3.0 |
 | [APScheduler](entries/other/agronholm-apscheduler.md) | 7,706 | 832 | 月次 | 1 | 2026-10-26 | 2026-11-16 |  | MIT |
-| [BackstopJS](entries/other/garris-backstopjs.md) ⚑ | 7,205 | 617 | 停滞 | 0 | 2026-10-10 | 2026-11-19 | 2026-11-23 | MIT |
+| [BackstopJS](entries/other/garris-backstopjs.md) ⚑ | 7,205 | 617 | 停滞 | 0 | 2026-10-10 | 2026-11-19 |  | MIT |
 | [Nuxt UI](entries/other/nuxt-ui.md) | 7,061 | 1,154 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 |  | MIT |
 | [flubber](entries/other/veltman-flubber.md) ⚑ | 6,966 | 171 | 停滞 | 0 | 2022-11-08 | 2026-11-11 |  | MIT |
 | [Kando](entries/other/kando-menu-kando.md) ⚑ | 6,646 | 242 | 毎日 | 60 | 2026-11-12 | 2026-11-14 |  | unknown |
@@ -779,7 +779,7 @@
 | [3dmodel](entries/3d-motion/fletcherholt-3dmodel-skill.md) ⚑ | 7 | 0 | 停滞 | 0 | 2026-06-16 | 2026-11-16 |  | unknown |
 | [Lida-V/LidaAngelToon](entries/3d-motion/lida-v-lidaangeltoon.md) ⚑ | 7 | 0 | 月次 | 0 | 2026-10-17 | 2026-11-16 |  | NOASSERTION |
 
-### モデル推論・配信（48）
+### モデル推論・配信（49）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -831,6 +831,7 @@
 | [ttf-home](entries/model-serving/oguzeldereli-ttf-home.md) ⚑ | 18 | 4 | 毎日 | 100+ | 2026-11-17 | 2026-11-18 |  | unknown |
 | [ausboss/ComfyUI-AusBoss-Model-Downloader](entries/model-serving/ausboss-comfyui-ausboss-model-downloader.md) ⚑ | 9 | 1 | 週次 | 9 | 2026-11-15 | 2026-11-16 |  | MIT |
 | [Qwen3.8 Weight-Space Programming (Calmer V2)](entries/model-serving/xananthium-qwen3.8-weight-space-programming.md) ⚑ | 4 | 0 | 月次 | 3 | 2026-11-07 | 2026-11-18 |  | Apache-2.0 |
+| [SwiftPulse](entries/model-serving/sineld-swiftpulse.md) ⚑ | 2 | 0 | 週次 | 4 | 2026-11-07 | 2026-11-19 | 2026-11-23 | MIT |
 
 ### 音声・TTS（44）
 
@@ -2614,6 +2615,7 @@
 - [ttf-home](entries/model-serving/oguzeldereli-ttf-home.md) — unverified / README сообщает о скоростях, точности и качестве аудио, но это заявления автора; независимая проверка не проводилась. Лицензия репозитория не указана в измеренных данных. GitHub APIでライセンスを確認できていません。
 - [ausboss/ComfyUI-AusBoss-Model-Downloader](entries/model-serving/ausboss-comfyui-ausboss-model-downloader.md) — unverified / 既存ファイルは上書きせず再ハッシュもしないため完全性の証明にはならない。取得したモデルは実行しない設計だが配布元・トークン・重みの権利確認は必要。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Qwen3.8 Weight-Space Programming (Calmer V2)](entries/model-serving/xananthium-qwen3.8-weight-space-programming.md) — unverified / 一次資料で未確認: 技術背景。
+- [SwiftPulse](entries/model-serving/sineld-swiftpulse.md) — unverified / 一次資料で未確認: 有効性。
 - [ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF](models/model-serving/ista-daslab-qwen3.8-flash-next-gsq-rco-gguf.md) — unverified / Unsloth版との性能比較は個人の感想で独立測定なし。量子化方式と条件の違いをファイルサイズだけで評価しない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [LoopVQ: Sub 1-bit KV Cache Quantization for Looped Transformers](articles/2026-11-03-minsoo-cheong-sungjoo-yoo-loopvq-sub-1-bit-kv-cache-quantization-for-looped-transformers.md) — unverified / 評価値は著者の報告。独立再現、評価対象外のモデルや実行環境への一般化、依存コンポーネントとモデル重みの個別利用条件は未検証。
 - [NVIDIA API Catalog / NIM無料推論エンドポイント](links/model-serving/https-build.nvidia.com.md) — unverified / 無料は試用エンドポイントの提供条件であり無制限・恒久無料ではない。カード不要とレート制限は未確認。API呼び出しはしていない。 当方でインストール・推論・生成・ベンチ再現はしていない。

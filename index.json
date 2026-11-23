@@ -1,5 +1,5 @@
 {
-  "count": 1467,
+  "count": 1468,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -25725,6 +25725,37 @@
       "fetched_at": "2026-11-18T02:19:13.192429+00:00",
       "path": "entries/model-serving/xananthium-qwen3.8-weight-space-programming.md",
       "summary": "Qwen3.8 27Bのモデル重みに固定の疎な補正を加えたCalmer V1/V2を紹介し、V2のモデル配布先、研究報告、実行パッケージ、フィッティングコード、マージ済みエクスポートの記録へ案内している。README記載の評価は探索的な小規模パネルで、一般的なベンチマーク結果ではない。"
+    },
+    {
+      "name": "SwiftPulse",
+      "genre": "model-serving",
+      "url": "https://github.com/sineld/SwiftPulse",
+      "repo": "sineld/SwiftPulse",
+      "stars": 2,
+      "forks": 0,
+      "open_issues": 0,
+      "size_kb": 2487,
+      "language": "Swift",
+      "created": "2026-11-07",
+      "updated": "2026-11-07",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 4,
+      "commits_90d": 4,
+      "commit_cadence": "weekly",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 有効性。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/sineld/status/2119203224909500565"
+      ],
+      "fetched_at": "2026-11-19T08:09:14.680649+00:00",
+      "path": "entries/model-serving/sineld-swiftpulse.md",
+      "summary": "サーバーのライブメトリクスをダッシュボードに表示し、SSHターミナル、SFTPファイルブラウザー、ポート転送、Dockerパネル、再利用可能なスニペットを提供する。AIエージェント向けMCPサーバーも含み、変更ごとに利用者の承認を求めるとREADMEに記載されている。"
     },
     {
       "type": "model",
