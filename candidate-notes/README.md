@@ -10,6 +10,8 @@
 
 - [X: ziwenxu_ の投稿](https://x.com/ziwenxu_/status/2119642664253723053)
   - 確認結果（注記）: 候補の対象が複数あり、一意に特定できませんでした。
+- [X: zazzy_stardust の投稿](https://x.com/zazzy_stardust/status/2124466163296121225)
+  - 公開に必須の根拠がそろっていません。 確認できた対象種別: モデル。 照合済み参照先: <https://huggingface.co/tuanlai001/H3-IMAGE-PE-HERETIC-NVFP4-COMFYUI>。
 - [X: xsmryze の投稿](https://x.com/xsmryze/status/2119572331429318978)
   - 確認結果（注記）: 候補の対象が複数あり、一意に特定できませんでした。
   - 公開に必須の根拠がそろっていません。 確認できた対象種別: 外部サイト。
@@ -19,6 +21,10 @@
 - [X: wquguru の投稿](https://x.com/wquguru/status/2119630602366488732)
   - 確認結果（注記）: 対象を裏付ける公開一次資料を確認できませんでした。 確認できた対象種別: プロンプト。
   - 公開に必須の根拠がそろっていません。 確認できた対象種別: プロンプト。
+- [X: wk_worldklng の投稿](https://x.com/wk_worldklng/status/2124457191595982902)
+  - 元画像を確認できず、画像内の内容は未検証です。
+- [X: wilderko の投稿](https://x.com/wilderko/status/2124670470708474007)
+  - 公開に必須の根拠がそろっていません。 確認できた対象種別: 外部サイト。
 - [X: whyshivang の投稿](https://x.com/whyshivang/status/2119380173883642289)
   - 確認結果（注記）: 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 - [X: tushenmei の投稿](https://x.com/tushenmei/status/2124380851270226206)
@@ -48,6 +54,8 @@
 - [X: tokufxug の投稿](https://x.com/tokufxug/status/2119612543274790988)
   - 公開に必須の根拠がそろっていません。 確認できた対象種別: 外部サイト。
 - [X: tokufxug の投稿](https://x.com/tokufxug/status/2119612469350117825)
+  - 確認結果（注記）: 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+- [X: thepirateface の投稿](https://x.com/thepirateface/status/2124672021770785250)
   - 確認結果（注記）: 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 - [X: tetumemo の投稿](https://x.com/tetumemo/status/2119675953622536237)
   - 確認結果（注記）: 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
@@ -167,6 +175,10 @@
   - 公開に必須の根拠がそろっていません。 確認できた対象種別: 外部サイト。
 - [X: sourabh280598 の投稿](https://x.com/sourabh280598/status/2124438997225165248)
   - 確認結果（注記）: 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+- [X: sep_is_heim の投稿](https://x.com/sep_is_heim/status/2119676338223411695)
+  - 公開に必須の根拠がそろっていません。 確認できた対象種別: モデル。 照合済み参照先: <https://huggingface.co/VideoRebirthAI/hyperflow-h3-flash>。
+- [X: sep_is_heim の投稿](https://x.com/sep_is_heim/status/2119676279561847111)
+  - 確認結果（注記）: 元投稿と配布先が同一対象であることを裏付けられませんでした。
 - [X: sep_is_heim の投稿](https://x.com/sep_is_heim/status/2119676034744533176)
   - 確認結果（注記）: 元投稿と配布先が同一対象であることを裏付けられませんでした。
 - [X: scott_000016 の投稿](https://x.com/scott_000016/status/2119263646559895885)
@@ -178,6 +190,8 @@
   - 公開に必須の根拠がそろっていません。 確認できた対象種別: 外部サイト。 照合済み参照先: <https://x.com/lavemowill/status/2119051582222336180>。
 - [X: sato_kazu0 の投稿](https://x.com/sato_kazu0/status/2124067779771060463)
   - 対象外と判断する根拠が元投稿・元リンクに結びつきません。
+- [X: ryuzee の投稿](https://x.com/ryuzee/status/2124453884295057520)
+  - 公開に必須の根拠がそろっていません。 確認できた対象種別: 外部サイト。
 - [X: ruyi3699 の投稿](https://x.com/ruyi3699/status/2119659497807638612)
   - 公開に必須の根拠がそろっていません。 確認できた対象種別: 外部サイト。
 - [X: ruyi3699 の投稿](https://x.com/ruyi3699/status/2119563615837552919)
@@ -186,6 +200,12 @@
   - 確認結果（注記）: 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
   - 確認結果（注記）: 対象を裏付ける公開一次資料を確認できませんでした。 確認できた対象種別: 外部サイト。
   - 公開に必須の根拠がそろっていません。 確認できた対象種別: 外部サイト。
+- [X: rna4219 の投稿](https://x.com/rna4219/status/2124535975905026051)
+  - 確認結果（注記）: 元投稿と配布先が同一対象であることを裏付けられませんでした。
+  - 公開に必須の根拠がそろっていません。 確認できた対象種別: 外部サイト。
+- [X: rS_alonewolf の投稿](https://x.com/rS_alonewolf/status/2124686361425068046)
+  - 確認結果（注記）: 対象を裏付ける公開一次資料を確認できませんでした。
+  - 確認結果（注記）: 対象を裏付ける公開一次資料を確認できませんでした。 確認できた対象種別: モデル。 照合済み参照先: <https://huggingface.co/OBLITERATUS/Inkling-2-Mini-OBLITERATED-vocab-surgery-experimental>。
 - [X: qtfyaccc の投稿](https://x.com/qtfyaccc/status/2124124340522217502)
   - 確認結果（注記）: 元投稿と配布先が同一対象であることを裏付けられませんでした。
 - [X: okapi_fukugyo の投稿](https://x.com/okapi_fukugyo/status/2119575701917745320)
@@ -205,10 +225,14 @@
   - 確認結果（注記）: 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 - [X: mozza_dev の投稿](https://x.com/mozza_dev/status/2119591086381543901)
   - 確認結果（注記）: 元投稿と配布先が同一対象であることを裏付けられませんでした。
+- [X: mingzi206 の投稿](https://x.com/mingzi206/status/2119676422101028915)
+  - 公開に必須の根拠がそろっていません。 確認できた対象種別: モデル。 照合済み参照先: <https://huggingface.co/mradermacher/gemma-4-31B-it-ARA-heretic-GGUF>。
 - [X: mingzi206 の投稿](https://x.com/mingzi206/status/2119619306296393967)
   - 確認結果（注記）: 候補の対象が複数あり、一意に特定できませんでした。
 - [X: mei_999_ の投稿](https://x.com/mei_999_/status/2119646771676848334)
   - 公開に必須の根拠がそろっていません。 確認できた対象種別: 外部サイト。
+- [X: mapte_fireball の投稿](https://x.com/mapte_fireball/status/2124512673685709159)
+  - 確認結果（注記）: 元投稿と配布先が同一対象であることを裏付けられませんでした。
 - [X: luev101 の投稿](https://x.com/luev101/status/2124380980031205448)
   - 確認結果（注記）: 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 - [X: ll685998568638 の投稿](https://x.com/ll685998568638/status/2124379884700975397)
@@ -218,6 +242,8 @@
   - 公開に必須の根拠がそろっていません。 確認できた対象種別: 記事。
 - [X: kiyoshi_shin の投稿](https://x.com/kiyoshi_shin/status/2119553011857166793)
   - 確認結果（注記）: 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+- [X: kagami_kami_m の投稿](https://x.com/kagami_kami_m/status/2124783260895179077)
+  - 確認結果（注記）: 候補の対象が複数あり、一意に特定できませんでした。
 - [X: jarvis11x の投稿](https://x.com/jarvis11x/status/2119640178826650048)
   - 確認結果（注記）: 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
   - 確認結果（注記）: 対象を裏付ける公開一次資料を確認できませんでした。 確認できた対象種別: 外部サイト。
@@ -229,6 +255,8 @@
 - [X: gold0_fx の投稿](https://x.com/gold0_fx/status/2124732817305133565)
   - 確認結果（注記）: 候補の対象が複数あり、一意に特定できませんでした。
   - 確認結果（注記）: 対象を裏付ける公開一次資料を確認できませんでした。
+- [X: genkifine_hero の投稿](https://x.com/genkifine_hero/status/2124771431666049100)
+  - 公開に必須の根拠がそろっていません。 確認できた対象種別: 記事。
 - [X: ganfanren_ai の投稿](https://x.com/ganfanren_ai/status/2119671658244096427)
   - 確認結果（注記）: 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: ganfanren_ai の投稿](https://x.com/ganfanren_ai/status/2119670379379822779)
@@ -262,6 +290,11 @@
   - 元画像を確認できず、画像内の内容は未検証です。
 - [X: ganfanren_ai の投稿](https://x.com/ganfanren_ai/status/2119604628325318825)
   - 元画像を確認できず、画像内の内容は未検証です。
+- [X: foodloss_otoko の投稿](https://x.com/foodloss_otoko/status/2124557763594637648)
+  - 確認結果（注記）: 対象を裏付ける公開一次資料を確認できませんでした。
+  - 公開に必須の根拠がそろっていません。 確認できた対象種別: 記事。
+- [X: foodloss_otoko の投稿](https://x.com/foodloss_otoko/status/2124556410143019415)
+  - 公開に必須の根拠がそろっていません。 確認できた対象種別: 記事。
 - [X: flxrnc の投稿](https://x.com/flxrnc/status/2124608918899118512)
   - 確認結果（注記）: 候補の対象が複数あり、一意に特定できませんでした。
   - 公開に必須の根拠がそろっていません。 確認できた対象種別: 記事。
@@ -272,6 +305,9 @@
 - [X: dustman_tips の投稿](https://x.com/dustman_tips/status/2119639753461276733)
   - 確認結果（注記）: 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 - [X: dngzsn37461 の投稿](https://x.com/dngzsn37461/status/2119617507355201952)
+  - 確認結果（注記）: 元投稿と配布先が同一対象であることを裏付けられませんでした。
+- [X: dextune の投稿](https://x.com/dextune/status/2119676358678716516)
+  - 確認結果（注記）: 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
   - 確認結果（注記）: 元投稿と配布先が同一対象であることを裏付けられませんでした。
 - [X: dextune の投稿](https://x.com/dextune/status/2119671328634736947)
   - 確認結果（注記）: 元投稿と配布先が同一対象であることを裏付けられませんでした。
@@ -310,12 +346,20 @@
 - [X: brunosolenne の投稿](https://x.com/brunosolenne/status/2124609630399758834)
   - 公開に必須の根拠がそろっていません。 確認できた対象種別: 外部サイト。
   - 公開に必須の根拠がそろっていません。 確認できた対象種別: リポジトリ。 照合済み参照先: <https://github.com/alexgreensh/anidoodle>。
+- [X: bkdgiffug の投稿](https://x.com/bkdgiffug/status/2124514488401760732)
+  - 公開に必須の根拠がそろっていません。 確認できた対象種別: 外部サイト。
 - [X: bkdgiffug の投稿](https://x.com/bkdgiffug/status/2119605139312931086)
   - 確認結果（注記）: 対象を裏付ける公開一次資料を確認できませんでした。 確認できた対象種別: リポジトリ。 照合済み参照先: <https://github.com/FareedKhan-dev/train-llm-from-scratch>。
 - [X: bei351009016 の投稿](https://x.com/bei351009016/status/2119264078279606285)
   - 確認結果（注記）: 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
   - 確認結果（注記）: 元投稿と配布先が同一対象であることを裏付けられませんでした。
+- [X: ats の投稿](https://x.com/ats/status/2124664383473172805)
+  - 公開に必須の根拠がそろっていません。 確認できた対象種別: モデル。 照合済み参照先: <https://huggingface.co/gustavecortal/PhiloLM>。
 - [X: ailatetoclass の投稿](https://x.com/ailatetoclass/status/2119384289867714662)
+  - 確認結果（注記）: 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+- [X: aiaicreate の投稿](https://x.com/aiaicreate/status/2124671644266635690)
+  - 確認結果（注記）: 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+- [X: ai_hakase_ の投稿](https://x.com/ai_hakase_/status/2124444282194960756)
   - 確認結果（注記）: 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 - [X: ai_hakase_ の投稿](https://x.com/ai_hakase_/status/2119672839364063259)
   - 確認結果（注記）: 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
@@ -385,6 +429,9 @@
   - 公開に必須の根拠がそろっていません。 確認できた対象種別: 記事。
 - [X: aaronmphilip の投稿](https://x.com/aaronmphilip/status/2119381107758244206)
   - 確認結果（注記）: 候補の対象が複数あり、一意に特定できませんでした。
+- [X: _avichawla の投稿](https://x.com/_avichawla/status/2124758790910460337)
+  - 確認結果（注記）: 元投稿と配布先が同一対象であることを裏付けられませんでした。
+  - 公開に必須の根拠がそろっていません。 確認できた対象種別: 記事。
 - [X: XxhufO の投稿](https://x.com/XxhufO/status/2119251018655613000)
   - 確認結果（注記）: 対象を裏付ける公開一次資料を確認できませんでした。 確認できた対象種別: 外部サイト。
   - 公開に必須の根拠がそろっていません。 確認できた対象種別: 記事。
@@ -440,6 +487,8 @@
 - [X: PayneL_AI の投稿](https://x.com/PayneL_AI/status/2119654553352360435)
   - 確認結果（注記）: 元投稿と配布先が同一対象であることを裏付けられませんでした。
   - 公開に必須の根拠がそろっていません。 確認できた対象種別: 外部サイト。
+- [X: Oluwaphilemon1 の投稿](https://x.com/Oluwaphilemon1/status/2124710540651942266)
+  - 確認結果（注記）: 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 - [X: NVIDIAAI の投稿](https://x.com/NVIDIAAI/status/2119667554256044349)
   - 確認結果（注記）: 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 - [X: NVIDIAAI の投稿](https://x.com/NVIDIAAI/status/2119667551982813584)
@@ -473,6 +522,8 @@
   - 確認結果（注記）: 元投稿と配布先が同一対象であることを裏付けられませんでした。
 - [X: NFT_Chen の投稿](https://x.com/NFT_Chen/status/2119556563052716181)
   - 確認結果（注記）: 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
+- [X: MikeTamir の投稿](https://x.com/MikeTamir/status/2124557287352066104)
+  - 確認結果（注記）: 元投稿と配布先が同一対象であることを裏付けられませんでした。
 - [X: Machinedelusion の投稿](https://x.com/Machinedelusion/status/2119653457649103347)
   - 公開に必須の根拠がそろっていません。 確認できた対象種別: モデル。 照合済み参照先: <https://huggingface.co/ccore/Qwen3.5-4B-GLB-3D-Coder>。
 - [X: Machinedelusion の投稿](https://x.com/Machinedelusion/status/2119614199047340097)
@@ -497,12 +548,19 @@
   - 公開に必須の根拠がそろっていません。 確認できた対象種別: 記事。
 - [X: Imaha486 の投稿](https://x.com/Imaha486/status/2119628587729056241)
   - 公開に必須の根拠がそろっていません。 確認できた対象種別: 記事。
+- [X: HoneyBiu の投稿](https://x.com/HoneyBiu/status/2124496916855545962)
+  - 公開に必須の根拠がそろっていません。 確認できた対象種別: リポジトリ。 照合済み参照先: <https://github.com/Jermic/awesome-aiart-pics-prompts>。
+- [X: Gorden_Sun の投稿](https://x.com/Gorden_Sun/status/2124519993903894629)
+  - 公開に必須の根拠がそろっていません。 確認できた対象種別: モデル。 照合済み参照先: <https://huggingface.co/SulphurAI/Sulphur-3>。
+  - 公開に必須の根拠がそろっていません。 確認できた対象種別: モデル。 照合済み参照先: <https://huggingface.co/TenStrip/10Eros-Max>。
 - [X: GeekNewsHada の投稿](https://x.com/GeekNewsHada/status/2119251654914785292)
   - 確認結果（注記）: 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 - [X: GOROman の投稿](https://x.com/GOROman/status/2099848223641027068)
   - 公開に必須の根拠がそろっていません。 確認できた対象種別: 外部サイト。
 - [X: FaridaNever の投稿](https://x.com/FaridaNever/status/2124580081246835090)
   - 確認結果（注記）: 対象を裏付ける公開一次資料を確認できませんでした。
+- [X: FaridaNever の投稿](https://x.com/FaridaNever/status/2119409497152094326)
+  - 公開に必須の根拠がそろっていません。 確認できた対象種別: 記事。
 - [X: Eileeness160708 の投稿](https://x.com/Eileeness160708/status/2119659638794973394)
   - 確認結果（注記）: 対象を裏付ける公開一次資料を確認できませんでした。 確認できた対象種別: 記事。
   - 公開に必須の根拠がそろっていません。 確認できた対象種別: 記事。
@@ -512,6 +570,11 @@
   - 確認結果（注記）: 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 - [X: DailyAI_Hacks の投稿](https://x.com/DailyAI_Hacks/status/2124381368230768833)
   - 公開に必須の根拠がそろっていません。 確認できた対象種別: 記事。
+- [X: Cora64189920179 の投稿](https://x.com/Cora64189920179/status/2124561726318469491)
+  - 公開に必須の根拠がそろっていません。 確認できた対象種別: 記事。
+- [X: CaryPalmerr の投稿](https://x.com/CaryPalmerr/status/2124743046570954966)
+  - 確認結果（注記）: 元投稿と配布先が同一対象であることを裏付けられませんでした。
+  - 公開に必須の根拠がそろっていません。 確認できた対象種別: モデル。 照合済み参照先: <https://huggingface.co/CaryPalmer/Kintsugi-Inkling-2-Mini>。
 - [X: Bober_smart の投稿](https://x.com/Bober_smart/status/2119553678277251193)
   - 公開に必須の根拠がそろっていません。 確認できた対象種別: 記事。
 - [X: Awed_Urshy の投稿](https://x.com/Awed_Urshy/status/2119608704354197651)
