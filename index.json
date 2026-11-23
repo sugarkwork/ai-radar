@@ -1,5 +1,5 @@
 {
-  "count": 1400,
+  "count": 1401,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -31368,6 +31368,37 @@
       "fetched_at": "2026-11-11T18:05:38.246995+00:00",
       "path": "entries/other/magicapple123-resumeforge.md",
       "summary": "READMEでは、求人情報の整理・解析、プロフィールとの適合分析、履歴書の作成とPDF出力、応募状況の追跡、模擬面接と振り返りを扱うと説明されています。プロフィールの事実と生成文を分け、登録内容との不一致や未入力マーカーを警告する機能も記載されています。これらは作者の説明であり、独立した動作確認ではありません。"
+    },
+    {
+      "name": "p5.capture",
+      "genre": "other",
+      "url": "https://github.com/tapioca24/p5.capture",
+      "repo": "tapioca24/p5.capture",
+      "license": "MIT",
+      "stars": 318,
+      "language": "TypeScript",
+      "created": "2022-02-17",
+      "updated": "2026-04-15",
+      "forks": 9,
+      "open_issues": 13,
+      "commits_30d": 0,
+      "commit_cadence": "stale",
+      "commits_90d": 0,
+      "size_kb": 327,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 有効性。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/0xclayo/status/2123016316353155192"
+      ],
+      "fetched_at": "2026-11-18T14:17:41.269915+00:00",
+      "path": "entries/other/tapioca24-p5.capture.md",
+      "summary": "p5.jsのdraw関数にフックして描画フレームを記録し、WebM、GIF、MP4、PNG、JPG、WebPとして書き出せる。GUIでの録画開始・停止のほか、APIで録画を制御できる。READMEでは、画面録画に比べてフレームレートが不安定になりにくいと説明しているが、これは作者の説明であり独立実測ではない。"
     },
     {
       "name": "Image 2 Sculpt",
