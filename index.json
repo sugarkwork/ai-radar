@@ -1,5 +1,5 @@
 {
-  "count": 1406,
+  "count": 1407,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -28380,6 +28380,35 @@
       "fetched_at": "2026-11-14T00:13:41.122820+00:00",
       "path": "entries/other/kando-menu-kando.md",
       "summary": "デスクトップ向けのパイメニュー。アプリの起動、キーボードショートカットのシミュレート、ファイルを開く操作などに使える。マウス、スタイラス、タッチ、コントローラーに対応し、キーボードでも操作できる。"
+    },
+    {
+      "name": "FunClip",
+      "genre": "other",
+      "url": "https://github.com/modelscope/FunClip",
+      "repo": "modelscope/FunClip",
+      "license": "MIT",
+      "stars": 6576,
+      "language": "Python",
+      "created": "2023-05-17",
+      "updated": "2026-11-01",
+      "forks": 778,
+      "open_issues": 19,
+      "commits_30d": 6,
+      "commit_cadence": "weekly",
+      "commits_90d": 24,
+      "size_kb": 45517,
+      "archived": false,
+      "flags": [],
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "risk_notes": "",
+      "sources": [
+        "https://x.com/RoundtableSpace/status/2123027189276778909"
+      ],
+      "fetched_at": "2026-11-18T15:14:58.932641+00:00",
+      "path": "entries/other/modelscope-funclip.md",
+      "summary": "READMEによると、FunASRの音声認識結果からテキスト区間や話者を選んで動画を切り出せます。複数区間の切り出し、動画全体と対象区間のSRT字幕出力にも対応すると説明されています。Paraformer、SeACo-Paraformerのホットワード設定、CAM++による話者認識のほか、SenseVoiceやMOSS"
     },
     {
       "name": "Pedalboard",
