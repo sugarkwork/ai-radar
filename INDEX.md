@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1500 件 — リポジトリ 1064, リンク集 123, 記事 244, モデル 55, プロンプト 14 / ⚑ 要確認 1225 件
+収録 1501 件 — リポジトリ 1065, リンク集 123, 記事 244, モデル 55, プロンプト 14 / ⚑ 要確認 1226 件
 
-## リポジトリ（1064）
+## リポジトリ（1065）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（269）
+### その他（270）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -255,6 +255,7 @@
 | [大模型推理案头手册（开源版）](entries/other/shtjww-llm-inference-capacity-handbook.md) ⚑ | 186 | 0 | 月次 | 0 | 2026-09-20 | 2026-11-16 |  | unknown |
 | [grok-bot-cli](entries/other/scriptedalchemy-grok-bot-cli.md) ⚑ | 181 | 37 | 毎日 | 31 | 2026-11-04 | 2026-11-10 |  | MIT |
 | [RedDownloader](entries/other/jackhammer9-reddownloader.md) ⚑ | 177 | 23 | 停滞 | 0 | 2025-12-08 | 2026-11-17 |  | GPL-3.0 |
+| [DeepSearch](entries/other/techenthusiast167-deepsearch.md) ⚑ | 156 | 24 | 停滞 | 0 | 2025-12-24 | 2026-11-19 | 2026-11-23 | unknown |
 | [jev-guard](entries/other/leepokai-jev-guard.md) ⚑ | 150 | 24 | 月次 | 0 | 2026-10-02 | 2026-11-09 |  | MIT |
 | [Jev Plays Pokémon Red](entries/other/christianmat-jev-pokemon.md) ⚑ | 134 | 11 | 月次 | 0 | 2026-09-28 | 2026-11-16 |  | GPL-2.0 |
 | [muse-grok-x-search](entries/other/kgmkm-muse-grok-x-search.md) ⚑ | 108 | 17 | 月次 | 2 | 2026-11-03 | 2026-11-15 |  | MIT |
@@ -948,7 +949,7 @@
 | [Oxylabs Web API — MCP Server](entries/mcp-server/oxylabs-web-api-mcp.md) ⚑ | 58 | 9 | 毎日 | 28 | 2026-11-09 | 2026-11-17 |  | MIT |
 | [BlendRelay MCP](entries/mcp-server/shefq-blendrelay-mcp.md) | 34 | 3 | 週次 | 10 | 2026-11-09 | 2026-11-17 |  | MIT |
 | [losslesscut-mcp](entries/mcp-server/bariswha-losslesscut-mcp.md) ⚑ | 12 | 0 | 月次 | 3 | 2026-11-12 | 2026-11-16 |  | MIT |
-| [iPhone Control](entries/mcp-server/codejunkie99-iphone-control.md) ⚑ | 10 | 2 | 月次 | 1 | 2026-11-08 | 2026-11-19 | 2026-11-23 | Apache-2.0 |
+| [iPhone Control](entries/mcp-server/codejunkie99-iphone-control.md) ⚑ | 10 | 2 | 月次 | 1 | 2026-11-08 | 2026-11-19 |  | Apache-2.0 |
 | [Kosh](entries/mcp-server/sachinyadavaug20-kosh.md) ⚑ | 5 | 0 | 毎日 | 76 | 2026-11-15 | 2026-11-16 |  | Apache-2.0 |
 | [gmail-browser-mcp](entries/mcp-server/sparsh101sparsh-gmail-browser-mcp.md) ⚑ | 0 | 0 | 毎日 | 88 | 2026-11-13 | 2026-11-16 |  | unknown |
 
@@ -2893,6 +2894,7 @@
 - [大模型推理案头手册（开源版）](entries/other/shtjww-llm-inference-capacity-handbook.md) — unverified / README说明此版本是完整版的开源节选，未包含常数锚定的详细方法、部分 MoE 算例及规划报告模板等内容。 GitHub APIでライセンスを確認できていません。
 - [grok-bot-cli](entries/other/scriptedalchemy-grok-bot-cli.md) — unverified / README に基づく確認。CLI・MCP の実機動作、OS 別の認証互換性、最新 GitHub リリース、Grok Bot 側の料金・プラン条件は未確認。90 日コミット数の 100 は計測上限で、100 件以上を表す。
 - [RedDownloader](entries/other/jackhammer9-reddownloader.md) — unverified / 一次資料で未確認: 依存関係。
+- [DeepSearch](entries/other/techenthusiast167-deepsearch.md) — unverified / READMEから確認できるのは検索URLの生成・保存とブラウザー起動機能です。広範な情報収集やリスク発見などの効果は独立に確認されていません。スクリプトの配布先はREADME記載のGistで、今回その内容は確認していません。 GitHub APIでライセンスを確認できていません。
 - [jev-guard](entries/other/leepokai-jev-guard.md) — unverified / 料金『1,000チェックあたり約4セント』は README の想定（1コール約1kトークン）と Vercel AI Gateway の $0.042/1M input 単価からの試算で、実測の請求額ではない。APIキーは必須（キー未設定時は明示的にエラー）だが、無料枠の有無は一次情報で確認できない。有効性は開発者自身の計測（662スキル走査、ライブAPIでのClaude Code/OpenCode検証）のみで、第三者評価は無い。既定は fail-open（API不達なら許可）で、フックを通らない経路や設定ミスでは回避され得る。README 自身が『guardrail, not a sandbox』と明記している。
 - [Jev Plays Pokémon Red](entries/other/christianmat-jev-pokemon.md) — unverified / クリア結果、所要時間、費用は作者の報告。独立再現、現行の Gateway 料金、別環境での動作は未確認。GitHub の公開 Releases ページにリリースは掲載されていなかった。
 - [muse-grok-x-search](entries/other/kgmkm-muse-grok-x-search.md) — unverified / Grok Buildはベータ版で、利用可能なプランは変更される可能性がある。必要なプランや利用条件はセットアップ時に公式情報で確認すること。
