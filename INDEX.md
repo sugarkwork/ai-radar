@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1377 件 — リポジトリ 973, リンク集 120, 記事 217, モデル 53, プロンプト 14 / ⚑ 要確認 1117 件
+収録 1378 件 — リポジトリ 974, リンク集 120, 記事 217, モデル 53, プロンプト 14 / ⚑ 要確認 1118 件
 
-## リポジトリ（973）
+## リポジトリ（974）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -230,7 +230,7 @@
 | [Pay Small Check](entries/other/ahmardchain-pay-small-check.md) ⚑ | 1 | 0 | 毎日 | 32 | 2026-11-07 | 2026-11-16 | 2026-11-22 | MIT |
 | [LapDraw](entries/other/sachinyadavaug20-lapdraw.md) ⚑ | 0 | 0 | 毎日 | 22 | 2026-11-07 | 2026-11-13 | 2026-11-13 | MIT |
 
-### コーディングエージェント（150）
+### コーディングエージェント（151）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -363,6 +363,7 @@
 | [Hill Climb](entries/coding-agent/bil0000-hill-climb.md) ⚑ | 140 | 5 | 週次 | 8 | 2026-11-12 | 2026-11-17 | 2026-11-22 | MIT |
 | [Flecha](entries/coding-agent/lucianodiisouza-flecha-browser.md) ⚑ | 137 | 22 | 毎日 | 100+ | 2026-11-11 | 2026-11-16 | 2026-11-22 | MIT |
 | [astro-conversion-kit](entries/coding-agent/ethanplusai-astro-conversion-kit.md) ⚑ | 132 | 25 | 毎日 | 100+ | 2026-10-31 | 2026-11-16 | 2026-11-22 | MIT |
+| [FrontAgent](entries/coding-agent/ceilf6-frontagent.md) ⚑ | 125 | 19 | 週次 | 13 | 2026-11-18 | 2026-11-18 | 2026-11-23 | MIT |
 | [Motion AI Kit](entries/coding-agent/motiondivision-ai-kit.md) ⚑ | 119 | 17 | 週次 | 8 | 2026-11-04 | 2026-11-16 | 2026-11-22 | unknown |
 | [Awesome Motion Design Agent Skills](entries/coding-agent/frankxai-awesome-motion-design-agent-skills.md) ⚑ | 114 | 37 | 週次 | 9 | 2026-11-12 | 2026-11-16 | 2026-11-22 | CC0-1.0 |
 | [Pixelbolt](entries/coding-agent/skulitom-pixelbolt.md) ⚑ | 113 | 9 | 毎日 | 100+ | 2026-11-17 | 2026-11-17 | 2026-11-22 | MIT |
@@ -2246,6 +2247,7 @@
 - [Hill Climb](entries/coding-agent/bil0000-hill-climb.md) — unverified / READMEの機能説明と試行例は配布者の記述であり、独立した実機検証ではありません。
 - [Flecha](entries/coding-agent/lucianodiisouza-flecha-browser.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [astro-conversion-kit](entries/coding-agent/ethanplusai-astro-conversion-kit.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
+- [FrontAgent](entries/coding-agent/ceilf6-frontagent.md) — unverified / 一次資料で未確認: 依存関係。
 - [Motion AI Kit](entries/coding-agent/motiondivision-ai-kit.md) — unverified / MotionScore監査、Motion+資料およびソースコードへのアクセスはMotion+会員向け。READMEは料金額を示していない。 GitHub APIでライセンスを確認できていません。
 - [Awesome Motion Design Agent Skills](entries/coding-agent/frankxai-awesome-motion-design-agent-skills.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Pixelbolt](entries/coding-agent/skulitom-pixelbolt.md) — unverified / 一次資料で未確認: 有効性・依存関係・実行条件。

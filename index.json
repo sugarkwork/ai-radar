@@ -1,5 +1,5 @@
 {
-  "count": 1377,
+  "count": 1378,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -15530,6 +15530,37 @@
       "last_release_at": "",
       "path": "entries/coding-agent/ethanplusai-astro-conversion-kit.md",
       "summary": "Agent SkillsとNodeスクリプトで、公開サイトの内容を取得し、Astroサイトへ移行する。READMEは、ページ・メディア・リダイレクト・SEO情報の保持、検証ゲート、複数幅での画面比較、PRとステージング用成果物の作成を説明している。結果の数値は作者による報告であり、独立実測ではない。"
+    },
+    {
+      "name": "FrontAgent",
+      "genre": "coding-agent",
+      "url": "https://github.com/ceilf6/FrontAgent",
+      "repo": "ceilf6/FrontAgent",
+      "license": "MIT",
+      "stars": 125,
+      "language": "TypeScript",
+      "created": "2025-12-16",
+      "updated": "2026-11-18",
+      "forks": 19,
+      "open_issues": 10,
+      "commits_30d": 13,
+      "commit_cadence": "weekly",
+      "commits_90d": 13,
+      "size_kb": 52799,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 依存関係。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/RealMarvelX/status/2119259433029033988"
+      ],
+      "fetched_at": "2026-11-18T07:14:38.713876+00:00",
+      "path": "entries/coding-agent/ceilf6-frontagent.md",
+      "summary": "フロントエンド向けAIコーディングエージェント。CLI、VS Code拡張、デスクトップアプリ、stdio MCPサーバーを提供し、ReactやTypeScriptなどのWeb UIコード生成・リファクタリング、リポジトリ検索、ブラウザーを使った検証を支援するとREADMEは説明している。"
     },
     {
       "name": "Motion AI Kit",
