@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1481 件 — リポジトリ 1047, リンク集 122, 記事 243, モデル 55, プロンプト 14 / ⚑ 要確認 1208 件
+収録 1482 件 — リポジトリ 1048, リンク集 122, 記事 243, モデル 55, プロンプト 14 / ⚑ 要確認 1209 件
 
-## リポジトリ（1047）
+## リポジトリ（1048）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（254）
+### その他（255）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -229,6 +229,7 @@
 | [Introduction to Statistical Learning with Python — Study Journey](entries/other/0xhadyy-isl-python.md) ⚑ | 480 | 44 | 停滞 | 0 | 2026-02-14 | 2026-11-17 |  | unknown |
 | [Life Destiny K-Line（人生 K 线）](entries/other/miounet11-life-kline.md) ⚑ | 479 | 132 | 停滞 | 0 | 2025-12-22 | 2026-11-16 |  | Apache-2.0 |
 | [LINEJS](entries/other/evex-dev-linejs.md) ⚑ | 477 | 106 | 毎日 | 24 | 2026-11-13 | 2026-11-16 |  | MIT |
+| [canvas-record](entries/other/dmnsgn-canvas-record.md) ⚑ | 434 | 25 | 週次 | 4 | 2026-11-13 | 2026-11-19 | 2026-11-23 | MIT |
 | [jev-voice-browser](entries/other/moritzkremb-jev-voice-browser.md) ⚑ | 431 | 71 | 停滞 | 0 | 2026-09-21 | 2026-11-10 |  | MIT |
 | [Hishel](entries/other/karpetrosyan-hishel.md) ⚑ | 422 | 57 | 週次 | 14 | 2026-11-10 | 2026-11-17 |  | BSD-3-Clause |
 | [ResumeForge](entries/other/magicapple123-resumeforge.md) ⚑ | 417 | 19 | 毎日 | 100+ | 2026-11-10 | 2026-11-11 |  | Apache-2.0 |
@@ -737,7 +738,7 @@
 | [UniRig](entries/3d-motion/vast-ai-research-unirig.md) | 2,146 | 211 | 停滞 | 0 | 2026-06-04 | 2026-11-16 |  | MIT |
 | [sand3d](entries/3d-motion/sandflow-ai-sand3d.md) ⚑ | 2,080 | 231 | 毎日 | 25 | 2026-11-16 | 2026-11-16 |  | Apache-2.0 |
 | [three-gpu-pathtracer](entries/3d-motion/gkjohnson-three-gpu-pathtracer.md) ⚑ | 2,056 | 201 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 |  | MIT |
-| [Troika JS](entries/3d-motion/protectwise-troika.md) ⚑ | 1,992 | 161 | 週次 | 4 | 2026-11-02 | 2026-11-19 | 2026-11-23 | MIT |
+| [Troika JS](entries/3d-motion/protectwise-troika.md) ⚑ | 1,992 | 161 | 週次 | 4 | 2026-11-02 | 2026-11-19 |  | MIT |
 | [Inochi2D](entries/3d-motion/inochi2d-inochi2d.md) ⚑ | 1,877 | 76 | 月次 | 1 | 2026-11-10 | 2026-11-16 |  | BSD-2-Clause |
 | [StableGen](entries/3d-motion/sakalond-stablegen.md) | 1,671 | 169 | 毎日 | 74 | 2026-11-04 | 2026-11-16 |  | GPL-3.0 |
 | [React Three Rapier](entries/3d-motion/pmndrs-react-three-rapier.md) ⚑ | 1,665 | 114 | 停滞 | 0 | 2026-10-12 | 2026-11-16 |  | MIT |
@@ -2846,6 +2847,7 @@
 - [Introduction to Statistical Learning with Python — Study Journey](entries/other/0xhadyy-isl-python.md) — unverified / READMEではライセンス、必要な依存関係、実行条件は確認できません。 GitHub APIでライセンスを確認できていません。
 - [Life Destiny K-Line（人生 K 线）](entries/other/miounet11-life-kline.md) — unverified / README describes fortune and prediction features but does not establish their accuracy. Its feature and effect claims are author-provided, not independently verified.
 - [LINEJS](entries/other/evex-dev-linejs.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
+- [canvas-record](entries/other/dmnsgn-canvas-record.md) — unverified / 一次資料で未確認: 有効性・実行条件。
 - [jev-voice-browser](entries/other/moritzkremb-jev-voice-browser.md) — unverified / 性能と費用はREADMEに記載された作者環境での報告で、独立再現、現行のAPI料金・利用条件、確認機構の実効性は未検証。GitHubの公開リリース一覧にはリリースが表示されていない。
 - [Hishel](entries/other/karpetrosyan-hishel.md) — unverified / 一次資料で未確認: 有効性・実行条件。
 - [ResumeForge](entries/other/magicapple123-resumeforge.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
