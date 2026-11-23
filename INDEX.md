@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1411 件 — リポジトリ 1002, リンク集 120, 記事 220, モデル 55, プロンプト 14 / ⚑ 要確認 1145 件
+収録 1412 件 — リポジトリ 1003, リンク集 120, 記事 220, モデル 55, プロンプト 14 / ⚑ 要確認 1146 件
 
-## リポジトリ（1002）
+## リポジトリ（1003）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（233）
+### その他（234）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -219,6 +219,7 @@
 | [rea-toon](entries/other/juneyaooo-rea-toon.md) ⚑ | 253 | 45 | 週次 | 8 | 2026-11-17 | 2026-11-17 | 2026-11-22 | unknown |
 | [Awesome Social Media Skills](entries/other/underleveledbuilder-awesome-social-media-skills.md) ⚑ | 252 | 40 | 毎日 | 33 | 2026-11-08 | 2026-11-10 | 2026-11-10 | CC0-1.0 |
 | [Download Anything (DA)](entries/other/nengong-download-anything.md) ⚑ | 251 | 6 | 毎日 | 32 | 2026-11-08 | 2026-11-17 | 2026-11-22 | unknown |
+| [Best Agent Memory MCP](entries/other/glen-web-app-best-agent-memory-mcp.md) ⚑ | 240 | 9 | 月次 | 2 | 2026-11-05 | 2026-11-18 | 2026-11-23 | CC0-1.0 |
 | [小浣熊阅读](entries/other/aminark-legado-ios.md) ⚑ | 232 | 66 | 毎日 | 22 | 2026-11-13 | 2026-11-16 | 2026-11-22 | GPL-3.0 |
 | [svg.filter.js](entries/other/svgdotjs-svg.filter.js.md) | 224 | 52 | 月次 | 0 | 2026-09-15 | 2026-11-18 | 2026-11-23 | MIT |
 | [fuxi-pdf · 复习pdf](entries/other/stevensun1005-fuxi-pdf.md) ⚑ | 201 | 3 | 週次 | 12 | 2026-10-22 | 2026-11-11 | 2026-11-11 | unknown |
@@ -2725,6 +2726,7 @@
 - [rea-toon](entries/other/juneyaooo-rea-toon.md) — unverified / READMEはライセンスを「Noncommercial」と表示していますが、API計測値はlicense unknownです。具体的なライセンス条件は未確認です。長編シリーズではトークン消費が多く、APIモデルは呼び出しごとに課金されるとREADMEにありますが、実際の費用は未確認です。 GitHub APIでライセンスを確認できていません。
 - [Awesome Social Media Skills](entries/other/underleveledbuilder-awesome-social-media-skills.md) — unverified / 最新リリース、検索スキルの導入と動作、掲載ツールの実効性・安全性・個別の料金や利用条件は未確認。READMEによると、投稿や返信を行う一部のツールはアカウント認証を要し、Cookieをローカルに保存する場合がある。
 - [Download Anything (DA)](entries/other/nengong-download-anything.md) — unverified / READMEではMITと案内されているが、添付の測定値ではlicenseがunknown。対象プラットフォームごとの記載機能や取得可否は、実際の動作を独立に確認していない。 GitHub APIでライセンスを確認できていません。
+- [Best Agent Memory MCP](entries/other/glen-web-app-best-agent-memory-mcp.md) — unverified / 掲載内容はREADMEの記述に基づく。比較対象の各プロジェクトについて独立した動作確認をしたことは、この資料からは確認できない。
 - [小浣熊阅读](entries/other/aminark-legado-ios.md) — unverified / 在线书源和内容由用户自行提供；README 提醒书源兼容性可能受复杂 JavaScript、登录、验证码、WebView 规则及来源网站变化影响。
 - [fuxi-pdf · 复习pdf](entries/other/stevensun1005-fuxi-pdf.md) — unverified / READMEはSkill指示と構築・検証コードをMITと記載する一方、同梱の授業デモ、派生PDF、プレビューはCC BY-NC-SA 4.0と明記。第三者授業素材はコードのMITライセンスに含まれない。 GitHub APIでライセンスを確認できていません。
 - [大模型推理案头手册（开源版）](entries/other/shtjww-llm-inference-capacity-handbook.md) — unverified / README说明此版本是完整版的开源节选，未包含常数锚定的详细方法、部分 MoE 算例及规划报告模板等内容。 GitHub APIでライセンスを確認できていません。

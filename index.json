@@ -1,5 +1,5 @@
 {
-  "count": 1411,
+  "count": 1412,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -31727,6 +31727,37 @@
       "fetched_at": "2026-11-17T23:27:57.115054+00:00",
       "path": "entries/other/nengong-download-anything.md",
       "summary": "READMEによると、CLIとAgent Skillの2つの入口から、動画・画像・音声・記事・論文・電子書籍・共有ファイルなどを取得できる。字幕、カバー画像、独立音声トラック、BibTeX、Markdown、メタデータなどの付属ファイル保存、ファイル形式の検証、Obsidian Vaultへの同期も説明されている。対応"
+    },
+    {
+      "name": "Best Agent Memory MCP",
+      "genre": "other",
+      "url": "https://github.com/Glen-Web-App/best-agent-memory-mcp",
+      "repo": "Glen-Web-App/best-agent-memory-mcp",
+      "license": "CC0-1.0",
+      "stars": 240,
+      "language": "unknown",
+      "created": "2026-11-05",
+      "updated": "2026-11-05",
+      "forks": 9,
+      "open_issues": 0,
+      "commits_30d": 2,
+      "commit_cadence": "monthly",
+      "commits_90d": 2,
+      "size_kb": 23,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "掲載内容はREADMEの記述に基づく。比較対象の各プロジェクトについて独立した動作確認をしたことは、この資料からは確認できない。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/Ryrenz/status/2123055890672529894"
+      ],
+      "fetched_at": "2026-11-18T15:31:37.304724+00:00",
+      "path": "entries/other/glen-web-app-best-agent-memory-mcp.md",
+      "summary": "READMEでは、Claude Code、Cursor、CodexなどのMCPクライアントで利用できる記憶MCPサーバー25件を比較している。各項目について、ホスト型かローカル実行か、記憶の保存形式、取り込み方法、チーム共有、ライセンスや料金を整理している。"
     },
     {
       "name": "小浣熊阅读",
