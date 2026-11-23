@@ -1,5 +1,5 @@
 {
-  "count": 1540,
+  "count": 1541,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -6958,6 +6958,37 @@
       "last_release_at": "",
       "path": "entries/agent-framework/astro-han-karpathy-llm-wiki.md",
       "summary": "LLMエージェントがソースをraw/に取り込み、持続的な知識ページをwiki/に作成・更新する。wiki内を検索してページへの引用付きで回答し、索引・リンク・wikiの状態をlintする。"
+    },
+    {
+      "name": "Pinky",
+      "genre": "agent-framework",
+      "url": "https://github.com/DIYgod/pinky",
+      "repo": "DIYgod/pinky",
+      "stars": 2645,
+      "forks": 277,
+      "open_issues": 18,
+      "size_kb": 58247,
+      "language": "Go",
+      "created": "2026-11-06",
+      "updated": "2026-11-22",
+      "archived": false,
+      "license": "Apache-2.0",
+      "commits_30d": 100,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 実行条件。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/Leviwoyun/status/2119412710240878949"
+      ],
+      "fetched_at": "2026-11-22T04:31:56.048232+00:00",
+      "path": "entries/agent-framework/diygod-pinky.md",
+      "summary": "MCP対応エージェントからiPhoneやAndroid端末を操作でき、画面を見ながら危険な操作を承認したり、操作を引き継いだりできる。Pinkyアプリ単独で、利用者が選んだAIモデルを使ってタスクを実行する機能もREADMEに記載されている。銀行・ウォレット・パスワード管理アプリは既定でエージェントから見えず、パスワー"
     },
     {
       "repo": "Tencent-Hunyuan/Hy-Memory",

@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1540 件 — リポジトリ 1093, リンク集 125, 記事 253, モデル 55, プロンプト 14 / ⚑ 要確認 1260 件
+収録 1541 件 — リポジトリ 1094, リンク集 125, 記事 253, モデル 55, プロンプト 14 / ⚑ 要確認 1261 件
 
-## リポジトリ（1093）
+## リポジトリ（1094）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -464,7 +464,7 @@
 | [Leash](entries/coding-agent/cmaintz-leash.md) ⚑ | 0 | 0 | 毎日 | 20 | 2026-11-15 | 2026-11-16 |  | MIT |
 | [grok-x](entries/coding-agent/stat-guy-grok-x.md) ⚑ | 0 | 0 | 停滞 | 0 | 2026-03-19 | 2026-11-16 |  | unknown |
 
-### エージェント基盤・スキル集（136）
+### エージェント基盤・スキル集（137）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -562,6 +562,7 @@
 | [PaperOrchestra](entries/agent-framework/google-research-paper-orchestra.md) ⚑ | 2,982 | 413 | 週次 | 6 | 2026-11-15 | 2026-11-18 |  | Apache-2.0 |
 | [NanmiCoder/dsh-agent-teams](entries/agent-framework/nanmicoder-dsh-agent-teams.md) ⚑ | 2,978 | 245 | 毎日 | 71 | 2026-11-13 | 2026-11-16 |  | MIT |
 | [karpathy-llm-wiki](entries/agent-framework/astro-han-karpathy-llm-wiki.md) ⚑ | 2,755 | 317 | 停滞 | 0 | 2026-07-23 | 2026-11-16 |  | MIT |
+| [Pinky](entries/agent-framework/diygod-pinky.md) ⚑ | 2,645 | 277 | 毎日 | 100+ | 2026-11-22 | 2026-11-22 | 2026-11-23 | Apache-2.0 |
 | [Hy Memory](entries/agent-framework/tencent-hunyuan-hy-memory.md) ⚑ | 2,068 | 152 | 毎日 | 100+ | 2026-11-15 | 2026-11-16 |  | Apache-2.0 |
 | [stripe/ai](entries/agent-framework/stripe-ai.md) ⚑ | 2,068 | 385 | 毎日 | 61 | 2026-11-16 | 2026-11-16 |  | MIT |
 | [Nod](entries/agent-framework/n8n-io-nod.md) ⚑ | 2,019 | 272 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 |  | Apache-2.0 |
@@ -1051,7 +1052,7 @@
 | [serenity-stock-choke](entries/finance-quant/fadewalk-serenity-stock-choke.md) | 535 | 56 | 月次 | 0 | 2026-10-06 | 2026-11-16 |  | MIT |
 | [A-Share Quant Selector](entries/finance-quant/dzy-hw-xd-a-share-quant-selector.md) | 515 | 110 | 停滞 | 0 | 2026-09-08 | 2026-11-16 |  | MIT |
 | [polymarket-trade-engine](entries/finance-quant/kaustubhpatange-polymarket-trade-engine.md) ⚑ | 323 | 91 | 停滞 | 0 | 2026-06-08 | 2026-11-16 |  | MIT |
-| [BreakoutAnalysis](entries/finance-quant/calesthio-breakoutanalysis.md) ⚑ | 286 | 70 | 停滞 | 0 | 2026-02-23 | 2026-11-22 | 2026-11-23 | MIT |
+| [BreakoutAnalysis](entries/finance-quant/calesthio-breakoutanalysis.md) ⚑ | 286 | 70 | 停滞 | 0 | 2026-02-23 | 2026-11-22 |  | MIT |
 | [kline-structure-chart](entries/finance-quant/xiongcp-stock-skill.md) ⚑ | 121 | 2 | 毎日 | 95 | 2026-11-18 | 2026-11-20 |  | Apache-2.0 |
 | [trade-jev](entries/finance-quant/justinhe16-trade-jev.md) ⚑ | 13 | 3 | 毎日 | 20 | 2026-11-13 | 2026-11-16 |  | MIT |
 | [Jev Paper Trader](entries/finance-quant/mojoai-king-jev-paper-trader.md) ⚑ | 3 | 1 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 |  | unknown |
@@ -2137,6 +2138,7 @@
 - [PaperOrchestra](entries/agent-framework/google-research-paper-orchestra.md) — unverified / データセットはこのリポジトリに含まれず、READMEでは別途公開予定とされています。利用するモデルに応じたAPIキー等が必要ですが、利用料金や生成物の品質はREADMEから確認できません。
 - [NanmiCoder/dsh-agent-teams](entries/agent-framework/nanmicoder-dsh-agent-teams.md) — unverified / 10選への掲載はチーム動作や品質改善の実証ではない。タスク競合・外部操作の承認は未検証。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [karpathy-llm-wiki](entries/agent-framework/astro-han-karpathy-llm-wiki.md) — unverified / READMEに記載された利用統計や運用実績はREADME上の説明であり、独立検証していない。インストール方法としてnpx add-skillが記載されているが、実行条件や追加依存関係はREADMEだけでは確認できない。
+- [Pinky](entries/agent-framework/diygod-pinky.md) — unverified / 一次資料で未確認: 実行条件。
 - [Hy Memory](entries/agent-framework/tencent-hunyuan-hy-memory.md) — unverified / 投稿の数値のうち multi-hop recall 50%→90% は Tencent 公式サイトの導入事例グラフ（「多跳召回提升 40 个百分点」、棒グラフ50→90）と Tencent AI 公式X投稿で確認した。記憶量51.8%減・呼び出しトークン39.3%減は Tencent AI 公式X投稿（2026-10-16）の文言にのみ存在し、README・製品サイト・公開論文アブストラクトには該当記述が見つからず、第三者検証もない。pip install hy-memory==2.0.3 は実在（PyPI公開 2026-10-17）するが最新は 2.0.14（READMEも2.0.4以上を案内）。MemHub は preview 段階で、macOS は arm64 のみ・Windows非対応。GitHub API の license は Other/NOASSERTION を返すが、LICENSE 本文と README は Apache-2.0 と明記している。
 - [stripe/ai](entries/agent-framework/stripe-ai.md) — unverified / 投稿が『Stripe agent toolkit』と呼ぶ @stripe/agent-toolkit は、READMEで『今後の更新・セキュリティ修正なし』と明記され、ホスト型MCP（https://mcp.stripe.com）への移行が推奨されている。新規導入では非推奨パッケージを選ばないこと。ベンチマークはStripe自身が3回の最良値を採る社内評価で、独立再現ではない。投稿の請求書・決済リンクの即時発行、$3,000–6,000、48 leads / 12 pitches / 1 signed は動作確認していない。当方でプラグイン導入・MCP接続・決済試験はしていない。
 - [Nod](entries/agent-framework/n8n-io-nod.md) — low-quality, unverified / READMEに「Status: research preview」と明記されています。 研究プレビューです。対応OSはmacOS 14以降（Apple siliconまたはIntel）とWindows 11プレビュー、利用条件はChatGPT Plus/ProまたはAIキーとREADMEに記載されています。Windowsの正式対応状況や、利用するモデル・プロバイダーごとの費用はこのREADME抜粋から確認できません。
