@@ -1,5 +1,5 @@
 {
-  "count": 1413,
+  "count": 1414,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -31652,6 +31652,37 @@
       "last_release_at": "",
       "path": "entries/other/gokayfem-image-to-sculpt.md",
       "summary": "Coding-agent向けのskillとPythonツールキット。入力画像のマスク・深度・法線を使い、画像のシルエットや表面に合わせて3Dスカルプトを段階的に作成する。複数視点を登録・スクリーニングし、各視点のシルエットIoU、輪郭距離、法線角度、粗さ、入力画像の深度を個別に確認する。ビルド手順を記録し、Blende"
+    },
+    {
+      "name": "Sakutto",
+      "genre": "other",
+      "url": "https://github.com/jammaru/sakutto",
+      "repo": "jammaru/sakutto",
+      "license": "MIT",
+      "stars": 271,
+      "language": "TypeScript",
+      "created": "2026-11-05",
+      "updated": "2026-11-18",
+      "forks": 30,
+      "open_issues": 15,
+      "commits_30d": 100,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 12304,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 実行条件。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/RoundtableSpace/status/2119274964054639103"
+      ],
+      "fetched_at": "2026-11-18T15:36:35.362557+00:00",
+      "path": "entries/other/jammaru-sakutto.md",
+      "summary": "ページ全体、選択テキスト、PDF、YouTubeやXなどの動画字幕、入力中の文章を翻訳するChrome・Firefox拡張。既定の翻訳エンジンはPLaMo 3 Translateで、WebGPUまたはCPU上で実行するとREADMEに記載されています。"
     },
     {
       "name": "rea-toon",
