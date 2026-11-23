@@ -1,5 +1,5 @@
 {
-  "count": 1474,
+  "count": 1475,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -8846,6 +8846,24 @@
       ],
       "fetched_at": "2026-11-10T13:03:01+09:00",
       "path": "articles/2026-09-30-chetan-ankola-aegean-three.js-3d.md"
+    },
+    {
+      "name": "AI text-to-speech programs could “unlearn” how to imitate certain people",
+      "genre": "article",
+      "url": "https://speechunlearn.github.io/",
+      "published": "2025-07-15",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "効果の記述は研究チームの論文・デモに基づくもので、独立した再現確認ではない。評価は研究で使用したモデル・データセットの条件に限られる。",
+      "type": "article",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/arnaudmercier/status/2123364964979065024"
+      ],
+      "fetched_at": "2026-11-19T12:12:48.904404+00:00",
+      "path": "articles/2025-07-15-author-ai-text-to-speech-programs-could-unlearn-how-to-imitate-certain-people.md"
     },
     {
       "name": "AIの出力がバラバラにならなくなる、Pydantic AIの「型で縛る」使い方",
