@@ -1,5 +1,5 @@
 {
-  "count": 1451,
+  "count": 1452,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -11428,6 +11428,24 @@
       ],
       "fetched_at": "2026-11-19T00:21:11.077991+00:00",
       "path": "articles/2026-11-07-author-zml-llmd-a-fast-and-universal-inference-server.md"
+    },
+    {
+      "name": "「どのAIに何を入れたっけ？」をもう探さない。原本1つの自分のSkillsを、Grok Bot・dots・ChatGPT・Claudeから自在に呼び出す方法",
+      "genre": "article",
+      "url": "https://x.com/i/article/2119227796903940096",
+      "published": "2026-11-08",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "Cloudflare無料枠の料金・上限や、各AIとの接続条件は記事公開時の著者の説明。現在の適用条件は未確認。複数AIでの動作・負荷測定は著者による報告であり、独立検証ではない。",
+      "type": "article",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/tetumemo/status/2119324068478582948"
+      ],
+      "fetched_at": "2026-11-19T05:14:03.298350+00:00",
+      "path": "articles/2026-11-08-author-ai-1-skills-grok-bot-dots-chatgpt-claude.md"
     },
     {
       "name": "「長くなる一方のSkill」を「短く効くSkill」にする、Matt Pocock式の作り方",
