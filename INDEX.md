@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1374 件 — リポジトリ 970, リンク集 120, 記事 217, モデル 53, プロンプト 14 / ⚑ 要確認 1114 件
+収録 1375 件 — リポジトリ 971, リンク集 120, 記事 217, モデル 53, プロンプト 14 / ⚑ 要確認 1115 件
 
-## リポジトリ（970）
+## リポジトリ（971）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -901,7 +901,7 @@
 | [SU Motion Top 12](entries/prompt-design/doublesq97-ui-su-motion-top12.md) ⚑ | 5 | 0 | 停滞 | 0 | 2026-07-28 | 2026-11-17 | 2026-11-22 | MIT |
 | [P-H3-Image Workflows](entries/prompt-design/sepiablue-ai-p-h3-image-workflows.md) ⚑ | 0 | 0 | 月次 | 1 | 2026-11-07 | 2026-11-17 | 2026-11-22 | unknown |
 
-### 金融・クオンツ（33）
+### 金融・クオンツ（34）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -923,6 +923,7 @@
 | [vectorbt](entries/finance-quant/polakowo-vectorbt.md) | 9,865 | 1,310 | 毎日 | 46 | 2026-11-11 | 2026-11-16 | 2026-11-22 | Apache-2.0 + Commons Clause（販売不可） |
 | [QuantStats](entries/finance-quant/ranaroussi-quantstats.md) | 7,878 | 1,300 | 月次 | 1 | 2026-11-02 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
 | [Claude Trading Skills](entries/finance-quant/tradermonty-claude-trading-skills.md) ⚑ | 6,234 | 1,324 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [FinRL-X](entries/finance-quant/ai4finance-foundation-finrl-trading.md) ⚑ | 3,952 | 1,138 | 月次 | 0 | 2026-09-18 | 2026-11-18 | 2026-11-23 | Apache-2.0 |
 | [Vibe Research](entries/finance-quant/simonlin1212-vibe-research.md) ⚑ | 3,746 | 707 | 毎日 | 26 | 2026-11-12 | 2026-11-16 | 2026-11-22 | MIT |
 | [jev-trader](entries/finance-quant/jarrodwatts-jev-trader.md) ⚑ | 3,139 | 601 | 月次 | 0 | 2026-10-13 | 2026-11-16 | 2026-11-22 | MIT |
 | [cryptofeed](entries/finance-quant/bmoscon-cryptofeed.md) | 3,036 | 797 | 毎日 | 54 | 2026-11-16 | 2026-11-16 | 2026-11-22 | AGPL-3.0 |
@@ -2295,6 +2296,7 @@
 - [AKShare](entries/finance-quant/akfamily-akshare.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [FinRL](entries/finance-quant/ai4finance-foundation-finrl.md) — unverified / 一次資料で未確認: 依存関係。
 - [Claude Trading Skills](entries/finance-quant/tradermonty-claude-trading-skills.md) — unverified / 利用料金やアカウント要件はREADME記載時点の案内で、変更される可能性がある。
+- [FinRL-X](entries/finance-quant/ai4finance-foundation-finrl-trading.md) — unverified / The README reports historical backtest results for Jan 2018–Oct 2025 and Alpaca paper-trading results for Oct 2025–Mar 2026. These figures and performance claims have not been independently verified.
 - [Vibe Research](entries/finance-quant/simonlin1212-vibe-research.md) — unverified / READMEでは、行情は腾讯のスナップショットで逐筆リアルタイムではないと説明されている。AIの調査内容や算出結果の正確性は、READMEだけでは独立に確認できない。
 - [jev-trader](entries/finance-quant/jarrodwatts-jev-trader.md) — unverified / README の遅延値は作者によるモック推論のドライラン計測。実コードの起動、Jev 使用時の遅延・精度、実注文の約定率・収益性、Jev API の料金・利用条件は未検証。発見投稿の Nasdaq 先物成績は別リポジトリの実験。
 - [Gloom](entries/finance-quant/gloom-sh-gloomberb.md) — unverified / Proの料金はREADMEに記載がありません。

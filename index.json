@@ -1,5 +1,5 @@
 {
-  "count": 1374,
+  "count": 1375,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -17541,6 +17541,37 @@
       "last_release_at": "",
       "path": "entries/finance-quant/tradermonty-claude-trading-skills.md",
       "summary": "市場状況の確認、ポートフォリオレビュー、スイング候補の探索、リスク管理、トレード記録と振り返りのワークフローを提供する。READMEでは、AIに売買判断を委ねるのではなく、判断プロセスを構造化するためのツールキットと説明している。"
+    },
+    {
+      "name": "FinRL-X",
+      "genre": "finance-quant",
+      "url": "https://github.com/AI4Finance-Foundation/FinRL-Trading",
+      "repo": "AI4Finance-Foundation/FinRL-Trading",
+      "license": "Apache-2.0",
+      "stars": 3952,
+      "language": "Python",
+      "created": "2020-07-26",
+      "updated": "2026-09-18",
+      "forks": 1138,
+      "open_issues": 53,
+      "commits_30d": 0,
+      "commit_cadence": "monthly",
+      "commits_90d": 4,
+      "size_kb": 218941,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "The README reports historical backtest results for Jan 2018–Oct 2025 and Alpaca paper-trading results for Oct 2025–Mar 2026. These figures and performance claims have not been independently verified.",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/ruyi3699/status/2119255838049104106"
+      ],
+      "fetched_at": "2026-11-18T05:14:23.912035+00:00",
+      "path": "entries/finance-quant/ai4finance-foundation-finrl-trading.md",
+      "summary": "READMEでは、株式選定、ポートフォリオ配分、タイミング調整、リスク制御を組み合わせ、目標ポートフォリオの重みを共通インターフェースとしてバックテストやブローカー実行につなぐ仕組みと説明されています。等ウェイト、平均分散、最小分散、PPO/SACによる配分、KAMAタイミングの例があります。また、NASDAQ-100"
     },
     {
       "name": "Vibe Research",
