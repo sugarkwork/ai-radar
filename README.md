@@ -124,11 +124,11 @@ claude mcp add --transport http ai-radar https://ai-radar.sugar-knight.com/mcp
 ## 索引
 
 <!-- INDEX:START -->
-**収録 1526 件** — リポジトリ 1083, プロンプト 14, リンク集 125, モデル 55, 記事 249
+**収録 1527 件** — リポジトリ 1084, プロンプト 14, リンク集 125, モデル 55, 記事 249
 
 | 種類 | 件数 |
 |---|---:|
-| リポジトリ | 1083 |
+| リポジトリ | 1084 |
 | プロンプト | 14 |
 | リンク集 | 125 |
 | モデル | 55 |
@@ -144,7 +144,7 @@ claude mcp add --transport http ai-radar https://ai-radar.sugar-knight.com/mcp
 | 3D・モーション | 112 |
 | モデル推論・配信 | 61 |
 | 音声・TTS | 59 |
-| 画像生成・編集 | 52 |
+| 画像生成・編集 | 53 |
 | プロンプト（デザイン/UI） | 52 |
 | MCPサーバー | 46 |
 | RAG・検索 | 35 |
@@ -158,7 +158,7 @@ claude mcp add --transport http ai-radar https://ai-radar.sugar-knight.com/mcp
 | image-generation | 4 |
 | productivity | 1 |
 
-⚑ 要確認 1247 件（理由は [INDEX.md](INDEX.md) の末尾）
+⚑ 要確認 1248 件（理由は [INDEX.md](INDEX.md) の末尾）
 
 全件の一覧・指標は **[INDEX.md](INDEX.md)**。
 <!-- INDEX:END -->

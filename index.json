@@ -1,5 +1,5 @@
 {
-  "count": 1526,
+  "count": 1527,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -19884,6 +19884,37 @@
       "last_release_at": "",
       "path": "entries/image-gen/woyun520-gif-factory.md",
       "summary": "README は「挑一种风格，给一张参考图，把角色、相片和想法做成 GIF，也能延伸成动态绘本」と説明し、ピクセル、人物・ペット、粘土風マスコット、光栅変画、漫画風動的ポスターなどの作例とスタイル別の制作方法を案内しています。ブランド短片も掲載対象として記載されています。"
+    },
+    {
+      "name": "anidoodle",
+      "genre": "image-gen",
+      "url": "https://github.com/alexgreensh/anidoodle",
+      "repo": "alexgreensh/anidoodle",
+      "license": "Apache-2.0",
+      "language": "TypeScript",
+      "created": "2026-09-22",
+      "updated": "2026-11-05",
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEの抜粋は途中で終わっているため、最短手順や対応するエージェント、実行条件、依存関係の全容はこの資料だけでは確認できない。",
+      "stars": 1861,
+      "forks": 166,
+      "open_issues": 7,
+      "size_kb": 48699,
+      "commits_30d": 36,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/flxrnc/status/2123392905934999811"
+      ],
+      "fetched_at": "2026-11-20T03:13:46.477390+00:00",
+      "path": "entries/image-gen/alexgreensh-anidoodle.md",
+      "summary": "READMEによると、コードでイラスト、描画タイムラプス、映像、解説、インタラクティブなWebアートを作成する。32種類の描画スタイルを用意し、各スタイルで完成画像と描画過程の映像を同じソースから生成すると説明している。音楽や効果音もコードで作成できるとしている。"
     },
     {
       "name": "ComfyArt",

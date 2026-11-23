@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1526 件 — リポジトリ 1083, リンク集 125, 記事 249, モデル 55, プロンプト 14 / ⚑ 要確認 1247 件
+収録 1527 件 — リポジトリ 1084, リンク集 125, 記事 249, モデル 55, プロンプト 14 / ⚑ 要確認 1248 件
 
-## リポジトリ（1083）
+## リポジトリ（1084）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -994,7 +994,7 @@
 | [Transitions.dev](entries/prompt-design/jakubantalik-transitions.dev.md) ⚑ | 6,213 | 295 | 毎日 | 62 | 2026-11-08 | 2026-11-10 |  | unknown |
 | [kepano/obsidian-minimal](entries/prompt-design/kepano-obsidian-minimal.md) ⚑ | 5,555 | 295 | 月次 | 0 | 2026-10-06 | 2026-11-09 |  | MIT |
 | [kepano/flexoki](entries/prompt-design/kepano-flexoki.md) ⚑ | 3,810 | 139 | 停滞 | 0 | 2026-03-07 | 2026-11-09 |  | MIT |
-| [15 Motion Design Styles](entries/prompt-design/vincentwei1021-mg-styles-15.md) ⚑ | 3,717 | 464 | 週次 | 19 | 2026-11-19 | 2026-11-20 | 2026-11-23 | MIT |
+| [15 Motion Design Styles](entries/prompt-design/vincentwei1021-mg-styles-15.md) ⚑ | 3,717 | 464 | 週次 | 19 | 2026-11-19 | 2026-11-20 |  | MIT |
 | [The Designer Skills Pack](entries/prompt-design/owl-listener-designer-skills.md) ⚑ | 3,309 | 436 | 月次 | 0 | 2026-09-05 | 2026-11-10 |  | MIT |
 | [GitReverse](entries/prompt-design/filiksyos-gitreverse.md) ⚑ | 2,081 | 337 | 週次 | 8 | 2026-11-10 | 2026-11-11 |  | MIT |
 | [video-spec-builder](entries/prompt-design/feicaiclub-video-spec-builder.md) | 1,078 | 128 | 停滞 | 0 | 2026-05-18 | 2026-11-19 |  | MIT |
@@ -1050,7 +1050,7 @@
 | [JevOnAir](entries/finance-quant/valuecodes-jev-on-air.md) ⚑ | 0 | 0 | 週次 | 11 | 2026-11-16 | 2026-11-16 |  | MIT |
 | [jev-polymarket-test](entries/finance-quant/truongxxxx-jev-polymarket-test.md) ⚑ | 0 | 0 | 停滞 | 0 | 2026-10-10 | 2026-11-16 |  | MIT |
 
-### 画像生成・編集（31）
+### 画像生成・編集（32）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -1068,6 +1068,7 @@
 | [FLUX.2](entries/image-gen/black-forest-labs-flux2.md) | 2,878 | 225 | 停滞 | 0 | 2026-03-12 | 2026-11-16 |  | Apache-2.0 |
 | [Qwen-Image-2.1](entries/image-gen/qwenlm-qwen-image-2.1.md) | 2,232 | 165 | 月次 | 0 | 2026-10-14 | 2026-11-16 |  | NOASSERTION |
 | [GIF 工厂](entries/image-gen/woyun520-gif-factory.md) ⚑ | 1,951 | 232 | 毎日 | 52 | 2026-11-15 | 2026-11-16 |  | MIT |
+| [anidoodle](entries/image-gen/alexgreensh-anidoodle.md) ⚑ | 1,861 | 166 | 毎日 | 36 | 2026-11-05 | 2026-11-20 | 2026-11-23 | Apache-2.0 |
 | [ComfyArt](entries/image-gen/jtydhr88-comfyart.md) ⚑ | 562 | 97 | 毎日 | 54 | 2026-11-12 | 2026-11-16 |  | MIT |
 | [ray-sticker-shop](entries/image-gen/imraywang-ray-sticker-shop.md) ⚑ | 507 | 58 | 月次 | 1 | 2026-11-05 | 2026-11-16 |  | MIT |
 | [MiniMax-H3-Image](entries/image-gen/minimax-ai-minimax-h3-image.md) ⚑ | 402 | 21 | 週次 | 5 | 2026-11-11 | 2026-11-16 |  | unknown |
@@ -2526,6 +2527,7 @@
 - [AI 角色参考与合成工作台 · 中文版（3合1）](entries/image-gen/anhao-ai-pose-gallery-zh.md) — unverified / README に基づく。デモと各生成連携の動作、生成品質、クラウド API の料金、素材ごとの許諾、最新リリースは未確認。 GitHub APIでライセンスを確認できていません。
 - [Agent Sprite Forge](entries/image-gen/0x0funky-agent-sprite-forge.md) — unverified / 元ポストは「ゲームエンジンへの取り込みは未確認」と留保するが、README は Godot/Aseprite/Tiled/LDtk 書き出しを検証済みと明記。実機検証は未実施。
 - [GIF 工厂](entries/image-gen/woyun520-gif-factory.md) — unverified / 具体生成所用模型、依赖、运行条件、费用及完整最短操作步骤未能从所附 README 确认。
+- [anidoodle](entries/image-gen/alexgreensh-anidoodle.md) — unverified / READMEの抜粋は途中で終わっているため、最短手順や対応するエージェント、実行条件、依存関係の全容はこの資料だけでは確認できない。
 - [ComfyArt](entries/image-gen/jtydhr88-comfyart.md) — unverified / 一部の生成ワークフローが必要とするモデルやカスタムノードのローカル環境への導入条件は、READMEだけでは全て確認できない。Comfy Cloud APIキーには有料Comfyプランが必要と記載されている。
 - [ray-sticker-shop](entries/image-gen/imraywang-ray-sticker-shop.md) — unverified / README указывает ориентировочную стоимость около $0.7 для 8 стикеров и 5 дополнительных материалов по официальным тарифам OpenAI; фактическая стоимость зависит от повторной генерации. Прохождение модерации и доход не гарантируются.
 - [MiniMax-H3-Image](entries/image-gen/minimax-ai-minimax-h3-image.md) — unverified / READMEはライセンスを示すバッジとLICENSEへのリンクを掲載していますが、ライセンス名や利用条件は確認できません。 GitHub APIでライセンスを確認できていません。
