@@ -1,5 +1,5 @@
 {
-  "count": 1514,
+  "count": 1515,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -13848,6 +13848,37 @@
       "fetched_at": "2026-11-18T00:24:52.717005+00:00",
       "path": "entries/coding-agent/google-labs-code-stitch-skills.md",
       "summary": "Google Stitch向けのスキルとプラグインを提供する。READMEでは、デザイン生成・編集、デザインシステム管理、フロントエンドコードからの変換、React/React Native向けコンポーネント生成、プロンプト改善などの用途を案内している。"
+    },
+    {
+      "name": "awesome-gamedev-agent-skills",
+      "genre": "coding-agent",
+      "url": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
+      "repo": "gamedev-skills/awesome-gamedev-agent-skills",
+      "license": "Apache-2.0",
+      "stars": 9585,
+      "language": "Python",
+      "created": "2026-06-24",
+      "updated": "2026-11-12",
+      "forks": 974,
+      "open_issues": 5,
+      "commits_30d": 100,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 9139,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景・有効性・依存関係。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/unclejoe_666/status/2119210003542200359"
+      ],
+      "fetched_at": "2026-11-20T02:11:21.648534+00:00",
+      "path": "entries/coding-agent/gamedev-skills-awesome-gamedev-agent-skills.md",
+      "summary": "READMEによると、12のゲームエンジン向けに79個のゲーム開発用Agent Skillsとルーターを提供します。利用者が作りたいものを自然文で伝えると、ルーターがエンジンとタスクを判定し、該当するスキルを読み込む仕組みです。READMEには、Godot、Unity、Unreal、Ebitengine、Phaser、"
     },
     {
       "name": "Copilot for Obsidian",
