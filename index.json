@@ -1,5 +1,5 @@
 {
-  "count": 1505,
+  "count": 1506,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -25775,6 +25775,37 @@
       "commits_90d": 100,
       "path": "entries/model-serving/tuan3w-qwen-warp.md",
       "summary": "RTX 3090 1枚で Qwen3.8-27B の INT4 チェックポイントを動かし、OpenAI 互換の HTTP API を :8000 に公開する。中身は vLLM 0.30.0 の OpenAI フロントエンドで、モデル名は swift、ルートは /health・/v1/models・/v1/chat/co"
+    },
+    {
+      "name": "Volta sPLIt: DeepSeek-V4.1-Flash-1017 on eight V100-SXM2 32 GB cards",
+      "genre": "model-serving",
+      "url": "https://github.com/ProprietaryLegal/Volta-sPLIt-DeepSeek-V4.1-Flash-1017-8xV100-SXM2-PP2xTP4",
+      "repo": "ProprietaryLegal/Volta-sPLIt-DeepSeek-V4.1-Flash-1017-8xV100-SXM2-PP2xTP4",
+      "license": "Apache-2.0",
+      "stars": 36,
+      "language": "Python",
+      "created": "2026-11-03",
+      "updated": "2026-11-19",
+      "forks": 4,
+      "open_issues": 0,
+      "commits_30d": 14,
+      "commit_cadence": "weekly",
+      "commits_90d": 14,
+      "size_kb": 1380,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEの速度・遅延・品質に関する結果は作者が記載した測定値で、独立検証は確認できていません。公開ツリーは1スロット構成と説明されており、3チャットスロットの実装は公開ツリーに含まれないとREADMEにあります。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/ai_hakase_/status/2119384922762674183"
+      ],
+      "fetched_at": "2026-11-19T23:09:16.512645+00:00",
+      "path": "entries/model-serving/proprietarylegal-volta-split-deepseek-v4.1-flash-1017-8xv100-sxm2-pp2xtp4.md",
+      "summary": "READMEによると、DeepSeek-V4.1-Flash-1017を8枚のV100-SXM2-32GBで、2段のパイプライン並列と各段4枚のテンソル並列でサービングする構成です。ルーティング対象の全エキスパートをGPUメモリに置き、EngramテーブルはホストRAMに置く設計、DSparkによる投機的デコード、vL"
     },
     {
       "name": "nf12",
