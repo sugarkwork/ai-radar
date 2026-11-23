@@ -1,5 +1,5 @@
 {
-  "count": 1533,
+  "count": 1534,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -19374,6 +19374,37 @@
       "last_release_at": "",
       "path": "entries/finance-quant/kaustubhpatange-polymarket-trade-engine.md",
       "summary": "PolymarketのBTC、ETH、XRP、SOL、DOGE、HYPE、BNBの5分・15分予測市場向け自動売買エンジン。戦略テスト用ハーネスと、実行結果を分析する対話型ダッシュボードを備える。"
+    },
+    {
+      "name": "kline-structure-chart",
+      "genre": "finance-quant",
+      "url": "https://github.com/xiongcp/stock-skill",
+      "repo": "xiongcp/stock-skill",
+      "stars": 121,
+      "forks": 2,
+      "open_issues": 0,
+      "size_kb": 36732,
+      "language": "Python",
+      "created": "2026-10-16",
+      "updated": "2026-11-18",
+      "archived": false,
+      "license": "Apache-2.0",
+      "commits_30d": 95,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 依存関係。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/Ryrenz/status/2119401807206031643"
+      ],
+      "fetched_at": "2026-11-20T05:12:26.778461+00:00",
+      "path": "entries/finance-quant/xiongcp-stock-skill.md",
+      "summary": "READMEの説明では、A株・香港株・米国株のOHLCVデータからK線構造を計算し、トリプルバリア風控計画、15日間の正常変動幅、無前視バックテストを生成する。JSON、PNG、オフラインHTML看板、Markdownレポートを出力し、Claude CodeやCodexなどのAgent Skills対応エージェントとC"
     },
     {
       "repo": "justinhe16/trade-jev",
