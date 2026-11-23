@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1545 件 — リポジトリ 1096, リンク集 125, 記事 255, モデル 55, プロンプト 14 / ⚑ 要確認 1265 件
+収録 1546 件 — リポジトリ 1096, リンク集 125, 記事 256, モデル 55, プロンプト 14 / ⚑ 要確認 1265 件
 
 ## リポジトリ（1096）
 
@@ -1680,9 +1680,9 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（255）
+## 記事（256）
 
-### 記事（190）
+### 記事（191）
 
 - **[$0のデジタル参謀長で月$80,000の契約候補を作ったというX投稿（動画付き）](articles/2026-10-22-bober_smart-0-80-000-x.md)** ⚑  @Bober_smart
 - **[1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md)** ⚑  @mukadeshinigami（mukade死神）
@@ -1774,6 +1774,7 @@
 - **[Independent Assessment of AI R&D Acceleration at Anthropic in October 2026](articles/2026-11-05-author-independent-assessment-of-ai-r-d-acceleration-at-anthropic-in-october-2026.md)** ⚑
 - **[InstantHMR: Real-Time Human Mesh Recovery on Your Phone](articles/2026-11-06-author-instanthmr-real-time-human-mesh-recovery-on-your-phone.md)**
 - **[Introducing Arete-27B: Qwen3.8-27B Post-Trained To Reinforce Western Values](articles/2026-11-06-author-introducing-arete-27b-qwen3.8-27b-post-trained-to-reinforce-western-values.md)** ⚑
+- **[Introducing Inkling 2 Small](articles/2026-11-05-author-introducing-inkling-2-small.md)**
 - **[Introducing Loom: agent memory that keeps up with your code](articles/2026-11-13-author-introducing-loom-agent-memory-that-keeps-up-with-your-code.md)** ⚑
 - **[Introducing PD Forma: 4D reconstruction, scored against reality.](articles/2026-11-04-author-introducing-pd-forma-4d-reconstruction-scored-against-reality.md)** ⚑
 - **[Introducing Personal Finance in Claude](articles/2026-11-05-author-introducing-personal-finance-in-claude.md)** ⚑

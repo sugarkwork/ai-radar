@@ -1,5 +1,5 @@
 {
-  "count": 1545,
+  "count": 1546,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -10465,6 +10465,22 @@
       ],
       "fetched_at": "2026-11-14T14:09:18.550064+00:00",
       "path": "articles/2026-11-06-author-introducing-arete-27b-qwen3.8-27b-post-trained-to-reinforce-western-values.md"
+    },
+    {
+      "name": "Introducing Inkling 2 Small",
+      "genre": "article",
+      "url": "https://thinkingmachines.ai/news/inkling-2-small/",
+      "published": "2026-11-05",
+      "flags": [],
+      "type": "article",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "risk_notes": "",
+      "sources": [
+        "https://x.com/NFT_Chen/status/2119415867389755721"
+      ],
+      "fetched_at": "2026-11-22T04:43:14.893879+00:00",
+      "path": "articles/2026-11-05-author-introducing-inkling-2-small.md"
     },
     {
       "name": "Introducing Loom: agent memory that keeps up with your code",
