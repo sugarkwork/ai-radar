@@ -1,5 +1,5 @@
 {
-  "count": 1434,
+  "count": 1435,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -10818,6 +10818,24 @@
       ],
       "fetched_at": "2026-11-10T08:39:25Z",
       "path": "articles/2026-11-02-author-sparks-of-weight-space-programming-llms-can-natively-read-write-neural-network-w.md"
+    },
+    {
+      "name": "Stop using your own Claude at work.",
+      "genre": "article",
+      "url": "https://ruben.substack.com/p/how-to-use-your-personal-ai-at-work",
+      "published": "2026-06-10",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "Samsungでの事例、法的責任や訴訟に関する説明、各社のデータ保持・設定に関する全記述は独立に確認していない。実際の扱いはサービス、プラン、設定、勤務先の規則や適用法によって異なる。",
+      "type": "article",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/okapi_fukugyo/status/2119299912882123032"
+      ],
+      "fetched_at": "2026-11-18T21:17:11.081811+00:00",
+      "path": "articles/2026-06-10-author-stop-using-your-own-claude-at-work.md"
     },
     {
       "name": "Teaching AI to build scientific models",

@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1434 件 — リポジトリ 1014, リンク集 121, 記事 230, モデル 55, プロンプト 14 / ⚑ 要確認 1167 件
+収録 1435 件 — リポジトリ 1014, リンク集 121, 記事 231, モデル 55, プロンプト 14 / ⚑ 要確認 1168 件
 
 ## リポジトリ（1014）
 
@@ -1590,9 +1590,9 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（230）
+## 記事（231）
 
-### 記事（166）
+### 記事（167）
 
 - **[$0のデジタル参謀長で月$80,000の契約候補を作ったというX投稿（動画付き）](articles/2026-10-22-bober_smart-0-80-000-x.md)** ⚑  @Bober_smart
 - **[1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md)** ⚑  @mukadeshinigami（mukade死神）
@@ -1715,6 +1715,7 @@
 - **[SCKit abuses ScreenConnect to deploy remote access and target technician sessions](articles/2026-11-13-author-sckit-abuses-screenconnect-to-deploy-remote-access-and-target-technician-session.md)** ⚑
 - **[See's Candies 1972→1998——$25Mが$60Mを生んだ理由を、バフェットがMBA学生に語った](articles/1998-10-15-warren-buffett-see-s-candies-1972-1998-25m-60m-mba-12d8279960.md)** ⚑  Warren Buffett
 - **[Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights](articles/2026-11-02-author-sparks-of-weight-space-programming-llms-can-natively-read-write-neural-network-w.md)** ⚑
+- **[Stop using your own Claude at work.](articles/2026-06-10-author-stop-using-your-own-claude-at-work.md)** ⚑
 - **[Teaching AI to build scientific models](articles/2026-11-06-author-teaching-ai-to-build-scientific-models.md)**
 - **[The Complete Guide to Building Skills for Claude](articles/2026-01-29-author-the-complete-guide-to-building-skills-for-claude.md)**
 - **[The Johnson brothers — AIキャラを「家族」に増やす成長プレイブック](articles/2026-10-16-y0urdumble-dumble-the-johnson-brothers-ai.md)** ⚑  @Y0urDumble (Dumble)
@@ -2166,6 +2167,7 @@
 - [SCKit abuses ScreenConnect to deploy remote access and target technician sessions](articles/2026-11-13-author-sckit-abuses-screenconnect-to-deploy-remote-access-and-target-technician-session.md) — unverified / 初期侵入経路は調査中と記事に記載されている。
 - [See's Candies 1972→1998——$25Mが$60Mを生んだ理由を、バフェットがMBA学生に語った](articles/1998-10-15-warren-buffett-see-s-candies-1972-1998-25m-60m-mba-12d8279960.md) — unverified / 【投稿の主張】1972年に$25Mで買収、当時は年$4M。1998年には同じレシピ・追加資本ほぼなしで$60M。16Mポンド@$1.95の箱が$2.25で売れるかが唯一の論点。1998年は30Mポンド@$2/ポンドで、$60Mのうち$55Mがクリスマス前3週。毎年12月26日に値上げ。コンサルなし、デューデリは箱を買って食べるだけ。カリフォルニアの「share of mind」と、店員の笑顔がmoatを広げる。【一次情報で確認できたこと】Tilson公開の講演全文（1998-10-15、University of Florida School of Business、Graham-Buffett Teaching Endowment第1回）に、$25M・16Mポンド・$1.95/ポンド・$4M税前・6.25x pre-tax、$60M・$2 per pound on 30 million pounds・$55M in the three weeks before Christmas・12月26日の値上げ・コンサル無し/箱を買って食べた・販売員の笑顔でmoatが広がる、がすべて原文どおり存在。1998年通期のSee's税前利益は$62M（1998年書簡の税前利益表）で、10月時点の「$60M」という当年見込みは妥当。2007年書簡で1972年16Mポンド/売上$30M/税前$5M未満/必要資本$8M、2007年31Mポンド/売上$383M/税前$82M/累計税前$1.35B/追加資本$32Mを確認。【誤り・注意】(1)「1998年は30Mポンド@$2/ポンド」は単位の取り違え。原文は「We will make $2 per pound on 30 million pounds」＝1ポンドあたり$2の“利益”で合計$60M。同じ講演で「See'sは今$11/ポンド」と述べており、$2は販売価格ではない。$2を価格と読むと30M×$2=$60Mが売上になり、税前利益$60Mと二重計上になる（1998年売上は約$330M）。2007年は$383M/31Mポンド≒$12.35/ポンド。(2)「earned $4 million a year」は税前。本人は10x after-taxとも言っており、税引後は約$2.5M。(3)買収主体はBlue Chip Stamps（BuffettとMungerが支配、後にBerkshireへ合併）。「Buffettが$25M払った」は略記。(4)「no market research」は原文にない。原文は「コンサルを雇ったことがない。コンサル的代わりに箱を買って食べた」。(5)「ten years later you can see nothing else」は原文「You can't see the moat day by day... Ten years from now, you will see the difference」の脚色。(6)「the girl behind the counter is the asset」は投稿者の解釈。原文は「商品を売る人もproduct deliveryの一部」「笑顔ならmoatは広がり、しかめ面なら狭まる」。(7)$55M/3週はBuffett本人の発言だが監査数字ではなく自己申告。1998年通期$62Mとは整合するが四半期別の検証はしていない。(8)Buffettの数字は年により概数で揺れる。16M→30M（26年、年2.4%）と16M→31M/年2%（35年）は同じ人物の別年度発言で内部整合しない。1972年も$1.95×16M=$31.2Mに対し書簡の売上は$30M。桁は合うが一致しない。【未確認】引用元X記事2087190920026365952は非ログインでHTTP 307→ログイン画面になり本文を読めていない（投稿の要約がこの講義のものかは未確認）。添付動画は取得して320x240・84分35秒を実測し、5秒と42分台のフレームでUniversity of Floridaの演台とBuffett本人を確認したが、音声の全編照合はしていない（See'sの説明が42:14頃というのは文字起こしサイトの情報で、当該時刻の映像フレームのみ確認）。
 - [Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights](articles/2026-11-02-author-sparks-of-weight-space-programming-llms-can-natively-read-write-neural-network-w.md) — unverified / 掲載スコアと重み編集の再現性は独立に検証していない。GPT-6 Astraの利用条件・料金、公開ログの再利用ライセンスは未確認。
+- [Stop using your own Claude at work.](articles/2026-06-10-author-stop-using-your-own-claude-at-work.md) — unverified / Samsungでの事例、法的責任や訴訟に関する説明、各社のデータ保持・設定に関する全記述は独立に確認していない。実際の扱いはサービス、プラン、設定、勤務先の規則や適用法によって異なる。
 - [The Johnson brothers — AIキャラを「家族」に増やす成長プレイブック](articles/2026-10-16-y0urdumble-dumble-the-johnson-brothers-ai.md) — unverified, low-quality / 一次情報で確認できなかったこと: 具体的な生成ツール/モデル名（動画・画像に透かしもUIも開示ラベルもない）、プロンプト原文（投稿にもメディアにも存在しない）、フォロワー数・再生数・いいね数の実値（TikTok側は当方の取得で実データを返さず、第三者の集計でも同アカウントは時期により 156K/225.7K と変動）、$21K という収益額（71.6M views × $0.30/1000 の概算で、案件単価や成約の裏付けなし）、「2アカウントが同一運営者」という推断（著者自身が everything points to と推測で書いている）。動画の人物がAI生成だという前提も著者の主張と見た目の印象に留まり、プラットフォーム上の明示的開示は確認できない。誘導先 https://x.com/i/article/2109318233866006528 はログイン必須で本文未確認（同一URLの記事は既に別項目として登録済みのため重複作成しない）。内容は成長施策の助言が中心で、再現手順の技術的検証はできない。
 - [The Ultimate LoRA Training Guide for KREA2](articles/2026-07-24-author-the-ultimate-lora-training-guide-for-krea2.md) — unverified / Rawで学習してTurboで使う互換性や、推奨データ枚数・露出回数による効果は記事内の説明であり、独立した検証や公式資料による裏付けは確認していない。
 - [The Winners and Losers of AI’s First Big Election](articles/2026-11-10-author-the-winners-and-losers-of-ai-s-first-big-election.md) — unverified / ページ上部にProject Management Instituteとの提携を示すスポンサー記事の内容が混在している。記事本文にはページ内の公開日「2026-11-10」と署名欄の「Nov 4, 2026」が併記されているため、公開日の表記には注意。記事中の調査・選挙結果の主張はTIME記事の記述であり、各リンク先資料までは個別に検証していない。
