@@ -1,5 +1,5 @@
 {
-  "count": 1402,
+  "count": 1403,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -8789,6 +8789,24 @@
       ],
       "fetched_at": "2026-11-10T06:29:41Z",
       "path": "articles/2026-10-23-8fa0ce29-ai-0-1.md"
+    },
+    {
+      "name": "AIエージェントによるファイル削除を防ぐ対策のまとめ",
+      "genre": "article",
+      "url": "https://x.com/tetumemo/status/2116681661501120541",
+      "published": "2026-11-01",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "対策の順位や言及数は投稿者による集計で、各対策の有効性を独立に検証したものではない。Xの元投稿は閲覧時に403となり、投稿内容と日付は同投稿のアーカイブ表示で確認した。",
+      "type": "article",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/tetumemo/status/2119271231165993391"
+      ],
+      "fetched_at": "2026-11-18T14:24:02.745406+00:00",
+      "path": "articles/2026-11-01-author-ai.md"
     },
     {
       "type": "article",
