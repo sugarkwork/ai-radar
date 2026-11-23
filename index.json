@@ -1,5 +1,5 @@
 {
-  "count": 1442,
+  "count": 1443,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -7494,6 +7494,37 @@
       "type": "repo",
       "path": "entries/agent-framework/antfu-skills-pack.md",
       "summary": "複数の配布元のエージェントスキルを1つの npm パッケージにまとめ、pnpm i のたびに同期する。導入は依存に @antfu/skills と skills を足し、prepare に skills experimental_sync -y を置くだけ。"
+    },
+    {
+      "name": "dsh-plugin-bundle",
+      "genre": "agent-framework",
+      "url": "https://github.com/lili-luo/dsh-plugin-bundle",
+      "repo": "lili-luo/dsh-plugin-bundle",
+      "license": "MIT",
+      "stars": 341,
+      "language": "JavaScript",
+      "created": "2026-11-06",
+      "updated": "2026-11-13",
+      "forks": 35,
+      "open_issues": 1,
+      "commits_30d": 16,
+      "commit_cadence": "weekly",
+      "commits_90d": 16,
+      "size_kb": 713,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEは封号が発生しているとし、特に活動・贈与系プランで多いと述べている。付費プランも安全とは確認されておらず、利用にはアカウント停止リスクがある。コンテキスト解锁スクリプトはローカルのagyバイナリを書き換える。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/mingzi206/status/2119313690659057933"
+      ],
+      "fetched_at": "2026-11-19T01:16:32.300057+00:00",
+      "path": "entries/agent-framework/lili-luo-dsh-plugin-bundle.md",
+      "summary": "DeepSeek Harness（DSH）にAntigravityを接続するプラグインを提供する。READMEによると、接続には本機の公式agy acpを使い、ログイン状態は公式プロセス内に保持される。プラグインは鍵を保存せず、リクエストを別ゲートウェイへ転送しないと説明されている。また、任意のローカルスクリプトでag"
     },
     {
       "name": "creator-generalist",
