@@ -1,5 +1,5 @@
 {
-  "count": 1496,
+  "count": 1497,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -34476,6 +34476,37 @@
       "fetched_at": "2026-11-10T12:55:22Z",
       "path": "entries/other/prasanthj-duckdb-jev.md",
       "summary": "SQLから二値判定、候補ラベルへの分類、順序付き尺度での採点を行う。テキスト、JSON、DuckDBのSTRUCT・LIST・ARRAYを入力にできる。"
+    },
+    {
+      "name": "Docision",
+      "genre": "other",
+      "url": "https://github.com/SoMarkAI/docision",
+      "repo": "SoMarkAI/docision",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "README記載の速度・精度に関する比較結果や、複数質問時の速度向上は独立検証していません。利用可能な自然言語と日本語対応はREADMEから確認できません。",
+      "stars": 11,
+      "forks": 0,
+      "open_issues": 0,
+      "size_kb": 1849,
+      "language": "Python",
+      "created": "2026-10-14",
+      "updated": "2026-10-14",
+      "archived": false,
+      "license": "Apache-2.0",
+      "commits_30d": 0,
+      "commits_90d": 8,
+      "commit_cadence": "monthly",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/ai_hakase_/status/2119370852126908922"
+      ],
+      "fetched_at": "2026-11-19T19:15:12.423009+00:00",
+      "path": "entries/other/somarkai-docision.md",
+      "summary": "文書画像と質問ごとの候補を入力し、各質問について選択した候補と候補ごとの確率を出力します。READMEは文書分類、項目間の関係確認、完全性確認、ルールに基づく判定・振り分けを用途として挙げています。"
     },
     {
       "repo": "enoyola/jev-grand-prix",

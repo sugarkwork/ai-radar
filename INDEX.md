@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1496 件 — リポジトリ 1060, リンク集 123, 記事 244, モデル 55, プロンプト 14 / ⚑ 要確認 1221 件
+収録 1497 件 — リポジトリ 1061, リンク集 123, 記事 244, モデル 55, プロンプト 14 / ⚑ 要確認 1222 件
 
-## リポジトリ（1060）
+## リポジトリ（1061）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（266）
+### その他（267）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -267,10 +267,11 @@
 | [SoMarkDown](entries/other/somarkai-somarkdown.md) ⚑ | 34 | 2 | 停滞 | 0 | 2026-09-09 | 2026-11-19 |  | MIT |
 | [Sprite Pencil](entries/other/256arts-sprite-pencil.md) ⚑ | 28 | 6 | 週次 | 9 | 2026-11-11 | 2026-11-16 |  | unknown |
 | [jevframe](entries/other/ktaletsk-jevframe.md) ⚑ | 21 | 3 | 月次 | 0 | 2026-09-24 | 2026-11-10 |  | MIT |
-| [SoPDF](entries/other/somarkai-sopdf.md) ⚑ | 20 | 3 | 停滞 | 0 | 2026-04-14 | 2026-11-19 | 2026-11-23 | unknown |
+| [SoPDF](entries/other/somarkai-sopdf.md) ⚑ | 20 | 3 | 停滞 | 0 | 2026-04-14 | 2026-11-19 |  | unknown |
 | [FossFLOW](entries/other/grujowmi-fossflow.md) ⚑ | 15 | 3 | 停滞 | 0 | 2026-05-22 | 2026-11-16 |  | MIT |
 | [PlayBridge](entries/other/ramalhoboss-playbridge.md) ⚑ | 15 | 1 | 週次 | 17 | 2026-11-06 | 2026-11-11 |  | GPL-3.0 |
 | [duckdb-jev](entries/other/prasanthj-duckdb-jev.md) ⚑ | 14 | 3 | 月次 | 2 | 2026-10-21 | 2026-11-10 |  | Apache-2.0 |
+| [Docision](entries/other/somarkai-docision.md) ⚑ | 11 | 0 | 月次 | 0 | 2026-10-14 | 2026-11-19 | 2026-11-23 | Apache-2.0 |
 | [Jev Grand Prix](entries/other/enoyola-jev-grand-prix.md) ⚑ | 7 | 0 | 月次 | 0 | 2026-09-21 | 2026-11-16 |  | MIT |
 | [剪坊](entries/other/tuyetloanpham08-png-jianfang.md) ⚑ | 7 | 1 | 月次 | 2 | 2026-10-20 | 2026-11-11 |  | unknown |
 | [Hands-On Large Language Models](entries/other/sumanth077-hands-on-large-language-models.md) ⚑ | 4 | 1 | 停滞 | 0 | 2025-05-08 | 2026-11-17 |  | Apache-2.0 |
@@ -2903,6 +2904,7 @@
 - [FossFLOW](entries/other/grujowmi-fossflow.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [PlayBridge](entries/other/ramalhoboss-playbridge.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [duckdb-jev](entries/other/prasanthj-duckdb-jev.md) — unverified / 性能値は開発者が合成データで計測したもので、独立再測定、実データでの分類精度、TypeSafeの現行料金・データ保持条件は未確認。公開リリースのタグは確認済みで、公開日時と配布物の動作は未確認。
+- [Docision](entries/other/somarkai-docision.md) — unverified / README記載の速度・精度に関する比較結果や、複数質問時の速度向上は独立検証していません。利用可能な自然言語と日本語対応はREADMEから確認できません。
 - [Jev Grand Prix](entries/other/enoyola-jev-grand-prix.md) — unverified / 作者の試走結果は独立再現していない。TypeSafe APIの現在の料金、利用規約、キーの発行条件は未確認。
 - [剪坊](entries/other/tuyetloanpham08-png-jianfang.md) — unverified / Apple Silicon MacとmacOS 26以降が必要。プレビュー版はApple Developer ID署名・公証がなく、初回起動時にmacOSの許可操作が必要な場合がある。READMEではIntel Macで未検証とされる。 GitHub APIでライセンスを確認できていません。
 - [Hands-On Large Language Models](entries/other/sumanth077-hands-on-large-language-models.md) — unverified / READMEはPython・OS・依存関係によって結果が書籍の例と多少異なる場合があると説明している。個別のノートブックに必要な依存関係や実行条件はREADMEだけでは特定できない。
