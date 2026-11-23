@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1459 件 — リポジトリ 1029, リンク集 121, 記事 240, モデル 55, プロンプト 14 / ⚑ 要確認 1188 件
+収録 1460 件 — リポジトリ 1030, リンク集 121, 記事 240, モデル 55, プロンプト 14 / ⚑ 要確認 1189 件
 
-## リポジトリ（1029）
+## リポジトリ（1030）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（244）
+### その他（245）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -41,6 +41,7 @@
 | [PixiJS](entries/other/pixijs-pixijs.md) ⚑ | 48,675 | 5,143 | 毎日 | 37 | 2026-11-11 | 2026-11-12 |  | MIT |
 | [Paperless-ngx](entries/other/paperless-ngx-paperless-ngx.md) ⚑ | 47,969 | 3,372 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 |  | GPL-3.0 |
 | [SiYuan](entries/other/siyuan-note-siyuan.md) ⚑ | 47,217 | 3,115 | 毎日 | 100+ | 2026-11-14 | 2026-11-14 |  | AGPL-3.0 |
+| [mitmproxy](entries/other/mitmproxy-mitmproxy.md) ⚑ | 47,080 | 4,996 | 毎日 | 48 | 2026-11-14 | 2026-11-19 | 2026-11-23 | MIT |
 | [LosslessCut](entries/other/mifi-lossless-cut.md) ⚑ | 45,884 | 2,317 | 毎日 | 100+ | 2026-11-09 | 2026-11-10 |  | GPL-2.0 |
 | [DuckDB](entries/other/duckdb-duckdb.md) | 43,113 | 4,212 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 |  | MIT |
 | [Postiz](entries/other/gitroomhq-postiz-app.md) ⚑ | 41,750 | 7,973 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 |  | AGPL-3.0 |
@@ -891,7 +892,7 @@
 | [SolidCraft](entries/mcp-server/tangency-labs-solidcraft.md) ⚑ | 16,660 | 2,299 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 |  | Apache-2.0 |
 | [Apify MCP server](entries/mcp-server/apify-apify-mcp-server.md) ⚑ | 16,558 | 459 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 |  | MIT |
 | [Framelink MCP for Figma](entries/mcp-server/glips-figma-context-mcp.md) ⚑ | 16,217 | 1,288 | 停滞 | 0 | 2026-11-15 | 2026-11-16 |  | MIT |
-| [IDA Pro MCP](entries/mcp-server/mrexodia-ida-pro-mcp.md) ⚑ | 13,525 | 1,660 | 月次 | 2 | 2026-11-12 | 2026-11-19 | 2026-11-23 | MIT |
+| [IDA Pro MCP](entries/mcp-server/mrexodia-ida-pro-mcp.md) ⚑ | 13,525 | 1,660 | 月次 | 2 | 2026-11-12 | 2026-11-19 |  | MIT |
 | [ghidraMCP](entries/mcp-server/lauriewired-ghidramcp.md) ⚑ | 11,978 | 1,319 | 月次 | 0 | 2026-10-10 | 2026-11-19 |  | Apache-2.0 |
 | [Pencil](entries/mcp-server/evolus-pencil.md) | 9,917 | 797 | 週次 | 14 | 2026-11-13 | 2026-11-17 |  | GPL-2.0 |
 | [OpenPencil](entries/mcp-server/open-pencil-open-pencil.md) ⚑ | 9,888 | 1,072 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 |  | MIT |
@@ -2642,6 +2643,7 @@
 - [PixiJS](entries/other/pixijs-pixijs.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Paperless-ngx](entries/other/paperless-ngx-paperless-ngx.md) — unverified / OCR精度、検索性能、外部AIからの接続は実機で未検証。最新リリースのタグと公開日時は /releases/latest で未確認。コミット数は両期間とも取得上限のため100件以上。
 - [SiYuan](entries/other/siyuan-note-siyuan.md) — unverified / 一部機能は有料会員限定。機能ごとの利用条件や料金の詳細はREADMEから確認できない。
+- [mitmproxy](entries/other/mitmproxy-mitmproxy.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [LosslessCut](entries/other/mifi-lossless-cut.md) — unverified / 実ファイルでの処理速度、カット位置、CLIとHTTP APIの動作は未実測。公開リリースページで最新タグは確認したが、公開日時の年とタイムゾーンは未確認。
 - [Postiz](entries/other/gitroomhq-postiz-app.md) — unverified / README記載のAGPL-3.0以外の利用条件や、セルフホストに必要な具体的な設定・環境条件は確認していない。
 - [Vuetify](entries/other/vuetifyjs-vuetify.md) — unverified / GitHub APIでライセンスを確認できていません。
