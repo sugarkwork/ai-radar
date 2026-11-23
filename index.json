@@ -1,5 +1,5 @@
 {
-  "count": 1468,
+  "count": 1469,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -34123,6 +34123,35 @@
       "amplifiers": [],
       "path": "models/other/xtools-at-deepseek-v4-pro-qwen3.5-9b-uncensored-heretic.md",
       "summary": "Qwen3.5-9B をベースに、DeepSeek-V4-Pro の推論を約25万件の数学・STEMサンプルで蒸留した Jackrong/DeepSeek-V4-Pro-Qwen3.5-9B に対し、Heretic v2.0.0.dev0 の **ARA（Arbitrary-Rank Ablation）** を適用して"
+    },
+    {
+      "name": "Knowlective",
+      "genre": "other",
+      "url": "https://github.com/knowlective-org/knowlective",
+      "repo": "knowlective-org/knowlective",
+      "license": "AGPL-3.0",
+      "stars": 0,
+      "language": "TypeScript",
+      "created": "2026-10-05",
+      "updated": "2026-11-19",
+      "forks": 0,
+      "open_issues": 0,
+      "commits_30d": 100,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 4823,
+      "archived": false,
+      "flags": [],
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "risk_notes": "",
+      "sources": [
+        "https://x.com/TomoYatsunami/status/2123308713910182281"
+      ],
+      "fetched_at": "2026-11-19T08:10:49.655839+00:00",
+      "path": "entries/other/knowlective-org-knowlective.md",
+      "summary": "文書とナレッジを共有し、BlockNoteベースのブロックエディターとYjs・Hocuspocusによるリアルタイム共同編集ができます。ページをツリー状に整理し、グループ単位の閲覧・編集・管理権限を設定できます。管理者が許可した場合はページをインターネットに公開でき、公開ページはログインなしで閲覧できます。"
     },
     {
       "name": "LapDraw",

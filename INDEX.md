@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1468 件 — リポジトリ 1038, リンク集 121, 記事 240, モデル 55, プロンプト 14 / ⚑ 要確認 1197 件
+収録 1469 件 — リポジトリ 1039, リンク集 121, 記事 240, モデル 55, プロンプト 14 / ⚑ 要確認 1197 件
 
-## リポジトリ（1038）
+## リポジトリ（1039）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（250）
+### その他（251）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -261,6 +261,7 @@
 | [剪坊](entries/other/tuyetloanpham08-png-jianfang.md) ⚑ | 7 | 1 | 月次 | 2 | 2026-10-20 | 2026-11-11 |  | unknown |
 | [Hands-On Large Language Models](entries/other/sumanth077-hands-on-large-language-models.md) ⚑ | 4 | 1 | 停滞 | 0 | 2025-05-08 | 2026-11-17 |  | Apache-2.0 |
 | [Pay Small Check](entries/other/ahmardchain-pay-small-check.md) ⚑ | 1 | 0 | 毎日 | 32 | 2026-11-07 | 2026-11-16 |  | MIT |
+| [Knowlective](entries/other/knowlective-org-knowlective.md) | 0 | 0 | 毎日 | 100+ | 2026-11-19 | 2026-11-19 | 2026-11-23 | AGPL-3.0 |
 | [LapDraw](entries/other/sachinyadavaug20-lapdraw.md) ⚑ | 0 | 0 | 毎日 | 22 | 2026-11-07 | 2026-11-13 |  | MIT |
 
 ### コーディングエージェント（160）
@@ -831,7 +832,7 @@
 | [ttf-home](entries/model-serving/oguzeldereli-ttf-home.md) ⚑ | 18 | 4 | 毎日 | 100+ | 2026-11-17 | 2026-11-18 |  | unknown |
 | [ausboss/ComfyUI-AusBoss-Model-Downloader](entries/model-serving/ausboss-comfyui-ausboss-model-downloader.md) ⚑ | 9 | 1 | 週次 | 9 | 2026-11-15 | 2026-11-16 |  | MIT |
 | [Qwen3.8 Weight-Space Programming (Calmer V2)](entries/model-serving/xananthium-qwen3.8-weight-space-programming.md) ⚑ | 4 | 0 | 月次 | 3 | 2026-11-07 | 2026-11-18 |  | Apache-2.0 |
-| [SwiftPulse](entries/model-serving/sineld-swiftpulse.md) ⚑ | 2 | 0 | 週次 | 4 | 2026-11-07 | 2026-11-19 | 2026-11-23 | MIT |
+| [SwiftPulse](entries/model-serving/sineld-swiftpulse.md) ⚑ | 2 | 0 | 週次 | 4 | 2026-11-07 | 2026-11-19 |  | MIT |
 
 ### 音声・TTS（44）
 
