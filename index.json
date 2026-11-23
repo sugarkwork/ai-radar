@@ -1,5 +1,5 @@
 {
-  "count": 1379,
+  "count": 1380,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -7483,6 +7483,35 @@
       "type": "repo",
       "path": "entries/agent-framework/ruc-nlpir-coworkos.md",
       "summary": "**長期・人手を挟む作業のための cowork ハーネス**。人が AI エージェントと一緒に、計画から検証済みの成果物まで持っていく。対象はコード・調査・文書・プレゼン・CAD・Blender・科学計算のワークフロー。"
+    },
+    {
+      "name": "BANK OF AI Skills",
+      "genre": "agent-framework",
+      "url": "https://github.com/BofAI/skills",
+      "repo": "BofAI/skills",
+      "license": "MIT",
+      "stars": 164,
+      "language": "JavaScript",
+      "created": "2026-03-02",
+      "updated": "2026-11-18",
+      "forks": 24,
+      "open_issues": 5,
+      "commits_30d": 12,
+      "commit_cadence": "weekly",
+      "commits_90d": 54,
+      "size_kb": 4119,
+      "archived": false,
+      "flags": [],
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "risk_notes": "",
+      "sources": [
+        "https://x.com/joejossy_12/status/2119196000963154122"
+      ],
+      "fetched_at": "2026-11-18T08:13:22.004880+00:00",
+      "path": "entries/agent-framework/bofai-skills.md",
+      "summary": "AIエージェント向けの再利用可能なブロックチェーン作業スキルを提供する。README記載の例は、TRONウォレット操作、SunSwapの価格照会・スワップ・流動性操作、SunPerpの市場情報・注文・ポジション管理、TronScanのチェーンデータ照会、USDDの残高確認やスワップなど。"
     },
     {
       "repo": "brenoepics/video-to-skill",

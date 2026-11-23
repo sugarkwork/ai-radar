@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1379 件 — リポジトリ 975, リンク集 120, 記事 217, モデル 53, プロンプト 14 / ⚑ 要確認 1119 件
+収録 1380 件 — リポジトリ 976, リンク集 120, 記事 217, モデル 53, プロンプト 14 / ⚑ 要確認 1119 件
 
-## リポジトリ（975）
+## リポジトリ（976）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -386,7 +386,7 @@
 | [Leash](entries/coding-agent/cmaintz-leash.md) ⚑ | 0 | 0 | 毎日 | 20 | 2026-11-15 | 2026-11-16 | 2026-11-22 | MIT |
 | [grok-x](entries/coding-agent/stat-guy-grok-x.md) ⚑ | 0 | 0 | 停滞 | 0 | 2026-03-19 | 2026-11-16 | 2026-11-22 | unknown |
 
-### エージェント基盤・スキル集（129）
+### エージェント基盤・スキル集（130）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -504,6 +504,7 @@
 | [neo4jev — Graph Navigation Demo (TypeSafe Jev + Neo4j)](entries/agent-framework/jexp-neo4jev.md) ⚑ | 189 | 27 | 月次 | 0 | 2026-09-18 | 2026-11-16 | 2026-11-22 | MIT |
 | [AgentFlux](entries/agent-framework/davemessew-agentflux.md) ⚑ | 182 | 4 | 月次 | 2 | 2026-10-30 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
 | [CoworkOS](entries/agent-framework/ruc-nlpir-coworkos.md) | 176 | 17 | 週次 | 17 | 2026-11-03 | 2026-11-16 | 2026-11-22 | MIT |
+| [BANK OF AI Skills](entries/agent-framework/bofai-skills.md) | 164 | 24 | 週次 | 12 | 2026-11-18 | 2026-11-18 | 2026-11-23 | MIT |
 | [video-to-skill](entries/agent-framework/brenoepics-video-to-skill.md) | 158 | 23 | 毎日 | 100+ | 2026-11-11 | 2026-11-16 | 2026-11-22 | MIT |
 | [Canny](entries/agent-framework/qkal-canny.md) ⚑ | 135 | 18 | 週次 | 8 | 2026-11-13 | 2026-11-16 | 2026-11-22 | MIT |
 | [Pi Agent Computer Use](entries/agent-framework/alexshpunt-pi-agent-computer-use.md) ⚑ | 94 | 5 | 毎日 | 100+ | 2026-11-17 | 2026-11-18 | 2026-11-23 | MIT |
