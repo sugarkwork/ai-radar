@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1428 件 — リポジトリ 1013, リンク集 121, 記事 225, モデル 55, プロンプト 14 / ⚑ 要確認 1162 件
+収録 1429 件 — リポジトリ 1013, リンク集 121, 記事 226, モデル 55, プロンプト 14 / ⚑ 要確認 1163 件
 
 ## リポジトリ（1013）
 
@@ -1589,9 +1589,9 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（225）
+## 記事（226）
 
-### 記事（161）
+### 記事（162）
 
 - **[$0のデジタル参謀長で月$80,000の契約候補を作ったというX投稿（動画付き）](articles/2026-10-22-bober_smart-0-80-000-x.md)** ⚑  @Bober_smart
 - **[1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md)** ⚑  @mukadeshinigami（mukade死神）
@@ -1665,6 +1665,7 @@
 - **[How to set up Claude](articles/2026-09-30-author-how-to-set-up-claude.md)** ⚑
 - **[How we’re training a Figma-fluent editing model](articles/2026-10-29-author-how-we-re-training-a-figma-fluent-editing-model.md)** ⚑
 - **[Hundreds of Mundane AI Apps Are Hiding Sexually Abusive Deepfake Features](articles/2026-11-02-author-hundreds-of-mundane-ai-apps-are-hiding-sexually-abusive-deepfake-features.md)**
+- **[I can be you.](articles/2026-05-03-author-i-can-be-you.md)** ⚑
 - **[IBMとMicrosoftのImagine Enterprise発表を研究機関の評価観点から解説する記事](articles/2026-11-14-author-ibm-microsoft-imagine-enterprise.md)** ⚑
 - **[Independent Assessment of AI R&D Acceleration at Anthropic in October 2026](articles/2026-11-05-author-independent-assessment-of-ai-r-d-acceleration-at-anthropic-in-october-2026.md)** ⚑
 - **[InstantHMR: Real-Time Human Mesh Recovery on Your Phone](articles/2026-11-06-author-instanthmr-real-time-human-mesh-recovery-on-your-phone.md)**
@@ -2119,6 +2120,7 @@
 - [Harness design for long-running application development](articles/2026-03-24-author-harness-design-for-long-running-application-development.md) — unverified / 生成アプリの独立再現、構成要素ごとの寄与、別タスクへの一般化、実験用ハーネスのコード配布・再利用条件は未確認。
 - [How to set up Claude](articles/2026-09-30-author-how-to-set-up-claude.md) — low-quality, unverified / 公式ヘルプセンターはTeamプランに最低5人を要すると説明しているが、記事は2人と記載。また、個人アカウントよりTeamが安全という主張を裏付ける一次資料は確認できなかった。 Teamプランは最低5人必要で、個人利用向けではないというAnthropicの案内があり、記事中の「2人以上」という説明と異なる。また、記事の「Teamプランの方が安全」という評価や、機能・価格・モデル情報の一部は公式資料で確認できていないため、最新条件を公式ページで確認する必要がある。
 - [How we’re training a Figma-fluent editing model](articles/2026-10-29-author-how-we-re-training-a-figma-fluent-editing-model.md) — unverified / 比較結果はFigmaの社内評価で、独立した再現性は未確認。学習データに含まれる顧客コンテンツの具体的な範囲と利用条件、学習済みモデルやデータの入手・再利用条件、モデル単体の速度と費用は未確認。
+- [I can be you.](articles/2026-05-03-author-i-can-be-you.md) — unverified / 記事内の「AIが本人のように書く」などの効果は著者の説明・例であり、独立した性能検証ではありません。
 - [IBMとMicrosoftのImagine Enterprise発表を研究機関の評価観点から解説する記事](articles/2026-11-14-author-ibm-microsoft-imagine-enterprise.md) — unverified / 大学での導入や研究業務との統合は発表資料で確認できない。ガバナンス機能は企業の説明であり、独立認証や個別機関のワークフローでの有効性を示すものではない。
 - [Independent Assessment of AI R&D Acceleration at Anthropic in October 2026](articles/2026-11-05-author-independent-assessment-of-ai-r-d-acceleration-at-anthropic-in-october-2026.md) — unverified / METRの結論を強く支えた証拠の大半は非公開。公開情報からは推定の独立再現や、加速のうちAI利用に起因する割合の検証はできない。
 - [Introducing Arete-27B: Qwen3.8-27B Post-Trained To Reinforce Western Values](articles/2026-11-06-author-introducing-arete-27b-qwen3.8-27b-post-trained-to-reinforce-western-values.md) — unverified / 評価結果と能力維持の主張は記事著者による報告であり、独立検証とは確認できていない。記事自身が全ての関連挙動を解消したとは主張していない。

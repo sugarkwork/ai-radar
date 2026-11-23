@@ -1,5 +1,5 @@
 {
-  "count": 1428,
+  "count": 1429,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -9928,6 +9928,24 @@
       ],
       "fetched_at": "2026-11-13T23:13:14.520565+00:00",
       "path": "articles/2026-11-02-author-hundreds-of-mundane-ai-apps-are-hiding-sexually-abusive-deepfake-features.md"
+    },
+    {
+      "name": "I can be you.",
+      "genre": "article",
+      "url": "https://ruben.substack.com/p/youre-just-a-text-file",
+      "published": "2026-05-03",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "記事内の「AIが本人のように書く」などの効果は著者の説明・例であり、独立した性能検証ではありません。",
+      "type": "article",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/okapi_fukugyo/status/2119299912882123032"
+      ],
+      "fetched_at": "2026-11-18T21:12:16.439271+00:00",
+      "path": "articles/2026-05-03-author-i-can-be-you.md"
     },
     {
       "name": "IBMとMicrosoftのImagine Enterprise発表を研究機関の評価観点から解説する記事",
