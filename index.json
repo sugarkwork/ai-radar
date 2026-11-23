@@ -1,5 +1,5 @@
 {
-  "count": 1409,
+  "count": 1410,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -27565,6 +27565,37 @@
       "fetched_at": "2026-11-17T11:10:35.793542+00:00",
       "path": "entries/other/luanti-org-luanti.md",
       "summary": "Luantiは、ゲームの改造やゲーム制作が容易な、自由なオープンソースのボクセルゲームエンジンです。操作キーは設定から変更でき、READMEには既定の操作一覧があります。"
+    },
+    {
+      "name": "Video Subtitle Remover (VSR)",
+      "genre": "other",
+      "url": "https://github.com/YaoFANGUK/video-subtitle-remover",
+      "repo": "YaoFANGUK/video-subtitle-remover",
+      "license": "Apache-2.0",
+      "stars": 13798,
+      "language": "Python",
+      "created": "2023-10-25",
+      "updated": "2026-06-30",
+      "forks": 1713,
+      "open_issues": 196,
+      "commits_30d": 0,
+      "commit_cadence": "stale",
+      "commits_90d": 0,
+      "size_kb": 1505343,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEが示す機能・アルゴリズム別の効果は作者の説明であり、独立した実測結果は確認していない。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/RoundtableSpace/status/2123027189276778909"
+      ],
+      "fetched_at": "2026-11-18T15:18:15.241774+00:00",
+      "path": "entries/other/yaofanguk-video-subtitle-remover.md",
+      "summary": "動画のハード字幕を除去し、字幕領域をAIベースのインペインティングで補完するソフトウェア。字幕の位置を指定した除去、位置指定なしで動画内テキストを自動除去、複数画像の透かし・テキスト除去に対応するとREADMEは説明しています。字幕抽出機能もあり、READMEではvideo-subtitle-extractorとの併用"
     },
     {
       "repo": "Thysrael/Horizon",
