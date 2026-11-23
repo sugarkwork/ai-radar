@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1492 件 — リポジトリ 1056, リンク集 123, 記事 244, モデル 55, プロンプト 14 / ⚑ 要確認 1217 件
+収録 1493 件 — リポジトリ 1057, リンク集 123, 記事 244, モデル 55, プロンプト 14 / ⚑ 要確認 1218 件
 
-## リポジトリ（1056）
+## リポジトリ（1057）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（262）
+### その他（263）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -154,6 +154,7 @@
 | [EmulatorJS](entries/other/emulatorjs-emulatorjs.md) ⚑ | 4,351 | 1,037 | 週次 | 5 | 2026-10-21 | 2026-11-17 |  | GPL-3.0 |
 | [Storyboarder](entries/other/wonderunit-storyboarder.md) ⚑ | 3,946 | 404 | 停滞 | 0 | 2024-03-17 | 2026-11-11 |  | unknown |
 | [Marp CLI](entries/other/marp-team-marp-cli.md) ⚑ | 3,922 | 207 | 月次 | 0 | 2026-09-08 | 2026-11-15 |  | MIT |
+| [SoMark OXR](entries/other/somarkai-oxr.md) ⚑ | 3,904 | 262 | 月次 | 3 | 2026-11-06 | 2026-11-19 | 2026-11-23 | unknown |
 | [three-mesh-bvh](entries/other/gkjohnson-three-mesh-bvh.md) ⚑ | 3,576 | 352 | 毎日 | 100+ | 2026-11-18 | 2026-11-18 |  | MIT |
 | [TweenJS](entries/other/createjs-tweenjs.md) ⚑ | 3,568 | 940 | 停滞 | 0 | 2023-12-18 | 2026-11-16 |  | MIT |
 | [Demucs](entries/other/adefossez-demucs.md) ⚑ | 3,564 | 333 | 月次 | 1 | 2026-10-26 | 2026-11-18 |  | MIT |
@@ -242,7 +243,7 @@
 | [p5.capture](entries/other/tapioca24-p5.capture.md) ⚑ | 318 | 9 | 停滞 | 0 | 2026-04-15 | 2026-11-18 |  | MIT |
 | [Image 2 Sculpt](entries/other/gokayfem-image-to-sculpt.md) ⚑ | 295 | 21 | 月次 | 2 | 2026-11-08 | 2026-11-16 |  | MIT |
 | [Sakutto](entries/other/jammaru-sakutto.md) ⚑ | 271 | 30 | 毎日 | 100+ | 2026-11-18 | 2026-11-18 |  | MIT |
-| [豆包工作蓝皮书（DoubaoWork Guide）](entries/other/alephaitech-doubaoworkguide.md) ⚑ | 257 | 31 | 月次 | 1 | 2026-11-15 | 2026-11-19 | 2026-11-23 | MIT |
+| [豆包工作蓝皮书（DoubaoWork Guide）](entries/other/alephaitech-doubaoworkguide.md) ⚑ | 257 | 31 | 月次 | 1 | 2026-11-15 | 2026-11-19 |  | MIT |
 | [rea-toon](entries/other/juneyaooo-rea-toon.md) ⚑ | 253 | 45 | 週次 | 8 | 2026-11-17 | 2026-11-17 |  | unknown |
 | [Awesome Social Media Skills](entries/other/underleveledbuilder-awesome-social-media-skills.md) ⚑ | 252 | 40 | 毎日 | 33 | 2026-11-08 | 2026-11-10 |  | CC0-1.0 |
 | [Download Anything (DA)](entries/other/nengong-download-anything.md) ⚑ | 251 | 6 | 毎日 | 32 | 2026-11-08 | 2026-11-17 |  | unknown |
@@ -2788,6 +2789,7 @@
 - [EmulatorJS](entries/other/emulatorjs-emulatorjs.md) — unverified / 一次資料で未確認: 依存関係。
 - [Storyboarder](entries/other/wonderunit-storyboarder.md) — unverified / ライセンスは確認できていません（GitHub API値: unknown）。 GitHub APIでライセンスを確認できていません。
 - [Marp CLI](entries/other/marp-team-marp-cli.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
+- [SoMark OXR](entries/other/somarkai-oxr.md) — unverified / API上のライセンス値はunknown。README抜粋では利用条件を確認できないため、ライセンスと利用条件は要確認。ベンチマーク順位・速度・精度の記述はREADME上の作者の主張で、独立検証はしていない。 GitHub APIでライセンスを確認できていません。
 - [three-mesh-bvh](entries/other/gkjohnson-three-mesh-bvh.md) — unverified / 一次資料で未確認: 依存関係・実行条件。
 - [TweenJS](entries/other/createjs-tweenjs.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Demucs](entries/other/adefossez-demucs.md) — unverified / READMEではMUSDB HQテストセットでのSDR値を報告しています。これはREADME上の報告であり、この候補についての独立した実測ではありません。実験的な6音源モデルのピアノ分離には漏れやアーティファクトが多いとREADMEに記載されています。

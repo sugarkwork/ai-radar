@@ -1,5 +1,5 @@
 {
-  "count": 1492,
+  "count": 1493,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -30751,6 +30751,37 @@
       "fetched_at": "2026-11-15T05:28:34.503405+00:00",
       "path": "entries/other/marp-team-marp-cli.md",
       "summary": "Marp/Marpit形式のMarkdownスライドをHTML/CSS、PDF、PowerPoint（PPTX）、PNG/JPEG画像へ変換できる。PDFには発表者ノートの注釈やアウトラインを付けられる。通常のPPTXはレンダリング済み画像を含み、編集可能なPPTX出力は実験的機能として提供される。"
+    },
+    {
+      "name": "SoMark OXR",
+      "genre": "other",
+      "url": "https://github.com/SoMarkAI/OXR",
+      "repo": "SoMarkAI/OXR",
+      "license": "unknown",
+      "stars": 3904,
+      "language": "Python",
+      "created": "2026-10-05",
+      "updated": "2026-11-06",
+      "forks": 262,
+      "open_issues": 29,
+      "commits_30d": 3,
+      "commit_cadence": "monthly",
+      "commits_90d": 16,
+      "size_kb": 1705,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "API上のライセンス値はunknown。README抜粋では利用条件を確認できないため、ライセンスと利用条件は要確認。ベンチマーク順位・速度・精度の記述はREADME上の作者の主張で、独立検証はしていない。 GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/ai_hakase_/status/2119370852126908922"
+      ],
+      "fetched_at": "2026-11-19T19:13:42.990946+00:00",
+      "path": "entries/other/somarkai-oxr.md",
+      "summary": "PDFや文書画像をMarkdownまたはJSONに変換し、レイアウト座標を含むデータを出力する。READMEでは、数式、表、化学式、化学構造、コードブロックなど13種類の文書要素を認識すると説明している。レイアウト解析モジュールは差し替え可能とされる。"
     },
     {
       "name": "three-mesh-bvh",
