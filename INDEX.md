@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1555 件 — リポジトリ 1104, リンク集 125, 記事 257, モデル 55, プロンプト 14 / ⚑ 要確認 1272 件
+収録 1556 件 — リポジトリ 1105, リンク集 125, 記事 257, モデル 55, プロンプト 14 / ⚑ 要確認 1273 件
 
-## リポジトリ（1104）
+## リポジトリ（1105）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（283）
+### その他（284）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Apktool](entries/other/ibotpeaches-apktool.md) ⚑ | 27,284 | 4,266 | 週次 | 4 | 2026-11-16 | 2026-11-19 |  | Apache-2.0 |
 | [Filee](entries/other/knifelemon-filee.md) ⚑ | 26,944 | 1,546 | 毎日 | 100+ | 2026-11-14 | 2026-11-14 |  | MIT |
 | [Jenkins](entries/other/jenkinsci-jenkins.md) ⚑ | 26,780 | 9,838 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 |  | MIT |
-| [GrapesJS](entries/other/grapesjs-grapesjs.md) ⚑ | 26,424 | 4,652 | 週次 | 14 | 2026-11-13 | 2026-11-22 | 2026-11-23 | unknown |
+| [GrapesJS](entries/other/grapesjs-grapesjs.md) ⚑ | 26,424 | 4,652 | 週次 | 14 | 2026-11-13 | 2026-11-22 |  | unknown |
 | [Lucide](entries/other/lucide-icons-lucide.md) ⚑ | 25,800 | 1,692 | 毎日 | 100+ | 2026-11-17 | 2026-11-17 |  | unknown |
 | [radare2](entries/other/radareorg-radare2.md) ⚑ | 25,456 | 3,454 | 毎日 | 100+ | 2026-11-18 | 2026-11-19 |  | unknown |
 | [Neural Networks: Zero to Hero](entries/other/karpathy-nn-zero-to-hero.md) ⚑ | 25,433 | 3,697 | 停滞 | 0 | 2024-08-18 | 2026-11-10 |  | MIT |
@@ -279,6 +279,7 @@
 | [Strata](entries/other/carthageadev-strata.md) ⚑ | 48 | 3 | 毎日 | 41 | 2026-11-11 | 2026-11-16 |  | unknown |
 | [Voice Workshop (Officina della voce)](entries/other/mithrilman-voice-workshop.md) ⚑ | 37 | 9 | 毎日 | 31 | 2026-11-08 | 2026-11-17 |  | Apache-2.0 |
 | [clash-jev](entries/other/bytelabs-oss-clash-jev.md) ⚑ | 37 | 11 | 月次 | 0 | 2026-10-14 | 2026-11-16 |  | MIT |
+| [Pixprite](entries/other/vicimpa-pixprite.md) ⚑ | 36 | 3 | 毎日 | 58 | 2026-11-09 | 2026-11-22 | 2026-11-23 | MIT |
 | [SoMarkDown](entries/other/somarkai-somarkdown.md) ⚑ | 34 | 2 | 停滞 | 0 | 2026-09-09 | 2026-11-19 |  | MIT |
 | [Sprite Pencil](entries/other/256arts-sprite-pencil.md) ⚑ | 28 | 6 | 週次 | 9 | 2026-11-11 | 2026-11-16 |  | unknown |
 | [jevframe](entries/other/ktaletsk-jevframe.md) ⚑ | 21 | 3 | 月次 | 0 | 2026-09-24 | 2026-11-10 |  | MIT |
@@ -3001,6 +3002,7 @@
 - [Strata](entries/other/carthageadev-strata.md) — unverified / GitHub APIでライセンスを確認できていません。
 - [Voice Workshop (Officina della voce)](entries/other/mithrilman-voice-workshop.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係。
 - [clash-jev](entries/other/bytelabs-oss-clash-jev.md) — unverified / 約135msはREADMEが示すJevの単一応答の目安。全体遅延、勝率、端末ごとの認識精度、現行API料金は未検証。READMEは自動プレイがSupercellの利用規約に反すると明記している。
+- [Pixprite](entries/other/vicimpa-pixprite.md) — unverified / READMEでは「Early development」とされ、最新リリースは0.0.8と記載されています。
 - [SoMarkDown](entries/other/somarkai-somarkdown.md) — unverified / 一次資料で未確認: 技術背景・実行条件。
 - [Sprite Pencil](entries/other/256arts-sprite-pencil.md) — unverified / README does not state the license or the app's cost; confirm these before relying on reuse or distribution terms. GitHub APIでライセンスを確認できていません。
 - [jevframe](entries/other/ktaletsk-jevframe.md) — unverified / READMEと公開パッケージ情報を確認した。実行による精度、処理速度、費用削減の検証は行っていない。TypeSafe APIの現行単価とデータ保持条件、およびGitHubの最新リリースは未確認。

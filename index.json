@@ -1,5 +1,5 @@
 {
-  "count": 1555,
+  "count": 1556,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -35603,6 +35603,37 @@
       "fetched_at": "2026-11-16T21:59:00Z",
       "path": "entries/other/bytelabs-oss-clash-jev.md",
       "summary": "ADBで取得したH.264映像から手札、エリクサー、タワーなどを読み取り、既定で毎秒JSONのゲーム状態を組み立てる。Jevが戦略、カード、配置マスを順に選び、実行可能性を検査してからタップする。"
+    },
+    {
+      "name": "Pixprite",
+      "genre": "other",
+      "url": "https://github.com/vicimpa/pixprite",
+      "repo": "vicimpa/pixprite",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEでは「Early development」とされ、最新リリースは0.0.8と記載されています。",
+      "stars": 36,
+      "forks": 3,
+      "open_issues": 1,
+      "size_kb": 3251,
+      "language": "TypeScript",
+      "created": "2025-09-04",
+      "updated": "2026-11-09",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 58,
+      "commits_90d": 63,
+      "commit_cadence": "daily",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/dextune/status/2119422188369359086"
+      ],
+      "fetched_at": "2026-11-22T04:54:55.163612+00:00",
+      "path": "entries/other/vicimpa-pixprite.md",
+      "summary": "ブラウザーまたはデスクトップで動くピクセルアート編集ソフトです。描画、アニメーション、レイヤーや変形を使った編集、タイルマップ作成に対応し、.pixprite、.aseprite、PNG、GIF、APNG、WebM、スプライトシート、ZIP形式でファイルを扱えます。ローカルMCPサーバー経由で、対応クライアントからドキ"
     },
     {
       "name": "SoMarkDown",
