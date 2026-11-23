@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1523 件 — リポジトリ 1080, リンク集 125, 記事 249, モデル 55, プロンプト 14 / ⚑ 要確認 1244 件
+収録 1524 件 — リポジトリ 1081, リンク集 125, 記事 249, モデル 55, プロンプト 14 / ⚑ 要確認 1245 件
 
-## リポジトリ（1080）
+## リポジトリ（1081）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -100,7 +100,7 @@
 | [Satori](entries/other/vercel-satori.md) ⚑ | 14,195 | 404 | 週次 | 5 | 2026-11-12 | 2026-11-17 |  | MPL-2.0 |
 | [Luanti](entries/other/luanti-org-luanti.md) ⚑ | 13,871 | 2,531 | 毎日 | 84 | 2026-11-16 | 2026-11-17 |  | unknown |
 | [Video Subtitle Remover (VSR)](entries/other/yaofanguk-video-subtitle-remover.md) ⚑ | 13,798 | 1,713 | 停滞 | 0 | 2026-06-30 | 2026-11-18 |  | Apache-2.0 |
-| [Quartz](entries/other/jackyzha0-quartz.md) ⚑ | 13,613 | 4,145 | 毎日 | 100+ | 2026-11-19 | 2026-11-20 | 2026-11-23 | MIT |
+| [Quartz](entries/other/jackyzha0-quartz.md) ⚑ | 13,613 | 4,145 | 毎日 | 100+ | 2026-11-19 | 2026-11-20 |  | MIT |
 | [Horizon](entries/other/thysrael-horizon.md) | 13,147 | 1,876 | 毎日 | 80 | 2026-11-09 | 2026-11-09 |  | MIT |
 | [Paper](entries/other/papermc-paper.md) ⚑ | 12,815 | 3,564 | 毎日 | 58 | 2026-11-15 | 2026-11-16 |  | unknown |
 | [Thaw](entries/other/thaw-app-thaw.md) ⚑ | 12,708 | 345 | 毎日 | 100+ | 2026-11-13 | 2026-11-13 |  | GPL-3.0 |
@@ -458,7 +458,7 @@
 | [Leash](entries/coding-agent/cmaintz-leash.md) ⚑ | 0 | 0 | 毎日 | 20 | 2026-11-15 | 2026-11-16 |  | MIT |
 | [grok-x](entries/coding-agent/stat-guy-grok-x.md) ⚑ | 0 | 0 | 停滞 | 0 | 2026-03-19 | 2026-11-16 |  | unknown |
 
-### エージェント基盤・スキル集（135）
+### エージェント基盤・スキル集（136）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -522,6 +522,7 @@
 | [e2e](entries/agent-framework/e2e-inc-e2e.md) ⚑ | 13,953 | 753 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 |  | Apache-2.0 |
 | [dsh-market/dsh-market](entries/agent-framework/dsh-market-dsh-market.md) ⚑ | 12,641 | 483 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 |  | MIT |
 | [Worktrunk](entries/agent-framework/max-sixty-worktrunk.md) ⚑ | 12,569 | 500 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 |  | MIT OR Apache-2.0 |
+| [MemOS 2.0 Stardust（星尘）](entries/agent-framework/memtensor-memos.md) ⚑ | 12,457 | 1,132 | 毎日 | 35 | 2026-11-20 | 2026-11-20 | 2026-11-23 | Apache-2.0 |
 | [jakubkrehel/skills（UI デザインスキル集）](entries/agent-framework/jakubkrehel-skills.md) | 12,250 | 478 | 毎日 | 40 | 2026-11-16 | 2026-11-16 |  | MIT |
 | [InkOS](entries/agent-framework/narcooo-inkos.md) | 11,253 | 2,029 | 週次 | 6 | 2026-10-24 | 2026-11-16 |  | AGPL-3.0 |
 | [AutoHarness](entries/agent-framework/tigerless-labs-autoharness.md) ⚑ | 11,145 | 666 | 毎日 | 100+ | 2026-11-12 | 2026-11-16 |  | MIT |
@@ -2096,6 +2097,7 @@
 - [e2e](entries/agent-framework/e2e-inc-e2e.md) — unverified / エージェント実行には利用者自身のサブスクリプション、APIキー、またはローカルモデルが必要。料金や各モデルの利用条件はREADMEに記載なし。
 - [dsh-market/dsh-market](entries/agent-framework/dsh-market-dsh-market.md) — unverified / 4200以上のプラグインという数は投稿/READMEの主張で独立確認なし。市場の掲載は各プラグインの安全性保証ではない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Worktrunk](entries/agent-framework/max-sixty-worktrunk.md) — unverified / 発見元の投稿は画面録画MCP（t.co リンク先は gmpetrov/agent-screenplay）の紹介で、worktrunk はそのツールではない。worktrunk は git worktree 管理 CLI で、投稿本文に worktrunk への言及はない。数値・機能は worktrunk 自身の API/README/公式ドキュメントで確認した。
+- [MemOS 2.0 Stardust（星尘）](entries/agent-framework/memtensor-memos.md) — unverified / README内のCloud APIサンプルは一部が伏字・破損しており、そのまま実行できる状態ではありません。セルフホスト手順ではAPIキーの設定が必要とされています。ベンチマーク値や効果はREADMEでのプロジェクト側の報告であり、独立検証としては確認していません。
 - [AutoHarness](entries/agent-framework/tigerless-labs-autoharness.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [zhu1090093659/dsh-web](entries/agent-framework/zhu1090093659-dsh-web.md) — unverified / 10選への掲載とGitHub実在確認は動作試験ではない。外部公開時の安全性・セッション保持・料金は未確認。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Mobilerun](entries/agent-framework/droidrun-mobilerun.md) — unverified / 投稿の主張のうち一次情報で確認できたのは「root不要」「ADB経由で実機を操作」「MIT」まで。未確認/誤り: (1)「300+機種・40ブランド対応」は README・docs に記載がなく、要件は Android 8.0(API 26)+ のみ。(2)「家庭内Wi-FiのADBは誰でも命令できる抜け穴」は誤りで、公式docsは Android 11+ のワイヤレスデバッグにペアリングコード(or QR)による adb pair を必須と明記。(3)「3ツールのエージェントをMCPとしてClaude Codeに接続」は repo の実装と不一致。repo 内 mobilerun/mcp は外部MCPサーバーをツールとして取り込むクライアント側で、MCPサーバーは提供していない。コーディングエージェント連携は別リポジトリの Markdown スキル mobile-harness 経由。(4) エージェントの操作は9種(click/long_press/type/system_button/swipe/open_app/get_state/take_screenshot/complete)で「3ツール」ではない。(5)「1言でTelegramを開きChatGPTを入れる」動作は docs/README に実演記録がなく、Play Store 経由の自動インストールは未確認(Portal は URL からの APK インストールには対応)。(6) 引用記事 https://x.com/i/article/2109686434210693120 はログイン要求で本文未取得。(7) ベンチマーク 100% AndroidWorld / 98.34% iOSWorld はベンダー自己申告で第三者追試なし。

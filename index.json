@@ -1,5 +1,5 @@
 {
-  "count": 1523,
+  "count": 1524,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -5757,6 +5757,37 @@
       "amplifiers": [],
       "path": "entries/agent-framework/max-sixty-worktrunk.md",
       "summary": "git worktree をブランチ名で扱う3つの基本コマンド: wt switch（作成・切替。-c で新規ブランチ）、wt list（変更・ahead/behind・CI・PR・LLM要約つき一覧）、wt merge（squash→rebase→fast-forward→後片付けを1コマンド）、wt remove。"
+    },
+    {
+      "name": "MemOS 2.0 Stardust（星尘）",
+      "genre": "agent-framework",
+      "url": "https://github.com/MemTensor/MemOS",
+      "repo": "MemTensor/MemOS",
+      "license": "Apache-2.0",
+      "stars": 12457,
+      "language": "TypeScript",
+      "created": "2025-07-06",
+      "updated": "2026-11-20",
+      "forks": 1132,
+      "open_issues": 143,
+      "commits_30d": 35,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 75284,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "README内のCloud APIサンプルは一部が伏字・破損しており、そのまま実行できる状態ではありません。セルフホスト手順ではAPIキーの設定が必要とされています。ベンチマーク値や効果はREADMEでのプロジェクト側の報告であり、独立検証としては確認していません。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/rosemoni18/status/2119211334797840872"
+      ],
+      "fetched_at": "2026-11-20T03:11:16.888925+00:00",
+      "path": "entries/agent-framework/memtensor-memos.md",
+      "summary": "LLM・AIエージェント向けの長期記憶を管理するシステムです。READMEでは、単一APIによる記憶の追加・検索・編集・削除、テキスト・画像・ツール履歴・ペルソナの統合記憶、複数の知識ベース管理、非同期取り込み、自然言語での記憶修正を機能として挙げています。Cloud API、セルフホスト、MemOS Cloud Pl"
     },
     {
       "repo": "jakubkrehel/skills",
