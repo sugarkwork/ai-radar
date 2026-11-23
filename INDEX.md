@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1452 件 — リポジトリ 1023, リンク集 121, 記事 239, モデル 55, プロンプト 14 / ⚑ 要確認 1182 件
+収録 1453 件 — リポジトリ 1024, リンク集 121, 記事 239, モデル 55, プロンプト 14 / ⚑ 要確認 1183 件
 
-## リポジトリ（1023）
+## リポジトリ（1024）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -255,7 +255,7 @@
 | [Pay Small Check](entries/other/ahmardchain-pay-small-check.md) ⚑ | 1 | 0 | 毎日 | 32 | 2026-11-07 | 2026-11-16 | 2026-11-22 | MIT |
 | [LapDraw](entries/other/sachinyadavaug20-lapdraw.md) ⚑ | 0 | 0 | 毎日 | 22 | 2026-11-07 | 2026-11-13 | 2026-11-13 | MIT |
 
-### コーディングエージェント（157）
+### コーディングエージェント（158）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -346,6 +346,7 @@
 | [boss-agent-cli](entries/coding-agent/can4hou6joeng4-boss-agent-cli.md) | 2,225 | 194 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
 | [MotionSites Web Builder](entries/coding-agent/motionsites-ai-claude-skill.md) ⚑ | 2,160 | 221 | 月次 | 2 | 2026-10-26 | 2026-11-16 | 2026-11-22 | unknown |
 | [zlib](entries/coding-agent/heartleo-zlib.md) ⚑ | 2,022 | 141 | 毎日 | 100+ | 2026-11-15 | 2026-11-16 | 2026-11-22 | MIT |
+| [Nezha](entries/coding-agent/hanshuaikang-nezha.md) ⚑ | 1,901 | 174 | 月次 | 0 | 2026-09-17 | 2026-11-19 | 2026-11-23 | GPL-3.0 |
 | [BAMA: Build Any Mac App](entries/coding-agent/daveebbelaar-bama.md) ⚑ | 1,866 | 228 | 毎日 | 27 | 2026-11-05 | 2026-11-16 | 2026-11-22 | MIT |
 | [reanimate](entries/coding-agent/niazmorshed2007-reanimate.md) ⚑ | 1,721 | 147 | 毎日 | 20 | 2026-10-31 | 2026-11-16 | 2026-11-22 | MIT |
 | [PHP Version Checker](entries/coding-agent/openai-php2shell-checker.md) ⚑ | 1,470 | 148 | 週次 | 8 | 2026-10-22 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
@@ -2308,6 +2309,7 @@
 - [Rainman Translate Book](entries/coding-agent/deusyu-translate-book.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [MotionSites Web Builder](entries/coding-agent/motionsites-ai-claude-skill.md) — unverified / ['作者のREADMEで手順を確認した。導入、スクリーンショットによる修正ループ、生成品質、外部配信素材の到達性は実測していない。', 'GitHubの公開ページで最新タグを確認した。公開日時の年とタイムゾーンは取得できなかった。'] GitHub APIでライセンスを確認できていません。
 - [zlib](entries/coding-agent/heartleo-zlib.md) — unverified / 利用にはZ-Libraryアカウントが必要とREADMEに記載されています。利用可能なドメインやダウンロード条件の詳細はREADME本文では確認できません。
+- [Nezha](entries/coding-agent/hanshuaikang-nezha.md) — low-quality, unverified / READMEは未署名パッケージの警告に対し、`xattr -rd com.apple.quarantine /Applications/nezha.app` の実行を案内している。OSの隔離属性を削除する手順だが、リスク説明は記載されていない。 READMEでは未署名のmacOSインストールパッケージに対し、隔離属性を再帰的に削除する手順を案内している。この操作による安全性への影響はREADMEでは説明されていない。
 - [BAMA: Build Any Mac App](entries/coding-agent/daveebbelaar-bama.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [reanimate](entries/coding-agent/niazmorshed2007-reanimate.md) — unverified / Windows is untested. The README says the skill has only been tested with Claude Code, though other agents that read SKILL.md can install it.
 - [PHP Version Checker](entries/coding-agent/openai-php2shell-checker.md) — unverified / READMEとスキル文書を確認した。コードは実行しておらず、実環境での判定結果、Node.jsの最低対応バージョン、各ベンダーの修正情報との照合は未検証。公開Releasesページにはリリースの掲載がなく、最新リリースAPIは未確認。
