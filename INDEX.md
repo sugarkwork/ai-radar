@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1383 件 — リポジトリ 978, リンク集 120, 記事 217, モデル 54, プロンプト 14 / ⚑ 要確認 1121 件
+収録 1384 件 — リポジトリ 978, リンク集 120, 記事 217, モデル 55, プロンプト 14 / ⚑ 要確認 1122 件
 
 ## リポジトリ（978）
 
@@ -1413,7 +1413,7 @@
 - **[Phind](links/rag/https-www.phind.com.md)** ⚑  @hey_Jessicaai
   - 開発者向け検索・回答サービスとして紹介されたPhind。
 
-## モデル（54）
+## モデル（55）
 
 ### その他（15）
 
@@ -1448,7 +1448,7 @@
 - **[mradermacher/gemma-4-31B-it-ARA-heretic-GGUF](models/other/mradermacher-gemma-4-31b-it-ara-heretic-gguf.md)** ⚑  free / mradermacher
   - gemma-4-31B-it-ARA-hereticのmradermacherによるGGUF配布。Sophon記事の引用にあるが別のテキストモデル。
 
-### 動画生成パイプライン（12）
+### 動画生成パイプライン（13）
 
 - **[Anima RGBA](models/video-gen/localai0301-anima-rgba.md)**  free / localai0301
   - アニメ画像モデル **Anima** で、**透過（RGBA）画像を生成**するための VAE と LoRA のセット。
@@ -1456,6 +1456,8 @@
   - HyperFlow H3 FlashをComfyUIで使うための非公式INT8変換重み。
 - **[H3 Ripple](models/video-gen/wepenerd-h3-ripple.md)**  free / WepeNerd
   - **MiniMax H3 FL2VA 用の LoRA**。既存の動画ショットから1〜2枚のアンカーフレームを選び、画像編集で直した内容を、指定した区間の全フレームへ伝播させる。
+- **[LTX-2.5](models/video-gen/lightricks-ltx-2.5.md)** ⚑
+  - 公式モデルカードはLTX-2.5を動画・音声・世界シミュレーション向けとして説明し、テキストからの動画生成、画像からの動画生成、動画・音声を含む複数の入出力形式を掲載しています。カード内の手順にはテキスト動画生成、画像動画生成、空間アップスケーリングの例があります。
 - **[P-H3-Image](models/video-gen/prunaai-p-h3-image.md)** ⚑  free / PrunaAI
   - 動画モデル **MiniMax-H3** を画像生成・画像編集モデルに転用したもの。PrunaAI が H3 から蒸留・再構成し、約7分の1のサイズ・約5倍の速度（同社比較）を主張している。
 - **[Pika H3 Flex Turbo LoRA](models/video-gen/pika-labs-pika-h3-flex-turbo-lora.md)** ⚑  free / Pika Labs（LoRA 制作は @_akhaliq）
@@ -2918,6 +2920,7 @@
 - [History Forcing: Distilling History-Dependent Continuations for Long-Horizon Video World Models](articles/2026-11-02-author-history-forcing-distilling-history-dependent-continuations-for-long-horizon-vide.md) — unverified / 性能値は論文著者らの評価結果であり、独立検証は未確認。投稿文の「minute-long clips」は論文の60秒評価を指すが、実用環境で同様の一貫性が得られることまでは示さない。
 - [HyperFlow H3 Flash 第三者速度比較](articles/2026-11-09-https-x.com-deepforest_inc-status-2118808820013244894.md) — unverified / 画質が変わらないという評価は主観。公式表と解像度・量子化・長さ・ステップ数をそろえず直接比較しない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Kling AI Motion Control](links/video-gen/kling.ai-kling-ai-motion-control.md) — unverified / 無料枠と月額サブスクの金額は未確認（確認できたのは API の従量単価のみ）。参照動画の権利と、生成結果が元動画と似ることによる権利・プラットフォームポリシーの確認が必要。
+- [LTX-2.5](models/video-gen/lightricks-ltx-2.5.md) — unverified / モデルファイルへのアクセスにはHugging Face情報の共有への同意が必要と表示されています。投稿にある「動画モデルで最もダウンロードされた」という比較主張は、このモデルカードの情報だけでは確認できません。
 - [MiniMax H3 long take 連結ワークフロー](links/video-gen/https-civitai.com-models-3038677.md) — unverified / 作者のRTX4070SUPER12GB使用は最低VRAM要件の証明ではない。長尺の整合性・繋ぎ・追加ノードの安全性と権利は未検証。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [MiniMax H3系のボイスLoRA／キャプション運用メモ](articles/2026-11-07-ai_1610-h3-voice-lora-memo.md) — unverified / 18+ / NSFW。引用先のnote記事は成人向け音声演技（喘ぎ・淫語）の設計メモで、職場閲覧注意。本文の『p-h3』は製品リンクがなく固有名を特定できない（H3系=MiniMax H3は既出。PrunaAIのP-H3-Imageは画像モデルで声LoRAとは無関係）。投稿は前投稿の訂正＋運用注意の追記で、新製品・リポジトリの提示ではない。声LoRAの効果やキャプション記述の優劣は本人の運用感で、数値・比較検証は無い。
 - [MiniMax H3：20種のダンスと音楽指定](prompts/video-gen/minimax-h3-20-dance-music.md) — unverified / 投稿本文を原文のまま収録。生成品質や参照画像の一致、音楽と動作の同期は未検証。元投稿には再配布・商用利用条件の明記を確認できていない。ローカルH3の生成物を商用利用するには別途ライセンスが必要。

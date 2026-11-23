@@ -1,5 +1,5 @@
 {
-  "count": 1383,
+  "count": 1384,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -41403,6 +41403,30 @@
       "fetched_at": "2026-11-08T04:51:30Z",
       "path": "links/video-gen/kling.ai-kling-ai-motion-control.md",
       "summary": "1枚の静止画キャラクターに、参照動画の動き・表情・カメラを移植する motion control 機能。Higgsfield を使わない代替ルートとして記事の Step 4 が挙げている。"
+    },
+    {
+      "name": "LTX-2.5",
+      "genre": "video-gen",
+      "url": "https://huggingface.co/Lightricks/LTX-2.5",
+      "model": "Lightricks/LTX-2.5",
+      "license": "ltx-2.x-community-license-agreement",
+      "downloads": 2828071,
+      "likes": 12467,
+      "created": "2026-07-23T07:55:24.000Z",
+      "updated": "2026-10-11T07:00:53.000Z",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "モデルファイルへのアクセスにはHugging Face情報の共有への同意が必要と表示されています。投稿にある「動画モデルで最もダウンロードされた」という比較主張は、このモデルカードの情報だけでは確認できません。",
+      "type": "model",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/IU0QVW/status/2122955661797405025"
+      ],
+      "fetched_at": "2026-11-18T09:57:39Z",
+      "path": "models/video-gen/lightricks-ltx-2.5.md",
+      "summary": "公式モデルカードはLTX-2.5を動画・音声・世界シミュレーション向けとして説明し、テキストからの動画生成、画像からの動画生成、動画・音声を含む複数の入出力形式を掲載しています。カード内の手順にはテキスト動画生成、画像動画生成、空間アップスケーリングの例があります。"
     },
     {
       "type": "link",
