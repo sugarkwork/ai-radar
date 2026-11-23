@@ -1,5 +1,5 @@
 {
-  "count": 1454,
+  "count": 1455,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -11185,6 +11185,24 @@
       ],
       "fetched_at": "2026-11-10T04:08:08Z",
       "path": "articles/2026-10-13-tokenspeed-team-tokenspeed-qwen3.8-flash-next.md"
+    },
+    {
+      "name": "Towards Foundation Decision Models: Drex",
+      "genre": "article",
+      "url": "https://arxiv.org/pdf/2611.07854",
+      "published": "2026-11-05",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "ベンチマークスコアと183 msの応答時間は論文の報告値であり、ここでは独立再現していない。",
+      "type": "article",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/ai_hakase_/status/2119327568226636054"
+      ],
+      "fetched_at": "2026-11-19T07:14:09.708336+00:00",
+      "path": "articles/2026-11-05-author-towards-foundation-decision-models-drex.md"
     },
     {
       "name": "UN-backed anti-terrorism group calls for urgent policy action to halt spread of 'rogue' AI",
