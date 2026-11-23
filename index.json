@@ -1,5 +1,5 @@
 {
-  "count": 1421,
+  "count": 1422,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -8100,6 +8100,37 @@
       "type": "repo",
       "path": "entries/agent-framework/oxylabs-web-api-skills.md",
       "summary": "Oxylabs の Web API をコーディングエージェントから使うためのスキル集。3本構成:"
+    },
+    {
+      "name": "Terrarium Examples",
+      "genre": "agent-framework",
+      "url": "https://github.com/terrarium-sh/terrarium_examples",
+      "repo": "terrarium-sh/terrarium_examples",
+      "license": "unknown",
+      "stars": 2,
+      "language": "JavaScript",
+      "created": "2026-09-17",
+      "updated": "2026-11-13",
+      "forks": 1,
+      "open_issues": 0,
+      "commits_30d": 6,
+      "commit_cadence": "weekly",
+      "commits_90d": 9,
+      "size_kb": 28,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "個々の設定例の内容や利用条件は、提供されたREADMEだけでは確認できない。 GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/ai_hakase_/status/2119294348093276479"
+      ],
+      "fetched_at": "2026-11-18T20:08:14.088005+00:00",
+      "path": "entries/agent-framework/terrarium-sh-terrarium_examples.md",
+      "summary": "Terrarium向けの設定例を参照できる。READMEでは公式例、第三者が使う非公式例、試した・調査した例の3種類に分類されている。"
     },
     {
       "type": "link",
