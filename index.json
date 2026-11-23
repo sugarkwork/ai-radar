@@ -1,5 +1,5 @@
 {
-  "count": 1412,
+  "count": 1413,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -3176,6 +3176,24 @@
       "fetched_at": "2026-11-06T08:07:10Z",
       "path": "models/3d-motion/speridlabs-idol.md",
       "summary": "物体が写った1枚の画像 (写真・レンダリング・生成画像) から、最大 1,048,576 個の 3D Gaussian を生成し、標準的な 3DGS の .ply として出力する"
+    },
+    {
+      "name": "InstantHand: Feed-Forward 3D Gaussian Splatting for Animatable Hand Avatar Reconstruction from a Single Image",
+      "genre": "3d-motion",
+      "url": "https://coolho1129.github.io/InstantHand-page/",
+      "published": "2026-11-05",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "公式実装のREADMEは、改変版diff-gaussian-rasterizationと事前学習済みチェックポイントが非商用研究用途に制限されるため、リポジトリ全体も非商用研究用途のみと記載。",
+      "type": "article",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/Machinedelusion/status/2119272950503530717"
+      ],
+      "fetched_at": "2026-11-18T15:34:05.193639+00:00",
+      "path": "articles/2026-11-05-author-instanthand-feed-forward-3d-gaussian-splatting-for-animatable-hand-avatar-recons.md"
     },
     {
       "type": "model",

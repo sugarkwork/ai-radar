@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1412 件 — リポジトリ 1003, リンク集 120, 記事 220, モデル 55, プロンプト 14 / ⚑ 要確認 1146 件
+収録 1413 件 — リポジトリ 1003, リンク集 120, 記事 221, モデル 55, プロンプト 14 / ⚑ 要確認 1147 件
 
 ## リポジトリ（1003）
 
@@ -1577,7 +1577,7 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（220）
+## 記事（221）
 
 ### 記事（157）
 
@@ -1760,10 +1760,11 @@
 - **[錬金学総論(62) 走る女性の顔クローズアップ](articles/2026-11-08-author-62.md)** ⚑
 - **[錬金学総論58 MiniMax H3のLoRA一覧](articles/2026-11-09-topic-phantom_202601-h3-lora-list-58.md)** ⚑  @Phantom_202601
 
-### 3D・モーション（9）
+### 3D・モーション（10）
 
 - **[Cascadeur AI inbetweening](articles/2026-11-09-cascadeur-ai-inbetweening-introduction.md)** ⚑  @AYi_AInotes
 - **[Charakuru→Blender→C4D MCP→Octaneトゥーン制作例](articles/2026-11-09-topic-seventhgraphics-charakuru-octane.md)** ⚑  @seventhgraphics
+- **[InstantHand: Feed-Forward 3D Gaussian Splatting for Animatable Hand Avatar Reconstruction from a Single Image](articles/2026-11-05-author-instanthand-feed-forward-3d-gaussian-splatting-for-animatable-hand-avatar-recons.md)** ⚑
 - **[Muse×Blender×PLATEAUで作る「日本の名所」3D化リスト](articles/2026-11-07-29meat_ai-muse-blender-plateau.md)** ⚑  @29meat_ai
 - **[Muse・Blender・PLATEAUの大阪城制作実例と生成破綻](articles/2026-11-09-topic-noel_ai_lab-osaka-castle-muse-plateau.md)** ⚑  @noel_ai_lab
 - **[Möbius：動作理解・生成・編集の統合研究](articles/3d-motion/2026-11-03-mobius-motion-language.md)** ⚑
@@ -1922,6 +1923,7 @@
 - [DiMocap AGI](links/3d-motion/https-www.dimocap.com-en-agimocap.html.md) — unverified / 精度1mm・遅延0.01s・30〜60fpsはベンダー申告。Standard2ヶ月50ドル〜永久1100ドル等は原チェック時で現行価格未確認。未導入。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [HairDeck](links/3d-motion/hyzcluster.github.io-hairdeck.md) — unverified / ローカル実行には NVIDIA CUDA GPU (CUDA 12.8) または Apple silicon (MPS)、Python 3.12 / PyTorch 2.8 が必要。セットアップで重み・前処理モデル・Blender 4.2 LTS を取得する。SAM 3 と DINOv3 は Hugging Face 上で gated=manual のため、ライセンス同意と hf auth login が別途必要。必要 VRAM は未記載のため未確認。生成物はゲーム/アバター向けのアセットで、商用利用時はサードパーティモデルのライセンスを個別確認のこと。
 - [ISO-GLOW](links/3d-motion/isoglow.dev-iso-glow.md) — unverified / 3D実装（three.js 0.160.0、OrbitControls、正射影のIso view、.glb取り込み、3D作例12点）は配布zip内のSKILL.mdとgallery-3d.html、および投稿動画のフレームで確認した。ただしClaude上で実際に図を生成する再現テストは未実施で、出力品質や.glbの仕上がりは未検証。バージョン番号・変更履歴は公開されておらず、「更新版」の版を特定できない。配布物は14ファイル約455KBで、サイトの「Six text files, about 300 KB」という説明とは一致しない（機能面への影響は不明）。公式GitHubリポジトリは無く、配布はisoglow.devのzip/tar.gz/.skillのみ。
+- [InstantHand: Feed-Forward 3D Gaussian Splatting for Animatable Hand Avatar Reconstruction from a Single Image](articles/2026-11-05-author-instanthand-feed-forward-3d-gaussian-splatting-for-animatable-hand-avatar-recons.md) — unverified / 公式実装のREADMEは、改変版diff-gaussian-rasterizationと事前学習済みチェックポイントが非商用研究用途に制限されるため、リポジトリ全体も非商用研究用途のみと記載。
 - [Muse×Blender×PLATEAUで作る「日本の名所」3D化リスト](articles/2026-11-07-29meat_ai-muse-blender-plateau.md) — low-quality, unverified / 新規ツール・モデルの提示ではなく、既知の Muse（Metaの個人向けAIエージェント、2026年9月発表）と Blender、国土交通省 PLATEAU を組み合わせた制作ノウハウの一覧。投稿にMuseの一次リンクはない。地名リストと『主役は手作り＋周囲は実データ』という方針は妥当だが、PLATEAUの建物詳細度・収録範囲は地域により異なる。数値・制作時間の検証は無い。引用元は自分の過去作例、会話欄は第三者の作例＋無関係な広告が中心。
 - [Muse・Blender・PLATEAUの大阪城制作実例と生成破綻](articles/2026-11-09-topic-noel_ai_lab-osaka-castle-muse-plateau.md) — unverified / 天守閣が二つに増える生成破綻が見られた。30秒という生成時間は投稿者の申告。PLATEAUデータの出典表示・加工明示が必要。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Möbius：動作理解・生成・編集の統合研究](articles/3d-motion/2026-11-03-mobius-motion-language.md) — unverified / 公式コード公開は内部審査中。プロジェクトページは事前計算した例の閲覧であり自由入力の推論ではない。論文の比較は作者評価、実行や権利条件は未確認。
