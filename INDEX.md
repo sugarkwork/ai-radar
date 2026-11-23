@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1510 件 — リポジトリ 1070, リンク集 124, 記事 247, モデル 55, プロンプト 14 / ⚑ 要確認 1234 件
+収録 1511 件 — リポジトリ 1070, リンク集 124, 記事 248, モデル 55, プロンプト 14 / ⚑ 要確認 1235 件
 
 ## リポジトリ（1070）
 
@@ -259,7 +259,7 @@
 | [DeepSearch](entries/other/techenthusiast167-deepsearch.md) ⚑ | 156 | 24 | 停滞 | 0 | 2025-12-24 | 2026-11-19 |  | unknown |
 | [jev-guard](entries/other/leepokai-jev-guard.md) ⚑ | 150 | 24 | 月次 | 0 | 2026-10-02 | 2026-11-09 |  | MIT |
 | [Jev Plays Pokémon Red](entries/other/christianmat-jev-pokemon.md) ⚑ | 134 | 11 | 月次 | 0 | 2026-09-28 | 2026-11-16 |  | GPL-2.0 |
-| [OpenWorld RPG](entries/other/sihanxu-openworld.md) ⚑ | 131 | 13 | 毎日 | 100+ | 2026-11-19 | 2026-11-20 | 2026-11-23 | unknown |
+| [OpenWorld RPG](entries/other/sihanxu-openworld.md) ⚑ | 131 | 13 | 毎日 | 100+ | 2026-11-19 | 2026-11-20 |  | unknown |
 | [muse-grok-x-search](entries/other/kgmkm-muse-grok-x-search.md) ⚑ | 108 | 17 | 月次 | 2 | 2026-11-03 | 2026-11-15 |  | MIT |
 | [myradio](entries/other/monoradio102-myradio.md) ⚑ | 107 | 15 | 毎日 | 37 | 2026-11-13 | 2026-11-14 |  | unknown |
 | [pixi-ease](entries/other/davidfig-pixi-ease.md) | 105 | 11 | 週次 | 6 | 2026-11-06 | 2026-11-18 |  | MIT |
@@ -1652,9 +1652,9 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（247）
+## 記事（248）
 
-### 記事（182）
+### 記事（183）
 
 - **[$0のデジタル参謀長で月$80,000の契約候補を作ったというX投稿（動画付き）](articles/2026-10-22-bober_smart-0-80-000-x.md)** ⚑  @Bober_smart
 - **[1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md)** ⚑  @mukadeshinigami（mukade死神）
@@ -1767,6 +1767,7 @@
 - **[Metatron — A Promptable Whole-Body Execution Layer for Humanoids](articles/2026-10-01-author-metatron-a-promptable-whole-body-execution-layer-for-humanoids.md)** ⚑
 - **[Microsoft confirms Windows activation failures after November updates](articles/2026-11-13-author-microsoft-confirms-windows-activation-failures-after-november-updates.md)** ⚑
 - **[Microsoft’s November 2026 Patch Tuesday addresses 1093 CVEs (CVE-2026-124194)](articles/2026-11-10-author-microsoft-s-november-2026-patch-tuesday-addresses-1093-cves-cve-2026-124194.md)**
+- **[Muse「スペース」で作る日常向けツールの作例と選び方](articles/2026-11-07-author-muse.md)** ⚑
 - **[Museで試作し入力素材をSeedanceへ引き継ぐ動画制作案](articles/2026-10-26-jarvis11x-muse-seedance.md)** ⚑  @jarvis11x
 - **[MuseのシステムファイルをZIPにまとめ、AIと内容を確認する](articles/2026-11-07-author-muse-zip-ai.md)** ⚑
 - **[My YouTube tier list, six years later](articles/2026-11-01-author-my-youtube-tier-list-six-years-later.md)**
@@ -2240,6 +2241,7 @@
 - [Material Painterを使った部分編集の報告](articles/2026-11-08-ry-heyhaigh-material-painter.md) — unverified / 専用のinpainting機能と比較効果は未確認。
 - [Metatron — A Promptable Whole-Body Execution Layer for Humanoids](articles/2026-10-01-author-metatron-a-promptable-whole-body-execution-layer-for-humanoids.md) — unverified / 実演値や改善の説明はNVIDIA掲載資料の報告であり、独立検証ではない。歩行品質・安定性の改善は定性的評価と明記されている。
 - [Microsoft confirms Windows activation failures after November updates](articles/2026-11-13-author-microsoft-confirms-windows-activation-failures-after-november-updates.md) — unverified / 記事は修正が数日以内に提供される見込みと報じていますが、現在の修正提供状況はこの記事から確認できません。Microsoft のサービス通知への直接リンクも記事内で確認できません。
+- [Muse「スペース」で作る日常向けツールの作例と選び方](articles/2026-11-07-author-muse.md) — unverified / 保存、外部連携、定期更新、写真からの自動登録などの機能や作例の動作は投稿者の報告であり、独立した検証や公式資料による裏付けは確認できていない。
 - [Museで試作し入力素材をSeedanceへ引き継ぐ動画制作案](articles/2026-10-26-jarvis11x-muse-seedance.md) — unverified / 品質、費用、再現性は未計測。投稿のSeedanceバージョンは不明。
 - [MuseのシステムファイルをZIPにまとめ、AIと内容を確認する](articles/2026-11-07-author-muse-zip-ai.md) — unverified / ZIPに含まれるファイルの具体的な範囲や、別環境への移行・再利用の可否は確認できていません。記載内容は投稿者の報告で、独立した動作確認ではありません。
 - [Nemotron 3.5 Bolt E4B on Jetson Orin Nano Super at 27.7 tok/s!](articles/2026-11-05-author-nemotron-3.5-bolt-e4b-on-jetson-orin-nano-super-at-27.7-tok-s.md) — unverified / 27.7 tok/sと比較対象の15 tok/sは投稿者の報告であり、この資料だけでは測定条件や独立検証を確認できない。
