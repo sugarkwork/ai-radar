@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1516 件 — リポジトリ 1073, リンク集 125, 記事 249, モデル 55, プロンプト 14 / ⚑ 要確認 1238 件
+収録 1517 件 — リポジトリ 1074, リンク集 125, 記事 249, モデル 55, プロンプト 14 / ⚑ 要確認 1239 件
 
-## リポジトリ（1073）
+## リポジトリ（1074）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（273）
+### その他（274）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -115,6 +115,7 @@
 | [mitmproxy2swagger](entries/other/alufers-mitmproxy2swagger.md) ⚑ | 9,730 | 386 | 停滞 | 0 | 2026-11-16 | 2026-11-19 |  | unknown |
 | [open-slide](entries/other/open-slide-open-slide.md) ⚑ | 9,729 | 716 | 毎日 | 33 | 2026-11-09 | 2026-11-10 |  | MIT |
 | [OBLITERATUS](entries/other/elder-plinius-obliteratus.md) | 9,541 | 1,736 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 |  | AGPL-3.0 |
+| [Obsidian Dataview](entries/other/blacksmithgu-obsidian-dataview.md) ⚑ | 9,446 | 582 | 停滞 | 0 | 2025-11-17 | 2026-11-20 | 2026-11-23 | MIT |
 | [Webstudio](entries/other/webstudio-is-webstudio.md) ⚑ | 9,170 | 1,639 | 毎日 | 57 | 2026-11-13 | 2026-11-14 |  | AGPL-3.0 |
 | [Instatic](entries/other/corebunch-instatic.md) ⚑ | 9,140 | 873 | 毎日 | 83 | 2026-11-18 | 2026-11-18 |  | MIT |
 | [tsParticles](entries/other/tsparticles-tsparticles.md) ⚑ | 9,090 | 954 | 毎日 | 100+ | 2026-11-13 | 2026-11-14 |  | MIT |
@@ -143,7 +144,7 @@
 | [tModLoader](entries/other/tmodloader-tmodloader.md) ⚑ | 5,797 | 2,200 | 毎日 | 100+ | 2026-11-17 | 2026-11-19 |  | MIT |
 | [gifski](entries/other/imageoptim-gifski.md) ⚑ | 5,711 | 183 | 停滞 | 0 | 2026-06-17 | 2026-11-16 |  | unknown |
 | [软件屏蔽器（Malware-Patch）](entries/other/the1812-malware-patch.md) ⚑ | 5,644 | 333 | 停滞 | 0 | 2026-05-27 | 2026-11-14 |  | MIT |
-| [Obsidian Web Clipper](entries/other/obsidianmd-obsidian-clipper.md) | 5,620 | 795 | 毎日 | 25 | 2026-11-20 | 2026-11-20 | 2026-11-23 | MIT |
+| [Obsidian Web Clipper](entries/other/obsidianmd-obsidian-clipper.md) | 5,620 | 795 | 毎日 | 25 | 2026-11-20 | 2026-11-20 |  | MIT |
 | [Atoll](entries/other/ebullioscopic-atoll.md) ⚑ | 5,291 | 389 | 毎日 | 33 | 2026-11-17 | 2026-11-17 |  | GPL-3.0 |
 | [PKHeX](entries/other/kwsch-pkhex.md) ⚑ | 5,284 | 980 | 毎日 | 26 | 2026-11-16 | 2026-11-19 |  | unknown |
 | [Bumblebee](entries/other/perplexityai-bumblebee.md) ⚑ | 5,148 | 464 | 月次 | 0 | 2026-11-10 | 2026-11-12 |  | Apache-2.0 |
@@ -2792,6 +2793,7 @@
 - [DevilutionX](entries/other/diasurgical-devilutionx.md) — unverified / オリジナルゲームのデータの入手条件はREADMEに記載されています。リポジトリのAPI計測ではライセンスがunknownですが、READMEはSustainable Use Licenseと説明しています。 GitHub APIでライセンスを確認できていません。
 - [mitmproxy2swagger](entries/other/alufers-mitmproxy2swagger.md) — unverified / READMEはMITライセンスと記載していますが、取得済みGitHub API情報ではライセンスがunknownです。ライセンスの状態は確認できていません。 GitHub APIでライセンスを確認できていません。
 - [open-slide](entries/other/open-slide-open-slide.md) — unverified / 公開リリース一覧では @open-slide/core@2.3.2 が Latest と表示された一方、取得した /releases/latest はキャッシュから @open-slide/core@2.0.1 に転送されたため、最新タグと公開日時は未確定。CLIやエージェントは実行しておらず、制作時間の短縮、PPTXの再現性・編集互換性、エージェント側の契約・料金は未検証。
+- [Obsidian Dataview](entries/other/blacksmithgu-obsidian-dataview.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Webstudio](entries/other/webstudio-is-webstudio.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Instatic](entries/other/corebunch-instatic.md) — unverified / 機能・効果の説明はREADMEに記載された配布者の説明で、独立した動作確認はしていない。
 - [tsParticles](entries/other/tsparticles-tsparticles.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
