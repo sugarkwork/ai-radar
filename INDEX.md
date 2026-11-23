@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1398 件 — リポジトリ 990, リンク集 120, 記事 219, モデル 55, プロンプト 14 / ⚑ 要確認 1134 件
+収録 1399 件 — リポジトリ 991, リンク集 120, 記事 219, モデル 55, プロンプト 14 / ⚑ 要確認 1135 件
 
-## リポジトリ（990）
+## リポジトリ（991）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（225）
+### その他（226）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -173,6 +173,7 @@
 | [pg-jev](entries/other/realzachi-pg-jev.md) ⚑ | 1,303 | 109 | 月次 | 0 | 2026-10-06 | 2026-11-10 | 2026-11-11 | unknown |
 | [Rive C++ runtime](entries/other/rive-app-rive-runtime.md) ⚑ | 1,258 | 133 | 毎日 | 100+ | 2026-11-13 | 2026-11-14 | 2026-11-14 | MIT |
 | [One IP](entries/other/zhihui-hu-one-ip.md) ⚑ | 1,235 | 1,388 | 週次 | 18 | 2026-11-12 | 2026-11-12 | 2026-11-12 | AGPL-3.0 |
+| [pixi-viewport](entries/other/pixijs-userland-pixi-viewport.md) ⚑ | 1,222 | 184 | 毎日 | 27 | 2026-11-14 | 2026-11-18 | 2026-11-23 | MIT |
 | [Web Interface Guidelines](entries/other/vercel-labs-web-interface-guidelines.md) ⚑ | 1,200 | 80 | 停滞 | 0 | 2026-10-05 | 2026-11-17 | 2026-11-22 | MIT |
 | [VFX-JS](entries/other/fand-vfx-js.md) ⚑ | 1,193 | 40 | 毎日 | 55 | 2026-11-14 | 2026-11-16 | 2026-11-22 | MIT |
 | [Inkstone](entries/other/shuaiplus-inkstone.md) ⚑ | 1,188 | 1,095 | 月次 | 0 | 2026-10-07 | 2026-11-17 | 2026-11-22 | unknown |
@@ -2666,6 +2667,7 @@
 - [pg-jev](entries/other/realzachi-pg-jev.md) — unverified / 速度・精度・費用はREADMEの著者測定で、独立再現、別データでの精度、現行料金、ローカル互換サーバーの動作は未確認。最新リリースの公開ページでタグを確認したが、タイムゾーン付きの公開日時は未確認。 GitHub APIでライセンスを確認できていません。
 - [Rive C++ runtime](entries/other/rive-app-rive-runtime.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [One IP](entries/other/zhihui-hu-one-ip.md) — unverified / 結果は第三者サービスに依存し、レート制限やクロスオリジン制約の影響を受ける場合がある。READMEはIP種別と評判スコアを参考情報としている。
+- [pixi-viewport](entries/other/pixijs-userland-pixi-viewport.md) — unverified / READMEによると、2026年10月以降、Claudeがコード編集を支援し、メンテナーが各変更をリリース前にレビューしている。
 - [Web Interface Guidelines](entries/other/vercel-labs-web-interface-guidelines.md) — unverified / 添付READMEは「Locale」で途切れており、続きの内容は確認できていません。提示部分には依存関係と実行条件の記載がありません。
 - [VFX-JS](entries/other/fand-vfx-js.md) — unverified / 一次資料で未確認: 有効性。
 - [Inkstone](entries/other/shuaiplus-inkstone.md) — unverified / GitHub APIでライセンスを確認できていません。

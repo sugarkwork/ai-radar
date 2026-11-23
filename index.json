@@ -1,5 +1,5 @@
 {
-  "count": 1398,
+  "count": 1399,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -30212,6 +30212,37 @@
       "fetched_at": "2026-11-12T18:09:18.512178+00:00",
       "path": "entries/other/zhihui-hu-one-ip.md",
       "summary": "IPv4/IPv6の所在・事業者・ASN・評判スコア・地図表示、DNS/WebRTC漏洩検出、AI・動画配信サービス等への接続診断、Cloudflareエッジネットワークを使った速度測定、WHOIS、Global Ping、ブラウザー指紋・環境検出、サービス状態確認を提供する。中英語、ライト/ダークテーマ、モバイル表示"
+    },
+    {
+      "name": "pixi-viewport",
+      "genre": "other",
+      "url": "https://github.com/pixijs-userland/pixi-viewport",
+      "repo": "pixijs-userland/pixi-viewport",
+      "license": "MIT",
+      "stars": 1222,
+      "language": "TypeScript",
+      "created": "2017-08-29",
+      "updated": "2026-11-14",
+      "forks": 184,
+      "open_issues": 10,
+      "commits_30d": 27,
+      "commit_cadence": "daily",
+      "commits_90d": 27,
+      "size_kb": 47118,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEによると、2026年10月以降、Claudeがコード編集を支援し、メンテナーが各変更をリリース前にレビューしている。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/0xclayo/status/2123016316353155192"
+      ],
+      "fetched_at": "2026-11-18T14:15:47.998057+00:00",
+      "path": "entries/other/pixijs-userland-pixi-viewport.md",
+      "summary": "pixi.js向けの設定可能な2D viewport／カメラです。ドラッグ、ピンチやホイールによるズーム、慣性ドラッグ、対象追従、アニメーション、点やズーム倍率へのスナップ、境界制限、端でのバウンス、画面端でのマウス移動に対応するとREADMEに記載されています。各機能は設定・取り外し可能です。"
     },
     {
       "name": "Web Interface Guidelines",
