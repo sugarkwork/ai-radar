@@ -1,5 +1,5 @@
 {
-  "count": 1440,
+  "count": 1441,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -11275,6 +11275,24 @@
       ],
       "fetched_at": "2026-11-15T01:24:11.240525+00:00",
       "path": "articles/2026-11-13-author-llama.cpp-v1.0.0-a-stronger-foundation-for-the-local-ai-ecosystem.md"
+    },
+    {
+      "name": "zml/llmd: a fast and universal inference server",
+      "genre": "article",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xpppfl/zmlllmd_a_fast_and_universal_inference_server",
+      "published": "2026-11-07",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "記事の対応機種・モデル一覧やコンテナイメージ容量は投稿者の説明で、独立した動作確認や性能測定としては確認していない。公式GitHub READMEで確認できたLLM Quickstartのモデル一覧はLlama 3.1/3.2、Qwen 3.5、LFM 2.5で、投稿の列挙とは範囲が異なる。",
+      "type": "article",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/ai_hakase_/status/2119310454266741105"
+      ],
+      "fetched_at": "2026-11-19T00:21:11.077991+00:00",
+      "path": "articles/2026-11-07-author-zml-llmd-a-fast-and-universal-inference-server.md"
     },
     {
       "name": "「長くなる一方のSkill」を「短く効くSkill」にする、Matt Pocock式の作り方",

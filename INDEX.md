@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1440 件 — リポジトリ 1018, リンク集 121, 記事 232, モデル 55, プロンプト 14 / ⚑ 要確認 1171 件
+収録 1441 件 — リポジトリ 1018, リンク集 121, 記事 233, モデル 55, プロンプト 14 / ⚑ 要確認 1172 件
 
 ## リポジトリ（1018）
 
@@ -1594,9 +1594,9 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（232）
+## 記事（233）
 
-### 記事（168）
+### 記事（169）
 
 - **[$0のデジタル参謀長で月$80,000の契約候補を作ったというX投稿（動画付き）](articles/2026-10-22-bober_smart-0-80-000-x.md)** ⚑  @Bober_smart
 - **[1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md)** ⚑  @mukadeshinigami（mukade死神）
@@ -1745,6 +1745,7 @@
 - **[You can edit your videos with AI on Instagram’s new desktop Edits app](articles/2026-11-05-author-you-can-edit-your-videos-with-ai-on-instagram-s-new-desktop-edits-app.md)**
 - **[iPhone『削除済み写真173,521件』主張の検証（PhotoData/Thumbnails）](articles/2026-10-25-bober_smart-iphone-173-521-photodata-thumbnails.md)** ⚑  Bober_smart
 - **[llama.cpp v1.0.0: A stronger foundation for the local AI ecosystem](articles/2026-11-13-author-llama.cpp-v1.0.0-a-stronger-foundation-for-the-local-ai-ecosystem.md)**
+- **[zml/llmd: a fast and universal inference server](articles/2026-11-07-author-zml-llmd-a-fast-and-universal-inference-server.md)** ⚑
 - **[「長くなる一方のSkill」を「短く効くSkill」にする、Matt Pocock式の作り方](articles/2026-10-20-sumika45379-skills-studio-skill-skill-matt-pocock.md)** ⚑  @sumika45379 (Skills Studio)
 - **[【公式】Claude Codeの「直しました」で終わらせない。画面の確認まで任せるSkillの作り方](articles/2026-10-23-sumika45379-skills-studio-claude-code-skill.md)** ⚑  sumika45379 / Skills Studio
 - **[ゲームNPCに会話・記憶・音声を加えるための8つのオープンソースプロジェクト](articles/2026-11-07-author-npc-8.md)**
@@ -2188,6 +2189,7 @@
 - [What Caused the Microsoft 365 Outage of November 12, 2026](articles/2026-11-13-author-what-caused-the-microsoft-365-outage-of-november-12-2026.md) — unverified / Microsoftは初期のサーバー障害を引き起こした原因をまだ公表していないと記事は説明しています。
 - [Xのアカウントデータを使った自己点検の提案](articles/2026-10-23-jarvis11x-x.md) — unverified / 凍結防止と投稿の拡散効果は未検証。アーカイブには個人情報が含まれる。
 - [iPhone『削除済み写真173,521件』主張の検証（PhotoData/Thumbnails）](articles/2026-10-25-bober_smart-iphone-173-521-photodata-thumbnails.md) — unverified, low-quality / 投稿単体では裏取り不能。同一本文内で183,000超と173,521が矛盾し、ほぼ同文の投稿が他アカウントから145,763/147,863/152,000件など異なる数字で出回る（AI-generated engagement baitとのコミュニティノートあり）。PhotoData/Thumbnailsの存在とサムネイル残存は文献で確認できるが、原寸オリジナル4年分という記述と『Spotlight索引』という説明は不正確。『19アプリが自由に読めた』はAppleのサンドボックス仕様および返信者の検証画像（permission denied）と矛盾。引用X記事はログイン壁、添付動画はフレームの文字が判読不能で、手順・プロンプト・実測値はいずれも未確認。
+- [zml/llmd: a fast and universal inference server](articles/2026-11-07-author-zml-llmd-a-fast-and-universal-inference-server.md) — unverified / 記事の対応機種・モデル一覧やコンテナイメージ容量は投稿者の説明で、独立した動作確認や性能測定としては確認していない。公式GitHub READMEで確認できたLLM Quickstartのモデル一覧はLlama 3.1/3.2、Qwen 3.5、LFM 2.5で、投稿の列挙とは範囲が異なる。
 - [「長くなる一方のSkill」を「短く効くSkill」にする、Matt Pocock式の作り方](articles/2026-10-20-sumika45379-skills-studio-skill-skill-matt-pocock.md) — unverified / 2026-10-10時点「スター28万超」という記事の数字は当時の値を再現できず、2026-11-08実測は318,171（記事の数字は古いスナップショットで、現在は上回る）。種動画の内容は説明欄のチャプター（5段）と公開日まで確認、本編の逐語と図版は未確認。動画側の「22 million+ people use them」は一次確認なし（記事はこの種のインストール数を載せていない）。効果（送り返しの減少）の第三者計測は記事にも当方にも見つからない。記事は本文中2箇所でLINE友だち追加による「Skill10選」配布へ誘導する販促導線を含む。
 - [【公式】Claude Codeの「直しました」で終わらせない。画面の確認まで任せるSkillの作り方](articles/2026-10-23-sumika45379-skills-studio-claude-code-skill.md) — unverified / 記事ページは非ログインだと x.com のログイン画面へリダイレクトされ（HTTP 200）、本文は封筒JSONの articleText に依拠。published は発見元ポストの日時（2026-10-23）で、記事ページ上の公開日は未確認。動画の字幕が取得できず、動画内の具体発言（3つの確認例、CLS 実演）は直接確認していない。v2.1.286 の自動実行は公式ドキュメントで確認済みだが、著者自身は /verify を実行しておらず、記事もその旨を明記している。末尾に LINE 友だち追加でプロンプト集を配る導線がある。
 - [ジェンスン・フアンがCNNで語ったAIを使った学習と回答の比較](articles/2025-07-13-cnn-cnn-ai.md) — unverified / 認知能力の向上は本人の自己評価。学習効果、複数のAIによる相互批評の精度向上、引用投稿が述べる認知能力の低下や格差拡大は、この資料では実証されていない。
