@@ -1,5 +1,5 @@
 {
-  "count": 1463,
+  "count": 1464,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -12370,6 +12370,37 @@
       "fetched_at": "2026-11-17T23:14:23.081035+00:00",
       "path": "entries/coding-agent/rtk-ai-rtk.md",
       "summary": "AIコーディングエージェントが読むシェルコマンド出力を圧縮する。READMEはテスト、diff、ログ、ビルド出力など100以上のコマンドを挙げ、rtk gainで削減状況を確認できるとしている。また、rtk bypassでコマンドをフィルターせず実行し、全出力を得る手順も示している。"
+    },
+    {
+      "name": "Screenshot to Code",
+      "genre": "coding-agent",
+      "url": "https://github.com/abi/screenshot-to-code",
+      "repo": "abi/screenshot-to-code",
+      "license": "MIT",
+      "stars": 81296,
+      "language": "Python",
+      "created": "2023-11-14",
+      "updated": "2026-11-15",
+      "forks": 9957,
+      "open_issues": 150,
+      "commits_30d": 4,
+      "commit_cadence": "weekly",
+      "commits_90d": 6,
+      "size_kb": 11072,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 依存関係。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/RealMarvelX/status/2119329098929426902"
+      ],
+      "fetched_at": "2026-11-19T07:27:23.647244+00:00",
+      "path": "entries/coding-agent/abi-screenshot-to-code.md",
+      "summary": "スクリーンショット、モックアップ、Figmaデザイン、画面録画をもとに、機能するコードやプロトタイプを生成します。README記載の対応スタックはHTML + Tailwind、HTML + CSS、React + Tailwind、Vue + Tailwind、Bootstrap、Ionic + Tailwindです"
     },
     {
       "name": "Awesome Claude Skills",
