@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1537 件 — リポジトリ 1091, リンク集 125, 記事 252, モデル 55, プロンプト 14 / ⚑ 要確認 1258 件
+収録 1538 件 — リポジトリ 1092, リンク集 125, 記事 252, モデル 55, プロンプト 14 / ⚑ 要確認 1259 件
 
-## リポジトリ（1091）
+## リポジトリ（1092）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（279）
+### その他（280）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -154,6 +154,7 @@
 | [FigCraft](entries/other/storytold-figcraft.md) ⚑ | 5,042 | 1,863 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 |  | Apache-2.0 |
 | [Y2A-Auto](entries/other/fqscfqj-y2a-auto.md) ⚑ | 5,018 | 850 | 週次 | 9 | 2026-11-16 | 2026-11-16 |  | GPL-3.0 |
 | [Aliens Eye](entries/other/arxhr007-aliens_eye.md) | 4,836 | 573 | 週次 | 19 | 2026-11-15 | 2026-11-17 |  | MIT |
+| [BewlyCat](entries/other/keleus-bewlycat.md) ⚑ | 4,738 | 185 | 毎日 | 100+ | 2026-11-21 | 2026-11-22 | 2026-11-23 | unknown |
 | [Screenbox](entries/other/huynhsontung-screenbox.md) ⚑ | 4,704 | 222 | 毎日 | 20 | 2026-11-16 | 2026-11-16 |  | GPL-3.0 |
 | [terminal-browser](entries/other/zenbu-labs-terminal-browser.md) | 4,690 | 243 | 毎日 | 96 | 2026-11-16 | 2026-11-16 |  | MIT |
 | [Create](entries/other/creators-of-create-create.md) ⚑ | 4,621 | 1,449 | 週次 | 19 | 2026-11-15 | 2026-11-16 |  | unknown |
@@ -350,7 +351,7 @@
 | [UI Skills](entries/coding-agent/ibelick-ui-skills.md) ⚑ | 11,125 | 534 | 毎日 | 46 | 2026-11-14 | 2026-11-16 |  | MIT |
 | [Dashi PPT Skill](entries/coding-agent/chuspeeism-dashi-ppt-skill.md) ⚑ | 10,750 | 916 | 月次 | 2 | 2026-11-06 | 2026-11-16 |  | AGPL-3.0 |
 | [Stitch Design Skills](entries/coding-agent/google-labs-code-stitch-skills.md) ⚑ | 10,093 | 1,328 | 停滞 | 0 | 2026-08-17 | 2026-11-18 |  | Apache-2.0 |
-| [universal-modder](entries/coding-agent/rehan-remade-universal-modder.md) ⚑ | 9,830 | 1,109 | 毎日 | 91 | 2026-11-22 | 2026-11-22 | 2026-11-23 | MIT |
+| [universal-modder](entries/coding-agent/rehan-remade-universal-modder.md) ⚑ | 9,830 | 1,109 | 毎日 | 91 | 2026-11-22 | 2026-11-22 |  | MIT |
 | [awesome-gamedev-agent-skills](entries/coding-agent/gamedev-skills-awesome-gamedev-agent-skills.md) ⚑ | 9,585 | 974 | 毎日 | 100+ | 2026-11-12 | 2026-11-20 |  | Apache-2.0 |
 | [Copilot for Obsidian](entries/coding-agent/logancyang-obsidian-copilot.md) ⚑ | 8,005 | 775 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 |  | AGPL-3.0 |
 | [fast-jev-compaction](entries/coding-agent/tamaratran-fast-jev-compaction.md) ⚑ | 7,985 | 588 | 月次 | 0 | 2026-09-18 | 2026-11-16 |  | MIT |
@@ -2857,6 +2858,7 @@
 - [Bumblebee](entries/other/perplexityai-bumblebee.md) — unverified / 一次資料で未確認: 技術背景・有効性・実行条件。
 - [FigCraft](entries/other/storytold-figcraft.md) — unverified / READMEではステータスをearly alphaと記載。機能の成熟度や各OS・形式での対応範囲はREADMEだけでは確認できない。ライセンスはREADMEのバッジがMIT OR Apache-2.0、取得済みGitHub API値がApache-2.0と異なるため、適用条件を確認すること。
 - [Y2A-Auto](entries/other/fqscfqj-y2a-auto.md) — unverified / The supplied README does not establish what permissions or platform terms apply to reposting videos; verify these before use.
+- [BewlyCat](entries/other/keleus-bewlycat.md) — unverified / READMEは中国語で、掲載されている手順と機能説明も中国語。日本語を機能としてサポートする範囲はREADMEから確認できない。ライセンスはGitHub API上でunknown。READMEはMITライセンスの原プロジェクトを基に開発し、作者から許可を得たと述べているが、このリポジトリ自体のライセンスは確認できない。 GitHub APIでライセンスを確認できていません。
 - [Screenbox](entries/other/huynhsontung-screenbox.md) — unverified / 一次資料で未確認: 実行条件。
 - [Create](entries/other/creators-of-create-create.md) — unverified / READMEには対応するMinecraftやmodローダーのバージョン、具体的な導入条件が記載されていない。 GitHub APIでライセンスを確認できていません。
 - [AutoSubs](entries/other/tmoroney-auto-subs.md) — unverified / 一次資料で未確認: 依存関係・実行条件。

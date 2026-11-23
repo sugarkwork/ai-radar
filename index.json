@@ -1,5 +1,5 @@
 {
-  "count": 1537,
+  "count": 1538,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -31334,6 +31334,37 @@
       "fetched_at": "2026-11-17T13:11:58.567951+00:00",
       "path": "entries/other/arxhr007-aliens_eye.md",
       "summary": "READMEでは、ユーザー名を7,700以上のプラットフォームで非同期に検索し、見つかったプロフィールの表示名・自己紹介・アバターを抽出する機能を説明しています。アバターや自己紹介などによるプロフィールの相関分析、リンク先ユーザー名の再帰検索、ドメイン確認、定期再スキャン、途中再開、JSON・CSV・HTML・Mark"
+    },
+    {
+      "name": "BewlyCat",
+      "genre": "other",
+      "url": "https://github.com/keleus/BewlyCat",
+      "repo": "keleus/BewlyCat",
+      "license": "unknown",
+      "stars": 4738,
+      "language": "TypeScript",
+      "created": "2025-02-25",
+      "updated": "2026-11-21",
+      "forks": 185,
+      "open_issues": 26,
+      "commits_30d": 100,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 55244,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEは中国語で、掲載されている手順と機能説明も中国語。日本語を機能としてサポートする範囲はREADMEから確認できない。ライセンスはGitHub API上でunknown。READMEはMITライセンスの原プロジェクトを基に開発し、作者から許可を得たと述べているが、このリポジトリ自体のライセンスは確認できない。 GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/fhwofjow51260/status/2119409077197672514"
+      ],
+      "fetched_at": "2026-11-22T04:25:46.110427+00:00",
+      "path": "entries/other/keleus-bewlycat.md",
+      "summary": "Bilibili公式サイト向けブラウザー拡張。READMEによると、動画カードやトップバーリンクをバックグラウンドで開く、プレーヤー表示や音量を調整する、動画をお気に入りリストへ分類する、コメント返信をツリー表示する、ショートカットキーを設定するといった機能がある。Chrome、Edge、Firefox向けの配布先を案"
     },
     {
       "name": "Screenbox",
