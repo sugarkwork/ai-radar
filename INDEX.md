@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1548 件 — リポジトリ 1097, リンク集 125, 記事 257, モデル 55, プロンプト 14 / ⚑ 要確認 1267 件
+収録 1549 件 — リポジトリ 1098, リンク集 125, 記事 257, モデル 55, プロンプト 14 / ⚑ 要確認 1268 件
 
-## リポジトリ（1097）
+## リポジトリ（1098）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -731,7 +731,7 @@
 | [BennyDaBall930/comfyui_hyperflow_int8_nodes](entries/video-gen/bennydaball930-comfyui_hyperflow_int8_nodes.md) ⚑ | 3 | 0 | 週次 | 10 | 2026-11-09 | 2026-11-09 |  | GPL-3.0 |
 | [web-reels](entries/video-gen/rabin-a-web-reels.md) ⚑ | 0 | 0 | 週次 | 5 | 2026-11-08 | 2026-11-18 |  | unknown |
 
-### 3D・モーション（88）
+### 3D・モーション（89）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -752,12 +752,13 @@
 | [Jolt Physics](entries/3d-motion/jrouwe-joltphysics.md) ⚑ | 12,326 | 1,027 | 毎日 | 60 | 2026-11-16 | 2026-11-16 |  | MIT |
 | [Nerfstudio](entries/3d-motion/nerfstudio-project-nerfstudio.md) ⚑ | 12,219 | 1,693 | 停滞 | 0 | 2025-07-29 | 2026-11-17 |  | Apache-2.0 |
 | [FreeMoCap](entries/3d-motion/freemocap-freemocap.md) ⚑ | 10,824 | 1,036 | 週次 | 5 | 2026-11-14 | 2026-11-16 |  | AGPL-3.0 |
+| [SuperSplat Editor](entries/3d-motion/playcanvas-supersplat.md) ⚑ | 10,702 | 1,243 | 毎日 | 31 | 2026-11-19 | 2026-11-22 | 2026-11-23 | MIT |
 | [@react-three/drei](entries/3d-motion/pmndrs-drei.md) ⚑ | 10,167 | 873 | 月次 | 0 | 2026-10-21 | 2026-11-16 |  | MIT |
 | [TripoSR](entries/3d-motion/vast-ai-research-triposr.md) | 7,409 | 959 | 停滞 | 0 | 2026-06-04 | 2026-11-17 |  | MIT |
 | [Text-to-Lottie](entries/3d-motion/diffusionstudio-lottie.md) ⚑ | 5,763 | 304 | 停滞 | 0 | 2026-07-25 | 2026-11-16 |  | MIT |
 | [Tweakpane](entries/3d-motion/cocopon-tweakpane.md) ⚑ | 4,699 | 140 | 停滞 | 0 | 2026-03-15 | 2026-11-16 |  | MIT |
 | [Kimodo](entries/3d-motion/nv-tlabs-kimodo.md) ⚑ | 4,241 | 473 | 月次 | 0 | 2026-10-15 | 2026-11-16 |  | Apache-2.0 |
-| [Spark](entries/3d-motion/sparkjsdev-spark.md) ⚑ | 3,938 | 595 | 週次 | 8 | 2026-11-19 | 2026-11-22 | 2026-11-23 | MIT |
+| [Spark](entries/3d-motion/sparkjsdev-spark.md) ⚑ | 3,938 | 595 | 週次 | 8 | 2026-11-19 | 2026-11-22 |  | MIT |
 | [Blender Skills（94 specialist Blender skills）](entries/3d-motion/arjun988-blender-skills.md) ⚑ | 3,926 | 350 | 月次 | 1 | 2026-11-06 | 2026-11-16 |  | MIT |
 | [floorplan-3d](entries/3d-motion/wy51ai-floorplan-3d.md) | 3,766 | 790 | 月次 | 0 | 2026-10-02 | 2026-11-16 |  | MIT |
 | [facebookresearch/sam-3d-body](entries/3d-motion/facebookresearch-sam-3d-body.md) ⚑ | 3,734 | 443 | 停滞 | 0 | 2026-02-19 | 2026-11-16 |  | NOASSERTION |
@@ -2005,6 +2006,7 @@
 - [Jolt Physics](entries/3d-motion/jrouwe-joltphysics.md) — unverified / リリースタグは公式の最新リリースページで確認したが、公開日時は未確認。ビルド、性能、AIツールとの連携は実行検証していない。
 - [Nerfstudio](entries/3d-motion/nerfstudio-project-nerfstudio.md) — unverified / 一次資料で未確認: 技術背景。
 - [FreeMoCap](entries/3d-motion/freemocap-freemocap.md) — unverified / 公開資料による確認。インストール、撮影、追跡精度、処理速度、Blender出力の品質は実測していない。最新リリースのタグは公開ページの転送先で確認したが、公開日時は未確認。READMEのソースビルド手順には非公開Git依存があり、公開アクセスだけでの再現性は未確認。
+- [SuperSplat Editor](entries/3d-motion/playcanvas-supersplat.md) — unverified / 一次資料で未確認: 依存関係・実行条件。
 - [@react-three/drei](entries/3d-motion/pmndrs-drei.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Text-to-Lottie](entries/3d-motion/diffusionstudio-lottie.md) — unverified / 導入・生成・プレビューは未実行。出力品質、複雑なシーンや各再生環境での互換性、参照動画からの再現、対応ランタイムの最低バージョン、エージェント側の料金は未検証。
 - [Tweakpane](entries/3d-motion/cocopon-tweakpane.md) — unverified / 機能と手順は公式の記述とサンプルで確認した。実行検証、制作時間への効果、特定の描画ライブラリとの互換性、最新リリースの公開日時は未確認。

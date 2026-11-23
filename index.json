@@ -1,5 +1,5 @@
 {
-  "count": 1548,
+  "count": 1549,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -555,6 +555,37 @@
       "last_release_at": "2026-11-11",
       "path": "entries/3d-motion/freemocap-freemocap.md",
       "summary": "Webカメラ1台で身体の2Dキーポイントを追跡し、2Dアニメーションの動きの参照に使える。3Dモーションキャプチャは2台以上で行い、公式ガイドは3台を推奨する。"
+    },
+    {
+      "name": "SuperSplat Editor",
+      "genre": "3d-motion",
+      "url": "https://github.com/playcanvas/supersplat",
+      "repo": "playcanvas/supersplat",
+      "license": "MIT",
+      "stars": 10702,
+      "language": "TypeScript",
+      "created": "2023-10-19",
+      "updated": "2026-11-19",
+      "forks": 1243,
+      "open_issues": 117,
+      "commits_30d": 31,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 29157,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 依存関係・実行条件。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/0xCarrera/status/2123762450935771202"
+      ],
+      "fetched_at": "2026-11-22T04:46:57.562671+00:00",
+      "path": "entries/3d-motion/playcanvas-supersplat.md",
+      "summary": "3D Gaussian Splatsの調査、編集、最適化、公開を行うブラウザーベースのツール。READMEでは、シーンの調査・選択・編集、カメラ操作、タイムラインやカメラキーフレームの作成、インポート・エクスポート向けのWebMCPツールも案内されている。"
     },
     {
       "name": "@react-three/drei",
