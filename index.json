@@ -1,5 +1,5 @@
 {
-  "count": 1457,
+  "count": 1458,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -23084,6 +23084,37 @@
       "fetched_at": "2026-11-16T21:54:16Z",
       "path": "entries/mcp-server/glips-figma-context-mcp.md",
       "summary": "Figmaのファイル、フレーム、グループのリンクをもとにレイアウトやスタイルを取得し、UI実装の文脈としてエージェントに渡せる。"
+    },
+    {
+      "name": "ghidraMCP",
+      "genre": "mcp-server",
+      "url": "https://github.com/LaurieWired/GhidraMCP",
+      "repo": "LaurieWired/GhidraMCP",
+      "license": "Apache-2.0",
+      "stars": 11978,
+      "language": "Java",
+      "created": "2025-03-23",
+      "updated": "2026-10-10",
+      "forks": 1319,
+      "open_issues": 96,
+      "commits_30d": 0,
+      "commit_cadence": "monthly",
+      "commits_90d": 3,
+      "size_kb": 414,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 依存関係。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/RealMarvelX/status/2119329098929426902"
+      ],
+      "fetched_at": "2026-11-19T07:21:36.810148+00:00",
+      "path": "entries/mcp-server/lauriewired-ghidramcp.md",
+      "summary": "README では、Ghidra のバイナリ解析・デコンパイル、メソッドやデータの自動リネーム、メソッド・クラス・インポート・エクスポートの一覧取得を MCP ツールとして提供すると説明されています。"
     },
     {
       "name": "Pencil",

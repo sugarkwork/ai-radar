@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1457 件 — リポジトリ 1027, リンク集 121, 記事 240, モデル 55, プロンプト 14 / ⚑ 要確認 1186 件
+収録 1458 件 — リポジトリ 1028, リンク集 121, 記事 240, モデル 55, プロンプト 14 / ⚑ 要確認 1187 件
 
-## リポジトリ（1027）
+## リポジトリ（1028）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -873,7 +873,7 @@
 | [lab-tts](entries/tts-audio/lakimi-ai-systems-lab-tts.md) ⚑ | 8 | 0 | 月次 | 3 | 2026-11-03 | 2026-11-10 | 2026-11-10 | Apache-2.0 |
 | [Voxarium](entries/tts-audio/ahmadmansy-voxarium.md) ⚑ | 7 | 0 | 毎日 | 40 | 2026-11-08 | 2026-11-13 | 2026-11-13 | AGPL-3.0 |
 
-### MCPサーバー（39）
+### MCPサーバー（40）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -891,6 +891,7 @@
 | [SolidCraft](entries/mcp-server/tangency-labs-solidcraft.md) ⚑ | 16,660 | 2,299 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
 | [Apify MCP server](entries/mcp-server/apify-apify-mcp-server.md) ⚑ | 16,558 | 459 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
 | [Framelink MCP for Figma](entries/mcp-server/glips-figma-context-mcp.md) ⚑ | 16,217 | 1,288 | 停滞 | 0 | 2026-11-15 | 2026-11-16 | 2026-11-22 | MIT |
+| [ghidraMCP](entries/mcp-server/lauriewired-ghidramcp.md) ⚑ | 11,978 | 1,319 | 月次 | 0 | 2026-10-10 | 2026-11-19 | 2026-11-23 | Apache-2.0 |
 | [Pencil](entries/mcp-server/evolus-pencil.md) | 9,917 | 797 | 週次 | 14 | 2026-11-13 | 2026-11-17 | 2026-11-22 | GPL-2.0 |
 | [OpenPencil](entries/mcp-server/open-pencil-open-pencil.md) ⚑ | 9,888 | 1,072 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
 | [treg（REA growth スキル同梱のエージェント用ツールレジストリ）](entries/mcp-server/superdesigndev-treg.md) | 8,169 | 776 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | Apache-2.0 + 追加条項（GitHub API は NOASSERTION） |
@@ -2541,6 +2542,7 @@
 - [SolidCraft](entries/mcp-server/tangency-labs-solidcraft.md) — unverified / ライセンス表記に差異があります。READMEは「MIT OR Apache-2.0」と記載していますが、提供された測定値ではApache-2.0です。採用前にライセンスファイルを確認してください。
 - [Apify MCP server](entries/mcp-server/apify-apify-mcp-server.md) — unverified / Actorの料金や実行条件は個々のActorによって異なる可能性があるが、READMEから一律の条件や費用は確認できない。記載された効果はREADME上の説明であり、独立検証していない。
 - [Framelink MCP for Figma](entries/mcp-server/glips-figma-context-mcp.md) — unverified / スクリーンショット入力に対する再現精度の優位性は作者の主張。実行による再現、Claude Code固有の設定と互換性、Figmaのプラン別料金・API利用条件は未確認。
+- [ghidraMCP](entries/mcp-server/lauriewired-ghidramcp.md) — unverified / 一次資料で未確認: 依存関係。
 - [OpenPencil](entries/mcp-server/open-pencil-open-pencil.md) — unverified / .figの往復保存でレイアウトや変数がどこまで保持されるか、MCP接続と生成結果の品質は実機未検証。リリースの正確な公開日時は未確認。コミット数は各期間100件で打ち切り。
 - [21st MCP compatibility proxy (formerly Magic MCP)](entries/mcp-server/21st-dev-magic-mcp.md) — unverified / 旧Magic APIキーは無効で、新しいAPIキーが必要です。AI生成ツールはアカウントでAIアクセスが有効な場合に限り一覧に表示され、利用可能なAIクレジット残量はREADMEから確認できません。
 - [TradingView MCP](entries/mcp-server/atilaahmettaner-tradingview-mcp.md) — unverified / READMEによると市場データは遅延・不正確・不完全な場合があり、出力は投資助言ではない。READMEの作者による機能説明であり、独立した実測結果としては扱っていない。
