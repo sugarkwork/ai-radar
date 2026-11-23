@@ -1,5 +1,5 @@
 {
-  "count": 1395,
+  "count": 1396,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -1837,6 +1837,37 @@
       "fetched_at": "2026-11-16T21:34:52Z",
       "path": "entries/3d-motion/scenario-labs-blender-plugin.md",
       "summary": "公式READMEによると、MaterialsでPBRテクスチャセットを生成・保存し、選んだメッシュのマテリアルスロットに適用できる。画像、動画、3Dメッシュ、音声の生成機能もある。"
+    },
+    {
+      "name": "three-bmfont-text",
+      "genre": "3d-motion",
+      "url": "https://github.com/Experience-Monks/three-bmfont-text",
+      "repo": "Experience-Monks/three-bmfont-text",
+      "license": "MIT",
+      "stars": 803,
+      "language": "JavaScript",
+      "created": "2015-03-12",
+      "updated": "2022-03-22",
+      "forks": 173,
+      "open_issues": 33,
+      "commits_30d": 0,
+      "commit_cadence": "stale",
+      "commits_90d": 0,
+      "size_kb": 703,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEでは安定性バッジが「unstable」とされ、README記載の最新3.xはThree.js r109以降向け。リポジトリ情報では最終更新が2022-03-22のため、現在のThree.jsとの互換性は未確認。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/0xclayo/status/2123016316353155192"
+      ],
+      "fetched_at": "2026-11-18T14:13:10.730582+00:00",
+      "path": "entries/3d-motion/experience-monks-three-bmfont-text.md",
+      "summary": "Three.jsでビットマップフォントを描画するためのBufferGeometryを生成します。READMEによると、グリフを単一のBufferGeometryにまとめ、単語の折り返し、文字間隔、カーニング、SDF/MSDF、複数テクスチャのフォントに対応します。生成したgeometryはupdate()でテキストやレ"
     },
     {
       "repo": "islandmed/SculptForge",
