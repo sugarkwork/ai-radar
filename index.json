@@ -1,5 +1,5 @@
 {
-  "count": 1504,
+  "count": 1505,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -22362,6 +22362,27 @@
       ],
       "path": "links/link-inspiration/uilabs.dev.md",
       "summary": "React UIの操作とモーションの実装例を調べる小さな部品集。"
+    },
+    {
+      "name": "〖週刊〗今日から始めるAI生活",
+      "genre": "link-inspiration",
+      "url": "https://tetumemo.m-newsletter.com/",
+      "pricing": "unknown",
+      "pricing_detail": "購読自体の料金は未確認。公式ページの記事一覧には「有料記事」と表示された記事が複数ある。",
+      "signup_required": true,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "ニュースレター購読自体の料金と購読登録の条件は、確認したページからは判断できない。投稿者は無料で読めると案内しているが、公式ページに有料記事の表示があるため、購読と個別記事の料金を区別して確認できていない。",
+      "type": "link",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/tetumemo/status/2119384511930855456"
+      ],
+      "fetched_at": "2026-11-19T22:13:47Z",
+      "path": "links/link-inspiration/tetumemo.m-newsletter.com-ai.md",
+      "summary": "AI活用に関する記事を週刊で届けるニュースレター。"
     },
     {
       "name": "Aura",

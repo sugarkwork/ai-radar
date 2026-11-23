@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1504 件 — リポジトリ 1066, リンク集 123, 記事 246, モデル 55, プロンプト 14 / ⚑ 要確認 1228 件
+収録 1505 件 — リポジトリ 1066, リンク集 124, 記事 246, モデル 55, プロンプト 14 / ⚑ 要確認 1229 件
 
 ## リポジトリ（1066）
 
@@ -1211,7 +1211,7 @@
 - **[MiniMax H3：20種のダンスと音楽指定](prompts/video-gen/minimax-h3-20-dance-music.md)** ⚑  MiniMax H3 / EndFolding79421
   - キャラクターシートを参照し、6秒間の全身ダンスと音楽・環境音を指示するための投稿者のテンプレート。ダンス20種類の音楽指定例を含む。
 
-## リンク集（123）
+## リンク集（124）
 
 ### リンク（サービス・ツール）（24）
 
@@ -1264,6 +1264,51 @@
 - **[treg REA growth](links/link-service/treg.to-treg-rea-growth.md)** ⚑  freemium / superdesigndev（Superdesign Dev Pty Ltd）
   - treg.to は「エージェント向けツールの OpenRouter」を名乗る従量課金の API ゲートウェイ。1 つのトークンで 126 プロバイダ・4,100+ のツール（SEO/SERP、被リンク、SNS 投稿、人物・企業情報、広告ライブラリ、スクレイピング、画像/動画/音声生成）を、プロバイダごとの契約なしで呼べ
 
+### リンク（作例・インスピレーション）（21）
+
+- **[BestAIBuilder](links/link-inspiration/bestaibuilder-website.md)**  free / BestAIBuilder
+  - AI サイトビルダーを横並びで比較するためのランキングサイト。「同じブリーフで全ツールにサイトを作らせ、craft / speed / control / value で採点した」という前提を掲げ、101ツールを順位付けしている。
+- **[Claude Code に Blender のシーンをコードで書かせて voxel キャラを踊らせる手順（投稿）](links/link-inspiration/x.com-claude-code-blender-voxel.md)** ⚑  free / @Y0urDumble (Dumble)
+  - AI インフルエンサー生成で問題になる「顔のドリフト」を、3D モデル（ファイルとして固定される資産）に置き換えて回避する。投稿者は、Blender の UI を一切開かず、Claude Code に Python を書かせて headless 実行させ、voxel キャラのモデリング→リグ→ダンスまで通したと主張して
+- **[Cravely](links/link-inspiration/gdgoau-food.vercel.app-cravely.md)** ⚑  free / GDG OAU
+  - フードデリバリーの注文から追跡までのUIを参照する。
+- **[Design Details — Webデザイン参考ライブラリ](links/link-inspiration/designdetails.io.md)** ⚑  Design Details — Webデザイン参考ライブラリ
+  - 実在サイトの全体構成・動き・フォント・配色をまとめて調べる。
+- **[Design Spells](links/link-inspiration/designspells.com.md)** ⚑  Design Spells
+  - 製品にある小さな遊び心・イースターエッグ・動きの事例集。
+- **[Detail — UIの小さな設計判断集](links/link-inspiration/detail.design.md)** ⚑  Detail — UIの小さな設計判断集
+  - UIの細部を設計・操作・動き・文章・アクセシビリティの観点から調べる。
+- **[Greg1（@greg13e）— 実在の群集映像にAIキャラを1体だけ合成するTikTokアカウント](links/link-inspiration/tiktok.com-greg1-greg13e-ai-1-tiktok.md)** ⚑  free / TikTok @greg13e（紹介したX投稿は @Y0urDumble）
+  - 実在の場所・実在の群集が写る映像に、AIで作ったキャラクターを1体だけ合成し、その場に居合わせたように見せるショート動画フォーマットの実例。生成モデルの手順書ではなく、完成して回っている運用アカウントを観察するための参照先として使う。
+- **[Inspora](links/link-inspiration/inspora-design.md)**  Inspora
+  - 最近のビジュアルデザイン／クリエイティブワークを厳選して並べる作例アーカイブ。Web、ブランディング、プロダクト、モーション、イラスト、3D、印刷までを1つのブラウズ形式で扱う。
+- **[Land-book](links/link-inspiration/https-land-book.com.md)** ⚑  @abir35627
+  - ランディングページの視覚的な参考例を探すデザインギャラリーLand-book。
+- **[Landdding](links/link-inspiration/landdding-com.md)** ⚑  Landdding
+  - ランディングページの作例を毎日／毎週キュレーションするギャラリー。デザインの参考を探す用途。
+- **[Launch Videos Gallery](links/link-inspiration/launchvideos-gallery.md)**  free / Launch Videos Gallery
+  - X 上で共有されたプロダクトローンチ動画を日次で集めた作例ギャラリー。ローンチ動画の構成や演出を参考にするためのもの。
+- **[Minimal Gallery](links/link-inspiration/minimal.gallery-minimal-gallery.md)**
+  - クリエイターの制作活動を支援する、厳選ウェブサイトのデザインインスピレーションギャラリー。
+- **[Mosquito Man — 段ボールとアルミホイルの即席マスクで撮った14秒一発撮り動画（@Bober_smart が紹介）](links/link-inspiration/x.com-mosquito-man-14-bober_smart.md)** ⚑  free / @Bober_smart（紹介者。映像の原作者は投稿に記載なし）
+  - AI生成を使わず、家庭にある素材だけで作った「異形の見た目」で短尺動画の冒頭0.5秒を止める、という発想の参照例。@Bober_smart が2026-10-22に「ドイツの23歳が24時間で6M再生、費用$0、これはAIではなく実在の人物」と紹介して拡散した。
+- **[Opus Edit Machine](links/link-inspiration/opus-edit-machine.vercel.app-opus-edit-machine.md)** ⚑  free / Dumble (@Y0urDumble)
+  - 「40分の生素材が58秒の縦動画になるまで」を、8つの工程（station）に分解して体感するためのブラウザ教材。実際に動画を編集するツールではなく、各工程で何を判断しているか・どこを間違えやすいかを3Dデスク上で再現する。制作者は映像編集者・モーションデザイナーで、AI 編集パイプラインの工程分解を示す目的で作られて
+- **[Ripplix](links/link-inspiration/ripplix.com.md)** ⚑  freemium / Ripplix
+  - 実在アプリのUIアニメーションから、動きと再現指示を学ぶ。
+- **[Scrolltide](links/link-inspiration/scrolltide-co.md)**  paid / Scrolltide
+  - スクロールに連動して動く「シネマティックなWebサイト」を作るための、プロンプトとテンプレートのライブラリ。プロンプトをコピーして AI（Claude / Cursor / Codex など）に貼り、サイトを生成させる使い方を想定している。
+- **[Supahero](links/link-inspiration/supahero-io.md)**  free / Supahero
+  - Web サイトのファーストビュー（ヒーローセクション）だけを集めた作例ライブラリ。
+- **[The Internet Designs](links/link-inspiration/theinternetdesigns-com.md)**  free / The Internet Designs
+  - X（Twitter）と Pinterest に投稿された UI デザインを収集・索引化し、デザインの参考として引けるようにする。ポストの「find beautifully designed websites」に対応する。
+- **[recent.design](links/link-inspiration/https-recent.design.md)** ⚑  @abir35627
+  - Web・ブランド・モーション・印刷の作例と求人を掲載するrecent.design。
+- **[uilabs — 動きのあるUI部品集](links/link-inspiration/uilabs.dev.md)** ⚑  uilabs — 動きのあるUI部品集
+  - React UIの操作とモーションの実装例を調べる小さな部品集。
+- **[〖週刊〗今日から始めるAI生活](links/link-inspiration/tetumemo.m-newsletter.com-ai.md)** ⚑
+  - AI活用に関する記事を週刊で届けるニュースレター。
+
 ### リンク（素材・アイコン・3D）（20）
 
 - **[AI Camera Movements（カメラワーク46種のプロンプト）](links/link-asset/aicameramovements-com.md)**  free / aicameramovements.com
@@ -1306,49 +1351,6 @@
   - ホバー・クリック・ループのフィードバックをUIへ組み込むアイコン素材。
 - **[背景ガチャ（九龍城砦セット＋パース補助線）](links/link-asset/tools.oyasumi-gamedev.com-haikeigacha.md)** ⚑  free / おやすみゲーム開発部（MIYADAIKU）
   - 漫画・イラストの背景を、ブラウザ上で部品を組み合わせて作る無料ツール。3Dモデリングなしで、部屋・建物・街並みのラフを作る。
-
-### リンク（作例・インスピレーション）（20）
-
-- **[BestAIBuilder](links/link-inspiration/bestaibuilder-website.md)**  free / BestAIBuilder
-  - AI サイトビルダーを横並びで比較するためのランキングサイト。「同じブリーフで全ツールにサイトを作らせ、craft / speed / control / value で採点した」という前提を掲げ、101ツールを順位付けしている。
-- **[Claude Code に Blender のシーンをコードで書かせて voxel キャラを踊らせる手順（投稿）](links/link-inspiration/x.com-claude-code-blender-voxel.md)** ⚑  free / @Y0urDumble (Dumble)
-  - AI インフルエンサー生成で問題になる「顔のドリフト」を、3D モデル（ファイルとして固定される資産）に置き換えて回避する。投稿者は、Blender の UI を一切開かず、Claude Code に Python を書かせて headless 実行させ、voxel キャラのモデリング→リグ→ダンスまで通したと主張して
-- **[Cravely](links/link-inspiration/gdgoau-food.vercel.app-cravely.md)** ⚑  free / GDG OAU
-  - フードデリバリーの注文から追跡までのUIを参照する。
-- **[Design Details — Webデザイン参考ライブラリ](links/link-inspiration/designdetails.io.md)** ⚑  Design Details — Webデザイン参考ライブラリ
-  - 実在サイトの全体構成・動き・フォント・配色をまとめて調べる。
-- **[Design Spells](links/link-inspiration/designspells.com.md)** ⚑  Design Spells
-  - 製品にある小さな遊び心・イースターエッグ・動きの事例集。
-- **[Detail — UIの小さな設計判断集](links/link-inspiration/detail.design.md)** ⚑  Detail — UIの小さな設計判断集
-  - UIの細部を設計・操作・動き・文章・アクセシビリティの観点から調べる。
-- **[Greg1（@greg13e）— 実在の群集映像にAIキャラを1体だけ合成するTikTokアカウント](links/link-inspiration/tiktok.com-greg1-greg13e-ai-1-tiktok.md)** ⚑  free / TikTok @greg13e（紹介したX投稿は @Y0urDumble）
-  - 実在の場所・実在の群集が写る映像に、AIで作ったキャラクターを1体だけ合成し、その場に居合わせたように見せるショート動画フォーマットの実例。生成モデルの手順書ではなく、完成して回っている運用アカウントを観察するための参照先として使う。
-- **[Inspora](links/link-inspiration/inspora-design.md)**  Inspora
-  - 最近のビジュアルデザイン／クリエイティブワークを厳選して並べる作例アーカイブ。Web、ブランディング、プロダクト、モーション、イラスト、3D、印刷までを1つのブラウズ形式で扱う。
-- **[Land-book](links/link-inspiration/https-land-book.com.md)** ⚑  @abir35627
-  - ランディングページの視覚的な参考例を探すデザインギャラリーLand-book。
-- **[Landdding](links/link-inspiration/landdding-com.md)** ⚑  Landdding
-  - ランディングページの作例を毎日／毎週キュレーションするギャラリー。デザインの参考を探す用途。
-- **[Launch Videos Gallery](links/link-inspiration/launchvideos-gallery.md)**  free / Launch Videos Gallery
-  - X 上で共有されたプロダクトローンチ動画を日次で集めた作例ギャラリー。ローンチ動画の構成や演出を参考にするためのもの。
-- **[Minimal Gallery](links/link-inspiration/minimal.gallery-minimal-gallery.md)**
-  - クリエイターの制作活動を支援する、厳選ウェブサイトのデザインインスピレーションギャラリー。
-- **[Mosquito Man — 段ボールとアルミホイルの即席マスクで撮った14秒一発撮り動画（@Bober_smart が紹介）](links/link-inspiration/x.com-mosquito-man-14-bober_smart.md)** ⚑  free / @Bober_smart（紹介者。映像の原作者は投稿に記載なし）
-  - AI生成を使わず、家庭にある素材だけで作った「異形の見た目」で短尺動画の冒頭0.5秒を止める、という発想の参照例。@Bober_smart が2026-10-22に「ドイツの23歳が24時間で6M再生、費用$0、これはAIではなく実在の人物」と紹介して拡散した。
-- **[Opus Edit Machine](links/link-inspiration/opus-edit-machine.vercel.app-opus-edit-machine.md)** ⚑  free / Dumble (@Y0urDumble)
-  - 「40分の生素材が58秒の縦動画になるまで」を、8つの工程（station）に分解して体感するためのブラウザ教材。実際に動画を編集するツールではなく、各工程で何を判断しているか・どこを間違えやすいかを3Dデスク上で再現する。制作者は映像編集者・モーションデザイナーで、AI 編集パイプラインの工程分解を示す目的で作られて
-- **[Ripplix](links/link-inspiration/ripplix.com.md)** ⚑  freemium / Ripplix
-  - 実在アプリのUIアニメーションから、動きと再現指示を学ぶ。
-- **[Scrolltide](links/link-inspiration/scrolltide-co.md)**  paid / Scrolltide
-  - スクロールに連動して動く「シネマティックなWebサイト」を作るための、プロンプトとテンプレートのライブラリ。プロンプトをコピーして AI（Claude / Cursor / Codex など）に貼り、サイトを生成させる使い方を想定している。
-- **[Supahero](links/link-inspiration/supahero-io.md)**  free / Supahero
-  - Web サイトのファーストビュー（ヒーローセクション）だけを集めた作例ライブラリ。
-- **[The Internet Designs](links/link-inspiration/theinternetdesigns-com.md)**  free / The Internet Designs
-  - X（Twitter）と Pinterest に投稿された UI デザインを収集・索引化し、デザインの参考として引けるようにする。ポストの「find beautifully designed websites」に対応する。
-- **[recent.design](links/link-inspiration/https-recent.design.md)** ⚑  @abir35627
-  - Web・ブランド・モーション・印刷の作例と求人を掲載するrecent.design。
-- **[uilabs — 動きのあるUI部品集](links/link-inspiration/uilabs.dev.md)** ⚑  uilabs — 動きのあるUI部品集
-  - React UIの操作とモーションの実装例を調べる小さな部品集。
 
 ### 3D・モーション（11）
 
@@ -2571,6 +2573,7 @@
 - [Ripplix](links/link-inspiration/ripplix.com.md) — unverified / 件数と80–90%再現という表現はサイト側の主張で、全件数や生成品質は未検証。参照動画の転載権と、コードを自作することは別。 当方では導入・生成・操作の実行検証をしていない。
 - [recent.design](links/link-inspiration/https-recent.design.md) — unverified / 各作例の模倣・再配布は別途権利確認が必要。現在の有料条件と利用規約は未確認。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [uilabs — 動きのあるUI部品集](links/link-inspiration/uilabs.dev.md) — unverified / 投稿の12部品という総数は今回独立に数えていない。コードをプロジェクトに組み込む前に各部品の配布・利用条件を確認する。 当方では導入・生成・操作の実行検証をしていない。
+- [〖週刊〗今日から始めるAI生活](links/link-inspiration/tetumemo.m-newsletter.com-ai.md) — unverified / ニュースレター購読自体の料金と購読登録の条件は、確認したページからは判断できない。投稿者は無料で読めると案内しているが、公式ページに有料記事の表示があるため、購読と個別記事の料金を区別して確認できていない。
 - [Aura](links/link-service/aura.build-aura.md) — unverified / 未確認: (1) MCPのツール一覧・レート制限・1操作あたりのプロンプト消費量は、Auraアカウントなしではtools/listを取得できず未確認（未認証は401のみ確認）。(2) 公開REST API/CLIの有無は公式文書で確認できず、api.aura.build はサイトと同じHTMLを返すだけ。(3) テンプレート/コンポーネント/アセット数はページ間で記述が食い違う（料金ページFAQ: 5,000+テンプレート・2,800+コンポーネント・30,000+アセット、learn/introduction: 1000+テンプレート・1400+コンポーネント・20,000+アセット）ため数値は採用しない。(4) 月払い価格は料金ページのプラン設定（配信JSバンドル）から取得し、年払い額はページ表示のプロモ価格。年払い50%オフは期間限定表示で終了時期は不明。(5) MCPエンドポイントは初回probeで401を確認したが、再試行時に25秒タイムアウトした（一時的な可能性）。生成品質・出力の再現性は実生成していないため未評価。
 - [BT4G](links/link-service/bt4gprx.com-bt4g.md) — low-quality, unverified / 公式DMCA案内のTakedownページは、BT4GがDHT上のトレントを自動で索引し、索引対象を確認しないと説明している。検索結果に不適切または悪意ある内容が含まれる可能性がある。 公式ページによれば索引作成は自動で、掲載内容を事前確認しない。検索結果やリンク先の安全性・権利状態は保証されない。
 - [CompShare（優云智算）](links/link-service/compshare.cn-compshare.md) — unverified / GPU の無料枠・トライアルの有無、本人確認（実名認証）の要否、表示価格の税込/税抜は未確認。対象URLには referral_code と ytag のアフィリエイト用パラメータが付いており、エントリでは正規URL（https://www.compshare.cn/）を使う。コミュニティイメージは作成者が乌兰察布(cn-wlcb-01)の RTX4090 のみで検証済みと明記。210GB のイメージ取得とストレージ課金が別途発生する。
