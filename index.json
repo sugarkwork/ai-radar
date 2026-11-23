@@ -1,5 +1,5 @@
 {
-  "count": 1493,
+  "count": 1494,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -34254,6 +34254,37 @@
       "fetched_at": "2026-11-16T21:59:00Z",
       "path": "entries/other/bytelabs-oss-clash-jev.md",
       "summary": "ADBで取得したH.264映像から手札、エリクサー、タワーなどを読み取り、既定で毎秒JSONのゲーム状態を組み立てる。Jevが戦略、カード、配置マスを順に選び、実行可能性を検査してからタップする。"
+    },
+    {
+      "name": "SoMarkDown",
+      "genre": "other",
+      "url": "https://github.com/SoMarkAI/SoMarkDown",
+      "repo": "SoMarkAI/SoMarkDown",
+      "license": "MIT",
+      "stars": 34,
+      "language": "JavaScript",
+      "created": "2026-02-19",
+      "updated": "2026-09-09",
+      "forks": 2,
+      "open_issues": 1,
+      "commits_30d": 0,
+      "commit_cadence": "stale",
+      "commits_90d": 2,
+      "size_kb": 489,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景・実行条件。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/ai_hakase_/status/2119370852126908922"
+      ],
+      "fetched_at": "2026-11-19T19:14:26.546280+00:00",
+      "path": "entries/other/somarkai-somarkdown.md",
+      "summary": "MarkdownソースをHTML文字列へ変換するコンパイラ。CommonMark互換をうたい、数式（KaTeX、mhchem）、SMILES化学構造（SmilesDrawer）、コードブロックの強調表示（highlight.js）、目次生成、画像表示、図表キャプションに対応するとREADMEに記載。ブラウザーとNode"
     },
     {
       "name": "Sprite Pencil",

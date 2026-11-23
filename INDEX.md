@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1493 件 — リポジトリ 1057, リンク集 123, 記事 244, モデル 55, プロンプト 14 / ⚑ 要確認 1218 件
+収録 1494 件 — リポジトリ 1058, リンク集 123, 記事 244, モデル 55, プロンプト 14 / ⚑ 要確認 1219 件
 
-## リポジトリ（1057）
+## リポジトリ（1058）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（263）
+### その他（264）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -154,7 +154,7 @@
 | [EmulatorJS](entries/other/emulatorjs-emulatorjs.md) ⚑ | 4,351 | 1,037 | 週次 | 5 | 2026-10-21 | 2026-11-17 |  | GPL-3.0 |
 | [Storyboarder](entries/other/wonderunit-storyboarder.md) ⚑ | 3,946 | 404 | 停滞 | 0 | 2024-03-17 | 2026-11-11 |  | unknown |
 | [Marp CLI](entries/other/marp-team-marp-cli.md) ⚑ | 3,922 | 207 | 月次 | 0 | 2026-09-08 | 2026-11-15 |  | MIT |
-| [SoMark OXR](entries/other/somarkai-oxr.md) ⚑ | 3,904 | 262 | 月次 | 3 | 2026-11-06 | 2026-11-19 | 2026-11-23 | unknown |
+| [SoMark OXR](entries/other/somarkai-oxr.md) ⚑ | 3,904 | 262 | 月次 | 3 | 2026-11-06 | 2026-11-19 |  | unknown |
 | [three-mesh-bvh](entries/other/gkjohnson-three-mesh-bvh.md) ⚑ | 3,576 | 352 | 毎日 | 100+ | 2026-11-18 | 2026-11-18 |  | MIT |
 | [TweenJS](entries/other/createjs-tweenjs.md) ⚑ | 3,568 | 940 | 停滞 | 0 | 2023-12-18 | 2026-11-16 |  | MIT |
 | [Demucs](entries/other/adefossez-demucs.md) ⚑ | 3,564 | 333 | 月次 | 1 | 2026-10-26 | 2026-11-18 |  | MIT |
@@ -264,6 +264,7 @@
 | [Strata](entries/other/carthageadev-strata.md) ⚑ | 48 | 3 | 毎日 | 41 | 2026-11-11 | 2026-11-16 |  | unknown |
 | [Voice Workshop (Officina della voce)](entries/other/mithrilman-voice-workshop.md) ⚑ | 37 | 9 | 毎日 | 31 | 2026-11-08 | 2026-11-17 |  | Apache-2.0 |
 | [clash-jev](entries/other/bytelabs-oss-clash-jev.md) ⚑ | 37 | 11 | 月次 | 0 | 2026-10-14 | 2026-11-16 |  | MIT |
+| [SoMarkDown](entries/other/somarkai-somarkdown.md) ⚑ | 34 | 2 | 停滞 | 0 | 2026-09-09 | 2026-11-19 | 2026-11-23 | MIT |
 | [Sprite Pencil](entries/other/256arts-sprite-pencil.md) ⚑ | 28 | 6 | 週次 | 9 | 2026-11-11 | 2026-11-16 |  | unknown |
 | [jevframe](entries/other/ktaletsk-jevframe.md) ⚑ | 21 | 3 | 月次 | 0 | 2026-09-24 | 2026-11-10 |  | MIT |
 | [FossFLOW](entries/other/grujowmi-fossflow.md) ⚑ | 15 | 3 | 停滞 | 0 | 2026-05-22 | 2026-11-16 |  | MIT |
@@ -2893,6 +2894,7 @@
 - [Strata](entries/other/carthageadev-strata.md) — unverified / GitHub APIでライセンスを確認できていません。
 - [Voice Workshop (Officina della voce)](entries/other/mithrilman-voice-workshop.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係。
 - [clash-jev](entries/other/bytelabs-oss-clash-jev.md) — unverified / 約135msはREADMEが示すJevの単一応答の目安。全体遅延、勝率、端末ごとの認識精度、現行API料金は未検証。READMEは自動プレイがSupercellの利用規約に反すると明記している。
+- [SoMarkDown](entries/other/somarkai-somarkdown.md) — unverified / 一次資料で未確認: 技術背景・実行条件。
 - [Sprite Pencil](entries/other/256arts-sprite-pencil.md) — unverified / README does not state the license or the app's cost; confirm these before relying on reuse or distribution terms. GitHub APIでライセンスを確認できていません。
 - [jevframe](entries/other/ktaletsk-jevframe.md) — unverified / READMEと公開パッケージ情報を確認した。実行による精度、処理速度、費用削減の検証は行っていない。TypeSafe APIの現行単価とデータ保持条件、およびGitHubの最新リリースは未確認。
 - [FossFLOW](entries/other/grujowmi-fossflow.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
