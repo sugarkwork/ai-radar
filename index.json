@@ -1,5 +1,5 @@
 {
-  "count": 1399,
+  "count": 1400,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -29582,6 +29582,37 @@
       "fetched_at": "2026-11-10T09:24:07+00:00",
       "path": "entries/other/physicsdolphin-nv-uefi-unlocker.md",
       "summary": "開発元はRTX 20／30／40シリーズを対象とし、GTX 16は理論上の対応としている。設定は揮発性で、電源断で消える。"
+    },
+    {
+      "name": "audiowaveform",
+      "genre": "other",
+      "url": "https://github.com/bbc/audiowaveform",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEによると、継続開発は https://codeberg.org/chrisn/audiowaveform に移っています。この候補の対象URLは指定どおりGitHubリポジトリです。",
+      "repo": "bbc/audiowaveform",
+      "stars": 2171,
+      "forks": 253,
+      "open_issues": 43,
+      "size_kb": 4496,
+      "language": "C++",
+      "created": "2013-10-14",
+      "updated": "2025-08-24",
+      "archived": false,
+      "license": "GPL-3.0",
+      "commits_30d": 0,
+      "commits_90d": 0,
+      "commit_cadence": "stale",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/0xclayo/status/2123016316353155192"
+      ],
+      "fetched_at": "2026-11-18T14:17:01.587116+00:00",
+      "path": "entries/other/bbc-audiowaveform.md",
+      "summary": "MP3、WAV、FLAC、Ogg Vorbis、Opus形式の音声から波形データを生成します。データは.datまたはJSON形式で保存でき、波形データを入力として、時間位置とズームを指定したPNG画像を描画できます。"
     },
     {
       "name": "Effekseer",

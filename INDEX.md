@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1399 件 — リポジトリ 991, リンク集 120, 記事 219, モデル 55, プロンプト 14 / ⚑ 要確認 1135 件
+収録 1400 件 — リポジトリ 992, リンク集 120, 記事 219, モデル 55, プロンプト 14 / ⚑ 要確認 1136 件
 
-## リポジトリ（991）
+## リポジトリ（992）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（226）
+### その他（227）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -153,6 +153,7 @@
 | [Henge](entries/other/leviidev-henge.md) ⚑ | 2,368 | 208 | 毎日 | 100+ | 2026-11-15 | 2026-11-16 | 2026-11-22 | GPL-2.0 |
 | [JIZURA 字面](entries/other/852wa-jizura.md) ⚑ | 2,291 | 304 | 週次 | 9 | 2026-11-10 | 2026-11-16 | 2026-11-22 | MIT |
 | [nv-uefi-unlocker](entries/other/physicsdolphin-nv-uefi-unlocker.md) ⚑ | 2,223 | 202 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 | 2026-11-10 | GPL-2.0 |
+| [audiowaveform](entries/other/bbc-audiowaveform.md) ⚑ | 2,171 | 253 | 停滞 | 0 | 2025-08-24 | 2026-11-18 | 2026-11-23 | GPL-3.0 |
 | [Effekseer](entries/other/effekseer-effekseer.md) ⚑ | 2,094 | 337 | 週次 | 17 | 2026-10-30 | 2026-11-16 | 2026-11-22 | MIT |
 | [cannon-es](entries/other/pmndrs-cannon-es.md) ⚑ | 2,090 | 158 | 停滞 | 0 | 2024-01-06 | 2026-11-11 | 2026-11-11 | MIT |
 | [awesome-reverse-engineering](entries/other/morluto-awesome-reverse-engineering.md) | 1,991 | 440 | 毎日 | 99 | 2026-11-09 | 2026-11-09 | 2026-11-10 | CC0-1.0 |
@@ -2648,6 +2649,7 @@
 - [Henge](entries/other/leviidev-henge.md) — unverified / iPadでの実機動作は未確認。iOS 17–26での外部ディスプレイ出力も実機未確認。Apple Accountへのサインインは失敗すると記載。
 - [JIZURA 字面](entries/other/852wa-jizura.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [nv-uefi-unlocker](entries/other/physicsdolphin-nv-uefi-unlocker.md) — unverified / 性能と互換性は開発元の報告に基づき、独立した実機試験は未実施。投稿にあるv2.1.9-diag.3のCSM環境向け復旧処理とUSBへのログ書き込みの保証は未確認。最新安定版のタグは確認したが、公開日時は未確認。
+- [audiowaveform](entries/other/bbc-audiowaveform.md) — unverified / READMEによると、継続開発は https://codeberg.org/chrisn/audiowaveform に移っています。この候補の対象URLは指定どおりGitHubリポジトリです。
 - [Effekseer](entries/other/effekseer-effekseer.md) — unverified / READMEには、対応プラットフォームでの再生にはランタイムやプラグインの組み込みが必要とある。具体的な導入手順・依存関係・利用条件はこのREADMEだけでは確認できない。
 - [cannon-es](entries/other/pmndrs-cannon-es.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Ola](entries/other/franciscop-ola.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
