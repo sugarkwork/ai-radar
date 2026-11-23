@@ -1,5 +1,5 @@
 {
-  "count": 1470,
+  "count": 1471,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -42449,6 +42449,37 @@
       "type": "repo",
       "path": "entries/video-gen/veda-sparse-veda-on-comfyui.md",
       "summary": "ComfyUI の MiniMax-H3（**T2VA / FL2VA / R2VA**）に差し込む学習型スパースアテンションのノード。MODEL を受けて MODEL を返す1ノードで、モデルとLoRAの後、guider/sampler の直前に置く。"
+    },
+    {
+      "name": "WorldForge",
+      "genre": "video-gen",
+      "url": "https://github.com/designfuchen/worldforge",
+      "repo": "designfuchen/worldforge",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEに記載された性能値や品質上の効果（例：モデル切替1.2～1.5秒、120Hz表示）は独立に確認されていません。",
+      "stars": 223,
+      "forks": 59,
+      "open_issues": 1,
+      "size_kb": 26682,
+      "language": "Python",
+      "created": "2026-11-08",
+      "updated": "2026-11-08",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 3,
+      "commits_90d": 3,
+      "commit_cadence": "monthly",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/Leviwoyun/status/2119335242565865788"
+      ],
+      "fetched_at": "2026-11-19T09:13:36.975378+00:00",
+      "path": "entries/video-gen/designfuchen-worldforge.md",
+      "summary": "READMEによると、Colab上のGPUで画像・動画・3D世界の生成を行い、MacのSwiftUI/AppKitアプリまたはWeb UIから操作する制作環境です。画像生成、NVIDIA Lyra 2.0を使った動画・3D世界生成、Diffusers対応モデルの利用、生成物のローカル取得や後処理機能が記載されています。"
     },
     {
       "name": "HyperFrames Motion Reel Skill",
