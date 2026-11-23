@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1489 件 — リポジトリ 1054, リンク集 123, 記事 243, モデル 55, プロンプト 14 / ⚑ 要確認 1215 件
+収録 1490 件 — リポジトリ 1055, リンク集 123, 記事 243, モデル 55, プロンプト 14 / ⚑ 要確認 1216 件
 
-## リポジトリ（1054）
+## リポジトリ（1055）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（260）
+### その他（261）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -142,7 +142,7 @@
 | [gifski](entries/other/imageoptim-gifski.md) ⚑ | 5,711 | 183 | 停滞 | 0 | 2026-06-17 | 2026-11-16 |  | unknown |
 | [软件屏蔽器（Malware-Patch）](entries/other/the1812-malware-patch.md) ⚑ | 5,644 | 333 | 停滞 | 0 | 2026-05-27 | 2026-11-14 |  | MIT |
 | [Atoll](entries/other/ebullioscopic-atoll.md) ⚑ | 5,291 | 389 | 毎日 | 33 | 2026-11-17 | 2026-11-17 |  | GPL-3.0 |
-| [PKHeX](entries/other/kwsch-pkhex.md) ⚑ | 5,284 | 980 | 毎日 | 26 | 2026-11-16 | 2026-11-19 | 2026-11-23 | unknown |
+| [PKHeX](entries/other/kwsch-pkhex.md) ⚑ | 5,284 | 980 | 毎日 | 26 | 2026-11-16 | 2026-11-19 |  | unknown |
 | [Bumblebee](entries/other/perplexityai-bumblebee.md) ⚑ | 5,148 | 464 | 月次 | 0 | 2026-11-10 | 2026-11-12 |  | Apache-2.0 |
 | [FigCraft](entries/other/storytold-figcraft.md) ⚑ | 5,042 | 1,863 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 |  | Apache-2.0 |
 | [Y2A-Auto](entries/other/fqscfqj-y2a-auto.md) ⚑ | 5,018 | 850 | 週次 | 9 | 2026-11-16 | 2026-11-16 |  | GPL-3.0 |
@@ -162,6 +162,7 @@
 | [Swarm Rebuild](entries/other/dhvanilpatel-swarm-cursors.md) ⚑ | 3,428 | 378 | 週次 | 7 | 2026-11-11 | 2026-11-16 |  | unknown |
 | [Tendedero](entries/other/alejandrobujan-tendedero.md) ⚑ | 3,270 | 295 | 毎日 | 67 | 2026-11-15 | 2026-11-16 |  | unknown |
 | [Open Source Face Recognition SDK](entries/other/faceplugin-ltd-open-source-face-recognition-sdk.md) ⚑ | 3,169 | 533 | 月次 | 0 | 2026-10-02 | 2026-11-16 |  | unknown |
+| [Dungeon Crawl Stone Soup](entries/other/crawl-crawl.md) ⚑ | 3,081 | 1,763 | 毎日 | 100+ | 2026-11-19 | 2026-11-19 | 2026-11-23 | unknown |
 | [gl-react](entries/other/gre-gl-react.md) ⚑ | 3,016 | 162 | 毎日 | 39 | 2026-11-17 | 2026-11-18 |  | MIT |
 | [HatchZip](entries/other/xevrion-hatchzip.md) ⚑ | 2,968 | 102 | 毎日 | 100+ | 2026-11-16 | 2026-11-18 |  | Apache-2.0 |
 | [Vexa](entries/other/vexa-ai-vexa.md) ⚑ | 2,965 | 544 | 週次 | 4 | 2026-11-09 | 2026-11-10 |  | Apache-2.0 |
@@ -2793,6 +2794,7 @@
 - [Swarm Rebuild](entries/other/dhvanilpatel-swarm-cursors.md) — unverified / READMEには「None yet」とあり、ライセンスは設定されていない。コードの再利用条件は権利者への確認が必要。 GitHub APIでライセンスを確認できていません。
 - [Tendedero](entries/other/alejandrobujan-tendedero.md) — unverified / GitHub APIでライセンスを確認できていません。
 - [Open Source Face Recognition SDK](entries/other/faceplugin-ltd-open-source-face-recognition-sdk.md) — low-quality, unverified / README заявляет «high accuracy», «real-time» и «completely free», но не приводит измерений точности или скорости; лицензионные условия не указаны. Эти заявления не представлены как независимо проверенные факты. README называет SDK бесплатным и открытым, но API указывает лицензию как unknown. Условия использования и лицензирования не подтверждены. GitHub APIでライセンスを確認できていません。
+- [Dungeon Crawl Stone Soup](entries/other/crawl-crawl.md) — unverified / GitHub APIでライセンスを確認できていません。
 - [gl-react](entries/other/gre-gl-react.md) — unverified / 一次資料で未確認: 有効性・実行条件。
 - [HatchZip](entries/other/xevrion-hatchzip.md) — unverified / READMEによるとWindows版とmacOS版はコード署名されていない。Windowsでは保護警告を経て実行する手順が案内されている。
 - [Vexa](entries/other/vexa-ai-vexa.md) — unverified / 会議への参加、文字起こしの精度・遅延、話者割り当て、Macでの起動、MCP接続は独立実測なし。Jitsiのライブ検証はREADME上で保留。最新リリースの公開日時は年とタイムゾーンまで確認できなかった。

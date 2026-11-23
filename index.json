@@ -1,5 +1,5 @@
 {
-  "count": 1489,
+  "count": 1490,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -30994,6 +30994,37 @@
       "last_release_at": "",
       "path": "entries/other/faceplugin-ltd-open-source-face-recognition-sdk.md",
       "summary": "READMEによると、画像から顔を検出してバウンディングボックス、顔のランドマーク、特徴量埋め込みを取得できます。2つの埋め込みを比較し、0〜100の類似度スコアを返すAPIも説明されています。対応画像形式としてJPG、PNG、BMP、TIFFが挙げられています。"
+    },
+    {
+      "name": "Dungeon Crawl Stone Soup",
+      "genre": "other",
+      "url": "https://github.com/crawl/crawl",
+      "repo": "crawl/crawl",
+      "license": "unknown",
+      "stars": 3081,
+      "language": "C++",
+      "created": "2014-08-17",
+      "updated": "2026-11-19",
+      "forks": 1763,
+      "open_issues": 471,
+      "commits_30d": 100,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 339959,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/dextune/status/2119369338105000403"
+      ],
+      "fetched_at": "2026-11-19T19:10:15.108863+00:00",
+      "path": "entries/other/crawl-crawl.md",
+      "summary": "ダンジョンを探索し、戦闘や魔法を使うゲーム。オンラインで他のプレイヤーと競ったり観戦したりでき、ブラウザーまたはSSHからプレイできる。オフライン版にはASCII版とタイル（GUI）版がある。"
     },
     {
       "name": "gl-react",
