@@ -1,5 +1,5 @@
 {
-  "count": 1522,
+  "count": 1523,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -29407,6 +29407,37 @@
       "fetched_at": "2026-11-18T15:18:15.241774+00:00",
       "path": "entries/other/yaofanguk-video-subtitle-remover.md",
       "summary": "動画のハード字幕を除去し、字幕領域をAIベースのインペインティングで補完するソフトウェア。字幕の位置を指定した除去、位置指定なしで動画内テキストを自動除去、複数画像の透かし・テキスト除去に対応するとREADMEは説明しています。字幕抽出機能もあり、READMEではvideo-subtitle-extractorとの併用"
+    },
+    {
+      "name": "Quartz",
+      "genre": "other",
+      "url": "https://github.com/jackyzha0/quartz",
+      "repo": "jackyzha0/quartz",
+      "stars": 13613,
+      "forks": 4145,
+      "open_issues": 76,
+      "size_kb": 40707,
+      "language": "TypeScript",
+      "created": "2021-07-18",
+      "updated": "2026-11-19",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 100,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景・有効性・依存関係・実行条件。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/rosemoni18/status/2119211334797840872"
+      ],
+      "fetched_at": "2026-11-20T03:10:47.698362+00:00",
+      "path": "entries/other/jackyzha0-quartz.md",
+      "summary": "デジタルガーデンやノートをウェブサイトとして公開するためのツール群です。"
     },
     {
       "repo": "Thysrael/Horizon",

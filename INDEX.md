@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1522 件 — リポジトリ 1079, リンク集 125, 記事 249, モデル 55, プロンプト 14 / ⚑ 要確認 1243 件
+収録 1523 件 — リポジトリ 1080, リンク集 125, 記事 249, モデル 55, プロンプト 14 / ⚑ 要確認 1244 件
 
-## リポジトリ（1079）
+## リポジトリ（1080）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（275）
+### その他（276）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Satori](entries/other/vercel-satori.md) ⚑ | 14,195 | 404 | 週次 | 5 | 2026-11-12 | 2026-11-17 |  | MPL-2.0 |
 | [Luanti](entries/other/luanti-org-luanti.md) ⚑ | 13,871 | 2,531 | 毎日 | 84 | 2026-11-16 | 2026-11-17 |  | unknown |
 | [Video Subtitle Remover (VSR)](entries/other/yaofanguk-video-subtitle-remover.md) ⚑ | 13,798 | 1,713 | 停滞 | 0 | 2026-06-30 | 2026-11-18 |  | Apache-2.0 |
+| [Quartz](entries/other/jackyzha0-quartz.md) ⚑ | 13,613 | 4,145 | 毎日 | 100+ | 2026-11-19 | 2026-11-20 | 2026-11-23 | MIT |
 | [Horizon](entries/other/thysrael-horizon.md) | 13,147 | 1,876 | 毎日 | 80 | 2026-11-09 | 2026-11-09 |  | MIT |
 | [Paper](entries/other/papermc-paper.md) ⚑ | 12,815 | 3,564 | 毎日 | 58 | 2026-11-15 | 2026-11-16 |  | unknown |
 | [Thaw](entries/other/thaw-app-thaw.md) ⚑ | 12,708 | 345 | 毎日 | 100+ | 2026-11-13 | 2026-11-13 |  | GPL-3.0 |
@@ -557,7 +558,7 @@
 | [Hy Memory](entries/agent-framework/tencent-hunyuan-hy-memory.md) ⚑ | 2,068 | 152 | 毎日 | 100+ | 2026-11-15 | 2026-11-16 |  | Apache-2.0 |
 | [stripe/ai](entries/agent-framework/stripe-ai.md) ⚑ | 2,068 | 385 | 毎日 | 61 | 2026-11-16 | 2026-11-16 |  | MIT |
 | [Nod](entries/agent-framework/n8n-io-nod.md) ⚑ | 2,019 | 272 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 |  | Apache-2.0 |
-| [LangMem](entries/agent-framework/langchain-ai-langmem.md) ⚑ | 1,777 | 207 | 週次 | 6 | 2026-11-16 | 2026-11-20 | 2026-11-23 | MIT |
+| [LangMem](entries/agent-framework/langchain-ai-langmem.md) ⚑ | 1,777 | 207 | 週次 | 6 | 2026-11-16 | 2026-11-20 |  | MIT |
 | [ARTEX](entries/agent-framework/hinln-artex.md) ⚑ | 1,633 | 2,154 | 月次 | 0 | 2026-10-08 | 2026-11-16 |  | AGPL-3.0 |
 | [Molt](entries/agent-framework/nvidia-nemo-labs-molt.md) ⚑ | 1,355 | 149 | 毎日 | 55 | 2026-11-17 | 2026-11-17 |  | Apache-2.0 |
 | [ysr666/dsh-vision-router](entries/agent-framework/ysr666-dsh-vision-router.md) ⚑ | 1,281 | 62 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 |  | MIT |
@@ -2787,6 +2788,7 @@
 - [Satori](entries/other/vercel-satori.md) — unverified / 一次資料で未確認: 有効性・実行条件。
 - [Luanti](entries/other/luanti-org-luanti.md) — unverified / GitHub API上のlicense値はunknown。READMEのバッジはLGPLv2.1+と表示しているが、ライセンスのAPI値とREADMEの表示に差がある。 GitHub APIでライセンスを確認できていません。
 - [Video Subtitle Remover (VSR)](entries/other/yaofanguk-video-subtitle-remover.md) — unverified / READMEが示す機能・アルゴリズム別の効果は作者の説明であり、独立した実測結果は確認していない。
+- [Quartz](entries/other/jackyzha0-quartz.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Paper](entries/other/papermc-paper.md) — unverified / ライセンスは取得済みデータでunknownです。READMEにはライセンスの記載がありません。 GitHub APIでライセンスを確認できていません。
 - [Thaw](entries/other/thaw-app-thaw.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Git Plugin for Obsidian](entries/other/vinzent03-obsidian-git.md) — unverified / READMEはモバイル版を「very unstable」とし、クラッシュ、バッファーオーバーフロー、処理が終わらない場合があると説明している。モバイルではSSH認証、rebase、submoduleに制限があり、リポジトリサイズにも制約がある。LinuxのSnapは非対応、Flatpakは非推奨。
