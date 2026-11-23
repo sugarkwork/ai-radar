@@ -1,5 +1,5 @@
 {
-  "count": 1446,
+  "count": 1447,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -8949,6 +8949,24 @@
       ],
       "fetched_at": "2026-11-10T03:33:05Z",
       "path": "articles/2026-10-23-jarvis11x-ai.md"
+    },
+    {
+      "name": "AP Voter Pollで読み解く2026年中間選挙での共和党敗北",
+      "genre": "article",
+      "url": "https://www.ap.org/news-highlights/elections/2026/how-trump-and-republicans-lost-the-2026-midterm-elections-according-to-the-ap-voter-poll/",
+      "published": "2026-11-04",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "投稿文中のReuters出口調査に関する「約9割」という数値は、指定されたAP記事では確認できず、独立した一次資料も今回確認できなかった。投稿文の調査元説明として扱い、AP記事で確認した数値とは区別する。",
+      "type": "article",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/awe0_io/status/2119317568343228818"
+      ],
+      "fetched_at": "2026-11-19T03:13:23.029951+00:00",
+      "path": "articles/2026-11-04-author-ap-voter-poll-2026.md"
     },
     {
       "name": "AWS Secrets Manager のクロスアカウント複製対応",
