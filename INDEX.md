@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1396 件 — リポジトリ 988, リンク集 120, 記事 219, モデル 55, プロンプト 14 / ⚑ 要確認 1133 件
+収録 1397 件 — リポジトリ 989, リンク集 120, 記事 219, モデル 55, プロンプト 14 / ⚑ 要確認 1134 件
 
-## リポジトリ（988）
+## リポジトリ（989）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（223）
+### その他（224）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -140,6 +140,7 @@
 | [Swarm Rebuild](entries/other/dhvanilpatel-swarm-cursors.md) ⚑ | 3,428 | 378 | 週次 | 7 | 2026-11-11 | 2026-11-16 | 2026-11-22 | unknown |
 | [Tendedero](entries/other/alejandrobujan-tendedero.md) ⚑ | 3,270 | 295 | 毎日 | 67 | 2026-11-15 | 2026-11-16 | 2026-11-22 | unknown |
 | [Open Source Face Recognition SDK](entries/other/faceplugin-ltd-open-source-face-recognition-sdk.md) ⚑ | 3,169 | 533 | 月次 | 0 | 2026-10-02 | 2026-11-16 | 2026-11-22 | unknown |
+| [gl-react](entries/other/gre-gl-react.md) ⚑ | 3,016 | 162 | 毎日 | 39 | 2026-11-17 | 2026-11-18 | 2026-11-23 | MIT |
 | [HatchZip](entries/other/xevrion-hatchzip.md) ⚑ | 2,968 | 102 | 毎日 | 100+ | 2026-11-16 | 2026-11-18 | 2026-11-23 | Apache-2.0 |
 | [Vexa](entries/other/vexa-ai-vexa.md) ⚑ | 2,965 | 544 | 週次 | 4 | 2026-11-09 | 2026-11-10 | 2026-11-10 | Apache-2.0 |
 | [Rhubarb Lip Sync](entries/other/danielswolf-rhubarb-lip-sync.md) ⚑ | 2,778 | 331 | 停滞 | 0 | 2026-06-16 | 2026-11-16 | 2026-11-22 | unknown |
@@ -2632,6 +2633,7 @@
 - [Swarm Rebuild](entries/other/dhvanilpatel-swarm-cursors.md) — unverified / READMEには「None yet」とあり、ライセンスは設定されていない。コードの再利用条件は権利者への確認が必要。 GitHub APIでライセンスを確認できていません。
 - [Tendedero](entries/other/alejandrobujan-tendedero.md) — unverified / GitHub APIでライセンスを確認できていません。
 - [Open Source Face Recognition SDK](entries/other/faceplugin-ltd-open-source-face-recognition-sdk.md) — low-quality, unverified / README заявляет «high accuracy», «real-time» и «completely free», но не приводит измерений точности или скорости; лицензионные условия не указаны. Эти заявления не представлены как независимо проверенные факты. README называет SDK бесплатным и открытым, но API указывает лицензию как unknown. Условия использования и лицензирования не подтверждены. GitHub APIでライセンスを確認できていません。
+- [gl-react](entries/other/gre-gl-react.md) — unverified / 一次資料で未確認: 有効性・実行条件。
 - [HatchZip](entries/other/xevrion-hatchzip.md) — unverified / READMEによるとWindows版とmacOS版はコード署名されていない。Windowsでは保護警告を経て実行する手順が案内されている。
 - [Vexa](entries/other/vexa-ai-vexa.md) — unverified / 会議への参加、文字起こしの精度・遅延、話者割り当て、Macでの起動、MCP接続は独立実測なし。Jitsiのライブ検証はREADME上で保留。最新リリースの公開日時は年とタイムゾーンまで確認できなかった。
 - [Rhubarb Lip Sync](entries/other/danielswolf-rhubarb-lip-sync.md) — unverified / ライセンスは提供されたリポジトリ情報で確認できず、unknownです。 GitHub APIでライセンスを確認できていません。

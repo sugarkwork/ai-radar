@@ -1,5 +1,5 @@
 {
-  "count": 1396,
+  "count": 1397,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -29158,6 +29158,37 @@
       "last_release_at": "",
       "path": "entries/other/faceplugin-ltd-open-source-face-recognition-sdk.md",
       "summary": "READMEによると、画像から顔を検出してバウンディングボックス、顔のランドマーク、特徴量埋め込みを取得できます。2つの埋め込みを比較し、0〜100の類似度スコアを返すAPIも説明されています。対応画像形式としてJPG、PNG、BMP、TIFFが挙げられています。"
+    },
+    {
+      "name": "gl-react",
+      "genre": "other",
+      "url": "https://github.com/gre/gl-react",
+      "repo": "gre/gl-react",
+      "license": "MIT",
+      "stars": 3016,
+      "language": "TypeScript",
+      "created": "2015-08-17",
+      "updated": "2026-11-17",
+      "forks": 162,
+      "open_issues": 21,
+      "commits_30d": 39,
+      "commit_cadence": "daily",
+      "commits_90d": 93,
+      "size_kb": 136471,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 有効性・実行条件。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/0xclayo/status/2123016316353155192"
+      ],
+      "fetched_at": "2026-11-18T14:13:43.208943+00:00",
+      "path": "entries/other/gre-gl-react.md",
+      "summary": "ReactコンポーネントとしてWebGLシェーダーを記述・合成し、画像・動画（gl-react-dom）・canvas（gl-react-dom）などのテクスチャを扱えます。JavaScriptからGLSLのuniformへ値をバインドできます。"
     },
     {
       "name": "HatchZip",
