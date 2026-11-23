@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1443 件 — リポジトリ 1019, リンク集 121, 記事 234, モデル 55, プロンプト 14 / ⚑ 要確認 1174 件
+収録 1444 件 — リポジトリ 1020, リンク集 121, 記事 234, モデル 55, プロンプト 14 / ⚑ 要確認 1174 件
 
-## リポジトリ（1019）
+## リポジトリ（1020）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（239）
+### その他（240）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -208,6 +208,7 @@
 | [PyBreaker](entries/other/danielfm-pybreaker.md) ⚑ | 702 | 97 | 停滞 | 0 | 2026-09-25 | 2026-11-17 | 2026-11-22 | BSD-3-Clause |
 | [Enterprise System Design](entries/other/drhazemali-enterprise-system-design.md) ⚑ | 660 | 135 | 月次 | 0 | 2026-11-12 | 2026-11-16 | 2026-11-22 | unknown |
 | [NamiAgent](entries/other/aa1143-namiagent.md) ⚑ | 536 | 57 | 毎日 | 20 | 2026-10-30 | 2026-11-16 | 2026-11-22 | MIT |
+| [VCamdroid](entries/other/darusc-vcamdroid.md) | 521 | 63 | 停滞 | 0 | 2026-01-25 | 2026-11-19 | 2026-11-23 | MIT |
 | [Pixel Plays](entries/other/amirmushichge-pixel-plays.md) ⚑ | 519 | 51 | 月次 | 2 | 2026-10-31 | 2026-11-16 | 2026-11-22 | MIT |
 | [DuoDesk](entries/other/0xcodez-duodesk.md) ⚑ | 514 | 86 | 毎日 | 100+ | 2026-10-31 | 2026-11-16 | 2026-11-22 | GPL-3.0 |
 | [d3-interpolate](entries/other/d3-d3-interpolate.md) ⚑ | 500 | 70 | 月次 | 3 | 2026-11-03 | 2026-11-18 | 2026-11-23 | ISC |

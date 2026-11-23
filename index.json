@@ -1,5 +1,5 @@
 {
-  "count": 1443,
+  "count": 1444,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -31954,6 +31954,35 @@
       "last_release_at": "",
       "path": "entries/other/aa1143-namiagent.md",
       "summary": "第1〜11課のコードを比較し、ツール、権限、コンテキスト管理、Skills、MCP、子エージェント、計画、記憶を段階的に学べる。第12〜18課は既存エージェントの解説記事。"
+    },
+    {
+      "name": "VCamdroid",
+      "genre": "other",
+      "url": "https://github.com/darusc/VCamdroid",
+      "repo": "darusc/VCamdroid",
+      "license": "MIT",
+      "stars": 521,
+      "language": "C++",
+      "created": "2025-03-22",
+      "updated": "2026-01-25",
+      "forks": 63,
+      "open_issues": 16,
+      "commits_30d": 0,
+      "commit_cadence": "stale",
+      "commits_90d": 0,
+      "size_kb": 48094,
+      "archived": false,
+      "flags": [],
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "risk_notes": "",
+      "sources": [
+        "https://x.com/bkdgiffug/status/2119314977509282169"
+      ],
+      "fetched_at": "2026-11-19T02:10:26.385437+00:00",
+      "path": "entries/other/darusc-vcamdroid.md",
+      "summary": "READMEによると、Android端末のカメラ映像をWindowsの仮想ウェブカメラとして利用する。USB（ADB）または同一Wi-Fi上で接続でき、前後カメラの切替、解像度変更、フラッシュ、映像の回転・反転・明るさ・コントラスト・彩度の調整を備えると説明されている。Zoom、OBS、Discord、Teamsなど標"
     },
     {
       "repo": "amirmushichge/pixel-plays",
