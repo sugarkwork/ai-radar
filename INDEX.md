@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1527 件 — リポジトリ 1084, リンク集 125, 記事 249, モデル 55, プロンプト 14 / ⚑ 要確認 1248 件
+収録 1528 件 — リポジトリ 1085, リンク集 125, 記事 249, モデル 55, プロンプト 14 / ⚑ 要確認 1249 件
 
-## リポジトリ（1084）
+## リポジトリ（1085）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -600,7 +600,7 @@
 | [Terrarium Examples](entries/agent-framework/terrarium-sh-terrarium_examples.md) ⚑ | 2 | 1 | 週次 | 6 | 2026-11-13 | 2026-11-18 |  | unknown |
 | [Cybernetic Meadow agent skill](entries/agent-framework/cyberneticmeadow-skill.md) ⚑ | 0 | 0 | 月次 | 1 | 2026-11-17 | 2026-11-18 |  | MIT |
 
-### 動画生成パイプライン（118）
+### 動画生成パイプライン（119）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -673,6 +673,7 @@
 | [4DAnyone](entries/video-gen/ant-research-4danyone.md) | 1,488 | 106 | 月次 | 1 | 2026-10-14 | 2026-11-09 |  | Apache-2.0 |
 | [ComfyUI MiniMax H3 Director workflows](entries/video-gen/huangserva-comfyui_minimaxh3_director.md) ⚑ | 1,485 | 152 | 停滞 | 0 | 2026-08-04 | 2026-11-11 |  | Apache-2.0 |
 | [Papermorph](entries/video-gen/dozentwelve-papermorph.md) | 1,476 | 190 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 |  | MIT |
+| [cinetic](entries/video-gen/leonxlnx-cinetic.md) ⚑ | 1,303 | 78 | 毎日 | 100+ | 2026-11-09 | 2026-11-20 | 2026-11-23 | MIT |
 | [motion-graphics](entries/video-gen/barty-bart-motion-graphics.md) ⚑ | 1,209 | 176 | 月次 | 1 | 2026-10-13 | 2026-11-12 |  | unknown |
 | [vibe-knowledge-film](entries/video-gen/heychengc-vibe-knowledge-film.md) ⚑ | 1,191 | 112 | 月次 | 2 | 2026-10-13 | 2026-11-09 |  | 未確認（GitHub API は NOASSERTION） |
 | [twigl](entries/video-gen/doxas-twigl.md) ⚑ | 1,110 | 65 | 停滞 | 0 | 2026-03-04 | 2026-11-11 |  | MIT |
@@ -1068,7 +1069,7 @@
 | [FLUX.2](entries/image-gen/black-forest-labs-flux2.md) | 2,878 | 225 | 停滞 | 0 | 2026-03-12 | 2026-11-16 |  | Apache-2.0 |
 | [Qwen-Image-2.1](entries/image-gen/qwenlm-qwen-image-2.1.md) | 2,232 | 165 | 月次 | 0 | 2026-10-14 | 2026-11-16 |  | NOASSERTION |
 | [GIF 工厂](entries/image-gen/woyun520-gif-factory.md) ⚑ | 1,951 | 232 | 毎日 | 52 | 2026-11-15 | 2026-11-16 |  | MIT |
-| [anidoodle](entries/image-gen/alexgreensh-anidoodle.md) ⚑ | 1,861 | 166 | 毎日 | 36 | 2026-11-05 | 2026-11-20 | 2026-11-23 | Apache-2.0 |
+| [anidoodle](entries/image-gen/alexgreensh-anidoodle.md) ⚑ | 1,861 | 166 | 毎日 | 36 | 2026-11-05 | 2026-11-20 |  | Apache-2.0 |
 | [ComfyArt](entries/image-gen/jtydhr88-comfyart.md) ⚑ | 562 | 97 | 毎日 | 54 | 2026-11-12 | 2026-11-16 |  | MIT |
 | [ray-sticker-shop](entries/image-gen/imraywang-ray-sticker-shop.md) ⚑ | 507 | 58 | 月次 | 1 | 2026-11-05 | 2026-11-16 |  | MIT |
 | [MiniMax-H3-Image](entries/image-gen/minimax-ai-minimax-h3-image.md) ⚑ | 402 | 21 | 週次 | 5 | 2026-11-11 | 2026-11-16 |  | unknown |
@@ -3142,6 +3143,7 @@
 - [vasturiano/three-globe](entries/video-gen/vasturiano-three-globe.md) — unverified / MIT表記。汎用地球儀描画でAIモデルを含まない。制作費削減と描画性能は未検証。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [shinyobjectz/raea](entries/video-gen/shinyobjectz-raea.md) — unverified / canaryで日々の破壊的変更、Windowsは特に未検証と作者が注意。FSL-1.1-ALv2は競合利用制限があり2年後Apache移行、通常のApache OSSとは異なる。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [ComfyUI MiniMax H3 Director workflows](entries/video-gen/huangserva-comfyui_minimaxh3_director.md) — unverified / README报告的已验证环境仅覆盖 RTX 4090、ComfyUI 0.30.0、PyTorch 2.11.0 + CUDA 12.8 和 Ref2VA INT8；该环境下可运行 R2V、V2V、RV2V。T2V、I2V、FL2V 尚需 fl2va 权重。人物身份没有硬锁，README建议检查分段衔接与人物一致性。
+- [cinetic](entries/video-gen/leonxlnx-cinetic.md) — unverified / READMEでは作例動画はmediaブランチに置かれ、このブランチにはメディアを含めないと説明されています。機能や品質に関する記述はREADME上の作者の説明で、独立した動作確認ではありません。
 - [motion-graphics](entries/video-gen/barty-bart-motion-graphics.md) — unverified / GitHub APIでライセンスを確認できていません。
 - [vibe-knowledge-film](entries/video-gen/heychengc-vibe-knowledge-film.md) — unverified / ライセンス未確認（API は NOASSERTION、標準ライセンスファイル無し）。参照サンプルの転用可否も不明。
 - [twigl](entries/video-gen/doxas-twigl.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。

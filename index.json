@@ -1,5 +1,5 @@
 {
-  "count": 1527,
+  "count": 1528,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -43349,6 +43349,37 @@
       "type": "repo",
       "path": "entries/video-gen/dozentwelve-papermorph.md",
       "summary": "本や教材を、**アニメーション付き・ナレーション付き・インタラクティブな Web 教材**に変換する Claude Code 向けスキル。"
+    },
+    {
+      "name": "cinetic",
+      "genre": "video-gen",
+      "url": "https://github.com/Leonxlnx/cinetic",
+      "repo": "Leonxlnx/cinetic",
+      "license": "MIT",
+      "stars": 1303,
+      "language": "TypeScript",
+      "created": "2026-09-28",
+      "updated": "2026-11-09",
+      "forks": 78,
+      "open_issues": 4,
+      "commits_30d": 100,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 60899,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEでは作例動画はmediaブランチに置かれ、このブランチにはメディアを含めないと説明されています。機能や品質に関する記述はREADME上の作者の説明で、独立した動作確認ではありません。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/flxrnc/status/2123392905934999811"
+      ],
+      "fetched_at": "2026-11-20T03:14:40.933872+00:00",
+      "path": "entries/video-gen/leonxlnx-cinetic.md",
+      "summary": "コーディングエージェントに、製品のローンチ動画やアップデート動画をコードで制作させるスキルです。Remotion（React）またはHyperFrames（HTML、GSAP）を使い、台本、画面、動き、音楽、書き出しと品質チェックを組み立てるとREADMEは説明しています。"
     },
     {
       "name": "motion-graphics",
