@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1480 件 — リポジトリ 1046, リンク集 122, 記事 243, モデル 55, プロンプト 14 / ⚑ 要確認 1207 件
+収録 1481 件 — リポジトリ 1047, リンク集 122, 記事 243, モデル 55, プロンプト 14 / ⚑ 要確認 1208 件
 
-## リポジトリ（1046）
+## リポジトリ（1047）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -386,7 +386,7 @@
 | [DSH Game Studio](entries/coding-agent/zseven-w-dsh-game-studio.md) ⚑ | 569 | 47 | 週次 | 11 | 2026-11-09 | 2026-11-16 |  | MIT |
 | [Diorama](entries/coding-agent/sloemo01-diorama.md) ⚑ | 566 | 48 | 毎日 | 38 | 2026-11-16 | 2026-11-16 |  | MIT |
 | [Agent HUD](entries/coding-agent/jazzenchen-agent-hud-open.md) ⚑ | 553 | 81 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 |  | Apache-2.0 |
-| [antigravity-filter-bypass](entries/coding-agent/v1ktorrr0x-antigravity-filter-bypass.md) ⚑ | 525 | 143 | 週次 | 5 | 2026-11-06 | 2026-11-19 | 2026-11-23 | unknown |
+| [antigravity-filter-bypass](entries/coding-agent/v1ktorrr0x-antigravity-filter-bypass.md) ⚑ | 525 | 143 | 週次 | 5 | 2026-11-06 | 2026-11-19 |  | unknown |
 | [Boring Marketing Skills](entries/coding-agent/boringmarketer-boring-marketing-skills.md) ⚑ | 518 | 201 | 週次 | 7 | 2026-11-17 | 2026-11-17 |  | MIT |
 | [Taste — Design DNA Extractor](entries/coding-agent/senlindesign-taste-skill.md) ⚑ | 493 | 43 | 停滞 | 0 | 2026-07-07 | 2026-11-18 |  | unknown |
 | [qiaomu-seo](entries/coding-agent/joeseesun-qiaomu-seo.md) ⚑ | 476 | 62 | 停滞 | 0 | 2026-08-03 | 2026-11-16 |  | MIT |
@@ -695,7 +695,7 @@
 | [BennyDaBall930/comfyui_hyperflow_int8_nodes](entries/video-gen/bennydaball930-comfyui_hyperflow_int8_nodes.md) ⚑ | 3 | 0 | 週次 | 10 | 2026-11-09 | 2026-11-09 |  | GPL-3.0 |
 | [web-reels](entries/video-gen/rabin-a-web-reels.md) ⚑ | 0 | 0 | 週次 | 5 | 2026-11-08 | 2026-11-18 |  | unknown |
 
-### 3D・モーション（86）
+### 3D・モーション（87）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -737,6 +737,7 @@
 | [UniRig](entries/3d-motion/vast-ai-research-unirig.md) | 2,146 | 211 | 停滞 | 0 | 2026-06-04 | 2026-11-16 |  | MIT |
 | [sand3d](entries/3d-motion/sandflow-ai-sand3d.md) ⚑ | 2,080 | 231 | 毎日 | 25 | 2026-11-16 | 2026-11-16 |  | Apache-2.0 |
 | [three-gpu-pathtracer](entries/3d-motion/gkjohnson-three-gpu-pathtracer.md) ⚑ | 2,056 | 201 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 |  | MIT |
+| [Troika JS](entries/3d-motion/protectwise-troika.md) ⚑ | 1,992 | 161 | 週次 | 4 | 2026-11-02 | 2026-11-19 | 2026-11-23 | MIT |
 | [Inochi2D](entries/3d-motion/inochi2d-inochi2d.md) ⚑ | 1,877 | 76 | 月次 | 1 | 2026-11-10 | 2026-11-16 |  | BSD-2-Clause |
 | [StableGen](entries/3d-motion/sakalond-stablegen.md) | 1,671 | 169 | 毎日 | 74 | 2026-11-04 | 2026-11-16 |  | GPL-3.0 |
 | [React Three Rapier](entries/3d-motion/pmndrs-react-three-rapier.md) ⚑ | 1,665 | 114 | 停滞 | 0 | 2026-10-12 | 2026-11-16 |  | MIT |
@@ -1949,6 +1950,7 @@
 - [pixiv/three-vrm](entries/3d-motion/pixiv-three-vrm.md) — unverified / v3.6.0-beta.0のVRMC_springBone_limitはBeta拡張。MITはコードの条件で、各VRMの人物・衣装・モデルの権利は別。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [sand3d](entries/3d-motion/sandflow-ai-sand3d.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [three-gpu-pathtracer](entries/3d-motion/gkjohnson-three-gpu-pathtracer.md) — unverified / ['GitHub の最新リリースは未確認。依存関係と導入手順は main ブランチの公開資料に基づく。', '描画速度、収束時間、画質、端末別の互換性、特定のAIモデルとの連携は実測していない。']
+- [Troika JS](entries/3d-motion/protectwise-troika.md) — unverified / 一次資料で未確認: 依存関係・実行条件。
 - [Inochi2D](entries/3d-motion/inochi2d-inochi2d.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [React Three Rapier](entries/3d-motion/pmndrs-react-three-rapier.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [react-postprocessing](entries/3d-motion/pmndrs-react-postprocessing.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。

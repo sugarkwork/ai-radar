@@ -1,5 +1,5 @@
 {
-  "count": 1480,
+  "count": 1481,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -1278,6 +1278,37 @@
       "last_release_at": "2026-11-02",
       "path": "entries/3d-motion/gkjohnson-three-gpu-pathtracer.md",
       "summary": "既存の Three.js シーンとカメラを使い、物理ベースの材質、面光源、被写界深度を含むシーンを描画できる。"
+    },
+    {
+      "name": "Troika JS",
+      "genre": "3d-motion",
+      "url": "https://github.com/protectwise/troika",
+      "repo": "protectwise/troika",
+      "license": "MIT",
+      "stars": 1992,
+      "language": "JavaScript",
+      "created": "2019-01-14",
+      "updated": "2026-11-02",
+      "forks": 161,
+      "open_issues": 96,
+      "commits_30d": 4,
+      "commit_cadence": "weekly",
+      "commits_90d": 4,
+      "size_kb": 15729,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 依存関係・実行条件。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/0x5668_nft/status/2123395042471710938"
+      ],
+      "fetched_at": "2026-11-19T16:12:47.983768+00:00",
+      "path": "entries/3d-motion/protectwise-troika.md",
+      "summary": "ブラウザーで対話型グラフィックスを作成するJavaScriptツール群です。READMEでは3D/WebGLとデータ可視化向けに最適化されていると説明されています。シーン全体を管理するTroika Frameworkと、同フレームワークに依存しないThree.js向けツールがあります。"
     },
     {
       "name": "Inochi2D",
