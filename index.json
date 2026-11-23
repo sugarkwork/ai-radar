@@ -1,5 +1,5 @@
 {
-  "count": 1519,
+  "count": 1520,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -37685,6 +37685,37 @@
       "fetched_at": "2026-11-17T02:24:05.373003+00:00",
       "path": "entries/rag/infiniflow-ragflow.md",
       "summary": "文書の知識抽出とテンプレートベースのチャンク分割、文書・データセット単位の知識コンパイル、複数段階の検索、根拠参照と引用の提示、複数形式のデータ取り込みを提供するとREADMEに記載されています。出典: https://github.com/infiniflow/ragflow#-key-features"
+    },
+    {
+      "name": "Meilisearch",
+      "genre": "rag",
+      "url": "https://github.com/meilisearch/meilisearch",
+      "repo": "meilisearch/meilisearch",
+      "license": "unknown",
+      "stars": 59927,
+      "language": "Rust",
+      "created": "2018-04-23",
+      "updated": "2026-11-19",
+      "forks": 2808,
+      "open_issues": 320,
+      "commits_30d": 100,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 93645,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEはMITライセンスと記載していますが、提供されたGitHub API測定値ではlicenseがunknownです。ライセンス欄はREADMEの記載とAPI値の不一致を示しています。 GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/rosemoni18/status/2119211334797840872"
+      ],
+      "fetched_at": "2026-11-20T03:09:47.786988+00:00",
+      "path": "entries/rag/meilisearch-meilisearch.md",
+      "summary": "全文検索、セマンティック検索、ハイブリッド検索を提供する検索エンジン。READMEは検索時のタイプミス許容やフィルタリングも機能として挙げています。検索速度に関する数値はREADMEの説明であり、ここでは独立に測定していません。"
     },
     {
       "type": "repo",
