@@ -1,5 +1,5 @@
 {
-  "count": 1448,
+  "count": 1449,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -9071,6 +9071,24 @@
       ],
       "fetched_at": "2026-11-16T08:16:42.142206+00:00",
       "path": "articles/2026-11-13-author-an-update-on-our-recent-security-incident.md"
+    },
+    {
+      "name": "AnthropicのIPO想定評価額、AI株売りで1.1兆〜1.3兆ドルに低下か",
+      "genre": "article",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
+      "published": "2026-11-06",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "評価額は関係者の話として報じられた投資家側の見通しで、会社が確定した価格や正式な評価額ではない。記事本文への直接アクセスはrobots.txtで制限されたため、確認できた範囲はBloombergの検索結果表示に基づく。",
+      "type": "article",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/NFT_Chen/status/2119321086538174519"
+      ],
+      "fetched_at": "2026-11-19T04:14:04.593919+00:00",
+      "path": "articles/2026-11-06-author-anthropic-ipo-ai-1.1-1.3.md"
     },
     {
       "name": "Asia stocks crumble after AI rout hits US markets",

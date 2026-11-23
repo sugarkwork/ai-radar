@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1448 件 — リポジトリ 1021, リンク集 121, 記事 237, モデル 55, プロンプト 14 / ⚑ 要確認 1178 件
+収録 1449 件 — リポジトリ 1021, リンク集 121, 記事 238, モデル 55, プロンプト 14 / ⚑ 要確認 1179 件
 
 ## リポジトリ（1021）
 
@@ -1597,9 +1597,9 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（237）
+## 記事（238）
 
-### 記事（172）
+### 記事（173）
 
 - **[$0のデジタル参謀長で月$80,000の契約候補を作ったというX投稿（動画付き）](articles/2026-10-22-bober_smart-0-80-000-x.md)** ⚑  @Bober_smart
 - **[1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md)** ⚑  @mukadeshinigami（mukade死神）
@@ -1624,6 +1624,7 @@
 - **[After courting Trump, corporate America faces a Democratic reckoning](articles/2026-11-06-author-after-courting-trump-corporate-america-faces-a-democratic-reckoning.md)** ⚑
 - **[Almost no one uses AI agents to book their Uber, company says](articles/2026-11-04-author-almost-no-one-uses-ai-agents-to-book-their-uber-company-says.md)** ⚑
 - **[An update on our recent security incident](articles/2026-11-13-author-an-update-on-our-recent-security-incident.md)**
+- **[AnthropicのIPO想定評価額、AI株売りで1.1兆〜1.3兆ドルに低下か](articles/2026-11-06-author-anthropic-ipo-ai-1.1-1.3.md)** ⚑
 - **[Asia stocks crumble after AI rout hits US markets](articles/2026-11-06-author-asia-stocks-crumble-after-ai-rout-hits-us-markets.md)**
 - **[Axion 1.0: Open Agent Foundation Models, Simplified](articles/2026-11-02-author-axion-1.0-open-agent-foundation-models-simplified.md)** ⚑
 - **[Bernat Vadellによる音声エージェント構築の実践メモ](articles/2026-11-06-author-bernat-vadell.md)**
@@ -2101,6 +2102,7 @@
 - [Advancing science & engineering with Antigravity’s /teamwork](articles/2026-11-13-author-advancing-science-engineering-with-antigravity-s-teamwork.md) — unverified / 効果や成果の数値はGoogle Researchが記事で報告したもので、独立した実測としては確認していない。
 - [After courting Trump, corporate America faces a Democratic reckoning](articles/2026-11-06-author-after-courting-trump-corporate-america-faces-a-democratic-reckoning.md) — unverified / 調査計画や関係者の見通しは、匿名の情報源を含む取材に基づく記事中の報道であり、独立に確認された事実や実施済みの調査として扱わないこと。
 - [Almost no one uses AI agents to book their Uber, company says](articles/2026-11-04-author-almost-no-one-uses-ai-agents-to-book-their-uber-company-says.md) — unverified / 記事はUberの決算説明会での発言を報じたもの。信頼や所要時間に関する見解は著者による解釈で、記事中の将来予測や他社比較も独立検証していない。
+- [AnthropicのIPO想定評価額、AI株売りで1.1兆〜1.3兆ドルに低下か](articles/2026-11-06-author-anthropic-ipo-ai-1.1-1.3.md) — unverified / 評価額は関係者の話として報じられた投資家側の見通しで、会社が確定した価格や正式な評価額ではない。記事本文への直接アクセスはrobots.txtで制限されたため、確認できた範囲はBloombergの検索結果表示に基づく。
 - [Axion 1.0: Open Agent Foundation Models, Simplified](articles/2026-11-02-author-axion-1.0-open-agent-foundation-models-simplified.md) — unverified / ベンチマークでの性能に関する記述は著者らの報告であり、この確認では独立に検証していない。
 - [Bring Agentic Coding On-Device with Foundry Local](articles/2026-11-05-author-bring-agentic-coding-on-device-with-foundry-local.md) — unverified / llama.cppとの速度差とVRAM別のコンテキスト上限はMicrosoftの報告に基づく。実機での再現、Copilotアプリ全体のオフライン動作、利用プランごとの料金・条件は未確認。
 - [Build Live Apps in Cursor](articles/2026-11-05-author-build-live-apps-in-cursor.md) — unverified / 投稿にある「.env」やsource mapを含む個別の検査対象は、確認した公式記事では明記されていないため記載していない。
