@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1558 件 — リポジトリ 1107, リンク集 125, 記事 257, モデル 55, プロンプト 14 / ⚑ 要確認 1274 件
+収録 1559 件 — リポジトリ 1108, リンク集 125, 記事 257, モデル 55, プロンプト 14 / ⚑ 要確認 1275 件
 
-## リポジトリ（1107）
+## リポジトリ（1108）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -283,7 +283,7 @@
 | [Pixprite](entries/other/vicimpa-pixprite.md) ⚑ | 36 | 3 | 毎日 | 58 | 2026-11-09 | 2026-11-22 |  | MIT |
 | [SoMarkDown](entries/other/somarkai-somarkdown.md) ⚑ | 34 | 2 | 停滞 | 0 | 2026-09-09 | 2026-11-19 |  | MIT |
 | [Sprite Pencil](entries/other/256arts-sprite-pencil.md) ⚑ | 28 | 6 | 週次 | 9 | 2026-11-11 | 2026-11-16 |  | unknown |
-| [KPix](entries/other/krush62-kpix.md) | 23 | 2 | 毎日 | 100+ | 2026-11-21 | 2026-11-22 | 2026-11-23 | AGPL-3.0 |
+| [KPix](entries/other/krush62-kpix.md) | 23 | 2 | 毎日 | 100+ | 2026-11-21 | 2026-11-22 |  | AGPL-3.0 |
 | [jevframe](entries/other/ktaletsk-jevframe.md) ⚑ | 21 | 3 | 月次 | 0 | 2026-09-24 | 2026-11-10 |  | MIT |
 | [SoPDF](entries/other/somarkai-sopdf.md) ⚑ | 20 | 3 | 停滞 | 0 | 2026-04-14 | 2026-11-19 |  | unknown |
 | [FossFLOW](entries/other/grujowmi-fossflow.md) ⚑ | 15 | 3 | 停滞 | 0 | 2026-05-22 | 2026-11-16 |  | MIT |
@@ -834,7 +834,7 @@
 | [3dmodel](entries/3d-motion/fletcherholt-3dmodel-skill.md) ⚑ | 7 | 0 | 停滞 | 0 | 2026-06-16 | 2026-11-16 |  | unknown |
 | [Lida-V/LidaAngelToon](entries/3d-motion/lida-v-lidaangeltoon.md) ⚑ | 7 | 0 | 月次 | 0 | 2026-10-17 | 2026-11-16 |  | NOASSERTION |
 
-### モデル推論・配信（51）
+### モデル推論・配信（52）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -878,6 +878,7 @@
 | [GLM-5.3-Flash DGX Spark 2台 配備レシピ](entries/model-serving/miaai-lab-glm-5.3-flash-dgx-sparks.md) ⚑ | 132 | 31 | 毎日 | 89 | 2026-11-11 | 2026-11-16 |  | Apache-2.0 |
 | [tqLLM](entries/model-serving/turbo-tan-tqllm.md) ⚑ | 131 | 17 | 毎日 | 46 | 2026-11-16 | 2026-11-17 |  | Apache-2.0 |
 | [bloomery](entries/model-serving/midagedev-bloomery.md) | 78 | 7 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 |  | MIT |
+| [Colab T4 Local OpenAI API Replication Package](entries/model-serving/mingzi206-gh-colab-t4-local-api.md) ⚑ | 51 | 16 | 月次 | 2 | 2026-11-08 | 2026-11-22 | 2026-11-23 | unknown |
 | [qwen-warp](entries/model-serving/tuan3w-qwen-warp.md) ⚑ | 42 | 6 | 毎日 | 100+ | 2026-11-15 | 2026-11-16 |  | MIT |
 | [Volta sPLIt: DeepSeek-V4.1-Flash-1017 on eight V100-SXM2 32 GB cards](entries/model-serving/proprietarylegal-volta-split-deepseek-v4.1-flash-1017-8xv100-sxm2-pp2xtp4.md) ⚑ | 36 | 4 | 週次 | 14 | 2026-11-19 | 2026-11-19 |  | Apache-2.0 |
 | [nf12](entries/model-serving/dphnai-nf12.md) ⚑ | 32 | 3 | 週次 | 12 | 2026-11-14 | 2026-11-16 |  | Apache-2.0 |
@@ -2738,6 +2739,7 @@
 - [SenseNova-Loop-9B](entries/model-serving/opensensenova-sensenova-loop.md) — unverified / READMEの提示範囲では、具体的な導入・推論手順と依存関係・実行環境の要件を確認できない。
 - [GLM-5.3-Flash DGX Spark 2台 配備レシピ](entries/model-serving/miaai-lab-glm-5.3-flash-dgx-sparks.md) — unverified / DGX Spark 2台（計128GB統一メモリ級）が必須。チェックポイント約164GiB、イメージ約40GiB。既定drafterはCC BY-NC-ND 4.0（非商用）で、商用はDRAFTER=mtp/none。投稿のKV拡張・再起動復元・thinking off短縮は自己申告で未検証。当方でビルド・実行は未実施。
 - [tqLLM](entries/model-serving/turbo-tan-tqllm.md) — unverified / READMEの1.6.0記載では、Qwen3.5/3.6のMoE GGUFは未検証。MoEモデルはネイティブWindowsで動作せず、WSL 2が必要。
+- [Colab T4 Local OpenAI API Replication Package](entries/model-serving/mingzi206-gh-colab-t4-local-api.md) — unverified / ライセンスはGitHub API上でunknownで、READMEもプロジェクトのLICENSEは未選定と記載。Colabの利用条件・リソースは変化し、無料利用、長時間稼働、中断なしの復旧は保証されない。128Kコンテキストは設定値で、T4上で任意の長さを処理できる保証はない。 GitHub APIでライセンスを確認できていません。
 - [qwen-warp](entries/model-serving/tuan3w-qwen-warp.md) — unverified / 元投稿が解説する「SpecPilot」(W12・ツリー検証・自律エージェント探索・4.46x→10.87x)は別リポジトリ StargazerX0/SpecPilot の内容で、本リポジトリは返信スレッドに別リンクとして挙がっているだけ。本リポジトリの速度・品質数値は作者が RTX 3090 1枚で自己計測したもので第三者検証はない(stars 3/forks 1、作成から5日)。RTX 3090(sm_86)専用で他の GPU は未テスト、同時1リクエストのみ、logprobs/structured output/bad_words は HTTP 400、モデル重みは別ライセンス(swift-open-license-1.0, gated)でリポジトリの MIT 対象外、エージェント多ターンの成功率は未計測と README に明記。
 - [Volta sPLIt: DeepSeek-V4.1-Flash-1017 on eight V100-SXM2 32 GB cards](entries/model-serving/proprietarylegal-volta-split-deepseek-v4.1-flash-1017-8xv100-sxm2-pp2xtp4.md) — unverified / READMEの速度・遅延・品質に関する結果は作者が記載した測定値で、独立検証は確認できていません。公開ツリーは1スロット構成と説明されており、3チャットスロットの実装は公開ツリーに含まれないとREADMEにあります。
 - [nf12](entries/model-serving/dphnai-nf12.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
