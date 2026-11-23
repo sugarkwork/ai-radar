@@ -1,5 +1,5 @@
 {
-  "count": 1425,
+  "count": 1426,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -9298,6 +9298,24 @@
       ],
       "fetched_at": "2026-11-10T04:15:56Z",
       "path": "articles/2026-03-22-michael-livshits-claude-code.md"
+    },
+    {
+      "name": "Claude For Dummies",
+      "genre": "article",
+      "url": "https://ruben.substack.com/p/claude-for-dummies",
+      "published": "2026-04-19",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "記事にはClaudeのプラン料金、モデル名、機能や他サービスとの比較など、変更されうる記述が含まれます。現在の提供状況や価格はこの記事では確認していません。",
+      "type": "article",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/okapi_fukugyo/status/2119299912882123032"
+      ],
+      "fetched_at": "2026-11-18T21:09:32.282962+00:00",
+      "path": "articles/2026-04-19-author-claude-for-dummies.md"
     },
     {
       "name": "ClaudeでSolidWorksの部品を作成したという投稿",

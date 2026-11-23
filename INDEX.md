@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1425 件 — リポジトリ 1013, リンク集 121, 記事 222, モデル 55, プロンプト 14 / ⚑ 要確認 1159 件
+収録 1426 件 — リポジトリ 1013, リンク集 121, 記事 223, モデル 55, プロンプト 14 / ⚑ 要確認 1160 件
 
 ## リポジトリ（1013）
 
@@ -1589,9 +1589,9 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（222）
+## 記事（223）
 
-### 記事（158）
+### 記事（159）
 
 - **[$0のデジタル参謀長で月$80,000の契約候補を作ったというX投稿（動画付き）](articles/2026-10-22-bober_smart-0-80-000-x.md)** ⚑  @Bober_smart
 - **[1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md)** ⚑  @mukadeshinigami（mukade死神）
@@ -1630,6 +1630,7 @@
 - **[Claude Codeで最近使っているTips【2026/11】](articles/2026-11-10-author-claude-code-tips-2026-11.md)** ⚑
 - **[Claude Codeの利用量とAPI料金換算の個人報告](articles/2026-10-25-bernat-vadell-claude-code-api.md)** ⚑  Bernat Vadell
 - **[Claude Codeの補足情報と実行時の権限制御](articles/2026-03-22-michael-livshits-claude-code.md)** ⚑  Michael Livshits
+- **[Claude For Dummies](articles/2026-04-19-author-claude-for-dummies.md)** ⚑
 - **[ClaudeでSolidWorksの部品を作成したという投稿](articles/2026-11-06-author-claude-solidworks.md)** ⚑
 - **[Claudeは「夢」を見て記憶を直す。Anthropicがエージェント記憶の部品を公開、35万ファイルのwiki化で正答材料は13％から48％へ](articles/2026-11-07-author-claude-anthropic-35-wiki-13-48.md)**
 - **[Coding Agents Copy Your Secrets to a Hidden File. Thousands Are on GitHub](articles/2026-11-05-apiiro-coding-agents-copy-your-secrets-to-a-hidden-file.-thousands-are-on-github.md)** ⚑  Apiiro
@@ -2087,6 +2088,7 @@
 - [Claude Codeで最近使っているTips【2026/11】](articles/2026-11-10-author-claude-code-tips-2026-11.md) — unverified / prompt-railなどの使用感や作業効率に関する効果は著者の報告であり、独立した実測ではない。Remote Controlの利用条件はプランや組織設定に依存し、Agent Teamsは実験的機能である。
 - [Claude Codeの利用量とAPI料金換算の個人報告](articles/2026-10-25-bernat-vadell-claude-code-api.md) — unverified / 自己申告。モデルやキャッシュの有効期間が不明で換算額は再現できない。
 - [Claude Codeの補足情報と実行時の権限制御](articles/2026-03-22-michael-livshits-claude-code.md) — unverified / リマインダーの効果は実測していない。実行権限は実行基盤で判定する。
+- [Claude For Dummies](articles/2026-04-19-author-claude-for-dummies.md) — unverified / 記事にはClaudeのプラン料金、モデル名、機能や他サービスとの比較など、変更されうる記述が含まれます。現在の提供状況や価格はこの記事では確認していません。
 - [ClaudeでSolidWorksの部品を作成したという投稿](articles/2026-11-06-author-claude-solidworks.md) — unverified / 形状・寸法・適合性が正しいかは確認されていない。投稿内のコメントでは、参照画像との不一致や詳細不足を指摘する意見と、別用途でうまくいったという報告の両方がある。実用時は寸法と適合性を別途確認する必要がある。
 - [Coding Agents Copy Your Secrets to a Hidden File. Thousands Are on GitHub](articles/2026-11-05-apiiro-coding-agents-copy-your-secrets-to-a-hidden-file.-thousands-are-on-github.md) — unverified / 集計と挙動の再現はApiiroによる報告。調査対象の認証情報の有効性や、Claude Codeのバージョンごとの挙動は独立に検証していない。
 - [Control Room](articles/2026-11-09-openai-control-room.md) — unverified / 停止まで最大35秒はOpenAIの研究環境についての公表値。独立した計測や稼働環境での再現は行っていない。外部向けの実装・APIの提供は公式記事で確認できない。
