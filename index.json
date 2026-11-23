@@ -1,5 +1,5 @@
 {
-  "count": 1528,
+  "count": 1529,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -34370,6 +34370,37 @@
       "fetched_at": "2026-11-18T15:31:37.304724+00:00",
       "path": "entries/other/glen-web-app-best-agent-memory-mcp.md",
       "summary": "READMEでは、Claude Code、Cursor、CodexなどのMCPクライアントで利用できる記憶MCPサーバー25件を比較している。各項目について、ホスト型かローカル実行か、記憶の保存形式、取り込み方法、チーム共有、ライセンスや料金を整理している。"
+    },
+    {
+      "name": "Parametric Topdown Pixel Architecture",
+      "genre": "other",
+      "url": "https://github.com/Zengkailin/parametric-topdown-pixel-architecture",
+      "license": "unknown",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "Repository license is reported as unknown. The README says third-party atlas materials may require separate permission; their licensing is not established here. GitHub APIでライセンスを確認できていません。",
+      "repo": "Zengkailin/parametric-topdown-pixel-architecture",
+      "stars": 234,
+      "forks": 36,
+      "open_issues": 0,
+      "size_kb": 13880,
+      "language": "JavaScript",
+      "created": "2026-10-26",
+      "updated": "2026-10-31",
+      "archived": false,
+      "commits_30d": 5,
+      "commits_90d": 5,
+      "commit_cadence": "weekly",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/dextune/status/2119399537060270430"
+      ],
+      "fetched_at": "2026-11-20T03:23:09.213341+00:00",
+      "path": "entries/other/zengkailin-parametric-topdown-pixel-architecture.md",
+      "summary": "パラメータで作成した建物を、俯瞰のピクセルアート画像にレンダリングするツール。READMEでは、10種類の建築スタイルと46種類の建物タイプ、正交／透視投影、複数方向の画像やスプライトシートの出力、PNG・ZIP・配方JSONの書き出しを案内しています。ブラウザー版と、同じレンダリング機能を使うNode.jsコマンドラ"
     },
     {
       "name": "小浣熊阅读",

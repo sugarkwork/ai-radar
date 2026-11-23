@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1528 件 — リポジトリ 1085, リンク集 125, 記事 249, モデル 55, プロンプト 14 / ⚑ 要確認 1249 件
+収録 1529 件 — リポジトリ 1086, リンク集 125, 記事 249, モデル 55, プロンプト 14 / ⚑ 要確認 1250 件
 
-## リポジトリ（1085）
+## リポジトリ（1086）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（277）
+### その他（278）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -255,6 +255,7 @@
 | [Awesome Social Media Skills](entries/other/underleveledbuilder-awesome-social-media-skills.md) ⚑ | 252 | 40 | 毎日 | 33 | 2026-11-08 | 2026-11-10 |  | CC0-1.0 |
 | [Download Anything (DA)](entries/other/nengong-download-anything.md) ⚑ | 251 | 6 | 毎日 | 32 | 2026-11-08 | 2026-11-17 |  | unknown |
 | [Best Agent Memory MCP](entries/other/glen-web-app-best-agent-memory-mcp.md) ⚑ | 240 | 9 | 月次 | 2 | 2026-11-05 | 2026-11-18 |  | CC0-1.0 |
+| [Parametric Topdown Pixel Architecture](entries/other/zengkailin-parametric-topdown-pixel-architecture.md) ⚑ | 234 | 36 | 週次 | 5 | 2026-10-31 | 2026-11-20 | 2026-11-23 | unknown |
 | [小浣熊阅读](entries/other/aminark-legado-ios.md) ⚑ | 232 | 66 | 毎日 | 22 | 2026-11-13 | 2026-11-16 |  | GPL-3.0 |
 | [svg.filter.js](entries/other/svgdotjs-svg.filter.js.md) | 224 | 52 | 月次 | 0 | 2026-09-15 | 2026-11-18 |  | MIT |
 | [fuxi-pdf · 复习pdf](entries/other/stevensun1005-fuxi-pdf.md) ⚑ | 201 | 3 | 週次 | 12 | 2026-10-22 | 2026-11-11 |  | unknown |
@@ -673,7 +674,7 @@
 | [4DAnyone](entries/video-gen/ant-research-4danyone.md) | 1,488 | 106 | 月次 | 1 | 2026-10-14 | 2026-11-09 |  | Apache-2.0 |
 | [ComfyUI MiniMax H3 Director workflows](entries/video-gen/huangserva-comfyui_minimaxh3_director.md) ⚑ | 1,485 | 152 | 停滞 | 0 | 2026-08-04 | 2026-11-11 |  | Apache-2.0 |
 | [Papermorph](entries/video-gen/dozentwelve-papermorph.md) | 1,476 | 190 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 |  | MIT |
-| [cinetic](entries/video-gen/leonxlnx-cinetic.md) ⚑ | 1,303 | 78 | 毎日 | 100+ | 2026-11-09 | 2026-11-20 | 2026-11-23 | MIT |
+| [cinetic](entries/video-gen/leonxlnx-cinetic.md) ⚑ | 1,303 | 78 | 毎日 | 100+ | 2026-11-09 | 2026-11-20 |  | MIT |
 | [motion-graphics](entries/video-gen/barty-bart-motion-graphics.md) ⚑ | 1,209 | 176 | 月次 | 1 | 2026-10-13 | 2026-11-12 |  | unknown |
 | [vibe-knowledge-film](entries/video-gen/heychengc-vibe-knowledge-film.md) ⚑ | 1,191 | 112 | 月次 | 2 | 2026-10-13 | 2026-11-09 |  | 未確認（GitHub API は NOASSERTION） |
 | [twigl](entries/video-gen/doxas-twigl.md) ⚑ | 1,110 | 65 | 停滞 | 0 | 2026-03-04 | 2026-11-11 |  | MIT |
@@ -2937,6 +2938,7 @@
 - [Awesome Social Media Skills](entries/other/underleveledbuilder-awesome-social-media-skills.md) — unverified / 最新リリース、検索スキルの導入と動作、掲載ツールの実効性・安全性・個別の料金や利用条件は未確認。READMEによると、投稿や返信を行う一部のツールはアカウント認証を要し、Cookieをローカルに保存する場合がある。
 - [Download Anything (DA)](entries/other/nengong-download-anything.md) — unverified / READMEではMITと案内されているが、添付の測定値ではlicenseがunknown。対象プラットフォームごとの記載機能や取得可否は、実際の動作を独立に確認していない。 GitHub APIでライセンスを確認できていません。
 - [Best Agent Memory MCP](entries/other/glen-web-app-best-agent-memory-mcp.md) — unverified / 掲載内容はREADMEの記述に基づく。比較対象の各プロジェクトについて独立した動作確認をしたことは、この資料からは確認できない。
+- [Parametric Topdown Pixel Architecture](entries/other/zengkailin-parametric-topdown-pixel-architecture.md) — unverified / Repository license is reported as unknown. The README says third-party atlas materials may require separate permission; their licensing is not established here. GitHub APIでライセンスを確認できていません。
 - [小浣熊阅读](entries/other/aminark-legado-ios.md) — unverified / 在线书源和内容由用户自行提供；README 提醒书源兼容性可能受复杂 JavaScript、登录、验证码、WebView 规则及来源网站变化影响。
 - [fuxi-pdf · 复习pdf](entries/other/stevensun1005-fuxi-pdf.md) — unverified / READMEはSkill指示と構築・検証コードをMITと記載する一方、同梱の授業デモ、派生PDF、プレビューはCC BY-NC-SA 4.0と明記。第三者授業素材はコードのMITライセンスに含まれない。 GitHub APIでライセンスを確認できていません。
 - [大模型推理案头手册（开源版）](entries/other/shtjww-llm-inference-capacity-handbook.md) — unverified / README说明此版本是完整版的开源节选，未包含常数锚定的详细方法、部分 MoE 算例及规划报告模板等内容。 GitHub APIでライセンスを確認できていません。
