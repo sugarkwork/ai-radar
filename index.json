@@ -1,5 +1,5 @@
 {
-  "count": 1553,
+  "count": 1554,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -27268,6 +27268,35 @@
       "fetched_at": "2026-11-10T16:22:18.748508+00:00",
       "path": "entries/other/microsoft-markitdown.md",
       "summary": "PDF、PowerPoint、Word、Excel、画像、音声、HTML、CSV・JSON・XML、ZIP、YouTube URL、EPUBなどをMarkdownへ変換します。READMEでは、見出し・リスト・表・リンクなどの文書構造をMarkdownとして保持することを重視すると説明しています。"
+    },
+    {
+      "name": "Excalidraw",
+      "genre": "other",
+      "url": "https://github.com/excalidraw/excalidraw",
+      "repo": "excalidraw/excalidraw",
+      "license": "MIT",
+      "stars": 136087,
+      "language": "TypeScript",
+      "created": "2020-01-02",
+      "updated": "2026-11-21",
+      "forks": 16245,
+      "open_issues": 3592,
+      "commits_30d": 32,
+      "commit_cadence": "daily",
+      "commits_90d": 90,
+      "size_kb": 108559,
+      "archived": false,
+      "flags": [],
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "risk_notes": "",
+      "sources": [
+        "https://x.com/thegreatest_sv/status/2119416647849275663"
+      ],
+      "fetched_at": "2026-11-22T04:51:14.651726+00:00",
+      "path": "entries/other/excalidraw-excalidraw.md",
+      "summary": "手描き風の図、ワイヤーフレームなどを作成できるキャンバス型ホワイトボードです。図形や矢印、画像、図形ライブラリを扱え、PNG・SVG・クリップボードへの書き出しと.excalidraw形式での保存に対応するとREADMEに記載されています。Excalidraw.comのアプリには、オフライン対応、リアルタイム共同編集、"
     },
     {
       "name": "Generative AI for Beginners",

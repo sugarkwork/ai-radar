@@ -2,19 +2,20 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1553 件 — リポジトリ 1102, リンク集 125, 記事 257, モデル 55, プロンプト 14 / ⚑ 要確認 1271 件
+収録 1554 件 — リポジトリ 1103, リンク集 125, 記事 257, モデル 55, プロンプト 14 / ⚑ 要確認 1271 件
 
-## リポジトリ（1102）
+## リポジトリ（1103）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（281）
+### その他（282）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
 | [Free Programming Books](entries/other/ebookfoundation-free-programming-books.md) ⚑ | 401,702 | 67,883 | 毎日 | 46 | 2026-11-12 | 2026-11-16 |  | CC-BY-4.0 |
 | [yt-dlp](entries/other/yt-dlp-yt-dlp.md) ⚑ | 206,601 | 18,169 | 毎日 | 26 | 2026-11-04 | 2026-11-10 |  | Unlicense |
 | [MarkItDown](entries/other/microsoft-markitdown.md) ⚑ | 194,754 | 14,682 | 週次 | 9 | 2026-11-07 | 2026-11-10 |  | MIT |
+| [Excalidraw](entries/other/excalidraw-excalidraw.md) | 136,087 | 16,245 | 毎日 | 32 | 2026-11-21 | 2026-11-22 | 2026-11-23 | MIT |
 | [Generative AI for Beginners](entries/other/microsoft-generative-ai-for-beginners.md) ⚑ | 123,543 | 66,422 | 毎日 | 66 | 2026-11-12 | 2026-11-15 |  | MIT |
 | [Godot Engine](entries/other/godotengine-godot.md) ⚑ | 120,279 | 27,542 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 |  | MIT |
 | [Immich](entries/other/immich-app-immich.md) ⚑ | 119,382 | 7,632 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 |  | AGPL-3.0 |
@@ -753,7 +754,7 @@
 | [Jolt Physics](entries/3d-motion/jrouwe-joltphysics.md) ⚑ | 12,326 | 1,027 | 毎日 | 60 | 2026-11-16 | 2026-11-16 |  | MIT |
 | [Nerfstudio](entries/3d-motion/nerfstudio-project-nerfstudio.md) ⚑ | 12,219 | 1,693 | 停滞 | 0 | 2025-07-29 | 2026-11-17 |  | Apache-2.0 |
 | [FreeMoCap](entries/3d-motion/freemocap-freemocap.md) ⚑ | 10,824 | 1,036 | 週次 | 5 | 2026-11-14 | 2026-11-16 |  | AGPL-3.0 |
-| [Zdog](entries/3d-motion/metafizzy-zdog.md) ⚑ | 10,725 | 412 | 停滞 | 0 | 2023-07-18 | 2026-11-22 | 2026-11-23 | unknown |
+| [Zdog](entries/3d-motion/metafizzy-zdog.md) ⚑ | 10,725 | 412 | 停滞 | 0 | 2023-07-18 | 2026-11-22 |  | unknown |
 | [SuperSplat Editor](entries/3d-motion/playcanvas-supersplat.md) ⚑ | 10,702 | 1,243 | 毎日 | 31 | 2026-11-19 | 2026-11-22 |  | MIT |
 | [@react-three/drei](entries/3d-motion/pmndrs-drei.md) ⚑ | 10,167 | 873 | 月次 | 0 | 2026-10-21 | 2026-11-16 |  | MIT |
 | [Google model-viewer](entries/3d-motion/google-model-viewer.md) | 8,351 | 964 | 週次 | 11 | 2026-11-18 | 2026-11-22 |  | Apache-2.0 |
