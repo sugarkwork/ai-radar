@@ -1,5 +1,5 @@
 {
-  "count": 1529,
+  "count": 1530,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -10187,6 +10187,24 @@
       ],
       "fetched_at": "2026-11-13T00:16:57+00:00",
       "path": "articles/2026-11-12-aiwarper-h3-image.md"
+    },
+    {
+      "name": "Harness adapters: Safe RL for efficient agentic development",
+      "genre": "article",
+      "url": "https://huggingface.co/blog/harness-hub/harness-adapters",
+      "published": "2026-11-06",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "ツール呼び出しの削減や評価精度、安全性に関する効果は記事の著者らによる報告で、独立した実測としては確認していません。記事ではheld-out評価やsmoke runなどの条件が説明されています。",
+      "type": "article",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/ai_hakase_/status/2119400802389205299"
+      ],
+      "fetched_at": "2026-11-20T04:14:24.701741+00:00",
+      "path": "articles/2026-11-06-author-harness-adapters-safe-rl-for-efficient-agentic-development.md"
     },
     {
       "name": "Harness design for long-running application development",

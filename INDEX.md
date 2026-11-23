@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1529 件 — リポジトリ 1086, リンク集 125, 記事 249, モデル 55, プロンプト 14 / ⚑ 要確認 1250 件
+収録 1530 件 — リポジトリ 1086, リンク集 125, 記事 250, モデル 55, プロンプト 14 / ⚑ 要確認 1251 件
 
 ## リポジトリ（1086）
 
@@ -255,7 +255,7 @@
 | [Awesome Social Media Skills](entries/other/underleveledbuilder-awesome-social-media-skills.md) ⚑ | 252 | 40 | 毎日 | 33 | 2026-11-08 | 2026-11-10 |  | CC0-1.0 |
 | [Download Anything (DA)](entries/other/nengong-download-anything.md) ⚑ | 251 | 6 | 毎日 | 32 | 2026-11-08 | 2026-11-17 |  | unknown |
 | [Best Agent Memory MCP](entries/other/glen-web-app-best-agent-memory-mcp.md) ⚑ | 240 | 9 | 月次 | 2 | 2026-11-05 | 2026-11-18 |  | CC0-1.0 |
-| [Parametric Topdown Pixel Architecture](entries/other/zengkailin-parametric-topdown-pixel-architecture.md) ⚑ | 234 | 36 | 週次 | 5 | 2026-10-31 | 2026-11-20 | 2026-11-23 | unknown |
+| [Parametric Topdown Pixel Architecture](entries/other/zengkailin-parametric-topdown-pixel-architecture.md) ⚑ | 234 | 36 | 週次 | 5 | 2026-10-31 | 2026-11-20 |  | unknown |
 | [小浣熊阅读](entries/other/aminark-legado-ios.md) ⚑ | 232 | 66 | 毎日 | 22 | 2026-11-13 | 2026-11-16 |  | GPL-3.0 |
 | [svg.filter.js](entries/other/svgdotjs-svg.filter.js.md) | 224 | 52 | 月次 | 0 | 2026-09-15 | 2026-11-18 |  | MIT |
 | [fuxi-pdf · 复习pdf](entries/other/stevensun1005-fuxi-pdf.md) ⚑ | 201 | 3 | 週次 | 12 | 2026-10-22 | 2026-11-11 |  | unknown |
@@ -1670,9 +1670,9 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（249）
+## 記事（250）
 
-### 記事（184）
+### 記事（185）
 
 - **[$0のデジタル参謀長で月$80,000の契約候補を作ったというX投稿（動画付き）](articles/2026-10-22-bober_smart-0-80-000-x.md)** ⚑  @Bober_smart
 - **[1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md)** ⚑  @mukadeshinigami（mukade死神）
@@ -1750,6 +1750,7 @@
 - **[Grok BotはX連携で化ける！専門botを指揮者のように組み合わせて毎日ネタがたまる使い方と、そのまま貼れるプロンプト集97個を配布します](articles/2026-10-15-author-grok-bot-x-bot-97.md)** ⚑
 - **[Grok Botを指揮者として使う実践記事](articles/2026-10-15-author-grok-bot.md)** ⚑
 - **[H3 Imageの高解像度生成と縮小手順](articles/2026-11-12-aiwarper-h3-image.md)** ⚑  AIWarper
+- **[Harness adapters: Safe RL for efficient agentic development](articles/2026-11-06-author-harness-adapters-safe-rl-for-efficient-agentic-development.md)** ⚑
 - **[Harness design for long-running application development](articles/2026-03-24-author-harness-design-for-long-running-application-development.md)** ⚑
 - **[How a deepfake of Marco Rubio exposed the alarming ease of AI voice scams](articles/2025-07-10-author-how-a-deepfake-of-marco-rubio-exposed-the-alarming-ease-of-ai-voice-scams.md)** ⚑
 - **[How to set up Claude](articles/2026-09-30-author-how-to-set-up-claude.md)** ⚑
@@ -2234,6 +2235,7 @@
 - [Grok BotはX連携で化ける！専門botを指揮者のように組み合わせて毎日ネタがたまる使い方と、そのまま貼れるプロンプト集97個を配布します](articles/2026-10-15-author-grok-bot-x-bot-97.md) — unverified / 利用料金や利用条件は記事公開時の作者の申込画面に基づく記載で、現在の価格・提供条件は確認できていません。約3分での下書き作成などの成果は作者の報告です。記事には、削除指示の誤解でホームフォルダを消した事例も記載されています。
 - [Grok Botを指揮者として使う実践記事](articles/2026-10-15-author-grok-bot.md) — unverified / 連携手順や約3分で下書きが完成した例、使用量・料金の記述は記事執筆者による報告で、独立した再現確認ではない。料金などの条件は記事内で確認できた時点の情報。
 - [H3 Imageの高解像度生成と縮小手順](articles/2026-11-12-aiwarper-h3-image.md) — unverified / 投稿者の実践メモです。効果・原因・再現条件は独立した資料では未確認です。
+- [Harness adapters: Safe RL for efficient agentic development](articles/2026-11-06-author-harness-adapters-safe-rl-for-efficient-agentic-development.md) — unverified / ツール呼び出しの削減や評価精度、安全性に関する効果は記事の著者らによる報告で、独立した実測としては確認していません。記事ではheld-out評価やsmoke runなどの条件が説明されています。
 - [Harness design for long-running application development](articles/2026-03-24-author-harness-design-for-long-running-application-development.md) — unverified / 生成アプリの独立再現、構成要素ごとの寄与、別タスクへの一般化、実験用ハーネスのコード配布・再利用条件は未確認。
 - [How a deepfake of Marco Rubio exposed the alarming ease of AI voice scams](articles/2025-07-10-author-how-a-deepfake-of-marco-rubio-exposed-the-alarming-ease-of-ai-voice-scams.md) — unverified / 対策の有効性は記事内で紹介された専門家の説明で、個別の対策の実測結果や適用条件はこの記事では検証されていない。
 - [How to set up Claude](articles/2026-09-30-author-how-to-set-up-claude.md) — low-quality, unverified / 公式ヘルプセンターはTeamプランに最低5人を要すると説明しているが、記事は2人と記載。また、個人アカウントよりTeamが安全という主張を裏付ける一次資料は確認できなかった。 Teamプランは最低5人必要で、個人利用向けではないというAnthropicの案内があり、記事中の「2人以上」という説明と異なる。また、記事の「Teamプランの方が安全」という評価や、機能・価格・モデル情報の一部は公式資料で確認できていないため、最新条件を公式ページで確認する必要がある。
