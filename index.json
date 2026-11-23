@@ -1,5 +1,5 @@
 {
-  "count": 1419,
+  "count": 1420,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -16027,6 +16027,37 @@
       "last_release_at": "",
       "path": "entries/coding-agent/t3knobox-klik-anim-skill-creation.md",
       "summary": "Remotionでのアニメーション制作向けに、要素の動き方を扱うklik-anim、カメラ移動を扱うklik-cam、プロンプトから動画制作までの工程を扱うklik-remotion-methodを提供する。READMEは、klik-animをイージング・タイミング・振付・視線誘導・チェックリストなどの指針、klik-"
+    },
+    {
+      "name": "Claude Code Agent Skills by shokai",
+      "genre": "coding-agent",
+      "url": "https://github.com/shokai/agent-skills",
+      "repo": "shokai/agent-skills",
+      "license": "MIT",
+      "language": "Shell",
+      "created": "2026-02-15",
+      "updated": "2026-11-18",
+      "forks": 5,
+      "open_issues": 1,
+      "commit_cadence": "daily",
+      "size_kb": 387,
+      "archived": false,
+      "stars": 92,
+      "commits_30d": 38,
+      "commits_90d": 100,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 依存関係・実行条件。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/tetumemo/status/2119289108103413859"
+      ],
+      "fetched_at": "2026-11-18T18:12:02.518182+00:00",
+      "path": "entries/coding-agent/shokai-agent-skills.md",
+      "summary": "Claude Code向けのプラグイン／スキル集。READMEでは、依存関係更新PRのレビュー・修正・mergeの指揮、Codex CLIやsubagentへの相談、対話で決まった作業・制約の書き出しと別セッションでの読み込み、PRレビュー報告書の作成、脆弱性調査と自動修正・mergeなどを紹介している。これらはREA"
     },
     {
       "name": "jev-code",
