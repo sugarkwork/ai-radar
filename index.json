@@ -1,5 +1,5 @@
 {
-  "count": 1372,
+  "count": 1373,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -28692,6 +28692,37 @@
       "last_release_at": "",
       "path": "entries/other/faceplugin-ltd-open-source-face-recognition-sdk.md",
       "summary": "READMEによると、画像から顔を検出してバウンディングボックス、顔のランドマーク、特徴量埋め込みを取得できます。2つの埋め込みを比較し、0〜100の類似度スコアを返すAPIも説明されています。対応画像形式としてJPG、PNG、BMP、TIFFが挙げられています。"
+    },
+    {
+      "name": "HatchZip",
+      "genre": "other",
+      "url": "https://github.com/xevrion/hatchzip",
+      "repo": "xevrion/hatchzip",
+      "license": "Apache-2.0",
+      "stars": 2968,
+      "language": "Rust",
+      "created": "2026-10-21",
+      "updated": "2026-11-16",
+      "forks": 102,
+      "open_issues": 15,
+      "commits_30d": 100,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 6765,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEによるとWindows版とmacOS版はコード署名されていない。Windowsでは保護警告を経て実行する手順が案内されている。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/awe0_io/status/2119255490920321262"
+      ],
+      "fetched_at": "2026-11-18T05:12:30.540262+00:00",
+      "path": "entries/other/xevrion-hatchzip.md",
+      "summary": "Windows・macOS・Linux向けのデスクトップアプリとCLI。ZIP、7z、RAR、tar、圧縮tar、分割アーカイブを展開中に縮小し、アーカイブが占めていた領域を出力に再利用する。READMEでは、展開前の空き容量確認、停止・クラッシュ後の再開、アーカイブを保持する通常展開も説明している。"
     },
     {
       "repo": "Vexa-ai/vexa",
