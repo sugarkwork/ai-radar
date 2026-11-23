@@ -1,5 +1,5 @@
 {
-  "count": 1485,
+  "count": 1486,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -28299,6 +28299,37 @@
       "fetched_at": "2026-11-13T06:23:38.178409+00:00",
       "path": "entries/other/putyy-res-downloader.md",
       "summary": "READMEでは、Windows / macOS / Linux向けのリソースダウンロードツールとして紹介されています。動画、音声、画像、m3u8、ライブストリームなどを扱い、プロキシ経由でリソースを取得できます。対応プラットフォームとして微信视频号、小程序、抖音、快手、小红书、酷狗音乐、QQ音乐が挙げられています。出"
+    },
+    {
+      "name": "V2rayU",
+      "genre": "other",
+      "url": "https://github.com/yanue/V2rayU",
+      "repo": "yanue/V2rayU",
+      "license": "unknown",
+      "stars": 20196,
+      "language": "unknown",
+      "created": "2018-10-12",
+      "updated": "2026-11-08",
+      "forks": 2961,
+      "open_issues": 5,
+      "commits_30d": 0,
+      "commit_cadence": "stale",
+      "commits_90d": 0,
+      "size_kb": 244626,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "対応するmacOSのバージョン範囲と、各機能が利用できる具体的な環境条件は確認できていない。 GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/AIExplorerTim/status/2119354247716425944"
+      ],
+      "fetched_at": "2026-11-19T16:18:26Z",
+      "path": "entries/other/yanue-v2rayu.md",
+      "summary": "リポジトリの説明では、V2rayUはV2Ray系コアを使うmacOS向けクライアントで、Trojan、VMess、Shadowsocks、SOCKS5などのプロトコルに対応するとされています。サブスクリプション、QRコードやクリップボードからの取り込み、手動設定、QRコード共有も記載されています。リリースノートにはCl"
     },
     {
       "name": "SAM 2",

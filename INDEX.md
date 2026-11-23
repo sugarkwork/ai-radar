@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1485 件 — リポジトリ 1051, リンク集 122, 記事 243, モデル 55, プロンプト 14 / ⚑ 要確認 1212 件
+収録 1486 件 — リポジトリ 1052, リンク集 122, 記事 243, モデル 55, プロンプト 14 / ⚑ 要確認 1213 件
 
-## リポジトリ（1051）
+## リポジトリ（1052）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（258）
+### その他（259）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -77,6 +77,7 @@
 | [MicroPython](entries/other/micropython-micropython.md) ⚑ | 22,205 | 9,062 | 毎日 | 100+ | 2026-11-17 | 2026-11-17 |  | unknown |
 | [Rough.js](entries/other/rough-stuff-rough.md) ⚑ | 21,384 | 671 | 停滞 | 0 | 2024-07-28 | 2026-11-16 |  | MIT |
 | [res-downloader](entries/other/putyy-res-downloader.md) ⚑ | 21,255 | 2,609 | 停滞 | 0 | 2026-11-11 | 2026-11-13 |  | Apache-2.0 |
+| [V2rayU](entries/other/yanue-v2rayu.md) ⚑ | 20,196 | 2,961 | 停滞 | 0 | 2026-11-08 | 2026-11-19 | 2026-11-23 | unknown |
 | [SAM 2](entries/other/facebookresearch-sam2.md) | 20,166 | 2,596 | 停滞 | 0 | 2026-05-30 | 2026-11-16 |  | Apache-2.0 |
 | [olmOCR](entries/other/allenai-olmocr.md) ⚑ | 19,829 | 1,657 | 停滞 | 0 | 2026-03-25 | 2026-11-17 |  | Apache-2.0 |
 | [ActivityWatch](entries/other/activitywatch-activitywatch.md) ⚑ | 19,655 | 1,079 | 週次 | 18 | 2026-11-15 | 2026-11-16 |  | MPL-2.0 |
@@ -137,7 +138,7 @@
 | [Geyser](entries/other/geysermc-geyser.md) ⚑ | 5,973 | 963 | 毎日 | 52 | 2026-11-18 | 2026-11-19 |  | MIT |
 | [Sodium](entries/other/caffeinemc-sodium.md) ⚑ | 5,850 | 991 | 週次 | 16 | 2026-11-14 | 2026-11-19 |  | unknown |
 | [Auto-Editor](entries/other/wyattblue-auto-editor.md) ⚑ | 5,824 | 725 | 毎日 | 100+ | 2026-11-08 | 2026-11-09 |  | Unlicense |
-| [tModLoader](entries/other/tmodloader-tmodloader.md) ⚑ | 5,797 | 2,200 | 毎日 | 100+ | 2026-11-17 | 2026-11-19 | 2026-11-23 | MIT |
+| [tModLoader](entries/other/tmodloader-tmodloader.md) ⚑ | 5,797 | 2,200 | 毎日 | 100+ | 2026-11-17 | 2026-11-19 |  | MIT |
 | [gifski](entries/other/imageoptim-gifski.md) ⚑ | 5,711 | 183 | 停滞 | 0 | 2026-06-17 | 2026-11-16 |  | unknown |
 | [软件屏蔽器（Malware-Patch）](entries/other/the1812-malware-patch.md) ⚑ | 5,644 | 333 | 停滞 | 0 | 2026-05-27 | 2026-11-14 |  | MIT |
 | [Atoll](entries/other/ebullioscopic-atoll.md) ⚑ | 5,291 | 389 | 毎日 | 33 | 2026-11-17 | 2026-11-17 |  | GPL-3.0 |
@@ -2711,6 +2712,7 @@
 - [MicroPython](entries/other/micropython-micropython.md) — unverified / GitHub APIでライセンスを確認できていません。
 - [Rough.js](entries/other/rough-stuff-rough.md) — unverified / 一次資料で未確認: 依存関係。
 - [res-downloader](entries/other/putyy-res-downloader.md) — unverified / README says setup requires allowing certificate installation and network access. It also notes that the system proxy may need to be turned off manually after closing the app.
+- [V2rayU](entries/other/yanue-v2rayu.md) — unverified / 対応するmacOSのバージョン範囲と、各機能が利用できる具体的な環境条件は確認できていない。 GitHub APIでライセンスを確認できていません。
 - [olmOCR](entries/other/allenai-olmocr.md) — unverified / ローカルGPU実行には最近のNVIDIA GPUと少なくとも12 GBのGPU RAM、30 GBの空きディスクが必要とREADMEに記載。費用や処理性能の記述はREADME上の説明であり、独立検証していない。
 - [ActivityWatch](entries/other/activitywatch-activitywatch.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [ai-goofish-monitor](entries/other/usagi-org-ai-goofish-monitor.md) — unverified / 判定精度、通知遅延、現行の闲鱼環境での動作、モデルAPIの実利用料金、最新リリースの公開日時は未確認。プラットフォームの利用条件への適合性は利用形態に依存する。
