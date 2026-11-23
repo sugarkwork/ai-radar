@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1449 件 — リポジトリ 1021, リンク集 121, 記事 238, モデル 55, プロンプト 14 / ⚑ 要確認 1179 件
+収録 1450 件 — リポジトリ 1022, リンク集 121, 記事 238, モデル 55, プロンプト 14 / ⚑ 要確認 1180 件
 
-## リポジトリ（1021）
+## リポジトリ（1022）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -416,7 +416,7 @@
 | [Leash](entries/coding-agent/cmaintz-leash.md) ⚑ | 0 | 0 | 毎日 | 20 | 2026-11-15 | 2026-11-16 | 2026-11-22 | MIT |
 | [grok-x](entries/coding-agent/stat-guy-grok-x.md) ⚑ | 0 | 0 | 停滞 | 0 | 2026-03-19 | 2026-11-16 | 2026-11-22 | unknown |
 
-### エージェント基盤・スキル集（132）
+### エージェント基盤・スキル集（133）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -549,6 +549,7 @@
 | [X Virality Score](entries/agent-framework/monkeyteamvip-x-virality-score.md) ⚑ | 36 | 20 | 月次 | 3 | 2026-10-27 | 2026-11-16 | 2026-11-22 | MIT |
 | [jevwire](entries/agent-framework/brainwires-jevwire.md) ⚑ | 27 | 5 | 週次 | 17 | 2026-11-12 | 2026-11-16 | 2026-11-22 | MIT |
 | [AI SDK](entries/agent-framework/anil-matcha-ai.md) ⚑ | 19 | 4 | 停滞 | 0 | 2026-08-06 | 2026-11-16 | 2026-11-22 | unknown |
+| [OpenClaw Extension](entries/agent-framework/bofai-openclaw-extension.md) ⚑ | 14 | 4 | 月次 | 2 | 2026-10-22 | 2026-11-19 | 2026-11-23 | unknown |
 | [web-api-skills](entries/agent-framework/oxylabs-web-api-skills.md) | 13 | 1 | 週次 | 14 | 2026-11-11 | 2026-11-16 | 2026-11-22 | MIT |
 | [Terrarium Examples](entries/agent-framework/terrarium-sh-terrarium_examples.md) ⚑ | 2 | 1 | 週次 | 6 | 2026-11-13 | 2026-11-18 | 2026-11-23 | unknown |
 | [Cybernetic Meadow agent skill](entries/agent-framework/cyberneticmeadow-skill.md) ⚑ | 0 | 0 | 月次 | 1 | 2026-11-17 | 2026-11-18 | 2026-11-23 | MIT |
@@ -2068,6 +2069,7 @@
 - [X Virality Score](entries/agent-framework/monkeyteamvip-x-virality-score.md) — unverified / ①主張と実測の差: 投稿は「1投稿あたり10万インプレッション」「月500万ビュー」を掲げるが、これは著者の主張で、著者自身が返信で「100K views を保証しない実験的ツール」と訂正している。返信には直近15投稿が2K〜47Kだったという反論と、コミュニティノート相当の指摘（実験的な手動ツール、公開ボードはプレースホルダーの静的デモ）が付いている。②著者の公開ボード data.json（2026-11-08分、2026-11-09 11:05 MSK 更新）では、本人のベスト投稿は21,377 views、当日合計26,146 views、ウォッチリスト29人中7位。少なくともこの日の実績は「10万/投稿」と一致しない。③引用元の X 記事（x.com/i/article/2100215736375373824）はログイン必須で、curl ではログイン画面へリダイレクトされ本文・配布条件を確認できない。④リポジトリ内 ARTICLE.md は「1投稿 約2.08M views」を挙げるが単発の事例で、ツールによる効果の測定ではない。同ファイルに「This is experimental. No big promise.」「Demo / case-study board (this article's example — not yours by default)」と明記がある。⑤返信に添付された画像はインプレッションのスクリーンショットではなく、とんがり帽子で座る男性の風刺イラストだった（vision で確認、数値・UIなし）。インプレッション主張の裏付けにならない。⑥投稿のプロモ動画は UI のアニメーションで、「VIRAL VIEWS 1,052,489」「2.08M views」等は演出上の数値であり実測ではない。実際の画面かと問われた著者も「It's on the experimental stage now」と答えており、動画を実装済みUIの証拠にはできない。⑦コミュニティノートの「公開ボードはプレースホルダーの静的デモ」という記述は、公開ボードが実際に26件のヒット（5,295〜147,225 views）を含む data.json を読むため、そのままは確認できなかった（ノート側の記述が不正確）。ただしページ自体は静的で、事業者が再公開するまで更新されない。⑧料金・提供条件: リポジトリは MIT で無料だが、X の閲覧/API 条件、Grok Bot マーケットプレイスの提供条件・レート制限は未確認。⑨再現性: サンプルは架空データで、pipeline/ は X を呼ばない。実データ取得は利用者の X セッションかボットの読み取りツールに依存し、取得失敗は stale として残る（2026-11-09 11:00 MSK の refresh では19件が stale）。
 - [jevwire](entries/agent-framework/brainwires-jevwire.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [AI SDK](entries/agent-framework/anil-matcha-ai.md) — unverified / READMEにライセンスの記載がなく、利用条件は確認できません。 GitHub APIでライセンスを確認できていません。
+- [OpenClaw Extension](entries/agent-framework/bofai-openclaw-extension.md) — low-quality, unverified / READMEの「Use at your own risk」で、実験段階、厳密なテスト未実施、保証なしと説明されている。 インストーラーは通常モードでもAgentWalletの初期化やMCP・スキル設定を行い、クリーンモードは既存のAgentWalletデータ、MCP設定、導入済みスキルを削除するとREADMEに記載。bnbchain-mcpはPRIVATE_KEYを必要とし、AgentWallet非対応。秘密鍵をAIエージェントに扱わせる危険性と資産損失の可能性がREADMEで明記されている。ライセンスはGitHub API上でunknown。 GitHub APIでライセンスを確認できていません。
 - [Terrarium Examples](entries/agent-framework/terrarium-sh-terrarium_examples.md) — unverified / 個々の設定例の内容や利用条件は、提供されたREADMEだけでは確認できない。 GitHub APIでライセンスを確認できていません。
 - [Billable Hours Bot](links/agent-framework/https-x.ai-bot-tlgfui0v3nxxmommdvgvr.md) — unverified / 時間集計の正確性と請求・税務の適合性は未試験。接続した資料だけを読むという説明の実効性と現行料金を確認する。送付・決済を無確認で実行しない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Bot Office](links/agent-framework/https-x.ai-bot-_di6heboa0cfwftnsxxcm.md) — unverified / 監視の正確性・見逃し・証拠リンクの完全性は未検証。xAI公式ボットの保証ではなく第三者製。権限・クラウド共有範囲・現行価格を確認する。 当方でインストール・推論・生成・ベンチ再現はしていない。

@@ -1,5 +1,5 @@
 {
-  "count": 1449,
+  "count": 1450,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -8102,6 +8102,38 @@
       "last_release_at": "",
       "path": "entries/agent-framework/anil-matcha-ai.md",
       "summary": "Node.jsやNext.js、React、Svelte、Vue、AngularなどでAIアプリやエージェントを構築するためのTypeScriptツールキット。複数のモデルプロバイダーを統一APIまたは各プロバイダーのSDK経由で利用でき、テキスト生成、構造化データ生成、ツールを使うエージェント、チャットUIを実装でき"
+    },
+    {
+      "name": "OpenClaw Extension",
+      "genre": "agent-framework",
+      "url": "https://github.com/BofAI/openclaw-extension",
+      "repo": "BofAI/openclaw-extension",
+      "license": "unknown",
+      "stars": 14,
+      "language": "Shell",
+      "created": "2026-03-02",
+      "updated": "2026-10-22",
+      "forks": 4,
+      "open_issues": 0,
+      "commits_30d": 2,
+      "commit_cadence": "monthly",
+      "commits_90d": 2,
+      "size_kb": 1667,
+      "archived": false,
+      "flags": [
+        "low-quality",
+        "unverified"
+      ],
+      "risk_notes": "READMEの「Use at your own risk」で、実験段階、厳密なテスト未実施、保証なしと説明されている。 インストーラーは通常モードでもAgentWalletの初期化やMCP・スキル設定を行い、クリーンモードは既存のAgentWalletデータ、MCP設定、導入済みスキルを削除するとREADMEに記載。bnbchain-mcpはPRIVATE_KEYを必要とし、AgentWallet非対応。秘密鍵をAIエージェントに扱わせる危険性と資産損失の可能性がREADMEで明記されている。ライセンスはGitHub API上でunknown。 GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/joejossy_12/status/2119201345802490283"
+      ],
+      "fetched_at": "2026-11-19T05:10:23.077064+00:00",
+      "path": "entries/agent-framework/bofai-openclaw-extension.md",
+      "summary": "OpenClawに、TRONやBNB Chainなどのブロックチェーン操作用MCPサーバーと、ウォレット、取引、ステーキング、DEX、x402決済などのスキルを設定する。スキルは導入時に選択でき、README記載のスナップショットはskillsリポジトリのv1.5.15。READMEは各コンポーネントの機能を説明してい"
     },
     {
       "repo": "oxylabs/web-api-skills",
