@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1542 件 — リポジトリ 1095, リンク集 125, 記事 253, モデル 55, プロンプト 14 / ⚑ 要確認 1262 件
+収録 1543 件 — リポジトリ 1096, リンク集 125, 記事 253, モデル 55, プロンプト 14 / ⚑ 要確認 1263 件
 
-## リポジトリ（1095）
+## リポジトリ（1096）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -606,7 +606,7 @@
 | [Terrarium Examples](entries/agent-framework/terrarium-sh-terrarium_examples.md) ⚑ | 2 | 1 | 週次 | 6 | 2026-11-13 | 2026-11-18 |  | unknown |
 | [Cybernetic Meadow agent skill](entries/agent-framework/cyberneticmeadow-skill.md) ⚑ | 0 | 0 | 月次 | 1 | 2026-11-17 | 2026-11-18 |  | MIT |
 
-### 動画生成パイプライン（119）
+### 動画生成パイプライン（120）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -690,6 +690,7 @@
 | [claude-video-effects](entries/video-gen/vibha-ramprakash-claude-video-effects.md) ⚑ | 839 | 202 | 週次 | 9 | 2026-11-09 | 2026-11-10 |  | unknown |
 | [赛博小雅直播版（Cyber Xiaoya Live）](entries/video-gen/cyber-xiaoya-cyber-xiaoya-live.md) | 815 | 350 | 週次 | 18 | 2026-11-09 | 2026-11-09 |  | AGPL-3.0（コードのみ。素材・ブランドは NOTICE で別扱い） |
 | [vibe-knowledge](entries/video-gen/andyhuo520-vibe-knowledge.md) ⚑ | 613 | 92 | 月次 | 3 | 2026-10-28 | 2026-11-10 |  | MIT |
+| [Vidu S](entries/video-gen/shengshu-ai-vidu-s.md) ⚑ | 523 | 15 | 月次 | 0 | 2026-09-20 | 2026-11-22 | 2026-11-23 | unknown |
 | [ComfyUI MiniMax H3 首尾帧视频工作流](entries/video-gen/pixelaigc-comfyui-minimax-h3-workflow.md) ⚑ | 469 | 78 | 停滞 | 0 | 2026-09-10 | 2026-11-15 |  | unknown |
 | [Product Launch Motion](entries/video-gen/abubakrchan-product-launch-motion.md) ⚑ | 452 | 59 | 毎日 | 33 | 2026-10-21 | 2026-11-12 |  | MIT |
 | [comfyui-SelfLift](entries/video-gen/facok-comfyui-selflift.md) ⚑ | 418 | 26 | 月次 | 0 | 2026-09-18 | 2026-11-12 |  | unknown |
@@ -918,7 +919,7 @@
 | [知了 Cicada](entries/tts-audio/wquguru-cicada.md) ⚑ | 2,104 | 366 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 |  | Apache-2.0 |
 | [Irodori-TTS](entries/tts-audio/aratako-irodori-tts.md) ⚑ | 1,586 | 188 | 週次 | 18 | 2026-11-09 | 2026-11-11 |  | MIT |
 | [ElevenLabs Skills](entries/tts-audio/elevenlabs-skills.md) ⚑ | 547 | 94 | 週次 | 13 | 2026-11-04 | 2026-11-10 |  | MIT |
-| [OpenSpline](entries/tts-audio/openspline-openspline.md) ⚑ | 433 | 54 | 週次 | 10 | 2026-11-14 | 2026-11-22 | 2026-11-23 | MIT |
+| [OpenSpline](entries/tts-audio/openspline-openspline.md) ⚑ | 433 | 54 | 週次 | 10 | 2026-11-14 | 2026-11-22 |  | MIT |
 | [speech.cpp](entries/tts-audio/nyosegawa-speech.cpp.md) ⚑ | 406 | 28 | 毎日 | 52 | 2026-11-14 | 2026-11-14 |  | MIT |
 | [Persian ASR: Nemotron streaming, fine-tuned for Persian (Farsi)](entries/tts-audio/mallahyari-nemotron-asr-streaming-farsi.md) ⚑ | 96 | 9 | 月次 | 0 | 2026-10-03 | 2026-11-18 |  | Apache-2.0 |
 | [adventists-ai/sophon-realtime](entries/tts-audio/adventists-ai-sophon-realtime.md) ⚑ | 58 | 4 | 毎日 | 36 | 2026-11-09 | 2026-11-09 |  | Apache-2.0 |
@@ -3180,6 +3181,7 @@
 - [Story Studio（故事工坊）](entries/video-gen/konlu-story-studio.md) — unverified / 公開文書を確認。依存関係の自動セットアップ、文字起こしと分鏡の整合精度、剪映のバージョン別互換性、最新リリースは未検証。README はコードと Skill 仕様に MIT を明記する一方、GitHub API の計測値は unknown。収録台本・参考画像の個別の再利用条件は未確認。 GitHub APIでライセンスを確認できていません。
 - [claude-video-effects](entries/video-gen/vibha-ramprakash-claude-video-effects.md) — unverified / 公式 README は公開 raw URL で確認。最新リリース、顔追従・遮蔽処理・発話位置の精度、初回セットアップの所要時間、Codex 互換性は未確認。ライセンス欄は親の GitHub API 実測値 unknown を保持。MIT と同梱素材の個別ライセンスは README の記載に基づき、各ライセンス本文は未照合。 GitHub APIでライセンスを確認できていません。
 - [vibe-knowledge](entries/video-gen/andyhuo520-vibe-knowledge.md) — unverified / READMEと公開リリースの記載を確認。コードの実行、サンプルの視聴、出典の正確性、画質、処理時間、質検の検出精度、OS別の動作、外部サービスの現行料金は未検証。公開リリースの一覧で最新版タグを確認し、正確な公開日時は未確認。
+- [Vidu S](entries/video-gen/shengshu-ai-vidu-s.md) — unverified / ライセンスはGitHub APIの取得値でunknownです。 GitHub APIでライセンスを確認できていません。
 - [ComfyUI MiniMax H3 首尾帧视频工作流](entries/video-gen/pixelaigc-comfyui-minimax-h3-workflow.md) — unverified / READMEではワークフローのライセンスは作者が別途指定するとされていますが、この資料内にライセンス名はありません。 GitHub APIでライセンスを確認できていません。
 - [Product Launch Motion](entries/video-gen/abubakrchan-product-launch-motion.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [comfyui-SelfLift](entries/video-gen/facok-comfyui-selflift.md) — unverified / H3の画質に関する記述はREADME記載の単一シードでの結果で、独立した検証ではありません。H3向け機能は実験的とされています。 GitHub APIでライセンスを確認できていません。

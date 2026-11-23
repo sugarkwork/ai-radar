@@ -1,5 +1,5 @@
 {
-  "count": 1542,
+  "count": 1543,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -44083,6 +44083,37 @@
       "fetched_at": "2026-11-10T10:56:31+00:00",
       "path": "entries/video-gen/andyhuo520-vibe-knowledge.md",
       "summary": "題材の調査、出典表と台本の作成、ナレーション、コードによる1080p60の逐次フレーム描画、品質チェック、公開用素材の準備を対話で進める。READMEはOCRによる照合、音量、フレームの静止、BGMの検査を記載している。"
+    },
+    {
+      "name": "Vidu S",
+      "genre": "video-gen",
+      "url": "https://github.com/shengshu-ai/Vidu-S",
+      "repo": "shengshu-ai/Vidu-S",
+      "license": "unknown",
+      "stars": 523,
+      "language": "unknown",
+      "created": "2026-07-03",
+      "updated": "2026-09-20",
+      "forks": 15,
+      "open_issues": 1,
+      "commits_30d": 0,
+      "commit_cadence": "monthly",
+      "commits_90d": 10,
+      "size_kb": 211967,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "ライセンスはGitHub APIの取得値でunknownです。 GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/ai_hakase_/status/2119415527558840477"
+      ],
+      "fetched_at": "2026-11-22T04:40:41.860665+00:00",
+      "path": "entries/video-gen/shengshu-ai-vidu-s.md",
+      "summary": "READMEによると、Vidu S2はリアルタイムの対話型アバター動画生成、ライブ動画編集、没入型ディスプレイ向けの同期ステレオ動画生成を提供します。S2-Editingは参照画像を使ったスタイル変換、バーチャル試着、キャラクターや背景の置換をうたい、元動画の動きを保つと説明されています。Vidu S1は音声指示でキャ"
     },
     {
       "name": "ComfyUI MiniMax H3 首尾帧视频工作流",
