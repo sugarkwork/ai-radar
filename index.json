@@ -1,5 +1,5 @@
 {
-  "count": 1417,
+  "count": 1418,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -40859,6 +40859,37 @@
       "fetched_at": "2026-11-12T14:23:26.083605+00:00",
       "path": "entries/video-gen/facok-comfyui-selflift.md",
       "summary": "ComfyUI用のSelfLift Progressive Samplerは、画像モデルの初期デノイジングを低解像度で行い、その後にフル解像度へ移行する構成です。READMEは遷移でデノイザー評価回数を増やさず、rhoが0でなければVAEのデコード・拡大・再エンコードが1回加わると説明しています。またMiniMax H"
+    },
+    {
+      "name": "AI アニメ単元劇（AI Anime Series）",
+      "genre": "video-gen",
+      "url": "https://github.com/10291124jcjc-dotcom/ai-anime-series",
+      "repo": "10291124jcjc-dotcom/ai-anime-series",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "ライセンス欄のAPI取得値はunknown。READMEはscripts/をMIT、その他をCC BY-NC 4.0と記載しているため、利用対象のファイルごとにLICENSEを確認すること。 GitHub APIでライセンスを確認できていません。",
+      "stars": 393,
+      "forks": 82,
+      "open_issues": 0,
+      "size_kb": 8229,
+      "language": "Python",
+      "created": "2026-10-28",
+      "updated": "2026-10-28",
+      "archived": false,
+      "license": "unknown",
+      "commits_30d": 3,
+      "commits_90d": 3,
+      "commit_cadence": "monthly",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/ganfanren_ai/status/2119281509605749143"
+      ],
+      "fetched_at": "2026-11-18T16:15:51.534734+00:00",
+      "path": "entries/video-gen/10291124jcjc-dotcom-ai-anime-series.md",
+      "summary": "オリジナルキャラクターの設定から、ストーリーとショット表の作成、ストーリーボード・動画用プロンプトの組み立て、動画の確認・部分差し替え・連結までの制作フローを案内する。READMEによると、付属スクリプトでプロンプト生成、動画のフレーム抽出、グリッド画像作成、動画連結などができる。"
     },
     {
       "name": "Tesseract",

@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1417 件 — リポジトリ 1006, リンク集 121, 記事 221, モデル 55, プロンプト 14 / ⚑ 要確認 1151 件
+収録 1418 件 — リポジトリ 1007, リンク集 121, 記事 221, モデル 55, プロンプト 14 / ⚑ 要確認 1152 件
 
-## リポジトリ（1006）
+## リポジトリ（1007）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -542,7 +542,7 @@
 | [web-api-skills](entries/agent-framework/oxylabs-web-api-skills.md) | 13 | 1 | 週次 | 14 | 2026-11-11 | 2026-11-16 | 2026-11-22 | MIT |
 | [Cybernetic Meadow agent skill](entries/agent-framework/cyberneticmeadow-skill.md) ⚑ | 0 | 0 | 月次 | 1 | 2026-11-17 | 2026-11-18 | 2026-11-23 | MIT |
 
-### 動画生成パイプライン（116）
+### 動画生成パイプライン（117）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -628,6 +628,7 @@
 | [ComfyUI MiniMax H3 首尾帧视频工作流](entries/video-gen/pixelaigc-comfyui-minimax-h3-workflow.md) ⚑ | 469 | 78 | 停滞 | 0 | 2026-09-10 | 2026-11-15 | 2026-11-15 | unknown |
 | [Product Launch Motion](entries/video-gen/abubakrchan-product-launch-motion.md) ⚑ | 452 | 59 | 毎日 | 33 | 2026-10-21 | 2026-11-12 | 2026-11-12 | MIT |
 | [comfyui-SelfLift](entries/video-gen/facok-comfyui-selflift.md) ⚑ | 418 | 26 | 月次 | 0 | 2026-09-18 | 2026-11-12 | 2026-11-12 | unknown |
+| [AI アニメ単元劇（AI Anime Series）](entries/video-gen/10291124jcjc-dotcom-ai-anime-series.md) ⚑ | 393 | 82 | 月次 | 3 | 2026-10-28 | 2026-11-18 | 2026-11-23 | unknown |
 | [Tesseract](entries/video-gen/mirage-hq-tesseract.md) ⚑ | 367 | 27 | 週次 | 12 | 2026-11-13 | 2026-11-14 | 2026-11-14 | unknown |
 | [RelayVSR](entries/video-gen/kopperx-relayvsr.md) ⚑ | 315 | 26 | 月次 | 0 | 2026-10-05 | 2026-11-13 | 2026-11-13 | Apache-2.0 |
 | [Infinite Creation（Agent无限创作）](entries/video-gen/swotatmk-infinite-creation.md) | 295 | 69 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 | 2026-11-10 | MIT |
@@ -2946,6 +2947,7 @@
 - [ComfyUI MiniMax H3 首尾帧视频工作流](entries/video-gen/pixelaigc-comfyui-minimax-h3-workflow.md) — unverified / READMEではワークフローのライセンスは作者が別途指定するとされていますが、この資料内にライセンス名はありません。 GitHub APIでライセンスを確認できていません。
 - [Product Launch Motion](entries/video-gen/abubakrchan-product-launch-motion.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [comfyui-SelfLift](entries/video-gen/facok-comfyui-selflift.md) — unverified / H3の画質に関する記述はREADME記載の単一シードでの結果で、独立した検証ではありません。H3向け機能は実験的とされています。 GitHub APIでライセンスを確認できていません。
+- [AI アニメ単元劇（AI Anime Series）](entries/video-gen/10291124jcjc-dotcom-ai-anime-series.md) — unverified / ライセンス欄のAPI取得値はunknown。READMEはscripts/をMIT、その他をCC BY-NC 4.0と記載しているため、利用対象のファイルごとにLICENSEを確認すること。 GitHub APIでライセンスを確認できていません。
 - [Tesseract](entries/video-gen/mirage-hq-tesseract.md) — unverified / READMEにライセンスの説明がなく、API/MCPや製品の利用条件はリンク先未確認。 GitHub APIでライセンスを確認できていません。
 - [RelayVSR](entries/video-gen/kopperx-relayvsr.md) — unverified / GPUメモリ要件と実行速度はREADMEに記載がありません。
 - [cinematic-shot](entries/video-gen/1weiho-skills.md) — unverified / 作者のデモ映像の画質・再現性、対応エージェントごとの導入とレンダリング、実行時間や費用は未検証。GitHubの公開リリース一覧には掲載なし。
