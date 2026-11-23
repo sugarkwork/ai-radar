@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1394 件 — リポジトリ 986, リンク集 120, 記事 219, モデル 55, プロンプト 14 / ⚑ 要確認 1131 件
+収録 1395 件 — リポジトリ 987, リンク集 120, 記事 219, モデル 55, プロンプト 14 / ⚑ 要確認 1132 件
 
-## リポジトリ（986）
+## リポジトリ（987）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（222）
+### その他（223）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -133,7 +133,7 @@
 | [EmulatorJS](entries/other/emulatorjs-emulatorjs.md) ⚑ | 4,351 | 1,037 | 週次 | 5 | 2026-10-21 | 2026-11-17 |  | GPL-3.0 |
 | [Storyboarder](entries/other/wonderunit-storyboarder.md) ⚑ | 3,946 | 404 | 停滞 | 0 | 2024-03-17 | 2026-11-11 |  | unknown |
 | [Marp CLI](entries/other/marp-team-marp-cli.md) ⚑ | 3,922 | 207 | 月次 | 0 | 2026-09-08 | 2026-11-15 |  | MIT |
-| [three-mesh-bvh](entries/other/gkjohnson-three-mesh-bvh.md) ⚑ | 3,576 | 352 | 毎日 | 100+ | 2026-11-18 | 2026-11-18 | 2026-11-23 | MIT |
+| [three-mesh-bvh](entries/other/gkjohnson-three-mesh-bvh.md) ⚑ | 3,576 | 352 | 毎日 | 100+ | 2026-11-18 | 2026-11-18 |  | MIT |
 | [TweenJS](entries/other/createjs-tweenjs.md) ⚑ | 3,568 | 940 | 停滞 | 0 | 2023-12-18 | 2026-11-16 |  | MIT |
 | [shodan-python](entries/other/achillean-shodan-python.md) ⚑ | 3,493 | 786 | 停滞 | 0 | 2024-08-05 | 2026-11-16 |  | unknown |
 | [gputaskman](entries/other/shanselman-gputaskman.md) ⚑ | 3,436 | 170 | 毎日 | 100+ | 2026-11-16 | 2026-11-17 |  | MIT |
@@ -168,6 +168,7 @@
 | [requests-cache](entries/other/requests-cache-requests-cache.md) ⚑ | 1,508 | 174 | 週次 | 5 | 2026-11-17 | 2026-11-17 |  | BSD-2-Clause |
 | [Motion Video Kit](entries/other/echris6-motion-video-kit.md) ⚑ | 1,413 | 126 | 月次 | 0 | 2026-10-14 | 2026-11-16 |  | MIT |
 | [LocalThings](entries/other/mbillow-localthings.md) ⚑ | 1,383 | 141 | 毎日 | 100+ | 2026-11-15 | 2026-11-17 |  | MIT |
+| [math](entries/other/pmndrs-math.md) ⚑ | 1,345 | 50 | 週次 | 9 | 2026-11-16 | 2026-11-18 | 2026-11-23 | MIT |
 | [pg-jev](entries/other/realzachi-pg-jev.md) ⚑ | 1,303 | 109 | 月次 | 0 | 2026-10-06 | 2026-11-10 |  | unknown |
 | [Rive C++ runtime](entries/other/rive-app-rive-runtime.md) ⚑ | 1,258 | 133 | 毎日 | 100+ | 2026-11-13 | 2026-11-14 |  | MIT |
 | [One IP](entries/other/zhihui-hu-one-ip.md) ⚑ | 1,235 | 1,388 | 週次 | 18 | 2026-11-12 | 2026-11-12 |  | AGPL-3.0 |
@@ -2656,6 +2657,7 @@
 - [requests-cache](entries/other/requests-cache-requests-cache.md) — unverified / 一次資料で未確認: 技術背景・有効性。
 - [Motion Video Kit](entries/other/echris6-motion-video-kit.md) — unverified / スター1366・フォーク121に対し、コミットは90日で7件（作成2026-09-27、最終push 2026-10-14）で、X投稿経由の注目が先行した可能性がある。作例3本の動画・レンダー結果はリポジトリに含まれず（git tree に mp4 等なし）、成果物品質は第三者が確認できない。効果測定・ベンチマークはなく、効果は作者の自己申告の範囲。HyperFrames でのレンダリング（component-lab.html の npx 手順）は当方では未実行。
 - [LocalThings](entries/other/mbillow-localthings.md) — unverified / 一次資料で未確認: 有効性・実行条件。
+- [math](entries/other/pmndrs-math.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [pg-jev](entries/other/realzachi-pg-jev.md) — unverified / 速度・精度・費用はREADMEの著者測定で、独立再現、別データでの精度、現行料金、ローカル互換サーバーの動作は未確認。最新リリースの公開ページでタグを確認したが、タイムゾーン付きの公開日時は未確認。 GitHub APIでライセンスを確認できていません。
 - [Rive C++ runtime](entries/other/rive-app-rive-runtime.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [One IP](entries/other/zhihui-hu-one-ip.md) — unverified / 結果は第三者サービスに依存し、レート制限やクロスオリジン制約の影響を受ける場合がある。READMEはIP種別と評判スコアを参考情報としている。

@@ -1,5 +1,5 @@
 {
-  "count": 1394,
+  "count": 1395,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -30025,6 +30025,37 @@
       "fetched_at": "2026-11-17T03:14:10.066449+00:00",
       "path": "entries/other/mbillow-localthings.md",
       "summary": "Home Assistantから、SmartThingsアプリに対応するSamsung家電を家庭内ネットワーク経由で操作・監視する。READMEでは洗濯機、乾燥機、冷蔵庫、エアコン、オーブンなどを挙げ、電源、運転モード、開始・一時停止・停止、温度、残り時間、ドア状態、エネルギー使用量など、家電が報告する情報に応じた操作"
+    },
+    {
+      "name": "math",
+      "genre": "other",
+      "url": "https://github.com/pmndrs/math",
+      "repo": "pmndrs/math",
+      "stars": 1345,
+      "forks": 50,
+      "open_issues": 16,
+      "size_kb": 21727,
+      "language": "TypeScript",
+      "created": "2021-10-29",
+      "updated": "2026-11-16",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 9,
+      "commits_90d": 100,
+      "commit_cadence": "weekly",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景・有効性・依存関係・実行条件。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/0xclayo/status/2123016316353155192"
+      ],
+      "fetched_at": "2026-11-18T14:12:40.205749+00:00",
+      "path": "entries/other/pmndrs-math.md",
+      "summary": "ベクトル・クォータニオン・行列、図形と空間クエリ、幾何アルゴリズム、アニメーション用のイージングとスプリング、シード付き乱数、ノイズ、色変換、逆運動学のAPIを提供する。READMEでは、呼び出し側が用意した配列に結果を書き込むデータ指向の関数として説明されている。"
     },
     {
       "repo": "realZachi/pg-jev",
