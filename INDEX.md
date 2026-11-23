@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1498 件 — リポジトリ 1062, リンク集 123, 記事 244, モデル 55, プロンプト 14 / ⚑ 要確認 1223 件
+収録 1499 件 — リポジトリ 1063, リンク集 123, 記事 244, モデル 55, プロンプト 14 / ⚑ 要確認 1224 件
 
-## リポジトリ（1062）
+## リポジトリ（1063）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（268）
+### その他（269）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -110,6 +110,7 @@
 | [微信视频号下载器](entries/other/ltaoo-wx_channels_download.md) ⚑ | 10,534 | 1,748 | 週次 | 5 | 2026-11-12 | 2026-11-13 |  | unknown |
 | [Blackbird](entries/other/antoniaci-blackbird.md) ⚑ | 10,187 | 1,486 | 月次 | 3 | 2026-11-03 | 2026-11-16 |  | unknown |
 | [YARA](entries/other/virustotal-yara.md) ⚑ | 10,043 | 1,605 | 週次 | 16 | 2026-10-27 | 2026-11-16 |  | BSD-3-Clause |
+| [DevilutionX](entries/other/diasurgical-devilutionx.md) ⚑ | 10,027 | 1,104 | 毎日 | 41 | 2026-11-17 | 2026-11-19 | 2026-11-23 | unknown |
 | [mitmproxy2swagger](entries/other/alufers-mitmproxy2swagger.md) ⚑ | 9,730 | 386 | 停滞 | 0 | 2026-11-16 | 2026-11-19 |  | unknown |
 | [open-slide](entries/other/open-slide-open-slide.md) ⚑ | 9,729 | 716 | 毎日 | 33 | 2026-11-09 | 2026-11-10 |  | MIT |
 | [OBLITERATUS](entries/other/elder-plinius-obliteratus.md) | 9,541 | 1,736 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 |  | AGPL-3.0 |
@@ -277,7 +278,7 @@
 | [Hands-On Large Language Models](entries/other/sumanth077-hands-on-large-language-models.md) ⚑ | 4 | 1 | 停滞 | 0 | 2025-05-08 | 2026-11-17 |  | Apache-2.0 |
 | [SoMarkDown Viewer](entries/other/somarkai-somarkdownviewer.md) ⚑ | 2 | 0 | 停滞 | 0 | 2026-09-09 | 2026-11-19 |  | MIT |
 | [Pay Small Check](entries/other/ahmardchain-pay-small-check.md) ⚑ | 1 | 0 | 毎日 | 32 | 2026-11-07 | 2026-11-16 |  | MIT |
-| [somark-py](entries/other/somarkai-somark-py.md) ⚑ | 1 | 1 | 停滞 | 0 | 2026-05-20 | 2026-11-19 | 2026-11-23 | unknown |
+| [somark-py](entries/other/somarkai-somark-py.md) ⚑ | 1 | 1 | 停滞 | 0 | 2026-05-20 | 2026-11-19 |  | unknown |
 | [Knowlective](entries/other/knowlective-org-knowlective.md) | 0 | 0 | 毎日 | 100+ | 2026-11-19 | 2026-11-19 |  | AGPL-3.0 |
 | [LapDraw](entries/other/sachinyadavaug20-lapdraw.md) ⚑ | 0 | 0 | 毎日 | 22 | 2026-11-07 | 2026-11-13 |  | MIT |
 
@@ -2757,6 +2758,7 @@
 - [微信视频号下载器](entries/other/ltaoo-wx_channels_download.md) — unverified / README記載の利用には管理者権限での実行と証明書のインストールが必要です。ライセンスはAPIでunknownと確認されています。 GitHub APIでライセンスを確認できていません。
 - [Blackbird](entries/other/antoniaci-blackbird.md) — unverified / README記載の「低い誤検出率」やAIによるプロファイリングの有効性は独立検証されていない。ライセンスはAPI上unknown。README内のclone先は別リポジトリ p1ngul1n0/blackbird を指しており、対象リポジトリでの実行・依存関係は確認できない。 GitHub APIでライセンスを確認できていません。
 - [YARA](entries/other/virustotal-yara.md) — unverified / プロジェクトはメンテナンスモードです。READMEに記載された具体的なサポート期間や今後の更新方針は確認できません。
+- [DevilutionX](entries/other/diasurgical-devilutionx.md) — unverified / オリジナルゲームのデータの入手条件はREADMEに記載されています。リポジトリのAPI計測ではライセンスがunknownですが、READMEはSustainable Use Licenseと説明しています。 GitHub APIでライセンスを確認できていません。
 - [mitmproxy2swagger](entries/other/alufers-mitmproxy2swagger.md) — unverified / READMEはMITライセンスと記載していますが、取得済みGitHub API情報ではライセンスがunknownです。ライセンスの状態は確認できていません。 GitHub APIでライセンスを確認できていません。
 - [open-slide](entries/other/open-slide-open-slide.md) — unverified / 公開リリース一覧では @open-slide/core@2.3.2 が Latest と表示された一方、取得した /releases/latest はキャッシュから @open-slide/core@2.0.1 に転送されたため、最新タグと公開日時は未確定。CLIやエージェントは実行しておらず、制作時間の短縮、PPTXの再現性・編集互換性、エージェント側の契約・料金は未検証。
 - [Webstudio](entries/other/webstudio-is-webstudio.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。

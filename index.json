@@ -1,5 +1,5 @@
 {
-  "count": 1498,
+  "count": 1499,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -29372,6 +29372,37 @@
       "fetched_at": "2026-11-16T17:11:37.542909+00:00",
       "path": "entries/other/virustotal-yara.md",
       "summary": "テキストまたはバイナリのパターンと真偽式を組み合わせたルールを作成し、ファイルを識別・分類できます。ワイルドカード、大文字小文字を区別しない文字列、正規表現、特殊演算子などを利用できます。出典: https://github.com/VirusTotal/yara"
+    },
+    {
+      "name": "DevilutionX",
+      "genre": "other",
+      "url": "https://github.com/diasurgical/DevilutionX",
+      "repo": "diasurgical/DevilutionX",
+      "license": "unknown",
+      "stars": 10027,
+      "language": "C++",
+      "created": "2018-08-02",
+      "updated": "2026-11-17",
+      "forks": 1104,
+      "open_issues": 496,
+      "commits_30d": 41,
+      "commit_cadence": "daily",
+      "commits_90d": 86,
+      "size_kb": 97241,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "オリジナルゲームのデータの入手条件はREADMEに記載されています。リポジトリのAPI計測ではライセンスがunknownですが、READMEはSustainable Use Licenseと説明しています。 GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/dextune/status/2119376887319539803"
+      ],
+      "fetched_at": "2026-11-19T20:10:44.442378+00:00",
+      "path": "entries/other/diasurgical-devilutionx.md",
+      "summary": "DiabloとHellfireの移植版。READMEによると、ゲームを動かしやすくすることを目指し、エンジン改善、バグ修正、任意の利便機能を提供します。詳細な機能と設定方法はマニュアルに案内されています。"
     },
     {
       "name": "mitmproxy2swagger",
