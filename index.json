@@ -1,5 +1,5 @@
 {
-  "count": 1429,
+  "count": 1430,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -9298,6 +9298,24 @@
       ],
       "fetched_at": "2026-11-10T04:15:56Z",
       "path": "articles/2026-03-22-michael-livshits-claude-code.md"
+    },
+    {
+      "name": "Claude Connectors：Claudeを外部アプリに接続する方法",
+      "genre": "article",
+      "url": "https://ruben.substack.com/p/claude-connectors",
+      "published": "2026-05-13",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "記事中の「200以上」というコネクター数、個別アプリの利用例や効果、独自コネクターの構築所要時間は記事の記述であり、独立確認していません。利用できるコネクターやプラン条件は変わる可能性があります。Anthropicの案内では、リモートコネクターは有料プラン向けで、カスタムコネクターはAnthropic未検証のサービスにも接続できるため、接続先と権限の確認が必要です。",
+      "type": "article",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/okapi_fukugyo/status/2119299912882123032"
+      ],
+      "fetched_at": "2026-11-18T21:12:02.365005+00:00",
+      "path": "articles/2026-05-13-author-claude-connectors-claude.md"
     },
     {
       "name": "Claude Design.",
