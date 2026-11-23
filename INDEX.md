@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1509 件 — リポジトリ 1069, リンク集 124, 記事 247, モデル 55, プロンプト 14 / ⚑ 要確認 1233 件
+収録 1510 件 — リポジトリ 1070, リンク集 124, 記事 247, モデル 55, プロンプト 14 / ⚑ 要確認 1234 件
 
-## リポジトリ（1069）
+## リポジトリ（1070）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（271）
+### その他（272）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Generative AI for Beginners](entries/other/microsoft-generative-ai-for-beginners.md) ⚑ | 123,543 | 66,422 | 毎日 | 66 | 2026-11-12 | 2026-11-15 |  | MIT |
 | [Godot Engine](entries/other/godotengine-godot.md) ⚑ | 120,279 | 27,542 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 |  | MIT |
 | [Immich](entries/other/immich-app-immich.md) ⚑ | 119,382 | 7,632 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 |  | AGPL-3.0 |
-| [Sherlock](entries/other/sherlock-project-sherlock.md) ⚑ | 114,599 | 13,160 | 月次 | 1 | 2026-11-19 | 2026-11-20 | 2026-11-23 | MIT |
+| [Sherlock](entries/other/sherlock-project-sherlock.md) ⚑ | 114,599 | 13,160 | 月次 | 1 | 2026-11-19 | 2026-11-20 |  | MIT |
 | [Build a Large Language Model (From Scratch)](entries/other/rasbt-llms-from-scratch.md) ⚑ | 108,297 | 16,745 | 週次 | 13 | 2026-11-09 | 2026-11-12 |  | unknown |
 | [Ghidra](entries/other/nationalsecurityagency-ghidra.md) ⚑ | 100,613 | 11,442 | 毎日 | 100+ | 2026-11-18 | 2026-11-19 |  | Apache-2.0 |
 | [OpenCut](entries/other/opencut-app-opencut.md) ⚑ | 98,341 | 9,823 | 停滞 | 0 | 2026-09-24 | 2026-11-14 |  | MIT |
@@ -259,6 +259,7 @@
 | [DeepSearch](entries/other/techenthusiast167-deepsearch.md) ⚑ | 156 | 24 | 停滞 | 0 | 2025-12-24 | 2026-11-19 |  | unknown |
 | [jev-guard](entries/other/leepokai-jev-guard.md) ⚑ | 150 | 24 | 月次 | 0 | 2026-10-02 | 2026-11-09 |  | MIT |
 | [Jev Plays Pokémon Red](entries/other/christianmat-jev-pokemon.md) ⚑ | 134 | 11 | 月次 | 0 | 2026-09-28 | 2026-11-16 |  | GPL-2.0 |
+| [OpenWorld RPG](entries/other/sihanxu-openworld.md) ⚑ | 131 | 13 | 毎日 | 100+ | 2026-11-19 | 2026-11-20 | 2026-11-23 | unknown |
 | [muse-grok-x-search](entries/other/kgmkm-muse-grok-x-search.md) ⚑ | 108 | 17 | 月次 | 2 | 2026-11-03 | 2026-11-15 |  | MIT |
 | [myradio](entries/other/monoradio102-myradio.md) ⚑ | 107 | 15 | 毎日 | 37 | 2026-11-13 | 2026-11-14 |  | unknown |
 | [pixi-ease](entries/other/davidfig-pixi-ease.md) | 105 | 11 | 週次 | 6 | 2026-11-06 | 2026-11-18 |  | MIT |
@@ -2913,6 +2914,7 @@
 - [DeepSearch](entries/other/techenthusiast167-deepsearch.md) — unverified / READMEから確認できるのは検索URLの生成・保存とブラウザー起動機能です。広範な情報収集やリスク発見などの効果は独立に確認されていません。スクリプトの配布先はREADME記載のGistで、今回その内容は確認していません。 GitHub APIでライセンスを確認できていません。
 - [jev-guard](entries/other/leepokai-jev-guard.md) — unverified / 料金『1,000チェックあたり約4セント』は README の想定（1コール約1kトークン）と Vercel AI Gateway の $0.042/1M input 単価からの試算で、実測の請求額ではない。APIキーは必須（キー未設定時は明示的にエラー）だが、無料枠の有無は一次情報で確認できない。有効性は開発者自身の計測（662スキル走査、ライブAPIでのClaude Code/OpenCode検証）のみで、第三者評価は無い。既定は fail-open（API不達なら許可）で、フックを通らない経路や設定ミスでは回避され得る。README 自身が『guardrail, not a sandbox』と明記している。
 - [Jev Plays Pokémon Red](entries/other/christianmat-jev-pokemon.md) — unverified / クリア結果、所要時間、費用は作者の報告。独立再現、現行の Gateway 料金、別環境での動作は未確認。GitHub の公開 Releases ページにリリースは掲載されていなかった。
+- [OpenWorld RPG](entries/other/sihanxu-openworld.md) — unverified / READMEにライセンスの説明はあるものの、取得済みの情報ではライセンスを確認できない。 GitHub APIでライセンスを確認できていません。
 - [muse-grok-x-search](entries/other/kgmkm-muse-grok-x-search.md) — unverified / Grok Buildはベータ版で、利用可能なプランは変更される可能性がある。必要なプランや利用条件はセットアップ時に公式情報で確認すること。
 - [myradio](entries/other/monoradio102-myradio.md) — unverified / GitHub APIでライセンスを確認できていません。
 - [dsh-pet-live2d](entries/other/a8chann-dsh-pet-live2d.md) — unverified / APIのlicense値はunknown。READMEのバッジにはMIT + CC BY-NC-SA 4.0とあるが、ライセンスの適用範囲は添付READMEだけでは確認できない。 GitHub APIでライセンスを確認できていません。

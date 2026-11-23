@@ -1,5 +1,5 @@
 {
-  "count": 1509,
+  "count": 1510,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -34260,6 +34260,37 @@
       "last_release_at": "",
       "path": "entries/other/christianmat-jev-pokemon.md",
       "summary": "Game Boy エミュレーターの RAM からマップ、手持ち、戦闘、表示テキストを取得する。行動候補にタイプ相性やダメージ見積もりを添えて Jev に渡し、選ばれた行動をボタン入力に変換する。"
+    },
+    {
+      "name": "OpenWorld RPG",
+      "genre": "other",
+      "url": "https://github.com/SihanXU/openworld",
+      "repo": "SihanXU/openworld",
+      "license": "unknown",
+      "stars": 131,
+      "language": "TypeScript",
+      "created": "2026-09-30",
+      "updated": "2026-11-19",
+      "forks": 13,
+      "open_issues": 6,
+      "commits_30d": 100,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 690176,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEにライセンスの説明はあるものの、取得済みの情報ではライセンスを確認できない。 GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/dextune/status/2119391988822753287"
+      ],
+      "fetched_at": "2026-11-20T00:13:40.445816+00:00",
+      "path": "entries/other/sihanxu-openworld.md",
+      "summary": "ブラウザーで遊べるピクセルアートのオープンワールドRPG。千以上のマップ、クエスト、戦闘、クラフト、農業、建築などを備えるとREADMEに記載。TypeScript製の決定論的なエンジンと、ブラウザーまたはデスクトップで使えるエディターも含む。AIルールサービスは任意で、既存ルールのない行動に対するルール案をサンドボッ"
     },
     {
       "name": "muse-grok-x-search",
