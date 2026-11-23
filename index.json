@@ -1,5 +1,5 @@
 {
-  "count": 1507,
+  "count": 1508,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -26096,6 +26096,37 @@
       "fetched_at": "2026-11-19T08:09:14.680649+00:00",
       "path": "entries/model-serving/sineld-swiftpulse.md",
       "summary": "サーバーのライブメトリクスをダッシュボードに表示し、SSHターミナル、SFTPファイルブラウザー、ポート転送、Dockerパネル、再利用可能なスニペットを提供する。AIエージェント向けMCPサーバーも含み、変更ごとに利用者の承認を求めるとREADMEに記載されている。"
+    },
+    {
+      "name": "NInfer",
+      "genre": "model-serving",
+      "url": "https://github.com/andrewleech/ninfer-v100",
+      "repo": "andrewleech/ninfer-v100",
+      "license": "Apache-2.0",
+      "stars": 1,
+      "language": "C++",
+      "created": "2026-09-02",
+      "updated": "2026-11-08",
+      "forks": 0,
+      "open_issues": 0,
+      "commits_30d": 1,
+      "commit_cadence": "monthly",
+      "commits_90d": 100,
+      "size_kb": 19500,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEの実測・性能値は配布者の報告であり、独立に検証していない。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/ai_hakase_/status/2119384955608351017"
+      ],
+      "fetched_at": "2026-11-19T23:10:36.282712+00:00",
+      "path": "entries/model-serving/andrewleech-ninfer-v100.md",
+      "summary": "単一のNVIDIA GeForce RTX 5090またはTesla V100上で、明示的に登録されたQwenチェックポイントを推論するC++/CUDAエンジン。テキスト・画像・動画を含むプロンプトに対応し、ローカルCLIまたはOpenAI/Anthropic互換HTTP APIから利用できる。ランタイムは単一GPU・"
     },
     {
       "type": "model",

@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1507 件 — リポジトリ 1067, リンク集 124, 記事 247, モデル 55, プロンプト 14 / ⚑ 要確認 1231 件
+収録 1508 件 — リポジトリ 1068, リンク集 124, 記事 247, モデル 55, プロンプト 14 / ⚑ 要確認 1232 件
 
-## リポジトリ（1067）
+## リポジトリ（1068）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -803,7 +803,7 @@
 | [3dmodel](entries/3d-motion/fletcherholt-3dmodel-skill.md) ⚑ | 7 | 0 | 停滞 | 0 | 2026-06-16 | 2026-11-16 |  | unknown |
 | [Lida-V/LidaAngelToon](entries/3d-motion/lida-v-lidaangeltoon.md) ⚑ | 7 | 0 | 月次 | 0 | 2026-10-17 | 2026-11-16 |  | NOASSERTION |
 
-### モデル推論・配信（50）
+### モデル推論・配信（51）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -857,6 +857,7 @@
 | [ausboss/ComfyUI-AusBoss-Model-Downloader](entries/model-serving/ausboss-comfyui-ausboss-model-downloader.md) ⚑ | 9 | 1 | 週次 | 9 | 2026-11-15 | 2026-11-16 |  | MIT |
 | [Qwen3.8 Weight-Space Programming (Calmer V2)](entries/model-serving/xananthium-qwen3.8-weight-space-programming.md) ⚑ | 4 | 0 | 月次 | 3 | 2026-11-07 | 2026-11-18 |  | Apache-2.0 |
 | [SwiftPulse](entries/model-serving/sineld-swiftpulse.md) ⚑ | 2 | 0 | 週次 | 4 | 2026-11-07 | 2026-11-19 |  | MIT |
+| [NInfer](entries/model-serving/andrewleech-ninfer-v100.md) ⚑ | 1 | 0 | 月次 | 1 | 2026-11-08 | 2026-11-19 | 2026-11-23 | Apache-2.0 |
 
 ### 音声・TTS（44）
 
@@ -2671,6 +2672,7 @@
 - [ausboss/ComfyUI-AusBoss-Model-Downloader](entries/model-serving/ausboss-comfyui-ausboss-model-downloader.md) — unverified / 既存ファイルは上書きせず再ハッシュもしないため完全性の証明にはならない。取得したモデルは実行しない設計だが配布元・トークン・重みの権利確認は必要。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Qwen3.8 Weight-Space Programming (Calmer V2)](entries/model-serving/xananthium-qwen3.8-weight-space-programming.md) — unverified / 一次資料で未確認: 技術背景。
 - [SwiftPulse](entries/model-serving/sineld-swiftpulse.md) — unverified / 一次資料で未確認: 有効性。
+- [NInfer](entries/model-serving/andrewleech-ninfer-v100.md) — unverified / READMEの実測・性能値は配布者の報告であり、独立に検証していない。
 - [ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF](models/model-serving/ista-daslab-qwen3.8-flash-next-gsq-rco-gguf.md) — unverified / Unsloth版との性能比較は個人の感想で独立測定なし。量子化方式と条件の違いをファイルサイズだけで評価しない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [LoopVQ: Sub 1-bit KV Cache Quantization for Looped Transformers](articles/2026-11-03-minsoo-cheong-sungjoo-yoo-loopvq-sub-1-bit-kv-cache-quantization-for-looped-transformers.md) — unverified / 評価値は著者の報告。独立再現、評価対象外のモデルや実行環境への一般化、依存コンポーネントとモデル重みの個別利用条件は未検証。
 - [NVIDIA API Catalog / NIM無料推論エンドポイント](links/model-serving/https-build.nvidia.com.md) — unverified / 無料は試用エンドポイントの提供条件であり無制限・恒久無料ではない。カード不要とレート制限は未確認。API呼び出しはしていない。 当方でインストール・推論・生成・ベンチ再現はしていない。
