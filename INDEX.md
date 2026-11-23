@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1559 件 — リポジトリ 1108, リンク集 125, 記事 257, モデル 55, プロンプト 14 / ⚑ 要確認 1275 件
+収録 1560 件 — リポジトリ 1109, リンク集 125, 記事 257, モデル 55, プロンプト 14 / ⚑ 要確認 1276 件
 
-## リポジトリ（1108）
+## リポジトリ（1109）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（286）
+### その他（287）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -202,6 +202,7 @@
 | [Quiet.md](entries/other/s1dashu-quiet-md.md) ⚑ | 1,740 | 157 | 毎日 | 100+ | 2026-11-13 | 2026-11-13 |  | MIT |
 | [Google Pro Helper](entries/other/mmdoctor-google-pro-helper.md) ⚑ | 1,724 | 584 | 週次 | 9 | 2026-11-05 | 2026-11-11 |  | unknown |
 | [Youwee](entries/other/vanloctech-youwee.md) ⚑ | 1,639 | 236 | 週次 | 17 | 2026-11-12 | 2026-11-13 |  | MIT |
+| [自媒体工作台 (DSH Media Desk)](entries/other/woniuniuniu-dsh-media-desk.md) ⚑ | 1,637 | 192 | 毎日 | 43 | 2026-11-18 | 2026-11-22 | 2026-11-23 | MIT |
 | [Shifty](entries/other/jeremyckahn-shifty.md) ⚑ | 1,569 | 88 | 週次 | 8 | 2026-11-14 | 2026-11-15 |  | MIT |
 | [Second Brain OS](entries/other/undefined-ui-second-brain-os.md) ⚑ | 1,549 | 265 | 週次 | 8 | 2026-11-03 | 2026-11-10 |  | MIT |
 | [LUME](entries/other/lume-lume.md) ⚑ | 1,540 | 68 | 停滞 | 0 | 2026-09-08 | 2026-11-15 |  | MIT |
@@ -878,7 +879,7 @@
 | [GLM-5.3-Flash DGX Spark 2台 配備レシピ](entries/model-serving/miaai-lab-glm-5.3-flash-dgx-sparks.md) ⚑ | 132 | 31 | 毎日 | 89 | 2026-11-11 | 2026-11-16 |  | Apache-2.0 |
 | [tqLLM](entries/model-serving/turbo-tan-tqllm.md) ⚑ | 131 | 17 | 毎日 | 46 | 2026-11-16 | 2026-11-17 |  | Apache-2.0 |
 | [bloomery](entries/model-serving/midagedev-bloomery.md) | 78 | 7 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 |  | MIT |
-| [Colab T4 Local OpenAI API Replication Package](entries/model-serving/mingzi206-gh-colab-t4-local-api.md) ⚑ | 51 | 16 | 月次 | 2 | 2026-11-08 | 2026-11-22 | 2026-11-23 | unknown |
+| [Colab T4 Local OpenAI API Replication Package](entries/model-serving/mingzi206-gh-colab-t4-local-api.md) ⚑ | 51 | 16 | 月次 | 2 | 2026-11-08 | 2026-11-22 |  | unknown |
 | [qwen-warp](entries/model-serving/tuan3w-qwen-warp.md) ⚑ | 42 | 6 | 毎日 | 100+ | 2026-11-15 | 2026-11-16 |  | MIT |
 | [Volta sPLIt: DeepSeek-V4.1-Flash-1017 on eight V100-SXM2 32 GB cards](entries/model-serving/proprietarylegal-volta-split-deepseek-v4.1-flash-1017-8xv100-sxm2-pp2xtp4.md) ⚑ | 36 | 4 | 週次 | 14 | 2026-11-19 | 2026-11-19 |  | Apache-2.0 |
 | [nf12](entries/model-serving/dphnai-nf12.md) ⚑ | 32 | 3 | 週次 | 12 | 2026-11-14 | 2026-11-16 |  | Apache-2.0 |
@@ -2933,6 +2934,7 @@
 - [Quiet.md](entries/other/s1dashu-quiet-md.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Google Pro Helper](entries/other/mmdoctor-google-pro-helper.md) — malicious, unverified / README describes bulk account tasks, automated sign-in using passwords and 2FA, payment-card enrollment, and attempts to obtain extended subscription benefits through stacked offers. These are abuse-enabling activities; do not treat the author’s reported results as independently verified. The README documents account farming and attempts to stack Google AI Pro offer periods. It does not establish that the offers, pricing, or resulting benefits will work as described; actual charges and eligibility are unverified. The workflow handles account credentials, 2FA secrets, payment details, and browser data. GitHub APIでライセンスを確認できていません。
 - [Youwee](entries/other/vanloctech-youwee.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
+- [自媒体工作台 (DSH Media Desk)](entries/other/woniuniuniu-dsh-media-desk.md) — unverified / 日本語での生成対応はREADMEで確認できないため不明。作者の説明に基づく機能紹介で、独立した実機検証はしていない。
 - [Shifty](entries/other/jeremyckahn-shifty.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Second Brain OS](entries/other/undefined-ui-second-brain-os.md) — unverified / 検索精度や学習効果の比較実測、プラグインとスクリプトの実行互換性、Claude Codeの利用料金、最新リリースのタグと公開日は未確認。
 - [LUME](entries/other/lume-lume.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。

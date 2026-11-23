@@ -1,5 +1,5 @@
 {
-  "count": 1559,
+  "count": 1560,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -33189,6 +33189,37 @@
       "fetched_at": "2026-11-13T06:24:58.037300+00:00",
       "path": "entries/other/vanloctech-youwee.md",
       "summary": "YouTube、TikTokなど1,800以上のサイトからの動画ダウンロード、字幕・音声処理、プレイリストや一括処理、動画情報の取得を行うGUI。READMEでは、Gemini・OpenAI・Ollamaによる動画要約と、自然言語でのカット・変換・リサイズ・音声抽出も機能として案内している。出典: https://gi"
+    },
+    {
+      "name": "自媒体工作台 (DSH Media Desk)",
+      "genre": "other",
+      "url": "https://github.com/woniuniuniu/dsh-media-desk",
+      "repo": "woniuniuniu/dsh-media-desk",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "日本語での生成対応はREADMEで確認できないため不明。作者の説明に基づく機能紹介で、独立した実機検証はしていない。",
+      "stars": 1637,
+      "forks": 192,
+      "open_issues": 7,
+      "size_kb": 8561,
+      "language": "JavaScript",
+      "created": "2026-11-02",
+      "updated": "2026-11-18",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 43,
+      "commits_90d": 43,
+      "commit_cadence": "daily",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/NFT_Chen/status/2119436949002109200"
+      ],
+      "fetched_at": "2026-11-22T13:14:38.117173+00:00",
+      "path": "entries/other/woniuniuniu-dsh-media-desk.md",
+      "summary": "DeepSeek Harnessのサイドバーで使うコンテンツ制作ワークスペース。アイデアから口播スクリプト、タイトル、動画カバー、挿絵、6コマ分镜を作成し、会話で編集できます。コンテンツの予定管理、投稿後のデータ振り返り、スタイル設定にも対応するとREADMEは説明しています。画像生成には対応する画像APIまたはDee"
     },
     {
       "name": "Shifty",
