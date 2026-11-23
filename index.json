@@ -1,5 +1,5 @@
 {
-  "count": 1473,
+  "count": 1474,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -10029,6 +10029,24 @@
       ],
       "fetched_at": "2026-11-10T11:24:02Z",
       "path": "articles/2026-03-24-author-harness-design-for-long-running-application-development.md"
+    },
+    {
+      "name": "How a deepfake of Marco Rubio exposed the alarming ease of AI voice scams",
+      "genre": "article",
+      "url": "https://fortune.com/2025/07/10/deepfake-marco-rubio-ai-voice-scams/",
+      "published": "2025-07-10",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "対策の有効性は記事内で紹介された専門家の説明で、個別の対策の実測結果や適用条件はこの記事では検証されていない。",
+      "type": "article",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/arnaudmercier/status/2123364964979065024"
+      ],
+      "fetched_at": "2026-11-19T12:10:57.475184+00:00",
+      "path": "articles/2025-07-10-author-how-a-deepfake-of-marco-rubio-exposed-the-alarming-ease-of-ai-voice-scams.md"
     },
     {
       "name": "How to set up Claude",

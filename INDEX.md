@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1473 件 — リポジトリ 1042, リンク集 122, 記事 240, モデル 55, プロンプト 14 / ⚑ 要確認 1201 件
+収録 1474 件 — リポジトリ 1042, リンク集 122, 記事 241, モデル 55, プロンプト 14 / ⚑ 要確認 1202 件
 
 ## リポジトリ（1042）
 
@@ -132,7 +132,7 @@
 | [Sandstorm（アイドル状態のエージェントsandboxをスナップショットして1台に数千個載せる）](entries/other/deeplethe-sandstorm.md) | 6,099 | 526 | 毎日 | 100+ | 2026-11-01 | 2026-11-16 |  | Apache-2.0 |
 | [Rapier](entries/other/dimforge-rapier.md) ⚑ | 6,085 | 441 | 月次 | 0 | 2026-11-01 | 2026-11-16 |  | Apache-2.0 |
 | [微信视频号下载工具](entries/other/qiye45-wechatvideodownload.md) ⚑ | 6,054 | 578 | 月次 | 0 | 2026-10-05 | 2026-11-13 |  | unknown |
-| [Geyser](entries/other/geysermc-geyser.md) ⚑ | 5,973 | 963 | 毎日 | 52 | 2026-11-18 | 2026-11-19 | 2026-11-23 | MIT |
+| [Geyser](entries/other/geysermc-geyser.md) ⚑ | 5,973 | 963 | 毎日 | 52 | 2026-11-18 | 2026-11-19 |  | MIT |
 | [Sodium](entries/other/caffeinemc-sodium.md) ⚑ | 5,850 | 991 | 週次 | 16 | 2026-11-14 | 2026-11-19 |  | unknown |
 | [Auto-Editor](entries/other/wyattblue-auto-editor.md) ⚑ | 5,824 | 725 | 毎日 | 100+ | 2026-11-08 | 2026-11-09 |  | Unlicense |
 | [gifski](entries/other/imageoptim-gifski.md) ⚑ | 5,711 | 183 | 停滞 | 0 | 2026-06-17 | 2026-11-16 |  | unknown |
@@ -1620,9 +1620,9 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（240）
+## 記事（241）
 
-### 記事（175）
+### 記事（176）
 
 - **[$0のデジタル参謀長で月$80,000の契約候補を作ったというX投稿（動画付き）](articles/2026-10-22-bober_smart-0-80-000-x.md)** ⚑  @Bober_smart
 - **[1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md)** ⚑  @mukadeshinigami（mukade死神）
@@ -1698,6 +1698,7 @@
 - **[Grok Botを指揮者として使う実践記事](articles/2026-10-15-author-grok-bot.md)** ⚑
 - **[H3 Imageの高解像度生成と縮小手順](articles/2026-11-12-aiwarper-h3-image.md)** ⚑  AIWarper
 - **[Harness design for long-running application development](articles/2026-03-24-author-harness-design-for-long-running-application-development.md)** ⚑
+- **[How a deepfake of Marco Rubio exposed the alarming ease of AI voice scams](articles/2025-07-10-author-how-a-deepfake-of-marco-rubio-exposed-the-alarming-ease-of-ai-voice-scams.md)** ⚑
 - **[How to set up Claude](articles/2026-09-30-author-how-to-set-up-claude.md)** ⚑
 - **[How we’re training a Figma-fluent editing model](articles/2026-10-29-author-how-we-re-training-a-figma-fluent-editing-model.md)** ⚑
 - **[Hundreds of Mundane AI Apps Are Hiding Sexually Abusive Deepfake Features](articles/2026-11-02-author-hundreds-of-mundane-ai-apps-are-hiding-sexually-abusive-deepfake-features.md)**
@@ -2170,6 +2171,7 @@
 - [Grok Botを指揮者として使う実践記事](articles/2026-10-15-author-grok-bot.md) — unverified / 連携手順や約3分で下書きが完成した例、使用量・料金の記述は記事執筆者による報告で、独立した再現確認ではない。料金などの条件は記事内で確認できた時点の情報。
 - [H3 Imageの高解像度生成と縮小手順](articles/2026-11-12-aiwarper-h3-image.md) — unverified / 投稿者の実践メモです。効果・原因・再現条件は独立した資料では未確認です。
 - [Harness design for long-running application development](articles/2026-03-24-author-harness-design-for-long-running-application-development.md) — unverified / 生成アプリの独立再現、構成要素ごとの寄与、別タスクへの一般化、実験用ハーネスのコード配布・再利用条件は未確認。
+- [How a deepfake of Marco Rubio exposed the alarming ease of AI voice scams](articles/2025-07-10-author-how-a-deepfake-of-marco-rubio-exposed-the-alarming-ease-of-ai-voice-scams.md) — unverified / 対策の有効性は記事内で紹介された専門家の説明で、個別の対策の実測結果や適用条件はこの記事では検証されていない。
 - [How to set up Claude](articles/2026-09-30-author-how-to-set-up-claude.md) — low-quality, unverified / 公式ヘルプセンターはTeamプランに最低5人を要すると説明しているが、記事は2人と記載。また、個人アカウントよりTeamが安全という主張を裏付ける一次資料は確認できなかった。 Teamプランは最低5人必要で、個人利用向けではないというAnthropicの案内があり、記事中の「2人以上」という説明と異なる。また、記事の「Teamプランの方が安全」という評価や、機能・価格・モデル情報の一部は公式資料で確認できていないため、最新条件を公式ページで確認する必要がある。
 - [How we’re training a Figma-fluent editing model](articles/2026-10-29-author-how-we-re-training-a-figma-fluent-editing-model.md) — unverified / 比較結果はFigmaの社内評価で、独立した再現性は未確認。学習データに含まれる顧客コンテンツの具体的な範囲と利用条件、学習済みモデルやデータの入手・再利用条件、モデル単体の速度と費用は未確認。
 - [I can be you.](articles/2026-05-03-author-i-can-be-you.md) — unverified / 記事内の「AIが本人のように書く」などの効果は著者の説明・例であり、独立した性能検証ではありません。
