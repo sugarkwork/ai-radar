@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1376 件 — リポジトリ 972, リンク集 120, 記事 217, モデル 53, プロンプト 14 / ⚑ 要確認 1116 件
+収録 1377 件 — リポジトリ 973, リンク集 120, 記事 217, モデル 53, プロンプト 14 / ⚑ 要確認 1117 件
 
-## リポジトリ（972）
+## リポジトリ（973）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -820,7 +820,7 @@
 | [ausboss/ComfyUI-AusBoss-Model-Downloader](entries/model-serving/ausboss-comfyui-ausboss-model-downloader.md) ⚑ | 9 | 1 | 週次 | 9 | 2026-11-15 | 2026-11-16 | 2026-11-22 | MIT |
 | [Qwen3.8 Weight-Space Programming (Calmer V2)](entries/model-serving/xananthium-qwen3.8-weight-space-programming.md) ⚑ | 4 | 0 | 月次 | 3 | 2026-11-07 | 2026-11-18 | 2026-11-23 | Apache-2.0 |
 
-### MCPサーバー（37）
+### MCPサーバー（38）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -828,6 +828,7 @@
 | [shadcn/ui](entries/mcp-server/shadcn-ui-ui.md) ⚑ | 128,336 | 11,403 | 毎日 | 70 | 2026-11-13 | 2026-11-16 | 2026-11-22 | MIT |
 | [Scrapling](entries/mcp-server/d4vinci-scrapling.md) | 103,622 | 10,812 | 毎日 | 52 | 2026-11-14 | 2026-11-16 | 2026-11-22 | BSD-3-Clause |
 | [Home Assistant Core](entries/mcp-server/home-assistant-core.md) ⚑ | 92,295 | 39,346 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [Model Context Protocol servers](entries/mcp-server/modelcontextprotocol-servers.md) ⚑ | 92,077 | 11,978 | 毎日 | 100+ | 2026-11-18 | 2026-11-18 | 2026-11-23 | unknown |
 | [Penpot](entries/mcp-server/penpot-penpot.md) ⚑ | 62,429 | 4,424 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MPL-2.0 |
 | [Chrome DevTools for agents](entries/mcp-server/chromedevtools-chrome-devtools-mcp.md) ⚑ | 57,632 | 4,849 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
 | [Playwright MCP](entries/mcp-server/microsoft-playwright-mcp.md) | 39,745 | 3,448 | 毎日 | 30 | 2026-11-16 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
@@ -2413,6 +2414,7 @@
 - [REA](entries/mcp-server/morluto-rea.md) — unverified / GitHub API の数値と README/手順書の記述は 2026-11-09 時点で確認済み。未検証なのは (1) Ghidra/Hopper を実際に起動した動作確認、(2) README showcase の再構成数値（3,205 ケース等）で、効果は著者側の主張にとどまる。Hopper は商用（デモは制限付き）、Windows の Ghidra 対応は実験的 P0 で読み取り専用。
 - [shadcn/ui](entries/mcp-server/shadcn-ui-ui.md) — unverified / MCP の接続とコンポーネント追加は公式手順で確認した。実行時の互換性、生成結果の品質、作業時間の短縮効果は実測していない。最新リリースの公開日時は未確認。
 - [Home Assistant Core](entries/mcp-server/home-assistant-core.md) — unverified / 最新リリースのタグと公開日時、候補投稿に登場する自作 Grok Bot との互換性、実機での接続と操作は未確認。コミット件数は両期間とも取得上限の100件に達している。
+- [Model Context Protocol servers](entries/mcp-server/modelcontextprotocol-servers.md) — unverified / READMEによると、これらは教育・開発向けのリファレンス実装で、本番環境向けではありません。利用時は用途に応じてセキュリティ要件と保護策を評価してください。 GitHub APIでライセンスを確認できていません。
 - [Penpot](entries/mcp-server/penpot-penpot.md) — unverified / MCPの接続、編集結果、生成コードの忠実度や往復変換で保持される範囲は独立に実測していない。最新リリースのタグは公開ページで確認したが、年とタイムゾーンを含む公開日時は未確認。
 - [Chrome DevTools for agents](entries/mcp-server/chromedevtools-chrome-devtools-mcp.md) — unverified / 使用統計は既定で有効。MCPクライアントはブラウザー内の情報を閲覧・変更できる。公式サポート対象はGoogle ChromeとChrome for Testing。
 - [changedetection.io](entries/mcp-server/dgtlmoon-changedetection.io.md) — unverified / 公開資料の記載を確認した。最新リリースの公開日時は年とタイムゾーンまで確認できていない。監視の検出精度・通知遅延、MCP接続の実動作、発見投稿のGrok Botとの連携は未検証。
