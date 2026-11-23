@@ -1,5 +1,5 @@
 {
-  "count": 1547,
+  "count": 1548,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -722,6 +722,37 @@
       "last_release_at": "",
       "path": "entries/3d-motion/nv-tlabs-kimodo.md",
       "summary": "テキストから人物やヒューマノイドの骨格モーションを生成し、複数の指示をつないで一連の動きにする。"
+    },
+    {
+      "name": "Spark",
+      "genre": "3d-motion",
+      "url": "https://github.com/sparkjsdev/spark",
+      "repo": "sparkjsdev/spark",
+      "license": "MIT",
+      "stars": 3938,
+      "language": "TypeScript",
+      "created": "2025-05-23",
+      "updated": "2026-11-19",
+      "forks": 595,
+      "open_issues": 115,
+      "commits_30d": 8,
+      "commit_cadence": "weekly",
+      "commits_90d": 100,
+      "size_kb": 105010,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景・依存関係。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/0xCarrera/status/2123762450935771202"
+      ],
+      "fetched_at": "2026-11-22T04:46:42.393928+00:00",
+      "path": "entries/3d-motion/sparkjsdev-spark.md",
+      "summary": "READMEによると、THREE.jsの描画パイプラインに統合し、スプラットとメッシュを組み合わせて描画できます。PLY、SPZ、SPLAT、KSPLAT、SOGなど主要形式の読込み、複数スプラットのソート描画、複数視点の同時描画、スプラットの変形・編集・アニメーション、色編集や変位、スケルタルアニメーション、GPU上"
     },
     {
       "repo": "arjun988/blender-skills",

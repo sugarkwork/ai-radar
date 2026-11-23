@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1547 件 — リポジトリ 1096, リンク集 125, 記事 257, モデル 55, プロンプト 14 / ⚑ 要確認 1266 件
+収録 1548 件 — リポジトリ 1097, リンク集 125, 記事 257, モデル 55, プロンプト 14 / ⚑ 要確認 1267 件
 
-## リポジトリ（1096）
+## リポジトリ（1097）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -731,7 +731,7 @@
 | [BennyDaBall930/comfyui_hyperflow_int8_nodes](entries/video-gen/bennydaball930-comfyui_hyperflow_int8_nodes.md) ⚑ | 3 | 0 | 週次 | 10 | 2026-11-09 | 2026-11-09 |  | GPL-3.0 |
 | [web-reels](entries/video-gen/rabin-a-web-reels.md) ⚑ | 0 | 0 | 週次 | 5 | 2026-11-08 | 2026-11-18 |  | unknown |
 
-### 3D・モーション（87）
+### 3D・モーション（88）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -757,6 +757,7 @@
 | [Text-to-Lottie](entries/3d-motion/diffusionstudio-lottie.md) ⚑ | 5,763 | 304 | 停滞 | 0 | 2026-07-25 | 2026-11-16 |  | MIT |
 | [Tweakpane](entries/3d-motion/cocopon-tweakpane.md) ⚑ | 4,699 | 140 | 停滞 | 0 | 2026-03-15 | 2026-11-16 |  | MIT |
 | [Kimodo](entries/3d-motion/nv-tlabs-kimodo.md) ⚑ | 4,241 | 473 | 月次 | 0 | 2026-10-15 | 2026-11-16 |  | Apache-2.0 |
+| [Spark](entries/3d-motion/sparkjsdev-spark.md) ⚑ | 3,938 | 595 | 週次 | 8 | 2026-11-19 | 2026-11-22 | 2026-11-23 | MIT |
 | [Blender Skills（94 specialist Blender skills）](entries/3d-motion/arjun988-blender-skills.md) ⚑ | 3,926 | 350 | 月次 | 1 | 2026-11-06 | 2026-11-16 |  | MIT |
 | [floorplan-3d](entries/3d-motion/wy51ai-floorplan-3d.md) | 3,766 | 790 | 月次 | 0 | 2026-10-02 | 2026-11-16 |  | MIT |
 | [facebookresearch/sam-3d-body](entries/3d-motion/facebookresearch-sam-3d-body.md) ⚑ | 3,734 | 443 | 停滞 | 0 | 2026-02-19 | 2026-11-16 |  | NOASSERTION |
@@ -2008,6 +2009,7 @@
 - [Text-to-Lottie](entries/3d-motion/diffusionstudio-lottie.md) — unverified / 導入・生成・プレビューは未実行。出力品質、複雑なシーンや各再生環境での互換性、参照動画からの再現、対応ランタイムの最低バージョン、エージェント側の料金は未検証。
 - [Tweakpane](entries/3d-motion/cocopon-tweakpane.md) — unverified / 機能と手順は公式の記述とサンプルで確認した。実行検証、制作時間への効果、特定の描画ライブラリとの互換性、最新リリースの公開日時は未確認。
 - [Kimodo](entries/3d-motion/nv-tlabs-kimodo.md) — unverified / コードはApache-2.0、重みはモデル別。SOMA-RP-v1.2はNVIDIA Open Model Licenseで商用利用可能、SMPLX-RP-v1はNVIDIA R&D Model License。Scenarioは別サービスで無料プランの生成物は個人・評価用途に限る。実行・生成品質・Scenario操作は未検証。
+- [Spark](entries/3d-motion/sparkjsdev-spark.md) — unverified / 一次資料で未確認: 技術背景・依存関係。
 - [Blender Skills（94 specialist Blender skills）](entries/3d-motion/arjun988-blender-skills.md) — unverified / 効果の定量評価・ベンチマークは無く、README の設計方針と投稿者のデモ動画だけが根拠。README は「Marketplace listing is currently under review by Anthropic」と記載しており、Claude Code プラグインマーケット未登録（GitHub から手動コピー）。30日コミットは1件で開発は低頻度（最終コミット 2026-11-06）。MCP 方式のため投稿が書く `blender -b -P script.py` の完全ヘッドレス実行とは前提が異なり、Blender を起動してアドオンから接続する必要がある。
 - [facebookresearch/sam-3d-body](entries/3d-motion/facebookresearch-sam-3d-body.md) — unverified / 独自SAM LicenseはMIT/Apacheではなく用途・再配布・法令・プライバシー等に条件。非商用専用と断定する根拠はない。人体動画の同意と権利を確認する。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Claude Animated Shorts](entries/3d-motion/mromidev-claude-animated-shorts.md) — unverified / 今回の紹介はREADMEと一致したが、新たな実行検証ではない。 今回の動作・推論・生成・性能は未検証。
