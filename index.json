@@ -1,5 +1,5 @@
 {
-  "count": 1424,
+  "count": 1425,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -28276,6 +28276,37 @@
       "fetched_at": "2026-11-14T04:14:40.392465+00:00",
       "path": "entries/other/webstudio-is-webstudio.md",
       "summary": "開発者・デザイナー・部門横断チーム向けのオープンソースのビジュアル開発プラットフォーム。データ、コンポーネント、インフラを自分で所有できるとREADMEに記載されている。"
+    },
+    {
+      "name": "Instatic",
+      "genre": "other",
+      "url": "https://github.com/CoreBunch/Instatic",
+      "repo": "CoreBunch/Instatic",
+      "license": "MIT",
+      "language": "TypeScript",
+      "created": "2026-04-30",
+      "updated": "2026-11-18",
+      "open_issues": 217,
+      "commit_cadence": "daily",
+      "size_kb": 197460,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "機能・効果の説明はREADMEに記載された配布者の説明で、独立した動作確認はしていない。",
+      "stars": 9140,
+      "forks": 873,
+      "commits_30d": 83,
+      "commits_90d": 100,
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/bkdgiffug/status/2119299374672904224"
+      ],
+      "fetched_at": "2026-11-18T21:09:42.605992+00:00",
+      "path": "entries/other/corebunch-instatic.md",
+      "summary": "READMEでは、ビジュアルキャンバスによるサイト編集、コンテンツ・メディア・フォームの管理、プラグイン、ページ公開を備えた自己ホスト型CMSと説明されています。ビジュアルコンポーネントやテンプレート、静的サイトのインポート、AIエージェントによる編集機能も紹介されています。これらは配布者の説明で、独立した動作確認はし"
     },
     {
       "name": "tsParticles",

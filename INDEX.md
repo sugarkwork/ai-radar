@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1424 件 — リポジトリ 1012, リンク集 121, 記事 222, モデル 55, プロンプト 14 / ⚑ 要確認 1158 件
+収録 1425 件 — リポジトリ 1013, リンク集 121, 記事 222, モデル 55, プロンプト 14 / ⚑ 要確認 1159 件
 
-## リポジトリ（1012）
+## リポジトリ（1013）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（237）
+### その他（238）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -104,6 +104,7 @@
 | [open-slide](entries/other/open-slide-open-slide.md) ⚑ | 9,729 | 716 | 毎日 | 33 | 2026-11-09 | 2026-11-10 | 2026-11-10 | MIT |
 | [OBLITERATUS](entries/other/elder-plinius-obliteratus.md) | 9,541 | 1,736 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | AGPL-3.0 |
 | [Webstudio](entries/other/webstudio-is-webstudio.md) ⚑ | 9,170 | 1,639 | 毎日 | 57 | 2026-11-13 | 2026-11-14 | 2026-11-14 | AGPL-3.0 |
+| [Instatic](entries/other/corebunch-instatic.md) ⚑ | 9,140 | 873 | 毎日 | 83 | 2026-11-18 | 2026-11-18 | 2026-11-23 | MIT |
 | [tsParticles](entries/other/tsparticles-tsparticles.md) ⚑ | 9,090 | 954 | 毎日 | 100+ | 2026-11-13 | 2026-11-14 | 2026-11-14 | MIT |
 | [EffectCraft](entries/other/storytold-effectcraft.md) ⚑ | 8,937 | 4,661 | 毎日 | 100+ | 2026-11-18 | 2026-11-18 | 2026-11-23 | Apache-2.0 |
 | [Ever Gauzy Platform](entries/other/ever-co-ever-gauzy.md) ⚑ | 8,853 | 1,349 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | AGPL-3.0 |
@@ -2640,6 +2641,7 @@
 - [YARA](entries/other/virustotal-yara.md) — unverified / プロジェクトはメンテナンスモードです。READMEに記載された具体的なサポート期間や今後の更新方針は確認できません。
 - [open-slide](entries/other/open-slide-open-slide.md) — unverified / 公開リリース一覧では @open-slide/core@2.3.2 が Latest と表示された一方、取得した /releases/latest はキャッシュから @open-slide/core@2.0.1 に転送されたため、最新タグと公開日時は未確定。CLIやエージェントは実行しておらず、制作時間の短縮、PPTXの再現性・編集互換性、エージェント側の契約・料金は未検証。
 - [Webstudio](entries/other/webstudio-is-webstudio.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
+- [Instatic](entries/other/corebunch-instatic.md) — unverified / 機能・効果の説明はREADMEに記載された配布者の説明で、独立した動作確認はしていない。
 - [tsParticles](entries/other/tsparticles-tsparticles.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [EffectCraft](entries/other/storytold-effectcraft.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Ever Gauzy Platform](entries/other/ever-co-ever-gauzy.md) — unverified / READMEの提示内容が途中で終わっているため、依存関係、実行条件、最短手順は確認できません。
