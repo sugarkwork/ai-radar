@@ -1,5 +1,5 @@
 {
-  "count": 1460,
+  "count": 1461,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -27542,6 +27542,37 @@
       "fetched_at": "2026-11-15T04:20:41.562803+00:00",
       "path": "entries/other/liquidslr-system-design-notes.md",
       "summary": "READMEの目次には、スケーリング、レート制限、一貫性ハッシュ、キー・バリューストア、URL短縮、検索オートコンプリート、チャット、動画配信、決済など28章の設計ノートが掲載されています。追加参考資料へのリンクもあります。出典: https://github.com/liquidslr/system-design-n"
+    },
+    {
+      "name": "Apktool",
+      "genre": "other",
+      "url": "https://github.com/iBotPeaches/Apktool",
+      "repo": "iBotPeaches/Apktool",
+      "license": "Apache-2.0",
+      "stars": 27284,
+      "language": "Java",
+      "created": "2012-03-19",
+      "updated": "2026-11-16",
+      "forks": 4266,
+      "open_issues": 78,
+      "commits_30d": 4,
+      "commit_cadence": "weekly",
+      "commits_90d": 25,
+      "size_kb": 361614,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 依存関係・実行条件。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/RealMarvelX/status/2119329098929426902"
+      ],
+      "fetched_at": "2026-11-19T07:23:38.012699+00:00",
+      "path": "entries/other/ibotpeaches-apktool.md",
+      "summary": "サードパーティ製Androidアプリのリソースをほぼ元の形にデコードし、変更を加えて再ビルドできます。smaliコードのステップ実行デバッグ、APK構築などの反復作業の自動化にも対応するとREADMEは説明しています。"
     },
     {
       "name": "Filee",

@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1460 件 — リポジトリ 1030, リンク集 121, 記事 240, モデル 55, プロンプト 14 / ⚑ 要確認 1189 件
+収録 1461 件 — リポジトリ 1031, リンク集 121, 記事 240, モデル 55, プロンプト 14 / ⚑ 要確認 1190 件
 
-## リポジトリ（1030）
+## リポジトリ（1031）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（245）
+### その他（246）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -41,7 +41,7 @@
 | [PixiJS](entries/other/pixijs-pixijs.md) ⚑ | 48,675 | 5,143 | 毎日 | 37 | 2026-11-11 | 2026-11-12 |  | MIT |
 | [Paperless-ngx](entries/other/paperless-ngx-paperless-ngx.md) ⚑ | 47,969 | 3,372 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 |  | GPL-3.0 |
 | [SiYuan](entries/other/siyuan-note-siyuan.md) ⚑ | 47,217 | 3,115 | 毎日 | 100+ | 2026-11-14 | 2026-11-14 |  | AGPL-3.0 |
-| [mitmproxy](entries/other/mitmproxy-mitmproxy.md) ⚑ | 47,080 | 4,996 | 毎日 | 48 | 2026-11-14 | 2026-11-19 | 2026-11-23 | MIT |
+| [mitmproxy](entries/other/mitmproxy-mitmproxy.md) ⚑ | 47,080 | 4,996 | 毎日 | 48 | 2026-11-14 | 2026-11-19 |  | MIT |
 | [LosslessCut](entries/other/mifi-lossless-cut.md) ⚑ | 45,884 | 2,317 | 毎日 | 100+ | 2026-11-09 | 2026-11-10 |  | GPL-2.0 |
 | [DuckDB](entries/other/duckdb-duckdb.md) | 43,113 | 4,212 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 |  | MIT |
 | [Postiz](entries/other/gitroomhq-postiz-app.md) ⚑ | 41,750 | 7,973 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 |  | AGPL-3.0 |
@@ -61,6 +61,7 @@
 | [react-spring](entries/other/pmndrs-react-spring.md) ⚑ | 29,279 | 1,236 | 毎日 | 23 | 2026-11-01 | 2026-11-14 |  | MIT |
 | [Celery](entries/other/celery-celery.md) ⚑ | 29,219 | 5,265 | 毎日 | 76 | 2026-11-17 | 2026-11-17 |  | unknown |
 | [System Design Interview — An Insider’s Guide (Vol 1 and 2) notes](entries/other/liquidslr-system-design-notes.md) ⚑ | 28,391 | 5,337 | 停滞 | 0 | 2026-08-12 | 2026-11-15 |  | unknown |
+| [Apktool](entries/other/ibotpeaches-apktool.md) ⚑ | 27,284 | 4,266 | 週次 | 4 | 2026-11-16 | 2026-11-19 | 2026-11-23 | Apache-2.0 |
 | [Filee](entries/other/knifelemon-filee.md) ⚑ | 26,944 | 1,546 | 毎日 | 100+ | 2026-11-14 | 2026-11-14 |  | MIT |
 | [Jenkins](entries/other/jenkinsci-jenkins.md) ⚑ | 26,780 | 9,838 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 |  | MIT |
 | [Lucide](entries/other/lucide-icons-lucide.md) ⚑ | 25,800 | 1,692 | 毎日 | 100+ | 2026-11-17 | 2026-11-17 |  | unknown |
@@ -2660,6 +2661,7 @@
 - [react-spring](entries/other/pmndrs-react-spring.md) — unverified / READMEでは対応先と導入例を確認できるが、詳細な依存関係や各環境の利用条件は示されていない。
 - [Celery](entries/other/celery-celery.md) — unverified / README上の最新版5.7.xの実行条件はPython 3.11+またはPyPy 3.11+（v8+）。Windowsはサポート対象外と記載。API計測ではlicenseがunknownのため、ライセンスはREADME本文から確認できず。 GitHub APIでライセンスを確認できていません。
 - [System Design Interview — An Insider’s Guide (Vol 1 and 2) notes](entries/other/liquidslr-system-design-notes.md) — unverified / README says the notes are a work in progress. License is unknown in the supplied repository data. GitHub APIでライセンスを確認できていません。
+- [Apktool](entries/other/ibotpeaches-apktool.md) — unverified / 一次資料で未確認: 依存関係・実行条件。
 - [Filee](entries/other/knifelemon-filee.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Jenkins](entries/other/jenkinsci-jenkins.md) — unverified / READMEには利用者側の実行条件や依存関係の詳細が記載されていません。
 - [Lucide](entries/other/lucide-icons-lucide.md) — unverified / GitHub APIでライセンスを確認できていません。
