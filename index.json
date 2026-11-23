@@ -1,5 +1,5 @@
 {
-  "count": 1363,
+  "count": 1364,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -7549,6 +7549,37 @@
       "fetched_at": "2026-11-16T21:40:36Z",
       "path": "entries/agent-framework/qkal-canny.md",
       "summary": "Claude Code と Codex CLI のフックとして動き、コード編集の後にテスト・ビルド・lint・型チェックが一度も exit 0 で通っていない状態でエージェントが「完了」と報告すると、Stop をブロックして理由（変更ファイル、最後のコマンドと終了コード、何がチェックに数えるか）を返す。"
+    },
+    {
+      "name": "Pi Agent Computer Use",
+      "genre": "agent-framework",
+      "url": "https://github.com/alexshpunt/pi-agent-computer-use",
+      "repo": "alexshpunt/pi-agent-computer-use",
+      "license": "MIT",
+      "language": "TypeScript",
+      "updated": "2026-11-17",
+      "open_issues": 0,
+      "size_kb": 23625,
+      "archived": false,
+      "commit_cadence": "daily",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "README excerpt does not include installation or setup instructions, so the exact runtime requirements and shortest setup path remain unconfirmed. Safe mode is described as an extension ownership policy, not an OS security boundary.",
+      "stars": 94,
+      "forks": 5,
+      "created": "2026-10-02",
+      "commits_30d": 100,
+      "commits_90d": 100,
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/ai_hakase_/status/2119250061229986214"
+      ],
+      "fetched_at": "2026-11-18T02:22:14.833429+00:00",
+      "path": "entries/agent-framework/alexshpunt-pi-agent-computer-use.md",
+      "summary": "Pi coding agentからWindowsアプリやブラウザーのウィンドウを読み取り、クリック、入力、ドラッグなどを行い、操作後の状態を再確認するための拡張です。UI Automationのツリーとスクリーンショット、変更箇所の表示、PlaywrightによるWebページ操作をREADMEが説明しています。"
     },
     {
       "name": "Axion 1.0",

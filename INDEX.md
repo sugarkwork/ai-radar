@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1363 件 — リポジトリ 961, リンク集 120, 記事 215, モデル 53, プロンプト 14 / ⚑ 要確認 1103 件
+収録 1364 件 — リポジトリ 962, リンク集 120, 記事 215, モデル 53, プロンプト 14 / ⚑ 要確認 1104 件
 
-## リポジトリ（961）
+## リポジトリ（962）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -380,7 +380,7 @@
 | [Leash](entries/coding-agent/cmaintz-leash.md) ⚑ | 0 | 0 | 毎日 | 20 | 2026-11-15 | 2026-11-16 | 2026-11-22 | MIT |
 | [grok-x](entries/coding-agent/stat-guy-grok-x.md) ⚑ | 0 | 0 | 停滞 | 0 | 2026-03-19 | 2026-11-16 | 2026-11-22 | unknown |
 
-### エージェント基盤・スキル集（127）
+### エージェント基盤・スキル集（128）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -500,6 +500,7 @@
 | [CoworkOS](entries/agent-framework/ruc-nlpir-coworkos.md) | 176 | 17 | 週次 | 17 | 2026-11-03 | 2026-11-16 | 2026-11-22 | MIT |
 | [video-to-skill](entries/agent-framework/brenoepics-video-to-skill.md) | 158 | 23 | 毎日 | 100+ | 2026-11-11 | 2026-11-16 | 2026-11-22 | MIT |
 | [Canny](entries/agent-framework/qkal-canny.md) ⚑ | 135 | 18 | 週次 | 8 | 2026-11-13 | 2026-11-16 | 2026-11-22 | MIT |
+| [Pi Agent Computer Use](entries/agent-framework/alexshpunt-pi-agent-computer-use.md) ⚑ | 94 | 5 | 毎日 | 100+ | 2026-11-17 | 2026-11-18 | 2026-11-23 | MIT |
 | [Axion 1.0](entries/agent-framework/bytedance-axion1_0.md) ⚑ | 82 | 6 | 毎日 | 23 | 2026-11-11 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
 | [vouch](entries/agent-framework/vouchdev-vouch.md) ⚑ | 68 | 62 | 停滞 | 0 | 2026-08-23 | 2026-11-16 | 2026-11-22 | MIT |
 | [Spring AI TypeSafe](entries/agent-framework/spring-ai-community-spring-ai-typesafe.md) ⚑ | 66 | 19 | 月次 | 1 | 2026-11-15 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
@@ -1965,6 +1966,7 @@
 - [neo4jev — Graph Navigation Demo (TypeSafe Jev + Neo4j)](entries/agent-framework/jexp-neo4jev.md) — unverified / TypeSafe APIの利用にはTYPESAFE_API_KEYが必要。READMEによると、既定のベクトル埋め込みは決定論的なハッシュ由来のプレースホルダーで、意味的な検索にはならない。
 - [AgentFlux](entries/agent-framework/davemessew-agentflux.md) — unverified / READMEによるとログイン機能はなく、単一ユーザー向けです。共有または公開アクセスにはアクセス制御層と適切なネットワーク設定が必要です。
 - [Canny](entries/agent-framework/qkal-canny.md) — unverified / 投稿は「Jev repos」の一つとして紹介するが、Canny は TypeSafe 製ではなく qkal 個人のプロジェクトで、Jev は任意の判定器（キー未設定でも決定論的ゲートは動く）。確認できたこと: 実装は実在し src/*.ts 約81KB・test 約97KB、CI（Node 22/24/26 + macOS + smoke + CodeQL）が直近成功、手元で 246 tests passed、Stop の block→allow→replay も実測で再現。確認できなかったこと: star 134 の真正性は API からは検証不能（未確認）。注意すべき事実: 23コミット全てが 2026-09-17〜22 の6日間に1名で入り、以後 48日コミットなし（30日コミット0、contributors は qkal 1名のみ、AI ボット名義のコミットは無く web-flow は GitHub のマージコミッター）。134 stars / 18 forks に対し watchers 0、外部PRは 2026-10-01 と 10-21 から未マージ。README 自身がプロジェクト全体の効果は未測定と明記し、bench も成果差なし（両アーム全通過、25ペアで 1.6±3.4 秒差）。未回答のセキュリティ指摘 issue #26（Jev 判断の乗っ取り JPDH、2026-10-14、コメントなし）が open。既知の実装制限: Windows のパス正規表現（#24）、python3 -m unittest 等の検出漏れ（#27/#28）、シェル経由の書き込み検出は一部記法のみ（find -exec、xargs、python -c 等は不可）。dist/ プリビルト同梱・npm 未配布のため供給網は作者1名に依存。キー設定時は編集差分（4,000字上限）と最終メッセージが TypeSafe に送信される。
+- [Pi Agent Computer Use](entries/agent-framework/alexshpunt-pi-agent-computer-use.md) — unverified / README excerpt does not include installation or setup instructions, so the exact runtime requirements and shortest setup path remain unconfirmed. Safe mode is described as an extension ownership policy, not an OS security boundary.
 - [Axion 1.0](entries/agent-framework/bytedance-axion1_0.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [vouch](entries/agent-framework/vouchdev-vouch.md) — unverified / READMEの説明に基づく機能であり、効果や実行結果は未検証。LLM機能にはANTHROPIC_API_KEYを渡す手順が記載されているが、料金や利用条件は不明。
 - [Spring AI TypeSafe](entries/agent-framework/spring-ai-community-spring-ai-typesafe.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
