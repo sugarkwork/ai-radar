@@ -1,5 +1,5 @@
 {
-  "count": 1386,
+  "count": 1387,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -10256,6 +10256,24 @@
       ],
       "fetched_at": "2026-11-14T23:11:54.402363+00:00",
       "path": "articles/2026-11-06-author-opus-5.5-webgl2-pompidou-centre-no-3d-software.md"
+    },
+    {
+      "name": "Opus 5.5 Motion Design: The Complete Playbook",
+      "genre": "article",
+      "url": "https://x.com/i/article/2110818179555463168",
+      "published": "2026-10-16",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "記事の説明や制作例は作者による報告であり、独立した動作検証ではない。記事本文には「Last edited Sep 26, 2026」とある一方、記事に紐づく投稿はOct 16, 2026と表示される。公開日は投稿に表示されたOct 16, 2026を採用した。",
+      "type": "article",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/0xrivvian/status/2123019268933493062"
+      ],
+      "fetched_at": "2026-11-18T12:22:40.503395+00:00",
+      "path": "articles/2026-10-16-author-opus-5.5-motion-design-the-complete-playbook.md"
     },
     {
       "name": "P-H3-Image LoRAでキャラクターシートから12種類の画像編集を試した記事",
