@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1466 件 — リポジトリ 1036, リンク集 121, 記事 240, モデル 55, プロンプト 14 / ⚑ 要確認 1195 件
+収録 1467 件 — リポジトリ 1037, リンク集 121, 記事 240, モデル 55, プロンプト 14 / ⚑ 要確認 1196 件
 
-## リポジトリ（1036）
+## リポジトリ（1037）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（249）
+### その他（250）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -121,6 +121,7 @@
 | [StatiCrypt](entries/other/robinmoisson-staticrypt.md) ⚑ | 8,074 | 502 | 停滞 | 0 | 2026-07-06 | 2026-11-14 |  | MIT |
 | [HomeBox](entries/other/sysadminsmedia-homebox.md) ⚑ | 7,842 | 620 | 毎日 | 22 | 2026-11-07 | 2026-11-12 |  | AGPL-3.0 |
 | [APScheduler](entries/other/agronholm-apscheduler.md) | 7,706 | 832 | 月次 | 1 | 2026-10-26 | 2026-11-16 |  | MIT |
+| [BackstopJS](entries/other/garris-backstopjs.md) ⚑ | 7,205 | 617 | 停滞 | 0 | 2026-10-10 | 2026-11-19 | 2026-11-23 | MIT |
 | [Nuxt UI](entries/other/nuxt-ui.md) | 7,061 | 1,154 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 |  | MIT |
 | [flubber](entries/other/veltman-flubber.md) ⚑ | 6,966 | 171 | 停滞 | 0 | 2022-11-08 | 2026-11-11 |  | MIT |
 | [Kando](entries/other/kando-menu-kando.md) ⚑ | 6,646 | 242 | 毎日 | 60 | 2026-11-12 | 2026-11-14 |  | unknown |
@@ -303,7 +304,7 @@
 | [Vercel Agent Skills](entries/coding-agent/vercel-labs-agent-skills.md) ⚑ | 34,200 | 2,985 | 週次 | 5 | 2026-11-12 | 2026-11-16 |  | unknown |
 | [claude-code-templates](entries/coding-agent/davila7-claude-code-templates.md) ⚑ | 33,865 | 4,008 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 |  | MIT |
 | [meta/astryx](entries/coding-agent/meta-astryx.md) ⚑ | 29,520 | 2,304 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 |  | MIT |
-| [Grok Build](entries/coding-agent/xai-org-grok-build.md) ⚑ | 27,802 | 5,248 | 月次 | 0 | 2026-09-29 | 2026-11-19 | 2026-11-23 | Apache-2.0 |
+| [Grok Build](entries/coding-agent/xai-org-grok-build.md) ⚑ | 27,802 | 5,248 | 月次 | 0 | 2026-09-29 | 2026-11-19 |  | Apache-2.0 |
 | [SkillSpector](entries/coding-agent/nvidia-skillspector.md) ⚑ | 26,672 | 2,376 | 毎日 | 100+ | 2026-11-16 | 2026-11-18 |  | Apache-2.0 |
 | [AGENTS.md](entries/coding-agent/agentsmd-agents.md.md) ⚑ | 25,522 | 1,965 | 月次 | 0 | 2026-09-10 | 2026-11-16 |  | MIT |
 | [jcode](entries/coding-agent/1jehuang-jcode.md) | 21,821 | 2,544 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 |  | MIT |
@@ -2724,6 +2725,7 @@
 - [OpenToonz](entries/other/opentoonz-opentoonz.md) — unverified / The README directs users to official downloads and says third-party components and MyPaint brushes have separate licensing terms. API reports the repository license as unknown; confirm applicable license terms for specific files before reuse. GitHub APIでライセンスを確認できていません。
 - [StatiCrypt](entries/other/robinmoisson-staticrypt.md) — unverified / README says shareable links contain the hashed password and can auto-decrypt the file. Treat such links as credentials.
 - [HomeBox](entries/other/sysadminsmedia-homebox.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
+- [BackstopJS](entries/other/garris-backstopjs.md) — unverified / READMEに新しいメンテナー／オーナーを募集する記載がある。
 - [flubber](entries/other/veltman-flubber.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Kando](entries/other/kando-menu-kando.md) — unverified / API上のlicenseはunknown。READMEは無料と説明していますが、ライセンス条件はREADMEの記載だけでは確認できません。 GitHub APIでライセンスを確認できていません。
 - [Pedalboard](entries/other/spotify-pedalboard.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。

@@ -1,5 +1,5 @@
 {
-  "count": 1466,
+  "count": 1467,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -29484,6 +29484,37 @@
       "type": "repo",
       "path": "entries/other/agronholm-apscheduler.md",
       "summary": "Python のコードを**後で1回**、または**周期的に**実行するスケジューラ。アプリ内に埋め込んで使う。"
+    },
+    {
+      "name": "BackstopJS",
+      "genre": "other",
+      "url": "https://github.com/garris/BackstopJS",
+      "repo": "garris/BackstopJS",
+      "license": "MIT",
+      "language": "JavaScript",
+      "created": "2014-10-15",
+      "updated": "2026-10-10",
+      "forks": 617,
+      "open_issues": 577,
+      "commits_30d": 0,
+      "commit_cadence": "stale",
+      "commits_90d": 1,
+      "size_kb": 62184,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEに新しいメンテナー／オーナーを募集する記載がある。",
+      "stars": 7205,
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/RealMarvelX/status/2119329098929426902"
+      ],
+      "fetched_at": "2026-11-19T07:32:52.495006+00:00",
+      "path": "entries/other/garris-backstopjs.md",
+      "summary": "Webアプリのスクリーンショットを取得し、テスト画像と基準画像を比較して視覚的な差分をレポートする。READMEによると、レポートには基準・テスト・差分の確認機能があり、Chrome Headlessでの描画、PlaywrightまたはPuppeteerによる操作、JUnitレポート、CI連携にも対応する。"
     },
     {
       "repo": "nuxt/ui",
