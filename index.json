@@ -1,5 +1,5 @@
 {
-  "count": 1381,
+  "count": 1382,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -14407,6 +14407,35 @@
       "last_release_at": "",
       "path": "entries/coding-agent/howseen-ai-claude-motion-design.md",
       "summary": "Claude Code向けスキルとして、HTMLとPlaywrightで映像フレームを生成し、ffmpegでエンコードする手順を案内する。READMEは、映像を時間tから決まるseek(t)関数で描画し、サブフレームを合成してモーションブラーを加え、ビートマップに沿ってシーンや効果音を配置する構成を説明している。"
+    },
+    {
+      "name": "editonny",
+      "genre": "coding-agent",
+      "url": "https://github.com/soumatheusgomes/editonny",
+      "repo": "soumatheusgomes/editonny",
+      "license": "MIT",
+      "stars": 832,
+      "language": "Python",
+      "created": "2026-10-19",
+      "updated": "2026-10-21",
+      "forks": 100,
+      "open_issues": 12,
+      "commits_30d": 22,
+      "commit_cadence": "daily",
+      "commits_90d": 27,
+      "size_kb": 486028,
+      "archived": false,
+      "flags": [],
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "risk_notes": "",
+      "sources": [
+        "https://x.com/AIExplorerTim/status/2119263644177588604"
+      ],
+      "fetched_at": "2026-11-18T08:17:37.453892+00:00",
+      "path": "entries/coding-agent/soumatheusgomes-editonny.md",
+      "summary": "Claude CodeとCodex向けの動画編集スキル。自然言語で指示し、無音やミスのカット、字幕追加、音声調整、画角変更、発話内容に合わせたモーションシーン作成を依頼できる。READMEによると、文字起こしとレンダリングはローカルで行う。"
     },
     {
       "name": "yuwen-publish-precheck｜发布前审",

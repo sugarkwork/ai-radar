@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1381 件 — リポジトリ 977, リンク集 120, 記事 217, モデル 53, プロンプト 14 / ⚑ 要確認 1120 件
+収録 1382 件 — リポジトリ 978, リンク集 120, 記事 217, モデル 53, プロンプト 14 / ⚑ 要確認 1120 件
 
-## リポジトリ（977）
+## リポジトリ（978）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -231,7 +231,7 @@
 | [Pay Small Check](entries/other/ahmardchain-pay-small-check.md) ⚑ | 1 | 0 | 毎日 | 32 | 2026-11-07 | 2026-11-16 | 2026-11-22 | MIT |
 | [LapDraw](entries/other/sachinyadavaug20-lapdraw.md) ⚑ | 0 | 0 | 毎日 | 22 | 2026-11-07 | 2026-11-13 | 2026-11-13 | MIT |
 
-### コーディングエージェント（151）
+### コーディングエージェント（152）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -329,6 +329,7 @@
 | [Second Brain Starter](entries/coding-agent/coleam00-second-brain-starter.md) ⚑ | 905 | 191 | 停滞 | 0 | 2026-06-09 | 2026-11-16 | 2026-11-22 | unknown |
 | [公文 Skills · dyz-gongwen-skills](entries/coding-agent/duyunzhoudyz-dyz-gongwen-skills.md) ⚑ | 883 | 38 | 毎日 | 91 | 2026-11-13 | 2026-11-16 | 2026-11-22 | unknown |
 | [claude-motion-design](entries/coding-agent/howseen-ai-claude-motion-design.md) ⚑ | 845 | 106 | 月次 | 0 | 2026-10-04 | 2026-11-16 | 2026-11-22 | MIT |
+| [editonny](entries/coding-agent/soumatheusgomes-editonny.md) | 832 | 100 | 毎日 | 22 | 2026-10-21 | 2026-11-18 | 2026-11-23 | MIT |
 | [yuwen-publish-precheck｜发布前审](entries/coding-agent/yuwen-cool-yuwen-publish-precheck.md) ⚑ | 816 | 78 | 月次 | 0 | 2026-10-08 | 2026-11-16 | 2026-11-22 | MIT |
 | [Second Brain](entries/coding-agent/nicholasspisak-second-brain.md) ⚑ | 779 | 116 | 停滞 | 0 | 2026-04-07 | 2026-11-16 | 2026-11-22 | unknown |
 | [MCode Stack](entries/coding-agent/minimax-ai-mcode-stack.md) ⚑ | 725 | 49 | 週次 | 16 | 2026-11-11 | 2026-11-16 | 2026-11-22 | MIT |
