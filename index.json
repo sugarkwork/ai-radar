@@ -1,5 +1,5 @@
 {
-  "count": 1471,
+  "count": 1472,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -24054,6 +24054,27 @@
       "fetched_at": "2026-11-10T03:36:40Z",
       "path": "links/mcp-server/date-math.datemath.workers.dev-date-math.md",
       "summary": "AIエージェント向けに日時計算を提供する。"
+    },
+    {
+      "name": "OpenCode Browse",
+      "genre": "mcp-server",
+      "url": "https://opencode.ai/product/browse",
+      "pricing": "unknown",
+      "pricing_detail": "公式製品ページに料金の記載なし。",
+      "signup_required": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "エージェントは利用者のログイン済みサイトを使うと公式ページに記載されている。許可サイトを制限し、ログイン・2FA・決済時にタブを利用者へ引き渡す機能も案内されているが、具体的なデータ取扱いや安全性はこのページだけでは確認できない。",
+      "type": "link",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/eltc9584/status/2119203710522065176"
+      ],
+      "fetched_at": "2026-11-19T00:00:00Z",
+      "path": "links/mcp-server/opencode.ai-opencode-browse.md",
+      "summary": "MCPサーバーとChromium拡張を通じて、AIエージェントが利用者の実ブラウザーを使えるようにする。"
     },
     {
       "name": "gmail-browser-mcp",

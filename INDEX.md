@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1471 件 — リポジトリ 1041, リンク集 121, 記事 240, モデル 55, プロンプト 14 / ⚑ 要確認 1199 件
+収録 1472 件 — リポジトリ 1041, リンク集 122, 記事 240, モデル 55, プロンプト 14 / ⚑ 要確認 1200 件
 
 ## リポジトリ（1041）
 
@@ -662,7 +662,7 @@
 | [cinematic-shot](entries/video-gen/1weiho-skills.md) ⚑ | 240 | 8 | 週次 | 19 | 2026-10-29 | 2026-11-10 |  | MIT |
 | [Otopilot](entries/video-gen/wj-sidiss-otopilot.md) ⚑ | 230 | 42 | 毎日 | 63 | 2026-11-08 | 2026-11-10 |  | MIT |
 | [Veda Sparse Attention for ComfyUI (MiniMax-H3)](entries/video-gen/veda-sparse-veda-on-comfyui.md) | 224 | 20 | 週次 | 4 | 2026-10-11 | 2026-11-09 |  | MIT |
-| [WorldForge](entries/video-gen/designfuchen-worldforge.md) ⚑ | 223 | 59 | 月次 | 3 | 2026-11-08 | 2026-11-19 | 2026-11-23 | MIT |
+| [WorldForge](entries/video-gen/designfuchen-worldforge.md) ⚑ | 223 | 59 | 月次 | 3 | 2026-11-08 | 2026-11-19 |  | MIT |
 | [HyperFrames Motion Reel Skill](entries/video-gen/sunwood-ai-labs-hyperframes-motion-reel-skill.md) ⚑ | 185 | 26 | 月次 | 0 | 2026-09-29 | 2026-11-12 |  | MIT |
 | [ComfyUI Panorama Stickers](entries/video-gen/nomadoor-comfyui-panorama-stickers.md) | 182 | 17 | 毎日 | 84 | 2026-11-05 | 2026-11-09 |  | MIT |
 | [H3 Continuity Studio](entries/video-gen/kadobot-comfyui-h3-continuity-studio.md) | 160 | 18 | 毎日 | 100+ | 2026-11-08 | 2026-11-09 |  | MIT |
@@ -1186,7 +1186,7 @@
 - **[MiniMax H3：20種のダンスと音楽指定](prompts/video-gen/minimax-h3-20-dance-music.md)** ⚑  MiniMax H3 / EndFolding79421
   - キャラクターシートを参照し、6秒間の全身ダンスと音楽・環境音を指示するための投稿者のテンプレート。ダンス20種類の音楽指定例を含む。
 
-## リンク集（121）
+## リンク集（122）
 
 ### リンク（サービス・ツール）（23）
 
@@ -1428,7 +1428,7 @@
 - **[Turn Inspector](links/coding-agent/aitmpl.com-turn-inspector.md)** ⚑  free / Daniel Avila (davila7)
   - Claude Code のセッションで、モデルへのリクエスト（ターン）ごとにコンテキストウィンドウが何にどれだけ使われたかを横ペインで可視化する。
 
-### MCPサーバー（3）
+### MCPサーバー（4）
 
 - **[60fps.design MCP](links/mcp-server/https-60fps.design-mcp.md)** ⚑  @abir35627
   - UIモーション事例を検索し、動きの分解と実装コードをエージェントへ渡す60fps.designの有料MCP。
@@ -1436,6 +1436,8 @@
   - 画像編集・ベクター・動画・PDF・DTP・3Dテクスチャ・DAW・CAD・表計算など、商用クリエイティブソフト相当の機能をRust製ネイティブアプリとして無料・オープンソースで提供するスイート。
 - **[Date Math](links/mcp-server/date-math.datemath.workers.dev-date-math.md)** ⚑  freemium / JowenDelaPena
   - AIエージェント向けに日時計算を提供する。
+- **[OpenCode Browse](links/mcp-server/opencode.ai-opencode-browse.md)** ⚑
+  - MCPサーバーとChromium拡張を通じて、AIエージェントが利用者の実ブラウザーを使えるようにする。
 
 ### 音声・TTS（3）
 
@@ -2579,6 +2581,7 @@
 - [Kosh](entries/mcp-server/sachinyadavaug20-kosh.md) — unverified / ['実機での起動、クライアントとの接続、GLBの生成品質や処理時間、最新リリース、M8ven評価は未確認。README内でBlenderの対応版とツール数の記述に幅があり、実際の対応範囲は未確認。Gemini APIの利用料金は未確認。']
 - [60fps.design MCP](links/mcp-server/https-60fps.design-mcp.md) — unverified / 月29ドル/四半期69ドル・1席は原チェック時。PROプランにMCPは含まれない。SwiftUIのコンパイル確認は提供側の説明で本調査では未実行。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Date Math](links/mcp-server/date-math.datemath.workers.dev-date-math.md) — unverified / 計算精度と決済は未検証。
+- [OpenCode Browse](links/mcp-server/opencode.ai-opencode-browse.md) — unverified / エージェントは利用者のログイン済みサイトを使うと公式ページに記載されている。許可サイトを制限し、ログイン・2FA・決済時にタブを利用者へ引き渡す機能も案内されているが、具体的なデータ取扱いや安全性はこのページだけでは確認できない。
 - [gmail-browser-mcp](entries/mcp-server/sparsh101sparsh-gmail-browser-mcp.md) — low-quality, unverified / 作者自身がX投稿で「not in production stage」「you need to configure multiple things by yourself」と説明。 作者の説明では本番利用段階ではなく、複数の設定を利用者が行う必要がある。必要な設定項目と本番利用条件は今回確認した資料だけでは特定できない。 GitHub APIでライセンスを確認できていません。
 - [Ollama](entries/model-serving/ollama-ollama.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Open WebUI](entries/model-serving/open-webui-open-webui.md) — unverified / READMEの説明に基づく機能情報です。実機での動作や効果は独立検証されていません。 GitHub APIでライセンスを確認できていません。
