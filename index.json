@@ -1,5 +1,5 @@
 {
-  "count": 1436,
+  "count": 1437,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -24419,6 +24419,37 @@
       "fetched_at": "2026-11-17T23:21:23.356387+00:00",
       "path": "entries/model-serving/lm-sys-routellm.md",
       "summary": "LLMルーターの配信と評価を行うフレームワーク。READMEによると、OpenAIクライアントの置き換えやOpenAI互換サーバーとして利用でき、クエリを強力なモデルと低コストなモデルの間で振り分ける。ルーターの追加や複数ベンチマークでの比較にも対応する。コスト削減や性能に関する数値はプロジェクト側のベンチマーク報告で"
+    },
+    {
+      "name": "Project Maya",
+      "genre": "model-serving",
+      "url": "https://github.com/mw00/project-maya",
+      "repo": "mw00/project-maya",
+      "license": "MIT",
+      "stars": 3028,
+      "language": "C++",
+      "created": "2026-10-06",
+      "updated": "2026-11-18",
+      "forks": 422,
+      "open_issues": 181,
+      "commits_30d": 100,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 46546,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "速度・品質の数値はREADME記載のユーザー報告・プロジェクト側の測定値で、独立した再測定は確認していません。commits_30d と commits_90d は各API取得が100件で、提示値は取得上限に達しています。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/dextune/status/2119305676069671413"
+      ],
+      "fetched_at": "2026-11-18T22:13:13.450193+00:00",
+      "path": "entries/model-serving/mw00-project-maya.md",
+      "summary": "READMEによると、GLM-5.3、GLM-5.3-Flash、DeepSeek-V4.1-Flash-1017、MiniMax-M3.1-Flashをローカル環境で動かす推論ソフトウェアです。ブラウザ上のチャットとモニター、画像入力、複数リクエスト処理、ツール呼び出し対応のOpenAI・Anthropic互換API"
     },
     {
       "repo": "lightseekorg/tokenspeed",
