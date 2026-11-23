@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1365 件 — リポジトリ 963, リンク集 120, 記事 215, モデル 53, プロンプト 14 / ⚑ 要確認 1105 件
+収録 1366 件 — リポジトリ 963, リンク集 120, 記事 216, モデル 53, プロンプト 14 / ⚑ 要確認 1106 件
 
 ## リポジトリ（963）
 
@@ -1533,9 +1533,9 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（215）
+## 記事（216）
 
-### 記事（152）
+### 記事（153）
 
 - **[$0のデジタル参謀長で月$80,000の契約候補を作ったというX投稿（動画付き）](articles/2026-10-22-bober_smart-0-80-000-x.md)** ⚑  @Bober_smart
 - **[1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md)** ⚑  @mukadeshinigami（mukade死神）
@@ -1619,6 +1619,7 @@
 - **[Laddersによる履歴書PDFの抽出評価](articles/2026-11-07-marc-cenedella-ladders-pdf.md)** ⚑  Marc Cenedella
 - **[LangChain、3億ドルのシリーズCを調達し、企業価値30億ドルに](articles/2026-11-13-author-langchain-3-c-30.md)** ⚑
 - **[Last Lecture Series: “How to Win Without Crushing Your Soul” - Graham Weaver（Stanford GSB Class of 2026）](articles/2026-07-14-graham-weaver-stanford-graduate-school-of-business-last-lecture-series-how-to-win-without-f6d1f4ee42.md)** ⚑  Graham Weaver（Stanford Graduate School of Business 公式チャンネル）
+- **[Loop Engineering: Building Blocks, Adoption, and Impact](articles/2026-08-22-author-loop-engineering-building-blocks-adoption-and-impact.md)** ⚑
 - **[Lyra 2.0: Explorable Generative 3D Worlds](articles/2026-04-14-author-lyra-2.0-explorable-generative-3d-worlds.md)**
 - **[Machine-Readable Training Preference Signal](articles/2026-10-30-k.-kelley-anthropic-machine-readable-training-preference-signal.md)** ⚑  K. Kelley (Anthropic)
 - **[Making Local LLMs Usable on 8GB GPUs](articles/2026-11-02-naresh-waghela-hastimal-jangid-making-local-llms-usable-on-8gb-gpus.md)** ⚑  Naresh Waghela, Hastimal Jangid
@@ -2055,6 +2056,7 @@
 - [Laddersによる履歴書PDFの抽出評価](articles/2026-11-07-marc-cenedella-ladders-pdf.md) — unverified / 試験条件と再現性は未確認。
 - [LangChain、3億ドルのシリーズCを調達し、企業価値30億ドルに](articles/2026-11-13-author-langchain-3-c-30.md) — unverified / 導入組織数や顧客事例、製品の機能・効果はLangChainの発表内容であり、独立検証された結果ではない。
 - [Last Lecture Series: “How to Win Without Crushing Your Soul” - Graham Weaver（Stanford GSB Class of 2026）](articles/2026-07-14-graham-weaver-stanford-graduate-school-of-business-last-lecture-series-how-to-win-without-f6d1f4ee42.md) — unverified / 確認できたこと: 公式YouTube（Stanford GSB チャンネル）に講演が実在し、タイトルは「Last Lecture Series: “How to Win Without Crushing Your Soul” - Graham Weaver」、公開日 2026-07-14、尺 34:01、Class of 2026 向けの Last Lecture であること（YouTube概要・本人ブログ・本人Instagramで一致）。Weaver は Stanford GSB の Lecturer in Management で Alpine Investors の創業者（GSB教員ページ・Alpine公式）。講演の3実践と引用の多くは公式字幕と一致。誤り・未確認: (1)「10 million people watched」はこの動画単体では約263万回（2026-11-09時点）。WeaverのGSB講演5本の合計が約1,030万回なので、合算を単体の数字として書いた可能性が高い。(2)「33 minutes」は公式34:01、投稿添付クリップは33:31で、切り抜き側の尺。(3)「$16 billion」はAlpine公式の現行表記（$18.8B、25周年ページでは2026-06-30時点$17.7B）より古く過小。(4)「life coaches charge $500 an hour」は一次情報を確認できず未検証。(5) 引用ブロックの「achievement cannot fix self hatred」「what you avoid grows」「unless you skip them」は講演の逐語ではなく投稿者による要約・脚色（講演本体は「I just didn't really like myself」「your nail is the thing you're avoiding」「You're in the good old days now」）。(6) 添付動画は同一講演の再アップロードとみられ、会場・人物・衣装・尺が公式と一致するが、音声の波形一致やフレーム単位の同一性は未確認。講演自体に効果の対照試験や追跡データはなく、内容は本人の体験談と実践の提案である。
+- [Loop Engineering: Building Blocks, Adoption, and Impact](articles/2026-08-22-author-loop-engineering-building-blocks-adoption-and-impact.md) — unverified / 投稿文の36,487は実行証拠を調べた分析対象数（論文本文の表2）。論文要旨では探索的マイニングの対象を36,710リポジトリと記載。0.59%は特定のGitHub公開リポジトリと検出手法に基づく値で、業界全体の普及率ではない。
 - [Machine-Readable Training Preference Signal](articles/2026-10-30-k.-kelley-anthropic-machine-readable-training-preference-signal.md) — unverified / 個人提出の Internet-Draft。各社の実装状況、設定の遵守、検索・引用への影響は未検証。
 - [Making Local LLMs Usable on 8GB GPUs](articles/2026-11-02-naresh-waghela-hastimal-jangid-making-local-llms-usable-on-8gb-gpus.md) — unverified / 記事のメモリ数値はKVキャッシュ本体の計算値。設定変更による実機の速度、総VRAM使用量、出力品質への影響と、記事掲載の計測コードの再配布条件は未確認。
 - [Material Painterを使った部分編集の報告](articles/2026-11-08-ry-heyhaigh-material-painter.md) — unverified / 専用のinpainting機能と比較効果は未確認。

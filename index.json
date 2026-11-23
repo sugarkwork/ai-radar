@@ -1,5 +1,5 @@
 {
-  "count": 1365,
+  "count": 1366,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -9879,6 +9879,24 @@
       ],
       "fetched_at": "2026-11-09T10:22:00+00:00",
       "path": "articles/2026-07-14-graham-weaver-stanford-graduate-school-of-business-last-lecture-series-how-to-win-without-f6d1f4ee42.md"
+    },
+    {
+      "name": "Loop Engineering: Building Blocks, Adoption, and Impact",
+      "genre": "article",
+      "url": "https://arxiv.org/abs/2608.21884",
+      "published": "2026-08-22",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "投稿文の36,487は実行証拠を調べた分析対象数（論文本文の表2）。論文要旨では探索的マイニングの対象を36,710リポジトリと記載。0.59%は特定のGitHub公開リポジトリと検出手法に基づく値で、業界全体の普及率ではない。",
+      "type": "article",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/ganfanren_ai/status/2119250868612829654"
+      ],
+      "fetched_at": "2026-11-18T02:25:10.967656+00:00",
+      "path": "articles/2026-08-22-author-loop-engineering-building-blocks-adoption-and-impact.md"
     },
     {
       "name": "Lyra 2.0: Explorable Generative 3D Worlds",
