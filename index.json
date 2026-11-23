@@ -1,5 +1,5 @@
 {
-  "count": 1536,
+  "count": 1537,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -13995,6 +13995,37 @@
       "fetched_at": "2026-11-18T00:24:52.717005+00:00",
       "path": "entries/coding-agent/google-labs-code-stitch-skills.md",
       "summary": "Google Stitch向けのスキルとプラグインを提供する。READMEでは、デザイン生成・編集、デザインシステム管理、フロントエンドコードからの変換、React/React Native向けコンポーネント生成、プロンプト改善などの用途を案内している。"
+    },
+    {
+      "name": "universal-modder",
+      "genre": "coding-agent",
+      "url": "https://github.com/rehan-remade/universal-modder",
+      "repo": "rehan-remade/universal-modder",
+      "license": "MIT",
+      "stars": 9830,
+      "language": "Python",
+      "created": "2026-09-30",
+      "updated": "2026-11-22",
+      "forks": 1109,
+      "open_issues": 25,
+      "commits_30d": 91,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 41839,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "falによるアセット生成にはAPIキーが必要で、SprixenとVoidlessは別料金のサービスとして記載されています。ゲーム上での検証などの効果はREADMEの説明に基づき、独立実測ではありません。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/dextune/status/2119407086572364163"
+      ],
+      "fetched_at": "2026-11-22T04:21:34.828119+00:00",
+      "path": "entries/coding-agent/rehan-remade-universal-modder.md",
+      "summary": "READMEでは、AIコーディングエージェントがPCゲームのエンジンや改造経路を調べ、コードを読み、改造を作成し、ゲーム内で検証するためのスキル、ツール、共有知識ベースを提供すると説明しています。アセット生成にはfal連携のほか、ローカルComfyUIや別サービスの利用方法も記載されています。"
     },
     {
       "name": "awesome-gamedev-agent-skills",

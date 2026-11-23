@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1536 件 — リポジトリ 1090, リンク集 125, 記事 252, モデル 55, プロンプト 14 / ⚑ 要確認 1257 件
+収録 1537 件 — リポジトリ 1091, リンク集 125, 記事 252, モデル 55, プロンプト 14 / ⚑ 要確認 1258 件
 
-## リポジトリ（1090）
+## リポジトリ（1091）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -247,7 +247,7 @@
 | [jev-voice-browser](entries/other/moritzkremb-jev-voice-browser.md) ⚑ | 431 | 71 | 停滞 | 0 | 2026-09-21 | 2026-11-10 |  | MIT |
 | [Hishel](entries/other/karpetrosyan-hishel.md) ⚑ | 422 | 57 | 週次 | 14 | 2026-11-10 | 2026-11-17 |  | BSD-3-Clause |
 | [ResumeForge](entries/other/magicapple123-resumeforge.md) ⚑ | 417 | 19 | 毎日 | 100+ | 2026-11-10 | 2026-11-11 |  | Apache-2.0 |
-| [英语研习室 · CET Practice](entries/other/o-sakurajimamai-o-cet-practice.md) ⚑ | 357 | 22 | 毎日 | 28 | 2026-11-13 | 2026-11-22 | 2026-11-23 | unknown |
+| [英语研习室 · CET Practice](entries/other/o-sakurajimamai-o-cet-practice.md) ⚑ | 357 | 22 | 毎日 | 28 | 2026-11-13 | 2026-11-22 |  | unknown |
 | [p5.capture](entries/other/tapioca24-p5.capture.md) ⚑ | 318 | 9 | 停滞 | 0 | 2026-04-15 | 2026-11-18 |  | MIT |
 | [Image 2 Sculpt](entries/other/gokayfem-image-to-sculpt.md) ⚑ | 295 | 21 | 月次 | 2 | 2026-11-08 | 2026-11-16 |  | MIT |
 | [Sakutto](entries/other/jammaru-sakutto.md) ⚑ | 271 | 30 | 毎日 | 100+ | 2026-11-18 | 2026-11-18 |  | MIT |
@@ -292,7 +292,7 @@
 | [Knowlective](entries/other/knowlective-org-knowlective.md) | 0 | 0 | 毎日 | 100+ | 2026-11-19 | 2026-11-19 |  | AGPL-3.0 |
 | [LapDraw](entries/other/sachinyadavaug20-lapdraw.md) ⚑ | 0 | 0 | 毎日 | 22 | 2026-11-07 | 2026-11-13 |  | MIT |
 
-### コーディングエージェント（165）
+### コーディングエージェント（166）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -350,6 +350,7 @@
 | [UI Skills](entries/coding-agent/ibelick-ui-skills.md) ⚑ | 11,125 | 534 | 毎日 | 46 | 2026-11-14 | 2026-11-16 |  | MIT |
 | [Dashi PPT Skill](entries/coding-agent/chuspeeism-dashi-ppt-skill.md) ⚑ | 10,750 | 916 | 月次 | 2 | 2026-11-06 | 2026-11-16 |  | AGPL-3.0 |
 | [Stitch Design Skills](entries/coding-agent/google-labs-code-stitch-skills.md) ⚑ | 10,093 | 1,328 | 停滞 | 0 | 2026-08-17 | 2026-11-18 |  | Apache-2.0 |
+| [universal-modder](entries/coding-agent/rehan-remade-universal-modder.md) ⚑ | 9,830 | 1,109 | 毎日 | 91 | 2026-11-22 | 2026-11-22 | 2026-11-23 | MIT |
 | [awesome-gamedev-agent-skills](entries/coding-agent/gamedev-skills-awesome-gamedev-agent-skills.md) ⚑ | 9,585 | 974 | 毎日 | 100+ | 2026-11-12 | 2026-11-20 |  | Apache-2.0 |
 | [Copilot for Obsidian](entries/coding-agent/logancyang-obsidian-copilot.md) ⚑ | 8,005 | 775 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 |  | AGPL-3.0 |
 | [fast-jev-compaction](entries/coding-agent/tamaratran-fast-jev-compaction.md) ⚑ | 7,985 | 588 | 月次 | 0 | 2026-09-18 | 2026-11-16 |  | MIT |
@@ -2381,6 +2382,7 @@
 - [UI Skills](entries/coding-agent/ibelick-ui-skills.md) — unverified / ['create-canvasの動作、生成結果の品質、ブラウザー互換性や性能は未実測。対応フレームワークの範囲と公開MCPの料金・利用上限は未確認。最新リリースのタグはGitHubで確認したが、公開日時の年とタイムゾーンは確認できていない。']
 - [Dashi PPT Skill](entries/coding-agent/chuspeeism-dashi-ppt-skill.md) — unverified / READMEの説明に基づく機能・プラットフォーム情報で、独立した動作確認ではありません。導出PPTXエンジンは専有コンポーネントと説明されています。
 - [Stitch Design Skills](entries/coding-agent/google-labs-code-stitch-skills.md) — unverified / 一次資料で未確認: 実行条件。
+- [universal-modder](entries/coding-agent/rehan-remade-universal-modder.md) — unverified / falによるアセット生成にはAPIキーが必要で、SprixenとVoidlessは別料金のサービスとして記載されています。ゲーム上での検証などの効果はREADMEの説明に基づき、独立実測ではありません。
 - [awesome-gamedev-agent-skills](entries/coding-agent/gamedev-skills-awesome-gamedev-agent-skills.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係。
 - [Copilot for Obsidian](entries/coding-agent/logancyang-obsidian-copilot.md) — unverified / 利用可能なモデルやサービス上限は変わるため、現在のプランや利用条件はREADME記載の料金ページまたはアプリ内表示で確認が必要。
 - [fast-jev-compaction](entries/coding-agent/tamaratran-fast-jev-compaction.md) — unverified / 【主張と実体の差分】投稿の主張は概ね実装と一致するが、3点ずれる。(1)「Jev が古いと採点」— 実装は『古さ』を直接採点せず、call_<id>（呼び出しを残すべきか）と result_<id>（結果を逐語で残すべきか）の2つの noul 確率を閾値0.5で切るだけ。年齢や使用済みかどうかの特徴量は入力に明示されない。(2)「何も書き換えない／一字一句そのまま」— 保持された項目は同一オブジェクトで返るが、結果だけ不要と判定された場合は先頭300文字＋注記に切り詰められる（削除ではなく改変）。Jev に送る state も 25k トークンに収めるため段階的に省略される。(3)「npm ライブラリとしても使える」— npm の fast-jev-compaction は latest 0.4.1 を 2026-09-24 に maintainer aleksvega が公開した第三者フォークで、README に『Fork of tamaratran/fast-jev-compaction』と明記され、jev-compact / jev-gate など別 CLI を含む。リポジトリ側 package.json は 0.2.0、plugin.json は 0.3.0 で、このリポジトリのコードがそのまま npm 名で配布されているわけではない。【実績の不自然さ】stars 7,917 / forks 581 / open issues 125 に対し、コミットは全30件が 2026-09-17〜18 の2日間のみ、直近30日は0件、リポジトリは34ファイル・245KB。contributors に devin-ai-integration[bot] が入り、主要コミットは Devin AI 共著。数字の大きさと開発量・更新停止が釣り合わず、star の真正性は未確認（不正と断定はできない）。【有効性】作者による削減率・精度のベンチマークは未公開（issue #160 が benchmarks を求めて起票、回答なし）。第三者の計測（issue #154）は AUC 0.70〜0.83 で順位は安定するが、fitState() の段階で絶対スコアが 0.25〜0.80 に動き、固定閾値0.5だと全保持（実質無効）や過剰削除になりうると報告。issue #65 は『narration は残り根拠が消える』過剰削除を報告。【デモ】投稿の14秒動画を取得しフレームを確認したところ、GitHub の README をスクロールする画面で、API を叩いた実行記録ではなかった。リポジトリ同梱の SwiftUI デモも README に『It never calls the API; it exists to be screen recorded.』と明記され、演出用。【依存・権利】MIT（LICENSE は Copyright (c) 2025）。TypeSafe の有料 API が必須で、無料枠や無償トークンは未確認。Claude Code の function hooks は早期アクセスで仕様変更リスクあり（hooks/README.md 自身が明記）。issue #151 / #153 では Team 組織や SDK・ヘッドレス環境で session.compact が使えない報告があり、環境により動作しない可能性。【未確認】作者自身の効果測定、star の真正性、TypeSafe の無料枠、Claude Code 2.1.274 以外での動作。
