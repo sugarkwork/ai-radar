@@ -1,5 +1,5 @@
 {
-  "count": 1541,
+  "count": 1542,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -40532,6 +40532,37 @@
       "fetched_at": "2026-11-10T08:52:35+00:00",
       "path": "entries/tts-audio/elevenlabs-skills.md",
       "summary": "台本を読み上げ音声に変換し、テキストから効果音や楽曲を生成できる。効果音スキルにはループ、長さ、プロンプトへの追従度を調整する設定がある。 [効果音スキル定義](https://github.com/elevenlabs/skills/blob/main/sound-effects/SKILL.md)"
+    },
+    {
+      "name": "OpenSpline",
+      "genre": "tts-audio",
+      "url": "https://github.com/openspline/openspline",
+      "repo": "openspline/openspline",
+      "license": "MIT",
+      "stars": 433,
+      "language": "Python",
+      "created": "2026-09-29",
+      "updated": "2026-11-14",
+      "forks": 54,
+      "open_issues": 7,
+      "commits_30d": 10,
+      "commit_cadence": "weekly",
+      "commits_90d": 48,
+      "size_kb": 14391,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "セルフホストではLinux/WSL2とNVIDIA GPUが必要とREADMEに記載。BlackwellおよびAmpere以前のGPUでは推論のハードウェア検証が必要とも記載されています。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/ai_hakase_/status/2119415527558840477"
+      ],
+      "fetched_at": "2026-11-22T04:40:23.782720+00:00",
+      "path": "entries/tts-audio/openspline-openspline.md",
+      "summary": "ポートレートと生成音声から、音声に同期したアバター動画を生成します。READMEではクラウドGPUまたは自前GPUでの利用、内蔵ビューアーやReact・Web Components、Python/Node対応を説明しています。"
     },
     {
       "name": "speech.cpp",

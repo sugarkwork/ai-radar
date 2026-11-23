@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1541 件 — リポジトリ 1094, リンク集 125, 記事 253, モデル 55, プロンプト 14 / ⚑ 要確認 1261 件
+収録 1542 件 — リポジトリ 1095, リンク集 125, 記事 253, モデル 55, プロンプト 14 / ⚑ 要確認 1262 件
 
-## リポジトリ（1094）
+## リポジトリ（1095）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -562,7 +562,7 @@
 | [PaperOrchestra](entries/agent-framework/google-research-paper-orchestra.md) ⚑ | 2,982 | 413 | 週次 | 6 | 2026-11-15 | 2026-11-18 |  | Apache-2.0 |
 | [NanmiCoder/dsh-agent-teams](entries/agent-framework/nanmicoder-dsh-agent-teams.md) ⚑ | 2,978 | 245 | 毎日 | 71 | 2026-11-13 | 2026-11-16 |  | MIT |
 | [karpathy-llm-wiki](entries/agent-framework/astro-han-karpathy-llm-wiki.md) ⚑ | 2,755 | 317 | 停滞 | 0 | 2026-07-23 | 2026-11-16 |  | MIT |
-| [Pinky](entries/agent-framework/diygod-pinky.md) ⚑ | 2,645 | 277 | 毎日 | 100+ | 2026-11-22 | 2026-11-22 | 2026-11-23 | Apache-2.0 |
+| [Pinky](entries/agent-framework/diygod-pinky.md) ⚑ | 2,645 | 277 | 毎日 | 100+ | 2026-11-22 | 2026-11-22 |  | Apache-2.0 |
 | [Hy Memory](entries/agent-framework/tencent-hunyuan-hy-memory.md) ⚑ | 2,068 | 152 | 毎日 | 100+ | 2026-11-15 | 2026-11-16 |  | Apache-2.0 |
 | [stripe/ai](entries/agent-framework/stripe-ai.md) ⚑ | 2,068 | 385 | 毎日 | 61 | 2026-11-16 | 2026-11-16 |  | MIT |
 | [Nod](entries/agent-framework/n8n-io-nod.md) ⚑ | 2,019 | 272 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 |  | Apache-2.0 |
@@ -878,7 +878,7 @@
 | [SwiftPulse](entries/model-serving/sineld-swiftpulse.md) ⚑ | 2 | 0 | 週次 | 4 | 2026-11-07 | 2026-11-19 |  | MIT |
 | [NInfer](entries/model-serving/andrewleech-ninfer-v100.md) ⚑ | 1 | 0 | 月次 | 1 | 2026-11-08 | 2026-11-19 |  | Apache-2.0 |
 
-### 音声・TTS（44）
+### 音声・TTS（45）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -918,6 +918,7 @@
 | [知了 Cicada](entries/tts-audio/wquguru-cicada.md) ⚑ | 2,104 | 366 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 |  | Apache-2.0 |
 | [Irodori-TTS](entries/tts-audio/aratako-irodori-tts.md) ⚑ | 1,586 | 188 | 週次 | 18 | 2026-11-09 | 2026-11-11 |  | MIT |
 | [ElevenLabs Skills](entries/tts-audio/elevenlabs-skills.md) ⚑ | 547 | 94 | 週次 | 13 | 2026-11-04 | 2026-11-10 |  | MIT |
+| [OpenSpline](entries/tts-audio/openspline-openspline.md) ⚑ | 433 | 54 | 週次 | 10 | 2026-11-14 | 2026-11-22 | 2026-11-23 | MIT |
 | [speech.cpp](entries/tts-audio/nyosegawa-speech.cpp.md) ⚑ | 406 | 28 | 毎日 | 52 | 2026-11-14 | 2026-11-14 |  | MIT |
 | [Persian ASR: Nemotron streaming, fine-tuned for Persian (Farsi)](entries/tts-audio/mallahyari-nemotron-asr-streaming-farsi.md) ⚑ | 96 | 9 | 月次 | 0 | 2026-10-03 | 2026-11-18 |  | Apache-2.0 |
 | [adventists-ai/sophon-realtime](entries/tts-audio/adventists-ai-sophon-realtime.md) ⚑ | 58 | 4 | 毎日 | 36 | 2026-11-09 | 2026-11-09 |  | Apache-2.0 |
@@ -3104,6 +3105,7 @@
 - [知了 Cicada](entries/tts-audio/wquguru-cicada.md) — unverified / 公開資料の確認のみ。認識・翻訳精度、遅延、話者識別、共有時の機密情報検出、実際の外部送信先は未検証。Lingの現行料金と無料枠の適用条件は提供元で未確認。
 - [Irodori-TTS](entries/tts-audio/aratako-irodori-tts.md) — unverified / READMEは、単一の長時間録音を使う形式は評価されておらず、複数の短い同一話者クリップで測定した結果と異なる場合があると記載している。必要なGPU・VRAMなどの具体的な実行条件は、提示されたREADME部分から確認できない。
 - [ElevenLabs Skills](entries/tts-audio/elevenlabs-skills.md) — unverified / 最新リリースのタグと公開日時は確認できなかった。スキルの起動、生成音の品質・所要時間、個別API機能の課金条件と生成物の商用利用条件は未検証。
+- [OpenSpline](entries/tts-audio/openspline-openspline.md) — unverified / セルフホストではLinux/WSL2とNVIDIA GPUが必要とREADMEに記載。BlackwellおよびAmpere以前のGPUでは推論のハードウェア検証が必要とも記載されています。
 - [speech.cpp](entries/tts-audio/nyosegawa-speech.cpp.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Persian ASR: Nemotron streaming, fine-tuned for Persian (Farsi)](entries/tts-audio/mallahyari-nemotron-asr-streaming-farsi.md) — unverified / 評価値はREADMEに記載された作者報告であり、独立に再測定していない。モデル重みはApache-2.0ではなく、README記載のOpenMDW-1.1。
 - [adventists-ai/sophon-realtime](entries/tts-audio/adventists-ai-sophon-realtime.md) — unverified / Apache-2.0とNOTICEの第三者要素の条件を分ける。0.31秒等は特定版・構成の作者測定で全版への保証ではない。 当方でインストール・推論・生成・ベンチ再現はしていない。
