@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1503 件 — リポジトリ 1066, リンク集 123, 記事 245, モデル 55, プロンプト 14 / ⚑ 要確認 1227 件
+収録 1504 件 — リポジトリ 1066, リンク集 123, 記事 246, モデル 55, プロンプト 14 / ⚑ 要確認 1228 件
 
 ## リポジトリ（1066）
 
@@ -972,7 +972,7 @@
 | [Jailbreaks](entries/prompt-design/togg53192-cmd-jailbreaks.md) ⚑ | 18,071 | 3,173 | 毎日 | 90 | 2026-11-16 | 2026-11-18 |  | unknown |
 | [prompt-master](entries/prompt-design/nidhinjs-prompt-master.md) ⚑ | 15,766 | 1,819 | 週次 | 7 | 2026-10-22 | 2026-11-09 |  | MIT |
 | [scroll-world](entries/prompt-design/oso95-scroll-world.md) ⚑ | 10,920 | 1,190 | 停滞 | 0 | 2026-07-29 | 2026-11-10 |  | MIT |
-| [Jane Street Agent Skills — Socratic Tutor](entries/prompt-design/janestreet-agent_skills.md) | 10,268 | 705 | 月次 | 3 | 2026-11-17 | 2026-11-19 | 2026-11-23 | MIT |
+| [Jane Street Agent Skills — Socratic Tutor](entries/prompt-design/janestreet-agent_skills.md) | 10,268 | 705 | 月次 | 3 | 2026-11-17 | 2026-11-19 |  | MIT |
 | [Lieflat Less AI Tone](entries/prompt-design/larashero3-dotcom-lieflat-less-ai-tone.md) ⚑ | 7,586 | 535 | 週次 | 14 | 2026-11-11 | 2026-11-13 |  | unknown |
 | [handraw-style](entries/prompt-design/yang0-handraw-style.md) | 7,265 | 852 | 毎日 | 60 | 2026-11-09 | 2026-11-09 |  | NOASSERTION |
 | [LLMLingua](entries/prompt-design/microsoft-llmlingua.md) ⚑ | 6,828 | 454 | 月次 | 1 | 2026-11-09 | 2026-11-17 |  | MIT |
@@ -1646,9 +1646,9 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（245）
+## 記事（246）
 
-### 記事（180）
+### 記事（181）
 
 - **[$0のデジタル参謀長で月$80,000の契約候補を作ったというX投稿（動画付き）](articles/2026-10-22-bober_smart-0-80-000-x.md)** ⚑  @Bober_smart
 - **[1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md)** ⚑  @mukadeshinigami（mukade死神）
@@ -1659,6 +1659,7 @@
 - **[A thousand fewer paths to root](articles/2026-11-04-author-a-thousand-fewer-paths-to-root.md)**
 - **[A timeline of Trump administration's response to FAA ground stop](articles/2026-11-14-author-a-timeline-of-trump-administration-s-response-to-faa-ground-stop.md)** ⚑
 - **[AEGEAN — Three.jsで描く海辺の3D体験](articles/2026-09-30-chetan-ankola-aegean-three.js-3d.md)** ⚑  Chetan Ankola
+- **[AI is dramatically accelerating AI research right now](articles/2026-11-06-author-ai-is-dramatically-accelerating-ai-research-right-now.md)** ⚑
 - **[AI text-to-speech programs could one day unlearn](articles/2025-07-15-author-ai-text-to-speech-programs-could-one-day-unlearn.md)**
 - **[AI text-to-speech programs could “unlearn” how to imitate certain people](articles/2025-07-15-author-ai-text-to-speech-programs-could-unlearn-how-to-imitate-certain-people.md)** ⚑
 - **[AIの出力がバラバラにならなくなる、Pydantic AIの「型で縛る」使い方](articles/2026-10-23-opensourcelab9-ai-pydantic-ai.md)**  opensourcelab9
@@ -2149,6 +2150,7 @@
 - [6つのAIツールを統合して就寝中に$832稼いだというX投稿（動画付き）](articles/2026-10-24-bober_smart-6-ai-832-x.md) — unverified, low-quality / 【主張】6つのツール（Opus 5.5 / REA / Jev / Dots / Grok Bot / Obsidian）を統合し、就寝中に配送ドライバー向けの収益管理アプリを自動構築。243登録・31有料×$9=$832、費用はAPI $5.10＋ドメイン$4=$9.10で91倍、$15の上限で$55のドメインを回避した、と投稿は述べる。【確認できた】①投稿の実体（2026-10-24T18:39:54Z、likes 1,087 / views 130,279 / bookmarks 1,579、本文に外部URLは0件）。②動画の実体（HTTP 200、25,805,564 bytes、19.95秒、1080x1350・60fps、カットは3/9/12/18秒の4箇所）。③6ツールの実在：Claude Opus 5.5 は Anthropic が2026-09-22に公開（$4/$20 per MTok）、REA は morluto/rea（MIT、リバースエンジニアリング用MCP）、Jev は TypeSafe AI の System One モデル、Dots は OpenAI の常駐エージェント（2026-09-29）、Grok Bot は xAI の常駐Bot、Obsidian は実在のノートアプリ。【誤り・矛盾】①収益の算数が合わない：31人×$9＝$279で、$832には約92人の有料会員が必要。②著者自身の動画が$832を否定している：全フレームでヘッダーは REVENUE $279 / SIGNUPS 212 / PAID 31 / COST $7.70・36x で、$832はどこにも表示されない。登録者数も243ではなく212、コストも$9.10ではなく$7.70、予算上限も$15ではなく$10、ドメインも$4ではなく$3。③Jevの役割が製品仕様と正反対：Jevは文字列を生成しない意思決定モデルで、コードを書いたり「概念を実行」したりはできない。返信欄でも複数人が同じ点を問いただしている。④REAは「任意の主題を4分で深掘り」する調査ツールではなく、アプリやバイナリのリバースエンジニアリング用MCP。⑤DotsはOpenAIの常駐エージェントで、ChatGPT Pro / Business Premium が前提。「6つを1つのワークフローに織り込む」ツールではない。⑥成果物の証拠が無い：製品名・URL・コード・決済画面が無く、動画にもURLは1つも写らない。最終フレームは「1 live app • 6 lines of glue code」という演出。⑦引用記事は「Claude Second Brain & Folder Workflow: The Complete Guide」（2026-07-19）で、内容はMarkdownフォルダ＋CLAUDE.mdの索引運用。むしろ「Obsidianは不要」と明記しており、Obsidianに1,260 recordsを貯めたという本投稿の主張と噛み合わない。【未確認】アプリの実在、収益・登録・決済の実績、動画が実画面か（演出と判断）、$5.10のAPI費用の内訳、Obsidianの記録件数。返信欄では「31 x $9 = $279, not $832」「Jev writes code now?」「This is AI-generated fiction.」「This didn’t happen」などと批判され、取得できた範囲に著者の反論・説明は無い。本項目は主張の記録としてのみ扱い、実績値や再現手順として引用しないこと。
 - [A timeline of Trump administration's response to FAA ground stop](articles/2026-11-14-author-a-timeline-of-trump-administration-s-response-to-faa-ground-stop.md) — unverified / 障害の根本原因は記事時点で未確定。回線更新中のルーター過負荷は当局者が示した発生経緯として記述されている。
 - [AEGEAN — Three.jsで描く海辺の3D体験](articles/2026-09-30-chetan-ankola-aegean-three.js-3d.md) — unverified / 制作に使ったモデルの正式名称と操作性は未確認。
+- [AI is dramatically accelerating AI research right now](articles/2026-11-06-author-ai-is-dramatically-accelerating-ai-research-right-now.md) — unverified / 「1年以内に極端な超知能に至る」という見通しは、著者による加速が滑らかに複利で続く場合の素朴な外挿で、METRが実証した予測ではない。METRはAECIの加速推定に幅があり、重要な根拠の多くが非公開で、広範な能力への当てはまりやボトルネック評価にも不確実性があると述べている。
 - [AI text-to-speech programs could “unlearn” how to imitate certain people](articles/2025-07-15-author-ai-text-to-speech-programs-could-unlearn-how-to-imitate-certain-people.md) — unverified / 効果の記述は研究チームの論文・デモに基づくもので、独立した再現確認ではない。評価は研究で使用したモデル・データセットの条件に限られる。
 - [AIを使ったSEOと動画サイトの収益報告](articles/2026-10-23-jarvis11x-ai-seo.md) — unverified / 収益は自己申告。決済原票、施策の詳細と因果関係は未確認。
 - [AIアニメ動画を「作って終わり」にしない。0→1で作品を作り、最初の売上につなげる完全ロードマップ](articles/2026-10-23-8fa0ce29-ai-0-1.md) — unverified / 有料部分の具体的な手順、使用モデルや実行条件、テンプレートの再配布条件、特典の内容と受取期限、制作手法の再現性と売上への効果は未確認。

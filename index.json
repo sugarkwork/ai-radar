@@ -1,5 +1,5 @@
 {
-  "count": 1503,
+  "count": 1504,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -8877,6 +8877,24 @@
       ],
       "fetched_at": "2026-11-10T13:03:01+09:00",
       "path": "articles/2026-09-30-chetan-ankola-aegean-three.js-3d.md"
+    },
+    {
+      "name": "AI is dramatically accelerating AI research right now",
+      "genre": "article",
+      "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+      "published": "2026-11-06",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "「1年以内に極端な超知能に至る」という見通しは、著者による加速が滑らかに複利で続く場合の素朴な外挿で、METRが実証した予測ではない。METRはAECIの加速推定に幅があり、重要な根拠の多くが非公開で、広範な能力への当てはまりやボトルネック評価にも不確実性があると述べている。",
+      "type": "article",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/tetumemo/status/2119380677334626783"
+      ],
+      "fetched_at": "2026-11-19T22:09:16.001037+00:00",
+      "path": "articles/2026-11-06-author-ai-is-dramatically-accelerating-ai-research-right-now.md"
     },
     {
       "name": "AI text-to-speech programs could one day unlearn",
