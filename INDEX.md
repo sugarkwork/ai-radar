@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1382 件 — リポジトリ 978, リンク集 120, 記事 217, モデル 53, プロンプト 14 / ⚑ 要確認 1120 件
+収録 1383 件 — リポジトリ 978, リンク集 120, 記事 217, モデル 54, プロンプト 14 / ⚑ 要確認 1121 件
 
 ## リポジトリ（978）
 
@@ -1413,12 +1413,14 @@
 - **[Phind](links/rag/https-www.phind.com.md)** ⚑  @hey_Jessicaai
   - 開発者向け検索・回答サービスとして紹介されたPhind。
 
-## モデル（53）
+## モデル（54）
 
-### その他（14）
+### その他（15）
 
 - **[169Pi/Alpie_seed](models/other/169pi-alpie_seed.md)** ⚑  free / 169Pi
   - Qwen3.5-9Bを基にしたAlpie_seed。OllamaとGGUF配布があり、紹介はSWE-Bench Verifiedのコーディング評価。
+- **[Arete-27B](models/other/nousresearch-arete-27b.md)** ⚑
+  - Nous Researchは、Arete-27Bを一般的なアシスタント用途やエージェント作業、および追加学習による価値観・振る舞いの変化を調べる研究向けと説明している。Qwen3.8-27Bをベースに、自由な表現、国家イデオロギー、国家と市場、教育、プライバシーと監視、民主主義、環境政策の7カテゴリを対象に教師あり微調
 - **[Clover 35B-A3B（拡散型 MoE）](models/other/diffuspace-clover-35b-a3b-preview.md)** ⚑  free / DiffuSpace
   - **自己回帰ではなくブロック拡散で書く**テキスト生成モデル。1トークンずつ左から伸ばす代わりに、ブロック単位でマスクを置き、確信度の高い位置から並列に埋めて確定させる。
 - **[DeepSeek-V4-Pro-Qwen3.5-9B UNCENSORED（Heretic ARA）](models/other/xtools-at-deepseek-v4-pro-qwen3.5-9b-uncensored-heretic.md)** ⚑  free / xtools-at（表示名 Colonel Panic）
@@ -2697,6 +2699,7 @@
 - [Hands-On Large Language Models](entries/other/sumanth077-hands-on-large-language-models.md) — unverified / READMEはPython・OS・依存関係によって結果が書籍の例と多少異なる場合があると説明している。個別のノートブックに必要な依存関係や実行条件はREADMEだけでは特定できない。
 - [Pay Small Check](entries/other/ahmardchain-pay-small-check.md) — unverified / 判定の正確さや詐欺被害を防ぐ効果は確認できない。README記載の購入者価格は1チェックあたり$0.08。
 - [169Pi/Alpie_seed](models/other/169pi-alpie_seed.md) — unverified / 61.20はMini-SWE-agent・thinking有効・再試行なし・temperature0のモデルカード自己報告。latestタグだけで画像入力可能とは判断しない。 当方でインストール・推論・生成・ベンチ再現はしていない。
+- [Arete-27B](models/other/nousresearch-arete-27b.md) — unverified / 効果の評価値はNous Researchが設計した803問の評価と同社の判定手順に基づく報告。モデル間の一部比較ではデコード設定が異なるため、一般の利用場面で同じ効果が得られるかは未確認。
 - [Clover 35B-A3B（拡散型 MoE）](models/other/diffuspace-clover-35b-a3b-preview.md) — unverified / tok/s 比較は投稿者環境の一例で、モデルカードに計測条件の記載がない。
 - [DeepSeek-V4-Pro-Qwen3.5-9B UNCENSORED（Heretic ARA）](models/other/xtools-at-deepseek-v4-pro-qwen3.5-9b-uncensored-heretic.md) — unverified / モデルとライセンスは実在（HF APIで2026-11-08に確認: DL 1,369・likes 564・apache-2.0・Qwen3_5ForConditionalGeneration）。ただし投稿の主張は未検証か誤りを含む: 『Hugging Faceのサーバーが落ちた』は障害記録がなく誤り。『拒否率100/100→3/100』『KL 0.0422』『25万点蒸留』『知能を1点も失わない』はモデルカードの自己申告で第三者追試なし。カードのGSM8K 94.50%/MMLU-Pro 90.53%は拒否除去前のJackrong版の数字で、heretic版の能力評価は未提出。公式リポジトリはBF16のみでGGUFは第三者変換。そのQ4_K_M 5.63GBは変換時点でconfig.jsonのmtp_num_hidden_layers=1と実ウェイトが食い違い、llama.cppがGGML_ASSERTで落ちる（作者が11/08にMTPテンソルを復元したが再量子化は未実施）。『どの端末でも数秒』は誇張で、CPUのみは変換者計測で約1 t/s。同名の非公式再アップロードが複数あり、クローンからの取得は避ける。当方でGPU推論・llama.cpp実行は未実施（runs_verified=false）。
 - [LapDraw](entries/other/sachinyadavaug20-lapdraw.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。

@@ -1,5 +1,5 @@
 {
-  "count": 1382,
+  "count": 1383,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -31864,6 +31864,30 @@
       "signup_required": false,
       "path": "models/other/169pi-alpie_seed.md",
       "summary": "Qwen3.5-9Bを基にしたAlpie_seed。OllamaとGGUF配布があり、紹介はSWE-Bench Verifiedのコーディング評価。"
+    },
+    {
+      "name": "Arete-27B",
+      "genre": "other",
+      "url": "https://huggingface.co/NousResearch/Arete-27B",
+      "model": "NousResearch/Arete-27B",
+      "license": "Apache-2.0",
+      "downloads": 10670,
+      "likes": 704,
+      "created": "2026-11-06T19:31:28.000Z",
+      "updated": "2026-11-06T21:04:27.000Z",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "効果の評価値はNous Researchが設計した803問の評価と同社の判定手順に基づく報告。モデル間の一部比較ではデコード設定が異なるため、一般の利用場面で同じ効果が得られるかは未確認。",
+      "type": "model",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/IU0QVW/status/2122955661797405025"
+      ],
+      "fetched_at": "2026-11-18T09:52:53Z",
+      "path": "models/other/nousresearch-arete-27b.md",
+      "summary": "Nous Researchは、Arete-27Bを一般的なアシスタント用途やエージェント作業、および追加学習による価値観・振る舞いの変化を調べる研究向けと説明している。Qwen3.8-27Bをベースに、自由な表現、国家イデオロギー、国家と市場、教育、プライバシーと監視、民主主義、環境政策の7カテゴリを対象に教師あり微調"
     },
     {
       "type": "model",
