@@ -1,5 +1,5 @@
 {
-  "count": 1464,
+  "count": 1465,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -28357,6 +28357,37 @@
       "last_release_at": "",
       "path": "entries/other/googlecloudplatform-generative-ai.md",
       "summary": "Geminiのスターターノートブック、ユースケース、function calling、サンプルアプリを参照できます。RAGとGrounding、ImagenとVeoを使ったソリューション構築、Chirpを使った音声関連のサンプルも案内されています。"
+    },
+    {
+      "name": "Katana",
+      "genre": "other",
+      "url": "https://github.com/projectdiscovery/katana",
+      "repo": "projectdiscovery/katana",
+      "license": "MIT",
+      "stars": 17874,
+      "language": "Go",
+      "created": "2021-01-02",
+      "updated": "2026-11-18",
+      "forks": 1237,
+      "open_issues": 26,
+      "commits_30d": 100,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 3433,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/RealMarvelX/status/2119329098929426902"
+      ],
+      "fetched_at": "2026-11-19T07:29:02.186293+00:00",
+      "path": "entries/other/projectdiscovery-katana.md",
+      "summary": "Webサイトをクロールするツール。標準モードとヘッドレスモード、JavaScriptファイルの解析・クロール、自動フォーム入力、クロール範囲の制御に対応します。出力先は標準出力、ファイル、JSONを指定できます。Knowledge baseではページ種別やフォームを分類し、モデルを自動ダウンロードすると説明されています"
     },
     {
       "name": "PlayCanvas Engine",
