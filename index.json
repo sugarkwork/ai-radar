@@ -1,5 +1,5 @@
 {
-  "count": 1401,
+  "count": 1402,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -27200,6 +27200,37 @@
       "last_release_at": "2026-11-11",
       "path": "entries/other/google-deepmind-mujoco.md",
       "summary": "関節構造と環境が相互作用する物理シミュレーションを行う汎用エンジン。C API、Python bindings、Unityプラグインを提供し、ネイティブデスクトップウィンドウとWebブラウザーでの対話型可視化、物理量計算用のユーティリティ関数を備える。READMEはロボティクス、生体力学、グラフィックス・アニメーション"
+    },
+    {
+      "name": "ffmpeg.wasm",
+      "genre": "other",
+      "url": "https://github.com/ffmpegwasm/ffmpeg.wasm",
+      "repo": "ffmpegwasm/ffmpeg.wasm",
+      "license": "MIT",
+      "stars": 17970,
+      "language": "C",
+      "created": "2019-10-16",
+      "updated": "2026-09-29",
+      "forks": 1127,
+      "open_issues": 459,
+      "commits_30d": 0,
+      "commit_cadence": "stale",
+      "commits_90d": 0,
+      "size_kb": 17934,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEは安定性をexperimentalと表示している。GitHub APIの計測値では直近30日・90日のコミットはいずれも0件（2026-11-18取得）。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/0xclayo/status/2123016316353155192"
+      ],
+      "fetched_at": "2026-11-18T14:18:53.829649+00:00",
+      "path": "entries/other/ffmpegwasm-ffmpeg.wasm.md",
+      "summary": "READMEでは、FFmpegのWebAssembly／JavaScript移植版として、ブラウザー内で動画・音声の録音、変換、ストリーミングを可能にすると説明している。実機での動作はこの確認では検証していない。"
     },
     {
       "name": "Generative AI on Google Cloud",

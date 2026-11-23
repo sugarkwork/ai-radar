@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1401 件 — リポジトリ 993, リンク集 120, 記事 219, モデル 55, プロンプト 14 / ⚑ 要確認 1137 件
+収録 1402 件 — リポジトリ 994, リンク集 120, 記事 219, モデル 55, プロンプト 14 / ⚑ 要確認 1138 件
 
-## リポジトリ（993）
+## リポジトリ（994）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（228）
+### その他（229）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -78,6 +78,7 @@
 | [micrograd](entries/other/karpathy-micrograd.md) ⚑ | 18,805 | 2,993 | 停滞 | 0 | 2026-08-03 | 2026-11-10 | 2026-11-10 | MIT |
 | [theHarvester](entries/other/laramies-theharvester.md) ⚑ | 18,318 | 2,736 | 毎日 | 63 | 2026-11-13 | 2026-11-13 | 2026-11-14 | GPL-2.0 |
 | [MuJoCo](entries/other/google-deepmind-mujoco.md) ⚑ | 18,174 | 2,206 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [ffmpeg.wasm](entries/other/ffmpegwasm-ffmpeg.wasm.md) ⚑ | 17,970 | 1,127 | 停滞 | 0 | 2026-09-29 | 2026-11-18 | 2026-11-23 | MIT |
 | [Generative AI on Google Cloud](entries/other/googlecloudplatform-generative-ai.md) ⚑ | 17,940 | 4,523 | 毎日 | 28 | 2026-11-16 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
 | [PlayCanvas Engine](entries/other/playcanvas-engine.md) ⚑ | 17,274 | 2,054 | 毎日 | 100+ | 2026-11-11 | 2026-11-11 | 2026-11-11 | MIT |
 | [social-auto-upload](entries/other/dreammis-social-auto-upload.md) ⚑ | 16,605 | 2,814 | 週次 | 16 | 2026-10-22 | 2026-11-16 | 2026-11-22 | MIT |
@@ -2582,6 +2583,7 @@
 - [micrograd](entries/other/karpathy-micrograd.md) — unverified / 勾配の一致、分類デモの再現性、実行性能、Python バージョンごとの動作は独立実測していない。GitHub の公開 Releases 一覧にはリリースが表示されていないため、最新リリースの版と日時は未記載。
 - [theHarvester](entries/other/laramies-theharvester.md) — unverified / 対象の所有または明示的なテスト許可が必要。選択した提供元には対象文字列が送られる。P1のDNS照会とP2の対象への直接接続は、選択した場合に実行される。Python 3.14とuvが必要。
 - [MuJoCo](entries/other/google-deepmind-mujoco.md) — unverified / READMEの取得内容がライセンス節の途中で途切れているため、ライセンス本文の条件はこの資料から確認できない。
+- [ffmpeg.wasm](entries/other/ffmpegwasm-ffmpeg.wasm.md) — unverified / READMEは安定性をexperimentalと表示している。GitHub APIの計測値では直近30日・90日のコミットはいずれも0件（2026-11-18取得）。
 - [Generative AI on Google Cloud](entries/other/googlecloudplatform-generative-ai.md) — unverified / READMEだけでは、各サンプルの個別の依存関係、実行条件、料金は確認できません。
 - [PlayCanvas Engine](entries/other/playcanvas-engine.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [social-auto-upload](entries/other/dreammis-social-auto-upload.md) — unverified / 対応表は開発元の記載。実アカウントでのログイン、投稿成功率、定時公開、処理時間、各サービスの規約適合性は未検証。最新リリースのタグは確認済みだが、公開年とタイムゾーンを含む日時は未確認。
