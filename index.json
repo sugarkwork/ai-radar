@@ -1,5 +1,5 @@
 {
-  "count": 1415,
+  "count": 1416,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -14537,6 +14537,37 @@
       "last_release_at": "",
       "path": "entries/coding-agent/coleam00-second-brain-starter.md",
       "summary": "利用ツール、優先タスク、自律度、許可範囲を記入した要件から、実装順と段階間の依存関係を含む9段階のPRDを生成する。各機能の実装はPRD生成後の工程になる。"
+    },
+    {
+      "name": "Claude animation skills",
+      "genre": "coding-agent",
+      "url": "https://github.com/artemnovitckii/claude-animation-skills",
+      "repo": "artemnovitckii/claude-animation-skills",
+      "license": "unknown",
+      "stars": 894,
+      "language": "JavaScript",
+      "created": "2026-11-01",
+      "updated": "2026-11-17",
+      "forks": 128,
+      "open_issues": 5,
+      "commits_30d": 5,
+      "commit_cadence": "weekly",
+      "commits_90d": 5,
+      "size_kb": 2443,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEではgit cloneの手順をエンドツーエンドでテストしたと述べているが、独立した動作確認はしていない。MITライセンスの記載はREADMEにある一方、GitHub API上のlicenseはunknown。 GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/ganfanren_ai/status/2119276245695516673"
+      ],
+      "fetched_at": "2026-11-18T16:09:46.071451+00:00",
+      "path": "entries/coding-agent/artemnovitckii-claude-animation-skills.md",
+      "summary": "Claude Codeのスキルとして、グラフ、地図ルート、分解図、ローポリやボクセルなど複数スタイルの縦型アニメーションを制作できる。短い仕様をもとにMP4（1080×1920、30 fps）とセーフエリア付きコンタクトシートを出力する手順が記載されている。解説動画向けのスキルでは、台本、ナレーション、字幕タイミング、"
     },
     {
       "name": "公文 Skills · dyz-gongwen-skills",

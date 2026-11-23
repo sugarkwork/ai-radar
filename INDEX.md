@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1415 件 — リポジトリ 1004, リンク集 121, 記事 221, モデル 55, プロンプト 14 / ⚑ 要確認 1149 件
+収録 1416 件 — リポジトリ 1005, リンク集 121, 記事 221, モデル 55, プロンプト 14 / ⚑ 要確認 1150 件
 
-## リポジトリ（1004）
+## リポジトリ（1005）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -248,7 +248,7 @@
 | [Pay Small Check](entries/other/ahmardchain-pay-small-check.md) ⚑ | 1 | 0 | 毎日 | 32 | 2026-11-07 | 2026-11-16 | 2026-11-22 | MIT |
 | [LapDraw](entries/other/sachinyadavaug20-lapdraw.md) ⚑ | 0 | 0 | 毎日 | 22 | 2026-11-07 | 2026-11-13 | 2026-11-13 | MIT |
 
-### コーディングエージェント（152）
+### コーディングエージェント（153）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -344,6 +344,7 @@
 | [EvoSkill](entries/coding-agent/sentient-agi-evoskill.md) ⚑ | 1,303 | 134 | 停滞 | 0 | 2026-10-26 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
 | [Claude Remotion Skill](entries/coding-agent/haidrrrry-claude-remotion-skill.md) ⚑ | 1,061 | 143 | 停滞 | 0 | 2026-08-12 | 2026-11-16 | 2026-11-22 | MIT |
 | [Second Brain Starter](entries/coding-agent/coleam00-second-brain-starter.md) ⚑ | 905 | 191 | 停滞 | 0 | 2026-06-09 | 2026-11-16 | 2026-11-22 | unknown |
+| [Claude animation skills](entries/coding-agent/artemnovitckii-claude-animation-skills.md) ⚑ | 894 | 128 | 週次 | 5 | 2026-11-17 | 2026-11-18 | 2026-11-23 | unknown |
 | [公文 Skills · dyz-gongwen-skills](entries/coding-agent/duyunzhoudyz-dyz-gongwen-skills.md) ⚑ | 883 | 38 | 毎日 | 91 | 2026-11-13 | 2026-11-16 | 2026-11-22 | unknown |
 | [claude-motion-design](entries/coding-agent/howseen-ai-claude-motion-design.md) ⚑ | 845 | 106 | 月次 | 0 | 2026-10-04 | 2026-11-16 | 2026-11-22 | MIT |
 | [editonny](entries/coding-agent/soumatheusgomes-editonny.md) | 832 | 100 | 毎日 | 22 | 2026-10-21 | 2026-11-18 | 2026-11-23 | MIT |
@@ -2258,6 +2259,7 @@
 - [EvoSkill](entries/coding-agent/sentient-agi-evoskill.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Claude Remotion Skill](entries/coding-agent/haidrrrry-claude-remotion-skill.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Second Brain Starter](entries/coding-agent/coleam00-second-brain-starter.md) — unverified / スキルは未実行。生成PRDの品質、連携先ごとの動作、対応バージョン、運用費用、ライセンス条件は未確認。GitHubの公開リリース一覧の取得結果にはリリースが表示されず、最新リリースへの直接アクセスはタイムアウトした。READMEは公開raw URLおよびGitHubの表示から確認した。 GitHub APIでライセンスを確認できていません。
+- [Claude animation skills](entries/coding-agent/artemnovitckii-claude-animation-skills.md) — unverified / READMEではgit cloneの手順をエンドツーエンドでテストしたと述べているが、独立した動作確認はしていない。MITライセンスの記載はREADMEにある一方、GitHub API上のlicenseはunknown。 GitHub APIでライセンスを確認できていません。
 - [公文 Skills · dyz-gongwen-skills](entries/coding-agent/duyunzhoudyz-dyz-gongwen-skills.md) — unverified / GitHub APIのlicense値はunknownですが、READMEのバッジはPolyForm NC 1.0を示しています。ライセンス本文の条件はこの資料では確認できません。 GitHub APIでライセンスを確認できていません。
 - [claude-motion-design](entries/coding-agent/howseen-ai-claude-motion-design.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [yuwen-publish-precheck｜发布前审](entries/coding-agent/yuwen-cool-yuwen-publish-precheck.md) — unverified / 検出精度やプラットフォームでの審査結果に関する説明はREADME内の作者の記述・例であり、独立した検証結果ではない。README自身も審査通過を保証せず、最終判断はプラットフォーム側に依存するとしている。
