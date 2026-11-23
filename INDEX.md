@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1535 件 — リポジトリ 1089, リンク集 125, 記事 252, モデル 55, プロンプト 14 / ⚑ 要確認 1256 件
+収録 1536 件 — リポジトリ 1090, リンク集 125, 記事 252, モデル 55, プロンプト 14 / ⚑ 要確認 1257 件
 
-## リポジトリ（1089）
+## リポジトリ（1090）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（278）
+### その他（279）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -247,6 +247,7 @@
 | [jev-voice-browser](entries/other/moritzkremb-jev-voice-browser.md) ⚑ | 431 | 71 | 停滞 | 0 | 2026-09-21 | 2026-11-10 |  | MIT |
 | [Hishel](entries/other/karpetrosyan-hishel.md) ⚑ | 422 | 57 | 週次 | 14 | 2026-11-10 | 2026-11-17 |  | BSD-3-Clause |
 | [ResumeForge](entries/other/magicapple123-resumeforge.md) ⚑ | 417 | 19 | 毎日 | 100+ | 2026-11-10 | 2026-11-11 |  | Apache-2.0 |
+| [英语研习室 · CET Practice](entries/other/o-sakurajimamai-o-cet-practice.md) ⚑ | 357 | 22 | 毎日 | 28 | 2026-11-13 | 2026-11-22 | 2026-11-23 | unknown |
 | [p5.capture](entries/other/tapioca24-p5.capture.md) ⚑ | 318 | 9 | 停滞 | 0 | 2026-04-15 | 2026-11-18 |  | MIT |
 | [Image 2 Sculpt](entries/other/gokayfem-image-to-sculpt.md) ⚑ | 295 | 21 | 月次 | 2 | 2026-11-08 | 2026-11-16 |  | MIT |
 | [Sakutto](entries/other/jammaru-sakutto.md) ⚑ | 271 | 30 | 毎日 | 100+ | 2026-11-18 | 2026-11-18 |  | MIT |
@@ -2942,6 +2943,7 @@
 - [jev-voice-browser](entries/other/moritzkremb-jev-voice-browser.md) — unverified / 性能と費用はREADMEに記載された作者環境での報告で、独立再現、現行のAPI料金・利用条件、確認機構の実効性は未検証。GitHubの公開リリース一覧にはリリースが表示されていない。
 - [Hishel](entries/other/karpetrosyan-hishel.md) — unverified / 一次資料で未確認: 有効性・実行条件。
 - [ResumeForge](entries/other/magicapple123-resumeforge.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
+- [英语研习室 · CET Practice](entries/other/o-sakurajimamai-o-cet-practice.md) — unverified / READMEはライセンスを明記しておらず、GitHub API上のライセンスもunknownです。 GitHub APIでライセンスを確認できていません。
 - [p5.capture](entries/other/tapioca24-p5.capture.md) — unverified / 一次資料で未確認: 有効性。
 - [Image 2 Sculpt](entries/other/gokayfem-image-to-sculpt.md) — unverified / README gives a typical case cost of about $2; actual cost may vary with calls and the per-case budget. A fal API key is required for masks, depth, normals, and generated views; the README also describes a front-only path using a cut-out PNG and user-provided views.
 - [Sakutto](entries/other/jammaru-sakutto.md) — unverified / 一次資料で未確認: 実行条件。

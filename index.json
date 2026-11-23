@@ -1,5 +1,5 @@
 {
-  "count": 1535,
+  "count": 1536,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -34267,6 +34267,37 @@
       "fetched_at": "2026-11-11T18:05:38.246995+00:00",
       "path": "entries/other/magicapple123-resumeforge.md",
       "summary": "READMEでは、求人情報の整理・解析、プロフィールとの適合分析、履歴書の作成とPDF出力、応募状況の追跡、模擬面接と振り返りを扱うと説明されています。プロフィールの事実と生成文を分け、登録内容との不一致や未入力マーカーを警告する機能も記載されています。これらは作者の説明であり、独立した動作確認ではありません。"
+    },
+    {
+      "name": "英语研习室 · CET Practice",
+      "genre": "other",
+      "url": "https://github.com/o-Sakurajimamai-o/cet-practice",
+      "repo": "o-Sakurajimamai-o/cet-practice",
+      "license": "unknown",
+      "stars": 357,
+      "language": "Python",
+      "created": "2026-10-25",
+      "updated": "2026-11-13",
+      "forks": 22,
+      "open_issues": 2,
+      "commits_30d": 28,
+      "commit_cadence": "daily",
+      "commits_90d": 28,
+      "size_kb": 6523,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEはライセンスを明記しておらず、GitHub API上のライセンスもunknownです。 GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/fhwofjow51260/status/2119406598368149896"
+      ],
+      "fetched_at": "2026-11-22T04:20:11.204724+00:00",
+      "path": "entries/other/o-sakurajimamai-o-cet-practice.md",
+      "summary": "READMEによると、四六級と考研英語の練習問題を収録し、進捗・错題・收藏・ノートの記録、划词統計、読解文の中英切り替えに対応します。四六級は听力音声付き・音声なしの配布版があり、音声なしでも聴解問題・原文・解説を利用できます。"
     },
     {
       "name": "p5.capture",
