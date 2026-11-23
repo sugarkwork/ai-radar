@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1520 件 — リポジトリ 1077, リンク集 125, 記事 249, モデル 55, プロンプト 14 / ⚑ 要確認 1241 件
+収録 1521 件 — リポジトリ 1078, リンク集 125, 記事 249, モデル 55, プロンプト 14 / ⚑ 要確認 1242 件
 
-## リポジトリ（1077）
+## リポジトリ（1078）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -457,7 +457,7 @@
 | [Leash](entries/coding-agent/cmaintz-leash.md) ⚑ | 0 | 0 | 毎日 | 20 | 2026-11-15 | 2026-11-16 |  | MIT |
 | [grok-x](entries/coding-agent/stat-guy-grok-x.md) ⚑ | 0 | 0 | 停滞 | 0 | 2026-03-19 | 2026-11-16 |  | unknown |
 
-### エージェント基盤・スキル集（133）
+### エージェント基盤・スキル集（134）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -500,6 +500,7 @@
 | [TencentDB Agent Memory（チームで共有するエージェント記憶ハブ）](entries/agent-framework/tencentcloud-tencentdb-agent-memory.md) | 30,940 | 3,030 | 週次 | 14 | 2026-11-10 | 2026-11-16 |  | MIT（GitHub API は NOASSERTION） |
 | [GPT Researcher](entries/agent-framework/assafelovic-gpt-researcher.md) ⚑ | 30,738 | 4,231 | 毎日 | 100+ | 2026-11-12 | 2026-11-16 |  | Apache-2.0 |
 | [Activepieces](entries/agent-framework/activepieces-activepieces.md) ⚑ | 25,568 | 4,476 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 |  | unknown |
+| [Letta](entries/agent-framework/letta-ai-letta.md) ⚑ | 25,497 | 2,682 | 月次 | 0 | 2026-10-18 | 2026-11-20 | 2026-11-23 | Apache-2.0 |
 | [ccch1mneyyy/dsh-Go](entries/agent-framework/ccch1mneyyy-dsh-go.md) ⚑ | 24,732 | 1,179 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 |  | AGPL-3.0 |
 | [agent-desktop](entries/agent-framework/vercel-labs-agent-desktop.md) | 24,577 | 1,827 | 毎日 | 92 | 2026-11-16 | 2026-11-16 |  | Apache-2.0 |
 | [Jev Ultrafast](entries/agent-framework/browser-use-jev-ultrafast.md) ⚑ | 24,546 | 1,888 | 月次 | 2 | 2026-11-11 | 2026-11-16 |  | MIT |
@@ -1086,7 +1087,7 @@
 |---|---:|---:|---|---:|---|---|---|---|
 | [Graphify](entries/rag/graphify-labs-graphify.md) ⚑ | 144,984 | 13,875 | 毎日 | 100+ | 2026-11-09 | 2026-11-09 |  | Apache-2.0 |
 | [RAGFlow](entries/rag/infiniflow-ragflow.md) ⚑ | 94,266 | 11,333 | 毎日 | 100+ | 2026-11-17 | 2026-11-17 |  | Apache-2.0 |
-| [Meilisearch](entries/rag/meilisearch-meilisearch.md) ⚑ | 59,927 | 2,808 | 毎日 | 100+ | 2026-11-19 | 2026-11-20 | 2026-11-23 | unknown |
+| [Meilisearch](entries/rag/meilisearch-meilisearch.md) ⚑ | 59,927 | 2,808 | 毎日 | 100+ | 2026-11-19 | 2026-11-20 |  | unknown |
 | [HKUDS/DeepTutor](entries/rag/hkuds-deeptutor.md) ⚑ | 57,584 | 7,020 | 毎日 | 100+ | 2026-11-07 | 2026-11-09 |  | Apache-2.0 |
 | [LlamaIndex Framework](entries/rag/run-llama-llama_index.md) ⚑ | 52,924 | 8,570 | 週次 | 9 | 2026-11-14 | 2026-11-17 |  | MIT |
 | [OpenViking](entries/rag/volcengine-openviking.md) ⚑ | 42,312 | 3,502 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 |  | AGPL-3.0 |
@@ -2078,6 +2079,7 @@
 - [Composio](entries/agent-framework/composiohq-composio.md) — unverified / 利用にはCOMPOSIO_API_KEYが必要とREADMEに記載。README記載の機能や規模について独立した検証はしていない。
 - [GPT Researcher](entries/agent-framework/assafelovic-gpt-researcher.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Activepieces](entries/agent-framework/activepieces-activepieces.md) — unverified / GitHub APIでライセンスを確認できていません。
+- [Letta](entries/agent-framework/letta-ai-letta.md) — unverified / READMEによると現行ソースは letta-ai/letta-code にあり、このリポジトリのarchiveブランチは退役したLetta V1 APIサーバー。現行プロジェクトでの利用先や、旧ソースの具体的な動作条件は添付READMEだけでは確認できない。
 - [ccch1mneyyy/dsh-Go](entries/agent-framework/ccch1mneyyy-dsh-go.md) — unverified / 匿名使用統計は既定ONで停止可能。スマホ操作の画面内容がモデル提供元へ送られ得る。ローカル起動でもモデル通信・課金は別。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Jev Ultrafast](entries/agent-framework/browser-use-jev-ultrafast.md) — unverified / ['最新リリースのタグと公開日時、外部APIの現行料金・利用条件は未確認。', '性能値は開発元の報告。独立した再実行は行っておらず、別サイトや別環境での性能は未確認。']
 - [google/skills](entries/agent-framework/google-skills.md) — unverified / skill追加だけで対象クラウド契約・API課金が無料になるわけではない。日次stars増分と効果は未検証。 当方でインストール・推論・生成・ベンチ再現はしていない。
