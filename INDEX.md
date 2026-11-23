@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1508 件 — リポジトリ 1068, リンク集 124, 記事 247, モデル 55, プロンプト 14 / ⚑ 要確認 1232 件
+収録 1509 件 — リポジトリ 1069, リンク集 124, 記事 247, モデル 55, プロンプト 14 / ⚑ 要確認 1233 件
 
-## リポジトリ（1068）
+## リポジトリ（1069）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（270）
+### その他（271）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Generative AI for Beginners](entries/other/microsoft-generative-ai-for-beginners.md) ⚑ | 123,543 | 66,422 | 毎日 | 66 | 2026-11-12 | 2026-11-15 |  | MIT |
 | [Godot Engine](entries/other/godotengine-godot.md) ⚑ | 120,279 | 27,542 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 |  | MIT |
 | [Immich](entries/other/immich-app-immich.md) ⚑ | 119,382 | 7,632 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 |  | AGPL-3.0 |
+| [Sherlock](entries/other/sherlock-project-sherlock.md) ⚑ | 114,599 | 13,160 | 月次 | 1 | 2026-11-19 | 2026-11-20 | 2026-11-23 | MIT |
 | [Build a Large Language Model (From Scratch)](entries/other/rasbt-llms-from-scratch.md) ⚑ | 108,297 | 16,745 | 週次 | 13 | 2026-11-09 | 2026-11-12 |  | unknown |
 | [Ghidra](entries/other/nationalsecurityagency-ghidra.md) ⚑ | 100,613 | 11,442 | 毎日 | 100+ | 2026-11-18 | 2026-11-19 |  | Apache-2.0 |
 | [OpenCut](entries/other/opencut-app-opencut.md) ⚑ | 98,341 | 9,823 | 停滞 | 0 | 2026-09-24 | 2026-11-14 |  | MIT |
@@ -857,7 +858,7 @@
 | [ausboss/ComfyUI-AusBoss-Model-Downloader](entries/model-serving/ausboss-comfyui-ausboss-model-downloader.md) ⚑ | 9 | 1 | 週次 | 9 | 2026-11-15 | 2026-11-16 |  | MIT |
 | [Qwen3.8 Weight-Space Programming (Calmer V2)](entries/model-serving/xananthium-qwen3.8-weight-space-programming.md) ⚑ | 4 | 0 | 月次 | 3 | 2026-11-07 | 2026-11-18 |  | Apache-2.0 |
 | [SwiftPulse](entries/model-serving/sineld-swiftpulse.md) ⚑ | 2 | 0 | 週次 | 4 | 2026-11-07 | 2026-11-19 |  | MIT |
-| [NInfer](entries/model-serving/andrewleech-ninfer-v100.md) ⚑ | 1 | 0 | 月次 | 1 | 2026-11-08 | 2026-11-19 | 2026-11-23 | Apache-2.0 |
+| [NInfer](entries/model-serving/andrewleech-ninfer-v100.md) ⚑ | 1 | 0 | 月次 | 1 | 2026-11-08 | 2026-11-19 |  | Apache-2.0 |
 
 ### 音声・TTS（44）
 
@@ -2689,6 +2690,7 @@
 - [Generative AI for Beginners](entries/other/microsoft-generative-ai-for-beginners.md) — unverified / READMEに料金の記載はなく、利用する各サービスの費用は確認できない。
 - [Godot Engine](entries/other/godotengine-godot.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Immich](entries/other/immich-app-immich.md) — unverified / インストール要件、詳細な実行条件、料金は添付READMEから確認できません。
+- [Sherlock](entries/other/sherlock-project-sherlock.md) — unverified / 一次資料で未確認: 技術背景・依存関係・実行条件。
 - [Build a Large Language Model (From Scratch)](entries/other/rasbt-llms-from-scratch.md) — unverified / ライセンスはAPI上でunknown。利用・再配布の許諾条件は確認できていない。 GitHub APIでライセンスを確認できていません。
 - [Ghidra](entries/other/nationalsecurityagency-ghidra.md) — unverified / READMEは特定バージョンに既知のセキュリティ脆弱性があると告知している。利用前にSecurity Advisoriesで影響を確認する必要がある。
 - [OpenCut](entries/other/opencut-app-opencut.md) — unverified / このリポジトリの改修版が利用可能になる時期や、記載された開発手順が現在も動作するかはREADMEから確認できません。

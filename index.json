@@ -1,5 +1,5 @@
 {
-  "count": 1508,
+  "count": 1509,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -26645,6 +26645,37 @@
       "last_release_at": "2026-11-11",
       "path": "entries/other/immich-app-immich.md",
       "summary": "写真・動画のアップロードと閲覧、重複防止、アルバム、共有、EXIFや地図を含むメタデータ表示、メタデータ・オブジェクト・顔・CLIPによる検索などを提供するとREADMEに記載されています。モバイルとWebで利用できる機能はREADMEの機能表を参照してください。出典: https://github.com/immic"
+    },
+    {
+      "name": "Sherlock",
+      "genre": "other",
+      "url": "https://github.com/sherlock-project/sherlock",
+      "repo": "sherlock-project/sherlock",
+      "license": "MIT",
+      "stars": 114599,
+      "language": "Python",
+      "created": "2018-12-24",
+      "updated": "2026-11-19",
+      "forks": 13160,
+      "open_issues": 418,
+      "commits_30d": 1,
+      "commit_cadence": "monthly",
+      "commits_90d": 10,
+      "size_kb": 19107,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景・依存関係・実行条件。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/RoundtableSpace/status/2119388210455556437"
+      ],
+      "fetched_at": "2026-11-20T00:13:12.398654+00:00",
+      "path": "entries/other/sherlock-project-sherlock.md",
+      "summary": "ユーザー名を指定してソーシャルネットワーク上のアカウントを検索します。READMEでは400以上のネットワークを対象とすると説明されています。見つかったアカウントはユーザー名に対応するテキストファイルに保存できます。"
     },
     {
       "name": "Build a Large Language Model (From Scratch)",
