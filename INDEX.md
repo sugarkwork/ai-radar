@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1416 件 — リポジトリ 1005, リンク集 121, 記事 221, モデル 55, プロンプト 14 / ⚑ 要確認 1150 件
+収録 1417 件 — リポジトリ 1006, リンク集 121, 記事 221, モデル 55, プロンプト 14 / ⚑ 要確認 1151 件
 
-## リポジトリ（1005）
+## リポジトリ（1006）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（235）
+### その他（236）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -43,6 +43,7 @@
 | [LosslessCut](entries/other/mifi-lossless-cut.md) ⚑ | 45,884 | 2,317 | 毎日 | 100+ | 2026-11-09 | 2026-11-10 | 2026-11-10 | GPL-2.0 |
 | [DuckDB](entries/other/duckdb-duckdb.md) | 43,113 | 4,212 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
 | [Postiz](entries/other/gitroomhq-postiz-app.md) ⚑ | 41,750 | 7,973 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | AGPL-3.0 |
+| [Vuetify](entries/other/vuetifyjs-vuetify.md) ⚑ | 41,043 | 7,100 | 毎日 | 100+ | 2026-11-18 | 2026-11-18 | 2026-11-23 | unknown |
 | [croc](entries/other/schollz-croc.md) ⚑ | 40,930 | 1,655 | 毎日 | 74 | 2026-11-13 | 2026-11-14 | 2026-11-14 | MIT |
 | [Maigret](entries/other/soxoj-maigret.md) ⚑ | 40,599 | 3,269 | 毎日 | 58 | 2026-11-13 | 2026-11-13 | 2026-11-14 | MIT |
 | [Heretic](entries/other/p-e-w-heretic.md) | 40,132 | 4,590 | 毎日 | 29 | 2026-11-08 | 2026-11-09 | 2026-11-10 | AGPL-3.0 |
@@ -2571,6 +2572,7 @@
 - [SiYuan](entries/other/siyuan-note-siyuan.md) — unverified / 一部機能は有料会員限定。機能ごとの利用条件や料金の詳細はREADMEから確認できない。
 - [LosslessCut](entries/other/mifi-lossless-cut.md) — unverified / 実ファイルでの処理速度、カット位置、CLIとHTTP APIの動作は未実測。公開リリースページで最新タグは確認したが、公開日時の年とタイムゾーンは未確認。
 - [Postiz](entries/other/gitroomhq-postiz-app.md) — unverified / README記載のAGPL-3.0以外の利用条件や、セルフホストに必要な具体的な設定・環境条件は確認していない。
+- [Vuetify](entries/other/vuetifyjs-vuetify.md) — unverified / GitHub APIでライセンスを確認できていません。
 - [croc](entries/other/schollz-croc.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Maigret](entries/other/soxoj-maigret.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [PDFMathTranslate](entries/other/pdfmathtranslate-pdfmathtranslate.md) — unverified / 翻訳精度、レイアウトの保持度、実行速度、実験的OCRの品質、CLIとMCPの動作は独立検証していない。mainブランチの記載と配布版の機能差、最新リリースのタグと公開日時、翻訳サービスごとの料金とデータ取扱条件は未確認。

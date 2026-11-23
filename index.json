@@ -1,5 +1,5 @@
 {
-  "count": 1416,
+  "count": 1417,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -26222,6 +26222,37 @@
       "last_release_at": "2026-11-13",
       "path": "entries/other/gitroomhq-postiz-app.md",
       "summary": "ソーシャルメディア投稿の予約、自動化、分析を行う。チームでの共同作業やコメント、投稿の交換・購入にも対応するとREADMEに記載。N8N、Make.com、Zapierなどを使ったAPI経由の自動化を想定している。"
+    },
+    {
+      "name": "Vuetify",
+      "genre": "other",
+      "url": "https://github.com/vuetifyjs/vuetify",
+      "repo": "vuetifyjs/vuetify",
+      "license": "unknown",
+      "stars": 41043,
+      "language": "TypeScript",
+      "created": "2016-09-12",
+      "updated": "2026-11-18",
+      "forks": 7100,
+      "open_issues": 318,
+      "commits_30d": 100,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 102071,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/dextune/status/2119278743562891325"
+      ],
+      "fetched_at": "2026-11-18T16:11:55.741984+00:00",
+      "path": "entries/other/vuetifyjs-vuetify.md",
+      "summary": "Vueアプリケーション向けに、handcrafted Vueコンポーネントを提供するUIライブラリ。READMEは、SASS/SCSS・デフォルト設定・Blueprintsによるカスタマイズ、レスポンシブなコンポーネント、テーマシステム、Viteでの自動tree-shaking、42以上の対応言語を挙げている。"
     },
     {
       "name": "croc",
