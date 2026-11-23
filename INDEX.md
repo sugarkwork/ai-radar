@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1392 件 — リポジトリ 984, リンク集 120, 記事 219, モデル 55, プロンプト 14 / ⚑ 要確認 1129 件
+収録 1393 件 — リポジトリ 985, リンク集 120, 記事 219, モデル 55, プロンプト 14 / ⚑ 要確認 1130 件
 
-## リポジトリ（984）
+## リポジトリ（985）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -644,7 +644,7 @@
 | [BennyDaBall930/comfyui_hyperflow_int8_nodes](entries/video-gen/bennydaball930-comfyui_hyperflow_int8_nodes.md) ⚑ | 3 | 0 | 週次 | 10 | 2026-11-09 | 2026-11-09 |  | GPL-3.0 |
 | [web-reels](entries/video-gen/rabin-a-web-reels.md) ⚑ | 0 | 0 | 週次 | 5 | 2026-11-08 | 2026-11-18 |  | unknown |
 
-### 3D・モーション（84）
+### 3D・モーション（85）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -658,7 +658,7 @@
 | [Babylon.js](entries/3d-motion/babylonjs-babylon.js.md) ⚑ | 26,380 | 3,739 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 |  | Apache-2.0 |
 | [Blender](entries/3d-motion/blender-blender.md) ⚑ | 22,112 | 3,610 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 |  | unknown |
 | [Hunyuan3D-2](entries/3d-motion/tencent-hunyuan-hunyuan3d-2.md) ⚑ | 15,445 | 1,604 | 停滞 | 0 | 2025-10-28 | 2026-11-16 |  | unknown |
-| [Bullet Physics SDK](entries/3d-motion/bulletphysics-bullet3.md) ⚑ | 14,872 | 3,119 | 月次 | 0 | 2026-10-09 | 2026-11-18 | 2026-11-23 | unknown |
+| [Bullet Physics SDK](entries/3d-motion/bulletphysics-bullet3.md) ⚑ | 14,872 | 3,119 | 月次 | 0 | 2026-10-09 | 2026-11-18 |  | unknown |
 | [Meshroom](entries/3d-motion/alicevision-meshroom.md) ⚑ | 13,096 | 1,242 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 |  | MPL-2.0 |
 | [Theatre.js](entries/3d-motion/theatre-js-theatre.md) ⚑ | 13,028 | 511 | 停滞 | 0 | 2024-08-14 | 2026-11-16 |  | Apache-2.0 |
 | [TRELLIS.2](entries/3d-motion/microsoft-trellis.2.md) ⚑ | 12,950 | 1,575 | 停滞 | 0 | 2026-07-10 | 2026-11-16 |  | MIT |
@@ -713,6 +713,7 @@
 | [InstantHMR](entries/3d-motion/naturalpad-studio-instanthmr.md) ⚑ | 410 | 46 | 週次 | 18 | 2026-11-10 | 2026-11-16 |  | Apache-2.0 |
 | [open-3d-skills](entries/3d-motion/moh4696-open-3d-skills.md) | 404 | 54 | 週次 | 4 | 2026-11-09 | 2026-11-16 |  | MIT |
 | [Geometry Script](entries/3d-motion/carson-katri-geometry-script.md) ⚑ | 388 | 33 | 月次 | 0 | 2026-11-16 | 2026-11-16 |  | GPL-3.0 |
+| [react-three-csg](entries/3d-motion/pmndrs-react-three-csg.md) ⚑ | 372 | 17 | 停滞 | 0 | 2025-03-02 | 2026-11-18 | 2026-11-23 | MIT |
 | [Motion2Code](entries/3d-motion/lovisdotio-motion2code.md) ⚑ | 354 | 31 | 月次 | 2 | 2026-10-20 | 2026-11-16 |  | MIT |
 | [FlexGlue](entries/3d-motion/cvg-flexglue.md) | 344 | 18 | 週次 | 14 | 2026-11-10 | 2026-11-16 |  | MIT |
 | [shinshin86/aituber-onair](entries/3d-motion/shinshin86-aituber-onair.md) ⚑ | 335 | 34 | 毎日 | 88 | 2026-11-16 | 2026-11-16 |  | MIT |
@@ -1878,6 +1879,7 @@
 - [prompt2rig — プロンプトから3Dキャラクター動作を生成](entries/3d-motion/blendi-remade-prompt2rig.md) — unverified / コードはApache-2.0だが、HQパスの依存関係が商用を制限。GVHMR=教育・研究・非営利のみ。SMPL-X=非商用（商用はMeshcapadeから別途）。WiLoR=CC-BY-NC-ND。MANO=非商用。Ultralytics YOLO=AGPL-3.0（コピーレフト、エンタープライズライセンス別途）。MediaPipe・three.jsは商用可。Webアプリ・ライブプレビュー・動画生成は商用可能。HQパスを商用で使うには依存関係の置き換えまたは別途ライセンスが必要。動画モデル（FLUX 3 Max/H3 Max Turbo）はfalおよびモデル提供元の条件に従う。当方未実行。 当方でインストール・動作・性能の実行検証はしていない。
 - [InstantHMR](entries/3d-motion/naturalpad-studio-instanthmr.md) — unverified / モデルの利用条件は種類により異なります。READMEではnano/tiny/small/mediumはSAM License・非商用、medium-commercialはSAM Licenseとされていますが、ライセンスの詳細条件はREADMEに記載されていません。
 - [Geometry Script](entries/3d-motion/carson-katri-geometry-script.md) — unverified / 理由未記入
+- [react-three-csg](entries/3d-motion/pmndrs-react-three-csg.md) — unverified / 一次資料で未確認: 実行条件。
 - [Motion2Code](entries/3d-motion/lovisdotio-motion2code.md) — unverified / 最新リリースの版と日時は未確認。掲載例の容量・再現精度、任意の動画への適用範囲、実行環境での動作は独立検証していない。外部ライブラリ・フォントの利用条件とエージェント利用料は未確認。
 - [shinshin86/aituber-onair](entries/3d-motion/shinshin86-aituber-onair.md) — unverified / 投稿の10種とページ9種は不一致。APIキーはlocalStorage平文、Live2DはCubism Core手動配置。公開オリジンへそのまま配備非推奨で各素材ライセンスも別。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [cc-blender-skill](entries/3d-motion/roble3-cc-blender-skill.md) — unverified / 動作と生成品質は独立に検証していない。作者資料でもClaude Codeでのスキル検出・振り分け、Blender 5.1.1以外の実機動作、Unrealへのインポートは検証範囲が限られる。発見投稿の参照動画からの編集可能プロジェクト再現は、本リポジトリの機能として確認できていない。
