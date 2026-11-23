@@ -1,5 +1,5 @@
 {
-  "count": 1422,
+  "count": 1423,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -16122,6 +16122,37 @@
       "last_release_at": "2026-10-08",
       "path": "entries/coding-agent/francoischastel-jev-code.md",
       "summary": "Claude Code、Codex、Pi、OpenCode、およびシェルから利用できるJev用ツール。分類、Yes/No確認、スコア、ランキング、自由形式の質問に対応し、型付き回答と確率を返す。エージェント向けスキルとセットアップCLIも含む。READMEは応答が数百ミリ秒と説明しているが、独立計測値ではない。"
+    },
+    {
+      "name": "Terrarium",
+      "genre": "coding-agent",
+      "url": "https://github.com/terrarium-sh/terrarium",
+      "repo": "terrarium-sh/terrarium",
+      "license": "Apache-2.0",
+      "stars": 57,
+      "language": "Rust",
+      "created": "2026-08-16",
+      "updated": "2026-11-17",
+      "forks": 2,
+      "open_issues": 9,
+      "commits_30d": 62,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 8019,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景・有効性・依存関係・実行条件。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/ai_hakase_/status/2119294348093276479"
+      ],
+      "fetched_at": "2026-11-18T20:07:45.081429+00:00",
+      "path": "entries/coding-agent/terrarium-sh-terrarium.md",
+      "summary": "エージェントや開発ツールを、個別のカーネルとディスクを持つ仮想マシン「box」で実行する。ホスト側で共有するフォルダと接続を許可するネットワーク先を選べる。ストレージは再起動後も保持され、boxのサービスをホストのループバックで公開することもできる。"
     },
     {
       "name": "Flow Preview",

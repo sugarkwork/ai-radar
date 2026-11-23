@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1422 件 — リポジトリ 1010, リンク集 121, 記事 222, モデル 55, プロンプト 14 / ⚑ 要確認 1156 件
+収録 1423 件 — リポジトリ 1011, リンク集 121, 記事 222, モデル 55, プロンプト 14 / ⚑ 要確認 1157 件
 
-## リポジトリ（1010）
+## リポジトリ（1011）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -250,7 +250,7 @@
 | [Pay Small Check](entries/other/ahmardchain-pay-small-check.md) ⚑ | 1 | 0 | 毎日 | 32 | 2026-11-07 | 2026-11-16 | 2026-11-22 | MIT |
 | [LapDraw](entries/other/sachinyadavaug20-lapdraw.md) ⚑ | 0 | 0 | 毎日 | 22 | 2026-11-07 | 2026-11-13 | 2026-11-13 | MIT |
 
-### コーディングエージェント（154）
+### コーディングエージェント（155）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -393,6 +393,7 @@
 | [Klik Motion-Graphics System](entries/coding-agent/t3knobox-klik-anim-skill-creation.md) ⚑ | 97 | 19 | 停滞 | 0 | 2026-08-06 | 2026-11-16 | 2026-11-22 | unknown |
 | [Claude Code Agent Skills by shokai](entries/coding-agent/shokai-agent-skills.md) ⚑ | 92 | 5 | 毎日 | 38 | 2026-11-18 | 2026-11-18 | 2026-11-23 | MIT |
 | [jev-code](entries/coding-agent/francoischastel-jev-code.md) ⚑ | 59 | 9 | 月次 | 3 | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [Terrarium](entries/coding-agent/terrarium-sh-terrarium.md) ⚑ | 57 | 2 | 毎日 | 62 | 2026-11-17 | 2026-11-18 | 2026-11-23 | Apache-2.0 |
 | [Flow Preview](entries/coding-agent/tanishqkancharla-flow-preview.md) ⚑ | 37 | 3 | 週次 | 13 | 2026-11-06 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
 | [Jev Cookbook](entries/coding-agent/jev-engineering-cookbook.md) ⚑ | 35 | 6 | 毎日 | 61 | 2026-11-14 | 2026-11-16 | 2026-11-22 | MIT |
 | [Teddarific/skills](entries/coding-agent/teddarific-skills.md) ⚑ | 19 | 1 | 月次 | 0 | 2026-10-14 | 2026-11-16 | 2026-11-22 | unknown |
@@ -2313,6 +2314,7 @@
 - [Klik Motion-Graphics System](entries/coding-agent/t3knobox-klik-anim-skill-creation.md) — unverified / ライセンスはGitHub API上で不明。利用許諾の条件は確認できていない。 GitHub APIでライセンスを確認できていません。
 - [Claude Code Agent Skills by shokai](entries/coding-agent/shokai-agent-skills.md) — unverified / 一次資料で未確認: 依存関係・実行条件。
 - [jev-code](entries/coding-agent/francoischastel-jev-code.md) — unverified / 分類結果の品質・較正性能はこのREADMEでは独立検証されていない。利用にはNode.js 20以上と、選択したホストのAPIキーが必要。ホストごとの料金や費用はREADMEに記載なし。
+- [Terrarium](entries/coding-agent/terrarium-sh-terrarium.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Flow Preview](entries/coding-agent/tanishqkancharla-flow-preview.md) — unverified / README記載の要件はNode.js 24以降、npm、および生成されたプレビューの依存関係をインストールするためのレジストリアクセス。個別プロジェクトでの適合性や動作結果は未確認。
 - [Jev Cookbook](entries/coding-agent/jev-engineering-cookbook.md) — unverified / The README does not identify the license or provide the runtime requirements of each recipe. Box requires the Jev 1.14 preview and experimental images header. Quality, latency, and cost are not established by synthetic runs; live-result claims require held-out recorded inference with model version, date, and sample count.
 - [Teddarific/skills](entries/coding-agent/teddarific-skills.md) — unverified / README記載のインストール方法や実行条件は未検証です。ライセンスはAPIでunknownと確認されています。 GitHub APIでライセンスを確認できていません。
