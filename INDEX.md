@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1368 件 — リポジトリ 964, リンク集 120, 記事 217, モデル 53, プロンプト 14 / ⚑ 要確認 1108 件
+収録 1369 件 — リポジトリ 965, リンク集 120, 記事 217, モデル 53, プロンプト 14 / ⚑ 要確認 1109 件
 
-## リポジトリ（964）
+## リポジトリ（965）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -514,7 +514,7 @@
 | [AI SDK](entries/agent-framework/anil-matcha-ai.md) ⚑ | 19 | 4 | 停滞 | 0 | 2026-08-06 | 2026-11-16 | 2026-11-22 | unknown |
 | [web-api-skills](entries/agent-framework/oxylabs-web-api-skills.md) | 13 | 1 | 週次 | 14 | 2026-11-11 | 2026-11-16 | 2026-11-22 | MIT |
 
-### 動画生成パイプライン（112）
+### 動画生成パイプライン（113）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -630,6 +630,7 @@
 | [Householder Motion Embedding (NoiseControl)](entries/video-gen/coldsilence507-householdermotionembedding-release.md) ⚑ | 10 | 1 | 週次 | 14 | 2026-11-06 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
 | [remotion-ffmpeg-skill](entries/video-gen/kajisho5-remotion-ffmpeg-skill.md) ⚑ | 8 | 0 | 毎日 | 77 | 2026-11-14 | 2026-11-17 | 2026-11-22 | MIT |
 | [BennyDaBall930/comfyui_hyperflow_int8_nodes](entries/video-gen/bennydaball930-comfyui_hyperflow_int8_nodes.md) ⚑ | 3 | 0 | 週次 | 10 | 2026-11-09 | 2026-11-09 | 2026-11-10 | GPL-3.0 |
+| [web-reels](entries/video-gen/rabin-a-web-reels.md) ⚑ | 0 | 0 | 週次 | 5 | 2026-11-08 | 2026-11-18 | 2026-11-23 | unknown |
 
 ### 3D・モーション（82）
 
@@ -2907,6 +2908,7 @@
 - [akatz-ai/MiniMax-H3-Character-Swap-LoRA](models/video-gen/akatz-ai-minimax-h3-character-swap-lora.md) — unverified / LoRA単体では動かない。重みはMiniMax H3 Community Licenseでコードのライセンスと別。人物・作品の許諾と生成の誤認防止が必要。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [akatz-ai/MiniMax-H3-Person-Remover-LoRA](models/video-gen/akatz-ai-minimax-h3-person-remover-lora.md) — unverified / 人物除去の品質・背景保持は未実行確認。Character Swapの強度や8stepレシピを根拠なくこの別LoRAへ流用しない。基底モデルの条件も別途適用。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [larryvrh Turbo v4 EMAの比較結果（正規配布ID未確認）](articles/2026-11-09-topic-larryvrh-h3-turbo-v4-ema.md) — unverified / 121秒は投稿者の計測。正規配布ID・入手方法は特定できておらず、推測したモデルURLや手順を作らない。 当方でインストール・推論・生成・ベンチ再現はしていない。
+- [web-reels](entries/video-gen/rabin-a-web-reels.md) — unverified / ElevenLabsの音声利用にはAPIキーが必要で、有料とREADMEに記載。API料金の詳細は不明。ライセンス欄はGitHub APIでunknownだが、READMEはMITと記載している。 GitHub APIでライセンスを確認できていません。
 - [《神瞰众生》先導編](articles/2026-10-22-jarvis11x-0be72166.md) — unverified / 生成過程、素材の権利と二次利用条件は未確認。
 - [実写→1980s OVA調スタイルLoRAの学習レシピ（MiniMax H3 / AI Toolkit）](articles/2026-11-07-julienaiart-1980s-ova-lora.md) — unverified / 数値・手法はすべて本人申告で第三者検証なし。LoRAの重み・データセットは未公開で、次週Adobe MAX（Dellブース 11/10-11）での解説予告のみ。RTX PRO 6000（24GB超VRAM）で約30時間・4,000stepの条件は、A4000 16GBでは同条件の再現が非現実的。lossは1,000stepで頭打ちだが品質は2,500stepまで改善、4,000stepで過学習という報告も本人計測。
 - [錬金学総論(62) 走る女性の顔クローズアップ](articles/2026-11-08-author-62.md) — unverified / 映像の見え方は記事中の制作者評価に基づく。固定した1シードで表情・首・参照の指定を同時に変更しており、個別の効果や別シード・別キャラクターへの再現性は未検証。
