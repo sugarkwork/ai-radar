@@ -1,5 +1,5 @@
 {
-  "count": 1390,
+  "count": 1391,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -31532,6 +31532,35 @@
       "fetched_at": "2026-11-14T11:13:11.272114+00:00",
       "path": "entries/other/monoradio102-myradio.md",
       "summary": "台本JSONと音声をリポジトリに置き、GitHub Pagesでキャラクター付きのHTML番組を公開する。音声に合わせてスライド・字幕・キャラクター・リンクカードを動かし、見出し移動、記事リンク、台本の閲覧に対応する。天気表示、SNS共有カード、埋め込み、コメント欄の機能もREADMEに記載されている。"
+    },
+    {
+      "name": "pixi-ease",
+      "genre": "other",
+      "url": "https://github.com/davidfig/pixi-ease",
+      "repo": "davidfig/pixi-ease",
+      "license": "MIT",
+      "stars": 105,
+      "language": "JavaScript",
+      "created": "2017-09-12",
+      "updated": "2026-11-06",
+      "forks": 11,
+      "open_issues": 0,
+      "commits_30d": 6,
+      "commit_cadence": "weekly",
+      "commits_90d": 6,
+      "size_kb": 14215,
+      "archived": false,
+      "flags": [],
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "risk_notes": "",
+      "sources": [
+        "https://x.com/0xclayo/status/2123016316353155192"
+      ],
+      "fetched_at": "2026-11-18T14:08:42.955105+00:00",
+      "path": "entries/other/davidfig-pixi-ease.md",
+      "summary": "PixiJSのパラメーターを補間してアニメーションできます。READMEによると、tintを含む任意のPixiJSパラメーター、数値パラメーター、scaleやskewの一括変更、Penner関数やユーザー定義関数、反復・反転、イベントを扱えます。shakeパラメーターも含まれます。"
     },
     {
       "name": "dsh-pet-live2d",

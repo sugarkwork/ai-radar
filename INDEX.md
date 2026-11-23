@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1390 件 — リポジトリ 982, リンク集 120, 記事 219, モデル 55, プロンプト 14 / ⚑ 要確認 1128 件
+収録 1391 件 — リポジトリ 983, リンク集 120, 記事 219, モデル 55, プロンプト 14 / ⚑ 要確認 1128 件
 
-## リポジトリ（982）
+## リポジトリ（983）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（220）
+### その他（221）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -196,7 +196,7 @@
 | [NamiAgent](entries/other/aa1143-namiagent.md) ⚑ | 536 | 57 | 毎日 | 20 | 2026-10-30 | 2026-11-16 |  | MIT |
 | [Pixel Plays](entries/other/amirmushichge-pixel-plays.md) ⚑ | 519 | 51 | 月次 | 2 | 2026-10-31 | 2026-11-16 |  | MIT |
 | [DuoDesk](entries/other/0xcodez-duodesk.md) ⚑ | 514 | 86 | 毎日 | 100+ | 2026-10-31 | 2026-11-16 |  | GPL-3.0 |
-| [d3-interpolate](entries/other/d3-d3-interpolate.md) ⚑ | 500 | 70 | 月次 | 3 | 2026-11-03 | 2026-11-18 | 2026-11-23 | ISC |
+| [d3-interpolate](entries/other/d3-d3-interpolate.md) ⚑ | 500 | 70 | 月次 | 3 | 2026-11-03 | 2026-11-18 |  | ISC |
 | [高性价比职场指南](entries/other/goodseafly-how-to-make-work-pay.md) ⚑ | 492 | 43 | 週次 | 7 | 2026-10-26 | 2026-11-16 |  | unknown |
 | [Introduction to Statistical Learning with Python — Study Journey](entries/other/0xhadyy-isl-python.md) ⚑ | 480 | 44 | 停滞 | 0 | 2026-02-14 | 2026-11-17 |  | unknown |
 | [Life Destiny K-Line（人生 K 线）](entries/other/miounet11-life-kline.md) ⚑ | 479 | 132 | 停滞 | 0 | 2025-12-22 | 2026-11-16 |  | Apache-2.0 |
@@ -217,6 +217,7 @@
 | [Jev Plays Pokémon Red](entries/other/christianmat-jev-pokemon.md) ⚑ | 134 | 11 | 月次 | 0 | 2026-09-28 | 2026-11-16 |  | GPL-2.0 |
 | [muse-grok-x-search](entries/other/kgmkm-muse-grok-x-search.md) ⚑ | 108 | 17 | 月次 | 2 | 2026-11-03 | 2026-11-15 |  | MIT |
 | [myradio](entries/other/monoradio102-myradio.md) ⚑ | 107 | 15 | 毎日 | 37 | 2026-11-13 | 2026-11-14 |  | unknown |
+| [pixi-ease](entries/other/davidfig-pixi-ease.md) | 105 | 11 | 週次 | 6 | 2026-11-06 | 2026-11-18 | 2026-11-23 | MIT |
 | [dsh-pet-live2d](entries/other/a8chann-dsh-pet-live2d.md) ⚑ | 80 | 11 | 毎日 | 35 | 2026-11-09 | 2026-11-16 |  | unknown |
 | [URLhaus](entries/other/abusech-urlhaus.md) ⚑ | 79 | 12 | 停滞 | 0 | 2024-11-09 | 2026-11-16 |  | unknown |
 | [Strata](entries/other/carthageadev-strata.md) ⚑ | 48 | 3 | 毎日 | 41 | 2026-11-11 | 2026-11-16 |  | unknown |
