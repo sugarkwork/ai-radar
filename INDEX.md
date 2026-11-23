@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1378 件 — リポジトリ 974, リンク集 120, 記事 217, モデル 53, プロンプト 14 / ⚑ 要確認 1118 件
+収録 1379 件 — リポジトリ 975, リンク集 120, 記事 217, モデル 53, プロンプト 14 / ⚑ 要確認 1119 件
 
-## リポジトリ（974）
+## リポジトリ（975）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -774,7 +774,7 @@
 | [lab-tts](entries/tts-audio/lakimi-ai-systems-lab-tts.md) ⚑ | 8 | 0 | 月次 | 3 | 2026-11-03 | 2026-11-10 | 2026-11-10 | Apache-2.0 |
 | [Voxarium](entries/tts-audio/ahmadmansy-voxarium.md) ⚑ | 7 | 0 | 毎日 | 40 | 2026-11-08 | 2026-11-13 | 2026-11-13 | AGPL-3.0 |
 
-### モデル推論・配信（42）
+### モデル推論・配信（43）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -799,6 +799,7 @@
 | [RouteLLM](entries/model-serving/lm-sys-routellm.md) ⚑ | 5,712 | 455 | 停滞 | 0 | 2024-08-10 | 2026-11-17 | 2026-11-22 | Apache-2.0 |
 | [TokenSpeed](entries/model-serving/lightseekorg-tokenspeed.md) ⚑ | 2,930 | 416 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
 | [googlecolab/google-colab-cli](entries/model-serving/googlecolab-google-colab-cli.md) ⚑ | 2,497 | 367 | 毎日 | 27 | 2026-11-15 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [TensorFold](entries/model-serving/ashhart-tensorfold.md) ⚑ | 2,317 | 542 | 毎日 | 100+ | 2026-11-18 | 2026-11-18 | 2026-11-23 | Apache-2.0 |
 | [Ollaya](entries/model-serving/ollaya-dev-ollaya.md) ⚑ | 1,468 | 92 | 毎日 | 98 | 2026-11-10 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
 | [NVIDIA Kubernetes Engine (NVKE)](entries/model-serving/dsx-ai-factory-nvke.md) ⚑ | 1,233 | 163 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
 | [jev-router](entries/model-serving/gargpratyush-jev-router.md) ⚑ | 669 | 102 | 月次 | 0 | 2026-09-19 | 2026-11-16 | 2026-11-22 | MIT |
@@ -2463,6 +2464,7 @@
 - [RouteLLM](entries/model-serving/lm-sys-routellm.md) — unverified / README記載の最大85%のコスト削減・ベンチマーク性能はプロジェクト側の報告であり、独立検証されていない。実際の効果はモデルの組み合わせ、クエリ、しきい値に依存する。
 - [TokenSpeed](entries/model-serving/lightseekorg-tokenspeed.md) — unverified / コミット数は集計上限100。性能は開発元測定で、起動と追試は未確認。
 - [googlecolab/google-colab-cli](entries/model-serving/googlecolab-google-colab-cli.md) — unverified / T4〜A100等の利用可否は契約・割当次第。「200点・2TB」を無償枠と断定できず、51GBを2分という速度も未検証。 当方でインストール・推論・生成・ベンチ再現はしていない。
+- [TensorFold](entries/model-serving/ashhart-tensorfold.md) — unverified / 一次資料で未確認: 技術背景・依存関係。
 - [Ollaya](entries/model-serving/ollaya-dev-ollaya.md) — unverified / 速度・精度は開発元の公開測定で、今回の調査では再実行していない。個別ワークロードでの精度、遅延、費用削減、各モデルの利用条件は未確認。GitHubの最新版リンクはv0.18.0を返したが、mainのREADMEには0.19.0の測定への言及があり、最新リリースのタグと公開日時は確定していない。
 - [NVIDIA Kubernetes Engine (NVKE)](entries/model-serving/dsx-ai-factory-nvke.md) — unverified / Preview版で、本番ワークロードには推奨されていません。PreviewではAPI認証が初期状態で無効、インストール後のAPIは平文HTTPです。利用前に認証と保護されたアクセスを設定してください。管理クラスターのアップグレード・スケール・置換、および管理プレーンのアップグレード・バックアップ／復元手順はありません。
 - [jev-router](entries/model-serving/gargpratyush-jev-router.md) — unverified / README にベンチマークが無く、ルーティング精度やコスト削減額は作者の設計主張と自己計測コメントのみで第三者検証が無い。2026-09-19 以降コミットが無く open issue は 54 件。Claude Code / Codex の非公開リクエスト形式に依存するため上流仕様の変更で壊れうる（README も JEV_DUMP での診断を案内）。プロンプト本文はルーティング判定のため TypeSafe に送信される。

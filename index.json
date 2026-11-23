@@ -1,5 +1,5 @@
 {
-  "count": 1378,
+  "count": 1379,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -23788,6 +23788,37 @@
       "last_release_at": "",
       "path": "entries/model-serving/googlecolab-google-colab-cli.md",
       "summary": "Colabランタイムの準備・使い捨て実行・Driveマウント等をCLIから行うGoogle公式ツール。"
+    },
+    {
+      "name": "TensorFold",
+      "genre": "model-serving",
+      "url": "https://github.com/ashhart/TensorFold",
+      "repo": "ashhart/TensorFold",
+      "stars": 2317,
+      "forks": 542,
+      "open_issues": 723,
+      "size_kb": 79982,
+      "language": "Zig",
+      "created": "2026-06-19",
+      "updated": "2026-11-18",
+      "archived": false,
+      "license": "Apache-2.0",
+      "commits_30d": 100,
+      "commits_90d": 100,
+      "commit_cadence": "daily",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景・依存関係。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/dextune/status/2119259662357033209"
+      ],
+      "fetched_at": "2026-11-18T07:15:45.071184+00:00",
+      "path": "entries/model-serving/ashhart-tensorfold.md",
+      "summary": "READMEによると、Zigバイナリで言語モデルを配信し、MetalまたはCUDAカーネルを実行する。Completions、Responses、Anthropic Messages APIを提供し、/v1/modelsで配信中のモデル名を確認できる。"
     },
     {
       "repo": "ollaya-dev/ollaya",
