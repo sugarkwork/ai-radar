@@ -1,5 +1,5 @@
 {
-  "count": 1418,
+  "count": 1419,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -10694,6 +10694,24 @@
       ],
       "fetched_at": "2026-11-08T06:51:00+00:00",
       "path": "articles/2026-10-16-y0urdumble-dumble-the-johnson-brothers-ai.md"
+    },
+    {
+      "name": "The Ultimate LoRA Training Guide for KREA2",
+      "genre": "article",
+      "url": "https://promptdexter.com/blog/krea2-lora-training-guide",
+      "published": "2026-07-24",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "Rawで学習してTurboで使う互換性や、推奨データ枚数・露出回数による効果は記事内の説明であり、独立した検証や公式資料による裏付けは確認していない。",
+      "type": "article",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/ai_hakase_/status/2119282268300607598"
+      ],
+      "fetched_at": "2026-11-18T17:16:48.335025+00:00",
+      "path": "articles/2026-07-24-author-the-ultimate-lora-training-guide-for-krea2.md"
     },
     {
       "name": "The Winners and Losers of AI’s First Big Election",
