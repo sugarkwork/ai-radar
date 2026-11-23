@@ -1,5 +1,5 @@
 {
-  "count": 1502,
+  "count": 1503,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -36013,6 +36013,35 @@
       "fetched_at": "2026-11-10T14:10:51.867000+00:00",
       "path": "entries/prompt-design/oso95-scroll-world.md",
       "summary": "業界やブランド向けに、スクロール位置でカメラ飛行を制御し、場面を途切れなくつなぐランディングページを生成する。シーン画像、場面内への移動動画、場面間の接続動画と、設定駆動のスクロールエンジンを用意する。"
+    },
+    {
+      "name": "Jane Street Agent Skills — Socratic Tutor",
+      "genre": "prompt-design",
+      "url": "https://github.com/janestreet/agent_skills",
+      "repo": "janestreet/agent_skills",
+      "stars": 10268,
+      "forks": 705,
+      "open_issues": 1,
+      "size_kb": 7,
+      "language": "unknown",
+      "created": "2026-11-03",
+      "updated": "2026-11-17",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 3,
+      "commits_90d": 3,
+      "commit_cadence": "monthly",
+      "flags": [],
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "risk_notes": "",
+      "sources": [
+        "https://x.com/RoundtableSpace/status/2119380660288999692"
+      ],
+      "fetched_at": "2026-11-19T21:12:31.738757+00:00",
+      "path": "entries/prompt-design/janestreet-agent_skills.md",
+      "summary": "トピックを指定すると、LLMをSocratic methodに基づく個人チューターとして使うスキル。診断、レベル0〜5のスキルマップ、一度に一つの質問、間隔を空けた復習、最終評価を行うとREADMEは説明している。"
     },
     {
       "name": "Lieflat Less AI Tone",

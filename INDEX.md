@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1502 件 — リポジトリ 1065, リンク集 123, 記事 245, モデル 55, プロンプト 14 / ⚑ 要確認 1227 件
+収録 1503 件 — リポジトリ 1066, リンク集 123, 記事 245, モデル 55, プロンプト 14 / ⚑ 要確認 1227 件
 
-## リポジトリ（1065）
+## リポジトリ（1066）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -953,7 +953,7 @@
 | [Kosh](entries/mcp-server/sachinyadavaug20-kosh.md) ⚑ | 5 | 0 | 毎日 | 76 | 2026-11-15 | 2026-11-16 |  | Apache-2.0 |
 | [gmail-browser-mcp](entries/mcp-server/sparsh101sparsh-gmail-browser-mcp.md) ⚑ | 0 | 0 | 毎日 | 88 | 2026-11-13 | 2026-11-16 |  | unknown |
 
-### プロンプト（デザイン/UI）（37）
+### プロンプト（デザイン/UI）（38）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -972,6 +972,7 @@
 | [Jailbreaks](entries/prompt-design/togg53192-cmd-jailbreaks.md) ⚑ | 18,071 | 3,173 | 毎日 | 90 | 2026-11-16 | 2026-11-18 |  | unknown |
 | [prompt-master](entries/prompt-design/nidhinjs-prompt-master.md) ⚑ | 15,766 | 1,819 | 週次 | 7 | 2026-10-22 | 2026-11-09 |  | MIT |
 | [scroll-world](entries/prompt-design/oso95-scroll-world.md) ⚑ | 10,920 | 1,190 | 停滞 | 0 | 2026-07-29 | 2026-11-10 |  | MIT |
+| [Jane Street Agent Skills — Socratic Tutor](entries/prompt-design/janestreet-agent_skills.md) | 10,268 | 705 | 月次 | 3 | 2026-11-17 | 2026-11-19 | 2026-11-23 | MIT |
 | [Lieflat Less AI Tone](entries/prompt-design/larashero3-dotcom-lieflat-less-ai-tone.md) ⚑ | 7,586 | 535 | 週次 | 14 | 2026-11-11 | 2026-11-13 |  | unknown |
 | [handraw-style](entries/prompt-design/yang0-handraw-style.md) | 7,265 | 852 | 毎日 | 60 | 2026-11-09 | 2026-11-09 |  | NOASSERTION |
 | [LLMLingua](entries/prompt-design/microsoft-llmlingua.md) ⚑ | 6,828 | 454 | 月次 | 1 | 2026-11-09 | 2026-11-17 |  | MIT |
