@@ -1,5 +1,5 @@
 {
-  "count": 1495,
+  "count": 1496,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -34349,6 +34349,37 @@
       "fetched_at": "2026-11-10T12:55:53+00:00",
       "path": "entries/other/ktaletsk-jevframe.md",
       "summary": "レビューの感情判定、問い合わせの分類、ルーブリックに沿った採点を、DataFrameの行ごとに実行できる。二択判定は肯定の確率をSeriesで返し、分類や採点では各選択肢の確率も列として取得できる。"
+    },
+    {
+      "name": "SoPDF",
+      "genre": "other",
+      "url": "https://github.com/SoMarkAI/SoPDF",
+      "repo": "SoMarkAI/SoPDF",
+      "license": "unknown",
+      "stars": 20,
+      "language": "Python",
+      "created": "2026-03-30",
+      "updated": "2026-04-14",
+      "forks": 3,
+      "open_issues": 1,
+      "commits_30d": 0,
+      "commit_cadence": "stale",
+      "commits_90d": 0,
+      "size_kb": 176,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "README記載の性能値と精度比較は配布者による報告で、独立した実測ではない。GitHub APIでライセンスはunknownと確認した一方、READMEはApache 2.0と記載しているため、ライセンスファイルの内容は未確認。 GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/ai_hakase_/status/2119370852126908922"
+      ],
+      "fetched_at": "2026-11-19T19:14:51.650421+00:00",
+      "path": "entries/other/somarkai-sopdf.md",
+      "summary": "PDFを開いてPNG/JPEGに描画し、テキストや座標付きテキストブロックを抽出、全文検索できます。ページの分割・複数PDFの結合、圧縮保存、ページ回転、文書メタデータの読み書き、目次の取得、暗号化PDFの読み書き、破損PDFの自動修復にも対応するとREADMEに記載されています。"
     },
     {
       "name": "FossFLOW",
