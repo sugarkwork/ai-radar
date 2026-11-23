@@ -1,5 +1,5 @@
 {
-  "count": 1461,
+  "count": 1462,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -28921,6 +28921,37 @@
       "fetched_at": "2026-11-16T17:11:37.542909+00:00",
       "path": "entries/other/virustotal-yara.md",
       "summary": "テキストまたはバイナリのパターンと真偽式を組み合わせたルールを作成し、ファイルを識別・分類できます。ワイルドカード、大文字小文字を区別しない文字列、正規表現、特殊演算子などを利用できます。出典: https://github.com/VirusTotal/yara"
+    },
+    {
+      "name": "mitmproxy2swagger",
+      "genre": "other",
+      "url": "https://github.com/alufers/mitmproxy2swagger",
+      "repo": "alufers/mitmproxy2swagger",
+      "license": "unknown",
+      "stars": 9730,
+      "language": "HTML",
+      "created": "2022-05-11",
+      "updated": "2026-11-16",
+      "forks": 386,
+      "open_issues": 20,
+      "commits_30d": 0,
+      "commit_cadence": "stale",
+      "commits_90d": 0,
+      "size_kb": 8984,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEはMITライセンスと記載していますが、取得済みGitHub API情報ではライセンスがunknownです。ライセンスの状態は確認できていません。 GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/RealMarvelX/status/2119329098929426902"
+      ],
+      "fetched_at": "2026-11-19T07:24:40.351485+00:00",
+      "path": "entries/other/alufers-mitmproxy2swagger.md",
+      "summary": "mitmproxyの通信記録またはブラウザーDevToolsからエクスポートしたHARを処理し、REST APIのOpenAPI 3.0仕様を生成します。初回処理後にパスの採否やパラメーターを編集し、同じスキーマファイルで再実行する手順がREADMEに記載されています。"
     },
     {
       "repo": "open-slide/open-slide",

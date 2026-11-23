@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1461 件 — リポジトリ 1031, リンク集 121, 記事 240, モデル 55, プロンプト 14 / ⚑ 要確認 1190 件
+収録 1462 件 — リポジトリ 1032, リンク集 121, 記事 240, モデル 55, プロンプト 14 / ⚑ 要確認 1191 件
 
-## リポジトリ（1031）
+## リポジトリ（1032）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（246）
+### その他（247）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -61,7 +61,7 @@
 | [react-spring](entries/other/pmndrs-react-spring.md) ⚑ | 29,279 | 1,236 | 毎日 | 23 | 2026-11-01 | 2026-11-14 |  | MIT |
 | [Celery](entries/other/celery-celery.md) ⚑ | 29,219 | 5,265 | 毎日 | 76 | 2026-11-17 | 2026-11-17 |  | unknown |
 | [System Design Interview — An Insider’s Guide (Vol 1 and 2) notes](entries/other/liquidslr-system-design-notes.md) ⚑ | 28,391 | 5,337 | 停滞 | 0 | 2026-08-12 | 2026-11-15 |  | unknown |
-| [Apktool](entries/other/ibotpeaches-apktool.md) ⚑ | 27,284 | 4,266 | 週次 | 4 | 2026-11-16 | 2026-11-19 | 2026-11-23 | Apache-2.0 |
+| [Apktool](entries/other/ibotpeaches-apktool.md) ⚑ | 27,284 | 4,266 | 週次 | 4 | 2026-11-16 | 2026-11-19 |  | Apache-2.0 |
 | [Filee](entries/other/knifelemon-filee.md) ⚑ | 26,944 | 1,546 | 毎日 | 100+ | 2026-11-14 | 2026-11-14 |  | MIT |
 | [Jenkins](entries/other/jenkinsci-jenkins.md) ⚑ | 26,780 | 9,838 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 |  | MIT |
 | [Lucide](entries/other/lucide-icons-lucide.md) ⚑ | 25,800 | 1,692 | 毎日 | 100+ | 2026-11-17 | 2026-11-17 |  | unknown |
@@ -105,6 +105,7 @@
 | [微信视频号下载器](entries/other/ltaoo-wx_channels_download.md) ⚑ | 10,534 | 1,748 | 週次 | 5 | 2026-11-12 | 2026-11-13 |  | unknown |
 | [Blackbird](entries/other/antoniaci-blackbird.md) ⚑ | 10,187 | 1,486 | 月次 | 3 | 2026-11-03 | 2026-11-16 |  | unknown |
 | [YARA](entries/other/virustotal-yara.md) ⚑ | 10,043 | 1,605 | 週次 | 16 | 2026-10-27 | 2026-11-16 |  | BSD-3-Clause |
+| [mitmproxy2swagger](entries/other/alufers-mitmproxy2swagger.md) ⚑ | 9,730 | 386 | 停滞 | 0 | 2026-11-16 | 2026-11-19 | 2026-11-23 | unknown |
 | [open-slide](entries/other/open-slide-open-slide.md) ⚑ | 9,729 | 716 | 毎日 | 33 | 2026-11-09 | 2026-11-10 |  | MIT |
 | [OBLITERATUS](entries/other/elder-plinius-obliteratus.md) | 9,541 | 1,736 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 |  | AGPL-3.0 |
 | [Webstudio](entries/other/webstudio-is-webstudio.md) ⚑ | 9,170 | 1,639 | 毎日 | 57 | 2026-11-13 | 2026-11-14 |  | AGPL-3.0 |
@@ -2703,6 +2704,7 @@
 - [微信视频号下载器](entries/other/ltaoo-wx_channels_download.md) — unverified / README記載の利用には管理者権限での実行と証明書のインストールが必要です。ライセンスはAPIでunknownと確認されています。 GitHub APIでライセンスを確認できていません。
 - [Blackbird](entries/other/antoniaci-blackbird.md) — unverified / README記載の「低い誤検出率」やAIによるプロファイリングの有効性は独立検証されていない。ライセンスはAPI上unknown。README内のclone先は別リポジトリ p1ngul1n0/blackbird を指しており、対象リポジトリでの実行・依存関係は確認できない。 GitHub APIでライセンスを確認できていません。
 - [YARA](entries/other/virustotal-yara.md) — unverified / プロジェクトはメンテナンスモードです。READMEに記載された具体的なサポート期間や今後の更新方針は確認できません。
+- [mitmproxy2swagger](entries/other/alufers-mitmproxy2swagger.md) — unverified / READMEはMITライセンスと記載していますが、取得済みGitHub API情報ではライセンスがunknownです。ライセンスの状態は確認できていません。 GitHub APIでライセンスを確認できていません。
 - [open-slide](entries/other/open-slide-open-slide.md) — unverified / 公開リリース一覧では @open-slide/core@2.3.2 が Latest と表示された一方、取得した /releases/latest はキャッシュから @open-slide/core@2.0.1 に転送されたため、最新タグと公開日時は未確定。CLIやエージェントは実行しておらず、制作時間の短縮、PPTXの再現性・編集互換性、エージェント側の契約・料金は未検証。
 - [Webstudio](entries/other/webstudio-is-webstudio.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Instatic](entries/other/corebunch-instatic.md) — unverified / 機能・効果の説明はREADMEに記載された配布者の説明で、独立した動作確認はしていない。
