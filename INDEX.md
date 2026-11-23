@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1439 件 — リポジトリ 1017, リンク集 121, 記事 232, モデル 55, プロンプト 14 / ⚑ 要確認 1170 件
+収録 1440 件 — リポジトリ 1018, リンク集 121, 記事 232, モデル 55, プロンプト 14 / ⚑ 要確認 1171 件
 
-## リポジトリ（1017）
+## リポジトリ（1018）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -763,7 +763,7 @@
 | [3dmodel](entries/3d-motion/fletcherholt-3dmodel-skill.md) ⚑ | 7 | 0 | 停滞 | 0 | 2026-06-16 | 2026-11-16 | 2026-11-22 | unknown |
 | [Lida-V/LidaAngelToon](entries/3d-motion/lida-v-lidaangeltoon.md) ⚑ | 7 | 0 | 月次 | 0 | 2026-10-17 | 2026-11-16 | 2026-11-22 | NOASSERTION |
 
-### モデル推論・配信（46）
+### モデル推論・配信（47）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -787,6 +787,7 @@
 | [kimi-k3-in-c](entries/model-serving/fareedkhan-dev-kimi-k3-in-c.md) ⚑ | 12,199 | 1,883 | 毎日 | 45 | 2026-11-16 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
 | [open-free-llm-api/awesome-freellm-apis](entries/model-serving/open-free-llm-api-awesome-freellm-apis.md) ⚑ | 5,715 | 896 | 毎日 | 42 | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
 | [RouteLLM](entries/model-serving/lm-sys-routellm.md) ⚑ | 5,712 | 455 | 停滞 | 0 | 2024-08-10 | 2026-11-17 | 2026-11-22 | Apache-2.0 |
+| [ZML](entries/model-serving/zml-zml.md) ⚑ | 4,261 | 209 | 毎日 | 99 | 2026-11-18 | 2026-11-19 | 2026-11-23 | Apache-2.0 |
 | [Project Maya](entries/model-serving/mw00-project-maya.md) ⚑ | 3,028 | 422 | 毎日 | 100+ | 2026-11-18 | 2026-11-18 | 2026-11-23 | MIT |
 | [TokenSpeed](entries/model-serving/lightseekorg-tokenspeed.md) ⚑ | 2,930 | 416 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
 | [googlecolab/google-colab-cli](entries/model-serving/googlecolab-google-colab-cli.md) ⚑ | 2,497 | 367 | 毎日 | 27 | 2026-11-15 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
@@ -2551,6 +2552,7 @@
 - [kimi-k3-in-c](entries/model-serving/fareedkhan-dev-kimi-k3-in-c.md) — unverified / 1.56TBのチェックポイントを8.24GBのRAMで動かすという主張。数値は作者の docs/data のみで、独立した再現・検証はない。
 - [open-free-llm-api/awesome-freellm-apis](entries/model-serving/open-free-llm-api-awesome-freellm-apis.md) — unverified / freellm.netへの誘導が強いミラー。「無料」は各社枠で無制限ではなく、現行料金・キー/カード条件は各社確認が必要。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [RouteLLM](entries/model-serving/lm-sys-routellm.md) — unverified / README記載の最大85%のコスト削減・ベンチマーク性能はプロジェクト側の報告であり、独立検証されていない。実際の効果はモデルの組み合わせ、クエリ、しきい値に依存する。
+- [ZML](entries/model-serving/zml-zml.md) — unverified / 一次資料で未確認: 有効性。
 - [Project Maya](entries/model-serving/mw00-project-maya.md) — unverified / 速度・品質の数値はREADME記載のユーザー報告・プロジェクト側の測定値で、独立した再測定は確認していません。commits_30d と commits_90d は各API取得が100件で、提示値は取得上限に達しています。
 - [TokenSpeed](entries/model-serving/lightseekorg-tokenspeed.md) — unverified / コミット数は集計上限100。性能は開発元測定で、起動と追試は未確認。
 - [googlecolab/google-colab-cli](entries/model-serving/googlecolab-google-colab-cli.md) — unverified / T4〜A100等の利用可否は契約・割当次第。「200点・2TB」を無償枠と断定できず、51GBを2分という速度も未検証。 当方でインストール・推論・生成・ベンチ再現はしていない。
