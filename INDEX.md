@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1477 件 — リポジトリ 1043, リンク集 122, 記事 243, モデル 55, プロンプト 14 / ⚑ 要確認 1204 件
+収録 1478 件 — リポジトリ 1044, リンク集 122, 記事 243, モデル 55, プロンプト 14 / ⚑ 要確認 1205 件
 
-## リポジトリ（1043）
+## リポジトリ（1044）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -266,7 +266,7 @@
 | [Knowlective](entries/other/knowlective-org-knowlective.md) | 0 | 0 | 毎日 | 100+ | 2026-11-19 | 2026-11-19 |  | AGPL-3.0 |
 | [LapDraw](entries/other/sachinyadavaug20-lapdraw.md) ⚑ | 0 | 0 | 毎日 | 22 | 2026-11-07 | 2026-11-13 |  | MIT |
 
-### コーディングエージェント（160）
+### コーディングエージェント（161）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -381,6 +381,7 @@
 | [min-skill](entries/coding-agent/limin112-min-skill.md) ⚑ | 642 | 96 | 週次 | 14 | 2026-11-05 | 2026-11-16 |  | unknown |
 | [Cinematic Skill](entries/coding-agent/moh4696-cinematic-skill.md) ⚑ | 633 | 91 | 月次 | 3 | 2026-11-09 | 2026-11-16 |  | MIT |
 | [Product Engineering](entries/coding-agent/phuryn-product-engineering.md) ⚑ | 611 | 83 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 |  | MIT |
+| [AI tools for research](entries/coding-agent/claesbackman-ai-research-feedback.md) ⚑ | 569 | 107 | 週次 | 12 | 2026-11-15 | 2026-11-19 | 2026-11-23 | MIT |
 | [DSH Game Studio](entries/coding-agent/zseven-w-dsh-game-studio.md) ⚑ | 569 | 47 | 週次 | 11 | 2026-11-09 | 2026-11-16 |  | MIT |
 | [Diorama](entries/coding-agent/sloemo01-diorama.md) ⚑ | 566 | 48 | 毎日 | 38 | 2026-11-16 | 2026-11-16 |  | MIT |
 | [Agent HUD](entries/coding-agent/jazzenchen-agent-hud-open.md) ⚑ | 553 | 81 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 |  | Apache-2.0 |
@@ -962,7 +963,7 @@
 | [GitReverse](entries/prompt-design/filiksyos-gitreverse.md) ⚑ | 2,081 | 337 | 週次 | 8 | 2026-11-10 | 2026-11-11 |  | MIT |
 | [Casting-Workflow](entries/prompt-design/dama-cyber-casting-workflow.md) ⚑ | 710 | 136 | 停滞 | 0 | 2026-08-07 | 2026-11-14 |  | unknown |
 | [AI 漫剧 Skills](entries/prompt-design/zhanghao123vip-ai-manju-skills.md) ⚑ | 695 | 124 | 月次 | 2 | 2026-11-01 | 2026-11-10 |  | MIT |
-| [Awesome GPT Image 2.5 Prompts](entries/prompt-design/youart-open-source-awesome-gpt-image-2-5-prompts.md) ⚑ | 596 | 46 | 停滞 | 0 | 2026-09-11 | 2026-11-19 | 2026-11-23 | unknown |
+| [Awesome GPT Image 2.5 Prompts](entries/prompt-design/youart-open-source-awesome-gpt-image-2-5-prompts.md) ⚑ | 596 | 46 | 停滞 | 0 | 2026-09-11 | 2026-11-19 |  | unknown |
 | [Universal Fable 5 System Prompt](entries/prompt-design/kinetinode-claude-fable-5-system-prompt-clean.md) ⚑ | 525 | 112 | 停滞 | 0 | 2026-08-08 | 2026-11-16 |  | MIT |
 | [Moyu（摸鱼）](entries/prompt-design/uucz-moyu.md) ⚑ | 307 | 13 | 停滞 | 0 | 2026-07-30 | 2026-11-14 |  | MIT |
 | [TAP (Tree of Attacks with Pruning)](entries/prompt-design/ricommunity-tap.md) ⚑ | 253 | 42 | 停滞 | 0 | 2024-12-10 | 2026-11-13 |  | MIT |
@@ -2360,6 +2361,7 @@
 - [min-skill](entries/coding-agent/limin112-min-skill.md) — unverified / 各Skill・ツールの詳細な依存関係や実行条件は、それぞれのディレクトリにあるREADMEで確認が必要。 GitHub APIでライセンスを確認できていません。
 - [Cinematic Skill](entries/coding-agent/moh4696-cinematic-skill.md) — unverified / 無料の下書き音声としてmacOSのsayまたはespeak-ngを使用し、最終音声は任意のTTSまたは録音音声と記載。Wikimedia Commonsから素材を取得する手順がある。最終音声サービスの料金・利用条件はREADMEに記載なし。
 - [Product Engineering](entries/coding-agent/phuryn-product-engineering.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
+- [AI tools for research](entries/coding-agent/claesbackman-ai-research-feedback.md) — unverified / 一次資料で未確認: 依存関係。
 - [DSH Game Studio](entries/coding-agent/zseven-w-dsh-game-studio.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Diorama](entries/coding-agent/sloemo01-diorama.md) — unverified / 一次資料で未確認: 有効性・実行条件。
 - [Agent HUD](entries/coding-agent/jazzenchen-agent-hud-open.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。

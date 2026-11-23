@@ -1,5 +1,5 @@
 {
-  "count": 1477,
+  "count": 1478,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -15618,6 +15618,37 @@
       "last_release_at": "2026-11-14",
       "path": "entries/coding-agent/phuryn-product-engineering.md",
       "summary": "コーディングエージェントを使い、最初のアイデアから実ユーザー向けの製品開発、リリース、運用まで進めるためのエージェントスキルを提供する。READMEではClaude Code、Codex、Cursor、Gemini CLI、OpenCode、GitHub Copilotなどで利用できると説明されている。"
+    },
+    {
+      "name": "AI tools for research",
+      "genre": "coding-agent",
+      "url": "https://github.com/claesbackman/AI-research-feedback",
+      "repo": "claesbackman/AI-research-feedback",
+      "license": "MIT",
+      "stars": 569,
+      "language": "Python",
+      "created": "2026-03-01",
+      "updated": "2026-11-15",
+      "forks": 107,
+      "open_issues": 0,
+      "commits_30d": 12,
+      "commit_cadence": "weekly",
+      "commits_90d": 18,
+      "size_kb": 3473,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 依存関係。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/bkdgiffug/status/2119346182950355149"
+      ],
+      "fetched_at": "2026-11-19T12:19:01.756546+00:00",
+      "path": "entries/coding-agent/claesbackman-ai-research-feedback.md",
+      "summary": "Claude Code向けスキルを提供する。論文、事前分析計画、助成金申請書、論文と分析コードの整合性などをレビューし、構造化した報告を作成する。論文の政策向け要約やスライド作成、PDFからMarkdownへの変換、論文の静的Webサイト化などのスキルも含む。"
     },
     {
       "name": "DSH Game Studio",
