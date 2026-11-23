@@ -1,5 +1,5 @@
 {
-  "count": 1445,
+  "count": 1446,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -9510,6 +9510,24 @@
       ],
       "fetched_at": "2026-11-18T10:09:53.186011+00:00",
       "path": "articles/2026-11-04-author-d3d-decoupled-diffusion-drafting-for-asynchronous-speculative-decoding.md"
+    },
+    {
+      "name": "DNeo: Your Parallel Draft Model Needs Better Target Feature Encoding",
+      "genre": "article",
+      "url": "https://www.alphaxiv.org/pdf/2611.21925",
+      "published": "2026-11-16",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "最大30%の高速化は著者らがQwen3-4B、H100、記載されたベンチマークと推論設定で報告した結果。別のモデルや環境で同じ効果が得られるかは未確認。対応言語について論文に明記が見当たらず不明。",
+      "type": "article",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/NeuralArch1tect/status/2123117414690718100"
+      ],
+      "fetched_at": "2026-11-19T03:07:45.312773+00:00",
+      "path": "articles/2026-11-16-author-dneo-your-parallel-draft-model-needs-better-target-feature-encoding.md"
     },
     {
       "name": "DatalabのIndra OCR初回公開",

@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1445 件 — リポジトリ 1021, リンク集 121, 記事 234, モデル 55, プロンプト 14 / ⚑ 要確認 1175 件
+収録 1446 件 — リポジトリ 1021, リンク集 121, 記事 235, モデル 55, プロンプト 14 / ⚑ 要確認 1176 件
 
 ## リポジトリ（1021）
 
@@ -189,7 +189,7 @@
 | [Inkstone](entries/other/shuaiplus-inkstone.md) ⚑ | 1,188 | 1,095 | 月次 | 0 | 2026-10-07 | 2026-11-17 |  | unknown |
 | [Hack Club Sprig](entries/other/hackclub-sprig.md) ⚑ | 1,119 | 1,938 | 毎日 | 24 | 2026-11-17 | 2026-11-18 |  | MIT |
 | [WeVisOne-VL](entries/other/tencent-wevisone-vl.md) | 1,111 | 95 | 月次 | 3 | 2026-10-25 | 2026-11-09 |  | Apache-2.0（Tencent 著作部分） |
-| [Visual Pinball](entries/other/vpinball-vpinball.md) ⚑ | 1,077 | 189 | 毎日 | 100+ | 2026-11-18 | 2026-11-19 | 2026-11-23 | unknown |
+| [Visual Pinball](entries/other/vpinball-vpinball.md) ⚑ | 1,077 | 189 | 毎日 | 100+ | 2026-11-18 | 2026-11-19 |  | unknown |
 | [Shapeshift](entries/other/anishfn-shapeshift.md) ⚑ | 1,073 | 106 | 月次 | 0 | 2026-09-23 | 2026-11-16 |  | MIT |
 | [FlashProve](entries/other/anthropics-flashprove.md) ⚑ | 1,063 | 113 | 月次 | 1 | 2026-10-30 | 2026-11-16 |  | Apache-2.0 |
 | [JavRanking 浏览器扩展](entries/other/javranking-javranking-extension.md) ⚑ | 1,054 | 70 | 週次 | 4 | 2026-10-27 | 2026-11-16 |  | MIT |
@@ -1597,9 +1597,9 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（234）
+## 記事（235）
 
-### 記事（170）
+### 記事（171）
 
 - **[$0のデジタル参謀長で月$80,000の契約候補を作ったというX投稿（動画付き）](articles/2026-10-22-bober_smart-0-80-000-x.md)** ⚑  @Bober_smart
 - **[1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md)** ⚑  @mukadeshinigami（mukade死神）
@@ -1648,6 +1648,7 @@
 - **[Control Room](articles/2026-11-09-openai-control-room.md)** ⚑  OpenAI
 - **[Covert underperformance on safety research tasks](articles/2026-11-04-author-covert-underperformance-on-safety-research-tasks.md)** ⚑
 - **[D3D: Decoupled Diffusion Drafting for Asynchronous Speculative Decoding](articles/2026-11-04-author-d3d-decoupled-diffusion-drafting-for-asynchronous-speculative-decoding.md)** ⚑
+- **[DNeo: Your Parallel Draft Model Needs Better Target Feature Encoding](articles/2026-11-16-author-dneo-your-parallel-draft-model-needs-better-target-feature-encoding.md)** ⚑
 - **[DatalabのIndra OCR初回公開](articles/2026-10-13-vik-paruchuri-datalab-indra-ocr.md)** ⚑  Vik Paruchuri
 - **[Day 283: Something To Stand On — body contacts in an animation system](articles/2026-11-06-author-day-283-something-to-stand-on-body-contacts-in-an-animation-system.md)**
 - **[Deep Learning with PyTorch: A 60 Minute Blitz](articles/2017-03-24-author-deep-learning-with-pytorch-a-60-minute-blitz.md)**
@@ -2117,6 +2118,7 @@
 - [Control Room](articles/2026-11-09-openai-control-room.md) — unverified / 停止まで最大35秒はOpenAIの研究環境についての公表値。独立した計測や稼働環境での再現は行っていない。外部向けの実装・APIの提供は公式記事で確認できない。
 - [Covert underperformance on safety research tasks](articles/2026-11-04-author-covert-underperformance-on-safety-research-tasks.md) — unverified / 内部評価と社内Codex利用の観察に基づく報告であり、記載された性能差や頻度を一般の利用環境へそのまま当てはめられるとは示されていない。原因は特定されていない。
 - [D3D: Decoupled Diffusion Drafting for Asynchronous Speculative Decoding](articles/2026-11-04-author-d3d-decoupled-diffusion-drafting-for-asynchronous-speculative-decoding.md) — unverified / 速度向上の数値は論文の著者らが記載した評価結果であり、独立した再現確認ではない。評価はQwen3-8B／32B、7ベンチマーク、greedy decodingなど論文記載の条件に基づく。
+- [DNeo: Your Parallel Draft Model Needs Better Target Feature Encoding](articles/2026-11-16-author-dneo-your-parallel-draft-model-needs-better-target-feature-encoding.md) — unverified / 最大30%の高速化は著者らがQwen3-4B、H100、記載されたベンチマークと推論設定で報告した結果。別のモデルや環境で同じ効果が得られるかは未確認。対応言語について論文に明記が見当たらず不明。
 - [DatalabのIndra OCR初回公開](articles/2026-10-13-vik-paruchuri-datalab-indra-ocr.md) — unverified / 性能は提供元の測定。モデル重みとコードのライセンス条件は異なる。
 - [Design the Muse App, Just for You](articles/2026-11-06-author-design-the-muse-app-just-for-you.md) — unverified / 実機での動作、対応する外部アプリと必要な権限、料金・利用条件、Metaのモデル評価の独立再現は未確認。
 - [Dreaming with a dynamic workflow](articles/2026-11-02-author-dreaming-with-a-dynamic-workflow.md) — unverified / 記事の費用・所要時間は著者が示した条件での報告で、一般的な性能保証ではない。また、記事は未信頼の記録がメモリ内容を変えうると説明している。夜間の既存ストア更新には変更の事前レビューが既定でないため、運用前に保存内容を確認する必要がある。
