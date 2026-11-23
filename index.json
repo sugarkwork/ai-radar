@@ -1,5 +1,5 @@
 {
-  "count": 1403,
+  "count": 1404,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -22697,6 +22697,37 @@
       "last_release_at": "2026-10-29",
       "path": "entries/mcp-server/basicmachines-co-basic-memory.md",
       "summary": "READMEでは、知識をMarkdownファイルとして保存し、AIと人間が同じファイルを読み書きできると説明されています。観察記録とwikilinksによる知識グラフ、意味検索、任意のcross-encoder reranking、MCP経由のAIクライアント連携を提供します。"
+    },
+    {
+      "name": "DaVinci Resolve MCP Server",
+      "genre": "mcp-server",
+      "url": "https://github.com/samuelgursky/davinci-resolve-mcp",
+      "repo": "samuelgursky/davinci-resolve-mcp",
+      "license": "MIT",
+      "stars": 4187,
+      "language": "Python",
+      "created": "2025-03-18",
+      "updated": "2026-11-18",
+      "forks": 484,
+      "open_issues": 3,
+      "commits_30d": 100,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 64026,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "無料版向けブリッジはResolve 21.0.xまでの経路として扱うようREADMEが記載。無料版21.1でConsoleからPythonを実行できるかは未確認。Windows・Linuxの確認根拠は作者が紹介する利用者報告で、独立検証ではない。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/RoundtableSpace/status/2123027189276778909"
+      ],
+      "fetched_at": "2026-11-18T15:09:07.343350+00:00",
+      "path": "entries/mcp-server/samuelgursky-davinci-resolve-mcp.md",
+      "summary": "DaVinci Resolve Studioを公式Scripting API経由で操作するMCPサーバー。編集、メディアプール整理、レンダー設定、レビュー用マーカー、カラーグレーディング、Fusion、Fairlight、プロジェクト管理などの操作を提供する。README記載では標準モードは37ツール、全APIメソッド"
     },
     {
       "repo": "zhuyansen/new-term-radar",
