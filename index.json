@@ -1,5 +1,5 @@
 {
-  "count": 1506,
+  "count": 1507,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -10528,6 +10528,24 @@
       ],
       "fetched_at": "2026-11-09T10:22:00+00:00",
       "path": "articles/2026-07-14-graham-weaver-stanford-graduate-school-of-business-last-lecture-series-how-to-win-without-f6d1f4ee42.md"
+    },
+    {
+      "name": "Lawyer with too many GPUs, part 4: DeepSeek-V4.1-Flash on eight V100s",
+      "genre": "article",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xoubyo/lawyer_with_too_many_gpus_part_4_deepseekv41flash",
+      "published": "2026-11-05",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "性能値、品質評価、運用結果は投稿者が自身の環境で測定したと述べる数値で、独立した再現確認はしていない。測定条件は記事内に記載されているが、別環境での再現性は不明。",
+      "type": "article",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/ai_hakase_/status/2119384922762674183"
+      ],
+      "fetched_at": "2026-11-19T23:09:22.683766+00:00",
+      "path": "articles/2026-11-05-author-lawyer-with-too-many-gpus-part-4-deepseek-v4.1-flash-on-eight-v100s.md"
     },
     {
       "name": "Limits.",

@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1506 件 — リポジトリ 1067, リンク集 124, 記事 246, モデル 55, プロンプト 14 / ⚑ 要確認 1230 件
+収録 1507 件 — リポジトリ 1067, リンク集 124, 記事 247, モデル 55, プロンプト 14 / ⚑ 要確認 1231 件
 
 ## リポジトリ（1067）
 
@@ -848,7 +848,7 @@
 | [tqLLM](entries/model-serving/turbo-tan-tqllm.md) ⚑ | 131 | 17 | 毎日 | 46 | 2026-11-16 | 2026-11-17 |  | Apache-2.0 |
 | [bloomery](entries/model-serving/midagedev-bloomery.md) | 78 | 7 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 |  | MIT |
 | [qwen-warp](entries/model-serving/tuan3w-qwen-warp.md) ⚑ | 42 | 6 | 毎日 | 100+ | 2026-11-15 | 2026-11-16 |  | MIT |
-| [Volta sPLIt: DeepSeek-V4.1-Flash-1017 on eight V100-SXM2 32 GB cards](entries/model-serving/proprietarylegal-volta-split-deepseek-v4.1-flash-1017-8xv100-sxm2-pp2xtp4.md) ⚑ | 36 | 4 | 週次 | 14 | 2026-11-19 | 2026-11-19 | 2026-11-23 | Apache-2.0 |
+| [Volta sPLIt: DeepSeek-V4.1-Flash-1017 on eight V100-SXM2 32 GB cards](entries/model-serving/proprietarylegal-volta-split-deepseek-v4.1-flash-1017-8xv100-sxm2-pp2xtp4.md) ⚑ | 36 | 4 | 週次 | 14 | 2026-11-19 | 2026-11-19 |  | Apache-2.0 |
 | [nf12](entries/model-serving/dphnai-nf12.md) ⚑ | 32 | 3 | 週次 | 12 | 2026-11-14 | 2026-11-16 |  | Apache-2.0 |
 | [GLM-5.3-Flash 2×RTX PRO 6000 配備レシピ（TensorFold）](entries/model-serving/miaai-lab-glm-5.3-flash-2x-rtx-pro-6000.md) ⚑ | 31 | 4 | 毎日 | 31 | 2026-11-12 | 2026-11-16 |  | Apache-2.0 |
 | [Tokenomos](entries/model-serving/kohakublueleaf-tokenomos.md) | 28 | 0 | 毎日 | 20 | 2026-11-05 | 2026-11-16 |  | Apache-2.0 |
@@ -1649,9 +1649,9 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（246）
+## 記事（247）
 
-### 記事（181）
+### 記事（182）
 
 - **[$0のデジタル参謀長で月$80,000の契約候補を作ったというX投稿（動画付き）](articles/2026-10-22-bober_smart-0-80-000-x.md)** ⚑  @Bober_smart
 - **[1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md)** ⚑  @mukadeshinigami（mukade死神）
@@ -1753,6 +1753,7 @@
 - **[LangChain、3億ドルのシリーズCを調達し、企業価値30億ドルに](articles/2026-11-13-author-langchain-3-c-30.md)** ⚑
 - **[Large Language Continuous Diffusion Models](articles/2026-10-02-author-large-language-continuous-diffusion-models.md)**
 - **[Last Lecture Series: “How to Win Without Crushing Your Soul” - Graham Weaver（Stanford GSB Class of 2026）](articles/2026-07-14-graham-weaver-stanford-graduate-school-of-business-last-lecture-series-how-to-win-without-f6d1f4ee42.md)** ⚑  Graham Weaver（Stanford Graduate School of Business 公式チャンネル）
+- **[Lawyer with too many GPUs, part 4: DeepSeek-V4.1-Flash on eight V100s](articles/2026-11-05-author-lawyer-with-too-many-gpus-part-4-deepseek-v4.1-flash-on-eight-v100s.md)** ⚑
 - **[Limits.](articles/2026-10-07-author-limits.md)** ⚑
 - **[Loop Engineering: Building Blocks, Adoption, and Impact](articles/2026-08-22-author-loop-engineering-building-blocks-adoption-and-impact.md)** ⚑
 - **[Lyra 2.0: Explorable Generative 3D Worlds](articles/2026-04-14-author-lyra-2.0-explorable-generative-3d-worlds.md)**
@@ -2228,6 +2229,7 @@
 - [Laddersによる履歴書PDFの抽出評価](articles/2026-11-07-marc-cenedella-ladders-pdf.md) — unverified / 試験条件と再現性は未確認。
 - [LangChain、3億ドルのシリーズCを調達し、企業価値30億ドルに](articles/2026-11-13-author-langchain-3-c-30.md) — unverified / 導入組織数や顧客事例、製品の機能・効果はLangChainの発表内容であり、独立検証された結果ではない。
 - [Last Lecture Series: “How to Win Without Crushing Your Soul” - Graham Weaver（Stanford GSB Class of 2026）](articles/2026-07-14-graham-weaver-stanford-graduate-school-of-business-last-lecture-series-how-to-win-without-f6d1f4ee42.md) — unverified / 確認できたこと: 公式YouTube（Stanford GSB チャンネル）に講演が実在し、タイトルは「Last Lecture Series: “How to Win Without Crushing Your Soul” - Graham Weaver」、公開日 2026-07-14、尺 34:01、Class of 2026 向けの Last Lecture であること（YouTube概要・本人ブログ・本人Instagramで一致）。Weaver は Stanford GSB の Lecturer in Management で Alpine Investors の創業者（GSB教員ページ・Alpine公式）。講演の3実践と引用の多くは公式字幕と一致。誤り・未確認: (1)「10 million people watched」はこの動画単体では約263万回（2026-11-09時点）。WeaverのGSB講演5本の合計が約1,030万回なので、合算を単体の数字として書いた可能性が高い。(2)「33 minutes」は公式34:01、投稿添付クリップは33:31で、切り抜き側の尺。(3)「$16 billion」はAlpine公式の現行表記（$18.8B、25周年ページでは2026-06-30時点$17.7B）より古く過小。(4)「life coaches charge $500 an hour」は一次情報を確認できず未検証。(5) 引用ブロックの「achievement cannot fix self hatred」「what you avoid grows」「unless you skip them」は講演の逐語ではなく投稿者による要約・脚色（講演本体は「I just didn't really like myself」「your nail is the thing you're avoiding」「You're in the good old days now」）。(6) 添付動画は同一講演の再アップロードとみられ、会場・人物・衣装・尺が公式と一致するが、音声の波形一致やフレーム単位の同一性は未確認。講演自体に効果の対照試験や追跡データはなく、内容は本人の体験談と実践の提案である。
+- [Lawyer with too many GPUs, part 4: DeepSeek-V4.1-Flash on eight V100s](articles/2026-11-05-author-lawyer-with-too-many-gpus-part-4-deepseek-v4.1-flash-on-eight-v100s.md) — unverified / 性能値、品質評価、運用結果は投稿者が自身の環境で測定したと述べる数値で、独立した再現確認はしていない。測定条件は記事内に記載されているが、別環境での再現性は不明。
 - [Limits.](articles/2026-10-07-author-limits.md) — low-quality, unverified / 記事は「limitless」とうたう一方、本文でも利用上限があると説明している。また、プランの価値比較など重要な数値は記事内で独立検証できず、有料ニュースレターや講座の宣伝も含む。 プラン間の作業量比較、推奨設定による利用量の節約効果、画面や機能の利用条件は記事の主張であり、独立した裏取りはしていない。Claudeのプランや機能は変更される可能性がある。
 - [Loop Engineering: Building Blocks, Adoption, and Impact](articles/2026-08-22-author-loop-engineering-building-blocks-adoption-and-impact.md) — unverified / 投稿文の36,487は実行証拠を調べた分析対象数（論文本文の表2）。論文要旨では探索的マイニングの対象を36,710リポジトリと記載。0.59%は特定のGitHub公開リポジトリと検出手法に基づく値で、業界全体の普及率ではない。
 - [Machine-Readable Training Preference Signal](articles/2026-10-30-k.-kelley-anthropic-machine-readable-training-preference-signal.md) — unverified / 個人提出の Internet-Draft。各社の実装状況、設定の遵守、検索・引用への影響は未検証。
