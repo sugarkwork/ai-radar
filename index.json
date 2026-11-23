@@ -1,5 +1,5 @@
 {
-  "count": 1539,
+  "count": 1540,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -19439,6 +19439,37 @@
       "last_release_at": "",
       "path": "entries/finance-quant/kaustubhpatange-polymarket-trade-engine.md",
       "summary": "PolymarketのBTC、ETH、XRP、SOL、DOGE、HYPE、BNBの5分・15分予測市場向け自動売買エンジン。戦略テスト用ハーネスと、実行結果を分析する対話型ダッシュボードを備える。"
+    },
+    {
+      "name": "BreakoutAnalysis",
+      "genre": "finance-quant",
+      "url": "https://github.com/calesthio/BreakoutAnalysis",
+      "repo": "calesthio/BreakoutAnalysis",
+      "license": "MIT",
+      "stars": 286,
+      "language": "Python",
+      "created": "2025-07-12",
+      "updated": "2026-02-23",
+      "forks": 70,
+      "open_issues": 0,
+      "commits_30d": 0,
+      "commit_cadence": "stale",
+      "commits_90d": 0,
+      "size_kb": 1513,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "スクリーニングやAI分析が投資成果につながるかはREADMEから確認できない。Alpacaの無料IEXデータと有料SIPデータではカバレッジが異なると記載されている。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/bkdgiffug/status/2119409853064200347"
+      ],
+      "fetched_at": "2026-11-22T04:27:28.399795+00:00",
+      "path": "entries/finance-quant/calesthio-breakoutanalysis.md",
+      "summary": "TradingViewのスクリーナーで市場時間中に15分ごとに米国株を走査し、Alpacaの過去データで候補を絞り込む。Gemini、GPT、またはOllamaを使った分析、ニュース、チャート画像を添えてDiscordやメールに通知する機能がREADMEに記載されている。"
     },
     {
       "name": "kline-structure-chart",
