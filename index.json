@@ -1,5 +1,5 @@
 {
-  "count": 1391,
+  "count": 1392,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -326,6 +326,37 @@
       "last_release_at": "",
       "path": "entries/3d-motion/tencent-hunyuan-hunyuan3d-2.md",
       "summary": "画像から形状メッシュを生成し、GLBやOBJに書き出せる。生成したメッシュや手持ちのメッシュには、別段階でテクスチャを合成できる。"
+    },
+    {
+      "name": "Bullet Physics SDK",
+      "genre": "3d-motion",
+      "url": "https://github.com/bulletphysics/bullet3",
+      "repo": "bulletphysics/bullet3",
+      "stars": 14872,
+      "forks": 3119,
+      "open_issues": 444,
+      "size_kb": 297050,
+      "language": "C++",
+      "created": "2011-04-12",
+      "updated": "2026-10-09",
+      "archived": false,
+      "license": "unknown",
+      "commits_30d": 0,
+      "commits_90d": 3,
+      "commit_cadence": "monthly",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/0xclayo/status/2123016316353155192"
+      ],
+      "fetched_at": "2026-11-18T14:10:53.165757+00:00",
+      "path": "entries/3d-motion/bulletphysics-bullet3.md",
+      "summary": "READMEでは、Bullet Physics SDKをリアルタイム衝突検出およびマルチフィジックスシミュレーション用のC++ソースコードとして説明し、VR、ゲーム、視覚効果、ロボティクス、機械学習などを用途に挙げています。PyBulletのPythonバインディングについては、ロボティクス、強化学習、VRでの利用を推"
     },
     {
       "type": "repo",

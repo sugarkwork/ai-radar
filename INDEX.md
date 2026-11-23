@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1391 件 — リポジトリ 983, リンク集 120, 記事 219, モデル 55, プロンプト 14 / ⚑ 要確認 1128 件
+収録 1392 件 — リポジトリ 984, リンク集 120, 記事 219, モデル 55, プロンプト 14 / ⚑ 要確認 1129 件
 
-## リポジトリ（983）
+## リポジトリ（984）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -217,7 +217,7 @@
 | [Jev Plays Pokémon Red](entries/other/christianmat-jev-pokemon.md) ⚑ | 134 | 11 | 月次 | 0 | 2026-09-28 | 2026-11-16 |  | GPL-2.0 |
 | [muse-grok-x-search](entries/other/kgmkm-muse-grok-x-search.md) ⚑ | 108 | 17 | 月次 | 2 | 2026-11-03 | 2026-11-15 |  | MIT |
 | [myradio](entries/other/monoradio102-myradio.md) ⚑ | 107 | 15 | 毎日 | 37 | 2026-11-13 | 2026-11-14 |  | unknown |
-| [pixi-ease](entries/other/davidfig-pixi-ease.md) | 105 | 11 | 週次 | 6 | 2026-11-06 | 2026-11-18 | 2026-11-23 | MIT |
+| [pixi-ease](entries/other/davidfig-pixi-ease.md) | 105 | 11 | 週次 | 6 | 2026-11-06 | 2026-11-18 |  | MIT |
 | [dsh-pet-live2d](entries/other/a8chann-dsh-pet-live2d.md) ⚑ | 80 | 11 | 毎日 | 35 | 2026-11-09 | 2026-11-16 |  | unknown |
 | [URLhaus](entries/other/abusech-urlhaus.md) ⚑ | 79 | 12 | 停滞 | 0 | 2024-11-09 | 2026-11-16 |  | unknown |
 | [Strata](entries/other/carthageadev-strata.md) ⚑ | 48 | 3 | 毎日 | 41 | 2026-11-11 | 2026-11-16 |  | unknown |
@@ -644,7 +644,7 @@
 | [BennyDaBall930/comfyui_hyperflow_int8_nodes](entries/video-gen/bennydaball930-comfyui_hyperflow_int8_nodes.md) ⚑ | 3 | 0 | 週次 | 10 | 2026-11-09 | 2026-11-09 |  | GPL-3.0 |
 | [web-reels](entries/video-gen/rabin-a-web-reels.md) ⚑ | 0 | 0 | 週次 | 5 | 2026-11-08 | 2026-11-18 |  | unknown |
 
-### 3D・モーション（83）
+### 3D・モーション（84）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -658,6 +658,7 @@
 | [Babylon.js](entries/3d-motion/babylonjs-babylon.js.md) ⚑ | 26,380 | 3,739 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 |  | Apache-2.0 |
 | [Blender](entries/3d-motion/blender-blender.md) ⚑ | 22,112 | 3,610 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 |  | unknown |
 | [Hunyuan3D-2](entries/3d-motion/tencent-hunyuan-hunyuan3d-2.md) ⚑ | 15,445 | 1,604 | 停滞 | 0 | 2025-10-28 | 2026-11-16 |  | unknown |
+| [Bullet Physics SDK](entries/3d-motion/bulletphysics-bullet3.md) ⚑ | 14,872 | 3,119 | 月次 | 0 | 2026-10-09 | 2026-11-18 | 2026-11-23 | unknown |
 | [Meshroom](entries/3d-motion/alicevision-meshroom.md) ⚑ | 13,096 | 1,242 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 |  | MPL-2.0 |
 | [Theatre.js](entries/3d-motion/theatre-js-theatre.md) ⚑ | 13,028 | 511 | 停滞 | 0 | 2024-08-14 | 2026-11-16 |  | Apache-2.0 |
 | [TRELLIS.2](entries/3d-motion/microsoft-trellis.2.md) ⚑ | 12,950 | 1,575 | 停滞 | 0 | 2026-07-10 | 2026-11-16 |  | MIT |
@@ -1836,6 +1837,7 @@
 - [Babylon.js](entries/3d-motion/babylonjs-babylon.js.md) — unverified / READMEのCDNは学習や小規模な実験向けで、本番環境では使用しないよう記載されている。READMEは実機での動作や対応環境の詳細を独立検証していない。
 - [Blender](entries/3d-motion/blender-blender.md) — unverified / GitHubミラーの最新リリース、発見投稿のClaudeによる全工程自動化、外部MCPとの接続、総費用、制作結果は未確認。レンダリング速度や画質の独立実測は行っていない。 GitHub APIでライセンスを確認できていません。
 - [Hunyuan3D-2](entries/3d-motion/tencent-hunyuan-hunyuan3d-2.md) — unverified / GitHub APIでライセンスを確認できていません。
+- [Bullet Physics SDK](entries/3d-motion/bulletphysics-bullet3.md) — unverified / GitHub APIでライセンスを確認できていません。
 - [Meshroom](entries/3d-motion/alicevision-meshroom.md) — unverified / Meshroom本体はMPL-2.0。AliceVisionや追加プラグイン、AIモデルの条件は個別に確認。公式マニュアルによると密な深度推定にはCUDA対応NVIDIA GPUが必要で、非CUDA環境は粗いdraft meshingを利用。実行・再構築品質は未検証。
 - [Theatre.js](entries/3d-motion/theatre-js-theatre.md) — unverified / READMEでは、開発を一時的に非公開リポジトリへ移したと説明されています。studio（@theatre/studio）はAGPL-3.0、core（@theatre/core）および多くのパッケージはApache-2.0と記載されており、ライセンスはパッケージごとに確認が必要です。
 - [TRELLIS.2](entries/3d-motion/microsoft-trellis.2.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
