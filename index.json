@@ -1,5 +1,5 @@
 {
-  "count": 1404,
+  "count": 1405,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -28917,6 +28917,37 @@
       "last_release_at": "2026-04-21",
       "path": "entries/other/creators-of-create-create.md",
       "summary": "Minecraftに、建築・装飾・見た目を重視した自動化のためのツールとブロックを追加する。アニメーションする部品を組み合わせた装置を、さまざまな構成で作れる。ゲーム内のビジュアルドキュメント「Ponder」が追加された仕組みや装置を案内する。出典: https://github.com/Creators-of-Cre"
+    },
+    {
+      "name": "AutoSubs",
+      "genre": "other",
+      "url": "https://github.com/tmoroney/auto-subs",
+      "repo": "tmoroney/auto-subs",
+      "stars": 4575,
+      "forks": 332,
+      "open_issues": 168,
+      "size_kb": 123787,
+      "language": "TypeScript",
+      "created": "2023-03-15",
+      "updated": "2026-11-11",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 14,
+      "commits_90d": 100,
+      "commit_cadence": "weekly",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 依存関係・実行条件。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/RoundtableSpace/status/2123027189276778909"
+      ],
+      "fetched_at": "2026-11-18T15:13:23.080886+00:00",
+      "path": "entries/other/tmoroney-auto-subs.md",
+      "summary": "音声または動画からタイムスタンプ付き字幕を作成し、話者を検出してラベル付けできます。READMEによると、複数のローカル文字起こしモデルを選べ、字幕の編集、翻訳、SRTやテキストへの書き出しに対応します。DaVinci Resolve、Adobe Premiere Pro、After Effectsとの連携手順も案内さ"
     },
     {
       "name": "EmulatorJS",
