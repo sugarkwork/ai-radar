@@ -1,5 +1,5 @@
 {
-  "count": 1546,
+  "count": 1547,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -11546,6 +11546,24 @@
       ],
       "fetched_at": "2026-11-15T15:27:42.029561+00:00",
       "path": "articles/2026-11-04-author-the-next-chapter-of-redis-iris-what-agents-need-to-work-in-the-real-world.md"
+    },
+    {
+      "name": "The software factory is the next extinct wrapper",
+      "genre": "article",
+      "url": "https://x.com/i/article/2119166757625843712",
+      "published": "2026-11-08",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "記事のX原文は閲覧時に403で取得できなかった。著者名義のDEV掲載版で本文と「Nov 8」の表示を確認し、X記事IDの時刻情報から2026-11-08の日付を確認した。著者が述べるPR件数や開発期間、3〜6か月の予測は独立検証されていない。",
+      "type": "article",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/jleechan2015/status/2119218626293358612"
+      ],
+      "fetched_at": "2026-11-22T04:45:03.494607+00:00",
+      "path": "articles/2026-11-08-author-the-software-factory-is-the-next-extinct-wrapper.md"
     },
     {
       "name": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",

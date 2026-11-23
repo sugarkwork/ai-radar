@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1546 件 — リポジトリ 1096, リンク集 125, 記事 256, モデル 55, プロンプト 14 / ⚑ 要確認 1265 件
+収録 1547 件 — リポジトリ 1096, リンク集 125, 記事 257, モデル 55, プロンプト 14 / ⚑ 要確認 1266 件
 
 ## リポジトリ（1096）
 
@@ -1680,9 +1680,9 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（256）
+## 記事（257）
 
-### 記事（191）
+### 記事（192）
 
 - **[$0のデジタル参謀長で月$80,000の契約候補を作ったというX投稿（動画付き）](articles/2026-10-22-bober_smart-0-80-000-x.md)** ⚑  @Bober_smart
 - **[1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md)** ⚑  @mukadeshinigami（mukade死神）
@@ -1834,6 +1834,7 @@
 - **[The attack chain behind the v1.107.0 LiteLLM release](articles/2026-10-23-oliver-jensen-mateo-wang-litellm-the-attack-chain-behind-the-v1.107.0-litellm-release.md)**  Oliver Jensen、Mateo Wang（LiteLLM）
 - **[The components of agent memory](articles/2026-11-06-anthropic-engineering-the-components-of-agent-memory.md)** ⚑  Anthropic Engineering
 - **[The next chapter of Redis Iris: what agents need to work in the real world](articles/2026-11-04-author-the-next-chapter-of-redis-iris-what-agents-need-to-work-in-the-real-world.md)** ⚑
+- **[The software factory is the next extinct wrapper](articles/2026-11-08-author-the-software-factory-is-the-next-extinct-wrapper.md)** ⚑
 - **[Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals](articles/2026-10-30-chris-porter-nvidia-things-that-go-beep-in-the-night-agentic-ai-joins-the-search-for-extraterrestria.md)** ⚑  Chris Porter（NVIDIA）
 - **[Threat Overview of ARTEX Autonomous Penetration Testing Framework](articles/2026-11-13-author-threat-overview-of-artex-autonomous-penetration-testing-framework.md)** ⚑
 - **[TokenSpeedのQwen3.8-Flash-Next推論測定](articles/2026-10-13-tokenspeed-team-tokenspeed-qwen3.8-flash-next.md)** ⚑  TokenSpeed Team
@@ -2310,6 +2311,7 @@
 - [The Winners and Losers of AI’s First Big Election](articles/2026-11-10-author-the-winners-and-losers-of-ai-s-first-big-election.md) — unverified / ページ上部にProject Management Instituteとの提携を示すスポンサー記事の内容が混在している。記事本文にはページ内の公開日「2026-11-10」と署名欄の「Nov 4, 2026」が併記されているため、公開日の表記には注意。記事中の調査・選挙結果の主張はTIME記事の記述であり、各リンク先資料までは個別に検証していない。
 - [The components of agent memory](articles/2026-11-06-anthropic-engineering-the-components-of-agent-memory.md) — unverified / 評価はAnthropicの報告に基づく。独立再現、別タスクへの一般化、記憶の保守に必要な計算コストは未検証。
 - [The next chapter of Redis Iris: what agents need to work in the real world](articles/2026-11-04-author-the-next-chapter-of-redis-iris-what-agents-need-to-work-in-the-real-world.md) — unverified / トークン削減や解決時間短縮などの効果はRedisによる説明で、記事中に独立検証の結果は示されていない。料金・利用条件はこの記事では確認できない。
+- [The software factory is the next extinct wrapper](articles/2026-11-08-author-the-software-factory-is-the-next-extinct-wrapper.md) — unverified / 記事のX原文は閲覧時に403で取得できなかった。著者名義のDEV掲載版で本文と「Nov 8」の表示を確認し、X記事IDの時刻情報から2026-11-08の日付を確認した。著者が述べるPR件数や開発期間、3〜6か月の予測は独立検証されていない。
 - [Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals](articles/2026-10-30-chris-porter-nvidia-things-that-go-beep-in-the-night-agentic-ai-joins-the-search-for-extraterrestria.md) — unverified / 投稿の短縮URLは解決できず、自然言語によるアンテナの指向変更・較正と、かにパルサーのリアルタイム検出という記述の一致から対象記事を特定した。エージェントの制御精度、誤操作時の挙動、観測から検出までの一連の再現手順、構成一式のライセンスと利用料金は確認できていない。
 - [Threat Overview of ARTEX Autonomous Penetration Testing Framework](articles/2026-11-13-author-threat-overview-of-artex-autonomous-penetration-testing-framework.md) — unverified / 記事は脅威活動と推奨緩和策を説明する警告資料であり、ARTEXの独立した安全性評価や一般的な有効性評価ではない。
 - [TokenSpeedのQwen3.8-Flash-Next推論測定](articles/2026-10-13-tokenspeed-team-tokenspeed-qwen3.8-flash-next.md) — unverified / 開発元測定。独立追試やQwen 4製品性能は未確認。
