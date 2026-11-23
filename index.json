@@ -1,5 +1,5 @@
 {
-  "count": 1364,
+  "count": 1365,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -26257,6 +26257,37 @@
       "fetched_at": "2026-11-17T23:16:01.623437+00:00",
       "path": "entries/other/prefecthq-prefect.md",
       "summary": "Pythonのデータパイプラインをワークフローとして構築・実行し、スケジュール、キャッシュ、リトライ、イベント連動の自動化を利用できます。ワークフローの活動はセルフホストのPrefect serverまたはPrefect Cloudで監視できます。"
+    },
+    {
+      "name": "Exercises Dataset",
+      "genre": "other",
+      "url": "https://github.com/hasaneyldrm/exercises-dataset",
+      "repo": "hasaneyldrm/exercises-dataset",
+      "license": "unknown",
+      "stars": 23847,
+      "language": "HTML",
+      "created": "2026-03-18",
+      "updated": "2026-07-16",
+      "forks": 3072,
+      "open_issues": 52,
+      "commits_30d": 0,
+      "commit_cadence": "stale",
+      "commits_90d": 0,
+      "size_kb": 128461,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEはコード・データをMIT、メディアを別条件として記載していますが、メディアの具体的な利用条件は確認できていません。 GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/bkdgiffug/status/2119250804594954365"
+      ],
+      "fetched_at": "2026-11-18T02:23:46.772887+00:00",
+      "path": "entries/other/hasaneyldrm-exercises-dataset.md",
+      "summary": "READMEによると、1,324件のエクササイズについて、カテゴリ、部位、器具、対象筋・筋群、10言語の手順、各件のGIFアニメーションと180×180サムネイルを提供します。付属のブラウザーでは検索・フィルター・詳細表示ができ、開発者向けページにはデータベース取り込みやAPI連携の例があります。"
     },
     {
       "repo": "citrolabs/ego-lite",
