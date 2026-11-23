@@ -1,5 +1,5 @@
 {
-  "count": 1525,
+  "count": 1526,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -36830,6 +36830,37 @@
       "last_release_at": "2025-01-07",
       "path": "entries/prompt-design/kepano-flexoki.md",
       "summary": "デジタル筆記環境等に用いるFlexoki配色。"
+    },
+    {
+      "name": "15 Motion Design Styles",
+      "genre": "prompt-design",
+      "url": "https://github.com/Vincentwei1021/mg-styles-15",
+      "repo": "Vincentwei1021/mg-styles-15",
+      "license": "MIT",
+      "stars": 3717,
+      "language": "Python",
+      "created": "2026-10-02",
+      "updated": "2026-11-19",
+      "forks": 464,
+      "open_issues": 2,
+      "commits_30d": 19,
+      "commit_cadence": "weekly",
+      "commits_90d": 27,
+      "size_kb": 568393,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景・有効性。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/flxrnc/status/2123392905934999811"
+      ],
+      "fetched_at": "2026-11-20T03:12:59.104192+00:00",
+      "path": "entries/prompt-design/vincentwei1021-mg-styles-15.md",
+      "summary": "15種類のモーションデザインの作例を閲覧し、各作品のスタイル説明、完全なプロンプト、ソースコードを参照できる。READMEによると、映像はSVG、Canvas、WebGL、Three.jsなどのコードで描画し、3D作品にはBlenderを使用。音楽と効果音も各作品のaudio.pyで合成する。"
     },
     {
       "name": "The Designer Skills Pack",

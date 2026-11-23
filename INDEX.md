@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1525 件 — リポジトリ 1082, リンク集 125, 記事 249, モデル 55, プロンプト 14 / ⚑ 要確認 1246 件
+収録 1526 件 — リポジトリ 1083, リンク集 125, 記事 249, モデル 55, プロンプト 14 / ⚑ 要確認 1247 件
 
-## リポジトリ（1082）
+## リポジトリ（1083）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -22,7 +22,7 @@
 | [Build a Large Language Model (From Scratch)](entries/other/rasbt-llms-from-scratch.md) ⚑ | 108,297 | 16,745 | 週次 | 13 | 2026-11-09 | 2026-11-12 |  | unknown |
 | [Ghidra](entries/other/nationalsecurityagency-ghidra.md) ⚑ | 100,613 | 11,442 | 毎日 | 100+ | 2026-11-18 | 2026-11-19 |  | Apache-2.0 |
 | [OpenCut](entries/other/opencut-app-opencut.md) ⚑ | 98,341 | 9,823 | 停滞 | 0 | 2026-09-24 | 2026-11-14 |  | MIT |
-| [Syncthing](entries/other/syncthing-syncthing.md) ⚑ | 90,615 | 5,616 | 週次 | 8 | 2026-11-20 | 2026-11-20 | 2026-11-23 | MPL-2.0 |
+| [Syncthing](entries/other/syncthing-syncthing.md) ⚑ | 90,615 | 5,616 | 週次 | 8 | 2026-11-20 | 2026-11-20 |  | MPL-2.0 |
 | [career-ops](entries/other/career-ops-hq-career-ops.md) | 83,084 | 15,257 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 |  | MIT |
 | [OBS Studio](entries/other/obsproject-obs-studio.md) ⚑ | 79,247 | 11,149 | 毎日 | 41 | 2026-11-10 | 2026-11-10 |  | GPL-2.0 |
 | [OpenAI Cookbook](entries/other/openai-openai-cookbook.md) ⚑ | 77,132 | 13,068 | 週次 | 19 | 2026-11-14 | 2026-11-15 |  | MIT |
@@ -967,7 +967,7 @@
 | [Kosh](entries/mcp-server/sachinyadavaug20-kosh.md) ⚑ | 5 | 0 | 毎日 | 76 | 2026-11-15 | 2026-11-16 |  | Apache-2.0 |
 | [gmail-browser-mcp](entries/mcp-server/sparsh101sparsh-gmail-browser-mcp.md) ⚑ | 0 | 0 | 毎日 | 88 | 2026-11-13 | 2026-11-16 |  | unknown |
 
-### プロンプト（デザイン/UI）（38）
+### プロンプト（デザイン/UI）（39）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -994,6 +994,7 @@
 | [Transitions.dev](entries/prompt-design/jakubantalik-transitions.dev.md) ⚑ | 6,213 | 295 | 毎日 | 62 | 2026-11-08 | 2026-11-10 |  | unknown |
 | [kepano/obsidian-minimal](entries/prompt-design/kepano-obsidian-minimal.md) ⚑ | 5,555 | 295 | 月次 | 0 | 2026-10-06 | 2026-11-09 |  | MIT |
 | [kepano/flexoki](entries/prompt-design/kepano-flexoki.md) ⚑ | 3,810 | 139 | 停滞 | 0 | 2026-03-07 | 2026-11-09 |  | MIT |
+| [15 Motion Design Styles](entries/prompt-design/vincentwei1021-mg-styles-15.md) ⚑ | 3,717 | 464 | 週次 | 19 | 2026-11-19 | 2026-11-20 | 2026-11-23 | MIT |
 | [The Designer Skills Pack](entries/prompt-design/owl-listener-designer-skills.md) ⚑ | 3,309 | 436 | 月次 | 0 | 2026-09-05 | 2026-11-10 |  | MIT |
 | [GitReverse](entries/prompt-design/filiksyos-gitreverse.md) ⚑ | 2,081 | 337 | 週次 | 8 | 2026-11-10 | 2026-11-11 |  | MIT |
 | [video-spec-builder](entries/prompt-design/feicaiclub-video-spec-builder.md) | 1,078 | 128 | 停滞 | 0 | 2026-05-18 | 2026-11-19 |  | MIT |
@@ -2999,6 +3000,7 @@
 - [Transitions.dev](entries/prompt-design/jakubantalik-transitions.dev.md) — unverified / GitHub API上のライセンスはunknown。READMEには個人・商用利用と改変・製品への同梱を認める説明がある一方、ライブラリ自体の競合配布を禁止し、ツール類はMITと記載されている。料金やPro機能の利用条件の詳細は未確認。 GitHub APIでライセンスを確認できていません。
 - [kepano/obsidian-minimal](entries/prompt-design/kepano-obsidian-minimal.md) — unverified / MIT表記を原チェックで確認。テーマの見た目・機能・バージョン互換性は未実行確認。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [kepano/flexoki](entries/prompt-design/kepano-flexoki.md) — unverified / MITは配色リポジトリの条件。コントラストや可読性は実際の組み合わせ・端末で確認する必要があり本調査では未試験。 当方でインストール・推論・生成・ベンチ再現はしていない。
+- [15 Motion Design Styles](entries/prompt-design/vincentwei1021-mg-styles-15.md) — unverified / 一次資料で未確認: 技術背景・有効性。
 - [The Designer Skills Pack](entries/prompt-design/owl-listener-designer-skills.md) — unverified / README names Claude Code and Gemini CLI but does not establish compatibility with other agents. Dependencies beyond those tools, execution requirements, and effectiveness are unverified. Repository metrics are supplied separately as measured data.
 - [GitReverse](entries/prompt-design/filiksyos-gitreverse.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Casting-Workflow](entries/prompt-design/dama-cyber-casting-workflow.md) — unverified / 内容の独創性や朱雀検出への効果はREADME内の作者の説明であり、独立検証は確認できません。READMEはMITと記載していますが、測定データ上のライセンス情報はunknownです。 GitHub APIでライセンスを確認できていません。
