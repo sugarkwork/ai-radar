@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1531 件 — リポジトリ 1087, リンク集 125, 記事 250, モデル 55, プロンプト 14 / ⚑ 要確認 1252 件
+収録 1532 件 — リポジトリ 1088, リンク集 125, 記事 250, モデル 55, プロンプト 14 / ⚑ 要確認 1253 件
 
-## リポジトリ（1087）
+## リポジトリ（1088）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -420,7 +420,7 @@
 | [OnlyShot](entries/coding-agent/a-cat-with-carrots-onlyshot.md) ⚑ | 416 | 45 | 週次 | 13 | 2026-11-12 | 2026-11-16 |  | MIT |
 | [Typefree](entries/coding-agent/kdsz001-typefree.md) ⚑ | 398 | 70 | 月次 | 2 | 2026-10-28 | 2026-11-16 |  | unknown |
 | [Video Studio Skill](entries/coding-agent/aaitor-skill-video-studio.md) ⚑ | 397 | 14 | 週次 | 8 | 2026-11-04 | 2026-11-16 |  | MIT |
-| [safeagents](entries/coding-agent/huggingface-safeagents.md) ⚑ | 396 | 39 | 毎日 | 42 | 2026-11-18 | 2026-11-20 | 2026-11-23 | Apache-2.0 |
+| [safeagents](entries/coding-agent/huggingface-safeagents.md) ⚑ | 396 | 39 | 毎日 | 42 | 2026-11-18 | 2026-11-20 |  | Apache-2.0 |
 | [sakurai-skill](entries/coding-agent/kociden-sakurai-skill.md) ⚑ | 373 | 24 | 週次 | 5 | 2026-11-12 | 2026-11-16 |  | unknown |
 | [xAI Plugin Marketplace](entries/coding-agent/xai-org-plugin-marketplace.md) ⚑ | 333 | 1,292 | 毎日 | 25 | 2026-11-16 | 2026-11-16 |  | unknown |
 | [P&ID to Knowledge Graph](entries/coding-agent/scottduncanai-pid-to-knowledge-graph.md) ⚑ | 289 | 58 | 月次 | 3 | 2026-11-08 | 2026-11-16 |  | MIT |
@@ -1126,7 +1126,7 @@
 | [LLM_Wiki_SecondBrain](entries/rag/dimitrislianos-llm_wiki_secondbrain.md) ⚑ | 18 | 3 | 停滞 | 0 | 2026-04-17 | 2026-11-10 |  | MIT |
 | [Fulcra Agent Skills](entries/rag/fulcradynamics-agent-skills.md) ⚑ | 16 | 11 | 週次 | 10 | 2026-11-06 | 2026-11-09 |  | unknown |
 
-### 評価・ベンチマーク（12）
+### 評価・ベンチマーク（13）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -1139,6 +1139,7 @@
 | [PyRIT (Python Risk Identification Tool for generative AI)](entries/eval/microsoft-pyrit.md) ⚑ | 4,888 | 1,072 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 |  | MIT |
 | [EasyJailbreak](entries/eval/easyjailbreak-easyjailbreak.md) ⚑ | 947 | 96 | 停滞 | 0 | 2026-09-01 | 2026-11-16 |  | GPL-3.0 |
 | [Jailbreaking Black Box Large Language Models in Twenty Queries (PAIR)](entries/eval/patrickrchao-jailbreakingllms.md) ⚑ | 820 | 128 | 停滞 | 0 | 2025-07-02 | 2026-11-16 |  | MIT |
+| [Repo2RLEnv](entries/eval/huggingface-repo2rlenv.md) ⚑ | 799 | 128 | 毎日 | 58 | 2026-11-16 | 2026-11-20 | 2026-11-23 | Apache-2.0 |
 | [jev-calibrate](entries/eval/smkrv-jev-calibrate.md) ⚑ | 33 | 1 | 月次 | 0 | 2026-10-19 | 2026-11-16 |  | MIT |
 | [kodasdream/gamefeel-benchmark](entries/eval/kodasdream-gamefeel-benchmark.md) ⚑ | 16 | 0 | 毎日 | 51 | 2026-11-16 | 2026-11-16 |  | unknown |
 | [JevLight](entries/eval/usail-hkust-jevlight.md) ⚑ | 11 | 3 | 週次 | 10 | 2026-11-12 | 2026-11-16 |  | unknown |
@@ -2499,6 +2500,7 @@
 - [PyRIT (Python Risk Identification Tool for generative AI)](entries/eval/microsoft-pyrit.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [EasyJailbreak](entries/eval/easyjailbreak-easyjailbreak.md) — malicious, unverified / README explicitly describes generating adversarial jailbreak prompts and using them to attack a target model. This capability can facilitate bypassing model safeguards. 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Jailbreaking Black Box Large Language Models in Twenty Queries (PAIR)](entries/eval/patrickrchao-jailbreakingllms.md) — malicious, unverified / READMEは、攻撃者LLMが対象LLMへ反復問い合わせして安全ガードレールを回避するプロンプトを生成すると説明し、例としてコンピューターへの侵入方法を要求する目標を掲載しています。安全性評価の研究用途として登録しますが、悪用可能な内容です。 APIキーとWandBアカウントが必要です。READMEに記載されたモデル選択肢や実行手順が現在も利用可能かは確認していません。
+- [Repo2RLEnv](entries/eval/huggingface-repo2rlenv.md) — unverified / PR差分パイプラインの採点には判定モデルが必要で、利用できない場合は未採点になる。Dockerを使ったタスク実行にもDockerが必要。
 - [jev-calibrate](entries/eval/smkrv-jev-calibrate.md) — unverified / ['精度は著者が公開した同梱例の結果。独立した実行検証や、別データ・モデル版・プロバイダーでの再現性確認は行っていない。', '現在のAPI料金・データ保持条件と、最新リリースの年・タイムゾーンを含む公開日時は未確認。']
 - [kodasdream/gamefeel-benchmark](entries/eval/kodasdream-gamefeel-benchmark.md) — unverified / 実タスクの全公開・再現性は未確認。27B平均の訂正告知とCSVに差異があり、表の一つの数字を確定順位と扱わない。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [JevLight](entries/eval/usail-hkust-jevlight.md) — unverified / 模擬実験を含めコードは実行していない。著者のSUMO集計はREADMEの記述を確認した範囲で、個別のスコア、独立再現、実道路での有効性、実APIの料金・利用条件、最新リリースは未確認。ライセンスは提供されたGitHub API実測値でunknown。 GitHub APIでライセンスを確認できていません。

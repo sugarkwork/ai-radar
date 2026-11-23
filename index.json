@@ -1,5 +1,5 @@
 {
-  "count": 1531,
+  "count": 1532,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -18183,6 +18183,37 @@
       "last_release_at": "",
       "path": "entries/eval/patrickrchao-jailbreakingllms.md",
       "summary": "PAIR（Prompt Automatic Iterative Refinement）で、攻撃者LLMが対象LLMへのブラックボックス問い合わせを反復し、候補の脱獄プロンプトを生成・改良します。READMEは、GPT-3.5/4、Vicuna、GeminiPro-2などでの実験結果として、少ない問い合わせ回数での成功や"
+    },
+    {
+      "name": "Repo2RLEnv",
+      "genre": "eval",
+      "url": "https://github.com/huggingface/Repo2RLEnv",
+      "repo": "huggingface/Repo2RLEnv",
+      "license": "Apache-2.0",
+      "stars": 799,
+      "language": "Python",
+      "created": "2026-05-05",
+      "updated": "2026-11-16",
+      "forks": 128,
+      "open_issues": 13,
+      "commits_30d": 58,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 11687,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "PR差分パイプラインの採点には判定モデルが必要で、利用できない場合は未採点になる。Dockerを使ったタスク実行にもDockerが必要。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/ai_hakase_/status/2119400802389205299"
+      ],
+      "fetched_at": "2026-11-20T04:14:54.865781+00:00",
+      "path": "entries/eval/huggingface-repo2rlenv.md",
+      "summary": "既存リポジトリのマージ済みPR、コミット履歴、セキュリティ勧告、関数、端末記録などをもとに、コーディングエージェントの学習・評価向けタスク環境を生成する。READMEは24種類の生成器とHarbor形式への出力を説明している。"
     },
     {
       "repo": "smkrv/jev-calibrate",
