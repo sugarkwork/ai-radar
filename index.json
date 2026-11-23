@@ -1,5 +1,5 @@
 {
-  "count": 1438,
+  "count": 1439,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -30298,6 +30298,35 @@
       "last_release_at": "2026-11-10",
       "path": "entries/other/852wa-jizura.md",
       "summary": "歌詞をもとに、レイアウト・動き・装飾などを組み合わせて文字PVを構成し、ブラウザでプレビューできます。MP4、連番PNG、透過PNG、After Effectsで編集できる構成データ（JSON）を書き出せます。READMEでは、歌詞・曲・書き出しはブラウザ内で処理され、サーバーには送信されないと説明されています。"
+    },
+    {
+      "name": "HaxeFlixel",
+      "genre": "other",
+      "url": "https://github.com/HaxeFlixel/flixel",
+      "repo": "HaxeFlixel/flixel",
+      "stars": 2243,
+      "forks": 540,
+      "open_issues": 301,
+      "size_kb": 91507,
+      "language": "Haxe",
+      "created": "2011-07-25",
+      "updated": "2026-11-11",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 17,
+      "commits_90d": 21,
+      "commit_cadence": "weekly",
+      "flags": [],
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "risk_notes": "",
+      "sources": [
+        "https://x.com/dextune/status/2119308937543749822"
+      ],
+      "fetched_at": "2026-11-19T00:16:38.737855+00:00",
+      "path": "entries/other/haxeflixel-flixel.md",
+      "summary": "HaxeFlixelを使ったゲーム開発の基盤として、READMEはネイティブに対象にできるプラットフォームがあると説明しています。具体的な対象一覧はREADME内の画像に示されています。"
     },
     {
       "repo": "physicsdolphin/nv-uefi-unlocker",
