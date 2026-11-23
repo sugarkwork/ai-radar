@@ -1,5 +1,5 @@
 {
-  "count": 1427,
+  "count": 1428,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -9298,6 +9298,24 @@
       ],
       "fetched_at": "2026-11-10T04:15:56Z",
       "path": "articles/2026-03-22-michael-livshits-claude-code.md"
+    },
+    {
+      "name": "Claude Design.",
+      "genre": "article",
+      "url": "https://ruben.substack.com/p/claude-design",
+      "published": "2026-04-22",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "利用条件や機能の提供状況は記事公開時点の記述で、現在も同じとは確認できていない。作者は自身の利用経験として説明しており、記事中の作成時間や品質などは独立検証されていない。",
+      "type": "article",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/okapi_fukugyo/status/2119299912882123032"
+      ],
+      "fetched_at": "2026-11-18T21:12:08.719567+00:00",
+      "path": "articles/2026-04-22-author-claude-design.md"
     },
     {
       "name": "Claude For Dummies",
