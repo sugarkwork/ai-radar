@@ -1,5 +1,5 @@
 {
-  "count": 1472,
+  "count": 1473,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -29881,6 +29881,37 @@
       "fetched_at": "2026-11-13T06:24:14.610811+00:00",
       "path": "entries/other/qiye45-wechatvideodownload.md",
       "summary": "READMEは、微信视频号の動画、ライブ配信、ライブ回放のダウンロード、動画のダウンロードリンク取得、自動監視に対応すると説明している。更新履歴には、ライブ配信のMP4形式での保存、分割録画、区間選択と一括ダウンロードなども記載されている。"
+    },
+    {
+      "name": "Geyser",
+      "genre": "other",
+      "url": "https://github.com/GeyserMC/Geyser",
+      "repo": "GeyserMC/Geyser",
+      "license": "MIT",
+      "stars": 5973,
+      "language": "Java",
+      "created": "2019-07-08",
+      "updated": "2026-11-18",
+      "forks": 963,
+      "open_issues": 345,
+      "commits_30d": 52,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 40686,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEは、異なるゲーム間でネットワークパケットを変換する性質上、すべてが完全に動作するとは限らないと説明している。具体的な制限事項はREADMEからリンクされたCurrent Limitationsを参照。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/dextune/status/2119339139116216675"
+      ],
+      "fetched_at": "2026-11-19T11:17:01.023577+00:00",
+      "path": "entries/other/geysermc-geyser.md",
+      "summary": "Minecraft: Bedrock EditionとMinecraft: Java Editionサーバーの間をプロキシとして中継し、Bedrock Editionの利用者がJava Editionサーバーに参加できるようにする。README記載の対応バージョンはBedrock 26.40〜26.65、Java 26"
     },
     {
       "name": "Sodium",

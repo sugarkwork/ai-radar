@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1472 件 — リポジトリ 1041, リンク集 122, 記事 240, モデル 55, プロンプト 14 / ⚑ 要確認 1200 件
+収録 1473 件 — リポジトリ 1042, リンク集 122, 記事 240, モデル 55, プロンプト 14 / ⚑ 要確認 1201 件
 
-## リポジトリ（1041）
+## リポジトリ（1042）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（252）
+### その他（253）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -132,6 +132,7 @@
 | [Sandstorm（アイドル状態のエージェントsandboxをスナップショットして1台に数千個載せる）](entries/other/deeplethe-sandstorm.md) | 6,099 | 526 | 毎日 | 100+ | 2026-11-01 | 2026-11-16 |  | Apache-2.0 |
 | [Rapier](entries/other/dimforge-rapier.md) ⚑ | 6,085 | 441 | 月次 | 0 | 2026-11-01 | 2026-11-16 |  | Apache-2.0 |
 | [微信视频号下载工具](entries/other/qiye45-wechatvideodownload.md) ⚑ | 6,054 | 578 | 月次 | 0 | 2026-10-05 | 2026-11-13 |  | unknown |
+| [Geyser](entries/other/geysermc-geyser.md) ⚑ | 5,973 | 963 | 毎日 | 52 | 2026-11-18 | 2026-11-19 | 2026-11-23 | MIT |
 | [Sodium](entries/other/caffeinemc-sodium.md) ⚑ | 5,850 | 991 | 週次 | 16 | 2026-11-14 | 2026-11-19 |  | unknown |
 | [Auto-Editor](entries/other/wyattblue-auto-editor.md) ⚑ | 5,824 | 725 | 毎日 | 100+ | 2026-11-08 | 2026-11-09 |  | Unlicense |
 | [gifski](entries/other/imageoptim-gifski.md) ⚑ | 5,711 | 183 | 停滞 | 0 | 2026-06-17 | 2026-11-16 |  | unknown |
@@ -2741,6 +2742,7 @@
 - [Blockbench](entries/other/jannisx11-blockbench.md) — unverified / 一次資料で未確認: 有効性・依存関係。
 - [Rapier](entries/other/dimforge-rapier.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [微信视频号下载工具](entries/other/qiye45-wechatvideodownload.md) — unverified / READMEには学習・研究目的に限定し、商用または違法な用途を禁止する旨の免責事項がある。利用時の法的責任や対象サービスの利用条件はREADMEでは確認できない。 GitHub APIでライセンスを確認できていません。
+- [Geyser](entries/other/geysermc-geyser.md) — unverified / READMEは、異なるゲーム間でネットワークパケットを変換する性質上、すべてが完全に動作するとは限らないと説明している。具体的な制限事項はREADMEからリンクされたCurrent Limitationsを参照。
 - [Sodium](entries/other/caffeinemc-sodium.md) — unverified / GitHub APIでライセンスを確認できていません。
 - [Auto-Editor](entries/other/wyattblue-auto-editor.md) — unverified / commits_30d/90d は GitHub API の per_page=100 上限に達しており、実数は100件超（30日窓で返った最古のコミットが 2026-10-19）。効果の測定は合成素材1本（10秒・320x240）で行ったもので、実収録でのカット精度や話し言葉の語尾保持は独立検証していない。PyPI 版は 29.3.1（2025-11-04）で更新が止まっており pip 導入は非推奨。24時間超の素材、字幕・データストリームのみの入力は非対応。
 - [gifski](entries/other/imageoptim-gifski.md) — unverified / GitHub APIのライセンス値はunknown。READMEにはAGPL 3 or laterと記載されているが、商用ライセンスの条件・料金は確認できない。 GitHub APIでライセンスを確認できていません。
