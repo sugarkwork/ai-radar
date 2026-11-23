@@ -2,20 +2,20 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1554 件 — リポジトリ 1103, リンク集 125, 記事 257, モデル 55, プロンプト 14 / ⚑ 要確認 1271 件
+収録 1555 件 — リポジトリ 1104, リンク集 125, 記事 257, モデル 55, プロンプト 14 / ⚑ 要確認 1272 件
 
-## リポジトリ（1103）
+## リポジトリ（1104）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（282）
+### その他（283）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
 | [Free Programming Books](entries/other/ebookfoundation-free-programming-books.md) ⚑ | 401,702 | 67,883 | 毎日 | 46 | 2026-11-12 | 2026-11-16 |  | CC-BY-4.0 |
 | [yt-dlp](entries/other/yt-dlp-yt-dlp.md) ⚑ | 206,601 | 18,169 | 毎日 | 26 | 2026-11-04 | 2026-11-10 |  | Unlicense |
 | [MarkItDown](entries/other/microsoft-markitdown.md) ⚑ | 194,754 | 14,682 | 週次 | 9 | 2026-11-07 | 2026-11-10 |  | MIT |
-| [Excalidraw](entries/other/excalidraw-excalidraw.md) | 136,087 | 16,245 | 毎日 | 32 | 2026-11-21 | 2026-11-22 | 2026-11-23 | MIT |
+| [Excalidraw](entries/other/excalidraw-excalidraw.md) | 136,087 | 16,245 | 毎日 | 32 | 2026-11-21 | 2026-11-22 |  | MIT |
 | [Generative AI for Beginners](entries/other/microsoft-generative-ai-for-beginners.md) ⚑ | 123,543 | 66,422 | 毎日 | 66 | 2026-11-12 | 2026-11-15 |  | MIT |
 | [Godot Engine](entries/other/godotengine-godot.md) ⚑ | 120,279 | 27,542 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 |  | MIT |
 | [Immich](entries/other/immich-app-immich.md) ⚑ | 119,382 | 7,632 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 |  | AGPL-3.0 |
@@ -68,6 +68,7 @@
 | [Apktool](entries/other/ibotpeaches-apktool.md) ⚑ | 27,284 | 4,266 | 週次 | 4 | 2026-11-16 | 2026-11-19 |  | Apache-2.0 |
 | [Filee](entries/other/knifelemon-filee.md) ⚑ | 26,944 | 1,546 | 毎日 | 100+ | 2026-11-14 | 2026-11-14 |  | MIT |
 | [Jenkins](entries/other/jenkinsci-jenkins.md) ⚑ | 26,780 | 9,838 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 |  | MIT |
+| [GrapesJS](entries/other/grapesjs-grapesjs.md) ⚑ | 26,424 | 4,652 | 週次 | 14 | 2026-11-13 | 2026-11-22 | 2026-11-23 | unknown |
 | [Lucide](entries/other/lucide-icons-lucide.md) ⚑ | 25,800 | 1,692 | 毎日 | 100+ | 2026-11-17 | 2026-11-17 |  | unknown |
 | [radare2](entries/other/radareorg-radare2.md) ⚑ | 25,456 | 3,454 | 毎日 | 100+ | 2026-11-18 | 2026-11-19 |  | unknown |
 | [Neural Networks: Zero to Hero](entries/other/karpathy-nn-zero-to-hero.md) ⚑ | 25,433 | 3,697 | 停滞 | 0 | 2024-08-18 | 2026-11-10 |  | MIT |
@@ -2805,6 +2806,7 @@
 - [Apktool](entries/other/ibotpeaches-apktool.md) — unverified / 一次資料で未確認: 依存関係・実行条件。
 - [Filee](entries/other/knifelemon-filee.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Jenkins](entries/other/jenkinsci-jenkins.md) — unverified / READMEには利用者側の実行条件や依存関係の詳細が記載されていません。
+- [GrapesJS](entries/other/grapesjs-grapesjs.md) — unverified / GitHub APIでライセンスを確認できていません。
 - [Lucide](entries/other/lucide-icons-lucide.md) — unverified / GitHub APIでライセンスを確認できていません。
 - [radare2](entries/other/radareorg-radare2.md) — unverified / GitHub APIでlicenseがunknown。READMEは本体をLGPLv3と説明している一方、プラグインごとにライセンスが異なるとしている。 GitHub APIでライセンスを確認できていません。
 - [Neural Networks: Zero to Hero](entries/other/karpathy-nn-zero-to-hero.md) — unverified / 最新リリースのタグと公開日は未確認。ノートブックは実行しておらず、依存ライブラリの対応バージョン、必要な計算資源、学習成果は独立検証していない。外部サービスの利用条件や料金は未確認。
