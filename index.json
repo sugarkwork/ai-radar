@@ -1,5 +1,5 @@
 {
-  "count": 1532,
+  "count": 1533,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -9931,6 +9931,24 @@
       ],
       "fetched_at": "2026-11-13T22:11:27.288343+00:00",
       "path": "articles/2026-11-02-author-evidence-of-red-blood-cells-seen-in-dinosaur-fossil-from-brazil.md"
+    },
+    {
+      "name": "FireFlash: An Open Recipe for Long-Horizon Agentic RL Achieving the Performance-Cost Pareto Frontier",
+      "genre": "article",
+      "url": "https://agenteconomics.org/posts/agentic-rl-recipe",
+      "published": "2026-11-02",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "ベンチマーク値、コスト、学習効率は記事の著者による報告で、この記事の記述だけでは独立した再現・検証を確認できない。評価は著者らのハーネスで実施したと説明されている。",
+      "type": "article",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/ai_hakase_/status/2119401057461616765"
+      ],
+      "fetched_at": "2026-11-20T05:09:40.918666+00:00",
+      "path": "articles/2026-11-02-author-fireflash-an-open-recipe-for-long-horizon-agentic-rl-achieving-the-performance-c.md"
     },
     {
       "name": "FlashRelight: Portrait Video Relighting with Dynamic Lighting",

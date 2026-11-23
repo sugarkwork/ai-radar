@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1532 件 — リポジトリ 1088, リンク集 125, 記事 250, モデル 55, プロンプト 14 / ⚑ 要確認 1253 件
+収録 1533 件 — リポジトリ 1088, リンク集 125, 記事 251, モデル 55, プロンプト 14 / ⚑ 要確認 1254 件
 
 ## リポジトリ（1088）
 
@@ -1139,7 +1139,7 @@
 | [PyRIT (Python Risk Identification Tool for generative AI)](entries/eval/microsoft-pyrit.md) ⚑ | 4,888 | 1,072 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 |  | MIT |
 | [EasyJailbreak](entries/eval/easyjailbreak-easyjailbreak.md) ⚑ | 947 | 96 | 停滞 | 0 | 2026-09-01 | 2026-11-16 |  | GPL-3.0 |
 | [Jailbreaking Black Box Large Language Models in Twenty Queries (PAIR)](entries/eval/patrickrchao-jailbreakingllms.md) ⚑ | 820 | 128 | 停滞 | 0 | 2025-07-02 | 2026-11-16 |  | MIT |
-| [Repo2RLEnv](entries/eval/huggingface-repo2rlenv.md) ⚑ | 799 | 128 | 毎日 | 58 | 2026-11-16 | 2026-11-20 | 2026-11-23 | Apache-2.0 |
+| [Repo2RLEnv](entries/eval/huggingface-repo2rlenv.md) ⚑ | 799 | 128 | 毎日 | 58 | 2026-11-16 | 2026-11-20 |  | Apache-2.0 |
 | [jev-calibrate](entries/eval/smkrv-jev-calibrate.md) ⚑ | 33 | 1 | 月次 | 0 | 2026-10-19 | 2026-11-16 |  | MIT |
 | [kodasdream/gamefeel-benchmark](entries/eval/kodasdream-gamefeel-benchmark.md) ⚑ | 16 | 0 | 毎日 | 51 | 2026-11-16 | 2026-11-16 |  | unknown |
 | [JevLight](entries/eval/usail-hkust-jevlight.md) ⚑ | 11 | 3 | 週次 | 10 | 2026-11-12 | 2026-11-16 |  | unknown |
@@ -1672,9 +1672,9 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（250）
+## 記事（251）
 
-### 記事（185）
+### 記事（186）
 
 - **[$0のデジタル参謀長で月$80,000の契約候補を作ったというX投稿（動画付き）](articles/2026-10-22-bober_smart-0-80-000-x.md)** ⚑  @Bober_smart
 - **[1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md)** ⚑  @mukadeshinigami（mukade死神）
@@ -1738,6 +1738,7 @@
 - **[Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang](articles/2026-11-14-author-elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-h.md)** ⚑
 - **[EmbeddingGemma 2を使ったオンデバイス英語文字起こし](articles/2026-10-12-shahir-embeddinggemma-2.md)** ⚑  Shahir
 - **[Evidence of red blood cells seen in dinosaur fossil from Brazil](articles/2026-11-02-author-evidence-of-red-blood-cells-seen-in-dinosaur-fossil-from-brazil.md)**
+- **[FireFlash: An Open Recipe for Long-Horizon Agentic RL Achieving the Performance-Cost Pareto Frontier](articles/2026-11-02-author-fireflash-an-open-recipe-for-long-horizon-agentic-rl-achieving-the-performance-c.md)** ⚑
 - **[FlashRelight: Portrait Video Relighting with Dynamic Lighting](articles/2026-11-04-author-flashrelight-portrait-video-relighting-with-dynamic-lighting.md)**
 - **[FlowTranslator: Training-Free In-Image Machine Translation with Flow-Based Editing](articles/2026-11-03-author-flowtranslator-training-free-in-image-machine-translation-with-flow-based-editin.md)** ⚑
 - **[GDG OAUのAgent Skillsワークショップ報告](articles/2026-11-07-gdg-oau-gdg-oau-agent-skills.md)** ⚑  GDG OAU
@@ -2224,6 +2225,7 @@
 - [Eddie Woo の対数講義――「何倍になるまでの時間」を1本の対数で読む](articles/2026-09-14-xsmryze-eddie-woo-1-589eee2ad8.md) — unverified / 主張: 投資が何倍になるまでの時間は対数1本で、Eddie Woo の5分の講義がそれを自明にする、という投稿。確認できたこと: Eddie Woo はシドニーの公立高校数学教師で、YouTube @misterwootube は登録者2.01M・5,043本・191,145,357回再生（2026-11-09取得）。添付動画は7分51秒の実授業映像で、白板の LOGARITHMS / 2^5=32 / log_2 32=5 / log_3 81=4 と 2,4,8,16,32・3,9,27,81 の説明が Woo の「Introduction to Logarithms (1 of 2: Definition)」（7:52, 2017-08-30）の内容と一致。数学も正しい（log_3 81=4、倍加時間 ln2/ln(1+r)、Rule of 72 は近似）。未確認: 引用元X記事（x.com/i/article/2087190920026365952）の本文はログイン要求で取得できず、fetch_article.py も失敗。動画の音声は未転記で、投稿の「5分で」は実際の7分51秒と一致しない。Rule of 72 は近似であり、実務では変動リターン・手数料・税金で変わる点は投稿に無い。
 - [Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang](articles/2026-11-14-author-elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-h.md) — unverified / 署名数や支持者の情報は請願サイトに基づく記事の報告。記事確認時点の数値であり、独立に検証された署名数とは確認できない。
 - [EmbeddingGemma 2を使ったオンデバイス英語文字起こし](articles/2026-10-12-shahir-embeddinggemma-2.md) — unverified / 投稿日はUTC。開発者測定で、音源・測定範囲と日本語対応は未確認。
+- [FireFlash: An Open Recipe for Long-Horizon Agentic RL Achieving the Performance-Cost Pareto Frontier](articles/2026-11-02-author-fireflash-an-open-recipe-for-long-horizon-agentic-rl-achieving-the-performance-c.md) — unverified / ベンチマーク値、コスト、学習効率は記事の著者による報告で、この記事の記述だけでは独立した再現・検証を確認できない。評価は著者らのハーネスで実施したと説明されている。
 - [FlowTranslator: Training-Free In-Image Machine Translation with Flow-Based Editing](articles/2026-11-03-author-flowtranslator-training-free-in-image-machine-translation-with-flow-based-editin.md) — unverified / 論文の評価値は記載されたEasyOCR read-back protocolおよびScenePairの条件に基づく。別条件での性能は未確認。投稿文の説明は論文要約と一致するが、一般の写真で周囲が常に完全保持されることは確認していない。
 - [GDG OAUのAgent Skillsワークショップ報告](articles/2026-11-07-gdg-oau-gdg-oau-agent-skills.md) — unverified / 生成工程や効率向上を裏付ける比較計測は未確認。
 - [GPT‑6 Cyber の公式発表](articles/2026-11-05-openai-gpt-6-cyber.md) — unverified / Firefox と Linux の件数および評価スコアは OpenAI の報告値。個別事例の再現、修正の網羅性、実運用環境での評価結果の一般化は未検証。
