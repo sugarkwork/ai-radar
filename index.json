@@ -1,5 +1,5 @@
 {
-  "count": 1517,
+  "count": 1518,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -29436,6 +29436,37 @@
       "fetched_at": "2026-11-13T23:13:48.097421+00:00",
       "path": "entries/other/thaw-app-thaw.md",
       "summary": "macOSのメニューバー項目を隠し、必要時に戻す、グループ化する、プロファイルを切り替える、レイアウトを変更する、Zen Modeを使う機能をREADMEが説明しています。項目をキー操作で探せるほか、thaw://リンク経由でRaycast、Floe、Shortcuts、シェルスクリプトから操作できると記載されています"
+    },
+    {
+      "name": "Git Plugin for Obsidian",
+      "genre": "other",
+      "url": "https://github.com/Vinzent03/obsidian-git",
+      "repo": "Vinzent03/obsidian-git",
+      "license": "MIT",
+      "stars": 12302,
+      "language": "TypeScript",
+      "created": "2020-10-27",
+      "updated": "2026-11-19",
+      "forks": 678,
+      "open_issues": 100,
+      "commits_30d": 16,
+      "commit_cadence": "weekly",
+      "commits_90d": 81,
+      "size_kb": 6383,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEはモバイル版を「very unstable」とし、クラッシュ、バッファーオーバーフロー、処理が終わらない場合があると説明している。モバイルではSSH認証、rebase、submoduleに制限があり、リポジトリサイズにも制約がある。LinuxのSnapは非対応、Flatpakは非推奨。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/rosemoni18/status/2119211334797840872"
+      ],
+      "fetched_at": "2026-11-20T03:09:45.829480+00:00",
+      "path": "entries/other/vinzent03-obsidian-git.md",
+      "summary": "Obsidian内でGitの自動コミット・pull・push、起動時の自動pull、変更のステージングとコミット、履歴・差分の確認、競合解決ができる。デスクトップではエディター上の変更箇所表示とsubmodule管理にも対応する。"
     },
     {
       "name": "Betaflight",

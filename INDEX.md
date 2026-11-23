@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1517 件 — リポジトリ 1074, リンク集 125, 記事 249, モデル 55, プロンプト 14 / ⚑ 要確認 1239 件
+収録 1518 件 — リポジトリ 1075, リンク集 125, 記事 249, モデル 55, プロンプト 14 / ⚑ 要確認 1240 件
 
-## リポジトリ（1074）
+## リポジトリ（1075）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（274）
+### その他（275）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Horizon](entries/other/thysrael-horizon.md) | 13,147 | 1,876 | 毎日 | 80 | 2026-11-09 | 2026-11-09 |  | MIT |
 | [Paper](entries/other/papermc-paper.md) ⚑ | 12,815 | 3,564 | 毎日 | 58 | 2026-11-15 | 2026-11-16 |  | unknown |
 | [Thaw](entries/other/thaw-app-thaw.md) ⚑ | 12,708 | 345 | 毎日 | 100+ | 2026-11-13 | 2026-11-13 |  | GPL-3.0 |
+| [Git Plugin for Obsidian](entries/other/vinzent03-obsidian-git.md) ⚑ | 12,302 | 678 | 週次 | 16 | 2026-11-19 | 2026-11-20 | 2026-11-23 | MIT |
 | [Betaflight](entries/other/betaflight-betaflight.md) ⚑ | 11,799 | 4,172 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 |  | GPL-3.0 |
 | [VidBee](entries/other/nexmoe-vidbee.md) ⚑ | 11,135 | 874 | 週次 | 13 | 2026-11-08 | 2026-11-13 |  | MIT |
 | [BASIC Computer Games](entries/other/coding-horror-basic-computer-games.md) ⚑ | 11,098 | 1,341 | 週次 | 8 | 2026-11-01 | 2026-11-18 |  | Unlicense |
@@ -115,7 +116,7 @@
 | [mitmproxy2swagger](entries/other/alufers-mitmproxy2swagger.md) ⚑ | 9,730 | 386 | 停滞 | 0 | 2026-11-16 | 2026-11-19 |  | unknown |
 | [open-slide](entries/other/open-slide-open-slide.md) ⚑ | 9,729 | 716 | 毎日 | 33 | 2026-11-09 | 2026-11-10 |  | MIT |
 | [OBLITERATUS](entries/other/elder-plinius-obliteratus.md) | 9,541 | 1,736 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 |  | AGPL-3.0 |
-| [Obsidian Dataview](entries/other/blacksmithgu-obsidian-dataview.md) ⚑ | 9,446 | 582 | 停滞 | 0 | 2025-11-17 | 2026-11-20 | 2026-11-23 | MIT |
+| [Obsidian Dataview](entries/other/blacksmithgu-obsidian-dataview.md) ⚑ | 9,446 | 582 | 停滞 | 0 | 2025-11-17 | 2026-11-20 |  | MIT |
 | [Webstudio](entries/other/webstudio-is-webstudio.md) ⚑ | 9,170 | 1,639 | 毎日 | 57 | 2026-11-13 | 2026-11-14 |  | AGPL-3.0 |
 | [Instatic](entries/other/corebunch-instatic.md) ⚑ | 9,140 | 873 | 毎日 | 83 | 2026-11-18 | 2026-11-18 |  | MIT |
 | [tsParticles](entries/other/tsparticles-tsparticles.md) ⚑ | 9,090 | 954 | 毎日 | 100+ | 2026-11-13 | 2026-11-14 |  | MIT |
@@ -2782,6 +2783,7 @@
 - [Video Subtitle Remover (VSR)](entries/other/yaofanguk-video-subtitle-remover.md) — unverified / READMEが示す機能・アルゴリズム別の効果は作者の説明であり、独立した実測結果は確認していない。
 - [Paper](entries/other/papermc-paper.md) — unverified / ライセンスは取得済みデータでunknownです。READMEにはライセンスの記載がありません。 GitHub APIでライセンスを確認できていません。
 - [Thaw](entries/other/thaw-app-thaw.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
+- [Git Plugin for Obsidian](entries/other/vinzent03-obsidian-git.md) — unverified / READMEはモバイル版を「very unstable」とし、クラッシュ、バッファーオーバーフロー、処理が終わらない場合があると説明している。モバイルではSSH認証、rebase、submoduleに制限があり、リポジトリサイズにも制約がある。LinuxのSnapは非対応、Flatpakは非推奨。
 - [Betaflight](entries/other/betaflight-betaflight.md) — unverified / 一次資料で未確認: 依存関係。
 - [VidBee](entries/other/nexmoe-vidbee.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [BASIC Computer Games](entries/other/coding-horror-basic-computer-games.md) — unverified / 一次資料で未確認: 技術背景・依存関係・実行条件。
