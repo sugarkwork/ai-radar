@@ -1,5 +1,5 @@
 {
-  "count": 1478,
+  "count": 1479,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -28395,6 +28395,37 @@
       "fetched_at": "2026-11-10T11:50:45+00:00",
       "path": "entries/other/karpathy-micrograd.md",
       "summary": "Python の Value でスカラーの計算グラフを組み立て、backward() で各入力の勾配を求められる。README には MLP を SGD で学習させる二値分類の例もある。"
+    },
+    {
+      "name": "Arnis",
+      "genre": "other",
+      "url": "https://github.com/louis-e/arnis",
+      "repo": "louis-e/arnis",
+      "license": "Apache-2.0",
+      "stars": 18725,
+      "language": "Rust",
+      "created": "2022-09-10",
+      "updated": "2026-11-19",
+      "forks": 1588,
+      "open_issues": 70,
+      "commits_30d": 100,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 152606,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 依存関係。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/dextune/status/2119346686933778690"
+      ],
+      "fetched_at": "2026-11-19T13:09:40.062352+00:00",
+      "path": "entries/other/louis-e-arnis.md",
+      "summary": "OpenStreetMapの地理データと標高データを処理して、実世界の地形や建築を反映したワールドを生成する。READMEではMinecraft Java Edition（1.21.4以降）、Bedrock Edition、Luanti（Minetest）、Hytaleに対応すると説明されている。範囲を地図上で選択し、"
     },
     {
       "name": "theHarvester",

@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1478 件 — リポジトリ 1044, リンク集 122, 記事 243, モデル 55, プロンプト 14 / ⚑ 要確認 1205 件
+収録 1479 件 — リポジトリ 1045, リンク集 122, 記事 243, モデル 55, プロンプト 14 / ⚑ 要確認 1206 件
 
-## リポジトリ（1044）
+## リポジトリ（1045）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（253）
+### その他（254）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -82,6 +82,7 @@
 | [ai-goofish-monitor](entries/other/usagi-org-ai-goofish-monitor.md) ⚑ | 19,101 | 3,116 | 月次 | 0 | 2026-10-10 | 2026-11-10 |  | MIT |
 | [Yoga](entries/other/react-yoga.md) ⚑ | 18,954 | 1,586 | 週次 | 16 | 2026-11-13 | 2026-11-17 |  | MIT |
 | [micrograd](entries/other/karpathy-micrograd.md) ⚑ | 18,805 | 2,993 | 停滞 | 0 | 2026-08-03 | 2026-11-10 |  | MIT |
+| [Arnis](entries/other/louis-e-arnis.md) ⚑ | 18,725 | 1,588 | 毎日 | 100+ | 2026-11-19 | 2026-11-19 | 2026-11-23 | Apache-2.0 |
 | [theHarvester](entries/other/laramies-theharvester.md) ⚑ | 18,318 | 2,736 | 毎日 | 63 | 2026-11-13 | 2026-11-13 |  | GPL-2.0 |
 | [MuJoCo](entries/other/google-deepmind-mujoco.md) ⚑ | 18,174 | 2,206 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 |  | Apache-2.0 |
 | [ffmpeg.wasm](entries/other/ffmpegwasm-ffmpeg.wasm.md) ⚑ | 17,970 | 1,127 | 停滞 | 0 | 2026-09-29 | 2026-11-18 |  | MIT |
@@ -381,7 +382,7 @@
 | [min-skill](entries/coding-agent/limin112-min-skill.md) ⚑ | 642 | 96 | 週次 | 14 | 2026-11-05 | 2026-11-16 |  | unknown |
 | [Cinematic Skill](entries/coding-agent/moh4696-cinematic-skill.md) ⚑ | 633 | 91 | 月次 | 3 | 2026-11-09 | 2026-11-16 |  | MIT |
 | [Product Engineering](entries/coding-agent/phuryn-product-engineering.md) ⚑ | 611 | 83 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 |  | MIT |
-| [AI tools for research](entries/coding-agent/claesbackman-ai-research-feedback.md) ⚑ | 569 | 107 | 週次 | 12 | 2026-11-15 | 2026-11-19 | 2026-11-23 | MIT |
+| [AI tools for research](entries/coding-agent/claesbackman-ai-research-feedback.md) ⚑ | 569 | 107 | 週次 | 12 | 2026-11-15 | 2026-11-19 |  | MIT |
 | [DSH Game Studio](entries/coding-agent/zseven-w-dsh-game-studio.md) ⚑ | 569 | 47 | 週次 | 11 | 2026-11-09 | 2026-11-16 |  | MIT |
 | [Diorama](entries/coding-agent/sloemo01-diorama.md) ⚑ | 566 | 48 | 毎日 | 38 | 2026-11-16 | 2026-11-16 |  | MIT |
 | [Agent HUD](entries/coding-agent/jazzenchen-agent-hud-open.md) ⚑ | 553 | 81 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 |  | Apache-2.0 |
@@ -2706,6 +2707,7 @@
 - [ai-goofish-monitor](entries/other/usagi-org-ai-goofish-monitor.md) — unverified / 判定精度、通知遅延、現行の闲鱼環境での動作、モデルAPIの実利用料金、最新リリースの公開日時は未確認。プラットフォームの利用条件への適合性は利用形態に依存する。
 - [Yoga](entries/other/react-yoga.md) — unverified / 一次資料で未確認: 依存関係・実行条件。
 - [micrograd](entries/other/karpathy-micrograd.md) — unverified / 勾配の一致、分類デモの再現性、実行性能、Python バージョンごとの動作は独立実測していない。GitHub の公開 Releases 一覧にはリリースが表示されていないため、最新リリースの版と日時は未記載。
+- [Arnis](entries/other/louis-e-arnis.md) — unverified / 一次資料で未確認: 依存関係。
 - [theHarvester](entries/other/laramies-theharvester.md) — unverified / 対象の所有または明示的なテスト許可が必要。選択した提供元には対象文字列が送られる。P1のDNS照会とP2の対象への直接接続は、選択した場合に実行される。Python 3.14とuvが必要。
 - [MuJoCo](entries/other/google-deepmind-mujoco.md) — unverified / READMEの取得内容がライセンス節の途中で途切れているため、ライセンス本文の条件はこの資料から確認できない。
 - [ffmpeg.wasm](entries/other/ffmpegwasm-ffmpeg.wasm.md) — unverified / READMEは安定性をexperimentalと表示している。GitHub APIの計測値では直近30日・90日のコミットはいずれも0件（2026-11-18取得）。
