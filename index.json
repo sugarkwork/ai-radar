@@ -1,5 +1,5 @@
 {
-  "count": 1549,
+  "count": 1550,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -648,6 +648,37 @@
       "fetched_at": "2026-11-17T02:19:55.514071+00:00",
       "path": "entries/3d-motion/vast-ai-research-triposr.md",
       "summary": "単一画像から3Dモデルを再構成する公式コードベース。READMEでは、run.pyによる推論結果の保存、複数画像の入力、--bake-textureによるテクスチャ出力、--texture-resolutionによる解像度指定、およびGradioアプリを案内している。README記載ではNVIDIA A100で0.5秒"
+    },
+    {
+      "name": "gsplat",
+      "genre": "3d-motion",
+      "url": "https://github.com/nerfstudio-project/gsplat",
+      "repo": "nerfstudio-project/gsplat",
+      "license": "Apache-2.0",
+      "stars": 5930,
+      "language": "Python",
+      "created": "2023-08-25",
+      "updated": "2026-09-19",
+      "forks": 1023,
+      "open_issues": 405,
+      "commits_30d": 0,
+      "commit_cadence": "monthly",
+      "commits_90d": 4,
+      "size_kb": 165567,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEの評価欄は最大4倍のGPUメモリ削減、最大15%の所要時間短縮を報告しているが、ここでは独立実測していない。PyTorch、CUDA、Pythonの対応組み合わせは配布先の案内で確認が必要。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/0xCarrera/status/2123762450935771202"
+      ],
+      "fetched_at": "2026-11-22T04:47:14.395834+00:00",
+      "path": "entries/3d-motion/nerfstudio-project-gsplat.md",
+      "summary": "Pythonバインディング付きのCUDA高速Gaussian Splattingラスタライズライブラリ。READMEは、3DGS/3DGUTのラスタライズ、疎なラスタライズ、複数GPU対応、各種カメラ・センサー、学習および事前学習済みGaussianシーンの推論レンダリング機能を挙げている。推論レンダリングはexper"
     },
     {
       "repo": "diffusionstudio/lottie",
