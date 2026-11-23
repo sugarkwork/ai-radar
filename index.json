@@ -1,5 +1,5 @@
 {
-  "count": 1453,
+  "count": 1454,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -25175,6 +25175,35 @@
       "fetched_at": "2026-11-17T23:11:48.778147+00:00",
       "path": "entries/model-serving/opensensenova-sensenova-loop.md",
       "summary": "READMEによると、テキストと画像を入力し、テキストを生成する約9Bパラメータのマルチモーダルモデル。長文脈理解と複数段階のタスクに対応すると説明され、コンテキスト長は最大512Kトークン。公式AWQ 4-bit版も公開されたと記載されている。これらの機能や評価結果は配布者の説明で、独立実測ではない。"
+    },
+    {
+      "name": "Drex decision models",
+      "genre": "model-serving",
+      "url": "https://github.com/nace-ai/drex-decision-models",
+      "repo": "nace-ai/drex-decision-models",
+      "license": "Apache-2.0",
+      "stars": 153,
+      "language": "Python",
+      "created": "2026-10-09",
+      "updated": "2026-11-16",
+      "forks": 22,
+      "open_issues": 4,
+      "commits_30d": 33,
+      "commit_cadence": "daily",
+      "commits_90d": 61,
+      "size_kb": 2871,
+      "archived": false,
+      "flags": [],
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "risk_notes": "",
+      "sources": [
+        "https://x.com/ai_hakase_/status/2119327568226636054"
+      ],
+      "fetched_at": "2026-11-19T07:14:17.165120+00:00",
+      "path": "entries/model-serving/nace-ai-drex-decision-models.md",
+      "summary": "状態と名前付きの型付き質問（はい／いいえ、複数選択、評価尺度）を渡すと、各選択肢の確率を返す意思決定モデル。READMEによると、Drex v2.0、v1.5、DLMはPythonで実行でき、Drex Maxは python -m drex_max で実行できる。llama.cppとOllamaにも対応し、モデルにより"
     },
     {
       "type": "repo",

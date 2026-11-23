@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1453 件 — リポジトリ 1024, リンク集 121, 記事 239, モデル 55, プロンプト 14 / ⚑ 要確認 1183 件
+収録 1454 件 — リポジトリ 1025, リンク集 121, 記事 239, モデル 55, プロンプト 14 / ⚑ 要確認 1183 件
 
-## リポジトリ（1024）
+## リポジトリ（1025）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -769,7 +769,7 @@
 | [3dmodel](entries/3d-motion/fletcherholt-3dmodel-skill.md) ⚑ | 7 | 0 | 停滞 | 0 | 2026-06-16 | 2026-11-16 | 2026-11-22 | unknown |
 | [Lida-V/LidaAngelToon](entries/3d-motion/lida-v-lidaangeltoon.md) ⚑ | 7 | 0 | 月次 | 0 | 2026-10-17 | 2026-11-16 | 2026-11-22 | NOASSERTION |
 
-### モデル推論・配信（47）
+### モデル推論・配信（48）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -809,6 +809,7 @@
 | [SpecPilot](entries/model-serving/stargazerx0-specpilot.md) | 197 | 11 | 月次 | 1 | 2026-11-03 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
 | [Magnvs7/Promethevs](entries/model-serving/magnvs7-promethevs.md) ⚑ | 193 | 12 | 週次 | 16 | 2026-11-09 | 2026-11-16 | 2026-11-22 | CC-BY-4.0 |
 | [SenseNova-Loop-9B](entries/model-serving/opensensenova-sensenova-loop.md) ⚑ | 157 | 9 | 毎日 | 37 | 2026-11-17 | 2026-11-17 | 2026-11-22 | Apache-2.0 |
+| [Drex decision models](entries/model-serving/nace-ai-drex-decision-models.md) | 153 | 22 | 毎日 | 33 | 2026-11-16 | 2026-11-19 | 2026-11-23 | Apache-2.0 |
 | [GLM-5.3-Flash DGX Spark 2台 配備レシピ](entries/model-serving/miaai-lab-glm-5.3-flash-dgx-sparks.md) ⚑ | 132 | 31 | 毎日 | 89 | 2026-11-11 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
 | [tqLLM](entries/model-serving/turbo-tan-tqllm.md) ⚑ | 131 | 17 | 毎日 | 46 | 2026-11-16 | 2026-11-17 | 2026-11-22 | Apache-2.0 |
 | [bloomery](entries/model-serving/midagedev-bloomery.md) | 78 | 7 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
