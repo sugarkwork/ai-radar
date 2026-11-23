@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1556 件 — リポジトリ 1105, リンク集 125, 記事 257, モデル 55, プロンプト 14 / ⚑ 要確認 1273 件
+収録 1557 件 — リポジトリ 1106, リンク集 125, 記事 257, モデル 55, プロンプト 14 / ⚑ 要確認 1274 件
 
-## リポジトリ（1105）
+## リポジトリ（1106）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（284）
+### その他（285）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Horizon](entries/other/thysrael-horizon.md) | 13,147 | 1,876 | 毎日 | 80 | 2026-11-09 | 2026-11-09 |  | MIT |
 | [Paper](entries/other/papermc-paper.md) ⚑ | 12,815 | 3,564 | 毎日 | 58 | 2026-11-15 | 2026-11-16 |  | unknown |
 | [Thaw](entries/other/thaw-app-thaw.md) ⚑ | 12,708 | 345 | 毎日 | 100+ | 2026-11-13 | 2026-11-13 |  | GPL-3.0 |
+| [Douyin Downloader](entries/other/jiji262-douyin-downloader.md) ⚑ | 12,648 | 1,936 | 週次 | 19 | 2026-11-21 | 2026-11-22 | 2026-11-23 | MIT |
 | [Git Plugin for Obsidian](entries/other/vinzent03-obsidian-git.md) ⚑ | 12,302 | 678 | 週次 | 16 | 2026-11-19 | 2026-11-20 |  | MIT |
 | [Betaflight](entries/other/betaflight-betaflight.md) ⚑ | 11,799 | 4,172 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 |  | GPL-3.0 |
 | [VidBee](entries/other/nexmoe-vidbee.md) ⚑ | 11,135 | 874 | 週次 | 13 | 2026-11-08 | 2026-11-13 |  | MIT |
@@ -279,7 +280,7 @@
 | [Strata](entries/other/carthageadev-strata.md) ⚑ | 48 | 3 | 毎日 | 41 | 2026-11-11 | 2026-11-16 |  | unknown |
 | [Voice Workshop (Officina della voce)](entries/other/mithrilman-voice-workshop.md) ⚑ | 37 | 9 | 毎日 | 31 | 2026-11-08 | 2026-11-17 |  | Apache-2.0 |
 | [clash-jev](entries/other/bytelabs-oss-clash-jev.md) ⚑ | 37 | 11 | 月次 | 0 | 2026-10-14 | 2026-11-16 |  | MIT |
-| [Pixprite](entries/other/vicimpa-pixprite.md) ⚑ | 36 | 3 | 毎日 | 58 | 2026-11-09 | 2026-11-22 | 2026-11-23 | MIT |
+| [Pixprite](entries/other/vicimpa-pixprite.md) ⚑ | 36 | 3 | 毎日 | 58 | 2026-11-09 | 2026-11-22 |  | MIT |
 | [SoMarkDown](entries/other/somarkai-somarkdown.md) ⚑ | 34 | 2 | 停滞 | 0 | 2026-09-09 | 2026-11-19 |  | MIT |
 | [Sprite Pencil](entries/other/256arts-sprite-pencil.md) ⚑ | 28 | 6 | 週次 | 9 | 2026-11-11 | 2026-11-16 |  | unknown |
 | [jevframe](entries/other/ktaletsk-jevframe.md) ⚑ | 21 | 3 | 月次 | 0 | 2026-09-24 | 2026-11-10 |  | MIT |
@@ -2844,6 +2845,7 @@
 - [Quartz](entries/other/jackyzha0-quartz.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Paper](entries/other/papermc-paper.md) — unverified / ライセンスは取得済みデータでunknownです。READMEにはライセンスの記載がありません。 GitHub APIでライセンスを確認できていません。
 - [Thaw](entries/other/thaw-app-thaw.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
+- [Douyin Downloader](entries/other/jiji262-douyin-downloader.md) — unverified / キーワード検索とプロフィール情報取得はサインインが必要。READMEによると、CLIで動画・写真などをダウンロードする機能はDouyinのリクエスト検証により制限され、プロフィール投稿のブラウザ経由も成功保証はない。
 - [Git Plugin for Obsidian](entries/other/vinzent03-obsidian-git.md) — unverified / READMEはモバイル版を「very unstable」とし、クラッシュ、バッファーオーバーフロー、処理が終わらない場合があると説明している。モバイルではSSH認証、rebase、submoduleに制限があり、リポジトリサイズにも制約がある。LinuxのSnapは非対応、Flatpakは非推奨。
 - [Betaflight](entries/other/betaflight-betaflight.md) — unverified / 一次資料で未確認: 依存関係。
 - [VidBee](entries/other/nexmoe-vidbee.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。

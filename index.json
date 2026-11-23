@@ -1,5 +1,5 @@
 {
-  "count": 1556,
+  "count": 1557,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -30161,6 +30161,37 @@
       "fetched_at": "2026-11-13T23:13:48.097421+00:00",
       "path": "entries/other/thaw-app-thaw.md",
       "summary": "macOSのメニューバー項目を隠し、必要時に戻す、グループ化する、プロファイルを切り替える、レイアウトを変更する、Zen Modeを使う機能をREADMEが説明しています。項目をキー操作で探せるほか、thaw://リンク経由でRaycast、Floe、Shortcuts、シェルスクリプトから操作できると記載されています"
+    },
+    {
+      "name": "Douyin Downloader",
+      "genre": "other",
+      "url": "https://github.com/jiji262/douyin-downloader",
+      "repo": "jiji262/douyin-downloader",
+      "license": "MIT",
+      "stars": 12648,
+      "language": "Python",
+      "created": "2023-05-25",
+      "updated": "2026-11-21",
+      "forks": 1936,
+      "open_issues": 40,
+      "commits_30d": 19,
+      "commit_cadence": "weekly",
+      "commits_90d": 52,
+      "size_kb": 7274,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "キーワード検索とプロフィール情報取得はサインインが必要。READMEによると、CLIで動画・写真などをダウンロードする機能はDouyinのリクエスト検証により制限され、プロフィール投稿のブラウザ経由も成功保証はない。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/bkdgiffug/status/2119425203671310514"
+      ],
+      "fetched_at": "2026-11-22T04:59:57.125105+00:00",
+      "path": "entries/other/jiji262-douyin-downloader.md",
+      "summary": "AIエージェント向けCLIとskillにより、Douyinのホットボード、リンク判定、ライブ録画、ローカル音声文字起こし、環境確認を利用できる。キーワード検索とプロフィール情報の取得はサインインが必要。従来型CLIは一括処理、日付範囲、再試行、履歴管理に対応する。READMEは、動画・写真等のCLIダウンロードが現在の"
     },
     {
       "name": "Git Plugin for Obsidian",
