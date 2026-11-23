@@ -1,5 +1,5 @@
 {
-  "count": 1497,
+  "count": 1498,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -34666,6 +34666,37 @@
       "last_release_at": "",
       "path": "entries/other/ahmardchain-pay-small-check.md",
       "summary": "READMEでは、XまたはInstagramのハンドルを入力すると、有料の読み取り結果をもとにSafe／Caution／Riskyと理由・根拠投稿を返すと説明されている。Xは6種類の読み取り、Instagramは5種類と、投稿ショートコードがある場合のコメント読み取りを記載。Facebookはcoming soonで、"
+    },
+    {
+      "name": "somark-py",
+      "genre": "other",
+      "url": "https://github.com/SoMarkAI/somark-py",
+      "repo": "SoMarkAI/somark-py",
+      "license": "unknown",
+      "stars": 1,
+      "language": "Python",
+      "created": "2026-05-20",
+      "updated": "2026-05-20",
+      "forks": 1,
+      "open_issues": 1,
+      "commits_30d": 0,
+      "commit_cadence": "stale",
+      "commits_90d": 0,
+      "size_kb": 15929,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/ai_hakase_/status/2119370852126908922"
+      ],
+      "fetched_at": "2026-11-19T19:15:14.192504+00:00",
+      "path": "entries/other/somarkai-somark-py.md",
+      "summary": "SoMark向けのPython SDKとCLIを提供する。READMEが挙げる公式ドキュメントの対象は、認証、CLI利用、SDK例、非同期タスク、ローカルプレビュー、PDFユーティリティ、APIパラメーター、エラー処理。"
     },
     {
       "type": "model",
