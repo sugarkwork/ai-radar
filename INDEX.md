@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1479 件 — リポジトリ 1045, リンク集 122, 記事 243, モデル 55, プロンプト 14 / ⚑ 要確認 1206 件
+収録 1480 件 — リポジトリ 1046, リンク集 122, 記事 243, モデル 55, プロンプト 14 / ⚑ 要確認 1207 件
 
-## リポジトリ（1045）
+## リポジトリ（1046）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -82,7 +82,7 @@
 | [ai-goofish-monitor](entries/other/usagi-org-ai-goofish-monitor.md) ⚑ | 19,101 | 3,116 | 月次 | 0 | 2026-10-10 | 2026-11-10 |  | MIT |
 | [Yoga](entries/other/react-yoga.md) ⚑ | 18,954 | 1,586 | 週次 | 16 | 2026-11-13 | 2026-11-17 |  | MIT |
 | [micrograd](entries/other/karpathy-micrograd.md) ⚑ | 18,805 | 2,993 | 停滞 | 0 | 2026-08-03 | 2026-11-10 |  | MIT |
-| [Arnis](entries/other/louis-e-arnis.md) ⚑ | 18,725 | 1,588 | 毎日 | 100+ | 2026-11-19 | 2026-11-19 | 2026-11-23 | Apache-2.0 |
+| [Arnis](entries/other/louis-e-arnis.md) ⚑ | 18,725 | 1,588 | 毎日 | 100+ | 2026-11-19 | 2026-11-19 |  | Apache-2.0 |
 | [theHarvester](entries/other/laramies-theharvester.md) ⚑ | 18,318 | 2,736 | 毎日 | 63 | 2026-11-13 | 2026-11-13 |  | GPL-2.0 |
 | [MuJoCo](entries/other/google-deepmind-mujoco.md) ⚑ | 18,174 | 2,206 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 |  | Apache-2.0 |
 | [ffmpeg.wasm](entries/other/ffmpegwasm-ffmpeg.wasm.md) ⚑ | 17,970 | 1,127 | 停滞 | 0 | 2026-09-29 | 2026-11-18 |  | MIT |
@@ -267,7 +267,7 @@
 | [Knowlective](entries/other/knowlective-org-knowlective.md) | 0 | 0 | 毎日 | 100+ | 2026-11-19 | 2026-11-19 |  | AGPL-3.0 |
 | [LapDraw](entries/other/sachinyadavaug20-lapdraw.md) ⚑ | 0 | 0 | 毎日 | 22 | 2026-11-07 | 2026-11-13 |  | MIT |
 
-### コーディングエージェント（161）
+### コーディングエージェント（162）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -386,6 +386,7 @@
 | [DSH Game Studio](entries/coding-agent/zseven-w-dsh-game-studio.md) ⚑ | 569 | 47 | 週次 | 11 | 2026-11-09 | 2026-11-16 |  | MIT |
 | [Diorama](entries/coding-agent/sloemo01-diorama.md) ⚑ | 566 | 48 | 毎日 | 38 | 2026-11-16 | 2026-11-16 |  | MIT |
 | [Agent HUD](entries/coding-agent/jazzenchen-agent-hud-open.md) ⚑ | 553 | 81 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 |  | Apache-2.0 |
+| [antigravity-filter-bypass](entries/coding-agent/v1ktorrr0x-antigravity-filter-bypass.md) ⚑ | 525 | 143 | 週次 | 5 | 2026-11-06 | 2026-11-19 | 2026-11-23 | unknown |
 | [Boring Marketing Skills](entries/coding-agent/boringmarketer-boring-marketing-skills.md) ⚑ | 518 | 201 | 週次 | 7 | 2026-11-17 | 2026-11-17 |  | MIT |
 | [Taste — Design DNA Extractor](entries/coding-agent/senlindesign-taste-skill.md) ⚑ | 493 | 43 | 停滞 | 0 | 2026-07-07 | 2026-11-18 |  | unknown |
 | [qiaomu-seo](entries/coding-agent/joeseesun-qiaomu-seo.md) ⚑ | 476 | 62 | 停滞 | 0 | 2026-08-03 | 2026-11-16 |  | MIT |
@@ -2366,6 +2367,7 @@
 - [DSH Game Studio](entries/coding-agent/zseven-w-dsh-game-studio.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Diorama](entries/coding-agent/sloemo01-diorama.md) — unverified / 一次資料で未確認: 有効性・実行条件。
 - [Agent HUD](entries/coding-agent/jazzenchen-agent-hud-open.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
+- [antigravity-filter-bypass](entries/coding-agent/v1ktorrr0x-antigravity-filter-bypass.md) — unverified / ライセンスはGitHub APIでunknown。中断検出の精度や継続の効果は独立確認されていない。 GitHub APIでライセンスを確認できていません。
 - [Boring Marketing Skills](entries/coding-agent/boringmarketer-boring-marketing-skills.md) — unverified / 作者は実キャンペーン由来の知見や効果を述べていますが、READMEだけでは独立した検証を確認できません。
 - [Taste — Design DNA Extractor](entries/coding-agent/senlindesign-taste-skill.md) — unverified / READMEのライセンスバッジはMITを示すが、ライセンス本文は確認できていない。 GitHub APIでライセンスを確認できていません。
 - [qiaomu-seo](entries/coding-agent/joeseesun-qiaomu-seo.md) — unverified / 一次資料で未確認: 技術背景・有効性。

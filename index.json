@@ -1,5 +1,5 @@
 {
-  "count": 1479,
+  "count": 1480,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -15748,6 +15748,37 @@
       "last_release_at": "2026-11-16",
       "path": "entries/coding-agent/jazzenchen-agent-hud-open.md",
       "summary": "画面上でエージェントの進捗、クォータ、残高、直近24時間のトークン使用状況、セッションを表示します。許可要求への応答や質問への回答、セッションへの復帰に対応します。組み込みMCPサーバーを使ったエージェント間メッセージ送信、セッション開始、HUD表示のカスタマイズもREADMEに記載されています。"
+    },
+    {
+      "name": "antigravity-filter-bypass",
+      "genre": "coding-agent",
+      "url": "https://github.com/v1ktorrr0x/antigravity-filter-bypass",
+      "repo": "v1ktorrr0x/antigravity-filter-bypass",
+      "license": "unknown",
+      "stars": 525,
+      "language": "Python",
+      "created": "2026-11-05",
+      "updated": "2026-11-06",
+      "forks": 143,
+      "open_issues": 1,
+      "commits_30d": 5,
+      "commit_cadence": "weekly",
+      "commits_90d": 5,
+      "size_kb": 20,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "ライセンスはGitHub APIでunknown。中断検出の精度や継続の効果は独立確認されていない。 GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/mingzi206/status/2119348019447423476"
+      ],
+      "fetched_at": "2026-11-19T13:11:54.307765+00:00",
+      "path": "entries/coding-agent/v1ktorrr0x-antigravity-filter-bypass.md",
+      "summary": "READMEによると、AntigravityのStopイベントを監視し、最新のモデルステップの最終非空行に中断の署名があれば、問題となった語句をより安全な表現に言い換えて続行する指示を注入する。通常のタスク完了時は終了する。"
     },
     {
       "name": "Boring Marketing Skills",
