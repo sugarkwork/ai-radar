@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1524 件 — リポジトリ 1081, リンク集 125, 記事 249, モデル 55, プロンプト 14 / ⚑ 要確認 1245 件
+収録 1525 件 — リポジトリ 1082, リンク集 125, 記事 249, モデル 55, プロンプト 14 / ⚑ 要確認 1246 件
 
-## リポジトリ（1081）
+## リポジトリ（1082）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（276）
+### その他（277）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Build a Large Language Model (From Scratch)](entries/other/rasbt-llms-from-scratch.md) ⚑ | 108,297 | 16,745 | 週次 | 13 | 2026-11-09 | 2026-11-12 |  | unknown |
 | [Ghidra](entries/other/nationalsecurityagency-ghidra.md) ⚑ | 100,613 | 11,442 | 毎日 | 100+ | 2026-11-18 | 2026-11-19 |  | Apache-2.0 |
 | [OpenCut](entries/other/opencut-app-opencut.md) ⚑ | 98,341 | 9,823 | 停滞 | 0 | 2026-09-24 | 2026-11-14 |  | MIT |
+| [Syncthing](entries/other/syncthing-syncthing.md) ⚑ | 90,615 | 5,616 | 週次 | 8 | 2026-11-20 | 2026-11-20 | 2026-11-23 | MPL-2.0 |
 | [career-ops](entries/other/career-ops-hq-career-ops.md) | 83,084 | 15,257 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 |  | MIT |
 | [OBS Studio](entries/other/obsproject-obs-studio.md) ⚑ | 79,247 | 11,149 | 毎日 | 41 | 2026-11-10 | 2026-11-10 |  | GPL-2.0 |
 | [OpenAI Cookbook](entries/other/openai-openai-cookbook.md) ⚑ | 77,132 | 13,068 | 週次 | 19 | 2026-11-14 | 2026-11-15 |  | MIT |
@@ -522,7 +523,7 @@
 | [e2e](entries/agent-framework/e2e-inc-e2e.md) ⚑ | 13,953 | 753 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 |  | Apache-2.0 |
 | [dsh-market/dsh-market](entries/agent-framework/dsh-market-dsh-market.md) ⚑ | 12,641 | 483 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 |  | MIT |
 | [Worktrunk](entries/agent-framework/max-sixty-worktrunk.md) ⚑ | 12,569 | 500 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 |  | MIT OR Apache-2.0 |
-| [MemOS 2.0 Stardust（星尘）](entries/agent-framework/memtensor-memos.md) ⚑ | 12,457 | 1,132 | 毎日 | 35 | 2026-11-20 | 2026-11-20 | 2026-11-23 | Apache-2.0 |
+| [MemOS 2.0 Stardust（星尘）](entries/agent-framework/memtensor-memos.md) ⚑ | 12,457 | 1,132 | 毎日 | 35 | 2026-11-20 | 2026-11-20 |  | Apache-2.0 |
 | [jakubkrehel/skills（UI デザインスキル集）](entries/agent-framework/jakubkrehel-skills.md) | 12,250 | 478 | 毎日 | 40 | 2026-11-16 | 2026-11-16 |  | MIT |
 | [InkOS](entries/agent-framework/narcooo-inkos.md) | 11,253 | 2,029 | 週次 | 6 | 2026-10-24 | 2026-11-16 |  | AGPL-3.0 |
 | [AutoHarness](entries/agent-framework/tigerless-labs-autoharness.md) ⚑ | 11,145 | 666 | 毎日 | 100+ | 2026-11-12 | 2026-11-16 |  | MIT |
@@ -2717,6 +2718,7 @@
 - [Build a Large Language Model (From Scratch)](entries/other/rasbt-llms-from-scratch.md) — unverified / ライセンスはAPI上でunknown。利用・再配布の許諾条件は確認できていない。 GitHub APIでライセンスを確認できていません。
 - [Ghidra](entries/other/nationalsecurityagency-ghidra.md) — unverified / READMEは特定バージョンに既知のセキュリティ脆弱性があると告知している。利用前にSecurity Advisoriesで影響を確認する必要がある。
 - [OpenCut](entries/other/opencut-app-opencut.md) — unverified / このリポジトリの改修版が利用可能になる時期や、記載された開発手順が現在も動作するかはREADMEから確認できません。
+- [Syncthing](entries/other/syncthing-syncthing.md) — unverified / 一次資料で未確認: 依存関係・実行条件。
 - [OBS Studio](entries/other/obsproject-obs-studio.md) — unverified / 最新リリースの年とタイムゾーンを含む公開日時は未確認。収録品質・負荷、エージェント経由の接続と録画、発見投稿で言及されたOpus 5.5との連携は未検証。90日コミット数は100件以上を表す。
 - [OpenAI Cookbook](entries/other/openai-openai-cookbook.md) — unverified / 一次資料で未確認: 技術背景・有効性・実行条件。
 - [高性价比人生指南](entries/other/eternity4719-howtolivebetter.md) — unverified / 内容可能过时或有误，政策执行因地区而异。实际办事、就医或诉讼时，以当地部门、医生或律师的意见为准。

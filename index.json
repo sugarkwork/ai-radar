@@ -1,5 +1,5 @@
 {
-  "count": 1524,
+  "count": 1525,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -26979,6 +26979,37 @@
       "fetched_at": "2026-11-14T14:08:32.163072+00:00",
       "path": "entries/other/opencut-app-opencut.md",
       "summary": "Web・デスクトップ・モバイル向けの無料オープンソース動画編集ソフトウェアとして説明されています。READMEでは現行リポジトリを全面改修中とし、Editor API、プラグイン、MCPサーバー、ヘッドレスモードなどは「今後予定」として記載しています。出典: https://github.com/OpenCut-app"
+    },
+    {
+      "name": "Syncthing",
+      "genre": "other",
+      "url": "https://github.com/syncthing/syncthing",
+      "repo": "syncthing/syncthing",
+      "stars": 90615,
+      "forks": 5616,
+      "open_issues": 404,
+      "size_kb": 127962,
+      "language": "Go",
+      "created": "2013-11-26",
+      "updated": "2026-11-20",
+      "archived": false,
+      "license": "MPL-2.0",
+      "commits_30d": 8,
+      "commits_90d": 42,
+      "commit_cadence": "weekly",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 依存関係・実行条件。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/rosemoni18/status/2119211334797840872"
+      ],
+      "fetched_at": "2026-11-20T03:11:42.098450+00:00",
+      "path": "entries/other/syncthing-syncthing.md",
+      "summary": "2台以上のコンピューター間でファイルを継続的に同期するソフトウェアです。"
     },
     {
       "repo": "career-ops-hq/career-ops",
