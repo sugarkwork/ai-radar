@@ -1,5 +1,5 @@
 {
-  "count": 1512,
+  "count": 1513,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -16470,6 +16470,35 @@
       "fetched_at": "2026-11-17T23:29:52.235866+00:00",
       "path": "entries/coding-agent/diego3g-craft.md",
       "summary": "READMEによると、画面設計時に短いデザインブリーフを作り、画面の状態を列挙し、既存デザインシステムの部品を使い、提出前に自己レビューするワークフローを提供します。craft-setup、craft、craft-states、craft-explore、craft-system、craft-sync、craft-cr"
+    },
+    {
+      "name": "Claude Repurpose",
+      "genre": "coding-agent",
+      "url": "https://github.com/AgriciDaniel/claude-repurpose",
+      "repo": "AgriciDaniel/claude-repurpose",
+      "license": "MIT",
+      "stars": 176,
+      "language": "Python",
+      "created": "2026-03-31",
+      "updated": "2026-04-10",
+      "forks": 34,
+      "open_issues": 0,
+      "commits_30d": 0,
+      "commit_cadence": "stale",
+      "commits_90d": 0,
+      "size_kb": 631,
+      "archived": false,
+      "flags": [],
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "risk_notes": "",
+      "sources": [
+        "https://x.com/bkdgiffug/status/2119393495182148078"
+      ],
+      "fetched_at": "2026-11-20T01:13:42.393683+00:00",
+      "path": "entries/coding-agent/agricidaniel-claude-repurpose.md",
+      "summary": "READMEによると、YouTube動画、ブログ記事、ポッドキャスト、ローカルファイルなどを入力し、X、Threads、LinkedIn、Instagram、TikTokなどの投稿案、ニュースレター、記事案、SEOメタデータ、7日間の配信カレンダーを生成します。READMEは30以上のファイルをプラットフォーム別に出力"
     },
     {
       "type": "repo",

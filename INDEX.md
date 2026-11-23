@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1512 件 — リポジトリ 1070, リンク集 124, 記事 249, モデル 55, プロンプト 14 / ⚑ 要確認 1236 件
+収録 1513 件 — リポジトリ 1071, リンク集 124, 記事 249, モデル 55, プロンプト 14 / ⚑ 要確認 1236 件
 
-## リポジトリ（1070）
+## リポジトリ（1071）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -285,7 +285,7 @@
 | [Knowlective](entries/other/knowlective-org-knowlective.md) | 0 | 0 | 毎日 | 100+ | 2026-11-19 | 2026-11-19 |  | AGPL-3.0 |
 | [LapDraw](entries/other/sachinyadavaug20-lapdraw.md) ⚑ | 0 | 0 | 毎日 | 22 | 2026-11-07 | 2026-11-13 |  | MIT |
 
-### コーディングエージェント（162）
+### コーディングエージェント（163）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -422,6 +422,7 @@
 | [Motion.dev Animations Skill](entries/coding-agent/199-biotechnologies-motion-dev-animations-skill.md) ⚑ | 233 | 36 | 停滞 | 0 | 2026-03-30 | 2026-11-16 |  | MIT |
 | [open-source-hands](entries/coding-agent/abouchedidxcode-open-source-hands.md) ⚑ | 216 | 31 | 月次 | 1 | 2026-11-03 | 2026-11-16 |  | MIT |
 | [craft](entries/coding-agent/diego3g-craft.md) ⚑ | 186 | 7 | 毎日 | 23 | 2026-11-17 | 2026-11-17 |  | unknown |
+| [Claude Repurpose](entries/coding-agent/agricidaniel-claude-repurpose.md) | 176 | 34 | 停滞 | 0 | 2026-04-10 | 2026-11-20 | 2026-11-23 | MIT |
 | [Dual-Brain — 設計とコードの二視点レビュー用スキル](entries/coding-agent/sleeplesshan-dual-brain.md) ⚑ | 155 | 11 | 週次 | 4 | 2026-11-06 | 2026-11-16 |  | MIT |
 | [quicksilver](entries/coding-agent/uditakhourii-quicksilver.md) ⚑ | 142 | 12 | 停滞 | 0 | 2026-09-25 | 2026-11-16 |  | MIT |
 | [Hill Climb](entries/coding-agent/bil0000-hill-climb.md) ⚑ | 140 | 5 | 週次 | 8 | 2026-11-12 | 2026-11-17 |  | MIT |
