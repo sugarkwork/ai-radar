@@ -1,5 +1,5 @@
 {
-  "count": 1511,
+  "count": 1512,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -10672,6 +10672,24 @@
       ],
       "fetched_at": "2026-11-14T06:18:16.591647+00:00",
       "path": "articles/2026-11-06-author-measuring-how-ai-agents-handle-everyday-wet-lab-science.md"
+    },
+    {
+      "name": "Meta AIのMuse、3日使い倒して分かった始め方と使いどころ。Xの評判185件の調査レポートと、チャットから自宅PCのCodex・Claude Codeを動かすSkillを配布します",
+      "genre": "article",
+      "url": "https://x.com/tetumemo/status/2115534102267093109",
+      "published": "2026-10-29",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "Skillの配布物の内容や利用条件、記事に記載された利用結果は独立確認していない。",
+      "type": "article",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/tetumemo/status/2119392072818135156"
+      ],
+      "fetched_at": "2026-11-20T01:10:25.575526+00:00",
+      "path": "articles/2026-10-29-author-meta-ai-muse-3-x-185-pc-codex-claude-code-skill.md"
     },
     {
       "name": "Metatron — A Promptable Whole-Body Execution Layer for Humanoids",
