@@ -1,5 +1,5 @@
 {
-  "count": 1501,
+  "count": 1502,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -10289,6 +10289,24 @@
       ],
       "fetched_at": "2026-11-14T23:10:33.819292+00:00",
       "path": "articles/2026-11-04-author-introducing-pd-forma-4d-reconstruction-scored-against-reality.md"
+    },
+    {
+      "name": "Introducing Personal Finance in Claude",
+      "genre": "article",
+      "url": "https://claude.com/resources/articles/introducing-personal-finance-in-claude",
+      "published": "2026-11-05",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "記事は機能・効果をAnthropicが説明したもので、独立した性能検証ではない。Claudeは誤ることがあり、残高が遅れる場合や、連携状況によって集計が不完全・重複する場合がある。利用は米国のPro、Max、Ultraプラン向けベータで、段階的提供。",
+      "type": "article",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/awe0_io/status/2119377965339570283"
+      ],
+      "fetched_at": "2026-11-19T21:10:43.425885+00:00",
+      "path": "articles/2026-11-05-author-introducing-personal-finance-in-claude.md"
     },
     {
       "name": "Introducing System One Models & Jev",

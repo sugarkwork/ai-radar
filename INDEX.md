@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1501 件 — リポジトリ 1065, リンク集 123, 記事 244, モデル 55, プロンプト 14 / ⚑ 要確認 1226 件
+収録 1502 件 — リポジトリ 1065, リンク集 123, 記事 245, モデル 55, プロンプト 14 / ⚑ 要確認 1227 件
 
 ## リポジトリ（1065）
 
@@ -255,7 +255,7 @@
 | [大模型推理案头手册（开源版）](entries/other/shtjww-llm-inference-capacity-handbook.md) ⚑ | 186 | 0 | 月次 | 0 | 2026-09-20 | 2026-11-16 |  | unknown |
 | [grok-bot-cli](entries/other/scriptedalchemy-grok-bot-cli.md) ⚑ | 181 | 37 | 毎日 | 31 | 2026-11-04 | 2026-11-10 |  | MIT |
 | [RedDownloader](entries/other/jackhammer9-reddownloader.md) ⚑ | 177 | 23 | 停滞 | 0 | 2025-12-08 | 2026-11-17 |  | GPL-3.0 |
-| [DeepSearch](entries/other/techenthusiast167-deepsearch.md) ⚑ | 156 | 24 | 停滞 | 0 | 2025-12-24 | 2026-11-19 | 2026-11-23 | unknown |
+| [DeepSearch](entries/other/techenthusiast167-deepsearch.md) ⚑ | 156 | 24 | 停滞 | 0 | 2025-12-24 | 2026-11-19 |  | unknown |
 | [jev-guard](entries/other/leepokai-jev-guard.md) ⚑ | 150 | 24 | 月次 | 0 | 2026-10-02 | 2026-11-09 |  | MIT |
 | [Jev Plays Pokémon Red](entries/other/christianmat-jev-pokemon.md) ⚑ | 134 | 11 | 月次 | 0 | 2026-09-28 | 2026-11-16 |  | GPL-2.0 |
 | [muse-grok-x-search](entries/other/kgmkm-muse-grok-x-search.md) ⚑ | 108 | 17 | 月次 | 2 | 2026-11-03 | 2026-11-15 |  | MIT |
@@ -1645,9 +1645,9 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（244）
+## 記事（245）
 
-### 記事（179）
+### 記事（180）
 
 - **[$0のデジタル参謀長で月$80,000の契約候補を作ったというX投稿（動画付き）](articles/2026-10-22-bober_smart-0-80-000-x.md)** ⚑  @Bober_smart
 - **[1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md)** ⚑  @mukadeshinigami（mukade死神）
@@ -1736,6 +1736,7 @@
 - **[Introducing Arete-27B: Qwen3.8-27B Post-Trained To Reinforce Western Values](articles/2026-11-06-author-introducing-arete-27b-qwen3.8-27b-post-trained-to-reinforce-western-values.md)** ⚑
 - **[Introducing Loom: agent memory that keeps up with your code](articles/2026-11-13-author-introducing-loom-agent-memory-that-keeps-up-with-your-code.md)** ⚑
 - **[Introducing PD Forma: 4D reconstruction, scored against reality.](articles/2026-11-04-author-introducing-pd-forma-4d-reconstruction-scored-against-reality.md)** ⚑
+- **[Introducing Personal Finance in Claude](articles/2026-11-05-author-introducing-personal-finance-in-claude.md)** ⚑
 - **[Introducing System One Models & Jev](articles/2026-09-15-diogo-almeida-typesafe-ai-introducing-system-one-models-jev.md)** ⚑  Diogo Almeida（TypeSafe AI）
 - **[Jetpack Compose for XR 1.0.0-beta02 リリースノート](articles/2026-10-21-author-jetpack-compose-for-xr-1.0.0-beta02-d5c3bbee7c.md)** ⚑
 - **[KV Cache Quantization for Diffusion Language Models](articles/2026-10-29-author-kv-cache-quantization-for-diffusion-language-models.md)** ⚑
@@ -2210,6 +2211,7 @@
 - [Introducing Arete-27B: Qwen3.8-27B Post-Trained To Reinforce Western Values](articles/2026-11-06-author-introducing-arete-27b-qwen3.8-27b-post-trained-to-reinforce-western-values.md) — unverified / 評価結果と能力維持の主張は記事著者による報告であり、独立検証とは確認できていない。記事自身が全ての関連挙動を解消したとは主張していない。
 - [Introducing Loom: agent memory that keeps up with your code](articles/2026-11-13-author-introducing-loom-agent-memory-that-keeps-up-with-your-code.md) — unverified / ベンチマークはClickHouseによる自社評価であり、記事は独立した再現結果を示していない。記載された改善値は評価条件に基づく著者報告として扱う。
 - [Introducing PD Forma: 4D reconstruction, scored against reality.](articles/2026-11-04-author-introducing-pd-forma-4d-reconstruction-scored-against-reality.md) — unverified / 料金と利用条件は記事に記載されていない。
+- [Introducing Personal Finance in Claude](articles/2026-11-05-author-introducing-personal-finance-in-claude.md) — unverified / 記事は機能・効果をAnthropicが説明したもので、独立した性能検証ではない。Claudeは誤ることがあり、残高が遅れる場合や、連携状況によって集計が不完全・重複する場合がある。利用は米国のPro、Max、Ultraプラン向けベータで、段階的提供。
 - [Introducing System One Models & Jev](articles/2026-09-15-diogo-almeida-typesafe-ai-introducing-system-one-models-jev.md) — unverified / 速度・精度・確率の較正は独立に実測していない。候補投稿のPokémon Red以外のデモ、現行の利用条件およびモデル重みの配布条件は未確認。
 - [Jetpack Compose for XR 1.0.0-beta02 リリースノート](articles/2026-10-21-author-jetpack-compose-for-xr-1.0.0-beta02-d5c3bbee7c.md) — unverified / このバージョンはandroidx.xr.scenecore:1.0.0-rc01に既知のメモリリークを含む依存関係があり、公式資料はSceneCore 1.0.0への明示的な上書きを回避策として示しています。XREAL AURAとの互換性や、投稿にあるエラーの原因はこのページから確認できません。
 - [KV Cache Quantization for Diffusion Language Models](articles/2026-10-29-author-kv-cache-quantization-for-diffusion-language-models.md) — unverified / ベンチマーク結果は著者報告で、独立再現は未実施。実装コードの公開状況と利用条件、実環境での速度・メモリ削減量は未確認。
