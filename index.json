@@ -1,5 +1,5 @@
 {
-  "count": 1362,
+  "count": 1363,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -24223,6 +24223,37 @@
       "last_release_at": "",
       "path": "entries/model-serving/ausboss-comfyui-ausboss-model-downloader.md",
       "summary": "Hugging Face/CivitaiのURLからComfyUIのモデルフォルダへ重みを取得するノード。"
+    },
+    {
+      "name": "Qwen3.8 Weight-Space Programming (Calmer V2)",
+      "genre": "model-serving",
+      "url": "https://github.com/Xananthium/Qwen3.8-Weight-Space-Programming",
+      "repo": "Xananthium/Qwen3.8-Weight-Space-Programming",
+      "license": "Apache-2.0",
+      "stars": 4,
+      "language": "Python",
+      "created": "2026-11-05",
+      "updated": "2026-11-07",
+      "forks": 0,
+      "open_issues": 0,
+      "commits_30d": 3,
+      "commit_cadence": "monthly",
+      "commits_90d": 3,
+      "size_kb": 3330,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/ai_hakase_/status/2119249805297738022"
+      ],
+      "fetched_at": "2026-11-18T02:19:13.192429+00:00",
+      "path": "entries/model-serving/xananthium-qwen3.8-weight-space-programming.md",
+      "summary": "Qwen3.8 27Bのモデル重みに固定の疎な補正を加えたCalmer V1/V2を紹介し、V2のモデル配布先、研究報告、実行パッケージ、フィッティングコード、マージ済みエクスポートの記録へ案内している。README記載の評価は探索的な小規模パネルで、一般的なベンチマーク結果ではない。"
     },
     {
       "type": "model",
