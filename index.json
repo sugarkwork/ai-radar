@@ -1,5 +1,5 @@
 {
-  "count": 1367,
+  "count": 1368,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -36023,6 +36023,37 @@
       "fetched_at": "2026-11-14T02:08:51.337043+00:00",
       "path": "entries/tts-audio/nyosegawa-speech.cpp.md",
       "summary": "音声合成、録音音声の文字起こし、発話区間検出、話者ダイアライゼーション、ノイズ除去、マイクのライブ文字起こしを提供する。HTTP経由でOpenAIの音声APIおよびRealtime文字起こしを提供する機能もREADMEに記載されている。出典: https://github.com/nyosegawa/speech.cp"
+    },
+    {
+      "name": "Persian ASR: Nemotron streaming, fine-tuned for Persian (Farsi)",
+      "genre": "tts-audio",
+      "url": "https://github.com/mallahyari/nemotron-asr-streaming-farsi",
+      "repo": "mallahyari/nemotron-asr-streaming-farsi",
+      "license": "Apache-2.0",
+      "stars": 96,
+      "language": "Python",
+      "created": "2026-10-03",
+      "updated": "2026-10-03",
+      "forks": 9,
+      "open_issues": 2,
+      "commits_30d": 0,
+      "commit_cadence": "monthly",
+      "commits_90d": 6,
+      "size_kb": 676,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "評価値はREADMEに記載された作者報告であり、独立に再測定していない。モデル重みはApache-2.0ではなく、README記載のOpenMDW-1.1。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/itsjooyan/status/2122779831557394859"
+      ],
+      "fetched_at": "2026-11-18T04:16:10.866329+00:00",
+      "path": "entries/tts-audio/mallahyari-nemotron-asr-streaming-farsi.md",
+      "summary": "ペルシャ語音声のストリーミング認識と音声・動画ファイルの文字起こしに対応するモデルの学習、評価、推論用コードを提供する。README記載の評価では、FLEURS fa testのWER 8.8%、会話音声testのWER 26.0%、Common Voice 22 fa testのWER 19.1%。作者は0.32秒l"
     },
     {
       "type": "repo",
