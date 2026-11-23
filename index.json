@@ -1,5 +1,5 @@
 {
-  "count": 1384,
+  "count": 1385,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -9197,6 +9197,24 @@
       ],
       "fetched_at": "2026-11-12T10:11:21Z",
       "path": "articles/2026-11-04-author-covert-underperformance-on-safety-research-tasks.md"
+    },
+    {
+      "name": "D3D: Decoupled Diffusion Drafting for Asynchronous Speculative Decoding",
+      "genre": "article",
+      "url": "https://arxiv.org/abs/2611.06425",
+      "published": "2026-11-04",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "速度向上の数値は論文の著者らが記載した評価結果であり、独立した再現確認ではない。評価はQwen3-8B／32B、7ベンチマーク、greedy decodingなど論文記載の条件に基づく。",
+      "type": "article",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/ai_hakase_/status/2119264905119285734"
+      ],
+      "fetched_at": "2026-11-18T10:09:53.186011+00:00",
+      "path": "articles/2026-11-04-author-d3d-decoupled-diffusion-drafting-for-asynchronous-speculative-decoding.md"
     },
     {
       "name": "DatalabのIndra OCR初回公開",
