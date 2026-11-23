@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1455 件 — リポジトリ 1025, リンク集 121, 記事 240, モデル 55, プロンプト 14 / ⚑ 要確認 1184 件
+収録 1456 件 — リポジトリ 1026, リンク集 121, 記事 240, モデル 55, プロンプト 14 / ⚑ 要確認 1185 件
 
-## リポジトリ（1025）
+## リポジトリ（1026）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（242）
+### その他（243）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Godot Engine](entries/other/godotengine-godot.md) ⚑ | 120,279 | 27,542 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 |  | MIT |
 | [Immich](entries/other/immich-app-immich.md) ⚑ | 119,382 | 7,632 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 |  | AGPL-3.0 |
 | [Build a Large Language Model (From Scratch)](entries/other/rasbt-llms-from-scratch.md) ⚑ | 108,297 | 16,745 | 週次 | 13 | 2026-11-09 | 2026-11-12 |  | unknown |
+| [Ghidra](entries/other/nationalsecurityagency-ghidra.md) ⚑ | 100,613 | 11,442 | 毎日 | 100+ | 2026-11-18 | 2026-11-19 | 2026-11-23 | Apache-2.0 |
 | [OpenCut](entries/other/opencut-app-opencut.md) ⚑ | 98,341 | 9,823 | 停滞 | 0 | 2026-09-24 | 2026-11-14 |  | MIT |
 | [career-ops](entries/other/career-ops-hq-career-ops.md) | 83,084 | 15,257 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 |  | MIT |
 | [OBS Studio](entries/other/obsproject-obs-studio.md) ⚑ | 79,247 | 11,149 | 毎日 | 41 | 2026-11-10 | 2026-11-10 |  | GPL-2.0 |
@@ -2615,6 +2616,7 @@
 - [Godot Engine](entries/other/godotengine-godot.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Immich](entries/other/immich-app-immich.md) — unverified / インストール要件、詳細な実行条件、料金は添付READMEから確認できません。
 - [Build a Large Language Model (From Scratch)](entries/other/rasbt-llms-from-scratch.md) — unverified / ライセンスはAPI上でunknown。利用・再配布の許諾条件は確認できていない。 GitHub APIでライセンスを確認できていません。
+- [Ghidra](entries/other/nationalsecurityagency-ghidra.md) — unverified / READMEは特定バージョンに既知のセキュリティ脆弱性があると告知している。利用前にSecurity Advisoriesで影響を確認する必要がある。
 - [OpenCut](entries/other/opencut-app-opencut.md) — unverified / このリポジトリの改修版が利用可能になる時期や、記載された開発手順が現在も動作するかはREADMEから確認できません。
 - [OBS Studio](entries/other/obsproject-obs-studio.md) — unverified / 最新リリースの年とタイムゾーンを含む公開日時は未確認。収録品質・負荷、エージェント経由の接続と録画、発見投稿で言及されたOpus 5.5との連携は未検証。90日コミット数は100件以上を表す。
 - [OpenAI Cookbook](entries/other/openai-openai-cookbook.md) — unverified / 一次資料で未確認: 技術背景・有効性・実行条件。

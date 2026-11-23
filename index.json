@@ -1,5 +1,5 @@
 {
-  "count": 1455,
+  "count": 1456,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -26150,6 +26150,37 @@
       "fetched_at": "2026-11-12T15:07:38.937699+00:00",
       "path": "entries/other/rasbt-llms-from-scratch.md",
       "summary": "GPT型の大規模言語モデルを一から開発し、事前学習やファインチューニングを行うコードと学習内容を提供する。章ごとのノートブックやコードが整理されている。出典：README（https://github.com/rasbt/LLMs-from-scratch）。"
+    },
+    {
+      "name": "Ghidra",
+      "genre": "other",
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "repo": "NationalSecurityAgency/ghidra",
+      "license": "Apache-2.0",
+      "stars": 100613,
+      "language": "Java",
+      "created": "2019-03-01",
+      "updated": "2026-11-18",
+      "forks": 11442,
+      "open_issues": 2225,
+      "commits_30d": 100,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 417663,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEは特定バージョンに既知のセキュリティ脆弱性があると告知している。利用前にSecurity Advisoriesで影響を確認する必要がある。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/RealMarvelX/status/2119329098929426902"
+      ],
+      "fetched_at": "2026-11-19T07:19:13.113417+00:00",
+      "path": "entries/other/nationalsecurityagency-ghidra.md",
+      "summary": "コンパイル済みコードを対象に、逆アセンブル、アセンブル、デコンパイル、グラフ表示、スクリプト実行などの解析ができる。対話形式と自動処理の両方で利用でき、独自の拡張やスクリプトをJavaまたはPythonで作成できるとREADMEに記載されている。"
     },
     {
       "name": "OpenCut",
