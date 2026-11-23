@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1462 件 — リポジトリ 1032, リンク集 121, 記事 240, モデル 55, プロンプト 14 / ⚑ 要確認 1191 件
+収録 1463 件 — リポジトリ 1033, リンク集 121, 記事 240, モデル 55, プロンプト 14 / ⚑ 要確認 1192 件
 
-## リポジトリ（1032）
+## リポジトリ（1033）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（247）
+### その他（248）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Exercises Dataset](entries/other/hasaneyldrm-exercises-dataset.md) ⚑ | 23,847 | 3,072 | 停滞 | 0 | 2026-07-16 | 2026-11-18 |  | unknown |
 | [ego lite](entries/other/citrolabs-ego-lite.md) ⚑ | 23,149 | 1,308 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 |  | MIT |
 | [Yjs](entries/other/yjs-yjs.md) ⚑ | 23,074 | 819 | 週次 | 16 | 2026-11-16 | 2026-11-17 |  | unknown |
+| [Frida](entries/other/frida-frida.md) ⚑ | 22,842 | 2,351 | 毎日 | 54 | 2026-11-18 | 2026-11-19 | 2026-11-23 | unknown |
 | [MicroPython](entries/other/micropython-micropython.md) ⚑ | 22,205 | 9,062 | 毎日 | 100+ | 2026-11-17 | 2026-11-17 |  | unknown |
 | [Rough.js](entries/other/rough-stuff-rough.md) ⚑ | 21,384 | 671 | 停滞 | 0 | 2024-07-28 | 2026-11-16 |  | MIT |
 | [res-downloader](entries/other/putyy-res-downloader.md) ⚑ | 21,255 | 2,609 | 停滞 | 0 | 2026-11-11 | 2026-11-13 |  | Apache-2.0 |
@@ -105,7 +106,7 @@
 | [微信视频号下载器](entries/other/ltaoo-wx_channels_download.md) ⚑ | 10,534 | 1,748 | 週次 | 5 | 2026-11-12 | 2026-11-13 |  | unknown |
 | [Blackbird](entries/other/antoniaci-blackbird.md) ⚑ | 10,187 | 1,486 | 月次 | 3 | 2026-11-03 | 2026-11-16 |  | unknown |
 | [YARA](entries/other/virustotal-yara.md) ⚑ | 10,043 | 1,605 | 週次 | 16 | 2026-10-27 | 2026-11-16 |  | BSD-3-Clause |
-| [mitmproxy2swagger](entries/other/alufers-mitmproxy2swagger.md) ⚑ | 9,730 | 386 | 停滞 | 0 | 2026-11-16 | 2026-11-19 | 2026-11-23 | unknown |
+| [mitmproxy2swagger](entries/other/alufers-mitmproxy2swagger.md) ⚑ | 9,730 | 386 | 停滞 | 0 | 2026-11-16 | 2026-11-19 |  | unknown |
 | [open-slide](entries/other/open-slide-open-slide.md) ⚑ | 9,729 | 716 | 毎日 | 33 | 2026-11-09 | 2026-11-10 |  | MIT |
 | [OBLITERATUS](entries/other/elder-plinius-obliteratus.md) | 9,541 | 1,736 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 |  | AGPL-3.0 |
 | [Webstudio](entries/other/webstudio-is-webstudio.md) ⚑ | 9,170 | 1,639 | 毎日 | 57 | 2026-11-13 | 2026-11-14 |  | AGPL-3.0 |
@@ -2673,6 +2674,7 @@
 - [Exercises Dataset](entries/other/hasaneyldrm-exercises-dataset.md) — unverified / READMEはコード・データをMIT、メディアを別条件として記載していますが、メディアの具体的な利用条件は確認できていません。 GitHub APIでライセンスを確認できていません。
 - [ego lite](entries/other/citrolabs-ego-lite.md) — unverified / 公式リリース一覧ではv2.1.0がLatestと表示された。最新リリースへの直接アクセスはタイムアウトし、公開日時は未確認。作者ベンチマークの再現性、ブラウザデータの取り扱い、Spaces間の分離の実効性は未検証。
 - [Yjs](entries/other/yjs-yjs.md) — unverified / GitHub APIでライセンスを確認できていません。
+- [Frida](entries/other/frida-frida.md) — unverified / GitHub APIでライセンスを確認できていません。
 - [MicroPython](entries/other/micropython-micropython.md) — unverified / GitHub APIでライセンスを確認できていません。
 - [Rough.js](entries/other/rough-stuff-rough.md) — unverified / 一次資料で未確認: 依存関係。
 - [res-downloader](entries/other/putyy-res-downloader.md) — unverified / README says setup requires allowing certificate installation and network access. It also notes that the system proxy may need to be turned off manually after closing the app.

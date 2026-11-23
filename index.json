@@ -1,5 +1,5 @@
 {
-  "count": 1462,
+  "count": 1463,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -27885,6 +27885,37 @@
       "fetched_at": "2026-11-17T06:27:08.796449+00:00",
       "path": "entries/other/yjs-yjs.md",
       "summary": "共有MapやArrayなどのデータ構造を提供し、変更を他のピアへ自動配信して競合なくマージするCRDTフレームワーク。READMEでは、ネットワーク非依存、オフライン編集、バージョンスナップショット、undo/redo、共有カーソル、リッチテキストエディタ対応を説明している。出典: https://github.com"
+    },
+    {
+      "name": "Frida",
+      "genre": "other",
+      "url": "https://github.com/frida/frida",
+      "repo": "frida/frida",
+      "license": "unknown",
+      "stars": 22842,
+      "language": "Meson",
+      "created": "2013-04-12",
+      "updated": "2026-11-18",
+      "forks": 2351,
+      "open_issues": 1969,
+      "commits_30d": 54,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 21182,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/RealMarvelX/status/2119329098929426902"
+      ],
+      "fetched_at": "2026-11-19T07:26:32.308615+00:00",
+      "path": "entries/other/frida-frida.md",
+      "summary": "開発者、リバースエンジニア、セキュリティ研究者向けの動的計装ツールキットです。CLIツールとして frida、frida-trace、frida-discover などが挙げられています。"
     },
     {
       "name": "MicroPython",
