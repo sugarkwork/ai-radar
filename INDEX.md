@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1370 件 — リポジトリ 966, リンク集 120, 記事 217, モデル 53, プロンプト 14 / ⚑ 要確認 1110 件
+収録 1371 件 — リポジトリ 967, リンク集 120, 記事 217, モデル 53, プロンプト 14 / ⚑ 要確認 1111 件
 
-## リポジトリ（966）
+## リポジトリ（967）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -382,7 +382,7 @@
 | [Leash](entries/coding-agent/cmaintz-leash.md) ⚑ | 0 | 0 | 毎日 | 20 | 2026-11-15 | 2026-11-16 | 2026-11-22 | MIT |
 | [grok-x](entries/coding-agent/stat-guy-grok-x.md) ⚑ | 0 | 0 | 停滞 | 0 | 2026-03-19 | 2026-11-16 | 2026-11-22 | unknown |
 
-### エージェント基盤・スキル集（128）
+### エージェント基盤・スキル集（129）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -514,6 +514,7 @@
 | [jevwire](entries/agent-framework/brainwires-jevwire.md) ⚑ | 27 | 5 | 週次 | 17 | 2026-11-12 | 2026-11-16 | 2026-11-22 | MIT |
 | [AI SDK](entries/agent-framework/anil-matcha-ai.md) ⚑ | 19 | 4 | 停滞 | 0 | 2026-08-06 | 2026-11-16 | 2026-11-22 | unknown |
 | [web-api-skills](entries/agent-framework/oxylabs-web-api-skills.md) | 13 | 1 | 週次 | 14 | 2026-11-11 | 2026-11-16 | 2026-11-22 | MIT |
+| [Cybernetic Meadow agent skill](entries/agent-framework/cyberneticmeadow-skill.md) ⚑ | 0 | 0 | 月次 | 1 | 2026-11-17 | 2026-11-18 | 2026-11-23 | MIT |
 
 ### 動画生成パイプライン（113）
 
@@ -1985,6 +1986,7 @@
 - [Bram Product Engineer](links/agent-framework/https-x.ai-bot-aybbuyfvfcxkkw2hilu-n.md) — unverified / 質問・基準・指示文の品質や実装の正しさは未試験。作者の一覧への謝意は動作実証ではない。現行価格と接続権限を確認する。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Business Incubator](links/agent-framework/https-x.ai-bot-srgji6qjylszgzfbbv2ff.md) — unverified / ほぼ無人で事業を運営できるという説明は作者の想定で実績の裏付けではない。機密情報・外部操作の承認と有料条件は未確認。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Creator Sponsorship Pipeline](links/agent-framework/https-x.ai-bot-fw54b1meitt0ivvkvwbri.md) — unverified / 営業文や成約結果の品質は未検証。投稿・連絡先へのアクセスと送信前承認、現行の有料条件を確認する。 当方でインストール・推論・生成・ベンチ再現はしていない。
+- [Cybernetic Meadow agent skill](entries/agent-framework/cyberneticmeadow-skill.md) — unverified / READMEの説明に基づく登録で、機能や安全性を独立検証していない。単一運営者がブロック生成・署名サービス等を担い、fraud proofは未提供とREADMEが説明している。トークンの凍結・停止可能性も記載されている。
 - [Dreamer](links/agent-framework/https-x.ai-bot-8mdsbrnacooi_0nlcm2z3.md) — unverified / 夜間レビューの実行・記憶の正確性・学習の有効性は未検証。機密履歴の保存範囲、誤った指示の再利用、現行料金に注意。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Grok Bot（SpaceXAI）](links/agent-framework/x.ai-grok-bot-spacexai.md) — unverified / 確認できたこと: Grok Bot は SpaceXAI（2026-07 に xAI から改称、2026-10 に SpaceX Super Intelligence / SpaceXSI へ再改称。2026-08-14 に Cursor の Anysphere 買収完了）の製品で、公式ページ https://x.ai/bot に料金（Premium $30 / Super $100 / Ultra $200 月額、週次利用枠込み、超過はトークン課金）、Teams/Enterprise の提供、Cursor アカウントでの SSO、常駐クラウドPCの仕様（ユーザー単位で共有、Bot 単位ではない）が記載されている。公式ドキュメント docs.x.ai/grok-bot も実在（307リダイレクトの先で本文取得）。未確認・誤り: 投稿の『80+ GrokBot agents with /loop and /goal』『85% of engineers run 10+ agents』『Chief of Staff agent』という引用は、本人の講演映像・書き起こし・公式ページのいずれにも確認できない。講演（添付動画 55:47、同一内容の公開版 38:02）は信頼構築と pstack の話で、GrokBot のチーム構築チュートリアルではない。/loop と /goal は Cursor Agent のスラッシュコマンドで、Grok Bot 側の相当機能は routines（スケジュール実行）。Grok Bot に公開の Bot 操作 API があるかはドキュメント上確認できず、記載があるのは MCP / 任意APIへの接続（内向き）のみ。投稿の引用元X記事2件は非ログインでログイン画面へリダイレクトされ本文を読めないことを実際に確認済み。
 - [Grok Build Helper](links/agent-framework/https-x.ai-bot-_4l8w-etvs_dvc0qvmlnw.md) — unverified / 監査・修復の正しさは未検証。Git履歴や作業中変更を壊さない保証はなく、修復前に差分・バックアップ・承認が必要。現行有料条件は未確認。 当方でインストール・推論・生成・ベンチ再現はしていない。

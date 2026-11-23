@@ -1,5 +1,5 @@
 {
-  "count": 1370,
+  "count": 1371,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -8104,6 +8104,37 @@
       "signup_required": "unknown",
       "path": "links/agent-framework/https-x.ai-bot-fw54b1meitt0ivvkvwbri.md",
       "summary": "2026-11-09取得の第三者ボット配布ページの説明: スポンサー候補の発見・追跡・成約支援を掲げ、CRM、追跡連絡文、更新型メディアキット、振り返りを用意すると配布ページに記載。"
+    },
+    {
+      "name": "Cybernetic Meadow agent skill",
+      "genre": "agent-framework",
+      "url": "https://github.com/CyberneticMeadow/Skill",
+      "repo": "CyberneticMeadow/Skill",
+      "license": "MIT",
+      "stars": 0,
+      "language": "JavaScript",
+      "created": "2026-11-17",
+      "updated": "2026-11-17",
+      "forks": 0,
+      "open_issues": 0,
+      "commits_30d": 1,
+      "commit_cadence": "monthly",
+      "commits_90d": 1,
+      "size_kb": 1381,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEの説明に基づく登録で、機能や安全性を独立検証していない。単一運営者がブロック生成・署名サービス等を担い、fraud proofは未提供とREADMEが説明している。トークンの凍結・停止可能性も記載されている。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/Cyber_Meadow/status/2122900231725502631"
+      ],
+      "fetched_at": "2026-11-18T05:11:20.121716+00:00",
+      "path": "entries/agent-framework/cyberneticmeadow-skill.md",
+      "summary": "READMEによると、Node.js CLIとMCPサーバーを通じてAIエージェント用ウォレットの作成・ペアリング、残高確認、入出金、エージェント間送金、マイニング、トークンやプール操作を行う。署名サービスは公開ポリシーに従って要求を承認し、ポリシー外の送金や操作を拒否すると説明されている。これらはREADMEの記載で"
     },
     {
       "type": "link",
