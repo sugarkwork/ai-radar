@@ -1,5 +1,5 @@
 {
-  "count": 1366,
+  "count": 1367,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -8991,6 +8991,24 @@
       ],
       "fetched_at": "2026-11-14T16:15:36.695716+00:00",
       "path": "articles/2026-11-06-author-claude-code.md"
+    },
+    {
+      "name": "Claude Codeで最近使っているTips【2026/11】",
+      "genre": "article",
+      "url": "https://zenn.dev/oikon/articles/claude-code-recipe",
+      "published": "2026-11-10",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "prompt-railなどの使用感や作業効率に関する効果は著者の報告であり、独立した実測ではない。Remote Controlの利用条件はプランや組織設定に依存し、Agent Teamsは実験的機能である。",
+      "type": "article",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/b4tchkn/status/2122551432738156831"
+      ],
+      "fetched_at": "2026-11-18T04:14:54.002025+00:00",
+      "path": "articles/2026-11-10-author-claude-code-tips-2026-11.md"
     },
     {
       "name": "Claude Codeの利用量とAPI料金換算の個人報告",

@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1366 件 — リポジトリ 963, リンク集 120, 記事 216, モデル 53, プロンプト 14 / ⚑ 要確認 1106 件
+収録 1367 件 — リポジトリ 963, リンク集 120, 記事 217, モデル 53, プロンプト 14 / ⚑ 要確認 1107 件
 
 ## リポジトリ（963）
 
@@ -1533,9 +1533,9 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（216）
+## 記事（217）
 
-### 記事（153）
+### 記事（154）
 
 - **[$0のデジタル参謀長で月$80,000の契約候補を作ったというX投稿（動画付き）](articles/2026-10-22-bober_smart-0-80-000-x.md)** ⚑  @Bober_smart
 - **[1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md)** ⚑  @mukadeshinigami（mukade死神）
@@ -1570,6 +1570,7 @@
 - **[Claude Code に Blender シーンを Python で書かせ、ヘッドレスで回す6段階](articles/2026-10-22-y0urdumble-claude-code-blender-python-6.md)** ⚑  @Y0urDumble
 - **[Claude Code、Codex＋Seedance：AI 影片製作從分鏡到剪輯怎麼做？](articles/2026-11-05-author-claude-code-codex-seedance-ai.md)**
 - **[Claude Codeで作った帆走シミュレーターで複数モデルを競走させた事例](articles/2026-11-06-author-claude-code.md)** ⚑
+- **[Claude Codeで最近使っているTips【2026/11】](articles/2026-11-10-author-claude-code-tips-2026-11.md)** ⚑
 - **[Claude Codeの利用量とAPI料金換算の個人報告](articles/2026-10-25-bernat-vadell-claude-code-api.md)** ⚑  Bernat Vadell
 - **[Claude Codeの補足情報と実行時の権限制御](articles/2026-03-22-michael-livshits-claude-code.md)** ⚑  Michael Livshits
 - **[ClaudeでSolidWorksの部品を作成したという投稿](articles/2026-11-06-author-claude-solidworks.md)** ⚑
@@ -2014,6 +2015,7 @@
 - [ChatGPT Images 2.6のGIF生成・参照画像機能](articles/2026-11-04-author-chatgpt-images-2.6-gif.md) — unverified / GIF作成は段階的に提供中。利用可能かどうかはアカウントによって異なる場合があります。
 - [Claude Code に Blender シーンを Python で書かせ、ヘッドレスで回す6段階](articles/2026-10-22-y0urdumble-claude-code-blender-python-6.md) — unverified, low-quality / 主張: 719 voxels・12 joints・16秒/120bpm・音楽も Python 合成・参考画像1枚で修正・『Opus 5.5 が無料でやった』『Blender を一度も開いていない』。確認できた: blender -b（UIなし）と -P（スクリプト実行）は公式引数で、-f によるフレーム単位レンダーも公式。EEVEE は実在しラスタライズ方式。Blender 5.2.3 LTS は投稿当日の 2026-10-22 リリースで無料（GPL）。動画は実測 16.04 秒で『16 sec』と一致。確認できず: 719 voxels / 12 joints / 120bpm / 音楽合成のいずれも投稿と動画キャプション以外の裏付けがなく、再現スクリプトも第三者検証もない。手順3の t.co は scene.py が URL と誤認されたもので資料ではない。誤り・誇張: Free プランに Claude Code は含まれず『無料』は不正確（Pro 月20ドル、Opus 5.5 API は $4/$20 per MTok）。動画のオーバーレイは『CLAUDE OPUS 5.5 x BLENDER MCP』『mcp.connect(blender)』で、ヘッドレス実行とも『一度も開いていない』とも食い違う。『28 beats . 120 bpm』は14秒、ログの beats=12 は6秒で、16秒と整合しない。配布物 arjun988/blender-skills は MCP 前提の 94 skills で、headless/719/120bpm/12 joints の記述は0件——投稿の主張と配布物の実体は別物。『3Dはドリフトしない』は形状のみで、ライティング・フレーミング・アニメーションで印象は変わる（返信で同旨の指摘、著者も同意）。記事本文はログイン必須で未取得のため、記事内の詳細・コード・プロンプトは未確認。
 - [Claude Codeで作った帆走シミュレーターで複数モデルを競走させた事例](articles/2026-11-06-author-claude-code.md) — unverified / 結果は作者による個別の競走報告で、独立したベンチマークではない。作者はコメントでマークの通過ルールが明確でなかったと述べており、コードや条件を確認できないため、勝敗や費用の一般化には注意が必要。
+- [Claude Codeで最近使っているTips【2026/11】](articles/2026-11-10-author-claude-code-tips-2026-11.md) — unverified / prompt-railなどの使用感や作業効率に関する効果は著者の報告であり、独立した実測ではない。Remote Controlの利用条件はプランや組織設定に依存し、Agent Teamsは実験的機能である。
 - [Claude Codeの利用量とAPI料金換算の個人報告](articles/2026-10-25-bernat-vadell-claude-code-api.md) — unverified / 自己申告。モデルやキャッシュの有効期間が不明で換算額は再現できない。
 - [Claude Codeの補足情報と実行時の権限制御](articles/2026-03-22-michael-livshits-claude-code.md) — unverified / リマインダーの効果は実測していない。実行権限は実行基盤で判定する。
 - [ClaudeでSolidWorksの部品を作成したという投稿](articles/2026-11-06-author-claude-solidworks.md) — unverified / 形状・寸法・適合性が正しいかは確認されていない。投稿内のコメントでは、参照画像との不一致や詳細不足を指摘する意見と、別用途でうまくいったという報告の両方がある。実用時は寸法と適合性を別途確認する必要がある。
