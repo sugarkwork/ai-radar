@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1441 件 — リポジトリ 1018, リンク集 121, 記事 233, モデル 55, プロンプト 14 / ⚑ 要確認 1172 件
+収録 1442 件 — リポジトリ 1018, リンク集 121, 記事 234, モデル 55, プロンプト 14 / ⚑ 要確認 1173 件
 
 ## リポジトリ（1018）
 
@@ -1594,9 +1594,9 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（233）
+## 記事（234）
 
-### 記事（169）
+### 記事（170）
 
 - **[$0のデジタル参謀長で月$80,000の契約候補を作ったというX投稿（動画付き）](articles/2026-10-22-bober_smart-0-80-000-x.md)** ⚑  @Bober_smart
 - **[1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md)** ⚑  @mukadeshinigami（mukade死神）
@@ -1714,6 +1714,7 @@
 - **[PFNの翻訳特化LLM「PLaMo 3 Translate」をスマホ・Windows・Mac・Linuxに入れる方法](articles/2026-11-05-emma-eva-note-emma_and_eva-pfn-llm-plamo-3-translate-windows-mac-linux.md)** ⚑  Emma先生 & Eva先生（note: emma_and_eva）
 - **[Project Suncatcher試作衛星からの初応答](articles/2026-10-30-travis-beals-project-suncatcher.md)** ⚑  Travis Beals
 - **[Railway公式セキュリティ告知：環境変数に保存したAPIキーへの対応](articles/2026-10-21-jacob-cooper-railway-railway-api.md)** ⚑  Jacob Cooper（Railway）
+- **[Reimagining research papers as interactive and reliable AI agents](articles/2026-09-16-author-reimagining-research-papers-as-interactive-and-reliable-ai-agents.md)** ⚑
 - **[RelayVSR: Large–Small Model Collaboration for Efficient Real-World Video Super-Resolution](articles/2026-09-29-author-relayvsr-large-small-model-collaboration-for-efficient-real-world-video-super-re.md)** ⚑
 - **[RenderのAIエージェント向けドキュメント設計](articles/2026-11-07-brenden-house-render-ai.md)** ⚑  Brenden House
 - **[Retiring Advanced and Standard Voice in ChatGPT](articles/2026-11-10-author-retiring-advanced-and-standard-voice-in-chatgpt.md)**
@@ -2168,6 +2169,7 @@
 - [PFNの翻訳特化LLM「PLaMo 3 Translate」をスマホ・Windows・Mac・Linuxに入れる方法](articles/2026-11-05-emma-eva-note-emma_and_eva-pfn-llm-plamo-3-translate-windows-mac-linux.md) — unverified / PFN 公式ブログではなく第三者アカウントのまとめ記事。ベンチマーク優位は PFN 自身の評価の引用、iPhone の 0.515 秒は GIGAZINE の 1 回計測の引用で独立検証なし。winget での llama.cpp 導入、PocketPal AI での 0.8B 読み込み手順、llama.app のインストールスクリプト（取得したスクリプトをシェルに渡す方式）は本文の記述のみで未検証。記事末尾は著者の有料講義の宣伝。
 - [Project Suncatcher試作衛星からの初応答](articles/2026-10-30-travis-beals-project-suncatcher.md) — unverified / 推論成功はGoogleの自己報告。軌道上での長期信頼性、熱・放射線の影響、候補投稿の費用比較は確認できていない。
 - [Railway公式セキュリティ告知：環境変数に保存したAPIキーへの対応](articles/2026-10-21-jacob-cooper-railway-railway-api.md) — unverified / 影響範囲と個別のキーの悪用有無は独立検証していない。候補投稿の引用先であるX記事の本文は未確認。
+- [Reimagining research papers as interactive and reliable AI agents](articles/2026-09-16-author-reimagining-research-papers-as-interactive-and-reliable-ai-agents.md) — unverified / 91.2% ± 1.6% は計算生物学論文100本から作成した300件のチュートリアル由来ベンチマークでの著者報告値。自由形式の科学的妥当性全般を示す数値ではなく、論文も未解決の科学的解釈には人間の関与が必要としている。
 - [RelayVSR: Large–Small Model Collaboration for Efficient Real-World Video Super-Resolution](articles/2026-09-29-author-relayvsr-large-small-model-collaboration-for-efficient-real-world-video-super-re.md) — unverified / FPS・GPUメモリ・品質評価は論文著者による実験報告。単一のNVIDIA A100 80GBでのモデル推論結果であり、ComfyUI版の動作や投稿にある14 GB VRAMでの30 FPSを裏付けるものではない。双方向参照では入力30 FPS時に最大0.5秒の先読み待ちがあると論文に記載。
 - [RenderのAIエージェント向けドキュメント設計](articles/2026-11-07-brenden-house-render-ai.md) — unverified / 公開日はUTC。投稿後半と導入効果は未確認。
 - [SCKit abuses ScreenConnect to deploy remote access and target technician sessions](articles/2026-11-13-author-sckit-abuses-screenconnect-to-deploy-remote-access-and-target-technician-session.md) — unverified / 初期侵入経路は調査中と記事に記載されている。

@@ -1,5 +1,5 @@
 {
-  "count": 1441,
+  "count": 1442,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -10726,6 +10726,24 @@
       ],
       "fetched_at": "2026-11-10T05:45:51Z",
       "path": "articles/2026-10-21-jacob-cooper-railway-railway-api.md"
+    },
+    {
+      "name": "Reimagining research papers as interactive and reliable AI agents",
+      "genre": "article",
+      "url": "https://www.nature.com/articles/s41586-026-11044-y",
+      "published": "2026-09-16",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "91.2% ± 1.6% は計算生物学論文100本から作成した300件のチュートリアル由来ベンチマークでの著者報告値。自由形式の科学的妥当性全般を示す数値ではなく、論文も未解決の科学的解釈には人間の関与が必要としている。",
+      "type": "article",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/ctxzz/status/2119199477072384201"
+      ],
+      "fetched_at": "2026-11-19T01:12:17.888837+00:00",
+      "path": "articles/2026-09-16-author-reimagining-research-papers-as-interactive-and-reliable-ai-agents.md"
     },
     {
       "name": "RelayVSR: Large–Small Model Collaboration for Efficient Real-World Video Super-Resolution",
