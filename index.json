@@ -1,5 +1,5 @@
 {
-  "count": 1410,
+  "count": 1411,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -39405,6 +39405,35 @@
       "type": "repo",
       "path": "entries/video-gen/eternityspring-shuohao-skills.md",
       "summary": "AI ショートドラマ（短劇）制作の工程を、そのままスキルに切った集合。原作小説の分解 → キャラクターバイブル → あらすじ/脚色方針 → 美術・小道具設定 → 脚本 → 開場の立ち位置 → 絵コンテ分割、までを受け持つ。"
+    },
+    {
+      "name": "LatentSync",
+      "genre": "video-gen",
+      "url": "https://github.com/bytedance/LatentSync",
+      "repo": "bytedance/LatentSync",
+      "license": "Apache-2.0",
+      "stars": 6290,
+      "language": "Python",
+      "created": "2024-12-11",
+      "updated": "2025-06-20",
+      "forks": 1012,
+      "open_issues": 229,
+      "commits_30d": 0,
+      "commit_cadence": "stale",
+      "commits_90d": 0,
+      "size_kb": 9641,
+      "archived": false,
+      "flags": [],
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "risk_notes": "",
+      "sources": [
+        "https://x.com/RoundtableSpace/status/2123027189276778909"
+      ],
+      "fetched_at": "2026-11-18T15:19:28.336268+00:00",
+      "path": "entries/video-gen/bytedance-latentsync.md",
+      "summary": "音声条件付き潜在拡散モデルで音声と映像の対応を学習し、映像のリップシンクを生成する。READMEはLatentSync 1.5の推論に最低8 GB、1.6に最低18 GBのVRAMが必要と記載している。"
     },
     {
       "type": "repo",
