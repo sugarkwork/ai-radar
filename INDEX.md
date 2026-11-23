@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1482 件 — リポジトリ 1048, リンク集 122, 記事 243, モデル 55, プロンプト 14 / ⚑ 要確認 1209 件
+収録 1483 件 — リポジトリ 1049, リンク集 122, 記事 243, モデル 55, プロンプト 14 / ⚑ 要確認 1210 件
 
-## リポジトリ（1048）
+## リポジトリ（1049）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（255）
+### その他（256）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -207,6 +207,7 @@
 | [JavRanking 浏览器扩展](entries/other/javranking-javranking-extension.md) ⚑ | 1,054 | 70 | 週次 | 4 | 2026-10-27 | 2026-11-16 |  | MIT |
 | [Whisper Flow](entries/other/dimastatz-whisper-flow.md) ⚑ | 1,012 | 139 | 週次 | 18 | 2026-11-15 | 2026-11-16 |  | MIT |
 | [VidStab](entries/other/georgmartius-vid.stab.md) ⚑ | 996 | 126 | 停滞 | 0 | 2026-08-14 | 2026-11-16 |  | unknown |
+| [ClashX macOS 代理配置与使用教程](entries/other/githubvpn007-clashx.md) ⚑ | 936 | 112 | 停滞 | 0 | 2025-09-10 | 2026-11-19 | 2026-11-23 | unknown |
 | [Manufacturing WeChat Mini Program Starter](entries/other/changhaoting1998-star-manufacturing-wechat-miniapp-starter.md) ⚑ | 897 | 62 | 月次 | 3 | 2026-10-27 | 2026-11-16 |  | MIT |
 | [TrenTorch](entries/other/trentorch-trentorch.md) ⚑ | 842 | 88 | 毎日 | 100+ | 2026-11-14 | 2026-11-14 |  | unknown |
 | [DSH 破甲ワークフロー（dsh-jailbreak-workflow）](entries/other/minglink-dsh-jailbreak-workflow.md) ⚑ | 816 | 284 | 週次 | 18 | 2026-11-05 | 2026-11-09 |  | 未確認（API は NOASSERTION、標準ライセンスファイル無し） |
@@ -229,7 +230,7 @@
 | [Introduction to Statistical Learning with Python — Study Journey](entries/other/0xhadyy-isl-python.md) ⚑ | 480 | 44 | 停滞 | 0 | 2026-02-14 | 2026-11-17 |  | unknown |
 | [Life Destiny K-Line（人生 K 线）](entries/other/miounet11-life-kline.md) ⚑ | 479 | 132 | 停滞 | 0 | 2025-12-22 | 2026-11-16 |  | Apache-2.0 |
 | [LINEJS](entries/other/evex-dev-linejs.md) ⚑ | 477 | 106 | 毎日 | 24 | 2026-11-13 | 2026-11-16 |  | MIT |
-| [canvas-record](entries/other/dmnsgn-canvas-record.md) ⚑ | 434 | 25 | 週次 | 4 | 2026-11-13 | 2026-11-19 | 2026-11-23 | MIT |
+| [canvas-record](entries/other/dmnsgn-canvas-record.md) ⚑ | 434 | 25 | 週次 | 4 | 2026-11-13 | 2026-11-19 |  | MIT |
 | [jev-voice-browser](entries/other/moritzkremb-jev-voice-browser.md) ⚑ | 431 | 71 | 停滞 | 0 | 2026-09-21 | 2026-11-10 |  | MIT |
 | [Hishel](entries/other/karpetrosyan-hishel.md) ⚑ | 422 | 57 | 週次 | 14 | 2026-11-10 | 2026-11-17 |  | BSD-3-Clause |
 | [ResumeForge](entries/other/magicapple123-resumeforge.md) ⚑ | 417 | 19 | 毎日 | 100+ | 2026-11-10 | 2026-11-11 |  | Apache-2.0 |
@@ -2826,6 +2827,7 @@
 - [JavRanking 浏览器扩展](entries/other/javranking-javranking-extension.md) — unverified / Chrome/Edge installation uses a manually loaded unpacked extension and updates are manual. Firefox is only available for temporary development loading; persistent installation requires a Mozilla-signed XPI, which is not yet available.
 - [Whisper Flow](entries/other/dimastatz-whisper-flow.md) — unverified / The README reports benchmark results of latency below 500 ms and a word error rate around 7% on an M1 MacBook Air with 16 GB RAM; these are author-reported results, not independent measurements. The attached README ends during the development setup instructions, so later setup details are unavailable.
 - [VidStab](entries/other/georgmartius-vid.stab.md) — unverified / 補正量・画質・処理速度は実測していない。READMEはmasterの仕様を含むため、最新公開リリースv1.1.2や各FFmpeg配布ビルドでの機能差は未確認。公開日の年は取得した表示から確定できなかった。ライセンス欄は親工程のAPI値を保持し、利用条件は対象バージョンのライセンス文書で確認する。 GitHub APIでライセンスを確認できていません。
+- [ClashX macOS 代理配置与使用教程](entries/other/githubvpn007-clashx.md) — low-quality, unverified / READMEは「未知の開発者」からのアプリを許可する手順を案内し、配布ファイルをこのリポジトリのReleaseから提供しています。配布物の安全性は確認できません。 READMEはmacOS 10.5以降と記載していますが、現行macOSでの動作は確認できていません。配布ファイルの安全性とライセンスもREADMEからは確認できません。 GitHub APIでライセンスを確認できていません。
 - [Manufacturing WeChat Mini Program Starter](entries/other/changhaoting1998-star-manufacturing-wechat-miniapp-starter.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [TrenTorch](entries/other/trentorch-trentorch.md) — unverified / READMEではPolyForm Noncommercial 1.0.0と記載されています。商用利用の可否やその他の利用条件はライセンス本文を確認してください。 GitHub APIでライセンスを確認できていません。
 - [DSH 破甲ワークフロー（dsh-jailbreak-workflow）](entries/other/minglink-dsh-jailbreak-workflow.md) — prompt-injection / モデルの拒否応答を回避する『破甲（jailbreak）』プロンプトを自動生成するためのワークフロー。各サービスの利用規約違反になり得る。記録のみで、実行・生成した内容の利用はしない。

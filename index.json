@@ -1,5 +1,5 @@
 {
-  "count": 1482,
+  "count": 1483,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -32409,6 +32409,38 @@
       "last_release_at": "2026-07-29",
       "path": "entries/other/georgmartius-vid.stab.md",
       "summary": "FFmpegのvidstabdetectでフレーム間の動きを解析し、vidstabtransformで解析結果を使って手ぶれを補正する。"
+    },
+    {
+      "name": "ClashX macOS 代理配置与使用教程",
+      "genre": "other",
+      "url": "https://github.com/githubvpn007/ClashX",
+      "flags": [
+        "low-quality",
+        "unverified"
+      ],
+      "risk_notes": "READMEは「未知の開発者」からのアプリを許可する手順を案内し、配布ファイルをこのリポジトリのReleaseから提供しています。配布物の安全性は確認できません。 READMEはmacOS 10.5以降と記載していますが、現行macOSでの動作は確認できていません。配布ファイルの安全性とライセンスもREADMEからは確認できません。 GitHub APIでライセンスを確認できていません。",
+      "repo": "githubvpn007/ClashX",
+      "stars": 936,
+      "forks": 112,
+      "open_issues": 16,
+      "size_kb": 2164,
+      "language": "unknown",
+      "created": "2021-07-26",
+      "updated": "2025-09-10",
+      "archived": false,
+      "license": "unknown",
+      "commits_30d": 0,
+      "commits_90d": 0,
+      "commit_cadence": "stale",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/AIExplorerTim/status/2119354247716425944"
+      ],
+      "fetched_at": "2026-11-19T16:15:53.505371+00:00",
+      "path": "entries/other/githubvpn007-clashx.md",
+      "summary": "READMEでは、ClashXをmacOS上で動作するルールベースのプロキシツールとして紹介しています。対応プロトコルとしてVmess、Shadowsocks、Snell、SOCKS5を挙げ、プロキシモードやノードの切り替え、ノードの遅延テスト、托管リンクによる設定、ルール判定の分析、ログ出力を説明しています。"
     },
     {
       "name": "Manufacturing WeChat Mini Program Starter",
