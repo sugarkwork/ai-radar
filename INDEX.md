@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1491 件 — リポジトリ 1055, リンク集 123, 記事 244, モデル 55, プロンプト 14 / ⚑ 要確認 1216 件
+収録 1492 件 — リポジトリ 1056, リンク集 123, 記事 244, モデル 55, プロンプト 14 / ⚑ 要確認 1217 件
 
-## リポジトリ（1055）
+## リポジトリ（1056）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（261）
+### その他（262）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -242,6 +242,7 @@
 | [p5.capture](entries/other/tapioca24-p5.capture.md) ⚑ | 318 | 9 | 停滞 | 0 | 2026-04-15 | 2026-11-18 |  | MIT |
 | [Image 2 Sculpt](entries/other/gokayfem-image-to-sculpt.md) ⚑ | 295 | 21 | 月次 | 2 | 2026-11-08 | 2026-11-16 |  | MIT |
 | [Sakutto](entries/other/jammaru-sakutto.md) ⚑ | 271 | 30 | 毎日 | 100+ | 2026-11-18 | 2026-11-18 |  | MIT |
+| [豆包工作蓝皮书（DoubaoWork Guide）](entries/other/alephaitech-doubaoworkguide.md) ⚑ | 257 | 31 | 月次 | 1 | 2026-11-15 | 2026-11-19 | 2026-11-23 | MIT |
 | [rea-toon](entries/other/juneyaooo-rea-toon.md) ⚑ | 253 | 45 | 週次 | 8 | 2026-11-17 | 2026-11-17 |  | unknown |
 | [Awesome Social Media Skills](entries/other/underleveledbuilder-awesome-social-media-skills.md) ⚑ | 252 | 40 | 毎日 | 33 | 2026-11-08 | 2026-11-10 |  | CC0-1.0 |
 | [Download Anything (DA)](entries/other/nengong-download-anything.md) ⚑ | 251 | 6 | 毎日 | 32 | 2026-11-08 | 2026-11-17 |  | unknown |
@@ -2871,6 +2872,7 @@
 - [p5.capture](entries/other/tapioca24-p5.capture.md) — unverified / 一次資料で未確認: 有効性。
 - [Image 2 Sculpt](entries/other/gokayfem-image-to-sculpt.md) — unverified / README gives a typical case cost of about $2; actual cost may vary with calls and the per-case budget. A fal API key is required for masks, depth, normals, and generated views; the README also describes a front-only path using a cut-out PNG and user-provided views.
 - [Sakutto](entries/other/jammaru-sakutto.md) — unverified / 一次資料で未確認: 実行条件。
+- [豆包工作蓝皮书（DoubaoWork Guide）](entries/other/alephaitech-doubaoworkguide.md) — unverified / 製品の機能・画面・価格・権限・利用範囲は変更される可能性があり、READMEも具体的な操作では製品の現行版と公式説明を参照するよう案内している。
 - [rea-toon](entries/other/juneyaooo-rea-toon.md) — unverified / READMEはライセンスを「Noncommercial」と表示していますが、API計測値はlicense unknownです。具体的なライセンス条件は未確認です。長編シリーズではトークン消費が多く、APIモデルは呼び出しごとに課金されるとREADMEにありますが、実際の費用は未確認です。 GitHub APIでライセンスを確認できていません。
 - [Awesome Social Media Skills](entries/other/underleveledbuilder-awesome-social-media-skills.md) — unverified / 最新リリース、検索スキルの導入と動作、掲載ツールの実効性・安全性・個別の料金や利用条件は未確認。READMEによると、投稿や返信を行う一部のツールはアカウント認証を要し、Cookieをローカルに保存する場合がある。
 - [Download Anything (DA)](entries/other/nengong-download-anything.md) — unverified / READMEではMITと案内されているが、添付の測定値ではlicenseがunknown。対象プラットフォームごとの記載機能や取得可否は、実際の動作を独立に確認していない。 GitHub APIでライセンスを確認できていません。

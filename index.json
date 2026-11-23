@@ -1,5 +1,5 @@
 {
-  "count": 1491,
+  "count": 1492,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -33560,6 +33560,37 @@
       "fetched_at": "2026-11-18T15:36:35.362557+00:00",
       "path": "entries/other/jammaru-sakutto.md",
       "summary": "ページ全体、選択テキスト、PDF、YouTubeやXなどの動画字幕、入力中の文章を翻訳するChrome・Firefox拡張。既定の翻訳エンジンはPLaMo 3 Translateで、WebGPUまたはCPU上で実行するとREADMEに記載されています。"
+    },
+    {
+      "name": "豆包工作蓝皮书（DoubaoWork Guide）",
+      "genre": "other",
+      "url": "https://github.com/AlephAITech/DoubaoWorkGuide",
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "製品の機能・画面・価格・権限・利用範囲は変更される可能性があり、READMEも具体的な操作では製品の現行版と公式説明を参照するよう案内している。",
+      "repo": "AlephAITech/DoubaoWorkGuide",
+      "stars": 257,
+      "forks": 31,
+      "open_issues": 1,
+      "size_kb": 413268,
+      "language": "JavaScript",
+      "created": "2026-08-31",
+      "updated": "2026-11-15",
+      "archived": false,
+      "license": "MIT",
+      "commits_30d": 1,
+      "commits_90d": 30,
+      "commit_cadence": "monthly",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/Ryrenz/status/2119370604662968543"
+      ],
+      "fetched_at": "2026-11-19T19:12:57.114647+00:00",
+      "path": "entries/other/alephaitech-doubaoworkguide.md",
+      "summary": "READMEによると、豆包工作の導入から最初のタスク完了までの手順に加え、接続器、Skill、API、定時タスク、複数Agentを扱う。個人の生産性、自媒体、知識管理、電商、金融研究の5分野に31件の実務タスク例を収録。オンライン版では全文検索、章ナビゲーション、画像・動画表示、読書進捗記録などを提供すると説明されてい"
     },
     {
       "name": "rea-toon",
