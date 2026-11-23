@@ -1,5 +1,5 @@
 {
-  "count": 1373,
+  "count": 1374,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -17354,6 +17354,37 @@
       "type": "repo",
       "path": "entries/finance-quant/tradingview-lightweight-charts.md",
       "summary": "TradingView 製の**金融チャートライブラリ**。HTML5 canvas に描画し、軽量（約45KB）で高速。株価・為替・暗号資産のローソク足、ライン、エリア、ヒストグラム、バーチャートを描ける。"
+    },
+    {
+      "name": "FinRL",
+      "genre": "finance-quant",
+      "url": "https://github.com/AI4Finance-Foundation/FinRL",
+      "repo": "AI4Finance-Foundation/FinRL",
+      "license": "MIT",
+      "stars": 17123,
+      "language": "Jupyter Notebook",
+      "created": "2020-07-26",
+      "updated": "2026-11-03",
+      "forks": 3658,
+      "open_issues": 329,
+      "commits_30d": 7,
+      "commit_cadence": "weekly",
+      "commits_90d": 37,
+      "size_kb": 84571,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 依存関係。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/ruyi3699/status/2119255838049104106"
+      ],
+      "fetched_at": "2026-11-18T05:13:47.840391+00:00",
+      "path": "entries/finance-quant/ai4finance-foundation-finrl.md",
+      "summary": "READMEでは、金融市場環境、DRLエージェント、金融アプリケーションの3層で構成される、教育・実験・研究プロトタイピング向けの金融強化学習フレームワークと説明されています。チュートリアルには、株価データの前処理、A2C・DDPG・PPO・TD3・SACの学習、MVOおよびDJIAとのバックテスト手順があります。説明"
     },
     {
       "repo": "TA-Lib/ta-lib-python",

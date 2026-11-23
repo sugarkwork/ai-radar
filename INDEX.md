@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1373 件 — リポジトリ 969, リンク集 120, 記事 217, モデル 53, プロンプト 14 / ⚑ 要確認 1113 件
+収録 1374 件 — リポジトリ 970, リンク集 120, 記事 217, モデル 53, プロンプト 14 / ⚑ 要確認 1114 件
 
-## リポジトリ（969）
+## リポジトリ（970）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -901,7 +901,7 @@
 | [SU Motion Top 12](entries/prompt-design/doublesq97-ui-su-motion-top12.md) ⚑ | 5 | 0 | 停滞 | 0 | 2026-07-28 | 2026-11-17 | 2026-11-22 | MIT |
 | [P-H3-Image Workflows](entries/prompt-design/sepiablue-ai-p-h3-image-workflows.md) ⚑ | 0 | 0 | 月次 | 1 | 2026-11-07 | 2026-11-17 | 2026-11-22 | unknown |
 
-### 金融・クオンツ（32）
+### 金融・クオンツ（33）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -917,6 +917,7 @@
 | [machine-learning-for-trading](entries/finance-quant/stefan-jansen-machine-learning-for-trading.md) | 21,838 | 5,789 | 週次 | 18 | 2026-11-13 | 2026-11-16 | 2026-11-22 | MIT |
 | [Zipline (Quantopian)](entries/finance-quant/quantopian-zipline.md) | 20,246 | 5,065 | 停滞 | 0 | 2024-02-13 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
 | [Lightweight Charts](entries/finance-quant/tradingview-lightweight-charts.md) | 17,878 | 2,717 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
+| [FinRL](entries/finance-quant/ai4finance-foundation-finrl.md) ⚑ | 17,123 | 3,658 | 週次 | 7 | 2026-11-03 | 2026-11-18 | 2026-11-23 | MIT |
 | [TA-Lib Python](entries/finance-quant/ta-lib-ta-lib-python.md) | 12,416 | 2,016 | 毎日 | 28 | 2026-11-11 | 2026-11-16 | 2026-11-22 | BSD-2-Clause |
 | [quant-trading](entries/finance-quant/je-suis-tm-quant-trading.md) | 11,292 | 1,970 | 停滞 | 0 | 2026-06-20 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
 | [vectorbt](entries/finance-quant/polakowo-vectorbt.md) | 9,865 | 1,310 | 毎日 | 46 | 2026-11-11 | 2026-11-16 | 2026-11-22 | Apache-2.0 + Commons Clause（販売不可） |
@@ -2292,6 +2293,7 @@
 - [Open Data Platform by OpenBB (ODP)](entries/finance-quant/openbq-org-openbb.md) — unverified / README記載の通り、データが正確とは限らず、金融商品の取引には損失リスクがある。 GitHub APIでライセンスを確認できていません。
 - [股票智能分析系统（daily_stock_analysis）](entries/finance-quant/zhulinsen-daily_stock_analysis.md) — unverified / READMEの説明や掲載例は独立検証された性能・投資効果を示すものではありません。実際の分析精度や各データソースの利用条件・料金はREADMEだけでは確認できません。
 - [AKShare](entries/finance-quant/akfamily-akshare.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
+- [FinRL](entries/finance-quant/ai4finance-foundation-finrl.md) — unverified / 一次資料で未確認: 依存関係。
 - [Claude Trading Skills](entries/finance-quant/tradermonty-claude-trading-skills.md) — unverified / 利用料金やアカウント要件はREADME記載時点の案内で、変更される可能性がある。
 - [Vibe Research](entries/finance-quant/simonlin1212-vibe-research.md) — unverified / READMEでは、行情は腾讯のスナップショットで逐筆リアルタイムではないと説明されている。AIの調査内容や算出結果の正確性は、READMEだけでは独立に確認できない。
 - [jev-trader](entries/finance-quant/jarrodwatts-jev-trader.md) — unverified / README の遅延値は作者によるモック推論のドライラン計測。実コードの起動、Jev 使用時の遅延・精度、実注文の約定率・収益性、Jev API の料金・利用条件は未検証。発見投稿の Nasdaq 先物成績は別リポジトリの実験。
