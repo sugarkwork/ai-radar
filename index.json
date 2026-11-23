@@ -1,5 +1,5 @@
 {
-  "count": 1475,
+  "count": 1476,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -8846,6 +8846,22 @@
       ],
       "fetched_at": "2026-11-10T13:03:01+09:00",
       "path": "articles/2026-09-30-chetan-ankola-aegean-three.js-3d.md"
+    },
+    {
+      "name": "AI text-to-speech programs could one day unlearn",
+      "genre": "article",
+      "url": "https://www.technologyreview.com/2025/07/15/1120094/ai-text-to-speech-programs-could-one-day-unlearn/",
+      "published": "2025-07-15",
+      "flags": [],
+      "type": "article",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "risk_notes": "",
+      "sources": [
+        "https://x.com/arnaudmercier/status/2123364964979065024"
+      ],
+      "fetched_at": "2026-11-19T12:15:05.532357+00:00",
+      "path": "articles/2025-07-15-author-ai-text-to-speech-programs-could-one-day-unlearn.md"
     },
     {
       "name": "AI text-to-speech programs could “unlearn” how to imitate certain people",
