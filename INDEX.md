@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1432 件 — リポジトリ 1013, リンク集 121, 記事 229, モデル 55, プロンプト 14 / ⚑ 要確認 1166 件
+収録 1433 件 — リポジトリ 1014, リンク集 121, 記事 229, モデル 55, プロンプト 14 / ⚑ 要確認 1167 件
 
-## リポジトリ（1013）
+## リポジトリ（1014）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -251,7 +251,7 @@
 | [Pay Small Check](entries/other/ahmardchain-pay-small-check.md) ⚑ | 1 | 0 | 毎日 | 32 | 2026-11-07 | 2026-11-16 | 2026-11-22 | MIT |
 | [LapDraw](entries/other/sachinyadavaug20-lapdraw.md) ⚑ | 0 | 0 | 毎日 | 22 | 2026-11-07 | 2026-11-13 | 2026-11-13 | MIT |
 
-### コーディングエージェント（156）
+### コーディングエージェント（157）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -274,6 +274,7 @@
 | [CodeGraph](entries/coding-agent/colbymchenry-codegraph.md) | 77,745 | 5,189 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
 | [AI Job Search](entries/coding-agent/ai-job-search-dev-ai-job-search.md) ⚑ | 72,085 | 23,191 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
 | [Humanizer](entries/coding-agent/blader-humanizer.md) ⚑ | 70,372 | 5,526 | 毎日 | 20 | 2026-11-10 | 2026-11-18 | 2026-11-22 | MIT |
+| [claude-code-best-practice](entries/coding-agent/shanraisshan-claude-code-best-practice.md) ⚑ | 69,210 | 6,882 | 毎日 | 100+ | 2026-11-18 | 2026-11-18 | 2026-11-23 | MIT |
 | [Open Interpreter](entries/coding-agent/openinterpreter-openinterpreter.md) ⚑ | 68,895 | 5,950 | 毎日 | 20 | 2026-11-15 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
 | [i-have-adhd](entries/coding-agent/ayghri-i-have-adhd.md) ⚑ | 61,396 | 3,601 | 月次 | 0 | 2026-10-19 | 2026-11-16 | 2026-11-22 | MIT |
 | [Skills for Designers and Engineers](entries/coding-agent/emilkowalski-skills.md) ⚑ | 57,448 | 3,375 | 週次 | 12 | 2026-11-15 | 2026-11-16 | 2026-11-22 | MIT |
@@ -2216,6 +2217,7 @@
 - [Awesome Claude Skills](entries/coding-agent/composiohq-awesome-claude-skills.md) — unverified / ライセンスはGitHub APIの取得値がunknownです。READMEのバッジはApache 2.0を示していますが、ライセンス条件は確定できません。 GitHub APIでライセンスを確認できていません。
 - [AI Job Search](entries/coding-agent/ai-job-search-dev-ai-job-search.md) — unverified / 求人ポータル検索スキルはデンマーク市場向け。個人情報を含むプロフィールファイルの保存先と、公開forkではそのファイルが追跡対象になる点に注意。効果の数値は作者の利用報告であり、独立検証ではない。
 - [Humanizer](entries/coding-agent/blader-humanizer.md) — unverified / 一次資料で未確認: 依存関係。
+- [claude-code-best-practice](entries/coding-agent/shanraisshan-claude-code-best-practice.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Open Interpreter](entries/coding-agent/openinterpreter-openinterpreter.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [i-have-adhd](entries/coding-agent/ayghri-i-have-adhd.md) — unverified / README本文には、動作に必要な依存関係や実行条件の詳細がありません。導入前にINSTALL.mdおよびAGENTS.mdの内容を確認してください。
 - [Skills for Designers and Engineers](entries/coding-agent/emilkowalski-skills.md) — unverified / 公開文書を確認した。インストールと呼び出しの動作、対応バージョン、導入による品質・性能の改善、エージェント側の料金は未確認。発見投稿のダッシュボードは技術的根拠に含めていない。READMEは公開raw URLで確認した。

@@ -1,5 +1,5 @@
 {
-  "count": 1432,
+  "count": 1433,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -12260,6 +12260,37 @@
       "fetched_at": "2026-11-18T00:42:02.087265+00:00",
       "path": "entries/coding-agent/blader-humanizer.md",
       "summary": "READMEによると、文章の主張を保ちながらAI生成文に見られる26種類のパターンを確認し、文章を書き換える。貼り付けた文章では書き換え案と短い批評、最終版を示す。ファイルを指定した場合、コード、データ、frontmatter、リンク先は変更せず、文章表現を編集すると説明されている。個人的な文章では書き手の意見や癖を保"
+    },
+    {
+      "name": "claude-code-best-practice",
+      "genre": "coding-agent",
+      "url": "https://github.com/shanraisshan/claude-code-best-practice",
+      "repo": "shanraisshan/claude-code-best-practice",
+      "license": "MIT",
+      "stars": 69210,
+      "language": "HTML",
+      "created": "2025-10-31",
+      "updated": "2026-11-18",
+      "forks": 6882,
+      "open_issues": 28,
+      "commits_30d": 100,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 77132,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景・有効性・依存関係・実行条件。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/okapi_fukugyo/status/2119299912882123032"
+      ],
+      "fetched_at": "2026-11-18T21:15:16.192643+00:00",
+      "path": "entries/coding-agent/shanraisshan-claude-code-best-practice.md",
+      "summary": "Claude Codeのサブエージェント、コマンド、スキル、ワークフロー、フック、MCPサーバー、プラグイン、設定、メモリ、セッション、コンテキストウィンドウなどについて、概念の説明先やガイド、ベストプラクティス、実装例へのリンクをまとめています。READMEには、例えばサブエージェントを.claude/agents/"
     },
     {
       "name": "Open Interpreter",
