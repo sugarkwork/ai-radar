@@ -1,5 +1,5 @@
 {
-  "count": 1393,
+  "count": 1394,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -28899,6 +28899,37 @@
       "fetched_at": "2026-11-15T05:28:34.503405+00:00",
       "path": "entries/other/marp-team-marp-cli.md",
       "summary": "Marp/Marpit形式のMarkdownスライドをHTML/CSS、PDF、PowerPoint（PPTX）、PNG/JPEG画像へ変換できる。PDFには発表者ノートの注釈やアウトラインを付けられる。通常のPPTXはレンダリング済み画像を含み、編集可能なPPTX出力は実験的機能として提供される。"
+    },
+    {
+      "name": "three-mesh-bvh",
+      "genre": "other",
+      "url": "https://github.com/gkjohnson/three-mesh-bvh",
+      "repo": "gkjohnson/three-mesh-bvh",
+      "license": "MIT",
+      "stars": 3576,
+      "language": "JavaScript",
+      "created": "2018-01-19",
+      "updated": "2026-11-18",
+      "forks": 352,
+      "open_issues": 100,
+      "commits_30d": 100,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 158554,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 依存関係・実行条件。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/0xclayo/status/2123016316353155192"
+      ],
+      "fetched_at": "2026-11-18T14:11:53.272129+00:00",
+      "path": "entries/other/gkjohnson-three-mesh-bvh.md",
+      "summary": "three.jsのメッシュでBounding Volume Hierarchy（BVH）を使い、レイキャストを高速化し、空間クエリを実行する。READMEにはポイント、ライン、スキンメッシュ、シーン全体のBVH、シリアライズ、非同期生成などの例がある。READMEの例では、80,000ポリゴンのモデルに500本のレイを"
     },
     {
       "name": "TweenJS",

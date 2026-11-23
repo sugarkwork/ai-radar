@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1393 件 — リポジトリ 985, リンク集 120, 記事 219, モデル 55, プロンプト 14 / ⚑ 要確認 1130 件
+収録 1394 件 — リポジトリ 986, リンク集 120, 記事 219, モデル 55, プロンプト 14 / ⚑ 要確認 1131 件
 
-## リポジトリ（985）
+## リポジトリ（986）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（221）
+### その他（222）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -133,6 +133,7 @@
 | [EmulatorJS](entries/other/emulatorjs-emulatorjs.md) ⚑ | 4,351 | 1,037 | 週次 | 5 | 2026-10-21 | 2026-11-17 |  | GPL-3.0 |
 | [Storyboarder](entries/other/wonderunit-storyboarder.md) ⚑ | 3,946 | 404 | 停滞 | 0 | 2024-03-17 | 2026-11-11 |  | unknown |
 | [Marp CLI](entries/other/marp-team-marp-cli.md) ⚑ | 3,922 | 207 | 月次 | 0 | 2026-09-08 | 2026-11-15 |  | MIT |
+| [three-mesh-bvh](entries/other/gkjohnson-three-mesh-bvh.md) ⚑ | 3,576 | 352 | 毎日 | 100+ | 2026-11-18 | 2026-11-18 | 2026-11-23 | MIT |
 | [TweenJS](entries/other/createjs-tweenjs.md) ⚑ | 3,568 | 940 | 停滞 | 0 | 2023-12-18 | 2026-11-16 |  | MIT |
 | [shodan-python](entries/other/achillean-shodan-python.md) ⚑ | 3,493 | 786 | 停滞 | 0 | 2024-08-05 | 2026-11-16 |  | unknown |
 | [gputaskman](entries/other/shanselman-gputaskman.md) ⚑ | 3,436 | 170 | 毎日 | 100+ | 2026-11-16 | 2026-11-17 |  | MIT |
@@ -713,7 +714,7 @@
 | [InstantHMR](entries/3d-motion/naturalpad-studio-instanthmr.md) ⚑ | 410 | 46 | 週次 | 18 | 2026-11-10 | 2026-11-16 |  | Apache-2.0 |
 | [open-3d-skills](entries/3d-motion/moh4696-open-3d-skills.md) | 404 | 54 | 週次 | 4 | 2026-11-09 | 2026-11-16 |  | MIT |
 | [Geometry Script](entries/3d-motion/carson-katri-geometry-script.md) ⚑ | 388 | 33 | 月次 | 0 | 2026-11-16 | 2026-11-16 |  | GPL-3.0 |
-| [react-three-csg](entries/3d-motion/pmndrs-react-three-csg.md) ⚑ | 372 | 17 | 停滞 | 0 | 2025-03-02 | 2026-11-18 | 2026-11-23 | MIT |
+| [react-three-csg](entries/3d-motion/pmndrs-react-three-csg.md) ⚑ | 372 | 17 | 停滞 | 0 | 2025-03-02 | 2026-11-18 |  | MIT |
 | [Motion2Code](entries/3d-motion/lovisdotio-motion2code.md) ⚑ | 354 | 31 | 月次 | 2 | 2026-10-20 | 2026-11-16 |  | MIT |
 | [FlexGlue](entries/3d-motion/cvg-flexglue.md) | 344 | 18 | 週次 | 14 | 2026-11-10 | 2026-11-16 |  | MIT |
 | [shinshin86/aituber-onair](entries/3d-motion/shinshin86-aituber-onair.md) ⚑ | 335 | 34 | 毎日 | 88 | 2026-11-16 | 2026-11-16 |  | MIT |
@@ -2621,6 +2622,7 @@
 - [EmulatorJS](entries/other/emulatorjs-emulatorjs.md) — unverified / 一次資料で未確認: 依存関係。
 - [Storyboarder](entries/other/wonderunit-storyboarder.md) — unverified / ライセンスは確認できていません（GitHub API値: unknown）。 GitHub APIでライセンスを確認できていません。
 - [Marp CLI](entries/other/marp-team-marp-cli.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
+- [three-mesh-bvh](entries/other/gkjohnson-three-mesh-bvh.md) — unverified / 一次資料で未確認: 依存関係・実行条件。
 - [TweenJS](entries/other/createjs-tweenjs.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [shodan-python](entries/other/achillean-shodan-python.md) — unverified / READMEにはライセンス情報がなく、ライセンスは確認できていない。利用にはShodan APIキーが必要。 GitHub APIでライセンスを確認できていません。
 - [gputaskman](entries/other/shanselman-gputaskman.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
