@@ -1,5 +1,5 @@
 {
-  "count": 1538,
+  "count": 1539,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -10040,6 +10040,22 @@
       ],
       "fetched_at": "2026-11-13T04:00:11+00:00",
       "path": "articles/2026-10-28-aiwarper-gpt.md"
+    },
+    {
+      "name": "GarminのAI活用とTrainingPeaks買収をCOOに聞く",
+      "genre": "article",
+      "url": "https://www.techradar.com/health-fitness/fitness-trackers/garmin-is-embracing-ai-with-a-keen-sense-of-authenticity-according-to-its-coo-but-acquired-trainingpeaks-for-consumers-who-want-to-engage-with-a-human-coach",
+      "published": "2026-11-07",
+      "flags": [],
+      "type": "article",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "risk_notes": "",
+      "sources": [
+        "https://x.com/RyanNReality/status/2119215505244557448"
+      ],
+      "fetched_at": "2026-11-22T04:26:13.592410+00:00",
+      "path": "articles/2026-11-07-author-garmin-ai-trainingpeaks-coo.md"
     },
     {
       "name": "Garry Tanの個人向けAIエージェント運用事例",

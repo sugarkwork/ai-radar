@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1538 件 — リポジトリ 1092, リンク集 125, 記事 252, モデル 55, プロンプト 14 / ⚑ 要確認 1259 件
+収録 1539 件 — リポジトリ 1092, リンク集 125, 記事 253, モデル 55, プロンプト 14 / ⚑ 要確認 1259 件
 
 ## リポジトリ（1092）
 
@@ -154,7 +154,7 @@
 | [FigCraft](entries/other/storytold-figcraft.md) ⚑ | 5,042 | 1,863 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 |  | Apache-2.0 |
 | [Y2A-Auto](entries/other/fqscfqj-y2a-auto.md) ⚑ | 5,018 | 850 | 週次 | 9 | 2026-11-16 | 2026-11-16 |  | GPL-3.0 |
 | [Aliens Eye](entries/other/arxhr007-aliens_eye.md) | 4,836 | 573 | 週次 | 19 | 2026-11-15 | 2026-11-17 |  | MIT |
-| [BewlyCat](entries/other/keleus-bewlycat.md) ⚑ | 4,738 | 185 | 毎日 | 100+ | 2026-11-21 | 2026-11-22 | 2026-11-23 | unknown |
+| [BewlyCat](entries/other/keleus-bewlycat.md) ⚑ | 4,738 | 185 | 毎日 | 100+ | 2026-11-21 | 2026-11-22 |  | unknown |
 | [Screenbox](entries/other/huynhsontung-screenbox.md) ⚑ | 4,704 | 222 | 毎日 | 20 | 2026-11-16 | 2026-11-16 |  | GPL-3.0 |
 | [terminal-browser](entries/other/zenbu-labs-terminal-browser.md) | 4,690 | 243 | 毎日 | 96 | 2026-11-16 | 2026-11-16 |  | MIT |
 | [Create](entries/other/creators-of-create-create.md) ⚑ | 4,621 | 1,449 | 週次 | 19 | 2026-11-15 | 2026-11-16 |  | unknown |
@@ -1676,9 +1676,9 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（252）
+## 記事（253）
 
-### 記事（187）
+### 記事（188）
 
 - **[$0のデジタル参謀長で月$80,000の契約候補を作ったというX投稿（動画付き）](articles/2026-10-22-bober_smart-0-80-000-x.md)** ⚑  @Bober_smart
 - **[1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md)** ⚑  @mukadeshinigami（mukade死神）
@@ -1748,6 +1748,7 @@
 - **[GDG OAUのAgent Skillsワークショップ報告](articles/2026-11-07-gdg-oau-gdg-oau-agent-skills.md)** ⚑  GDG OAU
 - **[GPT‑6 Cyber の公式発表](articles/2026-11-05-openai-gpt-6-cyber.md)** ⚑  OpenAI
 - **[GPTでアバターを複数の作品風スタイルに展開する](articles/2026-10-28-aiwarper-gpt.md)** ⚑  AIWarper
+- **[GarminのAI活用とTrainingPeaks買収をCOOに聞く](articles/2026-11-07-author-garmin-ai-trainingpeaks-coo.md)**
 - **[Garry Tanの個人向けAIエージェント運用事例](articles/2026-11-02-author-garry-tan-ai.md)** ⚑
 - **[Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips](articles/2026-11-05-author-gemini-omni-1.2-flash-fast-and-cost-effective-with-longer-clips.md)** ⚑
 - **[Genesis Agent Skillsの公開発表](articles/2026-10-15-u.s.-department-of-energy-office-of-science-genesis-agent-skills.md)** ⚑  U.S. Department of Energy Office of Science
