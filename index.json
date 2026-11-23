@@ -1,5 +1,5 @@
 {
-  "count": 1552,
+  "count": 1553,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -555,6 +555,37 @@
       "last_release_at": "2026-11-11",
       "path": "entries/3d-motion/freemocap-freemocap.md",
       "summary": "Webカメラ1台で身体の2Dキーポイントを追跡し、2Dアニメーションの動きの参照に使える。3Dモーションキャプチャは2台以上で行い、公式ガイドは3台を推奨する。"
+    },
+    {
+      "name": "Zdog",
+      "genre": "3d-motion",
+      "url": "https://github.com/metafizzy/zdog",
+      "repo": "metafizzy/zdog",
+      "license": "unknown",
+      "stars": 10725,
+      "language": "JavaScript",
+      "created": "2019-03-06",
+      "updated": "2023-07-18",
+      "forks": 412,
+      "open_issues": 55,
+      "commits_30d": 0,
+      "commit_cadence": "stale",
+      "commits_90d": 0,
+      "size_kb": 659,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/0xCarrera/status/2123762450935771202"
+      ],
+      "fetched_at": "2026-11-22T04:49:27.251868+00:00",
+      "path": "entries/3d-motion/metafizzy-zdog.md",
+      "summary": "図形を組み合わせ、シンプルな疑似3Dモデルを作成して表示できます。READMEのデモでは円と四角形を配置し、回転アニメーションとドラッグ操作を設定しています。"
     },
     {
       "name": "SuperSplat Editor",
