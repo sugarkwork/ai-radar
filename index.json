@@ -1,5 +1,5 @@
 {
-  "count": 1435,
+  "count": 1436,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -24065,6 +24065,37 @@
       "risk_notes": "Mac31%・Linuxほぼ3倍等はリリースノートで同じ条件の根拠がない箇所がある。control vectorは特定Qwen向け実験で既定off。 今回の動作・推論・生成・性能は未検証。",
       "path": "entries/model-serving/niko1221-strata.md",
       "summary": "ローカル推論エンジン本体＋デスクトップアプリ＋ターミナル CLI の3形態で、チャット／コーディング／画像入力（optional）をローカルで動かす。"
+    },
+    {
+      "name": "Unlimited OCR 2",
+      "genre": "model-serving",
+      "url": "https://github.com/baidu/Unlimited-OCR",
+      "repo": "baidu/Unlimited-OCR",
+      "license": "MIT",
+      "stars": 31316,
+      "language": "Python",
+      "created": "2026-06-18",
+      "updated": "2026-11-16",
+      "forks": 3358,
+      "open_issues": 96,
+      "commits_30d": 20,
+      "commit_cadence": "daily",
+      "commits_90d": 21,
+      "size_kb": 80188,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEは「文書長にかかわらず推論遅延とメモリ使用量がほぼ一定」「ベンチマークで最先端」と説明しているが、ここでは独立検証していない。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/ruyi3699/status/2119301390564819406"
+      ],
+      "fetched_at": "2026-11-18T21:26:10.330128+00:00",
+      "path": "entries/model-serving/baidu-unlimited-ocr.md",
+      "summary": "画像化した文書のOCRと解析を行う。READMEでは、複数ページをまとめて処理する推論ではページ間の文脈を利用でき、各入力ページに対応する出力をページ順に返すと説明している。単一ページ推論は既定で動的タイル分割を使う。"
     },
     {
       "repo": "OpenBMB/MiniCPM-V",

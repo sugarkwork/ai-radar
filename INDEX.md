@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1435 件 — リポジトリ 1014, リンク集 121, 記事 231, モデル 55, プロンプト 14 / ⚑ 要確認 1168 件
+収録 1436 件 — リポジトリ 1015, リンク集 121, 記事 231, モデル 55, プロンプト 14 / ⚑ 要確認 1169 件
 
-## リポジトリ（1014）
+## リポジトリ（1015）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -762,7 +762,7 @@
 | [3dmodel](entries/3d-motion/fletcherholt-3dmodel-skill.md) ⚑ | 7 | 0 | 停滞 | 0 | 2026-06-16 | 2026-11-16 | 2026-11-22 | unknown |
 | [Lida-V/LidaAngelToon](entries/3d-motion/lida-v-lidaangeltoon.md) ⚑ | 7 | 0 | 月次 | 0 | 2026-10-17 | 2026-11-16 | 2026-11-22 | NOASSERTION |
 
-### モデル推論・配信（44）
+### モデル推論・配信（45）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -776,6 +776,7 @@
 | [exo](entries/model-serving/exo-explore-exo.md) ⚑ | 48,467 | 3,625 | 毎日 | 81 | 2026-11-06 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
 | [Jan](entries/model-serving/janhq-jan.md) ⚑ | 45,747 | 3,179 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | unknown |
 | [Strata](entries/model-serving/niko1221-strata.md) ⚑ | 44,910 | 4,966 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
+| [Unlimited OCR 2](entries/model-serving/baidu-unlimited-ocr.md) ⚑ | 31,316 | 3,358 | 毎日 | 20 | 2026-11-16 | 2026-11-18 | 2026-11-23 | MIT |
 | [MiniCPM-V](entries/model-serving/openbmb-minicpm-v.md) | 27,157 | 2,130 | 週次 | 7 | 2026-11-09 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
 | [DeepInfer](entries/model-serving/deepseek-ai-deepinfer.md) ⚑ | 26,112 | 3,211 | 週次 | 6 | 2026-11-03 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
 | [oMLX（Apple Silicon向けLLM推論サーバ、メニューバーから管理）](entries/model-serving/jundot-omlx.md) | 23,668 | 2,142 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | Apache-2.0 |
@@ -2539,6 +2540,7 @@
 - [exo](entries/model-serving/exo-explore-exo.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係。
 - [Jan](entries/model-serving/janhq-jan.md) — unverified / GitHub APIでライセンスを確認できていません。
 - [Strata](entries/model-serving/niko1221-strata.md) — unverified / Mac31%・Linuxほぼ3倍等はリリースノートで同じ条件の根拠がない箇所がある。control vectorは特定Qwen向け実験で既定off。 今回の動作・推論・生成・性能は未検証。
+- [Unlimited OCR 2](entries/model-serving/baidu-unlimited-ocr.md) — unverified / READMEは「文書長にかかわらず推論遅延とメモリ使用量がほぼ一定」「ベンチマークで最先端」と説明しているが、ここでは独立検証していない。
 - [DeepInfer](entries/model-serving/deepseek-ai-deepinfer.md) — unverified / 公開版はオフライン推論用。起動と公表性能の再現は未確認。
 - [gpu-unlock](entries/model-serving/zagitta-gpu-unlock.md) — unverified / ブート時にカーネルモジュールでGPUの速度セレクタを書き換える構成。性能値は作者計測で第三者検証なし。GeForce の保証・NVIDIA の規約への影響は未確認。トップレベルに LICENSE ファイルが無く licenses/ 配下のみ。
 - [cactus-compute/cactus](entries/model-serving/cactus-compute-cactus.md) — unverified / モデルの特定端末の速度をこの基盤全体の保証としない。Apache-2.0表記と別モデル/外部コンポーネントの条件を分ける。 当方でインストール・推論・生成・ベンチ再現はしていない。
