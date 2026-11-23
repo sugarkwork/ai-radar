@@ -1,5 +1,5 @@
 {
-  "count": 1423,
+  "count": 1424,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -11573,6 +11573,37 @@
       "fetched_at": "2026-11-16T21:46:15Z",
       "path": "entries/coding-agent/multica-ai-andrej-karpathy-skills.md",
       "summary": "AI コーディングの失敗を減らす4原則を、そのままエージェントに読ませられる形で提供する：Think Before Coding（仮定を明示し、曖昧なら止まって聞く）、Simplicity First（頼まれた以上の機能・抽象化を作らない）、Surgical Changes（依頼に直結する行だけ変える）、Goal-Dr"
+    },
+    {
+      "name": "OpenCode",
+      "genre": "coding-agent",
+      "url": "https://github.com/anomalyco/opencode",
+      "repo": "anomalyco/opencode",
+      "license": "MIT",
+      "stars": 227804,
+      "language": "TypeScript",
+      "created": "2025-04-30",
+      "updated": "2026-11-18",
+      "forks": 30909,
+      "open_issues": 4114,
+      "commits_30d": 100,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 751528,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景・依存関係・実行条件。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/dextune/status/2119295092918042707"
+      ],
+      "fetched_at": "2026-11-18T20:12:55.476726+00:00",
+      "path": "entries/coding-agent/anomalyco-opencode.md",
+      "summary": "READMEでは、OpenCodeをオープンソースのAIコーディングエージェントと説明している。開発作業向けのフルアクセス型buildエージェントと、分析・コード探索向けの読み取り専用planエージェントを搭載し、Tabキーで切り替えられる。複雑な検索や複数段階の作業向けのgeneralサブエージェントも案内されている"
     },
     {
       "repo": "anthropics/claude-code",

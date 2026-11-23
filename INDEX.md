@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1423 件 — リポジトリ 1011, リンク集 121, 記事 222, モデル 55, プロンプト 14 / ⚑ 要確認 1157 件
+収録 1424 件 — リポジトリ 1012, リンク集 121, 記事 222, モデル 55, プロンプト 14 / ⚑ 要確認 1158 件
 
-## リポジトリ（1011）
+## リポジトリ（1012）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -250,12 +250,13 @@
 | [Pay Small Check](entries/other/ahmardchain-pay-small-check.md) ⚑ | 1 | 0 | 毎日 | 32 | 2026-11-07 | 2026-11-16 | 2026-11-22 | MIT |
 | [LapDraw](entries/other/sachinyadavaug20-lapdraw.md) ⚑ | 0 | 0 | 毎日 | 22 | 2026-11-07 | 2026-11-13 | 2026-11-13 | MIT |
 
-### コーディングエージェント（155）
+### コーディングエージェント（156）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
 | [ECC](entries/coding-agent/affaan-m-ecc.md) ⚑ | 304,545 | 44,853 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
 | [Karpathy Guidelines（karpathy-guidelines スキル）](entries/coding-agent/multica-ai-andrej-karpathy-skills.md) ⚑ | 233,710 | 23,246 | 停滞 | 0 | 2026-04-20 | 2026-11-16 | 2026-11-22 | unknown |
+| [OpenCode](entries/coding-agent/anomalyco-opencode.md) ⚑ | 227,804 | 30,909 | 毎日 | 100+ | 2026-11-18 | 2026-11-18 | 2026-11-23 | MIT |
 | [Claude Code](entries/coding-agent/anthropics-claude-code.md) ⚑ | 155,907 | 25,021 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | unknown |
 | [UI UX Pro Max](entries/coding-agent/nextlevelbuilder-ui-ux-pro-max-skill.md) ⚑ | 150,395 | 15,896 | 毎日 | 26 | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
 | [Spec Kit](entries/coding-agent/github-spec-kit.md) ⚑ | 150,094 | 13,485 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 | 2026-11-22 | MIT |
@@ -2184,6 +2185,7 @@
 - [세무사 수석 ‘AI 부정’ 자백…인력공단, 국가자격시험 전수조사 [종합]](articles/2026-11-15-author-ai.md) — unverified / 당사자의 부정행위 관련 내용은 기사에 인용된 본인의 시인 등을 바탕으로 보도되었으며, 수사·행정 절차의 최종 결과는 확인되지 않았다.
 - [ECC](entries/coding-agent/affaan-m-ecc.md) — unverified / READMEには、実行に必要な具体的な依存関係や環境条件の記載がありません。
 - [Karpathy Guidelines（karpathy-guidelines スキル）](entries/coding-agent/multica-ai-andrej-karpathy-skills.md) — unverified / 効果は未検証：README の定性チェックリスト以外に実測・ベンチマークがなく、効能は著者の主張にとどまる。Karpathy 本人の監修・寄稿はなく、第三者が本人のX投稿（2026-01-26）を4原則に再構成した非公式プロジェクト（旧リビジョンの README には非公式である旨の免責があったが現行 README では削除済み）。ライセンスは LICENSE ファイルがなく API は null（README・SKILL.md・plugin.json は MIT と記載）のため unknown 扱い。2026-04-20 以降コミットがなく stale、open_issues 139 は Issues 無効化（has_issues=false）のため実質 PR。README のインストール手順は forrestchang 名義の URL で、multica-ai へ301リダイレクトする移管前の記述のまま。
+- [OpenCode](entries/coding-agent/anomalyco-opencode.md) — unverified / 一次資料で未確認: 技術背景・依存関係・実行条件。
 - [Claude Code](entries/coding-agent/anthropics-claude-code.md) — unverified / 投稿のClaude Opus 5.5の使用、2.5D制作工程の一貫実行、完成動画の品質、費用ゼロの主張は未確認。CLIやMCPは公式文書で確認し、動作と効果の独立実測は行っていない。最新リリースと再配布条件の詳細は未確認。90日コミット数の100は集計上限で、100件以上を示す。 GitHub APIでライセンスを確認できていません。
 - [UI UX Pro Max](entries/coding-agent/nextlevelbuilder-ui-ux-pro-max-skill.md) — unverified / 理由未記入
 - [Spec Kit](entries/coding-agent/github-spec-kit.md) — unverified / 公式資料で手順と対応環境を確認した。実行時の挙動、実装品質や手戻りへの効果、各エージェントの利用料金は未検証。最新リリースの表示は確認したが、公開日時の年とタイムゾーンを含む完全な値は未確認。
