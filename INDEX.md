@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1388 件 — リポジトリ 980, リンク集 120, 記事 219, モデル 55, プロンプト 14 / ⚑ 要確認 1126 件
+収録 1389 件 — リポジトリ 981, リンク集 120, 記事 219, モデル 55, プロンプト 14 / ⚑ 要確認 1127 件
 
-## リポジトリ（980）
+## リポジトリ（981）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -102,7 +102,7 @@
 | [OBLITERATUS](entries/other/elder-plinius-obliteratus.md) | 9,541 | 1,736 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 |  | AGPL-3.0 |
 | [Webstudio](entries/other/webstudio-is-webstudio.md) ⚑ | 9,170 | 1,639 | 毎日 | 57 | 2026-11-13 | 2026-11-14 |  | AGPL-3.0 |
 | [tsParticles](entries/other/tsparticles-tsparticles.md) ⚑ | 9,090 | 954 | 毎日 | 100+ | 2026-11-13 | 2026-11-14 |  | MIT |
-| [EffectCraft](entries/other/storytold-effectcraft.md) ⚑ | 8,937 | 4,661 | 毎日 | 100+ | 2026-11-18 | 2026-11-18 | 2026-11-23 | Apache-2.0 |
+| [EffectCraft](entries/other/storytold-effectcraft.md) ⚑ | 8,937 | 4,661 | 毎日 | 100+ | 2026-11-18 | 2026-11-18 |  | Apache-2.0 |
 | [Ever Gauzy Platform](entries/other/ever-co-ever-gauzy.md) ⚑ | 8,853 | 1,349 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 |  | AGPL-3.0 |
 | [librosa](entries/other/librosa-librosa.md) ⚑ | 8,830 | 1,105 | 毎日 | 59 | 2026-11-09 | 2026-11-10 |  | ISC |
 | [Two.js](entries/other/jonobr1-two.js.md) ⚑ | 8,726 | 472 | 毎日 | 22 | 2026-11-13 | 2026-11-15 |  | MIT |
@@ -642,7 +642,7 @@
 | [BennyDaBall930/comfyui_hyperflow_int8_nodes](entries/video-gen/bennydaball930-comfyui_hyperflow_int8_nodes.md) ⚑ | 3 | 0 | 週次 | 10 | 2026-11-09 | 2026-11-09 |  | GPL-3.0 |
 | [web-reels](entries/video-gen/rabin-a-web-reels.md) ⚑ | 0 | 0 | 週次 | 5 | 2026-11-08 | 2026-11-18 |  | unknown |
 
-### 3D・モーション（82）
+### 3D・モーション（83）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -676,6 +676,7 @@
 | [Post Processing](entries/3d-motion/pmndrs-postprocessing.md) ⚑ | 2,980 | 260 | 週次 | 6 | 2026-11-01 | 2026-11-16 |  | Zlib |
 | [UniMate](entries/3d-motion/friedrich-m-unimate.md) | 2,724 | 287 | 月次 | 0 | 2026-10-08 | 2026-11-16 |  | MIT |
 | [Sverchok](entries/3d-motion/nortikin-sverchok.md) ⚑ | 2,559 | 248 | 毎日 | 27 | 2026-11-16 | 2026-11-16 |  | GPL-3.0 |
+| [OOOSplat](entries/3d-motion/ooolabdev-ooosplat.md) ⚑ | 2,545 | 302 | 毎日 | 35 | 2026-11-15 | 2026-11-18 | 2026-11-23 | Apache-2.0 |
 | [dream-loop](entries/3d-motion/achimala-dream-loop.md) ⚑ | 2,369 | 230 | 月次 | 0 | 2026-09-09 | 2026-11-16 |  | MIT |
 | [pixiv/three-vrm](entries/3d-motion/pixiv-three-vrm.md) ⚑ | 2,291 | 204 | 月次 | 2 | 2026-10-22 | 2026-11-16 |  | MIT |
 | [DSH × Blender](entries/3d-motion/sixtysevenlf-dsh-blender-plugin.md) | 2,148 | 94 | 毎日 | 100+ | 2026-11-12 | 2026-11-16 |  | BSD-3-Clause |
@@ -1849,6 +1850,7 @@
 - [Motion Design Skill](entries/3d-motion/lottiefiles-motion-design-skill.md) — unverified / 確認範囲は公開READMEとスキル定義の記述。導入とエージェントでの動作、出力品質の改善、発見投稿で紹介された動画制作工程での効果は未検証。利用するエージェントの料金や条件は未確認。
 - [Post Processing](entries/3d-motion/pmndrs-postprocessing.md) — unverified / ['実機での描画、GPU別の性能差、発見投稿が紹介したAI制作フロー全体は未検証。']
 - [Sverchok](entries/3d-motion/nortikin-sverchok.md) — unverified / Blender 5.1、4.5、3.6、2.8対応との記載。追加ライブラリは一部ノードで必要。個別機能の依存条件はREADME記載のDependencies資料を参照。
+- [OOOSplat](entries/3d-motion/ooolabdev-ooosplat.md) — unverified / READMEの記述に基づく紹介。実機での動作や生成品質は独立検証していない。LinuxはUbuntu 24.04 LTS x86_64のAlphaで、CPU-onlyソフトウェア描画は未検証。macOSはApple Silicon向け未署名・未公証Alpha。
 - [dream-loop](entries/3d-motion/achimala-dream-loop.md) — unverified / ['最新リリースは取得がタイムアウトしたため未確認。', '作者のREADMEではCodex上のGPT-6 Astraのみでテスト済み。Claude Opus 5.5での動作、比較ベンチマーク、デモの画質・FPS、実行費用は未検証。']
 - [pixiv/three-vrm](entries/3d-motion/pixiv-three-vrm.md) — unverified / v3.6.0-beta.0のVRMC_springBone_limitはBeta拡張。MITはコードの条件で、各VRMの人物・衣装・モデルの権利は別。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [sand3d](entries/3d-motion/sandflow-ai-sand3d.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。

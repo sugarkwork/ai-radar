@@ -1,5 +1,5 @@
 {
-  "count": 1388,
+  "count": 1389,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -1006,6 +1006,37 @@
       "last_release_at": "2026-03-05",
       "path": "entries/3d-motion/nortikin-sverchok.md",
       "summary": "Blender上でノードを組み合わせ、メッシュ、曲線、サーフェス、ソリッドなどの幾何を作成・編集するアドオン。READMEには600超のノード、パラメトリック構成、断面・押し出し等の加工、面積・体積計算、CSV等の入出力、ベクトル・スカラー場、SVG/DXF出力、BREP/NURBS/IFCデータ交換などが記載されてい"
+    },
+    {
+      "name": "OOOSplat",
+      "genre": "3d-motion",
+      "url": "https://github.com/ooolabdev/ooosplat",
+      "repo": "ooolabdev/ooosplat",
+      "license": "Apache-2.0",
+      "stars": 2545,
+      "language": "Rust",
+      "created": "2026-08-15",
+      "updated": "2026-11-15",
+      "forks": 302,
+      "open_issues": 23,
+      "commits_30d": 35,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 16159,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "READMEの記述に基づく紹介。実機での動作や生成品質は独立検証していない。LinuxはUbuntu 24.04 LTS x86_64のAlphaで、CPU-onlyソフトウェア描画は未検証。macOSはApple Silicon向け未署名・未公証Alpha。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/awe0_io/status/2119268269979025464"
+      ],
+      "fetched_at": "2026-11-18T13:25:20.746260+00:00",
+      "path": "entries/3d-motion/ooolabdev-ooosplat.md",
+      "summary": "普通・全景動画や画像系列から、ローカルで3D Gaussian Splattingを生成する。結果はプレビュー、編集でき、PLY、圧縮PLY、SPZ、SOG、MP4、オフラインHTMLにエクスポートできる。外部Gaussianモデルの読み込みにも対応するとREADMEに記載されている。"
     },
     {
       "repo": "achimala/dream-loop",
