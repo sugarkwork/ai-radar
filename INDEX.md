@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1557 件 — リポジトリ 1106, リンク集 125, 記事 257, モデル 55, プロンプト 14 / ⚑ 要確認 1274 件
+収録 1558 件 — リポジトリ 1107, リンク集 125, 記事 257, モデル 55, プロンプト 14 / ⚑ 要確認 1274 件
 
-## リポジトリ（1106）
+## リポジトリ（1107）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（285）
+### その他（286）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -107,7 +107,7 @@
 | [Horizon](entries/other/thysrael-horizon.md) | 13,147 | 1,876 | 毎日 | 80 | 2026-11-09 | 2026-11-09 |  | MIT |
 | [Paper](entries/other/papermc-paper.md) ⚑ | 12,815 | 3,564 | 毎日 | 58 | 2026-11-15 | 2026-11-16 |  | unknown |
 | [Thaw](entries/other/thaw-app-thaw.md) ⚑ | 12,708 | 345 | 毎日 | 100+ | 2026-11-13 | 2026-11-13 |  | GPL-3.0 |
-| [Douyin Downloader](entries/other/jiji262-douyin-downloader.md) ⚑ | 12,648 | 1,936 | 週次 | 19 | 2026-11-21 | 2026-11-22 | 2026-11-23 | MIT |
+| [Douyin Downloader](entries/other/jiji262-douyin-downloader.md) ⚑ | 12,648 | 1,936 | 週次 | 19 | 2026-11-21 | 2026-11-22 |  | MIT |
 | [Git Plugin for Obsidian](entries/other/vinzent03-obsidian-git.md) ⚑ | 12,302 | 678 | 週次 | 16 | 2026-11-19 | 2026-11-20 |  | MIT |
 | [Betaflight](entries/other/betaflight-betaflight.md) ⚑ | 11,799 | 4,172 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 |  | GPL-3.0 |
 | [VidBee](entries/other/nexmoe-vidbee.md) ⚑ | 11,135 | 874 | 週次 | 13 | 2026-11-08 | 2026-11-13 |  | MIT |
@@ -283,6 +283,7 @@
 | [Pixprite](entries/other/vicimpa-pixprite.md) ⚑ | 36 | 3 | 毎日 | 58 | 2026-11-09 | 2026-11-22 |  | MIT |
 | [SoMarkDown](entries/other/somarkai-somarkdown.md) ⚑ | 34 | 2 | 停滞 | 0 | 2026-09-09 | 2026-11-19 |  | MIT |
 | [Sprite Pencil](entries/other/256arts-sprite-pencil.md) ⚑ | 28 | 6 | 週次 | 9 | 2026-11-11 | 2026-11-16 |  | unknown |
+| [KPix](entries/other/krush62-kpix.md) | 23 | 2 | 毎日 | 100+ | 2026-11-21 | 2026-11-22 | 2026-11-23 | AGPL-3.0 |
 | [jevframe](entries/other/ktaletsk-jevframe.md) ⚑ | 21 | 3 | 月次 | 0 | 2026-09-24 | 2026-11-10 |  | MIT |
 | [SoPDF](entries/other/somarkai-sopdf.md) ⚑ | 20 | 3 | 停滞 | 0 | 2026-04-14 | 2026-11-19 |  | unknown |
 | [FossFLOW](entries/other/grujowmi-fossflow.md) ⚑ | 15 | 3 | 停滞 | 0 | 2026-05-22 | 2026-11-16 |  | MIT |

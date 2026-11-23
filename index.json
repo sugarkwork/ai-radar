@@ -1,5 +1,5 @@
 {
-  "count": 1557,
+  "count": 1558,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -35729,6 +35729,35 @@
       "last_release_at": "",
       "path": "entries/other/256arts-sprite-pencil.md",
       "summary": "ピクセルアートのスプライト、アイコンなどの小さな画像を描画・編集するアプリ。鉛筆、消しゴム、塗りつぶし、ハイライト、シャドウ、対称描画、ディザリング、パレット選択・インポート、反転・回転・輪郭追加、取り消し・やり直しに対応するとREADMEに記載。スプライトはPNGファイルとして扱い、システムの書類ブラウザやiClou"
+    },
+    {
+      "name": "KPix",
+      "genre": "other",
+      "url": "https://github.com/krush62/KPix",
+      "repo": "krush62/KPix",
+      "license": "AGPL-3.0",
+      "stars": 23,
+      "language": "Dart",
+      "created": "2024-04-25",
+      "updated": "2026-11-21",
+      "forks": 2,
+      "open_issues": 8,
+      "commits_30d": 100,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 11271,
+      "archived": false,
+      "flags": [],
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "risk_notes": "",
+      "sources": [
+        "https://x.com/dextune/status/2119429745091686634"
+      ],
+      "fetched_at": "2026-11-22T05:03:37.611458+00:00",
+      "path": "entries/other/krush62-kpix.md",
+      "summary": "READMEの説明によると、KPixは静止画とアニメーション向けのピクセルアートエディタです。インデックスカラーを使用し、パラメータからカラーパレットの色階調を生成します。描画ツール、色ランプに基づくシェーディング、参照・シェーディング・ディザリング・グリッド／遠近補助レイヤー、フレームごとの表示時間やオニオンスキンに"
     },
     {
       "repo": "ktaletsk/jevframe",
