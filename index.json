@@ -1,5 +1,5 @@
 {
-  "count": 1361,
+  "count": 1362,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -32909,6 +32909,37 @@
       "fetched_at": "2026-11-13T00:12:59.137522+00:00",
       "path": "entries/prompt-design/ricommunity-tap.md",
       "summary": "攻撃側LLMがtree-of-thought reasoningで攻撃プロンプトを生成し、評価側LLMが不適切な候補を枝刈りして対象LLMの応答を評価する、ブラックボックス型の自動jailbreak手法。READMEは実験でGPT-4やGPT-4-Turboを含むモデルに対し、少数のクエリで80%超のプロンプトがjai"
+    },
+    {
+      "name": "nihongo",
+      "genre": "prompt-design",
+      "url": "https://github.com/AnIT012/nihongo",
+      "repo": "AnIT012/nihongo",
+      "license": "MIT",
+      "stars": 99,
+      "language": "Python",
+      "created": "2026-11-16",
+      "updated": "2026-11-18",
+      "forks": 1,
+      "open_issues": 0,
+      "commits_30d": 31,
+      "commit_cadence": "daily",
+      "commits_90d": 31,
+      "size_kb": 1251,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "評価は作者1人または同じ会社のAIによる判定とREADMEに記載されている。ChatGPTとCodexのモデルでは同じ検証をしていない。評価結果は作者の報告であり、独立した実測ではない。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/sincostansinhk/status/2122823344739451040"
+      ],
+      "fetched_at": "2026-11-18T02:13:20.387585+00:00",
+      "path": "entries/prompt-design/anit012-nihongo.md",
+      "summary": "AIが書く日本語の生成や推敲を支援するエージェントスキル。読み手・目的・掲載場所・書き手に合わせた書き方を判断する手順をまとめている。普段の応答向けのLiteと、メールや資料など向けの詳しいFullがあり、数値・日付・条件・行為者を変えないことや、自然な文を無理に直さないことを方針としている。READMEにはSlack"
     },
     {
       "repo": "tommy0103/better-readme-skill",
