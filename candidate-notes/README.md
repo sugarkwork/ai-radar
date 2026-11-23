@@ -203,6 +203,9 @@
   - 確認結果（注記）: 対象を裏付ける公開一次資料を確認できませんでした。 確認できた対象種別: 外部サイト。
 - [X: hamidmabbasi の投稿](https://x.com/hamidmabbasi/status/2119267414055752168)
   - 公開に必須の根拠がそろっていません。 確認できた対象種別: 記事。
+- [X: ganfanren_ai の投稿](https://x.com/ganfanren_ai/status/2119665375696855391)
+  - 確認結果（注記）: 候補の対象が複数あり、一意に特定できませんでした。
+  - 元画像を確認できず、画像内の内容は未検証です。
 - [X: ganfanren_ai の投稿](https://x.com/ganfanren_ai/status/2119638494725452072)
   - 元画像を確認できず、画像内の内容は未検証です。
 - [X: ganfanren_ai の投稿](https://x.com/ganfanren_ai/status/2119632321175593203)
@@ -251,6 +254,10 @@
   - 確認結果（注記）: 候補の対象が複数あり、一意に特定できませんでした。
 - [X: dextune の投稿](https://x.com/dextune/status/2119583983659081898)
   - 公開に必須の根拠がそろっていません。 確認できた対象種別: モデル。 照合済み参照先: <https://huggingface.co/tencent/Qwen3.8-27B-DSpine-b16>。
+- [X: daaihq の投稿](https://x.com/daaihq/status/2119664593165537791)
+  - 確認結果（注記）: 対象を裏付ける公開一次資料を確認できませんでした。 確認できた対象種別: プロンプト。
+- [X: daaihq の投稿](https://x.com/daaihq/status/2119664585607356711)
+  - 確認結果（注記）: 対象を裏付ける公開一次資料を確認できませんでした。 確認できた対象種別: プロンプト。
 - [X: daaihq の投稿](https://x.com/daaihq/status/2119648341164486880)
   - 確認結果（注記）: 対象を裏付ける公開一次資料を確認できませんでした。 確認できた対象種別: プロンプト。
 - [X: daaihq の投稿](https://x.com/daaihq/status/2119625767646892381)
@@ -349,6 +356,8 @@
   - 確認結果（注記）: 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 - [X: ShinobuFujimoto の投稿](https://x.com/ShinobuFujimoto/status/2119618006225711224)
   - 公開に必須の根拠がそろっていません。 確認できた対象種別: 外部サイト。
+- [X: ScarabOfficial の投稿](https://x.com/ScarabOfficial/status/2119386989187445114)
+  - 確認結果（注記）: 候補の対象が複数あり、一意に特定できませんでした。
 - [X: RoundtableSpace の投稿](https://x.com/RoundtableSpace/status/2119660000909869148)
   - 確認結果（注記）: 対象を裏付ける公開一次資料を確認できませんでした。 確認できた対象種別: 外部サイト。 照合済み参照先: <https://x.com/AmirHadiEng/status/2119556132632948890>。
 - [X: RoundtableSpace の投稿](https://x.com/RoundtableSpace/status/2119652452404465986)
@@ -437,6 +446,8 @@
   - 確認結果（注記）: 元リンクと提案された配布先が一致しません。同名の別物を採用していません。
 - [X: GOROman の投稿](https://x.com/GOROman/status/2099848223641027068)
   - 公開に必須の根拠がそろっていません。 確認できた対象種別: 外部サイト。
+- [X: FaridaNever の投稿](https://x.com/FaridaNever/status/2124580081246835090)
+  - 確認結果（注記）: 対象を裏付ける公開一次資料を確認できませんでした。
 - [X: Eileeness160708 の投稿](https://x.com/Eileeness160708/status/2119659638794973394)
   - 確認結果（注記）: 対象を裏付ける公開一次資料を確認できませんでした。 確認できた対象種別: 記事。
   - 公開に必須の根拠がそろっていません。 確認できた対象種別: 記事。
