@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1550 件 — リポジトリ 1099, リンク集 125, 記事 257, モデル 55, プロンプト 14 / ⚑ 要確認 1269 件
+収録 1551 件 — リポジトリ 1100, リンク集 125, 記事 257, モデル 55, プロンプト 14 / ⚑ 要確認 1270 件
 
-## リポジトリ（1099）
+## リポジトリ（1100）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（280）
+### その他（281）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -166,6 +166,7 @@
 | [three-mesh-bvh](entries/other/gkjohnson-three-mesh-bvh.md) ⚑ | 3,576 | 352 | 毎日 | 100+ | 2026-11-18 | 2026-11-18 |  | MIT |
 | [TweenJS](entries/other/createjs-tweenjs.md) ⚑ | 3,568 | 940 | 停滞 | 0 | 2023-12-18 | 2026-11-16 |  | MIT |
 | [Demucs](entries/other/adefossez-demucs.md) ⚑ | 3,564 | 333 | 月次 | 1 | 2026-10-26 | 2026-11-18 |  | MIT |
+| [LYGIA Shader Library](entries/other/patriciogonzalezvivo-lygia.md) ⚑ | 3,505 | 226 | 月次 | 1 | 2026-10-24 | 2026-11-22 | 2026-11-23 | unknown |
 | [shodan-python](entries/other/achillean-shodan-python.md) ⚑ | 3,493 | 786 | 停滞 | 0 | 2024-08-05 | 2026-11-16 |  | unknown |
 | [gputaskman](entries/other/shanselman-gputaskman.md) ⚑ | 3,436 | 170 | 毎日 | 100+ | 2026-11-16 | 2026-11-17 |  | MIT |
 | [Swarm Rebuild](entries/other/dhvanilpatel-swarm-cursors.md) ⚑ | 3,428 | 378 | 週次 | 7 | 2026-11-11 | 2026-11-16 |  | unknown |
@@ -755,7 +756,7 @@
 | [SuperSplat Editor](entries/3d-motion/playcanvas-supersplat.md) ⚑ | 10,702 | 1,243 | 毎日 | 31 | 2026-11-19 | 2026-11-22 |  | MIT |
 | [@react-three/drei](entries/3d-motion/pmndrs-drei.md) ⚑ | 10,167 | 873 | 月次 | 0 | 2026-10-21 | 2026-11-16 |  | MIT |
 | [TripoSR](entries/3d-motion/vast-ai-research-triposr.md) | 7,409 | 959 | 停滞 | 0 | 2026-06-04 | 2026-11-17 |  | MIT |
-| [gsplat](entries/3d-motion/nerfstudio-project-gsplat.md) ⚑ | 5,930 | 1,023 | 月次 | 0 | 2026-09-19 | 2026-11-22 | 2026-11-23 | Apache-2.0 |
+| [gsplat](entries/3d-motion/nerfstudio-project-gsplat.md) ⚑ | 5,930 | 1,023 | 月次 | 0 | 2026-09-19 | 2026-11-22 |  | Apache-2.0 |
 | [Text-to-Lottie](entries/3d-motion/diffusionstudio-lottie.md) ⚑ | 5,763 | 304 | 停滞 | 0 | 2026-07-25 | 2026-11-16 |  | MIT |
 | [Tweakpane](entries/3d-motion/cocopon-tweakpane.md) ⚑ | 4,699 | 140 | 停滞 | 0 | 2026-03-15 | 2026-11-16 |  | MIT |
 | [Kimodo](entries/3d-motion/nv-tlabs-kimodo.md) ⚑ | 4,241 | 473 | 月次 | 0 | 2026-10-15 | 2026-11-16 |  | Apache-2.0 |
@@ -2889,6 +2890,7 @@
 - [three-mesh-bvh](entries/other/gkjohnson-three-mesh-bvh.md) — unverified / 一次資料で未確認: 依存関係・実行条件。
 - [TweenJS](entries/other/createjs-tweenjs.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Demucs](entries/other/adefossez-demucs.md) — unverified / READMEではMUSDB HQテストセットでのSDR値を報告しています。これはREADME上の報告であり、この候補についての独立した実測ではありません。実験的な6音源モデルのピアノ分離には漏れやアーティファクトが多いとREADMEに記載されています。
+- [LYGIA Shader Library](entries/other/patriciogonzalezvivo-lygia.md) — unverified / GitHub APIではlicenseがunknown。READMEにライセンス条件の記載は提示資料内で確認できない。 GitHub APIでライセンスを確認できていません。
 - [shodan-python](entries/other/achillean-shodan-python.md) — unverified / READMEにはライセンス情報がなく、ライセンスは確認できていない。利用にはShodan APIキーが必要。 GitHub APIでライセンスを確認できていません。
 - [gputaskman](entries/other/shanselman-gputaskman.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Swarm Rebuild](entries/other/dhvanilpatel-swarm-cursors.md) — unverified / READMEには「None yet」とあり、ライセンスは設定されていない。コードの再利用条件は権利者への確認が必要。 GitHub APIでライセンスを確認できていません。

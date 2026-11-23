@@ -1,5 +1,5 @@
 {
-  "count": 1550,
+  "count": 1551,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -31951,6 +31951,37 @@
       "fetched_at": "2026-11-18T15:14:54.756448+00:00",
       "path": "entries/other/adefossez-demucs.md",
       "summary": "楽曲からドラム、ベース、ボーカルと伴奏などの音源を分離します。READMEでは、実験的な6音源モデルについてギターとピアノの音源追加を説明し、ピアノには漏れやアーティファクトが多いとしています。"
+    },
+    {
+      "name": "LYGIA Shader Library",
+      "genre": "other",
+      "url": "https://github.com/patriciogonzalezvivo/lygia",
+      "repo": "patriciogonzalezvivo/lygia",
+      "license": "unknown",
+      "stars": 3505,
+      "language": "GLSL",
+      "created": "2021-04-06",
+      "updated": "2026-10-24",
+      "forks": 226,
+      "open_issues": 26,
+      "commits_30d": 1,
+      "commit_cadence": "monthly",
+      "commits_90d": 10,
+      "size_kb": 13773,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "GitHub APIではlicenseがunknown。READMEにライセンス条件の記載は提示資料内で確認できない。 GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/0xCarrera/status/2123762450935771202"
+      ],
+      "fetched_at": "2026-11-22T04:48:48.078828+00:00",
+      "path": "entries/other/patriciogonzalezvivo-lygia.md",
+      "summary": "GLSLなど複数のシェーディング言語向けの再利用可能なシェーダー関数ライブラリ。READMEはクロスプラットフォーム対応をうたい、主要な環境・エンジン・フレームワーク向けの統合例を挙げている。シェーダー内で必要な関数を#includeし、例では画面比率調整、色の量子化、円描画の関数を使う。"
     },
     {
       "name": "shodan-python",
