@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1484 件 — リポジトリ 1050, リンク集 122, 記事 243, モデル 55, プロンプト 14 / ⚑ 要確認 1211 件
+収録 1485 件 — リポジトリ 1051, リンク集 122, 記事 243, モデル 55, プロンプト 14 / ⚑ 要確認 1212 件
 
-## リポジトリ（1050）
+## リポジトリ（1051）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（257）
+### その他（258）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -49,7 +49,7 @@
 | [croc](entries/other/schollz-croc.md) ⚑ | 40,930 | 1,655 | 毎日 | 74 | 2026-11-13 | 2026-11-14 |  | MIT |
 | [Maigret](entries/other/soxoj-maigret.md) ⚑ | 40,599 | 3,269 | 毎日 | 58 | 2026-11-13 | 2026-11-13 |  | MIT |
 | [Heretic](entries/other/p-e-w-heretic.md) | 40,132 | 4,590 | 毎日 | 29 | 2026-11-08 | 2026-11-09 |  | AGPL-3.0 |
-| [sing-box](entries/other/sagernet-sing-box.md) ⚑ | 40,131 | 4,965 | 毎日 | 100+ | 2026-11-19 | 2026-11-19 | 2026-11-23 | unknown |
+| [sing-box](entries/other/sagernet-sing-box.md) ⚑ | 40,131 | 4,965 | 毎日 | 100+ | 2026-11-19 | 2026-11-19 |  | unknown |
 | [PDFMathTranslate](entries/other/pdfmathtranslate-pdfmathtranslate.md) ⚑ | 38,342 | 3,433 | 毎日 | 100+ | 2026-11-10 | 2026-11-10 |  | AGPL-3.0 |
 | [Czkawka / Krokiet](entries/other/qarmin-czkawka.md) ⚑ | 35,149 | 1,261 | 週次 | 19 | 2026-11-10 | 2026-11-14 |  | unknown |
 | [OfficeCLI](entries/other/iofficeai-officecli.md) | 33,352 | 2,276 | 毎日 | 89 | 2026-11-16 | 2026-11-16 |  | Apache-2.0 |
@@ -137,6 +137,7 @@
 | [Geyser](entries/other/geysermc-geyser.md) ⚑ | 5,973 | 963 | 毎日 | 52 | 2026-11-18 | 2026-11-19 |  | MIT |
 | [Sodium](entries/other/caffeinemc-sodium.md) ⚑ | 5,850 | 991 | 週次 | 16 | 2026-11-14 | 2026-11-19 |  | unknown |
 | [Auto-Editor](entries/other/wyattblue-auto-editor.md) ⚑ | 5,824 | 725 | 毎日 | 100+ | 2026-11-08 | 2026-11-09 |  | Unlicense |
+| [tModLoader](entries/other/tmodloader-tmodloader.md) ⚑ | 5,797 | 2,200 | 毎日 | 100+ | 2026-11-17 | 2026-11-19 | 2026-11-23 | MIT |
 | [gifski](entries/other/imageoptim-gifski.md) ⚑ | 5,711 | 183 | 停滞 | 0 | 2026-06-17 | 2026-11-16 |  | unknown |
 | [软件屏蔽器（Malware-Patch）](entries/other/the1812-malware-patch.md) ⚑ | 5,644 | 333 | 停滞 | 0 | 2026-05-27 | 2026-11-14 |  | MIT |
 | [Atoll](entries/other/ebullioscopic-atoll.md) ⚑ | 5,291 | 389 | 毎日 | 33 | 2026-11-17 | 2026-11-17 |  | GPL-3.0 |
@@ -2763,6 +2764,7 @@
 - [Geyser](entries/other/geysermc-geyser.md) — unverified / READMEは、異なるゲーム間でネットワークパケットを変換する性質上、すべてが完全に動作するとは限らないと説明している。具体的な制限事項はREADMEからリンクされたCurrent Limitationsを参照。
 - [Sodium](entries/other/caffeinemc-sodium.md) — unverified / GitHub APIでライセンスを確認できていません。
 - [Auto-Editor](entries/other/wyattblue-auto-editor.md) — unverified / commits_30d/90d は GitHub API の per_page=100 上限に達しており、実数は100件超（30日窓で返った最古のコミットが 2026-10-19）。効果の測定は合成素材1本（10秒・320x240）で行ったもので、実収録でのカット精度や話し言葉の語尾保持は独立検証していない。PyPI 版は 29.3.1（2025-11-04）で更新が止まっており pip 導入は非推奨。24時間超の素材、字幕・データストリームのみの入力は非対応。
+- [tModLoader](entries/other/tmodloader-tmodloader.md) — unverified / 一次資料で未確認: 技術背景・依存関係・実行条件。
 - [gifski](entries/other/imageoptim-gifski.md) — unverified / GitHub APIのライセンス値はunknown。READMEにはAGPL 3 or laterと記載されているが、商用ライセンスの条件・料金は確認できない。 GitHub APIでライセンスを確認できていません。
 - [软件屏蔽器（Malware-Patch）](entries/other/the1812-malware-patch.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Atoll](entries/other/ebullioscopic-atoll.md) — unverified / 一次資料で未確認: 依存関係。

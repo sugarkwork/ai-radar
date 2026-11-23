@@ -1,5 +1,5 @@
 {
-  "count": 1484,
+  "count": 1485,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -30183,6 +30183,37 @@
       "last_release_at": "2026-10-30",
       "path": "entries/other/wyattblue-auto-editor.md",
       "summary": "音声のラウドネス（既定 audio:threshold=0.04）、モーション、黒フレーム、字幕の語句一致から「切る区間」を判定し、初稿を書き出す。入力は動画・音声のほか、yt-dlp 導入時の URL、:mic でのマイク録音にも対応"
+    },
+    {
+      "name": "tModLoader",
+      "genre": "other",
+      "url": "https://github.com/tModLoader/tModLoader",
+      "repo": "tModLoader/tModLoader",
+      "license": "MIT",
+      "stars": 5797,
+      "language": "C#",
+      "created": "2015-07-21",
+      "updated": "2026-11-17",
+      "forks": 2200,
+      "open_issues": 635,
+      "commits_30d": 100,
+      "commit_cadence": "daily",
+      "commits_90d": 100,
+      "size_kb": 853647,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "一次資料で未確認: 技術背景・依存関係・実行条件。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/dextune/status/2119354247783579840"
+      ],
+      "fetched_at": "2026-11-19T16:18:33.484999+00:00",
+      "path": "entries/other/tmodloader-tmodloader.md",
+      "summary": "TerrariaのMODを作成してプレイできます。単独または複数のMODで遊べ、友人と一緒に遊ぶこともできます。"
     },
     {
       "name": "gifski",
