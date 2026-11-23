@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1544 件 — リポジトリ 1096, リンク集 125, 記事 254, モデル 55, プロンプト 14 / ⚑ 要確認 1264 件
+収録 1545 件 — リポジトリ 1096, リンク集 125, 記事 255, モデル 55, プロンプト 14 / ⚑ 要確認 1265 件
 
 ## リポジトリ（1096）
 
@@ -1680,15 +1680,16 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（254）
+## 記事（255）
 
-### 記事（189）
+### 記事（190）
 
 - **[$0のデジタル参謀長で月$80,000の契約候補を作ったというX投稿（動画付き）](articles/2026-10-22-bober_smart-0-80-000-x.md)** ⚑  @Bober_smart
 - **[1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md)** ⚑  @mukadeshinigami（mukade死神）
 - **[1通貨から取引できるFX会社4社比較｜松井証券FX・SBI FXトレードなど](articles/2026-08-13-author-1-fx-4-fx-sbi-fx.md)** ⚑
 - **[4回に1回に間引いても平均は50%——大数の法則と「選別」の境界](articles/2026-09-13-xsmryze-4-1-50.md)** ⚑  xsmryze
 - **[6つのAIツールを統合して就寝中に$832稼いだというX投稿（動画付き）](articles/2026-10-24-bober_smart-6-ai-832-x.md)** ⚑  @Bober_smart
+- **[96GB M5 UltraでQwen 3.8 Flash NextをSushiで実行した報告](articles/2026-10-12-author-96gb-m5-ultra-qwen-3.8-flash-next-sushi.md)** ⚑
 - **[A proof of the Aaronson-Ambainis conjecture](articles/2026-11-06-author-a-proof-of-the-aaronson-ambainis-conjecture.md)**
 - **[A thousand fewer paths to root](articles/2026-11-04-author-a-thousand-fewer-paths-to-root.md)**
 - **[A timeline of Trump administration's response to FAA ground stop](articles/2026-11-14-author-a-timeline-of-trump-administration-s-response-to-faa-ground-stop.md)** ⚑
@@ -2194,6 +2195,7 @@
 - [1通貨から取引できるFX会社4社比較｜松井証券FX・SBI FXトレードなど](articles/2026-08-13-author-1-fx-4-fx-sbi-fx.md) — unverified / 取引条件は変更される可能性があり、記事の比較条件は2026年10月12日時点。各社の最新条件は公式資料で未確認。
 - [4回に1回に間引いても平均は50%——大数の法則と「選別」の境界](articles/2026-09-13-xsmryze-4-1-50.md) — unverified / 【主張】投稿は『コイン投げを4回に1回だけ残しても平均は50%のまま。IIT Kharagpur の Mrityunjoy Chakraborty 教授が確率論の核心に近づくのに使う』と述べ、『どの結果を残しても平均は変わらない』『1本の長い記録で1000回の繰り返しの代わりになる』へ一般化する。【確認できたこと】Chakraborty 氏は IIT Kharagpur 電子電気通信工学科の教授で（教員ページ）、同氏が coordinator を務める NPTEL『Probability and Random Processes』のシラバスに strong law of large numbers とエルゴード性が含まれる。固定間隔・結果と独立な間引きでは部分列も同一分布の iid 列なので大数の法則がそのまま効き、平均の収束先は変わらない（手元のシミュレーションで確認）。【未確認】記事本文（x.com/i/article/... は非ログインでログイン画面へリダイレクト、fetch_article.py も失敗）。『教授がこの間引きの話を講義で使っている』という結び付けは未確認：添付動画は約59分の講義録画だが、確認したフレームは集合の演算・排反事象・集合体（fields of sets）といった公理的確率の導入で、話者名や所属の表示もなく、全編は確認していない。【注意】『どの結果を残しても平均は変わらない』は結果に依存した選別（勝った回だけ残す、生存したファンドだけ集める）では成立しない。また間引くと標本数が減り平均の標準誤差は増える（4回に1回なら2倍）。『1本の記録』が使えるのは定常＋エルゴード性が前提。
 - [6つのAIツールを統合して就寝中に$832稼いだというX投稿（動画付き）](articles/2026-10-24-bober_smart-6-ai-832-x.md) — unverified, low-quality / 【主張】6つのツール（Opus 5.5 / REA / Jev / Dots / Grok Bot / Obsidian）を統合し、就寝中に配送ドライバー向けの収益管理アプリを自動構築。243登録・31有料×$9=$832、費用はAPI $5.10＋ドメイン$4=$9.10で91倍、$15の上限で$55のドメインを回避した、と投稿は述べる。【確認できた】①投稿の実体（2026-10-24T18:39:54Z、likes 1,087 / views 130,279 / bookmarks 1,579、本文に外部URLは0件）。②動画の実体（HTTP 200、25,805,564 bytes、19.95秒、1080x1350・60fps、カットは3/9/12/18秒の4箇所）。③6ツールの実在：Claude Opus 5.5 は Anthropic が2026-09-22に公開（$4/$20 per MTok）、REA は morluto/rea（MIT、リバースエンジニアリング用MCP）、Jev は TypeSafe AI の System One モデル、Dots は OpenAI の常駐エージェント（2026-09-29）、Grok Bot は xAI の常駐Bot、Obsidian は実在のノートアプリ。【誤り・矛盾】①収益の算数が合わない：31人×$9＝$279で、$832には約92人の有料会員が必要。②著者自身の動画が$832を否定している：全フレームでヘッダーは REVENUE $279 / SIGNUPS 212 / PAID 31 / COST $7.70・36x で、$832はどこにも表示されない。登録者数も243ではなく212、コストも$9.10ではなく$7.70、予算上限も$15ではなく$10、ドメインも$4ではなく$3。③Jevの役割が製品仕様と正反対：Jevは文字列を生成しない意思決定モデルで、コードを書いたり「概念を実行」したりはできない。返信欄でも複数人が同じ点を問いただしている。④REAは「任意の主題を4分で深掘り」する調査ツールではなく、アプリやバイナリのリバースエンジニアリング用MCP。⑤DotsはOpenAIの常駐エージェントで、ChatGPT Pro / Business Premium が前提。「6つを1つのワークフローに織り込む」ツールではない。⑥成果物の証拠が無い：製品名・URL・コード・決済画面が無く、動画にもURLは1つも写らない。最終フレームは「1 live app • 6 lines of glue code」という演出。⑦引用記事は「Claude Second Brain & Folder Workflow: The Complete Guide」（2026-07-19）で、内容はMarkdownフォルダ＋CLAUDE.mdの索引運用。むしろ「Obsidianは不要」と明記しており、Obsidianに1,260 recordsを貯めたという本投稿の主張と噛み合わない。【未確認】アプリの実在、収益・登録・決済の実績、動画が実画面か（演出と判断）、$5.10のAPI費用の内訳、Obsidianの記録件数。返信欄では「31 x $9 = $279, not $832」「Jev writes code now?」「This is AI-generated fiction.」「This didn’t happen」などと批判され、取得できた範囲に著者の反論・説明は無い。本項目は主張の記録としてのみ扱い、実績値や再現手順として引用しないこと。
+- [96GB M5 UltraでQwen 3.8 Flash NextをSushiで実行した報告](articles/2026-10-12-author-96gb-m5-ultra-qwen-3.8-flash-next-sushi.md) — unverified / 速度や品質評価は投稿者の自己報告で、独立した再現確認はありません。投稿者は128Kコンテキスト、MTP有効、8-bit KV、実際のエージェント負荷で約70–80 tok/s（SSDキャッシュ有効）、約93–100 tok/s（無効）、4bpw版で約45 tok/sと述べています。
 - [A timeline of Trump administration's response to FAA ground stop](articles/2026-11-14-author-a-timeline-of-trump-administration-s-response-to-faa-ground-stop.md) — unverified / 障害の根本原因は記事時点で未確定。回線更新中のルーター過負荷は当局者が示した発生経緯として記述されている。
 - [AEGEAN — Three.jsで描く海辺の3D体験](articles/2026-09-30-chetan-ankola-aegean-three.js-3d.md) — unverified / 制作に使ったモデルの正式名称と操作性は未確認。
 - [AI is dramatically accelerating AI research right now](articles/2026-11-06-author-ai-is-dramatically-accelerating-ai-research-right-now.md) — unverified / 「1年以内に極端な超知能に至る」という見通しは、著者による加速が滑らかに複利で続く場合の素朴な外挿で、METRが実証した予測ではない。METRはAECIの加速推定に幅があり、重要な根拠の多くが非公開で、広範な能力への当てはまりやボトルネック評価にも不確実性があると述べている。
