@@ -1,5 +1,5 @@
 {
-  "count": 1450,
+  "count": 1451,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -30574,6 +30574,37 @@
       "fetched_at": "2026-11-18T14:17:01.587116+00:00",
       "path": "entries/other/bbc-audiowaveform.md",
       "summary": "MP3、WAV、FLAC、Ogg Vorbis、Opus形式の音声から波形データを生成します。データは.datまたはJSON形式で保存でき、波形データを入力として、時間位置とズームを指定したPNG画像を描画できます。"
+    },
+    {
+      "name": "Arcade",
+      "genre": "other",
+      "url": "https://github.com/pythonarcade/arcade",
+      "repo": "pythonarcade/arcade",
+      "license": "unknown",
+      "stars": 2109,
+      "language": "Python",
+      "created": "2016-01-04",
+      "updated": "2026-10-30",
+      "forks": 388,
+      "open_issues": 45,
+      "commits_30d": 8,
+      "commit_cadence": "weekly",
+      "commits_90d": 100,
+      "size_kb": 187824,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/dextune/status/2119324041739731273"
+      ],
+      "fetched_at": "2026-11-19T05:13:41.073089+00:00",
+      "path": "entries/other/pythonarcade-arcade.md",
+      "summary": "Pythonで2Dビデオゲームを作成するためのライブラリ。READMEでは、学びやすく、複雑なフレームワークを学ばずに2Dゲームを作りたいプログラマーに適すると説明されています。"
     },
     {
       "name": "Effekseer",
