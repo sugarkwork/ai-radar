@@ -1,5 +1,5 @@
 {
-  "count": 1476,
+  "count": 1477,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -35674,6 +35674,37 @@
       "fetched_at": "2026-11-10T09:23:57Z",
       "path": "entries/prompt-design/zhanghao123vip-ai-manju-skills.md",
       "summary": "物語のアイデアをもとに、企画書、人物・小道具・背景などの画像生成プロンプト、各話の台本、絵コンテ・動画生成プロンプト、表紙や投稿文の案を段階的に出力する。"
+    },
+    {
+      "name": "Awesome GPT Image 2.5 Prompts",
+      "genre": "prompt-design",
+      "url": "https://github.com/youart-open-source/awesome-gpt-image-2-5-prompts",
+      "repo": "youart-open-source/awesome-gpt-image-2-5-prompts",
+      "license": "unknown",
+      "stars": 596,
+      "language": "JavaScript",
+      "created": "2026-09-10",
+      "updated": "2026-09-11",
+      "forks": 46,
+      "open_issues": 0,
+      "commits_30d": 0,
+      "commit_cadence": "stale",
+      "commits_90d": 1,
+      "size_kb": 1344,
+      "archived": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "リポジトリのライセンスはAPI上でunknownです。READMEでは画像の権利は各制作者に残り、第三者プロンプトにも個別の著作権者と条件があるとしています。利用・再配布条件は個別に確認してください。 GitHub APIでライセンスを確認できていません。",
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/Ryrenz/status/2119340647551262938"
+      ],
+      "fetched_at": "2026-11-19T12:17:35.936177+00:00",
+      "path": "entries/prompt-design/youart-open-source-awesome-gpt-image-2-5-prompts.md",
+      "summary": "READMEの説明では、OpenAI GPT Imageモデル向けの150件のプロンプトを9用途に分類し、投稿者名と元投稿へのリンクを付けて収録しています。プロンプト本文は投稿者が公開した原文のままで、用途別ファイルまたはdata/prompts.jsonから参照できます。"
     },
     {
       "name": "Universal Fable 5 System Prompt",
