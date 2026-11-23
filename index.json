@@ -1,5 +1,5 @@
 {
-  "count": 1513,
+  "count": 1514,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -22751,6 +22751,27 @@
       "fetched_at": "2026-11-08T04:07:21+00:00",
       "path": "links/link-service/typesafe.ai-jev-typesafe-ai.md",
       "summary": "高性能LLMにバックログ全体を投げる前に、「些細・定型・難しい」の判断だけを安く速く済ませ、難しい案件だけをLLMに渡すための判断レイヤー。"
+    },
+    {
+      "name": "LLM Router",
+      "genre": "link-service",
+      "url": "https://llm-router.org/",
+      "pricing": "paid",
+      "pricing_detail": "公式サイト記載では最低3ドルからチャージ。モデル別に100万トークン単位で課金。例: gpt-6-astraは入力5ドル・出力25ドル、glm-5.3-flashは入力0.02ドル・出力0.04ドル。",
+      "signup_required": true,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "投稿にあるTelegram経由の登録と10 million無料トークン配布は、確認した公式資料では裏付けられなかった。公式サイトにはアカウント作成後に最低3ドルをチャージする案内がある。",
+      "type": "link",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/RealMarvelX/status/2119394013010649440"
+      ],
+      "fetched_at": "2026-11-20T00:00:00Z",
+      "path": "links/link-service/llm-router.org-llm-router.md",
+      "summary": "GPT、Claude、Geminiなどのモデルを単一のAPIエンドポイント経由で利用するサービス。"
     },
     {
       "type": "link",

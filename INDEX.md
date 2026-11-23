@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1513 件 — リポジトリ 1071, リンク集 124, 記事 249, モデル 55, プロンプト 14 / ⚑ 要確認 1236 件
+収録 1514 件 — リポジトリ 1071, リンク集 125, 記事 249, モデル 55, プロンプト 14 / ⚑ 要確認 1237 件
 
 ## リポジトリ（1071）
 
@@ -422,7 +422,7 @@
 | [Motion.dev Animations Skill](entries/coding-agent/199-biotechnologies-motion-dev-animations-skill.md) ⚑ | 233 | 36 | 停滞 | 0 | 2026-03-30 | 2026-11-16 |  | MIT |
 | [open-source-hands](entries/coding-agent/abouchedidxcode-open-source-hands.md) ⚑ | 216 | 31 | 月次 | 1 | 2026-11-03 | 2026-11-16 |  | MIT |
 | [craft](entries/coding-agent/diego3g-craft.md) ⚑ | 186 | 7 | 毎日 | 23 | 2026-11-17 | 2026-11-17 |  | unknown |
-| [Claude Repurpose](entries/coding-agent/agricidaniel-claude-repurpose.md) | 176 | 34 | 停滞 | 0 | 2026-04-10 | 2026-11-20 | 2026-11-23 | MIT |
+| [Claude Repurpose](entries/coding-agent/agricidaniel-claude-repurpose.md) | 176 | 34 | 停滞 | 0 | 2026-04-10 | 2026-11-20 |  | MIT |
 | [Dual-Brain — 設計とコードの二視点レビュー用スキル](entries/coding-agent/sleeplesshan-dual-brain.md) ⚑ | 155 | 11 | 週次 | 4 | 2026-11-06 | 2026-11-16 |  | MIT |
 | [quicksilver](entries/coding-agent/uditakhourii-quicksilver.md) ⚑ | 142 | 12 | 停滞 | 0 | 2026-09-25 | 2026-11-16 |  | MIT |
 | [Hill Climb](entries/coding-agent/bil0000-hill-climb.md) ⚑ | 140 | 5 | 週次 | 8 | 2026-11-12 | 2026-11-17 |  | MIT |
@@ -1216,9 +1216,9 @@
 - **[MiniMax H3：20種のダンスと音楽指定](prompts/video-gen/minimax-h3-20-dance-music.md)** ⚑  MiniMax H3 / EndFolding79421
   - キャラクターシートを参照し、6秒間の全身ダンスと音楽・環境音を指示するための投稿者のテンプレート。ダンス20種類の音楽指定例を含む。
 
-## リンク集（124）
+## リンク集（125）
 
-### リンク（サービス・ツール）（24）
+### リンク（サービス・ツール）（25）
 
 - **[Aura](links/link-service/aura.build-aura.md)** ⚑  freemium / DESIGNCODE IO PTE. LTD.（Meng To / DesignCode）
   - テキストプロンプトからランディングページやマルチページのウェブサイトを生成し、ブラウザ上で視覚編集して公開・書き出しまで完結させるサービス。公式は「AI landing page builder that creates stunning designs in seconds」と説明している。
@@ -1246,6 +1246,8 @@
   - 文章作成・マーケティング支援サービスとして一覧に記載されたJasper。
 - **[Jev（TypeSafe AI）](links/link-service/typesafe.ai-jev-typesafe-ai.md)** ⚑  paid / TypeSafe AI
   - 高性能LLMにバックログ全体を投げる前に、「些細・定型・難しい」の判断だけを安く速く済ませ、難しい案件だけをLLMに渡すための判断レイヤー。
+- **[LLM Router](links/link-service/llm-router.org-llm-router.md)** ⚑  paid
+  - GPT、Claude、Geminiなどのモデルを単一のAPIエンドポイント経由で利用するサービス。
 - **[Mako UI](links/link-service/mako-engine-mako-ui.md)** ⚑  paid
   - HTML・CSS・JavaScriptでゲーム内UIを制作するミドルウェア。
 - **[NaN](links/link-service/nan.builders-nan.md)** ⚑  paid / NaN
@@ -2594,6 +2596,7 @@
 - [Intel GPU D270](links/link-service/intel.com-intel-gpu-d270.md) — unverified / 仕様はIntel公表値。実機性能と消費電力は未計測。
 - [Jasper](links/link-service/https-www.jasper.ai.md) — unverified / 無料紹介URLの不達をサービス全体の不存在とは扱わない。現行価格・無料提供・利用条件は未確認。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [Jev（TypeSafe AI）](links/link-service/typesafe.ai-jev-typesafe-ai.md) — unverified / 投稿が掲げる数値（10,000タスクを20秒、9,214件をOpusに渡さない、8レーンで衝突0、41,096行、12.7x fewer Opus calls、Jev費用$0.38）は投稿本文と添付動画の中だけの主張で、一次情報の裏付けがない。添付動画は実アプリの画面ではなく演出されたモックで、同じ動画内でも Jev 費用が $0.25 から $0.38 へ変化し、41,096 行は画面に現れない。Jev 自体（TypeSafe AI の System One モデル、$42/10億入力トークン、HTTP API/SDK/agent skill）は公式サイトとドキュメントで確認できるが、公式は「コーディングエージェントの LLM を置き換えるものではない」と明記しており、投稿の8レーン並列構成の再現手順は公開されていない。無料枠の有無、コンソールの課金開始条件は未確認。
+- [LLM Router](links/link-service/llm-router.org-llm-router.md) — unverified / 投稿にあるTelegram経由の登録と10 million無料トークン配布は、確認した公式資料では裏付けられなかった。公式サイトにはアカウント作成後に最低3ドルをチャージする案内がある。
 - [Mako UI](links/link-service/mako-engine-mako-ui.md) — unverified / 現時点で公式はウェイトリストを案内しており、一般提供や料金を確認できない。コンソール版はNDA等の条件あり。実装や性能は未検証。
 - [NaN](links/link-service/nan.builders-nan.md) — unverified / モデルごとの利用枠がある。APIの実動作と速度は未検証。
 - [Raphael AI](links/link-service/raphael.app-raphael-ai.md) — unverified / 無料画像には透かしが含まれる。公式ページ間で商用利用条件の説明が一致せず、無料利用時の商用利用可否は要確認。
