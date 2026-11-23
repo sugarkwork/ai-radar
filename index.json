@@ -1,5 +1,5 @@
 {
-  "count": 1437,
+  "count": 1438,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -10257,6 +10257,22 @@
       ],
       "fetched_at": "2026-11-16T08:18:32.315740+00:00",
       "path": "articles/2026-11-13-author-langchain-3-c-30.md"
+    },
+    {
+      "name": "Large Language Continuous Diffusion Models",
+      "genre": "article",
+      "url": "https://arxiv.org/abs/2610.02665",
+      "published": "2026-10-02",
+      "flags": [],
+      "type": "article",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "risk_notes": "",
+      "sources": [
+        "https://x.com/NVIDIAAI/status/2123144524746924455"
+      ],
+      "fetched_at": "2026-11-19T00:11:37.056497+00:00",
+      "path": "articles/2026-10-02-author-large-language-continuous-diffusion-models.md"
     },
     {
       "name": "Last Lecture Series: “How to Win Without Crushing Your Soul” - Graham Weaver（Stanford GSB Class of 2026）",
