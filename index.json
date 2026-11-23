@@ -1,5 +1,5 @@
 {
-  "count": 1551,
+  "count": 1552,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -619,6 +619,35 @@
       "last_release_at": "2026-09-25",
       "path": "entries/3d-motion/pmndrs-drei.md",
       "summary": "@react-three/fiber向けのヘルパーおよび機能を備えた抽象化コンポーネントを提供する。READMEにはカメラ、操作コントロール、ローダー、シェーダー、パフォーマンス関連コンポーネントなどが掲載されている。出典: https://github.com/pmndrs/drei"
+    },
+    {
+      "name": "Google model-viewer",
+      "genre": "3d-motion",
+      "url": "https://github.com/google/model-viewer",
+      "repo": "google/model-viewer",
+      "license": "Apache-2.0",
+      "stars": 8351,
+      "language": "TypeScript",
+      "created": "2018-10-18",
+      "updated": "2026-11-18",
+      "forks": 964,
+      "open_issues": 119,
+      "commits_30d": 11,
+      "commit_cadence": "weekly",
+      "commits_90d": 19,
+      "size_kb": 4478236,
+      "archived": false,
+      "flags": [],
+      "type": "repo",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "risk_notes": "",
+      "sources": [
+        "https://x.com/0xCarrera/status/2123762450935771202"
+      ],
+      "fetched_at": "2026-11-22T04:49:14.084776+00:00",
+      "path": "entries/3d-motion/google-model-viewer.md",
+      "summary": "<model-viewer> Webコンポーネントを中心に、関連するPostProcessingプラグイン、ドキュメントサイト、描画忠実度のテストツール、共有アセット、エディタを含むプロジェクト群。"
     },
     {
       "name": "TripoSR",
