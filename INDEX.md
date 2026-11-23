@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1534 件 — リポジトリ 1089, リンク集 125, 記事 251, モデル 55, プロンプト 14 / ⚑ 要確認 1255 件
+収録 1535 件 — リポジトリ 1089, リンク集 125, 記事 252, モデル 55, プロンプト 14 / ⚑ 要確認 1256 件
 
 ## リポジトリ（1089）
 
@@ -1048,7 +1048,7 @@
 | [serenity-stock-choke](entries/finance-quant/fadewalk-serenity-stock-choke.md) | 535 | 56 | 月次 | 0 | 2026-10-06 | 2026-11-16 |  | MIT |
 | [A-Share Quant Selector](entries/finance-quant/dzy-hw-xd-a-share-quant-selector.md) | 515 | 110 | 停滞 | 0 | 2026-09-08 | 2026-11-16 |  | MIT |
 | [polymarket-trade-engine](entries/finance-quant/kaustubhpatange-polymarket-trade-engine.md) ⚑ | 323 | 91 | 停滞 | 0 | 2026-06-08 | 2026-11-16 |  | MIT |
-| [kline-structure-chart](entries/finance-quant/xiongcp-stock-skill.md) ⚑ | 121 | 2 | 毎日 | 95 | 2026-11-18 | 2026-11-20 | 2026-11-23 | Apache-2.0 |
+| [kline-structure-chart](entries/finance-quant/xiongcp-stock-skill.md) ⚑ | 121 | 2 | 毎日 | 95 | 2026-11-18 | 2026-11-20 |  | Apache-2.0 |
 | [trade-jev](entries/finance-quant/justinhe16-trade-jev.md) ⚑ | 13 | 3 | 毎日 | 20 | 2026-11-13 | 2026-11-16 |  | MIT |
 | [Jev Paper Trader](entries/finance-quant/mojoai-king-jev-paper-trader.md) ⚑ | 3 | 1 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 |  | unknown |
 | [JevOnAir](entries/finance-quant/valuecodes-jev-on-air.md) ⚑ | 0 | 0 | 週次 | 11 | 2026-11-16 | 2026-11-16 |  | MIT |
@@ -1673,9 +1673,9 @@
 - **[MiniCPM-V 4.7（1B・オンデバイス VLM）](models/rag/openbmb-minicpm-v-4-7-1b.md)**  free / OpenBMB（清華大学 THUNLP / ModelBest）
   - 画像・複数画像・動画を読む VLM の 1B 版。単体の GPU やスマートフォンの上で動くことを狙った設計。
 
-## 記事（251）
+## 記事（252）
 
-### 記事（186）
+### 記事（187）
 
 - **[$0のデジタル参謀長で月$80,000の契約候補を作ったというX投稿（動画付き）](articles/2026-10-22-bober_smart-0-80-000-x.md)** ⚑  @Bober_smart
 - **[1枚の参照画像からプロ級 PBR テクスチャを作る（Blender + Claude）](articles/2026-10-28-mukadeshinigami-pbr-textures.md)** ⚑  @mukadeshinigami（mukade死神）
@@ -1789,6 +1789,7 @@
 - **[Measuring how AI agents handle everyday wet-lab science](articles/2026-11-06-author-measuring-how-ai-agents-handle-everyday-wet-lab-science.md)**
 - **[Meta AIのMuse、3日使い倒して分かった始め方と使いどころ。Xの評判185件の調査レポートと、チャットから自宅PCのCodex・Claude Codeを動かすSkillを配布します](articles/2026-10-29-author-meta-ai-muse-3-x-185-pc-codex-claude-code-skill.md)** ⚑
 - **[Metatron — A Promptable Whole-Body Execution Layer for Humanoids](articles/2026-10-01-author-metatron-a-promptable-whole-body-execution-layer-for-humanoids.md)** ⚑
+- **[MetaのAIエージェント向けフロンティアモデル「Muse Wonder」発表と公称ベンチマーク](articles/2026-10-13-author-meta-ai-muse-wonder.md)** ⚑
 - **[Microsoft confirms Windows activation failures after November updates](articles/2026-11-13-author-microsoft-confirms-windows-activation-failures-after-november-updates.md)** ⚑
 - **[Microsoft’s November 2026 Patch Tuesday addresses 1093 CVEs (CVE-2026-124194)](articles/2026-11-10-author-microsoft-s-november-2026-patch-tuesday-addresses-1093-cves-cve-2026-124194.md)**
 - **[Muse「スペース」で作る日常向けツールの作例と選び方](articles/2026-11-07-author-muse.md)** ⚑
@@ -2270,6 +2271,7 @@
 - [Material Painterを使った部分編集の報告](articles/2026-11-08-ry-heyhaigh-material-painter.md) — unverified / 専用のinpainting機能と比較効果は未確認。
 - [Meta AIのMuse、3日使い倒して分かった始め方と使いどころ。Xの評判185件の調査レポートと、チャットから自宅PCのCodex・Claude Codeを動かすSkillを配布します](articles/2026-10-29-author-meta-ai-muse-3-x-185-pc-codex-claude-code-skill.md) — unverified / Skillの配布物の内容や利用条件、記事に記載された利用結果は独立確認していない。
 - [Metatron — A Promptable Whole-Body Execution Layer for Humanoids](articles/2026-10-01-author-metatron-a-promptable-whole-body-execution-layer-for-humanoids.md) — unverified / 実演値や改善の説明はNVIDIA掲載資料の報告であり、独立検証ではない。歩行品質・安定性の改善は定性的評価と明記されている。
+- [MetaのAIエージェント向けフロンティアモデル「Muse Wonder」発表と公称ベンチマーク](articles/2026-10-13-author-meta-ai-muse-wonder.md) — unverified / ベンチマーク値はMetaが掲載した比較結果であり、独立した再現評価ではない。
 - [Microsoft confirms Windows activation failures after November updates](articles/2026-11-13-author-microsoft-confirms-windows-activation-failures-after-november-updates.md) — unverified / 記事は修正が数日以内に提供される見込みと報じていますが、現在の修正提供状況はこの記事から確認できません。Microsoft のサービス通知への直接リンクも記事内で確認できません。
 - [Muse「スペース」で作る日常向けツールの作例と選び方](articles/2026-11-07-author-muse.md) — unverified / 保存、外部連携、定期更新、写真からの自動登録などの機能や作例の動作は投稿者の報告であり、独立した検証や公式資料による裏付けは確認できていない。
 - [Museで試作し入力素材をSeedanceへ引き継ぐ動画制作案](articles/2026-10-26-jarvis11x-muse-seedance.md) — unverified / 品質、費用、再現性は未計測。投稿のSeedanceバージョンは不明。
