@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1405 件 — リポジトリ 996, リンク集 120, 記事 220, モデル 55, プロンプト 14 / ⚑ 要確認 1141 件
+収録 1406 件 — リポジトリ 997, リンク集 120, 記事 220, モデル 55, プロンプト 14 / ⚑ 要確認 1142 件
 
-## リポジトリ（996）
+## リポジトリ（997）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（230）
+### その他（231）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Marp CLI](entries/other/marp-team-marp-cli.md) ⚑ | 3,922 | 207 | 月次 | 0 | 2026-09-08 | 2026-11-15 | 2026-11-15 | MIT |
 | [three-mesh-bvh](entries/other/gkjohnson-three-mesh-bvh.md) ⚑ | 3,576 | 352 | 毎日 | 100+ | 2026-11-18 | 2026-11-18 | 2026-11-23 | MIT |
 | [TweenJS](entries/other/createjs-tweenjs.md) ⚑ | 3,568 | 940 | 停滞 | 0 | 2023-12-18 | 2026-11-16 | 2026-11-22 | MIT |
+| [Demucs](entries/other/adefossez-demucs.md) ⚑ | 3,564 | 333 | 月次 | 1 | 2026-10-26 | 2026-11-18 | 2026-11-23 | MIT |
 | [shodan-python](entries/other/achillean-shodan-python.md) ⚑ | 3,493 | 786 | 停滞 | 0 | 2024-08-05 | 2026-11-16 | 2026-11-22 | unknown |
 | [gputaskman](entries/other/shanselman-gputaskman.md) ⚑ | 3,436 | 170 | 毎日 | 100+ | 2026-11-16 | 2026-11-17 | 2026-11-22 | MIT |
 | [Swarm Rebuild](entries/other/dhvanilpatel-swarm-cursors.md) ⚑ | 3,428 | 378 | 週次 | 7 | 2026-11-11 | 2026-11-16 | 2026-11-22 | unknown |
@@ -2640,6 +2641,7 @@
 - [Marp CLI](entries/other/marp-team-marp-cli.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [three-mesh-bvh](entries/other/gkjohnson-three-mesh-bvh.md) — unverified / 一次資料で未確認: 依存関係・実行条件。
 - [TweenJS](entries/other/createjs-tweenjs.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
+- [Demucs](entries/other/adefossez-demucs.md) — unverified / READMEではMUSDB HQテストセットでのSDR値を報告しています。これはREADME上の報告であり、この候補についての独立した実測ではありません。実験的な6音源モデルのピアノ分離には漏れやアーティファクトが多いとREADMEに記載されています。
 - [shodan-python](entries/other/achillean-shodan-python.md) — unverified / READMEにはライセンス情報がなく、ライセンスは確認できていない。利用にはShodan APIキーが必要。 GitHub APIでライセンスを確認できていません。
 - [gputaskman](entries/other/shanselman-gputaskman.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Swarm Rebuild](entries/other/dhvanilpatel-swarm-cursors.md) — unverified / READMEには「None yet」とあり、ライセンスは設定されていない。コードの再利用条件は権利者への確認が必要。 GitHub APIでライセンスを確認できていません。
