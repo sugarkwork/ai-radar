@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1407 件 — リポジトリ 998, リンク集 120, 記事 220, モデル 55, プロンプト 14 / ⚑ 要確認 1142 件
+収録 1408 件 — リポジトリ 999, リンク集 120, 記事 220, モデル 55, プロンプト 14 / ⚑ 要確認 1143 件
 
-## リポジトリ（998）
+## リポジトリ（999）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -537,7 +537,7 @@
 | [web-api-skills](entries/agent-framework/oxylabs-web-api-skills.md) | 13 | 1 | 週次 | 14 | 2026-11-11 | 2026-11-16 | 2026-11-22 | MIT |
 | [Cybernetic Meadow agent skill](entries/agent-framework/cyberneticmeadow-skill.md) ⚑ | 0 | 0 | 月次 | 1 | 2026-11-17 | 2026-11-18 | 2026-11-23 | MIT |
 
-### 動画生成パイプライン（113）
+### 動画生成パイプライン（114）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -578,6 +578,7 @@
 | [Lemo-Opuscar](entries/video-gen/lemomo-ai-lemo-opuscar.md) | 14,050 | 1,690 | 毎日 | 100+ | 2026-11-08 | 2026-11-09 | 2026-11-10 | MIT (コード) / CC BY 4.0 (スタイル記述) |
 | [WanGP](entries/video-gen/deepbeepmeep-wangp.md) | 11,549 | 1,875 | 毎日 | 66 | 2026-11-09 | 2026-11-09 | 2026-11-10 | WanGP Community License 2.0 |
 | [LTX-Video (Legacy)](entries/video-gen/lightricks-ltx-video.md) ⚑ | 11,358 | 1,230 | 月次 | 2 | 2026-11-02 | 2026-11-11 | 2026-11-11 | Apache-2.0 |
+| [Robust Video Matting (RVM)](entries/video-gen/peterl1n-robustvideomatting.md) ⚑ | 9,620 | 1,196 | 停滞 | 0 | 2024-04-02 | 2026-11-18 | 2026-11-23 | GPL-3.0 |
 | [Jellyfish](entries/video-gen/forget-c-jellyfish.md) ⚑ | 7,185 | 1,237 | 停滞 | 0 | 2026-07-30 | 2026-11-14 | 2026-11-14 | Apache-2.0 |
 | [OpenFilm](entries/video-gen/openfilm-openfilm.md) ⚑ | 6,950 | 669 | 毎日 | 100+ | 2026-11-13 | 2026-11-14 | 2026-11-14 | MIT |
 | [Remotion Agent Skills](entries/video-gen/remotion-dev-skills.md) | 6,707 | 728 | 週次 | 8 | 2026-11-09 | 2026-11-09 | 2026-11-10 | unknown |
@@ -2899,6 +2900,7 @@
 - [paperjs/paper.js](entries/video-gen/paperjs-paper.js.md) — unverified / LICENSE.txtでMIT本文を原チェック確認。実行負荷・ブラウザ互換・制作効果は未検証。 当方でインストール・推論・生成・ベンチ再現はしていない。
 - [MoviePy](entries/video-gen/zulko-moviepy.md) — unverified / README says MoviePy is slower than using ffmpeg directly. Version 1 is no longer maintained; version 2 introduced breaking changes.
 - [LTX-Video (Legacy)](entries/video-gen/lightricks-ltx-video.md) — unverified / READMEではLTX-Video v0.9.xは旧版とされ、現在は新規プロジェクトにLTX-2.5を推奨している。モデル重みの利用条件はこのREADME抜粋から確認できない。
+- [Robust Video Matting (RVM)](entries/video-gen/peterl1n-robustvideomatting.md) — unverified / README記載の4K 76FPS・HD 104FPSはNvidia GTX 1080 Ti上での作者報告であり、独立した実測ではありません。現在の環境での性能は未確認です。
 - [Jellyfish](entries/video-gen/forget-c-jellyfish.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [OpenFilm](entries/video-gen/openfilm-openfilm.md) — unverified / 生成音声・音楽・画像・動画の利用には、接続サービスの利用またはOpenFilmへのサインインが必要と記載されています。各サービスの料金や利用条件はREADMEでは確認できません。
 - [huashu-art-motion](entries/video-gen/alchaincyf-huashu-art-motion.md) — unverified / 投稿の「導入から10分で完成」「Opus 5.5 が作った」は制作者・紹介者の主張で、第三者の計測ではない。README/SKILL.md 内で画風数は「実装済み36種＋研究配方16〜17種（カード計53枚）」と数え方が揺れ、研究配方は作者自身が未検証と明記している。画風の一致度を定量評価した公開ベンチマークはない。
