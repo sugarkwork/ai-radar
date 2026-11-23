@@ -2,13 +2,13 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1488 件 — リポジトリ 1053, リンク集 123, 記事 243, モデル 55, プロンプト 14 / ⚑ 要確認 1214 件
+収録 1489 件 — リポジトリ 1054, リンク集 123, 記事 243, モデル 55, プロンプト 14 / ⚑ 要確認 1215 件
 
-## リポジトリ（1053）
+## リポジトリ（1054）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
-### その他（259）
+### その他（260）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -142,6 +142,7 @@
 | [gifski](entries/other/imageoptim-gifski.md) ⚑ | 5,711 | 183 | 停滞 | 0 | 2026-06-17 | 2026-11-16 |  | unknown |
 | [软件屏蔽器（Malware-Patch）](entries/other/the1812-malware-patch.md) ⚑ | 5,644 | 333 | 停滞 | 0 | 2026-05-27 | 2026-11-14 |  | MIT |
 | [Atoll](entries/other/ebullioscopic-atoll.md) ⚑ | 5,291 | 389 | 毎日 | 33 | 2026-11-17 | 2026-11-17 |  | GPL-3.0 |
+| [PKHeX](entries/other/kwsch-pkhex.md) ⚑ | 5,284 | 980 | 毎日 | 26 | 2026-11-16 | 2026-11-19 | 2026-11-23 | unknown |
 | [Bumblebee](entries/other/perplexityai-bumblebee.md) ⚑ | 5,148 | 464 | 月次 | 0 | 2026-11-10 | 2026-11-12 |  | Apache-2.0 |
 | [FigCraft](entries/other/storytold-figcraft.md) ⚑ | 5,042 | 1,863 | 毎日 | 100+ | 2026-11-16 | 2026-11-16 |  | Apache-2.0 |
 | [Y2A-Auto](entries/other/fqscfqj-y2a-auto.md) ⚑ | 5,018 | 850 | 週次 | 9 | 2026-11-16 | 2026-11-16 |  | GPL-3.0 |
@@ -969,7 +970,7 @@
 | [kepano/flexoki](entries/prompt-design/kepano-flexoki.md) ⚑ | 3,810 | 139 | 停滞 | 0 | 2026-03-07 | 2026-11-09 |  | MIT |
 | [The Designer Skills Pack](entries/prompt-design/owl-listener-designer-skills.md) ⚑ | 3,309 | 436 | 月次 | 0 | 2026-09-05 | 2026-11-10 |  | MIT |
 | [GitReverse](entries/prompt-design/filiksyos-gitreverse.md) ⚑ | 2,081 | 337 | 週次 | 8 | 2026-11-10 | 2026-11-11 |  | MIT |
-| [video-spec-builder](entries/prompt-design/feicaiclub-video-spec-builder.md) | 1,078 | 128 | 停滞 | 0 | 2026-05-18 | 2026-11-19 | 2026-11-23 | MIT |
+| [video-spec-builder](entries/prompt-design/feicaiclub-video-spec-builder.md) | 1,078 | 128 | 停滞 | 0 | 2026-05-18 | 2026-11-19 |  | MIT |
 | [Casting-Workflow](entries/prompt-design/dama-cyber-casting-workflow.md) ⚑ | 710 | 136 | 停滞 | 0 | 2026-08-07 | 2026-11-14 |  | unknown |
 | [AI 漫剧 Skills](entries/prompt-design/zhanghao123vip-ai-manju-skills.md) ⚑ | 695 | 124 | 月次 | 2 | 2026-11-01 | 2026-11-10 |  | MIT |
 | [Awesome GPT Image 2.5 Prompts](entries/prompt-design/youart-open-source-awesome-gpt-image-2-5-prompts.md) ⚑ | 596 | 46 | 停滞 | 0 | 2026-09-11 | 2026-11-19 |  | unknown |
@@ -2774,6 +2775,7 @@
 - [gifski](entries/other/imageoptim-gifski.md) — unverified / GitHub APIのライセンス値はunknown。READMEにはAGPL 3 or laterと記載されているが、商用ライセンスの条件・料金は確認できない。 GitHub APIでライセンスを確認できていません。
 - [软件屏蔽器（Malware-Patch）](entries/other/the1812-malware-patch.md) — unverified / 一次資料で未確認: 技術背景・有効性・依存関係・実行条件。
 - [Atoll](entries/other/ebullioscopic-atoll.md) — unverified / 一次資料で未確認: 依存関係。
+- [PKHeX](entries/other/kwsch-pkhex.md) — unverified / READMEは、暗号化されていないセーブデータを入力として想定すると説明している。実際の対応範囲はゲーム世代やファイル形式に依存する。 GitHub APIでライセンスを確認できていません。
 - [Bumblebee](entries/other/perplexityai-bumblebee.md) — unverified / 一次資料で未確認: 技術背景・有効性・実行条件。
 - [FigCraft](entries/other/storytold-figcraft.md) — unverified / READMEではステータスをearly alphaと記載。機能の成熟度や各OS・形式での対応範囲はREADMEだけでは確認できない。ライセンスはREADMEのバッジがMIT OR Apache-2.0、取得済みGitHub API値がApache-2.0と異なるため、適用条件を確認すること。
 - [Y2A-Auto](entries/other/fqscfqj-y2a-auto.md) — unverified / The supplied README does not establish what permissions or platform terms apply to reposting videos; verify these before use.
