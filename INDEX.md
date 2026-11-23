@@ -2,7 +2,7 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1414 件 — リポジトリ 1004, リンク集 120, 記事 221, モデル 55, プロンプト 14 / ⚑ 要確認 1148 件
+収録 1415 件 — リポジトリ 1004, リンク集 121, 記事 221, モデル 55, プロンプト 14 / ⚑ 要確認 1149 件
 
 ## リポジトリ（1004）
 
@@ -1149,9 +1149,9 @@
 - **[MiniMax H3：20種のダンスと音楽指定](prompts/video-gen/minimax-h3-20-dance-music.md)** ⚑  MiniMax H3 / EndFolding79421
   - キャラクターシートを参照し、6秒間の全身ダンスと音楽・環境音を指示するための投稿者のテンプレート。ダンス20種類の音楽指定例を含む。
 
-## リンク集（120）
+## リンク集（121）
 
-### リンク（サービス・ツール）（22）
+### リンク（サービス・ツール）（23）
 
 - **[Aura](links/link-service/aura.build-aura.md)** ⚑  freemium / DESIGNCODE IO PTE. LTD.（Meng To / DesignCode）
   - テキストプロンプトからランディングページやマルチページのウェブサイトを生成し、ブラウザ上で視覚編集して公開・書き出しまで完結させるサービス。公式は「AI landing page builder that creates stunning designs in seconds」と説明している。
@@ -1185,6 +1185,8 @@
   - 画像1枚から紙風のアニメーションクリップを作る Web ツール。ショート動画のフック用素材（新聞の切り抜き風、紙の折り畳み等）を短時間で作ることを狙う。投稿の説明（paper-style animations）と一致する。
 - **[Raphael AI](links/link-service/raphael.app-raphael-ai.md)** ⚑  freemium
   - ブラウザー上でAI画像を生成・編集するWebサービス。
+- **[Sakutto - Local AI translation](links/link-service/chromewebstore.google.com-sakutto-local-ai-translation.md)** ⚑  free
+  - Chrome上でWebページを読みながら翻訳する拡張機能。作者の説明では、既定の翻訳処理は端末内で行われる。
 - **[ScaleDown](links/link-service/scaledown-ai.md)**  paid / ScaleDown AI
   - 分類・抽出・要約・圧縮という単機能に絞った小型モデル（SLM）を API で提供するサービス。フロンティアモデルに頼らず、決まった処理を大量に安く流す用途を狙う。
 - **[Tripo AI](links/link-service/tripo3d-ai.md)** ⚑  freemium / Tripo
@@ -2455,6 +2457,7 @@
 - [Mako UI](links/link-service/mako-engine-mako-ui.md) — unverified / 現時点で公式はウェイトリストを案内しており、一般提供や料金を確認できない。コンソール版はNDA等の条件あり。実装や性能は未検証。
 - [NaN](links/link-service/nan.builders-nan.md) — unverified / モデルごとの利用枠がある。APIの実動作と速度は未検証。
 - [Raphael AI](links/link-service/raphael.app-raphael-ai.md) — unverified / 無料画像には透かしが含まれる。公式ページ間で商用利用条件の説明が一致せず、無料利用時の商用利用可否は要確認。
+- [Sakutto - Local AI translation](links/link-service/chromewebstore.google.com-sakutto-local-ai-translation.md) — unverified / ページ本文や選択範囲は既定で端末内処理と作者は説明しているが、モデル取得時は Hugging Face への通信が発生する。設定で任意のローカルサーバーを指定した場合、翻訳文はそのURLへ送信される。これらは掲載元の説明であり、独立した実機検証ではない。
 - [Tripo AI](links/link-service/tripo3d-ai.md) — unverified / 引用への感想投稿自体には新しい実行検証はない。 今回の動作・推論・生成・性能は未検証。
 - [pump.fun](links/link-service/pump.fun-pump.fun.md) — unverified / 【元ポストの主張と実測の区別】ポストはAI生成の「emo kid」インフルエンサーの顔を使い第三者がコインを3件ローンチしたと述べ、$45Kピーク・$161K出来高・クリエイター手数料0.30%・本人の取り分ゼロ等の数字を挙げる。実測できたのはプラットフォーム側の仕様のみ：(1) ボンディングカーブのクリエイター手数料は公式料金ページで0.300%と確認でき、ポストの0.30%と一致。(2) コイン作成にプラットフォーム手数料はなく、誰でも画像・名前・シンボルを入れて発行できる（作成ページで画像15MB/動画30MB、名前・シンボル・画像は作成後に変更不可と明記）ため、第三者が他人の顔写真でコインを作ることに同意確認の仕組みはない。(3) 一方、$12K収益・297Kフォロワー・52.3M再生・$45Kピーク・$161K出来高・保有者8人等は投稿者の推計／個別コインの値で、こちらでは一次確認していない（unverified）。【未確認】Terms Section 32 の Prohibited Jurisdiction の国別リストは本文が取得上限で切れ、具体的な国名を確認できていない（英国でブロックとの外部報道はあるが一次情報では未確認）。米国等での提供可否、創業者・運営会社の詳細、公式の書き込み系API／オンチェーンSDKの有無も未確認（Developer APIは明示的に読み取り専用で、取引・署名は不可）。https://pump.fun/ 本体はCloudflareのbotチェレンジで平文HTTPには403を返す（ヘッドレスでは描画成功）。【リスク】ミームコインは内在価値がなく投機的で全額損失があり得る（TermsのRISK WARNING、Tokenized Agent Disclaimer）。手数料は予告なく改定されうる。18歳以上・Prohibited Jurisdiction除外・制裁/AMLスクリーニングあり。第三者による肖像・商標の無断利用と、それに対するDMCA/商標ガイドライン上の削除対応が主な法的論点。
 - [treg REA growth](links/link-service/treg.to-treg-rea-growth.md) — unverified / 未確認: 無料クレジット取得にカード登録や本人確認が必要か、verified account の条件、表示価格の税・通貨換算。料金はプロバイダのレート次第で変動し、$0.58 や各レートは 2026-11 時点の掲載値。ショーケース（Lovable の被リンク数・流入推定など）はベンダー自身の実行記録で、第三者の追試はない。当方ではスキルを実行しておらず出力品質は未検証。X 連携は treg の X アプリ経由だと自前キーでも従量課金。GitHub API の license は NOASSERTION だが LICENSE 本文は Apache-2.0。

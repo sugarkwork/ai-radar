@@ -1,5 +1,5 @@
 {
-  "count": 1414,
+  "count": 1415,
   "items": [
     {
       "repo": "mrdoob/three.js",
@@ -21843,6 +21843,27 @@
       "fetched_at": "2026-11-13T22:09:24Z",
       "path": "links/link-service/raphael.app-raphael-ai.md",
       "summary": "ブラウザー上でAI画像を生成・編集するWebサービス。"
+    },
+    {
+      "name": "Sakutto - Local AI translation",
+      "genre": "link-service",
+      "url": "https://chromewebstore.google.com/detail/sakutto-local-ai-translat/mhlbjjijfkoghmcjndgdimhdlfkhadfl",
+      "pricing": "free",
+      "pricing_detail": "Chrome ウェブストアと作者のREADMEは無料、広告なし、課金機能なしと説明。初回にPLaMoモデルのダウンロードとライセンス同意が必要。",
+      "signup_required": false,
+      "flags": [
+        "unverified"
+      ],
+      "risk_notes": "ページ本文や選択範囲は既定で端末内処理と作者は説明しているが、モデル取得時は Hugging Face への通信が発生する。設定で任意のローカルサーバーを指定した場合、翻訳文はそのURLへ送信される。これらは掲載元の説明であり、独立した実機検証ではない。",
+      "type": "link",
+      "added": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "https://x.com/RoundtableSpace/status/2119274964054639103"
+      ],
+      "fetched_at": "2026-11-18T15:37:13Z",
+      "path": "links/link-service/chromewebstore.google.com-sakutto-local-ai-translation.md",
+      "summary": "Chrome上でWebページを読みながら翻訳する拡張機能。作者の説明では、既定の翻訳処理は端末内で行われる。"
     },
     {
       "name": "ScaleDown",
