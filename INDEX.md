@@ -2,9 +2,9 @@
 
 全件の一覧。README には件数のみを載せている。
 
-収録 1530 件 — リポジトリ 1086, リンク集 125, 記事 250, モデル 55, プロンプト 14 / ⚑ 要確認 1251 件
+収録 1531 件 — リポジトリ 1087, リンク集 125, 記事 250, モデル 55, プロンプト 14 / ⚑ 要確認 1252 件
 
-## リポジトリ（1086）
+## リポジトリ（1087）
 
 ★=スター / fork=フォーク / 更新頻度=直近30日のコミット数から判定（毎日・週次・月次・停滞） / 30日commit=直近30日（最大100件まで計測） / 最終push=上流の最終push日 / 取得=GitHub API から取得した日 / 記録更新=このエントリの最終更新日
 
@@ -291,7 +291,7 @@
 | [Knowlective](entries/other/knowlective-org-knowlective.md) | 0 | 0 | 毎日 | 100+ | 2026-11-19 | 2026-11-19 |  | AGPL-3.0 |
 | [LapDraw](entries/other/sachinyadavaug20-lapdraw.md) ⚑ | 0 | 0 | 毎日 | 22 | 2026-11-07 | 2026-11-13 |  | MIT |
 
-### コーディングエージェント（164）
+### コーディングエージェント（165）
 
 | 名前 | ★ | fork | 更新頻度 | 30日commit | 最終push | 取得 | 記録更新 | ライセンス |
 |---|---:|---:|---|---:|---|---|---|---|
@@ -420,6 +420,7 @@
 | [OnlyShot](entries/coding-agent/a-cat-with-carrots-onlyshot.md) ⚑ | 416 | 45 | 週次 | 13 | 2026-11-12 | 2026-11-16 |  | MIT |
 | [Typefree](entries/coding-agent/kdsz001-typefree.md) ⚑ | 398 | 70 | 月次 | 2 | 2026-10-28 | 2026-11-16 |  | unknown |
 | [Video Studio Skill](entries/coding-agent/aaitor-skill-video-studio.md) ⚑ | 397 | 14 | 週次 | 8 | 2026-11-04 | 2026-11-16 |  | MIT |
+| [safeagents](entries/coding-agent/huggingface-safeagents.md) ⚑ | 396 | 39 | 毎日 | 42 | 2026-11-18 | 2026-11-20 | 2026-11-23 | Apache-2.0 |
 | [sakurai-skill](entries/coding-agent/kociden-sakurai-skill.md) ⚑ | 373 | 24 | 週次 | 5 | 2026-11-12 | 2026-11-16 |  | unknown |
 | [xAI Plugin Marketplace](entries/coding-agent/xai-org-plugin-marketplace.md) ⚑ | 333 | 1,292 | 毎日 | 25 | 2026-11-16 | 2026-11-16 |  | unknown |
 | [P&ID to Knowledge Graph](entries/coding-agent/scottduncanai-pid-to-knowledge-graph.md) ⚑ | 289 | 58 | 月次 | 3 | 2026-11-08 | 2026-11-16 |  | MIT |
@@ -2440,6 +2441,7 @@
 - [OnlyShot](entries/coding-agent/a-cat-with-carrots-onlyshot.md) — unverified / README記載の积分・費用は作者による2026-05時点の実測報告であり、独立実測ではない。
 - [Typefree](entries/coding-agent/kdsz001-typefree.md) — unverified / GitHub APIでライセンスを確認できていません。
 - [Video Studio Skill](entries/coding-agent/aaitor-skill-video-studio.md) — unverified / 全工程の実行にはローカルのツール環境が必要。README記載の本番要件はNode.js 22以上、FFmpeg/ffprobe、Chromiumおよび補助ツール固有のPython依存関係。ナレーションやアバターには追加サービスまたはGPU環境が必要。効果や費用は確認できない。
+- [safeagents](entries/coding-agent/huggingface-safeagents.md) — unverified / README上、mediumの検知は既定のblock-severity=highでは遮断されず、judge未設定時は呼び出しがそのまま通る。README記載の検知速度は作者の報告で、独立実測ではない。
 - [sakurai-skill](entries/coding-agent/kociden-sakurai-skill.md) — low-quality, unverified / READMEによると、内容は動画の自動字幕をAIが要約したもので、聞き取り誤りが残る可能性があります。 リポジトリのライセンスは不明です。READMEは、要約が自動字幕に基づき聞き取り誤りが残る可能性を明記しています。 GitHub APIでライセンスを確認できていません。
 - [xAI Plugin Marketplace](entries/coding-agent/xai-org-plugin-marketplace.md) — unverified / ['最新リリースのタグと公開日は未確認。プラグインの導入・実行、個別機能の有効性や安全性、料金、ライセンスおよび利用条件は未検証。README は公開 raw URL で確認した。'] GitHub APIでライセンスを確認できていません。
 - [P&ID to Knowledge Graph](entries/coding-agent/scottduncanai-pid-to-knowledge-graph.md) — unverified / Python 3.13以降ではOCRによる照合と自動ページ方向調整が利用できない。抽出品質は図面の判読性に依存し、制御説明文や原因・結果分析にのみあるロジックは抽出対象外とREADMEに記載されている。
